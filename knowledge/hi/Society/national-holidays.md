@@ -28,6 +28,7 @@ relatedDiary: ['2026-06-19-103421-manual']
 translatedFrom: 'Society/國定假日.md'
 sourceCommitSha: 'ddb9590b6'
 sourceContentHash: 'sha256:0acd5b8de068abbb'
+sourceBodyHash: 'sha256:68d627d331e8bf54'
 translatedAt: '2026-09-24T22:30:21.988086+00:00'
 ---
 

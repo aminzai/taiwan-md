@@ -21,6 +21,7 @@ readingTime: 12
 translatedFrom: Geography/台灣都市發展與城鄉差距.md
 sourceCommitSha: f45a19331
 sourceContentHash: sha256:bfa78a33fd163a9a
+sourceBodyHash: 'sha256:aa0440f383f174b1'
 translatedAt: 2026-09-10T00:00:00+08:00
 ---
 

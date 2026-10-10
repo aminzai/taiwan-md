@@ -23,6 +23,7 @@ readingTime: 18
 translatedFrom: 'Society/台灣動物用藥爭議.md'
 sourceCommitSha: '9a60e8fdf'
 sourceContentHash: 'sha256:400d675ceaf05f40'
+sourceBodyHash: 'sha256:58df60a34bbdc3ea'
 translatedAt: '2026-09-14T04:28:44.838890+00:00'
 ---
 

@@ -20,6 +20,7 @@ readingTime: 12
 translatedFrom: 'Politics/直轄市山地原住民區長.md'
 sourceCommitSha: 'e957cf7f1'
 sourceContentHash: 'sha256:0746c045bf4a4492'
+sourceBodyHash: 'sha256:4dad7b27d2c04ae8'
 translatedAt: '2026-08-02T14:36:49.531605+00:00'
 ---
 

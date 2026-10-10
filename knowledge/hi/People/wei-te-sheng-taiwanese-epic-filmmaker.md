@@ -22,6 +22,7 @@ readingTime: 7
 translatedFrom: 'People/魏德聖.md'
 sourceCommitSha: '8f070a887'
 sourceContentHash: 'sha256:3df4d3f96096486a'
+sourceBodyHash: 'sha256:9fd756dd61905363'
 translatedAt: '2026-07-30T05:09:57.336147+00:00'
 ---
 

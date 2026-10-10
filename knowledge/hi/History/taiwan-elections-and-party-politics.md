@@ -21,6 +21,7 @@ readingTime: 18
 translatedFrom: 'History/台灣選舉與政黨政治.md'
 sourceCommitSha: '9cef725ce'
 sourceContentHash: 'sha256:bee6db6cebb342a7'
+sourceBodyHash: 'sha256:cf2cbcf164430410'
 translatedAt: '2026-09-09T15:32:21+08:00'
 updateLog:
   - date: '2026-04-07'

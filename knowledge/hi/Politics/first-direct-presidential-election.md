@@ -21,6 +21,7 @@ curation: 'incubating'
 translatedFrom: 'Politics/第一次總統直選.md'
 sourceCommitSha: '0cbc25416'
 sourceContentHash: 'sha256:f6ec890028398bdc'
+sourceBodyHash: 'sha256:7f3db8811cfb9799'
 translatedAt: '2026-09-12T01:02:31.609381+00:00'
 ---
 

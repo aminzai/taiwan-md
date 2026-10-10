@@ -32,6 +32,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:COVID-19_vaccinations_in_E
 translatedFrom: 'Society/台灣新冠疫情與疫苗.md'
 sourceCommitSha: 'fa44ba5a9'
 sourceContentHash: 'sha256:1533ad6bc4336b4a'
+sourceBodyHash: 'sha256:40600aa18fa8f8d1'
 translatedAt: '2026-09-26T11:20:08.784427+00:00'
 ---
 

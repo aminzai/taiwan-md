@@ -23,6 +23,7 @@ curation: 'incubating'
 translatedFrom: 'People/王大閎.md'
 sourceCommitSha: 'b90ca43b0'
 sourceContentHash: 'sha256:4cbd176678ae5ebb'
+sourceBodyHash: 'sha256:4ff2706afa6c57f6'
 translatedAt: '2026-09-11T12:06:10.507925+00:00'
 ---
 

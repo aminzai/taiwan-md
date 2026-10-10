@@ -23,6 +23,7 @@ readingTime: 15
 translatedFrom: 'History/臺灣議會設置請願運動.md'
 sourceCommitSha: '1625b24f7'
 sourceContentHash: 'sha256:ed19a67a28e57807'
+sourceBodyHash: 'sha256:3441000e1e1b1dde'
 translatedAt: '2026-09-11T03:15:39.275262+00:00'
 ---
 

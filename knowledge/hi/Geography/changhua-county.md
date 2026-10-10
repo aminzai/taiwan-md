@@ -29,6 +29,7 @@ imageNote: '原 Wikimedia 圖檔已從 Commons 下架（404 Not Found），卡�
 translatedFrom: 'Geography/彰化縣.md'
 sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:00e1a69c65bae412'
+sourceBodyHash: 'sha256:83c1d8ae2ebcca91'
 translatedAt: '2026-09-08T23:47:58.125753+00:00'
 ---
 

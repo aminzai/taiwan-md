@@ -32,6 +32,7 @@ relatedDiary: ['2026-08-15-164407-manual']
 translatedFrom: 'Economy/文化內容策進院.md'
 sourceCommitSha: 'd704d4e52'
 sourceContentHash: 'sha256:1d88a269185c0f26'
+sourceBodyHash: 'sha256:4edf7ea542f945d0'
 translatedAt: '2026-09-26T14:07:42.065258+00:00'
 ---
 

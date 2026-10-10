@@ -39,6 +39,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E9%BE%8D%E5%B3%9
 translatedFrom: 'Geography/大龍峒.md'
 sourceCommitSha: 'fe48ea49d'
 sourceContentHash: 'sha256:f87ff405665ac8f6'
+sourceBodyHash: 'sha256:53b18682028046a0'
 translatedAt: '2026-09-26T13:53:57.254565+00:00'
 ---
 

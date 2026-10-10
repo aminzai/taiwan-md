@@ -13,6 +13,7 @@ readingTime: 7
 translatedFrom: 'People/伍佰.md'
 sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:71bb6dc9665fc922'
+sourceBodyHash: 'sha256:fb05d9869b96635c'
 translatedAt: '2026-08-03T23:02:21.539863+00:00'
 ---
 

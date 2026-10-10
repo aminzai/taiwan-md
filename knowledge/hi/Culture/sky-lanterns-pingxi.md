@@ -36,6 +36,7 @@ rationale:
 translatedFrom: 'Culture/天燈.md'
 sourceCommitSha: '31a05c44b'
 sourceContentHash: 'sha256:bd2dad6040cda655'
+sourceBodyHash: 'sha256:1f654961432cc687'
 translatedAt: '2026-07-30T21:50:57.044486+00:00'
 ---
 

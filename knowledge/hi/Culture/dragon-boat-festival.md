@@ -35,6 +35,7 @@ sporeLinks:
 translatedFrom: 'Culture/端午節.md'
 sourceCommitSha: '58fa84f01'
 sourceContentHash: 'sha256:c31335e314326f55'
+sourceBodyHash: 'sha256:5410e4f9f881b327'
 translatedAt: '2026-09-26T04:38:37.130262+00:00'
 ---
 

@@ -31,6 +31,7 @@ rationale:
 translatedFrom: 'Art/看不見的國家.md'
 sourceCommitSha: '31a05c44b'
 sourceContentHash: 'sha256:fd6fc02e66010c96'
+sourceBodyHash: 'sha256:00c160f3d2bfc5b4'
 translatedAt: '2026-09-20T06:43:03.121486+00:00'
 ---
 

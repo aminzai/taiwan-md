@@ -33,6 +33,7 @@ sporeLinks:
 translatedFrom: 'Society/認知作戰.md'
 sourceCommitSha: '7c4a58918'
 sourceContentHash: 'sha256:023994ebb54581de'
+sourceBodyHash: 'sha256:0fcafeba09518f70'
 translatedAt: '2026-09-26T03:42:00.423975+00:00'
 ---
 

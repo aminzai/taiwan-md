@@ -14,6 +14,7 @@ curation: 'incubating'
 translatedFrom: 'Food/香蕉王國.md'
 sourceCommitSha: '84ebf5ae8'
 sourceContentHash: 'sha256:642056c48559793a'
+sourceBodyHash: 'sha256:fc73e90b8bb78029'
 translatedAt: '2026-09-11T10:00:46.359516+00:00'
 ---
 

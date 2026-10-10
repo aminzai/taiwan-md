@@ -31,6 +31,7 @@ relatedDiary: ['2026-06-13-183725-深度研究-台灣國片']
 translatedFrom: 'Art/台灣電影.md'
 sourceCommitSha: 'cc6f9d9b3'
 sourceContentHash: 'sha256:4eec1818bd85149d'
+sourceBodyHash: 'sha256:9c00635e5ed9da36'
 translatedAt: '2026-09-19T09:04:34.368958+00:00'
 ---
 

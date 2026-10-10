@@ -31,6 +31,7 @@ curation: incubating
 translatedFrom: 'Geography/桃園埤塘.md'
 sourceCommitSha: 'e974b4c9'
 sourceContentHash: 'sha256:7397e54a88091d6e'
+sourceBodyHash: 'sha256:3f4ab58302003b2a'
 translatedAt: '2026-09-15T23:13:22Z'
 ---
 

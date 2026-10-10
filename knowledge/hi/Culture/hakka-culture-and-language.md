@@ -14,6 +14,7 @@ readingTime: 14
 translatedFrom: 'Culture/客家文化與語言.md'
 sourceCommitSha: 'a43cf9153'
 sourceContentHash: 'sha256:ba1f35e6b92befb7'
+sourceBodyHash: 'sha256:b5324c6cea623600'
 translatedAt: '2026-07-28T14:48:07.073300+00:00'
 ---
 

@@ -22,6 +22,7 @@ curation: 'incubating'
 translatedFrom: 'Nature/帝雉.md'
 sourceCommitSha: '0b38889d6'
 sourceContentHash: 'sha256:e9fddb2ddeadeb96'
+sourceBodyHash: 'sha256:f114fc7180bbb45a'
 translatedAt: '2026-09-14T21:16:50.080848+00:00'
 ---
 

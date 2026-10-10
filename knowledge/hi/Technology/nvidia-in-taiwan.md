@@ -27,6 +27,7 @@ image: '/article-images/technology/computex-jensen-huang-2016.webp'
 translatedFrom: 'Technology/NVIDIA在台灣.md'
 sourceCommitSha: '0df538d8c'
 sourceContentHash: 'sha256:a7a044b9c6def84a'
+sourceBodyHash: 'sha256:5412b8ae390af1fa'
 translatedAt: '2026-09-24T01:21:10.061511+00:00'
 ---
 

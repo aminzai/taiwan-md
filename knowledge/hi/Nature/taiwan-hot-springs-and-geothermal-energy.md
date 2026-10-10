@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'Nature/台灣溫泉與地熱.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:1d2aaaa2ec78974a'
+sourceBodyHash: 'sha256:76aaf6bdf8e233fe'
 translatedAt: '2026-07-25T06:36:46.571512+00:00'
 ---
 

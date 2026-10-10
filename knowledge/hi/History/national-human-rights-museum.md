@@ -35,6 +35,7 @@ sporeLinks:
 translatedFrom: 'History/國家人權博物館.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:2e55e7c10932cd0a'
+sourceBodyHash: 'sha256:8de971f3c7942edf'
 translatedAt: '2026-08-02T22:25:10.601374+00:00'
 ---
 

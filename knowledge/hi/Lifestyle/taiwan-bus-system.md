@@ -35,6 +35,7 @@ relatedDiary: ['2026-06-25-204254-公車系統']
 translatedFrom: 'Lifestyle/台灣的公車系統.md'
 sourceCommitSha: '036f4f3f2'
 sourceContentHash: 'sha256:f05a2e0d9322fb19'
+sourceBodyHash: 'sha256:03dd96b03caf8931'
 translatedAt: '2026-09-21T20:09:03.851256+00:00'
 ---
 

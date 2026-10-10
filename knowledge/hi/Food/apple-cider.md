@@ -33,6 +33,7 @@ sporeLinks:
 translatedFrom: 'Food/蘋果西打.md'
 sourceCommitSha: '31a05c44b'
 sourceContentHash: 'sha256:6b015b027c9938c2'
+sourceBodyHash: 'sha256:e2ac1f8b1495c588'
 translatedAt: '2026-07-29T17:20:02.950224+00:00'
 ---
 

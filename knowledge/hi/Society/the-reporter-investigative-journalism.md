@@ -40,6 +40,7 @@ sporeLinks:
 translatedFrom: 'Society/報導者.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:a77cf5a6d3100ed9'
+sourceBodyHash: 'sha256:ca526dda99de158c'
 translatedAt: '2026-09-25T23:43:33.056207+00:00'
 ---
 

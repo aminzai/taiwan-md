@@ -23,6 +23,7 @@ readingTime: 8
 translatedFrom: 'Food/台灣滷肉飯.md'
 sourceCommitSha: '30569f74'
 sourceContentHash: 'sha256:6170c025ca20811f'
+sourceBodyHash: 'sha256:41cfdb3eed2dcde1'
 translatedAt: '2026-08-27T22:20:31+08:00'
 ---
 

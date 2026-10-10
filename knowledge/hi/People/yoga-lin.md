@@ -26,6 +26,7 @@ readingTime: 10
 translatedFrom: 'People/林宥嘉.md'
 sourceCommitSha: 'b358c8028'
 sourceContentHash: 'sha256:e069bb61247f5e4b'
+sourceBodyHash: 'sha256:e37ed40c36801365'
 translatedAt: '2026-08-03T07:17:24.956264+00:00'
 ---
 

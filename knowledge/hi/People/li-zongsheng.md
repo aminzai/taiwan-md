@@ -26,6 +26,7 @@ rationale:
 translatedFrom: 'People/李宗盛.md'
 sourceCommitSha: 'db2633671'
 sourceContentHash: 'sha256:cae032d995bba4cf'
+sourceBodyHash: 'sha256:e6fee31313863c50'
 translatedAt: '2026-07-29T20:35:40.988442+00:00'
 ---
 

@@ -20,6 +20,7 @@ readingTime: 10
 translatedFrom: 'Politics/選舉公報.md'
 sourceCommitSha: 'e957cf7f1'
 sourceContentHash: 'sha256:48c230f3d6f5b004'
+sourceBodyHash: 'sha256:2cdc1f033ad2b6b9'
 translatedAt: '2026-08-02T15:53:20.809684+00:00'
 ---
 

@@ -26,6 +26,7 @@ rationale:
 translatedFrom: 'History/1935新竹臺中地震.md'
 sourceCommitSha: '13c7fbcdb'
 sourceContentHash: 'sha256:ef85702048b1e5855a0c9bcfbc16e82d6f8ec525923fba2414965abe85ba368c'
+sourceBodyHash: 'sha256:7541a1d205619b0c'
 translatedAt: '2026-09-09T20:18:58+00:00'
 readingTime: 10
 curation: incubating

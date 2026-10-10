@@ -33,6 +33,7 @@ relatedDiary: ['2026-09-19-003000-news-radar']
 translatedFrom: 'Society/誰算低薪.md'
 sourceCommitSha: 'b10ec653b'
 sourceContentHash: 'sha256:7abbe410b7f9a4d8'
+sourceBodyHash: 'sha256:3232aa3ffbbe2f4d'
 translatedAt: '2026-09-26T05:01:58.790432+00:00'
 ---
 

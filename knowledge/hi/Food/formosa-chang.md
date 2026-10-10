@@ -25,6 +25,7 @@ curation: 'incubating'
 translatedFrom: 'Food/鬍鬚張.md'
 sourceCommitSha: 'a923e393d'
 sourceContentHash: 'sha256:c7f47c37ece6881d'
+sourceBodyHash: 'sha256:8824b980fb94339c'
 translatedAt: '2026-08-09T22:52:31.421966+00:00'
 ---
 

@@ -21,6 +21,7 @@ terminology_exempt: true
 translatedFrom: 'Culture/台灣華語的演化.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:201c74c4f0375352'
+sourceBodyHash: 'sha256:0b62bbb2f4c7cd6b'
 translatedAt: '2026-08-10T02:54:45.666478+00:00'
 ---
 

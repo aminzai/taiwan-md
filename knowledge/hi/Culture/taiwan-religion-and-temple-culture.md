@@ -34,6 +34,7 @@ sporeLinks:
 translatedFrom: 'Culture/台灣宗教與寺廟文化.md'
 sourceCommitSha: '4f3974f86'
 sourceContentHash: 'sha256:e70a2042c1d5dde1'
+sourceBodyHash: 'sha256:686b83435fcce4c2'
 translatedAt: '2026-09-23T15:16:35.917077+00:00'
 ---
 

@@ -14,6 +14,7 @@ curation: 'incubating'
 translatedFrom: 'Food/青草茶.md'
 sourceCommitSha: 'bfdca09d9'
 sourceContentHash: 'sha256:c3e32849fa506f33'
+sourceBodyHash: 'sha256:ff4f41549ee43a1c'
 translatedAt: '2026-09-10T10:35:50.876501+00:00'
 ---
 

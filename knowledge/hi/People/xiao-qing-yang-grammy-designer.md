@@ -19,6 +19,7 @@ lastHumanReview: false
 translatedFrom: 'People/蕭青陽.md'
 sourceCommitSha: '18157ab5d'
 sourceContentHash: 'sha256:f24974c7e35648df'
+sourceBodyHash: 'sha256:269ea0687b8a4a49'
 translatedAt: '2026-08-06T22:18:08.295540+00:00'
 ---
 

@@ -39,6 +39,7 @@ sporeLinks:
 translatedFrom: 'Society/醫療法.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:a87fc88d09f6e189'
+sourceBodyHash: 'sha256:3a7e69bdd14827b6'
 translatedAt: '2026-09-18T03:18:05.037267+00:00'
 ---
 

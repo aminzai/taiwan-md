@@ -24,6 +24,7 @@ researchReport: 'reports/research/2026-04/戰後台灣文學.md'
 translatedFrom: 'Art/戰後台灣文學.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:688354040345de96'
+sourceBodyHash: 'sha256:70ed7e6c666d6fb7'
 translatedAt: '2026-09-26T05:21:25.710461+00:00'
 ---
 

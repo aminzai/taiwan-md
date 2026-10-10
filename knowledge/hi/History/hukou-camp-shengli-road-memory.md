@@ -22,6 +22,7 @@ curation: 'incubating'
 translatedFrom: 'History/湖口營區與勝利路記憶.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:974d882aea2dc539'
+sourceBodyHash: 'sha256:67689aef546b2c21'
 translatedAt: '2026-08-04T12:54:18.534118+00:00'
 ---
 
