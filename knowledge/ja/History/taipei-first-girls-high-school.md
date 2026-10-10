@@ -3,7 +3,7 @@ title: '北一女中：女子校園がいかに進学、身体、公共記憶を
 description: '1904年の植民地選別から1952年の防空緑制服まで、北一女中は台湾女性リーダーシップの揺籃であるだけでなく、縮小された空間政治博物館でもあります。'
 category: 'History'
 date: 2026-08-26
-tags: ['教育、建築、女性史、台北、古蹟']
+tags: ['教育', '建築', '女性史', '台北', '古蹟']
 subcategory: '社會與日常史'
 author: 'Taiwan.md Contributors'
 featured: false

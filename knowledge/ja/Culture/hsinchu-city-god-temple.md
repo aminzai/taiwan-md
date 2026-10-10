@@ -3,7 +3,7 @@ title: '新竹都城隍廟：先に神明あり、後に官府ありの竹塹城
 description: '1748年に竣工した新竹都城隍廟は、1756年に完成した淡水廳署に先行しました。それは単なる古蹟の保存ではなく、官府、祭典、工芸、そして新竹市民の都市記憶を同じ廟埕に重ねています。'
 date: 2026-08-24
 category: 'Culture'
-tags: ['新竹、城隍、廟宇、竹塹、文化資産']
+tags: ['新竹', '城隍', '廟宇', '竹塹', '文化資産']
 subcategory: '廟宇建築與地方民俗'
 author: 'Taiwan.md Contributors'
 featured: false
