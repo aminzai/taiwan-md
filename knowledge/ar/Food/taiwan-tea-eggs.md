@@ -171,6 +171,6 @@ _التوضيح: بيضة شاي مقطعة تظهر الملمس المشكل �
 
 [^14]: [File:Tea eggs of FamilyMart Beijie Store 20190810.jpg](https://commons.wikimedia.org/wiki/File:Tea_eggs_of_FamilyMart_Beijie_Store_20190810.jpg) — انظر المحتوى في الرابط الأصلي للبيانات الإضافية
 
-[^15]: [File:Marble Tea Eggs (茶葉蛋).jpg](<https://commons.wikimedia.org/wiki/File:Marble_Tea_Eggs_(%E8%8C%B6%E8%91%B6%E8%9B%8B).jpg>) — انظر المحتوى في الرابط الأصلي للبيانات الإضافية
+[^15]: [File:Marble Tea Eggs (茶葉蛋).jpg](https://commons.wikimedia.org/wiki/File:Marble_Tea_Eggs_(%E8%8C%B6%E8%91%B6%E8%9B%8B) — انظر المحتوى في الرابط الأصلي للبيانات الإضافية
 
 _هذا مقال منسق من Taiwan.md؛ الروايات الواقعية يتم التحقق منها عنصراً تلو الآخر مقابل المراجع؛ تعبر ملاحظات أمين المعرض عن وجهات نظر صريحة._

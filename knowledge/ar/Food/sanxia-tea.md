@@ -124,7 +124,7 @@ translatedAt: '2026-07-25T09:23:16+08:00'
 
 [^13]: [明德高中校本特色課程：三峽學-學三峽](https://expo.efroip.tw/ischool/publish_page/18/) — 新北市立明德高中介紹如何透過跨領域教學凝聚學生地方感
 
-[^14]: [北大高中校訂課程實踐：鳶山峽客行](https://www.yphs.tp.edu.tw/wp-content/uploads/doc/yp1966/%E6%A0%A1%E8%A8%B2%E8%AA%B2%E7%A8%B1%E7%9A%84%E5%AF%A6%E8%81%9A-%E9%B3%B6%E5%B1%B1%E5%B3%BD%E5%AE%A2%E8%A1%8C-%E6%A9%AB%E7%B9%AA%E7%A2%A7%E8%8C%B6%E9%84%89%E7%9A%84%E5%89%B5%E7%94%9F%E5%82%B3%E5%A5%87.pdf) — 北大高中分享如何結合茶與染兩大主題推動地方創生與國際交流
+[^14]: [北大高中校訂課程實踐：鳶山峽客行](https://www.yphs.tp.edu.tw/wp-content/uploads/doc/yp1966/%E6%A0%A1%E8%A8%82%E8%AA%B2%E7%A8%8B%E7%9A%84%E5%AF%A6%E8%B8%90-%E9%B3%B6%E5%B1%B1%E5%B3%BD%E5%AE%A2%E8%A1%8C-%E6%9F%93%E7%B9%AA%E7%A2%A7%E8%8C%B6%E9%84%89%E7%9A%84%E5%89%B5%E7%94%9F%E5%82%B3%E5%A5%87.pdf) — 北大高中分享如何結合茶與染兩大主題推動地方創生與國際交流
 
 [^15]: [三峽國中旅讀三鶯課程：手工龍井製作體驗](https://cci.ntpc.edu.tw/cht/index.php?code=list&ids=25&class_id=17020) — 新北市三鶯社區大學紀錄三峽國中學生參與手工龍井製作與文史走讀的實踐
 

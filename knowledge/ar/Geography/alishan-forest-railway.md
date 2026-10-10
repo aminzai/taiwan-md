@@ -150,4 +150,4 @@ _الصورة: منظر لرصيف محطة بيمن من خارج عربة سك
 
 [^10]: [Wikimedia Commons: File:Taiwan, Alishan Forest Railway 'DL 36' at Beimen.jpg](https://commons.wikimedia.org/wiki/File:Taiwan,_Alishan_Forest_Railway_%27DL_36%27_at_Beimen.jpg) — المصوّر Industrial Wales، مرخّصة بموجب المشاع الإبداعي نسب المصنف - الترخيص بالمثل 2.0، والصورة مضمّنة عبر الرابط المباشر للملف الأصلي، دون تنزيل أو إعادة استضافة.
 
-[^11]: [Wikimedia Commons: File:Alishan Forest Railway, Beimen Station, Chiayi City (Taiwan).jpg](<https://commons.wikimedia.org/wiki/File:Alishan_Forest_Railway,_Beimen_Station,_Chiayi_CIty_(Taiwan).jpg>) — المصوّر Malcolm Koo، مرخّصة بموجب المشاع الإبداعي نسب المصنف - الترخيص بالمثل 4.0، والصورة مضمّنة عبر الرابط المباشر للملف الأصلي، دون تنزيل أو إعادة استضافة.
+[^11]: [Wikimedia Commons: File:Alishan Forest Railway, Beimen Station, Chiayi City (Taiwan).jpg](https://commons.wikimedia.org/wiki/File:Alishan_Forest_Railway,_Beimen_Station,_Chiayi_CIty_(Taiwan) — المصوّر Malcolm Koo، مرخّصة بموجب المشاع الإبداعي نسب المصنف - الترخيص بالمثل 4.0، والصورة مضمّنة عبر الرابط المباشر للملف الأصلي، دون تنزيل أو إعادة استضافة.
