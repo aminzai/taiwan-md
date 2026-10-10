@@ -157,12 +157,12 @@ Và bây giờ, trên cây Gỗ Tâm Đen ở độ cao 1.800 mét, hai con chim
 
 **Đọc thêm**:
 
-- [Bảo tàng lịch sử học chim Formosa](/nature/福爾摩沙鳥類學) — Cú Mồi Vàng mới được đặt tên năm 1916, thuộc một trong những loài chim để lại được "phát hiện" bởi bảo tàng lịch sử vào cuối thời Nhật trị, có thể thấy cấu trúc thời gian của nghiên cứu chim học Đài Loan
-- [Cá hồi Sakura có móc mép](/nature/櫻花鉤吻鮭) — Cả hai chia sẻ hệ sinh thái sông Thất Gia Vịnh, Tôn Nguyên Hùng cùng kỳ được Tuyết Ba ủy thác cho hai loài động vật, hai đầu của cộng đồng sinh cảnh
-- [Gấu đen Đài Loan](/nature/台灣黑熊) — Cũng là một loài được phòng lab Đại học Bình Đông Khoa học Nông nghiệp theo dõi lâu dài, cả hai đều phụ thuộc vào môi trường cây cổ thụ cao độ trung bình
-- [Hệ sinh thái rừng Đài Loan](/nature/台灣森林生態系) — Cây cổ thụ có đường kính ngực từ 1 mét trở lên và tỷ lệ rừng tự nhiên, Cú Mồi Vàng là người đại diện kịch tính nhất của "loài chim cây cổ"
-- [Thanh kiếm Phượng Hoàng sông Đại An](/nature/大安溪倚天劍) — Cũng được che giấu trong độ sâu của Tuyết Ba, sống sót nhờ "con người không tới được"; thung lũng sông gốc của đó không bị cải tạo, là nơi cư trú mà Cú Mồi Vàng phụ thuộc
-- [Công viên Quốc gia Đài Loan](/nature/台灣國家公園) — Công viên Quốc gia Tuyết Ba, Đại Lộc Các, Ngọc Sơn là pháo đài cuối cùng của quần thể Cú Mồi Vàng ổn định, trường hợp cụ thể của chế độ khu bảo vệ
+- [Bảo tàng lịch sử học chim Formosa](/vi/nature/the-ornithology-of-formosa) — Cú Mồi Vàng mới được đặt tên năm 1916, thuộc một trong những loài chim để lại được "phát hiện" bởi bảo tàng lịch sử vào cuối thời Nhật trị, có thể thấy cấu trúc thời gian của nghiên cứu chim học Đài Loan
+- [Cá hồi Sakura có móc mép](/vi/nature/formosan-landlocked-salmon) — Cả hai chia sẻ hệ sinh thái sông Thất Gia Vịnh, Tôn Nguyên Hùng cùng kỳ được Tuyết Ba ủy thác cho hai loài động vật, hai đầu của cộng đồng sinh cảnh
+- [Gấu đen Đài Loan](/vi/nature/taiwanese-black-bear) — Cũng là một loài được phòng lab Đại học Bình Đông Khoa học Nông nghiệp theo dõi lâu dài, cả hai đều phụ thuộc vào môi trường cây cổ thụ cao độ trung bình
+- [Hệ sinh thái rừng Đài Loan](/vi/nature/taiwan-forest-ecosystems) — Cây cổ thụ có đường kính ngực từ 1 mét trở lên và tỷ lệ rừng tự nhiên, Cú Mồi Vàng là người đại diện kịch tính nhất của "loài chim cây cổ"
+- [Thanh kiếm Phượng Hoàng sông Đại An](/vi/nature/daan-river-yitian-sword) — Cũng được che giấu trong độ sâu của Tuyết Ba, sống sót nhờ "con người không tới được"; thung lũng sông gốc của đó không bị cải tạo, là nơi cư trú mà Cú Mồi Vàng phụ thuộc
+- [Công viên Quốc gia Đài Loan](/vi/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — Công viên Quốc gia Tuyết Ba, Đại Lộc Các, Ngọc Sơn là pháo đài cuối cùng của quần thể Cú Mồi Vàng ổn định, trường hợp cụ thể của chế độ khu bảo vệ
 
 ## Nguồn hình ảnh
 

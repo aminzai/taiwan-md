@@ -561,7 +561,7 @@ Lõi của bảo vệ biển là công lý giữa các thế hệ: quyết đị
 
 **Đọc thêm**:
 
-- [Khủng hoảng khí hậu Đài Loan và chuyển đổi Net Zero](/nature/台灣氣候危機與淨零轉型) — Phát triển trắng san hô ở cửa xả nhà máy điện hạt nhân thứ ba, xung đột thủy sản của điện gió ngoài khơi, tranh chấp đánh giá môi trường của Ba Bình Algae: Biến đổi khí hậu sẽ tái định hình chiến trường quản lý biển như thế nào
+- [Khủng hoảng khí hậu Đài Loan và chuyển đổi Net Zero](/vi/nature/taiwan-climate-change-net-zero-transition) — Phát triển trắng san hô ở cửa xả nhà máy điện hạt nhân thứ ba, xung đột thủy sản của điện gió ngoài khơi, tranh chấp đánh giá môi trường của Ba Bình Algae: Biến đổi khí hậu sẽ tái định hình chiến trường quản lý biển như thế nào
 
 ## Tài liệu tham khảo
 

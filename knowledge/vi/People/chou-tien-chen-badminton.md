@@ -110,10 +110,10 @@ Trường Thiên Thành đã sớm đưa hoạt động công ích vào kế ho�
 **Đọc thêm**:
 
 - [Đại Thảo Nhiên](/vi/people/tai-tzu-ying) — Đối tác cùng thế hệ của Trường Thiên Thành, vị vẻ tài nhiệm mãn của cầu quần vải Đài Loan, cùng chia sẻ người thuyền trưởng dạy dắt.
-- [Lai Tông Vi](/people/李洋) — Từ huy chương Olympic cầu quần vải đến phó chưởng mẫu thể thao đầu tiên của Đài Loan.
-- [Hoàng Hạnh](/people/郭婞淳) — Cùng một cách đấu tranh với thiên tai và bất kỳ khó khăn nào, người đàn ông giành huy chương vàng Olympic với tay nâng.
-- [Lê Hữu Đạt](/people/林書豪) — Một gương mặt khác của người Đài Loan thay đổi những giả định về vận động viên Đông Á.
-- [Trung Hoa Dân Quốc](/society/中華台北) — Tên gọi "Chinese Taipei" mà Trường Thiên Thành tham dự, bối cảnh chính trị quốc tế.
+- [Lai Tông Vi](/vi/people/lee-yang-badminton) — Từ huy chương Olympic cầu quần vải đến phó chưởng mẫu thể thao đầu tiên của Đài Loan.
+- [Hoàng Hạnh](/vi/people/kuo-hsing-chun-olympic-weightlifting-champion) — Cùng một cách đấu tranh với thiên tai và bất kỳ khó khăn nào, người đàn ông giành huy chương vàng Olympic với tay nâng.
+- [Lê Hữu Đạt](/vi/people/jeremy-lin) — Một gương mặt khác của người Đài Loan thay đổi những giả định về vận động viên Đông Á.
+- [Trung Hoa Dân Quốc](/vi/society/chinese-taipei) — Tên gọi "Chinese Taipei" mà Trường Thiên Thành tham dự, bối cảnh chính trị quốc tế.
 
 ## Nguồn hình ảnh
 

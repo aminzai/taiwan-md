@@ -189,7 +189,7 @@ Con đường bảo tồn hải dương của Đài Loan vẫn đầy thách th�
 
 **Đọc thêm**:
 
-- [Biến đổi khí hậu và chuyển đổi carbon không phát thải của Đài Loan](/nature/台灣氣候危機與淨零轉型) — Tác động của nhiệt độ biển tăng lên đến trắng san hô, và phản ứng giảm carbon của Đài Loan
+- [Biến đổi khí hậu và chuyển đổi carbon không phát thải của Đài Loan](/vi/nature/taiwan-climate-change-net-zero-transition) — Tác động của nhiệt độ biển tăng lên đến trắng san hô, và phản ứng giảm carbon của Đài Loan
 
 ## Tài liệu tham khảo
 

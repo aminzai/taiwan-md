@@ -204,15 +204,15 @@ Lần tới đi Bình Đông, có thể ghé Vạn Kim, có thể đi một chuy
 
 ## Lời Đọc Thêm
 
-- [Lý Tiên Đắc](/people/李仙得) — Nhân vật nền tảng sự kiện Mậu Đan năm 1874, lời nói "man địa không nằm dưới sự cai trị của Trung Quốc" của vị tôn sứ Mỹ Giáo Môn Hà Môn này trực tiếp kích hoạt Nhật Bản xuất binh Bình Đông
-- [Sự kiện Lạc Phát Số và Trác Kỳ Đắc](/history/羅發號事件與卓杞篤) — Năm 1867 tàu thương nhân Mỹ Lạc Phát Số nạn vỡ tại mũi nam bán đảo Hằng Xuân, sớm hơn bốn năm so với sự kiện người Ryukyuan năm 1871 ở cùng vùng biển cùng lãnh địa Paiwan
-- [Quan Điểm Lịch Sử Đảo Đài Loan](/history/台灣島史觀) — Khung lịch sử đảo của Tào Vĩnh Hòa, lịch sử đa lớp bán đảo Bình Đông là triển khai cụ thể nhất của quan điểm lịch sử này
-- [Bành Hồ Quận](/geography/澎湖縣) — Loạt 22 tỉnh thành: hai lần từ chối bỏ phiếu nhân vật chọn lựa chủ quyền đảo, cùng Bình Đông "bị quên lãng phía nam cùng/tây cùng" bộ tộc địa lý
-- [Cơ Long Thị](/geography/基隆市) — Loạt 22 tỉnh thành một thành phố cảng khác bị thủ đô nhìn không thấy, cùng Bình Đông "nút giao tiếp then chốt mà tường thuật trung tâm bỏ sót"
-- [Liên Giang Quận](/geography/連江縣) — Loạt 22 tỉnh thành: di sản chiến trường cùng khoảng cách của tường thuật chủ lưu, cùng Bình ĐôngMậu Đan/Cao Sĩ Thần Xã kỷ niệm lớp kỷ niệm cân đối được đọc
-- [Ngụy Đức Thánh](/people/魏德聖) — 《Cảnh Góc Bảy Số》tại Hằng Xuân bắn ra 5,3 tỷ vé, đưa bán đảo nam Đài Loan vào kỷ niệm phim quốc gia
-- [Văn Hóa Tình Nguyện Thảm Họa Đài Loan](/society/台灣災難志工文化) — 88 bão thảm họa vùng núi cùng ven biển hai chiều như thế nào tái tạo dùng mạng lưới cứu nạn Đài Loan
-- [Bão](/nature/颱風) — Morakot mưa một ngày 1.897 milimet là điểm biến chuyển của mối quan hệ Đài Loan với bão
+- [Lý Tiên Đắc](/vi/people/charles-le-gendre) — Nhân vật nền tảng sự kiện Mậu Đan năm 1874, lời nói "man địa không nằm dưới sự cai trị của Trung Quốc" của vị tôn sứ Mỹ Giáo Môn Hà Môn này trực tiếp kích hoạt Nhật Bản xuất binh Bình Đông
+- [Sự kiện Lạc Phát Số và Trác Kỳ Đắc](/vi/history/rover-incident-and-tauketok) — Năm 1867 tàu thương nhân Mỹ Lạc Phát Số nạn vỡ tại mũi nam bán đảo Hằng Xuân, sớm hơn bốn năm so với sự kiện người Ryukyuan năm 1871 ở cùng vùng biển cùng lãnh địa Paiwan
+- [Quan Điểm Lịch Sử Đảo Đài Loan](/vi/history/taiwan-island-historiography) — Khung lịch sử đảo của Tào Vĩnh Hòa, lịch sử đa lớp bán đảo Bình Đông là triển khai cụ thể nhất của quan điểm lịch sử này
+- [Bành Hồ Quận](/vi/geography/penghu-county) — Loạt 22 tỉnh thành: hai lần từ chối bỏ phiếu nhân vật chọn lựa chủ quyền đảo, cùng Bình Đông "bị quên lãng phía nam cùng/tây cùng" bộ tộc địa lý
+- [Cơ Long Thị](/vi/geography/keelung-city) — Loạt 22 tỉnh thành một thành phố cảng khác bị thủ đô nhìn không thấy, cùng Bình Đông "nút giao tiếp then chốt mà tường thuật trung tâm bỏ sót"
+- [Liên Giang Quận](/vi/geography/lienchiang-county) — Loạt 22 tỉnh thành: di sản chiến trường cùng khoảng cách của tường thuật chủ lưu, cùng Bình ĐôngMậu Đan/Cao Sĩ Thần Xã kỷ niệm lớp kỷ niệm cân đối được đọc
+- [Ngụy Đức Thánh](/vi/people/wei-te-sheng-taiwanese-epic-filmmaker) — 《Cảnh Góc Bảy Số》tại Hằng Xuân bắn ra 5,3 tỷ vé, đưa bán đảo nam Đài Loan vào kỷ niệm phim quốc gia
+- [Văn Hóa Tình Nguyện Thảm Họa Đài Loan](/vi/society/taiwan-disaster-volunteer-culture) — 88 bão thảm họa vùng núi cùng ven biển hai chiều như thế nào tái tạo dùng mạng lưới cứu nạn Đài Loan
+- [Bão](/vi/nature/typhoons-in-taiwan) — Morakot mưa một ngày 1.897 milimet là điểm biến chuyển của mối quan hệ Đài Loan với bão
 
 ## Nguồn Ảnh
 

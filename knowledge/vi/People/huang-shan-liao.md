@@ -204,10 +204,10 @@ Không ai chú ý đến tủ “Kim Môn 1969”, vì thế nó biến mất; m
 **Đọc thêm**:
 
 - [Ngô Bảo Xuân](/vi/people/wu-bao-chun) — Một nghệ nhân Đài Loan khác từng vô địch thế giới; khác biệt là tay nghề của ông đã được nhìn thấy
-- [André Chiang](/people/江振誠) — Người xác lập vị trí cho đầu bếp Đài Loan trên sân khấu quốc tế, một số phận khác của con đường “làm ra thứ tốt”
-- [Trương Chí Kỳ](/people/張志祺) — Một “người tuyển chọn thông tin” cũng biến điều phức tạp thành dễ hiểu và tìm kiếm sự đồng cảm trong thời đại chú ý
-- [Jimmy Liao](/people/幾米) — Từ công ty quảng cáo chuyển thành nhà sáng tạo dòng chữa lành bán chạy quốc tế, một cách khác để được nhìn thấy
-- [Audrey Tang](/people/唐鳳) — Đài Loan đối xử thế nào với một người khó phân loại, một tấm gương khác
+- [André Chiang](/vi/people/andre-chiang-taiwanese-culinary-innovator) — Người xác lập vị trí cho đầu bếp Đài Loan trên sân khấu quốc tế, một số phận khác của con đường “làm ra thứ tốt”
+- [Trương Chí Kỳ](/vi/people/shasha77-chang-chih-chi) — Một “người tuyển chọn thông tin” cũng biến điều phức tạp thành dễ hiểu và tìm kiếm sự đồng cảm trong thời đại chú ý
+- [Jimmy Liao](/vi/people/jimmy-liao) — Từ công ty quảng cáo chuyển thành nhà sáng tạo dòng chữa lành bán chạy quốc tế, một cách khác để được nhìn thấy
+- [Audrey Tang](/vi/people/audrey-tang) — Đài Loan đối xử thế nào với một người khó phân loại, một tấm gương khác
 
 ## Nguồn hình ảnh
 

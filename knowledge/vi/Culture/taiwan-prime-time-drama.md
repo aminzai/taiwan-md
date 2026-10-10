@@ -66,7 +66,7 @@ Khi đặt phim truyền hình buổi tối của Đài Loan vào bối cảnh q
 
 **Đọc thêm**:
 
-- [Giải thưởng Kim Tông](/culture/金鐘獎) — Trong thời kỳ 《Ngôi sao biết lòng tôi》《Bao Thanh Thiên», các đơn vị đoạt giải chương trình truyền hình chưa bao giờ rời Đài Thị, Trung Thị, Hoa Thị
+- [Giải thưởng Kim Tông](/vi/culture/golden-bell-awards) — Trong thời kỳ 《Ngôi sao biết lòng tôi》《Bao Thanh Thiên», các đơn vị đoạt giải chương trình truyền hình chưa bao giờ rời Đài Thị, Trung Thị, Hoa Thị
 
 ## Các nguồn tham khảo
 

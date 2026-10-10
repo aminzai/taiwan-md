@@ -211,11 +211,11 @@ Bài viết này sử dụng 3 hình ảnh được cấp phép CC, tất cả �
 
 ## Đọc thêm
 
-- [Thời kỳ Thanh Trị](/history/清治時期) — Bối cảnh chính trị khi Lưu Minh Truyền bắt đầu paving tàu điện
-- [Thời kỳ Nhật trị](/history/日治時期) — Bối cảnh chính phủ thuộc địa khi Trường Cốc Xuyên (Hasegawa Kinsuke, 長谷川謹介), Hạ Hợp tiếp quản xây dựng đường sắt Đài Loan
-- [Chiến tranh Thanh Pháp](/history/清法戰爭) — Lưu Minh Truyền được bổ nhiệm làm tổng đốc Đài Loan đầu tiên vì chiến tranh này, ngay lập tức khởi động xây dựng đường sắt từ Cơ Long tới Tân Trúc
-- [Hệ thống giao thông Đài Loan](/lifestyle/台灣交通系統) — Vị trí của đường sắt chiến hậu trong mạng lưới giao thông đa dạng gồm đường bộ, sân bay, tàu điện ngầm
-- [Tàu cao tốc Đài Loan](/lifestyle/台灣高鐵) — Hệ thống tàu cao tốc thông xe năm 2007, sự mở rộng đương đại của lịch sử đường sắt Đài Loan
+- [Thời kỳ Thanh Trị](/vi/history/qing-dynasty-rule) — Bối cảnh chính trị khi Lưu Minh Truyền bắt đầu paving tàu điện
+- [Thời kỳ Nhật trị](/vi/history/japanese-colonial-era) — Bối cảnh chính phủ thuộc địa khi Trường Cốc Xuyên (Hasegawa Kinsuke, 長谷川謹介), Hạ Hợp tiếp quản xây dựng đường sắt Đài Loan
+- [Chiến tranh Thanh Pháp](/vi/history/sino-french-war-in-taiwan) — Lưu Minh Truyền được bổ nhiệm làm tổng đốc Đài Loan đầu tiên vì chiến tranh này, ngay lập tức khởi động xây dựng đường sắt từ Cơ Long tới Tân Trúc
+- [Hệ thống giao thông Đài Loan](/vi/lifestyle/transportation-system) — Vị trí của đường sắt chiến hậu trong mạng lưới giao thông đa dạng gồm đường bộ, sân bay, tàu điện ngầm
+- [Tàu cao tốc Đài Loan](/vi/lifestyle/taiwan-high-speed-rail) — Hệ thống tàu cao tốc thông xe năm 2007, sự mở rộng đương đại của lịch sử đường sắt Đài Loan
 
 ## Tài liệu tham khảo
 

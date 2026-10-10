@@ -304,12 +304,12 @@ Ba thời kỳ tôn giáo của Hà Nội, xếp thành một trục đường 1
 
 **Đọc thêm**:
 
-- [Hà Nội](/geography/台北市) — Tỉ lục đầy đủ của thành phố Hà Nội, nơi Dalongdong nằm, từ năm 1709 Trần Lai-chang khai hoang đến năm 2026 toàn bộ
-- [Muzha](/geography/艋舺) — Khu phố sớm nhất của Hà Nội, Longshanhsi 1738, một đầu của trận đấu đất đai năm 1853
-- [Daloi](/geography/大稻埕) — Địa điểm cuối cùng của người Tông An năm 1853, trung tâm thương mại giao dịch trà năm 1860, đối tác khác nhưng khác biệt với Dalongdong
-- [Ximen](/geography/西門町) — Khu vui chơi thời Nhật năm 1908, thử nghiệm thành phố hoàn toàn khác với Dalongdong
-- [Văn hóa tôn giáo và kiến trúc chùa Đài Loan](/culture/台灣宗教與寺廟文化) — Bảo An Miếu, sửa chữa Lêu Văn-chi, giải thưởng UNESCO toàn bộ lịch sử
-- [Sân bay](/geography/士林) — Trận đấu giao dịch của Trần Vân Ngọn và học viện tại Dalongdong, hai bên đối đầu với quân đội Trung Quốc và người Tông An
+- [Hà Nội](/vi/geography/taipei-city) — Tỉ lục đầy đủ của thành phố Hà Nội, nơi Dalongdong nằm, từ năm 1709 Trần Lai-chang khai hoang đến năm 2026 toàn bộ
+- [Muzha](/vi/geography/bangka) — Khu phố sớm nhất của Hà Nội, Longshanhsi 1738, một đầu của trận đấu đất đai năm 1853
+- [Daloi](/vi/geography/dadaocheng) — Địa điểm cuối cùng của người Tông An năm 1853, trung tâm thương mại giao dịch trà năm 1860, đối tác khác nhưng khác biệt với Dalongdong
+- [Ximen](/vi/geography/ximending) — Khu vui chơi thời Nhật năm 1908, thử nghiệm thành phố hoàn toàn khác với Dalongdong
+- [Văn hóa tôn giáo và kiến trúc chùa Đài Loan](/vi/culture/taiwan-religion-and-temple-culture) — Bảo An Miếu, sửa chữa Lêu Văn-chi, giải thưởng UNESCO toàn bộ lịch sử
+- [Sân bay](/vi/geography/shilin) — Trận đấu giao dịch của Trần Vân Ngọn và học viện tại Dalongdong, hai bên đối đầu với quân đội Trung Quốc và người Tông An
 
 ## Nguồn ảnh
 

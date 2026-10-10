@@ -159,7 +159,7 @@ Chữ in trên tờ phiếu bầu trong tay bạn mang tên Source Han Sans. Có
 - [Chuyển đổi nâng cấp ngành công nghiệp Đài Loan](/vi/economy/industrial-transformation-from-manufacturing-to-innovation) — Câu chuyện đầy đủ từ "đảo gia công" tiến về giá trị gia tăng cao, "đồ vật trông như thế nào" mà Viện Nghiên cứu Thiết kế đặt cược là một nhánh ít được nhắc đến trên con đường này.
 - [Đài Truyền hình Công cộng](/vi/society/pts-public-television-service) — Cũng là một tổ chức tài團 pháp nhân công thiết, cũng là cơ quan đi dây giữa "tính công cộng" và "bị kiểm chứng".
 - [Kiến trúc Đài Loan](/vi/art/taiwanese-architecture) — Nghề chính của Trương Cơ Nghĩa, hiểu tại sao một người kiến trúc lại tin rằng thiết kế không gian có thể thay đổi khoảng cách giữa chính phủ và nhân dân.
-- [Viện Nghiên cứu Trung ương](/society/中央研究院) — Cũng là cơ quan nghiên cứu do nhà nước tài trợ, trực thuộc Phủ Tổng thống so với trực thuộc bộ hội, những việc có thể làm và những câu hỏi bị đặt ra đều không giống nhau.
+- [Viện Nghiên cứu Trung ương](/vi/society/academia-sinica) — Cũng là cơ quan nghiên cứu do nhà nước tài trợ, trực thuộc Phủ Tổng thống so với trực thuộc bộ hội, những việc có thể làm và những câu hỏi bị đặt ra đều không giống nhau.
 
 ## Nguồn hình ảnh
 

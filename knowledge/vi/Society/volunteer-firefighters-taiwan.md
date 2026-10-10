@@ -163,9 +163,9 @@ An toàn phòng cháy của Đài Loan vì vậy không chỉ là câu chuyện 
 
 ## Đọc thêm
 
-- [Trận Động đất Tập Tập Năm 921 (Chí Chí)](/history/九二一集集地震) — Thảm họa làm thế nào để thay đổi chế độ phòng chống thảm họa của Đài Loan và ký ức tập thể.
-- [Phong trào xã hội và sự tham gia công dân](/society/社會運動與公民參與) — Mở rộng sự hiểu biết về tình nguyện viên Đài Loan từ dịch vụ tình nguyện.
-- [Phát triển đô thị Đài Loan và khoảng cách giữa thành thị và nông thôn](/geography/台灣都市發展與城鄉差距) — Sự khác biệt về tài nguyên địa phương ảnh hưởng đến cách phản ứng thảm họa như thế nào.
+- [Trận Động đất Tập Tập Năm 921 (Chí Chí)](/vi/history/921-jiji-earthquake) — Thảm họa làm thế nào để thay đổi chế độ phòng chống thảm họa của Đài Loan và ký ức tập thể.
+- [Phong trào xã hội và sự tham gia công dân](/vi/society/social-movements-and-civic-participation) — Mở rộng sự hiểu biết về tình nguyện viên Đài Loan từ dịch vụ tình nguyện.
+- [Phát triển đô thị Đài Loan và khoảng cách giữa thành thị và nông thôn](/vi/geography/taiwan-urban-development-and-rural-urban-divide) — Sự khác biệt về tài nguyên địa phương ảnh hưởng đến cách phản ứng thảm họa như thế nào.
 
 ## Nguồn hình ảnh
 

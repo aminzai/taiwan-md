@@ -67,8 +67,8 @@ Câu chuyện của Trung đội Dơi Đen ghi lại những hy sinh dưới đ�
 
 ## Đọc thêm
 
-- [Thiết quân luật](/vi/history/戒嚴時期) — Những nhiệm vụ bí mật của Trung đội Dơi Đen và sự im lặng của các gia đình đều xảy ra dưới cùng một chế độ thiết quân luật
-- [Khủng bố Trắng ở Đài Loan](/history/台灣白色恐怖) — Trong cùng một thời kỳ Chiến tranh Lạnh này, một loại chuyện về cá nhân bị im tiếng khác
+- [Thiết quân luật](/vi/history/martial-law-era) — Những nhiệm vụ bí mật của Trung đội Dơi Đen và sự im lặng của các gia đình đều xảy ra dưới cùng một chế độ thiết quân luật
+- [Khủng bố Trắng ở Đài Loan](/vi/history/taiwan-white-terror) — Trong cùng một thời kỳ Chiến tranh Lạnh này, một loại chuyện về cá nhân bị im tiếng khác
 
 ## Tài liệu tham khảo
 

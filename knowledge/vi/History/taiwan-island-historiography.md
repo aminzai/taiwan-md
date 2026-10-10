@@ -152,11 +152,11 @@ Khi chúng ta nói "chúng ta trên hòn đảo này", đó không phải là th
 
 **Đọc thêm**:
 
-- [Formosa](/history/福爾摩沙) — Quay lại từ tự sự "phát hiện" của phương Tây, xem cách Đài Loan được đặt tên, tưởng tượng và hiểu lại.
-- [Thời kỳ Hà Lan-Tây Ban Nha và nhà Minh](/history/荷西明鄭時期) — Xem cách Đài Loan thế kỷ 17 đi vào vùng biển Đông Á, thực dân châu Âu và tương tác xã địa phương.
-- [Sự kiện 228](/history/二二八事件) — Sự chuyển dịch chính quyền hậu chiến đã trở thành một trong những vết đứt sâu nhất trong tầng ký ức lịch sử Đài Loan như thế nào.
-- [Bảo tàng Lịch sử Quốc gia Đài Loan](/society/國立臺灣歷史博物館) — Bảo tàng cấp quốc gia đã biến Quan điểm lịch sử đảo Đài Loan thành triển lãm công chúng như thế nào.
-- [Tư duy quần đảo](/culture/群島思維) — Nhìn ra từ một hòn đảo đơn nhất, hiểu quan hệ giữa Đài Loan và các hòn đảo xung quanh, thế giới đại dương.
+- [Formosa](/vi/history/formosa-historical-name) — Quay lại từ tự sự "phát hiện" của phương Tây, xem cách Đài Loan được đặt tên, tưởng tượng và hiểu lại.
+- [Thời kỳ Hà Lan-Tây Ban Nha và nhà Minh](/vi/history/dutch-spanish-and-koxinga-era) — Xem cách Đài Loan thế kỷ 17 đi vào vùng biển Đông Á, thực dân châu Âu và tương tác xã địa phương.
+- [Sự kiện 228](/vi/history/228-incident) — Sự chuyển dịch chính quyền hậu chiến đã trở thành một trong những vết đứt sâu nhất trong tầng ký ức lịch sử Đài Loan như thế nào.
+- [Bảo tàng Lịch sử Quốc gia Đài Loan](/vi/society/national-museum-of-taiwan-history) — Bảo tàng cấp quốc gia đã biến Quan điểm lịch sử đảo Đài Loan thành triển lãm công chúng như thế nào.
+- [Tư duy quần đảo](/vi/culture/archipelago-thinking) — Nhìn ra từ một hòn đảo đơn nhất, hiểu quan hệ giữa Đài Loan và các hòn đảo xung quanh, thế giới đại dương.
 
 ## Nguồn hình ảnh
 

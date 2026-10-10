@@ -111,12 +111,12 @@ Họ muốn chỉ có ít nhất một thế hệ còn có cơ hội nói tiến
 
 **Đọc thêm**:
 
-- [Màu đỏ](/culture/藍染) — Màu đỏ Hakka và nghệ thuật sơn xuất nhà Bến Nông, cùng phản biện về "màu đỏ có phải là quyền quyền của người Hakka không"
-- [Âm nhạc Hakka Đài Loan](/music/台灣客家音樂) — Từ ca núi đến rock, tiếng Hakka nhưng âm nhạc như thế nào trở thành tuyến đường phục hồi nhóm dân tộc
-- [Văn hóa ẩm thực Hakka](/food/客家飲食文化) — Vị mặn nhớ hương vị đằng sau lịch sử lao động và địa lý
-- [Đa dạng ngôn ngữ và văn hóa ngôn ngữ mẫu](/culture/語言多樣性與母語文化) — Bản đồ toàn cảnh môi trường đa ngôn ngữ Đài Loan và hoàn cảnh ngôn ngữ mẫu của các nhóm dân tộc
-- [Nhóm dân tộc (Hakka, người gốc Nam Tài, người Mã, người mới đến từ nước ngoài)](/culture/族群（閩南客家原住民外省新住民）) — Tương tác và chính trị dân tộc của năm nhóm dân tộc chính
-- [Chuyển đổi dân chủ Đài Loan](/history/台灣民主轉型) — Bối cảnh chuyển đổi dân chủ của chiến dịch Hồi ngôn ngữ mẫu
+- [Màu đỏ](/vi/culture/taiwan-indigo-dyeing) — Màu đỏ Hakka và nghệ thuật sơn xuất nhà Bến Nông, cùng phản biện về "màu đỏ có phải là quyền quyền của người Hakka không"
+- [Âm nhạc Hakka Đài Loan](/vi/music/taiwan-hakka-music-from-mountain-songs-to-rock) — Từ ca núi đến rock, tiếng Hakka nhưng âm nhạc như thế nào trở thành tuyến đường phục hồi nhóm dân tộc
+- [Văn hóa ẩm thực Hakka](/vi/food/hakka-food-culture) — Vị mặn nhớ hương vị đằng sau lịch sử lao động và địa lý
+- [Đa dạng ngôn ngữ và văn hóa ngôn ngữ mẫu](/vi/culture/linguistic-diversity-and-mother-tongue-culture) — Bản đồ toàn cảnh môi trường đa ngôn ngữ Đài Loan và hoàn cảnh ngôn ngữ mẫu của các nhóm dân tộc
+- [Nhóm dân tộc (Hakka, người gốc Nam Tài, người Mã, người mới đến từ nước ngoài)](/vi/culture/ethnic-groups) — Tương tác và chính trị dân tộc của năm nhóm dân tộc chính
+- [Chuyển đổi dân chủ Đài Loan](/vi/history/taiwan-democratization) — Bối cảnh chuyển đổi dân chủ của chiến dịch Hồi ngôn ngữ mẫu
 
 ## Tài liệu tham khảo
 

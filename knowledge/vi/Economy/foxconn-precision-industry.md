@@ -34,7 +34,7 @@ translatedAt: '2026-08-09T11:16:34+08:00'
 
 Điện thoại iPhone trong tay bạn, máy PlayStation trong phòng khách, máy chủ AI GB200 NVIDIA được sử dụng để đào tạo GPT trên đám mây — việc lắp ráp cuối cùng của những thứ này có thể đã xảy ra từ một nhà máy của Foxconn[^10][^14].
 
-Từ [Quách Đài Minh](/people/郭台銘) năm 1974 sử dụng 10 vạn đồng từ hội tích của mẹ mình (Sơ Chu Vĩnh Chân) để thành lập "Công ty Nhựa Đỏ Hải"[^13], cho đến năm 2025 trở thành công ty đầu tiên trên thị trường chứng khoán Đài Loan đạt doanh thu hàng năm vượt 8 nghìn tỉ đồng[^9], câu chuyện của Foxconn đã được viết hàng trăm lần. Bài viết này không lặp lại câu chuyện đó.
+Từ [Quách Đài Minh](/vi/people/terry-gou) năm 1974 sử dụng 10 vạn đồng từ hội tích của mẹ mình (Sơ Chu Vĩnh Chân) để thành lập "Công ty Nhựa Đỏ Hải"[^13], cho đến năm 2025 trở thành công ty đầu tiên trên thị trường chứng khoán Đài Loan đạt doanh thu hàng năm vượt 8 nghìn tỉ đồng[^9], câu chuyện của Foxconn đã được viết hàng trăm lần. Bài viết này không lặp lại câu chuyện đó.
 
 Ngày 30 tháng 4 năm 2026 là ngày mâu thuẫn nhất của Foxconn trong những năm gần đây: vào sáng sớm, nó là ông chủ gia công AI toàn cầu được tạp chí Time chọn, vào chiều tối nó là mục tiêu của Chi nhánh Kiểm sát Tân Bắc[^1][^10]. Trên cùng một bảng cân đối kế toán, hai hướng đang ghi sổ đồng thời. Đây là inti của lần viết lại này.
 
@@ -86,7 +86,7 @@ Vụ Liêu Vạn Thành trong hệ thống tư pháp là một câu chuyện dà
 
 ## Quyết định năm 2015
 
-Giữa năm 2015, [Quách Đài Minh](/people/郭台銘) bên ngoài Bộ Pháp vụ và Bộ Kiểm toán, thành lập một bộ phận độc lập mới: **Bộ phòng chống tham nhũng**[^6].
+Giữa năm 2015, [Quách Đài Minh](/vi/people/terry-gou) bên ngoài Bộ Pháp vụ và Bộ Kiểm toán, thành lập một bộ phận độc lập mới: **Bộ phòng chống tham nhũng**[^6].
 
 Báo Thiên hạ gọi nó là "cơ quan liêm chính Foxconn"[^6]. Quách Đài Minh cũng thiết lập phần thưởng "bắt ma" cao 50 triệu đồng cho mỗi vụ, để khuyến khích nhân viên tố cáo các hành vi sai trái nội bộ[^6].
 
@@ -122,7 +122,7 @@ Hai Foxconn, một trong bìa tạp chí Time, một trong công bố thông tin
 
 ## Khoảng cách từ 10 vạn đồng đến 8 nghìn tỉ
 
-Năm 1974, [Quách Đài Minh](/people/郭台銘) 30 tuổi lấy 10 vạn đồng từ hội tích mà mẹ (Sơ Chu Vĩnh Chân) vay được (tổng 20 vạn, nửa kia để lấy vợ Quách Đài Minh), hợp tác với bạn bè với 30 vạn đồng, thành lập "Công ty Nhựa Đỏ Hải Hạn Chế Trách Nhiệm" ở Thổ Thành, Đài Bắc, 10 nhân viên, chủ yếu sản xuất các nút xoay cho tivi đen trắng[^13].
+Năm 1974, [Quách Đài Minh](/vi/people/terry-gou) 30 tuổi lấy 10 vạn đồng từ hội tích mà mẹ (Sơ Chu Vĩnh Chân) vay được (tổng 20 vạn, nửa kia để lấy vợ Quách Đài Minh), hợp tác với bạn bè với 30 vạn đồng, thành lập "Công ty Nhựa Đỏ Hải Hạn Chế Trách Nhiệm" ở Thổ Thành, Đài Bắc, 10 nhân viên, chủ yếu sản xuất các nút xoay cho tivi đen trắng[^13].
 
 Năm sau, tình hình kinh tế ảm đạm, 30 vạn đồng vốn chủ sở hữu tiêu hết, đối tác ban đầu rút lui. Quách Đài Minh vay 70 vạn đồng từ bố vợ để mua lại toàn bộ công ty, đổi tên thành "Công ty Công Nghiệp Đỏ Hải"[^13].
 
@@ -153,11 +153,11 @@ Danh sách của tạp chí Time sẽ tiếp tục cập nhật. EPS của hội
 
 ## Đọc thêm
 
-- [Quách Đài Minh](/people/郭台銘) — Nhà sáng lập Foxconn, từ 10 vạn đồng hội tích của mẹ đến đế chế sản xuất toàn cầu, câu chuyện khởi nghiệp
-- [Doanh nghiệp Đài Loan: TSMC](/economy/台灣企業：台積電) — Cùng là doanh nghiệp hạng nước ngoài của Đài Loan, nhưng đi con đường gia công bán dẫn chuyên nghiệp; cơ cấu quản trị hoàn toàn khác với đế chế gia công Foxconn
-- [Thị trường chứng khoán Đài Loan và Thị trường vốn](/economy/台灣股市與資本市場) — Cổ phiếu Foxconn mã số 2317, cơ chế tiết lộ thông tin lớn hoạt động như thế nào
-- [Chuyển đổi và nâng cấp công nghiệp Đài Loan](/economy/台灣產業轉型升級) — Từ gia công lao động chứ không phải tiêu dùng đến lắp ráp máy chủ AI, Foxconn là bóng dáng của con đường này
-- [Thương mại ngoài Đài Loan và Chuỗi cung ứng toàn cầu](/economy/台灣外貿與全球供應鏈) — Bố cục toàn cầu 24 quốc gia 90 vạn nhân viên, là thí nghiệm quản trị liên quốc gia lớn nhất của ngành sản xuất Đài Loan
+- [Quách Đài Minh](/vi/people/terry-gou) — Nhà sáng lập Foxconn, từ 10 vạn đồng hội tích của mẹ đến đế chế sản xuất toàn cầu, câu chuyện khởi nghiệp
+- [Doanh nghiệp Đài Loan: TSMC](/vi/economy/tsmc) — Cùng là doanh nghiệp hạng nước ngoài của Đài Loan, nhưng đi con đường gia công bán dẫn chuyên nghiệp; cơ cấu quản trị hoàn toàn khác với đế chế gia công Foxconn
+- [Thị trường chứng khoán Đài Loan và Thị trường vốn](/vi/economy/taiwan-stock-market) — Cổ phiếu Foxconn mã số 2317, cơ chế tiết lộ thông tin lớn hoạt động như thế nào
+- [Chuyển đổi và nâng cấp công nghiệp Đài Loan](/vi/economy/industrial-transformation-from-manufacturing-to-innovation) — Từ gia công lao động chứ không phải tiêu dùng đến lắp ráp máy chủ AI, Foxconn là bóng dáng của con đường này
+- [Thương mại ngoài Đài Loan và Chuỗi cung ứng toàn cầu](/vi/economy/taiwan-foreign-trade-and-global-supply-chain) — Bố cục toàn cầu 24 quốc gia 90 vạn nhân viên, là thí nghiệm quản trị liên quốc gia lớn nhất của ngành sản xuất Đài Loan
 
 ---
 

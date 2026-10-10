@@ -164,11 +164,11 @@ Nhưng câu chuyện của Trịnh Nam Viêm (鄭南榕) nhắc nhở chúng ta 
 
 **Tài liệu mở rộng**:
 
-- [Bảo tàng Nhân quyền Quốc gia](/history/國家人權博物館) — Bảo tàng được chính quốc gia xây dựng để tưởng niệm những nạn nhân chính trị, được khai trương năm 2018, ngân sách năm 2025 từng bị đóng lạnh
-- [Khủng bố Trắng tại Đài Loan](/history/台灣白色恐怖) — Lịch sử thực tế mà việc hủy bỏ bản án nhắm tới
-- [Thời kỳ thiết quân luật](/history/戒嚴時期) — Thùng chứa pháp lý từ 1949-1987
-- [Sự kiện 28/2](/history/二二八事件) — Sự đàn áp ở Đài Loan sau Thế chiến II năm 1947, một dòng khác của công việc công lý chuyển đổi
-- [Hóa đơn: Tờ giấy năm 1951 đã biến toàn bộ dân chúng thành cộng tác viên kiểm tra thuế](/economy/發票) — Nhâm Hiển Quần, nhà thiết kế hóa đơn thống nhất, đã trải qua hai chính phủ của Mã Anh Cửu và Thái Anh Văn, mất nhiều năm mới hoàn thành phục chức, là một trường hợp cụ thể của công việc công lý chuyển đổi
+- [Bảo tàng Nhân quyền Quốc gia](/vi/history/national-human-rights-museum) — Bảo tàng được chính quốc gia xây dựng để tưởng niệm những nạn nhân chính trị, được khai trương năm 2018, ngân sách năm 2025 từng bị đóng lạnh
+- [Khủng bố Trắng tại Đài Loan](/vi/history/taiwan-white-terror) — Lịch sử thực tế mà việc hủy bỏ bản án nhắm tới
+- [Thời kỳ thiết quân luật](/vi/history/martial-law-era) — Thùng chứa pháp lý từ 1949-1987
+- [Sự kiện 28/2](/vi/history/228-incident) — Sự đàn áp ở Đài Loan sau Thế chiến II năm 1947, một dòng khác của công việc công lý chuyển đổi
+- [Hóa đơn: Tờ giấy năm 1951 đã biến toàn bộ dân chúng thành cộng tác viên kiểm tra thuế](/vi/economy/taiwan-uniform-invoice) — Nhâm Hiển Quần, nhà thiết kế hóa đơn thống nhất, đã trải qua hai chính phủ của Mã Anh Cửu và Thái Anh Văn, mất nhiều năm mới hoàn thành phục chức, là một trường hợp cụ thể của công việc công lý chuyển đổi
 
 ## Tài liệu tham khảo
 

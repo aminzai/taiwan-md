@@ -147,7 +147,7 @@ Ngày 31 tháng 7 năm 2020 cô phát hành album toàn bộ độ dài đầu t
 Cách cô viết bài hát giống cách thu âm thơm ngây của phòng thu: điện thoại voice memo thu âm câu nhạc bất cứ lúc nào, mỗi tháng sắp xếp một lần tích lũy hàng chục file âm thanh, tới nhà Tháp ba bốn tiếng phải dắp một bài hát[^7]. Lời tiếng Anh cũng không phải viết từ hư không, cô sẽ Google trên điện thoại "how to name your lover" "how to call your lover" kiểu chuỗi ký tự, kéo một danh sách dài ứng viên về hát từng câu[^7].
 
 > **📝 Ghi chú từ người sắp xếp**
-> Cô từ năm 2019 tới 2020 đi một con đường mà rất nhiều nữ tác giả R&B thế hệ mới cùng thời đi qua: tự viết, tự hát, sản xuất cấp phòng ngủ, phát lyric video không phát MV, phát SoundCloud và StreetVoice rồi lên KKBOX và Spotify. Cô với 9m88, ca sĩ Đặng Kính Như của deca joins, sau này những tác giả hệ Hello Nico thực sự là những nhánh khác nhau của cùng một hệ sinh thái indie. Cùng kỳ Joji (đại diện lo-fi R&B gốc Nhật), keshi (đại diện bedroom pop gốc Hàn ở Texas) của làn sóng lo-fi toàn cầu cũng đang nóng lên, nhánh Đài Loan này với thế giới cùng mở hoa. Có thể tham khảo [Âm nhạc độc lập Đài Loan](/music/台灣獨立音樂) vận mạch có nhiều nhánh cùng mở hoa đồng bộ.
+> Cô từ năm 2019 tới 2020 đi một con đường mà rất nhiều nữ tác giả R&B thế hệ mới cùng thời đi qua: tự viết, tự hát, sản xuất cấp phòng ngủ, phát lyric video không phát MV, phát SoundCloud và StreetVoice rồi lên KKBOX và Spotify. Cô với 9m88, ca sĩ Đặng Kính Như của deca joins, sau này những tác giả hệ Hello Nico thực sự là những nhánh khác nhau của cùng một hệ sinh thái indie. Cùng kỳ Joji (đại diện lo-fi R&B gốc Nhật), keshi (đại diện bedroom pop gốc Hàn ở Texas) của làn sóng lo-fi toàn cầu cũng đang nóng lên, nhánh Đài Loan này với thế giới cùng mở hoa. Có thể tham khảo [Âm nhạc độc lập Đài Loan](/vi/music/indie-music-scene) vận mạch có nhiều nhánh cùng mở hoa đồng bộ.
 
 Trong những năm cuối cùng cô thực tập ở bệnh viện, cô vẫn viết một bài hát tên "Seh Ah Seh"[^32]. Seh là chữ Mân Nam "踅" (loanromania romanization), ý nghĩa là lang thang. Cô trong hành lang bệnh viện "lang thang làm công việc giống nhau", nản nàn dưới viết bài hát này, lời bài hát bề ngoài nói về sự mệt mỏi nếu một kẻ bị di chuyển một mình sau giờ làm việc. Cô biến cảm giác nản nàn của sinh viên thực tập thành cảm giác cô đơn của người di chuyển. Bài hát này sau trở thành bài hát cô hát trực tiếp trên sân khấu lễ trao giải thưởng vàng[^32].
 
@@ -303,10 +303,10 @@ Cô đối với sân khấu giải thưởng vàng dưới nói "Các bạn đ�
 
 ## Nối dài phần đọc
 
-- [Âm nhạc độc lập Đài Loan](/music/台灣獨立音樂) — thẩm mỹ phòng ngủ pop / lo-fi R&B trong sinh thái cùng thế hệ năm 2019-2020
-- [Phát triển hip-hop và rap Đài Loan](/music/台灣嘻哈與饒舌發展) — tranh luận giới tính ghét nữ cô bước vào, tổ chức Sheflow đặt vào bối cảnh bốn mươi năm rap Đài Loan
-- [Điền Dạn Hàng](/people/田馥甄) — người chiến thắng nữ ca sĩ đồng thế hệ lần thứ 32 của giải thưởng vàng, cách xa 19 thế hệ ra mắt hai đầu
-- [Trần Kiến Khí](/people/陳建騏) — một nhánh khác trong hệ thống nhà sản xuất âm nhạc phổ biến Hoa ngữ cùng thế hệ
+- [Âm nhạc độc lập Đài Loan](/vi/music/indie-music-scene) — thẩm mỹ phòng ngủ pop / lo-fi R&B trong sinh thái cùng thế hệ năm 2019-2020
+- [Phát triển hip-hop và rap Đài Loan](/vi/music/taiwan-hip-hop-and-rap) — tranh luận giới tính ghét nữ cô bước vào, tổ chức Sheflow đặt vào bối cảnh bốn mươi năm rap Đài Loan
+- [Điền Dạn Hàng](/vi/people/hebe-tien-singer) — người chiến thắng nữ ca sĩ đồng thế hệ lần thứ 32 của giải thưởng vàng, cách xa 19 thế hệ ra mắt hai đầu
+- [Trần Kiến Khí](/vi/people/chen-chien-chi-music-producer) — một nhánh khác trong hệ thống nhà sản xuất âm nhạc phổ biến Hoa ngữ cùng thế hệ
 
 ---
 
@@ -356,7 +356,7 @@ Cô đối với sân khấu giải thưởng vàng dưới nói "Các bạn đ�
 
 [^25]: [Từ sinh viên Y khoa, ca sĩ mới vàng, sang tác giả độc lập toàn tâm toàn ý — HEAVEN RAVEN Phỏng vấn](https://www.heavenraven.com/2023/05/15/whyte-music-interview/) — "Tôi thậm chí còn nghe thấy bài hát của mình khi tôi đang giúp đỡ bác sĩ chính ở phòng mổ. Vì cơ bản trong bệnh viện đều đeo khẩu trang, thực tập cũng mỗi tháng chuyển một lần khoa" lời nguyên văn.
 
-[^26]: [Điền Dạn Hàng — Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%94%B0%E9%A6%A5%E7%94%84) — Điền Dạn Hàng dùng "Không có ai biết" lấy lần thứ 32 Giải thưởng âm nhạc vàng ca sĩ nữ tốt nhất Hoa ngữ; tham khảo [Bài báo Điền Dạn Hàng](/people/田馥甄).
+[^26]: [Điền Dạn Hàng — Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%94%B0%E9%A6%A5%E7%94%84) — Điền Dạn Hàng dùng "Không có ai biết" lấy lần thứ 32 Giải thưởng âm nhạc vàng ca sĩ nữ tốt nhất Hoa ngữ; tham khảo [Bài báo Điền Dạn Hàng](/vi/people/hebe-tien-singer).
 
 [^27]: [Bác sĩ chuẩn bị?te Hoài Tặc mạ vàng Giáo sư Đại học Đài gồm tiếng — Tiếng cười sao](https://stars.udn.com/star/story/10092/5694350) — ⚠️ Liên kết hiện là 404; năm 2021 được giải thưởng, mạng lưu truyền phần nào chữ ký tên Giáo sư Viện Y Đại học Đài "có yên tâm để cô mổ không" nghi vấn bài, tư cách original đã không thể lần ngược. Trong audit thực hiện này giảm hạng thành "mạng xuất hiện nghi vấn" tổng thể mô tả, không còn bao hàm tên riêng tư cách Giáo sư cụ thể.
 

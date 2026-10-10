@@ -110,8 +110,8 @@ Trần Thủy Biển tuyên bố vào năm 2000 rằng ông sẽ không xây đ�
 
 ## Đọc thêm
 
-- [Âm nhạc Hạc Gia Đài Loan](/music/台灣客家音樂/)
-- [Phong trào dân ca Đài Loan](/music/台灣民歌運動/)
+- [Âm nhạc Hạc Gia Đài Loan](/vi/music/taiwan-hakka-music-from-mountain-songs-to-rock/)
+- [Phong trào dân ca Đài Loan](/vi/music/taiwan-campus-folk-song-movement/)
 - [Âm nhạc độc lập Đài Loan](/vi/music/indie-music-scene/)
 - [Lịch sử phát triển nhạc rock Đài Loan](/vi/music/taiwan-rock-from-underground-to-mainstream/)
 

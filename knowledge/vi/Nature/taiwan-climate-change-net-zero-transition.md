@@ -316,7 +316,7 @@ Không ai biết liệu 9 nghìn tỷ Đài tệ có thể mua được một t�
 - [Cây phố ở Đài Loan](/vi/lifestyle/taiwan-street-trees) — Vị trí và thang thời gian điều chỉnh đảo nhiệt đô thị bằng bóng mát cây: cây cần ít nhất mười năm để che bóng là một trong những yếu tố không thể chờ đợi trên tuyến này.
 - [Phát triển hiện đại hóa nông nghiệp Đài Loan](/vi/economy/taiwan-agricultural-modernization) — Áp lực chuyển đổi nông nghiệp và xung đột sử dụng đất đằng sau sự cộng sinh điện - nông nghiệp.
 - [Mùa mưa](/vi/nature/meiyu-stagnant-front) — Quan sát địa phương về biến đổi khí hậu: "mưa xuân không đến, mùa mưa tập trung".
-- [Cơ chế giá dầu và Đài Loan (CPC)](/economy/台灣油價機制與中油) — Sự giằng co giữa trợ cấp nhiên liệu hóa thạch và tín hiệu tiết kiệm năng lượng: việc đóng băng giá khiến người dùng nhiều hơn thì tiết kiệm hơn, nhưng trong nửa năm này không ai có bảng tính xem ai đã sử dụng nhiều nhất.
+- [Cơ chế giá dầu và Đài Loan (CPC)](/vi/economy/taiwan-fuel-pricing-and-cpc) — Sự giằng co giữa trợ cấp nhiên liệu hóa thạch và tín hiệu tiết kiệm năng lượng: việc đóng băng giá khiến người dùng nhiều hơn thì tiết kiệm hơn, nhưng trong nửa năm này không ai có bảng tính xem ai đã sử dụng nhiều nhất.
 
 ## Nguồn ảnh
 

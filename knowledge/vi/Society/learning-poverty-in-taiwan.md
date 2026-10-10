@@ -181,7 +181,7 @@ Bước đầu tiên là thừa nhận: **thành tích PISA trung bình của Đ
 - Khủng hoảng số trẻ em ở Đài Loan – Learning Poverty và suy giảm dân số không phải là cùng một vấn đề, nhưng chúng xảy ra đồng thời ở nông thôn: khi học sinh giảm, trường học thu nhỏ, tài nguyên tập trung hơn, tỷ lệ nghèo đói về học tập trong số những đứa trẻ còn lại thực tế cao hơn.
 - [Sự mở rộng và rút lui của giáo dục đại học Đài Loan](/vi/society/taiwan-higher-education-expansion-and-decline) — Sau khi phổ cập giáo dục đại học khiến "vào được trường đại học" không còn là rào cản, sự chênh lệch về "học được gì" đã trở thành bức tường tiếp theo.
 - Hệ thống giáo dục và văn hóa thi cử – Văn hóa xem việc vào đại học là con đường duy nhất ở Đài Loan khiến trẻ em nghèo đói về học tập gần như không có lựa chọn nào khác trong hệ thống.
-- [Ai tính lương thấp](/society/誰算低薪) — Một câu hỏi định nghĩa khác: Tổng cục Thống kê tính mức lương cơ bản theo tháng là 0 người, tính theo năm là 1,26 triệu người, sự khác biệt nằm ở khoản thưởng cuối năm mà pháp luật không quản lý.
+- [Ai tính lương thấp](/vi/society/who-counts-as-low-wage) — Một câu hỏi định nghĩa khác: Tổng cục Thống kê tính mức lương cơ bản theo tháng là 0 người, tính theo năm là 1,26 triệu người, sự khác biệt nằm ở khoản thưởng cuối năm mà pháp luật không quản lý.
 
 ## Tài liệu tham khảo
 

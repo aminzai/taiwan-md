@@ -123,7 +123,7 @@ Như Lý Trí Khải thường nói: "Nếu bạn chịu đựng được khó k
 
 **Đọc tiếp**:
 
-- [Quách Đề Tịnh](/people/郭婞淳) — Vô địch cử tạ Olympic Đông Kinh, nhân vật tiêu biểu của hành động xã hội công ích trong thế giới thể thao Đài Loan
+- [Quách Đề Tịnh](/vi/people/kuo-hsing-chun-olympic-weightlifting-champion) — Vô địch cử tạ Olympic Đông Kinh, nhân vật tiêu biểu của hành động xã hội công ích trong thế giới thể thao Đài Loan
 
 ## Tham khảo
 

@@ -185,14 +185,14 @@ Nếu bạn lần sau đi qua Ánh Sáng Đài Bắc ở Trung Sơn Bắc phần
 
 **Bài đọc thêm**:
 
-- [Đài Bắc: Ba khoảng thời gian trong một thành phố, 1738 Bạch Liễu Tự nhìn 2004 của 101](/geography/台北市) — Vị trí của Trung Sơn Bắc trong 12 quận, cùng Uyển Vạn, Đại Đạo Trình, Tín Nghĩa ba dòng thời gian xếp song song
-- [Đại Đạo Trình: Một con phố 800 mét chứa ba thế kỷ](/geography/大稻埕) — Anh em cùng batch 1 khu phố lịch sử, thị trường phố nổi lên thời kỳ trà năm 1860, ngày 1947 viên đạn đầu tiên Sự kiện 228 xảy ra tại Đại Đạo Trình Nam Kinh Tây Lộ số 189
-- [Uyển Vạn: Nơi nhộn nhịp nhất Đài Bắc thời kỳ Thanh, nay là quận tuổi trung bình cao nhất Đài Bắc](/geography/艋舺) — Anh em cùng batch 1 khu phố lịch sử, văn hóa điều thông "kiểu quy hoạch Nhật trị" là hai thời kỳ hình thành phố khác nhau
-- [Tây Môn Mạch: Phố giải trí được người Nhật Bản xây năm 1896, 130 năm sau vẫn là phố trẻ nhất Đài Bắc](/geography/西門町) — Anh em cùng batch 1 khu phố lịch sử, cùng điều thông là khu vực giải trí ngoại thành quy hoạch thời Nhật trị, nhưng đi theo hai tuyến văn hóa độc lập hoàn toàn khác
-- [Đạo Trà Đài Loan và Thẩm Mỹ Sinh Hoạt](/culture/台灣茶道與生活美學) — Ảnh hưởng tương hỗ giữa thẩm mỹ Nhật kiểu trong văn hóa điều thông với phong trào phục hưng đạo trà Đài Loan sau chiến tranh
-- [Sự kiện 228](/history/二二八事件) — Ngày 28 tháng 2 năm 1947 chiều 1 giờ đám đông tới giao lộ Trung Sơn bị lính canh bắn máy bắn quét, Trung Sơn Đường cùng ngày triệu tập cuộc họp khẩn cấp trở thành địa điểm Ủy Ban Xử Lý Sự Kiện
-- [Hàng Cây Bóng Mặt Đường Đài Loan](/lifestyle/台灣行道樹) — "Con đường rộng ghép hàng cây" logic quy hoạch thuộc địa, làm sao từ luận cây 1898 của Tián Đại An Định một cách đi tới Chỉ sử phố đạo hẻm điều thông
-- [Phố Nước Nóng Bắc Đầu](/geography/北投溫泉街) — Năm 1979 Bắc Đầu bãi bỏ kỹ nữ gái vs năm 1997 bãi bỏ gái bán dâm toàn thành, và văn hóa điều thông Lâm Sơn Bắc là hai dòng chảy địa cảnh ngành công nghiệp đặc thù Đài Bắc sau chiến tranh
+- [Đài Bắc: Ba khoảng thời gian trong một thành phố, 1738 Bạch Liễu Tự nhìn 2004 của 101](/vi/geography/taipei-city) — Vị trí của Trung Sơn Bắc trong 12 quận, cùng Uyển Vạn, Đại Đạo Trình, Tín Nghĩa ba dòng thời gian xếp song song
+- [Đại Đạo Trình: Một con phố 800 mét chứa ba thế kỷ](/vi/geography/dadaocheng) — Anh em cùng batch 1 khu phố lịch sử, thị trường phố nổi lên thời kỳ trà năm 1860, ngày 1947 viên đạn đầu tiên Sự kiện 228 xảy ra tại Đại Đạo Trình Nam Kinh Tây Lộ số 189
+- [Uyển Vạn: Nơi nhộn nhịp nhất Đài Bắc thời kỳ Thanh, nay là quận tuổi trung bình cao nhất Đài Bắc](/vi/geography/bangka) — Anh em cùng batch 1 khu phố lịch sử, văn hóa điều thông "kiểu quy hoạch Nhật trị" là hai thời kỳ hình thành phố khác nhau
+- [Tây Môn Mạch: Phố giải trí được người Nhật Bản xây năm 1896, 130 năm sau vẫn là phố trẻ nhất Đài Bắc](/vi/geography/ximending) — Anh em cùng batch 1 khu phố lịch sử, cùng điều thông là khu vực giải trí ngoại thành quy hoạch thời Nhật trị, nhưng đi theo hai tuyến văn hóa độc lập hoàn toàn khác
+- [Đạo Trà Đài Loan và Thẩm Mỹ Sinh Hoạt](/vi/culture/taiwan-tea-ceremony-and-aesthetic-living) — Ảnh hưởng tương hỗ giữa thẩm mỹ Nhật kiểu trong văn hóa điều thông với phong trào phục hưng đạo trà Đài Loan sau chiến tranh
+- [Sự kiện 228](/vi/history/228-incident) — Ngày 28 tháng 2 năm 1947 chiều 1 giờ đám đông tới giao lộ Trung Sơn bị lính canh bắn máy bắn quét, Trung Sơn Đường cùng ngày triệu tập cuộc họp khẩn cấp trở thành địa điểm Ủy Ban Xử Lý Sự Kiện
+- [Hàng Cây Bóng Mặt Đường Đài Loan](/vi/lifestyle/taiwan-street-trees) — "Con đường rộng ghép hàng cây" logic quy hoạch thuộc địa, làm sao từ luận cây 1898 của Tián Đại An Định một cách đi tới Chỉ sử phố đạo hẻm điều thông
+- [Phố Nước Nóng Bắc Đầu](/vi/geography/beitou-hot-spring-street) — Năm 1979 Bắc Đầu bãi bỏ kỹ nữ gái vs năm 1997 bãi bỏ gái bán dâm toàn thành, và văn hóa điều thông Lâm Sơn Bắc là hai dòng chảy địa cảnh ngành công nghiệp đặc thù Đài Bắc sau chiến tranh
 
 ## Nguồn ảnh
 

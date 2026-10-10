@@ -105,7 +105,7 @@ Cuộc cắt giảm này sau đó kéo dài thành một lịch sử đấu tran
 
 Năm 2016 đứng ngoài trụ sở Đảng Dân chủ Tiến bộ ba mươi tiếng cuối cùng mới chờ được ký thỏa thuận với chính phủ mới, rồi thỏa thuận bị cắt giảm. Năm 2019 tháng 12 ngày 19 Toà Án Hành chính Cao cấp Đài Bắc xét xử lần một thua kiện, chủ tịch tự cứu hội Tôn Tú Lỗi ngay đó có tiếng nước mắt "thật sự không chấp nhận được kết quả này", buộc tội toà án "đặt lòng tin chính phủ lên mặt đất và dẫm lên"[^23].
 
-Rồi kháng cáo lên tòa hành chính tối cao gửi lại xét xử lần hai, cuối cùng vào ngày 30 tháng 12 năm 2024 thành lập hòa giải và thỏa thuận, cách ngày cắt giảm công việc chính xác 11 năm, cùng một ngày trên lịch, tháng 2 ngày 15 năm 2025 ở Cao Hùng mở tiệc 20 bàn mừng cuộc đấu tranh kết thúc[^24]. Dòng thời gian hoàn chỉnh 11 năm này, bài viết chị em của bài này [Quốc lộ cao tốc](/lifestyle/高速公路) đã viết sâu rồi. Trong đó có lịch sử đấu tranh hoàn chỉnh sáu bước quỳ, hành quân mặt xanh, leo cổng ETC, cũng có phân tích "cam kết chính trị mất lời, và liệu có cấu thành hợp đồng hành chính pháp lý, là hai việc", người đọc có thể đọc trực tiếp qua.
+Rồi kháng cáo lên tòa hành chính tối cao gửi lại xét xử lần hai, cuối cùng vào ngày 30 tháng 12 năm 2024 thành lập hòa giải và thỏa thuận, cách ngày cắt giảm công việc chính xác 11 năm, cùng một ngày trên lịch, tháng 2 ngày 15 năm 2025 ở Cao Hùng mở tiệc 20 bàn mừng cuộc đấu tranh kết thúc[^24]. Dòng thời gian hoàn chỉnh 11 năm này, bài viết chị em của bài này [Quốc lộ cao tốc](/vi/lifestyle/national-highway-system) đã viết sâu rồi. Trong đó có lịch sử đấu tranh hoàn chỉnh sáu bước quỳ, hành quân mặt xanh, leo cổng ETC, cũng có phân tích "cam kết chính trị mất lời, và liệu có cấu thành hợp đồng hành chính pháp lý, là hai việc", người đọc có thể đọc trực tiếp qua.
 
 Chủ tịch tự cứu hội Tôn Tú Lỗi tự mình nói rõ hơn bất kỳ cách tóm tắt nào của người ngoài: "Dùng xong nhân viên thu phí rồi vứt đi, cách đối xử với công nhân như vậy là không công bằng, không hợp lý."[^25]
 
@@ -129,8 +129,8 @@ Ba quán vé xếp dài theo quốc lộ cao tốc: có thể xem, không thể 
 
 ## Đọc thêm
 
-- [Quốc lộ cao tốc](/lifestyle/高速公路) — Năm mươi năm của quyền lực và tốc độ quốc lộ cao tốc Đài Loan, trong đó phần "mười một năm, lấy một thỏa thuận không thể công khai" viết hoàn toàn lịch sử đấu tranh nhân viên thu phí
-- [Hệ thống giao thông Đài Loan](/lifestyle/台灣交通系統) — Từ quốc lộ cao tốc, tàu cao tốc, tàu điện ngầm tới đường công cộng địa phương toàn bộ bối cảnh giao thông
+- [Quốc lộ cao tốc](/vi/lifestyle/national-highway-system) — Năm mươi năm của quyền lực và tốc độ quốc lộ cao tốc Đài Loan, trong đó phần "mười một năm, lấy một thỏa thuận không thể công khai" viết hoàn toàn lịch sử đấu tranh nhân viên thu phí
+- [Hệ thống giao thông Đài Loan](/vi/lifestyle/transportation-system) — Từ quốc lộ cao tốc, tàu cao tốc, tàu điện ngầm tới đường công cộng địa phương toàn bộ bối cảnh giao thông
 
 ---
 

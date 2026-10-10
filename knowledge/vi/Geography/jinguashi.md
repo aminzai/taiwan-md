@@ -168,7 +168,7 @@ Trở lại ngày tháng 11 năm 1942 ban đầu. 523 tù binh nước ngoài b�
 
 Mỗi bức ảnh đẹp mà bạn chụp tại Kim Quái Thạch, dưới nó là xếp chồng một lớp cuộc sống. Vẻ đẹp của núi này là thực, vết thương cũng thực, và chúng là cùng một sự việc. Lần tới, ngoài việc chụp chiếc đèn cam vàng, có lẽ có thể bước vào bức tường khắc tên tuổi một lần. Không nhận ra được bao nhiêu tên, nhưng mỗi cái đều từng là một mạng sống mà núi này đã gánh chịu.
 
-**Đọc thêm**: [Thời kỳ Nhật trị Đài Loan](/history/日治時期)｜[Thành Phố Cơ Long](/geography/基隆市)｜[Tín Ngưỡng Quan Thánh Đế Quân](/culture/關聖帝君信仰)｜[Kỳ Tích Kinh Tế](/economy/經濟奇蹟)（bối cảnh lịch sử hoàn chỉnh của Công ty Đài Kim quản lý Khoáng Sản Kim Quái Thạch sau chiến tranh）｜[A Lý Sơn: Rừng Lâm Lâu Và Cao Nhất Sinh Của Đế Quốc](/history/阿里山：帝國的林場與高一生的山)、[Lịch Sử Phát Triển Rừng Đài Loan](/history/台灣森林開發史)（những bài viết chị em thuộc cùng một hệ thống khai thác tài nguyên đế quốc Nhật）
+**Đọc thêm**: [Thời kỳ Nhật trị Đài Loan](/vi/history/japanese-colonial-era)｜[Thành Phố Cơ Long](/vi/geography/keelung-city)｜[Tín Ngưỡng Quan Thánh Đế Quân](/vi/culture/guan-sheng-di-jun-belief)｜[Kỳ Tích Kinh Tế](/vi/economy/economic-miracle)（bối cảnh lịch sử hoàn chỉnh của Công ty Đài Kim quản lý Khoáng Sản Kim Quái Thạch sau chiến tranh）｜[A Lý Sơn: Rừng Lâm Lâu Và Cao Nhất Sinh Của Đế Quốc](/vi/history/alishan-empire-forest-and-uongu-yatauyungana)、[Lịch Sử Phát Triển Rừng Đài Loan](/vi/history/taiwan-forestry-history)（những bài viết chị em thuộc cùng một hệ thống khai thác tài nguyên đế quốc Nhật）
 
 ## Hình Ảnh Nguồn
 

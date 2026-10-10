@@ -293,11 +293,11 @@ Kaohsiung không phải là bán dưới của Đài Loan. Kaohsiung là thành 
 
 ## Đọc thêm
 
-- [Thành phố New Taipei](/geography/基隆市) — loạt các tỉnh thành 22: cảng đầu tiên lên cấp thành phố trực thuộc trung ương năm 1969 bị Kaohsiung vượt qua, xem hai đầu của "chuyển đổi trung tâm kinh tế Đài Loan"
-- [Tỉnh Đắc Nam](/geography/屏東縣) — loạt các tỉnh thành 22 khu vực lân cận: vụ sự Ma Ka Dao năm 1874, sáu đống người Hoa Kiểu "đống trái" và Kaohsiung "đống phải" cùng sinh sống, thiên tai 88 năm 2009 sạt lở đất ở biên giới và các khu vực núi đất Kaohsiung đồng thời bị ngập inundation
-- [Thành phố Taipei](/geography/台北市) — thành phố trực thuộc trung ương đầu tiên lên cấp năm 1967, khác biệt 12 năm so với Kaohsiung lên cấp năm 1979; vụ án máu nhà Linh Ngọ Tường xảy ra trên đường Xây Dịch Taipei
-- [Vụ sự 22/8](/history/二二八事件) — ngày 6 tháng 3 năm 1947 Peng Meng-chi lên lệnh bắt giữ Kaohsiung, chiến dịch bảo vệ Xinh
-- [Vụ sự Formosa](/history/美麗島事件) — ngày 10 tháng 12 năm 1979 vòng tròn Grand Avenue, vụ sự quan trọng của hoạt động ngoài đảng trong giai đoạn giải phóng chiến tranh
+- [Thành phố New Taipei](/vi/geography/keelung-city) — loạt các tỉnh thành 22: cảng đầu tiên lên cấp thành phố trực thuộc trung ương năm 1969 bị Kaohsiung vượt qua, xem hai đầu của "chuyển đổi trung tâm kinh tế Đài Loan"
+- [Tỉnh Đắc Nam](/vi/geography/pingtung-county) — loạt các tỉnh thành 22 khu vực lân cận: vụ sự Ma Ka Dao năm 1874, sáu đống người Hoa Kiểu "đống trái" và Kaohsiung "đống phải" cùng sinh sống, thiên tai 88 năm 2009 sạt lở đất ở biên giới và các khu vực núi đất Kaohsiung đồng thời bị ngập inundation
+- [Thành phố Taipei](/vi/geography/taipei-city) — thành phố trực thuộc trung ương đầu tiên lên cấp năm 1967, khác biệt 12 năm so với Kaohsiung lên cấp năm 1979; vụ án máu nhà Linh Ngọ Tường xảy ra trên đường Xây Dịch Taipei
+- [Vụ sự 22/8](/vi/history/228-incident) — ngày 6 tháng 3 năm 1947 Peng Meng-chi lên lệnh bắt giữ Kaohsiung, chiến dịch bảo vệ Xinh
+- [Vụ sự Formosa](/vi/history/kaohsiung-incident-formosa-incident) — ngày 10 tháng 12 năm 1979 vòng tròn Grand Avenue, vụ sự quan trọng của hoạt động ngoài đảng trong giai đoạn giải phóng chiến tranh
 - [Vụ án máu nhà Linh Ngọ Tường](/history/林宅血案) — ngày 28 tháng 2 năm 1980, số nhà 16, con phố 31, đường Xây Dịch, Taipei, máu xảy ra với mẹ Linh Ngọ Tường và đôi sinh cô gái Linh Liễu, Linh Thị
 - [Giải phóng chiến tranh Đài Loan](/history/台灣解嚴) — từ vụ sự Formosa năm 1979 đến giải phóng chiến tranh năm 1987, quá trình chuyển đổi bảy năm trăm ngày
 - [Khu xuất khẩu chế biến Đài Loan](/society/台灣加工出口區) — khu xuất khẩu chế biến Kaohsiung trước Gò Cốc năm 1966 là điểm xuất phát vật lý của tăng trưởng kinh tế của Đài Loan

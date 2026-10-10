@@ -182,10 +182,10 @@ Vụ thiên tai khác chắc chắn sẽ tới. Sàn ga Hồi Hùng sẽ bao tr�
 
 **Đọc thêm**:
 
-- [Các ca sĩ nguyên gốc sáng tạo thời đại mới](/music/當代原住民創作歌手) — Trần Kiến Năm, Hồ Đức Phúc và các ca sĩ nguyên gốc Amis làm sao viết trải nghiệm bản xã vào bản đồ âm nhạc thời đại mới của Đài Loan
-- [Văn hóa nhân tình trợ giúp sự kiện và tham gia công ích](/society/台灣志工文化與公益參與) — Từ Cijin đến các tổ chức nhân viên nhỏ lẻ của sinh thái xã hội dân cư Đài Loan
-- [Thần thoại nguyên gốc](/culture/原住民神話) — Từ thần thoại sự mênh mông của bãi Matai đến truyền thuyết của người nguyên gốc Tuo Giá và Rìa Wi, chủ đề sông và bãi biển của bản đồ truyền thống của Đảo Đài Loan
-- [Quyền lợi đất đai và lĩnh vực truyền thống của nguyên gốc Đài Loan](/society/台灣原住民族土地正義與傳統領域) — Tự quản bản xã, thiết lập lĩnh vực truyền thống và chủ thể của nguyên gốc trong quá trình phục hồi sau thiên tai
+- [Các ca sĩ nguyên gốc sáng tạo thời đại mới](/vi/music/contemporary-indigenous-singer-songwriters) — Trần Kiến Năm, Hồ Đức Phúc và các ca sĩ nguyên gốc Amis làm sao viết trải nghiệm bản xã vào bản đồ âm nhạc thời đại mới của Đài Loan
+- [Văn hóa nhân tình trợ giúp sự kiện và tham gia công ích](/vi/society/volunteering-and-civic-charity-in-taiwan) — Từ Cijin đến các tổ chức nhân viên nhỏ lẻ của sinh thái xã hội dân cư Đài Loan
+- [Thần thoại nguyên gốc](/vi/culture/taiwan-indigenous-mythology) — Từ thần thoại sự mênh mông của bãi Matai đến truyền thuyết của người nguyên gốc Tuo Giá và Rìa Wi, chủ đề sông và bãi biển của bản đồ truyền thống của Đảo Đài Loan
+- [Quyền lợi đất đai và lĩnh vực truyền thống của nguyên gốc Đài Loan](/vi/society/indigenous-land-justice-and-traditional-territories) — Tự quản bản xã, thiết lập lĩnh vực truyền thống và chủ thể của nguyên gốc trong quá trình phục hồi sau thiên tai
 
 ## Nguồn ảnh
 

@@ -111,7 +111,7 @@ NET không chỉ là một công ty bán quần áo, mà còn là phương tiệ
 ## Đọc thêm
 
 - [Ngành công nghiệp dệt may](/vi/economy/taiwan-textile-industry) — Mạch lạc thượng nguồn của nhà vô hình ẩn trong ngành dệt may Đài Loan
-- [Doanh nghiệp Đài Loan: Foxconn Precision](/economy/台灣企業：鴻海精密) — Một câu chuyện quy mô hóa doanh nghiệp nội địa khác
+- [Doanh nghiệp Đài Loan: Foxconn Precision](/vi/economy/foxconn-precision-industry) — Một câu chuyện quy mô hóa doanh nghiệp nội địa khác
 
 ## Tham khảo
 

@@ -200,14 +200,14 @@ Năm 2021, anh nói "không đợi Giải Thánh Nhạc, mà nó đang đợi t�
 
 - [Diễu Nhã Vọng](/vi/people/waa-wei-singer) — Mối quan hệ mentor 25 năm của Trần Giàn Quý; hành trình từ Nhạc họa Tự nhiên đến "Bảo mã"
 - [Hồ Giá Yinh](/vi/people/lala-hsu-singer) — Điểm đến đầu tiên của Trần Giàn Quý vào sản xuất âm nhạc pop (〈Vùng đất lặng lẽ〉2008)
-- [Thiên Phúc Tân](/people/田馥甄) — Album "Không ai biết" của Thiên Phúc Tân, Giải Thánh Nhạc 2021 cho người sản xuất tốt nhất
-- [Lý Nhiên Vân](/people/楊丞琳) — So sánh với ca sĩ nữ Hoa ngữ thế hệ tương tự (Lý Nhiên Vân tự sản xuất, Trần Giàn Quý sản xuất khác)
-- [Giải Thánh Nhạc](/music/金曲獎) — Lịch sử ba lần thi đua của Trần Giàn Quý qua sắp đặt nhạc / sản xuất ca khúc / sản xuất album
-- [Âm nhạc pop Đài Loan](/music/台灣流行音樂) — Tuyến đường đỏ của Trần Giàn Quý gỡ bỏ trong 25 năm
-- [Âm nhạc độc lập Đài Loan](/music/台灣獨立音樂) — Vị trí của các công ty "Nhiều Nhạc" và "Nhạc Hạnh" trong hệ sinh thái âm nhạc độc lập
-- [Bống Giá Hui](/people/柯智棠) — Ba album đều do Trần Giàn Quý sản xuất cho ca sĩ người Anh ngữ, cùng giành Giải Vàng 2025 cho ca khúc gốc "Lời chúng tôi"
-- [Lâm Hoàng Giá](/people/林宥嘉) — Hai lần tham gia sản xuất của Trần Giàn Quý: 2012 "Người kể chuyện", 2016 "Hôm nay đang kinh doanh", hành trình từ ca sĩ được viết thành người tự sản xuất
-- [Lai Văn Khả](/people/黃少雍) — Người sản xuất chính khác của "Bảo mã"; Trần Giàn Quý gỡ bỏ tuyến đường đỏ cho giọng Hoa ngữ, Lai Văn Khả gỡ bỏ tương tự cho ngôn ngữ không phải Hoa ngữ (ngôn ngữ Ê Đê / ngôn ngữ Atayal / ngôn ngữ Tai)
+- [Thiên Phúc Tân](/vi/people/hebe-tien-singer) — Album "Không ai biết" của Thiên Phúc Tân, Giải Thánh Nhạc 2021 cho người sản xuất tốt nhất
+- [Lý Nhiên Vân](/vi/people/rainie-yang) — So sánh với ca sĩ nữ Hoa ngữ thế hệ tương tự (Lý Nhiên Vân tự sản xuất, Trần Giàn Quý sản xuất khác)
+- [Giải Thánh Nhạc](/vi/music/pop-music-and-golden-melody-awards) — Lịch sử ba lần thi đua của Trần Giàn Quý qua sắp đặt nhạc / sản xuất ca khúc / sản xuất album
+- [Âm nhạc pop Đài Loan](/vi/music/golden-melodies-legacy-taiwan-pop-music) — Tuyến đường đỏ của Trần Giàn Quý gỡ bỏ trong 25 năm
+- [Âm nhạc độc lập Đài Loan](/vi/music/indie-music-scene) — Vị trí của các công ty "Nhiều Nhạc" và "Nhạc Hạnh" trong hệ sinh thái âm nhạc độc lập
+- [Bống Giá Hui](/vi/people/ke-zhi-tang-musician) — Ba album đều do Trần Giàn Quý sản xuất cho ca sĩ người Anh ngữ, cùng giành Giải Vàng 2025 cho ca khúc gốc "Lời chúng tôi"
+- [Lâm Hoàng Giá](/vi/people/yoga-lin) — Hai lần tham gia sản xuất của Trần Giàn Quý: 2012 "Người kể chuyện", 2016 "Hôm nay đang kinh doanh", hành trình từ ca sĩ được viết thành người tự sản xuất
+- [Lai Văn Khả](/vi/people/huang-shao-yong-musician) — Người sản xuất chính khác của "Bảo mã"; Trần Giàn Quý gỡ bỏ tuyến đường đỏ cho giọng Hoa ngữ, Lai Văn Khả gỡ bỏ tương tự cho ngôn ngữ không phải Hoa ngữ (ngôn ngữ Ê Đê / ngôn ngữ Atayal / ngôn ngữ Tai)
 
 ## Tài liệu tham khảo
 

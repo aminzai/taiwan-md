@@ -173,9 +173,9 @@ Quảng cáo là để bán hàng. Có quảng cáo được nhớ nhất Đài 
 
 ## Đọc Mở Rộng
 
-- [Lịch sử ngành công nghiệp truyền hình Đài Loan](/technology/台灣電視產業史) — Ba đài cũ, truyền hình cáp tới OTT, chính cái màn hình mang quảng cáo chính nó như thế nào tiến hoá
-- [Toàn Liên Phúc Lợi Trung Tâm](/economy/全聯福利中心) — Từ cơ sở công cộng đen đủi tới vua bán lẻ, nền quảng cáo Ô Mỹ "thẩm mỹ kinh tế" của nền tảng thương mại
-- [Ngành âm nhạc Đài Loan và thời kỳ phát trực tuyến](/music/台灣音樂產業與串流時代) — Từ bài quảng cáo nổi tiếng ca sĩ, tới chia riêng lẻ phát trực tuyến của bản sử tiêu dùng âm nhạc biến đổi
+- [Lịch sử ngành công nghiệp truyền hình Đài Loan](/vi/technology/taiwan-television-industry-history) — Ba đài cũ, truyền hình cáp tới OTT, chính cái màn hình mang quảng cáo chính nó như thế nào tiến hoá
+- [Toàn Liên Phúc Lợi Trung Tâm](/vi/economy/pxmart-supermarket) — Từ cơ sở công cộng đen đủi tới vua bán lẻ, nền quảng cáo Ô Mỹ "thẩm mỹ kinh tế" của nền tảng thương mại
+- [Ngành âm nhạc Đài Loan và thời kỳ phát trực tuyến](/vi/music/taiwan-music-industry-and-the-streaming-era) — Từ bài quảng cáo nổi tiếng ca sĩ, tới chia riêng lẻ phát trực tuyến của bản sử tiêu dùng âm nhạc biến đổi
 
 ---
 

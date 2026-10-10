@@ -183,7 +183,7 @@ Vì vậy, lần tới khi bạn thanh toán tại cửa hàng tiện lợi, nh�
 - [Văn hóa cửa hàng tiện lợi Đài Loan](/vi/lifestyle/convenience-store-culture) — Cảnh người dân đổi thưởng tiền vé và nói "919" để quyên góp hóa đơn nhiều nhất ngày nay, diễn ra ngay tại quầy thanh toán của các chuỗi cửa hàng lớn.
 - [Khủng bố trắng Đài Loan](/vi/history/taiwan-white-terror) — Trong thời đại mà người thiết kế hóa đơn Nhậm Hiển Quần bị giam tù vì "biết kẻ thù không báo", một cái nhãn mác có thể gây chết người.
 - [Công lý chuyển tiếp Đài Loan](/vi/history/taiwan-transitional-justice) — Việc minh oan cho Nhậm Hiển Quần, kéo dài nhiều năm qua hai chính quyền, là một quá trình cụ thể mà Đài Loan đã trải qua khi đối mặt với lịch sử độc tài.
-- [Cơ chế giá dầu và Sinopec Đài Loan](/economy/台灣油價機制與中油) — Cũng dùng một văn bản quy phạm như thước đo: một thông cáo báo chí về giá dầu làm chia một lít thành ba phần, yêu cầu Sinopec gánh chịu, phân bổ đồng đều theo từng lít, mà không ai thống kê được người nào sử dụng nhiều nhất.
+- [Cơ chế giá dầu và Sinopec Đài Loan](/vi/economy/taiwan-fuel-pricing-and-cpc) — Cũng dùng một văn bản quy phạm như thước đo: một thông cáo báo chí về giá dầu làm chia một lít thành ba phần, yêu cầu Sinopec gánh chịu, phân bổ đồng đều theo từng lít, mà không ai thống kê được người nào sử dụng nhiều nhất.
 
 ## Hình ảnh nguồn
 

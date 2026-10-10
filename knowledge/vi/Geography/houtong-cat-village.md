@@ -217,11 +217,11 @@ Bộ sắc tiếp theo – có thể là bảo tàng lịch sử công nhân mà
 
 **Đọc thêm**:
 
-- [Kim Quả Thạch](/geography/金瓜石) – Cộng đồng chị em trên Sông Cơ Long, khai thác mỏ di tích chuyển đổi đường bảo tàng sinh thái \"Công viên Bảo tàng Vàng\"
-- [Lịch sử Tàu sắt Đài Loan](/history/台灣鐵道史) – Tuyến tàu Bình Khê thông xe năm 1920 là xương sống cơ sở hạ tầng du lịch của Houtong / Bình Khê / Thanh Tùng / Mười Phần dãy route này
-- [Văn hóa động vật hoang Đài Loan](/society/台灣流浪動物文化) – Ngữ cảnh chứng thực của chính sách TNVR Đài Loan, Houtong là ít nhất mẫu thành công
-- [Vườn bách thú và Đạo đức Động vật trưng bày](/society/動物園與展演動物倫理) – \"Du lịch mèo\" và vườn bách thú / hải sinh viện cùng chung căng thẳng đạo đức động vật
-- [Đèn Trời](/culture/天燈) – Lễ hội đèn Bình Khê cũng phải đối mặt \"nền kinh tế địa phương vs bảo vệ động vật / trách nhiệm môi trường\" căng thẳng chuyển đổi khai thác mỏ cộng đồng
+- [Kim Quả Thạch](/vi/geography/jinguashi) – Cộng đồng chị em trên Sông Cơ Long, khai thác mỏ di tích chuyển đổi đường bảo tàng sinh thái \"Công viên Bảo tàng Vàng\"
+- [Lịch sử Tàu sắt Đài Loan](/vi/history/taiwan-railway-history) – Tuyến tàu Bình Khê thông xe năm 1920 là xương sống cơ sở hạ tầng du lịch của Houtong / Bình Khê / Thanh Tùng / Mười Phần dãy route này
+- [Văn hóa động vật hoang Đài Loan](/vi/society/stray-animal-culture) – Ngữ cảnh chứng thực của chính sách TNVR Đài Loan, Houtong là ít nhất mẫu thành công
+- [Vườn bách thú và Đạo đức Động vật trưng bày](/vi/society/zoo-and-exhibition-animal-ethics) – \"Du lịch mèo\" và vườn bách thú / hải sinh viện cùng chung căng thẳng đạo đức động vật
+- [Đèn Trời](/vi/culture/sky-lanterns-pingxi) – Lễ hội đèn Bình Khê cũng phải đối mặt \"nền kinh tế địa phương vs bảo vệ động vật / trách nhiệm môi trường\" căng thẳng chuyển đổi khai thác mỏ cộng đồng
 
 ## Nguồn hình ảnh
 

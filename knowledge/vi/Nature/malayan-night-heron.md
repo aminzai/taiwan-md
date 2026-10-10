@@ -125,12 +125,12 @@ Swinhoe 160 năm trước ở Đạm Thủy viết "hiếm gặp" hai chữ. Ng�
 
 **Đọc Tiếp**:
 
-- [Vấn đề Chim Va Kính Cửa Sổ Ở Đài Loan](/nature/台灣鳥類窗殺議題) — Tai nạn đường bộ chim Cào Giang Đen Vàng chỉ là một khía cạnh của rủi ro chim đô thị, những tòa nhà kính mái vòm mỗi năm gây chết của chim là quy mô vô hình hơn
-- [Học Chim Formosa](/nature/福爾摩沙鳥類學) — Swinhoe viết "chim Cào Giang Đen Vàng hiếm gặp" ở Đạm Thủy năm 1865 là bước khởi đầu của ngành chim học hòn đảo
-- [Hệ Thống Sinh Thái Rừng Đài Loan](/nature/台灣森林生態系) — Vị trí sinh cư rừng lá rộng hạ độ cao ban đầu của chim Cào Giang Đen Vàng, để hiểu một nhóm kiểm soát về đô thị hóa của nó
-- [Khỉ Đầu Vàng Đài Loan](/nature/台灣獼猴) — Một trường hợp khác của động vật hoang dã bước vào phạm vi hoạt động con người, có chiều hướng ngược lại với sự mở rộng chim Cào Giang Đen Vàng: con người luôn đâm vào nó trên đường
-- [Loài Đặc Hữu](/nature/特有種) — Chim Cào Giang Đen Vàng không phải là loài đặc hữu của Đài Loan, nhưng sự mở rộng quần thể đô thị của nó ở Đài Loan là duy nhất trên toàn cầu
-- [Cây Hàng Đường Đài Loan](/lifestyle/台灣行道樹) — Nhóm cây côi và cây vỏ trên đường hàng được trồng sau những năm 1990, cắt thành hình dạng dài và lót giữa bê tông một rừng lá rộng hạ độ cao, là khía cạnh khác của môi trường sống đô thị hoá của chim Cào Giang Đen Vàng
+- [Vấn đề Chim Va Kính Cửa Sổ Ở Đài Loan](/vi/nature/bird-window-collision-taiwan) — Tai nạn đường bộ chim Cào Giang Đen Vàng chỉ là một khía cạnh của rủi ro chim đô thị, những tòa nhà kính mái vòm mỗi năm gây chết của chim là quy mô vô hình hơn
+- [Học Chim Formosa](/vi/nature/the-ornithology-of-formosa) — Swinhoe viết "chim Cào Giang Đen Vàng hiếm gặp" ở Đạm Thủy năm 1865 là bước khởi đầu của ngành chim học hòn đảo
+- [Hệ Thống Sinh Thái Rừng Đài Loan](/vi/nature/taiwan-forest-ecosystems) — Vị trí sinh cư rừng lá rộng hạ độ cao ban đầu của chim Cào Giang Đen Vàng, để hiểu một nhóm kiểm soát về đô thị hóa của nó
+- [Khỉ Đầu Vàng Đài Loan](/vi/nature/formosan-rock-macaque) — Một trường hợp khác của động vật hoang dã bước vào phạm vi hoạt động con người, có chiều hướng ngược lại với sự mở rộng chim Cào Giang Đen Vàng: con người luôn đâm vào nó trên đường
+- [Loài Đặc Hữu](/vi/nature/endemic-species) — Chim Cào Giang Đen Vàng không phải là loài đặc hữu của Đài Loan, nhưng sự mở rộng quần thể đô thị của nó ở Đài Loan là duy nhất trên toàn cầu
+- [Cây Hàng Đường Đài Loan](/vi/lifestyle/taiwan-street-trees) — Nhóm cây côi và cây vỏ trên đường hàng được trồng sau những năm 1990, cắt thành hình dạng dài và lót giữa bê tông một rừng lá rộng hạ độ cao, là khía cạnh khác của môi trường sống đô thị hoá của chim Cào Giang Đen Vàng
 
 ## Hình Ảnh Nguồn
 

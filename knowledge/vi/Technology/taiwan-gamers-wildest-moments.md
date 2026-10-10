@@ -129,11 +129,11 @@ Chiếc xe đó đã lao đi lâu rồi. Nhưng những người đã đuổi th
 
 ## Đọc thêm
 
-- [Công nghiệp trò chơi Đài Loan và Giải trí số hoá](/technology/台灣遊戲產業與數位娛樂) — Toàn cảnh trò chơi Đài Loan từ đại lý đến ban đầu
-- [Văn hóa siêu thị Đài Loan](/lifestyle/台灣便利商店文化) — Tiền đề của việc đuổi theo xe logistics: phân bố siêu thị mật độ thứ hai toàn cầu
-- [Lịch di cư cộng đồng mạng Đài Loan](/technology/台灣網路社群遷徙史) — Cơ sở hạ tầng truyền đạt tin tức cho những khoảnh khắc điên rồ này
-- [Gươm đôi của Đại Vũ](/technology/大宇雙劍) — Hiểu cảm xúc của thế hệ game thủ Đài Loan sớm hơn
-- [Làm sao mà không vào hang xúc tiến để ngủ](/technology/不入地窖焉能睡覺) — Sân khấu nền tảng mạng xã hội cho những khoảnh khắc điên rồ này
+- [Công nghiệp trò chơi Đài Loan và Giải trí số hoá](/vi/technology/taiwan-gaming-industry) — Toàn cảnh trò chơi Đài Loan từ đại lý đến ban đầu
+- [Văn hóa siêu thị Đài Loan](/vi/lifestyle/convenience-store-culture) — Tiền đề của việc đuổi theo xe logistics: phân bố siêu thị mật độ thứ hai toàn cầu
+- [Lịch di cư cộng đồng mạng Đài Loan](/vi/technology/taiwan-online-community-migration) — Cơ sở hạ tầng truyền đạt tin tức cho những khoảnh khắc điên rồ này
+- [Gươm đôi của Đại Vũ](/vi/technology/softstar-twin-classics) — Hiểu cảm xúc của thế hệ game thủ Đài Loan sớm hơn
+- [Làm sao mà không vào hang xúc tiến để ngủ](/vi/technology/into-the-cellar-taiwan-game-podcast) — Sân khấu nền tảng mạng xã hội cho những khoảnh khắc điên rồ này
 
 ## Tài liệu tham khảo
 

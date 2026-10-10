@@ -69,10 +69,10 @@ Tháng 1 năm 2000, Wu Đại Chù tại thành phố San Francisco, kỳ, ở t
 
 **Tài liệu tham khảo thêm:**
 
-- [Lý Viễn Tĩ](/people/李遠哲) — Một nhà khoa học khác đã lớn lên tại Đài Loan, sau đó giành giải Nobel Hóa học, đại diện cho sự tích lũy liên tục trong khoa học cơ bản tại Đài Loan
-- [Ngành công nghiệp bán dẫn](/technology/半導體產業) — Những năm 1980, khi Wu Đại Chù làm hiệu trưởng Viện Nghiên cứu Trung Ương, chính là giai đoạn then chốt phát triển của ngành công nghiệp bán dẫn tại Đài Loan
-- [Tang Đông](/people/唐鳳) — Từ khoa học đến công nghệ, một con đường khác để các nhà chuyên gia tri thức tại Đài Loan tham gia vào công việc công cộng
-- [Linh Quang Nhi](/people/林琪兒) — Nhà du hành không gian NASA, doctơ y học, sinh ra ở Đài Bắc, tiếp nối hành trình của những nhà khoa học người Đài Loan trong hệ thống học thuật Mỹ sau chiến tranh
+- [Lý Viễn Tĩ](/vi/people/lee-yuan-tseh) — Một nhà khoa học khác đã lớn lên tại Đài Loan, sau đó giành giải Nobel Hóa học, đại diện cho sự tích lũy liên tục trong khoa học cơ bản tại Đài Loan
+- [Ngành công nghiệp bán dẫn](/vi/technology/taiwan-semiconductor-industry) — Những năm 1980, khi Wu Đại Chù làm hiệu trưởng Viện Nghiên cứu Trung Ương, chính là giai đoạn then chốt phát triển của ngành công nghiệp bán dẫn tại Đài Loan
+- [Tang Đông](/vi/people/audrey-tang) — Từ khoa học đến công nghệ, một con đường khác để các nhà chuyên gia tri thức tại Đài Loan tham gia vào công việc công cộng
+- [Linh Quang Nhi](/vi/people/lin-chi-er-astronaut) — Nhà du hành không gian NASA, doctơ y học, sinh ra ở Đài Bắc, tiếp nối hành trình của những nhà khoa học người Đài Loan trong hệ thống học thuật Mỹ sau chiến tranh
 
 ## Tài liệu tham khảo
 

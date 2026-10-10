@@ -165,11 +165,11 @@ Câu chuyện vận tải biển quay ngoằn ngoèo hơn. Từ những năm 198
 
 **Đọc thêm**:
 
-- [Hệ thống xe buýt Đài Loan](/lifestyle/台灣的公車系統) — "Người không có tay lái" trên hòn đảo xe máy di chuyển như thế nào, và câu chuyện hệ thống này sắp sụp đổ trước tiên ở các vùng nông thôn
-- [Văn hóa cửa hàng tiện lợi Đài Loan](/lifestyle/台灣便利商店文化) — Giống như hệ thống giao thông 24 giờ không ngừng quay, một loại cơ sở hạ tầng khác
-- [Văn hóa xe máy Đài Loan](/lifestyle/台灣機車文化) — Phía sau 14 triệu chiếc xe máy, thiết kế thành phố, chính trị giai cấp và cuộc chiến quyền lộ
-- [Phát triển chuỗi sản xuất xe điện Đài Loan](/technology/台灣電動車產業鏈發展) — Ngoài Gogoro, vai trò của Đài Loan trong chuỗi cung ứng xe điện toàn cầu
-- [Đặc điểm địa lý và hình thành hòn đảo Đài Loan](/geography/台灣島嶼地理特色與形成) — Nguồn gốc địa chất tấm trong dãy núi Trung ương, sự phân hoá đông tây
+- [Hệ thống xe buýt Đài Loan](/vi/lifestyle/taiwan-bus-system) — "Người không có tay lái" trên hòn đảo xe máy di chuyển như thế nào, và câu chuyện hệ thống này sắp sụp đổ trước tiên ở các vùng nông thôn
+- [Văn hóa cửa hàng tiện lợi Đài Loan](/vi/lifestyle/convenience-store-culture) — Giống như hệ thống giao thông 24 giờ không ngừng quay, một loại cơ sở hạ tầng khác
+- [Văn hóa xe máy Đài Loan](/vi/lifestyle/taiwan-scooter-culture) — Phía sau 14 triệu chiếc xe máy, thiết kế thành phố, chính trị giai cấp và cuộc chiến quyền lộ
+- [Phát triển chuỗi sản xuất xe điện Đài Loan](/vi/technology/taiwan-electric-vehicle-industry-chain) — Ngoài Gogoro, vai trò của Đài Loan trong chuỗi cung ứng xe điện toàn cầu
+- [Đặc điểm địa lý và hình thành hòn đảo Đài Loan](/vi/geography/geography-and-geology) — Nguồn gốc địa chất tấm trong dãy núi Trung ương, sự phân hoá đông tây
 
 ## Dữ liệu công khai
 

@@ -137,5 +137,5 @@ Tinh thần này cho đến ngày nay vẫn chưa lỗi thời.
 
 ## Các chủ đề liên quan
 
-- [吳哲宇](/people/吳哲宇): Một con đường khác của người Đài Loan đi từ lập trình sang nghệ thuật
-- [唐鳳](/people/唐鳳): Cách quan niệm công nghệ tiếp vào lĩnh vực công cộng
+- [吳哲宇](/vi/people/che-yu-wu): Một con đường khác của người Đài Loan đi từ lập trình sang nghệ thuật
+- [唐鳳](/vi/people/audrey-tang): Cách quan niệm công nghệ tiếp vào lĩnh vực công cộng

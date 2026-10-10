@@ -188,9 +188,9 @@ Phố sách bị tháo dỡ, nhưng hồ sen vẫn còn ở đó để ra hoa.
 **Đọc tiếp**:
 
 - [Thành phố Đài Bắc](/geography/taipei) — tầu niên 12 khu, bối cảnh hình thành sau chiến tranh của Quận Trung Chính nơi Phố Cửu Lĩnh nằm
-- [Đại Tao Ngành](/geography/大稻埕) — thế hệ khác của ký ức góc phố ba thị Đài Bắc, từ 1851 thương mại đến 1947 sự kiện 228
-- [Bãi Tràn](/geography/艋舺) — phố thị sớm nhất của Đài Bắc thời lãnh chủ Thanh, từ năm 1738 Chùa Long Sơn đến 2010 phim《Bãi Tràn》
-- [Tây Môn Cho](/geography/西門町) — khu giải trí năm 1896 thời Nhật trị đến 2026 thủ đô văn hóa lần tiếp theo, giống như Phố Cửu Lĩnh cùng là những khu phố Quận Trung Chính được quy hoạch thành hình thời Nhật trị
+- [Đại Tao Ngành](/vi/geography/dadaocheng) — thế hệ khác của ký ức góc phố ba thị Đài Bắc, từ 1851 thương mại đến 1947 sự kiện 228
+- [Bãi Tràn](/vi/geography/bangka) — phố thị sớm nhất của Đài Bắc thời lãnh chủ Thanh, từ năm 1738 Chùa Long Sơn đến 2010 phim《Bãi Tràn》
+- [Tây Môn Cho](/vi/geography/ximending) — khu giải trí năm 1896 thời Nhật trị đến 2026 thủ đô văn hóa lần tiếp theo, giống như Phố Cửu Lĩnh cùng là những khu phố Quận Trung Chính được quy hoạch thành hình thời Nhật trị
 - [Điện ảnh Đài Loan](/art/taiwan-cinema) — vị trí của bộ phim 237 phút《Sự kiện giết người tuổi trẻ Phố Cửu Lĩnh》của Dương Đức Xương trong lịch sử phong trào điện ảnh mới
 - [Dương Đức Xương](/people/yang-dezhang) — nhân vật linh hồn điện ảnh mới Đài Loan tạo ra bộ phim《Sự kiện giết người tuổi trẻ Phố Cửu Lĩnh》dài 237 phút
 - [Công Quán](/geography/gonguan) — cảnh tượng song sinh của văn hóa công chúng tri thức người ngoài tỉnh và phố sách cũ sau chiến tranh, tạo thành hai cơ sở tập trung người Trí Thức ngoài tỉnh với Phố Cửu Lĩnh

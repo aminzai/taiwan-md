@@ -131,9 +131,9 @@ Quan trọng hơn, tinh thần của Đới Tư Dĩnh — không bao giờ bỏ 
 
 **Đọc thêm**:
 
-- [Quách Tĩnh Thuần](/people/郭婞淳) — Huy chương vàng cử tạ Olympic Tokyo, cùng là vận động viên người A-mei cốt lõi đoàn thể thao Đài Loan
-- [Lý Dương](/people/李洋) — Đồng kỳ sinh viên Trung tâm Quốc gia tập trung, sau huy chương vàng Olympic Tokyo/Paris thành Bộ trưởng đầu tiên Bộ Văn hóa Thể thao
-- [Vương Tề Lân với Lý Dương (Cặp Lân-Dương)](/people/麟洋配) — Cặp đôi nam đầu tiên trong lịch sử không phải hạt giống mà hai lần liên tiếp vô địch Olympic
+- [Quách Tĩnh Thuần](/vi/people/kuo-hsing-chun-olympic-weightlifting-champion) — Huy chương vàng cử tạ Olympic Tokyo, cùng là vận động viên người A-mei cốt lõi đoàn thể thao Đài Loan
+- [Lý Dương](/vi/people/lee-yang-badminton) — Đồng kỳ sinh viên Trung tâm Quốc gia tập trung, sau huy chương vàng Olympic Tokyo/Paris thành Bộ trưởng đầu tiên Bộ Văn hóa Thể thao
+- [Vương Tề Lân với Lý Dương (Cặp Lân-Dương)](/vi/people/lin-yang-duo-taiwan-badminton-champions) — Cặp đôi nam đầu tiên trong lịch sử không phải hạt giống mà hai lần liên tiếp vô địch Olympic
 - [Châu Tử Du](/vi/people/tzuyu) — Cùng thế hệ một cô gái 13 tuổi ly hương theo đuổi giấc mơ từ Đài Nam
 
 ## Tài liệu tham khảo

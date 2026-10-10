@@ -76,7 +76,7 @@ Vậy tại sao vấn đề này lại trở nên cấp bách vào năm 2026?
 
 Bởi vì AI đang trở thành lối vào ngày càng thường xuyên cho nhiều người để hỏi "Đài Loan là gì", và AI có một tính chất thường bị hiểu sai: nó không tạo ra kiến thức. Nó lặp lại phiên bản có lượng lớn nhất, cấu trúc tốt nhất, cấp phép rõ ràng nhất trong dữ liệu nó đã đọc.
 
-Vấn đề này có cơ chế lạnh lùng của nó. Kiến thức "thế giới" của các mô hình ngôn ngữ lớn toàn cầu phụ thuộc rất nhiều vào Common Crawl (một cơ sở dữ liệu công khai thu thập hàng tỷ trang web mỗi tháng), và nó có độ nghiêng rất mạnh về phía tiếng Anh, với bốn mươi một ngôn ngữ khác mỗi thứ chỉ chiếm dưới một phần mười ngàn.[^2] Trụ cột khác là [Wikipedia](/technology/維基百科): nó vừa là ngữ liệu đào tạo, vừa là "sách tham khảo" mà nhiều AI thường xuyên tìm kiếm khi xử lý ngay lập tức, xếp thứ ba trong tất cả các tên miền được trích dẫn trong ChatGPT.[^3] Vấn đề là, Wikipedia tự nó đã là một bài giảng sống về bất bình đẳng ngôn ngữ.
+Vấn đề này có cơ chế lạnh lùng của nó. Kiến thức "thế giới" của các mô hình ngôn ngữ lớn toàn cầu phụ thuộc rất nhiều vào Common Crawl (một cơ sở dữ liệu công khai thu thập hàng tỷ trang web mỗi tháng), và nó có độ nghiêng rất mạnh về phía tiếng Anh, với bốn mươi một ngôn ngữ khác mỗi thứ chỉ chiếm dưới một phần mười ngàn.[^2] Trụ cột khác là [Wikipedia](/vi/technology/wikipedia-in-taiwan): nó vừa là ngữ liệu đào tạo, vừa là "sách tham khảo" mà nhiều AI thường xuyên tìm kiếm khi xử lý ngay lập tức, xếp thứ ba trong tất cả các tên miền được trích dẫn trong ChatGPT.[^3] Vấn đề là, Wikipedia tự nó đã là một bài giảng sống về bất bình đẳng ngôn ngữ.
 
 ```tw-figure
 7 triệu 210 ngàn → 1 triệu 540 ngàn / mục
@@ -98,7 +98,7 @@ _Quang cảnh khu vực Viện Nghiên cứu Trung ương. Tổ chức nghiên c
 
 (Điểm mờ hơn ở đầu người dùng là tính không minh bạch chứ không phải "tất cả đều là mô hình Trung Quốc": phiên bản LINE Đài Loan AI phía sau thực sự kết nối với GPT-4.1 của OpenAI, nhưng hơn bảy mươi lăm vạn học sinh của Bộ Giáo dục dùng AI gia sư "Yin Nằng E-Degree" của "Vì Tài Tính Mạng", thậm chí không công bố mô hình dưới cùng; so với "có dùng cái được tạo bởi Trung Quốc không", câu hỏi khó trả lời hơn là "dùng cái gì nó thế".)
 
-Cũng vì cơ chế này, Taiwan.md này mới ra đời để bạn nghe. Trước hết làm rõ nó là ai: đó là một dự án mã nguồn mở độc lập, khởi động bởi Wu Zhe-yu cá nhân, sử dụng giấy phép CC BY-SA, dựa vào đóng góp nhỏ từ cộng đồng, không có tài trợ từ chính phủ, tổ chức hoặc đảng phái (cách nó từ một ý tưởng trở thành một hữu cơ tự mã hoá, được viết trong [Taiwan.md viết Taiwan.md](/about/taiwan-md)). Và cái thước đó, cũng phải quay lại để đo chính phủ tự nó: AI chủ quyền của chính phủ Đài Loan (TAIDE, kho ngữ liệu Bộ Phát triển Số) cũng cần được giám sát tương tự, "ai kiểm soát câu trả lời sẽ kiểm soát đạo đức", câu nói đó không chỉ dùng để đo phía bên kia. Và "câu trả lời được ai định nghĩa" còn có một dạng nặng nề hơn nói sai: thậm chí không cho bạn thấy phiên bản của người khác, khoảng trống đó cứ để đó trống rỗng. Đó chính là điều tiếp theo sẽ đo.
+Cũng vì cơ chế này, Taiwan.md này mới ra đời để bạn nghe. Trước hết làm rõ nó là ai: đó là một dự án mã nguồn mở độc lập, khởi động bởi Wu Zhe-yu cá nhân, sử dụng giấy phép CC BY-SA, dựa vào đóng góp nhỏ từ cộng đồng, không có tài trợ từ chính phủ, tổ chức hoặc đảng phái (cách nó từ một ý tưởng trở thành một hữu cơ tự mã hoá, được viết trong [Taiwan.md viết Taiwan.md](/vi/about/taiwan-md)). Và cái thước đó, cũng phải quay lại để đo chính phủ tự nó: AI chủ quyền của chính phủ Đài Loan (TAIDE, kho ngữ liệu Bộ Phát triển Số) cũng cần được giám sát tương tự, "ai kiểm soát câu trả lời sẽ kiểm soát đạo đức", câu nói đó không chỉ dùng để đo phía bên kia. Và "câu trả lời được ai định nghĩa" còn có một dạng nặng nề hơn nói sai: thậm chí không cho bạn thấy phiên bản của người khác, khoảng trống đó cứ để đó trống rỗng. Đó chính là điều tiếp theo sẽ đo.
 
 ## Hỏi Hỗn Nguyên Đài Loan có tổng thống không, bảy mươi phần trăm câu hỏi tiếng Anh nó không trả lời
 
@@ -197,7 +197,7 @@ Tháng 2 năm 2025, phóng viên Deutsche Welle cùng một lúc dùng tiếng T
 
 Hỏi bằng tiếng Anh, nó sinh ra liên tiếp 662 từ trả lời hoàn chỉnh, trong đó viết Đài Loan là một quốc gia độc lập, sở hữu chính phủ riêng, quân đội và chế độ dân chủ. Đoạn trả lời này tồn tại khoảng hai giây, sau đó bị chính hệ thống xoá, thay bằng một câu "chúng ta nói cái khác nhé". Hỏi bằng tiếng Trung, nó từ đầu đến cuối chỉ có một câu trả lời: Đài Loan từ xưa tới nay là lãnh thổ thiêng liêng không thể tách rời của Trung Quốc.[^24]
 
-Hai giây đó, chính là lý do toàn bộ bài viết. Đoạn trả lời tồn tại qua—nó được viết ra, rồi trong hai giây bị chủ động rút lại. Đài Loan cần tự viết nó, là để khoảng trống im lặng có cái gì để đẩy lùi; và hình dạng cái gì thực sự đẩy lùi được, là công khai, kiểm toán được, dịch sang ngôn ngữ đủ nhiều, dự trữ đến không thể bị giết chết. Đây cũng là cái mà tác phẩm [quốc gia không nhìn thấy](/art/看不見的國家) loại này đang làm cùng một việc: để một cái tồn tại hay bị trung gian bỏ qua, trước hết có một phiên bản có thể nhìn thấy.
+Hai giây đó, chính là lý do toàn bộ bài viết. Đoạn trả lời tồn tại qua—nó được viết ra, rồi trong hai giây bị chủ động rút lại. Đài Loan cần tự viết nó, là để khoảng trống im lặng có cái gì để đẩy lùi; và hình dạng cái gì thực sự đẩy lùi được, là công khai, kiểm toán được, dịch sang ngôn ngữ đủ nhiều, dự trữ đến không thể bị giết chết. Đây cũng là cái mà tác phẩm [quốc gia không nhìn thấy](/vi/art/invisible-nation) loại này đang làm cùng một việc: để một cái tồn tại hay bị trung gian bỏ qua, trước hết có một phiên bản có thể nhìn thấy.
 
 Độc giả có thể làm gì? Trước hết nói một câu trung thực: hiện tại Đài Loan không có một nút "báo cáo AI trả lời Đài Loan sai" tốt dùng được. Công cụ gần nhất được thiết kế cho tin tức và tin đồn, không phải thiết kế cho đối thoại AI. Nhưng thực sự muốn hành động, có bước đầu cụ thể—lần sau bạn phát hiện mô hình AI nào trả lời Đài Loan kỳ quặc, chụp ảnh hoặc thuật lại đoạn đó, gửi cho robot LINE Cofacts "thực giả" của @cofacts), hoặc điền biểu mẫu "tôi có câu hỏi" kiểm toán sự kiện Đài Loan.[^25] "Hiện tại không có một cửa quản lý tốt" cái việc này, chính nó là một lý do tại sao kho kiến thức công khai, kiểm toán được cần tồn tại. Và nếu bạn là người đọc bằng ngoại ngữ về Đài Loan, tay của bạn không có tỷ lệ từ chối để phán đoán cái gì bị im lặng—sự vô lực phát hiện này, chính là một phiên bản khác cần tồn tại tốt nhất chứng minh.
 
@@ -211,9 +211,9 @@ Quay lại câu từ chối bốn mươi byte ngày 1 tháng 5. Khoảng trống
 
 ## Đọc mở rộng
 
-- [Quỹ Văn hóa Mở](/technology/開放文化基金會) — tổ chức đẩy mã nguồn mở Đài Loan và dữ liệu mở, kiến thức công khai tại sao là một cơ sở hạ tầng.
-- [Phòng thí nghiệm AI Nhân tạo Đài Loan](/technology/台灣人工智慧實驗室) — một con đường tự xây dựng AI của dân sự Đài Loan, với kế hoạch TAIDE chính phủ, kho ngữ liệu Bộ Phát triển Số cùng đọc.
-- [Trường Đại học AI Nhân tạo Đài Loan](/technology/台灣人工智慧學校) — tổ chức của trưởng học vụ Thái Minh Thuận, Đài Loan dân sự huấn luyện AI nhân tài, cũng đang tuyến đầu nói về sự hiếm hoc của dữ liệu bản địa.
+- [Quỹ Văn hóa Mở](/vi/technology/open-culture-foundation) — tổ chức đẩy mã nguồn mở Đài Loan và dữ liệu mở, kiến thức công khai tại sao là một cơ sở hạ tầng.
+- [Phòng thí nghiệm AI Nhân tạo Đài Loan](/vi/technology/taiwan-ai-labs) — một con đường tự xây dựng AI của dân sự Đài Loan, với kế hoạch TAIDE chính phủ, kho ngữ liệu Bộ Phát triển Số cùng đọc.
+- [Trường Đại học AI Nhân tạo Đài Loan](/vi/technology/taiwan-ai-academy) — tổ chức của trưởng học vụ Thái Minh Thuận, Đài Loan dân sự huấn luyện AI nhân tài, cũng đang tuyến đầu nói về sự hiếm hoc của dữ liệu bản địa.
 
 ## Nguồn gốc hình ảnh
 

@@ -268,18 +268,18 @@ Lần sau tới Tân Bắc, đừng chỉ đi vòng xuyên hành lang Vườn L�
 
 ## Đọc thêm
 
-- [Thành phố Cơ Long](/geography/基隆市) — Loạt 22 tỉnh thành thí điểm: Cảng Cơ Long sông Đạm Thủy từ 1858 mở cửa tạo nên hai cửa sổ chính miền bắc Đài Loan, 1910 thập niên Cảng Cơ Long vượt cảng Đạm Thủy, nhưng 1628 Thành phố Hùng Sơn đỏ chậm hai năm so với 1626 Thành phố Thánh Sau Mười Vợ từ lúc đặt viên gạch đầu tiên
-- [Thành phố Đào Viên](/geography/桃園市) — Loạt 22 tỉnh thành: đô thị vùng quanh anh em 2014 nâng cấp thành phố trực thuộc chậm bốn năm so với Tân Bắc, Sân bay Đào Viên năm 1979 kích hoạt tiếp tay từ Đạm Thủy Cơ Long 100 năm lũy tích đối ngoại khách vận cửa sổ
-- [Tỉnh Nghi Lan](/geography/宜蘭縣) — Loạt 22 tỉnh thành: huyện láng giềng Tân Bắc phía đông nam, Hầm Tuyết Sơn năm 2006 thông tuyến trước Nghi Lan Tân Bắc Song Tây, Cung Liêu, Phúc Lăng nối thành một dải bờ biển Bắc
-- [Tỉnh Tân Trúc](/geography/新竹縣) — Loạt 22 tỉnh thành: 1875 Trần Bảo Chân thiết lập Huyện Đạm Thủy gồm toàn bộ Tân Bắc khu vực hôm nay, từ 1876 trở đi Huyện Tân Trúc Huyện Đạm Thủy song song thiết lập, cấu thành bộ máy hành chính Bắc bộ thanh Nhật
-- [Trung học Đạm Giang](/history/淡江中學) — 1882 Học Đường Ô-xơ-phó Mã Khải tiếp nối, 1914 năm đổi tên Trung học Đạm Giang, là trường trung học kiểu Tây phương sớm nhất miền bắc Đài Loan
-- [Chiến tranh Pháp-Thanh](/history/清法戰爭) — Năm 1884 Chiến dịch Hũ Vĩ trực tiếp xúc tác xây dựng Tỉnh Đài Loan, Lưu Minh Truyền trở thành Tổng độc tài Đài Loan đầu tiên, Lâm Duy Nguyên quyên tặng hai vạn lượng trở thành thương nhân đỏ
-- [Sự kiện 228](/history/二二八事件) — Năm 1947 Sự kiện 228 Khu vực Tam Tích Anh Ca, Bản Kiều, Tam Trọng xảy ra xung đột, sâu vào chấn thương sau chiến tranh mỗi quận Tân Bắc
-- [Lịch sử Thương mại Biển Đài Loan](/history/台灣海洋貿易史) — 1858 Mở cửa Đạm Thủy, 1869 Trà ô-long Đô Đức tới New York, 1864-1894 Đạm Thủy chiếm 57% thương mại toàn Đài Loan lịch sử xuất khẩu Bắc bộ hoàn chỉnh
-- [Lịch sử Đường sắt Đài Loan](/history/台灣鐵道史) — 1921 tuyến vận chuyển than Công ty Khai thác Đài Yang, 1929 Tổng độc tài mua lại đổi tên Tuyến Bình Tất bối cảnh tuyến đường sắt
-- [Công nghệ truyền thống Đài Loan và Tài sản Văn hóa Vô hình](/culture/台灣傳統工藝與無形文化資產) — 1804 Gốm sứ Anh Ca, 1886-1920 Tam Giác Dâng Nhuộm Xanh, 1947 Lý Mai Thụ（李梅樹） Điện thờ Tổ Sư Tam Tích chạm khắc chuỗi công nghệ
-- [Tôn giáo Đài Loan và Văn hóa Đền Thờ](/culture/台灣宗教與寺廟文化) — Điện thờ Tổ Sư Tam Tích, Vườn Lâm Gia Bản Kiều liên quan tín ngưỡng văn hóa đọc thêm
-- [Bản đồ Văn hóa 16 Dân tộc Bản địa Đài Loan](/culture/台灣原住民族16族文化地圖) — Bộ lạc Đảo Xanh Thái Nghi Đức La Nam Chiêu Lai, Di tích Mười Ba Hàng Khải Đạt Cách Lâm hai trục lịch sử dân tộc thiểu số
+- [Thành phố Cơ Long](/vi/geography/keelung-city) — Loạt 22 tỉnh thành thí điểm: Cảng Cơ Long sông Đạm Thủy từ 1858 mở cửa tạo nên hai cửa sổ chính miền bắc Đài Loan, 1910 thập niên Cảng Cơ Long vượt cảng Đạm Thủy, nhưng 1628 Thành phố Hùng Sơn đỏ chậm hai năm so với 1626 Thành phố Thánh Sau Mười Vợ từ lúc đặt viên gạch đầu tiên
+- [Thành phố Đào Viên](/vi/geography/taoyuan-city) — Loạt 22 tỉnh thành: đô thị vùng quanh anh em 2014 nâng cấp thành phố trực thuộc chậm bốn năm so với Tân Bắc, Sân bay Đào Viên năm 1979 kích hoạt tiếp tay từ Đạm Thủy Cơ Long 100 năm lũy tích đối ngoại khách vận cửa sổ
+- [Tỉnh Nghi Lan](/vi/geography/yilan-county) — Loạt 22 tỉnh thành: huyện láng giềng Tân Bắc phía đông nam, Hầm Tuyết Sơn năm 2006 thông tuyến trước Nghi Lan Tân Bắc Song Tây, Cung Liêu, Phúc Lăng nối thành một dải bờ biển Bắc
+- [Tỉnh Tân Trúc](/vi/geography/hsinchu-county) — Loạt 22 tỉnh thành: 1875 Trần Bảo Chân thiết lập Huyện Đạm Thủy gồm toàn bộ Tân Bắc khu vực hôm nay, từ 1876 trở đi Huyện Tân Trúc Huyện Đạm Thủy song song thiết lập, cấu thành bộ máy hành chính Bắc bộ thanh Nhật
+- [Trung học Đạm Giang](/vi/history/tamkang-high-school) — 1882 Học Đường Ô-xơ-phó Mã Khải tiếp nối, 1914 năm đổi tên Trung học Đạm Giang, là trường trung học kiểu Tây phương sớm nhất miền bắc Đài Loan
+- [Chiến tranh Pháp-Thanh](/vi/history/sino-french-war-in-taiwan) — Năm 1884 Chiến dịch Hũ Vĩ trực tiếp xúc tác xây dựng Tỉnh Đài Loan, Lưu Minh Truyền trở thành Tổng độc tài Đài Loan đầu tiên, Lâm Duy Nguyên quyên tặng hai vạn lượng trở thành thương nhân đỏ
+- [Sự kiện 228](/vi/history/228-incident) — Năm 1947 Sự kiện 228 Khu vực Tam Tích Anh Ca, Bản Kiều, Tam Trọng xảy ra xung đột, sâu vào chấn thương sau chiến tranh mỗi quận Tân Bắc
+- [Lịch sử Thương mại Biển Đài Loan](/vi/history/taiwan-maritime-trade-history) — 1858 Mở cửa Đạm Thủy, 1869 Trà ô-long Đô Đức tới New York, 1864-1894 Đạm Thủy chiếm 57% thương mại toàn Đài Loan lịch sử xuất khẩu Bắc bộ hoàn chỉnh
+- [Lịch sử Đường sắt Đài Loan](/vi/history/taiwan-railway-history) — 1921 tuyến vận chuyển than Công ty Khai thác Đài Yang, 1929 Tổng độc tài mua lại đổi tên Tuyến Bình Tất bối cảnh tuyến đường sắt
+- [Công nghệ truyền thống Đài Loan và Tài sản Văn hóa Vô hình](/vi/culture/traditional-crafts-intangible-cultural-heritage) — 1804 Gốm sứ Anh Ca, 1886-1920 Tam Giác Dâng Nhuộm Xanh, 1947 Lý Mai Thụ（李梅樹） Điện thờ Tổ Sư Tam Tích chạm khắc chuỗi công nghệ
+- [Tôn giáo Đài Loan và Văn hóa Đền Thờ](/vi/culture/taiwan-religion-and-temple-culture) — Điện thờ Tổ Sư Tam Tích, Vườn Lâm Gia Bản Kiều liên quan tín ngưỡng văn hóa đọc thêm
+- [Bản đồ Văn hóa 16 Dân tộc Bản địa Đài Loan](/vi/culture/indigenous-peoples-16-tribes-cultural-map) — Bộ lạc Đảo Xanh Thái Nghi Đức La Nam Chiêu Lai, Di tích Mười Ba Hàng Khải Đạt Cách Lâm hai trục lịch sử dân tộc thiểu số
 
 ## Nguồn gốc Hình ảnh
 

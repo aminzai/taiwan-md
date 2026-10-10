@@ -218,7 +218,7 @@ Lần này, đến lượt chính chúng ta nói đúng các con số, nói tr�
 - [Văn hóa cửa hàng tiện lợi Đài Loan](/vi/lifestyle/convenience-store-culture) — Những cửa hàng tiện lợi sáng đèn giữa đêm là một lát cắt khác của mỹ học đời thường Đài Loan
 - [Tôn giáo và văn hóa đền miếu Đài Loan](/vi/culture/taiwan-religion-and-temple-culture) — Đền miếu chính là nơi đá mài và hoa sắt cửa sổ thường xuất hiện
 - [Châu Tử Du](/vi/people/tzuyu) — Một gương mặt Đài Loan khác thường được nhớ tới trên con đường người Hàn Quốc biết đến Đài Loan
-- [Tạ Đức Khánh](/art/謝德慶) — Nghệ sĩ trình diễn Đài Loan trực tiếp lấy thời gian và sinh mệnh làm tác phẩm, một phiên bản cực đoan khác của cảm thức Đài Loan
+- [Tạ Đức Khánh](/vi/art/tehching-hsieh-performance-artist) — Nghệ sĩ trình diễn Đài Loan trực tiếp lấy thời gian và sinh mệnh làm tác phẩm, một phiên bản cực đoan khác của cảm thức Đài Loan
 
 ## Nguồn hình ảnh
 

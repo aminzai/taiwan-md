@@ -153,7 +153,7 @@ AI tại Đài Loan, đã không còn là đề tài công nghệ mới. Nó đ�
 
 ## Đọc thêm
 
-- [Chiến lược phát triển và tương lai của AI tại Đài Loan: Từ giải Nobel Khoa học 2024 đến đêm Nha Trang](/technology/台灣人工智慧發展與未來策略) — Quan sát chi tiết các kịch bản hàng ngày của AI và gập lại vào bảng chiến lược toàn cụt: phần cứng 90%, phần mềm thì không có tên nào của người Đài Loan xuất hiện trong cấu trúc giải Nobel 2024.
-- [Ngành công nghiệp AI](/technology/AI人工智慧產業)
-- [Phát triển AI](/technology/AI發展)
+- [Chiến lược phát triển và tương lai của AI tại Đài Loan: Từ giải Nobel Khoa học 2024 đến đêm Nha Trang](/vi/technology/artificial-intelligence-development-strategy) — Quan sát chi tiết các kịch bản hàng ngày của AI và gập lại vào bảng chiến lược toàn cụt: phần cứng 90%, phần mềm thì không có tên nào của người Đài Loan xuất hiện trong cấu trúc giải Nobel 2024.
+- [Ngành công nghiệp AI](/vi/technology/artificial-intelligence-industry)
+- [Phát triển AI](/vi/technology/ai-development-in-taiwan)
 - [Trường Đại học AI Đài Loan](/vi/technology/taiwan-ai-academy) — Cách các kỹ sư hơn 8.000 người vào cuộc sống hàng ngày với AI: Từ năm 2018 khi mở cổng vào năm 2024, lịch sử đào tạo hơn 10.000 tỷ phú.

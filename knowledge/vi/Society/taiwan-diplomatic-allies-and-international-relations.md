@@ -285,11 +285,11 @@ Nó là khoảng cách giữa những con số ấy.
 
 **Đọc thêm:**
 
-- [Quốc phòng và hiện đại hóa quân sự Đài Loan](/society/台灣國防與軍事現代化) — khi chỉ còn 12 nước bang giao, năng lực tự vệ quân sự là một trụ cột khác giúp duy trì trạng thái “không phải 0”
-- [Khủng hoảng eo biển Đài Loan và sự phát triển của quan hệ hai bờ eo biển](/history/台海危機與兩岸關係發展) — ba cuộc khủng hoảng đã định hình tình trạng cô lập ngoại giao và nỗi lo an ninh của Đài Loan như thế nào
+- [Quốc phòng và hiện đại hóa quân sự Đài Loan](/vi/society/taiwan-defense-modernization) — khi chỉ còn 12 nước bang giao, năng lực tự vệ quân sự là một trụ cột khác giúp duy trì trạng thái “không phải 0”
+- [Khủng hoảng eo biển Đài Loan và sự phát triển của quan hệ hai bờ eo biển](/vi/history/taiwan-strait-crises-and-cross-strait-relations) — ba cuộc khủng hoảng đã định hình tình trạng cô lập ngoại giao và nỗi lo an ninh của Đài Loan như thế nào
 - [TSMC](/business/台積電) — nền tảng vật chất và tính dễ tổn thương mang tính cấu trúc của lá chắn silicon
 - [Trác Vinh Thái](/vi/people/cho-jung-tai) — lộ trình thuế quan Hoa Kỳ–Đài Loan năm 2026 từ 32% xuống 20% rồi 15%, cùng vai trò điều phối nội các trong chuyến thăm Eswatini của Lại Thanh Đức
-- [Đài Loan và Eswatini](/society/台灣與史瓦帝尼) — mảnh ghép cuối cùng tại châu Phi trong số 12 nước bang giao, với toàn bộ câu chuyện 58 năm từ ngày thiết lập quan hệ năm 1968 đến chuyến thăm của Lại Thanh Đức năm 2026
+- [Đài Loan và Eswatini](/vi/society/taiwan-eswatini-relations) — mảnh ghép cuối cùng tại châu Phi trong số 12 nước bang giao, với toàn bộ câu chuyện 58 năm từ ngày thiết lập quan hệ năm 1968 đến chuyến thăm của Lại Thanh Đức năm 2026
 
 ## Tài liệu tham khảo
 

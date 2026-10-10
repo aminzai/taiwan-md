@@ -114,8 +114,8 @@ Hương vị này ngày nay không còn trông nó là “người từ đất l
 
 **Đọc thêm**:
 
-- [Thức ăn cà phê của người từ đất liền](/food/台灣眷村菜) — cùng là năm 1949, di cản mang theo ký ức ẩm thực đã đưa rượu Shouxing vào Đài Loan, chia sẻ cùng nguồn gốc của thức ăn cà phê của người từ đất liền và rượu Shouxing.
-- [Thực phẩm ferment và văn hóa ẩm thực tại Đài Loan](/food/台灣發酵食品與醃製文化) — từ muối đậu phụ đến nước mắm, bảng truyền thống công nghệ ferment của Đài Loan, rượu Shouxing là một loại quan trọng nhất về lịch sử chính trị.
+- [Thức ăn cà phê của người từ đất liền](/vi/food/military-dependents-village-cuisine) — cùng là năm 1949, di cản mang theo ký ức ẩm thực đã đưa rượu Shouxing vào Đài Loan, chia sẻ cùng nguồn gốc của thức ăn cà phê của người từ đất liền và rượu Shouxing.
+- [Thực phẩm ferment và văn hóa ẩm thực tại Đài Loan](/vi/food/taiwan-fermented-and-pickled-foods) — từ muối đậu phụ đến nước mắm, bảng truyền thống công nghệ ferment của Đài Loan, rượu Shouxing là một loại quan trọng nhất về lịch sử chính trị.
 - [Văn hóa ẩm thực gạo tại Đài Loan](/vi/food/taiwan-rice-cuisine-culture) — gạo nếp là nguyên liệu cơ bản của rượu Shouxing, văn hóa ẩm thực gạo cung cấp bối cảnh đầy đủ để hiểu rượu này từ nông nghiệp đến công nghiệp và cuối cùng là du lịch.
 
 ## Tài liệu tham khảo

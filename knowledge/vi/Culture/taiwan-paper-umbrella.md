@@ -74,10 +74,10 @@ Tuy nhiên, câu chuyện của ô giấy Mỹ Nông đã cung cấp cho các ng
 
 ## Đọc thêm
 
-- **[Văn hóa Hakka và ngôn ngữ](/culture/客家文化與語言)** — Các nền văn hóa và ngôn ngữ của dân tộc Hakka, môi trường văn hóa sinh ra ô giấy
+- **[Văn hóa Hakka và ngôn ngữ](/vi/culture/hakka-culture-and-language)** — Các nền văn hóa và ngôn ngữ của dân tộc Hakka, môi trường văn hóa sinh ra ô giấy
 - **[Văn hóa tàn âm cấm kỵ ở Đài Loan](/vi/culture/taiwanese-homophone-taboos)** — Tàn âm cấm kỵ "trao ô" trong văn hóa Hokkien vs. lời chúc ô giấy trong văn hóa Hakka, logic âm điệu trùng khác nhau
-- **[Vải hoa truyền thống của Đài Loan](/culture/台灣花布)** — Một cách khác, từ thiết bị sinh hoạt đến biểu tượng văn hóa của nghề thủ công truyền thống
-- **[Nhuộm xanh](/culture/藍染)** — Cùng đối mặt với thách thức truyền thống nghề thủ công của Đài Loan
+- **[Vải hoa truyền thống của Đài Loan](/vi/culture/taiwan-floral-fabric)** — Một cách khác, từ thiết bị sinh hoạt đến biểu tượng văn hóa của nghề thủ công truyền thống
+- **[Nhuộm xanh](/vi/culture/taiwan-indigo-dyeing)** — Cùng đối mặt với thách thức truyền thống nghề thủ công của Đài Loan
 
 ## Tài liệu tham khảo
 

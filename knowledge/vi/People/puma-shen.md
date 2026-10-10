@@ -261,12 +261,12 @@ Tháng 5 năm 2026, anh khoác lên mình dải băng tranh cử, bước vào m
 
 **Đọc thêm**:
 
-- [Học viện Kuma](/society/黑熊學院) — Tổ chức giáo dục dân phòng dân sự do Thẩm Bá Dương và Hà Trừng Huy đồng sáng lập, một ngôi trường "mong một ngày nào đó Đài Loan sẽ không còn cần đến nó nữa"
+- [Học viện Kuma](/vi/society/kuma-academy-civil-defense-school) — Tổ chức giáo dục dân phòng dân sự do Thẩm Bá Dương và Hà Trừng Huy đồng sáng lập, một ngôi trường "mong một ngày nào đó Đài Loan sẽ không còn cần đến nó nữa"
 - [Chiến tranh nhận thức](/vi/society/cognitive-warfare-against-taiwan) — Khung phân tích đầy đủ về chiến tranh thông tin của ĐCSTQ nhắm vào Đài Loan, Thẩm Bá Dương là một trong những nhà nghiên cứu chính
 - [Pa Chiung](/vi/people/pa-chiung-political-youtuber) — YouTuber Đài Loan cũng bị ĐCSTQ nhắm đến, tháng 11 năm 2025 bị Trung Quốc treo thưởng tới 250.000 nhân dân tệ
-- [Lại Thanh Đức](/people/賴清德) — Cùng nằm trong danh sách "phần tử ngoan cố đòi độc lập cho Đài Loan", tháng 11 năm 2025 công khai lên tiếng ủng hộ Thẩm Bá Dương
-- [Quốc phòng và hiện đại hóa quân sự Đài Loan](/society/台灣國防與軍事現代化) — Mối quan hệ bổ sung giữa giáo dục dân phòng của Học viện Kuma và quốc phòng toàn dân
-- [Quốc gia vô hình](/art/看不見的國家) — Bộ phim tài liệu kết thúc bằng cảnh người Đài Loan tham gia lớp học dân phòng; Học viện Kuma chính là phiên bản đời thực của lớp học đó ở cuối phim
+- [Lại Thanh Đức](/vi/people/lai-ching-te) — Cùng nằm trong danh sách "phần tử ngoan cố đòi độc lập cho Đài Loan", tháng 11 năm 2025 công khai lên tiếng ủng hộ Thẩm Bá Dương
+- [Quốc phòng và hiện đại hóa quân sự Đài Loan](/vi/society/taiwan-defense-modernization) — Mối quan hệ bổ sung giữa giáo dục dân phòng của Học viện Kuma và quốc phòng toàn dân
+- [Quốc gia vô hình](/vi/art/invisible-nation) — Bộ phim tài liệu kết thúc bằng cảnh người Đài Loan tham gia lớp học dân phòng; Học viện Kuma chính là phiên bản đời thực của lớp học đó ở cuối phim
 
 ## Nguồn hình ảnh
 

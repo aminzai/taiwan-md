@@ -97,8 +97,8 @@ Lần sau điện thoại báo cáo mưa lớn xuất hiện, đó là di sản 
 
 **Đọc thêm**
 
-- [Bão](/nature/颱風) — Hệ thống mặt trụ mùa đóng vai trò song song với mưa Me, cùng là hai nguồn cung cấp nước lớn nhất của Đài Loan, phản chiếu bản chất "bổ sung vs gây thiên tai" của cả hai
-- [Khủng hoảng khí hậu và chuyển đổi carbon của Đài Loan](/nature/台灣氣候危機與淨零轉型) — Cách "mưa xuân không đến, mưa Me tập trung" làm thay đổi rủi ro nguồn nước và áp lực chuyển đổi năng lượng của Đài Loan
+- [Bão](/vi/nature/typhoons-in-taiwan) — Hệ thống mặt trụ mùa đóng vai trò song song với mưa Me, cùng là hai nguồn cung cấp nước lớn nhất của Đài Loan, phản chiếu bản chất "bổ sung vs gây thiên tai" của cả hai
+- [Khủng hoảng khí hậu và chuyển đổi carbon của Đài Loan](/vi/nature/taiwan-climate-change-net-zero-transition) — Cách "mưa xuân không đến, mưa Me tập trung" làm thay đổi rủi ro nguồn nước và áp lực chuyển đổi năng lượng của Đài Loan
 
 ## Tài liệu tham khảo
 

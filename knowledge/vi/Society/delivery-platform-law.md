@@ -383,7 +383,7 @@ Ngày thứ tư phát hành, Công đoàn Nền tảng Giao hàng Toàn quốc h
 - [Văn hóa trà sữa Đài Loan](/vi/food/hand-shaken-drink-culture) — Các thương hiệu trà sữa từ cửa hàng nhỏ ven đường vươn ra thế giới, cũng là một mặt khác của phí hoa hồng nền tảng
 - [Watsons (Chung Lợi Phúc Tâm Trung Trọng)](/vi/economy/pxmart-supermarket) — Kênh phân phối nội địa trong tuyến giao thực phẩm tươi sống và tạp hóa
 - [Sự cố an toàn thực phẩm Benzo(a)pyrene](/vi/society/benzopyrene-food-safety-incident) — Bữa trưa được tài xế giao đến tận cửa, chỉ một tháng sau khi luật có hiệu lực, chính là hệ quả của cơn bão an toàn thực phẩm này
-- [Ai định mức lương thấp](/society/誰算低薪) — Tiền công của tài xế giao đồ ăn đã được ghi vào luật chuyên ngành, nhưng tiền thưởng cuối năm lại không có bất kỳ quy định pháp lý nào: làm sao mức lương thấp lại bị đưa vào mục không nhận thưởng
+- [Ai định mức lương thấp](/vi/society/who-counts-as-low-wage) — Tiền công của tài xế giao đồ ăn đã được ghi vào luật chuyên ngành, nhưng tiền thưởng cuối năm lại không có bất kỳ quy định pháp lý nào: làm sao mức lương thấp lại bị đưa vào mục không nhận thưởng
 
 ## Nguồn gốc ảnh
 

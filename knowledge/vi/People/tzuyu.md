@@ -204,7 +204,7 @@ Và sau đêm 15 tháng 1 ấy, hòn đảo này đã học được cách nói 
 
 **Đọc thêm**:
 
-- [Thái Anh Văn](/people/蔡英文) — Câu “không ai phải xin lỗi vì bản sắc của mình” trong bài phát biểu mừng chiến thắng ngày 16/1/2016 chính là lời đáp lại 90 giây ấy
+- [Thái Anh Văn](/vi/people/tsai-ing-wen) — Câu “không ai phải xin lỗi vì bản sắc của mình” trong bài phát biểu mừng chiến thắng ngày 16/1/2016 chính là lời đáp lại 90 giây ấy
 - [Châu Kiệt Luân](/vi/people/jay-chou) — Trong số nghệ sĩ Đài Loan, chỉ có ông đứng trên Tử Du về lượng người theo dõi Instagram sau khi cô vượt mốc mười triệu
 - [Cảm tính Đài Loan: Phải chăng chúng ta cần người Hàn Quốc nhấn thích trước rồi mới dám nói những ngôi nhà cũ của mình rất đẹp?](/vi/culture/taiwanese-sensibility) — Trên hành trình người Hàn Quốc tìm hiểu Đài Loan, Tử Du là một trong những gương mặt Đài Loan được ghi nhớ từ rất sớm
 - [Chuyển đổi dân chủ tại Đài Loan](/vi/history/taiwan-democratization) — Cuộc bầu cử năm 2016 đánh dấu lần chuyển giao quyền lực giữa các đảng lần thứ ba tại Đài Loan, và 90 giây ấy là một trong những dấu ấn nặng nề nhất

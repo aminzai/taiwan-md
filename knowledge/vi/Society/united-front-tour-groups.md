@@ -114,11 +114,11 @@ Và sự không chắc chắn, có lẽ chính nó là sản phẩm cuối cùng
 
 **Đọc thêm**
 
-- [Chiến tranh nhận thức](/society/認知作戰) — Khuôn khổ hệ thống của các hoạt động thao túng nhận thức và cơ chế ứng phó của Đài Loan, từ phân tích học thuật đến thực hành giáo dục công dân cụ thể.
-- [Pháp Luân Công ở Đài Loan](/society/法輪功在台灣) — Từ Bông hoa ở Sơn Minh đến Tòa Đài Bắc 101, một hình ảnh so sánh giữa hai bờ, làm thế nào tự do tôn giáo trở thành đặc tính thử kim của các giá trị dân chủ Đài Loan.
-- [Potter King](/people/波特王) — Người sáng tạo nội dung Đài Loan đầu tiên tiết lộ chi tiết mời tham gia thống nhất của người sáng tạo nội dung trên nền tảng công khai, toàn bộ sự kiện tiết lộ.
-- [Pa Chiung](/people/八炯) — Từ phim tài liệu về thống nhất đến người tổ chức cuộc tập hợp Ketagalan, những nỗ lực của xã hội dân sự Đài Loan chống lại chiến tranh nhận thức.
-- [Chiến tranh nhận thức về khoai tây độc hại](/society/毒馬鈴薯認知作戰) — Vào năm 2022, một thông tin sai lệch về khoai tây Đài Loan, cách nó trở thành một trường hợp điển hình để quan sát cuộc chiến thông tin hai bờ.
+- [Chiến tranh nhận thức](/vi/society/cognitive-warfare-against-taiwan) — Khuôn khổ hệ thống của các hoạt động thao túng nhận thức và cơ chế ứng phó của Đài Loan, từ phân tích học thuật đến thực hành giáo dục công dân cụ thể.
+- [Pháp Luân Công ở Đài Loan](/vi/society/falun-gong-in-taiwan) — Từ Bông hoa ở Sơn Minh đến Tòa Đài Bắc 101, một hình ảnh so sánh giữa hai bờ, làm thế nào tự do tôn giáo trở thành đặc tính thử kim của các giá trị dân chủ Đài Loan.
+- [Potter King](/vi/people/potter-king-youtuber) — Người sáng tạo nội dung Đài Loan đầu tiên tiết lộ chi tiết mời tham gia thống nhất của người sáng tạo nội dung trên nền tảng công khai, toàn bộ sự kiện tiết lộ.
+- [Pa Chiung](/vi/people/pa-chiung-political-youtuber) — Từ phim tài liệu về thống nhất đến người tổ chức cuộc tập hợp Ketagalan, những nỗ lực của xã hội dân sự Đài Loan chống lại chiến tranh nhận thức.
+- [Chiến tranh nhận thức về khoai tây độc hại](/vi/society/poisoned-potato-cognitive-warfare-taiwan) — Vào năm 2022, một thông tin sai lệch về khoai tây Đài Loan, cách nó trở thành một trường hợp điển hình để quan sát cuộc chiến thông tin hai bờ.
 
 ## Tài liệu tham khảo
 

@@ -120,10 +120,10 @@ Người ký Hiệp định Đầu bờ biển, và người bán thông tin v�
 **Đọc thêm**:
 
 - [Vụ tai nạn Rover và Zhu Qi Duo](/vi/history/rover-incident-and-tauketok) — Bài phản biện C-2 này: cùng một sự kiện lịch sử nhìn từ góc độ của Zhu Qi Duo, cách Hiệp định Đầu bờ biển bảo vệ người cùng dân tộc, và cách bên kia bán dây.
-- [Lịch sử và phong trào chuẩn định danh dân tộc bàn xuất sinh phân tích Đài Loan](/history/台灣原住民族歷史與正名運動) — Các bàn xuất sinh phân tích trong Hiệp định Đầu bờ biển, hành trình dài từ "người ngoại quốc" đến chuẩn định danh.
-- [Thời kỳ Quân Triều](/history/清治時期) — Cấu trúc quản lý của Quân Triều khi Li Xian De đến Đài Loan, giúp hiểu bối cảnh "không thuộc về họ" là gì.
-- [Zhu Qi Bao](/people/史溫侯) — Người cùng thời kỳ khác, cũng để lại những dấu ấn sâu đậm trong lịch sử Đài Loan, nhưng động cơ là khoa học chứ không phải quyền lực.
-- [Chiến tranh Trung-Pháp](/history/清法戰爭) — Khoảng tám năm sau khi rời Đài Loan, Pháp dùng logic thực dân tương tự tấn công Đài Loan.
+- [Lịch sử và phong trào chuẩn định danh dân tộc bàn xuất sinh phân tích Đài Loan](/vi/history/indigenous-peoples-history-and-naming-movement) — Các bàn xuất sinh phân tích trong Hiệp định Đầu bờ biển, hành trình dài từ "người ngoại quốc" đến chuẩn định danh.
+- [Thời kỳ Quân Triều](/vi/history/qing-dynasty-rule) — Cấu trúc quản lý của Quân Triều khi Li Xian De đến Đài Loan, giúp hiểu bối cảnh "không thuộc về họ" là gì.
+- [Zhu Qi Bao](/vi/people/robert-swinhoe-naturalist) — Người cùng thời kỳ khác, cũng để lại những dấu ấn sâu đậm trong lịch sử Đài Loan, nhưng động cơ là khoa học chứ không phải quyền lực.
+- [Chiến tranh Trung-Pháp](/vi/history/sino-french-war-in-taiwan) — Khoảng tám năm sau khi rời Đài Loan, Pháp dùng logic thực dân tương tự tấn công Đài Loan.
 
 ## Tài liệu tham khảo
 

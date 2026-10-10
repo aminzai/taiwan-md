@@ -119,10 +119,10 @@ Pháp lấy được Việt Nam. Thanh triều giữ được Đài Loan. 600 ch
 
 **Đọc thêm**:
 
-- [Thời kỳ Thanh trị](/history/清治時期) — Bối cảnh thời đại xảy ra Chiến tranh Pháp-Thanh: thương mại khai phóng, toàn cảnh sự xâm nhập của nước ngoài vào Formosa
-- [Lịch sử Đường sắt Đài Loan](/history/台灣鐵道史) — Đường sắt từ Cơ Long tới Tân Trúc do Lưu Minh Truyền xây dựng sau chiến tranh, là khởi đầu của đường sắt Đài Loan
-- [Lý Tiên Đắc](/people/李仙得) — Một ngoại giao nước ngoài khác ở cùng thời kỳ để lại dấu tích ở Formosa, tình báo của ông sau này bị Nhật Bản sử dụng để xâm lược Đài Loan
-- [Sử Uân Hậu](/people/史溫侯) — Hai mươi năm trước Chiến tranh Pháp-Thanh, lãnh sự Anh đầu tiên ở Đài Loan phiên bản tạo ra trên cùng mảnh đất.
+- [Thời kỳ Thanh trị](/vi/history/qing-dynasty-rule) — Bối cảnh thời đại xảy ra Chiến tranh Pháp-Thanh: thương mại khai phóng, toàn cảnh sự xâm nhập của nước ngoài vào Formosa
+- [Lịch sử Đường sắt Đài Loan](/vi/history/taiwan-railway-history) — Đường sắt từ Cơ Long tới Tân Trúc do Lưu Minh Truyền xây dựng sau chiến tranh, là khởi đầu của đường sắt Đài Loan
+- [Lý Tiên Đắc](/vi/people/charles-le-gendre) — Một ngoại giao nước ngoài khác ở cùng thời kỳ để lại dấu tích ở Formosa, tình báo của ông sau này bị Nhật Bản sử dụng để xâm lược Đài Loan
+- [Sử Uân Hậu](/vi/people/robert-swinhoe-naturalist) — Hai mươi năm trước Chiến tranh Pháp-Thanh, lãnh sự Anh đầu tiên ở Đài Loan phiên bản tạo ra trên cùng mảnh đất.
 
 ## Tài liệu tham khảo
 

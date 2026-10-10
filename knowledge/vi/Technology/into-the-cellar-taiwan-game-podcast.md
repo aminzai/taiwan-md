@@ -143,7 +143,7 @@ Phương pháp đã thay đổi. Tinh thần "có ai đó đặt câu trả lờ
 
 - [Lịch sử di cư cộng đồng internet Đài Loan](/technology/lịch-sử-di-cư-cộng-đồng-internet-đài-loan) — Từ BBS đến Threads, lịch sử chuyển nhà nền tảng cộng đồng của người Đài Loan
 - [Tinh thần nguồn mở Đài Loan](/technology/tinh-thần-nguồn-mở-đài-loan) — Một nhóm "phát điện bằng tình yêu" khác của Đài Loan
-- [PTT批踢踢](/technology/PTT批踢踢) — BBS lâu đời nhất ở Đài Loan, sản phẩm đương thời với Bahamut
+- [PTT批踢踢](/vi/technology/ptt-bulletin-board-system) — BBS lâu đời nhất ở Đài Loan, sản phẩm đương thời với Bahamut
 - [Kỳ kiếm kép của Đại Vũ](/technology/kỳ-kiếm-kép-của-đại-vũ) — Nguồn khởi hành cảm xúc trò chơi máy tính đơn lẻ Đài Loan cùng thời đại
 - [Những khoảnh khắc điên cuồng của game thủ Đài Loan](/technology/những-khoảnh-khắc-điên-cuồng-của-game-thủ-đài-loan) — Sự cuồng nhiệt tập thể của thế hệ game thủ hầm ngục/Gamebase/Bahamut
 

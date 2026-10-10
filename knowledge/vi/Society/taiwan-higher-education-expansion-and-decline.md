@@ -233,7 +233,7 @@ Mở cửa, Đài Loan đã dùng mười năm. Học cách đóng cửa, họ m
 - [Khủng hoảng tỷ lệ sinh thấp của Đài Loan](/vi/society/taiwan-low-birth-rate-crisis) — Bức tường dân số làm sập các trường đại học được hình thành như thế nào và đi về đâu
 - [Hệ thống giáo dục và văn hóa tuyển sinh](/vi/society/education-system-and-admissions-culture) — Cánh cửa hẹp của kỳ thi chung và chủ nghĩa ưu tú trong tuyển sinh, chính là điều mà việc mở rộng trường đại học muốn nới lỏng
 - [Nghèo đói tri thức](/vi/society/learning-poverty-in-taiwan) — Sau khi phổ cập bằng cấp, sự chênh lệch thực sự của việc học ẩn giấu ở đâu
-- [Viện Nghiên cứu Trung ương](/society/中央研究院) — Tổ chức không cần tuyển sinh hay giảng dạy, mà nguồn luật được ghi trực tiếp trong Luật tổ chức Tổng thống, và cảm giác bị tước đoạt tương đối của phía đại học "tại sao lại là nó mà gánh nổi"
+- [Viện Nghiên cứu Trung ương](/vi/society/academia-sinica) — Tổ chức không cần tuyển sinh hay giảng dạy, mà nguồn luật được ghi trực tiếp trong Luật tổ chức Tổng thống, và cảm giác bị tước đoạt tương đối của phía đại học "tại sao lại là nó mà gánh nổi"
 
 ---
 

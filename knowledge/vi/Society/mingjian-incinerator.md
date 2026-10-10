@@ -90,7 +90,7 @@ Cuộc tranh cãi diễn ra bên bờ sông Thanh, cho đến nay vẫn chưa k�
 
 ## Đọc thêm
 
-- [Đạo đức của động vật trong vườn thú và biểu diễn động vật](/society/動物園與展演動物倫理) — Một trường hợp khác của "bảo tồn và phát triển" cùng loại (rùa biển trong bài này so với động vật nuôi trong bài kia)
+- [Đạo đức của động vật trong vườn thú và biểu diễn động vật](/vi/society/zoo-and-exhibition-animal-ethics) — Một trường hợp khác của "bảo tồn và phát triển" cùng loại (rùa biển trong bài này so với động vật nuôi trong bài kia)
 
 ## Tài liệu tham khảo
 

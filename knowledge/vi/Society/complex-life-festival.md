@@ -276,9 +276,9 @@ Nước nguồn: dữ liệu chính thức Lễ hội Cuộc sống Phức tạp
 
 **Đọc mở rộng**:
 
-- [Trào lưu Hướng Dương](/society/太陽花學運) — Bối cảnh thời đại của Lễ hội Cuộc sống Phức tạp: năm 2014 trào lưu đó khi nào tán trường, phân chia thành Đảng thời đại lực lượng, g0v, Trường Tạp học và mấy cửa hàng cửa hàng thanh niên Lễ hội Cuộc sống Phức tạp
-- [Trường Tạp học](/society/雜學校) — Năng lượng khác 318 sau cái, đi con đường ngược lại: tăng thành lễ hội giáo dục lớn nhất toàn châu Á, và Lễ hội Cuộc sống Phức tạp "cố ý giữ nhỏ" là phép đối chiếu của quy mô với lớp
-- [Thế hệ Xiêu luyên của Đài Loan](/society/台灣斜槓世代) — Nền tảng cấu trúc của những người tham gia tự gọi "người tham công": mức lương trung vị và áp lực sống, làm cách nào buộc thế hệ này thành một người nhiều việc
+- [Trào lưu Hướng Dương](/vi/society/sunflower-movement) — Bối cảnh thời đại của Lễ hội Cuộc sống Phức tạp: năm 2014 trào lưu đó khi nào tán trường, phân chia thành Đảng thời đại lực lượng, g0v, Trường Tạp học và mấy cửa hàng cửa hàng thanh niên Lễ hội Cuộc sống Phức tạp
+- [Trường Tạp học](/vi/society/za-share) — Năng lượng khác 318 sau cái, đi con đường ngược lại: tăng thành lễ hội giáo dục lớn nhất toàn châu Á, và Lễ hội Cuộc sống Phức tạp "cố ý giữ nhỏ" là phép đối chiếu của quy mô với lớp
+- [Thế hệ Xiêu luyên của Đài Loan](/vi/society/taiwan-slash-generation-multi-job-economy) — Nền tảng cấu trúc của những người tham gia tự gọi "người tham công": mức lương trung vị và áp lực sống, làm cách nào buộc thế hệ này thành một người nhiều việc
 - FAB DAO và Kế hoạch Trăm Nước (FAB DAO與百岳計畫) — Hoàng Đậu Bùn bỏ y sau đi đâu: dự án tác phẩm tiếp theo của "tích hợp tinh thần mật mã hacker vào xã hội số Đài Loan"
 
 ## Hình ảnh

@@ -194,11 +194,11 @@ Trước khi bạn đóng trang này, có thể tự hỏi một việc rất nh
 **Đọc thêm**:
 
 - [Li Thơ Hội](/vi/art/li-poetry-society) — Mạng lưới xã hội thơ bản địa mà Đỗ Phan Phong-kết gia nhập năm 1965
-- [Sự kiện 228](/history/二二八事件) — Lịch sử gia đình Trương Bảy Lâm trong bối cảnh thảm họa toàn quốc
+- [Sự kiện 228](/vi/history/228-incident) — Lịch sử gia đình Trương Bảy Lâm trong bối cảnh thảm họa toàn quốc
 - [Bạo lực trắng xóa tại Đài Loan](/vi/history/taiwan-white-terror) — Bối cảnh hệ thống cho phép đọc chính trị của **Hồn môi**
-- [Lịch sử văn học Đài Loan](/art/台灣文學史) — Vị trí của thế hệ xuyên ngôn ngữ và văn học ngôn ngữ mẫu
-- [Một người khác](/people/莫那能) — Một lối đi khác cho việc "dùng ngôn ngữ không phải ngôn ngữ mẫu để phát tiếng cho một nhóm dân tộc"
-- [Thơ hiện đại Đài Loan](/art/台灣現代詩) — Bản đồ toàn diện về xã hội thơ sau chiến tranh
+- [Lịch sử văn học Đài Loan](/vi/art/history-of-taiwanese-literature) — Vị trí của thế hệ xuyên ngôn ngữ và văn học ngôn ngữ mẫu
+- [Một người khác](/vi/people/monaneng) — Một lối đi khác cho việc "dùng ngôn ngữ không phải ngôn ngữ mẫu để phát tiếng cho một nhóm dân tộc"
+- [Thơ hiện đại Đài Loan](/vi/art/taiwanese-modern-poetry) — Bản đồ toàn diện về xã hội thơ sau chiến tranh
 
 ## Nguồn ảnh
 

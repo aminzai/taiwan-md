@@ -202,7 +202,7 @@ Thế giới thực sự cần Đài Loan. Nhưng thế giới cũng đang dùng
 - Doanh nghiệp Đài Loan: TSMC (台灣企業：台積電) — Làm sao mô hình gia công của TSMC viết lại chia công bán dẫn toàn cầu.
 - Doanh nghiệp Đài Loan: Foxconn (台灣企業：鴻海精密) — Từ gia công điện tử tới máy chủ AI và phần cứng trung tâm dữ liệu.
 - Doanh nghiệp Đài Loan: Delta (台灣企業：台達電子) — Điện, tản nhiệt và quản lý năng lượng làm sao trở thành một phần cơ sở hạ tầng AI.
-- [Phát triển công viên khoa học](/technology/科技園區發展) — Làm sao cụm bán dẫn của Đài Loan mọc từ đất đai và thành phố.
+- [Phát triển công viên khoa học](/vi/technology/science-park-development) — Làm sao cụm bán dẫn của Đài Loan mọc từ đất đai và thành phố.
 
 ## Nguồn ảnh
 

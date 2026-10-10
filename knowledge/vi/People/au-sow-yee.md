@@ -268,10 +268,10 @@ Nếu Au Sow Yee hoặc đại lý của cô có bất kỳ quan ngại nào v�
 
 ## Đọc Tiếp
 
-- [Trịnh Văn Kì](/people/鄭文琦) — Biên tập viên NML, người cùng thúc đẩy Kho lưu trữ Nusantara, cùng Au Sow Yee từ khi thành lập NML 2011 cho tới khởi động quần đảo 2017 rồi tiếp tục hợp tác năm 2024, là cộng sự làm việc quan trọng nhất của cô trong vòng nghệ thuật Đài Loan
-- [Nhà Tổ Chức Triển Lãm Đài Loan và Xây Dựng Văn Hóa Nghệ Thuật](/art/台灣策展人與藝術文化建構) — Phát triển luận thuyết thế hệ nhà tổ chức triển lãm Đài Loan như Cao Sơn Tín Nam (một trong những cố vấn biên tập viên NML) và những người khác, tạo thành đối thoại liên tục với luận thuyết quần đảo của Au Sow Yee ở Biennale Đài Bắc, Biennale Nghệ thuật Á Châu
-- [Nghệ Thuật Đa Phương Tiện Mới Đài Loan](/art/台灣新媒體藝術) — Au Sow Yee chủ yếu sử dụng phương tiện cài đặt hình ảnh, dòng chính này cung cấp bối cảnh lịch sử video / media art Đài Loan
-- [Nghệ Thuật Đương Đại](/art/當代藝術) — Tổng quan về sinh thái nghệ thuật đương đại Đài Loan, sau khi bổ sung "quần đảo" framework của Au Sow Yee, có thể nhìn thấy trục Đông Nam Á / Nam phương của nghệ thuật đương đại Đài Loan
+- [Trịnh Văn Kì](/vi/people/cheng-wen-chi) — Biên tập viên NML, người cùng thúc đẩy Kho lưu trữ Nusantara, cùng Au Sow Yee từ khi thành lập NML 2011 cho tới khởi động quần đảo 2017 rồi tiếp tục hợp tác năm 2024, là cộng sự làm việc quan trọng nhất của cô trong vòng nghệ thuật Đài Loan
+- [Nhà Tổ Chức Triển Lãm Đài Loan và Xây Dựng Văn Hóa Nghệ Thuật](/vi/art/taiwanese-curators-and-artistic-cultural-construction) — Phát triển luận thuyết thế hệ nhà tổ chức triển lãm Đài Loan như Cao Sơn Tín Nam (một trong những cố vấn biên tập viên NML) và những người khác, tạo thành đối thoại liên tục với luận thuyết quần đảo của Au Sow Yee ở Biennale Đài Bắc, Biennale Nghệ thuật Á Châu
+- [Nghệ Thuật Đa Phương Tiện Mới Đài Loan](/vi/art/taiwan-new-media-art) — Au Sow Yee chủ yếu sử dụng phương tiện cài đặt hình ảnh, dòng chính này cung cấp bối cảnh lịch sử video / media art Đài Loan
+- [Nghệ Thuật Đương Đại](/vi/art/contemporary-art) — Tổng quan về sinh thái nghệ thuật đương đại Đài Loan, sau khi bổ sung "quần đảo" framework của Au Sow Yee, có thể nhìn thấy trục Đông Nam Á / Nam phương của nghệ thuật đương đại Đài Loan
 
 ## Tham Khảo
 

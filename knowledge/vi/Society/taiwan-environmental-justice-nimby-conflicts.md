@@ -222,11 +222,11 @@ Quyết định môi trường trong một xã hội dân chủ nên dựa trên
 
 **Đọc thêm**:
 
-- [Phòng khử khó môi trường ở Hà Nội: Trong thành phố không khói, chiếc hộp giấy đang "hít thở" gì?](/society/台北吸菸室) — Vấn đề di cư trong khoảng trống giữa các khu vực đô thị và khu vực nông thôn
-- [Thảo luận về hạt nhân tại Đài Loan](/society/台灣與核能的討論) — Người Lán Kỳ chịu chất thải hạt nhân nhưng không được đặt vào trung tâm thảo luận: Khoảng trống sâu nhất về di cư và bảo vệ môi trường công bằng trong tranh chấp hạt nhân
-- [Nhà kính bằng thép](/society/鐵皮屋) — Trường giáo học di cư là một ví dụ tiêu biểu của bảo vệ môi trường công bằng: 400 hecta các tòa nhà bằng thép cũ, sự ô nhiễm, di dời và vấn đề hỗ trợ
-- [Vấn đề nhà ở và công lý cư trú](/society/社會住宅與居住正義) — Chính sách hướng đến vấn đề nhà ở: Cung cấp nhà ở xã hội và cải tiến thị trường cho thuê nhà
-- [Khủng hoảng khí hậu và chuyển đổi xanh tại Đài Loan](/nature/台灣氣候危機與淨零轉型) — 97.672 thùng trên đảo Lán Kỳ, biểu quyết diệt hạt nhân năm 2025, ba dự án sinh quyển, thiếu vắng 27 lần năng lượng giá mạnh: Các lộ trình chuyển đổi năng lượng và khoảng trống bảo vệ môi trường công bằng
+- [Phòng khử khó môi trường ở Hà Nội: Trong thành phố không khói, chiếc hộp giấy đang "hít thở" gì?](/vi/society/taipei-smoking-room) — Vấn đề di cư trong khoảng trống giữa các khu vực đô thị và khu vực nông thôn
+- [Thảo luận về hạt nhân tại Đài Loan](/vi/society/taiwan-nuclear-debate) — Người Lán Kỳ chịu chất thải hạt nhân nhưng không được đặt vào trung tâm thảo luận: Khoảng trống sâu nhất về di cư và bảo vệ môi trường công bằng trong tranh chấp hạt nhân
+- [Nhà kính bằng thép](/vi/society/taiwan-tin-shed-houses) — Trường giáo học di cư là một ví dụ tiêu biểu của bảo vệ môi trường công bằng: 400 hecta các tòa nhà bằng thép cũ, sự ô nhiễm, di dời và vấn đề hỗ trợ
+- [Vấn đề nhà ở và công lý cư trú](/vi/society/social-housing-and-housing-justice) — Chính sách hướng đến vấn đề nhà ở: Cung cấp nhà ở xã hội và cải tiến thị trường cho thuê nhà
+- [Khủng hoảng khí hậu và chuyển đổi xanh tại Đài Loan](/vi/nature/taiwan-climate-change-net-zero-transition) — 97.672 thùng trên đảo Lán Kỳ, biểu quyết diệt hạt nhân năm 2025, ba dự án sinh quyển, thiếu vắng 27 lần năng lượng giá mạnh: Các lộ trình chuyển đổi năng lượng và khoảng trống bảo vệ môi trường công bằng
 
 ## Tài liệu tham khảo
 

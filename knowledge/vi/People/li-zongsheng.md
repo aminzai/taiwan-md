@@ -148,12 +148,12 @@ Viết ca khúc tốt nhất ba mươi năm cho người khác, anh cuối cùng
 
 **Đọc thêm liên quan**:
 
-- [Luo Dayou](/people/羅大佑) — Cha đẻ âm nhạc Hoa ngữ khác, "quan sát thế gian" đối với "hiểu tâm người" của Lý Tông Thạnh, phải đọc cạnh nhau
-- [Trương Ngải Gia](/people/張艾嘉) — Lý Tông Thạnh bước vào Rolling Stone công việc sản xuất đầu tiên 《Bận Rộn Và Mù Lòa》, điểm khởi đầu của dòng máu "nữ thành phố"
-- [Trương Huệ Mei](/people/張惠妹) — Giọng nữ thần thánh cùng thời Kỷ Nguyên Vàng Rolling Stone, con đường khác của phụ nữ giọng Hoa ngữ
-- [Phong Trào Nhạc Dân Gian Đài Loan](/music/台灣民歌運動) — Chuyến tàu mà Lý Tông Thạnh đã lên vào những năm 1970, đất nuôi dưỡng ban dạ ca ghi ta và Giải thưởng Kim Vận
-- [Sự Tiến Hóa Của Tiếng Hoa Đài Loan](/culture/台灣華語的演化) — Tại sao "lời bình dân vào ca khúc" lại cảm động người, liên quan tới tiếng Hoa Đài Loan biến thành ngôn ngữ hàng ngày như thế nào
-- [Hoàng Đại Nguy](/people/黃大煒) — Nhạc sĩ toàn năng cùng thế hệ và ca sĩ sáng tác, dùng một giọng khàn khàn tự thành một bộ môn, với Lý Tông Thạnh là hai cách tìm đường cho ca khúc cảm xúc dòng Hoa ngữ
+- [Luo Dayou](/vi/people/luo-dayou) — Cha đẻ âm nhạc Hoa ngữ khác, "quan sát thế gian" đối với "hiểu tâm người" của Lý Tông Thạnh, phải đọc cạnh nhau
+- [Trương Ngải Gia](/vi/people/sylvia-chang) — Lý Tông Thạnh bước vào Rolling Stone công việc sản xuất đầu tiên 《Bận Rộn Và Mù Lòa》, điểm khởi đầu của dòng máu "nữ thành phố"
+- [Trương Huệ Mei](/vi/people/a-mei) — Giọng nữ thần thánh cùng thời Kỷ Nguyên Vàng Rolling Stone, con đường khác của phụ nữ giọng Hoa ngữ
+- [Phong Trào Nhạc Dân Gian Đài Loan](/vi/music/taiwan-campus-folk-song-movement) — Chuyến tàu mà Lý Tông Thạnh đã lên vào những năm 1970, đất nuôi dưỡng ban dạ ca ghi ta và Giải thưởng Kim Vận
+- [Sự Tiến Hóa Của Tiếng Hoa Đài Loan](/vi/culture/taiwan-mandarin-evolution) — Tại sao "lời bình dân vào ca khúc" lại cảm động người, liên quan tới tiếng Hoa Đài Loan biến thành ngôn ngữ hàng ngày như thế nào
+- [Hoàng Đại Nguy](/vi/people/david-wong) — Nhạc sĩ toàn năng cùng thế hệ và ca sĩ sáng tác, dùng một giọng khàn khàn tự thành một bộ môn, với Lý Tông Thạnh là hai cách tìm đường cho ca khúc cảm xúc dòng Hoa ngữ
 
 ## Hình ảnh Nguồn
 

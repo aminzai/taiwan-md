@@ -86,7 +86,7 @@ Không có tắt đường trong ngành phim ảnh. Từ một sinh viên chuyê
 
 Sinh năm 1969 tại Yongkang, Đài Nam, năm 2000 bỏ 500.000 đồng quay bộ phim 5 phút không tìm được vốn, năm 2008 doanh thu 530 triệu đồng, năm 2011 sân khấu chính Venice; con đường này là sự tích lũy của khả năng chịu đựng, không liên quan gì đến kỳ tích.
 
-**Đọc thêm**: [Mạnh Na · Lỗ Đạo: Anh hùng kháng Nhật bị khắc trên đồng tiền hai mươi (中文原名)](/people/莫那·魯道) (Mẫu gốc của nhân vật chính trong Seediq Bale, và cách phim tái tạo ký ức) ｜ [Uế Đức Thánh — Wikipedia](https://zh.wikipedia.org/zh-tw/魏德聖) ｜ [Cơ sở dữ liệu phim Đài Loan: Uế Đức Thánh](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12549) ｜ [Chính thức Lễ trao giải Bát Mã](https://www.goldenhorse.org.tw/)
+**Đọc thêm**: [Mạnh Na · Lỗ Đạo: Anh hùng kháng Nhật bị khắc trên đồng tiền hai mươi (中文原名)](/vi/people/mona-rudao) (Mẫu gốc của nhân vật chính trong Seediq Bale, và cách phim tái tạo ký ức) ｜ [Uế Đức Thánh — Wikipedia](https://zh.wikipedia.org/zh-tw/魏德聖) ｜ [Cơ sở dữ liệu phim Đài Loan: Uế Đức Thánh](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12549) ｜ [Chính thức Lễ trao giải Bát Mã](https://www.goldenhorse.org.tw/)
 
 ## Tài liệu tham khảo
 

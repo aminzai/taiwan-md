@@ -107,9 +107,9 @@ Mặt nước của Hồ Gia Minh phản chiếu bầu trời, dù có hay khôn
 
 - [Hệ sinh thái rừng Đài Loan](/vi/nature/taiwan-forest-ecosystems) — Từ rừng ngọa diệp xanh đến rừng thủy sinh hằng cao, các tầng sinh thái theo độ cao
 - [Hệ sinh thái cao nguyên và di sản thời băng Đài Loan](/vi/nature/taiwan-alpine-ecosystems-glacial-relicts) — Các đồng bằng cao nguyên trên 3.000 mét và các loài thời băng còn lại
-- [Công viên quốc gia Đài Loan](/nature/台灣國家公園) — Ba công viên quốc gia dạng núi cao: Thạch Sơn, Thạch Bảo, Thạch Lâm và quản lý bảo tồn
-- [Văn hóa đường leo và bảo vệ công dân Đài Loan](/nature/台灣步道文化與公民守護) — Hoạt động rừng núi không để lại dấu vết và thực hành bảo vệ bằng người dân
-- [Tri thức sinh thái và bảo tồn môi trường người Bản nguyên Đài Loan](/nature/台灣原住民生態智慧與環境保育) — Ngàn năm tri thức về rừng núi đang trò chuyện với bảo tồn hiện đại
+- [Công viên quốc gia Đài Loan](/vi/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — Ba công viên quốc gia dạng núi cao: Thạch Sơn, Thạch Bảo, Thạch Lâm và quản lý bảo tồn
+- [Văn hóa đường leo và bảo vệ công dân Đài Loan](/vi/nature/trail-culture-and-civic-stewardship) — Hoạt động rừng núi không để lại dấu vết và thực hành bảo vệ bằng người dân
+- [Tri thức sinh thái và bảo tồn môi trường người Bản nguyên Đài Loan](/vi/nature/taiwanese-indigenous-ecological-wisdom-conservation) — Ngàn năm tri thức về rừng núi đang trò chuyện với bảo tồn hiện đại
 
 ## Tham khảo
 

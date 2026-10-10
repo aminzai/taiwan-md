@@ -138,4 +138,4 @@ Thanh niên Đài Loan đã chọn lựa phương án thứ hai. Nhưng điều 
 ## Đọc thêm
 
 - [Luật Giao đồ ăn](/vi/society/delivery-platform-law) — Sau khi "bản vá hệ thống đến muộn" có hiệu lực: mức sàn 45 Tệ tác động lên con người như thế nào, và hai điều nó chưa trả lời
-- [Ai là người lương thấp](/society/誰算低薪) — Mức lương tối thiểu vượt qua ranh giới lương thấp, nhóm lương thấp được chuyển vào mục thưởng cuối năm, một số người làm việc bán thời gian, tự kinh doanh, hoặc chia sẻ chi phí thậm chí không đo được cái thước đó
+- [Ai là người lương thấp](/vi/society/who-counts-as-low-wage) — Mức lương tối thiểu vượt qua ranh giới lương thấp, nhóm lương thấp được chuyển vào mục thưởng cuối năm, một số người làm việc bán thời gian, tự kinh doanh, hoặc chia sẻ chi phí thậm chí không đo được cái thước đó

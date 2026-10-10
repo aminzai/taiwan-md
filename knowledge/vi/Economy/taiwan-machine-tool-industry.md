@@ -167,11 +167,11 @@ Họ không viết được chủ đề TMTS, nhưng họ là người khiến c
 
 **Đọc thêm**:
 
-- [Ngành công nghiệp robot của Đài Loan](/technology/台灣機器人產業) — Khả năng của ngành máy móc và dụng cụ của Đài Loan là nền tảng xuất khẩu của ngành robot, nhưng từ "sản xuất một bộ phận" đến "tích hợp một chiếc robot" có khoảng trống về tổ chức công nghiệp
+- [Ngành công nghiệp robot của Đài Loan](/vi/technology/taiwan-robotics-industry) — Khả năng của ngành máy móc và dụng cụ của Đài Loan là nền tảng xuất khẩu của ngành robot, nhưng từ "sản xuất một bộ phận" đến "tích hợp một chiếc robot" có khoảng trống về tổ chức công nghiệp
 - [Ngành công nghiệp bán dẫn](/vi/technology/taiwan-semiconductor-industry) — Một ngành công nghiệp đại diện khác của Đài Loan trong chuỗi cung ứng toàn cầu, có nhiều điểm tương đồng cấu trúc với ngành máy móc và dụng cụ
 - [Chuyển đổi và nâng cấp ngành công nghiệp của Đài Loan](/vi/economy/industrial-transformation-from-manufacturing-to-innovation) — Từ sản xuất thay thế lên thương hiệu, từ bộ phận lên hệ thống, khó khăn trong quá trình chuyển đổi, ngành máy móc và dụng cụ là trường hợc tiêu biểu của vấn đề này
-- [Doanh nghiệp Đài Loan: Hữu Gia chính xác](/economy/台灣企業：鴻海精密) — Một câu chuyện khác từ gỗ sản xuất lên, quy mô lớn hơn nhưng bản chất cấu trúc tương tự
-- [Thương mại ngoài biên của Đài Loan và chuỗi cung ứng toàn cầu](/economy/台灣外貿與全球供應鏈) — Ngành máy móc và dụng cụ của Đài Loan là "nhà vô địch ẩn" trong cấu trúc thương mại, quy mô nhỏ hơn ngành điện tử nhưng hỗ trợ nền kinh tế sản xuất toàn bộ
+- [Doanh nghiệp Đài Loan: Hữu Gia chính xác](/vi/economy/foxconn-precision-industry) — Một câu chuyện khác từ gỗ sản xuất lên, quy mô lớn hơn nhưng bản chất cấu trúc tương tự
+- [Thương mại ngoài biên của Đài Loan và chuỗi cung ứng toàn cầu](/vi/economy/taiwan-foreign-trade-and-global-supply-chain) — Ngành máy móc và dụng cụ của Đài Loan là "nhà vô địch ẩn" trong cấu trúc thương mại, quy mô nhỏ hơn ngành điện tử nhưng hỗ trợ nền kinh tế sản xuất toàn bộ
 
 ## Tài liệu tham khảo
 

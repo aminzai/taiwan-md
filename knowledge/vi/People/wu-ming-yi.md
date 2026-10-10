@@ -240,12 +240,12 @@ Mắt phức hợp vẫn xoay. Những vật biến mất, chỉ cần còn ngư
 
 ## Đọc Kéo Dài
 
-- [Tây Môn Tử](/geography/西門町) — Chợ Trung Hoa từng mọc trên phố khu vực, hiểu _Thợ múa trên Cầu Vượt_ tọa độ thành phố
-- [Lịch sử Văn học Đài Loan](/art/台灣文學史) — Đặt Nguyên Minh Nghĩa trở lại dài lâu hơn quang phổ viết đảo
-- [Văn học Đài Loan Sau Chiến Tranh](/art/戰後台灣文學) — Sau chiến tranh thế hệ cách viết đất, chiến tranh và hằng ngày
-- [Văn học Đài Loan Đương Đại](/art/當代台灣文學) — Sau 2000 tiểu thuyết và dịch quốc tế tạo độ tương ứng
-- [Văn học Bản địa Đài Loan](/art/原住民文學) — Khi đọc chính trị tái diễn _Khách Sạn Hải Phong_ tầm nhìn đối chiếu
-- [Văn học Đài Loan Sau Bãi Bỏ Thiết Quân Luật](/art/解嚴後台灣文學) — Viết tự nhiên và ký ức thành phố nảy sinh nền tảng chế độ xã hội
+- [Tây Môn Tử](/vi/geography/ximending) — Chợ Trung Hoa từng mọc trên phố khu vực, hiểu _Thợ múa trên Cầu Vượt_ tọa độ thành phố
+- [Lịch sử Văn học Đài Loan](/vi/art/history-of-taiwanese-literature) — Đặt Nguyên Minh Nghĩa trở lại dài lâu hơn quang phổ viết đảo
+- [Văn học Đài Loan Sau Chiến Tranh](/vi/art/postwar-taiwanese-literature) — Sau chiến tranh thế hệ cách viết đất, chiến tranh và hằng ngày
+- [Văn học Đài Loan Đương Đại](/vi/art/contemporary-taiwanese-literature) — Sau 2000 tiểu thuyết và dịch quốc tế tạo độ tương ứng
+- [Văn học Bản địa Đài Loan](/vi/art/indigenous-literature) — Khi đọc chính trị tái diễn _Khách Sạn Hải Phong_ tầm nhìn đối chiếu
+- [Văn học Đài Loan Sau Bãi Bỏ Thiết Quân Luật](/vi/art/post-martial-law-taiwanese-literature) — Viết tự nhiên và ký ức thành phố nảy sinh nền tảng chế độ xã hội
 
 ---
 

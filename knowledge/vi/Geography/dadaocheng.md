@@ -211,16 +211,16 @@ Lần sau bạn đi phố Dị Hoá, nhâng đầu nhìn những tinh hoa chạm
 
 **Bài Viết Mở Rộng**:
 
-- [Đài Bắc Thành Phố: Một Thành Phố Với Ba Thời Gian, 1738 Miếu Rồng Sơn Nhìn 2004 Số 101](/geography/台北市) — Panorama 12 quận Đài Bắc, vị trí Đà Đạo Thành trong ba phố
-- [Văn Hoá Phố Cổ Đài Loan Và Khu Thương Mại Phố](/culture/台灣老街文化與商業街區) — Tập tin chính phố cổ, so sánh Phố Dị Hoá với Lộc Cảng, Bành Xương, Tam Tước
-- [Văn Hoá Trà Đài Loan](/culture/台灣茶文化) — Bối cảnh hoàn chỉnh của Formosa Tea và ngành trà Bắc Đài Loan
-- [Sự Kiện 228](/history/二二八事件) — Gói thuốc lá đó thắp lên sự kiện, các cuộc bắt giữ lần sau và chuyển đổi công lý
-- [Phong Trào Xã Hội Đài Loan Thời Kỳ Nhật Trị](/history/日治時期臺灣社會運動) — Tưởng Vệ Thủy và Hiệp Hội Văn Hoá ở số 199 phố Thái Bình
-- [Dân Giai Và Bài Hát Đài Loan](/music/台灣民謠與歌謠) — Bài Hát Mong Xuân Phong 1932 và Công Ty Đĩa Cổ Lôn Mỹ Á ở phố Thái Bình
-- [Bành Xương](/geography/艋舺) — Người Đồng An sơ tán từ Bành Xương Bát Giáp Trang tới Đà Đạo Thành sau cuộc tranh chấp hàng trên hàng dưới năm 1853, hai phố là kết quả luồng phân chia của cùng một cuộc tranh chấp
-- [Tây Môn Chợ](/geography/西門町) — Cùng batch 1 khu phố cổ lịch sử sibling, 1896 khu vui chơi thời Nhật trị vs phố thương mại lĩnh chính thời Đại Thanh của Đà Đạo Thành, so sánh hai "khoảnh khắc hình thành phố"
-- [Đại Long Khustomok](/geography/大龍峒) — Người Đồng An sơ tán sau khi thua cuộc tranh chấp hàng trên hàng dưới lần đầu rút tới Đại Long Khustomok với miếu Bảo An làm trung tâm phòng thủ, sau rồi mới dời tới Đà Đạo Thành—một trạm trung gian trong tường thuật Đà Đạo Thành phổ biến bị bỏ quên
-- [Sĩ Lâm](/geography/士林) — Cuộc tranh chấp giữa người Trạm Châu và người Tuyền Châu năm 1859 ở Sĩ Lâm và cuộc tranh chấp hàng trên hàng dưới năm 1853 ở Bành Xương là hai cuộc tranh chấp khác nhau, Sĩ Lâm là một kết quả luồng phân chia khác của người Trạm Châu bị người Tuyền Châu đốt phố sau khi xây dựng lại
+- [Đài Bắc Thành Phố: Một Thành Phố Với Ba Thời Gian, 1738 Miếu Rồng Sơn Nhìn 2004 Số 101](/vi/geography/taipei-city) — Panorama 12 quận Đài Bắc, vị trí Đà Đạo Thành trong ba phố
+- [Văn Hoá Phố Cổ Đài Loan Và Khu Thương Mại Phố](/vi/culture/taiwan-historic-streets-and-commercial-districts) — Tập tin chính phố cổ, so sánh Phố Dị Hoá với Lộc Cảng, Bành Xương, Tam Tước
+- [Văn Hoá Trà Đài Loan](/vi/culture/taiwanese-tea-culture-and-living-aesthetics) — Bối cảnh hoàn chỉnh của Formosa Tea và ngành trà Bắc Đài Loan
+- [Sự Kiện 228](/vi/history/228-incident) — Gói thuốc lá đó thắp lên sự kiện, các cuộc bắt giữ lần sau và chuyển đổi công lý
+- [Phong Trào Xã Hội Đài Loan Thời Kỳ Nhật Trị](/vi/history/social-movements-during-japanese-rule) — Tưởng Vệ Thủy và Hiệp Hội Văn Hoá ở số 199 phố Thái Bình
+- [Dân Giai Và Bài Hát Đài Loan](/vi/music/taiwan-folk-music-and-songs) — Bài Hát Mong Xuân Phong 1932 và Công Ty Đĩa Cổ Lôn Mỹ Á ở phố Thái Bình
+- [Bành Xương](/vi/geography/bangka) — Người Đồng An sơ tán từ Bành Xương Bát Giáp Trang tới Đà Đạo Thành sau cuộc tranh chấp hàng trên hàng dưới năm 1853, hai phố là kết quả luồng phân chia của cùng một cuộc tranh chấp
+- [Tây Môn Chợ](/vi/geography/ximending) — Cùng batch 1 khu phố cổ lịch sử sibling, 1896 khu vui chơi thời Nhật trị vs phố thương mại lĩnh chính thời Đại Thanh của Đà Đạo Thành, so sánh hai "khoảnh khắc hình thành phố"
+- [Đại Long Khustomok](/vi/geography/dalongdong) — Người Đồng An sơ tán sau khi thua cuộc tranh chấp hàng trên hàng dưới lần đầu rút tới Đại Long Khustomok với miếu Bảo An làm trung tâm phòng thủ, sau rồi mới dời tới Đà Đạo Thành—một trạm trung gian trong tường thuật Đà Đạo Thành phổ biến bị bỏ quên
+- [Sĩ Lâm](/vi/geography/shilin) — Cuộc tranh chấp giữa người Trạm Châu và người Tuyền Châu năm 1859 ở Sĩ Lâm và cuộc tranh chấp hàng trên hàng dưới năm 1853 ở Bành Xương là hai cuộc tranh chấp khác nhau, Sĩ Lâm là một kết quả luồng phân chia khác của người Trạm Châu bị người Tuyền Châu đốt phố sau khi xây dựng lại
 
 ## Nguồn Hình Ảnh
 

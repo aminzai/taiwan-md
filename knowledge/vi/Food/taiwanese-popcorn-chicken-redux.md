@@ -91,9 +91,9 @@ Năm năm trước, Thái Anh Văn chắc chắn không tưởng tượng rằng
 
 ## Đọc thêm
 
-- [Văn hóa chợ đêm](/food/夜市文化) — Địa điểm chính phát hành của xào chiên gà, trường trình ăn đêm của Đài Loan
-- [Văn hóa bữa sáng của Đài Loan](/food/台灣早餐文化) — So sánh hai giai đoạn ăn uống quan trọng của Đài Loan từ sáng đến đêm
-- [Văn hóa các cửa hàng tiện lợi của Đài Loan](/lifestyle/台灣便利商店文化) — Xào chiên gà và các cửa hàng tiện lợi cùng tạo nên bức tranh 24 giờ của ngành ăn uống Đài Loan
+- [Văn hóa chợ đêm](/vi/food/night-market-culture) — Địa điểm chính phát hành của xào chiên gà, trường trình ăn đêm của Đài Loan
+- [Văn hóa bữa sáng của Đài Loan](/vi/food/taiwan-breakfast-culture) — So sánh hai giai đoạn ăn uống quan trọng của Đài Loan từ sáng đến đêm
+- [Văn hóa các cửa hàng tiện lợi của Đài Loan](/vi/lifestyle/convenience-store-culture) — Xào chiên gà và các cửa hàng tiện lợi cùng tạo nên bức tranh 24 giờ của ngành ăn uống Đài Loan
 
 ## Tài liệu tham khảo
 

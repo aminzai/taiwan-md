@@ -59,8 +59,8 @@ Hiện nay, Trương Giác Huyền chính thức thành lập "Hiệp hộ Từ 
 
 ## Mở rộng đọc thêm
 
-- [Văn hóa tình nguyện viên và tham gia công ích ở Đài Loan](/society/台灣志工文化與公益參與) — Từ góc độ hệ thống và hành động dân sự hiểu sâu bối cảnh lâu dài của công ích xã hội ở Đài Loan.
-- [Món ăn làng tị xác ở Đài Loan](/food/台灣眷村菜) — So sánh cách ăn uống của người nghèo trong quá trình di cư, nghèo đói và hỗ trợ xã hội hình thành ký ức.
+- [Văn hóa tình nguyện viên và tham gia công ích ở Đài Loan](/vi/society/volunteering-and-civic-charity-in-taiwan) — Từ góc độ hệ thống và hành động dân sự hiểu sâu bối cảnh lâu dài của công ích xã hội ở Đài Loan.
+- [Món ăn làng tị xác ở Đài Loan](/vi/food/military-dependents-village-cuisine) — So sánh cách ăn uống của người nghèo trong quá trình di cư, nghèo đói và hỗ trợ xã hội hình thành ký ức.
 
 ## Tài liệu tham khảo
 

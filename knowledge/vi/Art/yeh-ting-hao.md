@@ -220,12 +220,12 @@ Người cố gắng không còn nữa. Nhưng các công cụ mà anh để l�
 
 **Đọc Thêm**:
 
-- [台灣新媒體藝術](/art/台灣新媒體藝術) — Từ những năm 1980 Vương Phúc Ruì, Hoàng Văn Lạc đến những năm 2020 Yeh Ting-Hao, Vương Liên Thịnh của Đài Loan, Bối cảnh Âm thanh Phương tiện Mới Đài Loan Bốn Mươi Năm
-- [王福瑞](/people/王福瑞) — Năm 1993 thành lập hãng Âm nhạc Thử nghiệm《Noise》, Người hướng dẫn tinh thần của Nghệ thuật Âm thanh Đài Loan, Giáo sư của Yeh Ting-Hao tại Khoa học Công nghệ Đại học Nghệ thuật Bắc Đài
-- [王連晟](/art/王連晟) — Yeh Ting-Hao i/O Lab cùng thế hệ bạn chiến đấu, Người chủ quản Lacking Sound Festival 2009-2010, Năm 2017 đã giành được Giải thưởng Lumen London với《閱讀計畫》
-- [台灣聲音地景](/music/台灣聲音地景) — Từ Âm thanh Thử nghiệm đến Âm thanh Hình ảnh, từ Tiếng ồn đến Nghệ thuật Sinh thành, Sự tiến hóa của Cảnh quan Âm thanh Đài Loan
-- [數位荒原](/art/數位荒原) — Nền tảng Phê bình Nghệ thuật Phương tiện Mới Đài Loan Đương đại Cùng Thế hệ, ghi lại Luận thuyết Tác phẩm Chính yếu của Thế hệ Yeh Ting-Hao thuộc về
-- [台灣電子音樂與派對文化](/music/台灣電子音樂與派對文化) — Cảnh quang Tiệc Techno và Âm thanh Điện tử Thử nghiệm Đài Loan mà Nhóm Âm thanh Hình ảnh HH sở hữu
+- [台灣新媒體藝術](/vi/art/taiwan-new-media-art) — Từ những năm 1980 Vương Phúc Ruì, Hoàng Văn Lạc đến những năm 2020 Yeh Ting-Hao, Vương Liên Thịnh của Đài Loan, Bối cảnh Âm thanh Phương tiện Mới Đài Loan Bốn Mươi Năm
+- [王福瑞](/vi/people/fujui-wang) — Năm 1993 thành lập hãng Âm nhạc Thử nghiệm《Noise》, Người hướng dẫn tinh thần của Nghệ thuật Âm thanh Đài Loan, Giáo sư của Yeh Ting-Hao tại Khoa học Công nghệ Đại học Nghệ thuật Bắc Đài
+- [王連晟](/vi/art/wang-lien-cheng-artist) — Yeh Ting-Hao i/O Lab cùng thế hệ bạn chiến đấu, Người chủ quản Lacking Sound Festival 2009-2010, Năm 2017 đã giành được Giải thưởng Lumen London với《閱讀計畫》
+- [台灣聲音地景](/vi/music/taiwan-soundscape) — Từ Âm thanh Thử nghiệm đến Âm thanh Hình ảnh, từ Tiếng ồn đến Nghệ thuật Sinh thành, Sự tiến hóa của Cảnh quan Âm thanh Đài Loan
+- [數位荒原](/vi/art/no-mans-land-art-platform) — Nền tảng Phê bình Nghệ thuật Phương tiện Mới Đài Loan Đương đại Cùng Thế hệ, ghi lại Luận thuyết Tác phẩm Chính yếu của Thế hệ Yeh Ting-Hao thuộc về
+- [台灣電子音樂與派對文化](/vi/music/taiwan-electronic-music-and-party-culture) — Cảnh quang Tiệc Techno và Âm thanh Điện tử Thử nghiệm Đài Loan mà Nhóm Âm thanh Hình ảnh HH sở hữu
 
 ## Nguồn ảnh
 

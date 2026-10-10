@@ -172,8 +172,8 @@ Tờ giấy trắng dán thư ngày 31 đềm năm 1999, đến ngày nay vẫn 
 
 ## Đọc thêm
 
-- **[Nghệ thuật truyền thông mới của Đài Loan](/art/台灣新媒體藝術)** — Từ Nhiên Định đến nền tảng nghệ thuật video Đài Loan, Xiệ De Khải là một trong những nguồn gốc của dòng chữ nhất.
-- **[Nghệ thuật hiện đại của Đài Loan](/art/當代藝術)** — Vị trí của Xiệ De Khải trong lịch sử nghệ thuật Đài Loan gần đây (nếu có)
+- **[Nghệ thuật truyền thông mới của Đài Loan](/vi/art/taiwan-new-media-art)** — Từ Nhiên Định đến nền tảng nghệ thuật video Đài Loan, Xiệ De Khải là một trong những nguồn gốc của dòng chữ nhất.
+- **[Nghệ thuật hiện đại của Đài Loan](/vi/art/contemporary-art)** — Vị trí của Xiệ De Khải trong lịch sử nghệ thuật Đài Loan gần đây (nếu có)
 - **[Nghệ thuật cảm xúc của Đài Loan: Chúng ta có nên đợi người Hàn Quốc bình luận trước, mới dám nói ngôi nhà cũ của mình đẹp không?](/vi/culture/taiwanese-sensibility)** — Xiệ De Khải dùng 21 năm chứng minh nghệ thuật không cần lượt thích để tồn tại; bài viết này đang hỏi về việc tương tự, người Đài Loan có nên đợi người Hàn Quốc trước khi thấy được ngôi nhà cũ của mình đẹp không.
 
 ## Tài liệu tham khảo

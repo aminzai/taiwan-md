@@ -210,9 +210,9 @@ Mặc dù Lý Dương đã giải nghệ, nhưng tên tuổi "Lâm Dương Phố
 
 **Đọc thêm**:
 
-- [Quách Hành Nhuần](/people/郭婞淳) — Huy chương vàng cử tạ Olympic Tokyo, là đại diện thế hệ vàng Olympic của Đài Loan cùng Lâm Dương Phối
-- [Lý Dương](/people/李洋) — Tiểu sử cá nhân của nửa phía bên phải Lâm Dương Phối: từ cha nói "không phải tay vợt cầu lông" cho đến Bộ trưởng Thể thao trẻ tuổi nhất lịch sử
-- [Đái Tư Doanh](/people/戴資穎) — Nhà vô địch thế giới nữ đơn thời kỳ Lâm Dương Phối, là mặt mũi đại diện khác của thế hệ vàng cầu lông Đài Loan
+- [Quách Hành Nhuần](/vi/people/kuo-hsing-chun-olympic-weightlifting-champion) — Huy chương vàng cử tạ Olympic Tokyo, là đại diện thế hệ vàng Olympic của Đài Loan cùng Lâm Dương Phối
+- [Lý Dương](/vi/people/lee-yang-badminton) — Tiểu sử cá nhân của nửa phía bên phải Lâm Dương Phối: từ cha nói "không phải tay vợt cầu lông" cho đến Bộ trưởng Thể thao trẻ tuổi nhất lịch sử
+- [Đái Tư Doanh](/vi/people/tai-tzu-ying) — Nhà vô địch thế giới nữ đơn thời kỳ Lâm Dương Phối, là mặt mũi đại diện khác của thế hệ vàng cầu lông Đài Loan
 
 ## Tài liệu tham khảo
 

@@ -135,13 +135,13 @@ Hóa đơn chưa kết.
 
 ## Đọc thêm
 
-- [Sử Ôn Hầu: Khi ngoại giao viên trở thành nhà tự nhiên học](/people/史溫侯) — Những cung cấp tài liệu một tay của bài viết này, 〈Formosa Camphor〉 năm 1864 là tiền sử của chiến tranh camphor
-- [Thời kỳ Thanh trị](/history/清治時期) — Khai cảng năm 1860 và thương mại tự do như thế nào tái tổ chức cấu trúc chính trị kinh tế Đài Loan
-- [Thời kỳ Nhật trị](/history/日治時期) — Cục độc quyền camphor và "khai phá núi ôn bộ tộc" như thế nào tiếp tục chính sách rừng núi cuối thời Thanh trị
-- [Lịch sử khai phá rừng Đài Loan](/history/台灣森林開發史) — Từ camphor đến gỗ sồi, toàn bộ bối cảnh của sự khai thác rừng núi Đài Loan
-- [A Lý Sơn: Rừng của Đế chế và Cao Nhất Sinh của Đảo](/history/阿里山：帝國的林場與高一生的山) — Như thế nào sự cướp phá lâm nghiệp mở rộng tới A Lý Sơn thời Nhật trị và khủng bố Trắng sau chiến tranh
-- [Viện Lịch sử Đài Loan Quốc gia](/society/國立臺灣歷史博物館) — Lưu trữ 〈Formosa Camphor〉 năm 1864 của Sử Ôn Hầu và các tài liệu một tay khác của chiến tranh camphor của cơ quan quốc gia cấp ba (lập tức hệ thống UUID điều hành chính phủ dữ liệu mở bản quyền v1.0)
-- [Cây đưa Đài Loan](/lifestyle/台灣行道樹) — Cùng một loại camphor, trên núi từng là nguyên liệu được cạnh tranh toàn cầu, trên đường phố chỉ bị yêu cầu chắn nắng: hai bên hẻm đường lục sắc xanh ở Tập Tập, Nam Đầu mới đó chính là nó
+- [Sử Ôn Hầu: Khi ngoại giao viên trở thành nhà tự nhiên học](/vi/people/robert-swinhoe-naturalist) — Những cung cấp tài liệu một tay của bài viết này, 〈Formosa Camphor〉 năm 1864 là tiền sử của chiến tranh camphor
+- [Thời kỳ Thanh trị](/vi/history/qing-dynasty-rule) — Khai cảng năm 1860 và thương mại tự do như thế nào tái tổ chức cấu trúc chính trị kinh tế Đài Loan
+- [Thời kỳ Nhật trị](/vi/history/japanese-colonial-era) — Cục độc quyền camphor và "khai phá núi ôn bộ tộc" như thế nào tiếp tục chính sách rừng núi cuối thời Thanh trị
+- [Lịch sử khai phá rừng Đài Loan](/vi/history/taiwan-forestry-history) — Từ camphor đến gỗ sồi, toàn bộ bối cảnh của sự khai thác rừng núi Đài Loan
+- [A Lý Sơn: Rừng của Đế chế và Cao Nhất Sinh của Đảo](/vi/history/alishan-empire-forest-and-uongu-yatauyungana) — Như thế nào sự cướp phá lâm nghiệp mở rộng tới A Lý Sơn thời Nhật trị và khủng bố Trắng sau chiến tranh
+- [Viện Lịch sử Đài Loan Quốc gia](/vi/society/national-museum-of-taiwan-history) — Lưu trữ 〈Formosa Camphor〉 năm 1864 của Sử Ôn Hầu và các tài liệu một tay khác của chiến tranh camphor của cơ quan quốc gia cấp ba (lập tức hệ thống UUID điều hành chính phủ dữ liệu mở bản quyền v1.0)
+- [Cây đưa Đài Loan](/vi/lifestyle/taiwan-street-trees) — Cùng một loại camphor, trên núi từng là nguyên liệu được cạnh tranh toàn cầu, trên đường phố chỉ bị yêu cầu chắn nắng: hai bên hẻm đường lục sắc xanh ở Tập Tập, Nam Đầu mới đó chính là nó
 
 ---
 

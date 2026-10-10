@@ -196,14 +196,14 @@ Cô sẽ tóm tắt tất cả điều này như thế nào? Có lẽ chỉ là 
 
 **Mở rộng đọc**:
 
-- [Vũ Nhược Hiền](/vi/people/魏如萱) — Con đường khác "để tiếng nói không tiêu chuẩn được nghe" của cùng thế hệ âm nhạc phổ biến Hoa ngữ (tiếng bé gái Vũ Nhược Hiền × điện âm ngôn ngữ bộ tộc Á Phát, mở rộng biên giới tiếng nói hai ngôn ngữ)
-- [Trần Kiến Kỳ](/vi/people/陳建騏) — Đối lập với danh tính "tác giả vắng mặt" của nhà sản xuất âm nhạc phổ biến Hoa ngữ (Trần Kiến Kỳ làm biên giới tiếng nói chính thống Hoa ngữ, Á Phát làm future pop ngôn ngữ bộ tộc)
-- [Chu Tử Du](/vi/people/周子瑜) — Chiến lược danh tính của nữ nhạc sĩ Đài Loan cùng thế hệ ở đầu kia (K-pop công nghiệp hóa Chu Tử Du vs danh tính bộ tộc Á Phát × sản xuất tại chỗ)
-- [Giải thưởng Golden Melody](/vi/music/金曲獎) — Ý nghĩa cấu trúc năm 2020 Golden Melody 31, lần đầu tiên tác phẩm ngôn ngữ bộ tộc giành được Giải thưởng Album năm
-- [Âm nhạc phổ biến Đài Loan](/vi/music/台灣流行音樂) — Từ lề đến sân khấu chính của âm nhạc ngôn ngữ bộ tộc, phân điểm nước năm 2020
-- [Bản đồ văn hóa 16 dân tộc nguyên sinh Đài Loan](/culture/台灣原住民族16族文化地圖) — Ngôn ngữ Paiwan, bộ tộc, hình thức nghệ thuật đương đại
+- [Vũ Nhược Hiền](/vi/people/waa-wei-singer) — Con đường khác "để tiếng nói không tiêu chuẩn được nghe" của cùng thế hệ âm nhạc phổ biến Hoa ngữ (tiếng bé gái Vũ Nhược Hiền × điện âm ngôn ngữ bộ tộc Á Phát, mở rộng biên giới tiếng nói hai ngôn ngữ)
+- [Trần Kiến Kỳ](/vi/people/chen-chien-chi-music-producer) — Đối lập với danh tính "tác giả vắng mặt" của nhà sản xuất âm nhạc phổ biến Hoa ngữ (Trần Kiến Kỳ làm biên giới tiếng nói chính thống Hoa ngữ, Á Phát làm future pop ngôn ngữ bộ tộc)
+- [Chu Tử Du](/vi/people/tzuyu) — Chiến lược danh tính của nữ nhạc sĩ Đài Loan cùng thế hệ ở đầu kia (K-pop công nghiệp hóa Chu Tử Du vs danh tính bộ tộc Á Phát × sản xuất tại chỗ)
+- [Giải thưởng Golden Melody](/vi/music/pop-music-and-golden-melody-awards) — Ý nghĩa cấu trúc năm 2020 Golden Melody 31, lần đầu tiên tác phẩm ngôn ngữ bộ tộc giành được Giải thưởng Album năm
+- [Âm nhạc phổ biến Đài Loan](/vi/music/golden-melodies-legacy-taiwan-pop-music) — Từ lề đến sân khấu chính của âm nhạc ngôn ngữ bộ tộc, phân điểm nước năm 2020
+- [Bản đồ văn hóa 16 dân tộc nguyên sinh Đài Loan](/vi/culture/indigenous-peoples-16-tribes-cultural-map) — Ngôn ngữ Paiwan, bộ tộc, hình thức nghệ thuật đương đại
 - [Chính sách ngôn ngữ dân tộc nguyên sinh](/vi/society/原住民族語言政策) — Bối cảnh chính sách phục hưng ngôn ngữ bộ tộc và thực hành âm nhạc kiểu Á Phát bổ trợ
-- [Huỳnh Thiểu Dung](/vi/people/黃少雍) — Nhà sản xuất chung 《kinakaian - Lưỡi mẹ》; cùng dẫn đầu "Khóa học phân tích sản xuất điện âm MINETJUS" ngôn ngữ dân tộc nguyên sinh đến nay là lần thứ năm
+- [Huỳnh Thiểu Dung](/vi/people/huang-shao-yong-musician) — Nhà sản xuất chung 《kinakaian - Lưỡi mẹ》; cùng dẫn đầu "Khóa học phân tích sản xuất điện âm MINETJUS" ngôn ngữ dân tộc nguyên sinh đến nay là lần thứ năm
 
 ## Tài liệu tham khảo
 

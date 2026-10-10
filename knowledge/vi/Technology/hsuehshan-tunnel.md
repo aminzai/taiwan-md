@@ -121,9 +121,9 @@ Khi lái xe vào trong đường hầm, xin giảm tốc độ và tuân thủ q
 
 ## Đọc thêm
 
-- [Hệ thống giao thông Đài Loan](/lifestyle/台灣交通系統) — Hiểu rõ hơn về ý nghĩa giao thông của đường hầm Tuyết Sơn trong mạng lưới đường bộ, đường sắt và giao thông công cộng.
+- [Hệ thống giao thông Đài Loan](/vi/lifestyle/transportation-system) — Hiểu rõ hơn về ý nghĩa giao thông của đường hầm Tuyết Sơn trong mạng lưới đường bộ, đường sắt và giao thông công cộng.
 - [Phát triển đô thị và khoảng cách phát triển vùng miền](/vi/geography/taiwan-urban-development-and-rural-urban-divide) — Mở rộng việc thi công giao thông thay đổi cách phát triển địa phương và di cư dân số.
-- [Đường cao tốc](/lifestyle/高速公路) — Đường hầm Tuyết Sơn chỉ là một phần trong 50 năm lịch sử đường cao tốc Đài Loan, bài viết này từ Ma Siu đường đến đường cao tốc số 7, tính toán chi phí cho từng “tốc độ nhanh hơn” một cách toàn diện.
+- [Đường cao tốc](/vi/lifestyle/national-highway-system) — Đường hầm Tuyết Sơn chỉ là một phần trong 50 năm lịch sử đường cao tốc Đài Loan, bài viết này từ Ma Siu đường đến đường cao tốc số 7, tính toán chi phí cho từng “tốc độ nhanh hơn” một cách toàn diện.
 
 ## Tài liệu tham khảo
 

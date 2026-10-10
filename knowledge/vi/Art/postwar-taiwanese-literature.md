@@ -160,14 +160,14 @@ Những gì 42 năm này để lại sẽ không hết theo dỡ bỏ. Sơ yếu
 
 ## Đọc Thêm
 
-- [Văn học Đài Loan sau khi Bãi bỏ Thiết quân luật](/art/解嚴後台灣文學) — Từ 1987 bãi bỏ thiết quân luật đến năm 2000, bản địa hóa, giới tính, bội phát đa ngôn ngữ
-- [Văn học Đài Loan Đương Đại](/art/當代台灣文學) — Thế kỷ 21 Ngô Minh Ích quốc tế hóa, Lâm Dịch Hàm, làn sóng kỹ thuật số
-- [Lịch sử Văn học Đài Loan](/art/台灣文學史) — Từ Hà Lan trị, Minh Thanh, Nhật trị, Sau chiến tranh đến Đương đại cảnh quan toàn bộ
-- [Văn học Thời kỳ Nhật trị](/art/日治時期文學) — Lại Hoà, Lữ Hạch Nhược, Trương Văn Hoàn, Dương Liễm điểm khởi thời Nhật trị, là đầu kia của mất tiếng nói sau chiến tranh
-- [Lâm Lương](/people/林良) — Nước ngoài sau chiến tranh đến Đài Loan những người khai sáng văn học trẻ em, 57 năm sự nghiệp Báo Quốc Ngữ, "Nghệ thuật của Ngôn ngữ Nông Cạn" xác định điểm khởi văn học sau chiến tranh của các thế hệ trẻ em Đài Loan
+- [Văn học Đài Loan sau khi Bãi bỏ Thiết quân luật](/vi/art/post-martial-law-taiwanese-literature) — Từ 1987 bãi bỏ thiết quân luật đến năm 2000, bản địa hóa, giới tính, bội phát đa ngôn ngữ
+- [Văn học Đài Loan Đương Đại](/vi/art/contemporary-taiwanese-literature) — Thế kỷ 21 Ngô Minh Ích quốc tế hóa, Lâm Dịch Hàm, làn sóng kỹ thuật số
+- [Lịch sử Văn học Đài Loan](/vi/art/history-of-taiwanese-literature) — Từ Hà Lan trị, Minh Thanh, Nhật trị, Sau chiến tranh đến Đương đại cảnh quan toàn bộ
+- [Văn học Thời kỳ Nhật trị](/vi/art/taiwanese-literature-during-japanese-rule) — Lại Hoà, Lữ Hạch Nhược, Trương Văn Hoàn, Dương Liễm điểm khởi thời Nhật trị, là đầu kia của mất tiếng nói sau chiến tranh
+- [Lâm Lương](/vi/people/lin-liang-childrens-literature) — Nước ngoài sau chiến tranh đến Đài Loan những người khai sáng văn học trẻ em, 57 năm sự nghiệp Báo Quốc Ngữ, "Nghệ thuật của Ngôn ngữ Nông Cạn" xác định điểm khởi văn học sau chiến tranh của các thế hệ trẻ em Đài Loan
 - [Khủng bố Trắng](/history/白色恐怖) — Nền tảng chính trị của Diệp Thạch Thào vào tù, Dương Liễm Đảo Xanh, Lữ Hạch Nhược Lộc Khu
-- [Sự kiện 228](/history/二二八事件) — Tác động 1947 tới bàn sáng tạo (Vương Thiêm Đèn, Dương Liễm, Diệp Đào)
-- [Thời kỳ Thiết quân luật](/history/戒嚴時期) — Điều kiện chính trị 1949-1987 hoạt động bàn sáng tạo
+- [Sự kiện 228](/vi/history/228-incident) — Tác động 1947 tới bàn sáng tạo (Vương Thiêm Đèn, Dương Liễm, Diệp Đào)
+- [Thời kỳ Thiết quân luật](/vi/history/martial-law-era) — Điều kiện chính trị 1949-1987 hoạt động bàn sáng tạo
 
 ---
 

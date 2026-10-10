@@ -268,16 +268,16 @@ Núi thần bảo vệ dựa 50 năm kinh nghiệm gia công thống trị hiệ
 
 - [Công ty Đài Loan: Đài Tích Điện](/economy/企業：台積電) — Quản lý công ty, cấu trúc tài chính, quy mô chi phí bỏ ra của Núi thần bảo vệ
 - [Công ty Đài Loan: MediaTek](/economy/企業：聯發科技) — Lãnh đạo thiết kế IC toàn cầu top 3 chiếm vị trí thế nào trong chip điện thoại, tính toán AI cạnh
-- [Công ty Đài Loan: Nhật Nguyệt Quang Bán dẫn](/economy/台灣企業：日月光半導體) — Ngành công nghiệp đóng gói kiểm tra top 1 toàn cầu, hệ sinh thái giai đoạn sau ngoài CoWoS
-- [Người tạo núi: Sự cược của thế kỷ](/art/造山者世紀的賭注) — Phim tài liệu Tiêu Cúc Trinh 2025, phỏng vấn 80+ tiền bối bán dẫn trong 5 năm, 2026 đi vào ba cái mỏ CHIPS Act Arizona / Wisconsin / Michigan
-- [Võ Đại Hữu](/people/吳大猷) — Thập niên 1980s Đài Loan tranh đua bán dẫn cùng lúc, làm viện trưởng viện khoa học trung ương kiên quyết tầm quan trọng của khoa học căn bản, nền tảng cho hệ thống R&D Đài Loan
-- [Hoàng Sùng Nhân](/people/黃崇仁) — Nhà sáng lập Lực Tích Điện (力晶) / Lực Tích Điện (力積電), Đài Loan DRAM dòng con đường trên phép cấp công nghệ của người khác xây nhà máy riêng: thị phần từ 23,2% rơi xuống 6,3%, phần của ngành công nghiệp ít nhất được nói
-- [Ngành công nghiệp robot Đài Loan](/technology/台灣機器人產業) — Đảo bán dẫn thế giới top 1, sao lại bộ học trong kỷ nguyên robot? Từ việc khai mạc NCAIR nhìn rõ khoảng cách ngành công nghiệp
-- [Cổ phiếu Đài Loan và thị trường vốn](/economy/台灣股市與資本市場) — Cạn dậu thân Đài Loan 2026 toàn cầu top 6 cơ thể, toàn bộ chuỗi cung ứng hệ sinh thái thế nào hiện rõ trong thị trường vốn
-- [Chuỗi cung ứng Wolfram Đài Loan](/technology/台灣鎢供應鏈) — Khinh khí hóa Wolfram 6 độ điền contact trenches và character 3D NAND, Đài Loan không có khoáng sản Wolfram lại dựa tái chế luyện đứng trên dòng chảy vật liệu giữa này
-- [Trường Nhân tạo thông minh Đài Loan](/technology/台灣人工智慧學校) — AIA 8 năm đào tạo vạn kỹ sư AI thế nào quay lại ICT chuỗi bán dẫn sẵn có, bù yếu điểm phần mềm Đài Loan
-- [Computex: ba cái triển lãm máy tính quốc tế thu lại hai cái, cái còn lại dài ở Đài Bắc](/technology/Computex) — CoWoS và công nghệ tiên tiến Đài Tích Điện, mỗi năm tháng năm cuối thì ở triển lãm máy tính 45 tuổi Đài Bắc này bắt tay với những ông lớn AI toàn cầu
-- [Công viên khoa học Đài Loan](/technology/科技園區發展) — Công viên Tân Trúc, Nam Khoa, Trung Khoa ba công viên, vật lý chứa đựng tập hợp bán dẫn, cũng là tâm địa lý của thặng dư silicon
+- [Công ty Đài Loan: Nhật Nguyệt Quang Bán dẫn](/vi/economy/taiwan-enterprise-ase-semiconductor) — Ngành công nghiệp đóng gói kiểm tra top 1 toàn cầu, hệ sinh thái giai đoạn sau ngoài CoWoS
+- [Người tạo núi: Sự cược của thế kỷ](/vi/art/mountain-makers-tsmc-documentary) — Phim tài liệu Tiêu Cúc Trinh 2025, phỏng vấn 80+ tiền bối bán dẫn trong 5 năm, 2026 đi vào ba cái mỏ CHIPS Act Arizona / Wisconsin / Michigan
+- [Võ Đại Hữu](/vi/people/tai-yu-wu) — Thập niên 1980s Đài Loan tranh đua bán dẫn cùng lúc, làm viện trưởng viện khoa học trung ương kiên quyết tầm quan trọng của khoa học căn bản, nền tảng cho hệ thống R&D Đài Loan
+- [Hoàng Sùng Nhân](/vi/people/frank-huang-psmc) — Nhà sáng lập Lực Tích Điện (力晶) / Lực Tích Điện (力積電), Đài Loan DRAM dòng con đường trên phép cấp công nghệ của người khác xây nhà máy riêng: thị phần từ 23,2% rơi xuống 6,3%, phần của ngành công nghiệp ít nhất được nói
+- [Ngành công nghiệp robot Đài Loan](/vi/technology/taiwan-robotics-industry) — Đảo bán dẫn thế giới top 1, sao lại bộ học trong kỷ nguyên robot? Từ việc khai mạc NCAIR nhìn rõ khoảng cách ngành công nghiệp
+- [Cổ phiếu Đài Loan và thị trường vốn](/vi/economy/taiwan-stock-market) — Cạn dậu thân Đài Loan 2026 toàn cầu top 6 cơ thể, toàn bộ chuỗi cung ứng hệ sinh thái thế nào hiện rõ trong thị trường vốn
+- [Chuỗi cung ứng Wolfram Đài Loan](/vi/technology/taiwan-tungsten-supply-chain) — Khinh khí hóa Wolfram 6 độ điền contact trenches và character 3D NAND, Đài Loan không có khoáng sản Wolfram lại dựa tái chế luyện đứng trên dòng chảy vật liệu giữa này
+- [Trường Nhân tạo thông minh Đài Loan](/vi/technology/taiwan-ai-academy) — AIA 8 năm đào tạo vạn kỹ sư AI thế nào quay lại ICT chuỗi bán dẫn sẵn có, bù yếu điểm phần mềm Đài Loan
+- [Computex: ba cái triển lãm máy tính quốc tế thu lại hai cái, cái còn lại dài ở Đài Bắc](/vi/technology/computex) — CoWoS và công nghệ tiên tiến Đài Tích Điện, mỗi năm tháng năm cuối thì ở triển lãm máy tính 45 tuổi Đài Bắc này bắt tay với những ông lớn AI toàn cầu
+- [Công viên khoa học Đài Loan](/vi/technology/science-park-development) — Công viên Tân Trúc, Nam Khoa, Trung Khoa ba công viên, vật lý chứa đựng tập hợp bán dẫn, cũng là tâm địa lý của thặng dư silicon
 
 ## Nguồn ảnh
 

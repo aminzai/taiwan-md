@@ -197,7 +197,7 @@ Sau khi từ chức, ICE tiếp tục sáng tác dưới tên cá nhân. Tháng 
 
 Đây là phiên bản Rayark của "bom chính trị", cũng là lần thứ hai "cam kết thẩm mỹ" logic xung đột với quan hệ kinh doanh. 3 năm trước sự kiện VK Khách Rayark chọn quan hệ kinh doanh ưu tiên, lần này đối mặt với thị trường lớn hơn, cấu trúc quyết định hoàn toàn giống hệt nhau.
 
-Một năm trước năm 2019, [Cedar Games](/technology/赤燭遊戲) "Still Wishing" vì lý do ký hiệu, ngày 23 tháng 2 dưới kệ Steam Trung Quốc, ba ngày sau Cedar công bố toàn bộ dưới kệ Steam[^cedargames-wiki]. Công ty phát hành sau đó công ty Thượng Hải Orange Cat được Bộ giám sát Thị trường Quận Dương Phố lập hồ sơ điều tra, ngày 17 tháng 6 Giấy phép kinh doanh bị thu hồi[^cedargames-wiki]. **Đúng là phía phát hành chịu chi phí**, Cedar giữ nội dung gốc không nhượng bộ, nhưng công ty phát hành bị tiêu diệt. Rayark sự kiện ICE 2020 chọn con đường khác: để người liên quan rời đi, trò chơi điều chỉnh hợp tác, bảo tồn kênh phát hành Trung Quốc. Ưu tiên quan hệ kinh doanh, vẫn là logic cùng một dòng sự kiện VK Khách.
+Một năm trước năm 2019, [Cedar Games](/vi/technology/red-candle-games) "Still Wishing" vì lý do ký hiệu, ngày 23 tháng 2 dưới kệ Steam Trung Quốc, ba ngày sau Cedar công bố toàn bộ dưới kệ Steam[^cedargames-wiki]. Công ty phát hành sau đó công ty Thượng Hải Orange Cat được Bộ giám sát Thị trường Quận Dương Phố lập hồ sơ điều tra, ngày 17 tháng 6 Giấy phép kinh doanh bị thu hồi[^cedargames-wiki]. **Đúng là phía phát hành chịu chi phí**, Cedar giữ nội dung gốc không nhượng bộ, nhưng công ty phát hành bị tiêu diệt. Rayark sự kiện ICE 2020 chọn con đường khác: để người liên quan rời đi, trò chơi điều chỉnh hợp tác, bảo tồn kênh phát hành Trung Quốc. Ưu tiên quan hệ kinh doanh, vẫn là logic cùng một dòng sự kiện VK Khách.
 
 > **⚠️ Quan điểm tranh cãi**
 > Đây là sự lựa chọn hoàn toàn khác nhau của hai đội indie chỉ số của Đài Loan khi đối mặt với áp lực thị trường Trung Quốc. Cedar không nhượng bộ nội dung, công ty phát hành phải chịu chi phí tiêu diệt; Rayark nhượng bộ nội dung, bảo tồn kênh phát hành Trung Quốc. Phương tiện truyền thông tiếng Anh PocketGamer.biz sử dụng tiêu đề "China pulls Cytus II from the App Store for secret pro-democracy Morse code message"[^pocketgamer-cytus2], trong khi thảo luận thế giới tiếng Trung tập trung vào "Rayark đầu hàng / cắt bỏ có đúng không". Cùng một sự kiện, hai cách đọc. Lựa chọn lần này của Rayark, kết hợp với lựa chọn đối với VK Khách 2014-2017, là kết quả của logic thương hiệu chung mở rộng đến nguồn áp lực khác nhau.
@@ -266,10 +266,10 @@ Rayark tiếp theo sẽ trông như thế nào? Cũng có thể không bao giờ
 
 ## Đọc thêm
 
-- [Ngành công nghiệp trò chơi Đài Loan và giải trí kỹ thuật số](/technology/台灣遊戲產業與數位娛樂) — Toàn cảnh trò chơi Đài Loan từ đại lý đến nguyên bản
-- [Cedar Games](/technology/赤燭遊戲) — Con đường khác của indie Đài Loan: sử dụng lịch sử kể chuyện, chọn rút khỏi thị trường Trung Quốc
-- [Nhân vật tiền tố Đài Loan](/technology/大宇雙劍) — Điểm bắt đầu trò chơi Đài Loan kể chuyện tiếng Trung
-- [Legend Network và xuất binh trò chơi trực tuyến Đài Loan](/technology/傳奇網路與台灣線上遊戲出海) — Một câu chuyện khác của biển ngoài trò chơi Đài Loan
+- [Ngành công nghiệp trò chơi Đài Loan và giải trí kỹ thuật số](/vi/technology/taiwan-gaming-industry) — Toàn cảnh trò chơi Đài Loan từ đại lý đến nguyên bản
+- [Cedar Games](/vi/technology/red-candle-games) — Con đường khác của indie Đài Loan: sử dụng lịch sử kể chuyện, chọn rút khỏi thị trường Trung Quốc
+- [Nhân vật tiền tố Đài Loan](/vi/technology/softstar-twin-classics) — Điểm bắt đầu trò chơi Đài Loan kể chuyện tiếng Trung
+- [Legend Network và xuất binh trò chơi trực tuyến Đài Loan](/vi/technology/chuanqi-net-and-taiwan-online-gaming) — Một câu chuyện khác của biển ngoài trò chơi Đài Loan
 
 ---
 

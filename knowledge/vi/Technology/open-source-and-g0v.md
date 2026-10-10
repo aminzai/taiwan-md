@@ -214,6 +214,6 @@ Câu trả lời vẫn đang được viết ra, và mỗi một người sẵn 
 
 ## Những Chủ đề Có liên quan
 
-- [Nền tảng Văn hóa Mở](/technology/開放文化基金會): Cơ quan tài chính-kế toán phía sau g0v, phát hành hoá đơn, và chịu trách nhiệm hành chính cho cộng đồng, cũng như câu chuyện về cách nó tăng trưởng từ hậu trường thành một người canh giữ nhân quyền kỹ thuật số
-- [Ngành công nghiệp Bán dẫn](/technology/半導體產業): Nền tảng sức mạnh công nghệ của Đài Loan
-- [Mạch Nhịp Mini Taiwan](/technology/mini-taiwan-pulse): Thực thi mã nguồn mở cá nhân công nghệ công dân năm 2026——dùng dữ liệu Mở TDX + Three.js vẽ Đài Loan thành những bước sóng ánh sáng 3D
+- [Nền tảng Văn hóa Mở](/vi/technology/open-culture-foundation): Cơ quan tài chính-kế toán phía sau g0v, phát hành hoá đơn, và chịu trách nhiệm hành chính cho cộng đồng, cũng như câu chuyện về cách nó tăng trưởng từ hậu trường thành một người canh giữ nhân quyền kỹ thuật số
+- [Ngành công nghiệp Bán dẫn](/vi/technology/taiwan-semiconductor-industry): Nền tảng sức mạnh công nghệ của Đài Loan
+- [Mạch Nhịp Mini Taiwan](/vi/technology/mini-taiwan-pulse-civic-tech): Thực thi mã nguồn mở cá nhân công nghệ công dân năm 2026——dùng dữ liệu Mở TDX + Three.js vẽ Đài Loan thành những bước sóng ánh sáng 3D

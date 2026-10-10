@@ -166,8 +166,8 @@ Hôm nay, khi người dân mua một con cá trên thị trường, họ nhìn 
 
 ## Đọc thêm
 
-- [Nguồn gốc ngư nghiệp Đài Loan](/history/台灣漁業起源) — Nửa trên cùng một biển: Thử nghiệm thủy sản thời Nhật trị, chợ cá và tiếp nhận kỹ thuật sau chiến tranh
-- [Lịch sử thương mại hàng hải Đài Loan](/history/台灣海洋貿易史)
+- [Nguồn gốc ngư nghiệp Đài Loan](/vi/history/taiwan-fishery-origins) — Nửa trên cùng một biển: Thử nghiệm thủy sản thời Nhật trị, chợ cá và tiếp nhận kỹ thuật sau chiến tranh
+- [Lịch sử thương mại hàng hải Đài Loan](/vi/history/taiwan-maritime-trade-history)
 - [Lịch sử ngành đường Đài Loan](/history/台灣糖業史)
 
 ## Image sources

@@ -81,7 +81,7 @@ Năm mươi năm sự nghiệp không bị định hình trong bất kỳ một 
 
 Từ đường Công Hòa Chiayi khởi hành, trải qua Đài Bắc, Hồng Kông, di chuyển qua lại giữa hai bờ — năm mươi năm của Sylvia Chang không phải là một câu chuyện thành công tuyến tính, mà là kỷ lục của một người liên tục di chuyển giữa các vai trò khác nhau, không sẵn sàng dừng lại ở bất kỳ vị trí thoải mái nào. Tên cô trong lịch sử giải trí Đài Loan đại diện cho một cách sống mà một người sáng tạo có thể chọn lựa, vượt xa hơn những gì mà thành tích cá nhân của một người có thể khung định.
 
-**Đọc thêm**: [Sylvia Chang — Wikipedia](https://zh.wikipedia.org/wiki/張艾嘉) ｜ [Cơ Sở Dữ Liệu Giải Thưởng Tây Hồ](https://www.goldenhorse.org.tw/awards/nw/?serach_type=award&search_item=person&search_text=%E5%BC%B5%E8%89%BE%E5%98%89) ｜ [楊德昌](/people/楊德昌) — »Ngày Trên Bãi Biển« mà cô đóng là bộ phim dài tập đầu tiên của Hầu Hiếu Hiền
+**Đọc thêm**: [Sylvia Chang — Wikipedia](https://zh.wikipedia.org/wiki/張艾嘉) ｜ [Cơ Sở Dữ Liệu Giải Thưởng Tây Hồ](https://www.goldenhorse.org.tw/awards/nw/?serach_type=award&search_item=person&search_text=%E5%BC%B5%E8%89%BE%E5%98%89) ｜ [楊德昌](/vi/people/yang-dechang) — »Ngày Trên Bãi Biển« mà cô đóng là bộ phim dài tập đầu tiên của Hầu Hiếu Hiền
 
 ## Tài Liệu Tham Khảo
 

@@ -120,11 +120,11 @@ Tờ đơn từ chức mà cơ thể viết, cuối cùng anh đã nhận lại 
 
 **Đọc thêm**:
 
-- [Vũ Như Tuyên](/people/魏如萱) — Ca sĩ cùng thời, hai lần vô địch Golden Melody Awards, từ tóc uốn tự nhiên đến bị phỏng vấn đường phố gọi là "công dân" trong hai mươi năm
-- [Trương Vũ Sinh](/people/張雨生) — Một trường hợp lịch sử khác của sự kéo giãn "thần tượng và nhạc sĩ" trong nhạc pop tiếng Hoa
-- [Trần Kiến Kỳ](/people/陳建騏) — Thể loại nhà sản xuất con, anh là người bảo vệ biên giới âm thanh của nhạc pop tiếng Hoa
-- [Trịnh Nghi Nông](/people/鄭宜農) — Ca sĩ sáng tác cùng thế hệ, dùng ngôn ngữ lạ lùng nhất để viết những bài hát chân thành nhất
-- [Các chương trình variety show Đài Loan](/culture/台灣綜藝) — Lịch sử tạo sao qua truyền hình Đài Loan, từ《群星會》đến《超級星光大道》nửa thế kỷ mạch tuyến
+- [Vũ Như Tuyên](/vi/people/waa-wei-singer) — Ca sĩ cùng thời, hai lần vô địch Golden Melody Awards, từ tóc uốn tự nhiên đến bị phỏng vấn đường phố gọi là "công dân" trong hai mươi năm
+- [Trương Vũ Sinh](/vi/people/chang-yu-sheng-singer) — Một trường hợp lịch sử khác của sự kéo giãn "thần tượng và nhạc sĩ" trong nhạc pop tiếng Hoa
+- [Trần Kiến Kỳ](/vi/people/chen-chien-chi-music-producer) — Thể loại nhà sản xuất con, anh là người bảo vệ biên giới âm thanh của nhạc pop tiếng Hoa
+- [Trịnh Nghi Nông](/vi/people/cheng-i-nung) — Ca sĩ sáng tác cùng thế hệ, dùng ngôn ngữ lạ lùng nhất để viết những bài hát chân thành nhất
+- [Các chương trình variety show Đài Loan](/vi/culture/taiwan-variety-shows) — Lịch sử tạo sao qua truyền hình Đài Loan, từ《群星會》đến《超級星光大道》nửa thế kỷ mạch tuyến
 
 ---
 

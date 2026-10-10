@@ -90,8 +90,8 @@ Kèm theo tiến bộ của thời đại, cơm nước dầu cũng đang đối
 
 **Đọc thêm**:
 
-- [Đồ ăn vặt Đài Loan](/food/台灣小吃) — Bối cảnh văn hóa đồ ăn vặt Đài Loan mà cơm nước dầu thuộc về
-- [Đồ ăn vặt đường phố Đài Loan](/food/台灣手路菜) — Vị trí và bối cảnh của cơm nước dầu trong văn hóa tiệc tùng
+- [Đồ ăn vặt Đài Loan](/vi/food/taiwanese-street-food) — Bối cảnh văn hóa đồ ăn vặt Đài Loan mà cơm nước dầu thuộc về
+- [Đồ ăn vặt đường phố Đài Loan](/vi/food/taiwan-specialty-home-cooking) — Vị trí và bối cảnh của cơm nước dầu trong văn hóa tiệc tùng
 
 ## Tài liệu tham khảo
 

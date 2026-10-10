@@ -277,11 +277,11 @@ Còn cả hai bên, đều nói mình đứng ở phía tương lai.
 
 ## Đọc thêm để mở rộng hiểu biết
 
-- [Cuộc khủng hoảng khí hậu Đài Loan và chuyển đổi net-zero](/nature/台灣氣候危機與淨零轉型) — Cùng một bài toán năng lượng nhưng từ một khía cạnh khác: từ giới hạn vật lý, cung-cầu điện và thời gian giảm carbon cắt, bài viết này là bài chị em của bài này
-- [Lịch sử phong trào bảo vệ môi trường Đài Loan](/nature/台灣環境運動史) — Phản đối hạt nhân như một bộ phận của phong trào bảo vệ môi trường Đài Loan sau chiến tranh, toàn bộ bối cảnh từ Lộc Cảng chống DuPont tới Cống Liêu
-- [Công lý môi trường Đài Loan và tranh cãi "không xây dựng trong sân nhà"](/society/台灣環境正義與鄰避爭議) — Cấu trúc "không xây dựng trong sân nhà" đằng sau chất thải hạt nhân và Đảo Lan Tự: tại sao rủi ro lại luôn rơi vào nơi chẳng có tiếng nói
-- [Phong trào xã hội và tham gia công dân](/society/社會運動與公民參與) — Phản đối hạt nhân làm thế nào để chia sẻ cùng một ngôn ngữ và năng lượng với phong trào dân chủ Đài Loan
-- [Phong trào Hoa Mặt Trời (Sunflower Movement)](/society/太陽花學運) — Một thế hệ công dân hoạt động của cùng khoảng thời gian, giúp hiểu rõ không khí thời đại khi Lâm Nghĩa Hùng tuyệt thực
+- [Cuộc khủng hoảng khí hậu Đài Loan và chuyển đổi net-zero](/vi/nature/taiwan-climate-change-net-zero-transition) — Cùng một bài toán năng lượng nhưng từ một khía cạnh khác: từ giới hạn vật lý, cung-cầu điện và thời gian giảm carbon cắt, bài viết này là bài chị em của bài này
+- [Lịch sử phong trào bảo vệ môi trường Đài Loan](/vi/nature/taiwan-environmental-movement-history) — Phản đối hạt nhân như một bộ phận của phong trào bảo vệ môi trường Đài Loan sau chiến tranh, toàn bộ bối cảnh từ Lộc Cảng chống DuPont tới Cống Liêu
+- [Công lý môi trường Đài Loan và tranh cãi "không xây dựng trong sân nhà"](/vi/society/taiwan-environmental-justice-nimby-conflicts) — Cấu trúc "không xây dựng trong sân nhà" đằng sau chất thải hạt nhân và Đảo Lan Tự: tại sao rủi ro lại luôn rơi vào nơi chẳng có tiếng nói
+- [Phong trào xã hội và tham gia công dân](/vi/society/social-movements-and-civic-participation) — Phản đối hạt nhân làm thế nào để chia sẻ cùng một ngôn ngữ và năng lượng với phong trào dân chủ Đài Loan
+- [Phong trào Hoa Mặt Trời (Sunflower Movement)](/vi/society/sunflower-movement) — Một thế hệ công dân hoạt động của cùng khoảng thời gian, giúp hiểu rõ không khí thời đại khi Lâm Nghĩa Hùng tuyệt thực
 
 ## Dữ liệu công khai
 

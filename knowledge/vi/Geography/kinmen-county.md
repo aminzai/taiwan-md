@@ -195,17 +195,17 @@ Nhìn những người đang chờ lên thuyền: có cư dân Kim Môn đi khá
 
 ## Tài liệu tham khảo mở rộng
 
-- [Huyện Liên Giang](/geography/連江縣) — sibling trong loạt 22 tỉnh thành, tỉnh Phúc Kiến còn lại một đảo ngoại viên. Cũng áp dụng chính quyền chiến trường năm 1956, bỏ qua năm 1992, mở cửa Tam thông nhỏ năm 2001, nhưng nói tiếng Fuzhou của Minh Đông, cách Fuzhou 50 km, chưa có trận chiến đất quy mô như Cổ Ninh Đầu, khác biệt với Kim Môn ở thể chế nhưng khác dòng máu
-- [Thành phố Cảng](/geography/基隆市) — pilot trong loạt 22 tỉnh thành, cảng sâu duy nhất ở phía bắc so với hệ thống phòng thủ biển Nam của Kim Môn, hai trục thời gian của cảng Đài Loan
-- [Huyện Phúc Kiến](/geography/澎湖縣) — tỉnh thứ ba trong loạt đảo ngoại viên, cũng là đảo ngoại viên nhưng có lịch sử thuộc Nhật, có thể so sánh với sự khác biệt của Kim Môn chưa bị Nhật thuộc trực tiếp quản lý
-- [Trần Thành](/people/鄭成功) — năm 1646, khởi nghĩa ở cả hai nơi Kim Môn và Hạ Môn, phản kháng Cao, quyết định này sau này thay đổi Đài Loan
-- [Quang Tử Trấn](/people/蔣中正) — năm 1958, đặt câu “đừng quên ở Kim Môn” trên đồi Thái Vũ, là người ra quyết định giữ vững Kim Môn vào năm 1949
-- [Thời kỳ pháp lệnh](/history/戒嚴時期) — Đài Loan giải mở vào năm 1987, Kim Môn và Masu mới chấm dứt chính quyền chiến trường vào năm 1992, so sánh hai phiên bản của thời kỳ pháp lệnh
-- [Khủng hoảng eo biển và sự phát triển của mối quan hệ hai bờ eo biển](/history/台海危機與兩岸關係發展) — Trận Tháng Tám là bằng chứng vật lý cụ thể nhất của Lạnh chiến nóng lên, phần “vào lúc 17h30” của bài viết này là phần mở rộng cấp huyện của bài viết này
-- [Quốc phòng và hiện đại hóa quân sự của Đài Loan](/society/台灣國防與軍事現代化) — sự biến chuyển từ quân nhân quản lý 50.000-100.000 người của Kim Môn xuống dưới 5.000 người ngày nay, so sánh với toàn bộ quỹ quân đội hiện đại
-- [Đặc điểm địa lý và hình thành của đảo Đài Loan](/geography/台灣島嶼地理特色與形成) — so sánh đá granit của Kim Môn với cơ chế hình thành của các đảo khác ở Đài Loan
-- [Truyền thuyết Ma Thủy và Đại Đường Công](/culture/媽祖與大道公的傳說) — niềm tin Minh Nam của Kim Môn có nguồn gốc chung với Đài Loan, khác với truyền thuyền Thái Tử Tháp ở Masu
-- [Đảo nghệ thuật Masu](/art/馬祖國際藝術島) — Liên Giang biến hầm lốy chiến trường và phòng trà quân sự thành dự án triển vọng mười năm, Kim Môn chuyển đổi di sản chiến trường theo một con đường khác, có thể so sánh cách hai đảo tiền tuyến xử lý cùng một loại di sản
+- [Huyện Liên Giang](/vi/geography/lienchiang-county) — sibling trong loạt 22 tỉnh thành, tỉnh Phúc Kiến còn lại một đảo ngoại viên. Cũng áp dụng chính quyền chiến trường năm 1956, bỏ qua năm 1992, mở cửa Tam thông nhỏ năm 2001, nhưng nói tiếng Fuzhou của Minh Đông, cách Fuzhou 50 km, chưa có trận chiến đất quy mô như Cổ Ninh Đầu, khác biệt với Kim Môn ở thể chế nhưng khác dòng máu
+- [Thành phố Cảng](/vi/geography/keelung-city) — pilot trong loạt 22 tỉnh thành, cảng sâu duy nhất ở phía bắc so với hệ thống phòng thủ biển Nam của Kim Môn, hai trục thời gian của cảng Đài Loan
+- [Huyện Phúc Kiến](/vi/geography/penghu-county) — tỉnh thứ ba trong loạt đảo ngoại viên, cũng là đảo ngoại viên nhưng có lịch sử thuộc Nhật, có thể so sánh với sự khác biệt của Kim Môn chưa bị Nhật thuộc trực tiếp quản lý
+- [Trần Thành](/vi/people/koxinga) — năm 1646, khởi nghĩa ở cả hai nơi Kim Môn và Hạ Môn, phản kháng Cao, quyết định này sau này thay đổi Đài Loan
+- [Quang Tử Trấn](/vi/people/chiang-kai-shek) — năm 1958, đặt câu “đừng quên ở Kim Môn” trên đồi Thái Vũ, là người ra quyết định giữ vững Kim Môn vào năm 1949
+- [Thời kỳ pháp lệnh](/vi/history/martial-law-era) — Đài Loan giải mở vào năm 1987, Kim Môn và Masu mới chấm dứt chính quyền chiến trường vào năm 1992, so sánh hai phiên bản của thời kỳ pháp lệnh
+- [Khủng hoảng eo biển và sự phát triển của mối quan hệ hai bờ eo biển](/vi/history/taiwan-strait-crises-and-cross-strait-relations) — Trận Tháng Tám là bằng chứng vật lý cụ thể nhất của Lạnh chiến nóng lên, phần “vào lúc 17h30” của bài viết này là phần mở rộng cấp huyện của bài viết này
+- [Quốc phòng và hiện đại hóa quân sự của Đài Loan](/vi/society/taiwan-defense-modernization) — sự biến chuyển từ quân nhân quản lý 50.000-100.000 người của Kim Môn xuống dưới 5.000 người ngày nay, so sánh với toàn bộ quỹ quân đội hiện đại
+- [Đặc điểm địa lý và hình thành của đảo Đài Loan](/vi/geography/geography-and-geology) — so sánh đá granit của Kim Môn với cơ chế hình thành của các đảo khác ở Đài Loan
+- [Truyền thuyết Ma Thủy và Đại Đường Công](/vi/culture/mazu-dadaogong-legend) — niềm tin Minh Nam của Kim Môn có nguồn gốc chung với Đài Loan, khác với truyền thuyền Thái Tử Tháp ở Masu
+- [Đảo nghệ thuật Masu](/vi/art/matsu-biennial) — Liên Giang biến hầm lốy chiến trường và phòng trà quân sự thành dự án triển vọng mười năm, Kim Môn chuyển đổi di sản chiến trường theo một con đường khác, có thể so sánh cách hai đảo tiền tuyến xử lý cùng một loại di sản
 
 ## Nguồn hình ảnh
 

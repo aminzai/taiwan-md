@@ -40,7 +40,7 @@ sourceBodyHash: 'sha256:0f8970c54b5cd9d2'
 translatedAt: '2026-08-09T10:41:15+08:00'
 ---
 
-> **Tóm tắt 30 giây:** Điền Phúc Trinh (sinh 1983, gốc Khách Gia Tân Trúc) là một hiện tượng hiếm hoi trong lịch sử nhạc pop Trung Hoa — một người rút lui chủ động. Năm 2001, cô cùng với Nhâm Gia Tuyên (Selina) và Trần Giai Hóa (Ella) thành lập S.H.E, trong mười năm bán được hơn 10 triệu bản[^4]. Năm 2010, cô phát hành album cá nhân đầu tiên «To Hebe», poster quảng cáo viết «mười năm ra mắt — siêu ngôi sao mới»[^6]. Từ «Thiên thần trong quỷ» cho đến «Không ai biết» năm 2020 cùng với [Trần Kiến Kỳ](/people/陳建騏) giành giải Nữ ca sĩ nhạc Hoa tuyệt vời lần 32[^13] — hồ sơ bán chạy của cô ngày càng ổn định. Nhưng năm 2020 cô từ chối một lời mời chương trình truyền hình Trung Quốc với giá gần 1 tỷ đồng Đài Loan[^25], năm 2022 cô đăng một tấm ảnh mỳ Ý trên Instagram[^16], năm 2025 cô tổ chức buổi lưu diễn tại những cánh đồng muối không có mái che và sân bay[^19], năm 2026 cô nói với ký giả «không phải rào cản, mà là tôi 'không muốn bước tới'»[^21]. Một ca sĩ được thể chế thần tượng nuôi dạy, đã từng từng trả lại những thứ mà thể chế đó trao tặng cho cô.
+> **Tóm tắt 30 giây:** Điền Phúc Trinh (sinh 1983, gốc Khách Gia Tân Trúc) là một hiện tượng hiếm hoi trong lịch sử nhạc pop Trung Hoa — một người rút lui chủ động. Năm 2001, cô cùng với Nhâm Gia Tuyên (Selina) và Trần Giai Hóa (Ella) thành lập S.H.E, trong mười năm bán được hơn 10 triệu bản[^4]. Năm 2010, cô phát hành album cá nhân đầu tiên «To Hebe», poster quảng cáo viết «mười năm ra mắt — siêu ngôi sao mới»[^6]. Từ «Thiên thần trong quỷ» cho đến «Không ai biết» năm 2020 cùng với [Trần Kiến Kỳ](/vi/people/chen-chien-chi-music-producer) giành giải Nữ ca sĩ nhạc Hoa tuyệt vời lần 32[^13] — hồ sơ bán chạy của cô ngày càng ổn định. Nhưng năm 2020 cô từ chối một lời mời chương trình truyền hình Trung Quốc với giá gần 1 tỷ đồng Đài Loan[^25], năm 2022 cô đăng một tấm ảnh mỳ Ý trên Instagram[^16], năm 2025 cô tổ chức buổi lưu diễn tại những cánh đồng muối không có mái che và sân bay[^19], năm 2026 cô nói với ký giả «không phải rào cản, mà là tôi 'không muốn bước tới'»[^21]. Một ca sĩ được thể chế thần tượng nuôi dạy, đã từng từng trả lại những thứ mà thể chế đó trao tặng cho cô.
 
 ---
 
@@ -65,7 +65,7 @@ Chỉ những người đã nhìn thấy cô khi còn nhỏ mới hiểu câu n�
 
 Năm 2000, Điền Phúc Trinh tham dự «Cuộc thi Cô gái Xinh đẹp Vũ Trụ 2000» do công ty Huayu Music (công ty tiền thân Vũ Trụ Music) tổ chức ở Tân Trúc. Trong chung kết, cô hát «Thích bạn» của Trần Khiết Nghi, quên lời ở giữa bài, mất vị trí thứ nhất[^2].
 
-Nhưng cô không thua. Sau cuộc thi, công ty âm nhạc ghép cô với Nhâm Gia Tuyên (Selina) và Trần Giai Hóa (Ella) thành nhóm ba người S.H.E, phát hành album đầu tiên «Ký Túc Xá Cô Gái» vào ngày 11 tháng 9 năm 2001[^3]. Ba cô gái mỗi người có vị trí riêng: Selina tính tình dịu dàng, Ella có can đảm, Hebe tự tin, màu đại diện xanh lục. Trong mười năm tiếp theo, S.H.E phát hành 13 album, tổng doanh số bán được vượt quá 10 triệu bản[^4]. Họ là biểu tượng nhóm nữ của nhạc pop Trung Hoa từ 2001 đến 2010. Có thể tham khảo [Thế hệ Thần tượng Mới Đài Loan](/culture/台灣新偶像世代) để hiểu về dòng sản xuất nhóm thần tượng bị gián đoạn, để nhận ra sự nặng nề của S.H.E trong thời đại đó.
+Nhưng cô không thua. Sau cuộc thi, công ty âm nhạc ghép cô với Nhâm Gia Tuyên (Selina) và Trần Giai Hóa (Ella) thành nhóm ba người S.H.E, phát hành album đầu tiên «Ký Túc Xá Cô Gái» vào ngày 11 tháng 9 năm 2001[^3]. Ba cô gái mỗi người có vị trí riêng: Selina tính tình dịu dàng, Ella có can đảm, Hebe tự tin, màu đại diện xanh lục. Trong mười năm tiếp theo, S.H.E phát hành 13 album, tổng doanh số bán được vượt quá 10 triệu bản[^4]. Họ là biểu tượng nhóm nữ của nhạc pop Trung Hoa từ 2001 đến 2010. Có thể tham khảo [Thế hệ Thần tượng Mới Đài Loan](/vi/culture/taiwan-new-idol-generation) để hiểu về dòng sản xuất nhóm thần tượng bị gián đoạn, để nhận ra sự nặng nề của S.H.E trong thời đại đó.
 
 > **📝 Ghi chú của Người sắp xếp**
 > Một thế hệ nữ ca sĩ như Điền Phúc Trinh rất hiếm có «album cá nhân» loại này. Cô là một giọng hát, một gương mặt, một màu sắc của S.H.E. Trong mười năm phát hành 13 album, bán được hơn 10 triệu, công ty không có lý do gì để cô đi một mình. Rủi ro của một album cá nhân là tách rời bộ ba giọng hát kiếm tiền này.
@@ -88,7 +88,7 @@ Quan hệ S.H.E ba cô gái bước ra khỏi ánh lửa năm đó, trở thành
 
 Năm 2011 là năm ánh sáng của S.H.E vẫn chưa tan. Tháng 9, Điền Phúc Trinh phát hành album cá nhân thứ hai «My Love», ca khúc chính «[Thiên thần trong Quỷ](https://www.youtube.com/watch?v=na_xv5iFt2Y)» được soạn nhạc bởi Trần Tiểu Hà, lời ca bởi Diêu Nhược Long[^7]. Bài hát này trở thành tác phẩm hiện tượng đầu tiên của cô sau khi đi solo, một giọng nữ ca sĩ nằm giữa ngọt ngào và lạnh lùng cũng bắt đầu được định hình từ bài hát này. Cùng năm, ngày 31 tháng 10, Selina ra viện sáu tháng sau bỏng và kết hôn với bạn trai luật sư Trương Thừa Trung, Điền Phúc Trinh và Ella làm phù rể và hát lại[^22]. Ba cô gái trải qua sự việc trong 89 ngày nằm viện, trong hơn mười năm hợp tác sau, ít khi chi tiết hóa, nhưng mỗi lần hợp tác mọi người đều hiểu được.
 
-Trong những năm tiếp theo, cô phát hành một album cứ sau hai đến ba năm, mỗi lần đẩy giọng hát đó vào sâu hơn. Năm 2013 tháng 11 «[Nhỏ bé](https://www.youtube.com/watch?v=BClZoVLwZCE)» được lấy tên từ «Dưới một Ngôi Sao Nhỏ» của nhà thơ Szymborska làm tên album, từ lúc này [Trần Kiến Kỳ](/people/陳建騏) trở thành nhà sản xuất cố định của cô[^8]. Năm 2015, cô hát «[May Mắn Nhỏ](https://www.youtube.com/watch?v=_sQSXwdtxlY)» cho bộ phim «Thời Thơ Ấu Của Tôi», MV này trong tháng 8 năm sau trở thành ca khúc nhạc Hoa đầu tiên đạt trăm triệu lượt xem trên YouTube[^9]. Năm 2016 tháng 7 «[Hàng Ngày](https://www.youtube.com/watch?v=3dBFK2fHjWg)» phát hành, đóng gói bằng tay, mực dầu độc đặc; cùng năm Sân khấu nhỏ Đài Bắc liên tục mở ba buổi Chương trình Lưu Diễn «Nếu Như» ba ngày, doanh thu 82,5 triệu[^10]. Hồ sơ bán chạy của cô ngày càng ổn định.
+Trong những năm tiếp theo, cô phát hành một album cứ sau hai đến ba năm, mỗi lần đẩy giọng hát đó vào sâu hơn. Năm 2013 tháng 11 «[Nhỏ bé](https://www.youtube.com/watch?v=BClZoVLwZCE)» được lấy tên từ «Dưới một Ngôi Sao Nhỏ» của nhà thơ Szymborska làm tên album, từ lúc này [Trần Kiến Kỳ](/vi/people/chen-chien-chi-music-producer) trở thành nhà sản xuất cố định của cô[^8]. Năm 2015, cô hát «[May Mắn Nhỏ](https://www.youtube.com/watch?v=_sQSXwdtxlY)» cho bộ phim «Thời Thơ Ấu Của Tôi», MV này trong tháng 8 năm sau trở thành ca khúc nhạc Hoa đầu tiên đạt trăm triệu lượt xem trên YouTube[^9]. Năm 2016 tháng 7 «[Hàng Ngày](https://www.youtube.com/watch?v=3dBFK2fHjWg)» phát hành, đóng gói bằng tay, mực dầu độc đặc; cùng năm Sân khấu nhỏ Đài Bắc liên tục mở ba buổi Chương trình Lưu Diễn «Nếu Như» ba ngày, doanh thu 82,5 triệu[^10]. Hồ sơ bán chạy của cô ngày càng ổn định.
 
 Tháng 10 năm 2018 sự việc xảy ra trông giống như tin tức kinh doanh, bản chất lại là bước cô lấy lại quyền chủ động. Hợp đồng với Huayu Music hết hạn, cô tự lập công ty riêng «Nhạc Lạc Lạc Tốt Có Hạn Chế Công Ty» để xử lý công việc cá nhân[^27]; cùng năm Trần Kiến Kỳ thành lập «Why Music» (Pourquoi Pas Music) làm giám đốc âm nhạc, chịu trách nhiệm công việc sản xuất[^11]. Từ khi đó, cấu trúc hai chiều của công ty riêng Điền Phúc Trinh cộng với Why Music hình thành, kéo dài đến album tiếp theo.
 
@@ -191,7 +191,7 @@ Cô gái khách gia khi đó ở phòng tắm Tân Trúc, trong hai mươi lăm 
 
 Nhưng cô không bỏ lại việc hát.
 
-Cô giữ lại, là giọng nữ ca sĩ duyên dáng trong hơn mười năm mài với [Trần Kiến Kỳ](/people/陳建騏), là sự chuyển buổi lưu diễn đến cánh đồng muối lò gạch của một thứ ám ảnh về «hiện tại», là khả năng trên sân khấu Giải Âm nhạc Đài Loan nói với mẹ «tôi không lãng phí tiền nước» bằng cách kéo chính mình quay lại kích thước cô gái thị trấn.
+Cô giữ lại, là giọng nữ ca sĩ duyên dáng trong hơn mười năm mài với [Trần Kiến Kỳ](/vi/people/chen-chien-chi-music-producer), là sự chuyển buổi lưu diễn đến cánh đồng muối lò gạch của một thứ ám ảnh về «hiện tại», là khả năng trên sân khấu Giải Âm nhạc Đài Loan nói với mẹ «tôi không lãng phí tiền nước» bằng cách kéo chính mình quay lại kích thước cô gái thị trấn.
 
 Cô từng nói với Nữ nhân Mê:
 
@@ -205,9 +205,9 @@ Album thứ sáu năm nay có phát hành không? Năm 2025 cô đã hát cánh 
 
 ## Đọc Tiếp Thêm
 
-- [Trần Kiến Kỳ](/people/陳建騏) — Nhà sản xuất cố định của Điền Phúc Trinh kể từ năm 2013, Nhà sản xuất Album Xuất sắc Lần 32
-- [Thế Hệ Thần Tượng Mới Đài Loan](/culture/台灣新偶像世代) — Giao thời đứt quãng hai mươi năm của nhóm thần tượng Đài Loan sau S.H.E
-- [Hoàng Thiểu Dũng](/people/黃少雍) — Nhà sản xuất song hành cùng Trần Kiến Kỳ là hai ranh giới giọng hát của nhạc pop Trung Hoa trong hơn mười năm gần đây
+- [Trần Kiến Kỳ](/vi/people/chen-chien-chi-music-producer) — Nhà sản xuất cố định của Điền Phúc Trinh kể từ năm 2013, Nhà sản xuất Album Xuất sắc Lần 32
+- [Thế Hệ Thần Tượng Mới Đài Loan](/vi/culture/taiwan-new-idol-generation) — Giao thời đứt quãng hai mươi năm của nhóm thần tượng Đài Loan sau S.H.E
+- [Hoàng Thiểu Dũng](/vi/people/huang-shao-yong-musician) — Nhà sản xuất song hành cùng Trần Kiến Kỳ là hai ranh giới giọng hát của nhạc pop Trung Hoa trong hơn mười năm gần đây
 
 ---
 

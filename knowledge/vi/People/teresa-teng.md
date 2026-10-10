@@ -160,12 +160,12 @@ Ngày 8 tháng 5 năm 2026 là lần thứ 31 cô qua đời. Phòng tầng 15 b
 
 **Đọc Thêm**:
 
-- [Âm nhạc Phổ thông Hoa ngữ Đài Loan](/music/台灣流行音樂) — Thời đại vàng của âm nhạc phổ thông Hoa ngữ cô sống trong đó và bối cảnh sinh thái ngành công nghiệp
-- [Phong trào dân ca Đài Loan](/music/台灣民歌運動) — Phong trào tự giác về âm nhạc địa phương của cùng thế hệ, cảnh quan âm nhạc Đài Loan những năm 1970
-- [Thời kỳ thiết quân luật](/history/戒嚴時期) — Cấu trúc chính trị cơ bản xã hội Đài Loan trước khi cô sang Nhật Bản lúc 20 tuổi
-- [Khủng bố Trắng ở Đài Loan](/history/台灣白色恐怖) — Bối cảnh chính trị của thời kỳ lớn lên của cô ở Đài Loan
-- [Khủng hoảng Eo biển Đài Loan và Phát triển Quan hệ Hai bờ](/history/台海危機與兩岸關係發展) — Biên giới Chiến tranh Lạnh mà cô đã vượt qua bằng âm nhạc
-- [Lâm Thanh Hạ](/people/林青霞) — Một ngôi sao ảnh-truyền hình cùng thế hệ khác, một tọa độ khác trong mạng lưới sao tiếng Hoa Đông Á những năm 1970-80
+- [Âm nhạc Phổ thông Hoa ngữ Đài Loan](/vi/music/golden-melodies-legacy-taiwan-pop-music) — Thời đại vàng của âm nhạc phổ thông Hoa ngữ cô sống trong đó và bối cảnh sinh thái ngành công nghiệp
+- [Phong trào dân ca Đài Loan](/vi/music/taiwan-campus-folk-song-movement) — Phong trào tự giác về âm nhạc địa phương của cùng thế hệ, cảnh quan âm nhạc Đài Loan những năm 1970
+- [Thời kỳ thiết quân luật](/vi/history/martial-law-era) — Cấu trúc chính trị cơ bản xã hội Đài Loan trước khi cô sang Nhật Bản lúc 20 tuổi
+- [Khủng bố Trắng ở Đài Loan](/vi/history/taiwan-white-terror) — Bối cảnh chính trị của thời kỳ lớn lên của cô ở Đài Loan
+- [Khủng hoảng Eo biển Đài Loan và Phát triển Quan hệ Hai bờ](/vi/history/taiwan-strait-crises-and-cross-strait-relations) — Biên giới Chiến tranh Lạnh mà cô đã vượt qua bằng âm nhạc
+- [Lâm Thanh Hạ](/vi/people/brigitte-lin-legendary-actress) — Một ngôi sao ảnh-truyền hình cùng thế hệ khác, một tọa độ khác trong mạng lưới sao tiếng Hoa Đông Á những năm 1970-80
 
 ## Tài Liệu Tham Khảo
 

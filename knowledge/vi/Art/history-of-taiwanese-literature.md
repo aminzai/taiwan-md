@@ -186,12 +186,12 @@ Như những gì người thơ Dư Quang Trung đã nói: "Những gì đẹp nh
 
 ## Đọc thêm
 
-- [Lục du Đài Loan](/art/臺灣漫遊錄) — Những tác phẩm tiểu thuyết giả dịch của Dương Song Tử, tác phẩm đầu tiên lấy được giải thưởng NBA 2024 Hoa Kỳ và giải thưởng Quốc tế Booker 2026 của văn học Đài Loan, mang theo những lời phát biểu của Dương Song Tử nói về "những câu hỏi văn học Đài Loan trăm năm"
-- [Văn học thời kỳ Nhật trị](/art/日治時期文學) — 1895-1945 Lại Hoà, Dương Quỳnh, Lữ Hộc Nhược, Trương Văn Hoàn những thời đại tiếng Nhật
-- [Văn học Đài Loan hậu chiến](/art/戰後台灣文學) — 1945-1987 Từ mất tiếng nói, chủ nghĩa hiện đại, tranh luận đất đai cho đến sự thức tỉnh của phụ nữ, 42 năm trong thời kỳ thiết quân luật
-- [Văn học Đài Loan sau bãi bỏ thiết quân luật](/art/解嚴後台灣文學) — 1987-2000 Thế hệ trung gian của chính trị, giới tính, và sự nổ tung đa nền văn hóa
-- [Văn học Đài Loan đương đại](/art/當代台灣文學) — Thế kỷ 21 Toàn cầu hóa, Lâm Dịch Hàm, văn học số
-- [Lâm Lương](/people/林良) — Người xây dựng nền tảng của văn học dành cho trẻ em Đài Loan hậu chiến, 1948-2019 dùng "nghệ thuật của ngôn ngữ nông cạn" để định nghĩa "viết cho trẻ em" là một công việc nghiêm túc
+- [Lục du Đài Loan](/vi/art/taiwan-travelogue) — Những tác phẩm tiểu thuyết giả dịch của Dương Song Tử, tác phẩm đầu tiên lấy được giải thưởng NBA 2024 Hoa Kỳ và giải thưởng Quốc tế Booker 2026 của văn học Đài Loan, mang theo những lời phát biểu của Dương Song Tử nói về "những câu hỏi văn học Đài Loan trăm năm"
+- [Văn học thời kỳ Nhật trị](/vi/art/taiwanese-literature-during-japanese-rule) — 1895-1945 Lại Hoà, Dương Quỳnh, Lữ Hộc Nhược, Trương Văn Hoàn những thời đại tiếng Nhật
+- [Văn học Đài Loan hậu chiến](/vi/art/postwar-taiwanese-literature) — 1945-1987 Từ mất tiếng nói, chủ nghĩa hiện đại, tranh luận đất đai cho đến sự thức tỉnh của phụ nữ, 42 năm trong thời kỳ thiết quân luật
+- [Văn học Đài Loan sau bãi bỏ thiết quân luật](/vi/art/post-martial-law-taiwanese-literature) — 1987-2000 Thế hệ trung gian của chính trị, giới tính, và sự nổ tung đa nền văn hóa
+- [Văn học Đài Loan đương đại](/vi/art/contemporary-taiwanese-literature) — Thế kỷ 21 Toàn cầu hóa, Lâm Dịch Hàm, văn học số
+- [Lâm Lương](/vi/people/lin-liang-childrens-literature) — Người xây dựng nền tảng của văn học dành cho trẻ em Đài Loan hậu chiến, 1948-2019 dùng "nghệ thuật của ngôn ngữ nông cạn" để định nghĩa "viết cho trẻ em" là một công việc nghiêm túc
 
 ---
 

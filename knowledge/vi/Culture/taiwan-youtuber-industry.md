@@ -76,8 +76,8 @@ Từ video đầu tiên của Thái A Hạ, đến mốc 10 triệu người đ�
 
 **Đọc thêm**:
 
-- [A Shen](/people/阿神) — Từ lời tự kể về việc đăng ngày một lần suốt 11 năm, hai lần thông báo ngừng đăng tải khác nhau đến khi quay lại vào năm 2026, phản ánh cách các nhà sáng tạo viết lại cam kết phát hành nội dung.
-- [Pan Ke Xue](/society/泛科學) — Từ bài viết khoa học chuyển sang video ngắn, dịch vụ hợp tác MCN và nội dung sáng tạo kiến thức, bổ sung các ví dụ về cách các nhà sáng tạo kiến thức đối mặt với thuật toán và thương hóa.
+- [A Shen](/vi/people/red-shin-minecraft-youtuber) — Từ lời tự kể về việc đăng ngày một lần suốt 11 năm, hai lần thông báo ngừng đăng tải khác nhau đến khi quay lại vào năm 2026, phản ánh cách các nhà sáng tạo viết lại cam kết phát hành nội dung.
+- [Pan Ke Xue](/vi/society/pansci) — Từ bài viết khoa học chuyển sang video ngắn, dịch vụ hợp tác MCN và nội dung sáng tạo kiến thức, bổ sung các ví dụ về cách các nhà sáng tạo kiến thức đối mặt với thuật toán và thương hóa.
 - [Nhỏ góc](/vi/culture/wretch) — Nhà sáng tạo nguyên thủy đầu tiên tại Đài Loan (Buan Buan, Jiu Ba Dao, Miss Photo Album) là nơi sinh ra nền kinh tế sáng tạo nội dung trước khi xuất hiện YouTuber.
 
 ## Tham khảo

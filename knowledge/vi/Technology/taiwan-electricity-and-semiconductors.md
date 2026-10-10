@@ -179,8 +179,8 @@ Ngành bán dẫn khiến Đài Loan được thế giới cần đến. Còn đ
 ## Đọc thêm
 
 - [Chuỗi cung ứng phần cứng AI](/vi/technology/ai-hardware-supply-chain) — Cách Đài Loan biến nhu cầu đám mây thành máy móc có thể xuất khẩu.
-- [Nước dùng trong bán dẫn và tài nguyên nước Đài Loan](/technology/半導體用水與台灣水資源) — Cách sản xuất wafer tác động đến hồ chứa, hạn hán và quản lý nước tái sử dụng.
-- [Đặt nhà máy chuỗi cung ứng AI tại nước ngoài](/technology/AI供應鏈海外設廠) — Việc đặt nhà máy ở nước ngoài gắn kết chuỗi cung ứng, điện năng và hạ tầng địa phương như thế nào.
+- [Nước dùng trong bán dẫn và tài nguyên nước Đài Loan](/vi/technology/semiconductor-water-use-and-taiwan-water-resources) — Cách sản xuất wafer tác động đến hồ chứa, hạn hán và quản lý nước tái sử dụng.
+- [Đặt nhà máy chuỗi cung ứng AI tại nước ngoài](/vi/technology/ai-supply-chain-overseas-manufacturing) — Việc đặt nhà máy ở nước ngoài gắn kết chuỗi cung ứng, điện năng và hạ tầng địa phương như thế nào.
 - [Doanh nghiệp Đài Loan: TSMC](/vi/economy/tsmc) — Mô hình đúc chip thuần túy đã trở thành nút thắt của chip tiên tiến toàn cầu như thế nào.
 
 ## Nguồn ảnh

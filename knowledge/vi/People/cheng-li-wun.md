@@ -142,17 +142,17 @@ Vì vậy câu hỏi thực sự không phải "Cheng Li-wun thay đổi sao?", 
 
 **Đọc mở rộng**:
 
-- [Cuộc gặp gỡ Cheng-Tập năm 2026: Cuộc gặp gỡ lần thứ mười năm của lãnh đạo Quốc cộng](/society/2026鄭習會與國共十年再會) — Điểm cuối cùng của quỹ đạo nhân vật Cheng Li-wun vào lúc hiện tại, đầy đủ hiện trường và phản ứng sau của cuộc nói chuyện đó
-- [Khủng hoảng Eo biển Đài Loan và phát triển quan hệ hai bờ eo biển](/history/台海危機與兩岸關係發展) — Bối cảnh lịch sử mà Cheng Li-wun mười năm trước, mười năm sau đặt trong đó, những lực vô hình đẩy nhân vật này về phía Bắc Kinh
-- [Môi trường chính trị Đài Loan và hệ thống bầu cử](/society/台灣政治環境與選舉制度) — Tại sao "tôi là người Trung Quốc" lại có thể trở thành khẩu hiệu tranh cử chủ tịch Quốc Dân Đảng? Cấu trúc đảng viên trong hệ thống bầu cử cung cấp câu trả lời
-- [Chuyển đổi dân chủ Đài Loan](/history/台灣民主轉型) — Năm Cheng Li-wun bỏ ăn là năm đầu tiên sau khi bãi bỏ thiết quân luật; để hiểu điểm bắt đầu của cô, trước tiên phải hiểu văn hóa thanh niên năm năm chuyển đổi dân chủ
-- [Kha Văn Triết](/people/柯文哲) — Một nhân vật chính trị khác từ xanh sang xanh (hay từ trắng sang xanh); đường lối của hai người có những điểm giống và khác nhau
-- [Tiêu Mỹ Cầm](/people/蕭美琴) — Một mẫu nhân vật chính trị nữ khác trên sân khấu năm 2026, con đường hoàn toàn khác nhau và quan điểm về Đài Loan tương ứng
-- [Hàn Quốc Ưu](/people/韓國瑜) — Cấu trúc nhị nguyên "chủ tịch đảng + chủ tịch Viện Lập pháp" của Quốc Dân Đảng 2025-2026, Cheng Li-wun trong đảng, Hàn Quốc Ưu trong Viện
-- [Trác Vinh Đài](/people/卓榮泰) — Nhà thúc đẩy chủ yếu 1.25 nghìn tỷ mua sắm quân sự của Viện Hành pháp, vị trí đối lập với "phiên bản 3800 tỷ +N của đảng" của Cheng Li-wun
-- [Lư Tú Yên](/people/盧秀燕) — Đối thủ của Cheng Li-wun trong cuộc bầu chọn chủ tịch Quốc Dân Đảng 2025, sau vì "không bầu" mở ra cánh cửa cho Cheng Li-wun vào
-- [Từ Kiều Tâm](/people/徐巧芯) — Trong tranh cãi mua sắm quân sự 2026, người đẩy "phiên bản 8000 tỷ" va chạm với "phiên bản 3800 tỷ +N" của Cheng Li-wun
-- [Quý Lâm Liên](/people/季麟連) — Phó chủ tịch được Cheng Li-wun bổ nhiệm năm 2026, người liên quan đến sự kiện điểm danh Hàn Quốc Ưu tại cuộc họp Trung ương thường vụ 4/29 gây bên lập đảng xanh
+- [Cuộc gặp gỡ Cheng-Tập năm 2026: Cuộc gặp gỡ lần thứ mười năm của lãnh đạo Quốc cộng](/vi/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Điểm cuối cùng của quỹ đạo nhân vật Cheng Li-wun vào lúc hiện tại, đầy đủ hiện trường và phản ứng sau của cuộc nói chuyện đó
+- [Khủng hoảng Eo biển Đài Loan và phát triển quan hệ hai bờ eo biển](/vi/history/taiwan-strait-crises-and-cross-strait-relations) — Bối cảnh lịch sử mà Cheng Li-wun mười năm trước, mười năm sau đặt trong đó, những lực vô hình đẩy nhân vật này về phía Bắc Kinh
+- [Môi trường chính trị Đài Loan và hệ thống bầu cử](/vi/society/taiwan-political-landscape-and-electoral-system) — Tại sao "tôi là người Trung Quốc" lại có thể trở thành khẩu hiệu tranh cử chủ tịch Quốc Dân Đảng? Cấu trúc đảng viên trong hệ thống bầu cử cung cấp câu trả lời
+- [Chuyển đổi dân chủ Đài Loan](/vi/history/taiwan-democratization) — Năm Cheng Li-wun bỏ ăn là năm đầu tiên sau khi bãi bỏ thiết quân luật; để hiểu điểm bắt đầu của cô, trước tiên phải hiểu văn hóa thanh niên năm năm chuyển đổi dân chủ
+- [Kha Văn Triết](/vi/people/ko-wen-je) — Một nhân vật chính trị khác từ xanh sang xanh (hay từ trắng sang xanh); đường lối của hai người có những điểm giống và khác nhau
+- [Tiêu Mỹ Cầm](/vi/people/hsiao-bi-khim) — Một mẫu nhân vật chính trị nữ khác trên sân khấu năm 2026, con đường hoàn toàn khác nhau và quan điểm về Đài Loan tương ứng
+- [Hàn Quốc Ưu](/vi/people/han-kuo-yu) — Cấu trúc nhị nguyên "chủ tịch đảng + chủ tịch Viện Lập pháp" của Quốc Dân Đảng 2025-2026, Cheng Li-wun trong đảng, Hàn Quốc Ưu trong Viện
+- [Trác Vinh Đài](/vi/people/cho-jung-tai) — Nhà thúc đẩy chủ yếu 1.25 nghìn tỷ mua sắm quân sự của Viện Hành pháp, vị trí đối lập với "phiên bản 3800 tỷ +N của đảng" của Cheng Li-wun
+- [Lư Tú Yên](/vi/people/lu-hsiu-yan) — Đối thủ của Cheng Li-wun trong cuộc bầu chọn chủ tịch Quốc Dân Đảng 2025, sau vì "không bầu" mở ra cánh cửa cho Cheng Li-wun vào
+- [Từ Kiều Tâm](/vi/people/hsu-chiao-hsin) — Trong tranh cãi mua sắm quân sự 2026, người đẩy "phiên bản 8000 tỷ" va chạm với "phiên bản 3800 tỷ +N" của Cheng Li-wun
+- [Quý Lâm Liên](/vi/people/ji-lin-lian) — Phó chủ tịch được Cheng Li-wun bổ nhiệm năm 2026, người liên quan đến sự kiện điểm danh Hàn Quốc Ưu tại cuộc họp Trung ương thường vụ 4/29 gây bên lập đảng xanh
 
 ## Tham khảo
 

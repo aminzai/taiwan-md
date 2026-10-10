@@ -184,11 +184,11 @@ Singapore có một nhà hàng mới trải dài 139 năm lịch sử, Đài B�
 
 **Đọc Thêm**:
 
-- [Niệp Vĩnh Chân](/people/聶永真) — Một cái tên khác đưa Đài Loan lên sân khấu quốc tế, dùng thiết kế bình diện mà không phải ẩm thực để thế giới thấy khả năng hiện có của Đài Loan
-- [Lý An](/people/李安) — Cũng trong hệ thống phương Tây kể chuyện phương Đông, sờ theo "tôi là ai" và "tôi từ đâu tới" tác giả sáng tác
-- [Hoàng Nhân Huân](/people/黃仁勳) — Cũng là nền tảng Đài Loan, đứng ở đỉnh cao ngành công nghiệp quốc tế, đi một con đường hoàn toàn khác: ở trong hạt nhân hệ thống, biến chính mình trở nên không thể thay thế
-- [Ngô Bảo Xuân](/people/吳寶春) — Cũng dùng nguyên liệu Đài Loan và vật liệu chinh phục nhà phê bình Pháp lựa chọn, bánh mỳ thượng hạng ẩm thực hai con đường
-- [Hoàng Sơn Lương](/people/黃山料) — Cũng đứng ở sân khấu thế giới người trẻ Đài Loan, từ bàn trình diễn thời trang quay người đi bàn viết, viết được để lập lại công nghệ ban đầu
+- [Niệp Vĩnh Chân](/vi/people/nieh-yung-jen) — Một cái tên khác đưa Đài Loan lên sân khấu quốc tế, dùng thiết kế bình diện mà không phải ẩm thực để thế giới thấy khả năng hiện có của Đài Loan
+- [Lý An](/vi/people/ang-lee) — Cũng trong hệ thống phương Tây kể chuyện phương Đông, sờ theo "tôi là ai" và "tôi từ đâu tới" tác giả sáng tác
+- [Hoàng Nhân Huân](/vi/people/jensen-huang) — Cũng là nền tảng Đài Loan, đứng ở đỉnh cao ngành công nghiệp quốc tế, đi một con đường hoàn toàn khác: ở trong hạt nhân hệ thống, biến chính mình trở nên không thể thay thế
+- [Ngô Bảo Xuân](/vi/people/wu-bao-chun) — Cũng dùng nguyên liệu Đài Loan và vật liệu chinh phục nhà phê bình Pháp lựa chọn, bánh mỳ thượng hạng ẩm thực hai con đường
+- [Hoàng Sơn Lương](/vi/people/huang-shan-liao) — Cũng đứng ở sân khấu thế giới người trẻ Đài Loan, từ bàn trình diễn thời trang quay người đi bàn viết, viết được để lập lại công nghệ ban đầu
 
 ## Nguồn Hình Ảnh
 

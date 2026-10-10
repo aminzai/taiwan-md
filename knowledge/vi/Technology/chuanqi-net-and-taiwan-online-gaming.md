@@ -129,7 +129,7 @@ Người đã từng thua bốn trăm triệu nói câu này, mỗi từ đều 
 
 ## Đọc thêm
 
-- [Ngành game Đài Loan và giải trí kỹ thuật số](/technology/台灣遊戲產業與數位娛樂) — Toàn cảnh trò chơi Đài Loan: Từ phân phối đến sáng tạo
+- [Ngành game Đài Loan và giải trí kỹ thuật số](/vi/technology/taiwan-gaming-industry) — Toàn cảnh trò chơi Đài Loan: Từ phân phối đến sáng tạo
 - [Đại Vũ Song Kiếm](/vi/technology/softstar-twin-classics) — Sự khai mở cảm xúc của RPG đơn lẻ Đài Loan, thời đại trước của Truyền kỳ
 - [Không vào hầm thì không ngủ được](/vi/technology/into-the-cellar-taiwan-game-podcast) — Ba mươi năm cộng đồng game Đài Loan
 

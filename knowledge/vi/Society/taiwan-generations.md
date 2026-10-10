@@ -181,11 +181,11 @@ Người ít đi, bánh không to ra, tòa nhà lại càng cao. Trên địa h�
 
 **Đọc thêm**:
 
-- [Thế hệ gạch chéo Đài Loan](/society/台灣斜槓世代) — Lớp bảy, tám trong cấu trúc lương thấp, tách một lương thành ba công việc toán tồn tại
-- [Lạc hướng sự nghiệp thanh niên Đài Loan](/society/台灣青年的生涯迷航) — Học hành mười sáu năm, ngày tốt nghiệp thường hỏi nhất "tôi không biết tôi phải làm gì"
-- [Khủng hoảng giảm thiếu trẻ em Đài Loan](/society/台灣少子化危機) — Số lượng sinh từ 42 vạn sụp đổ xuống 16 vạn, bánh mỗi năm càng nhỏ
-- [Quang phổ thống nhất độc lập Đài Loan](/society/台灣統獨光譜) — Toàn cảnh phân kỳ nhận dạng, từ "tôi là ai" đến "phải đi đâu"
-- [Vô Danh](/culture/無名小站) — Máy chủ thanh xuân của lớp bảy, năm 2013 đóng cửa, năm 2025 lại xuất hiện một lần trên Threads
+- [Thế hệ gạch chéo Đài Loan](/vi/society/taiwan-slash-generation-multi-job-economy) — Lớp bảy, tám trong cấu trúc lương thấp, tách một lương thành ba công việc toán tồn tại
+- [Lạc hướng sự nghiệp thanh niên Đài Loan](/vi/society/taiwan-youth-career-confusion) — Học hành mười sáu năm, ngày tốt nghiệp thường hỏi nhất "tôi không biết tôi phải làm gì"
+- [Khủng hoảng giảm thiếu trẻ em Đài Loan](/vi/society/taiwan-low-birth-rate-crisis) — Số lượng sinh từ 42 vạn sụp đổ xuống 16 vạn, bánh mỗi năm càng nhỏ
+- [Quang phổ thống nhất độc lập Đài Loan](/vi/society/taiwan-unification-independence-spectrum) — Toàn cảnh phân kỳ nhận dạng, từ "tôi là ai" đến "phải đi đâu"
+- [Vô Danh](/vi/culture/wretch) — Máy chủ thanh xuân của lớp bảy, năm 2013 đóng cửa, năm 2025 lại xuất hiện một lần trên Threads
 
 ## Nguồn ảnh
 

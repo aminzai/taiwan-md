@@ -259,11 +259,11 @@ Ba mươi vài năm rồi, Giải Âm nhạc Vàng thực ra không phải đang
 ## Đọc thêm
 
 - [Nhạc pop Đài Loan](/vi/music/golden-melodies-legacy-taiwan-pop-music) — Từ công nghiệp đĩa đến thời đại truyền phát trực tuyến, toàn bộ lịch sử lên xuống của ngành, Giải Âm nhạc Vàng là con quy tắc chính thức trên đường này
-- [Sự tiến hóa của nhạc ca Tiếng Đài](/music/台灣台語歌曲演進) — Từ những bài ca bi lụy đến sự chuyển đổi rock của Lâm Cường với "Đi Về Phía Trước", cách nhạc Tiếng Đài bước vào lòng đông chính thức
+- [Sự tiến hóa của nhạc ca Tiếng Đài](/vi/music/taiwanese-hokkien-song-evolution) — Từ những bài ca bi lụy đến sự chuyển đổi rock của Lâm Cường với "Đi Về Phía Trước", cách nhạc Tiếng Đài bước vào lòng đông chính thức
 - [Truyền thống nhạc dân tộc bản địa Đài Loan](/vi/music/indigenous-music-traditions) — Từ những bài ca bản đồng xã đến Chen Jiannian và Apo, nguồn gốc và hiện đại của nhạc bản địa
 - [Nghệ sĩ sáng tạo bản địa đương đại](/vi/music/contemporary-indigenous-singer-songwriters) — Tiếng nói và hoàn cảnh của Ji Hsiao-chun, Bana và Apo trong dòng dõi này
 - [Không gian nhạc độc lập Đài Loan](/vi/music/indie-music-scene) — Cách thế hệ Cao Đông và đường phố vượt qua công nghiệp đĩa để lên tới đỉnh cao của Giải Âm nhạc Vàng
-- [Giải Kim La Mã](/culture/金鐘獎) — Tượng cổ nhất trong ba giải: chiếc đồng hồ được đúc cho phát thanh trong năm 1965, danh sách giải thưởng 61 năm ghi lại tay nào nắm lấy truyền hình của Đài Loan
+- [Giải Kim La Mã](/vi/culture/golden-bell-awards) — Tượng cổ nhất trong ba giải: chiếc đồng hồ được đúc cho phát thanh trong năm 1965, danh sách giải thưởng 61 năm ghi lại tay nào nắm lấy truyền hình của Đài Loan
 
 ## Nguồn ảnh
 

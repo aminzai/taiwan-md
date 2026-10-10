@@ -117,4 +117,4 @@ Trong những năm gần đây, sáng tác của Lại Thanh Xuyên tập trung 
 ## Đọc thêm
 
 - [Đoàn kịch Biểu diễn](http://www.pw-theatre.com/) — Trang web chính thức của đoàn kịch do Lại Thanh Xuyên sáng lập, bao gồm tác phẩm và thông tin bán vé hàng năm.
-- [《Ám Luyến Đào Hoa Nguyên》](/people/賴聲川) — Tác phẩm kinh điển của sân khấu ngữ Hoa.
+- [《Ám Luyến Đào Hoa Nguyên》](/vi/people/stan-lai-theater-innovation-master) — Tác phẩm kinh điển của sân khấu ngữ Hoa.

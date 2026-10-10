@@ -59,8 +59,8 @@ Sau khi tự do độc lập, Boster Vua chuyển hướng nội dung về phía
 
 **Đọc thêm**
 
-- [Tsai Anh Văn](/people/蔡英文) — Bên kia của vụ kiện "Không được gọi Tổng thống" năm 2019, đối tượng Boster Vua từ chối kiểm duyệt chính là Tổng thống hiện nay
-- [Bát Nhị](/people/八炯) — Cùng thế hệ chuyên giải mã chiến tranh thông tin của Đảng Cộng sản Trung Quốc bằng nội dung số, đồng hành with Boster Vua "báo cáo hồng loạn" tạo điểm xác thự chéo
+- [Tsai Anh Văn](/vi/people/tsai-ing-wen) — Bên kia của vụ kiện "Không được gọi Tổng thống" năm 2019, đối tượng Boster Vua từ chối kiểm duyệt chính là Tổng thống hiện nay
+- [Bát Nhị](/vi/people/pa-chiung-political-youtuber) — Cùng thế hệ chuyên giải mã chiến tranh thông tin của Đảng Cộng sản Trung Quốc bằng nội dung số, đồng hành with Boster Vua "báo cáo hồng loạn" tạo điểm xác thự chéo
 - [Trần Kiếu Chiện](/people/陈子见) — Một người sáng tạo khác bắt đầu sự nghiệp bằng cách mô phỏng giọng điệu của Trung Quốc để làm chính trị hài hước, phản ánh hai con đường kháng chiến số khác nhau
 
 ---

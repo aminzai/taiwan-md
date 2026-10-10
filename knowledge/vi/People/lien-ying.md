@@ -29,7 +29,7 @@ lastHumanReview: false
 readingTime: 10
 ---
 
-> **Tóm tắt 30 giây:** Liên Anh (Erin), sinh năm 1999 tại Đài Trung, bắt đầu học ba lê từ lớp hai tiểu học, múa dân gian, múa Trung Quốc, rồi chuyển sang street dance ở cấp trung học. Năm 2020 tham gia chương trình《菱格世代 DD52 (Thế hệ Hình thoi DD52)》, trên sân khấu đối đầu ở tập hai, cô nói với huấn luyện viên Phan Vệ Bá: "Tôi muốn cho mọi người biết mức vũ đạo của một nhóm nhạc nữ" — câu nói này từ đó trở thành nhãn hiệu của cô. Các vị quân nhân Bão Đen Nhị Lô (quân anh ba Quân DD52) debut với tên [HUR+](/people/HUR-plus), cô là vũ công chính. Năm 2025 phát hành EP đầu tiên 《EZ》, theo hướng hip-hop/R&B, với âm thanh đường phố mang âu yếm Đài ngữ, cố tình tránh lối hát tình cảm an toàn. Ngày sinh năm 2026, các fan tập hợp tại Đại Tào Đình để tổ chức sân khấu, cô lần đầu tiên ca hát bài mới 〈Chậm một giây〉. Cô vừa cùng nhóm phát hành album, vừa phát hành EP cá nhân, vừa phát triển nhóm vừa phát triển solo. Ở Đài Loan, cô là nữ thành viên nhóm đầu tiên làm điều này.
+> **Tóm tắt 30 giây:** Liên Anh (Erin), sinh năm 1999 tại Đài Trung, bắt đầu học ba lê từ lớp hai tiểu học, múa dân gian, múa Trung Quốc, rồi chuyển sang street dance ở cấp trung học. Năm 2020 tham gia chương trình《菱格世代 DD52 (Thế hệ Hình thoi DD52)》, trên sân khấu đối đầu ở tập hai, cô nói với huấn luyện viên Phan Vệ Bá: "Tôi muốn cho mọi người biết mức vũ đạo của một nhóm nhạc nữ" — câu nói này từ đó trở thành nhãn hiệu của cô. Các vị quân nhân Bão Đen Nhị Lô (quân anh ba Quân DD52) debut với tên [HUR+](/vi/people/hur-plus-band), cô là vũ công chính. Năm 2025 phát hành EP đầu tiên 《EZ》, theo hướng hip-hop/R&B, với âm thanh đường phố mang âu yếm Đài ngữ, cố tình tránh lối hát tình cảm an toàn. Ngày sinh năm 2026, các fan tập hợp tại Đại Tào Đình để tổ chức sân khấu, cô lần đầu tiên ca hát bài mới 〈Chậm một giây〉. Cô vừa cùng nhóm phát hành album, vừa phát hành EP cá nhân, vừa phát triển nhóm vừa phát triển solo. Ở Đài Loan, cô là nữ thành viên nhóm đầu tiên làm điều này.
 
 Ngày 19 tháng 6 năm 2020, tập hai của 《菱格世代 DD52 (Thế hệ Hình thoi DD52)》.
 
@@ -66,7 +66,7 @@ Trong bài giới thiệu thí sinh chính thức của DD52, cô mô tả bản
 
 Ngày 4 tháng 9 năm 2020, chung kết DD52. Quân Bão Đen Nhị Lô của Liên Anh với 55.4 điểm không thắng được Quân Lửa Nồng Nhiệt của 57.9 điểm, giành được vị trí á quân[^5].
 
-Sau khi chương trình kết thúc, nhà sản xuất Phillips ký hợp đồng với sáu thành viên của Bão Đen Nhị Lô, thành lập [HUR+](/people/HUR-plus). Vị trí của Liên Anh trong nhóm là **vũ công chính cùng hát phụ**, điều mà cô xây dựng bằng câu nói đó trên DD52 được chuyển hóa thành vị trí trong nhóm sau khi ra mắt[^2].
+Sau khi chương trình kết thúc, nhà sản xuất Phillips ký hợp đồng với sáu thành viên của Bão Đen Nhị Lô, thành lập [HUR+](/vi/people/hur-plus-band). Vị trí của Liên Anh trong nhóm là **vũ công chính cùng hát phụ**, điều mà cô xây dựng bằng câu nói đó trên DD52 được chuyển hóa thành vị trí trong nhóm sau khi ra mắt[^2].
 
 Ngày 6 tháng 11 năm 2020, HUR ra mắt. DD52 giành được giải Chương trình Giải trí tại Golden Bell Awards lần thứ 56[^5].
 
@@ -112,7 +112,7 @@ Trong cuộc phỏng vấn cùng lúc đó, cô nói một câu khác:
 
 > **✦** "Jolin là thần tượng của tôi, tôi còn phải học hỏi thần thật kỹ!" [^8]
 
-[Thái Như Hương](/people/蔡依林), người đàn bà từng là "xếp hạng vũ đạo nhất của lớp" biến thành nữ hoàng ca hát nhảy tiếng Hoa, là thần tượng mà Liên Anh công khai thừa nhận. Điều này rất thú vị: Thái Như Hương dùng hai mươi lăm năm từ "không phải loại vũ công" biến thành nữ hoàng bay cách mặt đất mười mét làm acrobatics, Liên Anh đang đi một con đường tương tự theo cách riêng của mình, khởi hành từ vũ công, mở rộng khung thần tượng.
+[Thái Như Hương](/vi/people/jolin-tsai), người đàn bà từng là "xếp hạng vũ đạo nhất của lớp" biến thành nữ hoàng ca hát nhảy tiếng Hoa, là thần tượng mà Liên Anh công khai thừa nhận. Điều này rất thú vị: Thái Như Hương dùng hai mươi lăm năm từ "không phải loại vũ công" biến thành nữ hoàng bay cách mặt đất mười mét làm acrobatics, Liên Anh đang đi một con đường tương tự theo cách riêng của mình, khởi hành từ vũ công, mở rộng khung thần tượng.
 
 > **📝 Ghi chú của người tuyển chọn**
 > Podcast Tiếng Hip-hop Đài Loan S3EP.89 có một tập phỏng vấn Liên Anh, tiêu đề là "Từ thể hiện mức vũ đạo nhóm nhạc nữ, đến định nghĩa lại hoàn toàn toàn năng ca hát nhảy"[^9]. Tiêu đề này mô tả chính xác đường cong từ DD52 đến EP solo của cô: năm 2020 cô định nghĩa "mức vũ đạo nhóm nhạc nữ", năm 2025 cô giải phóng chính mình khỏi định nghĩa đó.
@@ -173,11 +173,11 @@ Bắt đầu nhảy từ lớp hai, chuyển đổi ở cấp trung học, từn
 
 ## Đọc thêm
 
-- [HUR+](/people/HUR-plus) — Nhóm của Liên Anh. Á quân DD52, nhóm duy nhất vẫn phát hành album sau sáu năm
-- [Thế hệ thần tượng Đài Loan mới](/culture/台灣新偶像世代) — Từ DD52 đến Cosmic Cheerleaders, những thử nghiệm công nghiệp của chương trình sơ tuyển thần tượng Đài Loan
-- [Thái Như Hương](/people/蔡依林) — "Thần tượng" trong miệng Liên Anh. Một câu chuyện khác của người bắt đầu từ vũ công, mở rộng khung thần tượng
-- [Dương Thừa Lâm](/people/楊丞琳) — Huấn luyện viên trưởng của DD52. Từ 4 in Love đến 《Tương tư 2025》 hai mươi lăm năm
-- [Chu Tử Dụ](/people/周子瑜) — Một cô gái Đài Loan khác tìm được vị trí của mình trong hệ thống thần tượng
+- [HUR+](/vi/people/hur-plus-band) — Nhóm của Liên Anh. Á quân DD52, nhóm duy nhất vẫn phát hành album sau sáu năm
+- [Thế hệ thần tượng Đài Loan mới](/vi/culture/taiwan-new-idol-generation) — Từ DD52 đến Cosmic Cheerleaders, những thử nghiệm công nghiệp của chương trình sơ tuyển thần tượng Đài Loan
+- [Thái Như Hương](/vi/people/jolin-tsai) — "Thần tượng" trong miệng Liên Anh. Một câu chuyện khác của người bắt đầu từ vũ công, mở rộng khung thần tượng
+- [Dương Thừa Lâm](/vi/people/rainie-yang) — Huấn luyện viên trưởng của DD52. Từ 4 in Love đến 《Tương tư 2025》 hai mươi lăm năm
+- [Chu Tử Dụ](/vi/people/tzuyu) — Một cô gái Đài Loan khác tìm được vị trí của mình trong hệ thống thần tượng
 
 ## Tài liệu tham khảo
 

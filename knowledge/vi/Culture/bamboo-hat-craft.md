@@ -118,9 +118,9 @@ Thế hệ thợ râu lão nội, thị trường suy giảm, chuỗi cung ứng
 
 ## Đọc thêm
 
-- [Đất diện Hoa vải](/culture/台灣花布) — cũng là một nghề thủ công được gắn nhãn hiệu “Hồng Kông” vào những năm 1990, giao hướng lịch sử đa nhóm dân cư chung sinh
-- [Văn hóa trà Đài Loan](/culture/台灣茶文化) — giảm người thu hoạch trà làm giảm trực tiếp phía dưới chuỗi cung ứng râu tre
-- [Bản đồ văn hóa 16 tộc nguyên dân tộc Đài Loan](/culture/台灣原住民族16族文化地圖) — vùng Lũ rau mì có lá râu nguồn gốc từ phụ nữ Nguyên Dương, không phải người Hoa
+- [Đất diện Hoa vải](/vi/culture/taiwan-floral-fabric) — cũng là một nghề thủ công được gắn nhãn hiệu “Hồng Kông” vào những năm 1990, giao hướng lịch sử đa nhóm dân cư chung sinh
+- [Văn hóa trà Đài Loan](/vi/culture/taiwanese-tea-culture-and-living-aesthetics) — giảm người thu hoạch trà làm giảm trực tiếp phía dưới chuỗi cung ứng râu tre
+- [Bản đồ văn hóa 16 tộc nguyên dân tộc Đài Loan](/vi/culture/indigenous-peoples-16-tribes-cultural-map) — vùng Lũ rau mì có lá râu nguồn gốc từ phụ nữ Nguyên Dương, không phải người Hoa
 
 ## Tài liệu tham khảo
 

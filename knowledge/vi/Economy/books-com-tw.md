@@ -104,8 +104,8 @@ Lịch sử của Books.com.tw hầu như là một thu nhỏ của lịch sử 
 
 ## Đọc thêm
 
-- **[Các doanh nghiệp Đài Loan: Tập đoàn Unify](/economy/台灣企業：統一企業)** — Bố cục chiến lược của tập đoàn Unify để sáp nhập toàn bộ bản đồ bán lẻ Đài Loan
-- **[Trung tâm Phúc lợi Quán Liên](/economy/全聯福利中心)** — Từ xã hội phúc lợi đến nhà vua bán lẻ trong cạnh tranh kênh
+- **[Các doanh nghiệp Đài Loan: Tập đoàn Unify](/vi/economy/taiwan-enterprise-uni-president)** — Bố cục chiến lược của tập đoàn Unify để sáp nhập toàn bộ bản đồ bán lẻ Đài Loan
+- **[Trung tâm Phúc lợi Quán Liên](/vi/economy/pxmart-supermarket)** — Từ xã hội phúc lợi đến nhà vua bán lẻ trong cạnh tranh kênh
 - **[Thiết kế mua sắm](/culture/Shopping Design)** — Những thực tiễn truyền thông biến thiết kế thành tiêu dùng hàng ngày và phong cách cuộc sống
 
 ## Tài liệu tham khảo

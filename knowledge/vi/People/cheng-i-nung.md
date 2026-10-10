@@ -207,13 +207,13 @@ Album cô sẽ phát hành sau này sẽ là ngôn ngữ nào, chủ đề gì, 
 
 **Đọc thêm**:
 
-- [Weishan Xuan](/people/魏如萱) — một con đường khác của ca sĩ nữ cùng thế hệ "xác định bản sắc riêng qua tiếng hát" (âm thanh bông bồng của Weishan Xuan × ngôn ngữ chân thành của Zheng Yilong, hai cơ chế xác định bản sắc cá nhân khác nhau)
-- [A-Bao](/people/阿爆) — người phá vỡ giới hạn với ngôn ngữ không phải tiếng chính thức cho giải thưởng chính tại Lễ hội Nhạc Kinh Mạc (A-Bao dùng ngôn ngữ Hlüc 2020 năm nhất ca, Zheng Yilong dùng ngôn ngữ ngày Yilan 2023 nhất ca, hai điểm thời gian trong mối quan hệ giữa ngôn ngữ và Lễ hội Nhạc Kinh Mạc)
-- [Chen Jianqi](/people/陳建騏) — người sản xuất nhạc pop Hoa Kỵ chống chọ nghiệp ngũ "giọng không chuẩn"; Zheng Yilong dùng ngôn ngữ không chuẩn, A-Bao dùng ngôn ngữ người dân tộc không chuẩn, Chen Jianqi dùng giọng bông bồng — ba cách mở rộng giới hạn "giọng" khác nhau
-- [Giải thưởng Nhạc Kinh Mạc](/music/金曲獎) — ý nghĩa cấu trúc của các hạng mục ngôn ngữ ngày Yilan 2023
-- [Nhạc pop Đài Loan](/music/台灣流行音樂) — phổ biến hoá quá trình "kháng chiến bản địa" đến "công cụ hiện đại" của sáng tác ngôn ngữ ngày Yilan
-- [Nhạc độc lập Đài Loan](/music/台灣獨立音樂) — quỹ trình của Zheng Yilong từ giai đoạn Lady Zero đến album "Tình Ngược"
-- [Lin Yujia](/people/林宥嘉) — một trường hợp đối lập của người cùng thế hệ rời vị trí ngôi sao pop Hoa Kỵ, tự làm người sản xuất (Lin Yujia dùng ngôn ngữ lạnh lẽo, Zheng Yilong dùng ngôn ngữ ngày Yilan, hai lối đi thoát khỏi sự định đoạt)
+- [Weishan Xuan](/vi/people/waa-wei-singer) — một con đường khác của ca sĩ nữ cùng thế hệ "xác định bản sắc riêng qua tiếng hát" (âm thanh bông bồng của Weishan Xuan × ngôn ngữ chân thành của Zheng Yilong, hai cơ chế xác định bản sắc cá nhân khác nhau)
+- [A-Bao](/vi/people/aljenljeng-tjaluvie-abao) — người phá vỡ giới hạn với ngôn ngữ không phải tiếng chính thức cho giải thưởng chính tại Lễ hội Nhạc Kinh Mạc (A-Bao dùng ngôn ngữ Hlüc 2020 năm nhất ca, Zheng Yilong dùng ngôn ngữ ngày Yilan 2023 nhất ca, hai điểm thời gian trong mối quan hệ giữa ngôn ngữ và Lễ hội Nhạc Kinh Mạc)
+- [Chen Jianqi](/vi/people/chen-chien-chi-music-producer) — người sản xuất nhạc pop Hoa Kỵ chống chọ nghiệp ngũ "giọng không chuẩn"; Zheng Yilong dùng ngôn ngữ không chuẩn, A-Bao dùng ngôn ngữ người dân tộc không chuẩn, Chen Jianqi dùng giọng bông bồng — ba cách mở rộng giới hạn "giọng" khác nhau
+- [Giải thưởng Nhạc Kinh Mạc](/vi/music/pop-music-and-golden-melody-awards) — ý nghĩa cấu trúc của các hạng mục ngôn ngữ ngày Yilan 2023
+- [Nhạc pop Đài Loan](/vi/music/golden-melodies-legacy-taiwan-pop-music) — phổ biến hoá quá trình "kháng chiến bản địa" đến "công cụ hiện đại" của sáng tác ngôn ngữ ngày Yilan
+- [Nhạc độc lập Đài Loan](/vi/music/indie-music-scene) — quỹ trình của Zheng Yilong từ giai đoạn Lady Zero đến album "Tình Ngược"
+- [Lin Yujia](/vi/people/yoga-lin) — một trường hợp đối lập của người cùng thế hệ rời vị trí ngôi sao pop Hoa Kỵ, tự làm người sản xuất (Lin Yujia dùng ngôn ngữ lạnh lẽo, Zheng Yilong dùng ngôn ngữ ngày Yilan, hai lối đi thoát khỏi sự định đoạt)
 
 ## Tài liệu tham khảo
 

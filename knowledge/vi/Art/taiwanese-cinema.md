@@ -283,13 +283,13 @@ Bài viết này dùng 4 bức hình ảnh, tất cả bộ nhớ tạm ở `pub
 
 ## Đọc thêm
 
-- [Hầu Hiếu Hiền](/people/侯孝賢)：Giành Huy chương vàng Venice, đưa Sự kiện 228 lên màn hình lớn của Thầy phố Camera Dài
-- [Dương Đức Xương](/people/楊德昌)：Hai bộ phim vào danh sách trăm phim trong lịch sử Sight & Sound của Nhà Quan sát Thành Phố
-- [Thái Minh Lương](/people/蔡明亮)：Huy chương vàng Venice, quay phim chậm vào Bảo tàng Louvre
-- [Lý An](/people/李安)：Từ Đài Loan bước tới Hollywood, hai lần giành Đạo diễn tốt nhất Oscar
-- [Ngụy Đức Thánh](/people/魏德聖)：Dùng năm thứ tiếng quay _Phía bắc đầm biển_, nhân vật làm sống lại phim quốc gia
-- [Quốc gia nhìn không thấy](/art/看不見的國家)：Trong phim tài liệu Cát Tĩnh Văn, một cách khác để Đài Loan được nhìn thấy
-- [Cảm xúc Đài Loan: Chúng ta có phải chờ người Hàn Quốc thích trước, mới dám nói ngôi nhà cũ của chính mình đẹp không?](/culture/台灣感性)：_Thành phố đau buồn_ 1989 Huy chương vàng Venice và doanh thu Đài Bắc cùng năm diễn ra, công nhận quốc tế với sự đồng cảm địa phương không nhất thiết phải chọn một
+- [Hầu Hiếu Hiền](/vi/people/hou-hsiao-hsien)：Giành Huy chương vàng Venice, đưa Sự kiện 228 lên màn hình lớn của Thầy phố Camera Dài
+- [Dương Đức Xương](/vi/people/yang-dechang)：Hai bộ phim vào danh sách trăm phim trong lịch sử Sight & Sound của Nhà Quan sát Thành Phố
+- [Thái Minh Lương](/vi/people/tsai-ming-liang)：Huy chương vàng Venice, quay phim chậm vào Bảo tàng Louvre
+- [Lý An](/vi/people/ang-lee)：Từ Đài Loan bước tới Hollywood, hai lần giành Đạo diễn tốt nhất Oscar
+- [Ngụy Đức Thánh](/vi/people/wei-te-sheng-taiwanese-epic-filmmaker)：Dùng năm thứ tiếng quay _Phía bắc đầm biển_, nhân vật làm sống lại phim quốc gia
+- [Quốc gia nhìn không thấy](/vi/art/invisible-nation)：Trong phim tài liệu Cát Tĩnh Văn, một cách khác để Đài Loan được nhìn thấy
+- [Cảm xúc Đài Loan: Chúng ta có phải chờ người Hàn Quốc thích trước, mới dám nói ngôi nhà cũ của chính mình đẹp không?](/vi/culture/taiwanese-sensibility)：_Thành phố đau buồn_ 1989 Huy chương vàng Venice và doanh thu Đài Bắc cùng năm diễn ra, công nhận quốc tế với sự đồng cảm địa phương không nhất thiết phải chọn một
 
 [^1]: [Người dịch nghĩa Phim - Wikipedia](https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%BD%B1%E8%BE%AF%E5%A3%AB) — Năm 1930 Đài Loan có 41 người dịch nghĩa người Nhật, 19 người dịch nghĩa người Đài Loan khoảng 60 người, thực tập phải vượt kỳ thi của viên cảnh sát viên lấy bằng.
 

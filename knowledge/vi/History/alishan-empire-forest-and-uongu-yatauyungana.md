@@ -91,10 +91,10 @@ Alishan không phải là một núi, mà là một cuốn sách lịch sử ch�
 
 - [Lịch sử phát triển rừng của Đài Loan](/vi/history/taiwan-forestry-history) — Bảy trăm năm chính sách rừng đã biến Alishan, Taiping, Baxian thành các khu rừng chính phủ của đế quốc
 - [Bạo lực trắng của Đài Loan](/vi/history/taiwan-white-terror) — Vụ án Uongu Yatauyungana chỉ là một phần của vụ án tổng hợp bản tộc Tsou, toàn bộ bạo lực chính trị trong thập niên 1950
-- [Lịch sử và phong trào chuẩn định danh người dân bản địa của Đài Loan](/history/台灣原住民族歷史與正名運動) — Địa vụ và các phong trào khác của người Tsou và các bản tộc khác sau chiến tranh tại Đài Loan
-- [Sự kiện 228](/history/二二八事件) — Sự tốt bụng của Uongu Yatauyungana nhận người di tản, tại sao sau này trở thành tội ác của ông
-- [Thời kỳ đế quốc Nhật Bản](/history/日治時期) — Hệ thống rừng nghiên cứu của Hồi Hàn Tài Tô
-- [Cuộc chiến sát lau thế kỷ 19](/history/19世紀的樟腦戰爭) — Trước khi rừng sồi Alishan, núi này từng bị chặt phá cây ngọt trong thời kỳ chính phủ cuối cùng của triều đại Hán. Cùng một đoạn đường từ thương gia Shu Wen đến cộng đồng Bạch Dã từ năm 1864 đến 1906
+- [Lịch sử và phong trào chuẩn định danh người dân bản địa của Đài Loan](/vi/history/indigenous-peoples-history-and-naming-movement) — Địa vụ và các phong trào khác của người Tsou và các bản tộc khác sau chiến tranh tại Đài Loan
+- [Sự kiện 228](/vi/history/228-incident) — Sự tốt bụng của Uongu Yatauyungana nhận người di tản, tại sao sau này trở thành tội ác của ông
+- [Thời kỳ đế quốc Nhật Bản](/vi/history/japanese-colonial-era) — Hệ thống rừng nghiên cứu của Hồi Hàn Tài Tô
+- [Cuộc chiến sát lau thế kỷ 19](/vi/history/19th-century-camphor-wars) — Trước khi rừng sồi Alishan, núi này từng bị chặt phá cây ngọt trong thời kỳ chính phủ cuối cùng của triều đại Hán. Cùng một đoạn đường từ thương gia Shu Wen đến cộng đồng Bạch Dã từ năm 1864 đến 1906
 
 ## Tài liệu tham khảo
 

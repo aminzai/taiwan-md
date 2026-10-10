@@ -109,7 +109,7 @@ Khi chúng ta nhìn thấy các bàn hàng tiện lợi cũng đặt bàn đề 
 ## Đọc thêm
 
 - [Nhân ử đại đề](/vi/culture/ghost-festival-zhongyuan) — Phân tích lịch sử Nhân ử đại đề như một thỏa thuận hòa bình xã hội
-- [Lễ hội Tết trung nguyệt](/culture/端午節) — Một lễ hội khác được Đài Loan tái sáng tạo
+- [Lễ hội Tết trung nguyệt](/vi/culture/dragon-boat-festival) — Một lễ hội khác được Đài Loan tái sáng tạo
 
 ## Tham khảo
 

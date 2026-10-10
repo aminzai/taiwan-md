@@ -181,8 +181,8 @@ Câu chuyện ASUS nói với chúng ta: Trong thời đại toàn cầu hóa, m
 
 **Đọc thêm**:
 
-- [Doanh nghiệp Đài Loan: Hong Hua](/economy/台灣企業：宏碁) — Một cặp đôi đi cùng con đường khác. Khi Hong Hua tách ra công ty bán buôi năm 2000, ASUS mới tách hợp tác Hong Hua vào năm 2008, hai con đường khác nhau đã trở thành tranh luận trường kinh tế điện tử Đài Loan.
-- [Doanh nghiệp Đài Loan: Hong Hua Tín Học](/economy/台灣企業：緯創資通) — Con còn lại của công ty bán buôi Hong Hua, giống như khi tách hợp tác của ASUS, đã chứng minh rằng "phần trung của phần bị bỏ rơi" sau đó có thể phát triển lên cao hơn.
+- [Doanh nghiệp Đài Loan: Hong Hua](/vi/economy/acer-pc-industry-pioneer) — Một cặp đôi đi cùng con đường khác. Khi Hong Hua tách ra công ty bán buôi năm 2000, ASUS mới tách hợp tác Hong Hua vào năm 2008, hai con đường khác nhau đã trở thành tranh luận trường kinh tế điện tử Đài Loan.
+- [Doanh nghiệp Đài Loan: Hong Hua Tín Học](/vi/economy/wistron-global-manufacturing-transformation-pioneer) — Con còn lại của công ty bán buôi Hong Hua, giống như khi tách hợp tác của ASUS, đã chứng minh rằng "phần trung của phần bị bỏ rơi" sau đó có thể phát triển lên cao hơn.
 
 ## Tài liệu tham khảo
 

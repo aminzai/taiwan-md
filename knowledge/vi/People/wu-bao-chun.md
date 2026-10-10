@@ -94,7 +94,7 @@ Bản thân kết quả ấy dường như có phần khó lý giải—nhưng k
 
 **Đọc thêm**:
 
-- [Giang Chấn Thành](/people/江振誠) — Một nghệ nhân khác từng chinh phục ban giám khảo Pháp bằng nguyên liệu Đài Loan, nhưng chỉ một năm sau khi đưa nhà hàng lên vị trí thứ 14 thế giới, ông đã chủ động tắt đèn và rẽ sang hướng khác
+- [Giang Chấn Thành](/vi/people/andre-chiang-taiwanese-culinary-innovator) — Một nghệ nhân khác từng chinh phục ban giám khảo Pháp bằng nguyên liệu Đài Loan, nhưng chỉ một năm sau khi đưa nhà hàng lên vị trí thứ 14 thế giới, ông đã chủ động tắt đèn và rẽ sang hướng khác
 - [Bản đồ văn hóa 16 dân tộc bản địa Đài Loan](/vi/culture/indigenous-peoples-16-tribes-cultural-map) — Bối cảnh văn hóa của rượu kê Paiwan được sử dụng trong bánh mì vải thiều hoa hồng
 - [Văn hóa chợ đêm](/vi/food/night-market-culture) — Nền tảng ẩm thực bình dân Đài Loan, giúp lý giải cội nguồn hình thành mỹ học nguyên liệu của Ngô Bảo Xuân
 - [Hoàng Sơn Liệu](/vi/people/huang-shan-liao) — Một người Đài Loan khác từng giành chiến thắng trên sân khấu thế giới tại Tuần lễ Thời trang London, nhưng lại chọn con đường trái ngược: rời bỏ nghề thủ công và biến việc “được nhìn thấy” thành sản phẩm bán chạy

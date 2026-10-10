@@ -57,7 +57,7 @@ Ba cánh cửa này cũng quyết định ai có cơ hội bị đưa lên bục
 
 Độ cao của cánh cửa thứ ba được điều chỉnh thành hình dạng ngày nay chỉ vào năm 2016. Trước đó,bãi miễn áp dụng ngưỡng "kép hai-một": tỷ lệ bỏ phiếu phải vượt quá 50%, và số phiếu đồng ý phải vượt quá 50% so với số phiếu bầu thì mới thông qua. Năm 2015, hành động "Cắt đuôi lan"bãi miễn nghị sĩ Thái Chính Nguyên, tỷ lệ bỏ phiếu chỉ 24,98%, thậm chí chưa vượt qua cửa tỷ lệ bỏ phiếu,bãi miễn tự động thất bại[^6]. Tháng 11 năm 2016, Viện Lập pháp sửa đổi ngưỡng thành "phiếu đồng ý nhiều hơn phiếu không đồng ý, và đạt một phần tư tổng số cử tri", loại bỏ yêu cầu cứng về tỷ lệ bỏ phiếu vượt quá 50%[^7]. Đề xuất sửa đổi này đến từ các phiên bản của nhóm Đảng Sức mạnh Thời đại và Đảng Dân chủ Tiến bộ, được thông qua sau khi xem xét hợp nhất.
 
-Nghịch lý là, một trong những đảng đề xuất giảm ngưỡng, Đảng Sức mạnh Thời đại, đã khiến đại biểu Hoàng Quốc Chương trở thành nghị sĩ đầu tiên bị đưa vào bỏ phiếubãi miễn sau khi chế độ mới có hiệu lực vào năm 2017. Lần đó, ông nhận được 48.693 phiếu đồng ý, không vượt qua ngưỡng 63.888 phiếu, bảo toàn được ghế[^8]. Người điều chỉnh giảm ngưỡng, trở thành người đầu tiên bị kiểm tra dưới chế độ mới; lần đó, ngưỡng không bị vượt qua. Cuộc tranh luận thể chế về "việc khiến người đương nhiệm dễ bị thách thức hơn như thế nào" đã được tranh cãi một vòng trước Phong tràobãi miễn Lớn, và gieo mầm cho ngưỡng 25% năm 2025 (xem thêm [Bầu cử và Chính trị Đảng phái Đài Loan](/history/台灣選舉與政黨政治)).
+Nghịch lý là, một trong những đảng đề xuất giảm ngưỡng, Đảng Sức mạnh Thời đại, đã khiến đại biểu Hoàng Quốc Chương trở thành nghị sĩ đầu tiên bị đưa vào bỏ phiếubãi miễn sau khi chế độ mới có hiệu lực vào năm 2017. Lần đó, ông nhận được 48.693 phiếu đồng ý, không vượt qua ngưỡng 63.888 phiếu, bảo toàn được ghế[^8]. Người điều chỉnh giảm ngưỡng, trở thành người đầu tiên bị kiểm tra dưới chế độ mới; lần đó, ngưỡng không bị vượt qua. Cuộc tranh luận thể chế về "việc khiến người đương nhiệm dễ bị thách thức hơn như thế nào" đã được tranh cãi một vòng trước Phong tràobãi miễn Lớn, và gieo mầm cho ngưỡng 25% năm 2025 (xem thêm [Bầu cử và Chính trị Đảng phái Đài Loan](/vi/history/taiwan-elections-and-party-politics)).
 
 ```tw-versus
 Trước sửa đổi 2016 (kép hai-một) | Sau sửa đổi 2016 (chế độ hiện hành)
@@ -109,7 +109,7 @@ Ngày 22 tháng 1 năm 2025, Tôn Tân Thành người sáng lập Liên Điện
 ![Ngày 21 tháng 5 năm 2024, nhà sáng lập Liên Điện Tử Tôn Tân Thành xuất hiện trong hoạt động mít tinh bên ngoài Viện Lập pháp phát biểu](/article-images/history/recall-tsao-hsing-cheng-rally-2024.webp)
 _Ngày 21 tháng 5 năm 2024, Tôn Tân Thành phát biểu tại hoạt động mít tinh bên ngoài Viện Lập pháp; tám tháng sau, ông kết nối các nhómbãi miễn khắp nơi thành lập liên minh. Photo: TMYAO / Wikimedia Commons, CC BY-SA 4.0._
 
-Tình nguyện viên đón lấy làn sóng này, trông có vẻ khác với quá khứ. Quan sát thực địa của Báo chí phát hiện, tỷ lệ tình nguyện viên nữ ở các khu vực bầu cử cao đạt bảy đến chín mươi phần trăm, những người tình nguyệnbãi miễn quá khứ "tối đa 6, 7 mươi phần trăm"[^16]. Độ tuổi cũng từ sinh viên trung học và sinh viên mới tốt nghiệp năm 2015 và 2020, chuyển sang năm 2025 lực lượng chính: ba mươi, bốn mươi tuổi, những người được phỏng vấn mô tả "hầu như đều là quản lý cấp trung các lĩnh vực" thế hệ — từ Hoa Hướng Dương đến Chim Xanh rồi đến nhómbãi miễn, một đường cong thế hệ đường phố mất tính chất sinh viên, tiến tới tuổi trung niên rõ ràng (xem thêm [Phong trào xã hội và Tham gia Công dân](/society/社會運動與公民參與)). Một số nhómbãi miễn kiểm tra rất kỹ, "Sơn trừ Vi hại" yêu cầu những tình nguyện viên ứng tuyển quay lại video nói "Tập Cận Bình xuống cai" rồi lưu trữ để kiểm tra[^16].
+Tình nguyện viên đón lấy làn sóng này, trông có vẻ khác với quá khứ. Quan sát thực địa của Báo chí phát hiện, tỷ lệ tình nguyện viên nữ ở các khu vực bầu cử cao đạt bảy đến chín mươi phần trăm, những người tình nguyệnbãi miễn quá khứ "tối đa 6, 7 mươi phần trăm"[^16]. Độ tuổi cũng từ sinh viên trung học và sinh viên mới tốt nghiệp năm 2015 và 2020, chuyển sang năm 2025 lực lượng chính: ba mươi, bốn mươi tuổi, những người được phỏng vấn mô tả "hầu như đều là quản lý cấp trung các lĩnh vực" thế hệ — từ Hoa Hướng Dương đến Chim Xanh rồi đến nhómbãi miễn, một đường cong thế hệ đường phố mất tính chất sinh viên, tiến tới tuổi trung niên rõ ràng (xem thêm [Phong trào xã hội và Tham gia Công dân](/vi/society/social-movements-and-civic-participation)). Một số nhómbãi miễn kiểm tra rất kỹ, "Sơn trừ Vi hại" yêu cầu những tình nguyện viên ứng tuyển quay lại video nói "Tập Cận Bình xuống cai" rồi lưu trữ để kiểm tra[^16].
 
 Lĩnh vực văn hóa cũng bị cuốn vào. Tác giả Dương Song Tử khởi động liên danh, từ đầu tháng 2 có hơn hai trăm người, một đường chuyển tiến đến một nghìn bốn mươi ba tác giả, tuyên bố liên danh trích dẫn từ Brodsky: "Văn học có quyền can thiệp vào chính trị, cho đến khi chính trị không ngừng can thiệp vào văn học"[^18].
 
@@ -236,11 +236,11 @@ Trên màn hình mở phiếu đêm tối, chữ "không thông qua" ba cái li�
 
 **Đọc tiếp**:
 
-- [Bầu cử và Chính trị Đảng phái Đài Loan](/history/台灣選舉與政黨政治) — Từ Sự kiện Trung Lạc đến ba đảng tam phân, diễn biến lâu dài bầu cử Đài Loan và văn hoá bỏ phiếu
-- [Dân chủ hoá](/history/民主化) — Trước khi quyềnbãi miễn viết vào đời thường hiến pháp, thế hệ người ấy từ thiết quân luật đi tới bầu cử trực tiếp lịch trình
-- [Chuyển đổi Dân chủ Đài Loan](/history/台灣民主轉型) — Thời kỳ chuyên chế từng bước bàn giao quyền cai trị cho nhân dân như thế nào
-- [Phong trào Xã hội và Tham gia Công dân](/society/社會運動與公民參與) — Từ Hoa Hướng Dương đến Chim Xanh, hệ thống phát triển huy động thế hệ đường phố
-- [Môi trường Chính trị Đài Loan và Chế độ Bầu cử](/society/台灣政治環境與選舉制度) — Chiều sâu thể chế thiết kế chế độ bầu cửbãi miễn và ngưỡng
+- [Bầu cử và Chính trị Đảng phái Đài Loan](/vi/history/taiwan-elections-and-party-politics) — Từ Sự kiện Trung Lạc đến ba đảng tam phân, diễn biến lâu dài bầu cử Đài Loan và văn hoá bỏ phiếu
+- [Dân chủ hoá](/vi/history/taiwan-democratization-history) — Trước khi quyềnbãi miễn viết vào đời thường hiến pháp, thế hệ người ấy từ thiết quân luật đi tới bầu cử trực tiếp lịch trình
+- [Chuyển đổi Dân chủ Đài Loan](/vi/history/taiwan-democratization) — Thời kỳ chuyên chế từng bước bàn giao quyền cai trị cho nhân dân như thế nào
+- [Phong trào Xã hội và Tham gia Công dân](/vi/society/social-movements-and-civic-participation) — Từ Hoa Hướng Dương đến Chim Xanh, hệ thống phát triển huy động thế hệ đường phố
+- [Môi trường Chính trị Đài Loan và Chế độ Bầu cử](/vi/society/taiwan-political-landscape-and-electoral-system) — Chiều sâu thể chế thiết kế chế độ bầu cửbãi miễn và ngưỡng
 
 ## Nguồn ảnh
 

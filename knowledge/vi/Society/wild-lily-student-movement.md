@@ -147,6 +147,6 @@ Và năm đó, câu trả lời bắt đầu xuất hiện.
 
 ## Chủ đề liên quan
 
-- [Hoạt động Học sinh Hoa Đường](/society/太陽花學運): Hai mươi bốn năm sau, một thế hệ sinh viên khác tiếp tục thúc đẩy các thảo luận hệ thống
-- [Các hệ thống dân chủ](/society/民主制度): Các quy tắc dân chủ hiện nay của Taiwan được xây dựng từng bước
-- [Môi trường chính trị và hệ thống bầu cử Taiwan](/society/台灣政治環境與選舉制度): Từ Quốc hội vĩnh trường đến việc bầu cử toàn diện các vị trí chính trị
+- [Hoạt động Học sinh Hoa Đường](/vi/society/sunflower-movement): Hai mươi bốn năm sau, một thế hệ sinh viên khác tiếp tục thúc đẩy các thảo luận hệ thống
+- [Các hệ thống dân chủ](/vi/society/democratic-system): Các quy tắc dân chủ hiện nay của Taiwan được xây dựng từng bước
+- [Môi trường chính trị và hệ thống bầu cử Taiwan](/vi/society/taiwan-political-landscape-and-electoral-system): Từ Quốc hội vĩnh trường đến việc bầu cử toàn diện các vị trí chính trị

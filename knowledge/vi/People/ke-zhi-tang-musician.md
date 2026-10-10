@@ -182,9 +182,9 @@ Một giọng hát "chỉ hơi cổ kính một chút", một tốc độ không
 
 **Đọc Thêm:**
 
-- [Wei Ruoxuan](/people/魏如萱) — Chị em họ của Kowen Ko, hai lần Giải Mai Vàng Ca sĩ Nữ Quốc Ngữ Hay Nhất, cũng là đồng môn của cùng nhãn hiệu "forgood music".
-- [Chen Chien-chi](/people/陳建騏) — Chín năm giúp Kowen Ko làm ba album, không bao giờ thúc ép, nhà sản xuất đẩy ba Giải Mai Vàng, Giải Kim Chung.
-- [Hello Nico](/people/Hello-Nico) — Nhóm ca sĩ âm nhạc độc lập Đài Loan khác bị truyền thông gây dựng khuôn khổ "biến mất N năm", thực tế đầu đuôi đều có sản lượng lác đác.
+- [Wei Ruoxuan](/vi/people/waa-wei-singer) — Chị em họ của Kowen Ko, hai lần Giải Mai Vàng Ca sĩ Nữ Quốc Ngữ Hay Nhất, cũng là đồng môn của cùng nhãn hiệu "forgood music".
+- [Chen Chien-chi](/vi/people/chen-chien-chi-music-producer) — Chín năm giúp Kowen Ko làm ba album, không bao giờ thúc ép, nhà sản xuất đẩy ba Giải Mai Vàng, Giải Kim Chung.
+- [Hello Nico](/vi/people/hello-nico-band) — Nhóm ca sĩ âm nhạc độc lập Đài Loan khác bị truyền thông gây dựng khuôn khổ "biến mất N năm", thực tế đầu đuôi đều có sản lượng lác đác.
 
 ## Hình Ảnh Nguồn
 

@@ -86,10 +86,10 @@ Từ hương vị nhớ quê của những người mẹ ở làng quân nhân, 
 
 ## Đọc thêm
 
-- [Tổng quan ẩm thực Đài Loan](/food/台灣美食總覽) — Bản đồ toàn cảnh từ người bản địa tới Michelin: Tại sao cơm thịt kho là yếu tố tính toán chung lớn nhất của người ăn cơm Đài Loan
-- [Mì bò Đài Loan](/food/牛肉麵) — Một ẩm thực quốc dân khác được người di cư ngoài tỉnh mang vào Đài Loan năm 1949, chia sẻ hệ thống làng quân nhân với cơm thịt kho
-- [Văn hóa bữa sáng Đài Loan](/food/台灣早餐文化) — Một phương diện khác của sự hòa trộn ẩm thực Đài Loan, từ bánh xiên dầu tới bánh hamburger cơm
-- [Chính phủ Dân quốc chuyển tới Đài Loan và tái xây dựng sau chiến tranh](/history/國民政府遷台與戰後重建) — Bối cảnh lịch sử của sự ra đời cơm thịt kho, 1.2 triệu quân dân chuyển tới phía nam mang lại sự sắp xếp lại ẩm thực
+- [Tổng quan ẩm thực Đài Loan](/vi/food/taiwan-food-overview) — Bản đồ toàn cảnh từ người bản địa tới Michelin: Tại sao cơm thịt kho là yếu tố tính toán chung lớn nhất của người ăn cơm Đài Loan
+- [Mì bò Đài Loan](/vi/food/beef-noodle-soup) — Một ẩm thực quốc dân khác được người di cư ngoài tỉnh mang vào Đài Loan năm 1949, chia sẻ hệ thống làng quân nhân với cơm thịt kho
+- [Văn hóa bữa sáng Đài Loan](/vi/food/taiwan-breakfast-culture) — Một phương diện khác của sự hòa trộn ẩm thực Đài Loan, từ bánh xiên dầu tới bánh hamburger cơm
+- [Chính phủ Dân quốc chuyển tới Đài Loan và tái xây dựng sau chiến tranh](/vi/history/kmt-government-relocation-and-postwar-reconstruction) — Bối cảnh lịch sử của sự ra đời cơm thịt kho, 1.2 triệu quân dân chuyển tới phía nam mang lại sự sắp xếp lại ẩm thực
 
 ## Tài liệu tham khảo
 

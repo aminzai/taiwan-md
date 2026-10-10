@@ -163,7 +163,7 @@ Nếu vào năm 2050 có ai muốn biết ngành truyền hình Đài Loan đã 
 
 **Đọc thêm**:
 
-- [Giải thưởng Kim Chung](/culture/金鐘獎) — Trong 17 năm độc quyền của các đài tư nhân cũ, sự xuất hiện của PTS và truyền hình cáp, cùng với việc Netflix tham gia, là một ghi chép khác trong lịch sử ngành này.
+- [Giải thưởng Kim Chung](/vi/culture/golden-bell-awards) — Trong 17 năm độc quyền của các đài tư nhân cũ, sự xuất hiện của PTS và truyền hình cáp, cùng với việc Netflix tham gia, là một ghi chép khác trong lịch sử ngành này.
 
 ## Tài liệu Tham khảo
 

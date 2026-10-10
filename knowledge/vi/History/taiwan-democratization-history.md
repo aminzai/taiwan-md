@@ -179,5 +179,5 @@ Cùng một người, cùng một hòn đảo. Sự khác biệt chỉ ở chỗ
 - [Thời kỳ giới nghiêm](/vi/history/martial-law-era): 38 năm thống trị chuyên chế trước dân chủ hóa
 - Khủng bố Trắng: Lịch sử 140.000 người bị bức hại chính trị
 - Sự kiện 228: Điểm khởi đầu của chấn thương chính trị thời hậu chiến
-- [Bầu cử và chính trị đảng phái Đài Loan](/history/台灣選舉與政黨政治): Diễn biến thể chế bầu cử sau dân chủ hóa
+- [Bầu cử và chính trị đảng phái Đài Loan](/vi/history/taiwan-elections-and-party-politics): Diễn biến thể chế bầu cử sau dân chủ hóa
 - [Đại bãi miễn](/vi/history/great-recall-movement-2024): Sóng bãi miễn lớn nhất lịch sử năm 2025, thử nghiệm áp lực quyền lực trực tiếp của dân chủ hóa bốn mươi năm

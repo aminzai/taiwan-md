@@ -168,10 +168,10 @@ _Số ra mắt tháng 9 năm 2017, Hoang mạc kỹ thuật số Issue 34 "Diễ
 
 ## Đọc thêm
 
-- [Trịnh Văn Kỳ (Zheng Wenqi)](/people/鄭文琦) — 12 năm thực hành Quần đảo của biên tập viên chính Hoang mạc kỹ thuật số: Từ tác giả đặc biệt "典藏" đến người khởi xướng "Tủ dữ liệu Quần đảo"
-- [Nghệ thuật đương đại](/art/當代藝術) — Bản đồ lý luận nghệ thuật đương đại Đài Loan, vị trí của Hoang mạc kỹ thuật số như nền tảng curate góc nhìn phương Nam
-- [Nghệ thuật truyền thông mới Đài Loan](/art/台灣新媒體藝術) — Hệ thống nghệ thuật truyền thông mới Đài Loan từ Địa thực nghiệm (1995) đến Quỹ Nghệ thuật Kỹ thuật số (2008)
-- [Vương Phúc Thụy (Wang Fui-je)](/people/王福瑞) — Sáng lập tạp chí NOISE năm 1993, biên tập viên nguyên mẫu tạp chí giấy âm nhạc thử nghiệm Đài Loan, thông mạch với tổ chức mẹ hosting Hoang mạc kỹ thuật số
+- [Trịnh Văn Kỳ (Zheng Wenqi)](/vi/people/cheng-wen-chi) — 12 năm thực hành Quần đảo của biên tập viên chính Hoang mạc kỹ thuật số: Từ tác giả đặc biệt "典藏" đến người khởi xướng "Tủ dữ liệu Quần đảo"
+- [Nghệ thuật đương đại](/vi/art/contemporary-art) — Bản đồ lý luận nghệ thuật đương đại Đài Loan, vị trí của Hoang mạc kỹ thuật số như nền tảng curate góc nhìn phương Nam
+- [Nghệ thuật truyền thông mới Đài Loan](/vi/art/taiwan-new-media-art) — Hệ thống nghệ thuật truyền thông mới Đài Loan từ Địa thực nghiệm (1995) đến Quỹ Nghệ thuật Kỹ thuật số (2008)
+- [Vương Phúc Thụy (Wang Fui-je)](/vi/people/fujui-wang) — Sáng lập tạp chí NOISE năm 1993, biên tập viên nguyên mẫu tạp chí giấy âm nhạc thử nghiệm Đài Loan, thông mạch với tổ chức mẹ hosting Hoang mạc kỹ thuật số
 - [Curate Đài Loan và xây dựng văn hóa nghệ thuật](/vi/art/taiwanese-curators-and-artistic-cultural-construction) — Hệ thống curate Đài Loan, Trịnh Văn Kỳ (Zheng Wenqi) như trường hợp "mạng curate驻站 xuyên quốc gia"
 
 ## Nguồn hình ảnh

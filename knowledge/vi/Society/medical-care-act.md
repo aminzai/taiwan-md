@@ -364,9 +364,9 @@ Pháp luật viết chữ sẽ được độc giả đọc được. Chữ khô
 
 **Đọc tiếp**:
 
-- [Y tế Đài Loan lẫn Bảo hiểm Y tế Quốc gia](/lifestyle/台灣醫療與全民健保) — Cấu trúc bảo hiểm y tế danh tiếng toàn cầu tỷ lệ bao phủ lẫn thanh toán, là "mặt thanh toán" ghép với Luật Y tế sau lên đường
-- [Lịch sử Soái Sinh Y tế Lưỡng Luật Đài Loan Cách Hành Nhân Khai Bạch](/society/台灣再生醫療雙法沿革從業人員告白) — 2024 thông qua lưỡng luật tái sinh y tế, là pháp luật đặc biệt tách từ Luật Y tế, bổ sung quy phạm trị liệu tế bào
-- [Hệ Thống Y Tế Thảm Họa Đài Loan](/technology/台灣災難醫療體系) — Luật Y tế điều 1 "phân bổ hợp lý tài nguyên y tế" hoạt động thực tế trong bối cảnh thảm họa lớn
+- [Y tế Đài Loan lẫn Bảo hiểm Y tế Quốc gia](/vi/lifestyle/taiwan-healthcare-and-national-health-insurance) — Cấu trúc bảo hiểm y tế danh tiếng toàn cầu tỷ lệ bao phủ lẫn thanh toán, là "mặt thanh toán" ghép với Luật Y tế sau lên đường
+- [Lịch sử Soái Sinh Y tế Lưỡng Luật Đài Loan Cách Hành Nhân Khai Bạch](/vi/society/taiwan-regenerative-medicine-laws) — 2024 thông qua lưỡng luật tái sinh y tế, là pháp luật đặc biệt tách từ Luật Y tế, bổ sung quy phạm trị liệu tế bào
+- [Hệ Thống Y Tế Thảm Họa Đài Loan](/vi/technology/taiwan-disaster-medicine-system) — Luật Y tế điều 1 "phân bổ hợp lý tài nguyên y tế" hoạt động thực tế trong bối cảnh thảm họa lớn
 
 ## Nguồn Hình Ảnh
 
