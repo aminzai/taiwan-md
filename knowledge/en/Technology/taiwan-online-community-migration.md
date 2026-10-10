@@ -158,8 +158,8 @@ Next time someone asks you "why back up photos," "why save your own blog," "why 
 
 - [Wretch (Wu Ming Xiao Zhan) — Youth Placed on Someone Else’s Removable Server](/en/culture/wretch)
 - [PTT (PiTiTi) — A City-State Grown from the Academic Network](/en/technology/ptt-bulletin-board-system)
-- [Facebook in Taiwan](/en/technology/Facebook-in-Taiwan)
-- [Threads in Taiwan — Threads and 11 Minutes 31 Seconds](/en/technology/Threads-in-Taiwan)
+- [Facebook in Taiwan](/en/technology/facebook-in-taiwan)
+- [Threads in Taiwan — Threads and 11 Minutes 31 Seconds](/en/technology/threads-in-taiwan)
 - [Instagram in Taiwan](/en/technology/instagram-in-taiwan)
 - [Miin — The Safe Haven of "Let’s Go, Let’s Go to Miin" in 2026](/en/technology/miin-music-app)
 
