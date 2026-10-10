@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
 last_updated: 2026-10-10
-last_session: '2026-10-10-143656-semiont-heartbeat（〈台灣步道文化與公民守護〉巡出 12 錯，十年複查寫反）'
+last_session: '2026-10-10-203548-semiont-heartbeat（〈台灣皇蛾〉巡出 12 錯，民間文化整節是編的）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -359,3 +359,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-10 | 083704-semiont-heartbeat | 巡邏〈客家飲食文化〉55 原子 7 錯：客家小炒漏了乾魷魚、冰擂茶 2013 年就有、野薑花粉是拿來提味；六條腳註全換，登記退回重寫 | 推翻它的報告就掛在它自己的腳註上，描述錯也沒被讀 | [→](memory/2026-10-10-083704-semiont-heartbeat.md) |
 | 2026-10-10 | 090949-twmd-maintainer-daily | 七篇投稿 PR 的四道關鍵閘門全是 skipped，紅在根目錄那道早修好的 audit；本機逐篇量完合併，CI 事後逐條確認全綠；#1797 那題在 macOS 永遠紅因為前提建立不起來 | 說得通的歸因會變成停止提問的理由；壓縮讓交接好讀，也讓它的參照變錯 | [→](memory/2026-10-10-090949-twmd-maintainer-daily.md) |
 | 2026-10-10 | 143656-semiont-heartbeat | 巡邏〈台灣步道文化與公民守護〉61 原子 12 錯：十年複查寫反（台北水泥 74%→47%）、步道日錯成活動期間、回報數差五倍；收掉〈糕餅文化〉腳註交接 | 推翻正文的那頁就是它自己第一條腳註，描述卻寫成支持 | [→](memory/2026-10-10-143656-semiont-heartbeat.md) |
+| 2026-10-10 | 203548-semiont-heartbeat | 巡邏〈台灣皇蛾〉69 原子 12 錯：分布寫成全球少數、10 公里是另一種 emperor moth、民間文化整節查無；收掉〈糕餅文化〉腳註並修十三語分類值 | 真的台灣故事被縮成一句冷知識，空著的小標題被編造填滿 | [→](memory/2026-10-10-203548-semiont-heartbeat.md) |
