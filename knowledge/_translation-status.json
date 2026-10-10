@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-10T18:59:01+08:00",
-    "zhCommitHead": "07589dfc7",
+    "lastUpdated": "2026-10-10T19:07:54+08:00",
+    "zhCommitHead": "89b01312f",
     "totalZh": 1125,
     "activeLanguages": [
       "en",
@@ -92,8 +92,8 @@
       },
       "ar": {
         "total_zh": 1125,
-        "fresh": 1119,
-        "stale": 3,
+        "fresh": 1120,
+        "stale": 2,
         "metadata_stale": 3,
         "missing": 0,
         "orphan": 0
@@ -72080,8 +72080,8 @@
           "sourceContentHash": "sha256:e7727fb00a4fa3ab",
           "sourceBodyHash": "sha256:77348d4fbb7640a8",
           "translatedAt": "2026-10-10T08:54:52.663704+00:00",
-          "translationLastCommit": "15073a21",
-          "translationLastModified": "2026-07-30T23:35:43+08:00",
+          "translationLastCommit": "89b01312",
+          "translationLastModified": "2026-10-10T18:59:01+08:00",
           "inferred": false,
           "footnoteDefs": 55,
           "bytes": 36997,
@@ -77754,8 +77754,8 @@
           "sourceContentHash": "sha256:a1f455d597d80f3d",
           "sourceBodyHash": "sha256:8d3f66b5c4593a14",
           "translatedAt": "2026-10-10T16:54:46+08:00",
-          "translationLastCommit": "892cb4ef",
-          "translationLastModified": "2026-07-27T18:53:04+08:00",
+          "translationLastCommit": "89b01312",
+          "translationLastModified": "2026-10-10T18:59:01+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "bytes": 23083,
@@ -165194,20 +165194,18 @@
         "ar": {
           "path": "ar/Food/taiwan-pastry-culture.md",
           "translatedFrom": "Food/台灣糕餅文化.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:bdb405b92fc10596",
-          "sourceBodyHash": "sha256:c6a86f733ba033b1",
-          "translatedAt": "2026-07-26T11:16:51+08:00",
+          "sourceCommitSha": "93c5da2ca",
+          "sourceContentHash": "sha256:18a6dcd21c7afdcc",
+          "sourceBodyHash": "sha256:736db188fea407ed",
+          "translatedAt": "2026-10-10T18:51:42+08:00",
           "translationLastCommit": "9589c25e",
           "translationLastModified": "2026-07-27T19:06:56+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "bytes": 40879,
+          "bytes": 40896,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Food/taiwan-pastry-culture.md",
