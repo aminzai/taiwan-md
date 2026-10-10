@@ -125,7 +125,7 @@ Este artículo incorpora cuatro fotos de Taiwán sobre dulces y productos del A�
 
 [^7]: [Oficina de Salud de la Ciudad de Keelung: Catálogo de inspección de alimentos festivos para el Año Nuevo y el Festival de los Linternas del año 112](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01207/f1674011260718.pdf) — PDF de inspección oficial de 2022, página 2 lista la prueba de toxinas aflatoxinas en los bings de cacahuete y el resultado conforme a las regulaciones, presentando la gobernanza de la seguridad de los alimentos de las festividades.
 
-[^8]: [Wikimedia Commons: Taiwanese sweets (1088069273).jpg](<https://commons.wikimedia.org/wiki/File:Taiwanese_sweets_(1088069273).jpg>) — Autor: pelican, licencia de la imagen: CC BY-SA 2.0. Este artículo utiliza la URL en caliente original de Wikimedia Commons, sin descargar ni modificar la imagen.
+[^8]: [Wikimedia Commons: Taiwanese sweets (1088069273).jpg](https://commons.wikimedia.org/wiki/File:Taiwanese_sweets_(1088069273) — Autor: pelican, licencia de la imagen: CC BY-SA 2.0. Este artículo utiliza la URL en caliente original de Wikimedia Commons, sin descargar ni modificar la imagen.
 
 [^9]: [Wikimedia Commons: 2010-02-13 Lunar New Year sweets vendor at Dihua Street, Taipei](https://commons.wikimedia.org/wiki/File:2010-02-13_Lunar_New_Year_sweets_vendor_at_Dihua_Street,_Taipei.jpg) — Foto de 2010 del puesto de dulces del Año Nuevo Lunar en la Calle Dihua, Taipéi, autor: eazytraveler, licencia: CC BY 2.0, este artículo utiliza la URL en caliente original.
 

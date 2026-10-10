@@ -208,4 +208,4 @@ La formación y difusión de los memes de Ma Ying-jeou no solo constituyen un mi
 
 [^25]: [YouTube — 馬英九沒有啦](https://www.youtube.com/watch?v=tjAV54VMep0) — 2007, 15 de marzo. Reportaje/entrada que documenta los eventos originales del meme y su difusión en internet
 
-[^26]: [Yahoo新聞 — 喝醉非首次！馬英九曾傻笑媚回「沒有啦」](https://tw.news.yahoo.com/%E5%96%9D%E9%86%89%E9%9D%9E%E9%A6%AC%E6%AC%A1-%E9%A6%AC%E8%8B%B1%E4%B9%9D%E6%9B%BE%E5%82%BB%E7%AC%91%E5%AA%9A%E5%9B%9E-%E6%B2%92%E6%9C%89%E5%95%A5-061103557.html) — 2024, 10 de abril. Reportaje/entrada que documenta los eventos originales del meme y su difusión en internet
+[^26]: [Yahoo新聞 — 喝醉非首次！馬英九曾傻笑媚回「沒有啦」](https://tw.news.yahoo.com/%E5%96%9D%E9%86%89%E9%9D%9E%E9%A6%AC%E6%AC%A1-%E9%A6%AC%E8%8B%B1%E4%B9%9D%E6%9B%BE%E5%82%BB%E7%AC%91%E5%AA%9A%E5%9B%9E-%E6%B2%92%E6%9C%89%E5%95%A6-061103557.html) — 2024, 10 de abril. Reportaje/entrada que documenta los eventos originales del meme y su difusión en internet

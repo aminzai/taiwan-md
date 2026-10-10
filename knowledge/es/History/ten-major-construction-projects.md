@@ -129,7 +129,7 @@ El legado más valioso que esta construcción dejó a Taiwán quizás no sean es
 
 [^19]: [Plan de desarrollo de la industria automotriz y la Carretera Zhongshan](https://storystudio.tw/article/gushi/taiwan-first-freeway/) — Apoyo a la industria automotriz orientado por políticas.
 
-[^20]: [Los Diez Proyectos de Construcción, la economía de Taiwán rompe el capullo - Noticias Yahoo](https://tw.yahoo.com/news/%E7%99%BE%E5%B9%B4%E5%8D%B0%E8%B1%A1-%E9%A2%A8%E8%8F%AF%E6%B5%81%E8%BD%89-%E5%BB%BA%E5%9C%8B%E7%99%BE%E5%B9%B4%E7%B3%BB%E5%88%97%E5%B0%88%E9%A1%8C-%E5%8D%81%E5%A4%A7%E5%BB%BA%E8%A8%AD-%E5%8F%B0%E7%81%A3%E7%B6%93%E6%BF%9F%E7%A0%B4%E7%B9%AD-094000742.html) — Impacto de la modernización industrial y la industrialización pesada.
+[^20]: [Los Diez Proyectos de Construcción, la economía de Taiwán rompe el capullo - Noticias Yahoo](https://tw.yahoo.com/news/%E7%99%BE%E5%B9%B4%E7%B3%BB%E5%88%97%E5%B0%88%E9%A1%8C-%E5%8D%81%E5%A4%A7%E5%BB%BA%E8%A8%AD-%E5%8F%B0%E7%81%A3%E7%B6%93%E6%BF%9F%E7%A0%B4%E7%B9%AD-094000742.html) — Impacto de la modernización industrial y la industrialización pesada.
 
 [^21]: [Serie de centenario de la fundación: Los Diez Proyectos de Construcción, la economía de Taiwán rompe el capullo - Noticias Yahoo (Radio Central)](https://tw.news.yahoo.com/%E7%99%BE%E5%B9%B4%E5%8D%B0%E8%B1%A1-%E9%A2%A8%E8%8F%AF%E6%B5%81%E8%BD%89-%E5%BB%BA%E5%9C%8B%E7%99%BE%E5%B9%B4%E7%B3%BB%E5%88%97%E5%B0%88%E9%A1%8C-%E5%8D%81%E5%A4%A7%E5%BB%BA%E8%A8%AD-%E5%8F%B0%E7%81%A3%E7%B6%93%E6%BF%9F%E7%A0%B4%E7%B9%AD-094000742.html) — «Para 1976, los datos mejoraron, la tasa de crecimiento económico fue del 13,5 %, alcanzando un nuevo récord histórico».
 

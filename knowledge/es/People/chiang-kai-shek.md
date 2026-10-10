@@ -237,7 +237,7 @@ Sus estatuas están siendo retiradas. Pero los caminos, las escuelas y las herid
 
 [^6]: [國立中正紀念堂—從威權到去威權](https://www.cksmh.gov.tw/cp.aspx?n=6001) — (Sitio oficial del Salón Memorial Zhongzheng)
 
-[^7]: [臺灣九年國民義務教育](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E4%B9%9E%E5%B9%B4%E5%9C%8B%E6%B0%91%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2) — (Wikipedia)
+[^7]: [臺灣九年國民義務教育](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E4%B9%9F%E5%B9%B4%E5%9C%8B%E6%B0%91%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2) — (Wikipedia)
 
 [^8]: [實施九年國民義務教育](https://history.moe.gov.tw/Policy/Detail/0697417e-275b-44f3-98ec-3d906f6c7747) — (Ministerio de Educación de la República de China)
 

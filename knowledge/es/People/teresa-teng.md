@@ -185,7 +185,7 @@ Le 8 mai 2026, c'est le 31ème anniversaire de sa mort. La suite présidentielle
 
 [^8]: [Takashi Miki : Hommage et Teresa Teng — Nippon.com](https://www.nippon.com/hk/japan-topics/g00878/) — Souvenirs publics et critiques musicales du compositeur japonais Takashi Miki sur les techniques de chant de Teresa Teng, incluant la période de collaboration triomphale de 1984-1986.
 
-[^9]: [La lune représente mon cœur — Wikipédia](https://zh.wikipedia.org/wiki/%E6%9C%88%E4%BA%BA%E4%BB%A3%E8%A1%A8%E6%88%91%E7%9A%84%E5%BF%83) — Histoire complète des versions : chant original de Chen Fenlan en 1973, composition de Weng Qingxi, paroles de Sun Yi, version de reprise de Teresa Teng en 1977 définissant la version standard.
+[^9]: [La lune représente mon cœur — Wikipédia](https://zh.wikipedia.org/wiki/%E6%9C%88%E4%BA%AE%E4%BB%A3%E8%A1%A8%E6%88%91%E7%9A%84%E5%BF%83) — Histoire complète des versions : chant original de Chen Fenlan en 1973, composition de Weng Qingxi, paroles de Sun Yi, version de reprise de Teresa Teng en 1977 définissant la version standard.
 
 [^10]: [Quand reviendras-tu ? — Wikipédia](https://zh.wikipedia.org/wiki/%E4%BD%95%E6%97%A5%E5%90%9B%E5%86%8D%E4%BE%86) — Chant original de Zhou Xuan en 1937, musique de Liu Xue'an, paroles de Huang Jiamo, histoire des chansons interdites des deux côtés et contexte de la réenregistrement en versions chinoise et japonaise par Teresa Teng en 1978.
 

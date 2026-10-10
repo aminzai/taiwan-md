@@ -76,7 +76,7 @@ Cuando hablamos de la cultura digital en Taiwán, la historia de Chih-hsuan Zhou
 
 [^4]: [Commonwealth Magazine - Ingresó a Tsing Hua pero eligió tomarse un año libre: detrás del millón de suscriptores de Daptoper hay una autodisciplina extrema](https://www.cw.com.tw/article/5131830) — Reportaje en profundidad sobre el proceso de decisión de su baja académica en Tsing Hua.
 
-[^5]: [Yahoo News - El YouTuber menos típico: Daptoper](https://tw.news.yahoo.com/%E6%9C%80%E4%B8%8D%E5%85%B8%E5%9E%8B%E7%9A%84-youtuber-%E6%9C%89%E6%84%9F%E7%AD%86%E9%9B%BB-%E7%86%B1%E6%83%85%E6%98%AF%E5%9F%BA%E7%A4%80%E7%87%83%E6%96%99-%E6%9C%89%E8%A8%88%E7%95%AB%E6%89%8D%E8%83%BD%E8%B8%8F%E5%AF%A6%E7%AF%89%E5%A4%A2-180012226.html) — Cita su visión profesional y los detalles del "plazo de un año".
+[^5]: [Yahoo News - El YouTuber menos típico: Daptoper](https://tw.news.yahoo.com/%E6%9C%80%E4%B8%8D%E5%85%B8%E5%9E%8B%E7%9A%84-youtuber-%E6%9C%89%E6%84%9F%E7%AD%86%E9%9B%BB-%E7%86%B1%E6%83%85%E6%98%AF%E5%9F%BA%E7%A4%8E%E7%87%83%E6%96%99-%E6%9C%89%E8%A8%88%E7%95%AB%E6%89%8D%E8%83%BD%E8%B8%8F%E5%AF%A6%E7%AF%89%E5%A4%A2-180012226.html) — Cita su visión profesional y los detalles del "plazo de un año".
 
 [^6]: [¿Por qué el nombre en inglés de Daptoper es Daptoper? - YouTube](https://www.youtube.com/watch?v=oxsbtLjWO0s) — Explica la composición y el significado simbólico de su nombre artístico Daptoper.
 

@@ -169,7 +169,7 @@ La historia rara vez avanza como la gente la imagina. Los actores de aquella ép
 
 ## Referencias
 
-[^1]: [Wikipedia：Movimiento de peticiones para la Asamblea de Taiwán](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E8%AD%B0%E6%9C%83%E8%A8%AD%E7%BD%AE%E8%AB%8B%E9%A1%8C%E9%81%8B%E5%8B%95) — Detalla las 15 peticiones entre 1921 y 1934, número de firmantes y respuestas del Parlamento imperial japonés, así como la decisión de 1934 de detener la campaña.
+[^1]: [Wikipedia：Movimiento de peticiones para la Asamblea de Taiwán](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E8%AD%B0%E6%9C%83%E8%A8%AD%E7%BD%AE%E8%AB%8B%E9%A1%98%E9%81%8B%E5%8B%95) — Detalla las 15 peticiones entre 1921 y 1934, número de firmantes y respuestas del Parlamento imperial japonés, así como la decisión de 1934 de detener la campaña.
 
 [^2]: [Museo de la Nueva Cultura de Taiwán：Fundación de la Asociación Cultural de Taiwán, 17 de octubre de 1921](https://tncmmm.gov.taipei/Content_List.aspx?n=098AF8F2ABE4BAC3) — Archivo oficial del Departamento de Cultura de la Ciudad de Taipeí, incluye fecha, lugar, resumen de estatutos y lista de dirigentes fundadores.
 

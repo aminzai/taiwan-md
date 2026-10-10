@@ -76,7 +76,7 @@ En la segunda edición, solo hubo 40 expositores[^4]. Nadie podría haber imagin
 ## El año en que Stan Shih cambió el nombre
 
 ![Stan Shih接受多家媒體聯訪在2014年台北資訊月活動上，身穿深色西裝，面前圍著一排麥克風與攝影機，背景是資訊月的展場](/article-images/technology/stan-shih-taipei-it-month-2014.webp)
-_El fundador de Acer, Stan Shih. En 1984, renombró oficialmente la «Feria de la Computación de Taipéi» como COMPUTEX TAIPEI, colgando un letrero orientado al mundo para esta feria; la imagen es de 2014 cuando fue entrevistado en la Feria de la Informática de Taipéi. Foto: Tony Tseng, 2014-12-05. Licencia vía Wikimedia Commons._
+_El fundador de Acer, Stan Shih. En 1984, renombró oficialmente la «Feria de la Computación de Taipéi» como COMPUTEX TAIPEI, colgando un letrero orientado al mundo para esta feria; la imagen es de 2014 cuando fue entrevistado en la Feria de la Informática de Taipéi. Foto: Tony Tseng, 2014-12-05. Licencia vía Wikimedia Commons. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Stan_Shih_at_Taipei_IT_Month_20141205a.jpg)_
 
 1984 fue un punto de inflexión. Según Wikipedia y varios reportes, Stan Shih, entonces presidente de la Asociación de Comercio de Computación de Taipéi (y más tarde fundador de Acer), tomó la decisión de renombrar oficialmente el nombre en inglés de esta feria como «COMPUTEX TAIPEI»[^4][^5]. Un acto de nombramiento de un ingeniero local colgó un letrero orientado al mundo para una feria que antes solo mostraba a los fabricantes taiwaneses.
 
@@ -94,7 +94,7 @@ Al entrar en el siglo XXI, la balanza de las tres grandes ferias de computación
 Primero cayó la estadounidense COMDEX. Inició en Las Vegas en 1979 y alcanzó su punto máximo en 1996: 225.000 visitantes y 2.337 expositores[^30]. Pero el estallido de la burbuja de las puntocom, después del 11-S, grandes empresas como IBM, Apple y Compaq comenzaron a celebrar presentaciones privadas por invitación; la demanda de contactar a distribuidores a través de esta feria se desmoronó por completo. En la edición de 2003 solo quedaron 500 expositores y 40.000 visitantes, un colapso del 80% desde su punto máximo[^30][^31]. En junio del año siguiente, el organizador MediaLive anunció la «postergación»; esta feria nunca más se abrió[^32].
 
 ![German CeBIT 2005展場內人潮洶湧，寬闊的展館走道兩側排滿各家資訊廠商的攤位，天花板挑高、看板林立，呈現當年世界第一大電腦展的規模](/article-images/technology/cebit-hannover-2005.webp)
-_El pabellón de la alemana CeBIT de Hannover en 2005. En el apogeo de la burbuja de las puntocom, alcanzó momentáneamente 850.000 visitas, siendo indiscutiblemente la número uno del mundo; en 2018 anunció su desaparición. Foto: Florian K, 2005-03-16. Licencia vía Wikimedia Commons._
+_El pabellón de la alemana CeBIT de Hannover en 2005. En el apogeo de la burbuja de las puntocom, alcanzó momentáneamente 850.000 visitas, siendo indiscutiblemente la número uno del mundo; en 2018 anunció su desaparición. Foto: Florian K, 2005-03-16. Licencia vía Wikimedia Commons. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cebit_Hannover_2004.JPG)_
 
 La muerte de CeBIT fue más lenta, pero el final fue el mismo. Se separó de la Feria Industrial de Hannover (Hannover Messe) para celebrarse independientemente en 1986, habiendo sido la número uno del mundo[^33]. 32 años después, el 28 de noviembre de 2018, el organizador Deutsche Messe anunció: «due to declining visitor and exhibitioner attendance, CeBIT would be canceled for the foreseeable future» (debido a la disminución continua de la asistencia de visitantes y expositores, CeBIT se cancelaría por un futuro previsible)[^7][^34].
 
@@ -140,7 +140,7 @@ La feria de oferta sobrevivió, la feria de demanda se dirigió al cierre. COMDE
 ## Los seis mil stands que nadie filmó
 
 ![南港展覽館一館外觀，玻璃帷幕建築上高掛 COMPUTEX TAIPEI 大型展覽看板，門口聚集準備入場、掛著識別證的參觀人潮，這裡是台北國際電腦展近年的主場館](/article-images/technology/computex-nangang-exterior-2016.webp)
-_Exterior del Pabellón 1 del Centro de Exposiciones de Nangang en 2016 durante COMPUTEX. COMPUTEX incluyó Nangang como sede principal desde 2008; en 2026, las «dos áreas de exposición» son una en Nangang y otra regresando al Pabellón 1 de World Trade Center. Foto: NVIDIA Taiwan, 2016-05-31. Licencia vía Wikimedia Commons._
+_Exterior del Pabellón 1 del Centro de Exposiciones de Nangang en 2016 durante COMPUTEX. COMPUTEX incluyó Nangang como sede principal desde 2008; en 2026, las «dos áreas de exposición» son una en Nangang y otra regresando al Pabellón 1 de World Trade Center. Foto: NVIDIA Taiwan, 2016-05-31. Licencia vía Wikimedia Commons. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Computex_Taipei_at_Taipei_Nangang_Exhibition_Center_20160531.jpg)_
 
 Las cámaras de cada edición de COMPUTEX apuntan al escenario principal. Pero al entrar en el pabellón real, de los seis mil stands, la mayoría de los fabricantes no puedes nombrarlos.
 
@@ -183,7 +183,7 @@ El escenario principal dio IA física, dio Vera Rubin, dio el Año de los Agente
 Cuanto más caliente es el escenario principal, más pesada es la factura de energía.
 
 ![新竹科學園區的台積電廠房外觀，米白色大型無塵室廠房建築群，是全球先進晶片的主要生產基地](/article-images/technology/tsmc-fab-hsinchu-2009.webp)
-_Fábricas de TSMC en el Parque Científico de Hsinchu. La cadena que sostiene el escenario principal de COMPUTEX, la que realmente consume electricidad, está en la parte superior: las fábricas de obleas, no en la parte inferior: los centros de datos. Foto: Arusanov, 2009, Dominio Público. Licencia vía Wikimedia Commons._
+_Fábricas de TSMC en el Parque Científico de Hsinchu. La cadena que sostiene el escenario principal de COMPUTEX, la que realmente consume electricidad, está en la parte superior: las fábricas de obleas, no en la parte inferior: los centros de datos. Foto: Arusanov, 2009, Dominio Público. Licencia vía Wikimedia Commons. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG)_
 
 La serie de energía del 20 de abril de 2026 de The Reporter dio una comparación contraintuitiva: el consumo de energía de los centros de datos en 2025, «si se compara con el consumo nacional total de 2025 de 282.800 millones de kWh, la proporción sigue siendo solo del 0,5%». Ese mismo año, el consumo de energía de la «industria de manufactura de semiconductores» fue de 42.380 millones de kWh, representando casi el 15% del consumo nacional[^21].
 

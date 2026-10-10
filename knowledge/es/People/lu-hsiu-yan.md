@@ -242,7 +242,7 @@ Su promesa de “mamá se queda en casa” sigue vigente. Pero el aire contenido
 
 [^25]: [Análisis del KMT “3 + 1” después de la elección de Zheng – United Daily News VIP](https://vip.udn.com/vip/story/122367/9098762) — Expone la transición del KMT de “exclusividad Lu” a la estrategia “3 + 1”.
 
-[^26]: [Lu Hsiu‑yen defiende su rango de compras militares – Liberty Times (2026)](https://www.ltn.com.tw/news/Taichung/breakingnews/5387872) — Reporta su propuesta de 8 000 billones a 1 billón y las críticas de “no tiene línea, está empaquetando”.
+[^26]: [Lu Hsiu‑yen defiende su rango de compras militares – Liberty Times (2026)](https://news.ltn.com.tw/news/Taichung/breakingnews/5387872) — Reporta su propuesta de 8 000 billones a 1 billón y las críticas de “no tiene línea, está empaquetando”.
 
 [^27]: [Lu Hsiu‑yen habla de submarinos y drones – United Daily News (2026)](https://udn.com/news/story/10930/9411197) — Registra su declaración: “los submarinos deberían ser más pequeños y los drones más grandes”.
 

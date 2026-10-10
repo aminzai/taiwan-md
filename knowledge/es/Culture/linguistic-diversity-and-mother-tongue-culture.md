@@ -274,8 +274,8 @@ Cabe señalar que los resultados de las políticas lingüísticas suelen tardar 
 
 [^2]: Consejo de Pueblos Indígenas, _Informe de la encuesta sobre el uso de las lenguas de los pueblos indígenas_, 2021, https://www.cip.gov.tw/zh-tw/news/data-list/C30C260FE2AC91E5/index.html; la población registrada del pueblo amis es de aproximadamente 210 000 personas, pero el número de hablantes fluidos de la lengua es muy inferior a esa cifra.
 
-[^3]: Huang Xuanfan, _Lengua, sociedad y conciencia étnica_, Sanmin Shuju.
+[^3]: Huang Xuanfan, _Lengua, sociedad y conciencia étnica_, Sanmin Shuju. [《語言、社會與族群意識》](https://www.sanmin.com.tw/product/index/000219830)
 
-[^4]: Li Rengui, _Pueblos austronesios de Taiwán: etnicidad y migración_.
+[^4]: Li Rengui, _Pueblos austronesios de Taiwán: etnicidad y migración_. [《台灣南島民族的族群與遷徙》](https://www.books.com.tw/products/0010493437)
 
 [^5]: Ley de Desarrollo de Lenguas Nacionales (2019), https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0170143 — establece el taiwanés, el hakka, las lenguas indígenas y otras lenguas como lenguas nacionales; publicaciones del Consejo Hakka (https://www.hakka.gov.tw/) y del Consejo de Pueblos Indígenas (https://www.apc.gov.tw/).

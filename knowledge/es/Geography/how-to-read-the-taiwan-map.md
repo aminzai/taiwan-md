@@ -158,7 +158,7 @@ Desde el mapa de pergamino de Lopo Homem en 1554 hasta el Google Maps de tu tel�
 
 [^11]: [Taiwan Strait — Wikipedia (EN)](https://en.wikipedia.org/wiki/Taiwan_Strait) — Origen de la línea media del estrecho de Taiwán en 1955, publicación de coordenadas en 2019, negación de su existencia por parte de China.
 
-[^12]: [Air Defense Identification Zone (Taiwan) — Wikipedia (EN)](<https://en.wikipedia.org/wiki/Air_Defense_Identification_Zone_(Taiwan)>) — La ADIZ de Taiwán, trazada por el ejército estadounidense en 1954, se extiende sobre el continente chino; carece de base en el derecho internacional.
+[^12]: [Air Defense Identification Zone (Taiwan) — Wikipedia (EN)](https://en.wikipedia.org/wiki/Air_Defense_Identification_Zone_(Taiwan) — La ADIZ de Taiwán, trazada por el ejército estadounidense en 1954, se extiende sobre el continente chino; carece de base en el derecho internacional.
 
 [^13]: [Marine Regions — Overlapping claim Taiwan](https://www.marineregions.org/eezdetails.php?mrgid=8321) — Profundidad de la plataforma continental del estrecho de Taiwán y disputas por la superposición de zonas económicas exclusivas.
 
@@ -172,4 +172,4 @@ Desde el mapa de pergamino de Lopo Homem en 1554 hasta el Google Maps de tu tel�
 
 [^18]: [曹永和 — Wikipedia](https://zh.wikipedia.org/zh-hant/%E6%9B%B9%E6%B0%B8%E5%92%8C) — Académico de la Academia Sinica, autodidacta, dominio de ocho idiomas; propuso el concepto de «historia de la isla de Taiwán» en 1990.
 
-[^19]:
+[^19]: [Stepping onto the World Stage — Taiwan Panorama (EN)](https://www.taiwan-panorama.com/en/Articles/Details?Guid=72902122-4b8a-42d6-a8cd-ed66bdb3a601&CatId=7&postname=Stepping+onto+the+World+Stage-Taiwan+on+Old+Maps)

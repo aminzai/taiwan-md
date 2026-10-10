@@ -218,7 +218,7 @@ Y esta isla, después de aquella noche del 15 de enero, aprendió a terminar de 
 
 [^4]: "Sus palabras de disculpa sacudieron las elecciones de Taiwán: la pequeña princesa de la medicina estética del sur, Tzuyu" — _Business Today_ [https://www.businesstoday.com.tw/article/category/80392/post/201601210022/](https://www.businesstoday.com.tw/article/category/80392/post/201601210022/) — Reportaje en profundidad de _Business Today_ 2016, reconstruyendo el incidente desde la cronología del mensaje de Weibo de Huang An y los antecedentes familiares de Tzuyu.
 
-[^5]: [Huang An (artista) — Wikipedia](<https://zh.wikipedia.org/wiki/黃安_(藝人)>) — Entrada de Wikipedia sobre Huang An, con el colapso de su carrera en Taiwán en los años 90, su mudanza a China y la denuncia de 2015 ante la Oficina de Asuntos de Taiwán.
+[^5]: [Huang An (artista) — Wikipedia](https://zh.wikipedia.org/wiki/黃安_(藝人) — Entrada de Wikipedia sobre Huang An, con el colapso de su carrera en Taiwán en los años 90, su mudanza a China y la denuncia de 2015 ante la Oficina de Asuntos de Taiwán.
 
 [^6]: "Análisis completo del incidente de Tzuyu: BBC lo considera un factor en la victoria de Tsai" — _Liberty Times_ [https://news.ltn.com.tw/news/world/breakingnews/1577328](https://news.ltn.com.tw/news/world/breakingnews/1577328) — _Liberty Times_ 2016 citando a BBC en chino, perspectiva de medios internacionales sobre cómo el vídeo de disculpa ayudó a la victoria de Tsai.
 

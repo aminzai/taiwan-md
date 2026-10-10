@@ -101,7 +101,7 @@ La historia del tang tsung es, en esencia, una historia sobre la "resiliencia". 
 
 [^4]: [La tortita de tang tsung es originaria de la región de Chaozhou](https://www.facebook.com/TreasureDo/videos/5630256576993866/) — FB: Treasure Do, 2021
 
-[^5]: [La resistencia crujiente de Taiwán: el "tang tsung" nacido bajo la represión japonesa](https://time.udn.com/udn/time/story/122390/7227349) — UDN Tiempo, 2023: Columna de UDN Tiempo de United Daily News
+[^5]: [La resistencia crujiente de Taiwán: el "tang tsung" nacido bajo la represión japonesa](https://time.udn.com/udntime/story/122390/7227349) — UDN Tiempo, 2023: Columna de UDN Tiempo de United Daily News
 
 [^6]: [¿El origen del tang tsung? ¡Resulta que fue por la opresión japonesa a los taiwaneses!](https://baodao.setn.com/news/669886) — SET News, 2020
 

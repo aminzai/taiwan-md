@@ -192,7 +192,7 @@ Desde la semilla plantada por Lü Quansheng en 1957 hasta el ecosistema completo
 
 [^32]: [La escuela como motor de revitalización local: la historia de colaboración comunitaria entre la Universidad de Pingtung y la Escuela Primaria Xiangtan en el municipio de Xinpi](https://usr.nptu.edu.tw/p/404-1144-147831.php?Lang=zh-tw) — Véase el contenido original del enlace para datos complementarios
 
-[^33]: [«Que los niños se sientan orgullosos de su tierra natal y desarrollen un vínculo con su localidad»: partiendo de Pingtung](https://www.teach4taiwan.org/%E3%80%8C%E8%AE%93%E5%AD%A9%E5%AD%90%E4%BB%A5%E5%AE%B6%E9%84%89%E7%82%BA%E6%A6%AE%EF%BC%8C%E5%B0%8F%E5%9C%B0%E6%96%B9%E7%94%A2%E7%94%9F%E4%BE%9D%E6%88%80%E3%80%8D%E5%BE%9E%E5%B1%8F%E6%9D%B1%E5%87%BA/) — Véase el contenido original del enlace para datos complementarios
+[^33]: [«Que los niños se sientan orgullosos de su tierra natal y desarrollen un vínculo con su localidad»: partiendo de Pingtung](https://www.teach4taiwan.org/%E3%80%8C%E8%AE%93%E5%AD%A9%E5%AD%90%E4%BB%A5%E5%AE%B6%E9%84%89%E7%82%BA%E6%A6%AE%EF%BC%8C%E5%B0%8D%E5%9C%B0%E6%96%B9%E7%94%A2%E7%94%9F%E4%BE%9D%E6%88%80%E3%80%8D%E5%BE%9E%E5%B1%8F%E6%9D%B1%E5%87%BA/) — Véase el contenido original del enlace para datos complementarios
 
 [^34]: [Coro Infantil de Taiwán de una escuela rural vuela a Malasia para cantar por familias y niños vulnerables](https://www.worldvision.org.tw/articles/198) — Véase el contenido original del enlace para datos complementarios
 

@@ -87,8 +87,8 @@ Ha sido escritor residente en la Universidad Nacional de Ciencias y Tecnologías
 
 [^10]: [Ganador del 41.º premio literario - Fundación del Premio Wu Sanlian](https://www.wusanlien.org.tw/products_detail/85)
 
-[^11]: [Deriva en la Corriente Negra, mar y cielo abiertos: Proyecto de Deriva Kuroshio 101 | Anni News - Educación estética](https://aade.project.edu.tw/annetimes/journal/12/%E9%BB%91%E6%BD%AE%E6%BC%82%E6%B5%81%EF%BC%8C%E6%B5%B7%E9%97%8A%E5%A4%A9%E7%A9%BA%EF%BC%8A%E9%BB%91%E6%BD%AE101-%E6%BC%82%E6%B5%81%E8%A8%88%E7%95%AB)
+[^11]: [Deriva en la Corriente Negra, mar y cielo abiertos: Proyecto de Deriva Kuroshio 101 | Anni News - Educación estética](https://aade.project.edu.tw/annetimes/journal/12/%E9%BB%91%E6%BD%AE%E6%BC%82%E6%B5%81%EF%BC%8C%E6%B5%B7%E9%97%8A%E5%A4%A9%E7%A9%BA%EF%BC%9A%E9%BB%91%E6%BD%AE101-%E6%BC%82%E6%B5%81%E8%A8%88%E7%95%AB)
 
 [^12]: [Avanzando hacia la Feria del Libro de Fráncfort 2019: la Isla de las Historias presenta la sabiduría de montañas y mares de Taiwán y su paisaje natural](https://www.moc.gov.tw/News_Content.aspx?n=105&s=55824)
 
-[^13]: [Dispuesto a ser el novio del mar: el escritor pescador Liao Hung-chi - Taiwan Panorama](https://www.taiwan-panorama.com/Articles/Details?Guid=34cd082e-844b-4398-8b0c-e240ae386c95&CatId=8&postname=%E9%A1%98%E5%81%9A%E5%A4%A9%E6%B5%B7%E7%9A%84%E6%96%B0%E9%83%8E%E2%94%80%E2%94%80%E6%BC%81%E5%A4%AB%E4%BD%9C%E5%AE%B6%E5%BB%96%E9%B4%BB%E5%9F%BA&srsltid=AfmBOorsgWpLab9EOqBHhxnx0ghU-RPBi-FLGjn3TVLbcz7q_Dp5PlDx)
+[^13]: [Dispuesto a ser el novio del mar: el escritor pescador Liao Hung-chi - Taiwan Panorama](https://www.taiwan-panorama.com/Articles/Details?Guid=34cd082e-844b-4398-8b0c-e240ae386c95&CatId=8&postname=%E9%A1%98%E5%81%9A%E5%A4%A7%E6%B5%B7%E7%9A%84%E6%96%B0%E9%83%8E%E2%94%80%E2%94%80%E6%BC%81%E5%A4%AB%E4%BD%9C%E5%AE%B6%E5%BB%96%E9%B4%BB%E5%9F%BA&srsltid=AfmBOorsgWpLab9EOqBHhxnx0ghU-RPBi-FLGjn3TVLbcz7q_Dp5PlDx)

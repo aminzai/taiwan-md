@@ -381,7 +381,7 @@ Así que la próxima vez, cuando veas en las noticias titulares como "el cine na
 
 [^57]: [KANO - Wikipedia](https://zh.wikipedia.org/wiki/KANO) — _KANO_ (2014) dirigida por Ma Chih-hsiang, producida por Wei Te-sheng, cuenta la historia del equipo de béisbol de la Escuela Normal de Chiayi que entró al Koshien en 1931.
 
-[^58]: [Taquilla de Those Years / My Girl - Wikipedia](https://zh.wikipedia.org/wiki/%E9%82%A3%E4%BA%9B%E5%B9%B4%EF%BC%8C%E6%88%91%E5%80%91%E4%B8%80%E8%B5%B7%E8%BF%B5%E7%9A%84%E5%A5%B3%E5%AD%A9) — _Those Years, the Girls We Chased Together_ (2011, Nine Chips) 425 millones en todo el país, una de las películas de habla china más taquilleras en la historia de Hong Kong; _Monga_ (2010), _My Girl_ (2015) 410 millones en todo el país.
+[^58]: [Taquilla de Those Years / My Girl - Wikipedia](https://zh.wikipedia.org/wiki/%E9%82%A3%E4%BA%9B%E5%B9%B4%EF%BC%8C%E6%88%91%E5%80%91%E4%B8%80%E8%B5%B7%E8%BF%BD%E7%9A%84%E5%A5%B3%E5%AD%A9) — _Those Years, the Girls We Chased Together_ (2011, Nine Chips) 425 millones en todo el país, una de las películas de habla china más taquilleras en la historia de Hong Kong; _Monga_ (2010), _My Girl_ (2015) 410 millones en todo el país.
 
 [^59]: [Impresión "Película nacional = Veneno de taquilla" - The Reporter / Voicettank](https://www.twreporter.org/) — De las décadas de 1990 a 2007, "Película nacional = Veneno de taquilla" se convirtió en la impresión colectiva general de la sociedad taiwanesa sobre el cine nacional.
 

@@ -89,7 +89,7 @@ En los últimos años, Pingtung ha organizado el "Festival Cultural del Ba-wan",
 
 [^4]: [SET News — Lü Du Taiwán](https://www.youtube.com/watch?v=uTLGJKqZ7pk) — Revelando los orígenes del ba-wan de Beidou, Changhua: la "Gran Inundación de Wuxu" arrasó los campos y el ba-wan resolvió el hambre.
 
-[^5]: [Wikipedia](<https://zh.wikipedia.org/zh-tw/%E8%82%89%E5%9C%93_(%E5%8F%B0%E7%81%A3)>) — Historia y clasificación del ba-wan (Taiwán).
+[^5]: [Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%82%89%E5%9C%93_(%E5%8F%B0%E7%81%A3) — Historia y clasificación del ba-wan (Taiwán).
 
 [^6]: [FoodNext 食力](https://www.foodnext.net/life/culture/paper/5098655128) — ¿Eres del bando crujiente o del suave? Por qué el ba-wan originario de Beidou se volvió triangular.
 

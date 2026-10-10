@@ -133,7 +133,7 @@ Pero ese seudónimo anónimo sigue ahí.
 
 [^3]: [Caso de inversión de Tsung Kuang y resolución bipartidista del Yuan Legislativo - CNA](https://www.cna.com.tw/news/aipl/202507260218.aspx) — Resolución bipartidista del Yuan Legislativo en diciembre de 2015 exigiendo que las adquisiciones en semiconductores sean sometidas a aprobación parlamentaria, con oposición a la inversión directa de capital chino en diseño de semiconductores.
 
-[^4]: [Los "Cuatro Jinetes" anti-Tsung Kuang y la autonomía estratégica de los semiconductores taiwaneses - Common Wealth Magazine](https://www.cw.com/article/article.action?id=5073201) — Los Cuatro Jinetes incluyen a Lin Tsung-nan (NTU), Li Chung-hsien (NCKU), Lin Ying-da (NYCU, exdirector del Centro Nacional de Ciberseguridad) y un periodista veterano, con Hsu Mei-hua en apoyo externo.
+[^4]: [Los "Cuatro Jinetes" anti-Tsung Kuang y la autonomía estratégica de los semiconductores taiwaneses - Common Wealth Magazine](https://www.cw.com.tw/article/article.action?id=5073201) — Los Cuatro Jinetes incluyen a Lin Tsung-nan (NTU), Li Chung-hsien (NCKU), Lin Ying-da (NYCU, exdirector del Centro Nacional de Ciberseguridad) y un periodista veterano, con Hsu Mei-hua en apoyo externo.
 
 [^5]: [Caso ChipMOS devuelto por denegación técnica de la Comisión de Inversiones - Liberty Times](https://ec.ltn.com.tw/article/breakingnews/1890427) — En noviembre de 2016, la Comisión de Inversiones del Ministerio de Asuntos Económicos aplicó una "denegación técnica de revisión" al caso ChipMOS, rechazando de facto la inversión china.
 

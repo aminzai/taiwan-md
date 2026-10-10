@@ -155,11 +155,11 @@ La presencia del Taiwán Blue Magpie sigue siendo alta en la cultura popular. Ad
 
 [^10]: [Oficina de Protección Animal de Taipéi: Aviso de temporada de defensa del nido del magpie](https://www.tcapo.gov.taipei/News_Content.aspx?n=8379633214736340&sms=87401C0B0703816E&s=21146F276536070B) — Recordatorio anual a la población.
 
-[^11]: Idéntico al anterior.
+[^11]: Idéntico al anterior. [台北市動物保護處：藍鵲護巢期請注意](https://www.tcapo.gov.taipei/News_Content.aspx?n=8379633214736340&sms=87401C0B0703816E&s=21146F276536070B)
 
 [^12]: [Asociación de Investigación de Rapaces de Taiwán: Amenazas al Taiwán Blue Magpie](https://www.raptor.org.tw/news_detail.php?id=123) — Relación entre poda urbana y caídas de polluelos.
 
-[^13]: Idéntico al estudio de concurso científico 2023, distancia segura recomendada.
+[^13]: Idéntico al estudio de concurso científico 2023, distancia segura recomendada. [2023 臺灣國際科學展覽會優勝作品專輯](https://twsf.ntsec.gov.tw/activity/race-2/2023/pdf/TISF2023-050007.pdf)
 
 [^14]: [Artículo del Daily Mandarin: El pájaro dios del fuego de la tribu Tsou](https://www.mdnkids.com/news/?Serial_NO=107255) — Detalle del mito del magpie como héroe del fuego.
 
@@ -183,21 +183,21 @@ La presencia del Taiwán Blue Magpie sigue siendo alta en la cultura popular. Ad
 
 [^24]: [Revista clásica: Especies invasoras en Taiwán — El magpie de pico rojo como rival del magpie endémico](https://www.rhythmsmonthly.com/?p=8021) — Análisis de la amenaza genética.
 
-[^25]: Idéntico al centro TESRI: medidas contra el magpie de pico rojo.
+[^25]: Idéntico al centro TESRI: medidas contra el magpie de pico rojo. [特有生物研究保育中心：台灣藍鵲](https://www.tesri.gov.tw/content/detail/111)
 
 [^26]: [Centro de Información Ambiental: Éxito en la captura del magpie de pico rojo (2008)](https://e-info.org.tw/node/34798) — Caso de eliminación de la especie invasora.
 
-[^27]: Idéntico al informe de la Asociación de Rapaces de Taiwán sobre interferencia humana.
+[^27]: Idéntico al informe de la Asociación de Rapaces de Taiwán sobre interferencia humana. [台灣猛禽研究會：台灣藍鵲面臨的威脅](https://www.raptor.org.tw/news_detail.php?id=123)
 
 [^28]: [Ley de Conservación de Vida Silvestre — Base de datos legal nacional](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0120001) — Texto legal sobre sanciones.
 
-[^29]: Idéntico al centro TESRI: falta de estudios climáticos específicos.
+[^29]: Idéntico al centro TESRI: falta de estudios climáticos específicos. [特有生物研究保育中心：台灣藍鵲](https://www.tesri.gov.tw/content/detail/111)
 
 [^30]: [Life‑history theory and the pace of life history evolution — Phil. Trans. Royal Society B 2010](https://royalsocietypublishing.org/doi/10.1098/rstb.2010.0287) — Marco teórico sobre ritmo de vida y adaptación al cambio climático.
 
 [^31]: [Sociedad de Ornitología de la República de China: Programa de ciencia ciudadana de aves de Taiwán](https://www.bird.org.tw/) — Plataforma de reporte de avistamientos.
 
-[^32]: Idéntico al anterior, información sobre cámaras de nidos.
+[^32]: Idéntico al anterior, información sobre cámaras de nidos. [中華民國野鳥學會：台灣鳥類報告與公民科學計畫](https://www.bird.org.tw/)
 
 [^33]: [Ministerio de Agricultura, Departamento de Conservación de Bosques y Vida Silvestre](https://www.forest.gov.tw/) — Avance de la reforma de la Ley de Conservación de Vida Silvestre.
 

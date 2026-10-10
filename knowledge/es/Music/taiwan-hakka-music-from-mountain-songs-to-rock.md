@@ -108,6 +108,6 @@ Por otro lado, la era digital también abre nuevas oportunidades: las plataforma
 
 [^6]: [La 18.ª edición de los Golden Melody Awards, primera vez… Lanza Lin Shengxiang su bomba: rechaza el premio con las manos juntas — Liberty Times](https://ent.ltn.com.tw/news/paper/136087) — Relato del rechazo de Lin Shengxiang en la 18.ª edición de los Golden Melody Awards (2007) y destinatarios de la donación del premio.
 
-[^7]: [Premio al Mejor Álbum en Lengua Hakka (Golden Melody Awards) — Wikipedia](<https://zh.wikipedia.org/zh-tw/最佳客語專輯獎_(金曲獎)>) — Confirma que _Lanhuaqu_ de Situ Rong ganó los premios a Mejor Cantante en Lengua Hakka y Mejor Álbum en Lengua Hakka en la 23.ª edición.
+[^7]: [Premio al Mejor Álbum en Lengua Hakka (Golden Melody Awards) — Wikipedia](https://zh.wikipedia.org/zh-tw/最佳客語專輯獎_\(金曲獎\) — Confirma que _Lanhuaqu_ de Situ Rong ganó los premios a Mejor Cantante en Lengua Hakka y Mejor Álbum en Lengua Hakka en la 23.ª edición.
 
 [^8]: [Sitio web oficial de Hakka TV](https://www.hakkatv.org.tw/) — Confirma el inicio de emisiones en 2003 como primer canal de televisión del mundo que transmite íntegramente en lengua hakka las veinticuatro horas.

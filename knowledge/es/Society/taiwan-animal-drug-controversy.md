@@ -259,7 +259,7 @@ Y esa quizá sea la forma más exacta de cerrar este texto sin cerrarlo del todo
 
 [^5]: [全國法規資料庫：藥事法](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0030001) — 《藥事法》1970 年制定、1979 年首次大幅修正的沿革；第 50 條處方藥品銷售對象限制、第 33 條藥商業務員推銷範圍限制的完整條文。
 
-[^6]: [全國法規資料庫：動物保護法](https://law.moj.gov.tw/LawClass/LawAll.aspx?kw=%E5%8B%95%E7%89%A9%E4%BF%9D%E8%AD%B7%E6%B3%95&pcode=M0060027) — 《動物保護法》第 4 條 2015 年修正條文，新增「動物因治療疾病所需藥品不足時，得由中央主管機關公告准用人用藥品」的法源依據。
+[^6]: [全國法規資料庫：動物保護法](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0130015) — 《動物保護法》第 4 條 2015 年修正條文，新增「動物因治療疾病所需藥品不足時，得由中央主管機關公告准用人用藥品」的法源依據。
 
 [^7]: [法律白話文運動：人藥與水貨，懸掛十年的獸醫界爭議](https://plainlaw.me/subject/Human-medicine-parallel-goods-and-the-veterinarian-community) — 2012 年動物偽藥案的始末、獸醫用藥產業結構的歷史分析、水貨藥與人用藥長期流通的背景資料。
 
@@ -281,7 +281,7 @@ Y esa quizá sea la forma más exacta de cerrar este texto sin cerrarlo del todo
 
 [^16]: [TVBS：打開潘朵拉盒！控獸醫用禁藥 高嘉瑜遭轟「搞錯重點」道歉](https://news.tvbs.com.tw/politics/1780846) — 2022 年 4 月底立委高嘉瑜在臉書貼文指控獸醫違法用藥的事件始末、後續刪文道歉的完整記錄。
 
-[^17]: [自由時報：高嘉瑜控獸醫違法用藥挨轟 刪文仍遭炎上 律師點出現實困境（可檢索存錄頁）](https://vet639.url.tw/News/news23.htm) — 高嘉瑜事件在飼主社群與獸醫社群引發的圍剿反應、律師對法律現實困境的分析、以及「立委妳會害死我們救的狗」等飼主直接反應的紀錄。
+[^17]: [自由時報：高嘉瑜控獸醫違法用藥挨轟 刪文仍遭炎上 律師點出現實困境（可檢索存錄頁）](https://news.ltn.com.tw/news/politics/breakingnews/3911411) — 高嘉瑜事件在飼主社群與獸醫社群引發的圍剿反應、律師對法律現實困境的分析、以及「立委妳會害死我們救的狗」等飼主直接反應的紀錄。
 
 [^18]: [NOWnews：質詢引發獸醫用藥爭議 高嘉瑜：意外打開潘朵拉的盒子](https://www.nownews.com/news/5791663) — 高嘉瑜事件後接受訪問的反省，正式承認「打開了潘朵拉的盒子」的立委原話。
 
@@ -291,9 +291,9 @@ Y esa quizá sea la forma más exacta de cerrar este texto sin cerrarlo del todo
 
 [^21]: [ETtoday 寵物雲：高嘉瑜控獸醫違法用藥急開會議 承諾飼主「醫院不給藥可聯絡我」](https://pets.ettoday.net/news/2242745) — 高嘉瑜承諾飼主「醫院不給藥可聯絡我」的政治補丁紀錄、以及跨部會協調會議三項共識的具體內容。
 
-[^22]: [自由時報：禁藥害狗喪命獸醫被判首例 飼主：法院還公道](https://reurl.cc/VYN3Zy) — 2024 年 8 月台北地方法院對 Angel 案作出判決，成為台灣首例因使用未經核准動物用藥致動物死亡而被判有罪的獸醫案，林女士獲頒首筆動物用藥檢舉獎金 15 萬元。
+[^22]: [自由時報：禁藥害狗喪命獸醫被判首例 飼主：法院還公道](https://news.ltn.com.tw/news/life/breakingnews/4987973) — 2024 年 8 月台北地方法院對 Angel 案作出判決，成為台灣首例因使用未經核准動物用藥致動物死亡而被判有罪的獸醫案，林女士獲頒首筆動物用藥檢舉獎金 15 萬元。
 
-[^23]: [自由時報：禁藥害狗喪命獸醫被判首例 飼主：法院還公道](https://reurl.cc/VYN3Zy) — 林女士「Angel 陪了我很多年，現在法院給了我們兩個公道」的原話出處，以及 Palladia 未經核准用藥與急性腎衰竭致死的案情細節。
+[^23]: [自由時報：禁藥害狗喪命獸醫被判首例 飼主：法院還公道](https://news.ltn.com.tw/news/life/breakingnews/4987973) — 林女士「Angel 陪了我很多年，現在法院給了我們兩個公道」的原話出處，以及 Palladia 未經核准用藥與急性腎衰竭致死的案情細節。
 
 [^24]: [農業部防檢署：寵物緊急需用人藥治療平臺](https://www.aphia.gov.tw/ws.php?id=21064) — 2024 年 2 月 26 日《人用藥品用於犬貓及非經濟動物之使用管理辦法》正式版公告、兩年緩衝期、2026 年 7 月 1 日實施日期的官方文件紀錄。
 
