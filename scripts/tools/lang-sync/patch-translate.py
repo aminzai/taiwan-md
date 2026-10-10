@@ -79,6 +79,7 @@ REPO = SCRIPT_DIR.parent.parent.parent
 KNOWLEDGE = REPO / "knowledge"
 
 sys.path.insert(0, str(SCRIPT_DIR))
+from contributor_guard import ContributorGuard         # noqa: E402 — OBSERVER-QUEUE #67 人翻譯文不原地 patch
 st = import_module("structured-translate")             # backend / Phase F / Phase B / Phase N helpers
 status_mod = import_module("status")                    # body_hash / body_hash_pure canonical (見上方 docstring)
 cjkleak = import_module("cjk-leak-check")
@@ -625,6 +626,18 @@ def main() -> int:
     if trans_path is None or not trans_path.exists():
         print(f"⏩ no existing {args.lang} translation for {args.zh_path} — not patchable")
         return 2
+    # OBSERVER-QUEUE #67（2026-10-10 哲宇拍板 B）：現行譯文是人翻的、或被開著的投稿 PR
+    # 碰到，局部 patch 也不准在原地改——這條路徑正是 steve-chen 那次把 1,65 Milliarden
+    # 改成 165 Millionen 的入口。dispatcher 排佇列時已擋過；這裡是手動跑時的門。
+    # exit=3 刻意不是 2：2 是「不適用、整篇重翻接手」，3 是「不准動」。
+    guard = ContributorGuard(log=lambda m: print(m, file=sys.stderr))
+    if not args.out or Path(args.out).resolve() == trans_path.resolve():
+        zh_sha_now = subprocess.run(["git", "log", "-1", "--format=%h", "--", zh_rel],
+                                    cwd=REPO, capture_output=True, text=True).stdout.strip()
+        d = guard.check(args.lang, args.zh_path, "stale", str(trans_path.relative_to(REPO)), zh_sha=zh_sha_now)
+        if not d.ok:
+            print(f"🙅 refusing to patch {trans_path.relative_to(REPO)} in place ({d.reason}: {d.detail}) — OBSERVER-QUEUE #67")
+            return 3
     trans_content = trans_path.read_text(encoding="utf-8")
 
     # 2026-09-21：既有譯文根本不是目標語言時（OBSERVER-QUEUE #53 那 65 篇英文
