@@ -34,6 +34,7 @@ relatedDiary: ['2026-07-16-213425-highered-evolve']
 translatedFrom: 'Society/台灣高等教育擴張與退場.md'
 sourceCommitSha: 'fa44ba5a9'
 sourceContentHash: 'sha256:75def73de8a38979'
+sourceBodyHash: 'sha256:fc5314c473c1914f'
 translatedAt: '2026-09-25T13:54:34.409049+00:00'
 ---
 

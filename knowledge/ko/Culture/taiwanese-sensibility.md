@@ -36,6 +36,7 @@ relatedDiary: ['2026-07-18-104133-taiwan-sensibility']
 translatedFrom: 'Culture/台灣感性.md'
 sourceCommitSha: '54ed6c788'
 sourceContentHash: 'sha256:a0b11837fcf7283d'
+sourceBodyHash: 'sha256:71edee5e89546764'
 translatedAt: '2026-09-26T03:25:06.210379+00:00'
 ---
 

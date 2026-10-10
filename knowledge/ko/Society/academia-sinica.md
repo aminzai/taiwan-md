@@ -31,6 +31,7 @@ rationale:
 translatedFrom: 'Society/中央研究院.md'
 sourceCommitSha: '6fbe01217'
 sourceContentHash: 'sha256:718e4da0518930ba'
+sourceBodyHash: 'sha256:4d2bd2c6c8f39bfa'
 translatedAt: '2026-09-24T17:25:22.601374+00:00'
 ---
 
