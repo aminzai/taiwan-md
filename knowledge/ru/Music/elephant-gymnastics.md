@@ -27,9 +27,10 @@ imageCredit: 'TurquoiseGoose / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Elephant_Gym_Portland_2024.jpg'
 translatedFrom: 'Music/大象體操.md'
-sourceCommitSha: '8547b2665'
-sourceContentHash: 'sha256:71cdc104f7f3b8f4'
-translatedAt: '2026-09-14T02:37:37.266250+00:00'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:f9e17206eee03c4e'
+sourceBodyHash: 'sha256:b2179659aae39566'
+translatedAt: '2026-10-10T04:55:02.572626+00:00'
 ---
 
 # Elephant Gym: тайваньская тройка, где никто не поёт, но песню всё равно слышно
