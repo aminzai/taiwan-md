@@ -17,6 +17,11 @@ readingTime: '22'
 lastVerified: '2026-04-07'
 lastHumanReview: 'true'
 featured: true
+sporeLinks:
+  - id: 10
+    platform: 'threads'
+    date: '2026-04-07'
+    url: 'https://www.threads.com/@taiwandotmd/post/DW1ba_tEz5D'
 translatedFrom: 'History/台灣民主轉型.md'
 sourceCommitSha: 'dbaf28954'
 sourceContentHash: 'sha256:a9330a2eb23d9c97'
