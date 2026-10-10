@@ -3,16 +3,24 @@ title: 'Brigitte Lin'
 description: 'Von der Königin der Qiong-Yao-Filme zur Martial-Arts-Legende – die legendäre Schauspielerin der chinesischsprachigen Filmwelt'
 date: 2026-03-19
 category: 'People'
-tags: ['Brigitte Lin', 'Schauspielerin', 'Qiong-Yao-Film', 'Dongfang Bubai', 'Chinesischsprachiger Film']
+tags:
+  [
+    'Brigitte Lin',
+    'Schauspielerin',
+    'Qiong-Yao-Film',
+    'Dongfang Bubai',
+    'Chinesischsprachiger Film',
+  ]
 subcategory: '電影與戲劇'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/林青霞.md'
-sourceCommitSha: '7415dcaae'
-sourceContentHash: 'sha256:1cf2fb3e09198e22'
-translatedAt: '2026-08-13T03:45:00+08:00'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:d90dfbfec4a44a23'
+sourceBodyHash: 'sha256:12badc0094297f08'
+translatedAt: '2026-10-10T08:08:26.089993+00:00'
 ---
 
 # Brigitte Lin: Von der Liebesfilm-Göttin zur Martial-Arts-Legende
@@ -131,7 +139,7 @@ Die jüngere Generation lernt ihren Reiz über die alten Klassiker kennen – ei
 
 ## Weiterführende Lektüre
 
-- [Sanmao](/People/三毛): Drehbuchautorin von „Rotes Staubmeer“ (滾滾紅塵), die Brigitte Lin den Golden Horse Award als beste Hauptdarstellerin einbrachte
+- [Sanmao](/people/三毛): Drehbuchautorin von „Rotes Staubmeer“ (滾滾紅塵), die Brigitte Lin den Golden Horse Award als beste Hauptdarstellerin einbrachte
 
 ## Referenzen
 
@@ -140,7 +148,11 @@ Die jüngere Generation lernt ihren Reiz über die alten Klassiker kennen – ei
 - [Dongfang Bubai – Hong Kong Film Awards Association](https://www.hkfaa.com/) – Bewertung klassischer Werke
 
 [^1]: Wikipedia-Artikel „Brigitte Lin“: Sung Tsun-shou war der Regisseur, der sie für die Hauptrolle in „Jenseits des Fensters“ (1973) einlud. https://zh.wikipedia.org/wiki/林青霞
+
 [^2]: „Jenseits des Fensters“ (1973), Regie Sung Tsun-shou, Brigitte Lins erste Hauptrolle, nach dem gleichnamigen Roman von Qiong Yao. Werkdaten des Taiwan Film Institute: https://taiwancinema.bamid.gov.tw/
+
 [^3]: Nach der Hochzeit mit dem Hongkonger Geschäftsmann Michael Ying am 29. Juni 1994 zog sich Brigitte Lin schrittweise aus der Unterhaltungsbranche zurück; siehe Wikipedia-Artikel „Brigitte Lin“ <https://zh.wikipedia.org/wiki/%E6%9E%97%E9%9D%92%E9%9C%9E>
+
 [^4]: „Swordsman II: Dongfang Bubai“ (1992), Regie Tsui Hark, Brigitte Lin als Dongfang Bubai, Archiv des Hong Kong Film Archive. https://www.filmarchive.gov.hk/
+
 [^5]: Brigitte Lin, „Von jenseits des Fensters“ (窗裡窗外), Tiandi Bücher, 2011. Das Buch ist ihre wichtigste Essaysammlung und erhielt positive literarische Bewertungen. <https://www.books.com.tw/products/0010512315>

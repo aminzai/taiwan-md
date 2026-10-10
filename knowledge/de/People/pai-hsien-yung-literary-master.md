@@ -1,99 +1,104 @@
 ---
-title: 'Pai Hsien-yung: von „Menschen von Taipei“ 1971 bis zur 20-jährigen Tournee von „Der Päonien-Pavillon“ in der Jugendfassung'
-description: '1937 in Guilin, Guangxi, geboren, Sohn von Pai Chung-hsi. 1956 Studium der Außensprachen an der National Taiwan University, Mitbegründer der Zeitschrift „Moderne Literatur“ zusammen mit Wang Wen-hsing u.a. 1971 „Menschen von Taipei“ (14 Kurzgeschichten). 1983 „Crystal Boys“ (孽子). 2003 Start der Jugendfassung des „Päonien-Pavillons“, Uraufführung April 2004, 2024 20-jähriges Jubiläum. 2003 National Art Award.'
+title: 'Bai Hsiao-yong: „Taiwan People“ 1971, bis zur Jugend-Version der Peach Blossom Festival 20. Jahresrunde'
+description: '1937 geboren in Guilin, Guangxi, Sohn von Bai Chongxi. 1956 TaiwUniversität Romanistik, mit Wang Wenxing und anderen gründete „Moderne Literatur“. 1971 14 Kurzgeschichten „Taiwan People“. 1983 „Illegitimer Sohn“. 2003 startete Jugendversion des Peach Blossom Festivals, April 2004 Premiere, 2024 20. Jahresrunde. 2003 Staatspreis für Literatur.'
 date: 2026-03-19
 category: 'People'
-tags: ['Literatur', 'Moderne Literatur', 'Menschen von Taipei', 'Crystal Boys', 'Kunqu', 'Pai Chung-hsi']
+tags:
+  [
+    'Literatur',
+    'Moderne Literatur',
+    'Taiwan People',
+    'Illegitimer Sohn',
+    'Kund Kunst',
+    'Bai Chongxi',
+  ]
 subcategory: '文學'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
-# design_rationale:
-#   why_this_hook: "Von „Menschen von Taipei“ bis zur Jugendfassung des Päonien-Pavillons – seine Karriere überbrückt zwei Höhepunkte: den modernen Roman und das traditionelle Theater; die Zeitachse selbst ist die Geschichte."
-#   whats_excluded: "Einzelanalysen der Kurzgeschichten; technische Kunqu-Details; politische Familiengeschichte im Detail"
-#   where_it_hedges: "Die Illusion des „Siebtplatz-Jurypreises des Roten Turms-Preises 2018“ wurde entfernt (Gewinner jener Runde waren „Qing Fu Zi“ und „Wang Chunfeng“, nicht Pai Hsien-yung); der Chung-shan-Literaturpreis konnte nicht verifiziert werden (entfernt, maßgeblich der National Art Award 2003)"
 translatedFrom: 'People/白先勇.md'
-sourceCommitSha: '7415dcaae'
-sourceContentHash: 'sha256:f52e9861970f1c2f'
-translatedAt: '2026-08-13T06:00:00+08:00'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:d675a47ee18feb3d'
+sourceBodyHash: 'sha256:44085a78b193e440'
+translatedAt: '2026-10-10T12:07:03+08:00'
 ---
 
-# Pai Hsien-yung: von „Menschen von Taipei“ 1971 bis zur 20-jährigen Tournee des „Päonien-Pavillons“ in der Jugendfassung
+# Bai Hsiao-yong: „Taiwan People“ 1971, bis zur Jugend-Version der Peach Blossom Festival 20. Jahresrunde
 
-> **30-Sekunden-Überblick:** Pai Hsien-yung wurde 1937 in Guilin, Guangxi, geboren; sein Vater war der KMT-Generalshochrangige Pai Chung-hsi.[^1] 1952 zog die Familie nach Taiwan, 1956 studierte er Außensprachen an der National Taiwan University und gründete mit Wang Wen-hsing, Chen Ruoxi u.a. die Zeitschrift „Moderne Literatur“ (現代文學). Im April 1971 erschien der Kurzgeschichtenband „Menschen von Taipei“ (台北人) mit 14 Erzählungen[^1]; 1983 „Crystal Boys“ (孽子). 2003 begann die Planung des Jugend-„Päonien-Pavillons“, Uraufführung April 2004 in Taipeh, 2024 feierte die Tournee ihr 20-jähriges Jubiläum.[^2] 2003 wurde ihm der National Art Award verliehen.[^3] 2026 ist er weiterhin aktiv.[^4]
+> **30 Sekunden Überblick:** Bai Hsiao-yong wurde 1937 in Guilin, Guangxi geboren, sein Vater war ein hoher Offizier der Kuomintang, Bai Chongxi.[^1] 1952 zog er mit seiner Familie nach Taiwan und besuchte die National Chungcheng Middle School. 1956 trat er in das Romanistik-Institut der Nationaluniversität Taiwans ein und traf den einflussreichen Lehrer Xia Ji'an.[^1] Während seines Studiums gründete er mit Wang Wenxing, Chen Ruoxi und anderen das Literaturmagazin „Moderne Literatur“ und wurde ein wichtiger Knotenpunkt der taiwanesischen Moderne-Literatur-Bewegung.
 
 ## 1937 Guilin, 1952 Taiwan
 
-Pai Hsien-yung wurde 1937 in Guilin, Guangxi, geboren und reiste in seiner Kindheit im Krieg mit dem militärischen Umfeld seines Vaters umher.[^1] 1952 zog er mit der Familie nach Taiwan und besuchte die Jianguo Senior High School.
+Bai Hsiao-yong wurde 1937 in Guilin, Guangxi geboren und verbrachte seine Kindheit in den Kriegszeiten, wo er mit seinem militärischen Vater durch verschiedene Orte zog.[^1] 1952 zog er mit seiner Familie nach Taiwan und besuchte die National Chungcheng Middle School.
 
-1956 trat er in die Abteilung für Außensprachen der National Taiwan University ein und traf dort seinen lebenslang prägenden Lehrer Hsia Tsi-an.[^1] Während des Studiums gründete er zusammen mit Wang Wen-hsing, Chen Ruoxi u.a. die Zeitschrift „Moderne Literatur“ – ein wichtiger Knotenpunkt der taiwanesischen Bewegung für moderne Literatur.
+1956 trat er in das Romanistik-Institut der Nationaluniversität Taiwans ein und traf den einflussreichen Lehrer Xia Ji'an.[^1] Während seines Studiums gründete er mit Wang Wenxing, Chen Ruoxi und anderen das Literaturmagazin „Moderne Literatur“ und wurde ein wichtiger Knotenpunkt der taiwanesischen Moderne-Literatur-Bewegung.
 
-Die Bedeutung von „Moderne Literatur“ reicht über eine Zeitschrift hinaus: Sie führte systematisch den westlichen Modernismus (Kafka, Woolf, Joyce) ins Blickfeld der taiwanesischen Leserschaft ein und führte zugleich einen Dialog mit der Tradition der Bai-Hua-Literatur der Vierten-Mai-Bewegung. Pai Hsien-yungs spätere Erzähltechnik entstand zu großen Teilen in der Explorationsphase dieser Zeitschrift.
+Die Bedeutung von „Moderne Literatur" geht über ein einfaches Magazin hinaus: Es brachte systematisch westliche Moderne (Kafka, Woolf, Joyce) in den taiwanesischen Leserfokus und führte einen Dialog mit der traditionellen Literatur der May-Fourth-Bewegung. Viel von Bai Hsiao-yongs späteren Erzähltechniken wurden in dieser Zeitschrift entwickelt.
 
-## „Menschen von Taipei“: 14 Kurzgeschichten und eine Suite über das Exil
+## „Taiwan People": 14 Kurzgeschichten und eine Flucht-Poesie
 
-Im April 1971 erschien die Erstausgabe von „Menschen von Taipei“.[^1] Die 14 Kurzgeschichten beschreiben die Lebensumstände von Menschen, die vom Festland nach Taiwan kamen: gescheiterte Generäle, enttäuschte Künstler, einsame Alte – jede trägt eine andere historische Erinnerung.
+April 1971 erschien „Taiwan People".[^1] Die 14 Kurzgeschichten schildern das Leben einer Gruppe von Menschen, die aus dem Festland nach Taiwan ausgewandert sind: ein heruntergekommener General, ein enttäuschter Künstler, ein einsamer alter Mann, jeder mit seiner eigenen historischen Erinnerung.
 
-Repräsentative Stücke sind „Die ewig junge Yin Xue-yan“ (永不衰老的交際花) und „Die letzte Nacht der Drachentante Chin“ (舞廳天后的告別之夜).[^1]
+Zu den wichtigsten Erzählungen gehören „Die ewige Yu Xueyan" (die unsterbliche Gesellschaftsdame) und „Die letzte Nacht von Jin Daban" (das Abschiedsduett der Bühnenkönigin).[^1]
 
-Die 14 Erzählungen von „Menschen von Taipei“ sind keine Sammlung unabhängiger Geschichten, sondern eine als „Exil“ betitelte Suitenstruktur: vom Festland nach Taiwan, von der Geschichte in die Gegenwart, von der Jugend ins Alter. Jede Figur ist eine Variation dieses Themas. Diese suitenartige Großform war in der taiwanesischen Literatur bahnbrechend.
+Die 14 Geschichten von „Taiwan People" sind keine eigenständigen Erzählungen, sondern eine Poesie-Struktur mit dem Thema "Flucht": vom Festland nach Taiwan, von der Geschichte in die Gegenwart, von der Jugend ins Alter. Jeder Charakter ist eine andere Variante dieses Themas. Diese Poesie-ähnliche Langform-Struktur war in der taiwanesischen Literatur bahnbrechend.
 
-## „Crystal Boys“: Die Randständigen-Erzählung vom Neuen Park
+## „Illegitimer Sohn": Marginalisierte Erzählungen im New Park
 
-1983 erschien „Crystal Boys“.[^1] Vor dem Hintergrund des Neuen Parks von Taipeh beschreibt der Roman das Leben homosexueller Gruppen, die von der Mehrheitsgesellschaft an den Rand gedrängt wurden. Es ist der erste lange Roman in der Geschichte der taiwanesischen Literatur, der diese Gruppe frontal zum Thema macht.
+1983 erschien „Illegitimer Sohn".[^1] Hintergrund ist der New Park in Taipeh, wo das Leben einer marginalisierten gleichgeschlechtlichen Gemeinschaft geschildert wird. Dies ist der erste Roman in der taiwanesischen Literatur, der dieses Thema direkt und positiv behandelt.
 
-Die historische Bedeutung von „Crystal Boys“ reicht über die Literatur hinaus: Es war das erste Mal, dass die taiwanesische Literaturszene 1983 dieser Gruppe einen so vollständigen Erzählraum gab – mit Mitgefühl statt Pathologisierung. Pais eigene sexuelle Orientierung wurde erst nach der Veröffentlichung allmählich öffentlich bekannt, aber dieses Buch stand schon vorher weiter vorn als die Gesellschaftsmeinung.
+Die historische Bedeutung von „Illegitimer Sohn" geht über das literarische Feld hinaus: 1983 gab es in der taiwanesischen Literatur zum ersten Mal so viel Raum für eine solche Erzählung über gleichgeschlechtliche Gemeinschaften, und die Haltung war mitmenschlich statt krankhaft. Bai Hsiao-yongs sexuelle Orientierung wurde erst nach der Veröffentlichung allmählich bekannt, aber das Buch hatte bereits eine Vorreiterrolle eingenommen.
 
-Der „Neue Park von Taipeh“ (der heutige 228-Friedensgedächtnispark) ist in „Crystal Boys“ ein Zufluchtsort der Marginalisierten. Die Wahl des Ortes trägt historisches Gewicht: Dieser Park zeichnet zugleich die Geschichte politischer Verfolgung und urbaner Marginalisierung auf und wurde zu einem einzigartigen räumlichen Symbol für Pais Schreiben über die Nachkriegsgeschichte Taiwans.
+Der „New Park" in Taipeh (heute das 228 Friedensgedächtnis-Park) dient in „Illegitimer Sohn" als Zuflucht für marginalisierte Menschen. Die Wahl des Ortes trägt historisches Gewicht: Der Park steht gleichermaßen für politische Verfolgung und städtische Marginalisierung und wird von Bai Hsiao-yong zu einem einzigartigen Symbol für die taiwanesische Nachkriegsgeschichte.
 
-## Planung 2003, Uraufführung April 2004: Der Jugend-„Päonien-Pavillon“
+## 2003 Planung, April 2004 Premiere: Jugendversion des Peach Blossom Festivals
 
-2003 startete Pai Hsien-yung die Planung des Jugend-„Päonien-Pavillons“ (青春版《牡丹亭》) – von der Drehbuchbearbeitung bis zur Schauspielerauswahl, er war durchgehend beteiligt.[^2] Im April 2004 folgte die Uraufführung in Taipeh. Danach tourte das Stück durch die beiden Seiten der Straße und weitere Orte, mit über 300 Aufführungen und mehr als 600.000 Zuschauern.
+2003 startete Bai Hsiao-yong die Planung der Jugendversion des Peach Blossom Festivals, von der Skizze bis zur Besetzung, und beteiligte sich aktiv daran.[^2] Im April 2004 fand die Premiere in Taipeh statt. Danach wurde das Stück in Taiwan, auf dem chinesischen Festland und in Hongkong aufgeführt, mit über 300 Vorstellungen und mehr als 600.000 Zuschauern.
 
-Die Bedeutung des Jugend-„Päonien-Pavillons“ liegt darin, dass er eines bewies: Die zeitgenössische Weitergabe klassischer Kultur braucht keine Verdünnung durch Populärisierung, sondern kann junge Generationen von selbst eintreten lassen, wenn die künstlerische Präsentation hochwertig ist. Pai wählte junge Suzhou-Kunqu-Darsteller Anfang zwanzig – kein Kompromiss an den Markt, sondern eine langfristige Investition in die Lebenskraft des Kunqu.
+Die Bedeutung der Jugendversion des Peach Blossom Festivals liegt darin, dass sie beweist: Die moderne Vermittlung klassischer Kultur erfordert keine Vereinfachung, sondern kann durch hochwertige künstlerische Präsentation junge Zuschauer natürlich ansprechen. Bai Hsiao-yong wählte 20-jährige junge Kund-Künstler nicht aus Markt-Kompromissen, sondern als langfristige Investition in das Lebenskraft des Kund-Theaters.
 
-(Anmerkung: Heißt es in einem Text „Beginn 2004“, ist das als Uraufführung im April 2004 zu verstehen; die Planung begann tatsächlich 2003.)
+(Anmerkung: Wenn der Text „ab 2004" sagt, ist das zu verstehen als April 2004 Premiere; die Planung begann jedoch bereits 2003.)
 
-**Gängige Lesart → präzisere Lesart:** Pai Hsien-yung wird oft als „der Autor von Menschen von Taipei“ verortet – dieses Etikett verdeckt die wichtigste Wende der zweiten Hälfte seiner Karriere. Ab 2003 verbrachte er mehr Zeit mit der Bewahrung des Kunqu als mit dem Schreiben von Romanen. Nicht die von außen beschriebene „Umbildung“, sondern in seinen eigenen Worten: „Zurückgehen und Schulden zurückzahlen“ – jener Erinnerung an das Kunqu, das er in seiner Kindheit in Shanghai gehört hatte, eine vollständige Antwort geben.
+**Gängige Formulierung → präzisere Lesart:** Bai Hsiao-yong wird oft als „Autor von Taiwan People" beschrieben, doch dieser Titel verdeckt die wichtigste Wendung seiner Karriere. Nach 2003 verbrachte er mehr Zeit mit der Rettung des Kund-Theaters als mit der Schreiberei. Das ist keine äußere Umorientierung, sondern, wie er es ausdrückt: „Rückzahlung", eine vollständige Abrechnung mit seiner Kindheits-Erinnerung an das Kund-Theater in Schanghai.
 
-## Der National Art Award: die offizielle Bestätigung eines halben Jahrhunderts Schreiben
+## Staatspreis für Literatur: Offizielle Anerkennung eines halben Jahrhunderts
 
-2003 erhielt Pai Hsien-yung den National Art Award.[^3]
+2003 erhielt Bai Hsiao-yong den Staatspreis für Literatur.[^3]
 
-Dieser Preis ist die offizielle Bestätigung seiner vollständigen Karriere von der modernen Novelle bis zur Kunqu-Bewahrung durch die taiwanesische Literaturszene. Von der ersten Übungserzählung der 1950er-Jahre bis zur repräsentativen Figur der chinesischen Literatur ein halbes Jahrhundert später – Pais Schaffen riss nie ab.
+Dieser Preis ist eine offizielle Anerkennung seiner gesamten Karriere von der modernen Erzählung bis zur Rettung der traditionellen Kultur. Von seinem ersten Werk in den 1950er Jahren bis er zum repräsentativen Kulturschöpfer der chinesischen Literatur wurde, hat Bai Hsiao-yong stets Kontinuität bewahrt.
 
-(Anmerkung: „Chung-shan-Literaturpreis“ und „Jurypreis der 7. Roter-Turm-Runde 2018“ sind beide nicht bestätigbar. Letzteres ist eine Illusion: Die Gewinner der siebten Runde des Hong-lou-meng-Preises (2018) waren „Qing Fu Zi“ und „Wang Chunfeng“, nicht Pai Hsien-yung.[^5])
+(Anmerkung: „Sun Yat-sen Literaturspreis" und „2018, 7. Ausgabe des Loulu-Mei-Preises, Jury" können nicht bestätigt werden. Letzteres ist ein Illusion: Der 7. Loulu-Mei-Preis (2018) ging an „Qingfengzi" und „Wang Chunfeng", nicht an ein Werk von Bai Hsiao-yong.[^5])
 
-## 20 Jahre Jugend-„Päonien-Pavillon“ und „Zwanzig Jahre Päonienblüte“
+## 20. Jahresrunde des Peach Blossom Festivals und „Peach Blossom Blüte 20 Jahre"
 
-Im September 2024 startete die 20-Jahre-Tournee des Jugend-„Päonien-Pavillons“.[^2] Im November desselben Jahres erschien „Zwanzig Jahre Päonienblüte“ (牡丹花開二十年), das die zwanzigjährige Aufführungsgeschichte dokumentiert.
+September 2024 begann die 20. Jahresrunde des Jugend-Peach Blossom Festivals.[^2] Im November 2024 erschien „Peach Blossom Blüte 20 Jahre", ein Buch über die 20-jährige Geschichte der Aufführungen.
 
-Im Oktober 2025 veranstaltete die National Taiwan University eine Literatur-Sonderausstellung zu Pai Hsien-yung.[^4] 2026 ist Pai weiterhin aktiv.
+Oktober 2025 organisierte die Nationaluniversität Taiwans eine Sonderausstellung zu Bai Hsiao-yongs Literatur.[^4] 2026 ist Bai Hsiao-yong weiterhin aktiv.
 
-Die 20-Jahre-Tournee 2024 führte über mehrere Städte wie Taipeh, Hongkong und Suzhou; „Zwanzig Jahre Päonienblüte“ dokumentiert den vollständigen Weg dieses Kulturprojekts von der Uraufführung bis zu den wichtigen Meilensteinen.
+Die 20. Jahresrunde des Peach Blossom Festivals fand in Taipeh, Hongkong, Suzhou und anderen Städten statt. „Peach Blossom Blüte 20 Jahre" dokumentiert den vollständigen Prozess von der Premiere bis zu den wichtigsten Meilensteinen.
 
-2026 tritt Pai Hsien-yung weiter öffentlich auf und fördert Kunqu-Kultur und Literaturbildung. Dieses Weitermachen selbst ist eine Erklärung gegen das Verschwinden.
+2026 ist Bai Hsiao-yong weiterhin in der Öffentlichkeit aktiv und setzt sich weiterhin für die Förderung von Kund-Kultur und Literaturbildung ein. Dieses Fortbestehen ist selbst eine Erklärung gegen das Vergessen.
 
-> 🎙️ **Kuratorennotiz:** Pai Hsien-yung ist einer der seltenen Schöpfer in der Geschichte der taiwanesischen Literatur, die als „moderner Romancier“ begannen und als „Wiederbeleber traditioneller Kultur“ endeten. Dieser Bogen ist keine Umbildung im üblichen Sinn, sondern eine Vertiefung. Die Sehnsucht nach dem Verschwinden in „Menschen von Taipei“ und die Bewahrung des Kunqu im Jugend-„Päonien-Pavillon“ entstammen derselben Problemstellung: Wie lässt man das Wertvolle nicht verschwinden?
+> 🎙️ **Kuratorische Notiz:** Bai Hsiao-yong ist einer der wenigen Schriftsteller in der taiwanesischen Literatur, die mit „ moderner Erzähler" begannen und mit „Traditionskulturrevitalisierung" enden. Diese Entwicklung ist keine einfache Umorientierung, sondern eine Vertiefung. Die Sehnsucht nach dem Vergessen in „Taiwan People" und die Rettung des Kund-Theaters in der Jugendversion des Peach Blossom Festivals stammen aus derselben Frage: Wie können wertvolle Dinge nicht verschwinden?
 >
-> Sein Erfolg zeigt, dass Kulturerhalt nicht musealisiert und auch nicht populärisiert werden muss. Es braucht einen Menschen mit ausreichend künstlerischem Niveau und genug Beharrlichkeit, der es fortwährend gut genug macht.
+> Sein Erfolg zeigt, dass kulturelle Erhaltung weder museal noch vereinfacht sein muss. Es braucht nur eine Person mit genügend künstlerischer Disziplin und Ausdauer, die es kontinuierlich und mit höchster Qualität tut.
 >
-> „Crystal Boys“ und der Jugend-„Päonien-Pavillon“ (eines brach 1983 das Schweigen, das andere belebte 2004 die Klassik) scheinen völlig verschieden, entstammen aber derselben tiefen Fürsorge für das Marginalisierte.
+> „Illegitimer Sohn" und die Jugendversion des Peach Blossom Festivals (eines, das 1983 Stille brach, das andere, das 2004 das Klassische lebendig machte), scheinen völlig verschieden, doch beide stammen aus derselben tiefen Fürsorge für marginalisierte Dinge.
 
-Von Guilin, Guangxi, bis zum Neuen Park in Taipeh, von „Moderne Literatur“ bis zur Suzhou-Kunqu-Bühne: Pais sechzigjährige Spur ist die Probe eines Menschen, der an der Sache „Erinnerung“ nie losließ.
+Von Guilin in Guangxi bis zum New Park in Taipeh, von „Moderne Literatur" bis zum Kund-Theater in Suzhou – Bai Hsiao-yongs 60-jährige Laufbahn ist das Beispiel einer Person, die sich weigert, die Hand an „Erinnerung" zu geben.
 
-**Weiterführende Lektüre:** [Pai Hsien-yung – Wikipedia](https://zh.wikipedia.org/wiki/白先勇) ｜ [National Art Award: Pais Auszeichnungsrekord](https://www.ncafroc.org.tw/artsaward/winnerDetail@1229) ｜ [Nationalmuseum für taiwanesische Literatur](https://www.nmtl.gov.tw/) ｜ [Sanmao](/People/三毛): Pai Hsien-yung empfahl ihr Debüt „Verwirrung“ zur Veröffentlichung in „Moderne Literatur“
+**Weiterführende Literatur:** [Bai Hsiao-yong — Wikipedia](https://zh.wikipedia.org/wiki/白先勇) | [Staatspreis für Literatur: Bai Hsiao-yong](https://www.ncafroc.org.tw/artsaward/winnerDetail@1229) | [Nationales Museum der taiwanesischen Literatur](https://www.nmtl.gov.tw/) | [San Mao](/de/people/san-mao): Bai Hsiao-yong empfahl ihren Debüt-Roman „Verwirrt" in „Moderne Literatur"
 
-## Referenzen
+## Quellen
 
-[^1]: [Wikipedia: Pai Hsien-yung](https://zh.wikipedia.org/wiki/白先勇) – bestätigt Geburt 1937 in Guilin, Sohn von Pai Chung-hsi, Außensprachen an der NTU, Gründung von „Moderne Literatur“, Erstausgabe von „Menschen von Taipei“ April 1971 (14 Erzählungen), „Crystal Boys“ 1983.
+[^1]: [Wikipedia: Bai Hsiao-yong](https://zh.wikipedia.org/wiki/白先勇) — Bestätigt Geburt 1937 in Guilin, Sohn von Bai Chongxi, Romanistik an der Nationaluniversität Taiwans, Mitbegründung von „Moderne Literatur", April 1971 Premiere von „Taiwan People" (14 Erzählungen), 1983 erschien „Illegitimer Sohn".
 
-[^2]: [Offizielle Daten der Jugendfassung des Päonien-Pavillons](https://www.paochunglei.com/) – enthält den Planungsstart 2003, Uraufführung April 2004 in Taipeh, über 300 Aufführungen/600.000 Zuschauer, 2024 „Zwanzig Jahre Päonienblüte“ zum 20-jährigen Jubiläum.
+[^2]: [Offizielle Daten des Jugend-Peach Blossom Festivals](https://www.paochunglei.com/) — Enthält Planung ab 2003, April 2004 Premiere in Taipeh, über 300 Vorstellungen, 600.000 Zuschauer, 2024 20. Jahresrunde mit „Peach Blossom Blüte 20 Jahre".
 
-[^3]: [National Cultural and Arts Foundation: Auszeichnungsrekord des National Art Award (Pai Hsien-yung)](https://www.ncafroc.org.tw/artsaward/winnerDetail@1229) – bestätigt Pais National Art Award 2003.
+[^3]: [Kulturstiftung: Staatspreis für Literatur (Bai Hsiao-yong)](https://www.ncafroc.org.tw/artsaward/winnerDetail@1229) — Bestätigt, dass Bai Hsiao-yong 2003 den Staatspreis für Literatur erhielt.
 
-[^4]: [Xinhua Taiwan: Pai Hsien-yung 2026 weiter aktiv](http://www.news.cn/tw/20250424/4a72b8928bb74c51a0b0b20e0c5599b9/c.html) – enthält Pais literarische Aktivitäten 2025-2026 und Berichte zur NTU-Sonderausstellung.
+[^4]: [Xinhua Taiwan: Bai Hsiao-yong aktiv 2026](http://www.news.cn/tw/20250424/4a72b8928bb74c51a0b0b20e0c5599b9/c.html) — Enthält Berichte über Bai Hsiao-yongs kulturelle Aktivitäten 2025–2026 und die Sonderausstellung an der Nationaluniversität Taiwans.
 
-[^5]: [Wikipedia: Hong-lou-meng-Preis](https://zh.wikipedia.org/wiki/紅樓夢獎) – bestätigt die Gewinner der siebten Runde (2018) als „Qing Fu Zi“ und „Wang Chunfeng“; schließt die Aussage „Pai Hsien-yung, Jurypreis der 7. Runde 2018“ aus (Illusion).
+[^5]: [Wikipedia: Loulu-Mei-Preis](https://zh.wikipedia.org/wiki/紅樓夢獎) — Bestätigt, dass der 7. Preis (2018) an „Qingfengzi" und „Wang Chunfeng" ging, was die Behauptung „Bai Hsiao-yong, 7. Loulu-Mei-Preis 2018, Jury" widerlegt (Illusion).
