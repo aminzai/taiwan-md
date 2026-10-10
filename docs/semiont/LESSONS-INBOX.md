@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
 current_version: 'v3.7'
-last_updated: 2026-10-03
-last_session: '2026-10-03-004249-twmd-babel-nightly：+1 新 entry（provenance-stamp-mixes-git-sha-with-worktree-hash）＋2 條 instance（gate-rejects-what-the-prompt-never-taught vc=2、patch-eligibility-measures-chapter-size-not-change-size vc=2）'
+last_updated: 2026-10-10
+last_session: '2026-10-10-twmd-maintainer-daily（紅燈下游 skipped 閘門／交接壓縮融項與死參照 2 條新增；local-fs 大小寫條目補方向相反的 instance 2）'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -331,6 +331,30 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 ---
 
 ## 未消化清單（📥 待 distill）
+
+### 2026-10-10 twmd-maintainer-daily — downstream-steps-skipped-behind-a-red-read-as-one-unrelated-red：一個紅燈同時遮住它自己的原因和它下游所有沒跑過的閘門
+
+- **pattern**: `downstream-steps-skipped-behind-a-red-read-as-one-unrelated-red`
+- **原則**：CI 的一條 job 裡，紅燈之後的每一步都是 `skipped`。而人讀到的只有 job 層的那一個「fail」，於是會去解釋那個紅——**解釋得越好，越不會有人去問它後面還蓋住了什麼**。8 個投稿 PR 的 `contracts` 從 10-06 紅到今天，前兩班把它診斷成「繼承 main 上 `harvest/ui` 的 tailwind 公告紅，等 OBSERVER-QUEUE #94」。那個診斷有說服力、有證據、方向也對（確實有一個與投稿者無關的紅），唯一的問題是它指錯了位置：實際 failure 在**第五步、倉庫根目錄那道 audit**（10-08 已被 `e6fcfa55c` 修掉），`harvest/ui` 排第六步，從頭到尾沒輪到它跑。真正的後果不是「等 #94」，是 `test:contracts` / `pytest` / `prebuild:fork-graph` / `check:types` 四道**真正會檢查投稿者程式碼的閘門，在這 8 個 PR 上從來沒有跑過一次**——不是綠，不是紅，是 skipped，而這件事四天沒有人知道。
+- **觸發**：2026-10-10 twmd-maintainer-daily。逐 PR 調 `actions/runs/<id>/jobs` 看 `.steps[].conclusion` 才現形（`gh pr checks` 只給 job 層結論）。改法是不等 CI：開一個站在 `origin/main` 的獨立 worktree，先在乾淨 main 上跑四道閘門當基準線（727 passed / 全過 / exit 0 / 0 errors），再逐篇合併進去量，最後量七篇全合併的整合結果（733 passed / 0 errors）。**那一次量就抓到前兩班看不到的東西**：#1797 有一題真的紅（見 `local-fs-case-insensitivity-masks-ci-failure` instance 2）。七篇全部合併、`215ba089f` 修掉那題。
+- **跟 10-08 那條的關係**：同一個結構的另一半。10-08 那班寫的是「往已經紅著的 `&&` 鏈尾端加新閘門，那道新閘門在 CI 裡是 `skipped` 不是綠的」——講的是**我剛掛上去的那道**。本條講的是**紅燈下游的全部**，而且多一層：當那個紅有一個聽起來正確的外部歸因（上游公告、別人的目錄、等一格待決），這個歸因會變成一個停止提問的理由。歸屬在庫外不代表後果在庫外，也不代表那是唯一的後果。
+- **可能層級**：通用反射候選。任何串行閘門鏈（CI job、pre-commit hook 鏈、pipeline stage）都成立：**讀 job 層的結論回答不了「哪些檢查其實沒跑過」**。
+- **相關**：REFLEXES #82（存在代理有效 — 這裡是「有紅」被代理成「已知道為什麼紅」）＋ #52（免疫系統沒在 fail loud 比缺免疫系統更危險 — skipped 不 fail loud）＋ #38（混維度 — 一個 job 結論承載「我的程式碼有問題」與「別人的目錄有問題」兩種根因）＋ 10-08 `every-mechanical-gate-green-while-the-ruling-lived-in-the-comment-thread`（同一條 routine 連兩班在「閘門綠/紅到底代表什麼」上絆倒）
+- **可能機械化**：`pr-ci-armed.sh` 現在分 ARMED / UNARMED / NO-WORKFLOW 三態，量的是「head sha 上有沒有 check-run」。它量不到第四態：**有 check-run、跑了、而關鍵步驟是 `skipped`**。候選是加一道「這個 PR 的 contracts job 裡，`test:contracts`／`pytest`／`check:types` 的 conclusion 是什麼」，三者只要有 `skipped` 就印一個有別於紅綠的第三種符號（REFLEXES #85）。判準機械、零誤判空間。
+- **verification_count**: 1
+
+### 2026-10-10 twmd-maintainer-daily — handoff-compression-fuses-items-and-inherits-a-dead-reference：讓交接讀得順的那個壓縮，也是讓它的參照變錯的那個動作
+
+- **pattern**: `handoff-compression-fuses-items-and-inherits-a-dead-reference`
+- **原則**：交接項傳久了會被壓縮——這是對的，不壓縮沒人讀得完。但壓縮是有損的，而**損掉的那部分最容易是「哪個參照屬於哪一件事」**。壓縮後的那一行讀起來比原文更清楚、更可執行，所以沒有人會回頭對照它。
+- **觸發**：2026-10-10 twmd-maintainer-daily。本班讀到的交接寫「`git prune`（issue [#1729](https://github.com/frank890417/taiwan-md/issues/1729)）」，點進去發現 #1729 是一則**已 CLOSED 的馬英九腳註事實查核**，跟 git 回收毫無關係。往回追：10-01 的原文是一個逗號清單——「`.git/gc.log` 與 `git prune` 排程（營運機）、`OBSERVER-QUEUE #69（待決）` (a)、issue #1729、routine-sync 對賬前 `git fetch` 等」。兩個並列項在某一次壓縮時被括號綁成了一件事，而那個 issue 同時也關掉了。`git prune` 這一項自己在 **51 份 memory 裡傳了 21 天**（09-19 起），每一班都讀到。
+- **為什麼它傳了 21 天而沒人動手**：卡住它的不是判斷力，是**沒有席位擁有一個沒有寫入者的空檔**——營運機上 `babel-push-every --watch` 與 dispatcher 幾乎全天在寫，DNA #35 禁止在平行工作期間跑破壞性 git op。兩條規則都對，交集是空的。這跟 `maintainer-seat-cannot-obtain-a-quiet-window-so-window-dependent-gates-never-run`（09-30）與 `suppressed-warning-recurs-because-its-fix-needs-a-window-no-routine-has`（09-28）是同一件事的第三個 instance。
+- **本班的處置（兩件事分開做）**：(a) 參照錯誤當場更正，不再傳 #1729；(b) 不去找那個空檔，改成**讓它自己認出空檔**——`scripts/tools/git-prune-when-quiet.sh`，窗口不乾淨原樣退場（exit 10，不是錯誤），乾淨才回收，偵測沿用既有的 `lib/check-parallel-actor.sh` 不另寫一份 pgrep 樣式。五態驗過。本班自己跑是 exit 10（三個 writer 全開），9,674 個 loose／360 MiB 還在那裡，因為現在不該動；排程掛哪條 routine 留 `/twmd-routine`。
+- **一個該記下來的小事**：那支工具第一次跑正控制就用它要防的方式壞掉——`--status` 在非 CLEAN 時 exit 1，原本寫 `|| echo UNKNOWN` 當 fallback，於是 `STATUS` 變成兩行、等號比對整個失效，writer 全開而它印「窗口可用」。帶 `--apply` 就會在三個 writer 產生物件時跑 prune。**為了守一件事而造的工具，用它要防的方式失敗**，被它自己的正控制接住（REFLEXES #99 尺先驗再用 ＋ #60 silent default = silent failure）。
+- **可能層級**：通用反射候選（交接壓縮的有損性）＋ 既有「沒有席位擁有的空檔」family 的第三 instance。
+- **相關**：REFLEXES #15 第 13 條（handoff 傳資訊不傳急迫性）＋ #74（同 SPOF 在 N 條 routine handoff 重複 = 信號通膨）＋ `handoff-latency.py` 量的是「幾輪才被做掉」，量不到「傳下去的那行說的還是不是原來那件事」＋ `retired-item-resurrects-through-a-parallel-handoff-chain`（10-03，交接鏈的保真度問題）
+- **可能機械化**：`handoff-latency.py` 已經在抽交接行裡的穩定參照（issue／OBSERVER-QUEUE #N／EXP／LESSONS slug）。候選是對抽出來的 issue／PR 參照查一次狀態，**已 CLOSED 而交接項仍是 pending 就印一行**——不自動判定誰對，只把這個組合攤開給當班看。
+- **verification_count**: 1
 
 ### 2026-10-10 twmd-feedback-triage — stated-reason-for-deferring-does-not-expire-with-the-situation：交接寫明了「現在不做」的理由，而那個理由自己不會過期
 
@@ -1465,8 +1489,10 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **⚠️ 根因修正（寫完 30 分鐘後自己查證推翻）**：本條初稿把修補方向寫成「`image-ingest.mjs --cat` 應強制轉小寫」。回頭讀原始碼發現 **它第 226 行本來就有 `const catDir = cat.toLowerCase()`**——工具早就是對的。真正的根因是**我根本沒用那個工具**：Stage 1B 抓圖時我用 Chrome MCP 下載後手動放進 `public/article-images/People/`，繞過了 pipeline 明訂的落檔器（[REWRITE-STAGE-1B-MEDIA §Step 1.9.2 影像後處理 SSOT](../pipelines/REWRITE-STAGE-1B-MEDIA.md)：「取代手跑 curl + sips」）。工具會做的事（小寫目錄／EXIF 清除／WebP 轉檔／size budget／aspect 護欄／attribution stub）我一項都沒拿到，還自己踩了它早就防好的坑。**這條的真正家族是 §神經迴路「擁有工具 ≠ 使用工具」「造橋之後要踩上去，不是路過」，不是 #24 工具說謊。** 大小寫只是繞過工具之後暴露出來的第一個症狀。
 - **可能層級**：兩層都成立。(1) **繞過既有工具**＝既有教訓的第 N 次驗證（神經迴路已有 canonical）(2) **本機檔案系統不分大小寫遮蔽 CI 失敗**＝新的環境層盲區，跨專案通用，值得獨立成反射
 - **相關**：§神經迴路「擁有工具 ≠ 使用工具」（主家族）＋ REFLEXES #24「工具在說謊的 N 種形式」的新變體——**工具沒說謊，是它腳下的地板在兩個環境不一樣**（本機 `ls people/` 跟 `ls People/` 回傳同一批檔案，Linux 上是零交集的兩個目錄）。也跟 REFLEXES #69「每層自評都需要外部尺」有關：本機五道 gate 全是同一把不分大小寫的尺，真正的外部尺是 CI。
+- **instances**：
+  - 2026-10-10 twmd-maintainer-daily（**方向相反的變體：它製造假的紅，不是假的綠**）— PR #1797 新增的 `test_ambiguous_case_is_not_guessed` 要「兩個只差大小寫的真實路徑同時存在」然後確認檢查器不替作者猜。macOS 的 APFS 不分大小寫，第二個 `write_text` 蓋掉第一個，前提根本建立不起來、檢查器只看到一個候選、照常建議，於是這題在**每一台 macOS 上都紅**，而 CI（Linux）一直是綠的。當場實測三態確認：本機建兩個檔只剩一個、`hdiutil` 開一個 case-sensitive APFS 磁碟映像建得出兩個、把 `TMPDIR` 指到後者整題 5 passed。**本條原文講的是本機那把尺太寬所以漏掉 CI 會擋的錯；這次是本機那把尺量不到前提所以誤報一個不存在的錯**——同一個地板差異，兩個相反的症狀，而假的紅的代價是下一個照 pipeline 跑 `pytest tests` 的人會去修一個不存在的 bug，或者乾脆把那個斷言刪掉（斷言是對的，它守的東西是真的）。修法 `215ba089f`：現場探一次這個資料夾分不分大小寫（寫一個檔，再用另一種大小寫問它存不存在），不分就 skip 並寫明前提不成立，不用 `sys.platform` 猜；斷言一個字沒動。**這條的教訓延伸**：凡是**以環境差異本身為主題**的測試，它的前提往往只在「會壞的那一側」成立，所以它必須自己探測環境，不能假設跑它的機器剛好是對的那一側 → [memory](memory/2026-10-10-084000-twmd-maintainer-daily.md)
 - **可能的操作修補**：(a) **Step 1.9.2 落檔加 hard gate**——媒體入庫後驗 `git ls-files public/article-images/` 的實際路徑，不靠 `fs.existsSync`（本機恆真）(b) `image-health` 用 `readdir` 拿磁碟實際檔名逐字比對，不用 `existsSync` (c) pre-push 那句「✅ 全站 article-health 全綠（ci-deploy mirror）」要嘛補上大小寫這一維，要嘛拿掉「ci-deploy mirror」的宣稱——它現在給的是假的安心感 (d) 既有的 `public/article-images/People/` 大寫目錄（4 個舊檔）建議一併正規化，消滅這個會再次誤導人的殘留
-- **verification_count**: 1
+- **verification_count**: 2
 
 ### 2026-08-03 manual（黃崇仁 REWRITE）— neutral-tone-conflated-with-minimized-substance：把「中立陳述」誤做成「份量要縮小」
 
