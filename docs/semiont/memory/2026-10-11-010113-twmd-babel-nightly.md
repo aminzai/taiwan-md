@@ -58,6 +58,7 @@ Stage 0 判定 healthy（OpenRouter 7/7 key、本機 ollama、fleet mac-m4max �
 
 - [ ] pending（席位 `twmd-babel-nightly` 下一班）— 確認本輪產線第一次自動 commit 與 push-every 推送成功（commit-every 10 或 90 分鐘，預計 02:30 前）；`.taiwanmd/babel-push.log` 不該再出現 `would be overwritten`。這班能動 push-every 與 dispatcher，動得了
 - [ ] pending（席位 `twmd-babel-nightly`／渦流班，LESSONS `long-running-process-runs-the-code-it-started-with`）— dispatcher 沒有「我的程式碼比 main 舊」的訊號；候選做法寫在該 LESSONS 條目，需改 `babel-dispatch.py` 或 babel-pulse
+- [ ] pending（席位 `twmd-babel-nightly` 下一班）— ar〈台灣糕餅文化〉連兩種模型敗在 `currency[8]`（10-11 00:29 gemma4:26b、01:02 nemotron）。第三種模型再敗同一理由就照 REFLEXES #38 (d) 先查幣別閘門與 zh 母稿（「一斤 5 元」這類量詞價格），不查模型
 - [ ] pending（席位：OBSERVER-QUEUE #84／#91（已決）存量重譯）— 本班退回的 7 篇 laguna／8B 譯文已回到 stale 佇列，由產線自然接住；#91 的 138 篇存量批次降級仍未做
 
 ## Beat 5 — 反芻
