@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.4'
-last_updated: 2026-09-27
-last_session: '2026-09-27-twmd-self-evolve-weekly（Entry Schema 加 Angle-expires 欄＋四條時效題回填，`inbox-audit.py --angles` 讀它）  # 前：2026-09-27-010904-twmd-news-lens-weekly（探測器 W39：王冠閎 P1／勇鷹高教機 P1 兩條 NEW 入列；九合一總章加註建議升 P0；BIM 英文門面 entry 標 done 待歸檔）  # 前：2026-09-20-203758-semiont-heartbeat（巡邏第十八到二十篇：河川併進地理工單、農業地景併進農業工單、城市總覽新開 P2）  # 前：2026-09-20-011518-twmd-news-lens-weekly（探測器 routine 首跑：電價機制 P0／拔河 P1／李灝宇 P1 三條 NEW 入列）  # 前：2026-09-18-semiont-heartbeat 晚間（張忠謀查核後退回重寫 P0 入列）  # 前：2026-09-18-132812-news-radar（新聞雷達 9 條進 Pending：低薪／油價機制／金鐘獎三條派 Opus 走互動式 REWRITE，亞運 P0 待派；金城武／張懸／Blue UAS 升 P0；衛武營已 ship 移除）'
+last_updated: 2026-10-11
+last_session: '2026-10-11-news-lens-weekly（探測器 W41：傅兆玄 P1 NEW 入列；七條沒寫期限的探測器題補 Angle-expires；張懸、九合一總章、亞運三條加註）  # 前：2026-09-27-twmd-self-evolve-weekly（Entry Schema 加 Angle-expires 欄＋四條時效題回填，`inbox-audit.py --angles` 讀它）  # 前：2026-09-27-010904-twmd-news-lens-weekly（探測器 W39：王冠閎 P1／勇鷹高教機 P1 兩條 NEW 入列；九合一總章加註建議升 P0；BIM 英文門面 entry 標 done 待歸檔）  # 前：2026-09-20-203758-semiont-heartbeat（巡邏第十八到二十篇：河川併進地理工單、農業地景併進農業工單、城市總覽新開 P2）  # 前：2026-09-20-011518-twmd-news-lens-weekly（探測器 routine 首跑：電價機制 P0／拔河 P1／李灝宇 P1 三條 NEW 入列）  # 前：2026-09-18-semiont-heartbeat 晚間（張忠謀查核後退回重寫 P0 入列）  # 前：2026-09-18-132812-news-radar（新聞雷達 9 條進 Pending：低薪／油價機制／金鐘獎三條派 Opus 走互動式 REWRITE，亞運 P0 待派；金城武／張懸／Blue UAS 升 P0；衛武營已 ship 移除）'
 sister_docs:
   - 'ARTICLE-DONE-LOG.md'
   - 'LESSONS-INBOX.md'
@@ -177,6 +177,23 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 ## 📥 Pending（待開發）
 
+### 傅兆玄 NEW — 台灣男子田徑隔 60 年的亞運金牌
+
+- **Type**: `NEW`
+- **Category**: People
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-10-11 by twmd-news-lens-weekly (probe)（來源 reports/probe/2026-10-11.md T1-A）
+- **Angle-expires**: 2026-10-25（亞運 10-04 閉幕後三週，賽後報導與搜尋退場；人物條目本身常青，過期後改從生涯的受傷循環開場，不再用奪金當天的鉤子）
+- **Notes**:
+  - 名古屋亞運男子跳高決賽，雨天濕滑場地 2 公尺 25 一跳就過、2.28 三次失敗，靠首跳成功擊退印度選手奪金；報導稱這是台灣男子田徑自 1966 年曼谷亞運吳阿民十項全能之後的第一面亞運金牌，也是台灣亞運男子跳高首金；賽前目標是銅牌。2002-12-14 出生、身高 195 公分，成年後長年在受傷、恢復、比賽之間循環
+  - **缺口確認**：`find knowledge -maxdepth 2 -name "*.md" -path "knowledge/[A-Z]*" | grep 傅兆玄` = 0；`grep -rl 傅兆玄 knowledge/[A-Z]*/*.md` = 0（全站從未提及）；`grep -rl 吳阿民` = 0；ARTICLE-INBOX / DONE-LOG `grep 傅兆玄` = 0
+  - **人在哪**：傅兆玄本人（「最強定心丸」那段賽後感謝）、場邊的教練團、1966 年的吳阿民（上一個拿亞運金牌的台灣男子田徑選手，60 年前的十項全能）、同場的印度銀牌選手、國訓中心田徑隊
+  - 切角：從雨裡 2.25 那一跳開場；往回走受傷循環與賽前只求銅牌；主脊放「60 年前那面金牌是十項全能，這一面是單項跳高」，把台灣田徑在亞洲的位置當背景；收在洛杉磯奧運的資格標準。可跟上方〈王冠閎〉同一班寫成一組（同一屆、同一種「站上沒有名字」）
+  - **必驗**：2.25 與名次回世界田聯（World Athletics）或大會官方成績；「60 年」的起點（吳阿民 1966 十項全能金牌屆別、項目）與「男子田徑」範圍（是否含接力、競走）；出生日與身高；印度選手姓名與成績；國光獎金數字
+  - 敏感度低：立體群像，不寫「台灣之光」腔；中國與印度選手寫成同場對手
+- **Reference**: [NOWnews](https://www.nownews.com/news/6878616) / [公視](https://news.pts.org.tw/article/828902) / [民報](https://www.peoplenews.tw/?p=57977) / [鏡週刊轉三立](https://www.mirrormedia.mg/external/setn_1913907)
+
 ### 王冠閎 NEW — 台灣男子游泳在亞運的第一面金牌
 
 - **Type**: `NEW`
@@ -201,6 +218,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Priority**: `P1`
 - **Status**: `pending`
 - **Requested**: 2026-09-27 by twmd-news-lens-weekly (probe)（來源 reports/probe/2026-09-27.md T1-B）
+- **Angle-expires**: evergreen（2026-10-11 news-lens 補填：交機新聞的窗口已過，主脊「隔三十年第二次自己造飛機」不靠時效；年底國防預算審查若出現國造戰機接續案新聞，再拿來當開場）
 - **Notes**:
   - 9/24 最後兩架（1165、1166）從台中出廠，漢翔董事長曹進平親自飛交岡山空軍官校，66 架全數交付、提前達成；首架原型機 2019-09-24 出廠，收尾正好同一天；報導稱 80% 以上從 IDF 經國號重新設計、國產化率逾 55%；量產結束後漢翔轉做全壽期後勤
   - **缺口確認**：`find knowledge … | grep 勇鷹` = 0；`grep -rl 勇鷹 knowledge/[A-Z]*/*.md` = 0；`grep -rl "經國號\|IDF\|漢翔"` 5 篇（看不見的國家／高速公路／莫那·魯道／台灣無人機產業／國家太空中心）都只是順帶；INBOX / DONE-LOG = 0
@@ -234,6 +252,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Priority**: `P1`
 - **Status**: `pending`
 - **Requested**: 2026-09-20 by twmd-news-lens-weekly (probe)（來源 reports/probe/2026-09-20.md T1-B）
+- **Angle-expires**: evergreen（2026-10-11 news-lens 補填：世錦賽賽後兩週的搜尋窗口在無人派工下已關；「拔河王國」主脊常青，開場改用最近一屆世錦賽畫面）
 - **Notes**:
   - 9/18 世界室外拔河錦標賽（南非莫賽爾灣）女子 500 公斤五連霸（決賽對德國第一局僵持四分鐘、只差 50 公分時德國第三次犯規）、青少女 480 公斤四連霸、男子 600 公斤首面室外世錦賽獎牌；今年室內世錦賽台灣 9 金、男子 640 公斤級賽史首冠
   - **缺口確認**：`find knowledge … | grep 拔河` = 0；`grep -rl 拔河` 4 篇命中全是比喻用法；〈台灣體育發展與奧運〉不提拔河；INBOX / DONE-LOG = 0
@@ -879,6 +898,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Requested**: 2026-09-18 by 哲宇（session news-radar，來源 reports/probe/2026-09-18.md）
 - **Angle-expires**: evergreen（2026-10-08 心跳改：亞運 10-04 閉幕，「進行中」的鉤子失效；主脊「這個名字怎麼來、選手怎麼在名字底下比賽」是常青題，開場改用賽後畫面，奪牌數改用中華奧會賽後官方統計；P0 是哲宇點的，優先序不動）
 - **Notes**:
+  - **2026-10-11 news-lens W41 補**：10/4 閉幕，中華代表團 5 金 17 銀 33 銅、獎牌榜第 15（聯合一周大事），報導稱是 1990 北京亞運零金後金牌最少的一屆，主因之一是上屆貢獻 9 金的滑輪溜冰、橋牌、圍棋未列入本屆項目；5 金分散在軟式網球、游泳（王冠閎）、田徑（傅兆玄）、拳擊（林郁婷 60 公斤級二連霸）、網球女雙。賽後官方統計回中華奧會
   - 9/19 開幕，會期至 10/4；482 名選手 34 項，加教練後勤逾 700 人，近幾屆最大團；棒球台韓大戰 9/21；郭婞淳挑戰亞運三連霸、楊勇緯衛冕、林郁婷首度以奧運金牌身份出賽、唐嘉鴻體操
   - 切角：1954 年馬尼拉亞運首次參賽 → 1974 年被逐出 → 1990 年北京亞運以「中華台北」重返 → 今天。主脊放「這個名字怎麼來、選手怎麼在名字底下比賽」，奪牌數當背景
   - 必驗：482 人／34 項回中華奧會官方數字；1974 除名年份；1990 重返時正式名稱使用時點
@@ -893,6 +913,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Priority**: `P1`
 - **Status**: `pending`
 - **Requested**: 2026-09-18 by 哲宇（session news-radar，來源 reports/probe/2026-09-18.md）
+- **Angle-expires**: evergreen（2026-10-11 news-lens 補填：張俊傑個案只當開場鉤子，題目是替代羈押制度本身；需哲宇裁定 framing 的狀態不變）
 - **Notes**:
   - 高金素梅案「大帳房」張俊傑 9/6 深夜電子手鐶低電量告警 → 設備遭破壞丟棄大安森林公園 → 北院通緝、註銷護照、六波搜索拘 7 人接應者；高檢署另查「收受中國資金、在台發展組織」；北檢求刑 16 年以上
   - **敏感度：高**（審理中案件 + 政治人物 + 中資支線）。寫制度層（電子監控在台灣怎麼運作、為什麼低電量警示要到隔天才發現人跑了、替代羈押的設計與漏洞），人物層與案情不當脊椎；高金素梅人物條目等判決後再議
@@ -906,6 +927,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Priority**: `P1`
 - **Status**: `pending`
 - **Requested**: 2026-09-18 by 哲宇（session news-radar，來源 reports/probe/2026-09-18.md）
+- **Angle-expires**: evergreen（2026-10-11 news-lens 補填：論壇已過，主題是制度與指引，寫的時候取最新一屆會議當開場）
 - **Notes**:
   - 9/19 第二屆全社會防衛韌性國際論壇，近 500 位國內外代表，議題含軍民整合、網路安全、關鍵基礎設施、灰色地帶；新版《台灣全民安全指引》全台普發，首次明寫「任何投降訊息都是假訊息」
   - 切角：把手冊當物件開場，對照瑞典、芬蘭、捷克（72 小時生存指南）、法國同類手冊，講台灣 2024 年起為什麼學北歐
@@ -920,6 +942,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Priority**: `P1`
 - **Status**: `pending`
 - **Requested**: 2026-09-18 by 哲宇（session news-radar，來源 reports/probe/2026-09-18.md）
+- **Angle-expires**: evergreen（2026-10-11 news-lens 補填：三次改案的地方史不靠時效；若環評或都審出新進度，寫入最新一步）
 - **Notes**:
   - 9/17 國發會審議通過龍潭園區擴建 104 公頃，年產值估 5,500 億、4,500 個就業；台積電睽違三年重返，規畫三座 1.4 奈米以下埃米世代廠、投資逾兆；117 年底前完成開發許可與環評、119 年公共工程
   - 2022 年消息曝光後 88% 私有地徵收引自救會抗爭 → 縮為 89.6 公頃 → 隨「桃竹苗大矽谷」周邊地主主動要求納入擴至 104 公頃
@@ -934,6 +957,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Priority**: `P1`
 - **Status**: `pending`
 - **Requested**: 2026-09-18 by 哲宇（session news-radar，來源 reports/probe/2026-09-18.md）
+- **Angle-expires**: evergreen（2026-10-11 news-lens 補填：MAU 與在地功能數字逐季變，寫的時候取最新官方數字）
 - **Notes**:
   - Threads 破 5 億月活，推出母語標籤與趨勢話題功能，台灣列首波市場；台灣用戶佔全球 21.08%（全球每五則貼文一則來自台灣）、18-24 歲使用率 44%、25-34 歲 28.4%
   - 補一節 2026 新功能與台灣佔比；數字回 Meta 官方與 QSearch 原始報告，不抄轉載
@@ -947,6 +971,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Priority**: `P1`
 - **Status**: `pending`
 - **Requested**: 2026-09-18 by 哲宇（session news-radar，來源 reports/probe/2026-09-18.md）；2026-09-21 semiont-heartbeat 巡邏第二十一篇後併入查核結果
+- **Angle-expires**: evergreen（2026-10-11 news-lens 補填：海警船數字逐月更新，寫的時候取最新月份；川習會那一節仍等哲宇裁定 framing）
 - **Notes**:
   - 海巡署統計 7 月 244 艘中國公務船進入台灣周邊水域創新高；8 月前 21 天 152 艘、約六成是海警；AEI-ISW 9/15 週報持續追蹤
   - 站上無「灰色地帶」或「海警」條目；補一節，數字回海巡署原始資料，敏感度中（紀實不評論）
@@ -1144,6 +1169,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Path**: knowledge/Music/張懸與安溥.md
 - **Priority**: `P0`（2026-09-18 news-radar 升級：GA 7d 325 views 全站第一，流量王仍帶三道健康硬傷）
 - **Status**: `pending`
+- **2026-10-11 news-lens W41 補**：SC「張懸」781 → 5,564（+612%）、「焦安溥」244 → 1,094，「張懸為什麼改名」136 次曝光 CTR 14.7%，另有「已故的張懸」131 次曝光（查無任何過世報導，搜尋者自己的誤解或 AI 摘要誤導，正文開頭要讓人一眼看出她還在唱）；GA `/music/張懸與安溥/` 75 → 219。雙源，P0 理由不變
 - **Requested**: 2026-07-30 by twmd-evolve (session 2026-07-30-121650-manual finale)
 - **Notes**:
   - **雙源 pointer**：① GA4 28d `/music/張懸與安溥/` **649 views／552 users／平均 session 302 秒／bounce 24.3%**，其中 Google 546 views（84.1%），是長尾搜尋資產，不是社群一次性爆量；② SC 28d 核心 query「張懸」4,551 impressions／CTR 2.07%／pos 7.92、「焦安溥」1,992／5.92%／5.66、「安溥」2,248／2.98%／9.61，三詞合計 **8,791 impressions**。資料抓取時間 2026-07-30。
@@ -1538,6 +1564,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Path**: [`knowledge/Politics/2026 九合一選舉.md`](../../knowledge/Politics/2026 九合一選舉.md)
 - **Priority**: `P1`
 - **Status**: `pending`
+- **2026-10-11 news-lens W41 補**：三源確認——SC「2026選舉」225 → 761、「選舉 2026」595 → 998、「台灣選舉 2026」750 → 1,020；GA `/elections/2026/` 150 → 177、ja 版 74 → 100；CF 3 天 per-path `/elections/2026/` 410 請求居全站 AI crawler 第一（182 次 AI 請求）、en 版第二。離 11/28 剩七週，第二次建議升 P0（本 routine 不改 Priority）
 - **2026-09-27 news-lens W39 補**：SC「九合一選舉 2026」81 → 1,046（+1,191%）、「台灣選舉 2026」270 → 579、「2026選舉時間」61 → 122，外加「選什麼」與簡體／日文等數十個變體；GA `/elections/2026/` 84 → 115（+37%）。雙源確認的 intent 叢集（搜尋者問「哪天投、選什麼」），**建議升 P0 並把範圍擴成 freshness 一輪**（日期與投票時間進開頭、登記結果、九種選舉各選什麼）；〈九合一選舉是什麼〉可能才是接住這群人的那篇，分工一起看。本 routine 不自行改 Priority（reports/probe/2026-09-27.md T2-A）
 - **2026-09-18 news-radar 補**：登記 8/31〜9/4 已結束、81 人登記縣市長，文章 lastVerified 2026-07-10 §九「將發生」段已過時；9 月民調高雄柯志恩 43.8% vs 賴瑞隆 43.5%、台北蔣萬安領先但差距縮小、台中江啟臣領先 6.7 個百分點。媒體增補時一併做 freshness bump（時程表勾掉、補 81 人與各都對決名單）
 - **Requested**: 2026-07-10 by elections-refresh session（[reports/elections-2026-refresh-plan-2026-07-10.md](../../reports/elections-2026-refresh-plan-2026-07-10.md) §三之 1）
