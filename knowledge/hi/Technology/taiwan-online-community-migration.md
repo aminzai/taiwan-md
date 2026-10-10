@@ -161,7 +161,7 @@ LINE की सेवा की शर्तों की धारा 4.7 इ�
 - [Facebook ताइवान में](/hi/technology/facebook-in-taiwan)
 - [Threads ताइवान में — 11 मिनट 31 सेकंड के साथ फ्रैगाइल](/hi/technology/threads-in-taiwan)
 - [Instagram ताइवान में](/hi/technology/instagram-in-taiwan)
-- [मिन Miin — 2026 में 「走了走了我們去 miin」का सुरक्षित बंदरगाह](/technology/迷音Miin)
+- [मिन Miin — 2026 में 「走了走了我們去 miin」का सुरक्षित बंदरगाह](/hi/technology/miin-music-app)
 
 ---
 

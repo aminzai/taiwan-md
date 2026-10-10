@@ -182,7 +182,7 @@ Goldman Sachs जनवरी 2026 में रिपोर्ट "2026 नि�
 - [अर्धचालक उद्योग](/hi/technology/taiwan-semiconductor-industry) — ताइवान स्टॉक की 6वां स्थान पहचान को सहायता करने वाली पूरी आपूर्ति श्रृंखला पारिस्थितिकी तंत्र
 - [TSMC उद्यम (台灣企業：鴻海精密)](/hi/economy/foxconn-precision-industry) — Goldman Sachs के 25 शेयर खरीद सूची में एक और वजन पड़ोसी, अनुबंध निर्माण दिग्गज से AI सर्वर परिवर्तन के लिए
 - [ताइवान औद्योगिक रूपांतरण अपग्रेड](/hi/economy/industrial-transformation-from-manufacturing-to-innovation) — 1980 के दशक के अनुबंध निर्माण से 2026 के AI लाभांश तक की पथ
-- [आर्थिक चमत्कार: मीठे आलू हस्ताक्षर से TSMC तक, बीस लाख लोगों द्वारा जीता हुआ फिर से उभारना](/economy/經濟奇蹟) — "Taiwan Money Overflows" उस युग का पैसा, अंततः 1990 के स्टॉक बाजार और Hongvuan में बह गया
+- [आर्थिक चमत्कार: मीठे आलू हस्ताक्षर से TSMC तक, बीस लाख लोगों द्वारा जीता हुआ फिर से उभारना](/hi/economy/economic-miracle) — "Taiwan Money Overflows" उस युग का पैसा, अंततः 1990 के स्टॉक बाजार और Hongvuan में बह गया
 - [ताइवान वित्तीय प्रौद्योगिकी विकास](/hi/economy/taiwan-fintech-development) — ब्रोकर फोन से स्मार्टफोन निश्चित निवेश तक, एक खाता पीछे की वित्तीय बुनियादी ढांचे
 - [Apple Sidra](/hi/food/apple-cider) — 1965 सूचीबद्ध कंपनी Atlantic Beverages (शेयर कोड 1213) के शेयर संचरण श्रृंखला, 1985 के Shihteng मामले और 1990 के Hongvuan मामले के दोनों पूंजी इतिहास नोड के सूक्ष्मसंस्करण
 

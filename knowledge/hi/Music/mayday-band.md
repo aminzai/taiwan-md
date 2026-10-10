@@ -105,7 +105,7 @@ translatedAt: '2026-09-23T05:53:46+08:00'
 
 ## विस्तारित पठन
 
-- [ताइवान पॉप संगीत](/music/台灣流行音樂/)
+- [ताइवान पॉप संगीत](/hi/music/golden-melodies-legacy-taiwan-pop-music/)
 - [मेच फायर बैंड](/hi/music/fire-ex/)
 - [ताइवान इंडी म्यूजिक](/hi/music/indie-music-scene/)
 

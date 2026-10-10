@@ -108,9 +108,9 @@ translatedAt: '2026-07-26T03:58:12+08:00'
 
 ## विस्तारित पठन
 
-- [ताइवान हक्का संगीत](/music/台灣客家音樂/)
-- [ताइवान लोक गीत आंदोलन](/music/台灣民歌運動/)
-- [ताइवान स्वतंत्र संगीत](/music/台灣獨立音樂/)
+- [ताइवान हक्का संगीत](/hi/music/taiwan-hakka-music-from-mountain-songs-to-rock/)
+- [ताइवान लोक गीत आंदोलन](/hi/music/taiwan-campus-folk-song-movement/)
+- [ताइवान स्वतंत्र संगीत](/hi/music/indie-music-scene/)
 - [ताइवान रॉक संगीत विकास इतिहास](/hi/music/taiwan-rock-from-underground-to-mainstream/)
 
 ## संदर्भ सामग्री
