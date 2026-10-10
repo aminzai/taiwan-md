@@ -144,13 +144,13 @@ Eine Person, die ihr Leben lang floh, wurde am Ende zur Straße für andere. Sie
 
 ## Quellen
 
-[^1]: [Wikipedia: San Mao (Schriftsteller)](<https://zh.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6)>) — Grundlegende Biografie, Zeitachse der Arbeiten, literarische Bewertung
+[^1]: [Wikipedia: San Mao (Schriftsteller)](https://zh.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6) — Grundlegende Biografie, Zeitachse der Arbeiten, literarische Bewertung
 
 [^2]: [Chop Suey Club](https://www.chopsueyclub.com/blogs/blog/san-mao) — José wurde 1951 geboren, 8 Jahre jünger, unverheirateter deutscher Student
 
 [^3]: [Diario de Avisos](https://www.diariodeavisos.com/2012/01/cuando-la-tragedia-sepulto-el-arte/) — Ort des Tauchunfalls von José in La Palma Barlovento, Datum, Bergungdetails
 
-[^4]: [Wikipedia: Rollende rote Wolken (Film)](<https://zh.wikipedia.org/wiki/%E6%BB%9A%E6%BB%9A%E7%B4%85%E5%A1%B5_(%E9%9B%BB%E5%BD%B1)>) — Vollständige Liste der 8 Preise beim 27. Goldene Löwe-Preis
+[^4]: [Wikipedia: Rollende rote Wolken (Film)](https://zh.wikipedia.org/wiki/%E6%BB%9A%E6%BB%9A%E7%B4%85%E5%A1%B5_(%E9%9B%BB%E5%BD%B1) — Vollständige Liste der 8 Preise beim 27. Goldene Löwe-Preis
 
 [^5]: [New York Times Overlooked](https://www.nytimes.com/2019/10/23/obituaries/sanmao-overlooked.html) — 15 Millionen verkaufte Exemplare, internationale Bewertung
 

@@ -268,7 +268,7 @@ Wenn dir das nächste Mal jemand fragt: „Wo gehört Taiwan eigentlich hin?“,
 
 [^12]: [Pflanzen-DNA schreibt Geschichte! Die Migrationsgeschichte der Austronesier, erzählt durch die Baumpflanze](https://research.sinica.edu.tw/paper-mulberry-dna-austronesian-history-chung-kuo-fang/) — Ein Spezialinterview vom Academia Sinica, das die Forschung des Teams von Chung Kuo-fang zur Unterstützung der „Taiwan-Ursprungshypothese“ aus einer biogeographischen Perspektive mittels Baumpflanzen-DNA vorstellt.
 
-[^13]: [Nusantara (Begriff) - Wikipedia](<https://en.wikipedia.org/wiki/Nusantara_(term)>) — Eine vollständige etymologische Untersuchung des Begriffs Nusantara: _nusa_ (Insel) aus dem alten Javanischen + Lehnwort _antara_ (zwischen) aus dem Sanskrit.
+[^13]: [Nusantara (Begriff) - Wikipedia](https://en.wikipedia.org/wiki/Nusantara_(term) — Eine vollständige etymologische Untersuchung des Begriffs Nusantara: _nusa_ (Insel) aus dem alten Javanischen + Lehnwort _antara_ (zwischen) aus dem Sanskrit.
 
 [^14]: [Majapahit - Wikipedia](https://en.wikipedia.org/wiki/Majapahit) — Der Eintrag zum Majapahit-Reich in Ostjava im 14. Jahrhundert, der den historischen Hintergrund des „Palapa-Eids“ von Gajah Mada im Jahr 1336 enthält.
 

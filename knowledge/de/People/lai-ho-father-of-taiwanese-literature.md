@@ -83,7 +83,7 @@ Nach dem Krieg wurde Lai Ho 1951 in den Tempel zu Ehren der Treuen aufgenommen, 
 
 [^2]: [Lai Ho – Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E5%92%8C) — Details in der verlinkten Originalquelle
 
-[^3]: [Taiwan Memory – Nationalbibliothek](https://tm.ncl.edu.tw/) — Details in der verlinkten Originalquelle
+[^3]: [Taiwan Memory – Nationalbibliothek](https://tm.ncl.edu.tw/) — Details in der verlinkten Originalquelle [Open Museum 賴和典藏](https://openmuseum.tw/muse/digi_object/c1553216db10682602d4f7eb307f6917)
 
 [^4]: [Offizielle Website der Lai-Ho-Kultur- und Bildungsstiftung](https://www.laiho.org.tw/) — Details in der verlinkten Originalquelle
 

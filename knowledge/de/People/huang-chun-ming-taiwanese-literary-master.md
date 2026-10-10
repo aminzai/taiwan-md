@@ -97,7 +97,7 @@ Dass er 2026 noch lebt, ist selbst die ruhigste Antwort an alle, die die Linie d
 
 [^2]: [The Reporter: Die taiwanesische Nativismus-Debatte der 1970er-Jahre](https://www.twreporter.org/a/1970s-taiwan-nativist-literature-huang-chunming) — Details in der verlinkten Originalquelle
 
-[^3]: [Wikipedia: Die große Spielzeugpuppe des Sohnes (Film)](<https://zh.wikipedia.org/zh-tw/兒子的大玩偶_(電影) — Details in der verlinkten Originalquelle
+[^3]: [Wikipedia: Die große Spielzeugpuppe des Sohnes (Film)](<https://zh.wikipedia.org/zh-tw/兒子的大玩偶_(電影)>) — Details in der verlinkten Originalquelle
 
 [^4]: [Verwandte Berichte: Der Tod Huang Kuo-chuns 2003](https://zh.wikipedia.org/zh-tw/黃國峻) — Details in der verlinkten Originalquelle
 

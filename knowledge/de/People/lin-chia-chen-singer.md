@@ -113,7 +113,7 @@ Diese Art der Vorbereitung veränderte auch die Bedeutung des „individuellen A
 
 ![Nachtszene und Skyline von Taipei als lizenzfreies visuelles Korrelat für das städtische Gefühl von 〈Love Me Again〉.](https://upload.wikimedia.org/wikipedia/commons/c/cd/Taipei%2C_Taiwan_Night_Cityscape_Skyline.jpg)
 
-_Bildunterschrift: Nachtszene von Taipei aufgenommen von Mao Mao Da Shao Ye, Wikimedia Commons Seite kennzeichnet CC BY-SA 2.0. Dieses Bild ist kein Frame aus Lin Jia-chens MV und dient nur zur Veranschaulichung der in dem Artikel diskutierten nächtlichen Stadtlandschaft und städtischen Bewegung. Quelle: Wikimedia Commons Bilderseite._
+_Bildunterschrift: Nachtszene von Taipei aufgenommen von Mao Mao Da Shao Ye, Wikimedia Commons Seite kennzeichnet CC BY-SA 2.0. Dieses Bild ist kein Frame aus Lin Jia-chens MV und dient nur zur Veranschaulichung der in dem Artikel diskutierten nächtlichen Stadtlandschaft und städtischen Bewegung. Quelle: Wikimedia Commons Bilderseite. [Wikimedia Commons 圖片頁](https://commons.wikimedia.org/wiki/File:Taipei,_Taiwan_Night_Cityscape_Skyline.jpg)_
 
 ## Außerhalb der Bühne gibt es überprüfbare kreative Entscheidungen
 
@@ -133,7 +133,7 @@ Das Drama _Those I Don't Know_ stellte ihn einer anderen Darstellungsform vor. D
 
 ![Außenansicht des National Concert Hall in Taipei als lizenzfreies Bild für große Bühnen- und individuelle Kulturveranstaltungen in Taiwan.](https://upload.wikimedia.org/wikipedia/commons/5/59/Taiwan_2009_Taipei_National_Theater_at_Chian_Kai_Shek_Cultural_Center_FRD_7291.jpg)
 
-_Bildunterschrift: Das National Concert Hall in Taipei, aufgenommen von Fred Hsu, Wikimedia Commons Seite kennzeichnet GNU Free Documentation License. Dieses Bild ist kein Frame aus Lin Jia-chens Auftritt, sondern dient zur Veranschaulichung des kulturellen Hintergrunds der Bühnenkunst in Taiwan. Quelle: Wikimedia Commons Bilderseite._
+_Bildunterschrift: Das National Concert Hall in Taipei, aufgenommen von Fred Hsu, Wikimedia Commons Seite kennzeichnet GNU Free Documentation License. Dieses Bild ist kein Frame aus Lin Jia-chens Auftritt, sondern dient zur Veranschaulichung des kulturellen Hintergrunds der Bühnenkunst in Taiwan. Quelle: Wikimedia Commons Bilderseite. [Wikimedia Commons 圖片頁](https://commons.wikimedia.org/wiki/File:Taiwan_2009_Taipei_National_Theater_at_Chian_Kai_Shek_Cultural_Center_FRD_7291.jpg)_
 
 ## Was Lin Jia-chen hinterlässt, ist keine Persona
 

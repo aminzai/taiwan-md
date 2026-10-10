@@ -98,7 +98,7 @@ Der Name „Kalksteinpapier“ ist direkt, aber der Herstellungsprozess besteht 
 
 ![Mikrostruktur von Kalksteinpapier, hergestellt aus Calciumcarbonat und Harz, Charles Kazilek, CC BY-SA 4.0](https://upload.wikimedia.org/wikipedia/commons/2/21/Scanning_electron_image_of_paper_made_from_stone_material_-_100x.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
-_Bild: Charles Kazilek, 〈Scanning electron image of paper made from stone material - 100x〉, Wikimedia Commons, CC BY-SA 4.0. Das Bild ist eine Mikroaufnahme von Kalksteinpapier und stellt kein Produkt eines taiwanesischen Herstellers dar. Lizenz- und Dateiinformationen._
+_Bild: Charles Kazilek, 〈Scanning electron image of paper made from stone material - 100x〉, Wikimedia Commons, CC BY-SA 4.0. Das Bild ist eine Mikroaufnahme von Kalksteinpapier und stellt kein Produkt eines taiwanesischen Herstellers dar. Lizenz- und Dateiinformationen. [授權與檔案資訊](https://commons.wikimedia.org/wiki/File:Scanning_electron_image_of_paper_made_from_stone_material_-_100x.jpg)_
 
 Die Geschichte des Kalksteinpapiers in Taiwan wird oft mit den Verbundwerkstoffen von Tainan in Verbindung gebracht. Ein Bericht der National Chamber of Commerce beschreibt, wie Liang Shiji frühzeitig dachte, ob Steinpulver die Zellstoff ersetzen könnte, um Kosten bei Plastiktüten zu senken, und jahrelange Forschung investierte. Dies ist eine Entwicklungsgeschichte aus Unternehmensberichten, die zeigt, wie Taiwan seine Erfahrung in der Kunststoffverarbeitung auf die Papierinnovation übertragen hat, aber es kann nicht beweisen, dass alle Umweltwirkungen des Produkts stimmen. [^12]
 

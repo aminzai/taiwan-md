@@ -22,13 +22,13 @@ translatedAt: '2026-09-15T06:51:35+08:00'
 
 ![Außenansicht einer Postfiliale in Taipai, 2019.](https://upload.wikimedia.org/wikipedia/commons/4/43/Taipei_Post_Office%2C_Chunghwa_Post_20190406.jpg)
 
-_Bild: Solomon203/Wikimedia Commons File Page, CC BY-SA 4.0._
+_Bild: Solomon203/Wikimedia Commons File Page, CC BY-SA 4.0. [Wikimedia Commons 檔案頁](https://commons.wikimedia.org/wiki/File:Taipei_Post_Office,_Chunghwa_Post_20190406.jpg)_
 
 ## Ein Brief ohne Hausnummer
 
 ![Rot-grüne Briefkästen auf einer Straße in Taipai.](https://upload.wikimedia.org/wikipedia/commons/c/c1/Taipei_Taiwan_Post-boxes-01.jpg)
 
-_Bild: CEphoto, Uwe Aranas/Wikimedia Commons File Page, CC BY-SA 3.0._
+_Bild: CEphoto, Uwe Aranas/Wikimedia Commons File Page, CC BY-SA 3.0. [Wikimedia Commons 檔案頁](https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Post-boxes-01.jpg)_
 
 Im Jahr 2015 erhielt die Postfiliale in Shu-lin, Yunlin, einen Brief aus Tao-yuan. Der Umschlag enthielt nur eine Postleitzahl und den Namen „Miss Lin“, aber keine Adresse. Dieser Brief wäre nach Vorschrift ein „verlorener Brief“ gewesen, doch der Postbote Lin Hongqi vermutete anhand der Handschrift, dass der Absender jung war, und erinnerte sich an eine junge Frau aus der Familie Lin, die aus Tao-yuan hierhergezogen war. Er versuchte so mit Erinnerung zu zustellen und fand den Empfänger beim ersten Versuch. [^7]
 

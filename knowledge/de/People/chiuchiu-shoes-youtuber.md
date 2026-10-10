@@ -37,10 +37,10 @@ translatedAt: '2026-09-15T06:51:35+08:00'
 Fünf Jahre später war er bereits ein taiwanesischer Wissens-YouTuber. Der bemerkenswerteste Aspekt dieses Weges: Er hatte einst all jene Übersetzungsarbeiten gelöscht, die am einfachsten Views brachten. Damit das Publikum einen Kanal kennenlernt, für den er wirklich verantwortlich ist, gab er einen Teil des Traffics auf.[^2]
 
 ![Straßenszene des Taiwan-Boulevards in Taichung, dem langjährigen Lebens- und Schaffensort von Jiu Jiu Shoes](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Taiwan_Boulevard.jpg/1280px-Taiwan_Boulevard.jpg)
-_Bild: Taiwan Boulevard, Foto von Taichung photo, Wikimedia Commons, CC BY-SA 4.0. Quelle: Dateiseite._
+_Bild: Taiwan Boulevard, Foto von Taichung photo, Wikimedia Commons, CC BY-SA 4.0. Quelle: Dateiseite. [檔案頁](https://commons.wikimedia.org/wiki/File:Taiwan_Boulevard.jpg)_
 
 ![Gebäude des Hakka-Colleges der Nationalen Zentraluniversität, dem frühen Studien- und Drehort von Jiu Jiu Shoes](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/NCU_Hakka_College_Building.JPG/1280px-NCU_Hakka_College_Building.JPG)
-_Bild: Gebäude des Hakka-Colleges der Nationalen Zentraluniversität, Foto von SSR2000, Wikimedia Commons, CC BY-SA 3.0. Quelle: Dateiseite._
+_Bild: Gebäude des Hakka-Colleges der Nationalen Zentraluniversität, Foto von SSR2000, Wikimedia Commons, CC BY-SA 3.0. Quelle: Dateiseite. [檔案頁](https://commons.wikimedia.org/wiki/File:NCU_Hakka_College_Building.JPG)_
 
 ## Ein Paar Schuhe und ein noch unbestimmter Weg
 
@@ -79,7 +79,7 @@ Ein IOH-Interview dokumentiert, dass Jiu Jiu Shoes nach Notenabfall im zweiten S
 Doch den typischen Karrierepfad der Chemiestudenten zu verlassen, heißt nicht, die Chemie wegzuwerfen. Für die Produktion von Wissenschaftsvideos liest er meist 10 bis 20 Stunden Fachliteratur und entwirft Skripte. Die Journal-Clubs an der Universität trainierten ihn, akademische Papers zu finden, Präsentationen zu strukturieren, sich Professoren und Kommilitonen zu stellen – diese Fähigkeiten wurden später zum Grundablauf der Kanalarbeit.[^1]
 
 ![Bibliothek der Nationalen Zentraluniversität, korrespondierend mit Jiu Jiu Shoes' Wissensarbeit, die aus Lesen und Journal-Clubs erwuchs](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Library_of_National_Central_University.jpg/1280px-Library_of_National_Central_University.jpg)
-_Bild: Bibliothek der Nationalen Zentraluniversität, Wikimedia Commons, CC BY-SA 3.0. Quelle: Dateiseite._
+_Bild: Bibliothek der Nationalen Zentraluniversität, Wikimedia Commons, CC BY-SA 3.0. Quelle: Dateiseite. [檔案頁](https://commons.wikimedia.org/wiki/File:Library_of_National_Central_University.jpg)_
 
 Ein Bericht von „Flip Education“ 2020 nennt ihn einen „Allesfresser des Wissens“. Er schaut nicht nur Wissenschaft, sondern liest auch Psychologie und Unternehmensführung, weil er nach der Gründung des Studios fehlendes Managementwissen nachholen musste. Er machte „Jiu Du“ zu einer Erzählsendung, teils gerade um sich selbst zum kontinuierlichen Lesen zu zwingen.[^7]
 

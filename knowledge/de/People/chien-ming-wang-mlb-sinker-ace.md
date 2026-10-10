@@ -121,7 +121,7 @@ Von der Chien-hsing Junior High School in Tainan über das Yankee Stadium, den v
 
 ## Referenzen
 
-[^1]: [Wikipedia: Wang Chien-ming](<https://zh.wikipedia.org/zh-tw/王建民_(棒球運動員) — Details in der verlinkten Originalquelle
+[^1]: [Wikipedia: Wang Chien-ming](<https://zh.wikipedia.org/zh-tw/王建民_(棒球運動員)>) — Details in der verlinkten Originalquelle
 
 [^2]: [Sports Vision: Die Jahre, in denen wir gemeinsam um Wang Chien-ming verrückt waren](https://www.sportsv.net/articles/72833) — Details in der verlinkten Originalquelle
 

@@ -34,7 +34,7 @@ Im Oktober 2020 begann ein Interview in einem Frühstücksladen in Shilin. Damal
 
 ![Taiwan COVID-19-Impfstelle, medizinisches Personal bereitet Impfstoffe vor; dieses Bild dient als Kontextillustration für die medizinische öffentliche Kommunikation in diesem Artikel](https://upload.wikimedia.org/wikipedia/commons/2/2b/Taiwan_COVID-19_vaccination_20210716.jpg)
 
-_Bild: Präsidialamt, „Taiwan COVID-19 vaccination 20210716“; Wikimedia Commons Originaldatei; Lizenz: CC BY 2.0._
+_Bild: Präsidialamt, „Taiwan COVID-19 vaccination 20210716“; Wikimedia Commons Originaldatei; Lizenz: CC BY 2.0. [Wikimedia Commons 原始檔案頁](https://commons.wikimedia.org/wiki/File:Taiwan_COVID-19_vaccination_20210716.jpg) [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)_
 
 Diese Aussage klingt, als mache sie die Kreation einfach, doch die Realität sieht anders aus. Die Arbeit als Assistenzarzt im Krankenhaus, Aufnehmen, Schreiben und Schneiden lassen sich nicht einfach durch das Abzwacken eines kleinen Feierabendstücks erledigen. Der Blaue Taube sprach in jenem Interview von der Arbeitsteilung der verschiedenen Plattformen: YouTube für Analysen medizinischer Dramen, Podcast für Nachrichtenthemen, Matters (方格子) für Texte zu Kinderheilkunde und Allgemeinmedizin.[^1]
 
@@ -60,7 +60,7 @@ Diese Transformation lässt sich leicht als „Verständnis für Traffic-Generie
 
 ![Gebäudefassade des Taipei Medical University Hospital; dieses Bild dient als Kontextillustration für medizinische Professionalität und öffentliche Institutionen](https://upload.wikimedia.org/wikipedia/commons/f/f1/Taipei_Medical_University_Hospital_20161112.jpg)
 
-_Bild: Padai, „Taipei Medical University Hospital 20161112“; Wikimedia Commons Originaldatei; Lizenz: CC BY-SA 4.0._
+_Bild: Padai, „Taipei Medical University Hospital 20161112“; Wikimedia Commons Originaldatei; Lizenz: CC BY-SA 4.0. [Wikimedia Commons 原始檔案頁](https://commons.wikimedia.org/wiki/File:Taipei_Medical_University_Hospital_20161112.jpg) [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)_
 
 Er behandelt auch Performance als Teil der Arbeit. Jenes Interview erwähnt, dass er schon als Student gerne durch Auftritte Applaus erhielt. Nach seiner Approbation als Arzt verschwand dieser Performancedrang nicht, sondern wurde genutzt, um dem Publikum zu helfen, einen schwierigen Wissensabschnitt bis zum Ende anzuhören.[^2]
 
