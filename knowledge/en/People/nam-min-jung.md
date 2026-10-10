@@ -18,7 +18,7 @@ readingTime: 8
 featured: false
 lastVerified: 2026-05-13
 translatedFrom: 'People/南珉貞.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:6b588911c485c4d9'
 sourceBodyHash: 'sha256:3582a490ea4120f2'
 translatedAt: '2026-05-16T21:50:00Z'

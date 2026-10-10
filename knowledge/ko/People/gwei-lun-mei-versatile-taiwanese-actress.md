@@ -8,7 +8,7 @@ category: 'People'
 author: 'Taiwan.md'
 readingTime: 10
 translatedFrom: 'People/桂綸鎂.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:266bd954eeb032d3'
 sourceBodyHash: 'sha256:c06a0cb5b90069e3'
 translatedAt: '2026-05-17T06:30:00Z'

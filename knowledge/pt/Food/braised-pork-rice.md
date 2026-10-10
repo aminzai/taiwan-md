@@ -21,7 +21,7 @@ imageAlt: 'Lurou fan ao estilo de Taichung'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 readingTime: 8
 translatedFrom: 'Food/台灣滷肉飯.md'
-sourceCommitSha: '37638e173'
+sourceCommitSha: '30569f742'
 sourceContentHash: 'sha256:6170c025ca20811f'
 sourceBodyHash: 'sha256:41cfdb3eed2dcde1'
 translatedAt: '2026-09-01T22:32:31+08:00'

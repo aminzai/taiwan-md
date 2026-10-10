@@ -12,7 +12,7 @@ lastVerified: 2026-03-20
 lastHumanReview: false
 featured: false
 translatedFrom: 'Economy/台灣企業：聯華電子.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:0d32412f5db9b8c4'
 sourceBodyHash: 'sha256:f3ad39fefc5166a6'
 translatedAt: '2026-05-17T06:10:00Z'

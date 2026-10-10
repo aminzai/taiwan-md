@@ -8,7 +8,7 @@ tags: ['음악', '팝 음악', '재즈', '슈퍼스타탄생', '골든멜로디�
 author: 'Taiwan.md'
 featured: false
 translatedFrom: 'People/蕭敬騰.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: 'f99a9959c'
 sourceContentHash: 'sha256:fb71e3bcf0475f2e'
 sourceBodyHash: 'sha256:6b96e9e6687dd8c3'
 translatedAt: '2026-05-17T06:30:00Z'

@@ -26,7 +26,7 @@ imageCredit: 曾成訓 / Flickr
 imageLicense: CC BY 2.0
 imageSource: https://commons.wikimedia.org/wiki/File:Puma_Shen_in_2024_Taiwan_general_election.jpg
 translatedFrom: 'People/沈伯洋.md'
-sourceCommitSha: '09ffe560f'
+sourceCommitSha: 'e1b5668ad'
 sourceContentHash: 'sha256:ccbab3f1822e47af'
 sourceBodyHash: 'sha256:ec031917f07c2762'
 sporeLinks:

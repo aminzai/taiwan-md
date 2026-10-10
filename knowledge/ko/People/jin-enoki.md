@@ -20,7 +20,7 @@ featured: false
 lastVerified: 2026-05-13
 translatedFrom: 'People/金針菇.md'
 readingTime: 9
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:a4d0a0070adaa30d'
 sourceBodyHash: 'sha256:4b10f11517195560'
 translatedAt: '2026-05-17T05:33:00Z'

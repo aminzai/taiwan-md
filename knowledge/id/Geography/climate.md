@@ -10,7 +10,7 @@ featured: true
 lastVerified: 2026-03-31
 lastHumanReview: false
 translatedFrom: 'Geography/氣候.md'
-sourceCommitSha: '37638e173'
+sourceCommitSha: 'ceeee0ae6'
 sourceContentHash: 'sha256:0275e27f1a1e4e68'
 sourceBodyHash: 'sha256:c3a7643c439033af'
 translatedAt: '2026-09-01T18:02:09+08:00'

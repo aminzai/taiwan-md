@@ -21,7 +21,7 @@ lastVerified: 2026-06-19
 lastHumanReview: false
 researchReport: reports/research/2026-06/羅大佑.md
 translatedFrom: 'People/羅大佑.md'
-sourceCommitSha: '09ffe560f'
+sourceCommitSha: 'ac1d187af'
 sourceContentHash: 'sha256:a360c7a135e403dc'
 sourceBodyHash: 'sha256:fe7b545ee2048324'
 translatedAt: '2026-09-08T18:35:55+08:00'

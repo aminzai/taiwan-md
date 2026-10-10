@@ -8,7 +8,7 @@ lastVerified: 2026-05-16
 lastHumanReview: true
 featured: true
 translatedFrom: People/吳大猷.md
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '85926aa3b'
 sourceContentHash: 'sha256:ea84edf10c10d1a4'
 sourceBodyHash: 'sha256:54cafe2c5032e30e'
 translatedAt: '2026-05-17T06:00:00Z'
@@ -46,9 +46,9 @@ En 1957, Yang Chen-Ning y Lee Tsung-Dao recibieron conjuntamente el Premio Nobel
 
 En 1983, a la edad de 76 años, Tai Yu Wu asumió la presidencia de la Academia Sinica, un cargo nada sencillo. Durante su mandato (1983–1994), enfatizó la irremplazabilidad de la investigación básica y no permitió que la Academia Sinica se convirtiera en una institución dedicada exclusivamente a servir demandas aplicadas; impulsó un sistema de evaluación de investigación más riguroso y promovió el regreso de talentos taiwaneses residentes en el extranjero[^6].
 
-Solía decir: "Sin ciencia básica, no hay verdadera ciencia aplicada." En el contexto de los años ochenta, cuando Taiwán estaba ansiosa por impulsar la [[semiconductor-industry|industria de semiconductores]] y el sector informático, esa frase requería cierta valentía. También dio importancia a la comunicación pública de la ciencia, impulsando conferencias científicas y campamentos de verano organizados por la Academia Sinica, para que la ciencia no quedara confinada dentro de los muros del instituto.
+Solía decir: "Sin ciencia básica, no hay verdadera ciencia aplicada." En el contexto de los años ochenta, cuando Taiwán estaba ansiosa por impulsar la industria de semiconductores y el sector informático, esa frase requería cierta valentía. También dio importancia a la comunicación pública de la ciencia, impulsando conferencias científicas y campamentos de verano organizados por la Academia Sinica, para que la ciencia no quedara confinada dentro de los muros del instituto.
 
-Los efectos de estas reformas no fueron inmediatos, pero proporcionaron la base institucional para la acumulación posterior de capacidad investigadora en Taiwán. Más tarde, [[lee-yuan-tseh|Lee Yuan-Tseh]] asumió la presidencia (1994–2006), y sobre los cimientos institucionales que Tai Yu Wu había establecido, impulsó aún más la internacionalización de la Academia Sinica.
+Los efectos de estas reformas no fueron inmediatos, pero proporcionaron la base institucional para la acumulación posterior de capacidad investigadora en Taiwán. Más tarde, Lee Yuan-Tseh asumió la presidencia (1994–2006), y sobre los cimientos institucionales que Tai Yu Wu había establecido, impulsó aún más la internacionalización de la Academia Sinica.
 
 ## Un título incómodo
 

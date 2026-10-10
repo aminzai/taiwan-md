@@ -22,7 +22,7 @@ readingTime: 12
 image: /article-images/people/jimmy-liao-square-yilan-2016.webp
 imageCredit: '迷惘的人生 / Wikimedia Commons / CC BY-SA 2.0'
 translatedFrom: 'People/幾米.md'
-sourceCommitSha: '09ffe560f'
+sourceCommitSha: '10fe99c59'
 sourceContentHash: 'sha256:8843f64848a3d381'
 sourceBodyHash: 'sha256:722551eb5f4a1b6b'
 translatedAt: '2026-09-14T19:30:00+08:00'

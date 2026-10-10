@@ -17,7 +17,7 @@ readingTime: 10
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'People/桂綸鎂.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:266bd954eeb032d3'
 sourceBodyHash: 'sha256:c06a0cb5b90069e3'
 translatedAt: '2026-05-17T06:15:00Z'
@@ -26,7 +26,7 @@ lastHumanReview: false
 
 # Guei Lun-Mei : une actrice discrète et d'une rare profondeur
 
-Guei Lun-Mei se distingue par un jeu naturel et sincère et par une discrétion remarquable dans sa vie publique. Elle est l'un des visages de la nouvelle génération d'acteurs taïwanais les plus suivis par les festivals internationaux. _Blue Gate Crossing_ (2002) est son premier film, _The Secret_ (2007), réalisé par [[Jay Chou]], la révèle au grand public ; depuis, des œuvres comme *GF*BF\* continuent de lui valoir la reconnaissance des Golden Horse Awards.[^2]
+Guei Lun-Mei se distingue par un jeu naturel et sincère et par une discrétion remarquable dans sa vie publique. Elle est l'un des visages de la nouvelle génération d'acteurs taïwanais les plus suivis par les festivals internationaux. _Blue Gate Crossing_ (2002) est son premier film, _The Secret_ (2007), réalisé par Jay Chou, la révèle au grand public ; depuis, des œuvres comme *GF*BF\* continuent de lui valoir la reconnaissance des Golden Horse Awards.[^2]
 
 ## Une enfance en village militaire, berceau d'une vocation artistique
 

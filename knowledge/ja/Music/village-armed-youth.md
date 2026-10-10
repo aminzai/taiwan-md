@@ -21,7 +21,7 @@ lastVerified: 2026-04-27
 lastHumanReview: false
 author: 'Taiwan.md'
 translatedFrom: 'Music/農村武裝青年.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:eb6f1df3d28721d6'
 sourceBodyHash: 'sha256:a7bd89eaeb441ced'
 translatedAt: '2026-05-16T22:35:34Z'

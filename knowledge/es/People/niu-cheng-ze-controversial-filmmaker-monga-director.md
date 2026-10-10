@@ -7,7 +7,7 @@ subcategory: '電影與戲劇'
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: People/鈕承澤.md
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:03252333a42bc60e'
 sourceBodyHash: 'sha256:decf157a216cec86'
 translatedAt: '2026-05-17T06:00:00Z'

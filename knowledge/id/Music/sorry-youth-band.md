@@ -22,7 +22,7 @@ lastVerified: 2026-04-27
 lastHumanReview: false
 readingTime: 12min
 translatedFrom: 'Music/拍謝少年.md'
-sourceCommitSha: '37638e173'
+sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:6a2b0dda2e1882cf'
 sourceBodyHash: 'sha256:07737a8d590520a4'
 translatedAt: '2026-09-01T20:12:00+08:00'

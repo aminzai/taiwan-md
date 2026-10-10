@@ -19,7 +19,7 @@ lastVerified: 2026-05-13
 lastHumanReview: false
 category: People
 translatedFrom: People/李雅英.md
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:1893791073a1e549'
 sourceBodyHash: 'sha256:c10dde5e8f5a2f8e'
 translatedAt: '2026-05-17T06:15:00Z'

@@ -21,7 +21,7 @@ lastVerified: 2026-04-08
 lastHumanReview: true
 readingTime: 12
 translatedFrom: 'Society/為台灣而教TFT.md'
-sourceCommitSha: 'ce7f10f8'
+sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:d24206673c791f9a'
 sourceBodyHash: 'sha256:2ed9c66e6cdd44d6'
 translatedAt: '2026-05-09T14:31:06Z'

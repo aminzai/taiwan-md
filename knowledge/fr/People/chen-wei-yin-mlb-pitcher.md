@@ -20,7 +20,7 @@ featured: false
 readingTime: 6
 lastVerified: 2026-03-22
 translatedFrom: 'People/陳偉殷.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:ffd25b21bdd9c278'
 sourceBodyHash: 'sha256:7ce7a4f8a7dcd5c0'
 translatedAt: '2026-05-16T22:36:54Z'

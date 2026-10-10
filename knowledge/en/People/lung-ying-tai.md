@@ -21,7 +21,7 @@ lastHumanReview: false
 readingTime: 7
 curation: incubating
 translatedFrom: 'People/龍應台.md'
-sourceCommitSha: '09ffe560f'
+sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:32e758a1acf33e90'
 sourceBodyHash: 'sha256:fb31dbbb24515e69'
 translatedAt: '2026-08-28T21:00:00+08:00'

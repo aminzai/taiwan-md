@@ -3,7 +3,14 @@ title: 'Sun Yun-suan: Der Ingenieur-Premier, der Taiwan aus der Dunkelheit ins L
 description: 'Vom Fünf-Monats-Wunder der Stromwiederherstellung in den Trümmern der Nachkriegszeit bis zur umstrittenen Wette auf die Halbleiterindustrie: Sun Yun-suan legte mit ingenieurhafter Pragmatik und beispielloser Integrität das Fundament für Taiwans Modernisierung.'
 date: 2026-04-30
 category: 'People'
-tags: ['Sun Yun-suan', 'Taiwan Power Company', 'Halbleiter', 'ITRI', 'Zehn Großbauprojekte']
+tags:
+  [
+    'Sun Yun-suan',
+    'Taiwan Power Company',
+    'Halbleiter',
+    'ITRI',
+    'Zehn Großbauprojekte',
+  ]
 subcategory: '政治與民主'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -12,7 +19,7 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/孫運璿.md'
-sourceCommitSha: '09ffe560f'
+sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:9327b2569000f076'
 sourceBodyHash: 'sha256:b9a6db1720ddc955'
 translatedAt: '2026-09-07T09:44:55+08:00'
@@ -46,12 +53,12 @@ Am Morgen des 7. Februar 1974 fand in einem Frühstücksladen in der Nanyang-Str
 
 Anschließend trieb Sun Yun-suan die Gründung des **Industrial Technology Research Institute (ITRI)** voran und entsandte 19 junge Ingenieure zur Ausbildung zur US-Firma RCA. Damals sagte er zu dieser Gruppe: „Nur Erfolg ist erlaubt, kein Scheitern." Diese Leute wurden später zum Rückgrat der taiwanesischen Halbleiterindustrie – darunter TSMC und UMC [^7][^10].
 
-| Entscheidende Weichenstellungen        | Wirkung und Errungenschaften                   |
-| :------------------------------------- | :--------------------------------------------- |
-| **Gründung des ITRI (1973)**           | Die Lokomotive für Taiwans eigene High-Tech-Forschung |
-| **Übernahme der RCA-Technologie (1976)** | Der technische Ausgangspunkt der Halbleiterindustrie |
-| **Geburtshilfe für den Hsinchu Science Park (1980)** | Schaffung eines globalen High-Tech-Clusters  |
-| **Vorantreiben der Zehn Großbauprojekte** | Fundament für Taiwans modernisierte Infrastruktur |
+| Entscheidende Weichenstellungen                      | Wirkung und Errungenschaften                          |
+| :--------------------------------------------------- | :---------------------------------------------------- |
+| **Gründung des ITRI (1973)**                         | Die Lokomotive für Taiwans eigene High-Tech-Forschung |
+| **Übernahme der RCA-Technologie (1976)**             | Der technische Ausgangspunkt der Halbleiterindustrie  |
+| **Geburtshilfe für den Hsinchu Science Park (1980)** | Schaffung eines globalen High-Tech-Clusters           |
+| **Vorantreiben der Zehn Großbauprojekte**            | Fundament für Taiwans modernisierte Infrastruktur     |
 
 ## Redlichkeit und Charakter: Vorbild einer Epoche
 

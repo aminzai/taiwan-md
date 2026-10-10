@@ -19,7 +19,7 @@ featured: false
 lastVerified: 2026-05-13
 translatedFrom: 'People/李晧禎.md'
 readingTime: 8
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:fe236b66343104a0'
 sourceBodyHash: 'sha256:fa5aded8dae3b311'
 translatedAt: '2026-05-17T06:30:00Z'

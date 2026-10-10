@@ -22,7 +22,7 @@ lastHumanReview: false
 image: ''
 curation: incubating
 translatedFrom: 'People/李仙得.md'
-sourceCommitSha: '09ffe560f'
+sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:b35bf2bd112055a5'
 sourceBodyHash: 'sha256:bbb48d4bf913e4a0'
 translatedAt: '2026-08-29T05:30:00+08:00'

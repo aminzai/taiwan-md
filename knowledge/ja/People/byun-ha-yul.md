@@ -19,7 +19,7 @@ readingTime: 9
 lastVerified: 2026-05-13
 lastHumanReview: false
 translatedFrom: People/邊荷律.md
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:860b8c0055b0c881'
 sourceBodyHash: 'sha256:34601056f655cc89'
 translatedAt: 2026-05-17T05:33:00Z

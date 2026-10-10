@@ -21,7 +21,7 @@ lastHumanReview: false
 imageAlt: 'Biểu diễn thao tác búp bê Đài Loan'
 readingTime: 12
 translatedFrom: 'Art/台灣傳統藝術.md'
-sourceCommitSha: 'b771a2011'
+sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:8199dcc4edeb2fce'
 sourceBodyHash: 'sha256:de7228ea44ad062e'
 translatedAt: 2026-07-31T00:00:00Z

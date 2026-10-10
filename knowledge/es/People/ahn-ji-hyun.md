@@ -11,7 +11,7 @@ readingTime: 9
 lastVerified: 2026-05-13
 lastHumanReview: false
 translatedFrom: 'People/安芝儇.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:b13816d98f58f322'
 sourceBodyHash: 'sha256:56208a71719992d2'
 translatedAt: '2026-05-17T05:33:00Z'
@@ -21,11 +21,11 @@ translatedAt: '2026-05-17T05:33:00Z'
 
 Cuando los Tsgri Eagles aún estaban construyendo su primera identidad como equipo local, Ahn Ji-hyun ya estaba al frente. No fue una aparición temporal a mitad de temporada, sino que creció junto con el sistema del equipo, desde los eventos previos a la temporada hasta los partidos regulares.
 
-Según la cobertura de la rueda de prensa de formación de Wing Stars realizada por *ETtoday Sports Cloud*, cuando el club anunció la composición de sus refuerzos coreanos, también mencionó el papel de liderazgo de Ahn Ji-hyun dentro de la formación (la cobertura describe la distribución de funciones del grupo con títulos como «directora de animación»). [Fuente: Eastern Broadcasting New Media / ETtoday Sports Cloud][^1]
+Según la cobertura de la rueda de prensa de formación de Wing Stars realizada por _ETtoday Sports Cloud_, cuando el club anunció la composición de sus refuerzos coreanos, también mencionó el papel de liderazgo de Ahn Ji-hyun dentro de la formación (la cobertura describe la distribución de funciones del grupo con títulos como «directora de animación»). [Fuente: Eastern Broadcasting New Media / ETtoday Sports Cloud][^1]
 
 ## Mayo de 2026: la temporada en el Taipei Dome y los ajustes por lesión
 
-Según un reporte de *SETN* del 1 de mayo de 2026, los Tsgri Eagles realizaron una serie temática en el Taipei Dome; el reporte indica que la integrante coreana de Wing Stars, Ahn Ji-hyun, no pudo animar en el formato habitual debido a una luxación del hombro derecho y describe cómo ajustó sus actuaciones cantando desde la banda y después del partido. [Fuente: SETN][^2]
+Según un reporte de _SETN_ del 1 de mayo de 2026, los Tsgri Eagles realizaron una serie temática en el Taipei Dome; el reporte indica que la integrante coreana de Wing Stars, Ahn Ji-hyun, no pudo animar en el formato habitual debido a una luxación del hombro derecho y describe cómo ajustó sus actuaciones cantando desde la banda y después del partido. [Fuente: SETN][^2]
 
 La importancia de este tipo de cobertura no está en convertir la lesión en chisme, sino en señalar que, durante calendarios intensivos, el estado físico de las animadoras reescribe directamente «la actuación que se puede captar en cámara». Para quien quiera entender la mercantilización del béisbol profesional taiwanés, esta es una realidad estructural más digna de registrar que los pasos de baile.
 

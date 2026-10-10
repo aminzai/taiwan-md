@@ -3,7 +3,16 @@ title: 'Ang Lee: Hinter zwei Oscars der Sohn, der sich nie richtig von seinem Va
 description: '2006 stand Ang Lee auf der Oscar-Bühne und wurde der erste Asiate, der den Preis für die beste Regie gewann – und sprach auf Mandarin den Satz „Danke für eure Besorgnis“. Die Welt erinnert sich an den Stolz Taiwans und seine zwei goldenen Statuetten, doch sein ganzes Leben lang filmte er Unterdrückung, Angst – und den Vater, der seine Filme immer abgelehnt hatte und zwei Jahre zuvor plötzlich gestorben war. Vom arbeitslosen Schwiegersohn, der sechs Jahre lang zu Hause kochte, zum zweifachen Golden-Lion-Gewinner von Venedig: Sein wahrer Gegner war nie das Filmset, sondern das Selbst, das er nicht überwinden konnte.'
 date: 2026-03-17
 category: 'People'
-tags: ['Person', 'Ang Lee', 'Regisseur', 'Oscar', 'Film', 'Interkulturell', 'Golden Horse Awards']
+tags:
+  [
+    'Person',
+    'Ang Lee',
+    'Regisseur',
+    'Oscar',
+    'Film',
+    'Interkulturell',
+    'Golden Horse Awards',
+  ]
 subcategory: '電影與戲劇'
 author: 'Taiwan.md'
 featured: true
@@ -14,7 +23,7 @@ imageCredit: 'Sean Reynolds'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Ang_Lee_(8464864982).jpg'
 translatedFrom: 'People/李安.md'
-sourceCommitSha: '09ffe560f'
+sourceCommitSha: '09c1bf1a9'
 sourceContentHash: 'sha256:270ebb8ad85e9750'
 sourceBodyHash: 'sha256:1c12395477bc0a4e'
 translatedAt: '2026-09-09T00:35:00+08:00'
@@ -57,7 +66,6 @@ _Ang Lee beim Hong Kong Asian Film Festival 2007. Foto: WikiCantona. [CC BY-SA 3
 Der Wendepunkt kam 1990. In jenem Jahr reichte Ang Lee beim Preis für gute Drehbücher des Informationsamtes des Exekutiv-Yuans gleich zwei Manuskripte ein: _Pushing Hands_ gewann den ersten Preis mit einem Preisgeld von 400.000 NT$, _The Wedding Banquet_ den zweiten[^13]. Diese 400.000 NT$ plus das Auge des Zentralfilm-Vizepräsidenten Hsu Li-kong holten ihn aus der Küche heraus. Hsu Li-kong erkannte das Talent dieses Neulings ohne Langfilm und beschloss, in _Pushing Hands_ zu investieren, mit einem Produktionsbudget von etwa zwölf bis dreizehneinhalb Millionen NT$. Was Hsu Li-kong ihm sagte, war hart und zugleich sehr realistisch: „Zwölf Millionen NT$, mehr nicht, keine einzige Münze mehr.“[^14] Im selben Jahr wurde sein zweiter Sohn Mason geboren[^15].
 
 Sechs Jahre Arbeitslosigkeit endeten damit mit 36 Jahren. Aber diese sechs Jahre waren nicht umsonst: Sie zwangen einen Menschen dazu, am tiefsten zu erfahren, was es heißt, „keinen festen Boden unter den Füßen zu haben“ – und genau das wurde der Grundton all seiner späteren Werke.
-
 
 ## Sihung Lung spielte dreimal seinen Vater
 

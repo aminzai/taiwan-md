@@ -6,7 +6,7 @@ tags: ['Niu Cheng-Ze', 'Director', 'Actor', 'Monga', 'Controversy']
 subcategory: 'Film & Theater'
 lastVerified: 2026-03-19
 translatedFrom: 'People/鈕承澤.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:03252333a42bc60e'
 sourceBodyHash: 'sha256:decf157a216cec86'
 translatedAt: '2026-05-16T21:50:00Z'

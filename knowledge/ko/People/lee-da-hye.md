@@ -19,7 +19,7 @@ featured: false
 lastVerified: 2026-05-13
 translatedFrom: 'People/李多慧.md'
 readingTime: 10
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:5948ff9d2aa67b97'
 sourceBodyHash: 'sha256:b16f2be3d2468ceb'
 translatedAt: '2026-05-17T06:30:00Z'
