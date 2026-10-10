@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-10T20:00:28+08:00",
-    "zhCommitHead": "48b356d34",
+    "lastUpdated": "2026-10-10T20:04:00+08:00",
+    "zhCommitHead": "95bf8b1d0",
     "totalZh": 1125,
     "activeLanguages": [
       "en",
@@ -68,8 +68,8 @@
       },
       "id": {
         "total_zh": 1125,
-        "fresh": 1122,
-        "stale": 3,
+        "fresh": 1123,
+        "stale": 2,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -92,9 +92,9 @@
       },
       "ar": {
         "total_zh": 1125,
-        "fresh": 1120,
+        "fresh": 1121,
         "stale": 2,
-        "metadata_stale": 3,
+        "metadata_stale": 2,
         "missing": 0,
         "orphan": 0
       },
@@ -72174,20 +72174,18 @@
         "id": {
           "path": "id/Society/taiwan-sports-olympics.md",
           "translatedFrom": "Society/台灣體育發展與奧運.md",
-          "sourceCommitSha": "21298a7ae",
-          "sourceContentHash": "sha256:a575707a54edea46",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-09-25T15:15:01.711807+00:00",
+          "sourceCommitSha": "f40273072",
+          "sourceContentHash": "sha256:e7727fb00a4fa3ab",
+          "sourceBodyHash": "sha256:77348d4fbb7640a8",
+          "translatedAt": "2026-10-10T11:34:01.720242+00:00",
           "translationLastCommit": "ddbcccbf",
           "translationLastModified": "2026-09-26T00:58:39+08:00",
           "inferred": false,
           "footnoteDefs": 55,
-          "bytes": 37920,
+          "bytes": 38122,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "zh-moved-forward",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/taiwan-sports-olympics.md",
@@ -76110,8 +76108,8 @@
           "sourceContentHash": "sha256:fa3e1618857c531a",
           "sourceBodyHash": "sha256:b139705eca5e1f54",
           "translatedAt": "2026-10-10T19:08:19+08:00",
-          "translationLastCommit": "d481fd68",
-          "translationLastModified": "2026-09-11T07:08:59+08:00",
+          "translationLastCommit": "95bf8b1d",
+          "translationLastModified": "2026-10-10T20:00:28+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "bytes": 35491,
@@ -77896,20 +77894,18 @@
         "ar": {
           "path": "ar/Society/typhoon-day.md",
           "translatedFrom": "Society/颱風假.md",
-          "sourceCommitSha": "9bddcff65",
-          "sourceContentHash": "sha256:d909a68892279cea",
+          "sourceCommitSha": "f40273072",
+          "sourceContentHash": "sha256:a1f455d597d80f3d",
           "sourceBodyHash": "sha256:8d3f66b5c4593a14",
-          "translatedAt": "2026-09-15T02:46:31+08:00",
+          "translatedAt": "2026-10-10T19:08:18+08:00",
           "translationLastCommit": "034dfd9f",
           "translationLastModified": "2026-09-15T04:17:41+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "bytes": 32223,
+          "bytes": 33305,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/typhoon-day.md",
@@ -124002,11 +123998,11 @@
           "sourceContentHash": "sha256:06a2002deee9c4a4",
           "sourceBodyHash": "sha256:5eacf1a20c5ad4bd",
           "translatedAt": "2026-10-10T16:54:48+08:00",
-          "translationLastCommit": "9b6dd689",
-          "translationLastModified": "2026-09-08T17:18:11+08:00",
+          "translationLastCommit": "95bf8b1d",
+          "translationLastModified": "2026-10-10T20:00:28+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "bytes": 28814,
+          "bytes": 28818,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
