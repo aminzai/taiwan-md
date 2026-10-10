@@ -26,6 +26,7 @@ imageSource: 'https://www.tfam.museum/yiyiey'
 translatedFrom: 'People/楊德昌.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:d43bbd945067b97d'
+sourceBodyHash: 'sha256:7119ad62eb825546'
 translatedAt: '2026-09-24T19:05:38.125983+00:00'
 ---
 

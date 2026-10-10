@@ -37,6 +37,7 @@ curation: 'verified'
 translatedFrom: 'Society/苯駢芘食安事件.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:036e3f58784db1c4'
+sourceBodyHash: 'sha256:03c7ddf0f1c105ec'
 translatedAt: '2026-09-24T18:21:53.478022+00:00'
 ---
 

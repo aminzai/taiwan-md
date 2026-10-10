@@ -30,6 +30,7 @@ sporeLinks:
 translatedFrom: 'Society/台灣邦交國與國際外交.md'
 sourceCommitSha: '669a4c875'
 sourceContentHash: 'sha256:4a54c99c213cd153'
+sourceBodyHash: 'sha256:e6881f1d2b6924ed'
 translatedAt: '2026-09-21T22:30:16.464691+00:00'
 ---
 

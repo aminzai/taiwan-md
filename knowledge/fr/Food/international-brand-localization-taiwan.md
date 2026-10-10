@@ -30,6 +30,7 @@ curation: incubating
 translatedFrom: 'Food/國際品牌在地化.md'
 sourceCommitSha: '03b3aaae8'
 sourceContentHash: 'sha256:d2bd210c796c69a8'
+sourceBodyHash: 'sha256:182f4f2aaec097aa'
 translatedAt: '2026-08-26T20:32:54Z'
 ---
 
