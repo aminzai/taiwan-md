@@ -166,7 +166,7 @@ _搞神馬 2026年7月15日公式動画サムネイル：阿神と馬田の共�
 - [DailyView：阿神が十一年間途切れない日更停止を発表](https://dailyview.tw/popular/detail/9864) — 報道保存の本人ツイート画像を日更停止の転機評論に使用、合理的使用（Fair use editorial commentary）。
 - [搞神馬：2026年7月15日公式動画](https://www.youtube.com/watch?v=CAOpagY34UI) — 動画サムネイルを共同番組が依然稼働中であることの評論に使用、合理的使用（Fair use editorial commentary）。
 
-## 參考資料
+## 参考資料
 
 [^1]: [阿神公式YouTubeチャンネル動画ページ](https://www.youtube.com/@AshanKouki/videos) — ；[2026年7月14日Minecraftコラボ動画](https://www.youtube.com/watch?v=60n6gPUEl7s) — 2026年7月15日、レンダリング済みDOMで検証、チャンネル概要、331万登録、5,622本動画、最新長編動画メタデータを記録
 

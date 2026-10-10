@@ -183,7 +183,7 @@ TFTはそれを2030戦略ビジョンに書き込みました。博幼基金会�
 - 教育制度と進学文化——台湾が進学を唯一の道とする文化は、学習貧困の子どもたちを制度の中でほぼ選択肢なき状態に追い込みます。
 - [誰が低賃金か](/ja/society/who-counts-as-low-wage) — もう一つの定義問題：主計総処が月給で算出すればゼロ人、年収で算出すれば126万人が低賃金。違いは法律が届かない年終ボーナスの欄にあります。
 
-## 參考資料
+## 参考資料
 
 [^1]: [World Bank & UNESCO (2019) - Ending Learning Poverty: What Will It Take?](https://www.worldbank.org/en/topic/education/publication/ending-learning-poverty) — 世界銀行が2019年10月、ユネスコと共同発表した報告書。「Learning Poverty」概念を初めて提唱し、「10歳の子どもが年齢相応の簡単な文章を読み解けない」と定義。ユネスコ統計研究所の世界読解力調査データに基づき、「learn to read」（10歳前）と「read to learn」（10歳後）の認知発達の転換点を説明。
 

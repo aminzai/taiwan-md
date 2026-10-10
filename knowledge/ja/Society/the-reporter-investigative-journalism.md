@@ -289,7 +289,7 @@ AIツールの参入は、さらに新しい変数です。大規模言語モデ
 - [医療美容盗撮騒動：台湾の医療美容規制に何が起きているのか？](https://www.youtube.com/watch?v=_AdtqBm7Hk4) — 報導者 The Reporter
 - [『報導者』創立周年、大きな声で話します！](https://www.youtube.com/watch?v=H_PiSMCR6Sc) — 報導者 The Reporter
 
-## 參考資料
+## 参考資料
 
 [^1]: 何栄幸氏Facebook投稿、2025-09-14：「『報導者』公開初月、定期定額寄付者は4人しかおらず、私はこの数字を同僚たちに知らせる勇気がまったくなかった」。facebook.com/twreporter/posts/1235665585269425 を参照。
 

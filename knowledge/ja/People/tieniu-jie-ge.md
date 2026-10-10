@@ -174,7 +174,7 @@ _Christopher Sherlock／Wikimedia Commons, CC BY-SA 4.0（イメージ写真）_
 - [迷因、謎因、靡音音樂劇？從原作基調到再創的變奏](https://pareviews.ncafroc.org.tw/comments/02eda3e0-85da-4f7c-b8ef-e792134ef18a) — 表演芸術評論台による『吼呦～杰哥不要啦！！』の全劇評、ミームがいかに演劇へ翻案されたかを読み解く。
 - [讓我看看！台灣迷因「杰哥不要」改編成恐怖遊戲](https://www.mirrordaily.news/story/49297) — 2026 年『在杰難逃』が Steam に登場、杰哥ミームが台湾から世界へ、クロスオーバー派生作品へと広がった軌跡。
 
-## 參考資料
+## 参考資料
 
 ## 画像出典
 

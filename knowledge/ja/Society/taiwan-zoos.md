@@ -154,7 +154,7 @@ Xparkの重要性は美しいかどうかではなく、「水族館は百貨店
 
 一言でこの記事を覚えるなら：台湾にはわずか数座の動物園があるだけでなく、動物を公共生活に入れるいくつかの方法がある。これらの方法の一部は改善中、一部は議論に満ち、一部はただ地方家族の週末の一区間だ。真に問う価値があるのは「どの園が一番か」ではなく、次に子供や友人を連れて動物を見に行く時、我々が彼らに何を覚えてほしいかだ。
 
-## 參考資料
+## 参考資料
 
 - [無囲牆環境教育博物館：台北市立動物園](https://eemuseum.gov.taipei/Content_List.aspx?n=752F2C7CF90A26BA)（一手）
 - [台北市立動物園 2024年報](https://www-ws.gov.taipei/Download.ashx?icon=..pdf&n=MDblnJLli5nntbHoqIgucGRm&u=LzAwMS9VcGxvYWQvNDMyL3JlbGZpbGUvMjE0OTUvOTQ5MTE4OS9jMGRiOThiNC01ZThlLTQyYmEtYmIxYy03NjQxZjk1YjM3NjEucGRm)（一手）

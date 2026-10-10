@@ -112,7 +112,7 @@ Netflix の英文プレスリリースは、この規模をより明確に伝え
 
 [Netflix Newsroom：『Light the Night（華燈初上）』と台北のサブカルチャー](https://about.netflix.com/news/in-star-studded-light-the-night-a-unique-taipei-subculture-comes-alive)
 
-## 參考資料
+## 参考資料
 
 [^1]: [女人迷：林心如『華燈初上』：俳優からプロデューサーへ、最も難しかったのは俳優としてのアイデンティティを脱却すること](https://womany.net/read/article/28093) — 2021年のインタビュー。林心如が俳優からプロデューサーへ転身した際の仕事内容、ニューヨークでの研修、大学院での学習、本人の発言などを詳細に記録。
 

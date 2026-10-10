@@ -75,7 +75,7 @@ translatedAt: '2026-08-09T15:02:41+08:00'
 - [台灣高等教育擴張與退場](/ja/society/taiwan-higher-education-expansion-and-decline) — 大學端的供給怎麼變，決定了考試端的壓力
 - [台灣少子化危機](/ja/society/taiwan-low-birth-rate-crisis) — 考生人數的長期曲線從哪裡來
 
-## 參考資料
+## 参考資料
 
 [^1]: [Threads：分科測驗因颱風延期 招聯會宣布改到7/13舉行](https://www.threads.com/@knews_taiwan/post/Dah21xyj5Me/) — 2026年強烈台風バビ（巴威）が試験日程に与えた影響を報道。これは分科測驗史上初の延期記録となった。
 

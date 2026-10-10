@@ -180,7 +180,7 @@ art/歌仔戲 | 對照《冥戰錄》從漫畫轉譯為歌仔戲的表演語言
 
 本文嵌入一張 Wikimedia Commons 的媽祖影像，使用熱網址呈現，未下載或重新託管圖片。影像檔案頁為 [File:Mazu.jpg](https://commons.wikimedia.org/wiki/File:Mazu.jpg)，作者為 Jet.Xu，授權為 [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)。此圖只作為民間信仰脈絡示意，不是韋宗成作品，也不是 2017 年林默娘花燈。
 
-## 參考資料
+## 参考資料
 
 [^1]: [馬祖日報：少女林默娘動畫漫像，媽祖花燈首度亮相台北燈節](https://www.matsu-news.gov.tw/news/article/172610) — 2017 年台北燈節活動報導，記錄韋宗成授權林默娘花燈，以及花燈的高度、寬度、長度與遊行路線等具體資料。
 
