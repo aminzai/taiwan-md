@@ -156,7 +156,7 @@ Este artigo baseia-se principalmente nos treze artigos concretos, comunicados of
 
 [^12]: [Ministério da Cultura: Sobre o artigo de Tsai Chih-hao "Livrarias independentes: a luta entre visitar e não visitar", associação recomenda membros de visita, Ministério para imediatamente suas funções](https://www.moc.gov.tw/News_Content.aspx?n=105&s=204963) — Comunicado oficial de 2024, explica visita a livrarias físicas, recomendação de membros pela associação e parada de visita e avaliação pelo Ministério.
 
-[^13]: [Wikimedia Commons: File: 植隱冊室 (3).jpg](<https://commons.wikimedia.org/wiki/File:%E6%A4%8D%E9%9A%B1%E5%86%8A%E5%AE%A4_(3).jpg>) — Página de arquivo de imagem interna da _Zhiyin Bookstore_ em Magong (Penghu), fotografada por Austin Huang, CC BY-SA 4.0, este artigo apenas embute hotlink do arquivo original, sem download ou modificação da imagem.
+[^13]: [Wikimedia Commons: File: 植隱冊室 (3).jpg](https://commons.wikimedia.org/wiki/File:%E6%A4%8D%E9%9A%B1%E5%86%8A%E5%AE%A4_(3) — Página de arquivo de imagem interna da _Zhiyin Bookstore_ em Magong (Penghu), fotografada por Austin Huang, CC BY-SA 4.0, este artigo apenas embute hotlink do arquivo original, sem download ou modificação da imagem.
 
 ## Fontes e licenças das imagens
 

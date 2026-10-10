@@ -125,7 +125,7 @@ Este artigo incorpora quatro fotos de doces taiwaneses e mercado de Ano Novo do 
 
 [^7]: [Secretaria de Saúde de Keelung: Lista de inspeção de alimentos sazonais do Ano Novo Lunar e Festival das Lanternas de 2023 (ano 112)](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01207/f1674011260718.pdf) — PDF de inspeção oficial de 2022, página 2 lista inspeção de aflatoxina em doce de amendoim e resultado conforme regulamento, mostra governança de segurança de alimentos de Ano Novo.
 
-[^8]: [Wikimedia Commons: Taiwanese sweets (1088069273).jpg](<https://commons.wikimedia.org/wiki/File:Taiwanese_sweets_(1088069273).jpg>) — Autor: pelican, licença CC BY-SA 2.0. Este artigo usa URL original do Wikimedia Commons, não baixa nem modifica a imagem.
+[^8]: [Wikimedia Commons: Taiwanese sweets (1088069273).jpg](https://commons.wikimedia.org/wiki/File:Taiwanese_sweets_(1088069273) — Autor: pelican, licença CC BY-SA 2.0. Este artigo usa URL original do Wikimedia Commons, não baixa nem modifica a imagem.
 
 [^9]: [Wikimedia Commons: 2010-02-13 Lunar New Year sweets vendor at Dihua Street, Taipei](https://commons.wikimedia.org/wiki/File:2010-02-13_Lunar_New_Year_sweets_vendor_at_Dihua_Street,_Taipei.jpg) — Foto de banca de doces de Ano Novo Lunar na Rua Dihua, Taipei, 2010. Autor: eazytraveler, licença CC BY 2.0, este artigo usa URL original.
 

@@ -268,7 +268,7 @@ Da próxima vez que alguém lhe perguntar "afinal Taiwan pertence a onde", pode 
 
 [^12]: [DNA vegetal até regista a história! A migração austronésia contada pela _Broussonetia_](https://research.sinica.edu.tw/paper-mulberry-dna-austronesian-history-chung-kuo-fang/) — Entrevista especial 'Ciência com Substância' da Academia Sinica, apresenta a equipa de Chung Kuo-fang a apoiar 'Out of Taiwan' via biogeografia do DNA de _Broussonetia_.
 
-[^13]: [Nusantara (term) - Wikipedia](<https://en.wikipedia.org/wiki/Nusantara_(term)>) — Etimologia completa de Nusantara: javanês antigo _nusa_ (ilha) + empréstimo sânscrito _antara_ (entre).
+[^13]: [Nusantara (term) - Wikipedia](https://en.wikipedia.org/wiki/Nusantara_(term) — Etimologia completa de Nusantara: javanês antigo _nusa_ (ilha) + empréstimo sânscrito _antara_ (entre).
 
 [^14]: [Majapahit - Wikipedia](https://en.wikipedia.org/wiki/Majapahit) — Verbete sobre o império Majapahit de Java Oriental (século XIV), inclui contexto histórico do 'Juramento de Palapa' de Gajah Mada em 1336.
 

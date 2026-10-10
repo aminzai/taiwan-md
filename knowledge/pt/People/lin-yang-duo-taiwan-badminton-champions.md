@@ -224,7 +224,7 @@ Mesmo com a aposentadoria de Lee, o nome "Lin-Yang" permanecerá para sempre lig
 
 [^4]: [Wikipédia: Wang Chi-lin](https://zh.wikipedia.org/zh-tw/%E7%8E%8B%E9%BD%8A%E9%BA%9F) — Data de nascimento, altura, ranking da carreira e informações da seleção.
 
-[^5]: [Wikipédia: Lee Yang (badminton)](<https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%B4%8B_(%E7%BE%BD%E7%90%83%E9%81%8B%E5%8B%95%E5%93%A1) — Nascimento, registro domiciliar, background familiar, parcerias e resultados internacionais.
+[^5]: [Wikipédia: Lee Yang (badminton)](<https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%B4%8B_(%E7%BE%BD%E7%90%83%E9%81%8B%E5%8B%95%E5%93%A1)>) — Nascimento, registro domiciliar, background familiar, parcerias e resultados internacionais.
 
 [^6]: [Wikipedia: Badminton at the 2020 Summer Olympics – Men's doubles](https://en.wikipedia.org/wiki/Badminton_at_the_2020_Summer_Olympics_%E2%80%93_Men%27s_doubles) — Campeões olímpicos masculinos de duplas em Tóquio, placar da final e recorde de ouro por não-cabeças de chave (verbete em inglês, para verificação cruzada).
 

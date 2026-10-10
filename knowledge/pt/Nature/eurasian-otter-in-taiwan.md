@@ -82,7 +82,7 @@ A luta pela sobrevivência das lontras de Kinmen é um microcosmo da conservaç�
 
 [^1]: [_Fauna dos Vertebrados de Taiwan_](https://www.threads.com/@wei3201wei/post/DR5plCmE8A_) — Registo da distribuição histórica da lontra-europeia em cursos de água de toda a ilha abaixo de 1500 m.
 
-[^2]: [Atropelamentos frequentes; ciência e dados para salvar a lontra-europeia](https://tw.news.yahoo.com/%E8%B7%AF%E6%AE%BA%E4%BA%8B%E4%BB%B6%E6%99%82%E6%9C%89%E8%80%B3%E8%81%9E-%E9%9D%A0%E7%A7%91%E5%AD%B8%E6%95%B8%E6%93%9A%E6%8B%AF%E6%95%91%E6%AD%90%E4%BA%9E%E6%B0%B4%E7%8D%BA-024905470.html) — Yahoo Notícias (2017), menciona registos históricos em Sanxia, Taichung, Hualien, entre outros.
+[^2]: [Atropelamentos frequentes; ciência e dados para salvar a lontra-europeia](https://tw.news.yahoo.com/%E8%B7%AF%E6%AE%BA%E4%BA%8B%E4%BB%B6%E6%99%82%E6%9C%89%E8%80%B3%E8%81%9E-%E9%9D%A0%E7%A7%91%E5%AD%B8%E6%95%B8%E6%93%9A%E6%8B%BC%E6%95%91%E6%AD%90%E4%BA%9E%E6%B0%B4%E7%8D%BA-024905470.html) — Yahoo Notícias (2017), menciona registos históricos em Sanxia, Taichung, Hualien, entre outros.
 
 [^3]: [Área especial da lontra-europeia](https://ed.kinmen.gov.tw/Content_List.aspx?n=33824A7DF64FEEEA) — Departamento de Construção do Governo do Condado de Kinmen, aponta que nos últimos 30 anos não houve registos de detecção na natureza na ilha principal de Taiwan.
 

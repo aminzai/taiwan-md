@@ -253,9 +253,9 @@ Com a lógica mais fria de um engenheiro, filmou a solidão mais quente do cora�
 
 [^13]: [Seattle Times: Edward Yang, 59, filmmaker with Seattle ties](https://www.seattletimes.com/entertainment/edward-yang-59-filmmaker-with-seattle-ties/) — Obituário registra volta a Taiwan em 1981 (Wikipedia em inglês diz 1980, ambas coexistem, adota-se o obituário); de volta, convidado por Yu Wei-yen para _The Winter of 1905_.
 
-[^14]: [Wikipedia: In Our Time (film)](<https://zh.wikipedia.org/zh-tw/%E5%85%89%E9%99%B0%E7%9A%84%E6%95%85%E4%BA%8B_(%E9%9B%BB%E5%BD%B1) — Wikipedia chinesa registra _In Our Time_ como obra onde a CMPC, sob planejamento de Hsiao Yeh e Wu Nien-jen, escalou quatro novos diretores, vista como marco inicial do Novo Cinema de Taiwan.
+[^14]: [Wikipedia: In Our Time (film)](<https://zh.wikipedia.org/zh-tw/%E5%85%89%E9%99%B0%E7%9A%84%E6%95%85%E4%BA%8B_(%E9%9B%BB%E5%BD%B1)>) — Wikipedia chinesa registra _In Our Time_ como obra onde a CMPC, sob planejamento de Hsiao Yeh e Wu Nien-jen, escalou quatro novos diretores, vista como marco inicial do Novo Cinema de Taiwan.
 
-[^15]: [Wikipedia: In Our Time (film)](<https://zh.wikipedia.org/zh-tw/%E5%85%89%E9%99%B0%E7%9A%84%E6%95%85%E4%BA%8B_(%E9%9B%BB%E5%BD%B1) — Mesmo anterior, quatro segmentos: Tao Te-chen "Little Dragon Head", Edward Yang "Expectativa", Ko I-cheng "Leapfrog", Chang Yi "Roll Call", correspondendo infância à vida adulta, estreia em 28 ago 1982.
+[^15]: [Wikipedia: In Our Time (film)](<https://zh.wikipedia.org/zh-tw/%E5%85%89%E9%99%B0%E7%9A%84%E6%95%85%E4%BA%8B_(%E9%9B%BB%E5%BD%B1)>) — Mesmo anterior, quatro segmentos: Tao Te-chen "Little Dragon Head", Edward Yang "Expectativa", Ko I-cheng "Leapfrog", Chang Yi "Roll Call", correspondendo infância à vida adulta, estreia em 28 ago 1982.
 
 [^16]: [Wikipedia: That Day, on the Beach](https://zh.wikipedia.org/zh-hant/%E6%B5%B7%E7%81%98%E7%9A%84%E4%B8%80%E5%A4%A9) — Wikipedia chinesa _That Day, on the Beach_, primeiro longa de Yang (166 min), estrelado por Chang Ai-chia e Hu Yin-meng, coprodução CMPC e New Cinema City; Tu Ko-feng estreia como diretor de fotografia, "provocou reação furiosa dos fotógrafos internos da CMPC. Mas Yang ignorou toda pressão e insistiu em usá-lo".
 
@@ -359,7 +359,7 @@ Com a lógica mais fria de um engenheiro, filmou a solidão mais quente do cora�
 
 [^67]: [ETtoday: Hou Hsiao-hsien and Chu Tien-wen on Edward Yang](https://star.ettoday.net/news/979353) — Mesmo anterior, Hou textual sobre produzir e atuar em _The Time to Live and the Time to Die_: "Acabou o dinheiro? Fica devendo pro sogro."
 
-[^68]: [Wikipedia: The Time to Live and the Time to Die (film)](<https://zh.wikipedia.org/zh-tw/%E9%9D%92%E6%A2%85%E7%AB%B9%E9%A6%AC_(%E9%9B%BB%E5%BD%B1) — Wikipedia chinesa _The Time to Live and the Time to Die_, registra cartaz em Taipé por apenas quatro dias, também ganhou Prêmio FIPRESCI em Locarno.
+[^68]: [Wikipedia: The Time to Live and the Time to Die (film)](<https://zh.wikipedia.org/zh-tw/%E9%9D%92%E6%A2%85%E7%AB%B9%E9%A6%AC_(%E9%9B%BB%E5%BD%B1)>) — Wikipedia chinesa _The Time to Live and the Time to Die_, registra cartaz em Taipé por apenas quatro dias, também ganhou Prêmio FIPRESCI em Locarno.
 
 [^69]: [ETtoday: Hou Hsiao-hsien and Chu Tien-wen on Edward Yang](https://star.ettoday.net/news/979353) — ETtoday, Hou relembra _The Time to Live and the Time to Die_ depois Yang casou com Tsai Chin, continuava cheio de gás: "o seguinte _The Terrorizers_ ficou tão bom, tão forte".
 
@@ -377,15 +377,15 @@ Com a lógica mais fria de um engenheiro, filmou a solidão mais quente do cora�
 
 [^76]: [CNA Culture+: Edward Yang's Comics and Animation](https://www.cna.com.tw/culture/article/20230618w006) — Mesmo anterior, registra produtora de Yang batizada "Atom Films", homenagem ao _Astro Boy_ de Osamu Tezuka.
 
-[^77]: [Wikipedia: The Wind (animated film)](<https://zh.wikipedia.org/wiki/%E8%BF%BD%E9%A2%A8_(%E5%8B%95%E7%95%AB%E9%9B%BB%E5%BD%B1) — Wikipedia chinesa _The Wind_ animação, registra Jackie Chan como coreógrafo de ação, coprodutor com Yang, investiu seus próprios direitos de imagem.
+[^77]: [Wikipedia: The Wind (animated film)](<https://zh.wikipedia.org/wiki/%E8%BF%BD%E9%A2%A8_(%E5%8B%95%E7%95%AB%E9%9B%BB%E5%BD%B1)>) — Wikipedia chinesa _The Wind_ animação, registra Jackie Chan como coreógrafo de ação, coprodutor com Yang, investiu seus próprios direitos de imagem.
 
-[^78]: [Wikipedia: The Wind (animated film)](<https://zh.wikipedia.org/wiki/%E8%BF%BD%E9%A2%A8_(%E5%8B%95%E7%95%AB%E9%9B%BB%E5%BD%B1) — Wikipedia chinesa registra _The Wind_ ambientado em Bianliang (Kaifeng) da Song do Norte, baseado no _Along the River During the Qingming Festival_ e _Dreams of Splendor of the Eastern Capital_; CNA também cita sua ideia de usar o rolo longo do _Qingming_ para contar histórias de várias personagens.
+[^78]: [Wikipedia: The Wind (animated film)](<https://zh.wikipedia.org/wiki/%E8%BF%BD%E9%A2%A8_(%E5%8B%95%E7%95%AB%E9%9B%BB%E5%BD%B1)>) — Wikipedia chinesa registra _The Wind_ ambientado em Bianliang (Kaifeng) da Song do Norte, baseado no _Along the River During the Qingming Festival_ e _Dreams of Splendor of the Eastern Capital_; CNA também cita sua ideia de usar o rolo longo do _Qingming_ para contar histórias de várias personagens.
 
 [^79]: [CNA Culture+: Edward Yang's Comics and Animation](https://www.cna.com.tw/culture/article/20230618w006) — Mesmo anterior, registra exigência de Yang para _The Wind_: "num plano-séquência só", teimosia técnica de engenheiro.
 
-[^80]: [Wikipedia: The Wind (animated film)](<https://zh.wikipedia.org/wiki/%E8%BF%BD%E9%A2%A8_(%E5%8B%95%E7%95%AB%E9%9B%BB%E5%BD%B1) — Wikipedia chinesa registra orçamento de 25 milhões de dólares, no fim só nove a dez minutos de teste e fragmentos compilados depois.
+[^80]: [Wikipedia: The Wind (animated film)](<https://zh.wikipedia.org/wiki/%E8%BF%BD%E9%A2%A8_(%E5%8B%95%E7%95%AB%E9%9B%BB%E5%BD%B1)>) — Wikipedia chinesa registra orçamento de 25 milhões de dólares, no fim só nove a dez minutos de teste e fragmentos compilados depois.
 
-[^81]: [Wikipedia: The Wind (animated film)](<https://zh.wikipedia.org/wiki/%E8%BF%BD%E9%A2%A8_(%E5%8B%95%E7%95%AB%E9%9B%BB%E5%BD%B1) — Wikipedia chinesa registra parceiro encerrou cooperação ao saber do câncer de Yang, sua empresa Kai Jia Entertainment Technology depois entrou em disputa financeira, liquidação e dissolução.
+[^81]: [Wikipedia: The Wind (animated film)](<https://zh.wikipedia.org/wiki/%E8%BF%BD%E9%A2%A8_(%E5%8B%95%E7%95%AB%E9%9B%BB%E5%BD%B1)>) — Wikipedia chinesa registra parceiro encerrou cooperação ao saber do câncer de Yang, sua empresa Kai Jia Entertainment Technology depois entrou em disputa financeira, liquidação e dissolução.
 
 [^82]: [Epoch Times: Edward Yang Fought Cancer Seven Years, Still Drawing Storyboards Before Coma](https://www.epochtimes.com/b5/7/7/3/n1762730.htm) — Epoch Times 3 jul 2007 (quatro dias após morte), registra Chang Yi falando que _The Wind_ era engenharia grande demais para continuar.
 

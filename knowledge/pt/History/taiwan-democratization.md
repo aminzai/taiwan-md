@@ -201,9 +201,9 @@ De uma carta de testamento a Presidente do Yuan de Controle, quarenta e um anos.
 
 [^5]: [Arquivo de Memória de Direitos Humanos: Evento de Kaohsiung](https://memory.nhrm.gov.tw/TopicExploration/Event/Detail/5) — Inclui fotos, registros de julgamento e depoimentos orais de partes envolvidas do Evento de Kaohsiung de 10 de dezembro de 1979; é a base de dados digitalizada mais completa sobre o Incidente de Mei-Li-Dao.
 
-[^6]: [Story Studio: Da Grande Prisão ao Grande Julgamento Militar](https://storystudio.tw/article/gushi/%E5%BE%9E%E5%A4%A7%E9%80%95%E6%8D%95%E5%88%B0%E8%BB%8D%E6%B3%95%E5%A4%A7%E5%AF%A9%EF%BC%9A%E7%BE%8E%E9%BA%97%E5%B3%B6%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E5%BD%B1%E5%83%8F%E5%8F%B2%EF%BC%88%E4%BA%8C) — Inclui fotos do julgamento militar e a lista dos quinze advogados de defesa, registrando como o julgamento acabou criando acidentalmente a próxima geração de líderes do movimento de oposição.
+[^6]: [Story Studio: Da Grande Prisão ao Grande Julgamento Militar](https://storystudio.tw/article/gushi/%E5%BE%9E%E5%A4%A7%E9%80%AE%E6%8D%95%E5%88%B0%E8%BB%8D%E6%B3%95%E5%A4%A7%E5%AF%A9%EF%BC%9A%E7%BE%8E%E9%BA%97%E5%B3%B6%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E5%BD%B1%E5%83%8F%E5%8F%B2%EF%BC%88%E4%BA%8C) — Inclui fotos do julgamento militar e a lista dos quinze advogados de defesa, registrando como o julgamento acabou criando acidentalmente a próxima geração de líderes do movimento de oposição.
 
-[^7]: [Wikipedia: Massacre da Família Lin](https://zh.wikipedia.org/zh-tw/%E6%9E%97%E5%AE%B6%E8%A1%80%E6%A1%88) — A cronologia e as investigações subsequentes do massacre na casa de Lin Yi-xiong em 28 de fevereiro de 1980; ainda é um dos maiores casos não resolvidos de Taiwan.
+[^7]: [Wikipedia: Massacre da Família Lin](https://zh.wikipedia.org/zh-tw/%E6%9E%97%E5%AE%85%E8%A1%80%E6%A1%88) — A cronologia e as investigações subsequentes do massacre na casa de Lin Yi-xiong em 28 de fevereiro de 1980; ainda é um dos maiores casos não resolvidos de Taiwan.
 
 [^8]: [Arquivo de Memória de Direitos Humanos: Caso Jiang Nan](https://memory.nhrm.gov.tw/TopicExploration/Event/Detail/39) — A cronologia completa do assassinato de Liu Yi-liang em 1984, registrando o processo de investigação do planejamento do assassinato pelo diretor do Bureau de Inteligência Militar, Wang Hsi-ling, e seu impacto político internacional.
 

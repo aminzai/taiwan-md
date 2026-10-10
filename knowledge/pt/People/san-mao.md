@@ -144,13 +144,13 @@ Uma pessoa que passou a vida inteira fugindo acabou se tornando o caminho de out
 
 ## Referências
 
-[^1]: [Wikipédia: San Mao (escritora)](<https://zh.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6)>) — biografia básica, cronologia de criações, avaliações literárias
+[^1]: [Wikipédia: San Mao (escritora)](https://zh.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6) — biografia básica, cronologia de criações, avaliações literárias
 
 [^2]: [Chop Suey Club](https://www.chopsueyclub.com/blogs/blog/san-mao) — ano de nascimento de José: 1951, diferença etária de 8 anos, noivo alemão solteiro
 
 [^3]: [Diario de Avisos](https://www.diariodeavisos.com/2012/01/cuando-la-tragedia-sepulto-el-arte/) — local do acidente de José: La Palma, Barlovento, data e detalhes do resgate
 
-[^4]: [Wikipédia: Rede Ardente (filme)](<https://zh.wikipedia.org/wiki/%E6%BB%9A%E6%BB%9A%E7%B4%85%E5%A1%B5_(%E9%9B%BB%E5%BD%B1)>) — lista completa de oito prêmios do Festival de Cinema de Macau 27
+[^4]: [Wikipédia: Rede Ardente (filme)](https://zh.wikipedia.org/wiki/%E6%BB%9A%E6%BB%9A%E7%B4%85%E5%A1%B5_(%E9%9B%BB%E5%BD%B1) — lista completa de oito prêmios do Festival de Cinema de Macau 27
 
 [^5]: [New York Times Overlooked](https://www.nytimes.com/2019/10/23/obituaries/sanmao-overlooked.html) — vendas de 15 milhões de cópias, avaliações internacionais
 

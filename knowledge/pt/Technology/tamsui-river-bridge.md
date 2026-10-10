@@ -103,4 +103,4 @@ A conclusão da Ponte Tamsui marca um marco importante na transição das obras 
 
 [^7]: [Business Today: Contagem regressiva para inauguração da Ponte Tamsui; marco mundial completa 8 "missões impossíveis"](https://www.businesstoday.com.tw/article/category/192008/post/202604160051/) — Fornece contexto, dados ou cronologia de eventos relevantes para este artigo, servindo de base para a narrativa e verificação.
 
-[^8]: [Wikipédia: Ponte Tamsui](https://zh.wikipedia.org/zh-tw/%E6%B7%A1%E6%B1%9F%E5%A4%A7%E6%A9%8F) — Fornece contexto, dados ou cronologia de eventos relevantes para este artigo, servindo de base para a narrativa e verificação.
+[^8]: [Wikipédia: Ponte Tamsui](https://zh.wikipedia.org/zh-tw/%E6%B7%A1%E6%B1%9F%E5%A4%A7%E6%A9%8B) — Fornece contexto, dados ou cronologia de eventos relevantes para este artigo, servindo de base para a narrativa e verificação.

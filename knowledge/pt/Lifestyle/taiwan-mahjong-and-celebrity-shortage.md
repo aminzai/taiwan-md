@@ -160,7 +160,7 @@ Ele não respondeu.
 
 [^1]: [Klook: Quer ganhar dinheiro jogando com amigos? Iniciantes devem ver regras do mahjong 16 peças](https://www.klook.com/zh-TW/blog/taiwan-mahjong-rules/) — Regras básicas e contexto cultural do mahjong de 16 peças de Taiwan
 
-[^2]: [Wikipédia: Mahjong](https://zh.wikipedia.org/zh-hant/%E9%BA%BB%E5%B0%87) — Comparação das diferenças de regras por região
+[^2]: [Wikipédia: Mahjong](https://zh.wikipedia.org/zh-hant/%E9%BA%BB%E5%B0%86) — Comparação das diferenças de regras por região
 
 [^3]: [Pinkoi: Quais são as regras do mahjong de Taiwan? Um artigo ensina novato da compra à contagem](https://blog.pinkoi.com/tw/hot-topics/discovery/2211-mahjong/) — Composição das 144 peças, flores, oito imortais cruzam o mar
 

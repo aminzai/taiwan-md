@@ -101,13 +101,13 @@ Mediu a distância em Tóquio 1964, saltou-a na Cidade do México 1968, aposento
 
 [^1]: [Wikipédia: Chi Cheng](https://zh.wikipedia.org/wiki/紀政) — Verbete completo com data de nascimento (15 de março de 1944), naturalidade de Hsinchu e visão geral da carreira no atletismo.
 
-[^2]: [Wikipedia (EN): Chi Cheng (athlete)](<https://en.wikipedia.org/wiki/Chi_Cheng_(athlete) — Registos em inglês das competições internacionais de Chi Cheng entre 1966 e 1967; fontes chinesas e inglesas divergem quanto à prova exata, local e método de cronometragem, servindo o verbete inglês como referência complementar.
+[^2]: [Wikipedia (EN): Chi Cheng (athlete)](<https://en.wikipedia.org/wiki/Chi_Cheng_(athlete)>) — Registos em inglês das competições internacionais de Chi Cheng entre 1966 e 1967; fontes chinesas e inglesas divergem quanto à prova exata, local e método de cronometragem, servindo o verbete inglês como referência complementar.
 
 [^3]: [Agência Central de Notícias: Retrospectiva dos resultados olímpicos de Chi Cheng](https://www.cna.com.tw/news/aspt/202407103004.aspx) — Contém o registo do bronze nos 80 metros com barreiras feminino (10,51 s) nos Jogos da Cidade do México 1968 e do sétimo lugar na final dos 100 metros na mesma edição.
 
 [^4]: [Wikipédia: Chi Cheng](https://zh.wikipedia.org/wiki/紀政) — Lista dos 10 recordes mundiais da carreira, confirmando 100 metros, 200 metros, 100 metros com barreiras e pentatlo.
 
-[^5]: [Wikipedia (EN): Chi Cheng (athlete)](<https://en.wikipedia.org/wiki/Chi_Cheng_(athlete) — Registo em inglês do recorde mundial dos 200 metros (22,4 s); Munique como local da prova, ano exato e natureza da competição detalhados no verbete inglês.
+[^5]: [Wikipedia (EN): Chi Cheng (athlete)](<https://en.wikipedia.org/wiki/Chi_Cheng_(athlete)>) — Registo em inglês do recorde mundial dos 200 metros (22,4 s); Munique como local da prova, ano exato e natureza da competição detalhados no verbete inglês.
 
 [^6]: [Wikipédia: Chi Cheng (vida e citações)](https://zh.wikipedia.org/wiki/紀政) — Citação "O atletismo há de acompanhar-me até ao fim, como sombra que segue a forma, não me posso separar dele", proveniente de declarações de Chi Cheng em múltiplas entrevistas pós-aposentadoria, amplamente reproduzida em compilações biográficas.
 

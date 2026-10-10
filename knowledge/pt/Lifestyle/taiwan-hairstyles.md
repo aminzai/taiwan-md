@@ -123,9 +123,9 @@ Os tipos de espaços de cabelos em si são um reflexo social: dos barbeiros trad
 
 [^3]: Em 28 de junho de 1969, o Ministério da Educação da República da China (Taiwan) publicou oficialmente as "Regras de Forma de Cabelo para Estudantes Secundários": meninos devem seguir a política de "cabelos lisos", e meninas não podem pentear os cabelos nem deixá-los mais longos que a raiz dos pescoços. Referência-se aos arquivos do Ministério da Educação dos anos 1950-1970 e documentos relacionados à história da educação em Taiwan.
 
-[^4]: Em 20 de janeiro de 1987, o Ministério da Educação anunciou a suspensão da proibição nacional de cabelos, deixando a decisão às escolas individuais[^4].
+[^4]: Em 20 de janeiro de 1987, o Ministério da Educação anunciou a suspensão da proibição nacional de cabelos, deixando a decisão às escolas individuais[^4]. [「Taiwan in Time: Hairstyles as a form of social control」- Taipei Times](https://www.taipeitimes.com/News/feat/archives/2021/01/17/2003750725)
 
-[^5]: O Taipei Times de 2021-01-17 cita a declaração do ministro Tsai Ing-wen após a manifestação de 400 estudantes: "Os cabelos podem representar uma pessoa como boa ou má?"[^5].
+[^5]: O Taipei Times de 2021-01-17 cita a declaração do ministro Tsai Ing-wen após a manifestação de 400 estudantes: "Os cabelos podem representar uma pessoa como boa ou má?"[^5]. [Taipei Times 報導](https://www.taipeitimes.com/News/feat/archives/2021/01/17/2003750725)
 
 [^6]: O Ministério da Educação da República da China (Taiwan) emitiu oficialmente a dissolução total da proibição de cabelos em 24 de julho de 2005, e em 9 de agosto do mesmo ano publicou o documento oficial (台特教字第 0940108865 號), reafirmando que "as formas de cabelo pessoais dos estudantes estão dentro do escopo dos direitos fundamentais, e as regras escolares não podem incluir a gestão de formas de cabelo na orientação educacional dos estudantes"[^6]. Referência-se ao [National Cultural Memory Bank](https://tcmb.culture.tw/zh-tw/detail?id=168721&indexCode=Culture_Object) e publicações oficiais do Ministério da Educação.
 

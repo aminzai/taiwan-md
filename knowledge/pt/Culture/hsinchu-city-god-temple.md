@@ -28,7 +28,7 @@ translatedAt: '2026-09-08T15:54:48+08:00'
 
 ![Vista externa do Templo Cheng Huang de Hsinchu, tirada em 2018](/article-images/culture/hsinchu-city-god-temple-2018.webp)
 
-_Imagem: Taiwankengo, CC BY-SA 4.0; Página do Wikimedia Commons (https://commons.wikimedia.org/wiki/File:2018_Hsinchu_City_God_Temple_i_6.jpg)._
+_Imagem: Taiwankengo, CC BY-SA 4.0; Página do Wikimedia Commons (https://commons.wikimedia.org/wiki/File:2018_Hsinchu_City_God_Temple_i_6.jpg). [Wikimedia Commons 檔案頁](https://commons.wikimedia.org/wiki/File:2018_Hsinchu_City_God_Temple_i_6.jpg)_
 
 Em 1747, o oficial de Danshui, Tseng Yue-ying, decidiu transferir a administração da prefeitura para Zhuxian. Em 1748, o Templo Cheng Huang de Hsinchu foi concluído; em 1756, o escritório administrativo de Danshui foi finalizado. Quem está hoje na Rua Zhongshan nº 75, em Hsinchu, não vê um templo que "cresceu com a cidade", mas sim um **centro público que se estabeleceu para estabilizar a cidade antes mesmo do governo**. [^1] [^2]
 
@@ -40,7 +40,7 @@ Essa ordem é contraintuitiva: geralmente há o governo primeiro e os deuses pro
 
 ![Portão do Templo Cheng Huang de Hsinchu, tirado em 2023](https://upload.wikimedia.org/wikipedia/commons/b/b2/Hsinchu_City_God_Temple-01.2023-11-21.jpg)
 
-_Imagem: Adao, CC BY-SA 4.0; Página do Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Hsinchu_City_God_Temple-01.2023-11-21.jpg)._
+_Imagem: Adao, CC BY-SA 4.0; Página do Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Hsinchu_City_God_Temple-01.2023-11-21.jpg). [Wikimedia Commons 檔案頁](https://commons.wikimedia.org/wiki/File:Hsinchu_City_God_Temple-01.2023-11-21.jpg)_
 
 O esboço urbano de Zhuxian surgiu em 1733. O oficial de Danshui, Xu Zhi-min, plantou bambu espinhoso e construiu quatro torres de madeira ali; em 1747, Tseng Yue-ying decidiu mover o escritório de Danshui de Shalu para Zhuxian e propôs a construção do Templo Cheng Huang ao lado da prefeitura designada. O templo foi concluído em 1748, e o escritório administrativo só foi finalizado em 1756.[^1]
 
@@ -72,7 +72,7 @@ A página de "entalhe" (鑿花) nos mostra outra escala de preservação artesan
 
 ![Detalhe da fachada principal do Templo Cheng Huang de Hsinchu, tirado em 2023](https://upload.wikimedia.org/wikipedia/commons/5/5f/Hsinchu_City_God_Temple-02.2023-11-21.jpg)
 
-_Imagem: Adao, CC BY-SA 4.0; Página do Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Hsinchu_City_God_Temple-02.2023-11-21.jpg). Informações de restauração arquitetônica no artigo do Departamento de Cultura de Hsinchu._
+_Imagem: Adao, CC BY-SA 4.0; Página do Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Hsinchu_City_God_Temple-02.2023-11-21.jpg). Informações de restauração arquitetônica no artigo do Departamento de Cultura de Hsinchu. [Wikimedia Commons 檔案頁](https://commons.wikimedia.org/wiki/File:Hsinchu_City_God_Temple-02.2023-11-21.jpg)_
 
 > **Nota do Curador**: Este templo não "congelou" a tradição na dinastia Qing. Seu status como templo oficial da dinastia Qing, o artesanato da restauração durante o domínio japonês e os festivais pós-guerra se sobrepõem um ao outro sob o mesmo telhado.
 

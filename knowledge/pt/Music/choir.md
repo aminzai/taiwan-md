@@ -170,7 +170,7 @@ Da semente plantada por Lu Quansheng em 1957 até a ecologia completa estabeleci
 
 [^21]: [O Coral de Mulu vence o ouro mundial](https://www.facebook.com/mullertaiwan/posts/1328518840508923/) — Postagem pública no Facebook.
 
-[^22]: [A força do coral: a "suavidade" da Taiwan no coral](https://www.taiwan-panorama.com/Articles/Details?Guid=276a75bd-1ced-410a-8796-72dd39d99c2a&CatId=8&postname=%E8%81%B3%E8%A6%8B%E5%8F%B0%E7%81%A3%E5%90%88%E5%94%B1%E8%97%9D%E8%A1%93%E8%BB%9F%E5%AF%A6%E5%8A%97) — Artigo especial da Taiwan Panorama.
+[^22]: [A força do coral: a "suavidade" da Taiwan no coral](https://www.taiwan-panorama.com/Articles/Details?Guid=276a75bd-1ced-410a-8796-72dd39d99c2a&CatId=8&postname=%E8%81%B3%E8%A6%8B%E5%8F%B0%E7%81%A3%E5%90%88%E5%94%B1%E8%97%9D%E8%A1%93%E8%BB%9F%E5%AF%A6%E5%8A%9B) — Artigo especial da Taiwan Panorama.
 
 [^23]: [O Festival de Coral de Budapeste remove a bandeira da Taiwan sob pressão chinesa](https://www.tpf.org.tw/zh-hant/news/657) — Verifique os detalhes no link original.
 
@@ -184,7 +184,7 @@ Da semente plantada por Lu Quansheng em 1957 até a ecologia completa estabeleci
 
 [^28]: [O Coral da Esperança conquistou cinco ouros na Europa](https://www.cna.com.tw/news/ahel/202408100090.aspx) — Reportagem da Central News Agency.
 
-[^29]: [Apresentação do Coral O-Kai Singers](https://taiwanpasiwalifestival.com/%E6%AD%96%E9%96%8B%E5%90%88%E5%94%B1%E5%9C%B0-o-kai-singers/) — Verifique os detalhes no link original.
+[^29]: [Apresentação do Coral O-Kai Singers](https://taiwanpasiwalifestival.com/%E6%AD%90%E9%96%8B%E5%90%88%E5%94%B1%E5%9C%B0-o-kai-singers/) — Verifique os detalhes no link original.
 
 [^30]: [Biografia do Coral da Universidade de Taipei](https://www.youtube.com/channel/UCv964t8P94ISi6znhL2r5mQ) — Registro em vídeo no YouTube.
 
@@ -192,7 +192,7 @@ Da semente plantada por Lu Quansheng em 1957 até a ecologia completa estabeleci
 
 [^32]: [Ponto de partida: a escola como catalisador do renascimento local: estudos de colaboração comunitária entre Pingtung e Mulin](https://usr.nptu.edu.tw/p/404-1144-147831.php?Lang=zh-tw) — Verifique os detalhes no link original.
 
-[^33]: [Ensine as crianças a amar sua terra natal, fazendo com que a Taiwan se sinta real](https://www.teach4taiwan.org/%E3%80%8C%E8%AE%93%E5%AD%A6%E5%AD%90%E4%BB%A6%E5%AE%B6%E9%84%89%E7%82%BA%E6%A6%AE%EF%BC%8C%E5%B0%8D%E5%9C%B0%E6%96%B9%E7%94%A2%E7%94%9F%E4%BE%9D%E6%88%80%E3%80%8D%E5%BE%9E%E5%B1%8F%E6%9D%B1%E5%87%BA/) — Verifique os detalhes no link original.
+[^33]: [Ensine as crianças a amar sua terra natal, fazendo com que a Taiwan se sinta real](https://www.teach4taiwan.org/%E3%80%8C%E8%AE%93%E5%AD%A9%E5%AD%90%E4%BB%A5%E5%AE%B6%E9%84%89%E7%82%BA%E6%A6%AE%EF%BC%8C%E5%B0%8D%E5%9C%B0%E6%96%B9%E7%94%A2%E7%94%9F%E4%BE%9D%E6%88%80%E3%80%8D%E5%BE%9E%E5%B1%8F%E6%9D%B1%E5%87%BA/) — Verifique os detalhes no link original.
 
 [^34]: [O Coral Infantil da Escola de Jiping levou a melodia rural para a Ásia, devolvendo às famílias carentes](https://www.worldvision.org.tw/articles/198) — Verifique os detalhes no link original.
 
@@ -202,12 +202,12 @@ Da semente plantada por Lu Quansheng em 1957 até a ecologia completa estabeleci
 
 [^37]: [Ruan Tianhao: O Sonhador](https://www.tpf.org.tw/zh-hant/collection/134) — Verifique os detalhes no link original.
 
-[^38]: [Concerto de inovação coral 2020: Ruan Tianhao e novos compositores](https://archive.ncafroc.org.tw/upload/result/4135-B2084/2020%E5%90%88%E5%94%B1%E6%96%B0%E7%94%9F%E4%BB%A6%E7%AF%87%E7%9B%AE%E5%86%8A_1612843162071.pdf) — Verifique os detalhes no link original.
+[^38]: [Concerto de inovação coral 2020: Ruan Tianhao e novos compositores](https://archive.ncafroc.org.tw/upload/result/4135-B2084/2020%E5%90%88%E5%94%B1%E6%96%B0%E7%94%9F%E4%BB%A3%E7%AF%80%E7%9B%AE%E5%86%8A_1612843162071.pdf) — Verifique os detalhes no link original.
 
-[^39]: [O Cavalo Preto e o Cavalo Branco - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%BB%91%E9%AC%9A%E9%A6%BC%E5%81%95) — Entrada da Wikipedia.
+[^39]: [O Cavalo Preto e o Cavalo Branco - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%BB%91%E9%AC%9A%E9%A6%AC%E5%81%95) — Entrada da Wikipedia.
 
 [^40]: [Sobre o Coral Nacional Experimental](http://www.taiwannationalchoir.tw/home/about) — Verifique os detalhes no link original.
 
-[^41]: [Do filme "O Coral dos Jovens com Sol" à história real](https://tw.news.yahoo.com/%E5%BE%9E%E9%9B%BB%E5%BD%B1-%E9%99%BD%E5%85%89%E5%A5%B9%E5%AD%90%E5%90%88%E5%94%B1%E5%9C%98-%E5%88%B0%E5%8F%B0%E7%81%A3%E7%9C%9F%E5%AF%A6%E6%95%85%E4%BA%8B-%E5%96%84%E8%80%95365%E5%B8%B6%E5%81%8F%E9%84%89%E5%AD%A9%E5%AD%90%E7%94%A8%E5%90%88%E5%94%B1%E6%89%BE%E5%9B%9E%E8%87%AA%E4%BF%A1-031851810.html) — Reportagem da Yahoo Notícias.
+[^41]: [Do filme "O Coral dos Jovens com Sol" à história real](https://tw.news.yahoo.com/%E5%BE%9E%E9%9B%BB%E5%BD%B1-%E9%99%BD%E5%85%89%E5%A5%B3%E5%AD%90%E5%90%88%E5%94%B1%E5%9C%98-%E5%88%B0%E5%8F%B0%E7%81%A3%E7%9C%9F%E5%AF%A6%E6%95%85%E4%BA%8B-%E5%96%84%E8%80%95365%E5%B8%B6%E5%81%8F%E9%84%89%E5%AD%A9%E5%AD%90%E7%94%A8%E5%90%88%E5%94%B1%E6%89%BE%E5%9B%9E%E8%87%AA%E4%BF%A1-031851810.html) — Reportagem da Yahoo Notícias.
 
 [^42]: [Crises de sobrevivência dos corais escolares da Taiwan](http://www.tcmc.org.tw/index.php/knowledge/articles/action/view/frmContentId/3330/menu2.swf) — Verifique os detalhes no link original.

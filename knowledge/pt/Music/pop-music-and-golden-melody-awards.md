@@ -289,7 +289,7 @@ Este artigo usa 2 imagens com licença CC, em cache em `public/article-images/mu
 
 [^6]: [Wikipédia — 13.ª edição dos Golden Melody](https://zh.wikipedia.org/zh-tw/%E7%AC%AC13%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — Jay Chou _Fantasy_ quatro prémios pessoais, Vincent Fang Melhor Letrista, Chung Hsing-min Melhor Arranjador, lista de vencedores de 2002 para verificação.
 
-[^7]: [Wikipédia — Melhor Cantora em Mandarim](<https://zh.wikipedia.org/zh-tw/%E6%9C%80%E4%BD%B3%E8%8F%AF%E8%AA%9E%E5%A5%B3%E6%AD%8C%E6%89%8B%E7%8D%8E_(%E9%87%91%E6%9B%B2%E7%8D%8E) — Tanya Chua quatro vezes Rainha, A-mei 14 nomeações e três vezes Rainha, lista histórica de vencedoras por edição.
+[^7]: [Wikipédia — Melhor Cantora em Mandarim](<https://zh.wikipedia.org/zh-tw/%E6%9C%80%E4%BD%B3%E8%8F%AF%E8%AA%9E%E5%A5%B3%E6%AD%8C%E6%89%8B%E7%8D%8E_(%E9%87%91%E6%9B%B2%E7%8D%8E)>) — Tanya Chua quatro vezes Rainha, A-mei 14 nomeações e três vezes Rainha, lista histórica de vencedoras por edição.
 
 [^8]: [Reporting Time (United Daily News) — Lin Chiang _Forward_ e o Movimento da Nova Canção em Taiwanês](https://time.udn.com/udntime/story/122834/7791726) — 1991, 3.ª edição, _Forward_ levou Canção do Ano, álbum vendeu mais de quatrocentas mil, contexto do Movimento da Nova Canção em Taiwanês.
 

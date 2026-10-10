@@ -114,13 +114,13 @@ Ao observarmos, no auge do verão de 2026, pequenas mesas de oferenda em frente 
 
 ## Referências
 
-[^1]: [Festival Zhongyuan de Keelung - Mapa da Cultura Religiosa de Taiwan](https://taiwangods.moi.gov.t/html/landscape/1_0011.aspx?i=1) — Registra que o Festival de Keelung originou-se do conflito Zhang-Quan em 1851.
+[^1]: [Festival Zhongyuan de Keelung - Mapa da Cultura Religiosa de Taiwan](https://taiwangods.moi.gov.tw/html/landscape/1_0011.aspx?i=1) — Registra que o Festival de Keelung originou-se do conflito Zhang-Quan em 1851.
 
 [^2]: [Abertura da Porta do Tigre no Templo Cheng Huang de Hsinchu - Baodao Shen Hendan](https://www.setn.com/m/ampnews.aspx?NewsID=1703832) — Introduz os rituais de abertura da porta e o ritual _Hang Jia_.
 
 [^3]: [Festival Da Shi Ye de Minxiong - Rede de Patrimônio Cultural Nacional](https://nchdb.boch.gov.tw/assets/overview/folklore/20090619000002) — Atividade importante de _Pudu_ na região de Minxiong, Chiayi.
 
-[^4]: [Captura do Totem em Toucheng - Rede de Patrimônio Cultural Nacional](https://nchdb.borente.gov.tw/assets/overview/folklore/20061227000002) — Introduz as origens históricas da Captura do Totem em Toucheng.
+[^4]: [Captura do Totem em Toucheng - Rede de Patrimônio Cultural Nacional](https://nchdb.boch.gov.tw/assets/overview/folklore/20061227000002) — Introduz as origens históricas da Captura do Totem em Toucheng.
 
 [^5]: [Tabus de Vestuário no Mês de Julho Lunar - FET Net](https://www.fetnet.net/content/cbu/tw/lifecircle/topics/2024/07/ghostmonth_taboo.html) — Compilação de tabus modernos de vestuário e Feng Shui residencial.
 

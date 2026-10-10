@@ -88,7 +88,7 @@ Lá fora, Yang Chih-yuan não parou. Transformou-se em investidor, fundando o AM
 
 [^12]: [Finding Alibaba: How Jerry Yang Made The Most Lucrative Bet In Tech History](https://www.forbes.com/sites/parmyolson/2014/09/30/how-jerry-yang-made-the-most-lucrative-bet-in-tech-history/) — Verifique os dados complementares no link original
 
-[^13]: [Jerry Yang - Wikipedia](https://zh.wikipedia.org/zh-hant/%E6%A5%8A%E8%87%B4%E9%81%A6) — Entrada na Wikipédia
+[^13]: [Jerry Yang - Wikipedia](https://zh.wikipedia.org/zh-hant/%E6%A5%8A%E8%87%B4%E9%81%A0) — Entrada na Wikipédia
 
 [^14]: [Jerry Yang - Forbes Profile](https://www.forbes.com/profile/jerry-yang/) — Verifique os dados complementares no link original
 

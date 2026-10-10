@@ -161,7 +161,7 @@ O caminhão já foi embora há muito. Mas quem correu ainda lembra a direção d
 
 [^5]: [Reportime: Comprada por Jay Chou! 2012 campeão, os Taipei Assassins que incendiaram o eSports de Taiwan](https://time.udn.com/udntime/story/122833/8627122) — TPA em penúltimo nos 12 times, virada histórica
 
-[^6]: [Wikipédia: Campeonato Mundial da 2ª Temporada de League of Legends](https://zh.wikipedia.org/zh-tw/%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F%E7%AC%AC%E4%BA%8C%E8%B5%9B%E5%AD%A3%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B) — Vitória 3:1 sobre Azubu Frost, premiação de 1 milhão de dólares
+[^6]: [Wikipédia: Campeonato Mundial da 2ª Temporada de League of Legends](https://zh.wikipedia.org/zh-tw/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E7%AC%AC%E4%BA%8C%E8%B5%9B%E5%AD%A3%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B) — Vitória 3:1 sobre Azubu Frost, premiação de 1 milhão de dólares
 
 [^7]: [SETN: Hoje na história, TPA conquista campeonato mundial de League of Legends](https://www.setn.com/News.aspx?NewsID=830821) — 150 mil espectadores online, centenas no aeroporto, 200 mil curtidas em 6 horas
 
@@ -171,7 +171,7 @@ O caminhão já foi embora há muito. Mas quem correu ainda lembra a direção d
 
 [^10]: [ETtoday: Não acha Dragonite Snorlax? Experimente o buscador de tesouros de Pokemon Go Taiwan](https://www.ettoday.net/news/20160816/756443.htm) — Parque Beitou vira ninho de Pokémon raros
 
-[^11]: [Yahoo News: Quão forte foi o auge do Pokémon GO? Um Snorlax causou tumulto de multidão](https://tw.news.yahoo.com/%E3%80%8Apokemon-go%E3%80%8B%E5%85%A8%E7%9B%9B%E6%99%82%E6%9C%9F%E6%9C%89%E5%A4%9A%E5%BC%B7%EF%BC%9F%E4%B8%80%E9%9A%BB%E5%8D%A1%E6%AF%94%E7%8D%B8%E5%BC%95%E8%B5%B7%E4%BA%BA%E6%BD%AE%E6%9A%B4%E5%8B%95%E3%80%81%E7%99%B1%E7%98%9F%E4%BA%A4%E9%80%9A-054940047.html) — Cenário de multidão correndo, trânsito paralisado
+[^11]: [Yahoo News: Quão forte foi o auge do Pokémon GO? Um Snorlax causou tumulto de multidão](https://tw.news.yahoo.com/%E3%80%8Apokemon-go%E3%80%8B%E5%85%A8%E7%9B%9B%E6%99%82%E6%9C%9F%E6%9C%89%E5%A4%9A%E5%BC%B7%EF%BC%9F%E4%B8%80%E9%9A%BB%E5%8D%A1%E6%AF%94%E7%8D%B8%E5%BC%95%E8%B5%B7%E4%BA%BA%E6%BD%AE%E6%9A%B4%E5%8B%95%E3%80%81%E7%99%B1%E7%98%93%E4%BA%A4%E9%80%9A-054940047.html) — Cenário de multidão correndo, trânsito paralisado
 
 [^12]: [Storm Media: Parque Beitou tomado por jogadores de Pokémon, Time: Isso é o fim do mundo?](https://www.storm.mg/article/157780) — Time noticiou como "ensaio para o fim do mundo"
 

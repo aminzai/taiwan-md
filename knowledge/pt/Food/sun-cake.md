@@ -71,7 +71,7 @@ Hoje, o bolo solar está por toda Taichung — da receita tradicional com banha 
 
 [^5]: [沒有太陽的太陽餅](https://curation.culture.tw/curation/public?id=1758) — Arquivo Nacional de Memória Cultural sobre o aperfeiçoamento do bolo por Wei Qing-hai e a fundação da Taiyang Tang.
 
-[^6]: [顏水龍與向日葵](https://sites.google.com/mezzoart.net/vip/%E5%B0%88%E6%96%87-article/%E9%A1%8F%E6%B0%B4%E9%BE%8D%E8%88%87%E5%90%91%E6%97%A5%E8%91%A5) — Descreve a colaboração interdisciplinar de Yen Shui-long no design de embalagens e arte da loja Taiyang Tang.
+[^6]: [顏水龍與向日葵](https://sites.google.com/mezzoart.net/vip/%E5%B0%88%E6%96%87-article/%E9%A1%8F%E6%B0%B4%E9%BE%8D%E8%88%87%E5%90%91%E6%97%A5%E8%91%B5) — Descreve a colaboração interdisciplinar de Yen Shui-long no design de embalagens e arte da loja Taiyang Tang.
 
 [^7]: [台中太陽堂老店突歇業中市府遭批無作為](https://www.epochtimes.com/b5/12/5/16/n3590462.htm) — Notícia do fechamento abrupto da Taiyang Tang da Rua da Liberdade nº 23 em 2012.
 

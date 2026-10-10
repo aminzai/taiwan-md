@@ -156,7 +156,7 @@ Do pergaminho de Lopo Homem em 1554 ao Google Maps no seu telemóvel em 2026, ca
 
 [^11]: [Taiwan Strait — Wikipedia (EN)](https://en.wikipedia.org/wiki/Taiwan_Strait) — Origem da linha média em 1955, publicação das coordenadas em 2019, negação chinesa da sua existência.
 
-[^12]: [Air Defense Identification Zone (Taiwan) — Wikipedia (EN)](<https://en.wikipedia.org/wiki/Air_Defense_Identification_Zone_(Taiwan)>) — ADIZ de Taiwan traçada pelos EUA em 1954, extensão até ao espaço aéreo continental, ausência de base no direito internacional.
+[^12]: [Air Defense Identification Zone (Taiwan) — Wikipedia (EN)](https://en.wikipedia.org/wiki/Air_Defense_Identification_Zone_(Taiwan) — ADIZ de Taiwan traçada pelos EUA em 1954, extensão até ao espaço aéreo continental, ausência de base no direito internacional.
 
 [^13]: [Marine Regions — Overlapping claim Taiwan](https://www.marineregions.org/eezdetails.php?mrgid=8321) — Profundidade da plataforma continental do Estreito de Taiwan e sobreposição de reivindicações de ZEE.
 

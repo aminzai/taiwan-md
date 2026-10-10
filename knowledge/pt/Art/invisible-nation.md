@@ -275,7 +275,7 @@ Este artigo usa 5 imagens, todas em cache em `public/article-images/` para evita
 
 [^21]: [Washington Post — Após 38 Anos, Taiwan Levanta Lei Marcial](https://www.washingtonpost.com/archive/politics/1987/07/15/after-38-years-taiwan-lifts-martial-law/6ba420e6-f061-467a-9647-63858e4956b3/) — Lei marcial Taiwan 20-05-1949 vigente, 15-07-1987 Chiang Ching-kuo suspende, durou 38 anos
 
-[^22]: [Wikipedia — Incidente 28 de Fevereiro](https://en.wikipedia.org/wiki/February_28_incident) — Relatório Yuan Executivo 1992 estima mortes 18.000-28.000 (números controversos); ~140 mil presos no Terror Branco ver [Terror Branco (Taiwan)](<https://en.wikipedia.org/wiki/White_Terror_(Taiwan)
+[^22]: [Wikipedia — Incidente 28 de Fevereiro](https://en.wikipedia.org/wiki/February_28_incident) — Relatório Yuan Executivo 1992 estima mortes 18.000-28.000 (números controversos); ~140 mil presos no Terror Branco ver [Terror Branco (Taiwan)](<https://en.wikipedia.org/wiki/White_Terror_(Taiwan)>)
 
 [^23]: [Wikipedia — Eleição presidencial taiwanesa de 1996](https://en.wikipedia.org/wiki/1996_Taiwanese_presidential_election) — 23-03-1996 primeira eleição direta, Lee Teng-hui 54% eleito, período com disparo de mísseis do outro lado (terceira crise do Estreito)
 

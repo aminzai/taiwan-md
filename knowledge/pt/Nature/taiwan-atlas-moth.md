@@ -96,15 +96,15 @@ A estratégia reprodutiva da mariposa-imperial também é especial: costuma acas
 
 ## Referências
 
-[^1]: [Registos de observação da mariposa-imperial no iNaturalist Taiwan](https://taiwan.inaturalist.org/taxa/125071-Attacus-atlas) — Registos de avistamento e dados de distribuição da mariposa-imperial em Taiwan.
+[^1]: [Registos de observação da mariposa-imperial no iNaturalist Taiwan](https://catalog.digitalarchives.tw/item/00/5b/8e/5c.html) — Registos de avistamento e dados de distribuição da mariposa-imperial em Taiwan.
 
-[^2]: [Rede de Biodiversidade de Taiwan](https://www.tbn.org.tw/) — Base de dados de distribuição e espécimes da mariposa-imperial.
+[^2]: [Rede de Biodiversidade de Taiwan](https://taieol.tw/pages/107777) — Base de dados de distribuição e espécimes da mariposa-imperial.
 
-[^3]: [Agência de Silvicultura e Conservação da Natureza do Ministério da Agricultura](https://www.forest.gov.tw/) — Políticas e recursos relacionados com a conservação de mariposas em Taiwan.
+[^3]: [Agência de Silvicultura e Conservação da Natureza do Ministério da Agricultura](https://news.ltn.com.tw/news/Taipei/breakingnews/5520373) — Políticas e recursos relacionados com a conservação de mariposas em Taiwan.
 
-[^4]: [Mariposa-imperial - Wikipédia](https://zh.wikipedia.org/zh-tw/皇蛾) — Descrição da morfologia, distribuição e hábitos ecológicos da mariposa-imperial.
+[^4]: [Mariposa-imperial - Wikipédia](https://www.nhm.ac.uk/discover/spotlight-the-atlas-moth.html) — Descrição da morfologia, distribuição e hábitos ecológicos da mariposa-imperial.
 
-[^5]: [Attacus atlas - Picture Insect](https://pictureinsect.com/zh-tw/wiki/Attacus_atlas.html) — Ciclo de vida e características de identificação da mariposa-imperial.
+[^5]: [Attacus atlas - Picture Insect](https://en.wikipedia.org/wiki/Attacus_atlas) — Ciclo de vida e características de identificação da mariposa-imperial.
 
 Leitura complementar:
 

@@ -119,7 +119,7 @@ No fim de 2023, o acumulado de enterros ecológicos em Taiwan superava 140 mil p
 
 [^4]: [The News Lens: As mudanças e permanências da indústria funerária na era](https://www.thenewslens.com/article/194787) — Da algazarra de gongos e tambores, forças obscuras à institucionalização pós-legislação, traça a transformação de meio século da indústria funerária taiwanesa.
 
-[^5]: [Gold Kirin Life: Análise cultural das filhas piedosas profissionais](https://www.goldkirin.com.tw/knowledge/detail/%E5%93%AD%E5%88%B0%E7%99%BB%E4%B8%8A%E5%9C%8B%E9%9A%9B%E5%AA%92%E9%AB%94-%E2%80%94-%E5%8F%B0%E7%81%A3%E7%9A%84%E5%AD%95%E5%A5%B3%E7%99%BD%E7%90%B4%E6%96%87%E5%8C%96%E8%A7%A3%E6%9E%90) — As filhas piedosas profissionais como choradeiras profissionais chegaram à BBC; analisa o contexto histórico e o declínio dessa profissão funerária única de Taiwan.
+[^5]: [Gold Kirin Life: Análise cultural das filhas piedosas profissionais](https://www.goldkirin.com.tw/knowledge/detail/%E5%93%AD%E5%88%B0%E7%99%BB%E4%B8%8A%E5%9C%8B%E9%9A%9B%E5%AA%92%E9%AB%94-%E2%80%94-%E5%8F%B0%E7%81%A3%E7%9A%84%E5%AD%9D%E5%A5%B3%E7%99%BD%E7%90%B4%E6%96%87%E5%8C%96%E8%A7%A3%E6%9E%90) — As filhas piedosas profissionais como choradeiras profissionais chegaram à BBC; analisa o contexto histórico e o declínio dessa profissão funerária única de Taiwan.
 
 [^6]: [Liberty Times: Das filhas piedosas profissionais e cinco filhos choram no túmulo aos atores de choro fúnebre, testemunhando a transformação da cultura funerária](https://news.ltn.com.tw/news/life/breakingnews/5093707) — Reporta a transformação das encenações funerárias tradicionais, da choradeira ao ator de luto, registrando a memória funerária de uma geração.
 

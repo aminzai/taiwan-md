@@ -93,7 +93,7 @@ Da cidade antiga conservadora de Lukang, atravessando controvérsias literárias
 
 ## Referências
 
-[^1]: [Wikipédia: Li Ang (escritora)](<https://zh.wikipedia.org/wiki/李昂_(作家) — Confirma nascimento em abril de 1952 em Lukang, Changhua (nome de batismo Shih Shu-tuan), Departamento de Filosofia da Chinese Culture University, serialização de "The Butcher's Wife" no United Daily News em 22 de setembro de 1983, publicação de "The Lost Garden" em 1991, e idiomas de tradução das obras.
+[^1]: [Wikipédia: Li Ang (escritora)](<https://zh.wikipedia.org/wiki/李昂_(作家)>) — Confirma nascimento em abril de 1952 em Lukang, Changhua (nome de batismo Shih Shu-tuan), Departamento de Filosofia da Chinese Culture University, serialização de "The Butcher's Wife" no United Daily News em 22 de setembro de 1983, publicação de "The Lost Garden" em 1991, e idiomas de tradução das obras.
 
 [^2]: [Ordem das Artes e das Letras: Li Ang](http://li-angnet.blogspot.com/) — Contém registro da condecoração de Cavaleiro da Ordem das Artes e das Letras em 2004.
 

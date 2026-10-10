@@ -154,7 +154,7 @@ A França ficou com o Vietnã. A corte Qing segurou Taiwan. 600 soldados frances
 
 [^15]: [StoryStudio: Escavando o íntimo de figuras históricas a partir de diários e cartas](https://storystudio.tw/article/watch-Taiwan-NMTH/from-bottom-of-their-heart) — Diário do comerciante de chá britânico John Dodd, 1.º dez 1884. Citado na exposição "Impressões de Xi Zi Fan" do Museu Nacional de História de Taiwan.
 
-[^16]: [Pescadores campaign (1885), Wikipedia](<https://en.wikipedia.org/wiki/Pescadores_campaign_(1885)>) — Março 1885: franceses tomam Penghu. Após desembarque, cólera eclode; três semanas: 15 mortos, 20 hospitalizados.
+[^16]: [Pescadores campaign (1885), Wikipedia](https://en.wikipedia.org/wiki/Pescadores_campaign_(1885) — Março 1885: franceses tomam Penghu. Após desembarque, cólera eclode; três semanas: 15 mortos, 20 hospitalizados.
 
 [^17]: [Amédée Courbet, Wikipedia](https://en.wikipedia.org/wiki/Am%C3%A9d%C3%A9e_Courbet) — Courbet faleceu em 11 jun 1885 a bordo do _Bayard_ por cólera. Em abril já tinha disenteria grave; em 8 jun presidiu funeral do subordinado Dert e piorou rápido.
 
@@ -168,7 +168,7 @@ A França ficou com o Vietnã. A corte Qing segurou Taiwan. 600 soldados frances
 
 [^22]: [Liu Mingchuan, Wikipedia](https://zh.wikipedia.org/wiki/%E5%8A%89%E9%8A%98%E5%82%B3) — 1885: Taiwan separada de Fujian, torna-se 20.ª província do Grande Império Qing. Liu Mingchuan primeiro governador, mandato 1885-1891.
 
-[^23]: [Ferrovia de Taiwan (Dinastia Qing), Wikipedia](<https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E9%90%B5%E8%B7%AF_(%E6%B8%85%E6%9C%9D)>) — Ferrovia Keelung-Hsinchu ~107 km, iniciada 1887, concluída 1893. Ver também [Revista Tianxia: O Grande Sonho Modernizador de Liu Mingchuan](https://www.cw.com.tw/article/5026963).
+[^23]: [Ferrovia de Taiwan (Dinastia Qing), Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E9%90%B5%E8%B7%AF_(%E6%B8%85%E6%9C%9D) — Ferrovia Keelung-Hsinchu ~107 km, iniciada 1887, concluída 1893. Ver também [Revista Tianxia: O Grande Sonho Modernizador de Liu Mingchuan](https://www.cw.com.tw/article/5026963).
 
 [^24]: [Taipei Times: Exumando a História Francesa em Taiwan (2001)](https://www.taipeitimes.com/News/feat/archives/2001/11/15/111666) — Cemitério militar francês em Keelung ~600 pessoas: 120 mortos em combate, 150 feridos fatais, restante doenças. Pesquisador Christophe Rouil corrigiu os 700 da lápide para ~600. Ver também [Atlas Obscura](https://www.atlasobscura.com/places/sino-french-war-memorial-park).
 

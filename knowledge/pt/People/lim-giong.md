@@ -134,7 +134,7 @@ Aquele trem já partiu da plataforma da Estação de Taipé há muito tempo. O g
 
 [^9]: [Cavalo de Ouro Melhor Canção Original — Wikipédia](https://zh.wikipedia.org/zh-tw/%E9%87%91%E9%A6%AC%E7%8D%8E%E6%9C%80%E4%BD%B3%E5%8E%9F%E5%89%B5%E9%9B%BB%E5%BD%B1%E6%AD%8C%E6%9B%B2) — 33ª edição (1996) vencedora: Lin Qiang «Autodestruição» (_Adeus ao Sul, Adeus_).
 
-[^10]: [Wikipédia — Millennium Mambo](https://zh.wikipedia.org/zh-tw/%E5%8D%83%E7%A6%AF%E6%9B%BC%E6%B3%A2) — Trilha creditada a Lin Qiang (Huang Kaiyu) e Banno Yoshihiro, Prêmio Técnico de Cannes (som de Du Du-zhi) e Cavalo de Ouro melhor som, entre outros.
+[^10]: [Wikipédia — Millennium Mambo](https://zh.wikipedia.org/zh-tw/%E5%8D%83%E7%A6%A7%E6%9B%BC%E6%B3%A2) — Trilha creditada a Lin Qiang (Huang Kaiyu) e Banno Yoshihiro, Prêmio Técnico de Cannes (som de Du Du-zhi) e Cavalo de Ouro melhor som, entre outros.
 
 [^11]: [Lin Qiang Vence 43º Cavalo de Ouro «Melhor Música Original» — Banco Nacional de Memória Cultural](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=621829) — Registro oficial, Lin Qiang leva 43º Cavalo de Ouro com _No Início do Ano_.
 
