@@ -42,7 +42,10 @@ git fetch -q origin main 2>/dev/null || echo "wrapper: git fetch 失敗，沿用
 
 FLEET_WORKERS="$(~/Projects/muse-bot/fleet/fleetctl workers --service llm --format babel 2>/dev/null)"
 [ -z "$FLEET_WORKERS" ] && echo "wrapper: fleet 未核發任何地端 worker，本輪只有雲端 worker" >&2
-CLOUD_WORKERS="--worker nemo=openrouter:nvidia/nemotron-3-ultra-550b-a55b:free --worker lagunas=openrouter:poolside/laguna-s-2.1:free"
+# 2026-10-10 哲宇拍板（OBSERVER-QUEUE #78／#91）：laguna-s-2.1 全語停用。它不在入池白名單上，
+# 09-21 起名人頂替（越南文把台北寫成河內）、「台湣」、整篇主詞譯錯大多出自它，而這些錯每一道閘門都綠。
+# 要加回雲端 worker 前，先過 SQUEEZE §入池門檻。
+CLOUD_WORKERS="--worker nemo=openrouter:nvidia/nemotron-3-ultra-550b-a55b:free"
 
 # shellcheck disable=SC2086
 SKIP_LANES="$("$PY" scripts/tools/lang-sync/babel-weak-lanes.py --explain $FLEET_WORKERS $CLOUD_WORKERS )"
