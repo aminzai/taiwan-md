@@ -272,7 +272,7 @@ Nokia 3310의 충전기 출력은 4.56W였으나, 2025년의 급속 충전기는
 - [타이완 주식 및 자본 시장](/ko/economy/taiwan-stock-market) — 타이완 증시를 202ck년 세계 6위 규모로 떠받치는 공급망 생태계가 자본 시장에 나타나는 방식
 - [타이완 텅스텐 공급망](/ko/technology/taiwan-tungsten-supply-chain) — 육불화텅스텐(WF6)이 컨택 홀과 3D NAND의 선폭을 채우는 과정, 텅스텐 광산은 없지만 재활용 정련을 통해 이 소재 공급망의 중류를 점유한 타이완
 - [타이완 AI 아카데미](/ko/technology/taiwan-ai-academy) — AIA가 8년간 양성한 만 명의 AI 엔지니어들이 어떻게 기존 반도체 ICT 체계로 돌아와 타이완의 소프트웨어 역량을 보강할 것인가
-- [Computex: 세계 3대 IT 전시회 중 두 곳을 확보하고, 남은 하나는 타이베이에서 열린다](/ko/technology/computex-taipei) — TSMC의 CoWoS와 첨단 공정 기술이 매년 5월 말, 45년 역사의 타이베이 컴퓨텍스에서 글로벌 AI 거물들과 만나는 현장
+- [Computex: 세계 3대 IT 전시회 중 두 곳을 확보하고, 남은 하나는 타이베이에서 열린다](/ko/technology/computex) — TSMC의 CoWoS와 첨단 공정 기술이 매년 5월 말, 45년 역사의 타이베이 컴퓨텍스에서 글로벌 AI 거물들과 만나는 현장
 - [타이완 과학단지](/ko/technology/science-park-development) — 신주, 타이난, 타이중의 세 과학단지, 반도체 클러스터의 물리적 기반이자 '실드(Silicon Shield)'의 지리적 중심지
 
 ## 이미지 출처

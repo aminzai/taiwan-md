@@ -137,7 +137,7 @@ NCAIR의 200억 위안과 라이칭더가 언급한 「기술 섬」 비전 뒤�
 - [타이완 저출산 위기](/ko/society/taiwan-low-birth-rate-crisis) — NCAIR가 '가정 장기요양'을 최우선으로 둔 이유는 무엇인가? 답은 인구 구조에 있다.
 - [타이완 산업 전환 및 격상](/ko/economy/industrial-transformation-from-manufacturing-to-innovation) — 파운드리에서 브랜드로, 부품에서 시스템 통합으로, 지난 20년간 논의된 구조적 난제.
 - [타이완 기계공구 산업](/ko/economy/taiwan-machine-tool-industry) — 다뚜산 황금 계곡의 1,500개 정밀기계 업체는 로봇 하드웨어의 상류 기반이다.
-- [컴텍스: 세 개의 국제 컴퓨터 전시회 중 두 개를 얻고, 나머지 하나는 타이베이에 있다](/ko/technology/computex-taipei) — 2026년 컴텍스는 '실체 AI'와 체화 지능을 주력으로 다루며, 타이완 로봇 공급망은 AI 서버 조립에서 로봇 조립으로 확장하는 연례 전시회이다.
+- [컴텍스: 세 개의 국제 컴퓨터 전시회 중 두 개를 얻고, 나머지 하나는 타이베이에 있다](/ko/technology/computex) — 2026년 컴텍스는 '실체 AI'와 체화 지능을 주력으로 다루며, 타이완 로봇 공급망은 AI 서버 조립에서 로봇 조립으로 확장하는 연례 전시회이다.
 
 ## 참고 자료
 

@@ -278,7 +278,7 @@ _타이베이 난강 전람관의 Computex 전시장. 매년 6월 전 세계 바
 - [반도체 산업](/ko/technology/taiwan-semiconductor-industry) — 타이완이 어떻게 글로벌 칩 제조의 중심지가 될 수 있었는지, 본문에서는 공급망을 더 완전하게 다룬다.
 - [타이완 기업: TSMC](/ko/economy/tsmc) — NVIDIA를 위해 모든 칩을 만드는 '수호신산'과 그것이 빨려나가는 이면.
 - [장중모: 그 편지의 수신인, 그리고 그가 만든 웨이퍼 파운드리 제국](/ko/people/tsmc-morris-chang) — 1996년 황런쉰의 편지를 받은 사람, TSMC 창업자.
-- [컴퓨텍스: 타이베이의 컴퓨터 전시회가 어떻게 글로벌 AI의 개막식처럼 되었는가](/ko/technology/computex-taipei) — 그 로고 벽이 빛나는 무대, 타이완 기술 산업의 연례 주무대.
+- [컴퓨텍스: 타이베이의 컴퓨터 전시회가 어떻게 글로벌 AI의 개막식처럼 되었는가](/ko/technology/computex) — 그 로고 벽이 빛나는 무대, 타이완 기술 산업의 연례 주무대.
 - [AI 인공지능 산업](/ko/technology/artificial-intelligence-industry) — NVIDIA 칩 제조부터 AI 생태계 구축까지, AI 물결 속 타이완의 위치.
 - [타이완 인공지능 발전 및 미래 전략](/ko/technology/artificial-intelligence-development-strategy) — 주권 AI, TAIDE와 대행업체에서 벗어나려는 타이완의 국가적 시도.
 - [타이완 기술 이야기: 100점짜리 칩과 60점짜리 마이크](/ko/technology/taiwan-tech-storytelling) — 같은 칩에 대한 두 가지 해석: NVIDIA가 가져가는 스토리 프리미엄, 타이완 기술은 무엇을 배워야 하는가.
