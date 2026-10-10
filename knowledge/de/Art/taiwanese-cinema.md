@@ -289,7 +289,7 @@ Dieser Artikel verwendet 4 Bilder, die alle in `public/article-images/art/` geca
 ## Weiterführende Lektüre
 
 - [Hou Hsiao-hsien](/de/people/hou-hsiao-hsien): Der Meister des langen Films, der den Goldenen Löwen von Venedig gewann und das 228er-Ereignis auf die Leinwand brachte.
-- [Yang(de) Chang](/de/people/edward-yang): Der Beobachter der Stadt in zwei Werken, die in die Sight & Sound Filmgeschichte eingegangen sind.
+- [Yang(de) Chang](/de/people/yang-dechang): Der Beobachter der Stadt in zwei Werken, die in die Sight & Sound Filmgeschichte eingegangen sind.
 - [Tsai Ming-liang](/de/people/tsai-ming-liang): Gewinner des Goldenen Löwen von Venedig, der Slow Cinema ins Louvre filmte.
 - [Ang Lee](/de/people/ang-lee): Von Taiwan zu Hollywood, zweimaliger Oscar für den besten Regisseur.
 - [Wei Te-sheng](/de/people/wei-te-sheng-taiwanese-epic-filmmaker): Derjenige, der mit fünf Sprachen „Sechzehnstraße“ drehte und den nationalen Film wiederbelebte.

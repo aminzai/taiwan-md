@@ -170,15 +170,15 @@ Nächstes Mal, wenn Sie an Taoyuan denken, denken Sie nicht nur an den Flughafen
 
 ## Weiterführende Literatur
 
-- [Keelung City](/geography/Keelung_City) — Pilot der 22-Städte-Reihe: Als der Flughafen Taoyuan 1979 in Betrieb genommen wurde, zog sich Taiwans Tür zur Welt von Keelung weg, und der Hafen von Keelung fiel von Platz 7 auf Platz 113.
-- [New Taipei City](/geography/New_Taipei_City) — Das benachbarte County der Hakka-Südküste: 1895 zog Jiang Shaoxu von Beipu in New Taipei nach Norden, um an der Schlacht von Dacangkeng teilzunehmen.
-- [Taipei City](/geography/Taipei_City) — Zusammen mit Taoyuan bildet es das Zentrum des nördlichen Hakka-Gebiets, und 1875 wurde das Taoyuan-Gebiet der Verwaltung von New Taipei zugeordnet.
-- [Miaoli County](/geography/Miaoli_County) — Schwester der 22-Städte-Reihe, Batch 1: Die Hakka-Einwanderer, die von Miaoli nach Taoyuan zogen, waren die Anfänge, und Wu Tangxing zog 1895 von Norden nach Süden, um gegen Japan zu kämpfen.
-- [Nantou County](/geography/Nantou_County) — Pilot der 22-Städte-Reihe, Batch 3: Das County ohne Küstenkontakt im Vergleich zu Taoyuans Ebene als Ausgangs- und Eingangspforte – zwei verschiedene Arten von Grenzen.
-- [Hakka-Kultur und -Sprache](/culture/Hakka-Kultur_und_Sprache) — Mehr als 800.000 Hakka in Taoyuan, die meisten im Land.
-- [Zuwanderer](/society/Zuwanderer) — 132.158 Zuwanderer in Taoyuan, die meisten im Land.
-- [Schlacht von 1895](/history/Schlacht_von_1895) — Jiang Shaoxu, Wu Tangxing, Jiang Guohui bei der Schlacht von Dacangkeng in Taoyuan.
-- [Chiang Kai-shek](/people/Chiang_Kai-shek) — 1975 starb er und wurde in Ci Lake, Daxi, Taoyuan begraben, und heute sammelt der Ci-Lake-Gedächtnis-Skulpturengarten alle Denkmäler von Chiang Kai-shek, die im ganzen Land entfernt wurden.
+- [Keelung City](/de/geography/keelung-city) — Pilot der 22-Städte-Reihe: Als der Flughafen Taoyuan 1979 in Betrieb genommen wurde, zog sich Taiwans Tür zur Welt von Keelung weg, und der Hafen von Keelung fiel von Platz 7 auf Platz 113.
+- [New Taipei City](/de/geography/hsinchu-county) — Das benachbarte County der Hakka-Südküste: 1895 zog Jiang Shaoxu von Beipu in New Taipei nach Norden, um an der Schlacht von Dacangkeng teilzunehmen.
+- [Taipei City](/de/geography/hsinchu-city) — Zusammen mit Taoyuan bildet es das Zentrum des nördlichen Hakka-Gebiets, und 1875 wurde das Taoyuan-Gebiet der Verwaltung von New Taipei zugeordnet.
+- [Miaoli County](/de/geography/miaoli-county) — Schwester der 22-Städte-Reihe, Batch 1: Die Hakka-Einwanderer, die von Miaoli nach Taoyuan zogen, waren die Anfänge, und Wu Tangxing zog 1895 von Norden nach Süden, um gegen Japan zu kämpfen.
+- [Nantou County](/de/geography/nantou-county) — Pilot der 22-Städte-Reihe, Batch 3: Das County ohne Küstenkontakt im Vergleich zu Taoyuans Ebene als Ausgangs- und Eingangspforte – zwei verschiedene Arten von Grenzen.
+- [Hakka-Kultur und -Sprache](/de/culture/hakka-culture-and-language) — Mehr als 800.000 Hakka in Taoyuan, die meisten im Land.
+- [Zuwanderer](/de/society/migrant-workers-in-taiwan) — 132.158 Zuwanderer in Taoyuan, die meisten im Land.
+- [Schlacht von 1895](/de/history/1895-taiwan-resistance-war) — Jiang Shaoxu, Wu Tangxing, Jiang Guohui bei der Schlacht von Dacangkeng in Taoyuan.
+- [Chiang Kai-shek](/de/people/chiang-kai-shek) — 1975 starb er und wurde in Ci Lake, Daxi, Taoyuan begraben, und heute sammelt der Ci-Lake-Gedächtnis-Skulpturengarten alle Denkmäler von Chiang Kai-shek, die im ganzen Land entfernt wurden.
 
 ## Bildnachweise
 

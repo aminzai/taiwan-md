@@ -281,7 +281,7 @@ Die Namen an der Wand nehmen zu. Wer den Stift hält, wird es selbst sein – un
 - [Computex: Das Computer-Messe in Taipei wird zur Eröffnungszeremonie für die globale KI](/de/technology/computex) — Die Bühne, auf der diese Logo-Wand leuchtet; das jährliche Schauplatz der taiwanesischen Technologieindustrie
 - [Industrie Künstliche Intelligenz](/de/technology/artificial-intelligence-industry) — Von der Herstellung von NVIDIA-Chips bis zum Aufbau des KI-Ökosystems: Taiwans Platz in der KI-Welle
 - [Taiwanische KI-Entwicklung und zukünftige Strategie](/de/technology/artificial-intelligence-development-strategy) — Souveräne KI, TAIDE und das nationale Bestreben Taiwans, von der Auftragsfertigung aufzusteigen
-- [Taiwanesische Tech-Geschichten: 100 Punkte Chip, 60 Punkte Mikrofon](/de/technology/taiwan-tech-stories) — Zwei Erzählungen desselben Chips: Der Aufschlag, den NVIDIA verdient, und was die taiwanesische Technologie lernen muss
+- [Taiwanesische Tech-Geschichten: 100 Punkte Chip, 60 Punkte Mikrofon](/de/technology/taiwan-tech-storytelling) — Zwei Erzählungen desselben Chips: Der Aufschlag, den NVIDIA verdient, und was die taiwanesische Technologie lernen muss
 - [Taiwanische Unternehmen: Foxconn Precision](/de/economy/foxconn-precision-industry) — Der Gigant der Auftragsfertigung, der 40 % der globalen KI-Server montiert; die größten Hände am unteren Ende der Lächelnkurve
 
 ## Bildquellen

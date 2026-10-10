@@ -223,11 +223,11 @@ Am 8. August 2025 veröffentlichten sie überraschend ihr fünftes vollständige
 
 **Weiterführende Lektüre:**
 
-- [Taiwanesische Indie-Musik](/music/taiwanese-indie-music) — von der „Crystal Records" der 1980er bis zu Sunset Rollercoaster, Grass East, und Kelaqi der 2020er Achse der Entwicklung der taiwanesischen Independent-Musik
-- [Taiwanesische Musikfestival-Kultur](/music/taiwanese-music-festival-culture) — von Spring Scream, Tai Pei Gong Kai Kai bis Gongliao Sea Festival, Szenen-Veränderungen der taiwanesischen Musikfestivale
-- [Taiwanesische populäre Musik](/music/taiwanese-popular-music) — von Folk-Song-Bewegung der 1970er bis zur Streaming-Ära der 2020er, Taipeis populäre Musikgeschichte
-- [Taiwanesische Musikindustrie und die Streaming-Ära](/music/taiwanese-music-industry-streaming-era) — Mechanismen zur globalen Reichweite von Taiwans Indie-Bands in der Spotify-Algorithmus-Ära
-- [Audrey Tang und Algae](/music/audrey-tang-and-algae) — Kuo Kuos Bandkollegen während seiner vier Jahre als Gitarrist von Audrey Tangs Algae-Band
+- [Taiwanesische Indie-Musik](/de/music/indie-music-scene) — von der „Crystal Records" der 1980er bis zu Sunset Rollercoaster, Grass East, und Kelaqi der 2020er Achse der Entwicklung der taiwanesischen Independent-Musik
+- [Taiwanesische Musikfestival-Kultur](/de/music/taiwan-music-festival-culture) — von Spring Scream, Tai Pei Gong Kai Kai bis Gongliao Sea Festival, Szenen-Veränderungen der taiwanesischen Musikfestivale
+- [Taiwanesische populäre Musik](/de/music/golden-melodies-legacy-taiwan-pop-music) — von Folk-Song-Bewegung der 1970er bis zur Streaming-Ära der 2020er, Taipeis populäre Musikgeschichte
+- [Taiwanesische Musikindustrie und die Streaming-Ära](/de/music/taiwan-music-industry-and-the-streaming-era) — Mechanismen zur globalen Reichweite von Taiwans Indie-Bands in der Spotify-Algorithmus-Ära
+- [Audrey Tang und Algae](/de/music/deserts-chang-and-anpu) — Kuo Kuos Bandkollegen während seiner vier Jahre als Gitarrist von Audrey Tangs Algae-Band
 
 ---
 
