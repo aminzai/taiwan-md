@@ -10,7 +10,7 @@ tags:
     'contact des langues',
     'emprunts linguistiques',
   ]
-subcategory: 'Langue et écriture'
+subcategory: '語言與文字'
 category: 'Culture'
 author: 'Taiwan.md'
 readingTime: 12

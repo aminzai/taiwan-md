@@ -12,7 +12,7 @@ tags:
     'Nouvel An chinois',
     'barbecue de la mi-automne',
   ]
-subcategory: 'Religion et folklore'
+subcategory: '宗教與民俗'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 12

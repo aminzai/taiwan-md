@@ -10,7 +10,7 @@ tags:
     'démocratie numérique',
     'intelligence artificielle',
   ]
-subcategory: 'Technologie et entrepreneuriat'
+subcategory: '科技與企業'
 readingTime: 9
 featured: true
 category: 'People'

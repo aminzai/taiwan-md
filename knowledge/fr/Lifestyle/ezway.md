@@ -15,7 +15,7 @@ tags:
     'Gouvernance des données personnelles',
     'Administration douanière',
   ]
-subcategory: 'Systèmes de consommation'
+subcategory: '消費與生活制度'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-08-04

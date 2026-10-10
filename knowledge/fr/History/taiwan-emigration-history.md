@@ -15,7 +15,7 @@ tags:
     'Freedom of Movement',
   ]
 author: 'Taiwan.md Contributors'
-subcategory: 'History/Taiwan Outbound History'
+subcategory: '社會與日常史'
 category: 'History'
 readingTime: 25
 lastVerified: 2026-05-02

@@ -16,7 +16,7 @@ tags:
     'Radio Free Asia',
     'media and speech',
   ]
-subcategory: 'Media and Speech'
+subcategory: '媒體與言論'
 author: 'Taiwan.md Contributors'
 category: 'History'
 readingTime: 8

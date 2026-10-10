@@ -18,7 +18,7 @@ tags:
   - 'Tainan'
   - 'Dwagie'
   - 'Kung Fu Entertainment'
-subcategory: 'Musique et scène'
+subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-10

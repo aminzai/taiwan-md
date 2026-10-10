@@ -13,7 +13,7 @@ tags:
     deux-roues électrique,
     transports,
   ]
-subcategory: 'Transports et mobilité'
+subcategory: '交通與移動'
 author: 'Taiwan.md'
 readingTime: 10
 featured: true

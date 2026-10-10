@@ -12,7 +12,7 @@ tags:
     université,
     technologie,
   ]
-subcategory: 'Culture numérique et internet'
+subcategory: '網路與數位文化'
 category: Culture
 author: 'Taiwan.md'
 readingTime: 8

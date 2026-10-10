@@ -10,7 +10,7 @@ tags:
     'ethnomusicologie',
     'métissage culturel',
   ]
-subcategory: 'Musique traditionnelle'
+subcategory: '傳統音樂'
 category: 'Music'
 author: 'Taiwan.md Contributors'
 readingTime: 15

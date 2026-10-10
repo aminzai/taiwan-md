@@ -4,7 +4,7 @@ description: "In 1995, the first Falun Gong practice site in Taiwan quietly emer
 date: 2026-04-29
 tags:
   ['religious freedom', 'human rights', 'cross-strait relations', 'falun gong']
-subcategory: 'Religion and Faith'
+subcategory: '宗教與信仰'
 author: 'Taiwan.md'
 category: 'Society'
 readingTime: 12

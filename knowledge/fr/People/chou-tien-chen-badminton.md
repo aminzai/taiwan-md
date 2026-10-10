@@ -4,7 +4,7 @@ description: "Le premier homme à atteindre le 2e rang mondial en simple messieu
 date: 2026-06-29
 author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: 'Sports'
+subcategory: '體育'
 tags:
   [
     'Personnalité',

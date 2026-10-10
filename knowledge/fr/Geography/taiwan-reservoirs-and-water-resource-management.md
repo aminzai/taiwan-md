@@ -10,7 +10,7 @@ tags:
     'génie hydraulique',
     'changement climatique',
   ]
-subcategory: 'Hydrologie et ressources en eau'
+subcategory: '水文與水資源'
 author: 'Taiwan.md Contributors'
 difficulty: 'beginner'
 readingTime: 11

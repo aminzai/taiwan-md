@@ -12,7 +12,7 @@ tags:
     'culture des temples',
     'Hsu Chen-jung',
   ]
-subcategory: 'Religion et folklore'
+subcategory: '宗教與民俗'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-27

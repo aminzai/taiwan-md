@@ -13,7 +13,7 @@ tags:
     'période japonaise',
     'Université de médecine de Kaohsiung',
   ]
-subcategory: 'Personnages historiques'
+subcategory: '歷史人物'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 8

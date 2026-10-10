@@ -15,7 +15,7 @@ tags:
     'Jkopay',
     'transformation numérique',
   ]
-subcategory: 'Numérique et internet'
+subcategory: '數位與網路'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-06

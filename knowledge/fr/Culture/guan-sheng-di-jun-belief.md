@@ -10,7 +10,7 @@ tags:
     croyances populaires,
     culture des temples,
   ]
-subcategory: 'Religion et traditions populaires'
+subcategory: '宗教與民俗'
 category: 'Culture'
 author: 'Taiwan.md Contributors'
 readingTime: 10

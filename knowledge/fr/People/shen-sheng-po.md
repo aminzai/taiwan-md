@@ -11,7 +11,7 @@ tags:
     'OpenLab.Taipei',
     'Taïwan',
   ]
-subcategory: 'Art et design'
+subcategory: '藝術與設計'
 category: 'People'
 author: 'Taiwan.md Contributors'
 readingTime: 8

@@ -4,7 +4,7 @@ description: "Comment est née, a survécu et continue de prospérer la plus gra
 date: 2026-04-05
 tags:
   [ACG, jeux-vidéo, anime, communauté, internet-taïwanais, sous-culture, forum]
-subcategory: 'Internet et culture numérique'
+subcategory: '網路與數位文化'
 category: 'Culture'
 author: 'Taiwan.md'
 readingTime: 8

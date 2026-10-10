@@ -11,7 +11,7 @@ tags:
     'Art culinaire durable',
     'Comparaisons internationales',
   ]
-subcategory: 'Cuisine des peuples'
+subcategory: '族群飲食'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-27

@@ -10,7 +10,7 @@ tags:
     'mouvements sociaux',
     'préservation culturelle',
   ]
-subcategory: 'Préhistoire et peuples autochtones'
+subcategory: '史前與原住民'
 category: 'History'
 author: 'Taiwan.md'
 readingTime: 12

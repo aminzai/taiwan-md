@@ -11,7 +11,7 @@ tags:
     'tourisme',
     'street food',
   ]
-subcategory: 'Développement économique'
+subcategory: '經濟發展'
 category: 'Economy'
 author: 'Taiwan.md'
 readingTime: 8

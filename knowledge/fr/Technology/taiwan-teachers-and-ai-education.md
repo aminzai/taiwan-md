@@ -4,7 +4,7 @@ description: "En 2026, Xu Tai-ping a mis à disposition une centaine d'agents IA
 date: 2026-07-20
 author: 'Taiwan.md Contributors'
 category: 'Technology'
-subcategory: 'Artificial Intelligence'
+subcategory: '人工智慧'
 tags:
   [
     'Artificial Intelligence',

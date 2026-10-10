@@ -10,7 +10,7 @@ tags:
     'politique linguistique',
     'transmission culturelle',
   ]
-subcategory: 'Langue et écriture'
+subcategory: '語言與文字'
 category: 'Culture'
 author: 'Taiwan.md Contributors'
 readingTime: 8

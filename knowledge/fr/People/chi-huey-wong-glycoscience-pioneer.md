@@ -12,7 +12,7 @@ tags:
     'Nobel',
     'prix Wolf',
   ]
-subcategory: 'Sciences et monde académique'
+subcategory: '科學與學術'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 10

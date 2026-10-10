@@ -4,7 +4,7 @@ description: "Né à Taipei en 1985, diplômé de l'Université nationale Donghu
 date: 2026-04-20
 author: 'Taiwan.md Contributors'
 category: 'Art'
-subcategory: 'Arts sonores et nouveaux médias'
+subcategory: '聲音與新媒體藝術'
 tags:
   [
     'Arts sonores',

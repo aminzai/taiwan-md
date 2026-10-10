@@ -4,7 +4,7 @@ description: "Lancée en 2008, la plateforme de microblog Plurk a tenu bon face 
 date: 2026-04-01
 tags:
   ['médias sociaux', 'culture geek', 'histoire du web taïwanais', 'Plurk Coins']
-subcategory: 'Vie numérique'
+subcategory: '數位生活'
 category: 'Culture'
 author: 'Taiwan.md Contributors'
 featured: false

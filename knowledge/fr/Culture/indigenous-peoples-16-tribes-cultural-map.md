@@ -10,7 +10,7 @@ tags:
     'langues',
     'création contemporaine',
   ]
-subcategory: 'Culture des peuples'
+subcategory: '族群文化'
 category: 'Culture'
 author: 'Taiwan.md Contributors'
 readingTime: 9

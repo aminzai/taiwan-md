@@ -13,7 +13,7 @@ tags:
     'Junyi School',
     'Parc artistique Paul Chiang',
   ]
-subcategory: 'Éducation et société'
+subcategory: '教育與社會'
 author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false

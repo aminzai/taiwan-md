@@ -14,7 +14,7 @@ tags:
     'zones rurales défavorisées',
   ]
 category: 'Society'
-subcategory: 'Éducation'
+subcategory: '教育'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 13

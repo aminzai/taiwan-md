@@ -4,7 +4,7 @@ description: 'En décembre 2024, le documentaire sur l’"united front" chinois 
 date: 2026-04-23
 author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: 'Médias et liberté d’expression'
+subcategory: '媒體與言論'
 tags:
   - 'Guerre cognitive'
   - 'Guerre de l’information'

@@ -11,7 +11,7 @@ tags:
     'intergénérationnel',
     'vie quotidienne',
   ]
-subcategory: 'Loisirs et divertissement'
+subcategory: '休閒與娛樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19

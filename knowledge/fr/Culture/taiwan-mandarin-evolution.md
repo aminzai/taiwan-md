@@ -3,7 +3,7 @@ title: "L'évolution du mandarin à Taïwan — quatre siècles de stratigraphie
 description: "Combien de strates historiques se cachent dans un simple mot ? Suivez le voyage d'un terme à travers quatre siècles pour explorer les sédiments naturels du langage sur cette île."
 date: 2026-03-29
 category: 'Culture'
-subcategory: 'Langue et écriture'
+subcategory: '語言與文字'
 tags:
   [
     'mandarin taïwanais',

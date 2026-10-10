@@ -12,7 +12,7 @@ tags:
     Identité taïwanaise,
     Musique pop,
   ]
-subcategory: 'Musique et spectacle'
+subcategory: '音樂與表演'
 category: People
 author: 'Taiwan.md'
 readingTime: 16

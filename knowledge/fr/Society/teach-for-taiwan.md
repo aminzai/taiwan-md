@@ -14,7 +14,7 @@ tags:
     'entreprise sociale',
     'zones reculées',
   ]
-subcategory: 'Éducation'
+subcategory: '教育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-08

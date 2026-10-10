@@ -13,7 +13,7 @@ tags:
     'Golden Bell Awards',
     'LGBTQ+',
   ]
-subcategory: 'Figures artistiques et culturelles'
+subcategory: '藝術與文化人物'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-28

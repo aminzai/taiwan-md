@@ -2,7 +2,7 @@
 title: "Les gardiens de l'écran : l'évolution du système de classification des films et séries à Taïwan"
 description: 'Le système de classification taïwanais incarne le passage de la "censure d''État" sous la loi martiale à la "protection de l''enfance" à l''ère démocratique. De l''abolition de la loi sur la censure cinématographique en 1983 à la naissance de la catégorie "Protégé" inspirée par Jurassic Park en 1993, jusqu''à l''harmonisation complète au système à cinq niveaux en 2026, cet article retrace une longue évolution entre droit du spectateur et responsabilité sociale.'
 category: 'Society'
-subcategory: 'Médias et communication'
+subcategory: '媒體與傳播'
 tags:
   [
     classification des films,

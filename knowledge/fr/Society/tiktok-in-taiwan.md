@@ -15,7 +15,7 @@ tags:
     scepticisme pro-américain,
     érosion de la confiance,
   ]
-subcategory: 'Médias numériques'
+subcategory: '媒體與言論'
 author: 'idlccp1984'
 date: 2026-04-12
 readingTime: 10min

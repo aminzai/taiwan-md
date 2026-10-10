@@ -11,7 +11,7 @@ tags:
     'peuples autochtones',
     'période japonaise',
   ]
-subcategory: 'Architecture'
+subcategory: '建築'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-28

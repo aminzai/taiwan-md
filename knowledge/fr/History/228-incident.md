@@ -12,7 +12,7 @@ tags:
     loi martiale,
     '228',
   ]
-subcategory: 'Histoire militaire'
+subcategory: '軍事歷史'
 category: 'History'
 author: 'Taiwan.md'
 readingTime: 18

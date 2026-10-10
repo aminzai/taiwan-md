@@ -4,7 +4,7 @@ description: "Un cargo d'occasion de 15 ans, un trône mondial décroché 17 ans
 date: 2026-03-24
 tags:
   [Economy, Entreprise, Transport maritime, Logistique, Commerce international]
-subcategory: "Portraits d'entreprises"
+subcategory: '企業列傳'
 category: 'Economy'
 author: 'Taiwan.md'
 readingTime: 9

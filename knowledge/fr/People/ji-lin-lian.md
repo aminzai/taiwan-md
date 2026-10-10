@@ -12,7 +12,7 @@ tags:
     'arms procurement controversy',
     '2026',
   ]
-subcategory: 'Political Figures'
+subcategory: '政治人物'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-03

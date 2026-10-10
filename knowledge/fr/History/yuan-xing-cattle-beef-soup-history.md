@@ -12,7 +12,7 @@ tags:
     Lee Teng-hui,
     filière bœuf,
   ]
-subcategory: 'Histoire sociale et du quotidien'
+subcategory: '社會與日常史'
 author: 'Taiwan.md Contributors'
 date: 2026-03-25
 readingTime: 9

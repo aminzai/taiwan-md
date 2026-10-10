@@ -4,7 +4,7 @@ description: "En 2003, elle quitte Kuala Lumpur pour Taipei afin d'étudier à l
 date: 2026-05-17
 author: 'Taiwan.md'
 category: 'People'
-subcategory: 'Commissariat et art contemporain'
+subcategory: '策展與當代藝術'
 tags:
   [
     'Au Sow Yee',

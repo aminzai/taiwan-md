@@ -12,7 +12,7 @@ tags:
     'Cup of Excellence',
     'café en convenience store',
   ]
-subcategory: 'Culture des boissons'
+subcategory: '飲品文化'
 author: 'Taiwan.md'
 category: 'Food'
 lastVerified: 2026-03-23

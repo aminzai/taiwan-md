@@ -10,7 +10,7 @@ tags:
     'économie circulaire',
     'changement climatique',
   ]
-subcategory: 'Mouvements sociaux'
+subcategory: '社會運動'
 author: 'Taiwan.md'
 readingTime: 8
 featured: true

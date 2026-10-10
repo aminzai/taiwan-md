@@ -4,7 +4,7 @@ description: "Ses statues sont en train d'être démontées, mais les fondations
 date: 2026-03-31
 tags:
   [politique, histoire, loi martiale, justice transitionnelle, guerre froide]
-subcategory: 'Personnalités politiques'
+subcategory: '政治人物'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 15

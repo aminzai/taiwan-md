@@ -15,7 +15,7 @@ tags:
     'Yang Chih-liang',
     "Base de données de l'assurance maladie",
   ]
-subcategory: 'Santé et assurance maladie'
+subcategory: '醫療與健保'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-04

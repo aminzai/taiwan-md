@@ -12,7 +12,7 @@ tags:
     'culture taïwanaise',
     'rock',
   ]
-subcategory: 'Musique populaire'
+subcategory: '流行音樂'
 author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 10

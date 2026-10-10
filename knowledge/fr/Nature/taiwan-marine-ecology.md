@@ -15,7 +15,7 @@ tags:
     changement climatique,
     sciences océanographiques,
   ]
-subcategory: 'Faune sauvage'
+subcategory: '野生動物'
 category: Nature
 author: 'Taiwan.md'
 readingTime: 15

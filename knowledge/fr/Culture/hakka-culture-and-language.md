@@ -11,7 +11,7 @@ tags:
     Liuhdui,
     mouvement pour la langue maternelle,
   ]
-subcategory: 'Culture ethnique'
+subcategory: '族群文化'
 category: 'Culture'
 author: 'Taiwan.md'
 readingTime: 14

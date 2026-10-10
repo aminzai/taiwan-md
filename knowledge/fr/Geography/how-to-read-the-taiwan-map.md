@@ -18,7 +18,7 @@ tags:
     'territoire',
     'cartographie numérique',
   ]
-subcategory: 'Introduction à la géographie'
+subcategory: '地理概論'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-07

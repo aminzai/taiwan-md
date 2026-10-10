@@ -13,7 +13,7 @@ tags:
     'espèce menacée',
     'écologie',
   ]
-subcategory: 'Faune sauvage'
+subcategory: '野生動物'
 author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false

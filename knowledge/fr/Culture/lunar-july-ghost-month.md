@@ -4,7 +4,7 @@ description: "En plein été en 2026, les tables communes sont dressées dans le
 date: 2026-07-20
 author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: 'Fêtes et coutumes'
+subcategory: '節慶與禮俗'
 tags:
   [
     'Juillet lunaire',

@@ -13,7 +13,7 @@ tags:
     cheval d'arçons,
     Taïwan,
   ]
-subcategory: 'Sport'
+subcategory: '體育'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 8

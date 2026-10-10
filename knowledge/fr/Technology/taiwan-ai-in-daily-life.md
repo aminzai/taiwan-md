@@ -11,7 +11,7 @@ tags:
     'agriculture intelligente',
     'technologie du quotidien',
   ]
-subcategory: 'Culture numérique et communautés en ligne'
+subcategory: '社群與數位文化'
 category: 'Technology'
 author: 'p3nchan'
 readingTime: 8

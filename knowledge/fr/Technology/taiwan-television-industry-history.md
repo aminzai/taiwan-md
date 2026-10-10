@@ -12,7 +12,7 @@ tags:
     'réforme des médias',
     'drama taïwanais',
   ]
-subcategory: 'Audiovisuel et médias'
+subcategory: '影視與媒體'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-31

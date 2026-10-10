@@ -4,7 +4,7 @@ description: "Un voyage vertical du niveau de la mer jusqu'au sommet du mont Yus
 date: 2026-03-23
 author: 'Taiwan.md'
 category: 'Nature'
-subcategory: 'Systèmes écologiques'
+subcategory: '生態系統'
 tags:
   [
     'écologie forestière',

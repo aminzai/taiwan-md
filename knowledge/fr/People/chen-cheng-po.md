@@ -3,7 +3,7 @@ title: 'Chen Cheng-po'
 description: "Il a conquis la prestigieuse exposition impériale de Tokyo avec ses huiles sur toile, avant d'être fusillé devant la gare de Chiayi — et c'est souvent sa mort, non ses tableaux, qui l'a fait connaître du monde."
 date: 2026-03-31
 tags: [art, peinture, incident du 28 février, Chiayi, période japonaise]
-subcategory: 'Artiste'
+subcategory: '藝術家'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 12

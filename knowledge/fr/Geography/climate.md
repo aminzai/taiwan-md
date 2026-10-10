@@ -3,7 +3,7 @@ title: 'Le climat de Taïwan'
 description: "Les précipitations annuelles atteignent 2,5 fois la moyenne mondiale, et pourtant Taïwan figure parmi les vingt pays les plus touchés par le stress hydrique — le climat de l'île n'est pas ce que vous imaginez"
 date: 2026-03-31
 tags: [géographie, climat, typhons, pluies de prune, changement climatique]
-subcategory: 'Climat et sources thermales'
+subcategory: '氣候與溫泉'
 category: 'Geography'
 author: 'Taiwan.md'
 featured: true

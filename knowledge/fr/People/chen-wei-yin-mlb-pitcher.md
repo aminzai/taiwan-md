@@ -13,7 +13,7 @@ tags:
     NPB,
     baseball japonais,
   ]
-subcategory: 'Sport'
+subcategory: '體育'
 category: 'People'
 author: 'Taiwan.md'
 featured: false

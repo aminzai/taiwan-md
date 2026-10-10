@@ -3,7 +3,7 @@ title: 'Prénoms courants à Taïwan'
 description: "Si vous criez « Shu Fen » ou « Jia Hao » dans une rue de Taïwan, combien de personnes se retourneront ? Ces prénoms sont le miroir de la société taïwanaise, témoignant de l'imaginaire collectif de chaque génération quant à ce qu'est une « belle vie »."
 date: 2026-04-19
 category: 'Culture'
-subcategory: "'節慶與禮俗'"
+subcategory: '節慶與禮俗'
 tags:
   [
     'Société et culture',

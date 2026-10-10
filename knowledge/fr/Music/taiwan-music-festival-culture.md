@@ -11,7 +11,7 @@ tags:
     'musique indépendante',
     'culture jeune',
   ]
-subcategory: 'Indépendant et rock'
+subcategory: '獨立與搖滾'
 category: 'Music'
 author: 'Taiwan.md'
 featured: true

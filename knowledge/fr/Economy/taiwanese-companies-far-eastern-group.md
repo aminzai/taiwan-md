@@ -12,7 +12,7 @@ tags:
     entrepreneurs taïwanais,
     risque politique,
   ]
-subcategory: "Portraits d'entreprises"
+subcategory: '企業列傳'
 author: 'Taiwan.md'
 readingTime: 8
 featured: false

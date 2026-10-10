@@ -20,7 +20,7 @@ tags:
     peuples autochtones,
   ]
 category: 'People'
-subcategory: 'Musique et arts de la scène'
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 readingTime: 12

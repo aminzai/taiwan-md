@@ -12,7 +12,7 @@ tags:
     'Foxconn',
     "Gouvernance d'entreprise",
   ]
-subcategory: "Chroniques d'entreprises"
+subcategory: '企業列傳'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-03

@@ -3,7 +3,7 @@ title: 'Henry Lee (李昌鈺)'
 description: "Un homme qui bâtit sa légende à partir de fragments d'os — et que la justice finit par rattraper à cause d'une serviette tachée"
 date: 2026-03-29
 category: 'People'
-subcategory: 'Sciences et monde académique'
+subcategory: '科學與學術'
 tags:
   ['personnalité', 'criminalistique', "Taïwanais d'Amérique", 'enquête pénale']
 featured: false

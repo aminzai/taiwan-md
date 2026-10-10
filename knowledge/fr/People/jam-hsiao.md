@@ -11,7 +11,7 @@ tags:
     'Golden Melody Awards',
     'dieu de la pluie',
   ]
-subcategory: 'Musique et spectacle vivant'
+subcategory: '音樂與表演'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 10

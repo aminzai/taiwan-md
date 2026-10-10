@@ -12,7 +12,7 @@ tags:
     'géologie',
     'culture des bains thermaux',
   ]
-subcategory: 'Géologie et géothermie'
+subcategory: '地質與地熱'
 category: Nature
 author: 'Taiwan.md'
 readingTime: 12

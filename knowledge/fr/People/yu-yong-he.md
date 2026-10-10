@@ -13,7 +13,7 @@ tags:
     'soufre',
     'littérature taïwanaise',
   ]
-subcategory: 'Histoire et exploration'
+subcategory: '歷史與探險'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 10

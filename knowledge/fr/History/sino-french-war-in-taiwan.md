@@ -3,7 +3,7 @@ title: 'La guerre sino-française : huit mois à Keelung et Tamsui'
 description: "À l'automne 1884, la flotte française bombarde le port de Keelung. Deux mille fusiliers marins débarquent et s'emparent de la rade. Mais pendant sept mois, ils n'arrivent pas à franchir les crêtes qui l'entourent. La même semaine, 600 marins français tentent de prendre Tamsui — et sont repoussés à la mer en moins de deux heures. À la fin de la guerre, la France obtient le Vietnam et renonce à Taïwan. La Chine des Qing a failli tout perdre, mais la défaite partielle suffit à transformer l'île en province à part entière."
 date: 2026-04-12
 category: History
-subcategory: Colonisation et empires
+subcategory: '殖民與帝國'
 tags:
   - guerre sino-française
   - Keelung

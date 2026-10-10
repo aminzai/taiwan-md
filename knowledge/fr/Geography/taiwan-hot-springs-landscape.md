@@ -11,7 +11,7 @@ tags:
     'tourisme',
     'tectonique des plaques',
   ]
-subcategory: 'Climat et sources thermales'
+subcategory: '氣候與溫泉'
 author: 'Taiwan.md Contributors'
 difficulty: 'beginner'
 readingTime: 12

@@ -10,7 +10,7 @@ tags:
     'festivals internationaux',
     "jeu d'acteur",
   ]
-subcategory: 'Cinéma et Théâtre'
+subcategory: '電影與戲劇'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 10

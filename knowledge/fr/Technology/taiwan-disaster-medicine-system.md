@@ -11,7 +11,7 @@ tags:
     'système de santé taïwanais',
     'télémédecine',
   ]
-subcategory: 'Système de santé'
+subcategory: '醫療體系'
 author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false

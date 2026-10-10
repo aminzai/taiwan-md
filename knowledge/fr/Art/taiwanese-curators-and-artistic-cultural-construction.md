@@ -11,7 +11,7 @@ tags:
     'musées',
     'discours artistique',
   ]
-subcategory: 'Art contemporain'
+subcategory: '當代藝術'
 author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: true

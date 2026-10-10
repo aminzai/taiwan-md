@@ -12,7 +12,7 @@ tags:
     'Musique pop',
     'Golden Melody Awards',
   ]
-subcategory: 'Musique'
+subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
 readingTime: 8
