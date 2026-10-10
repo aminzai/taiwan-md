@@ -214,12 +214,12 @@ Bảo Tàng Nham không bị phá dỡ, là bởi vì đủ nhiều người kh�
 
 **Đọc thêm:**
 
-- [Đài Bắc: Một thành phố có ba khoảnh khắc thời gian, 1738 Đền Tàu Long Sơn nhìn 2004 101](/geography/Đài-Bắc) — Vị trí Bảo Tàng Nham trong 12 quận, cùng với ba dòng thời gian Ảnh Huy, Đại Thổ Nham, Tín Nghĩa cạnh nhau
-- [Phát triển Công viên Văn hóa Sáng tạo Đài Loan](/culture/Phát-triển-Công-viên-Văn-hóa-Sáng-tạo-Đài-Loan) — Bảo Tàng Nham cùng với Bốn Tứ Làng Nam, Huà Sơn, Tùng Cây những "làng mắt lửa/di sản công nghiệp trở thành sáng tạo" Đài Loan kiểu case study nhìn cùng
-- [Đại Thổ Nham: 800 mét chứa ba thế kỷ của Đài Bắc](/geography/Đại-Thổ-Nham) — Sibling batch 1 lịch sử phố, 1851 phố buôn bán trà lá và khu ổn định không hợp pháp thập niên 1960, là hai loại "thời điểm phố hình thành" hoàn toàn khác nhau
-- [Ảnh Huy: Địa điểm niêm yết đời sống ở Đài Bắc thời kỳ Thanh 1738](/geography/Ảnh-Huy) — Sibling batch 1, đền Tàu Long Sơn năm 1738 của trung tâm niêm yết tín ngưỡng di dân Thanh Châu và chùa Quan Âm năm 1791 Bảo Tàng Nham là trung tâm niêm yết tín ngưỡng di dân cùng thời kỳ
-- [Tây Môn Chợ: Nơi giải trí được quân Nhật xây dựng năm 1896](/geography/Tây-Môn-Chợ) — Sibling batch 1, khu giải trí quy hoạch thời Nhật so với khu ổn định xây dựng tự lực hậu chiến, là hai loại "người không được quy hoạch đô thị nhìn thấy" khác nhau
-- [Công Quán](/geography/Công-Quán) — Vòng tròn tiêu thụ học sinh-học giả 800 mét phía bắc, cùng với khu ổn định không hợp pháp Bảo Tàng Nham là hai loại sinh thái không gian hoàn toàn khác nhau xung quanh Đại học Đài Bắc
+- [Đài Bắc: Một thành phố có ba khoảnh khắc thời gian, 1738 Đền Tàu Long Sơn nhìn 2004 101](/vi/geography/taipei-city) — Vị trí Bảo Tàng Nham trong 12 quận, cùng với ba dòng thời gian Ảnh Huy, Đại Thổ Nham, Tín Nghĩa cạnh nhau
+- [Phát triển Công viên Văn hóa Sáng tạo Đài Loan](/vi/culture/taiwan-cultural-creative-park-development) — Bảo Tàng Nham cùng với Bốn Tứ Làng Nam, Huà Sơn, Tùng Cây những "làng mắt lửa/di sản công nghiệp trở thành sáng tạo" Đài Loan kiểu case study nhìn cùng
+- [Đại Thổ Nham: 800 mét chứa ba thế kỷ của Đài Bắc](/vi/geography/dadaocheng) — Sibling batch 1 lịch sử phố, 1851 phố buôn bán trà lá và khu ổn định không hợp pháp thập niên 1960, là hai loại "thời điểm phố hình thành" hoàn toàn khác nhau
+- [Ảnh Huy: Địa điểm niêm yết đời sống ở Đài Bắc thời kỳ Thanh 1738](/vi/geography/bangka) — Sibling batch 1, đền Tàu Long Sơn năm 1738 của trung tâm niêm yết tín ngưỡng di dân Thanh Châu và chùa Quan Âm năm 1791 Bảo Tàng Nham là trung tâm niêm yết tín ngưỡng di dân cùng thời kỳ
+- [Tây Môn Chợ: Nơi giải trí được quân Nhật xây dựng năm 1896](/vi/geography/ximending) — Sibling batch 1, khu giải trí quy hoạch thời Nhật so với khu ổn định xây dựng tự lực hậu chiến, là hai loại "người không được quy hoạch đô thị nhìn thấy" khác nhau
+- [Công Quán](/vi/geography/gongguan) — Vòng tròn tiêu thụ học sinh-học giả 800 mét phía bắc, cùng với khu ổn định không hợp pháp Bảo Tàng Nham là hai loại sinh thái không gian hoàn toàn khác nhau xung quanh Đại học Đài Bắc
 
 ## Nguồn ảnh
 

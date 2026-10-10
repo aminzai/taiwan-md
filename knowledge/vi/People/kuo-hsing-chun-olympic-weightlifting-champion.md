@@ -107,11 +107,11 @@ Bà cố của cô dùng giọng hát để truyền lại văn hoá, cô dùng 
 
 **Đọc thêm**:
 
-- [Đới Tư Doanh](/vi/people/tai-tzu-ying-badminton/) — Cùng là nhân vật lõi của đoàn Đài Loan Tokyo Olympic, vô địch cầu lông nữ thế giới
-- [Dương Dũng Duy](/vi/people/yang-yung-wei-judo/) — Huy chương bạc Judo Tokyo Olympic, huy chương Olympic đầu tiên của Đài Loan trong judo
+- [Đới Tư Doanh](/vi/people/tai-tzu-ying) — Cùng là nhân vật lõi của đoàn Đài Loan Tokyo Olympic, vô địch cầu lông nữ thế giới
+- [Dương Dũng Duy](/vi/people/yang-yung-wei-judo-olympic-silver) — Huy chương bạc Judo Tokyo Olympic, huy chương Olympic đầu tiên của Đài Loan trong judo
 - [Lâm Dương Cấu](/vi/people/lee-yang-badminton) — Huy chương vàng đôi nam badminton Tokyo Olympics, câu chuyện của Vương Tề Lâm và Lý Dương
 - [Lý Dương](/vi/people/lee-yang-badminton) — Nhà vô địch Olympic hai huy chương vàng chuyển sang làm Bộ trưởng Thể thao lần đầu tiên
-- [Lý Trí Khải](/vi/people/lee-chih-kai-pommel-horse/) — Huy chương bạc thể dục dục thể Tokyo Olympic, "Con trai lật nhào" 20 năm hành trình
+- [Lý Trí Khải](/vi/people/li-chih-kai) — Huy chương bạc thể dục dục thể Tokyo Olympic, "Con trai lật nhào" 20 năm hành trình
 
 ## Tài liệu tham khảo
 

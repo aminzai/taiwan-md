@@ -165,10 +165,10 @@ Núi bảo vệ đất nước ở đỉnh cao nhất, chống đỡ toàn bộ 
 
 - [Đài Loan Doanh Nghiệp: TSMC](/vi/economy/top-50-companies-taiwan) — Xếp thứ nhất trong 50 lớn, chiếm 31,51% chỉ số đồng tiền của một công ty duy nhất
 - [Doanh Nghiệp Vừa Và Nhỏ Đài Loan Và Những Nhà Vô Địch Ẩn](/vi/economy/top-50-companies-taiwan) — Ngoài Nghĩa Mỹ và Và Thái, thấy 30% cấu trúc kinh tế nhìn không thấy
-- [Công Nghiệp Bán Dẫn Đài Loan](/technology/top-50-companies-taiwan) — Từ Viện Công Nghiệp Nghiên Cứu đến 2 nanomet, nguồn gốc của 11 vị trí bán dẫn trong 50 lớn
+- [Công Nghiệp Bán Dẫn Đài Loan](/vi/technology/taiwan-semiconductor-industry) — Từ Viện Công Nghiệp Nghiên Cứu đến 2 nanomet, nguồn gốc của 11 vị trí bán dẫn trong 50 lớn
 - [Thị Trường Chứng Khoán Đài Loan Và Thị Trường Vốn](/vi/economy/top-50-companies-taiwan) — Chỉ số đồng tiền, xếp hạng giá trị thị trường, cấu trúc nhà đầu tư tổ chức
-- [Quốc Phòng Và Hiện Đại Hóa Quân Sự Đài Loan](/society/top-50-companies-taiwan) — Kết nối địa chính trị giữa silicon shield và 50 lớn
-- [Công Viên Khoa Học Đài Loan](/technology/top-50-companies-taiwan) — Cơ sở sản xuất của nửa vị trí bán dẫn trong 50 lớn doanh nghiệp, phiên bản không gian của độ tập trung sản lượng ba công viên
+- [Quốc Phòng Và Hiện Đại Hóa Quân Sự Đài Loan](/vi/society/taiwan-defense-modernization) — Kết nối địa chính trị giữa silicon shield và 50 lớn
+- [Công Viên Khoa Học Đài Loan](/vi/technology/taiwan-semiconductor-industry) — Cơ sở sản xuất của nửa vị trí bán dẫn trong 50 lớn doanh nghiệp, phiên bản không gian của độ tập trung sản lượng ba công viên
 
 ## Hình ảnh Nguồn
 

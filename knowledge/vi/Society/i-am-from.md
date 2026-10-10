@@ -176,10 +176,10 @@ Câu lệnh bị quên xóa đó, lần này bị chụp lại. Lần sau, nó s
 
 ## Tham khảo thêm
 
-- [Chiến tranh nhận thức](/society/chiến-tranh-nhận-thức) — Khung chiến tranh nhận thức, ranh giới, và nguyên tắc đọc "tính phức tạp hơn tính chính xác"
-- [Chiến tranh nhận thức khoai tây độc hại](/society/chiến-tranh-nhận-thức-khoai-tây-độc-hại) — Một trận chiến thuật kỳ lạ đã "đúng mục tiêu trên nền tảng thực tế", và bài này cùng bộ ví dụ từ chối nhị phân
-- [Phòng thí nghiệm AI Đài Loan](/technology/phòng-thí-nghiệm-ai-đài-loan) — Sử dụng AI ngược để phát hiện hoạt động phối hợp nhận thức ghi nhận bản địa công nghệ
-- [Phương tiện truyền thông Đài Loan và Tự do Báo chí](/society/phương-tiện-truyền-thông-đài-loan-và-tự-do-báo-chí) — Tranh cãi Vương Trung và kết cấu tập đoàn phương tiện truyền thông bối cảnh lớn hơn
+- [Chiến tranh nhận thức](/vi/society/cognitive-warfare-against-taiwan) — Khung chiến tranh nhận thức, ranh giới, và nguyên tắc đọc "tính phức tạp hơn tính chính xác"
+- [Chiến tranh nhận thức khoai tây độc hại](/vi/society/poisoned-potato-cognitive-warfare-taiwan) — Một trận chiến thuật kỳ lạ đã "đúng mục tiêu trên nền tảng thực tế", và bài này cùng bộ ví dụ từ chối nhị phân
+- [Phòng thí nghiệm AI Đài Loan](/vi/technology/taiwan-ai-labs) — Sử dụng AI ngược để phát hiện hoạt động phối hợp nhận thức ghi nhận bản địa công nghệ
+- [Phương tiện truyền thông Đài Loan và Tự do Báo chí](/vi/society/media-and-press-freedom-in-taiwan) — Tranh cãi Vương Trung và kết cấu tập đoàn phương tiện truyền thông bối cảnh lớn hơn
 
 ## Nguồn gốc Hình ảnh
 

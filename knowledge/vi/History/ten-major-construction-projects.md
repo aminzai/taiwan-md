@@ -89,7 +89,7 @@ Di sản quý giá nhất mà công trình xây dựng này để lại cho Đà
 
 ## Đọc thêm
 
-- [Đường cao tốc](/lifestyle/đường-cao-tốc) — Cao tốc Trung Sơn chỉ là hàng đầu của Mười Đại Công Trình, bài này đào sâu nó và đường Macarthur, đường hầm Tuyết Sơn, quốc lộ 7 kết nối thành lịch sử 50 năm quyền lực và cái giá
+- [Đường cao tốc](/vi/lifestyle/national-highway-system) — Cao tốc Trung Sơn chỉ là hàng đầu của Mười Đại Công Trình, bài này đào sâu nó và đường Macarthur, đường hầm Tuyết Sơn, quốc lộ 7 kết nối thành lịch sử 50 năm quyền lực và cái giá
 
 ## Tham khảo
 

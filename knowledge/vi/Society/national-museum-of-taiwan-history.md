@@ -214,11 +214,11 @@ Nếu có một ngày, quan điểm lịch sử đảo Đài Loan trở thành k
 
 **Đọc Tiếp Xúc**:
 
-- [Quan Điểm Lịch Sử Đảo Đài Loan](/history/quan-điểm-lịch-sử-đảo-đài-loan) — Bài luận 1990 của Tào Vĩnh Hòa định nghĩa khung lịch sử "lấy đảo làm chủ thể", NMTH là thực hành trưng bày của quan điểm lịch sử này
-- [Ba Người Nước Ngoài Nhìn Bại Tích Năm 1895](/history/ba-người-nước-ngoài-nhìn-bại-tích-năm-1895) — Tài liệu 1895 của Davidson, Viễn Tông Thành, Tế Xuyên Lưu, ba bộ sưu tập thảo luận của NMTH
-- [Chiến Tranh Nhang Gỗ Thế Kỷ 19](/history/chiến-tranh-nhang-gỗ-thế-kỷ-19) — Báo cáo điều tra nhang gỗ 1864 của Sử Huân, bộ sưu tập tài liệu sơ cấp của NMTH
-- [Thời Kỳ Hà Tây Minh Trịnh](/history/thời-kỳ-hà-tây-minh-trịnh) — Khu trưng bày thứ 3 "Đảo và Con Người Sống Dựa Trên Biển" của triển lãm thường xuyên NMTH và mẹ chủ đề Vượt 1624 triển lãm đặc biệt
-- [Thần Tiên Hoa](/history/thần-tiên-hoa) — Bản dịch trung ương của "Quá Khứ và Hiện Tại của Đảo Thần Tiên" của Davidson do NMTH xuất bản
+- [Quan Điểm Lịch Sử Đảo Đài Loan](/vi/history/taiwan-island-historiography) — Bài luận 1990 của Tào Vĩnh Hòa định nghĩa khung lịch sử "lấy đảo làm chủ thể", NMTH là thực hành trưng bày của quan điểm lịch sử này
+- [Ba Người Nước Ngoài Nhìn Bại Tích Năm 1895](/vi/history/three-foreigners-witness-1895-taiwan) — Tài liệu 1895 của Davidson, Viễn Tông Thành, Tế Xuyên Lưu, ba bộ sưu tập thảo luận của NMTH
+- [Chiến Tranh Nhang Gỗ Thế Kỷ 19](/vi/history/19th-century-camphor-wars) — Báo cáo điều tra nhang gỗ 1864 của Sử Huân, bộ sưu tập tài liệu sơ cấp của NMTH
+- [Thời Kỳ Hà Tây Minh Trịnh](/vi/history/dutch-spanish-and-koxinga-era) — Khu trưng bày thứ 3 "Đảo và Con Người Sống Dựa Trên Biển" của triển lãm thường xuyên NMTH và mẹ chủ đề Vượt 1624 triển lãm đặc biệt
+- [Thần Tiên Hoa](/vi/history/formosa-historical-name) — Bản dịch trung ương của "Quá Khứ và Hiện Tại của Đảo Thần Tiên" của Davidson do NMTH xuất bản
 
 ## Nguồn Gốc Hình Ảnh
 

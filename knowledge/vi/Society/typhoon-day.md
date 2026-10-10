@@ -177,7 +177,7 @@ Nhưng mỗi năm hè, khi mở điện thoại thấy thông báo dừng làm v
 
 ## Đọc thêm
 
-- [Bão](/vi/nature/typhoon) — Từ thế kỷ 17 khi thổ dân ở Bành Hồ nhìn thấy lốc xoáy đến sự kiện Tiểu Lâm Làng 2009, toàn cảnh bốn trăm năm cộng sinh giữa Đài Loan và bão
+- [Bão](/vi/nature/typhoons-in-taiwan) — Từ thế kỷ 17 khi thổ dân ở Bành Hồ nhìn thấy lốc xoáy đến sự kiện Tiểu Lâm Làng 2009, toàn cảnh bốn trăm năm cộng sinh giữa Đài Loan và bão
 - [Ngày lễ quốc định](/vi/society/national-holidays) — Lịch sử chính trị trên những ngày đỏ, từ góc độ chế độ nhìn "ngày của ai, lớp của ai"
 - Tạp chí Kinh doanh Tuần báo 〈Ngày typhoon có thực sự chiều chuộng những cử tri nhỏ xinh không? Kết quả thống kê cho thấy: chỉ cho đúng mới được〉 — Phân tích lượng tính khoa học chính trị của quyết định ngày typhoon
 - Trang web Khổ lao 〈Khi mùa bão đến, tại sao cho phép ngày không có lương không đi vào luật?〉 — Quan điểm công nhân về khuyến nghị đưa ngày thảm họa vào luật

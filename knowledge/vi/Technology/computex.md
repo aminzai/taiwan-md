@@ -236,11 +236,11 @@ COMPUTEX sống sót, vì nó tổ chức ở Đài Bắc——phía "cung cấp
 
 **Mở rộng đọc**：
 
-- [Ngành công nghiệp bán dẫn](/Technology/ngành-công-nghiệp-bán-dẫn) — Chuỗi chân gân sân khấu chính COMPUTEX, nguồn gốc ở Tân Trúc, Đài Trung, Đài Nam các nhà máy wafer
-- [Phát triển và chiến lược trí tuệ nhân tạo Đài Loan](/Technology/phát-triển-chiến-lược-trí-tuệ-nhân-tạo-đài-loan) — Từ lắp ráp máy chủ sang trí tuệ nhân tạo vật lý, ngành công nghiệp AI Đài Loan đang bước qua lần thứ hai chuyển giao xương
-- [Ngành công nghiệp robot Đài Loan](/Technology/ngành-công-nghiệp-robot-đài-loan) — Lần đầu tiên Thượng Ngân lên COMPUTEX là một lát cắt chính của sự hình thành chuỗi cung ứng này
-- [Phát triển chuỗi công nghiệp xe điện Đài Loan](/Technology/phát-triển-chuỗi-công-nghiệp-xe-điện-đài-loan) — Một trục sản xuất chính khác song song với máy chủ AI
-- [NVIDIA tại Đài Loan](/Technology/nvidia-tại-đài-loan) — Từ tuổi thơ Hoàng Nhân Huân ở Đài Nam đến sân khấu chính GTC Taipei ở Đài Bắc
+- [Ngành công nghiệp bán dẫn](/vi/technology/taiwan-semiconductor-industry) — Chuỗi chân gân sân khấu chính COMPUTEX, nguồn gốc ở Tân Trúc, Đài Trung, Đài Nam các nhà máy wafer
+- [Phát triển và chiến lược trí tuệ nhân tạo Đài Loan](/vi/technology/artificial-intelligence-development-strategy) — Từ lắp ráp máy chủ sang trí tuệ nhân tạo vật lý, ngành công nghiệp AI Đài Loan đang bước qua lần thứ hai chuyển giao xương
+- [Ngành công nghiệp robot Đài Loan](/vi/technology/taiwan-robotics-industry) — Lần đầu tiên Thượng Ngân lên COMPUTEX là một lát cắt chính của sự hình thành chuỗi cung ứng này
+- [Phát triển chuỗi công nghiệp xe điện Đài Loan](/vi/technology/taiwan-electric-vehicle-industry-chain) — Một trục sản xuất chính khác song song với máy chủ AI
+- [NVIDIA tại Đài Loan](/vi/technology/nvidia-in-taiwan) — Từ tuổi thơ Hoàng Nhân Huân ở Đài Nam đến sân khấu chính GTC Taipei ở Đài Bắc
 
 Bản đầy đủ bài phát biểu chính NVIDIA GTC Taipei 2026 (kênh chính thức NVIDIA):
 

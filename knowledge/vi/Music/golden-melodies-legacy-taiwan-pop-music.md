@@ -254,11 +254,11 @@ Còn lại không phải quy mô, là tự do, là mất hết rồi cuối cùn
 
 **Đọc thêm**:
 
-- [Phong trào dân ca Đài Loan: "Hát bài hát của riêng mình" hát của là ai](/music/phong-trao-dan-ca-tai-loan)
-- [Sự phát triển ca khúc tiếng Đài Đài Loan: Từ ngôn ngữ mẹ đẻ bị cấm đến Album của năm](/music/su-phat-trien-ca-khuc-tieng-dai-tai-loan)
-- [Giải Kim Khúc: Tiếng nói của ai mới được tính, do ai quyết định](/music/giai-kim-khuc)
-- [Ngành công nghiệp âm nhạc Đài Loan và kỷ nguyên phát thanh: Sau khi thực thể sụp đổ mà lấy lại máu](/music/nganh-cong-nghiep-am-nhac-tai-loan-va-ky-nguyen-phat-thanh)
-- [Đặng Lệ Quân: Truyền lời khắp hai bờ ba vùng, nhưng đến lúc qua đời vẫn chưa bao giờ mở một buổi hát ở Trung Quốc đại lục](/people/dang-le-quan)
+- [Phong trào dân ca Đài Loan: "Hát bài hát của riêng mình" hát của là ai](/vi/music/taiwan-campus-folk-song-movement)
+- [Sự phát triển ca khúc tiếng Đài Đài Loan: Từ ngôn ngữ mẹ đẻ bị cấm đến Album của năm](/vi/music/taiwanese-hokkien-song-evolution)
+- [Giải Kim Khúc: Tiếng nói của ai mới được tính, do ai quyết định](/vi/music/pop-music-and-golden-melody-awards)
+- [Ngành công nghiệp âm nhạc Đài Loan và kỷ nguyên phát thanh: Sau khi thực thể sụp đổ mà lấy lại máu](/vi/music/taiwan-music-industry-and-the-streaming-era)
+- [Đặng Lệ Quân: Truyền lời khắp hai bờ ba vùng, nhưng đến lúc qua đời vẫn chưa bao giờ mở một buổi hát ở Trung Quốc đại lục](/vi/people/teresa-teng)
 
 ## Hình ảnh Nguồn
 

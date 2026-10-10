@@ -145,10 +145,10 @@ Cái thực sự đáng ghi nhớ, có thể là lúc sáng sớm hôm đó cô 
 
 **Đọc thêm**:
 
-- [Lâm Cường](/people/lâm-cường) — Cùng hoàn thành chuyển đổi danh tính (từ thần tượng nhạc rock Đài Loan đến tiên phong nhạc nền phim) của nhân vật văn hóa Đài Loan, giống Giả Vĩnh Thiệp sử dụng nửa sau của cuộc sống để xác định lại vị trí được thị trường phân loại của họ
-- [Thái Anh Văn](/people/thái-anh-văn) — Đầu dây kia của cuộc gọi điện thoại "120% Cô gái xinh đẹp" tháng 6 năm 2021; quyên góp HFNC là sự vận hành đồng bộ hiếm gặp giữa hệ thống huy động dân gian và Tổng thống Phủ
-- [Châu Khắc Lâm](/people/châu-khắc-lâm) — Một con đường khác để chuyển đổi nhân vị sao thành ảnh hưởng liên lĩnh vực (âm nhạc→phim→thương hiệu→công ích), đọc đối chiếu với "chuyển đổi sao thành quản trị công cộng" của Giả Vĩnh Thiệp
-- [Văn hóa tình nguyện viên Đài Loan và tham gia công ích](/society/văn-hóa-tình-nguyện-viên-đài-loan) — Nền tảng văn hóa của huy động dân gian HFNC năm 2021; truyền thống kết nối ngang của xã hội công dân Đài Loan trong thời sự lớn
+- [Lâm Cường](/vi/people/lim-giong) — Cùng hoàn thành chuyển đổi danh tính (từ thần tượng nhạc rock Đài Loan đến tiên phong nhạc nền phim) của nhân vật văn hóa Đài Loan, giống Giả Vĩnh Thiệp sử dụng nửa sau của cuộc sống để xác định lại vị trí được thị trường phân loại của họ
+- [Thái Anh Văn](/vi/people/tsai-ing-wen) — Đầu dây kia của cuộc gọi điện thoại "120% Cô gái xinh đẹp" tháng 6 năm 2021; quyên góp HFNC là sự vận hành đồng bộ hiếm gặp giữa hệ thống huy động dân gian và Tổng thống Phủ
+- [Châu Khắc Lâm](/vi/people/jay-chou) — Một con đường khác để chuyển đổi nhân vị sao thành ảnh hưởng liên lĩnh vực (âm nhạc→phim→thương hiệu→công ích), đọc đối chiếu với "chuyển đổi sao thành quản trị công cộng" của Giả Vĩnh Thiệp
+- [Văn hóa tình nguyện viên Đài Loan và tham gia công ích](/vi/society/volunteering-and-civic-charity-in-taiwan) — Nền tảng văn hóa của huy động dân gian HFNC năm 2021; truyền thống kết nối ngang của xã hội công dân Đài Loan trong thời sự lớn
 
 ## Tài liệu Tham khảo
 

@@ -180,15 +180,15 @@ Nếu lần sau bạn đi qua Hồi Họp Tám Giác của Nhà Đỏ Ximending,
 
 **Đọc tiếp**:
 
-- [Phòng khum hút thuốc Đài Bắc: Chiếc hộp kính có thể thở ngoài không khí sạch trong thành phố, chính xác đứng tại lối ra ga tàu điện ngầm Ximending](/society/Đài-Bắc-hút-thuốc) — ga tàu điện ngầm Ximending lối ra được lắp phòng hút thuốc âm áp ngoài trời đầu tiên toàn thành phố
+- [Phòng khum hút thuốc Đài Bắc: Chiếc hộp kính có thể thở ngoài không khí sạch trong thành phố, chính xác đứng tại lối ra ga tàu điện ngầm Ximending](/vi/society/taipei-smoking-room) — ga tàu điện ngầm Ximending lối ra được lắp phòng hút thuốc âm áp ngoài trời đầu tiên toàn thành phố
 
-- [Thành phố Đài Bắc: Ba thời gian trong một thành phố, năm 1738 Chùa Long Sơn nhìn thấy năm 2004 của 101](/geography/Đài-Bắc) — vị trí của Ximending trong 12 quận, với Vạn Hóa, Đại Đào Điền, Tín Nghĩa ba dòng thời gian sắp xếp cạnh nhau
-- [Văn hóa Hoạt Hình Đài Loan](/culture/Đài-Loan-động-hạ) — tại sao Cosplay tập trung tuần cuối tháng ở trước Nhà Đỏ Ximending, liên quan tới nguồn gốc 1999 của lễ hội Khai Tác Hoạt Hình
-- [Văn hóa Nghệ Thuật Đường Phố và Vẽ Tranh Đài Loan](/culture/Đài-Loan-vẽ-tranh) — bức tường xanh công viên chủ đề điện ảnh Ximending và mối liên hệ của phong trào văn hóa đường phố Đài Loan hậu giải nghĩa
-- [Văn hóa Phố Cổ Đài Loan và Khu Thương Mại Đường Phố](/culture/Đài-Loan-phố-cổ) — Ximending là khu giải trí thời Nhật trị, và sự khác biệt cấu trúc với phố cổ thời Thanh (Hộc Bộc, Vạn Hóa, Đại Đào Điền)
-- [Vạn Hóa](/geography/Vạn-Hóa) — anh em batch 1 khu phố lịch sử cùng, khi người Nhật quy hoạch Ximending năm 1896, Vạn Hóa bên cạnh là cảng thương mại sôi động nhất Bắc Đài Loan thời Thanh
-- [Đại Đào Điền](/geography/Đại-Đào-Điền) — anh em batch 1 khu phố lịch sử cùng, là khu phố thương mại nông sản trà mới nổi sau xung đột Định Dưỡng Tôn 1853, trái ngược với khu giải trí Nhật trị của Ximending là hai loại "thành phố thế thành"
-- [Đường Sơn Bắc Điều Thông](/geography/Đường-Sơn-Bắc) — "Sắc Sứ Thông Đạo" Nhật trị 1898 tới Viên Sơn Đài Loan Đạo Thánh Xã, và Ximending cùng kỳ Nhật trị quy hoạch nhưng một thí nghiệm thành phố hoàn toàn khác
+- [Thành phố Đài Bắc: Ba thời gian trong một thành phố, năm 1738 Chùa Long Sơn nhìn thấy năm 2004 của 101](/vi/geography/taipei-city) — vị trí của Ximending trong 12 quận, với Vạn Hóa, Đại Đào Điền, Tín Nghĩa ba dòng thời gian sắp xếp cạnh nhau
+- [Văn hóa Hoạt Hình Đài Loan](/vi/culture/taiwan-anime-culture) — tại sao Cosplay tập trung tuần cuối tháng ở trước Nhà Đỏ Ximending, liên quan tới nguồn gốc 1999 của lễ hội Khai Tác Hoạt Hình
+- [Văn hóa Nghệ Thuật Đường Phố và Vẽ Tranh Đài Loan](/vi/culture/taiwan-street-art-and-graffiti-culture) — bức tường xanh công viên chủ đề điện ảnh Ximending và mối liên hệ của phong trào văn hóa đường phố Đài Loan hậu giải nghĩa
+- [Văn hóa Phố Cổ Đài Loan và Khu Thương Mại Đường Phố](/vi/culture/taiwan-historic-streets-and-commercial-districts) — Ximending là khu giải trí thời Nhật trị, và sự khác biệt cấu trúc với phố cổ thời Thanh (Hộc Bộc, Vạn Hóa, Đại Đào Điền)
+- [Vạn Hóa](/vi/geography/bangka) — anh em batch 1 khu phố lịch sử cùng, khi người Nhật quy hoạch Ximending năm 1896, Vạn Hóa bên cạnh là cảng thương mại sôi động nhất Bắc Đài Loan thời Thanh
+- [Đại Đào Điền](/vi/geography/dadaocheng) — anh em batch 1 khu phố lịch sử cùng, là khu phố thương mại nông sản trà mới nổi sau xung đột Định Dưỡng Tôn 1853, trái ngược với khu giải trí Nhật trị của Ximending là hai loại "thành phố thế thành"
+- [Đường Sơn Bắc Điều Thông](/vi/geography/zhongshan-north-road-tiaotong) — "Sắc Sứ Thông Đạo" Nhật trị 1898 tới Viên Sơn Đài Loan Đạo Thánh Xã, và Ximending cùng kỳ Nhật trị quy hoạch nhưng một thí nghiệm thành phố hoàn toàn khác
 
 ## Nguồn Hình Ảnh
 

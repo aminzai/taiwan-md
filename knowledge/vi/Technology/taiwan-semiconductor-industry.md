@@ -266,8 +266,8 @@ Núi thần bảo vệ dựa 50 năm kinh nghiệm gia công thống trị hiệ
 
 **Mở rộng đọc**:
 
-- [Công ty Đài Loan: Đài Tích Điện](/economy/企業：台積電) — Quản lý công ty, cấu trúc tài chính, quy mô chi phí bỏ ra của Núi thần bảo vệ
-- [Công ty Đài Loan: MediaTek](/economy/企業：聯發科技) — Lãnh đạo thiết kế IC toàn cầu top 3 chiếm vị trí thế nào trong chip điện thoại, tính toán AI cạnh
+- [Công ty Đài Loan: Đài Tích Điện](/vi/economy/tsmc) — Quản lý công ty, cấu trúc tài chính, quy mô chi phí bỏ ra của Núi thần bảo vệ
+- [Công ty Đài Loan: MediaTek](/vi/economy/mediatek) — Lãnh đạo thiết kế IC toàn cầu top 3 chiếm vị trí thế nào trong chip điện thoại, tính toán AI cạnh
 - [Công ty Đài Loan: Nhật Nguyệt Quang Bán dẫn](/vi/economy/taiwan-enterprise-ase-semiconductor) — Ngành công nghiệp đóng gói kiểm tra top 1 toàn cầu, hệ sinh thái giai đoạn sau ngoài CoWoS
 - [Người tạo núi: Sự cược của thế kỷ](/vi/art/mountain-makers-tsmc-documentary) — Phim tài liệu Tiêu Cúc Trinh 2025, phỏng vấn 80+ tiền bối bán dẫn trong 5 năm, 2026 đi vào ba cái mỏ CHIPS Act Arizona / Wisconsin / Michigan
 - [Võ Đại Hữu](/vi/people/tai-yu-wu) — Thập niên 1980s Đài Loan tranh đua bán dẫn cùng lúc, làm viện trưởng viện khoa học trung ương kiên quyết tầm quan trọng của khoa học căn bản, nền tảng cho hệ thống R&D Đài Loan

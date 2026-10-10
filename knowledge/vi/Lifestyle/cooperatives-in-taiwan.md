@@ -84,7 +84,7 @@ Chiếc biên lai cổ phần 10 ngàn đó mà bạn nộp khi nhập học, đ
 
 **Đọc thêm:**
 
-- [Văn hóa cửa hàng tiện lợi Đài Loan](/lifestyle/văn-hóa-cửa-hàng-tiện-lợi-đài-loan) — Là lực lượng cung cấp thực phẩm trường học chính sau khi thay thế hợp tác xã, là trường hợp điển hình nhất của "chuỗi toàn cầu + thích ứng địa phương" trong ngành bán lẻ Đài Loan sau giải tuyên chiến
+- [Văn hóa cửa hàng tiện lợi Đài Loan](/vi/lifestyle/convenience-store-culture) — Là lực lượng cung cấp thực phẩm trường học chính sau khi thay thế hợp tác xã, là trường hợp điển hình nhất của "chuỗi toàn cầu + thích ứng địa phương" trong ngành bán lẻ Đài Loan sau giải tuyên chiến
 
 ## Tài liệu tham khảo
 

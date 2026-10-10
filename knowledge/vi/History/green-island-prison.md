@@ -88,10 +88,10 @@ Nhà tù Đảo Xanh, hòn đảo cô đơn giữa Thái Bình Dương này, ch�
 
 **Đọc thêm:**
 
-- [Bảo tàng Nhân quyền Quốc gia](/history/Bảo-tàng-Nhân-quyền-Quốc-gia) — Cơ quan Quốc gia mà Khu vực Đảo Xanh thuộc về, quá trình từ Trại Cải Tạo Tân Sinh đến sự thành lập bảo tàng
-- [Khủng bố Trắng Đài Loan](/history/Khủng-bố-Trắng-Đài-Loan) — Toàn cảnh các vụ án chính trị trong 38 năm thiết quân luật, Đảo Xanh là trung tâm giam giữ và cải tạo tư tưởng
-- [Thời kỳ thiết quân luật](/history/Thời-kỳ-thiết-quân-luật) — 1949-1987 những năm tháng lịch pháp
-- [Chuyển đổi công lý Đài Loan](/history/Chuyển-đổi-công-lý-Đài-Loan) — Việc hủy bỏ các bản án và trách nhiệm của những kẻ tình nghi vẫn chưa hoàn thành
+- [Bảo tàng Nhân quyền Quốc gia](/vi/history/national-human-rights-museum) — Cơ quan Quốc gia mà Khu vực Đảo Xanh thuộc về, quá trình từ Trại Cải Tạo Tân Sinh đến sự thành lập bảo tàng
+- [Khủng bố Trắng Đài Loan](/vi/history/taiwan-white-terror) — Toàn cảnh các vụ án chính trị trong 38 năm thiết quân luật, Đảo Xanh là trung tâm giam giữ và cải tạo tư tưởng
+- [Thời kỳ thiết quân luật](/vi/history/martial-law-era) — 1949-1987 những năm tháng lịch pháp
+- [Chuyển đổi công lý Đài Loan](/vi/history/taiwan-transitional-justice) — Việc hủy bỏ các bản án và trách nhiệm của những kẻ tình nghi vẫn chưa hoàn thành
 
 ## Nguồn gốc của ảnh
 

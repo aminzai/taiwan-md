@@ -281,7 +281,7 @@ Số lượng tên trên tường ngày càng nhiều. Liệu người cầm bú
 - [Computex: Triển lãm máy tính tại Đài Bắc trở thành nghi thức khai mạc AI toàn cầu như thế nào](/vi/technology/computex) — Sân khấu nơi bức tường logo tỏa sáng, sân nhà hàng năm của ngành công nghệ Đài Loan
 - [Ngành công nghiệp trí tuệ nhân tạo](/vi/technology/artificial-intelligence-industry) — Từ việc sản xuất chip NVIDIA đến xây dựng hệ sinh thái AI, vị thế của Đài Loan trong làn sóng AI
 - [Phát triển và chiến lược AI của Đài Loan](/vi/technology/artificial-intelligence-development-strategy) — AI chủ quyền, TAIDE và nỗ lực quốc gia của Đài Loan vươn lên từ gia công
-- [Câu chuyện công nghệ Đài Loan: Con chip 100 điểm, micro 60 điểm](/vi/technology/taiwan-tech-stories) — Hai cách kể về cùng một con chip: sự chênh lệch giá trị mà NVIDIA kiếm được và ngành công nghệ Đài Loan cần học hỏi như thế nào
+- [Câu chuyện công nghệ Đài Loan: Con chip 100 điểm, micro 60 điểm](/vi/technology/taiwan-tech-storytelling) — Hai cách kể về cùng một con chip: sự chênh lệch giá trị mà NVIDIA kiếm được và ngành công nghệ Đài Loan cần học hỏi như thế nào
 - [Doanh nghiệp Đài Loan: Foxconn Precision](/vi/economy/foxconn-precision-industry) — Người khổng lồ gia công lắp ráp 40% máy chủ AI toàn cầu, đôi tay lớn nhất ở đáy đường cong nụ cười
 
 ## Nguồn ảnh

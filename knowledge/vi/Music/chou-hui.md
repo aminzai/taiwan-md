@@ -363,10 +363,10 @@ Lần tới khi những người nghe Đài Loan bước vào Karaoke, khi ai đ
 
 **Đọc Thêm**:
 
-- [Trương Xuân Và An Phù](/music/trương-xuân-và-an-phù) — Cũng là giọng nữ ca Đài Loan, An Phù đã trả lời câu hỏi "đứng ở bên nào" với hai nghệ danh; lựa chọn của Chu Huệ là không chọn đứng
-- [Văn Hóa Karaoke Đài Loan](/music/văn-hóa-karaoke-đài-loan) — Từ cuối những năm 1990 đến đầu những năm 2000, thời kỳ vàng Karaoke, là cơ sở vật chất cho "Hứa Ước" bước qua 25 năm
-- [Nhạc Pop Đài Loan](/music/nhạc-pop-đài-loan) — Sản sinh và tan biến của khung "Bốn Thiên Hậu" năm 1999 năm 90, đại diện cho một lát cắt công nghiệp hóa nhạc pop Mandarin
-- [Giải Thưởng Kim Khúc](/music/giải-thưởng-kim-khúc) — Chu Huệ không bao giờ lấy được giải thưởng Thiên Hậu Kim Khúc, nhưng sự nghiệp 25 năm của cô được xây dựng bên ngoài hệ thống Kim Khúc, thiết lập một chỉ báo tuổi thọ khác
+- [Trương Xuân Và An Phù](/vi/music/deserts-chang-and-anpu) — Cũng là giọng nữ ca Đài Loan, An Phù đã trả lời câu hỏi "đứng ở bên nào" với hai nghệ danh; lựa chọn của Chu Huệ là không chọn đứng
+- [Văn Hóa Karaoke Đài Loan](/vi/music/ktv-culture) — Từ cuối những năm 1990 đến đầu những năm 2000, thời kỳ vàng Karaoke, là cơ sở vật chất cho "Hứa Ước" bước qua 25 năm
+- [Nhạc Pop Đài Loan](/vi/music/golden-melodies-legacy-taiwan-pop-music) — Sản sinh và tan biến của khung "Bốn Thiên Hậu" năm 1999 năm 90, đại diện cho một lát cắt công nghiệp hóa nhạc pop Mandarin
+- [Giải Thưởng Kim Khúc](/vi/music/pop-music-and-golden-melody-awards) — Chu Huệ không bao giờ lấy được giải thưởng Thiên Hậu Kim Khúc, nhưng sự nghiệp 25 năm của cô được xây dựng bên ngoài hệ thống Kim Khúc, thiết lập một chỉ báo tuổi thọ khác
 
 ## Nguồn Hình Ảnh
 

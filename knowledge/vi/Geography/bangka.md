@@ -231,15 +231,15 @@ Vạn Hóa theo cách nhìn của người khác là chợ đêm du lịch, là 
 
 **Đọc thêm mở rộng**:
 
-- [Đài Bắc](/geography/đài-bắc) — 1738 Miếu Long Sơn, 1885 Đại Đạo Điền, 2004 Tháp 101 toàn cảnh thể sơ bộ ba thời gian
-- [Văn hóa phố cổ Đài Loan và khu thương mại](/culture/văn-hóa-phố-cổ-đài-loan-và-khu-thương-mại) — từ cảng hàng thời Thanh tới Barroco kỳ Nhật trị, bản đồ lịch sử 10+ phố cổ toàn Đài Loan
-- [Văn hóa tôn giáo và miếu của Đài Loan](/culture/văn-hóa-tôn-giáo-và-miếu-của-đài-loan) — toàn đảo 15.000 miếu, cấu trúc tín ngưỡng ba giáo Phật đạo hợp một mái
-- [Thời kỳ Thanh](/history/thời-kỳ-thanh) — 1683-1895 xã hội Đài Loan, chiến chiến chia loại, mạng lưới di cư
-- [Chiến Pháp Thanh](/history/chiến-pháp-thanh) — 1884-1885 quân Pháp xâm chiếm miền Bắc Đài Loan, động viên Miếu Long Sơn Bangka, chiến thắng Đạm Thủy
-- [Đại Đạo Điền](/geography/đại-đạo-điền) — 1853 dân An Khai thua chiến Đỉnh Hạ Giao Phing Bangka tám Giáp Trang chạy qua mở thương cảng, là nhánh thời gian khác từ Bangka ra
-- [Tây Môn Độ](/geography/tây-môn-độ) — cùng batch 1 khu phố cổ anh em, năm 1896 người Nhật quy hoạch khu giải trí phía tây Bangka, tạo đối chiếu Thanh từ Nhật trị
-- [Đại Long Động](/geography/đại-long-động) — 1853 dân An Khai thua chiến Đỉnh Hạ Giao Phing Bangka tám Giáp Trang rút binh nơi đầu tiên đặt chân, Miếu Bảo An trở thành trung tâm phòng thủ, sau chuyển sang Đại Đạo Điền
-- [Sơ Lâm](/geography/sơ-lâm) — 1859 chiến chiến Chương Tuyền Bangka với 1853 Đỉnh Hạ Giao Phing là hai trận chiến chia loại khác nhau, là hai khung cảnh chiến chiến dân tộc của miền Bắc Thanh Đài Loan
+- [Đài Bắc](/vi/geography/taipei-city) — 1738 Miếu Long Sơn, 1885 Đại Đạo Điền, 2004 Tháp 101 toàn cảnh thể sơ bộ ba thời gian
+- [Văn hóa phố cổ Đài Loan và khu thương mại](/vi/culture/taiwan-historic-streets-and-commercial-districts) — từ cảng hàng thời Thanh tới Barroco kỳ Nhật trị, bản đồ lịch sử 10+ phố cổ toàn Đài Loan
+- [Văn hóa tôn giáo và miếu của Đài Loan](/vi/culture/taiwan-religion-and-temple-culture) — toàn đảo 15.000 miếu, cấu trúc tín ngưỡng ba giáo Phật đạo hợp một mái
+- [Thời kỳ Thanh](/vi/history/qing-dynasty-rule) — 1683-1895 xã hội Đài Loan, chiến chiến chia loại, mạng lưới di cư
+- [Chiến Pháp Thanh](/vi/history/sino-french-war-in-taiwan) — 1884-1885 quân Pháp xâm chiếm miền Bắc Đài Loan, động viên Miếu Long Sơn Bangka, chiến thắng Đạm Thủy
+- [Đại Đạo Điền](/vi/geography/dadaocheng) — 1853 dân An Khai thua chiến Đỉnh Hạ Giao Phing Bangka tám Giáp Trang chạy qua mở thương cảng, là nhánh thời gian khác từ Bangka ra
+- [Tây Môn Độ](/vi/geography/ximending) — cùng batch 1 khu phố cổ anh em, năm 1896 người Nhật quy hoạch khu giải trí phía tây Bangka, tạo đối chiếu Thanh từ Nhật trị
+- [Đại Long Động](/vi/geography/dalongdong) — 1853 dân An Khai thua chiến Đỉnh Hạ Giao Phing Bangka tám Giáp Trang rút binh nơi đầu tiên đặt chân, Miếu Bảo An trở thành trung tâm phòng thủ, sau chuyển sang Đại Đạo Điền
+- [Sơ Lâm](/vi/geography/shilin) — 1859 chiến chiến Chương Tuyền Bangka với 1853 Đỉnh Hạ Giao Phing là hai trận chiến chia loại khác nhau, là hai khung cảnh chiến chiến dân tộc của miền Bắc Thanh Đài Loan
 
 ## Hình ảnh Nguồn
 

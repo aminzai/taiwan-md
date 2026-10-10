@@ -175,11 +175,11 @@ Nieh Yung-jen nói ở phần cuối bài viết "Bài toán xe điện" của B
 
 **Đọc Thêm:**
 
-- [Thái Anh Văn](/people/thái-anh-văn) — Đầu kia của thương hiệu chính vận động tranh cử "Thắp sáng Đài Loan" và hai lễ nhậm chức tổng thống, từ 2016 đến 2024 bối cảnh mạch lưới giao phó thiết kế chính trị
-- [Phong trào Hoa Hướng Dương](/society/phong-trào-hoa-hướng-dương) — Hiện trường lịch sử của quảng cáo Thời báo New York lúc 4 giờ sáng năm 2014
-- [Nghệ thuật Truyền thông Mới Đài Loan](/art/nghệ-thuật-truyền-thông-mới-đài-loan) — Vị trí của studio A-rôn-niệp luôn bận rộn và văn hóa trực quan đương đại Đài Loan
-- [Viện Nghiên cứu Thiết kế Đài Loan](/society/viện-nghiên-cứu-thiết-kế-đài-loan) — Thiết bị Quốc gia đứng sau Giải thưởng Thiết kế Điểm vàng, xem cách thiết kế từ sáng tạo cá nhân mở rộng thành quản lý công cộng
-- [Giang Chấn Thành](/people/giang-chấn-thành) — Tương tự như đó là mang Đài Loan lên sân khấu quốc tế, dùng công nghệ nấu ăn Michelin thay thế cho thiết kế đồ họa, tương tự là mỗi lần nhanh chóng bị định nghĩa chết bỏ một tiêu đề trước khi chuyển hướng tính cách nhân công thợ
+- [Thái Anh Văn](/vi/people/tsai-ing-wen) — Đầu kia của thương hiệu chính vận động tranh cử "Thắp sáng Đài Loan" và hai lễ nhậm chức tổng thống, từ 2016 đến 2024 bối cảnh mạch lưới giao phó thiết kế chính trị
+- [Phong trào Hoa Hướng Dương](/vi/society/sunflower-movement) — Hiện trường lịch sử của quảng cáo Thời báo New York lúc 4 giờ sáng năm 2014
+- [Nghệ thuật Truyền thông Mới Đài Loan](/vi/art/taiwan-new-media-art) — Vị trí của studio A-rôn-niệp luôn bận rộn và văn hóa trực quan đương đại Đài Loan
+- [Viện Nghiên cứu Thiết kế Đài Loan](/vi/society/taiwan-design-research-institute) — Thiết bị Quốc gia đứng sau Giải thưởng Thiết kế Điểm vàng, xem cách thiết kế từ sáng tạo cá nhân mở rộng thành quản lý công cộng
+- [Giang Chấn Thành](/vi/people/andre-chiang-taiwanese-culinary-innovator) — Tương tự như đó là mang Đài Loan lên sân khấu quốc tế, dùng công nghệ nấu ăn Michelin thay thế cho thiết kế đồ họa, tương tự là mỗi lần nhanh chóng bị định nghĩa chết bỏ một tiêu đề trước khi chuyển hướng tính cách nhân công thợ
 
 ## Nguồn hình ảnh
 

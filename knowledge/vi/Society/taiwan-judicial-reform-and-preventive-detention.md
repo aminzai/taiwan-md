@@ -197,9 +197,9 @@ Lần tới khi Viện Lập pháp lại mở rộng điều khoản này — b�
 
 ## Mở rộng thêm
 
-- [Chế độ dân chủ của Đài Loan](/society/chế-độ-dân-chủ) — Việc mở rộng hay không mở rộng chế độ giam giữ phòng ngừa, cuối cùng là phán đoán tập thể của xã hội dân chủ về "quyền lực nhà nước vs tự do cá nhân"
-- [Nhân quyền và bình đẳng giới](/society/nhân-quyền-và-bình-đẳng-giới) — Việc đưa khai thác tình dục trẻ em và quấy rối tình dục vào chế độ giam giữ phòng ngừa, là một phần của phong trào phòng chống bạo lực giới tính
-- [Tranh cãi về thuốc thú y Đài Loan](/society/tranh-cãi-về-thuốc-thú-y-đài-loan) — Một vấn đề "độ minh bạch của chế độ" khác, thể hiện sự căng thẳng của Đài Loan trong quản trị giữa chuyên môn và dân chủ
+- [Chế độ dân chủ của Đài Loan](/vi/society/democratic-system) — Việc mở rộng hay không mở rộng chế độ giam giữ phòng ngừa, cuối cùng là phán đoán tập thể của xã hội dân chủ về "quyền lực nhà nước vs tự do cá nhân"
+- [Nhân quyền và bình đẳng giới](/vi/society/human-rights-and-gender-equality) — Việc đưa khai thác tình dục trẻ em và quấy rối tình dục vào chế độ giam giữ phòng ngừa, là một phần của phong trào phòng chống bạo lực giới tính
+- [Tranh cãi về thuốc thú y Đài Loan](/vi/society/taiwan-animal-drug-controversy) — Một vấn đề "độ minh bạch của chế độ" khác, thể hiện sự căng thẳng của Đài Loan trong quản trị giữa chuyên môn và dân chủ
 
 ## Tài liệu tham khảo
 

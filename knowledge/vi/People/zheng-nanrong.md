@@ -133,7 +133,7 @@ Trịnh Nam Dung để lại một câu hỏi có thể tiếp tục được tr
 
 **Đọc thêm**
 
-- [Tăng Bác Ơn](/vi/people/zeng-bo-en/) — Tháng 8 năm 2019, MC Tăng Bác Ơn của chương trình "Tăng Bác Ơn Đêm Đêm" tại Open Mic đã trích dẫn đoạn tự thiêu của Trịnh Nam Dung, gây ra phản ứng xã hội gay gắt, lần đầu tiên tạm dừng hợp tác với Sartre
+- [Tăng Bác Ơn](/vi/people/bernard-tseng) — Tháng 8 năm 2019, MC Tăng Bác Ơn của chương trình "Tăng Bác Ơn Đêm Đêm" tại Open Mic đã trích dẫn đoạn tự thiêu của Trịnh Nam Dung, gây ra phản ứng xã hội gay gắt, lần đầu tiên tạm dừng hợp tác với Sartre
 - [Bảo tàng Nhân quyền Quốc gia](https://www.nhrm.gov.tw/) — Lịch sử miệng nói về Khủng bố Trắng và phong trào dân chủ
 - Hồ Huệ Linh, _Trăm năm theo đuổi: Câu chuyện của phong trào dân chủ Đài Loan_ — Ghi chép chi tiết về Trịnh Nam Dung và phong trào ngoài Quốc hội
 - [Quỹ Kỷ niệm Sự kiện 228](https://www.228.org.tw/) — Mối liên hệ giữa gia đình Trịnh Nam Dung và Sự kiện 228

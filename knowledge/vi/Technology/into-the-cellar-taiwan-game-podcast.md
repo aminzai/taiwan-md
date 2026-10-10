@@ -141,11 +141,11 @@ Phương pháp đã thay đổi. Tinh thần "có ai đó đặt câu trả lờ
 
 ## Phần đọc thêm
 
-- [Lịch sử di cư cộng đồng internet Đài Loan](/technology/lịch-sử-di-cư-cộng-đồng-internet-đài-loan) — Từ BBS đến Threads, lịch sử chuyển nhà nền tảng cộng đồng của người Đài Loan
-- [Tinh thần nguồn mở Đài Loan](/technology/tinh-thần-nguồn-mở-đài-loan) — Một nhóm "phát điện bằng tình yêu" khác của Đài Loan
+- [Lịch sử di cư cộng đồng internet Đài Loan](/vi/technology/taiwan-online-community-migration) — Từ BBS đến Threads, lịch sử chuyển nhà nền tảng cộng đồng của người Đài Loan
+- [Tinh thần nguồn mở Đài Loan](/vi/technology/taiwan-open-source-spirit) — Một nhóm "phát điện bằng tình yêu" khác của Đài Loan
 - [PTT批踢踢](/vi/technology/ptt-bulletin-board-system) — BBS lâu đời nhất ở Đài Loan, sản phẩm đương thời với Bahamut
-- [Kỳ kiếm kép của Đại Vũ](/technology/kỳ-kiếm-kép-của-đại-vũ) — Nguồn khởi hành cảm xúc trò chơi máy tính đơn lẻ Đài Loan cùng thời đại
-- [Những khoảnh khắc điên cuồng của game thủ Đài Loan](/technology/những-khoảnh-khắc-điên-cuồng-của-game-thủ-đài-loan) — Sự cuồng nhiệt tập thể của thế hệ game thủ hầm ngục/Gamebase/Bahamut
+- [Kỳ kiếm kép của Đại Vũ](/vi/technology/softstar-twin-classics) — Nguồn khởi hành cảm xúc trò chơi máy tính đơn lẻ Đài Loan cùng thời đại
+- [Những khoảnh khắc điên cuồng của game thủ Đài Loan](/vi/technology/taiwan-gamers-wildest-moments) — Sự cuồng nhiệt tập thể của thế hệ game thủ hầm ngục/Gamebase/Bahamut
 
 ---
 

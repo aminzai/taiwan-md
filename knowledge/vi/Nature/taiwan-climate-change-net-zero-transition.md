@@ -238,7 +238,7 @@ Mỗi con đường năng lượng đều có những người phản đối c�
 
 > 📝 **Ghi chú của nhà viết:** Cuộc thảo luận công lý môi trường phổ biến thường dừng ở «cân bằng phát triển và bảo vệ môi trường», nhưng cách định khung này đã san bằng vấn đề rồi. Lam Dã, tảo biển, Mỹ Phước ba trường hợp điểm chung thực sự là: **chúng đều là hậu quả quyết định sau năm 1980, được xã hội chạy bộ 1990-2020 mua giúp**. Chuyển đổi năng lượng trước 2050 sẽ tiếp tục sinh ra nhiều «Lam Dã» «tảo biển» mới (ngư dân Chương Hóa của tua-bin gió ngoài khơi, dân tộc bản địa Nghi Lan của địa nhiệt, muối của Đài Nam của năng lượng mặt trời). Vấn đề thực sự là «có thể không lặp lại mô hình quyết định 1982 không».
 
-Lịch sử ngữ cảnh môi trường xanh chi tiết có thể xem [Lịch sử phong trào môi trường Đài Loan](/nature/lịch-sử-phong-trào-môi-trường-đài-loan), và [Thách thức quản lý và bảo vệ ô nhiễm biển Đài Loan](/nature/thách-thức-quản-lý-và-bảo-vệ-ô-nhiễm-biển-đài-loan).
+Lịch sử ngữ cảnh môi trường xanh chi tiết có thể xem [Lịch sử phong trào môi trường Đài Loan](/vi/nature/taiwan-environmental-movement-history), và [Thách thức quản lý và bảo vệ ô nhiễm biển Đài Loan](/vi/nature/marine-pollution-governance-and-conservation).
 
 ## 9 nghìn tỷ đô la Đài Loan với giới hạn vật lý
 

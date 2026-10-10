@@ -67,8 +67,8 @@ Mỗi khi gió thu thổi tới, mùi thơm thanh sảng của bưởi quýt và
 
 ## Mở rộng đọc
 
-- [Tục lệ truyền thống và lễ hội](/vi/culture/tuc-le-truyen-thong-va-le-hoi) — Khám phá các phong tục và sự tiến hóa tục lệ độc đáo khác ở Đài Loan sinh ra vì bất ngờ hoặc khủng hoảng.
-- [Lịch sử quảng cáo Đài Loan](/vi/culture/lich-su-quang-cao-dai-loan) — Quay lại cách quảng cáo truyền hình những năm 1980 tạo hình sâu sắc văn hóa tiêu dùng và ký ức tập thể của người Đài Loan.
+- [Tục lệ truyền thống và lễ hội](/vi/culture/traditional-festivals-and-celebrations) — Khám phá các phong tục và sự tiến hóa tục lệ độc đáo khác ở Đài Loan sinh ra vì bất ngờ hoặc khủng hoảng.
+- [Lịch sử quảng cáo Đài Loan](/vi/culture/taiwan-advertising-history) — Quay lại cách quảng cáo truyền hình những năm 1980 tạo hình sâu sắc văn hóa tiêu dùng và ký ức tập thể của người Đài Loan.
 
 ## Tài liệu tham khảo
 

@@ -212,11 +212,11 @@ Bài hát ngoại ông để lại, anh không lực nó "kế thừa" — anh c
 
 **Đọc thêm**:
 
-- [Trương Huệ Muội](/people/trương-huệ-muội) — Cùng tộc Bì Nam, cùng từ Đài Đông, đi đường hoàn toàn ngược: từ bản Sakuban tới sân khấu lớn nhất Á châu
-- [Ca sĩ sáng tác bản địa đương đại](/music/ca-sĩ-sáng-tác-bản-địa-đương-đại) — Bản đồ thế hệ những năm 1990s khi nhạc sĩ bản địa Đài Loan bước từ biên duyên tới dòng chính
-- [Dân ca và ca dao Đài Loan](/music/dân-ca-và-ca-dao-đài-loan) — Bao gồm vị trí của Lục Sâm Bảo và các nhà sáng tác bản địa những năm 1950s trong lịch sử dân ca Đài Loan
-- [Âm nhạc độc lập Đài Loan](/music/âm-nhạc-độc-lập-đài-loan) — Cách các nhãn hiệu âm nhạc độc lập như Giác Đầu xây dựng con đường khác ngoài công nghiệp âm nhạc chủ lưu
-- [Giải Tân Khúc](/music/giải-tân-khúc) — Cách thể chế Giải Tân Khúc tiếp nhận các sáng tác bản địa
+- [Trương Huệ Muội](/vi/people/a-mei) — Cùng tộc Bì Nam, cùng từ Đài Đông, đi đường hoàn toàn ngược: từ bản Sakuban tới sân khấu lớn nhất Á châu
+- [Ca sĩ sáng tác bản địa đương đại](/vi/music/contemporary-indigenous-singer-songwriters) — Bản đồ thế hệ những năm 1990s khi nhạc sĩ bản địa Đài Loan bước từ biên duyên tới dòng chính
+- [Dân ca và ca dao Đài Loan](/vi/music/taiwan-folk-music-and-songs) — Bao gồm vị trí của Lục Sâm Bảo và các nhà sáng tác bản địa những năm 1950s trong lịch sử dân ca Đài Loan
+- [Âm nhạc độc lập Đài Loan](/vi/music/indie-music-scene) — Cách các nhãn hiệu âm nhạc độc lập như Giác Đầu xây dựng con đường khác ngoài công nghiệp âm nhạc chủ lưu
+- [Giải Tân Khúc](/vi/music/pop-music-and-golden-melody-awards) — Cách thể chế Giải Tân Khúc tiếp nhận các sáng tác bản địa
 
 ## Nguồn hình ảnh
 

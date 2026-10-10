@@ -307,10 +307,10 @@ Mấy ông bà trong Hội đồng Thành phố Đào Viên lúc nhấn nút b�
 
 **Đọc mở rộng**:
 
-- [Nhà ở Xã hội với Công lý Cư trú](/society/nhà-ở-xã-hội-với-công-lý-cư-trú) — Từ năm 2016 về sau tuyến đường nhà ở xã hội "dành riêng cho cho thuê": Tám năm 20 vạn căn, xây dựng trực tiếp kèm theo bao thế chấp đại diện kép, thiết kế hợp sinh cách tránh để nhà ở xã hội dính nhãn (Bài em gái này, tiếp nối sau năm 2015 nhà ở quốc dân từ biệt của câu chuyện)
-- [Khủng hoảng Ít sinh của Đài Loan](/society/khủng-hoảng-ít-sinh-của-đài-loan) — Không mua được nhà kèm theo sinh không được con nhỏ chính là hai đầu của cùng một vết nứt cấu trúc, khía cạnh khác của công lý thế hệ
-- [Tôn Nhà Tay Múi](/society/tôn-nhà-tay-múi) — Khi không mua được cũng không thuê ổn định, dân Đài Loan cách nào để tự cho mình cẩn tạo nơi trú ẩn khó khăn nhất
-- [Công lý Làm việc Hạn chế Đào Viên kèm theo Tranh chấp Kỵ Hàng xóm](/society/công-lý-làm-việc-hạn-chế-đào-viên-kèm-theo-tranh-chấp-kỵ-hàng-xóm) — Nhà ở xã hội, trang thiết bị ghét lắp đặt tại cạnh nhà ai, công lý cư trú kèm theo công lý không gian của giao được
+- [Nhà ở Xã hội với Công lý Cư trú](/vi/society/social-housing-and-housing-justice) — Từ năm 2016 về sau tuyến đường nhà ở xã hội "dành riêng cho cho thuê": Tám năm 20 vạn căn, xây dựng trực tiếp kèm theo bao thế chấp đại diện kép, thiết kế hợp sinh cách tránh để nhà ở xã hội dính nhãn (Bài em gái này, tiếp nối sau năm 2015 nhà ở quốc dân từ biệt của câu chuyện)
+- [Khủng hoảng Ít sinh của Đài Loan](/vi/society/taiwan-low-birth-rate-crisis) — Không mua được nhà kèm theo sinh không được con nhỏ chính là hai đầu của cùng một vết nứt cấu trúc, khía cạnh khác của công lý thế hệ
+- [Tôn Nhà Tay Múi](/vi/society/taiwan-tin-shed-houses) — Khi không mua được cũng không thuê ổn định, dân Đài Loan cách nào để tự cho mình cẩn tạo nơi trú ẩn khó khăn nhất
+- [Công lý Làm việc Hạn chế Đào Viên kèm theo Tranh chấp Kỵ Hàng xóm](/vi/society/taiwan-environmental-justice-nimby-conflicts) — Nhà ở xã hội, trang thiết bị ghét lắp đặt tại cạnh nhà ai, công lý cư trú kèm theo công lý không gian của giao được
 
 ## Công khai Dữ liệu
 

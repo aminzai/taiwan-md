@@ -146,9 +146,9 @@ Hãy kéo camera trở lại năm 1979, cánh đồng lúa đã bị đàn bẻ 
 
 **Đọc thêm**:
 
-- [Ngành bán dẫn](/technology/ngành-bán-dẫn) — Từ công nghệ chuyển giao từ RCA đến nitride gallium và gói chế lượng trị, năm giai đoạn của khu vực khoa học Đài Loan làm việc thế giới đầu tiên đến tối thiểu
-- [Top 50 doanh nghiệp Đài Loan](/economy/top-50-doanh-nghiệp-đài-loan) — Các cột mốc của TSMC nuôi dưỡng một bảng chỉ số, đồng thời tạo ra một điểm yếu duy nhất của quốc gia
-- [Tác phẩm – Thế Kỷ Cá Cược](/art/tac-pham-the-ky-ca-cuoc) — Bộ phim tài liệu của đạo diễn Xiao Ji Zhen, năm 2025, phỏng vấn hơn 80 nhà sản xuất bán dẫn cổ, biến cá cược thế kỷ thành hình ảnh
+- [Ngành bán dẫn](/vi/technology/taiwan-semiconductor-industry) — Từ công nghệ chuyển giao từ RCA đến nitride gallium và gói chế lượng trị, năm giai đoạn của khu vực khoa học Đài Loan làm việc thế giới đầu tiên đến tối thiểu
+- [Top 50 doanh nghiệp Đài Loan](/vi/economy/top-50-companies-taiwan) — Các cột mốc của TSMC nuôi dưỡng một bảng chỉ số, đồng thời tạo ra một điểm yếu duy nhất của quốc gia
+- [Tác phẩm – Thế Kỷ Cá Cược](/vi/art/mountain-makers-tsmc-documentary) — Bộ phim tài liệu của đạo diễn Xiao Ji Zhen, năm 2025, phỏng vấn hơn 80 nhà sản xuất bán dẫn cổ, biến cá cược thế kỷ thành hình ảnh
 
 ---
 

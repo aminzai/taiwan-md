@@ -228,11 +228,11 @@ Làm sao để 60 năm tiếp theo chịu đựng xuống, không ai có thể d
 
 **Đọc thêm**:
 
-- [Văn hóa Tiệc Cỗ Đài Loan](/food/văn-hóa-tiệc-cỗ-đài-loan) — Ngữ cảnh kích hoạt văn hóa thức uống của quán nướng và bàn tiệc, vị trí của Apple Cider trong hệ thống này
-- [Văn hóa Thức Uống Tay Lắc Đài Loan](/food/văn-hóa-thức-uống-tay-lắc-đài-loan) — Từ thức uống chè đến thức uống khí, sự tiến hóa của những gì Đài Loan uống
-- [Doanh Nghiệp Đài Loan: Công ty Thống Nhất](/economy/doanh-nghiệp-đài-loan-công-ty-thống-nhất) — Công ty cạnh tranh chính thị trường thức uống cùng thời kỳ
-- [Doanh Nghiệp Đài Loan: Công ty Thực Phẩm Nghĩa Mỹ](/economy/doanh-nghiệp-đài-loan-công-ty-thực-phẩm-nghĩa-mỹ) — Công ty thương hiệu cũ khác trải qua gió bão an toàn thực phẩm
-- [Thị Trường Chứng Khoán Đài Loan và Thị Trường Vốn](/economy/thị-trường-chứng-khoán-đài-loan-và-thị-trường-vốn) — Bối cảnh thời đại của vụ Mười Tín 1985, vụ Hùng Nguyên 1990 và chuyển dạn thương hiệu 1985-1995 trong bài
+- [Văn hóa Tiệc Cỗ Đài Loan](/vi/food/taiwan-banquet-culture) — Ngữ cảnh kích hoạt văn hóa thức uống của quán nướng và bàn tiệc, vị trí của Apple Cider trong hệ thống này
+- [Văn hóa Thức Uống Tay Lắc Đài Loan](/vi/food/hand-shaken-drink-culture) — Từ thức uống chè đến thức uống khí, sự tiến hóa của những gì Đài Loan uống
+- [Doanh Nghiệp Đài Loan: Công ty Thống Nhất](/vi/economy/taiwan-enterprise-uni-president) — Công ty cạnh tranh chính thị trường thức uống cùng thời kỳ
+- [Doanh Nghiệp Đài Loan: Công ty Thực Phẩm Nghĩa Mỹ](/vi/economy/imei-foods-corporation) — Công ty thương hiệu cũ khác trải qua gió bão an toàn thực phẩm
+- [Thị Trường Chứng Khoán Đài Loan và Thị Trường Vốn](/vi/economy/taiwan-stock-market) — Bối cảnh thời đại của vụ Mười Tín 1985, vụ Hùng Nguyên 1990 và chuyển dạn thương hiệu 1985-1995 trong bài
 
 ## Nguồn Gốc Hình Ảnh
 

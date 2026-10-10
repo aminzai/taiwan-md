@@ -158,13 +158,13 @@ Và đường tàu A Lý Sơn đó, trong ca khúc của họ vẫn còn chạy.
 
 **Đọc thêm**:
 
-- [Không có Tiệc](/people/cỏ-đông-không-có-tiệc) — ban nhạc độc lập nổi lên cùng năm 2016, viết về sự tức giận của người vừa ra trường; KST viết về dạt trôi 10 năm sau — hai giai đoạn của cùng một thế hệ
-- [Vũ Nhược Tuyên](/people/vũ-nhược-tuyên) — cùng thuộc hệ sinh thái âm nhạc độc lập 2010, đi con đường giọng ca chứ không phải post-rock nữ ca sĩ
-- [Cicada](/people/cicada) — đi post-rock thuần khiết không giọng ca, tạo nên đối lập với "post-rock + giọng ca" của KST
-- [Lư Quảng Trung](/people/lư-quảng-trung) — con đường khác biệt âm nhạc độc lập: ca sĩ loại tác phẩm vượt biên ba giải thưởng âm nhạc
-- [Giải thưởng Âm nhạc Chính phủ Đài Loan](/music/giải-thưởng-âm-nhạc-chính-phủ-đài-loan) — sân khấu toạ độ KST được đề cử Giải thưởng Âm nhạc Chính phủ Đài Loan lần thứ 32 Ban nhạc Xuất sắc
-- [Âm nhạc độc lập Đài Loan](/music/âm-nhạc-độc-lập-đài-loan) — từ tự nhiên cong tới KST, Không có Tiệc, nói với năm người phổ hệ thống độc lập âm nhạc thế hệ
-- [Âm nhạc phổ biến Đài Loan](/music/âm-nhạc-phổ-biến-đài-loan) — hệ sinh thái ngành âm nhạc phổ biến Hoa ngữ
+- [Không có Tiệc](/vi/people/no-party-for-cao-dong) — ban nhạc độc lập nổi lên cùng năm 2016, viết về sự tức giận của người vừa ra trường; KST viết về dạt trôi 10 năm sau — hai giai đoạn của cùng một thế hệ
+- [Vũ Nhược Tuyên](/vi/people/waa-wei-singer) — cùng thuộc hệ sinh thái âm nhạc độc lập 2010, đi con đường giọng ca chứ không phải post-rock nữ ca sĩ
+- [Cicada](/vi/people/cicada-band) — đi post-rock thuần khiết không giọng ca, tạo nên đối lập với "post-rock + giọng ca" của KST
+- [Lư Quảng Trung](/vi/people/crowd-lu-indie-folk-treasure) — con đường khác biệt âm nhạc độc lập: ca sĩ loại tác phẩm vượt biên ba giải thưởng âm nhạc
+- [Giải thưởng Âm nhạc Chính phủ Đài Loan](/vi/music/pop-music-and-golden-melody-awards) — sân khấu toạ độ KST được đề cử Giải thưởng Âm nhạc Chính phủ Đài Loan lần thứ 32 Ban nhạc Xuất sắc
+- [Âm nhạc độc lập Đài Loan](/vi/music/indie-music-scene) — từ tự nhiên cong tới KST, Không có Tiệc, nói với năm người phổ hệ thống độc lập âm nhạc thế hệ
+- [Âm nhạc phổ biến Đài Loan](/vi/music/golden-melodies-legacy-taiwan-pop-music) — hệ sinh thái ngành âm nhạc phổ biến Hoa ngữ
 
 ## Tham khảo
 

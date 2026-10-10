@@ -286,12 +286,12 @@ Các bà bà này có thể không biết. Nhưng mỗi ngày sáu giờ sáng, 
 
 **Mở Rộng Đọc Thêm**:
 
-- [Thành Phố Đài Bắc](/geography/thành-phố-đài-bắc) — Toàn cảnh 12 quận, vị trí quận Bắc Đầu cùng các khu phố lịch sử khác ở Đài Bắc
-- [Bản Đồ Văn Hoá 16 Dân Tộc Bản Địa Đài Loan](/culture/bản-đồ-văn-hoá-16-dân-tộc-bản-địa-đài-loan) — Tộc Khải Đạt Cách Lan cùng các nhóm Bình Phố khác phân bố ở Đài Loan
-- [Đại Tạo Cuồn](/geography/đại-tạo-cuồn) — Khu phố lịch sử cùng thời kỳ, trung tâm thương mại chủ yếu khác của Đài Bắc sau khi cảng mở năm 1860
-- [Vạn Hạ](/geography/vạn-hạ) — Thời kỳ Thanh "một phủ, hai Lộc, ba Vạn Hạ" khởi điểm thịnh vượng, quan hệ với Bắc Đầu
-- [Tây Môn Đường](/geography/tây-môn-đường) — Khu vực giải trí năm 1896 người Nhật quy hoạch, cùng thời khởi đầu với Thiên Công An năm 1896 của Bình Điền Nguyên Ngô là hai luồng phát triển song song
-- [Đường Trung Sơn Bắc Điều Thông](/geography/đường-trung-sơn-bắc-điều-thông) — Năm 1898 đường thẳng lâu liễu từ Tòa Toàn Độc tới Đền Thần Viên, sau chiến tranh năm 1972 về văn hóa rượu vang ở ngoại quốc cùng bãi bỏ hoạt động mại dâm Bắc Đầu năm 1979 là hai dòng phân luồng của cảnh quan công nghiệp tình dục Đài Bắc sau chiến tranh
+- [Thành Phố Đài Bắc](/vi/geography/taipei-city) — Toàn cảnh 12 quận, vị trí quận Bắc Đầu cùng các khu phố lịch sử khác ở Đài Bắc
+- [Bản Đồ Văn Hoá 16 Dân Tộc Bản Địa Đài Loan](/vi/culture/indigenous-peoples-16-tribes-cultural-map) — Tộc Khải Đạt Cách Lan cùng các nhóm Bình Phố khác phân bố ở Đài Loan
+- [Đại Tạo Cuồn](/vi/geography/dadaocheng) — Khu phố lịch sử cùng thời kỳ, trung tâm thương mại chủ yếu khác của Đài Bắc sau khi cảng mở năm 1860
+- [Vạn Hạ](/vi/geography/bangka) — Thời kỳ Thanh "một phủ, hai Lộc, ba Vạn Hạ" khởi điểm thịnh vượng, quan hệ với Bắc Đầu
+- [Tây Môn Đường](/vi/geography/ximending) — Khu vực giải trí năm 1896 người Nhật quy hoạch, cùng thời khởi đầu với Thiên Công An năm 1896 của Bình Điền Nguyên Ngô là hai luồng phát triển song song
+- [Đường Trung Sơn Bắc Điều Thông](/vi/geography/zhongshan-north-road-tiaotong) — Năm 1898 đường thẳng lâu liễu từ Tòa Toàn Độc tới Đền Thần Viên, sau chiến tranh năm 1972 về văn hóa rượu vang ở ngoại quốc cùng bãi bỏ hoạt động mại dâm Bắc Đầu năm 1979 là hai dòng phân luồng của cảnh quan công nghiệp tình dục Đài Bắc sau chiến tranh
 
 ## Nguồn Gốc Hình Ảnh
 

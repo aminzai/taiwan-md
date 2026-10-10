@@ -114,11 +114,11 @@ Sự nghiệp chuyên nghiệp của Lâm Thư Hào từ không bao giờ phù h
 
 **Đọc thêm**:
 
-- [Quách Hoàn Thuần](/vi/people/guo-hui-zhu) — Vận động viên Đài Loan cùng thế hệ, ba huy chương Olympic, mười một lần phá vỡ kỷ lục thế giới của con đường cử tạ
-- [Đái Tư Doanh](/vi/people/dai-si-ying) — Vận động viên Đài Loan cũng đứng trên sân khấu thế giới, nữ hoàng cầu lông thế giới
-- [Chu Kiệt Lun](/vi/people/zhou-jie-lun) — Đại diện âm nhạc Đài Loan xuất hiện tỏ lòng tôn trọng tại lễ giải nghệ của Lâm Thư Hào
+- [Quách Hoàn Thuần](/vi/people/kuo-hsing-chun-olympic-weightlifting-champion) — Vận động viên Đài Loan cùng thế hệ, ba huy chương Olympic, mười một lần phá vỡ kỷ lục thế giới của con đường cử tạ
+- [Đái Tư Doanh](/vi/people/tai-tzu-ying) — Vận động viên Đài Loan cũng đứng trên sân khấu thế giới, nữ hoàng cầu lông thế giới
+- [Chu Kiệt Lun](/vi/people/jay-chou) — Đại diện âm nhạc Đài Loan xuất hiện tỏ lòng tôn trọng tại lễ giải nghệ của Lâm Thư Hào
 - [Quan hệ Đài Loan và Mỹ](/vi/society/taiwan-us-relations) — Lâm Thư Hào với tư cách người Mỹ gốc Đài Loan, phía sau là quỹ đạo thế hệ du học sinh Đài Loan tại Mỹ sau năm 1965
-- [Lý Dương](/vi/people/li-yang) — Con đường sự nghiệp vận động viên Đài Loan khác, từ huy chương Olympic chuyển thành Bộ trưởng Thể thao đầu tiên
+- [Lý Dương](/vi/people/lee-yang-badminton) — Con đường sự nghiệp vận động viên Đài Loan khác, từ huy chương Olympic chuyển thành Bộ trưởng Thể thao đầu tiên
 
 ## Tài liệu tham khảo
 

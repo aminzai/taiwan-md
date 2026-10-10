@@ -216,11 +216,11 @@ Mon ăn, đã chứng minh nó có thể vào năm sao khách sạn, có thể b
 
 **Đọc Thêm**:
 
-- [Đài Loan Tay Nghề Nấu Nướng](/food/đài-loan-tay-nghề-nấu-nướng)
-- [Bánh Quải](/food/bánh-quải)
-- [Văn Hóa Hải Sản Đài Loan](/food/văn-hóa-hải-sản-đài-loan)
-- [Văn Hóa Chợ Đêm](/food/văn-hóa-chợ-đêm)
-- [Trần Ngọc Huân](/people/trần-ngọc-huân)
+- [Đài Loan Tay Nghề Nấu Nướng](/vi/food/taiwan-specialty-home-cooking)
+- [Bánh Quải](/vi/food/gua-bao)
+- [Văn Hóa Hải Sản Đài Loan](/vi/food/taiwan-seafood-culture)
+- [Văn Hóa Chợ Đêm](/vi/food/night-market-culture)
+- [Trần Ngọc Huân](/vi/people/chen-yu-hsun-taiwan-comedy-film-magician)
 
 ## Nguồn Hình Ảnh
 

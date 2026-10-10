@@ -208,13 +208,13 @@ Sợi dây ngoại giao cuối cùng của châu Phi, treo trên một người.
 
 **Đọc thêm**:
 
-- [Quốc gia kết nối Đài Loan và ngoại giao quốc tế](/society/quốc-gia-kết-nối-và-ngoại-giao-quốc-tế) — 12 quốc gia kết nối vs 113 địa điểm nước ngoài vs 177 điểm đến miễn thị thực ba tầng kiến trúc, Eswatini là mảnh ghép quan trọng nhất của châu Phi
-- [Lại Thanh Đức](/people/lại-thanh-đức) — Từ bác sĩ Đài Nam đến tổng thống Trung Hoa Dân Quốc, sự thay đổi trong diễn giải quan hệ đối ngoại của Lại Thanh Đức sau khi nhậm chức
-- [Thái Anh Văn](/people/thái-anh-văn) — Tổng thống hai lần thăm Eswatini, hai điểm thời gian 2018 + 2023 tương ứng với hai giai đoạn quan hệ ngoài giao Đài–Eswatini
-- [Phong trào sinh viên 2014](/society/phong-trào-sinh-viên-2014) — Làm thế nào cuộc biểu tình đường phố 2014 trở thành sức mạnh nền tảng của luận thuật đối ngoại thể chế 2024–2025
-- [Cuộc gặp 2026 giữa Trịnh Thiên Sơn và Tập Cận Bình, cuộc gặp lại Quốc Cộng mười năm](/society/cuộc-gặp-2026-giữa-trịnh-thiên-sơn-và-tập-cận-bình) — Động lực hai bờ cùng thời kỳ, hiểu rõ bối cảnh lớn hơn của sức ép Trung Quốc đối Đài Loan
-- [Chiến tranh nhận thức](/society/chiến-tranh-nhận-thức) — Khung hệ thống hơn cho các thao tác ngôn ngữ kiểu "con chuột" "vượt biên ngoài phép tắc" của Trung Quốc
-- [Ngoại giao Ba-ra-guay và Đài Loan](/society/ngoại-giao-ba-ra-guay-và-đài-loan) — Quốc gia kết nối duy nhất ở Nam Mỹ, một cách khác để duy trì quan hệ dưới sức ép của Trung Quốc thông qua hợp tác dài hạn
+- [Quốc gia kết nối Đài Loan và ngoại giao quốc tế](/vi/society/taiwan-diplomatic-allies-and-international-relations) — 12 quốc gia kết nối vs 113 địa điểm nước ngoài vs 177 điểm đến miễn thị thực ba tầng kiến trúc, Eswatini là mảnh ghép quan trọng nhất của châu Phi
+- [Lại Thanh Đức](/vi/people/lai-ching-te) — Từ bác sĩ Đài Nam đến tổng thống Trung Hoa Dân Quốc, sự thay đổi trong diễn giải quan hệ đối ngoại của Lại Thanh Đức sau khi nhậm chức
+- [Thái Anh Văn](/vi/people/tsai-ing-wen) — Tổng thống hai lần thăm Eswatini, hai điểm thời gian 2018 + 2023 tương ứng với hai giai đoạn quan hệ ngoài giao Đài–Eswatini
+- [Phong trào sinh viên 2014](/vi/society/sunflower-movement) — Làm thế nào cuộc biểu tình đường phố 2014 trở thành sức mạnh nền tảng của luận thuật đối ngoại thể chế 2024–2025
+- [Cuộc gặp 2026 giữa Trịnh Thiên Sơn và Tập Cận Bình, cuộc gặp lại Quốc Cộng mười năm](/vi/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Động lực hai bờ cùng thời kỳ, hiểu rõ bối cảnh lớn hơn của sức ép Trung Quốc đối Đài Loan
+- [Chiến tranh nhận thức](/vi/society/cognitive-warfare-against-taiwan) — Khung hệ thống hơn cho các thao tác ngôn ngữ kiểu "con chuột" "vượt biên ngoài phép tắc" của Trung Quốc
+- [Ngoại giao Ba-ra-guay và Đài Loan](/vi/society/paraguay-taiwan) — Quốc gia kết nối duy nhất ở Nam Mỹ, một cách khác để duy trì quan hệ dưới sức ép của Trung Quốc thông qua hợp tác dài hạn
 
 ## Nguồn gốc hình ảnh
 

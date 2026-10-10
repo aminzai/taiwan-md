@@ -204,10 +204,10 @@ Nếu tờ chẩn đoán hen suyễn ngày xưa là chính xác, ngày hôm nay 
 
 ## Đọc thêm
 
-- [Ngô Đại Dự](/people/ngô-đại-dự) — Người sáng lập vật lý Đài Loan, hiểu được thế hệ nhà khoa học xây dựng môi trường khoa học cơ bản của Đài Loan sau chiến tranh
-- [Chu Kinh Vũ](/people/chu-kinh-vũ) — Một nhà khoa học gốc Đài Loan khác tác động tới cộng đồng khoa học quốc tế, xem cách nền tảng song văn hoá Đài Mỹ nở hoa ở các ngành khác
-- [Nhân vật khoét sâu: Cuộc cược của thế kỷ](/art/nhân-vật-khoét-sâu-cuộc-cược-của-thế-kỷ) — Phim tài liệu năm 2025 của Tiêu Cúc Trinh, phỏng vấn những tiền bối bán dẫn, cộng hưởng với quỹ đạo quốc tế của những người công nghệ Đài Loan cùng thế hệ
-- [Phát triển ngành công nghiệp vũ trụ Đài Loan](/technology/phát-triển-ngành-công-nghiệp-vũ-trụ-đài-loan) — Toàn cảnh về vệ tinh tự chủ, tên lửa và chính sách vũ trụ của Đài Loan, hiểu được cơ sở công nghiệp địa phương mà anh đối diện khi quay trở về Đài Loan
+- [Ngô Đại Dự](/vi/people/tai-yu-wu) — Người sáng lập vật lý Đài Loan, hiểu được thế hệ nhà khoa học xây dựng môi trường khoa học cơ bản của Đài Loan sau chiến tranh
+- [Chu Kinh Vũ](/vi/people/chu-ching-wu) — Một nhà khoa học gốc Đài Loan khác tác động tới cộng đồng khoa học quốc tế, xem cách nền tảng song văn hoá Đài Mỹ nở hoa ở các ngành khác
+- [Nhân vật khoét sâu: Cuộc cược của thế kỷ](/vi/art/mountain-makers-tsmc-documentary) — Phim tài liệu năm 2025 của Tiêu Cúc Trinh, phỏng vấn những tiền bối bán dẫn, cộng hưởng với quỹ đạo quốc tế của những người công nghệ Đài Loan cùng thế hệ
+- [Phát triển ngành công nghiệp vũ trụ Đài Loan](/vi/technology/taiwan-space-industry-development) — Toàn cảnh về vệ tinh tự chủ, tên lửa và chính sách vũ trụ của Đài Loan, hiểu được cơ sở công nghiệp địa phương mà anh đối diện khi quay trở về Đài Loan
 
 ## Nguồn ảnh
 

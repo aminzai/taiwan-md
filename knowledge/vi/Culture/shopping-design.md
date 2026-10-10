@@ -165,11 +165,11 @@ Vì vậy "Tuyển dụng thiết kế" bìa đó, thực ra cũng là một t�
 
 ## Mở rộng đọc
 
-- [Tạp chí](/vi/culture/tạp-chí) — Một trăm năm biến đổi của tạp chí Đài Loan, Shopping Design là trường hợp tiêu biểu của dòng "tạp chí mềm"
-- [Tạp chí Nhân gian](/vi/culture/tạp-chí-nhân-gian) — Một loại linh hồn khác của tạp chí Đài Loan, dùng báo cáo ảnh dạn phân biệt và đặt tên cho xã hội tầng dưới, là hai mặt của cùng một đồng xu với tạp chí mua sắm thiết kế
-- [Lịch sử quảng cáo Đài Loan](/vi/culture/lịch-sử-quảng-cáo-Đài-Loan) — Nguồn gốc quá trình hình thành của Hoàng Uy Dung, Lý Huệ Trinh, hiểu rõ thế hệ "Quảng cáo Ý thức hình thái" này đã mang những kỹ thuật kể chuyện như thế nào vào tạp chí
-- [Đạo cháy và Thẩm mỹ cuộc sống Đài Loan](/vi/culture/đạo-cháy-và-thẩm-mỹ-cuộc-sống-Đài-Loan) — Thẩm mỹ cuộc sống phát triển như thế nào ở Đài Loan thành một cách được nói tới, được mua sắm của ngày thường
-- [Niên Vĩnh Chân](/vi/people/niên-vĩnh-chân) — Một cái tên khác trong cùng một맥 thiết kế Đài Loan, đẩy thiết kế tới trước mắt công chúng
+- [Tạp chí](/vi/culture/magazine) — Một trăm năm biến đổi của tạp chí Đài Loan, Shopping Design là trường hợp tiêu biểu của dòng "tạp chí mềm"
+- [Tạp chí Nhân gian](/vi/culture/renjian-magazine) — Một loại linh hồn khác của tạp chí Đài Loan, dùng báo cáo ảnh dạn phân biệt và đặt tên cho xã hội tầng dưới, là hai mặt của cùng một đồng xu với tạp chí mua sắm thiết kế
+- [Lịch sử quảng cáo Đài Loan](/vi/culture/taiwan-advertising-history) — Nguồn gốc quá trình hình thành của Hoàng Uy Dung, Lý Huệ Trinh, hiểu rõ thế hệ "Quảng cáo Ý thức hình thái" này đã mang những kỹ thuật kể chuyện như thế nào vào tạp chí
+- [Đạo cháy và Thẩm mỹ cuộc sống Đài Loan](/vi/culture/taiwan-tea-ceremony-and-aesthetic-living) — Thẩm mỹ cuộc sống phát triển như thế nào ở Đài Loan thành một cách được nói tới, được mua sắm của ngày thường
+- [Niên Vĩnh Chân](/vi/people/nieh-yung-jen) — Một cái tên khác trong cùng một맥 thiết kế Đài Loan, đẩy thiết kế tới trước mắt công chúng
 
 ## Nguồn hình ảnh
 

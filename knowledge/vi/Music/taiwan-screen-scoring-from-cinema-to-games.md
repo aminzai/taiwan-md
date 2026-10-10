@@ -170,11 +170,11 @@ _Lâm Cường (Lim Giong). Từ Vua nhạc Đài Truyền Thống 〈Tiến Lê
 
 **Bài Viết Liên Quan**:
 
-- [Lâm Cường](/people/lâm-cường) — Từ phong trào âm nhạc Đài Truyền Thống Mới đến phối nhạc phim, toàn bộ hành trình âm nhạc của Lâm Cường
-- [Hầu Hiếu Hiền](/people/hầu-hiếu-hiền) — Đạo diễn khiến Lâm Cường quay lại phối nhạc, một người đại diện của điện ảnh mới Đài Loan
-- [Điện Ảnh Đài Loan](/art/điện-ảnh-đài-loan) — Từ điện ảnh mới đến hồi sinh phim Trung Hoa, sân khấu xảy ra phối nhạc phim
-- [Trò Chơi Xích Ngô](/technology/trò-chơi-xích-ngô) — Đội ngũ đứng sau _Trở Về Trường_ _Báo Ơn_, cách phối nhạc trò chơi dệt âm thanh cho một thời đại
-- [Ngành Công Nghiệp Trò Chơi Đài Loan Và Giải Trí Kỹ Thuật Số](/technology/ngành-công-nghiệp-trò-chơi-đài-loan-và-giải-trí-kỹ-thuật-số) — Hậu cảnh ngành công nghiệp khi Raytheon, SIGONO và phối nhạc trò chơi Đài Loan nổi lên
+- [Lâm Cường](/vi/people/lim-giong) — Từ phong trào âm nhạc Đài Truyền Thống Mới đến phối nhạc phim, toàn bộ hành trình âm nhạc của Lâm Cường
+- [Hầu Hiếu Hiền](/vi/people/hou-hsiao-hsien) — Đạo diễn khiến Lâm Cường quay lại phối nhạc, một người đại diện của điện ảnh mới Đài Loan
+- [Điện Ảnh Đài Loan](/vi/art/taiwanese-cinema) — Từ điện ảnh mới đến hồi sinh phim Trung Hoa, sân khấu xảy ra phối nhạc phim
+- [Trò Chơi Xích Ngô](/vi/technology/red-candle-games) — Đội ngũ đứng sau _Trở Về Trường_ _Báo Ơn_, cách phối nhạc trò chơi dệt âm thanh cho một thời đại
+- [Ngành Công Nghiệp Trò Chơi Đài Loan Và Giải Trí Kỹ Thuật Số](/vi/technology/taiwan-gaming-industry) — Hậu cảnh ngành công nghiệp khi Raytheon, SIGONO và phối nhạc trò chơi Đài Loan nổi lên
 
 ## Các Nguồn Hình Ảnh
 

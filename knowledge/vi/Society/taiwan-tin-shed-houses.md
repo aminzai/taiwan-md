@@ -116,8 +116,8 @@ Cả hai người đều đúng. Phần thêm tôn trên nóc ở Lục Giáp, �
 **Đọc thêm:**
 
 - [Nhà ở công cộng và công bằng ở nhà ở](/vi/society/social-housing-and-housing-justice) — Những khó khăn trong việc phát triển nhà ở công cộng của Đài Loan và vấn đề thị trường cho thuê, cấu trúc nhà ở lớn hơn mà vấn đề nhà tôn là một phần
-- [Công bằng môi trường và tranh cãi né tránh lân cận ở Đài Loan](/vi/society/environmental-justice-and-nimby) — Vấn đề sử dụng đất và ô nhiễm môi trường phía sau việc phá dỡ nhà xưởng tôn ở khu Tân Trai Tân Chung
-- [Công bằng lãnh thổ của người bản địa Đài Loan và lãnh thổ truyền thống](/vi/society/indigenous-land-justice) — Hiểu rõ hơn từ một góc độ khác về tính phức tạp của sử dụng đất "hợp pháp hay vi phạm" ở Đài Loan
+- [Công bằng môi trường và tranh cãi né tránh lân cận ở Đài Loan](/vi/society/taiwan-environmental-justice-nimby-conflicts) — Vấn đề sử dụng đất và ô nhiễm môi trường phía sau việc phá dỡ nhà xưởng tôn ở khu Tân Trai Tân Chung
+- [Công bằng lãnh thổ của người bản địa Đài Loan và lãnh thổ truyền thống](/vi/society/indigenous-land-justice-and-traditional-territories) — Hiểu rõ hơn từ một góc độ khác về tính phức tạp của sử dụng đất "hợp pháp hay vi phạm" ở Đài Loan
 
 ## Tham khảo
 

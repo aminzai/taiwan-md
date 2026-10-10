@@ -117,7 +117,7 @@ Thái Minh Giới năm nay 75 tuổi. Ông dẫn dắt Liên Phát Khoa từ CD-
 
 - [Doanh nghiệp Đài Loan: Đài Tích Điện](/vi/economy/tsmc)
 - [Ngành bán dẫn](/vi/technology/taiwan-semiconductor-industry) — Từ chuyển giao công nghệ RCA năm 1973 đến sản xuất lượng lớn 2 nanomet, toàn bộ hệ sinh thái bán dẫn, Liên Phát Khoa là đại diện cho đầu thiết kế IC
-- [Câu chuyện công nghệ Đài Loan: Chip 100 điểm, Micro 60 điểm](/vi/technology/taiwan-tech-stories) — Liên Phát Khoa xuất khẩu lượng toàn cầu thứ nhất, tại sao chuyện thương hiệu vẫn chưa đuổi kịp Qualcomm
+- [Câu chuyện công nghệ Đài Loan: Chip 100 điểm, Micro 60 điểm](/vi/technology/taiwan-tech-storytelling) — Liên Phát Khoa xuất khẩu lượng toàn cầu thứ nhất, tại sao chuyện thương hiệu vẫn chưa đuổi kịp Qualcomm
 
 ## Mở rộng tham khảo
 

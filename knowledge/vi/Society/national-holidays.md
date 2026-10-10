@@ -215,14 +215,14 @@ Nhưng nó từ lâu không chỉ là vấn đề dân tộc. Nó cùng lúc là
 
 **Đọc tiếp**:
 
-- [Sự kiện 228](/history/sự-kiện-228) — Vụ tàn sát năm 1947, và cách nó trở thành ngày lễ quốc định đầu tiên của Đài Loan được luật định năm 1997
-- [Thời kỳ Thiết quân luật](/history/thời-kỳ-thiết-quân-luật) — "Mười tháng Rực rỡ" Và đằng sau lên lịch của sinh nhật Tưởng Công là quyền lực chuyên chế
-- [Công lý chuyển tiếp Đài Loan](/history/công-lý-chuyển-tiếp-đài-loan) — Tại sao Ngày Ký ức Khủng bố Trắng vẫn chưa vào được bản lịch
-- [Quang phổ Độc lập Thống nhất Đài Loan](/society/quang-phổ-độc-lập-thống-nhất-đài-loan) — Bản đồ nhân thức đằng sau ba loại quan điểm lịch sử "Ánh Phục／Chấm dứt chiến tranh／Tiếp quản"
-- [Đài Bắc Trung Hoa](/society/đài-bắc-trung-hoa) — Cùng một "Trung Hoa Dân Quốc", mặt khác của cuộc tranh chấp Quốc khánh 10/10 Quốc khánh Đài Loan
-- [Phép lễ của bão](/society/phép-lễ-của-bão) — Loại "phép của ai, lớp của ai" khác: những người phải tiếp tục làm việc giữa gió mưa
-- [Tết Đoan Ngọ](/culture/tết-đoan-ngọ) — Lễ hội dân gian như thế nào trở thành chế độ "lên lịch một ngày" trên bản lịch
-- [Môi trường chính trị Đài Loan Và hệ thống bầu cử](/society/môi-trường-chính-trị-đài-loan-và-hệ-thống-bầu-cử) — Cơ cấu con số Xanh Trắng Xanh da trời ở Viện Lập pháp, quyết định chữ đỏ trên bản lịch
+- [Sự kiện 228](/vi/history/228-incident) — Vụ tàn sát năm 1947, và cách nó trở thành ngày lễ quốc định đầu tiên của Đài Loan được luật định năm 1997
+- [Thời kỳ Thiết quân luật](/vi/history/martial-law-era) — "Mười tháng Rực rỡ" Và đằng sau lên lịch của sinh nhật Tưởng Công là quyền lực chuyên chế
+- [Công lý chuyển tiếp Đài Loan](/vi/history/taiwan-transitional-justice) — Tại sao Ngày Ký ức Khủng bố Trắng vẫn chưa vào được bản lịch
+- [Quang phổ Độc lập Thống nhất Đài Loan](/vi/society/taiwan-unification-independence-spectrum) — Bản đồ nhân thức đằng sau ba loại quan điểm lịch sử "Ánh Phục／Chấm dứt chiến tranh／Tiếp quản"
+- [Đài Bắc Trung Hoa](/vi/society/chinese-taipei) — Cùng một "Trung Hoa Dân Quốc", mặt khác của cuộc tranh chấp Quốc khánh 10/10 Quốc khánh Đài Loan
+- [Phép lễ của bão](/vi/society/typhoon-day) — Loại "phép của ai, lớp của ai" khác: những người phải tiếp tục làm việc giữa gió mưa
+- [Tết Đoan Ngọ](/vi/culture/dragon-boat-festival) — Lễ hội dân gian như thế nào trở thành chế độ "lên lịch một ngày" trên bản lịch
+- [Môi trường chính trị Đài Loan Và hệ thống bầu cử](/vi/society/taiwan-political-landscape-and-electoral-system) — Cơ cấu con số Xanh Trắng Xanh da trời ở Viện Lập pháp, quyết định chữ đỏ trên bản lịch
 
 ---
 

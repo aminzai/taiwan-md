@@ -77,10 +77,10 @@ Trong mười năm của Shopee tại Đài Loan, nó đã hoàn toàn thay đ�
 
 ## Đọc thêm
 
-- [Hệ sinh thái thương mại điện tử và thanh toán kỹ thuật số](/technology/electronic-commerce-digital-payment-ecosystem) — Hình ảnh thanh toán nơi Shopee Pay nằm
-- [Lairufu](/economy/lairufu) — Cửa hàng siêu thị cũ bị Pick-up Point vượt qua, công ty tự mình chơi trò chơi nhận hàng như thế nào
-- [Văn hóa cửa hàng tiện lợi Đài Loan](/lifestyle/convenience-store-culture-taiwan) — Tại sao các siêu thị lại trở thành cơ sở hạ tầng công cộng của Đài Loan
-- [Hệ thống hải quan báo cáo Đài Loan và EZWAY](/lifestyle/taiwan-customs-ezway) — Cơ quan phải vượt qua trước khi các gói hàng xuyên biên giới đến
+- [Hệ sinh thái thương mại điện tử và thanh toán kỹ thuật số](/vi/technology/e-commerce-and-digital-payment-ecosystem) — Hình ảnh thanh toán nơi Shopee Pay nằm
+- [Lairufu](/vi/economy/hilife-convenience-store) — Cửa hàng siêu thị cũ bị Pick-up Point vượt qua, công ty tự mình chơi trò chơi nhận hàng như thế nào
+- [Văn hóa cửa hàng tiện lợi Đài Loan](/vi/lifestyle/convenience-store-culture) — Tại sao các siêu thị lại trở thành cơ sở hạ tầng công cộng của Đài Loan
+- [Hệ thống hải quan báo cáo Đài Loan và EZWAY](/vi/lifestyle/ezway) — Cơ quan phải vượt qua trước khi các gói hàng xuyên biên giới đến
 
 ## Dữ liệu tham khảo
 

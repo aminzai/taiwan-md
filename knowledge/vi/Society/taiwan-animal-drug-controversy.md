@@ -303,11 +303,11 @@ Nhưng coi thuốc của thú cưng như hàng hoá thương mại.
 
 **Đọc thêm**
 
-- [Văn hóa động vật lưu lạc của Đài Loan](/society/văn-hóa-động-vật-lưu-lạc-của-đài-loan) — Từ Mười hai đêm tới không bắn, Đài Loan như thế nào tìm hiểu lại cách đối xử với những con vật trên đường; mặt khác của tranh cãi dùng thuốc động vật, là sự định nghĩa lại của nước này về chính bản thân danh tính động vật
-- [Đạo đức của vườn bách thú và động vật trình diễn](/society/đạo-đức-của-vườn-bách-thú-và-động-vật-trình-diễn) — Một trường chiến khác của động vật trong xã hội nhân loại "dùng thuốc và chăm sóc", cuối cùng là một đoạn khác của vấn đề giống nhau
-- [Hệ thống y tế Đài Loan và bảo hiểm y tế toàn dân](/lifestyle/hệ-thống-y-tế-đài-loan-và-bảo-hiểm-y-tế-toàn-dân) — Mặt kia của hệ thống dùng thuốc nhân dùng: toàn thế giới lớn nhất quốc gia thử nghiệm y tế, giữa đó và y tế động vật không có cây cầu hệ thống. "Nguyên tắc tách dược" trong bài viết này từ thời kỳ bảo hiểm y tế xây dựng
-- [Hệ thống y tế thảm họa của Đài Loan](/technology/hệ-thống-y-tế-thảm-họa-của-đài-loan) — Đường dây dưới của y tế khẩn cấp người là 119 và lưới khẩn cấp, y tế khẩn cấp động vật thậm chí không có đường dây dưới như vậy, đối chiếu đọc sẽ thấy khoảng cách tài nguyên của hai hệ thống
-- [Pháp luật kép y tế tái sinh × nền tảng mRNA 30 năm](/society/pháp-luật-kép-y-tế-tái-sinh-沿-từ-những-người-làm-từng-kể) — Pháp luật kép y tế tái sinh của cơ thể người năm 2024 thông qua, nền tảng mRNA Đài Loan đang học lại, cộng chia sẻ vấn đề "quốc gia quản lý công nghệ y tế tiên phong như thế nào" với tranh cãi dùng thuốc động vật của triết lý giám sát
+- [Văn hóa động vật lưu lạc của Đài Loan](/vi/society/stray-animal-culture) — Từ Mười hai đêm tới không bắn, Đài Loan như thế nào tìm hiểu lại cách đối xử với những con vật trên đường; mặt khác của tranh cãi dùng thuốc động vật, là sự định nghĩa lại của nước này về chính bản thân danh tính động vật
+- [Đạo đức của vườn bách thú và động vật trình diễn](/vi/society/zoo-and-exhibition-animal-ethics) — Một trường chiến khác của động vật trong xã hội nhân loại "dùng thuốc và chăm sóc", cuối cùng là một đoạn khác của vấn đề giống nhau
+- [Hệ thống y tế Đài Loan và bảo hiểm y tế toàn dân](/vi/lifestyle/taiwan-healthcare-and-national-health-insurance) — Mặt kia của hệ thống dùng thuốc nhân dùng: toàn thế giới lớn nhất quốc gia thử nghiệm y tế, giữa đó và y tế động vật không có cây cầu hệ thống. "Nguyên tắc tách dược" trong bài viết này từ thời kỳ bảo hiểm y tế xây dựng
+- [Hệ thống y tế thảm họa của Đài Loan](/vi/technology/taiwan-disaster-medicine-system) — Đường dây dưới của y tế khẩn cấp người là 119 và lưới khẩn cấp, y tế khẩn cấp động vật thậm chí không có đường dây dưới như vậy, đối chiếu đọc sẽ thấy khoảng cách tài nguyên của hai hệ thống
+- [Pháp luật kép y tế tái sinh × nền tảng mRNA 30 năm](/vi/society/taiwan-regenerative-medicine-laws) — Pháp luật kép y tế tái sinh của cơ thể người năm 2024 thông qua, nền tảng mRNA Đài Loan đang học lại, cộng chia sẻ vấn đề "quốc gia quản lý công nghệ y tế tiên phong như thế nào" với tranh cãi dùng thuốc động vật của triết lý giám sát
 
 ## Tham khảo
 
