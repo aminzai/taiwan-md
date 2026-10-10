@@ -10,7 +10,7 @@ readingTime: 9
 lastVerified: 2026-04-23
 lastHumanReview: false
 translatedFrom: 'Lifestyle/台灣麻將與明星三缺一.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:334f3cc12d1f65c6'
 sourceBodyHash: 'sha256:1f3fd4501700702b'
 translatedAt: '2026-06-09T04:19:27+08:00'

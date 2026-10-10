@@ -29,7 +29,7 @@ sporeLinks:
     date: '2026-04-30'
     url: 'https://x.com/taiwandotmd/status/2049860918641893571'
 translatedFrom: 'Technology/海底電纜.md'
-sourceCommitSha: '5ff155c1'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:a528d560e37c40b9'
 sourceBodyHash: 'sha256:1790c4ef1b7a9b20'
 translatedAt: '2026-06-10T16:42:09Z'

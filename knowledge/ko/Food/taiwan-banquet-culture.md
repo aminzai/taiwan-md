@@ -20,7 +20,7 @@ readingTime: 12
 lastVerified: 2026-06-07
 lastHumanReview: false
 translatedFrom: 'Food/台灣辦桌文化.md'
-sourceCommitSha: '26a67c77'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:87996856be7f510f'
 sourceBodyHash: 'sha256:dc734b24b423e098'
 translatedAt: '2026-06-16T16:55:29Z'
