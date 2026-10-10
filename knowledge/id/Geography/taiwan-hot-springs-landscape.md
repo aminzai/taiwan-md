@@ -3,7 +3,7 @@ title: 'Lanskap Mata Air Panas Taiwan'
 description: 'Dari "Air Perempuan Penyihir" ke 15 Besar Surga Mata Air Panas Global, Bagaimana Tabrakan Lempeng Tektonik Memasak Kode Penyembuhan Pulau Ini'
 date: 2026-03-23
 category: 'Geography'
-subcategory: 'Iklim dan Mata Air Panas'
+subcategory: '氣候與溫泉'
 tags:
   [
     'Mata Air Panas',

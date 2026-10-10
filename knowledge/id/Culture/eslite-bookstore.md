@@ -24,7 +24,7 @@ tags:
     'Pasar Modal',
     'Lanskap Perkotaan',
   ]
-subcategory: 'Komunitas dan Kehidupan Sehari-hari'
+subcategory: '社區與日常'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-13

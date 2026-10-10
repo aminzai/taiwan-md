@@ -14,7 +14,7 @@ tags:
     'NPB',
     'Liga Bisbol Profesional Jepang',
   ]
-subcategory: 'Olahraga'
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-22

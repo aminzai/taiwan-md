@@ -17,7 +17,7 @@ tags:
     'Seni Generatif',
     'C-LAB',
   ]
-subcategory: 'Media Baru dan Seni Digital'
+subcategory: '新媒體與數位藝術'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-04

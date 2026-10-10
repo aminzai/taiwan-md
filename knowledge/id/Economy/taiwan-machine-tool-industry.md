@@ -14,7 +14,7 @@ tags:
     'Klaster Industri',
     '2026',
   ]
-subcategory: 'Industri Tradisional'
+subcategory: '傳統產業'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 13

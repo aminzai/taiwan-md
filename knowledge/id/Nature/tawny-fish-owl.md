@@ -15,7 +15,7 @@ tags:
     'Sungai Qijiawan',
     'Taman Nasional Shei-Pa',
   ]
-subcategory: 'Satwa Liar'
+subcategory: '野生動物'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-12

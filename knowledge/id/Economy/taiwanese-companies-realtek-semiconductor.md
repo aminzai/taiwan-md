@@ -4,7 +4,7 @@ description: 'Tujuh insinyur memulai usaha dengan 2 juta, membuat kepiting kecil
 date: 2026-03-20
 category: 'Economy'
 tags: ['Ekonomi', 'Perusahaan', 'Semikonduktor', 'Desain IC']
-subcategory: 'Profil Perusahaan'
+subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20

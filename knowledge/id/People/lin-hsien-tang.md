@@ -11,7 +11,7 @@ tags:
     'Persatuan Budaya Taiwan',
     'Perlawanan Non-Kekerasan terhadap Jepang',
   ]
-subcategory: 'Politik dan Demokrasi'
+subcategory: '政治與民主'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16

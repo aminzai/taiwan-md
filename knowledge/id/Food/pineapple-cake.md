@@ -12,7 +12,7 @@ tags:
     'Mountain Hot Valley',
     'Yan Xin Fa',
   ]
-subcategory: 'Baking dan Kue-Kuean'
+subcategory: '烘焙與甜點'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-24

@@ -12,7 +12,7 @@ tags:
     'Festival Mi Sapi Internasional Taipei',
     'Michelin',
   ]
-subcategory: 'Jajanan Klasik'
+subcategory: '經典小吃'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-16

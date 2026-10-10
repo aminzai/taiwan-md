@@ -4,7 +4,7 @@ description: 'Sejarah Pulau Taiwan mengembalikan Taiwan dari tahun-tahun kekuasa
 date: 2026-07-10
 author: 'Taiwan.md'
 category: 'History'
-subcategory: 'Sejarah dan Metodologi'
+subcategory: '史觀與方法論'
 tags:
   [
     'Sejarah',

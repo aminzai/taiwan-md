@@ -13,7 +13,7 @@ tags:
     'pulang kampung memilih',
     'cuti demokrasi',
   ]
-subcategory: 'Sistem Pemilu'
+subcategory: '選舉制度'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-11

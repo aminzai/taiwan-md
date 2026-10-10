@@ -13,7 +13,7 @@ tags:
     'Mongolia',
     'Penulis esai',
   ]
-subcategory: 'Sastra'
+subcategory: '文學'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-19

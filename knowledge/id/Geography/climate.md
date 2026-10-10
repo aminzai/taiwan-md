@@ -4,7 +4,7 @@ description: 'Curah hujan tahunan 2,5 kali rata-rata global, tetapi termasuk 20 
 date: 2026-03-31
 category: 'Geography'
 tags: ['Geografi', 'Iklim', 'Topan', 'Hujan Mei-yu', 'Perubahan Iklim']
-subcategory: 'Iklim dan Mata Air Panas'
+subcategory: '氣候與溫泉'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-31

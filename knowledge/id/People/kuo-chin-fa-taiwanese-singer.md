@@ -11,7 +11,7 @@ tags:
     'Raja Bass',
     'Lagu Terlarang Masa Hukum Darurat',
   ]
-subcategory: 'Musik dan Pertunjukan'
+subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-19

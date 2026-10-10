@@ -12,7 +12,7 @@ tags:
     'Boneka Besar Anak Laki-laki',
     'Hari-hari Melihat Laut',
   ]
-subcategory: 'Sastra'
+subcategory: '文學'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

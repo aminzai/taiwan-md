@@ -13,7 +13,7 @@ tags:
     'Film',
     'Taipei',
   ]
-subcategory: 'Film dan Drama'
+subcategory: '電影與戲劇'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-07-05

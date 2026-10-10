@@ -11,7 +11,7 @@ tags:
     'Industri Kreatif',
     'Industri Film dan Televisi',
   ]
-subcategory: 'Hiburan Digital'
+subcategory: '數位娛樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-20

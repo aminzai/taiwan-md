@@ -4,7 +4,7 @@ description: "Pada Januari 2026, seorang pria berusia tujuh puluh tahun di Distr
 date: '2026-05-05'
 author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: 'Komunitas dan Keseharian'
+subcategory: '社區與日常'
 tags:
   [
     'Isu Perkotaan',

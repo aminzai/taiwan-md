@@ -5,7 +5,7 @@ date: 2026-03-20
 category: 'Economy'
 tags:
   ['Ekonomi', 'Perusahaan', 'Industri Teknologi', 'VR', 'Smartphone', 'Inovasi']
-subcategory: 'Profil Perusahaan'
+subcategory: '企業列傳'
 author: 'Taiwan.md'
 readingTime: 9
 featured: false

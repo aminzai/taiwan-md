@@ -14,7 +14,7 @@ tags:
     'e-commerce Taiwan',
     'transformasi digital',
   ]
-subcategory: 'Profil Perusahaan'
+subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
 featured: false
 curation: 'incubating'

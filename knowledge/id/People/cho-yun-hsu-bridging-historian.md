@@ -4,7 +4,7 @@ description: 'Sejarawan yang lahir di Xiamen pada 1930, pindah ke Taiwan bersama
 date: 2026-05-22
 author: 'Taiwan.md'
 category: 'People'
-subcategory: 'Ilmu Pengetahuan dan Akademik'
+subcategory: '科學與學術'
 tags:
   [
     'Sejarawan',

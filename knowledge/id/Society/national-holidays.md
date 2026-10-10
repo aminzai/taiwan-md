@@ -14,7 +14,7 @@ tags:
     'Identitas Nasional',
     'Satu Hari Istirahat',
   ]
-subcategory: 'Sistem dan Kebijakan'
+subcategory: '制度與政策'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 18

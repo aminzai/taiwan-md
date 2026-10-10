@@ -3,7 +3,7 @@ title: 'Sun Yun-suan: Insinur yang Menyalakan Taiwan dari Kegelapan'
 description: 'Dari keajaiban pemulihan listrik dalam lima bulan di buhara pasiklas, hingga visi memasangkan pada industri semikonduktor, Sun Yun-suan dengan praktikal dan luhur sebagai insinur, menjadi fondasi modernisasi Taiwan.'
 date: 2026-04-30
 category: 'People'
-subcategory: 'Politik dan Demokrasi'
+subcategory: '政治與民主'
 tags:
   [
     'Sun Yun-suan',

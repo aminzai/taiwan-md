@@ -4,7 +4,7 @@ description: 'Putra dari bajak laut blasteran Tiongkok-Jepang, yang menghabiskan
 date: '2026-03-27'
 author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: 'Tokoh Sejarah'
+subcategory: '歷史人物'
 tags:
   [
     'Koxinga',

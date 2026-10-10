@@ -4,7 +4,7 @@ description: "Pada 26 November 2022 pukul 16.00, petugas di tempat pemungutan su
 date: '2026-05-27'
 author: 'Taiwan.md'
 category: 'Politics'
-subcategory: 'Sistem Pemilihan'
+subcategory: '選舉制度'
 tags:
   - 'Hak Pilih'
   - 'Amandemen Konstitusi'

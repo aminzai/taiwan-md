@@ -4,7 +4,7 @@ description: "Lahir di Taipei pada tahun 1985, lulusan Teknik Informatika dari D
 date: '2026-04-20'
 author: 'Taiwan.md Contributors'
 category: 'Art'
-subcategory: 'Seni Suara dan Media Baru'
+subcategory: '聲音與新媒體藝術'
 tags:
   [
     'Seni Suara',

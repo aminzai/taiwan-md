@@ -13,7 +13,7 @@ tags:
     'Lee Teng-hui',
     'Industri Sapi Daging',
   ]
-subcategory: 'Sosial dan Sejarah Sehari-hari'
+subcategory: '社會與日常史'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-25

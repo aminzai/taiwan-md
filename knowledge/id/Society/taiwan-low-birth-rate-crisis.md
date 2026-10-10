@@ -4,7 +4,7 @@ description: "2024 adalah Tahun Naga, saat orang Taiwan seharusnya berlomba mela
 date: '2026-03-24'
 author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: 'Demografi dan Generasi'
+subcategory: '人口與世代'
 tags:
   [
     'Penurunan Kelahiran',

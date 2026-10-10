@@ -4,7 +4,7 @@ description: 'Pada tahun 1874, sebuah tindakan militer yang dipicu oleh kecelaka
 date: 2026-07-17
 author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: 'Colonialism and Empire'
+subcategory: '殖民與帝國'
 tags:
   [
     'Insiden Mudan',

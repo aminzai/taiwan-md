@@ -4,7 +4,7 @@ description: "Pada Juni 1992, Du Zhaoxian membuka 'Lingkungan Seni Ekologi Baru'
 date: 2026-05-17
 author: 'Taiwan.md Contributors'
 category: 'Art'
-subcategory: 'Seni Kontemporer'
+subcategory: '當代藝術'
 tags:
   [
     'Ruang Alternatif',

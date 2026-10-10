@@ -4,7 +4,7 @@ description: "Didirikan pada tahun 1917, namun baru menghasilkan botol pertama m
 date: '2026-05-01'
 author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: 'Budaya Minuman'
+subcategory: '飲品文化'
 tags:
   [
     'Minuman Shaoxing',

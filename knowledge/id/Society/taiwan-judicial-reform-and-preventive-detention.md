@@ -14,7 +14,7 @@ tags:
     'Komisi Reformasi Yudisial',
     'Reformasi Yudisial 2026',
   ]
-subcategory: 'Peradilan dan HAM'
+subcategory: '司法與人權'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-17

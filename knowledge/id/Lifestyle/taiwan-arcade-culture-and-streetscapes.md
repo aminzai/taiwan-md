@@ -4,7 +4,7 @@ description: 'Koridor kehidupan yang melindungi dari angin dan hujan, kenangan j
 date: 2026-03-20
 category: 'Lifestyle'
 tags: ['Gaya Hidup', 'Kolong', 'Pemandangan Jalan', 'Budaya Perkotaan']
-subcategory: 'Transportasi dan Mobilitas'
+subcategory: '交通與移動'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-20

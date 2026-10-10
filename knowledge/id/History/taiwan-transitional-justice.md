@@ -12,7 +12,7 @@ tags:
     'Hak Asasi Manusia',
     'Teror Putih',
   ]
-subcategory: 'Sejarah Modern'
+subcategory: '現代歷史'
 lastVerified: 2026-03-31
 lastHumanReview: false
 featured: false

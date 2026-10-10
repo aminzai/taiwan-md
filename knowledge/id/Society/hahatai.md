@@ -11,7 +11,7 @@ tags:
     'Budaya Internet',
     'Industri Konten',
   ]
-subcategory: 'Media dan Kebebasan Berpendapat'
+subcategory: '媒體與言論'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16

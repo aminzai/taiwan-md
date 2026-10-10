@@ -13,7 +13,7 @@ tags:
     'Intelektual Publik',
     'Kaohsiung',
   ]
-subcategory: 'Sastra'
+subcategory: '文學'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

@@ -13,7 +13,7 @@ tags:
     'Realisme',
     'Pameran Taiwan',
   ]
-subcategory: 'Seni dan Kreativitas'
+subcategory: '藝術與創作'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23

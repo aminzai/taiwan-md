@@ -16,7 +16,7 @@ tags:
     'Ekologi Pulau',
     'Biogeografi',
   ]
-subcategory: 'Ekologi dan Konservasi'
+subcategory: '生態與保育'
 author: 'Taiwan.md'
 readingTime: 7
 featured: false

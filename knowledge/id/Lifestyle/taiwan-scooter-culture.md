@@ -4,7 +4,7 @@ description: 'Negara dengan kepadatan skuter tertinggi di dunia bukan karena ora
 date: 2026-03-25
 author: 'Taiwan.md'
 category: 'Lifestyle'
-subcategory: 'Transportasi dan Mobilitas'
+subcategory: '交通與移動'
 tags:
   [
     'kehidupan',

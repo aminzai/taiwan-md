@@ -14,7 +14,7 @@ tags:
     'Sistem Kesehatan',
     'Badan Pengawas Obat dan Makanan',
   ]
-subcategory: 'Hewan dan Etika'
+subcategory: '動物與倫理'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-10

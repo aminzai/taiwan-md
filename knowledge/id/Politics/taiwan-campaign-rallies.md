@@ -12,7 +12,7 @@ tags:
     'Truk Panggung',
     'Camilan Demokrasi',
   ]
-subcategory: 'Demokrasi dan Politik'
+subcategory: '民主與政治'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-19

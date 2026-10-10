@@ -13,7 +13,7 @@ tags:
     'Produk Khas Lokal',
     'Festival Budaya',
   ]
-subcategory: 'Budaya Fermentasi'
+subcategory: '發酵文化'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-11

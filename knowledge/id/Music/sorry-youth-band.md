@@ -15,7 +15,7 @@ tags:
     'Golden Indie Music Awards',
     'Rock Pekerja Kantoran',
   ]
-subcategory: 'Independen dan Rock'
+subcategory: '獨立與搖滾'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-27

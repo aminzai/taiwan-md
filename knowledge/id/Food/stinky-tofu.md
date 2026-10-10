@@ -3,7 +3,7 @@ title: 'Stinky tofu: Olahraga sensorik di antara menyatu rasa dan mencari aroma 
 description: "Dari ilmuwan jalanan tahun 1950-an hingga 'shrine stinky tofu' yang menjadi bagian dari menu makanan tamu negara, stinky tofu ini membawa riwayat fermentasi 50 tahun Taiwan. Artikel ini menganalisis strategi mikroba di dalam larutan stinky tofu, serta rahasia rasa di Keang yang berbau karamel dan tiga tahap suhu minyak di Yili."
 date: 2026-04-26
 category: 'Food'
-subcategory: 'Makanan Khas Taiwan'
+subcategory: '經典小吃'
 tags:
   [
     'stinky tofu',

@@ -23,7 +23,7 @@ tags:
     'Candi Seratus Tahun',
     'Bach',
   ]
-subcategory: 'Seniman Kontemporer'
+subcategory: '當代藝術家'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-22

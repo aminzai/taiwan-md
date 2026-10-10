@@ -2,7 +2,7 @@
 title: 'Beri News: Memasukkan Berita Dunia ke Telinga Orang Taiwan'
 description: 'Bagaimana Kelly dan Ken menggunakan dwibahasa, tawa, dan obrolan yang tidak menghindari sikap, mengubah berita internasional yang asing menjadi hal yang orang Taiwan bersedia dengarkan sampai habis, dan harus memikirkan ulang kehidupan sehari-hari mereka.'
 date: 2026-08-17
-subcategory: 'Digital dan Media'
+subcategory: '數位與媒體'
 category: 'People'
 tags: ['Beri News', 'Podcast', 'Kelly', 'Ken', 'Berita Internasional']
 author: 'Taiwan.md Contributors'

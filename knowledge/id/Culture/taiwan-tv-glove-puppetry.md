@@ -12,7 +12,7 @@ tags:
     'Budaya Taiwan',
     'Seni Tradisional',
   ]
-subcategory: 'Kerajinan dan Estetika'
+subcategory: '工藝與美學'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-12

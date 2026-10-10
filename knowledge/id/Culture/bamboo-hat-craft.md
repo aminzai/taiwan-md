@@ -4,7 +4,7 @@ description: "Pada tahun 2017, Lin Rong-chun di Meinong, Kaohsiung, yang berusia
 date: '2026-05-04'
 author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: 'Tradisi Kerajinan'
+subcategory: '傳統工藝'
 tags:
   [
     'Tradisi Kerajinan',

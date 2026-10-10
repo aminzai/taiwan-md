@@ -4,7 +4,7 @@ description: 'Pembagian administratif Taiwan bukan sekadar garis-garis di peta, 
 date: 2026-04-17
 author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: 'Kota dan Geografi Manusia'
+subcategory: '城市與人文地理'
 tags:
   [
     'pembagian administratif',

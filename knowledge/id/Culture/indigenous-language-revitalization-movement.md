@@ -11,7 +11,7 @@ tags:
     'Kebijakan Bahasa',
     'Warisan Budaya',
   ]
-subcategory: 'Bahasa dan Tulisan'
+subcategory: '語言與文字'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-29

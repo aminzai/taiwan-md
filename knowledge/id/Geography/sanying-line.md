@@ -14,7 +14,7 @@ tags:
     'bus pengumpan',
     'pengembangan perkotaan',
   ]
-subcategory: 'Kota dan Geografi Manusia'
+subcategory: '城市與人文地理'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16

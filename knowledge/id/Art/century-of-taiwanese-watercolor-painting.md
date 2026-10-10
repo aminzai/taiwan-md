@@ -4,7 +4,7 @@ description: 'Pada tahun 1907, Ishikawa Kinichiro datang ke Taiwan mengajar, men
 date: 2026-03-19
 category: 'Art'
 tags: ['Seni', 'aquarel', 'lukisan', 'aquarel', 'sejarah seni']
-subcategory: 'Seni Visual'
+subcategory: '視覺藝術'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13

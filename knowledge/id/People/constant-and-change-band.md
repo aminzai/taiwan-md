@@ -4,7 +4,7 @@ description: 'Band independen beranggotakan empat orang yang dibentuk di Taipei 
 date: '2026-04-18'
 author: 'Taiwan.md'
 category: 'People'
-subcategory: 'Musik dan Pertunjukan'
+subcategory: '音樂與表演'
 tags:
   [
     'Tokoh',

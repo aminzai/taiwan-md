@@ -16,7 +16,7 @@ tags:
     'Chen Jinglin',
     'Cheng Meishu',
   ]
-subcategory: 'Kerajinan dan Estetika'
+subcategory: '工藝與美學'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-07-05

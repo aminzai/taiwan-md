@@ -13,7 +13,7 @@ tags:
     'Zhang Jiyi',
     'Penghargaan Desain Golden Pin',
   ]
-subcategory: 'Desain dan Tata Kelola Publik'
+subcategory: '設計與公共治理'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-04

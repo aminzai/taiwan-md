@@ -12,7 +12,7 @@ tags:
     'hak cipta',
     'budaya rakyat',
   ]
-subcategory: 'Digital dan Internet'
+subcategory: '數位與網路'
 author: 'idlccp1984'
 featured: false
 lastVerified: 2026-04-29

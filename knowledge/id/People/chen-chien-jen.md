@@ -12,7 +12,7 @@ tags:
     'Kesehatan Masyarakat',
     'Penanganan Pandemi',
   ]
-subcategory: 'Politik dan Demokrasi'
+subcategory: '政治與民主'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

@@ -4,7 +4,7 @@ description: 'Pada Februari 2020, saat seluruh dunia masih berebut membeli maske
 date: 2026-03-23
 category: 'Technology'
 tags: ['Teknologi', 'Komunitas Sumber Terbuka', 'g0v', 'Teknologi Sipil']
-subcategory: 'Komunitas Open Source'
+subcategory: '開源社群'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23

@@ -15,7 +15,7 @@ tags:
     'Kerajaan Tungning',
     'Benteng Zeelandia',
   ]
-subcategory: 'Kolonialisme dan Kekaisaran'
+subcategory: '殖民與帝國'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-16

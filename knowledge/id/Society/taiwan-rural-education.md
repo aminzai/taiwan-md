@@ -4,7 +4,7 @@ description: "Pendidikan di pedesaan bukan sekadar masalah 'sekolah di pegununga
 date: '2026-04-09'
 author: 'Taiwan.md'
 category: 'Society'
-subcategory: 'Pendidikan'
+subcategory: '教育'
 tags:
   [
     'Pendidikan Pedesaan',

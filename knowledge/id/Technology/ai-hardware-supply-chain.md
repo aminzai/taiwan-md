@@ -4,7 +4,7 @@ description: 'AI Generatif tampak seperti layanan awan, tetapi sebenarnya membut
 date: 2026-07-11
 author: 'Taiwan.md Contributors'
 category: 'Technology'
-subcategory: 'Semikonduktor dan Perangkat Keras'
+subcategory: '半導體與硬體'
 tags:
   [
     'Perangkat Keras AI',

@@ -4,7 +4,7 @@ description: 'Dari pagi di lereng bukit Yujing, pohon pomelo tua Madou, lelang d
 date: 2026-07-08
 author: 'Taiwan.md'
 category: 'Food'
-subcategory: 'Buah'
+subcategory: '果品'
 tags:
   [
     'Buah',

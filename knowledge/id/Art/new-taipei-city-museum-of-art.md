@@ -12,7 +12,7 @@ tags:
     'seni Taiwan',
     'pembangunan publik',
   ]
-subcategory: 'Kurasi dan Pendidikan'
+subcategory: '策展與教育'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-02

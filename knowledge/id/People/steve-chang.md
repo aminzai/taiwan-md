@@ -12,7 +12,7 @@ tags:
     'Internasionalisasi',
     'Perusahaan Sosial',
   ]
-subcategory: 'Teknologi dan Perusahaan'
+subcategory: '科技與企業'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

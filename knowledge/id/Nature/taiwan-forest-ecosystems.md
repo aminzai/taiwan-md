@@ -4,7 +4,7 @@ description: 'Sebuah perjalanan vertikal dari permukaan laut hingga puncak Gunun
 date: 2026-03-23
 author: 'Taiwan.md'
 category: 'Nature'
-subcategory: 'Ekosistem'
+subcategory: '生態系統'
 tags:
   [
     'ekosistem hutan',

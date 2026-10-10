@@ -11,7 +11,7 @@ tags:
     'HKUST',
     'Universitas Houston',
   ]
-subcategory: 'Sains dan Akademik'
+subcategory: '科學與學術'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

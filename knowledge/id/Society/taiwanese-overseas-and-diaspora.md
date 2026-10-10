@@ -12,7 +12,7 @@ tags:
     'Silicon Valley',
     'FAPA',
   ]
-subcategory: 'Hubungan Internasional'
+subcategory: '國際關係'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-28

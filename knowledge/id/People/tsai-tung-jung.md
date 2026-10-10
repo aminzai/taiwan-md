@@ -12,7 +12,7 @@ tags:
     'Demokrasi Taiwan',
     'Daftar Hitam Luar Negeri',
   ]
-subcategory: 'Politik dan Demokrasi'
+subcategory: '政治與民主'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16

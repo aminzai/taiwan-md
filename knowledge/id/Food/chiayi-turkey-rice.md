@@ -3,7 +3,7 @@ title: 'Turkey Rice Chiayi: Kartu Identitas Kota dengan Satu Mangkuk yang Hanya 
 description: "Setelah Perang Dunia II, tentara Amerika Serikat membawa turkey ke Chiayi. Seorang chef bernama Lin Tianshou mengiris daging turkey, menyiramnya dengan saus bumbu, lalu menutupnya di atas nasi putih. Tujuh dekade kemudian, mangkuk nasi tersebut menjadi juara pertama dalam daftar 10 makanan khas Taiwan yang dipilih oleh Kementerian Pertanian. Warga Chiayi bisa berdebat selama Tahun Baru tentang 'makanan mana yang paling enak', tetapi ada satu hal yang tidak pernah mereka debat: Turkey Rice adalah identitas Chiayi."
 date: 2026-04-24
 category: 'Food'
-subcategory: 'Makanan Khas Lokal'
+subcategory: '地方美食'
 tags:
   [
     'Chiayi',

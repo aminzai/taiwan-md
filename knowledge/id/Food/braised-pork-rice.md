@@ -11,7 +11,7 @@ tags:
     'Makanan nasional',
     'Perbedaan utara-selatan',
   ]
-subcategory: 'Kuliner Etnis'
+subcategory: '族群飲食'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-16

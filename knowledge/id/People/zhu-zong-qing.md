@@ -12,7 +12,7 @@ tags:
     'Pendidikan',
     'Seni pertunjukan',
   ]
-subcategory: 'Seni dan Desain'
+subcategory: '藝術與設計'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-21

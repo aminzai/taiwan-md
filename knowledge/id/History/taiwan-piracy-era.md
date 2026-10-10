@@ -12,7 +12,7 @@ tags:
     'UU Hak Cipta',
     'Morris Chang',
   ]
-subcategory: 'Sejarah Pembangunan Ekonomi'
+subcategory: '經濟發展史'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-18

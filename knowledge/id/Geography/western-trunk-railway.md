@@ -2,7 +2,7 @@
 title: 'Rel Lintas: Tahun 1908 Satu Jalur Menjahit Pulau Ini Bersama, Juga Meninggalkan Kecepatan Kolonial'
 description: 'Pada tahun 1887, Liu Mingchuan memasang rel pertama dari Taipei ke utara; pada tahun 1908, jalur lintas menghubungkan Keelung, Taichung, dan Takau menjadi satu jalur utama. Ia mengangkut beras dan gula untuk kekaisaran, juga membuat sebagian petani lebih dekat ke pasar; kecepatan yang dibawa kereta api tidak pernah dibagikan secara merata kepada semua orang.'
 date: 2026-08-19
-subcategory: 'Transportasi dan Infrastruktur'
+subcategory: '交通與基礎設施'
 category: 'Geography'
 tags:
   [

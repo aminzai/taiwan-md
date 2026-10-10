@@ -6,7 +6,7 @@ author: 'Taiwan.md'
 category: 'Music'
 tags:
   ['Musik Rock', 'Sejarah Musik', 'Musik Underground', 'Band', 'Musik Taiwan']
-subcategory: 'Independen dan Rock'
+subcategory: '獨立與搖滾'
 readingTime: 12
 lastVerified: 2026-03-19
 lastHumanReview: true

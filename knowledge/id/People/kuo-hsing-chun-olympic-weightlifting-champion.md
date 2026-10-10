@@ -15,7 +15,7 @@ tags:
     'Suku Amis',
     'Masyarakat adat',
   ]
-subcategory: 'Olahraga'
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-16

@@ -4,7 +4,7 @@ description: "Festival Zhongyuan di Taiwan bukan sekadar bentuk penghormatan ter
 date: 2026-07-20
 author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: 'Festival dan Tradisi'
+subcategory: '節慶與禮俗'
 tags:
   [
     'Pujamu Zhongyuan',

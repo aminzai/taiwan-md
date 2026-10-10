@@ -22,7 +22,7 @@ tags:
     'pelestarian kedaulatan',
     'Meninggal 2026',
   ]
-subcategory: 'Pengusaha'
+subcategory: '企業家'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-26

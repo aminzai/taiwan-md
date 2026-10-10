@@ -4,7 +4,7 @@ description: 'Pada tahun 1946, Taiwan berubah dari mengemudi di sisi kiri menjad
 date: '2026-04-26'
 author: 'Taiwan.md Contributors'
 category: 'Lifestyle'
-subcategory: 'Transportasi dan Mobilitas'
+subcategory: '交通與移動'
 tags:
   [
     'Transportasi',

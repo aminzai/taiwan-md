@@ -4,7 +4,7 @@ description: "Bagaimana sebuah industri tradisional yang pernah dianggap sebagai
 date: '2026-07-20'
 author: 'Taiwan.md Contributors'
 category: 'Economy'
-subcategory: 'Ekonomi'
+subcategory: '經濟發展'
 tags:
   [
     'Industri Tekstil',

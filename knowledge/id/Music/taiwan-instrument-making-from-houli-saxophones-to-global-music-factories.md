@@ -4,7 +4,7 @@ description: 'Pada akhir 1940-an, Zhang Lianchang, seorang ahli seni bingkai luk
 date: 2026-07-17
 author: 'Taiwan.md'
 category: 'Music'
-subcategory: 'Instrumen Musik dan Manufaktur'
+subcategory: '樂器與製造'
 tags:
   [
     'Pembuatan Instrumen Musik',

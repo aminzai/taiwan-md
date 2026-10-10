@@ -19,7 +19,7 @@ tags:
     'TSMC',
     'Seri 22 Kota/Kabupaten',
   ]
-subcategory: 'Kabupaten dan Kota'
+subcategory: '縣市'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-18

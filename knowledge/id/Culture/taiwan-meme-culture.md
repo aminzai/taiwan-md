@@ -12,7 +12,7 @@ tags:
     'Katup Pengaman Sosial',
     'Meme Klasik',
   ]
-subcategory: 'Budaya Internet'
+subcategory: '網路文化'
 author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 12

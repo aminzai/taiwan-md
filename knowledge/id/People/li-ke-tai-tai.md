@@ -13,7 +13,7 @@ tags:
     'media mandiri',
     'literasi media',
   ]
-subcategory: 'Digital dan Media'
+subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20

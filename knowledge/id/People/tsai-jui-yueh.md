@@ -11,7 +11,7 @@ tags:
     'perempuan',
     'Cagar Budaya Mawar',
   ]
-subcategory: 'Seni dan Desain'
+subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-19

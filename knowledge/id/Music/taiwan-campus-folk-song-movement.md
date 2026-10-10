@@ -13,7 +13,7 @@ tags:
     'Hu De-fu',
     'Menyanyikan Lagu Sendiri',
   ]
-subcategory: 'Musik Pop'
+subcategory: '流行音樂'
 author: 'Taiwan.md Contributors'
 difficulty: 'beginner'
 readingTime: 12

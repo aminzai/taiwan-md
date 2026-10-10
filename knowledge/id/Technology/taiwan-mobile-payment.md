@@ -13,7 +13,7 @@ tags:
     'Uang Tunai',
     'Teknologi Keuangan',
   ]
-subcategory: 'Digital dan Internet'
+subcategory: '數位與網路'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-09-01

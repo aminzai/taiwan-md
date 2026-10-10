@@ -10,7 +10,7 @@ tags:
     'Pembelajaran Digital',
     'Pembelajaran Terbedakan',
   ]
-subcategory: 'Digital dan Internet'
+subcategory: '數位與網路'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-15

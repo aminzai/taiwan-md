@@ -3,7 +3,7 @@ title: 'Museum Nasional Taiwan: Dari Jendela Kekaisaran ke Kolaborasi Komunitas,
 description: 'Museum Nasional Taiwan yang didirikan pada 1908 untuk memperingati penyambungan kereta api longitudinal dan selesai dibangun pada 1915, pernah mengatur Taiwan dalam pandangan pemerintah kolonial menjadi spesimen yang dapat dilihat. Seratus tahun kemudian, ia memanfaatkan empat gedung bersejarah untuk menyimpan sejarah alam, kamper, keuangan, dan kenangan kereta api, serta mulai mengkurasi bersama komunitas asal suku asli. Yang benar-benar disimpan museum ini bukan hanya benda-benda, melainkan bagaimana Taiwan memperoleh kembali hak untuk bercerita tentang dirinya sendiri.'
 date: 2026-08-16
 category: 'Culture'
-subcategory: 'Kawasan Seni'
+subcategory: '藝術園區'
 tags:
   [
     'Museum Nasional Taiwan',

@@ -19,7 +19,7 @@ tags:
     'Lanyu',
     'iklim ekstrem',
   ]
-subcategory: 'Konservasi dan Lingkungan'
+subcategory: '保育與環境'
 readingTime: 26
 author: 'Taiwan.md'
 featured: true

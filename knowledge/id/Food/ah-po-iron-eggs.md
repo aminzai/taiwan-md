@@ -14,7 +14,7 @@ tags:
     'Yang Bi-yun',
     'Huang Zhang Kiau',
   ]
-subcategory: 'Suasana Kuliner'
+subcategory: '飲食場景'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-28

@@ -11,7 +11,7 @@ tags:
     'Keadilan Antargenerasi',
     'Perumahan Terjangkau',
   ]
-subcategory: 'HAM dan Kesetaraan'
+subcategory: '人權與平等'
 author: 'Taiwan.md'
 readingTime: 16
 featured: false

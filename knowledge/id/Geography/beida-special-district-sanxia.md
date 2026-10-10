@@ -19,7 +19,7 @@ tags:
     'Prosesi Keagamaan',
     'Pohon Li Mei',
   ]
-subcategory: 'Kota dan Geografi Manusia'
+subcategory: '城市與人文地理'
 author: 'idlccp1984'
 featured: false
 lastVerified: 2026-04-29

@@ -3,7 +3,7 @@ title: 'Ao dan Gunung: Dua Pekerja Teknologi yang Membuat Musik dengan Synthesiz
 description: "Ao dan Gunung (Our Shame) adalah grup lagu folktronica berdua dari Taiwan, terdiri dari Ao (vokal, synthesizer, produser) dan Isan (drum, Pad). Mereka kenal di Klub Musik SMA mereka, dan selama periode kuliah mereka memenangkan Hadiah Kreativitas Jin Shao pada tahun 2015 dengan lagu a cappella. Setelah lulus, kedua orang bekerja sebagai pekerja teknologi. Pada musim dingin 2018, mereka mengganti nama grup lagu folk akustik yang awalnya bernama 'Ao Kecil' menjadi 'Ao dan Gunung', membeli synthesizer, Isan berubah menjadi pengoperasian Pad, dan musik mereka beralih ke folktronica (folk elektronik). Pada tahun 2022, teman dekat Ao meninggal, Ia mengundurkan diri dari pekerjaan penuh waktu, dan grup mereka merilis album pertama《Modern Problem》yang dinominasikan untuk Golden Indie Music Awards ke-13 untuk Kategori Lagu Pop Alternatif Terbaik dan Petingan Pemula Terbaik. Pada 4 Agustus 2025, mereka merilis album kedua《Hidden Album》dengan kolaborasi produser audio Grammy British Jay Reynolds, insinyur audio Grammy Amerika Serikat Brian Elgin (yang pernah bekerja sama dengan Dua Lipa dan Lana Del Rey), serta tim kolaborasi internasional seperti ASOBOiSM di Jepang. Tema album beralih dari 'kecemasan teknologi' (Modern Problem) menuju 'bayangan manusiawi yang tersembunyi di balik teknologi'—mengatasi masalah depresi, cinta terlarang, penipuan kripto virtual, pengalaman tubuh perempuan—di mana satu lagu《Miffy》menyemangati Chen Mei-hui, seorang aktivis sosial."
 date: 2026-04-18
 category: 'People'
-subcategory: 'Musik dan Pertunjukan'
+subcategory: '音樂與表演'
 tags:
   [
     'orang',

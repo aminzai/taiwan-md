@@ -12,7 +12,7 @@ tags:
     'budaya internet',
     'animasi Taiwan',
   ]
-subcategory: 'Budaya Internet'
+subcategory: '網路文化'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-09-02

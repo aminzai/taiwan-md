@@ -19,7 +19,7 @@ tags:
     'pengisi suara',
     'Yen Chang-shou',
   ]
-subcategory: 'Masyarakat dan Sejarah Sehari-hari'
+subcategory: '社會與日常史'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-26

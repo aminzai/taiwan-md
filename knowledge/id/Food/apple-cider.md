@@ -15,7 +15,7 @@ tags:
     'Merek Tua',
     'Perusahaan Terbuka',
   ]
-subcategory: 'Budaya Minuman'
+subcategory: '飲品文化'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-11

@@ -12,7 +12,7 @@ tags:
     'Xin Dong Yang',
     'Budaya Kuliner',
   ]
-subcategory: 'Suasana Kuliner'
+subcategory: '飲食場景'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-08-14

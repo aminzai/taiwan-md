@@ -14,7 +14,7 @@ tags:
     'Sejarah Industri',
     'Industrialisasi',
   ]
-subcategory: 'Pembangunan Ekonomi'
+subcategory: '經濟發展'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20

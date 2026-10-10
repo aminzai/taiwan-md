@@ -3,7 +3,7 @@ title: "Kue Karoen: Dari Imagawayaki pada Masa Kolonial Jepang ke Roti Merah Ket
 description: "2026: Kontroversi 'Kue Merah Ketan' Membuat Kebocoran Perdebatan Identitas Bahasa. Camilan mahal yang berasal dari Zaman Edo dan masa kolonial Jepang, bagaimana setelah berhasil mencoba merah ketan di Pingtung, Wan'an pada 1960-an, berubah dari 'Imagawayaki' menjadi kenangan makanan jalanan yang paling populer di Taiwan."
 date: 2026-04-28
 category: 'Food'
-subcategory: 'Makanan Jalanan Taiwan'
+subcategory: '台灣小吃'
 tags:
   [
     'Kue Karoen',

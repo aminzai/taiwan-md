@@ -11,7 +11,7 @@ tags:
     'kontroversi sosial',
     'gerakan mahasiswa',
   ]
-subcategory: 'Pendidikan'
+subcategory: '教育'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-05

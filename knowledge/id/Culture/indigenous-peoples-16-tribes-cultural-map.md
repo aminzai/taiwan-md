@@ -4,7 +4,7 @@ description: '“16” bukanlah angka yang terbentuk secara alami, melainkan has
 date: '2026-03-29'
 author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: 'Budaya kelompok etnis'
+subcategory: '族群文化'
 tags: ['Masyarakat adat', 'Budaya', 'Ritual', 'Bahasa', 'Kreasi kontemporer']
 readingTime: 9
 lastVerified: '2026-03-29'

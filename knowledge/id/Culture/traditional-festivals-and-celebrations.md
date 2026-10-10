@@ -3,7 +3,7 @@ title: 'Ketika Wabat Menghilang, Kembang Api Menjadi Tradisi: Evolusi Tak Terdug
 description: 'Sebuah ritual kota kecil untuk memerangi wabat dengan mematikankan kembang api, 140 tahun kemudian menjadi salah satu festival folklor paling berbahaya di dunia'
 date: 2026-03-24
 category: 'Culture'
-subcategory: 'Agama dan Folklore'
+subcategory: '宗教與民俗'
 tags:
   [
     'Festival Tradisional',

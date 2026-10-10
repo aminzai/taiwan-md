@@ -12,7 +12,7 @@ tags:
     'Musik Era 1980-an',
     'Budaya Masa Muda',
   ]
-subcategory: 'Budaya Pop'
+subcategory: '流行文化'
 author: 'Taiwan.md Contributors'
 difficulty: 'intermediate'
 readingTime: 16

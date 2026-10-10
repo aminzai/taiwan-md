@@ -2,7 +2,7 @@
 title: 'Energi Angin Lepas Pantai Taiwan: Dari Uji Cobaan Badai di Selat Taiwan, ke Perang Kelangsungan Hidup Rantai Pasokan Energi Hijau Global'
 description: 'Akhir 2025 kapasitas terpasang energi angin lepas pantai Taiwan melebihi 4,4 GW, menghadapi tantangan geologi, penyesuaian kebijakan domestikasi, kontroversi pemilihan pengembang blok, serta kelaparan energi hijau dari raksasa teknologi global — bagaimana eksperimen energi hijau laut ini membentuk ulang urat nadi energi pulau ini?'
 category: 'Economy'
-subcategory: 'Energi dan Keberlanjutan'
+subcategory: '能源與永續'
 tags:
   [
     'energi angin lepas pantai',

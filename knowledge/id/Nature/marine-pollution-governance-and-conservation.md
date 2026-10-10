@@ -11,7 +11,7 @@ tags:
     'Komisi Laut',
     'perikanan berkelanjutan',
   ]
-subcategory: 'Konservasi dan Lingkungan'
+subcategory: '保育與環境'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 15

@@ -4,7 +4,7 @@ description: "Di tengah musim panas tahun 2026, meja panjang masih digelar di ja
 date: 2026-07-20
 author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: 'Festival dan Tradisi'
+subcategory: '節慶與禮俗'
 tags:
   [
     'Bulan Ketujuh Kalender Imlek',

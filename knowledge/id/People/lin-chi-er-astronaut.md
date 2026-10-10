@@ -11,7 +11,7 @@ tags:
     'Kedokteran',
     'Sejarah Migrasi',
   ]
-subcategory: 'Sains dan Akademik'
+subcategory: '科學與學術'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-28

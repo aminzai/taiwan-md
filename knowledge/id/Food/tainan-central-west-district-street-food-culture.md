@@ -4,7 +4,7 @@ description: 'Di bawah Jalan Guohua dan Jalan Haian terdapat sisa saluran sungai
 date: 2026-06-30
 author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: 'Klasik Camilan'
+subcategory: '經典小吃'
 tags:
   [
     'Tainan',

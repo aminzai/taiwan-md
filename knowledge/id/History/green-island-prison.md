@@ -17,7 +17,7 @@ tags:
     'Liuma Gou',
     'Korps Ke-13',
   ]
-subcategory: 'Pascaperang dan Otoritarianisme'
+subcategory: '戰後與威權'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-15

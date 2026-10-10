@@ -16,7 +16,7 @@ tags:
     'Seni Media Baru Taiwan',
     'Seni Blockchain',
   ]
-subcategory: 'Seni Generatif'
+subcategory: '生成藝術'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-20

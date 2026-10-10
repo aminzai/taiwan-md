@@ -4,7 +4,7 @@ description: 'Dari eksperimen modernisme yang lahir dari tiga ruang belajar, bag
 date: 2026-03-23
 category: 'Art'
 tags: ['Sastra', 'Puisi', 'Puisi Modern', 'Sastra Lokal']
-subcategory: 'Sastra'
+subcategory: '文學'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23
