@@ -202,8 +202,8 @@ Aquela arara "Kinmen 1969" ninguém viu, sumiu; aquela "frase de consolo" todo m
 - [Wu Pao-chun](/pt/people/wu-bao-chun) — outro artesão campeão mundial de Taiwan, diferença: o ofício dele foi visto
 - [Chiang Chen-cheng](/pt/people/andre-chiang-taiwanese-culinary-innovator) — firmou coordenadas pra chefs taiwaneses no palco internacional, outro destino da trilha "fazer bem feito"
 - [Chang Chih-chi](/pt/people/shasha77-chang-chih-chi) — também transforma complexo em legível, na era da atenção, "curador de informação"
-- [Jimmy Liao](/people/幾米) — saiu de agência de publicidade, virou criador de cura best-seller internacional, outro jeito de ser visto
-- [Audrey Tang](/people/唐鳳) — como Taiwan lida com alguém que não cabe em categoria, outro espelho
+- [Jimmy Liao](/pt/people/jimmy-liao) — saiu de agência de publicidade, virou criador de cura best-seller internacional, outro jeito de ser visto
+- [Audrey Tang](/pt/people/audrey-tang) — como Taiwan lida com alguém que não cabe em categoria, outro espelho
 
 ## Créditos das imagens
 

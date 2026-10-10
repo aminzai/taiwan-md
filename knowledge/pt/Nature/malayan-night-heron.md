@@ -126,7 +126,7 @@ Swinhoe escreveu "raro" há 160 anos em Tamsui. Hoje ouvimos todos os dias o gra
 - [Ecossistema florestal de Taiwan](/pt/nature/taiwan-forest-ecosystems) — O habitat original de floresta latifoliada de baixa altitude do Malayan Night Heron, grupo de controlo para entender a sua urbanização
 - [Macaco de Taiwan](/pt/nature/formosan-rock-macaque) — Outro caso de vida selvagem a entrar na área de actividade humana, em direcção oposta à expansão do Malayan Night Heron: humanos continuam a atropelá-lo nas estradas
 - [Espécies endémicas](/pt/nature/endemic-species) — O Malayan Night Heron não é endémico de Taiwan, mas a escala de expansão da sua população urbana em Taiwan é globalmente única
-- [Árvores de alinhamento de Taiwan](/lifestyle/台灣行道樹) — As alcanforeiras e figueiras amadurecidas após os anos 1990, cortadas em tiras e estendidas entre o cimento como floresta latifoliada de baixa altitude, são o outro lado do habitat urbano do Malayan Night Heron
+- [Árvores de alinhamento de Taiwan](/pt/lifestyle/taiwan-street-trees) — As alcanforeiras e figueiras amadurecidas após os anos 1990, cortadas em tiras e estendidas entre o cimento como floresta latifoliada de baixa altitude, são o outro lado do habitat urbano do Malayan Night Heron
 
 ## Fontes das imagens
 

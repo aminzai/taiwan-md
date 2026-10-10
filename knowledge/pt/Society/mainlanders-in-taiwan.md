@@ -70,7 +70,7 @@ Para a terceira geração, «continental» costuma ser apenas a marca identitár
 
 ## Leituras complementares
 
-- [Grupos étnicos (Hoklo, Hakka, indígenas, continentais, novos imigrantes)](/culture/族群（閩南客家原住民外省新住民）) — compreender a interação entre continentais e outros grupos a partir de uma classificação étnica mais ampla.
+- [Grupos étnicos (Hoklo, Hakka, indígenas, continentais, novos imigrantes)](/pt/culture/ethnic-groups) — compreender a interação entre continentais e outros grupos a partir de uma classificação étnica mais ampla.
 - [História das vilas militares de Taiwan](/pt/history/taiwan-military-dependents-villages-history) — complementar o espaço de vida, as redes comunitárias e a memória cultural dos imigrantes continentais após o assentamento.
 - [Terror Branco em Taiwan](/pt/history/taiwan-white-terror) — ligar a experiência de vitimização do grupo continental sob o regime autoritário e nos casos políticos.
 

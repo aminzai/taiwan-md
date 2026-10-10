@@ -211,9 +211,9 @@ O tabaco nunca desapareceu de verdade. Saiu dos cinzeiros dos escritórios para 
 
 **Leitura complementar**:
 
-- [Ximending](/geography/西門町) — Esta primeira cabine de fumadores de pressão negativa ao ar livre de Taiwan está plantada na rua junto à saída do metro de Ximending; como um bairro de entretenimento da era japonesa cresceu e virou campo de teste da nova política
-- [Sistema de saúde pública e prevenção epidémica de Taiwan](/society/台灣公共衛生與防疫體系) — A prevenção dos danos do tabaco faz parte da longa marcha da saúde pública de Taiwan, partilhando com o sistema de prevenção epidémica a mesma lógica de «saúde coletiva prioritária»
-- [Justiça ambiental e conflitos NIMBY em Taiwan](/society/台灣環境正義與鄰避爭議) — Onde pôr a cabine de fumadores, se os sem-abrigo se vão concentrar: em essência, um dilema NIMBY (Not In My Back Yard) à escala da rua
+- [Ximending](/pt/geography/ximending) — Esta primeira cabine de fumadores de pressão negativa ao ar livre de Taiwan está plantada na rua junto à saída do metro de Ximending; como um bairro de entretenimento da era japonesa cresceu e virou campo de teste da nova política
+- [Sistema de saúde pública e prevenção epidémica de Taiwan](/pt/society/taiwan-public-health-epidemic-response) — A prevenção dos danos do tabaco faz parte da longa marcha da saúde pública de Taiwan, partilhando com o sistema de prevenção epidémica a mesma lógica de «saúde coletiva prioritária»
+- [Justiça ambiental e conflitos NIMBY em Taiwan](/pt/society/taiwan-environmental-justice-nimby-conflicts) — Onde pôr a cabine de fumadores, se os sem-abrigo se vão concentrar: em essência, um dilema NIMBY (Not In My Back Yard) à escala da rua
 - [Período da Lei Marcial](/pt/history/martial-law-era) — A era em que o Long Life detinha 70% do mercado e o Monopólio Estatal controlava tabaco e álcool, é precisamente o pano de fundo histórico do Estado a gerir o quotidiano
 
 ## Fontes das imagens

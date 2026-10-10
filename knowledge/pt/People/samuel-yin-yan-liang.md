@@ -229,11 +229,11 @@ Aos 76 anos.
 
 **Leitura complementar**:
 
-- [Hsu Cho-yun: dois dedos a escrever o longo rio da história da China](/people/許倬雲) — Laureado da sexta edição do Prémio Tang de Sinologia em 2024, doou a totalidade dos 50 milhões para criar a «Bolsa Hsu-Sun»
+- [Hsu Cho-yun: dois dedos a escrever o longo rio da história da China](/pt/people/cho-yun-hsu-bridging-historian) — Laureado da sexta edição do Prémio Tang de Sinologia em 2024, doou a totalidade dos 50 milhões para criar a «Bolsa Hsu-Sun»
 - [Zhang Zhongmou](/pt/people/tsmc-morris-chang) — Líder industrial da mesma geração em Taiwan, académico do ITRI, fundador da TSMC
 - [Stan Shih](/pt/people/stan-shih) — Empresário da mesma geração convertido em filantropo, fundador da Acer
 - [Wang Yung-ching](/pt/people/yung-ching-wang-formosa-plastics-founder) — Líder industrial da geração anterior em Taiwan, fundador do Formosa Plastics Group e do Hospital Chang Gung, modelo inicial de escala de doações semelhante
-- [Defesa e modernização militar de Taiwan](/society/台灣國防與軍事現代化) — Outro eixo da preservação da soberania de Taiwan
+- [Defesa e modernização militar de Taiwan](/pt/society/taiwan-defense-modernization) — Outro eixo da preservação da soberania de Taiwan
 
 ## Fontes das imagens
 
@@ -307,7 +307,7 @@ Este artigo utiliza 5 imagens com licença CC BY ou informação aberta governam
 
 [^30]: [2020 Prémio Tang Jane Goodall Desenvolvimento Sustentável](https://www.gbimonthly.com/2020/06/72629/) — Global Biotechnology Monthly 2020, regista quarta edição Desenvolvimento Sustentável para Jane Goodall, contributos e contexto.
 
-[^31]: [2024 Prémio Tang Sinologia laureado Hsu Cho-yun](https://www.tang-prize.org/owner.php?Lang=tw) — Página oficial da sexta edição Sinologia da Fundação Educacional do Prémio Tang, regista contributos académicos e razão; artigo profundo correspondente neste site ver [Hsu Cho-yun: dois dedos a escrever o longo rio da história da China](/people/許倬雲).
+[^31]: [2024 Prémio Tang Sinologia laureado Hsu Cho-yun](https://www.tang-prize.org/owner.php?Lang=tw) — Página oficial da sexta edição Sinologia da Fundação Educacional do Prémio Tang, regista contributos académicos e razão; artigo profundo correspondente neste site ver [Hsu Cho-yun: dois dedos a escrever o longo rio da história da China](/pt/people/cho-yun-hsu-bridging-historian).
 
 [^32]: [2012 Caso contas secretas segurança nacional suspensão processo 1 ano pagamento 10 milhões](https://www.ettoday.net/news/20120806/1542044.htm) — ETtoday 06-08-2012, regista Yin Yen-liang confessa em tribunal, paga voluntariamente 10 milhões para cofre público, suspensão processo 1 ano, crimes violação «Lei de Contabilidade Comercial» e «Falsificação de Documentos».
 

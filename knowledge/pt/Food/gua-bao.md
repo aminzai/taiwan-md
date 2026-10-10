@@ -150,7 +150,7 @@ Comer um gua bao é comer quatrocentos anos de rota marítima de imigração de 
 
 - [Petiscos de Taiwan](/pt/food/taiwanese-street-food) — Ecologia geral dos petiscos de rua; o gua bao é uma veia-chave
 - [Cultura de mercado noturno](/pt/food/night-market-culture) — História do gua bao saindo do cenário do weiya para o mercado noturno
-- [Cultura de banquetes de Taiwan](/food/台灣辦桌文化) — Lógica ritual do weiya e dos banquetes, cabeça do frango e hǔ yǎo zhū
+- [Cultura de banquetes de Taiwan](/pt/food/taiwan-banquet-culture) — Lógica ritual do weiya e dos banquetes, cabeça do frango e hǔ yǎo zhū
 - [Cultura de arroz e massas de Taiwan](/pt/food/taiwan-rice-cuisine-culture) — Veia de massas do gua bao e estrutura dual arroz-massa da alimentação taiwanesa
 - [Frango frito crocante de Taiwan](/pt/food/taiwanese-popcorn-chicken-redux) — Outro petisco popular de Taiwan que alcançou a visibilidade internacional da CNN
 

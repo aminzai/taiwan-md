@@ -138,4 +138,4 @@ Os jovens de Taiwan escolheram a segunda opção. Mas isso não deveria ser cele
 ## Leituras recomendadas
 
 - [Lei de Entregas](/pt/society/delivery-platform-law) — Depois que o "remendo institucional" entrou em vigor: o que o piso de 45 NT$ por encomenda significa para as pessoas de verdade, e duas questões que a lei ainda não responde
-- [Quem é considerado de baixa renda](/society/誰算低薪) — O salário mínimo ultrapassou a linha da pobreza, mas a pobreza se mudou para a remuneração anual, e parte dos trabalhadores por hora, autônomos e contratos terceirizados nem são contemplados por essa métrica
+- [Quem é considerado de baixa renda](/pt/society/who-counts-as-low-wage) — O salário mínimo ultrapassou a linha da pobreza, mas a pobreza se mudou para a remuneração anual, e parte dos trabalhadores por hora, autônomos e contratos terceirizados nem são contemplados por essa métrica

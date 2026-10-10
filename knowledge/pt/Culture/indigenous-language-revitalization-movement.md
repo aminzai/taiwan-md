@@ -110,8 +110,8 @@ Referências acadêmicas em chinês: Li Tai-yuan (2020) _Revitalização das Lí
 
 - [Educação nas áreas remotas de Taiwan](/pt/society/taiwan-rural-education) — Os problemas das escolas nas terras natais não estão só no desempenho acadêmico, mas também em saber se a língua e a cultura podem ser acolhidas pela escola.
 - [História e movimento de retificação de nomes dos povos indígenas de Taiwan](/pt/history/indigenous-peoples-history-and-naming-movement) — A revitalização linguística não se separa da retificação de nomes étnicos, da reconstrução narrativa histórica e da reconstituição do sujeito político.
-- [Justiça territorial e domínios tradicionais dos povos indígenas de Taiwan](/society/台灣原住民族土地正義與傳統領域) — Língua, terra e modo de vida sempre foram uma mesma rede.
+- [Justiça territorial e domínios tradicionais dos povos indígenas de Taiwan](/pt/society/indigenous-land-justice-and-traditional-territories) — Língua, terra e modo de vida sempre foram uma mesma rede.
 - [Mapa cultural dos 16 povos indígenas de Taiwan](/pt/culture/indigenous-peoples-16-tribes-cultural-map) — Para ver a distribuição e o contorno cultural de cada povo, este artigo oferece o mapa geral.
-- [Cultura alimentar dos povos indígenas de Taiwan](/food/台灣原住民飲食文化) — O que a alimentação preserva não é só sabor; preserva também língua, toponímia e conhecimento ecológico.
+- [Cultura alimentar dos povos indígenas de Taiwan](/pt/food/taiwan-indigenous-foodways) — O que a alimentação preserva não é só sabor; preserva também língua, toponímia e conhecimento ecológico.
 - [Sabedoria ecológica e conservação ambiental dos povos indígenas de Taiwan](/pt/nature/taiwanese-indigenous-ecological-wisdom-conservation) — As línguas indígenas contêm vasto conhecimento de interação com montanhas, rios e estações.
-- [Arte contemporânea dos povos indígenas de Taiwan](/art/台灣原住民當代藝術) — A arte contemporânea é outra via para que as línguas e culturas indígenas voltem a ser vistas.
+- [Arte contemporânea dos povos indígenas de Taiwan](/pt/art/contemporary-indigenous-art-taiwan) — A arte contemporânea é outra via para que as línguas e culturas indígenas voltem a ser vistas.

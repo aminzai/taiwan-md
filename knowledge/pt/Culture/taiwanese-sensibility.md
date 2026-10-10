@@ -218,7 +218,7 @@ Desta vez, cabe a nós acertar os números, terminar de contar a história e inc
 - [Cultura das lojas de conveniência em Taiwan](/pt/lifestyle/convenience-store-culture) — As lojas de conveniência iluminadas durante a madrugada são outra faceta da estética cotidiana taiwanesa
 - [Religiões e cultura dos templos em Taiwan](/pt/culture/taiwan-religion-and-temple-culture) — Templos são justamente alguns dos lugares onde o granilite e as grades ornamentais aparecem com frequência
 - [Chou Tzu-yu](/pt/people/tzuyu) — Outro rosto taiwanês frequentemente lembrado no percurso pelo qual os coreanos conheceram Taiwan
-- [Tehching Hsieh](/art/謝德慶) — Artista performático taiwanês que transforma diretamente tempo e vida em obra: outra versão, mais extrema, da sensibilidade taiwanesa
+- [Tehching Hsieh](/pt/art/tehching-hsieh-performance-artist) — Artista performático taiwanês que transforma diretamente tempo e vida em obra: outra versão, mais extrema, da sensibilidade taiwanesa
 
 ## Fontes das imagens
 

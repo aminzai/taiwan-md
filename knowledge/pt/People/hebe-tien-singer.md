@@ -36,7 +36,7 @@ sourceBodyHash: 'sha256:0f8970c54b5cd9d2'
 translatedAt: '2026-07-28T08:53:30+08:00'
 ---
 
-> **Resumo em 30 segundos:** Hebe Tien (nascida em 1983, hakka de Hsinchu) é uma rara «desistente voluntária» na história da música popular mandarim. Em 2001 formou as S.H.E com Jen Jen (Selina) e Ella Chen; em dez anos venderam mais de dez milhões de discos[^4]. Em 2010 lançou o primeiro álbum a solo, _To Hebe_, com o cartaz «estreante supernova após dez anos de estreia»[^6]. De «Angel in the Devil» a «A Little Happiness» até _No One Knows_ (2020), feito com [Chen Chien-chi](/people/陳建騏) e vencedor de Melhor Cantora Mandarim na 32.ª edição dos Golden Melody Awards[^13] — os seus recordes de vendas só faziam subir. Mas em 2020 recusou um convite de um programa de variedades chinês avaliado em cerca de 100 milhões de novos dólares taiwaneses[^25], em 2022 publicou no Instagram uma foto a comer esparguete[^16], em 2025 levou a turnê para salinas e aeródromos sem tecto[^19], em 2026 disse a jornalistas «não é um obstáculo, é que eu «não quero pisar»»[^21]. Uma cantora criada pela indústria de ídolos devolveu, peça por peça, tudo o que a indústria lhe dera.
+> **Resumo em 30 segundos:** Hebe Tien (nascida em 1983, hakka de Hsinchu) é uma rara «desistente voluntária» na história da música popular mandarim. Em 2001 formou as S.H.E com Jen Jen (Selina) e Ella Chen; em dez anos venderam mais de dez milhões de discos[^4]. Em 2010 lançou o primeiro álbum a solo, _To Hebe_, com o cartaz «estreante supernova após dez anos de estreia»[^6]. De «Angel in the Devil» a «A Little Happiness» até _No One Knows_ (2020), feito com [Chen Chien-chi](/pt/people/chen-chien-chi-music-producer) e vencedor de Melhor Cantora Mandarim na 32.ª edição dos Golden Melody Awards[^13] — os seus recordes de vendas só faziam subir. Mas em 2020 recusou um convite de um programa de variedades chinês avaliado em cerca de 100 milhões de novos dólares taiwaneses[^25], em 2022 publicou no Instagram uma foto a comer esparguete[^16], em 2025 levou a turnê para salinas e aeródromos sem tecto[^19], em 2026 disse a jornalistas «não é um obstáculo, é que eu «não quero pisar»»[^21]. Uma cantora criada pela indústria de ídolos devolveu, peça por peça, tudo o que a indústria lhe dera.
 
 ---
 
@@ -84,7 +84,7 @@ A relação das três saiu do fogo desse ano, tornando-se a parte mais discreta 
 
 2011 foi o ano em que o fogo das S.H.E ainda não se tinha apagado. Em setembro, Hebe Tien lançou o segundo álbum a solo, _My Love_, o single principal «[Angel in the Devil](https://www.youtube.com/watch?v=na_xv5iFt2Y)» com música de Chen Hsiao-hsia e letra de Yao Jo-lan[^7]. Esta canção tornou-se o primeiro fenómeno a solo dela, e o posicionamento vocal — entre o doce e o frio — começou a tomar forma. A 31 de outubro do mesmo ano, Selina casou-se com o advogado Chang Cheng-chung meio ano após ter alta; Hebe Tien e Ella foram madrinhas e cantaram juntas[^22]. O que as três viveram nos 89 dias de hospitalização raramente foi contado em pormenor nas reuniões posteriores, mas em cada reunião toda a gente lia nas entrelinhas.
 
-Nos anos seguintes lançou um álbum a cada dois ou três anos, cada um empurrando aquele posicionamento vocal mais para dentro. Em novembro de 2013 _[Insignificance](https://www.youtube.com/watch?v=BClZoVLwZCE)_ tomou o título emprestado de _Under a Little Star_ de Wisława Szymborska; a partir deste álbum [Chen Chien-chi](/people/陳建騏) tornou-se o seu produtor fixo[^8]. Em 2015 cantou «[A Little Happiness](https://www.youtube.com/watch?v=_sQSXwdtxlY)» para o filme _Our Times_; o videoclipe tornou-se em agosto de 2016 o primeiro single mandarim a ultrapassar 100 milhões de visualizações no YouTube[^9]. Em julho de 2016 saiu _[Day by Day](https://www.youtube.com/watch?v=3dBFK2fHjWg)_, embalagem artesanal, tinta fluorescente especial; nesse ano três noites esgotadas na Taipei Arena com a _If Tour Plus_, bilheteira de 82,5 milhões em três dias[^10]. Os recordes de vendas subiam a cada álbum.
+Nos anos seguintes lançou um álbum a cada dois ou três anos, cada um empurrando aquele posicionamento vocal mais para dentro. Em novembro de 2013 _[Insignificance](https://www.youtube.com/watch?v=BClZoVLwZCE)_ tomou o título emprestado de _Under a Little Star_ de Wisława Szymborska; a partir deste álbum [Chen Chien-chi](/pt/people/chen-chien-chi-music-producer) tornou-se o seu produtor fixo[^8]. Em 2015 cantou «[A Little Happiness](https://www.youtube.com/watch?v=_sQSXwdtxlY)» para o filme _Our Times_; o videoclipe tornou-se em agosto de 2016 o primeiro single mandarim a ultrapassar 100 milhões de visualizações no YouTube[^9]. Em julho de 2016 saiu _[Day by Day](https://www.youtube.com/watch?v=3dBFK2fHjWg)_, embalagem artesanal, tinta fluorescente especial; nesse ano três noites esgotadas na Taipei Arena com a _If Tour Plus_, bilheteira de 82,5 milhões em três dias[^10]. Os recordes de vendas subiam a cada álbum.
 
 O que aconteceu em outubro de 2018 parecia notícia de negócios, mas foi o passo em que ela recuperou o controlo. O contrato com a HIM expirou, fundou a «Lai Lai Hao Co.» para gerir os seus assuntos pessoais[^27]; no mesmo ano Chen Chien-chi fundou a «Pourquoi Pas Music» (何樂音樂) como diretor musical, responsável pela produção[^11]. A partir daí formou-se a estrutura de dois carris: empresa pessoal da Hebe Tien mais produção da Pourquoi Pas Music, que se manteve até ao álbum seguinte.
 
@@ -187,7 +187,7 @@ Aquela rapariga que na casa de banho de Hsinchu cantava com a mãe a gritar «j�
 
 Mas não desistiu de cantar.
 
-Ficou com ela a voz com respiração lapidada com [Chen Chien-chi](/people/陳建騏) ao longo de mais de dez anos, a teimosia de levar o concerto para salinas e fornos pela obsessão do «agora», a capacidade de no palco dos Golden Melody se encolher de novo ao tamanho da rapariga da cidadezinha e gritar para a mãe «não gastei água à toa».
+Ficou com ela a voz com respiração lapidada com [Chen Chien-chi](/pt/people/chen-chien-chi-music-producer) ao longo de mais de dez anos, a teimosia de levar o concerto para salinas e fornos pela obsessão do «agora», a capacidade de no palco dos Golden Melody se encolher de novo ao tamanho da rapariga da cidadezinha e gritar para a mãe «não gastei água à toa».
 
 Disse certa vez à _Womany_:
 
@@ -201,7 +201,7 @@ O sexto álbum sai este ano? Em 2025 já cantou nas salinas, cantou nos fornos, 
 
 ## Leituras complementares
 
-- [Chen Chien-chi](/people/陳建騏) — produtor fixo de Hebe Tien desde 2013, vencedor de Melhor Produtor de Álbum na 32.ª edição dos Golden Melody Awards
+- [Chen Chien-chi](/pt/people/chen-chien-chi-music-producer) — produtor fixo de Hebe Tien desde 2013, vencedor de Melhor Produtor de Álbum na 32.ª edição dos Golden Melody Awards
 - [A geração de novos ídolos de Taiwan](/pt/culture/taiwan-new-idol-generation) — os vinte anos de fratura dos grupos de ídolos após as S.H.E
 - [Huang Shao-yung](/pt/people/huang-shao-yong-musician) — junto com Chen Chien-chi, um dos dois produtores que definem as fronteiras sonoras da música popular mandarim na última década
 

@@ -98,7 +98,7 @@ Se Taiwan ainda apresentar a educação nas áreas rurais como "enviar paixão p
 
 - [為台灣而教TFT](/pt/society/teach-for-taiwan) — Se quiser se aproximar mais do nascimento, controvérsias e impacto de dez anos desta organização, este artigo complementa o contexto de pessoas e organizações.
 - [教育制度與升學文化](/pt/society/education-system-and-admissions-culture) — A educação nas áreas rurais não é um problema isolado; está intimamente ligada à forma como Taiwan define como um todo as pontuações, admissões e sucesso.
-- [台灣少子化危機](/society/台灣少子化危機) — Muitas pequenas escolas rurais não suportam apenas a pressão das políticas educacionais, mas também as mudanças de longo prazo trazidas pela perda populacional local e pelo declínio da comunidade.
+- [台灣少子化危機](/pt/society/taiwan-low-birth-rate-crisis) — Muitas pequenas escolas rurais não suportam apenas a pressão das políticas educacionais, mas também as mudanças de longo prazo trazidas pela perda populacional local e pelo declínio da comunidade.
 - [台灣原住民語言復振運動](/pt/culture/indigenous-language-revitalization-movement) — O núcleo da educação nas terras indígenas não está apenas na literacia, mas também em saber se a linguagem, a cultura e o mundo da vida podem ser verdadeiramente acolhidos pela escola.
 - [雜學校](/pt/society/za-share) — Um grupo de controle de educação alternativa fora do sistema: não está em áreas rurais, mas organiza exposições em parques culturais e criativos, mas lida com "possibilidades de aprendizagem fora da narrativa dominante", assim como a educação nas áreas rurais.
 

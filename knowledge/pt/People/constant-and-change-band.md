@@ -158,13 +158,13 @@ E aquela Linha Adormecida de Alishan, nas músicas deles, ainda segue.
 
 **Leitura complementar**:
 
-- [No Party for Cao Dong](/people/草東沒有派對) — banda independente surgida no mesmo 2016, escreve a raiva do recém-formado; KST escreve o encalhe dez anos depois — duas fases da mesma geração
-- [Waa Wei](/people/魏如萱) — mesmo ecossistema independente dos anos 2010, caminho vocal e não pós-rock
-- [Cicada](/people/Cicada) — pós-rock puramente instrumental, contrasta com o "pós-rock + voz" de KST
-- [Crowd Lu](/people/盧廣仲) — outra rota da música independente: cantor-autor que cruza os três prêmios de ouro
-- [Golden Melody Awards](/music/金曲獎) — palco onde KST foi indicado ao 32.º de Melhor Banda
-- [Música independente de Taiwan](/music/台灣獨立音樂) — da Natural Roll a KST, No Party, Accusefive, a genealogia das gerações independentes
-- [Música pop de Taiwan](/music/台灣流行音樂) — ambiente da indústria pop de língua chinesa
+- [No Party for Cao Dong](/pt/people/no-party-for-cao-dong) — banda independente surgida no mesmo 2016, escreve a raiva do recém-formado; KST escreve o encalhe dez anos depois — duas fases da mesma geração
+- [Waa Wei](/pt/people/waa-wei-singer) — mesmo ecossistema independente dos anos 2010, caminho vocal e não pós-rock
+- [Cicada](/pt/people/cicada-band) — pós-rock puramente instrumental, contrasta com o "pós-rock + voz" de KST
+- [Crowd Lu](/pt/people/crowd-lu-indie-folk-treasure) — outra rota da música independente: cantor-autor que cruza os três prêmios de ouro
+- [Golden Melody Awards](/pt/music/pop-music-and-golden-melody-awards) — palco onde KST foi indicado ao 32.º de Melhor Banda
+- [Música independente de Taiwan](/pt/music/indie-music-scene) — da Natural Roll a KST, No Party, Accusefive, a genealogia das gerações independentes
+- [Música pop de Taiwan](/pt/music/golden-melodies-legacy-taiwan-pop-music) — ambiente da indústria pop de língua chinesa
 
 ## Referências
 

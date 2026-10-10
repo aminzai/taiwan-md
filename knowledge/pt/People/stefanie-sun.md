@@ -144,7 +144,7 @@ Ela mesma provavelmente acha: tanto faz——ela já disse, ser você mesmo, já
 
 A ascensão de Stefanie Sun é um microcosmo da indústria de pop de Taiwan no auge dos anos 2000. Jay Chou, que ela venceu por 1 voto, no mesmo tempo definiu a outra pista do pop sinófono, os dois seguem sendo as coordenadas duplas daquela geração. Suas músicas até hoje aparecem com alta frequência nas listas de pedido de KTV de Taiwan, são um arquivo cultural vivo no presente.
 
-- [Pop taiwanês](/music/台灣流行音樂/) — Contexto industrial da estreia de Stefanie Sun, veias da indústria fonográfica de Taiwan no auge dos anos 2000
+- [Pop taiwanês](/pt/music/golden-melodies-legacy-taiwan-pop-music/) — Contexto industrial da estreia de Stefanie Sun, veias da indústria fonográfica de Taiwan no auge dos anos 2000
 - [Golden Melody Awards](/pt/music/pop-music-and-golden-melody-awards/) — Como o Golden Melody evoluiu de mecanismo de júri para se tornar coordenada cultural que define gosto
 - [Jay Chou](/pt/people/jay-chou/) — Indicado no mesmo 12º Melhor Artista Revelação, definiu a outra pista do pop sinófono
 - [Cultura KTV de Taiwan](/pt/music/ktv-culture/) — Por que as músicas de Stefanie Sun seguem firmes nas listas de pedido de KTV

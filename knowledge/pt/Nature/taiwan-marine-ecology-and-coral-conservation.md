@@ -189,7 +189,7 @@ O caminho da conservação marinha de Taiwan continua cheio de desafios, mas tam
 
 **Leitura complementar**:
 
-- [Crise Climática e Transição para Carbono Zero em Taiwan](/nature/台灣氣候危機與淨零轉型) — Como as alterações climáticas e o aquecimento das águas agravam o branqueamento de coral, e a resposta de descarbonização de Taiwan
+- [Crise Climática e Transição para Carbono Zero em Taiwan](/pt/nature/taiwan-climate-change-net-zero-transition) — Como as alterações climáticas e o aquecimento das águas agravam o branqueamento de coral, e a resposta de descarbonização de Taiwan
 
 ## Referências
 

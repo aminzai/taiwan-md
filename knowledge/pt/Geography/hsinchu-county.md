@@ -175,10 +175,10 @@ Se você for da próxima vez ao condado de Hsinchu, não faça só as duas rotas
 ## Leitura complementar
 
 - [Cidade de Keelung](/pt/geography/keelung-city) — Série 22 Condados lote 1 piloto, outra cidade pressionada pelo quadro da capital, comparar duas fisionomias políticas locais
-- [Condado de Miaoli](/geography/苗栗縣) — Série 22 Condados irmão, segundo condado com maior proporção hakka (62,5%), yuxtapõe ao "fé Yimin vs parque científico" de Hsinchu outra experiência hakka
-- [Cultura e língua hakka](/culture/客家文化與語言) — Quatro dialetos hakka (dialeto principal de Miaoli vs dialeto Hailu de Hsinchu) distribuição nacional, contexto da proporção 67,8% de Hsinchu
+- [Condado de Miaoli](/pt/geography/miaoli-county) — Série 22 Condados irmão, segundo condado com maior proporção hakka (62,5%), yuxtapõe ao "fé Yimin vs parque científico" de Hsinchu outra experiência hakka
+- [Cultura e língua hakka](/pt/culture/hakka-culture-and-language) — Quatro dialetos hakka (dialeto principal de Miaoli vs dialeto Hailu de Hsinchu) distribuição nacional, contexto da proporção 67,8% de Hsinchu
 - [Cultura gastronômica hakka](/pt/food/hakka-food-culture) — Tiras de arroz, chá moído, refogado hakka, chá Dongfang Meiren na mesa da aldeia hakka, origem das tiras de Xinpu e chá moído de Beipu
-- [Grupos étnicos (hoklo, hakka, indígenas, mainlanders, novos imigrantes)](/culture/族群（閩南客家原住民外省新住民）) — Em escala maior ver a estrutura de convivência dos três grupos hoklo-hakka-indígenas de Hsinchu
+- [Grupos étnicos (hoklo, hakka, indígenas, mainlanders, novos imigrantes)](/pt/culture/ethnic-groups) — Em escala maior ver a estrutura de convivência dos três grupos hoklo-hakka-indígenas de Hsinchu
 - [Empresas de Taiwan: TSMC](/pt/economy/tsmc) — Fábrica de 2 nm Fase II de Baoshan é motor do dobro populacional de Zhubei Zona Especial HSR
 - [Indústria de semicondutores](/pt/technology/taiwan-semiconductor-industry) — Rota de expansão do Parque Científico de Hsinchu atravessando cidade de Hsinchu, Baoshan no condado, Tongluo em Miaoli
 - [Divisão administrativa de Taiwan](/pt/geography/administrative-divisions-of-taiwan) — 1875 criação Condado de Hsinchu, 1950 separação condado-cidade, 1982 cidade de Hsinchu elevada a cidade provincial, 1989 prefeitura muda para Zhubei

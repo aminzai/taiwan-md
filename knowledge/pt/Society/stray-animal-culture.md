@@ -447,7 +447,7 @@ Problemas complexos não têm respostas simples. Mas o enunciado já está escri
 - [Pangolim de Taiwan](/pt/nature/taiwan-pangolin) — Metade dos indivíduos acolhidos no centro de resgate por cauda mordida por cães errantes
 - [Tema de colisão de aves em janelas em Taiwan](/pt/nature/bird-window-collision-taiwan) — Outro custo invisível do ambiente humano para a vida selvagem
 - [Ética de zoológicos e animais de espetáculo](/pt/society/zoo-and-exhibition-animal-ethics) — Outra face do bem-estar animal, quando humanos decidem pelos animais o dilema da escolha
-- [Controvérsia de medicamentos para animais em Taiwan](/society/台灣動物用藥爭議) — Quando a política de zero eutanásia já tem dez anos, a próxima questão que esta ilha enfrenta é: quando adoecem, não há remédio para comprar
+- [Controvérsia de medicamentos para animais em Taiwan](/pt/society/taiwan-animal-drug-controversy) — Quando a política de zero eutanásia já tem dez anos, a próxima questão que esta ilha enfrenta é: quando adoecem, não há remédio para comprar
 
 ---
 

@@ -185,7 +185,7 @@ Como disse o poeta Yu Guangzhong: "O mais belo de Taiwan são as pessoas", e est
 
 ## Leitura Complementar
 
-- [Taiwan Man You Lu (Taiwan Wanderings)](/art/臺灣漫遊錄) — O romance de tradução falsa de Yang Shuangzi, a primeira obra de literatura de Taiwan a vencer o Prêmio NBA dos EUA em 2024 e o Prêmio Booker Internacional em 2026, carregando a "investigação centenária da literatura de Taiwan" mencionada no discurso de Yang Shuangzi.
+- [Taiwan Man You Lu (Taiwan Wanderings)](/pt/art/taiwan-travelogue) — O romance de tradução falsa de Yang Shuangzi, a primeira obra de literatura de Taiwan a vencer o Prêmio NBA dos EUA em 2024 e o Prêmio Booker Internacional em 2026, carregando a "investigação centenária da literatura de Taiwan" mencionada no discurso de Yang Shuangzi.
 - [Literatura do Período Colonial Japonês](/pt/art/taiwanese-literature-during-japanese-rule) — A era em japonês de Lai He, Yang Kui, Lü Hueruo e Zhang Wenhuan (1895-1945).
 - [Literatura de Taiwan Pós-Guerra](/pt/art/postwar-taiwanese-literature) — 42 anos de silêncio, modernismo, debate local e despertar feminino durante a lei marcial (1945-1987).
 - [Literatura de Taiwan Pós-Liberação](/pt/art/post-martial-law-taiwanese-literature) — A geração intermediária da explosão política, de gênero e da língua materna (1987-2000).

@@ -111,7 +111,7 @@ Chen Shui-bian anunciou em 2000 que não construiria a barragem de Meinong duran
 ## Leitura complementar
 
 - [Música Hakka de Taiwan (台灣客家音樂)](/pt/music/taiwan-hakka-music-from-mountain-songs-to-rock/)
-- [Movimento da Canção Popular de Taiwan (台灣民歌運動)](/music/台灣民歌運動/)
+- [Movimento da Canção Popular de Taiwan (台灣民歌運動)](/pt/music/taiwan-campus-folk-song-movement/)
 - [Música Independente de Taiwan (台灣獨立音樂)](/pt/music/indie-music-scene/)
 - [História do Rock de Taiwan (台灣搖滾樂發展史)](/pt/music/taiwan-rock-from-underground-to-mainstream/)
 

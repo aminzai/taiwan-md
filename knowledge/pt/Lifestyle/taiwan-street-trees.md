@@ -322,11 +322,11 @@ Próxima árvore para plantar em sua porta frente, neste momento está sendo alg
 
 **Leitura Prolongada**:
 
-- [Pássaro Malayan Noite Garça](/nature/黑冠麻鷺) — Como 1990s amadurecimento grupo árvore de rua depois virou um tipo pássaro urbano habitat
-- [Rua Zhongshan Norte Tiaotong](/geography/中山北路條通) — 1941 Estrada Chokusei quarenta metros larga, árvore cânfora e faia plantada, é semente de designação plantio colonial deixada em hoje
-- [Reino Fruta Taiwan](/food/台灣水果王國) — Inseto litchi escama e Árvore Taiwan emaranhado, bem como fruta árvore com limite árvore de rua
-- [Século 19 Camphor War](/history/19世紀的樟腦戰爭) — Mesma tipo árvore cânfora, na montanha era matéria prima disputa global, na rua é árvore de rua sombra
-- [Taiwan Clima Crisis Com Zero Líquido Mudança](/nature/台灣氣候危機與淨零轉型) — Sombra árvore como posição engenharia adaptação alta temperatura e escala tempo
+- [Pássaro Malayan Noite Garça](/pt/nature/malayan-night-heron) — Como 1990s amadurecimento grupo árvore de rua depois virou um tipo pássaro urbano habitat
+- [Rua Zhongshan Norte Tiaotong](/pt/geography/zhongshan-north-road-tiaotong) — 1941 Estrada Chokusei quarenta metros larga, árvore cânfora e faia plantada, é semente de designação plantio colonial deixada em hoje
+- [Reino Fruta Taiwan](/pt/food/taiwan-fruit-kingdom) — Inseto litchi escama e Árvore Taiwan emaranhado, bem como fruta árvore com limite árvore de rua
+- [Século 19 Camphor War](/pt/history/19th-century-camphor-wars) — Mesma tipo árvore cânfora, na montanha era matéria prima disputa global, na rua é árvore de rua sombra
+- [Taiwan Clima Crisis Com Zero Líquido Mudança](/pt/nature/taiwan-climate-change-net-zero-transition) — Sombra árvore como posição engenharia adaptação alta temperatura e escala tempo
 
 ## Fontes das imagens
 

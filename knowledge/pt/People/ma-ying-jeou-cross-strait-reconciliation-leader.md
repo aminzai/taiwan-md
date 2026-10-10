@@ -213,7 +213,7 @@ Os 80 segundos do aperto de mão no Shangri-La de Cingapura duraram 1 minuto e 2
 - [Movimento Estudantil Girassol](/pt/society/sunflower-movement) — A ocupação do plenário de 18 de março a 10 de abril de 2014, como um movimento contra o Acordo de Comércio de Serviços se tornou o rito de passagem da sociedade civil de Taiwan
 - [Tsai Ing-wen](/pt/people/tsai-ing-wen) — A sucessora no governo, oponente no debate sobre o ECFA de 2010, integradora do campo da oposição após o Girassol
 - [Chen Shui-bian](/pt/people/chen-shui-bian-controversial-president) — Oponente na eleição para prefeito de Taipé em 1998, líder da alternância partidária de 2000
-- [Memes de Ma Ying-jeou](/society/馬英九迷因) — Chifre de veado, marmita, casa em Provence, aperto da morte, como 19 memes da internet se tornaram outra face de sua imagem pública
+- [Memes de Ma Ying-jeou](/pt/society/ma-ying-jeou-meme) — Chifre de veado, marmita, casa em Provence, aperto da morte, como 19 memes da internet se tornaram outra face de sua imagem pública
 - [Crise no Estreito de Taiwan e Desenvolvimento das Relações entre os Dois Lados do Estreito](/pt/history/taiwan-strait-crises-and-cross-strait-relations) — A posição do encontro Ma-Xi e do ECFA no longo arco das relações entre os dois lados do estreito
 
 ## Fontes das imagens

@@ -201,10 +201,10 @@ _Canal oficial TEDxTaipei, 2012: Stan Shih "O caminho do rei e a co-criação co
 
 **Leitura complementar**:
 
-- [Stan Shih](/people/施振榮) — Quem desenhou a curva do sorriso, voltou duas vezes para apagar incêndio na Acer, de padrinho da tecnologia a dedicado à filantropia social
-- [Empresa de Taiwan: Wistron](/economy/台灣企業：緯創資通) — O "irmão menor" OEM menos cotado na grande cisão, na era da IA escalou ao topo da curva do sorriso
-- [Empresa de Taiwan: ASUS](/economy/台灣企業：華碩) — O contraponto que só separou a Pegatron em 2008, trilhou outro caminho de cisão, hoje valor de mercado ultrapassa a Acer
-- [Computex: três grandes feiras internacionais de computador, duas acabaram, a que sobrou cresceu em Taipé](/technology/Computex) — O mesmo palco dos 30 anos de altos e baixos da Acer, também o palco principal anual da manufatura de Taiwan
+- [Stan Shih](/pt/people/stan-shih) — Quem desenhou a curva do sorriso, voltou duas vezes para apagar incêndio na Acer, de padrinho da tecnologia a dedicado à filantropia social
+- [Empresa de Taiwan: Wistron](/pt/economy/wistron-global-manufacturing-transformation-pioneer) — O "irmão menor" OEM menos cotado na grande cisão, na era da IA escalou ao topo da curva do sorriso
+- [Empresa de Taiwan: ASUS](/pt/economy/asus-computer) — O contraponto que só separou a Pegatron em 2008, trilhou outro caminho de cisão, hoje valor de mercado ultrapassa a Acer
+- [Computex: três grandes feiras internacionais de computador, duas acabaram, a que sobrou cresceu em Taipé](/pt/technology/computex) — O mesmo palco dos 30 anos de altos e baixos da Acer, também o palco principal anual da manufatura de Taiwan
 - [Transformação e upgrade da indústria de Taiwan](/pt/economy/industrial-transformation-from-manufacturing-to-innovation) — Da montagem no meio para as duas pontas, é o único caminho? O grande tema após a curva do sorriso
 
 ## Fontes das imagens

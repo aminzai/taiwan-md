@@ -261,7 +261,7 @@ Mas a forma já apareceu. Por trás de uma pessoa, uma frase e um mapa que respi
 
 ## Leituras complementares
 
-- [Wu Che-yu](/people/吳哲宇): criador do Taiwan.md, que também usa programação e ferramentas generativas para se aproximar de “algo capaz de crescer sozinho”
+- [Wu Che-yu](/pt/people/che-yu-wu): criador do Taiwan.md, que também usa programação e ferramentas generativas para se aproximar de “algo capaz de crescer sozinho”
 - [Comunidades de código aberto e g0v](/pt/technology/open-source-and-g0v): o contexto coletivo de “escrever programas para transformar a sociedade”, em contraste com o modelo indivíduo × agente de Migu
 - [O espírito do código aberto em Taiwan](/pt/technology/taiwan-open-source-spirit): do ativismo pelo teclado aos dados abertos, a cultura subjacente à tecnologia cívica taiwanesa
 - [Identidade digital e governo digital](/pt/technology/digital-id-and-digital-government): outra face da infraestrutura governamental de dados abertos

@@ -200,14 +200,14 @@ Da próxima vez que caminhar na Rua Yongkang, **erga a cabeça para ver aqueles 
 
 **Leitura complementar**:
 
-- [Taipé: três tempos numa cidade, 1738 Longshan Temple olha para o 101 de 2004](/geography/台北市) — panorama dos 12 distritos de Taipé, a Rua Yongkang no núcleo do «Taipé académico-cultural» do Distrito de Da'an
+- [Taipé: três tempos numa cidade, 1738 Longshan Temple olha para o 101 de 2004](/pt/geography/taipei-city) — panorama dos 12 distritos de Taipé, a Rua Yongkang no núcleo do «Taipé académico-cultural» do Distrito de Da'an
 - [Cultura de ruas antigas e bairros comerciais de Taiwan](/pt/culture/taiwan-historic-streets-and-commercial-districts) — catálogo principal de ruas antigas, Rua Yongkang em contraponto com Rua Dihua, Bopiliao, Rua Antiga de Anping
-- [Grupos étnicos (hoklo, hakka, indígenas, waishengren, novos residentes)](/culture/族群（閩南客家原住民外省新住民）) — narrativa da migração waishengren de 1949, Rua Yongkang e Vila 44 são dois modelos de assentamento waishengren
+- [Grupos étnicos (hoklo, hakka, indígenas, waishengren, novos residentes)](/pt/culture/ethnic-groups) — narrativa da migração waishengren de 1949, Rua Yongkang e Vila 44 são dois modelos de assentamento waishengren
 - [Cultura de massas de Taiwan](/pt/food/taiwanese-noodle-culture) — Yongkang Beef Noodles, Dongmen Dumpling House, xiaolongbao do Din Tai Fung e a relação com o mapa de massas waishengren do pós-guerra
 - [Culinária de vilas de dependentes de Taiwan](/pt/food/military-dependents-village-cuisine) — Rua Yongkang entrelaçada com Vila 44, Parque da Juventude, vilas de dependentes de Beitou
-- [Daitotei: 800 metros, três séculos, do Formosa Tea ao primeiro tiro do 228](/geography/大稻埕) — _sibling_ do mesmo lote 1 de bairros históricos, rua comercial do período Qing vs zona residencial de alto nível do período colonial, dois «momentos de formação de rua» em contraponto
+- [Daitotei: 800 metros, três séculos, do Formosa Tea ao primeiro tiro do 228](/pt/geography/dadaocheng) — _sibling_ do mesmo lote 1 de bairros históricos, rua comercial do período Qing vs zona residencial de alto nível do período colonial, dois «momentos de formação de rua» em contraponto
 - [Gongguan](/pt/geography/gongguan) — Rua Yongkang e Gongguan sustentam juntas o círculo de consumo de professores e alunos da NTU, do império universitário de 1928 ao eixo refeitório académico-estudantil de 2026
-- [Vila 44](/geography/四四南村) — vila de dependentes de arsenal de 1948, em contraponto com a Rua Yongkang/Rua Qingtian de dormitórios japoneses assumidos por waishengren, formam o contraste «vila de dependentes vs assunção»
+- [Vila 44](/pt/geography/44-south-village) — vila de dependentes de arsenal de 1948, em contraponto com a Rua Yongkang/Rua Qingtian de dormitórios japoneses assumidos por waishengren, formam o contraste «vila de dependentes vs assunção»
 
 ## Fontes das imagens
 

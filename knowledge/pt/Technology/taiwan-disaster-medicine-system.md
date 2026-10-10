@@ -199,7 +199,7 @@ Quando o próximo desastre chegar, o que salvará vidas não será o equipamento
 
 - [Lei Médica](/pt/society/medical-care-act) — A raiz legal da medicina de desastres está no Art. 1 da Lei Médica "distribuição razoável de recursos médicos" e nas normas de classificação institucional; o cenário de desastre deste artigo é a operação real da Lei Médica em condições extremas
 - [Controvérsia sobre medicamentos veterinários em Taiwan](/pt/society/taiwan-animal-drug-controversy) — Humanos têm sistema de emergência, 119, Seguro Saúde, DMAT; emergência veterinária precisa registrar até o oxigênio item a item. A disparidade de recursos entre os dois sistemas é um espelho da ordenação de valores desta ilha
-- [Pandemia e vacinas de COVID-19 em Taiwan](/society/台灣新冠疫情與疫苗) — As enfermarias dedicadas e a saturação das emergências em maio de 2021 foram o teste contínuo mais longo a que este sistema de medicina de desastres foi submetido
+- [Pandemia e vacinas de COVID-19 em Taiwan](/pt/society/taiwan-covid-pandemic-and-vaccines) — As enfermarias dedicadas e a saturação das emergências em maio de 2021 foram o teste contínuo mais longo a que este sistema de medicina de desastres foi submetido
 
 ---
 

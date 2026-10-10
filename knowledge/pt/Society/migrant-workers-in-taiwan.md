@@ -103,7 +103,7 @@ Como pode Taiwan, ao perseguir o desenvolvimento económico, passar a ver verdad
 
 **Leitura complementar**:
 
-- [Taiwan COVID-19 e vacinas](/society/台灣新冠疫情與疫苗) — O confinamento de migrantes em Miaoli, em junho de 2021, foi um momento em que estas condições de trabalho e habitação foram levadas ao limite pela pandemia
+- [Taiwan COVID-19 e vacinas](/pt/society/taiwan-covid-pandemic-and-vaccines) — O confinamento de migrantes em Miaoli, em junho de 2021, foi um momento em que estas condições de trabalho e habitação foram levadas ao limite pela pandemia
 - [Sistema de saúde pública e prevenção epidémica de Taiwan](/pt/society/taiwan-public-health-epidemic-response) — Contexto institucional da inclusão dos migrantes no sistema de saúde pública e médica
 
 ---

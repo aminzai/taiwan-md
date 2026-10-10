@@ -163,7 +163,7 @@ A segurança contra incêndios de Taiwan é, portanto, não apenas a história d
 
 ## Leitura Complementar
 
-- [Terremoto Jiji 21](/history/九二一集集地震) — Como o desastre mudou o sistema de prevenção de desastres e a memória coletiva de Taiwan.
+- [Terremoto Jiji 21](/pt/history/921-jiji-earthquake) — Como o desastre mudou o sistema de prevenção de desastres e a memória coletiva de Taiwan.
 - [Movimentos Sociais e Participação Cívica](/pt/society/social-movements-and-civic-participation) — Entender a participação pública em Taiwan através do serviço voluntário.
 - [Desenvolvimento Urbano e Disparidades Rurais de Taiwan](/pt/geography/taiwan-urban-development-and-rural-urban-divide) — Como as diferenças nos recursos locais afetam a resposta a desastres.
 

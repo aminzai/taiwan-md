@@ -125,10 +125,10 @@ Aquela passagem que quase a levou de volta a Taichung não desapareceu. Está se
 
 **Leitura complementar**:
 
-- [Chen Chien-chi](/people/陳建騏) — 'Ilha Perdida' (2008) foi a primeira produção pop de Chen Chien-chi e o local-chave onde se ergueu o som inicial de Lala Hsu
-- [Yoga Lin](/people/林宥嘉) — Também partido do _One Million Star_, outro caminho de campeão de concurso a produtor por conta própria
-- [Hebe Tien](/people/田馥甄) — Com Lala Hsu, figura central das vozes femininas mandarim dos anos 2010, a desmontar o sistema de ídolos para achar a sua voz
-- [Waa Wei](/people/魏如萱) — Rainha do Golden Melody da mesma geração, com Lala Hsu compõe a genealogia não standard das cantautoras de Taiwan
+- [Chen Chien-chi](/pt/people/chen-chien-chi-music-producer) — 'Ilha Perdida' (2008) foi a primeira produção pop de Chen Chien-chi e o local-chave onde se ergueu o som inicial de Lala Hsu
+- [Yoga Lin](/pt/people/yoga-lin) — Também partido do _One Million Star_, outro caminho de campeão de concurso a produtor por conta própria
+- [Hebe Tien](/pt/people/hebe-tien-singer) — Com Lala Hsu, figura central das vozes femininas mandarim dos anos 2010, a desmontar o sistema de ídolos para achar a sua voz
+- [Waa Wei](/pt/people/waa-wei-singer) — Rainha do Golden Melody da mesma geração, com Lala Hsu compõe a genealogia não standard das cantautoras de Taiwan
 - [Programas de variedades de Taiwan](/pt/culture/taiwan-variety-shows) — A partir do _One Million Star_ entender como os concursos de TV mudaram o pop mandarim dos anos 2000
 
 ## Referências

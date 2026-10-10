@@ -217,7 +217,7 @@ Ele nunca filmou os outros. Filmou a nós.
 
 Com a lógica mais fria de um engenheiro, filmou a solidão mais quente do coração humano — esse é o par de olhos que Edward Yang deixou para Taiwan, e para o mundo.
 
-**Leitura complementar**: [Cinema de Taiwan](/pt/art/taiwanese-cinema) (Yang é um dos dois porta-estandartes do Novo Cinema de Taiwan; aqui está o mapa de todo o movimento a que pertenceu), [Hou Hsiao-hsien](/pt/people/hou-hsiao-hsien) (a outra montanha ao lado de Yang, de _maji_ a afastado), [Ang Lee](/pt/people/ang-lee) (também levou o cinema de Taiwan ao palco mundial, por caminho radicalmente diferente), [Tsai Ming-liang](/pt/people/tsai-ming-liang) (pós-Novo Cinema, outra forma de dissecar a solidão urbana), [Guling Street](/geography/牯嶺街) (a rua real onde a faca caiu, a origem da epopeia de quatro horas).
+**Leitura complementar**: [Cinema de Taiwan](/pt/art/taiwanese-cinema) (Yang é um dos dois porta-estandartes do Novo Cinema de Taiwan; aqui está o mapa de todo o movimento a que pertenceu), [Hou Hsiao-hsien](/pt/people/hou-hsiao-hsien) (a outra montanha ao lado de Yang, de _maji_ a afastado), [Ang Lee](/pt/people/ang-lee) (também levou o cinema de Taiwan ao palco mundial, por caminho radicalmente diferente), [Tsai Ming-liang](/pt/people/tsai-ming-liang) (pós-Novo Cinema, outra forma de dissecar a solidão urbana), [Guling Street](/pt/geography/guling-street) (a rua real onde a faca caiu, a origem da epopeia de quatro horas).
 
 ## Fontes das imagens
 

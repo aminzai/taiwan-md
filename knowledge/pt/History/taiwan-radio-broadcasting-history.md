@@ -127,9 +127,9 @@ O que a história do rádio em Taiwan mais vale deixar não é a conclusão "o r
 
 ## Leituras complementares
 
-- [História do movimento feminista em Taiwan](/society/婦女新知) — Outra trajetória do controle institucional à fala pública
-- [História dos correios em Taiwan](/lifestyle/台灣郵政) — Como a infraestrutura de comunicação entrou no cotidiano local
-- [História das associações de agricultores em Taiwan](/history/台灣農會史) — História institucional de organizações rurais, finanças e janelas públicas locais
+- [História do movimento feminista em Taiwan](/pt/society/awakening-foundation) — Outra trajetória do controle institucional à fala pública
+- [História dos correios em Taiwan](/pt/lifestyle/taiwan-postal-service-history) — Como a infraestrutura de comunicação entrou no cotidiano local
+- [História das associações de agricultores em Taiwan](/pt/history/taiwan-farmers-association-history) — História institucional de organizações rurais, finanças e janelas públicas locais
 
 ## Referências
 

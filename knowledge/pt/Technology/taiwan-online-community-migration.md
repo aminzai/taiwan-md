@@ -157,11 +157,11 @@ Da próxima vez que alguém te perguntar "por que fazer backup das fotos", "por 
 ## Leituras complementares
 
 - [Wuming Xiaozhan — A juventude posta num servidor alheio que se desliga](/pt/culture/wretch)
-- [PTT — A cidade-estado que a rede acadêmica pariu](/technology/PTT批踢踢)
-- [Facebook em Taiwan](/technology/Facebook)
+- [PTT — A cidade-estado que a rede acadêmica pariu](/pt/technology/ptt-bulletin-board-system)
+- [Facebook em Taiwan](/pt/technology/facebook-in-taiwan)
 - [Threads em Taiwan — Threads e os 11 min 31 s](/pt/technology/threads-in-taiwan)
 - [Instagram em Taiwan](/pt/technology/instagram-in-taiwan)
-- [Miin — O refúgio do "vamos embora para o miin" de 2026](/technology/迷音Miin)
+- [Miin — O refúgio do "vamos embora para o miin" de 2026](/pt/technology/miin-music-app)
 
 ---
 

@@ -70,7 +70,7 @@ O Cao Xingcheng de hoje continua a ser o estratega que não joga pelas regras co
 **Leitura complementar**:
 
 - [Morris Chang](/pt/people/tsmc-morris-chang) — O outro lado da disputa pela originalidade da foundry; cada um tem a sua versão sobre «quem pensou primeiro neste modelo»
-- [Huang Chong-jen](/people/黃崇仁) — No final dos anos 90, a UMC tentou integrar a Powerchip no seu campo, forçando-o a ir pedir socorro a Morris Chang
+- [Huang Chong-jen](/pt/people/frank-huang-psmc) — No final dos anos 90, a UMC tentou integrar a Powerchip no seu campo, forçando-o a ir pedir socorro a Morris Chang
 - [Indústria de semicondutores](/pt/technology/taiwan-semiconductor-industry) — O vasto campo de batalha onde UMC e TSMC travaram o seu duelo de gigantes
 
 ---

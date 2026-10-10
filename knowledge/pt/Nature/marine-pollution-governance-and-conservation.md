@@ -583,7 +583,7 @@ O cerne da conservação marinha é a justiça intergeracional: as decisões de 
 
 **Leituras complementares**:
 
-- [Crise Climática e Transformação para o Zero Líquido em Taiwan](/nature/台灣氣候危機與淨零轉型) — Branqueamento de corais na saída de água da Usina Nuclear Sanmen 3, conflitos pesqueiros com energia eólica offshore, controvérsias de avaliação ambiental da Terceira Unidade de Conexão de Algas: como a transformação climática remodela o campo de batalha da governança marinha
+- [Crise Climática e Transformação para o Zero Líquido em Taiwan](/pt/nature/taiwan-climate-change-net-zero-transition) — Branqueamento de corais na saída de água da Usina Nuclear Sanmen 3, conflitos pesqueiros com energia eólica offshore, controvérsias de avaliação ambiental da Terceira Unidade de Conexão de Algas: como a transformação climática remodela o campo de batalha da governança marinha
 
 ## Referências
 

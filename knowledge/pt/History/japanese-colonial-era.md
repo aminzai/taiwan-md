@@ -83,4 +83,4 @@ A interpretação histórica do período japonês mantém debate contínuo na ac
 
 - [Guerra de 1895 / Resistência de Yiwei](/pt/history/1895-taiwan-resistance-war) — Ponto de partida do período japonês: desembarque do exército japonês em 1895 e a resistência da República de Formosa
 - [Período Qing](/pt/history/qing-dynasty-rule) — História de Taiwan antes do domínio japonês
-- [Mona Rudao](/people/莫那·魯道) — O Incidente de Musha sob a política de "pacificação dos aborígenes", o mundo de resistência de um chefe Seediq
+- [Mona Rudao](/pt/people/mona-rudao) — O Incidente de Musha sob a política de "pacificação dos aborígenes", o mundo de resistência de um chefe Seediq

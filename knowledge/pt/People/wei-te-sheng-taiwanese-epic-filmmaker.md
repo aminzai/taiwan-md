@@ -86,7 +86,7 @@ Não há atalhos no caminho do cinema. Do curso técnico de Yongkang à competi�
 
 Nasceu em 1969 em Yongkang, Tainan; em 2000 usou 500 mil para filmar 5 minutos e não achou financiamento; em 2008, 530 milhões de bilheteria; em 2011, competição principal de Veneza; essa linha é acúmulo de resistência, nada a ver com milagre.
 
-**Leitura complementar**: [Mona Rudao: o herói antijaponês gravado na moeda de vinte dólares](/people/莫那·魯道) (protótipo do protagonista de "Warriors of the Rainbow: Seediq Bale", e como o filme reconfigura a memória) ｜ [Wei Te-sheng — Wikipédia](https://zh.wikipedia.org/zh-tw/魏德聖) ｜ [Base de Dados de Cinema de Taiwan: Wei Te-sheng](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12549) ｜ [Golden Horse oficial](https://www.goldenhorse.org.tw/)
+**Leitura complementar**: [Mona Rudao: o herói antijaponês gravado na moeda de vinte dólares](/pt/people/mona-rudao) (protótipo do protagonista de "Warriors of the Rainbow: Seediq Bale", e como o filme reconfigura a memória) ｜ [Wei Te-sheng — Wikipédia](https://zh.wikipedia.org/zh-tw/魏德聖) ｜ [Base de Dados de Cinema de Taiwan: Wei Te-sheng](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12549) ｜ [Golden Horse oficial](https://www.goldenhorse.org.tw/)
 
 ## Referências
 

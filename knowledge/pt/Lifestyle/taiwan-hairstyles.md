@@ -112,7 +112,7 @@ Os tipos de espaços de cabelos em si são um reflexo social: dos barbeiros trad
 
 ## Leituras Adicionais
 
-- [Cultura de Motocicletas em Taiwan](/lifestyle/台灣機車文化) — O cabelo de Ashin combinado com camiseta ajustável e grande B (Yamaha BWS) é o tríplice clássico da rua taiwanesa
+- [Cultura de Motocicletas em Taiwan](/pt/lifestyle/taiwan-scooter-culture) — O cabelo de Ashin combinado com camiseta ajustável e grande B (Yamaha BWS) é o tríplice clássico da rua taiwanesa
 - [Cultura de Lojas de Comércio em Taiwan](/pt/lifestyle/convenience-store-culture) — A lógica de localização dos cortes rápidos de 100 taiwaneses e as lojas de varejo densas são contextualizadas
 
 ## Referências

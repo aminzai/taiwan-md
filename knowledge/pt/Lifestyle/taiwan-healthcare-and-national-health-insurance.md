@@ -189,8 +189,8 @@ _Edifício principal do Hospital da NTU. Fundado em 1895, é o maior centro méd
 - [Lei de Cuidados Médicos](/pt/society/medical-care-act) — A lei do seguro saúde rege os «benefícios», a lei de cuidados médicos rege as «instituições»; as duas leis constituem os trilhos duplos da face de benefícios e da face institucional da governança médica de Taiwan
 - [Confissão de profissionais sobre a evolução das duas leis de medicina regenerativa de Taiwan](/pt/society/taiwan-regenerative-medicine-laws) — Fora das fronteiras dos benefícios do seguro saúde, as duas leis de medicina regenerativa aprovadas em 2024 são outro trilho de governança fora do SOP do seguro saúde
 - [Controvérsia de medicamentos veterinários em Taiwan](/pt/society/taiwan-animal-drug-controversy) — O seguro saúde cobre pessoas, não animais; a controvérsia de medicamentos para pets é o grupo de controle do sistema de seguro saúde
-- [Sistema de medicina de desastre de Taiwan](/technology/台灣災難醫療體系) — O seguro saúde sustenta a medicina do dia a dia, o sistema de medicina de desastre sustenta os tempos de emergência; os dois sistemas co-constroem a face normal e a face de emergência da governança de saúde pública de Taiwan
-- [Pandemia de COVID-19 e vacinas em Taiwan](/society/台灣新冠疫情與疫苗) — Aquele cartão de seguro saúde em 2020 foi usado para o racionamento de máscaras com nome real, montado em duas semanas; a mesma base de dados também fez a investigação epidemiológica e o agendamento de vacinas funcionarem
+- [Sistema de medicina de desastre de Taiwan](/pt/technology/taiwan-disaster-medicine-system) — O seguro saúde sustenta a medicina do dia a dia, o sistema de medicina de desastre sustenta os tempos de emergência; os dois sistemas co-constroem a face normal e a face de emergência da governança de saúde pública de Taiwan
+- [Pandemia de COVID-19 e vacinas em Taiwan](/pt/society/taiwan-covid-pandemic-and-vaccines) — Aquele cartão de seguro saúde em 2020 foi usado para o racionamento de máscaras com nome real, montado em duas semanas; a mesma base de dados também fez a investigação epidemiológica e o agendamento de vacinas funcionarem
 
 ## Dados públicos
 

@@ -100,9 +100,9 @@ Quatorze anos, três pessoas, da Zhongzheng até hoje. Dizem que não pregam, e 
 **Leitura complementar**:
 
 - [Música independente de Taiwan (台灣獨立音樂)](/pt/music/indie-music-scene) — Da Natural Roll (自然捲) a No Party for Cao Dong (草東沒有派對) ao pós-hardcore do Fish Stick, a linha do tempo evolutiva da música independente de Taiwan
-- [No Party for Cao Dong (草東沒有派對)](/people/草東沒有派對) — Também formados por colegas de colégio de Taipé, contraponto de pós-rock com dois prêmios Golden Melody de Melhor Banda
-- [Bad Special (壞特)](/people/壞特) — Músico independente taiwanês da mesma época, caminho radicalmente diferente pelo R&B bedroom-pop
-- [Constant Change (康士坦的變化球)](/people/康士坦的變化球) — Cena de rock independente de Taipé, referência da linha narrativa vocal
+- [No Party for Cao Dong (草東沒有派對)](/pt/people/no-party-for-cao-dong) — Também formados por colegas de colégio de Taipé, contraponto de pós-rock com dois prêmios Golden Melody de Melhor Banda
+- [Bad Special (壞特)](/pt/people/huai-te-indie-singer) — Músico independente taiwanês da mesma época, caminho radicalmente diferente pelo R&B bedroom-pop
+- [Constant Change (康士坦的變化球)](/pt/people/constant-and-change-band) — Cena de rock independente de Taipé, referência da linha narrativa vocal
 
 ## Links externos
 

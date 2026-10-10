@@ -186,7 +186,7 @@ Fonte: Dados estatísticos Eslite Life 2024
 - [Estética Urbana Onde o Antigo e o Novo se Entrelaçam: Movimento de Preservação de Dadaocheng e Dihua Street](/pt/geography/dadaocheng)
 - [História do Cinema de Taiwan: Do Realismo Íntegro ao Novo Ondina Digital](/pt/art/taiwanese-cinema)
 - [Reporter - A Batalha de Sobrevivência das Livrarias Físicas: Reorganização do Mapa Cultural Após o Apagão da Eslite](https://www.twreporter.org/tag/574e98b79b5c2c10007f3747)
-- [Música Pop de Taiwan: Do Canto Proibido ao Centro Criativo da Ásia](/music/台灣流行音樂)
+- [Música Pop de Taiwan: Do Canto Proibido ao Centro Criativo da Ásia](/pt/music/golden-melodies-legacy-taiwan-pop-music)
 
 ## Referências
 

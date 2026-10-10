@@ -208,12 +208,12 @@ A próxima álbum será em que língua, que tema, ninguém sabe agora. Mas pode 
 **Leitura complementar**:
 
 - [Waa Wei](/pt/people/waa-wei-singer) — outra cantora taiwanesa da mesma geração, via distinta de «auto-definição pela característica vocal» (voz de boneca da Waa Wei × taiwanês honesto de Enno Cheng, dois mecanismos diferentes de auto-identidade)
-- [A-Bao](/people/阿爆) — igualmente «ruptura com língua não maioritária a levar prémios principais dos Golden Melody» (álbum do ano em paiwan 2020 da A-Bao × Melhor Taiwanês 2023 de Enno Cheng, dois marcos temporais da relação língua-Golden Melody)
-- [Chen Chien-chi](/people/陳建騏) — produtor pop mandarim e a sua defesa sistemática contra «vozes não padrão»; Enno Cheng usa a não-padronização da língua, A-Bao a não-hegemonia da língua indígena, Chen Chien-chi a voz de boneca — três formas de «alargamento das fronteiras da voz»
+- [A-Bao](/pt/people/aljenljeng-tjaluvie-abao) — igualmente «ruptura com língua não maioritária a levar prémios principais dos Golden Melody» (álbum do ano em paiwan 2020 da A-Bao × Melhor Taiwanês 2023 de Enno Cheng, dois marcos temporais da relação língua-Golden Melody)
+- [Chen Chien-chi](/pt/people/chen-chien-chi-music-producer) — produtor pop mandarim e a sua defesa sistemática contra «vozes não padrão»; Enno Cheng usa a não-padronização da língua, A-Bao a não-hegemonia da língua indígena, Chen Chien-chi a voz de boneca — três formas de «alargamento das fronteiras da voz»
 - [Golden Melody Awards](/pt/music/pop-music-and-golden-melody-awards) — significado estrutural dos prémios de taiwanês nos Golden Melody 34 de 2023
-- [Música popular taiwanesa](/music/台灣流行音樂) — espectro evolutivo da criação taiwanesa de «resistência local» a «ferramenta contemporânea»
+- [Música popular taiwanesa](/pt/music/golden-melodies-legacy-taiwan-pop-music) — espectro evolutivo da criação taiwanesa de «resistência local» a «ferramenta contemporânea»
 - [Música independente taiwanesa](/pt/music/indie-music-scene) — identidade de músico independente de Enno Cheng da época Lady Zero a _Mercury Retrograde_
-- [Yoga Lin](/people/林宥嘉) — caso de contraste da mesma geração que sai da posição de ídolo pop mandarim e se torna produtor próprio (Enno Cheng usa língua estranha, Yoga Lin usa identidade de auto-produtor, duas vias de «libertar-se de ser definido»)
+- [Yoga Lin](/pt/people/yoga-lin) — caso de contraste da mesma geração que sai da posição de ídolo pop mandarim e se torna produtor próprio (Enno Cheng usa língua estranha, Yoga Lin usa identidade de auto-produtor, duas vias de «libertar-se de ser definido»)
 
 ## Referências
 

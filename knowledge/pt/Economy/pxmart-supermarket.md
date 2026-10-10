@@ -65,7 +65,7 @@ Lin Min-hsiung já disse que o PX Mart é o "centro de bem-estar dos taiwaneses"
 - **[Economia de entrega de Taiwan](/economy/台灣外送經濟)** — Como a entrega em uma hora do PX Mart se espreme no mercado foodpanda / Uber Eats
 - **[Pagamento móvel de Taiwan](/pt/technology/taiwan-mobile-payment)** — Do PXPay Plus e outras ferramentas, aceitação por comerciantes ao respaldo em dinheiro, entender por que普及 e 通用 são diferentes
 - **[História da publicidade em Taiwan](/pt/culture/taiwan-advertising-history)** — A Ogilvy por trás da "estética econômica" do PX Mart, e a história centenária da publicidade em Taiwan, do monopólio da atenção ao marketing emocional
-- **[Empresa de Taiwan: Uni-President Enterprises](/economy/台灣企業：統一企業)** — Uni-President compra Carrefour, PX Mart compra RT-Mart, a outra metade da história da consolidação dos dois gigantes do varejo de Taiwan
+- **[Empresa de Taiwan: Uni-President Enterprises](/pt/economy/taiwan-enterprise-uni-president)** — Uni-President compra Carrefour, PX Mart compra RT-Mart, a outra metade da história da consolidação dos dois gigantes do varejo de Taiwan
 
 ## Referências
 

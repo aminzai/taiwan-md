@@ -96,8 +96,8 @@ Na próxima vez que seu celular receber um alerta de chuva intensa, lembre-se: �
 
 **Leituras adicionais**
 
-- [Tempestades](/nature/颱風) — Juntamente com a Meiyu, outra estação sazonal de frentes que forma as duas maiores fontes de água da Taiwan, com a mesma dualidade de "abastecimento vs desastre" que a Meiyu
-- [Crise climática e transição para neutralidade carbônica na Taiwan](/nature/台灣氣候危機與淨零轉型) — Como a "chuva de primavera que não vem" e a concentração da Meiyu estão redefinindo os riscos de recursos hídricos e a pressão pela transição energética na Taiwan
+- [Tempestades](/pt/nature/typhoons-in-taiwan) — Juntamente com a Meiyu, outra estação sazonal de frentes que forma as duas maiores fontes de água da Taiwan, com a mesma dualidade de "abastecimento vs desastre" que a Meiyu
+- [Crise climática e transição para neutralidade carbônica na Taiwan](/pt/nature/taiwan-climate-change-net-zero-transition) — Como a "chuva de primavera que não vem" e a concentração da Meiyu estão redefinindo os riscos de recursos hídricos e a pressão pela transição energética na Taiwan
 
 ## Referências
 

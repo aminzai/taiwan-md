@@ -84,10 +84,10 @@ A Prisão da Ilha Verde, esta ilha solitária no Pacífico, carrega a memória m
 
 **Para continuar lendo**:
 
-- [Museu Nacional de Direitos Humanos](/history/國家人權博物館) — A instituição estatal à qual pertence o Parque da Ilha Verde, o processo de institucionalização desde a Divisão de Treinamento e Reorientação para a Nova Vida até o museu
+- [Museu Nacional de Direitos Humanos](/pt/history/national-human-rights-museum) — A instituição estatal à qual pertence o Parque da Ilha Verde, o processo de institucionalização desde a Divisão de Treinamento e Reorientação para a Nova Vida até o museu
 - [Terror Branco em Taiwan](/pt/history/taiwan-white-terror) — O panorama completo dos casos políticos dos 38 anos de lei marcial; a Ilha Verde foi o centro de detenção e transformação ideológica
 - [Período de Lei Marcial](/pt/history/martial-law-era) — O recipiente legal de 1949 a 1987
-- [Justiça de Transição em Taiwan](/history/台灣轉型正義) — A obra inacabada de revogação de sentenças e responsabilização dos culpados
+- [Justiça de Transição em Taiwan](/pt/history/taiwan-transitional-justice) — A obra inacabada de revogação de sentenças e responsabilização dos culpados
 
 ## Fontes das imagens
 

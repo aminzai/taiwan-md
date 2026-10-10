@@ -171,7 +171,7 @@ _Lim Giong. Do rei do rock taiwanês de *Siga em Frente* a compositor que deixou
 - [Lim Giong](/pt/people/lim-giong) — Do movimento Nova Canção Taiwanesa à música de cinema, o percurso musical completo de Lim Giong
 - [Hou Hsiao-hsien](/pt/people/hou-hsiao-hsien) — O realizador que fez Lim Giong virar compositor, figura central do Novo Cinema de Taiwan
 - [Cinema de Taiwan](/pt/art/taiwanese-cinema) — Do Novo Cinema ao renascimento do cinema nacional, o palco onde a música para imagem acontece
-- [Red Candle Games](/technology/赤燭遊戲) — A equipa por trás de _Detention_ e _Devotion_, como a música de jogos tece a voz de uma era
+- [Red Candle Games](/pt/technology/red-candle-games) — A equipa por trás de _Detention_ e _Devotion_, como a música de jogos tece a voz de uma era
 - [Indústria de Jogos de Taiwan e Entretenimento Digital](/pt/technology/taiwan-gaming-industry) — Rayark, SIGONO e o contexto industrial da ascensão da música de jogos de Taiwan
 
 ## Fontes das imagens

@@ -257,7 +257,7 @@ Aquela janela do DOS fechou-se há trinta anos. Mas aquela tarde continua lá.
 - [Espírito Open Source de Taiwan](/pt/technology/taiwan-open-source-spirit) — Outra história de «fazer com paixão coisas que superam a escala» em Taiwan
 - [Sem Entrar na Cave Não Se Dorme](/pt/technology/into-the-cellar-taiwan-game-podcast) — A comunidade de jogadores da mesma época a crescer do BBS para plataforma de 6 milhões de membros
 - [Os Momentos de Loucura dos Jogadores de Taiwan](/pt/technology/taiwan-gamers-wildest-moments) — Após as Espadas Gêmeas, a história coletiva de loucura que os jogadores de Taiwan continuam a escrever
-- [Rayark Games](/technology/雷亞遊戲) — Tal como a Softstar, «fundada na estética» mas trilhou um caminho completamente diferente, a nova geração de empresas de jogos de Taiwan
+- [Rayark Games](/pt/technology/rayark-games) — Tal como a Softstar, «fundada na estética» mas trilhou um caminho completamente diferente, a nova geração de empresas de jogos de Taiwan
 
 ---
 

@@ -193,9 +193,9 @@ No último capítulo da coletânea de 1989, "Não vemos mais a escuridão", ele 
 **Leitura complementar**:
 
 - [Chen Yingzhen](/pt/people/chen-yingzhen) — Escreveu o longo prefácio "O poeta da colônia interna de Taiwan" para a coletânea de Monaneng em 1989, núcleo do círculo literário esquerdista pró-unificação
-- [História e movimento de retificação de nomes dos povos indígenas de Taiwan](/history/台灣原住民族歷史與正名運動) — História completa do movimento desde a Associação de Direitos Indígenas de 1984 até o acampamento noturno em Ketagalan em 2017, incluindo o contexto do movimento "Devolvam nossas terras" de 1988
+- [História e movimento de retificação de nomes dos povos indígenas de Taiwan](/pt/history/indigenous-peoples-history-and-naming-movement) — História completa do movimento desde a Associação de Direitos Indígenas de 1984 até o acampamento noturno em Ketagalan em 2017, incluindo o contexto do movimento "Devolvam nossas terras" de 1988
 - [Era pré-histórica e povos indígenas](/pt/history/prehistoric-era-and-indigenous-peoples) — Contexto de longa duração dos povos indígenas de Taiwan nesta ilha
-- [Incidente 228](/history/二二八事件) — Origem das narrativas unificação/independência do pós-guerra em Taiwan, pano de fundo histórico da posição esquerdista pró-unificação de Monaneng
+- [Incidente 228](/pt/history/228-incident) — Origem das narrativas unificação/independência do pós-guerra em Taiwan, pano de fundo histórico da posição esquerdista pró-unificação de Monaneng
 - [Transição democrática de Taiwan](/pt/history/taiwan-democratization) — Contexto do fim da lei marcial nos anos 1980, momento político em que se insere a poesia de Monaneng
 
 ## Fontes das imagens

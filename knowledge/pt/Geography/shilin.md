@@ -230,11 +230,11 @@ Da próxima vez que você estiver às 19h30 na entrada do Mercado Noturno de Shi
 
 - [Taipé](/pt/geography/taipei-city) — panorama dos 12 distritos; Shilin antes de incorporar-se a Taipé em 1968 era sob Administração de Yangmingshan
 - [Cultura de velhas ruas e distritos comerciais de Taiwan](/pt/culture/taiwan-historic-streets-and-commercial-districts) — arquivo principal de cultura de velhas ruas; a Nova Rua de Shilin é das poucas em Taiwan que remonta ao plano de 1860 (ano gengshen)
-- [Mengjia](/geography/艋舺) — sibling do mesmo lote 1; o Confronto Top-Down de 1853 é prelúdio das lutas Zhangzhou-Quanzhou de 1859; outro canto do triângulo das três cidades-mercado
+- [Mengjia](/pt/geography/bangka) — sibling do mesmo lote 1; o Confronto Top-Down de 1853 é prelúdio das lutas Zhangzhou-Quanzhou de 1859; outro canto do triângulo das três cidades-mercado
 - [Dadaocheng](/pt/geography/dadaocheng) — sibling do mesmo lote 1; 1853 tong'an refugiaram-se aqui e abriram porto comercial; mesma cadeia estrutural dos zhangzhou de Shilin fugindo da velha para a nova rua
-- [Ximending](/geography/西門町) — sibling do mesmo lote 1; 1896 distrito de entretenimento japonês vs. 1909 mercado civil japonês de Shilin; duas estruturas materiais deixadas por japoneses
+- [Ximending](/pt/geography/ximending) — sibling do mesmo lote 1; 1896 distrito de entretenimento japonês vs. 1909 mercado civil japonês de Shilin; duas estruturas materiais deixadas por japoneses
 - [Religião e cultura de templos em Taiwan](/pt/culture/taiwan-religion-and-temple-culture) — Cixian é nó importante da fé em Mazu no norte de Taipé, junto com Cidade Oculta Xiahai de Dadaocheng e Longshan de Mengjia
-- [Incidente 228](/history/二二八事件) — 1947, após 228, população de fora da província affluiu a Shilin, Rua Wenlin alargada, Residência Oficial criada; contexto da época
+- [Incidente 228](/pt/history/228-incident) — 1947, após 228, população de fora da província affluiu a Shilin, Rua Wenlin alargada, Residência Oficial criada; contexto da época
 - [Era Qing](/pt/history/qing-dynasty-rule) — 1796-1895 colonização han, lutas Zhangzhou-Quanzhou, planejamento da nova rua por Pan Yongqing; pano de fundo de cem anos do Qing
 - [Dalongdong](/pt/geography/dalongdong) — 1853, tong'an derrotados no Confronto Top-Down recuaram para centro defensivo; junto com lutas Zhangzhou-Quanzhou de 1859 em Shilin, duas paisagens de lutas faccionais no norte de Taiwan no Qing
 

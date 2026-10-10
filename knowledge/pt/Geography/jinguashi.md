@@ -168,7 +168,7 @@ Voltemos àquele novembro de 1942. Aqueles 523 prisioneiros estrangeiros que ent
 
 Debaixo de cada foto bonita que você tira em Jinguashi, há uma camada de vida empilhada. A beleza desta montanha é real, a ferida também é real, e são a mesma coisa. Na próxima vez, além de fotografar aquela luz alaranjada, talvez você possa caminhar até a parede dos nomes. Nomes que você reconhece são poucos, mas cada um já foi uma vida que esta montanha carregou.
 
-**Leitura complementar**: [Período de domínio japonês em Taiwan](/history/日治時期)｜[Keelung](/pt/geography/keelung-city)｜[Fé em Guan Sheng Di Jun](/pt/culture/guan-sheng-di-jun-belief)｜[Milagre econômico](/pt/economy/economic-miracle) (o fio completo da gestão estatal da Taiwan Metal Mining em Jinguashi pós-guerra)｜[Alishan: a floresta imperial e a montanha de Kao Yi-sheng](/pt/history/alishan-empire-forest-and-uongu-yatauyungana)、[História do desenvolvimento florestal de Taiwan](/pt/history/taiwan-forestry-history) (capítulo irmão do mesmo sistema colonial japonês de extração de recursos)
+**Leitura complementar**: [Período de domínio japonês em Taiwan](/pt/history/japanese-colonial-era)｜[Keelung](/pt/geography/keelung-city)｜[Fé em Guan Sheng Di Jun](/pt/culture/guan-sheng-di-jun-belief)｜[Milagre econômico](/pt/economy/economic-miracle) (o fio completo da gestão estatal da Taiwan Metal Mining em Jinguashi pós-guerra)｜[Alishan: a floresta imperial e a montanha de Kao Yi-sheng](/pt/history/alishan-empire-forest-and-uongu-yatauyungana)、[História do desenvolvimento florestal de Taiwan](/pt/history/taiwan-forestry-history) (capítulo irmão do mesmo sistema colonial japonês de extração de recursos)
 
 ## Créditos das imagens
 

@@ -149,7 +149,7 @@ A venda total da meia-noite de 22 de agosto de 2021, vista do resultado, é uma 
 ## Leitura complementar
 
 - **[FAB DAO e Projeto Cem Picos](/pt/art/fab-dao)** — Projeto de NFT filantrópico de seis artistas no qual Wang Hsin-jen participa, entender a ecologia completa do Cem Picos
-- **[Wu Che-yu](/people/吳哲宇)** — Artista do grupo internacional do Cem Picos, cofundador da FAB DAO, do Art Blocks Project Electriz à Bienal de Veneza
+- **[Wu Che-yu](/pt/people/che-yu-wu)** — Artista do grupo internacional do Cem Picos, cofundador da FAB DAO, do Art Blocks Project Electriz à Bienal de Veneza
 - **[Arte de novos mídia de Taiwan](/pt/art/taiwan-new-media-art)** — De Huang Xin-chien, Yuan Guang-ming a Wang Hsin-jen, genealogia completa de quarenta anos da arte de novos mídia de Taiwan
 - **[Arte contemporânea de Taiwan](/pt/art/contemporary-art)** — Posicionamento e coordenadas da arte generativa na história da arte contemporânea de Taiwan
 - **[Wang Lian-cheng (Papai Camarão)](/pt/art/wang-lien-cheng-artist)** — Artista de som e instalação do mesmo grupo do Cem Picos, vencedor do Lumen Prize 2017 3D/Sculpture Award (obra «Reading Plan»)

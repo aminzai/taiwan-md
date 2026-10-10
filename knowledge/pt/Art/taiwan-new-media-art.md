@@ -151,14 +151,14 @@ Quando o nome de Yang Yu-xian apareceu na lista de júri do Festival Ars Electro
 - [Comunidades de Código Aberto e g0v](/pt/technology/open-source-and-g0v) — Outro lado da cultura tecnológica de Taiwan, a intersecção do espírito de código aberto com o círculo artístico
 - [História da Indústria de TV de Taiwan](/pt/technology/taiwan-television-industry-history) — A evolução da mídia da radiodifusão à OTT, o contexto institucional da tecnologia de imagem
 - [justfont e o Desenvolvimento de Fontes de Taiwan](/pt/technology/justfont-and-taiwan-typography) — Outro grupo de criadores na fronteira entre design, tecnologia e identidade cultural: aqueles que nutriram letra por letra as fontes de Taiwan
-- [Xie De-qing](/art/謝德慶) — A mídia corporal antes da nova mídia, o pioneiro da arte de performance de Taiwan e mestre internacional dos "Cinco Anos de Comportamento"
+- [Xie De-qing](/pt/art/tehching-hsieh-performance-artist) — A mídia corporal antes da nova mídia, o pioneiro da arte de performance de Taiwan e mestre internacional dos "Cinco Anos de Comportamento"
 - [Wang Xin-ren (A-Luan)](/pt/art/wang-hsin-jen-artist) — O primeiro artista generativo de Taiwan a subir na Art Blocks, figura central do projeto Baiyue da akaSwap e FAB DAO
 - [Wang Lian-sheng (Pai do Camarão)](/pt/art/wang-lien-cheng-artist) — Vencedor do Primeiro Prêmio de Escultura do Prêmio Lumiere de 2017, membro do i/O Lab e curador do Festival do Som Perdido, representante da arte de instalação sonora de Taiwan
-- [Wu Zhe-yu](/people/吳哲宇) — Artista de nova-mídia que se autodenomina "Relojoeiro Antigo", iniciador do projeto de código aberto Personal Structures × Art Basel Miami × Taiwan.md da Bienal de Veneza
-- [The Reporter: Dez Anos para Salvar o Jornalismo Investigativo de Ser uma Atividade Comercial para Bem Público](/society/報導者) — Outro caso de DNA de Taiwan impulsionado por comunidades civis e crescendo de forma interdisciplinar, mostrando outra via de construção de bem público pela sociedade civil após 2015
+- [Wu Zhe-yu](/pt/people/che-yu-wu) — Artista de nova-mídia que se autodenomina "Relojoeiro Antigo", iniciador do projeto de código aberto Personal Structures × Art Basel Miami × Taiwan.md da Bienal de Veneza
+- [The Reporter: Dez Anos para Salvar o Jornalismo Investigativo de Ser uma Atividade Comercial para Bem Público](/pt/society/the-reporter-investigative-journalism) — Outro caso de DNA de Taiwan impulsionado por comunidades civis e crescendo de forma interdisciplinar, mostrando outra via de construção de bem público pela sociedade civil após 2015
 - [justfont e o Desenvolvimento de Fontes de Taiwan: Uma Breve História Tipográfica de 25 Anos da Wan Tong a 76 Minutos de Jin Xuan](/pt/technology/justfont-and-taiwan-typography) — Fontes como infraestrutura cultural, outra dimensão que, assim como a arte nova-mídia, se preocupa com a subjetividade visual de Taiwan
-- [Cabos Submarinos: Visíveis do Topo do Escudo de Silício, Invisíveis na Veia da Vida](/technology/海底電纜) — 99% das exposições e colaborações curatoriais de arte nova-mídia transnacionais passam por cabos submarinos; este artigo revela esta infraestrutura cultural digital invisível
-- [Nie Yong-zhen](/people/聶永真) — Primeiro membro da Aliança Internacional de Design Gráfico AGI de Taiwan, posição curatorial do Studio Yongzhen Jizhi e da cultura visual contemporânea de Taiwan
+- [Cabos Submarinos: Visíveis do Topo do Escudo de Silício, Invisíveis na Veia da Vida](/pt/technology/submarine-cables-taiwan-lifeline) — 99% das exposições e colaborações curatoriais de arte nova-mídia transnacionais passam por cabos submarinos; este artigo revela esta infraestrutura cultural digital invisível
+- [Nie Yong-zhen](/pt/people/nieh-yung-jen) — Primeiro membro da Aliança Internacional de Design Gráfico AGI de Taiwan, posição curatorial do Studio Yongzhen Jizhi e da cultura visual contemporânea de Taiwan
 
 ## Referências
 

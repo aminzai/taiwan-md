@@ -286,12 +286,12 @@ Isso já é uma feitiçaria.
 
 **Leitura complementar**:
 
-- [Taipé](/geography/台北市) — panorama dos 12 distritos, posição de Beitou e relação com outros bairros históricos de Taipé
+- [Taipé](/pt/geography/taipei-city) — panorama dos 12 distritos, posição de Beitou e relação com outros bairros históricos de Taipé
 - [Mapa cultural das 16 etnias indígenas de Taiwan](/pt/culture/indigenous-peoples-16-tribes-cultural-map) — distribuição dos Ketagalan e outros grupos Pingpu em Taiwan
-- [Dadaocheng](/geography/大稻埕) — bairro histórico coetâneo, outro centro comercial chave de Taipé após abertura do porto em 1860
-- [Monga (艋舺)](/geography/艋舺) — ponto de partida da prosperidade de Taipé no Qing ("uma prefeitura, duas cervas, três Monga"), relação com Beitou
-- [Ximending](/geography/西門町) — distrito de entretenimento planejado pelos japoneses em 1896, paralelo ao Tengu-an de Hirata Gen'go em Beitou no mesmo ano
-- [Boulevard Zhongshan Norte](/geography/中山北路條通) — avenida cerimonial de 1898 para o Santuário de Yuanshan; pós-guerra, izakayas japoneses após rompimento 1972 e abolição de Beitou em 1979 são dois ramos da geografia da indústria especial de Taipé pós-guerra
+- [Dadaocheng](/pt/geography/dadaocheng) — bairro histórico coetâneo, outro centro comercial chave de Taipé após abertura do porto em 1860
+- [Monga (艋舺)](/pt/geography/bangka) — ponto de partida da prosperidade de Taipé no Qing ("uma prefeitura, duas cervas, três Monga"), relação com Beitou
+- [Ximending](/pt/geography/ximending) — distrito de entretenimento planejado pelos japoneses em 1896, paralelo ao Tengu-an de Hirata Gen'go em Beitou no mesmo ano
+- [Boulevard Zhongshan Norte](/pt/geography/zhongshan-north-road-tiaotong) — avenida cerimonial de 1898 para o Santuário de Yuanshan; pós-guerra, izakayas japoneses após rompimento 1972 e abolição de Beitou em 1979 são dois ramos da geografia da indústria especial de Taipé pós-guerra
 
 ## Fontes das imagens
 

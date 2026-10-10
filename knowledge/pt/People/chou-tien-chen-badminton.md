@@ -110,10 +110,10 @@ Não gere página de fãs e mal usa redes sociais. [^1] Para alguém que foi nú
 **Leitura complementar**:
 
 - [Tai Tzu-ying](/pt/people/tai-tzu-ying) — A número um mundial de badminton da mesma geração de Taiwan, "irmã mais velha" que partilha com Chou Tien-chen o mesmo treinador de iniciação
-- [Lee Yang](/people/李洋) — Do ouro olímpico no badminton a primeiro ministro do Desporto de Taiwan, a carreira de um atleta taiwanês
+- [Lee Yang](/pt/people/lee-yang-badminton) — Do ouro olímpico no badminton a primeiro ministro do Desporto de Taiwan, a carreira de um atleta taiwanês
 - [Kuo Hsing-chun](/pt/people/kuo-hsing-chun-olympic-weightlifting-champion) — Outra atleta taiwanesa forjada por lesões e adversidade, ouro olímpico no halterofilismo
 - [Jeremy Lin](/pt/people/jeremy-lin) — Outro rosto de Taiwan que reescreveu o imaginário sobre atletas asiáticos com uma trajetória fora do comum
-- [Taipé Chinesa](/society/中華台北) — O nome "Chinese Taipei" sob o qual Chou Tien-chen compete, e o seu contexto político internacional
+- [Taipé Chinesa](/pt/society/chinese-taipei) — O nome "Chinese Taipei" sob o qual Chou Tien-chen compete, e o seu contexto político internacional
 
 ## Fontes das imagens
 

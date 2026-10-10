@@ -216,7 +216,7 @@ Se um dia a visão de história da ilha de Taiwan se tornar o enquadramento hist
 - [Três estrangeiros veem o Yiwei](/pt/history/three-foreigners-witness-1895-taiwan) — Fontes históricas de 1895 de Davidson, Endo Makoto, Hosokawa Toru; o NMTH publicou três volumes da coleção Yiwei contendo-os
 - [A Guerra do Cânfora no Século XIX](/pt/history/19th-century-camphor-wars) — Relatório de investigação de cânfora de 1864 de Swinhoe; o portal de acervo do NMTH guarda a fonte primária
 - [Período Holandês-Espanhol-Ming-Zheng](/pt/history/dutch-spanish-and-koxinga-era) — Galeria 3 da exposição permanente "Ilha e Povo que Vivem do Mar" e tema-mãe da exposição especial "Além de 1624"
-- [Formosa](/history/福爾摩沙) — _O Passado e o Presente da Ilha Formosa_ de Davidson, versão chinesa publicada pelo NMTH
+- [Formosa](/pt/history/formosa-historical-name) — _O Passado e o Presente da Ilha Formosa_ de Davidson, versão chinesa publicada pelo NMTH
 
 ## Fontes das imagens
 

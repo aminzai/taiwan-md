@@ -128,8 +128,8 @@ Seja qual for o lado, poucos negam a sua coerência. Da desilusão em Yenan à l
 
 **Leitura complementar**:
 
-- [Espectro Unificação-Independência de Taiwan](/society/台灣統獨光譜) — Entender onde se situa a reivindicação independentista de Su Beng no espectro político taiwanês.
-- [Incidente 228](/history/二二八事件) — O trauma histórico decisivo que empurrou Su Beng para a resistência armada.
+- [Espectro Unificação-Independência de Taiwan](/pt/society/taiwan-unification-independence-spectrum) — Entender onde se situa a reivindicação independentista de Su Beng no espectro político taiwanês.
+- [Incidente 228](/pt/history/228-incident) — O trauma histórico decisivo que empurrou Su Beng para a resistência armada.
 - [Terror Branco em Taiwan](/pt/history/taiwan-white-terror) — Contexto da era do "Caso da Associação para uma Taiwan Independente" e do exílio de Su Beng.
 
 ## Fontes das imagens

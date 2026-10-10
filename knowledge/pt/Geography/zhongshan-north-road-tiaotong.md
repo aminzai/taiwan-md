@@ -205,11 +205,11 @@ Se da próxima vez passar pelo Light Point Taipei na Secção 2 da Avenida Zhong
 
 - [Taipé: uma cidade com três tempos, Longshan Temple 1738 olha para o 101 de 2004](/pt/geography/taipei-city) — a posição da Avenida Zhongshan Norte entre os 12 distritos, alinhada com as três linhas do tempo de Manka, Dadaocheng e Xinyi
 - [Dadaocheng: uma rua de 800 metros que cabe três séculos](/pt/geography/dadaocheng) — _sibling_ histórico do mesmo lote 1, rua-mercado nascida na era do chá de 1860, primeiro tiro do 228 em 1947 no nº 189 da Avenida Nanjing Oeste
-- [Manka: o lugar mais animado de Taipé na era Qing, hoje o distrito com idade média mais alta de Taipé](/geography/艋舺) — _sibling_ histórico do mesmo lote 1, forma de rua diferente da «planificação japonesa» da cultura Tiao-tong
+- [Manka: o lugar mais animado de Taipé na era Qing, hoje o distrito com idade média mais alta de Taipé](/pt/geography/bangka) — _sibling_ histórico do mesmo lote 1, forma de rua diferente da «planificação japonesa» da cultura Tiao-tong
 - [Ximending: rua de entretenimento construída pelos japoneses em 1896, 130 anos depois ainda a mais jovem de Taipé](/pt/geography/ximending) — _sibling_ histórico do mesmo lote 1, tal como a Tiao-tong, zona de entretenimento extramuros planejada no período japonês, mas trilhou subcultura totalmente distinta
 - [Cerimónia do chá e estética de vida em Taiwan](/pt/culture/taiwan-tea-ceremony-and-aesthetic-living) — influência mútua entre a estética japonesa da cultura Tiao-tong e o movimento de renascimento da cerimónia do chá em Taiwan pós-guerra
 - [Incidente 228](/pt/history/228-incident) — a 28 de fevereiro de 1947, às 13h, multidão marcha até ao cruzamento da Zhongshan Road e é metralhada pela guarda; no mesmo dia, Zhongshan Hall acolhe reunião de emergência e torna-se sede do comité de gestão do incidente
-- [Árvores de alinhamento de Taiwan](/lifestyle/台灣行道樹) — como a lógica de planeamento colonial de «rua larga com fileiras de árvores», desde a teoria de plantio de Tashiro Ando em 1898, chegou até à Estrada do Enviado Imperial, antecedente da Tiao-tong
+- [Árvores de alinhamento de Taiwan](/pt/lifestyle/taiwan-street-trees) — como a lógica de planeamento colonial de «rua larga com fileiras de árvores», desde a teoria de plantio de Tashiro Ando em 1898, chegou até à Estrada do Enviado Imperial, antecedente da Tiao-tong
 - [Rua das Termas de Beitou](/pt/geography/beitou-hot-spring-street) — abolição da prostituição regulamentada em Beitou 1979 vs fim da prostituição legalizada em toda a cidade 1997, dois ramos da paisagem da indústria do sexo em Taipé pós-guerra, junto com a cultura Tiao-tong da Avenida Lin Sen Norte
 
 ## Fontes das imagens

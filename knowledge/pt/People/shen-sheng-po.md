@@ -101,5 +101,5 @@ Shen Sheng-po não deixou um "fórmula de sucesso", mas uma **atitude**: entende
 
 ## Tópicos relacionados
 
-- [Wu Zhiyu](/people/吳哲宇): Outra trajetória de programação para arte em Taiwan
-- [Tang Feng](/people/唐鳳): Como o pensamento tecnológico entra no campo público
+- [Wu Zhiyu](/pt/people/che-yu-wu): Outra trajetória de programação para arte em Taiwan
+- [Tang Feng](/pt/people/audrey-tang): Como o pensamento tecnológico entra no campo público

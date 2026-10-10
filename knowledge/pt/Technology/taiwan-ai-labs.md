@@ -74,9 +74,9 @@ Durante a pandemia a partir de 2020, o Taiwan AI Labs colaborou com o governo pa
 
 ## Leituras adicionais
 
-- [Miin: Ethan Tu ensina IA a identificar contas que puxam o vento, mas ele próprio é processado por roubo de notícias](/technology/迷音Miin) — O produto principal do laboratório voltado ao público geral, que usa IA para identificar contas de operações coordenadas, entrou em processo judicial por direitos autorais devido a notícias agregadas no final de 2025.
-- [Desenvolvimento e Estratégia Futura da IA em Taiwan: de 2024 com dois Prêmios Nobel ao Mercado Noturno de Ningxia](/technology/台灣人工智慧發展與未來策略) — Coloca o Taiwan AI Labs de volta ao tabuleiro geral de hegemonia de hardware + dois Prêmios Nobel de 2024, observando a distância entre o TAIDE e a pesquisa básica global de IA.
-- [Por que Taiwan precisa de seu próprio banco de conhecimento](/about/為什麼台灣需要自己的知識庫) — A outra face da construção de capacidades de IA pela sociedade civil: a lacuna de corpus para alimentar os modelos, e como a recusa de resposta da IA sobre temas de Taiwan pode ser quantificada.
+- [Miin: Ethan Tu ensina IA a identificar contas que puxam o vento, mas ele próprio é processado por roubo de notícias](/pt/technology/miin-music-app) — O produto principal do laboratório voltado ao público geral, que usa IA para identificar contas de operações coordenadas, entrou em processo judicial por direitos autorais devido a notícias agregadas no final de 2025.
+- [Desenvolvimento e Estratégia Futura da IA em Taiwan: de 2024 com dois Prêmios Nobel ao Mercado Noturno de Ningxia](/pt/technology/artificial-intelligence-development-strategy) — Coloca o Taiwan AI Labs de volta ao tabuleiro geral de hegemonia de hardware + dois Prêmios Nobel de 2024, observando a distância entre o TAIDE e a pesquisa básica global de IA.
+- [Por que Taiwan precisa de seu próprio banco de conhecimento](/pt/about/why-taiwan-needs-its-own-knowledge-base) — A outra face da construção de capacidades de IA pela sociedade civil: a lacuna de corpus para alimentar os modelos, e como a recusa de resposta da IA sobre temas de Taiwan pode ser quantificada.
 - [Site oficial do Taiwan AI Labs](https://ailabs.tw/)
 - [Ethan Tu — Wikipedia](https://zh.wikipedia.org/zh-tw/杜奕瑾)
 - [BNext: Ethan Tu retorna ao Taiwan para fundar o Laboratório de IA](https://www.bnext.com.tw/article/44267/founder-of-ptt-ethan-tu-back-to-taiwan-to-establish-an-ai-lab)

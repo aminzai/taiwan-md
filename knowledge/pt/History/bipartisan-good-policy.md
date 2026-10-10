@@ -301,7 +301,7 @@ Mas uma coisa é certa: se só usarmos a régua azul-verde a olhar, para sempre 
 ## Leitura complementar
 
 - [Democratização de Taiwan](/pt/history/taiwan-democratization) — Do 228 à Girassol, como o autoritário criou com as próprias mãos a força que o enterrou
-- [Justiça de transição de Taiwan](/history/台灣轉型正義) — Anuladas quase seis mil sentenças culpadas, mas quase nenhum culpado perseguido, a queda
+- [Justiça de transição de Taiwan](/pt/history/taiwan-transitional-justice) — Anuladas quase seis mil sentenças culpadas, mas quase nenhum culpado perseguido, a queda
 - [Crise do estreito de Taiwan e desenvolvimento das relações cross-strait](/pt/history/taiwan-strait-crises-and-cross-strait-relations) — Contexto completo da crise de mísseis de 1996
 
 ---

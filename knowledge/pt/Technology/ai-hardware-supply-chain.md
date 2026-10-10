@@ -179,11 +179,11 @@ Esta é uma das posições mais claras e que mais precisa ser vista de Taiwan ne
 ## Leitura complementar
 
 - [Comércio exterior de Taiwan e cadeia de suprimentos global](/pt/economy/taiwan-foreign-trade-and-global-supply-chain) — Contexto macro desde exportação orientada, comércio triangular até reorganização da cadeia de suprimentos EUA-China.
-- [NVIDIA em Taiwan](/technology/NVIDIA在台灣) — Como a NVIDIA deposita profundamente a manufatura de chips, encapsulamento e montagem de servidores em Taiwan.
+- [NVIDIA em Taiwan](/pt/technology/nvidia-in-taiwan) — Como a NVIDIA deposita profundamente a manufatura de chips, encapsulamento e montagem de servidores em Taiwan.
 - [Indústria de semicondutores](/pt/technology/taiwan-semiconductor-industry) — Contexto de longo prazo desde transferência de tecnologia RCA, _foundry_ da TSMC até campo de batalha de materiais e encapsulamento.
-- [Computex](/technology/Computex) — Por que a Taipei Computer Expo se tornou o local de peregrinação da oferta de hardware global na era da IA.
+- [Computex](/pt/technology/computex) — Por que a Taipei Computer Expo se tornou o local de peregrinação da oferta de hardware global na era da IA.
 - [Energia de Taiwan e semicondutores](/pt/technology/taiwan-electricity-and-semiconductors) — A conta de energia por trás da cadeia de suprimentos de IA, pressão de energia verde e segurança energética.
-- [Água de semicondutores e recursos hídricos de Taiwan](/technology/半導體用水與台灣水資源) — Como fábricas de _wafers_ se conectam a reservatórios, seca, água reciclada e governança local.
+- [Água de semicondutores e recursos hídricos de Taiwan](/pt/technology/semiconductor-water-use-and-taiwan-water-resources) — Como fábricas de _wafers_ se conectam a reservatórios, seca, água reciclada e governança local.
 - [Relocação de fábricas no exterior da cadeia de suprimentos de IA](/pt/technology/ai-supply-chain-overseas-manufacturing) — Desde TSMC, Foxconn, Wistron até Delta, como a cadeia de suprimentos de Taiwan é "pedida para fora" pelo mundo.
 
 ## Fontes de imagem

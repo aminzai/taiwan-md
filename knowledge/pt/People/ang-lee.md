@@ -216,8 +216,8 @@ Aquela montanha Brokeback nunca foi removida. O pai que se opôs durante toda a 
 
 - [Cinema taiwanês](/pt/art/taiwanese-cinema) — Um panorama completo, dos filmes em taiwanês e do realismo saudável à Nova Onda Taiwanesa e ao cinema contemporâneo: a tradição que Ang Lee herdou e levou para o mundo
 - [Hou Hsiao-hsien](/pt/people/hou-hsiao-hsien) — Figura central da Nova Onda Taiwanesa da mesma geração, que escolheu um caminho autoral radicalmente diferente do de Ang Lee
-- [Edward Yang](/people/楊德昌) — Diretor que dissecou a ansiedade moderna de Taiwan por meio de uma cidade e se tornou outro auge da Nova Onda Taiwanesa
-- [Tsai Ming-liang](/people/蔡明亮) — Cineasta autoral taiwanês que levou a solidão e a lentidão ao extremo, seguindo uma trajetória oposta à de Ang Lee em Hollywood
+- [Edward Yang](/pt/people/yang-dechang) — Diretor que dissecou a ansiedade moderna de Taiwan por meio de uma cidade e se tornou outro auge da Nova Onda Taiwanesa
+- [Tsai Ming-liang](/pt/people/tsai-ming-liang) — Cineasta autoral taiwanês que levou a solidão e a lentidão ao extremo, seguindo uma trajetória oposta à de Ang Lee em Hollywood
 - [André Chiang](/pt/people/andre-chiang-taiwanese-culinary-innovator) — Criador taiwanês que também se tornou célebre dentro de um sistema ocidental e, por meio da gastronomia Michelin em vez da câmera cinematográfica, fez a mesma pergunta: “Quem sou eu?”
 
 ## Fontes das imagens

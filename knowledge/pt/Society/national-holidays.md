@@ -215,12 +215,12 @@ Esta é uma história de Taiwan escrita em "em que dia não se trabalha". Escrev
 
 **Leitura adicional**:
 
-- [Incidente 228](/history/二二八事件) — O massacre de 1947 e como se tornou em 1997 o primeiro feriado nacional legal de Taiwan
+- [Incidente 228](/pt/history/228-incident) — O massacre de 1947 e como se tornou em 1997 o primeiro feriado nacional legal de Taiwan
 - [Período da Lei Marcial](/pt/history/martial-law-era) — O "Outubro glorioso" e o feriado do aniversário de Chiang por trás do calendário autoritário
-- [Justiça transicional em Taiwan](/history/台灣轉型正義) — Por que o Dia da Memória do Terror Branco ainda não entrou no calendário
-- [Espectro unificação-independência em Taiwan](/society/台灣統獨光譜) — O mapa de identidade por trás das três narrativas "Retrocesso/Fim da Guerra/Ocupação"
-- [Taipé Chinesa](/society/中華台北) — A outra face da disputa entre o 10 de Outubro Dia Nacional e o Dia Nacional de Taiwan sob a mesma "República da China"
-- [Feriado de tufão](/society/颱風假) — Outro tipo de "de quem é a folga, de quem é o trabalho": os que trabalham normalmente no vento e chuva
+- [Justiça transicional em Taiwan](/pt/history/taiwan-transitional-justice) — Por que o Dia da Memória do Terror Branco ainda não entrou no calendário
+- [Espectro unificação-independência em Taiwan](/pt/society/taiwan-unification-independence-spectrum) — O mapa de identidade por trás das três narrativas "Retrocesso/Fim da Guerra/Ocupação"
+- [Taipé Chinesa](/pt/society/chinese-taipei) — A outra face da disputa entre o 10 de Outubro Dia Nacional e o Dia Nacional de Taiwan sob a mesma "República da China"
+- [Feriado de tufão](/pt/society/typhoon-day) — Outro tipo de "de quem é a folga, de quem é o trabalho": os que trabalham normalmente no vento e chuva
 - [Festival do Barco-Dragão](/pt/culture/dragon-boat-festival) — Como um festival popular se tornou um "dia de folga" institucional no calendário
 - [Ambiente político e sistema eleitoral de Taiwan](/pt/society/taiwan-political-landscape-and-electoral-system) — Como a estrutura numérica de KMT, TPP, DPP no Yuan Legislativo decide os vermelhos do calendário
 

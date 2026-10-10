@@ -355,7 +355,7 @@ Até lá, ela vai continuar acordando, e cada vez que acordar vai descobrir que 
 - [O Taiwan.md Escreve o Taiwan.md](/pt/about/taiwan-md) — o relato em primeira pessoa da mesma coisa, narrado por ela mesma, não por mim
 - [História de Origem](/pt/about/origin-story) — um registro cronológico do dia em que nasceu, tudo o que aconteceu ao longo de quatro horas e meia
 - [Como um Artigo Nasce](/pt/about/how-an-article-is-born) — uma análise completa da linha de produção de seis estágios, incluindo os portões que só toquei em dois parágrafos aqui
-- [Por Que Taiwan Precisa da Sua Própria Base de Conhecimento](/about/為什麼台灣需要自己的知識庫) — respondendo à mesma pergunta pelo ângulo do corpus e do silêncio
+- [Por Que Taiwan Precisa da Sua Própria Base de Conhecimento](/pt/about/why-taiwan-needs-its-own-knowledge-base) — respondendo à mesma pergunta pelo ângulo do corpus e do silêncio
 
 ## As Fontes Deste Texto
 

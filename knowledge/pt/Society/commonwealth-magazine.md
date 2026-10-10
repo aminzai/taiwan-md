@@ -187,11 +187,11 @@ Ying-chun Yin vestiu uma calça jeans bordô emprestada para entrevistar Eileen 
 
 **Leitura Adicional**:
 
-- [The Reporter](/society/報導者) — Mídia de Taiwan que também visa reportagens profundas, mas segue a rota oposta de não lucrativo, recusa publicidade e depende de doações de estranhos; forma o contraste mais direto com a parede de pagamento e o ecossistema empresarial da _CommonWealth_.
-- [PanSci 泛科學](/society/泛科學) — Nova mídia de Taiwan que também cresceu na década de 2010, mantendo o espaço de discussão pública através de comunicação científica e serviços de conhecimento como outro modelo de negócios.
+- [The Reporter](/pt/society/the-reporter-investigative-journalism) — Mídia de Taiwan que também visa reportagens profundas, mas segue a rota oposta de não lucrativo, recusa publicidade e depende de doações de estranhos; forma o contraste mais direto com a parede de pagamento e o ecossistema empresarial da _CommonWealth_.
+- [PanSci 泛科學](/pt/society/pansci) — Nova mídia de Taiwan que também cresceu na década de 2010, mantendo o espaço de discussão pública através de comunicação científica e serviços de conhecimento como outro modelo de negócios.
 - [Public Television Service (PTS)](/pt/society/pts-public-television-service) — Outra via da mídia pública de Taiwan, lidando com a mesma dificuldade de "a quem a mídia deve ser responsável" usando orçamento público em vez de mecanismos de mercado.
 - [Mídia e Liberdade de Imprensa em Taiwan](/pt/society/media-and-press-freedom-in-taiwan) — A controvérsia de remoção da _CommonWealth_, o ranking de confiança e o contexto da guerra de informação da RPC estão todos embutidos no contexto mais amplo da liberdade de imprensa de Taiwan.
-- [Top 50 Empresas de Taiwan](/economy/台灣前50大企業) — As empresas definidas pelos rankings "Top 2000" e "Top 50 Grupos" da _CommonWealth_ são exatamente os protagonistas por trás desta lista.
+- [Top 50 Empresas de Taiwan](/pt/economy/top-50-companies-taiwan) — As empresas definidas pelos rankings "Top 2000" e "Top 50 Grupos" da _CommonWealth_ são exatamente os protagonistas por trás desta lista.
 - [Empresas de Taiwan: TSMC](/pt/economy/tsmc) — A empresa que permanece consistentemente no topo nas listas de Empresas Modelo e Top 50 Grupos da _CommonWealth_ também é uma das maiores patrocinadoras de sua Fundação de Educação.
 
 ## Fontes das Imagens

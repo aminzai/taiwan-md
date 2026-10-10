@@ -232,10 +232,10 @@ Cada cenário, é ela negociando com «ser definida por quem».
 ## Leitura complementar
 
 - [Chang Hsuan e An Pu](/pt/music/deserts-chang-and-anpu) — outra cantora taiwanesa que de garota virou autora completa, contrapondo duas rotas «de ser definida a auto-definir»
-- [Waa Wei](/people/魏如萱) — mesma geração, duas vezes melhor cantora mandarim no Melodia de Ouro, com Rainie Yang forma contraponto estrutural «mercado vs academia»
-- [Música Pop de Taiwan](/music/台灣流行音樂) — estrutura da indústria pop sinófono e contexto histórico do posicionamento duplo drama de idol / cantora
-- [Cultura KTV de Taiwan](/music/台灣KTV文化) — contexto social de «Ambíguo» virar rei do KTV em 2005, e papel do KTV como nó de difusão do pop sinófono
-- [Tanya Chua](/people/蔡健雅) — escreveu para Rainie Yang «Solidão é uma Segurança» (2013), quatro vezes rainha do Melodia de Ouro com dupla identidade cantora-produtora
+- [Waa Wei](/pt/people/waa-wei-singer) — mesma geração, duas vezes melhor cantora mandarim no Melodia de Ouro, com Rainie Yang forma contraponto estrutural «mercado vs academia»
+- [Música Pop de Taiwan](/pt/music/golden-melodies-legacy-taiwan-pop-music) — estrutura da indústria pop sinófono e contexto histórico do posicionamento duplo drama de idol / cantora
+- [Cultura KTV de Taiwan](/pt/music/ktv-culture) — contexto social de «Ambíguo» virar rei do KTV em 2005, e papel do KTV como nó de difusão do pop sinófono
+- [Tanya Chua](/pt/people/tanya-chua-singer) — escreveu para Rainie Yang «Solidão é uma Segurança» (2013), quatro vezes rainha do Melodia de Ouro com dupla identidade cantora-produtora
 
 ## Referências
 

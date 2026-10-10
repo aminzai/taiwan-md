@@ -99,7 +99,7 @@ Hsueh Meng-hui folheia o almanaque agrícola cheio de anotações do pai; a cali
 
 **Leitura complementar**:
 
-- [Cultura dos banquetes ao ar livre de Taiwan](/food/台灣辦桌文化) — O palco mais concentrado dos pratos de assinatura: do reino dos mestres de banquetes nascido nas terras ruins de Neimen, a todo um saber ritual de banquetes que atravessa os três mundos de humanos, deuses e fantasmas
+- [Cultura dos banquetes ao ar livre de Taiwan](/pt/food/taiwan-banquet-culture) — O palco mais concentrado dos pratos de assinatura: do reino dos mestres de banquetes nascido nas terras ruins de Neimen, a todo um saber ritual de banquetes que atravessa os três mundos de humanos, deuses e fantasmas
 - [Chen Yu-hsun](/pt/people/chen-yu-hsun-taiwan-comedy-film-magician) — Diretor de _Mestre de Banquetes_, levou à telona pratos de habilidade à beira da extinção como frango com estômago de porco e tartaruga
 - [Cultura de frutos do mar de Taiwan](/pt/food/taiwan-seafood-culture) — O caranguejo vermelho, a lagosta, o peixe cozido no vapor da mesa principal do banquete, por trás o contexto dos sabores do mar de Taiwan
 

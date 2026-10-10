@@ -425,7 +425,7 @@ _Assinatura pessoal de Tang Fern, divulgada publicamente em agosto de 2021, orig
 - [Tony Hsiao](/pt/people/tony-hsiao-inside-founder) — Cofundador da INSIDE e Ai Liao Ri, ele também define seu papel no círculo tecnológico de Taiwan como alguém que "atravessa múltiplos campos".
 - [Tai Yu Wu](/pt/people/tai-yu-wu) — A transmissão do conhecimento de elite científica em Taiwan, de ciência a tecnologia; Tai Yu Wu estabeleceu o sistema científico de Taiwan como diretor do Academia Sinica.
 - [Open Culture Foundation](/pt/technology/open-culture-foundation) — Uma fundação que se transformou na ponte de direitos digitais de Taiwan após reportar g0v, e que interagiu repetidamente com o Departamento de Desenvolvimento Digital liderado por Tang Feng, tanto cooperando quanto observando.
-- [Pandemia e Vacinas em Taiwan](/society/台灣新冠疫情與疫苗) — Em que tipo de pandemia estava a cadeia de coordenação do mapa de máscaras, e os dezoito meses que Taiwan conseguiu com base nas fronteiras e na compra de máscaras.
+- [Pandemia e Vacinas em Taiwan](/pt/society/taiwan-covid-pandemic-and-vaccines) — Em que tipo de pandemia estava a cadeia de coordenação do mapa de máscaras, e os dezoito meses que Taiwan conseguiu com base nas fronteiras e na compra de máscaras.
 
 ## Fontes das Imagens
 

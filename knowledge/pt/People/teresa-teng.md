@@ -159,8 +159,8 @@ Ela passou a vida procurando um saco de ar puro. Em Kinmen disse que queria ench
 
 **Leitura complementar**:
 
-- [Música popular de Taiwan](/music/台灣流行音樂) — A era de ouro e o contexto industrial da música pop mandarim onde ela viveu
-- [Movimento folk de Taiwan](/music/台灣民歌運動) — O movimento de autoconhecimento local da cena musical taiwanesa dos anos 70, sua contemporânea
+- [Música popular de Taiwan](/pt/music/golden-melodies-legacy-taiwan-pop-music) — A era de ouro e o contexto industrial da música pop mandarim onde ela viveu
+- [Movimento folk de Taiwan](/pt/music/taiwan-campus-folk-song-movement) — O movimento de autoconhecimento local da cena musical taiwanesa dos anos 70, sua contemporânea
 - [Período da lei marcial](/pt/history/martial-law-era) — A estrutura política básica de Taiwan antes de ela partir para o Japão aos 20 anos
 - [Terror branco em Taiwan](/pt/history/taiwan-white-terror) — O clima político de seus anos de formação
 - [Crises no Estreito de Taiwan e desenvolvimento das relações cross-strait](/pt/history/taiwan-strait-crises-and-cross-strait-relations) — A fronteira da Guerra Fria que sua voz contornou

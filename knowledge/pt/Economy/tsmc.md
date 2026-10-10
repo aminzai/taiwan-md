@@ -242,7 +242,7 @@ Ninguém planeou uma transferência desta magnitude. Mas na pior seca em 56 anos
 - [Transformação e atualização da indústria de Taiwan](/pt/economy/industrial-transformation-from-manufacturing-to-innovation) — A TSMC é o caso concreto da passagem de Taiwan de "ilha de fabrico por encomenda" a "ilha tecnológica"
 - [Stan Shih (施振榮)](/pt/people/stan-shih) — Foi diretor da TSMC durante 21 anos, a maior parte do seu património em ações da TSMC, fundador da Acer, mas é precisamente o autor da "curva do sorriso" que diz "Taiwan não deve fazer fabrico por encomenda"
 - [Indústria de semicondutores](/pt/technology/taiwan-semiconductor-industry) — Da transferência de tecnologia da RCA ao nitreto de gálio e embalagem quântica: 50 anos de revolução em ciência dos materiais, o campo de batalha inteiro onde a TSMC está
-- [Huang Chong-jen (黃崇仁)](/people/黃崇仁) — Fundador da Powerchip / Powerchip Semiconductor, outra estrada na mesma ilha: também faz wafers, chegou a dever mil milhões, saiu de bolsa, nove anos depois voltou ao mercado
+- [Huang Chong-jen (黃崇仁)](/pt/people/frank-huang-psmc) — Fundador da Powerchip / Powerchip Semiconductor, outra estrada na mesma ilha: também faz wafers, chegou a dever mil milhões, saiu de bolsa, nove anos depois voltou ao mercado
 
 ## Fontes das imagens
 

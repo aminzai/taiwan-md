@@ -97,10 +97,10 @@ O ano em que foi abandonada devia ter sido o fim desta rua; resultou que se torn
 
 **Leitura complementar**:
 
-- [Condado de Hsinchu](/geography/新竹縣) — O contexto de todo o Condado de Hsinchu onde Hukou se insere: fé hakka, Festival Yi-min, outra sensação temporal na bacia do Rio Touqian
+- [Condado de Hsinchu](/pt/geography/hsinchu-county) — O contexto de todo o Condado de Hsinchu onde Hukou se insere: fé hakka, Festival Yi-min, outra sensação temporal na bacia do Rio Touqian
 - [Quartel de Hukou e Memória da Estrada da Vitória](/pt/history/hukou-camp-shengli-road-memory) — O mesmo Hukou, outra história de memórias militares e políticas dentro e fora dos muros
 - [Cultura Gastronómica Hakka](/pt/food/hakka-food-culture) — O contexto da cultura gastronómica hakka por trás de petiscos da rua velha como taro e tofu
-- [Rua das Termas de Peitou](/geography/北投溫泉街) — Outra rua que subiu e desceu com infraestruturas de transporte e renasceu pela preservação espontânea dos moradores
+- [Rua das Termas de Peitou](/pt/geography/beitou-hot-spring-street) — Outra rua que subiu e desceu com infraestruturas de transporte e renasceu pela preservação espontânea dos moradores
 
 ## Referências
 

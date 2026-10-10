@@ -229,7 +229,7 @@ Da próxima vez que voltar a Yilan de carro, sair do Túnel Xueshan e ver a ilha
 ## Leitura complementar
 
 - [Condado de Yilan](/pt/geography/yilan-county) — O condado ao qual a Ilha Guishan pertence; a história da planície de Lanyang fazendo duas escolhas em momentos-chave da história, tratando a Ilha Guishan como um "marco inalterável"
-- [Terreno Costeiro de Taiwan e Paisagem Marítima](/geography/台灣海岸地形與海洋地景) — A posição da ilha vulcânica da Ilha Guishan, nascentes de água quente submarinas e correntes ascendentes na paisagem marítima de Taiwan
+- [Terreno Costeiro de Taiwan e Paisagem Marítima](/pt/geography/taiwan-coastal-landforms-and-seascapes) — A posição da ilha vulcânica da Ilha Guishan, nascentes de água quente submarinas e correntes ascendentes na paisagem marítima de Taiwan
 - [Cetáceos de Taiwan](/pt/nature/cetaceans-of-taiwan) — A ecologia de cetáceos trazida pela Corrente Kuroshio, e o contexto do início da observação de baleias em Taiwan a partir do Porto Shiti em Hualien
 - [Cultura Insular Dispersa e Marítima](/pt/geography/offshore-islands-and-maritime-culture) — O tema comum de assentamentos insulares dispersos, crenças de aldeias de pescadores e história de realocação em Taiwan
 - [Prisão da Ilha Verde](/pt/history/green-island-prison) — Outra história de uma ilha insular dispersa militarizada, de zona proibida a aberta

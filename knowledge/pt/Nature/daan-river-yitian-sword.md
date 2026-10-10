@@ -218,7 +218,7 @@ E agora, lá no alto do vale sem nome na nascente do Rio Daan, uma espada verde 
 
 **Leitura adicional**:
 
-- [Coruja-peixeira-amarela](/nature/黃魚鴞) — Também depende de gigantes de floresta madura em média montanha e rios não cimentados; a maior coruja de Taiwan vive na fresta onde "os gigantes ainda não caíram, os rios ainda não foram retificados"
+- [Coruja-peixeira-amarela](/pt/nature/tawny-fish-owl) — Também depende de gigantes de floresta madura em média montanha e rios não cimentados; a maior coruja de Taiwan vive na fresta onde "os gigantes ainda não caíram, os rios ainda não foram retificados"
 - [Salmão-formosa](/pt/nature/formosan-landlocked-salmon) — Também se esconde na bacia do Rio Qijiawan em Shei-Pa, outro sobrevivente relíquia da era glacial
 - [Urso-negro-de-Taiwan](/pt/nature/taiwanese-black-bear) — Também depende de grandes áreas de floresta primária sem pegada humana, outro indicador da integridade das florestas de montanha de Taiwan
 - [Ecossistema florestal de Taiwan](/pt/nature/taiwan-forest-ecosystems) — Faixa de nevoeiro, cinco madeiras nobres e coordenadas ecológicas dos gigantes; a Espada Celestial é o ponto mais alto deste sistema

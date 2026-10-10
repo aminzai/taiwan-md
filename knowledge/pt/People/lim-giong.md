@@ -111,7 +111,7 @@ Aquele trem já partiu da plataforma da Estação de Taipé há muito tempo. O g
 **Leitura Complementar**:
 
 - [Hou Hsiao-hsien (侯孝賢)](/pt/people/hou-hsiao-hsien) — Primeiro mestre de cinema de Lin Qiang, figura central do movimento Novo Cinema Taiwanês
-- [Evolução da Canção Taiwanesa](/music/台灣台語歌曲演進) — Onda cultural a que pertence «Xiang Qian Zou» de Lin Qiang, a transformação do choro para o rock taiwanês
+- [Evolução da Canção Taiwanesa](/pt/music/taiwanese-hokkien-song-evolution) — Onda cultural a que pertence «Xiang Qian Zou» de Lin Qiang, a transformação do choro para o rock taiwanês
 - [Jia Yongjie (賈永婕)](/pt/people/chia-yung-chieh) — Outra figura pública taiwanesa que completou transposição de identidade, de artista para mobilizadora de governança pública
 
 ## Referências

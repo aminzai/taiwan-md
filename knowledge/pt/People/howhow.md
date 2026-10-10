@@ -128,7 +128,7 @@ Volta àquela tarde de 2015 em Nova York. Um garoto com menos de cem mil inscrit
 **Leitura complementar**:
 
 - [Tsai A-ga: de ancestral influenciador a vocação de assistência social, o homem que virou o destino com 18 anos de tráfego](/pt/people/tsai-a-ga-youtuber) — Primeiro youtuber taiwanês de um milhão, 2014, quatro anos antes do Howhow, ponto de partida dessa linha do tempo profissional.
-- [A Shen](/people/阿神) — Junto com Sheng Jie Shi (2017) cruzou a linha do milhão, criador de jogos, estratégia de sobrevivência totalmente diferente do Howhow.
+- [A Shen](/pt/people/red-shin-minecraft-youtuber) — Junto com Sheng Jie Shi (2017) cruzou a linha do milhão, criador de jogos, estratégia de sobrevivência totalmente diferente do Howhow.
 - [Tseng Po-en: calcula a piada, não calcula a sociedade](/pt/people/bernard-tseng) — Também estourou com "comédia de ritmo calculado", mas empurrou a piada pra zona mais sensível que publi: questões sociais.
 - [Zun: do quarto do 2º ano do fundamental a dois canais de um milhão, o registro de maioridade de um YouTuber](/pt/people/zun) — Também veio do YouTube taiwanês inicial, documenta abertamente a travessia: infância filmando, fardo do milhão, rotina adulta.
 - [Indústria e cultura youtuber em Taiwan: de Tsai A-ga a Chi Hsuan, história da evolução da cultura digital de uma ilha](/pt/culture/taiwan-youtuber-industry) — O cenário industrial inteiro onde o Howhow está, como essa geração de criadores sustentou a memória de internet de uma geração.

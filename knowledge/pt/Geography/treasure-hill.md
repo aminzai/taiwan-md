@@ -214,12 +214,12 @@ Treasure Hill não foi demolida, porque gente suficiente não deixou ela ser dem
 
 **Leitura complementar**:
 
-- [Taipé: três tempos numa cidade, 1738 Longshan Temple olhando para o 101 de 2004](/geography/台北市) — A posição de Treasure Hill nos 12 distritos, alinhada às três linhas temporais de Mengjia, Dadaocheng, Xinyi
+- [Taipé: três tempos numa cidade, 1738 Longshan Temple olhando para o 101 de 2004](/pt/geography/taipei-city) — A posição de Treasure Hill nos 12 distritos, alinhada às três linhas temporais de Mengjia, Dadaocheng, Xinyi
 - [Desenvolvimento de parques culturais criativos de Taiwan](/pt/culture/taiwan-cultural-creative-park-development) — Treasure Hill junto com Vila 44, Huashan, Songshan, estes casos taiwaneses de "vila de militares/patrimônio industrial virado cultural criativo" para ver em conjunto
-- [Dadaocheng: 800 metros guardam três séculos de Taipé](/geography/大稻埕) — Mesmo lote 1 sibling de bairro histórico, rua comercial de chá de 1851 e assentamento irregular dos anos 1960, dois "momentos de formação de rua" completamente diferentes
-- [Mengjia: o lugar mais animado de Taipé na era Qing](/geography/艋舺) — Mesmo lote 1 sibling, a paisagem de fé da era Qing do Templo Longshan de 1738 e o Templo Guanyin de Treasure Hill de 1791 são centros de fé da mesma época de imigrantes Zhangzhou e Quanzhou
-- [Ximending: rua de entretenimento que os japoneses construíram em 1896](/geography/西門町) — Mesmo lote 1 sibling, zona de entretenimento planejada na era japonesa vs assentamento irregular de construção autônoma pós-guerra, dois contrastes de "pessoas invisíveis ao planejamento urbano"
-- [Gongguan](/geography/公館) — 800 metros ao norte, o círculo de consumo acadêmico-estudantil, e o assentamento irregular de Treasure Hill, duas ecologias espaciais completamente diferentes no entorno da NTU
+- [Dadaocheng: 800 metros guardam três séculos de Taipé](/pt/geography/dadaocheng) — Mesmo lote 1 sibling de bairro histórico, rua comercial de chá de 1851 e assentamento irregular dos anos 1960, dois "momentos de formação de rua" completamente diferentes
+- [Mengjia: o lugar mais animado de Taipé na era Qing](/pt/geography/bangka) — Mesmo lote 1 sibling, a paisagem de fé da era Qing do Templo Longshan de 1738 e o Templo Guanyin de Treasure Hill de 1791 são centros de fé da mesma época de imigrantes Zhangzhou e Quanzhou
+- [Ximending: rua de entretenimento que os japoneses construíram em 1896](/pt/geography/ximending) — Mesmo lote 1 sibling, zona de entretenimento planejada na era japonesa vs assentamento irregular de construção autônoma pós-guerra, dois contrastes de "pessoas invisíveis ao planejamento urbano"
+- [Gongguan](/pt/geography/gongguan) — 800 metros ao norte, o círculo de consumo acadêmico-estudantil, e o assentamento irregular de Treasure Hill, duas ecologias espaciais completamente diferentes no entorno da NTU
 
 ## Fontes das imagens
 

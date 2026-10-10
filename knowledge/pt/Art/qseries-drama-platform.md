@@ -159,7 +159,7 @@ Isso deixou não apenas algumas boas obras, mas uma resposta que ainda está bro
 
 **Leitura Complementar**:
 
-- [Golden Bell Awards](/culture/金鐘獎) — 《天黑請閉眼》 e 《花甲男孩轉大人》 ganharam dois prêmios de programa dramático, sendo o primeiro prêmio a exibir "excelente reputação" na coluna de vencedores.
+- [Golden Bell Awards](/pt/culture/golden-bell-awards) — 《天黑請閉眼》 e 《花甲男孩轉大人》 ganharam dois prêmios de programa dramático, sendo o primeiro prêmio a exibir "excelente reputação" na coluna de vencedores.
 
 ## Referências
 

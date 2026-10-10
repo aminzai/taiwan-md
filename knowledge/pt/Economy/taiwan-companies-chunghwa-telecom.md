@@ -166,7 +166,7 @@ A história da Chunghwa Telecom é um retrato de trinta anos da indústria de te
 
 **Leitura Complementar**:
 
-- [Despacho Aduaneiro de Taiwan e EZ WAY](/lifestyle/台灣海關報關制度與EZWAY) — Outro caso de governança de capital público onde o governo detém menos de metade das ações e a operação real é confiada ao setor privado: o Ministério das Finanças detém 36,11% da Trade Network
+- [Despacho Aduaneiro de Taiwan e EZ WAY](/pt/lifestyle/ezway) — Outro caso de governança de capital público onde o governo detém menos de metade das ações e a operação real é confiada ao setor privado: o Ministério das Finanças detém 36,11% da Trade Network
 
 ## Referências
 

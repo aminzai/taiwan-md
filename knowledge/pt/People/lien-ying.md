@@ -29,7 +29,7 @@ sourceBodyHash: 'sha256:3765efbdda716be7'
 translatedAt: '2026-07-26T11:16:46+08:00'
 ---
 
-> **Resumo em 30 segundos:** Lian Ying (Erin), nascida em 1999 em Taichung, começou balé, dança folclórica e dança chinesa no segundo ano do primário, migrou para a dança de rua no ensino médio. Em 2020, participou do _DD52_ e, no palco de batalha do segundo episódio, disse ao mentor Pan Wei-bo: "Quero que todos saibam qual é o nível de dança que um girl group deve ter" — frase que virou sua marca. O grupo Tempestade de Espadas (Storm Spades) estreou como [HUR+](/people/HUR-plus) com ela como main dancer. Em 2025, lançou o primeiro EP solo _EZ_, trilha hip hop/R&B com elementos de taiwanês, evitando deliberadamente a rota segura da balada. No aniversário de 2026, fãs financiaram coletivamente um palco em Dadaocheng onde ela estreou a nova música "Um Segundo Mais Lenta". Ela lança álbum com o grupo e EP solo em paralelo — em Taiwan, é a primeira integrante de girl group a fazer isso.
+> **Resumo em 30 segundos:** Lian Ying (Erin), nascida em 1999 em Taichung, começou balé, dança folclórica e dança chinesa no segundo ano do primário, migrou para a dança de rua no ensino médio. Em 2020, participou do _DD52_ e, no palco de batalha do segundo episódio, disse ao mentor Pan Wei-bo: "Quero que todos saibam qual é o nível de dança que um girl group deve ter" — frase que virou sua marca. O grupo Tempestade de Espadas (Storm Spades) estreou como [HUR+](/pt/people/hur-plus-band) com ela como main dancer. Em 2025, lançou o primeiro EP solo _EZ_, trilha hip hop/R&B com elementos de taiwanês, evitando deliberadamente a rota segura da balada. No aniversário de 2026, fãs financiaram coletivamente um palco em Dadaocheng onde ela estreou a nova música "Um Segundo Mais Lenta". Ela lança álbum com o grupo e EP solo em paralelo — em Taiwan, é a primeira integrante de girl group a fazer isso.
 
 Em 19 de junho de 2020, segundo episódio do _DD52_.
 
@@ -66,7 +66,7 @@ No perfil oficial do _DD52_, ela se descreveu assim: "Sou uma garota de Touro be
 
 Em 4 de setembro de 2020, final do _DD52_. A Tempestade de Espadas, de Lian Ying, perdeu por 55,4 a 57,9 para o Coração em Chamas, ficando em segundo [^5].
 
-Após o programa, o produtor Philip assinou com as seis da Tempestade de Espadas e formou o [HUR+](/people/HUR-plus). Posição de Lian Ying no grupo: **main dancer e sub-vocal**. A identificação que construiu no _DD52_ com aquela frase converteu-se diretamente no papel no grupo [^2].
+Após o programa, o produtor Philip assinou com as seis da Tempestade de Espadas e formou o [HUR+](/pt/people/hur-plus-band). Posição de Lian Ying no grupo: **main dancer e sub-vocal**. A identificação que construiu no _DD52_ com aquela frase converteu-se diretamente no papel no grupo [^2].
 
 Em 6 de novembro de 2020, HUR estreou. _DD52_ levou o 56º Golden Bell de melhor programa de variedades [^5].
 
@@ -173,7 +173,7 @@ Começou dança no primário, transição no médio, foi trainee, fez muitas sel
 
 ## Leitura complementar
 
-- [HUR+](/people/HUR-plus) — Grupo de Lian Ying. Vice do _DD52_, seis anos depois o único ainda lançando álbum
+- [HUR+](/pt/people/hur-plus-band) — Grupo de Lian Ying. Vice do _DD52_, seis anos depois o único ainda lançando álbum
 - [Nova geração idol de Taiwan](/pt/culture/taiwan-new-idol-generation) — Do _DD52_ ao Universe Cheer, o experimento industrial do survival idol taiwanês
 - [Jolin Tsai](/pt/people/jolin-tsai) — A "deusa" de Lian Ying. Outra que partiu da dança para alargar a moldura idol
 - [Yang Cheng-lin](/pt/people/rainie-yang) — Mentora-chefe do _DD52_. Do 4 in Love a _Ambiguous 2025_, vinte e cinco anos

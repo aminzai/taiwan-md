@@ -110,7 +110,7 @@ Sua bisavó transmitiu a cultura com o canto; ela transmite com a barra e o tal�
 - [Tai Tzu-ying](/pt/people/tai-tzu-ying) — Também peça-chave da delegação de Taiwan em Tóquio, número 1 mundial do badminton
 - [Yang Yung-wei](/pt/people/yang-yung-wei-judo-olympic-silver) — Prata no judô em Tóquio, primeira medalha olímpica do judô de Taiwan
 - [Dupla Lin-Yang](/pt/people/lin-yang-duo-taiwan-badminton-champions) — Ouro no badminton masculino em Tóquio, a história de Wang Chi-lin e Lee Yang
-- [Lee Yang](/people/李洋) — Bicampeão olímpico que se tornou o primeiro ministro do Esporte de Taiwan
+- [Lee Yang](/pt/people/lee-yang-badminton) — Bicampeão olímpico que se tornou o primeiro ministro do Esporte de Taiwan
 - [Lee Chih-kai](/pt/people/li-chih-kai) — Prata na ginástica artística (cavalo com alças) em Tóquio, a jornada de vinte anos do «menino que gira»
 
 ## Referências

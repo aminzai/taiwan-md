@@ -231,7 +231,7 @@ Próxima vez que for a Yunlin, não vá só a Gukeng tomar café. Tente ir às c
 
 - [Condado de Yilan](/pt/geography/yilan-county) — sibling da Série 22 Condados; 13 de dezembro de 1987 Chen Ding-nan barrou Sexto Complexo de Nafta fora da Planície de Lanyang; junho de 1991 Yuan Executivo aprovou mudança para Mailiao, Yunlin; esta é a frase de destino compartilhada de Yilan e Yunlin
 - [Cidade de Keelung](/pt/geography/keelung-city) — pilot da Série 22 Condados; igual a Yunlin, "condado/cidade médio pressionado pelo quadro da capital"; comparar duas faces de lugares vazados pela narrativa central
-- [Condado de Chiayi](/geography/嘉義縣) — sibling da Série 22 Condados; disputa de ortodoxia de Bengang entre Templo Fengtian de Xingang e Templo Chaotian de Beigang atravessa dois condados há duzentos anos
+- [Condado de Chiayi](/pt/geography/chiayi-county) — sibling da Série 22 Condados; disputa de ortodoxia de Bengang entre Templo Fengtian de Xingang e Templo Chaotian de Beigang atravessa dois condados há duzentos anos
 - [Cidade de Chiayi](/pt/geography/chiayi-city) — sibling da Série 22 Condados; junto com Beigang, herdeira contemporânea do núcleo histórico de Bengang
 - [Formosa Plastics Group](/pt/economy/formosa-plastics-group) — Wang Yung-ching 1973 propôs fábrica de craqueamento de nafta a 1998 Yunlin Sexto Complexo de Nafta acendeu fornos, história empresarial completa
 - [Taiwan Sugar](/pt/economy/taiwan-sugar) — 1909 Usina de Huwei primeira chaminé fumegou a 1999 parou produção de açúcar de cana, 90 anos de indústria açucareira de Taiwan

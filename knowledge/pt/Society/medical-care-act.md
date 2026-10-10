@@ -360,8 +360,8 @@ As palavras escritas pela lei serão lidas pelos leitores. As palavras não escr
 **Leitura Adicional**:
 
 - [Medicina de Taiwan e Seguro de Saúde Universal](/pt/lifestyle/taiwan-healthcare-and-national-health-insurance) — A cobertura mundialmente famosa e a estrutura de pagamento do sistema de seguro de saúde são o parceiro da "face de pagamento" após a implementação da Lei de Assistência Médica
-- [Evolução das Duas Leis de Medicina Regenerativa de Taiwan e Confissões de Profissionais](/society/台灣再生醫療雙法沿革從業人員告白) — As duas leis de medicina regenerativa aprovadas em 2024 são leis especiais separadas da Lei de Assistência Médica, preenchendo a regulação de terapia celular
-- [Sistema de Medicina de Desastres de Taiwan](/technology/台灣災難醫療體系) — A operação real do Artigo 1º da Lei de Assistência Médica "distribuir razoavelmente os recursos de assistência médica" em cenários de grandes desastres
+- [Evolução das Duas Leis de Medicina Regenerativa de Taiwan e Confissões de Profissionais](/pt/society/taiwan-regenerative-medicine-laws) — As duas leis de medicina regenerativa aprovadas em 2024 são leis especiais separadas da Lei de Assistência Médica, preenchendo a regulação de terapia celular
+- [Sistema de Medicina de Desastres de Taiwan](/pt/technology/taiwan-disaster-medicine-system) — A operação real do Artigo 1º da Lei de Assistência Médica "distribuir razoavelmente os recursos de assistência médica" em cenários de grandes desastres
 
 ## Fontes de Imagem
 

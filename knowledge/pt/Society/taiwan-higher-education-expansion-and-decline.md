@@ -235,7 +235,7 @@ Abrir levou dez anos em Taiwan. Aprender a fechar levou trinta anos — e ainda 
 - [Crise da baixa taxa de natalidade em Taiwan](/pt/society/taiwan-low-birth-rate-crisis) — Como se formou e para onde vai o muro populacional que derrubou as universidades
 - [Sistema educacional e cultura de admissão](/pt/society/education-system-and-admissions-culture) — O gargalo do exame nacional e o academicismo; quem quer flexibilizar a universidade é justamente esse
 - [Pobreza do aprendizado](/pt/society/learning-poverty-in-taiwan) — Depois que a escolarização se popularizou, onde está o verdadeiro abismo de aprendizagem?
-- [Academia Sinica](/society/中央研究院) — A instituição que não precisa recrutar ou dar aulas, cujo estatuto é escrito na Lei da Organização da Presidência e que gera um sentimento relativo de privação no lado universitário: "Por que ela merece ser assim?"
+- [Academia Sinica](/pt/society/academia-sinica) — A instituição que não precisa recrutar ou dar aulas, cujo estatuto é escrito na Lei da Organização da Presidência e que gera um sentimento relativo de privação no lado universitário: "Por que ela merece ser assim?"
 
 ## Fontes das imagens
 

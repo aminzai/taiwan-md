@@ -80,8 +80,8 @@ Esta frase fez com que ele regressasse de um "influenciador" a um "assistente so
 
 - [Bajiong](/pt/people/pa-chiung-political-youtuber) — Igualmente veterano YouTuber de 18+ anos, outro caminho da contra-acusação à filantropia
 - [A Di](/pt/people/ray-du-english-youtuber) — Outra linha de crescimento na grande era dos YouTubers de Taiwan (começou com educação em inglês)
-- [Po Te Wang](/people/波特王) — YouTuber de comédia da mesma geração, comparar estratégias de criadores face às mudanças de algoritmo
-- [Howhow](/people/Howhow) — YouTuber de um milhão da mesma época, outra estratégia de sobrevivência pondo "publipost" ao sol
+- [Po Te Wang](/pt/people/potter-king-youtuber) — YouTuber de comédia da mesma geração, comparar estratégias de criadores face às mudanças de algoritmo
+- [Howhow](/pt/people/howhow) — YouTuber de um milhão da mesma época, outra estratégia de sobrevivência pondo "publipost" ao sol
 - [Zun](/pt/people/zun) — Do quarto da 8ª série até canais duplos de um milhão, deixando outro registro de maioridade de YouTuber inicial
 
 ## Referências

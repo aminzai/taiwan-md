@@ -92,7 +92,7 @@ Cinquenta anos atrás, Chen Ting-chih mal imaginaria que o seu carrinho de dono 
 ## Leitura complementar
 
 - [Cultura de mercado noturno](/pt/food/night-market-culture) — Principal canal de circulação do frango frito com sal e pimenta, palco central do ecossistema de ceia noturna taiwanesa
-- [Cultura de pequeno-almoço de Taiwan](/food/台灣早餐文化) — Do amanhecer à madrugada, contraponto dos dois grandes momentos alimentares de Taiwan
+- [Cultura de pequeno-almoço de Taiwan](/pt/food/taiwan-breakfast-culture) — Do amanhecer à madrugada, contraponto dos dois grandes momentos alimentares de Taiwan
 - [Cultura de lojas de conveniência de Taiwan](/pt/lifestyle/convenience-store-culture) — As bancas de frango frito com sal e pimenta e as lojas de conveniência compõem juntas a paisagem alimentar das 24 horas de Taiwan
 
 ## Referências

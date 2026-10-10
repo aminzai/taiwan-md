@@ -233,7 +233,7 @@ Da próxima vez que alguém lhe perguntar "afinal Taiwan pertence a onde", pode 
 ## Leituras complementares
 
 - [Visão da história insular de Taiwan: como uma ilha repetidamente governada inventa a sua subjetividade](/pt/history/taiwan-island-historiography) — A metodologia de história insular de Cao Yonghe, base historiográfica da "visão arquipelágica"
-- [Arte contemporânea indígena de Taiwan](/art/台灣原住民當代藝術) — Indígenas austronésios como "portadores vivos do continuum arquipelágico", práticas artísticas contemporâneas
+- [Arte contemporânea indígena de Taiwan](/pt/art/contemporary-indigenous-art-taiwan) — Indígenas austronésios como "portadores vivos do continuum arquipelágico", práticas artísticas contemporâneas
 - [Tradições musicais indígenas de Taiwan](/pt/music/indigenous-music-traditions) — Alta correlação entre música tradicional dos 16 povos e música étnica da Oceania, apoio à teoria da origem austronésia
 - [História do comércio marítimo de Taiwan](/pt/history/taiwan-maritime-trade-history) — Do jade de Peinan à Era dos Descobrimentos, as ligações oceânicas de Taiwan
 - [Mapa cultural dos 16 povos indígenas de Taiwan](/pt/culture/indigenous-peoples-16-tribes-cultural-map) — Sistemas linguísticos dos 16 povos e correspondência com os nove ramos austronésios

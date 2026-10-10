@@ -174,7 +174,7 @@ Após o ano 2000, o palco foi passado para novas vozes como Wu Ming-yi (吳明�
 
 ## Leituras Recomendadas
 
-- [Taiwan Man You Lu (Taiwan Wanderer)](/art/臺灣漫遊錄) — Yang Shuangzi (楊双子) continua a tradição de escrita feminina e yuri pós-Lei Marcial, escrevendo a história colonial do período japonês através de romances de tradução falsa, ganhando reconhecimento internacional duplo em 2024 (NBA) e 2026 (Prêmio Booker)
+- [Taiwan Man You Lu (Taiwan Wanderer)](/pt/art/taiwan-travelogue) — Yang Shuangzi (楊双子) continua a tradição de escrita feminina e yuri pós-Lei Marcial, escrevendo a história colonial do período japonês através de romances de tradução falsa, ganhando reconhecimento internacional duplo em 2024 (NBA) e 2026 (Prêmio Booker)
 - [Literatura de Taiwan Pós-Guerra](/pt/art/postwar-taiwanese-literature) — 42 anos de 1945 a 1987, do silêncio e do modernismo à polêmica da literatura nativa e ao despertar feminino durante o período de Lei Marcial
 - [Literatura Contemporânea de Taiwan](/pt/art/contemporary-taiwanese-literature) — Século XXI: a internacionalização de Wu Ming-yi, Lin Yihan e a próxima geração da literatura digital
 - [História da Literatura de Taiwan](/pt/art/history-of-taiwanese-literature) — O contexto geral desde o período holandês, Ming e Qing, período japonês, pós-guerra até a contemporaneidade

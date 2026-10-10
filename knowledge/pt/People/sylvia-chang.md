@@ -81,7 +81,7 @@ Cinquenta anos de carreira não se fixaram em nenhuma identidade única; isso po
 
 Partindo do beco da Rua Gonghe em Chiayi, atravessando Taipé, Hong Kong, idas e vindas entre as duas margens — os cinquenta anos de Sylvia Chang não são uma história linear de sucesso, mas o registro de alguém que se move continuamente entre diferentes identidades, recusando estacionar em qualquer zona de conforto. Seu nome na história do entretenimento taiwanês representa uma postura de vida que um criador pode escolher, muito além do que o êxito pessoal de um indivíduo pode enquadrar.
 
-**Leitura complementar**: [Sylvia Chang — Wikipédia](https://zh.wikipedia.org/wiki/張艾嘉) ｜ [Base de dados do Cavalo de Ouro](https://www.goldenhorse.org.tw/awards/nw/?serach_type=award&search_item=person&search_text=%E5%BC%B5%E8%89%BE%E5%98%89) ｜ [Edward Yang](/people/楊德昌) — "Um Dia na Praia", por ela protagonizado, é o primeiro longa-metragem de ficção de Edward Yang
+**Leitura complementar**: [Sylvia Chang — Wikipédia](https://zh.wikipedia.org/wiki/張艾嘉) ｜ [Base de dados do Cavalo de Ouro](https://www.goldenhorse.org.tw/awards/nw/?serach_type=award&search_item=person&search_text=%E5%BC%B5%E8%89%BE%E5%98%89) ｜ [Edward Yang](/pt/people/yang-dechang) — "Um Dia na Praia", por ela protagonizado, é o primeiro longa-metragem de ficção de Edward Yang
 
 ## Referências
 

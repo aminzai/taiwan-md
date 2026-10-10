@@ -153,7 +153,7 @@ Desde as barracas islâmicas na rua Peach Garden em Taipé, passando pelas lojas
 ## Leituras Relacionadas
 
 - [Guia Geral da Culinária Taiwanesa](/pt/food/taiwan-food-overview) — Mapa geral do sabor de 400 anos de miscigenação: a posição do bife e macarrão
-- [Cultura do Café da Manhã Taiwanesa](/food/台灣早餐文化) — Panquecas, linguiça frita, leite de soja, trazidos pelos imigrantes continentais após 1949, listados ao lado do bife e macarrão como símbolos representativos da fusão alimentar pós-guerra
+- [Cultura do Café da Manhã Taiwanesa](/pt/food/taiwan-breakfast-culture) — Panquecas, linguiça frita, leite de soja, trazidos pelos imigrantes continentais após 1949, listados ao lado do bife e macarrão como símbolos representativos da fusão alimentar pós-guerra
 - [Arroz com Carne Taiwanesa](/pt/food/braised-pork-rice) — Outro caminho da cozinha dos bairros militares aos alimentos nacionais, compartilhando a saudade dos imigrantes e a localização
 - [Migração do Governo Nacionalista para Taiwan e Reconstrução Pós-Guerra](/pt/history/kmt-government-relocation-and-postwar-reconstruction) — 1,2 milhões de soldados e familiares se mudaram para o sul, trazendo uma mudança na cultura alimentar, sendo o contexto histórico do nascimento do bife e macarrão
 - [Cultura dos Mercados Noturnos de Taiwan](/pt/food/night-market-culture) — O principal campo de circulação popular após o bife e macarrão sair dos bairros militares

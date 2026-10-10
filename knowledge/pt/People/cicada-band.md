@@ -278,14 +278,14 @@ A partir de 2019, locais vão da floresta de montanha, nascentes, até geleiras 
 **Leitura complementar**:
 
 - [Waa Wei](/pt/people/waa-wei-singer) — mesmo ecossistema indie dos anos 2010, caminho vocal não instrumental
-- [No Party for Cao Dong](/people/草東沒有派對) — mesmo período, banda de raiva extrovertida como grupo de contraste
-- [Constant's Changeup](/people/康士坦的變化球) — mesmo espectro pós-rock, caminho narrativo vocal
+- [No Party for Cao Dong](/pt/people/no-party-for-cao-dong) — mesmo período, banda de raiva extrovertida como grupo de contraste
+- [Constant's Changeup](/pt/people/constant-and-change-band) — mesmo espectro pós-rock, caminho narrativo vocal
 - [Lu Guangzhong](/pt/people/crowd-lu-indie-folk-treasure) — outro caminho da música independente
 - [Prêmio Golden Melody](/pt/music/pop-music-and-golden-melody-awards) — contexto institucional da indicação da Cicada a Melhor Álbum Instrumental
 - [Música Independente de Taiwan](/pt/music/indie-music-scene) — espectro do indie taiwanês pós-anos 2010
 - [Ecossistema Florestal de Taiwan](/pt/nature/taiwan-forest-ecosystems) — paisagem de _Entrando na Floresta Nebulosa_ e _Habitando Acima das Nascentes_
 - [Ecologia Marinha de Taiwan](/pt/nature/taiwan-marine-ecology) — fundo ecológico do álbum marinho de 2017
-- [Montanhas e Cultura de Montanhismo de Taiwan](/nature/台灣山岳與登山文化) — contexto da filosofia de montanhismo de Chiang Chih-chieh
+- [Montanhas e Cultura de Montanhismo de Taiwan](/pt/nature/taiwan-mountains-and-hiking-culture) — contexto da filosofia de montanhismo de Chiang Chih-chieh
 
 ## Fontes das imagens
 

@@ -143,8 +143,8 @@ O caminhão já foi embora há muito. Mas quem correu ainda lembra a direção d
 
 - [Indústria de jogos e entretenimento digital de Taiwan](/pt/technology/taiwan-gaming-industry) — Panorama completo dos jogos de Taiwan, do licenciamento à criação original
 - [Cultura das lojas de conveniência de Taiwan](/pt/lifestyle/convenience-store-culture) — O pré-requisito para perseguir caminhões: a segunda maior densidade de lojas do mundo
-- [História das migrações das comunidades de internet de Taiwan](/technology/台灣網路社群遷徙史) — A infraestrutura de propagação por trás destes momentos de loucura
-- [DaYu Twin Swords](/technology/大宇雙劍) — O despertar emocional da geração anterior de jogadores taiwaneses
+- [História das migrações das comunidades de internet de Taiwan](/pt/technology/taiwan-online-community-migration) — A infraestrutura de propagação por trás destes momentos de loucura
+- [DaYu Twin Swords](/pt/technology/softstar-twin-classics) — O despertar emocional da geração anterior de jogadores taiwaneses
 - [Sem entrar na adega, como dormir?](/pt/technology/into-the-cellar-taiwan-game-podcast) — O palco das plataformas comunitárias por trás destes momentos de loucura
 
 ---

@@ -108,7 +108,7 @@ Taiwan tem muitas lendas industriais, mas a singularidade de Wang Yung-ching res
 
 Ele não deixou apenas um grupo, deixou uma filosofia enxuta à moda de Taiwan: tornar os custos claros, questionar os processos até à raiz, e repetir isto a vida inteira. Esta filosofia, nas suas fábricas, nos seus hospitais, na história da sua mercearia de arroz, diz sempre a mesma frase.
 
-**Leitura complementar**: [Wang Yung-ching — Wikipédia](https://zh.wikipedia.org/wiki/王永慶) ｜ [Sexta Unidade de Craqueamento do Formosa Plastics: a transformação chave da indústria petroquímica de Taiwan](https://storystudio.tw/article/gushi/taiwan-plastic-industry) ｜ [Yin Yen-liang: o prémio científico que ele construiu, mais caro que o Nobel](/people/尹衍樑) — caso espelho de líder industrial da mesma geração de Taiwan transformado em filantropo
+**Leitura complementar**: [Wang Yung-ching — Wikipédia](https://zh.wikipedia.org/wiki/王永慶) ｜ [Sexta Unidade de Craqueamento do Formosa Plastics: a transformação chave da indústria petroquímica de Taiwan](https://storystudio.tw/article/gushi/taiwan-plastic-industry) ｜ [Yin Yen-liang: o prémio científico que ele construiu, mais caro que o Nobel](/pt/people/samuel-yin-yan-liang) — caso espelho de líder industrial da mesma geração de Taiwan transformado em filantropo
 
 ## Referências
 

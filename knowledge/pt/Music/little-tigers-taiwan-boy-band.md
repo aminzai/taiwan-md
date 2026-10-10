@@ -160,7 +160,7 @@ Chen Zhipeng disse que "não quer que os outros o puxem de volta para dentro". M
 
 **Leitura complementar**:
 
-- [Música pop de Taiwan](/music/台灣流行音樂) — Da folk, ao mandopop, à indústria idol: a linhagem completa, onde os Pequenos Tigres são elo chave
+- [Música pop de Taiwan](/pt/music/golden-melodies-legacy-taiwan-pop-music) — Da folk, ao mandopop, à indústria idol: a linhagem completa, onde os Pequenos Tigres são elo chave
 - [Prémio Golden Melody](/pt/music/pop-music-and-golden-melody-awards) — Como Taiwan usa um troféu para definir o que é "bom mandopop"
 - [Jay Chou](/pt/people/jay-chou) — Depois da indústria idol, a outra subjetividade musical em mandarim que Taiwan fez nascer
 - [Mayday](/pt/music/mayday-band) — Também nascidos do local, famosos em todo o mundo sinófono, uma banda que trilhou caminho radicalmente diferente do grupo idol

@@ -215,11 +215,11 @@ Naquela sessão de imprensa de junho de 2025, o chão tremeu antes de a tela ace
 ## Leitura complementar
 
 - [Tsai Ing-wen](/pt/people/tsai-ing-wen) — Protagonista filmada de perto por sete anos, primeira presidente mulher de Taiwan, de 800 mil votos de derrota a 8,17 milhões de reeleição
-- [Movimento Girassol](/society/太陽花學運) — Nó-chave do arco democrático no filme, 24 dias em 2014 que redefiniram a consciência política de uma geração
+- [Movimento Girassol](/pt/society/sunflower-movement) — Nó-chave do arco democrático no filme, 24 dias em 2014 que redefiniram a consciência política de uma geração
 - [Chi Cheng](/pt/people/chi-cheng-flying-antelope) — A "Gazela Saltadora" que no filme mostra a medalha de 1968 na Cidade do México e pergunta "Taipé Chinesa é nome de país?"
-- [Taipé Chinesa](/society/中華台北) — O mecanismo de nome olímpico por trás da "medalha que não pode dizer o próprio nome"
-- [Espectro unificação-independência de Taiwan](/society/台灣統獨光譜) — Coordenadas do espectro de soberania onde se situa a frase de Tsai Ing-wen "Taiwan já é um país independente"
-- [Puma Shen](/people/沈伯洋) — Versão real da aula de defesa civil do final: cofundador da Kuma Academy, deputado que ensina "como sobreviver" a civis
+- [Taipé Chinesa](/pt/society/chinese-taipei) — O mecanismo de nome olímpico por trás da "medalha que não pode dizer o próprio nome"
+- [Espectro unificação-independência de Taiwan](/pt/society/taiwan-unification-independence-spectrum) — Coordenadas do espectro de soberania onde se situa a frase de Tsai Ing-wen "Taiwan já é um país independente"
+- [Puma Shen](/pt/people/puma-shen) — Versão real da aula de defesa civil do final: cofundador da Kuma Academy, deputado que ensina "como sobreviver" a civis
 - [O Construtor de Montanhas: A Aposta do Século](/pt/art/mountain-makers-tsmc-documentary) — Outro documentário "valores de Taiwan" estreado no mesmo dia, conta a história dos semicondutores taiwaneses
 
 ## Créditos das imagens

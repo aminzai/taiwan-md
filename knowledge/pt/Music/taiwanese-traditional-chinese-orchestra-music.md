@@ -178,7 +178,7 @@ A questão "a qual nação pertence o 'Guo' da Guoyue" talvez nunca precise de r
 - [Canto Polifônico de Oito Vozes](/pt/music/bunun-pasibutbut-eight-part-polyphony) — O sistema de harmônicos do pasibutbut, o material central do diálogo entre a Guoyue e a música indígena
 - [Música Hakka de Taiwan](/pt/music/taiwan-hakka-music-from-mountain-songs-to-rock) — Arranjos de canções de montanha hakka massivamente apresentados pela Orquestra Nacional de Kaohsiung, outro caminho da Guoyue no sul de Taiwan
 - [Fabricação de Instrumentos de Taiwan](/pt/music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories) — De saxofones em Houli a instrumentos de Guoyue, como Taiwan passou de "usuário" a "fabricante"
-- [Movimento de Canções Populares de Taiwan](/music/台灣民歌運動) — O movimento "cantar nossas próprias canções" nos anos 1970, compartilhando o mesmo espírito da época com a localização da Guoyue
+- [Movimento de Canções Populares de Taiwan](/pt/music/taiwan-campus-folk-song-movement) — O movimento "cantar nossas próprias canções" nos anos 1970, compartilhando o mesmo espírito da época com a localização da Guoyue
 - [Paisagem Sonora de Taiwan](/pt/music/taiwan-soundscape) — Como o ambiente sonoro da ilha penetra nos ouvidos dos compositores
 - [Canções Populares e Melodias de Taiwan](/pt/music/taiwan-folk-music-and-songs) — Nanguan, Beiguan, canções populares em taiwanês, a tradição sonora já existente na ilha antes da Guoyue cruzar o mar
 

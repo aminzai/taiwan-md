@@ -170,8 +170,8 @@ O "grau" é apenas uma entrada. É útil porque nos ajuda a ver como a escada ro
 
 - [Geração Bico de Taiwan](/pt/society/taiwan-slash-generation-multi-job-economy) — O sétimo e oitavo graus, sob a estrutura de salários baixos, dividem um salário em três empregos para sobreviver
 - [Perda de Rumo na Carreira dos Jovens de Taiwan](/pt/society/taiwan-youth-career-confusion) — Dezoito anos de escola, no dia da formatura a pergunta mais comum é "não sei o que quero fazer"
-- [Crise da Baixa Natalidade em Taiwan](/society/台灣少子化危機) — O número de nascimentos despenca de 420.000 para 160.000, o bolo fica cada vez menor a cada ano
-- [Espectro da Unificação e Independência de Taiwan](/society/台灣統獨光譜) — A visão completa da linha de falha de identidade, de "quem sou eu" a "para onde vamos"
+- [Crise da Baixa Natalidade em Taiwan](/pt/society/taiwan-low-birth-rate-crisis) — O número de nascimentos despenca de 420.000 para 160.000, o bolo fica cada vez menor a cada ano
+- [Espectro da Unificação e Independência de Taiwan](/pt/society/taiwan-unification-independence-spectrum) — A visão completa da linha de falha de identidade, de "quem sou eu" a "para onde vamos"
 - [MySpace](/pt/culture/wretch) — O servidor digital da juventude do sétimo grau, desligado em 2013, reapareceu no Threads em 2025
 
 ## Fontes das Imagens

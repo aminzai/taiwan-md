@@ -76,7 +76,7 @@ Zhou Liping, presidente do Polymer, declarou ao passar o bastão para a segunda 
 
 ## Leitura Complementar
 
-- [Economia Circular e Reutilização de Recursos de Taiwan](/economy/台灣循環經濟與資源再利用) — O contexto da economia circular de garrafas PET para roupas
+- [Economia Circular e Reutilização de Recursos de Taiwan](/pt/economy/circular-economy-and-resource-recycling) — O contexto da economia circular de garrafas PET para roupas
 - [Transformação e Atualização Industrial de Taiwan](/pt/economy/industrial-transformation-from-manufacturing-to-innovation) — O quadro maior da transformação da indústria tradicional
 
 ## Referências e Fontes

@@ -82,8 +82,8 @@ Do primeiro vídeo de Tsai A-ga aos dez milhões de inscritos de Chi Hsuan, a cu
 
 **Leitura complementar**:
 
-- [A-shen](/people/阿神) — Do relato em primeira pessoa de onze anos de publicação diária, dois anúncios de pausa diferentes, até ao regresso em 2026, mostra concretamente como um criador reescreve o compromisso de publicação fixa.
-- [PanSci](/society/泛科學) — Da divulgação científica em artigos ao vídeo curto, YouTube MCN e serviços para criadores de conhecimento, completa o caso de como criadores de conhecimento enfrentam o algoritmo e a comercialização.
+- [A-shen](/pt/people/red-shin-minecraft-youtuber) — Do relato em primeira pessoa de onze anos de publicação diária, dois anúncios de pausa diferentes, até ao regresso em 2026, mostra concretamente como um criador reescreve o compromisso de publicação fixa.
+- [PanSci](/pt/society/pansci) — Da divulgação científica em artigos ao vídeo curto, YouTube MCN e serviços para criadores de conhecimento, completa o caso de como criadores de conhecimento enfrentam o algoritmo e a comercialização.
 - [Wretch.cc](/pt/culture/wretch) — O berço da primeira geração de criadores amadores de Taiwan (Wanwan, Giddens Ko, álbuns de garotas bonitas), a economia de criadores antes dos YouTubers nasceu daqui.
 
 ## Referências

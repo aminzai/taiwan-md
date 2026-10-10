@@ -143,7 +143,7 @@ Da mesma forma, as estradas, o fabrico de gelo, a eletricidade e o armazenamento
 ## Leituras complementares
 
 - [Modernização da pesca de Taiwan](/pt/history/taiwan-fishery-modernization) — A segunda metade do mesmo mar: frotas de alto mar, zona económica exclusiva e responsabilidades do Estado de bandeira
-- [História das associações de agricultores de Taiwan](/history/台灣農會史) — Organização rural, finanças e a mudança institucional da janela pública local
+- [História das associações de agricultores de Taiwan](/pt/history/taiwan-farmers-association-history) — Organização rural, finanças e a mudança institucional da janela pública local
 - [História dos correios de Taiwan](/history/台灣郵政史) — Outra infraestrutura pública que liga o local, a logística e a administração nacional
 - [História do abastecimento de água de Taiwan](/history/台灣自來水史) — Como engenharia, higiene e quotidiano urbano formam juntos uma instituição
 

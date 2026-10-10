@@ -125,7 +125,7 @@ Envelhecimento dos mestres, encolhimento do mercado, ruptura de matéria-prima, 
 
 ## Leituras complementares
 
-- [Tecido floral de Taiwan](/culture/台灣花布) — igualmente "rotulado hakka" nos anos 1990, por trás camadas de memórias de vida partilhadas por diferentes grupos étnicos
+- [Tecido floral de Taiwan](/pt/culture/taiwan-floral-fabric) — igualmente "rotulado hakka" nos anos 1990, por trás camadas de memórias de vida partilhadas por diferentes grupos étnicos
 - [Cultura do chá de Taiwan](/pt/culture/taiwanese-tea-culture-and-living-aesthetics) — a redução de colhedores de chá puxou diretamente o mercado do douli
 - [Mapa cultural das 16 etnias indígenas de Taiwan](/pt/culture/indigenous-peoples-16-tribes-cultural-map) — a origem dos chapéus e esteiras de _lu-cao_ de Yuanli são mulheres pingpu, não han
 

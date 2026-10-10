@@ -252,7 +252,7 @@ Funciona há doze anos. 2026 é o início dos próximos quatro anos.
 - [Eleições unificadas de 2026](/politics/2026 九合一選舉) — sistema completo e cronograma
 - [O que são as eleições unificadas](/pt/politics/nine-in-one-elections-explained) — desdobramento dos nove cargos das "nove em uma"
 - [Sistema de chefes de aldeia](/pt/politics/village-chief-system) — 7.748 chefes eleitos, a unidade política mais básica
-- [Sistema de vereadores](/politics/議員制度) — poderes legais e operação real de vereadores de municípios especiais e condados/cidades
+- [Sistema de vereadores](/pt/politics/city-councilor-system-taiwan) — poderes legais e operação real de vereadores de municípios especiais e condados/cidades
 - [Sistema da Comissão Eleitoral Central](/pt/politics/central-election-commission) — desenho institucional da administração eleitoral
 - [Democratização](/pt/history/taiwan-democratization-history) — percurso de Taiwan do autoritarismo à democracia
 

@@ -120,11 +120,11 @@ A carta de demissão escrita pelo corpo foi finalmente concluída com o álbum �
 
 **Leituras Relacionadas**:
 
-- [Wei Ru-hsuan](/people/魏如萱) — Cantora contemporânea, duas rainhas do prêmio de canções mais vendidas, vinte anos da vocalista de cabelo cacheado natural ao ser rotulada como "povo" em entrevistas de rua.
-- [Chang Yu-sheng](/people/張雨生) — Um caso precoce de tensão entre a identidade de "ídolo e músico" na indústria mandarina.
-- [Chen Jianqi](/people/陳建騏) — Subgênero produtor, ele é o guardião das fronteiras sonoras da música pop mandarina.
-- [Zheng Yinong](/people/鄭宜農) — Cantora criadora da mesma geração, escrevendo canções honestas com a linguagem mais estranha.
-- [Programas de Entretenimento em Taiwan](/culture/台灣綜藝) — A história da criação de celebridades na televisão taiwanesa, o contexto de meio século desde 《Star Meeting》 até 《Super Star\*.
+- [Wei Ru-hsuan](/pt/people/waa-wei-singer) — Cantora contemporânea, duas rainhas do prêmio de canções mais vendidas, vinte anos da vocalista de cabelo cacheado natural ao ser rotulada como "povo" em entrevistas de rua.
+- [Chang Yu-sheng](/pt/people/chang-yu-sheng-singer) — Um caso precoce de tensão entre a identidade de "ídolo e músico" na indústria mandarina.
+- [Chen Jianqi](/pt/people/chen-chien-chi-music-producer) — Subgênero produtor, ele é o guardião das fronteiras sonoras da música pop mandarina.
+- [Zheng Yinong](/pt/people/cheng-i-nung) — Cantora criadora da mesma geração, escrevendo canções honestas com a linguagem mais estranha.
+- [Programas de Entretenimento em Taiwan](/pt/culture/taiwan-variety-shows) — A história da criação de celebridades na televisão taiwanesa, o contexto de meio século desde 《Star Meeting》 até 《Super Star\*.
 
 ---
 

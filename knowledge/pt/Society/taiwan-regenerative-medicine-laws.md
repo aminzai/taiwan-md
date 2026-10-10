@@ -273,7 +273,7 @@ Todo outubro, uma senhora húngara abria o rádio, ouvia quietamente o Comitê N
 
 **Leitura Complementar**:
 
-- [Saúde Pública e Sistema de Prevenção Epidêmica de Taiwan](/society/台灣公共衛生與防疫體系) — Contexto completo do sistema de prevenção de Taiwan durante COVID-19; a compra de BNT em 2021 é um trecho
+- [Saúde Pública e Sistema de Prevenção Epidêmica de Taiwan](/pt/society/taiwan-public-health-epidemic-response) — Contexto completo do sistema de prevenção de Taiwan durante COVID-19; a compra de BNT em 2021 é um trecho
 - [Lei Médica](/pt/society/medical-care-act) — A Lei Dupla de Medicina Regenerativa saiu da Lei Médica como lei especial; a Lei Médica é a raiz da regulação institucional médica de Taiwan
 - [Desenvolvimento da Indústria Biotech de Taiwan](/technology/台灣生技產業發展) — Do ensino-pesquisa à industrialização, contexto geral do biotech; terapia celular e plataforma mRNA são ramos
 - [Saúde de Taiwan e Seguro Saúde Nacional](/pt/lifestyle/taiwan-healthcare-and-national-health-insurance) — Se terapia celular entra no pagamento do NHI, é chave para visão "Banco Asiático de Células"; estrutura de orçamento global do NHI também define rota de comercialização da medicina regenerativa

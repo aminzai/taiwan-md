@@ -306,12 +306,12 @@ Três eras de fé de Taipé, alinhadas num eixo de 1,5 km, sem precedência, sem
 
 **Leitura complementar**:
 
-- [Taipé](/geography/台北市) — Contexto completo da cidade onde fica Dalongdong, do número Chen-Lai-Zhang de 1709 ao panorama de 2026
-- [Mengjia](/geography/艋舺) — Bairro mais antigo de Taipé na era Qing com Longshan Temple formado em 1738, outra ponta do conflito Ding-Xia Jiao de 1853
-- [Dadaocheng](/geography/大稻埕) — Assentamento final dos Tong'an em 1853, centro de comércio de chá em 1860, rua irmã de Dalongdong com mesma origem caminhos diferentes
-- [Ximending](/geography/西門町) — Distrito de entretenimento do período japonês em 1908, mesma época de Dalongdong mas experimento urbano completamente diferente
+- [Taipé](/pt/geography/taipei-city) — Contexto completo da cidade onde fica Dalongdong, do número Chen-Lai-Zhang de 1709 ao panorama de 2026
+- [Mengjia](/pt/geography/bangka) — Bairro mais antigo de Taipé na era Qing com Longshan Temple formado em 1738, outra ponta do conflito Ding-Xia Jiao de 1853
+- [Dadaocheng](/pt/geography/dadaocheng) — Assentamento final dos Tong'an em 1853, centro de comércio de chá em 1860, rua irmã de Dalongdong com mesma origem caminhos diferentes
+- [Ximending](/pt/geography/ximending) — Distrito de entretenimento do período japonês em 1908, mesma época de Dalongdong mas experimento urbano completamente diferente
 - [Religião e cultura de templos em Taiwan](/pt/culture/taiwan-religion-and-temple-culture) — Contexto completo do Baoan Temple, restauração de Liao Wu-zhi, Prêmio UNESCO
-- [Shilin](/geography/士林) — Conflito Zhang-Quan de 1859 e acolhimento pelos Tong'an de Dalongdong dos refugiados do conflito Ding-Xia Jiao de 1853, duas paisagens de conflito étnico no norte de Taiwan na era Qing
+- [Shilin](/pt/geography/shilin) — Conflito Zhang-Quan de 1859 e acolhimento pelos Tong'an de Dalongdong dos refugiados do conflito Ding-Xia Jiao de 1853, duas paisagens de conflito étnico no norte de Taiwan na era Qing
 
 ## Fontes das imagens
 

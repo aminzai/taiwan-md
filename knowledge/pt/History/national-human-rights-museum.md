@@ -327,8 +327,8 @@ O que pode ser congelado não é este museu. É esta infraestrutura de memória 
 - [Prisão de Ilha Verde](/pt/history/green-island-prison) — A mesma ilha, da prisão política negra à memória em camadas da terra natal dos "grandes irmãos". Este artigo foca na instituição museal, aquele trata da memória espacial
 - [Período da Lei Marcial](/pt/history/martial-law-era) — 38 anos de lei marcial 1949-1987, a base legal da história exibida por este museu
 - [Terror Branco de Taiwan](/pt/history/taiwan-white-terror) — 29.407 casos militares, 140 mil famílias de vítimas, a escala concreta memorializada pelo Monumento das Lágrimas
-- [Justiça de Transição de Taiwan](/history/台灣轉型正義) — Revogou seis mil sentenças mas não conseguiu responsabilizar perpetradores, este artigo é um corte institucional
-- [Incidente 228](/history/二二八事件) — Maior revolta civil do pós-guerra em Taiwan, ponto de partida que gerou 38 anos de lei marcial
+- [Justiça de Transição de Taiwan](/pt/history/taiwan-transitional-justice) — Revogou seis mil sentenças mas não conseguiu responsabilizar perpetradores, este artigo é um corte institucional
+- [Incidente 228](/pt/history/228-incident) — Maior revolta civil do pós-guerra em Taiwan, ponto de partida que gerou 38 anos de lei marcial
 
 ## Fontes das imagens
 

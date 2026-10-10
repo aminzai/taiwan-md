@@ -198,7 +198,7 @@ Na próxima vez que for a Taipé, não visite apenas o Xinyi 101 e o Mercado Not
 ## Leitura Adicional
 
 - [Cidade de Keelung](/pt/geography/keelung-city) — Série dos 22 Municípios piloto: o porto mais próximo de Taipé, a metrópole materna de Taipé; quando o governo nacional (Kuomintang) desembarcou em Keelung e foi para Taipé
-- [Nova Cidade de Taipei](/geography/新北市) — A cidade satélite que circunda Taipé, com mais de 1 milhão de pessoas se deslocando diariamente de Nova Cidade de Taipei para trabalhar em Taipé
+- [Nova Cidade de Taipei](/pt/geography/new-taipei-city) — A cidade satélite que circunda Taipé, com mais de 1 milhão de pessoas se deslocando diariamente de Nova Cidade de Taipei para trabalhar em Taipé
 - [Cidade de Taoyuan](/pt/geography/taoyuan-city) — O Aeroporto Internacional de Taoyuan inaugurado em 1979; o portal de transporte aéreo internacional de Taiwan mudou de Keelung para Taoyuan, e Taipé perdeu seu porto marítimo
 - [Cidade de Kaohsiung](/pt/geography/kaohsiung-city) — A segunda cidade administrativa direta elevada em 1979 (12 anos depois de Taipé); o Incidente da Família Lin ocorreu na Rua Xinyi Section 3, No. 16, Cidade de Taipé
 - [Cidade de Taichung](/pt/geography/taichung-city) — A terceira cidade administrativa direta elevada em 2010 (43 anos depois de Taipé); dois modelos de especialização entre a cidade central e Taipé

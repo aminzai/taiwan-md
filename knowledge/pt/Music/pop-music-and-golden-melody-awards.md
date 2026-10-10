@@ -260,12 +260,12 @@ Trinta e poucos anos depois, os Golden Melody na verdade não estão a dar prém
 
 ## Leituras recomendadas
 
-- [Música popular de Taiwan](/music/台灣流行音樂) — Da indústria fonográfica à era de streaming, a história completa do ascenso e declínio da indústria; os Golden Melody são a marca oficial ao longo desse caminho
-- [Evolução da música em taiquês de Taiwan](/music/台灣台語歌曲演進) — Do lamento melancólico ao rock de Lin Chiang <向前走>, como a música em taiquês chegou ao mainstream
+- [Música popular de Taiwan](/pt/music/golden-melodies-legacy-taiwan-pop-music) — Da indústria fonográfica à era de streaming, a história completa do ascenso e declínio da indústria; os Golden Melody são a marca oficial ao longo desse caminho
+- [Evolução da música em taiquês de Taiwan](/pt/music/taiwanese-hokkien-song-evolution) — Do lamento melancólico ao rock de Lin Chiang <向前走>, como a música em taiquês chegou ao mainstream
 - [Tradições musicais indígenas de Taiwan](/pt/music/indigenous-music-traditions) — Das canções tribais a Chen Chien-nien e Abao, as raízes e a contemporaneidade da música indígena
 - [Cantores indígenas contemporâneos](/pt/music/contemporary-indigenous-singer-songwriters) — A voz e a situação de Ji Xiaoqiu, Paiwan e Abao nessa linha de criadores
 - [Cena de música independente de Taiwan](/pt/music/indie-music-scene) — Como o leste da grama e a geração das ruas contornaram a indústria fonográfica para chegar ao topo dos Golden Melody
-- [Prêmios Golden Bell](/culture/金鐘獎) — A mais antiga das três ouro: uma campainha fundada para a radiodifusão em 1965, a lista de vencedores de 61 anos registra quem segura a TV de Taiwan
+- [Prêmios Golden Bell](/pt/culture/golden-bell-awards) — A mais antiga das três ouro: uma campainha fundada para a radiodifusão em 1965, a lista de vencedores de 61 anos registra quem segura a TV de Taiwan
 
 ## Fontes das imagens
 

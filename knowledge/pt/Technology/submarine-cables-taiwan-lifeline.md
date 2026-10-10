@@ -195,10 +195,10 @@ Por isso o Edifício 506 não tem placa.
 
 ## Leitura complementar
 
-- [The Reporter: dez anos a transformar reportagem de investigação de item de negócio em bem público](/society/報導者) — mesmo foco na credibilidade da sociedade civil e infraestruturas de Taiwan pós-2015
-- [Arte de novos media em Taiwan](/art/台灣新媒體藝術) — infraestrutura cultural digital sustentada pela internet que corre por baixo dos cabos
-- [Movimentos sociais e participação cívica](/society/社會運動與公民參與) — contexto mais amplo da pressão da sociedade civil por trás da Lei dos Sete Cabos e plataformas locais de resposta
-- [justfont e o desenvolvimento tipográfico de Taiwan](/technology/justfont與台灣字體發展) — outro eixo a mostrar a dimensão de «infraestrutura cultural»
+- [The Reporter: dez anos a transformar reportagem de investigação de item de negócio em bem público](/pt/society/the-reporter-investigative-journalism) — mesmo foco na credibilidade da sociedade civil e infraestruturas de Taiwan pós-2015
+- [Arte de novos media em Taiwan](/pt/art/taiwan-new-media-art) — infraestrutura cultural digital sustentada pela internet que corre por baixo dos cabos
+- [Movimentos sociais e participação cívica](/pt/society/social-movements-and-civic-participation) — contexto mais amplo da pressão da sociedade civil por trás da Lei dos Sete Cabos e plataformas locais de resposta
+- [justfont e o desenvolvimento tipográfico de Taiwan](/pt/technology/justfont-and-taiwan-typography) — outro eixo a mostrar a dimensão de «infraestrutura cultural»
 
 ## Referências
 

@@ -299,12 +299,12 @@ Depois a câmara virou para o próximo prémio.
 **Leitura complementar**:
 
 - [Ara Wei (魏如萱)](/pt/people/waa-wei-singer) — Pertence ao mesmo ecossistema de música independente dos anos 2010, contraponto do percurso vocal feminino
-- [The Constant Change (康士坦的變化球)](/people/康士坦的變化球) — Mesmo espectro post-rock, mas percurso de narrativa vocal, contraponto
+- [The Constant Change (康士坦的變化球)](/pt/people/constant-and-change-band) — Mesmo espectro post-rock, mas percurso de narrativa vocal, contraponto
 - [Cicada](/pt/people/cicada-band) — Percurso totalmente instrumental sem voz, oposto ao "letra como sociologia" do No Party for Cao Dong
 - [Lu Guang-zhong (盧廣仲)](/pt/people/crowd-lu-indie-folk-treasure) — Outro percurso de "cantor de obra" na música independente
 - [Golden Melody (金曲獎)](/pt/music/pop-music-and-golden-melody-awards) — Palco onde o No Party for Cao Dong ganhou duas vezes Melhor Banda
 - [Música Independente de Taiwan (台灣獨立音樂)](/pt/music/indie-music-scene) — Evolução da música independente de Taiwan desde os No Use For A Name até ao No Party for Cao Dong e Accusefive
-- [Música Pop de Taiwan (台灣流行音樂)](/music/台灣流行音樂) — Ambiente da indústria da música pop em mandarim
+- [Música Pop de Taiwan (台灣流行音樂)](/pt/music/golden-melodies-legacy-taiwan-pop-music) — Ambiente da indústria da música pop em mandarim
 
 ## Fontes das imagens
 
