@@ -1,22 +1,22 @@
 ---
-title: 'Dapat Memprediksi Angin Hujan, Tidak Dapat Memprediksi Takdir: Empat Ratus Tahun Taiwan dengan Typhoon'
-description: 'Pagi 2009 saat Typhoon Morakot, Luo Pan Chun-mei berusia 71 tahun berdiri di balkon lantai dua, menyaksikan Gunung Siangtung runtuh menelan 462 kerabat di Desa Xiaolin. Lima belas tahun kemudian, Taiwan memakai enam model AI yang menekan kesalahan jalur typhoon 24 jam dari 172 km menjadi 57 km. Tapi di dalam 57 km itu, siapa yang keluar kerja di tengah badai, siapa yang tidak menerima notifikasi, tidak terprediksi.'
+title: 'Bisa Memprediksi Hujan dan Angin, Tak Bisa Memprediksi Takdir: Taiwan dan 400 Tahun Bertarung melawan Angin Topan'
+description: 'Pada pagi yang cerah 2009, Morak, Roh Pan Chun-mei berdiri di balkon lantai dua, menyaksikan Gunung Hsun-tu runtuh dan menelan 462 kerabat di Kampung Hsiung-lin. Lima belas tahun kemudian, Taiwan berhasil menurunkan kesalahan prediksi jalur angin topan 24 jam dari 172 km menjadi 57 km dengan enam model AI. Namun, siapa yang akan keluar kerja di tengah hujan dan angin, siapa yang tidak akan menerima pemberitahuan — itu tak bisa diprediksi.'
 date: 2026-05-09
 category: 'Nature'
 tags:
   [
-    'typhoon',
-    'morakot',
-    'herb',
-    'nari',
+    'angin topan',
+    'Morak',
+    'Ho-hsuan',
+    'Nari',
     'perubahan iklim',
-    'libur typhoon',
-    'kearifan lokal orang asli',
-    'wu te-jung',
-    'wu chun-chieh',
-    'luo pan chun-mei',
-    'prediksi ai',
-    'formosat-7',
+    'hari libur angin topan',
+    'kebijaksanaan suku asli',
+    'Wu De-xiong',
+    'Wu Chun-chieh',
+    'Roh Pan Chun-mei',
+    'prediksi AI',
+    'FORMOSAT-7',
   ]
 subcategory: '氣候與災害'
 author: 'Taiwan.md'
@@ -30,241 +30,245 @@ imageCredit: 'NASA MODIS Rapid Response (Aqua)'
 imageLicense: 'Public domain (NASA)'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Typhoon_Morakot_Aug_7_2009.jpg'
 sporeLinks:
-  [
-    "{'id': 115, 'platform': 'threads', 'date': '2026-06-03', 'url': 'https://www.threads.com/@taiwandotmd/post/DZHUHpQk02w'}",
-    "{'id': 116, 'platform': 'x', 'date': '2026-06-03', 'url': 'https://x.com/taiwandotmd/status/2062065024613679469'}",
-  ]
+  - id: 115
+    platform: 'threads'
+    date: '2026-06-03'
+    url: 'https://www.threads.com/@taiwandotmd/post/DZHUHpQk02w'
+  - id: 116
+    platform: 'x'
+    date: '2026-06-03'
+    url: 'https://x.com/taiwandotmd/status/2062065024613679469'
 translatedFrom: 'Nature/颱風.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:b0a47a120aff0621'
-sourceBodyHash: 'sha256:b8ebcfc4e0a96ce7'
-translatedAt: '2026-07-29T12:59:26+08:00'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:ae6eb429d45b37f4'
+sourceBodyHash: 'sha256:a891f90b49935053'
+translatedAt: '2026-10-10T09:17:01+08:00'
 ---
 
-# Dapat Memprediksi Angin Hujan, Tidak Dapat Memprediksi Takdir: Empat Ratus Tahun Taiwan dengan Typhoon
+# Bisa Memprediksi Hujan dan Angin, Tak Bisa Memprediksi Takdir: Taiwan dan 400 Tahun Bertarung melawan Angin Topan
 
-> **30 detik ringkasan:** Pagi 8 Agustus 2009, Gunung Siangtung runtuh setelah tiga hari hujan lebat beruntun, menelan 462 nyawa di Desa Xiaolin. Enam belas tahun kemudian, kesalahan prakiraan jalur typhoon 24 jam Taiwan, dari 172 kilometer pada 2000 menyusut jadi 57 kilometer pada 2025. Setiap hari satu butir Satelit Formosat-7 menjatuhkan 4.000 lebih data atmosfer, enam model AI menghasilkan peta peringatan tiga puluh hari dalam empat menit. Tapi detik Luo Pan Chun-mei berdiri di lantai dua menyaksikan kerabatnya hilang, radar sepresisi apapun tidak bisa menangkap. Dapat memprediksi angin hujan, tidak dapat memprediksi takdir.
+> **Ringkasan 30 detik:** Pada pagi 8 Agustus 2009, Gunung Hsun-tu runtuh setelah tiga hari hujan lebat, menelan 462 nyawa di Kampung Hsiung-lin. Enam belas tahun kemudian, kesalahan prediksi jalur angin topan 24 jam Taiwan berkurang dari 172 km pada 2000 menjadi 57 km pada 2025. Setiap hari, Satelit Formosa-7 mengorbankan lebih dari 4.000 data atmosfer, enam model AI menghasilkan peta peringatan 30 hari dalam empat menit. Namun, pada detik ketika Roh Pan Chun-mei berdiri di lantai dua menyaksikan kerabatnya menghilang, radar yang paling akurat pun tidak dapat menjangkau. Bisa memprediksi hujan dan angin, tak bisa memprediksi takdir.
 
-## 「Xiaolin Hilang!」
+## "Kampung Hsiung-lin menghilang!"
 
-Pagi 8 Agustus 2009, Luo Pan Chun-mei berusia 71 tahun berdiri di balkon lantai dua.
+Pada pagi 8 Agustus 2009, Roh Pan Chun-mei berusia 71 tahun berdiri di balkon lantai dua.
 
-Keesokan harinya Gunung Siangtung masih utuh, tapi setelah tiga hari hujan lebat beruntun, gunung itu runtuh. Tanah batu seperti naga kuning raksasa meluncur dari puncak, menelan jalan, rumah, kampung halaman yang dia tempuh seumur hidup. 462 kerabatnya, sejak itu hilang di antara gunung-gunung.[^1]
+Hari sebelumnya, Gunung Hsun-tu yang dulu stabil runtuh setelah tiga hari hujan lebat. Tanah dan batu seperti naga kuning raksasa meluncur dari puncak gunung, menelan jalan, rumah, dan kampung yang telah menjadi tempat tinggalnya selama seumur hidup. 462 kerabatnya pun lenyap dalam hamparan pegunungan. [^1]
 
-> **✦** 「Menangis sampai tidak bisa nangis lagi, sekarang jarang mengeluarkan air mata, kita harus bangkit.」——Luo Pan Chun-mei, menatap kembali sepuluh tahun pasca bencana Morakot
+> **✦** "Menangis sampai tidak bisa menangis lagi, sekarang tidak mudah menangis lagi, kita harus bangun dan keluar." — Roh Pan Chun-mei, mengingat kembali sepuluh tahun setelah bencana Morak
 
-Teriakan itu, momen paling pahit dalam empat ratus tahun pertarungan Taiwan dengan typhoon. Typhoon di pulau ini adalah puisi petugas Penghu 1705, bendera warna di atap pelabuhan Takao 1865, pagi hilangnya Desa Xiaolin 2009, juga hujan di mana 81% buruh tetap pergi kerja setiap musim panas.
+Itu teriak, adalah momen paling menyakitkan dalam 400 tahun Taiwan berjuang melawan angin topan. Angin topan bagi pulau ini adalah bait pada 1705 ditulis oleh pejabat Pescadores, bendera warna di atap gudang di Daegu pada 1865, pagi hari ketika Kampung Hsiung-lin menghilang pada 2009, juga adalah hujan di mana 81% pekerja tetap datang kerja setiap musim panas.
 
-| Indikator                                              | Nilai                                                                  |
-| ------------------------------------------------------ | ---------------------------------------------------------------------- |
-| Rata-rata typhoon melanda Taiwan per tahun             | 3,5 buah                                                               |
-| Kontribusi typhoon terhadap curah hujan tahunan Taiwan | hampir 50%                                                             |
-| Kerugian pertanian typhoon 2024                        | ± 52 miliar dolar Taiwan baru (98,88% total bencana pertanian tahunan) |
-| Kesalahan prakiraan jalur typhoon 24 jam (2000→2025)   | 172 km → 57 km                                                         |
-| Data profil atmosfer harian Formosat-7                 | 4.000–5.000 entri                                                      |
+| Indikator                                                          | Nilai                                                                |
+| ------------------------------------------------------------------ | -------------------------------------------------------------------- |
+| Rata-rata angin topan yang mengenai Taiwan setiap tahun            | 3,5                                                                  |
+| Persentase curah hujan nasional yang disumbangkan oleh angin topan | Hampir 50%                                                           |
+| Kerusakan pertanian akibat angin topan 2024                        | Sekitar NT$52 miliar (98,88% dari total kerusakan pertanian tahunan) |
+| Kesalahan prediksi jalur angin topan 24 jam (2000→2025)            | 172 km → 57 km                                                       |
+| Volume data atmosfer harian dari FORMOSAT-7                        | 4.000–5.000 entri                                                    |
 
-## Bendera Angin Hujan Takao, ke 1.094 Milimeter Alishan
+## Bendera angin hujan di Daegu, hingga 1.094 mm di Gunung Ali
 
-Sejarah Taiwan menghadapi typhoon, lebih lama dari Republik Tiongkok (Taiwan).
+Sejarah Taiwan melawan angin topan jauh lebih lama dibanding Republik Tiongkok.
 
-Era Tongzhi Dinasti Qing (sekitar 1865), orang Inggris memasang bendera angin hujan di atap Rumah Sakit Mackay di Takao (sekarang Kaohsiung) — sistem peringatan cuaca paling awal Taiwan. Warna bendera mewakili tingkat angin berbeda, kapal melihat bendera tahu apakah harus keluar laut.[^6]
+Pada masa Dinasti Qing, terbitan 1865, orang Inggris menggantungkan bendera peringatan angin hujan di atap rumah sakit Muhammad di Daegu (sekarang Kaohsiung). Warna bendera melambangkan tingkat kecepatan angin yang berbeda, kapal laut dapat melihat bendera dan memutuskan apakah aman untuk melaut. [^6]
 
-Lebih awal seratus enam puluh tahun, 1705 di Penghu, petugas Sun Yuanheng menyaksikan sendiri sebuah badai topan. Dia menulis puisi 85 bait 〈Ge Feng Ge〉:「Angin gugur semalam bangkit kencang, ibu badai datang dari barat marah sombong.」[^35] Tiga ratus tahun kemudian hari ini, setiap kali typhoon datang, puisi itu tetap dibaca ulang di postingan Facebook mana pun.
+Seratus enam puluh tahun sebelumnya, pada 1705, seorang pejabat di Pescadores bernama Sun Yuan-heng menyaksikan sendiri sebuah ribut. Ia menulis 85 bait tentang ribut tersebut: "Angin gugur bangun dengan ribut ribut, ibu ribut datang dari barat dengan marah." [^35] Tiga abad kemudian, setiap kali angin topan akan tiba, baitnya masih dibaca kembali dalam sebuah postingan Facebook.
 
-Waktu lompat ke 31 Juli 1996. Typhoon Herb melanda Taiwan, Alishan dalam sehari turunkan 1.094,5 milimeter hujan — setara hampir setengah tahun hujan Taipei, dicurahkan dalam sehari. Itu pertama kali sejak stasiun cuaca didirikan 1933.[^5] Warga PTT kenang bertahun-tahun kemudian:「Typhoon Herb langsung menenggelamkan rumah lantai satu.」Warga lain:「Kolam ikan dan lahan pertanian ayah yang dikerjakan seumur hidup, separuh besar terbawa banjir.」[^5] Herb dijuluki「921 dunia typhoon」, total kerugian ± 250–300 miliar.
+Melompat ke 31 Juli 1996. Angin topan Ho-hsuan menyerang, Gunung Ali dalam sehari mengungkapkan 1.094,5 mm curah hujan — setara dengan hampir setengah tahun di kota Taipei, mengalir dalam sehari. [^5] Ini adalah catatan pertama sejak stasiun meteorologi didirikan pada 1933. Teman-teman PTT mengingat kembali bertahun-tahun kemudian: "Angin topan Ho-hsuan benar-benar banjirkan lantai satu rumah kami." Seorang teman lain berkata: "Lahan ikan yang menjadi hasil jerih payah ayah kami selama seumur hidup, sebagian besar terbawa oleh banjir." [^5] Ho-hsuan disebut sebagai "921 versi angin topan", dengan total kerusakan sekitar 2,5–3 miliar dolar.
 
-Lima tahun kemudian September 2001. Typhoon Nari dengan jalur aneh mengendap di Taiwan 49 jam. Stasiun Cuaca Taipei catat 425 milimeter sehari, rekor tertinggi 105 tahun.[^2] MRT Banqiao Line total berhenti, 16 stasiun dan depot seluruhnya banjir. Mantan Kepala Bagian Banqiao Line Hu Zongli membawa kunci dan beberapa ratus juta dana putar lari, 12 stasiun yang dia kelola semalam seluruhnya tenggelam. Warga Neihu Bishan Village mendorong setahun daur ulang, badai datang, seratus lima puluh ribu ton sampah lumpuhkan seluruh sistem daur ulang.[^2]
+Lima tahun kemudian, September 2001, angin topan Nari melewati Taiwan dengan jalur yang licik selama 49 jam. Stasiun meteorologi Taipei mencatat 425 mm curah hujan dalam sehari, rekor terbaru dalam 105 tahun. [^2] Seluruh jalur MRT Nanlin terpaksa berhenti beroperasi, 16 stasiun dan pabrik kereta kencana terendam banjir. Panjang stasiun jalur Nanlin, Hu Jung-li, melarikan diri dengan kunci dan puluhan ribu dolar, hanya untuk menemukan 12 stasiun yang dikelola ia dikelilingi oleh banjir semalaman. Warga Distrik Pecyle, Huangshan, yang telah mengumpulkan kembali sampah selama satu tahun, kini kehilangan 150.000 ton sampah yang membuat seluruh sistem daur ulang kolaps. [^2]
 
-Dari puisi 1705 ke MRT 2001, detail tertulis beda, tapi yang tertulis sama — pulau ini tidak tahu saat typhoon datang, mana yang akan hancur.
+Dari bait pada 1705 hingga MRT pada 2001, detail yang dicatat berubah, namun fakta yang dicatat tetap sama — pulau ini tidak tahu di mana angin topan akan memecahkan diri.
 
-## 「Gunung Pelindung Negara」 Adalah Kompresor, Bukan Penghalang
+## "Gunung Penjaga Negara" adalah kompresor, bukan penghalang
 
-Setiap kali typhoon mendekat dari timur ke barat, warga Taiwan bias menatap Pegunungan Tengah rata-rata tingginya 3.000 meter. Masyarakat manis menamainya「Gunung Pelindung Negara」, bersyukur ia melemahkan typhoon, melindungi separuh barat.
+Setiap kali angin topan mendekat dari timur ke barat, orang Taiwan menatap rantau pegunungan tengah yang rata-ratanya melebihi 3.000 meter. Di kalangan masyarakat, ia dikenal sebagai "Gunung Penjaga Negara", yang berterima kasih karena menyebabkan angin topan melemah dan melindungi bagian barat.
 
-Mantan Kepala Pusat Prakiraan Cuaca Wu Te-jung berkali-kali membantah pandangan ini secara publik.[^3]
+Kepala Pusat Prediksi Meteorologi sebelumnya, Wu De-xiong, sering kali membantah klaim ini secara terbuka. [^3]
 
-> 「Jika Taiwan datar, hujan yang dibawa Morakot akan『jauh berbeda』. Justru karena topografi tinggi memaksa udara hangat lembang naik, baru di sisi angin turun curah hujan ekstrem.」
+> "Jika Taiwan datar, hujan yang dibawa oleh Morak akan 'jauh sekali'. Justru karena bentuk geografi yang tinggi memaksa udara hangat dan lembap naik, hujan ekstrempun terjadi di sisi menghadap angin."
 
-Data ilmiah mendukung penilaiannya. Typhoon Herb total hujan tiga hari di Alishan capai 1.994 milimeter — mendekati dua ribu milimeter. Morakot di Alishan total hujan lebih tembus 3.000 milimeter, rekor sejarah.[^5] Angka-angka ini bagaimana bisa「dihalangi gunung pelindung」? Jelas diekstrusi gunung. Gunung ubah angin jadi air, tuangkan di sisi angin.
+Data ilmiah mendukung pendapatnya. Curah hujan total selama tiga hari di Gunung Ali akibat angin topan Ho-hsuan mencapai 1.994 mm — hampir dua ribu milimeter. Akibat Morak, curah hujan di Gunung Ali bahkan melampaui 3.000 mm, mencatat rekor terbaru. [^5] Bagaimana mungkin angka-angka ini bisa dijelaskan sebagai "ditahan oleh gunung penjaga negara"? Mereka justru "ditindih" oleh gunung itu. Gunung mengubah angin menjadi air, yang mengalir ke sisi menghadap angin.
 
-> **📝 Catatan Kurator**
+> **📝 Catatan kurator**
 >
-> Gelar「Gunung Pelindung Negara」, esensinya perspektif warga dataran barat. Bagi daerah pegunungan sisi angin, Pegunungan Tengah perannya kompresor — angin dipadatkan jadi air, curah di sisi angin. Sama typhoon, dataran barat syukur gunung halangi angin, pegunungan sendiri tanggung dua ribu milimeter air yang diekstrusikan. Ketidakseimbangan geografis「siapa untung, siapa menderita」, meramalkan retakan sama yang muncul di semua cerita typhoon selanjutnya.
+> Julukan "Gunung Penjaga Negara" pada dasarnya adalah perspektif penghuni dataran barat. Bagi wilayah pegunungan di sisi menghadap angin, Gunung Rantau justru berperan sebagai kompresor — angin ditindih menjadi air, mengalir ke sisi menghadap angin. Di tengah angin topan yang sama, bagian barat bersyukur karena gunung menahan angin, sementara pegunungan harus menanggung sendiri 2.000 mm hujan yang ditindih. Ketimpangan geografis ini — siapa yang untung dan siapa yang rugi — menjadi retak yang muncul di setiap cerita angin topan selanjutnya.
 
-Saat sirkulasi typhoon lewat gunung turun, sering di sisi lee memicu angin panas kering foehn. Taitung, Taichung tiap lewat typhoon suhu melonjak, tanaman hancur parah.[^5]
+Ketika sirkulasi angin topan melewati gunung dan turun ke sisi belakang, sering terjadi kenaikan suhu yang kering dan panas, dikenal sebagai angin kering. Di seluruh Taiwan Timur dan Taiwan Tengah, suhu udara seringkali melonjak setelah angin topan, menyebabkan kerusakan serius pada pertanian. [^5]
 
-## Sedikit Tapi Kuat: Setahun 1–2 Typhoon, Setiap Buah Acara Ekstrem
+## Sedikit tapi kuat: 1–2 angin topan per tahun, setiap satunya adalah bencana ekstrem
 
-Statistik Taiwan 1951–2023 tunjukkan, enam tahun tidak ada typhoon terbentuk sebelum Mei. 2020–2022 lebih catat tiga tahun berturut-turut tanpa typhoon mendarat.[^1]
+Statistik Taiwan dari 1951 hingga 2023 menunjukkan bahwa ada enam tahun di mana tidak ada angin topan yang terbentuk sebelum Mei. Pada 2020 hingga 2022, tercatat tiga tahun berturut-turut tanpa angin topan yang mendarat. [^1]
 
-Tapi tren「semakin sedikit」 ini, di baliknya ada pergantian lebih mengkhawatirkan.
+Namun, tren "semakin sedikit" ini sebenarnya menyembunyikan perubahan yang lebih mengkhawatirkan.
 
-Pusat Penelitian Perubahan Lingkungan Akademi Sinica (RCEC) bekerjasama Universitas Pendidikan Taiwan, pakai simulasi model awan HiRAM resolusi tinggi:[^1] menjelang akhir abad ini (2080–2099), typhoon mempengaruhi Taiwan mungkin hanya 1–2 per tahun — tapi proporsi kategori 4 ke atas naik lebih 150%, intensitas hujan typhoon naik 40%, kecepatan angin mendarat naik 10%.
+Pusat Studi Perubahan Iklim Academia Sinica bekerja sama dengan Universitas Taiwan Normal, menggunakan model awan resolusi tinggi HiRAM untuk mensimulasikan: [^1] hingga akhir abad ini (2080–2099), angin topan yang mempengaruhi Taiwan mungkin hanya 1–2 per tahun — namun persentase angin topan kelas 4 ke atas akan meningkat lebih dari 150%, intensitas hujan akibat angin topan naik 40%, dan kecepatan angin saat mendarat naik 10%.
 
-| Indikator                             | Sekarang (dasar 1979-2015) | Tengah Abad 21 (2040-2059) | Akhir Abad 21 (2080-2099) |
-| ------------------------------------- | -------------------------- | -------------------------- | ------------------------- |
-| Jumlah typhoon mempengaruhi per tahun | 4-5 buah                   | 3-4 buah                   | 1-2 buah                  |
-| Proporsi typhoon kategori 4+          | nilai dasar                | +105%                      | +150%+                    |
-| Intensitas hujan typhoon              | nilai dasar                | +20%                       | +40%                      |
-| Kecepatan angin mendarat typhoon      | nilai dasar                | +8%                        | +10%                      |
+| Indikator                              | Sekarang (periode dasar 1979–2015) | Pertengahan abad ke-21 (2040–2059) | Akhir abad ke-21 (2080–2099) |
+| -------------------------------------- | ---------------------------------- | ---------------------------------- | ---------------------------- |
+| Jumlah angin topan yang mempengaruhi   | 4–5                                | 3–4                                | 1–2                          |
+| Persentase angin topan kelas 4 ke atas | Standar                            | +105%                              | +150%+                       |
+| Intensitas hujan akibat angin topan    | Standar                            | +20%                               | +40%                         |
+| Kecepatan angin saat mendarat          | Standar                            | +8%                                | +10%                         |
 
-Penelitian juga temukan, curah hujan ekstrem Morakot 6,5% diperbesar oleh perubahan iklim buatan manusia.[^1] Tanpa pemanasan global, Gunung Siangtung mungkin tidak runtuh pagi itu. Ini angka konkret sebuah typhoon dan satu pemanasan bumi dihubungkan langsung akademisi.
+Penelitian juga menemukan bahwa 6,5% dari curah hujan ekstrem akibat angin topan Morak adalah akibat dari perubahan iklim yang disebabkan oleh manusia. [^1] Tanpa pemanasan global, Gunung Hsun-tu mungkin tidak akan runtuh pada pagi yang cerah itu. Ini adalah angka konkret yang menghubungkan sebuah angin topan dan pemanasan global secara akademis.
 
-![9 Agustus 2009 sebuah desa di Minxiong Chiayi banjir pasca hujan lebat Morakut, lumpur keruh menutupi jalan, masuk rumah lantai satu, warga berjalan di air](/article-images/nature/morakot-minxiong-flood-2009.webp)
-_9 Agustus 2009, Minxiong Chiayi. Morakot gerak pelan, hujan lebat beruntun menyiram desa ini. 6,5% hujan yang diperbesar perubahan iklim, akhirnya jadi air seperti ini. Foto: zilupe, [CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2009-08-09_at_a_village_under_the_Typhoon_Morakot,_in_Minxiong,_Chiayi.jpg)._
+![Desa di Ming-hsiang, Chiayi, banjir setelah hujan lebat akibat angin topan Morak pada 9 Agustus 2009, air lumpur mengalir di jalan, masuk ke lantai satu rumah, warga berjalan di tengah air](/article-images/nature/morakot-minxiong-flood-2009.webp)
+_9 Agustus 2009, Ming-hsiang, Chiayi. Angin topan Morak bergerak lambat, hujan lebat selama beberapa hari menggenangi desa ini. Air yang menjadi 6,5% akibat perubahan iklim, akhirnya berubah menjadi banjir ini. Foto: zilupe, [CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2009-08-09_at_a_village_under_the_Typhoon_Morakot,_in_Minxiong,_Chiayi.jpg)._
 
-「Sedikit tapi kuat」 membalik logika mitigasi dulu. Dulu alokasi resource premis「tiap tahun pasti datang beberapa」, sekarang premis jadi「mungkin seluruh musim panas tenang, tapi yang datang satu itu harus tahan kerusakan setahun」. Satu typhoon = satu acara ekstrem tahunan.
+"Sedikit tapi kuat" telah mengubah logika keamanan ekstrem yang ada sebelumnya. Sebelumnya, alokasi sumber daya didasarkan pada asumsi "setiap tahun akan ada beberapa angin topan", namun kini dasarannya berubah menjadi "mungkin selama musim panas tidak ada angin topan sama sekali, tapi ketika datang, harus tahan menghadapi kerusakan setara dengan seluruh tahun". Setiap angin topan adalah bencana ekstrem tahunan.
 
-## Orang Mengejar Angin: Di Kepala Typhoon 43.000 Kaki Melempar Dropsonde Taiwan
+## Orang yang mengejar angin: Taiwan yang mengorbankan pesawat pada ketinggian 40.000 kaki
 
-Alat manusia hadapi typhoon, dari bendera warna 1865 evolusi jadi AI 2025. Di jejak ini ada profesor UI Wu Chun-chieh.
+Alat yang digunakan manusia untuk menghadapi angin topan, dari bendera warna pada 1865 hingga AI pada 2025. Di sepanjang jalur ini, ada seorang profesor dari Universitas Taiwan bernama Wu Chun-chieh.
 
-Dia dari 2002 memimpin「Eksperimen Pengamatan Dropsonde & Rekognisi Pesawat Typhoon Melandasi Taiwan」(DOTSTAR, biasa「Proyek Mengejar Angin」) — proyek penelitian typhoon besar pertama Asia. Tim pakai jet Astra SPX twin-engine terbang 43.000 kaki, dari atas typhoon mengelilingi bagian luar melempar dropsonde, mengumpulkan data atmosfer kunci di sekitar dinding mata (ini beda dengan Hurricane Hunters AS pakai pesawat propeler menembus dinding mata). 1 September 2003 Typhoon Dujuan, tim pertama kali resmi mengejar angin. Hingga akhir 2012, mereka selesai 49 typhoon, 64 misi penerbangan, melempar 1.051 dropsonde, total jam terbang 334 jam. Data pertama tangan ini, bikin kesalahan prakiraan jalur typhoon 24–72 jam rata-rata turun 20%.[^9]
+Mulai dari 2002, ia memimpin "Eksperimen Pengamatan dan Pelemparan Pesawat untuk Angin Topan yang Mengenai Taiwan" (DOTSTAR, dikenal sebagai proyek pengejar angin) — proyek riset angin topan pertama di Asia. Timnya menggunakan pesawat jet bermotor ganda Astra SPX untuk terbang hingga ketinggian 43.000 kaki, melemparkan pesawat amfibi dari luar lingkaran angin topan, mengumpulkan data atmosfer kritis di sekitar dinding mata angin (ini berbeda dengan cara AS menggunakan pesawat berdaya sudu untuk menembus mata angin). Pada 1 September 2003, angin topan Duolan, tim pertama kali resmi mengejar angin. Pada akhir 2012, mereka telah menyelesaikan 49 angin topan, 64 penerbangan, melempar 1.051 pesawat amfibi, dengan total waktu penerbangan 334 jam. Data pertama yang dikumpulkan ini, rata-rata kesalahan prediksi jalur angin topan 24–72 jam berkurang 20%. [^9]
 
-Wu Chun-chieh pakai orang pertama deskripsikan pengalaman masa kecil di Taitung di tanah menyambut lewatnya mata typhoon (bukan dari pesawat):
+Wu Chun-chieh menggambarkan pengalamannya saat mas masih kecil, menyaksapi mata angin topan melewati permukaan di Taitung (bukan dari pesawat):
 
-> 「Saya kecil di Taitung, saya pernah mengejar. Anda dulu rasakan angin utara, karena typhoon berputar berlawanan jarum jam, lalu tiba-tiba tidak ada angin, itu Anda di dalam mata typhoon, beberapa puluh menit kemudian angin selatan berhembus, itu mata typhoon sudah lewat Anda.」
+> "Aku tumbuh besar di Taitung, aku pernah mengejar angin. Kamu akan merasakan angin utara terlebih dahulu, karena angin topan berputar berlawanan arah jarum jam, lalu tiba-tiba berhenti — itu berarti kamu sedang berada di mata angin. Beberapa puluh menit kemudian, angin selatan mulai blow — itu berarti mata angin sudah lewat."
 
-Tapi mengejar angin cuma bagian peta pengamatan typhoon Taiwan. 1998, Taiwan jadi negara pertama pakai pesawat pengamatan tanpa awak Arosende observasi typhoon.[^10] 2001 September AS larang ekspor Aerosonde, Taiwan jadi negara terakhir punya dan pakai sistem ini.
+Namun, pengejaran angin hanyalah sebagian dari peta observasi angin topan Taiwan. Pada 1998, Taiwan menjadi negara pertama di dunia yang menggunakan pesawat tanpa awak Aerosonde untuk mengamati angin topan. [^10] Pada September 2001, AS melarang ekspor Aerosonde, sehingga Taiwan menjadi negara terakhir yang masih memiliki dan menggunakan sistem ini.
 
-25 Juni 2019 diluncurkan Satelit Formosat-7 (FORMOSAT-7), naikkan sudut pengamatan dari stratosfer ke luar angkasa.[^11] Enam satelit kecil kolaborasi NOAA AS, tiap hari sediakan 4.000–5.000 data profil atmosfer, di antaranya ± 80% tembus ke ketinggian 1 km ke bawah — angka ini dua kali lipat sistem lama FS3/COSMIC.
+Pada 25 Juni 2019, FORMOSAT-7 (dikenal sebagai Fengyun-7) diluncurkan, meningkatkan sudu pandang observasi dari lapisan udara hingga ke angkasa. [^11] Enam satelit kecil bekerja sama dengan NOAA AS, menyediakan 4.000–5.000 data profil atmosfer setiap hari, di mana sekitar 80% bisa menembus hingga ketinggian 1 km — angka ini dua kali lipat dibandingkan sistem lama FS3/COSMIC.
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/PsYcjcHiGtU" title="Video Promosi Kapasitas Pusat Antariksa Negara─Satelit Pencari Angin (Pusat Antariksa Negara TASA)" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/PsYcjcHiGtU" title="Video promosi pusat angkasa TASA — pesawat pengejar angin (National Space Organization TASA)" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Video promosi Pusat Antariksa Negara TASA: Lanjutan Formosat-7, satelit buatan Taiwan sendiri Pencari Angin khusus mengukur medan angin laut, dorong mata lihat typhoon pulau ini lebih maju satu langkah._
+_Pusat Angkasa Nasional TASA mempromosikan: Setelah FORMOSAT-7, pesawat pengejar angin buatan Taiwan yang dikembangkan secara mandiri khusus mengukur pola angin permukaan laut, memajukan pandangan Taiwan terhadap angin topan satu lagi langkah ke depan._
 
-Sampai 2025, Badan Cuaca pakai enam model AI integrasi data AS, Taiwan, Jepang total 18 jalur prakiraan. Kesalahan prakiraan jalur 24 jam dari 172 km (2000) turun jadi 57 km, 25 tahun perbaikan ± 67%. Model AI bisa 4 menit generate data peringatan 30 hari, kecepatan naik 900 kali dari metode tradisional.[^11]
+Pada 2025, Badan Meteorologi Taiwan menggunakan enam model AI untuk menggabungkan data dari AS, Taiwan, dan Jepang, total 18 jalur prediksi. Kesalahan prediksi jalur 24 jam berkurang dari 172 km pada 2000 menjadi 57 km, perbaikan sebesar 67% dalam 25 tahun. Model AI dapat menghasilkan data peringatan 30 hari dalam empat menit, 900 kali lebih cepat dibandingkan metode tradisional. [^11]
 
-| Teknologi                      | Data Kunci                         | Arti untuk Mitigasi                           |
-| ------------------------------ | ---------------------------------- | --------------------------------------------- |
-| Proyek Mengejar Angin (drone)  | 64 misi, 1.051 dropsonde           | Kesalahan prakiraan jalur 24-72 jam turun 20% |
-| Formosat-7 (satelit)           | 4.000-5.000 profil atmosfer/hari   | 80% tembus ke <1km, 2x sistem lama            |
-| Drone Universitas Central      | IP65 tahan air, ketinggian 3.000 m | 1.000+ misi pengamatan                        |
-| Model cuaca AI (Huafeng dll 6) | 4 menit generate prakiraan 30 hr   | Kesalahan jalur 24 jam 172km→57km             |
+| Teknologi                        | Data kunci                                  | Makna bagi keamanan                                              |
+| -------------------------------- | ------------------------------------------- | ---------------------------------------------------------------- |
+| Proyek pengejar angin (drone)    | 64 penerbangan, 1.051 pesawat amfibi        | Mengurangi kesalahan prediksi jalur 24–72 jam hingga 20%         |
+| FORMOSAT-7 (satelit)             | 4.000–5.000 data profil atmosfer per hari   | 80% penetrasi hingga ketinggian 1 km, dua kali lipat sistem lama |
+| Drone Universitas Tengah         | Tahan air IP65, ketinggian 3.000 meter      | Lebih dari 1.000 penerbangan observasi                           |
+| Model AI (Huafeng dan 5 lainnya) | Menghasilkan prediksi 30 hari dalam 4 menit | Kesalahan jalur 24 jam berkurang dari 172 km menjadi 57 km       |
 
-Dari bendera angin hujan ke prakiraan 30 hari 4 menit, 160 tahun akumulasi presisi ini cukup biar pemerintah 72 jam sebelumnya deploy logistik penyelamatan, cukup biar petani seminggu sebelumnya panen pisang. Tapi presisi akhirnya urusan peta. Peta bilang typhoon mendarat di mana, tidak bilang di jalan mendarat itu siapa harus keluar kerja seperti biasa.
+Dari bendera warna hingga prediksi 30 hari dalam 4 menit, akurasi yang terkumpul selama 160 tahun cukup untuk pemerintah mengatur logistik penyelamat 72 jam sebelumnya, cukup untuk petani memanen pisang satu minggu sebelumnya. Namun, akurasi pada akhirnya hanyalah soal peta. Peta memberi tahu kamu di mana angin topan akan mendarat, namun tidak memberi tahu kamu siapa yang harus datang kerja di jalan itu.
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/grDcqNrZISA" title="Model Cuaca AI, Prakiraan Jalur Typhoon Lebih Presisi?《Teknologi Tech Obrol Baik》EP.4 (DIGITIMES)" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/grDcqNrZISA" title="Model cuaca AI, memprediksi jalur angin topan lebih akurat?《Teknologi Tech 好聊》EP.4（DIGITIMES）" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_DIGITIMES《Teknologi Tech Obrol Baik》EP.4: Model AI gimana dorong kesalahan prakiraan jalur typhoon, satu jalan masuk 57 km._
+_DIGITIMES《Teknologi Tech 好聊》EP.4: Model AI bagaimana caranya menekan kesalahan prediksi jalur angin topan hingga 57 km._
 
-## Harga 31,5 Miliar, Siapa Bayar?
+## Biaya 31,5 miliar, siapa yang membayar?
 
-Typhoon bawa satu sistem khas Taiwan, disebut libur typhoon.
+Angin topan juga membawa kebijakan unik Taiwan yang dikenal sebagai "hari libur angin topan".
 
-Titik awal sistem ini satu tragedi. 30 Juli 2001, saat Typhoon Toraji sedang melanda, Guru Xu Bilan SD Qingshan Kabupaten Changhua untuk melindungi murid, tersungkur ke saluran drainase gugur. Presiden saat itu Chen Shui-bian sendiri ke ruang duka belasungkawa. Dua belas tahun kemudian 2013, pedoman operasional asli dinormalisasi jadi「Pedoman Operasional Hentian Kerja & Sekolah Akibat Bencana Alam」.[^22]
+Awal mula kebijakan ini adalah sebuah tragedi. Pada 30 Juli 2001, saat angin topan sedang melewati, guru Sekolah Dasar Qingshan di Changhua, Xu Bi-lan, tewas jatuh ke saluran pembuangan saat melindungi murid-muridnya. Presiden Chen Shui-bian yang saat itu menjabat, secara pribadi hadir ke rumah duka. [^22]
 
-> **✦** 「Tiap hari hentian kerja sekolah, dampak melebihi 310 miliar dolar Taiwan baru.」
+> **✦** "Setiap hari libur yang diberikan akibat angin topan, dampaknya melebihi NT$31 miliar."
 
-Ungkapan ini dari surat pembaca Mantan Menteri Lingkungan Peng Chi-ming 2005, lalu Ketua Yayasan 33 Lin Bo-feng hitung ulang pakai GDP 2023, dapat kerugian bersih ± 315 miliar dolar Taiwan baru per hari.[^4]
+Perkataan ini berasal dari mantan Menteri Lingkungan, Peng Chi-ming, dalam sebuah artikel opini pada 2005, kemudian dihitung ulang oleh Pengurus Dewan San-san menggunakan data PDB 2023, menghasilkan kerugian bersih harian sekitar NT$31,5 miliar. [^4]
 
-Tapi aritmatika ini lolos satu masalah struktural. yes123 situs lowongan survei 1.330 buru: 81% pernah kerja normal hari typhoon, di antaranya 65% karena atasan minta. FTNN survei: 53,5% buruh dapat gaji penuh, tapi 37,7% sama sekali tidak bayar.[^7] PNS dan white-collar kantor di rumah nunggu pengumuman libur, tapi buruh grosir eceran, pertanian perikanan peternakan, kuliner di typhoon yang sama terus keluar.
+Namun, dalam perhitungan ini, ada masalah struktural yang terlewat. Survei yes123 terhadap 1.330 pekerja menemukan bahwa 81% pernah datang kerja meskipun sedang angin topan, di mana 65% adalah perintah atasan. Survei FTNN menunjukkan bahwa 53,5% pekerja tetap menerima gaji penuh, namun 37,7% tidak menerima apa-apa. [^7] Pemeriwarga dan karyawan kantor menunggu pengumuman hari libur di rumah, sementara pekerja di sektor ritel, pertanian, perikanan, dan katering tetap keluar kerja di tengah angin topan yang sama.
 
-> **📝 Catatan Kurator**
+> **📝 Catatan kurator**
 >
-> Cerita libur typhoon sama「Gunung Pelindung Negara」 sebenarnya dua versi cerita sama. Gunung ubah angin jadi air, tuang ke rumah siapa? Pengumuman hentian kasih libur ke siapa, lupakan siapa? Sama typhoon, hujan di peta merata, tapi orang tanggung biaya dari tidak pernah merata.
+> Kisah "hari libur angin topan" sebenarnya adalah dua versi dari cerita yang sama dengan "Gunung Penjaga Negara". Angin ditindih menjadi air oleh gunung, mengalir ke rumah siapa? Pengumuman hari libur memberi siapa, dan siapa yang terlewat? Di tengah angin topan yang sama, curah hujan di peta terlihat merata, namun orang yang menanggung biaya tidak pernah merata.
 
-Distribusi kelas libur typhoon lengkap, titik buta di balik aritmatika 315 miliar, serta nasib pekerja migran — ini cerita mandiri lain, tertulis di [Libur Typhoon](/Society/颱風假).
+Distribusi kelas "hari libur angin topan", kelemahan dalam perhitungan 31,5 miliar, dan situasi pekerja migran — semua ini adalah cerita terpisah, ditulis di [Hari Libur Angin Topan](/id/society/typhoon-day).
 
-## Stasiun Cuaca Kampung: Kearifan Seribu Tahun Adalah Safety Net Terakhir
+## Stasiun meteorologi di desa: kebijaksanaan tradisional adalah jaringan keselamatan terakhir
 
-Teknologi bukan cara Taiwan tunggal prediksi typhoon.
+Teknologi bukan satu-satunya cara Taiwan memprediksi angin topan.
 
-Di Kampung Shen Shan Kecamatan Laiyi Kabupaten Pingtung, tetua suku Paiwan lewat observasi alam prediksi cuaca. Pelangi muncul di arah matahari terbit, typhoon melemah; pelangi muncul arah matahari terbenam, tarik typhoon. Banyak kepiting naik darat, semut pindah massal, cacing tanah keluar massal — ini semua sinyal typhoon atau gempa akan datang.[^12]
+Di desa Shenshan di kawasan Lintsi, Pingtung, para ketua suku Ping diawasi fenomena alam untuk memprediksi perubahan cuaca. Jika pelangi muncul di arah matahari terbit, angin topan akan melemah; jika muncul di arah matahari terbenam, angin topan akan datang. Sekumpul katak besar berlari ke daratan, sarang semut banyak pindah, cacing tanah banyak muncul — semua ini adalah sinyal bahwa angin topan atau gempa bumi akan datang. [^12]
 
-2009 saat Typhoon Morakot, anggota Kampung Kakanami (Shen Shan) Kabupaten Taitung perhatikan air sungai keruh, peringatkan risiko longsor gunung, tepat waktu evakuasi seluruh warga.[^12] Tahun itu 462 nyawa Xiaolin tidak diselamatkan satelit manapun, tapi warga Kakanami hidul karena satu sungai keruh.
+Pada masa angin topan Morak 2009, anggota desa Kakanami (Shenshan) di Taitung memperhatikan air sungai yang keruh, memperingatkan risiko tanah longsor, dan dengan cepat mengungsi seluruh warga desa. [^12] Pada tahun itu, 462 nyawa di Kampung Hsiung-lin tidak diselamatkan oleh satelit mana pun, namun warga Kakanami bertahan hidup berkat air yang keruh di sungai.
 
-Warga Kampung Pelabuhan Fengbin Hualien suku Amis punya kearifan laut sendiri. Sebelum typhoon datang tiup angin utara, lewatnya lebih banyak angin selatan. Kalau batu hitam ditutup ombak besar, tandanya typhoon akan menyapu area itu. Nama tempat suku Yami (Tao) Lanyu, encode pengetahuan risiko bencana.「Ji-Rako a Poas」wakili area longsor besar,「Ji-Igang」wakili area bahaya banjir.[^12] Rumah tradisional setengah bawah tanah Yami, di Morakot dan Typhoon Tembin performa unggul rumah beton modern.
+Suku Amis di pelabuhan Fengbin, Hualien, memiliki pengetahuan tradisional untuk mengamati laut. Sebelum angin topan tiba, angin utara akan blow; setelah lewat, lebih sering angin selatan. Jika batu hitam tertutupi oleh ombak besar, berarti angin topan akan menyelam di wilayah itu. Nama-nama tempat suku Dawu mengandung pengetahuan tentang risiko bencana. "Ji-Rako a Poas" melambangkan wilayah tanah longsor masif, "Ji-Igang" melambangkan zona banjir. [^12] Bangunan tradisional setengah bawah tanah suku Dawu, lebih baik dari rumah beton modern saat menghadapi angin topan Morak dan Tembin.
 
-Penelitian Profesor Politika Nasional Guan Da-wei tunjukkan, prediksi cuaca tradisional orang asli meski tidak sepresisi instrumen modern, tapi memantau pengamatan jangka panjang alam, kearifan hidup berdampingan lingkungan.[^14] Di skenario model AI meleset atau daerah pinggiran pegunungan tidak ada sinyal, pengetahuan ini mungkin safety net terakhir.
+Penelitian oleh Profesor Kuo Ta-wei dari Universitas Politik, menyatakan bahwa meskipun prediksi tradisional suku asli tidak sempurna seperti instrumen modern, namun mencerminkan kebijaksanaan panjang tentang pengamatan alam dan hidup berdampingan dengan alam. [^14] Di saat model AI tidak akurat atau jaringan seluler tidak tersedia di pegunungan terpencil, pengetahuan ini mungkin menjadi jaringan keselamatan terakhir.
 
-Empat ratus tahun lalu Sun Yuanheng di Penghu lihat langit angin, tiga ratus tahun lalu tetua Yami lihat warna air sungai prediksi longsor, hari ini Badan Cuaca pakai AI hitung peringatan 30 hari. Tiga sistem ini tumpang tindih. Saat presisi peta didorong ke 57 km, yang benar-benar lindungi orang di 57 km itu, mungkin tetap sungai keruh itu.
+400 tahun yang lalu, Sun Yuan-heng mengamati langit dan angin di Pescadores; 300 tahun kemudian, para ketua suku Dawu mengamati warna air sungai untuk memprediksi tanah longsor; hari ini, Badan Meteorologi Taiwan menggunakan AI untuk memproyeksikan peringatan 30 hari. Ketiga sistem ini saling melengkapi. Ketika akurasi peta mencapai 57 km, yang benar-benar melindungi orang-orang di dalam 57 km itu, mungkin tetap adalah air yang keruh di sungai.
 
-## Xiaolin Lima Belas Tahun: Dari Runtuh ke Lagu Kuno
+## 15 tahun sejak kecelakaan: dari runtuhnya gunung hingga lagu-lagu tradisional
 
-2024, lima belas tahun bencana Morakot.
+Pada 2024, 15 tahun sejak bencana Morak.
 
-Pan Yuan-ming, Ketua Persatuan Pengembangan Komunitas Xiaolin, kembali ke Rumah Ibadah Peringatan. Dia ganti bunga persembahan dari bunga matahari jadi krisan — melambangkan panjang umur, bermakna leluhar harap generasi muda hidup baik.[^1]
+Pan Yuan-ming, ketua Dewan Pengembangan Komunitas Kampung Hsiung-lin, kembali ke kuil kenangan. Ia mengganti bunga persembahan dari bunga matahari menjadi bunga kamboja — melambangkan panjang umur, mengisyaratkan harapan para leluhur agar generasi muda hidup dengan baik. [^1]
 
-> 「Karena hari typhoon, semua punya ketakutan, tidak berani kembali sini.」
+> "Karena sedang angin topan, semua orang cemas dan takut kembali ke sini."
 
-Rumah permanen Wulipu dibangun Merah Putih untuk warga Xiaolin 90 KK, tingkat hunian cuma 30–40%. Mencari nafkah susah, generasi muda terus pergi.[^19] Tapi ada orang muda pilih jalan lain.
+Rumah permanen Lima Li, yang dibangun oleh Palang Merah, hanya memiliki 90 unit, dengan tingkat okupansi hanya 30–40%. Sulit untuk mencari nafkah, generasi muda terus-menerus pindah. [^19] Namun, ada yang memilih jalan yang berbeda.
 
-Wang Min-liang (A-liang), Sekretaris Jenderal Persatuan Pengembangan Komunitas Rixin Xiaolin, 2011 mendirikan Grup Tarian Daman, bawa warga Xiaolin lewat lagu kuno dan tarian keluar dari luka. Grup dapat penghargaan Anugerah Lagu Tradisional 2019.[^1] Bang Siqi lima tahun terus dengar ibu nyanyi lagu kuno, dia bilang:「Dengar terus, dengar terus, dengar ibu nyanyi jadi hafal!」
+Wang Min-liang (Ali), Sekretaris Eksekutif Asosiasi Pengembangan Komunitas Sinar Matahari, didirikan pada 2011, membentuk paduan suara besar, membantu warga Kampung Hsiung-lin melewati luka melalui lagu-lagu tradisional dan tarian. Paduan suka mendapatkan penghargaan 2019. [^1] Anak perempuan berusia 5 tahun, Bang-hsin, selalu mendengarkan ibunya menyanyikan lagu tradisional, ia berkata: "Dengar, dengar, dengar, dengar ibu menyanyikan lagu, aku akan mengingatnya!"
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/j9T4xC5lzBo" title="【Bencana 88】Seri Laporan Sepuluh Tahun Morakot-Apa Yang Kulihat Adalah Langit Bumi｜Membangun Kembali Kenangan Desa Xiaolin, Komunitas杉林 (PTS Pulau Kita Episode 1016 2019-08-12)" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/j9T4xC5lzBo" title="【88 Bencana】Serial laporan 10 tahun Morak - Apa yang kudengar adalah langit dan bumi | Membangun kembali Kampung Hsiung-lin dan komunitas Sin-lin dalam ingatan（PTS 我们的岛 第1016集 2019-08-12）" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_PTS《Pulau Kita》Episode 1016 (2019-08-12): Sepuluh tahun Morakot, Grup Tarian Daman pakai lagu kuno「tanam kembali」Desa Xiaolin kenangan satu per satu._
+_Episod ke-1016 PTS 《Pulau Kita》（2019-08-12）: Sepuluh tahun Morak, paduan suara besar menanamkan lagu tradisional untuk mengembalikan memori Kampung Hsiung-lin, satu per satu._
 
-Wawancara sepuluh tahun Morakot 2019, selamat Weng Ruiqi di Wulipu dengan tetangga yang sama-sama kehilangan kerabat Yang Meilu membentuk keluarga baru. Dia bilang:「Hari tetap harus dilanjutkan.」[^20]
+Pada tahun 2019, saat mengunjungi 10 tahun Morak, para survivor Wong Jui-chieh dan Yang Mei-lu, yang kehilangan keluarga, saling menggantikan dalam rumah permanen Lima Li. Ia berkata: "Kita tetap harus melanjutkan hidup." [^20]
 
-> **📝 Catatan Kurator**
+> **📝 Catatan kurator**
 >
-> Cerita Xiaolin mengungkap paradoks era typhoon: Modernisasi bikin lebih banyak orang pindah dari area risiko, tapi akar budaya juga putus. Usaha Grup Daman「tanam kembali rumah」pakai lagu kuno, menjawab pertanyaan lebih fundamental — saat rumah fisik tidak bisa kembali, rumah budaya harus dibangun di mana? Ini sama dengan inti 335 komunitas mitigasi mandiri Taiwan: rumah sendiri selamatkan sendiri. Kementerian Ekonomi Direktorat Jenderal Sumber Daya Air dari 2010 dorong proyek ini, sampai 2015 sudah 335 komunitas, dari Mei Zhou Yilan, Ding Xiang Ri Keelung sampai Li Ren Huwei Yunlin, setiap desa susun jaringan peringatan & penyelamatan sendiri.[^15]
+> Kisah Kampung Hsiung-lin mengungkapkan paradoks di era angin topan: modernisasi membuat lebih banyak orang pindah dari zona berisiko, namun akar budaya juga terputus. Upaya paduan suara besar untuk "menanamkan lagu tradisional" adalah jawaban atas pertanyaan yang lebih mendasar — ketika rumah fisik yang ditinggalkan tidak bisa kembali, di mana kita harus menanamkan rumah budaya? Ini sejalan dengan konsep inti dari 335 komunitas pengamanan mandiri Taiwan: rumah kita, tanggung jawab kita sendiri. Program ini didorong oleh Kementerian Sumber Daya Alam sejak 2010, hingga 2015 telah membentuk 335 komunitas, dari Mei-chou di Ilan, Ding-xiang di Kaohsiung, hingga Lin-ren di Huai-ning, setiap komunitas membentuk jaringan peringatan dan penyelamat mereka sendiri. [^15]
 
-Typhoon akan terus datang. Model AI akan terus jadi lebih baik. Tapi Xiaolin lima belas tahun bilang ke Taiwan: Teknologi sepresisi apapun, rebuild tetap andalkan hubungan yang dihancurkan lalu disusun ulang — antar manusia, antar manusia dan tanah, orang hidup dan orang mati.
+Angin topan akan terus datang. Model AI akan terus berkembang. Namun, 15 tahun sejak kecelakaan memberi pelajaran pada Taiwan: meskipun teknologi semakin akurat, pemulihan tetap bergantung pada ikatan yang terputus dan disatukan kembali — antar manusah, antar manusia dan tanah, antar hidup dan mati.
 
-## Dapat Memprediksi Angin Hujan, Tidak Dapat Memprediksi Takdir
+## Bisa Memprediksi Hujan dan Angin, Tak Bisa Memprediksi Takdir
 
-Kesalahan prakiraan jalur typhoon, dari 172 km menyusut jadi 57 km.
+Kesalahan prediksi jalur angin topan berkurang dari 172 km menjadi 57 km.
 
-Tapi pagi 2009 itu, Luo Pan Chun-mei berdiri lantai dua lihat Gunung Siangtung runtuh, lihat 462 kerabat dari penglihatannya hilang detik itu, prakiraan sepresisi apapun tidak sempat.
+Namun, pada pagi yang cerah 2009, ketika Roh Pan Chun-mei berdiri di lantai dua, menyaksikan Gunung Hsun-tu runtuh, menyaksikan 462 kerabatnya menghilang dari pandangannya, akurasi yang sempurna pun tidak cukup.
 
-Kita dapat memprediksi angin hujan, tidak dapat memprediksi takdir.
+Kita bisa memprediksi hujan dan angin, tak bisa memprediksi takdir.
 
 ## Bacaan Lanjutan
 
-- [Libur Typhoon](/Society/颱風假) — Sama typhoon, PNS white-collar di rumah, buruh grosir eceran keluar. Retakan kelas yang lolos aritmatika 315 miliar
-- [Krisis Iklim Taiwan & Transisi Net Zero](/Nature/台灣氣候危機與淨零轉型) — Di balik intensitas hujan typhoon naik 40%, pemanasan global & transisi energi Taiwan konteks lebih besar
-- [Ekosistem Pegunungan Tinggi Taiwan & Relik Es](/id/nature/taiwan-alpine-ecosystems-glacial-relicts) — Pegunungan Tengah tidak cuma ubah jalur typhoon, juga rumah ekosistem ketinggian tertinggi global
-- [Musim Hujan Mei](/id/nature/meiyu-stagnant-front) — Di luar typhoon, musim hujan Mei sumber hujan besar lain Taiwan, sama terpengaruh perubahan iklim
-- [Pulau Terpencil & Budaya Laut](/id/geography/offshore-islands-and-maritime-culture) — Arsitektur tradisional & pengetahuan nama tempat Yami Lanyu, di era typhoon nilai mitigasi unik
+- [Hari Libur Angin Topan](/id/society/typhoon-day) — Di tengah angin topan yang sama, pekerja kantor di sektor publik di rumah, pekerja ritel dan pertukangan keluar kerja. Retak kelas dalam perhitungan 31,5 miliar
+- [Krisis Iklim Taiwan dan Transformasi Nol Emisi](/id/nature/taiwan-climate-change-net-zero-transition) — Di balik peningkatan 40% intensitas hujan akibat angin topan, ada konteks yang lebih luas tentang pemanasan global dan transformasi energi Taiwan
+- [Ekosistem Pegunungan Tinggi Taiwan dan Sisa-sisa Glacial](/id/nature/taiwan-alpine-ecosystems-glacial-relicts) — Gunung Rantau bukan hanya mengubah jalur angin topan, juga rumah bagi ekosistem tertinggi di dunia
+- [Musim Hujan](/id/nature/meiyu-stagnant-front) — Di luar angin topan, musim hujan adalah sumber curah hujan terbesar kedua di Taiwan, juga terpengaruh oleh perubahan iklim
+- [Budaya Laut dan Pulau Terpencil](/id/geography/offshore-islands-and-maritime-culture) — Bangunan tradisional dan pengetahuan nama tempat suku Dawu di Pulau Lanyu, memiliki nilai keamanan unik di era angin topan
 
 ## Sumber Gambar
 
-Artikel ini pakai 2 gambar domain publik / lisensi CC, semua cache di `public/article-images/nature/` hindari hotlink server asal:
+Artikel ini menggunakan 2 gambar dengan lisensi domain publik / CC, semuanya disimpan di `public/article-images/nature/` untuk menghindari tautan langsung ke server sumber:
 
-- [Gambar Satelit Typhoon Morakot (2009-08-07)](https://commons.wikimedia.org/wiki/File:Typhoon_Morakot_Aug_7_2009.jpg) — Foto: NASA MODIS Rapid Response (Satelit Aqua), 2009-08-07, Public domain (NASA). Asli 7200×9200, center-square-crop ke 1600×1600 jadi hero.
-- [Banjir Minxiong Chiayi Pasca Hujan Lebat Morakot (2009-08-09)](https://commons.wikimedia.org/wiki/File:2009-08-09_at_a_village_under_the_Typhoon_Morakot,_in_Minxiong,_Chiayi.jpg) — Foto: zilupe, 2009-08-09, CC BY 2.0 via Wikimedia Commons.
+- [Citra satelit awan angin topan Morak（2009-08-07)](https://commons.wikimedia.org/wiki/File:Typhoon_Morakot_Aug_7_2009.jpg) — Foto: NASA MODIS Rapid Response（Satelit Aqua）, 2009-08-07, Public domain（NASA）。Resolusi asli 7200×9200, dipotong center-square-crop menjadi 1600×1600 sebagai hero.
+- [Banjir akibat hujan lebat Morak di Ming-hsiang, Chiayi（2009-08-09)](https://commons.wikimedia.org/wiki/File:2009-08-09_at_a_village_under_the_Typhoon_Morakot,_in_Minxiong,_Chiayi.jpg) — Foto: zilupe, 2009-08-09, CC BY 2.0 via Wikimedia Commons.
 
 ## Referensi
 
-[^1]: [Laporan Iklim Peringatan: Akhir Abad Ini Typhoon Melandasi Taiwan Mungkin Cuma 1–2 Per Tahun Tapi Angin Hujan Lebih Kuat](http://www.cna.com.tw/news/ahel/202405080408.aspx) — Liputan CNA 2024, Pusat Penelitian Perubahan Lingkungan Akademi Sinica pakai model awan HiRAM simulasi tren typhoon seratus tahun, berisi latar belakang Luo Pan Chun-mei & Wang Min-liang Grup Daman.
+[^1]: [Laporan iklim peringatan: Pada akhir abad ini, angin topan yang mempengaruhi Taiwan mungkin hanya 1–2 per tahun, namun lebih kuat](http://www.cna.com.tw/news/ahel/202405080408.aspx) — Laporan Central News Agency 2024, Academia Sinica Center for Environmental Change Research mensimulasikan tren angin topan selama abad ini dengan model awan HiRAM, termasuk latar belakang Roh Pan Chun-mei dan paduan suara besar Wang Min-liang.
 
-[^2]: [MRT Utara 30 Tahun／Kengerian Typhoon Nari Menakutkan!](http://news.tvbs.com.tw/life/3161340) — TVBS liputan MRT Utara 30 tahun kenang banjir Nari mengerikan, Banqiao Line total berhenti 3 bulan, catatan lapangan Hu Zongli.
+[^2]: [30 tahun MRT / Kondisi Nari sungguh menakutkan!](http://news.tvbs.com.tw/life/3161340) — Laporan TVBS merangkum kondisi banjir akibat angin topan Nari, seluruh jalur MRT Nanlin terhenti selama 3 bulan, keterangan langsung Hu Jung-li.
 
-[^3]: [Contoh Morakot: Ahli Cuaca Wu Te-jung Tunjuk Pegunungan Tengah Sama Bukan Gunung Pelindung Negara](https://tw.news.yahoo.com/%E8%88%89%E8%8E%AB%E6%8B%89%E5%85%8B%E7%82%BA%E4%BE%8B-%E6%B0%A3%E8%B1%A1%E5%B0%88%E5%AE%B6%EF%BC%9A%E4%B8%AD%E5%A4%AE%E5%B1%B1%E8%84%88%E7%B5%95%E9%9D%9E%E8%AD%B7%E5%9C%8B%E7%A5%9E%E5%B1%B1-015829806.html) — Yahoo Berita 2016, Wu Te-jung pakai Morakot jelasin gimana hujan topografi memperbesar curah hujan.
+[^3]: [Contoh Morak: Ahli meteorologi Wu De-xiong menyatakan Gunung Rantau bukanlah Gunung Penjaga Negara](https://tw.news.yahoo.com/%E8%88%89%E8%8E%AB%E6%8B%89%E5%85%8B%E7%82%BA%E4%BE%8B-%E6%B0%A3%E8%B1%A1%E5%B0%88%E5%AE%B6%EF%BC%9A%E4%B8%AD%E5%A4%AE%E5%B1%B1%E8%84%88%E7%B5%95%E9%9D%9E%E8%AD%B7%E5%9C%8B%E7%A5%9E%E5%B1%B1-015829806.html) — Laporan Yahoo News 2016, Wu De-xiong menjelaskan bagaimana topografi meningkatkan curah hujan dengan contoh Morak.
 
-[^4]: [Data Update! Huang Yang-ming: Satu Hari Libur Typhoon, Taiwan Rugi Lebih「Angka Ini」Dolar Taiwan Baru](https://www.nownews.com/news/6480095) — NOWnews Berita Hari Ini, hitung ulang biaya ekonomi libur typhoon pakai nilai ekspor 2023.
+[^4]: [Data terbaru! Huang Yang-ming: Memberi satu hari libur akibat angin topan, kerugian Taiwan melebihi angka ini dalam dolar NT$](https://www.nownews.com/news/6480095) — NOWnews, menghitung biaya ekonomi hari libur akibat angin topan dengan data ekspor 2023.
 
-[^5]: [Saat Typhoon Datang, Pegunungan Tengah Benar「Gunung Pelindung Negara」? Ahli: Konsep Sama Salah](https://www.storm.mg/article/139829) — Feng Media 2016, bedah mitos Gunung Pelindung Negara & asal muasal foehn geografis, berisi data hujan Alishan Herb.
+[^5]: [Ketika angin topan datang, apakah Gunung Rantau benar-benar "Gunung Penjaga Negara"? Ahli menyatakan konsep ini salah total](https://www.storm.mg/article/139829) — Laporan Wind Media 2016, mendalami mitos Gunung Penjaga Negara dan sebab geografi angin kering, termasuk data curah hujan Gunung Ali akibat angin topan Ho-hsuan.
 
-[^6]: [Seratus Tanya Typhoon](https://www.cwa.gov.tw/V8/C/K/Encyclopedia/typhoon/index.html) — Kolom Edukasi Resmi Badan Cuaca Pusat Kementerian Komunikasi, jelasin lengkap asal typhoon, tingkatan, prakiraan & sejarah, berisi latar bendera angin hujan Takao.
+[^6]: [100 Pertanyaan tentang Angin Topan](https://www.cwa.gov.tw/V8/C/K/Encyclopedia/typhoon/index.html) — Kolom edukasi resmi Kementerian Meteorologi dan Iklim, penuh penjelasan tentang sebab, klasifikasi, prediksi, dan sejarah angin topan, termasuk latar belakang bendera warna di Daegu.
 
-[^7]: [FTNN Berita — Survei: Libur Typhoon Lima Puluh Persen Atas Bayar Gaji Penuh](https://www.ftnn.com.tw/news/467148) — 1111 Bank Tenaga Kerja survei gaji libur typhoon, data 37,7% sama sekali tidak bayar sumber.
+[^7]: [FTNN — Survei: Setengah pemberi libur akibat angin topan tetap membayar gaji penuh](https://www.ftnn.com.tw/news/467148) — Survei gaji karyawan akibat angin topan dari 1111 Job Bank, sumber data 37,7% tidak menerima gaji apa-apa.
 
-[^9]: [「Proyek Mengejar Angin」20 Tahun! Wu Chun-chieh Bicarakan Proyek Penelitian Typhoon Besar Pertama Asia](https://scitechvista.nat.gov.tw/Article/C000003/detail?ID=ab691668-650c-4ffc-be83-866054a3e029) — Taman Panorama Teknologi Kementerian Sains Teknologi, catat lengkap Proyek Mengejar Angin dari penerbangan pertama Typhoon Dujuan 2003 sampai 2023 dua puluh tahun, berisi deskripsi orang pertama Wu Chun-chieh mata typhoon.
+[^9]: [20 tahun "Proyek Pengejar Angin"! Wu Chun-chjie berbagi tentang proyek riset angin topan pertama di Asia](https://scitechvista.nat.gov.tw/Article/C000003/detail?ID=ab691668-650c-4ffc-be83-866054a3e029) — Kementerian Sains dan Teknologi, mencatat proyek pengejar angin dari penerbangan pertama pada 2003 hingga 2023, termasuk deskripsi Wu Chun-chjie tentang mata angin secara langsung.
 
-[^10]: [Lagu Langit & Air: Masuk Lingkaran Badai Typhoon! Tim Pengamatan Tanpa Awak Taiwan](https://scitechvista.nat.gov.tw/Article/C000003/detail?ID=7e5fafbb-62bc-41ee-93c3-d178854b0cb5) — Taman Panorama Teknologi Kementerian Sains Teknologi, catat Taiwan dari 1998 impor Aerosonde sampai 2014 generasi baru drone perjalanan lengkap.
+[^10]: [Lagu dari Langit dan Air: Masuk ke dalam lingkaran angin topan! Tim drone tanpa awak Taiwan](https://scitechvista.nat.gov.tw/Article/C000003/detail?ID=7e5fafbb-62bc-41ee-93c3-d178854b0cb5) — Kementerian Sains dan Teknologi, mencatat penggunaan Aerosonde dari 1998 hingga drone generasi baru pada 2014.
 
-[^11]: [Perkenalan Satelit Formosat-7](https://www.tasa.org.tw/satellite_program/formosat-7/) — Halaman Resmi Pusat Antariksa Negara, jelasin FORMOSAT-7 gimana naikkan presisi prakiraan cuaca, berisi data kesalahan model AI 24 jam.
+[^11]: [Pengenalan FORMOSAT-7](https://www.tasa.org.tw/satellite_program/formosat-7/) — Halaman resmi Pusat Angkasa Nasional, menjelaskan bagaimana FORMOSAT-7 meningkatkan akurasi prediksi cuaca, termasuk data kesalahan 24 jam model AI.
 
-[^12]: [Kearifan Tradisional Baca Jalur Typhoon — Tetua Kampung Shen Shan, Pelabuhan Cerita Pengalaman](https://news.ipcf.org.tw/140803) — Berita TV Asli (TITV), catat kearifan cuaca tradisional Paiwan, Amis, Yami, berisi kasus evakuasi Kakanami 2009 Morakot.
+[^12]: [Pengetahuan tradisional membaca jalur angin topan — Pengalaman para ketua suku di Shenshan dan pelabuangan](https://news.ipcf.org.tw/140803) — TV TITV, mencatat pengetahuan tradisional suku Ping, Amis, dan Dawu, termasuk kasus evakuasi kampung Kakanami saat angin topan Morak 2009.
 
-[^14]: [Humaniora Politika Nasional．Pulau — Menghadapi Typhoon, Iklim Ekstrem Politika Nasional Guan Da-wei Bagikan Pandangan Alam Orang Asli](https://humanityisland.nccu.edu.tw/guan-da-wei/) — Profesor Politika Nasional Guan Da-wei bagikan pandangan alam orang asli & hubungan komplementer cuaca modern.
+[^14]: [Kemanusiaan dan Pulau — Menghadapi angin topan dan iklim ekstrem, Profesor Kuo Ta-wei dari Universitas Politik membagikan pandangan alam suku asli](https://humanityisland.nccu.edu.tw/guan-da-wei/) — Profesor Kuo Ta-wei dari Universitas Politik membagikan interaksi antara pandangan alam suku asli dan ilmu meteorologi modern.
 
-[^15]: [Pusat Penelitian Bencana Cuaca Iklim Universitas Taiwan — Rumah Sendiri Selamatkan Sendiri](https://case.ntu.edu.tw/highscope/%e8%87%aa%e5%b7%b1%e7%9a%84%e5%ae%b6%e5%9c%92%e8%87%aa%e5%b7%b1%e6%95%91-%e8%aa%8d%e8%ad%98%e6%b0%b4%e6%82%a3%e8%87%aa%e4%b8%bb%e9%98%b2%e7%81%bd%e7%a4%be%e5%8d%80/index.html) — Pusat Penelitian Bencana Cuaca Iklim UI perkenalkan mode komunitas mitigasi banjir mandiri, data 335 komunitas sumber.
+[^15]: [Pusat Riset Bencana Iklim dan Cuaca Universitas Taiwan — "Rumah kita, tanggung jawab kita"](https://case.ntu.edu.tw/highscope/%e8%87%aa%e5%b7%b1%e7%9a%84%e5%ae%b6%e5%9c%92%e8%87%aa%e5%b7%b1%e6%95%91-%e8%aa%8d%e8%ad%98%e6%b0%b4%e6%82%a3%e8%87%aa%e4%b8%bb%e9%98%b2%e7%81%bd%e7%a4%be%e5%8d%80/index.html) — Pusat Riset Iklim dan Cuaca Universitas Taiwan memperkenalkan model komunitas pengamanan banjir mandiri, sumber data 335 komunitas.
 
-[^19]: [RTI Radio Pusat — 【Sepuluh Tahun Morakot】Krisis Hilang Berlangsung Menunggu Orang Pulang Xiaolin](https://www.rti.org.tw/news/view/id/2030098) — Saat sepuluh tahun Morakot tingkat hunian Wulipu & kondisi warga terkini.
+[^19]: [Radio Siaran Pusat RTI — 【10 tahun Morak】Krisis menghilang, menunggu pulang ke Kampung Hsiung-lin](https://www.rti.org.tw/news/view/id/2030098) — Tingkat okupansi dan kondisi warga di rumah permanen Lima Li, 10 tahun setelah Morak.
 
-[^20]: [Air Jahat Tanpa Perasaan Manusia Punya Cinta: Selamat Xiaolin Di Antara Malang Ada Kecil Bahagia](https://www.cna.com.tw/news/aloc/201908070236.aspx) — CNA 2019 sepuluh tahun Morakot, catat Weng Ruiqi dll selamat di Wulipu cerita rebuild.
+[^20]: [Di tengah banjir dan kekekalahan, ada kebahagiaan kecil di antara para survivor Kampung Hsiung-lin](https://www.cna.com.tw/news/aloc/201908070236.aspx) — Laporan Central News Agency 2019, mencatat kisah rekonstruksi para survivor seperti Wong Jui-chieh di rumah permanen Lima Li.
 
-[^22]: [Feng Media — 「Libur Typhoon」Asal Mula Begini: 24 Tahun Lalu Satu Tragedi, Ubah Pemikiran Mitigasi Taiwan](https://www.storm.mg/articles/1080271) — Telusur asal libur typhoon ke 2001 Guru Xu Bilan gugur.
+[^22]: [Wind Media — "Hari libur akibat angin topan" seperti ini: Tragedi 24 tahun lalu mengubah pemikiran keamanan Taiwan](https://www.storm.mg/articles/1080271) — Melacak asal-usul kebijakan hari libur akibat angin topan hingga kejadian tragis guru Xu Bi-lan pada 2001.
 
-[^35]: [Pintu Pengetahuan Pertanian — Legenda Angin Hujan Taiwan Dulu](https://kmweb.moa.gov.tw/theme_data.php?id=55279&sub_theme=agri_life&theme=news) — Kumpulkan puisi typhoon klasik era Qing Sun Yuanheng〈Ge Feng Ge〉, Zheng Yongxi〈Ge Feng〉 dll.
+[^35]: [Portal Pengetahuan Pertanian — Legenda hujan dan angin di Taiwan dulu](https://kmweb.moa.gov.tw/theme_data.php?id=55279&sub_theme=agri_life&theme=news) — Mengumpulkan puisi klasik tentang angin topan dari Dinasti Qing seperti "Lagu Angin Topan" karya Sun Yuan-heng, "Angin Topan" karya Zheng Yong-xu.

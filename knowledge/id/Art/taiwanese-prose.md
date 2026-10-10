@@ -19,9 +19,10 @@ lastVerified: 2026-03-24
 lastHumanReview: false
 readingTime: 8
 translatedFrom: 'Art/台灣散文.md'
-sourceCommitSha: '7415dcaae'
-sourceContentHash: 'sha256:deb45d14fe865dc0'
-translatedAt: '2026-08-02T19:24:36.232297+00:00'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:9f56c23ee6489760'
+sourceBodyHash: 'sha256:2c9c292fec3fdb34'
+translatedAt: '2026-10-10T03:00:58.097791+00:00'
 ---
 
 # Sastra Esai Taiwan: Lanskap Sastra yang Dibalik oleh Penulis Wanita
@@ -160,9 +161,7 @@ Mungkin inilah kontribusi terbesar prosa Taiwan: ia mengembalikan sastra ke kehi
 
 ## Bacaan Lanjutan
 
-- [Sanmao](/id/people/san-mao) — Tokoh representatif penulisan pengembaraan dalam prosa Taiwan, seri Sahara mempengaruhi seluruh generasi pembaca berbahasa Tionghoa
-
----
+- [San Mao](/id/people/san-mao) — perwakilan penulisan prosa melintas di Taiwan, seri Sahara memengaruhi seluruh generasi pembaca bahasa Cina
 
 ## Referensi
 

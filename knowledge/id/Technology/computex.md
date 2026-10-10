@@ -34,16 +34,20 @@ imageCredit: 'Masaru Kamikura via Wikimedia Commons'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Computex_Taipei_sign_inside_of_Taipei_Nangang_Exhibition_Center_20110531.jpg'
 sporeLinks:
-  [
-    "{'id': 111, 'platform': 'threads', 'date': '2026-06-01', 'url': 'https://www.threads.com/@taiwandotmd/post/DZCb3_QEyJX'}",
-    "{'id': 112, 'platform': 'x', 'date': '2026-06-01', 'url': 'https://x.com/taiwandotmd/status/2061379958304584103'}",
-  ]
+  - id: 111
+    platform: 'threads'
+    date: '2026-06-01'
+    url: 'https://www.threads.com/@taiwandotmd/post/DZCb3_QEyJX'
+  - id: 112
+    platform: 'x'
+    date: '2026-06-01'
+    url: 'https://x.com/taiwandotmd/status/2061379958304584103'
 relatedDiary: ['2026-06-01-130850-manual']
 translatedFrom: 'Technology/Computex.md'
-sourceCommitSha: '46055e4f3'
-sourceContentHash: 'sha256:5ca6801bb47a7371'
-sourceBodyHash: 'sha256:45291b99c4801128'
-translatedAt: '2026-08-02T13:22:32+08:00'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:dd896b223778a319'
+sourceBodyHash: 'sha256:1cfc73d3ec3aabb4'
+translatedAt: '2026-10-10T01:44:31.993717+00:00'
 ---
 
 # COMPUTEX: Tiga Pameran Komputer Internasional Tutup Dua, yang Tersisa Tumbuh di Taipei
@@ -215,19 +219,19 @@ Federal Reserve Dallas 2025 laporan perdagangan tambah: ekspor mesin pemroses da
 
 Silicon Shield dan layout tersebar, pulau ini pegang dua ujung. Satu bikin diri lebih susah diserang, satu bikin kalau kejadian tetap bisa supply dunia. Semakin indah bicara CEO di panggung COMPUTEX, semakin berat beban ganda di bahu insinyur di stand.
 
-## Taipei Adalah Titik Awal Segalanya
+## Taipei adalah titik awal segalanya
 
-1 Juni 2026 backdrop berisi rouzong dan kaki babi di belakang, Jensen Huang bilang: "Taiwan possesses the world's best supply chain ecosystem." (Taiwan punya ekosistem rantai pasokan terbaik dunia.)[^24]
+Di balik papan tulung yang ditempati bakso daging dan kaki babi pada 1 Juni 2026, Jensen Huang menyampaikan sebuah kalimat: "Taiwan possesses the world's best supply chain ecosystem." (Taiwan memiliki ekosistem rantai pasok terbaik di dunia.)[^24]
 
-Saat ia bilang itu, di depan panggung duduk bukan cuma media, ada insinyur, sales, direktur HIWIN, Quanta, Wistron, Foxconn, QCT, Twinhead, Acer, Pegatron, Delta. Di belakang lapisan lagi, ada shifu di gudang besi Xinzhuang bikin PCB, pekerja wanita las konektor di mesin Taoyuan, 700+ pabrik tool machine dan transmisi presisi radius 30 menit Taichung generasi penerus, dokter 30-an di Taman Sains Tainan jalanin proses.
+Saat ia berkata itu, di bawah panggung tidak hanya duduk para wartawan, tetapi juga insinyur, staf penjualan, dan presiden dari Acer, ASUS, MSI, Delta Electronics, Foxconn, Quanta Computer, dan lain-lain. Di lantai di belakangnya, ada para tukang las PCB di rumah panggung baja di Xinzhuang, pekerja perempuan yang menyolder konektor di pabrik di Taoyuan, generasi penerus dari lebih dari 700 pabrik mesin perkakas dan penggerak presisi di Taichung yang berjarak setengah jam dari sana, dan doktor muda berusia 30 tahun yang sedang berjalan di pabrik di kawasan ilmiah Tainan.
 
-1981 stand di samping Bandara Songshan jual motherboard buat pembeli Hong Kong bawa pulang rakit. 2026 World Trade Center Hall 1 zona robot AI, 180 vendor demo real-time reducer, motor, gripper. 45 tahun di tengah, pulau ini cuma lakukan satu hal: mengerjakan "manufaktur" yang negara maju outsourcing-kan, sampai dunia tak bisa mengelak.
+Pada 1981, di sebuah stan di dekat bandara Songshan, yang dijual adalah papan induk yang akan dibawa kembali ke Hong Kong. Pada 2026, di zona robot AI di Gedung Nasional I, 180 perusahaan menampilkan perangkat sungguhan untuk mendemonstrasikan gear reducer, motor, dan gripper. Di antara keduanya, selama 45 tahun, pulau ini hanya melakukan satu hal yang sama: membuat "manufakturnya" sejalan dengan negara-negara maju yang terus mengalihkan pekerjaannya ke luar, hingga tidak ada lagi yang bisa melewati tanpa melewati pulau ini.
 
-COMDEX mati, karena di Las Vegas——pembeli, media, launch event sisi permintaan. CeBIT mati, karena di Hannover——pembeli Eropa, media Eropa. Bulan Informasi juga pudar, karena di Taipei tapi menghadap retail rumah tangga Taiwan, dan retail itu dipotong e-commerce dan smartphone.
+COMDEX punah karena ia diselenggarakan di Las Vegas — di sisi permintaan pembeli, wartawan, dan konferensi. CeBIT punah karena ia diselenggarakan di Hannover — pembeli Eropa, wartawan Eropa. Pameran Info juga punah karena ia diselenggarakan di Taipei tetapi menargetkan konsumen rumahan di Taiwan, dan pasar ritel itu pun ditelan oleh e-commerce dan ponsel pintar.
 
-COMPUTEX selamat, karena di Taipei——sisi pasokan pulau ini. Lagi kali lihat berita "Jensen Huang ke Taiwan", "Tiga CEO serentak panggung", bisa dibaca begini: itu infrastruktur komputasi global, tiap tahun kembali ke tempat ia benar-benar dirakit, ziarah sekali.
+COMPUTEX bertahan karena ia diselenggarakan di Taipei — di sisi pasokan pulau ini. Lain kali melihat berita "Jensen Huang datang ke Taiwan" atau "Tiga CEO bertemu di satu panggung", bacalah dengan cara ini: itu adalah infrastruktur komputasi global yang setiap tahun kembali ke tempat di mana ia benar-benar dirakit, untuk berziarah.
 
-NVIDIA GTC Taipei 2026 Keynote Penuh (Saluran Resmi NVIDIA):
+NVIDIA GTC Taipei 2026 Full Keynote (Saluran Resmi NVIDIA):
 
 <div
   class="video-embed"
@@ -243,9 +247,9 @@ NVIDIA GTC Taipei 2026 Keynote Penuh (Saluran Resmi NVIDIA):
   ></iframe>
 </div>
 
-_Saluran Resmi NVIDIA: Jensen Huang 2026 GTC Taipei Keynote Penuh, "Senang sekali kembali ke rumah", Vera Rubin produksi massal, backdrop rouzong kaki babi._
+_Saluran Resmi NVIDIA: Versi lengkap dari Jensen Huang dalam GTC Taipei 2026, "Senang kembali ke rumah", produksi penuh Vera Rubin, dan bakso daging serta kaki babi di papan tulung._
 
-NVIDIA COMPUTEX 2024 Keynote Penuh (Saluran Resmi NVIDIA):
+NVIDIA COMPUTEX 2024 Full Keynote (Saluran Resmi NVIDIA):
 
 <div
   class="video-embed"
@@ -261,15 +265,15 @@ NVIDIA COMPUTEX 2024 Keynote Penuh (Saluran Resmi NVIDIA):
   ></iframe>
 </div>
 
-_Saluran Resmi NVIDIA: Jensen Huang 2024 COMPUTEX Keynote Penuh, konsep "AI Factory" dan "Taiwan pahlawan tanpa nama"逐字._
+_Saluran Resmi NVIDIA: Versi lengkap dari Jensen Huang dalam COMPUTEX 2024, konsep "pabrik AI" dan kata-kata "Taiwan adalah pahlawan tak terucapkan"._
 
 **Bacaan Lanjutan**:
 
-- [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Rantai yang menopang panggung utama COMPUTEX, sumber di pabrik wafer Hsinchu, Taichung, Tainan
-- [Pengembangan AI Taiwan dan Strategi Masa Depan](/Technology/台灣人工智慧發展與未來策略) — Dari assembly server ke Physical AI, industri AI Taiwan sedang tulang punggung kedua
-- [Industri Robot Taiwan](/id/technology/taiwan-robotics-industry) — HIWIN pertama kali COMPUTEX adalah potongan kunci rantai pasokan ini terbentuk
-- [Pengembangan Rantai Pasokan EV Taiwan](/Technology/台灣電動車產業鏈發展) — Bersebelahan server AI, tulang punggung manufaktur lain
-- [NVIDIA di Taiwan](/Technology/NVIDIA在台灣) — Dari masa kecil Huang di Tainan ke home ground GTC Taipei
+- [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — rantai yang mendukung panggung utama COMPUTEX bermula di Hsinchu, Taichung, dan Tainan
+- [Pengembangan AI Taiwan dan Strategi Masa Depan](/id/technology/artificial-intelligence-development-strategy) — dari perakitan server ke AI fisik, industri AI Taiwan sedang mengalami transformasi kedua
+- [Industri Robot Taiwan](/id/technology/taiwan-robotics-industry) — kehadiran pertama MediaTek di COMPUTEX adalah potongan kunci dalam pembentukan rantai pasok ini
+- [Pengembangan Rantai Industri Mobil Listrik Taiwan](/id/technology/taiwan-electric-vehicle-industry-chain) — sumbu manufaktur lain yang berdampingan dengan server AI
+- [NVIDIA di Taiwan](/id/technology/nvidia-in-taiwan) — dari masa kecil Jensen Huang di Tainan hingga panggung GTC Taipei di Taipei
 
 ## Sumber Gambar
 

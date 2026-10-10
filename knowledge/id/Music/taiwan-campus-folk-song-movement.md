@@ -21,9 +21,10 @@ featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
 translatedFrom: 'Music/台灣民歌運動.md'
-sourceCommitSha: '7415dcaae'
-sourceContentHash: 'sha256:58c8ce273dc99c8c'
-translatedAt: '2026-08-02T19:25:09.479991+00:00'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:852e24aefb540676'
+sourceBodyHash: 'sha256:61e39c0d29fd318e'
+translatedAt: '2026-10-10T02:54:03.659988+00:00'
 ---
 
 # Gerakan Lagu Rakyat Taiwan

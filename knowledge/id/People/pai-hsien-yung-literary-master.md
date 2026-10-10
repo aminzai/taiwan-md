@@ -19,10 +19,10 @@ lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
 translatedFrom: 'People/白先勇.md'
-sourceCommitSha: '7415dcaae'
-sourceContentHash: 'sha256:27b9c46e9dd00321'
-sourceBodyHash: 'sha256:bfc5f694a6aa2127'
-translatedAt: '2026-08-03T03:16:07+08:00'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:d675a47ee18feb3d'
+sourceBodyHash: 'sha256:44085a78b193e440'
+translatedAt: '2026-10-10T03:04:00.729418+00:00'
 ---
 
 # Pai Hsien-yung: "Taipei People" 1971, ke Tur 20 Tahun "The Peony Pavilion" Edisi Muda
@@ -71,25 +71,25 @@ Penghargaan ini adalah konfirmasi resmi dunia sastra Taiwan atas karir utuhnya d
 
 (Catatan: "Penghargaan Sastra Sun Yat-sen" dan "Penghargaan Juri Keputusan Ke-7 Dream of the Red Chamber 2018" keduanya tidak terverifikasi. Yang kedua adalah halusinasi: pemenang Ke-7 Dream of the Red Chamber (2018) adalah _Qingfuzi_ dan _Wangchunfeng_, bukan karya Pai Hsien-yung. [^5])
 
-## 20 Tahun "The Peony Pavilion" Edisi Muda dan _The Peony Blooms Twenty Years_
+## Edisi Muda《Kunti Danu》20 Tahun dan《Kunti Danu Mekar Dua Puluh Tahun》
 
-2024 September, tur 20 tahun "The Peony Pavilion" Edisi Muda dimulai. [^2] Bulan November tahun yang sama terbit _The Peony Blooms Twenty Years_, mencatat 20 tahun perjalanan pertunjukan.
+September 2024, edisi muda《Kunti Danu》20 tahun dimulai tur. [^2] Pada November tahun yang sama,《Kunti Danu Mekar Dua Puluh Tahun》diterbitkan, mencatat dua puluh tahun proses pertunjukan.
 
-2025 Oktober, Universitas Taiwan menggelar Pameran Khusus Sastra Pai Hsien-yung. [^4] 2026, Pai Hsien-yung tetap aktif.
+Oktober 2025, Universitas Taiwan mengadakan pameran khusus sastra Pai Hsien-yung. [^4] Pada 2026, Pai Hsien-yung masih aktif.
 
-Tur 20 tahun 2024 melintasi banyak kota termasuk Taipei, Hong Kong, Suzhou, _The Peony Blooms Twenty Years_ mencatat perjalanan lengkap proyek budaya ini dari perdana ke batu mili penting.
+Tur 20 tahun 2024 menyentuh banyak kota seperti Taipei, Hong Kong, dan Suzhou,《Kunti Danu Mekar Dua Puluh Tahun》mencatat proyek budaya ini dari pertunjukan pertama hingga berbagai poin penting.
 
-2026 Pai Hsien-yung tetap muncul di publik, terus mempromosikan budaya Kunqu dan pendidikan sastra. Keberlangsungan ini sendiri, adalah semacam deklarasi melawan kepunahan.
+Pada 2026, Pai Hsien-yung masih aktif dan terlibat, terus mempromosikan budaya kunstakar dan pendidikan sastra. Kehadiran yang berkelanjutan ini sendiri adalah pernyataan perlawanan terhadap kepunahan.
 
-> 🎙️ **Catatan Kurator**: Pai Hsien-yung adalah tokoh jarang dalam sejarah sastra Taiwan yang bermula sebagai "novelis modern", namun berakhir sebagai "pembangkit budaya tradisi". Lengkungan ini bukan transformasi arti umum, melainkan pendalaman. Kerinduan pada yang hilang di "Taipei People", dengan pelestarian Kunqu di "The Peony Pavilion" Edisi Muda, lahir dari kesadaran masalah yang sama: bagaimana agar hal-hal berharga tidak hilang.
+> 🎙️ **Catatan Kurator**: Pai Hsien-yung adalah salah satu dari sedikit penulis dalam sejarah sastra Taiwan yang dimulai sebagai "penulis novel modern" namun berakhir sebagai "pemulih warisan budaya tradisional". Garis ini bukanlah transformasi biasa, melainkan kedalaman. Kerinduan akan yang pupus dalam《Orang Taipei》dan penjagaan terhadap kunstakar dalam edisi muda《Kunti Danu》berasal dari kesadaran yang sama: bagaimana agar hal-hal berharga tidak punah.
 >
-> Kesuksesannya membuktikan, pelestarian budaya tidak perlu dimuseumkan, juga tidak perlu dipopulerkan. Butuh seseorang dengan standar seni cukup tinggi dan cukup gigih, terus melakukannya dengan cukup baik.
+> Keberhasilannya membuktikan bahwa pelestarian budaya tidak perlu di museumkan, dan juga tidak perlu dikomersialkan. Yang dibutuhkan adalah seseorang yang memiliki standar seni yang cukup tinggi dan tekun, yang terus memastikan hal itu dilakukan dengan baik.
 >
-> "Crystal Boys" dan "The Peony Pavilion" Edisi Muda (satu tahun 1983 memecah keheningan, satu tahun 2004 menghidupkan klasik), tampak berbeda jauh, keduanya lahir dari perlindungan mendalam pada hal-hal yang terpinggirkan.
+> 《Anak durhaka》dan edisi muda《Kunti Danu》(satu dibuka pada 1983, satu lainnya bangkit kembali pada 2004), meskipun tampak sangat berbeda, keduanya berasal dari rasa hormat yang sama terhadap hal-hal yang terpinggirkan.
 
-Dari Guilin, Guangxi ke Taman Baru Taipei, dari _Modern Literature_ ke Teater Kunqu Suzhou, jejak 60 tahun Pai Hsien-yung, adalah contoh orang yang sepanjang hayat tidak mau melepaskan "kenangan" ini.
+Dari Guangxi (Guilin) hingga Taipei (Taipei Park), dari《Sastra Modern》hingga Institut Kunstakar Suzhou, jejak enam puluh tahun Pai Hsien-yung adalah contoh seseorang yang tidak pernah melepaskan eratannya dengan "ingatan".
 
-**Baca Lanjutan**: [Pai Hsien-yung — Wikipedia](https://zh.wikipedia.org/wiki/白先勇) ｜ [Penghargaan Seni Nasional: Catatan Pemenang Pai Hsien-yung](https://www.ncafroc.org.tw/artsaward/winnerDetail@1229) ｜ [Museum Sastra Nasional Taiwan](https://www.nmtl.gov.tw/) ｜ [Sanmao](/id/people/san-mao): Pai Hsien-yung merekomendasikan opera pertamanya _Huo_ diterbitkan di _Modern Literature_
+**Bacaan Lanjutan**：[Pai Hsien-yung — Wikipedia](https://zh.wikipedia.org/wiki/白先勇) ｜ [Penghargaan Nasional Seni: Catatan Penghargaan Pai Hsien-yung](https://www.ncafroc.org.tw/artsaward/winnerDetail@1229) ｜ [Museum Sastra Nasional Taiwan](https://www.nmtl.gov.tw/) ｜ [San Mao](/id/people/san-mao)：Karya pertamanya《Tersesat》diterbitkan di《Sastra Modern》oleh rekomendasi Pai Hsien-yung
 
 ## Referensi
 
