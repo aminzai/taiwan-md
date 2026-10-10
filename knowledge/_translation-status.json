@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-10T15:27:28+08:00",
-    "zhCommitHead": "a297849f6",
+    "lastUpdated": "2026-10-10T15:42:31+08:00",
+    "zhCommitHead": "0a395d1df",
     "totalZh": 1125,
     "activeLanguages": [
       "en",
@@ -20,56 +20,56 @@
     "summary": {
       "en": {
         "total_zh": 1125,
-        "fresh": 1116,
-        "stale": 2,
-        "metadata_stale": 7,
+        "fresh": 1115,
+        "stale": 4,
+        "metadata_stale": 6,
         "missing": 0,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1125,
-        "fresh": 1117,
-        "stale": 3,
-        "metadata_stale": 5,
+        "fresh": 1116,
+        "stale": 5,
+        "metadata_stale": 4,
         "missing": 0,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1125,
-        "fresh": 1117,
-        "stale": 2,
-        "metadata_stale": 6,
+        "fresh": 1116,
+        "stale": 4,
+        "metadata_stale": 5,
         "missing": 0,
         "orphan": 0
       },
       "es": {
         "total_zh": 1125,
-        "fresh": 1116,
-        "stale": 3,
-        "metadata_stale": 6,
+        "fresh": 1115,
+        "stale": 5,
+        "metadata_stale": 5,
         "missing": 0,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1125,
-        "fresh": 1116,
-        "stale": 4,
+        "fresh": 1114,
+        "stale": 6,
         "metadata_stale": 5,
         "missing": 0,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1125,
-        "fresh": 1120,
-        "stale": 2,
+        "fresh": 1118,
+        "stale": 4,
         "metadata_stale": 3,
         "missing": 0,
         "orphan": 0
       },
       "id": {
         "total_zh": 1125,
-        "fresh": 1120,
-        "stale": 4,
+        "fresh": 1118,
+        "stale": 6,
         "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
@@ -77,39 +77,39 @@
       "pt": {
         "total_zh": 1125,
         "fresh": 1114,
-        "stale": 4,
-        "metadata_stale": 7,
+        "stale": 5,
+        "metadata_stale": 6,
         "missing": 0,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1125,
-        "fresh": 1114,
-        "stale": 5,
+        "fresh": 1113,
+        "stale": 6,
         "metadata_stale": 6,
         "missing": 0,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1125,
-        "fresh": 1114,
-        "stale": 4,
+        "fresh": 1112,
+        "stale": 6,
         "metadata_stale": 7,
         "missing": 0,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1125,
-        "fresh": 1115,
-        "stale": 4,
+        "fresh": 1113,
+        "stale": 6,
         "metadata_stale": 6,
         "missing": 0,
         "orphan": 0
       },
       "de": {
         "total_zh": 1125,
-        "fresh": 1112,
-        "stale": 6,
+        "fresh": 1111,
+        "stale": 7,
         "metadata_stale": 7,
         "missing": 0,
         "orphan": 0
@@ -4586,74 +4586,66 @@
         "en": {
           "path": "en/Music/taiwan-campus-folk-song-movement.md",
           "translatedFrom": "Music/台灣民歌運動.md",
-          "sourceCommitSha": "7415dcaa",
-          "sourceContentHash": "sha256:e201829436b891a1",
+          "sourceCommitSha": "f40273072",
+          "sourceContentHash": "sha256:852e24aefb540676",
           "sourceBodyHash": "sha256:61e39c0d29fd318e",
-          "translatedAt": "2026-05-17T05:34:48+08:00",
+          "translatedAt": "2026-10-10T12:07:00+08:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 16776,
+          "bytes": 16159,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Music/taiwan-campus-folk-song-movement.md",
           "translatedFrom": "Music/台灣民歌運動.md",
-          "sourceCommitSha": "7415dcaa",
-          "sourceContentHash": "sha256:e201829436b891a1",
+          "sourceCommitSha": "f40273072",
+          "sourceContentHash": "sha256:852e24aefb540676",
           "sourceBodyHash": "sha256:61e39c0d29fd318e",
-          "translatedAt": "2026-05-17T05:34:50+08:00",
+          "translatedAt": "2026-10-10T12:07:01+08:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 17554,
+          "bytes": 17352,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Music/taiwan-campus-folk-song-movement.md",
           "translatedFrom": "Music/台灣民歌運動.md",
-          "sourceCommitSha": "7415dcaa",
-          "sourceContentHash": "sha256:e201829436b891a1",
+          "sourceCommitSha": "f40273072",
+          "sourceContentHash": "sha256:852e24aefb540676",
           "sourceBodyHash": "sha256:61e39c0d29fd318e",
-          "translatedAt": "2026-05-17T05:34:52+08:00",
+          "translatedAt": "2026-10-10T12:07:01+08:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 16973,
+          "bytes": 16885,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Music/taiwan-campus-folk-song-movement.md",
           "translatedFrom": "Music/台灣民歌運動.md",
-          "sourceCommitSha": "7415dcaa",
-          "sourceContentHash": "sha256:e201829436b891a1",
+          "sourceCommitSha": "f40273072",
+          "sourceContentHash": "sha256:852e24aefb540676",
           "sourceBodyHash": "sha256:61e39c0d29fd318e",
-          "translatedAt": "2026-05-17T05:34:54+08:00",
+          "translatedAt": "2026-10-10T12:07:01+08:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 18183,
+          "bytes": 18348,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Music/taiwan-campus-folk-song-movement.md",
@@ -4708,20 +4700,18 @@
         "pt": {
           "path": "pt/Music/taiwan-campus-folk-song-movement.md",
           "translatedFrom": "Music/台灣民歌運動.md",
-          "sourceCommitSha": "7415dcaae",
-          "sourceContentHash": "sha256:e201829436b891a1",
+          "sourceCommitSha": "f40273072",
+          "sourceContentHash": "sha256:852e24aefb540676",
           "sourceBodyHash": "sha256:61e39c0d29fd318e",
-          "translatedAt": "2026-09-23T04:15:45+08:00",
+          "translatedAt": "2026-10-10T12:07:02+08:00",
           "translationLastCommit": "b497a978",
           "translationLastModified": "2026-09-23T05:59:31+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 17477,
+          "bytes": 17437,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Music/taiwan-campus-folk-song-movement.md",
@@ -85479,10 +85469,10 @@
     },
     "Nature/台灣步道文化與公民守護.md": {
       "zh": {
-        "lastCommit": "f712b724",
-        "lastModified": "2026-05-16T10:16:02+08:00",
-        "contentHash": "sha256:6a877621bb6ceb6f",
-        "bodyHash": "sha256:855af6d5f189b0bd"
+        "lastCommit": "1440e2a2",
+        "lastModified": "2026-10-10T14:52:05+08:00",
+        "contentHash": "sha256:d52ac46a55e0087a",
+        "bodyHash": "sha256:7ff26ffe138f6405"
       },
       "translations": {
         "en": {
@@ -85498,8 +85488,8 @@
           "footnoteDefs": 5,
           "bytes": 9955,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "footnote-loss (16→5)"
         },
         "ja": {
           "path": "ja/Nature/trail-culture-and-civic-stewardship.md",
@@ -85514,8 +85504,8 @@
           "footnoteDefs": 5,
           "bytes": 18621,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "footnote-loss (16→5)"
         },
         "ko": {
           "path": "ko/Nature/trail-culture-and-civic-stewardship.md",
@@ -85530,8 +85520,8 @@
           "footnoteDefs": 5,
           "bytes": 16936,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "footnote-loss (16→5)"
         },
         "es": {
           "path": "es/Nature/trail-culture-and-civic-stewardship.md",
@@ -85546,8 +85536,8 @@
           "footnoteDefs": 5,
           "bytes": 20332,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (16→5)"
         },
         "fr": {
           "path": "fr/Nature/trail-culture-and-civic-stewardship.md",
@@ -85562,8 +85552,8 @@
           "footnoteDefs": 5,
           "bytes": 18697,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "footnote-loss (16→5)"
         },
         "vi": {
           "path": "vi/Nature/trail-culture-and-civic-stewardship.md",
@@ -85578,8 +85568,8 @@
           "footnoteDefs": 5,
           "bytes": 23891,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (16→5)"
         },
         "id": {
           "path": "id/Nature/trail-culture-and-civic-stewardship.md",
@@ -85594,8 +85584,8 @@
           "footnoteDefs": 5,
           "bytes": 16472,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (16→5)"
         },
         "pt": {
           "path": "pt/Nature/trail-culture-and-civic-stewardship.md",
@@ -85610,8 +85600,8 @@
           "footnoteDefs": 5,
           "bytes": 19341,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (16→5)"
         },
         "hi": {
           "path": "hi/Nature/trail-culture-and-civic-stewardship.md",
@@ -85626,8 +85616,8 @@
           "footnoteDefs": 5,
           "bytes": 41586,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (16→5)"
         },
         "ar": {
           "path": "ar/Nature/trail-culture-and-civic-stewardship.md",
@@ -85642,8 +85632,8 @@
           "footnoteDefs": 5,
           "bytes": 25412,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (16→5)"
         },
         "ru": {
           "path": "ru/Nature/trail-culture-and-civic-stewardship.md",
@@ -85658,8 +85648,8 @@
           "footnoteDefs": 5,
           "bytes": 30750,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (16→5)"
         },
         "de": {
           "path": "de/Nature/trail-culture-and-civic-stewardship.md",
@@ -85674,8 +85664,8 @@
           "footnoteDefs": 5,
           "bytes": 18203,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (16→5)"
         }
       }
     },
@@ -86502,8 +86492,8 @@
           "sourceContentHash": "sha256:ae6eb429d45b37f4",
           "sourceBodyHash": "sha256:a891f90b49935053",
           "translatedAt": "2026-10-10T05:55:31.008078+00:00",
-          "translationLastCommit": "892cb4ef",
-          "translationLastModified": "2026-07-27T18:53:04+08:00",
+          "translationLastCommit": "814c4954",
+          "translationLastModified": "2026-10-10T15:27:28+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "bytes": 33502,
@@ -123946,8 +123936,8 @@
           "sourceContentHash": "sha256:06a2002deee9c4a4",
           "sourceBodyHash": "sha256:5eacf1a20c5ad4bd",
           "translatedAt": "2026-10-10T12:07:00+08:00",
-          "translationLastCommit": "892cb4ef",
-          "translationLastModified": "2026-07-27T18:53:04+08:00",
+          "translationLastCommit": "814c4954",
+          "translationLastModified": "2026-10-10T15:27:28+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "bytes": 26022,
@@ -165167,10 +165157,10 @@
     },
     "Food/台灣糕餅文化.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:bdb405b92fc10596",
-        "bodyHash": "sha256:c6a86f733ba033b1"
+        "lastCommit": "93c5da2c",
+        "lastModified": "2026-10-10T14:55:24+08:00",
+        "contentHash": "sha256:18a6dcd21c7afdcc",
+        "bodyHash": "sha256:736db188fea407ed"
       },
       "translations": {
         "en": {
@@ -165186,8 +165176,10 @@
           "footnoteDefs": 23,
           "bytes": 29579,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "ja": {
           "path": "ja/Food/taiwan-pastry-culture.md",
@@ -165202,8 +165194,10 @@
           "footnoteDefs": 23,
           "bytes": 30972,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "ko": {
           "path": "ko/Food/taiwan-pastry-culture.md",
@@ -165218,8 +165212,10 @@
           "footnoteDefs": 23,
           "bytes": 30931,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "es": {
           "path": "es/Food/taiwan-pastry-culture.md",
@@ -165234,8 +165230,10 @@
           "footnoteDefs": 23,
           "bytes": 34386,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "fr": {
           "path": "fr/Food/taiwan-pastry-culture.md",
@@ -165250,8 +165248,10 @@
           "footnoteDefs": 23,
           "bytes": 36079,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "vi": {
           "path": "vi/Food/taiwan-pastry-culture.md",
@@ -165266,8 +165266,10 @@
           "footnoteDefs": 23,
           "bytes": 34350,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "id": {
           "path": "id/Food/taiwan-pastry-culture.md",
@@ -165282,8 +165284,10 @@
           "footnoteDefs": 23,
           "bytes": 26455,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "pt": {
           "path": "pt/Food/taiwan-pastry-culture.md",
@@ -165298,8 +165302,10 @@
           "footnoteDefs": 23,
           "bytes": 29657,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "hi": {
           "path": "hi/Food/taiwan-pastry-culture.md",
@@ -165314,8 +165320,10 @@
           "footnoteDefs": 23,
           "bytes": 61527,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "ar": {
           "path": "ar/Food/taiwan-pastry-culture.md",
@@ -165330,8 +165338,10 @@
           "footnoteDefs": 23,
           "bytes": 40879,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "ru": {
           "path": "ru/Food/taiwan-pastry-culture.md",
@@ -165346,8 +165356,10 @@
           "footnoteDefs": 23,
           "bytes": 46291,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "de": {
           "path": "de/Food/taiwan-pastry-culture.md",
@@ -165362,8 +165374,10 @@
           "footnoteDefs": 23,
           "bytes": 31459,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         }
       }
     },
@@ -165988,8 +166002,8 @@
           "sourceContentHash": "sha256:7e5ddfdb9a112f57",
           "sourceBodyHash": "sha256:b9108371c1de0fa0",
           "translatedAt": "2026-10-10T12:07:00+08:00",
-          "translationLastCommit": "ddf3ef98",
-          "translationLastModified": "2026-10-01T16:43:57+08:00",
+          "translationLastCommit": "814c4954",
+          "translationLastModified": "2026-10-10T15:27:28+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "bytes": 18558,
@@ -166096,34 +166110,34 @@
         "pt": {
           "path": "pt/Food/hakka-food-culture.md",
           "translatedFrom": "Food/客家飲食文化.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:3b6b12dd06856da0",
-          "sourceBodyHash": "sha256:1006124334926615",
-          "translatedAt": "2026-09-22T17:40:45+08:00",
+          "sourceCommitSha": "011533786",
+          "sourceContentHash": "sha256:7e5ddfdb9a112f57",
+          "sourceBodyHash": "sha256:b9108371c1de0fa0",
+          "translatedAt": "2026-10-10T12:07:02+08:00",
           "translationLastCommit": "2702f289",
           "translationLastModified": "2026-09-22T22:21:17+08:00",
           "inferred": false,
-          "footnoteDefs": 6,
-          "bytes": 15479,
+          "footnoteDefs": 8,
+          "bytes": 19583,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (8→6)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/hakka-food-culture.md",
           "translatedFrom": "Food/客家飲食文化.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:3b6b12dd06856da0",
-          "sourceBodyHash": "sha256:1006124334926615",
-          "translatedAt": "2026-09-09T15:32:21+08:00",
+          "sourceCommitSha": "011533786",
+          "sourceContentHash": "sha256:7e5ddfdb9a112f57",
+          "sourceBodyHash": "sha256:b9108371c1de0fa0",
+          "translatedAt": "2026-10-10T12:07:02+08:00",
           "translationLastCommit": "2a11deae",
           "translationLastModified": "2026-09-09T22:38:42+08:00",
           "inferred": false,
-          "footnoteDefs": 6,
-          "bytes": 32942,
+          "footnoteDefs": 8,
+          "bytes": 42576,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (8→6)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Food/hakka-food-culture.md",
@@ -166160,18 +166174,18 @@
         "de": {
           "path": "de/Food/hakka-food-culture.md",
           "translatedFrom": "Food/客家飲食文化.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:3b6b12dd06856da0",
-          "sourceBodyHash": "sha256:1006124334926615",
-          "translatedAt": "2026-09-23T21:18:17+08:00",
+          "sourceCommitSha": "011533786",
+          "sourceContentHash": "sha256:7e5ddfdb9a112f57",
+          "sourceBodyHash": "sha256:b9108371c1de0fa0",
+          "translatedAt": "2026-10-10T12:07:03+08:00",
           "translationLastCommit": "33c6271e",
           "translationLastModified": "2026-09-23T21:23:08+08:00",
           "inferred": false,
-          "footnoteDefs": 6,
-          "bytes": 15124,
+          "footnoteDefs": 8,
+          "bytes": 19758,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (8→6)"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -176694,8 +176708,8 @@
           "sourceContentHash": "sha256:e6702eb59071e6e0",
           "sourceBodyHash": "sha256:c8ff273540a02078",
           "translatedAt": "2026-10-10T12:07:00+08:00",
-          "translationLastCommit": "3a2cee9a",
-          "translationLastModified": "2026-09-10T04:30:04+08:00",
+          "translationLastCommit": "814c4954",
+          "translationLastModified": "2026-10-10T15:27:28+08:00",
           "inferred": false,
           "footnoteDefs": 29,
           "bytes": 32714,
