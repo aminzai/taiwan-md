@@ -40,7 +40,10 @@ git fetch -q origin main 2>/dev/null || echo "wrapper: git fetch 失敗，沿用
 "$PY" scripts/tools/lang-sync/babel-push-every.py --sync >&2 || echo "wrapper: 起跑前合併 origin 失敗，沿用現有工作樹" >&2
 "$PY" scripts/tools/lang-sync/babel-origin-exclude.py >&2 || echo "wrapper: 去重清單產生失敗，沿用上一份 .taiwanmd/babel-exclude.tsv" >&2
 
-FLEET_WORKERS="$(~/Projects/muse-bot/fleet/fleetctl workers --service llm --format babel 2>/dev/null)"
+# 2026-10-10 加 --profile babel（OBSERVER-QUEUE #78 選項 B）：只拿 `--format babel` 時 fleet 不套入池白名單，
+# 營運機核發的是 8.1B 的 gemma4:e4b-nvfp4（名單外），09-21 起兩天 87% 的譯文出自名單外模型。
+# profile 模式沒有合格模型就回 0 個 worker（fail-closed），每台最多 1 個，同日在這台拉了 gemma4:26b。
+FLEET_WORKERS="$(~/Projects/muse-bot/fleet/fleetctl workers --service llm --profile babel --format babel 2>/dev/null)"
 [ -z "$FLEET_WORKERS" ] && echo "wrapper: fleet 未核發任何地端 worker，本輪只有雲端 worker" >&2
 # 2026-10-10 哲宇拍板（OBSERVER-QUEUE #78／#91）：laguna-s-2.1 全語停用。它不在入池白名單上，
 # 09-21 起名人頂替（越南文把台北寫成河內）、「台湣」、整篇主詞譯錯大多出自它，而這些錯每一道閘門都綠。
