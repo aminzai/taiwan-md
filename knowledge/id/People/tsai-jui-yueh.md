@@ -26,6 +26,7 @@ curation: 'incubating'
 translatedFrom: 'People/蔡瑞月.md'
 sourceCommitSha: 'c462122e6'
 sourceContentHash: 'sha256:606f74624cf601bd'
+sourceBodyHash: 'sha256:6b90253634145c2e'
 translatedAt: '2026-09-14T20:36:47.188815+00:00'
 ---
 

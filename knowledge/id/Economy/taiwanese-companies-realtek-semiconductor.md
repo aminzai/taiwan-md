@@ -12,6 +12,7 @@ lastHumanReview: true
 translatedFrom: 'Economy/台灣企業：瑞昱半導體.md'
 sourceCommitSha: '18157ab5d'
 sourceContentHash: 'sha256:4a3e5b2147abfd30'
+sourceBodyHash: 'sha256:dec8acb87bfd42a2'
 translatedAt: '2026-08-10T03:52:05.370602+00:00'
 ---
 

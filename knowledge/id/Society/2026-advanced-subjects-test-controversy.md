@@ -21,6 +21,7 @@ curation: 'incubating'
 translatedFrom: 'Society/2026年分科爭議.md'
 sourceCommitSha: 'a5f19502c'
 sourceContentHash: 'sha256:8fda1cde0f787fad'
+sourceBodyHash: 'sha256:8fd8e7154014483c'
 translatedAt: '2026-08-06T18:43:39.735391+00:00'
 ---
 

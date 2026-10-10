@@ -29,6 +29,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:2020._08.24_%E7%B8%BD%E7%B
 translatedFrom: 'Culture/藍染.md'
 sourceCommitSha: 'a43cf9153'
 sourceContentHash: 'sha256:b1932b90a96124c5'
+sourceBodyHash: 'sha256:e04eb558f9b5295b'
 translatedAt: '2026-09-17T14:07:18.750981+00:00'
 ---
 

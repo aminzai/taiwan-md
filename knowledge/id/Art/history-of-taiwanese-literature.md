@@ -23,6 +23,7 @@ readingTime: 13
 translatedFrom: 'Art/台灣文學史.md'
 sourceCommitSha: '4d7fab8ee'
 sourceContentHash: 'sha256:e97160f506bdd53f'
+sourceBodyHash: 'sha256:b3ce615995198c0c'
 translatedAt: '2026-07-30T23:29:08.621029+00:00'
 ---
 

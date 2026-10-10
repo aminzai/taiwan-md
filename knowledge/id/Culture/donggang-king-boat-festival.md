@@ -23,6 +23,7 @@ curation: 'incubating'
 translatedFrom: 'Culture/東港迎王船.md'
 sourceCommitSha: '3f9e184dc'
 sourceContentHash: 'sha256:9f05294373ce5f0f'
+sourceBodyHash: 'sha256:1750eec6a44e0473'
 translatedAt: '2026-09-25T17:48:25.957088+00:00'
 ---
 

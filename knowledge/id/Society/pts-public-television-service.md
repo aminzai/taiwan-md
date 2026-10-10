@@ -30,6 +30,7 @@ rationale:
 translatedFrom: 'Society/公視.md'
 sourceCommitSha: '6b09bda3b'
 sourceContentHash: 'sha256:4db765c86303453e'
+sourceBodyHash: 'sha256:ff708086fed4d9aa'
 translatedAt: '2026-09-19T05:37:24.839992+00:00'
 ---
 

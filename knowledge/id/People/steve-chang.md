@@ -21,6 +21,7 @@ readingTime: 7
 translatedFrom: 'People/張明正.md'
 sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:b0cb0f622b66732f'
+sourceBodyHash: 'sha256:21c31465830632be'
 translatedAt: '2026-08-04T03:21:25.584442+00:00'
 ---
 

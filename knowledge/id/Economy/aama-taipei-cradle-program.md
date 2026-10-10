@@ -28,6 +28,7 @@ relatedDiary: ['2026-07-15-121155-manual']
 translatedFrom: 'Economy/AAMA台北搖籃計畫.md'
 sourceCommitSha: '4f3974f86'
 sourceContentHash: 'sha256:ab3b9104eaaaac16'
+sourceBodyHash: 'sha256:c85b648ab9e302be'
 translatedAt: '2026-09-26T03:54:54.646257+00:00'
 ---
 

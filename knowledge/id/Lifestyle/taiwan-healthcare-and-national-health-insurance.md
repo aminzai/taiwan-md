@@ -55,6 +55,7 @@ rationale:
 translatedFrom: 'Lifestyle/台灣醫療與全民健保.md'
 sourceCommitSha: '29ff6f481'
 sourceContentHash: 'sha256:6a23ae926022133f'
+sourceBodyHash: 'sha256:a5c8010bb09051a0'
 translatedAt: '2026-09-22T19:03:04.405157+00:00'
 ---
 

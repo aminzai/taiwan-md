@@ -28,6 +28,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Lo_Ta-yu_羅大佑_2011.jp
 translatedFrom: 'People/羅大佑.md'
 sourceCommitSha: 'ac1d187af'
 sourceContentHash: 'sha256:2bd311f3a1309672'
+sourceBodyHash: 'sha256:fe7b545ee2048324'
 translatedAt: '2026-09-20T18:22:43.230582+00:00'
 ---
 

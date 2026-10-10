@@ -24,6 +24,7 @@ readingTime: 20
 translatedFrom: 'People/吳百福.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:6e3924ea5d9a1832'
+sourceBodyHash: 'sha256:3e07cf6a17af5d88'
 translatedAt: '2026-09-13T10:37:16.129087+00:00'
 ---
 

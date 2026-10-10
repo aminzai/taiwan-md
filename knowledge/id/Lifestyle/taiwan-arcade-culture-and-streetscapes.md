@@ -13,6 +13,7 @@ curation: 'incubating'
 translatedFrom: 'Lifestyle/台灣騎樓文化與街景.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:bd3e7ae30112faf0'
+sourceBodyHash: 'sha256:8f231aa6641c39c8'
 translatedAt: '2026-08-04T08:22:52.370732+00:00'
 ---
 

@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：中華電信.md'
 sourceCommitSha: '4a4d66620'
 sourceContentHash: 'sha256:e3105e3b0d7b10f4'
+sourceBodyHash: 'sha256:85923df8ecf92741'
 translatedAt: '2026-08-04T06:41:13.019021+00:00'
 ---
 

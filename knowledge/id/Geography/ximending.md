@@ -36,6 +36,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E9%96%80%E7%B4%8
 translatedFrom: 'Geography/西門町.md'
 sourceCommitSha: '49728f9d5'
 sourceContentHash: 'sha256:0ee777992a128197'
+sourceBodyHash: 'sha256:08db5a34a2ebbaab'
 translatedAt: '2026-09-20T10:20:14.130026+00:00'
 ---
 

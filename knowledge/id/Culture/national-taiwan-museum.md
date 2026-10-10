@@ -23,6 +23,7 @@ curation: 'incubating'
 translatedFrom: 'Culture/國立臺灣博物館.md'
 sourceCommitSha: '4ce29d97d'
 sourceContentHash: 'sha256:ec356fcc324527b2'
+sourceBodyHash: 'sha256:1f1dbba771873780'
 translatedAt: '2026-09-12T09:14:50.469188+00:00'
 ---
 

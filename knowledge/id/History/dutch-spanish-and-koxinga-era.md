@@ -25,6 +25,7 @@ readingTime: 10
 translatedFrom: 'History/荷西明鄭時期.md'
 sourceCommitSha: '85926aa3b'
 sourceContentHash: 'sha256:475b891f7794f26c'
+sourceBodyHash: 'sha256:b9a9258412d16bc5'
 translatedAt: '2026-08-05T04:57:01.336555+00:00'
 ---
 

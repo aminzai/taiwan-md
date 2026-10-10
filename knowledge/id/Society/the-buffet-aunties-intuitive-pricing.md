@@ -23,6 +23,7 @@ curation: 'incubating'
 translatedFrom: 'Society/自助餐阿姨的謎之目測精算能力.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:6476b4bbc6422f82'
+sourceBodyHash: 'sha256:b933f7d83c83a92f'
 translatedAt: '2026-08-04T09:05:39.175257+00:00'
 ---
 

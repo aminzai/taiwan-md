@@ -26,6 +26,7 @@ readingTime: 15
 translatedFrom: 'Art/王新仁.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:83396d8fdb485588'
+sourceBodyHash: 'sha256:e40b70041a0b9945'
 translatedAt: '2026-09-12T22:02:51.707276+00:00'
 ---
 

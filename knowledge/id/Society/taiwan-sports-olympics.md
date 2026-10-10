@@ -46,6 +46,7 @@ verification:
 translatedFrom: 'Society/台灣體育發展與奧運.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:a575707a54edea46'
+sourceBodyHash: 'sha256:77348d4fbb7640a8'
 translatedAt: '2026-09-25T15:15:01.711807+00:00'
 ---
 

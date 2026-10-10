@@ -22,6 +22,7 @@ readingTime: 16
 translatedFrom: 'Society/台灣國防與軍事現代化.md'
 sourceCommitSha: 'e1b5668ad'
 sourceContentHash: 'sha256:47a9b948e22a790b'
+sourceBodyHash: 'sha256:22e1d83beded6641'
 translatedAt: '2026-07-28T21:39:08.532735+00:00'
 ---
 

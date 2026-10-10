@@ -64,6 +64,7 @@ rationale:
 translatedFrom: 'Culture/台灣人小時候的英文名字.md'
 sourceCommitSha: 'cfce444ae'
 sourceContentHash: 'sha256:c124eb253c195f03'
+sourceBodyHash: 'sha256:efeadcec0add04bc'
 translatedAt: '2026-09-26T09:48:50.975718+00:00'
 ---
 

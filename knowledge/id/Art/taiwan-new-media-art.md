@@ -25,6 +25,7 @@ lastHumanReview: true
 translatedFrom: 'Art/台灣新媒體藝術.md'
 sourceCommitSha: 'ef8fab38e'
 sourceContentHash: 'sha256:73ba9ccb331ff6aa'
+sourceBodyHash: 'sha256:3affa690cf7b66dc'
 translatedAt: '2026-07-29T09:52:08.901445+00:00'
 ---
 

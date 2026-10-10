@@ -22,6 +22,7 @@ readingTime: 7
 translatedFrom: 'People/龍應台.md'
 sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:efaa1720b84e525c'
+sourceBodyHash: 'sha256:fb31dbbb24515e69'
 translatedAt: '2026-08-04T02:33:39.449113+00:00'
 ---
 

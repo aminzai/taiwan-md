@@ -21,6 +21,7 @@ curation: 'incubating'
 translatedFrom: 'Geography/縱貫鐵路.md'
 sourceCommitSha: '77fa1a757'
 sourceContentHash: 'sha256:fc555545d67f593e'
+sourceBodyHash: 'sha256:82e8d65770b72f8e'
 translatedAt: '2026-09-14T13:31:37.743276+00:00'
 ---
 

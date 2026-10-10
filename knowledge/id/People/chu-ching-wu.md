@@ -20,6 +20,7 @@ readingTime: 7
 translatedFrom: 'People/朱經武.md'
 sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:ee5b642d51157582'
+sourceBodyHash: 'sha256:619ef92c56c46024'
 translatedAt: '2026-08-04T03:58:39.870590+00:00'
 ---
 

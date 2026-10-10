@@ -27,6 +27,7 @@ rationale:
 translatedFrom: 'People/理科太太.md'
 sourceCommitSha: '3d8f3df35'
 sourceContentHash: 'sha256:0b5821439bfed0fe'
+sourceBodyHash: 'sha256:256049c552528280'
 translatedAt: '2026-09-11T04:13:27.919331+00:00'
 ---
 

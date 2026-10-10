@@ -16,6 +16,7 @@ imageNote: '原 Wikimedia 圖與文章主題不符，未收進庫，待換圖（
 translatedFrom: 'Food/台灣醬料與調味.md'
 sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:2aabcc7bbabb4a16'
+sourceBodyHash: 'sha256:165e3d5c431f4c83'
 translatedAt: '2026-09-10T02:07:45.544787+00:00'
 ---
 

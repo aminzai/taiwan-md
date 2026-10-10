@@ -15,6 +15,7 @@ readingTime: 10
 translatedFrom: 'Art/台灣攝影.md'
 sourceCommitSha: '18157ab5'
 sourceContentHash: 'sha256:9e4daeb9f4939ca2'
+sourceBodyHash: 'sha256:80c79b7fd0c73431'
 translatedAt: '2026-08-28T22:13:53+08:00'
 ---
 

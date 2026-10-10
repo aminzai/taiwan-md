@@ -32,6 +32,7 @@ rationale:
 translatedFrom: 'Music/陳嫺靜.md'
 sourceCommitSha: '7255b3ab1'
 sourceContentHash: 'sha256:a52c8c96b2eeab05'
+sourceBodyHash: 'sha256:b3516ecc857f1e0e'
 translatedAt: '2026-09-25T11:06:40.719489+00:00'
 ---
 

@@ -21,6 +21,7 @@ readingTime: 7
 translatedFrom: 'People/謝淑薇.md'
 sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:8bead15b6529d1be'
+sourceBodyHash: 'sha256:86d8a4b7771c32c4'
 translatedAt: '2026-08-03T21:00:12.305406+00:00'
 ---
 

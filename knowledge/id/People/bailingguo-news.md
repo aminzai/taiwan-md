@@ -14,6 +14,7 @@ curation: 'incubating'
 translatedFrom: 'People/百靈果 News.md'
 sourceCommitSha: 'cf406dedd'
 sourceContentHash: 'sha256:a3f914d9f2d6930a'
+sourceBodyHash: 'sha256:6a0fcf2e49c8c6d1'
 translatedAt: '2026-09-14T01:03:54.620111+00:00'
 ---
 

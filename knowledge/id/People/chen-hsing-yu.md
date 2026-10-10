@@ -3,7 +3,8 @@ title: 'Chen Hsing-yu: Dari Putri Presiden yang Terus Dikejar, ke Dokter Chen di
 description: 'Dari dikejar media di New York tahun 2009, hingga membuka klinik gigi di Tainan tahun 2016, bagaimana Chen Hsing-yu membawa hidupnya kembali ke profesi kedokteran gigi, di bawah sorotan keluarga politik?'
 date: 2026-08-15
 category: 'People'
-tags: ['Chen Hsing-yu', 'Dokter Gigi', 'Etika Media', 'Tainan', 'Chen Shui-bian']
+tags:
+  ['Chen Hsing-yu', 'Dokter Gigi', 'Etika Media', 'Tainan', 'Chen Shui-bian']
 subcategory: '政治人物'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -14,6 +15,7 @@ curation: incubating
 translatedFrom: 'People/陳幸妤.md'
 sourceCommitSha: 'fa7059f7a'
 sourceContentHash: 'sha256:8b01af0c15c3d257'
+sourceBodyHash: 'sha256:98cbd8f687f836db'
 translatedAt: '2026-09-22T21:13:15+00:00'
 ---
 
@@ -23,7 +25,7 @@ _Foto: Liberty Times, 4 Februari 2009, laporan asli lihat [^9]. Gambar ini disem
 
 ![24 Desember 2016, suasana pembukaan klinik gigi Chen Hsing-yu.](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/20161224_%E9%99%B3%E5%B9%B8%E5%A6%A4%E7%89%99%E9%86%AB%E8%A8%BA%E6%89%80%E9%96%8B%E6%A5%AD.jpg/500px-20161224_%E9%99%B3%E5%B9%B8%E5%A6%A4%E7%89%99%E9%86%AB%E8%A8%BA%E6%89%80%E9%96%8B%E6%A5%AD.jpg)
 
-_Foto: diambil oleh Huang Hsiang-ching, 24 Desember 2016; sumber dari [halaman berkas Wikimedia Commons](https://commons.wikimedia.org/wiki/File:20161224_%E9%99%B3%E5%B9%B8%E5%A6%A4%E7%89%99%E9%86%AB%E8%A8%BA%E6%89%80%E9%96%8B%E6%A5%AD.jpg)[^11]. Berkas ini berlisensi **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**; artikel ini tidak mengubah gambar tersebut._
+_Foto: diambil oleh Huang Hsiang-ching, 24 Desember 2016; sumber dari [halaman berkas Wikimedia Commons](https://commons.wikimedia.org/wiki/File:20161224_%E9%99%B3%E5%B9%B8%E5%A6%A4%E7%89%99%E9%86%AB%E8%A8%BA%E6%89%80%E9%96%8B%E6%A5%AD.jpg)[^11]. Berkas ini berlisensi **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**; artikel ini tidak mengubah gambar tersebut.\_
 
 _Tonton lebih lanjut: [Agustus 2026, Chen Hsing-yu menjawab pertanyaan media di luar kliniknya.](https://img.ltn.com.tw/Upload/news/600/2026/08/13/5538516_1_1.jpg)_
 

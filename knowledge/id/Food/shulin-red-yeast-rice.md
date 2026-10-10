@@ -22,6 +22,7 @@ curation: 'incubating'
 translatedFrom: 'Food/紅麴.md'
 sourceCommitSha: 'e8de5c169'
 sourceContentHash: 'sha256:1a952f594b1e4c60'
+sourceBodyHash: 'sha256:140c52cfad734a21'
 translatedAt: '2026-09-14T23:08:30.336540+00:00'
 ---
 

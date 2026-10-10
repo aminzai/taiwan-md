@@ -20,6 +20,7 @@ curation: 'incubating'
 translatedFrom: 'Technology/台灣數位影像與動畫產業.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:51416a90bab5c553'
+sourceBodyHash: 'sha256:bb5064886298647d'
 translatedAt: '2026-08-04T07:06:03.805275+00:00'
 ---
 

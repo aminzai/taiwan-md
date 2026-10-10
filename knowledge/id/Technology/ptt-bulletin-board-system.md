@@ -22,6 +22,7 @@ curation: 'incubating'
 translatedFrom: 'Technology/PTT批踢踢.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:ab09d0f00eb883d9'
+sourceBodyHash: 'sha256:110038d2fb23bc2a'
 translatedAt: '2026-08-04T08:08:10.684640+00:00'
 ---
 

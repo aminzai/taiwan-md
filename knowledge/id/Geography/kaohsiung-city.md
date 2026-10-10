@@ -36,6 +36,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Night_skyline_of_Kaohsiung
 translatedFrom: 'Geography/高雄市.md'
 sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:981f398813aadaf3'
+sourceBodyHash: 'sha256:d9c17350b5714f5f'
 translatedAt: '2026-09-25T04:29:13.712676+00:00'
 ---
 

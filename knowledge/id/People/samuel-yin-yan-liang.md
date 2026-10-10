@@ -41,6 +41,7 @@ sporeLinks:
 translatedFrom: 'People/尹衍樑.md'
 sourceCommitSha: '31a05c44b'
 sourceContentHash: 'sha256:de14cddb4cd06bf6'
+sourceBodyHash: 'sha256:bf303e93b6c06618'
 translatedAt: '2026-07-30T03:46:41.699854+00:00'
 ---
 

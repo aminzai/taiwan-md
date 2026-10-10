@@ -27,6 +27,7 @@ imageSource: "https://commons.wikimedia.org/wiki/File:Google_Taiwan_Branch_Engin
 translatedFrom: People/簡立峰.md
 sourceCommitSha: 717a640b3
 sourceContentHash: sha256:8fe13ae8a4b4ef0b
+sourceBodyHash: 'sha256:ea3e7d04bd378c51'
 translatedAt: '2026-09-09T15:32:33+08:00'
 rationale:
   why_this_hook: 'Memulai dari "ia sudah melakukan pencarian Taiwan sebelum Google datang ke Taiwan", menghindari membuat Jamie Lin hanya sebagai tokoh merek Google Taiwan, menonjolkan akar teknis dan kepeduliannya terhadap kemandirian Taiwan.'

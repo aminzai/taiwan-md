@@ -38,6 +38,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Longshan_Temple,_Taipei_01
 translatedFrom: 'Geography/艋舺.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:087fe7b9d4504fbb'
+sourceBodyHash: 'sha256:da886e84510f3d63'
 translatedAt: '2026-09-22T17:53:24.724606+00:00'
 ---
 

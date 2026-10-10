@@ -25,6 +25,7 @@ curation: 'incubating'
 translatedFrom: 'Geography/玉山氣象站.md'
 sourceCommitSha: '4f3974f86'
 sourceContentHash: 'sha256:51557b2ea91dd853'
+sourceBodyHash: 'sha256:522eab501e4df7fe'
 translatedAt: '2026-09-24T09:11:34.481355+00:00'
 ---
 

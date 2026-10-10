@@ -22,6 +22,7 @@ curation: 'incubating'
 translatedFrom: 'Economy/台灣離岸風電.md'
 sourceCommitSha: '566429f3b'
 sourceContentHash: 'sha256:700b0aadc287b607'
+sourceBodyHash: 'sha256:6479c4ef0aacb1a4'
 translatedAt: '2026-09-12T22:36:22.626634+00:00'
 ---
 

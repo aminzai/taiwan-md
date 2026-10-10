@@ -24,6 +24,7 @@ readingTime: 9
 translatedFrom: 'Culture/台灣動漫文化.md'
 sourceCommitSha: '85926aa3b'
 sourceContentHash: 'sha256:f93b35ef1b93fca6'
+sourceBodyHash: 'sha256:87f8032127a53d42'
 translatedAt: '2026-08-05T21:27:13.021389+00:00'
 ---
 

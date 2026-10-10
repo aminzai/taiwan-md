@@ -23,6 +23,7 @@ lastHumanReview: true
 translatedFrom: 'People/郭婞淳.md'
 sourceCommitSha: '85926aa3b'
 sourceContentHash: 'sha256:100a6dfe0d0c9f4b'
+sourceBodyHash: 'sha256:45d6a810707daa5c'
 translatedAt: '2026-08-05T04:13:02.331708+00:00'
 ---
 

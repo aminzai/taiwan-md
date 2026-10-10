@@ -4,6 +4,7 @@ description: 'Tahun 1971 Lü Hsiu-lien mengajukan feminisme baru; tahun 1982 Li 
 translatedFrom: History/婦女運動.md
 sourceCommitSha: e974b4c9e
 sourceContentHash: sha256:da39db3f5bf79f35
+sourceBodyHash: 'sha256:e725ecac1936b5cf'
 translatedAt: 2026-09-10T14:30:00+08:00
 date: 2026-08-20
 category: 'History'

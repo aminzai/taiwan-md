@@ -43,6 +43,7 @@ sporeLinks:
 translatedFrom: 'Society/中華台北.md'
 sourceCommitSha: 'bbd8788a3'
 sourceContentHash: 'sha256:7318206b6cc4ec7b'
+sourceBodyHash: 'sha256:dab437d622fd59b0'
 translatedAt: '2026-09-26T03:04:26.429390+00:00'
 ---
 

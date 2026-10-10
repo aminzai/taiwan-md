@@ -29,6 +29,7 @@ imageSource: 'https://www.heath.tw/nml-issue/trial-issue-of-no-mans-land/'
 translatedFrom: Art/數位荒原.md
 sourceCommitSha: a74c440b3
 sourceContentHash: 'sha256:f2c768fcf8a22317'
+sourceBodyHash: 'sha256:7bfa784449cb0cb6'
 translatedAt: 2026-09-09T21:12:14+08:00
 ---
 

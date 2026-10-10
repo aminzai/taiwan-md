@@ -33,6 +33,7 @@ relatedDiary: ['2026-08-06-164219-manual']
 translatedFrom: 'Art/馬祖國際藝術島.md'
 sourceCommitSha: 'cb75c0402'
 sourceContentHash: 'sha256:799ca5362c21601f'
+sourceBodyHash: 'sha256:55c20a0d0cb340b3'
 translatedAt: '2026-09-22T17:13:35.500997+00:00'
 ---
 

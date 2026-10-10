@@ -36,6 +36,7 @@ sporeLinks:
 translatedFrom: 'Society/國宅與居住正義.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:76b291d1998c59bc'
+sourceBodyHash: 'sha256:547ee1d3b342a025'
 translatedAt: '2026-08-02T23:09:51.693000+00:00'
 ---
 

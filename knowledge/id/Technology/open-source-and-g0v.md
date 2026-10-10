@@ -13,6 +13,7 @@ readingTime: 8
 translatedFrom: 'Technology/開源社群與g0v.md'
 sourceCommitSha: '6eeee35c8'
 sourceContentHash: 'sha256:6b493ef18a59a364'
+sourceBodyHash: 'sha256:c135fc23da71593b'
 translatedAt: '2026-07-31T00:47:41.129476+00:00'
 ---
 

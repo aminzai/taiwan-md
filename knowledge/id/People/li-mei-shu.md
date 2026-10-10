@@ -22,6 +22,7 @@ curation: 'incubating'
 translatedFrom: 'People/李梅樹.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:f79e6e0a908d6b4e'
+sourceBodyHash: 'sha256:56cd3707ce723649'
 translatedAt: '2026-08-04T11:30:12.266917+00:00'
 ---
 

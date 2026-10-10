@@ -30,6 +30,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Human_Rights_Memorial_Park
 translatedFrom: 'History/綠島監獄.md'
 sourceCommitSha: 'bd0134b2b'
 sourceContentHash: 'sha256:131157d952b4b258'
+sourceBodyHash: 'sha256:cad7f5c77e571b29'
 translatedAt: '2026-07-29T19:08:18.231992+00:00'
 ---
 

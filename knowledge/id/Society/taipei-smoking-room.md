@@ -38,6 +38,7 @@ relatedDiary: ['2026-07-14-193334-manual']
 translatedFrom: 'Society/台北吸菸室.md'
 sourceCommitSha: '1929e495a'
 sourceContentHash: 'sha256:da418b1ee825bfe1'
+sourceBodyHash: 'sha256:9688d39de8d42815'
 translatedAt: '2026-09-26T02:44:48.800708+00:00'
 ---
 

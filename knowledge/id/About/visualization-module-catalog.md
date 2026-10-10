@@ -23,6 +23,7 @@ relatedDiary: ['2026-07-16-222859-viz-evolution']
 translatedFrom: 'About/視覺化模組型錄.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:6a367e7b90a88190'
+sourceBodyHash: 'sha256:f6a2ecc9e1606c44'
 translatedAt: '2026-08-02T17:34:18.442783+00:00'
 ---
 
