@@ -21,6 +21,15 @@ featured: false
 lastVerified: 2026-04-23
 lastHumanReview: false
 readingTime: 28
+sporeLinks:
+  - id: 41
+    platform: 'threads'
+    date: '2026-04-23'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXdyoqkEdma'
+  - id: 42
+    platform: 'x'
+    date: '2026-04-23'
+    url: 'https://x.com/taiwandotmd/status/2047213679826149450'
 translatedFrom: 'Society/認知作戰.md'
 sourceCommitSha: '7c4a58918'
 sourceContentHash: 'sha256:0b5ddca64df69aa6'
