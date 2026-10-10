@@ -252,7 +252,7 @@ _三峡区歴史文物館に展示された「藍と白シリーズ」の藍染�
 
 [^6]: [Living National Treasure (Japan)](https://en.wikipedia.org/wiki/Preservers_of_Important_Intangible_Cultural_Properties) — 英語版Wikipediaの日本における人間国宝制度の項目。1950年文化財保護法、1954年改正、1955年2月15日の初回指定、1964年の200万円補助制度開始の記録。
 
-[^7]: [National Intangible Cultural Heritage (South Korea)](<https://en.wikipedia.org/wiki/National_Intangible_Cultural_Heritage_(South_Korea) — 英語版Wikipediaの韓国重要無形文化財制度の項目。1962年立法、日本を模範としつつも範囲が広い点について。
+[^7]: [National Intangible Cultural Heritage (South Korea)](<https://en.wikipedia.org/wiki/National_Intangible_Cultural_Heritage_(South_Korea)>) — 英語版Wikipediaの韓国重要無形文化財制度の項目。1962年立法、日本を模範としつつも範囲が広い点について。
 
 [^8]: [鶯歌の発展](https://www.yingge.ntpc.gov.tw/home.jsp?id=6fed0da13b535525) — 新北市鶯歌区役所公式サイト「鶯歌の発展」沿革。1804年の呉鞍による窯の開設から、1853年の尖山埔への移転までの時系列と地理的背景。
 

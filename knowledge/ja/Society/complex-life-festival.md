@@ -355,7 +355,7 @@ This article uses 8 photos of Complex Life Festival on-site scenes and main visu
 
 [^32]: [Creative Coding Taiwan: mashbean Community Sharing (2022-04)](https://creativecoding.in/2022/05/08/creative-coding-meetup-202204-mashbean/) — Creative Coding meetup record, Huang Dou-ni shares his abandonment of medicine timeline "I was still a doctor last year," corroborating ~2021 resignation, abandonment of medicine is a gradual process.
 
-[^33]: [YouTube (Digital Times Official): How to Do Taiwan's Largest Public Welfare NFT Project ft. FAB DAO Co-founder Huang Dou-ni](https://www.youtube.com/watch=2TyXgAB4_78) — Digital Times official channel interview, Huang Dou-ni talks about FAB DAO public welfare NFT project, first-hand image of his post-abandonment of medicine web3 public welfare works.
+[^33]: [YouTube (Digital Times Official): How to Do Taiwan's Largest Public Welfare NFT Project ft. FAB DAO Co-founder Huang Dou-ni](https://www.youtube.com/watch?v=2TyXgAB4_78) — Digital Times official channel interview, Huang Dou-ni talks about FAB DAO public welfare NFT project, first-hand image of his post-abandonment of medicine web3 public welfare works.
 
 [^34]: [VERSE: Taichung Independent Bookstore Tour (Reference Bookstore Current Status)](https://www.verse.com.tw/article/taichung-indepedent-bookstores) — Taichung independent bookstore report, recording Reference Bookstore remained after losing election, Hsu Hao-ning manages, and has same-name Podcast _Reference Bookstore_ still updating until end of 2024.
 

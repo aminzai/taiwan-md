@@ -167,7 +167,7 @@ translatedAt: '2026-06-12T00:53:40+08:00'
 [^term]: [中央選挙委員会 - 歴次総統副総統選挙概要](https://web.cec.gov.tw/central/article/19170) — 1997 年第四次憲法改正で大統領任期が 6 年から 4 年に短縮され、第九代総統から適用されました。感謝 @kidmoon0087 の指摘（Issue #331）。
 
 - [李登輝辞世：『静かな革命』を導いた「民主の紳士」と「権力喪失」の親日派](https://www.bbc.com/zhongwen/trad/chinese-news-53607253)
-- [1995年李登輝総統コーネル大学之行 - Wikipedia](https://zh.wikipedia.org/zh-tw/1995%E5%B9%B4%E6%9D%8E%E7%99%BB%E8%BC%9D%E7%B5%B1%E7%AB%8B%E5%85%AC%E5%BC%8F%E5%AD%B8%E9%99%A2%E4%B9%8B%E8%A1%8C)
+- [1995年李登輝総統コーネル大学之行 - Wikipedia](https://zh.wikipedia.org/zh-tw/1995%E5%B9%B4%E6%9D%8E%E7%99%BB%E8%BC%9D%E7%B8%BD%E7%B5%B1%E5%BA%B7%E4%B9%83%E7%88%BE%E5%A4%A7%E5%AD%B8%E4%B9%8B%E8%A1%8C)
 - [Lee Teng-hui, Taiwan's 'father of democracy', dies aged 97 - The Guardian](https://www.theguardian.com/world/2020/jul/30/lee-teng-hui-taiwan-father-of-democracy-first-president-dies-aged-97)
 - [Japanese Childhood and Agricultural Economics - OFTaiwan](https://oftaiwan.org/taiwan-profiles/lee-teng-hui/japanese-childhood-and-agricultural-economics/)
 - [寧靜革命 - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%AF%A7%E9%9D%9C%E9%9D%A9%E5%91%BD)

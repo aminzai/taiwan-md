@@ -262,7 +262,7 @@ Taiwan.mdは笠詩社を英文、日文、韓文、西文、法文へ翻訳す�
 本文は4枚の公有領域 / CCライセンス画像を使用し、すべて `public/article-images/art/` にcacheしホットリンク来源サーバーを回避：
 
 - [詩人呉晟 2016年台北国際書展](https://commons.wikimedia.org/wiki/File:2016TIBE_D3_Wu_Sheng.jpg) — Photo: Rico Shen、2016年、CC BY-SA 4.0（hero）
-- [1964年笠詩刊社社員合影](https://commons.wikimedia.org/wiki/File:1964%E5%B9%B4%E7%AC%A0%E8%A9%A9%E7%A4%BE%E7%B6%93%E7%90%86.jpg) — 笠詩社創設当年歴史的記録、Wikimedia Commons CC BY-SA / Public domain
+- [1964年笠詩刊社社員合影](https://commons.wikimedia.org/wiki/File:1964%E5%B9%B4%E7%AC%A0%E8%A9%A9%E5%88%8A%E7%A4%BE%E7%B6%93%E7%90%86.jpg) — 笠詩社創設当年歴史的記録、Wikimedia Commons CC BY-SA / Public domain
 - [詩人林亨泰肖像](https://commons.wikimedia.org/wiki/File:%E6%9E%97%E4%BA%A8%E6%B3%B0%E8%82%96%E5%83%8F.jpg) — Wikimedia Commons CC BY-SA / Public domain
 - [陳千武褒揚令](https://commons.wikimedia.org/wiki/File:%E9%99%B3%E5%8D%83%E6%AD%A6%E8%A4%92%E6%8F%9A%E4%BB%A4.jpg) — 公開政府文件、Public domain
 
@@ -288,7 +288,7 @@ Taiwan.mdは笠詩社を英文、日文、韓文、西文、法文へ翻訳す�
 
 [^9]: [言語横断世代詩人林亨泰百歳逝去 — 聯合新聞網 2023](https://udn.com/news/story/6885/7461236/) — 林亨泰1967年遡って「言語横断世代詩人」の用語を提唱し、「言語媒介喪失に直面し」、「再び中国語を学び、中国語表現能力を突破する」詩人世代を記述。
 
-[^10]: [言語横断世代 — ウィキペディア](https://zh.wikipedia.org/zh-tw/%E8%B7%A8%E8%B6%8A%E8%A8%9E%E8%A8%80%E7%9A%84%E4%B8%80%E4%BB%A3) — 「言語横断世代」は日治末期生まれ（約1915-1928年）、少年期に日本語で教育を受け中国語で書く本省詩人を指し、戦後国民政府の日本語廃止により中国語を強制的に再学ばざるを得なかったことを詳述。
+[^10]: [言語横断世代 — ウィキペディア](https://zh.wikipedia.org/zh-tw/%E8%B7%A8%E8%B6%8A%E8%AA%9E%E8%A8%80%E7%9A%84%E4%B8%80%E4%BB%A3) — 「言語横断世代」は日治末期生まれ（約1915-1928年）、少年期に日本語で教育を受け中国語で書く本省詩人を指し、戦後国民政府の日本語廃止により中国語を強制的に再学ばざるを得なかったことを詳述。
 
 [^11]: [Wong, "Translingual Poets in Colonial and Postcolonial Taiwan" — Polylinguality 2024（Springer/RUDN）](https://journals.rudn.ru/polylinguality/article/view/30492/en_US) — 2026年国際学術論文は正式に言語横断世代詩人を英文研究カテゴリ「Translingual Poets」へ編入し、成員に詹氷 Zhan Bing、陳千武 Chen Qianwu、林亨泰 Lin Hengtai、錦連 Jin Lian、杜潘芳格 Tu Pan Fang-koなどを挙げる。
 

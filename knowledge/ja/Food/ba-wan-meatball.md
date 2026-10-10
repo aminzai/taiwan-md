@@ -83,7 +83,7 @@ lastHumanReview: false
 
 [^4]: [三立新聞【呂読台湾】](https://www.youtube.com/watch?v=uTLGJKqZ7pk) — 彰化・北斗肉圓の身の上を明かす！「戊戌大水害」で田畑が壊滅し、肉圓が飢えを救った。
 
-[^5]: [維基百科](<https://zh.wikipedia.org/zh-tw/%E8%82%89%E5%9C%93_(%E5%8F%B0%E7%81%A3)>) — 肉圓（台湾）の歴史と分類。
+[^5]: [維基百科](https://zh.wikipedia.org/zh-tw/%E8%82%89%E5%9C%93_(%E5%8F%B0%E7%81%A3) — 肉圓（台湾）の歴史と分類。
 
 [^6]: [FoodNext 食力](https://www.foodnext.net/life/culture/paper/5098655128) — カリカリ派かしっとり派か？北斗発祥の肉圓はなぜ三角形になったか。
 

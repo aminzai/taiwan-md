@@ -81,11 +81,11 @@ Tcは93K（1987年）から151K（2026年）へと進展し、この39年間の�
 
 1987年の突破と2026年のPNAS論文の間には39年の歳月がある。この 39 年間に、超伝導研究の浮沈は何度も繰り返され、かつてこの分野に参入した物理学者の多くは他のテーマへと移っていった；朱経武は移らなかった。一つの問題へのこの長期的な取り組みは、彼が物理学者の中で最も際立った特質の一つである。
 
-**関連記事：** [朱経武 — ウィキペディア](https://zh.wikipedia.org/wiki/朱経武) ｜ [ETHW：高温超伝導のマイルストーン](https://ethw.org/Milestones:High-Temperature_Superconductivity,_1987)
+**関連記事：** [朱経武 — ウィキペディア](https://zh.wikipedia.org/wiki/朱經武) ｜ [ETHW：高温超伝導のマイルストーン](https://ethw.org/Milestones:High-Temperature_Superconductivity,_1987)
 
 ## 参考文献
 
-[^1]: [ウィキペディア：朱経武](https://zh.wikipedia.org/wiki/朱経武) — 1941年生まれ、成功大学物理学部、カリフォルニア大学サンディエゴ校博士、ヒューストン大学教授、中央研究院院士（1994年）を確認。
+[^1]: [ウィキペディア：朱経武](https://zh.wikipedia.org/wiki/朱經武) — 1941年生まれ、成功大学物理学部、カリフォルニア大学サンディエゴ校博士、ヒューストン大学教授、中央研究院院士（1994年）を確認。
 
 [^2]: [ETHW：高温超伝導のマイルストーン（1987年）](https://ethw.org/Milestones:High-Temperature_Superconductivity,_1987) — 1987年1月のYBCO Tc=93K突破、朱経武（ヒューストン大学）と呉茂昆（アラバマ大学）の共同発見、『Physical Review Letters』掲載を確認。
 

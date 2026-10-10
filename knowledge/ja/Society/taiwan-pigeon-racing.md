@@ -33,7 +33,7 @@ translatedAt: '2026-09-18T00:52:59+08:00'
 
 ![返家鳩。写真作者 Andreas Trepte，CC BY-SA 2.5。](https://commons.wikimedia.org/wiki/Special:FilePath/Homing_pigeon.jpg)
 
-_写真：Andreas Trepte，Wikimedia Commons，CC BY-SA 2.5。ライセンスとオリジナルファイルページ。この画像は自由ライセンスのホットリンクであり、台湾サギ鳩の現場写真ではありません。_
+_写真：Andreas Trepte，Wikimedia Commons，CC BY-SA 2.5。ライセンスとオリジナルファイルページ。この画像は自由ライセンスのホットリンクであり、台湾サギ鳩の現場写真ではありません。 [授權與原始檔案頁](https://commons.wikimedia.org/wiki/File:Homing_pigeon.jpg)_
 
 2024年11月17日午前、基隆湾外から約9万羽の鳩が飛び立ち、最終的に7,712羽が指定時間内に資格レースを終え、帰還率は8.6%だった。[^1] これは映画のような壮観な鳥の群れではなく、「帰る」を「合格」と「不合格」に切り分ける制度の朝である。
 
@@ -51,7 +51,7 @@ _写真：Andreas Trepte，Wikimedia Commons，CC BY-SA 2.5。ライセンスと
 
 ![飛行中の鳩。写真提供 Wikimedia Commons ユーザー CC BY-SA 4.0。](https://commons.wikimedia.org/wiki/Special:FilePath/Picture_of_a_pigeon_flying.jpg)
 
-_写真：Wikimedia Commons，CC BY-SA 4.0。オリジナルファイルとライセンスページ。この画像は飛行状況を示すものであり、台湾海上放飼レースの現場記録ではありません。_
+_写真：Wikimedia Commons，CC BY-SA 4.0。オリジナルファイルとライセンスページ。この画像は飛行状況を示すものであり、台湾海上放飼レースの現場記録ではありません。 [原始檔案與授權頁](https://commons.wikimedia.org/wiki/File:Picture_of_a_pigeon_flying.jpg)_
 
 **キュレーターノート #1：足輪は装飾ではない**
 _サギ鳩競技で最も重要なのはトロフィーではなく、足輪である。それは一羽の鳩の「帰る」本能を、人間が受け入れ可能な秒数に翻訳する。_
@@ -60,7 +60,7 @@ _サギ鳩競技で最も重要なのはトロフィーではなく、足輪で�
 
 ![サギ鳩の親鳩と幼鳩。写真作者 Hery blur，CC BY-SA 4.0。](https://commons.wikimedia.org/wiki/Special:FilePath/Racing_Pigeon.jpg)
 
-_写真：Hery blur，Wikimedia Commons，CC BY-SA 4.0。ライセンスとオリジナルファイルページ。この画像はサギ鳩産業における繁殖と選手育成の生命段階を対比するために使用されている。_
+_写真：Hery blur，Wikimedia Commons，CC BY-SA 4.0。ライセンスとオリジナルファイルページ。この画像はサギ鳩産業における繁殖と選手育成の生命段階を対比するために使用されている。 [授權與原始檔案頁](https://commons.wikimedia.org/wiki/File:Racing_Pigeon.jpg)_
 
 台湾ルールの特徴は、選手が4〜8ヶ月の幼鳩であること、そして一羽の鳩は通常一シーズンだけレースに参加することである。正式レースの前に資格レースがあり、その後に複数の海上放飼が続く。時間内帰還で合格、それ以外は失格となり、その後鳩が帰って来ても構わない。[^3]
 
@@ -85,7 +85,7 @@ _「誰もがチャンスがある」は「誰もが同じ条件」ではない�
 
 ![Batman Park 鳩舎。写真作者 Nick carson，Public domain。](https://commons.wikimedia.org/wiki/Special:FilePath/Batman_Park_Pigeon_Loft.JPG)
 
-_写真：Nick carson，Wikimedia Commons，Public domain。オリジナルファイルとライセンスページ。この画像は鳩舎空間を示すものであり、台湾の私設鳩舎の配置を表すものではありません。_
+_写真：Nick carson，Wikimedia Commons，Public domain。オリジナルファイルとライセンスページ。この画像は鳩舎空間を示すものであり、台湾の私設鳩舎の配置を表すものではありません。 [原始檔案與授權頁](https://commons.wikimedia.org/wiki/File:Batman_Park_Pigeon_Loft.JPG)_
 
 サギ鳩競技は放飼の数分間だけではない。報道対象の鳩好きは、レース前4〜8ヶ月間種選、ペアリング、足輪付け、鍛錬、飼料調整を行わなければならない。鳩舎は毎日清掃を行い、鳩の状態を観察し、外鍛錬距離を徐々に延ばさなければならない。[^2]
 

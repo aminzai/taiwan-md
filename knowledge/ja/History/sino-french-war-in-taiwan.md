@@ -155,7 +155,7 @@ translatedAt: '2026-05-02T09:15:00+08:00'
 
 [^15]: [故事 StoryStudio：日記と書簡から歴史人物の心を掘り出す](https://storystudio.tw/article/watch-Taiwan-NMTH/from-bottom-of-their-heart) — 英国茶商ジョン・ドッド（John Dodd）の1884年12月1日の日記。台史博「西仔反印象記」特別展で引用。
 
-[^16]: [Pescadores campaign (1885), Wikipedia](<https://en.wikipedia.org/wiki/Pescadores_campaign_(1885)>) — 1885年3月、フランス軍が澎湖を攻略。上陸後にコレラが爆発、3週間で15死20入院。
+[^16]: [Pescadores campaign (1885), Wikipedia](https://en.wikipedia.org/wiki/Pescadores_campaign_(1885) — 1885年3月、フランス軍が澎湖を攻略。上陸後にコレラが爆発、3週間で15死20入院。
 
 [^17]: [Amédée Courbet, Wikipedia](https://en.wikipedia.org/wiki/Am%C3%A9d%C3%A9e_Courbet) — クールベは1885年6月11日に旗艦バヤール号上でコレラのため死去。4月にはすでに重い赤痢、6月8日に部下の葬儀を行ったあと急速に悪化。
 
@@ -169,7 +169,7 @@ translatedAt: '2026-05-02T09:15:00+08:00'
 
 [^22]: [劉銘傳, Wikipedia](https://zh.wikipedia.org/wiki/%E5%8A%89%E9%8A%98%E5%82%B3) — 1885年に台湾は福建省から分離し、大清帝国の20番目の省に。劉銘傳が初代台湾巡撫、任期は1885-1891。
 
-[^23]: [台湾鉄道（清朝）, Wikipedia](<https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E9%90%B5%E8%B7%AF_(%E6%B8%85%E6%9C%9D)>) — 基隆-新竹間の鉄道は全長約107キロメートル、1887年着工、1893年全線開通。[天下雜誌：劉銘傳の近代化の大いなる夢](https://www.cw.com.tw/article/5026963)も参照。
+[^23]: [台湾鉄道（清朝）, Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E9%90%B5%E8%B7%AF_(%E6%B8%85%E6%9C%9D) — 基隆-新竹間の鉄道は全長約107キロメートル、1887年着工、1893年全線開通。[天下雜誌：劉銘傳の近代化の大いなる夢](https://www.cw.com.tw/article/5026963)も参照。
 
 [^24]: [Taipei Times: Exhuming French History in Taiwan (2001)](https://www.taipeitimes.com/News/feat/archives/2001/11/15/111666) — 基隆フランス軍墓地は約600名。120名戦死、150名重傷死、その他は病死。研究者Christophe Rouilが記念碑上の700名を約600名に修正。[Atlas Obscura](https://www.atlasobscura.com/places/sino-french-war-memorial-park)も参照。
 

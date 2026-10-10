@@ -66,18 +66,18 @@ translatedAt: '2026-06-12T00:53:40+08:00'
 
 ## 參考資料
 
-[^1]: [人心人術](https://www.thinkingtaiwan.net/content/6413) — 本文に関連する背景、データ、イベントの文脈を提供し、記述と検証の根拠とします。
+[^1]: [人心人術](https://www.thinkingtaiwan.net/content/6413](https://www.thinkingtaiwan.net/content/6413) — 本文に関連する背景、データ、イベントの文脈を提供し、記述と検証の根拠とします。
 
-[^2]: [維基百科. (n.d.). 莊朱玉女](https://zh.wikipedia.org/zh-hant/%E8%8E%8A%E6%9C%B1%E7%8E%89%E5%A5%B3) — 本文に関連する背景、データ、イベントの文脈を提供し、記述と検証の根拠とします。
+[^2]: [維基百科. (n.d.). 莊朱玉女](https://zh.wikipedia.org/zh-hant/%E8%8E%8A%E6%9C%B1%E7%8E%89%E5%A5%B3](https://zh.wikipedia.org/zh-hant/%E8%8E%8A%E6%9C%B1%E7%8E%89%E5%A5%B3) — 本文に関連する背景、データ、イベントの文脈を提供し、記述と検証の根拠とします。
 
-[^3]: [黃良傑. (2015, May 3). 圓10元善心嬤遺願 兒設慈善會 近200人繳費參加. 自由時報電子報](https://news.ltn.com.tw/news/life/breakingnews/1305726) — 本文に関連する背景、データ、イベントの文脈を提供し、記述と検証の根拠とします。
+[^3]: [黃良傑. (2015, May 3). 圓10元善心嬤遺願 兒設慈善會 近200人繳費參加. 自由時報電子報](https://news.ltn.com.tw/news/life/breakingnews/1305726](https://news.ltn.com.tw/news/life/breakingnews/1305726) — 本文に関連する背景、データ、イベントの文脈を提供し、記述と検証の根拠とします。
 
-[^4]: [風傳媒. (2017, July 26). 為何一個賣便當的平凡阿嬤，告別式竟來了3000人？她的故事值得全台灣的人紀念](https://www.storm.mg/lifestyle/304928) — 本文に関連する背景、データ、イベントの文脈を提供し、記述と検証の根拠とします。
+[^4]: [風傳媒. (2017, July 26). 為何一個賣便當的平凡阿嬤，告別式竟來了3000人？她的故事值得全台灣的人紀念](https://www.storm.mg/lifestyle/304928](https://www.storm.mg/lifestyle/304928) — 本文に関連する背景、データ、イベントの文脈を提供し、記述と検証の根拠とします。
 
-[^5]: [中央社. (2017, March 27). 澎湖吉貝設莊朱玉女紀念園區 傳揚大愛](https://www.cna.com.tw/news/aloc/201703270146.aspx) — 本文に関連する背景、データ、イベントの文脈を提供し、記述と検証の根拠とします。
+[^5]: [中央社. (2017, March 27). 澎湖吉貝設莊朱玉女紀念園區 傳揚大愛](https://www.cna.com.tw/news/aloc/201703270146.aspx](https://www.cna.com.tw/news/aloc/201703270146.aspx) — 本文に関連する背景、データ、イベントの文脈を提供し、記述と検証の根拠とします。
 
-[^6]: [10元便當嬤](https://news.tvbs.com.tw/life/716502) — 本文に関連する背景、データ、イベントの文脈を提供し、記述と検証の根拠とします。
+[^6]: [10元便當嬤](https://news.tvbs.com.tw/life/716502](https://news.tvbs.com.tw/life/716502) — 本文に関連する背景、データ、イベントの文脈を提供し、記述と検証の根拠とします。
 
-[^7]: [YKYuen. (2012, December 31). 賣夢的老人– 鹽埕區的莊朱玉女嬤嬤. Eureka!](https://eureka.ykyuen.info/2012/12/31/%E8%B3%A3%E5%A4%A2%E7%9A%84%E8%80%81%E4%BA%BA-%E9%B9%BD%E5%9F%95%E5%8D%80%E7%9A%84%E8%8E%8A%E6%9C%B1%E7%8E%89%E5%A5%B3%E5%AB%96) — 本文に関連する背景、データ、イベントの文脈を提供し、記述と検証の根拠とします。
+[^7]: [YKYuen. (2012, December 31). 賣夢的老人– 鹽埕區的莊朱玉女嬤嬤. Eureka!](https://eureka.ykyuen.info/2012/12/31/%E8%B3%A3%E5%A4%A2%E7%9A%84%E8%80%81%E4%BA%BA-%E9%B9%BD%E5%9F%95%E5%8D%80%E7%9A%84%E8%8E%8A%E6%9C%B1%E7%8E%89%E5%AC%A4%E5%AC%A4/](https://eureka.ykyuen.info/2012/12/31/%E8%B3%A3%E5%A4%A2%E7%9A%84%E8%80%81%E4%BA%BA-%E9%B9%BD%E5%9F%95%E5%8D%80%E7%9A%84%E8%8E%8A%E6%9C%B1%E7%8E%89%E5%AC%A4%E5%AC%A4/) — 本文に関連する背景、データ、イベントの文脈を提供し、記述と検証の根拠とします。
 
-[^8]: [阿鍾哥. (2013, May 7). 人間菩薩~~賣夢的老人. 隨意窩 Xuite日誌](https://blog.udn.com/as12369/6473023) — 本文に関連する背景、データ、イベントの文脈を提供し、記述と検証の根拠とします。
+[^8]: [阿鍾哥. (2013, May 7). 人間菩薩~~賣夢的老人. 隨意窩 Xuite日誌](https://blog.udn.com/as12369/6473023](https://blog.udn.com/as12369/6473023) — 本文に関連する背景、データ、イベントの文脈を提供し、記述と検証の根拠とします。

@@ -160,7 +160,7 @@ IGSの三人の創業者自身が牌友だった。彼らはマージャンゲ�
 
 [^1]: [Klook：友達と牌を打って勝ちたい？初心者必見の16張マージャンルール](https://www.klook.com/zh-TW/blog/taiwan-mahjong-rules/) — 台湾十六張マージャンの基本ルールと文化的背景
 
-[^2]: [ウィキペディア：マージャン](https://zh.wikipedia.org/zh-hant/%E9%BA%BB%E5%B0%87) — 各地域のマージャンルールの差異比較
+[^2]: [ウィキペディア：マージャン](https://zh.wikipedia.org/zh-hant/%E9%BA%BB%E5%B0%86) — 各地域のマージャンルールの差異比較
 
 [^3]: [Pinkoi：台湾マージャンのルールとは？初心者がツモりから点数計算まで学べる記事](https://blog.pinkoi.com/tw/hot-topics/discovery/2211-mahjong/) — 144枚の牌構成、花牌、八仙過海
 

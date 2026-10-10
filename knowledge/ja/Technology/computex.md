@@ -76,7 +76,7 @@ AMDのリサ・スーは今年基調講演を行わず、2年連続でこの舞�
 ## スタン・シーが名を変えたあの年
 
 ![スタン・シーが2014年台北資訊月イベントで複数メディアの合同取材を受ける様子。濃紺のスーツ姿で、前にマイクとカメラが並び、背景は資訊月の展示会場](/article-images/technology/stan-shih-taipei-it-month-2014.webp)
-_Acer創業者スタン・シー。1984年、「台北市電腦展」を「COMPUTEX TAIPEI」と改名し、この展示会に世界に向けた看板を掲げた。写真は2014年台北資訊月での取材風景。Photo: Tony Tseng, 2014-12-05. License via Wikimedia Commons._
+_Acer創業者スタン・シー。1984年、「台北市電腦展」を「COMPUTEX TAIPEI」と改名し、この展示会に世界に向けた看板を掲げた。写真は2014年台北資訊月での取材風景。Photo: Tony Tseng, 2014-12-05. License via Wikimedia Commons. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Stan_Shih_at_Taipei_IT_Month_20141205a.jpg)_
 
 1984年は転換点となった。Wikipediaと複数の報道によると、当時の台北市電腦商業同業公会理事長スタン・シー（後のAcer創業者）が決断し、この展示会の英文名を「COMPUTEX TAIPEI」と正式に改めた[^4][^5]。一人のローカルエンジニアによる命名が、本来台湾メーカー向けだった展示会に、世界に向けた看板を掲げたのだ。
 
@@ -94,7 +94,7 @@ _Acer創業者スタン・シー。1984年、「台北市電腦展」を「COMPU
 最初に倒れたのは米国のCOMDEX。1979年ラスベガスでスタート、1996年に頂点：22.5万人来場、2,337社出展[^30]。しかしドットコムバブル崩壊、9.11以降、IBM、Apple、Compaqなど大手が相次いで招待制プライベート発表会に切り替え、本来この展示会でディストリビューターと接触していた需要側が根底から崩れた。2003年開催は出展500社、来場4万人、ピークから8割減[^30][^31]。翌年6月、主催のMediaLiveが「延期」を発表、それ以降二度と開催されなかった[^32]。
 
 ![ドイツ・ハノーファーCeBIT 2005年の展示会場。広い通路の両側に各社ブースが並び、高い天井に看板が林立、世界最大コンピュータ展だった当時の規模を示す](/article-images/technology/cebit-hannover-2005.webp)
-_ドイツ・ハノーファーCeBIT 2005年の会場。ドットコムバブル全盛期、一時は85万人来場を記録し、紛れもない世界第1位だった。2018年、歴史に幕を閉じた。Photo: Florian K, 2005-03-16. License via Wikimedia Commons._
+_ドイツ・ハノーファーCeBIT 2005年の会場。ドットコムバブル全盛期、一時は85万人来場を記録し、紛れもない世界第1位だった。2018年、歴史に幕を閉じた。Photo: Florian K, 2005-03-16. License via Wikimedia Commons. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cebit_Hannover_2004.JPG)_
 
 CeBITの死はより緩やかだったが、結末は同じ。1986年、ハノーファー工業見本市（Hannover Messe）から分離独立し、かつては世界第1位[^33]。32年後の2018年11月28日、主催のDeutsche Messeが発表：「due to declining visitor and exhibitioner attendance, CeBIT would be canceled for the foreseeable future」（来場者と出展者の継続的減少により、CeBITを当面の間中止する）[^7][^34]。
 
@@ -140,7 +140,7 @@ COMPUTEXが生き残ったのは、供給側にあったからだ。この都市
 ## 誰も撮らないあの6000ブース
 
 ![南港展覧館一館外観。ガラスカーテンウォールの建物にCOMPUTEX TAIPEIの大型看板、入り口には識別証を下げた来場者の列。ここが近年の台北国際コンピュータ展メイン会場](/article-images/technology/computex-nangang-exterior-2016.webp)
-_南港展覧館一館、2016年COMPUTEX期間中の外観。COMPUTEXは2008年から南港をメイン会場に組み入れ、2026年の「二会場制」は南港と世貿一館への回帰。Photo: NVIDIA Taiwan, 2016-05-31. License via Wikimedia Commons._
+_南港展覧館一館、2016年COMPUTEX期間中の外観。COMPUTEXは2008年から南港をメイン会場に組み入れ、2026年の「二会場制」は南港と世貿一館への回帰。Photo: NVIDIA Taiwan, 2016-05-31. License via Wikimedia Commons. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Computex_Taipei_at_Taipei_Nangang_Exhibition_Center_20160531.jpg)_
 
 毎回COMPUTEXのカメラはメインステージを向く。だが実際の展示場へ足を踏み入れれば、6000ブースの大半は、あなたが名を挙げられないメーカーだ。
 
@@ -183,7 +183,7 @@ PC Gamerの観察は別の方向を向いていた：「COMPUTEX 2026 has really
 メインステージが熱を帯びれば帯びるほど、エネルギーの勘定は重くなる。
 
 ![新竹科学園区のTSMC工場外観。ベージュの大型クリーンルーム建物群、世界の先端チップ主要生産拠点](/article-images/technology/tsmc-fab-hsinchu-2009.webp)
-_新竹科学園区のTSMC工場。COMPUTEXメインステージのこのチェーンを支え、真に電力を食うのは下流のデータセンターではなく、上流でチップを刻むTSMCのファブだ。Photo: Arusanov, 2009, Public Domain. License via Wikimedia Commons._
+_新竹科学園区のTSMC工場。COMPUTEXメインステージのこのチェーンを支え、真に電力を食うのは下流のデータセンターではなく、上流でチップを刻むTSMCのファブだ。Photo: Arusanov, 2009, Public Domain. License via Wikimedia Commons. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG)_
 
 『報導者』2026年4月20日のエネルギー特集が、直感に反する対比を示した：2025年データセンター消費電力「2025年全国消費電力2,828億kWhと比較しても、シェアは約0.5%に過ぎない」。同年「半導体製造業」消費電力は423.8億kWh、全国消費電力の約15%を占める[^21]。
 

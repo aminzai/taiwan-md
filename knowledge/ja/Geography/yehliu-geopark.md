@@ -80,7 +80,7 @@ translatedAt: '2026-05-16T22:35:34Z'
 
 [^4]: [野柳風景特定区](https://zh.wikipedia.org/zh-hant/%E9%87%8E%E6%9F%B3%E1%A2%A8%E6%99%AF%E7%89%B9%E5%AE%9A%E5%8D%80) — ウィキペディア
 
-[^5]: [野柳の女王頭、首折れの危機に抗う](https://www.taiwan-panorama.com/Articles/Details?Guid=4b275ff0-c4ff-4dc3-bb58-93c0e8ba0d18&CatId=7) — 台湾光華雑誌
+[^5]: [野柳の女王頭、首折れの危機に抗う](https://www.taiwan-panorama.com/Articles/Details?Guid=4b275ff0-c4ff-4dc3-bb58-93c0e8ba0d18&CatId=7&postname=%E9%87%8E%E6%9F%B3%E5%A5%B3%E7%8E%8B%E9%A0%AD-%E5%8A%9B%E6%8A%97%E6%96%B7%E9%A0%B8%E5%8D%B1%E6%A9%9F) — 台湾光華雑誌
 
 [^6]: [自然の鬼斧神工——女王頭の首折れ危機](https://www.peopo.org/news/634394) — PeoPo市民ニュース
 

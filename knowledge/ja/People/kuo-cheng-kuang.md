@@ -101,7 +101,7 @@ NASA での郭正光の仕事は宇宙飛行士の生死に直結します。彼
 - [郭正光：黒く光り、熱血は老いへ（今周刊，2018）](https://www.businesstoday.com.tw/article/category/80407/post/201809120013/) — NASA における専門とブラックリストの歴史を詳述。
 - [椰林大道からヒューストン宇宙センターへ（Taiwanese American History）](https://taiwaneseamericanhistory.org/blog/mystories319-eng/) — 郭正光自身が執筆した自伝的記事。
 - [NASA 科学者郭正光が国民党に黒く貼り付けられ「テロリスト」！（太報，2024）](https://www.taisounds.com/news/content/71/241900) — ブラックリストと米国国務省調査の内幕。
-- [また転覆！小草が青鳥を酸いて NASA 科学者を釣り上げた（Yahoo 新聞，2024）](https://tw.news.yahoo.com/%E5%8F%B0%E7%81%A3%E4%BA%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E5%9C%8B%E5%8F%8Anasa%E7%A7%91%E5%AD%B8%E5%AE%B6-101302499.html) — ソーシャルメディアでの爆発的な話題に関する報道。
+- [また転覆！小草が青鳥を酸いて NASA 科学者を釣り上げた（Yahoo 新聞，2024）](https://tw.news.yahoo.com/%E5%8F%B0%E7%81%A3%E4%BA%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E5%B0%B1%E6%98%AFnasa%E7%A7%91%E5%AD%B8%E5%AE%B6-101302499.html) — ソーシャルメディアでの爆発的な話題に関する報道。
 
 ### 參考資料 / Sources
 

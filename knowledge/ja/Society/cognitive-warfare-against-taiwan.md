@@ -277,7 +277,7 @@ AI偽医師事件に対し、衛福部は多層的な対応を計画している
 
 [^11]: [IORG 疑美論與它們的產地](https://iorg.tw/_en/a/press-release-20230921) — 台湾情報環境研究センター，84項目の論理追跡研究
 
-[^12]: [Doublethink Lab TikTok 青少年調查 2025](https://medium.com/doublethinklab-tw/%E7%B2%BE%E6%BA%96%E6%8E%A8%E6%92%AD%E8%88%87%E8%AA%8D%E7%9F%A5%E6%BB%B7%E9%80%8F-tiktok-458e3c5f7475) — 台湾民主実験室，3つの相互接続報告の摘要版
+[^12]: [Doublethink Lab TikTok 青少年調查 2025](https://medium.com/doublethinklab-tw/%E7%B2%BE%E6%BA%96%E6%8E%A8%E6%92%AD%E8%88%87%E8%AA%8D%E7%9F%A5%E6%BB%B2%E9%80%8F-tiktok-458e3c5f7475) — 台湾民主実験室，3つの相互接続報告の摘要版
 
 [^13]: [沈伯洋：輿論戰 80% 跟真假無關，是敘事攻擊](https://feja.org.tw/74059/) — 卓越新聞獎基金會，沈伯洋講演記録
 
