@@ -149,7 +149,7 @@ NFT市場は2022年後半に暴落し、2023年から2024年にかけてWeb3ア�
 
 - **[FAB DAOと百岳計画](/ja/art/fab-dao)** — 王新仁が参加した6人組の公益NFT計画。百岳計画の全体的な生態的文脈を理解する
 - **[呉哲宇](/ja/people/che-yu-wu)** — 百岳計画国際組アーティスト、FAB DAO共同設立者。Art Blocks Project Electrizからヴェネツィア双年展へ
-- **[台湾新メディアアート](/art/台湾新メディアアート)** — 黄心健、袁広鳴から王新仁へ。台湾新メディアアート40年の完全な系譜
+- **[台湾新メディアアート](/ja/art/taiwan-new-media-art)** — 黄心健、袁広鳴から王新仁へ。台湾新メディアアート40年の完全な系譜
 - **[台湾現代アート](/ja/art/contemporary-art)** — ジェネラティブアートの台湾現代アート史における位置と座標
 - **[王連晟（蝦爸）](/ja/art/wang-lien-cheng-artist)** — 百岳計画同組の音響インスタレーションアーティスト、2017年Lumen Prize 3D/Sculpture Award受賞者（作品《閲読計画》Reading Plan）
 

@@ -108,10 +108,10 @@ featured: false
 
 ## 延伸読書（関連記事）
 
-- [台湾客家音楽](/ja/music/台湾客家音楽/)
-- [台湾民謡運動](/ja/music/台湾民謡運動/)
-- [台湾インディーズ音楽](/ja/music/台湾独立音楽/)
-- [台湾ロック音楽の発展史](/ja/music/台湾搖滾楽発展史/)
+- [台湾客家音楽](/ja/music/taiwan-hakka-music-from-mountain-songs-to-rock/)
+- [台湾民謡運動](/ja/music/taiwan-campus-folk-song-movement/)
+- [台湾インディーズ音楽](/ja/music/indie-music-scene/)
+- [台湾ロック音楽の発展史](/ja/music/taiwan-rock-from-underground-to-mainstream/)
 
 ## 参考資料
 

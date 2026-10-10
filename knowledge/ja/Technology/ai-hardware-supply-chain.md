@@ -176,7 +176,7 @@ AIハードウェアサプライチェーンが台湾に与えるのは、外貨
 - [台湾の対外貿易とグローバルサプライチェーン](/ja/economy/taiwan-foreign-trade-and-global-supply-chain) — 輸出主導、三角貿易から米中サプライチェーンの再編に至るマクロな背景。
 - [台湾におけるNVIDIA](/ja/technology/nvidia-in-taiwan) — NVIDIAがいかにしてチップ製造、パッケージング、サーバーの組み立てを深く台湾に預けているか。
 - [半導体産業](/ja/technology/taiwan-semiconductor-industry) — RCAの技術移転、TSMCのファウンドリから材料とパッケージングの戦場に至る長期的な背景。
-- [Computex](/ja/technology/computex-taipei) — なぜ台北のコンピュータ見本市がAI時代において世界のハードウェア供給側の聖地となったのか。
+- [Computex](/ja/technology/computex) — なぜ台北のコンピュータ見本市がAI時代において世界のハードウェア供給側の聖地となったのか。
 - [台湾の電力と半導体](/ja/technology/taiwan-electricity-and-semiconductors) — AIサプライチェーンの背後にある電力の請求書、グリーン電力の圧力、エネルギー安全保障。
 - [半導体用水と台湾の水資源](/ja/technology/semiconductor-water-use-and-taiwan-water-resources) — ウェーハ工場が貯水池、干ばつ、再生水、地方自治とどのようにつながっているか。
 - [AIサプライチェーンの海外工場建設](/ja/technology/ai-supply-chain-overseas-manufacturing) — TSMC、鴻海、緯創から台達電まで、台湾のサプライチェーンがいかにして世界から招待されているか。

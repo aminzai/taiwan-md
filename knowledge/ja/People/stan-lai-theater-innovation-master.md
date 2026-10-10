@@ -109,4 +109,4 @@ translatedAt: '2026-05-16T05:07:55+08:00'
 ## 関連リンク
 
 - [表演工作坊](http://www.pw-theatre.com/) — 賴声川が設立した劇団の公式ウェブサイト。歴代作品およびチケット情報あり。
-- [『暗恋桃花源』](/people/賴声川) — 華語演劇の古典的作品
+- [『暗恋桃花源』](/ja/people/stan-lai-theater-innovation-master) — 華語演劇の古典的作品

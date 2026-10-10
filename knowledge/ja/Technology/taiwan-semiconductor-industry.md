@@ -272,7 +272,7 @@ Nokia 3310の充電器4.56W、2025年の急速充電器240W。52倍の差。こ�
 - [台湾株式市場と資本市場](/ja/economy/taiwan-stock-market) — 2026年世界第6位の時価総額を支えるサプライチェーン生態系が資本市場にどう映るか
 - [台湾タングステンサプライチェーン](/ja/technology/taiwan-tungsten-supply-chain) — 六フッ化タングステンがコンタクトプラグと3D NANDワード線を埋める、台湾にタングステン鉱山はないがリサイクル精製でこの原料の中流に立つ
 - [台湾人工知能学校](/ja/technology/taiwan-ai-academy) — AIA 8年間で育成した万名のAIエンジニアが如何に半導体既存ICTチェーンへ戻り、台湾のソフトウェア側を補強するか
-- [Computex：三大国際コンピュータ展が二つ消え、残った一つが台北に根付く](/ja/technology/computex-taipei) — TSMCのCoWoSと先進プロセス、毎年5月末にこの45歳の台北コンピュータ展で世界のAI巨頭と握手
+- [Computex：三大国際コンピュータ展が二つ消え、残った一つが台北に根付く](/ja/technology/computex) — TSMCのCoWoSと先進プロセス、毎年5月末にこの45歳の台北コンピュータ展で世界のAI巨頭と握手
 - [台湾科学園区](/ja/technology/science-park-development) — 竹科・南科・中科三園区、半導体集落の物理的担い手、シリコンシールドの地理的中心
 
 ## 画像出典

@@ -257,7 +257,7 @@ _仙剣奇侠伝 1（1995）オリジナルサウンドトラック『蝶恋』�
 
 ## 関連記事
 
-- [台湾ゲーム産業とデジタルエンターテインメント](/technology/台湾ゲーム産業與數位娛樂) — 代理からオリジナルへ、台湾ゲーム産業の全体像
+- [台湾ゲーム産業とデジタルエンターテインメント](/ja/technology/taiwan-gaming-industry) — 代理からオリジナルへ、台湾ゲーム産業の全体像
 - [台湾のオープンソース精神](/ja/technology/taiwan-open-source-spirit) — 「情熱で規模を超えることを成し遂げる」もうひとつの台湾の物語
 - [地下室に入らずして眠れるか](/ja/technology/into-the-cellar-taiwan-game-podcast) — 同時代の台湾ゲームコミュニティが BBS から600万人会員のプラットフォームへと成長した記録
 - [台湾プレイヤーの狂気の瞬間](/ja/technology/taiwan-gamers-wildest-moments) — 大宇ダブルソードの後、台湾プレイヤーが書き続けた集合的狂熱の歴史
