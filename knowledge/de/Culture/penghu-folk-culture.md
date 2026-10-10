@@ -136,7 +136,7 @@ Im nächsten Jahr – lass die, die aufs Meer gehen, zurückkehren.
 
 **Weiterführende Literatur**:
 
-- [Taiwan Religions and Temple Culture](/culture/台灣宗教與寺廟文化) — Die Dichte der Tempel in Taiwan und die soziale Funktion der Volksglaubens
-- [Taiwan Temple Festivals and Processions](/culture/台灣廟會與陣頭文化) — Von traditionellen Umzügen zu modernen elektronischen DJs: Wie Tempelfestivals in der modernen Gesellschaft transformiert werden
+- [Taiwan Religions and Temple Culture](/de/culture/taiwan-religion-and-temple-culture) — Die Dichte der Tempel in Taiwan und die soziale Funktion der Volksglaubens
+- [Taiwan Temple Festivals and Processions](/de/culture/taiwan-temple-festivals-and-performance-troupes) — Von traditionellen Umzügen zu modernen elektronischen DJs: Wie Tempelfestivals in der modernen Gesellschaft transformiert werden
 - [Traditional Festivals and Celebrations](/de/culture/traditional-festivals-and-celebrations) — Ein Überblick über das Lantern Festival, das Zhongyuan-Festival und die Mazu-Prozessionen in Taiwan
-- [Belief in the Nine-Sky Lady](/culture/九天玄女信仰) — Weibliche Göttinnen und lokale Schutzgeister im Volksglauben Taiwans
+- [Belief in the Nine-Sky Lady](/de/culture/jiutian-xuannu-belief) — Weibliche Göttinnen und lokale Schutzgeister im Volksglauben Taiwans

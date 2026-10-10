@@ -160,9 +160,9 @@ Zwei Bilder mit freiem Urheberrecht wurden dem Projekt hinzugefügt: Die schwarz
 
 ## Weiterführende Lektüre
 
-- [Traditionelles Handwerk und immaterielles Kulturerbe in Taiwan](/culture/台灣傳統工藝與無形文化資產) — Die Position der Lackkunst im System des traditionellen Handwerkschutzes in Taiwan.
+- [Traditionelles Handwerk und immaterielles Kulturerbe in Taiwan](/de/culture/traditional-crafts-intangible-cultural-heritage) — Die Position der Lackkunst im System des traditionellen Handwerkschutzes in Taiwan.
 - [Textilkunst von Taiwan (Flower Cloth)](/de/culture/taiwan-floral-fabric) — Ein weiteres Beispiel für die Transformation von fremden Mustern, industrieller Produktion zu lokaler Identität.
-- [Salzgewinnung in Taiwan](/history/台灣鹽業) — Eine weitere Materialgeschichte Taiwans vom Naturressource über Industrialisierung bis zur Kulturerhaltung.
+- [Salzgewinnung in Taiwan](/de/history/taiwan-salt-industry) — Eine weitere Materialgeschichte Taiwans vom Naturressource über Industrialisierung bis zur Kulturerhaltung.
 
 ## Referenzen
 

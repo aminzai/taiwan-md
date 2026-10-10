@@ -111,11 +111,11 @@ Die Menschen auf der Insel gehen noch immer weiter.
 
 **Weiterführende Literatur:**
 
-- [Inselgeschichte Taiwans](/history/台灣島史觀) — Cao Yonghe stellte 1990 das Modell vor: Geschichte aus der Perspektive der Insel, nicht aus dem Blickwinkel eines Reiches
-- [Vor- und Frühgeschichte und Ureinwohner](/history/史前時代與原住民) — Taiwan vor der „Entdeckung“: Dabenkeng-Kultur und die Herkunft der Austronesisch-Sprachen
-- [Niederländisch-Französische Periode](/history/荷西明鄭時期) — Die ersten europäischen Kolonialherren in Taiwan: 38 Jahre, beginnend mit Georg Candidius’ Ethnografie
-- [James Davidson](/people/史溫侯) — Typischer Beobachter des 19. Jahrhunderts: Wissenschaftliche Methode trifft auf Diplomatie
-- [Nationalmuseum für Taiwans Geschichte](/society/國立臺灣歷史博物館) — NMTH veröffentlichte 2014 die chinesische Übersetzung von Davidsons 1903er Original _The Island of Formosa, Past and Present_ (übersetzt von Chen Zheng-san). Ein institutionelles Beispiel für den Wandel von der Beobachtung zum Selbstausdruck
+- [Inselgeschichte Taiwans](/de/history/taiwan-island-historiography) — Cao Yonghe stellte 1990 das Modell vor: Geschichte aus der Perspektive der Insel, nicht aus dem Blickwinkel eines Reiches
+- [Vor- und Frühgeschichte und Ureinwohner](/de/history/prehistoric-era-and-indigenous-peoples) — Taiwan vor der „Entdeckung“: Dabenkeng-Kultur und die Herkunft der Austronesisch-Sprachen
+- [Niederländisch-Französische Periode](/de/history/dutch-spanish-and-koxinga-era) — Die ersten europäischen Kolonialherren in Taiwan: 38 Jahre, beginnend mit Georg Candidius’ Ethnografie
+- [James Davidson](/de/people/robert-swinhoe-naturalist) — Typischer Beobachter des 19. Jahrhunderts: Wissenschaftliche Methode trifft auf Diplomatie
+- [Nationalmuseum für Taiwans Geschichte](/de/society/national-museum-of-taiwan-history) — NMTH veröffentlichte 2014 die chinesische Übersetzung von Davidsons 1903er Original _The Island of Formosa, Past and Present_ (übersetzt von Chen Zheng-san). Ein institutionelles Beispiel für den Wandel von der Beobachtung zum Selbstausdruck
 
 ## Quellen
 

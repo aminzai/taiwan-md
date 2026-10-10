@@ -165,11 +165,11 @@ Die verbleibende Frage ist nicht, „wo er das nächste Mal die rote Linie über
 
 **Weiterführende Literatur:**
 
-- [Chen Li-wen](/people/鄭麗文) — Das Ziel, für das Chi Lin-lien 2025 bei den KMT-Vorsitzungswahlen zurücktrat und unterstützte; Chi Lin-liens direkter Vorgesetzter im Jahr 2026; um den politischen Kontext der Ernennung von Chi Lin-lien als Vorsitzenden zu verstehen, muss man zunächst die Biografie von Chen Li-wen lesen
-- [Han Kuo-yu](/people/韓國瑜) — Der Vorsitzende des Nationalversammlungs, der am 29. April 2026 von Chi Lin-lien mit „Parteiverrat“ konfrontiert wurde und der Parteiausschluss gefordert wurde; das eigentliche Ziel von Chi Lin-liens Äußerungen ist diese Person
-- [Taiwan: Verteidigung und militärische Modernisierung](/society/台灣國防與軍事現代化) — Der Hintergrund des 1,25-Billionen-Rüstungshaushalts und der Streit um „380 Milliarden plus N vs. 800 Milliarden“; um den Auslöser von Chi Lin-liens Rede in der Parteivorstandssitzung am 29. April zu verstehen, braucht man diesen größeren Rahmen der Verteidigungspolitik
-- [Zhuo Rongtai](/people/卓榮泰) — Der Staatssekretär, der den 1,25-Billionen-Haushaltsplan in der Rüstungshaushaltsdebatte vorgelegt hat; die beiden „Koordinatoren“ der blauen und grünen Fraktionen stehen gegenüber
-- [Taiwan: Politische Landschaft und Wahlsystem](/society/台灣政治環境與選舉制度) — Warum kann ein 78-jähriger pensionierter Generäle 2026 in der KMT Parteivorstandssitzung den Parteiausschluss des Vorsitzenden des Nationalversammlungs fordern? Der Einstieg in die institutionellen Hintergründe wie die Huang Xing Parteieinheit, die Ernennung zum Vorsitzenden und die Fraktionsdynamik
+- [Chen Li-wen](/de/people/cheng-li-wun) — Das Ziel, für das Chi Lin-lien 2025 bei den KMT-Vorsitzungswahlen zurücktrat und unterstützte; Chi Lin-liens direkter Vorgesetzter im Jahr 2026; um den politischen Kontext der Ernennung von Chi Lin-lien als Vorsitzenden zu verstehen, muss man zunächst die Biografie von Chen Li-wen lesen
+- [Han Kuo-yu](/de/people/han-kuo-yu) — Der Vorsitzende des Nationalversammlungs, der am 29. April 2026 von Chi Lin-lien mit „Parteiverrat“ konfrontiert wurde und der Parteiausschluss gefordert wurde; das eigentliche Ziel von Chi Lin-liens Äußerungen ist diese Person
+- [Taiwan: Verteidigung und militärische Modernisierung](/de/society/taiwan-defense-modernization) — Der Hintergrund des 1,25-Billionen-Rüstungshaushalts und der Streit um „380 Milliarden plus N vs. 800 Milliarden“; um den Auslöser von Chi Lin-liens Rede in der Parteivorstandssitzung am 29. April zu verstehen, braucht man diesen größeren Rahmen der Verteidigungspolitik
+- [Zhuo Rongtai](/de/people/cho-jung-tai) — Der Staatssekretär, der den 1,25-Billionen-Haushaltsplan in der Rüstungshaushaltsdebatte vorgelegt hat; die beiden „Koordinatoren“ der blauen und grünen Fraktionen stehen gegenüber
+- [Taiwan: Politische Landschaft und Wahlsystem](/de/society/taiwan-political-landscape-and-electoral-system) — Warum kann ein 78-jähriger pensionierter Generäle 2026 in der KMT Parteivorstandssitzung den Parteiausschluss des Vorsitzenden des Nationalversammlungs fordern? Der Einstieg in die institutionellen Hintergründe wie die Huang Xing Parteieinheit, die Ernennung zum Vorsitzenden und die Fraktionsdynamik
 
 ## Referenzen
 

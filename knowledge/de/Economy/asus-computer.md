@@ -177,8 +177,8 @@ Die Geschichte von ASUS lehrt uns: In einer globalisierten Welt kann ein kleines
 
 **Weiterführende Lektüre**:
 
-- [Taiwanesisches Unternehmen: Acer](/economy/台灣企業：宏碁) — Ein Kontrastbeispiel, das einen anderen Weg einschlug. Acer trennte 2000 die Auftragsfertigung (Wistron), während ASUS erst 2008 ASUSTeam abspaltete; die Ergebnisse dieser beiden Wege sind eine klassische Debatte in der taiwanesischen Elektronikindustrie.
-- [Taiwanesisches Unternehmen: Wistron](/economy/台灣企業：緯創資通) — Der Auftragsfertigungszweig, der von Acer abgespalten wurde, und ASUSTeam zeigen beide, wie man aus dem „abgehängten Mittelfeld“ aufsteigen kann.
+- [Taiwanesisches Unternehmen: Acer](/de/economy/acer-pc-industry-pioneer) — Ein Kontrastbeispiel, das einen anderen Weg einschlug. Acer trennte 2000 die Auftragsfertigung (Wistron), während ASUS erst 2008 ASUSTeam abspaltete; die Ergebnisse dieser beiden Wege sind eine klassische Debatte in der taiwanesischen Elektronikindustrie.
+- [Taiwanesisches Unternehmen: Wistron](/de/economy/wistron-global-manufacturing-transformation-pioneer) — Der Auftragsfertigungszweig, der von Acer abgespalten wurde, und ASUSTeam zeigen beide, wie man aus dem „abgehängten Mittelfeld“ aufsteigen kann.
 
 ## Referenzen
 

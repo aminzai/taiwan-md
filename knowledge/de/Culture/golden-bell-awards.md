@@ -178,7 +178,7 @@ In jener Nacht 1965 in der Zhongshan Hall überreichte Yen Chia-kan acht Golden 
 
 **Weiterführende Lektüre**:
 
-- [PTS](/society/公視) — Wie die 1998 gegründete öffentlich-rechtliche Rundfunkgruppe von _Once_ bis zu sechzig Nominierungen bei der 61. Verleihung kam, der Name, der auf dieser Liste am häufigsten erscheint
+- [PTS](/de/society/pts-public-television-service) — Wie die 1998 gegründete öffentlich-rechtliche Rundfunkgruppe von _Once_ bis zu sechzig Nominierungen bei der 61. Verleihung kam, der Name, der auf dieser Liste am häufigsten erscheint
 - [Zhi Ju Chang (植劇場)](/de/art/qseries-drama-platform) — Das Projekt, das 2017 und 2018 zwei Verleihungen in Folge den Dramapreis gewann und erstmals den Namen „Hao Feng Guang“ in der Preisträger-Spalte erscheinen ließ
 - [Geschichte der taiwanesischen Fernsehindustrie](/de/technology/taiwan-television-industry-history) — Wie die Industriestruktur, in der die alten drei Sender siebzehn Jahre lang das Monopol hielten, entstand und wie sie von Kabelfernsehen und Plattformen aufgebrochen wurde
 - [Die 20-Uhr-Sendung](/de/culture/taiwan-prime-time-drama) — Was die Taiwaner in der Ära von _Star Knows My Heart_ und _Justice Bao_ um acht Uhr abends sahen

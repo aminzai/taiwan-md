@@ -452,7 +452,7 @@ Komplexe Probleme haben keine einfachen Antworten. Aber die Fragen sind gestellt
 - [Taiwan-Eichhörnchen](/de/nature/taiwan-pangolin) — Etwa die Hälfte der im Tierrett aufgenommenen Eichhörnchen wurden durch Bisse von streunenden Hunden am Schwanz verletzt
 - [Taiwan-Vogelfenster-Tötung](/de/nature/bird-window-collision-taiwan) — Eine weitere unsichtbare Kosten der menschlichen Umwelt für die Wildtiere
 - [Ethik in Zoos und Tierparks](/de/society/zoo-and-exhibition-animal-ethics) — Die andere Seite des Tierschutzes, wenn der Mensch entscheiden muss, was ein Tier wert ist
-- [Taiwan-Tierschmerz-Mittel-Kontroverse](/society/台灣動物用藥爭議) — Als die Nullstich-Politik bereits ein Jahrzehnt alt ist, ist die nächste Frage, die diese Insel beantworten muss: Wie geht es mit kranken Tieren um?
+- [Taiwan-Tierschmerz-Mittel-Kontroverse](/de/society/taiwan-animal-drug-controversy) — Als die Nullstich-Politik bereits ein Jahrzehnt alt ist, ist die nächste Frage, die diese Insel beantworten muss: Wie geht es mit kranken Tieren um?
 
 ---
 

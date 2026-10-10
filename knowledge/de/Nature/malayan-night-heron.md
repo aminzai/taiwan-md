@@ -123,10 +123,10 @@ Robert Swinhoe schrieb vor 160 Jahren in Danshui: „selten“. Heute hören wir
 
 - [Taiwan Vogel Glassturz-Thema](/de/nature/bird-window-collision-taiwan) — Die Straßenverkehrsunfälle des Schwarzhaubenvogels sind nur ein Aspekt der Risiken für städtische Vögel; die Glasfassaden großer Gebäude führen jedes Jahr zu weiteren, unsichtbaren Vogeltodesfällen.
 - [Taiwan Ornithology](/de/nature/the-ornithology-of-formosa) — Robert Swinhoe notierte 1865 in Danshui: „Schwarzhaubenvogel selten“, ein Meilenstein der Vogelkunde auf dieser Insel.
-- [Taiwan Waldökologie](/nature/台灣森林生態系) — Der natürliche Lebensraum des Schwarzhaubenvogels in niedrigen Küstenwäldern, als Gegenstück zur städtischen Umgebung.
-- [Taiwan Makreke (Macaca cyclopis)](/nature/台灣獼猴) — Ein weiteres Beispiel für Wildtiere, die in den menschlichen Lebensraum einziehen; im Gegensatz zum Schwarzhaubenvogel, ist der Mensch stets auf der Straße mit ihm unterwegs.
+- [Taiwan Waldökologie](/de/nature/taiwan-forest-ecosystems) — Der natürliche Lebensraum des Schwarzhaubenvogels in niedrigen Küstenwäldern, als Gegenstück zur städtischen Umgebung.
+- [Taiwan Makreke (Macaca cyclopis)](/de/nature/formosan-rock-macaque) — Ein weiteres Beispiel für Wildtiere, die in den menschlichen Lebensraum einziehen; im Gegensatz zum Schwarzhaubenvogel, ist der Mensch stets auf der Straße mit ihm unterwegs.
 - [Endemische Arten](/de/nature/endemic-species) — Der Schwarzhaubenvogel ist nicht endemisch in Taiwan, aber die Größe seiner städtischen Population ist weltweit einzigartig.
-- [Taiwan Straßenbäume](/lifestyle/台灣行道樹) — Die Bambus- und Bäume, die in den 1990er Jahren angepflanzt wurden und als geschnittene Streifen auf Beton gelegt wurden, sind ein weiterer Aspekt des städtischen Lebensraums des Schwarzhaubenvogels.
+- [Taiwan Straßenbäume](/de/lifestyle/taiwan-street-trees) — Die Bambus- und Bäume, die in den 1990er Jahren angepflanzt wurden und als geschnittene Streifen auf Beton gelegt wurden, sind ein weiterer Aspekt des städtischen Lebensraums des Schwarzhaubenvogels.
 
 ## Bildnachweise
 

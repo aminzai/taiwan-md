@@ -140,8 +140,8 @@ Open Source in Taiwan ist nie nur ein Thema für technische Communities gewesen.
 
 ## Weiterführende Lektüre
 
-- [Open Source Community und g0v](/technology/開源社群與g0v) — Die kollektive Erzählung der Regierung „forken“
-- [Geschichte der taiwanesischen Netzgemeinschaften](/technology/台灣網路社群遷徙史) — Von BBS zu Discord: Eine Generationengeschichte
+- [Open Source Community und g0v](/de/technology/open-source-and-g0v) — Die kollektive Erzählung der Regierung „forken“
+- [Geschichte der taiwanesischen Netzgemeinschaften](/de/technology/taiwan-online-community-migration) — Von BBS zu Discord: Eine Generationengeschichte
 - [Mini Taiwan Pulse](/de/technology/mini-taiwan-pulse-civic-tech) — Individuelle Open Source Praktiken des Civic Techs, 193 Commits in sechs Wochen machen Open Data zu Lichtbahnen
-- [Dayu Shuangjian](/technology/大宇雙劍) — Eine weitere taiwanesische Geschichte vom „Leidenschaftliche Schaffen jenseits der Größe“ (RPG aus dem Guanghua Shopping Center)
+- [Dayu Shuangjian](/de/technology/softstar-twin-classics) — Eine weitere taiwanesische Geschichte vom „Leidenschaftliche Schaffen jenseits der Größe“ (RPG aus dem Guanghua Shopping Center)
 - [Nicht im Keller schlafen können](/de/technology/into-the-cellar-taiwan-game-podcast) — Die Community von 6 Millionen Mitgliedern, die in einem College-Wohnheim entstanden ist

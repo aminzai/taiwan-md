@@ -143,7 +143,7 @@ Der Unterschied zwischen diesen beiden Antworten ist Taiwans echtes Zeugnis in d
 - [KI-Industrie](/de/technology/artificial-intelligence-industry) — Überblick über Taiwans fünf KI-Artikel; Robotik ist die verkörperte KI, doch „Intelligenz“ und „Körper“ verlaufen in Taiwans Industrie als parallele Linien
 - [Halbleiter-Industrie](/de/technology/taiwan-semiconductor-industry) — Chips als Fundament aller Roboter, und warum „starke Chips ≠ starke Robotik“ in der Industrielogik
 - [Taiwans Drohnen-Industrie](/de/technology/taiwan-drone-industry) — Ein weiteres Fallbeispiel „Komponenten stark, Gesamtgerät schwach“, zum Vergleich mit der Robotik-Industrie
-- [Taiwans Geburtenkrise](/society/台灣少子化危機) — Warum NCAIR „Haushaltspflege“ an erste Stelle setzt? Die Antwort liegt in der Bevölkerungsstruktur
+- [Taiwans Geburtenkrise](/de/society/taiwan-low-birth-rate-crisis) — Warum NCAIR „Haushaltspflege“ an erste Stelle setzt? Die Antwort liegt in der Bevölkerungsstruktur
 - [Taiwans Industrieller Aufstiegswandel](/de/economy/industrial-transformation-from-manufacturing-to-innovation) — Von Fertigung zur Marke, von Komponenten zur Systemintegration: der strukturelle Gordische Knoten, der seit zwanzig Jahren diskutiert wird
 - [Taiwans Werkzeugmaschinen-Industrie](/de/economy/taiwan-machine-tool-industry) — Die 1.500 Präzisionsmechanik-Betriebe im Goldenen Längstal des Dadu-Bergs sind die hardware-seitige Wurzel der Robotik
 - [Computex: Drei große internationale Computermessen, zwei eingestampft, die übrig blieb, wächst in Taipeh](/de/technology/computex) — Computex 2026 setzt auf „Physical AI“ und Embodied Intelligence, Taiwans Robotik-Lieferkette zeigt sich vom KI-Server-Bau bis zum Roboter-Bau auf der Jahresbühne

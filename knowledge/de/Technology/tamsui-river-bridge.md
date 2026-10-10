@@ -86,8 +86,8 @@ Der Bau der Tangjiang-Brücke markiert einen wichtigen Meilenstein für die taiw
 
 ## Weiterführende Lektüre
 
-- [Taiwanesisches Verkehrssystem](/lifestyle/台灣交通系統) — Zurück in den Gesamtverkehrskontext von Straßen, Brücken und öffentlichem Nahverkehr auf Taiwan.
-- [Städtische Entwicklung und ländliche Disparitäten in Taiwan](/geography/台灣都市發展與城鄉差距) — Ein tieferer Einblick, wie große Infrastrukturprojekte die regionale Bevölkerungsstruktur und Immobilienmärkte verändern.
+- [Taiwanesisches Verkehrssystem](/de/lifestyle/transportation-system) — Zurück in den Gesamtverkehrskontext von Straßen, Brücken und öffentlichem Nahverkehr auf Taiwan.
+- [Städtische Entwicklung und ländliche Disparitäten in Taiwan](/de/geography/taiwan-urban-development-and-rural-urban-divide) — Ein tieferer Einblick, wie große Infrastrukturprojekte die regionale Bevölkerungsstruktur und Immobilienmärkte verändern.
 
 ## Referenzen
 

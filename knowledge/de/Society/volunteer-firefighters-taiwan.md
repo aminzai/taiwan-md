@@ -163,9 +163,9 @@ Die Brandsicherheit in Taiwan ist daher nicht nur eine Geschichte einer staatlic
 
 ## Weiterführende Lektüre
 
-- [Jiji-Erdbeben](/history/九二一集集地震) — Wie Katastrophen die Katastrophenbewältigung und das kollektive Gedächtnis Taiwans verändert haben.
-- [Soziale Bewegungen und zivilgesellschaftliches Engagement](/society/社會運動與公民參與) — Verständnis des bürgerschaftlichen Engagements in Taiwan aus der Freiwilligenarbeit.
-- [Städtische Entwicklung und ländliche Disparitäten in Taiwan](/geography/台灣都市發展與城鄉差距) — Wie lokale Ressourcenunterschiede die Katastrophenreaktion beeinflussen.
+- [Jiji-Erdbeben](/de/history/921-jiji-earthquake) — Wie Katastrophen die Katastrophenbewältigung und das kollektive Gedächtnis Taiwans verändert haben.
+- [Soziale Bewegungen und zivilgesellschaftliches Engagement](/de/society/social-movements-and-civic-participation) — Verständnis des bürgerschaftlichen Engagements in Taiwan aus der Freiwilligenarbeit.
+- [Städtische Entwicklung und ländliche Disparitäten in Taiwan](/de/geography/taiwan-urban-development-and-rural-urban-divide) — Wie lokale Ressourcenunterschiede die Katastrophenreaktion beeinflussen.
 
 ## Bildquellen
 

@@ -220,11 +220,11 @@ MediaTek wurde 1997 von United Ocean Electronics (聯華電子) abgespalten und 
 
 - [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Wie die Kernindustrie, die 1976 durch Technologietransfer von RCA begann und im Jahr 2024 60 % des globalen Marktes hält, zum „Schutzschild des Landes“ wurde.
 - [Morris Chang (張忠謀)](/de/people/tsmc-morris-chang) — Die Schlüsselfigur hinter der Gründung von TSMC im Jahr 1987; der treibende Motor der taiwanesischen Halbleiterindustrie vom Nullpunkt aus.
-- [Shih Ching-rong (施振榮)](/people/施振榮) — Der Autor der „Lächelnkurve“: Er zeichnete die Linie, die Taiwan aus der Auftragsfertigung in die mittlere Phase zwang, während sein Vermögen in TSMC investiert ist, das sich auf die „mittlere Fertigung“ konzentriert.
+- [Shih Ching-rong (施振榮)](/de/people/stan-shih) — Der Autor der „Lächelnkurve“: Er zeichnete die Linie, die Taiwan aus der Auftragsfertigung in die mittlere Phase zwang, während sein Vermögen in TSMC investiert ist, das sich auf die „mittlere Fertigung“ konzentriert.
 - [Taiwanischer Handel und globale Lieferketten](/de/economy/taiwan-foreign-trade-and-global-supply-chain) — Die langfristige Entwicklung vom Devisenexport durch Exportprocessing Zones bis zum Halbleiterexportführer im Jahr 2024.
 - [Startup-Ökosystem](/de/economy/taiwan-startup-ecosystem-overview) — Ein anderer Weg von der industriellen Transformation hin zu einem Innovationsland: die Entwicklung von Startups und fabless Halbleitern nach den 1990er Jahren.
-- [KI-Entwicklung Taiwans und zukünftige Strategien](/technology/台灣人工智慧發展與未來策略) — Die nächste Welle der industriellen Transformation nach 2024: Von der Hardware-Hegemonie zur KI-Anwendung.
-- [SLP Taipei Startup Leadership Program](/economy/SLP台北創業領導計畫) — Ein Gründungstrainingsprogramm, dessen Kosten von 6.000 auf 58.000 NTD stiegen; die Kostenkurve selbst ist ein physischer Maßstab für den Aufbau des taiwanischen Startup-Ökosystems vom Anfang bis zur Etablierung.
+- [KI-Entwicklung Taiwans und zukünftige Strategien](/de/technology/artificial-intelligence-development-strategy) — Die nächste Welle der industriellen Transformation nach 2024: Von der Hardware-Hegemonie zur KI-Anwendung.
+- [SLP Taipei Startup Leadership Program](/de/economy/slp-taipei-startup-leadership-program) — Ein Gründungstrainingsprogramm, dessen Kosten von 6.000 auf 58.000 NTD stiegen; die Kostenkurve selbst ist ein physischer Maßstab für den Aufbau des taiwanischen Startup-Ökosystems vom Anfang bis zur Etablierung.
 
 ---
 

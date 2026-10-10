@@ -232,10 +232,10 @@ Je länger die Liste, desto weniger Menschen können noch unterrichten. Beim nä
 
 **Weiterführende Literatur**:
 
-- [Blaue Farbe](/culture/藍染) — Von der Exportgroßpackung in der Qing-Dynastie bis zum nahezu vollständigen Verschwinden im Jahr 1940, die vollständige Geschichte der Wiederbelebung in Sanshi, Miaoli, Taiping und Jincheng
+- [Blaue Farbe](/de/culture/taiwan-indigo-dyeing) — Von der Exportgroßpackung in der Qing-Dynastie bis zum nahezu vollständigen Verschwinden im Jahr 1940, die vollständige Geschichte der Wiederbelebung in Sanshi, Miaoli, Taiping und Jincheng
 - [Taiwanische Blumenziegel](/de/culture/taiwan-floral-fabric) — Die Reise der Hakka-Rotblume von einem produzierten Produkt der Kolonialfabrik zur kulturellen Identität
 - [Papierregenschirm](/de/culture/taiwan-paper-umbrella) — Der Weg des Papierregenschirms von einem nützlichen Alltagsgegenstand zu einem Kunstwerk
-- [Sonnenschutz](/culture/斗笠) — Die Raffinger Weberei und das repräsentative Werkzeug der taiwanesischen ländlichen Handwerkskunst
+- [Sonnenschutz](/de/culture/bamboo-hat-craft) — Die Raffinger Weberei und das repräsentative Werkzeug der taiwanesischen ländlichen Handwerkskunst
 - [Traditionelle Feste und Feiern](/de/culture/traditional-festivals-and-celebrations) — Die Handwerkskunst als materielle Träger der Feste (Papiergegenstände in den Feuerfesten von Yanshui, göttliche Zelte in den Wallfahrten von Mazu)
 
 ---

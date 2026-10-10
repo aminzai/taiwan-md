@@ -103,10 +103,10 @@ Neunundsechzig Jahre diplomatische Beziehungen stehen nicht in Floskeln: Sie ste
 
 **Weiterführende Links**:
 
-- [Taiwans diplomatische Partner und internationale Diplomatie](/society/台灣邦交國與國際外交) — Panorama der 12 diplomatischen Partner, Auslandsvertretungen und visafreien Netze
+- [Taiwans diplomatische Partner und internationale Diplomatie](/de/society/taiwan-diplomatic-allies-and-international-relations) — Panorama der 12 diplomatischen Partner, Auslandsvertretungen und visafreien Netze
 - [Taiwan und Eswatini](/de/society/taiwan-eswatini-relations) — Afrikas einziger diplomatischer Partner, ein weiterer Fall von „langfristiger Zusammenarbeit und fragiler Politik“
-- [Kognitive Kriegsführung](/society/認知作戰) — Chinas Informations-, Sprach- und Druckoperationsrahmen gegen Taiwans Diplomatie
-- [Zheng-Xi-Treffen 2026 und zehn Jahre KMT-KPCh-Wiedervereinigung](/society/2026鄭習會與國共十年再會) — Zeitgleiche politische Dynamik beider Seiten der Taiwanstraße, Verständnis des größeren Kontexts von Chinas Druck auf Taiwan
+- [Kognitive Kriegsführung](/de/society/cognitive-warfare-against-taiwan) — Chinas Informations-, Sprach- und Druckoperationsrahmen gegen Taiwans Diplomatie
+- [Zheng-Xi-Treffen 2026 und zehn Jahre KMT-KPCh-Wiedervereinigung](/de/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Zeitgleiche politische Dynamik beider Seiten der Taiwanstraße, Verständnis des größeren Kontexts von Chinas Druck auf Taiwan
 
 ## Bildquellen
 

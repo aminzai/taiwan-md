@@ -214,6 +214,6 @@ Die Antwort wird noch geschrieben – und jeder, der beitragen will, ist Autor d
 
 ## Verwandte Themen
 
-- [Open Culture Foundation](/technology/開放文化基金會): Die Stiftung hinter g0v, die Rechnungen begleicht, Rechnungen ausstellt, Administration für die Community übernimmt – und vom Backstage zur digitalen Menschenrechts-Wächterin wurde
+- [Open Culture Foundation](/de/technology/open-culture-foundation): Die Stiftung hinter g0v, die Rechnungen begleicht, Rechnungen ausstellt, Administration für die Community übernimmt – und vom Backstage zur digitalen Menschenrechts-Wächterin wurde
 - [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry): Die technologische Basis Taiwans
 - [Mini Taiwan Pulse](/de/technology/mini-taiwan-pulse-civic-tech): 2026 Civic Tech als persönliches Open-Source-Projekt – mit TDX-Offenen Daten + Three.js Taiwan als 3D-Lichtspuren visualisiert

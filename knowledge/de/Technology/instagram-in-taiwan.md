@@ -70,8 +70,8 @@ Der Aufstieg von „Brüchig“ könnte etwas zeigen: Wenn ein Filter so perfekt
 **Weiterführende Lektüre**:
 
 - [Facebook: Vom Diebstahlwahn zur digitalen Demokratie – eine zweischneidige Klinge](/de/technology/facebook-in-taiwan) — Meta, das Mutterunternehmen von IG, ist ein weiterer Standort in Taiwan; die Entwicklung von „FarmVille“ im Jahr 2009 bis zu den Kontroversen von 2025 ist notwendig, um die Strategie von Meta in Taiwan zu verstehen.
-- [Threads in Taiwan](/technology/Threads在台灣) — Wie der „Brüchig“-Zwilling von IG 2024 aus dem Nichts zum drittgrößten Plattform in Taiwan wurde und welche symbiotische und konkurrierende Beziehung er zu IG hat.
-- [Geschichte der sozialen Medienwanderung in Taiwan](/technology/台灣網路社群遷徙史) — Die kollektive Migrationsgeschichte der taiwanesischen Internetnutzer von BBS, Wuming, PTT bis Facebook, IG und Threads bietet eine langfristige Perspektive auf den Niedergang von IG.
+- [Threads in Taiwan](/de/technology/threads-in-taiwan) — Wie der „Brüchig“-Zwilling von IG 2024 aus dem Nichts zum drittgrößten Plattform in Taiwan wurde und welche symbiotische und konkurrierende Beziehung er zu IG hat.
+- [Geschichte der sozialen Medienwanderung in Taiwan](/de/technology/taiwan-online-community-migration) — Die kollektive Migrationsgeschichte der taiwanesischen Internetnutzer von BBS, Wuming, PTT bis Facebook, IG und Threads bietet eine langfristige Perspektive auf den Niedergang von IG.
 
 ## Referenzen
 

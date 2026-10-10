@@ -86,7 +86,7 @@ Das wertvollste Erbe, das diese Bauprojekte Taiwan hinterließen, ist vielleicht
 
 ## Vertiefende Lektüre
 
-- [Autobahnen](/lifestyle/高速公路) — Die Zhongshan Expressway war nur das erste Projekt; dieser Artikel beleuchtet die fünfzigjährige Geschichte der Macht und Kosten in Verbindung mit der MacArthur Highway, dem Schneemtunnel und der Nationalstraße 7.
+- [Autobahnen](/de/lifestyle/national-highway-system) — Die Zhongshan Expressway war nur das erste Projekt; dieser Artikel beleuchtet die fünfzigjährige Geschichte der Macht und Kosten in Verbindung mit der MacArthur Highway, dem Schneemtunnel und der Nationalstraße 7.
 
 ## Referenzen
 

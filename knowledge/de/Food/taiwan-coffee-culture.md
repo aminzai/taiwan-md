@@ -116,9 +116,9 @@ Die Holztür von Fengda Coffee steht noch offen. Wenn man sie öffnet, trinkt ma
 
 **Weiterführende Lektüre:**
 
-- [Kultur der Convenience Stores in Taiwan](/lifestyle/台灣便利商店文化) — Der Erfolg von City Café beruht darauf, dass der Convenience Store selbst eine Lebensgrundlage für die Taiwanesen ist
-- [Kultur des Eiskaffees (Bubble Tea) in Taiwan](/food/台灣手搖飲文化) — Die andere Seite des Kaffees: Taiwan erfand den Bubble Tea und eroberte die Welt damit
-- [Teekultur in Taiwan](/food/茶文化) — Bevor es Kaffee gab, tranken die Taiwanesen seit vierhundert Jahren Tee
+- [Kultur der Convenience Stores in Taiwan](/de/lifestyle/convenience-store-culture) — Der Erfolg von City Café beruht darauf, dass der Convenience Store selbst eine Lebensgrundlage für die Taiwanesen ist
+- [Kultur des Eiskaffees (Bubble Tea) in Taiwan](/de/food/hand-shaken-drink-culture) — Die andere Seite des Kaffees: Taiwan erfand den Bubble Tea und eroberte die Welt damit
+- [Teekultur in Taiwan](/de/food/golden-age-echoes-taiwan-tea-culture) — Bevor es Kaffee gab, tranken die Taiwanesen seit vierhundert Jahren Tee
 
 ## Quellenverzeichnis
 

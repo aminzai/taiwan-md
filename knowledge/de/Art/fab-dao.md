@@ -99,10 +99,10 @@ Auf dieser Insel steigen ein hundert Berge auf, ein hundert Träume keimen. Und 
 
 **Weiterführende Literatur**:
 
-- [Wang Xinen (A Luan)](/art/王新仁) — Schöpfer von „Gipfel“ im Bergprojekt, erster taiwanesischer generative Künstler auf Art Blocks
-- [Wang Lianzhong (Shrimp Dad)](/art/王連晟) — Schöpfer der Berg-Rekursionsalgorithmus-Berge im Bergprojekt, Gewinner des Lumiere-Preises 2017 in der Skulpturenkategorie
-- [Taiwan New Media Art](/art/台灣新媒體藝術) — Vom Video zur generativen Kunst: Der taiwanesische New-Media-Kunst-Kontext von FAB DAO
-- [Taiwan Contemporary Art](/art/當代藝術) — Die Rolle von Blockchain-Kunst in der taiwanesischen zeitgenössischen Kunstszene
+- [Wang Xinen (A Luan)](/de/art/wang-hsin-jen-artist) — Schöpfer von „Gipfel“ im Bergprojekt, erster taiwanesischer generative Künstler auf Art Blocks
+- [Wang Lianzhong (Shrimp Dad)](/de/art/wang-lien-cheng-artist) — Schöpfer der Berg-Rekursionsalgorithmus-Berge im Bergprojekt, Gewinner des Lumiere-Preises 2017 in der Skulpturenkategorie
+- [Taiwan New Media Art](/de/art/taiwan-new-media-art) — Vom Video zur generativen Kunst: Der taiwanesische New-Media-Kunst-Kontext von FAB DAO
+- [Taiwan Contemporary Art](/de/art/contemporary-art) — Die Rolle von Blockchain-Kunst in der taiwanesischen zeitgenössischen Kunstszene
 
 ## Referenzen
 

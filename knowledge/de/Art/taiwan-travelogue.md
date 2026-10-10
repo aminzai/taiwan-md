@@ -162,11 +162,11 @@ _19. November 2024, NBA-Finalisten-Lese, Yang Shuangzi liest einen englischen Ab
 **Weiterführende Literatur**:
 
 - [Literatur der japanischen Herrschaftszeit](/de/art/taiwanese-literature-during-japanese-rule) — Die historische Hintergrundszene von „Taiwan Travelogue“ von 1938, der weiblichen und lokalen Schreibtraditionen von Yang Qianqiao, Lai He, Long Yingzhong und anderen
-- [Gegenwärtige taiwanesische Literatur](/art/當代台灣文學) — Wie die Generation von Yang Shuangzi die lokale Schreibtradition von Wu Mingyi, Lin Yi-han und Luo Yijun weiterführt und in den internationalen Übersetzungsmarkt eindringt
+- [Gegenwärtige taiwanesische Literatur](/de/art/contemporary-taiwanese-literature) — Wie die Generation von Yang Shuangzi die lokale Schreibtradition von Wu Mingyi, Lin Yi-han und Luo Yijun weiterführt und in den internationalen Übersetzungsmarkt eindringt
 - [Taiwanesische Literatur nach der Aufhebung des Kriegsrechts](/de/art/post-martial-law-taiwanese-literature) — Von der Aufhebung des Kriegsrechts 1987 bis in die 2020er-Jahre: Die Welle der weiblichen Schreibweisen, lesbisisch-geschlechtlicher Texte und Muttersprach-Literatur, von der das „Birnen“-Erbe stammt
 - [Geschichte der taiwanesischen Literatur](/de/art/history-of-taiwanese-literature) — Der gesamte Kontext, auf den Yang Shuangzi bei der Preisverleihung verwies, als sie sagte: „Ein Jahrhundert der Erkundung“
 - [Zhu Tianwen](/de/people/chu-tien-wen) — Eine führende Schriftstellerin der weiblichen Schreibtradition nach der Aufhebung des Kriegsrechts, deren „Huangnü Shouji“ und „Gudou“ wichtige Vorläufer der gefälschten Übersetzungsstruktur in der taiwanesischen Literatur sind
-- [Wu Mingyi](/people/吳明益) — Ebenfalls ein führender taiwanesischer Schriftsteller im internationalen Übersetzungsboom der 2020er-Jahre, dessen „Duanjitou Jilu“ und „Chixing Shiqu Ji“ in der englischsprachigen Welt bekannt sind
+- [Wu Mingyi](/de/people/wu-ming-yi) — Ebenfalls ein führender taiwanesischer Schriftsteller im internationalen Übersetzungsboom der 2020er-Jahre, dessen „Duanjitou Jilu“ und „Chixing Shiqu Ji“ in der englischsprachigen Welt bekannt sind
 
 ## Bildquellen
 

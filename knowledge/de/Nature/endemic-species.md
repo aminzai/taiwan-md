@@ -121,9 +121,9 @@ Die Erfahrungen Taiwans im Schutz endemischer Arten bieten wertvolle Lehren für
 
 - [Taiwan-Endemiten — Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E7%89%B9%E6%9C%89%E7%A8%AE)
 - [Naturschutzportal des Bundesamtes für Forst- und Naturschutz (COA)](https://conservation.forest.gov.tw/)
-- [Robert Swinhoe](/people/史溫侯) — Der erste Naturforscher, der in den 1860er Jahren systematisch taiwanesische Arten dokumentierte; nach ihm benannte Arten wie Blaubrust-Ente und Spitzmaul sind bis heute endemische Schutzarten
-- [Formosa-Ornithologie](/nature/福爾摩沙鳥類學) — Robert Swinhoe veröffentlichte 1863 _The Ornithology of Formosa_ mit 201 Arten; doch endemische Arten der Zentralgebirge wie Kaiser-Pheasant, Goldschwingen-Malachitvogel und Taiwan-Streifvogel wurden erst 1906 benannt
-- [Kronhals-Reiher](/nature/黑冠麻鷺) — Nicht endemisch, aber seine städtische Populationsexpansion ist weltweit einzigartig; die Meldungen der Bürgerwissenschaft in Taiwan bilden eine globale Referenzsammlung
+- [Robert Swinhoe](/de/people/robert-swinhoe-naturalist) — Der erste Naturforscher, der in den 1860er Jahren systematisch taiwanesische Arten dokumentierte; nach ihm benannte Arten wie Blaubrust-Ente und Spitzmaul sind bis heute endemische Schutzarten
+- [Formosa-Ornithologie](/de/nature/the-ornithology-of-formosa) — Robert Swinhoe veröffentlichte 1863 _The Ornithology of Formosa_ mit 201 Arten; doch endemische Arten der Zentralgebirge wie Kaiser-Pheasant, Goldschwingen-Malachitvogel und Taiwan-Streifvogel wurden erst 1906 benannt
+- [Kronhals-Reiher](/de/nature/malayan-night-heron) — Nicht endemisch, aber seine städtische Populationsexpansion ist weltweit einzigartig; die Meldungen der Bürgerwissenschaft in Taiwan bilden eine globale Referenzsammlung
 
 ## Verwandte Themen
 

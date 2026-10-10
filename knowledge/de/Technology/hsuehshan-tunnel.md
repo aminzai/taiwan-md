@@ -74,7 +74,7 @@ Heute, wenn wir im Tunnel die Kälte genießen und das Radio hören, brauchen wi
 
 Dieses Denkmal ehrt die 25 Arbeiter, die bei dem Bau der Nationalen Schnellstraße (einschließlich des Schneegipfel-Tunnels) ihr Leben verloren haben. Darunter waren 12 inländische Ingenieure und 13 thailändische Arbeiter [^11]. Obwohl das gesamte Projekt der Nationalen Schnellstraße 25 Opfer forderte, starben etwa 13 direkt beim Schneegipfel-Tunnel-Bau [^19]. Von ihnen starben einige durch Erdrutsche, andere durch starkes Unterdruckwasser, und wieder andere durch die schlechten Luftbedingungen und die Hitze im Tunnel.
 
-Das Denkmal besteht aus dem härtesten Material des Schneegipfel-Tunnels — dem Granit — und symbolisiert die Härte und den Kampf des Projekts. Sein Design ist inspiriert vom Logo des Nationalen Bauamtes und der [Kin-Shan-Insel](/geography/龜山島/), und auf der Inschrift sind alle Namen der Gefallenen und die Projektdokumentation eingraviert [^15]. Diese 25 Leben sind die schwersten Worte, die nach der Eröffnung des Schneegipfel-Tunnels stehen. Die Fertigstellung dieses Tunnels beruhte nicht nur auf Ingenieurkentnissen, sondern auch auf dem unermüdlichen Einsatz unzähliger Arbeiter in den dunklen Tunnels.
+Das Denkmal besteht aus dem härtesten Material des Schneegipfel-Tunnels — dem Granit — und symbolisiert die Härte und den Kampf des Projekts. Sein Design ist inspiriert vom Logo des Nationalen Bauamtes und der [Kin-Shan-Insel](/de/geography/gueishan-island/), und auf der Inschrift sind alle Namen der Gefallenen und die Projektdokumentation eingraviert [^15]. Diese 25 Leben sind die schwersten Worte, die nach der Eröffnung des Schneegipfel-Tunnels stehen. Die Fertigstellung dieses Tunnels beruhte nicht nur auf Ingenieurkentnissen, sondern auch auf dem unermüdlichen Einsatz unzähliger Arbeiter in den dunklen Tunnels.
 
 ## Nach der Eröffnung: Die dritte Revolution in Yilan
 
@@ -121,9 +121,9 @@ Wenn du durch den Schneegipfel-Tunnel fährst, fahr langsam und halte dich an di
 
 ## Weiterführende Literatur
 
-- [Taiwans Verkehrsnetz](/lifestyle/台灣交通系統) — Verstehen Sie die Bedeutung des Schneegipfel-Tunnels durch Straße, Eisenbahn und den öffentlichen Verkehrsverbund.
-- [Taiwans städtische Entwicklung und die Kluft zwischen Stadt und Land](/geography/台灣都市發展與城鄉差距) — Vertiefen Sie, wie der Verkehr die Entwicklung der Städte und die Bevölkerungsbewegung verändert hat.
-- [Autobahn](/lifestyle/高速公路) — Der Schneegipfel-Tunnel ist nur ein Kapitel in der 50-jährigen Geschichte der taiwanesischen Autobahnen. In diesem Artikel wird von der Ma-Chao-Straße bis zur Autobahn 7 die Kosten jeder ‚schnellen‘ Veränderung aufgezählt.
+- [Taiwans Verkehrsnetz](/de/lifestyle/transportation-system) — Verstehen Sie die Bedeutung des Schneegipfel-Tunnels durch Straße, Eisenbahn und den öffentlichen Verkehrsverbund.
+- [Taiwans städtische Entwicklung und die Kluft zwischen Stadt und Land](/de/geography/taiwan-urban-development-and-rural-urban-divide) — Vertiefen Sie, wie der Verkehr die Entwicklung der Städte und die Bevölkerungsbewegung verändert hat.
+- [Autobahn](/de/lifestyle/national-highway-system) — Der Schneegipfel-Tunnel ist nur ein Kapitel in der 50-jährigen Geschichte der taiwanesischen Autobahnen. In diesem Artikel wird von der Ma-Chao-Straße bis zur Autobahn 7 die Kosten jeder ‚schnellen‘ Veränderung aufgezählt.
 
 ## Referenzen
 

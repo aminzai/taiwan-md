@@ -230,9 +230,9 @@ Ein Tamsui-Kind, mit ~15 mit der Mutter nach Minnesota, lernte beim Helfen bei i
 
 - [Jensen Huang](/de/people/jensen-huang) — Taiwans Licht, das KI schneller laufen lässt, die Hardware-Seite
 - [Morris Chang](/de/people/tsmc-morris-chang) — Gründervater taiwanesischer Halbleiter, der Berg, den Chi als „kaum erschütterbar“ nennt
-- [KI-Industrie](/technology/AI人工智慧產業) — Taiwans Position in der globalen KI-Lieferkette
-- [Taiwans KI-Entwicklung und Zukunftsstrategie](/technology/台灣人工智慧發展與未來策略) — Gesamtbild von Taiwans KI
-- [KI im taiwanesischen Alltag](/technology/台灣AI日常) — Wie KI bereits in Taiwans Leben eingezogen ist
+- [KI-Industrie](/de/technology/artificial-intelligence-industry) — Taiwans Position in der globalen KI-Lieferkette
+- [Taiwans KI-Entwicklung und Zukunftsstrategie](/de/technology/artificial-intelligence-development-strategy) — Gesamtbild von Taiwans KI
+- [KI im taiwanesischen Alltag](/de/technology/taiwan-ai-in-daily-life) — Wie KI bereits in Taiwans Leben eingezogen ist
 
 ## Quellen
 

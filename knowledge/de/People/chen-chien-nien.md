@@ -211,8 +211,8 @@ Die Lieder, die der Grossonkel hinterliess, hat er nicht mit Kraft «übernommen
 - [A-Mei (Zhang Hui-mei)](/de/people/a-mei) — Ebenfalls Puyuma, ebenfalls Taitung, ging den völlig entgegengesetzten Weg: Vom Dorf Nanwang auf Asiens grösste Bühnen, die Puyuma-Diva
 - [Zeitgenössische indigene Singer-Songwriter](/de/music/contemporary-indigenous-singer-songwriters) — Generationenpanorama, wie taiwanesische indigene Musik ab den 1990ern vom Rand in den Mainstream vordrang
 - [Taiwanesische Volkslieder und Gesänge](/de/music/taiwan-folk-music-and-songs) — Enthält die Position von Lu Sen-pao und anderen indigenen Schöpfern der 1950er in der Geschichte der taiwanesischen Volkslieder
-- [Taiwanesische Independent-Musik](/music/台灣獨立音樂) — Wie Jote Music und andere Independent-Labels ausserhalb der Mainstream-Musikindustrie einen anderen Weg bauten
-- [Golden Melody Awards](/music/金曲獎) — Wie das Golden-Melody-System indigene Musikschaffende aufnahm
+- [Taiwanesische Independent-Musik](/de/music/indie-music-scene) — Wie Jote Music und andere Independent-Labels ausserhalb der Mainstream-Musikindustrie einen anderen Weg bauten
+- [Golden Melody Awards](/de/music/pop-music-and-golden-melody-awards) — Wie das Golden-Melody-System indigene Musikschaffende aufnahm
 
 ## Bildquellen
 

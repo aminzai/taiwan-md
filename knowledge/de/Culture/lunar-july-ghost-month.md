@@ -109,7 +109,7 @@ Wenn wir im Sommer 2026 sehen, wie auch an den Türen von Supermärkten kleine O
 ## Weiterführende Literatur
 
 - [Mittagsfest der Erde](/de/culture/ghost-festival-zhongyuan) — Eine historische Interpretation des Mittagsfestes als Friedensvertrag
-- [Duanwu-Fest](/culture/端午節) — Ein weiteres von Taiwan neu erfundenes Fest
+- [Duanwu-Fest](/de/culture/dragon-boat-festival) — Ein weiteres von Taiwan neu erfundenes Fest
 
 ## Quellenangaben
 

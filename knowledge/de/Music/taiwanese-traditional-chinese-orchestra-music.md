@@ -178,9 +178,9 @@ Die Frage, »welches Land ist das Land der Nationalmusik«, braucht vielleicht g
 
 - [Taiwanesische indigene Musiktraditionen](/de/music/indigenous-music-traditions) – Achtstimmiger Gesang der Bunun, mehrstimmiger Gesang der Amis, eine weitere musikalische Logik, die Guoyue zu verdauen sucht
 - [Achtstimmiger Gesang](/de/music/bunun-pasibutbut-eight-part-polyphony) – Das Obertonsystem von Pasibutbut, Kernmaterial im Dialog zwischen Guoyue und indigener Musik
-- [Taiwanesische Hakka-Musik](/music/台灣客家音樂) – Zahlreiche Bearbeitungen von Hakka-Bergliedern durch das Kaohsiung Chinese Orchestra, ein weiterer Weg der südtaiwanesischen Guoyue
-- [Taiwanesischer Instrumentenbau](/music/台灣樂器製造) – Vom Saxophon in Houli bis zu Guoyue-Instrumenten: Wie Taiwan vom »Nutzer« zum »Hersteller« wurde
-- [Taiwanesische Volksliedbewegung](/music/台灣民歌運動) – Die 1970er-Bewegung »Sing dein eigenes Lied«, die denselben Zeitgeist wie die Lokalisierung der Guoyue teilte
+- [Taiwanesische Hakka-Musik](/de/music/taiwan-hakka-music-from-mountain-songs-to-rock) – Zahlreiche Bearbeitungen von Hakka-Bergliedern durch das Kaohsiung Chinese Orchestra, ein weiterer Weg der südtaiwanesischen Guoyue
+- [Taiwanesischer Instrumentenbau](/de/music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories) – Vom Saxophon in Houli bis zu Guoyue-Instrumenten: Wie Taiwan vom »Nutzer« zum »Hersteller« wurde
+- [Taiwanesische Volksliedbewegung](/de/music/taiwan-campus-folk-song-movement) – Die 1970er-Bewegung »Sing dein eigenes Lied«, die denselben Zeitgeist wie die Lokalisierung der Guoyue teilte
 - [Taiwanesische Klanglandschaften](/de/music/taiwan-soundscape) – Wie die akustische Umgebung der Insel in die Ohren der Komponisten sickert
 - [Taiwanesische Volkslieder und Gesänge](/de/music/taiwan-folk-music-and-songs) – Nanguan, Beiguan, taiwanesische Lieder – die klanglichen Traditionen, die schon vor der Überfahrt der Guoyue auf der Insel existierten
 

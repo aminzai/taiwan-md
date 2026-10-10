@@ -68,7 +68,7 @@ Immer wenn der Herbstwind aufkommt, sich der Duft der Wendan-Pomelos und der wei
 ## Weiterführende Literatur
 
 - [Traditionelle Feste und Feierlichkeiten](/de/culture/traditional-festivals-and-celebrations) — Erkundet Taiwans weitere einzigartige Bräuche und Feste, die aus Zufall oder Krise entstanden.
-- [Taiwans Werbegeschichte](/culture/台灣廣告史) — Rückblick darauf, wie TV-Werbespots der 1980er Jahre Taiwans Konsumkultur und kollektives Gedächtnis tiefgreifend prägten.
+- [Taiwans Werbegeschichte](/de/culture/taiwan-advertising-history) — Rückblick darauf, wie TV-Werbespots der 1980er Jahre Taiwans Konsumkultur und kollektives Gedächtnis tiefgreifend prägten.
 
 ## Quellen
 

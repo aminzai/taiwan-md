@@ -187,8 +187,8 @@ Seitdem diese Insel sich selbst präsentiert hat, haben alle Schöpfer gelernt, 
 
 - [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Der vollständige Kontext der taiwanesischen Waferfertigung von den Frühstückstreffen bei Xiao Xinxin Tofu im Jahr 1974 bis zum Besuch von Wei Zhejia beim Weißen Haus im Jahr 2025, bildet das zeitliche Gerüst von 《Schöpfer》.
 - [Chiang Kai-shek](/de/people/tsmc-morris-chang) — Der Protagonist, der nicht vor der Kamera stand; sein selbstgeschriebener zweite Band erschien sechs Monate vor dem Filmstart.
-- [Unsichtbares Land](/art/看不見的國家) — Ein Schwesterdokumentarfilm, der am selben Tag veröffentlicht wurde, in dem die amerikanische Regisseurin Vanessa Hope eine andere Stimme des „taiwanischen Werts“ aus der Demokratie-Linie herausfiltert.
-- [Technoparkentwicklung](/technology/科技園區發展) — Der Hsinchu Science Park als physische Bühne für die meisten Szenen von 《Schöpfer》, vom Glücksspielort einer Kleinstadt zum Knotenpunkt der globalen Lieferkette.
+- [Unsichtbares Land](/de/art/invisible-nation) — Ein Schwesterdokumentarfilm, der am selben Tag veröffentlicht wurde, in dem die amerikanische Regisseurin Vanessa Hope eine andere Stimme des „taiwanischen Werts“ aus der Demokratie-Linie herausfiltert.
+- [Technoparkentwicklung](/de/technology/science-park-development) — Der Hsinchu Science Park als physische Bühne für die meisten Szenen von 《Schöpfer》, vom Glücksspielort einer Kleinstadt zum Knotenpunkt der globalen Lieferkette.
 - [Tsai Ing-wen](/de/people/tsai-ing-wen) — Als der Umsatz im August 2025 25 Millionen überschritt, besuchte die ehemalige Präsidentin mit Chen Jianren und seiner Frau das Kino und schrieb so einen politischen Hintergrund zu diesem Film.
 
 ## Bildquellen

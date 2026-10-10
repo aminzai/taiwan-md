@@ -86,9 +86,9 @@ Von den Heimatgeschmäckern der Mütter der Militärfamilien über das tröstlic
 
 ## Weiterführende Lektüre
 
-- [Übersicht der taiwanesischen Küche](/food/台灣美食總覽) — Von den Ureinwohnern bis zum Michelin: Warum Braised Pork Rice der größte gemeinsame Nenner beim Essen der Taiwanesen ist
+- [Übersicht der taiwanesischen Küche](/de/food/taiwan-food-overview) — Von den Ureinwohnern bis zum Michelin: Warum Braised Pork Rice der größte gemeinsame Nenner beim Essen der Taiwanesen ist
 - [Beef Noodle Soup](/de/food/beef-noodle-soup) — Ein weiteres Nationalgericht, das ebenfalls von den Einwanderern aus dem Festland nach 1949 in Taiwan gebracht wurde und mit dem Braised Pork Rice die Wurzeln der Militärfamilien teilt
-- [Taiwanese Frühstückskultur](/food/台灣早餐文化) — Eine andere Facette der kulinarischen Fusion Taiwans, vom Gebäckteig zu Hamburger-Reisbällchen
+- [Taiwanese Frühstückskultur](/de/food/taiwan-breakfast-culture) — Eine andere Facette der kulinarischen Fusion Taiwans, vom Gebäckteig zu Hamburger-Reisbällchen
 - [Regierungstransfer und Nachkriegsrekonstruktion](/de/history/kmt-government-relocation-and-postwar-reconstruction) — Der historische Hintergrund der Entstehung des Braised Pork Rice: Die Ernährungsumstrukturierung durch die Migration von 1,2 Millionen Soldaten und Zivilisten
 
 ## Quellenverzeichnis

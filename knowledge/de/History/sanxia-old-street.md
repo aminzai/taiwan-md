@@ -59,8 +59,8 @@ Die Geschichte der Altstadt geht weiter. Sie ist nicht mehr nur einfacher kommer
 
 **Weiterführende Literatur**:
 
-- [Indigofärbung](/culture/藍染) – Das Handwerk, das die Färbereien von Sanjiaoyong einst prägte: Von einem Qing-Exportschlager bis zur vollständigen Wiederbelebung 1999, als nach siebzig Jahren das erste blaue Tuch gewebt wurde.
-- [Taiwanesische traditionelle Handwerke und immaterielle Kulturgüter](/culture/台灣傳統工藝與無形文化資產) – Die Position der Wiederbelebung der Sanxia-Indigofärbung im taiwanischen Handwerks-Erhaltungssystem.
+- [Indigofärbung](/de/culture/taiwan-indigo-dyeing) – Das Handwerk, das die Färbereien von Sanjiaoyong einst prägte: Von einem Qing-Exportschlager bis zur vollständigen Wiederbelebung 1999, als nach siebzig Jahren das erste blaue Tuch gewebt wurde.
+- [Taiwanesische traditionelle Handwerke und immaterielle Kulturgüter](/de/culture/traditional-crafts-intangible-cultural-heritage) – Die Position der Wiederbelebung der Sanxia-Indigofärbung im taiwanischen Handwerks-Erhaltungssystem.
 
 ## Quellen
 

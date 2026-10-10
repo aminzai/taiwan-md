@@ -132,20 +132,20 @@ Wenn jemand im Jahr 2050 wissen möchte, was die Menschen in Taiwan im Jahr 1987
 
 **Weiterführende Lektüre**:
 
-- [Raucherzimmer in Taipeh: Die atmende Glasbox in einer rauchfreien Stadt](/society/台北吸菸室) — Die Ära, in der Tabakanteile siebenzig Prozent ausmachten und die staatliche Verkaufsgesellschaft Alkohol monopolisierte, war der Ausgangspunkt dieser Nikotinentscheidung.
+- [Raucherzimmer in Taipeh: Die atmende Glasbox in einer rauchfreien Stadt](/de/society/taipei-smoking-room) — Die Ära, in der Tabakanteile siebenzig Prozent ausmachten und die staatliche Verkaufsgesellschaft Alkohol monopolisierte, war der Ausgangspunkt dieser Nikotinentscheidung.
 
 - [Taiwanesische Demokratische Transformation](/de/history/taiwan-democratization) — Der gesamte Wandel von Kriegsrecht zu einem der liberalsten demokratischen Systeme Asiens.
-- [Weißer Terror in Taiwan](/history/台灣白色恐怖) — Die wahre Rechnung des 38-jährigen Kriegsrechts: politische Fälle, Opfer und das „Kollektivhaft“-System.
-- [Beilidou (美麗島)](/history/美麗島事件) — Ein wichtiger Wendepunkt am Ende des Kriegsrechts im Jahr 1979.
-- [Demokratisierung](/history/民主化) — Der Weg Taiwans zur Demokratie nach der Aufhebung des Kriegsrechts.
+- [Weißer Terror in Taiwan](/de/history/taiwan-white-terror) — Die wahre Rechnung des 38-jährigen Kriegsrechts: politische Fälle, Opfer und das „Kollektivhaft“-System.
+- [Beilidou (美麗島)](/de/history/kaohsiung-incident-formosa-incident) — Ein wichtiger Wendepunkt am Ende des Kriegsrechts im Jahr 1979.
+- [Demokratisierung](/de/history/taiwan-democratization-history) — Der Weg Taiwans zur Demokratie nach der Aufhebung des Kriegsrechts.
 - [Der 228-Vorfall (二二八事件)](/de/history/228-incident) — Ein historischer Wendepunkt im Jahr 1947 vor dem Kriegsrecht.
 - [Übergangsgerechtigkeit in Taiwan](/de/history/taiwan-transitional-justice) — Wahrheitsermittlung und Verfolgung der Täter nach der Aufhebung des Kriegsrechts.
-- [Mazu International Art Island (馬祖國際藝術島)](/art/馬祖國際藝術島) — Ein konkretes Beispiel, wie die Regierung von Kinmen die Tunnel und Stellungen aus der Militärverwaltung in ein zehnjähriges Kurationsprojekt umwandelte; das Problem der Ausstellung „Wer darf für wen sprechen“ ist eine gemeinsame Herausforderung des Kriegsrechts.
-- [Nationalmuseum für Menschenrechte](/history/國家人權博物館) — Ein Museum, das von der Nation selbst errichtet wurde, um die Opfer der Zeit des Kriegsrechts zu gedenken; es wurde 2018 eröffnet und erhielt 2025 Haushaltsausschlüsse.
+- [Mazu International Art Island (馬祖國際藝術島)](/de/art/matsu-biennial) — Ein konkretes Beispiel, wie die Regierung von Kinmen die Tunnel und Stellungen aus der Militärverwaltung in ein zehnjähriges Kurationsprojekt umwandelte; das Problem der Ausstellung „Wer darf für wen sprechen“ ist eine gemeinsame Herausforderung des Kriegsrechts.
+- [Nationalmuseum für Menschenrechte](/de/history/national-human-rights-museum) — Ein Museum, das von der Nation selbst errichtet wurde, um die Opfer der Zeit des Kriegsrechts zu gedenken; es wurde 2018 eröffnet und erhielt 2025 Haushaltsausschlüsse.
 - [Teresa Teng (鄧麗君)](/de/people/teresa-teng) — Eine Tochter aus einer Militärfamilie, die während des Kriegsrechts aufwuchs und ihr Leben an der Front des Kalten Krieges verbrachte: vom Dienst in Kinmen bis zum „Anti-Regierungsverwaltung“-Schild im Jahr 1989.
 - [Nationaltheater (兩廳院)](/de/culture/national-theater-and-concert-hall) — Eröffnet im selben Jahr wie die Aufhebung des Kriegsrechts, begann es mit autoritärem architektonischem Vokabular und ist ein Mikrokosmos der kulturellen Demokratisierung Taiwans nach dem Ende des Kriegsrechts.
-- [Yin Haiguang (殷海光)](/people/殷海光) — Ein prominenter liberaler Gelehrter während der Zeit des Kriegsrechts, der nach dem Fall Lei Zhen 1960 unter Hausarrest gestellt und 1966 wegen „Ausblick auf chinesische Kultur“ verboten wurde.
-- [Autobahn (高速公路)](/lifestyle/高速公路) — Warum die Entschädigung aus der autoritären Ära „nicht einmal einen Namen hinterlassen konnte“, ist in diesem Artikel zu finden: Bei der Überprüfung des 50-jährigen Mythos der Nationalstraße Taiwans stieß man wiederholt auf das Systemvakuum der Kriegsrechtszeit, das keine Anhörungen und keine Verwaltungsgerichtsverfahren kannte.
+- [Yin Haiguang (殷海光)](/de/people/yin-haiguang-liberalism-philosopher) — Ein prominenter liberaler Gelehrter während der Zeit des Kriegsrechts, der nach dem Fall Lei Zhen 1960 unter Hausarrest gestellt und 1966 wegen „Ausblick auf chinesische Kultur“ verboten wurde.
+- [Autobahn (高速公路)](/de/lifestyle/national-highway-system) — Warum die Entschädigung aus der autoritären Ära „nicht einmal einen Namen hinterlassen konnte“, ist in diesem Artikel zu finden: Bei der Überprüfung des 50-jährigen Mythos der Nationalstraße Taiwans stieß man wiederholt auf das Systemvakuum der Kriegsrechtszeit, das keine Anhörungen und keine Verwaltungsgerichtsverfahren kannte.
 
 ---
 

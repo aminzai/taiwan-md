@@ -170,7 +170,7 @@ Und dieser Glaube hat die Insel letztlich frei gemacht.
 - [Sozialbewegungen im Taiwan der japanischen Kolonialzeit](/de/history/social-movements-during-japanese-rule) — Wie die Kolonialregierung Religion kontrollierte und wie Religion sich dagegen wehrte
 - [Zwei-Zwei-Acht-Vorfall](/de/history/228-incident) — Die Rolle der Religionswelt (besonders der Presbyterianischen Kirche) im politischen Wandel nach dem Krieg
 - [Chiang Wei-shui](/de/people/chiang-wei-shui) — Arzt und Revolutionär, im Dialog mit den religiösen Führern derselben Zeit
-- [Taiwanesische Sensibilität: Müssen wir warten, bis Koreaner unsere alten Häuser liken, bevor wir sagen dürfen, dass sie schön sind?](/culture/台灣感性) — Terrazzo, Eisengitterfenster – diese alltägliche taiwanesische Ästhetik findet sich am häufigsten in Tempeln erhalten
+- [Taiwanesische Sensibilität: Müssen wir warten, bis Koreaner unsere alten Häuser liken, bevor wir sagen dürfen, dass sie schön sind?](/de/culture/taiwanese-sensibility) — Terrazzo, Eisengitterfenster – diese alltägliche taiwanesische Ästhetik findet sich am häufigsten in Tempeln erhalten
 
 ## Referenzen
 

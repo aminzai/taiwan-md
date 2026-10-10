@@ -97,10 +97,10 @@ Das Jahr der Verlassenheit hätte das Ende dieser Straße sein sollen, aber es w
 
 **Weiterführende Lektüre:**
 
-- [Hsinchu County](/geography/新竹縣) — Der gesamte Kontext von Hsinchu, in dem sich Hukou befindet: Hakka-Glaube, Yimin Festival, eine andere Zeitwahrnehmung im Einzugsgebiet des Xi-bei-Flusses.
+- [Hsinchu County](/de/geography/hsinchu-county) — Der gesamte Kontext von Hsinchu, in dem sich Hukou befindet: Hakka-Glaube, Yimin Festival, eine andere Zeitwahrnehmung im Einzugsgebiet des Xi-bei-Flusses.
 - [Militärlager Hukou und Erinnerungen an die Siegerstraße](/de/history/hukou-camp-shengli-road-memory) — Dieselbe Geschichte von Hukou, aber die militärischen und politischen Erinnerungen innerhalb und außerhalb der Mauern.
-- [Hakka-Esskultur](/food/客家飲食文化) — Der kulturelle Hintergrund hinter den alten Straßen-Spezialitäten wie Taro und Tofu.
-- [Beitou Thermalbadstraße](/geography/北投溫泉街) — Eine andere alte Straße, die durch Bauprojekte ins Wanken geriet und durch das Engagement der Bewohner wiederbelebt wurde.
+- [Hakka-Esskultur](/de/food/hakka-food-culture) — Der kulturelle Hintergrund hinter den alten Straßen-Spezialitäten wie Taro und Tofu.
+- [Beitou Thermalbadstraße](/de/geography/beitou-hot-spring-street) — Eine andere alte Straße, die durch Bauprojekte ins Wanken geriet und durch das Engagement der Bewohner wiederbelebt wurde.
 
 ## Referenzen
 

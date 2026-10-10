@@ -146,9 +146,9 @@ Wenn man fragt, was die Koreaner in Taiwan hinterlassen haben, ist die Antwort m
 
 ## Weiterführende Lektüre
 
-- [Kaohsiung](/geography/高雄市) — Der städtische Hintergrund der koreanischen Schulzentren und lokalen Vereine in Kaohsiung.
+- [Kaohsiung](/de/geography/kaohsiung-city) — Der städtische Hintergrund der koreanischen Schulzentren und lokalen Vereine in Kaohsiung.
 - [Taiwanesisches Bildungssystem](/de/lifestyle/taiwan-education-system) — Das Systemverständnis von taiwanesischen Schulen, internationalen Studenten und zweisprachiger Bildung.
-- [Fusion von neuen taiwanischen Bewohnern mit Essen](/food/台灣新住民美食融合) — Ein Verständnis der interkulturellen Gemeinschaft in Taiwan durch Ernährung und Familienleben.
+- [Fusion von neuen taiwanischen Bewohnern mit Essen](/de/food/taiwanese-new-immigrant-culinary-fusion) — Ein Verständnis der interkulturellen Gemeinschaft in Taiwan durch Ernährung und Familienleben.
 
 ## Referenzen
 

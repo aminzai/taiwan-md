@@ -137,13 +137,13 @@ Aber vielleicht ist das die Antwort, die Taiwan in den kommenden Jahrzehnten akz
 
 **Weiterführende Literatur**:
 
-- [Zheng Xishan-Treffen 2026: Zehn Minuten, in denen sich die Führer beider Parteien zehn Jahre wiedersehen](/society/2026鄭習會與國共十年再會) — Während Zheng Xishan in Peking spricht, verbirgt sich hinter Hsiao Bi-khim’s zurückhaltender Reaktion im internationalen Raum eine weitere Frage: „Wer repräsentiert Taiwan?“
+- [Zheng Xishan-Treffen 2026: Zehn Minuten, in denen sich die Führer beider Parteien zehn Jahre wiedersehen](/de/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Während Zheng Xishan in Peking spricht, verbirgt sich hinter Hsiao Bi-khim’s zurückhaltender Reaktion im internationalen Raum eine weitere Frage: „Wer repräsentiert Taiwan?“
 - [Lai Ching-te](/de/people/lai-ching-te) — Die andere Hälfte dieses Paares: Ein Innenministeriumstechniker trifft auf eine diplomatische Kriegerin
-- [Zheng Xishan](/people/鄭麗文) — Ein Vergleich: Zwei der Frauen, die 2026 am häufigsten in den Medien erscheinen, mit völlig anderen Wegen und gegensätzlicher Taiwan-Sicht
-- [Taiwan-Krise und Entwicklung der Beziehungen zwischen den beiden Seiten des Taiwankanals](/history/台海危機與兩岸關係發展) — Während Hsiao Bi-khim als US-Vertreterin tätig war, fand eine entscheidende Phase der US-China-Beziehungen statt
-- [Taiwanische Demokratieentwicklung](/history/台灣民主轉型) — Die reformierte Kirchenfamilie von Hsiao Bi-khim’ Vater in Tai Nán war eine wichtige geistige Quelle der taiwanesischen Demokratie
-- [Zhuo Rongtai](/people/卓榮泰) — Erster Ministerpräsident von Lai Ching-te, am 20. Mai 2024 übergab er ihm das Amt während der Einführung von Hsiao Bi-khim
-- [Xu Qixin](/people/徐巧芯) — Eine weitere weibliche politische Figur in derselben politischen Struktur, mit einem völlig anderen Weg und einer gegensätzlichen Taiwan-Sicht wie Hsiao Bi-khim
+- [Zheng Xishan](/de/people/cheng-li-wun) — Ein Vergleich: Zwei der Frauen, die 2026 am häufigsten in den Medien erscheinen, mit völlig anderen Wegen und gegensätzlicher Taiwan-Sicht
+- [Taiwan-Krise und Entwicklung der Beziehungen zwischen den beiden Seiten des Taiwankanals](/de/history/taiwan-strait-crises-and-cross-strait-relations) — Während Hsiao Bi-khim als US-Vertreterin tätig war, fand eine entscheidende Phase der US-China-Beziehungen statt
+- [Taiwanische Demokratieentwicklung](/de/history/taiwan-democratization) — Die reformierte Kirchenfamilie von Hsiao Bi-khim’ Vater in Tai Nán war eine wichtige geistige Quelle der taiwanesischen Demokratie
+- [Zhuo Rongtai](/de/people/cho-jung-tai) — Erster Ministerpräsident von Lai Ching-te, am 20. Mai 2024 übergab er ihm das Amt während der Einführung von Hsiao Bi-khim
+- [Xu Qixin](/de/people/hsu-chiao-hsin) — Eine weitere weibliche politische Figur in derselben politischen Struktur, mit einem völlig anderen Weg und einer gegensätzlichen Taiwan-Sicht wie Hsiao Bi-khim
 
 ## Quellenangaben
 

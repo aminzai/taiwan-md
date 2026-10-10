@@ -228,14 +228,14 @@ Tainan ist der Ort, an dem Taiwan zuerst kolonisiert wurde, wo zum ersten Mal ei
 
 ## Weiterführende Lektüre
 
-- [Zheng Sucheng](/people/鄭成功) — Landung am 30. April 1661 durch den Lukermen-Pass, Tod im Alter von 38 Jahren in Chengxianfu am 23. Juni 1662; Gründer der ersten Han-Chinesischen Herrschaft Taiwans
-- [Ming-Ching-Ära](/history/荷西明鄭時期) — Die vollständige Geschichte Tainans von Fort Zeelandia bis zum Dongning Königreich (1624–1683)
-- [228er-Viertag](/history/二二八事件) — Der nationale Kontext der Ermordung Tang Dezhangs im Jahr 1947
+- [Zheng Sucheng](/de/people/koxinga) — Landung am 30. April 1661 durch den Lukermen-Pass, Tod im Alter von 38 Jahren in Chengxianfu am 23. Juni 1662; Gründer der ersten Han-Chinesischen Herrschaft Taiwans
+- [Ming-Ching-Ära](/de/history/dutch-spanish-and-koxinga-era) — Die vollständige Geschichte Tainans von Fort Zeelandia bis zum Dongning Königreich (1624–1683)
+- [228er-Viertag](/de/history/228-incident) — Der nationale Kontext der Ermordung Tang Dezhangs im Jahr 1947
 - [Lai Ching-te](/de/people/lai-ching-te) — Erster Bürgermeister nach der Fusion von Tainan 2010, Festlegung des 13. März als Tag des Rechts und Mutes 2014, Präsident seit 2024
-- [Lago Taihu](/geography/日月潭) — Ein zentrales Wahrzeichen neben Tainan; die Wasserbauprojekte von 1930 (Jia-Nan Großkanal) und 1934 (Wujie Dam) gehören zur Blütezeit der japanischen Wasserwirtschaft.
+- [Lago Taihu](/de/geography/sun-moon-lake) — Ein zentrales Wahrzeichen neben Tainan; die Wasserbauprojekte von 1930 (Jia-Nan Großkanal) und 1934 (Wujie Dam) gehören zur Blütezeit der japanischen Wasserwirtschaft.
 - [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Der gesamte Industriesektor, in dem Nanchang im Jahr 2023 mit 158,55 Milliarden Yuan Hsinchu übertraf.
-- [Keelung City](/geography/基隆市) — Pilotstudie der 22 Bezirke: Ein Hafenort wie Tainan, der von der zentralen Erzählung vergessen wurde.
-- [Nantou County](/geography/南投縣) — Teil der Serie „22 Bezirke“ mit einer Geschichte der Namensanerkennung indigener Völker wie Tainan.
+- [Keelung City](/de/geography/keelung-city) — Pilotstudie der 22 Bezirke: Ein Hafenort wie Tainan, der von der zentralen Erzählung vergessen wurde.
+- [Nantou County](/de/geography/nantou-county) — Teil der Serie „22 Bezirke“ mit einer Geschichte der Namensanerkennung indigener Völker wie Tainan.
 
 ## Bildquellen
 

@@ -131,10 +131,10 @@ Wichtiger noch: Tais Geist – nie aufgeben, immer weiterlernen, bescheiden und 
 
 **Weiterführende Lektüre**:
 
-- [Kuo Hsing-chun](/people/郭婞淳) – Olympia-Gold im Gewichtheben in Tokio, ebenfalls Kernmitglied der taiwanesischen Delegation, Amis-Athletin
-- [Lee Yang](/people/李洋) – zur selben Zeit Bewohner des Nationalen Trainingszentrums, nach zwei Goldmedaillen (Tokio/Paris) erster Sportminister
-- [Wang Chi-lin und Lee Yang](/people/麟洋配) – erstes ungesetztes Doppel der Geschichte mit zweimaliger olympischer Titelverteidigung
-- [Chou Tzu-yu](/people/周子瑜) – aus derselben Generation, ein Mädchen aus Tainan, das mit 13 sein Zuhause verließ, um für seine Träume zu kämpfen
+- [Kuo Hsing-chun](/de/people/kuo-hsing-chun-olympic-weightlifting-champion) – Olympia-Gold im Gewichtheben in Tokio, ebenfalls Kernmitglied der taiwanesischen Delegation, Amis-Athletin
+- [Lee Yang](/de/people/lee-yang-badminton) – zur selben Zeit Bewohner des Nationalen Trainingszentrums, nach zwei Goldmedaillen (Tokio/Paris) erster Sportminister
+- [Wang Chi-lin und Lee Yang](/de/people/lin-yang-duo-taiwan-badminton-champions) – erstes ungesetztes Doppel der Geschichte mit zweimaliger olympischer Titelverteidigung
+- [Chou Tzu-yu](/de/people/tzuyu) – aus derselben Generation, ein Mädchen aus Tainan, das mit 13 sein Zuhause verließ, um für seine Träume zu kämpfen
 
 ## Referenzen
 

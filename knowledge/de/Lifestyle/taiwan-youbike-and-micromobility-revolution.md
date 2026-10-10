@@ -85,9 +85,9 @@ Der wichtigste Aspekt von YouBike ist nicht, ob es eine bestimmte Transportform 
 
 **Weiterführende Lektüre**:
 
-- [Taiwan Verkehrssystem](/lifestyle/台灣交通系統) — YouBike ist die letzte Meile dieses Systems; dieser Artikel ergänzt den vorgelagerten Kontext.
+- [Taiwan Verkehrssystem](/de/lifestyle/transportation-system) — YouBike ist die letzte Meile dieses Systems; dieser Artikel ergänzt den vorgelagerten Kontext.
 - [Geschichte des U-Bahn-Ausbaus in Taiwan](/de/lifestyle/history-of-taiwan-mrt-development) — Warum muss YouBike mit der MRT verbunden sein? Wie wurde diese Verbindung zur alltäglichen Infrastruktur?
-- [Klimakrise und Netto-Null-Transformation in Taiwan](/nature/台灣氣候危機與淨零轉型) — Die Rolle der Mikromobilität im Anteil von 28 % an grüner Mobilität.
+- [Klimakrise und Netto-Null-Transformation in Taiwan](/de/nature/taiwan-climate-change-net-zero-transition) — Die Rolle der Mikromobilität im Anteil von 28 % an grüner Mobilität.
 
 ## Quellenverzeichnis
 

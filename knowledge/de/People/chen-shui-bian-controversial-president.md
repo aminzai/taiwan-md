@@ -202,7 +202,7 @@ An diesem Tag wussten die Menschen Taiwans zum ersten Mal, dass dies wahr war.
 
 ## Weiterführende Lektüre
 
-- [Chen Chih-chung](/people/陳致中) — Erstgeborener. Er wurde dreimal in den Stadtrat von Xiaogang in Kaohsiung gewählt; zwei Amtszeiten endeten vorzeitig durch Gesetze, und er darf seit 2023 nicht mehr als Kandidat registriert werden.
+- [Chen Chih-chung](/de/people/chen-chih-chung) — Erstgeborener. Er wurde dreimal in den Stadtrat von Xiaogang in Kaohsiung gewählt; zwei Amtszeiten endeten vorzeitig durch Gesetze, und er darf seit 2023 nicht mehr als Kandidat registriert werden.
 - [蘇貞昌](/de/people/su-tseng-chang/) — Partner des Badeisland-Verteidigungsteams, späterer Premierminister.
 - Xie Chang-ting — Partner des Badeisland-Verteidigungsteams, späterer Premierminister.
 - [呂秀蓮](/de/people/annette-lu/) — Vizepräsidentin 2000 / 2004.

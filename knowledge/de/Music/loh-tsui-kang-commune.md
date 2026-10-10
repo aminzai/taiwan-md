@@ -119,8 +119,8 @@ Man kann das als Tragödie bezeichnen. Man kann es auch als den punkigsten Absch
 
 ## Weiterführende Literatur
 
-- [Taiwanesische unabhängige Musik](/music/台灣獨立音樂) – Von der Schallplattenindustrie bis zur Underground-Szene bis zur Streaming-Ära: Dreißig Jahre der taiwanesischen unabhängigen Musikszene
-- [Nichia Band](/music/滅火器樂團) – Ebenfalls mit taiwanesischem Punk, um die Zeit zu dokumentieren. Zweiundzwanzig Jahre, von Süd-Taiwan nach Kaohsiung
+- [Taiwanesische unabhängige Musik](/de/music/indie-music-scene) – Von der Schallplattenindustrie bis zur Underground-Szene bis zur Streaming-Ära: Dreißig Jahre der taiwanesischen unabhängigen Musikszene
+- [Nichia Band](/de/music/fire-ex) – Ebenfalls mit taiwanesischem Punk, um die Zeit zu dokumentieren. Zweiundzwanzig Jahre, von Süd-Taiwan nach Kaohsiung
 - [Geschichte des taiwanesischen Rocks](/de/music/taiwan-rock-from-underground-to-mainstream) – Die vollständige Geschichte des taiwanesischen Rocks von der Untergrundszene bis in die Mainstream-Kultur
 - [Gold-Globe-Preis](/de/music/pop-music-and-golden-melody-awards) – Vierzig Jahre Gold-Globe-Preis: Der jährliche Spiegel der taiwanesischen Musikindustrie
 

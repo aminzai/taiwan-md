@@ -237,7 +237,7 @@ Von dem Erfolg von AppWorks bis zum Kapitalmarkterfolg von Gogoro, Appier und 91
 - [Offizielle Website von AppWorks](https://appworks.tw/): Der größte Startup-Accelerator Taiwans, inklusive Ökosystemdaten und Portfoliounternehmen
 - [National Development Council – Startup-Website](https://startup.ndc.gov.tw/): Zusammenstellung staatlicher Gründungsrichtlinien und Subventionsinformationen
 - [Digital Age BusinessNext](https://www.bnext.com.tw/): Tiefgehende Berichterstattung über die taiwanesische Startup-Industrie
-- [AAMA Taipei Cradle Plan](/economy/AAMA台北搖籃計畫): Ein zweijähriges One-on-One-Mentoring ohne Investition oder Beteiligung, initiiert 2012 von Zhan Hongzhi und Yan Loushou, eine andere Form der Startup-Unterstützung jenseits des Accelerator-Modells
+- [AAMA Taipei Cradle Plan](/de/economy/aama-taipei-cradle-program): Ein zweijähriges One-on-One-Mentoring ohne Investition oder Beteiligung, initiiert 2012 von Zhan Hongzhi und Yan Loushou, eine andere Form der Startup-Unterstützung jenseits des Accelerator-Modells
 - [SLP Taipei Entrepreneurship Leadership Plan](/de/economy/slp-taipei-startup-leadership-program): Die taiwanesische Niederlassung dieses globalen gemeinnützigen Gründungs-Trainingsprogramms von 2012; ein sechsmonatiger Intensivkurs gegen eine einmalige Gebühr ohne Aktienbeteiligung
 
 ## Referenzen

@@ -189,5 +189,5 @@ Die Verwirrung des deutschen Professors ist in der Tat die Antwort.
 - [Nachtmarktkultur](/de/food/night-market-culture) — Eine tiefere Analyse des Nachtmarkts als sozialer Raum
 - [Tee mit Perlen](/de/food/bubble-tea) — Die globale Herrschaft der flüssigen Snacks
 - [Taiwan-Reis mit Schweinefleisch](/de/food/braised-pork-rice) — Die Erinnerung an eine Familie in einem Schüssel Reis
-- [Hakka-Kültur](/food/客家飲食文化) — Die Weisheit der Hakka in der Küche
+- [Hakka-Kültur](/de/food/hakka-food-culture) — Die Weisheit der Hakka in der Küche
 - [Die kulinarische Verschmelzung der neuen taiwanesischen Ehepaare](/de/food/taiwanese-new-immigrant-culinary-fusion) — Die nächste Welle der kulturellen Mischung in der Küche

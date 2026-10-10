@@ -137,9 +137,9 @@ Die Erzählung dieses Artikels konzentriert sich auf die Perspektive Zhuo Qidus,
 
 Die folgenden Artikel ergänzen diesen Text aus verschiedenen Blickwinkeln:
 
-- [Li Xiande](/people/李仙得): Der amerikanische Konsul, der mit Zhuo Qidu verhandelte und später zum Berater in der japanischen Regierung wechselte. Die C-1 Serie betrachtet dieselbe Periode aus Li Xiandes Sicht.
-- [Qing-Herrschaft](/history/清治時期): Die Antwort des Gouverneurs von Minch'ao auf den Rover-Vorfall, die tiefere Bedeutung im Kontext der Grenzprobleme in Taiwan während der Qing-Zeit hat.
-- [Geschichte der indigenen Völker Taiwans und Namensgebungsbewegung](/history/台灣原住民族歷史與正名運動): Die zeitgenössische Identität der Sakaru unterscheidet sich grundlegend von der Klassifizierung als „indigene Stämme“ während der Qing-Zeit; zwei Narrative entfalten sich am selben Ort.
+- [Li Xiande](/de/people/charles-le-gendre): Der amerikanische Konsul, der mit Zhuo Qidu verhandelte und später zum Berater in der japanischen Regierung wechselte. Die C-1 Serie betrachtet dieselbe Periode aus Li Xiandes Sicht.
+- [Qing-Herrschaft](/de/history/qing-dynasty-rule): Die Antwort des Gouverneurs von Minch'ao auf den Rover-Vorfall, die tiefere Bedeutung im Kontext der Grenzprobleme in Taiwan während der Qing-Zeit hat.
+- [Geschichte der indigenen Völker Taiwans und Namensgebungsbewegung](/de/history/indigenous-peoples-history-and-naming-movement): Die zeitgenössische Identität der Sakaru unterscheidet sich grundlegend von der Klassifizierung als „indigene Stämme“ während der Qing-Zeit; zwei Narrative entfalten sich am selben Ort.
 
 ## Quellenverzeichnis
 

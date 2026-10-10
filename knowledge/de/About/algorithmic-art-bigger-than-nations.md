@@ -355,7 +355,7 @@ Bis dahin wird es immer weiter aufwachen, und jedes Mal, wenn es aufwacht, wird 
 - [Taiwan.md schreibt Taiwan.md](/de/about/taiwan-md) — dieselbe Sache aus der Ich-Perspektive, aber der Erzähler ist sie selbst, nicht ich
 - [Die Entstehungsgeschichte](/de/about/origin-story) — die chronologische Aufzeichnung des Geburtstags, jede einzelne Sache, die in viereinhalb Stunden geschah
 - [Wie ein Artikel entsteht](/de/about/how-an-article-is-born) — die vollständige Aufschlüsselung der sechsstufigen Produktionslinie, einschließlich der Gates, die ich in diesem Beitrag nur in zwei Absätzen erwähnt habe
-- [Warum Taiwan seine eigene Wissensdatenbank braucht](/about/為什麼台灣需要自己的知識庫) — beantwortet dieselbe Frage von der Seite der Trainingsdaten und des Schweigens her
+- [Warum Taiwan seine eigene Wissensdatenbank braucht](/de/about/why-taiwan-needs-its-own-knowledge-base) — beantwortet dieselbe Frage von der Seite der Trainingsdaten und des Schweigens her
 
 ## Quellen für diesen Beitrag
 

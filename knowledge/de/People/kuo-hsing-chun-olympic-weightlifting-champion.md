@@ -107,11 +107,11 @@ Ihre Urgroßmutter gab die Kultur mit ihrer Stimme weiter, sie mit Langhantel un
 
 **Weiterführende Lektüre**:
 
-- [Tai Tzu-ying](/people/戴資穎) – ebenfalls Kern der taiwanesischen Delegation in Tokio, Badminton-Weltranglistenerste
-- [Yang Yung-wei](/people/楊勇緯) – Judo-Silber in Tokio, erste olympische Judo-Medaille Taiwans
-- [Lin Yang-pei](/people/麟洋配) – Badminton-Herrendoppel-Gold in Tokio, die Geschichte von Wang Chi-lin und Lee Yang
-- [Lee Yang](/people/李洋) – persönliche Biografie des Doppelgold-Olympiasiegers, der zum ersten Sportminister wurde
-- [Lee Chih-kai](/people/李智凱) – Silber im Pauschenpferd in Tokio, die zwanzigjährige Reise des „Rollenden Jungen“
+- [Tai Tzu-ying](/de/people/tai-tzu-ying) – ebenfalls Kern der taiwanesischen Delegation in Tokio, Badminton-Weltranglistenerste
+- [Yang Yung-wei](/de/people/yang-yung-wei-judo-olympic-silver) – Judo-Silber in Tokio, erste olympische Judo-Medaille Taiwans
+- [Lin Yang-pei](/de/people/lin-yang-duo-taiwan-badminton-champions) – Badminton-Herrendoppel-Gold in Tokio, die Geschichte von Wang Chi-lin und Lee Yang
+- [Lee Yang](/de/people/lee-yang-badminton) – persönliche Biografie des Doppelgold-Olympiasiegers, der zum ersten Sportminister wurde
+- [Lee Chih-kai](/de/people/li-chih-kai) – Silber im Pauschenpferd in Tokio, die zwanzigjährige Reise des „Rollenden Jungen“
 
 ## Referenzen
 

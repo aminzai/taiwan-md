@@ -160,9 +160,9 @@ Das ist der nützlichste Aspekt der Inselgeschichte für die breite Öffentlichk
 
 - [Formosa](/de/history/formosa-historical-name) — Vom westlichen „Entdeckungs“-Erzählen zurück zu Taiwans Namensgebung, Vorstellung und Neuinterpretation.
 - [Niederländisch-Spanische Zheng-Zeit](/de/history/dutch-spanish-and-koxinga-era) — Wie Taiwan im 17. Jahrhundert in das ostasiatische Meer, die europäische Kolonialherrschaft und die lokale Gesellschaft einbezogen wurde.
-- [228-Vorfall](/history/二二八事件) — Wie die Machtübernahme nach dem Krieg zu einem der tiefsten Brüche im taiwanesischen Gedächtnis wurde.
-- [Nationales Museum für taiwanesische Geschichte](/society/國立臺灣歷史博物館) — Wie ein staatliches Museum die Inselgeschichte als öffentliche Ausstellung verwirklichte.
-- [Inseldenken](/culture/群島思維) — Von einer einzelnen Insel nach außen blicken, um das Verhältnis Taiwans zu den umliegenden Inseln und dem Meer zu verstehen.
+- [228-Vorfall](/de/history/228-incident) — Wie die Machtübernahme nach dem Krieg zu einem der tiefsten Brüche im taiwanesischen Gedächtnis wurde.
+- [Nationales Museum für taiwanesische Geschichte](/de/society/national-museum-of-taiwan-history) — Wie ein staatliches Museum die Inselgeschichte als öffentliche Ausstellung verwirklichte.
+- [Inseldenken](/de/culture/archipelago-thinking) — Von einer einzelnen Insel nach außen blicken, um das Verhältnis Taiwans zu den umliegenden Inseln und dem Meer zu verstehen.
 
 ## Bildnachweise
 

@@ -166,7 +166,7 @@ Diese Vögel lebten tausende Jahre in Formosa. 1863 war das erste Jahr, in dem s
 - **→ [Krieg des Opium-Krieg](/zh-tw/history/清法戰爭)** — Eine andere Begegnung Formosa mit dem Westen zur gleichen Zeit, 22 Jahre getrennt.
 - **→ [Li Xianti](/zh-tw/people/李仙得)** — Ein anderer Westler, der die Geschichte Formosa veränderte, 1867 in der Behandlung des Lu-Fa-Schiffes.
 - **→ [Schwarzkittelsee](/zh-tw/nature/黑冠麻鷺)** — Die Schwarzkittel, die Swinhoe 1865 in Tamsui gesammelt hat, ist eines der Einträge in dieser Liste; was damals als selten galt, ist heute zur alltäglichen Szenerie in Taipeher Schulen und Parks geworden — eine dramatische Fortsetzung.
-- **→ [Schwalbenschwalbe](/nature/黃魚鴞)** — Eine Art, die Swinhoe 1863 in seiner Liste nicht erwähnte; Taiwans größter Uhu wurde erst 1916 von Hattori Takayuki entdeckt — ein Vertreter der Arten, die erst spät in die Wissenschaft aufgenommen wurden.
+- **→ [Schwalbenschwalbe](/de/nature/tawny-fish-owl)** — Eine Art, die Swinhoe 1863 in seiner Liste nicht erwähnte; Taiwans größter Uhu wurde erst 1916 von Hattori Takayuki entdeckt — ein Vertreter der Arten, die erst spät in die Wissenschaft aufgenommen wurden.
 
 ---
 

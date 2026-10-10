@@ -182,7 +182,7 @@ Er gab „Taiwanische brandgefährdete Offendaten analysieren" rein, System selb
 Er sagte in sciwork 2026 Präsentation
 ```
 
-Nur Sammlung zählt nicht. Diese Pipeline zerlegt nächst Brand in sechs Phasen (Vorbeugung, Reaktion, Meldung, Brandsache-Analyse, Verlust, Bericht), multipliziert mit 22 Landkreisen, läuft eine Abdeckungs-Matrix, zieht auch Hsinchus Brandgefahrenkarte, Taipehs schwer-zu-rettende Bezirke, [Taoyuan-Fischteiches](/geography/桃園埤塘/) Rettung – lokale Bestandsaufnahmen wurden alle ausgegraben. Es kennzeichnet sogar ehrlich Lücken: Keine Brand-Echtzeit-API, Ereignis-Koordinaten seltener, Nach-Katastrophen-Daten nicht öffentlich.
+Nur Sammlung zählt nicht. Diese Pipeline zerlegt nächst Brand in sechs Phasen (Vorbeugung, Reaktion, Meldung, Brandsache-Analyse, Verlust, Bericht), multipliziert mit 22 Landkreisen, läuft eine Abdeckungs-Matrix, zieht auch Hsinchus Brandgefahrenkarte, Taipehs schwer-zu-rettende Bezirke, [Taoyuan-Fischteiches](/de/geography/taoyuan-ponds/) Rettung – lokale Bestandsaufnahmen wurden alle ausgegraben. Es kennzeichnet sogar ehrlich Lücken: Keine Brand-Echtzeit-API, Ereignis-Koordinaten seltener, Nach-Katastrophen-Daten nicht öffentlich.
 
 Dann Analyse. Er gab ein Bestandsbrandursachen-Bericht aus – von 15.405 Brandakten 113 Jahr Landesstatistik, Neue-Nord-Stadt Top-Brandsache ist Elektrik (30,9%), Pingdong-Kreis ist Zigarettenstummel (35,2%)[^3]. Diese Zahlen waren aus Agent nach API-Verbindung Ergebnis in Rede-Screenshot, nicht seine Zeile-für-Zeile Berechnung.
 
@@ -198,7 +198,7 @@ _Migus sciwork 2026 Rede-Zentrum-Öffnung: Einen Satz „Taiwanische Branddaten 
 
 ## Vier trennbare Schritte: Daten rein, Bericht schickt sich selbst raus
 
-Diese Waldbrand-Pipeline ist nur ein Schnitt, Hintergrund ist sein ganzes System-Abbild. System in vier Schritten: Daten-Empfang, Wissens-Integration, Analyse-Erzeugung, Aktion-Auslösung. Er betont besonders „jeder Schritt kann einzeln getauscht werden, ganzes braucht nicht Neubau". Die unterste Daten-Empfangsschicht – auch er evolvierte: Anfang manuell zu data.gov.tw Klick-Excel-Download, selbst lesen-speichern, Engpass „Gehirn-Erinnerung"; Mitte: online API suchen, PDF kratzen, Landkreis-Seiten crawlen, Problem „kein Index"; Jetzt: Jeder Datensatz Meta-Information standardisiert in SQLite-Katalog speichern, auto-abfragbar, auto-erweiterbar[^3]. Sein System hängt 40+ Daten-Sammler: von YouBike, Bus, Landstraße-Verkehr, zu Taiwan-Bahn-Fahrplan, Schiff-AIS, Wettersatellit, [Erdbeben](/society/地震/), Staudamm-Wasser, Luftqualität – und dreimal falsch bricht gleich Telegram-Alarm, jeden Morgen 9 Uhr schickt Daily Review zu Postfach[^3].
+Diese Waldbrand-Pipeline ist nur ein Schnitt, Hintergrund ist sein ganzes System-Abbild. System in vier Schritten: Daten-Empfang, Wissens-Integration, Analyse-Erzeugung, Aktion-Auslösung. Er betont besonders „jeder Schritt kann einzeln getauscht werden, ganzes braucht nicht Neubau". Die unterste Daten-Empfangsschicht – auch er evolvierte: Anfang manuell zu data.gov.tw Klick-Excel-Download, selbst lesen-speichern, Engpass „Gehirn-Erinnerung"; Mitte: online API suchen, PDF kratzen, Landkreis-Seiten crawlen, Problem „kein Index"; Jetzt: Jeder Datensatz Meta-Information standardisiert in SQLite-Katalog speichern, auto-abfragbar, auto-erweiterbar[^3]. Sein System hängt 40+ Daten-Sammler: von YouBike, Bus, Landstraße-Verkehr, zu Taiwan-Bahn-Fahrplan, Schiff-AIS, Wettersatellit, [Erdbeben](/de/society/earthquakes-in-taiwan/), Staudamm-Wasser, Luftqualität – und dreimal falsch bricht gleich Telegram-Alarm, jeden Morgen 9 Uhr schickt Daily Review zu Postfach[^3].
 
 Zum letzten Schritt „Aktion-Auslösung" klärt er die menschliche Rolle am klarsten: „Agent läuft ganzen Kreislauf. Menschliche Rolle: Ziel geben, Bericht nehmen. Dazwischen fünf Zahnräder drehen selbst: entdecken, sammeln, integrieren, produzieren, beobachten." System produziert sogar auto „diese Woche neue Offendaten" Wochenbericht. Sein Wort: „Thema taucht selbst auf, Bericht schickt sich selbst in Postfach."[^3]
 
@@ -264,10 +264,10 @@ Aber Form taucht schon auf. Ein Mensch, ein Satz, atmende Karte dahinter, ist ei
 
 ## Weiterführende Lektüre
 
-- [Che-Yu Wu](/people/吳哲宇): Taiwan.md Schöpfer, nutzt ebenso Code und generativ Werkzeug um „selbst-wachsendes Ding" erreichen
-- [Open-Source-Gesellschaft und g0v](/technology/開源社群與g0v): „Code verändert Gesellschaft" Kollektiv-Kontext, Migus einzeln × Agent Stil Vergleichsgruppe
-- [Taiwanischer Open-Source-Geist](/technology/台灣開源精神): Von Tastatur-Rettung bis Offendaten, Taiwanischer Bürgerwissenschaft Untergrund-Kultur
-- [Digitale Identität und Digitale Regierung](/technology/數位身分證與數位政府): Regierungs-Offendaten Infrastruktur die andere Seite
+- [Che-Yu Wu](/de/people/che-yu-wu): Taiwan.md Schöpfer, nutzt ebenso Code und generativ Werkzeug um „selbst-wachsendes Ding" erreichen
+- [Open-Source-Gesellschaft und g0v](/de/technology/open-source-and-g0v): „Code verändert Gesellschaft" Kollektiv-Kontext, Migus einzeln × Agent Stil Vergleichsgruppe
+- [Taiwanischer Open-Source-Geist](/de/technology/taiwan-open-source-spirit): Von Tastatur-Rettung bis Offendaten, Taiwanischer Bürgerwissenschaft Untergrund-Kultur
+- [Digitale Identität und Digitale Regierung](/de/technology/digital-id-and-digital-government): Regierungs-Offendaten Infrastruktur die andere Seite
 
 ## Projekt-Links
 

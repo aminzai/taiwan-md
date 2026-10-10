@@ -85,7 +85,7 @@ Fünf Jahrzehnte Karriere, ohne in einer einzigen Identität stehen zu bleiben �
 
 Von der Gonghe Road in Chiayi über Taipeh und Hongkong und die Pendelbewegung zwischen beiden Seiten der Taiwanstraße – Sylvia Changs fünf Jahrzehnte sind keine lineare Erfolgsgeschichte, sondern das Protokoll eines Menschen, der sich zwischen verschiedenen Identitäten ständig bewegt und in keiner bequemen Position verharren will. Ihr Name steht in der taiwanesischen Unterhaltungsgeschichte für eine Lebenshaltung, die Schöpfer wählen können – weit über das hinaus, was ein einzelner persönlicher Erfolg umfassen könnte.
 
-**Weiterführende Lektüre:** [Sylvia Chang – Wikipedia](https://zh.wikipedia.org/wiki/張艾嘉) ｜ [Golden-Horse-Datenbank](https://www.goldenhorse.org.tw/awards/nw/?serach_type=award&search_item=person&search_text=%E5%BC%B5%E8%89%BE%E5%98%89) ｜ [Edward Yang](/people/楊德昌) – „Ein Tag am Meer“, in dem sie die Hauptrolle spielte, ist Edward Yangs erster abendfüllender Spielfilm
+**Weiterführende Lektüre:** [Sylvia Chang – Wikipedia](https://zh.wikipedia.org/wiki/張艾嘉) ｜ [Golden-Horse-Datenbank](https://www.goldenhorse.org.tw/awards/nw/?serach_type=award&search_item=person&search_text=%E5%BC%B5%E8%89%BE%E5%98%89) ｜ [Edward Yang](/de/people/yang-dechang) – „Ein Tag am Meer“, in dem sie die Hauptrolle spielte, ist Edward Yangs erster abendfüllender Spielfilm
 
 ## Referenzen
 

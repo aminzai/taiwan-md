@@ -138,8 +138,8 @@ Diese Rolle ist zwangsläufig mit Reibung verbunden. Manche finden seine Sorge u
 
 - [Du Yijin](/de/people/ethan-tu) — Von PTT zu Microsoft und zum taiwanesischen KI-Labor: Ein anderer Weg der taiwanesischen KI.
 - [Morris Chang](/de/people/tsmc-morris-chang) — Ein weiteres Prototyp des taiwanesischen Technologiegeschäfts „Zuerst selbst machen, dann weltweit“.
-- [Taiwan AI School](/technology/台灣人工智慧學校) — Wie Taiwan die Lücke bei den KI-Talenten durch zivilgesellschaftliche Mittel schließt.
-- [Shi Zhenrong](/people/施振榮) — Ein weiterer technologischer Patriarch, der bereit ist, vor der Kamera über Taiwan zu sprechen – vom Auftragsfertiger zur Marke.
+- [Taiwan AI School](/de/technology/taiwan-ai-academy) — Wie Taiwan die Lücke bei den KI-Talenten durch zivilgesellschaftliche Mittel schließt.
+- [Shi Zhenrong](/de/people/stan-shih) — Ein weiterer technologischer Patriarch, der bereit ist, vor der Kamera über Taiwan zu sprechen – vom Auftragsfertiger zur Marke.
 
 ## Bildquellen
 

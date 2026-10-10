@@ -132,11 +132,11 @@ Die Handelskriege auf dieser Insel hören nicht auf. Jeder neue QR-Code, jedes n
 
 **Weiterführende Links**:
 
-- [Taiwans FinTech-Entwicklung](/economy/台灣金融科技發展) – Von Neobanken über Open Banking bis Regulatory Sandbox, der volle Panorama der digitalen Transformation der Finanzbranche
-- [Taiwans Mobile Payment](/technology/台灣行動支付) – Vom Verbraucher über Händler bis TWQR verstehen, warum Bargeld trotz普及 von Handy-Zahlung täglicher Notnagel bleibt
+- [Taiwans FinTech-Entwicklung](/de/economy/taiwan-fintech-development) – Von Neobanken über Open Banking bis Regulatory Sandbox, der volle Panorama der digitalen Transformation der Finanzbranche
+- [Taiwans Mobile Payment](/de/technology/taiwan-mobile-payment) – Vom Verbraucher über Händler bis TWQR verstehen, warum Bargeld trotz普及 von Handy-Zahlung täglicher Notnagel bleibt
 - [Taiwans 5G-Netzausbau und digitale Transformation](/de/technology/taiwan-5g-digital-transformation) – Wie 5G-Infrastruktur Logistik-Tracking, Livestream-Shopping und Smart Retail verändert
-- [Taiwans Software-Industrie-Entwicklung](/technology/台灣軟體產業發展) – Vom OEM zur Eigenmarke, wie die Software-Industrie die technische Basis von E-Commerce-Plattformen trägt
-- [Taiwans Zollabfertigung und EZ WAY](/lifestyle/台灣海關報關制度與EZWAY) – Die letzte Hürde für Cross-Border-E-Commerce-Pakete nach Taiwan: Wer betreibt die Zoll-App, wie wird die Freigrenze festgelegt
+- [Taiwans Software-Industrie-Entwicklung](/de/technology/taiwan-software-industry-development) – Vom OEM zur Eigenmarke, wie die Software-Industrie die technische Basis von E-Commerce-Plattformen trägt
+- [Taiwans Zollabfertigung und EZ WAY](/de/lifestyle/ezway) – Die letzte Hürde für Cross-Border-E-Commerce-Pakete nach Taiwan: Wer betreibt die Zoll-App, wie wird die Freigrenze festgelegt
 
 ## Quellen
 

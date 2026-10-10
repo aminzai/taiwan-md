@@ -114,13 +114,13 @@ Exotische Einflüsse und multikulturelle Elemente kamen über das Meer nach Taiw
 
 **Weiterführende Lektüre**:
 
-- [Prähistorische Zeit und Ureinwohner](/history/史前時代與原住民) — Die autonome Gesellschaft auf der Insel vor der Ankunft der Niederländer
+- [Prähistorische Zeit und Ureinwohner](/de/history/prehistoric-era-and-indigenous-peoples) — Die autonome Gesellschaft auf der Insel vor der Ankunft der Niederländer
 - [Qing-Regierungszeit](/de/history/qing-dynasty-rule) — Die 212 Jahre nach 1683: Wie Taiwan von einer „kleinen Präfektur“ zu einer Provinz wurde
-- [Taiwanische Seefahrtsgeschichte](/history/台灣海洋貿易史) — Der vollständige Kontext des Handelsnetzes von den Niederlanden über Dongning bis zur Qing-Regierungszeit
-- [Geschichte und Namensgebung der Ureinwohner Taiwans](/history/台灣原住民族歷史與正名運動) — Die Pangpao-Völker, die durch die Welle chinesischer Einwanderung getroffen wurden
-- [Island-zentrierte Sicht auf Taiwan](/history/台灣島史觀) — Die Kernperspektive von Tsao Yung-he mit Fokus auf die Insel
+- [Taiwanische Seefahrtsgeschichte](/de/history/taiwan-maritime-trade-history) — Der vollständige Kontext des Handelsnetzes von den Niederlanden über Dongning bis zur Qing-Regierungszeit
+- [Geschichte und Namensgebung der Ureinwohner Taiwans](/de/history/indigenous-peoples-history-and-naming-movement) — Die Pangpao-Völker, die durch die Welle chinesischer Einwanderung getroffen wurden
+- [Island-zentrierte Sicht auf Taiwan](/de/history/taiwan-island-historiography) — Die Kernperspektive von Tsao Yung-he mit Fokus auf die Insel
 - [Formosa](/de/history/formosa-historical-name) — Der Streit um den Namen „Formosa“ und wie die westliche Welt diese Insel in vierhundert Jahren beschrieben hat
-- [Nationales Museum für Taiwanische Geschichte](/society/國立臺灣歷史博物館) — Die Dauerausstellung 3 („Die vom Meer genährte Insel und ihre Menschen“) und die internationale Sonderausstellung von 2024 zeigen diesen Zeitraum; 1624 ist das Jahr, in dem die VOC Fort Zeelandia in Tainan gründete.
+- [Nationales Museum für Taiwanische Geschichte](/de/society/national-museum-of-taiwan-history) — Die Dauerausstellung 3 („Die vom Meer genährte Insel und ihre Menschen“) und die internationale Sonderausstellung von 2024 zeigen diesen Zeitraum; 1624 ist das Jahr, in dem die VOC Fort Zeelandia in Tainan gründete.
 
 ## Quellenverzeichnis
 

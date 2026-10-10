@@ -194,7 +194,7 @@ Bevor der Leser diese Seite schließt, kann er sich eine kleine Frage stellen �
 
 **Weiterführende Lesungen**:
 
-- [Li Shi She](/art/笠詩社) — Das lokale Vereinsnetzwerk, dem sie 1965 beitrat
+- [Li Shi She](/de/art/li-poetry-society) — Das lokale Vereinsnetzwerk, dem sie 1965 beitrat
 - [228-Ereignis](/de/history/228-incident) — Die strukturelle Wunde der ganzen Insel im Fall Zhang Qilang
 - [Taiwanischer Terrorismus](/de/history/taiwan-white-terror) — Der institutionelle Hintergrund der politischen Lesart von Ping'an Xi
 - [Taiwanische Literaturgeschichte](/de/art/history-of-taiwanese-literature) — Die langfristige Position der Generation der Sprachenübergänger und der Muttersprachlichen Literatur

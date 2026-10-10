@@ -283,7 +283,7 @@ Dieses Mal führte dieser Satz von einem Testbericht vom 13. Mai über eine Meld
 
 **Weiterführende Lektüre**:
 
-- [Liefergesetz](/society/外送專法) — Das am 21. Juli in Kraft getretene Spezialgesetz regelt genau die Menschen, die diese Bentoboxen zur Tür bringen.
+- [Liefergesetz](/de/society/delivery-platform-law) — Das am 21. Juli in Kraft getretene Spezialgesetz regelt genau die Menschen, die diese Bentoboxen zur Tür bringen.
 - [Taiwans Lebensmittelübersicht](/de/food/taiwan-food-overview) — Weichmacher, Datong-Öl, Abwasseröl – wie wurde diese Zeitleiste der Lebensmittelsicherheit zum gemeinsamen Essengedächtnis der Taiwaner.
 - [Taiwans öffentliches Gesundheitswesen und Epidemiepräventionssystem](/de/society/taiwan-public-health-epidemic-response) — Wie funktioniert das öffentliche Gesundheitssystem, in dem die Behörde für Lebensmittel- und Arzneimittelsicherheit und die Gesundheitsämter tätig sind.
 - [Taiwans Justizreform und das System der präventiven Untersuchungshaft](/de/society/taiwan-judicial-reform-and-preventive-detention) — Mehrere hochrangige Beamte in diesem Fall wurden in Untersuchungshaft ohne Besuchsrecht genommen, dieser Artikel behandelt genau die Grenzen und Kontroversen dieser Zwangsmaßnahme.

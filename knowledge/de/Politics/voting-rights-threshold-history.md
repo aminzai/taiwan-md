@@ -36,7 +36,7 @@ Das war das erste Mal, dass ein Reformvorstoß seit der siebten Verfassungsrefor
 
 Um vier Uhr wurden die Urnen geschlossen, gegen halb fünf begannen die Ergebnisse zu erscheinen. Am Abend desselben Tages veröffentlichte das Zentralwahlamt: 5.647.102 Ja-Stimmen, 5.016.427 Nein-Stimmen, eine Zustimmungsrate von etwa 53 % und eine Wahlbeteiligung von 59,10 %[^3]. Die Ja-Stimmen lagen um 600.000 über den Nein-Stimmen – ein Ergebnis, in dem mehr als die Hälfte aller Bezirke zustimmte: Doch da die Schwelle für den Volksentscheid bei „Mehrheit aller Wahlberechtigten im freien Gebiet der Republik China“ (damals 9.619.697 Stimmen) festgelegt war, blieben die Stimmen um 3,97 Millionen unter der notwendigen Schwelle[^4].
 
-Die [2026er Neun-in-einem-Wahlen](/de/politics/2026-local-elections-taiwan/) werden ebenfalls diese neun Positionen wählen, das System von [Neun-in-einem-Wahlen](/politics/九合一選舉是什麼) bleibt unverändert, die Struktur der Wähler bleibt unverändert, und diese 20-jährige Wahlschwelle bleibt ebenfalls unverändert: Die Frage, die dieser Artikel beantworten will, ist einfach: Warum hat Taiwans Wahlschwelle in 75 Jahren nicht geändert?
+Die [2026er Neun-in-einem-Wahlen](/de/politics/2026-local-elections-taiwan/) werden ebenfalls diese neun Positionen wählen, das System von [Neun-in-einem-Wahlen](/de/politics/nine-in-one-elections-explained) bleibt unverändert, die Struktur der Wähler bleibt unverändert, und diese 20-jährige Wahlschwelle bleibt ebenfalls unverändert: Die Frage, die dieser Artikel beantworten will, ist einfach: Warum hat Taiwans Wahlschwelle in 75 Jahren nicht geändert?
 
 ---
 
@@ -196,11 +196,11 @@ Die Zeitabläufe demokratischer Systeme sind langsamer als eine Generation. Die 
 
 ## Weiterführende Literatur
 
-- [Was sind „Neun-in-einem“-Wahlen?](/politics/九合一選舉是什麼): Die Herkunft des Systems der neun verschiedenen lokalen Wahlen, die im November 2026 erneut stattfinden
+- [Was sind „Neun-in-einem“-Wahlen?](/de/politics/nine-in-one-elections-explained): Die Herkunft des Systems der neun verschiedenen lokalen Wahlen, die im November 2026 erneut stattfinden
 - [2026er Neun-in-einem-Wahlen](/politics/2026 九合一選舉): Zeitplan, Kandidaturen und Themen der aktuellen Wahlen
-- [Sunflower-Bewegung](/society/太陽花學運): Ein prägendes Ereignis der politischen Bewusstseinsbildung junger Menschen im Jahr 2014
-- [Demokratisierung Taiwans](/history/民主化): Die langsame Strukturwandel von Taiwan nach dem Krieg
-- [Taiwans demokratischer Umbau](/history/台灣民主轉型): Die institutionelle Entwicklung von der Autoritarherrschaft zur Demokratie
+- [Sunflower-Bewegung](/de/society/sunflower-movement): Ein prägendes Ereignis der politischen Bewusstseinsbildung junger Menschen im Jahr 2014
+- [Demokratisierung Taiwans](/de/history/taiwan-democratization-history): Die langsame Strukturwandel von Taiwan nach dem Krieg
+- [Taiwans demokratischer Umbau](/de/history/taiwan-democratization): Die institutionelle Entwicklung von der Autoritarherrschaft zur Demokratie
 - [Politik Hub](/politics): Überblick über Taiwans politische Systeme
 
 ---

@@ -103,7 +103,7 @@ Diese Entlassung zog einen elfjährigen Kampf nach sich. Sechs Schritte, ein Kni
 
 2016 standen sie vor dem DPP-Parteihauptquartier über dreißig Stunden aus, bis sie eine Vereinbarung mit der neuen Regierung erzielten – doch diese wurde später ausgehöhlt. Am 19. Dezember 2019 unterlagen sie in erster Instanz vor dem Obersten Verwaltungsgericht Taipeh; die Vorsitzende der Selbsthilfevereinigung, Sun Hsiu-luan, brach vor Ort in Tränen aus: „Das kann ich wirklich nicht akzeptieren“, und warf dem Gericht vor, „die Glaubwürdigkeit der Regierung auf den Boden zu treten und darauf herumzutrampeln“[^23].
 
-Nach weiterer Berufung verwies der Oberste Verwaltungsgericht den Fall zur erneuten Verhandlung zurück; schließlich kam es am 30. Dezember 2024 zu einer Mediationsvereinbarung – genau elf Jahre nach dem Entlassungstag, am selben Kalenderdatum. Am 15. Februar 2025 feierten sie in Kaohsiung mit 20 Tischen das Ende des Kampfes[^24]. Dieser vollständige elfjährige Zeitstrahl ist im Schwesterartikel [高速公路](/lifestyle/高速公路) ausführlich dargestellt. Dort finden sich die vollständigen Protestmittel – sechs Schritte ein Knien, die blau bemalten Gesichter, das Klettern auf die ETC-Portale – sowie die Analyse: „Ob ein politisches Versprechen gebrochen wurde und ob dies rechtlich einen Verwaltungsvertrag darstellt, sind zwei verschiedene Dinge“; Leser können direkt dorthin wechseln.
+Nach weiterer Berufung verwies der Oberste Verwaltungsgericht den Fall zur erneuten Verhandlung zurück; schließlich kam es am 30. Dezember 2024 zu einer Mediationsvereinbarung – genau elf Jahre nach dem Entlassungstag, am selben Kalenderdatum. Am 15. Februar 2025 feierten sie in Kaohsiung mit 20 Tischen das Ende des Kampfes[^24]. Dieser vollständige elfjährige Zeitstrahl ist im Schwesterartikel [高速公路](/de/lifestyle/national-highway-system) ausführlich dargestellt. Dort finden sich die vollständigen Protestmittel – sechs Schritte ein Knien, die blau bemalten Gesichter, das Klettern auf die ETC-Portale – sowie die Analyse: „Ob ein politisches Versprechen gebrochen wurde und ob dies rechtlich einen Verwaltungsvertrag darstellt, sind zwei verschiedene Dinge“; Leser können direkt dorthin wechseln.
 
 Die Vorsitzende der Selbsthilfevereinigung, Sun Hsiu-luan, bringt es klarer auf den Punkt als jede externe Zusammenfassung: „Die Mautangestellten aufzubrauchen und dann wegzuwerfen – so mit Arbeitern umzugehen ist unfair und unvernünftig.“[^25]
 
@@ -127,7 +127,7 @@ Die drei Mautstellen reihen sich entlang der Nationalstraße auf: ansehen ja, an
 
 ## Weiterführende Literatur
 
-- [Autobahn](/lifestyle/高速公路) – 50 Jahre Taiwans Nationalstraßen: Macht und Geschwindigkeit, darin der Abschnitt „Elf Jahre, für einen nicht veröffentlichbaren Vergleich“ schreibt die Protestgeschichte der Mautbeamten vollständig
+- [Autobahn](/de/lifestyle/national-highway-system) – 50 Jahre Taiwans Nationalstraßen: Macht und Geschwindigkeit, darin der Abschnitt „Elf Jahre, für einen nicht veröffentlichbaren Vergleich“ schreibt die Protestgeschichte der Mautbeamten vollständig
 - [Taiwans Verkehrssystem](/de/lifestyle/transportation-system) – Der gesamte Verkehrszusammenhang von Nationalstraßen, Hochgeschwindigkeitsbahn, U-Bahn bis zu lokalen Straßen
 
 ---

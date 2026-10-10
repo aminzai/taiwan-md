@@ -295,4 +295,4 @@ Die Neuausrichtung der Lieferketten bringt nicht nur Risiken: Die konzentrierten
 - [Taiwanische KMUs und unsichtbare Champions](/de/economy/taiwan-smes-and-hidden-champions)
 - [Landwirtschaft und ländliche Erneuerung in Taiwan](/de/economy/taiwan-agriculture-and-rural-revitalization)
 - [Startup-Ökosystem](/de/economy/taiwan-startup-ecosystem-overview)
-- [Taiwanesisches Unternehmen: Foxconn Precision](/economy/台灣企業：鴻海精密) — Globale Präsenz mit 900.000 Menschen in 24 Ländern ist das größte Experiment der grenzüberschreitenden Unternehmensführung Taiwans.
+- [Taiwanesisches Unternehmen: Foxconn Precision](/de/economy/foxconn-precision-industry) — Globale Präsenz mit 900.000 Menschen in 24 Ländern ist das größte Experiment der grenzüberschreitenden Unternehmensführung Taiwans.

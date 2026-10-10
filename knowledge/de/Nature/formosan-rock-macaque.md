@@ -85,7 +85,7 @@ Anstatt sie als Räuber zu betrachten, sollten wir lernen, „einen angemessenen
 
 - [Zoo und Tierdarbietungsethik](/de/society/zoo-and-exhibition-animal-ethics) — Eine ethische Diskussion über Gefangenschaft, die das „Nachbarschafts“-Rahmenwerk der Wildmakaken in diesem Artikel ergänzt
 - [Welche Zoos gibt es in Taiwan?](/de/society/taiwan-zoos) — Die geografische Koexistenz von Shoushan Zoo und den Makakenpopulationen von Shoushan
-- [Robert Swinhoe: Als Diplomat Naturforscher werden](/people/史溫侯) — Der britische Naturforscher, der _Macaca cyclopis_ im Jahr 1862 benannte; die prähistorische Geschichte in [^4][^5]
+- [Robert Swinhoe: Als Diplomat Naturforscher werden](/de/people/robert-swinhoe-naturalist) — Der britische Naturforscher, der _Macaca cyclopis_ im Jahr 1862 benannte; die prähistorische Geschichte in [^4][^5]
 - [Schwarzhaubenschnepfe](/de/nature/malayan-night-heron) — Ein weiteres Beispiel für ein Wildtier, das in menschliche Aktivitäten eindringt; der Annäherung der Makaken ist hauptsächlich durch Nahrungsmotive bedingt, während die Stadteinbrüche der Schwarzhaubenschnepfe eher auf Lebensraumexpansion zurückzuführen sind – der Mensch hat unbeabsichtigt städtische Habitate wie niedrige Wälder geschaffen.
 
 ## Referenzen

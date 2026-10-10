@@ -48,7 +48,7 @@ Er ist auch der Sohn des bekannten taiwanischen Schriftstellers Huang Chun-ming.
 
 ## Weiterführendes
 
-- [Ye Bing-cheng](/people/葉丙成)：Professor der NTU, Entwickler der gamifizierten Lernplattform PaGamO.
-- [Lu Guan-wei](/people/呂冠緯)：Vorsitzender der gleichförmigen Bildungsplattform und Bildungsreformer, der die Medizin aufgab, um zu lehren.
-- [Huang Chun-ming](/people/黃春明)：Meister der taiwanischen Regionalliteratur, Vater von Huang Kuo-chen.
-- [Yan Chang-shou](/people/嚴長壽)：Pionier der Tourismuspädagogik in ländlichen Gebieten.
+- [Ye Bing-cheng](/de/people/yeh-ping-cheng-education-innovator)：Professor der NTU, Entwickler der gamifizierten Lernplattform PaGamO.
+- [Lu Guan-wei](/de/people/lu-guan-wei-junyiacademy-founder)：Vorsitzender der gleichförmigen Bildungsplattform und Bildungsreformer, der die Medizin aufgab, um zu lehren.
+- [Huang Chun-ming](/de/people/huang-chun-ming-taiwanese-literary-master)：Meister der taiwanischen Regionalliteratur, Vater von Huang Kuo-chen.
+- [Yan Chang-shou](/de/people/stanley-yen)：Pionier der Tourismuspädagogik in ländlichen Gebieten.

@@ -149,7 +149,7 @@ Vom Silber in Tokio zur Weltranglistenspitze, von der Asienspiele-Goldmedaille b
 
 **Weiterführende Lektüre**:
 
-- [Kuo Hsing-chun](/people/郭婞淳) – Olympia-Gold im Gewichtheben in Tokio, Taiwanesin mit Medaillen bei drei aufeinanderfolgenden Olympischen Spielen
+- [Kuo Hsing-chun](/de/people/kuo-hsing-chun-olympic-weightlifting-champion) – Olympia-Gold im Gewichtheben in Tokio, Taiwanesin mit Medaillen bei drei aufeinanderfolgenden Olympischen Spielen
 
 ## Referenzen
 

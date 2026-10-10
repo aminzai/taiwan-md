@@ -408,7 +408,7 @@ Das ist vielleicht der wertvollste Aspekt der taiwanesischen Lebensbräuche: In 
 
 - [Traditionelle Feste und Feiern](/de/culture/traditional-festivals-and-celebrations) - Verstehen der Verbindung zwischen Lebensbräuchen und Festen
 - [Ethnische Gruppen (Minnan, Hakka, Indigene, Einwanderer)](/de/culture/ethnic-groups) - Erkunden der Besonderheiten der jeweiligen Kulturen
-- [Religion und Tempelkultur in Taiwan](/culture/台灣宗教與寺廟文化) - Die Rolle der Religion bei den Lebensbräuchen kennenlernen
+- [Religion und Tempelkultur in Taiwan](/de/culture/taiwan-religion-and-temple-culture) - Die Rolle der Religion bei den Lebensbräuchen kennenlernen
 - [Taiwanesische Teezeremonie und Lebensästhetik](/de/culture/taiwan-tea-ceremony-and-aesthetic-living) - Die ästhetischen Elemente in den Bräuchen erleben
 - [Kuchenkultur Taiwans](/de/food/taiwan-pastry-culture) — Die spezifische Rolle von Festtagskeksen bei den Zwölf Ritualen, von Yuzhenzhai in Lukang 1877 bis zur „30-Sekunden-Ticket“-Generation 2026
 

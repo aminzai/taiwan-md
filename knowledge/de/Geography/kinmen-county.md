@@ -195,17 +195,17 @@ Sehen Sie sich die Menschen an, die auf das Schiff warten: Einwohner von Kinmen,
 
 ## Weiterführende Literatur
 
-- [Lianjiang County](/geography/連江縣) — sibling im 22 Counties Series, ein weiteres Inselcounty der Provinz Fujian. Ebenfalls 1956 Kriegsrecht, 1992 aufgehoben, 2001 kleiner Dreikontakt, aber spricht Min-dialect, liegt 50 Kilometer von Fuzhou entfernt, keine Schlacht im Stil von Guningtou, und ist strukturell ähnlich, aber nicht blutverwandt mit Kinmen
-- [Keelung City](/geography/基隆市) — pilot im 22 Counties Series, der einzige tiefwassergeeignete Hafen im Norden Taiwans vs. das südliche Küstenfestungssystem von Kinmen, zwei Zeitschienen taiwanesischer Häfen
-- [Penghu County](/geography/澎湖縣) — drittes Inselcounty im 22 Counties Series, ebenfalls eine Insel, aber mit japanischer Kolonialgeschichte, im Gegensatz zu Kinmen, das nie direkt von der japanischen Kolonialherrschaft verwaltet wurde
-- [Zheng Chenggong](/people/鄭成功) — 1646 in Kinmen aufstand gegen die Qing, um die Ming-Dynastie wiederherzustellen; diese Entscheidung änderte später Taiwans
-- [Chiang Kai-shek](/people/蔣中正) — 1958 schrieb „Vergiss nicht in Kinmen“ am Taewu-Berg; 1949 gab den Befehl, Kinmen zu verteidigen
+- [Lianjiang County](/de/geography/lienchiang-county) — sibling im 22 Counties Series, ein weiteres Inselcounty der Provinz Fujian. Ebenfalls 1956 Kriegsrecht, 1992 aufgehoben, 2001 kleiner Dreikontakt, aber spricht Min-dialect, liegt 50 Kilometer von Fuzhou entfernt, keine Schlacht im Stil von Guningtou, und ist strukturell ähnlich, aber nicht blutverwandt mit Kinmen
+- [Keelung City](/de/geography/keelung-city) — pilot im 22 Counties Series, der einzige tiefwassergeeignete Hafen im Norden Taiwans vs. das südliche Küstenfestungssystem von Kinmen, zwei Zeitschienen taiwanesischer Häfen
+- [Penghu County](/de/geography/penghu-county) — drittes Inselcounty im 22 Counties Series, ebenfalls eine Insel, aber mit japanischer Kolonialgeschichte, im Gegensatz zu Kinmen, das nie direkt von der japanischen Kolonialherrschaft verwaltet wurde
+- [Zheng Chenggong](/de/people/koxinga) — 1646 in Kinmen aufstand gegen die Qing, um die Ming-Dynastie wiederherzustellen; diese Entscheidung änderte später Taiwans
+- [Chiang Kai-shek](/de/people/chiang-kai-shek) — 1958 schrieb „Vergiss nicht in Kinmen“ am Taewu-Berg; 1949 gab den Befehl, Kinmen zu verteidigen
 - [Kriegsrecht](/de/history/martial-law-era) — Taiwan-Festland hob das Kriegsrecht im Jahr 1987 auf; Kinmen und Matsu hoben das Kriegsrecht erst 1992 auf; dieser Artikel vergleicht zwei Versionen des Kriegsrechts
 - [Taiwan-Krise und Entwicklung der Beziehungen der beiden Seiten der Taiwanstraße](/de/history/taiwan-strait-crises-and-cross-strait-relations) — Die Achtundzwanzig-März-Bombardierung ist eine der konkretesten physischen Beweise des Kalten Kriegs; dieser Abschnitt ist eine Erweiterung auf County-Ebene
-- [Taiwanesische Verteidigung und militärische Modernisierung](/society/台灣國防與軍事現代化) — Die Entwicklung der militärischen Verwaltung von 50.000–100.000 Soldaten in Kinmen zu weniger als 5.000 Soldaten heute, im Vergleich zu der Modernisierung der taiwanesischen Armee
+- [Taiwanesische Verteidigung und militärische Modernisierung](/de/society/taiwan-defense-modernization) — Die Entwicklung der militärischen Verwaltung von 50.000–100.000 Soldaten in Kinmen zu weniger als 5.000 Soldaten heute, im Vergleich zu der Modernisierung der taiwanesischen Armee
 - [Geografie der Insel Taiwans und ihre Entstehung](/de/geography/geography-and-geology) — Der Granit von Kinmen im Vergleich zu anderen Mechanismen der Entstehung der taiwanesischen Inseln
-- [Matsu und der Heilige Weg](/culture/媽祖與大道公的傳說) — Die Minnan-Anbetung in Kinmen hat dieselbe Herkunft wie auf dem taiwanesischen Festland, im Gegensatz zu den Legenden des Heiligen Wegs in Matsu
-- [Matsu International Art Island](/art/馬祖國際藝術島) — Das Beispiel, wie Matsu Kriegsbunker und militärische Teehäuser in ein zehnjähriges Ausstellungsprojekt verwandelte; Kinmen hat einen anderen Weg der Kriegsverwandlung gewählt, im Vergleich zu zwei Inseln vor der Frontlinie
+- [Matsu und der Heilige Weg](/de/culture/mazu-dadaogong-legend) — Die Minnan-Anbetung in Kinmen hat dieselbe Herkunft wie auf dem taiwanesischen Festland, im Gegensatz zu den Legenden des Heiligen Wegs in Matsu
+- [Matsu International Art Island](/de/art/matsu-biennial) — Das Beispiel, wie Matsu Kriegsbunker und militärische Teehäuser in ein zehnjähriges Ausstellungsprojekt verwandelte; Kinmen hat einen anderen Weg der Kriegsverwandlung gewählt, im Vergleich zu zwei Inseln vor der Frontlinie
 
 ## Bildnachweise
 

@@ -204,11 +204,11 @@ Und diese Insel hat sich nach jener Nacht des 15. Januar beigebracht, für die M
 
 **Weiterführende Lektüre**:
 
-- [Tsai Ing-wen](/people/蔡英文) – die Siegesrede vom 16.01.2016 „Kein Mensch muss sich für seine Identität entschuldigen“ war die Antwort auf diese 90 Sekunden
-- [Jay Chou](/people/周杰倫) – neben Tzu-yus zehn Millionen Instagram-Followern der einzige taiwanesische Prominente, der vor ihr liegt
-- [Taiwanesische Sensibilität: Müssen wir erst auf den Like von Koreanern warten, bevor wir sagen dürfen, dass unser altes Haus schön ist?](/culture/台灣感性) – auf dem Weg, wie Koreaner Taiwan kennenlernen, ist Tzu-yu eines der am frühesten erinnerten taiwanesischen Gesichter
-- [Taiwanesischer Demokratieübergang](/history/台灣民主轉型) – die Wahl 2016 war Taiwans dritter Regierungswechsel, und diese 90 Sekunden sind einer seiner schwersten Pinselstriche
-- [Tai Tzu-ying](/people/戴資穎) – aus derselben Generation, ein weiteres 13-jährig fortgegangenes Mädchen aus Tainan, das für seinen Traum kämpfte
+- [Tsai Ing-wen](/de/people/tsai-ing-wen) – die Siegesrede vom 16.01.2016 „Kein Mensch muss sich für seine Identität entschuldigen“ war die Antwort auf diese 90 Sekunden
+- [Jay Chou](/de/people/jay-chou) – neben Tzu-yus zehn Millionen Instagram-Followern der einzige taiwanesische Prominente, der vor ihr liegt
+- [Taiwanesische Sensibilität: Müssen wir erst auf den Like von Koreanern warten, bevor wir sagen dürfen, dass unser altes Haus schön ist?](/de/culture/taiwanese-sensibility) – auf dem Weg, wie Koreaner Taiwan kennenlernen, ist Tzu-yu eines der am frühesten erinnerten taiwanesischen Gesichter
+- [Taiwanesischer Demokratieübergang](/de/history/taiwan-democratization) – die Wahl 2016 war Taiwans dritter Regierungswechsel, und diese 90 Sekunden sind einer seiner schwersten Pinselstriche
+- [Tai Tzu-ying](/de/people/tai-tzu-ying) – aus derselben Generation, ein weiteres 13-jährig fortgegangenes Mädchen aus Tainan, das für seinen Traum kämpfte
 
 ## Referenzen
 

@@ -100,7 +100,7 @@ In einer Zeit, in der es den Begriff „Taiwans Stolz“ noch nicht gab, war Li 
 
 **Weiterführende Lektüre**:
 
-- [Wu Ta-yu](/people/吳大猷) — Li Yuan-ches Vorgänger als Präsident der Academia Sinica, der das Fundament des taiwanesischen Forschungssystems legte und mit Yang Chen-ning und Lee Tsung-dao zwei Nobelpreisträger der Physik förderte
+- [Wu Ta-yu](/de/people/tai-yu-wu) — Li Yuan-ches Vorgänger als Präsident der Academia Sinica, der das Fundament des taiwanesischen Forschungssystems legte und mit Yang Chen-ning und Lee Tsung-dao zwei Nobelpreisträger der Physik förderte
 
 ## Referenzen
 

@@ -90,8 +90,8 @@ Ali Mountain ist kein Berg, sondern ein noch unvollendetes Geschichtsbuch. Das R
 **Weiterführende Literatur:**
 
 - [Geschichte der taiwanesischen Forstentwicklung](/de/history/taiwan-forestry-history) — Wie drei Jahrhunderte Forstpolitik Ali Mountain, Taipingshan und Baxianshan zu Kolonialforstwirtschaften machten
-- [Taiwan White Terror](/history/台灣白色恐怖) — Der Fall Gao Yinshun ist nur ein Teil der Bereinigung der tsouischen Intellektuellen, das Ausmaß der politischen Gewalt der 1950er Jahre
-- [Geschichte der indigenen Völker Taiwans und Bewegung für Gerechtigkeit](/history/台灣原住民族歷史與正名運動) — Die Lage und der Widerstand der Tsou und anderer indigener Völker im nachkriegszeitlichen Taiwan
+- [Taiwan White Terror](/de/history/taiwan-white-terror) — Der Fall Gao Yinshun ist nur ein Teil der Bereinigung der tsouischen Intellektuellen, das Ausmaß der politischen Gewalt der 1950er Jahre
+- [Geschichte der indigenen Völker Taiwans und Bewegung für Gerechtigkeit](/de/history/indigenous-peoples-history-and-naming-movement) — Die Lage und der Widerstand der Tsou und anderer indigener Völker im nachkriegszeitlichen Taiwan
 - [228-Vorfall](/de/history/228-incident) — Wie die Gutmütigkeit von Gao Yinshun, Flüchtlinge aus dem Außengebiet aufzunehmen, später zu seiner Anklage wurde
 - [Japanische Kolonialherrschaft](/de/history/japanese-colonial-era) — Das Reich Waldkontor-System, das Hayato Kawai umgab
 - [Der Kautschukkrieg des 19. Jahrhunderts](/de/history/19th-century-camphor-wars) — Bevor die Zedern von Ali Mountain abgeholzt wurden, wurden die Kautschurbäume in der Region während der Qing-Dynastie gefällt. Von 1864, als James Davidson nach 1906, als die Big Society, auf derselben Linie

@@ -106,8 +106,8 @@ Die Umweltbewegung in Taiwan hat sich über vier Jahrzehnte entwickelt: vom Prot
 
 **Weiterführende Lektüre**:
 
-- [Diskussion über Taiwan und Kernenergie](/society/台灣與核能的討論) — Wie sich die Anti-Kernenergie-Bewegung aus der Umweltbewegung entwickelt und im Kontext des Klimawandels neu bewertet wurde: Die vollständige Debattengeschichte von vier Jahrzehnten und drei Volksabstimmungen
-- [Klimakrise und Netto-Null-Transformation in Taiwan](/nature/台灣氣候危機與淨零轉型) — Wie das Umweltbewusstsein zu einer nationalen Netto-Null-Transformationspolitik und zur Umstrukturierung der Energieinfrastruktur geführt hat
+- [Diskussion über Taiwan und Kernenergie](/de/society/taiwan-nuclear-debate) — Wie sich die Anti-Kernenergie-Bewegung aus der Umweltbewegung entwickelt und im Kontext des Klimawandels neu bewertet wurde: Die vollständige Debattengeschichte von vier Jahrzehnten und drei Volksabstimmungen
+- [Klimakrise und Netto-Null-Transformation in Taiwan](/de/nature/taiwan-climate-change-net-zero-transition) — Wie das Umweltbewusstsein zu einer nationalen Netto-Null-Transformationspolitik und zur Umstrukturierung der Energieinfrastruktur geführt hat
 
 ## Referenzen
 

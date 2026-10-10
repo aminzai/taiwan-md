@@ -135,7 +135,7 @@ Die Baugeschichte Taiwans ist keine gerade Linie, sondern eher wie mehrere Flüs
 
 **Weiterführende Lektüre**:
 
-- [Taiwanesische Sensibilität: Müssen wir warten, bis Koreaner „Gefällt mir“ drücken, um unser altes Haus schön zu nennen?](/culture/台灣感性) — Die architektonischen Hintergründe hinter den Eisengittern, Arkaden und Außenwänden von Altbauten; die Menschen Taiwans haben diese alten Häuser selbst zehn Jahre früher als Korea „대만감성“ neu gesehen.
+- [Taiwanesische Sensibilität: Müssen wir warten, bis Koreaner „Gefällt mir“ drücken, um unser altes Haus schön zu nennen?](/de/culture/taiwanese-sensibility) — Die architektonischen Hintergründe hinter den Eisengittern, Arkaden und Außenwänden von Altbauten; die Menschen Taiwans haben diese alten Häuser selbst zehn Jahre früher als Korea „대만감성“ neu gesehen.
 
 ## Referenzen
 

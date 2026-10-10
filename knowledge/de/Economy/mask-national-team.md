@@ -151,8 +151,8 @@ Die Widerstandsfähigkeit der taiwanesischen Fertigung ist oft nicht auf dem Sch
 
 ## Weiterführende Lektüre
 
-- [Taiwanische Werkzeugmaschinenindustrie](/economy/台灣機械工具產業) — Der industrielle Kontext der taiwanesischen Präzisionsmaschinencluster.
-- [Industrieller Wandel in Taiwan](/economy/台灣產業轉型升級) — Die Herausforderungen des industriellen Wandels nach einer Krise.
+- [Taiwanische Werkzeugmaschinenindustrie](/de/economy/taiwan-machine-tool-industry) — Der industrielle Kontext der taiwanesischen Präzisionsmaschinencluster.
+- [Industrieller Wandel in Taiwan](/de/economy/industrial-transformation-from-manufacturing-to-innovation) — Die Herausforderungen des industriellen Wandels nach einer Krise.
 
 ## Referenzen
 

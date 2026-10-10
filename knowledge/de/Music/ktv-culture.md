@@ -207,7 +207,7 @@ Digitale Unterhaltung bringt Wettbewerb, die Pandemie brachte Abrechnung, aber d
 - [Holiday offizielle Website](https://www.holiday.com.tw/)
 - [Cashbox offizielle Website](https://www.cashbox.com.tw/)
 - [Statistikamt des Wirtschaftsministeriums, Dienstleistungssektor-Betriebsstatistik](https://www.moea.gov.tw/)
-- [Huang Dawei (黃大煒)](/people/黃大煒) — 〈Du hast mich betrunken gemacht〉 ist ein langjähriger Hit in den KTV-Anforderungs-Charts; zeigt, wie ein Lied zur kollektiven Gesangserinnerung einer Generation wird
+- [Huang Dawei (黃大煒)](/de/people/david-wong) — 〈Du hast mich betrunken gemacht〉 ist ein langjähriger Hit in den KTV-Anforderungs-Charts; zeigt, wie ein Lied zur kollektiven Gesangserinnerung einer Generation wird
 
 ## Referenzen
 

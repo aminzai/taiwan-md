@@ -78,10 +78,10 @@ Dieser Satz lässt ihn vom „Influencer“ zum „Sozialarbeiter“ zurückkehr
 
 ## Weiterführende Literatur
 
-- [Bajiong](/people/八炯) – Ebenfalls 18+ Jahre YouTuber-Veteran, ein anderer Weg von Gegenvorwürfen zur Wohltätigkeit
-- [Adi](/people/阿滴) – Eine weitere Wachstumslinie der großen taiwanesischen YouTuber-Generation (gestartet mit Englischbildung)
-- [Bote Wang](/people/波特王) – Comedy-YouTuber derselben Generation, Vergleich der Strategien von Creatorn im Wandel des Algorithmus
-- [Howhow](/people/Howhow) – Zeitgleicher Millionär-YouTuber, eine andere Überlebensstrategie: „Sponsoring“ ins Sonnenlicht stellen
+- [Bajiong](/de/people/pa-chiung-political-youtuber) – Ebenfalls 18+ Jahre YouTuber-Veteran, ein anderer Weg von Gegenvorwürfen zur Wohltätigkeit
+- [Adi](/de/people/ray-du-english-youtuber) – Eine weitere Wachstumslinie der großen taiwanesischen YouTuber-Generation (gestartet mit Englischbildung)
+- [Bote Wang](/de/people/potter-king-youtuber) – Comedy-YouTuber derselben Generation, Vergleich der Strategien von Creatorn im Wandel des Algorithmus
+- [Howhow](/de/people/howhow) – Zeitgleicher Millionär-YouTuber, eine andere Überlebensstrategie: „Sponsoring“ ins Sonnenlicht stellen
 - [Zun](/de/people/zun) – Vom Mittelschulzimmer zu zwei Millionen-Kanälen, hinterlässt eine weitere Coming-of-Age-Aufzeichnung früher YouTuber
 
 ## Quellen

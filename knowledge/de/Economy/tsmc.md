@@ -251,7 +251,7 @@ Niemand hatte diesen Größenordnungswechsel geplant. Doch während der größte
 - [Industrietransformation in Taiwan](/de/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC ist ein konkretes Beispiel dafür, wie Taiwan von einer „Foundry Island“ zu einer „Tech Island“ wurde.
 - [Shih Chih-yung](/de/people/stan-shih) — Der Gründer von Acer, der 21 Jahre lang Direktor bei TSMC war und dessen größter Vermögenswert in TSMC-Aktien gebunden ist; er ist jedoch der Autor der „Lächelnkurve“, die Taiwan aufforderte, keine Foundry zu sein.
 - [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Die 50-jährige Materialrevolution von RCA zur Galliumnitrid- und Quantenverpackung – das gesamte Materialwissenschafts-Schlachtfeld, in dem TSMC angesiedelt ist.
-- [Huang Chung-jen](/people/黃崇仁) — Gründer von Largan/Licy, ein anderer Weg auf derselben Insel: Er fertigte ebenfalls Wafer, ging einmal mit Hunderten von Milliarden Schulden in den außerbörslichen Handel und gelangte erst nach neun Jahren zurück an die Börse.
+- [Huang Chung-jen](/de/people/frank-huang-psmc) — Gründer von Largan/Licy, ein anderer Weg auf derselben Insel: Er fertigte ebenfalls Wafer, ging einmal mit Hunderten von Milliarden Schulden in den außerbörslichen Handel und gelangte erst nach neun Jahren zurück an die Börse.
 
 ## Bildquellen
 

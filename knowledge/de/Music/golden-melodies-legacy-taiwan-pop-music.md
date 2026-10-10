@@ -256,10 +256,10 @@ Was übrig bleibt, ist nicht die Größe, sondern die Freiheit – jenes Ding, d
 
 **Weiterführende Lektüre**:
 
-- [Taiwanische Volksliedbewegung: Wem gehört das Lied „Sing deine eigenen Lieder“](/music/台灣民歌運動)
-- [Die Entwicklung der taiwanesischen Dialektsongs: Vom Verbotenen zur Jahresalbumauszeichnung](/music/台灣台語歌曲演進)
+- [Taiwanische Volksliedbewegung: Wem gehört das Lied „Sing deine eigenen Lieder“](/de/music/taiwan-campus-folk-song-movement)
+- [Die Entwicklung der taiwanesischen Dialektsongs: Vom Verbotenen zur Jahresalbumauszeichnung](/de/music/taiwanese-hokkien-song-evolution)
 - [Golden Melody Awards: Wer zählt, wer entscheidet](/de/music/pop-music-and-golden-melody-awards)
-- [Taiwanische Musikindustrie und Streaming-Zeitalter: Wie man nach dem physischen Kollaps wieder Erholung findet](/music/台灣音樂產業與串流時代)
+- [Taiwanische Musikindustrie und Streaming-Zeitalter: Wie man nach dem physischen Kollaps wieder Erholung findet](/de/music/taiwan-music-industry-and-the-streaming-era)
 - [Teresa Teng: Die Sängerin, die zwei Küsten und drei Regionen sang, aber nie in China singen durfte](/de/people/teresa-teng)
 
 ## Bildquellen

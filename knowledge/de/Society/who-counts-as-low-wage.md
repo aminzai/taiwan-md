@@ -175,7 +175,7 @@ Wer als Niedriglohnempfänger gilt, die Antwort steht im zweiten Feld der Gehalt
 
 ## Weiterführende Lektüre
 
-- [Gesetz über Lieferdienste](/society/外送專法) — Ein weiterer mit Gesetzen gezogener Boden: Die Mindestentschädigung pro Auftrag für Lieferboten, alles darüber hinaus wird dem Markt überlassen
+- [Gesetz über Lieferdienste](/de/society/delivery-platform-law) — Ein weiterer mit Gesetzen gezogener Boden: Die Mindestentschädigung pro Auftrag für Lieferboten, alles darüber hinaus wird dem Markt überlassen
 - [Klimaanlage und Energiearmut](/de/society/energy-poverty-and-cooling) — Ein anderes Maßstab für Armut: Gemessen nicht am Einkommen, sondern an den Stromrechnungen – ob sich eine Familie im Sommer eine Klimaanlage leisten kann
 - [Lernarmut](/de/society/learning-poverty-in-taiwan) — Ebenfalls eine Definitionsfrage: Kinder, die zwar im Klassenzimmer sitzen, aber nichts lernen – wie werden sie erfasst
 - [Taiwans Generation der Mehrfachbeschäftigung](/de/society/taiwan-slash-generation-multi-job-economy) — Die Nebenjobs, die Menschen nach Feierabend annehmen, weil das Grundgehalt nicht reicht – die meisten fallen außerhalb dieser Messlatte

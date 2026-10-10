@@ -86,4 +86,4 @@ Digitale Technologien eröffnen zudem neue Möglichkeiten. Dynamische Projektion
 ## Weiterführende Literatur
 
 - [Zeitgenössische Kunst in Taiwan](/culture/台灣當代藝術) — Die Schnittmenge zwischen Street Art und der zeitgenössischen Kunstszene Taiwans
-- [Elektronische Musik und Partykultur in Taiwan](/music/台灣電子音樂與派對文化) — Die elektronische Musikszene, die sich subkulturelle Wurzeln mit der Street Art teilt
+- [Elektronische Musik und Partykultur in Taiwan](/de/music/taiwan-electronic-music-and-party-culture) — Die elektronische Musikszene, die sich subkulturelle Wurzeln mit der Street Art teilt

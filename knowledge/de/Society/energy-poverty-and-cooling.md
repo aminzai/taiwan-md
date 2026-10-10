@@ -134,7 +134,7 @@ Die politische Bewertung muss auch die Stimme der Bewohner berücksichtigen. Lok
 
 Die weiterführende Lektüre dieses Artikels kann in drei Richtungen verfolgt werden: Informationen zur Hitzeschutzprävention des National Health Agency (國民健康署), Daten zur Klimaanpassung und Energiepolitik des Ministeriums für Umwelt (環境部) sowie die öffentlich verfügbaren Programme zur Wohnenergieeinsparung und Geräteaustausch lokaler Regierungen. Beim Lesen sollte man zwischen „politischen Ankündigungen“, „Forschungsergebnissen“ und „Vorschlägen dieses Artikels“ unterscheiden, um nicht eine einzelne Jahressubvention oder Fallstudie als langfristigen nationalen Trend zu misszuinterpretieren.
 
-- [Wer verdient wenig](/society/誰算低薪) — Ein weiteres Maß für Armut: Der Mindestlohn hält das Gehalt, einkommensschwache Menschen kommen in die Weihnachtsrate und arbeiten in Branchen ohne Boni.
+- [Wer verdient wenig](/de/society/who-counts-as-low-wage) — Ein weiteres Maß für Armut: Der Mindestlohn hält das Gehalt, einkommensschwache Menschen kommen in die Weihnachtsrate und arbeiten in Branchen ohne Boni.
 
 ## Referenzen
 

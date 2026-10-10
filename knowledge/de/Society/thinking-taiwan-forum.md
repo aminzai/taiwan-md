@@ -152,7 +152,7 @@ Ob man in den nächsten 30 Jahren denselben Weg noch einmal gehen will, begann m
 - [Tsai Ing-wen](/de/people/tsai-ing-wen) — Gründerin des Thinking Forum, Gründerin der Tsai Ing-wen Education Foundation, 7. und 8. Präsidentin der Republik China (Taiwan) 2016–2024
 - [Lai Ching-te](/de/people/lai-ching-te) — Nachfolger von Tsai Ing-wen als 9. Präsident der Republik China (Taiwan), impliziter Vergleichsgegenstand in der „gewichtigen Schnellkritik" der United Daily News zur Überarbeitung des Thinking Forum im Oktober 2025
 - [PanSci](/de/society/pansci) — Ebenfalls eine Plattform für öffentliche Diskussionen, aber PanSci hat Wissenschaftskommunikation zu einer Mischung aus Wissensjournalismus, Bildungsprodukten und Creator-Ökonomie entwickelt
-- [Giftige Kartoffel – Kognitive Kriegsführung](/society/毒馬鈴薯認知作戰) — Eines der Themen, das die Geopolitik-Kolumne des Thinking Forum kontinuierlich diskutiert – chinesische Informationskriegsführung
+- [Giftige Kartoffel – Kognitive Kriegsführung](/de/society/poisoned-potato-cognitive-warfare-taiwan) — Eines der Themen, das die Geopolitik-Kolumne des Thinking Forum kontinuierlich diskutiert – chinesische Informationskriegsführung
 - [Psychologische Kriegsführung](/de/history/psychological-warfare) — Querschnittsthema mit den Denk- und Sicherheitsspalten des Thinking Forum
 
 ## Quellenangaben

@@ -80,4 +80,4 @@ Xiaos Grammy-Gewinn zeigt dem taiwanesischen Designkreis einen Weg auf: Man muss
 ## Weiterführende Lektüre
 
 - [Bisherige Gewinner des Grammy Best Recording Package — Grammy.com](https://www.grammy.com/) — Nominierungs- und Gewinnerliste der besten Albumverpackung über die Jahre
-- [Lim Giong](/people/林強) — der taiwanesische Musiker, mit dem Xiao Qing-yang in seinen frühen Jahren zusammenarbeitete
+- [Lim Giong](/de/people/lim-giong) — der taiwanesische Musiker, mit dem Xiao Qing-yang in seinen frühen Jahren zusammenarbeitete

@@ -181,7 +181,7 @@ Wenn Sie das nächste Mal in den Landkreis Hsinchu fahren, beschränken Sie sich
 ## Weiterführende Literatur
 
 - [Keelung](/de/geography/keelung-city) — 22-Counties-and-Cities-Serie Batch 1 Pilot, eine weitere unter dem Hauptstadt-Rahmen verdrängte Stadt, Vergleich zweier lokalpolitischer Erscheinungsformen
-- [Miaoli](/geography/苗栗縣) — 22-Counties-and-Cities-Serie Schwesterartikel, der Landkreis mit dem zweithöchsten Hakka-Anteil (62,5 %), neben Hsinchus „Yimin-Glaube vs. Wissenschaftspark“ eine andere Hakka-Erfahrung
+- [Miaoli](/de/geography/miaoli-county) — 22-Counties-and-Cities-Serie Schwesterartikel, der Landkreis mit dem zweithöchsten Hakka-Anteil (62,5 %), neben Hsinchus „Yimin-Glaube vs. Wissenschaftspark“ eine andere Hakka-Erfahrung
 - [Hakka-Kultur und -Sprache](/de/culture/hakka-culture-and-language) — Die landesweite Verteilung der vier Hakka-Dialekte (Miaoli-Hauptdialekt) vs. Hailu-Dialekt (Hsinchu-Hauptdialekt), der Kontext hinter Hsinchus 67,8-%-Anteil
 - [Hakka-Esskultur](/de/food/hakka-food-culture) — Der kulinarische Kontext der Hakka-Dörfer mit Bantiao, Lei-Cha, Hakka-Kleingebratenem und Oriental-Beauty-Tee, die Ursprünge von Xinpus Bantiao und Beipus Lei-Cha
 - [Ethnische Gruppen (Hoklo, Hakka, Ureinwohner, Waishengren, Neueinwanderer)](/de/culture/ethnic-groups) — Aus größerem Maßstab betrachtet: Hsinchus Koexistenzstruktur der drei Gruppen Hoklo, Hakka, Ureinwohner

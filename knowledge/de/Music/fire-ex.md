@@ -109,7 +109,7 @@ Fire EX. ist in China verboten. Nach „Insel-Sonnenlicht“ brachen sie komplet
 
 ## 2024: Die sieben Minuten beim Takao-Festival
 
-Anfang Oktober 2024 wurden drei Acts — An Pu, Mayday, Wu Kang-ren — weil sie auf Weibo Glückwünsche zum chinesischen Nationalfeiertag posteten, von der taiwanesischen Öffentlichkeit attackiert. Am 12. und 13. Oktober fand das Takao-Festival in Kaohsiung statt, zwei Tage lang strömten rund 100.000 Menschen hinein. [An Pu trat am 12. auf](/music/張懸與安溥/), angesichts der Walfahnen und Yushan-Fahnen im Publikum sagte sie: „Bei meinen Auftritten seid ihr immer frei und sicher.“
+Anfang Oktober 2024 wurden drei Acts — An Pu, Mayday, Wu Kang-ren — weil sie auf Weibo Glückwünsche zum chinesischen Nationalfeiertag posteten, von der taiwanesischen Öffentlichkeit attackiert. Am 12. und 13. Oktober fand das Takao-Festival in Kaohsiung statt, zwei Tage lang strömten rund 100.000 Menschen hinein. [An Pu trat am 12. auf](/de/music/deserts-chang-and-anpu/), angesichts der Walfahnen und Yushan-Fahnen im Publikum sagte sie: „Bei meinen Auftritten seid ihr immer frei und sicher.“
 
 Am nächsten Tag, dem 13. Oktober, war Fire EX. der Headliner. Yang Ta-cheng hielt auf der Bühne der Haiyin-Halle inne und sprach fast sieben Minuten über die Sache [^19].
 
@@ -129,12 +129,12 @@ Das Publikum jubelte. Dieser siebenminütige Mitschnitt verbreitete sich nach de
 
 ## Weiterführende Links
 
-- [Taiwanesische Independent-Musik](/music/台灣獨立音樂/) — Die Independent-Szene, in der Fire EX. wirkt
-- [Geschichte des taiwanesischen Rock](/music/台灣搖滾樂發展史/) — Vom Liedverbot bis zum Megaport Festival
-- [Sunflower-Bewegung](/society/太陽花學運/) — Jener März, in dem „Insel-Sonnenlicht“ entstand
-- [Taiwanesische Festival-Kultur](/music/台灣音樂祭文化/) — Von Gongliao bis Fireball Festival
-- [Chang Hsien und An Pu](/music/張懸與安溥/) — Die andere Seite der sieben Minuten beim Takao-Festival
-- [Muddy Basin Ramblers](/music/濁水溪公社/) — Ebenfalls taiwanesischer Punk, der die Zeit dokumentiert, eine Generation früher im Underground
+- [Taiwanesische Independent-Musik](/de/music/indie-music-scene/) — Die Independent-Szene, in der Fire EX. wirkt
+- [Geschichte des taiwanesischen Rock](/de/music/taiwan-rock-from-underground-to-mainstream/) — Vom Liedverbot bis zum Megaport Festival
+- [Sunflower-Bewegung](/de/society/sunflower-movement/) — Jener März, in dem „Insel-Sonnenlicht“ entstand
+- [Taiwanesische Festival-Kultur](/de/music/taiwan-music-festival-culture/) — Von Gongliao bis Fireball Festival
+- [Chang Hsien und An Pu](/de/music/deserts-chang-and-anpu/) — Die andere Seite der sieben Minuten beim Takao-Festival
+- [Muddy Basin Ramblers](/de/music/loh-tsui-kang-commune/) — Ebenfalls taiwanesischer Punk, der die Zeit dokumentiert, eine Generation früher im Underground
 
 ## Quellen
 

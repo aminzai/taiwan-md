@@ -155,12 +155,12 @@ Die Literatur dieser Epoche lieferte einen substanziellen Beitrag zur späteren 
 
 ## Weiterführende Lektüre
 
-- [Taiwan Wanderbuch](/art/臺灣漫遊錄) — Ein fiktiver Roman von Yang Shuangzi aus dem Jahr 2020, der die Reise mit der Trans-Taiwan-Eisenbahn während der japanischen Kolonialzeit (1938–39) als Geschichte über das Essen und die Macht zweier Frauen darstellt; international anerkannt bei den NBA im Jahr 2024 und beim International Book Award 2026.
-- [Literatur in Taiwan nach dem Krieg](/art/戰後台灣文學) — Wie Lai He, Lü Hejue und Chang Wenhuan die japanische Ära fortsetzten, nachdem die Sprache 1945 gebrochen war: Ye Shitao's Blank Page, Modernismus, ländliche Debatte, weibliches Erwachen.
-- [Literatur in Taiwan nach der Aufhebung des Kriegsrechts](/art/解嚴後台灣文學) — Die vielfältige Explosion nach der Aufhebung des Kriegsrechts im Jahr 1987.
-- [Zeitgenössische Literatur in Taiwan](/art/當代台灣文學) — Internationalisierung im 21. Jahrhundert, Wu Mingyi, digitale Literatur.
-- [Geschichte der taiwanesischen Literatur](/art/台灣文學史) — Der Gesamtkontext von der niederländischen bis zur modernen Ära.
-- [Lin Liang](/people/林良) — Ein Pionier der Kinderliteratur, der nach dem Krieg aus Xiamen nach Taiwan kam und einen Kontrast zu den sprachlichen Richtlinien während der japanischen Kolonialzeit bildet.
+- [Taiwan Wanderbuch](/de/art/taiwan-travelogue) — Ein fiktiver Roman von Yang Shuangzi aus dem Jahr 2020, der die Reise mit der Trans-Taiwan-Eisenbahn während der japanischen Kolonialzeit (1938–39) als Geschichte über das Essen und die Macht zweier Frauen darstellt; international anerkannt bei den NBA im Jahr 2024 und beim International Book Award 2026.
+- [Literatur in Taiwan nach dem Krieg](/de/art/postwar-taiwanese-literature) — Wie Lai He, Lü Hejue und Chang Wenhuan die japanische Ära fortsetzten, nachdem die Sprache 1945 gebrochen war: Ye Shitao's Blank Page, Modernismus, ländliche Debatte, weibliches Erwachen.
+- [Literatur in Taiwan nach der Aufhebung des Kriegsrechts](/de/art/post-martial-law-taiwanese-literature) — Die vielfältige Explosion nach der Aufhebung des Kriegsrechts im Jahr 1987.
+- [Zeitgenössische Literatur in Taiwan](/de/art/contemporary-taiwanese-literature) — Internationalisierung im 21. Jahrhundert, Wu Mingyi, digitale Literatur.
+- [Geschichte der taiwanesischen Literatur](/de/art/history-of-taiwanese-literature) — Der Gesamtkontext von der niederländischen bis zur modernen Ära.
+- [Lin Liang](/de/people/lin-liang-childrens-literature) — Ein Pionier der Kinderliteratur, der nach dem Krieg aus Xiamen nach Taiwan kam und einen Kontrast zu den sprachlichen Richtlinien während der japanischen Kolonialzeit bildet.
 
 ---
 

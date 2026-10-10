@@ -116,10 +116,10 @@ Der Spitzname „Export-Ästhetik“ wurde den Fans gegeben, nicht selbst beansp
 
 **Weiterführende Lektüre**:
 
-- [Cao Dong hat keine Party](/people/草東沒有派對) — Ein paralleles Bild der taiwanesischen Indie-Szene Ende der 2010er Jahre: politische Rock-Linie vs. die sanfte Linie von VH
-- [Wei Ruxuan](/people/魏如萱) — Eine taiwanesische Indie-Musikerin, die ebenfalls den Weg „Werk vor Sichtbarkeit“ geht
-- [Unabhängige Musik Taiwan](/music/台灣獨立音樂) — Der Ökosystemhintergrund für den Aufstieg von VH
-- [Hello Nico](/people/Hello-Nico) — Ein Gleichaltriges aus der Indie-Szene, das 2024 mit „Plan B“ nach acht Jahren der Stille zurückkehrte – eine andere Form von Sanftheit und Unterdrückung
+- [Cao Dong hat keine Party](/de/people/no-party-for-cao-dong) — Ein paralleles Bild der taiwanesischen Indie-Szene Ende der 2010er Jahre: politische Rock-Linie vs. die sanfte Linie von VH
+- [Wei Ruxuan](/de/people/waa-wei-singer) — Eine taiwanesische Indie-Musikerin, die ebenfalls den Weg „Werk vor Sichtbarkeit“ geht
+- [Unabhängige Musik Taiwan](/de/music/indie-music-scene) — Der Ökosystemhintergrund für den Aufstieg von VH
+- [Hello Nico](/de/people/hello-nico-band) — Ein Gleichaltriges aus der Indie-Szene, das 2024 mit „Plan B“ nach acht Jahren der Stille zurückkehrte – eine andere Form von Sanftheit und Unterdrückung
 
 ## Referenzen
 

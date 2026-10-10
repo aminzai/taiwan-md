@@ -157,9 +157,9 @@ Taiwan ist eine Großmacht in der Satellitenherstellung, aber es hat noch keine 
 
 **Weiterführende Lektüre:**
 
-- [National Space Program Office (NSPO)](/technology/國家太空中心) — Dieser Artikel behandelt die Lieferkette; dieser hier handelt von der Organisation dahinter: Wie das National Space Program Office vom „Vorbereitungsbüro“ zum staatlichen Unternehmen TASA wurde, indem es Namen, juristische Personen, Land und Raketen Stück für Stück zusammenfügte.
+- [National Space Program Office (NSPO)](/de/technology/tasa-taiwan-space-agency) — Dieser Artikel behandelt die Lieferkette; dieser hier handelt von der Organisation dahinter: Wie das National Space Program Office vom „Vorbereitungsbüro“ zum staatlichen Unternehmen TASA wurde, indem es Namen, juristische Personen, Land und Raketen Stück für Stück zusammenfügte.
 - [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Die vorgelagerte Grundlage der Raumfahrtindustrie; die Satellitenchips stammen aus derselben Lieferkette.
 - [Startup-Ökosystem](/de/economy/taiwan-startup-ecosystem-overview) — Wie private Weltraumstartups staatliche Pläne aufgreifen.
 - [Taiwan 5G Netzbau und digitale Transformation](/de/technology/taiwan-5g-digital-transformation) — Die Resilienz der Satellitenkommunikation und des terrestrischen 5G.
-- [Taiwanische Verteidigung und Militärmodernisierung](/society/台灣國防與軍事現代化) — Vom zivilen Satelliten zur nationalen Verteidigungskommunikation: Der Weltraum als neues Schlachtfeld für die nationale Verteidigungsresilienz Taiwans.
+- [Taiwanische Verteidigung und Militärmodernisierung](/de/society/taiwan-defense-modernization) — Vom zivilen Satelliten zur nationalen Verteidigungskommunikation: Der Weltraum als neues Schlachtfeld für die nationale Verteidigungsresilienz Taiwans.
 - [Lin Qier](/de/people/lin-chi-er-astronaut) — Eine in Taipeh geborene NASA-Weltrauminhaberin, Mitglied des Artemis-Pools; eine persönliche Sicht auf die Verbindung zwischen Taiwan und der globalen Weltraumforschung.

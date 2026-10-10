@@ -217,9 +217,9 @@ Wenn Sie das nächste Mal auf der Dihua-Street gehen, und die Büsten und Vögel
 - [22.8-Aufstand](/de/history/228-incident) — Der Vorfall, der durch die Packung Zigaretten im Jahr 1947 entstanden ist, die Unterdrückung und die Gerechtigkeit
 - [Soziale Bewegungen in Taiwan während der japanischen Herrschaft](/de/history/social-movements-during-japanese-rule) — Jiang Weixue und die Kulturbewegung im Taiping-Machi
 - [Taiwans Volkslieder und Lieder](/de/music/taiwan-folk-music-and-songs) — Das Lied „Willkommen im Frühling" von 1932 und die Columbia-Record-Niederlassung in Taiping-Machi
-- [Manger](/geography/艋舺) — Die besiegten Same-An-Leute flohen 1853 nach dem Top-Down-Gassenstreit von Manger-Bajiazhuang nach Dadaocheng, zwei Straßen sind das Ergebnis desselben Gewaltverbrechens
+- [Manger](/de/geography/bangka) — Die besiegten Same-An-Leute flohen 1853 nach dem Top-Down-Gassenstreit von Manger-Bajiazhuang nach Dadaocheng, zwei Straßen sind das Ergebnis desselben Gewaltverbrechens
 - [Ximending](/de/geography/ximending) — Ein weiteres historisches Viertel aus derselben Serie, 1896 als Unterhaltungsviertel unter japanischer Herrschaft vs. Dadaocheng als Geschäftsviertel unter der Qing-Dynastie, ein Vergleich zweier Entstehungsmomente
-- [Longtoushan](/geography/大龍峒) — Die besiegten Same-An-Leute flohen zuerst nach Longtoushan, wo der Cihai-Tempel als Verteidigungszentrum diente, und dann nach Dadaocheng – ein Zwischenstopp, der in der Erzählung von Dadaocheng oft übersehen wird
+- [Longtoushan](/de/geography/dalongdong) — Die besiegten Same-An-Leute flohen zuerst nach Longtoushan, wo der Cihai-Tempel als Verteidigungszentrum diente, und dann nach Dadaocheng – ein Zwischenstopp, der in der Erzählung von Dadaocheng oft übersehen wird
 - [Shilin](/de/geography/shilin) — Der Streit um die Gassen in Xiang'ao im Jahr 1859 und der Top-Down-Gassenstreit in Manger im Jahr 1853 sind zwei verschiedene Gewaltverbrechen, Shilin ist ein weiteres Ergebnis der Flucht der Quanzhou-Leute nach dem Brand durch die Jinjiang-Leute
 
 ## Bildnachweise

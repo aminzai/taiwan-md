@@ -120,10 +120,10 @@ Die Person, die den Paiwan-Vertrag schloss, und die Person, die Informationen ü
 **Weiterführende Lektüre:**
 
 - [Rover-Ereignis und Tauketok](/de/history/rover-incident-and-tauketok) — Die C-2-Gegenentwort des Artikels: Wie der Paiwan-Vertrag aus Sicht von Tauketok die Stämme schützte und wie er vom anderen Teil des Abkommens verraten wurde.
-- [Geschichte der indigenen Völker Taiwans und Namensgebungsbewegung](/history/台灣原住民族歷史與正名運動) — Die Paiwan im Paiwan-Vertrag: Der lange Weg von „Barbarenland“ zur Anerkennung.
-- [Qing-Regierungszeit](/history/清治時期) — Das Governance-System der Qing-Dynastie, als Le Gendre Taiwan besuchte; das institutionelle Hintergrundverständnis der Antwort „keine Zuständigkeit“.
-- [Shi Wenhou](/people/史溫侯) — Ein anderer Ausländer, der in derselben Ära tiefgreifende Aufzeichnungen über Taiwan hinterließ, aber mit wissenschaftlichen statt machtpolitischen Motiven.
-- [Französisch-Qing-Krieg](/history/清法戰爭) — Acht Jahre nach Le Gendres Abreise von Taiwan griff Frankreich Taiwan mit einer ähnlichen imperialen Logik an.
+- [Geschichte der indigenen Völker Taiwans und Namensgebungsbewegung](/de/history/indigenous-peoples-history-and-naming-movement) — Die Paiwan im Paiwan-Vertrag: Der lange Weg von „Barbarenland“ zur Anerkennung.
+- [Qing-Regierungszeit](/de/history/qing-dynasty-rule) — Das Governance-System der Qing-Dynastie, als Le Gendre Taiwan besuchte; das institutionelle Hintergrundverständnis der Antwort „keine Zuständigkeit“.
+- [Shi Wenhou](/de/people/robert-swinhoe-naturalist) — Ein anderer Ausländer, der in derselben Ära tiefgreifende Aufzeichnungen über Taiwan hinterließ, aber mit wissenschaftlichen statt machtpolitischen Motiven.
+- [Französisch-Qing-Krieg](/de/history/sino-french-war-in-taiwan) — Acht Jahre nach Le Gendres Abreise von Taiwan griff Frankreich Taiwan mit einer ähnlichen imperialen Logik an.
 
 ## Quellenverzeichnis
 

@@ -235,7 +235,7 @@ Im Alter von 76 Jahren verstorben.
 - [Tsai Kung-po](/de/people/tsmc-morris-chang) — Ein führendes Talent aus Taiwan derselben Generation,院士 (Akademiker) des Industrial Technology Research Institute und Gründer von TSMC.
 - [Shi Zhenrong](/de/people/stan-shih) — Unternehmer, der zum Philanthropen wurde; Gründer von Acer.
 - [Wang Yongqing](/de/people/yung-ching-wang-formosa-plastics-founder) — Ein führendes Talent aus Taiwan der vorherigen Generation, Gründer von Formosa Plastics und Chang Gung Hospital, ein frühes Vorbild mit vergleichbarem Spendenumfang.
-- [Taiwanische Verteidigung und Militärmodernisierung](/society/台灣國防與軍事現代化) — Eine weitere Achse zur Bewahrung der Souveränität Taiwans.
+- [Taiwanische Verteidigung und Militärmodernisierung](/de/society/taiwan-defense-modernization) — Eine weitere Achse zur Bewahrung der Souveränität Taiwans.
 
 ## Quellen der Bilder
 

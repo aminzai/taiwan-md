@@ -152,9 +152,9 @@ Von den Halal-Ständen auf Taoyuan Street in Taipei über die alten Restaurants 
 
 ## Weiterführende Lektüre
 
-- [Übersicht über taiwanesische Gastronomie](/food/台灣美食總覽) — Von den indigenen Völkern bis zum Michelin: Die Position des Niurou Mian im vierhundertjährigen gemischten Geschmack
-- [Taiwanesische Frühstückskultur](/food/台灣早餐文化) — Der gesalzene Kuchen, die Frittierte und der Tofu aus der Zeit nach 1949, die ebenfalls von den auswärtigen Einwanderern gebracht wurden, stehen neben Niurou Mian als repräsentative Symbole der Nachkriegs-Essensfusion.
-- [Taiwanisches Braised Pork Rice (Lu Rou Fan)](/food/台灣滷肉飯) — Ein anderer Weg vom Militärfamilienküchen zum nationalen Gericht, das die doppelte Abstammung aus Einwanderersehnsucht und Lokalisierung teilt.
+- [Übersicht über taiwanesische Gastronomie](/de/food/taiwan-food-overview) — Von den indigenen Völkern bis zum Michelin: Die Position des Niurou Mian im vierhundertjährigen gemischten Geschmack
+- [Taiwanesische Frühstückskultur](/de/food/taiwan-breakfast-culture) — Der gesalzene Kuchen, die Frittierte und der Tofu aus der Zeit nach 1949, die ebenfalls von den auswärtigen Einwanderern gebracht wurden, stehen neben Niurou Mian als repräsentative Symbole der Nachkriegs-Essensfusion.
+- [Taiwanisches Braised Pork Rice (Lu Rou Fan)](/de/food/braised-pork-rice) — Ein anderer Weg vom Militärfamilienküchen zum nationalen Gericht, das die doppelte Abstammung aus Einwanderersehnsucht und Lokalisierung teilt.
 - [Flucht der Regierung und Wiederaufbau nach dem Krieg](/de/history/kmt-government-relocation-and-postwar-reconstruction) — Der Wandel in der Esskultur durch die Umsiedlung von 1,2 Millionen Militärangehörigen ist der historische Hintergrund für die Geburt des Niurou Mian.
 - [Taiwanesische Nachtmarktkultur](/de/food/night-market-culture) — Der Kernbereich des Alltagsverkehrs, nachdem das Niurou Mian aus den Militärfamilienküchen kam.
 

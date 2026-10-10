@@ -215,9 +215,9 @@ Das ist das Wasser desselben Keelung-Flusses.
 
 **Weiterführende Literatur**:
 
-- [Jinguashi](/geography/金瓜石) — Schwester-Siedlung am selben Keelung-Oberlauf, Bergbau-Erbe, das sich zum „Goldmuseum-Park“ und Ecomuseum-Pfad gewandelt hat
+- [Jinguashi](/de/geography/jinguashi) — Schwester-Siedlung am selben Keelung-Oberlauf, Bergbau-Erbe, das sich zum „Goldmuseum-Park“ und Ecomuseum-Pfad gewandelt hat
 - [Taiwan-Eisenbahngeschichte](/de/history/taiwan-railway-history) — Die 1920 eröffnete Pingxi-Linie ist die physische Basis des touristischen Rückgrats dieser Strecke Houtong / Pingxi / Jingtong / Shifen
-- [Taiwan-Kultur der streunenden Tiere](/society/台灣流浪動物文化) — Taiwan-Kontext der TNVR-Politik-Evidenz, Houtong ist einer der wenigen erfolgreichen Fälle
+- [Taiwan-Kultur der streunenden Tiere](/de/society/stray-animal-culture) — Taiwan-Kontext der TNVR-Politik-Evidenz, Houtong ist einer der wenigen erfolgreichen Fälle
 - [Zoo- und Ausstellungstierethik](/de/society/zoo-and-exhibition-animal-ethics) — „Katzen-Tourismus“ steht vor derselben tierethischen Spannung wie Zoo / Meerespark
 - [Himmelslaternen](/de/culture/sky-lanterns-pingxi) — Das Pingxi-Himmelslaternenfest sieht sich derselben Spannung zwischen „lokaler Wirtschaft vs. Tierschutz-/Umweltverantwortung“ bei der Transformation von Bergbau-Erbe-Siedlungen gegenüber
 

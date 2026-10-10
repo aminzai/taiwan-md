@@ -166,8 +166,8 @@ Wenn Menschen heute einen Fisch auf dem Markt kaufen, sehen sie Gewicht, Preis u
 
 ## Weiterführende Lektüre
 
-- [Ursprünge der Fischerei in Taiwan](/history/台灣漁業起源) — Die erste Hälfte desselben Meeres: Aquatische Versuche, Fischmärkte und technologische Übernahme nach dem Krieg während der japanischen Kolonialzeit
-- [Geschichte des maritimen Handels in Taiwan](/history/台灣海洋貿易史)
+- [Ursprünge der Fischerei in Taiwan](/de/history/taiwan-fishery-origins) — Die erste Hälfte desselben Meeres: Aquatische Versuche, Fischmärkte und technologische Übernahme nach dem Krieg während der japanischen Kolonialzeit
+- [Geschichte des maritimen Handels in Taiwan](/de/history/taiwan-maritime-trade-history)
 - [Geschichte der Zuckerindustrie in Taiwan](/history/台灣糖業史)
 
 ## Image sources

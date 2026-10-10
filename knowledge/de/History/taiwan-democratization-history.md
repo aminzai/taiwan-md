@@ -176,8 +176,8 @@ Das ist die Bedeutung der Demokratisierung. Es ist keine glatte Erfolgsgeschicht
 
 ## Zugehörige Themen
 
-- [Kriegsrecht](/history/戒嚴時期): Die 38 Jahre autoritäre Herrschaft vor der Demokratisierung
+- [Kriegsrecht](/de/history/martial-law-era): Die 38 Jahre autoritäre Herrschaft vor der Demokratisierung
 - [Taiwanischer Weißer Terror](/de/history/taiwan-white-terror): Die Geschichte von 140.000 politisch Verfolgten
-- [228-Ereignis](/history/二二八事件/): Der Ausgangspunkt des politischen Traumas Taiwans nach dem Krieg
-- [Wahlen und Parteipolitik in Taiwan](/history/台灣選舉與政黨政治/): Die Entwicklung des Wahlsystems nach der Demokratisierung
-- [Große Abberufung](/history/大罷免/): Eine Druckprobe der direkten Bürgerrechte nach vier Jahrzehnten Demokratie, die größte Abberufungsbewegung im Jahr 2025
+- [228-Ereignis](/de/history/228-incident/): Der Ausgangspunkt des politischen Traumas Taiwans nach dem Krieg
+- [Wahlen und Parteipolitik in Taiwan](/de/history/taiwan-elections-and-party-politics/): Die Entwicklung des Wahlsystems nach der Demokratisierung
+- [Große Abberufung](/de/history/great-recall-movement-2024/): Eine Druckprobe der direkten Bürgerrechte nach vier Jahrzehnten Demokratie, die größte Abberufungsbewegung im Jahr 2025

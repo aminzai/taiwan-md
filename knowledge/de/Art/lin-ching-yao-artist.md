@@ -115,7 +115,7 @@ Bis heute fragt er sich weiterhin, wie er es 2014 während seines Stipendiums im
 - **[FAB DAO und das Bergprojekt](/de/art/fab-dao)** — Die sechs Künstler des Bergprojekts und die Struktur der gemeinnützigen NFTs
 - **[Wang Hsin-Jen (A Luan)](/de/art/wang-hsin-jen-artist)** — Mitglied des Bergprojekts, der erste taiwanesische Künstler bei Art Blocks
 - **[Wang Lien-Cheng (Shrimp Dad)](/de/art/wang-lien-cheng-artist)** — Bergprojekt „Zivilisation" Serie, Lux-Preisträger
-- **[Taiwan New Media Art](/art/台灣新媒體藝術)** — Historischer Kontext der generativen Kunst in der taiwanesischen Neuen Medien Kunst
+- **[Taiwan New Media Art](/de/art/taiwan-new-media-art)** — Historischer Kontext der generativen Kunst in der taiwanesischen Neuen Medien Kunst
 - **[Ji Bo-Hao](/de/art/chi-po-hao-musician)** — Mitglied des C-LAB Sound Research Lab Ökosystems, Klangkünstler, gemeinsame Ausstellung bei DIVERSONICS 2025
 
 ## Quellen

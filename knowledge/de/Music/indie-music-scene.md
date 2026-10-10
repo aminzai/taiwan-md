@@ -200,7 +200,7 @@ Was Ren Chi-ta jenen Kindern sagte, ist vielleicht genau der Satz, den Taiwans I
 
 **Weiterführende Literatur**:
 
-- [Von Deserts Chang zu An-pu](/music/張懸與安溥) — Identitätswandel einer repräsentativen Stimme der taiwanesischen Independentmusik, vom Flaggenvorfall bis zur Namensänderung und der Identitätspolitik dahinter
+- [Von Deserts Chang zu An-pu](/de/music/deserts-chang-and-anpu) — Identitätswandel einer repräsentativen Stimme der taiwanesischen Independentmusik, vom Flaggenvorfall bis zur Namensänderung und der Identitätspolitik dahinter
 - [Geschichte des taiwanesischen Rock](/de/music/taiwan-rock-from-underground-to-mainstream) — Der vollständige Weg des Rocks in Taiwan vom Verbot zum Mainstream
 - [Taiwans Festivalkultur](/de/music/taiwan-music-festival-culture) — Wie das Hohaiyan Rock Festival zur Independentmusik-Brutstätte wurde
 - [Muddy Basin Ramblers](/de/music/loh-tsui-kang-commune) — Dreißig Jahre Taiwanesisch-Punk im Underground, nach Auflösung erste Golden-Melody-Nominierung und sofort Gewinn Bestes Taiwanesisch-Album

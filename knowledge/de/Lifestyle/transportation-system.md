@@ -165,7 +165,7 @@ Die Geschichte des Seeverkehrs ist noch dramatischer. Von den 1980er bis in die 
 
 **Weiterführende Lektüre:**
 
-- [Das Busnetz Taiwans](/lifestyle/台灣的公車系統) — Wie „die Menschen ohne Lenkrad“ auf der Rollerinsel unterwegs sind und wie dieses System in den ländlichen Gebieten zusammenbricht
+- [Das Busnetz Taiwans](/de/lifestyle/taiwan-bus-system) — Wie „die Menschen ohne Lenkrad“ auf der Rollerinsel unterwegs sind und wie dieses System in den ländlichen Gebieten zusammenbricht
 - [Die Convenience Store Kultur Taiwans](/de/lifestyle/convenience-store-culture) — Eine weitere Infrastruktur, die 24 Stunden am Tag läuft, genau wie das Verkehrssystem
 - [Die Rollerkultur Taiwans](/de/lifestyle/taiwan-scooter-culture) — Städtisches Design, Klassenpolitik und der Kampf um die Straßenrechte hinter den 14 Millionen Rollern
 - [Entwicklung der E-Auto-Industrie in Taiwan](/de/technology/taiwan-electric-vehicle-industry-chain) — Die Rolle Taiwans in der globalen E-Auto-Lieferkette jenseits von Gogoro

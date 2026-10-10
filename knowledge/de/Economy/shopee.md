@@ -77,10 +77,10 @@ In den zehn Jahren in Taiwan hat Shopee das Konsumtempo dieser Insel grundlegend
 
 ## Weiterführende Lektüre
 
-- [E-Commerce und Ökosystem für digitale Zahlungen](/technology/電子商務與數位支付生態系) — Wie sieht die Zahlungskarte von Shopee Pay aus?
-- [Hi-Life (萊爾富)](/economy/萊爾富) — Der alteingesessene Convenience Store, der überholt wurde; wie steht es um seinen eigenen Abholkampf?
+- [E-Commerce und Ökosystem für digitale Zahlungen](/de/technology/e-commerce-and-digital-payment-ecosystem) — Wie sieht die Zahlungskarte von Shopee Pay aus?
+- [Hi-Life (萊爾富)](/de/economy/hilife-convenience-store) — Der alteingesessene Convenience Store, der überholt wurde; wie steht es um seinen eigenen Abholkampf?
 - [Convenience Store Kultur in Taiwan](/de/lifestyle/convenience-store-culture) — Warum sind Convenience Stores zu einer öffentlichen Infrastruktur in Taiwan geworden?
-- [Zollabfertigung und EZWAY in Taiwan](/lifestyle/台灣海關報關制度與EZWAY) — Die Kontrollstelle, die durchquert werden muss, bevor grenzüberschreitende Pakete eintreffen.
+- [Zollabfertigung und EZWAY in Taiwan](/de/lifestyle/ezway) — Die Kontrollstelle, die durchquert werden muss, bevor grenzüberschreitende Pakete eintreffen.
 
 ## Quellenangaben
 

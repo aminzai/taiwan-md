@@ -89,7 +89,7 @@ Sie brachte das Thema LGBTQ+ früher in den Mainstream-Unterhaltungsblick als di
 
 Vom Restaurant-Auftritt in den Nächten Taitungs bis zu fünf Shows im Taipeh Dome mit Heißluftballons über den Köpfen des Publikums – A-meis Laufbahn ist kein Standarddrehbuch der taiwanesischen Unterhaltungsindustrie, sondern die Geschichte, wie ein Mädchen der indigenen Völker mit ihrer Stimme einen größeren Raum eröffnete – und dann alle hineinließ.
 
-**Weiterführende Lektüre:** [A-mei – Wikipedia](https://zh.wikipedia.org/wiki/張惠妹) ｜ [Chang Yu-sheng](/people/張雨生) – der Seelenproduzent hinter „Schwestern“
+**Weiterführende Lektüre:** [A-mei – Wikipedia](https://zh.wikipedia.org/wiki/張惠妹) ｜ [Chang Yu-sheng](/de/people/chang-yu-sheng-singer) – der Seelenproduzent hinter „Schwestern“
 
 ## Referenzen
 

@@ -134,7 +134,7 @@ Was Cheng hinterließ, ist eine Frage, die weiter diskutiert werden kann: Warum 
 
 **Weiterführende Lektüre**
 
-- [Bernard Tseng](/people/曾博恩) – Im August 2019 zitierte der Moderator der Open-Mic-Show „Bernard's Nightly Show“ in einem Segment Chengs Selbstverbrennung und löste einen heftigen gesellschaftlichen Widerstand sowie eine erste Pause in der Zusammenarbeit mit der Produktionsfirma aus.
+- [Bernard Tseng](/de/people/bernard-tseng) – Im August 2019 zitierte der Moderator der Open-Mic-Show „Bernard's Nightly Show“ in einem Segment Chengs Selbstverbrennung und löste einen heftigen gesellschaftlichen Widerstand sowie eine erste Pause in der Zusammenarbeit mit der Produktionsfirma aus.
 - [Nationales Menschenrechtsmuseum](https://www.nhrm.gov.tw/) – Oral History zu Weißem Terror und Demokratiebewegung
 - Hu Hui-ling, „Hundert Jahre Streben: Die Geschichte der taiwanesischen Demokratiebewegung“ – ausführliche Aufzeichnungen zu Cheng Nan-jung und der Parteilosen Bewegung
 - [Stiftung für das 228-Ereignis](https://www.228.org.tw/) – der Zusammenhang zwischen Chengs Familie und dem 228-Ereignis

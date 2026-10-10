@@ -68,9 +68,9 @@ Für Chang Zhi-qi war die Gründung und Führung des Kanals ein Prozess ständig
 
 ## Weiterführende Lektüre
 
-- **[A Di](/people/阿滴)**: Mitbegründer der Taiwan New Media Creator Association; beide sind Wissens-YouTuber aus der Generation der „Dorftagsführer“.
-- **[Ba Jiong](/people/八炯)**: Eine andere Strategie des Self-Media, die sich auf politische Kommentare konzentriert, aber den Weg des „spöttischen Anti-Kriegs“-Ansatzes geht.
-- **[Taiwanische Demokratische Transformation](/history/台灣民主轉型)**: Der Kontext der öffentlichen Debatte in Taiwan hinter Chang Zhi-quis kuratorischer Stil der „Darstellung verschiedener Sichtweisen“.
+- **[A Di](/de/people/ray-du-english-youtuber)**: Mitbegründer der Taiwan New Media Creator Association; beide sind Wissens-YouTuber aus der Generation der „Dorftagsführer“.
+- **[Ba Jiong](/de/people/pa-chiung-political-youtuber)**: Eine andere Strategie des Self-Media, die sich auf politische Kommentare konzentriert, aber den Weg des „spöttischen Anti-Kriegs“-Ansatzes geht.
+- **[Taiwanische Demokratische Transformation](/de/history/taiwan-democratization)**: Der Kontext der öffentlichen Debatte in Taiwan hinter Chang Zhi-quis kuratorischer Stil der „Darstellung verschiedener Sichtweisen“.
 
 ---
 

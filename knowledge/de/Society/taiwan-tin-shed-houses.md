@@ -115,9 +115,9 @@ Wo wird das nächste Feuer in einem bestehenden Verstoß ausbrechen? Niemand wei
 
 **Weiterführende Lektüre:**
 
-- [Sozialwohnungen und Wohngerechtigkeit](/society/社會住宅與居住正義) — Die Schwierigkeiten bei der Förderung von Sozialwohnungen in Taiwan und die Mietmarktsituation, zu dem größere Wohnstrukturproblem gehört.
-- [Umweltgerechtigkeit und NIMBY-Streit in Taiwan](/society/台灣環境正義與鄰避爭議) — Erweiterung des Themas Landnutzung und Umweltverschmutzung hinter der Räumung der Blechfabriken in Wenzaizhen.
-- [Landgerechtigkeit und traditionelle Gebiete der indigenen Völker Taiwans](/society/台灣原住民族土地正義與傳統領域) — Die Komplexität der Landnutzung zwischen „legal“ und „illegal“ aus verschiedenen Blickwinkeln verstehen.
+- [Sozialwohnungen und Wohngerechtigkeit](/de/society/social-housing-and-housing-justice) — Die Schwierigkeiten bei der Förderung von Sozialwohnungen in Taiwan und die Mietmarktsituation, zu dem größere Wohnstrukturproblem gehört.
+- [Umweltgerechtigkeit und NIMBY-Streit in Taiwan](/de/society/taiwan-environmental-justice-nimby-conflicts) — Erweiterung des Themas Landnutzung und Umweltverschmutzung hinter der Räumung der Blechfabriken in Wenzaizhen.
+- [Landgerechtigkeit und traditionelle Gebiete der indigenen Völker Taiwans](/de/society/indigenous-land-justice-and-traditional-territories) — Die Komplexität der Landnutzung zwischen „legal“ und „illegal“ aus verschiedenen Blickwinkeln verstehen.
 
 ## Referenzen
 

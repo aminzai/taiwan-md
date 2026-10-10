@@ -113,7 +113,7 @@ Chen Si-hong schrieb von Berlin in Chinesisch über eine spukhafte Familie in Ch
 
 - [Taiwan Reisebericht](/de/art/taiwan-travelogue) – Yang Shuang-zi’s pseudo-übersetzter Roman, 2024 US NBA Übersetzungspreis, 2026 Internationaler Booker-Preis – das erste Werk der gegenwärtigen taiwanesischen Literatur, das diese beiden Preise erhielt
 - [Taiwan-Literatur nach der Demokratisierung](/de/art/post-martial-law-taiwanese-literature) – 1987–2000: eine Phase der Vielfalt (politische Romane, Frauenliteratur, indigene Kultur, Muttersprache); Luo Yi-jun, Zhu Tian-wen, Zhu Tian-xin erreichten mit dieser Phase die Reife
-- [Taiwan-Literatur nach dem Krieg](/art/戰後台灣文學) – 1945–1987: 42 Jahre der Stille, von der Verlorenheit, Moderne, ländlicher Debatten bis zur Frauenbewusstseinsbewegung
+- [Taiwan-Literatur nach dem Krieg](/de/art/postwar-taiwanese-literature) – 1945–1987: 42 Jahre der Stille, von der Verlorenheit, Moderne, ländlicher Debatten bis zur Frauenbewusstseinsbewegung
 - [Geschichte der taiwanesischen Literatur](/de/art/history-of-taiwanese-literature) – von der Kolonialzeit, Ming- und Qing-Dynastie, japanischer Kolonialherrschaft, Nachkriegszeit bis zur Gegenwart
 
 ## Quellen

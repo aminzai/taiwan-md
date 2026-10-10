@@ -141,9 +141,9 @@ Sieben Jahre sind kurz, aber die Samen wurden über drei Jahrzehnte verteilt. We
 
 **Weiterführende Literatur:**
 
-- [Taiwan Contemporary Art](/art/當代藝術) — Der Gesamtkontext der Entwicklung der taiwanesischen zeitgenössischen Kunst nach der politischen Öffnung, wobei die New Ecological Art Environment ein repräsentativer Knotenpunkt in Südtaiwan ist
-- [Taiwan Curators and Cultural Construction](/art/台灣策展人與藝術文化建構) — Der Prozess der Lokalisierung kuratorischer Konzepte in den 1990er Jahren, wobei Zheng Mingquan ein Beispiel ist
-- [Taiwan New Media Art](/art/台灣新媒體藝術) — Das parallele Projekt „Local Experiments (ETAT)“ von Huang Wenghao, das 1995 entstand und auf die gleiche Zeit reagiert
+- [Taiwan Contemporary Art](/de/art/contemporary-art) — Der Gesamtkontext der Entwicklung der taiwanesischen zeitgenössischen Kunst nach der politischen Öffnung, wobei die New Ecological Art Environment ein repräsentativer Knotenpunkt in Südtaiwan ist
+- [Taiwan Curators and Cultural Construction](/de/art/taiwanese-curators-and-artistic-cultural-construction) — Der Prozess der Lokalisierung kuratorischer Konzepte in den 1990er Jahren, wobei Zheng Mingquan ein Beispiel ist
+- [Taiwan New Media Art](/de/art/taiwan-new-media-art) — Das parallele Projekt „Local Experiments (ETAT)“ von Huang Wenghao, das 1995 entstand und auf die gleiche Zeit reagiert
 
 ## Bildnachweise
 

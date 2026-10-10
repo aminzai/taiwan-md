@@ -273,10 +273,10 @@ Jedes Oktober hörte eine altein ungarische Dame das Radio und lauschte dem Nobe
 
 **Weiterführende Lektüre**:
 
-- [Taiwanische öffentliche Gesundheit und Präventionssystem](/society/台灣公共衛生與防疫體系) — Der vollständige Kontext des taiwanesischen Präventionssystems während COVID-19; der BNT-Kauf von 2021 ist ein Teil davon.
-- [Medizinrecht](/society/醫療法) — Die Dual Laws sind ein Sondergesetz, das vom Medizinrecht abgetrennt wurde; das Medizinrecht ist die Grundlage für die medizinische Regulierung in Taiwan.
+- [Taiwanische öffentliche Gesundheit und Präventionssystem](/de/society/taiwan-public-health-epidemic-response) — Der vollständige Kontext des taiwanesischen Präventionssystems während COVID-19; der BNT-Kauf von 2021 ist ein Teil davon.
+- [Medizinrecht](/de/society/medical-care-act) — Die Dual Laws sind ein Sondergesetz, das vom Medizinrecht abgetrennt wurde; das Medizinrecht ist die Grundlage für die medizinische Regulierung in Taiwan.
 - [Entwicklung der taiwanesischen Biotech-Industrie](/technology/台灣生技產業發展) — Der gesamte Kontext von Forschung und Industrie hin zur Industrialisierung; Zelltherapie und mRNA sind Unterzweige davon.
-- [Medizin und Sozialversicherung in Taiwan](/lifestyle/台灣醫療與全民健保) — Ob die Zelltherapie in die staatliche Krankenversicherung aufgenommen werden kann, ist entscheidend für das „Asiatische Zellbankwesen“; die Struktur des Gesamtbudgets der Krankenversicherung bestimmt auch den Weg zur Kommerzialisierung der regenerativen Medizin.
+- [Medizin und Sozialversicherung in Taiwan](/de/lifestyle/taiwan-healthcare-and-national-health-insurance) — Ob die Zelltherapie in die staatliche Krankenversicherung aufgenommen werden kann, ist entscheidend für das „Asiatische Zellbankwesen“; die Struktur des Gesamtbudgets der Krankenversicherung bestimmt auch den Weg zur Kommerzialisierung der regenerativen Medizin.
 - [Medizinindustrie Taifans](/economy/台灣醫療產業) — Die industrielle Seite der Neuherstellung und CDMO, ergänzt durch die Compliance-Perspektive dieses Artikels.
 
 ## Bildquellen

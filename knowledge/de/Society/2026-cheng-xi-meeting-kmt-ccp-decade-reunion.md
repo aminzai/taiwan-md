@@ -169,7 +169,7 @@ Singapur im Jahr 2015 war ein Händedruck; Peking im Jahr 2026 war eine Inszenie
 - [Taiwanstraßenkrise und Entwicklungen der Beziehungen auf beiden Seiten](/de/history/taiwan-strait-crises-and-cross-strait-relations) — Eine Geschichte der Interaktion zwischen den beiden Seiten von 1949 bis 2016; das Zheng-Xi-Treffen ist nur ein neues Kapitel in diesem langen Fluss.
 - [Politisches Umfeld und Wahlsystem Taiwans](/de/society/taiwan-political-landscape-and-electoral-system) — Um zu verstehen, „warum es Zheng Liwen war“, muss man zuerst die parteiinternen Debatten der KMT bei den Wahlen 2025 verstehen.
 - [Demokratischer Wandel in Taiwan](/de/history/taiwan-democratization) — Warum betont AIT den „Dialog mit gewählten Führungskräften“? Hier liegt die Grundlage dieses Prinzips.
-- [Verteidigung und Militarisierung Taiwans](/society/台灣國防與軍事現代化) — Hinter Zheng’s „institutioneller Vorbeugung von Krieg“ steht der politische Kampf um das Verteidigungsbudget.
+- [Verteidigung und Militarisierung Taiwans](/de/society/taiwan-defense-modernization) — Hinter Zheng’s „institutioneller Vorbeugung von Krieg“ steht der politische Kampf um das Verteidigungsbudget.
 - [Lai Ching-te](/de/people/lai-ching-te) — Der andere Hauptdarsteller dieses Stücks, der absichtlich außerhalb des Bildes gelassen wurde.
 - [Zheng Liwen](/de/people/cheng-li-wun) — Von der Studentenaktivistin, die 1988 vor dem Taihoku-Tor für die Unabhängigkeit Taiwans aushungerte, zur KMT-Vorsitzenden in Peking im Jahr 2026, die sagte: „Die Volksgenossen auf beiden Seiten sind Chinesen“.
 - [Han Kuo-yu](/de/people/han-kuo-yu) — Der Präsident des Gesetzgebungsorganes und Gastgeber der Haushaltsverhandlungen dieser Woche; eine weitere Schlüsselrolle in diesem Stück.

@@ -103,8 +103,8 @@ Die Geschichte von Books.com.tw ist nahezu eine Mikrokosmos der Entwicklung des 
 
 ## Weiterführende Lektüre
 
-- **[Taiwanisches Unternehmen: Uni Corporation](/economy/台灣企業：統一企業)** — Die strategische Anordnung des Uni-Konzerns zur Konsolidierung des gesamten taiwanesischen Einzelhandelsspektrums
-- **[FamilyMart Welfare Center (全聯福利中心)](/economy/全聯福利中心)** — Der Wettbewerb um die Königin des Einzelhandels, vom Wohlfahrtsgeschäft zum Retailer
+- **[Taiwanisches Unternehmen: Uni Corporation](/de/economy/taiwan-enterprise-uni-president)** — Die strategische Anordnung des Uni-Konzerns zur Konsolidierung des gesamten taiwanesischen Einzelhandelsspektrums
+- **[FamilyMart Welfare Center (全聯福利中心)](/de/economy/pxmart-supermarket)** — Der Wettbewerb um die Königin des Einzelhandels, vom Wohlfahrtsgeschäft zum Retailer
 - **[Shopping Design](/culture/Shopping Design)** — Medienpraxis, bei der Design zu Konsum und Lebensstil wird
 
 ## Quellenangaben

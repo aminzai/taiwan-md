@@ -100,10 +100,10 @@ Vierzehn Jahre, drei Personen, von der Zhongzhong-Mittelschule bis heute. Sie sa
 
 **Weiterführende Literatur:**
 
-- [taiwanische unabhängige Musik](/music/台灣獨立音樂) – Von natürlichen Kurven über Cattle Market bis zu Fish Sticks Post-Hardcore: Die historische Entwicklung der taiwanesischen unabhängigen Musik
-- [Cattle Market hat keine Party](/people/草東沒有派對) – Eine andere Band aus Taipeh, ebenfalls Schüler der Mittelschule, zweimaliger Gewinner der Goldenen Melodie
-- [Bad Teeth](/people/壞特) – Zeitgenössische taiwanesische unabhängige Musiker, völlig andere Richtung R&B-Bedroom-Pop
-- [Die Veränderungen von Konstantin](/people/康士坦的變化球) – Referenz für die taipeher unabhängige Rock-Szene, erzählende Stimmen
+- [taiwanische unabhängige Musik](/de/music/indie-music-scene) – Von natürlichen Kurven über Cattle Market bis zu Fish Sticks Post-Hardcore: Die historische Entwicklung der taiwanesischen unabhängigen Musik
+- [Cattle Market hat keine Party](/de/people/no-party-for-cao-dong) – Eine andere Band aus Taipeh, ebenfalls Schüler der Mittelschule, zweimaliger Gewinner der Goldenen Melodie
+- [Bad Teeth](/de/people/huai-te-indie-singer) – Zeitgenössische taiwanesische unabhängige Musiker, völlig andere Richtung R&B-Bedroom-Pop
+- [Die Veränderungen von Konstantin](/de/people/constant-and-change-band) – Referenz für die taipeher unabhängige Rock-Szene, erzählende Stimmen
 
 ## Externe Links
 

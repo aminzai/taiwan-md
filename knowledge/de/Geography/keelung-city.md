@@ -193,15 +193,15 @@ Beim nächsten Besuch in Keelung, schau nicht nur in den Tempelmarkt. Versuch es
 - [Taiwanische Stadtentwicklung und ländlich-städtische Kluft](/de/geography/taiwan-urban-development-and-rural-urban-divide) — eine Betrachtung der Rolle von Keelung als „verblasste Hafenstadt“ im größeren städtischen Strukturverbund Taiwans
 - [Verwaltungseinheiten Taiwans](/de/geography/administrative-divisions-of-taiwan) — Verwaltungsgeschichte: 1875 Umbenennung durch Shen Baozhen, 1924 Aufwertung zur Stadt, 1945 Umwandlung in Provinzhauptstadt
 - [Stadtsonderheiten und regionale Kultur](/de/geography/urban-character-and-regional-culture) — Kontrastierung von Keelung mit anderen Städten
-- [Jinsha](/geography/金瓜石) — Keelungs größter Hafenbetrieb: 1932 wurde der Schaukelpulvertransport durch die Wasselloch-Gondel von Jinsha nach Zhengjin Hafen exportiert
+- [Jinsha](/de/geography/jinguashi) — Keelungs größter Hafenbetrieb: 1932 wurde der Schaukelpulvertransport durch die Wasselloch-Gondel von Jinsha nach Zhengjin Hafen exportiert
 - [Yehliu](/de/geography/yehliu-geopark) — ebenfalls Teil des geologischen Küstenstreifens der Nordsee
 - [Küstenformen und Meereslandschaften Taiwans](/de/geography/taiwan-coastal-landforms-and-seascapes) — Entstehung von Keelung-Insel und Keelung-Vulkanen
-- [Jiayi](/geography/嘉義市) — eine weitere mittelgroße Provinzhauptstadt im Rahmen der 22 Städte, ebenfalls von der Hauptstadt dominiert, Vergleich zweier unterschiedlicher Fehlerlinien
-- [Nangan](/geography/連江縣) — 22 Städte im Vergleich: Der Transfer von Keelung nach Nangan dauert 8–10 Stunden mit dem Matsu-Fährschiff; Keelung ist die physische Verbindung zwischen Matsu und der taiwischen Hauptinsel
-- [Miaoli](/geography/苗栗縣) — 22 Städte im Vergleich: harter Hakka-Widerstand vs. das Paradox der fünf-Sterne-Bürgermeister, zwei verschiedene lokale Politikmodelle neben Keelung
-- [Penghu](/geography/澎湖縣) — 22 Städte im Vergleich: Inselhoheit in zwei Spielen, ebenfalls ein vergessenter Hafenanschluss wie Keelung
+- [Jiayi](/de/geography/chiayi-city) — eine weitere mittelgroße Provinzhauptstadt im Rahmen der 22 Städte, ebenfalls von der Hauptstadt dominiert, Vergleich zweier unterschiedlicher Fehlerlinien
+- [Nangan](/de/geography/lienchiang-county) — 22 Städte im Vergleich: Der Transfer von Keelung nach Nangan dauert 8–10 Stunden mit dem Matsu-Fährschiff; Keelung ist die physische Verbindung zwischen Matsu und der taiwischen Hauptinsel
+- [Miaoli](/de/geography/miaoli-county) — 22 Städte im Vergleich: harter Hakka-Widerstand vs. das Paradox der fünf-Sterne-Bürgermeister, zwei verschiedene lokale Politikmodelle neben Keelung
+- [Penghu](/de/geography/penghu-county) — 22 Städte im Vergleich: Inselhoheit in zwei Spielen, ebenfalls ein vergessenter Hafenanschluss wie Keelung
 - [Yilan](/de/geography/yilan-county) — 22 Städte im Vergleich: zwei Yilans vor und nach dem Schneemountain-Tunnel, ebenfalls von Keelung betroffen von der Schicksalsschläge „zu nah an der Hauptstadt“
-- [Pingtung](/geography/屏東縣) — 22 Städte im Vergleich: 1874 Mohammedia-Ereignis, das das Schicksal Taiwans veränderte / 2009 Supersturm Morakot, der das Küstengebiet von Linbian für einen Monat zerstörte; ebenfalls ein entscheidender Knotenpunkt, den die Hauptstadt-Geschichte übersehen hat
+- [Pingtung](/de/geography/pingtung-county) — 22 Städte im Vergleich: 1874 Mohammedia-Ereignis, das das Schicksal Taiwans veränderte / 2009 Supersturm Morakot, der das Küstengebiet von Linbian für einen Monat zerstörte; ebenfalls ein entscheidender Knotenpunkt, den die Hauptstadt-Geschichte übersehen hat
 - [Kinmen](/de/geography/kinmen-county) — 22 Städte im Vergleich: 1949 entschieden die 56 Stunden von Guningtou das Schicksal von Kinmen für 75 Jahre und damit Taiwans; 1958, 44 Tage, 474.910 Geschoße während der Acht-zwei-drei-Krise; zwei Versionen der Kriegsgrenze im Kalten Krieg
 
 ## Bildquellen

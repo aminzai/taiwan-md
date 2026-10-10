@@ -63,9 +63,9 @@ Wenn wir die digitale Kultur Taiwans betrachten, ist Zhous Geschichte eine moder
 
 ## Weiterführende Literatur
 
-- [Ashen](/people/阿神) – Ein weiterer taiwanesischer YouTuber, der bei Minecraft begonnen hat, mit einem anderen Umstiegspfad
-- [Dai](/people/阿滴) – Ein Inhaltschöpfer mit ähnlichem Hintergrund (auch wenn das Fachgebiet anders ist)
-- [Cai A-Ga](/people/蔡阿嘎) – Eine weitere Karriereperspektive unter taiwanesischen Millionären YouTimern
+- [Ashen](/de/people/red-shin-minecraft-youtuber) – Ein weiterer taiwanesischer YouTuber, der bei Minecraft begonnen hat, mit einem anderen Umstiegspfad
+- [Dai](/de/people/ray-du-english-youtuber) – Ein Inhaltschöpfer mit ähnlichem Hintergrund (auch wenn das Fachgebiet anders ist)
+- [Cai A-Ga](/de/people/tsai-a-ga-youtuber) – Eine weitere Karriereperspektive unter taiwanesischen Millionären YouTimern
 
 ## Quellenangaben
 

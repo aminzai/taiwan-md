@@ -106,10 +106,10 @@ Red Candle im Jahr 2026 ist immer noch ein schlankes Team, es ist nicht börsenn
 
 ## Weiterführende Lektüre
 
-- [Taiwanische Spieleindustrie und digitale Unterhaltung](/technology/台灣遊戲產業與數位娛樂) — Ein Überblick über die taiwanesische Spieleentwicklung vom Vertrieb zur Originalität
-- [Daiyu Double Sword](/technology/大宇雙劍) — Die Ära vor Red Candle, der Ausgangspunkt für taiwanisches Storytelling in chinesischer Sprache
+- [Taiwanische Spieleindustrie und digitale Unterhaltung](/de/technology/taiwan-gaming-industry) — Ein Überblick über die taiwanesische Spieleentwicklung vom Vertrieb zur Originalität
+- [Daiyu Double Sword](/de/technology/softstar-twin-classics) — Die Ära vor Red Candle, der Ausgangspunkt für taiwanisches Storytelling in chinesischer Sprache
 - [Der wilde Moment der taiwanesischen Spieler](/de/technology/taiwan-gamers-wildest-moments) — Eine andere Seite des kollektiven Verhaltens der taiwanesischen Spieler
-- [Rhea Games](/technology/雷亞遊戲) — Ein zeitgenössisches taiwanesisches Indie-Team, das nach dem Morsecode-Vorfall 2020 ICE einen anderen Weg wählte als Red Candle: Mitarbeiter entlassen und den chinesischen Markt halten
+- [Rhea Games](/de/technology/rayark-games) — Ein zeitgenössisches taiwanesisches Indie-Team, das nach dem Morsecode-Vorfall 2020 ICE einen anderen Weg wählte als Red Candle: Mitarbeiter entlassen und den chinesischen Markt halten
 
 ---
 

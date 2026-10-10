@@ -70,9 +70,9 @@ Dies beweist die enorme seelische Wanderung der Außenseiter in nur einem Jahrze
 
 ## Weiterführende Lektüre
 
-- [Gruppen (Hokkien, Hakka, indigene Völker, Außenseiter, neue Bewohner)](/culture/族群（閩南客家原住民外省新住民）) — Verständnis der Interaktion zwischen den Außenseitern und anderen Gruppen im größeren Kontext der Gruppenzugehörigkeit.
+- [Gruppen (Hokkien, Hakka, indigene Völker, Außenseiter, neue Bewohner)](/de/culture/ethnic-groups) — Verständnis der Interaktion zwischen den Außenseitern und anderen Gruppen im größeren Kontext der Gruppenzugehörigkeit.
 - [Geschichte der Daqin-Dörfer in Taiwan](/de/history/taiwan-military-dependents-villages-history) — Ergänzung über Wohnraum, soziale Netzwerke und kulturelles Gedächtnis nach der Landung der Außenseiter.
-- [Weißer Terror in Taiwan](/history/台灣白色恐怖) — Verbindung der erlittenen Erfahrungen der Außenseiter unter autoritärer Herrschaft und politischen Fällen.
+- [Weißer Terror in Taiwan](/de/history/taiwan-white-terror) — Verbindung der erlittenen Erfahrungen der Außenseiter unter autoritärer Herrschaft und politischen Fällen.
 
 ## Quellenverzeichnis
 

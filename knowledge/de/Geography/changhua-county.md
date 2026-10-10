@@ -207,16 +207,16 @@ Wenn du das nächste Mal in Changhua bist, besuche nicht nur die Altstadt von Lu
 
 ## Weiterführende Lektüre
 
-- [Taiwanische Altstadtkultur und Handelsviertel](/culture/台灣老街文化與商業街區) — Vergleich der Hafenhandelsviertel von Lukang mit anderen alten Städten in Taiwan
-- [Taiwanisches Flusssystem und hydrologische Besonderheiten](/geography/台灣河川系統與水文特色) — Wie Zuo Shui Xi und Daodu Creek die Changhua Ebene formen, der hydrologische Hintergrund des Baobaozhen
-- [Landwirtschaftliche Landschaft und industrielle Verteilung in Taiwan](/geography/台灣農業地景與產業分布) — Die Position von Changhua als Agrarlandkreis auf der landwirtschaftlichen Karte Taiwans
-- [Administrative Gliederung Taiwans](/geography/台灣行政區劃) — Der vollständige administrative Verlauf: Gründung im Jahr 1723, Umbenennung in Taichung County 1920, Neugründung von Changhua County 1945
-- [Soziale Bewegungen und bürgerschaftliches Engagement](/society/社會運動與公民參與) — Die Stellung des Erlin-Ereignisses (1925) und des Anti-DuPont-Protests (1986) in der Geschichte der sozialen Bewegungen Taiwans
-- [Umweltschutz und nachhaltige Entwicklung](/society/環保與永續發展) — Der Anti-DuPont-Protest von Lukang (1986) als Beginn der Umweltbewegung in Taiwan
-- [Taiwanische Gebäckkultur](/food/台灣糕餅文化) — Ursprung des Beancurry von Beidou im Jahr 1898, die hundertjährige Tradition der Bäckerei von Lukang
-- [Taishin (Taiwan Sugar Corporation)](/economy/台糖) — Die Lin Benyuan Sugar Company hinter dem Erlin-Ereignis, das japanische Zuckerimperium
-- [Keelung City](/geography/基隆市) — Ein weiteres County, das durch einen Hafen geprägt wurde; Vergleich der unterschiedlichen Fehlerlinien von „schwindenden Hafenstädten“
-- [Hsinchu County](/geography/新竹縣) — 22 Counties Series: Die dem Technologiepark angepassten Hakka-Dörfer und die andere Bevölkerungsstruktur im zentralen Korridor im Gegensatz zu Changhua als Agrarlandkreis
+- [Taiwanische Altstadtkultur und Handelsviertel](/de/culture/taiwan-historic-streets-and-commercial-districts) — Vergleich der Hafenhandelsviertel von Lukang mit anderen alten Städten in Taiwan
+- [Taiwanisches Flusssystem und hydrologische Besonderheiten](/de/geography/taiwan-river-systems-and-hydrology) — Wie Zuo Shui Xi und Daodu Creek die Changhua Ebene formen, der hydrologische Hintergrund des Baobaozhen
+- [Landwirtschaftliche Landschaft und industrielle Verteilung in Taiwan](/de/geography/taiwan-agricultural-landscapes-and-industry-belts) — Die Position von Changhua als Agrarlandkreis auf der landwirtschaftlichen Karte Taiwans
+- [Administrative Gliederung Taiwans](/de/geography/administrative-divisions-of-taiwan) — Der vollständige administrative Verlauf: Gründung im Jahr 1723, Umbenennung in Taichung County 1920, Neugründung von Changhua County 1945
+- [Soziale Bewegungen und bürgerschaftliches Engagement](/de/society/social-movements-and-civic-participation) — Die Stellung des Erlin-Ereignisses (1925) und des Anti-DuPont-Protests (1986) in der Geschichte der sozialen Bewegungen Taiwans
+- [Umweltschutz und nachhaltige Entwicklung](/de/society/environmental-awakening-and-net-zero-transition) — Der Anti-DuPont-Protest von Lukang (1986) als Beginn der Umweltbewegung in Taiwan
+- [Taiwanische Gebäckkultur](/de/food/taiwan-pastry-culture) — Ursprung des Beancurry von Beidou im Jahr 1898, die hundertjährige Tradition der Bäckerei von Lukang
+- [Taishin (Taiwan Sugar Corporation)](/de/economy/taiwan-sugar) — Die Lin Benyuan Sugar Company hinter dem Erlin-Ereignis, das japanische Zuckerimperium
+- [Keelung City](/de/geography/keelung-city) — Ein weiteres County, das durch einen Hafen geprägt wurde; Vergleich der unterschiedlichen Fehlerlinien von „schwindenden Hafenstädten“
+- [Hsinchu County](/de/geography/hsinchu-county) — 22 Counties Series: Die dem Technologiepark angepassten Hakka-Dörfer und die andere Bevölkerungsstruktur im zentralen Korridor im Gegensatz zu Changhua als Agrarlandkreis
 
 ## Bildquellen
 

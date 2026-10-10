@@ -164,8 +164,8 @@ Im Jahr 2026 wird das Nord-Taipei Special Area eine neue Prüfung erleben, wenn 
 
 ## Weiterführende Lektüre
 
-- [Stadtentwicklung und ländliche Disparitäten in Taiwan](/geography/台灣都市發展與城鄉差距) — Setzt das Nord-Taipei Special Area in den langfristigen Kontext der Neugestaltung und städtischen Expansion Taiwans ein.
-- [Linkou New Township](/geography/林口新市鎮) — Wie eine andere Stadt, die ebenfalls „Geisterstadt“ genannt wurde, reif wurde.
+- [Stadtentwicklung und ländliche Disparitäten in Taiwan](/de/geography/taiwan-urban-development-and-rural-urban-divide) — Setzt das Nord-Taipei Special Area in den langfristigen Kontext der Neugestaltung und städtischen Expansion Taiwans ein.
+- [Linkou New Township](/de/geography/linkou-new-town) — Wie eine andere Stadt, die ebenfalls „Geisterstadt“ genannt wurde, reif wurde.
 - [Sanxia Tee](/de/food/sanxia-tea) — Vertiefung der kulturellen Basis der alten Stadt Sanxia und ihrer lokalen Industrie.
 
 ## Referenzen

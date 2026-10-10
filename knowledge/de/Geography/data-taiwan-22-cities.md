@@ -217,11 +217,11 @@ Taiwans innere Heterogenität anzuerkennen heißt, das wirkliche Problem dieser 
 
 ## Weiterführende Lektüre
 
-- [Taipei City](/geography/台北市) — Dichteste national (8.975 Menschen/km²) und älteste unter den sechs Großstädten (Alterungsindex 202), derselbe Protagonist an beiden Extremen dieses Artikels.
-- [Taitung County](/geography/台東縣) — Spärlichste Taiwans (59 Menschen/km²), das andere Ende; zwei Inseln, die einer ganzen Insel die Last tragen.
-- [Chiayi County](/geography/嘉義縣) — Alterungsindex 291,69 höchste national, Drittel eines Kindes pro Altenperson, Vertreter der Landwirtschafts-Alterungsfront.
-- [Hsinchu County](/geography/新竹縣) — Altersquote 15,08%, Taiwans jüngste, wo der Halbleiter-Cluster die Alterungsstruktur zur Jugend zieht.
-- [Taiwans Geburtenrückgangs-Krise](/society/台灣少子化危機) — Das Geburts-Ende dieses Porträts: Neugeborene unter 110.000, eine ganze Insel wo Todesfälle Geburten übersteigen.
+- [Taipei City](/de/geography/taipei-city) — Dichteste national (8.975 Menschen/km²) und älteste unter den sechs Großstädten (Alterungsindex 202), derselbe Protagonist an beiden Extremen dieses Artikels.
+- [Taitung County](/de/geography/taitung-county) — Spärlichste Taiwans (59 Menschen/km²), das andere Ende; zwei Inseln, die einer ganzen Insel die Last tragen.
+- [Chiayi County](/de/geography/chiayi-county) — Alterungsindex 291,69 höchste national, Drittel eines Kindes pro Altenperson, Vertreter der Landwirtschafts-Alterungsfront.
+- [Hsinchu County](/de/geography/hsinchu-county) — Altersquote 15,08%, Taiwans jüngste, wo der Halbleiter-Cluster die Alterungsstruktur zur Jugend zieht.
+- [Taiwans Geburtenrückgangs-Krise](/de/society/taiwan-low-birth-rate-crisis) — Das Geburts-Ende dieses Porträts: Neugeborene unter 110.000, eine ganze Insel wo Todesfälle Geburten übersteigen.
 
 ## Bildquellen
 

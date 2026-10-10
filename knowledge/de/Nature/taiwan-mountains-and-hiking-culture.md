@@ -105,11 +105,11 @@ Der See der Sinnreichen spiegelt den Himmel wider – egal, ob jemand hinschaut 
 
 **Weiterführende Literatur:**
 
-- [Taiwan Waldökologie](/nature/台灣森林生態系) — Von Laubwald bis Kiefernwald, ein vollständiger ökologischer Gradient entlang der Höhe
-- [Taiwan Hochgebirgsökologie und Gletschermärkte](/nature/台灣高山生態系與冰河孑遺) — Hochgebirgswiesen über drei Tausend Metern und Überreste der Eiszeit
-- [Taiwan Nationalparks](/nature/台灣國家公園) — Verwaltung und Naturschutz der drei Hochgebirgs-Nationalparks: Jade Mountain, Snow Mountain, Taroko
-- [Taiwan Wanderkultur und Bürgerengagement](/nature/台灣步道文化與公民守護) — Die Leave-No-Trace-Bewegung und praktische Umsetzung durch lokale Initiativen
-- [Taiwan Ureinwohner ökologische Weisheit und Naturschutz](/nature/台灣原住民生態智慧與環境保育) — Wie jahrtausendealte Waldweisheit auf modernen Naturschutz zusammentreffen
+- [Taiwan Waldökologie](/de/nature/taiwan-forest-ecosystems) — Von Laubwald bis Kiefernwald, ein vollständiger ökologischer Gradient entlang der Höhe
+- [Taiwan Hochgebirgsökologie und Gletschermärkte](/de/nature/taiwan-alpine-ecosystems-glacial-relicts) — Hochgebirgswiesen über drei Tausend Metern und Überreste der Eiszeit
+- [Taiwan Nationalparks](/de/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — Verwaltung und Naturschutz der drei Hochgebirgs-Nationalparks: Jade Mountain, Snow Mountain, Taroko
+- [Taiwan Wanderkultur und Bürgerengagement](/de/nature/trail-culture-and-civic-stewardship) — Die Leave-No-Trace-Bewegung und praktische Umsetzung durch lokale Initiativen
+- [Taiwan Ureinwohner ökologische Weisheit und Naturschutz](/de/nature/taiwanese-indigenous-ecological-wisdom-conservation) — Wie jahrtausendealte Waldweisheit auf modernen Naturschutz zusammentreffen
 
 ## Referenzen
 

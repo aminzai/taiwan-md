@@ -77,8 +77,8 @@ Das Zhongyuan-Fest erinnert uns daran, dass der Frieden auf dieser Insel kein se
 
 ## Weiterführende Lektüre
 
-- [Siebter Mondtag](/culture/農曆七月) — Der soziale Rhythmus des gesamten „Geistermonats“
-- [Dragon Boat Festival](/culture/端午節) — Wie Festtagswerkzeuge in Taiwan lokalisiert wurden
+- [Siebter Mondtag](/de/culture/lunar-july-ghost-month) — Der soziale Rhythmus des gesamten „Geistermonats“
+- [Dragon Boat Festival](/de/culture/dragon-boat-festival) — Wie Festtagswerkzeuge in Taiwan lokalisiert wurden
 
 ## Quellenangaben
 

@@ -69,9 +69,9 @@ Der heutige Cao Hsing-cheng ist immer noch dieser strategische Denker, der nicht
 
 **Weiterführende Lektüre**:
 
-- [Morris Chang](/people/張忠謀) — Die andere Seite des Wafer-Erfindungsstreits; beide haben unterschiedliche Meinungen darüber, wer dieses Modell zuerst erfunden hat
-- [Huang Chung-jen](/people/黃崇仁) — UMC wollte Ende der 1990er Jahre Hal Micron in ihren Kreis ziehen und zwang ihn, Hilfe bei Morris Chang zu suchen
-- [Halbleiterindustrie](/technology/半導體產業) — Das gesamte Schlachtfeld der Industrie, in dem die Giganten UMC und TSMC konkurrieren
+- [Morris Chang](/de/people/tsmc-morris-chang) — Die andere Seite des Wafer-Erfindungsstreits; beide haben unterschiedliche Meinungen darüber, wer dieses Modell zuerst erfunden hat
+- [Huang Chung-jen](/de/people/frank-huang-psmc) — UMC wollte Ende der 1990er Jahre Hal Micron in ihren Kreis ziehen und zwang ihn, Hilfe bei Morris Chang zu suchen
+- [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Das gesamte Schlachtfeld der Industrie, in dem die Giganten UMC und TSMC konkurrieren
 
 ---
 

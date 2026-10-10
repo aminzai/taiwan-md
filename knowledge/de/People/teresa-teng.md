@@ -159,12 +159,12 @@ Am 8. Mai 2026 wäre sie 31 Jahre tot. Die Suite im 15. Stock des InterContinent
 
 **Weiterführende Lektüre**:
 
-- [Taiwanesische Popmusik](/music/台灣流行音樂) – das goldene Zeitalter der chinesischsprachigen Popmusik und ihr industrieller Kontext
-- [Taiwanesische Volksliedbewegung](/music/台灣民歌運動) – die zeitgenössische, auf Selbstbewusstsein gegründete Bewegung der taiwanesischen Musikszene der 1970er
-- [Kriegsrechtszeit](/history/戒嚴時期) – die politische Grundstruktur der taiwanesischen Gesellschaft, bevor sie mit 20 nach Japan ging
-- [Terror des Weißen Terrors](/history/台灣白色恐怖) – das politische Klima Taiwans in ihrer Jugend
-- [Taiwanstraße-Krise und Entwicklung der Beziehungen](/history/台海危機與兩岸關係發展) – die Kaltkriegsgrenze, die sie mit ihrer Stimme umging
-- [Brigitte Lin](/people/林青霞) – ein zeitgenössischer taiwanesischer Film-Superstar, ein anderer Koordinatenpunkt des ostasiatisch-chinesischsprachigen Star-Netzwerks der 1970er-80er
+- [Taiwanesische Popmusik](/de/music/golden-melodies-legacy-taiwan-pop-music) – das goldene Zeitalter der chinesischsprachigen Popmusik und ihr industrieller Kontext
+- [Taiwanesische Volksliedbewegung](/de/music/taiwan-campus-folk-song-movement) – die zeitgenössische, auf Selbstbewusstsein gegründete Bewegung der taiwanesischen Musikszene der 1970er
+- [Kriegsrechtszeit](/de/history/martial-law-era) – die politische Grundstruktur der taiwanesischen Gesellschaft, bevor sie mit 20 nach Japan ging
+- [Terror des Weißen Terrors](/de/history/taiwan-white-terror) – das politische Klima Taiwans in ihrer Jugend
+- [Taiwanstraße-Krise und Entwicklung der Beziehungen](/de/history/taiwan-strait-crises-and-cross-strait-relations) – die Kaltkriegsgrenze, die sie mit ihrer Stimme umging
+- [Brigitte Lin](/de/people/brigitte-lin-legendary-actress) – ein zeitgenössischer taiwanesischer Film-Superstar, ein anderer Koordinatenpunkt des ostasiatisch-chinesischsprachigen Star-Netzwerks der 1970er-80er
 
 ## Referenzen
 

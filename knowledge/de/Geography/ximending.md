@@ -185,8 +185,8 @@ Wenn Sie also jemals durch das Achteckgebäude in Ximen Honglou gehen, halten Si
 - [Taiwanische Animekultur](/de/culture/taiwan-anime-culture) — Warum Cosplay am Wochenende vor Ximen Honglou stattfindet und der Zusammenhang mit dem Ursprung des Animefestivals im Jahr 1999.
 - [Street Art und Graffiti-Kultur in Taiwan](/de/culture/taiwan-street-art-and-graffiti-culture) — Die Verbindung zwischen den blauen Wänden des Filmthemenparks in Ximending und der Entstehung der Straßenkultur nach der Aufhebung des Kriegsrechts in Taiwan.
 - [Alte Stadtviertel und Geschäftsbezirke in Taiwan](/de/culture/taiwan-historic-streets-and-commercial-districts) — Der strukturelle Unterschied von Ximen als japanisch geplantes Vergnügungsgebiet zu den alten Städten (Lukang, Wanhua, Taodongcheng).
-- [Wanhua](/geography/艋舺) — Ein Geschwisterviertel aus derselben Charge; neben Ximending, das die Japaner 1896 planten, war Wanhua der belebteste Hafen Nordtaiwans während der Qing-Dynastie.
-- [Taodongcheng](/geography/大稻埕) — Ein Geschwisterviertel aus derselben Charge; ein aufstrebender Teehandelsbezirk nach 1853, mit einer anderen „Geburtszeit“ als das japanisch geplante Vergnügungsgebiet Ximen.
+- [Wanhua](/de/geography/bangka) — Ein Geschwisterviertel aus derselben Charge; neben Ximending, das die Japaner 1896 planten, war Wanhua der belebteste Hafen Nordtaiwans während der Qing-Dynastie.
+- [Taodongcheng](/de/geography/dadaocheng) — Ein Geschwisterviertel aus derselben Charge; ein aufstrebender Teehandelsbezirk nach 1853, mit einer anderen „Geburtszeit“ als das japanisch geplante Vergnügungsgebiet Ximen.
 - [Zhongshan North Road](/de/geography/zhongshan-north-road-tiaotong) — Die Allee des „Kaiserlichen Botenstraßen“-Plans von 1898, die zum Lin Forest Shrine in Yuanlin führt, und ein gleichzeitiges japanisches Stadtexperiment, das einen völlig anderen Verlauf nahm als Ximen.
 
 ## Bildquellen

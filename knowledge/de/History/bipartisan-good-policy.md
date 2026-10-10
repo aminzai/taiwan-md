@@ -301,7 +301,7 @@ Aber eine Sache ist sicher: Wenn wir nur die Messlatte der Blauen und Grünen ve
 ## Weiterführende Literatur
 
 - [Taiwan Demokratisierung](/de/history/taiwan-democratization) — Von 228 bis zur Sonnblumenblüte: Wie autoritäre Mächte ihre eigene Zerstörung beschleunigt haben
-- [Taiwan Aufarbeitung der Diktatur](/history/台灣轉型正義) — Fast 6.000 Urteile aufgehoben, aber kaum jemand bestraft
+- [Taiwan Aufarbeitung der Diktatur](/de/history/taiwan-transitional-justice) — Fast 6.000 Urteile aufgehoben, aber kaum jemand bestraft
 - [Taiwan-Krise und Entwicklung der Beziehungen zwischen den beiden Seiten des Taiwan-Meeres](/de/history/taiwan-strait-crises-and-cross-strait-relations) — Der vollständige Kontext der Raketenkrise 1996
 
 ## Bildquellen

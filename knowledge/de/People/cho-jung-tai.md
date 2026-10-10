@@ -218,8 +218,8 @@ Und das Parlament mit der Mehrheit der KMT hat nicht wirklich zurückgetreten. C
 - [Lai Ching-te](/de/people/lai-ching-te) — Der Mann, der Cho Jung-tai auf die Regierung setzte, vom Bergarbeiterkind zum 16. Präsidenten Taiwans
 - [Hsiao Mei-chin](/de/people/hsiao-bi-khim) — Vizepräsidentin, die das Siegel an Cho Jung-tai in der Übergabezeremonie am 20. Mai 2024 reichte, von der US-Botschaft in Washington zurück nach Taipeh
 - [Zheng Meichun](/de/people/cheng-li-wun) — KMT-Vorsitzende, die im April 2026 in Peking mit Xi Jinping sprach, politische Gegnerin der KMT, die den 1,25-Milliarden-Haushalt blockierte
-- [Taiwans Verteidigung und militärische Modernisierung](/society/台灣國防與軍事現代化) — Vollständiger politischer Kontext von Cho Jung-tais „drei perfekten Bällen“, 1,25 Milliarden besonderer Haushalt und Taiwan-Shield
-- [Taiwans diplomatische Beziehungen und internationale Diplomatie](/society/台灣邦交國與國際外交) — US-Taiwan-Zollabkommen 2026, Trumps zweite Amtszeit, äußere Variablen des Kabinetts
+- [Taiwans Verteidigung und militärische Modernisierung](/de/society/taiwan-defense-modernization) — Vollständiger politischer Kontext von Cho Jung-tais „drei perfekten Bällen“, 1,25 Milliarden besonderer Haushalt und Taiwan-Shield
+- [Taiwans diplomatische Beziehungen und internationale Diplomatie](/de/society/taiwan-diplomatic-allies-and-international-relations) — US-Taiwan-Zollabkommen 2026, Trumps zweite Amtszeit, äußere Variablen des Kabinetts
 
 ## Quellen
 

@@ -206,15 +206,15 @@ Wenn Sie das nächste Mal Pingtung besuchen, können Sie Wan Jin besuchen, das S
 
 ## Weiterführende Lektüre
 
-- [Li Xiande](/people/李仙得) — Eine Figur des Mudan Society Incidents von 1874; seine Aussage als Konsul der USA in Xiamen, dass das Gebiet „nicht unter chinesischer Hoheit“ stand, löste den japanischen Einmarsch in Pingtung aus.
-- [Rofahao Incident und Zhuo Qidu](/history/羅發號事件與卓杞篤) — Im Jahr 1867 sank ein amerikanisches Handelsschiff, das Rofahao, am südlichen Ende der Halbinsel Hengchun; dies fand vier Jahre vor dem Miyako-Passagiereignis von 1871 in demselben Paiwan-Gebiet statt.
-- [Islandische Geschichtswahrnehmung](/history/台灣島史觀) — Das Inselgeschichtsrahmenwerk von Cao Yonghe, das die mehrschichtige Geschichte der Halbinsel Pingtung am konkretsten entwickelt.
-- [Penghu County](/geography/澎湖縣) — 22 Counties and Cities Series: Die Souveränitätswahl der Inseln, die zweimal abgelehnt wurden; ähnlich wie Pingtung ist es ein „vergessenes südlichstes/westlichstes“ geografisches Merkmal.
-- [Keelung City](/geography/基隆市) — Ein Hafenbezirk, den die Hauptstadt nicht sieht, und ein Schlüsselknotenpunkt, der vom zentralen Narrativ ignoriert wird, genau wie Pingtung.
-- [Lienchiang County](/geography/連江縣) — 22 Counties and Cities Series: Die Distanz zwischen Kriegsfolgen und dem Mainstream-Narrativ; die geschichtliche Überlagerung von Mudan Society / Kushi Shrine in Pingtung kann damit verglichen werden.
-- [Wei Desheng](/people/魏德聖) — _Seven Seas_ erreichte mit 530 Millionen NTD in Hengchun einen großen Kassenerfolg und schrieb den südlichen Halbinsel in das nationale Filmgedächtnis.
-- [Taiwanese Katastrophenfreiwilligenkultur](/society/台灣災難志工文化) — Wie die Doppelkatastrophe von Berg- und Küstenregionen beim Taifun 88 das Rettungsnetz Taiwans neu formte.
-- [Taifun](/nature/颱風) — Der Rekord von 1.897 mm bei Morakot ist ein Wendepunkt in der Beziehung zwischen Taiwan und Taifunen.
+- [Li Xiande](/de/people/charles-le-gendre) — Eine Figur des Mudan Society Incidents von 1874; seine Aussage als Konsul der USA in Xiamen, dass das Gebiet „nicht unter chinesischer Hoheit“ stand, löste den japanischen Einmarsch in Pingtung aus.
+- [Rofahao Incident und Zhuo Qidu](/de/history/rover-incident-and-tauketok) — Im Jahr 1867 sank ein amerikanisches Handelsschiff, das Rofahao, am südlichen Ende der Halbinsel Hengchun; dies fand vier Jahre vor dem Miyako-Passagiereignis von 1871 in demselben Paiwan-Gebiet statt.
+- [Islandische Geschichtswahrnehmung](/de/history/taiwan-island-historiography) — Das Inselgeschichtsrahmenwerk von Cao Yonghe, das die mehrschichtige Geschichte der Halbinsel Pingtung am konkretsten entwickelt.
+- [Penghu County](/de/geography/penghu-county) — 22 Counties and Cities Series: Die Souveränitätswahl der Inseln, die zweimal abgelehnt wurden; ähnlich wie Pingtung ist es ein „vergessenes südlichstes/westlichstes“ geografisches Merkmal.
+- [Keelung City](/de/geography/keelung-city) — Ein Hafenbezirk, den die Hauptstadt nicht sieht, und ein Schlüsselknotenpunkt, der vom zentralen Narrativ ignoriert wird, genau wie Pingtung.
+- [Lienchiang County](/de/geography/lienchiang-county) — 22 Counties and Cities Series: Die Distanz zwischen Kriegsfolgen und dem Mainstream-Narrativ; die geschichtliche Überlagerung von Mudan Society / Kushi Shrine in Pingtung kann damit verglichen werden.
+- [Wei Desheng](/de/people/wei-te-sheng-taiwanese-epic-filmmaker) — _Seven Seas_ erreichte mit 530 Millionen NTD in Hengchun einen großen Kassenerfolg und schrieb den südlichen Halbinsel in das nationale Filmgedächtnis.
+- [Taiwanese Katastrophenfreiwilligenkultur](/de/society/taiwan-disaster-volunteer-culture) — Wie die Doppelkatastrophe von Berg- und Küstenregionen beim Taifun 88 das Rettungsnetz Taiwans neu formte.
+- [Taifun](/de/nature/typhoons-in-taiwan) — Der Rekord von 1.897 mm bei Morakot ist ein Wendepunkt in der Beziehung zwischen Taiwan und Taifunen.
 
 ## Bildquellen
 

@@ -82,9 +82,9 @@ Von Tsai A-gas erstem Video bis zu Chi Hsuans zehn Millionen Abonnenten hat Taiw
 
 **Weiterführende Literatur**:
 
-- [A-Shen](/people/阿神) — Vom elfjährigen täglichen Update des Erstellers selbst, über zwei verschiedene Einstellungsankündigungen bis zur Wiederaufnahme 2026: konkret zeigt sich, wie Creator feste Veröffentlichungszusagen neu schreiben.
-- [PanSci](/society/泛科學) — Vom Wissenschaftsartikel zum Short-Form-Video, YouTube MCN und Wissens-Creator-Service: ergänzt das Fallbeispiel, wie Wissens-Creator mit Algorithmus und Kommerzialisierung umgehen.
-- [Wretch.cc](/culture/無名小站) — Die Wiege von Taiwans erster Generation Amateur-Creator (Banban, Giddens Ko, Schönheitsalben): die Creator Economy vor den YouTubern wuchs genau hier heran.
+- [A-Shen](/de/people/red-shin-minecraft-youtuber) — Vom elfjährigen täglichen Update des Erstellers selbst, über zwei verschiedene Einstellungsankündigungen bis zur Wiederaufnahme 2026: konkret zeigt sich, wie Creator feste Veröffentlichungszusagen neu schreiben.
+- [PanSci](/de/society/pansci) — Vom Wissenschaftsartikel zum Short-Form-Video, YouTube MCN und Wissens-Creator-Service: ergänzt das Fallbeispiel, wie Wissens-Creator mit Algorithmus und Kommerzialisierung umgehen.
+- [Wretch.cc](/de/culture/wretch) — Die Wiege von Taiwans erster Generation Amateur-Creator (Banban, Giddens Ko, Schönheitsalben): die Creator Economy vor den YouTubern wuchs genau hier heran.
 
 ## Quellen
 

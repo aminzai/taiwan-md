@@ -108,10 +108,10 @@ Akademische Literatur auf Chinesisch: Li Taiyuan (2020), „Indigene Sprachwiede
 
 **Weiterführende Literatur**:
 
-- [Taiwan: Bildung in abgelegenen Regionen](/society/台灣偏鄉教育) — Bildungsprobleme in ländlichen Schulen gehen nicht nur um akademische Leistung, sondern auch darum, ob Schulen Sprache und Kultur aufnehmen können.
-- [Geschichte und Anerkennung der indigenen Völker Taiwans](/history/台灣原住民族歷史與正名運動) — Sprachwiederbelebung lässt sich nicht von der Anerkennung ethnischer Namen, historischer Erzählungen und politischer Subjektivität trennen.
-- [Landrechte und traditionelle Gebiete der indigenen Völker Taiwans](/society/台灣原住民族土地正義與傳統領域) — Sprache, Land und Lebensweise gehören zusammen.
-- [Karten der 16 ethnischen Gruppen Taiwans](/culture/台灣原住民族16族文化地圖) — Wenn man die Verteilung und Konturen der ethnischen Gruppen sehen möchte, bietet dieser Artikel eine Übersichtskarte.
-- [Kulinarische Traditionen der indigenen Völker Taiwans](/food/台灣原住民飲食文化) — Beim Erhalt von Esskultur geht es nicht nur ums Geschmackserlebnis, sondern auch um Sprache, Ortsnamen und ökologisches Wissen.
-- [Ökologisches Wissen und Umweltschutz der indigenen Völker Taiwans](/nature/台灣原住民生態智慧與環境保育) — In indigenen Sprachen ist viel Wissen über Berge, Flüsse und Jahreszeiten enthalten.
-- [Gegenwärtige indigene Kunst Taiwans](/art/台灣原住民當代藝術) — Zeitgenössische Kunst ist ein weiterer Weg, indigene Sprachen und Kulturen wieder sichtbar zu machen.
+- [Taiwan: Bildung in abgelegenen Regionen](/de/society/taiwan-rural-education) — Bildungsprobleme in ländlichen Schulen gehen nicht nur um akademische Leistung, sondern auch darum, ob Schulen Sprache und Kultur aufnehmen können.
+- [Geschichte und Anerkennung der indigenen Völker Taiwans](/de/history/indigenous-peoples-history-and-naming-movement) — Sprachwiederbelebung lässt sich nicht von der Anerkennung ethnischer Namen, historischer Erzählungen und politischer Subjektivität trennen.
+- [Landrechte und traditionelle Gebiete der indigenen Völker Taiwans](/de/society/indigenous-land-justice-and-traditional-territories) — Sprache, Land und Lebensweise gehören zusammen.
+- [Karten der 16 ethnischen Gruppen Taiwans](/de/culture/indigenous-peoples-16-tribes-cultural-map) — Wenn man die Verteilung und Konturen der ethnischen Gruppen sehen möchte, bietet dieser Artikel eine Übersichtskarte.
+- [Kulinarische Traditionen der indigenen Völker Taiwans](/de/food/taiwan-indigenous-foodways) — Beim Erhalt von Esskultur geht es nicht nur ums Geschmackserlebnis, sondern auch um Sprache, Ortsnamen und ökologisches Wissen.
+- [Ökologisches Wissen und Umweltschutz der indigenen Völker Taiwans](/de/nature/taiwanese-indigenous-ecological-wisdom-conservation) — In indigenen Sprachen ist viel Wissen über Berge, Flüsse und Jahreszeiten enthalten.
+- [Gegenwärtige indigene Kunst Taiwans](/de/art/contemporary-indigenous-art-taiwan) — Zeitgenössische Kunst ist ein weiterer Weg, indigene Sprachen und Kulturen wieder sichtbar zu machen.

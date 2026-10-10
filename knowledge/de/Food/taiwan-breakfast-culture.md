@@ -252,7 +252,7 @@ Was geblieben ist, ist jemand, der noch die Temperatur in diesem Sojamilch hält
 - [Onigiri](/de/food/rice-ball) — Die Entwicklung der Füllungen vom Jiangnan Onigiri zum taiwanesischen Frühstücksgeschäft, die vollständige Geschichte eines Onigiris
 - [Taiwanische lokale Spezialitäten](/de/food/taiwanese-street-food) — Wie die Standwirtschaft das tägliche Essen in Taiwan stützt, das Frühstück ist nur ein Zeitabschnitt
 - [Taiwanische Shake-Drink-Kultur](/de/food/hand-shaken-drink-culture) — Ein verwandter Zweig des großen Eiskaffee, ebenfalls eine Branche, in der jeder eröffnen kann
-- [Übersicht der taiwanesischen Küche](/food/台灣美食總覽) — Vom Frühstück weiter hinaus, eine Landkarte der taiwanischen Ernährung
+- [Übersicht der taiwanesischen Küche](/de/food/taiwan-food-overview) — Vom Frühstück weiter hinaus, eine Landkarte der taiwanischen Ernährung
 - [Frühstücksgeschäftsbetreiber und lokale Informationsnetzwerke](/de/society/breakfast-shops-and-community-intelligence-network) — Die Schicht jenseits des Bratfeldes, wie ein Geschäft zu einem Knotenpunkt einer Straße wird
 
 ## Bildquellen

@@ -126,7 +126,7 @@ Natürlich wusste dieser Moment nicht, was er tat. Große Zufälle wissen es nie
 
 ## Weiterführende Literatur
 
-- [Gesamtüberblick über taiwanesische Küche](/food/台灣美食總覽) – Von den Ureinwohnern bis zu Michelin: Die Position von Bubble Tea in vierhundert Jahren gehypten Geschmackserlebnissen
+- [Gesamtüberblick über taiwanesische Küche](/de/food/taiwan-food-overview) – Von den Ureinwohnern bis zu Michelin: Die Position von Bubble Tea in vierhundert Jahren gehypten Geschmackserlebnissen
 - [Taiwanesische Getränkekultur](/de/food/hand-shaken-drink-culture) – Die Expansion von 50 Lan, Gong Cha, CoCo und anderen Marken in über 40 Länder
 - [Teekultur](/de/food/golden-age-echoes-taiwan-tea-culture) – Von Teedeys Oolong-Tee 1865 bis zu den Bergtee-Sorten von heute: Die Legende der taiwanesischen Teequalität
 

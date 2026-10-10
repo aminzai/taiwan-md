@@ -87,9 +87,9 @@ Erst als das Nachtritual „Jibei Shua“ in Dongshan, Tainan, zu einem staatlic
 
 ## Weiterführende Lektüre
 
-- [Bewegung zur Geschichte und Anerkennung indigener Völker Taiwans](/history/台灣原住民族歷史與正名運動) — Der gesamte Kontext von den „Jukuban“ der Qing-Dynastie bis zur modernen Anerkennungsbewegung
-- [Kulturkarte der 16 indigenen Stämme Taiwans](/culture/台灣原住民族16族文化地圖) — Gesamtübersicht über die Kulturmerkmale der anerkannten Gruppen
-- [Prähistorische Zeit und indigene Völker](/history/史前時代與原住民) — Die Herkunft der frühesten Bewohner auf der Insel Taiwan
+- [Bewegung zur Geschichte und Anerkennung indigener Völker Taiwans](/de/history/indigenous-peoples-history-and-naming-movement) — Der gesamte Kontext von den „Jukuban“ der Qing-Dynastie bis zur modernen Anerkennungsbewegung
+- [Kulturkarte der 16 indigenen Stämme Taiwans](/de/culture/indigenous-peoples-16-tribes-cultural-map) — Gesamtübersicht über die Kulturmerkmale der anerkannten Gruppen
+- [Prähistorische Zeit und indigene Völker](/de/history/prehistoric-era-and-indigenous-peoples) — Die Herkunft der frühesten Bewohner auf der Insel Taiwan
 
 ## Referenzen
 

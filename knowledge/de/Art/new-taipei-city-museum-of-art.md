@@ -58,7 +58,7 @@ Das „Riedgebiets“-Motiv des Museums in New Taipei City könnte auch andeuten
 
 **Weiterführende Lektüre:**
 
-- [Matsu International Art Island](/art/馬祖國際藝術島) — Ein Fall, der ebenfalls zwischen öffentlicher Kulturinvestition und tatsächlichem Erfolg schwankt: Der zehnjährige Kurationsplan der Regierung des County Lienchiang, dessen Besucherwachstumsrate nicht zu erfassen ist und dessen Finanzen nie veröffentlicht wurden.
+- [Matsu International Art Island](/de/art/matsu-biennial) — Ein Fall, der ebenfalls zwischen öffentlicher Kulturinvestition und tatsächlichem Erfolg schwankt: Der zehnjährige Kurationsplan der Regierung des County Lienchiang, dessen Besucherwachstumsrate nicht zu erfassen ist und dessen Finanzen nie veröffentlicht wurden.
 
 ## Referenzen
 

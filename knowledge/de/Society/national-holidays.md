@@ -218,10 +218,10 @@ Dies ist eine taiwanische Geschichte, geschrieben mit der Frage „An welchem Ta
 - [Ereignisse von 228](/de/history/228-incident) — Der Massenmord von 1947 und wie er 1997 zum ersten gesetzlichen Feiertag Taiwans wurde
 - [Periode der Kriegsrechtsherrschaft (戒嚴時期)](/de/history/martial-law-era) — Die autoritäre Kalenderpraxis hinter dem „Glorreichen Oktober“ und den Feiertagen von Chiang
 - [Taiwanische Transformationsgerechtigkeit](/de/history/taiwan-transitional-justice) — Warum der Gedenktag zur Weißen Terrorherrschaft noch nicht in den Kalender aufgenommen werden kann
-- [Spektrum von Taiwan (Einheit/Unabhängigkeit)](/society/台灣統獨光譜) — Die Identitätskarte hinter den historischen Sichtweisen „Wiedererlangung / Kriegsende / Übernahme“
-- [Chinesisch Taipeh](/society/中華台北) — Die andere Seite des Streits um das Nationalfest der Republik China, wenn es sowohl in „Chinesisch Taipeh“ als auch in „Taiwan“ genannt wird
-- [Taifunurlaub (颱風假)](/society/颱風假) — Eine andere Frage nach „Wessen Urlaub, wer arbeitet“: Die Menschen, die bei Sturm normal arbeiten müssen
-- [Qingming Festival (端午節)](/culture/端午節) — Wie Volksfeste zu einem System des „einen freien Tag im Kalender“ werden
+- [Spektrum von Taiwan (Einheit/Unabhängigkeit)](/de/society/taiwan-unification-independence-spectrum) — Die Identitätskarte hinter den historischen Sichtweisen „Wiedererlangung / Kriegsende / Übernahme“
+- [Chinesisch Taipeh](/de/society/chinese-taipei) — Die andere Seite des Streits um das Nationalfest der Republik China, wenn es sowohl in „Chinesisch Taipeh“ als auch in „Taiwan“ genannt wird
+- [Taifunurlaub (颱風假)](/de/society/typhoon-day) — Eine andere Frage nach „Wessen Urlaub, wer arbeitet“: Die Menschen, die bei Sturm normal arbeiten müssen
+- [Qingming Festival (端午節)](/de/culture/dragon-boat-festival) — Wie Volksfeste zu einem System des „einen freien Tag im Kalender“ werden
 - [Taiwanisches politisches Umfeld und Wahlsystem](/de/society/taiwan-political-landscape-and-electoral-system) — Wie die personelle Struktur von Blau, Weiß und Grün im Legislativrat die roten Einträge im Kalender bestimmt
 
 ## Bildquellen

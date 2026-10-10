@@ -202,7 +202,7 @@ _Letzte Überprüfung: 19. September 2026. Offene Fäden: Prüfung des Zusatzbud
 
 **Weiterführende Lektüre**:
 
-- [Kassenbon](/economy/發票) — Ebenso ein institutionelles Objekt als Maßstab: wie ein Beleg alle Bürger zu Steuerkontrolleuren macht, und wie eine Ölpreis-Pressemitteilung einen Liter in drei Teile zerlegt.
+- [Kassenbon](/de/economy/taiwan-uniform-invoice) — Ebenso ein institutionelles Objekt als Maßstab: wie ein Beleg alle Bürger zu Steuerkontrolleuren macht, und wie eine Ölpreis-Pressemitteilung einen Liter in drei Teile zerlegt.
 - [Taiwanische Unternehmen: Formosa Plastics Group](/de/economy/formosa-plastics-group) — Die Geschichte des anderen taiwanischen Ölraffineurs Formosa Petrochemical, die vertikale Integration nach Mailiao Naphtha Cracker.
 - [Netzstabilität](/de/society/taiwan-grid-resilience) — Das Stromsystem hinter den 71,1 Milliarden Yuan für Taipower im Zusatzbudget, wer nach einem Stromausfall zuerst wiederhergestellt wird.
 - [Taiwans Klimakrise und Netto-Null-Umwandlung](/de/nature/taiwan-climate-change-net-zero-transition) — Das Tauziehen zwischen Subventionierung fossiler Brennstoffe und Energiesparsignalen, betrachtet im Kontext des Netto-Null-Zeitplans.

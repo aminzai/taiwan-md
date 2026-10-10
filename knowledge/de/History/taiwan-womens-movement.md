@@ -212,6 +212,6 @@ Alle Texte stammen aus spezifischen Artikeln, Studien oder offiziellen Seiten; d
 
 ## Weiterführende Lektüre
 
-- [Taiwanische Demokratische Transformation](/history/台灣民主轉型)
-- [Taishanese Gerechtigkeit (Transitional Justice in Taiwan)](/history/台灣轉型正義)
-- [Weiße Terrorherrschaft in Taiwan](/history/台灣白色恐怖)
+- [Taiwanische Demokratische Transformation](/de/history/taiwan-democratization)
+- [Taishanese Gerechtigkeit (Transitional Justice in Taiwan)](/de/history/taiwan-transitional-justice)
+- [Weiße Terrorherrschaft in Taiwan](/de/history/taiwan-white-terror)

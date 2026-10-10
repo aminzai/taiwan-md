@@ -46,7 +46,7 @@ Das Leben im Militärsiedlungsdorf machte ihm die Bühne von Kindheit an vertrau
 
 1986, im ersten Studienjahr von Chang Yu-sheng, ertrank seine fünf Jahre jüngere Schwester Chang Yu-hsien – nur 15 Jahre alt. Es war das erste echte Loch in seinem Leben. Seine Schwester liebte das Singen und sang gut; Chang Yu-sheng sagte, er singe, um den Musiktraum seiner Schwester zu vollenden.[^2]
 
-Er meldete sich zum damals vielbeachteten Mùchuán-Folksong-Gesangswettbewerb an und gewann den ersten Platz. Zwei Jahre später sang er den wärmsten Werbesong in der Geschichte der [taiwanesische Popmusik](/music/台灣流行音樂):
+Er meldete sich zum damals vielbeachteten Mùchuán-Folksong-Gesangswettbewerb an und gewann den ersten Platz. Zwei Jahre später sang er den wärmsten Werbesong in der Geschichte der [taiwanesische Popmusik](/de/music/golden-melodies-legacy-taiwan-pop-music):
 
 1988 lief der Spot „Moderner Held“ von Heysong-Sarsaparilla stark im Fernsehen; die Zwischenmelodie war [„Meine Zukunft ist kein Traum“](https://www.youtube.com/watch?v=lTxZmhAoSGU). Der klare hohe Gesang und der motivierende Text machten ihn schnell zu einem Namen, den jeder kannte. Im folgenden Jahr (November 1989) erschien sein erstes Soloalbum [„Jeden Tag an dich denken“](https://www.youtube.com/watch?v=qSslpWSSTLg) – 350.000 verkaufte Exemplare.[^2]
 
@@ -78,7 +78,7 @@ Als die kommerzielle Musik eine Sackgasse erreichte, meldete sich Chang Yu-sheng
 
 Chang Yu-sheng war Produzent – und das war manchmal wichtiger als seine Identität als Sänger.
 
-So entdeckte er [A-mei](/people/張惠妹): A-mei gewann den Wudeng-Preis, trat dann der Band ihres Cousins bei und sang in Bars in Taipeh. Chang Yu-sheng ging das erste Mal hin und kehrte dann fast jeden Abend zurück – etwa einen Monat lang. Er sah in A-mei ein formbares Talent, nahm den Chef von Forward Music, Chang Hsiao-yen, und den Musikdirektor Chen Fu-ming mit zum Zuhören; die Firma beschloss, sie unter Vertrag zu nehmen.[^6] Zuerst sang A-mei mit Chang Yu-sheng das Duett „Der, den ich am meisten liebe, verletzt mich am tiefsten“; im Dezember 1996 erschien ihr von ihm produziertes Debüt „Schwestern“.
+So entdeckte er [A-mei](/de/people/a-mei): A-mei gewann den Wudeng-Preis, trat dann der Band ihres Cousins bei und sang in Bars in Taipeh. Chang Yu-sheng ging das erste Mal hin und kehrte dann fast jeden Abend zurück – etwa einen Monat lang. Er sah in A-mei ein formbares Talent, nahm den Chef von Forward Music, Chang Hsiao-yen, und den Musikdirektor Chen Fu-ming mit zum Zuhören; die Firma beschloss, sie unter Vertrag zu nehmen.[^6] Zuerst sang A-mei mit Chang Yu-sheng das Duett „Der, den ich am meisten liebe, verletzt mich am tiefsten“; im Dezember 1996 erschien ihr von ihm produziertes Debüt „Schwestern“.
 
 „Bad Boy“ folgte 1997. In dem Titelsong vergrößerte Chang Yu-sheng A-meis ethnischen Stil weiter und fügte lateinamerikanische Weltmusik-Rhythmen hinzu; bei „Wenn ich an dich denke“ holte er ihre Schwester und Cousinen als Begleitstimmen dazu – mit der Textur der indigenen Stimmen.[^6] Das Album war neun Wochen lang IFPI-Verkaufssieger in Taiwan, verkaufte 1,38 Millionen Exemplare und wurde das meistverkaufte Album der taiwanesischen Geschichte; in ganz Asien wurden über sechs Millionen verkauft.
 
@@ -98,16 +98,16 @@ Sein Glasgow-Koma-Index lag drei Tage lang zwischen 3 und 4. Am 12. November 199
 
 ### „Es fühlt sich an, als würde Yu-sheng singen“
 
-2017, zwanzig Jahre nach seinem Tod, verlieh der Golden Melody Award Chang Yu-sheng posthum den „Sonderbeitragspreis“ – der jüngste Empfänger dieser Ehrung in seiner Geschichte. In jener Nacht sang [A-mei](/people/張惠妹) auf der Bühne sein Lied. Seine Mutter sagte unten schluchzend: „Es fühlt sich an, als würde Yu-sheng singen.“[^9]
+2017, zwanzig Jahre nach seinem Tod, verlieh der Golden Melody Award Chang Yu-sheng posthum den „Sonderbeitragspreis“ – der jüngste Empfänger dieser Ehrung in seiner Geschichte. In jener Nacht sang [A-mei](/de/people/a-mei) auf der Bühne sein Lied. Seine Mutter sagte unten schluchzend: „Es fühlt sich an, als würde Yu-sheng singen.“[^9]
 
 Neben ihr stand eine Diva, die er eigenhändig geschaffen hatte – während er längst nicht mehr da war.
 
 ## Weiterführende Lektüre
 
-- [A-mei](/people/張惠妹) – Chang Yu-sheng schuf hinter den Kulissen „Schwestern“ und „Bad Boy“ und schob sie auf den Thron der chinesischsprachigen Diva; das Lied auf der Bühne der Golden Melody Awards 2017 war die tiefste Erinnerung
-- [Taiwanesische Popmusik](/music/台灣流行音樂) – der Hintergrund der chinesischsprachigen Popmusik der 1980er-90er und Chang Yu-shengs historische Position in der experimentellen Kreativität
-- [Waa Wei](/people/魏如萱) – ebenfalls zwischen Mainstream-Idol und Autoren-Identität; ein anderer Weg der Annäherung zwischen Markt und Kreativität
-- [Yoga Lin](/people/林宥嘉) – eine spätere Generation, ein anderes „Idol-und-Musiker“-Zerren: vom Star-Award-Champion 2007 zum eigenen Produzenten 2024
+- [A-mei](/de/people/a-mei) – Chang Yu-sheng schuf hinter den Kulissen „Schwestern“ und „Bad Boy“ und schob sie auf den Thron der chinesischsprachigen Diva; das Lied auf der Bühne der Golden Melody Awards 2017 war die tiefste Erinnerung
+- [Taiwanesische Popmusik](/de/music/golden-melodies-legacy-taiwan-pop-music) – der Hintergrund der chinesischsprachigen Popmusik der 1980er-90er und Chang Yu-shengs historische Position in der experimentellen Kreativität
+- [Waa Wei](/de/people/waa-wei-singer) – ebenfalls zwischen Mainstream-Idol und Autoren-Identität; ein anderer Weg der Annäherung zwischen Markt und Kreativität
+- [Yoga Lin](/de/people/yoga-lin) – eine spätere Generation, ein anderes „Idol-und-Musiker“-Zerren: vom Star-Award-Champion 2007 zum eigenen Produzenten 2024
 
 ## Referenzen
 

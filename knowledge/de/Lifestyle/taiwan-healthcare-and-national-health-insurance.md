@@ -202,11 +202,11 @@ _Hauptgebäude des Taroko-Universitätskrankenhauses. Gegründet 1895, ist es da
 
 **Weiterführende Lektüre**:
 
-- [Gesetz über Medizin](/society/醫療法) — Das Krankenversicherungsgesetz regelt „Leistungen“, das Medizinische Gesetz regelt „Einrichtungen“; die beiden Gesetze bilden die Leistungs- und Einrichtungsdimension der medizinischen Governance in Taiwan.
+- [Gesetz über Medizin](/de/society/medical-care-act) — Das Krankenversicherungsgesetz regelt „Leistungen“, das Medizinische Gesetz regelt „Einrichtungen“; die beiden Gesetze bilden die Leistungs- und Einrichtungsdimension der medizinischen Governance in Taiwan.
 - [Zeugnis von Fachkräften zur Entwicklung des Regenerativen Medizinsystems in Taiwan](/de/society/taiwan-regenerative-medicine-laws) — Außerhalb der Grenzen der Krankenversicherungsleistungen wurde das regenerative Medizinsystem 2024 verabschiedet, eine weitere Governance-Achse jenseits der NHI-SOPs.
-- [Kontroverse um Tierarzneimittel in Taiwan](/society/台灣動物用藥爭議) — Die Krankenversicherung deckt Menschen ab, nicht Tiere; die Debatte um Tierarzneimittel ist ein Kontrollbeispiel für das Krankenversicherungssystem.
+- [Kontroverse um Tierarzneimittel in Taiwan](/de/society/taiwan-animal-drug-controversy) — Die Krankenversicherung deckt Menschen ab, nicht Tiere; die Debatte um Tierarzneimittel ist ein Kontrollbeispiel für das Krankenversicherungssystem.
 - [Katastrophenmedizinische Systeme in Taiwan](/de/technology/taiwan-disaster-medicine-system) — Die Krankenversicherung stützt die alltägliche Medizin, das Katastrophensystem stützt den Notfall; beide Systeme bilden die Normal- und Notfalldimension der öffentlichen Gesundheitsgovernance in Taiwan.
-- [COVID-Pandemie und Impfstoffe in Taiwan](/society/台灣新冠疫情與疫苗) — Diese Krankenversicherungskarte wurde 2020 für die Namensregistrierung von Masken verwendet, und zwar innerhalb von zwei Wochen; dieselbe Datenbasis ermöglichte auch die Pandemiedatenanalyse und die Impftermine.
+- [COVID-Pandemie und Impfstoffe in Taiwan](/de/society/taiwan-covid-pandemic-and-vaccines) — Diese Krankenversicherungskarte wurde 2020 für die Namensregistrierung von Masken verwendet, und zwar innerhalb von zwei Wochen; dieselbe Datenbasis ermöglichte auch die Pandemiedatenanalyse und die Impftermine.
 
 ## Öffentliche Daten
 

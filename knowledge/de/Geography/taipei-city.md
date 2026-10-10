@@ -213,15 +213,15 @@ Nächstes Mal, wenn Sie nach Taipeh reisen, sollten Sie nicht nur das 101er und 
 
 ## Weiterführende Literatur
 
-- [Keelung-Stadt](/geography/基隆市) — Pilot der 22-Städte-Reihe: Der nächste Hafen zu Taipeh, das Mutterland der Republik China; 1949 kam die Republik China über den Hafen von Keelung nach Taipeh
-- [New Taipei-Stadt](/geography/新北市) — Eine Satellitenstadt, die Taipeh umgibt, mehr als 1 Million Pendler fahren täglich von New Taipei nach Taipeh
+- [Keelung-Stadt](/de/geography/keelung-city) — Pilot der 22-Städte-Reihe: Der nächste Hafen zu Taipeh, das Mutterland der Republik China; 1949 kam die Republik China über den Hafen von Keelung nach Taipeh
+- [New Taipei-Stadt](/de/geography/new-taipei-city) — Eine Satellitenstadt, die Taipeh umgibt, mehr als 1 Million Pendler fahren täglich von New Taipei nach Taipeh
 - [Taoyuan-Stadt](/de/geography/taoyuan-city) — 1979 eröffnet der internationale Flughafen Taoyuan, der Passagieraufkommen von der Insel von Keelung auf Taoyuan, Taipeh verlor seinen Hafen
-- [Kaohsiung-Stadt](/geography/高雄市) — Die zweite direktverwaltete Stadt, die 1979 eröffnet wurde (12 Jahre nach Taipeh); der Mord an Lin Xuzhi fand im 31. Allee der dritten Sektion der Xinyi-Road in Taipeh statt
+- [Kaohsiung-Stadt](/de/geography/kaohsiung-city) — Die zweite direktverwaltete Stadt, die 1979 eröffnet wurde (12 Jahre nach Taipeh); der Mord an Lin Xuzhi fand im 31. Allee der dritten Sektion der Xinyi-Road in Taipeh statt
 - [Taichung-Stadt](/de/geography/taichung-city) — 2010 zur direktverwalteten Stadt erhoben (43 Jahre nach Taipeh); zwei Arten von Städten im Vergleich zu Taipeh
 - [Tainan-Stadt](/de/geography/tainan-city) — Die Hauptstadt der Ming-Dynastie seit 1683; 1920 in Taipeh und Taichung zur gleichen Zeit errichtet
-- [228-Aufstand](/history/二二八事件) — Der erste Schuss am 27. Februar 1947 im Tianma-Teehaus an der 189 Nanjing-Weststraße, die tiefste politische Wunde Taiwans nach dem Krieg
-- [Wildblumen-Bewegung](/society/野百合學運) — 16. bis 22. März 1990, sieben Tage und sechs Nächte vor dem Chiang Kai-shek-Gedächtnishalle, 6.000 Studenten mit vier Forderungen
-- [Sonnenblumen-Bewegung](/society/太陽花學運) — 18. März 2014, 24-tägige Besetzung des Parlaments in Taipeh
+- [228-Aufstand](/de/history/228-incident) — Der erste Schuss am 27. Februar 1947 im Tianma-Teehaus an der 189 Nanjing-Weststraße, die tiefste politische Wunde Taiwans nach dem Krieg
+- [Wildblumen-Bewegung](/de/society/wild-lily-student-movement) — 16. bis 22. März 1990, sieben Tage und sechs Nächte vor dem Chiang Kai-shek-Gedächtnishalle, 6.000 Studenten mit vier Forderungen
+- [Sonnenblumen-Bewegung](/de/society/sunflower-movement) — 18. März 2014, 24-tägige Besetzung des Parlaments in Taipeh
 
 ## Bildnachweise
 

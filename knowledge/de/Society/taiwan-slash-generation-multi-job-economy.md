@@ -137,5 +137,5 @@ Taiwans junge Menschen haben sich für die zweite Option entschieden. Doch das s
 
 ## Weiterführende Literatur
 
-- [外送專法](/society/外送專法) — Was passiert, wenn der 45-Yuan-Floorsatz auf die Menschen trifft: Zwei unbeantwortete Fragen
-- [誰算低薪](/society/誰算低薪) — Wenn der Mindestlohn die Armutsgrenze überschreitet: Wie Teilzeitjobs, Selbständige und Buchhaltung die Messlatte verändern
+- [外送專法](/de/society/delivery-platform-law) — Was passiert, wenn der 45-Yuan-Floorsatz auf die Menschen trifft: Zwei unbeantwortete Fragen
+- [誰算低薪](/de/society/who-counts-as-low-wage) — Wenn der Mindestlohn die Armutsgrenze überschreitet: Wie Teilzeitjobs, Selbständige und Buchhaltung die Messlatte verändern

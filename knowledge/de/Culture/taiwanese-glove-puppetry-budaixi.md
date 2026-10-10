@@ -76,8 +76,8 @@ Gen Urobuchi bekannte sich als Pili-Fan; der Ausgangspunkt der Zusammenarbeit wa
 **Weiterführende Literatur**
 
 - [Schattentheater](/de/culture/taiwanese-shadow-puppetry) – Ebenfalls aus Minnan und Guangdong stammend, in Taiwans Kaohsiung Mituo verwurzeltes traditionelles Licht-und-Schatten-Puppentheater, das in der Japanisierungszeit durch adaptierte japanische Drehbücher überlebte, ein weiterer Strang des traditionellen taiwanesischen Puppentheaters
-- [Taiwanesische Tempelfeste und Prozessionskultur](/culture/台灣廟會與陣頭文化) – Der Tempelvorplatz war die früheste Bühne des Handpuppenspiels, Tempelfest-Prozessionen und Handpuppenspiel teilten sich im taiwanesischen Volksglaubensraum denselben Himmel
-- [Nationales Theater und Konzerthalle](/culture/兩廳院) – Ein weiterer Aspekt des Wegs taiwanesischer traditioneller Darstellender Kunst vom Tempelvorplatz auf die zeitgenössische Theaterbühne, 1987 fertiggestellt, zeugt bis heute von der Demokratisierung von Taiwans Kunst und Kultur
+- [Taiwanesische Tempelfeste und Prozessionskultur](/de/culture/taiwan-temple-festivals-and-performance-troupes) – Der Tempelvorplatz war die früheste Bühne des Handpuppenspiels, Tempelfest-Prozessionen und Handpuppenspiel teilten sich im taiwanesischen Volksglaubensraum denselben Himmel
+- [Nationales Theater und Konzerthalle](/de/culture/national-theater-and-concert-hall) – Ein weiterer Aspekt des Wegs taiwanesischer traditioneller Darstellender Kunst vom Tempelvorplatz auf die zeitgenössische Theaterbühne, 1987 fertiggestellt, zeugt bis heute von der Demokratisierung von Taiwans Kunst und Kultur
 
 ## Quellen
 

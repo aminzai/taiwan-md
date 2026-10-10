@@ -185,9 +185,9 @@ Das ist ihre größte Errungenschaft, und auch ihre tiefste Begrenzung.
 
 - [Han Kuo-yu](/de/people/han-kuo-yu) — Leiter der dritten Parteiverhandlung über Militärkäufe 2026, entscheidender Akteur im Konflikt um Hsu Chiao-hsin
 - [Zheng Wenwen](/de/people/cheng-li-wun) — Parteivorsitzende in derselben Militärkaufteilung, die zusammen mit Fu Kong-qiu die 380-Milliarden-+N-Parteiversion verteidigt und mit Hsu Chiao-hsin’ 800-Milliarden-Version konkurriert
-- [Zhuo Rongtai](/people/卓榮泰) — Hauptverantwortlicher für das 1,25-Billionen-Sonderbudget der Regierung, Gegenstück zu Hsu Chiao-hsin’ 800-Milliarden-Version
+- [Zhuo Rongtai](/de/people/cho-jung-tai) — Hauptverantwortlicher für das 1,25-Billionen-Sonderbudget der Regierung, Gegenstück zu Hsu Chiao-hsin’ 800-Milliarden-Version
 - [Lai Qingde](/de/people/lai-ching-te) — Politischer Leiter des 1,25-Billionen-Sonderbudgets, Gegenstand von Hsu Chiao-hsin’ Anhörungen im Parlament
-- [Taiwan Verteidigung und militärische Modernisierung](/society/台灣國防與軍事現代化) — Vollständiger politischer Kontext der Konfrontation zwischen 800 Milliarden, 380 Milliarden + N und 1,25 Billionen
+- [Taiwan Verteidigung und militärische Modernisierung](/de/society/taiwan-defense-modernization) — Vollständiger politischer Kontext der Konfrontation zwischen 800 Milliarden, 380 Milliarden + N und 1,25 Billionen
 - [Xiao Meiqin](/de/people/hsiao-bi-khim) — Eine weitere weibliche politische Figur in derselben politischen Struktur, mit einem völlig anderen Weg und einer entgegengesetzten Haltung zur taiwanesischen Beobachtung
 
 ## Referenzen

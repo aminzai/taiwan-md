@@ -131,7 +131,7 @@ Die gelbe Tiger-Flagge steht nun hinter Glas im Museum. Sie ist still. Die 148 T
 - [Drei ausländische Perspektiven auf den Krieg von 1895: Fotografie, journalistische Notizen und Pfarrtagebücher](/de/history/three-foreigners-witness-1895-taiwan) — Serie D-2. Der japanische Fotograf Endo Makoto, der US-Journalist Davidson und der japanische Pastor Kiso Michio – drei der wichtigsten ausländischen Augenzeugenberichte über den Krieg von 1895 sowie die Perspektiven, die dahinterstehen
 - [Qing-Dynastie](/de/history/qing-dynasty-rule) — Der Krieg von 1895 markiert das Ende der Qing-Dynastie; verstehen Sie den Kontext der zweihundertjährigen Herrschaft
 - [Japanische Kolonialherrschaft](/de/history/japanese-colonial-era) — Der Beginn der fünfzigjährigen japanischen Herrschaft nach dem Verschwinden der Republik
-- [Französisch-Chinesischer Krieg](/history/清法戰爭) — Vor zehn Jahren verteidigte Liu Mingchuan Keelung gegen die Franzosen. Zehn Jahre später wurde die Provinz, die er baute, abgetreten.
+- [Französisch-Chinesischer Krieg](/de/history/sino-french-war-in-taiwan) — Vor zehn Jahren verteidigte Liu Mingchuan Keelung gegen die Franzosen. Zehn Jahre später wurde die Provinz, die er baute, abgetreten.
 - [James Wilson Davidson](/de/people/robert-swinhoe-naturalist) — Vor dreißig Jahren dokumentierte der britische Konsul dieselbe Insel in seiner Naturgeschichte. Die Welt, in der er dies tat, war während des Krieges von 1895 bereits vorbei.
 
 ## Quellen

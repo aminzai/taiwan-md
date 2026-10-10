@@ -80,10 +80,10 @@ Facebooks Geschichte ist das Abbild von Taiwans digitaler Transformation über 2
 
 **Weiterführende Links**:
 
-- [IG: Vom Fotografen-Filter zur „Cui“-Angst der Taiwaner](/technology/IG) – Metas andere taiwanesische Hauptplattform, die mit Facebook unterschiedliche Nutzungsszenarien bildet: Facebook ist „Kontakt zu den Älteren“, IG ist „für sich selbst“, Threads ist „der große Streitplatz“.
-- [Threads in Taiwan](/technology/Threads在台灣) – Warum Taiwaner Threads „Cui“ nennen? Von der Facebook-Flüchtlingswelle bis zum globalen Traffic-Rang 1 für „Cui“ – die einzigartige Position taiwanesischer Nutzer im Meta-Ökosystem.
-- [Taiwans Netz-Community-Migrationsgeschichte](/technology/台灣網路社群遷徙史) – Von BBS, Wretch (無名小站), Plurk zu Facebook, IG, Threads: Um zu verstehen, warum Facebook in Taiwan aufstieg und warum es zu schwinden begann, braucht es diese vollständige Migrationskarte.
-- [Wretch (無名小站)](/culture/無名小站) – Die lokale Plattform, die Facebook in Taiwan überholte und schließlich ablöste: 2008 lag Wretch noch vor Yahoo auf Platz 1, ab 2009 zog Facebook mit der Verweildauer der Chronik (News Feed) vorbei.
+- [IG: Vom Fotografen-Filter zur „Cui“-Angst der Taiwaner](/de/technology/instagram-in-taiwan) – Metas andere taiwanesische Hauptplattform, die mit Facebook unterschiedliche Nutzungsszenarien bildet: Facebook ist „Kontakt zu den Älteren“, IG ist „für sich selbst“, Threads ist „der große Streitplatz“.
+- [Threads in Taiwan](/de/technology/threads-in-taiwan) – Warum Taiwaner Threads „Cui“ nennen? Von der Facebook-Flüchtlingswelle bis zum globalen Traffic-Rang 1 für „Cui“ – die einzigartige Position taiwanesischer Nutzer im Meta-Ökosystem.
+- [Taiwans Netz-Community-Migrationsgeschichte](/de/technology/taiwan-online-community-migration) – Von BBS, Wretch (無名小站), Plurk zu Facebook, IG, Threads: Um zu verstehen, warum Facebook in Taiwan aufstieg und warum es zu schwinden begann, braucht es diese vollständige Migrationskarte.
+- [Wretch (無名小站)](/de/culture/wretch) – Die lokale Plattform, die Facebook in Taiwan überholte und schließlich ablöste: 2008 lag Wretch noch vor Yahoo auf Platz 1, ab 2009 zog Facebook mit der Verweildauer der Chronik (News Feed) vorbei.
 
 ## Quellen
 

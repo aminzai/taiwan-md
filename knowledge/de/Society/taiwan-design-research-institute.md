@@ -155,11 +155,11 @@ Die Schriftart auf Ihrem Wahlzettel heißt Siyuan Black. Wahrscheinlich wussten 
 
 ## Weiterführende Lektüre
 
-- [Nie Yongzhen](/people/聶永真) — Einer der bekanntesten Grafikdesigner Taiwans, eine zentrale Figur im Streit um die Optimierung des Taiwan Power Logos, ein Name, der bei Diskussionen über „Design als Leistung“ nicht umgangen werden kann.
+- [Nie Yongzhen](/de/people/nieh-yung-jen) — Einer der bekanntesten Grafikdesigner Taiwans, eine zentrale Figur im Streit um die Optimierung des Taiwan Power Logos, ein Name, der bei Diskussionen über „Design als Leistung“ nicht umgangen werden kann.
 - [Industrielle Transformation Taiwans / Aufwertung](/de/economy/industrial-transformation-from-manufacturing-to-innovation) — Die ganze Geschichte vom Auftragsfertigungsinsel hin zum Hochwertprodukt; was das Forschungsinstitut gesetzt hat, ist ein weniger besprochener Strang auf diesem Weg.
-- [Öffentlicher Rundfunk](/society/公視) — Ebenfalls eine öffentliche Stiftung, die einen Drahtseilakt zwischen „Öffentlichkeit“ und „Prüfung“ geht.
-- [Architektur Taiwans](/art/台灣建築) — Das Fachgebiet von Chang Chi-yi; es zu verstehen, warum ein Architekt glaubt, dass Raumgestaltung die Distanz zwischen Regierung und Volk verändern kann.
-- [Academia Sinica](/society/中央研究院) — Ebenfalls eine staatlich finanzierte Forschungseinrichtung, die unter dem Präsidentenamt und unter Ministerien angesiedelt ist; was sie tun kann und welche Fragen gestellt werden, sind unterschiedlich.
+- [Öffentlicher Rundfunk](/de/society/pts-public-television-service) — Ebenfalls eine öffentliche Stiftung, die einen Drahtseilakt zwischen „Öffentlichkeit“ und „Prüfung“ geht.
+- [Architektur Taiwans](/de/art/taiwanese-architecture) — Das Fachgebiet von Chang Chi-yi; es zu verstehen, warum ein Architekt glaubt, dass Raumgestaltung die Distanz zwischen Regierung und Volk verändern kann.
+- [Academia Sinica](/de/society/academia-sinica) — Ebenfalls eine staatlich finanzierte Forschungseinrichtung, die unter dem Präsidentenamt und unter Ministerien angesiedelt ist; was sie tun kann und welche Fragen gestellt werden, sind unterschiedlich.
 
 ## Bildquellen
 

@@ -96,6 +96,6 @@ Dieser „unbekannte Held“ stützte die Billionen-Dollar-Getränkeindustrie Ta
 
 ## Weiterführende Lektüre
 
-- [Taiwanesische Bubble Tea Kultur](/food/台灣手搖飲文化) — Das kulinarische Ökosystem, das durch die Verbreitung der Versiegelungsmaschine gestützt wurde
+- [Taiwanesische Bubble Tea Kultur](/de/food/hand-shaken-drink-culture) — Das kulinarische Ökosystem, das durch die Verbreitung der Versiegelungsmaschine gestützt wurde
 - [Pearl Milk Tea](/de/food/bubble-tea) — Ein nationales Getränk Taiwans, das in den 1980er Jahren mit der Versiegelungstechnologie aufstieg
 - [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Ein weiterer erfolgreicher Weg der taiwanesischen Hardwareherstellung zur gleichen Zeit

@@ -211,8 +211,8 @@ Niemand weiß, wie ihr nächstes Album klingen wird oder welches Thema es behand
 - [Chen Jianqiao](/de/people/chen-chien-chi-music-producer) — Systematische Abwehr nicht-standardsprachiger Stimmen im taiwanesischen Pop; Enno Cheng mit nicht-standardsprachiger Stimme, A-Bow mit Minderheitensprache, Chen Jianqiao mit Kinderstimme — drei Arten, die Stimmgrenzen zu erweitern
 - [Goldton-Preis](/de/music/pop-music-and-golden-melody-awards) — Strukturelle Bedeutung der taiwanesischen Kategorien beim 34. Goldton-Preis
 - [Taiwanesische Popmusik](/de/music/golden-melodies-legacy-taiwan-pop-music) — Evolution vom „lokalen Widerstand" zum „modernen Werkzeug" in der taiwanesischen Musik
-- [Taiwanesische unabhängige Musik](/music/台灣獨立音樂) — Enno Chengs Identität als unabhängige Musikerin von der Zeit der Lady Zero bis zu „Wassertropfen"
-- [Lin Yuxia](/people/林宥嘉) — Ein Gegenbeispiel derselben Generation, die von der Mandarin-Pop-Ikone zur Produzentin zurücktrat (Enno Cheng mit fremder Sprache, Lin Yuxia mit selbstproduziertem Produzenten-Identität — zwei Wege, um sich nicht definieren zu lassen)
+- [Taiwanesische unabhängige Musik](/de/music/indie-music-scene) — Enno Chengs Identität als unabhängige Musikerin von der Zeit der Lady Zero bis zu „Wassertropfen"
+- [Lin Yuxia](/de/people/yoga-lin) — Ein Gegenbeispiel derselben Generation, die von der Mandarin-Pop-Ikone zur Produzentin zurücktrat (Enno Cheng mit fremder Sprache, Lin Yuxia mit selbstproduziertem Produzenten-Identität — zwei Wege, um sich nicht definieren zu lassen)
 
 ## Referenzen
 

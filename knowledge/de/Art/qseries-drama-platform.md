@@ -204,7 +204,7 @@ Es hinterließ nicht nur einige gute Serien, sondern eine Antwort, die bis heute
 
 **Weiterführende Literatur:**
 
-- [Goldglöckchen-Preis](/culture/金鐘獎) — "Schließe die Augen, wenn es dunkel wird" und "Der Blütenmänner wird erwachsen" gewannen in zwei aufeinanderfolgenden Editionen den Fernsehprogramm-Preis, und das erste Mal erschien "Good Fortune" auf der Gewinnliste
+- [Goldglöckchen-Preis](/de/culture/golden-bell-awards) — "Schließe die Augen, wenn es dunkel wird" und "Der Blütenmänner wird erwachsen" gewannen in zwei aufeinanderfolgenden Editionen den Fernsehprogramm-Preis, und das erste Mal erschien "Good Fortune" auf der Gewinnliste
 
 ## Referenzen
 

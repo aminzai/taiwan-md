@@ -247,12 +247,12 @@ Das ultimative Schlachtfeld der kognitiven Kriegsführung ist **die Vertrauensbe
 
 - [Threads in Taiwan](/de/technology/threads-in-taiwan) — Geschichte der Plattformverlagerung in Taiwan und die Struktur des Informationskriegsschauplatzes
 - [Miin](/de/technology/miin-music-app) — Plattform gegen Falschinformationen von Tu Yi-ching und dem Taiwan AI Lab, nutzt KI zur Erkennung koordinierter Konten (nicht einzelne Inhaltsüberprüfung)
-- [Open Culture Foundation](/technology/開放文化基金會) — Betreiber des Cofacts-Verifizierungsbots, Hintergrundorganisation für die Überwachung der taiwanischen Internetfreiheit
+- [Open Culture Foundation](/de/technology/open-culture-foundation) — Betreiber des Cofacts-Verifizierungsbots, Hintergrundorganisation für die Überwachung der taiwanischen Internetfreiheit
 - [Geschichte der Plattformverlagerung in der taiwanischen Online-Gemeinschaft](/de/technology/taiwan-online-community-migration) — Verständnis der Rolle von PTT, Dcard, Threads und anderen Plattformen im kognitiven Krieg
 - [Taiwanische Medien und Pressefreiheit](/de/society/media-and-press-freedom-in-taiwan) — Nachrichtenökosystem und Plattformverantwortung im kognitiven Krieg
 - [Shen Boyang](/de/people/puma-shen) — Einer der Hauptforscher der kognitiven Kriegsführung, 2025 erste taiwanische gewählte Politikerin, gegen die China Ermittlungen wegen „Spaltung des Staates" eingeleitet hat
 - [Black Bear Academy](/de/society/kuma-academy-civil-defense-school) — Zivilorganisation, die die Erkennung kognitiver Kriegsführung in die Grundausbildung der Zivilverteidigung integriert, lehrt normale Menschen, in Falschinformationen und psychologischer Kriegsführung urteilsfähig zu bleiben
-- [Giftiges Kartoffeln: Jenseits von 200 ppm – die Narben von 30 ppm, 14 Tagen und 15 Jahren Lebensmittelsicherheit](/society/毒馬鈴薯認知作戰) — Anatomie, wie die „Loyalitätserklärung"-Erzählung des Büros für Vereinigung mit Taiwan im April 2026 präzise auf die 15-jährigen Lebensmittelsicherheitstraumata seit der Plastifizierungskrise 2011 tritt
+- [Giftiges Kartoffeln: Jenseits von 200 ppm – die Narben von 30 ppm, 14 Tagen und 15 Jahren Lebensmittelsicherheit](/de/society/poisoned-potato-cognitive-warfare-taiwan) — Anatomie, wie die „Loyalitätserklärung"-Erzählung des Büros für Vereinigung mit Taiwan im April 2026 präzise auf die 15-jährigen Lebensmittelsicherheitstraumata seit der Plastifizierungskrise 2011 tritt
 - [Taiwan und Eswatini](/de/society/taiwan-eswatini-relations) — Konkrete Szenen chinesischer Sprachmanipulation wie „Ratte", „Schmuggel-Ausbruch", „internationaler Witz": Reaktionen bei Lai Ching-tes Besuch in Eswatini im Mai 2026
 - [Paraguay und Taiwan](/de/society/paraguay-taiwan) — Wie Taiwan unter chinesischen Marktversuchungen und politischen Lockungen mit langfristiger Zusammenarbeit Südamerikas einzigen diplomatischen Verbündeten hält
 

@@ -167,11 +167,11 @@ Sie schreiben nicht die Themen für die TMTS, aber sie sind diejenigen, die dies
 
 **Weiterführende Literatur**:
 
-- [Taiwan Robot Industry](/technology/台灣機器人產業) – Die Fähigkeiten der Werkzeugmaschinenindustrie im Dahu-Berg sind die Grundlage der Robotikindustrie, aber es gibt eine Lücke zwischen ‚ein gutes Teil herzustellen‘ und ‚eine Roboterer bin zu integrieren‘.
+- [Taiwan Robot Industry](/de/technology/taiwan-robotics-industry) – Die Fähigkeiten der Werkzeugmaschinenindustrie im Dahu-Berg sind die Grundlage der Robotikindustrie, aber es gibt eine Lücke zwischen ‚ein gutes Teil herzustellen‘ und ‚eine Roboterer bin zu integrieren‘.
 - [Semiconductor Industry](/de/technology/taiwan-semiconductor-industry) – Eine weitere typische taiwanesische Industrie in der globalen Lieferungskette, mit ähnlichen Strukturen wie die Werkzeugmaschinenindustrie.
-- [Taiwan Industrial Transformation and Upgrade](/economy/台灣產業轉型升級) – Die Herausforderung, von OEM-Dienstleistungen zu Markenname, von Bauteilen zu Systemen – die Werkzeugmaschinenindustrie ist ein zentraler Fallbeispiel.
-- [Taiwan Enterprise: Hon Hai Precision](/economy/台灣企業：鴻海精密) – Eine weitere Geschichte eines taiwanesischen Unternehmens, das von Handwerkern begonnen hat, mit größerem Umfang, aber ähnlicher Struktur.
-- [Taiwan Foreign Trade and Global Supply Chain](/economy/台灣外貿與全球供應鏈) – Die Werkzeugmaschinenindustrie ist ein ‚unsichtbarer Champion‘ im taiwanesischen Außenhandel – kleiner als die Elektronikindustrie, aber die Grundlage der gesamten Fertigungsindustrie.
+- [Taiwan Industrial Transformation and Upgrade](/de/economy/industrial-transformation-from-manufacturing-to-innovation) – Die Herausforderung, von OEM-Dienstleistungen zu Markenname, von Bauteilen zu Systemen – die Werkzeugmaschinenindustrie ist ein zentraler Fallbeispiel.
+- [Taiwan Enterprise: Hon Hai Precision](/de/economy/foxconn-precision-industry) – Eine weitere Geschichte eines taiwanesischen Unternehmens, das von Handwerkern begonnen hat, mit größerem Umfang, aber ähnlicher Struktur.
+- [Taiwan Foreign Trade and Global Supply Chain](/de/economy/taiwan-foreign-trade-and-global-supply-chain) – Die Werkzeugmaschinenindustrie ist ein ‚unsichtbarer Champion‘ im taiwanesischen Außenhandel – kleiner als die Elektronikindustrie, aber die Grundlage der gesamten Fertigungsindustrie.
 
 ## Referenzen
 

@@ -165,7 +165,7 @@ Die internationale Reaktion formierte sich innerhalb von zwei Tagen. Maya Wang, 
 
 Auch der Legislativ-Yuan selbst wurde aktiv. Am 19. November 2025 verabschiedete der Auswärtige- und Verteidigungsausschuss des Legislativ-Yuans – also genau der Ausschuss, dessen Vorsitzender Puma Shen selbst ist – einen von Wang Ting-yu und anderen eingebrachten Misstrauensantrag. Wang sagte in seiner Rede: „**Meinungsverschiedenheiten berechtigen weiterhin zu Schutz durch den Staat und die Verfassung.** Die Volksrepublik China hat kein Recht, aus solch aus der Luft gegriffenen Gründen politische Schritte gegen irgendjemanden zu unternehmen.“[^49]
 
-China hat Puma Shen allerdings noch nicht offiziell auf die Belohnungsliste des Hongkonger National Security Law gesetzt; zeitgleich wurden vor allem der [YouTuber „Pa Chiung“](/people/八炯) und „Minnan Wolf“ mit höchstens RMB 250.000 zur Fahndung ausgeschrieben.[^50] Doch die Kombination aus „Staatszerstörung“-Verfahren und CCTV-„globaler Festnahme“-Drohung hat Puma Shen bereits nahe an diese Position gerückt.
+China hat Puma Shen allerdings noch nicht offiziell auf die Belohnungsliste des Hongkonger National Security Law gesetzt; zeitgleich wurden vor allem der [YouTuber „Pa Chiung“](/de/people/pa-chiung-political-youtuber) und „Minnan Wolf“ mit höchstens RMB 250.000 zur Fahndung ausgeschrieben.[^50] Doch die Kombination aus „Staatszerstörung“-Verfahren und CCTV-„globaler Festnahme“-Drohung hat Puma Shen bereits nahe an diese Position gerückt.
 
 ## Die Schraube vor der Haustür
 

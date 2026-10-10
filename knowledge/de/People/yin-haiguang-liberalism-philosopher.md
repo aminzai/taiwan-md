@@ -84,8 +84,8 @@ Nach dem Lesen seiner Geschichte müssen wir uns fragen: In einer Zeit, in der A
 **Weiterführende Lektüre**
 
 - [Cheng Nanrong](/de/people/zheng-nanrong) – Ein Nachfolger der Generation, die die Meinungsfreiheit anstrebt wie Yin Haiguang, bis zum Extrem des „Selbstverbrennungshüters“.
-- [Xu Zhuoyun](/people/許倬雲) – Ein Gelehrter der Geisteswissenschaften, der in den 1960er Jahren an NTU und Academia Sinica die Modernisierung der Geisteswissenschaften vorantrieb.
-- [Weiße Terrorherrschaft in Taiwan](/history/台灣白色恐怖) – Der gesamte politische Kontext von der Internierung Yin Haiguangs, der Inhaftierung Lei Zhen und dem Verbot von _Perspektiven der chinesischen Kultur_.
+- [Xu Zhuoyun](/de/people/cho-yun-hsu-bridging-historian) – Ein Gelehrter der Geisteswissenschaften, der in den 1960er Jahren an NTU und Academia Sinica die Modernisierung der Geisteswissenschaften vorantrieb.
+- [Weiße Terrorherrschaft in Taiwan](/de/history/taiwan-white-terror) – Der gesamte politische Kontext von der Internierung Yin Haiguangs, der Inhaftierung Lei Zhen und dem Verbot von _Perspektiven der chinesischen Kultur_.
 - [Kriegsrechtliche Periode](/de/history/martial-law-era) – Der rechtliche und politische Rahmen hinter dem Lei-Fall, dem Bankrott des Verlags Wenxing und dem Ende von _Free China_.
 - [228-Ereignis](/de/history/228-incident) – Der historische Hintergrund, der zwei Jahre vor Yin Haiguangs Ankunft in Taiwan stattfand und seine anfängliche Schockreaktion auf die „Parteistaat-Autorität“ prägte.
 

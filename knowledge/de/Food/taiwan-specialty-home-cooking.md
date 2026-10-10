@@ -99,9 +99,9 @@ Xue Meng-hui blättert durch das Jahrbuch seines Vaters; die Schrift dort markie
 
 **Weiterführende Lektüre:**
 
-- [Taiwan Ban Zuo Kultur](/food/台灣辦桌文化) — Der konzentrierteste Schauplatz der Shu-lo-tsai: Vom Königreich der Caterer in kargem Neimen bis zum gesamten Ritus des Festessens, der Himmel, die Götter und Geister umfasst.
+- [Taiwan Ban Zuo Kultur](/de/food/taiwan-banquet-culture) — Der konzentrierteste Schauplatz der Shu-lo-tsai: Vom Königreich der Caterer in kargem Neimen bis zum gesamten Ritus des Festessens, der Himmel, die Götter und Geister umfasst.
 - [Chen Yu-xun](/de/people/chen-yu-hsun-taiwan-comedy-film-magician) — Regisseur von _Catering_, bringt „Küken, Schweinemagen, Schildkröte“ – diese fast ausgestorbenen Kochkünste auf die große Leinwand.
-- [Taiwan Meeresfrüchte Kultur](/food/台灣海鮮文化) — Rotgurken, Löwenkrebse und gedämpfter Fisch auf dem Haupttisch des Ban Zuo: Die kulinarische Geschichte der taiwanesischen Meeresküche dahinter.
+- [Taiwan Meeresfrüchte Kultur](/de/food/taiwan-seafood-culture) — Rotgurken, Löwenkrebse und gedämpfter Fisch auf dem Haupttisch des Ban Zuo: Die kulinarische Geschichte der taiwanesischen Meeresküche dahinter.
 
 ## Bildquellen
 

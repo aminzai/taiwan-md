@@ -114,11 +114,11 @@ Jeremy Lins Karriere entsprach nie den Erwartungen von irgendjemandem – auch n
 
 **Weiterführende Lektüre**:
 
-- [Kuo Hsing-chun](/people/郭婞淳) – taiwanesische Sportlerin derselben Generation, drei olympische Medaillen, elf Weltrekorde im Gewichtheben
-- [Tai Tzu-ying](/people/戴資穎) – ebenfalls auf der Weltbühne, Badminton-Weltranglistenkönigin und taiwanesische Sportlerin
-- [Jay Chou](/people/周杰倫) – Vertreter der taiwanesischen Musikszene, der bei Jeremy Lins Rücktrittszeremonie erschien
+- [Kuo Hsing-chun](/de/people/kuo-hsing-chun-olympic-weightlifting-champion) – taiwanesische Sportlerin derselben Generation, drei olympische Medaillen, elf Weltrekorde im Gewichtheben
+- [Tai Tzu-ying](/de/people/tai-tzu-ying) – ebenfalls auf der Weltbühne, Badminton-Weltranglistenkönigin und taiwanesische Sportlerin
+- [Jay Chou](/de/people/jay-chou) – Vertreter der taiwanesischen Musikszene, der bei Jeremy Lins Rücktrittszeremonie erschien
 - [Taiwan-USA-Beziehungen](/society/台灣與美國關係) – hinter Jeremy Lin als Taiwan-Amerikaner steht die Spur der nach 1965 in den USA studierenden Taiwan-Generationen
-- [Lee Yang](/people/李洋) – ein anderer taiwanesischer Sportler-Karriereweg, vom Olympiagold zum ersten Sportminister
+- [Lee Yang](/de/people/lee-yang-badminton) – ein anderer taiwanesischer Sportler-Karriereweg, vom Olympiagold zum ersten Sportminister
 
 ## Referenzen
 

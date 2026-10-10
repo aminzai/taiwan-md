@@ -176,9 +176,9 @@ Und der Preis des Jahresalbum von 2022 war die offizielle Zertifizierung dieser 
 
 - [Stefanie Sun](/de/people/stefanie-sun) — Gleichzeitige chinesischsprachige Sängerin aus Singapur, Duo im Jahr 2000
 - [Ai-Mei Chen](/de/people/a-mei) — Tanya Chua schrieb ihr „Bie Qu Da Rao Ta De Xin“ und „Jie Wei“
-- [Lin Yu-chia](/people/林宥嘉) — Gleichzeitiger Mainstream-chinesischsprachiger männlicher Sänger, als Vergleich für den Singer-Songwriter-Weg
+- [Lin Yu-chia](/de/people/yoga-lin) — Gleichzeitiger Mainstream-chinesischsprachiger männlicher Sänger, als Vergleich für den Singer-Songwriter-Weg
 - [Yang Cheng-lin](/de/people/rainie-yang) — Tanya Chua schrieb ihr „Gu Du Shi Yi Xiang Gan“ (Einsamkeit ist ein Gefühl der Sicherheit)
-- [Hello Nico](/people/Hello-Nico) — Eine Band im Bereich Indie/Mainstream-Übergang zur gleichen Zeit
+- [Hello Nico](/de/people/hello-nico-band) — Eine Band im Bereich Indie/Mainstream-Übergang zur gleichen Zeit
 - [Chen Jianqi](/de/people/chen-chien-chi-music-producer) — Ein Produzent aus Taiwan, ein Singer-Songwriter-Produzent aus derselben Ära wie Tanya Chua
 
 ## Referenzen

@@ -139,16 +139,16 @@ Daher ist die wahre Frage nicht: „Hat sich Cheng Li-wen geändert?“, sondern
 
 **Weiterführende Literatur**:
 
-- [2026 Cheng-Xi Treffen: Zehn Minuten, in denen sich die Führer der Volksrepublik China und der Republik China zehn Jahre trennten](/society/2026鄭習會與國共十年再會) — Der aktuelle Endpunkt von Cheng Li-wens Karriere, das vollständige Gespräch und die Reaktionen danach
-- [Taiwan-Krise und Entwicklung der Beziehungen beider Seiten der Taiwanstraße](/history/台海危機與兩岸關係發展) — Die historische Struktur, in der Cheng Li-wen vor zehn Jahren und nach zehn Jahren stand, die unsichtbaren Kräfte, die sie nach Peking führten
-- [Taiwan politische Umwelt und Wahlsystem](/society/台灣政治環境與選舉制度) — Warum „Ich bin Chinesisch“ zur Wahlkampagne der Parteivorsitzung wurde? Die Parteimitgliederstruktur im Wahlsystem gibt die Antwort
-- [Taiwan Demokratietransformation](/history/台灣民主轉型) — Das Jahr, in dem Cheng Li-wen hungert, war das erste Jahr nach der Legalisierung der Partei; um ihren Anfang zu verstehen, muss man zuerst die Jugendkultur der ersten fünf Jahre der Demokratisierung verstehen
-- [Kuo Wen-cheng](/people/柯文哲) — Eine weitere Figur, die von Grün nach Blau (oder von Weiß nach Blau) wechselte; die beiden Wege sind ähnlich, aber unterschiedlich
+- [2026 Cheng-Xi Treffen: Zehn Minuten, in denen sich die Führer der Volksrepublik China und der Republik China zehn Jahre trennten](/de/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Der aktuelle Endpunkt von Cheng Li-wens Karriere, das vollständige Gespräch und die Reaktionen danach
+- [Taiwan-Krise und Entwicklung der Beziehungen beider Seiten der Taiwanstraße](/de/history/taiwan-strait-crises-and-cross-strait-relations) — Die historische Struktur, in der Cheng Li-wen vor zehn Jahren und nach zehn Jahren stand, die unsichtbaren Kräfte, die sie nach Peking führten
+- [Taiwan politische Umwelt und Wahlsystem](/de/society/taiwan-political-landscape-and-electoral-system) — Warum „Ich bin Chinesisch“ zur Wahlkampagne der Parteivorsitzung wurde? Die Parteimitgliederstruktur im Wahlsystem gibt die Antwort
+- [Taiwan Demokratietransformation](/de/history/taiwan-democratization) — Das Jahr, in dem Cheng Li-wen hungert, war das erste Jahr nach der Legalisierung der Partei; um ihren Anfang zu verstehen, muss man zuerst die Jugendkultur der ersten fünf Jahre der Demokratisierung verstehen
+- [Kuo Wen-cheng](/de/people/ko-wen-je) — Eine weitere Figur, die von Grün nach Blau (oder von Weiß nach Blau) wechselte; die beiden Wege sind ähnlich, aber unterschiedlich
 - [Xiao Mei-qin](/de/people/hsiao-bi-khim) — Eine weitere weibliche politische Figur auf der Bühne 2026, mit einem völlig anderen Weg und einer entsprechenden taiwanesischen Perspektive
-- [Han Kuo-yu](/people/韓國瑜) — Die „Parteivorsitzende + Vorsitzende des Parlaments“-Dualstruktur der Republik-China-Demokratischen Partei von 2025–2026, Cheng in der Partei, Han im Parlament
-- [Zhu Rongtai](/people/卓榮泰) — Der Befürworter von 1,25 Billionen US-Dollar an Rüstungskäufen, der die Gegenposition zu Cheng Li-wens „Parteiversion von 380 Milliarden + N“ einnimmt
+- [Han Kuo-yu](/de/people/han-kuo-yu) — Die „Parteivorsitzende + Vorsitzende des Parlaments“-Dualstruktur der Republik-China-Demokratischen Partei von 2025–2026, Cheng in der Partei, Han im Parlament
+- [Zhu Rongtai](/de/people/cho-jung-tai) — Der Befürworter von 1,25 Billionen US-Dollar an Rüstungskäufen, der die Gegenposition zu Cheng Li-wens „Parteiversion von 380 Milliarden + N“ einnimmt
 - [Lu Hsiu-yen](/de/people/lu-hsiu-yan) — Das, was Cheng Li-wen im Wettbewerb um die Vorsitzung der Republik-China-Demokratischen Partei 2025 war, öffnete den Weg für Cheng, als Lu aufgrund von „Nicht-kandidieren“ zurückzog
-- [Xu Qixing](/people/徐巧芯) — Der Befürworter der „80 Milliarden“-Version, der im Streit um Rüstungskäufe mit Cheng Li-wens „Parteiversion von 380 Milliarden + N“ konkurriert
+- [Xu Qixing](/de/people/hsu-chiao-hsin) — Der Befürworter der „80 Milliarden“-Version, der im Streit um Rüstungskäufe mit Cheng Li-wens „Parteiversion von 380 Milliarden + N“ konkurriert
 - [Ji Lin-lian](/de/people/ji-lin-lian) — Der Stellvertretende Vorsitzende, den Cheng Li-wen 2026 ernannt hat, der am 29. April in der Parteienversammlung als Han Kuo-yu-Spitzenreiter die Spaltung innerhalb der blauen Partei auslöste
 
 ## Referenzen

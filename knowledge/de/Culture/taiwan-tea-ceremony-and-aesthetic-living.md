@@ -136,7 +136,7 @@ Die Zitanglu blüht jedes Frühjahr mit Wisteria. Zhou Yu, der über achtzig Jah
 
 ## Weiterführende Lektüre
 
-- [Taiwanese tea culture](/culture/台灣茶文化) - Tiefgehende Anleitung zu Teesorten und Anbaugebieten
+- [Taiwanese tea culture](/de/culture/taiwanese-tea-culture-and-living-aesthetics) - Tiefgehende Anleitung zu Teesorten und Anbaugebieten
 - [Traditional festivals and celebrations](/de/culture/traditional-festivals-and-celebrations) - Die Rolle des Tees bei Festen
-- [Taiwanese sensibility: Do we have to wait for Koreans to like our old houses before we dare to call them beautiful?](/culture/台灣感性) — Eine Wiederentdeckung der taiwanesischen Alltagästhetik, schmiedeeiserne Fenstergitter, polierte Kieselsteine, alte Häuser – dieser Artikel fragt, ob man diese Neudefinition abwarten muss, bis andere „Gefällt mir“ drücken.
-- [Hokkien culture and language](/culture/客家文化與語言) - Die Verbindung zwischen Dongfang Meiren Tee und Hokkien-Teegebieten
+- [Taiwanese sensibility: Do we have to wait for Koreans to like our old houses before we dare to call them beautiful?](/de/culture/taiwanese-sensibility) — Eine Wiederentdeckung der taiwanesischen Alltagästhetik, schmiedeeiserne Fenstergitter, polierte Kieselsteine, alte Häuser – dieser Artikel fragt, ob man diese Neudefinition abwarten muss, bis andere „Gefällt mir“ drücken.
+- [Hokkien culture and language](/de/culture/hakka-culture-and-language) - Die Verbindung zwischen Dongfang Meiren Tee und Hokkien-Teegebieten

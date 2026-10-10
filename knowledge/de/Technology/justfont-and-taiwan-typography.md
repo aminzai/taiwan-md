@@ -242,10 +242,10 @@ Das änderte sich nach dem Morgen des 9. September 2015. Heute wissen Zehntausen
 
 **Weiterführende Lektüre**:
 
-- [Reporter: Zehn Jahre, in denen ein investigativer Bericht zu öffentlichem Gut gerettet wurde](/society/報導者): Die Geschichte eines anderen taiwanesischen Lesers, der durch Geld abstimmt und öffentliches Gut ernährt. Der Spender ist wie der Sponsor für Jin Xuan.
-- [Taiwanische New Media Kunst](/art/台灣新媒體藝術): Eine Gruppe von taiwanesischen Kreativen, die an der Schnittstelle von Design, Technologie und kultureller Identität stehen.
+- [Reporter: Zehn Jahre, in denen ein investigativer Bericht zu öffentlichem Gut gerettet wurde](/de/society/the-reporter-investigative-journalism): Die Geschichte eines anderen taiwanesischen Lesers, der durch Geld abstimmt und öffentliches Gut ernährt. Der Spender ist wie der Sponsor für Jin Xuan.
+- [Taiwanische New Media Kunst](/de/art/taiwan-new-media-art): Eine Gruppe von taiwanesischen Kreativen, die an der Schnittstelle von Design, Technologie und kultureller Identität stehen.
 - [Soziale Bewegungen und bürgerschaftliches Engagement](/de/society/social-movements-and-civic-participation): Die Energie des „Streitens um öffentliche Angelegenheiten“ bei Jin Xuan hat in Taiwan einen größeren Kontext.
-- [Unterseekabel](/technology/海底電纜): Eine andere Infrastruktur, die jeder täglich nutzt, aber von niemandem bemerkt wird.
+- [Unterseekabel](/de/technology/submarine-cables-taiwan-lifeline): Eine andere Infrastruktur, die jeder täglich nutzt, aber von niemandem bemerkt wird.
 
 ## Bildquellen
 

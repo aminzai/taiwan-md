@@ -125,7 +125,7 @@ Diese Möwe singt bis heute in den taiwanesischen Bergen. Sie kennt nicht ihren 
 - [Die Ornithologie von Formosa](/de/nature/the-ornithology-of-formosa) – Eine detaillierte Analyse von Swinhoes 1863er Aufsatz _The Ornithology of Formosa_: 201 lateinische Namen, 30 Jäger und was er im zentralen Gebirge nicht erreichte
 - [Die Qing-Zeit](/de/history/qing-dynasty-rule) – Der historische Kontext, in dem Swinhoe nach Taiwan kam: Hafenöffnung, Kautionsstreit, Fujing zwischen Kolonialinteressen
 - [Taiwanesische endemische Arten](/de/nature/endemic-species) – Viele der Arten, die Swinhoe dokumentierte, wurden später als endemisch für Taiwan bestätigt
-- [Der Blausteißtukan](/nature/台灣藍鵲) – Ein Exkavat, das Swinhoe 1862 sammelte, wurde 2007 in der Vogelwahl gewonnen
+- [Der Blausteißtukan](/de/nature/taiwan-blue-magpie) – Ein Exkavat, das Swinhoe 1862 sammelte, wurde 2007 in der Vogelwahl gewonnen
 - [Li Xian-de](/de/people/charles-le-gendre) – Ein weiterer Ausländer, der Fujing hinterließ, aber mit ganz anderen Motivationen
 - [Der Kautionskrieg des 19. Jahrhunderts](/de/history/19th-century-camphor-wars) – Swinhoes 1864er Aufsatz _Formosa Camphor_ war die Vorgeschichte dieses Krieges: Drei-Preis-Differenzierung, Geschenke im Austausch gegen Holzerlaubnis, 6.000 Tang Kautionsholz pro Jahr in Tamsui
 

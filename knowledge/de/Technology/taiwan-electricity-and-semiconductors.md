@@ -180,7 +180,7 @@ Die Halbleiter haben Taiwan für die Welt notwendig gemacht. Die Stromversorgung
 - [KI-Hardware-Lieferkette](/de/technology/ai-hardware-supply-chain) — Wie Taiwan den Cloud-Bedarf in lieferbare Maschinen umwandelt.
 - [Wasserverbrauch von Halbleitern und Wasserressourcen Taiwans](/de/technology/semiconductor-water-use-and-taiwan-water-resources) — Wie die Waferherstellung mit Wasserspeichern, Dürren und der Bewirtschaftung von Regenwasser interagiert.
 - [Ausländische Ansiedlung in der KI-Lieferkette](/de/technology/ai-supply-chain-overseas-manufacturing) — Wie Auslandsinvestitionen Lieferketten, Stromversorgung und lokale Infrastruktur miteinander verknüpfen.
-- [Taiwanesische Unternehmen: TSMC](/economy/台灣企業：台積電) — Wie das reine Waferfertigungsmodell zum globalen Engpass bei fortschrittlichen Chips geworden ist.
+- [Taiwanesische Unternehmen: TSMC](/de/economy/tsmc) — Wie das reine Waferfertigungsmodell zum globalen Engpass bei fortschrittlichen Chips geworden ist.
 
 ## Bildquellen
 

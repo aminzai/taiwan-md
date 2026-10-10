@@ -156,7 +156,7 @@ Das Reisfeld von vor vierundfünfzig Jahren setzte auf das Überleben; nachdem m
 **Weiterführende Lektüre:**
 
 - [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Fünfzig Jahre Materialrevolution vom Technologietransfer von RCA bis Galliumnitrid und Quantenpackaging; wie die Chips im Park zur fortschrittlichsten der Welt wurden.
-- [Die Top 50 Unternehmen Taiwans](/economy/台灣前50大企業) — Der nationale Schatz stützt eine Bilanz und einen Einpunktversagen; die andere Seite der Konzentrationsrate des Wissenschaftsparks.
+- [Die Top 50 Unternehmen Taiwans](/de/economy/top-50-companies-taiwan) — Der nationale Schatz stützt eine Bilanz und einen Einpunktversagen; die andere Seite der Konzentrationsrate des Wissenschaftsparks.
 - [Der Schöpfer: Die Wette des Jahrhunderts](/de/art/mountain-makers-tsmc-documentary) — Dokumentarfilm von Xiao Ju-zhen, 2025; fünf Jahre lang wurden über achtzig Halbleiterveteranen interviewt und diese „Wette des Jahrhunderts“ in Bildern festgehalten.
 
 ---

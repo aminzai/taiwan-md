@@ -100,10 +100,10 @@ Rückblickend spiegeln die Taiwan-Memes die Komplexität dieser Insel wider. Sie
 
 ## Weiterführende Lektüre
 
-- [PTT PTT](/technology/PTT批踢踢) — Ursprung vieler Taiwan-Memes und der Nutzerkultur
+- [PTT PTT](/de/technology/ptt-bulletin-board-system) — Ursprung vieler Taiwan-Memes und der Nutzerkultur
 - [Ma Ying-jeou Memes](/de/society/ma-ying-jeou-meme) — Fallstudie zur Meme-ifizierung politischer Persönlichkeiten
 - [Ältere Menschen Bilder (Elderly Pictures)](/de/culture/elder-greeting-images) — Ein weiterer typisch taiwanesischer Verbreitungsweg im Netz
-- [Taiwan VTuber](/culture/台灣VTuber) — Die moderne Verschmelzung von virtuellen Charakteren und Meme-Kultur
+- [Taiwan VTuber](/de/culture/taiwan-vtuber) — Die moderne Verschmelzung von virtuellen Charakteren und Meme-Kultur
 
 ---
 

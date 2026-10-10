@@ -326,7 +326,7 @@ Dann wechselte die Kamera zur nächsten Auszeichnung.
 
 - [Wei Ru-xuan](/de/people/waa-wei-singer) — gehört zum unabhängigen Musikökosystem der 2010er Jahre, Kontrastgruppe der weiblichen Vokalroute
 - [Constantine's Curveball](/de/people/constant-and-change-band) — gehört zum Post-Rock-Spektrum, aber folgt einer Vokal-Erzählungsroute
-- [Cicada](/people/Cicada) — folgt einer vollständig instrumentalen Route ohne Vokal, genau das Gegenteil von Grass Dong »Lyrics als Soziologie«
+- [Cicada](/de/people/cicada-band) — folgt einer vollständig instrumentalen Route ohne Vokal, genau das Gegenteil von Grass Dong »Lyrics als Soziologie«
 - [Lu Guang-zhong](/de/people/crowd-lu-indie-folk-treasure) — eine andere Route der unabhängigen Musik »Werksänger«
 - [Golden Melody Awards](/de/music/pop-music-and-golden-melody-awards) — die Bühne, auf der Grass Dong zweimal beste Band gewann
 - [Taiwanische unabhängige Musik](/de/music/indie-music-scene) — die Entwicklung der unabhängigen Musik von Natural Curl zu Grass Dong zu Tell Five People

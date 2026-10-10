@@ -232,10 +232,10 @@ Wenn dir das nächste Mal jemand fragt: „Wo gehört Taiwan eigentlich hin?“,
 
 ## Weiterführende Lektüre
 
-- [Taiwanische Geschichtssicht: Wie die von wiederholter Herrschaft beherrschte Insel ihre eigene Subjektivität erfand](/history/台灣島史觀) — Die Insgeschichtsmethodik von Cao Yonghe liefert die historische Grundlage für das „Archipel-Denken“.
+- [Taiwanische Geschichtssicht: Wie die von wiederholter Herrschaft beherrschte Insel ihre eigene Subjektivität erfand](/de/history/taiwan-island-historiography) — Die Insgeschichtsmethodik von Cao Yonghe liefert die historische Grundlage für das „Archipel-Denken“.
 - [Zeitgenössische Kunst der indigenen Völker Taiwans](/de/art/contemporary-indigenous-art-taiwan) — Indigene Völker der Austronesier als lebender Träger des „archipelagischen Kontinuums“, zeitgenössische künstlerische Praxis.
 - [Musikalische Traditionen der indigenen Völker Taiwans](/de/music/indigenous-music-traditions) — Die hohe Korrelation zwischen den Musiktraditionen der 16 Stämme und der Musik der Ozeanien stützt die Theorie des Austronesischen Ursprungs.
-- [Seetraditionsgeschichte Taiwans](/history/台灣海洋貿易史) — Von Jadeobjekten der Beinan bis zur Ära der großen Entdeckungen: Die maritimen Verbindungen Taiwans.
+- [Seetraditionsgeschichte Taiwans](/de/history/taiwan-maritime-trade-history) — Von Jadeobjekten der Beinan bis zur Ära der großen Entdeckungen: Die maritimen Verbindungen Taiwans.
 - [Kulturkarten der 16 indigenen Völker Taiwans](/de/culture/indigenous-peoples-16-tribes-cultural-map) — Die Korrespondenz zwischen den Sprachsystemen der 16 Stämme und den neun primären Zweigen der Austronesier.
 
 ![Mondsteinpfeiler der Beinan-Stätte, ein charakteristisches Relikt der Beinan-Kultur (5300–2300 Jahre alt). In der Beinan-Stätte wurden über 5000 Jadeobjekte gefunden, einige davon später in prähistorischen Stätten auf den Philippinen, in Vietnam und Thailand ausgegraben.](/article-images/culture/beinan-stone-pillar.webp)

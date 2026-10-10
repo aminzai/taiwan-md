@@ -207,10 +207,10 @@ HUR+ beweist diese These. Noch nicht vollständig bewiesen, aber je länger sie 
 ## Weiterführende Literatur
 
 - [Lian Ying](/de/people/lien-ying) — Tänzerin von HUR+, erste taiwanesische Bandmitglied, das Solo-Entwicklungen beginnt. „Was eine Band an Tanzebene haben sollte“
-- [Taiwan New Idol Generation](/culture/台灣新偶像世代) — Von Show-DD52 bis zur Universum der Sterne, ein sechjähriges Industrie-Experiment der taiwanesischen Shows
+- [Taiwan New Idol Generation](/de/culture/taiwan-new-idol-generation) — Von Show-DD52 bis zur Universum der Sterne, ein sechjähriges Industrie-Experiment der taiwanesischen Shows
 - [Yang Chenglin](/de/people/rainie-yang) — Chefarzt der Show-DD52, auch eine 25-jährige Geschichte der Autonomie von der Idol-Industrie
 - [Mayday](/de/music/mayday-band) — Eine weitere taiwanesische Musikband, die von kleinen Bühnen zu asiatischen Stadien gelangten
-- [Taiwan Independent Music](/music/台灣獨立音樂) — Die Schnittstelle zwischen HUR+‘s Musikstil und unabhängiger Elektronik
+- [Taiwan Independent Music](/de/music/indie-music-scene) — Die Schnittstelle zwischen HUR+‘s Musikstil und unabhängiger Elektronik
 
 ## Quellen
 

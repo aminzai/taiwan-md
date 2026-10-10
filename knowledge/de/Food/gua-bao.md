@@ -141,11 +141,11 @@ Wenn man einen Gua Bao isst, isst man vierhundert Jahre der Seereisen aus Fuzhou
 
 ## Weiterführende Lektüre
 
-- [Snacks aus Taiwan](/food/台灣小吃) — Das gesamte Ökosystem der Straßenküche, Gua Bao ist ein wichtiger Strang darin
+- [Snacks aus Taiwan](/de/food/taiwanese-street-food) — Das gesamte Ökosystem der Straßenküche, Gua Bao ist ein wichtiger Strang darin
 - [Nachtmarktkultur](/de/food/night-market-culture) — Die Geschichte von Gua Baos Weg vom Festtisch auf den Nachtmarkt
-- [Taiwanesische Tischkultur](/food/台灣辦桌文化) — Die rituellen Logiken des Festmahls und der Arbeitsbeziehungen, die Haltung des Huhns und Tiger beißt Schwein
+- [Taiwanesische Tischkultur](/de/food/taiwan-banquet-culture) — Die rituellen Logiken des Festmahls und der Arbeitsbeziehungen, die Haltung des Huhns und Tiger beißt Schwein
 - [Kulinarik aus Taiwan](/de/food/taiwan-rice-cuisine-culture) — Der Teigkontext von Gua Bao und die duale Ernährungsstruktur von Reis und Getreide in Taiwan
-- [Taiwanese Salted Chicken](/food/台灣鹽酥雞) — Ein weiterer einfacher Snack, der auf die internationale Sichtweise von CNN gelangte
+- [Taiwanese Salted Chicken](/de/food/taiwanese-popcorn-chicken-redux) — Ein weiterer einfacher Snack, der auf die internationale Sichtweise von CNN gelangte
 
 ## Bildquellen
 

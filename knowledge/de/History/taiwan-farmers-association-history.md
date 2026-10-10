@@ -128,7 +128,7 @@ Der historische Platz der Landwirtschaftskammer ist hier zu finden. Die landwirt
 
 ## Weiterführende Lektüre
 
-- [Landreform in Taiwan](/history/台灣土地改革) — Der institutionelle Hintergrund der Reform der Landwirtschaftskammer und der Neuordnung der ländlichen Macht nach dem Krieg
+- [Landreform in Taiwan](/de/history/taiwan-land-reform) — Der institutionelle Hintergrund der Reform der Landwirtschaftskammer und der Neuordnung der ländlichen Macht nach dem Krieg
 - [Entwicklung der landwirtschaftlichen Modernisierung in Taiwan](/de/economy/taiwan-agricultural-modernization) — Ein weiterer Faden der Förderung, der landwirtschaftlichen Technik und des industriellen Wandels durch die Landwirtschaftskammer
 - [Geschichte der öffentlichen Wasserversorgung in Taiwan](/history/台灣自來水史) — Ein Vergleichslese zwischen ländlicher Organisation und dem System öffentlicher Infrastruktur
 

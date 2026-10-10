@@ -64,10 +64,10 @@ Im Januar 2000 starb Wu Ta-yu in San Francisco, 93 Jahre alt[^7]. Yang Chen-ning
 
 **Weiterführende Lektüre**:
 
-- [Lee Yuan-tseh](/people/李遠哲) — ein weiterer in Taiwan aufgewachsener Wissenschaftler, der später den Nobelpreis für Chemie erhielt; steht für Taiwans kontinuierliche Ansammlung in der Grundlagenwissenschaft
-- [Halbleiterindustrie](/technology/半導體產業) — die 1980er-Jahre von Wu Ta-yus Academia-Sinica-Zeit waren genau die entscheidende Phase des Starts der taiwanesischen Halbleiterindustrie
-- [Audrey Tang](/people/唐鳳) — von der Wissenschaft zur Technologie: ein anderer Weg, auf dem Taiwans Wissenselite sich im öffentlichen Raum engagiert
-- [Lin Chi-Erh](/people/林琪兒) — gebürtige Taipeher NASA-Astronautin und Medizinerin; setzt die Spur der von Wu Ta-yus Generation im amerikanischen Nachkriegs-Akademiesystem aufgebauten taiwanesischstämmigen Wissenschaftler fort
+- [Lee Yuan-tseh](/de/people/lee-yuan-tseh) — ein weiterer in Taiwan aufgewachsener Wissenschaftler, der später den Nobelpreis für Chemie erhielt; steht für Taiwans kontinuierliche Ansammlung in der Grundlagenwissenschaft
+- [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — die 1980er-Jahre von Wu Ta-yus Academia-Sinica-Zeit waren genau die entscheidende Phase des Starts der taiwanesischen Halbleiterindustrie
+- [Audrey Tang](/de/people/audrey-tang) — von der Wissenschaft zur Technologie: ein anderer Weg, auf dem Taiwans Wissenselite sich im öffentlichen Raum engagiert
+- [Lin Chi-Erh](/de/people/lin-chi-er-astronaut) — gebürtige Taipeher NASA-Astronautin und Medizinerin; setzt die Spur der von Wu Ta-yus Generation im amerikanischen Nachkriegs-Akademiesystem aufgebauten taiwanesischstämmigen Wissenschaftler fort
 
 ## Referenzen
 

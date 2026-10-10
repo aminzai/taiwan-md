@@ -199,11 +199,11 @@ Und ob sie aus Taichung hinausgehen oder weiter zu Hause bleiben soll – diese 
 
 **Weiterführende Links**：
 
-- [Cheng Li-wen](/people/鄭麗文) — Gewählt zur 12. KMT-Vorsitzenden im Oktober 2025 mit 50,15 %. Lus „Nichtkandidatur“ öffnete ihr den Einstieg
-- [Han Kuo-yu](/people/韓國瑜) — Das andere Extrem des „Han-Stroms“ 2018, im selben Jahr wie Lu vom blauen Land den blauen Himmel gewendet; 2024 Parlamentspräsident, 2028 Teil von „3+1“
-- [Cho Jung-tai](/people/卓榮泰) — Premierminister der Lai-Ching-te-Regierung, Haupttreiber des 1,25-Billionen-Militärbeschaffungsvorschlags, politischer Gegenpol zu Lus „800 Mrd.–1 Billion“-Bandbreite
-- [Taiwans Verteidigung und militärische Modernisierung](/society/台灣國防與軍事現代化) — 1,25-Billionen-Militärbeschaffungsstreit, Drohnen, asymmetrische Kampfkraft – der vollständige Kontext von Lus USA-Besuch 2026
-- [Umweltgerechtigkeit und NIMBY-Konflikte in Taiwan](/society/台灣環境正義與鄰避爭議) — Taichung-Kraftwerk, PM2,5, Energiewende-Hintergrund der NIMBY-Strukturen, das Politikschlachtfeld, auf dem Lu 2018 mit dem Luftthema Taichung gewann
+- [Cheng Li-wen](/de/people/cheng-li-wun) — Gewählt zur 12. KMT-Vorsitzenden im Oktober 2025 mit 50,15 %. Lus „Nichtkandidatur“ öffnete ihr den Einstieg
+- [Han Kuo-yu](/de/people/han-kuo-yu) — Das andere Extrem des „Han-Stroms“ 2018, im selben Jahr wie Lu vom blauen Land den blauen Himmel gewendet; 2024 Parlamentspräsident, 2028 Teil von „3+1“
+- [Cho Jung-tai](/de/people/cho-jung-tai) — Premierminister der Lai-Ching-te-Regierung, Haupttreiber des 1,25-Billionen-Militärbeschaffungsvorschlags, politischer Gegenpol zu Lus „800 Mrd.–1 Billion“-Bandbreite
+- [Taiwans Verteidigung und militärische Modernisierung](/de/society/taiwan-defense-modernization) — 1,25-Billionen-Militärbeschaffungsstreit, Drohnen, asymmetrische Kampfkraft – der vollständige Kontext von Lus USA-Besuch 2026
+- [Umweltgerechtigkeit und NIMBY-Konflikte in Taiwan](/de/society/taiwan-environmental-justice-nimby-conflicts) — Taichung-Kraftwerk, PM2,5, Energiewende-Hintergrund der NIMBY-Strukturen, das Politikschlachtfeld, auf dem Lu 2018 mit dem Luftthema Taichung gewann
 
 ## Quellen
 

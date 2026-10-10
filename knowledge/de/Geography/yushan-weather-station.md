@@ -141,8 +141,8 @@ Von der hölzernen Hütte aus der Kolonialzeit bis zur modernen, stabilen Wetter
 
 ## Weiterführende Lektüre
 
-- [Yushan: Vom „Neuen Hochgebirge“ zum höchsten Punkt der Seele Taiwans](/geography/玉山) — Eine tiefgründige Diskussion über die natürliche Ökologie, die Geschichte als heiliger Berg indigener Völker und die moderne Wanderethik des Yushan.
-- [Offizielle Ressourcen von Taiwan](/about/台灣官方網站資源) — Informationen zu verschiedenen öffentlichen Datenquellen der Regierung Taiwans sowie den offiziellen meteorologischen und geographischen Beobachtungsnetzen.
+- [Yushan: Vom „Neuen Hochgebirge“ zum höchsten Punkt der Seele Taiwans](/de/geography/yushan-jade-mountain) — Eine tiefgründige Diskussion über die natürliche Ökologie, die Geschichte als heiliger Berg indigener Völker und die moderne Wanderethik des Yushan.
+- [Offizielle Ressourcen von Taiwan](/de/about/taiwan-official-resources) — Informationen zu verschiedenen öffentlichen Datenquellen der Regierung Taiwans sowie den offiziellen meteorologischen und geographischen Beobachtungsnetzen.
 
 ---
 

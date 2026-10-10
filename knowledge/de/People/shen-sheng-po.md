@@ -137,8 +137,8 @@ Dieser Geist ist bis heute nicht veraltet.
 
 ## Verwandte Themen
 
-- [Wu Che-yu](/people/吳哲宇): Ein weiterer Weg von Programmierung zur Kunst in Taiwan
-- [Audry Tang](/people/唐鳳): Wie Technikdenken in den öffentlichen Raum gelangt
+- [Wu Che-yu](/de/people/che-yu-wu): Ein weiterer Weg von Programmierung zur Kunst in Taiwan
+- [Audry Tang](/de/people/audrey-tang): Wie Technikdenken in den öffentlichen Raum gelangt
 
 ```
 

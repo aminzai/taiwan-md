@@ -67,8 +67,8 @@ Die Geschichte der Schwarzen-Fledermaus-Staffel dokumentiert die Opfer unter der
 
 ## Weiterführende Literatur
 
-- [Kriegsrecht](/history/戒嚴時期) — Die geheimen Missionen der Schwarzen-Fledermaus-Staffel und das Schweigen der Familien spielten sich beide unter demselben Kriegsrechtsregime ab
-- [Weißer Terror in Taiwan](/history/台灣白色恐怖) — In derselben Ära des Kalten Krieges ein weiteres zum Schweigen gebrachtes Einzelschicksal
+- [Kriegsrecht](/de/history/martial-law-era) — Die geheimen Missionen der Schwarzen-Fledermaus-Staffel und das Schweigen der Familien spielten sich beide unter demselben Kriegsrechtsregime ab
+- [Weißer Terror in Taiwan](/de/history/taiwan-white-terror) — In derselben Ära des Kalten Krieges ein weiteres zum Schweigen gebrachtes Einzelschicksal
 
 ## Quellen
 

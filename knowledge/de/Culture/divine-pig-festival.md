@@ -105,11 +105,11 @@ Die Kultur des Göttlichen Schweins ist ein Spiegelbild des vielfältigen Glaube
 
 ## Weiterführende Lektüre
 
-- **[Hakka-Kultur und Sprache](/culture/客家文化與語言)** — Die Geschichte und die Glaubenswurzeln der Hakka-Bevölkerung
-- **[Taiwanische Tempelfeste und Clan-Kulturen](/culture/台灣廟會與陣頭文化)** — Praktiken des Volksglaubens und gesellschaftliche Mobilisierung in Taiwan
-- **[Religion und Tempelkultur Taiwans](/culture/台灣宗教與寺廟文化)** — Der Kontext des Volksglaubens, in dem das Göttliche Schwein verehrt wird
+- **[Hakka-Kultur und Sprache](/de/culture/hakka-culture-and-language)** — Die Geschichte und die Glaubenswurzeln der Hakka-Bevölkerung
+- **[Taiwanische Tempelfeste und Clan-Kulturen](/de/culture/taiwan-temple-festivals-and-performance-troupes)** — Praktiken des Volksglaubens und gesellschaftliche Mobilisierung in Taiwan
+- **[Religion und Tempelkultur Taiwans](/de/culture/taiwan-religion-and-temple-culture)** — Der Kontext des Volksglaubens, in dem das Göttliche Schwein verehrt wird
 - **[Traditionelle Feste und Zeremonien](/de/culture/traditional-festivals-and-celebrations)** — Ein Überblick über die rituellen Kulturen der gerechten Heldenfeste und Mondfesttage
-- **[Ethnische Gruppen (Min, Hakka, indigene Völker, ausländische Siedler)](/culture/族群（閩南客家原住民外省新住民）)** — Unterschiede und Verschmelzungen in den kulturellen Praktiken der Min- und Hakka-Bevölkerung
+- **[Ethnische Gruppen (Min, Hakka, indigene Völker, ausländische Siedler)](/de/culture/ethnic-groups)** — Unterschiede und Verschmelzungen in den kulturellen Praktiken der Min- und Hakka-Bevölkerung
 
 ## Quellenverzeichnis
 

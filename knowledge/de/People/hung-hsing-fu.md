@@ -150,9 +150,9 @@ In den 32 Jahren seines Lebens, war Hong Xingfu wie ein heller Sternschnuppe, di
 
 ## Weiterführende Literatur
 
-- [taiwanische Literatur nach dem Krieg](/art/戰後台灣文學)：Die soziale Entwicklung Taiwans nach dem Krieg, die Debatte um die ländliche Literatur und die Entwicklung des Realismus
-- [Geschichte der taiwanesischen Literatur](/art/台灣文學史)：Die vollständige Entwicklung von der japanischen Kolonialherrschaft bis zur Gegenwart
-- [Huang Chunming](/people/黃春明)：Die Tragödie und das Glück der kleinen Figuren in den Lüftungen, ein Gegenstück der ländlichen Kurzgeschichten seiner Zeit
+- [taiwanische Literatur nach dem Krieg](/de/art/postwar-taiwanese-literature)：Die soziale Entwicklung Taiwans nach dem Krieg, die Debatte um die ländliche Literatur und die Entwicklung des Realismus
+- [Geschichte der taiwanesischen Literatur](/de/art/history-of-taiwanese-literature)：Die vollständige Entwicklung von der japanischen Kolonialherrschaft bis zur Gegenwart
+- [Huang Chunming](/de/people/huang-chun-ming-taiwanese-literary-master)：Die Tragödie und das Glück der kleinen Figuren in den Lüftungen, ein Gegenstück der ländlichen Kurzgeschichten seiner Zeit
 
 ---
 

@@ -105,7 +105,7 @@ Das Wehrpflichtsystem Taiwans ist ein langfristiger Dialog über „Verantwortun
 ## Vertiefte Lektüre
 
 - [Hukou-Lager und Siegesstraßen-Erinnerungen](/de/history/hukou-camp-shengli-road-memory) — Alltägliche Erinnerung des Militärraums
-- [Black Bear Academy](/society/黑熊學院) — Die moderne Version des zivilen Verteidigungsbewusstseins
+- [Black Bear Academy](/de/society/kuma-academy-civil-defense-school) — Die moderne Version des zivilen Verteidigungsbewusstseins
 
 ## Quellenangaben
 

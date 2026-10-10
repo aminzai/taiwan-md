@@ -144,11 +144,11 @@ Sie selbst denkt wahrscheinlich auch: Es ist egal – sie hat es gesagt, sich se
 
 Stefanie Suns Aufstieg ist ein Abbild der Blütezeit der taiwanesischen Popmusikindustrie im frühen 21. Jahrhundert. Der Jay Chou, den sie um eine Stimme besiegte, definierte im selben Zeitalter eine andere Spur des chinesischsprachigen Pop; die beiden bleiben bis heute die Doppelachse jener Generation. Ihre Lieder stehen bis heute hochfrequent auf den KTV-Auswahllisten Taiwans – eine lebendige kulturelle Archivierung.
 
-- [Taiwanesische Popmusik](/music/台灣流行音樂/) – der Industriekontext von Stefanie Suns Debüt, die Blütezeit der taiwanesischen Plattenindustrie in den 2000er-Jahren
-- [Golden Melody Award](/music/金曲獎/) – wie die Golden Melody Awards von einer Jury-Mechanik zu einer kulturellen Koordinate wurde, die Geschmack definiert
-- [Jay Chou](/people/周杰倫/) – Nominierter im selben Jahrgang für den besten Newcomer, definierte die andere Spur des chinesischsprachigen Pop
-- [Taiwanesische KTV-Kultur](/music/台灣KTV文化/) – warum Stefanie Suns Lieder aus den KTV-Auswahllisten nicht verschwinden
-- [Tanya Chua](/people/蔡健雅/) – das Doppelgestirn der zweisprachsängerinnenpaarigen chinesischen Musikszene Singapurs derselben Zeit; Chua schrieb für Sun „Der sechste Sinn“ (2003)
+- [Taiwanesische Popmusik](/de/music/golden-melodies-legacy-taiwan-pop-music/) – der Industriekontext von Stefanie Suns Debüt, die Blütezeit der taiwanesischen Plattenindustrie in den 2000er-Jahren
+- [Golden Melody Award](/de/music/pop-music-and-golden-melody-awards/) – wie die Golden Melody Awards von einer Jury-Mechanik zu einer kulturellen Koordinate wurde, die Geschmack definiert
+- [Jay Chou](/de/people/jay-chou/) – Nominierter im selben Jahrgang für den besten Newcomer, definierte die andere Spur des chinesischsprachigen Pop
+- [Taiwanesische KTV-Kultur](/de/music/ktv-culture/) – warum Stefanie Suns Lieder aus den KTV-Auswahllisten nicht verschwinden
+- [Tanya Chua](/de/people/tanya-chua-singer/) – das Doppelgestirn der zweisprachsängerinnenpaarigen chinesischen Musikszene Singapurs derselben Zeit; Chua schrieb für Sun „Der sechste Sinn“ (2003)
 
 ## Referenzen
 

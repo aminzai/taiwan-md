@@ -118,8 +118,8 @@ Also brachte 1988 Taiwan nicht direkt ins Licht. Es übergab einen ursprünglich
 ## Weiterführende Literatur
 
 - [Kriegsrechtsperiode](/de/history/martial-law-era) — Der politische und rechtliche Hintergrund, auf dem das Zeitungsverbot beruhte.
-- [Weißer Terror in Taiwan](/history/台灣白色恐怖) — Wie Publikation, Gedanke und politische Fälle miteinander verknüpft waren.
-- [Taiwans Medien und Pressefreiheit](/society/台灣媒體與新聞自由) — Medienstruktur und gegenwärtige Dilemmata nach der Aufhebung des Zeitungsverbots.
+- [Weißer Terror in Taiwan](/de/history/taiwan-white-terror) — Wie Publikation, Gedanke und politische Fälle miteinander verknüpft waren.
+- [Taiwans Medien und Pressefreiheit](/de/society/media-and-press-freedom-in-taiwan) — Medienstruktur und gegenwärtige Dilemmata nach der Aufhebung des Zeitungsverbots.
 
 ## Quellen
 

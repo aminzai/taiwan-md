@@ -63,7 +63,7 @@ Heute gründete ihr älterer Sohn Zhuang Ji-xiong am 2. Mai 2015 offiziell die �
 
 ## Weiterführende Lektüre
 
-- [Taiwanische Freiwilligenkultur und bürgerschaftliches Engagement](/society/台灣志工文化與公益參與) — Verständnis des langfristigen Kontextes der sozialen Fürsorge in Taiwan durch Institutionen und zivilgesellschaftliches Handeln.
+- [Taiwanische Freiwilligenkultur und bürgerschaftliches Engagement](/de/society/volunteering-and-civic-charity-in-taiwan) — Verständnis des langfristigen Kontextes der sozialen Fürsorge in Taiwan durch Institutionen und zivilgesellschaftliches Handeln.
 - [Traditionelle Familienküche Taiwans](/de/food/military-dependents-village-cuisine) — Wie sich die Alltagsküche im Wandel, Armut und gemeinschaftlicher Hilfe manifestiert.
 
 ## Referenzen

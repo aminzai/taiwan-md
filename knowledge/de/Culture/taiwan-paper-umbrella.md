@@ -74,10 +74,10 @@ Dennoch bietet die Geschichte der Meinong-Papierregenschirme wertvolle Lehren f�
 
 ## Weiterführende Literatur
 
-- **[Koreanische Kultur und Sprache](/culture/客家文化與語言)** — Spracherhalt und kulturelle Überlieferung der koreanischen Gemeinschaft, der Boden, auf dem Papierregenschirme entstanden sind
-- **[Taiwanesische Homophonie und Tabus](/culture/台灣諧音禁忌文化)** — Das Tabu des „Schirmverschenkens“ in der Minnan-Kultur vs. die segensreiche Bedeutung der koreanischen Papierregenschirme, unterschiedliche Interpretationen desselben Gegenstands
-- **[Taiwanesische Blumen- und Musterkunst](/culture/台灣花布)** — Ein weiteres Beispiel, wie ein Alltagsgegenstand zu einem kulturellen Symbol wird
-- **[Blutfarbe](/culture/藍染)** — Eine weitere taiwanesische traditionelle Handwerkskunst, die vor ähnlichen Herausforderungen steht
+- **[Koreanische Kultur und Sprache](/de/culture/hakka-culture-and-language)** — Spracherhalt und kulturelle Überlieferung der koreanischen Gemeinschaft, der Boden, auf dem Papierregenschirme entstanden sind
+- **[Taiwanesische Homophonie und Tabus](/de/culture/taiwanese-homophone-taboos)** — Das Tabu des „Schirmverschenkens“ in der Minnan-Kultur vs. die segensreiche Bedeutung der koreanischen Papierregenschirme, unterschiedliche Interpretationen desselben Gegenstands
+- **[Taiwanesische Blumen- und Musterkunst](/de/culture/taiwan-floral-fabric)** — Ein weiteres Beispiel, wie ein Alltagsgegenstand zu einem kulturellen Symbol wird
+- **[Blutfarbe](/de/culture/taiwan-indigo-dyeing)** — Eine weitere taiwanesische traditionelle Handwerkskunst, die vor ähnlichen Herausforderungen steht
 
 ## Referenzen
 

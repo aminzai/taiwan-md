@@ -137,11 +137,11 @@ Die Glühbirnen in den Klassenzimmern der abgelegenen Schulen flackern manchmal.
 
 **Weiterführende Lektüre:**
 
-- [Ländliche Bildung in Taiwan](/society/台灣偏鄉教育) — Wer die Gesamtstruktur sehen möchte und nicht nur die Organisation TFT, bietet dieser Artikel einen Überblick über Kinder, Schulen, Familien/Gemeinden und gesellschaftlichen Erfolg als vier Kreise.
-- [Kinderbevölkerungskrise in Taiwan](/society/台灣少子化危機) — Die Schrumpfung der Bevölkerung ist der grundlegende Druck für das Überleben ländlicher Schulen; der kontinuierliche Verlust von Schülern führt zur Schulschließung kleiner Schulen.
-- [Landgerechtigkeit und traditionelle Gebiete indigener Völker Taiwans](/society/台灣原住民族土地正義與傳統領域) — Viele Schulen, in die TFT eingedrungen ist, befinden sich in indigenen Gebieten; Bildungsfragen sind mit Landgerechtigkeit und kultureller Kontinuität verwoben.
-- [Yan Changshou](/people/嚴長壽) — Einer der Gründer von TFT, Gründer der Public Platform Foundation; seine Bildungsexperimente in Taitung sind ein Nebenfluss desselben Flusses wie TFT.
-- [Freiwilligenkultur und bürgerschaftliches Engagement in Taiwan](/society/台灣災難志工文化) — Die Tradition des Ehrenamts in der Zivilgesellschaft Taiwans ist der Boden, auf dem TFT vierhundert Menschen rekrutieren konnte.
+- [Ländliche Bildung in Taiwan](/de/society/taiwan-rural-education) — Wer die Gesamtstruktur sehen möchte und nicht nur die Organisation TFT, bietet dieser Artikel einen Überblick über Kinder, Schulen, Familien/Gemeinden und gesellschaftlichen Erfolg als vier Kreise.
+- [Kinderbevölkerungskrise in Taiwan](/de/society/taiwan-low-birth-rate-crisis) — Die Schrumpfung der Bevölkerung ist der grundlegende Druck für das Überleben ländlicher Schulen; der kontinuierliche Verlust von Schülern führt zur Schulschließung kleiner Schulen.
+- [Landgerechtigkeit und traditionelle Gebiete indigener Völker Taiwans](/de/society/indigenous-land-justice-and-traditional-territories) — Viele Schulen, in die TFT eingedrungen ist, befinden sich in indigenen Gebieten; Bildungsfragen sind mit Landgerechtigkeit und kultureller Kontinuität verwoben.
+- [Yan Changshou](/de/people/stanley-yen) — Einer der Gründer von TFT, Gründer der Public Platform Foundation; seine Bildungsexperimente in Taitung sind ein Nebenfluss desselben Flusses wie TFT.
+- [Freiwilligenkultur und bürgerschaftliches Engagement in Taiwan](/de/society/taiwan-disaster-volunteer-culture) — Die Tradition des Ehrenamts in der Zivilgesellschaft Taiwans ist der Boden, auf dem TFT vierhundert Menschen rekrutieren konnte.
 - [Zhabiao (selbstorganisierte Schulen)](/de/society/za-share) — Eine alternative Bildungsinnovation nach den 318er Studentenprotesten; die organisierte Rekrutierung von TFT und die „Karneval“-Route der Zhabiao sind zwei kuratorische Methoden.
 
 ## Referenzen

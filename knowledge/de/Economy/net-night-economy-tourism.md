@@ -111,8 +111,8 @@ NET ist nicht nur ein Bekleidungsunternehmen; es ist ein Träger der Resilienz u
 
 ## Weiteres Lesen
 
-- [Textilindustrie](/economy/紡織業) — Die vorgelagerte Dynamik der unsichtbaren Champions der Textilindustrie in Taiwan
-- [Taiwanische Unternehmen: Foxconn Precision](/economy/台灣企業：鴻海精密) — Eine andere Erzählung von Unternehmensskalierung auf lokaler Ebene
+- [Textilindustrie](/de/economy/taiwan-textile-industry) — Die vorgelagerte Dynamik der unsichtbaren Champions der Textilindustrie in Taiwan
+- [Taiwanische Unternehmen: Foxconn Precision](/de/economy/foxconn-precision-industry) — Eine andere Erzählung von Unternehmensskalierung auf lokaler Ebene
 
 ## Quellenangaben
 

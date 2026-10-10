@@ -197,11 +197,11 @@ Pingxi probiert diesen vierten Weg; das Tal beim nächsten Mondfest wird die Ant
 
 **Weiterführende Lektüre**:
 
-- [Taiwanische Tempelfeste und Militärkulturen](/culture/台灣廟會與陣頭文化) — Ein weiterer Fall, bei dem Kulturerbe und Umweltfragen in Laternenfeste wie im Kampf um Traditionen kollidieren
+- [Taiwanische Tempelfeste und Militärkulturen](/de/culture/taiwan-temple-festivals-and-performance-troupes) — Ein weiterer Fall, bei dem Kulturerbe und Umweltfragen in Laternenfeste wie im Kampf um Traditionen kollidieren
 - [Traditionelle Feste und Zeremonien](/de/culture/traditional-festivals-and-celebrations) — Die Gesamtkarte der taiwanesischen Feste; die Position der Laternen beim Mondfest im Vergleich zu anderen Festen
-- [Taiwanische Religion und Tempelkultur](/culture/台灣宗教與寺廟文化) — Von der Mazu-Anbetung in Cheng'an bis hin zur Kontinuität von Segenssymbolen
-- [Geschichte der Eisenbahnen in Taiwan](/history/台灣鐵道史) — Warum die Pingxi-Linie dieses Tal zum internationalen Laternenfest gemacht hat
-- [Taiwanisches Waldökosystem](/nature/台灣森林生態系) — Die tatsächlichen Auswirkungen von Laternenresten auf das Waldsystem
+- [Taiwanische Religion und Tempelkultur](/de/culture/taiwan-religion-and-temple-culture) — Von der Mazu-Anbetung in Cheng'an bis hin zur Kontinuität von Segenssymbolen
+- [Geschichte der Eisenbahnen in Taiwan](/de/history/taiwan-railway-history) — Warum die Pingxi-Linie dieses Tal zum internationalen Laternenfest gemacht hat
+- [Taiwanisches Waldökosystem](/de/nature/taiwan-forest-ecosystems) — Die tatsächlichen Auswirkungen von Laternenresten auf das Waldsystem
 
 ## Bildquellen
 

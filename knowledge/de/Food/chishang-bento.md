@@ -77,7 +77,7 @@ Obwohl die Rufe der Bahnsteigverkäufer durch die Elektrifizierung der Eisenbahn
 
 ## Weiterführende Lektüre
 
-- [Taiwanische Esskultur](/food/台灣米食文化) — Die Beziehung der Taiwanesen zum Reis vor dem Aufstieg des Chishangreis
+- [Taiwanische Esskultur](/de/food/taiwan-rice-cuisine-culture) — Die Beziehung der Taiwanesen zum Reis vor dem Aufstieg des Chishangreis
 - [Landwirtschaft und ländliche Erneuerung in Taiwan](/de/economy/taiwan-agriculture-and-rural-revitalization) — Das ländliche Management hinter dem Zertifizierungssystem
 - [Reiskugeln (Baozi)](/de/food/rice-ball) — Die früheste Form von Chishang Bento, die später zu einem Frühstück wurde
 

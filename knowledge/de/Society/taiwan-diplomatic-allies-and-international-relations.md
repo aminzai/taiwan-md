@@ -283,7 +283,7 @@ Sie ist der Abstand zwischen diesen Zahlen.
 
 **Weiterführende Lektüre**:
 
-- [Taiwanische Verteidigung und Militärmodernisierung](/society/台灣國防與軍事現代化) — Wenn nur 12 Staaten diplomatische Beziehungen haben, ist die militärische Selbstverteidigung eine weitere Säule, um „nicht Null“ zu bleiben
+- [Taiwanische Verteidigung und Militärmodernisierung](/de/society/taiwan-defense-modernization) — Wenn nur 12 Staaten diplomatische Beziehungen haben, ist die militärische Selbstverteidigung eine weitere Säule, um „nicht Null“ zu bleiben
 - [Taiwanstraße-Krise und Entwicklung der Beziehungen zwischen den beiden Seiten](/de/history/taiwan-strait-crises-and-cross-strait-relations) — Wie drei Krisen die diplomatische Isolation und Sicherheitsangst Taiwans geformt haben
 - [TSMC](/business/台積電) — Die materielle Grundlage des Silberschilds und seine strukturelle Fragilität
 - [Tsou Yung-tai](/de/people/cho-jung-tai) — Der Pfad der Taiwan-Zölle 32→20→15 % im Jahr 2026 + die Kabinettskoordination bei Lai Ching-te in Schweden

@@ -66,7 +66,7 @@ Wenn die taiwanesische 20:00 Uhr-Sendung international betrachtet wird, bildet i
 
 **Weiterführende Lektüre**:
 
-- [Golden Bell Awards](/culture/金鐘獎) — In den Zeiten von _Stars Know My Heart_ (星星知我心) und _Bao Qingtian_ (包青天) verließen die Gewinner des Theaterpreises nie TAI, CTS oder CTV.
+- [Golden Bell Awards](/de/culture/golden-bell-awards) — In den Zeiten von _Stars Know My Heart_ (星星知我心) und _Bao Qingtian_ (包青天) verließen die Gewinner des Theaterpreises nie TAI, CTS oder CTV.
 
 ## Quellenangaben
 

@@ -294,7 +294,7 @@ Dieser Artikel verwendet 4 Bilder, die alle in `public/article-images/art/` geca
 - [Ang Lee](/de/people/ang-lee): Von Taiwan zu Hollywood, zweimaliger Oscar für den besten Regisseur.
 - [Wei Te-sheng](/de/people/wei-te-sheng-taiwanese-epic-filmmaker): Derjenige, der mit fünf Sprachen „Sechzehnstraße“ drehte und den nationalen Film wiederbelebte.
 - [Das unsichtbare Land](/de/art/invisible-nation): Eine andere Sicht auf Taiwan in Ge Jeong-muns Dokumentarfilmen.
-- [Taiwanische Sensibilität: Müssen wir zuerst koreanische Likes haben, um unser altes Haus schön nennen zu dürfen?](/culture/台灣感性): Der Goldene Löwe von „Die tragische Stadt“ im Jahr 1989 und der lokale Kassenerfolg ereigneten sich im selben Jahr; internationale Anerkennung und lokales Echo sind nicht zwingend gegensätzlich.
+- [Taiwanische Sensibilität: Müssen wir zuerst koreanische Likes haben, um unser altes Haus schön nennen zu dürfen?](/de/culture/taiwanese-sensibility): Der Goldene Löwe von „Die tragische Stadt“ im Jahr 1989 und der lokale Kassenerfolg ereigneten sich im selben Jahr; internationale Anerkennung und lokales Echo sind nicht zwingend gegensätzlich.
 
 [^1]: [Filmdialogiker – Wikipedia](https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%BD%B1%E8%BE%AF%E5%A3%AB) — In Taiwan gab es 1930 etwa 60 Filmdialogiker, darunter 41 japanische und 19 taiwanesische, die eine Lizenz durch die Polizeibehörde des Präfekturamtes erwerben mussten.
 

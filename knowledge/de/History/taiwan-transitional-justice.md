@@ -178,11 +178,11 @@ Doch die Geschichte von [Zheng Nan-rong](/de/people/zheng-nanrong/) mahnt, dass 
 
 **Weiterführende Links**:
 
-- [Nationales Menschenrechtsmuseum](/history/國家人權博物館) — Das vom Staat errichtete Museum zur Gedenkung politischer Opfer, 2018 eröffnet, 2025 Budget zeitweise eingefroren
-- [Weißer Terror (台灣白色恐怖)](/history/台灣白色恐怖) — Der historische Kern, auf den die Aufhebungen zielen
-- [Kriegsrecht (戒嚴時期)](/history/戒嚴時期) — Der rechtliche Rahmen 1949–1987
+- [Nationales Menschenrechtsmuseum](/de/history/national-human-rights-museum) — Das vom Staat errichtete Museum zur Gedenkung politischer Opfer, 2018 eröffnet, 2025 Budget zeitweise eingefroren
+- [Weißer Terror (台灣白色恐怖)](/de/history/taiwan-white-terror) — Der historische Kern, auf den die Aufhebungen zielen
+- [Kriegsrecht (戒嚴時期)](/de/history/martial-law-era) — Der rechtliche Rahmen 1949–1987
 - [228-Vorfall](/de/history/228-incident) — Die Unterdrückung 1947 im Nachkriegs-Taiwan, eine weitere Linie der Transitional-Justice-Arbeit
-- [Einheitsrechnung: Jene Quittung von 1951, die alle Bürger zu Steuerfahndern machte](/economy/發票) — Der Designer der Einheitlichen Rechnung, Ren Xiang-qun, durchlief unter Ma Ying-jeou und Tsai Ing-wen zwei Regierungen und brauchte Jahre für seine Rehabilitierung – ein konkreter Fall der Transitional-Justice-Arbeit
+- [Einheitsrechnung: Jene Quittung von 1951, die alle Bürger zu Steuerfahndern machte](/de/economy/taiwan-uniform-invoice) — Der Designer der Einheitlichen Rechnung, Ren Xiang-qun, durchlief unter Ma Ying-jeou und Tsai Ing-wen zwei Regierungen und brauchte Jahre für seine Rehabilitierung – ein konkreter Fall der Transitional-Justice-Arbeit
 
 ## Quellen
 

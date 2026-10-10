@@ -302,7 +302,7 @@ Die Reise der zeitgenössischen indigenen Künstler Taiwans ist ein Prozess, in 
 ## Weiterführende Lektüre
 
 - [A-Mei](/de/people/a-mei/): Verfolgung ihrer musikalischen Laufbahn durch Popalben und Bühnenauftritte.
-- [Chen Jiannian](/people/陳建年/): Vertiefte Lektüre zu „Ocean“ und dem kreativen Hintergrund.
+- [Chen Jiannian](/de/people/chen-chien-nien/): Vertiefte Lektüre zu „Ocean“ und dem kreativen Hintergrund.
 
 ## Quellenverzeichnis
 

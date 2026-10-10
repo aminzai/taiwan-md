@@ -75,9 +75,9 @@ Als Zhang Decheng 1995 starb, hatte er mehr als siebenzig Jahre nach seinem erst
 
 **Weiterführende Literatur**
 
-- [Puppenspiel](/culture/布袋戲) – Ebenfalls unterzogen dem kaiserlichen Druck, dem Fernsehverbot und der kommerziellen Transformation, bilden diese beiden Traditionen die zwei Hauptstränge der taiwanesischen traditionellen Marionettenspiele.
-- [Taiwan Tempelfestspiele und Marschkultur](/culture/台灣廟會與陣頭文化) – Das Schattenspiel begann ursprünglich im Tempelplatz, und der Tempelplatz ist der gemeinsame Anfang aller traditionellen taiwanesischen Aufführungskünste.
-- [Hakka-Kultur und Sprache](/culture/客家文化與語言) – Eine andere Seite der südtaiwanischen Kultur, die Teil desselben kulturellen Ökosystems wie das minnanische Schattenspiel ist.
+- [Puppenspiel](/de/culture/taiwanese-glove-puppetry-budaixi) – Ebenfalls unterzogen dem kaiserlichen Druck, dem Fernsehverbot und der kommerziellen Transformation, bilden diese beiden Traditionen die zwei Hauptstränge der taiwanesischen traditionellen Marionettenspiele.
+- [Taiwan Tempelfestspiele und Marschkultur](/de/culture/taiwan-temple-festivals-and-performance-troupes) – Das Schattenspiel begann ursprünglich im Tempelplatz, und der Tempelplatz ist der gemeinsame Anfang aller traditionellen taiwanesischen Aufführungskünste.
+- [Hakka-Kultur und Sprache](/de/culture/hakka-culture-and-language) – Eine andere Seite der südtaiwanischen Kultur, die Teil desselben kulturellen Ökosystems wie das minnanische Schattenspiel ist.
 
 ## Quellenangaben
 

@@ -110,10 +110,10 @@ Er betreibt keine Fanseite und nutzt soziale Medien kaum.[^1] Für jemanden, der
 **Weiterführende Links**:
 
 - [Tai Tzu-ying](/de/people/tai-tzu-ying) – Taiwans zeitgenössische Badminton-Weltranglisten-Erste, teilt mit Chou Tien-chen denselben Entdeckertrainer als „Einserin“
-- [Lee Yang](/people/李洋) – Vom olympischen Badmingtongold zum ersten Sportminister Taiwans
+- [Lee Yang](/de/people/lee-yang-badminton) – Vom olympischen Badmingtongold zum ersten Sportminister Taiwans
 - [Kuo Hsing-chun](/de/people/kuo-hsing-chun-olympic-weightlifting-champion) – Ebenfalls durch Verletzungen und Adversität gehärtete taiwanische Athletin, olympisches Gold im Gewichtheben
 - [Jeremy Lin](/de/people/jeremy-lin) – Ein weiteres taiwanisches Gesicht, das mit unkonventionellem Werdegang das Bild asiatischer Athleten neu schrieb
-- [Chinesisch Taipeh](/society/中華台北) – Der Name „Chinese Taipei“, unter dem Chou Tien-chen antritt, und der dahinterliegende internationale politische Kontext
+- [Chinesisch Taipeh](/de/society/chinese-taipei) – Der Name „Chinese Taipei“, unter dem Chou Tien-chen antritt, und der dahinterliegende internationale politische Kontext
 
 ## Bildquellen
 
