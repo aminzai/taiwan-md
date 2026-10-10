@@ -23,9 +23,9 @@ _Sumber gambar: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TSMC
 
 Keajaiban ekonomi Taiwan bermula dari keadaan yang tampaknya tanpa harapan. Ketika pemerintahan Nasionalis berpindah ke Taiwan pada 1949 dengan membawa 1,2 juta personel militer dan warga sipil, pemerintahan tersebut juga menanggung kehancuran ekonomi akibat inflasi yang mencapai 3.400 kali lipat. Namun, justru kesadaran akan krisis inilah yang mendorong kebangkitan kembali ekonomi Taiwan.
 
-Reforma agraria menjadi langkah pertama. Tiga tahap reformasi—“pengurangan sewa menjadi 37,5%”, “penjualan tanah milik negara”, dan “tanah untuk penggarap”—tidak hanya membebaskan [produktivitas perdesaan](/economy/台灣農業與農村再生), tetapi juga menghimpun modal bagi industrialisasi berikutnya. Setelah para petani tidak lagi terbebani oleh sewa tanah, anak-anak mereka dapat meninggalkan lahan pertanian untuk bekerja di pabrik dan menjadi angkatan kerja pertama dalam industrialisasi Taiwan.
+Reforma agraria menjadi langkah pertama. Tiga tahap reformasi—“pengurangan sewa menjadi 37,5%”, “penjualan tanah milik negara”, dan “tanah untuk penggarap”—tidak hanya membebaskan [produktivitas perdesaan](/id/economy/taiwan-agriculture-and-rural-revitalization), tetapi juga menghimpun modal bagi industrialisasi berikutnya. Setelah para petani tidak lagi terbebani oleh sewa tanah, anak-anak mereka dapat meninggalkan lahan pertanian untuk bekerja di pabrik dan menjadi angkatan kerja pertama dalam industrialisasi Taiwan.
 
-📖 Bacaan lanjutan: [Pertanian Taiwan dan revitalisasi perdesaan](/economy/台灣農業與農村再生)
+📖 Bacaan lanjutan: [Pertanian Taiwan dan revitalisasi perdesaan](/id/economy/taiwan-agriculture-and-rural-revitalization)
 
 Strategi industrialisasi berorientasi ekspor yang dimulai pada 1960-an merupakan keputusan penting yang mendorong lepas landasnya [keajaiban ekonomi](/id/economy/economic-miracle) Taiwan. Pemerintah mendirikan kawasan pemrosesan ekspor, mendatangkan modal serta teknologi asing, dan memanfaatkan tenaga kerja yang melimpah dan murah untuk mengembangkan industri ringan. Dari tekstil dan plastik hingga perakitan elektronik, label “Made in Taiwan” mulai bermunculan di toko-toko di seluruh dunia. Pada 1970-an, Taiwan telah bertransformasi dari masyarakat agraris menjadi masyarakat industri. Rampungnya Sepuluh Proyek Pembangunan Besar semakin memperkokoh infrastruktur yang menopang perkembangan ekonomi.
 
@@ -35,9 +35,9 @@ Selama periode ini, pertumbuhan ekonomi Taiwan rata-rata mencapai 8,3%, sedangka
 
 Pada akhir 1980-an, ketika industri manufaktur tradisional menghadapi kenaikan biaya, Taiwan mengambil keputusan strategis yang menentukan nasib ekonominya: beralih ke industri teknologi tinggi. Pendirian Taman Sains Hsinchu (新竹科學園區) menandai transformasi gemilang Taiwan dari pulau manufaktur menjadi pulau inovasi.
 
-[Morris Chang](/people/張忠謀) mendirikan TSMC dan merintis model bisnis baru berupa manufaktur wafer semikonduktor murni. Keputusan ini bukan hanya mengubah TSMC, tetapi juga mendefinisikan ulang pembagian kerja dalam [industri semikonduktor](/id/technology/taiwan-semiconductor-industry) global. Saat itu, tidak ada yang menduga bahwa model produksi kontrak yang tampak sederhana ini akan memberi Taiwan kedudukan yang demikian penting dalam rantai pasok teknologi global. Kini, kapitalisasi pasar TSMC setara dengan 99% PDB Taiwan; pasang surut satu perusahaan saja dapat memengaruhi nasib ekonomi seluruh negara.
+[Morris Chang](/id/people/tsmc-morris-chang) mendirikan TSMC dan merintis model bisnis baru berupa manufaktur wafer semikonduktor murni. Keputusan ini bukan hanya mengubah TSMC, tetapi juga mendefinisikan ulang pembagian kerja dalam [industri semikonduktor](/id/technology/taiwan-semiconductor-industry) global. Saat itu, tidak ada yang menduga bahwa model produksi kontrak yang tampak sederhana ini akan memberi Taiwan kedudukan yang demikian penting dalam rantai pasok teknologi global. Kini, kapitalisasi pasar TSMC setara dengan 99% PDB Taiwan; pasang surut satu perusahaan saja dapat memengaruhi nasib ekonomi seluruh negara.
 
-📖 Bacaan lanjutan: [Morris Chang](/people/張忠謀) ｜ [Industri semikonduktor](/id/technology/taiwan-semiconductor-industry)
+📖 Bacaan lanjutan: [Morris Chang](/id/people/tsmc-morris-chang) ｜ [Industri semikonduktor](/id/technology/taiwan-semiconductor-industry)
 
 Keberhasilan industri semikonduktor (半導體產業) mendorong terbentuknya seluruh ekosistem teknologi. MediaTek (聯發科) bersaing ketat dengan Qualcomm dalam bidang cip ponsel; ASE Technology (日月光) mempertahankan posisi terdepan di pasar perakitan dan pengujian semikonduktor; sementara UMC (聯電) mengembangkan keunggulan tersendiri dalam proses manufaktur khusus. Dari desain IC dan manufaktur wafer hingga pengemasan serta pengujian, Taiwan telah membangun rantai industri semikonduktor terlengkap di dunia. Karena itu, sebutan “Pulau Silikon” bukanlah metafora romantis, melainkan kenyataan geopolitik yang serius.
 
@@ -61,7 +61,7 @@ Kebangkitan industri budaya dan kreatif (文化創意產業) menyuntikkan energi
 
 ## Vitalitas inovasi dalam ekosistem perusahaan rintisan
 
-Dalam beberapa tahun terakhir, Taiwan secara aktif membangun [ekosistem perusahaan rintisan](/id/economy/taiwan-startup-ecosystem-overview). Taiwan berupaya mengembangkan generasi baru perusahaan unikorn dengan bertumpu pada keunggulan manufaktur [usaha kecil dan menengah](/id/economy/taiwan-smes-and-hidden-champions) yang telah ada. “Program Inovasi Industri 5+2” yang didorong pemerintah menyasar tujuh bidang utama: Silicon Valley Asia, industri biomedis, [teknologi energi hijau](/economy/台灣能源轉型與綠能產業), mesin cerdas, industri pertahanan, pertanian baru, dan [ekonomi sirkular](/economy/台灣循環經濟與資源再利用).
+Dalam beberapa tahun terakhir, Taiwan secara aktif membangun [ekosistem perusahaan rintisan](/id/economy/taiwan-startup-ecosystem-overview). Taiwan berupaya mengembangkan generasi baru perusahaan unikorn dengan bertumpu pada keunggulan manufaktur [usaha kecil dan menengah](/id/economy/taiwan-smes-and-hidden-champions) yang telah ada. “Program Inovasi Industri 5+2” yang didorong pemerintah menyasar tujuh bidang utama: Silicon Valley Asia, industri biomedis, [teknologi energi hijau](/economy/台灣能源轉型與綠能產業), mesin cerdas, industri pertahanan, pertanian baru, dan [ekonomi sirkular](/id/economy/circular-economy-and-resource-recycling).
 
 📖 Bacaan lanjutan: [Ekosistem perusahaan rintisan](/id/economy/taiwan-startup-ecosystem-overview) ｜ [Usaha kecil dan menengah serta jawara tersembunyi Taiwan](/id/economy/taiwan-smes-and-hidden-champions)
 

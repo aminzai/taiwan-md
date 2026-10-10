@@ -145,9 +145,9 @@ Pada tahun 2026, kartu identitas digital Taiwan masih belum memiliki jadwal. Nam
 
 **Bacaan lanjutan:**
 
-- [Komunitas sumber terbuka dan g0v](/technology/開源社群與g0v) — Komunitas hacker warga di balik peta masker, dari "Pemerintaran Sementara" hingga vTaiwan
-- [Tim nasional masker](/economy/口罩國家隊) — Sisi lain dari krisis masker yang sama: mesin, tekstil, militer, dan pemerintah yang terhubung dalam satu rantai pasok
-- [Pengembangan industri keaman siber Taiwan](/technology/台灣資安產業發展) — Di luar kurangnya pemahaman teknologi oleh staf pemerintah dan kekurangan tenaga ahli keaman siber hingga 60%, bagaimana sektor industri menutup celah ini
+- [Komunitas sumber terbuka dan g0v](/id/technology/open-source-and-g0v) — Komunitas hacker warga di balik peta masker, dari "Pemerintaran Sementara" hingga vTaiwan
+- [Tim nasional masker](/id/economy/mask-national-team) — Sisi lain dari krisis masker yang sama: mesin, tekstil, militer, dan pemerintah yang terhubung dalam satu rantai pasok
+- [Pengembangan industri keaman siber Taiwan](/id/technology/taiwan-cybersecurity-industry-development) — Di luar kurangnya pemahaman teknologi oleh staf pemerintah dan kekurangan tenaga ahli keaman siber hingga 60%, bagaimana sektor industri menutup celah ini
 
 ## Referensi
 

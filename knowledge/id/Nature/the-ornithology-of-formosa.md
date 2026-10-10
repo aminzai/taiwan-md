@@ -166,7 +166,7 @@ Burung-burung ini hidup di Formosa ribuan tahun. 1863 adalah tahun pertama kali 
 - **→ [Perang Qing-Prancis](/zh-tw/history/清法戰爭)** — Sejarah lain pada masa yang sama tentang pertemuan Formosa dengan Barat, terpisah 22 tahun.
 - **→ [Charles Le Gendre](/zh-tw/people/李仙得)** — Tokoh Barat lain pada era yang sama yang mengubah narasi Formosa, menangani insiden Rover 1867.
 - **→ [Bangau Malam Berjambul Hitam](/zh-tw/nature/黑冠麻鷺)** — Spesimen Bangau Malam Berjambul Hitam yang dikumpulkan Swinhoe di Danshui 1865 adalah salah satu entri nama ini; burung yang dulu "langka", 160 tahun kemudian menjadi pemandangan sehari-hari di kampus dan taman Taipei, kelanjutan paling dramatis dari nama ini.
-- **→ [Beluk Ketupa](/nature/黃魚鴞)** — Salah satu spesies yang tidak tertulis Swinhoe di nama 1863; burung hantu terbesar Taiwan baru dicatat pertama kali oleh Nagamichi Kuroda 1916, adalah perwakilan burung tinggal yang "ditemukan" sejarah alam hanya di akhir masa kolonial Jepang.
+- **→ [Beluk Ketupa](/id/nature/tawny-fish-owl)** — Salah satu spesies yang tidak tertulis Swinhoe di nama 1863; burung hantu terbesar Taiwan baru dicatat pertama kali oleh Nagamichi Kuroda 1916, adalah perwakilan burung tinggal yang "ditemukan" sejarah alam hanya di akhir masa kolonial Jepang.
 
 ---
 

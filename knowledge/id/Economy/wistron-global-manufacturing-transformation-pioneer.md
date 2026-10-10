@@ -243,8 +243,8 @@ Di era baru restrukturisasi rantai pasokan dan pemulihan manufaktur, pengalaman 
 
 **Bacaan Lanjutan**:
 
-- [Perusahaan Taiwan: Acer](/economy/台灣企業：宏碁) — Perusahaan induk Wistron. Adik manufaktur yang paling tidak diharapkan saat pemisahan, nilainya melampaui tubuh Acer asli yang berfokus pada merek di era server AI.
-- [Stan Shih](/people/施振榮) — Pendiri Acer yang memutuskan untuk memisahkan merek dan manufaktur menjadi dua perusahaan, satu kalimat "Ternyata Anda juga berpikiran demikian" membuat Wistron menjadi independen.
+- [Perusahaan Taiwan: Acer](/id/economy/acer-pc-industry-pioneer) — Perusahaan induk Wistron. Adik manufaktur yang paling tidak diharapkan saat pemisahan, nilainya melampaui tubuh Acer asli yang berfokus pada merek di era server AI.
+- [Stan Shih](/id/people/stan-shih) — Pendiri Acer yang memutuskan untuk memisahkan merek dan manufaktur menjadi dua perusahaan, satu kalimat "Ternyata Anda juga berpikiran demikian" membuat Wistron menjadi independen.
 
 ## Referensi
 

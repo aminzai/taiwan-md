@@ -179,5 +179,5 @@ Itulah arti demokratisasi. Bukan kisah inspirasional yang mulus, melainkan ekspe
 - [Masa Darurat](/id/history/martial-law-era): 38 tahun pemerintahan otoriter sebelum demokratisasi
 - Teror Putih Taiwan: Sejarah 140.000 orang yang mengalami penganiayaan politik
 - Peristiwa 28 Februari: Titik awal trauma politik Taiwan pasca-perang
-- [Demokratisasi dan Politik Partai Taiwan](/history/台灣選舉與政黨政治): Evolusi sistem pemilihan pasca-demokratisasi
+- [Demokratisasi dan Politik Partai Taiwan](/id/history/taiwan-elections-and-party-politics): Evolusi sistem pemilihan pasca-demokratisasi
 - [Gelombang Pencabulan Besar](/id/society/social-movements-and-civic-participation): Gelombang pencabulan terbesar dalam sejarah 2025, uji tekanan hak langsung empat puluh tahun setelah demokratisasi

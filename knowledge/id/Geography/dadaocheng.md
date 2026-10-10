@@ -211,16 +211,16 @@ Lain kali Anda berjalan di Dihua Street, lihat ukiran burung dan bunga bergaya B
 
 **Bacaan Lanjutan**:
 
-- [Taipei City: Tiga Waktu dalam Satu Kota, Longshan Temple Tahun 1738 Melihat 101 pada Tahun 2004](/geography/台北市) — Panorama 12 distrik Taipei, posisi Dadaocheng di antara tiga kota
-- [Budaya Jalan Tua Taiwan dan Kawasan Komersial](/culture/台灣老街文化與商業街區) — Katalog toko utama jalan tua, perbandingan Dihua Street dengan Lukang, Mengjia, Sanxia
-- [Budaya Teh Taiwan](/culture/台灣茶文化) — Konteks lengkap Formosa Tea dan industri teh di Taiwan Utara
-- [Peristiwa Haijian (228)](/history/二二八事件) — Peristiwa yang dipicu oleh sebunggul rokok pada tahun 1947, penindasan selanjutnya, dan keadilan transisi
-- [Gerakan Sosial Taiwan pada Masa Pemerintahan Jepang](/history/日治時期臺灣社會運動) — Asosiasi Budaya Taiping Town No. 199 dan Jiang Weisui
-- [Lagu Rakyat dan Nyanyian Taiwan](/music/台灣民謠與歌謠) — Wangchunfeng tahun 1932 dan rekaman Columbia di Taiping Town
-- [Mengjia](/geography/艋舺) — Orang Tong'an yang kalah dalam perkelahian Top-Down Suburb pada tahun 1853 melarikan diri dari Mengjia Bajia Zhuang ke Dadaocheng, kedua jalan adalah hasil dari satu perkelahian yang terbagi
-- [Ximen Town](/geography/西門町) — Saudara kawasan bersejarah dari batch yang sama, area hiburan masa pemerintahan Jepang tahun 1896 vs. jalan komersial Qing di Dadaocheng, perbandingan "momen pembentukan jalan"
-- [Dalongdong](/geography/大龍峒) — Orang Tong'an yang kalah dalam perkelahian Top-Down Suburb pada tahun 1853 pertama kali mundur ke Dalongdong dengan Kuil Bao'an sebagai pusat pertahanan, lalu pindah ke Dadaocheng—stasiun transit yang terlewatkan dalam narasi umum Dadaocheng
-- [Shilin](/geography/士林) — Perkelahian Zhangzhou dan Quanzhou pada tahun 1859 dan perkelahian Top-Down Suburb Mengjia pada tahun 1853 adalah dua perkelahian yang berbeda, Shilin adalah hasil pemindahan lain setelah orang Zhangzhou membakar jalan oleh orang Quanzhou
+- [Taipei City: Tiga Waktu dalam Satu Kota, Longshan Temple Tahun 1738 Melihat 101 pada Tahun 2004](/id/geography/taipei-city) — Panorama 12 distrik Taipei, posisi Dadaocheng di antara tiga kota
+- [Budaya Jalan Tua Taiwan dan Kawasan Komersial](/id/culture/taiwan-historic-streets-and-commercial-districts) — Katalog toko utama jalan tua, perbandingan Dihua Street dengan Lukang, Mengjia, Sanxia
+- [Budaya Teh Taiwan](/id/culture/taiwanese-tea-culture-and-living-aesthetics) — Konteks lengkap Formosa Tea dan industri teh di Taiwan Utara
+- [Peristiwa Haijian (228)](/id/history/228-incident) — Peristiwa yang dipicu oleh sebunggul rokok pada tahun 1947, penindasan selanjutnya, dan keadilan transisi
+- [Gerakan Sosial Taiwan pada Masa Pemerintahan Jepang](/id/history/social-movements-during-japanese-rule) — Asosiasi Budaya Taiping Town No. 199 dan Jiang Weisui
+- [Lagu Rakyat dan Nyanyian Taiwan](/id/music/taiwan-folk-music-and-songs) — Wangchunfeng tahun 1932 dan rekaman Columbia di Taiping Town
+- [Mengjia](/id/geography/bangka) — Orang Tong'an yang kalah dalam perkelahian Top-Down Suburb pada tahun 1853 melarikan diri dari Mengjia Bajia Zhuang ke Dadaocheng, kedua jalan adalah hasil dari satu perkelahian yang terbagi
+- [Ximen Town](/id/geography/ximending) — Saudara kawasan bersejarah dari batch yang sama, area hiburan masa pemerintahan Jepang tahun 1896 vs. jalan komersial Qing di Dadaocheng, perbandingan "momen pembentukan jalan"
+- [Dalongdong](/id/geography/dalongdong) — Orang Tong'an yang kalah dalam perkelahian Top-Down Suburb pada tahun 1853 pertama kali mundur ke Dalongdong dengan Kuil Bao'an sebagai pusat pertahanan, lalu pindah ke Dadaocheng—stasiun transit yang terlewatkan dalam narasi umum Dadaocheng
+- [Shilin](/id/geography/shilin) — Perkelahian Zhangzhou dan Quanzhou pada tahun 1859 dan perkelahian Top-Down Suburb Mengjia pada tahun 1853 adalah dua perkelahian yang berbeda, Shilin adalah hasil pemindahan lain setelah orang Zhangzhou membakar jalan oleh orang Quanzhou
 
 ## Sumber Gambar
 

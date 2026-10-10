@@ -143,10 +143,10 @@ Mobil itu sudah lama pergi. Tapi yang pernah mengejar, ingat arah anginnya.
 
 ## Bacaan Lanjutan
 
-- [Industri Game Taiwan & Hiburan Digital](/technology/台灣遊戲產業與數位娛樂) — Panorama game Taiwan dari agen ke original
+- [Industri Game Taiwan & Hiburan Digital](/id/technology/taiwan-gaming-industry) — Panorama game Taiwan dari agen ke original
 - [Budaya Minimarket Taiwan](/id/lifestyle/convenience-store-culture) — Prasyarat mengejar mobil logistik: distribusi minimarket nomor dua paling padat dunia
-- [Sejarah Migrasi Komunitas Internet Taiwan](/technology/台灣網路社群遷徙史) — Infrastruktur penyebaran informasi momen kegilaan ini
-- [Pedang Ganda Softstar](/technology/大宇雙劍) — Pemantik emosi pemain Taiwan satu generasi sebelumnya
+- [Sejarah Migrasi Komunitas Internet Taiwan](/id/technology/taiwan-online-community-migration) — Infrastruktur penyebaran informasi momen kegilaan ini
+- [Pedang Ganda Softstar](/id/technology/softstar-twin-classics) — Pemantik emosi pemain Taiwan satu generasi sebelumnya
 - [Tak Masuk Gua Tak Bisa Tidur](/id/technology/into-the-cellar-taiwan-game-podcast) — Panggung platform komunitas momen kegilaan ini
 
 ---

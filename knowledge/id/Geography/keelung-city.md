@@ -193,15 +193,15 @@ Kali berikut ke Keelung, jangan cuma jalan-jalan Miaokou. Coba pukul 03.30 kelua
 - [Pembangunan Perkotaan Taiwan dan Kesenjangan Perkotaan-Pedesaan](/id/geography/taiwan-urban-development-and-rural-urban-divide) — dari skala lebih besar lihat posisi Keelung sebagai "kota pelabuhan mundur" dalam struktur perkotaan seluruh Taiwan
 - [Pembagian Administratif Taiwan](/id/geography/administrative-divisions-of-taiwan) — 1875 Shen Baozhen ganti nama, 1924 naik jadi kota, 1945 jadi kota provinsi evolusi administratif
 - [Ciri Kota dan Budaya Wilayah](/id/geography/urban-character-and-regional-culture) — konteks perbandingan Keelung dengan kabupaten/kota lain
-- [Jinguashi](/geography/金瓜石) — industri腹地 terbesar Pelabuhan Keelung: 1932 kabel gantung Shuinandong angkut emas ke Pelabuhan Nelayan Zhengbin muat kapal ke Jepang
+- [Jinguashi](/id/geography/jinguashi) — industri腹地 terbesar Pelabuhan Keelung: 1932 kabel gantung Shuinandong angkut emas ke Pelabuhan Nelayan Zhengbin muat kapal ke Jepang
 - [Yehliu](/id/geography/yehliu-geopark) — sama-sama rangkaian lanskap geologi Pantai Utara
-- [Bentuk Pantai dan Lanskap Laut Taiwan](/geography/台灣海岸地形與海洋地景) — pembentukan Pulau Keelung dan Gunung Api Keelung
-- [Kota Chiayi](/geography/嘉義市) — Seri 22 Kabupaten/Kota kota provinsi menengah lain, sama Keelung ditekan kerangka ibukota, banding dua fault line berbeda
-- [Kabupaten Lienchiang](/geography/連江縣) — Seri 22 Kabupaten/Kota: roda Taipei-Matsu dari Pelabuhan Keelung goyang ke Nangan butuh 8 sampai 10 jam, Keelung titik fisik Matsu dan pulau utama Taiwan
-- [Kabupaten Miaoli](/geography/苗栗縣) — Seri 22 Kabupaten/Kota: paradox kaku Hakka vs bupati bintang lima, berdampingan dengan Keelung "dilihat tidak oleh ibukota" dua wajah politik daerah
-- [Kabupaten Penghu](/geography/澎湖縣) — Seri 22 Kabupaten/Kota: dua kali tolak judi pilihan kedaulatan pulau terpencil, sama Keelung titik awal pelabuhan terlupakan
+- [Bentuk Pantai dan Lanskap Laut Taiwan](/id/geography/taiwan-coastal-landforms-and-seascapes) — pembentukan Pulau Keelung dan Gunung Api Keelung
+- [Kota Chiayi](/id/geography/chiayi-city) — Seri 22 Kabupaten/Kota kota provinsi menengah lain, sama Keelung ditekan kerangka ibukota, banding dua fault line berbeda
+- [Kabupaten Lienchiang](/id/geography/lienchiang-county) — Seri 22 Kabupaten/Kota: roda Taipei-Matsu dari Pelabuhan Keelung goyang ke Nangan butuh 8 sampai 10 jam, Keelung titik fisik Matsu dan pulau utama Taiwan
+- [Kabupaten Miaoli](/id/geography/miaoli-county) — Seri 22 Kabupaten/Kota: paradox kaku Hakka vs bupati bintang lima, berdampingan dengan Keelung "dilihat tidak oleh ibukota" dua wajah politik daerah
+- [Kabupaten Penghu](/id/geography/penghu-county) — Seri 22 Kabupaten/Kota: dua kali tolak judi pilihan kedaulatan pulau terpencil, sama Keelung titik awal pelabuhan terlupakan
 - [Kabupaten Yilan](/id/geography/yilan-county) — Seri 22 Kabupaten/Kota: Yilan sebelum dan sesudah Terowongan Xueshan, sama Keelung menghadapi nasib "terlalu dekat ibukota"
-- [Kabupaten Pingtung](/geography/屏東縣) — Seri 22 Kabupaten/Kota: 1874 Peristiwa Mudan ubah nasib Taiwan titik awal / 2009 Typhoon Morakot Linbian tenggelam 1 bulan zona bencana, sama Keelung "node kunci narasi pusat tertinggal"
+- [Kabupaten Pingtung](/id/geography/pingtung-county) — Seri 22 Kabupaten/Kota: 1874 Peristiwa Mudan ubah nasib Taiwan titik awal / 2009 Typhoon Morakot Linbian tenggelam 1 bulan zona bencana, sama Keelung "node kunci narasi pusat tertinggal"
 - [Kabupaten Kinmen](/id/geography/kinmen-county) — Seri 22 Kabupaten/Kota: 1949 Guningtou 56 jam tentukan nasib Kinmen 75 tahun juga tentukan Taiwan / 1958 823 44 hari 474.910 granat, sama Keelung "garis depan perang dingin perang panas" dua versi
 
 ## Sumber Gambar

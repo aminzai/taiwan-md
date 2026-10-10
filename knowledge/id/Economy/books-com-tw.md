@@ -104,7 +104,7 @@ Sejarah Books.com.tw, hampir merupakan sekilas perkembangan internet dan ritail 
 
 ## Bacaan Lanjutan
 
-- **[Perusahaan Taiwan: Uni-President Enterprises](/economy/台灣企業：統一企業)** — Tata letak strategis Grup Uni-President mengonsolidasikan peta ritail seluruh Taiwan
+- **[Perusahaan Taiwan: Uni-President Enterprises](/id/economy/taiwan-enterprise-uni-president)** — Tata letak strategis Grup Uni-President mengonsolidasikan peta ritail seluruh Taiwan
 - **[PX Mart](/id/economy/pxmart-supermarket)** — Pertarungan saluran dari koperasi kesejahteraan ke raja ritail
 - **[Shopping Design](/culture/Shopping Design)** — Mengubah desain jadi konsumsi sehari-hari dan praktik media gaya hidup
 

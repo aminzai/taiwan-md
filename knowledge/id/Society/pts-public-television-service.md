@@ -176,13 +176,13 @@ Mungkin 28 tahun depan akan memberikan jawaban. Mungkin tidak. Tapi satu hal yan
 **Bacaan Lanjutan**:
 
 - [Media dan Kebebasan Pers Taiwan](/id/society/media-and-press-freedom-in-taiwan) — PTS sebagai bagian ekosistem media, interaksinya dengan lingkungan kebebasan pers secara keseluruhan
-- [Majalah Tianxia](/society/天下雜誌) — Media bisnis keuangan bagaimana menangani sulitnya "media bertanggung jawab kepada siapa", bertahan berkat pelanggan berbayar dan ekosistem perusahaan, membentuk kontras dengan jalur anggaran publik PTS
+- [Majalah Tianxia](/id/society/commonwealth-magazine) — Media bisnis keuangan bagaimana menangani sulitnya "media bertanggung jawab kepada siapa", bertahan berkat pelanggan berbayar dan ekosistem perusahaan, membentuk kontras dengan jalur anggaran publik PTS
 - [Hiburan Variety Taiwan](/id/culture/taiwan-variety-shows) — Kontras dengan acara variety stasiun TV komersial, memahami mengapa PTS memilih berfokus pada drama dan dokumenter
 - [Scoring Layar Taiwan: dari Bioskop ke Game](/id/music/taiwan-screen-scoring-from-cinema-to-games) — Posisi musik pendamping drama unggulan PTS di industri musik Taiwan
 - [Jasa Animasi Taiwan](/id/economy/taiwan-creator-economy) — Kontras dengan industri IP komersial, logika berbeda PTS dalam pemilihan tema animasi
 - [Festival dan Perayaan Tradisional](/id/culture/traditional-festivals-and-celebrations) — Kontribusi jangka panjang dokumenter PTS "Perspektif Rekaman" dalam pelestarian memori budaya Taiwan
 - [Institut Penelitian Desain Taiwan](/id/society/taiwan-design-research-institute) — Badan yayasan publik lain yang berjalan di atas tali antara "terlihat" dan kepublikan, mengubah desain menjadi metode pemerintah melayani rakyat
-- [Penghargaan Golden Bell](/culture/金鐘獎) — Dari 2000 "Dahulu" hingga ke-61 nominasi 60 kategori, bagaimana kolom unit pemenang kategori drama mencatat PTS, sekaligus mencatat identitas tiga gawainya: penyiar, penyelenggara, dan unit pendaftar
+- [Penghargaan Golden Bell](/id/culture/golden-bell-awards) — Dari 2000 "Dahulu" hingga ke-61 nominasi 60 kategori, bagaimana kolom unit pemenang kategori drama mencatat PTS, sekaligus mencatat identitas tiga gawainya: penyiar, penyelenggara, dan unit pendaftar
 
 ## Sumber Gambar
 

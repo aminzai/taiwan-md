@@ -110,10 +110,10 @@ Dia tidak mengoperasikan halaman penggemar, juga tidak banyak menggunakan media 
 **Bacaan Lanjutan:**
 
 - [Tai Tzu-ying](/id/people/tai-tzu-ying) — Juara badminton putra Taiwan generasi sejaman, dengan Chou Tien-chen berbagi pelatih pembimbing „satu raja satu permaisuri"
-- [Lee Yang](/people/李洋) — Dari medali emas Olimpiade badminton berubah menjadi menteri olahraga pertama—karir atlet Taiwan yang berubah
+- [Lee Yang](/id/people/lee-yang-badminton) — Dari medali emas Olimpiade badminton berubah menjadi menteri olahraga pertama—karir atlet Taiwan yang berubah
 - [Kuo Hsiao-chun](/id/people/kuo-hsing-chun-olympic-weightlifting-champion) — Atlet Taiwan yang sama disempurnakan oleh cedera dan kesulitan, Olimpiade angkat besi medali emas
 - [Jeremy Lin](/id/people/jeremy-lin) — Sosok Taiwan lain yang mengubah imajinasi atlet Asia dengan lintasan yang tidak masuk akal
-- [Chinese Taipei](/society/中華台北) — Nama „Chinese Taipei" yang Chou Tien-chen wakili di pertandingan, latar belakang politik internasional di belakangnya
+- [Chinese Taipei](/id/society/chinese-taipei) — Nama „Chinese Taipei" yang Chou Tien-chen wakili di pertandingan, latar belakang politik internasional di belakangnya
 
 ## Sumber Gambar
 

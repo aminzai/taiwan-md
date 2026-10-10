@@ -164,10 +164,10 @@ Di antara jalur produksi Thunder Tiger di Taichung yang dimulai dari pesawat mai
 
 **Bacaan Lanjutan**
 
-- [Modernisasi Pertahanan dan Militer Taiwan](/society/台灣國防與軍事現代化) — Peta lengkap strategi hedgehog di balik 200.000 drone
+- [Modernisasi Pertahanan dan Militer Taiwan](/id/society/taiwan-defense-modernization) — Peta lengkap strategi hedgehog di balik 200.000 drone
 - [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Industri strategis Taiwan berikutnya yang bangkit karena geopolitik
-- [Pembangunan Industri Luar Angkasa Taiwan](/technology/台灣太空產業發展) — Dari drone ke satelit, ambisi langit Taiwan
-- [Industri Robot Taiwan](/technology/台灣機器人產業) — Kasus lain "kuat dalam komponen, lemah dalam drone utuh", memiliki masalah struktural yang sama dengan drone
+- [Pembangunan Industri Luar Angkasa Taiwan](/id/technology/taiwan-space-industry-development) — Dari drone ke satelit, ambisi langit Taiwan
+- [Industri Robot Taiwan](/id/technology/taiwan-robotics-industry) — Kasus lain "kuat dalam komponen, lemah dalam drone utuh", memiliki masalah struktural yang sama dengan drone
 
 ## Sumber Gambar
 

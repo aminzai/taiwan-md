@@ -285,10 +285,10 @@ Orang-orang yang menekan tombol voting saat bacaan ketiga DPRD Taoyuan 그날 mu
 
 **Baca Lebih Lanjut**:
 
-- [Perumahan Sosial dan Keadilan Tempat Tinggal](/society/社會住宅與居住正義) — Rute "hanya sewa tidak jual" pasca-2016: 200.000 unit dalam delapan tahun, pembangunan langsung dan pengelolaan sewa dua jalur, desain campuran bagaimana menghindari stigma perumahan sosial (artikel saudara lanjutan cerita pasca谢幕 Rumah Negara 2015)
+- [Perumahan Sosial dan Keadilan Tempat Tinggal](/id/society/social-housing-and-housing-justice) — Rute "hanya sewa tidak jual" pasca-2016: 200.000 unit dalam delapan tahun, pembangunan langsung dan pengelolaan sewa dua jalur, desain campuran bagaimana menghindari stigma perumahan sosial (artikel saudara lanjutan cerita pasca谢幕 Rumah Negara 2015)
 - [Krisis Kelahiran Rendah Taiwan](/id/society/taiwan-low-birth-rate-crisis) — Tidak bisa beli rumah dan tidak bisa melahirkan adalah dua ujung retakan struktural yang sama, sudut pandang lain keadilan generasi
 - [Rumah Seng](/id/society/taiwan-tin-shed-houses) — Saat tidak bisa beli juga tidak bisa sewa aman, bagaimana orang Taiwan membangun tempat berlindung dengan cara paling sulit
-- [Keadilan Lingkungan dan Konflik NIMBY Taiwan](/society/台灣環境正義與鄰避爭議) — Perumahan sosial, fasilitas tidak diinginkan mau dibangun di sisi siapa, batas keadilan tempat tinggal dan keadilan ruang
+- [Keadilan Lingkungan dan Konflik NIMBY Taiwan](/id/society/taiwan-environmental-justice-nimby-conflicts) — Perumahan sosial, fasilitas tidak diinginkan mau dibangun di sisi siapa, batas keadilan tempat tinggal dan keadilan ruang
 
 ## Data Terbuka
 

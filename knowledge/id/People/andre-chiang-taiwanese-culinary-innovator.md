@@ -185,7 +185,7 @@ Di Singapura ada restoran baru yang melintasi seratus tiga puluh sembilan tahun,
 
 **Bacaan Lanjutan**:
 
-- [Nie Yongzhen](/people/聶永真) — Nama lain yang membawa Taiwan ke panggung internasional, membuat dunia melihat visibilitas Taiwan melalui desain grafis bukan kuliner
+- [Nie Yongzhen](/id/people/nieh-yung-jen) — Nama lain yang membawa Taiwan ke panggung internasional, membuat dunia melihat visibilitas Taiwan melalui desain grafis bukan kuliner
 - [Ang Lee](/id/people/ang-lee) — Sama-sama bercerita Timur dalam sistem Barat, mencari "Siapa saya" dan "Dari mana saya berasal"
 - [Jensen Huang](/id/people/jensen-huang) — Sama-sama latar belakang Taiwan, mencapai puncak industri internasional, jalurnya berbeda: tetap di inti sistem, menjadikan dirinya tak tergantikan
 - [Wu Bao-chun](/id/people/wu-bao-chun) — Pengrajin yang sama-sama menaklukkan juri Prancis dengan bahan Taiwan, dua jalan roti dan fine dining

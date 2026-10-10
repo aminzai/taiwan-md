@@ -104,9 +104,9 @@ Enam puluh sembilan tahun hubungan diplomatik, tidak ada di ucapan-ucapan: ia ad
 **Bacaan Lanjutan**:
 
 - [Sahabat Diplomatik Taiwan dan Diplomasi Internasional](/id/society/taiwan-diplomatic-allies-and-international-relations) — Panorama 12 sahabat diplomatik, titik kehadiran luar negeri, dan jaringan bebas visa
-- [Taiwan dan Eswatini](/society/台灣與史瓦帝尼) — Satu-satunya sahabat diplomatik di Afrika, kasus lain "kerja sama jangka panjang dengan politik rapuh"
-- [Perang Kognitif](/society/認知作戰) — Kerangka operasi informasi, bahasa, dan tekanan perang diplomasi Tiongkok terhadap Taiwan
-- [Pertemuan Zheng-Xi 2026 dan Kembalinya Hubungan KMT-KPC Sepuluh Tahun](/society/2026鄭習會與國共十年再會) — Dinamika politik lintas selat serentak, memahami latar belakang lebih besar tekanan Tiongkok ke Taiwan
+- [Taiwan dan Eswatini](/id/society/taiwan-eswatini-relations) — Satu-satunya sahabat diplomatik di Afrika, kasus lain "kerja sama jangka panjang dengan politik rapuh"
+- [Perang Kognitif](/id/society/cognitive-warfare-against-taiwan) — Kerangka operasi informasi, bahasa, dan tekanan perang diplomasi Tiongkok terhadap Taiwan
+- [Pertemuan Zheng-Xi 2026 dan Kembalinya Hubungan KMT-KPC Sepuluh Tahun](/id/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Dinamika politik lintas selat serentak, memahami latar belakang lebih besar tekanan Tiongkok ke Taiwan
 
 ## Sumber Gambar
 

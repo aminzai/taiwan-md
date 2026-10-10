@@ -149,7 +149,7 @@ Halaman selanjutnya budaya cetak huruf hidup Taiwan, mungkin bukan pabrik lebih 
 
 - [Warta Gereja Taiwan](/id/culture/taiwan-church-news): Mulai dari Pe̍h-ōe-jī dan penerbitan gereja, memahami bagaimana cetak huruf hidup bertemu dengan bahasa Taiwan, organisasi agama, dan majalah berkala.
 - [Sejarah Sastra Taiwan](/id/art/history-of-taiwanese-literature): Menempatkan teknologi cetak kembali ke konteks jangka panjang penulis, penerbitan, dan kepublikan sastra.
-- [Sejarah Iklan Taiwan](/culture/台灣廣告史): Mengamati bagaimana huruf timah masuk ke selebaran komersial, tiket, papan tanda, dan info konsumsi kota.
+- [Sejarah Iklan Taiwan](/id/culture/taiwan-advertising-history): Mengamati bagaimana huruf timah masuk ke selebaran komersial, tiket, papan tanda, dan info konsumsi kota.
 - [Terraor Putih Taiwan](/id/history/taiwan-white-terror): Memahami hubungan tidak nyaman tapi tak bisa diabaikan antara pencetakan, penerbitan, dan sensor politik.
 
 ## Referensi

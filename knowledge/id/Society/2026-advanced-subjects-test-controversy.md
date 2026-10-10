@@ -79,7 +79,7 @@ Saat ini, prosedur tinjauan ulang Pusat Ujian Masuk Perguruan Tinggi akan berakh
 ## Bacaan Lanjutan
 
 - [Sistem Pendidikan dan Budaya Seleksi Masuk](/id/society/education-system-and-admissions-culture) — Posisi Ujian Bidang Studi dalam seluruh sistem seleksi masuk
-- [Ekspansi dan Mundur Pendidikan Tinggi Taiwan](/society/台灣高等教育擴張與退場) — Perubahan pasokan di sisi universitas menentukan tekanan di sisi ujian
+- [Ekspansi dan Mundur Pendidikan Tinggi Taiwan](/id/society/taiwan-higher-education-expansion-and-decline) — Perubahan pasokan di sisi universitas menentukan tekanan di sisi ujian
 - [Krisis Kelahiran Rendah Taiwan](/id/society/taiwan-low-birth-rate-crisis) — Dari mana kurva jangka panjang jumlah peserta ujian berasal
 
 ## Referensi

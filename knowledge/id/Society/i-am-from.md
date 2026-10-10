@@ -176,8 +176,8 @@ Instruksi yang lupa dihapus kali ini berhasil ditangkap. Lain kali, mereka tidak
 
 ## Bacaan Lanjutan
 
-- [Operasi Kognitif](/society/認知作戰) — Kerangka dan batas operasi kognitif, serta prinsip interpretasi "kompleksitas lebih penting daripada kebenaran"
-- [Operasi Kognitif Kentang Beracun](/society/毒馬鈴薯認知作戰) — Bagaimana sebuah narasi perang "menyentuh dasar kebenaran", dan template penolakan terhadap dualisme yang sama dengan artikel ini
+- [Operasi Kognitif](/id/society/cognitive-warfare-against-taiwan) — Kerangka dan batas operasi kognitif, serta prinsip interpretasi "kompleksitas lebih penting daripada kebenaran"
+- [Operasi Kognitif Kentang Beracun](/id/society/poisoned-potato-cognitive-warfare-taiwan) — Bagaimana sebuah narasi perang "menyentuh dasar kebenaran", dan template penolakan terhadap dualisme yang sama dengan artikel ini
 - [Laboratorium Kecerdasan Taiwan](/id/technology/taiwan-ai-labs) — Teknologi lokal yang menggunakan AI untuk mendeteksi operasi kognitif kooperatif secara terbalik
 - [Media dan Kebebasan Berita Taiwan](/id/society/media-and-press-freedom-in-taiwan) — Kontroversi grup Wantian dan struktur media yang lebih luas
 

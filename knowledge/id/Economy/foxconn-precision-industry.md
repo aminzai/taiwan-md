@@ -35,7 +35,7 @@ translatedAt: '2026-07-26T21:33:21+08:00'
 
 iPhone di tanganmu, PlayStation di ruang tamu, rak server AI NVIDIA GB200 untuk melatih GPT di cloud——perakitan akhir barang-barang ini kemungkinan besar semua keluar dari pabrik Hon Hai[^10][^14].
 
-Dari "Hon Hai Plastik" yang didirikan [Kuo Tai-ming](/people/郭台銘) pada 1974 dengan 100 ribu dolar Taiwan baru dari arisan ibu Chu Yung-chen[^13], hingga 2025 menjadi perusahaan publik Taiwan pertama dalam sejarah yang memecah rekor pendapatan tahunan 8 triliun[^9], kisah Hon Hai sudah ditulis ratusan kali. Artikel ini tidak mengulang narasi itu.
+Dari "Hon Hai Plastik" yang didirikan [Kuo Tai-ming](/id/people/terry-gou) pada 1974 dengan 100 ribu dolar Taiwan baru dari arisan ibu Chu Yung-chen[^13], hingga 2025 menjadi perusahaan publik Taiwan pertama dalam sejarah yang memecah rekor pendapatan tahunan 8 triliun[^9], kisah Hon Hai sudah ditulis ratusan kali. Artikel ini tidak mengulang narasi itu.
 
 30 April 2026 adalah hari paling kontradiktif Hon Hai belakangan ini: pagi ia adalah raja OEM AI global yang dikagumi majalah _Time_, sore ia adalah objek geledahan Kejaksaan Negeri New Taipei[^1][^10]. Neraca yang sama, dua arah sekaligus mencatat buku. Inilah inti penulisan ulang kali ini.
 
@@ -87,7 +87,7 @@ Kasus Liao Wan-cheng di yudikatif adalah cerita panjang, tapi bagi internal Hon 
 
 ## Keputusan Tahun 2015
 
-Pertengahan 2015, [Kuo Tai-ming](/people/郭台銘) di luar Divisi Hukum dan Divisi Audit, baru mendirikan unit independen: **Unit Pencegahan Kecurangan**[^6].
+Pertengahan 2015, [Kuo Tai-ming](/id/people/terry-gou) di luar Divisi Hukum dan Divisi Audit, baru mendirikan unit independen: **Unit Pencegahan Kecurangan**[^6].
 
 Majalah _Global Views Monthly_ menyebutnya "Kejaksaan Hon Hai"[^6]. Kuo Tai-ming bersamaan menetapkan hadiah "menangkap hantu" hingga 50 juta dolar Taiwan baru per kasus, mendorong karyawan melapor kecurangan internal[^6].
 
@@ -123,7 +123,7 @@ Dua Hon Hai, satu di cover _Time_, satu di pengungkapan informasi material. Yang
 
 ## Jarak dari 100 Ribu ke 8 Triliun
 
-1974, 30 tahun [Kuo Tai-ming](/people/郭台銘) bawa arisan ibu Chu Yung-chen 100 ribu (total 200 ribu setengah, setengah lagi untuk Kuo Tai-ming sendiri menikah), sama teman modal 300 ribu, di Tucheng Taipei mendirikan "Hon Hai Plastik Enterprise Ltd", 10 karyawan, utama produksi tombol TV hitam putih[^13].
+1974, 30 tahun [Kuo Tai-ming](/id/people/terry-gou) bawa arisan ibu Chu Yung-chen 100 ribu (total 200 ribu setengah, setengah lagi untuk Kuo Tai-ming sendiri menikah), sama teman modal 300 ribu, di Tucheng Taipei mendirikan "Hon Hai Plastik Enterprise Ltd", 10 karyawan, utama produksi tombol TV hitam putih[^13].
 
 Tahun berikutnya konjungtur suram, modal 300 ribu habis, mitra asal keluar. Kuo Tai-ming pinjam mertua 700 ribu beli seluruh perusahaan, ganti nama "Hon Hai Industry"[^13].
 
@@ -156,11 +156,11 @@ Daftar majalah _Time_ akan terus update. EPS rapat penjelasan hukum akan terus s
 
 ## Bacaan Lanjutan
 
-- [Kuo Tai-ming](/people/郭台銘) — Pendiri Hon Hai, dari arisan ibu 100 ribu ke kisah wirausaha kekaisaran manufaktur global
+- [Kuo Tai-ming](/id/people/terry-gou) — Pendiri Hon Hai, dari arisan ibu 100 ribu ke kisah wirausaha kekaisaran manufaktur global
 - [Perusahaan Taiwan: TSMC](/id/economy/tsmc) — Sama-sama kapal induk perusahaan internasional Taiwan, tapi jalan OEM wafer profesional; struktur tata kelola dengan kekaisaran OEM Hon Hai benar-benar berbeda
-- [Pasar Saham dan Pasar Modal Taiwan](/economy/台灣股市與資本市場) — Kode saham Hon Hai 2317, mekanisme pengungkapan informasi material कैसे运作
+- [Pasar Saham dan Pasar Modal Taiwan](/id/economy/taiwan-stock-market) — Kode saham Hon Hai 2317, mekanisme pengungkapan informasi material कैसे运作
 - [Transformasi Tingkat Industri Taiwan](/id/economy/industrial-transformation-from-manufacturing-to-innovation) — Dari OEM tenaga kerja intensif ke perakitan server AI, Hon Hai adalah cermin jalur ini
-- [Perdagangan Luar Negeri dan Rantai Pasokan Global Taiwan](/economy/台灣外貿與全球供應鏈) — 24 negara 900 ribu orang tata letak global, adalah lapangan eksperimen terbesar tata kelola lintas batas manufaktur Taiwan
+- [Perdagangan Luar Negeri dan Rantai Pasokan Global Taiwan](/id/economy/taiwan-foreign-trade-and-global-supply-chain) — 24 negara 900 ribu orang tata letak global, adalah lapangan eksperimen terbesar tata kelola lintas batas manufaktur Taiwan
 
 ---
 

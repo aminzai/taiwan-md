@@ -583,7 +583,7 @@ Inti konservasi laut adalah keadilan antargenerasi: keputusan hari ini menentuka
 
 **Bacaan Lanjutan**:
 
-- [Krisis Iklim Taiwan dan Transisi Net-Zero](/nature/台灣氣候危機與淨零轉型) — Pembelahan karang di saluran air keluar PLTN Kuosheng, konflik perikanan akibat tenaga angin lepas pantai, kontroversi AMDAL Terminal Tiga di karang alga: bagaimana transisi iklim membentuk ulang medan perang tata kelola laut
+- [Krisis Iklim Taiwan dan Transisi Net-Zero](/id/nature/taiwan-climate-change-net-zero-transition) — Pembelahan karang di saluran air keluar PLTN Kuosheng, konflik perikanan akibat tenaga angin lepas pantai, kontroversi AMDAL Terminal Tiga di karang alga: bagaimana transisi iklim membentuk ulang medan perang tata kelola laut
 
 ## Referensi
 

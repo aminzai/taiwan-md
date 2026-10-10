@@ -56,7 +56,7 @@ Translasi ini sangat Taiwan. Tradisi tidak dimasukkan museum, ia di KTV, YouTube
 
 15 Agustus 2008, dia meraih juara musim ketiga. Tahun berikutnya 29 Mei, _LaLa Album Ciptaan Pertama_ rilis, memuat 〈Shen Qi Bai Ma〉、[〈Shi Luo Sha Zhou〉](https://www.youtube.com/watch?v=9IP2S9aSWfI)、〈Yi Yang De Yue Guang〉 dll lagu ciptaan sendiri yang sudah muncul saat kompetisi. Kultur bilang album ini membuatnya cepat jadi salah satu representasi penyanyi pop generasi baru Taiwan.[^1]
 
-Ini juga titik masuk [Chen Chien-chi](/people/陳建騏) ke pop Mandarin. 2008 〈Shi Luo Sha Zhou〉 pertama kali dia produksi lagu pop; 2009 _LaLa Album Ciptaan Pertama_、2010 _Ji Xian_, LaLa Hsu tiga tahun berturut jadi tempat kerja dia dari teater dan musik independen ke rekaman mainstream.[^10]
+Ini juga titik masuk [Chen Chien-chi](/id/people/chen-chien-chi-music-producer) ke pop Mandarin. 2008 〈Shi Luo Sha Zhou〉 pertama kali dia produksi lagu pop; 2009 _LaLa Album Ciptaan Pertama_、2010 _Ji Xian_, LaLa Hsu tiga tahun berturut jadi tempat kerja dia dari teater dan musik independen ke rekaman mainstream.[^10]
 
 > **✦** Karya representatif pertama LaLa Hsu, membuat tradisi tidak perlu pakaian formal juga bisa duduk di dalam lagu pop.
 
@@ -127,10 +127,10 @@ Tiket hampir pulang Taichung itu nggak hilang. Ia selalu di lagunya, ngingetin s
 
 **Baca Lanjutan**:
 
-- [Chen Chien-chi](/people/陳建騏) — 2008 〈Shi Luo Sha Zhou〉 adalah produksi lagu pop pertama Chen Chien-chi, juga lokasi kunci suara awal LaLa Hsu dibangun
-- [Lin You-jia](/people/林宥嘉) — Sama dari _Super Star Avenue_ bermula, jalan lain dari juara pilih bakat ke produser mandiri
-- [Tian Fu-zhen](/people/田馥甄) — Sama LaLa Hsu figur inti suara wanita 2010-an Mandarin, dari sistem idol keluar suara sendiri
-- [Wei Ru-xuan](/people/魏如萱) — Ratu Lagu generasi sama, bareng LaLa Hsu susun genealogi non-standar penyanyi ciptaan wanita Taiwan
+- [Chen Chien-chi](/id/people/chen-chien-chi-music-producer) — 2008 〈Shi Luo Sha Zhou〉 adalah produksi lagu pop pertama Chen Chien-chi, juga lokasi kunci suara awal LaLa Hsu dibangun
+- [Lin You-jia](/id/people/yoga-lin) — Sama dari _Super Star Avenue_ bermula, jalan lain dari juara pilih bakat ke produser mandiri
+- [Tian Fu-zhen](/id/people/hebe-tien-singer) — Sama LaLa Hsu figur inti suara wanita 2010-an Mandarin, dari sistem idol keluar suara sendiri
+- [Wei Ru-xuan](/id/people/waa-wei-singer) — Ratu Lagu generasi sama, bareng LaLa Hsu susun genealogi non-standar penyanyi ciptaan wanita Taiwan
 - [Acara Variety Taiwan](/id/culture/taiwan-variety-shows) — Dari _Super Star Avenue_ paham bagaimana acara pilih bakat TV Taiwan ubah pop Mandarin 2000-an
 
 ## Referensi

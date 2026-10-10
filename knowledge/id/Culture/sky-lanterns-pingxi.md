@@ -197,7 +197,7 @@ Pingxi sedang coba jalan keempat ini, lembah Festival Lampion tahun depan adalah
 
 **Baca Lanjutan**:
 
-- [Budaya Pesta Kuil dan Parade Taiwan](/culture/台灣廟會與陣頭文化) — sama lampion adalah festival rakyat, warisan budaya vs isu lingkungan tarik tambang kasus lain
+- [Budaya Pesta Kuil dan Parade Taiwan](/id/culture/taiwan-temple-festivals-and-performance-troupes) — sama lampion adalah festival rakyat, warisan budaya vs isu lingkungan tarik tambang kasus lain
 - [Festival dan Upacara Tradisional](/id/culture/traditional-festivals-and-celebrations) — peta keseluruhan festival Taiwan, lihat posisi lampion di Festival Lampion dan festival lain
 - [Budaya Agama dan Kuil Taiwan](/id/culture/taiwan-religion-and-temple-culture) — dari kepercayaan Mazu Gong'an Gong ke simbol doa kelanjutan
 - [Sejarah Kereta Api Taiwan](/id/history/taiwan-railway-history) — kenapa rel Pingxi bisa bikin festival lampion lembah ini jadi merek internasional

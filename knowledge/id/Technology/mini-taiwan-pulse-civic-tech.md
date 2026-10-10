@@ -261,10 +261,10 @@ Namun, bentuknya sudah terlihat. Di balik satu orang, satu kalimat, dan satu pet
 
 ## Bacaan lanjutan
 
-- [Wu Che-yu](/people/吳哲宇): pencipta Taiwan.md, yang juga menggunakan pemrograman dan alat generatif untuk mendekati “sesuatu yang dapat tumbuh sendiri”
-- [Komunitas sumber terbuka dan g0v](/technology/開源社群與g0v): konteks kolektif “menulis program untuk mengubah masyarakat”, sebagai pembanding bentuk individu × Agent milik Migu
-- [Semangat sumber terbuka Taiwan](/technology/台灣開源精神): dari menyelamatkan negara melalui papan ketik hingga data terbuka, budaya dasar teknologi sipil Taiwan
-- [Kartu identitas digital dan pemerintahan digital](/technology/數位身分證與數位政府): sisi lain infrastruktur data terbuka pemerintah
+- [Wu Che-yu](/id/people/che-yu-wu): pencipta Taiwan.md, yang juga menggunakan pemrograman dan alat generatif untuk mendekati “sesuatu yang dapat tumbuh sendiri”
+- [Komunitas sumber terbuka dan g0v](/id/technology/open-source-and-g0v): konteks kolektif “menulis program untuk mengubah masyarakat”, sebagai pembanding bentuk individu × Agent milik Migu
+- [Semangat sumber terbuka Taiwan](/id/technology/taiwan-open-source-spirit): dari menyelamatkan negara melalui papan ketik hingga data terbuka, budaya dasar teknologi sipil Taiwan
+- [Kartu identitas digital dan pemerintahan digital](/id/technology/digital-id-and-digital-government): sisi lain infrastruktur data terbuka pemerintah
 
 ## Tautan proyek
 

@@ -140,10 +140,10 @@ Su Yang-chih ke [INSIDE Side Chat E376](https://www.inside.com.tw/feature/side-c
 **Baca Lanjutan**:
 
 - [Sistem Pendidikan & Budaya Naik Kelas](/id/society/education-system-and-admissions-culture) — Objek pemberontakan ZA SHARE: bagaimana aliran naik kelas Taiwan direplikasi struktural
-- [Teach For Taiwan TFT](/society/為台灣而教TFT) — Startup pendidikan alternatif pasca Gerakan Matahari 318 periode sama, jalur rekrutmen terorganisir dan jalur karnaval ZA SHARE dua metode kurasi
-- [Kelahiran Seorang Guru: Sistem Calon Guru Taiwan](/society/一個教師的誕生：台灣師資培育制度) — Calon guru sistem dalam dibikin gimana, identitas "Kepala Sekolah" ZA SHARE diletakin di grup kontrol ini
+- [Teach For Taiwan TFT](/id/society/teach-for-taiwan) — Startup pendidikan alternatif pasca Gerakan Matahari 318 periode sama, jalur rekrutmen terorganisir dan jalur karnaval ZA SHARE dua metode kurasi
+- [Kelahiran Seorang Guru: Sistem Calon Guru Taiwan](/id/society/becoming-a-teacher-taiwan-teacher-training) — Calon guru sistem dalam dibikin gimana, identitas "Kepala Sekolah" ZA SHARE diletakin di grup kontrol ini
 - [Gerakan Matahari](/id/society/sunflower-movement) — Latar sejarah ZA SHARE: Gerakan Matahari 318 gimana pasca bubar jalanan lanjut jadi praktik sosial luar sistem
-- [Festival Hidup Kompleks](/society/複雜生活節) — Versi "sengaja tetep kecil" gelombang pasca 318 sama: forum "pembicara gagal" 2-3 ratus orang tingkat 8, dan ZA SHARE tumbuh jadi karnaval pendidikan terbesar Asia, dua pilihan kurasi intimacy vs scale
+- [Festival Hidup Kompleks](/id/society/complex-life-festival) — Versi "sengaja tetep kecil" gelombang pasca 318 sama: forum "pembicara gagal" 2-3 ratus orang tingkat 8, dan ZA SHARE tumbuh jadi karnaval pendidikan terbesar Asia, dua pilihan kurasi intimacy vs scale
 - [Pendidikan Daerah Terpencil Taiwan](/id/society/taiwan-rural-education) — Garis besar ketidakadilan pendidikan lain, posisi "alternatif" ZA SHARE bentuk dua ujung pendidikan Taiwan
 
 ## Referensi

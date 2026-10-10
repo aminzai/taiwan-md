@@ -149,7 +149,7 @@ Kejaruan habis pada tengah malam 22 Agustus 2021, dilihat dari hasilnya adalah c
 ## Bacaan Lanjutan
 
 - **[FAB DAO dan Proyek Seribu Gunung](/id/art/fab-dao)** — Proyek NFT amal enam orang yang diikuti Wang Xinren, memahami ekologi lengkap Seribu Gunung
-- **[Wu Che-yu](/people/吳哲宇)** — Seniman internasional Proyek Seribu Gunung, pendiri bersama FAB DAO, dari Art Blocks Project Electriz menuju Biennale Venesia
+- **[Wu Che-yu](/id/people/che-yu-wu)** — Seniman internasional Proyek Seribu Gunung, pendiri bersama FAB DAO, dari Art Blocks Project Electriz menuju Biennale Venesia
 - **[Seni Media Baru Taiwan](/id/art/taiwan-new-media-art)** — Dari Huang Xin-jian, Yuan Guang-ming hingga Wang Xinren, silsilah lengkap empat puluh tahun seni media baru Taiwan
 - **[Seni Kontemporer Taiwan](/id/art/contemporary-art)** — Posisi dan koordinat seni generatif dalam sejarah seni kontemporer Taiwan
 - **[Wang Lien-cheng (Ebi Dad)](/id/art/wang-lien-cheng-artist)** — Seniman instalasi suara serupa Proyek Seribu Gunung, pemenang Lumen Prize 3D/Sculpture Award 2017 (karya 《閱讀計畫》)

@@ -113,7 +113,7 @@ Begitu hal itu terjadi, soal perencanaan kota tidak lagi sekadar "jalannya cukup
 **Bacaan Lanjutan**:
 
 - [Sistem Transportasi Taiwan](/id/lifestyle/transportation-system) — YouBike adalah mil terakhir dari sistem ini, dan artikel tersebut melengkapi konteks di hulunya
-- [Sejarah Perkembangan MRT Taiwan](/lifestyle/台灣捷運發展史) — kenapa YouBike harus tersambung dengan MRT? Bagaimana penyambungan itu berubah menjadi infrastruktur harian
+- [Sejarah Perkembangan MRT Taiwan](/id/lifestyle/history-of-taiwan-mrt-development) — kenapa YouBike harus tersambung dengan MRT? Bagaimana penyambungan itu berubah menjadi infrastruktur harian
 - [Krisis Iklim Taiwan dan Transisi Nol Bersih](/id/nature/taiwan-climate-change-net-zero-transition) — posisi mikromobilitas di dalam porsi 28% transportasi hijau
 
 ## Referensi

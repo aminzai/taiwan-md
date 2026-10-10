@@ -175,10 +175,10 @@ Pasca-millemium, panggung diserahkan kepada Wu Ming-yi, Lin Yi-han, Kan Yao-ming
 ## Bacaan Lanjutan
 
 - [Taiwan Travelogue](/id/art/taiwan-travelogue) — Yang Shuang-tzu melanjutkan tradisi penulisan perempuan dan yuri pasca-hukum darurat, menulis sejarah kolonial masa pendudukan Jepang melalui novel pseudo-terjemahan, mendapat pengakuan internasional ganda: NBA 2024 dan Booker Prize 2026
-- [Sastra Taiwan Pasca-Perang](/art/戰後台灣文學) — 1945–1987, 42 tahun masa hukum darurat: dari keilangan suara, modernisme, perdebatan nativis, hingga kebangkitan perempuan
-- [Sastra Taiwan Kontemporer](/art/當代台灣文學) — Abad ke-21: internalisasi Wu Ming-yi, Lin Yi-han, estafet selanjutnya sastra digital
+- [Sastra Taiwan Pasca-Perang](/id/art/postwar-taiwanese-literature) — 1945–1987, 42 tahun masa hukum darurat: dari keilangan suara, modernisme, perdebatan nativis, hingga kebangkitan perempuan
+- [Sastra Taiwan Kontemporer](/id/art/contemporary-taiwanese-literature) — Abad ke-21: internalisasi Wu Ming-yi, Lin Yi-han, estafet selanjutnya sastra digital
 - [Sejarah Sastra Taiwan](/id/art/history-of-taiwanese-literature) — Alur utuh dari masa kolonial Belanda, dinasti Ming–Qing, pendudukan Jepang, pasca-perang, hingga kontemporer
-- [Lin Liang](/people/林良) — Pendiri Perhimpunan Sastra Anak Republik Tiongkok (Taiwan) 1984 pasca-hukum darurat, pelopor sastra anak Taiwan, kolomnya 《看圖說話》 menemani beberapa generasi anak-anak Taiwan
+- [Lin Liang](/id/people/lin-liang-childrens-literature) — Pendiri Perhimpunan Sastra Anak Republik Tiongkok (Taiwan) 1984 pasca-hukum darurat, pelopor sastra anak Taiwan, kolomnya 《看圖說話》 menemani beberapa generasi anak-anak Taiwan
 
 ---
 

@@ -171,10 +171,10 @@ _Lim Giong. Dari raja rock bahasa Taiwan 《向前走》 menjadi komposer yang m
 **Bacaan Lanjutan**:
 
 - [Lim Giong](/id/people/lim-giong) — Dari gerakan lagu Taiwan baru ke musik film, perjalanan musik lengkap Lim Giong
-- [Hou Hsiao-hsien](/people/侯孝賢) — Sutradara yang membuat Lim Giong beralih jadi komposer, tokoh representatif Film Baru Taiwan
-- [Film Taiwan](/art/台灣電影) — Dari Film Baru hingga kebangkitan film nasional, panggung di mana musik visual berkembang
-- [Red Candle Games](/technology/赤燭遊戲) — Tim di balik 《返校》《還願》, bagaimana musik game menenun suara era
-- [Industri Game Taiwan dan Hiburan Digital](/technology/台灣遊戲產業與數位娛樂) — Rayark, SIGONO, dan latar belakang industri kebangkitan musik game Taiwan
+- [Hou Hsiao-hsien](/id/people/hou-hsiao-hsien) — Sutradara yang membuat Lim Giong beralih jadi komposer, tokoh representatif Film Baru Taiwan
+- [Film Taiwan](/id/art/taiwanese-cinema) — Dari Film Baru hingga kebangkitan film nasional, panggung di mana musik visual berkembang
+- [Red Candle Games](/id/technology/red-candle-games) — Tim di balik 《返校》《還願》, bagaimana musik game menenun suara era
+- [Industri Game Taiwan dan Hiburan Digital](/id/technology/taiwan-gaming-industry) — Rayark, SIGONO, dan latar belakang industri kebangkitan musik game Taiwan
 
 ## Sumber Gambar
 

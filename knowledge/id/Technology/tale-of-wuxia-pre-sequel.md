@@ -115,9 +115,9 @@ Bear pernah berkata: "Manusia biasa bukanlah orang mediocre." Kalimat ini dipaka
 
 ## Bacaan Lanjutan
 
-- [Dae Yu Double Swords](/technology/大宇雙劍) — Titik awal game wuxia Taiwan tiga puluh tahun lalu
-- [Red Candle Games](/technology/赤燭遊戲) — Jalan lain game independen Taiwan
-- [Industri Game Taiwan & Hiburan Digital](/technology/台灣遊戲產業與數位娛樂) — Panorama dari agen ke original
+- [Dae Yu Double Swords](/id/technology/softstar-twin-classics) — Titik awal game wuxia Taiwan tiga puluh tahun lalu
+- [Red Candle Games](/id/technology/red-candle-games) — Jalan lain game independen Taiwan
+- [Industri Game Taiwan & Hiburan Digital](/id/technology/taiwan-gaming-industry) — Panorama dari agen ke original
 
 ---
 

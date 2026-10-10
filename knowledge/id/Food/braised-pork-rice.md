@@ -86,10 +86,10 @@ Dari rasa rindu kampung halaman milik nenek-nenek juancun, ke makan siang penyem
 
 ## Bacaan Lanjutan
 
-- [Panorama Kuliner Taiwan](/food/台灣美食總覽) — peta menyeluruh dari masyarakat adat sampai Michelin: kenapa lu rou fan adalah faktor persekutuan terbesar dari cara orang Taiwan makan
-- [Niu Rou Mian](/food/牛肉麵) — makanan nasional lain yang juga dibawa masuk ke Taiwan oleh imigran waishengren 1949, berbagi garis keturunan juancun dengan lu rou fan
-- [Budaya Sarapan Taiwan](/food/台灣早餐文化) — dari shaobing youtiao sampai burger dan onigiri, sisi lain dari peleburan kuliner Taiwan
-- [Kepindahan Pemerintah Nasionalis ke Taiwan dan Rekonstruksi Pascaperang](/history/國民政府遷台與戰後重建) — latar sejarah kelahiran lu rou fan, penataan ulang pola makan akibat 1,2 juta tentara dan warga sipil yang pindah ke selatan
+- [Panorama Kuliner Taiwan](/id/food/taiwan-food-overview) — peta menyeluruh dari masyarakat adat sampai Michelin: kenapa lu rou fan adalah faktor persekutuan terbesar dari cara orang Taiwan makan
+- [Niu Rou Mian](/id/food/beef-noodle-soup) — makanan nasional lain yang juga dibawa masuk ke Taiwan oleh imigran waishengren 1949, berbagi garis keturunan juancun dengan lu rou fan
+- [Budaya Sarapan Taiwan](/id/food/taiwan-breakfast-culture) — dari shaobing youtiao sampai burger dan onigiri, sisi lain dari peleburan kuliner Taiwan
+- [Kepindahan Pemerintah Nasionalis ke Taiwan dan Rekonstruksi Pascaperang](/id/history/kmt-government-relocation-and-postwar-reconstruction) — latar sejarah kelahiran lu rou fan, penataan ulang pola makan akibat 1,2 juta tentara dan warga sipil yang pindah ke selatan
 
 ## Daftar Pustaka
 

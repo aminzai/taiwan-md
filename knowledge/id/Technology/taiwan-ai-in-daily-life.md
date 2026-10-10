@@ -153,7 +153,7 @@ AI di Taiwan, sudah bukan topik berita teknologi. Ia jadi bagian bahasa sehari-h
 
 ## Bacaan Lanjutan
 
-- [Pengembangan Kecerdasan Artifisial Taiwan dan Strategi Masa Depan: Dari Nobel Ganda 2024 ke Pasar Malam Ningxia](/technology/台灣人工智慧發展與未來策略) — Tarik observasi tingkat skenario AI sehari-hari ke papan catur keseluruhan: ketegangan struktural keras 90%, lapisan lunak tapi tidak ada nama Taiwan masuk Nobel 2024.
-- [Industri AI Kecerdasan Artifisial](/technology/AI人工智慧產業)
-- [Pengembangan AI](/technology/AI發展)
+- [Pengembangan Kecerdasan Artifisial Taiwan dan Strategi Masa Depan: Dari Nobel Ganda 2024 ke Pasar Malam Ningxia](/id/technology/artificial-intelligence-development-strategy) — Tarik observasi tingkat skenario AI sehari-hari ke papan catur keseluruhan: ketegangan struktural keras 90%, lapisan lunak tapi tidak ada nama Taiwan masuk Nobel 2024.
+- [Industri AI Kecerdasan Artifisial](/id/technology/artificial-intelligence-industry)
+- [Pengembangan AI](/id/technology/ai-development-in-taiwan)
 - [Sekolah Kecerdasan Artifisial Taiwan](/id/technology/taiwan-ai-academy) — Delapan ribu lebih insinyur gimana masuk ke AI sehari-hari: dari buka 2018 sampai alumni tembus sepuluh ribu 2024 sejarah pembentukan

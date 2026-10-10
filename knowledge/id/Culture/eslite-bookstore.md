@@ -182,11 +182,11 @@ Sumber: Data Statistik Eslite Life 2024
 
 ## Bacaan Lanjutan
 
-- [Pengembangan Kawasan Kreatif Taiwan: Dari Pabrik Mati Menjadi Mesin Emosional Kota](/culture/台灣文化創意園區發展)
+- [Pengembangan Kawasan Kreatif Taiwan: Dari Pabrik Mati Menjadi Mesin Emosional Kota](/id/culture/taiwan-cultural-creative-park-development)
 - [Estetika Kota yang Saling Terjalin: Gerakan Pelestarian Dadaocheng dan Dihua Street](/id/geography/dadaocheng)
 - [Sejarah Film Taiwan: Dari Realisme Sehat ke Gelombang Baru Digital](/id/art/taiwanese-cinema)
 - [Reporter - Perjuangan Kelangsungan Toko Buku Fisik: Restrukturisasi Peta Budaya Setelah Extinguishing Eslite](https://www.twreporter.org/tag/574e98b79b5c2c10007f3747)
-- [Musik Pop Taiwan: Dari Lagu Terlarang ke Pusat Kreatif Asia](/music/台灣流行音樂)
+- [Musik Pop Taiwan: Dari Lagu Terlarang ke Pusat Kreatif Asia](/id/music/golden-melodies-legacy-taiwan-pop-music)
 
 ## Referensi
 

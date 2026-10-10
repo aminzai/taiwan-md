@@ -219,7 +219,7 @@ Koordinat sejarah skala yang lebih besar:
 - [Insiden 228](/id/history/228-incident) — Tragedi politik di seluruh Taiwan pada tahun 1947, babak bantuan suku Tzou turun gunung untuk menjaga ketertiban adalah bagian yang paling sedikit dibicarakan
 - [Teror Putih Taiwan](/id/history/taiwan-white-terror) — Lokasi Uongu Yatauyungana dan Tzou Tang Shouren di tempat eksekusi Ankeng, Xindian pada tahun 1954
 - [Sejarah Kereta Api Taiwan](/id/history/taiwan-railway-history) — Posisi khusus kereta api hutan Alishan dalam perkembangan perkeretaapian Taiwan
-- [Kota Chiayi](/geography/嘉義市) — Kota prefektur yang sepenuhnya dikelilingi oleh Kabupaten Chiayi, cerminan dari pemisahan administratif selama 76 tahun
+- [Kota Chiayi](/id/geography/chiayi-city) — Kota prefektur yang sepenuhnya dikelilingi oleh Kabupaten Chiayi, cerminan dari pemisahan administratif selama 76 tahun
 - [Kota Keelung](/id/geography/keelung-city) — Artikel pertama dalam seri 22 kota dan kabupaten, kota prefektur lain yang "tertekan oleh kerangka ibu kota", membandingkan dua garis patahan yang berbeda
 
 ## Sumber Gambar

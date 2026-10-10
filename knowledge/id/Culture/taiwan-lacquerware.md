@@ -160,9 +160,9 @@ Dua gambar berlisensi bebas telah dikumpulkan: Cakram kaca hitam berwarna merah 
 
 ## Bacaan Lanjutan
 
-- [Seni Tradisional dan Warisan Budaya Takbenda Taiwan](/culture/台灣傳統工藝與無形文化資產) — Posisi seni kaca dalam sistem pelestarian seni tradisional Taiwan.
+- [Seni Tradisional dan Warisan Budaya Takbenda Taiwan](/id/culture/traditional-crafts-intangible-cultural-heritage) — Posisi seni kaca dalam sistem pelestarian seni tradisional Taiwan.
 - [Kain floral Taiwan](/id/culture/taiwan-floral-fabric) — Studi kasus lain dari pola asli, produksi industri, hingga identitas tempat.
-- [Industri garam Taiwan](/history/台灣鹽業) — Jalur lain dari sumber daya alam, industrialisasi, hingga pelestarian budaya.
+- [Industri garam Taiwan](/id/history/taiwan-salt-industry) — Jalur lain dari sumber daya alam, industrialisasi, hingga pelestarian budaya.
 
 ## Referensi
 

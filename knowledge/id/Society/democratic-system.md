@@ -91,4 +91,4 @@ Taiwan dijuluki "Keajaiban Demokrasi", lembaga seperti Freedom House lama menila
 
 ## Topik Terkait
 
-- [HAM dan Kesetaraan Gender](/society/人權與性別平等)
+- [HAM dan Kesetaraan Gender](/id/society/human-rights-and-gender-equality)

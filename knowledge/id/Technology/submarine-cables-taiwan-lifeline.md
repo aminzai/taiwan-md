@@ -195,10 +195,10 @@ Inilah kenapa Gedung 506 tidak pasang papan nama.
 
 ## Bacaan Lanjutan
 
-- [The Reporter: Sepuluh Tahun Menyelamatkan Jurnalistik Investigasi dari Proyek Bisnis Jadi Barang Publik](/society/報導者) — Sama seperti artikel ini memperhatikan kasus lain kepercayaan masyarakat sipil Taiwan dan infrastruktur pasca 2015
-- [Seni Media Baru Taiwan](/art/台灣新媒體藝術) — Infrastruktur budaya digital yang dijunjung sama oleh internet di bawah kabel laut
-- [Gerakan Sosial dan Partisipasi Warga](/society/社會運動與公民參與) — Konteks lebih besar terkait tekanan masyarakat sipil legislasi Tujuh Undang-Undang Kabel, platform tanggap darurat lokal
-- [justfont dan Perkembangan Font Taiwan](/technology/justfont與台灣字體發展) — Sumbu lain yang sama menampilkan dimensi "infrastruktur budaya"
+- [The Reporter: Sepuluh Tahun Menyelamatkan Jurnalistik Investigasi dari Proyek Bisnis Jadi Barang Publik](/id/society/the-reporter-investigative-journalism) — Sama seperti artikel ini memperhatikan kasus lain kepercayaan masyarakat sipil Taiwan dan infrastruktur pasca 2015
+- [Seni Media Baru Taiwan](/id/art/taiwan-new-media-art) — Infrastruktur budaya digital yang dijunjung sama oleh internet di bawah kabel laut
+- [Gerakan Sosial dan Partisipasi Warga](/id/society/social-movements-and-civic-participation) — Konteks lebih besar terkait tekanan masyarakat sipil legislasi Tujuh Undang-Undang Kabel, platform tanggap darurat lokal
+- [justfont dan Perkembangan Font Taiwan](/id/technology/justfont-and-taiwan-typography) — Sumbu lain yang sama menampilkan dimensi "infrastruktur budaya"
 
 ## Referensi
 

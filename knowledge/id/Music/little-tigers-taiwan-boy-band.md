@@ -158,8 +158,8 @@ Chen Zhipeng bilang dia「tidak ingin orang lain menarik dia masuk lagi」。 Ta
 
 **Baca Selanjutnya**:
 
-- [Musik Populer Taiwan](/music/台灣流行音樂) — Dari lagu rakyat, pop Mandarin ke industri idola secara utuh, Xiao Hu Dui adalah salah satu kunci di dalamnya
-- [Golden Melody Awards](/music/金曲獎) — Bagaimana Taiwan menggunakan satu trofi, mendefinisikan apa yang disebut「pop Mandarin yang baik」
+- [Musik Populer Taiwan](/id/music/golden-melodies-legacy-taiwan-pop-music) — Dari lagu rakyat, pop Mandarin ke industri idola secara utuh, Xiao Hu Dui adalah salah satu kunci di dalamnya
+- [Golden Melody Awards](/id/music/pop-music-and-golden-melody-awards) — Bagaimana Taiwan menggunakan satu trofi, mendefinisikan apa yang disebut「pop Mandarin yang baik」
 - [Jay Chou](/id/people/jay-chou) — Pasca industri idola, Taiwan menumbuhkan subjekivitas musik Mandarin lain yang berbeda
 - [Mayday](/id/music/mayday-band) — Sama-sama bermula dari lokal, terkenal di seluruh dunia Mandarin, band yang beda jauh dengan grup idola, jalan lain yang berbeda
 

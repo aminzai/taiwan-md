@@ -265,9 +265,9 @@ Pada hari Shuotao mengunggah `REVIT_MCP_study` ke GitHub pada Desember 2025[^48]
 **Bacaan lanjutan**:
 
 - [Arsitektur Taiwan](/id/art/taiwanese-architecture) — narasi budaya arsitektur dari rumah batu tulis hingga pencakar langit; artikel ini merupakan tulisan pendampingnya pada lapisan digitalisasi rekayasa
-- [Perumahan Sosial dan Keadilan Hunian](/society/社會住宅與居住正義) — penerapan BIM dalam pengoperasian dan pemeliharaan perumahan sosial merupakan salah satu program utama ABRI dalam beberapa tahun terakhir
+- [Perumahan Sosial dan Keadilan Hunian](/id/society/social-housing-and-housing-justice) — penerapan BIM dalam pengoperasian dan pemeliharaan perumahan sosial merupakan salah satu program utama ABRI dalam beberapa tahun terakhir
 - [Perusahaan Taiwan: TSMC](/id/economy/tsmc) — penerapan BIM di fasilitas TSMC merupakan medan praktik utama bagi kontraktor seperti Dacin dan Futsu
-- [Perkembangan AI Taiwan](/technology/AI發展) — MCP Anthropic dan MCP bawaan Revit 2027 merupakan kasus nyata AI × industri
+- [Perkembangan AI Taiwan](/id/technology/ai-development-in-taiwan) — MCP Anthropic dan MCP bawaan Revit 2027 merupakan kasus nyata AI × industri
 - [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — solusi terpadu rekayasa pabrik fab dan pembangunan pabrik cerdas berbasis BIM merupakan fondasi rekayasa bagi perluasan klaster semikonduktor
 
 ## Sumber Gambar

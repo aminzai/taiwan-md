@@ -127,9 +127,9 @@ Apa yang paling layak dipertahankan dari sejarah penyiaran Taiwan bukan kesimpul
 
 ## Bacaan Lebih Lanjut
 
-- [Sejarah Gerakan Perempuan Taiwan](/society/婦女新知) — Sejarah sosial lain yang dari kontrol institusional menuju suara publik
-- [Sejarah Pos Taiwan](/lifestyle/台灣郵政) — Bagaimana infrastruktur komunikasi memasuki kehidupan sehari-hari lokal
-- [Sejarah Persatuan Petani Taiwan](/history/台灣農會史) — Sejarah institusional organisasi pedesaan, keuangan, dan guichet publik lokal
+- [Sejarah Gerakan Perempuan Taiwan](/id/society/awakening-foundation) — Sejarah sosial lain yang dari kontrol institusional menuju suara publik
+- [Sejarah Pos Taiwan](/id/lifestyle/taiwan-postal-service-history) — Bagaimana infrastruktur komunikasi memasuki kehidupan sehari-hari lokal
+- [Sejarah Persatuan Petani Taiwan](/id/history/taiwan-farmers-association-history) — Sejarah institusional organisasi pedesaan, keuangan, dan guichet publik lokal
 
 ## Daftar Referensi
 

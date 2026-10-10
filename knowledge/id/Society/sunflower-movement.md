@@ -153,16 +153,16 @@ Tiga puluh detik itu, Chang Ching-chung besar kemungkinan tidak menyangka, yang 
 **Bacaan Lanjutan**:
 
 - [Transisi Demokrasi Taiwan](/id/history/taiwan-democratization) — Dari otoriter ke demokrasi, akar institusional Gerakan Mahasiswa Bunga Matahari
-- [Insiden Formosa](/history/美麗島事件) — Bagaimana para pendahulu 1979 menggunakan jalanan membuka pintu demokrasi
-- [Komunitas Sumber Terbuka dan g0v](/technology/開源社群與g0v) — Komunitas insinyur di balik infrastruktur digital Bunga Matahari
-- [Gerakan Sosial dan Partisipasi Warga](/society/社會運動與公民參與) — Evolusi masyarakat sipil Taiwan pasca Bunga Matahari
-- [Krisis Selat Taiwan dan Perkembangan Hubungan Lintas Selat](/history/台海危機與兩岸關係發展) — Latar belakang geopolitik lebih besar di balik kontroversi CSSTA
-- [Ma Ying-jeou](/people/馬英九) — Keputusan presiden selama periode CSSTA review 30 detik lolos, pengusiran polisi dini hari 3/24, mundur gerakan 4/10
-- [Sekolah Campuran](/society/雜學校) — Jalur lanjutan energi di luar sistem pasca 318: menerjemahkan pemberontakan jalanan jadi karnaval pendidikan Taiwan
-- [Festival Hidup Kompleks](/society/複雜生活節) — Keluaran keempat 318 "Keluar Menyebarkan Benih": tidak pilkada, tidak coding, tidak rekrut, mengumpulkan delapan tahun low-wage bingung jadi forum "orang yang belum sukses" dua-tiga ratus orang tiap tahun
+- [Insiden Formosa](/id/history/kaohsiung-incident-formosa-incident) — Bagaimana para pendahulu 1979 menggunakan jalanan membuka pintu demokrasi
+- [Komunitas Sumber Terbuka dan g0v](/id/technology/open-source-and-g0v) — Komunitas insinyur di balik infrastruktur digital Bunga Matahari
+- [Gerakan Sosial dan Partisipasi Warga](/id/society/social-movements-and-civic-participation) — Evolusi masyarakat sipil Taiwan pasca Bunga Matahari
+- [Krisis Selat Taiwan dan Perkembangan Hubungan Lintas Selat](/id/history/taiwan-strait-crises-and-cross-strait-relations) — Latar belakang geopolitik lebih besar di balik kontroversi CSSTA
+- [Ma Ying-jeou](/id/people/ma-ying-jeou-cross-strait-reconciliation-leader) — Keputusan presiden selama periode CSSTA review 30 detik lolos, pengusiran polisi dini hari 3/24, mundur gerakan 4/10
+- [Sekolah Campuran](/id/society/za-share) — Jalur lanjutan energi di luar sistem pasca 318: menerjemahkan pemberontakan jalanan jadi karnaval pendidikan Taiwan
+- [Festival Hidup Kompleks](/id/society/complex-life-festival) — Keluaran keempat 318 "Keluar Menyebarkan Benih": tidak pilkada, tidak coding, tidak rekrut, mengumpulkan delapan tahun low-wage bingung jadi forum "orang yang belum sukses" dua-tiga ratus orang tiap tahun
 - [Taiwan dan Eswatini](/id/society/taiwan-eswatini-relations) — Sepuluh tahun pasca 318, kunjungan Lai Ching-te ke Eswatini mengukuhkan narasi luar negeri masa pertahanan邦交: empat kata "negara berdaulatan" di adegan konkret
-- [Negara Tak Terlihat](/art/看不見的國家) — Film dokumenter Ge Jing-wen (葛靜文) menempatkan Gerakan Mahasiswa Bunga Matahari ke dalam busur empat ratus tahun demokrasi Taiwan
-- [Nieh Yung-chen](/people/聶永真) — Desainer iklan halaman depan _New York Times_ "Democracy at 4am" dini hari 2014, catatan desain bagaimana gerakan masuk pandangan internasional
+- [Negara Tak Terlihat](/id/art/invisible-nation) — Film dokumenter Ge Jing-wen (葛靜文) menempatkan Gerakan Mahasiswa Bunga Matahari ke dalam busur empat ratus tahun demokrasi Taiwan
+- [Nieh Yung-chen](/id/people/nieh-yung-jen) — Desainer iklan halaman depan _New York Times_ "Democracy at 4am" dini hari 2014, catatan desain bagaimana gerakan masuk pandangan internasional
 
 ## Referensi
 

@@ -83,7 +83,7 @@ Dari video pertama Cai Agak hingga 10 juta subscriber Chi Hsuan, budaya YouTube 
 **Bacaan Lanjutan**:
 
 - [Dewa Aladdin](/id/people/red-shin-minecraft-youtuber) — Dari pernyataan diri sendiri sepuluh satu tahun pembaruan harian, dua pengumuman penghentian berbeda hingga pembaruan kembali 2026, menunjukkan secara konkret bagaimana kreator menulis ulang komitmen penerbitan tetap.
-- [Pansains](/society/泛科學) — Dari artikel sains populer beralih ke audio visual pendek, YouTube MCN dan layanan kreator pengetahuan, melengkapi contoh tentang bagaimana kreator pengetahuan menghadapi algoritma dan komersialisme.
+- [Pansains](/id/society/pansci) — Dari artikel sains populer beralih ke audio visual pendek, YouTube MCN dan layanan kreator pengetahuan, melengkapi contoh tentang bagaimana kreator pengetahuan menghadapi algoritma dan komersialisme.
 - [Wretch Avatar](/id/culture/wretch) — Perakit kreator amatir generasi pertama Taiwan (Cai Melengkung, Sembilan Pisau, Wanita Cantik Album Foto), buaian sebelum YouTuber muncul, kreator ekonomi sudah tumbuh dari sini.
 
 ## Referensi

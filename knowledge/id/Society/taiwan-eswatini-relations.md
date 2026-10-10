@@ -211,11 +211,11 @@ Saluran diplomatik terakhir di Afrika, bergantung pada satu orang. Ini sekaligus
 **Bacaan Lanjutan**:
 
 - [Negara Mitra Diplomatik Taiwan dan Diplomasi Internasional](/id/society/taiwan-diplomatic-allies-and-international-relations) — Arsitektur tiga lapis: 12 negara mitra vs 113 titik layanan luar negeri vs 177 tujuan bebas visa, Eswatini potongan paling krusial di Afrika
-- [Lai Ching-te](/people/賴清德) — Dari dokter Tainan ke Presiden Republik Tiongkok, evolusi narasi hubungan luar negeri Lai Ching-te pasca dilantik
+- [Lai Ching-te](/id/people/lai-ching-te) — Dari dokter Tainan ke Presiden Republik Tiongkok, evolusi narasi hubungan luar negeri Lai Ching-te pasca dilantik
 - [Tsai Ing-wen](/id/people/tsai-ing-wen) — Presiden yang dua kali kunjungi Eswatini, 2018 + 2023 dua titik waktu menjawab dua fase hubungan Taiwan-Eswatini
-- [Gerakan Bunga Matahari](/society/太陽花學運) — Jalanan 2014 jadi landasan keyakinan narasi luar negeri sistem 2024-2025
-- [Pertemuan Zheng-Xi 2026 dan Pertemuan Kembali KMT-KPC Sepuluh Tahun](/society/2026鄭習會與國共十年再會) — Dinamika dua pantai serentak, memahami latar belakang lebih besar tekanan Tiongkok ke Taiwan
-- [Perang Kognitif](/society/認知作戰) — Kerangka sistematis operasi bahasa Tiongkok seperti "rat" "diplomasi menyelinap"
+- [Gerakan Bunga Matahari](/id/society/sunflower-movement) — Jalanan 2014 jadi landasan keyakinan narasi luar negeri sistem 2024-2025
+- [Pertemuan Zheng-Xi 2026 dan Pertemuan Kembali KMT-KPC Sepuluh Tahun](/id/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Dinamika dua pantai serentak, memahami latar belakang lebih besar tekanan Tiongkok ke Taiwan
+- [Perang Kognitif](/id/society/cognitive-warfare-against-taiwan) — Kerangka sistematis operasi bahasa Tiongkok seperti "rat" "diplomasi menyelinap"
 - [Paraguay dan Taiwan](/id/society/paraguay-taiwan) — Satu-satunya negara mitra di Amerika Selatan, jenis lain bertahan di bawah tekanan Tiongkok lewat kerja sama jangka panjang
 
 ## Sumber Gambar

@@ -150,7 +150,7 @@ Dengan memakan satu Guo Bao, kita mencicipi jalur laut imigrasi Fuzhou selama em
 
 - [Makanan Ringan Taiwan](/id/food/taiwanese-street-food) — Ekosistem keseluruhan jajanan jalanan, Guo Bao adalah salah satu jalur kunci di dalamnya
 - [Budaya Pasar Malam](/id/food/night-market-culture) — Sejarah Guo Bao yang meninggalkan konteks pesta akhir tahun dan memasuki pasar malam
-- [Budaya Jamuan Makan Taiwan](/food/台灣辦桌文化) — Logika ritual pesta akhir tahun dan jamuan makan, arah kepala ayam dan Harimau Menggigit Babi
+- [Budaya Jamuan Makan Taiwan](/id/food/taiwan-banquet-culture) — Logika ritual pesta akhir tahun dan jamuan makan, arah kepala ayam dan Harimau Menggigit Babi
 - [Budaya Kuliner Taiwan](/id/food/taiwan-rice-cuisine-culture) — Jalur makanan lipat Guo Bao dan struktur diet ganda nasi/tepung di Taiwan
 - [Ayam Goreng Tepung Taiwan](/id/food/taiwanese-popcorn-chicken-redux) — Jajanan rakyat lain yang mencapai pandangan internasional CNN
 

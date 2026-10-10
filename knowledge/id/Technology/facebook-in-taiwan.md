@@ -80,9 +80,9 @@ Kisah Facebook adalah cerminan 20 tahun transformasi digital Taiwan: ia mengajar
 
 **Baca Lanjutan**:
 
-- [IG: Dari Filter Fotografer ke Kecemasan "脆" Orang Taiwan](/technology/IG) — Platform andalan Taiwan lain di bawah Meta, dengan Facebook membentuk konteks penggunaan berbeda: Facebook untuk "hubungi orang tua", IG untuk "dilihat sendiri", Threads untuk "alun-alun debat besar".
+- [IG: Dari Filter Fotografer ke Kecemasan "脆" Orang Taiwan](/id/technology/instagram-in-taiwan) — Platform andalan Taiwan lain di bawah Meta, dengan Facebook membentuk konteks penggunaan berbeda: Facebook untuk "hubungi orang tua", IG untuk "dilihat sendiri", Threads untuk "alun-alun debat besar".
 - [Threads di Taiwan](/id/technology/threads-in-taiwan) — Mengapa orang Taiwan menyebut Threads "脆"? Dari gelombang pengungsi FB ke "脆" nomor satu lalu lintas global, posisi unik pengguna Taiwan di ekosistem Meta.
-- [Sejarah Migrasi Komunitas Daring Taiwan](/technology/台灣網路社群遷徙史) — Dari BBS, Wretch (無名小站), Plurk (噗浪) ke Facebook, IG, Threads, memahami mengapa Facebook bangkit dan mengapa mulai surut di Taiwan memerlukan peta migrasi lengkap ini.
+- [Sejarah Migrasi Komunitas Daring Taiwan](/id/technology/taiwan-online-community-migration) — Dari BBS, Wretch (無名小站), Plurk (噗浪) ke Facebook, IG, Threads, memahami mengapa Facebook bangkit dan mengapa mulai surut di Taiwan memerlukan peta migrasi lengkap ini.
 - [Wretch (無名小站)](/id/culture/wretch) — Platform lokal Taiwan yang dilampaui dan digantikan Facebook: 2008 Wretch masih menyalip Yahoo jadi nomor satu se-Taiwan, 2009 Facebook lewat ketertarikan dinding berita (News Feed) unggul di belakangan.
 
 ## Referensi

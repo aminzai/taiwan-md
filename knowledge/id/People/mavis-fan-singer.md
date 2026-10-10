@@ -24,7 +24,7 @@ sourceBodyHash: 'sha256:7cceb716a616fa6b'
 translatedAt: '2026-09-07T20:24:46.058231+00:00'
 ---
 
-> **Ringkasan 30 Detik:** Mavis Fan (范曉萱, lahir tahun 1977), penyanyi kreatif dari Taiwan. Ia debut pada usia 18 tahun dengan lagu 《Rain》 pada tahun 1995, dan pada tahun 1996 ia menjadi idola anak-anak yang paling populer di seluruh Taiwan dengan 〈Lagu Sehat〉 (健康歌). Pada tahun 1998, ia melakukan transformasi dengan mencukur rambutnya untuk album _Darling_, dan pada tahun 1999, ia memenangkan Penghargaan Album Lagu Pop Terbaik ke-11 [Golden Melody Award](/music/金曲獎/) dengan 《Aku Ingin Kita Bersama》 (我要我們在一起). Pada tahun 2001, ia mengambil jalur jazz dengan 《Diva yang Tak Tertandingi》 (絕世名伶), pada tahun 2007 ia membentuk grup Mavis Fan & 100%, dan pada tahun 2010 ia memenangkan Penghargaan Produser Lagu Terbaik ke-21 Golden Melody Award dengan 〈Tuan〉 (主人). Pada Desember 2025, ia merilis 《Pengembara》 (過客)—16 tahun setelah album sebelumnya. Selama tiga dekade, ia berulang kali menolak untuk didefinisikan oleh satu era.
+> **Ringkasan 30 Detik:** Mavis Fan (范曉萱, lahir tahun 1977), penyanyi kreatif dari Taiwan. Ia debut pada usia 18 tahun dengan lagu 《Rain》 pada tahun 1995, dan pada tahun 1996 ia menjadi idola anak-anak yang paling populer di seluruh Taiwan dengan 〈Lagu Sehat〉 (健康歌). Pada tahun 1998, ia melakukan transformasi dengan mencukur rambutnya untuk album _Darling_, dan pada tahun 1999, ia memenangkan Penghargaan Album Lagu Pop Terbaik ke-11 [Golden Melody Award](/id/music/pop-music-and-golden-melody-awards/) dengan 《Aku Ingin Kita Bersama》 (我要我們在一起). Pada tahun 2001, ia mengambil jalur jazz dengan 《Diva yang Tak Tertandingi》 (絕世名伶), pada tahun 2007 ia membentuk grup Mavis Fan & 100%, dan pada tahun 2010 ia memenangkan Penghargaan Produser Lagu Terbaik ke-21 Golden Melody Award dengan 〈Tuan〉 (主人). Pada Desember 2025, ia merilis 《Pengembara》 (過客)—16 tahun setelah album sebelumnya. Selama tiga dekade, ia berulang kali menolak untuk didefinisikan oleh satu era.
 
 ## Kertas Tempel di Atas Meja
 
@@ -114,11 +114,11 @@ Jarak 1996 gadis kecil penyihir baju merah rambut ikal ganda 〈Lagu Kesehatan�
 
 **Baca Lanjutan**：
 
-- [Rainie Yang (楊丞琳)](/people/楊丞琳) — Penyanyi wanita Taiwan lain yang dari jalur bintang remaja transformasi, 25 tahun inci demi inci merebut kembali "didefinisikan siapa", sampai kolom produser tertulis nama sendiri
-- [Waa Wei (魏如萱)](/people/魏如萱) — Sama-sama 2000-an akhir dari pandangan utama mundur ke lintasan musik independen, membuat suara lebih dikenal dari wajah
-- [Chen Chien-chi (陳建騏)](/people/陳建騏) — Produser era sama Studio Lin Wei-che, konteks terkait masa 《Masih Ada Cara Lain?》
-- [Cheng Yi-nung (鄭宜農)](/people/鄭宜農) — Sama-sama penulis yang terbuka tulis runtuhnya, lalu pakai karya balik mengasuh orang runtuh lain
-- [Ke Chih-tang (柯智棠)](/people/柯智棠) — Penyanyi ciptaan lain yang lama di batas mainstream-independen, bekerja di kecepatan sendiri
+- [Rainie Yang (楊丞琳)](/id/people/rainie-yang) — Penyanyi wanita Taiwan lain yang dari jalur bintang remaja transformasi, 25 tahun inci demi inci merebut kembali "didefinisikan siapa", sampai kolom produser tertulis nama sendiri
+- [Waa Wei (魏如萱)](/id/people/waa-wei-singer) — Sama-sama 2000-an akhir dari pandangan utama mundur ke lintasan musik independen, membuat suara lebih dikenal dari wajah
+- [Chen Chien-chi (陳建騏)](/id/people/chen-chien-chi-music-producer) — Produser era sama Studio Lin Wei-che, konteks terkait masa 《Masih Ada Cara Lain?》
+- [Cheng Yi-nung (鄭宜農)](/id/people/cheng-i-nung) — Sama-sama penulis yang terbuka tulis runtuhnya, lalu pakai karya balik mengasuh orang runtuh lain
+- [Ke Chih-tang (柯智棠)](/id/people/ke-zhi-tang-musician) — Penyanyi ciptaan lain yang lama di batas mainstream-independen, bekerja di kecepatan sendiri
 
 ---
 

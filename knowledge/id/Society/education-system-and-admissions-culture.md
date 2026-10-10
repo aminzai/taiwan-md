@@ -189,10 +189,10 @@ Bagaimana sambil mempertahankan kualitas dan daya saing pendidikan, menciptakan 
 **Bacaan Lanjutan**:
 
 - [Pendidikan Daerah Terpencil Taiwan](/id/society/taiwan-rural-education) — Jika ingin memahami ketidakadilan pendidikan dari anak, sekolah, keluarga komunitas hingga imajinasi keberhasilan sosial secara utuh, artikel ini adalah pemandangan lebih luas.
-- [Mengajar untuk Taiwan TFT](/society/為台灣而教TFT) — Artikel ini fokus pada satu organisasi nyata yang merespons kesenjangan pendidikan daerah terpencil, melengkapi konteks pelaku dan alur kontroversi.
+- [Mengajar untuk Taiwan TFT](/id/society/teach-for-taiwan) — Artikel ini fokus pada satu organisasi nyata yang merespons kesenjangan pendidikan daerah terpencil, melengkapi konteks pelaku dan alur kontroversi.
 - [Krisis Kelangkaan Anak Taiwan](/id/society/taiwan-low-birth-rate-crisis) — Di luar sistem dan budaya kompetisi masuk perguruan tinggi, kelangkaan anak juga sedang menulis ulang kelangsungan sekolah dan alokasi sumber daya pendidikan.
-- [Sekolah Campuran](/society/雜學校) — Karnaval pendidikan alternatif yang tumbuh pasca gerakan 318, adalah manifestasi konkret imajinasi di luar sistem orientasi masuk perguruan tinggi.
-- [Ekspansi dan Mundurnya Pendidikan Tinggi Taiwan](/society/台灣高等教育擴張與退場) — Luas membangun universitas ingin melonggarkan pintu sempit masuk perguruan tinggi, konsekuensi tiga puluh tahun kemudian: gelombang naik pangkat, deversi gelar akademik, dan tagihan mundur.
+- [Sekolah Campuran](/id/society/za-share) — Karnaval pendidikan alternatif yang tumbuh pasca gerakan 318, adalah manifestasi konkret imajinasi di luar sistem orientasi masuk perguruan tinggi.
+- [Ekspansi dan Mundurnya Pendidikan Tinggi Taiwan](/id/society/taiwan-higher-education-expansion-and-decline) — Luas membangun universitas ingin melonggarkan pintu sempit masuk perguruan tinggi, konsekuensi tiga puluh tahun kemudian: gelombang naik pangkat, deversi gelar akademik, dan tagihan mundur.
 
 [^1]: Bagian Statistik Kementerian Pendidikan, 〈Statistik Masuk Perguruan Tinggi〉, https://stats.moe.gov.tw/
 

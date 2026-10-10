@@ -130,9 +130,9 @@ Dari 23 mesin yang membuka halaman secara bersamaan di Linz pada September 2017,
 
 ## Bacaan Lanjutan
 
-- **[Wang Hsin-jen (A-Luan)](/art/王新仁)** — Rekan seniman dalam Proyek Bajian, seniman Taiwan pertama di Art Blocks, sering berkolaborasi dengan Lien-Cheng Wang
+- **[Wang Hsin-jen (A-Luan)](/id/art/wang-hsin-jen-artist)** — Rekan seniman dalam Proyek Bajian, seniman Taiwan pertama di Art Blocks, sering berkolaborasi dengan Lien-Cheng Wang
 - **[FAB DAO dan Proyek Bajian](/id/art/fab-dao)** — Konteks lengkap dari proyek NFT amal yang diikuti oleh enam orang termasuk Lien-Cheng Wang
-- **[Seni Media Baru Taiwan](/art/台灣新媒體藝術)** — Silsilah lengkap seni media baru Taiwan selama empat puluh tahun, dari Huang Hsin-chien hingga Lien-Cheng Wang
+- **[Seni Media Baru Taiwan](/id/art/taiwan-new-media-art)** — Silsilah lengkap seni media baru Taiwan selama empat puluh tahun, dari Huang Hsin-chien hingga Lien-Cheng Wang
 
 ## Referensi
 

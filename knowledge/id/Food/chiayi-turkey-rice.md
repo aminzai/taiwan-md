@@ -121,8 +121,8 @@ Rp30.000. Tujuh dekade. Sebuah kota.
 
 ## Bacaan Lanjutan
 
-- [Makanan Khas Jalanan Taiwan](/food/台灣手路菜) — Konteks budaya dalam masakan rumah tangga Taiwan
-- [Budaya Makanan di Meja Taiwan](/food/台灣辦桌文化) — Tradisi makanan yang lahir dari lapisan bawah Taiwan
+- [Makanan Khas Jalanan Taiwan](/id/food/taiwan-specialty-home-cooking) — Konteks budaya dalam masakan rumah tangga Taiwan
+- [Budaya Makanan di Meja Taiwan](/id/food/taiwan-banquet-culture) — Tradisi makanan yang lahir dari lapisan bawah Taiwan
 
 ---
 

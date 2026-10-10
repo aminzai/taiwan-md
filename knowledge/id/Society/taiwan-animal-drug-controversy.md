@@ -303,9 +303,9 @@ Artikel ini tidak memilih untukmu. Ia hanya membuka ruang, sehingga kamu dapat m
 
 **Bacaan Lanjutan**
 
-- [Budaya Hewan Liar di Taiwan](/society/台灣流浪動物文化) — Dari malam mingguan hingga nol pembunuhan, bagaimana Taiwan belajar kembali untuk memperlakukan makhluk hidup di jalan; di ujung lain perdebatan obat hewan, adalah definisi ulang identitas hewan di pulau ini
+- [Budaya Hewan Liar di Taiwan](/id/society/stray-animal-culture) — Dari malam mingguan hingga nol pembunuhan, bagaimana Taiwan belajar kembali untuk memperlakukan makhluk hidup di jalan; di ujung lain perdebatan obat hewan, adalah definisi ulang identitas hewan di pulau ini
 - [Etila Hewan di Kebun Binatang dan Pertunjukan](/id/society/zoo-and-exhibition-animal-ethics) — Bidang perdebatan lain tentang «penggunaan obat dan perawatan» hewan dalam masyarakat manusia, merupakan bagian yang berbeda dari masalah yang sama dengan penggunaan obat hewan peliharaan
-- [Kesehatan dan Jaminan Kesehatan Nasional di Taiwan](/lifestyle/台灣醫療與全民健保) — Di ujung lain sistem penggunaan obat manusia: eksperimen medis terbesar di dunia yang dikelola negara, tanpa jembatan institusional dengan dunia medis hewan. Prinsip «pemisahan bidang medis» dalam artikel ini berasal dari sistem jaminan kesehatan
+- [Kesehatan dan Jaminan Kesehatan Nasional di Taiwan](/id/lifestyle/taiwan-healthcare-and-national-health-insurance) — Di ujung lain sistem penggunaan obat manusia: eksperimen medis terbesar di dunia yang dikelola negara, tanpa jembatan institusional dengan dunia medis hewan. Prinsip «pemisahan bidang medis» dalam artikel ini berasal dari sistem jaminan kesehatan
 - [Sistem Medis Darurat di Taiwan](/id/technology/taiwan-disaster-medicine-system) — Garis dasar medis darurat manusia adalah 119 dan jaringan ambulans, sementara darurat hewan bahkan tidak memiliki garis dasar semacam itu. Membaca paralel ini akan mengungkapkan kesenjangan sumber daya antara kedua sistem
 - [Dualisme Hukum Medis Regeneratif × mRNA 30 Tahun](/id/society/taiwan-regenerative-medicine-laws) — Undang-Undang Medis Regeneratif Dual Pass 2024 disahkan, platform mRNA Taiwan sedang menyelesaikan materi pelajaran, berbagi filosofi pengawasan yang sama dengan perdebatan obat hewan tentang «bagaimana negara mengatur teknologi medis terdepan»
 

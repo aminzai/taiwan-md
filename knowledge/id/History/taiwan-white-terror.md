@@ -175,9 +175,9 @@ Ini bukan dendam, ini pembukuan. Hari Teror Putih berakhir, bukan hari bebaskan 
 - [Museum HAM Nasional](/id/history/national-human-rights-museum) — Lembaga dua taman peringatan Teror Putih Jingmei dan Pulau Hijau, dari 6 tahun persiapan hingga anggaran 2025 dibekukan
 - [Peristiwa 228](/id/history/228-incident) — Pembuka Teror Putih, penindasan 1947 bagaimana meramalkan rezim hukum darurat
 - [Peristiwa Formosa](/id/history/kaohsiung-incident-formosa-incident) — Titik balik penting akhir Teror Putih 1979
-- [Akademi Sinica](/society/中央研究院) — Lembaga yang menerbitkan _Kenangan Putih_ wawancara lisan oleh Institut Sejarah Taiwan, dan titik balik arah penelitian ke pulau ini
+- [Akademi Sinica](/id/society/academia-sinica) — Lembaga yang menerbitkan _Kenangan Putih_ wawancara lisan oleh Institut Sejarah Taiwan, dan titik balik arah penelitian ke pulau ini
 - [Gunung Ali: Hutan Kayu Kekaisaran dan Gunung Kao Yi-sheng](/id/history/alishan-empire-forest-and-uongu-yatauyungana) — Gunung dan suku Kao Yi-sheng yang dibisukan
-- [Faktur: 1951 Kertas Itu yang Mengubah Seluruh Rakyat Jadi Inspektur Pajak](/economy/發票) — Perancang sistem faktur Ren Xian-qun juga hidup di era sama, 1955 dipenjara karena "tahu mata-mata tidak lapor", satu topi cukup mematikan
+- [Faktur: 1951 Kertas Itu yang Mengubah Seluruh Rakyat Jadi Inspektur Pajak](/id/economy/taiwan-uniform-invoice) — Perancang sistem faktur Ren Xian-qun juga hidup di era sama, 1955 dipenjara karena "tahu mata-mata tidak lapor", satu topi cukup mematikan
 - [Yin Hai-guang](/id/people/yin-haiguang-liberalism-philosopher) — Profesor Filsafat Universitas Taiwan yang 1960 pasca kasus Lei Zhen dibebekukan di Lorong 18 Jalan Wenzhou, pelopor liberalisme Taiwan
 
 ## Referensi

@@ -264,12 +264,12 @@ Gunung Penyelamat Negara (TSMC) berkuasa saat ini berkat pengalaman 50 tahun ind
 
 - [Perusahaan Taiwan: TSMC](/id/economy/tsmc) — Tata kelola perusahaan, struktur keuangan, skala belanja modal Gunung Penyelamat Negara
 - [Perusahaan Taiwan: MediaTek](/id/economy/mediatek) — Bagaimana raja desain IC menempati posisi di chip ponsel dan komputasi tepi AI
-- [Perusahaan Taiwan: ASE Semiconductor](/economy/台灣企業：日月光半導體) — Industri _assembly_ dan _testing_ nomor satu global, ekosistem proses pasca-CoWoS
+- [Perusahaan Taiwan: ASE Semiconductor](/id/economy/taiwan-enterprise-ase-semiconductor) — Industri _assembly_ dan _testing_ nomor satu global, ekosistem proses pasca-CoWoS
 - [Pembangun Gunung: Taruhan Abad](/id/art/mountain-makers-tsmc-documentary) — Film dokumenter 2025 karya Hsiao Ju-chen, lima tahun wawancara 80+ veteran semikonduktor, 2026 masuk ke tiga lokasi investasi CHIPS Act utama: Purdue, Wisconsin, Michigan
-- [Wu Ta-you](/people/吳大猷) — Pada era 1980-an Taiwan berjuang bangun semikonduktor, ia sebagai ketua Akademi Sinica menegaskan pentingnya sains fundamental, meletakkan fondasi sistem penelitian Taiwan
-- [Huang Chung-jen](/people/黃崇仁) — Pendiri Powerchip/Powerchip Technology, jalan DRAM Taiwan yang membangun pabrik sendiri di atas lisensi proses orang lain: pangsa pasar turun dari 23,2% ke 6,3%, kisah paling jarang dibicarakan industri ini
+- [Wu Ta-you](/id/people/tai-yu-wu) — Pada era 1980-an Taiwan berjuang bangun semikonduktor, ia sebagai ketua Akademi Sinica menegaskan pentingnya sains fundamental, meletakkan fondasi sistem penelitian Taiwan
+- [Huang Chung-jen](/id/people/frank-huang-psmc) — Pendiri Powerchip/Powerchip Technology, jalan DRAM Taiwan yang membangun pabrik sendiri di atas lisensi proses orang lain: pangsa pasar turun dari 23,2% ke 6,3%, kisah paling jarang dibicarakan industri ini
 - [Industri Robot Taiwan](/id/technology/taiwan-robotics-industry) — Pulau nomor satu semikonduktor dunia, kenapa jadi murid belajar di era robot? Melihat keterbukaan NCAIR dan celah industri
-- [Bursa Saham dan Pasar Modal Taiwan](/economy/台灣股市與資本市場) — Bagaimana seluruh ekosistem rantai pasokan yang menopang identitas bursa Taiwan 2026 sebagai global ke-6 terwujud di pasar modal
+- [Bursa Saham dan Pasar Modal Taiwan](/id/economy/taiwan-stock-market) — Bagaimana seluruh ekosistem rantai pasokan yang menopang identitas bursa Taiwan 2026 sebagai global ke-6 terwujud di pasar modal
 - [Rantai Pasokan Tungsten Taiwan](/id/technology/taiwan-tungsten-supply-chain) — Hexafluorida tungsten mengisi jendela kontak dan _word line_ 3D NAND, Taiwan tak punya tambang tungsten tapi berkat daur ulang dan pemurnian menempati posisi hulu rantai pasokan ini
 - [Sekolah Kecerdasan Buatan Taiwan](/id/technology/taiwan-ai-academy) — Sepuluh ribu insinyur AI latih AIA delapan tahun, bagaimana kembali ke rantai ICT semikonduktor既有, memperkuat sisi perangkat lunak Taiwan
 - [Computex: Tiga Pameran Komputer Internasional Tutup Dua, Sisanya Berada di Taipei](/id/technology/computex) — CoWoS dan proses mutakhir TSMC, setiap akhir Mei berjabat tangan dengan raksasa AI global di pameran Taipei berusia 45 tahun ini

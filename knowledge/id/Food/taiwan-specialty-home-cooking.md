@@ -99,7 +99,7 @@ Xue Menghui membuka kalender petani ayahnya yang penuh tulisan. Tulisan di atasn
 
 **Bacaan tambahan:**
 
-- [Budaya Meja Nasi Taiwan](/food/台灣辦桌文化) — Lokasi terkonsentrasi hidangan istimewa: dari Neimenmen tanah tandus yang melahirkan kerajaan chef makanan khusus, hingga satu set pengetahuan upacara pesta yang melintasi tiga alam (manusia, tuhan, roh)
+- [Budaya Meja Nasi Taiwan](/id/food/taiwan-banquet-culture) — Lokasi terkonsentrasi hidangan istimewa: dari Neimenmen tanah tandus yang melahirkan kerajaan chef makanan khusus, hingga satu set pengetahuan upacara pesta yang melintasi tiga alam (manusia, tuhan, roh)
 - [Chen Yuxun](/id/people/chen-yu-hsun-taiwan-comedy-film-magician) — Sutradara "Meja Nasi", membawa hidangan yang hampir hilang seperti ayam-usus babi-kura-kura ke layar besar
 - [Budaya Makanan Laut Taiwan](/id/food/taiwan-seafood-culture) — Ketam merah, udang lobster, ikan kukus di meja pesta utama, latar belakang rasa laut Taiwan
 

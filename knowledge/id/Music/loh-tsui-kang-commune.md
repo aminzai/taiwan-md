@@ -119,10 +119,10 @@ Kamu bisa menyebutnya tragedi. Kamu juga bisa menyebutnya akhir yang paling punk
 
 ## Bacaan Lanjutan
 
-- [Taiwan Independent Music](/music/台灣獨立音樂) — Dari Shuijing Records ke Underground Society ke era streaming, konteks tiga puluh tahun pemandangan musik independen Taiwan
-- [Fire EX.](/music/滅火器樂團) — Juga menyanyikan punk Taiwan Hoklo untuk merekam masa, dua puluh lima tahun berasal dari Kaohsiung, Taiwan Selatan
+- [Taiwan Independent Music](/id/music/indie-music-scene) — Dari Shuijing Records ke Underground Society ke era streaming, konteks tiga puluh tahun pemandangan musik independen Taiwan
+- [Fire EX.](/id/music/fire-ex) — Juga menyanyikan punk Taiwan Hoklo untuk merekam masa, dua puluh lima tahun berasal dari Kaohsiung, Taiwan Selatan
 - [Sejarah Perkembangan Musik Rock Taiwan](/id/music/taiwan-rock-from-underground-to-mainstream) — Konteks sejarah lengkap dari perjalanan rock Taiwan dari bawah tanah ke atas tanah
-- [Golden Melody Awards](/music/金曲獎) — Empat puluh tahun Golden Melody Awards, cermin tahunan dari industri musik Taiwan
+- [Golden Melody Awards](/id/music/pop-music-and-golden-melody-awards) — Empat puluh tahun Golden Melody Awards, cermin tahunan dari industri musik Taiwan
 
 ## Referensi
 

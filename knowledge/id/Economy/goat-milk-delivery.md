@@ -102,7 +102,7 @@ Kembali ke 1979 Guanmiao 6 ekor kambing. Empat puluh tahun lalu, jalur dari pete
 **Baca Lanjutan**：
 
 - [Modernisasi Pertanian Taiwan](/id/economy/taiwan-agricultural-modernization) — Dari padat tenaga ke padat teknologi, jejak transformasi pertanian Taiwan
-- [Regenerasi Pertanian dan Pedesaan Taiwan](/economy/台灣農業與農村再生) — Penuaan populasi pedesaan dan masalah struktural regenerasi generasi kedua
+- [Regenerasi Pertanian dan Pedesaan Taiwan](/id/economy/taiwan-agriculture-and-rural-revitalization) — Penuaan populasi pedesaan dan masalah struktural regenerasi generasi kedua
 - [Teknologi Pertanian dan Pertanian Presisi](/id/economy/agricultural-technology-and-refined-agriculture) — Bagaimana sistem sertifikasi dan peningkatan nilai menopang ekonomi petani kecil
 - [Keajaiban Ekonomi](/id/economy/economic-miracle) — Gelombang pertumbuhan pendapatan 1980-an yang bikin peternak kambing "dikejar susu"
 

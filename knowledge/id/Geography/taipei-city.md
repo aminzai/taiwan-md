@@ -198,12 +198,12 @@ Lain kali Anda datang ke Taipei, jangan hanya mengunjungi Xinyi 101 dan Pasar Ma
 ## Bacaan Lanjutan
 
 - [Kota Keelung](/id/geography/keelung-city) — Seri 22 Kabupaten/Kota pilot: pelabuhan terdekat dengan Taipei, pelabuhan induk Taipei; bagaimana pemerintah pusat mendarat dari Pelabuhan Keelung ke Taipei pada tahun 1949
-- [New Taipei City](/geography/新北市) — Kota satelit yang mengelilingi Kota Taipei, lebih dari 1 juta orang setiap hari melakukan perjalanan komuter dari New Taipei ke Taipei untuk bekerja
-- [Kota Taoyuan](/geography/桃園市) — Bandara Internasional Taoyuan pada tahun 1979 beroperasi; gerbang kargo internasional Taiwan beralih dari Keelung ke Taoyuan, dan Taipei kehilangan pintu gerbang pelabuhan.
+- [New Taipei City](/id/geography/new-taipei-city) — Kota satelit yang mengelilingi Kota Taipei, lebih dari 1 juta orang setiap hari melakukan perjalanan komuter dari New Taipei ke Taipei untuk bekerja
+- [Kota Taoyuan](/id/geography/taoyuan-city) — Bandara Internasional Taoyuan pada tahun 1979 beroperasi; gerbang kargo internasional Taiwan beralih dari Keelung ke Taoyuan, dan Taipei kehilangan pintu gerbang pelabuhan.
 - [Kota Kaohsiung](/id/geography/kaohsiung-city) — Kota administratif langsung kedua yang ditingkatkan pada tahun 1979 (12 tahun lebih lambat dari Taipei); Kasus Darah Lin terjadi di Alley 31, Section 3, Xinyi Road, Kota Taipei pada tahun 1980.
 - [Kota Taichung](/id/geography/taichung-city) — Kota administratif langsung yang ditingkatkan pada tahun 2010 (43 tahun lebih lambat dari Taipei); dua pola pembagian kerja antara kota tengah dan Taipei.
-- [Kota Tainan](/geography/台南市) — Ibu kota era Qing awal sejak 1683; didirikan sebagai kota bersama dengan Taipei dan Taichung pada tahun 1920.
-- [Peristiwa Haiyang (228)](/history/二二八事件) — Tembakan pertama di Kedai Teh Tianma, Nanjing West Road, Taipei pada 27 Februari 1947, luka politik terdalam pasca-perang Taiwan.
+- [Kota Tainan](/id/geography/tainan-city) — Ibu kota era Qing awal sejak 1683; didirikan sebagai kota bersama dengan Taipei dan Taichung pada tahun 1920.
+- [Peristiwa Haiyang (228)](/id/history/228-incident) — Tembakan pertama di Kedai Teh Tianma, Nanjing West Road, Taipei pada 27 Februari 1947, luka politik terdalam pasca-perang Taiwan.
 - [Gerakan Mahasiswa Wild Lily](/id/society/wild-lily-student-movement) — Tujuh malam enam hari di depan Gedung Peringatan Zhongzheng dari 16 hingga 22 Maret 1990, empat tuntutan 6.000 mahasiswa.
 - [Gerakan Bunga Matahari](/id/society/sunflower-movement) — Pendudukan Legislative Yuan Taipei selama 24 hari pada 18 Maret 2014.
 

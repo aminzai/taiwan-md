@@ -276,10 +276,10 @@ Masih butuh satu jam lagi, matahari baru akan terbit dari balik Pulau Green.
 
 **Bacaan Lanjutan**：
 
-- [Perkembangan Patung Kontemporer Taiwan](/art/台灣當代雕塑發展) — Dari Huang Tu-shui ke Yang Ying-feng hingga instalasi kontemporer, ratusan tahun jalur kreasi tiga dimensi Taiwan
-- [Pendidikan Seni dan Perkembangan Akademi Taiwan](/art/台灣藝術教育與學院發展) — Sistem pengembangan Jurusan Seni Universitas Normal, Akademi Seni Nasional, Jurusan Seni Rupa Universitas Tunghai, serta latar belakang akademik Jiang Xian-er
+- [Perkembangan Patung Kontemporer Taiwan](/id/art/development-of-contemporary-taiwanese-sculpture) — Dari Huang Tu-shui ke Yang Ying-feng hingga instalasi kontemporer, ratusan tahun jalur kreasi tiga dimensi Taiwan
+- [Pendidikan Seni dan Perkembangan Akademi Taiwan](/id/art/taiwanese-art-education-and-academic-development) — Sistem pengembangan Jurusan Seni Universitas Normal, Akademi Seni Nasional, Jurusan Seni Rupa Universitas Tunghai, serta latar belakang akademik Jiang Xian-er
 - [Kurator Taiwan dan Konstruksi Budaya Seni](/id/art/taiwanese-curators-and-artistic-cultural-construction) — Dari Wang Chia-chi ke praktik kurasi kontemporer, bagaimana pameran retrospektif membentuk ulang citra publik seniman
-- [Seni Kontemporer](/art/當代藝術) — Seluruh aliran gerakan lukisan abstrak Taiwan pasca 1960-an, May Art Association, Eastern Art Association
+- [Seni Kontemporer](/id/art/contemporary-art) — Seluruh aliran gerakan lukisan abstrak Taiwan pasca 1960-an, May Art Association, Eastern Art Association
 
 ## Sumber Gambar
 

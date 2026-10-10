@@ -195,7 +195,7 @@ Di dalam bagian terakhir dari antologi pada 1989, "Kami Tidak Lagi Melihat Kegel
 - [Chen Yingzhen](/id/people/chen-yingzhen) — menulis komentar panjang untuk antologi 1989 Mohanaw "Penyair Kolonial di Dalam Negeri Taiwan", inti lingkungan sastra kiri-persatuan
 - [Sejarah Gerakan Pemulihan dan Hak-hak Suku Asli Taiwan](/id/history/indigenous-peoples-history-and-naming-movement) — riwayat lengkap gerakan dari Serikat Hak Asli pada 1984 hingga penginapan malam di Dajia pada 2017, termasuk konteks gerakan "Kembalikan Lahan Kami" pada 1988
 - [Prasejarah dan Suku Asli](/id/history/prehistoric-era-and-indigenous-peoples) — latar belakang jangka panjang suku asli Taiwan di pulau ini
-- [Peristiwa 228](/history/二二八事件) — asal-usul pembentukan narasi kemerdekaan Taiwan pasca-perang, dan latar belakung sejarah posisi kiri-persatuan Mohanaw
+- [Peristiwa 228](/id/history/228-incident) — asal-usul pembentukan narasi kemerdekaan Taiwan pasca-perang, dan latar belakung sejarah posisi kiri-persatuan Mohanaw
 - [Transformasi Demokrasi Taiwan](/id/history/taiwan-democratization) — konteks pembukaan pada 1980-an, saat-saat politik di mana puisi-puisi Mohanaw berada
 
 ## Sumber Gambar

@@ -285,11 +285,11 @@ Kedudukan itu adalah jarak di antara angka-angka tersebut.
 
 **Bacaan lanjutan**:
 
-- [Pertahanan dan modernisasi militer Taiwan](/society/台灣國防與軍事現代化) — ketika hanya tersisa 12 sekutu diplomatik, pertahanan militer mandiri menjadi pilar lain untuk memastikan jumlahnya “bukan 0”
-- [Krisis Selat Taiwan dan perkembangan hubungan lintas selat](/history/台海危機與兩岸關係發展) — bagaimana tiga krisis membentuk keterasingan diplomatik dan kecemasan keamanan Taiwan
+- [Pertahanan dan modernisasi militer Taiwan](/id/society/taiwan-defense-modernization) — ketika hanya tersisa 12 sekutu diplomatik, pertahanan militer mandiri menjadi pilar lain untuk memastikan jumlahnya “bukan 0”
+- [Krisis Selat Taiwan dan perkembangan hubungan lintas selat](/id/history/taiwan-strait-crises-and-cross-strait-relations) — bagaimana tiga krisis membentuk keterasingan diplomatik dan kecemasan keamanan Taiwan
 - [TSMC](/business/台積電) — landasan material perisai silikon dan kerentanan strukturalnya
 - [Cho Jung-tai](/id/people/cho-jung-tai) — lintasan tarif Amerika Serikat–Taiwan pada 2026 dari 32→20→15% dan koordinator kabinet untuk kunjungan Lai Ching-te ke Eswatini
-- [Taiwan dan Eswatini](/society/台灣與史瓦帝尼) — satu-satunya sekutu diplomatik yang tersisa di Afrika, kisah lengkap selama 58 tahun sejak pembentukan hubungan pada hari yang sama pada 1968 hingga kunjungan Lai Ching-te pada 2026
+- [Taiwan dan Eswatini](/id/society/taiwan-eswatini-relations) — satu-satunya sekutu diplomatik yang tersisa di Afrika, kisah lengkap selama 58 tahun sejak pembentukan hubungan pada hari yang sama pada 1968 hingga kunjungan Lai Ching-te pada 2026
 
 ## Referensi
 

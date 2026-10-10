@@ -140,9 +140,9 @@ Hanya tujuh tahun, namun benihnya tersebar selama tiga puluh tahun. Lain kali An
 
 **Bacaan Lanjutan:**
 
-- [Seni Kontemporer Taiwan](/art/當代藝術) — Konteks keseluruhan perkembangan seni kontemporer Taiwan pasca-Deklarasi Darurat, Xinshengtau adalah titik simpul representatif di Tainan pada periode ini
+- [Seni Kontemporer Taiwan](/id/art/contemporary-art) — Konteks keseluruhan perkembangan seni kontemporer Taiwan pasca-Deklarasi Darurat, Xinshengtau adalah titik simpul representatif di Tainan pada periode ini
 - [Kurator dan Konstruksi Budaya Seni Taiwan](/id/art/taiwanese-curators-and-artistic-cultural-construction) — Proses lokalisasi konsep kuratorial di Taiwan tahun 1990-an, Cheng Ming-chuan dari Xinshengtau adalah salah satu contohnya
-- [Seni Media Baru Taiwan](/art/台灣新媒體藝術) — Pada periode yang sama, Huang Wen-hao mengembangkan ET@T dari IT Park, menjadi kasus paralel pada tahun 1995
+- [Seni Media Baru Taiwan](/id/art/taiwan-new-media-art) — Pada periode yang sama, Huang Wen-hao mengembangkan ET@T dari IT Park, menjadi kasus paralel pada tahun 1995
 
 ## Sumber Gambar
 

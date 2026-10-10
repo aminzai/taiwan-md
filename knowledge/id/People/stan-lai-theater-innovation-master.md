@@ -117,4 +117,4 @@ Dalam beberapa tahun terakhir, kreativitas Stan Lai lebih fokus pada identitas b
 ## Bacaan Lanjut
 
 - [Performance Workshop](http://www.pw-theatre.com/) — Website resmi kelompok teater yang didirikan Stan Lai, berisi karya-karya sepanjang tahun dan informasi penjualan tiket
-- [_Secret Love in Peach Blossom Land_](/people/賴聲川) — Karya klasik teater berbahasa Tionghoa
+- [_Secret Love in Peach Blossom Land_](/id/people/stan-lai-theater-innovation-master) — Karya klasik teater berbahasa Tionghoa

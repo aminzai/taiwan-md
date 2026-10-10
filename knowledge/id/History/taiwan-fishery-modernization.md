@@ -166,7 +166,7 @@ Hari ini, ketika kita membeli seekor ikan di pasar, yang kita lihat adalah berat
 
 ## Bacaan Lanjutan
 
-- [Asal Usul Perikanan Taiwan](/history/台灣漁業起源) — Bab pertama dari laut yang sama: uji coba sumber daya air kolonial Jepang, pasar ikan, dan penerimaan teknologi pasca-perang
+- [Asal Usul Perikanan Taiwan](/id/history/taiwan-fishery-origins) — Bab pertama dari laut yang sama: uji coba sumber daya air kolonial Jepang, pasar ikan, dan penerimaan teknologi pasca-perang
 - [Sejarah Perdagangan Maritim Taiwan](/id/history/taiwan-maritime-trade-history)
 - [Sejarah Industri Gula Taiwan](/history/台灣糖業史)
 

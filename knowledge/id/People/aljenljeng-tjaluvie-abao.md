@@ -196,11 +196,11 @@ Begitu untuk dirinya, untuk musisi muda suku asli generasi depan, untuk seluruh 
 
 **Baca Lanjutan**：
 
-- [Wei Ruxuan](/people/魏如萱) — Jalur lain generasi sama pop Mandarin "membiarkan suara non-standar terdengar" (suara bayi Wei Ruxuan × elektro bahasa suku Abao, dua bahasa perluasan batas suara)
+- [Wei Ruxuan](/id/people/waa-wei-singer) — Jalur lain generasi sama pop Mandarin "membiarkan suara non-standar terdengar" (suara bayi Wei Ruxuan × elektro bahasa suku Abao, dua bahasa perluasan batas suara)
 - [Chen Jianqi](/id/people/chen-chien-chi-music-producer) — Perbandingan identitas "penulis tidak hadir" produser pop Mandarin (Chen Jianqi bikin batas suara pop Mandarin mainstream, Abao bikin future pop bahasa suku)
 - [Zhou Ziyu](/id/people/tzuyu) — Ujung lain strategi identitas musisi wanita Taiwan generasi sama (Zhou Ziyu industri K-pop vs Abao identitas kelompok × produksi lokal)
-- [Anugerah Golden Melody](/music/金曲獎) — Makna struktural Hadiah Album Tahunan Anugerah Golden Melody 31 pertama diraih karya bahasa suku
-- [Populer Musik Taiwan](/music/台灣流行音樂) — Titik air 2020 musik bahasa suku dari sidebar ke main stage
+- [Anugerah Golden Melody](/id/music/pop-music-and-golden-melody-awards) — Makna struktural Hadiah Album Tahunan Anugerah Golden Melody 31 pertama diraih karya bahasa suku
+- [Populer Musik Taiwan](/id/music/golden-melodies-legacy-taiwan-pop-music) — Titik air 2020 musik bahasa suku dari sidebar ke main stage
 - [Peta Budaya 16 Suku Asli Taiwan](/id/culture/indigenous-peoples-16-tribes-cultural-map) — Bahasa, desa, bentuk seni suku Paiwan kontemporer
 - [Kebijakan Bahasa Suku Asli](/society/原住民族語言政策) — Konteks kebijakan revitalisasi bahasa suku dan praktek musik tipe Abao saling melengkapi
 - [Huang Shaoyong](/id/people/huang-shao-yong-musician) — Produser bersama 《kinakaian Lidah Ibu》; keduanya memimpin kursus "MINETJUS Dekonstruksi Produksi Elektro" bahasa suku asli sampai kelima

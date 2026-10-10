@@ -105,7 +105,7 @@ Sistem wajib militer Taiwan adalah dialog jangka panjang tentang "tanggung jawab
 ## Bacaan Lanjutan
 
 - [Memori Bukit Chenggong dan Jalan Shengli](/id/history/hukou-camp-shengli-road-memory) — Memori sehari-hari ruang militer
-- [Akademi Beruang Hitam](/society/黑熊學院) — Versi kontempender kesadaran pertahanan sipil
+- [Akademi Beruang Hitam](/id/society/kuma-academy-civil-defense-school) — Versi kontempender kesadaran pertahanan sipil
 
 ## Referensi
 

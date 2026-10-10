@@ -157,7 +157,7 @@ Ketika Taiwan menginvestasikan sepuluh tahun dan 564,5 miliar yuan untuk meranca
 
 **Bacaan lanjutan**:
 
-- [Mekanisme harga bahan bakar Taiwan dan CPC](/economy/台灣油價機制與中油) — Dalam anggaran tambahan enam ribu miliar yuan yang sama, di samping 71,1 miliar yuan Taiwan Electric, ada dua baris anggaran CPC: satu perusahaan BUMN yang dipanggil untuk berdiri di depan, siapa yang harus membayar uang yang paling akhir.
+- [Mekanisme harga bahan bakar Taiwan dan CPC](/id/economy/taiwan-fuel-pricing-and-cpc) — Dalam anggaran tambahan enam ribu miliar yuan yang sama, di samping 71,1 miliar yuan Taiwan Electric, ada dua baris anggaran CPC: satu perusahaan BUMN yang dipanggil untuk berdiri di depan, siapa yang harus membayar uang yang paling akhir.
 
 ## Referensi
 

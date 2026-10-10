@@ -166,7 +166,7 @@ Kisah Chunghwa Telecom adalah cerminan tiga puluh tahun industri telekomunikasi 
 
 **Bacaan Lanjutan**:
 
-- [Taiwan Bea Cukai dan EZ WAY](/lifestyle/台灣海關報關制度與EZWAY) — Contoh lain tata kelola saham publik di mana pemerintah memegang saham di bawah 50%, tetapi operasi aktual diserahkan ke swasta: Kementerian Keuangan memegang 36,11% saham Jaringan Dagang Bea
+- [Taiwan Bea Cukai dan EZ WAY](/id/lifestyle/ezway) — Contoh lain tata kelola saham publik di mana pemerintah memegang saham di bawah 50%, tetapi operasi aktual diserahkan ke swasta: Kementerian Keuangan memegang 36,11% saham Jaringan Dagang Bea
 
 ## Referensi
 

@@ -194,7 +194,7 @@ Skala waktu sistem demokrasi lebih panjang daripada satu generasi. Usia 20 tahun
 
 ## Bacaan Lanjutan
 
-- [Apa itu Pemilihan Sembilan dalam Satu](/politics/九合一選舉是什麼): Asal mula sistem pemilihan lima jabatan lokal yang akan diadakan pada November 2026.
+- [Apa itu Pemilihan Sembilan dalam Satu](/id/politics/nine-in-one-elections-explained): Asal mula sistem pemilihan lima jabatan lokal yang akan diadakan pada November 2026.
 - [Pemilihan Sembilan dalam Satu 2026](/politics/2026 九合一選舉): Jadwal, nominasi, dan pelacakan isu untuk pemilu kali ini.
 - [Gerakan Mahasiswa Sunflower](/history/太陽花學運): Peristiwa simbolis kebangkitan kesadaran politik generasi muda pada tahun 2014.
 - [Demokratisasi](/id/history/taiwan-democratization-history): Struktur jangka panjang demokratisasi Taiwan pasca-perang.

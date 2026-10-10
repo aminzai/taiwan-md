@@ -290,7 +290,7 @@ Itu adalah bentuk mantra.
 - [Dadaocheng](/id/geography/dadaocheng) — kawasan bersejarah lain pada masa yang sama, pusat komersial penting lain di Taipei setelah pelabuhan dibuka pada tahun 1860
 - [Wanhua](/id/geography/bangka) — awal kemakmuran "satu ibu kota, dua pasar, tiga Wanhua" pada masa Dinasti Qing, dan hubungannya dengan Beitou
 - [Ximending](/id/geography/ximending) — kawasan hiburan yang direncanakan oleh Jepang pada tahun 1896, paralel dengan Tenshudo-an Hirotaka yang sama pada tahun itu
-- [Jalan Zhongshan Utara](/geography/中山北路條通) — jalan yang ditetapkan pada tahun 1898 menuju kuil Sun Yat-sen, setelah pemutusan hubungan diplomatik Jepang-Taiwan pada tahun 1972, budaya restoran Jepang di sini dan larangan tempat hiburan di Beitou pada tahun 1979 adalah dua alur pemisahan dari lanskap industri khusus pasca perang di Taipei
+- [Jalan Zhongshan Utara](/id/geography/zhongshan-north-road-tiaotong) — jalan yang ditetapkan pada tahun 1898 menuju kuil Sun Yat-sen, setelah pemutusan hubungan diplomatik Jepang-Taiwan pada tahun 1972, budaya restoran Jepang di sini dan larangan tempat hiburan di Beitou pada tahun 1979 adalah dua alur pemisahan dari lanskap industri khusus pasca perang di Taipei
 
 ## Sumber Gambar
 

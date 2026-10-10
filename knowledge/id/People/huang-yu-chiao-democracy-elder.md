@@ -99,8 +99,8 @@ Epitafnya seharusnya bukan "Pahlawan Perempuan Peristiwa Zhongli", tapi: **Seora
 
 **Baca Lebih Lanjut**:
 
-- [Peristiwa Zhongli](/history/台灣選舉與政黨政治) — Malam 19 November 1977 yang mengubah politik jalanan Taiwan
-- [Kaohsiung Incident](/history/美麗島事件) — Dua tahun kemudian bencana besar gerakan Dangwai lain, latar era teror putih tempat Huang Yu-chiao berada
+- [Peristiwa Zhongli](/id/history/taiwan-elections-and-party-politics) — Malam 19 November 1977 yang mengubah politik jalanan Taiwan
+- [Kaohsiung Incident](/id/history/kaohsiung-incident-formosa-incident) — Dua tahun kemudian bencana besar gerakan Dangwai lain, latar era teror putih tempat Huang Yu-chiao berada
 - [Transisi Demokrasi Taiwan](/id/history/taiwan-democratization) — Generasi anggota dewan provinsi Dangwai seperti Huang Yu-chiao bagaimana menyingkap ruang demokrasi di dalam rezim otoriter
 - [Lee Teng-hui](/id/people/lee-teng-hui) — Gubernur Provinsi 1981-1984 yang diinterpelasi di dewan provinsi, kemudian menjadi Presiden pertama dipilih rakyat Taiwan
 - [Annette Lu](/id/people/annette-lu) — Sosok politik perempuan Dangwai era sama dengan Huang Yu-chiao, tapi jalan yang sama sekali berbeda

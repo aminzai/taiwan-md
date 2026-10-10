@@ -217,7 +217,7 @@ Itu adalah air sungai Keelung yang sama.
 
 **Bacaan Lanjutan**:
 
-- [Jinguashi](/geography/金瓜石) — saudara kembar di hulu sungai Keelung, jalur ekomuseum transformasi situs tambang menjadi 「Taman Museum Emas」
+- [Jinguashi](/id/geography/jinguashi) — saudara kembar di hulu sungai Keelung, jalur ekomuseum transformasi situs tambang menjadi 「Taman Museum Emas」
 - [Sejarah Kereta Api Taiwan](/id/history/taiwan-railway-history) — jalur Pingxi beroperasi 1920 menjadi fondasi fisik tulang punggung wisata jalur Houtong / Pingxi / Jingdong / Shifen
 - [Budaya Hewan Tersesat Taiwan](/id/society/stray-animal-culture) — konteks Taiwan bukti kebijakan TNVR, Houtong adalah salah satu kasus sukses yang sedikit
 - [Kebun Binatang dan Etika Hewan Pameran](/id/society/zoo-and-exhibition-animal-ethics) — 「wisata kucing」 dengan tekanan etika hewan yang sama seperti kebun binatang / akuarium

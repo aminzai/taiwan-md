@@ -337,9 +337,9 @@ Penulis kisah ini tetaplah setiap orang Taiwan.
 
 **Bacaan lanjutan**:
 
-- [Faktur: Selembar Kertas yang Mengubah Seluruh Rakyat Menjadi Pemeriksa Pajak pada 1951](/economy/發票) — faktur seragam merupakan infrastruktur fiskal penting yang hadir bersamaan dengan keajaiban ekonomi; pada tahun pertama penerapannya pada 1951, penerimaan pajak usaha melonjak 75%
+- [Faktur: Selembar Kertas yang Mengubah Seluruh Rakyat Menjadi Pemeriksa Pajak pada 1951](/id/economy/taiwan-uniform-invoice) — faktur seragam merupakan infrastruktur fiskal penting yang hadir bersamaan dengan keajaiban ekonomi; pada tahun pertama penerapannya pada 1951, penerimaan pajak usaha melonjak 75%
 - [Sepuluh Proyek Pembangunan: Pertaruhan 200 Miliar di Atas Cadangan Devisa 1 Miliar Dolar AS](/id/history/ten-major-construction-projects) — uraian lengkap, kontroversi, dan narasi politik seputar pertaruhan besar pada 1970-an
-- [Kebijakan Baik Lintas Partai](/history/跨黨派的好政策) — anggapan yang tersebar luas bahwa reformasi agraria “menggerakkan keajaiban ekonomi Taiwan” ternyata tidak benar-benar bertahan ketika diuji
+- [Kebijakan Baik Lintas Partai](/id/history/bipartisan-good-policy) — anggapan yang tersebar luas bahwa reformasi agraria “menggerakkan keajaiban ekonomi Taiwan” ternyata tidak benar-benar bertahan ketika diuji
 
 ## Sumber Gambar
 

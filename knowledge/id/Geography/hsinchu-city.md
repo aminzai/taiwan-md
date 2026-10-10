@@ -205,11 +205,11 @@ Lain kali Anda mengunjungi Hsinchu, jangan hanya melihat pabrik chip di kawasan 
 ## Bacaan Lanjutan
 
 - [Kota Keelung](/id/geography/keelung-city) — Seri 22 Kota pilot: Memori pelabuhan yang dijajah Spanyol dari tahun 1626 hingga menjadi pelabuhan kontainer terbesar ketujuh di dunia pada tahun 1984, memiliki basis garis depan Perang Dingin seperti Hsinchu (Pulau Pinghe Keelung vs. Pangkalan Udara Hsinchu) dan nasib kota prefektur.
-- [Kota Chiayi](/geography/嘉義市) — Seri 22 Kota: Kota prefektur yang juga dipisahkan dari pusatnya (pindah ke Taibao pada tahun 1991 vs. pindah ke Zhubei pada tahun 1989), membandingkan konsekuensi pembagian kota prefektur.
+- [Kota Chiayi](/id/geography/chiayi-city) — Seri 22 Kota: Kota prefektur yang juga dipisahkan dari pusatnya (pindah ke Taibao pada tahun 1991 vs. pindah ke Zhubei pada tahun 1989), membandingkan konsekuensi pembagian kota prefektur.
 - [Kabupaten Miaoli](/id/geography/miaoli-county) — Seri 22 Kota: Kabupaten tetangga yang dipisahkan dari Prefektur Hsinchu pada tahun 1887; kawasan Longtan dan Donglu di Zhaqian berada di Miaoli, menunjukkan luapan industri Hsinchu.
-- [Kabupaten Nantou](/geography/南投縣) — Seri 22 Kota: Satu-satunya kabupaten yang tidak menghadap laut, memiliki struktur geografis "skala ≠ pentingnya" seperti Hsinchu (Nantou menopang seluruh sistem pegunungan tengah / Hsinchu menopang klaster semikonduktor).
-- [Kota Taoyuan](/geography/桃園市) — Tetangga utara Hsinchu, awalnya dipertimbangkan untuk Institut Penelitian Industri pada tahun 1973 di Longtan, tetapi akhirnya memilih Hsinchu; kawasan Longtan Zhaqian berada di antara Taoyuan dan Hsinchu.
-- [Kabupaten Hsinchu](/geography/新竹縣) — Memisahkan diri dari Kota Hsinchu pada tahun 1982, pindah ke Zhubei pada tahun 1989, dan tetangga yang menampung pabrik 2 nanometer TSMC di Baoshan.
+- [Kabupaten Nantou](/id/geography/nantou-county) — Seri 22 Kota: Satu-satunya kabupaten yang tidak menghadap laut, memiliki struktur geografis "skala ≠ pentingnya" seperti Hsinchu (Nantou menopang seluruh sistem pegunungan tengah / Hsinchu menopang klaster semikonduktor).
+- [Kota Taoyuan](/id/geography/taoyuan-city) — Tetangga utara Hsinchu, awalnya dipertimbangkan untuk Institut Penelitian Industri pada tahun 1973 di Longtan, tetapi akhirnya memilih Hsinchu; kawasan Longtan Zhaqian berada di antara Taoyuan dan Hsinchu.
+- [Kabupaten Hsinchu](/id/geography/hsinchu-county) — Memisahkan diri dari Kota Hsinchu pada tahun 1982, pindah ke Zhubei pada tahun 1989, dan tetangga yang menampung pabrik 2 nanometer TSMC di Baoshan.
 - [Industri Semikonduktor Taiwan](/technology/台灣半導體產業) — Sejarah industri semikonduktor lengkap dari Institut Penelitian Industri pada tahun 1973 hingga 2 nanometer TSMC pada tahun 2025, Hsinchu adalah koordinat fisik untuk semua linimasa tersebut.
 - [TSMC](/companies/台積電) — Didirikan di Kawasan Ilmiah Hsinchu pada tahun 1987, memulai produksi massal 2 nanometer di Pabrik Baoshan pada kuartal keempat 2025.
 - [Taiwan Selama Perang Dingin](/history/冷戰時期的台灣) — Sejarah operasi pengintaian Pasukan Kelelawar Hitam dan Pasukan Kucing Hitam, Pangkalan Udara Hsinchu adalah pusat sejarah ini.

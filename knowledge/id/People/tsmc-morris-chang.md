@@ -398,10 +398,10 @@ Kapitalisasi pasar TSMC pertama kali melampaui sepuluh triliun Dolar Taiwan pada
 ## Bacaan Lanjutan
 
 - [Perusahaan Taiwan: TSMC](/id/economy/tsmc) — Gunung Penjaga Negara yang didirikan dengan model manufaktur murni pada tahun 1987 dan kini bernilai lebih dari enam puluh triliun, adalah catatan terlengkap dari Morris Chang.
-- [Shi Zhenrong](/people/施振榮) — Pendiri Foxconn yang mengundang untuk menjadi direktur TSMC selama dua puluh satu tahun, dan penulis "Kurva Senyum"; sementara "manufaktur menengah" yang dilakukan TSMC adalah bagian dari kurva tersebut yang dicemooh tetapi ternyata paling berharga.
+- [Shi Zhenrong](/id/people/stan-shih) — Pendiri Foxconn yang mengundang untuk menjadi direktur TSMC selama dua puluh satu tahun, dan penulis "Kurva Senyum"; sementara "manufaktur menengah" yang dilakukan TSMC adalah bagian dari kurva tersebut yang dicemooh tetapi ternyata paling berharga.
 - [Kuo Tsai-ming](/id/people/terry-gou) — Pengusaha Taiwan lainnya yang mengubah dunia melalui "manufaktur murni"; manufaktur perakitan Foxconn dan manufaktur wafer TSMC adalah dua jalan bagi manufaktur Taiwan untuk mencapai globalisasi.
 - [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Dari transfer teknologi RCA pada tahun 1976 hingga Gunung Penjaga Negara, Morris Chang secara pribadi membawa seluruh medan perang industri ini ke Taiwan.
-- [Huang Chongren](/people/黃崇仁) — Orang yang datang mencari Morris Chang ketika Powerchip hampir diambil alih oleh United Microelectronics Corporation (UMC) di akhir tahun 1990-an; ia mewakili jalur lain dari semikonduktor Taiwan yang penuh jurang.
+- [Huang Chongren](/id/people/frank-huang-psmc) — Orang yang datang mencari Morris Chang ketika Powerchip hampir diambil alih oleh United Microelectronics Corporation (UMC) di akhir tahun 1990-an; ia mewakili jalur lain dari semikonduktor Taiwan yang penuh jurang.
 - [Peningkatan Transformasi Industri Taiwan](/id/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC adalah kasus paling konkret dari transformasi Taiwan dari "Pulau Manufaktur" menjadi "Pulau Teknologi," dan merupakan koordinat inti dari transformasi empat puluh tahun ini.
 
 ---

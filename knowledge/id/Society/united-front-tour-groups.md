@@ -114,11 +114,11 @@ Dan ketidakpastian, mungkin memang produk akhir pertarungan kognitif ini.
 
 **Baca Lanjutan**
 
-- [Perang Kognitif](/society/認知作戰) — Kerangka sistematis operasi kognitif dan mekanisme respons Taiwan, dari analisis akademis ke praktik nyata pendidikan kewarganegaraan.
+- [Perang Kognitif](/id/society/cognitive-warfare-against-taiwan) — Kerangka sistematis operasi kognitif dan mekanisme respons Taiwan, dari analisis akademis ke praktik nyata pendidikan kewarganegaraan.
 - [Falun Gong di Taiwan](/id/society/falun-gong-in-taiwan) — Dari Jam Bunga Gunung Yangming ke Taipei 101, cerminan perbandingan lintas selat yang sama, bagaimana kebebasan beragama jadi batu uji nilai demokrasi Taiwan.
 - [Potter King](/id/people/potter-king-youtuber) — Kreator pertama Taiwan di platform terbuka mengungkap detail undangan persatuan ke influencer, cronologis bocoran.
 - [Pa Chiung](/id/people/pa-chiung-political-youtuber) — Dari sutradara dokumenter persatuan ke penyelenggara集会 Ketagalan, upaya kontra masyarakat sipil Taiwan terhadap perang kognitif.
-- [Perang Kognitif Kentang Beracun](/society/毒馬鈴薯認知作戰) — 2022 satu hoaks soal kentang Taiwan, bagaimana jadi kasus tipikal mengamati perang informasi lintas selat.
+- [Perang Kognitif Kentang Beracun](/id/society/poisoned-potato-cognitive-warfare-taiwan) — 2022 satu hoaks soal kentang Taiwan, bagaimana jadi kasus tipikal mengamati perang informasi lintas selat.
 
 ## Referensi
 

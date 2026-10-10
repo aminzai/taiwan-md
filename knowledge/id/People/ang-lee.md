@@ -214,10 +214,10 @@ Brokeback Mountain itu tidak pernah dipindahkan. Ayah yang sepanjang hidup menen
 
 **Bacaan lebih lanjut**:
 
-- [Sinema Taiwan](/art/台灣電影) — alur lengkap dari film berbahasa Taiwan, realisme sehat, Sinema Baru Taiwan, hingga masa kini; tradisi yang diwarisi Ang Lee lalu dibawanya ke dunia
-- [Hou Hsiao-hsien](/people/侯孝賢) — tokoh utama Sinema Baru Taiwan dari generasi yang sama, yang memilih jalur auteur sangat berbeda dari Ang Lee
-- [Edward Yang](/people/楊德昌) — sutradara yang membedah kecemasan modern Taiwan melalui sebuah kota, sekaligus salah satu puncak lain Sinema Baru Taiwan
-- [Tsai Ming-liang](/people/蔡明亮) — sutradara auteur Taiwan yang mendorong kesepian dan kelambatan hingga ke batasnya, berlawanan dengan jalur Hollywood Ang Lee
+- [Sinema Taiwan](/id/art/taiwanese-cinema) — alur lengkap dari film berbahasa Taiwan, realisme sehat, Sinema Baru Taiwan, hingga masa kini; tradisi yang diwarisi Ang Lee lalu dibawanya ke dunia
+- [Hou Hsiao-hsien](/id/people/hou-hsiao-hsien) — tokoh utama Sinema Baru Taiwan dari generasi yang sama, yang memilih jalur auteur sangat berbeda dari Ang Lee
+- [Edward Yang](/id/people/yang-dechang) — sutradara yang membedah kecemasan modern Taiwan melalui sebuah kota, sekaligus salah satu puncak lain Sinema Baru Taiwan
+- [Tsai Ming-liang](/id/people/tsai-ming-liang) — sutradara auteur Taiwan yang mendorong kesepian dan kelambatan hingga ke batasnya, berlawanan dengan jalur Hollywood Ang Lee
 - [André Chiang](/id/people/andre-chiang-taiwanese-culinary-innovator) — kreator Taiwan yang juga meraih nama dalam sistem Barat dan mengajukan pertanyaan yang sama, “Siapakah saya?”, melalui masakan Michelin alih-alih kamera film
 
 ## Sumber gambar

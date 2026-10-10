@@ -224,11 +224,11 @@ Bagaimana menopang 60 tahun lagi, tidak ada siapa pun yang bisa menjawab hanya d
 
 **Bacaan Lanjutan**:
 
-- [Budaya Banzhuo Taiwan](/food/台灣辦桌文化) — Konteks budaya minuman di atas meja warung rechao dan resepsi, posisi Apple Sidra di dalam sistem ini
-- [Budaya Minuman Hand-shaken Taiwan](/food/台灣手搖飲文化) — Dari minuman teh ke minuman berkarbonasi, evolusi apa yang diminum orang Taiwan
-- [Perusahaan Taiwan: Uni-President Enterprises](/economy/台灣企業：統一企業) — Pesaing utama pasar minuman masa yang sama
+- [Budaya Banzhuo Taiwan](/id/food/taiwan-banquet-culture) — Konteks budaya minuman di atas meja warung rechao dan resepsi, posisi Apple Sidra di dalam sistem ini
+- [Budaya Minuman Hand-shaken Taiwan](/id/food/hand-shaken-drink-culture) — Dari minuman teh ke minuman berkarbonasi, evolusi apa yang diminum orang Taiwan
+- [Perusahaan Taiwan: Uni-President Enterprises](/id/economy/taiwan-enterprise-uni-president) — Pesaing utama pasar minuman masa yang sama
 - [Perusahaan Taiwan: I-Mei Foods](/id/economy/imei-foods-corporation) — Merek tua lain yang mengalami krisis keamanan pangan
-- [Pasar Saham dan Pasar Modal Taiwan](/economy/台灣股市與資本市場) — Kasus Sepuluh Perkreditan 1985, Kasus Hongyuan 1990, dan latar belakang era peralihan merek dagang 1985-1995 dalam artikel ini
+- [Pasar Saham dan Pasar Modal Taiwan](/id/economy/taiwan-stock-market) — Kasus Sepuluh Perkreditan 1985, Kasus Hongyuan 1990, dan latar belakang era peralihan merek dagang 1985-1995 dalam artikel ini
 
 ## Sumber Gambar
 

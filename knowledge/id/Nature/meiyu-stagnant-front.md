@@ -97,8 +97,8 @@ Kali berikutnya hp memunculkan peringatan hujan lebat, itulah warisan 1987: satu
 
 ## Bacaan Lanjutan
 
-- [Taufan](/nature/颱風) — Sistem front musiman lain yang bersebelahan dengan hujan mei sebagai dua sumber air utama Taiwan, dengan hujan mei sisi ganda "pengisian air vs bencana" saling menjadi cerminan
-- [Krisis Iklim Taiwan dan Transisi Net Zero](/nature/台灣氣候危機與淨零轉型) — Di bawah pemanasan "hujan musim semi tidak datang, hujan mei terkonsentrasi" bagaimana membentuk ulang risiko sumber daya air dan tekanan transisi energi Taiwan
+- [Taufan](/id/nature/typhoons-in-taiwan) — Sistem front musiman lain yang bersebelahan dengan hujan mei sebagai dua sumber air utama Taiwan, dengan hujan mei sisi ganda "pengisian air vs bencana" saling menjadi cerminan
+- [Krisis Iklim Taiwan dan Transisi Net Zero](/id/nature/taiwan-climate-change-net-zero-transition) — Di bawah pemanasan "hujan musim semi tidak datang, hujan mei terkonsentrasi" bagaimana membentuk ulang risiko sumber daya air dan tekanan transisi energi Taiwan
 
 ## Referensi
 

@@ -111,8 +111,8 @@ Pergeseran paradigma Korea Utara menuju "Teori Dua Negara" membuktikan bahwa "em
 
 ## Bacaan Lanjutan
 
-- [Keluar dari PBB](/history/退出聯合國) — Titik Balik Struktural Status Internasional Taiwan
-- [Perdagangan Luar Negeri Taiwan dan Rantai Pasokan Global](/economy/台灣外貿與全球供應鏈) — Bagaimana Ekspor Berorientasi Membentuk Perdagangan Wilayah Abu-abu
+- [Keluar dari PBB](/id/history/withdrawal-from-united-nations) — Titik Balik Struktural Status Internasional Taiwan
+- [Perdagangan Luar Negeri Taiwan dan Rantai Pasokan Global](/id/economy/taiwan-foreign-trade-and-global-supply-chain) — Bagaimana Ekspor Berorientasi Membentuk Perdagangan Wilayah Abu-abu
 
 ## Referensi
 

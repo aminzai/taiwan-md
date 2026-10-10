@@ -207,16 +207,16 @@ Kali berikut ke Changhua, jangan cuma jalan-jalan Jalan Tua Lukang. Ke Tianwei, 
 
 ## Bacaan Lanjutan
 
-- [Budaya Jalan Tua Taiwan dan Kawasan Komersial](/culture/台灣老街文化與商業街區) — Konteks perbandingan tipe jalan komersial pelabuhan era Qing Lukang dengan jalan tua Taiwan lain
+- [Budaya Jalan Tua Taiwan dan Kawasan Komersial](/id/culture/taiwan-historic-streets-and-commercial-districts) — Konteks perbandingan tipe jalan komersial pelabuhan era Qing Lukang dengan jalan tua Taiwan lain
 - [Sistem Sungai Taiwan dan Karakteristik Hidrologi](/id/geography/taiwan-river-systems-and-hydrology) — Bagaimana Sungai Zhuoshui, Sungai Dadu membentuk Pulau Changhua, latar belakang hidrologi Saluran Bapu
 - [Lanskap Pertanian Taiwan dan Distribusi Industri](/id/geography/taiwan-agricultural-landscapes-and-industry-belts) — Posisi Changhua sebagai kabupaten agraris besar di peta pertanian seluruh Taiwan
 - [Pembagian Wilayah Administrasi Taiwan](/id/geography/administrative-divisions-of-taiwan) — Sejarah administrasi lengkap 1723 pembentukan kabupaten, 1920 ubah jadi Prefektur Taichung, 1945 pembentukan ulang Kabupaten Changhua
-- [Gerakan Sosial dan Partisipasi Warga](/society/社會運動與公民參與) — Posisi Peristiwa Erlin 1925, Gerakan Anti-DuPont 1986 dalam sejarah gerakan sosial Taiwan
+- [Gerakan Sosial dan Partisipasi Warga](/id/society/social-movements-and-civic-participation) — Posisi Peristiwa Erlin 1925, Gerakan Anti-DuPont 1986 dalam sejarah gerakan sosial Taiwan
 - [Lingkungan dan Pembangunan Berkelanjutan](/id/society/environmental-awakening-and-net-zero-transition) — 1986 Anti-DuPont Lukang sebagai titik awal gerakan lingkungan pertama Taiwan
 - [Budaya Kue Kering Taiwan](/id/food/taiwan-pastry-culture) — Asal roti daging Beidou 1898, warisan toko kue kering Lukang ratusan tahun
 - [Taiwan Sugar](/id/economy/taiwan-sugar) — Perusahaan Saham Gula Lin Benyuan di balik Peristiwa Erlin 1925, kekaisaran gula era pendudukan Jepang
 - [Kota Keelung](/id/geography/keelung-city) — Seri 22 Kabupaten/Kota kota lain dibentuk pelabuhan, bandingkan dua jenis "kota pelabuhan merosot" fault line berbeda
-- [Kabupaten Hsinchu](/geography/新竹縣) — Seri 22 Kabupaten/Kota: kampung Hakka mengelilingi Taman Sains, membentuk struktur populasi berbeda di dalam koridor tengah dengan kabupaten agraris Changhua
+- [Kabupaten Hsinchu](/id/geography/hsinchu-county) — Seri 22 Kabupaten/Kota: kampung Hakka mengelilingi Taman Sains, membentuk struktur populasi berbeda di dalam koridor tengah dengan kabupaten agraris Changhua
 
 ## Sumber Gambar
 

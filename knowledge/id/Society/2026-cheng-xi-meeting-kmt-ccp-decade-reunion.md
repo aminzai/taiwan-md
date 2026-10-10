@@ -165,13 +165,13 @@ Singapura 2015 adalah satu jabat tangan, Beijing 2026 adalah satu pertunjukan. P
 
 **Bacaan Lanjutan**:
 
-- [Krisis Selat Taiwan dan Perkembangan Hubungan Lintas Selat](/history/台海危機與兩岸關係發展) — Tujuh puluh tahun sejarah interaksi lintas selat 1949-2016, Pertemuan Cheng-Xi hanyalah bab terbaru di aliran panjang ini.
+- [Krisis Selat Taiwan dan Perkembangan Hubungan Lintas Selat](/id/history/taiwan-strait-crises-and-cross-strait-relations) — Tujuh puluh tahun sejarah interaksi lintas selat 1949-2016, Pertemuan Cheng-Xi hanyalah bab terbaru di aliran panjang ini.
 - [Lingkungan Politik dan Sistem Pemilu Taiwan](/id/society/taiwan-political-landscape-and-electoral-system) — Memahami "mengapa Cheng Li-wen" memerlukan pemahaman perdebatan jalur internal KMT dalam Pemilihan Ketua 2025.
 - [Transformasi Demokrasi Taiwan](/id/history/taiwan-democratization) — Mengapa AIT menekankan "dialog dengan pemimpin terpilih"? Akar prinsip ini ada di sini.
 - [Pertahanan dan Modernisasi Militer Taiwan](/id/society/taiwan-defense-modernization) — Di balik "aranansial institusional pencegahan perang" Cheng, ada pertarungan politik anggaran pertahanan.
-- [Lai Ching-te](/people/賴清德) — Tokoh utama lain dalam pertunjukan ini, yang sengaja dikecualikan dari gambaran.
-- [Cheng Li-wen](/people/鄭麗文) — Dari gadis gerakan mahasiswa mogok lapar untuk kemerdekaan Taiwan di gerbang NTU 1988, hingga Ketua KMT yang di Beijing 2026 berkata "saudara sejenis di kedua sisi selat semuanya adalah orang Tiongkok".
-- [Han Kuo-yu](/people/韓國瑜) — Ketua Yuan Legislatif, pimpin negosiasi anggaran Yuan Legislatif minggu Pertemuan Cheng-Xi; tokoh kunci lain dalam pertunjukan ini.
+- [Lai Ching-te](/id/people/lai-ching-te) — Tokoh utama lain dalam pertunjukan ini, yang sengaja dikecualikan dari gambaran.
+- [Cheng Li-wen](/id/people/cheng-li-wun) — Dari gadis gerakan mahasiswa mogok lapar untuk kemerdekaan Taiwan di gerbang NTU 1988, hingga Ketua KMT yang di Beijing 2026 berkata "saudara sejenis di kedua sisi selat semuanya adalah orang Tiongkok".
+- [Han Kuo-yu](/id/people/han-kuo-yu) — Ketua Yuan Legislatif, pimpin negosiasi anggaran Yuan Legislatif minggu Pertemuan Cheng-Xi; tokoh kunci lain dalam pertunjukan ini.
 - [Taiwan dan Eswatini](/id/society/taiwan-eswatini-relations) — Narasi luar negeri kunjungan Lai Ching-te ke negara mitra diplomatik pada periode yang sama, penempatan berdampingan "Republik Tiongkok (Taiwan) adalah negara berdaulat milik dunia" dengan "saudara sejenis di kedua sisi selat semuanya adalah orang Tiongkok".
 
 ## Referensi

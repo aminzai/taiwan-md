@@ -162,7 +162,7 @@ Hal-hal yang ditinggalkan 42 tahun ini tidak akan lenyap bersama pencabutan itu.
 - [Sastra Taiwan Kontemporer](/id/art/contemporary-taiwanese-literature) — abad ke-21: internasionalisasi Wu Ming-yi, Lin Yi-han, gelombang digital
 - [Sejarah Sastra Taiwan](/id/art/history-of-taiwanese-literature) — alur utuh dari masa Belanda, Ming-Qing, pendudukan Jepang, pascaperang hingga kontemporer
 - [Sastra Masa Pendudukan Jepang](/id/art/taiwanese-literature-during-japanese-rule) — Lai He, Lu Heruo, Zhang Wenhuan, Yang Kui: titik awal pendudukan Jepang, sisi lain kebisuan pascaperang
-- [Lin Liang](/people/林良) — pendiri sastra anak pascaperang yang menyeberang ke Taiwan, karir 57 tahun di _Guoyu Ribao_, "seni bahasa sederhana" menentukan titik awal sastra beberapa generasi anak Taiwan
+- [Lin Liang](/id/people/lin-liang-childrens-literature) — pendiri sastra anak pascaperang yang menyeberang ke Taiwan, karir 57 tahun di _Guoyu Ribao_, "seni bahasa sederhana" menentukan titik awal sastra beberapa generasi anak Taiwan
 - [Teror Putih](/history/白色恐怖) — latar politik: Yeh Shih-tao dipenjara, Yang Kui di Green Island, Lu Heruo di Lukang
 - [Kejadian 228](/id/history/228-incident) — dampak 1947 ke dunia sastra (Wang Deng-ding, Yang Kui, Yeh Tao)
 - [Masa Hukum Darurat](/id/history/martial-law-era) — kondisi politik aktivitas sastra 1949-1987

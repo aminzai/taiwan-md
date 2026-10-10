@@ -233,8 +233,8 @@ Kapan pun seseorang bertanya kepada Anda "Taïwan sebenarnya milik di mana", And
 ## Bacaan Lanjutan
 
 - [Pandangan Sejarah Pulau Taïwan: Pulau yang Diperintah Berulang-ulang, Bagaimana Ia Menemukan Subjektivitasnya](/id/history/taiwan-island-historiography) — Metodologi sejarah pulau Cao Yonghe, memberikan dasar historiografi kepulauan untuk "Pemikiran Kepulauan"
-- [Seni Kontemporer Penduduk Asli Taïwan](/art/台灣原住民當代藝術) — Penduduk Asli Austronesia sebagai pembawa hidup "Kontinuitas Kepulauan", praktik seni kontemporer
-- [Tradisi Musik Penduduk Asli Taïwan](/music/台灣原住民音樂傳統) - Korelasi tinggi antara musik tradisional 16 suku dan musik etnis Oseania, mendukung teori asal-usul Austronesia
+- [Seni Kontemporer Penduduk Asli Taïwan](/id/art/contemporary-indigenous-art-taiwan) — Penduduk Asli Austronesia sebagai pembawa hidup "Kontinuitas Kepulauan", praktik seni kontemporer
+- [Tradisi Musik Penduduk Asli Taïwan](/id/music/indigenous-music-traditions) - Korelasi tinggi antara musik tradisional 16 suku dan musik etnis Oseania, mendukung teori asal-usul Austronesia
 - [Sejarah Perdagangan Maritim Taïwan](/id/history/taiwan-maritime-trade-history) — Dari giok Beinan hingga Era Penjelajahan Laut, tautan maritim Taïwan
 - [Peta Budaya 16 Suku Penduduk Asli Taïwan](/id/culture/indigenous-peoples-16-tribes-cultural-map) — Sistem bahasa 16 suku dan korespondensi dengan sembilan cabang utama Austronesia
 

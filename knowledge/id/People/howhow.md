@@ -129,10 +129,10 @@ Balik ke sore New York 2015. Seorang muda penggemar di bawah seratus ribu, kira 
 
 - [Tsai A-ga: Dari Nenek Moyang Influencer ke Sukarelawan Sosial, Pria yang 18 Tahun Trafik Balikkan Takdir](/id/people/tsai-a-ga-youtuber) — YouTuber Taiwan pertama sejuta, 2014 capai, empat tahun lebih awal Howhow, titik awal timeline profesionalisasi ini.
 - [A-shen](/id/people/red-shin-minecraft-youtuber) — Bareng Holy Stone (2017) lewat ambang sejuta kreator game, strategi survival beda total dengan Howhow.
-- [Zeng Bo-en: Bisa Hitung Titik Tawa, Tak Bisa Hitung Masyarakat](/people/曾博恩) — Sama-sama naik lewat "komedi hitung ritme presisi", tapi dorong titik tawa ke zona isu sosial lebih sensitif dari sponsorship.
+- [Zeng Bo-en: Bisa Hitung Titik Tawa, Tak Bisa Hitung Masyarakat](/id/people/bernard-tseng) — Sama-sama naik lewat "komedi hitung ritme presisi", tapi dorong titik tawa ke zona isu sosial lebih sensitif dari sponsorship.
 - [Zun: Dari Kamar SMP ke Dua Saluran Sejuta, Catatan Dewasa Seorang YouTuber](/id/people/zun) — Sama-sama dari YouTube Taiwan awal, catat terbuka lintas remaja syuting, beban sejuta, dan hari-hari dewasa.
 - [Industri dan Budaya YouTuber Taiwan: Dari Tsai A-ga ke Qi Xuan, Sejarah Evolusi Budaya Digital Satu Pulau](/id/culture/taiwan-youtuber-industry) — Lanskap industri Howhow berada, lihat generasi kreator ini ngejangkau ingatan internet satu generasi.
-- [Ekonomi Kreator Media Mandiri Taiwan: Medan Pertempuran Terpecah 23 Juta Orang](/economy/台灣自媒體創作者經濟) — Dari struktur industri paham "sponsorship kebutuhan survival" di balik aritmatika bagi hasil iklan.
+- [Ekonomi Kreator Media Mandiri Taiwan: Medan Pertempuran Terpecah 23 Juta Orang](/id/economy/taiwan-self-media-creator-economy) — Dari struktur industri paham "sponsorship kebutuhan survival" di balik aritmatika bagi hasil iklan.
 
 ## Sumber Gambar
 

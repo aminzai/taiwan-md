@@ -251,7 +251,7 @@ Yang tersisa adalah orang-orang yang masih menjaga suhu panci soy milk itu, adal
 - [Rice Ball](/id/food/rice-ball) — Evolusi isian dari _nian gao_ Jiangnan ke kedai sarapan Taiwan, latar belakang lengkap sebutir nasi
 - [Makanan Jalanan Taiwan](/id/food/taiwanese-street-food) — Bagaimana ekonomi pedagang kaki lima menopang makanan sehari-hari di Taiwan, sarapan hanyalah salah satu waktu
 - [Budaya Minuman Dingin Taiwan](/id/food/hand-shaken-drink-culture) — Kerabat lain dari _da bing nai_, industri yang juga bisa dibuka oleh siapa saja
-- [Gambaran Umum Makanan Taiwan](/food/台灣美食總覽) — Bergerak melampaui sarapan, peta makanan lengkap Taiwan
+- [Gambaran Umum Makanan Taiwan](/id/food/taiwan-food-overview) — Bergerak melampaui sarapan, peta makanan lengkap Taiwan
 - [Bibi Kedai Sarapan dan Jaringan Intelijen Komunitas](/id/society/breakfast-shops-and-community-intelligence-network) — Lapisan di luar wajan, bagaimana sebuah toko menjadi simpul jalanan
 
 ## Sumber Gambar

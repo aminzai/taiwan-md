@@ -207,8 +207,8 @@ Keesokan kali mendengar saksofon, tiup logam tim sekolah, kotak musik berputar, 
 - [Taiwan UKM dan Juara Tersembunyi](/id/economy/taiwan-smes-and-hidden-champions) — Guru-murim pemukiman industri instrumen musik dan dualisme merek pendidikan, adalah tulang punggung tersembunyi yang lain yang dapat bersuara dari narasi juara tersembunyi
 - [Taichung](/id/geography/taichung-city) — Saksofon Houli, Kotak Musik Wufeng, lini pukulan Tanzuo, kota yang sama rasionalitas industri berbeda
 - [Kaohsiung](/id/geography/kaohsiung-city) — Kerajaan Gitar Kawasan Pemrosesan Ekspor Nanziz dan koordinat geografi memori penutupan pabrik
-- [Musik Nasional Taiwan](/music/台灣國樂) — Naik turun pabrik instrumen musik nasional dan garis manufaktur instrumen musik lain setelah pembukaan daratan (artikel ini hanya pita tipis)
-- [Industri Musik Taiwan dan Era Streaming](/music/台灣音樂產業與串流時代) — Perbandingan struktur industri dari ujung manufaktur ke ujung konten dan hak cipta
+- [Musik Nasional Taiwan](/id/music/taiwanese-traditional-chinese-orchestra-music) — Naik turun pabrik instrumen musik nasional dan garis manufaktur instrumen musik lain setelah pembukaan daratan (artikel ini hanya pita tipis)
+- [Industri Musik Taiwan dan Era Streaming](/id/music/taiwan-music-industry-and-the-streaming-era) — Perbandingan struktur industri dari ujung manufaktur ke ujung konten dan hak cipta
 
 ## Sumber Gambar
 

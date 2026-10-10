@@ -179,7 +179,7 @@ Pertanyaan «Guo Guoyue adalah negara mana», mungkin dari dulu tidak perlu jawa
 - [Musik Hakka Taiwan](/id/music/taiwan-hakka-music-from-mountain-songs-to-rock) — Lagu gunung Hakka yang banyak dipentaskan Orkestra Nasional Kota Kaohsiung, jalan lain Guoyue selatan Taiwan
 - [Pembuatan Alat Musik Taiwan](/id/music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories) — Dari saksofon Houlí ke alat Guoyue, bagaimana Taiwan dari «pengguna» jadi «pembuat»
 - [Gerakan Lagu Rakyat Taiwan](/id/music/taiwan-campus-folk-song-movement) — Gerakan 1970-an «Nyanyi Lagu Sendiri», semangat era yang sama dengan pelokalan Guoyue
-- [Lanskap Suara Taiwan](/music/台灣聲音地景) — Bagaimana lingkungan suara pulau meresap ke telinga komponis
+- [Lanskap Suara Taiwan](/id/music/taiwan-soundscape) — Bagaimana lingkungan suara pulau meresap ke telinga komponis
 - [Musik Rakyat dan Lagu-Lagu Taiwan](/id/music/taiwan-folk-music-and-songs) — Nanguan, Beiguan, lagu-lagu berbahasa Taiwan, tradisi suara yang sudah ada di pulau sebelum Guoyue melintasi selat
 
 ## Referensi

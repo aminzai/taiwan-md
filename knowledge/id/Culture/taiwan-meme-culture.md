@@ -104,7 +104,7 @@ Menatap kembali tiga puluh tahun, budaya meme Taiwan memantulkan kompleksitas pu
 
 - [PTT批踢踢](/id/technology/ptt-bulletin-board-system) — Tempat lahir mayoritas meme dan budaya "xiangmin" Taiwan
 
-- [馬英九迷因](/society/馬英九迷因) — Studi kasus klasik pememetan tokoh politik
+- [馬英九迷因](/id/society/ma-ying-jeou-meme) — Studi kasus klasik pememetan tokoh politik
 
 - [長輩圖](/id/culture/elder-greeting-images) — Jalur penyebaran internet khas Taiwan lainnya
 

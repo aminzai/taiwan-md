@@ -107,7 +107,7 @@ Pada akhir tahun 2023, total lebih dari 140.000 orang di seluruh Taiwan telah me
 
 - [Budaya Agama dan Candi di Taiwan](/id/culture/taiwan-religion-and-temple-culture) — Keyakinan lintas bangsa memengaruhi pandangan terhadap pemakaman
 - [Adat Istiadat Pernikahan, Penguburan, dan Kehidupan di Taiwan](/id/culture/taiwanese-life-ceremony-traditions) — Spektrum lengkap adat istihadat dari kelahiran hingga kematian
-- [Keadilan Lingkungan dan Konflik Penghindaran di Taiwan](/society/台灣環境正義與鄰避爭議) — Konflik sosial dari pabrik pembakaran, pemilihan lokasi makam
+- [Keadilan Lingkungan dan Konflik Penghindaran di Taiwan](/id/society/taiwan-environmental-justice-nimby-conflicts) — Konflik sosial dari pabrik pembakaran, pemilihan lokasi makam
 
 ## Referensi
 

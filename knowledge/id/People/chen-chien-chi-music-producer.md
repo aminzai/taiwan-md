@@ -202,15 +202,15 @@ Ini 25 tahun seorang produser. Bukan momen red carpet, tapi malam lampu studio n
 
 **Baca Lanjutan**:
 
-- [Wei Ru-xuan](/people/魏如萱) — Konkretisasi hubungan mentor-produser 25+ tahun Chen Chien-chi; dari Sodagreen ke 《Pearl Punishment》 satu lintasan suara
+- [Wei Ru-xuan](/id/people/waa-wei-singer) — Konkretisasi hubungan mentor-produser 25+ tahun Chen Chien-chi; dari Sodagreen ke 《Pearl Punishment》 satu lintasan suara
 - [Hsu Chia-ling](/id/people/lala-hsu-singer) — Titik awal Chen Chien-chi masuk produksi pop (〈Lost Sandbar〉 2008)
-- [Tien Fu-chen](/people/田馥甄) — Chen Chien-chi Golden Melody 2021 Produser Album Terbaik 《No One Knows》
-- [Yang Cheng-lin](/people/楊丞琳) — Perbandingan konstruksi identitas penyanyi wanita pop Mandarin segen (Yang Cheng-lin produksi sendiri, Chen Chien-chi produksi orang lain)
-- [Golden Melody](/music/金曲獎) — Tiga Golden Melody Chen Chien-chi melintasi aransemen / single / produksi album koordinat lengkap
-- [Pop Mandarin Taiwan](/music/台灣流行音樂) — Sejarah garis merah suara yang Chen Chien-chi robohin 25 tahun
-- [Musik Independan Taiwan](/music/台灣獨立音樂) — Posisi label "Good Many Music" "HerMusic" Chen Chien-chi di ekosistem musik independen
-- [Ke Chih-tang](/people/柯智棠) — Penyanyi folk Inggris tiga album produksi penuh Chen Chien-chi, pemenang bersama Golden Bell 2025 Lagu Asli 〈God's Reply〉
-- [Lin You-jia](/people/林宥嘉) — Chen Chien-chi 2012《The Great Novelist》、2016《Open for Business》 dua kali ikut tim produksi, lintasan Lin You-jia dari penyanyi yang ditulis jadi produser sendiri
+- [Tien Fu-chen](/id/people/hebe-tien-singer) — Chen Chien-chi Golden Melody 2021 Produser Album Terbaik 《No One Knows》
+- [Yang Cheng-lin](/id/people/rainie-yang) — Perbandingan konstruksi identitas penyanyi wanita pop Mandarin segen (Yang Cheng-lin produksi sendiri, Chen Chien-chi produksi orang lain)
+- [Golden Melody](/id/music/pop-music-and-golden-melody-awards) — Tiga Golden Melody Chen Chien-chi melintasi aransemen / single / produksi album koordinat lengkap
+- [Pop Mandarin Taiwan](/id/music/golden-melodies-legacy-taiwan-pop-music) — Sejarah garis merah suara yang Chen Chien-chi robohin 25 tahun
+- [Musik Independan Taiwan](/id/music/indie-music-scene) — Posisi label "Good Many Music" "HerMusic" Chen Chien-chi di ekosistem musik independen
+- [Ke Chih-tang](/id/people/ke-zhi-tang-musician) — Penyanyi folk Inggris tiga album produksi penuh Chen Chien-chi, pemenang bersama Golden Bell 2025 Lagu Asli 〈God's Reply〉
+- [Lin You-jia](/id/people/yoga-lin) — Chen Chien-chi 2012《The Great Novelist》、2016《Open for Business》 dua kali ikut tim produksi, lintasan Lin You-jia dari penyanyi yang ditulis jadi produser sendiri
 - [Huang Shao-yong](/id/people/huang-shao-yong-musician) — Produser utama lain 《Pearl Punishment》; Chen Chien-chi robohin garis merah suara Mandarin, Huang Shao-yong robohin garis merah bahasa non-Mandarin (Paiwan/Amis/Taiwanese) yang sama
 
 ## Referensi

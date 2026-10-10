@@ -125,8 +125,8 @@ Swinhoe 160 tahun lalu di Tamsui tulis "langka" dua kata. Hari ini kita di Taman
 - [Ornithologi Formosa](/id/nature/the-ornithology-of-formosa) — 1865 Swinhoe di Tamsui tulis "Malayan Night Heron langka" adalah titik awal ornithologi pulau ini satu catatan
 - [Ekosistem Hutan Taiwan](/id/nature/taiwan-forest-ecosystems) — Habitat hutan latar lebar dataran rendah asli Malayan Night Heron, memahami grup kontrol perkotaannya
 - [Monyet Taiwan](/id/nature/formosan-rock-macaque) — Kasus lain satwa liar masuk jangkauan aktivitas manusia, dengan Malayan Night Heron ekspansi berlawanan: manusia terus di jalan menabrak dia
-- [Spesis Endemik](/nature/特有種) — Malayan Night Heron bukan spesis endemik Taiwan, tapi populasi perkotaannya di Taiwan skala ekspansi global hanya ada di sini
-- [Pohon Jalanan Taiwan](/lifestyle/台灣行道樹) — Kelompok pohon jalanan kamper dan beringin yang matang setelah 1990-an, dipotong memanjang diletakkan di antara beton hutan latar lebar dataran rendah, adalah sisi lain habitat perkotaan Malayan Night Heron
+- [Spesis Endemik](/id/nature/endemic-species) — Malayan Night Heron bukan spesis endemik Taiwan, tapi populasi perkotaannya di Taiwan skala ekspansi global hanya ada di sini
+- [Pohon Jalanan Taiwan](/id/lifestyle/taiwan-street-trees) — Kelompok pohon jalanan kamper dan beringin yang matang setelah 1990-an, dipotong memanjang diletakkan di antara beton hutan latar lebar dataran rendah, adalah sisi lain habitat perkotaan Malayan Night Heron
 
 ## Sumber Gambar
 

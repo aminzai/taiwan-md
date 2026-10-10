@@ -118,9 +118,9 @@ Bendera macan kuning itu di kotak kaca museum. Dia diam. Cerita 148 hari semuany
 
 **Baca Lebih Lanjut**:
 
-- [Tiga Orang Asing Lihat Perang Tahun Acar: Album Fotografer, Catatan Jurnalis, Harian Pendeta](/history/三個外國人看乙未) — Seri D-2. Fotografer Jepang Endo Makoto, jurnalis AS Davidson, pendeta Jepang Hosokawa Nagare——tiga dokumen saksi mata bahasa asing paling penting Perang Tahun Acar, serta keterbatasan perspektif di balik ketiga dokumen itu
-- [Masa Pemerintahan Qing (清治時期)](/history/清治時期) — Perang Tahun Acar adalah titik akhir Masa Pemerintahan Qing, memahami alur dua ratus tahun pemerintahan Taiwan
-- [Masa Pendudukan Jepang (日治時期)](/history/日治時期) — Republik Demokratik lenyap, titik awal Jepang memerintah Taiwan lima puluh tahun
+- [Tiga Orang Asing Lihat Perang Tahun Acar: Album Fotografer, Catatan Jurnalis, Harian Pendeta](/id/history/three-foreigners-witness-1895-taiwan) — Seri D-2. Fotografer Jepang Endo Makoto, jurnalis AS Davidson, pendeta Jepang Hosokawa Nagare——tiga dokumen saksi mata bahasa asing paling penting Perang Tahun Acar, serta keterbatasan perspektif di balik ketiga dokumen itu
+- [Masa Pemerintahan Qing (清治時期)](/id/history/qing-dynasty-rule) — Perang Tahun Acar adalah titik akhir Masa Pemerintahan Qing, memahami alur dua ratus tahun pemerintahan Taiwan
+- [Masa Pendudukan Jepang (日治時期)](/id/history/japanese-colonial-era) — Republik Demokratik lenyap, titik awal Jepang memerintah Taiwan lima puluh tahun
 - [Perang Qing-Prancis (清法戰爭)](/id/history/sino-french-war-in-taiwan) — Sepuluh tahun lalu tentara Prancis menyerang Taiwan, Liu Ming-chuan pertahankan Keelung. Sepuluh tahun lalu, provinsi yang dia bangun diserahkan
 - [Robert Swinhoe (史溫侯)](/id/people/robert-swinhoe-naturalist) — Tiga puluh tahun lalu konsul Inggris di pulau yang sama mencatat sejarah alam, saat Perang Tahun Acar dunia itu sudah berakhir
 

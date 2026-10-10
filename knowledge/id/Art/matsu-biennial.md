@@ -227,7 +227,7 @@ Pada tanggal 22 Juli 2026, Bupati Wang Zhong-ming memimpin delegasi untuk mengun
 
 **Bacaan Lanjutan**:
 
-- [Kabupaten Lianjiang](/geography/連江縣) — Tinjauan umum administrasi Kabupaten Mazu, sejarah politik medan perang, dan konteks geopolitik Perang Dingin
+- [Kabupaten Lianjiang](/id/geography/lienchiang-county) — Tinjauan umum administrasi Kabupaten Mazu, sejarah politik medan perang, dan konteks geopolitik Perang Dingin
 - [Kabupaten Kinmen](/id/geography/kinmen-county) — Pulau garis depan lainnya, yang dapat dibandingkan dengan perbedaan jalur transisi medan perang di kedua wilayah tersebut
 - [Masa Darurat Militer](/id/history/martial-law-era) — Wilayah Kin-Ma baru mencabut status medan perangnya pada tahun 1992, lima tahun lebih lambat dari Taiwan daratan
 - [Krisis Selat Taiwan dan Perkembangan Hubungan Lintas Selat](/id/history/taiwan-strait-crises-and-cross-strait-relations) — Konteks lengkap Perang Rudal '823' dan doktrin "Tidak Menyerang Dua Kali"

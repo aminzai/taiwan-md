@@ -159,7 +159,7 @@ Yang ditinggalkan bukan hanya beberapa drama bagus, melainkan sebuah jawaban yan
 
 **Bacaan Lanjutan**:
 
-- [Golden Bell](/culture/金鐘獎) — 《天黑請閉眼》《花甲男孩轉大人》 dua kali berturut-turut memenangkan Penghargaan Program Drama, nama 「好風光」 pertama kali muncul di kolom unit pemenang
+- [Golden Bell](/id/culture/golden-bell-awards) — 《天黑請閉眼》《花甲男孩轉大人》 dua kali berturut-turut memenangkan Penghargaan Program Drama, nama 「好風光」 pertama kali muncul di kolom unit pemenang
 
 ## Referensi
 

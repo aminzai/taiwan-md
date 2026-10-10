@@ -134,7 +134,7 @@ Di era penuh ketidakpastian ini, kisah HTC memberitahu kita: selama mempertahank
 
 ## Bacaan Lanjutan
 
-- [Kisah Teknologi Taiwan: Chip 100 Poin, Mikrofon 60 Poin](/technology/台灣科技說故事) — Mengapa Quietly Brilliant Kalah dari Lawan yang Jago Bercerita, Pelajaran HTC Ditulis Menjadi Seluruh Artikel
+- [Kisah Teknologi Taiwan: Chip 100 Poin, Mikrofon 60 Poin](/id/technology/taiwan-tech-storytelling) — Mengapa Quietly Brilliant Kalah dari Lawan yang Jago Bercerita, Pelajaran HTC Ditulis Menjadi Seluruh Artikel
 
 ## Referensi
 

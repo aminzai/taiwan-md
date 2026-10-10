@@ -83,11 +83,11 @@ Baca selesai kisahnya, kita tanya diri: di era algoritma tentuin apa yang kita l
 
 **Bacaan Lanjutan**
 
-- [Zheng Nanrong](/people/鄭南榕) — Penerus generasi berikutnya yang menggerakkan kebebasan bicara era Yin Haiguang ke puncak "pembakaran diri mempertahankan"
+- [Zheng Nanrong](/id/people/zheng-nanrong) — Penerus generasi berikutnya yang menggerakkan kebebasan bicara era Yin Haiguang ke puncak "pembakaran diri mempertahankan"
 - [Xu Zhuoyun](/id/people/cho-yun-hsu-bridging-historian) — Sarjana sejarah pemikiran yang juga di 1960-an di sistem Universitas Taiwan, Akademi Sinica mendorong modernisasi humaniora sains sosial
 - [Teror Putih Taiwan](/id/history/taiwan-white-terror) — Konteks politik utuh di balik bebekuan Yin Haiguang, penjara Lei Zhen, pelarangan _Prospek Budaya Tionghoa_
 - [Masa Hukum Darurat](/id/history/martial-law-era) — Kerangka hukum dan politik di balik kasus Lei Zhen, bangkrut toko buku Wenxing, pemberhentian _Free China_
-- [Kejadian 228](/history/二二八事件) — Terjadi dua tahun sebelum Yin Haiguang datang, membentuk kejut awalnya terhadap "kewenangan parti-negara"
+- [Kejadian 228](/id/history/228-incident) — Terjadi dua tahun sebelum Yin Haiguang datang, membentuk kejut awalnya terhadap "kewenangan parti-negara"
 
 ---
 

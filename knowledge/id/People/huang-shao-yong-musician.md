@@ -116,11 +116,11 @@ Ia belum meraih penghargaan produser. Tapi Dark Paradise Records sepuluh tahun, 
 
 ## Bacaan Lanjutan
 
-- [Chen Chien-chi](/people/陳建騏) — Kasus lain "penulis tidak hadir" musik pop Mandarin; produser utama lain _Hukuman Mutiara_, dengan Huang Shao-yong membentuk kerja ganda batas suara "Mandarin/non-Mandarin"
-- [Waa Wei](/people/魏如萱) — Penyanyi kolaborasi Huang Shao-yong dari era Matelin hingga _Hukuman Mutiara_, lebih dari sepuluh tahun; dua kali Ratu Anugerah Golden Melody, menolak suara yang dikenali
-- [A-mei](/people/阿爆) — Penyanyi dan pemilik _kinakaian Lidah Ibu_, bersama Huang Shao-yong memimpin kursus produksi musik elektronik bahasa suku asli MINETJUS
-- [Cheng Yi-nung](/people/鄭宜農) — Musisi bahasa Taiwan/ibu segenerasi, "menulis lagu paling jujur dengan bahasa paling asing" meraih dua penghargaan Anugerah Golden Melody bahasa Taiwan
-- [Rainie Yang](/people/楊丞琳) — Penyanyi dari "diproduksi" ke "memproduksi sendiri" sebagai sumbu kontras; pekerjaan produser seperti Huang Shao-yong, justru prasyarat ekologi bagi penyanyi akhirnya memegang hak produksi
+- [Chen Chien-chi](/id/people/chen-chien-chi-music-producer) — Kasus lain "penulis tidak hadir" musik pop Mandarin; produser utama lain _Hukuman Mutiara_, dengan Huang Shao-yong membentuk kerja ganda batas suara "Mandarin/non-Mandarin"
+- [Waa Wei](/id/people/waa-wei-singer) — Penyanyi kolaborasi Huang Shao-yong dari era Matelin hingga _Hukuman Mutiara_, lebih dari sepuluh tahun; dua kali Ratu Anugerah Golden Melody, menolak suara yang dikenali
+- [A-mei](/id/people/aljenljeng-tjaluvie-abao) — Penyanyi dan pemilik _kinakaian Lidah Ibu_, bersama Huang Shao-yong memimpin kursus produksi musik elektronik bahasa suku asli MINETJUS
+- [Cheng Yi-nung](/id/people/cheng-i-nung) — Musisi bahasa Taiwan/ibu segenerasi, "menulis lagu paling jujur dengan bahasa paling asing" meraih dua penghargaan Anugerah Golden Melody bahasa Taiwan
+- [Rainie Yang](/id/people/rainie-yang) — Penyanyi dari "diproduksi" ke "memproduksi sendiri" sebagai sumbu kontras; pekerjaan produser seperti Huang Shao-yong, justru prasyarat ekologi bagi penyanyi akhirnya memegang hak produksi
 
 ## Referensi
 

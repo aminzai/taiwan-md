@@ -175,7 +175,7 @@ Ia memakai seumur hidup pengembaraan, menanyakan pertanyaan "siapa aku" ini bagi
 
 **Bacaan Lanjutan**:
 
-- [Populer Musik Taiwan: Dari Nakasi Hingga Jay Chou, Bagaimana Sebuah Pulau Menyanyikan Suara Sendiri](/music/台灣流行音樂) — Lo Ta-yu adalah tokoh kunci yang menghubungkan masa lalu dan masa depan dalam sejarah komunik ini
+- [Populer Musik Taiwan: Dari Nakasi Hingga Jay Chou, Bagaimana Sebuah Pulau Menyanyikan Suara Sendiri](/id/music/golden-melodies-legacy-taiwan-pop-music) — Lo Ta-yu adalah tokoh kunci yang menghubungkan masa lalu dan masa depan dalam sejarah komunik ini
 - [Gerakan Lagu Rakyat Taiwan: Bagaimana "Menyanyikan Lagu Sendiri" Menulis Ulang Populer Musik Taiwan](/id/music/taiwan-campus-folk-song-movement) — Gelombang sebelum bangkitnya Lo Ta-yu, memahami dia harus memahami era itu dahulu
 - [Anugerah Golden Melody: Bagaimana Taiwan Menggunakan Satu Penghargaan Mendefinisikan Musik Mandarin](/id/music/pop-music-and-golden-melody-awards) — Lo Ta-yu menerima Anugerah Kontribusi Khusus ke-32 Golden Melody Awards 2021
 - [Sylvia Chang: Dari Gadis Manis ke Ratu Film Golden Horse, Legenda Dual Film dan Musik Taiwan](/id/people/sylvia-chang) — Album _Masa Kanak-kanak_ 1981 memperkenalkan ciptaan Lo Ta-yu 〈Masa Kanak-kanak〉〈Cerita Waktu〉 pertama kali

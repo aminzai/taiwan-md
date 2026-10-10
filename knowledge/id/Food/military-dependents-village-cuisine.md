@@ -125,5 +125,5 @@ Koki generasi baru mulai menafsirkan kembali masakan desa militer, mempertahanka
 
 ## Bacaan Lanjutan
 
-- [Sejarah Desa Militer Taiwan](/history/台灣眷村歷史) — Garis lengkap desa militer dari pagar bambu hingga peraturan pembangunan kembali
+- [Sejarah Desa Militer Taiwan](/id/history/taiwan-military-dependents-villages-history) — Garis lengkap desa militer dari pagar bambu hingga peraturan pembangunan kembali
 - [Basis Data Memori Budaya Nasional](https://tcmb.culture.tw/zh-tw) — Basis data memori budaya lokal Kementerian Kebudayaan, yang mengumpulkan sejarah lisan dan artefak

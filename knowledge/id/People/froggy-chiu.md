@@ -106,7 +106,7 @@ Ketidakpastian ini bukan cacat cerita, tapi syarat kehidupan demokrasi sendiri.
 **Baca Lanjutan:**
 
 - [Industri dan Budaya YouTuber Taiwan](/id/culture/taiwan-youtuber-industry) — Dari Cai Aga, Penghargaan Zouzhong ke VTuber, lengkapi latar panjang industri audiovisual internet Taiwan.
-- [Zeng Bo'en](/people/曾博恩) — Jalur lain kreator Taiwan dari konten internet masuk isu publik dan pertunjukan lapangan.
+- [Zeng Bo'en](/id/people/bernard-tseng) — Jalur lain kreator Taiwan dari konten internet masuk isu publik dan pertunjukan lapangan.
 - [Situs Resmi Penghargaan Zouzhong](https://walkbelljohn.com/) — Ikuti perkembangan organisasi penghargaan kreator Taiwan selanjutnya.
 
 ## Referensi

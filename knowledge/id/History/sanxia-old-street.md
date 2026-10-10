@@ -59,8 +59,8 @@ Kisah old street terus berlanjut. Ia bukan lagi sekadar tempat jual beli komersi
 
 **Bacaan Lanjutan**:
 
-- [Celup Biru](/culture/藍染) — Kerajinan yang membuat pabrik celup Sanchongyong berjejer: sejarah pemulihan lengkap dari komoditas ekspor besar era Qing hingga 1999 mencelupkan kain biru pertama setelah tujuh puluh tahun
-- [Kerajinan Tradisional dan Warisan Budaya Tak Benda Taiwan](/culture/台灣傳統工藝與無形文化資產) — Posisi pemulihan celup biru Sanxia di dalam sistem pelestarian kerajinan Taiwan
+- [Celup Biru](/id/culture/taiwan-indigo-dyeing) — Kerajinan yang membuat pabrik celup Sanchongyong berjejer: sejarah pemulihan lengkap dari komoditas ekspor besar era Qing hingga 1999 mencelupkan kain biru pertama setelah tujuh puluh tahun
+- [Kerajinan Tradisional dan Warisan Budaya Tak Benda Taiwan](/id/culture/traditional-crafts-intangible-cultural-heritage) — Posisi pemulihan celup biru Sanxia di dalam sistem pelestarian kerajinan Taiwan
 
 ## Referensi
 

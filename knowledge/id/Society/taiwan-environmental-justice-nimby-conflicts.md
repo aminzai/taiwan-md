@@ -222,12 +222,12 @@ Pengambilan keputusan lingkungan masyarakat demokratis harus didasarkan pada inf
 
 **Bacaan Lanjutan**:
 
-- [Ruang Merokok Taipei: Kotak Kaca yang Bernafas di Kota Tanpa Asap](/society/台北吸菸室) — Masalah di halaman siapa ruang merokok harus dibangun, apakah gelandangan akan berkumpul, adalah dilema NIMBY skala jalan raya
+- [Ruang Merokok Taipei: Kotak Kaca yang Bernafas di Kota Tanpa Asap](/id/society/taipei-smoking-room) — Masalah di halaman siapa ruang merokok harus dibangun, apakah gelandangan akan berkumpul, adalah dilema NIMBY skala jalan raya
 
 - [Taiwan dan Diskusi Energi Nuklir](/id/society/taiwan-nuclear-debate) — Penduduk Tao Lanyu menanggung limbah nuklir tetapi tidak berada di pusat debat: lapisan ketidakadilan NIMBY dan lingkungan paling dalam dalam kontroversi nuklir
 - [Rumah Besi](/id/society/taiwan-tin-shed-houses) — Relokasi Tuanzicun adalah kasus tipikal keadilan lingkungan: kesulitan pencemaran, pembongkaran, dan penempatan kembali agregat pabrik besi bergelombang 400 hektar
 - [Perumahan Sosial dan Keadilan Perumahan](/id/society/social-housing-and-housing-justice) — Aspek kebijakan masalah perumahan: pasokan perumahan sosial dan reformasi pasar rental
-- [Lu Hsiu-yen](/people/盧秀燕) — Tokoh politik yang menang dengan isu udara pada tahun 2018, Pembangkit Listrik Zhonghuo, PM2.5, medan perang kebijakan konkret transformasi energi
+- [Lu Hsiu-yen](/id/people/lu-hsiu-yan) — Tokoh politik yang menang dengan isu udara pada tahun 2018, Pembangkit Listrik Zhonghuo, PM2.5, medan perang kebijakan konkret transformasi energi
 - [Krisis Iklim Taiwan dan Transisi Nol Bersih](/id/nature/taiwan-climate-change-net-zero-transition) — 97,672 tong Lanyu, referendum Nuklir Tiga 2025, usaha pengalihan Algae Reef, kekurangan panas bumi 27 kali: setiap jalur transformasi energi sesuai dengan lapisan ketidakadilan lingkungan
 
 ## Referensi

@@ -178,7 +178,7 @@ Semikonduktor bikin Taiwan dibutuhkan dunia. Listrik ngingetin Taiwan: dibutuhka
 ## Bacaan Lanjutan
 
 - [Rantai Pasokan Perangkat Keras AI](/id/technology/ai-hardware-supply-chain) — Bagaimana Taiwan mengubah kebutuhan awan jadi mesin yang bisa dikirim.
-- [Air Semikonduktor dan Sumber Daya Air Taiwan](/technology/半導體用水與台灣水資源) — Bagaimana manufaktur wafer masuk ke waduk, kekeringan, dan tata kelola air daur ulang.
+- [Air Semikonduktor dan Sumber Daya Air Taiwan](/id/technology/semiconductor-water-use-and-taiwan-water-resources) — Bagaimana manufaktur wafer masuk ke waduk, kekeringan, dan tata kelola air daur ulang.
 - [Pabrik Luar Negeri Rantai Pasokan AI](/id/technology/ai-supply-chain-overseas-manufacturing) — Bagaimana pabrik luar negeri mengikat rantai pasokan, listrik, dan infrastruktur lokal bersama-sama.
 - [Perusahaan Taiwan: TSMC](/id/economy/tsmc) — Bagaimana model pure-play foundry jadi bottleneck chip canggih global.
 

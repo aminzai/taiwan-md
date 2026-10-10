@@ -141,7 +141,7 @@ Open source di Taiwan tidak pernah sekadar urusan komunitas teknis. Ia adalah se
 ## Bacaan Lanjutan
 
 - [Komunitas Sumber Terbuka dan g0v](/id/technology/open-source-and-g0v) — narasi kolektif tentang fork pemerintah
-- [Sejarah Migrasi Komunitas Internet Taiwan](/technology/台灣網路社群遷徙史) — sejarah lintas generasi dari BBS ke Discord
+- [Sejarah Migrasi Komunitas Internet Taiwan](/id/technology/taiwan-online-community-migration) — sejarah lintas generasi dari BBS ke Discord
 - [Mini Taiwan Pulse](/id/technology/mini-taiwan-pulse-civic-tech) — wujud open source personal dalam teknologi sipil, enam minggu 193 commit mengubah data terbuka jadi jejak cahaya 3D
 - [Dua Pedang Softstar](/id/technology/softstar-twin-classics) — kisah Taiwan lain soal "berkarya melampaui skala karena semangat" (RPG yang lahir dari Guanghua Market)
 - [Peta Zhongyue Taiwan](/id/technology/into-the-cellar-taiwan-game-podcast) — komunitas 6 juta anggota yang tumbuh dari asrama Universitas Central

@@ -141,10 +141,10 @@ Metode berubah. Semangat "ada seseorang yang meletakkan jawaban di sini untuk An
 
 ## Bacaan Lanjutan
 
-- [Sejarah Migrasi Komunitas Daring Taiwan](/technology/台灣網路社群遷徙史) — Dari BBS ke Threads, sejarah perpindahan platform komunitas orang Taiwan
-- [Semangat Sumber Terbuka Taiwan](/technology/台灣開源精神) — Sekelompok orang Taiwan lainnya "menggunakan cinta untuk menghasilkan listrik"
-- [PTT PiTiTi](/technology/PTT批踢踢) — BBS tertua di Taiwan, produk sezaman dengan Bahamut
-- [Pedang Kembar Da Yu](/technology/大宇雙劍) — Sumber启蒙 emosional permainan PC Taiwan sezaman
+- [Sejarah Migrasi Komunitas Daring Taiwan](/id/technology/taiwan-online-community-migration) — Dari BBS ke Threads, sejarah perpindahan platform komunitas orang Taiwan
+- [Semangat Sumber Terbuka Taiwan](/id/technology/taiwan-open-source-spirit) — Sekelompok orang Taiwan lainnya "menggunakan cinta untuk menghasilkan listrik"
+- [PTT PiTiTi](/id/technology/ptt-bulletin-board-system) — BBS tertua di Taiwan, produk sezaman dengan Bahamut
+- [Pedang Kembar Da Yu](/id/technology/softstar-twin-classics) — Sumber启蒙 emosional permainan PC Taiwan sezaman
 - [Momen Gila Pemain Taiwan](/id/technology/taiwan-gamers-wildest-moments) — Histeria kolektif pemain generasi Cellar/Gamebase/Bahamut
 
 ---

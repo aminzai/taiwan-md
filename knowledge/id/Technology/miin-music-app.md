@@ -133,8 +133,8 @@ Jadi, lain kali Anda melihat postingan "Mari kita pergi ke miin", ingatlah: yang
 
 - [Du Yichin](/id/people/ethan-tu) — Dari membangun PTT dengan komputer 486, ke Cortana di Microsoft, hingga AI non-profit di Taiwan: tiga puluh tahun
 - [Taiwan AI Labs](/id/technology/taiwan-ai-labs) — Lembaga AI non-profit di balik Miin, dari TAIDE hingga perlawanan terhadap cognitive warfare
-- [Cognitive Warfare](/society/認知作戰) — Mengapa Taiwan ditulis sebagai garis depan dalam studi informasi ini
-- [Sejarah Migrasi Komunitas Media Sosial Taiwan](/technology/台灣網路社群遷徙史) — Dari BBS, Wuming Xiaozhan, hingga Threads: cerita orang Taiwan yang pindah rumah berulang kali
+- [Cognitive Warfare](/id/society/cognitive-warfare-against-taiwan) — Mengapa Taiwan ditulis sebagai garis depan dalam studi informasi ini
+- [Sejarah Migrasi Komunitas Media Sosial Taiwan](/id/technology/taiwan-online-community-migration) — Dari BBS, Wuming Xiaozhan, hingga Threads: cerita orang Taiwan yang pindah rumah berulang kali
 
 ## Sumber Gambar
 

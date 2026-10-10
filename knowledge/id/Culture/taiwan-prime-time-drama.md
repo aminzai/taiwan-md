@@ -60,7 +60,7 @@ Dengan menempatkan eight-point schedule Taiwan dalam perspektif internasional, s
 
 **Bacaan lanjutan**:
 
-- [Penghargaan Jinzhong](/culture/金鐘獎) — Pada masa "Bintang yang Mengetahui Hatiku" dan "Bupati Qing", unit pemenang penghargaan drama tidak pernah jauh dari TV Taiwan, TV Tiong Hoa, dan TV Asia.
+- [Penghargaan Jinzhong](/id/culture/golden-bell-awards) — Pada masa "Bintang yang Mengetahui Hatiku" dan "Bupati Qing", unit pemenang penghargaan drama tidak pernah jauh dari TV Taiwan, TV Tiong Hoa, dan TV Asia.
 
 ## Sumber Referensi
 

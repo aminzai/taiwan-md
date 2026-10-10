@@ -100,7 +100,7 @@ Hal ini berbeda dengan perkembangan [komik Taiwan](/id/art/taiwanese-comics-and-
 ## Bacaan Lanjutan
 
 - [Komik Taiwan](/id/art/taiwanese-comics-and-illustration) — Sisi kreasi komik: genealog lengkap Zheng Wen, Tsai Chih-chung, Liu Hsing-chin, Ao Yu-hsiang, dan Koleksi Kreasi CCC
-- [Sejarah Migrasi Komunitas Internet Taiwan](/technology/台灣網路社群遷徙史) — Sumbu migrasi penggemar anime di BBS, Wretch (無名小站), Facebook, Discord
+- [Sejarah Migrasi Komunitas Internet Taiwan](/id/technology/taiwan-online-community-migration) — Sumbu migrasi penggemar anime di BBS, Wretch (無名小站), Facebook, Discord
 - [Threads di Taiwan](/id/technology/threads-in-taiwan) — Pola pengumpulan komunitas dua dimensi (ACG) di platform baru
 
 ## Referensi

@@ -216,10 +216,10 @@ Juni 2025 tayang perdana media itu, tanah berguncang sebelum layar menyala. Seor
 
 - [Tsai Ing-wen](/id/people/tsai-ing-wen) — Protagonis dekat kamera tujuh tahun film ini, presiden perempuan pertama Taiwan, dari kalah 800 ribu suara hingga terpilih lagi 8,17 juta suara
 - [Gerakan Bunga Matahari](/id/society/sunflower-movement) — Node krusial busur demokrasi film, 2014 membentuk ulang kesadaran politik generasi 24 hari
-- [Chi Cheng](/people/紀政) — Yang di film mengeluarkan medali perunggu Olimpiade Mexico City 1968, menanyakan "Taipei Tionghoa nama negara kan? Bukan"
-- [Taipei Tionghoa](/society/中華台北) — Mekanisme nama Olimpiade di balik medali "tak bisa bernama sendiri" Chi Cheng
+- [Chi Cheng](/id/people/chi-cheng-flying-antelope) — Yang di film mengeluarkan medali perunggu Olimpiade Mexico City 1968, menanyakan "Taipei Tionghoa nama negara kan? Bukan"
+- [Taipei Tionghoa](/id/society/chinese-taipei) — Mekanisme nama Olimpiade di balik medali "tak bisa bernama sendiri" Chi Cheng
 - [Spektrum Pro/Kontra Kemerdekaan Taiwan](/id/society/taiwan-unification-independence-spectrum) — Koordinat spektrum kedaulatan di mana kalimat Tsai Ing-wen "Taiwan 본래 adalah negara merdeka" berada
-- [Shen Bo-yang](/people/沈伯洋) — Versi nyata pelajaran pertahanan sipil akhir film: pendiri bersama Akademi Beruang Hitam, legislatif yang mengajar "gimana hidup" ke warga
+- [Shen Bo-yang](/id/people/puma-shen) — Versi nyata pelajaran pertahanan sipil akhir film: pendiri bersama Akademi Beruang Hitam, legislatif yang mengajar "gimana hidup" ke warga
 - [Pembangun Gunung: Taruhan Abad](/id/art/mountain-makers-tsmc-documentary) — Dokumenter "nilai Taiwan" lain tayang hari sama, cerita separuh konduktor Taiwan
 
 ## Sumber Gambar

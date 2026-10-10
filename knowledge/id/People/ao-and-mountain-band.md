@@ -153,10 +153,10 @@ Itulah Ao dan Gunung.
 
 ## Pembacaan Lanjutan
 
-- [Musik Independen Taiwan](/music/台灣獨立音樂) — Konteks historis ekosistem grup musik independen 2010-an-2020-an Taiwan dan jenis folktronica
-- [Musik Pop Taiwan](/music/台灣流行音樂) — Struktur industri musik berbahasa Tiongkok dan posisi grup musik independen di dalamnya
-- [Cicada](/people/Cicada) — Grup musik independen lainnya yang mengambil jalur instrumentasi/non-mainstream, untuk membandingkan dua strategi 'tidak mengambil jalur idola'
-- [魏如萱](/people/魏如萱) — Jalur lain untuk lintas antara mainstream dan independen, kreator perempuan
+- [Musik Independen Taiwan](/id/music/indie-music-scene) — Konteks historis ekosistem grup musik independen 2010-an-2020-an Taiwan dan jenis folktronica
+- [Musik Pop Taiwan](/id/music/golden-melodies-legacy-taiwan-pop-music) — Struktur industri musik berbahasa Tiongkok dan posisi grup musik independen di dalamnya
+- [Cicada](/id/people/cicada-band) — Grup musik independen lainnya yang mengambil jalur instrumentasi/non-mainstream, untuk membandingkan dua strategi 'tidak mengambil jalur idola'
+- [魏如萱](/id/people/waa-wei-singer) — Jalur lain untuk lintas antara mainstream dan independen, kreator perempuan
 - [Hello Nico](/id/people/hello-nico-band) — Kreator suara perempuan independen Taiwan pada 2010-an, meliputi garis suara Dream Pop yang menutupi ketakutan, 'kesulitan terbesar membuat musik adalah tidak bisa berteman dengan diri sendiri'
 
 ## Daftar Pustaka

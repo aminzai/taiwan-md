@@ -165,7 +165,7 @@ Pada tahun 2026, ketika kereta Jalur San Ying secara resmi memasuki area tersebu
 ## Bacaan Lanjutan
 
 - [Perkembangan Perkotaan Taiwan dan Kesenjangan Desa-Kota](/id/geography/taiwan-urban-development-and-rural-urban-divide) — Menempatkan Taipei Special Zone dalam konteks jangka panjang zonasi rekayasa ulang dan ekspansi kota di Taiwan.
-- [Pusat Kota Xinshi Linkou](/geography/林口新市鎮) — Membandingkan bagaimana pusat kota baru yang juga pernah dijuluki "kota hantu" mencapai kematangan.
+- [Pusat Kota Xinshi Linkou](/id/geography/linkou-new-town) — Membandingkan bagaimana pusat kota baru yang juga pernah dijuluki "kota hantu" mencapai kematangan.
 - [Teh Sanxia](/id/food/sanxia-tea) — Bacaan lanjutan tentang lapisan budaya di balik kota lama Sanxia dan industri lokal.
 
 ## Referensi

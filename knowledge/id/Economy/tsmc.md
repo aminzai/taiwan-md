@@ -236,13 +236,13 @@ Tak ada yang merencanakan perpindahan skala ini. Tapi di kekeringan terparah 56 
 
 ## Bacaan Lanjutan
 
-- [Perusahaan Taiwan: MediaTek](/economy/台灣企業：聯發科技) — Desainer chip ponsel global ketiga terbesar, perwakilan lokal model fabless, dengan TSMC adalah kembar siam yang saling melengkapi
-- [Perusahaan Taiwan: ASE Technology](/economy/台灣企業：日月光半導體) — Pabrik pengemasan pengujian terbesar dunia, node kunci hilir rantai pasokan sama dengan TSMC
-- [Pasar Saham & Modal Taiwan](/economy/台灣股市與資本市場) — Kapitalisasi TSMC ~35% total kapitalisasi pasar saham Taiwan, memahami pasar saham Taiwan harus dulu memahami TSMC
-- [Transformasi & Upgrade Industri Taiwan](/economy/台灣產業轉型升級) — TSMC adalah kasus nyata Taiwan dari pulau fabrikasi jadi pulau teknologi
-- [Stan Shih](/people/施振榮) — Komisaris TSMC 21 tahun, kekayaan terbesar taruh di saham TSMC, pendiri Acer, tapi justru penulis "kurva senyum" yang seru "Taiwan jangan cuma fabrikasi"
-- [Industri Semikonduktor](/technology/半導體產業) — Dari transfer teknologi RCA ke revolusi material nitrida gallium & pengemasan kuantum 50 tahun, seluruh medan ilmu material tempat TSMC
-- [Huang Chong-jen](/people/黃崇仁) — Pendiri Mosel/VIS, di pulau sama jalan lain: sama bikin wafer, pernah hutang ribuan miliar delisting, sembilan tahun baru naik kembali bursa
+- [Perusahaan Taiwan: MediaTek](/id/economy/mediatek) — Desainer chip ponsel global ketiga terbesar, perwakilan lokal model fabless, dengan TSMC adalah kembar siam yang saling melengkapi
+- [Perusahaan Taiwan: ASE Technology](/id/economy/taiwan-enterprise-ase-semiconductor) — Pabrik pengemasan pengujian terbesar dunia, node kunci hilir rantai pasokan sama dengan TSMC
+- [Pasar Saham & Modal Taiwan](/id/economy/taiwan-stock-market) — Kapitalisasi TSMC ~35% total kapitalisasi pasar saham Taiwan, memahami pasar saham Taiwan harus dulu memahami TSMC
+- [Transformasi & Upgrade Industri Taiwan](/id/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC adalah kasus nyata Taiwan dari pulau fabrikasi jadi pulau teknologi
+- [Stan Shih](/id/people/stan-shih) — Komisaris TSMC 21 tahun, kekayaan terbesar taruh di saham TSMC, pendiri Acer, tapi justru penulis "kurva senyum" yang seru "Taiwan jangan cuma fabrikasi"
+- [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Dari transfer teknologi RCA ke revolusi material nitrida gallium & pengemasan kuantum 50 tahun, seluruh medan ilmu material tempat TSMC
+- [Huang Chong-jen](/id/people/frank-huang-psmc) — Pendiri Mosel/VIS, di pulau sama jalan lain: sama bikin wafer, pernah hutang ribuan miliar delisting, sembilan tahun baru naik kembali bursa
 
 ## Sumber Gambar
 

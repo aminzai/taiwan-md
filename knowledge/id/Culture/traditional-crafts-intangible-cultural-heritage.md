@@ -232,7 +232,7 @@ Daftar semakin panjang, orang yang bisa mengajar semakin sedikit. Lain kali masu
 
 **Bacaan Tambahan:**
 
-- [Celupan Indigo](/culture/藍染) — Dari komoditas ekspor dinasti Qing hingga hampir punah pada 1940, sejarah lengkap kerajinan indigo yang hari ini mengalami revitalisasi sendiri di Sanxia, Miaoli, Taiping, dan Qingliао
+- [Celupan Indigo](/id/culture/taiwan-indigo-dyeing) — Dari komoditas ekspor dinasti Qing hingga hampir punah pada 1940, sejarah lengkap kerajinan indigo yang hari ini mengalami revitalisasi sendiri di Sanxia, Miaoli, Taiping, dan Qingliао
 - [Kain Bunga Taiwan](/id/culture/taiwan-floral-fabric) — Perjalanan identitas kain merah Hakka dari produk pabrik era Jepang menjadi simbol budaya domestik
 - [Payung Kertas](/id/culture/taiwan-paper-umbrella) — Rute transformasi payung kertas Meinong dari produk kegunaan sehari-hari untuk mencegah hujan menjadi karya seni
 - [Topi Jerami](/id/culture/bamboo-hat-craft) — Kerajinan tekstil jerami dan peralatan perwakilan pertanian tradisional Taiwan

@@ -241,12 +241,12 @@ Mata komposit masih putar. Barang yang hilang, selama masih ada orang begini lih
 
 ## Bacaan Lanjutan
 
-- [Ximending](/geography/西門町) — Kawasan tempat Pusat Perbelanjaan Chunghua dulu berdiri, paham koordinat kota _Penyihir di Atas Jembatan_
-- [Sejarah Sastra Taiwan](/art/台灣文學史) — Masukkan Wu Ming-yi ke alur penulisan pulau yang lebih panjang
-- [Sastra Taiwan Pascaperang](/art/戰後台灣文學) — Generasi pascapereg bagaimana nulis tanah, perang dan sehari-hari
-- [Sastra Taiwan Kontemporer](/art/當代台灣文學) — Koordinat sekunder novel dan terjemahan internasional pasca 2000
+- [Ximending](/id/geography/ximending) — Kawasan tempat Pusat Perbelanjaan Chunghua dulu berdiri, paham koordinat kota _Penyihir di Atas Jembatan_
+- [Sejarah Sastra Taiwan](/id/art/history-of-taiwanese-literature) — Masukkan Wu Ming-yi ke alur penulisan pulau yang lebih panjang
+- [Sastra Taiwan Pascaperang](/id/art/postwar-taiwanese-literature) — Generasi pascapereg bagaimana nulis tanah, perang dan sehari-hari
+- [Sastra Taiwan Kontemporer](/id/art/contemporary-taiwanese-literature) — Koordinat sekunder novel dan terjemahan internasional pasca 2000
 - [Sastra Suku Asli](/id/art/indigenous-literature) — Pandangan banding saat baca politik representasi _Hotel Angin Laut_
-- [Sastra Taiwan Pascamartial Law](/art/解嚴後台灣文學) — Latar sistem dan sosial bangkitnya penulisan alam dan kenangan kota
+- [Sastra Taiwan Pascamartial Law](/id/art/post-martial-law-taiwanese-literature) — Latar sistem dan sosial bangkitnya penulisan alam dan kenangan kota
 
 ---
 

@@ -122,7 +122,7 @@ Seperti Lee Chih-kai sering bilang: "Kau rela lewatin susah, pasti ada langit se
 
 **Baca Lanjutan**：
 
-- [Kuo Hsing-chun](/people/郭婞淳) — Emas angkat besi Olimpiade Tokyo, tokoh teladan aksi kebaikan dunia olahraga Taiwan
+- [Kuo Hsing-chun](/id/people/kuo-hsing-chun-olympic-weightlifting-champion) — Emas angkat besi Olimpiade Tokyo, tokoh teladan aksi kebaikan dunia olahraga Taiwan
 
 ## Referensi
 

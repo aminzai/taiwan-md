@@ -436,7 +436,7 @@ Barangkali inilah nilai paling berharga dari ritus kehidupan Taiwan: pada momen 
 ## Bacaan Lanjutan
 
 - [Festival dan Perayaan Tradisional](/id/culture/traditional-festivals-and-celebrations) - Memahami hubungan antara ritus kehidupan dan festival
-- [Kelompok Masyarakat (Hoklo, Hakka, Masyarakat Adat, Waishengren, dan Penduduk Baru)](/culture/族群（閩南客家原住民外省新住民）) - Menelusuri ciri tradisi berbagai kelompok masyarakat
+- [Kelompok Masyarakat (Hoklo, Hakka, Masyarakat Adat, Waishengren, dan Penduduk Baru)](/id/culture/ethnic-groups) - Menelusuri ciri tradisi berbagai kelompok masyarakat
 - [Agama dan Budaya Kuil di Taiwan](/id/culture/taiwan-religion-and-temple-culture) - Mengenal peran agama dalam ritus kehidupan
 - [Budaya Teh dan Estetika Kehidupan Taiwan](/id/culture/taiwan-tea-ceremony-and-aesthetic-living) - Mengalami unsur estetika dalam tradisi
 - [Budaya Kue Taiwan](/id/food/taiwan-pastry-culture) — Peran khusus kotak kue pernikahan dalam enam dan dua belas hantaran, dari Yu Jen Jai di Lukang pada 1877 hingga generasi perebutan tiket dalam 30 detik pada 2026

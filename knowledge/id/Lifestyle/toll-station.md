@@ -103,7 +103,7 @@ PHK ini kemudian melahirkan sejarah perlawanan yang berlangsung selama sebelas t
 
 Pada 2016, setelah berdiri di luar kantor DPP selama lebih tiga puluh jam, akhirnya mencapai kesepakatan dengan pemerintah baru, namun kesepakatan itu kemudian mengecil. Pada 19 Desember 2019, Pengadilan Tinggi Administrasi Taipei menolak gugatan pada tingkat pertama. Ketua Serikat Penyelamat Diri, Sun Xiulian, langsung terpinga-pinga dan berkata, "Saya benar-benar tidak bisa menerima hasil ini," menuduh pengadilan "menyekutui janji pemerintah dengan menaratkannya di bawah kaki."[^23]
 
-Banding naik ke Pengadilan Administrasi Tertinggi, kasus dikembalikan untuk dipertimbangkan kembali. Akhirnya, pada 30 Desember 2024 — tepat sebelas tahun setelah PHK — mediasi berhasil dicapai. Perayaan berakhirnya perlawanan digelar pada 15 Februari 2025 di Kaohsiung dengan 20 meja makan[^24]. Garis waktu lengkap dari sebelas tahun ini telah ditulis secara mendalam dalam artikel saudaranya [Jalan Tol](/lifestyle/高速公路). Di dalamnya terdapat dokumentasi lengkap taktik perlawanan termasuk berjalan enam langkah, aksi wajah biru, dan mendaki pintu gerbang ETC, serta analisis mengenai "janji politik yang tidak ditepati dan apakah hal itu membentuk kontrak administratif dari segi hukum adalah dua hal yang berbeda."
+Banding naik ke Pengadilan Administrasi Tertinggi, kasus dikembalikan untuk dipertimbangkan kembali. Akhirnya, pada 30 Desember 2024 — tepat sebelas tahun setelah PHK — mediasi berhasil dicapai. Perayaan berakhirnya perlawanan digelar pada 15 Februari 2025 di Kaohsiung dengan 20 meja makan[^24]. Garis waktu lengkap dari sebelas tahun ini telah ditulis secara mendalam dalam artikel saudaranya [Jalan Tol](/id/lifestyle/national-highway-system). Di dalamnya terdapat dokumentasi lengkap taktik perlawanan termasuk berjalan enam langkah, aksi wajah biru, dan mendaki pintu gerbang ETC, serta analisis mengenai "janji politik yang tidak ditepati dan apakah hal itu membentuk kontrak administratif dari segi hukum adalah dua hal yang berbeda."
 
 Sun Xiulian, ketua Serikat Penyelamat Diri, menjelaskan lebih jelas dari pada apapun yang disusun oleh orang luar: "Menggunakan dan membuang pekerja pengumpul jalan tol seperti ini adalah tidak adil dan tidak masuk akal."[^25]
 
@@ -127,7 +127,7 @@ Tiga tikungan ini berbaris sepanjang jalan tol: boleh dilihat, tidak boleh berhe
 
 ## Bacaan Lanjutan
 
-- [Jalan Tol](/lifestyle/高速公路) — Kekuasaan dan kecepatan lima puluh tahun jalan tol Taiwan, termasuk bab "Sebelas Tahun, Menuju Perdamaian yang Tidak Bisa Dipublikasikan" yang menceritakan sejarah perlawanan petugas penarik
+- [Jalan Tol](/id/lifestyle/national-highway-system) — Kekuasaan dan kecepatan lima puluh tahun jalan tol Taiwan, termasuk bab "Sebelas Tahun, Menuju Perdamaian yang Tidak Bisa Dipublikasikan" yang menceritakan sejarah perlawanan petugas penarik
 - [Sistem Transportasi Taiwan](/id/lifestyle/transportation-system) — Mengikat alur transportasi dari jalan tol, kereta api cepat, MRT hingga jalan raya lokal
 
 ## Sumber Gambar

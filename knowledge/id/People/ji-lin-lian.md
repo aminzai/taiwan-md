@@ -165,9 +165,9 @@ Sisa pertanyaan, dengan tanya «dia berikutnya langgar ke mana», lebih harus ta
 
 **Bacaan Lanjutan**:
 
-- [Cheng Li-wen](/people/鄭麗文) — Target Ji Lin-lian 2025 mundur kandidat Ketua KMT beralih mendukung, atasan langsung 2026; memahami konteks politik penunjukan Wakil Ketua ini, wajib baca dulu lengkap Cheng Li-wen
-- [Han Kuo-yu](/people/韓國瑜) — Rapat Komite Pusat 2026-04-29 dituding Ji Lin-lian «menjual partai demi jabatan, usulkan cabut keanggotaan» Ketua DPR; target nyata ucapan Ji Lin-lian adalah orang ini
-- [Pertahanan & Modernisasi Militer Taiwan](/society/台灣國防與軍事現代化) — Latar belakang Anggaran Khusus Pembelian Militer 1,25 Triliun dan sengketa «380 Miliar +N vs 800 Miliar»; memahami pemicu ucapan Ji Lin-lian 4/29 Rapat Komite Pusat butuh kerangka isu pertahanan lebih besar ini
+- [Cheng Li-wen](/id/people/cheng-li-wun) — Target Ji Lin-lian 2025 mundur kandidat Ketua KMT beralih mendukung, atasan langsung 2026; memahami konteks politik penunjukan Wakil Ketua ini, wajib baca dulu lengkap Cheng Li-wen
+- [Han Kuo-yu](/id/people/han-kuo-yu) — Rapat Komite Pusat 2026-04-29 dituding Ji Lin-lian «menjual partai demi jabatan, usulkan cabut keanggotaan» Ketua DPR; target nyata ucapan Ji Lin-lian adalah orang ini
+- [Pertahanan & Modernisasi Militer Taiwan](/id/society/taiwan-defense-modernization) — Latar belakang Anggaran Khusus Pembelian Militer 1,25 Triliun dan sengketa «380 Miliar +N vs 800 Miliar»; memahami pemicu ucapan Ji Lin-lian 4/29 Rapat Komite Pusat butuh kerangka isu pertahanan lebih besar ini
 - [Cho Jung-tai](/id/people/cho-jung-tai) — Di sengketa pembelian militer Ji Lin-lian ancam cabut Han Kuo-yu, yang mengajukan anggaran 1,25 triliun adalah Perdana Menteri Cho Jung-tai; dua «koordinator» biru-hijau di meja yang sama berhadapan
 - [Lingkungan Politik & Sistem Pemilu Taiwan](/id/society/taiwan-political-landscape-and-electoral-system) — Mengapa seorang jenderal purnawirawan 78 tahun bisa di Rapat Komite Pusat KMT 2026 ancam cabut Ketua DPR? Cabang Huang Fu-hsing, penunjukan Wakil Ketua, faksi internal partai dll latar sistemik masuknya
 

@@ -81,7 +81,7 @@ Lima puluh tahun karir tidak mengeras di satu identitas manapun, ini sendiri dem
 
 Dari Jalan Gonghe Chiayi berangkat, lewat Taipei, Hong Kong, bolak-balik lintas selat — lima puluh tahun Sylvia Chang bukan kisah sukses linear, tapi catatan satu orang bergerak terus antar identitas, menolak berhenti di posisi nyaman manapun. Namanya dalam sejarah hiburan Taiwan, mewakili satu postur hidup yang bisa dipilih pencipta, jauh melampaui apa yang bisa dibingkai prestasi pribadi seseorang.
 
-**Baca Lanjutan**: [Sylvia Chang — Wikipedia](https://zh.wikipedia.org/wiki/張艾嘉) ｜ [Database Golden Horse](https://www.goldenhorse.org.tw/awards/nw/?serach_type=award&search_item=person&search_text=%E5%BC%B5%E8%89%BE%E5%98%89) ｜ [Edward Yang](/people/楊德昌) — "A Day at the Beach" yang dibintangi Sylvia Chang adalah film panjang fiksi pertama Edward Yang
+**Baca Lanjutan**: [Sylvia Chang — Wikipedia](https://zh.wikipedia.org/wiki/張艾嘉) ｜ [Database Golden Horse](https://www.goldenhorse.org.tw/awards/nw/?serach_type=award&search_item=person&search_text=%E5%BC%B5%E8%89%BE%E5%98%89) ｜ [Edward Yang](/id/people/yang-dechang) — "A Day at the Beach" yang dibintangi Sylvia Chang adalah film panjang fiksi pertama Edward Yang
 
 ## Referensi
 

@@ -111,11 +111,11 @@ Yang mereka mau adalah generasi depan masih punya kesempatan membuka mulut.
 
 **Bacaan Lanjutan**:
 
-- [Pewarnaan Indigo](/culture/藍染) — Persamaan dan perbedaan baju biru Hakka dan kerajinan indigo Sanxia bagian utara, serta refleksi multi-etnis "apakah pewarnaan indigo milik Hakka semata"
-- [Musik Hakka Taiwan](/music/台灣客家音樂) — Dari lagu gunung ke rock, bagaimana musik bahasa Hakka jadi garis depan revitalisasi etnis
-- [Budaya Kuliner Hakka](/food/客家飲食文化) — Geografi dan sejarah tenaga kerja di balik asin lemak harum
-- [Keanekaragaman Bahasa dan Budaya Bahasa Ibu](/culture/語言多樣性與母語文化) — Pemandangan penuh lingkungan multi-bahasa Taiwan dan kondisi bahasa ibu tiap kelompok
-- [Kelompok Etnis (Hoklo, Hakka, Pribumi, Waishengren, Pendatang Baru)](/culture/族群（閩南客家原住民外省新住民）) — Interaksi dan politik etnis kontemporer lima kelompok besar
+- [Pewarnaan Indigo](/id/culture/taiwan-indigo-dyeing) — Persamaan dan perbedaan baju biru Hakka dan kerajinan indigo Sanxia bagian utara, serta refleksi multi-etnis "apakah pewarnaan indigo milik Hakka semata"
+- [Musik Hakka Taiwan](/id/music/taiwan-hakka-music-from-mountain-songs-to-rock) — Dari lagu gunung ke rock, bagaimana musik bahasa Hakka jadi garis depan revitalisasi etnis
+- [Budaya Kuliner Hakka](/id/food/hakka-food-culture) — Geografi dan sejarah tenaga kerja di balik asin lemak harum
+- [Keanekaragaman Bahasa dan Budaya Bahasa Ibu](/id/culture/linguistic-diversity-and-mother-tongue-culture) — Pemandangan penuh lingkungan multi-bahasa Taiwan dan kondisi bahasa ibu tiap kelompok
+- [Kelompok Etnis (Hoklo, Hakka, Pribumi, Waishengren, Pendatang Baru)](/id/culture/ethnic-groups) — Interaksi dan politik etnis kontemporer lima kelompok besar
 - [Transisi Demokrasi Taiwan](/id/history/taiwan-democratization) — Panorama gelombang demokratisasi tempat Gerakan Kembalikan Bahasa Ibu berada
 
 ## Referensi

@@ -199,7 +199,7 @@ Saat Dewan Legislatif memperluas pasal ini lagi—apapun alasannya, سواء unt
 
 - [Sistem Demokrasi Taiwan](/id/society/democratic-system) — Apakah sistem penahanan preventif diperluas atau tidak, pada akhirnya adalah penilaian kolektif masyarakat demokrasi atas "kekuasaan negara vs kebebasan individu"
 - [Hak Asasi Manusia dan Kesetaraan Gender](/id/society/human-rights-and-gender-equality) — Penggabungan eksploitasi seksual anak dan remaja serta pelecehan seksual ke dalam penahanan preventif, adalah bagian dari gerakan pencegahan kekerasan berbasis gender
-- [Kontroversi Obat Hewan Taiwan](/society/台灣動物用藥爭議) — Isu "transparansi sistem" lain, menampilkan ketegangan tata kelola Taiwan di antara profesionalisme dan demokrasi
+- [Kontroversi Obat Hewan Taiwan](/id/society/taiwan-animal-drug-controversy) — Isu "transparansi sistem" lain, menampilkan ketegangan tata kelola Taiwan di antara profesionalisme dan demokrasi
 
 ## Referensi
 

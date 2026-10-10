@@ -145,7 +145,7 @@ Jadi, pertanyaannya bukanlah "apakah Cheng Li-wen berubah?", melainkan: **apakah
 - [Transformasi demokrasi Taiwan](/id/history/taiwan-democratization) — tahun ketika Cheng Li-wen berjagaan puasa adalah tahun pertama pasca-pembukaan; memahami titik awalnya, kita harus memahami budaya pemuda lima tahun pertama demokratisasi
 - [Ko Wen-je](/id/people/ko-wen-je) — tokoh politik lain yang beralih dari hijau ke biru (ataau dari putih ke biru); kedua jalurnya sama-sama berpotongan namun berbeda
 - [Hsiao Bi-khim](/id/people/hsiao-bi-khim) — tokoh wanita lain pada panggung yang sama pada 2026, dengan jalur yang benar-benar berbeda dan pandangan Taiwan yang berbeda pula
-- [Han Kuo-yu](/people/韓國瑜) — struktur "ketua Partai Nasional Republik + Ketua Dewan Legislatif" dari Partai Nasional Republik pada 2025-2026, Cheng Li-wen di partai, Han Kuo-yu di dewan
+- [Han Kuo-yu](/id/people/han-kuo-yu) — struktur "ketua Partai Nasional Republik + Ketua Dewan Legislatif" dari Partai Nasional Republik pada 2025-2026, Cheng Li-wen di partai, Han Kuo-yu di dewan
 - [Zhuo Rong-tsai](/id/people/cho-jung-tai) — penganjur pembelian senjata senilai 1,25 triliun dolar, sebagai lawan posisi "versi Partai Nasional Republik 3800+ N" dari Cheng Li-wen
 - [Lu Hsiu-yen](/id/people/lu-hsiu-yan) — lawan Cheng Li-wen dalam pemilihan ketua Partai Nasional Republik 2025, yang kemudian karena "tidak mau bertarung" membuka jalan bagi Cheng Li-wen
 - [Xu Qixia](/id/people/hsu-chiao-hsin) — penganjur versi "80 miliar" dalam kontroversi pembelian senjata 2026, yang bertarung langsung dengan "versi Partai Nasional Republik 3800+ N" dari Cheng Li-wen

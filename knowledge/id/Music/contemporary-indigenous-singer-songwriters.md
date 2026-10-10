@@ -300,7 +300,7 @@ Jalan yang dilalui penyanyi ciptaan orang asli kontemporer Taiwan, adalah proses
 ## Bacaan Lanjutan
 
 - [A-mei](/id/people/a-mei/): Memahami perjalanan musiknya dari rekaman pop dan panggung.
-- [Chen Chien-nien](/people/陳建年/): Bacaan lanjutan "Samudra" dan latar ciptaan.
+- [Chen Chien-nien](/id/people/chen-chien-nien/): Bacaan lanjutan "Samudra" dan latar ciptaan.
 
 ## Referensi
 

@@ -58,7 +58,7 @@ Imaji "rumpun reed" Museum Seni Baru ini, mungkin juga menjadi metafora bahwa da
 
 **Baca Lebih Lanjut**:
 
-- [Pulau Seni Internasional Matsu](/art/馬祖國際藝術島) — Kasus serupa yang tarik-menarik antara investasi budaya publik dan efektivitas aktual: program kurasi sepuluh tahun Pemerintah Kabupaten Lienchiang, tingkat pertumbuhan jumlah pengunjung sulit dihitung, dana tidak pernah dipublikasikan
+- [Pulau Seni Internasional Matsu](/id/art/matsu-biennial) — Kasus serupa yang tarik-menarik antara investasi budaya publik dan efektivitas aktual: program kurasi sepuluh tahun Pemerintah Kabupaten Lienchiang, tingkat pertumbuhan jumlah pengunjung sulit dihitung, dana tidak pernah dipublikasikan
 
 ## Referensi
 

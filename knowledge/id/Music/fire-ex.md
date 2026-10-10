@@ -67,7 +67,7 @@ Yang Zheng-fan membebaskan hak non-komersial gratis untuk semua pendukung geraka
 
 Di atas panggung vokalis punk, di bawah panggung Yang Zheng-fan hidup jadi satu drama serial.
 
-2013 dia menikah dengan musisi independen [Cheng Yi-nung](/music/台灣獨立音樂/). Januari 2016, Cheng Yi-nung coming out ke dia, bilang dia LGBTQ+. Yang Zheng-fan hancur, tapi pilih mendukung. Setelah cerai, dia publik bilang: "Aku akan selalu mempertahankan hak Enno jadi diri sendiri." [^10] Pasca cerai mereka jadi teman baik sekaligus rekan kerja—Cheng Yi-nung masuk Fire On Music, album 2017 《Pluto》 dirilis di label mantan suami ini. Satu waktu, Yang Zheng-fan dan istri kedua Shandong (Li Wen-hui) serta Cheng Yi-nung tiga orang tinggal satu apartemen lima puluh ping berbagi sewa, jadi bahan gosip media [^10].
+2013 dia menikah dengan musisi independen [Cheng Yi-nung](/id/music/indie-music-scene/). Januari 2016, Cheng Yi-nung coming out ke dia, bilang dia LGBTQ+. Yang Zheng-fan hancur, tapi pilih mendukung. Setelah cerai, dia publik bilang: "Aku akan selalu mempertahankan hak Enno jadi diri sendiri." [^10] Pasca cerai mereka jadi teman baik sekaligus rekan kerja—Cheng Yi-nung masuk Fire On Music, album 2017 《Pluto》 dirilis di label mantan suami ini. Satu waktu, Yang Zheng-fan dan istri kedua Shandong (Li Wen-hui) serta Cheng Yi-nung tiga orang tinggal satu apartemen lima puluh ping berbagi sewa, jadi bahan gosip media [^10].
 
 November 2016 menikah dengan Shandong, 2017 anak perempuan lahir. 1 November 2024 cerai, Februari 2025 diumumkan. Dua kali menikah, dua kali damai berpisah [^10].
 
@@ -129,7 +129,7 @@ Seluruh venue tersorak. Potongan tujuh menit ini di-upload penonton ke platform 
 
 ## Bacaan Lanjutan
 
-- [Musik Independen Taiwan](/music/台灣獨立音樂/) — Lanskap musik independen tempat Fire EX. berada
+- [Musik Independen Taiwan](/id/music/indie-music-scene/) — Lanskap musik independen tempat Fire EX. berada
 - [Sejarah Perkembangan Rock Taiwan](/id/music/taiwan-rock-from-underground-to-mainstream/) — Dari era larangan lagu ke Megaport Festival
 - [Gerakan Bunga Matahari](/id/society/sunflower-movement/) — Maret kelahiran 〈Pulau Cahaya〉
 - [Budaya Festival Musik Taiwan](/id/music/taiwan-music-festival-culture/) — Dari Gongliao ke Fireball Festival

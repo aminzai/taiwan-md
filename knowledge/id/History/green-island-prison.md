@@ -86,7 +86,7 @@ Penjara Pulau Green Island, pulau terpencil ini di Samudra Pasifik, memikul kena
 
 **Bacaan Lanjutan**:
 
-- [Museum Hak Asasi Manusia Nasional](/history/國家人權博物館) — Lembaga negara tempat Taman Memoria Pulau Green Island, proses institutionalisasi dari Pusat Pembinaan Xinsheng menjadi museum
+- [Museum Hak Asasi Manusia Nasional](/id/history/national-human-rights-museum) — Lembaga negara tempat Taman Memoria Pulau Green Island, proses institutionalisasi dari Pusat Pembinaan Xinsheng menjadi museum
 - [Teror Putih Taiwan](/id/history/taiwan-white-terror) — Gambaran utuh kasus politik 38 tahun hukum darurat, Pulau Green Island adalah pusat penahanan dan reformasi pemikiran di dalamnya
 - [Era Hukum Darurat](/id/history/martial-law-era) — Wadah hukum 1949-1987
 - [Keadilan Transisional Taiwan](/id/history/taiwan-transitional-justice) — Pencabutan vonis dan pertanggungjawaban pelaku yang belum selesai

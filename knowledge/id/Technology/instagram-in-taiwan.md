@@ -71,7 +71,7 @@ Kebangkitan "Cui" mungkin menjelaskan satu hal: ketika filter sudah begitu sempu
 
 - [Facebook: Dari Demam Bertani hingga Pedang Bermata Dua Demokrasi Digital](/id/technology/facebook-in-taiwan) — Meta, perusahaan induk IG, memiliki basis lain di Taiwan. Dari demam _Happy Farm_ pada 2009 hingga kontroversi penyensoran pada 2025, ini adalah latar belakang penting untuk memahami strategi Meta di Taiwan.
 - [Threads di Taiwan](/id/technology/threads-in-taiwan) — Alter ego "Cui" milik IG, bagaimana ia meledak dari nol menjadi platform terbesar ketiga di Taiwan pada 2024, serta hubungan simbiosis dan kompetisinya dengan IG.
-- [Sejarah Migrasi Komunitas Daring Taiwan](/technology/台灣網路社群遷徙史) — Dari BBS, Wretch, Plurk hingga Facebook, IG, dan Threads, sejarah migrasi kolektif pengguna internet Taiwan memberikan perspektif jangka panjang untuk memahami tren penurunan IG. (Terjemahan Bahasa Indonesia untuk artikel ini belum tersedia; tautan mengarah ke sumber asli berbahasa Mandarin.)
+- [Sejarah Migrasi Komunitas Daring Taiwan](/id/technology/taiwan-online-community-migration) — Dari BBS, Wretch, Plurk hingga Facebook, IG, dan Threads, sejarah migrasi kolektif pengguna internet Taiwan memberikan perspektif jangka panjang untuk memahami tren penurunan IG. (Terjemahan Bahasa Indonesia untuk artikel ini belum tersedia; tautan mengarah ke sumber asli berbahasa Mandarin.)
 
 ## Referensi
 

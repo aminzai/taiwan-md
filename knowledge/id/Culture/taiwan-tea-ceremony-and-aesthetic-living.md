@@ -136,7 +136,7 @@ Wisteria di Wistaria mekar setiap musim semi. Chou Yu sudah delapan puluhan, tet
 
 ## Bacaan Lanjutan
 
-- [Budaya Teh Taiwan](/culture/台灣茶文化) - Panduan mendalam varietas dan daerah produksi teh
+- [Budaya Teh Taiwan](/id/culture/taiwanese-tea-culture-and-living-aesthetics) - Panduan mendalam varietas dan daerah produksi teh
 - [Perayaan Tradisional dan Upacara](/id/culture/traditional-festivals-and-celebrations) - Peran teh dalam perayaan
 - [Estetika Taiwan: Apakah Kita Harus Menunggu Orang Korea Menyukai Dulu, Baru Berani Bilang Rumah Tua Kita Indah?](/id/culture/taiwanese-sensibility) — Penemuan kembali estetika sehari-hari Taiwan yang sama, jendela besi, teraso, rumah tua——artikel ini menanyakan, apakah penemuan kembali ini harus menunggu orang lain menyukai dulu
-- [Budaya dan Bahasa Hakka](/culture/客家文化與語言) - Kaitan Teh Oriental Beauty dengan daerah teh Hakka
+- [Budaya dan Bahasa Hakka](/id/culture/hakka-culture-and-language) - Kaitan Teh Oriental Beauty dengan daerah teh Hakka

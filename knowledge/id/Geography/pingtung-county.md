@@ -206,15 +206,15 @@ Lain kali Anda mengunjungi Pingtung, Anda bisa mampir ke Wan Jin, berjalan-jalan
 
 ## Bacaan Lanjutan
 
-- [Li Xiande](/people/李仙得) — Tokoh latar belakang Insiden Mudan tahun 1874, pernyataan diplomat Amerika Serikat di Xiamen yang mengatakan "orang asing tidak tunduk pada Tiongkok" secara langsung memicu invasi Jepang ke Pingtung.
-- [Insiden Luo Fa Hao dan Zhuo Qidu](/history/羅發號事件與卓杞篤) — Kapal dagang AS Luo Fa Hao tenggelam di ujung selatan semenanjung Hengchun pada tahun 1867, empat tahun lebih awal dari Insiden Pendatang Ryukyu tahun 1871 di wilayah Paiwan yang sama.
-- [Pandangan Sejarah Pulau Taiwan](/history/台灣島史觀) — Kerangka sejarah pulau oleh Cao Yonghe; sejarah berlapis semenanjung Pingtung adalah pengembangan paling konkret dari pandangan ini.
-- [Kabupaten Penghu](/geography/澎湖縣) — Seri 22 Kota/Kabupaten: pilihan kedaulatan pulau yang menolak negosiasi, sama seperti identitas geografis "paling selatan/barat yang terlupakan" Pingtung.
-- [Kota Keelung](/geography/基隆市) — Kabupaten pelabuhan lain yang tidak terlihat oleh ibu kota dalam Seri 22 Kota/Kabupaten, sama seperti "titik kunci yang terlewatkan narasi pusat" Pingtung.
-- [County Lienchiang](/geography/連江縣) — Seri 22 Kota/Kabupaten: jarak antara warisan medan perang dan narasi arus utama; ingatan berlapis Mudan/Kuil Gaozhi di Pingtung dapat dibaca bersama.
-- [Wei Desheng](/people/魏德聖) — _Haijiao Qihao_ menghasilkan pendapatan NT$530 juta di Hengchun, menuliskan semenanjung selatan Taiwan ke dalam memori film nasional.
-- [Budaya Sukarelawan Bencana Taiwan](/society/台灣災難志工文化) — Bagaimana bencana ganda daerah pegunungan dan pesisir Badai '88 membentuk jaringan penyelamatan Taiwan.
-- [Badai](/nature/颱風) — Rekor 1.897 mm Morakot adalah titik balik hubungan antara Taiwan dan badai.
+- [Li Xiande](/id/people/charles-le-gendre) — Tokoh latar belakang Insiden Mudan tahun 1874, pernyataan diplomat Amerika Serikat di Xiamen yang mengatakan "orang asing tidak tunduk pada Tiongkok" secara langsung memicu invasi Jepang ke Pingtung.
+- [Insiden Luo Fa Hao dan Zhuo Qidu](/id/history/rover-incident-and-tauketok) — Kapal dagang AS Luo Fa Hao tenggelam di ujung selatan semenanjung Hengchun pada tahun 1867, empat tahun lebih awal dari Insiden Pendatang Ryukyu tahun 1871 di wilayah Paiwan yang sama.
+- [Pandangan Sejarah Pulau Taiwan](/id/history/taiwan-island-historiography) — Kerangka sejarah pulau oleh Cao Yonghe; sejarah berlapis semenanjung Pingtung adalah pengembangan paling konkret dari pandangan ini.
+- [Kabupaten Penghu](/id/geography/penghu-county) — Seri 22 Kota/Kabupaten: pilihan kedaulatan pulau yang menolak negosiasi, sama seperti identitas geografis "paling selatan/barat yang terlupakan" Pingtung.
+- [Kota Keelung](/id/geography/keelung-city) — Kabupaten pelabuhan lain yang tidak terlihat oleh ibu kota dalam Seri 22 Kota/Kabupaten, sama seperti "titik kunci yang terlewatkan narasi pusat" Pingtung.
+- [County Lienchiang](/id/geography/lienchiang-county) — Seri 22 Kota/Kabupaten: jarak antara warisan medan perang dan narasi arus utama; ingatan berlapis Mudan/Kuil Gaozhi di Pingtung dapat dibaca bersama.
+- [Wei Desheng](/id/people/wei-te-sheng-taiwanese-epic-filmmaker) — _Haijiao Qihao_ menghasilkan pendapatan NT$530 juta di Hengchun, menuliskan semenanjung selatan Taiwan ke dalam memori film nasional.
+- [Budaya Sukarelawan Bencana Taiwan](/id/society/taiwan-disaster-volunteer-culture) — Bagaimana bencana ganda daerah pegunungan dan pesisir Badai '88 membentuk jaringan penyelamatan Taiwan.
+- [Badai](/id/nature/typhoons-in-taiwan) — Rekor 1.897 mm Morakot adalah titik balik hubungan antara Taiwan dan badai.
 
 ## Sumber Gambar
 

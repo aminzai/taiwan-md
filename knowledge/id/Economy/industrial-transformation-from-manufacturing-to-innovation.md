@@ -219,12 +219,12 @@ MediaTek dipisahkan dari UMC pada 1997, awalnya memasuki pasar dengan chip penyi
 ## Bacaan Lanjutan
 
 - [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Dari transfer teknologi RCA 1976 hingga pangsa pasar global 60% pada 2024, bagaimana industri inti yang bermula dari Taman Sains Hsinchu menjadi "Gunung Dewa Pelindung"
-- [Morris Chang](/people/張忠謀) — Tokoh kunci yang mendirikan TSMC pada 1987, pendorong inti dari nol industri semikonduktor Taiwan
-- [Stan Shih](/people/施振榮) — Penulis Kurva Smile: menggambar garis untuk memaksa Taiwan keluar dari tengah kontrak, namun kekayaan pribadi dipertaruhkan pada TSMC yang melakukan "manufaktur tengah"
-- [Perdagangan Luar Negeri Taiwan dan Rantai Pasok Global](/economy/台灣外貿與全球供應鏈) — Jejak jangka panjang dari devisa kawasan ekspor pemrosesan hingga kekuatan ekspor semikonduktor 2024
+- [Morris Chang](/id/people/tsmc-morris-chang) — Tokoh kunci yang mendirikan TSMC pada 1987, pendorong inti dari nol industri semikonduktor Taiwan
+- [Stan Shih](/id/people/stan-shih) — Penulis Kurva Smile: menggambar garis untuk memaksa Taiwan keluar dari tengah kontrak, namun kekayaan pribadi dipertaruhkan pada TSMC yang melakukan "manufaktur tengah"
+- [Perdagangan Luar Negeri Taiwan dan Rantai Pasok Global](/id/economy/taiwan-foreign-trade-and-global-supply-chain) — Jejak jangka panjang dari devisa kawasan ekspor pemrosesan hingga kekuatan ekspor semikonduktor 2024
 - [Ekosistem Rintisan](/id/economy/taiwan-startup-ecosystem-overview) — Jalur lain dari transformasi manufaktur menjadi kekuatan inovasi: perkembangan rintisan dan semikonduktor fabless pasca-1990-an
-- [Perkembangan dan Strategi Masa Depan AI Taiwan](/technology/台灣人工智慧發展與未來策略) — Gelombang berikutnya transformasi industri pasca-2024: perluasan hegemoni perangkat keras ke strategi aplikasi AI
-- [Program Kepemimpinan Startup Taipei SLP](/economy/SLP台北創業領導計畫) — Program pelatihan startup dengan biaya sekali bayar naik dari 6.000 dolar menjadi 58.000 dolar; kurva biaya itu sendiri adalah skala fisik dari ekosistem startup Taiwan dari awal menuju sistem
+- [Perkembangan dan Strategi Masa Depan AI Taiwan](/id/technology/artificial-intelligence-development-strategy) — Gelombang berikutnya transformasi industri pasca-2024: perluasan hegemoni perangkat keras ke strategi aplikasi AI
+- [Program Kepemimpinan Startup Taipei SLP](/id/economy/slp-taipei-startup-leadership-program) — Program pelatihan startup dengan biaya sekali bayar naik dari 6.000 dolar menjadi 58.000 dolar; kurva biaya itu sendiri adalah skala fisik dari ekosistem startup Taiwan dari awal menuju sistem
 
 ---
 

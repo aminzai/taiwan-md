@@ -441,11 +441,11 @@ Masalah yang kompleks tidak memiliki jawaban sederhana. Tetapi pertanyaannya sud
 **Bacaan Lanjutan**:
 
 - [Konservasi Macan Tutul Asia](/id/nature/taiwanese-leopard-cat-conservation) — Spesies utama di seluruh Taiwan, kurang dari lima ratus ekor, habitatnya tersebar di pegunungan rendah; spesies utama dalam 21 kasus pembunuhan oleh anjing.
-- [Beruang Hitam Taiwan](/nature/台灣黑熊) — Spesies indikator ekosistem Yushan, garis depan lain setelah penyebaran anjing jalanan ke dataran rendah.
+- [Beruang Hitam Taiwan](/id/nature/taiwanese-black-bear) — Spesies indikator ekosistem Yushan, garis depan lain setelah penyebaran anjing jalanan ke dataran rendah.
 - [Pangolin Taiwan](/id/nature/taiwan-pangolin) — Lima puluh persen individu di klinik darurat terluka oleh anjing jalanan.
 - [Isu Pembunuhan Burung di Taiwan](/id/nature/bird-window-collision-taiwan) — Biaya tak terlihat dari lingkungan buatan terhadap satwa liar lainnya.
 - [Etika Kebun Binatang dan Hewan Pameran](/id/society/zoo-and-exhibition-animal-ethics) — Sisi lain kesejahteraan hewan, dilema ketika manusia memutuskan untuk memilih bagi hewan.
-- [Kontroversi Penggunaan Obat Hewan di Taiwan](/society/台灣動物用藥爭議) — Masalah yang harus dihadapi pulau ini sepuluh tahun setelah kebijakan eutanasia nol: apa yang terjadi ketika mereka sakit dan tidak bisa membeli obat?
+- [Kontroversi Penggunaan Obat Hewan di Taiwan](/id/society/taiwan-animal-drug-controversy) — Masalah yang harus dihadapi pulau ini sepuluh tahun setelah kebijakan eutanasia nol: apa yang terjadi ketika mereka sakit dan tidak bisa membeli obat?
 
 ---
 

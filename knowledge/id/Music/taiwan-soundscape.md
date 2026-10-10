@@ -252,12 +252,12 @@ Asosiasi Lanskap Suara Taiwan bekerja sama dengan Kementerian Budaya untuk secar
 
 **Bacaan Lanjutan**:
 
-- [Lanskap Suara Taiwan](/culture/台灣聲景) — Kisah Saudari: Mengajukan pertanyaan lagi tentang suara yang sama dari sudut pandang "bagaimana kita mendengarkan," kolaborasi materi oleh peneliti lanskap suara.
+- [Lanskap Suara Taiwan](/id/culture/taiwan-soundscape) — Kisah Saudari: Mengajukan pertanyaan lagi tentang suara yang sama dari sudut pandang "bagaimana kita mendengarkan," kolaborasi materi oleh peneliti lanskap suara.
 - [🎧 Proyek Perekaman Lanskap Suara Taiwan](/soundscape) — Versi audio artikel ini: 21 segmen rekaman lapangan online yang berisi truk sampah, festival kuil, MRT, dan suara alam; kami mengundang Anda untuk menyumbangkan rekaman Anda.
-- [Wang Fu-rui](/people/王福瑞) — Asal muasal Wang Fu-rui, Yao Zhonghan, Zhang Yongda dalam seni "Seni Suara" artikel ini, yang mendirikan label musik eksperimental Taiwan pertama, NOISE, pada tahun 1993.
+- [Wang Fu-rui](/id/people/fujui-wang) — Asal muasal Wang Fu-rui, Yao Zhonghan, Zhang Yongda dalam seni "Seni Suara" artikel ini, yang mendirikan label musik eksperimental Taiwan pertama, NOISE, pada tahun 1993.
 - [Tradisi Musik Adat Taiwan](/id/music/indigenous-music-traditions) — Suara tradisional seperti paduan suara delapan bagian Boun Ng dan seruling Paiwan adalah lapisan tertua dari lanskap suara Taiwan.
 - [Budaya KTV Taiwan](/id/music/ktv-culture) — Dari panggung ke ruang pribadi, KTV adalah salah satu sumber suara buatan paling umum di malam hari di Taiwan; nyanyian yang bocor dari lima orang di ruangan membentuk sidik jari suara unik di malam hari.
-- [Perkembangan Hip Hop dan Rap Taiwan](/music/台灣嘻哈與饒舌發展) — Dari ruang bawah tanah kota hingga tangga lagu KKBOX, tekstur suara rap telah mengubah lapisan lanskap musik populer Taiwan.
+- [Perkembangan Hip Hop dan Rap Taiwan](/id/music/taiwan-hip-hop-and-rap) — Dari ruang bawah tanah kota hingga tangga lagu KKBOX, tekstur suara rap telah mengubah lapisan lanskap musik populer Taiwan.
 
 ---
 

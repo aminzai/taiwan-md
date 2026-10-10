@@ -209,7 +209,7 @@ Jika Anda melewati Guangdian Taipei di Bagian Dua Zhongshan Bei Lu lain kali, be
 - [Ximen Town: Jalan Hiburan yang Dibangun Orang Jepang pada Tahun 1896, Masih Menjadi Jalan Termuda di Taipei Setelah 130 Tahun](/id/geography/ximending) — Saudara kawasan bersejarah batch 1, sama-sama zona hiburan di luar kota selama pemerintahan Jepang seperti Sanjiao Tong, tetapi mengikuti jalur subkultur yang berbeda.
 - [Budaya Teh dan Estetika Hidup Taiwan](/id/culture/taiwan-tea-ceremony-and-aesthetic-living) — Pengaruh timbal balik antara estetika gaya Jepang dalam budaya Sanjiao Tong dan gerakan pemulihan teh pasca-perang Taiwan.
 - [Peristiwa 228](/id/history/228-incident) — Pada pukul 1 siang tanggal 28 Februari 1947, pawai massa menuju persimpangan Zhongshan Road ditembak oleh penjaga; Zhongshan Tang mengadakan pertemuan darurat pada hari yang sama dan menjadi lokasi komite penanganan peristiwa.
-- [Pohon Trotoar Taiwan](/lifestyle/台灣行道樹) — Logika perencanaan kolonial "jalan lebar dengan deretan pohon" dari teori penanaman pohon di Tiandai An pada tahun 1898 hingga cikal bakal Jalan Utusan Kekaisaran di Sanjiao Tong.
+- [Pohon Trotoar Taiwan](/id/lifestyle/taiwan-street-trees) — Logika perencanaan kolonial "jalan lebar dengan deretan pohon" dari teori penanaman pohon di Tiandai An pada tahun 1898 hingga cikal bakal Jalan Utusan Kekaisaran di Sanjiao Tong.
 - [Gang Pemandian Air Panas Beitou](/id/geography/beitou-hot-spring-street) — Perbandingan antara pelarangan prostitusi di Beitou pada tahun 1979 dan penghapusan prostitusi kota secara keseluruhan pada tahun 1997, sebagai dua jalur berbeda dari lanskap industri khusus pasca-perang Taipei.
 
 ## Sumber Gambar

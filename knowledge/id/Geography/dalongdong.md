@@ -304,12 +304,12 @@ Tiga era kepercayaan Taipei, berdampingan di sumbu 1,5 kilometer, tak ada urutan
 
 **Baca Lanjutan**:
 
-- [Kota Taipei](/geography/台北市) — Konteks lengkap kota Dalongdong, dari nomor lahan Chen-Lai-Zhang 1709 hingga panorama 2026
-- [Mengjia](/geography/艋舺) — Kawasan paling awal Taipei era Qing Longshan Si 1738, ujung lain perang Topia-Dingxia 1853
-- [Dadaocheng](/geography/大稻埕) — Tempat mendarat akhir orang Tong-an 1853, pusat perdagangan teh 1860, jalan saudara beda nasib Dalongdong
-- [Ximending](/geography/西門町) — Kawasan hiburan era Jepang 1908, era sama Dalongdong tapi eksperimen kota beda total
+- [Kota Taipei](/id/geography/taipei-city) — Konteks lengkap kota Dalongdong, dari nomor lahan Chen-Lai-Zhang 1709 hingga panorama 2026
+- [Mengjia](/id/geography/bangka) — Kawasan paling awal Taipei era Qing Longshan Si 1738, ujung lain perang Topia-Dingxia 1853
+- [Dadaocheng](/id/geography/dadaocheng) — Tempat mendarat akhir orang Tong-an 1853, pusat perdagangan teh 1860, jalan saudara beda nasib Dalongdong
+- [Ximending](/id/geography/ximending) — Kawasan hiburan era Jepang 1908, era sama Dalongdong tapi eksperimen kota beda total
 - [Agama dan Budaya Kuil Taiwan](/id/culture/taiwan-religion-and-temple-culture) — Konteks lengkap Baoan Gong, renovasi Liao Wu-zhi, penghargaan UNESCO
-- [Shilin](/geography/士林) — Perang Zhang-Quan 1859 dan orang Tong-an Dalongdong menampung pengungsi perang Topia-Dingxia 1853, dua suku perang era Qing Utara Taiwan
+- [Shilin](/id/geography/shilin) — Perang Zhang-Quan 1859 dan orang Tong-an Dalongdong menampung pengungsi perang Topia-Dingxia 1853, dua suku perang era Qing Utara Taiwan
 
 ## Sumber Gambar
 

@@ -81,7 +81,7 @@ Ungkapan ini mengubahnya dari seorang "influencer" kembali menjadi seorang "peke
 - [Ba Jiong](/id/people/pa-chiung-political-youtuber) — Veteran YouTuber dengan jalur 18+ tahun yang sama, dari kontra-serangan hingga amal dalam cara yang berbeda
 - [A-Ti](/id/people/ray-du-english-youtuber) — Generasi besar YouTuber Taiwan dengan jalur pertumbuhan lain (berawal dari pendidikan bahasa Inggris)
 - [Porter Wang](/id/people/potter-king-youtuber) — YouTuber lucu generasi yang sama, perbandingan strategi kreator menghadapi perubahan algoritme
-- [Howhow](/people/Howhow) — YouTuber dengan satu juta pelanggan di periode yang sama, membuka "kerja sama iklan" di bawah sinar matahari dengan strategi kelangsungan hidup yang berbeda
+- [Howhow](/id/people/howhow) — YouTuber dengan satu juta pelanggan di periode yang sama, membuka "kerja sama iklan" di bawah sinar matahari dengan strategi kelangsungan hidup yang berbeda
 - [Zun](/id/people/zun) — Dari kamar tahun dua SMP hingga dua saluran dengan satu juta pelanggan, meninggalkan catatan pertumbuhan YouTuber awal lainnya
 
 ## Referensi Sumber

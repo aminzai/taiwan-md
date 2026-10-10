@@ -214,6 +214,6 @@ Jawabannya masih sedang ditulis, dan setiap orang yang bersedia berkontribusi, a
 
 ## Topik Terkait
 
-- [Yayasan Budaya Terbuka](/technology/開放文化基金會): Yayasan hukum di balik g0v yang mengurus administrasi, menerbitkan faktur, dan mendukung komunitas, serta perjalanannya dari latar belakang menjadi penjaga hak-hak digital
+- [Yayasan Budaya Terbuka](/id/technology/open-culture-foundation): Yayasan hukum di balik g0v yang mengurus administrasi, menerbitkan faktur, dan mendukung komunitas, serta perjalanannya dari latar belakang menjadi penjaga hak-hak digital
 - [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry): Fondasi kekuatan teknologi Taiwan
 - [Mini Taiwan Pulse](/id/technology/mini-taiwan-pulse-civic-tech): Implementasi open source pribadi teknologi sipil 2026 — memvisualisasikan Taiwan sebagai jejak cahaya 3D dengan data terbuka TDX + Three.js

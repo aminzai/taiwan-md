@@ -63,14 +63,14 @@ Ia menginvestasikan **50 juta** untuk mengelola HUR. Estimasi awal 30-40 juta su
 
 HUR debut sebagai grup enam orang:
 
-| Nama Panggung                 | Nama Asli     | Asal                 | Posisi                     |
-| ----------------------------- | ------------- | -------------------- | -------------------------- |
-| Cindy                         | Li Shan-zhen  | Pingtung             | Ketua, Sub Vocal, Visual   |
-| Jasmine                       | Pei Xie       | Taipei               | Main Vocal, Center         |
-| C.Holly                       | Wang Can-yun  | Inggris              | Main Rapper, Main Dancer   |
-| **[Lian Ying](/people/連穎)** | **Lian Ying** | **Taichung**         | **Main Dancer, Sub Vocal** |
-| Sizi                          | Balen Yue     | Ulan Bator, Mongolia | Main Vocal                 |
-| Jennifer                      | Xi Zi-qi      | New Taipei           | Sub Vocal, Sub Dancer      |
+| Nama Panggung                         | Nama Asli     | Asal                 | Posisi                     |
+| ------------------------------------- | ------------- | -------------------- | -------------------------- |
+| Cindy                                 | Li Shan-zhen  | Pingtung             | Ketua, Sub Vocal, Visual   |
+| Jasmine                               | Pei Xie       | Taipei               | Main Vocal, Center         |
+| C.Holly                               | Wang Can-yun  | Inggris              | Main Rapper, Main Dancer   |
+| **[Lian Ying](/id/people/lien-ying)** | **Lian Ying** | **Taichung**         | **Main Dancer, Sub Vocal** |
+| Sizi                                  | Balen Yue     | Ulan Bator, Mongolia | Main Vocal                 |
+| Jennifer                              | Xi Zi-qi      | New Taipei           | Sub Vocal, Sub Dancer      |
 
 Enam orang di dalamnya ada dua bukan orang Taiwan: C.Holly dari Inggris, Sizi dari Ulan Bator Mongolia. Felipe.Z sengaja dari awal: menanam gen internasional di komposisi anggota[^2].
 
@@ -194,7 +194,7 @@ Pilihan ini bikin kecepatan tumbuh HUR+ jauh lebih lambat dari K-pop. Tapi juga 
 
 ## Girl Group Taiwan Masih Bisa Jauh Mana
 
-April 2026 sekarang, HUR+ punya sembilan anggota, tiga album, total 2,61 juta view YouTube, debut Asia Tenggara baru selesai Bangkok. Main dancer dalam grup [Lian Ying](/people/連穎) sudah keluar solo, personal EP _EZ_ jalan hip-hop, fans tiga negara sinkron dukungan[^10]. Ketua Li Shan-zhen demi grup berhenti jadi pramugari[^11]. C.Holly tangan patah tetap gips naik panggung lompat[^13]. Fans Hong Kong rutin terbang Taiwan kejar[^15].
+April 2026 sekarang, HUR+ punya sembilan anggota, tiga album, total 2,61 juta view YouTube, debut Asia Tenggara baru selesai Bangkok. Main dancer dalam grup [Lian Ying](/id/people/lien-ying) sudah keluar solo, personal EP _EZ_ jalan hip-hop, fans tiga negara sinkron dukungan[^10]. Ketua Li Shan-zhen demi grup berhenti jadi pramugari[^11]. C.Holly tangan patah tetap gips naik panggung lompat[^13]. Fans Hong Kong rutin terbang Taiwan kejar[^15].
 
 HUR+ bukan kisah sukses — kalau standar "sukses" adalah TWICE atau BLACKPINK. Tapi ini kisah **survival**. Di lingkungan rata-rata umur grup idol Taiwan kurang tiga tahun, enam tahun masih rilis lagu baru, masih adain show, masih dari Taipei jalan ke Bangkok, masih ada fans mau sepuluh menit lempar 1,5 juta kirim kamu Korea promosi, ini sendiri sudah jawaban.
 
@@ -206,11 +206,11 @@ HUR+ sedang buktiin hipotesis ini. Belum sepenuhnya terbukti, tapi setiap tahun 
 
 ## Bacaan Lanjutan
 
-- [Lian Ying](/people/連穎) — Main dancer HUR+, kasus pertama anggota girl group Taiwan solo. "Level tari yang seharusnya dimiliki girl group"
-- [Generasi Baru Idol Taiwan](/culture/台灣新偶像世代) — DD52 ke Universe Cheerleader, enam tahun eksperimen industri audisi idol Taiwan
-- [Yang Cheng-lin](/people/楊丞琳) — Mentor utama DD52, juga kisah 25 tahun keluar sistem idol menuju otonomi
+- [Lian Ying](/id/people/lien-ying) — Main dancer HUR+, kasus pertama anggota girl group Taiwan solo. "Level tari yang seharusnya dimiliki girl group"
+- [Generasi Baru Idol Taiwan](/id/culture/taiwan-new-idol-generation) — DD52 ke Universe Cheerleader, enam tahun eksperimen industri audisi idol Taiwan
+- [Yang Cheng-lin](/id/people/rainie-yang) — Mentor utama DD52, juga kisah 25 tahun keluar sistem idol menuju otonomi
 - [Mayday](/id/music/mayday-band) — Kisah lari panjang grup musik Taiwan lain dari venue kecil ke arena Asia
-- [Musik Indie Taiwan](/music/台灣獨立音樂) — Titik temu gaya musik HUR+ dan indie electronic
+- [Musik Indie Taiwan](/id/music/indie-music-scene) — Titik temu gaya musik HUR+ dan indie electronic
 
 ## Referensi
 

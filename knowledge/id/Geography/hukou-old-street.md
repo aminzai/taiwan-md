@@ -97,10 +97,10 @@ Tahun ditinggalkan, seharusnya adalah titik akhir jalan ini, hasilnya jadi titik
 
 **Baca Lanjutan**:
 
-- [Kabupaten Hsinchu](/geography/新竹縣) — Konteks seluruh Kabupaten Hsinchu tempat Hukou: kepercayaan Hakka, Festival Yimin, rasa waktu lain aliran Headwater Qian
+- [Kabupaten Hsinchu](/id/geography/hsinchu-county) — Konteks seluruh Kabupaten Hsinchu tempat Hukou: kepercayaan Hakka, Festival Yimin, rasa waktu lain aliran Headwater Qian
 - [Markas Hukou dan Kenangan Jalan Victoria](/id/history/hukou-camp-shengli-road-memory) — Hukou yang sama, cerita lain di dalam dan luar tembok tentang militer dan politik
-- [Budaya Makanan Hakka](/food/客家飲食文化) — Konteks budaya makanan Hakka di balik camilan jalan tua seperti talas, tahu
-- [Jalan Wisata Air Panas Beitou](/geography/北投溫泉街) — Jalan tua lain yang naik turun karena transportasi, lalu hidup kembali berkat inisiatif warga sendiri
+- [Budaya Makanan Hakka](/id/food/hakka-food-culture) — Konteks budaya makanan Hakka di balik camilan jalan tua seperti talas, tahu
+- [Jalan Wisata Air Panas Beitou](/id/geography/beitou-hot-spring-street) — Jalan tua lain yang naik turun karena transportasi, lalu hidup kembali berkat inisiatif warga sendiri
 
 ## Referensi
 

@@ -105,9 +105,9 @@ Persoalan di jalanan New York tahun 2009 tidak diselesaikan oleh satu judul beri
 
 ## Baca Lanjutan
 
-- [Chen Chih-chung](/people/陳致中) — adik laki-laki dari keluarga yang sama, dalam kasus sumpah palsu yang menjatuhkan hukuman ke tiga orang sekaligus, hanya dirinya yang mendapat hukuman percobaan
-- [Chen Shui-bian](/people/陳水扁) — dari pengacara oposisi hingga presiden pergantian kekuasaan partai pertama di Taiwan, seluruh sorotan dalam artikel ini berasal dari garis keturunan ini
-- [Media Taiwan dan Kebebasan Pers](/society/台灣媒體與新聞自由) — kejaran media tahun 2009 itu termasuk jenis etika liputan yang mana, garis ini sedang dibahas
+- [Chen Chih-chung](/id/people/chen-chih-chung) — adik laki-laki dari keluarga yang sama, dalam kasus sumpah palsu yang menjatuhkan hukuman ke tiga orang sekaligus, hanya dirinya yang mendapat hukuman percobaan
+- [Chen Shui-bian](/id/people/chen-shui-bian-controversial-president) — dari pengacara oposisi hingga presiden pergantian kekuasaan partai pertama di Taiwan, seluruh sorotan dalam artikel ini berasal dari garis keturunan ini
+- [Media Taiwan dan Kebebasan Pers](/id/society/media-and-press-freedom-in-taiwan) — kejaran media tahun 2009 itu termasuk jenis etika liputan yang mana, garis ini sedang dibahas
 
 - [Central News Agency: Membuka Klinik Sendiri dengan Senyum, Chen Hsing-yu Menjawab Semua Pertanyaan](https://www.cna.com.tw/news/firstnews/201612230076.aspx)
 - [Wikimedia Commons: 20161224 Pembukaan Klinik Gigi Chen Hsing-yu.jpg](https://commons.wikimedia.org/wiki/File:20161224_%E9%99%B3%E5%B9%B8%E5%A6%A4%E7%89%99%E9%86%AB%E8%A8%BA%E6%89%80%E9%96%8B%E6%A5%AD.jpg)

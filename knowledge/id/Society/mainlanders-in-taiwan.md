@@ -72,7 +72,7 @@ Bagi ketiga generasi Orang Provinsi Luar, 'Orang Provinsi Luar' sering hanya men
 
 ## Bacaan Lanjutan
 
-- [Kelompok (Minnan, Hakka, Penduduk Asli, Orang Provinsi Luar Baru)](/culture/族群（閩南客家原住民外省新住民）) — Memahami interaksi Orang Provinsi Luar dengan kelompok lain dalam konteks klasifikasi kelompok yang lebih luas.
+- [Kelompok (Minnan, Hakka, Penduduk Asli, Orang Provinsi Luar Baru)](/id/culture/ethnic-groups) — Memahami interaksi Orang Provinsi Luar dengan kelompok lain dalam konteks klasifikasi kelompok yang lebih luas.
 - [Sejarah Desa Militer Taiwan](/id/history/taiwan-military-dependents-villages-history) — Menambahkan ruang tinggal, jaringan komunitas, dan ingatan budaya setelah migrasi Orang Provinsi Luar tiba.
 - [White Terror Taiwan](/id/history/taiwan-white-terror) — Menghubungkan pengalaman penderitaan Orang Provinsi Luar dalam pemerintahan otoriter dan kasus politik.
 

@@ -137,5 +137,5 @@ Pemuda Taiwan memilih jalan kedua. Namun, ini tidak seharusnya dipuji. Ini sehar
 
 ## Baca Juga
 
-- [Undang-Undang Pengiriman Kurir](/society/外送專法) — Setelah "patch sistem yang terlambat" diluncurkan: apa yang terjadi ketika lantai 45 yuan benar-benar jatuh ke tubuh nyata, serta dua pertanyaan yang belum terjawab
-- [Siapa yang Dianggap Gaji Rendah](/society/誰算低薪) — Gaji minimum melebihi garis gaji rendah, gaji rendah masuk ke kolom bonus akhir tahun, dan bagi mereka yang bekerja paruh waktu, gaji minimum saja pun tidak cukup untuk mengukur mereka
+- [Undang-Undang Pengiriman Kurir](/id/society/delivery-platform-law) — Setelah "patch sistem yang terlambat" diluncurkan: apa yang terjadi ketika lantai 45 yuan benar-benar jatuh ke tubuh nyata, serta dua pertanyaan yang belum terjawab
+- [Siapa yang Dianggap Gaji Rendah](/id/society/who-counts-as-low-wage) — Gaji minimum melebihi garis gaji rendah, gaji rendah masuk ke kolom bonus akhir tahun, dan bagi mereka yang bekerja paruh waktu, gaji minimum saja pun tidak cukup untuk mengukur mereka

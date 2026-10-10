@@ -114,10 +114,10 @@ Yang masih ia tanyakan hingga kini, tetaplah kalimat yang ditulisnya saat reside
 ## Bacaan Lanjutan
 
 - **[FAB DAO dan Proyek Hundred Peaks](/id/art/fab-dao)** — Enam seniman dalam Proyek Hundred Peaks dan struktur NFT amal
-- **[Wang Hsin-jen (A-Luan)](/art/王新仁)** — Seniman generatif dalam kelompok yang sama dari Proyek Hundred Peaks, seniman Taiwan pertama yang muncul di Art Blocks
+- **[Wang Hsin-jen (A-Luan)](/id/art/wang-hsin-jen-artist)** — Seniman generatif dalam kelompok yang sama dari Proyek Hundred Peaks, seniman Taiwan pertama yang muncul di Art Blocks
 - **[Wang Lian-sheng (Ayam Papa)](/id/art/wang-lien-cheng-artist)** — Seri "Civilization" dari Proyek Hundred Peaks, pemenang Penghargaan Luminous
-- **[Seni Media Baru Taiwan](/art/台灣新媒體藝術)** — Konteks historis seni generatif dalam seni media baru Taiwan
-- **[Chi Po-hao](/art/紀柏豪)** — Seniman suara dalam ekosistem Laboratorium Suara C-LAB, pameran bersama DIVERSONICS 2025
+- **[Seni Media Baru Taiwan](/id/art/taiwan-new-media-art)** — Konteks historis seni generatif dalam seni media baru Taiwan
+- **[Chi Po-hao](/id/art/chi-po-hao-musician)** — Seniman suara dalam ekosistem Laboratorium Suara C-LAB, pameran bersama DIVERSONICS 2025
 
 ## Referensi
 

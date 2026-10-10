@@ -178,7 +178,7 @@ Warna di dalam bak telah hidup kembali. Adapun bentuk akhir warna ini, Sanxia, Z
 
 ## Bacaan Lanjutan
 
-- [Kerajinan Tradisional Taiwan dan Warisan Budaya Takbenda](/culture/台灣傳統工藝與無形文化資產) — Posisi kebangkitan pewarnaan biru Sanxia dalam sistem pelestarian kerajinan di Taiwan, serta konteks yang lebih luas dari "inisiatif masyarakat sebelum pengakuan institusional"
+- [Kerajinan Tradisional Taiwan dan Warisan Budaya Takbenda](/id/culture/traditional-crafts-intangible-cultural-heritage) — Posisi kebangkitan pewarnaan biru Sanxia dalam sistem pelestarian kerajinan di Taiwan, serta konteks yang lebih luas dari "inisiatif masyarakat sebelum pengakuan institusional"
 - [Jalan Tua Sanxia](/id/history/sanxia-old-street) — Sejarah konservasi arsitektur Jalan Tua Sanxia; artikel ini membahas kerajinan itu sendiri, sementara artikel tersebut membahas jalan dan situs bersejarah.
 - [Budaya dan Bahasa Hakka](/id/culture/hakka-culture-and-language) — Konteks budaya kelompok yang lebih lengkap di balik baju biru Hakka dan _daqinshan_.
 - [Kain Bunga Taiwan](/id/culture/taiwan-floral-fabric) — Motif tenun lain yang pernah dianggap sebagai simbol Hakka, namun kemudian ditemukan memiliki asal-usul yang lebih kompleks.

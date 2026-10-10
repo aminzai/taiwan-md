@@ -119,9 +119,9 @@ Orang yang menandatangani Perjanjian Eluanbi, dan orang yang menjual intelijen T
 
 **Baca Lebih Lanjut**:
 
-- [Insiden Rover dan Tokitok](/history/羅發號事件與卓杞篤) — Pendamping C-2 artikel ini: sejarah yang sama dari perspektif Tokitok, bagaimana Perjanjian Eluanbi melindungi kaumnya, dan bagaimana dibelakang oleh separuh lain perjanjian
-- [Sejarah dan Gerakan Normalisasi Nama Orang Asli Taiwan](/history/台灣原住民族歷史與正名運動) — Suku Paiwan dalam Perjanjian Eluanbi, perjalanan panjang dari "番地" ke normalisasi nama
-- [Masa Pemerintahan Qing](/history/清治時期) — Struktur pemerintahan Qing saat Le Gendre datang ke Taiwan, memahami latar institusional jawaban "tidak di bawah yurisdiksi"
+- [Insiden Rover dan Tokitok](/id/history/rover-incident-and-tauketok) — Pendamping C-2 artikel ini: sejarah yang sama dari perspektif Tokitok, bagaimana Perjanjian Eluanbi melindungi kaumnya, dan bagaimana dibelakang oleh separuh lain perjanjian
+- [Sejarah dan Gerakan Normalisasi Nama Orang Asli Taiwan](/id/history/indigenous-peoples-history-and-naming-movement) — Suku Paiwan dalam Perjanjian Eluanbi, perjalanan panjang dari "番地" ke normalisasi nama
+- [Masa Pemerintahan Qing](/id/history/qing-dynasty-rule) — Struktur pemerintahan Qing saat Le Gendre datang ke Taiwan, memahami latar institusional jawaban "tidak di bawah yurisdiksi"
 - [Robert Swinhoe](/id/people/robert-swinhoe-naturalist) — Orang asing lain era yang sama yang meninggalkan catatan mendalam di Taiwan, tapi motivasi sains bukan kekuasaan
 - [Perang Qing-Prancis](/id/history/sino-french-war-in-taiwan) — Delapan tahun setelah Le Gendre pergi, Prancis pakai logika kekaisaran serupa menyerang Taiwan
 

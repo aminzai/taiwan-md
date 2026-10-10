@@ -231,14 +231,14 @@ Kali berikut ke Yunlin, jangan cuma ke Gukeng minum kopi. Coba jam 5.30 pagi ke 
 
 - [Kabupaten Yilan](/id/geography/yilan-county) — saudara seri 22 kabupaten/kota, 13 Desember 1987 Chen Ding-nan blokir Enam Ringan di luar Dataran Lanyang, Juni 1991 Yuan Zhengyuan tetapkan pindah Yunlin Mailiao, ini kalimat nasib bersama Yilan dan Yunlin
 - [Kota Keelung](/id/geography/keelung-city) — pilot seri 22 kabupaten/kota, sama Yunlin "dibingkai narasi ibukota tekan kabupaten menengah", bandingin dua wajah tempat yang tertinggal narasi pusat
-- [Kabupaten Chiayi](/geography/嘉義縣) — saudara seri 22 kabupaten/kota, sengketa waris Kuil Fengtian Xingang dan Kuil Chaotian Beigang lintas kabupaten belit dua ratus lebih tahun
-- [Kota Chiayi](/geography/嘉義市) — saudara seri 22 kabupaten/kota, sama Beigang waris inti sejarah Bengang kontemporer
-- [Grup Formosa Plastics](/economy/台灣企業：台塑集團) — Wang Yung-ching 1973 ajukan pabrik pecah minyak ringan sampai 1998 Yunlin Enam Ringan nyala sejarah perusahaan lengkap
-- [Tai-tang](/economy/台糖) — 1909 cerobong pertama Pabrik Gula Huwei nyala sampai 1999 berhenti produksi gula tebu industri gula Taiwan 90 tahun
+- [Kabupaten Chiayi](/id/geography/chiayi-county) — saudara seri 22 kabupaten/kota, sengketa waris Kuil Fengtian Xingang dan Kuil Chaotian Beigang lintas kabupaten belit dua ratus lebih tahun
+- [Kota Chiayi](/id/geography/chiayi-city) — saudara seri 22 kabupaten/kota, sama Beigang waris inti sejarah Bengang kontemporer
+- [Grup Formosa Plastics](/id/economy/formosa-plastics-group) — Wang Yung-ching 1973 ajukan pabrik pecah minyak ringan sampai 1998 Yunlin Enam Ringan nyala sejarah perusahaan lengkap
+- [Tai-tang](/id/economy/taiwan-sugar) — 1909 cerobong pertama Pabrik Gula Huwei nyala sampai 1999 berhenti produksi gula tebu industri gula Taiwan 90 tahun
 - [Legenda Mazu dan Da Dao Gong](/id/culture/mazu-dadaogong-legend) — posisi kepercayaan Mazu yang Kuil Chaotian Beigang sembah di masyarakat Taiwan
 - [Pembagian Administrasi Taiwan](/id/geography/administrative-divisions-of-taiwan) — 1887 Yunlin bangun kabupaten / 1893 ibu kota dari Linpipu pindah Douliu / 1920 jadi Negara Tainan Kabupaten Huwei Kabupaten Beigang / 1945 bangun ulang kabupaten evolusi lengkap
 - [Sistem Sungai dan Karakteristik Hidrologi Taiwan](/id/geography/taiwan-river-systems-and-hydrology) — pengaruh pasti kipas aluvial Sungai Zhuoshui dan Sungai Beigang ke lanskap pertanian Yunlin
-- [Lanskap Pertanian dan Distribusi Industri Taiwan](/geography/台灣農業地景與產業分布) — posisi identitas lumbung beras Beras Xiluo dan Beras Chishang di lanskap pertanian nasional Taiwan
+- [Lanskap Pertanian dan Distribusi Industri Taiwan](/id/geography/taiwan-agricultural-landscapes-and-industry-belts) — posisi identitas lumbung beras Beras Xiluo dan Beras Chishang di lanskap pertanian nasional Taiwan
 
 ## Sumber Gambar
 

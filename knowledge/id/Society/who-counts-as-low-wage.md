@@ -175,7 +175,7 @@ Siapa yang dihitung upah rendah, jawabannya ada di kolom kedua slip gaji. Hari i
 
 ## Bacaan Lanjutan
 
-- [Undang-Undang Khusus Pengiriman Makanan](/society/外送專法) — Lantai lain yang dibangun dengan hukum: kompensasi minimum untuk setiap pesanan pengiriman, di atas lantai tersebut diserahkan kepada pasar
+- [Undang-Undang Khusus Pengiriman Makanan](/id/society/delivery-platform-law) — Lantai lain yang dibangun dengan hukum: kompensasi minimum untuk setiap pesanan pengiriman, di atas lantai tersebut diserahkan kepada pasar
 - [Masalah Pendingin Udara dan Kemiskinan Energi](/id/society/energy-poverty-and-cooling) — Ukuran lain dari kemiskinan: dari pendapatan berubah menjadi tagihan listrik, apakah mampu menyalakan pendingin udara di musim panas
 - [Kemiskinan Pembelajaran](/id/society/learning-poverty-in-taiwan) — Pertanyaan definisi yang sama: bagaimana anak-anak yang duduk di kelas tetapi tidak belajar apa pun dihitung
 - [Generasi Ganda Profesi Taiwan](/id/society/taiwan-slash-generation-multi-job-economy) — Pekerjaan yang dilakukan orang-orang yang gajinya tidak cukup setelah jam kerja, sebagian besar berada di luar ukuran yang dijelaskan dalam artikel ini

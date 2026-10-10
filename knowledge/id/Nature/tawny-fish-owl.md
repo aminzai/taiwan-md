@@ -155,10 +155,10 @@ Dan sekarang, di Wu Hsin Shan pada ketinggian 1.800 meter, dua ekor burung muda 
 
 - [Ornitologi Formosa](/id/nature/the-ornithology-of-formosa) — Beluk Ketam baru dinamai pada 1916, termasuk salah satu burung residennya yang baru "ditemukan" oleh ilmu alam di akhir masa kolonial Jepang, menunjukkan struktur temporal penelitian ornitologi Taiwan
 - [Salmon Formosa](/id/nature/formosan-landlocked-salmon) — Keduanya berbagi ekosistem Sungai Qijiawan, Sun Yuan-hsün pada periode yang sama dipercayakan oleh Shei-Pa untuk mempelajari kedua spesies, dua ujung komunitas habitat
-- [Beruang Hitam Taiwan](/nature/台灣黑熊) — Sama-sama spesies yang dilacak jangka panjang oleh Institut Konservasi Satwa Liar Universitas Sains dan Teknologi Pingtung, keduanya bergantung pada lingkungan pohon tua raksasa di elevasi menengah
+- [Beruang Hitam Taiwan](/id/nature/taiwanese-black-bear) — Sama-sama spesies yang dilacak jangka panjang oleh Institut Konservasi Satwa Liar Universitas Sains dan Teknologi Pingtung, keduanya bergantung pada lingkungan pohon tua raksasa di elevasi menengah
 - [Ekosistem Hutan Taiwan](/id/nature/taiwan-forest-ecosystems) — Proporsi pohon raksasa dengan diameter dada >1 meter dan hutan alami, Beluk Ketam adalah "duta" paling dramatis untuk "burung pohon tua"
-- [Pedang Yitian Sungai Da'an](/nature/大安溪倚天劍) — Sama-sama tersembunyi di dalam Shei-Pa, pohon tua raksasa yang selamat berkat "tidak terjangkau manusia"; hutan primer lembah sumber yang tidak terganggu di mana Taiwan cedar tumbuh menjadi pohon tertinggi di Asia Timur,正是 Beluk Ketam bergantung padanya sebagai habitat
-- [Taman Nasional Taiwan](/nature/台灣國家公園) — Tiga taman nasional besar Shei-Pa, Taroko, dan Yushan adalah benteng terakhir populasi stabil Beluk Ketam, kasus nyata sistem kawasan lindung
+- [Pedang Yitian Sungai Da'an](/id/nature/daan-river-yitian-sword) — Sama-sama tersembunyi di dalam Shei-Pa, pohon tua raksasa yang selamat berkat "tidak terjangkau manusia"; hutan primer lembah sumber yang tidak terganggu di mana Taiwan cedar tumbuh menjadi pohon tertinggi di Asia Timur,正是 Beluk Ketam bergantung padanya sebagai habitat
+- [Taman Nasional Taiwan](/id/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — Tiga taman nasional besar Shei-Pa, Taroko, dan Yushan adalah benteng terakhir populasi stabil Beluk Ketam, kasus nyata sistem kawasan lindung
 
 ## Referensi
 

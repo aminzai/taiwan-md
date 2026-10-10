@@ -248,10 +248,10 @@ Artikel ini pakai 3 gambar lisensi publik dan 3 video resmi Junyi. Gambar semua 
 
 ## Bacaan Lanjutan
 
-- [Ye Bing-cheng](/people/葉丙成)：PaGamO bikin PR jadi petualangan, jalan lain inovasi pendidikan gamifikasi
-- [Huang Guo-zhen](/people/黃國珍)：Pin Xue Tang dan _Pemahaman Membaca_, bikin "bisa baca" jadi satu ilmu
-- [Liu An-ting](/people/劉安婷)：Teach for Taiwan (TFT), kirim anak muda ke kelas daerah terpencil dua tahun
-- [Yan Chang-shou](/people/嚴長壽)：Dari ayah pariwisata beralih pendidikan daerah terpencil, nama Junyi pinjam darinya
+- [Ye Bing-cheng](/id/people/yeh-ping-cheng-education-innovator)：PaGamO bikin PR jadi petualangan, jalan lain inovasi pendidikan gamifikasi
+- [Huang Guo-zhen](/id/people/huang-kuo-chen)：Pin Xue Tang dan _Pemahaman Membaca_, bikin "bisa baca" jadi satu ilmu
+- [Liu An-ting](/id/people/liu-an-ting-teach-for-taiwan)：Teach for Taiwan (TFT), kirim anak muda ke kelas daerah terpencil dua tahun
+- [Yan Chang-shou](/id/people/stanley-yen)：Dari ayah pariwisata beralih pendidikan daerah terpencil, nama Junyi pinjam darinya
 
 ## Referensi
 

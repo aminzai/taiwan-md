@@ -47,7 +47,7 @@ Pada 12 Juni 2020, _DD52_ tayang perdana serentak di YouTube dan ETtoday[^2].
 
 Spesifikasi DD52 jauh melampaui acara audisi sejenis pada masanya. Produser Zhan Renxiong (salah satu orang paling jago bikin acara di dunia hiburan Taiwan) bekerja sama dengan Liang Tinghao, menginvestasikan **1,3 miliar dolar Taiwan baru** anggaran produksi. Angka ini lima hingga enam kali lipat acara sejenis di Taiwan saat itu. Hanya untuk lagu asli sudah menghabiskan 18 juta, spesifikasi perangkat keras 2,5 kali _Super Star_[^2].
 
-104 gadis, rata-rata usia 13 hingga 25 tahun, dibagi empat kelompok: Hurricane (Badai Hati), Blaze Love (Api Cinta), Pink Fun (Mawar Merah Muda), White Diamond (Permata Putih Salju)[^3]. Mentor utama adalah [Rainie Yang](/people/楊丞琳) dan Wilber Pan, mentor tamu meliputi Chen Linong, EggPlantEgg, Cyndi Wang, [Jam Hsiao](/id/people/jam-hsiao), Eric Chou, [Waa Wei](/people/魏如萱), 9m88, Wu Zhuoyuan dan sebagainya tujuh belas orang musikawan[^3].
+104 gadis, rata-rata usia 13 hingga 25 tahun, dibagi empat kelompok: Hurricane (Badai Hati), Blaze Love (Api Cinta), Pink Fun (Mawar Merah Muda), White Diamond (Permata Putih Salju)[^3]. Mentor utama adalah [Rainie Yang](/id/people/rainie-yang) dan Wilber Pan, mentor tamu meliputi Chen Linong, EggPlantEgg, Cyndi Wang, [Jam Hsiao](/id/people/jam-hsiao), Eric Chou, [Waa Wei](/id/people/waa-wei-singer), 9m88, Wu Zhuoyuan dan sebagainya tujuh belas orang musikawan[^3].
 
 Tiga belas episode, tiap episode dua jam. Final pada 4 September 2020.
 
@@ -203,7 +203,7 @@ Tapi di bawah narasi besar "debut mudah, bertahan sulit", beberapa kasus individ
 
 [HUR+](/id/people/hur-plus-band) produser Felipe pakai strategi "tidak kayak grup Korea" biar grup bertahan enam tahun, tiga album, crowdfunding ke Korea promosi, kewarganegaraan anggota melintasi Mongolia, Inggris, Indonesia dan keturunan Vietnam, tiap anggota baru masuk sesuai satu pasar target[^4].
 
-[Lian Ying](/people/連穎) (main dancer HUR+) dari grup jalan solo, 2025 rilis EP pribadi _EZ_, pilih jalan hip-hop dan R&B. Fans-nya di Dadaocheng crowdfunding bikin panggung ulang tahun, di Taiwan Jepang Thailand tiga tempat serentak pasang iklan dukungan[^13]. Budaya dukungan K-pop sedang dilokalisasi oleh komunitas fans idola Taiwan.
+[Lian Ying](/id/people/lien-ying) (main dancer HUR+) dari grup jalan solo, 2025 rilis EP pribadi _EZ_, pilih jalan hip-hop dan R&B. Fans-nya di Dadaocheng crowdfunding bikin panggung ulang tahun, di Taiwan Jepang Thailand tiga tempat serentak pasang iklan dukungan[^13]. Budaya dukungan K-pop sedang dilokalisasi oleh komunitas fans idola Taiwan.
 
 GenBlue (Phantom Blue Bear) dapat juara Next Girlz, 2024 benar-benar ke Korea debut. Ozone jadi grup pria generasi baru pertama solo di Taipei Arena. F.F.O album debut dapat pengakuan pasar[^10].
 
@@ -224,10 +224,10 @@ Jawabannya belum keluar. Tapi orang-orang yang masih di panggung: grup wakil jua
 ## Bacaan Lanjutan
 
 - [HUR+](/id/people/hur-plus-band) — Wakil juara DD52, enam tahun kemudian satu-satunya grup yang masih rilis album. "Beda dengan grup Korea, punya peluang tidak kalah sama grup Korea"
-- [Lian Ying](/people/連穎) — Main dancer HUR+, kasus eksperimen anggota grup putri Taiwan jalan solo
-- [Rainie Yang](/people/楊丞琳) — Mentor utama DD52, dia sendiri juga dari sistem idola jalan keluar cerita 25 tahun hak otonomi
-- [Jolin Tsai](/id/people/jolin-tsai) — "Ratu pop bakat lokal" Taiwan, [Lian Ying](/people/連穎) publik sebut dia "dewaku"
-- [Musik Populer Taiwan](/music/台灣流行音樂) — Taiwan bagaimana di peta musik Mandarin menduduki posisi pusat
+- [Lian Ying](/id/people/lien-ying) — Main dancer HUR+, kasus eksperimen anggota grup putri Taiwan jalan solo
+- [Rainie Yang](/id/people/rainie-yang) — Mentor utama DD52, dia sendiri juga dari sistem idola jalan keluar cerita 25 tahun hak otonomi
+- [Jolin Tsai](/id/people/jolin-tsai) — "Ratu pop bakat lokal" Taiwan, [Lian Ying](/id/people/lien-ying) publik sebut dia "dewaku"
+- [Musik Populer Taiwan](/id/music/golden-melodies-legacy-taiwan-pop-music) — Taiwan bagaimana di peta musik Mandarin menduduki posisi pusat
 - [Budaya Baseball Taiwan](/id/culture/taiwan-baseball-culture) — Induk budaya cheerleader, titik masuk Cosmic Angels datang dari sini
 
 ## Referensi

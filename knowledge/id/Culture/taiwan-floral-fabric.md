@@ -146,8 +146,8 @@ Hari ini, saat kita menghargai kembali peony cerah, krisan anggun, mawar romanti
 
 **Bacaan Lanjutan**：
 
-- [Pewarnaan Indigo](/culture/藍染) — Kerajinan tenun pewarnaan lain yang pernah disederhanakan jadi simbol satu kelompok, kemudian ditemukan asal usulnya lebih kompleks
-- [Kerajinan Tradisional dan Aset Budaya Tak Benda Taiwan](/culture/台灣傳統工藝與無形文化資產) — Konteks sistem pelestarian kerajinan yang dihadapi kain bunga dan pewarnaan indigo bersama
+- [Pewarnaan Indigo](/id/culture/taiwan-indigo-dyeing) — Kerajinan tenun pewarnaan lain yang pernah disederhanakan jadi simbol satu kelompok, kemudian ditemukan asal usulnya lebih kompleks
+- [Kerajinan Tradisional dan Aset Budaya Tak Benda Taiwan](/id/culture/traditional-crafts-intangible-cultural-heritage) — Konteks sistem pelestarian kerajinan yang dihadapi kain bunga dan pewarnaan indigo bersama
 
 ## Referensi
 

@@ -424,8 +424,8 @@ _Tanda tangan pribadi Tang Feng yang dipublikasikan Agustus 2021, asalnya untuk 
 - [Sodagreen: Dari Panggung Kecil Gongliao ke Perjuangan "Oaeen", Sebuah Pertarungan Kedaulatan Musik yang Berlangsung Dua Puluh Tahun](/id/music/sodagreen) — Sama-sama muncul di era 2000-an sebagai "anomali" Taiwan, sama-sama "menolak dibingkai oleh identitas yang ditetapkan" dalam perjuangan jangka panjang, hanya beda arenanya di industri musik bukan di pemerintahan
 - [Hsiao Shang-nung](/id/people/tony-hsiao-inside-founder) — Pendiri bersama INSIDE dan iCooking, sama-sama mendefinisikan perannya di lingkaran teknologi Taiwan dengan "melintasi banyak bidang"
 - [Wu Ta-you](/id/people/tai-yu-wu) — Dari sains ke teknologi, warisan elit intelektual Taiwan, Wu Ta-you dalam kapasitasnya sebagai Presiden Akademia Sinica meletakkan fondasi sistem penelitian Taiwan
-- [Yayasan Budaya Terbuka](/technology/開放文化基金會) — Dari backend pelaporan g0v tumbuh menjadi jembatan hak digital Taiwan, badan hukum yang berkali-kali "bertemu" dengan Kementerian Pengembangan Digital di bawah kepemimpinan Audrey Tang, baik bekerja sama maupun mengawasi
-- [Pandemi COVID-19 dan Vaksin Taiwan](/society/台灣新冠疫情與疫苗) — Di pandemi seperti apa rantai koordinasi peta masker itu berjalan, serta delapan belas bulan yang diraih Taiwan berkat pengamanan batas dan kebijakan masker
+- [Yayasan Budaya Terbuka](/id/technology/open-culture-foundation) — Dari backend pelaporan g0v tumbuh menjadi jembatan hak digital Taiwan, badan hukum yang berkali-kali "bertemu" dengan Kementerian Pengembangan Digital di bawah kepemimpinan Audrey Tang, baik bekerja sama maupun mengawasi
+- [Pandemi COVID-19 dan Vaksin Taiwan](/id/society/taiwan-covid-pandemic-and-vaccines) — Di pandemi seperti apa rantai koordinasi peta masker itu berjalan, serta delapan belas bulan yang diraih Taiwan berkat pengamanan batas dan kebijakan masker
 
 ## Sumber Gambar
 

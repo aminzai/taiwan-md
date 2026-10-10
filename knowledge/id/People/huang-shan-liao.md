@@ -206,8 +206,8 @@ Koleksi “Kinmen 1969” tidak dilihat siapa pun, lalu menghilang. “Sepotong 
 - [Wu Pao-chun](/id/people/wu-bao-chun) — perajin Taiwan lain yang menjadi juara dunia; perbedaannya, keterampilannya dilihat orang
 - [André Chiang](/id/people/andre-chiang-taiwanese-culinary-innovator) — menetapkan posisi koki Taiwan di panggung internasional, sebuah nasib lain di jalan “membuat sesuatu dengan baik”
 - [Chang Chih-chi](/id/people/shasha77-chang-chih-chi) — “kurator informasi” yang juga membuat hal rumit mudah dibaca dan mencari resonansi pada zaman perhatian
-- [Jimmy Liao](/people/幾米) — kreator penyembuhan yang berangkat dari perusahaan periklanan lalu menjadi penulis laris internasional, cara lain untuk terlihat
-- [Audrey Tang](/people/唐鳳) — cermin lain tentang cara Taiwan memperlakukan seseorang yang sulit dikategorikan
+- [Jimmy Liao](/id/people/jimmy-liao) — kreator penyembuhan yang berangkat dari perusahaan periklanan lalu menjadi penulis laris internasional, cara lain untuk terlihat
+- [Audrey Tang](/id/people/audrey-tang) — cermin lain tentang cara Taiwan memperlakukan seseorang yang sulit dikategorikan
 
 ## Sumber gambar
 
