@@ -281,7 +281,7 @@ The names on the wall are growing more numerous. Will the person holding the pen
 - [Computex: Taipei's Computer Show Becomes Global AI Opening Ceremony](/en/technology/computex) — The stage where the wall of logos shines, Taiwan technology industry's annual main event.
 - [Artificial Intelligence Industry](/en/technology/artificial-intelligence-industry) — From manufacturing NVIDIA chips to building an AI ecosystem, Taiwan's position in the AI wave.
 - [Taiwan's AI Development and Future Strategy](/en/technology/artificial-intelligence-development-strategy) — Sovereign AI, TAIDE, and Taiwan's national ambition to climb up from contract manufacturing.
-- [Taiwan Tech Stories: 100-Point Chips, 60-Point Microphones](/en/technology/taiwan-tech-stories) — Two ways of telling the story of the same chip: the premium earned by NVIDIA, and what Taiwan's technology needs to learn.
+- [Taiwan Tech Stories: 100-Point Chips, 60-Point Microphones](/en/technology/taiwan-tech-storytelling) — Two ways of telling the story of the same chip: the premium earned by NVIDIA, and what Taiwan's technology needs to learn.
 - [Taiwanese Company: Foxconn Precision Industry](/en/economy/foxconn-precision-industry) — The manufacturing giant assembling 40% of global AI racks, the biggest hands at the bottom of the smile curve.
 
 ## Image Sources

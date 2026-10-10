@@ -155,8 +155,8 @@ This is where Taiwanese Island Historiography is most useful for general readers
 
 **Further Reading:**
 
-- [Formosa](/history/formosa) — Returning from Western "discovery" narratives to how Taiwan was named, imagined, and reinterpreted.
-- [Dutch-Spanish and Koxinga Periods](/history/明心鄭時期) — See how 17th-century Taiwan entered the East Asian maritime sphere through interaction with European colonization and local society.
+- [Formosa](/en/history/formosa-historical-name) — Returning from Western "discovery" narratives to how Taiwan was named, imagined, and reinterpreted.
+- [Dutch-Spanish and Koxinga Periods](/en/history/dutch-spanish-and-koxinga-era) — See how 17th-century Taiwan entered the East Asian maritime sphere through interaction with European colonization and local society.
 - [February 28 Incident](/en/history/228-incident) — How the post-war regime transition became one of the deepest ruptures in the layers of Taiwanese memory.
 - [National Museum of Taiwan History](/en/society/national-museum-of-taiwan-history) — How a national museum turned "Taiwanese Island Historiography" into a public exhibition space.
 - [Archipelago Thinking](/en/culture/archipelago-thinking) — Looking beyond a single island to understand the relationship between Taiwan and neighboring islands and the maritime world.

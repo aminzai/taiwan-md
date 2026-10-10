@@ -170,10 +170,10 @@ That forgotten instruction was caught once. Next time, it won't be forgotten.
 
 ## Further Reading
 
-- [Cognitive Warfare](/society/cognition_warfare) — The framework of cognitive warfare, its boundaries, and the principle of "complexity over accuracy"
-- [Poisonous Potato Cognitive Warfare](/society/poison_potato_cognitive_warfare) — How a narrative war "hits the true ground" and another example of rejecting binary models
-- [Taiwan AI Lab](/technology/taiwan_ai_lab) — Local technology using AI to detect coordinated cognitive operations
-- [Taiwan Media and Freedom of Press](/society/taiwan_media_freedom) — The broader context of Wang-Chung's controversies and media group structures
+- [Cognitive Warfare](/en/society/cognitive-warfare-against-taiwan) — The framework of cognitive warfare, its boundaries, and the principle of "complexity over accuracy"
+- [Poisonous Potato Cognitive Warfare](/en/society/poisoned-potato-cognitive-warfare-taiwan) — How a narrative war "hits the true ground" and another example of rejecting binary models
+- [Taiwan AI Lab](/en/technology/taiwan-ai-labs) — Local technology using AI to detect coordinated cognitive operations
+- [Taiwan Media and Freedom of Press](/en/society/media-and-press-freedom-in-taiwan) — The broader context of Wang-Chung's controversies and media group structures
 
 ## Image Sources
 

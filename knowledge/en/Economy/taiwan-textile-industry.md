@@ -76,8 +76,8 @@ Zhou Li-ping, Chairman of Juyang, stated when passing the baton to his second-ge
 
 ## Further Reading
 
-- [Taiwan's Circular Economy and Resource Reuse](/economy/taiwan-circular-economy-and-resource-reuse) — Background on the Bottle to Garment circular economy
-- [Taiwan's Industrial Transformation and Upgrading](/economy/taiwan-industrial-transformation-and-upgrading) — A broader framework of traditional industry transformation
+- [Taiwan's Circular Economy and Resource Reuse](/en/economy/circular-economy-and-resource-recycling) — Background on the Bottle to Garment circular economy
+- [Taiwan's Industrial Transformation and Upgrading](/en/economy/industrial-transformation-from-manufacturing-to-innovation) — A broader framework of traditional industry transformation
 
 ## References and Sources
 

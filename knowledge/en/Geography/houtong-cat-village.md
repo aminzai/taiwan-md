@@ -213,7 +213,7 @@ It's the same water of the Keelung River.
 **Further Reading:**
 
 - [Jinguashi](/en/geography/jinguashi) — Sister settlement upstream on the same Keelung River, mining heritage transformed via the "Gold Ecological Park" eco-museum path
-- [History of Taiwan Railways](/en/history/TBD-NEEDS-SLUG) — The Pingxi Line railway, opened in 1920, is the physical backbone of the tourism corridor linking Houtong, Pingxi, Jingtong, and Shifen
+- [History of Taiwan Railways](/en/history/taiwan-railway-history) — The Pingxi Line railway, opened in 1920, is the physical backbone of the tourism corridor linking Houtong, Pingxi, Jingtong, and Shifen
 - [Stray Animal Culture in Taiwan](/en/society/stray-animal-culture) — The Taiwan context of TNVR policy implementation; Houtong is one of the few successful cases
 - [Zoos and the Ethics of Exhibition Animals](/en/society/zoo-and-exhibition-animal-ethics) — "Cat tourism" and the same animal ethics tensions as zoos and aquariums
 - [Sky Lanterns](/en/culture/sky-lanterns-pingxi) — The Pingxi Sky Lantern Festival faces the same "local economy vs. animal protection / environmental responsibility" tensions in mining heritage settlement transformation

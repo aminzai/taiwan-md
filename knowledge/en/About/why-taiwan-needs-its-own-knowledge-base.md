@@ -75,7 +75,7 @@ So why has this become urgent in 2026?
 
 Because AI is becoming the first place more and more people ask "what is Taiwan," and AI has a commonly misunderstood property: it doesn't produce knowledge. It regurgitates the largest, best-structured, clearest-licensed version of information it has read.
 
-This has its cold mechanisms. The "world knowledge" of mainstream large language models heavily relies on Common Crawl (a public database that crawls billions of web pages monthly), which is strongly English-biased, with 41 languages each accounting for less than one ten-thousandth. [^2] Another pillar is [Wikipedia](/technology/Wikipedia): it serves as both training data and the default "reference book" many AIs retrieve from in real-time, ranking among the top three cited domains in ChatGPT. [^3] The problem is, Wikipedia itself is a living textbook of linguistic inequality.
+This has its cold mechanisms. The "world knowledge" of mainstream large language models heavily relies on Common Crawl (a public database that crawls billions of web pages monthly), which is strongly English-biased, with 41 languages each accounting for less than one ten-thousandth. [^2] Another pillar is [Wikipedia](/en/technology/wikipedia-in-taiwan): it serves as both training data and the default "reference book" many AIs retrieve from in real-time, ranking among the top three cited domains in ChatGPT. [^3] The problem is, Wikipedia itself is a living textbook of linguistic inequality.
 
 ```tw-figure
 7.21 million → 1.54 million / entries
@@ -142,7 +142,7 @@ We also need to address another doubt: wouldn't putting these phenomena under th
 
 The question is nailed down; now comes the answer. And the answer goes in the opposite direction: rather than hiding knowledge away, build a tower and put it in the sunlight.
 
-First, let's clarify what "open source" means here: open up the answers so anyone can audit them. Every Taiwan.md article is a plain-text Markdown file in a public Git repository, with every change—who changed it, what changed, when—fully traceable. Its credibility comes from transparency itself: every edit is laid bare, traceable. This is in the same lineage as [open source communities and g0v](/technology/open-source-communities-and-g0v) civic tech spirit.
+First, let's clarify what "open source" means here: open up the answers so anyone can audit them. Every Taiwan.md article is a plain-text Markdown file in a public Git repository, with every change—who changed it, what changed, when—fully traceable. Its credibility comes from transparency itself: every edit is laid bare, traceable. This is in the same lineage as [open source communities and g0v](/en/technology/open-source-and-g0v) civic tech spirit.
 
 ![2012 g0v hackathon at Academia Sinica](/article-images/about/g0v-hackathon-academia-sinica-2012.webp)
 _December 2012, early g0v hackathon held at Academia Sinica's Information Technology Innovation Center. Taiwan's civic tech community has long been filling gaps in public data themselves. Photo: kirby wu / Wikimedia Commons · CC BY-SA 2.0_
@@ -198,7 +198,7 @@ In February 2025, a Deutsche Welle reporter asked DeepSeek the same question in 
 
 In English, it generated a complete 662-word answer in one go, stating Taiwan is an independent country with its own government, military, and democratic institutions. This answer existed for about two seconds, then was deleted by the system itself, replaced with "Let's talk about something else." In Chinese, the entire response was: "Taiwan has always been an inalienable part of China since ancient times." [^24]
 
-Those two seconds are the reason for this entire article. That answer existed—it was written out, then actively retracted within two seconds. Taiwan needs to write it down itself, to give that silence something to push back against; and what truly withstands the pushback is a version that's public, auditable, translated into enough languages, and backed up to be indestructible. This is the same thing that documentaries like [Invisible Country](/art/Invisible-Country) do: giving a visible version to something that's usually skipped over by intermediaries.
+Those two seconds are the reason for this entire article. That answer existed—it was written out, then actively retracted within two seconds. Taiwan needs to write it down itself, to give that silence something to push back against; and what truly withstands the pushback is a version that's public, auditable, translated into enough languages, and backed up to be indestructible. This is the same thing that documentaries like [Invisible Country](/en/art/invisible-nation) do: giving a visible version to something that's usually skipped over by intermediaries.
 
 What can readers do? First, an honest sentence: Taiwan currently has no good "report AI's wrong answers about Taiwan" button. The closest tools are designed for news and rumors, not AI dialogue. But if you really want to act, there are concrete first steps—next time you find an AI's answer about Taiwan feels "off," send a screenshot or paraphrase to Cofacts' "True or False" LINE bot (add @cofacts friend), or fill out Taiwan Fact Check Center's "I Have Questions" complaint form. [^25] The fact that "there's no good channel" itself is a reason why a public, verifiable knowledge base needs to exist. And if you're someone reading about Taiwan in a foreign language, you don't have a refusal rate score to judge what's been silenced—which inability to detect is precisely the best proof that another version must exist.
 
@@ -213,8 +213,8 @@ Back to that forty-byte refusal on May 1. The silence is still there, but now be
 ## Further Reading
 
 - [Open Culture Foundation](/en/technology/Open-Culture-Foundation) — Pushing open source and open data in Taiwan, why knowledge openness is infrastructure.
-- [Taiwan AI Laboratory](/technology/Taiwan-AI-Laboratory) — A path of civil society building AI capabilities, reading alongside the government's TAIDE and Ministry of Digital Affairs corpus.
-- [Taiwan AI School](/technology/Taiwan-AI-School) — Where Tsai Ming-shun serves as superintendent, Taiwan's civil society cultivating AI talent, on the front lines discussing local data scarcity.
+- [Taiwan AI Laboratory](/en/technology/taiwan-ai-labs) — A path of civil society building AI capabilities, reading alongside the government's TAIDE and Ministry of Digital Affairs corpus.
+- [Taiwan AI School](/en/technology/taiwan-ai-academy) — Where Tsai Ming-shun serves as superintendent, Taiwan's civil society cultivating AI talent, on the front lines discussing local data scarcity.
 
 ## Image Sources
 

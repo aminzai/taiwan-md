@@ -104,8 +104,8 @@ When we see small offering tables set up outside convenience stores during the m
 
 ## Further Reading
 
-- [Zhongyuan Festival](/culture/ZhongyuanFestival) — A historical reading of Zhongyuan as a treaty of social peace
-- [Duanwu Festival](/culture/DuanwuFestival) — Another festival reinvented by Taiwan
+- [Zhongyuan Festival](/en/culture/ghost-festival-zhongyuan) — A historical reading of Zhongyuan as a treaty of social peace
+- [Duanwu Festival](/en/culture/dragon-boat-festival) — Another festival reinvented by Taiwan
 
 ## Sources
 
