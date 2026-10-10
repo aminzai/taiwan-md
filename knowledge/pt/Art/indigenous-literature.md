@@ -20,6 +20,7 @@ readingTime: 7
 translatedFrom: 'Art/原住民文學.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:0f64206db0cf18a9'
+sourceBodyHash: 'sha256:621573191262d79d'
 translatedAt: '2026-07-25T06:36:28.002793+00:00'
 ---
 

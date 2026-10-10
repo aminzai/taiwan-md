@@ -21,6 +21,7 @@ readingTime: 8
 translatedFrom: 'Technology/台灣開源精神.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:d044abffde5fb58e'
+sourceBodyHash: 'sha256:98feb4bab36f053f'
 translatedAt: '2026-07-25T06:57:15.502613+00:00'
 ---
 

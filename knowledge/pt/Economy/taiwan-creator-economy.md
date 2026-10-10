@@ -22,6 +22,7 @@ curation: 'incubating'
 translatedFrom: 'Economy/台灣動畫代工.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:553e5773bdd1e3a9'
+sourceBodyHash: 'sha256:187c229025183e4b'
 translatedAt: '2026-08-04T06:23:03.544485+00:00'
 ---
 

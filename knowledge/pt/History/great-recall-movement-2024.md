@@ -34,6 +34,7 @@ relatedDiary: ['2026-07-16-171443-recall-workflow']
 translatedFrom: 'History/大罷免.md'
 sourceCommitSha: '5add39fc8'
 sourceContentHash: 'sha256:5593221450668391'
+sourceBodyHash: 'sha256:c336900c050cb32f'
 translatedAt: '2026-09-25T17:55:55.015098+00:00'
 ---
 

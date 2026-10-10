@@ -34,6 +34,7 @@ relatedDiary: ['2026-09-19-003000-news-radar']
 translatedFrom: 'Economy/台灣油價機制與中油.md'
 sourceCommitSha: 'ff39af227'
 sourceContentHash: 'sha256:24e5d0eeeb829e10'
+sourceBodyHash: 'sha256:dba211101379a553'
 translatedAt: '2026-09-25T16:19:14.305894+00:00'
 ---
 

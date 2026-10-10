@@ -32,6 +32,7 @@ imageNote: '原 Wikimedia 圖檔已從 Commons 下架（404 Not Found），卡�
 translatedFrom: 'Geography/新北市.md'
 sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:7893a2743008a706'
+sourceBodyHash: 'sha256:8f043620c961da1e'
 translatedAt: '2026-09-10T12:33:22.096255+00:00'
 ---
 

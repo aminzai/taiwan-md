@@ -35,6 +35,7 @@ relatedDiary: ['2026-07-13-214351-manual']
 translatedFrom: 'Culture/Shopping Design.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:31b89b73d6abd610'
+sourceBodyHash: 'sha256:da4269ea46f7ec77'
 translatedAt: '2026-08-09T21:37:40.600279+00:00'
 ---
 

@@ -35,6 +35,7 @@ imageSource: 'https://www.flickr.com/photos/presidentialoffice/22472046408'
 translatedFrom: 'People/馬英九.md'
 sourceCommitSha: '8cc6a667e'
 sourceContentHash: 'sha256:70721e3134a573dc'
+sourceBodyHash: 'sha256:e2df2e775fda5f60'
 translatedAt: '2026-09-24T02:57:58.184283+00:00'
 ---
 

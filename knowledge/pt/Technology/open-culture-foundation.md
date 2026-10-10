@@ -33,6 +33,7 @@ sporeLinks:
 translatedFrom: 'Technology/開放文化基金會.md'
 sourceCommitSha: 'c8e5ac9ea'
 sourceContentHash: 'sha256:08a786ea48be0947'
+sourceBodyHash: 'sha256:429230fac9b89ba1'
 translatedAt: '2026-08-01T21:49:14.186285+00:00'
 ---
 

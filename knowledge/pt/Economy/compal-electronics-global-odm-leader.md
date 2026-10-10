@@ -13,6 +13,7 @@ lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：仁寶電腦.md'
 sourceCommitSha: '24efd20f3'
 sourceContentHash: 'sha256:7ecd07bcd9b5c842'
+sourceBodyHash: 'sha256:aead7a66c3b88ec5'
 translatedAt: '2026-07-29T16:27:10.665865+00:00'
 ---
 

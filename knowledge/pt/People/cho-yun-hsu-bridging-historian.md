@@ -38,6 +38,7 @@ sporeLinks:
 translatedFrom: 'People/許倬雲.md'
 sourceCommitSha: 'ecb3f6520'
 sourceContentHash: 'sha256:61f95f19d1a8b628'
+sourceBodyHash: 'sha256:5272c869278fa371'
 translatedAt: '2026-09-26T03:01:09.590359+00:00'
 ---
 

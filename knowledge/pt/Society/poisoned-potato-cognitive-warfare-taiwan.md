@@ -23,6 +23,7 @@ imageAlt: 'Temporada de colheita de batata no Condado de Aroostook, Maine, EUA (
 translatedFrom: 'Society/毒馬鈴薯認知作戰.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:9680a9c97c074b94'
+sourceBodyHash: 'sha256:891cffde295deb7f'
 translatedAt: '2026-09-26T03:29:00.949648+00:00'
 ---
 

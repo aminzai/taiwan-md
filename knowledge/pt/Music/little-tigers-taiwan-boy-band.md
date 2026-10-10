@@ -28,6 +28,7 @@ imageSource: 'https://music.apple.com/tw/album/逍遥游-2025-remastered/1847895
 translatedFrom: 'Music/小虎隊.md'
 sourceCommitSha: '9094012f4'
 sourceContentHash: 'sha256:1592d113f4d245fb'
+sourceBodyHash: 'sha256:4cfd214b3bc19b4d'
 translatedAt: '2026-09-10T03:38:09.628347+00:00'
 ---
 

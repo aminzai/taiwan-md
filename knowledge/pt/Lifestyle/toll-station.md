@@ -29,6 +29,7 @@ relatedArticles: ['Lifestyle/高速公路', 'Lifestyle/台灣交通系統']
 translatedFrom: 'Lifestyle/收費站.md'
 sourceCommitSha: '09ffe560f'
 sourceContentHash: 'sha256:cffdc6c150dee65c'
+sourceBodyHash: 'sha256:6af77751f6cfb762'
 translatedAt: '2026-09-24T19:38:31.767929+00:00'
 ---
 

@@ -38,6 +38,7 @@ imageLicense: 'CC BY-SA 2.0'
 translatedFrom: 'Food/台灣水果王國.md'
 sourceCommitSha: '813fde2d6'
 sourceContentHash: 'sha256:e8ef7d9d72df6a42'
+sourceBodyHash: 'sha256:4f8e5414cbe29614'
 translatedAt: '2026-09-24T21:56:17.545809+00:00'
 ---
 
