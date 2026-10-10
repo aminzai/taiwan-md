@@ -163,7 +163,7 @@ Si alguien dentro de 2050 quisiera saber lo que intentó la industria televisiva
 
 **Lectura adicional**:
 
-- [Premio Jin-song](/culture/金鐘獎) — Las Tres Grandes monopolizaron durante diecisiete años; PTS y las estaciones cable ganaron, la columna de premios de drama es otro registro de esta historia industrial.
+- [Premio Jin-song](/es/culture/golden-bell-awards) — Las Tres Grandes monopolizaron durante diecisiete años; PTS y las estaciones cable ganaron, la columna de premios de drama es otro registro de esta historia industrial.
 
 ## Referencias
 

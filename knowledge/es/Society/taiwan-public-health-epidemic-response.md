@@ -96,7 +96,7 @@ Veintitrés años después del cierre del Hospital Heping, aquel edificio sigue 
 - [La medicina y el Seguro Nacional de Salud en Taiwán](/es/lifestyle/taiwan-healthcare-and-national-health-insurance) — La infraestructura base del sistema de prevención: la base de datos de 23,4 millones de personas.
 - [Audrey Tang](/es/people/audrey-tang) — La Ministra de Estado Digital detrás del mapa de mascarillas.
 - [El sistema de medicina de catástrofes en Taiwán](/es/technology/taiwan-disaster-medicine-system) — Desde el terremoto de 921 hasta el SARS: cómo los desastres impulsan la evolución médica.
-- [COVID-19 y vacunas en Taiwán](/society/台灣新冠疫情與疫苗)— El sistema construido tras el SARS fue probado íntegrammente entre 2020 y 2023: las fronteras resistieron 18 meses, pero la tercera dosis para ancianos no llegó a tiempo.
+- [COVID-19 y vacunas en Taiwán](/es/society/taiwan-covid-pandemic-and-vaccines)— El sistema construido tras el SARS fue probado íntegrammente entre 2020 y 2023: las fronteras resistieron 18 meses, pero la tercera dosis para ancianos no llegó a tiempo.
 - [Medicina regenerativa y 30 años de mRNA](/es/society/taiwan-regenerative-medicine-laws) — Una narrativa doble sobre la adquisición de BNT en 2021 y la legislación de terapias celulares; una perspectiva extendida sobre la prevención del COVID aquí expuesta.
 
 ## Referencias

@@ -205,7 +205,7 @@ Mira a esas personas esperando subir al barco: hay residentes de Kinmen yendo a 
 - [Modernización de la defensa y militar de Taiwán](/es/society/taiwan-defense-modernization) — La evolución de la guarnición de control militar de Kinmen de 50.000 a 100.000 a menos de 10.000 hoy, contrastada con la trayectoria general de modernización del ejército nacional
 - [Características geográficas y formación de las islas de Taiwán](/es/geography/geography-and-geology) — Contraste de la geología de granito de Kinmen con los mecanismos de formación de otras islas de Taiwán
 - [Leyendas de Mazu y el Gran Dios Dao](/es/culture/mazu-dadaogong-legend) — La fe minnan de Kinmen tiene el mismo origen que la isla principal de Taiwán, diferente de la leyenda del agujero espiritual del templo de Mazu en Matsu
-- [Isla Internacional de Arte de Matsu](/art/馬祖國際藝術島) — El condado de Lienchiang convirtió los túneles de la zona de combate y los cuartos de té militares en un plan de curaduría de diez años, la transformación de la zona de combate de Kinmen sigue un camino diferente, se pueden contrastar cómo las dos islas fronterizas manejan el mismo patrimonio
+- [Isla Internacional de Arte de Matsu](/es/art/matsu-biennial) — El condado de Lienchiang convirtió los túneles de la zona de combate y los cuartos de té militares en un plan de curaduría de diez años, la transformación de la zona de combate de Kinmen sigue un camino diferente, se pueden contrastar cómo las dos islas fronterizas manejan el mismo patrimonio
 
 ## Fuentes de imágenes
 

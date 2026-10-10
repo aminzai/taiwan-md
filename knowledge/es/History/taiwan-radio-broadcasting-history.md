@@ -127,9 +127,9 @@ Lo más valioso que deja la historia de la radio en Taiwán no es la conclusión
 
 ## Lecturas complementarias
 
-- [Historia del movimiento de las mujeres en Taiwán](/society/婦女新知) — Una historia social que va desde el control institucional hacia la expresión pública
-- [Historia del servicio postal en Taiwán](/lifestyle/台灣郵政) — Cómo la infraestructura de comunicación entró en la vida local cotidiana
-- [Historia de las asociaciones agrícolas en Taiwán](/history/台灣農會史) — Historia institucional de las organizaciones rurales, las finanzas y las ventanas públicas locales
+- [Historia del movimiento de las mujeres en Taiwán](/es/society/awakening-foundation) — Una historia social que va desde el control institucional hacia la expresión pública
+- [Historia del servicio postal en Taiwán](/es/lifestyle/taiwan-postal-service-history) — Cómo la infraestructura de comunicación entró en la vida local cotidiana
+- [Historia de las asociaciones agrícolas en Taiwán](/es/history/taiwan-farmers-association-history) — Historia institucional de las organizaciones rurales, las finanzas y las ventanas públicas locales
 
 ## Referencias
 

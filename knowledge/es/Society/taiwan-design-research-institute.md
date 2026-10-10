@@ -159,7 +159,7 @@ La fuente del voto que tienes en la mano se llama Siyuan Hei. Probablemente ni t
 - [Ascenso de la industria taiwanesa](/es/economy/industrial-transformation-from-manufacturing-to-innovation) — Toda una historia que va desde ser una isla de manufactura hacia agregar valor, y lo que el Instituto de Investigación diseñó es uno de los temas menos discutidos en esta trayectoria.
 - [Televisión pública](/es/society/pts-public-television-service) — También es una fundación pública, e igualmente camina sobre la cuerda floja entre "la función pública" y "ser examinada".
 - [Arquitectura taiwanesa](/es/art/taiwanese-architecture) — El campo de Zhang Chi-yi, para comprender por qué un arquitecto cree que el diseño espacial puede cambiar la distancia entre el gobierno y la gente.
-- [Academia Nacional de Ciencias](/society/中央研究院) — También es una institución de investigación financiada por el Estado; está bajo la Presidencia y bajo ministerios, y lo que puede hacer y las preguntas que recibe son diferentes.
+- [Academia Nacional de Ciencias](/es/society/academia-sinica) — También es una institución de investigación financiada por el Estado; está bajo la Presidencia y bajo ministerios, y lo que puede hacer y las preguntas que recibe son diferentes.
 
 ## Fuentes de imágenes
 

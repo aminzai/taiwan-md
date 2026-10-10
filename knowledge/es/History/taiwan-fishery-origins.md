@@ -142,8 +142,8 @@ De manera similar, las carreteras, la producción de hielo, la electricidad y el
 
 ## Lecturas adicionales
 
-- [La modernización de la pesca de Taiwán](/history/台灣漁業現代化) — La segunda mitad del mismo mar: flotas de altura, zonas económicas exclusivas y responsabilidad del Estado de pabellón
-- [Historia de las cooperativas agrícolas de Taiwán](/history/台灣農會史) — Cambios institucionales en organizaciones rurales, finanzas y ventanas públicas locales
+- [La modernización de la pesca de Taiwán](/es/history/taiwan-fishery-modernization) — La segunda mitad del mismo mar: flotas de altura, zonas económicas exclusivas y responsabilidad del Estado de pabellón
+- [Historia de las cooperativas agrícolas de Taiwán](/es/history/taiwan-farmers-association-history) — Cambios institucionales en organizaciones rurales, finanzas y ventanas públicas locales
 - [Historia de los correos de Taiwán](/history/台灣郵政史) — Otra infraestructura pública que conecta lo local, la logística y la administración estatal
 - [Historia del agua potable de Taiwán](/history/台灣自來水史) — Cómo ingeniería, higiene y vida urbana forman conjuntamente el sistema
 

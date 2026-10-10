@@ -206,13 +206,13 @@ La próxima Montaña Sagrada Protectora de la Nación de Taiwán puede no ser un
 
 **Lectura adicional**:
 
-- [Industria de semiconductores: 50 años de revolución de materiales desde la transferencia de tecnología de RCA hasta el nitruro de galio y el empaquetado cuántico](/technology/半導體產業) — La narrativa técnica completa de la Montaña Sagrada Protectora de la Nación, y el vínculo de «NVIDIA reserva la capacidad de CoWoS»
-- [Empresa de Taiwán: TSMC](/economy/台灣企業：台積電) — La estructura de gobernanza y financiera de esta empresa que escribió la modestia en su modelo de negocio
-- [Empresa de Taiwán: MediaTek](/economy/台灣企業：聯發科技) — El mayor fabricante de chips para teléfonos móviles del mundo por volumen de ventas, por qué su narrativa aún va detrás
-- [Empresa de Taiwán: HTC](/economy/台灣企業：宏達電) — La historia empresarial completa de la muerte de «Quietly Brilliant»
-- [Huang Ren-xun](/people/黃仁勳) — Nacido en Tainan, criado en EE. UU., la persona que mejor cuenta historias de chips en el mundo
-- [NVIDIA en Taiwán](/technology/NVIDIA在台灣) — La relación entre esa chaqueta de cuero y la cadena de suministro de Taiwán
-- [Computex: tres grandes ferias internacionales de computadoras cerraron dos, la que queda crece en Taipéi](/technology/Computex) — Cada mayo, los gigantes globales de la IA cuentan historias en Taipéi usando el mismo guion
+- [Industria de semiconductores: 50 años de revolución de materiales desde la transferencia de tecnología de RCA hasta el nitruro de galio y el empaquetado cuántico](/es/technology/taiwan-semiconductor-industry) — La narrativa técnica completa de la Montaña Sagrada Protectora de la Nación, y el vínculo de «NVIDIA reserva la capacidad de CoWoS»
+- [Empresa de Taiwán: TSMC](/es/economy/tsmc) — La estructura de gobernanza y financiera de esta empresa que escribió la modestia en su modelo de negocio
+- [Empresa de Taiwán: MediaTek](/es/economy/mediatek) — El mayor fabricante de chips para teléfonos móviles del mundo por volumen de ventas, por qué su narrativa aún va detrás
+- [Empresa de Taiwán: HTC](/es/economy/htc-android-pioneer-vr-transformation) — La historia empresarial completa de la muerte de «Quietly Brilliant»
+- [Huang Ren-xun](/es/people/jensen-huang) — Nacido en Tainan, criado en EE. UU., la persona que mejor cuenta historias de chips en el mundo
+- [NVIDIA en Taiwán](/es/technology/nvidia-in-taiwan) — La relación entre esa chaqueta de cuero y la cadena de suministro de Taiwán
+- [Computex: tres grandes ferias internacionales de computadoras cerraron dos, la que queda crece en Taipéi](/es/technology/computex) — Cada mayo, los gigantes globales de la IA cuentan historias en Taipéi usando el mismo guion
 
 ## Fuentes de imágenes
 

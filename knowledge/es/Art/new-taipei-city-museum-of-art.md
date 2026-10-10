@@ -58,7 +58,7 @@ La imagen del «matorral de juncos» de este museo podría ser también una met�
 
 **Lectura extendida**:
 
-- [Isla Internacional de Arte de Matsu](/art/馬祖國際藝術島) — Un caso similar de tensión entre la inversión cultural pública y los resultados reales: el plan de curaduría de diez años del gobierno de Lienchiang presenta tasas de crecimiento de visitantes imposibles de calcular, y el presupuesto nunca se ha hecho público.
+- [Isla Internacional de Arte de Matsu](/es/art/matsu-biennial) — Un caso similar de tensión entre la inversión cultural pública y los resultados reales: el plan de curaduría de diez años del gobierno de Lienchiang presenta tasas de crecimiento de visitantes imposibles de calcular, y el presupuesto nunca se ha hecho público.
 
 ## Referencias
 

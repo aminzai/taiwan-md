@@ -313,10 +313,10 @@ Los 97.672 barriles de Lanyu no desaparecerán porque la consulta haya sido apro
 - [Aguas termales y energía geotérmica en Taiwán](/es/nature/taiwan-hot-springs-and-geothermal-energy) — Desde el fracaso de la geotermia de Qingshui en 1981 hasta su reactivación en 2024, cómo se ha formado este silencio geotérmico de 30 años.
 - [Justicia ambiental y conflictos NIMBY en Taiwán](/es/society/taiwan-environmental-justice-nimby-conflicts) — Lanyu, arrecifes de algas, Meinong: la política de distribución del costo de la transición energética.
 - [Mejora de la transformación industrial en Taiwán](/es/economy/industrial-transformation-from-manufacturing-to-innovation) — De la manufactura de alto consumo a la industria verde, el balance energético de TSMC RE100, CBAM y la protección del Dios Guardián.
-- [Árboles viales en Taiwán](/lifestyle/台灣行道樹) — La escala temporal y espacial del sombreado proporcionado por los árboles urbanos: para que un árbol dé sombra se necesitan al menos diez años, lo cual es una adaptación de la que no se puede esperar.
+- [Árboles viales en Taiwán](/es/lifestyle/taiwan-street-trees) — La escala temporal y espacial del sombreado proporcionado por los árboles urbanos: para que un árbol dé sombra se necesitan al menos diez años, lo cual es una adaptación de la que no se puede esperar.
 - [Desarrollo de la modernización agrícola en Taiwán](/es/economy/taiwan-agricultural-modernization) — La presión de la transformación agrícola y los conflictos por el uso del suelo detrás de la simbiosis energía-agricultura.
 - [Mei (lluvia de temporada)/frente estancado](/es/nature/meiyu-stagnant-front) — Observaciones locales del cambio climático: "la lluvia primaveral no llega, y la temporada de lluvias se concentra".
-- [Mecanismo de precios del petróleo en Taiwán y CPC](/economy/台灣油價機制與中油) — La tensión entre subsidiar los combustibles fósiles y las señales de ahorro energético: el congelamiento de precios hace que lo barato sea repartido por litro, y quien más consuma ahorra más, pero nadie ha hecho una tabla para saber quién fue el mayor consumidor en estos seis meses.
+- [Mecanismo de precios del petróleo en Taiwán y CPC](/es/economy/taiwan-fuel-pricing-and-cpc) — La tensión entre subsidiar los combustibles fósiles y las señales de ahorro energético: el congelamiento de precios hace que lo barato sea repartido por litro, y quien más consuma ahorra más, pero nadie ha hecho una tabla para saber quién fue el mayor consumidor en estos seis meses.
 
 ## Fuentes de imágenes
 

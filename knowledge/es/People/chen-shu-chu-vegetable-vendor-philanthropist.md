@@ -93,9 +93,9 @@ En 2025, la Universidad de Taitung le otorgó el doctorado honoris causa. Al dar
 
 ## Lectura extendida
 
-- [Cultura y mercados tradicionales en Taiwán](/lifestyle/台灣市場文化與傳統市場) — El Mercado Central de Taitung donde Chen Shu-chu vendió durante cincuenta años, vive dentro del ecosistema de este mercado tradicional.
-- [Cultura de voluntarios y participación social en Taiwán](/society/台灣志工文化與公益參與) — Dos muestras de la caridad popular en Taiwán: desde el Venerable Master Cheng Yen hasta el puesto de verduras de Chen Shu-chu.
-- [Educación rural en Taiwán](/society/台灣偏鄉教育) — Los principales destinos de las donaciones de Chen Shu-chu a lo largo de los años: el apoyo a largo plazo a bibliotecas, escuelas y orfanatos.
+- [Cultura y mercados tradicionales en Taiwán](/es/lifestyle/taiwan-traditional-markets-and-market-culture) — El Mercado Central de Taitung donde Chen Shu-chu vendió durante cincuenta años, vive dentro del ecosistema de este mercado tradicional.
+- [Cultura de voluntarios y participación social en Taiwán](/es/society/volunteering-and-civic-charity-in-taiwan) — Dos muestras de la caridad popular en Taiwán: desde el Venerable Master Cheng Yen hasta el puesto de verduras de Chen Shu-chu.
+- [Educación rural en Taiwán](/es/society/taiwan-rural-education) — Los principales destinos de las donaciones de Chen Shu-chu a lo largo de los años: el apoyo a largo plazo a bibliotecas, escuelas y orfanatos.
 
 ## Referencias
 

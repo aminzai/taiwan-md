@@ -148,9 +148,9 @@ Hoy, en 2026, Taiwán aún no tiene un calendario para el carné de identidad di
 
 **Lecturas relacionadas:**
 
-- [Comunidad de código abierto y g0v](/technology/開源社群與g0v) — La comunidad de hackers ciudadanos detrás del mapa de mascarillas, desde el "gobierno temporal cero" hasta vTaiwan
-- [Equipo nacional de mascarillas](/economy/口罩國家隊) — La otra cara de la misma crisis de mascarillas: maquinaria, textilería, ejército y gobierno conectados en una cadena de suministro
-- [Desarrollo de la industria de ciberseguridad en Taiwán](/technology/台灣資安產業發展) — Además de que los funcionarios gubernamentales no entienden la tecnología y el 60% de las posiciones de ciberseguridad están vacantes, cómo la industria compensa esta brecha
+- [Comunidad de código abierto y g0v](/es/technology/open-source-and-g0v) — La comunidad de hackers ciudadanos detrás del mapa de mascarillas, desde el "gobierno temporal cero" hasta vTaiwan
+- [Equipo nacional de mascarillas](/es/economy/mask-national-team) — La otra cara de la misma crisis de mascarillas: maquinaria, textilería, ejército y gobierno conectados en una cadena de suministro
+- [Desarrollo de la industria de ciberseguridad en Taiwán](/es/technology/taiwan-cybersecurity-industry-development) — Además de que los funcionarios gubernamentales no entienden la tecnología y el 60% de las posiciones de ciberseguridad están vacantes, cómo la industria compensa esta brecha
 
 ## Fuentes
 

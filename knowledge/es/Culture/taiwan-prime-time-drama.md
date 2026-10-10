@@ -66,7 +66,7 @@ Al situar los seriales taiwaneses (八點檔) en una perspectiva internacional, 
 
 **Lecturas relacionadas**:
 
-- [Premio Golden Bell](/culture/金鐘獎) — En la época de 《Estrellas saben mi corazón》 y 《Bao Qingtian》, las unidades galardonadas con el premio a programas dramáticos nunca salieron de TAI TV, CTS o CTV.
+- [Premio Golden Bell](/es/culture/golden-bell-awards) — En la época de 《Estrellas saben mi corazón》 y 《Bao Qingtian》, las unidades galardonadas con el premio a programas dramáticos nunca salieron de TAI TV, CTS o CTV.
 
 ## Fuentes de referencia
 

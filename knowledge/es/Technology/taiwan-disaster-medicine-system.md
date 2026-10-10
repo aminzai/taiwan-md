@@ -199,7 +199,7 @@ La próxima vez que ocurra un desastre, lo que salvará vidas no serán los equi
 
 - [Ley de Atención Médica](/es/society/medical-care-act) — La base legal de la medicina de desastres en Taiwán se arraiga en el artículo 1 de la Ley de Atención Médica, que establece la «distribución razonable de los recursos médicos», y en las normas de clasificación de las instituciones; los escenarios de desastre descritos en este artículo representan la operación práctica de esta ley en condiciones extremas.
 - [Controversia sobre los medicamentos veterinarios en Taiwán](/es/society/taiwan-animal-drug-controversy) — Los seres humanos cuentan con un sistema de urgencias, el 119, el seguro médico nacional y los DMAT; en cambio, las urgencias veterinarias requieren registrar cada ítem, incluido el oxígeno. La brecha de recursos entre ambos sistemas es un espejo que refleja la jerarquía de valores de esta isla.
-- [La pandemia de COVID-19 y las vacunas en Taiwán](/society/台灣新冠疫情與疫苗) — Las salas de aislamiento dedicadas y la congestión en las salas de urgencias de mayo de 2021 constituyen la prueba más prolongada a la que ha sido sometido este sistema de atención médica ante desastres.
+- [La pandemia de COVID-19 y las vacunas en Taiwán](/es/society/taiwan-covid-pandemic-and-vaccines) — Las salas de aislamiento dedicadas y la congestión en las salas de urgencias de mayo de 2021 constituyen la prueba más prolongada a la que ha sido sometido este sistema de atención médica ante desastres.
 
 ## Referencias
 

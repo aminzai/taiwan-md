@@ -213,7 +213,7 @@ Esta isla cultiva cada fruta como vida y memoria. La parte de la vida es el sopo
 - [Incidente de la carambola](/politics/鳳梨釋迦事件) — Registro completo de la prohibición china de 2021 y el fracaso del reenvío a Canadá
 - [Trabajadores agrícolas migrantes en Taiwán](/society/台灣農業移工) — Acento indonesio y filipino en los huertos y las lagunas del sistema legal
 - [Agricultura orgánica en Taiwán](/food/有機農業) — Crecimiento de 2.68 veces en área de 2017 a 2024 y la "fea" fruta de Xie Mei-li
-- [Árboles callejeros de Taiwán](/lifestyle/台灣行道樹) — La cadena ecológica del árbol de jacaranda de Taiwán con el escarabajo rojo, y el límite de especies entre este y el escarabajo de la lichi
+- [Árboles callejeros de Taiwán](/es/lifestyle/taiwan-street-trees) — La cadena ecológica del árbol de jacaranda de Taiwán con el escarabajo rojo, y el límite de especies entre este y el escarabajo de la lichi
 
 ## Fuentes de imágenes
 

@@ -126,7 +126,7 @@ Hace 160 años, Swinhoe escribió «rara» en Tamsui. Hoy, en el Parque Forestal
 - [Ecosistemas forestales de Taiwán](/es/nature/taiwan-forest-ecosystems) — El hábitat original de baja altitud de la garza, para entender su contraparte urbana.
 - [Macacos de Taiwán](/es/nature/formosan-rock-macaque) — Otro caso de fauna silvestre entrando en el ámbito humano, con una expansión inversa a la de la garza: los humanos siempre se encuentran con ellos en el camino.
 - [Especies endémicas](/es/nature/endemic-species) — La garza de corona negra no es endémica de Taiwán, pero la escala de su expansión urbana en Taiwán es única a nivel mundial.
-- [Árboles de alineación en Taiwán](/lifestyle/台灣行道樹) — Los grupos de laureles e higuerros maduros tras los 90, que forman franjas de bosque de baja altitud entre el cemento, son la otra cara del hábitat urbano de esta garza.
+- [Árboles de alineación en Taiwán](/es/lifestyle/taiwan-street-trees) — Los grupos de laureles e higuerros maduros tras los 90, que forman franjas de bosque de baja altitud entre el cemento, son la otra cara del hábitat urbano de esta garza.
 
 ## Fuentes de las imágenes
 

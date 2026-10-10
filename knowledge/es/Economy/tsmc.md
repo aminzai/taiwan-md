@@ -243,7 +243,7 @@ Nadie planeó una transición de esta magnitud. Pero en la sequía más grande d
 - [Transformación industrial de Taiwán](/es/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC es el caso concreto de cómo Taiwán pasó de ser una isla de manufactura por contrato a una isla tecnológica.
 - [Shi Zhen-rong](/es/people/stan-shih) — Director de TSMC durante 21 años y fundador de Acer, cuya mayor fortuna está invertida en acciones de TSMC; es precisamente el autor de la «curva sonriente» que decía que Taiwán no debía limitarse a la manufactura por contrato.
 - [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — La revolución de materiales de 50 años, desde la transferencia tecnológica de RCA hasta el nitruro de galio y el empaquetado cuántico; todo el campo de batalla de la ciencia de materiales donde reside TSTSMC.
-- [Ho Chun-ren](/people/黃崇仁) — Fundador de VISium/Vanguard, otro camino en la misma isla: fabricaba obleas igual que TSMC, llegó a tener una deuda de cien mil millones y regresó a la bolsa nueve años después.
+- [Ho Chun-ren](/es/people/frank-huang-psmc) — Fundador de VISium/Vanguard, otro camino en la misma isla: fabricaba obleas igual que TSMC, llegó a tener una deuda de cien mil millones y regresó a la bolsa nueve años después.
 
 ## Fuentes de las imágenes
 

@@ -138,4 +138,4 @@ Los jóvenes de Taiwán eligieron lo segundo. Pero eso no debería ser motivo de
 ## Lecturas complementarias
 
 - [外送專法](/es/society/delivery-platform-law) — Qué pasó tras la entrada en vigor de ese «parche institucional tardío»: cómo el suelo de 45 dólares taiwaneses aterriza en personas reales y las dos cuestiones que la ley no responde
-- [誰算低薪](/society/誰算低薪) — El salario mínimo superó la línea de bajos salarios, pero los bajos salarios se mudaron a la columna de la paga extra; a tiempo parcial, autónomos, pagos fraccionados: esa regla ni los alcanza
+- [誰算低薪](/es/society/who-counts-as-low-wage) — El salario mínimo superó la línea de bajos salarios, pero los bajos salarios se mudaron a la columna de la paga extra; a tiempo parcial, autónomos, pagos fraccionados: esa regla ni los alcanza

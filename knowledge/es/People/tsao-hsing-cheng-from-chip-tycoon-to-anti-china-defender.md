@@ -70,7 +70,7 @@ El Tsao Hsing-cheng de hoy sigue siendo ese estratega que no sigue las reglas es
 **Lecturas adicionales**:
 
 - [Morris Chang](/es/people/tsmc-morris-chang) — La otra parte de la disputa por la autoría de la fabricación de obleas; ambos tienen versiones distintas sobre «quién pensó primero en este modelo».
-- [Tsao Hsing-ren](/people/黃崇仁) — A finales de los 90, UMC intentó integrar a VISi para su propio bando, lo que obligó a este a buscar ayuda con Morris Chang.
+- [Tsao Hsing-ren](/es/people/frank-huang-psmc) — A finales de los 90, UMC intentó integrar a VISi para su propio bando, lo que obligó a este a buscar ayuda con Morris Chang.
 - [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry)— El campo de batalla industrial donde compiten los titanes UMC y TSMC.
 
 ---
