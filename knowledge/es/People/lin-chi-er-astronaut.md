@@ -17,6 +17,15 @@ readingTime: 14
 lastVerified: 2026-04-28
 lastHumanReview: false
 featured: false
+sporeLinks:
+  - id: 49
+    platform: 'threads'
+    date: '2026-04-28'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXrDdODk37l'
+  - id: 50
+    platform: 'x'
+    date: '2026-04-28'
+    url: 'https://x.com/taiwandotmd/status/2049079839244828881'
 translatedFrom: 'People/林琪兒.md'
 sourceCommitSha: '21298a7a'
 sourceContentHash: 'sha256:01f29f97ef180820'

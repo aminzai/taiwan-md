@@ -23,6 +23,19 @@ readingTime: 15
 lastVerified: 2026-04-14
 lastHumanReview: true
 featured: true
+sporeLinks:
+  - id: 28
+    platform: 'threads'
+    date: '2026-04-14'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXGo_9REaGS'
+  - id: 29
+    platform: 'threads'
+    date: '2026-04-14'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXGuAudkbuC'
+  - id: 30
+    platform: 'x'
+    date: '2026-04-14'
+    url: 'https://x.com/taiwandotmd/status/2043976162813325344'
 translatedFrom: 'People/李洋.md'
 sourceCommitSha: 'fef3e119'
 sourceContentHash: 'sha256:96f1d5630278a964'

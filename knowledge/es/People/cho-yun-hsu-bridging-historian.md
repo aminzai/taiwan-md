@@ -22,6 +22,15 @@ tags:
 lastVerified: 2026-05-22
 lastHumanReview: false
 featured: false
+sporeLinks:
+  - id: 82
+    platform: 'threads'
+    date: '2026-05-23'
+    url: 'https://www.threads.com/@taiwandotmd/post/DYru52Bk31S'
+  - id: 83
+    platform: 'x'
+    date: '2026-05-23'
+    url: 'https://x.com/taiwandotmd/status/2058183941593719181'
 translatedFrom: 'People/許倬雲.md'
 sourceCommitSha: 'ecb3f6520'
 sourceContentHash: 'sha256:a7dc8d1152c0f436'

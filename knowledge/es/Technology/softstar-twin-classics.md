@@ -20,6 +20,15 @@ readingTime: 16
 lastVerified: 2026-04-23
 lastHumanReview: false
 featured: false
+sporeLinks:
+  - id: 92
+    platform: 'threads'
+    date: '2026-05-26'
+    url: 'https://www.threads.com/@taiwandotmd/post/DYzFoZxk7GN'
+  - id: 94
+    platform: 'x'
+    date: '2026-05-26'
+    url: 'https://x.com/taiwandotmd/status/2059239795231281223'
 translatedFrom: 'Technology/大宇雙劍.md'
 sourceCommitSha: '31a05c44'
 sourceContentHash: 'sha256:99d1ed1be7085b4c'
