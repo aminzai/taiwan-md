@@ -1,109 +1,119 @@
 ---
-title: 'Roti dan Pemanggang Taiwan'
-description: 'Dari juara dunia Wu Bao-chun hingga ekspansi internasional 85°C, jelajahi pesona unik roti Taiwan'
+title: 'Roti dan Kue Taiwan'
+description: 'Dari kemenangan juara dunia Wu Pao-chun hingga ekspansi internasional 85°C, jelajahi keunikan roti Taiwan'
 date: 2026-03-19
 category: 'Food'
-tags: ['roti', 'memanggang', 'Wu Bao-chun', 'roti Taiwan', '85°C']
+tags: ['roti', 'kue', 'Wu Pao-chun', 'roti Taiwan', '85°C']
 subcategory: '烘焙與甜點'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/taiwanese-pineapple-cake.webp'
-imageAlt: 'Kue Nanas Taiwan'
+imageAlt: 'Kue nanas Taiwan'
 imageCredit: 'Kwb / Wikimedia Commons'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:TaiwanesePineappleCake.jpg'
 translatedFrom: 'Food/台灣麵包與烘焙.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:dc1169789f149357'
-sourceBodyHash: 'sha256:86fbaa53393cb1b7'
-translatedAt: '2026-09-09T15:32:33+08:00'
+sourceCommitSha: 'c08419525'
+sourceContentHash: 'sha256:a603b4a8bf5b1742'
+sourceBodyHash: 'sha256:05bf89cfacdb7f7b'
+translatedAt: '2026-10-10T07:17:13+08:00'
 ---
 
-# Roti dan Pemanggang Taiwan
+# Roti dan Kue Taiwan
 
-Budaya roti Taiwan menampilkan wajah unik dari perpaduan Timur-Barat. Dari teknik dasar yang diperkenalkan selama periode kolonial Jepang, hingga pengaruh Amerika pasca-perang, dan tren Eropa tahun-tahun terakhir, industri pemanggang Taiwan telah menempuh jalan mereka sendiri. Pada tahun 2010, [Wu Bao-chun](/id/people/wu-bao-chun/) memenangkan juara individual di Mondial du Pain (Kompetisi Roti Dunia) di Paris, Perancis, menetapkan nama industri pemanggang Taiwan di panggung internasional. [^1]
+Budaya roti Taiwan menampilkan gabungan unik antara budaya Timur dan Barat. Dari teknik dasar yang diperkenalkan pada masa kolonial Jepang, hingga pengaruh Amerika pasca-perang, hingga tren Eropa modern, industri kue Taiwan berkembang dengan jalannya sendiri. Pada tahun 2010, [Wu Pao-chun](/id/people/wu-bao-chun/) memenangkan kompetisi roti dunia yang diselenggarakan oleh Lesaffre di Prancis, membuktikan bahwa industri kue Taiwan telah mendapatkan pengakuan internasional. [^1]
 
-## Fenomena Wu Bao-chun dan Jalan Menuju Juara Dunia
+## Fenomena Wu Pao-chun dan Jalan Menuju Gelar Dunia
 
-Pada Maret 2010, di ajang Europain di Paris, Perancis, dalam kompetisi Mondial du Pain (Kompetisi Roti Dunia Fondasi Lesaffre), [Wu Bao-chun](/id/people/wu-bao-chun/) dari Pingtung, Taiwan memenangkan juara dalam kategori individual dengan karya khasnya "Aromaterapi Beras dan Bunga Leci" (dibuat dengan leci, mawar, dan starter tua beraroma anggur merah dari Puli Winery), mengejutkan seluruh dunia. [^1] Ini adalah tonggak sejarah dalam industri pemanggang Taiwan. Perlu diperhatikan bahwa acara ini adalah Mondial du Pain, bukan Coupe du Monde de la Boulangerie yang lebih besar (yang merupakan kompetisi tim).
+Pada tahun 2008, tim Taiwan yang terdiri dari Wu Pao-chun, Cao Zhi-xiong, dan Wen Shi-cheng meraih perak dalam kompetisi roti dunia di Paris yang diselenggarakan oleh Lesaffre. Pada tahun 2010, kompetisi ini menambahkan kategori individu "Les Masters de la Boulangerie", dengan syarat peserta adalah 10 orang teratas dari perolehan poin individu tahun 2008. Dari Pingtung Neipu, [Wu Pao-chun](/id/people/wu-bao-chun/) memenangkan kategori roti Eropa dengan karya "Mi Fermentasi dan Rasa Nanas" (juga dikenal sebagai roti buah nanas dan mawar), yang menjadi tonggak sejarah dalam industri kue Taiwan. [^2]
 
-Kesuksesan Wu Bao-chun memiliki cerita yang menyentuh hati. Lahir dari keluarga miskin, ia mulai bekerja sebagai magang di toko roti setelah menyelesaikan sekolah menengah pertama, memulai dari pekerjaan pembersihan paling dasar. Pada era yang masih belum memiliki program pendidikan pemanggang, pembelajaran dari guru adalah satu-satunya jalan. Berkat kecintaannya pada roti dan kerja keras yang tidak kenal lelah, ia secara bertahap mengasah keterampilannya.
+Di balik kesuksesan Wu Pao-chun terdapat kisah yang menyentuh. Dengan delapan anak kandung, ibu keluarga bekerja keras untuk menanam nanas dan membiayai sekolah, namun tidak cukup untuk membiayai pendidikan anak-anaknya. Wu Pao-chun lulus SMP, berusia 15 tahun hijrah ke Taipei sendirian untuk menjadi apprentice di sebuah toko roti. Kemudian, teman dekatnya Chen Fu-hsiung memperkenalkannya dengan roti tawar dan teknik mengeringkan buah dengan alkohol, sehingga ia mulai mempelajari buku-buku kue Jepang dan Prancis dengan menggunakan kamus. [^3]
 
-Kreativitas "Aromaterapi Beras dan Bunga Lici" berasal dari bahan-bahan lokal Taiwan: manis tropis dari leci, aroma bunga dari mawar, dikombinasikan dengan starter tua beraroma dengan anggur merah dari Puli Winery, menciptakan lapisan rasa yang belum pernah ada sebelumnya. Pendekatan menggabungkan elemen lokal Taiwan dengan pemanggan gaya Barat ini kemudian menjadi salah satu ciri khas roti Taiwan.
+Inspirasi "Mi Fermentasi dan Rasa Nanas" berasal dari toko makanan manis terkenal di Paris, Ladurée, yang terkenal dengan kue lapis nanas. Bahan-bahan yang digunakan adalah air minuman dari beras gergasi di Sanhsia Pingtung, keringnanas dari Changhua, dan mawar organik dari Puli Nantou. [^3] Pendekatan menggabungkan bahan lokal Taiwan ke dalam kue Barat ini kemudian menjadi salah satu ciri khas roti Taiwan.
 
-Kemenangan Wu Bao-chun bukan titik akhir Taiwan dalam kompetisi ini. Wu Zi-jing memenangkan juara individual di Mondial du Pain pada tahun 2015, Chen Yao-xun pada tahun 2017, dan Wang Peng-jie pada tahun 2022, menjadikan Taiwan salah satu negara dengan jumlah juara terbanyak dalam sejarah kompetisi ini. [^2]
+Setelah Wu Pao-chun, para ahli kue Taiwan berhasil meraih kesuksesan dalam berbagai kompetisi internasional. Setiap dua tahun sekali, kompetisi roti dunia (Mondial du Pain) diikuti oleh satu ahli kue dan satu asisten: Wu Zi-jing meraih kemenangan kategori roti manis pada tahun 2011, tim Taiwan berhasil meraih kemenangan bertiga berturut-turut pada tahun 2015 dan 2017, dan pada tahun 2017 yang bertarung adalah Chen Yao-xun. [^4][^5][^6] Wang Peng-jie yang pernah dilatih oleh Wu Pao-chun memenangkan kategori roti seni pada Pameran Roti Eropa (Europain) pada tahun 2018, kemudian menjadi pelatih tim roti dunia Taiwan. [^7] Pada tahun 2022, pelatih Wu Wu-hsien membawa Wu Zi-jing, Xu Shao-huan, dan Li Chung-wei meraih kemenangan tim dalam kompetisi roti dunia Lesaffre untuk pertama kalinya. [^6]
 
 ## Estetika Unik Roti Taiwan
 
-Budaya roti Taiwan menggabungkan berbagai elemen, membentuk "estetika Taiwan" yang unik. Ciri terbesar dari estetika ini adalah "tanpa batasan" — setiap bahan dapat menjadi topping roti, setiap rasa layak untuk dicoba.
+Budaya roti Taiwan menggabungkan berbagai elemen, membentuk estetika unik yang disebut "Estetika Roti Taiwan". Ciri paling mencolok dari estetika ini adalah "tanpa batas", di mana setiap bahan makanan bisa menjadi bahan roti, dan setiap rasa layak dicoba.
 
-Roti bawang merah adalah inovasi Taiwan paling tipikal. Di mata orang Eropa, bawang hijau dan roti adalah kombinasi yang sama sekali tidak cocok, namun orang Taiwan menciptakan klasik ini. Tubuh roti lembut, permukaan ditaburkan dengan bawang hijau dan mayones, menciptakan perpaduan rasa asin-manis yang memukau. Semangat inovasi yang berani ini adalah esensi roti Taiwan.
+Roti daun bawang adalah contoh inovasi paling khas dari roti Taiwan. Bagi orang Eropa, kombinasi daun bawang dan roti terlihat tidak cocok, namun di toko-toko roti Taiwan, ini adalah item tetap di rak. Tekstur roti yang lembut, permukaan yang ditaburi daun bawang dan mayones, menciptakan rasa manis dan asin yang memukau. Inovasi yang berani ini adalah esensi dari roti Taiwan.
 
-Roti daging asap adalah karya penting lainnya. Daging asap, hidangan tradisional Taiwan, ketika dikombinasikan dengan roti gaya Barat, menciptakan pengalaman rasa yang unik. Lapisan daging asap di luar memberikan rasa gurih dan tekstur kenyal, sementara bagian dalam roti tetap lembut dan manis, menciptakan kontras yang menarik.
+Roti daging serundeng juga merupakan karya ikonik. Serundeng daging yang merupakan lauk tradisional Taiwan, ketika digabungkan dengan roti Barat, menciptakan pengalaman rasa yang unik. Lapisan luar serundeng daging memberikan rasa gurih dan tekstur renyah, sementara bagian dalam roti tetap lembut dan manis, menciptakan kontras yang menarik.
 
-Roti nanas berasal dari Hong Kong dan setelah diperkenalkan ke Taiwan berkembang menjadi versi uniknya sendiri. Meskipun bernama roti nanas, sebenarnya tidak mengandung nanas, tetapi dinamakan demikian karena kulit permukaan berbentuk seperti nanas. Versi Taiwan dari roti nanas biasanya lebih manis dibanding versi Hong Kong, dengan kulit yang lebih tebal, sesuai dengan preferensi masyarakat Taiwan yang menyukai makanan manis.
+Roti nanas tidak meng mengandung nanas sebenarnya, namanya berasal dari pola tekstur kulit luarnya yang renyah. Roti ini mirip dengan roti kopi Hong Kong dan melon pan Jepang, namun tidak ada bukti pasti siapa yang menciptakannya lebih dulu.
 
 ## Roti Eropa vs Roti Taiwan: Dialog Dua Filosofi
 
-Dalam beberapa tahun terakhir, roti Eropa telah memicu tren di Taiwan, dengan banyak pemangggang pergi ke Perancis untuk mempelajari teknik autentik. Tren Eropa ini membentuk dialog yang menarik dengan roti Taiwan tradisional.
+Dalam beberapa tahun terakhir, roti Eropa sempat populer di Taiwan, banyak ahli kue yang belajar di Prancis untuk mempelajari teknik tradisional. Fenomena ini menciptakan dialog menarik dengan roti Taiwan tradisional.
 
-Roti Eropa mengejar "kemurnian." Menggunakan ragi alami, fermentasi jangka panjang, memberikan perhatian pada kualitas tepung dan suhu air. Produk akhirnya biasanya keras di luar dan lembut di dalam, dengan tekstur padat dan rasa asam alami. Jenis roti ini memerlukan penikatan yang halus dan pengunyahan lambat untuk merasakan manisnya tepung.
+Roti Eropa mengejar "kesederhanaan". Menggunakan ragi alami, fermentasi lama, memperhatikan kualitas tepung dan suhu air. Produk akhir biasanya keras di luar, lembut di dalam, tekstur kenyal, dengan rasa asam alami. Roti ini perlu dinikmati dengan hati-hati, menggigit perlahan untuk merasakan aroma manis dari tepungnya.
 
-Roti Taiwan mengejar "kekayaan." Berbagai topping, berbagai rasa, berbagai bentuk, dengan tujuan memberikan kepuasan maksimal kepada konsumen. Tubuh roti biasanya lebih lembut, kadar gula lebih tinggi, cocok untuk dinikmati dengan cepat. Perbedaan ini mencerminkan pemahaman budaya yang berbeda tentang makanan.
+Roti Taiwan justru mengejar "kekayaan". Berbagai bahan, rasa, dan bentuk, bertujuan memberikan kepuasan maksimal kepada konsumen. Tekstur roti biasanya lebih lembut, rasa lebih manis, cocok untuk disantap dengan cepat. Perbedaan ini mencerminkan pemahaman berbeda antara budaya tentang makanan.
 
-Yang menarik adalah kedua gaya ini tidak saling mengesampingkan di Taiwan, tetapi justru saling melengkapi. Banyak toko roti menjual roti Eropa dan Taiwan secara bersamaan, memenuhi kebutuhan pelanggan yang berbeda. Beberapa pemangggang inovatif bahkan menggabungkan kedua teknik ini, menciptakan kategori baru yang disebut "Roti Gaya Eropa Taiwan."
+Menarik, kedua gaya ini tidak saling eksklusif di Taiwan, justru saling melengkapi. Banyak toko roti yang menjual roti Eropa dan roti Taiwan sekaligus, memenuhi kebutuhan berbagai pelanggan. Beberapa ahli kue inovatif bahkan menggabungkan kedua teknik ini, menciptakan kategori baru "roti Eropa Taiwan".
 
 ## Legenda Internasionalisasi 85°C
 
-Jika Wu Bao-chun mewakili kedalaman teknis pemanggang Taiwan, maka 85°C melambangkan pencapaian bisnis pemanggang Taiwan. Merek yang didirikan pada tahun 2003 ini berkembang dari kafe kopi lokal Taiwan menjadi perusahaan rantai internasional: memasuki pasar Tiongkok pada tahun 2008, memperluas ke Amerika Serikat pada tahun 2016. [^3]
+Jika Wu Pao-chun mewakili ketinggian teknis kue Taiwan, maka 85°C justru melambangkan pencapaian komersial kue Taiwan. Pada tahun 2003, pendiri 85°C, Wu Zheng-xue, mendapatkan inspirasi saat makan kue di kafe hotel bintang lima. Pada tahun 2004, toko pertama dibuka di pinggiran Taipei, berkembang dari kafe kopi lokal Taiwan menjadi rantai bisnis internasional: pada tahun 2006 membuka cabang pertama di luar negeri di Australia, 2007 masuk ke Shanghai, 2008 membuka cabang pertama di California, Amerika Serikat. [^8]
 
-Rahasia kesuksesan 85°C terletak pada positioning "kemewahan terjangkau". Mereka menyediakan kue dan roti setara kualitas hotel bintang lima, tetapi dengan harga seukuran kedai kopi biasa. Strategi ini dengan presisi menangkap psikologi konsumen, memungkinkan orang biasa menikmati produk pemanggan yang berkelas.
+Strategi keberhasilan 85°C adalah "mewah dengan harga terjangkau". Mereka menawarkan kue dan roti dengan kualitas tingkat hotel bintang lima, namun dengan harga setara dengan kafe kopi biasa. Strategi ini tepat sasaran, memungkinkan orang biasa untuk menikmati produk kue yang halus.
 
-Proses internasionalisasi tidak lancar. Di pasar Tiongkok, 85°C menghadapi persaingan lokal yang sengit; di pasar Amerika, harus menyesuaikan dengan kebiasaan konsumsi yang berbeda. Namun melalui penyesuaian terus-menerus dalam kombinasi produk dan model operasional, 85°C secara bertahap mengukuhkan posisinya di luar negeri.
+Proses internasionalisasi tidak sempurna. Di pasar Tiongkok, 85°C menghadapi persaingan yang ketat dari merek lokal; di pasar Amerika Serikat, perlu beradaptasi dengan kebiasaan konsumsi yang berbeda. Namun melalui penyesuaian terus-menerus pada kombinasi produk dan model operasional, 85°C berhasil bertahan di pasar luar negeri.
 
-Kesuksesan 85°C di luar negeri juga membuktikan daya saing internasional pemanggan Taiwan. Meskipun teknik berasal dari Amerika, Eropa, dan Jepang, setelah inovasi dan perbaikan oleh Taiwan, telah berkembang menjadi gaya dan keunggulan yang unik. Ekspor soft power semacam ini lebih persuasif daripada promosi resmi apa pun.
+Keberhasilan 85°C di luar negeri juga membuktikan daya saing internasional kue Taiwan. Meskipun tekniknya berasal dari Eropa, Amerika, dan Jepang, setelah inovasi dan perbaikan di Taiwan, telah berkembang menjadi gaya dan keunggulan yang unik. Penguatan ini lebih meyakinkan daripada promosi resmi.
 
-## Pendidikan Pemanggan dan Transmisi Keterampilan
+## Pendidikan Kue dan Warisan Keterampilan
 
-Perkembangan industri pemanggan Taiwan tidak terpisahkan dari dukungan sistem pendidikan. Dari periode awal magang, hingga saat ini di institusi pendidikan kejuruan, pendidikan pemanggan telah mengalami transformasi besar.
+Perkembangan industri kue Taiwan tidak terlepas dari dukungan sistem pendidikan. Dari sistem apprentice awal, hingga sekarang sekolah vokasi, pendidikan kue telah mengalami transformasi besar.
 
-Program studi pemanggan di sekolah kejuruan telah melatih sejumlah besar talenta untuk industri. Siswa tidak hanya mempelajari teknik dasar, tetapi juga memahami sains pangan, gizi, dan pengendalian biaya serta pengetahuan profesional lainnya. Pendidikan sistematis semacam ini meningkatkan standar profesional industri secara keseluruhan.
+Sekolah vokasi menyediakan banyak tenaga ahli untuk industri ini. Selain mempelajari teknik dasar, mahasiswa juga perlu memahami ilmu makanan, gizi, dan kontrol biaya. Pendidikan yang sistematis ini meningkatkan standar profesional keseluruhan industri.
 
-Berbagai kompetisi pemanggan juga memainkan peran penting. Dari kompetisi dalam sekolah hingga kompetisi internasional, kompetisi-kompetisi ini tidak hanya merupakan platform pertukaran teknis, tetapi juga tempat berkembangnya talenta. Banyak pemangggang terkenal telah menonjol melalui kompetisi.
+Berbagai kompetisi kue juga memainkan peran penting. Dari kompetisi internal sekolah hingga kompetisi internasional, kompetisi ini bukan hanya menjadi platform pertukaran teknologi, tetapi juga sarana pengembangan bakat. Banyak ahli kue terkenal berhasil melalui kompetisi.
 
-Dalam beberapa tahun terakhir, pendidikan pemanggan juga berkembang ke arah yang beragam. Selain pelatihan teknis tradisional, juga ditambahkan kursus tentang manajemen kewirausahaan, keamanan pangan, dan sertifikasi internasional. Model pengembangan komprehensif semacam ini memungkinkan talenta pemanggan Taiwan menjadi lebih kompetitif di pasar internasional.
+Dalam beberapa tahun terakhir, pendidikan kue juga berkembang secara beragam. Selain pelatihan teknis tradisional, ditambahkan manajemen kewirausahaan, keamanan makanan, dan sertifikasi internasional. Pendekatan pengembangan yang menyeluruh ini membuat tenaga ahli kue Taiwan lebih kompetitif di pasar internasional.
 
-## Tantangan Keamanan Pangan dan Transformasi Industri
+## Tantangan Keamanan Makanan dan Transformasi Industri
 
-Keamanan pangan adalah tantangan terbesar yang dihadapi industri pemanggan. Dari krisis plasticizer hingga kontroversi bahan tambah perasa, setiap insiden keamanan pangan menyebabkan dampak serius pada industri. Persyaratan konsumen terhadap keamanan pangan semakin tinggi, dan produsen harus membangun sistem kontrol kualitas yang lebih ketat.
+Keamanan makanan adalah tantangan terbesar yang dihadapi industri kue. Dari krisis pengawet plastik hingga kontroversi penambahan bumbu, setiap insiden keamanan makanan memberikan dampak besar pada industri. Konsumen semakin menuntut pada keamanan makanan, sehingga produsen harus memastikan sistem kontrol kualitas yang lebih ketat.
 
-Banyak produsen mulai mengadopsi strategi "transparansi", mengungkapkan sumber bahan dan proses produksi. Beberapa toko roti bahkan menyiapkan dapur terbuka, memungkinkan konsumen melihat langsung proses produksi. Meskipun pendekatan ini meningkatkan biaya, namun juga meningkatkan kepercayaan konsumen.
+Banyak produsen mulai mengadopsi strategi "transparansi", mengungkapkan asal bahan makanan dan proses produksi. Beberapa toko roti bahkan mengatur dapur terbuka, memungkinkan konsumen untuk langsung melihat proses produksi. Meskipun strategi ini meningkatkan biaya, juga meningkatkan kepercayaan konsumen.
 
-Meningkatnya kesadaran kesehatan juga mendorong transformasi industri. Roti dengan konsep gula rendah, lemak rendah, dan biji-bijian utuh mulai diminati. Meskipun rasanya mungkin tidak sebaik roti tradisional, namun memenuhi kebutuhan konsumen yang berorientasi kesehatan.
+Kesadaran akan kesehatan juga mendorong transformasi industri. Roti rendah gula, rendah minyak, dan gandum utuh mulai diminati. Meskipun rasa mungkin tidak seteniknya roti tradisional, tetapi memenuhi kebutuhan konsumen yang peduli kesehatan.
 
-Inovasi teknologi adalah tren penting lainnya. Peralatan otomatis meningkatkan efisiensi produksi, teknologi pembekuan memperpanjang daya simpan, dan metode pemanggan baru menciptakan lebih banyak kemungkinan. Inovasi ini tidak hanya meningkatkan kualitas produk, tetapi juga menurunkan biaya tenaga kerja.
+Inovasi teknologi adalah tren penting lainnya. Peralatan otomatis meningkatkan efisiensi produksi, teknologi pembekuan memperpanjang masa simpan, dan metode kue baru menciptakan lebih banyak kemungkinan. Inovasi ini tidak hanya meningkatkan kualitas produk, tetapi juga mengurangi biaya tenaga kerja.
 
-Jejak perkembangan industri roti dan pemanggan Taiwan jelas dapat dilacak: dari kemenangan Wu Bao-chun pada tahun 2010, hingga tiga kali juara berturut-turut dalam kategori individual Mondial du Pain pada tahun 2015, 2017, dan 2022, kemudian perluasan 85°C ke pasar Eropa, Amerika, dan Asia, daya saing internasional yang telah terakumulasi oleh industri pemanggan Taiwan telah terbukti secara faktual, bukan hanya peningkatan teknis, tetapi juga evolusi lengkap dari ujung produksi hingga ujung merek. [^4]
+Jalannya industri roti dan kue Taiwan jelas tercatat: kemenangan Wu Pao-chun pada kompetisi roti dunia 2010, kemenangan tim kompetisi roti dunia 2015 dan 2017, kemenangan kompetisi roti dunia Lesaffre 2022, ditambah dengan 85°C yang berkembang dari Taiwan ke Tiongkok, Australia, dan Amerika Serikat, menunjukkan bahwa industri kue Taiwan telah terbukti memiliki kompetensi internasional, dari produksi hingga merek.
 
 ## Sumber Gambar
 
-- Hero: Kue Nanas Taiwan, fotografi oleh Kwb, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TaiwanesePineappleCake.jpg), public domain.
+- Hero：Kue nanas Taiwan, Foto Kwb, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TaiwanesePineappleCake.jpg), Public domain。
 
 ## Referensi
 
-[^1]: [Situs Resmi Wu Bao-chun Bakery](https://www.wu-pao-chun.com/) — Pengenalan karya Aromaterapi Beras dan Bunga Leci serta proses pemenangan Mondial du Pain 2010.
+[^1]: [Taiwan: The winner of the Masters de la Boulangerie 2010 is…（Global Voices，2010-04-09）](https://globalvoices.org/2010/04/09/taiwan-the-winner-of-the-masters-de-la-boulangerie-2010-is/) — Wu Pao-chun memenangkan kompetisi roti dunia Lesaffre 2010, dilengkapi dengan catatan teman dekatnya tentang proses penelitian dan pengembangan roti buah nanas dan mawar.
 
-[^2]: [Situs Resmi Mondial du Pain](https://www.mondialdupain.com/) — Daftar juara individu setiap era, termasuk catatan peserta Taiwan 2010/2015/2017/2022 empat era.
+[^2]: [Wu Pao-chun（Wikipedia）](https://zh.wikipedia.org/zh-tw/%E5%90%B3%E5%AF%B6%E6%98%A5) — Kemenangan perak tim Taiwan 2008, syarat dan kemenangan kategori roti Eropa pada kompetisi roti dunia 2010, asal bahan makanan "Mi Fermentasi dan Rasa Nanas".
 
-[^3]: [Hubungan Investor 85°C](https://www.85cafe.com/) — Sejarah merek 85°C dan data ekspansi toko luar negeri.
+[^3]: [Kisah Kesuksesan Juara Kue Wu Pao-chun（Jioman Zhi Magazine，2016-11-09）](https://www.mirrormedia.mg/story/20161108fin006) — Lulus SMP berusia 15 tahun hijrah ke Taipei sebagai apprentice, inspirasi dari Chen Fu-hsiung, inspirasi dan bahan makanan "Mi Fermentasi dan Rasa Nanas", toko roti pertama Wu Pao-chun dibuka pada November 2010 di Kaohsiung.
 
-[^4]: [Lembaga Penelitian Teknologi Industri Sereal Republik Tiongkok (Taiwan)](https://www.cgprdi.org.tw/) — Institusi penelitian teknologi pemanggan Taiwan, termasuk data pelatihan kompetisi dan bimbingan teknis.
+[^4]: [Tidak Berhasil Bertiga Berturut-turut Tim Roti Dunia Taiwan Raih Perak（Public Television Service News，2019-10-23）](https://news.pts.org.tw/article/451506) — Kompetisi roti dunia setiap dua tahun, tim Taiwan berhasil meraih kemenangan pada tahun 2015 dan 2017, pada tahun 2019 Wang Peng-jie sebagai pelatih meraih perak.
 
-[^5]: [Asosiasi Industri Perdagangan Pemanggan Republik Tiongkok (Taiwan) Federasi Nasional](https://www.twbakery.org.tw/) — Asosiasi industri pemanggan, termasuk statistik industri dan informasi kompetisi internasional.
+[^5]: [Terima Kasih pada Juara Dunia Chen Yao-xun Zaman Roti Taiwan Telah Kembali（Jioman Zhi Magazine，2019-05-13）](https://www.mirrormedia.mg/story/20190513food001) — Chen Yao-xun adalah juara kompetisi roti dunia 2017, karyanya adalah "Mengalirkan Rasa Berry".
 
-## Bacaan Lebih Lanjut
+[^6]: [Mereka Pernah Jadi Peserta Kompetisi Roti Dunia Berkumpul untuk Mengincar Kemenangan Pertama Tim Dunia Taiwan（Jioman Zhi Magazine，2022-04-28）](https://www.mirrormedia.mg/story/20220428bus001) — Pada Maret 2022, Taiwan berhasil meraih kemenangan tim kompetisi roti dunia Lesaffre untuk pertama kalinya, pelatih Wu Wu-hsien membawa Wu Zi-jing, Xu Shao-huan, Li Chung-wei; Wu Zi-jing pernah memenangkan kategori roti manis pada kompetisi roti dunia 2011.
 
-- [Wu Bao-chun Bakery](https://www.wu-pao-chun.com/) — Toko unggulan Wu Bao-chun di Tainan, Taiwan, termasuk item roti pemenang
-- [Lembaga Penelitian Teknologi Industri Sereal Republik Tiongkok (Taiwan)](https://www.cgprdi.org.tw/) — Institusi penelitian teknologi industri pemanggan
+[^7]: [Dukungan dari Nama Kita Pemain Kompetisi Roti Dunia Taiwan Tidak Lagi Sendirian（Sanli News Network，2019-10-22）](https://www.setn.com/news/622274) — Wang Peng-jie pernah memenangkan kategori roti seni pada Pameran Roti Eropa 2018, pada tahun 2019 menjadi pelatih tim roti dunia Taiwan, peserta yang bertarung adalah You Dong-yun dan asisten Xu Yu-chen.
+
+[^8]: [How It All Started（85°C Bakery Cafe）](https://www.85cbakerycafe.com/about) — Sejarah merek 85°C: inspirasi pendiri pada tahun 2003, toko pertama di pinggiran Taipei pada tahun 2004, Australia pada tahun 2006, Shanghai pada tahun 2007, toko pertama di California Amerika Serikat pada tahun 2008.
+
+## Bacaan Lanjutan
+
+- [Toko Roti Wu Pao-chun](https://www.wupaochun.com/) — Situs web toko roti Wu Pao-chun, toko pertama dibuka pada tahun 2010 di Kaohsiung
+- [Lembaga Teknologi Industri Kue dan Gandum Tionghoa](https://www.cgprdi.org.tw/) — Lembaga riset teknologi industri kue
+
+```
+
+```
