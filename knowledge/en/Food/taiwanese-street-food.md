@@ -186,10 +186,10 @@ That German professor's confusion is actually the answer.
 
 ## Related Topics
 
-- [Night Market Culture](/food/夜市文化) — In-depth analysis of night markets as social spaces
-- [Bubble Tea](/food/珍珠奶茶) — The global dominance of liquid snacks
-- [Taiwanese Braised Pork Rice](/food/台灣滷肉飯) — Ethnic memories in a bowl of rice
-- [Hakka Food Culture](/food/客家飲食文化) — The culinary wisdom of the Hakka people
-- [New Immigrant Food Fusion in Taiwan](/food/台灣新住民美食融合) — The next wave of culinary mixing is happening
+- [Night Market Culture](/en/food/night-market-culture) — In-depth analysis of night markets as social spaces
+- [Bubble Tea](/en/food/bubble-tea) — The global dominance of liquid snacks
+- [Taiwanese Braised Pork Rice](/en/food/braised-pork-rice) — Ethnic memories in a bowl of rice
+- [Hakka Food Culture](/en/food/hakka-food-culture) — The culinary wisdom of the Hakka people
+- [New Immigrant Food Fusion in Taiwan](/en/food/taiwanese-new-immigrant-culinary-fusion) — The next wave of culinary mixing is happening
 
 ---

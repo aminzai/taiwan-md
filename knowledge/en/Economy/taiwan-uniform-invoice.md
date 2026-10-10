@@ -183,7 +183,7 @@ So next time you check out at a convenience store and the clerk asks you "Do you
 - [Taiwan Convenience Store Culture](/en/lifestyle/convenience-store-culture) — The scene where the most people redeem invoice prizes and say "919" for donations happens at the checkout counter of major convenience stores today.
 - [Taiwan White Terror](/en/history/taiwan-white-terror) — In the era when the invoice designer Ren Hsien-ch'un was imprisoned under the charge of "failing to report spies," an accusation could be fatal.
 - [Taiwan Transitional Justice](/en/history/taiwan-transitional-justice) — The exoneration process undertaken by Ren Hsien-ch'un, spanning two administrations and many years, is a specific journey for Taiwan in facing its authoritarian history.
-- [Taiwan Oil Price Mechanism and CPC](/economy/台灣油價機制與中油) — Using an official document as a ruler: how one oil price press release divides one liter into three parts—asking CPC to bear the cost, dividing it by volume at retail prices, while no one ever tracks who uses the most.
+- [Taiwan Oil Price Mechanism and CPC](/en/economy/taiwan-fuel-pricing-and-cpc) — Using an official document as a ruler: how one oil price press release divides one liter into three parts—asking CPC to bear the cost, dividing it by volume at retail prices, while no one ever tracks who uses the most.
 
 ## Image Sources
 

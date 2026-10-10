@@ -118,7 +118,7 @@ What it left behind wasn't just a handful of good shows, but an answer that's st
 
 **Further Reading**:
 
-- [Golden Bell Awards](/culture/金鐘獎) — the award where _When Night Falls, Close Your Eyes_ and _Hua-Jia Boy Grows Up_ won Best Drama Series in back-to-back years, and where "Hao Feng Guang" first appeared in the winning-unit column
+- [Golden Bell Awards](/en/culture/golden-bell-awards) — the award where _When Night Falls, Close Your Eyes_ and _Hua-Jia Boy Grows Up_ won Best Drama Series in back-to-back years, and where "Hao Feng Guang" first appeared in the winning-unit column
 
 ## References
 

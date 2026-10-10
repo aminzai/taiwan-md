@@ -140,7 +140,7 @@ A single pastry holds far more time than you might think.
 - [Taiwan Bread and Baking](/en/food/taiwan-bread-and-baking) — From Wu Pao-chun to Chen Yaoxun, the story of Taiwan's bread chefs stepping onto the world stage
 - [Taiwan Rice Food Culture](/en/food/taiwan-rice-cuisine-culture) — Rice and pastry are two main threads on the same dining table; understanding rice is key to understanding pastry's place
 - [Taiwan Weddings, Funerals, and Life Rituals](/en/culture/taiwanese-life-ceremony-traditions) — The specific role of wedding pastry gift boxes in the six rites and twelve ceremonies
-- [Taiwan Tea Culture](/culture/台灣茶文化) — Han pastry and tea have been paired for a century; Yuzhenzhai's Phoenix Eye Cake was originally meant to be eaten with tea
+- [Taiwan Tea Culture](/en/culture/taiwanese-tea-culture-and-living-aesthetics) — Han pastry and tea have been paired for a century; Yuzhenzhai's Phoenix Eye Cake was originally meant to be eaten with tea
 
 ## References
 

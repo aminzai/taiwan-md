@@ -93,9 +93,9 @@ Twenty-three years after the Peace Hospital was locked down, that building still
 
 - [Taipei Smoking Rooms: The Breathing Glass Boxes in a Smoke-Free City](/en/society/taipei-smoking-room) — The latest chapter in the forty-year crusade against tobacco harm, with the battlefield shifting from indoors to outdoors
 - [Taiwan Healthcare and National Health Insurance](/en/lifestyle/taiwan-healthcare-and-national-health-insurance) — The foundational infrastructure of the prevention system: a health insurance database for 23.4 million people
-- [Audrey Tang](/people/唐鳳) — The Digital Minister behind the Mask Map
+- [Audrey Tang](/en/people/audrey-tang) — The Digital Minister behind the Mask Map
 - [Taiwan Disaster Medical System](/en/technology/taiwan-disaster-medicine-system) — From the 921 Earthquake to SARS, how disasters drive medical evolution
-- [Taiwan's COVID-19 Pandemic and Vaccines](/society/台灣新冠疫情與疫苗) — This system, built after SARS, was fully tested between 2020 and 2023: the border blocked the virus for eighteen months, but vaccines and third doses for the elderly did not keep pace
+- [Taiwan's COVID-19 Pandemic and Vaccines](/en/society/taiwan-covid-pandemic-and-vaccines) — This system, built after SARS, was fully tested between 2020 and 2023: the border blocked the virus for eighteen months, but vaccines and third doses for the elderly did not keep pace
 - [Regenerative Medicine Laws × 30 Years of mRNA](/en/society/taiwan-regenerative-medicine-laws) — A dual narrative of BNT procurement in 2021 and the legislation of cell therapy, offering an extended perspective on this article's COVID prevention coverage
 
 ## References

@@ -162,7 +162,7 @@ Two free-license images have been included in the project: the Pine and Crane Re
 
 - [Taiwan Traditional Crafts and Intangible Cultural Assets](/en/culture/traditional-crafts-intangible-cultural-heritage) — The position of lacquer art within Taiwan's traditional craft preservation system.
 - [Taiwan Floral Cloth](/en/culture/taiwan-floral-fabric) — Another case from imported patterns, industrial production to local identity transformation.
-- [Taiwan Salt Industry](/history/台灣鹽業) — Another Taiwan material history from natural resources, industrialization to cultural preservation.
+- [Taiwan Salt Industry](/en/history/taiwan-salt-industry) — Another Taiwan material history from natural resources, industrialization to cultural preservation.
 
 ## References
 

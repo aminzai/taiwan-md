@@ -277,7 +277,7 @@ What he left was a river that continues to flow, without a final answer.
 - [Yoga Lin](/en/people/yoga-lin) — A generational cross-section of Sinophone popular music, positioned against Wang Leehom’s generation
 - [Chen Chien-nien](/en/people/chen-chien-nien) — Another long-timescale narrative about a cultural figure in the People category
 - [_Waishengren_](/en/society/mainlanders-in-taiwan) — The postwar Taiwanese context of second-generation _waishengren_ intellectual families who came to Taiwan in 1949, including the family of Hsu Cho-yun, Hsu Liu-fen, and Hsu Wan-ching
-- [The February 28 Incident](/history/二二八事件) — A historical turning point confronted by intellectuals of Hsu’s generation after coming to Taiwan
+- [The February 28 Incident](/en/history/228-incident) — A historical turning point confronted by intellectuals of Hsu’s generation after coming to Taiwan
 - [Samuel Yin: The Science Prize He Built Costs More Than a Nobel](/en/people/samuel-yin-yan-liang) — Founder of the Tang Prize, whose sixth Sinology Prize went to Hsu Cho-yun in 2024; Hsu donated the entire NT$50 million award to establish the Hsu-Sun Scholarship
 
 ## Image Sources

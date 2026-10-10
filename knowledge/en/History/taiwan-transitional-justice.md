@@ -178,11 +178,11 @@ However, the story of [Zheng Nan-rong] reminds us that this path is longer than 
 
 **Further Reading:**
 
-- [National Human Rights Museum](/history/國家人權博物館) — A museum built by the state to commemorate political victims, inaugurated in 2018; its 2025 budget was once frozen.
-- [Taiwan White Terror](/history/台灣白色恐怖) — The historical core targeted by the revocation of convictions.
-- [Martial Law Era](/history/戒嚴時期) — The legal container from 1949 to 1987.
-- [February 28 Incident](/history/二二八事件) — The 1947 post-war crackdown in Taiwan, another strand of transitional justice work.
-- [Invoice: That 1951 Paper that Turned Everyone into Tax Auditors](/economy/發票) — Designed by Ren Hsien-chun, it spanned the administrations of Ma Ying-jeou and Tsai Ing-wen, taking years to complete its vindication; it serves as a specific case of transitional justice work.
+- [National Human Rights Museum](/en/history/national-human-rights-museum) — A museum built by the state to commemorate political victims, inaugurated in 2018; its 2025 budget was once frozen.
+- [Taiwan White Terror](/en/history/taiwan-white-terror) — The historical core targeted by the revocation of convictions.
+- [Martial Law Era](/en/history/martial-law-era) — The legal container from 1949 to 1987.
+- [February 28 Incident](/en/history/228-incident) — The 1947 post-war crackdown in Taiwan, another strand of transitional justice work.
+- [Invoice: That 1951 Paper that Turned Everyone into Tax Auditors](/en/economy/taiwan-uniform-invoice) — Designed by Ren Hsien-chun, it spanned the administrations of Ma Ying-jeou and Tsai Ing-wen, taking years to complete its vindication; it serves as a specific case of transitional justice work.
 
 ## References
 

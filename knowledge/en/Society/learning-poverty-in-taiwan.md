@@ -181,7 +181,7 @@ The first step is to acknowledge: **Taiwan's average PISA scores are real; 571 v
 - Taiwan's Youth Crisis—Learning poverty and youth decline are not the same problem, but they occur simultaneously in rural areas: as students decrease, schools shrink, and resources become more concentrated, the proportion of learning poverty among the remaining children is actually higher.
 - [Expansion and Exit of Higher Education in Taiwan](/en/society/taiwan-higher-education-expansion-and-decline)—After higher education became widespread and "getting into university" was no longer a barrier, the gap in "what was learned" became the next wall.
 - Educational System and College Entrance Culture—Taiwan's culture that treats college entrance as the only path leaves children with learning poverty with almost no other options within the system.
-- [Who is Low Paid](/society/誰算低薪)—Another definitional question: the National Labor Relations Board calculates low pay based on monthly salary (zero people) or annual salary (1.26 million people), differing by whether the year-end bonus falls under legal purview.
+- [Who is Low Paid](/en/society/who-counts-as-low-wage)—Another definitional question: the National Labor Relations Board calculates low pay based on monthly salary (zero people) or annual salary (1.26 million people), differing by whether the year-end bonus falls under legal purview.
 
 ## References
 

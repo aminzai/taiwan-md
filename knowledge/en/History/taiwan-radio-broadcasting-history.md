@@ -127,9 +127,9 @@ What is most worth leaving from the history of Taiwan’s broadcasting is not th
 
 ## Further Reading
 
-- [The History of Taiwan's Women's Movement](/society/婦女新知) — Another social history moving from institutional control to public speech
-- [The History of Taiwan's Postal Services](/lifestyle/台灣郵政) — How communication infrastructure entered local daily life
-- [The History of Taiwan's Agricultural Associations](/history/台灣農會史) — The institutional history of rural organizations, finance, and local public windows
+- [The History of Taiwan's Women's Movement](/en/society/awakening-foundation) — Another social history moving from institutional control to public speech
+- [The History of Taiwan's Postal Services](/en/lifestyle/taiwan-postal-service-history) — How communication infrastructure entered local daily life
+- [The History of Taiwan's Agricultural Associations](/en/history/taiwan-farmers-association-history) — The institutional history of rural organizations, finance, and local public windows
 
 ## References
 

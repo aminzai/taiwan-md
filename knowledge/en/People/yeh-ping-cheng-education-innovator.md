@@ -57,7 +57,7 @@ His core argument has remained unchanged: Taiwan's education system trains stude
 - [Huang Kuo-chen](/en/people/huang-kuo-chen) — Another educational innovator promoting reading literacy in Taiwan
 - [Lu Kuan-wei](/en/people/lu-guan-wei-junyiacademy-founder) — Chairman of Junyi Learning Platforms; left medicine for education to create the "Taiwanese version of Khan Academy"
 - [Yen Chang-shou](/en/people/stanley-yen) — A social entrepreneur who transitioned from the tourism industry to rural education
-- [Audrey Tang](/people/唐鳳) — The intersection of digital governance and educational innovation
+- [Audrey Tang](/en/people/audrey-tang) — The intersection of digital governance and educational innovation
 
 ## References
 

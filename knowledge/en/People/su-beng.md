@@ -120,8 +120,8 @@ Regardless of one’s position, few deny his consistency. From Yan’an’s disi
 
 **Further Reading**
 
-- [Taiwan Independence Spectrum](/society/台灣統獨光譜) — Understand where Su Beng’s independence stance sits on Taiwan’s political spectrum.
-- [228 Incident](/history/二二八事件) — The pivotal historical trauma that propelled Su Beng toward armed resistance.
+- [Taiwan Independence Spectrum](/en/society/taiwan-unification-independence-spectrum) — Understand where Su Beng’s independence stance sits on Taiwan’s political spectrum.
+- [228 Incident](/en/history/228-incident) — The pivotal historical trauma that propelled Su Beng toward armed resistance.
 - [Taiwan White Terror](/en/history/taiwan-white-terror) — Context for the “Independent Taiwan Society case” and Su Beng’s exile era.
 
 **Image Sources**

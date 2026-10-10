@@ -122,7 +122,7 @@ NT$30. Seventy years. One city.
 ## Further Reading
 
 - [Taiwan Home Cooking](/en/food/taiwan-specialty-home-cooking) — The cultural context of Taiwan's everyday home cooking
-- [Taiwan Banquet Culture](/food/台灣辦桌文化) — Another culinary tradition that grew from the grassroots
+- [Taiwan Banquet Culture](/en/food/taiwan-banquet-culture) — Another culinary tradition that grew from the grassroots
 
 ---
 

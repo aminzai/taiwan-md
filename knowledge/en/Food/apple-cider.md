@@ -228,7 +228,7 @@ No one can answer how the next 60 years will be sustained with a single asset-di
 
 **Further reading**:
 
-- [Taiwanese Banquet Culture](/food/台灣辦桌文化) — The beverage-culture context of rechao restaurants and banquet tables, and Apple Sidra’s place within this system
+- [Taiwanese Banquet Culture](/en/food/taiwan-banquet-culture) — The beverage-culture context of rechao restaurants and banquet tables, and Apple Sidra’s place within this system
 - [Taiwanese Hand-Shaken Drink Culture](/en/food/hand-shaken-drink-culture) — From tea drinks to carbonated beverages, the evolution of what Taiwanese people drink
 - [Taiwanese Enterprises: Uni-President Enterprises](/en/economy/taiwan-enterprise-uni-president) — A major competitor in the beverage market during the same period
 - [Taiwanese Enterprises: I-Mei Foods](/en/economy/imei-foods-corporation) — Another legacy brand that experienced food-safety controversies

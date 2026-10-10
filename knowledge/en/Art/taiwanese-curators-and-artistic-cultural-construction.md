@@ -106,7 +106,7 @@ _This article was written using extensive first-hand data and interviews; all na
 
 **Further Reading**:
 
-- [Matsu International Art Island](/art/馬祖國際藝術島) — A ten-year curatorial project hosted by the Lienchiang County Government; the third edition was led by five curators simultaneously, serving as a concrete example of the Taiwanese curatorial ecosystem moving toward a team-based, decentralized model.
+- [Matsu International Art Island](/en/art/matsu-biennial) — A ten-year curatorial project hosted by the Lienchiang County Government; the third edition was led by five curators simultaneously, serving as a concrete example of the Taiwanese curatorial ecosystem moving toward a team-based, decentralized model.
 
 ## References
 

@@ -126,7 +126,7 @@ Master aging, market shrinkage, material chain break, climate change—these fou
 ## Further Reading
 
 - [Taiwan Flower Cloth](/en/culture/taiwan-floral-fabric)——A craft similarly "labeled as Hakka" in the 1990s, behind which are the layered memories of different ethnic groups living together
-- [Taiwan Tea Culture](/culture/台灣茶文化)——The decrease in tea pickers directly pulled away the market end of the bamboo hat
+- [Taiwan Tea Culture](/en/culture/taiwanese-tea-culture-and-living-aesthetics)——The decrease in tea pickers directly pulled away the market end of the bamboo hat
 - [Map of 16 Indigenous Cultures in Taiwan](/en/culture/indigenous-peoples-16-tribes-cultural-map)——The source of Yuanli sedge hats is Puyuma women, not Han Chinese
 
 ## References

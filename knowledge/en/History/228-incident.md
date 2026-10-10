@@ -204,7 +204,7 @@ What is written on that paper does not matter. What matters is that someone has 
 - [National Human Rights Museum](/en/history/national-human-rights-museum) — The institutionalization of victim commemoration and perpetrator accountability; unveiled in 2018, budget frozen in 2025.
 - [Martial Law](/en/history/martial-law-era/) (/en/history/martial-law-era) — The legal container for 38 years starting from 1949, an extension of the 1947 suppression.
 - [Taiwan White Terror](/en/history/taiwan-white-terror/) (/en/history/taiwan-white-terror) — Political cases during the 38 years of martial law.
-- [Taiwan Transitional Justice](/history/台灣轉型正義) — The struggle between overturning convictions and perpetrator accountability.
+- [Taiwan Transitional Justice](/en/history/taiwan-transitional-justice) — The struggle between overturning convictions and perpetrator accountability.
 - [National Holiday](/en/society/national-holidays) — How February 28 became the first statutory national holiday of the Republic of China in 1997.
 
 ## References

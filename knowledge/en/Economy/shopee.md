@@ -80,7 +80,7 @@ Over the past decade in Taiwan, Shopee has fundamentally altered the consumption
 - [E-commerce and Digital Payment Ecosystem](/en/technology/e-commerce-and-digital-payment-ecosystem) — What the payment landscape containing ShopeePay looks like
 - [Hi-Life](/en/economy/hilife-convenience-store) — The established convenience store overtaken by pickup points; how is its own pickup war progressing?
 - [Taiwanese Convenience Store Culture](/en/lifestyle/convenience-store-culture) — Why convenience stores have become Taiwan's public infrastructure
-- [Taiwan Customs Declaration System and EZWAY](/lifestyle/台灣海關報關制度與EZWAY) — The hurdle cross-border parcels must pass before entering
+- [Taiwan Customs Declaration System and EZWAY](/en/lifestyle/ezway) — The hurdle cross-border parcels must pass before entering
 
 ## References
 

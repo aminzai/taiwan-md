@@ -125,5 +125,5 @@ New generations of chefs are reinterpreting Military Family Village Cuisine, ret
 
 ## Further Reading
 
-- [Taiwanese Military Village History](/history/台灣眷村歷史) — The entire timeline from bamboo fence to reconstruction act
+- [Taiwanese Military Village History](/en/history/taiwan-military-dependents-villages-history) — The entire timeline from bamboo fence to reconstruction act
 - [National Cultural Memory Repository](https://tcmb.culture.tw/zh-tw) — A database of local cultural memory from the Ministry of Culture, collecting oral history and artifacts

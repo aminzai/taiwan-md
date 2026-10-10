@@ -263,7 +263,7 @@ After thirty-odd years, the Golden Melody Awards aren't really about giving out 
 - [Taiwan Indigenous Music Traditions](/en/music/indigenous-music-traditions) — From tribal songs to Chen Chien-nien and ABAO, the roots and contemporary face of Indigenous music in Taiwan
 - [Contemporary Indigenous Singer-Songwriters](/en/music/contemporary-indigenous-singer-songwriters) — The voices and circumstances of creators like Sangpuy, Panai, and ABAO
 - [Taiwan Indie Music Scene](/en/music/indie-music-scene) — How No Party for Cao Dong, StreetVoice, and their generation bypassed the record industry to reach the Golden Melody stage
-- [Golden Bell Awards](/culture/金鐘獎) — The oldest of the "Three Golden Awards": forged for radio in 1965, sixty-one years of winners documenting whose hands held Taiwan's television
+- [Golden Bell Awards](/en/culture/golden-bell-awards) — The oldest of the "Three Golden Awards": forged for radio in 1965, sixty-one years of winners documenting whose hands held Taiwan's television
 
 ## Image Sources
 

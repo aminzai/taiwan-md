@@ -128,7 +128,7 @@ The historical position of agricultural cooperatives lies here. The state’s ag
 
 ## Further Reading
 
-- [Taiwan Land Reform](/history/台灣土地改革) — The institutional background of agricultural cooperative improvement and the reorganization of post-war rural power
+- [Taiwan Land Reform](/en/history/taiwan-land-reform) — The institutional background of agricultural cooperative improvement and the reorganization of post-war rural power
 - [Development of Taiwan Agricultural Modernization](/en/economy/taiwan-agricultural-modernization) — Another thread concerning agricultural cooperative extension, agricultural technology, and industrial transformation
 - [History of Taiwan’s Tap Water](/history/台灣自來水史) — Comparative reading shifting from rural organizations to public infrastructure systems
 

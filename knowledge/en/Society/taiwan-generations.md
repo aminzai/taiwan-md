@@ -174,7 +174,7 @@ Fewer people, the cake didn't get bigger, buildings got higher. On this terrain,
 - [Taiwan's Side-Hustle Generation](/en/society/taiwan-slash-generation-multi-job-economy) — The survival math of Seventh and Eighth Graders splitting one salary into three incomes under a low-salary structure
 - [Taiwan Youth's Career Lost at Sea](/en/society/taiwan-youth-career-confusion) — Spending sixteen years in school, the most common question on graduation day is "I don't know what I want to do"
 - [Taiwan's Low Birth Rate Crisis](/en/society/taiwan-low-birth-rate-crisis) — Birth numbers crashed from 420,000 to 160,000, how the cake gets smaller year by year
-- [Taiwan Unification-Independence Spectrum](/society/台灣統獨光譜) — The full picture of the identity fault line, from "Who am I" to "Where are we going"
+- [Taiwan Unification-Independence Spectrum](/en/society/taiwan-unification-independence-spectrum) — The full picture of the identity fault line, from "Who am I" to "Where are we going"
 - [MySpace (WuMing XiaoZhan)](/en/culture/wretch) — The digital server of Seventh Grade youth, shut down in 2013, reappeared on Threads in 2025
 
 ## Image Sources

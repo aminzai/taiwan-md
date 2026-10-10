@@ -421,7 +421,7 @@ _Audrey Tang's personal signature SVG released publicly in August 2021, original
 - [Tony Hsiao](/en/people/tony-hsiao-inside-founder) — Co-founder of INSIDE and iCook, who similarly defines his role in Taiwan's tech scene by "crossing multiple domains"
 - [Tai-yu Wu](/en/people/tai-yu-wu) — The legacy of Taiwan's intellectual elite from science to technology; Wu Tai-yu laid the foundation for Taiwan's research system as President of Academia Sinica
 - [Open Culture Foundation](/en/technology/open-culture-foundation) — A foundation that grew from g0v's accounting backend into a bridge for Taiwan's digital rights, having engaged with the Ministry of Digital Affairs under Audrey Tang's leadership multiple times, both cooperating and keeping watch
-- [Taiwan's COVID-19 Pandemic and Vaccines](/society/台灣新冠疫情與疫苗) — The epidemic context behind the mask map's coordination chain, and the eighteen months Taiwan bought through borders and masks
+- [Taiwan's COVID-19 Pandemic and Vaccines](/en/society/taiwan-covid-pandemic-and-vaccines) — The epidemic context behind the mask map's coordination chain, and the eighteen months Taiwan bought through borders and masks
 
 ## Image Sources
 

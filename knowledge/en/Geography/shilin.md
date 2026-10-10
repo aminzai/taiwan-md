@@ -232,7 +232,7 @@ Next time you stand at the entrance to Shilin Night Market at 7:30 p.m. holding 
 - [Dadaocheng](/en/geography/dadaocheng) — a sibling from the same batch 1; Tong'an people fled here in 1853 to open a commercial port, part of the same structural chain as Shilin's Zhangzhou people fleeing from the old street to the new street
 - [Ximending](/en/geography/ximending) — a sibling from the same batch 1; a Japanese-era entertainment district from 1896 versus Shilin's Japanese-era livelihood market from 1909, two kinds of material structures left by the Japanese
 - [Taiwanese Religion and Temple Culture](/en/culture/taiwan-religion-and-temple-culture) — Cixian Temple is an important node of Mazu worship in Taipei, standing alongside Dadaocheng Xiahai City God Temple and Bangka Longshan Temple
-- [The February 28 Incident](/history/二二八事件) — the post-1947 context in which many mainlanders moved into Shilin, Wenlin Road was widened, and Shilin Official Residence was established
+- [The February 28 Incident](/en/history/228-incident) — the post-1947 context in which many mainlanders moved into Shilin, Wenlin Road was widened, and Shilin Official Residence was established
 - [Qing Rule](/en/history/qing-dynasty-rule) — the Qing-era century, 1796-1895, of Han settlement, Zhangzhou-Quanzhou armed feuds, and Pan Yongqing's planning of the new street
 - [Dalongdong](/en/geography/dalongdong) — the defensive center where defeated Tong'an people retreated after the 1853 Ding-Xia Jiao conflict; together with Shilin's 1859 Zhangzhou-Quanzhou feud, it forms one of the ethnic-conflict landscapes of Qing-era northern Taiwan
 

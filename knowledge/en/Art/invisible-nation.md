@@ -212,7 +212,7 @@ At that June 2025 press screening, the ground shook before the screen lit up. A 
 - [Sunflower Movement](/en/society/sunflower-movement) — A key node in the film's democratic arc, the 24 days in 2014 that reshaped a generation's political consciousness
 - [Chi Cheng](/en/people/chi-cheng-flying-antelope) — The "Flying Antelope" who takes out her 1968 Mexico City Olympic bronze medal in the film and asks whether "Chinese Taipei" is the name of a country
 - [Chinese Taipei](/en/society/chinese-taipei) — The Olympic naming mechanism behind Chi Cheng's "bronze medal that cannot bear its own name"
-- [Taiwan's unification-independence spectrum](/society/台灣統獨光譜) — The sovereignty coordinates of Tsai Ing-wen's line in the film that Taiwan already is an independent nation
+- [Taiwan's unification-independence spectrum](/en/society/taiwan-unification-independence-spectrum) — The sovereignty coordinates of Tsai Ing-wen's line in the film that Taiwan already is an independent nation
 - [Puma Shen](/en/people/puma-shen) — The real-world version of the civil defense class at the end: cofounder of Kuma Academy and a legislator teaching civilians "how to survive"
 - [Mountain Makers: The Century's Gamble](/en/art/mountain-makers-tsmc-documentary) — Another "Taiwan values" documentary released on the same day as this film, telling the story of Taiwan's semiconductor industry
 

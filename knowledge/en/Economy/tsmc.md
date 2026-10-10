@@ -242,7 +242,7 @@ No one planned a transition of this magnitude. Yet, in the greatest drought in 5
 - [Taiwan Industrial Transformation](/en/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC is a concrete example of Taiwan's transformation from an OEM island to a technology island.
 - [Shi Zhen-rong](/en/people/stan-shih) — A director at TSMC for 21 years and the Acer founder whose largest wealth was tied to TSMC stock, yet he is the author of the "U-curve" that urged Taiwan not to rely solely on OEM.
 - [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — The 50-year materials revolution from RCA technology transfer to GaN and quantum packaging; the entire materials science battlefield where TSMC resides.
-- [Ho Chun-ren](/people/黃崇仁) — Founder of VISium/VPEC; another path on the same island: also doing wafers, once facing massive debt and delisting, only to climb back into the stock market nine years later.
+- [Ho Chun-ren](/en/people/frank-huang-psmc) — Founder of VISium/VPEC; another path on the same island: also doing wafers, once facing massive debt and delisting, only to climb back into the stock market nine years later.
 
 ## Image Sources
 

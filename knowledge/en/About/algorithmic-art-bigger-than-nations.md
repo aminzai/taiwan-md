@@ -145,7 +145,7 @@ Writing articles accounts for a little over 1,400 of them. The rest went into bu
 ![A talk slide reading "The author is dead, the creation is alive," beside a quality curve trending upward over time](/article-images/about/genai-pipeline-slide.webp)
 _Quality is what getting yelled at produces. Photo: Roy Pan_
 
-The whole methodology is open source. The pipeline's full spec is called REWRITE-PIPELINE, kept in the repo alongside EDITORIAL, and anyone can open it up to see what shape it's in today, or just copy it outright. There's a separate piece dedicated to how it edged its way, step by step, into its current shape (see ["How an Article Is Born"](/about/文章如何誕生)).
+The whole methodology is open source. The pipeline's full spec is called REWRITE-PIPELINE, kept in the repo alongside EDITORIAL, and anyone can open it up to see what shape it's in today, or just copy it outright. There's a separate piece dedicated to how it edged its way, step by step, into its current shape (see ["How an Article Is Born"](/en/about/how-an-article-is-born)).
 
 ## I Call That Kind of Article an Umbrella
 
@@ -352,10 +352,10 @@ Until then, it will keep waking up, and every time it wakes, it will find one mo
 
 ## Further Reading
 
-- [Taiwan.md Writes Taiwan.md](/about/taiwan-md) — the same thing's first-person account, narrated by itself, not by me
-- [Origin Story](/about/緣起故事) — a chronological record of the day it was born, everything that happened across four and a half hours
-- [How an Article Is Born](/about/文章如何誕生) — a full breakdown of the six-stage pipeline, including the gates I only touched on in two paragraphs here
-- [Why Taiwan Needs Its Own Knowledge Base](/about/為什麼台灣需要自己的知識庫) — answering the same question from the angle of corpus and silence
+- [Taiwan.md Writes Taiwan.md](/en/about/taiwan-md) — the same thing's first-person account, narrated by itself, not by me
+- [Origin Story](/en/about/origin-story) — a chronological record of the day it was born, everything that happened across four and a half hours
+- [How an Article Is Born](/en/about/how-an-article-is-born) — a full breakdown of the six-stage pipeline, including the gates I only touched on in two paragraphs here
+- [Why Taiwan Needs Its Own Knowledge Base](/en/about/why-taiwan-needs-its-own-knowledge-base) — answering the same question from the angle of corpus and silence
 
 ## Sources for This Piece
 
@@ -538,7 +538,7 @@ Every image in this piece is cached under `public/article-images/about/` (no hot
 
 [^76]: Wu Che-yu, August 16, 2026 Openbook conversation [60:39]. The word "storyteller" appears exactly once across every transcript this piece draws on.
 
-[^77]: The years follow the current body text of [Tawny Fish Owl](/nature/黃魚鴞): named in 1916, first nest found in 1994. The first year he gave verbally at Openbook was transcribed as "1926," which contradicts the 1994 he gave later in the same passage — likely a speech-recognition error or a slip of the tongue — and is not adopted here.
+[^77]: The years follow the current body text of [Tawny Fish Owl](/en/nature/tawny-fish-owl): named in 1916, first nest found in 1994. The first year he gave verbally at Openbook was transcribed as "1926," which contradicts the 1994 he gave later in the same passage — likely a speech-recognition error or a slip of the tongue — and is not adopted here.
 
 [^78]: Wu Che-yu, August 16, 2026 Openbook conversation [61:02]–[62:10], continuous verbal walkthrough module by module. The two quoted sentences are his original words; "footnote" was transcribed as "Food Note" in the transcript, corrected here. The curator's-note function is also defined in the June 4, 2026 CommonWealth interview: "hooking in from an outside perspective to point out 'oh, that's how it works.'"
 

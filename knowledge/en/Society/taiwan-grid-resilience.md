@@ -157,7 +157,7 @@ When Taiwan invests NT$564.5 billion over ten years to redesign its grid, the mo
 
 **Further Reading**:
 
-- [Taiwan Oil Price Mechanism and CPC](/economy/台灣油價機制與中油) — In the same NT$60 billion supplementary budget, there are two amounts from CPC next to Taipower's 71.1 billion: one state-owned company called up to stand at the front, bearing the money first, which is ultimately paid by whom?
+- [Taiwan Oil Price Mechanism and CPC](/en/economy/taiwan-fuel-pricing-and-cpc) — In the same NT$60 billion supplementary budget, there are two amounts from CPC next to Taipower's 71.1 billion: one state-owned company called up to stand at the front, bearing the money first, which is ultimately paid by whom?
 
 ## References
 

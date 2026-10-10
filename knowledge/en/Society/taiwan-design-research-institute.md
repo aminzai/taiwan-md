@@ -159,7 +159,7 @@ The font on the ballot you hold is Siyuan Black. You probably didn't know that u
 - [Taiwanese Industrial Transformation and Upgrading](/en/economy/industrial-transformation-from-manufacturing-to-innovation) — The entire story of moving from a contract manufacturing island to high added value; what the Institute of Design was betting on is one thread less often discussed along this path.
 - [Public Television](/en/society/pts-public-television-service) — Also a public corporation, an institution that walks a tightrope between "publicness" and "scrutiny."
 - [Taiwanese Architecture](/en/art/taiwanese-architecture) — The field of Chang Chi-yi; understanding why an architect believes that spatial design can change the distance between government and the people.
-- [Academia Sinica](/society/中央研究院) — Also a research institution funded by the state, but one placed under the Presidential Office versus one under a ministry, with different capabilities and different questions being asked of it.
+- [Academia Sinica](/en/society/academia-sinica) — Also a research institution funded by the state, but one placed under the Presidential Office versus one under a ministry, with different capabilities and different questions being asked of it.
 
 ## Image Sources
 

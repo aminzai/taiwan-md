@@ -182,7 +182,7 @@ Local Chiayi contexts:
 
 Larger historical coordinates:
 
-- [February 28 Incident](/history/二二八事件) — the historical context of Taiwan’s 1947 political tragedy, in which Chiayi was one of the cities with the most intense conflict
+- [February 28 Incident](/en/history/228-incident) — the historical context of Taiwan’s 1947 political tragedy, in which Chiayi was one of the cities with the most intense conflict
 - [A Century of Change in Taiwanese Watercolor Painting](/en/art/century-of-taiwanese-watercolor-painting) — the place of the Chiayi school of painting in Taiwanese art history, from the Imperial Art Exhibition to the Prefectural Exhibition
 - [Taiwan Baseball Culture](/en/culture/taiwan-baseball-culture) — the coordinates of Jianong’s 1931 Koshien runner-up finish in Taiwanese baseball history
 - [Taiwan Railway History](/en/history/TBD-NEEDS-SLUG) — the broader context in which the 1908 completion of the north-south trunk railway gave rise to the Tropic of Cancer monument

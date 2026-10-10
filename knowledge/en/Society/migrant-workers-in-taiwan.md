@@ -103,7 +103,7 @@ How can Taiwan, while pursuing economic development, truly view migrant workers 
 
 **Further Reading**:
 
-- [Taiwan's COVID-19 Pandemic and Vaccines](/society/台灣新冠疫情與疫苗) — The migrant worker quarantine order in Miaoli in June 2021 was an instance where this labor and living situation was pushed to the limit under the pandemic.
+- [Taiwan's COVID-19 Pandemic and Vaccines](/en/society/taiwan-covid-pandemic-and-vaccines) — The migrant worker quarantine order in Miaoli in June 2021 was an instance where this labor and living situation was pushed to the limit under the pandemic.
 - [Taiwan's Public Health and Epidemic Prevention System](/en/society/taiwan-public-health-epidemic-response) — The institutional background of integrating migrant workers into the public health and medical system.
 
 ---

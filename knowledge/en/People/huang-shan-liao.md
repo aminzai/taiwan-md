@@ -207,7 +207,7 @@ That cabinet of "Kinmen 1969" no one looked at, so it disappeared; that "one-lin
 - [Chiang Chen-cheng](/en/people/andre-chiang-taiwanese-culinary-innovator) — Established coordinates for Taiwanese chefs on the international stage, another destiny on the path of "doing things well"
 - [Chang Chih-chi](/en/people/shasha77-chang-chih-chi) — Another "information curator" who makes complexity readable and seeks resonance in the attention era
 - [Jimmy Liao](/en/people/jimmy-liao) — From an advertising company background, turning into an internationally bestselling healing creator, another form of being seen
-- [Audrey Tang](/people/唐鳳) — How Taiwan treats a person difficult to categorize, another mirror
+- [Audrey Tang](/en/people/audrey-tang) — How Taiwan treats a person difficult to categorize, another mirror
 
 ## Image Sources
 
