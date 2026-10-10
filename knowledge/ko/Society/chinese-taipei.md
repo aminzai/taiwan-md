@@ -17,6 +17,15 @@ tags:
 lastVerified: 2026-06-04
 lastHumanReview: false
 featured: false
+sporeLinks:
+  - id: 120
+    platform: 'threads'
+    date: '2026-06-04'
+    url: 'https://www.threads.com/@taiwandotmd/post/DZKoOQpmPhJ'
+  - id: 121
+    platform: 'x'
+    date: '2026-06-04'
+    url: 'https://x.com/taiwandotmd/status/2062529681283522655'
 translatedFrom: Society/中華台北.md
 sourceCommitSha: 'bbd8788a'
 sourceContentHash: 'sha256:177fea3750c80f10'

@@ -32,6 +32,15 @@ readingTime: 22
 lastVerified: 2026-05-28
 lastHumanReview: false
 featured: false
+sporeLinks:
+  - id: 103
+    platform: 'threads'
+    date: '2026-05-28'
+    url: 'https://www.threads.com/@taiwandotmd/post/DY4u5UzAVcT'
+  - id: 104
+    platform: 'x'
+    date: '2026-05-28'
+    url: 'https://x.com/taiwandotmd/status/2060010924015321462'
 translatedFrom: 'Music/周蕙.md'
 sourceCommitSha: 'a2811a4f0'
 sourceContentHash: 'sha256:76ee7588d6cf7537'

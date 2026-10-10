@@ -9,6 +9,11 @@ tags: ['문학', '시인', '현대시', '전후 1세대', '현대파', '진먼',
 lastVerified: 2026-05-24
 lastHumanReview: false
 featured: true
+sporeLinks:
+  - id: 86
+    platform: 'threads'
+    date: '2026-05-24'
+    url: 'https://www.threads.com/@taiwandotmd/post/DYt_TMpE2WV'
 translatedFrom: 'People/鄭愁予.md'
 sourceCommitSha: 'cce7f252'
 sourceContentHash: 'sha256:05733d2c54bfc625'

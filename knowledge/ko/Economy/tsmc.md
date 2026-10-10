@@ -24,6 +24,15 @@ image: '/article-images/economy/tsmc-fabs-hsinchu-2020.webp'
 imageCredit: '曾成訓 (Tseng Cheng-Hsun) via Wikimedia Commons'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:TSMC_fabs_in_Hsinchu_01.jpg'
+sporeLinks:
+  - id: 68
+    platform: 'threads'
+    date: '2026-05-09'
+    url: 'https://www.threads.com/@taiwandotmd/post/DYHoQtCE-5Z'
+  - id: 69
+    platform: 'x'
+    date: '2026-05-09'
+    url: 'https://x.com/taiwandotmd/status/2053100425730269544'
 translatedFrom: Economy/台灣企業：台積電.md
 sourceCommitSha: '6ffd92f9'
 sourceContentHash: 'sha256:e8afc225ea9e0107'

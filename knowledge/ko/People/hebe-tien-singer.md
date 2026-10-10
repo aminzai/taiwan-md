@@ -24,6 +24,15 @@ readingTime: 18
 lastVerified: 2026-04-26
 lastHumanReview: false
 featured: false
+sporeLinks:
+  - id: 43
+    platform: 'threads'
+    date: '2026-04-26'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXlCpCRE7S9'
+  - id: 44
+    platform: 'x'
+    date: '2026-04-26'
+    url: 'https://x.com/taiwandotmd/status/2048233702053073039'
 translatedFrom: People/田馥甄.md
 sourceCommitSha: '380c49d7'
 sourceContentHash: 'sha256:d2852cc419867a37'

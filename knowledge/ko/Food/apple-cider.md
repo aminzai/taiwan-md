@@ -21,6 +21,15 @@ readingTime: 14
 lastVerified: 2026-05-11
 lastHumanReview: false
 featured: false
+sporeLinks:
+  - id: 72
+    platform: 'threads'
+    date: '2026-05-12'
+    url: 'https://www.threads.com/@taiwandotmd/post/DYPI9W0kyPP'
+  - id: 73
+    platform: 'x'
+    date: '2026-05-12'
+    url: 'https://x.com/taiwandotmd/status/2054158652588863776'
 translatedFrom: 'Food/蘋果西打.md'
 sourceCommitSha: '31a05c44'
 sourceContentHash: 'sha256:843fecc188f1e99a'

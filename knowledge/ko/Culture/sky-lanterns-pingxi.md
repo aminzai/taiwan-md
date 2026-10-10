@@ -11,6 +11,15 @@ readingTime: 18
 lastVerified: 2026-05-27
 lastHumanReview: false
 featured: false
+sporeLinks:
+  - id: 113
+    platform: 'threads'
+    date: '2026-06-03'
+    url: 'https://www.threads.com/@taiwandotmd/post/DZGziGaEwgz'
+  - id: 114
+    platform: 'x'
+    date: '2026-06-03'
+    url: 'https://x.com/taiwandotmd/status/2061992719715795224'
 translatedFrom: 'Culture/天燈.md'
 sourceCommitSha: '31a05c44'
 sourceContentHash: 'sha256:f8bd2efe9c0ce5ef'

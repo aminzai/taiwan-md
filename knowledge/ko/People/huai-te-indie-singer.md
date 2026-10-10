@@ -24,6 +24,15 @@ category: 'People'
 readingTime: 16
 lastVerified: 2026-04-26
 lastHumanReview: false
+sporeLinks:
+  - id: 45
+    platform: 'threads'
+    date: '2026-04-26'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXlcWdykVgv'
+  - id: 46
+    platform: 'x'
+    date: '2026-04-26'
+    url: 'https://x.com/taiwandotmd/status/2048290884022850047'
 translatedFrom: 'People/壞特.md'
 sourceCommitSha: 'dd39065b'
 sourceContentHash: 'sha256:2f12f91cbf28ef93'

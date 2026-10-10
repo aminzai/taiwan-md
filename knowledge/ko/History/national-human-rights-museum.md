@@ -24,6 +24,11 @@ readingTime: 16
 lastVerified: 2026-05-26
 lastHumanReview: false
 featured: true
+sporeLinks:
+  - id: 93
+    platform: 'threads'
+    date: '2026-05-26'
+    url: 'https://www.threads.com/@taiwandotmd/post/DYzG-R1k5Ze'
 translatedFrom: 'History/國家人權博物館.md'
 sourceCommitSha: '21298a7a'
 sourceContentHash: 'sha256:e16d4ee42050764a'
