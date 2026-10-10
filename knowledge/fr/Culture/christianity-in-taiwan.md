@@ -92,7 +92,7 @@ Le défi le plus marquant provient des questions sociétales. Durant la dernièr
 
 [^7]: [【2024台灣基督教會普查報告】全台基督徒比例下降至3.03％](https://ct.org.tw/html/news/3-3.php?cat=80&article=1403123), _Christian Tribune_, 2026-01-30.
 
-[^8]: [墜落之後 雜談台灣教會問題](https://shop.campus.org.tw/cm/ebooks/EVAL/20211112/20212Eval3.htm), _Campus Magazine_, 2021-12.
+[^8]: [墜落之後 雜談台灣教會問題](https://shop.campus.org.tw/cm/ebooks/EVAL/20211112/202112Eval3.htm), _Campus Magazine_, 2021-12.
 
 [^9]: [譚維義◎相關報導](https://www.tch.org.tw/OnePage.aspx?tid=178&id=233), Hôpital chrétien de Taitung.
 

@@ -194,7 +194,7 @@ Il y a un nouveau restaurant couvrant 139 ans à Singapour, une académie qui n'
 ## Sources des images
 
 - Première image et espace d'archi Chef d'Art : Fourni par archi Chef d'Art / Archipelago Plaza Hotel, cité ici sous réserve de droit d'usage raisonnable (fair use editorial commentary). Source : [Page officielle d'archi Chef d'Art](https://www.archipelago.com.tw/restaurant-detail/archi/).
-- André Chiang visitant PDIS en 2021 : Photo : PDIS, CC BY 3.0. Source : [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E6%B1%9F%E6%8C%AF%E8%AA%A1.jpg).
+- André Chiang visitant PDIS en 2021 : Photo : PDIS, CC BY 3.0. Source : [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E6%B1%9F%E6%8C%AF%E8%AA%A0.jpg).
 
 ## Références
 
@@ -214,17 +214,17 @@ Il y a un nouveau restaurant couvrant 139 ans à Singapour, une académie qui n'
 
 [^8]: [Restaurant André climbs 18 spots to 14th on World's 50 Best](https://www.iconsingapore.com/lifestyle/restaurant-andre-14-on-the-worlds-50-best-restaurants-2017-list-highest-ranked-in-singapore-so-far) — Rapport de 2017 confirmant le bond au classement mondial.
 
-[^9]: [Déclaration officielle de la fermeture de Restaurant ANDRE](https://www.wowlavie.com/article/ae1701970) — Reprise par _La Vie_ du texte original du 10 octobre 2017, incluant les citations sur le perfectionnisme et le retour à la maison.
+[^9]: [Déclaration officielle de la fermeture de Restaurant ANDRE](https://www.wowlavie.com/article/ae1701970) — Reprise par _La Vie_ du texte original du 10 octobre 2017, incluant les citations sur le perfectionnisme et le retour à la maison. [ETtoday 旅遊雲](https://travel.ettoday.net/article/1028919.htm)
 
-[^10]: [Scène de la soirée et préparation préalable](https://www.marieclaire.com.tw/community/opinion/33574) — Rapport de _Marie Claire_ décrivant l'atmosphère du soir de clôture et le prix de récompense à Macao en 2018.
+[^10]: [Scène de la soirée et préparation préalable](https://www.marieclaire.com.tw/community/opinion/33574) — Rapport de _Marie Claire_ décrivant l'atmosphère du soir de clôture et le prix de récompense à Macao en 2018. [World's 50 Best 官方報導](https://www.theworlds50best.com/stories/News/andre-chiang-lifetime-achievement-award-asia.html)
 
 [^11]: [ANDRÉ & HIS OLIVE TREE LANDS ON NETFLIX](https://about.netflix.com/en/news/andre-and-his-olive-tree-lands-on-netflix) — Communiqué de presse officiel de Netflix confirmant le titre et la réalisation par Josiah Ng.
 
-[^12]: [Liste des restaurants étoilés à Taïwan](https://en.wikipedia.org/wiki/List_of_Michelin_starred_restaurants_in_Taiwan) — Liste Wikipédia confirmant les étoiles de RAW.
+[^12]: [Liste des restaurants étoilés à Taïwan](https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_Taiwan) — Liste Wikipédia confirmant les étoiles de RAW.
 
-[^13]: [Ouverture de RAW le 9, plus difficile que les billets de train](https://travel.etteday.net/article/436769.htm) — Rapport d'ETtoday sur l'ouverture à Taïwan en 2014.
+[^13]: [Ouverture de RAW le 9, plus difficile que les billets de train](https://travel.ettoday.net/article/436769.htm) — Rapport d'ETtoday sur l'ouverture à Taïwan en 2014.
 
-[^14]: [RAW Taipei, Taiwan: André Chiang](https://www.notquitenigella.com/2015/9/17/raw-taipei-taiwan-andre-chiang/) — Rapport de blogueur australien sur la difficulté des réservations en 2015.
+[^14]: [RAW Taipei, Taiwan: André Chiang](https://www.notquitenigella.com/2015/09/17/raw-taipei-taiwan-andre-chiang/) — Rapport de blogueur australien sur la difficulté des réservations en 2015.
 
 [^15]: [Entrevue d'André Chiang : Profil de saveur de Taïwan](https://www.verse.com.tw/article/andre-chiang) — Entrevue de 2023 dans _VERSE_ sur le laboratoire des profils et la définition de la saveur de Taïwan.
 
@@ -232,13 +232,13 @@ Il y a un nouveau restaurant couvrant 139 ans à Singapour, une académie qui n'
 
 [^17]: [André Chiang s'enracine, fait fleurir l'éducation culinaire à Taïwan](https://www.gvm.com.tw/article/22809) — Rapport de 2017 dans _GVM_ sur le dictionnaire culinaire et les problèmes des ingrédients saisonniers.
 
-[^18]: [It Is Not What It Is: RAW by André Chiang](https://michaelfei.blogspot.com/2020/6/30/it-is-not-what-it-is-raw-by-andre-chiang.html) — Critique de 2020 par Michael Fei sur la fraise hors saison.
+[^18]: [It Is Not What It Is: RAW by André Chiang](https://michaelfei.blogspot.com/2020/06/it-is-not-what-it-is-raw-by-andre-chiang.html) — Critique de 2020 par Michael Fei sur la fraise hors saison.
 
 [^19]: [Restaurant éphémère pour personnes atteintes de démence](https://news.ltn.com.tw/news/life/breakingnews/3290347) - Rapport du _Liberty Times_ en 2020 sur la collaboration avec la fondation et l'aide de sa mère.
 
 [^20]: [André Chiang parle de la démence de sa grand-mère](https://www.seinsights.asia/article/3290/3324/7387) - Rapport de _SeInsights_ sur ses souvenirs personnels.
 
-[^21]: [Vie familiale et liste de spécialités à Yilan](https://taster.life/%E6%B1%9F%E6%8C%AF%E8%AA%A0%E7%9A%84%E5%AE%B6%E5%BA%AD%E7%94%9F%E6%B4%BB%E4%BB%A5%E5%8F%8A%E5%AE%9C%E8%98%AD%E7%BE%8E%E9%A3%9F%E7%A7%81%E6%8B%BF%E5%90%8D%E5%96%BE/) - Rapport de 2018 sur les réfrigérateurs et le jardin.
+[^21]: [Vie familiale et liste de spécialités à Yilan](https://taster.life/%E6%B1%9F%E6%8C%AF%E8%AA%A0%E7%9A%84%E5%AE%B6%E5%BA%AD%E7%94%9F%E6%B4%BB%E4%BB%A5%E5%8F%8A%E5%AE%9C%E8%98%AD%E7%BE%8E%E9%A3%9F%E7%A7%81%E6%88%BF%E5%90%8D%E5%96%AE/) - Rapport de 2018 sur les réfrigérateurs et le jardin.
 
 [^22]: [Exclusif / André Chiang retire son aura de chef, rejoint sa mère et sa femme à Yilan](https://www.ctwant.com/article/485279/) - Rapport du _CTWANT_ en 2026 sur son déménagement et son rythme de vie.
 
@@ -248,7 +248,7 @@ Il y a un nouveau restaurant couvrant 139 ans à Singapour, une académie qui n'
 
 [^25]: [André Chiang supervise la mise à niveau de 4 restaurants](https://www.ettoday.net/news/20250416/2944474.htm) - Rapport d'ETtoday en 2025 sur le groupe S.S.A.W.
 
-[^26]: [Macau's Wynn Palace shuffle: André Chiang closed Sichuan Moon](https://www.scmp.com/magazines/post-magazine/food-drink/article/3246519/macaus-wynn-palace-best-chef-china-cooks-cantonese-cuisine-according-24-solar-terms-chinese-calendar) - Rapport de _SCMP_ sur la fermeture à Macao.
+[^26]: [Macau's Wynn Palace shuffle: André Chiang closed Sichuan Moon](https://www.scmp.com/magazines/post-magazine/food-drink/article/3246519/macaus-wynn-palace-best-chef-china-cooks-cantonese-cuisine-according-24-solar-terms-chinese-calendar) - Rapport de _SCMP_ sur la fermeture à Macao. [tastytrip](https://tastytrip.com/zh-hant/andre-the-bridge-tw/)
 
 [^27]: [André Chiang annonce sa retraite : l'éducation est plus importante que la gestion](https://www.gvm.com.tw/article/114684) - Rapport de 2024 dans _GVM_.
 
@@ -256,4 +256,4 @@ Il y a un nouveau restaurant couvrant 139 ans à Singapour, une académie qui n'
 
 [^29]: [Culinary maestro André Chiang](https://www.raffles.com/magazine/singapore/culinary-maestro-andre-chiang/) - Interview officielle au Raffles Hotel sur le menu de 60 plats.
 
-[^30]: [Entrevue MINGCHU : Du chef à la plateforme](https://www.mingchu.io/people/article/1734) - Entrevue de 2026 sur son rôle actuel et ses titres officiels.
+[^30]: [Entrevue MINGCHU : Du chef à la plateforme](https://www.mingchu.io/people/article/1734) - Entrevue de 2026 sur son rôle actuel et ses titres officiels. [凱渡廣場酒店官網](https://www.archipelago.com.tw/restaurant-detail/archi/)

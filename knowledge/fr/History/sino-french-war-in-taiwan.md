@@ -153,7 +153,7 @@ La France a obtenu le Vietnam. La Chine des Qing a gardé Taïwan. Six cents sol
 
 [^15]: [Story Studio : des journaux et des lettres pour retrouver la voix des acteurs de l'histoire](https://storystudio.tw/article/watch-Taiwan-NMTH/from-bottom-of-their-heart) — Journal du négociant britannique John Dodd, 1er décembre 1884. Cité dans l'exposition « Impressions de Si-Á-Huán » au Musée national d'histoire de Taïwan.
 
-[^16]: [Pescadores campaign (1885), Wikipedia](<https://en.wikipedia.org/wiki/Pescadores_campaign_(1885)>) — En mars 1885, les Français s'emparent des Pescadores. Le choléra éclate dans les jours suivant le débarquement : 15 morts et 20 hospitalisés en trois semaines.
+[^16]: [Pescadores campaign (1885), Wikipedia](https://en.wikipedia.org/wiki/Pescadores_campaign_(1885) — En mars 1885, les Français s'emparent des Pescadores. Le choléra éclate dans les jours suivant le débarquement : 15 morts et 20 hospitalisés en trois semaines.
 
 [^17]: [Amédée Courbet, Wikipedia](https://en.wikipedia.org/wiki/Am%C3%A9d%C3%A9e_Courbet) — Courbet décède le 11 juin 1885 à bord du Bayard, des suites du choléra. Déjà affaibli par une grave dysenterie en avril, il s'était rendu aux funérailles de son aide de camp le 8 juin, ce qui précipite son état.
 
@@ -167,10 +167,10 @@ La France a obtenu le Vietnam. La Chine des Qing a gardé Taïwan. Six cents sol
 
 [^22]: [Liu Mingchuan, Wikipedia](https://zh.wikipedia.org/wiki/%E5%8A%89%E9%8A%98%E5%82%B3) — En 1885, Taïwan est détachée du Fujian et érigée en 20e province de l'Empire Qing. Liu Mingchuan est nommé premier gouverneur, poste qu'il occupe de 1885 à 1891.
 
-[^23]: [Chemin de fer de Taïwan (époque Qing), Wikipedia](<https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E9%90%B5%E8%B7%AF_(%E6%B8%85%E6%9C%9D)>) — La ligne Keelung–Hsinchu (environ 107 km) est mise en chantier en 1887 et inaugurée en 1893. Voir aussi [CommonWealth Magazine : le grand rêve de modernisation de Liu Mingchuan](https://www.cw.com.tw/article/5026963).
+[^23]: [Chemin de fer de Taïwan (époque Qing), Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E9%90%B5%E8%B7%AF_(%E6%B8%85%E6%9C%9D) — La ligne Keelung–Hsinchu (environ 107 km) est mise en chantier en 1887 et inaugurée en 1893. Voir aussi [CommonWealth Magazine : le grand rêve de modernisation de Liu Mingchuan](https://www.cw.com.tw/article/5026963).
 
 [^24]: [Taipei Times : Exhuming French History in Taiwan (2001)](https://www.taipeitimes.com/News/feat/archives/2001/11/15/111666) — Le cimetière français de Keelung compte environ 600 sépultures : 120 tués au combat, 150 morts de leurs blessures, les autres emportés par les maladies. Le chercheur Christophe Rouil corrige le chiffre de 700 inscrit sur le monument à environ 600. Voir aussi [Atlas Obscura](https://www.atlasobscura.com/places/sino-french-war-memorial-park).
 
 [^25]: [Ibidem, RAND (2024) + RSIS (2025)](https://www.rand.org/pubs/commentary/2024/12/a-historical-analysis-of-a-true-invasion-of-taiwan.html) — Les deux rapports concluent que, même face à un adversaire jouissant d'une suprématie navale, le défenseur peut l'épuiser par la maîtrise du terrain, la défense en profondeur et la guerre d'usure. Le RSIS estime les pertes françaises totales à au moins 700 hommes.
 
-[^26]: [Ibidem, Garnot (1894)](https://gallica.bnf.fr/ark:/12148/bpt6k6462338x.texteImage) — Chapitre final des mémoires de Garnot.
+[^26]: [Ibidem, Garnot (1894)](https://gallica.bnf.fr/ark:/12148/bpt6k6462338x.texteImage) — Chapitre final des mémoires de Garnot. [琅琅悅讀報導](https://reading.udn.com/read/story/7009/8085102) [故事 StoryStudio](https://storystudio.tw/article/watch-Taiwan-NMTH/from-bottom-of-their-heart)

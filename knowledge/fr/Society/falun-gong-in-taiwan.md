@@ -74,7 +74,7 @@ The quiet presence of Falun Gong in Taiwan itself constitutes the most powerful 
 
 [^1]: [【Golden Seed】Falun Dafa Sprouts in Northern Taiwan, Establishing the First Practice Site in the Whole Island](https://www.epochtimes.com/b5/21/5/8/n12932594.htm) — _The Epoch Times_, May 2021, recounting the details of Zheng Wenhuan and He Laiqin attending the Jinan Dafa transmission class in June 1994 and establishing the first practice site in Taiwan at the Yangming Mountain Flower Clock on April 27, 1995.
 
-[^2]: [Falun Gong in Taiwan](https://zh.wikipedia.org/zh-tw/%E6%B3%95%E8%BC%AA%E5%8A%9F%E5%9C%A8%E8%87%9D%E7%81%A3) — Wikipedia, integrating the development process of Falun Gong in Taiwan, practitioner statistics, and related legal cases.
+[^2]: [Falun Gong in Taiwan](https://zh.wikipedia.org/zh-tw/%E6%B3%95%E8%BC%AA%E5%8A%9F%E5%9C%A8%E8%87%BA%E7%81%A3) — Wikipedia, integrating the development process of Falun Gong in Taiwan, practitioner statistics, and related legal cases.
 
 [^3]: [Remembering the Master's Dafa Lecture in Taiwan in '97](https://big5.zhengjian.org/node/34873) — _Zhengjian.org_, recording that in November 1997, Li Hongzhi gave Dafa lectures at Taipei Sanxing Elementary School and Wufeng Agricultural and Industrial High School in Taichung for a total of ten hours, with nearly 1,000 Taiwanese practitioners listening directly.
 
@@ -92,7 +92,7 @@ The quiet presence of Falun Gong in Taiwan itself constitutes the most powerful 
 
 [^10]: [Legal Person Taiwan Falun Dafa Society Registration Information](https://org.twincn.com/item.aspx?no=85754691&sn=481404) — Taiwan Business Network, recording the legal person registration number, first chairman Zhang Qingxi, and information on past and present cadres.
 
-[^11]: [Judicial Yuan Interpretation No. 734](https://zh.wikipedia.org/zh-tw/%E5%8F%B8%E6%B3%95%E9%99%A2%E9%87%8B%E5%AD%97%E7%AC%AC734%E8%99%9F%E8%A7%A3%E9%87%8A) — Wikipedia, recording the 2015 Judicial Yuan Interpretation No. 734, which ruled that announcements restricting Falun Gong practitioners from posting banners violated the constitutional protection of freedom of speech.
+[^11]: [Judicial Yuan Interpretation No. 734](https://zh.wikipedia.org/zh-tw/%E5%8F%B8%E6%B3%95%E9%99%A2%E9%87%8B%E5%AD%97%E7%AC%AC734%E8%99%9F%E8%A7%A3%E9%87%8B) — Wikipedia, recording the 2015 Judicial Yuan Interpretation No. 734, which ruled that announcements restricting Falun Gong practitioners from posting banners violated the constitutional protection of freedom of speech.
 
 [^12]: ["Patriotic Unity Association" Ordered to Publish Apology in Newspapers for Falun Gong](https://news.ltn.com.tw/news/life/breakingnews/1298296) — _Liberty Times Net_, 2015, reporting that Zhou Qingjun, president of the Patriotic Unity Association, was found guilty of defamation by the Supreme Court, and on April 25, 2015, published a quarter-page apology notice in the _China Times_ and _United Daily News_.
 

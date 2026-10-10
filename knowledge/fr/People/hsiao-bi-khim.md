@@ -165,7 +165,7 @@ Pourtant, cela pourrait bien être la réponse que Taïwan devra accepter à l�
 
 [^10]: [Hsiao Bi-khim - Wikipedia](https://en.wikipedia.org/wiki/Hsiao_Bi-khim) — Page Wikipédia anglaise répertoriant la rencontre officielle du président du Congrès McCarthy avec la présidente Tsai Ing-wen en 2023, première depuis 1979.
 
-[^11]: [Is Taiwan's incoming No 2 leader Hsiao Bi-khim the island's new 'US whisperer'? - SCMP](https://www.scmp.com/news/china/article/3263159/incoming-no-2-leader-hsiao-bi-khim-islands-new-us-whisperer) — Analyse du _South China Morning Post_ sur la création de l’U.S.–Taiwan Initiative on 21st Century Trade et le commerce bilatéral d’environ 160 milliards de dollars en 2022.
+[^11]: [Is Taiwan's incoming No 2 leader Hsiao Bi-khim the island's new 'US whisperer'? - SCMP](https://www.scmp.com/news/china/article/3263159/incoming-taiwan-vice-president-hsiao-bi-khim-islands-new-us-whisperer) — Analyse du _South China Morning Post_ sur la création de l’U.S.–Taiwan Initiative on 21st Century Trade et le commerce bilatéral d’environ 160 milliards de dollars en 2022.
 
 [^12]: [蕭美琴副總統 - 總統府](https://www.president.gov.tw/Page/695) — Chronologie officielle de la démission d’Hsiao Bi-khim du poste de représentante en novembre 2023 et de son association avec Lai Ching‑te pour la vice‑présidence.
 

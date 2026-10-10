@@ -110,6 +110,6 @@ Le numérique offre toutefois de nouvelles opportunités : les plateformes de 
 
 [^6]: [金曲18年第1次……林生祥丟震撼彈 合手拒領獎｜自由娛樂](https://ent.ltn.com.tw/news/paper/136087) — Détails du refus de Lin Sheng‑xiang lors de la 18ᵉ édition du Golden Melody Awards (2007) et de la donation du prix.
 
-[^7]: [最佳客語專輯獎（金曲獎）— 維基百科](<https://zh.wikipedia.org/zh-tw/最佳客語專輯獎_(金曲獎)>) — Confirmation que Luo Si‑rong a reçu le prix du Meilleur chanteur hakka et du Meilleur album hakka à la 23ᵉ édition.
+[^7]: [最佳客語專輯獎（金曲獎）— 維基百科](https://zh.wikipedia.org/zh-tw/最佳客語專輯獎_\(金曲獎\) — Confirmation que Luo Si‑rong a reçu le prix du Meilleur chanteur hakka et du Meilleur album hakka à la 23ᵉ édition.
 
 [^8]: [客家電視台官網](https://www.hakkatv.org.tw/) — Confirmation du lancement en 2003, première chaîne mondiale à diffuser en hakka 24 h/24.

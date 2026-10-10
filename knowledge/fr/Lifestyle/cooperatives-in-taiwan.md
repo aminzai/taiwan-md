@@ -128,4 +128,4 @@ Ces 10 NTD de cotisation versés lors de l'inscription représentaient la possib
 
 [^20]: [Coopérative de consommation de l'Union des ménagères de Taïwan (台灣主婦聯盟生活消費合作社), « Les élèves aussi ont un sentiment d'appartenance aux coopératives »](https://www.hucc-coop.tw/article/coop/5465) — Article sur le site officiel de la Coopérative de consommation de l'Union des ménagères de Taïwan, abordant du point de vue de la coopérative de consommation le développement et les limites de la conscience actionnariale scolaire, article de réflexion interne au mouvement coopératif.
 
-[^21]: [Plateforme e-learning pour l'éducation au travail (全民勞教 e 網), « Projet "Future Dream" et esprit coopératif »](https://l
+[^21]: [Plateforme e-learning pour l'éducation au travail (全民勞教 e 網), « Projet "Future Dream" et esprit coopératif »](https://labor-elearning.mol.gov.tw/

@@ -34,7 +34,7 @@ translatedAt: '2026-09-23T02:16:47.316085+00:00'
 
 ![Entrée et mur d'enceinte du Musée du Patrimoine Folklorique Lin An Tai, 2019.](https://upload.wikimedia.org/wikipedia/commons/9/90/Lin_An_Tai_Historical_House_%26_Museum_-_Taipei_-_Taiwan_-_01_%2847873685321%29.jpg)
 
-_Légende : Adam Jones, Wikimedia Commons, CC BY-SA 2.0. Voir la page de description de l'image pour l'image originale et les informations de licence. Image non modifiée._
+_Légende : Adam Jones, Wikimedia Commons, CC BY-SA 2.0. Voir la page de description de l'image pour l'image originale et les informations de licence. Image non modifiée. [來源](https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_%26*Museum*-_Taipei_-_Taiwan_-_01_(47873685321).jpg)\_
 
 [page de description de l'image](<https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_%26_Museum_-_Taipei_-_Taiwan_-_01_(47873685321).jpg>)
 

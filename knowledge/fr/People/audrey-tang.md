@@ -338,7 +338,7 @@ Elle a formé un petit groupe de 20 personnes, appelé PDIS (Public Digital Inno
 En 2019, elle a été sélectionnée parmi les cent grands penseurs mondiaux par _Foreign Policy_ (catégorie vote des lecteurs) [^27]. Les médias la décrivaient comme « le seul ministre transgenre au monde » ou une « star du code ». Lors de chaque entretien, elle renvoyait le mérite — mais l'histoire de la « ministre géniale » était plus facile à raconter que ce qu'elle disait.
 
 ![Tang Feng lors de sa conférence à re:publica à Berlin en mai 2019](/article-images/people/audrey-tang-re-publica-2019.webp)
-_Scène du dialogue « Digital Social Innovation » au re:publica à Berlin le 8 mai 2019, Tang Feng et Julia Kloiber sur scène. Photo : Jan Michalko. [CC BY-SA 2.0 via Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Re_publica_19_-_Day_3_(32860400897).jpg>).\_
+_Scène du dialogue « Digital Social Innovation » au re:publica à Berlin le 8 mai 2019, Tang Feng et Julia Kloiber sur scène. Photo : Jan Michalko. [CC BY-SA 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Re_publica_19_-_Day_3_(32860400897).\_
 
 ## L'anarchisme conservateur : refuser d'ordonner, mais aussi refuser d'être ordonné
 

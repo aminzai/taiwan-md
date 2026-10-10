@@ -102,7 +102,7 @@ De l'abolition de la Loi sur l'inspection cinématographique en 1983 à aujourd'
 
 [^8]: [感官世界 - 台灣上映爭議紀錄](https://zh.wikipedia.org/zh-tw/%E6%84%9F%E5%AE%98%E4%B8%96%E7%95%8C) — Sur le débat art/pornographie suscité par la diffusion du film à Taïwan en 1999.
 
-[^9]: [色，戒(電影) - 維基百科](<https://zh.wikipedia.org/zh-tw/%E8%89%B2%EF%BC%8C%E6%88%92_(%E9%9B%BB%E5%BD%B1)>) — Documentation sur la classification "Interdit aux mineurs" attribuée à Lust, Caution à Taïwan.
+[^9]: [色，戒(電影) - 維基百科](https://zh.wikipedia.org/zh-tw/%E8%89%B2%EF%BC%8C%E6%88%92_(%E9%9B%BB%E5%BD%B1) — Documentation sur la classification "Interdit aux mineurs" attribuée à Lust, Caution à Taïwan.
 
 [^10]: [數位娛樂軟體分級查詢網](https://www.gamerating.org.tw/) — Plateforme officielle de l'Agence de l'industrie numérique du Ministère du Développement numérique.
 

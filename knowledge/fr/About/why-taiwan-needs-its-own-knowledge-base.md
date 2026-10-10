@@ -261,11 +261,11 @@ Toutes les images de cet article sont mises en cache dans `public/article-images
 
 [^16]: [Conflit de licence et défis de la base de données IA souveraine (The Reporter)](https://www.twreporter.org/a/taiwan-sovereign-ai-zhtw-llm-copyright-conflict) — Enquête sur les difficultés du ministère des Communications pour acquérir les droits d'utilisation des données pour le projet TAIDE.
 
-[^17]: [History of a Taiwan historian (Taipei Times)](https://www.taipeitimes.com/News/taïwan/archives/2003/08/12/2003063294) — Article de Melody Chen sur Tsao Yung-ho et sa « Vision historique de l'île de Taïwan ».
+[^17]: [History of a Taiwan historian (Taipei Times)](https://www.taipeitimes.com/News/taiwan/archives/2003/08/12/2003063294) — Article de Melody Chen sur Tsao Yung-ho et sa « Vision historique de l'île de Taïwan ».
 
 [^18]: [Taiwan Tongues projet de données ouvertes](https://tt.ima.org.tw/) — Base de données pour les langues locales, soulignant que les langues des travailleurs migrants ne sont pas encore incluses.
 
-[^19]: [Documents GoLaxy révélant l'influence de la Chine (Laboratoire de démocratie de Taïwan)](https://medium.com/doublethinklab/the-rise-of-ai-in-prc-influence-operations-nine-takeaways-from-the-golaxy-documents-2d6617a75e5) — Analyse des documents fuités montrant l'utilisation de l'IA pour la manipulation d'opinion.
+[^19]: [Documents GoLaxy révélant l'influence de la Chine (Laboratoire de démocratie de Taïwan)](https://medium.com/doublethinklab/the-rise-of-ai-in-prc-influence-operations-nine-takeaways-from-the-golaxy-documents-2d6617a753e5) — Analyse des documents fuités montrant l'utilisation de l'IA pour la manipulation d'opinion.
 
 [^20]: [Recensement des forks de Taiwan.md (dashboard-forks.json)](https://taiwan.md/api/dashboard-forks.json) — Données sur les projets dérivés, incluant HongKong.md comme exemple de résilience par la distribution.
 
@@ -273,7 +273,7 @@ Toutes les images de cet article sont mises en cache dans `public/article-images
 
 [^22]: [Indigenous AI voice models: Māori (IEEE Spectrum)](https://spectrum.ieee.org/indigenous-ai-voice-models-maori) — Rapport sur la protection des droits de propriété intellectuelle et culturelle pour les langues autochtones.
 
-[^13]: [Conséquences du blocage de Wikipedia en Chine](https://en.wikipedia.org/wiki/Wikimedia_censorship_in_mainland_China) — ; étude de comparaison par Citizen Lab sur Baidu Baike
+[^13]: [Conséquences du blocage de Wikipedia en Chine](https://udn.com/news/story/6656/8241591) — ; étude de comparaison par Citizen Lab sur Baidu Baike
 
 [^24]: [DeepSeek supprimant une réponse sur Taïwan après deux secondes (The Reporter)](https://www.storm.mg/article/5317299) — Rapport du 03/02/2025 sur la suppression automatique d'une réponse en anglais favorable à Taïwan par DeepSeek.
 

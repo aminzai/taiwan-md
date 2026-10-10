@@ -98,15 +98,15 @@ Psychological warfare has never disappeared; it has only changed its shell. From
 
 [^3]: [https://www.nownews.com/news/6786985](https://www.nownews.com/news/6786985) — NOWnews Today News
 
-[^4]: [https://www.gwytb.gov.cn/m/speech/202601/t2026012812748417.htm](https://www.gwytb.gov.cn/m/speech/202601/t2026012812748417.htm) — Official Data from China's State Council Taiwan Affairs Office (PRC Perspective)
+[^4]: [https://www.gwytb.gov.cn/m/speech/202601/t2026012812748417.htm](https://www.gwytb.gov.cn/m/speech/202601/t20260128_12748417.htm) — Official Data from China's State Council Taiwan Affairs Office (PRC Perspective)
 
 [^5]: [https://tcmb.culture.tw/zh-tw/detail?id=753758](https://tcmb.culture.tw/zh-tw/detail?id=753758) — National Cultural Memory Bank
 
-[^6]: [http://board.matsu.idv.tw/boardview.php?board=143&pid=69902](http://board.matsu.idv.tw/boardview.php?board=143&pid=69902) — Matsu Information Network Archive
+[^6]: [http://board.matsu.idv.tw/boardview.php?board=143&pid=69902](http://board.matsu.idv.tw/board_view.php?board=143&pid=69902) — Matsu Information Network Archive
 
 [^7]: [https://tw.news.yahoo.com/%E7%B4%B0%E6%95%B8%E5%8F%8D%E5%85%B1%E7%BE%A9%E5%A3%AB-110352156.html](https://tw.news.yahoo.com/%E7%B4%B0%E6%95%B8%E5%8F%8D%E5%85%B1%E7%BE%A9%E5%A3%AB-110352156.html) — Yahoo News Report
 
-[^8]: [https://www.gwytb.gov.cn/m/speech/202601/t2026012812748417.htm](https://www.gwytb.gov.cn/m/speech/202601/t2026012812748417.htm) — Official Data from China's State Council Taiwan Affairs Office (PRC Perspective)
+[^8]: [https://www.gwytb.gov.cn/m/speech/202601/t2026012812748417.htm](https://www.gwytb.gov.cn/m/speech/202601/t20260128_12748417.htm) — Official Data from China's State Council Taiwan Affairs Office (PRC Perspective)
 
 [^9]: [Taiwan.md: Cognitive Warfare — The AI Industrialization Stage of Taiwan's Information Battlefield](https://taiwan.md/society/認知作戰/) — Taiwan.md internal entry, recording the industrialization trend of China's AI cognitive warfare against Taiwan from 2024-2026
 

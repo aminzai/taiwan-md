@@ -206,7 +206,7 @@ Cet article utilise 5 images sous licence publique, toutes mises en cache dans `
 
 [^7]: [卓也文創市集官網 about 頁](https://www.joye.com.tw/shop/about.php?PKey=18) — Données sur la surface de restauration de l'herbe à indigo, la production annuelle de pâte d'indigo et la part dans la production totale de l'île
 
-[^8]: [Howdy.tw：三峽古宅的模糊石刻，驚藏上世紀的藍染傳奇](https://howdy.tw/2018/08/21/%E4%B8%89%E5%B3%BD%E5%8F%A4%E5%AE%85%E7%9A%84%E6%A8%A1%E7%B3%8A%E7%9F%B3%E5%88%BB-%E9%A9%9A%E8%97%8D%E6%9F%93%E5%82%B3%E5%A5%87/) — Chronologie de la revitalisation de Sanxia (1990-1999), appel de Ma Fen-mei et encadrement de Chen Ching-lin
+[^8]: [Howdy.tw：三峽古宅的模糊石刻，驚藏上世紀的藍染傳奇](https://howdy.tw/2018/08/21/%E4%B8%89%E5%B3%BD%E5%8F%A4%E5%AE%85%E7%9A%84%E6%A8%A1%E7%B3%8A%E7%9F%B3%E5%88%BB-%E9%A9%9A%E8%97%8F%E4%B8%8A%E4%B8%96%E7%B4%80%E7%9A%84%E8%97%8D%E6%9F%93%E5%82%B3%E5%A5%87/) — Chronologie de la revitalisation de Sanxia (1990-1999), appel de Ma Fen-mei et encadrement de Chen Ching-lin
 
 [^9]: [文化部國家文化記憶庫：三峽工藝藍染](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Invisible&id=218457) — Lancement de « Retrouver l'indigo perdu de Sanxia » en 1990 et ascension administrative de la ville de Nouvelle Taipei en 2010
 
@@ -240,7 +240,7 @@ Cet article utilise 5 images sous licence publique, toutes mises en cache dans `
 
 [^24]: [臺灣工藝季刊：三峽藍染業的發展與蛻變（林炯任）](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclcdr&s=id=%22094NTPU0548006%22.&searchmode=basic) — Citation de Wang Shih-ching, « Histoire de Haishan, partie I » (_Taipei Wenxian_ n°37, 1976) : « le ramie et l'indigo viennent ensuite » et mention des produits d'exportation majeurs après l'ouverture du port de Bali en 1792
 
-[^25]: [維基百科：台灣樟腦產業](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%A8%B9%E8%85%B6%E7%94%A2%E6%A5%AD) — Cadre standard des exportations post-ouverture des ports : thé ~54 %, sucre ~36 %, camphre ~4 %
+[^25]: [維基百科：台灣樟腦產業](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%A8%9F%E8%85%A6%E7%94%A2%E6%A5%AD) — Cadre standard des exportations post-ouverture des ports : thé ~54 %, sucre ~36 %, camphre ~4 %
 
 [^26]: [臺灣博碩士論文知識加值系統：從染料到染坊（蔡承豪，2002）](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclcdr&s=id=%22090NCNU0493002%22.&searchmode=basic) — Basculement des exportations dans les années 1870, passant de la matière première aux tissus teints finis
 

@@ -215,7 +215,7 @@ Du Pan Fang‑ge s’est éteinte en 2016. En 2017, ses manuscrits ont été dé
 
 [^10]: [Lecture quotidienne — _Zhongyuan_ de Du Pan Fang‑ge](https://cendalirit.blogspot.com/2016/05/20160525.html) — texte complet en Hakka et annotations lexicales.
 
-[^11]: [Merit Times — _Paper Man_ de Du Pan Fang‑ge](https://www.merit-times.com/NewsPage.aspx?unid=241341) — vers clés et dimension spirituelle.
+[^11]: [Merit Times — _Paper Man_ de Du Pan Fang‑ge](https://www.merit-times.com.tw/NewsPage.aspx?unid=241341) — vers clés et dimension spirituelle.
 
 [^12]: [Taiwan New Culture — Douleur du salut : religion et littérature](https://www.twcenter.org.tw/thematic_series/character_series/taiwan_litterateur_interview/b01_7101/b01_7101_1) — interview 1997 : entrepôt japonais, hésitation Hakka, débat du prix Chen Xiu‑xi.
 

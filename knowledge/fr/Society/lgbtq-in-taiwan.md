@@ -84,7 +84,7 @@ La voie arc-en-ciel de Taïwan est un chemin jalonné de défis mais aussi rempl
 
 [^6]: [Affaire de l'interprétation constitutionnelle sur le mariage homosexuel à Taïwan — Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E5%90%8C%E6%80%A7%E5%A9%9A%E5%A7%BB%E9%87%8B%E6%86%B2%E6%A1%88) — Chronologie de l'affaire d'interprétation et de la législation subséquente.
 
-[^7]: 'La pluie a cessé, pour que les êtres qui s''aiment ne soient plus seuls ! Taïwan ouvre la voie en Asie en reconnaissant le mariage homosexuel — CommonWealth Magazine (2019-05-17)' — Reportage au moment de l'adoption de la première loi spéciale sur le mariage homosexuel en Asie.
+[^7]: 'La pluie a cessé, pour que les êtres qui s''aiment ne soient plus seuls ! Taïwan ouvre la voie en Asie en reconnaissant le mariage homosexuel — CommonWealth Magazine (2019-05-17)' — Reportage au moment de l'adoption de la première loi spéciale sur le mariage homosexuel en Asie. [雨停了，讓相愛的人不再孤單！台灣引領亞洲承認同志婚姻 — 天下雜誌（2019-05-17）](https://www.cw.com.tw/article/5095222)
 
 [^8]: [Le nombre d'enregistrements de mariages entre personnes de même sexe à Taïwan atteint 32 126 fin 2024 — Yahoo News (2026-01-10)](https://tw.news.yahoo.com/%E5%8F%B0%E7%81%A3%E5%90%8C%E5%A9%9A%E5%90%88%E6%B3%95%E7%99%BB%E8%A8%98%E8%87%B32024%E5%B9%B4%E5%BA%953%E8%90%AC2126%E4%BA%BA-083126067.html) — Statistiques les plus récentes du ministère de l'Intérieur, incluant les chiffres du mariage transnational entre personnes de même sexe.
 

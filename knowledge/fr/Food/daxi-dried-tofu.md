@@ -143,7 +143,7 @@ Le tofu sec de Daxi ne préserve pas un port fluvial toujours prospère. Il pré
 
 [^9]: [Bibliothèque Airiti : Étude sur l'utilisation et le développement du patrimoine culturel du quartier de la vieille rue de Daxi](https://www.airitilibrary.com/Article/Detail/U0021-1610201315170023) — Page de détails de l'étude, fournissant le contexte de recherche sur le patrimoine culturel de la vieille rue de Daxi, les interactions entre les groupes locaux, les résidents, les boutiques et le bureau du district.
 
-[^10]: [Wikimedia Commons : Daxi Historic Street - panoramio (1).jpg](<https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E6%BA%AA%E8%80%81%E8%A1%97_Daxi_Historic_Street_-_panoramio_(1).jpg>) — Auteur lienyuan lee, CC BY 3.0. L'image du corps du texte utilise l'URL de fichier chaud `Special:FilePath` de Wikimedia Commons, image non téléchargée.
+[^10]: [Wikimedia Commons : Daxi Historic Street - panoramio (1).jpg](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E6%BA%AA%E8%80%81%E8%A1%97_Daxi_Historic_Street_-_panoramio_(1) — Auteur lienyuan lee, CC BY 3.0. L'image du corps du texte utilise l'URL de fichier chaud `Special:FilePath` de Wikimedia Commons, image non téléchargée.
 
 [^11]: [Wikimedia Commons : 2021 Daxi Bridge.jpg](https://commons.wikimedia.org/wiki/File:2021_Daxi_Bridge.jpg) — Auteur Taiwankengo, CC BY-SA 4.0. L'image du corps du texte utilise l'URL de fichier chaud `Special:FilePath`, image non téléchargée.
 

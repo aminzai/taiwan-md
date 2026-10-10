@@ -127,6 +127,6 @@ L'histoire de Wikipédia à Taïwan est un processus passant de « être défini
 
 [^14]: [2021年9月聲明：針對滲透與騷擾的行動](https://wikimediatw.medium.com/%E7%B6%AD%E5%9F%BA%E5%AA%92%E9%AB%94%E5%9F%BA%E9%87%91%E6%9C%83-2021%E5%B9%B49%E6%9C%88%E8%81%B2%E6%98%8E-d7de7629c667) — **維基媒體基金會** (2021). _Date de consultation : 2026-04-29_.
 
-[^15]: [2021年維基媒體基金會針對中文維基百科的行動](https://zh.wikipedia.org/zh-tw-2021%E5%B9%B4%E7%BB%B4%E5%9F%BA%E5%AA%92%E4%BD%93%E5%9F%BA%E9%87%91%E4%BC%9A%E9%92%88%E5%AF%B9%E4%B8%AD%E6%96%87%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E7%9A%84%E8%A1%8C%E5%8A%A8) — **維基百科** (2021). _Date de consultation : 2026-04-29_.
+[^15]: [2021年維基媒體基金會針對中文維基百科的行動](https://zh.wikipedia.org/zh-tw/2021%E5%B9%B4%E7%BB%B4%E5%9F%BA%E5%AA%92%E4%BD%93%E5%9F%BA%E9%87%91%E4%BC%9A%E9%92%88%E5%AF%B9%E4%B8%AD%E6%96%87%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E7%9A%84%E8%A1%8C%E5%8A%A8) — **維基百科** (2021). _Date de consultation : 2026-04-29_.
 
 [^16]: [延續與落實：2025年度展望](https://wsotk.wordpress.com/2025/01/21/%E5%BB%B6%E7%BA%8C%E8%88%87%E8%90%BD%E5%AF%A6%EF%BC%9A2025%E5%B9%B4%E5%BA%A6%E5%B1%95%E6%9C%9B/) — **台灣維基媒體協會** (2025). _Date de consultation : 2026-04-29_.

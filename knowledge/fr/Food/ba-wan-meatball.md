@@ -89,7 +89,7 @@ Ces dernières années, le comté de Pingtung a organisé un « Festival culture
 
 [^4]: [三立新聞【呂讀台灣】](https://www.youtube.com/watch?v=uTLGJKqZ7pk) — Révélation des origines du ba-wan de Beidou, Changhua ! L'inondation de Wuxu a ravagé les terres et le ba-wan a combattu la famine.
 
-[^5]: [維基百科](<https://zh.wikipedia.org/zh-tw/%E8%82%89%E5%9C%93_(%E5%8F%B0%E7%81%A3)>) — Histoire et classification du ba-wan (Taïwan).
+[^5]: [維基百科](https://zh.wikipedia.org/zh-tw/%E8%82%89%E5%9C%93_(%E5%8F%B0%E7%81%A3) — Histoire et classification du ba-wan (Taïwan).
 
 [^6]: [FoodNext 食力](https://www.foodnext.net/life/culture/paper/5098655128) — Plutôt croustillant ou fondant ? Pourquoi le ba-wan originaire de Beidou est devenu triangulaire.
 

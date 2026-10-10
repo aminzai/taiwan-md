@@ -97,6 +97,6 @@ En 2018, Huang Guangxiong avait rédigé un éloge funèbre pour Chen Bo-zhang, 
 
 [^9]: [Bibliothèque Guangxiong (Institut de recherche en sciences de l'éducation, Université Chung-Cheng)](https://deptedu.ccu.edu.tw/p/405-1231-68628,c3763.php?Lang=zh-tw) — Conservation des documents personnels, carnets de recherche, manuscrits et collection d'ouvrages d'histoire et de philosophie de l'éducation occidentale de Huang Guangxiong
 
-[^10]: [Huang Guangxiong, Zhou Shuqing (1992). Analyse du curriculum national britannique. Revue des recherches éducatives, 34, 181-201](<https://doi.org/10.6910/BER.199206_(34).0007>) — Résultats de recherche au Royaume-Uni, analyse du curriculum national issu de la loi de 1988 sur la réforme de l'éducation britannique
+[^10]: [Huang Guangxiong, Zhou Shuqing (1992). Analyse du curriculum national britannique. Revue des recherches éducatives, 34, 181-201](https://doi.org/10.6910/BER.199206_(34) — Résultats de recherche au Royaume-Uni, analyse du curriculum national issu de la loi de 1988 sur la réforme de l'éducation britannique
 
 [^11]: [Documents patrimoniaux du Bureau de la culture de Hsinchu, catégorie éducation](https://hccg.culture.tw/home/zh-tw/CCHM_edu/160695) — Contexte de recherche britannique de Huang Guangxiong, introduction du concept de curriculum caché, filiation des recherches sur l'histoire de la pensée éducative occidentale
