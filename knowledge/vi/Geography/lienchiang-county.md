@@ -33,6 +33,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Matsu_Montage.png'
 translatedFrom: 'Geography/連江縣.md'
 sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:2038e5c6672647ae'
+sourceBodyHash: 'sha256:6a5df577261b78fa'
 translatedAt: '2026-09-22T21:10:28.635715+00:00'
 ---
 

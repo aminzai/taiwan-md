@@ -26,6 +26,7 @@ sporeLinks:
 translatedFrom: 'Lifestyle/台灣高鐵.md'
 sourceCommitSha: '7f94f3308'
 sourceContentHash: 'sha256:4e009bcfd22dbae0'
+sourceBodyHash: 'sha256:7526ec4c044a5e8d'
 translatedAt: '2026-09-18T12:41:15.070699+00:00'
 ---
 

@@ -22,6 +22,7 @@ curation: 'incubating'
 translatedFrom: 'Lifestyle/郵局.md'
 sourceCommitSha: 'c6da5233a'
 sourceContentHash: 'sha256:5ce8829ec7886eb3'
+sourceBodyHash: 'sha256:f91712c52f95f564'
 translatedAt: '2026-09-14T23:58:15.376358+00:00'
 ---
 

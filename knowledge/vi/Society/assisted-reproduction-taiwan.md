@@ -20,6 +20,7 @@ featured: false
 translatedFrom: 'Society/台灣人工生殖.md'
 sourceCommitSha: '8a773c917'
 sourceContentHash: 'sha256:256557b91a57e89f'
+sourceBodyHash: 'sha256:77e3b99bc535ad5d'
 translatedAt: '2026-09-15T02:25:28.355785+00:00'
 ---
 

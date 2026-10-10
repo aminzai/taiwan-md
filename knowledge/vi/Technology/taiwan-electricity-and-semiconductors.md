@@ -29,6 +29,7 @@ imageLicense: 'CC BY-SA 3.0'
 translatedFrom: 'Technology/台灣的電力與半導體.md'
 sourceCommitSha: '250410eae'
 sourceContentHash: 'sha256:739eb8c857d7b377'
+sourceBodyHash: 'sha256:814f9eb8b97792cf'
 sourceBody_hash: 'sha256:814f9eb8b97792cf'
 translatedAt: '2026-07-24T15:52:20+08:00'
 ---

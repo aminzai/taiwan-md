@@ -22,6 +22,7 @@ curation: 'incubating'
 translatedFrom: 'Economy/台灣企業：聯發科技.md'
 sourceCommitSha: '0df538d8c'
 sourceContentHash: 'sha256:31e1b73206428a5a'
+sourceBodyHash: 'sha256:bda6180b6fe80c7a'
 translatedAt: '2026-09-18T19:24:40.594267+00:00'
 ---
 

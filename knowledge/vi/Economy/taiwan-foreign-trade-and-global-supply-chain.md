@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'Economy/台灣外貿與全球供應鏈.md'
 sourceCommitSha: '2e88c5e31'
 sourceContentHash: 'sha256:35c0f36d5edfc140'
+sourceBodyHash: 'sha256:2f404ef3aa8b254f'
 translatedAt: '2026-09-19T20:22:20.442025+00:00'
 ---
 

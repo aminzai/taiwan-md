@@ -22,6 +22,7 @@ readingTime: 10
 translatedFrom: 'Music/台灣客家音樂.md'
 sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:c683269655bc3d87'
+sourceBodyHash: 'sha256:ffa289d8ac5acb30'
 translatedAt: '2026-09-24T17:52:35.136146+00:00'
 ---
 

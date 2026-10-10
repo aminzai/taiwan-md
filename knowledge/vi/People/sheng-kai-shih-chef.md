@@ -29,6 +29,7 @@ curation: 'incubating'
 translatedFrom: 'People/聖凱師.md'
 sourceCommitSha: '2e227925f'
 sourceContentHash: 'sha256:71936ffe79abf0dc'
+sourceBodyHash: 'sha256:c6156a33a327be28'
 translatedAt: '2026-09-17T21:29:29.060330+00:00'
 ---
 

@@ -21,6 +21,7 @@ readingTime: 7
 translatedFrom: 'People/陳建仁.md'
 sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:436d6f6b6586a312'
+sourceBodyHash: 'sha256:cd353841feafe555'
 translatedAt: '2026-09-10T13:55:53.458730+00:00'
 ---
 

@@ -19,6 +19,7 @@ lastHumanReview: false
 translatedFrom: 'Culture/皮影戲.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:a3ec46fedc753589'
+sourceBodyHash: 'sha256:795653ceb8bee8f7'
 translatedAt: '2026-07-25T07:04:29.931776+00:00'
 ---
 

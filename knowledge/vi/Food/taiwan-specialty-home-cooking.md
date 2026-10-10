@@ -25,6 +25,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Sanbeiji.jpg'
 translatedFrom: 'Food/台灣手路菜.md'
 sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:25a8447cd1b0c741'
+sourceBodyHash: 'sha256:68bfe9c03d05ae36'
 translatedAt: '2026-09-22T21:47:34.545271+00:00'
 ---
 

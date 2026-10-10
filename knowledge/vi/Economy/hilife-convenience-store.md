@@ -22,6 +22,7 @@ readingTime: 12
 translatedFrom: 'Economy/萊爾富.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:16de3ef9123d401b'
+sourceBodyHash: 'sha256:1db4b0d8639cd770'
 sourceBody_hash: 'sha256:1db4b0d8639cd770'
 translatedAt: '2026-07-24T15:52:20+08:00'
 ---

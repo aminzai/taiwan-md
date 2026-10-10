@@ -14,6 +14,7 @@ curation: 'incubating'
 translatedFrom: 'Culture/泰雅族.md'
 sourceCommitSha: '0cc9a79ae'
 sourceContentHash: 'sha256:78a786cf68c5a445'
+sourceBodyHash: 'sha256:fe2d6808b4b9fb38'
 translatedAt: '2026-09-14T06:21:20.386193+00:00'
 ---
 

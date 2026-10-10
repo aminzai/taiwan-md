@@ -23,6 +23,7 @@ curation: 'incubating'
 translatedFrom: 'People/南珉貞.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:49ee8ab737cfd2c1'
+sourceBodyHash: 'sha256:3582a490ea4120f2'
 translatedAt: '2026-09-20T22:50:12.208529+00:00'
 ---
 

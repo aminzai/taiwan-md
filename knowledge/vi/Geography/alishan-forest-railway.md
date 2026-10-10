@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'Geography/阿里山林業鐵路.md'
 sourceCommitSha: 'da79c32b0'
 sourceContentHash: 'sha256:54289ada86a97c4f'
+sourceBodyHash: 'sha256:7466cc3940afd368'
 translatedAt: '2026-09-16T04:43:29.930403+00:00'
 ---
 
