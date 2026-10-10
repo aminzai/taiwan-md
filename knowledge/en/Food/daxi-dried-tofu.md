@@ -143,7 +143,7 @@ Daxi tofu does not preserve a river port that is forever prosperous. It preserve
 
 [^9]: [Airiti Library: Research on the Use and Development of Cultural Assets in Daxi Historic Street District](https://www.airitilibrary.com/Article/Detail/U0021-1610201315170023) — Research details page, providing the research context of Daxi historic street cultural assets, local groups, residents, shopkeepers, and district office interactions.
 
-[^10]: [Wikimedia Commons: Daxi Historic Street Daxi Historic Street - panoramio (1).jpg](<https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E6%BA%AA%E8%80%81%E8%A1%97_Daxi_Historic_Street_-_panoramio_(1).jpg>) — Photo by lienyuan lee, CC BY 3.0. Main text image uses Wikimedia Commons `Special:FilePath` hotlink; image not downloaded.
+[^10]: [Wikimedia Commons: Daxi Historic Street Daxi Historic Street - panoramio (1).jpg](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E6%BA%AA%E8%80%81%E8%A1%97_Daxi_Historic_Street_-_panoramio_(1) — Photo by lienyuan lee, CC BY 3.0. Main text image uses Wikimedia Commons `Special:FilePath` hotlink; image not downloaded.
 
 [^11]: [Wikimedia Commons: 2021 Daxi Bridge.jpg](https://commons.wikimedia.org/wiki/File:2021_Daxi_Bridge.jpg) — Photo by Taiwankengo, CC BY-SA 4.0. Main text image uses `Special:FilePath` hotlink; image not downloaded.
 

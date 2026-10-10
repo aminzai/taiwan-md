@@ -81,7 +81,7 @@ He has served as writer-in-residence at Ocean University and taught at Tzu Chi U
 
 [^7]: [Drifting Without Engine to the Edge of the Nation's Boundary — "Kuroshio 101" Reveals Ocean Current Mysteries](https://e-info.org.tw/node/117899) — Environmental Information Center.
 
-[^8]: [Coming Back Every Year! Sperm Whale "Hualien Xiangxiang" Specially Greets Hualien](https://awakentaste.com/sperm-whale/?srsltid=AfmBOoqXn98t3Xow4BDYfFwWzCEOzTyYqgdwRkhFrSu7SJPKd9-zUkm)
+[^8]: [Coming Back Every Year! Sperm Whale "Hualien Xiangxiang" Specially Greets Hualien](https://awakentaste.com/sperm-whale/?srsltid=AfmBOoqXn98t3Xow4BZYfFwWzCEOzTyYqgdwRkhFrSu7SJPKd9-zUkm)
 
 [^9]: [Sperm Whale Pi Project — Hualien Formosa Association](https://iiha-formosa.com/plan-%CF%80/)
 

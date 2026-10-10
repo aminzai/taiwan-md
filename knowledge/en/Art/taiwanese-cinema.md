@@ -331,7 +331,7 @@ So the next time you see a headline in the news saying "Local films are dead aga
 
 [^32]: [The Apple Slicing Incident - Wikipedia](https://zh.wikipedia.org/wiki/%E5%85%92%E5%AD%90%E7%9A%84%E5%A4%A7%E7%8E%A9%E5%81%B6) — Wan Ren's segment _The Taste of Apples_ was required to be trimmed by the KMT Cultural and Art Association, known as the "Apple Slicing Incident," saved under public pressure.
 
-[^33]: [Declaration of the New Taiwanese Cinema - Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%94%B2%E6%96%B0%E9%9B%BB%E5%BD%B1) — The _Declaration of the New Taiwanese Cinema_ was published in the Human Supplement of the _China Times_ on January 24, 1987, drafted by Zhan Hongzhi.
+[^33]: [Declaration of the New Taiwanese Cinema - Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E6%96%B0%E9%9B%BB%E5%BD%B1) — The _Declaration of the New Taiwanese Cinema_ was published in the Human Supplement of the _China Times_ on January 24, 1987, drafted by Zhan Hongzhi.
 
 [^34]: [Hou Hsiao-hsien - Wikipedia](https://zh.wikipedia.org/wiki/%E4%BE%AF%E5%AD%9D%E8%B3%A2) — Hou Hsiao-hsien's early representative works _The People from the Funchien Village_, _Dust in the Wind_, _A Time to Love and a Time to Die_ are known for long takes and local memory.
 
@@ -339,7 +339,7 @@ So the next time you see a headline in the news saying "Local films are dead aga
 
 [^36]: [Hou Hsiao-hsien's International Influence - BIOS Monthly](https://www.biosmonthly.com/) — Abbas Kiarostami supported _The Puppetmaster_; Akira Kurosawa reportedly watched _The Puppetmaster_ four times and admitted he could not make it; Hirokazu Kore-eda was deeply influenced by Hou Hsiao-hsien (reported).
 
-[^37]: [A Brighter Summer Day - Wikipedia](https://zh.wikipedia.org/wiki/%E7%89%AF%E5%B6%B6%E8%A1%97%E5%B0%91%E5%B9%B4%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6) — Edward Yang's _A Brighter Summer Day_ (1991) was originally 237 minutes long, adapted from a true story of a juvenile murder case in 1961.
+[^37]: [A Brighter Summer Day - Wikipedia](https://zh.wikipedia.org/wiki/%E7%89%AF%E5%B6%BA%E8%A1%97%E5%B0%91%E5%B9%B4%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6) — Edward Yang's _A Brighter Summer Day_ (1991) was originally 237 minutes long, adapted from a true story of a juvenile murder case in 1961.
 
 [^38]: [Yi Yi - Wikipedia / Cannes Film Festival](<https://zh.wikipedia.org/wiki/%E4%B8%80%E4%B8%80_(%E9%9B%BB%E5%BD%B1)>) — Edward Yang's _Yi Yi_ won the Best Director award at the 53rd Cannes Film Festival (2000) (not the Palme d'Or).
 

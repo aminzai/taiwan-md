@@ -186,7 +186,7 @@ Otherwise, the next tour bus falling from an interchange or burning into a fireb
 
 [^20]: [Van Gogh's Sunflowers National Highway Overturn Case: Control Yuan Corrects Ministry of Transportation, Ministry of Labor](https://www.storm.mg/article/345739) — Storm Media report on the Control Yuan correction on October 17, 2017, explicitly stating the agency model's inappropriate exploitation of drivers' labor rights, endangering passenger safety, and competent authorities' supervision failure.
 
-[^21]: [Car Accident: Do Vehicle Companies Bear Responsibility for Agency Vehicles?](https://www.jclaw.com.tw/%E3%80%90%E8%BB%8A%E7%A6%8D%E3%80%91%E9%9D%A0%E%A1%8C%E8%BB%8A%EF%BC%8C%E8%BB%8A%E8%A1%8C%E9%A0%88%E8%B2%A0%E8%B2%A7%E5%97%8E%EF%BC%9F/) — Juncheng Law Firm citing the Van Gogh's Sunflowers case to analyze the legal responsibility of agency vehicles, pointing out that courts generally determine vehicle companies bear joint liability, but enforcement is difficult.
+[^21]: [Car Accident: Do Vehicle Companies Bear Responsibility for Agency Vehicles?](https://www.jclaw.com.tw/%E3%80%90%E8%BB%8A%E7%A6%8D%E3%80%91%E9%9D%A0%E8%A1%8C%E8%BB%8A%EF%BC%8C%E8%BB%8A%E8%A1%8C%E9%A0%88%E8%B2%A0%E8%B2%AC%E5%97%8E%EF%BC%9F/) — Juncheng Law Firm citing the Van Gogh's Sunflowers case to analyze the legal responsibility of agency vehicles, pointing out that courts generally determine vehicle companies bear joint liability, but enforcement is difficult.
 
 [^22]: [Alishan Car Accident: Hiring Volunteer Self-Blames](https://www.epochtimes.com/b5/10/12/12/n3111147.htm) — CNA report on the December 12, 2010, Alishan Dapang Highway tour bus overturn accident, killing 3 and injuring 25.
 
@@ -202,4 +202,4 @@ Otherwise, the next tour bus falling from an interchange or burning into a fireb
 
 [^28]: [2021 Tour Bus Operation Status Survey](https://srdaadj.survey.sinica.edu.tw/search/metadata/detail/AG060008) — Ministry of Transportation official statistics released by Academia Sinica's Survey Research Center, recording 907 tour bus operators and vehicle sampling data in Taiwan at the end of 2021.
 
-[^29]: [2015 Transportation Yearbook: Tour Bus Passenger Transport Industry](https://www.motc.gov.tw/ch/app/yearbook/doc?detailNo=1&id=21&module=directory&serno=6845&type=s&year=104) — Ministry of Transportation 2015 Transportation Yearbook, recording official statistics of 944 operators and 16,830 tour buses in the Taiwan-Matsu region at the end of 2015.
+[^29]: [2015 Transportation Yearbook: Tour Bus Passenger Transport Industry](https://www.motc.gov.tw/ch/app/yearbook/doc?detailNo=2&id=21&module=directory&serno=6845&type=s&year=104) — Ministry of Transportation 2015 Transportation Yearbook, recording official statistics of 944 operators and 16,830 tour buses in the Taiwan-Matsu region at the end of 2015.

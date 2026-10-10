@@ -266,7 +266,7 @@ The next time someone asks you “where does Taiwan really belong,” you can an
 
 [^12]: [Plant DNA Records History: The Austronesian Migration History Told by Paper Mulberry](https://research.sinica.edu.tw/paper-mulberry-dna-austronesian-history-chung-kuo-fang/) — An Academia Sinica _Research for You_ interview introducing research by Chung Kuo-fang’s team using paper mulberry DNA to support the “Out of Taiwan” hypothesis from a biogeographical perspective.
 
-[^13]: [Nusantara (term) - Wikipedia](<https://en.wikipedia.org/wiki/Nusantara_(term)>) — A detailed etymological account of Nusantara: Old Javanese _nusa_ (“island”) + the Sanskrit loanword _antara_ (“between”).
+[^13]: [Nusantara (term) - Wikipedia](https://en.wikipedia.org/wiki/Nusantara_(term) — A detailed etymological account of Nusantara: Old Javanese _nusa_ (“island”) + the Sanskrit loanword _antara_ (“between”).
 
 [^14]: [Majapahit - Wikipedia](https://en.wikipedia.org/wiki/Majapahit) — Entry on the 14th-century Majapahit Empire of East Java, including the historical background of Gajah Mada’s 1336 “Palapa Oath.”
 

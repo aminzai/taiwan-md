@@ -159,7 +159,7 @@ In 2015 he walked 315 kilometers back to Tainan. In 2024 he walked the pilgrimag
 
 [^15]: [Wikipedia: Your Name Engraved Herein (film)](https://zh.wikipedia.org/zh-hant/%E5%88%BB%E5%9C%A8%E4%BD%A0%E5%BF%83%E5%BA%95%E7%9A%84%E5%90%8D%E5%AD%97) — Detailed information on the 2020 Taiwanese LGBT film, including its global Netflix release timeline.
 
-[^16]: [Wikipedia: Your Name Engraved Herein (song)](<https://en.wikipedia.org/wiki/Your_Name_Engraved_Herein_(song)>) — 64 million YouTube views, number one on KKBOX in four markets, and details of Richard Sanderson's response to the plagiarism accusation.
+[^16]: [Wikipedia: Your Name Engraved Herein (song)](https://en.wikipedia.org/wiki/Your_Name_Engraved_Herein_(song) — 64 million YouTube views, number one on KKBOX in four markets, and details of Richard Sanderson's response to the plagiarism accusation.
 
 [^17]: [CNA: 57th Golden Horse Best Film Song](https://www.cna.com.tw/news/firstnews/202011210239.aspx) — Report on the 57th Golden Horse Awards win.
 

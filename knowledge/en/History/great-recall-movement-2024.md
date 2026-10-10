@@ -332,7 +332,7 @@ This article uses 3 CC-licensed images, all cached in `public/article-images/his
 
 [^45]: [Chen Po-wei Becomes First Recalled Legislator in History](https://www.cna.com.tw/news/firstnews/202110230226.aspx) — CNA, October 23, 2021 Chen Po-wei recall passed, still the only legislator successfully recalled in Taiwan's constitutional history to this day.
 
-[^46]: [Cross-Bubble Civic Dialogue: 2025 Great Recall Strategic Communication Exploration](https://medium.com/doublethinklab-tw/%E8%B7%A8%E5%90%8C%E6%BA%AB%E5%B1%A4%E7%9A%84%E5%85%AC%E6%B0%91%E5%B0%8D%E8%A9%B1-2025%E5%A4%A7%E7%BD%B7%E5%85%8D%E7%AD%96%E7%95%9D%E6%BA%9D%E9%80%9A%E5%88%9D%E6%8E%A2-bcf1de43378d) — Taiwan Democracy Lab, recall groups shifted anti-China defend Taiwan narrative to rental, long-term care, education and other livelihood issues, actively crossing bubbles for dialogue.
+[^46]: [Cross-Bubble Civic Dialogue: 2025 Great Recall Strategic Communication Exploration](https://medium.com/doublethinklab-tw/%E8%B7%A8%E5%90%8C%E6%BA%AB%E5%B1%A4%E7%9A%84%E5%85%AC%E6%B0%91%E5%B0%8D%E8%A9%B1-2025%E5%A4%A7%E7%BD%B7%E5%85%8D%E7%AD%96%E7%95%A5%E6%BA%9D%E9%80%9A%E5%88%9D%E6%8E%A2-bcf1de43378d) — Taiwan Democracy Lab, recall groups shifted anti-China defend Taiwan narrative to rental, long-term care, education and other livelihood issues, actively crossing bubbles for dialogue.
 
 [^47]: [2025 Great Recall Special](https://www.twreporter.org/topics/2025-recall-campaign) — The Reporter special page, listing "where the civic power shown by recall groups will go" as a continuous tracking open observation indicator.
 

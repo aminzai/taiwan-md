@@ -246,6 +246,6 @@ That's true for herself, for the next generation of indigenous musicians, and fo
 
 [^20]: [Abao on the Indigenous Music View That Life Is Song — The Reporter Full Statement](https://www.twreporter.org/a/waiting-lab-abao-aljenljeng) — Abao: "Indigenous people's songs are all about life. If you look at the lyrics of ancient songs, they too are describing the details of this life. As long as it doesn't depart from life, for me that is indigenous song." Indigenous-language music = the continuation of contemporary life.
 
-[^21]: [Hsu Chia-ying × Abao × Brandy "Cut the Song" 2021 Collaboration — KKBOX](https://www.kkbox.com/tw/tc/song/%E5%88%87%E6%AD%8C) — In 2021, Hsu Chia-ying invited Abao and Brandy to collaborate on "Cut the Song"; the three-voice version revived the connection from the 2003 Abao & Brandy era; the lyrics are written for girls and women.
+[^21]: [Hsu Chia-ying × Abao × Brandy "Cut the Song" 2021 Collaboration — KKBOX](https://www.kkbox.com/tw/tc/song/切歌) — In 2021, Hsu Chia-ying invited Abao and Brandy to collaborate on "Cut the Song"; the three-voice version revived the connection from the 2003 Abao & Brandy era; the lyrics are written for girls and women.
 
 [^22]: [Abao × Li Ying-hong "Tjakudain / Helpless" Taiwanese + Paiwan Fusion — Golden Melody 31 Nomination Records](https://www.goldenmelody.tw/news/31-nomination) — In 2020, Abao collaborated with Li Ying-hong on "Tjakudain / Helpless"; Chen Chen-chuan commented that it "blended Taiwanese and Paiwan very well"; multiple Golden Melody 31 nominations.

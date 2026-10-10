@@ -158,7 +158,7 @@ From Lopo Homem's sheepskin map of 1554 to Google Maps on your phone in 2026, ev
 
 [^11]: [Taiwan Strait — Wikipedia (EN)](https://en.wikipedia.org/wiki/Taiwan_Strait) — The 1955 origin of the Taiwan Strait center line, the 2019 publication of coordinates, and China's denial.
 
-[^12]: [Air Defense Identification Zone (Taiwan) — Wikipedia (EN)](<https://en.wikipedia.org/wiki/Air_Defense_Identification_Zone_(Taiwan)>) — Taiwan's ADIZ drawn by the US military in 1954, extending over Chinese mainland airspace, with no basis in international law.
+[^12]: [Air Defense Identification Zone (Taiwan) — Wikipedia (EN)](https://en.wikipedia.org/wiki/Air_Defense_Identification_Zone_(Taiwan) — Taiwan's ADIZ drawn by the US military in 1954, extending over Chinese mainland airspace, with no basis in international law.
 
 [^13]: [Marine Regions — Overlapping claim Taiwan](https://www.marineregions.org/eezdetails.php?mrgid=8321) — Taiwan Strait continental shelf depth and overlapping EEZ claims.
 

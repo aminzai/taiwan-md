@@ -89,7 +89,7 @@ The story of the Formosan sambar deer is both a conservation journey from near-e
 
 [^9]: [Response to "Too Many Taiwan Sambar Deer? Scholar: Too Early to Say" Report](https://e-info.org.tw/node/77744) — Environmental Information Center article on the impact of and controversy around sambar deer's effects on forest ecosystems.
 
-[^10]: [Protected Species Causing Crop Damage Can Be Reported for Legal Culling — The Most Contentious Case Is Probably Taiwan's Sambar Deer](https://www.threads.com/@foxanimalhome/post/DS9-GLjkmb5/) — Threads post discussing crop damage caused by sambar deer.
+[^10]: [Protected Species Causing Crop Damage Can Be Reported for Legal Culling — The Most Contentious Case Is Probably Taiwan's Sambar Deer](https://www.threads.com/@foxanimalhome/post/DS9-GLjkmb5/1-%E4%BF%9D%E8%82%B2%E9%A1%9E%E9%80%A0%E6%88%90%E8%BE%B2%E6%90%8D%E5%8F%AF%E4%BB%A5%E9%80%9A%E5%A0%B1%E5%90%88%E6%B3%95%E7%8D%B5%E6%AE%BA%E7%9A%84-%E6%88%91%E7%9F%A5%E9%81%93%E6%AF%94%E8%BC%83%E6%9C%89%E7%88%AD%E8%AD%B0%E7%9A%84%E5%A4%A7%E6%A6%82%E5%B0%B1%E6%98%AF%E5%8F%B0%E7%81%A3%E6%B0%B4%E9%B9%鹿%E5%9B%A0%E7%82%BA%E9%82%84%E8%A6%81%E7%9C%8B%E7%89%A0%E7%9A%84%E8%BE%B2%E6%90%8D%E5%8D%80%E5%9F%9F%E5%88%A4%E6%96%B7%E6%98%AF%E5%90%A6%E7%82%BA%E9%87%8E%E7%94%9F%E6%97%8F%E7%BE%A4%E9%82%84%E6%98%AF%E9%B9%鹿%E5%A0%B4%E8%B7%91%E5%87%BA%E4%BE%86%E7%9A%84%E6%97%8F%E7%BE%A4%E5%A6%82%E6%9E%9C%E7%9C%9F%E7%9A%84%E5%9A%B4%E9%87%8D%E5%BD%B1%E9%9F%BF%E7%94%9F%E8%A8%88%E6%88%91%E6%98%AF%E6%94%AF%E6%8C%81) — Threads post discussing crop damage caused by sambar deer.
 
 [^11]: [Thao Mythology and Legend](https://www.ianthro.org/p/166) — Institute of Ethnology, Academia Sinica digital archives, introducing the Thao deer-chasing legend.
 

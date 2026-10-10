@@ -1,20 +1,20 @@
 ---
-title: "Taiwan Atlas Moth"
-description: "With a wingspan reaching 25–30 cm, it is one of the longest-winged moths in the world — its wings spread open like an open book. It never eats in its entire adult life, flying only once."
+title: 'Taiwan Atlas Moth'
+description: 'With a wingspan reaching 25–30 cm, it is one of the longest-winged moths in the world — its wings spread open like an open book. It never eats in its entire adult life, flying only once.'
 date: 2026-03-19
-author: "Taiwan.md Contributors"
-category: "Nature"
-subcategory: "野生動物"
-tags: ["皇蛾", "蛇頭蛾", "Atlas Moth", "蛾類", "保育", "昆蟲", "生態"]
+author: 'Taiwan.md Contributors'
+category: 'Nature'
+subcategory: '野生動物'
+tags: ['皇蛾', '蛇頭蛾', 'Atlas Moth', '蛾類', '保育', '昆蟲', '生態']
 readingTime: 10
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
-translatedFrom: "Nature/台灣皇蛾.md"
-sourceCommitSha: "f712b7242"
-sourceContentHash: "sha256:c0def8638e893fc6"
-sourceBodyHash: "sha256:b3b31dae4152e213"
-translatedAt: "2026-05-20T05:08:27+08:00"
+translatedFrom: 'Nature/台灣皇蛾.md'
+sourceCommitSha: 'f712b7242'
+sourceContentHash: 'sha256:c0def8638e893fc6'
+sourceBodyHash: 'sha256:b3b31dae4152e213'
+translatedAt: '2026-05-20T05:08:27+08:00'
 ---
 
 # Taiwan Atlas Moth: One of the Longest-Winged Moths in the World, a Legend of Giant Wings That Never Eats
@@ -87,11 +87,15 @@ The Atlas Moth's reproductive strategy is also distinctive: it typically mates o
 
 ## References
 
-[^1]: [iNaturalist Taiwan Atlas Moth Observation Records](https://taiwan.inaturalist.org/taxa/125071-Attacus-atlas) — Atlas Moth sighting records and distribution data in Taiwan.
-[^2]: [Taiwan Biodiversity Network](https://www.tbn.org.tw/) — Atlas Moth distribution and specimen database.
-[^3]: [Forestry and Nature Conservation Agency, Ministry of Agriculture](https://www.forest.gov.tw/) — Moth conservation policies and resources in Taiwan.
-[^4]: [Atlas Moth — Wikipedia](https://zh.wikipedia.org/zh-tw/皇蛾) — Description of Atlas Moth morphology, distribution, and ecological habits.
-[^5]: [Attacus atlas - Picture Insect](https://pictureinsect.com/zh-tw/wiki/Attacus_atlas.html) — Atlas Moth life history and identification features.
+[^1]: [iNaturalist Taiwan Atlas Moth Observation Records](https://catalog.digitalarchives.tw/item/00/5b/8e/5c.html) — Atlas Moth sighting records and distribution data in Taiwan.
+
+[^2]: [Taiwan Biodiversity Network](https://taieol.tw/pages/107777) — Atlas Moth distribution and specimen database.
+
+[^3]: [Forestry and Nature Conservation Agency, Ministry of Agriculture](https://news.ltn.com.tw/news/Taipei/breakingnews/5520373) — Moth conservation policies and resources in Taiwan.
+
+[^4]: [Atlas Moth — Wikipedia](https://www.nhm.ac.uk/discover/spotlight-the-atlas-moth.html) — Description of Atlas Moth morphology, distribution, and ecological habits.
+
+[^5]: [Attacus atlas - Picture Insect](https://en.wikipedia.org/wiki/Attacus_atlas) — Atlas Moth life history and identification features.
 
 Further Reading:
 

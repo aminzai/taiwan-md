@@ -208,6 +208,6 @@ From the seed Lu Quan-sheng planted in 1957 to the complete ecosystem built by T
 
 [^40]: [National Experimental Chorus — About Us](http://www.taiwannationalchoir.tw/home/about) — See original link for details
 
-[^41]: [From the Film _Sunshine Ladies Chorus_ to Real Stories in Taiwan](https://tw.news.yahoo.com/%E5%BE%9E%E9%9B%BB%E5%BD%B1-%E9%99%BD%E5%85%89%E5%A5%B3%E5%AD%90%E5%90%88%E5%94%B1%E5%9C%98-%E5%88%B0%E5%8F%B0%E7%81%A3%E7%9C%9F%E5%AF%A6%E6%95%85%E4%BA%8B-%E5%96%84%E8%80%95365%E5%B8%B6%E5%81%8C%E9%84%89%E5%AD%A9%E5%AD%90%E7%94%A8%E5%90%88%E5%94%B1%E6%89%BE%E5%9B%9E%E8%87%AA%E4%BF%A1-031851810.html) — Yahoo News report
+[^41]: [From the Film _Sunshine Ladies Chorus_ to Real Stories in Taiwan](https://tw.news.yahoo.com/%E5%BE%9E%E9%9B%BB%E5%BD%B1-%E9%99%BD%E5%85%89%E5%A5%B3%E5%AD%90%E5%90%88%E5%94%B1%E5%9C%98-%E5%88%B0%E5%8F%B0%E7%81%A3%E7%9C%9F%E5%AF%A6%E6%95%85%E4%BA%8B-%E5%96%84%E8%80%95365%E5%B8%B6%E5%81%8F%E9%84%89%E5%AD%A9%E5%AD%90%E7%94%A8%E5%90%88%E5%94%B1%E6%89%BE%E5%9B%9E%E8%87%AA%E4%BF%A1-031851810.html) — Yahoo News report
 
 [^42]: [The Survival Dilemmas of Taiwan's School Choirs](http://www.tcmc.org.tw/index.php/knowledge/articles/action/view/frmContentId/3330/menu2.swf) — See original link for details

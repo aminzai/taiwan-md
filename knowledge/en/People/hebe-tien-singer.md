@@ -231,11 +231,11 @@ Will the sixth album come out this year? In 2025 she already sang on salt fields
 
 [^9]: [Hebe Tien — Wikipedia (zh-TW)](https://zh.wikipedia.org/zh-tw/%E7%94%B0%E9%A6%A5%E7%94%84) — Sang theme "A Little Happiness" for _Our Times_ (2015); MV became first Chinese-language single to exceed 100 million YouTube views, as of August 2016; YouTube official MV: https://www.youtube.com/watch?v=_sQSXwdtxlY
 
-[^10]: [_Everyday_ Album — Wikipedia (zh-TW)](<https://zh.wikipedia.org/zh-tw/%E6%97%A5%E5%B8%B8_(%E7%94%B0%E9%A6%A5%E7%94%84%E5%B0%88%E8%BC%AF)>) — Fourth solo album _Everyday_ released July 13, 2016, hand-assembled packaging with special fluorescent ink; Taiwan sales approximately 70,000 copies, third among female artists in 2016; title track YouTube official MV: https://www.youtube.com/watch?v=3dBFK2fHjWg
+[^10]: [_Everyday_ Album — Wikipedia (zh-TW)](https://zh.wikipedia.org/zh-tw/%E6%97%A5%E5%B8%B8_(%E7%94%B0%E9%A6%A5%E7%94%84%E5%B0%88%E8%BC%AF) — Fourth solo album _Everyday_ released July 13, 2016, hand-assembled packaging with special fluorescent ink; Taiwan sales approximately 70,000 copies, third among female artists in 2016; title track YouTube official MV: https://www.youtube.com/watch?v=3dBFK2fHjWg
 
 [^11]: [HoHo Music — Wikipedia (zh-TW)](https://zh.wikipedia.org/zh-tw/%E4%BD%95%E6%A8%82%E9%9F%B3%E6%A8%82) — Chen Chien-chi founded HoHo Music (Pourquoi Pas Music) in 2018 as music director; _Unknown_ produced by Le Lai Le Hao (Hebe's personal company) and released by HoHo Music.
 
-[^12]: [_Unknown_ Album — Wikipedia (zh-TW)](<https://zh.wikipedia.org/zh-tw/%E7%84%A1%E4%BA%BA%E7%9F%A5%E6%9B%89_(%E5%B0%88%E8%BC%AF)>) — Fifth solo album _Unknown_ released September 25, 2020; received seven nominations at the 32nd Golden Melody Awards; title track YouTube official MV (directed by Bill Jukes): https://www.youtube.com/watch?v=RtH0BAbUalk
+[^12]: [_Unknown_ Album — Wikipedia (zh-TW)](https://zh.wikipedia.org/zh-tw/%E7%84%A1%E4%BA%BA%E7%9F%A5%E6%9B%89_(%E5%B0%88%E8%BC%AF) — Fifth solo album _Unknown_ released September 25, 2020; received seven nominations at the 32nd Golden Melody Awards; title track YouTube official MV (directed by Bill Jukes): https://www.youtube.com/watch?v=RtH0BAbUalk
 
 [^13]: [Hebe Tien wins Golden Melody Best Mandarin Female Vocalist — CNA, 2021-08-21](https://www.cna.com.tw/news/firstnews/202108215024.aspx) — August 21, 2021: Hebe Tien won Best Mandarin Female Vocalist at the 32nd Golden Melody Awards for _Unknown_; Chen Chien-chi, in his seventh nomination as producer, finally won; Ko Ta-wei won Best Lyricist for the same album.
 
@@ -269,7 +269,7 @@ Will the sixth album come out this year? In 2025 she already sang on salt fields
 
 [^28]: [Hebe Tien — Yi Yi Teshima Museum exclusive interview — BIOS monthly](https://www.biosmonthly.com/article/10556) — Hebe Tien's verbatim response: "How do I _use_ flaws? I don't need to use anything — I'm just fundamentally a person full of flaws"; discussing Teshima Art Museum as the conceptual starting point for the _Yi Yi_ tour.
 
-[^29]: [Sisters Who Make Waves Season 2 — Wikipedia (zh-TW)](<https://zh.wikipedia.org/zh-tw/%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%84%E5%A7%90%E5%A7%90_(%E7%AC%AC%E4%BA%8C%E5%AD%A3)>) — 2021: Rainie Yang participated in _Sisters Who Make Waves_ Season 2 and debuted in a seven-member group; Na Ying, Zhou Bichang, Joey Yung, and other contemporaries also found renewed China market visibility through the series.
+[^29]: [Sisters Who Make Waves Season 2 — Wikipedia (zh-TW)](https://zh.wikipedia.org/zh-tw/%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%84%E5%A7%90%E5%A7%90_(%E7%AC%AC%E4%BA%8C%E5%AD%A3) — 2021: Rainie Yang participated in _Sisters Who Make Waves_ Season 2 and debuted in a seven-member group; Na Ying, Zhou Bichang, Joey Yung, and other contemporaries also found renewed China market visibility through the series.
 
 [^30]: [Jolin Tsai at 2025 Chinese satellite channel New Year galas — NowNews](https://www.nownews.com/news/6621053) — 2025: Jolin Tsai participated in Chinese variety show _Singing 2025_ (2025-07-25) and appeared at multiple satellite channel New Year galas.
 

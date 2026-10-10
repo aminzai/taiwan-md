@@ -215,7 +215,7 @@ And this island, after the night of January 15, learned how to finish the words 
 
 [^4]: [Her One "I'm Sorry" Shook the Taiwan Presidential Election — A Closer Look at the Tainan Aesthetic Medicine Princess Chou Tzuyu — Business Today](https://www.businesstoday.com.tw/article/category/80392/post/201601210022/) — Business Today 2016 in-depth report reconstructing the full event along two timelines: Huang An's Weibo post and the Chou family background.
 
-[^5]: [Huang An (entertainer) — Wikipedia (Chinese)](<https://zh.wikipedia.org/wiki/黃安_(藝人)>) — Wikipedia article on Huang An, covering his Taiwan career collapse in the 1990s, his relocation to China, and his 2015 named report against Zhong Yu-chen to the Taiwan Affairs Office.
+[^5]: [Huang An (entertainer) — Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/黃安_(藝人) — Wikipedia article on Huang An, covering his Taiwan career collapse in the 1990s, his relocation to China, and his 2015 named report against Zhong Yu-chen to the Taiwan Affairs Office.
 
 [^6]: [BBC: Tzuyu Apology One of Factors in Tsai's Victory, Full Report — Liberty Times](https://news.ltn.com.tw/news/world/breakingnews/1577328) — Liberty Times 2016 citing BBC Chinese reporting: how the apology video functioned as an aid to Tsai Ing-wen's victory, from an international media perspective.
 

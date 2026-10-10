@@ -153,11 +153,11 @@ Taiwan's audio industry faces three layers of pressure: cost competition, techno
 
 ## References
 
-[^1]: Industrial Development Administration, Ministry of Economic Affairs (formerly the Industrial Development Bureau, reorganized in September 2023), _Audio Industry Development White Paper_ — policy and market overview of Taiwan's audio industry
+[^1]: Industrial Development Administration, Ministry of Economic Affairs (formerly the Industrial Development Bureau, reorganized in September 2023), _Audio Industry Development White Paper_ — policy and market overview of Taiwan's audio industry [經濟部產業發展署](https://www.ida.gov.tw/)
 
 [^2]: [Industrial Economics and Knowledge Center, ITRI, _Audio Industry Trend Analysis_](https://ieknet.iek.org.tw/) — analysis of Taiwan's audio industry scale and OEM market
 
-[^3]: Taiwan Electrical and Electronic Manufacturers' Association, _Audio Industry Yearbook_ — statistics on manufacturers and output value in Taiwan's audio industry
+[^3]: Taiwan Electrical and Electronic Manufacturers' Association, _Audio Industry Yearbook_ — statistics on manufacturers and output value in Taiwan's audio industry [台灣區電機電子工業同業公會（TEEMA）](https://www.teema.org.tw/)
 
 [^4]: [Merry Electronics official website](https://www.merry.com.tw/) — electroacoustic component products and company information; Creative Technology Ltd. is a Singaporean company, not a Taiwanese manufacturer
 

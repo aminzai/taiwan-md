@@ -77,7 +77,7 @@ Nevertheless, Nymphia Wind's rise has undeniably injected new vitality into Taiw
 
 [^10]: [Liberty Times: Nymphia Wind Wins American Drag Show Crown — Lai Ching-te: Mother's Love and Support Seen by the World](https://news.ltn.com.tw/news/politics/breakingnews/4670614) — President Lai Ching-te's affirmation of Nymphia Wind's mother.
 
-[^11]: [DW.com: Tsai Ing-wen Congratulates Taiwan's Drag Queen on Winning American Championship](https://www.dw.com/zh-hant/%E8%94%A1%E8%8B%B1%E6%96%87%E7%A5%9D%E8%B3%80%E5%8F%B0%E7%81%A3%E8%AE%8A%E8%A3%9D%E7%9A%87%E5%BE%8C%E7%BE%8E%E5%9C%8B%E5%A5%AA%E5%86%A0/a-68878494) — Reports on Nymphia Wind calling Taiwan a "Country" in front of international media.
+[^11]: [DW.com: Tsai Ing-wen Congratulates Taiwan's Drag Queen on Winning American Championship](https://www.dw.com/zh-hant/%E8%94%A1%E8%8B%B1%E6%96%87%E7%A5%9D%E8%B3%80%E5%8F%B0%E7%81%A3%E8%AE%8A%E8%A3%9D%E7%9A%87%E5%90%8E%E7%BE%8E%E5%9C%8B%E5%A5%AA%E5%86%A0/a-68878494) — Reports on Nymphia Wind calling Taiwan a "Country" in front of international media.
 
 [^12]: [The Reporter: The "Banana Buddha" Descends on the Paris Cultural Olympiad: Nymphia Wind and the Haus of Wind Daughters, Transforming Life's Suppression into Openness and Brilliance](https://www.twreporter.org/a/paris-2024-cultural-olympiad-nymphia-wind-and-haus-of-wind) — Description of Nymphia Wind's performance at the Paris Cultural Olympiad.
 

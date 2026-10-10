@@ -204,7 +204,7 @@ Most images in this article are screenshots of public pages and are used under S
 
 [^7]: [Evidence found of Chinese content farms using AI to target Taiwanese people for patriotic promotion](https://voicettank.org/20260210-1) — Thought Tank / Wang Hung-en, full text of Qinhuangdao "No Boundaries Group" instructions and the criteria for "purposely using AI to evade detection."
 
-[^8]: [Interview with IORG: Don't let "troll farm" become a label thrown around freely](https://watchout.tw/reports/Nq1mv2ut5pGPMsjW049) — WatchOut, Wang's discussion on "monetary exchange as the basis for troll farms" and how "random labeling helps real trolls hide."
+[^8]: [Interview with IORG: Don't let "troll farm" become a label thrown around freely](https://watchout.tw/reports/NqxdmV2ut5pGPMsjW049) — WatchOut, Wang's discussion on "monetary exchange as the basis for troll farms" and how "random labeling helps real trolls hide."
 
 [^9]: [Preliminary Study of China's Cognitive Domain Warfare: Case Study of 2020 Taiwan Elections (Shen Boyang, _Progress Foundation Quarterly_ Vol. 22 No. 1, 2021, pp. 1-65)](https://www.pf.org.tw/wSite/public/Attachment/003/f1646210580296.pdf) — TSSCI thesis using the "diamond model" to separate economic and political motives.
 

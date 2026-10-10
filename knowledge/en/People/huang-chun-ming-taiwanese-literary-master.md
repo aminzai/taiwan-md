@@ -2,21 +2,21 @@
 title: "Huang Chun-ming: Born in Luodong, 1935 — Chronicler of Small Figures from 'The Days of Watching the Sea' to 'The Sandwich Man'"
 description: "Born February 13, 1935, in Luodong, Yilan. 'The Days of Watching the Sea' (1967) and 'The Sandwich Man' (1969) represent the core concern of Taiwan's nativist literature for ordinary people. The Nativist Literature Debate of 1977. Recipient of the Wu San-lien Literary Award and the National Award for Arts. His second son, Huang Kuo-chun (a writer), died by suicide on June 20, 2003. Hou Hsiao-hsien adapted his work for the screen in 1983. Still living as of 2026."
 date: 2026-03-19
-author: "Taiwan.md"
-category: "People"
-subcategory: "文學"
-tags: ["文學", "鄉土文學", "宜蘭", "小人物", "兒子的大玩偶", "看海的日子"]
+author: 'Taiwan.md'
+category: 'People'
+subcategory: '文學'
+tags: ['文學', '鄉土文學', '宜蘭', '小人物', '兒子的大玩偶', '看海的日子']
 readingTime: 7
 #   whats_excluded: "各短篇逐章分析；黃大魚兒童劇團歷年劇目；宜蘭文化活動細節"
 #   where_it_hedges: "〈看海的日子〉1967年發表時間以維基為準（P0⚠️建議實證確認）"'
 lastVerified: 2026-05-07
 lastHumanReview: true
 featured: false
-translatedFrom: "People/黃春明.md"
-sourceCommitSha: "0f8fae0ae"
-sourceContentHash: "sha256:fa94afa39f837939"
-sourceBodyHash: "sha256:59fc287ce8c0baeb"
-translatedAt: "2026-05-20T05:08:27+08:00"
+translatedFrom: 'People/黃春明.md'
+sourceCommitSha: '0f8fae0ae'
+sourceContentHash: 'sha256:fa94afa39f837939'
+sourceBodyHash: 'sha256:59fc287ce8c0baeb'
+translatedAt: '2026-05-20T05:08:27+08:00'
 ---
 
 # Huang Chun-ming: Born in Luodong, 1935 — Chronicler of Small Figures from "The Days of Watching the Sea" to "The Sandwich Man"
@@ -41,7 +41,7 @@ What makes "The Days of Watching the Sea" distinctive is its humanitarian tone: 
 
 In 1969, "The Sandwich Man" was published.[^1] It tells the story of Kun-shu, a father who dresses as a clown to sell advertisements in order to feed his family. When the advertising company goes bankrupt, his son cries uncontrollably because he can no longer see the familiar clown. The core of the story lies in the survival dilemmas and human dignity of ordinary people under the impact of modernization.
 
-In 1983, Hou Hsiao-hsien directed the film adaptation *The Sandwich Man*, one of the landmark works of the Taiwan New Cinema movement.[^3] The success of Hou's adaptation owes much to the concreteness of Huang Chun-ming's original: Kun-shu is not a conceptual "everyman at the bottom" but a real person with a specific predicament and concrete actions. The transition from literary language to cinematic language did not lose its substance because it was supported by this concreteness.
+In 1983, Hou Hsiao-hsien directed the film adaptation _The Sandwich Man_, one of the landmark works of the Taiwan New Cinema movement.[^3] The success of Hou's adaptation owes much to the concreteness of Huang Chun-ming's original: Kun-shu is not a conceptual "everyman at the bottom" but a real person with a specific predicament and concrete actions. The transition from literary language to cinematic language did not lose its substance because it was supported by this concreteness.
 
 The central question of "The Sandwich Man" is about dignity, not just poverty: Kun-shu's clown act binds a person's means of livelihood to the image he presents to his son. When the advertising company collapses and the clown costume disappears, the child's crying articulates the most inexpressible loss of the modernization process—the helplessness of being forced to choose which face to present to the world.
 
@@ -59,7 +59,7 @@ Huang Chun-ming has received the Wu San-lien Literary Award and the National Awa
 
 ## The Passing of His Second Son Huang Kuo-chun in 2003
 
-Huang Chun-ming's second son, Huang Kuo-chun, also a writer, died by suicide on June 20, 2003.[^4] Huang Kuo-chun left behind works including *Water Questions* (*Shui Wen*), which form an important part of the literary world's memory of the Huang family.
+Huang Chun-ming's second son, Huang Kuo-chun, also a writer, died by suicide on June 20, 2003.[^4] Huang Kuo-chun left behind works including _Water Questions_ (_Shui Wen_), which form an important part of the literary world's memory of the Huang family.
 
 Huang Kuo-chun's passing was the heaviest moment in Huang Chun-ming's personal life and a shared loss for Taiwan's literary community. He was an extension of his father's generation of nativist literary spirit, yet he moved toward a more introspective and personal mode of writing. That path was never completed; the gap left behind represents the interruption of a possible literary direction—something even harder to fill than the disappearance of a writer.
 
@@ -87,7 +87,7 @@ That he is still living in 2026 is, in itself, the quietest possible answer to e
 
 [^2]: [The Reporter: The 1970s Taiwan Nativist Literature Debate](https://www.twreporter.org/a/1970s-taiwan-nativist-literature-huang-chunming) — Covers the full course of the 1977 Nativist Literature Debate and Huang Chun-ming's position within it.
 
-[^3]: [Wikipedia: The Sandwich Man (film)](https://zh.wikipedia.org/zh-tw/兒子的大玩偶_(電影)) — Confirms Hou Hsiao-hsien directed *The Sandwich Man* in 1983, a key work of the Taiwan New Wave cinema.
+[^3]: [Wikipedia: The Sandwich Man (film)](<https://zh.wikipedia.org/zh-tw/兒子的大玩偶_(電影)>)) — Confirms Hou Hsiao-hsien directed _The Sandwich Man_ in 1983, a key work of the Taiwan New Wave cinema.
 
 [^4]: [Related report: Huang Kuo-chun's passing in 2003](https://zh.wikipedia.org/zh-tw/黃國峻) — Confirms that Huang Chun-ming's second son, Huang Kuo-chun (writer), died by suicide on June 20, 2003.
 

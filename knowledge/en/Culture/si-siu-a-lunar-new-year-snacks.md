@@ -125,7 +125,7 @@ This article embeds four photos of Taiwanese sweets and Lunar New Year goods fro
 
 [^7]: [Keelung City Health Bureau: 112th Year Spring Festival and Lantern Festival Seasonal Food Inspection List](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01207/f1674011260718.pdf) — 2022 official inspection PDF, page 2 lists aflatoxin inspection for peanut treats and compliant results, presenting the safety governance of Lunar New Year food.
 
-[^8]: [Wikimedia Commons: Taiwanese sweets (1088069273).jpg](<https://commons.wikimedia.org/wiki/File:Taiwanese_sweets_(1088069273).jpg>) — Author is pelican; image license is CC BY-SA 2.0. This article uses the Wikimedia Commons original hotlink URL, without downloading or modifying the image.
+[^8]: [Wikimedia Commons: Taiwanese sweets (1088069273).jpg](https://commons.wikimedia.org/wiki/File:Taiwanese_sweets_(1088069273) — Author is pelican; image license is CC BY-SA 2.0. This article uses the Wikimedia Commons original hotlink URL, without downloading or modifying the image.
 
 [^9]: [Wikimedia Commons: 2010-02-13 Lunar New Year sweets vendor at Dihua Street, Taipei](https://commons.wikimedia.org/wiki/File:2010-02-13_Lunar_New_Year_sweets_vendor_at_Dihua_Street,_Taipei.jpg) — 2010 Dihua Street Lunar New Year candy stall photo in Taipei; author is eazytraveler; license is CC BY 2.0; this article uses the original hotlink URL.
 

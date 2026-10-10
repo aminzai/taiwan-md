@@ -122,7 +122,7 @@ These tensions are, in a way, the best evidence that 關聖帝君 worship in Tai
 - [Wikipedia (zh): 恩主公信仰](https://zh.wikipedia.org/zh-tw/%E6%81%A9%E4%B8%BB%E5%85%AC%E4%BF%A1%E4%BB%B0)
 - [Wikipedia (zh): 行天宮](https://zh.wikipedia.org/zh-tw/%E8%A1%8C%E5%A4%A9%E5%AE%AE)
 - [Wikipedia (zh): 黃欉](https://zh.wikipedia.org/zh-tw/%E9%BB%83%E6%AC%89)
-- [Wikipedia (zh): 祀典武廟](https://zh.wikipedia.org/zh-tw/%E7%A5%00%E5%85%B8%E6%AD%A6%E5%BB%9F)
+- [Wikipedia (zh): 祀典武廟](https://zh.wikipedia.org/zh-tw/%E7%A5%80%E5%85%B8%E6%AD%A6%E5%BB%9F)
 - [Xingtian Temple Five Missions](https://www.ht.org.tw/p1_religion.htm)
 - [Vita News: Xingtian Temple reduces incense and offerings — worship without the smoke](https://vita.tw/%E8%A1%8C%E5%A4%A9%E5%AE%AE%E6%B8%9B%E9%A6%99%E7%A6%81%E4%BE%9B/)
 - [Story Studio: From Three Kingdoms Warrior to All-Purpose God — How Guan Yu Belief Took Shape](https://storystudio.tw/article/gushi/kuan-di-belief)

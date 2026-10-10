@@ -154,7 +154,7 @@ France took Vietnam. The Qing kept Taiwan. Six hundred French soldiers stayed in
 
 [^15]: [StoryStudio: Mining Historical Figures' Inner Lives from Diaries and Letters](https://storystudio.tw/article/watch-Taiwan-NMTH/from-bottom-of-their-heart) — British tea merchant John Dodd's diary entry of December 1, 1884. Cited in the NMTH "Xizai Fan Impressions" special exhibition.
 
-[^16]: [Pescadores campaign (1885), Wikipedia](<https://en.wikipedia.org/wiki/Pescadores_campaign_(1885)>) — French capture of the Pescadores in March 1885. Cholera broke out after landing; 15 dead and 20 hospitalized within three weeks.
+[^16]: [Pescadores campaign (1885), Wikipedia](https://en.wikipedia.org/wiki/Pescadores_campaign_(1885) — French capture of the Pescadores in March 1885. Cholera broke out after landing; 15 dead and 20 hospitalized within three weeks.
 
 [^17]: [Amédée Courbet, Wikipedia](https://en.wikipedia.org/wiki/Am%C3%A9d%C3%A9e_Courbet) — Courbet died on his flagship _Bayard_ on June 11, 1885, from cholera. Had contracted severe dysentery by April; health deteriorated rapidly after attending a funeral on June 8.
 
@@ -168,7 +168,7 @@ France took Vietnam. The Qing kept Taiwan. Six hundred French soldiers stayed in
 
 [^22]: [Liu Ming-chuan, Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E5%8A%89%E9%8A%98%E5%82%B3) — In 1885, Taiwan was separated from Fujian Province and became the Qing Empire's 20th province. Liu Ming-chuan served as first Governor from 1885 to 1891.
 
-[^23]: [Taiwan Railway (Qing dynasty), Wikipedia (Chinese)](<https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E9%90%B5%E8%B7%AF_(%E6%B8%85%E6%9C%9D)>) — Keelung-to-Hsinchu railway, approximately 107 km; construction began 1887, full line completed 1893. See also [CommonWealth: Liu Ming-chuan's Modernization Dream](https://www.cw.com.tw/article/5026963).
+[^23]: [Taiwan Railway (Qing dynasty), Wikipedia (Chinese)](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E9%90%B5%E8%B7%AF_(%E6%B8%85%E6%9C%9D) — Keelung-to-Hsinchu railway, approximately 107 km; construction began 1887, full line completed 1893. See also [CommonWealth: Liu Ming-chuan's Modernization Dream](https://www.cw.com.tw/article/5026963).
 
 [^24]: [Taipei Times: Exhuming French History in Taiwan (2001)](https://www.taipeitimes.com/News/feat/archives/2001/11/15/111666) — Keelung French military cemetery: approximately 600 interred, including 120 killed in action, 150 died of wounds, remainder dead of disease. Researcher Christophe Rouil corrected the memorial's figure of 700 to approximately 600. See also [Atlas Obscura](https://www.atlasobscura.com/places/sino-french-war-memorial-park).
 

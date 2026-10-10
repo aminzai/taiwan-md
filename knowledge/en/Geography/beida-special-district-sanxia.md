@@ -224,7 +224,7 @@ In 2026, as Sanying Line trains officially begin service, Beida Special District
 
 [^27]: [MRT Sanying Line 12 Stations' "Five Major Life Circles" Compete for Residents – Yahoo News](https://tw.news.yahoo.com/%E6%8D%B7%E9%81%8B%E4%B8%89%E9%B6%AF%E7%B7%9A12%E7%AB%99-%E4%BA%94%E5%A4%A7%E7%94%9F%E6%B4%BB%E5%9C%88-%E6%90%B6%E4%BA%BA%E9%9B%99%E5%8C%97%E5%B9%B4%E8%BC%95%E4%BA%BA%E5%87%BA%E8%B5%B0ing-003132062.html) — Provides background, data, or event context relevant to this article, serving as a basis for narrative and verification.
 
-[^28]: [Sanxia Beida Living Pavilion: A Breathing Green Building – Shih Hsin University Small World](https://shuj.shu.edu.tw/blog/2022/11/18/%E4%B8%89%E5%B3%BD%E5%8C%97%E5%A4%A7%E7%89%B9%E7%94%9F%E6%B4%BB%E9%A4%A8-%E6%9C%83%E5%91%BC%E5%90%B8%E7%9A%84%E7%B6%A0%E5%BB%BA%E7%AF%80/) — Provides background, data, or event context relevant to this article, serving as a basis for narrative and verification.
+[^28]: [Sanxia Beida Living Pavilion: A Breathing Green Building – Shih Hsin University Small World](https://shuj.shu.edu.tw/blog/2022/11/18/%E4%B8%89%E5%B3%BD%E5%8C%97%E5%A4%A7%E7%89%B9%E7%94%9F%E6%B4%BB%E9%A4%A8-%E6%9C%83%E5%91%BC%E5%90%B8%E7%9A%84%E7%B6%A0%E5%BB%BA%E7%AF%89/) — Provides background, data, or event context relevant to this article, serving as a basis for narrative and verification.
 
 [^29]: [Sanxia Ancient Battlefield Guide – Taiwan Historical Research](http://talin5814.web.fc2.com/war/iwe_study/11/sankyou/sankyou.htm) — Provides background, data, or event context relevant to this article, serving as a basis for narrative and verification.
 
