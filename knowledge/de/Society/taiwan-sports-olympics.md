@@ -44,9 +44,10 @@ verification:
     ]
   unverified: ['黃金計畫 3.0 (2024 巴黎週期) 預算總額']
 translatedFrom: 'Society/台灣體育發展與奧運.md'
-sourceCommitSha: '21298a7ae'
-sourceContentHash: 'sha256:a575707a54edea46'
-translatedAt: '2026-09-25T06:14:36.421291+00:00'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:e7727fb00a4fa3ab'
+sourceBodyHash: 'sha256:77348d4fbb7640a8'
+translatedAt: '2026-10-10T05:45:56.627941+00:00'
 ---
 
 # Sportentwicklung und Olympische Spiele in Taiwan: Ein Team namens „Chinesisch Taipeh“
@@ -159,14 +160,14 @@ NHK sagt „Taiwan desu“, France 2 sagt „das Taiwan, das wir kennen“, und 
 
 Von der verschlossenen „Taiwan“-Tür in Montreal 1976 bis zur ganzen Welt, die diese Mannschaft im Jahr 2024 in Paris als Taiwan bezeichnete – dazwischen geschah das: Eine Insel mit einem Trainingsgelände von sechunddreißig Quadratkilometern, vier aufeinanderfolgende zuständige Behörden, ein Projekt mit 1,2 Milliarden [Einheit fehlt], 52 Athleten und ein Lied, dessen Text mehrfach überarbeitet wurde, um den eigenen Namen langsam auf die Sitzplatzkarten der internationalen Wettkämpfe zu nähen. Bei den Olympischen Spielen in Los Angeles 2028 wird das Baseballteam zurückkehren, die Liste der Goldmedaillengewinner wird aktualisiert, und dieser Hut mag noch auf dem Kopf sein. Aber nach vier Jahrzehnten des Wettkampfs ist vielleicht das Wichtigste, was man sich merken sollte: Wenn Flagge, Lied und Emblem eingeschränkt sind, bleibt nur der Inhalt – und das ist das, was die Menschen auf dieser Insel nie aufgehört haben zu tun.
 
-## Weiterführende Lektüre
+## Weiterführende Lesestoffe
 
 - [Dai Zi-ying](/de/people/tai-tzu-ying): Das Mädchen aus Zuoying, Kaohsiung, wird dreifache Weltmeisterin
-- [Kuo Kuo-chun](/de/people/kuo-hsing-chun-olympic-weightlifting-champion): Der Weg zur Medaille bei drei Olympiaden im Gewichtheben
-- [Li Yang](/People/李洋): Lin und Yang schreiben die Geschichte der ersten Männerdoppel-Olympiasieger
+- [Kuo Hsun-chun](/de/people/kuo-hsing-chun-olympic-weightlifting-champion): Der Weg zur Medaille bei drei aufeinanderfolgenden Olympischen Spielen im Gewichtheben
+- [Li Yang](/de/people/lee-yang-badminton): Lin und Yang schreiben die Geschichte des ersten Olympiatitelverteidigers im Mixed-Doppel
 - [Yang Yongwei](/de/people/yang-yung-wei-judo-olympic-silver): Das Trainingssystem hinter der Silbermedaille in Judo bei den Olympischen Spielen 2020 in Tokio
-- [Chuang Chiyuan](/de/people/chuang-chih-yuan-table-tennis-legend): Der einsame König des Tischtennis mit vier aufeinanderfolgenden Asienmeisterschaften
-- [Taiwanisches Baseballkultur](/Culture/台灣棒球文化): Die hundertjährige Geschichte des Baseballs von Jianong bis zur CPBL
+- [Chuang Chih-yuan](/de/people/chuang-chih-yuan-table-tennis-legend): Der einsame König des asiatischen Tischtennisviertfachs
+- [Taiwanische Baseballkultur](/de/culture/taiwan-baseball-culture): Die hundertjährige Geschichte des Baseballs von Jianong bis zur CPBL
 
 ## Bildquellen
 

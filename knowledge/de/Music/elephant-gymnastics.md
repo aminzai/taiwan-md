@@ -27,9 +27,10 @@ imageCredit: 'TurquoiseGoose / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Elephant_Gym_Portland_2024.jpg'
 translatedFrom: 'Music/大象體操.md'
-sourceCommitSha: '8547b2665'
-sourceContentHash: 'sha256:71cdc104f7f3b8f4'
-translatedAt: '2026-09-26T04:11:48.849343+00:00'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:f9e17206eee03c4e'
+sourceBodyHash: 'sha256:b2179659aae39566'
+translatedAt: '2026-10-10T04:50:54.391161+00:00'
 ---
 
 # Elephant Gym: Das taiwanische Trio ohne Sänger, dessen Musik man trotzdem hört
@@ -239,13 +240,11 @@ Der Dokumentarfilm heißt 《比夢境更真實》. Der Weg, den die drei gegang
 
 ## Weiterführende Lektüre
 
-- [Pozzay](/de/music/sorry-youth-band) — Ebenfalls aus dem Süden stammend, nutzen Sprache zur Selbstpositionierung wie Elephant Gym, aber sie wählten Taiwanisch und die menschliche Stimme
-- [Fireworks Band](/de/music/fire-ex) — Geschwisterband aus Kaohsiung, traten 2022 beim Fuji Rock auf derselben Bühne wie Elephant Gym
-- [Sunset Rollercoaster](/de/music/sunset-rollercoaster) — Zeitgenössische taiwanische Indie-Vertreter auf der internationalen Bühne, verfolgen einen weichen City-Pop-Sound und singen auf Englisch – ein Kontrastpfad zur instrumentalen Technik-Ausrichtung von Elephant Gym
-- [Geschichte der taiwanischen Rockmusik](/de/music/taiwan-rock-from-underground-to-mainstream) — Entwicklungslinie von Wu Bai und Mayday bis zur Generation nach Sunset Rollercoaster
-- [Unabhängige Musik Taiwans](/de/music/indie-music-scene) — Die taiwanische Indie-Szene und das Label-Ökosystem
-
----
+- [Pai Xie Shao Nian](/de/music/sorry-youth-band) — Ebenfalls aus dem Süden stammend, eine zeitgenössische Band, die sich durch Sprache definiert, aber Taiwâ (Taiwanese Dialekt) und Gesang gewählt hat.
+- [Mieh Huo Qi Yue Tuan](/de/music/fire-ex) — Ein „Geschwister“ aus Kaohsiung; eine weitere kaohsiunger Gruppe, die beim Fuji Rock 2022 aufgetreten ist.
+- [Luo Ri Fei Che](/de/music/sunset-rollercoaster) — Ein Vertreter des taiwanesischen Indie-Szenenabgangs (Indie-Exporte), der mit dem weichen Stil von City Pop und Gesang in englischer Sprache eine Gegenlinie zu Elephants Gyms instrumentaler Technik bildet.
+- [Geschichte des taiwanischen Rock](/de/music/taiwan-rock-from-underground-to-mainstream) — Die Entwicklungslinie von Wu Bai, Mayday bis zur Generation Luo Ri Fei Che.
+- [Taiwanische Indie-Musik](/de/music/indie-music-scene) — Das taiwanesische Indie-Szenario und die Label-Ökonomie.
 
 ## Bildquellen
 

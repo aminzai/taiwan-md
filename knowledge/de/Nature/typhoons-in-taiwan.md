@@ -30,15 +30,19 @@ imageCredit: 'NASA MODIS Rapid Response (Aqua)'
 imageLicense: 'Public domain (NASA)'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Typhoon_Morakot_Aug_7_2009.jpg'
 sporeLinks:
-  [
-    "{'id': 115, 'platform': 'threads', 'date': '2026-06-03', 'url': 'https://www.threads.com/@taiwandotmd/post/DZHUHpQk02w'}",
-    "{'id': 116, 'platform': 'x', 'date': '2026-06-03', 'url': 'https://x.com/taiwandotmd/status/2062065024613679469'}",
-  ]
+  - id: 115
+    platform: 'threads'
+    date: '2026-06-03'
+    url: 'https://www.threads.com/@taiwandotmd/post/DZHUHpQk02w'
+  - id: 116
+    platform: 'x'
+    date: '2026-06-03'
+    url: 'https://x.com/taiwandotmd/status/2062065024613679469'
 translatedFrom: 'Nature/颱風.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:b0a47a120aff0621'
-sourceBodyHash: 'sha256:b8ebcfc4e0a96ce7'
-translatedAt: '2026-09-12T00:32:25+08:00'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:ae6eb429d45b37f4'
+sourceBodyHash: 'sha256:a891f90b49935053'
+translatedAt: '2026-10-10T05:59:40.287973+00:00'
 ---
 
 # Vorhersagen können Regen und Sturm, aber nicht das Schicksal: Taiwans 400 Jahre mit Taifun
@@ -152,23 +156,23 @@ Von den Regenfarb-Flaggen bis zur 30-tägigen Vorhersage in vier Minuten: Die Ge
 
 _DIGITIMES Tech Talk EP.4: Wie KI-Modelle den Wegfehler der Taifun-Vorhersage auf 57 Kilometer reduzieren._
 
-## 31,5 Milliarden: Wer zahlt dafür?
+## Who Pays the Price of NT$31.5 Billion?
 
-Der Taifun bringt auch ein einzigartiges taiwanesisches System mit, das ‚Taifun-Urlaub‘ genannt wird.
+Typhoons also bring a unique Taiwanese system called "typhoon leave."
 
-Der Ursprung dieses Systems liegt in einer Tragödie. Am 30. Juli 2001 traf der mäßige Taifun Peach beim Schulschutz die Lehrerin Hsu Bi-lan in der Grundschule Qingshan in Changhua, die dabei starb, als sie versuchte, die Schüler zu schützen. Der damalige Präsident Chen Shui-bian besuchte persönlich die Trauerfeier. Zwölf Jahre später, im Jahr 2013, wurde der ursprüngliche Arbeitsablauf offiziell in ‚Arbeitsablauf für den Fall von Naturkatastrophen‘ umbenannt. [^22]
+The origin of this system is a tragedy. On July 30, 2001, during the impact of Typhoon Morakot, Ms. Hsu Bi-lan, a teacher at Qingshan Elementary School in Changhua County, died while protecting her students after falling into a drainage ditch. The then-President Chen Shui-bian personally paid his respects at the funeral. Twelve years later, in 2013, the original operational guideline was officially named the "Regulations for Suspending Work and Classes Due to Natural Disasters."[^22]
 
-> **✦** „Jeden Tag, an dem Arbeit und Schule ruhen, verursacht der Schaden mehr als 31 Milliarden NT-Dollar.“
+> **✦** "Each day of suspension affects over NT$31 billion."
 
-Diese Aussage stammt von einem Gastbeitrag des ehemaligen Umweltministers Peng Qiming im Jahr 2005. Später wurde sie von dem Vorsitzenden des Dreier-Gremiums Lin Bo-xing mit den GDP-Daten von 2023 neu berechnet und ergab eine tägliche Nettoverlust von etwa 31,5 Milliarden NT-Dollar. [^4]
+This statement originated from a submission by former Minister of Environment Peng Chi-ming in 2005, which was later recalculated by the chairman of the SanSan Association, Lin Bo-feng, using 2023 GDP data to reach an estimated net loss of about NT$31.5 billion per day.[^4]
 
-Doch in dieser Rechnung fehlt ein strukturelles Problem. Eine Umfrage von yes123 mit 1.330 Arbeitnehmern ergab: 81 % gingen während des Taifuns trotzdem zur Arbeit, und 65 % davon wurden von ihrem Vorgesetzten angewiesen. Eine Umfrage von FTNN News ergab: 53,5 % der Arbeitnehmer erhielten weiterhin ihr volles Gehalt, während 37,7 % überhaupt kein Gehalt erhielten. [^7] Beamte und Büroangestellte warteten zu Hause auf die Urlaubsbestätigung, während die Arbeiter im Einzelhandel, in der Landwirtschaft, im Fischfang und in der Gastronomie an derselben Stelle weiterarbeiteten.
+However, this calculation misses a structural problem. A survey conducted by yes123 Job Bank among 1,330 workers found that 81% worked as usual on typhoon days, with 65% being required by their supervisors. A survey by FTNN News showed that 53.5% of workers received full pay, but 37.7% received no pay at all.[^7] Civil servants and office workers waited at home for holiday announcements, while workers in wholesale, retail, agriculture, fishing, animal husbandry, and catering continued to go out during the same typhoon.
 
-> **📝 Redaktionsnotiz**
+> **📝 Curator's Note**
 >
-> Die Geschichte des Taifun-Urlaubs ist im Prinzip die gleiche Geschichte wie der ‚Beschützer der Nation‘. Der Regen wird von den Bergen in Wasser verwandelt und fällt auf wenige Häuser? Die Urlaubsbestätigung wird an wen verteilt und wer wird ausgeschlossen? In derselben Taifun ist die Regenverteilung auf der Karte gleichmäßig, aber die Last tragen die Menschen niemals gleichmäßig.
+> The story of "typhoon leave" is actually two versions of the same story as the "sacred mountain protecting the nation." When the mountain turns wind into water, whose house does it flood? Who is given the day off by the suspension announcement, and who is overlooked? In one typhoon, rainfall on the map is uniform, but those who bear the cost are never uniform.
 
-Die vollständige Verteilung der Taifun-Urlaubs-Klassen, die Lücken in der 31,5-Milliarden-Rechnung und die Situation der ausländischen Arbeiter — das ist eine andere eigenständige Geschichte, die in [Taifun-Urlaub](/Society/颱風假) geschrieben steht.
+The full class distribution of "typhoon leave," the blind spots behind the NT$31.5 billion calculation, and the plight of migrant workers—these are another independent story, written in [Typhoon Leave](/de/society/typhoon-day).
 
 ## Das Wetterstation der Dorfgemeinschaft: Jahrtausende alte Weisheit ist das letzte Netz
 
@@ -218,13 +222,13 @@ Aber in diesem Morgen 2009, als Lo P’an-chun auf dem Balkon des zweiten Stocks
 
 Wir können Regen und Sturm vorhersagen, aber nicht das Schicksal.
 
-## Weiterführende Literatur
+## Further Reading
 
-- [Taifun-Urlaub](/Society/颱風假) — Dieselbe Taifun, aber im öffentlichen Sektor bleiben die Angestellten zu Hause, während die Arbeiter im Einzelhandel zur Arbeit gehen. Die Klassenunterschiede in der 31,5-Milliarden-Rechnung
-- [Taiwan und die Klimakrise: Der Weg zur Klimaneutralität](/Nature/台灣氣候危機與淨零轉型) — Die 40 % höhere Regenintensität des Taifuns im Hintergrund der globalen Erwärmung und Taiwans Energiewende
-- [Taiwans Hochlandökosystem und die verbliebenen Gletscherspalten](/Nature/台灣高山生態系與冰河孑遺) — Die Zentralkette verändert nicht nur die Route des Taifuns, sondern ist auch ein wertvolles Hochlandökosystem
-- [Monsun](/Nature/梅雨) — Neben dem Taifun ist der Monsun eine weitere wichtige Regenzeit in Taiwan, die ebenfalls vom Klimawandel betroffen ist
-- [Insel und Meereskultur](/Geography/離島與海洋文化) — Die traditionelle Architektur und die geografischen Namen der Lanyu-Dawu, die im Zeitalter der Taifun einen einzigartigen Schutzwert haben
+- [Typhoon Leave](/de/society/typhoon-day) — In the same typhoon, office workers in government stay home while wholesale and retail workers go out. The class divide missed by the NT$31.5 billion calculation
+- [Taiwan's Climate Crisis and Net Zero Transition](/de/nature/taiwan-climate-change-net-zero-transition) — Behind the 40% increase in typhoon rainfall intensity is the larger context of global warming and Taiwan's energy transition
+- [Taiwan's Mountain Ecosystems and Ice Age Relicts](/de/nature/taiwan-alpine-ecosystems-glacial-relicts) — The Central Mountain Range not only changes typhoon paths but is also home to the world's highest-altitude ecosystems
+- [May Rain](/de/nature/meiyu-stagnant-front) — Besides typhoons, May rain is another major rainy season source in Taiwan, which is also affected by climate change
+- [Islands and Marine Culture](/de/geography/offshore-islands-and-maritime-culture) — The traditional architecture and place knowledge of the Lanyu Atayal have unique disaster prevention value in the age of typhoons
 
 ## Bildnachweise
 
