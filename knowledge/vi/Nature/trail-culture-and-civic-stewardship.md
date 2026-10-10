@@ -1,169 +1,188 @@
 ---
-title: 'Văn hóa đường mòn Đài Loan và công tác bảo vệ công dân'
-description: 'Từ Hiệp hội Đường Tình Dặm Tới đến nền tảng iTrail, khám phá văn hóa bảo vệ đường mòn độc đáo của Đài Loan và tinh thần khoa học công dân'
+title: 'Văn hóa con đường đi bộ và bảo vệ công dân ở Đài Loan'
+description: 'Từ Hội đồng bằng lối đi bộ ngàn dặm đến nền tảng iTrail, khám phá văn hóa bảo vệ con đường đi bộ độc đáo và tinh thần khoa học công dân của Đài Loan'
 date: 2026-03-19
 category: 'Nature'
-tags: ['tự nhiên', 'đường mòn', 'khoa học công dân', 'bảo tồn sinh thái']
-subcategory: 'Công viên quốc gia và đường mòn'
+tags: ['Tự nhiên', 'con đường đi bộ', 'khoa học công dân', 'bảo vệ sinh thái']
+subcategory: '國家公園與步道'
 author: 'Taiwan.md Contributors'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Nature/台灣步道文化與公民守護.md'
-sourceCommitSha: 'f712b724'
-sourceContentHash: 'sha256:6a877621bb6ceb6f'
-sourceBodyHash: 'sha256:855af6d5f189b0bd'
-translatedAt: '2026-07-31T00:00:00Z'
-imageAlt: 'Một nhóm tình nguyện viên đang sửa chữa đường mòn trên núi Đài Loan'
+sourceCommitSha: '1440e2a2d'
+sourceContentHash: 'sha256:d52ac46a55e0087a'
+sourceBodyHash: 'sha256:7ff26ffe138f6405'
+translatedAt: '2026-10-10T16:15:51+08:00'
 ---
 
-# Văn hóa đường mòn Đài Loan và công tác bảo vệ công dân
+# Văn hóa con đường đi bộ và bảo vệ công dân ở Đài Loan
 
-Lúc năm giờ rưỡi sáng, trên đường mòn ở huyện T尖石 (Tân Trúc), một nhóm tình nguyện viên đang cúi xuống, cẩn thận dọn dẹp những mảnh đá lở xuống đêm hôm trước. Họ không phải những công nhân được chính phủ派遣, mà là các tình nguyện viên của Hiệp hội Tình Mạng Đường Tình Dặm — cảnh tượng này diễn ra mỗi tuần trên các đường mòn khắp rừng núi Đài Loan.
+Năm 2002, Lin Tung-hung (林宗弘) và Hsu Ming-hsian (徐銘謙), hai người thường xuyên cùng nhau leo núi vào cuối tuần, đã ra mắt "Tạm biệt cầu thang đá" — một chiến dịch kêu gọi các nhà leo núi gửi ảnh chụp công trình phá hủng con đường đi bộ. Những lá thư điện tử tích lũy được sau đó được họ tổng hợp thủ công và gửi cho Ủy ban Phát triển Kinh tế. Hsu Ming-hsian sau này trở thành Phó Giám đốc Điều hành của Hội đồng bằng lối đi bộ ngàn dặm, mang kinh nghiệm làm tình nguyện viên từ con đường Appalachian ở Hoa Kỳ mang về Đài Loan, phát triển thành "xây dựng con đường đi bộ thủ công". Một nhóm các nhà leo núi không còn muốn thấy cầu thang xi măng, đã khai sinh phong trào bảo vệ con đường đi bộ ở Đài Loan.
 
-Dù diện tích chỉ có 3,6 vạn ki-lô-mét vuông, Đài Loan sở hữu hơn 268 ngọn núi cao trên ba nghìn mét so với mực nước biển, mức độ tập trung hiếm có trên toàn cầu. Trên "hòn đảo núi cao" này, đường mòn không chỉ là con đường leo núi đi bộ, mà còn ghi lại giá trị văn hóa sâu sắc và ý nghĩa sinh thái. Từ những con đường săn bắn cổ của người bản địa, qua những con đường quản lý thời kỳ Nhật trị, tới hệ thống đường mòn quốc gia hiện đại, mỗi con đường đều kể một câu chuyện về mảnh đất này.
+Dù chỉ có diện tích 36.000 km², Đài Loan lại sở hữu hơn 268 ngọn núi cao hơn 3.000 mét, mật độ cực kỳ đông đúc trên toàn thế giới. Trên hòn đảo "xứ núi cao" này, con đường đi bộ không chỉ là lộ trình cho những người leo núi, mà còn ghi dấu ý nghĩa văn hóa sâu sắc và giá trị sinh thái. Từ các con đường săn cổ của người bản địa, qua những con đường khai hoá thời kỳ Nhật thuộc, cho đến hệ thống con đường quốc gia hiện đại, mỗi con đường đều kể một câu chuyện về mảnh đất này.
 
-## Sự khởi phát của phong trào bảo vệ đường mòn
+## Sự bùng nổ của phong trào bảo vệ con đường đi bộ
 
-### Tầm nhìn của Hiệp hội Tình Mạng Đường Tình Dặm
+### Tầm nhìn của Hội đồng bằng lối đi bộ ngàn dặm
 
-Vào ngày 23 tháng 4 năm 2006, phong trào Tình Mạng Đường Tình Dặm chính thức được khởi xướng; hiệp hội pháp nhân thành lập vào ngày 8 tháng 6 năm 2011.[^1] Hiệp hội đưa ra một tầm nhìn tưởng như không thể thực hiện được: kết nối mạng lưới xanh quanh đảo Đài Loan, để cho mọi người có thể tái khám phá hòn đảo này bằng cách gần gũi nhất với đất đai.
+Ngày 23 tháng 4 năm 2006, Huang Wu-hsiung (黃武雄), Xiao Ye (小野) và Hsu Jen-hsiu (徐仁修) cùng khởi xướng phong trào "Bằng lối đi bộ ngàn dặm". Họ đề xuất một tầm nhìn trông như không khả thi: kết nối mạng lưới xanh bao quanh đảo, để mọi người có thể hiểu biết về Đài Loan một cách gần gũi nhất.
 
-Năm 2012, hiệp hội chính thức đề xuất chính sách "không mất mát đường mòn tự nhiên, không tăng trưởng đường mòn bê tông", một khẩu hiệu đó vẫn là ý tưởng cốt lõi của phong trào bảo vệ đường mòn Đài Loan cho tới ngày nay. Nhà sáng lập Hiệp hội Hoàng Vũ Hùng từng nhấn mạnh rằng bảo vệ đường mòn nên hướng tới mục đích sống chung hòa bình với thiên nhiên, chứ không phải chinh phục rừng núi.[^2]
+Năm 2012, Hội đồng bằng lối đi bộ ngàn dặm đưa ra tầm nhìn tại Hội nghị NGO môi trường toàn quốc: "Con đường tự nhiên không mất thêm, con đường xi măng không thêm một bước nào nữa". Đến ngày hôm nay, câu nói này vẫn là trọng tâm của phong trào bảo vệ con đường đi bộ ở Đài Loan.
 
-Nền tảng của phong trào này bắt nguồn từ sự phản tư về tình trạng xi măng hoá quá mức trong vùng núi Đài Loan. Kể từ những năm 1990, nhiều con đường mòn đất đá đơn sơ đã bị "cải thiện" thành những bậc thang bê tông, mặc dù thuận tiện cho việc đi bộ, nhưng lại phá hủy cảnh quan tự nhiên, cũng chặn đứng chu kỳ thủy văn của rừng núi. Sự thành lập Hiệp hội Tình Mạng Đường Tình Dặm là để thay đổi chiều hướng của "tiến bộ giả tạo" này.
+Diện mạo của phong trào này xuất phát từ sự suy ngẫm về việc quá trình xi măng hóa quá mức của các khu vực núi. Nhiều con đường tự nhiên đã bị "cải thiện" thành cầu thang xi măng, dù tiện lợi cho việc đi lại nhưng đã phá hủy cảnh quan tự nhiên và cản trở chu trình thủy triều của rừng. Hội đồng bằng lối đi bộ ngàn dặm muốn đảo ngược xu hướng "tiến bộ hình thức" này.
 
 ### Từ bảo vệ đến tham gia: Sức mạnh của khoa học công dân
 
-Năm 2024, nền tảng đường mòn thông minh iTrail chính thức ra mắt, một ứng dụng kết hợp định vị di động và chức năng chụp ảnh, cho phép mỗi nhà leo núi trở thành người báo cáo tình trạng đường mòn.[^3] Chỉ cần phát hiện đường mòn bị hư hại, rác thải tích tụ hoặc phá hoại sinh thái, công chúng có thể ngay lập tức tải lên ảnh và thông tin vị trí, tạo thành một mạng lưới giám sát đường mòn toàn đảo theo thời gian thực.
+Tháng 6 năm 2024, Hội đồng bằng lối đi bộ ngàn dặm cùng với gần 40 tổ chức khác ra mắt "Mạng lưới Bảo vệ Con đường Đài Loan iTrail", biến mỗi người leo núi thành người báo cáo tình trạng con đường. Các nhà leo núi thêm trang web vào màn hình chính điện thoại, khi lên núi chụp ảnh về hư hỏng, phá hoại nhân tạo hoặc hỏng hóc cơ sở vật chất, chọn loại vấn đề và gửi báo cáo.
 
-Trong năm đầu tiên ra mắt nền tảng, đã nhận được hơn 15.000 báo cáo tình trạng đường mòn, bao gồm các tình huống như đường mòn bị sạt lở, xây dựng trái phép, động vật hoang dã bị kẹt và nhiều tình trạng khác. Những dữ liệu thứ nhất này trở thành cơ sở quan trọng để các bộ phận chính phủ và các tổ chức bảo tồn xây dựng chính sách.
+Đến tháng 10 năm 2026, trang web đã tích lũy được 2.702 báo cáo từ 314 người tham gia. Hội đồng cho biết những báo cáo này sẽ trở thành cơ sở dữ liệu để đối thoại với các cơ quan chính phủ, thúc đẩy sự quan tâm và sửa chữa các vấn đề trên con đường.
 
-## Ngày đường mòn Đài Loan: Một sự kiện thường niên với sự tham gia toàn dân
+## Ngày hội Con đường Đài Loan: Lễ hội tham gia toàn dân
 
-Mỗi năm từ ngày 6 tháng 6 đến 30 tháng 6 là "Ngày đường mòn Đài Loan", một cột mốc quan trọng trong văn hóa đường mòn Đài Loan. Hoạt động này được khởi xướng bởi Hiệp hội Tình Mạng Đường Tình Dặm, kêu gọi toàn bộ người dân Đài Loan tham gia thăm các đường mòn khác nhau trong tháng này và tiến hành các hoạt động giám sát "nhà khoa học công dân".
+Vào thứ Bảy đầu tiên của tháng 6 hàng năm là "Ngày hội Con đường Đài Loan", do Hội đồng bằng lối đi bộ ngàn dặm quy định, lần đầu tiên tổ chức vào năm 2014. Từ năm 2025, Hội đồng sẽ ra mắt chiến dịch giám sát đồng thời toàn quốc vào tháng 6, mời các nhà leo núi báo cáo qua điện thoại. Năm 2026 là năm thứ hai, hoạt động diễn ra từ ngày 6 đến ngày 30 tháng 6.
 
-Những người tham gia phải ghi lại các thông tin về chất liệu lát mặt đường mòn, chiều rộng, độ dốc, sinh thái xung quanh, rồi tải lên một cơ sở dữ liệu thống nhất. Những công việc thu thập dữ liệu tưởng như đơn giản này, thực ra là một "kiểm tra sức khỏe" của môi trường đường mòn Đài Loan. Thông qua sự tham gia của một lượng lớn tình nguyện viên, những nhà nghiên cứu có thể nắm bắt những thay đổi động của các đường mòn trên toàn Đài Loan, sớm phát hiện những vấn đề môi trường cần chú ý.
-
-Ngày đường mòn Đài Loan năm 2023, có hơn 3.000 tình nguyện viên tham gia, thăm gần 500 con đường mòn trên toàn Đài Loan, lượng dữ liệu tích lũy tương đương với công việc mười năm của một đội điều tra chuyên nghiệp.
+Báo cáo không cần mang theo dụng cụ đo lường, chỉ cần dựa trên "quy mô cơ thể" như chiều cao gối, cao đầu để quan sát và chụp ảnh tải lên. Khi khu vực không có tín hiệu, người có thể lưu nháp trước khi gửi sau khi xuống núi. Những dữ liệu đơn giản này thực chất là "kiểm tra sức khỏe" của môi trường con đường. Hội đồng hy vọng thông qua lượng báo cáo lớn tìm ra các điểm nóng vấn đề, sau đó thảo luận với cơ quan quản lý để khắc phục.
 
 ### Giá trị khoa học của việc kiểm tra lại sau mười năm
 
-Đặc biệt đáng chú ý là ba thành phố Đài Bắc, Tân Bắc và Đài Trung đã hoàn thành kế hoạch "kiểm tra lại lát mặt đường mòn sau mười năm". Những người điều tra đã so sánh tình trạng đường mòn giữa năm 2010 và 2020, phát hiện ra một xu hướng đáng lo ngại: tỷ lệ đường mòn bê tông tăng từ 35% lên 52%, trong khi những con đường mòn giữ nguyên mặt đất đá tự nhiên giảm từ 48% xuống 31%.
+Nền tảng của phong trào này là các cuộc khảo sát mặt bằng. Từ năm 2012, gần 60 tình nguyện viên được đào tạo dành hơn hai năm để hoàn thành 272 con đường đi bộ ven đô thị do chính quyền thành phố Bắc Đài và Tân Bắc quản lý. Kết quả công bố năm 2014 cho thấy: tỉ lệ con đường xi măng ở Bắc Đài gần đạt 75%, trong khi con đường tự nhiên không có bất kỳ công trình nào chỉ còại 10%. Ở Tân Bắc, tỉ lệ xi măng khoảng 27%, nhưng kết hợp với cầu kính và gỗ thủ công, tổng cộng chiếm 64%. Năm 2018, cuộc khảo sắc "Bằng lối đi bộ trăm dặm" ở Thượng Hải cũng ghi nhận tỉ lệ xi măng lên tới 54.6%.
 
-Những dữ liệu này đã thúc đẩy chính quyền địa phương đưa "chính sách hai không" vào hướng chính sách xây dựng đường mòn.
+Mười năm sau đó, Hội đồng bằng lối đi bộ ngàn dặm sử dụng cùng phương pháp để đi lại lại những con đường này vào mùa hè năm 2023, mất hai năm rưỡi để khảo sát 324 con đường tổng cộng 572,5 km. Kết quả công bố tại Ngày hội Con đường Đài Loan năm 2025 cho thấy: tỉ lệ xi măng ở Bắc Đài giảm từ 74% xuống còn 47%, con đường tự nhiên tăng từ 10% lên 27%; ở Thượng Hải, tỉ lệ xi măng giảm từ 54.6% xuống 37%; cả hai thành phố lớn đều tăng cường đáng kể cả về tỉ lệ và quãng đường của các con đường tự nhiên.
 
-## Hệ thống đường mòn đa dạng của Đài Loan
+Ở Bắc Đài nơi tỉ lệ giảm, số lượng xi măng thực sự giảm khoảng 10 km; ở Tân Bắc, số lượng tăng khoảng 32 km. Tổng cộng cả hai thành phố, tỉ lệ xi măng vẫn tăng thêm khoảng 22 km.
 
-### Đường mòn núi cao: Thách thức và sự kỳ vĩ
+## Hệ thống đa dạng của mạng lưới con đường Đài Loan
 
-Những con đường mòn núi cao của Đài Loan nổi tiếng với độ dốc và vẻ đẹp kỳ vĩ. Đường mòn đỉnh núi Ngọc Sơn, đường mòn đỉnh núi Tuyết Sơn, đường mòn A Lý Nam Hoa, đều là những điểm thiêng liêng trong lòng những người yêu leo núi. Những con đường mòn này thường cần xin phép vào rừng và có kiểm soát khả năng chịu tải nghiêm ngặt, mục đích là bảo vệ sự cân bằng sinh thái mong manh của núi cao.
+### Con đường đi bộ trên núi cao: Thách thức và vẻ đẹp
 
-Bảo trì đường mòn núi cao đặc biệt khó khăn, cần dùng trực thăng vận chuyển vật liệu, chi phí cực cao. Vì vậy, những con đường mòn này càng cần sự tự giác và chăm sóc của những nhà leo núi. Khái niệm "không để lại dấu tích trên núi" (Leave No Trace, LNT) đặc biệt quan trọng trên những con đường mòn núi cao, mỗi mảnh rác, mỗi dấu chân đều có thể để lại ảnh hưởng lâu dài đến sinh thái.
+Những con đường đi bộ trên các ngọn núi cao của Đài Loan nổi tiếng thế giới vì độ dốc và vẻ đẹp hùng tráng. Như con đường Yushan Chính đỉnh, Sunshan Chính đỉnh, hay Qilai Nam Hua, đây là nơi mơ ưỐc của mọi người thích leo núi. Những con đường này thường yêu cầu xin giấy phép lên núi và có kiểm soát chặt chẽ về sức chứa, nhằm bảo vệ sự cân bằng sinh thái mong manh của các ngọn núi.
 
-### Núi trung cấp: Tinh hoa leo núi của Đài Loan
+Bảo trì những con đường trên núi cao rất khó khăn, cần sử dụng trực thăng để vận chuyển liệu liệu, chi phí rất cao. Do đó, những con đường này càng cần sự tự trừng phạm và tình yêu thương từ các nhà leo núi. Khái niệm "Để lại không dấu vết" (Leave No Trace, LNT) đặc biệt quan trọng trên những con đường núi cao — mỗi mảnh giấy rác, mỗi dấu chân đều có thể gây tác động lâu dài đến sinh thái.
 
-Núi có độ cao từ 1.000 tới 3.000 mét, được nhiều người coi là tinh hoa của leo núi ở Đài Loan. Nơi đây có sinh thái rừng phong phú, cũng có điều kiện khí hậu tương đối ôn hoà, là nơi tuyệt vời để rèn luyện kỹ năng leo núi.
+### Núi trung bình: Tinh hoa của nghệ thuật leo núi Đài Loan
 
-Đường mòn Đại Bá Giao Sơn, những đỉnh núi Hợp Hoan Sơn, những con đường mòn A Lý Sơn, đều là những đại diện của đường mòn núi trung cấp. Những con đường mòn này thường có thể hoàn thành trong một hoặc hai ngày, phù hợp với sự tham gia của công chúng nói chung, cũng là một lĩnh vực quan trọng để thúc đẩy giáo dục rừng núi.
+Những ngọn núi có độ cao từ 1.000 đến 3.000 mét thường được nhiều người coi là tinh hoa của nghệ thuật leo núi Đài Loan. Nơi đây có rừng sinh thái phong phú và điều kiện khí hậu ôn hòa, là nơi lý tưởng để rèn luyện kỹ năng leo núi.
 
-### Núi ngoại ô: Khu vườn xanh phía sau của thành phố cho con người đô thị
+Khu vực Ali Mountain nằm trong dải độ cao này. Nhiều con đường trung bình có thể hoàn thành trong một hoặc hai ngày, phù hợp với sự tham gia chung của người dân, đồng thời là nền tảng quan trọng cho giáo dục rừng.
 
-Đối với hầu hết người dân Đài Loan, những con đường mòn ngoại ô là môi trường tự nhiên dễ tiếp cận nhất. Những con đường mòn ngoại ô Đài Bắc như đường mòn Tượng Sơn, đường mòn Hổ Sơn, đường mòn Kiếm Đàn Sơn, mỗi cuối tuần đều thu hút một lượng lớn cư dân thành phố.
+### Núi ven thành phố: Khu vườn xanh của người dân đô thị
 
-Mặc dù những con đường mòn ngoại ô không cao, nhưng ý nghĩa nhân văn mà chúng mang không thua gì những con đường mòn núi cao. Nhiều con đường mòn ngoại ô dọc theo bố trí các tiện ích như nhà kính, các bục quan sát, là không gian quan trọng để cư dân thành phố vận động, giữ gìn sức khỏe, hay cả gia đình đi chơi cùng nhau. Làm sao cân bằng giữa tính tiện lợi và bảo vệ môi trường là một câu hỏi quan trọng trong quản lý đường mòn ngoại ô.
+Đối với hầu hết người dân Đài Loan, những con đường ven thành phố là môi trường tự nhiên dễ tiếp cận nhất. Các con đường như Evergreen Mountain, Tiger Mountain, Jian Tan Mountain thu hút đông đảo dân cư mỗi cuối tuần.
 
-### Cổ đạo: Dấu chân của lịch sử
+Dù độ cao không cao, nhưng những con đường ven thành phố mang ý nghĩa nhân văn không kém các ngọn núi lớn. Nhiều con đường ven thành phố được trang bị các công trình như hiên, điểm ngắm, trở thành không gian quan trọng cho người dân tập thể dục, đi dạo gia đình. Cách bố trí công cụ tiện nghi cho người dân và bảo vệ môi trường tự nhiên là một thách thức quan trọng trong quản lý những con đường này.
 
-Những cổ đạo của Đài Loan ghi lại sự vất vả của những người tiên phong trong việc mở đất, cũng bảo tồn dấu vết của sự trao đổi giữa các dân tộc khác nhau.
+### Con đường cổ: Dấu mốc lịch sử
 
-**Cổ đạo Đạm Lan** là một trong những hệ thống cổ đạo nổi tiếng nhất của Đài Loan, kết nối Đài Bắc và Nghi Lan, toàn dài khoảng 200 ki-lô-mét.[^4] Con đường này chia thành ba tuyến chính (đường chính thức, đường dân sự, đường trà), mỗi tuyến đều có những nền tảng lịch sử và đặc thù văn hóa khác nhau. Trong những năm gần đây, chính quyền Tân Bắc và các tổ chức dân sự đã hợp tác để từng phần phục hồi cổ đạo Đạm Lan, để cho nhiều người có thể trải nghiệm những con đường mà những người tiên phong đã đi qua.
+Những con đường cổ ghi lại hành trình khó khăn của những người khai hoá ban đầu, đồng thời lưu giữ những dấu vết giao thoa giữa các dân tộc.
 
-**Cố Tuyến Chi Mao Lộ** là một hệ thống cổ đạo khác có ý nghĩa quan trọng. Con đường này chạy dọc theo vùng núi thấp phía tây của Đài Loan, từ Đào Viên kéo dài tới Đài Trung, toàn dài khoảng 400 ki-lô-mét. Tên gọi xuất phát từ nguồn tài nguyên cây sọc vì phong phú dọc tuyến, cũng như những con đường nhỏ mảnh còn lại từ ngành công nghiệp cây sọc thời kỳ đầu. Cố Tuyến Chi Mao Lộ là một dải văn hóa, kết nối lịch sử văn hóa Khách Gia, văn hóa người bản địa và lịch sử định cư của người Hán.
+**Con đường Tanran** là một trong những hệ thống con đường cổ nổi tiếng nhất ở Đài Loan, xuất phát từ Bắc Đài, đi qua Tân Bắc và Kaohsiung, kết thúc ở Yilan, tổng chiều dài hơn 200 km. Đường đi này chia thành ba tuyến chính: Bắc lộ (đường chính), Trung lộ (đường dân sự), Nam lộ (đường trà), mỗi tuyến đều có nền tảng lịch sử và đặc trưng văn hóa riêng. Gần đây, chính quyền Tân Bắc hợp tác với các tổ chức xã hội để khôi phục từng phần của con đường Tanran, mang lại cơ hội cho nhiều người trải nghiệm hành trình của những người khai hoá.
 
-**Quốc Lộ Xanh Sơn Hải Tát** là một kế hoạch đường mòn khoảng cách dài mới nhất của Đài Loan, kéo dài từ đỉnh núi Ngọc Sơn tới Công viên Quốc gia Đài Giang, toàn dài 177 ki-lô-mét. Đặc thù của con đường này nằm ở chỗ nó bao trùm những môi trường sinh thái đa dạng nhất của Đài Loan, từ núi cao vùng lạnh, rừng vùng ôn đới, thành bằng phẳng vùng ấm nóng bán nhiệt đới, tới đất ngập nước bờ biển, là một tuyến đường lý tưởng để tìm hiểu môi trường tự nhiên Đài Loan.
+**Con đường Trúc Tinh** là một hệ thống con đường cổ khác mang ý nghĩa quan trọng. Đường chính dựa trên tuyến đường số 3, đi dọc theo khu vực đồng bằng phía tây của Đài Loan, từ Long Tấm ở phía bắc đến Đông Tịnh ở phía nam, tổng chiều dài khoảng 270 km, cộng với các con đường phụ xung quanh khoảng 400 km. Tên gọi xuất phát từ nguồn nguyên liệu trúc phong phong phú và công nghiệp mỡ ở thời xa, con đường Trúc Tinh là một dải văn hóa kết nối nền văn hóa Hakka, văn hóa bản địa và lịch sử định cư của người Hán.
 
-## Sự khởi phát của văn hóa tình nguyện viên đường mòn
+**Con đường Quốc gia Xanh Biển và Núi (Thái Lan)** kéo dài từ mực độ biển 0 ở Vườn quốc gia Thái Lan cho đến đỉnh Yushan, tổng chiều dài 177 km, hình thành năm 2017 nhờ sự kết nối từ trường đại học Thái Lan ở vịnh nội đến Yushan. Đường đi này đặc trưng bở sự đa dạng sinh học, từ vùng lạnh núi cao, rừng nhiệt đới ôn hòa, đến đồng bằng nhiệt đới ẩm ở bờ biển, là tuyến đường lý tưởng để khám phá môi trường tự nhiên của Đài Loan.
+
+## Sự bùng nổ của văn hóa tình nguyện trên con đường
 
 ### Từ bảo trì thụ động đến bảo vệ chủ động
 
-Văn hóa tình nguyện viên đường mòn Đài Loan có một quỹ đạo phát triển độc đáo. Lúc đầu, các hoạt động tình nguyện hầu hết được tổ chức bởi các cơ quan chính phủ, sự tham gia của công chúng tương đối thụ động. Nhưng khi ý thức bảo vệ môi trường tăng cao, ngày càng nhiều người dân bắt đầu chủ động quan tâm tới môi trường đường mòn, hình thành những lực lượng bảo vệ tự phát.
+Văn hóa tình nguyện trên con đường ở Đài Loan có quá trình phát triển đặc biệt. Ban đầu, hoạt động tình nguyện chủ yếu do các cơ quan chính phủ tổ chức, sự tham gia của cộng đồng so với hiện nay còn thụ động. Nhưng khi nhận thức bảo vệ môi trường ngày càng được nâng cao, ngày càng nhiều người dân chủ động quan tâm đến môi trường con đường, hình thành lực lượng bảo vệ tự phát.
 
-Hiện nay, toàn Đài Loan có hơn 200 nhóm nhận nuôi đường mòn, từ các hội phát triển cộng đồng, các câu lạc bộ leo núi, tới các đội tình nguyện viên doanh nghiệp, đều tham gia vào công việc bảo trì đường mòn. Những tình nguyện viên này không chỉ là thu gom rác thải mà thôi, họ học hỏi những kỹ thuật kỹ sư đường mòn cơ bản, những phương pháp giám sát sinh thái, thậm chí tham gia vào lập kế hoạch và thiết kế đường mòn, trở thành những "bảo vệ đường mòn" thực sự.
+Trong số gần 40 tổ chức cùng khởi xướng Mạng lưới Bảo vệ Con đường Đài Loan năm 2024, có cả các câu lạc bộ leo núi, đội cứu hộ sự cố núi, các đoàn thể thao, trường học cộng đồng và doanh nghiệp cung cấp dịch vụ dã ngoại. Những tình nguyện viên không chỉ dọn rác, mà còn học kỹ thuật kỹ thuật cơ bản về thiết kế con đường, phương pháp giám sát sinh thái, thậm chí tham gia vào lập kế hoạch thiết kế con đường, trở thành những "người bảo vệ thực sự".
 
-### Đào tạo tình nguyện viên chuyên nghiệp hoá
+### Đào tạo chuyên nghiệp cho tình nguyện viên
 
-Hiệp hội Tình Mạng Đường Tình Dặm đã xây dựng một hệ thống đào tạo tình nguyện viên hoàn chỉnh, bao gồm các khóa học "học về đường mòn", đào tạo kỹ thuật thực hành, kỹ năng điều tra sinh thái và những thứ khác. Những tình nguyện viên học cách dùng vật liệu địa phương để sửa chữa đường mòn, cách xác định nguyên nhân hư hỏng đường mòn, cách tiến hành phục hồi thực vật và những kỹ năng chuyên nghiệp khác.
+Hội đồng bằng lối đi bộ ngàn dặm đã thiết lập một hệ thống đào tạo tình nguyện viên hoàn chỉnh: Năm 2013, họ đưa ra khái niệm "Học thuật về con đường", hợp tác với các trường học cộng đồng địa phương để mở lớp, từ năm 2015 bắt đầu đào tạo "Giáo viên con đường", năm 2018 tôn vinh "Giáo viên danh dự" cho những người bảo tồn kỹ năng truyền thống. Những tình nguyện viên học cách sử dụng nguyên liệu địa phương để sửa chữa con đường, cách phân tích nguyên nhân hư hỏng, cách thực hiện trồng cây phục hồi sinh thái và các kỹ năng chuyên nghiệp khác.
 
-Loại đào tạo tình nguyện viên chuyên nghiệp hoá này, đã nâng bảo trì đường mòn từ "giúp đỡ với thiện chí" lên tới mức "tham gia chuyên nghiệp". Kỹ thuật của nhiều tình nguyện viên lâu năm, thậm chí không kém những kỹ sư đường mòn chuyên nghiệp.
+Sự đào tạo chuyên nghiệp này giúp công tác bảo trì con đường tiến từ "giúp đỡ tốt ý" lên "tham gia chuyên nghiệp". Nhiều tình nguyện viên có trình độ kỹ thuật không kém các kỹ sư chuyên nghiệp.
 
-## Không để lại dấu tích trên núi ở Đài Loan
+## Áp dụng nguyên tắc LNT ở Đài Loan
 
-### Thực thi các nguyên tắc LNT bảy điểm tại địa phương
+### Thực tiễn địa phương của bảy nguyên tắc LNT
 
-Khái niệm không để lại dấu tích trên núi (Leave No Trace, LNT) bắt nguồn từ Hoa Kỳ, nhưng ở Đài Loan lại có sự phát triển tại địa phương độc đáo. Vùng núi Đài Loan có mật độ dân cư cao, môi trường sinh thái mong manh, nhu cầu về LNT càng nấn tương.
+Khái niệm "Để lại không dấu vết" (Leave No Trace, LNT) xuất xứ từ Hoa Kỳ, nhưng ở Đài Loan đã phát triển theo cách riêng. Do dân số miền núi đông đúc và môi trường sinh thái mong manh, nhu cầu áp dụng LNT càng trở nên cấp bách.
 
-Bảy nguyên tắc LNT: "lập kế hoạch và chuẩn bị kỹ lưỡng trước", "đi bộ và cắm trại tại những nơi có khả năng chịu tải", "xử lý rác đúng cách để bảo vệ môi trường", "giữ nguyên vẻ tự nhiên của môi trường", "giảm thiểu tác động của việc dùng lửa đối với môi trường", "tôn trọng động vật và thực vật hoang dã", "cân nhắc tới những người sử dụng khác", tất cả đều có những phương thức thực thi cụ thể ở Đài Loan.
+Bảy nguyên tắc LNT do Sở Lâm thúc đẩy: "Lập kế hoạch và chuẩn bị đầy đủ trước khi đi", "Đi bộ và ở lại nơi có khả năng chịu đựng", "Xử lý rác thải và duy trì môi trường sạch sẽ", "Giữ nguyên bản chất tự nhiên của môi trường", "Giảm thiểu tác động của lửa đến môi trường", "Tôn trọng động thực vật hoang dã", "Cân nhắc đến người sử dụng khác". Ở Đài Loan, mỗi nguyên tắc đều có cách thực hành cụ thể.
 
-### Những thách thức độc đáo của Đài Loan
+### Thách thức đặc trưng của Đài Loan
 
-Môi trường vùng núi đặc biệt của Đài Loan mang lại những thách thức độc đáo cho thực thi LNT. Chẳng hạn, môi trường ẩm độ cao của Đài Loan làm cho rác thịt mục rã chậm, xử lý sai có thể gây ra các động vật hoang dã như khỉ; địa chất không ổn định của Đài Loan cần đặc biệt chú ý tới lựa chọn địa điểm cắm trại; mật độ dân số leo núi cao của Đài Loan, cần nhấn mạnh hơn nữa tôn trọng đối với những người sử dụng khác.
+Môi trường đặc biệt của miền núi Đài Loan mang lại những thách thức riêng cho việc thực hành LNT. Ví dụ, môi trường ẩm cao của Đài Loan khiến chất thải thực phẩm phân hủy chậm; đất địa hình không ổn định đòi hỏi phải chú ý đặc biệt khi chọn nơi cắm trại; dân số leo núi đông đúc đòi hỏi phải nhấn mạnh sự tôn trọng lẫn nhau.
 
-Để giải quyết những vấn đề này, giới leo núi Đài Loan đã phát triển nhiều phương pháp thực thi LNT tại địa phương, như văn hóa "bọc rác thịt mang xuống núi", phương thức quản lý "luân phiên sử dụng địa điểm cắm trại hoang dã" và những thứ khác.
+Để giải quyết những vấn đề này, Sổ tay LNT của Sở Lâm yêu cầu khi rời khỏi nơi cắm trại phải mang theo rác, thực phẩm và chất thải thực phẩm — không được đốt và cũng không được chôn: Đốt có thể thu hút sự chú ý của động vật hoang dã hoặc làm chúng hoảng sợ; rác chôn xuống có thể bị động vật hoang dã lật ra, hoặc bị gió mưa cuốn trôi.
 
-## Công nghệ và bảo vệ đường mòn
+## Công nghệ và bảo vệ con đường
 
-### Ứng dụng của công cụ kỹ thuật số
+### Ứng dụng công nghệ số
 
-Công nghệ hiện đại mang lại những khả năng mới cho bảo vệ đường mòn. Ngoài nền tảng iTrail mà đã đề cập ở trên, còn có nhiều ứng dụng sáng tạo đang thay đổi khuôn mặt của quản lý đường mòn.
+Công nghệ hiện đại mang lại những khả năng mới cho bảo vệ con đường. Ngoài nền tảng iTrail đã đề cập, còn nhiều ứng dụng đổi mới đang thay đổi khuôn mặt quản lý con đường.
 
-Hệ thống theo dõi GPS có thể giám sát chính xác tình trạng sử dụng đường mòn, giúp các bộ phận quản lý xây dựng kiểm soát khả năng chịu tải hợp lý; công nghệ chụp ảnh bằng máy bay không người lái có thể nhanh chóng điều tra những vùng rộng lớn về tình trạng hư hỏng đường mòn; cảm biến môi trường có thể giám sát theo thời gian thực những chỉ số môi trường như chất lượng không khí, mức độ tiếng ồn.
+Hệ thống theo dõi GPS có thể giám sát chính xác tình trạng sử dụng con đường, giúp các đơn vị quản lý thiết lập quy định hợp lý về sức chứa; công nghệ drone có thể nhanh chóng khảo sát diện tích rộng lớn của hư hỏng trên con đường; cảm biến môi trường có thể giám sát thời gian thực về chất lượng không khí, tiếng ồn và các chỉ số môi trường khác.
 
-### Dữ liệu lớn và bảo trì dự đoán
+### Từ báo cáo đến cơ sở dữ liệu
 
-Bằng cách tích hợp những nguồn dữ liệu đa dạng, những nhà nghiên cứu bắt đầu thử nghiệm xây dựng những mô hình dự đoán cho bảo trì đường mòn. Kết hợp dữ liệu khí tượng, dữ liệu địa chất, thống kê lượng sử dụng và những thông tin khác, có thể dự đoán những đoạn đường nào có xu hướng bị hư hỏng vào thời gian nào, từ đó thực hiện bảo trì phòng ngừa trước.
-
-Khái niệm "bảo trì dự đoán" này, có thể giảm đáng kể chi phí bảo trì đường mòn, cũng tránh được những rủi ro mà hư hỏng đường mòn gây ra cho những người sử dụng.
+Năm 2026, Hội đồng bằng lối đi bộ ngàn dặm cho biết bước tiếp theo là phát triển "Hệ thống học tập trực tuyến" và "Nhận dạng cơ sở dữ liệu AI", đồng thời ký kết thỏa thuận hợp tác với các trường đại học để tổng hợp báo cáo công dân thành dữ liệu có thể sử dụng cho nghiên cứu chính sách.
 
 ## Những thách thức và triển vọng
 
-### Mối đe dọa từ biến đổi khí hậu
+### Nguy cơ từ biến đổi khí hậu
 
-Biến đổi khí hậu toàn cầu gây ra những tác động nặng nề tới môi trường rừng núi của Đài Loan. Những sự kiện thời tiết cực đoan tăng lên, làm cho hư hỏng đường mòn trở nên tần suất cao hơn; sự gia tăng nhiệt độ thay đổi phân bố thực vật, ảnh hưởng tới sự cân bằng sinh thái xung quanh đường mòn; thay đổi mô hình mưa tăng nguy cơ sạt lở đất đá.
+Biến đổi khí hậau toàn cầu gây tác động nặng nề đến môi trường rừng núi ở Đài Loan. Các sự kiện thời tiết cực đoan ngày càng tăng, khiến hư hỏng con đường xảy ra thường xuyên hơn; sự tăng nhiệt độ thay đổi sự phân bố thực vật, ảnh hưởng đến cân bằng sinh thái xung quanh con đường; thay đổi mưa làm tăng nguy cơ đất đá lở.
 
-Đối mặt với những thách thức này, lập kế hoạch và bảo trì đường mòn cần chú trọng hơn tới thích ứng với khí hậu. Áp dụng những vật liệu bền hơn với thời tiết, thiết kế hệ thống thoát nước hoàn thiện hơn, xây dựng những cơ chế đối ứng linh hoạt hơn, đều là những hướng điều chỉnh cần thiết.
+Đối mặt với những thách thức này, việc lập kế hoạch và bảo trì con đường phải chú trọng hơn đến sự thích ứng với khí hậau. Sử dụng vật liệu chịu thời tiết tốt hơn, thiết kế hệ thống thoát nư Splendid hơn, xây dựng cơ chế ứng phó linh hoạt hơn — đây là những điều chỉnh cần thiết.
 
-### Tầm quan trọng của truyền lại cho thế hệ sau
+### Tầm quan trọng của sự truyền lưu thế hệ
 
-Phong trào bảo vệ đường mòn Đài Loan đang đứng trước một thời kỳ chuyển giao thế hệ quan trọng. Nhiều tình nguyện viên lâu năm đã hơn sáu mươi tuổi, làm sao để thu hút những thanh niên tham gia vào công tác bảo vệ đường mòn, là một câu hỏi quan trọng.
+Hiện nay, phong trào bảo vệ con đường ở Đài Loan đang đứng ở thời điểm chuyển giao thế hệ quan trọng, làm thế nào thu hút giới trẻ tham gia vào công tác bảo vệ con đường là một vấn đề cần được giải quyết.
 
-Những tình nguyện viên thế hệ mới mang lại những kỹ năng và tầm nhìn khác nhau, như tiếp thị kỹ thuật số, quản lý mạng xã hội, ứng dụng công nghệ. Làm sao kết hợp kinh nghiệm rừng núi của thế hệ cũ với những công cụ kỹ thuật số của thế hệ mới, là câu hỏi cốt lõi ở giai đoạn tiếp theo của phong trào bảo vệ đường mòn.
+Thế hệ trẻ mang lại kỹ năng và tầm nhìn khác nhau, như marketing số, quản lý cộng đồng trực tuyến, ứng dụng công nghệ. Cách kết hợp kinh nghiệm rừng của thế hệ trước với công cụ số của thế hệ sau sẽ là vấn đề cốt lõi của giai đoạn kế tiếp của phong trào bảo vệ con đường.
 
-### Trao đổi quốc tế và học hỏi
+### Hợp tác và học hỏi quốc tế
 
-Văn hóa đường mòn Đài Loan đã bắt đầu bước ra quốc tế. Hiệp hội Tình Mạng Đường Tình Dặm đã xây dựng những quan hệ hợp tác với những tổ chức như "みちのく潮風トレイル" của Nhật Bản, "Jeju Olle Trail" của Hàn Quốc, và những tổ chức khác, tương hỗ học hỏi về kinh nghiệm lập kế hoạch và quản lý đường mòn.
+Văn hóa con đường ở Đài Loan đã bắt đầu mở rộng ra quốc tế. Năm 2018, Hội đồng bằng lối đi bộ ngàn dặm ký thỏa thuận hợp tác "Con đường bạn bè" với tỉnh Jeju ở Hàn Quốc; năm 2023, kết nối con đường trăm năm Tanran với tỉnh Miyagi ở Nhật Bản, đồng thời nhận nhiệm vụ bí thư của Hiệp hội Con đường châu Á.
 
-Loại trao đổi quốc tế này không chỉ làm phong phú thêm nội hàm văn hóa đường mòn của Đài Loan, mà còn nâng cao vị thế của Đài Loan trong cộng đồng đường mòn quốc tế. Kinh nghiệm quản lý đường mòn của Đài Loan, dần dần được cộng đồng đường mòn khu vực Á-Thái quan tâm.
+Sự hợp tác quốc tế không chỉ làm phong phú thêm nội dung văn hóa con đường của Đài Loan, mà còn nâng cao vị thế của Đài Loan trong cộng đồng quốc tế. Kinh nghiệm quản lý con đường của Đài Loan dần được cộng đồng các con đường trong khu vực Thái Lan chú ý.
 
-## Kết luận: Đường mòn như biểu hiện của những giá trị Đài Loan
+## Kết luận: Con đường như biểu tượng của giá trị Đài Loan
 
-Văn hóa đường mòn Đài Loan biểu hiện những giá trị độc đáo của hòn đảo này: tôn trọng môi trường tự nhiên, tham gia vào những công việc công cộng, theo đuổi những kiến thức chuyên môn, coi trọng hợp tác xã hội. Từ "chính sách hai không" của Hiệp hội Tình Mạng Đường Tình Dặm, tới sự tham gia công dân của nền tảng iTrail, rồi tới đạo đức môi trường của không để lại dấu tích trên núi, những nỗ lực này cùng nhau dệt nên một lưới an toàn bảo vệ rừng núi Đài Loan.
+Văn hóa con đường ở Đài Loan phản ánh những giá trị đặc trưng của hòn đảo này: sự tôn trọng môi trường tự nhiên, sự tham gia vào công việc công cộng, sự tìm kiếm kiến thức chuyên môn, và sự quan tâm tới hợp tác cộng đồng. Từ "chính sách hai con số không" của Hội đồng bằng lối đi bộ ngàn dặm, đến nền tảng tham gia công dân iTrail, cho đến đạo đức môi trường LNT, tất cả những nỗ lực này cùng kết nối thành một mạng lưới bảo vệ rừng của Đài Loan.
 
-Mỗi con đường mòn đều là một câu chuyện, mỗi dấu chân đều là một lời hứa. Khi chúng ta đi bộ trên những con đường này, chúng ta không chỉ là di chuyển cơ thể, mà còn là tiếp tục một truyền thống văn hóa, thực hành một trách nhiệm môi trường.
+Mỗi con đường là một câu chuyện, mỗi dấu chân là một lời hứa. Khi chúng ta bưỚc trên những con đường này, chúng ta không chỉ di chuyển cơ thể, mà còn kế thừa một truyền thống văn hóa, thực hiện trách nhiệm môi trường.
 
-Văn hóa đường mòn Đài Loan nói lên một điều: bảo vệ môi trường có thể do mỗi một người yêu mến mảnh đất này tham gia, không cần phải đợi chính phủ hay các chuyên gia. Trong thời đại mà quan hệ giữa con người và tự nhiên ngày càng xa cách, đường mòn cung cấp một cơ hội để tái kết nối, cũng bảo lưu cho thế hệ tương lai một tài sản tự nhiên quý báu.
+Văn hóa con đường ở Đài Loan chứng minh một điều: bảo vệ môi trường có thể do bất kỳ ai yêu thiên nhiên tham gia, không cần chờ đợi sự lãnh đạo từ chính phủ hay các chuyên gia. Trong thời đại mối quan hệ giữa con người và thiên nhiên ngày càng xa cách, những con đường cung cấp cơ hội để kết nối lại, đồng thời giữ gìn tài nguyên thiên nhiên quý giá cho thế hệ sau.
 
-Hiệp hội Tình Mạng Đường Tình Dặm nhấn mạnh rằng bảo vệ đường mòn với mục đích học hỏi cách sống chung với rừng núi, có lẽ đây là tinh thần cốt lõi nhất của văn hóa đường mòn Đài Loan.
+Mục tiêu của Mạng lưới Bảo vệ Con đường Đài Loan viết: "Để rừng trở nên tốt đẹp hơn nhờ sự hiện diện của chúng ta." Đây có lẽ là tinh thần cốt lõi của văn hóa con đường ở Đài Loan.
 
 ## Tài liệu tham khảo
 
-[^1]: [Biểu đồ thời gian lớn của Hiệp hội Tình Mạng Đường Tình Dặm - iTrail](https://itrail.tw/aboutus/important-events) — Xác nhận phong trào Tình Mạng Đường Tình Dặm được khởi xướng ngày 23 tháng 4 năm 2006, hiệp hội pháp nhân thành lập ngày 8 tháng 6 năm 2011.
+[^1]: [Lịch sử Hội đồng bằng lối đi bộ ngàn dặm - Mạng lưới Bảo vệ Con đường Đài Loan](https://itrail.tw/aboutus/important-events) — Năm 2002 "Tạm biệt cầu thang đá", năm 2012 đề xuất tầm nhìn hai con số không tại Hội nghị NGO môi trường toàn quốc và khảo sát bề mặt đường ven đô thị Bắc Đài, năm 2014 khởi xướng Ngày hội Con đường Đài Loan, năm 2023 khảo sát lại sau mười năm, năm 2024 ra mắt Mạng lưới Bảo vệ Con đường Đài Loan.
 
-[^2]: [Trang chính thức Hiệp hội Tình Mạng Đường Tình Dặm](https://www.tmitrail.org.tw/) — Mục đích của hiệp hội, chính sách hai không và triết lý thúc đẩy bảo vệ đường mòn của Hoàng Vũ Hùng.
+[^2]: [Giới thiệu Hội đồng bằng lối đi bộ ngàn dặm - Mạng lưới Bảo vệ Con đường Đài Loan](https://itrail.tw/aboutus/introduction) — Hsu Ming-hsian sau khi làm tình nguyện viên trên con đường Appalachian mang về kỹ thuật xây dựng thủ công; năm 2013 đưa ra khái niệm học thuật về con đường, năm 2015 đào tạo giáo viên con đường, năm 2018 tôn vinh giáo viên danh dự.
 
-[^3]: [Nền tảng đường mòn thông minh iTrail](https://itrail.tw/) — Nền tảng báo cáo tình trạng đường mòn, đã lên mạng năm 2024, năm đầu tiên nhận được hơn 15.000 báo cáo.
+[^3]: [Nguồn gốc - Hội đồng bằng lối đi bộ ngàn dặm Đài Loan](https://www.tmitrail.org.tw/about) — Ngày 23 tháng 4 năm 2006, Huang Wu-hsiung, Xiao Ye và Hsu Jen-hsiu cùng khởi xướng, mơ ước một mạng lưới xanh quanh đảo.
 
-[^4]: [Cổ đạo Đạm Lan của Tân Bắc - Chính quyền thành phố Tân Bắc](https://trails.ntpc.gov.tw/) — Giới thiệu ba tuyến bắc-trung-nam của cổ đạo Đạm Lan và kế hoạch phục hồi.
+[^4]: [Hội đồng bằng lối đi bộ ngàn dặm 20 năm bảo vệ "con đường đẹp nhất của mọi người" - Nụ cười Đài Loan](https://smiletaiwan.cw.com.tw/article/9059) — Báo cáo kỷ niệm 20 năm của Hội đồng bằng lối đi bộ ngàn dặm vào tháng 4 năm 2026, ghi nhớ buổi khai mạc năm 2006 và ba người sáng lập.
 
-[^5]: [Hai mươi năm của Tình Mạng Đường Tình Dặm: Sự sinh ra của một con đường - Đài Loan Nụ Cười](https://smiletaiwan.cw.com.tw/article/9059) — Báo cáo về quỹ đạo phát triển hai mươi năm của Hiệp hội Tình Mạng Đường Tình Dặm.
+[^5]: [Trang web khoa học công dân đầu tiên ở Đài Loan dành cho bảo vệ con đường ra mắt - Mạng lưới Bảo vệ Con đường Đài Loan](https://itrail.tw/news/8304) — Lễ công bố ngày 4 tháng 6 năm 2024: gần 40 tổ chức cùng tham gia, cơ chế báo cáo và mục đích sử dụng cho các cơ quan chính phủ.
+
+[^6]: [Trang chủ Mạng lưới Bảo vệ Con đường Đài Loan](https://itrail.tw/) — Thống kê báo cáo (đọc vào tháng 10 năm 2026: tổng cộng 2.702 báo cáo từ 314 người tham gia) và phân loại báo cáo.
+
+[^7]: [Quá trình phát triển - Hội đồng bằng lối đi bộ ngàn dặm Đài Loan](https://www.tmitrail.org.tw/page/1795) — Năm 2012 đề xuất tầm nhìn mới và ba bộ phận bảo vệ con đường ven đô thị; quy định thứ Bảy đầu tiên của tháng 6 là Ngày hội Con đường Đài Loan, năm 2014 là năm đầu tiên.
+
+[^8]: [Lệnh huy động giám sát đồng thời toàn quốc năm 2026 - Mạng lưới Bảo vệ Con đường Đài Loan](https://itrail.tw/news/12170) — Hoạt động diễn ra từ ngày 6 đến ngày 30 tháng 6, báo cáo bằng cách quan sát "quy mô cơ thể", tính năng lưu nháp, và kế hoạch phát triển hệ thống học tập trực tuyến và nhận dạng cơ sở dữ liệu AI.
+
+[^9]: [Kết quả kiểm tra lại sau mười năm của khảo sát bề mặt đường ven đô thị Bắc Đài năm 2025 - Mạng lưới Bảo vệ Con đường Đài Loan](https://itrail.tw/news/10713) — Khảo sát lại từ năm 2023 đến 2025 trên 324 tuyến đường, tổng cộng 572,5 km; Bắc Đài xi măng giảm từ 74% xuống 47%, tự nhiên tăng từ 10% lên 27%; Thượng Hải xi măng giảm từ 54,6% xuống 37%; tổng cộng cả hai thành phố tăng thêm khoảng 22 km xi măng.
+
+[^10]: [Khảo sát bề mặt 1.0 - Mạng lưới Bảo vệ Con đường Đài Loan](https://itrail.tw/aboutus/the-origin-of-shop-floor-survey-1-0) — Kết quả khảo sát bề mặt 272 con đường ven đô thị Bắc Đài (Bắc Đài xi măng gần 75%, tự nhiên chỉ còn 10%; Tân Bắc xi măng khoảng 27%, tổng cộng 64% công trình nhân tạo) và khảo sát năm 2018 ở Thượng Hải.
+
+[^11]: [Khởi động con đường xanh quốc gia Tanran - Trung tâm Tin học](https://www.cna.com.tw/news/aloc/201806020109.aspx) — Năm 2018, con đường trăm năm Tanran bao gồm ba tuyến Bắc/Trung/Nam với tổng chiều dài hơn 200 km, bao gồm cả đường chính, đường dân sự và đường trà.
+
+[^12]: [Con đường Trúc Tinh - Tuần báo Tuần này](https://www.businesstoday.com.tw/article/category/80730/post/202011100016/) — Ủy ban Hakka: dựa trên tuyến đường số 3, từ Long Tấm ở phía bắc đến Đông Tịnh ở phía nam, tổng chiều dài khoảng 270 km, cộng với các con đường phụ xung quanh khoảng 400 km.
+
+[^13]: [Khám phá bốn trăm năm lịch sử của Đài Loan - Nụ cười Đài Loan](https://smiletaiwan.cw.com.tw/article/3018) — Lin Hua-ching (2020): từ Vườn quốc gia Thái Lan ở mực độ biển 0 đến đỉnh Yushan, tổng chiều dài 177 km, hình thành năm 2017 nhờ sự kết nối từ trường đại học Thái Lan ở vịnh nội đến Yushan.
+
+[^14]: [Khái niệm phong trào LNT - Sở Lâm](https://recreation.forest.gov.tw/Files/RT/Doc/%E7%84%A1%E7%97%95%E5%B1%B1%E6%9E%97%E8%A1%8C%E5%8B%95%E6%A6%82%E5%BF%B5.pdf) — Bản gốc của bảy nguyên tắc LNT, cùng với hướng dẫn mang theo rác, thực phẩm và chất thải thực phẩm, không đốt và không chôn.
+
+[^15]: [Hợp tác quốc tế - Hội đồng bằng lối đi bộ ngàn dặm Đài Loan](https://www.tmitrail.org.tw/work-content/1425) — Năm 2018 ký thỏa thuận hợp tác "Con đường bạn bè" với tỉnh Jeju, năm 2023 nhận nhiệm vụ bí thư của Hiệp hội Con đường châu Á, kết nối con đường trăm năm Tanran với tỉnh Miyagi.
+
+[^16]: [Giới thiệu mục tiêu của Mạng lưới Bảo vệ Con đường Đài Loan - Mạng lưới Bảo vệ Con đường Đài Loan](https://itrail.tw/aboutus/mission-statement) — Tầm nhìn "Con đường tự nhiên không mất thêm, con đường xi măng không thêm một bước nào nữa" và mục tiêu của trang web.
