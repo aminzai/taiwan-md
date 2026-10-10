@@ -1,168 +1,169 @@
 ---
-title: 'Le mouvement folklorique taïwanais'
-description: 'De « Chanter nos propres chansons » à la transformation de toute la scène musicale sinophone — la révolution culturelle des années 1970 portée par la jeunesse'
+title: 'Le mouvement de la chanson folklorique de Taïwan'
+description: 'De « chanter ses propres chansons » à la transformation du monde musical sinophone : la révolution culturelle de la jeunesse des années 1970.'
 date: 2026-03-18
-author: 'Taiwan.md Contributors'
 category: 'Music'
-subcategory: '流行音樂'
 tags:
   [
-    'mouvement folklorique',
-    'chansons folkloriques universitaires',
-    'Concours Golden Rhyme',
-    'Li Shuangze',
-    'Yang Xian',
-    'Hu Defu',
-    'chanter nos propres chansons',
+    'mouvement de la chanson folklorique',
+    'chanson de campus',
+    'Golden Voice Awards',
+    'Li Shuang-ze',
+    'Yang Hsien',
+    'Hu De-fu',
+    'chanter ses propres chansons',
   ]
+subcategory: '流行音樂'
+author: 'Taiwan.md Contributors'
+difficulty: 'beginner'
 readingTime: 12
+featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
-featured: false
 translatedFrom: 'Music/台灣民歌運動.md'
-sourceCommitSha: '7415dcaa'
-sourceContentHash: 'sha256:e201829436b891a1'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:852e24aefb540676'
 sourceBodyHash: 'sha256:61e39c0d29fd318e'
-translatedAt: '2026-05-17T05:34:56+08:00'
-difficulty: 'beginner'
+translatedAt: '2026-10-10T23:27:01+08:00'
 ---
 
-# Le mouvement folklorique taïwanais
+# Le mouvement de la chanson folklorique de Taïwan
 
-> **En 30 secondes :** Le 3 décembre 1976, lors d'un concert au collège Tamkang, Li Shuangze fracasse une bouteille de Coca-Cola et lance : « Pourquoi chantons-nous des chansons étrangères ? » — Cet « incident de Tamkang » déclenche le mouvement folklorique taïwanais. En 1975, Yang Xian donne la première de _Nostalgie en quatre vers_ au Zhongshan Hall ; Hu Defu introduit des chants ancestraux autochtones ; en 1977, les concours Golden Rhyme et Folk Style commercialisent le mouvement, donnant naissance à une génération de chanteurs folk : Chyi Yu, Tsai Chin, Ye Jiaxiu, Li Jianfu. Bien que le mouvement s'achève après une décennie, marqué par le départ de talents à l'étranger et la commercialisation, l'esprit de « chanter nos propres chansons » se perpétue jusqu'aux générations de Lo Ta-yu, Cheer Chen et Deserts Chang.
+> **Aperçu en 30 secondes :** Le 3 décembre 1976, lors d'un concert à l'Institut Tamkang, Li Shuang-ze brisa une bouteille de Coca-Cola en demandant : « Pourquoi chantons-nous des chansons d'étrangers ? ». Cet « incident de Tamkang » a déclenché le mouvement de la chanson folklorique de Taïwan. Entre la première interprétation de _Quatre rimes sur la nostalgie_ par Yang Hsien au Zhongshan Hall en 1975, l'introduction des mélodies ancestrales autochtones par Hu De-fu, et la commercialisation des concours Golden Voice Awards et Folk Style en 1977, ce mouvement a engendré une génération d'artistes tels que Qi Yu, Tsai Chin, Yeh Chia-hsiu et Li Chien-fu. Bien que le mouvement se soit éteint après dix ans avec le départ de nombreux talents à l'étranger et sa commercialisation, l'esprit de « chanter ses propres chansons » a perduré chez les générations suivantes, de Lo Ta-you à Cheer Chen et Zhang Xuan.
 
-Le 3 décembre 1976, lors d'un concert au collège Tamkang[^1], un étudiant philippin d'origine chinoise monte sur scène, une bouteille de Coca-Cola à la main, une guitare dans le dos, et interpelle avec colère le public : « Pourquoi chantons-nous des chansons étrangères ? » Il fracasse sa bouteau de Coca-Cola au sol[^2]. Ce bris de verre sera plus tard perçu comme le moment où la colonisation musicale d'une époque se brise. Cet homme s'appelle Li Shuangze, et cet instant est connu sous le nom d'« incident de Tamkang » — le point de départ le plus symbolique du mouvement folklorique taïwanais.
+Le 3 décembre 1976, lors d'un concert[^1] à l'Institut Tamkang, un étudiant philippin venu étudier à Taïwan monta sur scène avec une guitare et une bouteille de Coca-Cola, lançant avec colère au public : « Pourquoi chantons-nous des chansons d'étrangers ? ». Il fracassa violemment la bouteille au sol[^2], un bruit de verre brisé qui fut plus tard perçu comme l'instant où le colonialisme musical d'une époque venait d'être brisé. Cet homme s'appelait Li Shuang-ze, et ce moment est connu sous le nom d'« incident de Tamkang » — le point de départ le plus emblématique du mouvement de la chanson folklorique de Taïwan.
 
-Pourquoi les jeunes voulaient-ils chanter leurs propres chansons ? Dans le Taïwan des années 1970, confronté à une série de crises diplomatiques — retrait des Nations unies, rupture des relations sino-américaines —, les jeunes commencent à se poser une question fondamentale : dans ce monde en perpétuel changement, quelle est véritablement notre voix ?
+Pourquoi les jeunes voulaient-ils chanter leurs propres chansons ? Alors que Taïwan faisait face dans les années 1970 à une série de crises diplomatiques — retrait de l'ONU, rupture des relations sino-américaines — la jeunesse commença à se poser une question fondamentale : dans ce monde en mutation constante, quelle était notre véritable voix ?
 
-## Le tournant d'une époque : pourquoi « chanter nos propres chansons » ?
+## Un tournant historique : pourquoi « chanter ses propres chansons » ?
 
-Avant les années 1970, le paysage musical taïwanais est presque entièrement dominé par la pop occidentale. Des campus aux cafés, ce sont des chansons en anglais qui résonnent partout. Les jeunes connaissent les mélodies de Bob Dylan et Joan Baez, mais ignorent tout des histoires de leur propre terre.
+Avant les années 1970, le paysage musical de Taïwan était presque entièrement dominé par la musique pop occidentale. Des campus aux cafés, les chansons en anglais résonnaient partout. Les jeunes connaissaient les mélodies de Bob Dylan ou de Joan Baez, mais ignoraient tout des récits de leur propre terre.
 
-Ce phénomène de déracinement culturel devient encore plus aigu sous l'impact de la situation internationale. La visite de Nixon en Chine en 1972, la rupture des relations diplomatiques entre Taïwan et les États-Unis en 1978, l'émergence du mouvement de défense des îles de钓鱼岛 (Diaoyu) — ces événements poussent la jeunesse taïwanaise à une introspection : qui sommes-nous ? Où est notre voix ?
+Ce phénomène de déracinement culturel est devenu plus aigu sous l'impact de la situation internationale. La visite de Nixon en Chine en 1972, la rupture des relations entre Taïwan et les États-Unis en 1978, et l'émergence du mouvement pour la défense de l'île de Penghu ont poussé la jeunesse taïwanaise à s'interroger : qui sommes-nous réellement ? Où se trouve notre voix ?
 
-C'est dans ce contexte que « chanter nos propres chansons » cesse d'être un simple slogan pour devenir un mouvement de conscience culturelle. Les jeunes ne se contentent plus d'être des auditeurs de musique occidentale : ils veulent créer, dans leur propre langue, avec leurs propres histoires, une voix qui appartienne à cette terre.
+C'est dans ce contexte que « chanter ses propres chansons » est passé du statut de simple slogan à celui de mouvement de conscience culturelle. Les jeunes ne voulaient plus être de simples auditeurs de musique occidentale ; ils voulaient utiliser leur propre langue et leurs propres histoires pour créer un son appartenant à cette terre.
 
-## Trois pionniers : Yang Xian, Hu Defu, Li Shuangze
+## Trois pionniers : Yang Hsien, Hu De-fu et Li Shuang-ze
 
-### Yang Xian : le semeur de la chanson folk moderne
+### Yang Hsien : le semeur de la chanson folklorique moderne
 
-Le 6 juin 1975, Yang Xian, étudiant à l'Institut d'océanographie de l'Université nationale de Taïwan, organise au Zhongshan Hall de Taipei un « concert de création folk moderne »[^3]. Il met en musique le poème _Nostalgie en quatre vers_ de Yu Kwang-chung et propose pour la première fois le concept de « chanson folk moderne ».
+Le 6 juin 1975, Yang Hsien, étudiant à l'Institut d'Océanographie de l'Université nationale de Taïwan, organisa un « Concert de création de musique folklorique moderne » au Zhongshan Hall de Taipei. [^3] Il mit en musique les poèmes de Yu Kwang-chung, notamment _[Quatre rimes sur la nostalgie](https://www.youtube.com/watch?v=0gbgJZqkbGM)_, proposant pour la première fois le concept de « chanson folklorique moderne ».
 
-L'innovation de Yang Xian réside dans la fusion de la poésie chinoise moderne avec la folk et la country américaines, créant une forme musicale inédite. Ce concert est considéré comme le point de départ officiel du mouvement folklorique taïwanais, et Yang Xian est depuis surnommé le « père de la chanson folk moderne »[^4].
+L'innovation de Yang Hsien résidait dans l'union de la poésie chinoise moderne avec le folk et la musique country américaine, créant une forme musicale inédite. Ce concert est considéré comme le point de départ officiel du mouvement, et Yang Hsien fut ainsi surnommé le « père de la chanson folklorique moderne ». [^4]
 
-### Hu Defu : la voix originelle
+### Hu De-fu : la voix originelle
 
-Le chanteur autochtone Hu Defu est un autre éveilleur essentiel de ce mouvement[^6]. Ses performances au Columbia Café constituent une transmission culturelle au ralenti. Hu Defu se met à chanter des mélodies ancestrales du peuple Paiyan, offrant pour la première fois aux jeunes urbains l'écoute de la voix la plus originelle et la plus pure de la terre taïwanaise.
+Le chanteur autochtone Hu De-fu fut un autre éveilleur essentiel de ce mouvement[^6]. Ses performances au café Columbia furent une transmission culturelle lente mais profonde. En chantant les mélodies ancestrales du peuple Bunun, il permit aux jeunes citadins d'entendre pour la première fois le son le plus primitif et le plus pur de la terre de Taïwan.
 
-En 1974, Hu Defu organise le concert « Beautiful Rice Ears », qui est aussi la scène de la première interprétation publique de _Nostalgie en quatre vers_ par Yang Xian, semant les graines du concert du Zhongshan Hall l'année suivante.
+En 1974, Hu De-fu organisa le concert _Les magnifiques épis de riz_, qui fut également le lieu de la première présentation publique des _Quatre rimes sur la nostalgie_ par Yang Hsien, semant ainsi les graines du concert au Zhongshan Hall de l'année suivante.
 
-### Li Shuangze : le clairon de la révolution
+### Li Shuang-ze : la trompette de la révolution
 
-Si Yang Xian est le semeur et Hu Defu l'éveilleur, alors Li Shuangze est le clairon de la révolution. L'incident de Tamkang du 3 décembre 1976 est le moment le plus dramatique du mouvement folklorique taïwanais.
+Si Yang Hsien était le semeur et Hu De-fu l'éveilleur, Li Shuang-ze fut la trompette de la révolution. L'« incident de Tamkang » du 3 décembre 1976 constitue le moment le plus dramatique du mouvement.
 
-Ce jeune homme, de retour d'un séjour d'études en Espagne et aux États-Unis, devait initialement remplacer Hu Defu, blessé, sur scène. Mais il choisit la manière la plus radicale pour lancer une interrogation existentielle au public : « Pourquoi chantons-nous des chansons étrangères ? »
+Ce jeune homme, de retour d'un séjour d'études en Espagne et aux États-Unis, devait initialement remplacer Hu De-fu, alors blessé, pour la performance. Mais il choisit la méthode la plus radicale pour poser une question existentielle au public : « Pourquoi chantons-nous des chansons d'étrangers ? ».
 
-L'instant où Li Shuangze fracasse sa bouteille de Coca-Cola passe en un clin d'œil d'une explosion émotionnelle personnelle à un symbole de résistance de toute génération contre la colonisation culturelle. Son cri de « chanter nos propres chansons » devient rapidement le slogan spirituel du mouvement des chansons folk universitaires taïwanaises.
+L'instant où Li Shuang-ze brisa sa bouteille de Coca-Cola passa d'une explosion émotionnelle personnelle à un symbole de résistance générationnelle contre le colonialisme culturel. Son cri, « chantez vos propres chansons », devint rapidement le slogan spirituel du mouvement des chansons de campus à Taïwan.
 
-🎵 **À écouter** : [_Beautiful Island_ de Li Shuangze](https://www.youtube.com/watch?v=4UvWeuzhxHw) — version interprétée par Yang Zu-jun
+🎵 **À écouter** : [Li Shuang-ze - _L'île magnifique_](https://www.youtube.com/watch?v=4UvWeuzhxHw) — version interprétée par Yang Tsu-chun
 
-## Les moteurs de la commercialisation : le concours Golden Rhyme et les restaurants folk occidentaux
+## Les moteurs de la commercialisation : Golden Voice Awards et restaurants de folk
 
-L'incident de Tamkang allume la flamme de « chanter nos propres chansons », mais ce sont les forces commerciales qui permettent véritablement à la musique folk de pénétrer dans la société et de devenir un phénomène de masse.
+Si l'« incident de Tamkang » a allumé la flamme, ce sont les forces commerciales qui ont permis à la chanson folklorique de s'implanter dans le quotidien des gens.
 
-En 1977, le label Shin Ge lance le concours de chant « Golden Rhyme » ; en 1978, le label Shan Hai organise le concours « Folk Style »[^5]. Ces deux concours deviennent des pépinières de chanteurs folk : Chen Ming-shao, Bao Mei-sheng, Li Jianfu, Wang Hai-ling sont issus de « Golden Rhyme » ; Tsai Chin et Ye Jiaxiu sont les figures de proue de « Folk Style » ; Chyi Yu et Su Lai sont des stars qui traversent les deux camps.
+En 1977, la maison de disques ເ新格 (Ears Music) lança le concours de chant _Golden Voice Awards_, et en 1978, 海山 (Haishan Records) fonda le concours _Folk Style_[^5]. Ces deux compétitions devinrent des incubateurs pour les artistes. Des chanteurs comme Chen Ming-shao, Pao Mei-sheng, Li Chien-fu et Wang Hai-ling émergèrent du _Golden Voice Awards_ ; Tsai Chin et Yeh Chia-hsiu furent les figures de proue du _Folk Style_ ; tandis que Qi Yu et Su Lai devinrent des stars traversant les deux camps.
 
-Parallèlement, des restaurants folk de style occidental poussent comme des champignons après la pluie. De Taipei — le « Wooden Boat », le « Scarecrow » — aux cafés de tout le pays, ces lieux deviennent des scènes où les chanteurs folk perfectionnent leur art et échangent avec le public. Ces espaces sont des points de rencontre culturelle, permettant à la musique folk de passer du campus à la société.
+Parallèlement, les restaurants de folk (folk cafés) se multiplièrent comme des champignons après la pluie. De Taipei aux cafés de province, des lieux comme le « Bateau en bois » ou le « Épouvantail » devinrent des scènes où les artistes affinaient leur technique et échangeaient avec le public. Ces lieux furent des points de contact culturels permettant à la chanson folklorique de quitter les campus pour investir la société.
 
 ## Les étoiles de l'âge d'or
 
-### La chanson folk intellectuelle
+### Le courant intellectuel
 
-La chanson folk intellectuelle, représentée par Chyi Yu, recherche la fusion de la poésie et de la philosophie. La voix cristalline de Chyi Yu interprète des classiques comme [_L'Olivier_](https://www.youtube.com/watch?v=PGcw9SvHhh0) et _Marchant sous la pluie_, illustrant le côté littéraire de la musique folk.
+Représenté par Qi Yu, ce style recherchait l'union entre poésie et réflexion philosophique. La voix cristalline de Qi Yu interpréta des classiques tels que _[L'arbre d'olivier](https://www.youtube.com/watch?v=PGcw9SvHhh0)_ ou _Marcher sous la pluie_, illustrant la dimension littéraire du mouvement.
 
-### La chanson folk rurale
+### Le courant terroir
 
-_Le Sentier de campagne_ de Ye Jiaxiu, _La Baie de Penghu de grand-mère_ de Pan An-bang incarnent la simplicité et la chaleur de la chanson folk rurale. Ces chansons dépeignent le foyer intérieur de chacun, touchant le cœur des voyageurs loin de chez eux.
+Les œuvres de Yeh Chia-hsiu, comme _[Le petit chemin de campagne](https://www.youtube.com/watch?v=abBnysri-XI)_, ou celles de Pan An-bang, comme _La baie de Penghu de ma grand-mère_, représentaient la simplicité et la chaleur du style terroir. Ces chansons décrivaient le foyer de chacun, touchant le cœur des expatriés loin de chez eux.
 
-### La chanson folk urbaine
+### Le courant urbain
 
-Tsai Chin, Zheng Yi et d'autres représentent le raffinement et la maturité de la chanson folk urbaine. Leur technique vocale est plus professionnelle, les arrangements musicaux plus riches, insufflant à la musique folk les couleurs de la vie métropolitaine moderne.
+Tsai Chin et Zheng Yi représentèrent l'élégance et la maturité du style urbain. Leurs techniques vocales étaient plus professionnelles et leurs arrangements musicaux plus riches, insufflant une couleur moderne à la chanson folklorique.
 
-### La naissance des œuvres classiques
+### La naissance d'œuvres classiques
 
-Cette période voit naître d'innombrables classiques :
+Cette période vit naître d'innombrables classiques :
 
-**[_Le Descendant du dragon_](https://www.youtube.com/watch?v=50dyyevLH6I)** (paroles et musique de Hou Dejian, première interprétation par Li Jianfu) naît en 1978 dans le contexte de la rupture des relations Taïwan-États-Unis, exprimant l'identité nationale et culturelle chinoise — c'est la voix de l'époque chargée du plus grand poids historique du mouvement folk. **_L'Olivier_** (Chyi Yu) transmet le romantisme du désir de liberté à travers « les petits oiseaux qui volent dans le ciel » ; **[_Tendre comme ta douceur_](https://www.youtube.com/watch?v=Yvg3L7RbFHY)** (Tsai Chin) illustre la finesse et la profondeur de l'amour urbain ; **_Le Sentier de campagne_** (Ye Jiaxiu) marie parfaitement nostalgie et innocence ; **_La Baie de Penghu de grand-mère_** (Pan An-bang) inscrit les souvenirs d'enfance et la poésie de l'océan ; **_La Cigale d'automne_** (Yang Fang-yi, Xu Xiao-jing) dépeint la mélancolie des années de jeunesse ; **_Si_** (Shi Bi-wu, Tai Zhao-mei) est une imagination romantique de l'amour.
+**_[Le descendant du dragon](https://www.youtube.com/watch?v=50dyyevLH6I)_ ** (paroles et musique de Hou De-jian, interprétée par Li Chien-fu) est née dans le contexte de la rupture des relations sino-américaines en 1978, exprimant l'identité culturelle chinoise ; c'est la voix d'une époque chargée d'histoire. **_L'arbre d'olivier_** (Qi Yu) transmet un désir de liberté à travers l'image de « l'oiseau volant pour le ciel » ; **_[Tout comme ta douceur](https://www.youtube.com/watch?v=Yvg3L7RbFHY)_ ** (Tsai Chin) montre la délicatesse des amours urbaines ; **_Le petit chemin de campagne_** (Yeh Chia-hsiu) marie nostalgie et innocence ; **_La baie de Penghu de ma grand-mère_** (Pan An-bang) inscrit la poésie marine dans les souvenirs d'enfance ; **_La cigale d'automne_** (Yang Fang-yi, Hsu Hsiao-ching) dépeint la mélancolie de la jeunesse ; et **_Si_** (Shi Pi-wu, Tai Chao-mei) est une vision romantique de l'amour.
 
-🎵 **Sélection de classiques folk** : [_Le Lys sauvage a aussi son printemps_ de Pan Yue-yun](https://www.youtube.com/watch?v=GSoLwHTXRmM) ｜ [_Le vent du Pacifique_ de Hu Defu](https://www.youtube.com/watch?v=1orwkijmkIU)
+🎵 **Sélection de classiques** : [Pan Yue-yun - _Les lys sauvages ont aussi leur printemps_](https://www.youtube.com/watch?v=GSoLwHTXRmM) ｜ [Hu De-fu - _Le vent du Pacifique_](https://www.youtube.com/watch?v=1orwkijmkIU)
 
-## Le déclin et la transformation d'une époque
+## Fin d'une époque et transition
 
-Au début des années 1980, le mouvement des chansons folk universitaires taïwanaises commence à décliner. Ce déclin a de multiples causes :
+Au début des années 1980, le mouvement des chansons de campus commença à décliner pour plusieurs raisons :
 
-### Rupture générationnelle
+### La rupture générationnelle
 
-Les principales figures du mouvement folk partent poursuivre des études à l'étranger ou effectuent leur service militaire après l'obtention de leur diplôme, créant une rupture générationnelle. Yang Xian part aux États-Unis étudier la médecine chinoise après la sortie de _Sortir par la passe de l'Ouest_ en 1977 ; Li Shuangze meurt accidentellement en septembre 1977 à l'âge de 28 ans en sauivant un jeune noyé dans la mer à Tamsui — ses deux œuvres laissées de son vivant, _Beautiful Island_ et _Jeune Chine_, seront ensuite enregistrées par Yang Zu-jun et Hu Defu[^2]. De nombreux chanteurs folk quittent également la scène musicale, temporairement ou définitivement, en raison de leurs projets de carrière.
+Les figures principales du mouvement sont parties étudier à l'étranger ou ont effectué leur service militaire après leurs études, créant un vide de talents. Yang Hsien partit étudier la médecine traditionnelle en Amérique après avoir publié _Sortie par le col de Yangguan_ en 1977 ; Li Shuang-ze mourut accidentellement à l'âge de 28 ans en sauvant un jeune homme de la noyade sur la côte de Tamsui en septembre 1977 — les deux œuvres qu'il avait laissées, _L'île magnifique_ et _Jeunesse de Chine_, furent complétées par Yang Tsu-chun et Hu De-fu[^2]. De nombreux artistes quittèrent aussi la scène musicale pour des raisons de carrière.
 
-### Changement du climat social
+### Changement d'atmosphère sociale
 
-À la fin des années 1980, le climat social taïwan change radicalement. Après la levée de la loi martiale, le mouvement de localisation prend de l'ampleur, et l'atmosphère sur les campus se tourne vers une critique de l'hégémonie culturelle continentale. Le style de la culture populaire locale commence à remplacer la musique folk universitaire au style frais et pur.
+À la fin des années 1980, l'atmosphère sociale à Taïwan changea radicalement. Après la levée de la loi martiale, le mouvement de localisation émergea et l'ambiance universitaire se tourna vers la critique de l'hégémonie culturelle continentale. Le style de la culture populaire locale commença à remplacer les chansons de campus au style épuré.
 
 ### Le double tranchant de la commercialisation
 
-Si la commercialisation permet à la musique folk de se populariser, elle rend aussi la création musicale progressivement formulaire, lui faisant perdre l'innocence et l'esprit expérimental de ses débuts.
+Si la commercialisation a permis la diffusion de la chanson folklorique, elle a aussi conduit à une certaine standardisation de la création musicale, lui faisant perdre son innocence et son esprit expérimental des débuts.
 
 ## Héritage et influence : les héritiers rebelles
 
-Bien que le mouvement des chansons folk universitaires ait pris fin, son héritage influence profondément la musique pop taïwanaise ultérieure.
+Bien que le mouvement des chansons de campus soit terminé, son héritage a profondément influencé la pop taïwanaise ultérieure.
 
-### Lo Ta-yu : l'héritier rebelle de la musique folk
+### Lo Ta-you : l'héritier rebelle
 
-Lo Ta-yu est sans doute l'héritier rebelle le plus important du mouveux folk. Il hérite de l'esprit de « chanter nos propres chansons », mais refuse la douceur et l'innocence de la musique folk, se tournant vers une approche plus incisive et plus critique des réalités sociales. De _Zhihuzheye_ à _La Famille_, Lo Ta-yu ouvre une nouvelle ère de la musique pop sinophone.
+Lo Ta-you peut être considéré comme l'héritier rebelle le plus important du mouvement. Il a repris l'esprit de « chanter ses propres chansons », mais en rejetant la douceur et l'innocence pour s'attaquer à la réalité sociale avec un ton plus incisif et critique. De _Zhi Hu Zhe Ye_ à _La Maison_, Lo Ta-you a ouvert une nouvelle ère pour la musique pop sinophone.
 
-### L'ADN de la musique indépendante d'aujourd'hui
+### L'ADN de la musique indépendante moderne
 
-Les chanteurs folk indépendants que nous écoutons aujourd'hui — Cheer Chen, Deserts Chang, Crowd Lu — héritent en réalité tous de l'ADN du mouvement folk. Ils créent eux aussi de la musique dans leur propre langue, avec leurs propres histoires, s'intéressant aux émotions personnelles et aux enjeux sociaux, mais avec des modes d'expression plus diversifiés et plus individualisés.
+Aujourd'hui, les artistes folk indépendants comme Cheer Chen, Zhang Xuan ou Lu Guang-zhong héritent tous de l'ADN du mouvement folklorique. Ils utilisent également leur propre langue et leurs propres histoires, se concentrant sur les émotions personnelles et les enjeux sociaux, mais avec des modes d'expression plus diversifiés et individualisés.
 
-### L'esprit éternel de « chanter nos propres chansons »
+### L'esprit éternel de « chanter ses propres chansons »
 
-Le plus grand héritage du mouvement folk est l'esprit éternel de « chanter nos propres chansons ». Qu'il s'agisse de la nouvelle musique folk, du rock ou de la musique indépendante d'aujourd'hui, tous perpétuent en un sens cet esprit — exprimer sa propre voix par la musique, répondre aux questions de son époque par la création.
+Le plus grand héritage du mouvement est cet esprit éternel : « chanter ses propres chansons ». Qu'il s'agisse du nouveau folk, du rock ou de la musique indépendante actuelle, tous prolongent, d'une certaine manière, cette volonté d'exprimer sa propre voix par la musique et de répondre aux questions de son époque par la création.
 
 ## Renaissance et nostalgie : Folk 40, Folk 50
 
-Au XXIe siècle, à mesure que la génération folk entre dans la maturité, un sentiment de nostalgie commence à fermenter. Des événements commémoratifs comme « Folk 40 » et « Folk 50 » sont organisés, ramenant ces chansons classiques au regard du public.
+Au XXIe siècle, avec l'arrivée à l'âge mûr de la génération folklorique, un sentiment de nostalgie s'est installé. Des événements commémoratifs tels que « Folk 40 » ou « Folk 50 » ont permis à ces classiques de revenir sur le devant de la scène.
 
-Mais cette nostalgie vise l'idéal même de « changer le monde par la musique ». Dans l'environnement musical actuel, commercialisé et numérisé, l'innocence et l'idéalisme incarnés par le mouvement folk semblent au contraire précieux et émouvants.
+Mais cette nostalgie vise l'idéal même de « changer le monde par la musique ». Dans l'environnement musical commercialisé et numérique d'aujourd'hui, l'innocence et l'idéalisme représentés par le mouvement folklorique paraissent précieux et émouvants.
 
 ## Conclusion : le sens de la voix
 
-Le mouvement folklorique taïwanais n'a duré qu'une décennie, mais il a transformé le visage de toute la musique sinophone. Il a prouvé une chose : la voix porte l'identité, la conscience culturelle et l'esprit d'une époque.
+Le mouvement de la chanson folklorique de Taïwan n'a duré que dix ans, mais il a changé le visage de toute la musique sinophone. Il a prouvé une chose : la voix porte l'identité, la conscience culturelle et l'esprit d'une époque.
 
-Lorsque Li Shuangze fracasse sa bouteille de Coca-Cola à Tamkang, la question « pourquoi chanter des chansons étrangères ? » cache en réalité « qui sommes-nous ? » et « quelles personnes voulons-nous devenir ? ». Cette question reste pertinente aujourd'hui et mérite réflexion de la part de chaque créateur.
+Au moment où Li Shuang-ze brisa sa bouteille à Tamkang en demandant « pourquoi chanter des chansons d'étrangers », il posait en réalité les questions : « Qui sommes-nous ? » et « Quel genre de personnes voulons-nous devenir ? ». Cette question reste pertinente aujourd'hui et mérite la réflexion de chaque créateur.
 
-À l'heure de la mondialisation, nous avons peut-être encore plus besoin de nous demander : dans ce monde saturé de voix diverses, quelle est véritablement notre voix ? Comment, tout en restant ouverts, trouver nos racines culturelles ?
+Dans notre monde globalisé, nous devons peut-être nous demander davantage : dans ce monde saturé de toutes sortes de voix, quelle est notre véritable voix ? Comment trouver nos racines culturelles tout en restant ouverts au monde ?
 
-La réponse du mouvement folklorique taïwanais est : n'ayez pas peur de créer dans votre propre langue, avec vos propres histoires. Car c'est ainsi seulement que nous pouvons laisser dans ce monde une voix véritablement nôtre.
+La réponse du mouvement folklorique de Taïwan est la suivante : n'ayez pas peur de créer avec votre propre langue et vos propres histoires. Car c'est ainsi que nous pourrons laisser dans ce monde une voix qui nous appartient vraiment.
 
-## Pour aller plus loin
+## Lectures complémentaires
 
-- [Le développement de la musique pop taïwanaise](/music/台灣流行音樂發展) — L'axe principal de la musique pop sinophone après le folk, de Lo Ta-yu à Cheer Chen et Deserts Chang
-- [La littérature taïwanaise après la levée de la loi martiale](/fr/art/post-martial-law-taiwanese-literature) — Un autre mouvement de conscience culturelle après 1987, apparenté à l'esprit de « chanter nos propres chansons » du folk
-- [Le cinéma taïwanais](/fr/art/taiwanese-cinema) — Le mouvement du Nouveau Cinéma taïwanais, un autre axe de l'éveil culturel local taïwanais dans les années 1970-80
+- [Développement de la musique pop à Taïwan](/music/台灣流行音樂發展) — L'axe principal de la pop sinophone, de Lo Ta-you à Cheer Chen et Zhang Xuan.
+- [Littérature taïwanaise après la levée de la loi martiale](/fr/art/post-martial-law-taiwanese-literature) — Un autre mouvement de conscience culturelle apparu après 1987, partageant le même esprit que « chanter ses propres chansons ».
+- [Cinéma taïwanais](/fr/art/taiwanese-cinema) — Le mouvement du Nouveau Cinéma taïwanais, une autre facette de l'éveil culturel local dans les années 1970-80.
+- [San Mao](/fr/people/san-mao) — L'auteure originale des paroles de _L'arbre d'olivier_, dont les textes ont conquis le monde sinophone après avoir été mis en musique.
 
 ---
 
 ## Références
 
-[^1]: [Wiki Tamsui : entrée « Incident de Tamkang »](http://tamsui.dils.tku.edu.tw/wiki/index.php/%E6%B7%A1%E6%B1%9F%E4%BA%8B%E4%BB%B6) — Documentation complète de l'incident de Tamkang du 3 décembre 1976 au collège Tamkang : chronologie, personnages, détails de la scène et impact ultérieur.
+[^1]: [Tamsui Wiki : Entrée sur l'incident de Tamkang](http://tamsui.dils.tku.edu.tw/wiki/index.php/%E6%B7%A1%E6%B1%9F%E4%BA%8B%E4%BB%B6) — Archives complètes de l'incident du 3/12/1976 à l'Institut Tamkang : chronologie, acteurs, détails du terrain et conséquences.
 
-[^2]: [Fount Media : « Chanter nos propres chansons » ! Li Shuangze, disparu trop tôt, a influencé plusieurs générations de créateurs](https://www.fountmedia.io/article/104260) — Reportage approfondi sur la vie de Li Shuangze, la scène de l'incident de Tamkang avec la bouteille de Coca-Cola, la création de _Beautiful Island_ et _Jeune Chine_, ainsi que son héritage spirituel pour les générations suivantes comme Hu Defu, Yang Xian et Lo Ta-yu.
+[^2]: [Fount Media : « Chanter ses propres chansons » ! L'influence de Li Shuang-ze, mort prématurément, sur plusieurs générations de créateurs](https://www.fountmedia.io/article/104260) — Reportage approfondi sur la vie de Li Shuang-ze, l'incident de la bouteille, et son héritage spirituel auprès de Hu De-fu, Yang Hsien et Lo Ta-you.
 
-[^3]: [Fondation d'échanges du détroit de Taïwan, _Revue Exchange_ : article spécial « Quarante ans de musique folk »](https://www.sef.org.tw/article-1-129-5006) — Article rétrospectif long pour le quarantième anniversaire du folk, incluant le moment historique du concert de « création folk moderne » de Yang Xian au Zhongshan Hall le 6 juin 1975, avec la première mise en musique de _Nostalgie en quatre vers_ de Yu Kwang-chung.
+[^3]: [Revue d'échanges de la Fondation pour les échanges à travers le détroit : Article spécial sur 40 ans de chanson folklorique](https://www.sef.org.tw/article-1-129-5006) — Grand article commémoratif incluant le moment historique du 6/6/1975 au Zhongshan Hall où Yang Hsien a mis en musique _Quatre rimes sur la nostalgie_.
 
-[^4]: [Wikipédia : chansons folk universitaires](https://zh.wikipedia.org/zh-tw/%E6%A0%A1%E5%9C%92%E6%B0%91%E6%AD%8C) — Entrée complète de Wikipédia en chinois sur les « chansons folk universitaires », incluant la désignation historique de Yang Xian comme « père de la chanson folk moderne » et une vue d'ensemble du mouvement folk.
+[^4]: [Wikipédia : Chanson de campus](https://zh.wikipedia.org/zh-tw/%E6%A0%A1%E5%9C%92%E6%B0%91%E6%AD%8C) — Article complet sur la chanson de campus, incluant le rôle historique de Yang Hsien, le « père de la chanson folklorique moderne ».
 
-[^5]: [« Mémorandum de la musique pop taïwanaise », Plateforme de données de Taipei](https://data.taipei/dataset/detail?id=4cc90cd2-540d-4b51-a8dd-be72cb0e2892) — Chronique de la musique pop taïwanaise fournie par la base de données culturelle de la ville de Taipei, incluant les documents officiels du concours « Golden Rhyme » de Shin Ge Records en 1977 et du concours « Folk Style » de Shan Hai Records en 1978.
+[^5]: [« Mémoires de la musique pop de Taïwan », Plateforme de données de Taipei](https://data.taipei/dataset/detail?id=4cc90cd2-540d-4b51-a8dd-be72cb0e2892) — Chronologie de la musique pop fournie par la base de données culturelle de Taipei, incluant les données officielles des concours _Golden Voice Awards_ (1977) et _Folk Style_ (1978).
 
-[^6]: [Wikipédia : Hu Defu](https://zh.wikipedia.org/zh-tw/%E8%83%A1%E5%BE%B7%E5%A4%AB) — Entrée complète de Wikipédia en chinois sur Hu Defu, incluant son éveil musical à 11 ans dans la chorale du lycée Tamkang à Tamsui, ainsi que son rôle historique aux côtés de Li Shuangze et Yang Xian dans la promotion du mouvement folk « chanter nos propres chansons » dans les années 1970.
+[^6]: [Wikipédia : Hu De-fu](https://zh.wikipedia.org/zh-tw/%E8%83%A1%E5%BE%B7%E5%A4%AB) — Article complet sur Hu De-fu, détaillant son éveil musical dans la chorale du lycée Tamkang à l'âge de 11 ans et son rôle aux côtés de Li Shuang-ze et Yang Hsien dans les années 1970.
