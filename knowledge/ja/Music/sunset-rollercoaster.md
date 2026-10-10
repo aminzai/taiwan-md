@@ -19,6 +19,15 @@ readingTime: '12min'
 lastVerified: 2026-05-27
 lastHumanReview: false
 featured: true
+sporeLinks:
+  - id: 101
+    platform: 'threads'
+    date: '2026-05-27'
+    url: 'https://www.threads.com/@taiwandotmd/post/DY1oPxokz0L'
+  - id: 102
+    platform: 'x'
+    date: '2026-05-27'
+    url: 'https://x.com/taiwandotmd/status/2059577645722210476'
 translatedFrom: 'Music/落日飛車.md'
 sourceCommitSha: 'e974b4c9'
 sourceContentHash: 'sha256:a199eb8f6aa7f0fc'

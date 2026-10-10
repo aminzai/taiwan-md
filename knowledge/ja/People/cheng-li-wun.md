@@ -16,6 +16,11 @@ category: 'People'
 readingTime: 12
 lastVerified: 2026-04-11
 lastHumanReview: false
+sporeLinks:
+  - id: 22
+    platform: 'threads'
+    date: '2026-04-11'
+    url: 'https://www.threads.com/@taiwandotmd/post/DW_l-6Yk_kg'
 translatedFrom: 'People/鄭麗文.md'
 sourceCommitSha: 'dd39065b'
 sourceContentHash: 'sha256:d7d8adfe5a1c7158'

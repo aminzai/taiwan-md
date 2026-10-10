@@ -22,6 +22,15 @@ tags:
 lastVerified: 2026-05-18
 lastHumanReview: false
 featured: true
+sporeLinks:
+  - id: 97
+    platform: 'threads'
+    date: '2026-05-27'
+    url: 'https://www.threads.com/@taiwandotmd/post/DY0zmnNE5RT'
+  - id: 98
+    platform: 'x'
+    date: '2026-05-27'
+    url: 'https://x.com/taiwandotmd/status/2059458468898287770'
 translatedFrom: 'Food/台灣美食總覽.md'
 sourceCommitSha: 'c4bb5dc7'
 sourceContentHash: 'sha256:1ab18bf6c6736ca9'
