@@ -31,6 +31,7 @@ rationale:
 translatedFrom: 'Society/台灣設計研究院.md'
 sourceCommitSha: 'fa44ba5a9'
 sourceContentHash: 'sha256:31f2d67654f5ca72'
+sourceBodyHash: 'sha256:f7df18837078b48f'
 translatedAt: '2026-09-18T12:52:10.547161+00:00'
 ---
 

@@ -32,6 +32,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Maanshan_Nuclear_Power_Pla
 translatedFrom: 'Nature/台灣氣候危機與淨零轉型.md'
 sourceCommitSha: 'e80217d19'
 sourceContentHash: 'sha256:3b72a54becd4e249'
+sourceBodyHash: 'sha256:65e86904ae441416'
 translatedAt: '2026-09-20T23:08:54.816260+00:00'
 ---
 
