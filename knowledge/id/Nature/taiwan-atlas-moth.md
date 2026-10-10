@@ -1,14 +1,14 @@
 ---
-title: 'Kupu-kupu Raja Taiwan'
-description: 'Sayapnya dapat mencapai 25-30 cm, salah satu kupu-kupu dengan sayap terpanjang di dunia; sayapnya terbuka seperti buku yang dibuka — dia tidak makan seumur hidupnya, hanya untuk terbang sekali.'
+title: 'Atlas Moth Taiwan: Legenda Sayap Raksasa yang Tidak Makan Sepanjang Hayatnya'
+description: 'Salah satu ngengat dengan rentang sayap terpanjang di dunia (25-30 cm), sayapnya yang terbuka tampak seperti buku—ia tidak makan seumur hidupnya, hanya untuk terbang sekali.'
 date: 2026-03-19
 category: 'Nature'
 tags:
   [
-    'Kupu-kupu Raja',
-    'Kupu-kupu Kepala Ular',
     'Atlas Moth',
-    'Kupu-kupu',
+    'Ngengat Kepala Ular',
+    'Atlas Moth',
+    'Ngengat',
     'Konservasi',
     'Serangga',
     'Ekologi',
@@ -20,97 +20,98 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Nature/台灣皇蛾.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:c0def8638e893fc6'
-sourceBodyHash: 'sha256:b3b31dae4152e213'
-translatedAt: '2026-08-06T18:32:28+08:00'
+sourceCommitSha: '38a5f7e2a'
+sourceContentHash: 'sha256:a407c4cd5d546815'
+sourceBodyHash: 'sha256:94480d54498a46b7'
+translatedAt: '2026-10-10T23:27:02+08:00'
 ---
 
-# Kupu-kupu Raja Taiwan: Salah Satu Kupu-kupu dengan Sayap Terpanjang di Dunia, Legenda Sayap Raksasa yang Tak Pernah Makan Seumur Hidup
+# Atlas Moth Taiwan: Salah Satu Ngengat dengan Rentang Sayap Terpanjang, Legenda Sayap Raksasa yang Tidak Makan Sepanjang Hayatnya
 
-## 30 Detik Ringkasan
+## Ringkasan 30 Detik
 
-Sayapnya dapat mencapai 25-30 cm, menjadikannya salah satu kupu-kupu dengan sayap terpanjang di dunia; luas sayapnya adalah yang kedua terbesar di dunia (hanya kalah dari Kupu-kupu Herkules Australia), lebih lebar dari laptop Anda. Disebut secara umum sebagai Kupu-kupu Kepala Ular, karena ujung sayapnya memiliki pola kepala ular yang sangat nyata. Keindahan paling kejam adalah: kupu-kupu dewasa tidak memiliki mulut, setelah keluar dari kokon hanya bisa bertahan hidup 1-2 minggu dengan lemak yang disimpan saat fase larva, tujuan hidupnya hanya berkembang biak lalu mati. Taiwan adalah salah satu tempat sedikit di dunia yang masih memiliki populasi liar Kupu-kupu Raja, namun semakin langka dalam beberapa tahun terakhir.
+Dengan rentang sayap mencapai 25 hingga 30 cm, ini adalah salah satu ngengat dengan rentang sayap terpanjang di dunia; saat terbuka, ukurannya lebih lebar dari telapak tangan orang dewasa.[^5][^4] Ujung sayap depan menonjol ke luar dengan bentuk menyerupai kepala ular, sehingga ia juga disebut sebagai Ngengat Kepala Ular (蛇頭蛾).[^1] Alat mulut ngengat dewasa telah mengalami degenerasi sehingga tidak dapat makan; setelah keluar dari kepompong (eclosion), mereka hanya mengandalkan lemak yang disimpan selama fase larva untuk bertahan hidup selama 1 hingga 2 minggu. Selama waktu ini, mereka hanya melakukan satu hal: menemukan pasangan dan meninggalkan generasi berikutnya.[^3][^4] Atlas Moth tersebar dari India, Semenanjung Malaya, hingga ke Tiongkok selatan dan Taiwan, di mana di Taiwan mereka mendiami kawasan pegunungan rendah (shallow mountains). Pada tahun 1970-an, ngengat ini sempat dibudidayakan secara massal di Taiwan; ngengat dewasa dijadikan spesimen, sementara kokonnya digunakan untuk membuat dompet.[^1][^3]
 
 ## Mengapa Penting?
 
-Kupu-kupu Raja adalah indikator kesehatan ekosistem. Kehadirannya menunjukkan bahwa hutan di suatu tempat cukup sehat dan keanekaragaman hayati cukup kaya. Ketika Kupu-kupu Raja hilang, biasanya berarti seluruh rantai ekosistem sedang runtuh. Di Taiwan, habitat Kupu-kupu Raja terkonsentrasi di hutan dataran rendah hingga menengah, yaitu pulau-pulau hijau yang dikelilingi tekanan pembangunan manusia namun tetap bertahan. [^2] Ekosistem pegunungan rendah ini sering diabaikan, namun merupakan area kunci keanekaragaman hayati daratan Taiwan: spesies langka seperti Harimau Kumbang dan Trenggiling juga hidup di sini. Kemunculan Kupu-kupu Raja adalah cermin kesehatan ekologi; ketiadaannya adalah peringatan serius yang harus dihadapi.
+Di Taiwan, Atlas Moth tinggal di pegunungan rendah, yaitu lingkaran hutan pada ketinggian rendah yang dikelilingi oleh tekanan pembangunan.[^3] Di lingkaran pegunungan rendah yang sama, terdapat pula harimau batu (Stone Tiger) dan trenggiling. Larvanya memiliki pola makan yang sangat beragam; tercatat mereka memakan tanaman seperti _Solanum nigrum_ (茄冬), _Ficus pumila_ (饅頭果), _Schefflera arboricola_ (江某), _Litsea cubeba_ (樹杞), _Euodia kisoana_ (九芎), dan jambu biji (芭樂).[^1][^2] Sementara itu, ngengat dewasa sama sekali tidak makan; seluruh hidup mereka dipertaruhkan pada daun-daun yang mereka makan selama fase larva. Apakah sebuah hutan pegunungan rendah dapat memungkinkan seekor ngengat dengan rentang sayap melebihi telapak tangan bertahan dari telur hingga menjadi dewasa, sangat bergantung pada keberadaan pohon inang, seberapa terang lampu di malam hari, dan seberapa banyak pestisida yang disemprotkan di perkebunan.
 
-## Sebuah Ensiklopedia Alam dengan Sayap Terbuka
+## Ensiklopedia Alam dengan Sayap Terbentang
 
-Kupu-kupu Raja (nama ilmiah: _Attacus atlas_) dijuluki "Peta Terbang". Saat kedua sayapnya terbuka, warna dasar cokelat kemerahan dihiasi garis dan pola kompleks, seperti peta kuno atau peta pelayaran. Yang paling khas adalah ujung sayapnya, yaitu pola yang memberinya nama "Kupu-kupu Kepala Ular".
+Nama Inggris Atlas Moth (皇蛾) bagi _Attacus atlas_ konon berasal dari mitologi Yunani tentang Titan Atlas yang menopang langit, namun beberapa ilmuwan menduga hal ini karena garis-garis pada sayapnya menyerupai peta kertas.[^4] Warna dasar sayapnya adalah cokelat kemerahan, dipenuhi dengan pola garis hitam, putih, merah muda, dan ungu. Di tengah setiap dari keempat sayapnya terdapat jendela transparan segitiga tanpa sisik yang dikelilingi oleh pinggiran hitam.[^5][^1]
 
-Pola ujung sayap tidak hanya menyerupai kepala ular, saat Kupu-kupu Raja terancam dan menggerakkan sayapnya, pola itu meniru postur mengancam Ular Kobra dengan sangat nyata. Ini adalah karya agung evolusi jutaan tahun, strategi penipuan musuh yang presisi.
+Bagian yang paling istimewa adalah ujung sayap depan. Bagian ini memanjang ke luar membentuk kepala ular, dengan bintik bulat hitam di bagian atas yang menyerupai mata ular, dan pita melintang berwarna cokelat di sampingnya yang menyerupai mulut ular; karena itulah di Hong Kong ia disebut "Ngengat Kepala Ular".[^1][^6]
 
-Luas permukaan sayap Kupu-kupu Raja dapat mencapai 400 cm², menjadikannya kupu-kupu dengan luas sayap kedua terbesar di dunia (hanya kalah dari Kupu-kupu Herkules Australia). Berdasarkan panjang sayap, Kupu-kupu Raja berada di peringkat teratas di antara kupu-kupu dunia. Betina lebih besar dari jantan, namun jantan memiliki antena lebih lebar dan berbentuk bulu, mampu mendeteksi feromon yang dilepaskan betina dari jarak beberapa kilometer.
+Catatan mengenai luas sayap bervariasi: Museum Sains Nasional (KMST) dan Wikipedia bahasa Mandarin menuliskan bahwa luas maksimalnya dapat mencapai 400 cm², menjadikannya ngengat dengan total luas sayap terbesar,[^1][^6] sedangkan Wikipedia bahasa Inggris menuliskan sekitar 160 cm², menjadikan luas sayapnya hanya kalah dari Hercules Moth di Australia.[^5] Ngengat betina lebih besar daripada jantan, sementara ngengat jantan memiliki antena yang lebih lebar dan menyerupai bulu, yang memungkinkannya melacak feromon ngengat betina dari jarak beberapa kilometer.[^5]
 
-## Distribusi Raja Kupu-kupu di Taiwan
+## Distribusi Raja Ngengat di Taiwan
 
-Di Taiwan, Kupu-kupu Raja terutama tersebar di pegunungan dataran rendah hingga menengah (ketinggian di bawah 1000 meter), menyukai lingkungan hangat dan lembab. Dari Gunung Yangming di utara, Gunung Bagua di tengah, Kenting di selatan, hingga Lembah Huadong di timur, semuanya memiliki catatan kehadiran Kupu-kupu Raja. [^1] Khususnya di Area Kamping Rahasia Nomor 3 Sanwan Miaoli, pada 2019 masih ada pecinta fotografi yang berhasil memotret Kupu-kupu Raja di sini. Lingkungan pegunungan rendah dengan pengembangan minim ini adalah tempat perlindungan terakhir bagi Kupu-kupu Raja. Area kamping, pertanian, tepi kebun, yang tampak tidak istimewa, sebenarnya adalah pulau-pulau ekologi yang menjadi penopang hidup satwa liar Taiwan. Kupu-kupu Raja biasanya aktif di malam hari, betina bertelur di bagian bawah daun setelah kawin; jantan mengandalkan lebih dari 300.000 reseptor penciuman di antenanya untuk mendeteksi feromon dari jarak beberapa kilometer, menemukan lokasi betina dengan presisi.
+Menurut pengenalan dari Kebun Binatang Taipei, Atlas Moth tersebar luas di Asia Timur, termasuk kawasan pegunungan rendah di Taiwan.[^3] Mengutip penelitian Wang Hsiao-yueh (王效岳) tahun 1994, Museum Sains Nasional mencatat populasi di Taiwan sebagai subspesies endemik _A. atlas formosanus_, yang merupakan ngengat terbesar di Taiwan; sementara Ensiklopedia Kehidupan Taiwan mengklasifikasikannya sebagai _A. atlas atlas_, sehingga terdapat ketidakkonsistenan nama subspesies di antara keduanya.[^1][^2] Di bagian utara Taiwan, Atlas Moth memiliki dua generasi dalam setahun: generasi pertama muncul pada bulan Mei dan Juni, generasi kedua pada Agustus dan September, serta melewati musim dingin dalam bentuk pupa.[^1]
 
-## Puisi Kejam Siklus Hidup
+Di iNaturalist, terdapat sekitar 428 catatan mengenai Atlas Moth di Taiwan hingga Oktober 2026, mencakup wilayah Hsinchu, Nantou, Miaoli, Taipei, Chiayi, dan Changhua; spesies ini juga pernah difoto di sekitar Gunung Lintian, Fenglin, Hualien.[^7] Peningkatan catatan dari tahun ke tahun sebagian besar mencerminkan bertambahnya jumlah orang yang memotret dan mengunggah foto, sehingga tidak dapat langsung dibaca sebagai peningkatan atau penurunan populasi.
 
-Hidup Kupu-kupu Raja adalah puisi yang kejam dan indah.
+## Puisi Kejam dalam Siklus Hidup
 
-**Fase Telur dan Larva**: Betina menelurkan telur bulat berdiameter hanya 2,5 mm di bagian bawah daun inang, setiap tawanan sekitar puluhan butir. Ulat hijau yang menetas memiliki duri lilin putih di punggungnya, memakan tanaman seperti jambu biji, kayu manis, jeruk, dan sebagainya, melewati enam kali molting instar, akhirnya tumbuh hingga panjang 11,5 cm dan tebal 2,5 cm. Ini adalah satu-satunya fase makan dalam hidup Kupu-kupu Raja, semua cadangan lemak disiapkan di sini.
+Kehidupan Atlas Moth adalah sebuah puisi yang kejam sekaligus indah.
 
-**Fase Kupu dan Dewasa**: Ulat membuat kokon di antara daun kering, kokon sepanjang 7-8 cm, diikat dengan benang sutra ke cabang, metamorfosis memerlukan sekitar empat minggu. Kupu-kupu dewasa yang keluar dari kokon memiliki mulut yang menyusut, tidak bisa makan, hanya bisa bertahan dengan lemak cadangan masa larva, harus menemukan pasangan, kawin, berkembang biak dalam 1-2 minggu, lalu mati. Strategi ini memfokuskan semua energi pada reproduksi, tanpa perlu berisiko mencari makanan, justru meningkatkan efisiensi pewarisan gen.
+**Fase Telur dan Larva**: Ngengat betina mulai bertelur pada malam setelah kawin; setiap kali hanya menghasilkan beberapa butir telur yang diletakkan di kulit pohon atau bagian belakang daun, dengan rata-rata sekitar 200 butir per betina.[^1] Telurnya berbentuk bulat dengan diameter 2,5 mm.[^5] Ulat berwarna hijau yang menetas memiliki duri berdaging yang tertutup lilin putih di punggungnya; setelah melewati enam tahap instar, mereka akhirnya tumbuh hingga panjang 11,5 cm dan tebal 2,5 cm.[^5][^3] Ini adalah satu-satunya fase makan dalam hidup Atlas Moth, di mana seluruh cadangan lemak disimpan.
+
+**Fase Pupa dan Dewasa**: Ulat menggulung daun yang dimakannya untuk membungkus diri, membentuk kokon kertas sepanjang 7 hingga 8 cm yang diikatkan pada ranting dengan benang sutra, sehingga tampak seperti sehelai daun kering yang tergulung.[^5][^3] Dari telur hingga menjadi dewasa memakan waktu sekitar 70 hari, dengan fase pupa sekitar 21 hari.[^1] Jika menghadapi musim dingin, fase pupa dapat diperpanjang; di Rumah Serangga Kebun Binatang Taipei, terdapat individu yang berada dalam fase pupa selama lebih dari setengah tahun sebelum akhirnya muncul sebagai ngengat dewasa.[^3] Setelah eclosion, alat mulut ngengat dewasa telah mengalami degenerasi sehingga tidak dapat makan, mereka hanya bisa mengandalkan lemak yang disimpan selama fase larva untuk bertahan hidup selama 1 hingga 2 minggu guna menemukan pasangan, kawin, bertelur, lalu mati.[^3][^4]
 
 ## Kode Evolusi Pola Kepala Ular
 
-Mengapa ujung sayap Kupu-kupu Raja berevolusi menjadi pola kepala ular yang begitu nyata? Jawabannya adalah "Mimikri Bates" (Batesian mimicry), yaitu meniru organisme berbahaya untuk menakutkan musuh alami. Pada 2006, sarjana Inggris Hossler dalam penelitiannya mencatat secara rinci karakteristik optik pola ujung sayap Kupu-kupu Raja, menunjukkan bahwa efek visual di sudut cahaya berbeda dapat secara efektif membingungkan predator. Pada 2015, peneliti Taiwan juga pernah mencatat perilaku pertahanan Kupu-kupu Raja saat diserang burung di Gunung Yangming, mengonfirmasi efektivitas penggerakan ujung sayap untuk menakutkan predator.
+Belum ada penjelasan pasti mengapa ujung sayap depan berbentuk seperti kepala ular. Menurut Wikipedia bahasa Mandarin, sebagian besar ahli percaya bahwa pola ini berfungsi untuk menghindari predator, menggunakan pola yang mirip dengan ular kobra untuk mengelabui musuh.[^6] Wikipedia bahasa Inggris mengutip karya Howse tahun 2010, yang menunjukkan bahwa gerakan sayap Atlas Moth saat menghadapi predator akan membuat kemiripan ini menjadi lebih nyata.[^5]
 
-Saat burung atau predator lain mendekat, Kupu-kupu Raja akan cepat menggerakkan sayapnya, membuat pola ujung sayap terlihat seperti dua kepala ular bergoyang kiri-kanan. Tipuan visual sesaat ini sering cukup membuat predator ragu, merebut kesempatan bagi Kupu-kupu Raja untuk melarikan diri.
+Deskripsi dari Museum Sejarah Alam London adalah yang paling konkret: Atlas Moth yang merasa terancam akan jatuh ke tanah dan menggeliat, sambil mengepakkan sayapnya perlahan untuk meniru gerakan kepala dan leher ular guna menakuti predator.[^4]
 
-Lebih canggih lagi, pola kepala ular ini menghasilkan efek visual berbeda karena sudut cahaya. Di lapisan bawah hutan yang gelap, saat sinar matahari menembus daun menciptakan bayangan bercak, Kupu-kupu Raja yang diam hampir menyatu dengan daun kering. Namun begitu diganggu, pola kepala ular itu tiba-tiba "hidup".
+## Status Konservasi Atlas Moth di Taiwan
 
-## Krisis Konservasi Kupu-kupu Raja Taiwan
+Sebuah laporan tahun 2025 menyebutkan bahwa karena kerusakan lingkungan, Atlas Moth kini lebih jarang terlihat di alam liar dan hanya dapat diamati pada musim serta lokasi tertentu. "Bank Pohon Bunga" (Flower Tree Bank) di Dacun, Changhua, melakukan pemulihan populasi Atlas Moth dengan menyediakan kawasan tanpa pestisida dan memiliki tanaman pakan yang cukup; pendirinya, Kuo Chun-yin (郭俊銀), menemukan setidaknya 5 larva Atlas Moth pada tanaman _Schefflera chinensis_ (琉球暗羅) yang terancam punah di taman tersebut, padahal sebelumnya tidak ada catatan Atlas Moth yang tinggal pada tanaman tersebut.[^8]
 
-Kupu-kupu Raja Taiwan menghadapi krisis kelangsungan hidup yang serius. Meskipun tidak secara resmi masuk daftar spesies konservasi, populasi liarnya menurun drastis. Ancaman utama meliputi:
+Penelitian yang dirangkum dalam Wikipedia bahasa Inggris mencantumkan ancaman umum bagi ngengat besar: perubahan iklim, penangkapan, polusi cahaya, pestisida, serta hilangnya dan fragmentasi habitat.[^5] Bagi Atlas Moth, penebangan pohon inang, lampu di malam hari, dan pestisida di perkebunan berdampak langsung pada fase larva (satu-satunya waktu mereka makan) dan fase dewasa yang sangat singkat.
 
-Hilangnya habitat adalah ancaman paling langsung: hutan dataran rendah hingga menengah menghadapi tekanan pengembangan besar, perluasan perumahan, kawasan industri, pertanian memampatkan ruang hidup Kupu-kupu Raja. Data 2020 dari Jaringan Keanekaragaman Hayati Taiwan (TBN) menunjukkan catatan pengamatan Kupu-kupu Raja terkonsentrasi di area pegunungan rendah Kabupaten Miaoli, Nantou, Hualien, daerah urbanisasi hampir tidak memiliki catatan. Pencahayaan buatan malam mengganggu sistem navigasi Kupu-kupu Raja, membuat jantan tidak bisa melacak feromon dengan akurat; pestisida yang banyak digunakan pada tanaman inang buah langsung mengancam kelangsungan hidup larva; perubahan iklim mengubah suhu dan kelembaban, mempengaruhi siklus reproduksi dan distribusi tanaman inang. Ciri sejarah hidup Kupu-kupu Raja membuatnya sangat rentan terhadap guncangan: umur dewasa pendek, jangkauan aktivitas terbatas, bergantung pada tanaman inang spesifik, ciri-ciri yang merupakan keuntungan di lingkungan stabil justru menjadi kelemahan di lingkungan modern yang berubah cepat.
+## Hubungan Manusia dengan Atlas Moth
 
-## Kupu-kupu Raja dalam Budaya Rakyat Taiwan
+Pada tahun 1970-an, Atlas Moth dibudidayakan secara komersial dalam jumlah besar di Taiwan; ngengat dewasa dijadikan spesimen dekorasi, dan kokonnya digunakan untuk membuat dompet. Setelah industri serangga menurun pada tahun 1980-an, populasi liar baru perlahan kembali ke kondisi alaminya.[^1] Kokon dapat digunakan sebagai dompet karena daya tahannya yang kuat.[^4]
 
-Di kalangan rakyat Taiwan, Kupu-kupu Raja memiliki nama bergema: "Kupu-kupu Raja" (霸王蝶 - Bawangdie). Meskipun dia bukan kupu-kupu (蝴蝶), nama ini mencerminkan rasa takjub orang terhadap tubuhnya yang raksasa. Di area Hakka beredar mitos "kupu-kupu malam masuk rumah, pasti ada tamu mulia", Kupu-kupu Raja terbang ke dalam rumah dianggap pertanda baik. Dalam budaya orang asli, kupu-kupu raksasa sering dianggap化身 nenek moyang, dalam legenda suku Atayal, kupu-kupu besar dengan pola mata di sayapnya adalah mata nenek moyang yang mengawasi suku. Kini, "tamu mulia" semacam ini semakin jarang mengunjungi desa-desa Taiwan.
+Di India, Atlas Moth dibudidayakan secara non-komersial untuk mengambil sutranya. Sutra ini berupa serat berwarna cokelat dengan tekstur seperti wol yang disebut _fagara_, dan dianggap lebih tahan lama daripada sutra ulat sutra rumahan.[^5][^4] Mengenai Mothra dalam film monster Toho, Wikipedia bahasa Inggris menulis bahwa desainnya dipengaruhi oleh ulat sutra dan ngengat besar dari famili Saturniidae, sementara Wikipedia bahasa Mandarin secara langsung menyebutkan bahwa Atlas Moth adalah prototipenya.[^9][^6]
 
-## Pembagian Niche Ekologis dengan Kupu-kupu Besar Lain di Taiwan
+## Jenis Ngengat Besar Lainnya di Taiwan
 
-Taiwan masih memiliki beberapa jenis kupu-kupu besar lain, masing-masing menempati niche ekologis yang berbeda:
+Taiwan juga memiliki beberapa jenis ngengat besar lainnya, yang paling mudah dikenali adalah tiga jenis _Saturniidae_ ekor panjang. _Saturnia pyralis_ dan spesies endemik Taiwan _Saturnia pyralis formosana_ adalah ngengat yang umum ditemukan di pegunungan ketinggian menengah-rendah, sedangkan spesies endemik Taiwan _Actias maenas_ (姬長尾水青蛾) tinggal di pegunungan ketinggian menengah-tinggi dengan ukuran tubuh hanya 6 hingga 7 cm.[^10] Mereka berada dalam famili Saturniidae yang sama dengan Atlas Moth.
 
-**Kupu-kupu Ekor Panjang (Actias selene)** sayapnya berwarna hijau muda, sayap belakang memiliki ekor panjang, menyukai lingkungan ketinggian lebih tinggi, larva memakan tanaman famili Fagaceae. **Kupu-kupu Jendela Transparan (Rhodinia fugax)** sayapnya memiliki "jendela" transparan, sebaran tumpang tindih dengan Kupu-kupu Raja, tapi lebih suka lingkungan pegunungan. **Kupu-kupu Besar Ekor Layang (Acosmeryx naga)** sayap berbentuk ekor layang, terbang cepat, terutama aktif di ketinggian menengah hingga tinggi, kompetisi habitat dengan Kupu-kupu Raja relatif sedikit.
+## Perlindungan Habitat: Menyisakan Langit bagi Atlas Moth
 
-Kupu-kupu besar ini bersama-sama membentuk rantai penting ekosistem malam Taiwan. Mereka adalah sumber makanan banyak laba-laba, burung, kelelawar, sekaligus penyerbuk tanaman. Statistik 2022 dari Jaringan Keanekaragaman Hayati Taiwan (TBN) menunjukkan jumlah laporan pengamatan kupu-kupu besar berkurang sekitar 15% dibanding 2018, menunjukkan populasi serangga malam sedang menyusut. Kehilangan spesies apa pun akan memengaruhi keseimbangan ekologi secara keseluruhan.
-
-## Perlindungan Habitat: Sisakan Sebidang Langit untuk Kupu-kupu Raja
-
-Melindungi Kupu-kupu Raja berarti melindungi keanekaragaman hayati hutan dataran rendah Taiwan. Area kamping Sanwan Miaoli yang bisa memotret Kupu-kupu Raja menunjukkan bahwa antara aktivitas manusia yang wajar dan konservasi alam memang bisa menemukan titik keseimbangan, lingkungan semi-buatan jika dikelola dengan baik bisa menjadi tempat perlindungan satwa liar. Dalam mengurangi pencemaran cahaya, menggunakan lampu yang mengarah ke bawah, memilih lampu kuning yang tidak sensitif bagi serangga, semuanya bisa mengurangi gangguan pada serangga malam. Menanam tanaman inang Kupu-kupu Raja di taman, kampus, perumahan, bisa memberikan habitat "batu loncatan" bagi mereka. Partisipasi sains warga juga sangat penting: pecinta fotografi dan pengamat alam mencatat lokasi dan waktu kemunculan Kupu-kupu Raja, membantu membangun data distribusi populasi yang lengkap.
-
-## Fakta Menakjubkan
-
-Kemampuan sensorik Kupu-kupu Raja menakjubkan: antena jantan memiliki lebih dari 300.000 reseptor penciuman, mampu mendeteksi feromon betina dari jarak 10 kilometer, sensitivitasnya jauh melampaui alat buatan apa pun. Nama Inggris "Atlas Moth" berasal dari mitos Yunani tentang raksasa Atlas yang memikul bumi, juga ada yang berkata garis-garis di sayapnya seperti peta. Mothra dalam seri Godzilla dirancang berdasarkan Kupu-kupu Raja.
-
-Dalam pemanfaatan material, India membuat sutra "fagara" dari sutera Kupu-kupu Raja, kepadatannya 80% lebih tinggi dari sutera biasa, teksturnya tebal seperti wol. Di kalangan rakyat Taiwan dulu pernah membuat dompet kecil dari cangkang kokon Kupu-kupu Raja, teksturnya kuat dan tahan air.
-
-Strategi reproduksi Kupu-kupu Raja juga unik: biasanya hanya kawin sekali seumur hidup, betina setelah kawin melepaskan anti-feromon, mencegah jantan lain mendekat. Untuk menghemat cadangan lemak, Kupu-kupu Raja hanya terbang saat perlu, sebagian besar waktu diam di batang pohon, pola sayapnya hampir menyatu sepenuhnya dengan kulit kayu, bahkan dalam jarak 50 cm pun sulit ditemukan.
+Melindungi Atlas Moth berarti menjaga pohon inangnya di pegunungan rendah dan mengurangi lampu yang menyorot ke langit pada malam hari. Menanam pohon asli seperti _Solanum nigrum_, _Schefflera arboricola_, dan _Euodia kisoana_ di taman, sekolah, atau dekat rumah,[^1][^2] sama saja dengan menyediakan "batu pijakan" tambahan bagi mereka di pinggiran kota. Upaya "Bank Pohon Bunga" dalam memulihkan populasi Atlas Moth melalui kawasan tanpa pestisida dan kaya tanaman pakan adalah salah satu contoh kontribusi masyarakat sipil.[^8] Bagi orang-orang yang menemukan Atlas Moth di alam liar, mengunggah foto, lokasi, dan tanggal ke iNaturalist[^7] adalah cara utama saat ini untuk menyusun peta distribusi Atlas Moth di Taiwan.
 
 ## Referensi
 
-[^1]: [Catatan Observasi Kupu-kupu Raja Taiwan di iNaturalist](https://catalog.digitalarchives.tw/item/00/5b/8e/5c.html) — Catatan pengamatan dan data distribusi Kupu-kupu Raja Taiwan.
+[^1]: [Atlas Moth | Koleksi Museum Sains Nasional (Katalog Digital Terpadu)](https://catalog.digitalarchives.tw/item/00/5b/8e/5c.html) — Wang Hsiao-yueh (1994): Populasi dicatat sebagai _A. atlas formosanus_, inang meliputi _Solanum nigrum_, _Ficus pumila_, _Schefflera arboricola_, rata-rata bertelur sekitar 200 butir, dari telur ke dewasa sekitar 70 hari, dua generasi per tahun di utara dengan musim dingin dalam bentuk pupa, budidaya komersial dan kokon untuk dompet pada 1970-an.
 
-[^2]: [Jaringan Keanekaragaman Hayati Taiwan](https://taieol.tw/pages/107777) — Database distribusi dan spesimen Kupu-kupu Raja.
+[^2]: [Atlas Moth | Ensiklopedia Kehidupan Taiwan](https://taieol.tw/pages/107777) — Ditulis oleh Yen Sheng-hung: Rentang sayap 20 hingga 30 cm, nama lain Ngengat Kepala Ular, larva dapat memakan _Schefflera arboricola_, _Euodia kisoana_, dan jambu biji.
 
-[^3]: [Kementerian Pertanian Kehutanan dan Konservasi Alam](https://news.ltn.com.tw/news/Taipei/breakingnews/5520373) — Kebijakan dan sumber konservasi kupu-kupu Taiwan.
+[^3]: [Hidup Dewasa Hanya 1 hingga 2 Minggu! Kemunculan Atlas Moth di Kebun Binatang Taipei Mengungkap Rahasia Pola Sayap "Kepala Ular Raksasa" | Liberty Times](https://news.ltn.com.tw/news/Taipei/breakingnews/5520373) — 28-07-2026, Kebun Binatang Taipei: Distribusi mencakup pegunungan rendah Taiwan, enam tahap instar, menggulung daun untuk kokon, fase pupa satu atau dua bulan dan dapat melewati musim dingin, ngengat dewasa hidup 1 hingga 2 minggu.
 
-[^4]: [Kupu-kupu Raja - Wikipedia](https://www.nhm.ac.uk/discover/spotlight-the-atlas-moth.html) — Penjelasan morfologi, distribusi, dan kebiasaan ekologi Kupu-kupu Raja.
+[^4]: [Spotlight: the atlas moth｜Natural History Museum](https://www.nhm.ac.uk/discover/spotlight-the-atlas-moth.html) — Museum Sejarah Alam London: Rentang sayap maksimal 27 cm, ngengat dewasa hidup satu hingga dua minggu, meniru ular dengan menggeliat di tanah saat terancam, sutra _fagara_, kokon digunakan sebagai dompet karena daya tahannya.
 
-[^5]: [Attacus atlas - Picture Insect](https://en.wikipedia.org/wiki/Attacus_atlas) — Sejarah hidup dan ciri pengenalan Kupu-kupu Raja.
+[^5]: [Attacus atlas｜Wikipedia](https://en.wikipedia.org/wiki/Attacus_atlas) — Peringkat rentang dan luas sayap, telur 2,5 mm, enam tahap instar, larva 11,5 cm, kokon 7–8 cm, ngengat jantan mendeteksi feromon dari jarak beberapa kilometer, ancaman bagi ngengat besar.
 
-Bacaan Lanjutan:
+[^6]: [Atlas Moth｜Wikipedia](https://zh.wikipedia.org/zh-tw/皇蛾) — Luas sayap tertinggi 400 cm², di Hong Kong disebut Ngengat Kepala Ular, pandangan ahli tentang fungsi pola kepala ular, teori prototipe Mothra.
 
-- 《Catatan Serangga Taiwan》- Karya Zhang Yongren
-- 《Teknik Fotografi Ekologi Serangga Lepidoptera》- Wajib Baca untuk Pecinta Fotografi
+[^7]: [Attacus atlas｜iNaturalist Taiwan](https://taiwan.inaturalist.org/taxa/125071-Attacus-atlas) — Per 10-10-2026, melalui kueri API publik terdapat total 428 catatan tingkat penelitian dan menunggu identifikasi di Taiwan.
+
+[^8]: [Pasar Properti / Sinyai Realty Mendukung Flower Tree Bank, Hasil Awal Konservasi Ekologi｜NOWnews](https://www.nownews.com/news/6699611) — 25-06-2025: Pemulihan Atlas Moth oleh Flower Tree Bank, ditemukan setidaknya 5 larva pada _Schefflera chinensis_, Atlas Moth kini lebih jarang terlihat di alam liar.
+
+[^9]: [Mothra｜Wikipedia](https://en.wikipedia.org/wiki/Mothra) — Desain Mothra dipengaruhi oleh ulat sutra dan ngengat besar dari famili Saturniidae.
+
+[^10]: [Lebih Fantastis dari Hijau Tiffany! "Actias maenas" Spesies Terbatas Taiwan Terungkap｜ETtoday](https://www.ettoday.net/news/20160318/665338.htm) — 18-03-2016, fotografer Xue Yang: Ada tiga jenis ngengat ekor panjang di Taiwan, _Actias maenas_ adalah spesies endemik yang mendiami ketinggian menengah-tinggi, dua lainnya adalah ngengat umum di ketinggian menengah-rendah.
+
+**Bacaan Lanjutan**:
+
+- [Trenggiling Taiwan](/id/nature/taiwan-pangolin) — Penghuni malam lainnya di pegunungan rendah
+- [Konservasi Harimau Batu Taiwan](/id/nature/taiwanese-leopard-cat-conservation) — Situasi lain di bawah tekanan pembangunan pegunungan rendah
+- [Ekosistem Hutan Taiwan](/id/nature/taiwan-forest-ecosystems) — Sabuk ekologi lengkap dari hutan gugur ketinggian rendah hingga hutan konifer pegunungan tinggi
 
 ---
 
-_Kisah Kupu-kupu Raja Taiwan mengingatkan kita: di dunia yang berubah cepat ini, beberapa keindahan sedang perlahan hilang. Setiap pertemuan kebetulan di hutan, mungkin adalah yang terakhir. Melindungi mereka, berarti melindungi rumah kita sendiri._
+_Kisah Atlas Moth Taiwan mengingatkan kita: di dunia yang berubah cepat ini, beberapa keindahan sedang menghilang secara diam-diam. Setiap pertemuan di hutan pegunungan mungkin adalah yang terakhir. Melindungi mereka berarti melindungi rumah kita sendiri._
