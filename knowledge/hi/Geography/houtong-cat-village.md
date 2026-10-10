@@ -231,7 +231,7 @@ _2015 की हौतोंग आवारा बिल्ली — एक �
 - **猴硐街貓特寫**（scene-mid 1）— 攝影 Sun Taro（[Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:2015-05-03_feral_calico_cat_at_Houtong_(cropped_2022).jpg>)），2015 年 5 月 3 日。授權：[CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)。
 - **猴硐街景剪影**（scene-mid 2）— 攝影 lienyuan lee（[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Houtong_Cat_Street_%E4%BE%AF%E7%A1%90%E8%B2%93%E8%A1%97_-_panoramio.jpg)），2015 年。授權：[CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)。
 
-## 參考資料
+## संदर्भ सामग्री
 
 [^1]: [कैट लेडी का फेसबुक निकास बयान — लिबर्टी टाइम्स द्वारा पुनर्प्रकाशन](https://news.ltn.com.tw/news/society/breakingnews/1063418) — 24 जुलाई 2014 को चेन पेई-लिंग ने फेसबुक पर छोड़ा 'बिल्लियों का लगातार उपभोग, मेरा उपभोग, हौतोंग का उपभोग' और 'जुलाई से हम औपचारिक रूप से यहां से निकल रहे हैं' मूल पाठ, लिबर्टी टाइम्स की रिपोर्ट में शब्दशः उद्धृत।
 

@@ -194,7 +194,7 @@ _जियाई नगर कला संग्रहालय।Photo: जि
 
 §嘉義街頭三天的屍體章節插兩張圖：[Chiayi Railway Station](https://commons.wikimedia.org/wiki/File:Chiayi_Railway_Station.JPG)（嘉義火車站第二代，1933 年宇敷赳夫設計。Photo: Bigmorr，[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)），以及 [Chiayi Art Museum](https://commons.wikimedia.org/wiki/File:Chiayi_Art_Museum.jpg)（嘉義市立美術館，2020 年 10 月開館，前身為 1936 年菸酒公賣局嘉義分局。Photo: 嘉義市政府，政府網站資料開放宣告）。
 
-## 參考資料
+## संदर्भ सामग्री
 
 [^1]: [चियाई शहर केंद्रीय फव्वारा इतिहास — चियाई शहर सरकार पर्यटन वेबसाइट](https://travel.chiayi.gov.tw/) — 1970 के दशक में मेयर शू शिह्सियन के कार्यकाल के दौरान सात रंगों वाला फव्वारा बनाया गया, जिसमें 14 प्रकार के परिवर्तन थे, ऊंचाई 20 मीटर तक; संस्कृति मार्ग, जोंगशान मार्ग, गोंगमिंग मार्ग, गुआंगहुआ मार्ग के चौराहे पर स्थित है।
 
