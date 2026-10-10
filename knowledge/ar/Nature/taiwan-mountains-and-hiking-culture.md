@@ -109,7 +109,7 @@ translatedAt: '2026-07-27T20:19:56+08:00'
 - [台灣高山生態系與冰河孑遺](/ar/nature/taiwan-alpine-ecosystems-glacial-relicts) — المراعي الجبلية فوق 3000 متر والأنواع الباقية من الحقبة الجليدية
 - [台灣國家公園](/ar/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — إدارة وحفظ ثلاث حدائق وطنية جبلية: يوشان، شويبا، تاروكو
 - [台灣步道文化與公民守護](/ar/nature/trail-culture-and-civic-stewardship) — حركة عدم ترك أثر في الجبال وممارسة مشاركة المواطنين في صيانة الدروب محليًا
-- [台灣原住民生態智慧與環境保育](/nature/台灣原住民生態智慧與環境保育) — كيف تحاور حكمة الغابات القديمة الحفظ الحديث
+- [台灣原住民生態智慧與環境保育](/ar/nature/taiwanese-indigenous-ecological-wisdom-conservation) — كيف تحاور حكمة الغابات القديمة الحفظ الحديث
 
 ## المراجع
 

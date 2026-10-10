@@ -110,9 +110,9 @@ translatedAt: '2026-07-26T07:02:12+08:00'
 
 ## قراءة إضافية
 
-- [موسيقى هوبانغ في تايوان](/music/台灣客家音樂/)
-- [حركة الأغاني الشعبية في تايوان](/music/台灣民歌運動/)
-- [الموسيقى المستقلة في تايوان](/music/台灣獨立音樂/)
+- [موسيقى هوبانغ في تايوان](/ar/music/taiwan-hakka-music-from-mountain-songs-to-rock/)
+- [حركة الأغاني الشعبية في تايوان](/ar/music/taiwan-campus-folk-song-movement/)
+- [الموسيقى المستقلة في تايوان](/ar/music/indie-music-scene/)
 - [تاريخ تطور الموسيقى الروك في تايوان](/ar/music/taiwan-rock-from-underground-to-mainstream/)
 
 ## المراجع

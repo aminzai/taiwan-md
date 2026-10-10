@@ -244,5 +244,5 @@ difficulty: 'beginner'
 قراءة موسعة:
 
 - [نظام الأنهار في تايوان وخصائصه الهيدرولوجية](/ar/geography/taiwan-river-systems-and-hydrology)
-- [المناخ](/geography/氣候)
+- [المناخ](/ar/geography/climate)
 - [حركة الصفائح التكتونية في تايوان والنشاط الزلزالي](/ar/geography/tectonic-plates-and-seismic-activity)
