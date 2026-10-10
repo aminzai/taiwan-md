@@ -18,7 +18,7 @@ readingTime: 28
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: 'Technology/Facebook.md'
-sourceCommitSha: 'ac86475b'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:79e35442d2cf14fd'
 sourceBodyHash: 'sha256:5ed7f28c852729fe'
 translatedAt: '2026-06-16T17:14:11Z'

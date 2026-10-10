@@ -21,7 +21,7 @@ lastHumanReview: true
 featured: true
 researchReport: reports/research/2026-04/鄧麗君.md
 translatedFrom: 'People/鄧麗君.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:137ce9f0ad4e78d5'
 sourceBodyHash: 'sha256:d9aced35b5cf6b29'
 translatedAt: '2026-05-02T14:18:00+08:00'
