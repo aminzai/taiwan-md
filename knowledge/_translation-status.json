@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-11T02:52:53+08:00",
-    "zhCommitHead": "54e17f376",
+    "lastUpdated": "2026-10-11T03:18:12+08:00",
+    "zhCommitHead": "4e8717204",
     "totalZh": 1126,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1126,
-        "fresh": 1107,
-        "stale": 18,
+        "fresh": 1108,
+        "stale": 17,
         "metadata_stale": 0,
         "missing": 1,
         "orphan": 0
@@ -76,40 +76,40 @@
       },
       "pt": {
         "total_zh": 1126,
-        "fresh": 1123,
-        "stale": 1,
+        "fresh": 1124,
+        "stale": 0,
         "metadata_stale": 1,
         "missing": 1,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1126,
-        "fresh": 1122,
-        "stale": 2,
+        "fresh": 1123,
+        "stale": 1,
         "metadata_stale": 1,
         "missing": 1,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1126,
-        "fresh": 1119,
-        "stale": 4,
+        "fresh": 1120,
+        "stale": 3,
         "metadata_stale": 2,
         "missing": 1,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1126,
-        "fresh": 1123,
-        "stale": 2,
+        "fresh": 1124,
+        "stale": 1,
         "metadata_stale": 0,
         "missing": 1,
         "orphan": 0
       },
       "de": {
         "total_zh": 1126,
-        "fresh": 1124,
-        "stale": 1,
+        "fresh": 1125,
+        "stale": 0,
         "metadata_stale": 0,
         "missing": 1,
         "orphan": 0
@@ -52794,18 +52794,18 @@
         "hi": {
           "path": "hi/Lifestyle/hot-spring-culture.md",
           "translatedFrom": "Lifestyle/溫泉文化.md",
-          "sourceCommitSha": "",
+          "sourceCommitSha": "4b6d28c54",
           "sourceContentHash": "sha256:5c053dd9110acc9b",
           "sourceBodyHash": "sha256:62212c95c5c34acf",
-          "translatedAt": "2026-07-25T19:27:04+08:00",
+          "translatedAt": "2026-10-11T01:05:49+08:00",
           "translationLastCommit": "6e84fa91",
           "translationLastModified": "2026-10-10T23:12:33+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 20169,
+          "bytes": 45127,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Lifestyle/hot-spring-culture.md",
@@ -72886,18 +72886,18 @@
         "ja": {
           "path": "ja/Society/chinese-taipei.md",
           "translatedFrom": "Society/中華台北.md",
-          "sourceCommitSha": "",
+          "sourceCommitSha": "bbd8788a3",
           "sourceContentHash": "sha256:177fea3750c80f10",
           "sourceBodyHash": "sha256:dab437d622fd59b0",
-          "translatedAt": "2026-06-16T16:55:14Z",
+          "translatedAt": "2026-10-10T19:08:30.314655+00:00",
           "translationLastCommit": "5662fa47",
           "translationLastModified": "2026-10-10T23:40:42+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "bytes": 46781,
+          "bytes": 60668,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Society/chinese-taipei.md",
@@ -74708,8 +74708,8 @@
           "sourceContentHash": "sha256:288b132714804aff",
           "sourceBodyHash": "sha256:f51e2d5a46bf8d87",
           "translatedAt": "2026-10-10T17:08:08.802015+00:00",
-          "translationLastCommit": "5662fa47",
-          "translationLastModified": "2026-10-10T23:40:42+08:00",
+          "translationLastCommit": "4e871720",
+          "translationLastModified": "2026-10-11T02:52:54+08:00",
           "inferred": false,
           "footnoteDefs": 36,
           "bytes": 89413,
@@ -84298,18 +84298,18 @@
         "pt": {
           "path": "pt/Nature/taiwan-atlas-moth.md",
           "translatedFrom": "Nature/台灣皇蛾.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:c0def8638e893fc6",
-          "sourceBodyHash": "sha256:b3b31dae4152e213",
-          "translatedAt": "2026-07-26T07:02:07+08:00",
+          "sourceCommitSha": "38a5f7e2a",
+          "sourceContentHash": "sha256:a407c4cd5d546815",
+          "sourceBodyHash": "sha256:94480d54498a46b7",
+          "translatedAt": "2026-10-11T01:05:48+08:00",
           "translationLastCommit": "283a1d9c",
           "translationLastModified": "2026-10-10T23:30:09+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "bytes": 14464,
+          "footnoteDefs": 10,
+          "bytes": 14760,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (10→5)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Nature/taiwan-atlas-moth.md",
@@ -84346,34 +84346,34 @@
         "ru": {
           "path": "ru/Nature/taiwan-atlas-moth.md",
           "translatedFrom": "Nature/台灣皇蛾.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:c0def8638e893fc6",
-          "sourceBodyHash": "sha256:b3b31dae4152e213",
-          "translatedAt": "2026-07-26T17:01:34+08:00",
+          "sourceCommitSha": "38a5f7e2a",
+          "sourceContentHash": "sha256:a407c4cd5d546815",
+          "sourceBodyHash": "sha256:94480d54498a46b7",
+          "translatedAt": "2026-10-11T01:05:51+08:00",
           "translationLastCommit": "ffcf15ba",
           "translationLastModified": "2026-10-10T23:30:24+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "bytes": 23139,
+          "footnoteDefs": 10,
+          "bytes": 22980,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (10→5)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Nature/taiwan-atlas-moth.md",
           "translatedFrom": "Nature/台灣皇蛾.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:c0def8638e893fc6",
-          "sourceBodyHash": "sha256:b3b31dae4152e213",
-          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "sourceCommitSha": "38a5f7e2a",
+          "sourceContentHash": "sha256:a407c4cd5d546815",
+          "sourceBodyHash": "sha256:94480d54498a46b7",
+          "translatedAt": "2026-10-11T01:05:52+08:00",
           "translationLastCommit": "d9fb4ef6",
           "translationLastModified": "2026-10-10T23:28:21+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "bytes": 14779,
+          "footnoteDefs": 10,
+          "bytes": 15536,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (10→5)"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -86554,20 +86554,18 @@
         "ar": {
           "path": "ar/Nature/typhoons-in-taiwan.md",
           "translatedFrom": "Nature/颱風.md",
-          "sourceCommitSha": "31a05c44b",
-          "sourceContentHash": "sha256:b0a47a120aff0621",
-          "sourceBodyHash": "sha256:b8ebcfc4e0a96ce7",
-          "translatedAt": "2026-07-29T17:42:49+08:00",
+          "sourceCommitSha": "f40273072",
+          "sourceContentHash": "sha256:ae6eb429d45b37f4",
+          "sourceBodyHash": "sha256:a891f90b49935053",
+          "translatedAt": "2026-10-11T01:05:50+08:00",
           "translationLastCommit": "f1daf600",
           "translationLastModified": "2026-10-10T23:14:31+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 44043,
+          "bytes": 47852,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Nature/typhoons-in-taiwan.md",
