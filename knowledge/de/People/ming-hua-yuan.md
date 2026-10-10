@@ -4,7 +4,14 @@ description: '1929 von Chen Ming-chi in Tainan gegründet, 1962 nach Chaozhou, P
 date: 2026-03-19
 category: 'People'
 subcategory: '藝術與設計'
-tags: ['Kunst und Design', 'Taiwan-Oper', 'Traditionelle Kunst', 'Darstellende Kunst', 'Vier-Generationen-Tradition']
+tags:
+  [
+    'Kunst und Design',
+    'Taiwan-Oper',
+    'Traditionelle Kunst',
+    'Darstellende Kunst',
+    'Vier-Generationen-Tradition',
+  ]
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07
@@ -13,6 +20,7 @@ readingTime: 7
 translatedFrom: 'People/明華園.md'
 sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:a307dd589de077a1'
+sourceBodyHash: 'sha256:ad65be5d0003de06'
 translatedAt: '2026-08-19T04:30:30+08:00'
 ---
 

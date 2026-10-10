@@ -30,6 +30,7 @@ relatedDiary: ['2026-06-14-013210-呂冠緯-evolve']
 translatedFrom: 'People/呂冠緯.md'
 sourceCommitSha: '0bedbf853'
 sourceContentHash: 'sha256:8eb31268ec4f6e73'
+sourceBodyHash: 'sha256:5b5dbb7b472ae1b0'
 translatedAt: '2026-09-21T22:09:59.167882+00:00'
 ---
 

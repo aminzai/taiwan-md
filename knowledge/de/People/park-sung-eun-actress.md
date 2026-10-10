@@ -3,7 +3,16 @@ title: 'Park Seong-eun'
 description: 'Vom Austauschgast zur offiziellen Verpflichtung bei Fubon: Mit schneller Anpassung und Bühnenstabilität wurde sie zur Vertreterin der neuen Generation unter den fünf koreanischen Stützen.'
 date: 2026-05-13
 category: 'People'
-tags: ['Popkultur-Persönlichkeit', 'Park Seong-eun', 'Korea', 'Cheerleading', 'Fubon Guardians', 'Fubon Angels', 'CPBL']
+tags:
+  [
+    'Popkultur-Persönlichkeit',
+    'Park Seong-eun',
+    'Korea',
+    'Cheerleading',
+    'Fubon Guardians',
+    'Fubon Angels',
+    'CPBL',
+  ]
 subcategory: '流行人物'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -14,6 +23,7 @@ curation: incubating
 translatedFrom: 'People/朴星垠.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:5df4fb1f6d28d13a'
+sourceBodyHash: 'sha256:f656fc0bb3872e67'
 translatedAt: '2026-08-13T02:49:00+08:00'
 ---
 

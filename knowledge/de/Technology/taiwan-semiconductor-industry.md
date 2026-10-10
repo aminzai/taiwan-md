@@ -21,6 +21,7 @@ author: 'Taiwan.md'
 translatedFrom: 'Technology/半導體產業.md'
 sourceCommitSha: '6ffd92f94'
 sourceContentHash: 'sha256:c91074d5ba69e3b2'
+sourceBodyHash: 'sha256:d37164a7592bd08a'
 translatedAt: '2026-08-12T16:22:42.438418+00:00'
 featured: true
 lastVerified: 2026-05-19

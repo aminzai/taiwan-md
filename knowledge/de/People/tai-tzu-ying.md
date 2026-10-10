@@ -3,7 +3,16 @@ title: 'Tai Tzu-ying'
 description: 'Rekordhalterin mit 214 Wochen als Weltranglistenerste, die taiwanesische Badminton-Königin von Qianzhen, Kaohsiung, bis zur olympischen Silbermedaille'
 date: 2026-03-21
 category: 'People'
-tags: ['Personen', 'Tai Tzu-ying', 'Badminton', 'Weltranglistenerste', 'Olympia', 'Sportlerin', 'Taiwan']
+tags:
+  [
+    'Personen',
+    'Tai Tzu-ying',
+    'Badminton',
+    'Weltranglistenerste',
+    'Olympia',
+    'Sportlerin',
+    'Taiwan',
+  ]
 subcategory: '體育'
 author: 'Taiwan.md'
 featured: true
@@ -12,6 +21,7 @@ lastHumanReview: true
 translatedFrom: 'People/戴資穎.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:0e8d85d535dca885'
+sourceBodyHash: 'sha256:72bb27cc8697bfee'
 translatedAt: '2026-08-13T04:30:00+08:00'
 ---
 

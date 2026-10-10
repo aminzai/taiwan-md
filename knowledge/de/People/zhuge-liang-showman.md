@@ -12,6 +12,7 @@ lastHumanReview: false
 translatedFrom: 'People/豬哥亮.md'
 sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:5036e4bfba008b32'
+sourceBodyHash: 'sha256:267addb8edcb3bef'
 translatedAt: '2026-08-13T08:30:00+08:00'
 ---
 
@@ -130,7 +131,11 @@ Sprachwissenschaftler analysieren die Struktur des Zhu-Stil-Humors und fassen se
 ## Referenzen
 
 [^1]: Wikipedia-Artikel „Zhu Geliang“, https://zh.wikipedia.org/zh-tw/%E8%B1%AC%E5%93%A5%E4%BA%AE, Geburtsort: Bezirk Zuoying, Kaohsiung
+
 [^2]: Liberty Times „Abschied von Zhu Geliang, zehntausende begleiten den Zug“, https://news.ltn.com.tw/, 21. Mai 2017
+
 [^3]: Taiwanesische Fernsehdatenbank, https://tv.nccu.edu.tw/, Dokumentation zur Sendung „Zhu Geliangs Club“
+
 [^4]: CNA „David Loman spielt über 300 Millionen ein“, https://www.cna.com.tw/, Kassenbericht Februar 2013
+
 [^5]: United Daily News „Zhu Geliang am 15. Mai gestorben, 70 Jahre“, https://udn.com/, 15. Mai 2017

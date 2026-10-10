@@ -3,7 +3,16 @@ title: 'Ahn Ji-hyun'
 description: 'Von der professionellen Cheerleader-Szene in Korea zu den Wing Stars von Taiwan Steel bringt Ahn Ji-hyun internationale Auftrittserfahrung nach Kaohsiung; die Taipei-Dome-Phase im Mai 2026 wurde auch zu einem öffentlichen Zeitpunkt für ihre Verletzungsanpassungen und ihre Rolle am Spielfeldrand.'
 date: 2026-05-13
 category: 'People'
-tags: ['Popkultur-Persönlichkeit', 'Ahn Ji-hyun', 'Südkorea', 'Cheerleading', 'Taiwan Steel Eagles', 'Wing Stars', 'Kaohsiung']
+tags:
+  [
+    'Popkultur-Persönlichkeit',
+    'Ahn Ji-hyun',
+    'Südkorea',
+    'Cheerleading',
+    'Taiwan Steel Eagles',
+    'Wing Stars',
+    'Kaohsiung',
+  ]
 subcategory: '流行人物'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -14,6 +23,7 @@ curation: incubating
 translatedFrom: 'People/安芝儇.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:a3017eb319bf2baf'
+sourceBodyHash: 'sha256:56208a71719992d2'
 translatedAt: '2026-08-12T16:35:33Z'
 ---
 
@@ -21,7 +31,7 @@ translatedAt: '2026-08-12T16:35:33Z'
 
 Als Taiwan Steel die erste Generation der Heimstadion-Kultur aufbaute, stand Ahn Ji-hyun bereits an vorderster Front. Sie war keine kurzfristige Mid-Season-Gastrolle, sondern begleitete von der Vorbereitung bis zur regulären Saison den Prozess und wuchs mit der Teamstruktur.
 
-Laut den ETtoday-Sportcloud-Berichten zur Wing-Stars-Gründungs-Pressekonferenz wurde bei der Bekanntgabe der koreanischen Auslands-Entsendung auch Ahn Ji-hyun als Leitungsrolle im Auftrittsbild genannt (die Berichterstattung beschreibt die Rollenaufteilung u. a. als „Cheerleading-Manager*in“). [Quelle: 東森新媒體／ETtoday Sportcloud][^1]
+Laut den ETtoday-Sportcloud-Berichten zur Wing-Stars-Gründungs-Pressekonferenz wurde bei der Bekanntgabe der koreanischen Auslands-Entsendung auch Ahn Ji-hyun als Leitungsrolle im Auftrittsbild genannt (die Berichterstattung beschreibt die Rollenaufteilung u. a. als „Cheerleading-Manager\*in“). [Quelle: 東森新媒體／ETtoday Sportcloud][^1]
 
 ## Mai 2026: Taipei-Dome-Phase und Verletzungsanpassung
 

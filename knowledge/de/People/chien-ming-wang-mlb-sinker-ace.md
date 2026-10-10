@@ -3,7 +3,15 @@ title: 'Wang Chien-ming: Von der Chien-hsing Junior High School, mit dem Sinker 
 description: '1980 in Tainan geboren, ist Wang Chien-ming der repräsentativste Pitcher in der Geschichte des taiwanesischen Profibaseballs in Amerika. Er besuchte die Chien-hsing Junior High School in Tainan und debütierte 2005 in der MLB. 2006 gewann er mit 19 Siegen und 6 Niederlagen zusammen mit Johan Santana den Titel des Sieg-Königs der American League (erster Asiate), 2007 folgten erneut 19-7. Nach einer Verletzung beim Laufen im Juni 2008 wendete sich seine Karriere. 2018 kam der Dokumentarfilm „Late Life: The Chien-Ming Wang Story“ heraus; 2023 beim WBC und 2024 bei der WBSC Premier12 war er Bullpen-Coach der chinesischen Taipei-Nationalmannschaft.'
 date: 2026-03-19
 category: 'People'
-tags: ['Sport', 'Baseball', 'MLB', 'New York Yankees', 'Pitcher in Amerika', 'Team Taiwan']
+tags:
+  [
+    'Sport',
+    'Baseball',
+    'MLB',
+    'New York Yankees',
+    'Pitcher in Amerika',
+    'Team Taiwan',
+  ]
 subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
@@ -17,6 +25,7 @@ readingTime: 9
 translatedFrom: 'People/王建民.md'
 sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:293ebde94cd99ba2'
+sourceBodyHash: 'sha256:d72e85599f59782f'
 translatedAt: '2026-08-13T05:20:00+08:00'
 ---
 
@@ -112,17 +121,18 @@ Von der Chien-hsing Junior High School in Tainan über das Yankee Stadium, den v
 
 ## Referenzen
 
-[^1]: [Wikipedia: Wang Chien-ming](<https://zh.wikipedia.org/zh-tw/王建民_(棒球運動員)>) – bestätigt Geburt 1980 in Tainan, Chien-hsing Junior High School, Trainer Chang Hsi-chieh, Details zur Verstauchung des rechten Fußgelenks (Lisfranc-Band) am 15.06.2008.
+[^1]: [Wikipedia: Wang Chien-ming](<https://zh.wikipedia.org/zh-tw/王建民_(棒球運動員) — Details in der verlinkten Originalquelle
 
-[^2]: [Sports Vision: Die Jahre, in denen wir gemeinsam um Wang Chien-ming verrückt waren](https://www.sportsv.net/articles/72833) – bestätigt 2006 mit 19-6 als geteilter AL-Siegkönig mit Johan Santana (nicht Vizemeister), erster asiatischer MLB-Siegkönig, im ersten ALDS-Spiel 2006 der erste Sieg eines asiatischen Pitchers in den MLB-Playoffs.
+[^2]: [Sports Vision: Die Jahre, in denen wir gemeinsam um Wang Chien-ming verrückt waren](https://www.sportsv.net/articles/72833) — Details in der verlinkten Originalquelle
 
-[^3]: [CNA: Wang Chien-ming kehrt in die MLB zurück (2016)](https://www.cna.com.tw/news/firstnews/201604035024.aspx) – bestätigt 2016 mit 36 Jahren Wechsel zu den Kansas City Royals und MLB-Rückkehr.
+[^3]: [CNA: Wang Chien-ming kehrt in die MLB zurück (2016)](https://www.cna.com.tw/news/firstnews/201604035024.aspx) — Details in der verlinkten Originalquelle
 
-[^4]: [CNA: Hinter „Late Life“ – die Entstehung des Wang-Chien-ming-Dokumentarfilms](https://www.cna.com.tw/culture/article/20181124w001) – bestätigt Regisseur Frank W. Chen, Drehstart 2014, 17 US-Städte und 4 taiwanesische Städte, Taiwan-Premiere am 14.12.2018.
+[^4]: [CNA: Hinter „Late Life“ – die Entstehung des Wang-Chien-ming-Dokumentarfilms](https://www.cna.com.tw/culture/article/20181124w001) — Details in der verlinkten Originalquelle
 
-[^5]: [Sports Vision: Von Wang Chien-ming zu Lin Yu-min bei der Premier12 – zwei Generationen von Assen, Traum erfüllt](https://www.sportsv.net/articles/115998) – enthält Wangs Rolle als Bullpen-Coach bei WBC 2023 und WBSC Premier12 2024 sowie die Zusammensetzung des Premier12-Titel-Trainerteams.
+[^5]: [Sports Vision: Von Wang Chien-ming zu Lin Yu-min bei der Premier12 – zwei Generationen von Assen, Tr…](https://www.sportsv.net/articles/115998) — Details in der verlinkten Originalquelle
 
-[^6]: [Yahoo Sports: Yankees erstmals seit 15 Jahren wieder in der World Series – die Offensive 2009, Liebling der Frühstücksgeschäfts-Omas](https://tw.sports.yahoo.com/news/mlb%E5%AD%A3%E5%BE%8C%E8%B3%BD-%E6%B4%8B%E5%9F%BA%E9%9A%9415%E5%B9%B4%E5%86%8D%E9%97%96%E4%B8%96%E7%95%8C%E5%A4%A7%E8%B3%BD-09%E5%B9%B4%E6%89%93%E7%B7%9A%E6%97%A9%E9%A4%90%E5%BA%97%E9%98%BF%E5%A7%A8%E6%9C%80%E6%84%9B-031356809.html) – enthält die Anekdoten zu „Diamond Offense/Frühstücksgeschäfts-Batting-Order“, die Startaufstellung der Yankees 2006-2007 und den Limit-Up-Effekt des Aktienmarkts.
+[^6]: [Yahoo Sports: Yankees erstmals seit 15 Jahren wieder in der World Series – die Offensive 2009, Liebl…](https://tw.sports.yahoo.com/news/mlb%E5%AD%A3%E5%BE%8C%E8%B3%BD-%E6%B4%8B%E5%9F%BA%E9%9A%9415%E5%B9%B4%E5%86%8D%E9%97%96%E4%B8%96%E7%95%8C%E5%A4%A7%E8%B3%BD-09%E5%B9%B4%E6%89%93%E7%B7%9A%E6%97%A9%E9%A4%90%E5%BA%97%E9%98%BF%E5%A7%A8%E6%9C%80%E6%84%9B-031356809.html) — Details in der verlinkten Originalquelle
 
-[^7]: [PTT Baseball: Diskussionsthread zu den McDonald's-Wang-Karten](https://www.pttweb.cc/bbs/Baseball/M.1512100215.A.789) – enthält die McDonald's-Spielerkarten (als kompletter Satz, Rückseite mit Gegnern, später internationale Edition) und den Werbeeffekt auf die Produktverkäufe.
-[^8]: [Sports Illustrated: Chien-Ming Wang Has A Secret](https://vault.si.com/vault/2008/04/21/chienming-wang-has-a-secret) – Sports-Illustrated-Spezialfeature 2008, das Wangs Sinker-Mechanik und Wettkampfmentalität analysiert; enthält auch den Hintergrund zu Wangs Aufnahme in die „100 einflussreichsten Menschen“ (Time 100) des _TIME_-Magazins 2007.
+[^7]: [PTT Baseball: Diskussionsthread zu den McDonald's-Wang-Karten](https://www.pttweb.cc/bbs/Baseball/M.1512100215.A.789) — Details in der verlinkten Originalquelle
+
+[^8]: [Sports Illustrated: Chien-Ming Wang Has A Secret](https://vault.si.com/vault/2008/04/21/chienming-wang-has-a-secret) — Details in der verlinkten Originalquelle

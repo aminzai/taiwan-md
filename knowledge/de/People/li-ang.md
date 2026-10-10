@@ -4,7 +4,15 @@ description: '1952 in Lugang, Changhua, geboren; bürgerlicher Name Shih Shu-tua
 date: 2026-03-19
 category: 'People'
 subcategory: '文學'
-tags: ['Literatur', 'Feministische Literatur', 'Der Frauenmörder', 'Der Irrgarten', 'Lugang', 'Geschlechterfragen']
+tags:
+  [
+    'Literatur',
+    'Feministische Literatur',
+    'Der Frauenmörder',
+    'Der Irrgarten',
+    'Lugang',
+    'Geschlechterfragen',
+  ]
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07
@@ -13,6 +21,7 @@ readingTime: 7
 translatedFrom: 'People/李昂.md'
 sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:b8ca4ead247add8e'
+sourceBodyHash: 'sha256:0a0f9bd1ab3db88b'
 translatedAt: '2026-08-19T04:30:30+08:00'
 ---
 

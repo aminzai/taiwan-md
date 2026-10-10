@@ -22,6 +22,7 @@ researchReport: 'reports/research/2026-05/想想論壇.md'
 translatedFrom: 'Society/想想論壇.md'
 sourceCommitSha: '4cd497a8f'
 sourceContentHash: 'sha256:f70c46509d85fa27'
+sourceBodyHash: 'sha256:320656ee0819969f'
 translatedAt: '2026-09-26T05:10:50.371017+00:00'
 ---
 

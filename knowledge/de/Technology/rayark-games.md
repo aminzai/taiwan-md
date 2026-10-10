@@ -44,6 +44,7 @@ sporeLinks:
 translatedFrom: 'Technology/雷亞遊戲.md'
 sourceCommitSha: '31a05c44b'
 sourceContentHash: 'sha256:76756fb2dd575588'
+sourceBodyHash: 'sha256:28ef520886f893e3'
 translatedAt: '2026-09-24T23:52:21.973138+00:00'
 ---
 

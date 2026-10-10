@@ -25,6 +25,7 @@ readingTime: 8
 translatedFrom: 'History/心戰.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:5c60d44b5f8680b8'
+sourceBodyHash: 'sha256:2904cf32d3eb3626'
 translatedAt: '2026-09-24T05:38:44+08:00'
 ---
 
@@ -47,12 +48,12 @@ Die **Beobachtungsstation Mashan** und der **Beschallungswall von Beishan** auf 
 
 Die Ballonabwurf-Operationen waren nicht nur das Verstreuen von Flugblättern, sondern eine visuelle und materielle Ausstellung „modernen Lebens".
 
-| Kategorie | Konkrete Warenliste [^5] [^11] | Psychologische Absicht |
-| :--- | :--- | :--- |
-| **Überlaufgeschenke** | **Ananaskuchen, Instantnudeln (mit Gewürzbeuteln), Fleischtrockenfleisch, Zucker, Schweineschmalzkonserven, Trockenrationen** | Zurschaustellung der Entwicklung von Taiwans Lebensmittelindustrie und des äußersten Überflusses an Gütern. |
-| **Alltagsgegenstände** | **Kleine Transistorradios, Armbanduhren, Füllfederhalter, Nagelknipser, Unterwäsche, Handtücher** | Radios dienten dazu, zum „heimlichen Abhören feindlicher Sender" zu ermutigen; Kleidung zeigte die Errungenschaften der Textilindustrie. |
-| **Medizinische Güter** | **Tigerbalsam, Erkältungsmedikamente, Pflaster** | Verkörperte die Fürsorge um die „körperliche Gesundheit" der Landsleute auf dem Festland und das Gefälle im medizinischen Standard. |
-| **Politische Ausweise** | **Fotos von Chiang Kai-shek, Überlaufscheine (mit Kautionsgarantie und Postenversprechen)** | Bot einen politischen Zufluchtsort und eine konkrete Chance zum wirtschaftlichen Aufstieg [^6]. |
+| Kategorie               | Konkrete Warenliste [^5] [^11]                                                                                                | Psychologische Absicht                                                                                                                   |
+| :---------------------- | :---------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
+| **Überlaufgeschenke**   | **Ananaskuchen, Instantnudeln (mit Gewürzbeuteln), Fleischtrockenfleisch, Zucker, Schweineschmalzkonserven, Trockenrationen** | Zurschaustellung der Entwicklung von Taiwans Lebensmittelindustrie und des äußersten Überflusses an Gütern.                              |
+| **Alltagsgegenstände**  | **Kleine Transistorradios, Armbanduhren, Füllfederhalter, Nagelknipser, Unterwäsche, Handtücher**                             | Radios dienten dazu, zum „heimlichen Abhören feindlicher Sender" zu ermutigen; Kleidung zeigte die Errungenschaften der Textilindustrie. |
+| **Medizinische Güter**  | **Tigerbalsam, Erkältungsmedikamente, Pflaster**                                                                              | Verkörperte die Fürsorge um die „körperliche Gesundheit" der Landsleute auf dem Festland und das Gefälle im medizinischen Standard.      |
+| **Politische Ausweise** | **Fotos von Chiang Kai-shek, Überlaufscheine (mit Kautionsgarantie und Postenversprechen)**                                   | Bot einen politischen Zufluchtsort und eine konkrete Chance zum wirtschaftlichen Aufstieg [^6].                                          |
 
 📝 **Kurator-Notiz**: Die „Instantnudeln" unter den Ballonabwürfen waren zu jener Zeit ein Symbol von enormer Sprengkraft auf dem Festland. Dieses industrielle Produkt, das man sofort zubereiten konnte und dem verschiedene Gewürzbeutel beilagen, verkörperte für die Menschen auf dem Festland, die sich noch im Rationierungssystem befanden, eine kaum vorstellbare „Effizienz" und einen kaum vorstellbaren „Wohlstand".
 

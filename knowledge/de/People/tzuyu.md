@@ -3,7 +3,16 @@ title: 'Chou Tzu-yu'
 description: 'Ein Mädchen aus Tainan, das nie Politik gesprochen hat, wurde durch eine 8-sekündige Flagge zum Wendepunkt des Schicksals Taiwans. Zehn Jahre später las sie im Taipeh Dome einen handgeschriebenen Brief: „Ich bin nicht gegangen – nicht, weil ich brav bin, sondern weil ich es wirklich will.“'
 date: 2026-04-14
 category: 'People'
-tags: ['Chou Tzu-yu', 'TWICE', 'Korea', 'K-POP', 'Flaggen-Vorfall', 'Taiwanesische Identität', 'Popmusik']
+tags:
+  [
+    'Chou Tzu-yu',
+    'TWICE',
+    'Korea',
+    'K-POP',
+    'Flaggen-Vorfall',
+    'Taiwanesische Identität',
+    'Popmusik',
+  ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: true
@@ -13,6 +22,7 @@ readingTime: 16
 translatedFrom: 'People/周子瑜.md'
 sourceCommitSha: 'd520299ba'
 sourceContentHash: 'sha256:d1ebd5978f6176a7'
+sourceBodyHash: 'sha256:4b373fac57d731f0'
 translatedAt: '2026-08-13T05:30:00+08:00'
 ---
 
@@ -161,8 +171,8 @@ Vor neun Jahren las sie in diesen 90 Sekunden einen Text, den jemand anderes ges
 
 Neun Monate später, vom 20. bis 22. März 2026, gab TWICE drei aufeinanderfolgende Shows im Taipeh Dome. Drei Tage, 120.000 Besucher; die Taipeher U-Bahn erreichte am 21. März einen Tagesfahrgastrekord von **2,606 Millionen** – historischer Monatsrekord[^14]. Sie stand in der Mitte des Taipeh Dome und weinte erneut.
 
-| 14.06.1999  | 15.11.2012         | 20.10.2015 | 15.01.2016     | 04/2019                | 06.09.2024        | 12/2024         | 22.11.2025         | 20.-22.03.2026     |
-| ----------- | ------------------ | ---------- | --------------- | ---------------------- | ----------------- | --------------- | ------------------ | ------------------ |
+| 14.06.1999        | 15.11.2012        | 20.10.2015  | 15.01.2016                 | 04/2019                                 | 06.09.2024         | 12/2024                     | 22.11.2025                         | 20.-22.03.2026            |
+| ----------------- | ----------------- | ----------- | -------------------------- | --------------------------------------- | ------------------ | --------------------------- | ---------------------------------- | ------------------------- |
 | Geboren in Tainan | mit 13 nach Korea | TWICE-Debüt | 90-Sekunden-Entschuldigung | erstes Mal „nicht leicht“ auf Instagram | abouTZU-Persona-EP | Psychologie-Master enthüllt | handgeschriebener Brief, Kaohsiung | drei Shows im Taipeh Dome |
 
 ---
@@ -202,47 +212,48 @@ Und diese Insel hat sich nach jener Nacht des 15. Januar beigebracht, für die M
 
 ## Referenzen
 
-[^1]: [Chou Tzu-yu – Wikipedia](https://zh.wikipedia.org/wiki/周子瑜) – traditionell-chinesischer Wikipedia-Artikel, mit vollständiger Chronik von Geburt, Familie, JYP-Traineezeit, SIXTEEN-Nachrücker, TWICE-Debüt und folgenden Aktivitäten.
+[^1]: [Chou Tzu-yu – Wikipedia](https://zh.wikipedia.org/wiki/周子瑜) — Details in der verlinkten Originalquelle
 
-[^2]: [5 Dinge, die man über Chou Tzu-yu nicht weiß! Mit 13 nach Korea als Trainee – NOWnews](https://www.nownews.com/news/6525029) – NOWnews 2024 über Details der Traineezeit, inkl. „tagsüber Koreanisch, abends tanzen“, „erst nach dem Stretching einschlafen“.
+[^2]: [5 Dinge, die man über Chou Tzu-yu nicht weiß! Mit 13 nach Korea als Trainee – NOWnews](https://www.nownews.com/news/6525029) — Details in der verlinkten Originalquelle
 
-[^3]: [Der Flaggen-Vorfall von Chou Tzu-yu – Wikipedia](https://zh.wikipedia.org/wiki/周子瑜国旗事件) – eigener Wikipedia-Artikel, mit vollständiger Chronik des Flaggen-Schwenkens am 21.11.2015, der zweistufigen JYP-Erklärung, des Originaltexts des Entschuldigungsvideos und der folgenden politischen Wirkung.
+[^3]: [Der Flaggen-Vorfall von Chou Tzu-yu – Wikipedia](https://zh.wikipedia.org/wiki/周子瑜国旗事件) — Details in der verlinkten Originalquelle
 
-[^4]: [Ihr einziges „Entschuldigung“ erschütterte die taiwanesische Wahl – Entschlüsselung der taiwanesischen Schönheits-Prinzessin Chou Tzu-yu – Business Today](https://www.businesstoday.com.tw/article/category/80392/post/201601210022/) – Business Today 2016, rekonstruiert den Fall entlang der Zeitlinie von Huang Ans Weibo-Post und Tzu-yus Familiengeschichte.
+[^4]: [Ihr einziges „Entschuldigung“ erschütterte die taiwanesische Wahl – Entschlüsselung der taiwanesisch…](https://www.businesstoday.com.tw/article/category/80392/post/201601210022/) — Details in der verlinkten Originalquelle
 
-[^5]: [Huang An (Künstler) – Wikipedia](https://zh.wikipedia.org/wiki/黃安_(藝人) – enthält die Umstände von Huang Ans Karrierezusammenbruch in Taiwan in den 1990er-Jahren, seinen Umzug nach China und die namentliche Meldung von Chung Yu-chen 2015 beim Amt für Taiwan-Angelegenheiten.
+[^5]: [Huang An (Künstler) – Wikipedia](https://zh.wikipedia.org/wiki/黃安_(藝人) — Details in der verlinkten Originalquelle
 
-[^6]: [Volle Darstellung des Tzu-yu-Vorfalls, BBC: eine der Hilfen für Tsais Wahlsieg – Liberty Times](https://news.ltn.com.tw/news/world/breakingnews/1577328) – Liberty Times 2016 nach BBC Chinese, wie das Entschuldigungsvideo aus internationaler Medienperspektive zu Tsais Wahlsieg beitrug.
+[^6]: [Volle Darstellung des Tzu-yu-Vorfalls, BBC: eine der Hilfen für Tsais Wahlsieg – Liberty Times](https://news.ltn.com.tw/news/world/breakingnews/1577328) — Details in der verlinkten Originalquelle
 
-[^7]: [Tsai Ing-wen: Solange ich einen Tag Präsidentin bin, muss kein Mensch sich für seine Identität entschuldigen – Liberty Times-Wahlspezial 2016](https://election.ltn.com.tw/2016/news/breakingnews/1575237) – Wahl-Spezial der Liberty Times, mit Volltext der Siegesrede und dem Absatz der direkten Antwort auf den Tzu-yu-Vorfall.
+[^7]: [Tsai Ing-wen: Solange ich einen Tag Präsidentin bin, muss kein Mensch sich für seine Identität entsc…](https://election.ltn.com.tw/2016/news/breakingnews/1575237) — Details in der verlinkten Originalquelle
 
-[^8]: [Teen pop star Chou Tzu-yu's apology for waving Taiwan flag swayed young voters for DPP – South China Morning Post](https://www.scmp.com/news/china/policies-politics/article/1902195/teen-pop-star-chou-tzu-yus-apology-waving-taiwan-flag) – SCMP 2016, mit Umfragezahl 1,34 Mio. junger Wähler, deren Entscheidung sich änderte.
+[^8]: [Teen pop star Chou Tzu-yu's apology for waving Taiwan flag swayed young voters for DPP – South China…](https://www.scmp.com/news/china/policies-politics/article/1902195/teen-pop-star-chou-tzu-yus-apology-waving-taiwan-flag) — Details in der verlinkten Originalquelle
 
-[^9]: [Einblick Peking – Der Tzu-yu-Vorfall: ein falscher Zufall oder eine politische Verschwörung? – Liberty Review](https://talk.ltn.com.tw/article/breakingnews/1579972) – politische Analyse 2016 mit der akademischen Einschätzung von Fan Shih-ping zur „direkten und enormen“ Wirkung auf die Wahl 2016.
+[^9]: [Einblick Peking – Der Tzu-yu-Vorfall: ein falscher Zufall oder eine politische Verschwörung? – Liber…](https://talk.ltn.com.tw/article/breakingnews/1579972) — Details in der verlinkten Originalquelle
 
-[^10]: [The politics of apology: The 'Tzuyu Scandal' and transnational dynamics of K-pop – SAGE Journals](https://doi.org/10.1177/1748048518802947) – wissenschaftlicher Artikel 2018 im International-Communication-Journal, der den Fall im Rahmen der K-Pop-Transnationalität analysiert.
+[^10]: [The politics of apology: The 'Tzuyu Scandal' and transnational dynamics of K-pop – SAGE Journals](https://doi.org/10.1177/1748048518802947) — Details in der verlinkten Originalquelle
 
-[^11]: [Chou Tzu-yu machte in einem Jahr den Master! Fans: Übersprungen auch die Uni? – NOWnews](https://www.nownews.com/news/6610812) – NOWnews 2024, Tzu-yu bestätigte selbst den Online-Master in Angewandter Psychologie an der U. Camilo José Cela (Spanien); Arbeitserfahrung ersetzte die akademische Zugangsvoraussetzung.
+[^11]: [Chou Tzu-yu machte in einem Jahr den Master! Fans: Übersprungen auch die Uni? – NOWnews](https://www.nownews.com/news/6610812) — Details in der verlinkten Originalquelle
 
-[^12]: [Tzu-yus Solotitel „Run Away“ durchbricht in einem Tag 4 Millionen – NOWnews](https://www.nownews.com/news/6518459) – NOWnews 2024, erste persönliche EP „abouTZU“, MV über 4 Mio. Aufrufe in 24 h, Doppel-Erster auf Bugs (Korea) und iTunes (Taiwan).
+[^12]: [Tzu-yus Solotitel „Run Away“ durchbricht in einem Tag 4 Millionen – NOWnews](https://www.nownews.com/news/6518459) — Details in der verlinkten Originalquelle
 
-[^13]: [TWICE-Highlights in Kaohsiung! Nach 10 Jahren Tzu-yu: „Ich habe endlich die Mitglieder mitgebracht“ – ganzes Stadion weint – Xingxingwen](https://stars.udn.com/star/story/10092/9156781) – Vor-Ort-Bericht 2025 über das erste TWICE-Taiwan-Konzert im World-Games-Stadion am 22.11.2025, Tzu-yus Tränen und Dahyuns chinesische Rede.
+[^13]: [TWICE-Highlights in Kaohsiung! Nach 10 Jahren Tzu-yu: „Ich habe endlich die Mitglieder mitgebracht“ …](https://stars.udn.com/star/story/10092/9156781) — Details in der verlinkten Originalquelle
 
-[^14]: [TWICE-Dome-Konzert-FAQ! Tzu-yu weint hemmungslos, 120.000 Besucher – Yahoo News](https://tw.news.yahoo.com/twice%E5%A4%A7%E5%B7%A8%E8%9B%8B%E6%BC%94%E5%94%B1%E6%9C%83%E6%87%B6%E4%BA%BA%E5%8C%85-%E5%AD%90%E7%91%9C%E7%88%86%E5%93%AD%E3%80%8112%E8%90%AC%E4%BA%BA%E6%9C%9D%E8%81%96%E5%8C%97%E6%8D%B7%E7%A0%B4%E7%B4%80%E9%8C%84-014124971.html) – Yahoo 2026, 20.-22.03.2026 drei Dome-Shows, 120.000 Besucher, 2,606 Mio. Tagesfahrgäste der Taipeher U-Bahn als Rekord.
+[^14]: [TWICE-Dome-Konzert-FAQ! Tzu-yu weint hemmungslos, 120.000 Besucher – Yahoo News](https://tw.news.yahoo.com/twice%E5%A4%A7%E5%B7%A8%E8%9B%8B%E6%BC%94%E5%94%B1%E6%9C%83%E6%87%B6%E4%BA%BA%E5%8C%85-%E5%AD%90%E7%91%9C%E7%88%86%E5%93%AD%E3%80%8112%E8%90%AC%E4%BA%BA%E6%9C%9D%E8%81%96%E5%8C%97%E6%8D%B7%E7%A0%B4%E7%B4%80%E9%8C%84-014124971.html) — Details in der verlinkten Originalquelle
 
-[^15]: [Die 100 schönsten Gesichter der Welt (Ausgabe 2019) – Gigazine](https://gigazine.net/news/20191228-most-beautiful-face-2019) – japanisches Tech-Medium 2019 über die TC-Candler-Liste, Tzu-yu als erste Asiatin auf Platz eins.
+[^15]: [Die 100 schönsten Gesichter der Welt (Ausgabe 2019) – Gigazine](https://gigazine.net/news/20191228-most-beautiful-face-2019) — Details in der verlinkten Originalquelle
 
-[^16]: [Sung Yun-huas „Chinese“-Sturm weitet sich aus! Tzu-yus Mutter äußert sich erstmals – Yahoo](https://tw.news.yahoo.com/%E5%AE%8B%E8%8A%B8%E6%A8%BA-%E4%B8%AD%E5%9C%8B%E4%BA%BA-%E9%A2%A8%E6%9A%B4%E6%93%B4%E5%A4%A7-%E5%91%A8%E5%AD%90%E7%91%9C%E5%AA%BD%E9%81%8E%E4%BE%86%E4%BA%BA%E9%A6%96%E5%BA%A6%E8%A1%A8%E6%85%8B%E4%BA%86-060000442.html) – Yahoo 2018, Huang Yen-lings Antwort: „Entschuldigung, über Politik spreche ich nicht.“
+[^16]: [Sung Yun-huas „Chinese“-Sturm weitet sich aus! Tzu-yus Mutter äußert sich erstmals – Yahoo](https://tw.news.yahoo.com/%E5%AE%8B%E8%8A%B8%E6%A8%BA-%E4%B8%AD%E5%9C%8B%E4%BA%BA-%E9%A2%A8%E6%9A%B4%E6%93%B4%E5%A4%A7-%E5%91%A8%E5%AD%90%E7%91%9C%E5%AA%BD%E9%81%8E%E4%BE%86%E4%BA%BA%E9%A6%96%E5%BA%A6%E8%A1%A8%E6%85%8B%E4%BA%86-060000442.html) — Details in der verlinkten Originalquelle
 
-[^17]: [Erste in Taiwan! Tzu-yus IG überschreitet 10 Mio. – nur TWICE-Mitglieder unter ihr – mnews](https://www.mnews.tw/story/20230307nm010) – mnews 2023, @thinkaboutzu über 10 Mio., nur hinter Jay Chou auf Platz 2 taiwanesischer Prominenten.
+[^17]: [Erste in Taiwan! Tzu-yus IG überschreitet 10 Mio. – nur TWICE-Mitglieder unter ihr – mnews](https://www.mnews.tw/story/20230307nm010) — Details in der verlinkten Originalquelle
 
-[^18]: [Tzu-yu erhält europäischen Psychologie-Master! Sie selbst bestätigt: „Es stimmt“ – Xingxingwen](https://stars.udn.com/star/story/10091/8426512) – Xingxingwen 2024, erstmals veröffentlicht beim 30-jährigen Jubiläum der Fuxing-Grundschule.
+[^18]: [Tzu-yu erhält europäischen Psychologie-Master! Sie selbst bestätigt: „Es stimmt“ – Xingxingwen](https://stars.udn.com/star/story/10091/8426512) — Details in der verlinkten Originalquelle
 
-[^19]: [TWICE – Wikipedia](https://en.wikipedia.org/wiki/Twice) – englischer TWICE-Artikel, mit „Cheer Up“-Song des Jahres bei Mnet, „TT“ vier Wochen Gaon-Erster, 2017 erste koreanische Gruppe seit sechs Jahren beim Kōhaku Uta Gassen.
+[^19]: [TWICE – Wikipedia](https://en.wikipedia.org/wiki/Twice) — Details in der verlinkten Originalquelle
 
-[^20]: [TWICE Tzuyu's ridiculously graceful shot goes viral – Koreaboo](https://www.koreaboo.com/stories/twice-tzuyus-ridiculously-graceful-shot-goes-viral/) – Koreaboo 2017 über den Bogenschuss am 30.01.2017 mit verfangener Sehne; Taika Waititi und Paul Feig teilten das Video.
+[^20]: [TWICE Tzuyu's ridiculously graceful shot goes viral – Koreaboo](https://www.koreaboo.com/stories/twice-tzuyus-ridiculously-graceful-shot-goes-viral/) — Details in der verlinkten Originalquelle
 
-[^21]: [TWICE Tzuyu express her feeling and encourage fans in Instagram – allkpop](https://www.allkpop.com/article/2019/04/twice-tzuyu-express-her-feeling-and-encourage-fans-in-instagram) – allkpop 4/2019, erster langer Erst-Personen-Text auf Instagram mit emotionalem Tiefpunkt, Absatz „Sogar meine Familie wusste nicht, wie sie mich trösten sollte“.
+[^21]: [TWICE Tzuyu express her feeling and encourage fans in Instagram – allkpop](https://www.allkpop.com/article/2019/04/twice-tzuyu-express-her-feeling-and-encourage-fans-in-instagram) — Details in der verlinkten Originalquelle
 
-[^22]: [Willkommen zu Hause! Tzu-yus handgeschriebener Brief „nicht gegangen, nicht weil brav oder gehorsam“ bringt 50.000 TWICE-Fans zum Weinen – Xingxingwen](https://stars.udn.com/star/story/10092/9156905) – Vor-Ort-Bericht 22.11.2025, Kaohsiung, Volltext des Briefs: „das Feuer wurde klein, so klein, dass ich mich zu fragen begann, ob ich hierher gehöre“, „nicht weil brav oder gehorsam, sondern weil ich es wirklich will und ersehne“.
-[^23]: [Freie Kolumne > Vom Flaggen-„Entschuldigungsvideo“: Wie der Tzu-yu-Vorfall zum gemeinsamen Schmerz und Erwachen Taiwans wurde – Liberty Review](https://talk.ltn.com.tw/article/breakingnews/5255637) – lange Analyse des Liberty Review, die das Entschuldigungsvideo 2016 im Kontext des generationellen Gedächtnisses und der demokratischen Selbstidentität Taiwans liest.
+[^22]: [Willkommen zu Hause! Tzu-yus handgeschriebener Brief „nicht gegangen, nicht weil brav oder gehorsam“…](https://stars.udn.com/star/story/10092/9156905) — Details in der verlinkten Originalquelle
+
+[^23]: [Freie Kolumne > Vom Flaggen-„Entschuldigungsvideo“: Wie der Tzu-yu-Vorfall zum gemeinsamen Schmerz u…](https://talk.ltn.com.tw/article/breakingnews/5255637) — Details in der verlinkten Originalquelle

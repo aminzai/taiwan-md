@@ -1,9 +1,18 @@
 ---
 title: 'Lung Ying-tai: Daliao 1952, vom „Wildfeuer-Band“ (野火集) zur ersten Kulturministerin Taiwans – die öffentliche Intellektuelle'
-description: 'Lung Ying-tai wurde am 13. Februar 1952 im Kreis Daliao, Landkreis Kaohsiung (heute Bezirk Daliao, Kaohsiung), geboren; ihre Heimat ist Hengshan, Hunan, Vater Lung Huai-sheng war Hunaner, Mutter Ying Mei-chun stammte aus Chun''an, Zhejiang.[^1] Master of English and American Literature an der Kansas State University; zum Doktor existieren zwei Versionen nebeneinander (PhD Englisch Kansas State oder PhD Germanistik NYU), P0⚠️ Hinweis zur weiteren Verifikation.[^1] Im Dezember 1985 wurde „Wildfeuer-Band“ erstmals als Buch veröffentlicht – 21 Tage, 24 Nachauflagen, in 4 Monaten über 100.000 Exemplare.[^2] 2009 erschien „Das große Flussgroße Meer 1949“ (大江大海一九四九).[^3] 2012 nahm sie die Ernennung von Präsident Ma Ying-jeou an und wurde die erste Kulturministerin Taiwans, bis sie 2014 zurücktrat.[^4]'
+description: "Lung Ying-tai wurde am 13. Februar 1952 im Kreis Daliao, Landkreis Kaohsiung (heute Bezirk Daliao, Kaohsiung), geboren; ihre Heimat ist Hengshan, Hunan, Vater Lung Huai-sheng war Hunaner, Mutter Ying Mei-chun stammte aus Chun'an, Zhejiang.[^1] Master of English and American Literature an der Kansas State University; zum Doktor existieren zwei Versionen nebeneinander (PhD Englisch Kansas State oder PhD Germanistik NYU), P0⚠️ Hinweis zur weiteren Verifikation.[^1] Im Dezember 1985 wurde „Wildfeuer-Band“ erstmals als Buch veröffentlicht – 21 Tage, 24 Nachauflagen, in 4 Monaten über 100.000 Exemplare.[^2] 2009 erschien „Das große Flussgroße Meer 1949“ (大江大海一九四九).[^3] 2012 nahm sie die Ernennung von Präsident Ma Ying-jeou an und wurde die erste Kulturministerin Taiwans, bis sie 2014 zurücktrat.[^4]"
 date: 2026-03-19
 category: 'People'
-tags: ['Personen', 'Lung Ying-tai', 'Literatur', 'Public Intellectual', 'Kulturministerin', 'Wildfeuer-Band', 'Taiwan']
+tags:
+  [
+    'Personen',
+    'Lung Ying-tai',
+    'Literatur',
+    'Public Intellectual',
+    'Kulturministerin',
+    'Wildfeuer-Band',
+    'Taiwan',
+  ]
 subcategory: '文學'
 author: 'Taiwan.md'
 featured: false
@@ -13,6 +22,7 @@ readingTime: 7
 translatedFrom: 'People/龍應台.md'
 sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:efaa1720b84e525c'
+sourceBodyHash: 'sha256:fb31dbbb24515e69'
 translatedAt: '2026-08-13T08:15:00+08:00'
 ---
 
@@ -78,17 +88,16 @@ Ihr Name wurde letztlich zum Symbol, das größer ist als jeder Buchtitel: Dass 
 
 ## Referenzen
 
-[^1]: [Wikipedia: Lung Ying-tai](https://zh.wikipedia.org/zh-tw/龍應台) – bestätigt Geburt am 13.02.1952 im Kreis Daliao, Landkreis Kaohsiung (heute Bezirk Daliao, Kaohsiung), Heimat Hengshan, Hunan, Master in English and American Literature an der Kansas State University; Doktor mit zwei Versionen (Kansas Englisch vs. NYU Germanistik) zu verifizieren.
+[^1]: [Wikipedia: Lung Ying-tai](https://zh.wikipedia.org/zh-tw/龍應台) — Details in der verlinkten Originalquelle
 
-[^2]: [Wikipedia: Wildfeuer-Band](https://zh.wikipedia.org/wiki/野火集) – bestätigt Erstveröffentlichung Dezember 1985, 24 Nachauflagen in 21 Tagen, über 100.000 Exemplare in 4 Monaten (taiwanesisches Verlagswunder).
+[^2]: [Wikipedia: Wildfeuer-Band](https://zh.wikipedia.org/wiki/野火集) — Details in der verlinkten Originalquelle
 
-[^3]: [Wikipedia: Das große Meer 1949](https://zh.wikipedia.org/zh-hant/大江大海一九四九) – bestätigt 2009 bei CommonWealth Chen veröffentlicht.
+[^3]: [Wikipedia: Das große Meer 1949](https://zh.wikipedia.org/zh-hant/大江大海一九四九) — Details in der verlinkten Originalquelle
 
-[^4]: [Kulturministerium: Ehemalige Minister](https://www.moc.gov.tw/cp.aspx?n=101) – bestätigt Lung als erste taiwanesische Kulturministerin (2012-2014, Ernennung durch Ma Ying-jeou); zugleich bestätigt ihre Funktion als erste Kulturbüro-Direktorin der Stadtregierung Taipeh.
+[^4]: [Kulturministerium: Ehemalige Minister](https://www.moc.gov.tw/cp.aspx?n=101) — Details in der verlinkten Originalquelle
 
-[^5]: [Lung Ying-tai Kulturstiftung](https://www.civictaipei.org) – von Lung gegründet; offizielle Stiftungsdaten und Vortragsinformationen.
+[^5]: [Lung Ying-tai Kulturstiftung](https://www.civictaipei.org) — Details in der verlinkten Originalquelle
 
-[^6]: [CommonWealth: Lung Ying-tai über das „Wildfeuer-Band“ – die Maske zerreißen (2014)](https://www.cw.com.tw/article/5103819) – enthält die Motivationserklärung „unbeabsichtigte Weidenpflanzung“, die „Nicht nachlaufen“-Zitate aus „Ich will nicht weinen“ sowie die Zitate „eintausend Raketen“ aus der Peking-Rede und „stolz auf die nächste Generation der Verlierer“ aus „Das große Meer 1949“.
+[^6]: [CommonWealth: Lung Ying-tai über das „Wildfeuer-Band“ – die Maske zerreißen (2014)](https://www.cw.com.tw/article/5103819) — Details in der verlinkten Originalquelle
 
-[^7]: [CommonWealth: Lung Ying-tais „Das große Meer“ ist ein sanfter Schlüssel](https://www.cw.com.tw/article/5012220) – Anlass und Interviewprozess (10 Jahre Vorbereitung / 400 Tage Schreiben) sowie der Verkauf von über 400.000 Exemplaren nach Erscheinen.
-
+[^7]: [CommonWealth: Lung Ying-tais „Das große Meer“ ist ein sanfter Schlüssel](https://www.cw.com.tw/article/5012220) — Details in der verlinkten Originalquelle

@@ -29,6 +29,7 @@ sporeLinks:
 translatedFrom: 'Music/台灣國樂.md'
 sourceCommitSha: 'dd39065b2'
 sourceContentHash: 'sha256:00374a3118029750'
+sourceBodyHash: 'sha256:c0bd2cc77ca9d51c'
 translatedAt: '2026-09-23T00:11:49.622361+00:00'
 ---
 

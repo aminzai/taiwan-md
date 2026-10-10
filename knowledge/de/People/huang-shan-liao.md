@@ -34,6 +34,7 @@ sporeLinks:
 translatedFrom: 'People/黃山料.md'
 sourceCommitSha: '00939ce59'
 sourceContentHash: 'sha256:5957f112788fc58e'
+sourceBodyHash: 'sha256:a1e88d45df841409'
 translatedAt: '2026-09-22T01:18:14.084074+00:00'
 ---
 

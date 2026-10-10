@@ -25,6 +25,7 @@ curation: incubating
 translatedFrom: 'Food/鼎泰豐.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:bb2620bf409796b4'
+sourceBodyHash: 'sha256:301051f2bc6e8d30'
 translatedAt: '2026-09-09T05:18:03+08:00'
 ---
 

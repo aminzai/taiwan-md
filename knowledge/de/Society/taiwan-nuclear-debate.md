@@ -56,6 +56,7 @@ rationale:
 translatedFrom: 'Society/台灣與核能的討論.md'
 sourceCommitSha: '95c3b1afd'
 sourceContentHash: 'sha256:828aff612a05168f'
+sourceBodyHash: 'sha256:b97d2d0eea4b5afe'
 translatedAt: '2026-09-22T00:42:03.453317+00:00'
 ---
 

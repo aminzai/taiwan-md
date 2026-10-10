@@ -32,6 +32,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:2020_Zhengbin_Fishing_Port
 translatedFrom: 'Geography/基隆市.md'
 sourceCommitSha: '2187c1c9c'
 sourceContentHash: 'sha256:2f468b2d4bb51497'
+sourceBodyHash: 'sha256:5db325d228abad28'
 translatedAt: '2026-09-23T03:34:00.183397+00:00'
 ---
 

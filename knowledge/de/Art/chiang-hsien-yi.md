@@ -41,6 +41,7 @@ sporeLinks:
 translatedFrom: 'Art/江賢二.md'
 sourceCommitSha: '31a05c44b'
 sourceContentHash: 'sha256:7881c6e8b38a5fa7'
+sourceBodyHash: 'sha256:ae43b98131d02326'
 translatedAt: '2026-09-22T22:53:14.375316+00:00'
 ---
 

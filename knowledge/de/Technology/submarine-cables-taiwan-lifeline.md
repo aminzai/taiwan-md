@@ -32,6 +32,7 @@ sporeLinks:
 translatedFrom: 'Technology/海底電纜.md'
 sourceCommitSha: '5ff155c10'
 sourceContentHash: 'sha256:1867ed080d284a4e'
+sourceBodyHash: 'sha256:1790c4ef1b7a9b20'
 translatedAt: '2026-09-24T17:13:38.343388+00:00'
 ---
 

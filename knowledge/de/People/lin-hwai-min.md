@@ -3,7 +3,14 @@ title: 'Lin Hwai-min'
 description: 'Ein Schriftsteller erschuf die erste moderne Tanzkompanie der chinesischsprachigen Welt – und hielt sie über 50 Jahre am Leben.'
 date: 2026-03-23
 category: 'People'
-tags: ['Personen', 'Tanz', 'Kunst', 'Darstellende Kunst', 'Cloud Gate Dance Theatre of Taiwan']
+tags:
+  [
+    'Personen',
+    'Tanz',
+    'Kunst',
+    'Darstellende Kunst',
+    'Cloud Gate Dance Theatre of Taiwan',
+  ]
 subcategory: '藝術與創作'
 author: 'Taiwan.md'
 featured: false
@@ -13,6 +20,7 @@ curation: incubating
 translatedFrom: 'People/林懷民.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:2df55212a0932eb5'
+sourceBodyHash: 'sha256:13ac312ffbbbdc9b'
 translatedAt: '2026-08-13T06:30:00+08:00'
 ---
 

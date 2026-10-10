@@ -41,6 +41,7 @@ sporeLinks:
 translatedFrom: 'Lifestyle/台灣海關報關制度與EZWAY.md'
 sourceCommitSha: '258412070'
 sourceContentHash: 'sha256:bc80c48817ccc98d'
+sourceBodyHash: 'sha256:7abf227d191df077'
 translatedAt: '2026-09-20T05:10:46.006901+00:00'
 ---
 

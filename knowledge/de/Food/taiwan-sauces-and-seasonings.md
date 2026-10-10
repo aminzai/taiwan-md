@@ -3,7 +3,14 @@ title: 'Taiwans Saucen und Gewürze'
 description: 'Dickflüssige Sojasauce, Satay-Sauce, süß-scharfe Sauce und Doubanjiang bilden die Grundlage von Taiwans einzigartigen Aromen und spiegeln eine Würzphilosophie wider, die aus der Verschmelzung vieler Kulturen entstanden ist'
 date: 2026-03-20
 category: 'Food'
-tags: ['Saucen', 'Gewürze', 'Esskultur', 'Taiwan-Geschmack', 'fermentierte Lebensmittel']
+tags:
+  [
+    'Saucen',
+    'Gewürze',
+    'Esskultur',
+    'Taiwan-Geschmack',
+    'fermentierte Lebensmittel',
+  ]
 subcategory: 'Zutaten und Würzen'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -16,6 +23,7 @@ imageNote: '原 Wikimedia 圖與文章主題不符，未收進庫，待換圖（
 translatedFrom: 'Food/台灣醬料與調味.md'
 sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:80c0f5a5b4a4fc5f'
+sourceBodyHash: 'sha256:165e3d5c431f4c83'
 translatedAt: '2026-09-06T05:12:41+08:00'
 ---
 

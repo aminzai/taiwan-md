@@ -4,7 +4,15 @@ description: 'Vom Ziehen von 20.000 Zähnen bis zur Gründung einer Mädchenschu
 date: 2026-03-31
 category: 'People'
 subcategory: '歷史人物'
-tags: ['Mackay', 'Tamsui', 'Taiwanesische Geschichte', 'Medizin', 'Bildung', 'Naturwissenschaft']
+tags:
+  [
+    'Mackay',
+    'Tamsui',
+    'Taiwanesische Geschichte',
+    'Medizin',
+    'Bildung',
+    'Naturwissenschaft',
+  ]
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-31
@@ -14,6 +22,7 @@ curation: incubating
 translatedFrom: 'People/馬偕.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:82108803d2637942'
+sourceBodyHash: 'sha256:d3315bfee0561cb1'
 translatedAt: '2026-08-18T23:46:51+08:00'
 ---
 

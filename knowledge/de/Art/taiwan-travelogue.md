@@ -32,6 +32,7 @@ sporeLinks:
 translatedFrom: 'Art/臺灣漫遊錄.md'
 sourceCommitSha: '2187c1c9c'
 sourceContentHash: 'sha256:ba5c01d21a2dcdbc'
+sourceBodyHash: 'sha256:45ca26bedda5e227'
 translatedAt: '2026-09-13T05:24:55.151792+00:00'
 ---
 

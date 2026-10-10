@@ -39,6 +39,7 @@ sporeLinks:
 translatedFrom: 'People/柯智棠.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:da09e4b3162c5f4c'
+sourceBodyHash: 'sha256:e1150c885b006baf'
 translatedAt: '2026-09-26T14:04:15.721350+00:00'
 ---
 

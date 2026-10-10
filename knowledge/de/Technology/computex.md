@@ -42,6 +42,7 @@ relatedDiary: ['2026-06-01-130850-manual']
 translatedFrom: 'Technology/Computex.md'
 sourceCommitSha: '46055e4f3'
 sourceContentHash: 'sha256:f4b0813105283dab'
+sourceBodyHash: 'sha256:45291b99c4801128'
 translatedAt: '2026-09-12T06:45:50.317912+00:00'
 ---
 

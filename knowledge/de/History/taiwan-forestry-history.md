@@ -23,6 +23,7 @@ curation: incubating
 translatedFrom: 'History/台灣森林開發史.md'
 sourceCommitSha: '69b3afd9'
 sourceContentHash: 'sha256:8069998f1aa354c8'
+sourceBodyHash: 'sha256:55bbc4efed5f30a9'
 translatedAt: '2026-08-29T22:18:53+08:00'
 ---
 
@@ -113,10 +114,10 @@ Die Forstpolitik dieser dreihundert Jahre ist im Kern nichts anderes als der Wan
 ## Literaturverzeichnis
 
 - Lee Ken-cheng (李根政), 2016, „Taiwans große Abholzungsära – wie viele Bäume wurden eigentlich gefällt?" (〈台灣大伐木時代，到底砍了多少樹？〉), veröffentlicht auf der Website Dayuanshan Cuifeng-See. 20. Juli 2016. URL: http://www.taiwanland.tw/06Dah-yuan/discussion/word27.html
-- Forstverwaltung der Provinz Taiwan (台灣省林務局), 1997, *Chronik der Forstverwaltung der Provinz Taiwan* (《台灣省林務局誌》). Taipeh: Forstverwaltung der Provinz Taiwan.
+- Forstverwaltung der Provinz Taiwan (台灣省林務局), 1997, _Chronik der Forstverwaltung der Provinz Taiwan_ (《台灣省林務局誌》). Taipeh: Forstverwaltung der Provinz Taiwan.
 - AgriHarvest (農傳媒), 2019, „Der Lebensgeschichte des Waldes lauschen – Schönheit und Wandel von Taiwans großer Abholzungsära" (〈聽森林的身世，揭開臺灣大伐木時代的美麗與滄桑〉), https://www.agriharvest.tw/archives/8214/.
-- Yao Ho-nien (姚鶴年), 1993, „Forstwirtschaft in der japanischen Kolonialzeit", S. 9–30; „Forstwirtschaft in der frühen Nachkriegszeit", S. 31–64, in: Redaktionskomitee der Forstchronik Taiwans (Hrsg.), *Forstchronik Taiwans, Republik China* (《中華民國台灣森林志》). Taipeh: Chinesische Forstgesellschaft.
-- Chiao Kuo-mo (焦國模), 1993, „Forstpolitik", S. 175–193, in: *Forstchronik Taiwans, Republik China* (《中華民國台灣森林志》). Taipeh: Chinesische Forstgesellschaft.
-- Lin Kuo-chuan (林國銓), 1993, „Vergangenheit und Gegenwart der Waldressourcen", S. 1–29, in: Hsia Yu-chiu, Wang Li-chih, Chin Heng-piao (Hrsg.), *Nachhaltige Bewirtschaftung der Waldressourcen* (《森林資源的永續經營》). Taipeh: Forstliche Versuchsanstalt der Provinz Taiwan.
+- Yao Ho-nien (姚鶴年), 1993, „Forstwirtschaft in der japanischen Kolonialzeit", S. 9–30; „Forstwirtschaft in der frühen Nachkriegszeit", S. 31–64, in: Redaktionskomitee der Forstchronik Taiwans (Hrsg.), _Forstchronik Taiwans, Republik China_ (《中華民國台灣森林志》). Taipeh: Chinesische Forstgesellschaft.
+- Chiao Kuo-mo (焦國模), 1993, „Forstpolitik", S. 175–193, in: _Forstchronik Taiwans, Republik China_ (《中華民國台灣森林志》). Taipeh: Chinesische Forstgesellschaft.
+- Lin Kuo-chuan (林國銓), 1993, „Vergangenheit und Gegenwart der Waldressourcen", S. 1–29, in: Hsia Yu-chiu, Wang Li-chih, Chin Heng-piao (Hrsg.), _Nachhaltige Bewirtschaftung der Waldressourcen_ (《森林資源的永續經營》). Taipeh: Forstliche Versuchsanstalt der Provinz Taiwan.
 - Peng Kuo-tung (彭國棟), 1989, „Ökologische Probleme der taiwanischen Forstbewirtschaftung", Vortrag auf der Tagung „Forstbewirtschaftung angesichts ökologischer Probleme". Taipeh: Forstliche Versuchsanstalt.
-- Forstverwaltung (林務局), 1991, *Forststatistik der Provinz Taiwan* (《台灣省林業統計》). Taipeh: Forstverwaltung.
+- Forstverwaltung (林務局), 1991, _Forststatistik der Provinz Taiwan_ (《台灣省林業統計》). Taipeh: Forstverwaltung.

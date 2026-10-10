@@ -21,6 +21,7 @@ readingTime: 15
 translatedFrom: 'People/侯孝賢.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:64e8c8786128b4a0'
+sourceBodyHash: 'sha256:4bfda7146e522cab'
 translatedAt: '2026-08-13T07:30:00+08:00'
 ---
 

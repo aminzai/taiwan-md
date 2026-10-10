@@ -24,6 +24,7 @@ researchReport: reports/research/2026-04/鄧麗君.md
 translatedFrom: 'People/鄧麗君.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:ba04598bf7b93391'
+sourceBodyHash: 'sha256:d9aced35b5cf6b29'
 translatedAt: '2026-08-13T05:45:00+08:00'
 ---
 
@@ -167,64 +168,64 @@ Am 8. Mai 2026 wäre sie 31 Jahre tot. Die Suite im 15. Stock des InterContinent
 
 ## Referenzen
 
-[^1]: [Demokratische Stimme für China – Wikipedia](https://zh.wikipedia.org/wiki/%E6%B0%91%E4%B8%BB%E6%AD%8C%E8%81%B2%E7%8D%BB%E4%B8%AD%E8%8F%AF) – vollständige Infos zum 12-Stunden-Marathon-Spendenkonzert am 27.05.1989 auf der Rennbahn von Happy Valley, 150 Künstler, 13 Mio. HK$, fast eine Million Besucher.
+[^1]: [Demokratische Stimme für China – Wikipedia](https://zh.wikipedia.org/wiki/%E6%B0%91%E4%B8%BB%E6%AD%8C%E8%81%B2%E7%8D%BB%E4%B8%AD%E8%8F%AF) — Details in der verlinkten Originalquelle
 
-[^2]: [Fount Media – Teresa Teng Happy Valley 1989](https://www.fountmedia.io/article/59870) – detaillierte Dokumentation des weißen Bands „民主萬歲“, des „反對軍管“-Schilds und des vollständigen Wortlauts ihrer Ansage vor dem Lied.
+[^2]: [Fount Media – Teresa Teng Happy Valley 1989](https://www.fountmedia.io/article/59870) — Details in der verlinkten Originalquelle
 
-[^3]: [Fount Media – Teresa Tengs Rede in Happy Valley](https://www.fountmedia.io/article/59870) – vollständige Mitschrift ihrer Bühnenansage vor „Mein Zuhause liegt jenseits des Berges“ am 27.05.1989, bestätigt durch das YouTube-Video.
+[^3]: [Fount Media – Teresa Tengs Rede in Happy Valley](https://www.fountmedia.io/article/59870) — Details in der verlinkten Originalquelle
 
-[^4]: [Teresa Teng „Demokratische Stimme für China“ – YouTube-Mitschnitt](https://www.youtube.com/watch?v=IGAmxD8cJ4s) – vollständiger Live-Mitschnitt vom 27.05.1989 zur Textprüfung. „Mein Zuhause liegt jenseits des Berges“ war ein Filmsong von 1958 („Die Liebe der Shui Paiyi“), Text Wang Chen, Musik Zhou Lan-ping.
+[^4]: [Teresa Teng „Demokratische Stimme für China“ – YouTube-Mitschnitt](https://www.youtube.com/watch?v=IGAmxD8cJ4s) — Details in der verlinkten Originalquelle
 
-[^5]: [Epoch Times 02.01.2024 – Teresa Tengs politische Position](https://www.epochtimes.com/b5/24/1/2/n14149352.htm) – Aufgabe der geplanten Festlandtournee nach 1989 sowie ihre öffentliche Haltung „Wenn ich auf dem Festland auftrete, dann ist das der Tag, an dem die Drei Prinzipien des Volkes auf dem Festland durchgeführt werden“.
+[^5]: [Epoch Times 02.01.2024 – Teresa Tengs politische Position](https://www.epochtimes.com/b5/24/1/2/n14149352.htm) — Details in der verlinkten Originalquelle
 
-[^6]: [Teresa Teng – Wikipedia (Chinesisch)](https://zh.wikipedia.org/zh-hant/%E9%84%A7%E9%BA%97%E5%90%9B) – Herkunft des Namens Li-yun (von einem Yang-Offizier der Armee vergeben), Lautwandel von „筠“, Vater Teng Shu (Kreis Daming, Hebei), Mutter Chao Su-kuei (Kreis Dongping, Shandong).
+[^6]: [Teresa Teng – Wikipedia (Chinesisch)](https://zh.wikipedia.org/zh-hant/%E9%84%A7%E9%BA%97%E5%90%9B) — Details in der verlinkten Originalquelle
 
-[^7]: [Teresa Teng – Discogs](https://www.discogs.com/artist/582823-%E9%84%A7%E9%BA%97%E5%90%9B) – Veröffentlichung des Debütalbums „Band 1 – Fengyang-Trommel“ im September 1967 und vollständige Diskografie.
+[^7]: [Teresa Teng – Discogs](https://www.discogs.com/artist/582823-%E9%84%A7%E9%BA%97%E5%90%9B) — Details in der verlinkten Originalquelle
 
-[^8]: [Gedenken an Miki Takashi zwischen Erinnerungen an Teresa Teng – Nippon.com](https://www.nippon.com/hk/japan-topics/g00878/) – öffentliche Erinnerungen und Musikkritiken des japanischen Komponisten Miki Takashi zu Teresa Tengs Gesang, inkl. der Dreifachserie 1984-1986.
+[^8]: [Gedenken an Miki Takashi zwischen Erinnerungen an Teresa Teng – Nippon.com](https://www.nippon.com/hk/japan-topics/g00878/) — Details in der verlinkten Originalquelle
 
-[^9]: [Der Mond steht für mein Herz – Wikipedia](https://zh.wikipedia.org/wiki/%E6%9C%88%E4%BA%AE%E4%BB%A3%E8%A1%A8%E6%88%91%E7%9A%84%E5%BF%83) – vollständige Versionsgeschichte: Original Chen Fen-lan 1973, Komposition Weng Qing-xi, Text Sun Yi, definierende Neuaufnahme Teresa Teng 1977.
+[^9]: [Der Mond steht für mein Herz – Wikipedia](https://zh.wikipedia.org/wiki/%E6%9C%88%E4%BA%AE%E4%BB%A3%E8%A1%A8%E6%88%91%E7%9A%84%E5%BF%83) — Details in der verlinkten Originalquelle
 
-[^10]: [Wann kommst du wieder? – Wikipedia](https://zh.wikipedia.org/wiki/%E4%BD%95%E6%97%A5%E5%90%9B%E5%86%8D%E4%BE%86) – Original Zhou Xuan 1937, Musik Liu Xue-an, Text Huang Jia-mo; die Verbotsgeschichte auf beiden Seiten der Straße und der Kontext von Teresas Neuaufnahmen 1978 in Chinesisch und Japanisch.
+[^10]: [Wann kommst du wieder? – Wikipedia](https://zh.wikipedia.org/wiki/%E4%BD%95%E6%97%A5%E5%90%9B%E5%86%8D%E4%BE%86) — Details in der verlinkten Originalquelle
 
-[^11]: [Süß und honigsüß – Wikipedia](https://zh.wikipedia.org/wiki/%E7%94%9C%E8%9C%9C%E8%9C%9C_%28%E6%AD%8C%E6%9B%B2%29) – Veröffentlichung des Albums „Süß und honigsüß“ am 05.11.1979 bei PolyGram, indonesisches Volkslied „Dayung Sampan“ als Vorlage, Text Chuang Nu, über eine Million Verkäufe im Jahr.
+[^11]: [Süß und honigsüß – Wikipedia](https://zh.wikipedia.org/wiki/%E7%94%9C%E8%9C%9C%E8%9C%9C_%28%E6%AD%8C%E6%9B%B2%29) — Details in der verlinkten Originalquelle
 
-[^12]: [Geschichte einer kleinen Stadt – Filmdatenbank AtMovies](https://www.atmovies.com.tw/movie/FSTW08300127/) – Regie Lee Hsing 1979, mit Lin Feng-chiao und Chung Chen-tao, Bester Spielfilm der 16. Golden Horse Awards, Titellied gesungen von Teresa Teng.
+[^12]: [Geschichte einer kleinen Stadt – Filmdatenbank AtMovies](https://www.atmovies.com.tw/movie/FSTW08300127/) — Details in der verlinkten Originalquelle
 
-[^13]: [Teresa Teng §1979-Indonesienpass-Vorfall – Wikipedia](https://zh.wikipedia.org/zh-hant/%E9%84%A7%E9%BA%97%E5%90%9B) – vollständige Chronik: Ankunft CI116 am 14.02.1979 in Haneda, acht Tage Gewahrsam, 22.02. Bestätigung des echten Passes, 24.02. Abschiebungsbeschluss des japanischen Justizministeriums.
+[^13]: [Teresa Teng §1979-Indonesienpass-Vorfall – Wikipedia](https://zh.wikipedia.org/zh-hant/%E9%84%A7%E9%BA%97%E5%90%9B) — Details in der verlinkten Originalquelle
 
-[^14]: [China Times 08.05.2021 – Jackie Chans Erinnerungen an Teresa Teng](https://www.chinatimes.com/realtimenews/20210508000006-260404) – Jackie Chans Autobiografie über die dreijährige Beziehung in Los Angeles 1979-1982, den Trennungsgrund und seine späteren öffentlichen Entschuldigungen (Einzelquelle; keine direkte öffentliche Stellungnahme Teresas).
+[^14]: [China Times 08.05.2021 – Jackie Chans Erinnerungen an Teresa Teng](https://www.chinatimes.com/realtimenews/20210508000006-260404) — Details in der verlinkten Originalquelle
 
-[^15]: [„Tsugunai (Sühne)“ – Wikipedia](https://zh.wikipedia.org/wiki/%E5%84%9F%E9%82%84) – Veröffentlichung 21.01.1984, Platz 1 Oricon im August 1984, 41 Wochen in den Charts, Doppelsieg Japan Cable Award und All Japan Cable Broadcasting Award.
+[^15]: [„Tsugunai (Sühne)“ – Wikipedia](https://zh.wikipedia.org/wiki/%E5%84%9F%E9%82%84) — Details in der verlinkten Originalquelle
 
-[^16]: [„Aijin“ Teresa-Teng-Version – Wikipedia](https://zh.wikipedia.org/wiki/%E6%84%9B%E4%BA%BA_%28%E9%84%A7%E9%BA%97%E5%90%9B%E6%AD%8C%E6%9B%B2%29) – Veröffentlichung 21.02.1985, 14 Wochen Platz 1 der Kabel-Abrufcharts, erster Kōhaku-Auftritt am 31.12.1985 (36. NHK Kōhaku Uta Gassen) im Bildnis der Yang Guifei.
+[^16]: [„Aijin“ Teresa-Teng-Version – Wikipedia](https://zh.wikipedia.org/wiki/%E6%84%9B%E4%BA%BA_%28%E9%84%A7%E9%BA%97%E5%90%9B%E6%AD%8C%E6%9B%B2%29) — Details in der verlinkten Originalquelle
 
-[^17]: [„Ich kümmere mich nur um dich“ – Wikipedia](https://zh.wikipedia.org/wiki/%E6%88%91%E5%8F%AA%E5%9C%A8%E4%B9%8E%E4%BD%A0) – japanisches Original „Toki no nagare ni mi o makase“ vom 21.02.1986, Goldener Preis der 28. Japan Record Awards, 1986 Nr. 2 der Karaoke-Abrufe Japans, insgesamt rund 2 Mio. Verkäufe; chinesische Version 20.12.1986.
+[^17]: [„Ich kümmere mich nur um dich“ – Wikipedia](https://zh.wikipedia.org/wiki/%E6%88%91%E5%8F%AA%E5%9C%A8%E4%B9%8E%E4%BD%A0) — Details in der verlinkten Originalquelle
 
-[^18]: [Teresa Teng – Baidu Baike, japanische Auszeichnungsrekorde](https://baike.baidu.com/item/%E9%82%93%E4%B8%BD%E5%90%9B) – 1984-1986 dreijähriger Doppelsieg mit „Tsugunai“, „Aijin“ und „Toki no nagare ni mi o makase“ beim Japan Cable Award und All Japan Cable Broadcasting Award, als erster ausländischer Künstler der japanischen Musikgeschichte.
+[^18]: [Teresa Teng – Baidu Baike, japanische Auszeichnungsrekorde](https://baike.baidu.com/item/%E9%82%93%E4%B8%BD%E5%90%9B) — Details in der verlinkten Originalquelle
 
-[^19]: [Teresa Teng Kinmen-Truppenbetreuung 1980 – YouTube](https://www.youtube.com/watch?v=pu2HwGI-Y6Q) – Mitschrift der Truppenbetreuung am 04.10.1980, moderiert von TTVs T'ien Wen-chung und Hung Lin, vollständige Liste der neun Lieder.
+[^19]: [Teresa Teng Kinmen-Truppenbetreuung 1980 – YouTube](https://www.youtube.com/watch?v=pu2HwGI-Y6Q) — Details in der verlinkten Originalquelle
 
-[^20]: [Teresa Teng §Soldatenliebling – Wikipedia](https://zh.wikipedia.org/zh-hant/%E9%84%A7%E9%BA%97%E5%90%9B#%E8%BB%8D%E4%B8%AD%E6%83%85%E4%BA%BA) – einmonatige Truppenbetreuung durch die Kasernen Taiwans im August 1981 sowie die TTV-Sondersendung „Der Fürst auf dem Vorposten“ (Guningtou, Mashan, Hujingtou, Granit-Krankenhaus, Da'erdan-Inseln).
+[^20]: [Teresa Teng §Soldatenliebling – Wikipedia](https://zh.wikipedia.org/zh-hant/%E9%84%A7%E9%BA%97%E5%90%9B#%E8%BB%8D%E4%B8%AD%E6%83%85%E4%BA%BA) — Details in der verlinkten Originalquelle
 
-[^21]: [Regierung des Landkreises Kinmen – Gedenken an Teresas Truppenbetreuung auf Kinmen](https://www.kinmen.gov.tw/News_Content2.aspx?n=98E3CA7358C89100&sms=BF7D6D478B935644&s=F266E469FC79D7D8) – wörtliche Mitschrift ihrer Rede am Taiwu-Berg (Plastiktüte mit Luft) und ihres Rufs zum Festland am Mashan-Observatorium am 08.03.1991.
+[^21]: [Regierung des Landkreises Kinmen – Gedenken an Teresas Truppenbetreuung auf Kinmen](https://www.kinmen.gov.tw/News_Content2.aspx?n=98E3CA7358C89100&sms=BF7D6D478B935644&s=F266E469FC79D7D8) — Details in der verlinkten Originalquelle
 
-[^22]: [Liberty Times Entertainment – Teresa Teng fünfmal auf Kinmen](https://ent.ltn.com.tw/news/breakingnews/3829826) – zusammenfassender Bericht „insgesamt fünfmal auf Kinmen zur Truppenbetreuung“ und die Bezeichnung „Soldatenliebling für die Ewigkeit“ der Kinmen-Verteidigung.
+[^22]: [Liberty Times Entertainment – Teresa Teng fünfmal auf Kinmen](https://ent.ltn.com.tw/news/breakingnews/3829826) — Details in der verlinkten Originalquelle
 
-[^23]: [Nippon.com – Teresa Teng und der 4. Juni](https://www.nippon.com/hk/japan-topics/g00878/) – Zusammenfassung ihrer Gedenkauftritte und öffentlichen Äußerungen in Paris 1990-1993, inkl. des Wortlauts von 1992 „Ich beuge mich nie vor Gewaltherrschaft, nie gebe ich dem Druck nach“.
+[^23]: [Nippon.com – Teresa Teng und der 4. Juni](https://www.nippon.com/hk/japan-topics/g00878/) — Details in der verlinkten Originalquelle
 
-[^24]: [Secret China 27.05.2023 – Ürümqi Abdurehim erinnert sich an Teresa Teng](https://www.secretchina.com/news/b5/2023/05/27/1036809.html) – seine Erinnerung an ihre Worte auf der Versammlung zum 4. Juni am Platz der Menschenrechte in Paris am 04.06.1993 (Einzelquelle, Aussage von Ürümqi).
+[^24]: [Secret China 27.05.2023 – Ürümqi Abdurehim erinnert sich an Teresa Teng](https://www.secretchina.com/news/b5/2023/05/27/1036809.html) — Details in der verlinkten Originalquelle
 
-[^25]: [Teresa Teng §Liebesleben – Wikipedia](https://zh.wikipedia.org/zh-hant/%E9%84%A7%E9%BA%97%E5%90%9B#%E6%84%9F%E6%83%85%E7%94%9F%E6%B4%BB) – Paul Puel Stéphane Quilery (geb. September 1968), 1989 in der Pariser „Neues Dunhuang“-Gaststätte kennengelernt, französischer Fotograf, 15 Jahre jünger, fünf Jahre Beziehung bis zu ihrem Tod am 08.05.1995.
+[^25]: [Teresa Teng §Liebesleben – Wikipedia](https://zh.wikipedia.org/zh-hant/%E9%84%A7%E9%BA%97%E5%90%9B#%E6%84%9F%E6%83%85%E7%94%9F%E6%B4%BB) — Details in der verlinkten Originalquelle
 
-[^26]: [SCMP – 30 Jahre nach Teresas Tod](https://www.scmp.com/lifestyle/entertainment/article/3254389/teresa-teng-30-years-after-death-why-asias-queen-pop-still-adored-china-japan-and-beyond) – Details zum dritten Einzug in die Präsidentensuite im 15. Stock des Imperial Mae Ping Hotel, Chiang Mai, im April 1995.
+[^26]: [SCMP – 30 Jahre nach Teresas Tod](https://www.scmp.com/lifestyle/entertainment/article/3254389/teresa-teng-30-years-after-death-why-asias-queen-pop-still-adored-china-japan-and-beyond) — Details in der verlinkten Originalquelle
 
-[^27]: [VnExpress International – Teresas Tod](https://e.vnexpress.net/news/life/mysterious-death-of-asian-pop-queen-teresa-teng-4273731.html) – vollständige Chronik des Nachmittags des 08.05.1995: leeres Asthmaspray, Hilferuf auf dem Flur im 15. Stock, Einlieferung ins Chiang Mai Ram Hospital, Todeserklärung um 17:30 Uhr Ortszeit.
+[^27]: [VnExpress International – Teresas Tod](https://e.vnexpress.net/news/life/mysterious-death-of-asian-pop-queen-teresa-teng-4273731.html) — Details in der verlinkten Originalquelle
 
-[^28]: [David Frazier auf X – Neuigkeiten zu Paul Quilery](https://x.com/davidfrazier) – 2024 erwähnt, dass Paul bis heute wegen des plötzlichen Todes von Teresa Teng im Netz angegriffen wird (Einzelquelle, indirekte Aussage von Freunden).
+[^28]: [David Frazier auf X – Neuigkeiten zu Paul Quilery](https://x.com/davidfrazier) — Details in der verlinkten Originalquelle
 
-[^29]: [Report Time – Aufzeichnung von Teresas Trauerfeier](https://time.udn.com/) – Ablauf der Trauerfeier am 28.05.1995 im Ersten Beerdigungsinstitut, James Soong als Ehrenvorsitzender und Hauptzelebrant, zehn Soldaten trugen den Sarg, Bestattung im „Yun-Garten“ (Jinbaoshan), über 200.000 Trauernde.
+[^29]: [Report Time – Aufzeichnung von Teresas Trauerfeier](https://time.udn.com/) — Details in der verlinkten Originalquelle
 
-[^30]: [Zeitgenössisches China – Tagsüber der alte Deng, abends der kleine Deng](https://www.ourchinastory.com/zh/3313/%E7%99%BD%E5%A4%A9%E8%81%BD%E8%80%81%E9%84%A7%EF%BC%8C%E6%99%9A%E4%B8%8A%E8%81%BD%E5%B0%8F%E9%84%A7) – Recherche zum in den 1980ern in China kursierenden Sprichwort (keine einzige Ursprungsquelle, kollektiv erinnerte Erzählung).
+[^30]: [Zeitgenössisches China – Tagsüber der alte Deng, abends der kleine Deng](https://www.ourchinastory.com/zh/3313/%E7%99%BD%E5%A4%A9%E8%81%BD%E8%80%81%E9%84%A7%EF%BC%8C%E6%99%9A%E4%B8%8A%E8%81%BD%E5%B0%8F%E9%84%A7) — Details in der verlinkten Originalquelle
 
-[^31]: [InterContinental Chiang Mai Mae Ping – Teresas Gedenkzimmer](https://www.ihg.com/intercontinental/hotels/cn/zh/chiang-mai/cnxhd/hoteldetail) – Erhalt und Buchbarkeit des Gedenkzimmers im 15. Stock des ehemaligen Imperial Mae Ping Hotel (heute InterContinental Chiang Mai Mae Ping).
+[^31]: [InterContinental Chiang Mai Mae Ping – Teresas Gedenkzimmer](https://www.ihg.com/intercontinental/hotels/cn/zh/chiang-mai/cnxhd/hoteldetail) — Details in der verlinkten Originalquelle

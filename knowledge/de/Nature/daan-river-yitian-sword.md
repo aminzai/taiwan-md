@@ -29,6 +29,7 @@ relatedDiary: ['2026-06-24-153210-大安溪倚天劍-rewrite']
 translatedFrom: 'Nature/大安溪倚天劍.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:c15c81ec44174b35'
+sourceBodyHash: 'sha256:5dcfd938f21ea513'
 translatedAt: '2026-09-20T03:03:56.464037+00:00'
 ---
 

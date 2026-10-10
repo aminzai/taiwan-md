@@ -23,6 +23,7 @@ readingTime: 7
 translatedFrom: 'People/張惠妹.md'
 sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:ccb03edca388c7b1'
+sourceBodyHash: 'sha256:2548692a01191648'
 translatedAt: '2026-08-13T03:30:00+08:00'
 ---
 
@@ -92,14 +93,14 @@ Vom Restaurant-Auftritt in den Nächten Taitungs bis zu fünf Shows im Taipeh Do
 
 ## Referenzen
 
-[^1]: [Wikipedia: A-mei](https://zh.wikipedia.org/wiki/張惠妹) – bestätigt Geburtsdatum 9. August 1972, Dorf Daba Liujiuu, Beinan, Taitung, Stammesname Kulilay Amit, Produzent Chang Yu-sheng, Debüt „Schwestern“ 1,21 Mio. Taiwan/4 Mio. Asien und Karriere-Gesamt 50 Mio.
+[^1]: [Wikipedia: A-mei](https://zh.wikipedia.org/wiki/張惠妹) — Details in der verlinkten Originalquelle
 
-[^2]: [Wikipedia: Utopia-Welttournee](https://zh.wikipedia.org/wiki/烏托邦世界巡城演唱會) – bestätigt April 2015 Taipeh Arena „Utopia“ mit 10 Shows (nicht 20).
+[^2]: [Wikipedia: Utopia-Welttournee](https://zh.wikipedia.org/wiki/烏托邦世界巡城演唱會) — Details in der verlinkten Originalquelle
 
-[^3]: [Berichte zu ASMeiR MAXXX im Taipeh Dome (2024)](https://zh.wikipedia.org/wiki/張惠妹) – inkl. 5 Shows im Taipeh Dome Dezember 2024, 200-Mio.-Produktionskosten und Heißluftballon.
+[^3]: [Berichte zu ASMeiR MAXXX im Taipeh Dome (2024)](https://zh.wikipedia.org/wiki/張惠妹) — Details in der verlinkten Originalquelle
 
-[^4]: [Business Today: A-mei – Nur wer wagt, kann Erfolg haben](https://www.businesstoday.com.tw/article-content-80407-94711) – Business-Today-Interview, inkl. direktem Zitat „Nur wer wagt, kann Erfolg haben“ und Karriererückblick.
+[^4]: [Business Today: A-mei – Nur wer wagt, kann Erfolg haben](https://www.businesstoday.com.tw/article-content-80407-94711) — Details in der verlinkten Originalquelle
 
-[^5]: [SET News: China boykottiert taiwanesische Künstler – A-mei vier Jahre eingefroren nach Nationalhymnen-Gesang](https://www.setn.com/News.aspx?NewsID=118793) – der Ereignisablauf der Amtseinführung 2000, Boykott-Einfluss von etwa vier Jahren, mit dem Zitat „Damals war das nicht meine Entscheidung. Ich muss diese Bürde tragen, weil ich A-mei bin“ (aus CCTV-Interview 2004).
+[^5]: [SET News: China boykottiert taiwanesische Künstler – A-mei vier Jahre eingefroren nach Nationalhymne…](https://www.setn.com/News.aspx?NewsID=118793) — Details in der verlinkten Originalquelle
 
-[^6]: [Schutzbasis traditioneller geistiger Schöpfungen der indigenen Völker: A-mei nimmt Stammeslied mit Dorfgenehmigung auf (2009)](https://ctm-indigenous.vm.nthu.edu.tw/news-20090715/) – vollständige Dokumentation des Falls, dass A-mei 2009 die Genehmigung der Puyuma-Dorfältesten für die Aufnahme eines traditionellen Stammesliedes einholte; ein Beispiel für Respekt vor dem Stammeswissen.
+[^6]: [Schutzbasis traditioneller geistiger Schöpfungen der indigenen Völker: A-mei nimmt Stammeslied mit D…](https://ctm-indigenous.vm.nthu.edu.tw/news-20090715/) — Details in der verlinkten Originalquelle

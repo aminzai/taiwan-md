@@ -37,6 +37,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Section_3_Zhongshan_North_
 translatedFrom: 'Geography/中山北路條通.md'
 sourceCommitSha: '2da8b92f2'
 sourceContentHash: 'sha256:d645bc8708c3f0c9'
+sourceBodyHash: 'sha256:605dca39a0b5b5c5'
 translatedAt: '2026-09-12T12:04:35.917089+00:00'
 ---
 

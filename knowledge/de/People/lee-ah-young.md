@@ -23,6 +23,7 @@ curation: incubating
 translatedFrom: 'People/李雅英.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:ea396539d4e5fd6a'
+sourceBodyHash: 'sha256:c10dde5e8f5a2f8e'
 translatedAt: '2026-08-13T02:15:34+08:00'
 ---
 

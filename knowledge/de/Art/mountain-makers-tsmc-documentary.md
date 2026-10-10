@@ -27,6 +27,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Hsinchu_Science_Park_%E5%8
 translatedFrom: 'Art/造山者世紀的賭注.md'
 sourceCommitSha: '4f3974f86'
 sourceContentHash: 'sha256:139e55c779ec2a2f'
+sourceBodyHash: 'sha256:076ca43fe3ac469d'
 translatedAt: '2026-09-21T16:12:04.050377+00:00'
 ---
 

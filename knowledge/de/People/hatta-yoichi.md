@@ -4,7 +4,16 @@ description: 'In den 1920er-Jahren errichtete der japanische Ingenieur Yoichi Ha
 date: 2026-05-11
 category: 'People'
 subcategory: '歷史人物'
-tags: ['Yoichi Hatta', 'Chianan-Kanal', 'Wushantou-Stausee', 'Japanische Kolonialzeit', 'Kolonialausbeutung', 'Taiwanesische Landwirtschaft', 'Historische Bewertung']
+tags:
+  [
+    'Yoichi Hatta',
+    'Chianan-Kanal',
+    'Wushantou-Stausee',
+    'Japanische Kolonialzeit',
+    'Kolonialausbeutung',
+    'Taiwanesische Landwirtschaft',
+    'Historische Bewertung',
+  ]
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-11
@@ -13,6 +22,7 @@ readingTime: 15
 translatedFrom: 'People/八田與一.md'
 sourceCommitSha: '2faa5728b'
 sourceContentHash: 'sha256:3b062f454b74892b'
+sourceBodyHash: 'sha256:2885ebb0691722a3'
 translatedAt: '2026-08-19T00:03:53+08:00'
 ---
 

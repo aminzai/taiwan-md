@@ -30,6 +30,7 @@ sporeLinks:
 translatedFrom: 'People/林琪兒.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:a30f0de5d79e98de'
+sourceBodyHash: 'sha256:85e505009fb05c24'
 translatedAt: '2026-09-12T05:35:16.130091+00:00'
 ---
 

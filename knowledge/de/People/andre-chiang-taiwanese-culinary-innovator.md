@@ -24,6 +24,7 @@ relatedDiary: ['2026-07-18-104038-manual']
 translatedFrom: 'People/江振誠.md'
 sourceCommitSha: 'afc8fbf91'
 sourceContentHash: 'sha256:87e96b9bea7173bf'
+sourceBodyHash: 'sha256:257d28e459bd329d'
 translatedAt: '2026-08-19T02:37:54+08:00'
 ---
 

@@ -3,7 +3,15 @@ title: 'Wärme um fünf Uhr morgens: Lieferkette und Frische der Tainan-Rindflei
 description: 'Tainans Rindfleischsuppe ist seit weniger als zwanzig Jahren ein „Aushängeschild" der Stadt, doch der Grund, weshalb sich das Anstehen um fünf Uhr morgens lohnt, ist real: warmes Rindfleisch aus dem Schlachthof von Shanhua, eine Kühlkette, die innerhalb weniger Stunden abgeschlossen ist, und ein Knochenbrühe-Topf, der schon im Morgengrauen zu köcheln beginnt.'
 date: 2026-07-02
 category: 'Food'
-tags: ['Tainan', 'Rindfleischsuppe', 'Warmes Rindfleisch', 'Shanhua', 'Zhongxi-Bezirk', 'Streetfood']
+tags:
+  [
+    'Tainan',
+    'Rindfleischsuppe',
+    'Warmes Rindfleisch',
+    'Shanhua',
+    'Zhongxi-Bezirk',
+    'Streetfood',
+  ]
 subcategory: '經典小吃'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -14,6 +22,7 @@ curation: 'incubating'
 translatedFrom: 'Food/牛肉湯.md'
 sourceCommitSha: '03b3aaae8'
 sourceContentHash: 'sha256:1bed2e499f02597c'
+sourceBodyHash: 'sha256:2b57fc3112c5bc59'
 translatedAt: '2026-09-18T05:09:11+08:00'
 ---
 

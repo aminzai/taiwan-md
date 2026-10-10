@@ -3,7 +3,15 @@ title: 'Shih Ming-teh: 25 Jahre hinter Eisengittern, und am Ende hob er die Fahn
 description: 'Shih Ming-teh saß in seinem Leben zweimal im Gefängnis, insgesamt über 25 Jahre. Nach dem Formosa-Zwischenfall 1979 verweigerte er vor dem Militärgericht das Schuldbekenntnis, bat um die Todesstrafe und wurde schließlich zu lebenslanger Haft verurteilt. Nach der Haftentlassung trug er zum Aufbau der Demokratischen Fortschrittspartei bei und war von 1994 bis 1996 deren Parteivorsitzender. 2006 initiierte er die Millionen-Menschen-Bewegung gegen Chen Shui-bian (die Rothemden) und hob die Fahne in jene Richtung, für die er einst gekämpft hatte. Am 15. Januar 2024 starb er an einem 83. Geburtstag an Leberkrebs.'
 date: 2026-03-19
 category: 'People'
-tags: ['Personen', 'Shih Ming-teh', 'Demokratie', 'Formosa-Zwischenfall', 'Demokratische Fortschrittspartei', 'Taiwan']
+tags:
+  [
+    'Personen',
+    'Shih Ming-teh',
+    'Demokratie',
+    'Formosa-Zwischenfall',
+    'Demokratische Fortschrittspartei',
+    'Taiwan',
+  ]
 subcategory: '政治與民主'
 author: 'Taiwan.md'
 featured: false
@@ -13,6 +21,7 @@ readingTime: 9
 translatedFrom: 'People/施明德.md'
 sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:4e9fd368937980d6'
+sourceBodyHash: 'sha256:f379180b5e8bcecc'
 translatedAt: '2026-08-13T07:45:00+08:00'
 ---
 
@@ -90,24 +99,24 @@ In seinem an die Geschichte gerichteten Verteidigungsschreiben hinterließ er di
 
 ## Referenzen
 
-[^1]: [CNA: Shih Ming-teh saß über 25 Jahre im politischen Gefängnis, als „Mandela Taiwans“ geehrt (2024)](https://www.cna.com.tw/news/aipl/202401150025.aspx) – vollständiger Lebensrückblick der CNA am Todestag: Flucht mit veränderter Erscheinung, 3.000 Zwangsernährungen, zweifache lebenslängliche Haftstrafe.
+[^1]: [CNA: Shih Ming-teh saß über 25 Jahre im politischen Gefängnis, als „Mandela Taiwans“ geehrt (2024)](https://www.cna.com.tw/news/aipl/202401150025.aspx) — Details in der verlinkten Originalquelle
 
-[^2]: [CNA: Shih Ming-tehs Tod und die historische Bewertung der DPP (2024)](https://www.cna.com.tw/news/aipl/202401150026.aspx) – Hintergrund des freiwilligen Parteiaustritts 2000, Ku Kuang-mins „Lebensendebefleckung“-Kritik und die Bewertungen seiner Anti-Amtsinhaber-Bewegung 2006.
+[^2]: [CNA: Shih Ming-tehs Tod und die historische Bewertung der DPP (2024)](https://www.cna.com.tw/news/aipl/202401150026.aspx) — Details in der verlinkten Originalquelle
 
-[^3]: [Wikipedia: Formosa-Zwischenfall](https://zh.wikipedia.org/zh-tw/美麗島事件) – vollständiger Verlauf des Formosa-Zwischenfalls in Kaohsiung 1979, inkl. Gründung der Zeitschrift und der Kundgebung vom 10. Dezember sowie der anschließenden Verhaftungswelle.
+[^3]: [Wikipedia: Formosa-Zwischenfall](https://zh.wikipedia.org/zh-tw/美麗島事件) — Details in der verlinkten Originalquelle
 
-[^4]: [Wikipedia: Lin Yi-hsiung](https://zh.wikipedia.org/zh-tw/林義雄) – Aufzeichnung des Familienmords an Lins Familie am 28. Februar 1980, wichtiges historisches Dokument politischen Terrors nach dem Formosa-Zwischenfall, das direkt Shihs Aussage im Prozess beeinflusste.
+[^4]: [Wikipedia: Lin Yi-hsiung](https://zh.wikipedia.org/zh-tw/林義雄) — Details in der verlinkten Originalquelle
 
-[^5]: [Global Views: Shih Ming-teh gestorben – vor 44 Jahren schrieb er sein „politisches Testament“ im Jahrhundertprozess von Formosa (2024)](https://www.gvm.com.tw/article/109271) – Originaldokumente mit Direktzitaten aus dem Militärprozess 1980: „Bitte verurteilen Sie mich zum Tode“, „das Gericht der Geschichte wird mir Gerechtigkeit erweisen“, „die Hingebenden gehören nicht dem Heute“.
+[^5]: [Global Views: Shih Ming-teh gestorben – vor 44 Jahren schrieb er sein „politisches Testament“ im Jah…](https://www.gvm.com.tw/article/109271) — Details in der verlinkten Originalquelle
 
-[^6]: [Wikipedia: Shih Ming-teh](https://zh.wikipedia.org/zh-tw/施明德) – vollständiger Lebensartikel, inkl. Gründungskontext der DPP, Parteivorsitz (1994-1996) und Karriereüberblick.
+[^6]: [Wikipedia: Shih Ming-teh](https://zh.wikipedia.org/zh-tw/施明德) — Details in der verlinkten Originalquelle
 
-[^7]: [Wikipedia: Bewegung einer Million Menschen gegen Chen Shui-bian](https://zh.wikipedia.org/wiki/百萬人民倒扁運動) – vollständige Aufzeichnung der Organisation der Rothemden-Bewegung 2006, des Protestumfangs und der politischen Folgen.
+[^7]: [Wikipedia: Bewegung einer Million Menschen gegen Chen Shui-bian](https://zh.wikipedia.org/wiki/百萬人民倒扁運動) — Details in der verlinkten Originalquelle
 
-[^8]: [CNA: Shih Ming-teh stirbt am 83. Geburtstag an Leberkrebs (2024)](https://www.cna.com.tw/news/aipl/202401150010.aspx) – offizieller Bericht, bestätigt Leberkrebs als Todesursache, 83 Jahre alt; Erstbericht der CNA vom Todestag.
+[^8]: [CNA: Shih Ming-teh stirbt am 83. Geburtstag an Leberkrebs (2024)](https://www.cna.com.tw/news/aipl/202401150010.aspx) — Details in der verlinkten Originalquelle
 
-[^9]: [CommonWealth: Taiwans Demokratisierungsantreiber Shih Ming-teh gestorben (2024)](https://www.cw.com.tw/article/5128979) – tiefer Rückblick auf seinen Beitrag zur Demokratiebewegung, inkl. Analyse seiner komplexen historischen Stellung und der Kontroverse um den Anti-Amtsinhaber-Protest.
+[^9]: [CommonWealth: Taiwans Demokratisierungsantreiber Shih Ming-teh gestorben (2024)](https://www.cw.com.tw/article/5128979) — Details in der verlinkten Originalquelle
 
-[^10]: [Readr: Daten zur Bürgermeisterwahl Taipeh 1994](https://whoareyou.readr.tw/election?area=%E8%87%BA%E5%8C%97%E5%B8%82&type=%E7%B8%A3%E5%B8%82%E9%A6%96%E9%95%B7&year=1994) – Kandidatendaten der Bürgermeisterwahl Taipeh 1994 (Chen Shui-bian 43,67 %, Jaw Shaw-kong 30,17 %, Huang Ta-chou 25,89 %); bestätigt, dass Shih nicht an dieser Wahl teilnahm, sondern damals Parteivorsitzender war.
+[^10]: [Readr: Daten zur Bürgermeisterwahl Taipeh 1994](https://whoareyou.readr.tw/election?area=%E8%87%BA%E5%8C%97%E5%B8%82&type=%E7%B8%A3%E5%B8%82%E9%A6%96%E9%95%B7&year=1994) — Details in der verlinkten Originalquelle
 
-[^11]: [Wikipedia (EN): Shih Ming-teh](https://en.wikipedia.org/wiki/Shih_Ming-teh) – englischer Wikipedia-Eintrag zu Haftgeschichte, DPP-Vorsitz und internationaler Anerkennung als „Mandela Taiwans“ – sprachübergreifende Verifikation.
+[^11]: [Wikipedia (EN): Shih Ming-teh](https://en.wikipedia.org/wiki/Shih_Ming-teh) — Details in der verlinkten Originalquelle

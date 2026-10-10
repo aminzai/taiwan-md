@@ -3,7 +3,14 @@ title: 'Zhu Yigui, der Entenmutter-König: Der erste Rebell, der sich in Taiwan 
 description: 'Der Aufstieg von Zhu Yigui im Jahr 1721 wird von einem Entezüchter zu einem selbst erwachsenen König in seiner legendären Laufbahn nachgezeichnet und zeigt die weitreichenden Folgen dieses Aufstands für Taiwans Verwaltungspolitik in der Qing-Zeit.'
 date: 2026-03-24
 category: 'People'
-tags: ['Taiwanische Geschichte', 'Qing-Dynastie-Zeit', 'Rebellion', 'Zhu Yigui', 'König der Entenmutter']
+tags:
+  [
+    'Taiwanische Geschichte',
+    'Qing-Dynastie-Zeit',
+    'Rebellion',
+    'Zhu Yigui',
+    'König der Entenmutter',
+  ]
 subcategory: '歷史人物'
 author: 'Taiwan.md Contributors'
 readingTime: 6
@@ -14,6 +21,7 @@ curation: incubating
 translatedFrom: 'People/朱一貴.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:5087a025052f43f4'
+sourceBodyHash: 'sha256:731cd7121531d2ac'
 translatedAt: '2026-08-12T16:35:12Z'
 ---
 

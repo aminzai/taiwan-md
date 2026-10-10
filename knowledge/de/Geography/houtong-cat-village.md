@@ -32,6 +32,7 @@ rationale:
 translatedFrom: 'Geography/猴硐.md'
 sourceCommitSha: '11b9ab5c8'
 sourceContentHash: 'sha256:4e7a3c516a1c10ae'
+sourceBodyHash: 'sha256:e86f8f550c13eab0'
 translatedAt: '2026-09-22T20:01:03.678334+00:00'
 ---
 

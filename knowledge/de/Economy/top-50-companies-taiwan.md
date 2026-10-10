@@ -29,6 +29,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG'
 translatedFrom: 'Economy/台灣前50大企業.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:c392f57da0dcbd9d'
+sourceBodyHash: 'sha256:645f8f42e79639a7'
 translatedAt: '2026-09-23T09:10:47.146112+00:00'
 ---
 

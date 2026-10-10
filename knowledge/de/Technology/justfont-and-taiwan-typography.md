@@ -30,6 +30,7 @@ imageSource: 'https://www.flyingv.cc/projects/8250'
 translatedFrom: 'Technology/justfont與台灣字體發展.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:5bf070953a741d91'
+sourceBodyHash: 'sha256:dcea1d33e3c8824c'
 translatedAt: '2026-09-20T07:18:31.942645+00:00'
 ---
 

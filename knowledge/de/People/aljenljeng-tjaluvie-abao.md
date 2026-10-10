@@ -31,6 +31,7 @@ readingTime: 18
 translatedFrom: 'People/阿爆.md'
 sourceCommitSha: 'ac1d187af'
 sourceContentHash: 'sha256:3152a96aee84899e'
+sourceBodyHash: 'sha256:97980c1ca1d62fad'
 translatedAt: '2026-09-11T22:49:06.656601+00:00'
 ---
 

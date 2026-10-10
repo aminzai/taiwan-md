@@ -3,7 +3,16 @@ title: 'Lee Da-hye'
 description: 'Vom Cheerleading in der koreanischen Liga bis zur führenden Repräsentantin der Stadion-Unterstützung im taiwanesischen Profibaseball: Sie verwandelte „Auswärts-Popularität“ in ein neues Muster langfristiger Entwicklung vor Ort im Korean-Wave-Kontext.'
 date: 2026-05-13
 category: 'People'
-tags: ['Popkultur-Persönlichkeit', 'Lee Da-hye', 'Korea', 'Cheerleading', 'CPBL', 'Wei Chuan Dragons', 'Dragon Beauties']
+tags:
+  [
+    'Popkultur-Persönlichkeit',
+    'Lee Da-hye',
+    'Korea',
+    'Cheerleading',
+    'CPBL',
+    'Wei Chuan Dragons',
+    'Dragon Beauties',
+  ]
 subcategory: '流行人物'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -14,6 +23,7 @@ curation: incubating
 translatedFrom: 'People/李多慧.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:f6448458bab70f96'
+sourceBodyHash: 'sha256:b16f2be3d2468ceb'
 translatedAt: '2026-08-13T02:40:00+08:00'
 ---
 

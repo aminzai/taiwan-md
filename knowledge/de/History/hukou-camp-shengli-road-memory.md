@@ -3,7 +3,15 @@ title: 'Die zwei Seiten der Shengli-Straße: Von der Panzerbataillon-Putschversu
 description: 'An der Shengli-Straße in Hsinchu-Hukou steht auf der einen Seite der Militärzaun für Panzer und politische Stürme, auf der anderen Seite für Wohnviertel, Versorgungseinrichtungen und das verschwundene Kino. Es ist eine lokale Geschichte über Nachbarschaft, Zufall und soziale Gerechtigkeit.'
 date: 2026-03-24
 category: 'History'
-tags: ['Hukou-Zwischenfall', 'Hukou-Militärlager', 'Shengli-Straße', 'Hong-Zhongqiu-Fall', 'Star-Glanz-Truppe', 'Lokale Erinnerung']
+tags:
+  [
+    'Hukou-Zwischenfall',
+    'Hukou-Militärlager',
+    'Shengli-Straße',
+    'Hong-Zhongqiu-Fall',
+    'Star-Glanz-Truppe',
+    'Lokale Erinnerung',
+  ]
 subcategory: '軍事歷史'
 author: 'Taiwan.md Contributors'
 readingTime: 12
@@ -14,6 +22,7 @@ curation: incubating
 translatedFrom: 'History/湖口營區與勝利路記憶.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:974d882aea2dc539'
+sourceBodyHash: 'sha256:67689aef546b2c21'
 translatedAt: '2026-08-13T00:00:00+00:00'
 ---
 

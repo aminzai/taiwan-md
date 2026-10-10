@@ -33,6 +33,7 @@ relatedDiary: ['2026-06-07-153821-複雜生活節']
 translatedFrom: 'Society/複雜生活節.md'
 sourceCommitSha: 'dd82dc4a6'
 sourceContentHash: 'sha256:7ebf5415595c2d0c'
+sourceBodyHash: 'sha256:f51e2d5a46bf8d87'
 translatedAt: '2026-09-12T01:15:21.005741+00:00'
 ---
 

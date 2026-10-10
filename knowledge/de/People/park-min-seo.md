@@ -24,6 +24,7 @@ curation: incubating
 translatedFrom: 'People/朴旻曙.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:2cd7fe2858749738'
+sourceBodyHash: 'sha256:88c017dc32e26447'
 translatedAt: '2026-08-12T00:00:00+08:00'
 ---
 

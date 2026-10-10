@@ -26,6 +26,7 @@ imageSource: 'https://www.twqr.com.tw/'
 translatedFrom: 'Technology/台灣行動支付.md'
 sourceCommitSha: '574b1a339'
 sourceContentHash: 'sha256:d9687f2e9f925231'
+sourceBodyHash: 'sha256:62d9c6127e29bebe'
 translatedAt: '2026-09-23T01:16:18.232643+00:00'
 ---
 

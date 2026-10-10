@@ -30,6 +30,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Breakfast_sold_in_taiwan.j
 translatedFrom: 'Food/台灣早餐文化.md'
 sourceCommitSha: 'ee6650052'
 sourceContentHash: 'sha256:499276bde9de600f'
+sourceBodyHash: 'sha256:be2608c0c19c56d2'
 translatedAt: '2026-09-25T22:46:09.557973+00:00'
 ---
 

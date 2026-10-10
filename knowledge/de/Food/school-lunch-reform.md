@@ -23,6 +23,7 @@ readingTime: 12
 translatedFrom: 'Food/營養午餐.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:938bfed97e4860f0'
+sourceBodyHash: 'sha256:41f53dec5abc68f4'
 translatedAt: '2026-09-26T04:33:33.986250+00:00'
 ---
 

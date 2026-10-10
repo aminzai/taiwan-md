@@ -32,6 +32,7 @@ rationale:
 translatedFrom: 'People/黃大煒.md'
 sourceCommitSha: '5fbbcf417'
 sourceContentHash: 'sha256:a2b8ae3e1b8f4919'
+sourceBodyHash: 'sha256:b9f5504c528ed428'
 translatedAt: '2026-09-25T14:40:35.990183+00:00'
 ---
 

@@ -31,6 +31,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Sixth_Generation_Tropic_of
 translatedFrom: 'Geography/嘉義市.md'
 sourceCommitSha: '2187c1c9c'
 sourceContentHash: 'sha256:789e2bd45ea7b5f4'
+sourceBodyHash: 'sha256:7f19df1b99a37241'
 translatedAt: '2026-09-25T01:26:08.361654+00:00'
 ---
 

@@ -3,7 +3,14 @@ title: 'Lin Bai-li: Shanghai 1949, Gründer von Quanta Computer und der Notebook
 description: 'Geboren am 24. April 1949 in Shanghai. Gründete 1988 gemeinsam mit Liang Ci-zhen u. a. Quanta Computer. 2005 wurde Lungenadenokarzinom diagnostiziert (inzwischen über 20 Jahre Krebskampf). Quantas Umsatz überstieg 2025 die 2 Billionen NT$; wichtiger Serverpartner von NVIDIA; in der Fortune 500. Die Nachfolge durch seinen Sohn rückt in den Fokus. 2026 ist er weiterhin Vorstandsvorsitzender.'
 date: 2026-03-19
 category: 'People'
-tags: ['Technologie und Unternehmen', 'Quanta Computer', 'ODM-Auftragsfertigung', 'Künstliche Intelligenz', 'Lungenadenokarzinom']
+tags:
+  [
+    'Technologie und Unternehmen',
+    'Quanta Computer',
+    'ODM-Auftragsfertigung',
+    'Künstliche Intelligenz',
+    'Lungenadenokarzinom',
+  ]
 subcategory: '科技與企業'
 author: 'Taiwan.md'
 featured: false
@@ -17,6 +24,7 @@ readingTime: 7
 translatedFrom: 'People/林百里.md'
 sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:b074716a2141d65a'
+sourceBodyHash: 'sha256:98f02f5d889ec6c6'
 translatedAt: '2026-08-18T01:47:39+08:00'
 ---
 
@@ -68,12 +76,12 @@ Von der Mainboard-Fabrik 1988 bis zum Fortune-500-AI-Server-Hersteller 2025: Lin
 
 ## Referenzen
 
-[^1]: [Wikipedia: Lin Bai-li](https://zh.wikipedia.org/wiki/林百里) – bestätigt Geburt am 24. April 1949 in Shanghai, Ausbildung und früher Werdegang.
+[^1]: [Wikipedia: Lin Bai-li](https://zh.wikipedia.org/wiki/林百里) — Details in der verlinkten Originalquelle
 
-[^2]: [Quanta Computer Group: Vorstellung des Gründers](https://www.quantatw.com/tw/about/founder) – bestätigt Gründung von Quanta Computer durch Lin Bai-li und Liang Ci-zhen u. a. 1988, Start mit Mainboards und Industriecomputern sowie die ODM-Wende bei Notebooks.
+[^2]: [Quanta Computer Group: Vorstellung des Gründers](https://www.quantatw.com/tw/about/founder) — Details in der verlinkten Originalquelle
 
-[^3]: [Harvard Business Review Taiwan: Lin Bai-lis AI-Transformation](https://www.hbrtaiwan.com/article/23222/quanta-computer) – enthält Lin Bai-lis öffentliche Äußerungen zur Lungenadenokarzinom-Diagnose (2005) und den über 20-jährigen Krebskampf.
+[^3]: [Harvard Business Review Taiwan: Lin Bai-lis AI-Transformation](https://www.hbrtaiwan.com/article/23222/quanta-computer) — Details in der verlinkten Originalquelle
 
-[^4]: [Digitimes: Quanta-Geschäftsbericht 2025](https://www.bnext.com.tw/) – bestätigt den Konzernumsatz über 2 Billionen NT$ 2025, die Position als wichtiger AI-Serverpartner von NVIDIA und die Aufnahme in die Fortune 500.
+[^4]: [Digitimes: Quanta-Geschäftsbericht 2025](https://www.bnext.com.tw/) — Details in der verlinkten Originalquelle
 
-[^5]: [ETtoday Finanz: Die Nachfolgefrage bei Quanta](https://finance.ettoday.net/news/2981088) – Berichterstattung zur Nachfolgedebatte um Lin Bai-lis Sohn; 2026 ist Lin Bai-li weiter Vorsitzender von Quanta (Quelle: udn.com).
+[^5]: [ETtoday Finanz: Die Nachfolgefrage bei Quanta](https://finance.ettoday.net/news/2981088) — Details in der verlinkten Originalquelle

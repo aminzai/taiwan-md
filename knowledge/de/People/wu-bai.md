@@ -4,7 +4,15 @@ description: 'Bürgerlich Wu Chun-lin, 1968 im Dorf Suantou der Gemeinde Liujiao
 date: 2026-03-19
 category: 'People'
 subcategory: '音樂'
-tags: ['Musik', 'Rock', 'Taiwanesischsprachige Lieder', 'Chiayi', 'Lokaler Rock', 'Gitarre']
+tags:
+  [
+    'Musik',
+    'Rock',
+    'Taiwanesischsprachige Lieder',
+    'Chiayi',
+    'Lokaler Rock',
+    'Gitarre',
+  ]
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07
@@ -13,6 +21,7 @@ readingTime: 7
 translatedFrom: 'People/伍佰.md'
 sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:71bb6dc9665fc922'
+sourceBodyHash: 'sha256:fb05d9869b96635c'
 translatedAt: '2026-08-19T03:50:18+08:00'
 ---
 

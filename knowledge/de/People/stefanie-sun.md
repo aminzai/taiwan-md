@@ -3,7 +3,16 @@ title: 'Stefanie Sun: Mit einer Stimme Vorsprung vor Jay Chou, 1000 Songs mit KI
 description: 'Am 9. Juni 2000 debütierte ein singapurisches Mädchen mit „Heavenly Black“ in Taiwan; das Debütalbum erreichte mit 330.000 Exemplaren den Jahresverkaufschampion. Im folgenden Jahr besiegte sie bei den Golden Melody Awards Jay Chou um eine Stimme und gewann den Preis für den besten Newcomer; vier Jahre später war sie mit „Stefanie“ die erste Doppelpreisträgerin in der Geschichte der Golden Melody Awards – „bester Newcomer und beste Sängerin“. 2023 ließen KI-Stimmen sie über 1000 Lieder singen; ihre einzige Antwort war: „Sich selbst zu bleiben, genügt.“'
 date: 2026-04-19
 category: 'People'
-tags: ['Musik', 'Popmusik', 'Sängerin', 'Golden Melody Award', 'Singapur', 'Chinesischsprachige Musik', 'Künstliche Intelligenz']
+tags:
+  [
+    'Musik',
+    'Popmusik',
+    'Sängerin',
+    'Golden Melody Award',
+    'Singapur',
+    'Chinesischsprachige Musik',
+    'Künstliche Intelligenz',
+  ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
@@ -12,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'People/孫燕姿.md'
 sourceCommitSha: 'ac1d187af'
 sourceContentHash: 'sha256:d8ef4cf5cb173c45'
+sourceBodyHash: 'sha256:22d5eb111a89acdd'
 translatedAt: '2026-08-13T05:00:00+08:00'
 ---
 
@@ -37,8 +47,8 @@ Am 9. Juni 2000 debütierte Stefanie Sun offiziell mit „Heavenly Black“.
 
 Die Produzentin dieses Liedes, Lee Shih-shiong, ließ sich von dem Hokkien-Kinderlied „Tian Wu Wu“ inspirieren, das seine Großmutter in der Kindheit sang; die alte Melodie über einen nahenden Sturm wurde von Liao Ying-ru und Wu Yi-zheng getextet und von Wu Qing-long arrangiert – und erreichte durch die Stimme eines singapurischen Mädchens als unausweichlichster Klang jenes Sommers die chinesischsprachige Welt.[^6]
 
-| 330.000 Exemplare          | 380.000 Exemplare          |
-| -------------------------- | -------------------------- |
+| 330.000 Exemplare                      | 380.000 Exemplare                      |
+| -------------------------------------- | -------------------------------------- |
 | Verkaufschampion Jahres 2000 in Taiwan | Verkaufschampion Jahres 2001 in Taiwan |
 
 In der ersten Woche wurden 30.000 verkauft, Ende Juli über 300.000, schließlich 330.000 – der Jahresverkaufschampion Taiwans 2000. Das zweite Album des Folgejahres erreichte 380.000 und verteidigte den Titel.[^7]
@@ -142,48 +152,48 @@ Stefanie Suns Aufstieg ist ein Abbild der Blütezeit der taiwanesischen Popmusik
 
 ## Referenzen
 
-[^1]: [BusinessNext Digital Times](https://www.bnext.com.tw/) – Bericht über den KI-Stefanie-Sun-Viralhit im Mai 2023 auf bilibili, mit Details zur So-Vits-SVC-Technik und dem Xiamen-Trainings-Team.
+[^1]: [BusinessNext Digital Times](https://www.bnext.com.tw/) — Details in der verlinkten Originalquelle
 
-[^2]: [BusinessNext Digital Times](https://www.bnext.com.tw/) – KI-Coverdaten: „Haare wie Schnee“ 1,2 Mio. Aufrufe, KI-Stefanie-Sun-Kompilation über 3 Mio. (Bericht Mai 2023).
+[^2]: [BusinessNext Digital Times](https://www.bnext.com.tw/) — Details in der verlinkten Originalquelle
 
-[^3]: [BusinessNext Digital Times](https://www.bnext.com.tw/) – Stefanie Suns Antwort und Erklärung, wörtlich aus dem BusinessNext-Bericht Mai 2023.
+[^3]: [BusinessNext Digital Times](https://www.bnext.com.tw/) — Details in der verlinkten Originalquelle
 
-[^4]: [Stefanie Sun – Wikipedia](https://zh.wikipedia.org/wiki/孫燕姿) – Biografie mit früher Musikausbildung, Hintergrund der Handelsfakultät der Nanyang Technological University und Entdeckungsprozess; ergänzt durch damalige Medienberichte zum Debüt (2000-2002).
+[^4]: [Stefanie Sun – Wikipedia](https://zh.wikipedia.org/wiki/孫燕姿) — Details in der verlinkten Originalquelle
 
-[^5]: [Stefanie Sun – Wikipedia](https://zh.wikipedia.org/wiki/孫燕姿) – Entdeckung: Chou Chien-hui besuchte 1998 die Musikschule von Lee Shih-shiong; der Vater verlangte den Studienabschluss vor der Vertragsunterschrift; ergänzt durch öffentliche Interviews mit Lee Shih-shiong und Stefanie Sun.
+[^5]: [Stefanie Sun – Wikipedia](https://zh.wikipedia.org/wiki/孫燕姿) — Details in der verlinkten Originalquelle
 
-[^6]: [Stefanie Sun – Wikipedia](https://zh.wikipedia.org/wiki/孫燕姿) – Produktion von „Heavenly Black“: Komposition Lee Shih-shiong, Text Liao Ying-ru und Wu Yi-zheng, Arrangement Wu Qing-long, inspiriert vom Hokkien-Kinderlied „Tian Wu Wu“; öffentliche Interviewaufnahmen von Lee Shih-shiong.
+[^6]: [Stefanie Sun – Wikipedia](https://zh.wikipedia.org/wiki/孫燕姿) — Details in der verlinkten Originalquelle
 
-[^7]: [IFPI Taiwan – International Federation of the Phonographic Industry Taiwan](https://www.ifpi.org.tw/) – 330.000 Exemplare des Debüts als Jahreschampion, im Folgejahr 380.000 Titelverteidigung; Marktstatistik (2000-2001).
+[^7]: [IFPI Taiwan – International Federation of the Phonographic Industry Taiwan](https://www.ifpi.org.tw/) — Details in der verlinkten Originalquelle
 
-[^8]: [12. Golden Melody Awards – Wikipedia](https://zh.wikipedia.org/wiki/第12屆金曲獎) – Verleihung am 5. Mai 2001, Preisträger des besten Newcomers und vollständige Liste der Mitnominierten; ergänzt durch offizielle Aufzeichnungen.
+[^8]: [12. Golden Melody Awards – Wikipedia](https://zh.wikipedia.org/wiki/第12屆金曲獎) — Details in der verlinkten Originalquelle
 
-[^9]: [Stefanie Sun – Wikipedia](https://zh.wikipedia.org/wiki/孫燕姿) – Gesamtverkäufe in Asien über 30 Millionen, erfolgreichste Sängerin aus Singapur/Malaysia chinesischer Musik (Warner Music Asia Daten, 2002-2010).
+[^9]: [Stefanie Sun – Wikipedia](https://zh.wikipedia.org/wiki/孫燕姿) — Details in der verlinkten Originalquelle
 
-[^10]: [Stefanie Sun – Wikipedia](https://zh.wikipedia.org/wiki/孫燕姿) – „Asiaweek“-Tiefenreportage Oktober 2002 über das „Stefanie-Sun-Phänomen“ und den Spruch „Männer: Jay Chou. Frauen: Stefanie Sun“, Hongkonger Medienarchiv.
+[^10]: [Stefanie Sun – Wikipedia](https://zh.wikipedia.org/wiki/孫燕姿) — Details in der verlinkten Originalquelle
 
-[^11]: [Stefanie Sun – Wikipedia](https://zh.wikipedia.org/wiki/孫燕姿) – „Begegnung“ (2003), Text Yi Chia-yang, Komposition Lin Yi-feng, enthalten im „The Moment“-Album, Titelsong des Films „Turn Left, Turn Right“.
+[^11]: [Stefanie Sun – Wikipedia](https://zh.wikipedia.org/wiki/孫燕姿) — Details in der verlinkten Originalquelle
 
-[^12]: [Stefanie Sun – Wikipedia](https://zh.wikipedia.org/wiki/孫燕姿) – Album „Stefanie“: Veröffentlicht Oktober 2004 als achtes Album, Sony Music Taiwan.
+[^12]: [Stefanie Sun – Wikipedia](https://zh.wikipedia.org/wiki/孫燕姿) — Details in der verlinkten Originalquelle
 
-[^13]: [16. Golden Melody Awards – Wikipedia](https://zh.wikipedia.org/wiki/第16屆金曲獎) – Verleihung am 28. Mai 2005; Sun gewann mit „Stefanie“ die beste Mandarin-Sängerin; Rekord als erste Doppelpreisträgerin „bester Newcomer plus beste Sängerin“.
+[^13]: [16. Golden Melody Awards – Wikipedia](https://zh.wikipedia.org/wiki/第16屆金曲獎) — Details in der verlinkten Originalquelle
 
-[^14]: [Stefanie Sun – Wikipedia](https://zh.wikipedia.org/wiki/孫燕姿) – Album „Gegen das Licht“ (2007), 138.000 verkaufte Exemplare; Verkaufsberichte diverser chinesischsprachiger Medien 2007.
+[^14]: [Stefanie Sun – Wikipedia](https://zh.wikipedia.org/wiki/孫燕姿) — Details in der verlinkten Originalquelle
 
-[^15]: [Stefanie Sun – Wikipedia](https://zh.wikipedia.org/wiki/孫燕姿) – Heirat mit Nadim Van Der Ros am 31. März 2011, bestätigt durch singapurische und taiwanesische Medien.
+[^15]: [Stefanie Sun – Wikipedia](https://zh.wikipedia.org/wiki/孫燕姿) — Details in der verlinkten Originalquelle
 
-[^16]: [Stefanie Sun – Wikipedia](https://zh.wikipedia.org/wiki/孫燕姿) – „Kepler“ erschien am 27. Februar 2014, asiatischer iTunes-Champion; Sony Music Taiwan und Medienberichte Februar 2014.
+[^16]: [Stefanie Sun – Wikipedia](https://zh.wikipedia.org/wiki/孫燕姿) — Details in der verlinkten Originalquelle
 
-[^17]: [Stefanie Sun – Wikipedia](https://zh.wikipedia.org/wiki/孫燕姿) – Kepler-Welttournee: Eröffnung in der Taipei Arena am 14.-15. Februar 2014, Kosten 60 Mio. NT$, 25 asiatische Städte, 28 Shows.
+[^17]: [Stefanie Sun – Wikipedia](https://zh.wikipedia.org/wiki/孫燕姿) — Details in der verlinkten Originalquelle
 
-[^18]: [Stefanie Sun – Wikipedia](https://zh.wikipedia.org/wiki/孫燕姿) – Interview-Zitat aus der Kepler-Promo-Periode 2014, von mehreren Medien gesammelt.
+[^18]: [Stefanie Sun – Wikipedia](https://zh.wikipedia.org/wiki/孫燕姿) — Details in der verlinkten Originalquelle
 
-[^19]: [BusinessNext Digital Times](https://www.bnext.com.tw/) – KI-Technikdetails: Open-Source-So-Vits-SVC, trainiert von Xiamen-Programmierer und Fans mit über 100 Originaltiteln (Bericht Mai 2023).
+[^19]: [BusinessNext Digital Times](https://www.bnext.com.tw/) — Details in der verlinkten Originalquelle
 
-[^20]: [Stefanie Sun – Wikipedia](https://zh.wikipedia.org/wiki/孫燕姿) – Analyse zum Urheberrecht von KI-Stimmen: Anwendbarkeit des Persönlichkeitsrechts nach Artikel 18 des Zivilgesetzbuches; Quelle: Interview mit IP-Anwälten in taiwanesischen Medien 2023.
+[^20]: [Stefanie Sun – Wikipedia](https://zh.wikipedia.org/wiki/孫燕姿) — Details in der verlinkten Originalquelle
 
-[^21]: [HK01](https://www.hk01.com/) – Stefanie Suns langer Text zum KI-Phänomen im Mai 2023, wörtlich: „In diesem grenzenlosen Meer des Seins ist alles möglich, und nichts ist wichtig. Ich glaube, bei reinem Denken genügt es, man selbst zu sein.“
+[^21]: [HK01](https://www.hk01.com/) — Details in der verlinkten Originalquelle
 
-[^22]: [HK01](https://www.hk01.com/) – Stefanie Suns langer Text zum KI-Phänomen im Mai 2023, wörtlich: „Dass der Mensch die KI nicht übertreffen kann, ist bald erreicht; diese neue Technologie wird alles massenhaft erzeugen können, was jeder braucht. Du bist nicht besonders, du bist bereits vorhersehbar, und leider bist du auch anpassbar.“
+[^22]: [HK01](https://www.hk01.com/) — Details in der verlinkten Originalquelle
 
-[^23]: [Stefanie Sun Offizielle Informationen](https://www.youtube.com/@StefanieSunOfficial) – Tour „Nach dem Sonnenuntergang“, 15.-17. Mai 2026 in der Taipei Dome, offizielle Tour-Ankündigung.
+[^23]: [Stefanie Sun Offizielle Informationen](https://www.youtube.com/@StefanieSunOfficial) — Details in der verlinkten Originalquelle

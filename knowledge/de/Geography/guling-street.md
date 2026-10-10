@@ -37,6 +37,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Nanhai_Academy_20240102.jp
 translatedFrom: 'Geography/牯嶺街.md'
 sourceCommitSha: 'fe48ea49d'
 sourceContentHash: 'sha256:66bd8b34b1fa18da'
+sourceBodyHash: 'sha256:cafaccb40b199771'
 translatedAt: '2026-09-26T14:00:50.903897+00:00'
 ---
 

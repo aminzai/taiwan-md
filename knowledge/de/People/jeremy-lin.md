@@ -3,7 +3,17 @@ title: 'Jeremy Lin: Der Basketballweg vom 15-Tage-Doppel-Cut zum TPBL-Doppel-MVP
 description: 'Highschool-Staatsmeister ohne Stipendium, im Draft übergangen, innerhalb von 15 Tagen zweimal gefeuert – dann lernte die ganze Welt „Linsanity“ kennen'
 date: 2026-03-19
 category: 'People'
-tags: ['Personen', 'Basketball', 'Taiwanesisch-Amerikaner', 'NBA', 'Linsanity', 'Harvard University', 'P.League+', 'TPBL']
+tags:
+  [
+    'Personen',
+    'Basketball',
+    'Taiwanesisch-Amerikaner',
+    'NBA',
+    'Linsanity',
+    'Harvard University',
+    'P.League+',
+    'TPBL',
+  ]
 subcategory: '體育'
 author: 'Taiwan.md'
 featured: true
@@ -12,6 +22,7 @@ lastHumanReview: true
 translatedFrom: 'People/林書豪.md'
 sourceCommitSha: '85926aa3b'
 sourceContentHash: 'sha256:d8f9d758b525d52d'
+sourceBodyHash: 'sha256:15c8e50bb3ba07a7'
 translatedAt: '2026-08-13T05:10:00+08:00'
 ---
 
@@ -53,15 +64,15 @@ Im Februar 2012 verletzte sich der Point Guard der Knicks standesgemäß; Coach 
 
 Was dann geschah, hatte niemand vorhergesehen:[^9]
 
-| Datum | Gegner    | Punkte | Assists |
-| ----- | --------- | ------ | ------- |
-| 4.2.  | Nets      | 25     | 7       |
-| 6.2.  | Jazz      | 28     | 8       |
-| 8.2.  | Wizards   | 23     | 10      |
-| 10.2. | Lakers    | 38     | 7       |
-| 11.2. | Timberwolves | 20  | 8       |
-| 14.2. | Raptors   | 27     | 11      |
-| 15.2. | Kings     | 10     | 13      |
+| Datum | Gegner       | Punkte | Assists |
+| ----- | ------------ | ------ | ------- |
+| 4.2.  | Nets         | 25     | 7       |
+| 6.2.  | Jazz         | 28     | 8       |
+| 8.2.  | Wizards      | 23     | 10      |
+| 10.2. | Lakers       | 38     | 7       |
+| 11.2. | Timberwolves | 20     | 8       |
+| 14.2. | Raptors      | 27     | 11      |
+| 15.2. | Kings        | 10     | 13      |
 
 Sieben Siege in Folge. Im Schnitt 24,4 Punkte und 9,1 Assists bei einer Wurfquote von 51,2 %.[^9]
 
@@ -111,32 +122,32 @@ Jeremy Lins Karriere entsprach nie den Erwartungen von irgendjemandem – auch n
 
 ## Referenzen
 
-[^1]: [Jeremy Lin – Wikipedia](https://en.wikipedia.org/wiki/Jeremy_Lin) – vollständiger englischer Wikipedia-Artikel, inkl. Verlauf von Linsanity, Harvard-Hintergrund, Draft-Übergehen, Trikotverkäufe über Kobe und LeBron.
+[^1]: [Jeremy Lin – Wikipedia](https://en.wikipedia.org/wiki/Jeremy_Lin) — Details in der verlinkten Originalquelle
 
-[^2]: [The News Lens: Jeremy Lin spielte keine Minute – wie viele Rekorde stellten die Toronto Raptors mit dem NBA-Titel auf?](https://www.thenewslens.com/article/120761) – Bericht über die 51 Sekunden im dritten Finalspiel 2019, erster asiatischstämmiger Amerikaner mit NBA-Championring.
+[^2]: [The News Lens: Jeremy Lin spielte keine Minute – wie viele Rekorde stellten die Toronto Raptors mit …](https://www.thenewslens.com/article/120761) — Details in der verlinkten Originalquelle
 
-[^3]: [TPBL Offizielle News: Krönung! New Taipei Kings gewinnen den ersten TPBL-Meistertitel, Jeremy Lin Doppel-MVP](https://tpbl.basketball/news/168) – Bericht über das erste TPBL-Finale, im siebten Spiel 27 Punkte, 5 Rebounds, 4 Assists, 108:89 gegen Kaohsiung Aquas.
+[^3]: [TPBL Offizielle News: Krönung! New Taipei Kings gewinnen den ersten TPBL-Meistertitel, Jeremy Lin Do…](https://tpbl.basketball/news/168) — Details in der verlinkten Originalquelle
 
-[^4]: [ETtoday: Die richtige Herkunft des Joker-Brüderchens – Vater von Jeremy Lin: Die Lin-Familie ist Taiwanes](https://sports.ettoday.net/news/25417) – Bericht 2012, dass die Lin-Familie 1707 von Zhangpu in Fujian nach Beidou, Changhua, Taiwan auswanderte; Jeremy ist die neunte Generation in Taiwan.
+[^4]: [ETtoday: Die richtige Herkunft des Joker-Brüderchens – Vater von Jeremy Lin: Die Lin-Familie ist Tai…](https://sports.ettoday.net/news/25417) — Details in der verlinkten Originalquelle
 
-[^5]: [CommonWealth Magazine: Die erste Erziehungsetappe von Jeremy Lins Vater](https://www.cw.com.tw/article/5129366) – dokumentiert den Maschinenbau-Abschluss des Vaters an der NTU, das Staatsstipendium in den USA, die Promotion an der Purdue University und die Begegnung mit der Mutter an der Old Dominion University.
+[^5]: [CommonWealth Magazine: Die erste Erziehungsetappe von Jeremy Lins Vater](https://www.cw.com.tw/article/5129366) — Details in der verlinkten Originalquelle
 
-[^6]: [Liberty Sports: Wie der Vater, so der Sohn – der Doppelpromovierte Basketball-Papa](https://sports.ltn.com.tw/news/paper/562869) – Bericht über die Basketball-Prägung des Vaters, der seine drei Söhne dreimal wöchentlich von 20:30 bis 22:00 ins YMCA zum Training brachte; erst nach den Hausaufgaben durften sie spielen.
+[^6]: [Liberty Sports: Wie der Vater, so der Sohn – der Doppelpromovierte Basketball-Papa](https://sports.ltn.com.tw/news/paper/562869) — Details in der verlinkten Originalquelle
 
-[^7]: [ESPN: Jeremy Lin and the 2006 All-State Team](https://www.espn.com/blog/high-school/california/post/_/id/631/jeremy-lin-and-the-2006-all-state-team) – Bericht über die 32-1-Bilanz von Palo Alto High 2006 und die CIF-Staatsmeisterschaft Division II, im Schnitt 15,1 Punkte, 7,1 Assists, 6,2 Rebounds.
+[^7]: [ESPN: Jeremy Lin and the 2006 All-State Team](https://www.espn.com/blog/high-school/california/post/_/id/631/jeremy-lin-and-the-2006-all-state-team) — Details in der verlinkten Originalquelle
 
-[^8]: [ClutchPoints – All of undrafted sensation Jeremy Lin's NBA contracts](https://clutchpoints.com/nba/new-york-knicks/jeremy-lin-nba-contracts) – Zusammenstellung aller NBA-Verträge, inkl. Warriors 2010 nach dem Draft, Cut am 9.12.2011, Rockets 12.12., erneuter Cut 24.12.
+[^8]: [ClutchPoints – All of undrafted sensation Jeremy Lin's NBA contracts](https://clutchpoints.com/nba/new-york-knicks/jeremy-lin-nba-contracts) — Details in der verlinkten Originalquelle
 
-[^9]: [Sports Vision: Der erstaunlichste Wirbelwind der NBA – der Moment, in dem Jeremy Lin aufstrahlte](https://www.sportsv.net/articles/98923) – Daten der sieben Siege, im Schnitt 24,4 Punkte, 9,1 Assists, Wurfquote 51,2 %.
+[^9]: [Sports Vision: Der erstaunlichste Wirbelwind der NBA – der Moment, in dem Jeremy Lin aufstrahlte](https://www.sportsv.net/articles/98923) — Details in der verlinkten Originalquelle
 
-[^10]: [ETtoday: Jeremy Lins klassischer Buzzer-Beater gegen die Raptors – 10 Jahre danach](https://sports.ettoday.net/news/2189232) – Rückblick 2022 auf den klassischen Dreier 0,5 Sekunden vor Schluss am 14.02.2012 gegen die Raptors.
+[^10]: [ETtoday: Jeremy Lins klassischer Buzzer-Beater gegen die Raptors – 10 Jahre danach](https://sports.ettoday.net/news/2189232) — Details in der verlinkten Originalquelle
 
-[^11]: [Basketball-Reference – Jeremy Lin Stats](https://www.basketball-reference.com/players/l/linje01.html) – vollständige NBA-Karrieredatenbank, inkl. 480 Spiele, im Schnitt 11,6 Punkte, 4,3 Assists, 2,8 Rebounds.
+[^11]: [Basketball-Reference – Jeremy Lin Stats](https://www.basketball-reference.com/players/l/linje01.html) — Details in der verlinkten Originalquelle
 
-[^12]: [ETtoday Sports: „Das Gefühl, dass die NBA mich aufgegeben hat“ – Jeremy Lin bricht in Tränen aus, „das Leben ist schwer“](https://sports.ettoday.net/news/1500050) – Bericht über den emotionalen Zusammenbruch in der Sharing-Veranstaltung „Die Kunst des Wartens“ am 27.07.2019.
+[^12]: [ETtoday Sports: „Das Gefühl, dass die NBA mich aufgegeben hat“ – Jeremy Lin bricht in Tränen aus, „d…](https://sports.ettoday.net/news/1500050) — Details in der verlinkten Originalquelle
 
-[^13]: [ABC News – Basketball star Jeremy Lin says he was called 'coronavirus' on court](https://abcnews.go.com/US/basketball-star-jeremy-lin-called-coronavirus-court-denounces/story?id=76152456) – Bericht über den „coronavirus“-Ruf in einem G-League-Spiel 2021, der eine offizielle Untersuchung und Steve Kerrs öffentliche Unterstützung auslöste.
+[^13]: [ABC News – Basketball star Jeremy Lin says he was called 'coronavirus' on court](https://abcnews.go.com/US/basketball-star-jeremy-lin-called-coronavirus-court-denounces/story?id=76152456) — Details in der verlinkten Originalquelle
 
-[^14]: [CNA: Jeremy Lin unterschreibt bei den Beijing Ducks als Importspieler in der CBA](https://www.cna.com.tw/news/firstnews/201908275005.aspx) – Bericht vom 27.08.2019 über den Vertrag mit Beijing Ducks bei 3 Mio. US-Dollar nach Steuern, höchstbezahlter chinesischer Spieler der CBA-Geschichte.
+[^14]: [CNA: Jeremy Lin unterschreibt bei den Beijing Ducks als Importspieler in der CBA](https://www.cna.com.tw/news/firstnews/201908275005.aspx) — Details in der verlinkten Originalquelle
 
-[^15]: [Christian Forum: New Taipei Kings veranstalten Trikot-Erhaltzeremonie für Jeremy Lins Nummer 7](https://ct.org.tw/html/news/3-3.php?cat=10&article=1402911) – Bericht über die 6.800 Zuschauer in der Xinzhuang Arena am 28.12.2025 und Jay Chous Überraschungsauftritt.
+[^15]: [Christian Forum: New Taipei Kings veranstalten Trikot-Erhaltzeremonie für Jeremy Lins Nummer 7](https://ct.org.tw/html/news/3-3.php?cat=10&article=1402911) — Details in der verlinkten Originalquelle

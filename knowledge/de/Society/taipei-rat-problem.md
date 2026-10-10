@@ -21,6 +21,7 @@ readingTime: 11
 translatedFrom: 'Society/台北鼠患.md'
 sourceCommitSha: '44b9afeef'
 sourceContentHash: 'sha256:7bfcc784f6998122'
+sourceBodyHash: 'sha256:bcba667c74795d16'
 translatedAt: '2026-09-21T20:10:32.201734+00:00'
 ---
 

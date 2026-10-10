@@ -22,6 +22,7 @@ readingTime: 14
 translatedFrom: 'People/張雨生.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:18541b833b528104'
+sourceBodyHash: 'sha256:fa4f2d152a7b850d'
 translatedAt: '2026-08-13T07:00:00+08:00'
 ---
 
@@ -110,20 +111,20 @@ Neben ihr stand eine Diva, die er eigenhändig geschaffen hatte – während er 
 
 ## Referenzen
 
-[^1]: [Rückblick auf Chang Yu-shengs legendäres Leben: 25 Jahre – wir denken wirklich „jeden Tag an dich“ – The News Lens](https://www.thenewslens.com/article/177924) – langer Text zum 25. Todestag, mit den Verkaufszahlen von „Jeden Tag an dich denken“ (350.000) und der Penghu-Namensherkunft (ursprünglich „Peng-sheng“, nach tagelangem Regen „Yu-sheng“).
+[^1]: [Rückblick auf Chang Yu-shengs legendäres Leben: 25 Jahre – wir denken wirklich „jeden Tag an dich“ –…](https://www.thenewslens.com/article/177924) — Details in der verlinkten Originalquelle
 
-[^2]: [Chang-Yu-sheng-Spezial 4-1: Vom gewöhnlichen Jungen im Militärsiedlungsdorf Penghu zum landesweit gefeierten Idol – Fount Media](https://www.fountmedia.io/article/71587) – Teil 1 des Fount-Specials, mit der Pegasus-Kommandeur-Vaterschaft, der Atayal-Herkunft der Mutter, dem Tod der Schwester Chang Yu-hsien mit 15 nach dem Ertrinken und dem Wettbewerbssieg als Einstieg in die Musik.
+[^2]: [Chang-Yu-sheng-Spezial 4-1: Vom gewöhnlichen Jungen im Militärsiedlungsdorf Penghu zum landesweit ge…](https://www.fountmedia.io/article/71587) — Details in der verlinkten Originalquelle
 
-[^3]: [Chang Yu-sheng – Wikipedia](https://en.wikipedia.org/wiki/Chang_Yu-sheng) – englischer Wikipedia-Artikel mit der internationalen Nominierung des „Bring mich zum Mond“-Videos bei den American Music Video Awards 1992 und seiner Bewertung in Taiwan und international.
+[^3]: [Chang Yu-sheng – Wikipedia](https://en.wikipedia.org/wiki/Chang_Yu-sheng) — Details in der verlinkten Originalquelle
 
-[^4]: [Ich bin das Monster nach den Kompromissen – Chang Yu-sheng und der andere Chang Yu-sheng – BIOS monthly](https://www.biosmonthly.com/article/11239) – Tiefenporträt von BIOS monthly mit dem wörtlichen Zitat „Monster nach Kompromissen (lacht)“ und dem Produktionsbekenntnis zu „Karaoke Live · Taipeh · Ich“ – die Zitatprüfung stammt aus diesem Text.
+[^4]: [Ich bin das Monster nach den Kompromissen – Chang Yu-sheng und der andere Chang Yu-sheng – BIOS mont…](https://www.biosmonthly.com/article/11239) — Details in der verlinkten Originalquelle
 
-[^5]: [„Egal ob Publikum da ist – das Stück muss gut gespielt werden“ – der Chang Yu-sheng, den du nicht kanntest – Taiwan Panorama](https://www.taiwan-panorama.com/Articles/Details?Guid=18f6130d-c976-472b-a600-e29ba6c1f56c&CatId=8) – Interview mit Taiwan Panorama über den Godot-Theatre-Einstieg 1993 und „Küss mich Nana“ 1997 sowie seine Bemerkungen zur Herausforderung des Musicals und das Casals-Zitat.
+[^5]: [„Egal ob Publikum da ist – das Stück muss gut gespielt werden“ – der Chang Yu-sheng, den du nicht ka…](https://www.taiwan-panorama.com/Articles/Details?Guid=18f6130d-c976-472b-a600-e29ba6c1f56c&CatId=8) — Details in der verlinkten Originalquelle
 
-[^6]: [Das meistverkaufte Album der taiwanesischen Geschichte „Bad Boy“! Der Beginn von A-meis Rekord von 14 Golden-Melody-Nominierungen – Fount Media](https://www.fountmedia.io/article/106491) – die Entdeckungsgeschichte (fast einen Monat Publikum in der Bar), die Entscheidungen der Firma Forward Music und die Daten von „Bad Boy“ (1,38 Mio. Taiwan / über 6 Mio. Asien).
+[^6]: [Das meistverkaufte Album der taiwanesischen Geschichte „Bad Boy“! Der Beginn von A-meis Rekord von 1…](https://www.fountmedia.io/article/106491) — Details in der verlinkten Originalquelle
 
-[^7]: [Chang Yu-sheng „Lippenbekenntnisse und Herzlichkeit“ – offizieller Blog von Forward Music](https://forward-music.blog/%E5%BC%B5%E9%9B%A8%E7%94%9F_%E5%8F%A3%E6%98%AF%E5%BF%83%E9%9D%9E/) – offizielle Aufzeichnung der Plattenfirma, Veröffentlichung 16.10.1997, alleinige Komposition/Produktion/Gesang, Buchzitate, Golden-Melody-Bestenaufnahme und Platz 41 der 200 besten Alben.
+[^7]: [Chang Yu-sheng „Lippenbekenntnisse und Herzlichkeit“ – offizieller Blog von Forward Music](https://forward-music.blog/%E5%BC%B5%E9%9B%A8%E7%94%9F_%E5%8F%A3%E6%98%AF%E5%BF%83%E9%9D%9E/) — Details in der verlinkten Originalquelle
 
-[^8]: [27 Jahre nach Chang Yu-shengs Tod! Das Cabrio damals fast völlig zerstört – Fans gedenken „Bao Ge“ – Yahoo News](https://tw.news.yahoo.com/%E5%BC%B5%E9%9B%A8%E7%94%9F%E9%80%9D%E4%B8%9627%E5%B9%B4-%E6%98%94%E6%95%9E%E7%AF%B7%E8%BB%8A%E6%92%9E%E5%88%B0%E8%BF%91%E5%85%A8%E6%AF%80-%E7%B2%89%E7%B5%B2%E5%9C%A8%E5%BF%8C%E6%97%A5%E7%B7%AC%E6%87%B7-%E5%AF%B6%E5%93%A5-115929725.html) – vollständige Unfallchronik: Unfall am 20.10.1997 2:40 Uhr an der Provinzstraße 2, OHCA, Mackay-Krankenhaus Tamsui, 24 Tage Koma, Tod am 12.11.1997 23:48 Uhr durch Aspirationspneumonie.
+[^8]: [27 Jahre nach Chang Yu-shengs Tod! Das Cabrio damals fast völlig zerstört – Fans gedenken „Bao Ge“ –…](https://tw.news.yahoo.com/%E5%BC%B5%E9%9B%A8%E7%94%9F%E9%80%9D%E4%B8%9627%E5%B9%B4-%E6%98%94%E6%95%9E%E7%AF%B7%E8%BB%8A%E6%92%9E%E5%88%B0%E8%BF%91%E5%85%A8%E6%AF%80-%E7%B2%89%E7%B5%B2%E5%9C%A8%E5%BF%8C%E6%97%A5%E7%B7%AC%E6%87%B7-%E5%AF%B6%E5%93%A5-115929725.html) — Details in der verlinkten Originalquelle
 
-[^9]: [Golden Melody Sonderbeitragspreis – Gedenken an Chang Yu-sheng – Mirror Media](https://www.mirrormedia.mg/story/20170619ent009) – Bericht über den posthumen Sonderbeitragspreis bei den 28. Golden Melody Awards 2017, jüngster Empfänger; A-mei sang, Mutter schluchzte „Es fühlt sich an, als würde Yu-sheng singen“.
+[^9]: [Golden Melody Sonderbeitragspreis – Gedenken an Chang Yu-sheng – Mirror Media](https://www.mirrormedia.mg/story/20170619ent009) — Details in der verlinkten Originalquelle

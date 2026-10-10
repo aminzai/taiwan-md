@@ -34,6 +34,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%A4%92%E5%BF%A0%E4%BA%A
 translatedFrom: 'Geography/新竹縣.md'
 sourceCommitSha: '2187c1c9c'
 sourceContentHash: 'sha256:091b9844837415a1'
+sourceBodyHash: 'sha256:e2a36aeb8ae88cc6'
 translatedAt: '2026-09-25T01:12:35.038676+00:00'
 ---
 

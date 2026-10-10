@@ -22,6 +22,7 @@ curation: 'incubating'
 translatedFrom: 'People/黃國珍.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:7d5c2f0efe4d448c'
+sourceBodyHash: 'sha256:2b34fd0038a36214'
 translatedAt: '2026-08-13T00:00:00+00:00'
 ---
 

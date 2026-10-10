@@ -34,6 +34,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Yilan_Plain_and_Gueishan_I
 translatedFrom: 'Geography/宜蘭縣.md'
 sourceCommitSha: '7f3ddf123'
 sourceContentHash: 'sha256:58d83174a1d3bd65'
+sourceBodyHash: 'sha256:13a49441594ebd54'
 translatedAt: '2026-09-12T06:46:05.635103+00:00'
 ---
 

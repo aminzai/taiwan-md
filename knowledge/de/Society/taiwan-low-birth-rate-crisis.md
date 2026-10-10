@@ -27,6 +27,7 @@ rationale:
 translatedFrom: 'Society/台灣少子化危機.md'
 sourceCommitSha: 'd96dbc4bb'
 sourceContentHash: 'sha256:5f45c56f4459f40f'
+sourceBodyHash: 'sha256:be7b46d45d345648'
 translatedAt: '2026-09-22T04:41:41.932713+00:00'
 ---
 

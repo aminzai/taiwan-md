@@ -21,6 +21,7 @@ readingTime: 10
 translatedFrom: 'People/鄭南榕.md'
 sourceCommitSha: '18157ab5d'
 sourceContentHash: 'sha256:641b909a1e4f4089'
+sourceBodyHash: 'sha256:91b4c7638f35fd2f'
 translatedAt: '2026-08-13T08:00:00+08:00'
 ---
 
@@ -119,17 +120,17 @@ Was Cheng hinterließ, ist eine Frage, die weiter diskutiert werden kann: Warum 
 
 ## Referenzen
 
-[^1]: [Freie-Zeit-Wochenmagazin – Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%99%82%E4%BB%A3%E5%91%A8%E5%88%8A) – bestätigt Gründung 12.03.1984, 24 Lizenzen, 18 Verbotsfälle.
+[^1]: [Freie-Zeit-Wochenmagazin – Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%99%82%E4%BB%A3%E5%91%A8%E5%88%8A) — Details in der verlinkten Originalquelle
 
-[^2]: [Cheng-Nan-jung-Stiftung · Gedenkstätte](https://www.nfreedommemorialfoundation.org/) – Lebens-Chronik: öffentlicher Aufruf zum 228-Gedenken 1987, Anklage wegen Aufruhr am 21.01.1989.
+[^2]: [Cheng-Nan-jung-Stiftung · Gedenkstätte](https://www.nfreedommemorialfoundation.org/) — Details in der verlinkten Originalquelle
 
-[^3]: [Hsu Shih-kai – Wikipedia](https://zh.wikipedia.org/wiki/%E8%A8%B1%E4%B8%96%E6%A5%B7) – Hintergrund des Autors des „Verfassungsentwurfs der Republik Taiwan“; veröffentlicht in Ausgabe 254 des „Freien Zeitalters“ und die darauf folgende Anklage.
+[^3]: [Hsu Shih-kai – Wikipedia](https://zh.wikipedia.org/wiki/%E8%A8%B1%E4%B8%96%E6%A5%B7) — Details in der verlinkten Originalquelle
 
-[^4]: [Cheng Nan-jung – Wikipedia](https://zh.wikipedia.org/wiki/%E9%84%AD%E5%8D%97%E6%A6%95) – bestätigt die Stürmung am 07.04.1989 unter Führung von Hou Yu-ih (Zhongshan); Chan Yi-hua verbrennt sich sieben Tage später im Trauerzug.
+[^4]: [Cheng Nan-jung – Wikipedia](https://zh.wikipedia.org/wiki/%E9%84%AD%E5%8D%97%E6%A6%95) — Details in der verlinkten Originalquelle
 
-[^5]: [Yeh Chu-lan – Wikipedia](https://zh.wikipedia.org/wiki/%E8%91%89%E8%8F%8A%E8%98%AD) – bestätigt ihre Ämter: gesetzgebende Abgeordnete, Verkehrsministerin, Hakka-Ratsvorsitzende, stellvertretende Premierministerin, Generalsekretärin des Präsidialbüros (2006-2007).
+[^5]: [Yeh Chu-lan – Wikipedia](https://zh.wikipedia.org/wiki/%E8%91%89%E8%8F%8A%E8%98%AD) — Details in der verlinkten Originalquelle
 
-[^6]: [Tag der Meinungsfreiheit – Exekutiv-Yuan](https://www.ey.gov.tw/) – Bekanntmachung des Beschlusses vom 22.12.2016, den 7. April als Tag der Meinungsfreiheit festzulegen.
+[^6]: [Tag der Meinungsfreiheit – Exekutiv-Yuan](https://www.ey.gov.tw/) — Details in der verlinkten Originalquelle
 
 **Weiterführende Lektüre**
 

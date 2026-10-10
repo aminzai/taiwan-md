@@ -4,7 +4,15 @@ description: 'Ein Maler, der 36 Jahre lang einen Tempel baute und die akademisch
 date: 2026-03-23
 category: 'People'
 subcategory: '藝術與創作'
-tags: ['Kunst', 'Bildende Kunst', 'Sanxia', 'Zushi-Tempel', 'Realismus', 'Taiwan-Fine-Arts-Ausstellung']
+tags:
+  [
+    'Kunst',
+    'Bildende Kunst',
+    'Sanxia',
+    'Zushi-Tempel',
+    'Realismus',
+    'Taiwan-Fine-Arts-Ausstellung',
+  ]
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23
@@ -13,6 +21,7 @@ curation: incubating
 translatedFrom: 'People/李梅樹.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:f79e6e0a908d6b4e'
+sourceBodyHash: 'sha256:56cd3707ce723649'
 translatedAt: '2026-08-19T03:38:33+08:00'
 ---
 

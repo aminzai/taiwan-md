@@ -17,6 +17,7 @@ readingTime: 7
 translatedFrom: 'People/張艾嘉.md'
 sourceCommitSha: '97e35f050'
 sourceContentHash: 'sha256:cae38e5da76e99fb'
+sourceBodyHash: 'sha256:0b1d40b7bf6373a3'
 translatedAt: '2026-08-18T02:04:20+08:00'
 ---
 
@@ -88,12 +89,12 @@ Von der Gonghe Road in Chiayi über Taipeh und Hongkong und die Pendelbewegung z
 
 ## Referenzen
 
-[^1]: [UDN News: Bericht über Sylvia Changs Geburtsort in Chiayi](https://stars.udn.com/star/story/10090/9108331) – bestätigt, dass Sylvia Chang 1953 in der Gonghe Road 191 Lane in Chiayi (heute Hinoki Village) geboren wurde und mit 17 über „Tagträumer“ ins Showgeschäft kam.
+[^1]: [UDN News: Bericht über Sylvia Changs Geburtsort in Chiayi](https://stars.udn.com/star/story/10090/9108331) — Details in der verlinkten Originalquelle
 
-[^2]: [Wikipedia: Sylvia Chang](https://zh.wikipedia.org/wiki/張艾嘉) – bestätigt, dass „Kindheit“ von Sylvia Chang gesungen wird (Komposition Lo Ta-yu 1981), „Der Preis der Liebe“ (Komposition Jonathan Lee 1992) ein repräsentatives Werk ist, und klärt, dass „Großmutters Bucht von Penghu“ im Original von Pan An-bang gesungen wird (kein Bezug zu Sylvia Chang).
+[^2]: [Wikipedia: Sylvia Chang](https://zh.wikipedia.org/wiki/張艾嘉) — Details in der verlinkten Originalquelle
 
-[^3]: [Golden-Horse-Datenbank: Auszeichnungen von Sylvia Chang](https://www.goldenhorse.org.tw/awards/nw/?serach_type=award&search_item=person&search_text=%E5%BC%B5%E8%89%BE%E5%98%89) – enthält den Golden-Horse-Preis als beste Hauptdarstellerin für „Mein bestes Jahr“ (1986) sowie die Nominierungen von „Love Education“ (2017) als beste Regie und bestes Originaldrehbuch.
+[^3]: [Golden-Horse-Datenbank: Auszeichnungen von Sylvia Chang](https://www.goldenhorse.org.tw/awards/nw/?serach_type=award&search_item=person&search_text=%E5%BC%B5%E8%89%BE%E5%98%89) — Details in der verlinkten Originalquelle
 
-[^4]: [Taiwan Cinema: Sylvia Chang](https://www.taiwancinema.com/director/content/id-209) – vollständige Dokumentation von Sylvia Changs Regiekarriere, einschließlich der Angaben zu „Siao Yu“ (1995), „20 30 40“ (2004) und „Love Education“ (2017).
+[^4]: [Taiwan Cinema: Sylvia Chang](https://www.taiwancinema.com/director/content/id-209) — Details in der verlinkten Originalquelle
 
-[^5]: [Love Education – atmovies](http://www.atmovies.com.tw/movie/floa44742698/) – Handlungsübersicht von „Love Education“, Details zu acht Golden-Horse-Nominierungen und Besetzung.
+[^5]: [Love Education – atmovies](http://www.atmovies.com.tw/movie/floa44742698/) — Details in der verlinkten Originalquelle

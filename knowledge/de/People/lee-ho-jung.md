@@ -3,7 +3,16 @@ title: 'Lee Ho-jung'
 description: 'Mit hoher Einsatzquote und hoher Wiedererkennbarkeit kehrte sie zu Fubon zurück – sie repräsentiert, wie koreanische Cheerleaderinnen in Taiwan vom „Gastauftritt“ zum „festen Bestandteil“ wurden.'
 date: 2026-05-13
 category: 'People'
-tags: ['Popkultur-Persönlichkeit', 'Lee Ho-jung', 'Korea', 'Cheerleading', 'Fubon Guardians', 'Fubon Angels', 'CPBL']
+tags:
+  [
+    'Popkultur-Persönlichkeit',
+    'Lee Ho-jung',
+    'Korea',
+    'Cheerleading',
+    'Fubon Guardians',
+    'Fubon Angels',
+    'CPBL',
+  ]
 subcategory: '流行人物'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -14,6 +23,7 @@ curation: incubating
 translatedFrom: 'People/李晧禎.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:fd0f13bbdf27eb58'
+sourceBodyHash: 'sha256:fa5aded8dae3b311'
 translatedAt: '2026-08-13T02:47:00+08:00'
 ---
 

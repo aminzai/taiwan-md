@@ -12,6 +12,7 @@ lastHumanReview: true
 translatedFrom: 'People/吳大猷.md'
 sourceCommitSha: '85926aa3b'
 sourceContentHash: 'sha256:2e290891c1c4a80e'
+sourceBodyHash: 'sha256:54cafe2c5032e30e'
 translatedAt: '2026-08-19T03:24:18+08:00'
 ---
 

@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'People/周杰倫.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:41da4ed1ac688006'
+sourceBodyHash: 'sha256:15c277d38e9e5f3f'
 translatedAt: '2026-08-13T04:05:00+08:00'
 ---
 

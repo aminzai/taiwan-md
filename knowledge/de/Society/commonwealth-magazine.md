@@ -36,6 +36,7 @@ relatedDiary: ['2026-06-04-151548-天下雜誌']
 translatedFrom: 'Society/天下雜誌.md'
 sourceCommitSha: 'd317f1649'
 sourceContentHash: 'sha256:d8c6b002cc3ec35d'
+sourceBodyHash: 'sha256:a2fb34529fea33ac'
 translatedAt: '2026-09-24T16:03:22.988617+00:00'
 ---
 

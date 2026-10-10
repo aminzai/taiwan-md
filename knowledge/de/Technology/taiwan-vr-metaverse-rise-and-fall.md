@@ -22,6 +22,7 @@ readingTime: 10
 translatedFrom: 'Technology/台灣VR元宇宙興衰史.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:dcdc411ac65fa741'
+sourceBodyHash: 'sha256:e56340a36684b82b'
 translatedAt: '2026-09-25T08:38:16.632760+00:00'
 ---
 

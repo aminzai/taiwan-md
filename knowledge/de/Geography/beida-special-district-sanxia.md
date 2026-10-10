@@ -28,6 +28,7 @@ readingTime: 18
 translatedFrom: 'Geography/北大特區.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:df7c1aaff4786133'
+sourceBodyHash: 'sha256:5edd055f43181f0e'
 translatedAt: '2026-09-15T18:13:55.365379+00:00'
 ---
 

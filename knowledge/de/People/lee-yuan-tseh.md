@@ -3,7 +3,16 @@ title: 'Li Yuan-che: Taiwans erster Nobelpreisträger der Naturwissenschaften'
 description: '1986 Nobelpreis für Chemie – mit der Kreuzmolekularstrahl-Technik eröffnete er ein neues Feld der chemischen Kinetik; der erste taiwanesische Naturwissenschaftler, der einen Nobelpreis erhielt'
 date: 2026-03-21
 category: 'People'
-tags: ['Personen', 'Li Yuan-che', 'Nobelpreis', 'Chemie', 'Wissenschaftler', 'Academia Sinica', 'Taiwan']
+tags:
+  [
+    'Personen',
+    'Li Yuan-che',
+    'Nobelpreis',
+    'Chemie',
+    'Wissenschaftler',
+    'Academia Sinica',
+    'Taiwan',
+  ]
 subcategory: '科學與學術'
 author: 'Taiwan.md'
 featured: false
@@ -13,6 +22,7 @@ curation: incubating
 translatedFrom: 'People/李遠哲.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:3e007d54e4125356'
+sourceBodyHash: 'sha256:d9744718376b888a'
 translatedAt: '2026-08-18T01:38:27+08:00'
 ---
 

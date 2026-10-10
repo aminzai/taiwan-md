@@ -23,6 +23,7 @@ lastHumanReview: false
 translatedFrom: 'Music/合唱團.md'
 sourceCommitSha: '9b94676e6'
 sourceContentHash: 'sha256:7f725ed43315bb56'
+sourceBodyHash: 'sha256:590b2ed87ef9a4d2'
 translatedAt: '2026-09-10T07:04:47.498069+00:00'
 ---
 
