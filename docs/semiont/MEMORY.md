@@ -317,3 +317,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-11 | 010113-twmd-babel-nightly | 修復後續跑：產線在落後 104 commit 的舊樹空轉 80 分鐘、譯文推不出去；停線分流，23 篇名單內落地、7 篇 laguna／8B 退回；起跑合併改成會清孤兒；補 slug、preflight 認名單 | 存活生產全綠仍可能落不了地；推上 main 不等於常駐進程已上線 | [→](memory/2026-10-11-010113-twmd-babel-nightly.md) |
 | 2026-10-11 | 011220-twmd-news-lens-weekly | 補停擺一週的探測：傅兆玄 P1 入列；CF per-path 接上後九合一首次三源確認；ar 撞字兩週沒進佇列、點擊翻倍，補成 OBSERVER-QUEUE #98 | 報告處置欄寫「給誰判斷」不是交接 | [→](memory/2026-10-11-011220-twmd-news-lens-weekly.md) |
 | 2026-10-11 | 020419-twmd-weekly-report-sun | W41 體檢：半黑的一週，542 commit 裡 babel＋heal 佔 73%、新文章 0 篇；98 天免疫黃燈的執行者沒被登記到排程器；桶 1 兩項、週報 bcc=20 | 三份檔案都說它存在，沒有排程器知道它；飛輪停下三天半沒儀器會叫 | [→](memory/2026-10-11-020419-twmd-weekly-report-sun.md) |
+| 2026-10-11 | 031439-twmd-distill-weekly | 兩週來第一次消化：108→93，首頁腳註六種形狀升 REFLEXES #102，十二條併進既有反射，兩條進神經迴路；SPORE-INBOX 45 只記讀數；索引歸檔 50 列 | 同型問題三班各撞互不知情；便宜修法沒收件人就一直躺著 | [→](memory/2026-10-11-031439-twmd-distill-weekly.md) |
