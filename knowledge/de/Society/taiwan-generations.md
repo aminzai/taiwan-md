@@ -181,11 +181,11 @@ Weniger Menschen, der Kuchen nicht grösser, aber die Stockwerke höher. In solc
 
 **Weiterführende Lektüre**:
 
-- [Taiwans Slash-Generation](/society/台灣斜槓世代) – Wie Siebt- und Achtklässler in der Niedriglohnstruktur ein Gehalt in drei Jobs aufteilen
+- [Taiwans Slash-Generation](/de/society/taiwan-slash-generation-multi-job-economy) – Wie Siebt- und Achtklässler in der Niedriglohnstruktur ein Gehalt in drei Jobs aufteilen
 - [Taiwans Jugend: Karriere-Irrfahrt](/de/society/taiwan-youth-career-confusion) – Sechzehn Jahre Ausbildung, am Abschlusstag die häufigste Frage: «Ich weiss nicht, was ich tun soll»
-- [Taiwans Geburtenkrise](/society/台灣少子化危機) – Geburtenzahlen von 420 000 auf 160 000 eingebrochen, wie der Kuchen Jahr für Jahr schrumpft
-- [Taiwans Vereinigungs-Unabhängigkeits-Spektrum](/society/台灣統獨光譜) – Das volle Bild der Identitätswasserscheide, von «Wer bin ich» bis «Wohin gehen wir»
-- [Wretch.cc](/culture/無名小站) – Der digitale Jugendserver der Siebtklässler, 2013 abgeschaltet, 2025 auf Threads wieder aufgetaucht
+- [Taiwans Geburtenkrise](/de/society/taiwan-low-birth-rate-crisis) – Geburtenzahlen von 420 000 auf 160 000 eingebrochen, wie der Kuchen Jahr für Jahr schrumpft
+- [Taiwans Vereinigungs-Unabhängigkeits-Spektrum](/de/society/taiwan-unification-independence-spectrum) – Das volle Bild der Identitätswasserscheide, von «Wer bin ich» bis «Wohin gehen wir»
+- [Wretch.cc](/de/culture/wretch) – Der digitale Jugendserver der Siebtklässler, 2013 abgeschaltet, 2025 auf Threads wieder aufgetaucht
 
 ## Bildquellen
 

@@ -3,7 +3,7 @@ title: "Jerry Yang: Do único símbolo em inglês 'Shoe' até a era da web porta
 description: "Em 1978, o menino de 10 anos Yang Chih-yuan só sabia dizer 'Shoe' (sapato) quando imigrou para os EUA. Em 1994, enquanto fugia da redação de sua tese de doutorado na Universidade de Stanford, ele e seu parceiro classificaram manualmente páginas web em um carro, acidentalmente criando o Yahoo!, cujo valor de mercado chegou a ultrapassar US$ 100 bilhões, e em 2005, com um 'jogo de azar extrema' investiu na Alibaba, reescrevendo o mapa da web global."
 date: 2026-04-29
 category: 'People'
-subcategory: 'Tecnologia e Empresas'
+subcategory: '科技與企業'
 tags:
   - 'Yang Chih-yuan'
   - 'Yahoo'
@@ -88,7 +88,7 @@ Lá fora, Yang Chih-yuan não parou. Transformou-se em investidor, fundando o AM
 
 [^12]: [Finding Alibaba: How Jerry Yang Made The Most Lucrative Bet In Tech History](https://www.forbes.com/sites/parmyolson/2014/09/30/how-jerry-yang-made-the-most-lucrative-bet-in-tech-history/) — Verifique os dados complementares no link original
 
-[^13]: [Jerry Yang - Wikipedia](https://zh.wikipedia.org/zh-hant/%E6%A5%8A%E8%87%B4%E9%81%A6) — Entrada na Wikipédia
+[^13]: [Jerry Yang - Wikipedia](https://zh.wikipedia.org/zh-hant/%E6%A5%8A%E8%87%B4%E9%81%A0) — Entrada na Wikipédia
 
 [^14]: [Jerry Yang - Forbes Profile](https://www.forbes.com/profile/jerry-yang/) — Verifique os dados complementares no link original
 

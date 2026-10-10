@@ -201,11 +201,11 @@ O que está escrito naquele papel não importa. O que importa é que, finalmente
 
 **Leitura complementar**:
 
-- [Museu Nacional dos Direitos Humanos](/history/國家人權博物館) — Institucionalização da memória das vítimas e da responsabilização dos algozes, inaugurado em 2018, orçamento congelado em 2025
-- [Período da Lei Marcial](/history/戒嚴時期) — O recipiente legal de 38 anos a partir de 1949, prolongamento da repressão de 1947
-- [Terror Branco de Taiwan](/history/台灣白色恐怖) — Casos políticos durante os 38 anos de lei marcial
-- [Justiça de Transição de Taiwan](/history/台灣轉型正義) — O puxa-e-empurra entre revogação de condenações e responsabilização dos algozes
-- [Feriados Nacionais](/society/國定假日) — Como o 228 se tornou em 1997 o primeiro feriado nacional obrigatório da República da China
+- [Museu Nacional dos Direitos Humanos](/pt/history/national-human-rights-museum) — Institucionalização da memória das vítimas e da responsabilização dos algozes, inaugurado em 2018, orçamento congelado em 2025
+- [Período da Lei Marcial](/pt/history/martial-law-era) — O recipiente legal de 38 anos a partir de 1949, prolongamento da repressão de 1947
+- [Terror Branco de Taiwan](/pt/history/taiwan-white-terror) — Casos políticos durante os 38 anos de lei marcial
+- [Justiça de Transição de Taiwan](/pt/history/taiwan-transitional-justice) — O puxa-e-empurra entre revogação de condenações e responsabilização dos algozes
+- [Feriados Nacionais](/pt/society/national-holidays) — Como o 228 se tornou em 1997 o primeiro feriado nacional obrigatório da República da China
 
 ## Referências
 

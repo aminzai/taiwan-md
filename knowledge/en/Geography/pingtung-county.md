@@ -209,9 +209,9 @@ Next time you go to Pingtung, you can stop by Wanjin, take a trip to the Shimen 
 - [The Taiwan Island History Perspective](/en/history/taiwan-island-historiography) — Cao Yonghe's island-history framework; the layered history of the Pingtung peninsula is one of its most concrete unfoldings
 - [Penghu County](/en/geography/penghu-county) — 22 Counties and Cities Series: an offshore island sovereignty choice that twice rejected casinos, sharing with Pingtung a "forgotten southernmost/westernmost" geographic identity
 - [Keelung City](/en/geography/keelung-city) — Another port county in the 22 Counties and Cities Series that the capital fails to see, and like Pingtung, a key node omitted by central narratives
-- [Lienchiang County](/geography/連江縣) — 22 Counties and Cities Series: the distance between battlefield heritage and mainstream narratives, readable alongside the layered memories of Pingtung's Mudan Incident and Kuskus Shrine
+- [Lienchiang County](/en/geography/lienchiang-county) — 22 Counties and Cities Series: the distance between battlefield heritage and mainstream narratives, readable alongside the layered memories of Pingtung's Mudan Incident and Kuskus Shrine
 - [Wei Te-sheng](/en/people/wei-te-sheng-taiwanese-epic-filmmaker) — Cape No. 7, filmed in Hengchun, earned NT$530 million at the box office and wrote the southern Taiwan peninsula into national cinematic memory
-- [Taiwan's Disaster Volunteer Culture](/society/台灣災難志工文化) — How the dual mountain and coastal disasters of Typhoon Morakot reshaped Taiwan's rescue networks
+- [Taiwan's Disaster Volunteer Culture](/en/society/taiwan-disaster-volunteer-culture) — How the dual mountain and coastal disasters of Typhoon Morakot reshaped Taiwan's rescue networks
 - [Typhoons](/en/nature/typhoons-in-taiwan) — Morakot's one-day rainfall record of 1,897 millimeters marked a turning point in Taiwan's relationship with typhoons
 
 ## Image Sources

@@ -20,7 +20,7 @@ tags:
     'phong tục dân gian',
     'văn hóa Đài Loan',
   ]
-subcategory: 'Lễ hội và Nghi lễ'
+subcategory: '節慶與禮俗'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-19
@@ -169,10 +169,10 @@ Chiếc trứng kia trên bài thi được yêu cầu bác bỏ, và chiếc tr
 
 **Đọc thêm**:
 
-- [Ngày lễ Quốc gia](/society/ngày-lễ-quốc-gia) — Tết Đoan Ngọ như thế nào từ một lệnh hành chính nâng lên ngày lễ pháp định, người Đài Loan dùng "không cần làm việc" viết lên một lịch sử khác
-- [Lễ hội truyền thống và lễ kỷ niệm](/culture/lễ-hội-truyền-thống-và-lễ-kỷ-niệm) — Từ dịch bệnh tới pháo hoa, văn hoá lễ hội Đài Loan như thế nào một con đường tiến hoá bất ngờ
-- [Ăn vặt Đài Loan](/food/ăn-vặt-đài-loan) — Bánh tẻ nam-bắc chỉ là chương mở, mức độ người Đài Loan bằng lòng với thực phẩm còn có chiến trường hơn
-- [Trịnh Thành Công](/people/trịnh-thành-công) — Nhân vật chính của truyền thuyết giếng Gươm, một nhân vật lịch sử để lại dấu chân (và truyền thuyết) khắp nơi ở Đài Loan
+- [Ngày lễ Quốc gia](/vi/society/national-holidays) — Tết Đoan Ngọ như thế nào từ một lệnh hành chính nâng lên ngày lễ pháp định, người Đài Loan dùng "không cần làm việc" viết lên một lịch sử khác
+- [Lễ hội truyền thống và lễ kỷ niệm](/vi/culture/traditional-festivals-and-celebrations) — Từ dịch bệnh tới pháo hoa, văn hoá lễ hội Đài Loan như thế nào một con đường tiến hoá bất ngờ
+- [Ăn vặt Đài Loan](/vi/food/taiwanese-street-food) — Bánh tẻ nam-bắc chỉ là chương mở, mức độ người Đài Loan bằng lòng với thực phẩm còn có chiến trường hơn
+- [Trịnh Thành Công](/vi/people/koxinga) — Nhân vật chính của truyền thuyết giếng Gươm, một nhân vật lịch sử để lại dấu chân (và truyền thuyết) khắp nơi ở Đài Loan
 
 ## Nguồn gốc hình ảnh
 

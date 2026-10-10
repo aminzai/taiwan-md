@@ -86,7 +86,7 @@ Jalan film ini tidak ada pintas. Dari teknik elektro Institut Teknologi Far East
 
 Lahir 1969 di Yongkang Tainan, 2000 keluarin 500 ribu buat 5 menit cari dana gak ketemu, 2008 box office 530 juta, 2011 Kompetisi Utama Venesia; garis ini, adalah akumulasi ketahanan, bukan soal keajaiban.
 
-**Baca Lanjutan**: [Mona Rudao: Pahlawan Anti-Jepang Terukir di Uang 20 Yuan](/people/莫那·魯道) (protagonis asli "Seediq Bale", dan bagaimana film menulis ulang memori) ｜ [Wei Te-sheng — Wikipedia](https://zh.wikipedia.org/zh-tw/魏德聖) ｜ [Database Film Taiwan: Wei Te-sheng](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12549) ｜ [Resmi Penghargaan Kuda Emas](https://www.goldenhorse.org.tw/)
+**Baca Lanjutan**: [Mona Rudao: Pahlawan Anti-Jepang Terukir di Uang 20 Yuan](/id/people/mona-rudao) (protagonis asli "Seediq Bale", dan bagaimana film menulis ulang memori) ｜ [Wei Te-sheng — Wikipedia](https://zh.wikipedia.org/zh-tw/魏德聖) ｜ [Database Film Taiwan: Wei Te-sheng](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12549) ｜ [Resmi Penghargaan Kuda Emas](https://www.goldenhorse.org.tw/)
 
 ## Referensi
 

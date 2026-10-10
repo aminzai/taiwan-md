@@ -21,7 +21,7 @@ lastVerified: 2026-03-22
 lastHumanReview: false
 featured: false
 translatedFrom: 'Lifestyle/溫泉文化.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:5c053dd9110acc9b'
 sourceBodyHash: 'sha256:62212c95c5c34acf'
 translatedAt: '2026-07-25T19:27:04+08:00'

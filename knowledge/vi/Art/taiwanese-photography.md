@@ -11,7 +11,7 @@ tags:
     'Nguyễn Nghĩa Trung',
     'phóng sự',
   ]
-subcategory: 'Thị giác'
+subcategory: '視覺藝術'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-21

@@ -266,7 +266,7 @@ La próxima vez que alguien te pregunte “a dónde pertenece Taiwán realmente�
 
 [^12]: [植物 DNA 竟記載著歷史！構樹說的南島語族遷徙史](https://research.sinica.edu.tw/paper-mulberry-dna-austronesian-history-chung-kuo-fang/) — Entrevista de Research for You, de la Academia Sínica, que presenta la investigación del equipo de Chung Kuo-fang sobre el ADN de la morera de papel como apoyo biogeográfico a la teoría de la “salida desde Taiwán”.
 
-[^13]: [Nusantara (term) - Wikipedia](<https://en.wikipedia.org/wiki/Nusantara_(term)>) — Investigación etimológica completa del término Nusantara: javanés antiguo _nusa_ (“isla”) + préstamo sánscrito _antara_ (“entre”).
+[^13]: [Nusantara (term) - Wikipedia](https://en.wikipedia.org/wiki/Nusantara_(term) — Investigación etimológica completa del término Nusantara: javanés antiguo _nusa_ (“isla”) + préstamo sánscrito _antara_ (“entre”).
 
 [^14]: [Majapahit - Wikipedia](https://en.wikipedia.org/wiki/Majapahit) — Entrada sobre el Imperio Majapahit de Java oriental en el siglo XIV, con el contexto histórico del “juramento Palapa” de Gajah Mada en 1336.
 

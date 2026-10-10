@@ -2,7 +2,7 @@
 title: '台湾沖合風力発電：台湾海峡の風雨の試練から、世界グリーン電力サプライチェーンの生存をかけた戦いへ'
 description: '2025年末、台湾の沖合風力発電の設置容量が4.4GWを突破。地質的課題、国産化政策の調整、区画開発の事業者選定を巡る論争、世界的大手テック企業のグリーン電力への渇望に直面し、この海上グリーン電力実験はどのように島嶼のエネルギー命脈を再構築するのか？'
 category: 'Economy'
-subcategory: 'エネルギーと持続可能性'
+subcategory: '能源與永續'
 tags:
   [
     '沖合風力発電',
@@ -22,6 +22,7 @@ curation: 'incubating'
 translatedFrom: 'Economy/台灣離岸風電.md'
 sourceCommitSha: '566429f3b'
 sourceContentHash: 'sha256:700b0aadc287b607'
+sourceBodyHash: 'sha256:6479c4ef0aacb1a4'
 translatedAt: '2026-09-13T10:17:17.534875+00:00'
 ---
 

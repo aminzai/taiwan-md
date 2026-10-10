@@ -189,7 +189,7 @@ Der Weg zum Meeresschutz Taiwans ist weiterhin voller Herausforderungen, aber au
 
 **Weiterführende Lektüre**:
 
-- [Klimakrise und Netto-Null-Transformation in Taiwan](/nature/台灣氣候危機與淨零轉型) — Wie der Klimawandel und der Temperaturanstieg das Korallenbleichen verschärfen und die Dekarbonisierungsreaktion Taiwans
+- [Klimakrise und Netto-Null-Transformation in Taiwan](/de/nature/taiwan-climate-change-net-zero-transition) — Wie der Klimawandel und der Temperaturanstieg das Korallenbleichen verschärfen und die Dekarbonisierungsreaktion Taiwans
 
 ## Referenzen
 

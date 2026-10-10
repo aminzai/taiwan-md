@@ -167,7 +167,7 @@ Naqueles trinta segundos, Chang Ching-chung provavelmente não imaginava que est
 - [Festival Vida Complexa](/pt/society/complex-life-festival) — A quarta saída do «sair e semear» do 318: sem eleições, sem código, sem recrutamento, reunir anualmente duzentas a trezentas pessoas num «fórum dos não-bem-sucedidos» para os oitavos anos de baixos salários e perplexidade
 - [Taiwan e Essuatíni](/pt/society/taiwan-eswatini-relations) — Dez anos após a Revolução dos Girassóis, a visita de Lai Ching-te a Essuatíni consolida o discurso externo do «Estado soberano» nestas quatro palavras em cenário concreto
 - [O País Invisível](/pt/art/invisible-nation) — O documentário de Kuei Chen-wen (葛靜文) coloca a Revolução dos Girassóis num quadro-chave da arco democrático de quatrocentos anos de Taiwan
-- [Nieh Yung-chen](/people/聶永真) — O designer que assinou o anúncio de primeira página do _New York Times_ «Democracy at 4am» às quatro da manhã de 2014, registo do design de como o movimento entrou no radar internacional
+- [Nieh Yung-chen](/pt/people/nieh-yung-jen) — O designer que assinou o anúncio de primeira página do _New York Times_ «Democracy at 4am» às quatro da manhã de 2014, registo do design de como o movimento entrou no radar internacional
 
 ## Referências
 

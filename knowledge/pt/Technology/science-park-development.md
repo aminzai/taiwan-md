@@ -152,7 +152,7 @@ Quarenta e cinco anos atrás, o arrozal apostava a sobrevivência; ganha a apost
 **Leitura complementar**:
 
 - [Indústria de semicondutores](/pt/technology/taiwan-semiconductor-industry) — Da transferência de tecnologia da RCA ao nitreto de gálio e _packaging_ quântico, cinquenta anos de revolução de materiais; como os chips do parque chegaram à vanguarda global
-- [Top 50 empresas de Taiwan](/economy/台灣前50大企業) — A montanha sagrada sustenta uma tabela, mas também sustenta um ponto único de falha nacional; o outro lado da concentração do valor de produção dos parques científicos
+- [Top 50 empresas de Taiwan](/pt/economy/top-50-companies-taiwan) — A montanha sagrada sustenta uma tabela, mas também sustenta um ponto único de falha nacional; o outro lado da concentração do valor de produção dos parques científicos
 - [The Mountain Makers: The Century's Gamble](/pt/art/mountain-makers-tsmc-documentary) — Documentário de Hsiao Ju-chen, 2025, cinco anos, mais de oitenta veteranos de semicondutores, a aposta do século transformada em imagem
 
 ---

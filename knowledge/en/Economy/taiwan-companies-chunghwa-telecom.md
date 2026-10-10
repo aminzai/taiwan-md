@@ -166,7 +166,7 @@ The story of Chunghwa Telecom is a microcosm of the thirty-year evolution of Tai
 
 **Further Reading**:
 
-- [Taiwan Customs Declaration and EZ WAY](/lifestyle/台灣海關報關制度與EZWAY) — Another case of public governance where the government holds less than a majority stake and actual operations are left to the private sector: Customs Network, with the Ministry of Finance holding 36.11%.
+- [Taiwan Customs Declaration and EZ WAY](/en/lifestyle/ezway) — Another case of public governance where the government holds less than a majority stake and actual operations are left to the private sector: Customs Network, with the Ministry of Finance holding 36.11%.
 
 ## References
 

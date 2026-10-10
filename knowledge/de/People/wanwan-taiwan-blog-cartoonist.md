@@ -230,7 +230,7 @@ Die kahle Figur wird sich nicht erinnern, wem sie Überstunden gemacht hat oder 
 **Weiterführende Lektüre**:
 
 - [Unnamed BBS: Die taiwanesische Community vor Facebook](/de/culture/wretch)
-- [Geschichte der Migration der taiwanesischen Netzgemeinschaften](/technology/台灣網路社群遷徙史)
+- [Geschichte der Migration der taiwanesischen Netzgemeinschaften](/de/technology/taiwan-online-community-migration)
 - [Taiwanesische Memes](/de/culture/taiwan-meme-culture)
 - [Dcard](/de/culture/dcard-taiwan-social-platform)
 - [Jerry Yan (Yang Chen-ling)](/de/people/rainie-yang)

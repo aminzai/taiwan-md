@@ -12,7 +12,7 @@ tags:
     'Kesehatan Masyarakat',
     'Penanganan Pandemi',
   ]
-subcategory: 'Politik dan Demokrasi'
+subcategory: '政治與民主'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07
@@ -21,6 +21,7 @@ readingTime: 7
 translatedFrom: 'People/陳建仁.md'
 sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:436d6f6b6586a312'
+sourceBodyHash: 'sha256:cd353841feafe555'
 translatedAt: '2026-08-03T21:07:30.871070+00:00'
 ---
 

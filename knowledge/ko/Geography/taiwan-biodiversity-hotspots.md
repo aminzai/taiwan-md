@@ -3,7 +3,7 @@ title: '대만의 생태 다양성 핫스팟'
 description: '3.6만 제곱킬로미터의 섬에 5.9만 종이 넘는 생물이 밀집해 있으며, 밀도는 세계 평균의 100배에 달한다'
 date: 2026-03-21
 tags: ['생태', '생물다양성', '고유종', '보전', '국립공원']
-subcategory: '생태 지리'
+subcategory: '生態地理'
 category: 'Geography'
 author: 'Taiwan.md Contributors'
 readingTime: 8

@@ -5,7 +5,7 @@ date: 2026-06-25
 category: 'Geography'
 tags:
   ['Kinmen', 'Wuqiu', 'limbah nuklir', 'mercusuar', 'administrasi medan perang']
-subcategory: 'Pulau dan Laut'
+subcategory: '島嶼與海洋'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-25
@@ -14,6 +14,7 @@ curation: 'incubating'
 translatedFrom: 'Geography/烏坵.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:e8d02653950c456c'
+sourceBodyHash: 'sha256:79946e3edca12d9c'
 translatedAt: '2026-08-04T15:26:01.533331+00:00'
 ---
 

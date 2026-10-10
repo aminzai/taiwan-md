@@ -148,9 +148,9 @@ Phong trào nhạc dân gian Đài Loan trả lời cho chúng ta: Đừng sợ 
 ## Tài liệu tham khảo
 
 - [Phát triển nhạc pop Đài Loan](/music/台灣流行音樂發展) — Dòng trục chính từ La Đại (Luo Da) đến Trần Thư Tinh (Chen Qichen), Trần Hoa (Zhang Xuan) sau khi nhạc dân gian kết thúc
-- [Văn học Đài Loan sau giải phóng kiểm duyệt](/art/解嚴後台灣文學) — Một phong trào nhận thức văn hóa khác vào năm 1987, có cùng nguồn gốc với tinh thần "hát câu ca của chính mình" của nhạc dân gian
-- [Điện ảnh Đài Loan](/art/台灣電影) — Một trục khác của sự tỉnh thức văn hóa cộng đồng địa phương của Đài Loan vào những năm 1970-80
-- [Tam Mỹ (Sanmao)](/people/三毛) — Người viết lời gốc của "[Cây ô liu]"，lời ca sau khi được sửa đổi lan truyền khắp không gian quan hệ tốc độ
+- [Văn học Đài Loan sau giải phóng kiểm duyệt](/vi/art/post-martial-law-taiwanese-literature) — Một phong trào nhận thức văn hóa khác vào năm 1987, có cùng nguồn gốc với tinh thần "hát câu ca của chính mình" của nhạc dân gian
+- [Điện ảnh Đài Loan](/vi/art/taiwanese-cinema) — Một trục khác của sự tỉnh thức văn hóa cộng đồng địa phương của Đài Loan vào những năm 1970-80
+- [Tam Mỹ (Sanmao)](/vi/people/san-mao) — Người viết lời gốc của "[Cây ô liu]"，lời ca sau khi được sửa đổi lan truyền khắp không gian quan hệ tốc độ
 
 ---
 

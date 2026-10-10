@@ -4,7 +4,7 @@ description: "El 29 de abril de 2026, el portavoz de la Oficina de Asuntos de Ta
 date: 2026-04-30
 author: 'Taiwan.md'
 category: 'Society'
-subcategory: 'Relaciones interestrecho'
+subcategory: '國際關係'
 tags:
   [
     'patata envenenada',

@@ -4,7 +4,7 @@ description: "Pada Juni 1992, Du Zhaoxian membuka 'Lingkungan Seni Ekologi Baru'
 date: 2026-05-17
 author: 'Taiwan.md Contributors'
 category: 'Art'
-subcategory: 'Seni Kontemporer'
+subcategory: '當代藝術'
 tags:
   [
     'Ruang Alternatif',
@@ -140,9 +140,9 @@ Hanya tujuh tahun, namun benihnya tersebar selama tiga puluh tahun. Lain kali An
 
 **Bacaan Lanjutan:**
 
-- [Seni Kontemporer Taiwan](/art/當代藝術) — Konteks keseluruhan perkembangan seni kontemporer Taiwan pasca-Deklarasi Darurat, Xinshengtau adalah titik simpul representatif di Tainan pada periode ini
+- [Seni Kontemporer Taiwan](/id/art/contemporary-art) — Konteks keseluruhan perkembangan seni kontemporer Taiwan pasca-Deklarasi Darurat, Xinshengtau adalah titik simpul representatif di Tainan pada periode ini
 - [Kurator dan Konstruksi Budaya Seni Taiwan](/id/art/taiwanese-curators-and-artistic-cultural-construction) — Proses lokalisasi konsep kuratorial di Taiwan tahun 1990-an, Cheng Ming-chuan dari Xinshengtau adalah salah satu contohnya
-- [Seni Media Baru Taiwan](/art/台灣新媒體藝術) — Pada periode yang sama, Huang Wen-hao mengembangkan ET@T dari IT Park, menjadi kasus paralel pada tahun 1995
+- [Seni Media Baru Taiwan](/id/art/taiwan-new-media-art) — Pada periode yang sama, Huang Wen-hao mengembangkan ET@T dari IT Park, menjadi kasus paralel pada tahun 1995
 
 ## Sumber Gambar
 
@@ -186,4 +186,4 @@ Saat artikel ini diterbitkan, tidak ada gambar yang digunakan. Foto lokasi pamer
 
 [^18]: [La Vie: Bagaimana Tainan Menjadi Kota yang Ingin Ditempati Semua Orang](https://www.wowlavie.com/article/ae1900531) - Wawancara mengenai transisi estetika dan peran ruang seni kontemporer di Haian Road, Shennong Street, dan Ganggang 321.
 
-[^19]: [Yayasan Seni dan Budaya Nasional: Studi Pengembangan Ruang Seni Awal di Tainan (1992-1995)](https://archive.ncafroc.org.tw/result?id=71819bbe34c43c1bfa752481bff0a7c) - Arsip hasil penelitian yang mencakup catatan tangan, promosi pameran, dan wawancara anggota dari tahun 1992-1995.
+[^19]: [Yayasan Seni dan Budaya Nasional: Studi Pengembangan Ruang Seni Awal di Tainan (1992-1995)](https://archive.ncafroc.org.tw/result?id=721819bbe34c43c1bfa752481bff0a7c) - Arsip hasil penelitian yang mencakup catatan tangan, promosi pameran, dan wawancara anggota dari tahun 1992-1995.

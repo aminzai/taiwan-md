@@ -4,7 +4,7 @@ description: '1920年に着工、1930年に完成した嘉南大圳は、烏山�
 date: 2026-08-14
 category: 'History'
 subcategory: '經濟發展史'
-tags: ['嘉南大圳、烏山頭ダム、八田與一、農業水利、文化的景観']
+tags: ['嘉南大圳', '烏山頭ダム', '八田與一', '農業水利', '文化的景観']
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-14

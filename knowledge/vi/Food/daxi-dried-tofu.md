@@ -4,7 +4,7 @@ description: 'Sau khi vận chuyển đường sông Đại Hán Khê suy thoái
 date: 2026-08-20
 category: 'Food'
 tags: ['Đại Khê', 'đậu khô', 'Đào Viên', 'ẩm thực địa phương', 'cảng sông']
-subcategory: 'Món ăn vặt kinh điển'
+subcategory: '經典小吃'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20
@@ -19,6 +19,7 @@ rationale:
 translatedFrom: 'Food/大溪豆乾.md'
 sourceCommitSha: '56b89c791'
 sourceContentHash: 'sha256:a88f68e2ed7330a9'
+sourceBodyHash: 'sha256:f3daf5d832d676fb'
 translatedAt: '2026-09-14T23:25:42.698662+00:00'
 ---
 

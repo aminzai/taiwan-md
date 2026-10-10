@@ -13,7 +13,7 @@ tags:
     '観光',
     '信義計画区',
   ]
-subcategory: '戦後と権威主義'
+subcategory: '戰後與威權'
 readingTime: 9
 lastVerified: 2026-04-10
 lastHumanReview: false

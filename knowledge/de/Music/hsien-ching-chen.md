@@ -32,6 +32,7 @@ rationale:
 translatedFrom: 'Music/陳嫺靜.md'
 sourceCommitSha: '7255b3ab1'
 sourceContentHash: 'sha256:a52c8c96b2eeab05'
+sourceBodyHash: 'sha256:b3516ecc857f1e0e'
 translatedAt: '2026-09-26T04:20:22.709137+00:00'
 ---
 
@@ -193,7 +194,7 @@ Her phone was confiscated that night, and she said she "seemed not to be here." 
 
 **Further Reading**:
 
-- [Taiwan Hip-Hop and Rap Development](/music/台灣嘻哈與饒舌發展): How Egg Bao, Yan She, and Taiwan rap grew from underground to mainstream
+- [Taiwan Hip-Hop and Rap Development](/de/music/taiwan-hip-hop-and-rap): How Egg Bao, Yan She, and Taiwan rap grew from underground to mainstream
 - [From Cheer Chen to Anpu](/de/music/deserts-chang-and-anpu): Another Taiwan female voice writing literature and poetry into songs
 - [Taiwan Independent Music](/de/music/indie-music-scene): How the StreetVoice generation grew by bypassing record labels
 - [Taiwan Pop Music](/de/music/golden-melodies-legacy-taiwan-pop-music): The full trajectory from the recording industry to the streaming era

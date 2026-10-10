@@ -157,7 +157,7 @@ Quando Taiwan investe dez anos e 564,5 bilhões para redesenhar a rede, o result
 
 **Leitura complementar**:
 
-- [Mecanismo de preços do petróleo de Taiwan e CPC Corporation](/economy/台灣油價機制與中油) — No mesmo orçamento suplementar de seiscentos bilhões, ao lado dos 71,1 bilhões da Taipower, aquelas duas verbas da CPC: uma empresa estatal chamada a estar na linha de frente, o dinheiro que ela adiantou, quem paga no final.
+- [Mecanismo de preços do petróleo de Taiwan e CPC Corporation](/pt/economy/taiwan-fuel-pricing-and-cpc) — No mesmo orçamento suplementar de seiscentos bilhões, ao lado dos 71,1 bilhões da Taipower, aquelas duas verbas da CPC: uma empresa estatal chamada a estar na linha de frente, o dinheiro que ela adiantou, quem paga no final.
 
 ## Referências
 

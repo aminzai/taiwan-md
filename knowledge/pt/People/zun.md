@@ -144,10 +144,10 @@ O Zun do vídeo da nova casa e o gameplay do segundo ano ainda são a mesma pess
 
 **Leitura complementar**:
 
-- [A-shen (阿神)](/people/阿神) — Também começou com vídeos de jogos; os onze anos de daily do A-shen e a posterior retirada do compromisso de postagem fixa permitem contrastar outro ritmo de trabalho de criador de longo prazo.
-- [HowHow](/people/Howhow) — Também veio do YouTube inicial de Taiwan, colocando comédia absurda, publis e vida familiar numa mesma identidade criativa.
-- [Tsai A-ga (蔡阿嘎)](/people/蔡阿嘎) — De vídeos curtos pessoais para equipe e canal familiar, permite contrastar outra trajetória de maioridade de criador de longo prazo.
-- [Bahamut (巴哈姆特)](/culture/巴哈姆特) — Importante portal de jogos e comunidade de rede de Taiwan, também solo de crescimento da cultura de streaming inicial.
+- [A-shen (阿神)](/pt/people/red-shin-minecraft-youtuber) — Também começou com vídeos de jogos; os onze anos de daily do A-shen e a posterior retirada do compromisso de postagem fixa permitem contrastar outro ritmo de trabalho de criador de longo prazo.
+- [HowHow](/pt/people/howhow) — Também veio do YouTube inicial de Taiwan, colocando comédia absurda, publis e vida familiar numa mesma identidade criativa.
+- [Tsai A-ga (蔡阿嘎)](/pt/people/tsai-a-ga-youtuber) — De vídeos curtos pessoais para equipe e canal familiar, permite contrastar outra trajetória de maioridade de criador de longo prazo.
+- [Bahamut (巴哈姆特)](/pt/culture/bahamut-taiwan-gaming-community) — Importante portal de jogos e comunidade de rede de Taiwan, também solo de crescimento da cultura de streaming inicial.
 
 ## Fontes das imagens
 

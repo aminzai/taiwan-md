@@ -132,20 +132,20 @@ Jika 2050 nanti ada yang ingin tahu apa yang dipedulikan orang Taiwan 1987, yang
 
 **Bacaan Lanjutan**:
 
-- [Ruang Merokok Taipei: Di Kota Tanpa Rokok, Kotak Kaca yang Bernapas](/society/台北吸菸室) — Pasar rokok umur panjang dikuasai tujuh puluh persen, era monopoli rokok alkohol oleh Biro Monopoli, adalah titik awal ekspedisi larangan rokok panjang ini
+- [Ruang Merokok Taipei: Di Kota Tanpa Rokok, Kotak Kaca yang Bernapas](/id/society/taipei-smoking-room) — Pasar rokok umur panjang dikuasai tujuh puluh persen, era monopoli rokok alkohol oleh Biro Monopoli, adalah titik awal ekspedisi larangan rokok panjang ini
 
 - [Transisi Demokrasi Taiwan](/id/history/taiwan-democratization) — Dari pemerintahan militer ke badan demokrasi paling bebas Asia, empat puluh tahun transisi penuh
 - [Teror Putih Taiwan](/id/history/taiwan-white-terror) — Harga nyata 38 tahun pemerintahan militer: kasus politik, korban, dan sistem "jaminan keterikatan"
-- [Kasus Formosa](/history/美麗島事件) — 1979 titik balik penting akhir masa pemerintahan militer
+- [Kasus Formosa](/id/history/kaohsiung-incident-formosa-incident) — 1979 titik balik penting akhir masa pemerintahan militer
 - [Demokratisasi](/id/history/taiwan-democratization-history) — Proses Taiwan menuju demokrasi pasca-pencabutan
-- [Peristiwa 228](/history/二二八事件) — Titik balik sejarah 1947 sebelas pemerintahan militer
+- [Peristiwa 228](/id/history/228-incident) — Titik balik sejarah 1947 sebelas pemerintahan militer
 - [Keadilan Transisional Taiwan](/id/history/taiwan-transitional-justice) — Investigasi kebenaran dan pengejaran pelaku pasca-pencabutan
-- [Pulau Seni Internasional Matsu](/art/馬祖國際藝術島) — Pemerintah Kabupaten Lienchiang mengubah lorong dan pos perang medan pertempuran jadi proyek kurasi sepuluh tahun, kasus teahouse khusus "Siapa Berhak Bicara untuk Siapa" persoalan, adalah masalah bersama warisan pemerintahan militer
-- [Museum HAM Nasional](/history/國家人權博物館) — Museum yang dibangun negara sendiri untuk mengenang korban masa pemerintahan militer, 2018 diresmikan, 2025 anggaran pernah dibekukan
+- [Pulau Seni Internasional Matsu](/id/art/matsu-biennial) — Pemerintah Kabupaten Lienchiang mengubah lorong dan pos perang medan pertempuran jadi proyek kurasi sepuluh tahun, kasus teahouse khusus "Siapa Berhak Bicara untuk Siapa" persoalan, adalah masalah bersama warisan pemerintahan militer
+- [Museum HAM Nasional](/id/history/national-human-rights-museum) — Museum yang dibangun negara sendiri untuk mengenang korban masa pemerintahan militer, 2018 diresmikan, 2025 anggaran pernah dibekukan
 - [Teresa Teng](/id/people/teresa-teng) — Anak putri keluarga militer luar provinsi yang besar di era pemerintahan militer, seumur hidup berdiri di garis depan Dingin: dari hiburan pasukan Kinmen ke 1989 Happy Valley memakai papan "Tolak Pemerintahan Militer" transformasi
 - [Dua Gedung Seni](/id/culture/national-theater-and-concert-hall) — 1987 selesai dibangun tahun pencabutan, bermula dengan vokabular arsitektur otoriter, menyaksikan miniatur ruang budaya Taiwan demokratisasi pasca-pencabutan
 - [Yin Haiguang](/id/people/yin-haiguang-liberalism-philosopher) — Sarjana liberalis paling representatif masa pemerintahan militer, 1960 pasca-kasus Lei Zhen dihukum rumahan, 1966 《Perspektif Budaya Tiongkok》 dilarang
-- [Jalan Tol](/lifestyle/高速公路) — Mengapa harga pengambilan tanah era otoriter "bahkan nama tak tersisa", jawabannya di sini: verifikasi mitos lima puluh tahun jalan tol nasional, berulang menemukan kekosongan sistem era pemerintahan militer tanpa sidang publik, tanpa gugatan administrasi
+- [Jalan Tol](/id/lifestyle/national-highway-system) — Mengapa harga pengambilan tanah era otoriter "bahkan nama tak tersisa", jawabannya di sini: verifikasi mitos lima puluh tahun jalan tol nasional, berulang menemukan kekosongan sistem era pemerintahan militer tanpa sidang publik, tanpa gugatan administrasi
 
 ---
 

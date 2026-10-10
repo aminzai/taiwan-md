@@ -12,7 +12,7 @@ tags:
     'Zona de Nuvens e Névoa',
     'Biodiversidade',
   ]
-subcategory: 'Ecossistemas'
+subcategory: '生態系統'
 readingTime: 15
 author: 'Taiwan.md'
 featured: false
@@ -189,5 +189,5 @@ Proteger as florestas de Taiwan é proteger um microcosmo da biodiversidade terr
 - [Associação de Reflorestamento de Montanha de Taiwan: "Vegetação de zonas de alta montanha"](https://www.reforestation.tw/?p=14319)
 - [Our Island: "O Junípero de Yushan na espinha dorsal de Taiwan"](https://ourisland.pts.org.tw/content/2572)
 - [The Reporter: "Do desmatamento ilegal ao comércio — Crimes e transações em torno de árvores sagradas milenares"](https://www.twreporter.org/topics/illegal-logging)
-- [Ferrovia Florestal de Alishan](https://zh.wikipedia.org/zh-tw/%E9%98%BF%E9%87%8C%E5%B1%B5%E6%9E%97%E6%A5%AD%E9%90%B5%E8%B7%AF)
+- [Ferrovia Florestal de Alishan](https://zh.wikipedia.org/zh-tw/%E9%98%BF%E9%87%8C%E5%B1%B1%E6%9E%97%E6%A5%AD%E9%90%B5%E8%B7%AF)
 - [Rede de Lazer Florestal de Taiwan: "Ferrovia Florestal de Alishan"](https://recreation.forest.gov.tw/Forestry/FR?typ_id=0900041)

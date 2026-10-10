@@ -169,10 +169,10 @@ _ September 2017, Digitale Wüste Ausgabe 34 „Hermeneutik der Inseln“ (Herme
 ## Weiterführende Literatur
 
 - [Zheng Wenqí](/de/people/cheng-wen-chi) – 12 Jahre Inselpraxis der Digitalen Wüste: Von der ARTouch-Beitragenden zur Gründerin der Nusantara Archive
-- [Gegenwartskunst](/art/當代藝術) – Karte der taiwanesischen Kunsttheorie, Position der Digitalen Wüste als kuratorische Plattform mit südlichem Blickwinkel
-- [Taiwanesische Medienkunst](/art/台灣新媒體藝術) – Von der Experimentellen Territorium (1995) zur Digitalen Kunststiftung (2008): Die taiwanesische Medienkunst-Palette
-- [Wang Furu](/people/王福瑞) – 1993 gründete er die NOISE-Zeitschrift, das papierbasierte Modell für eine kleine Zielgruppe, das mit der mütterlichen Institution der Digitalen Wüste verbunden ist
-- [Taiwanesische Kuratoren und kulturelle Konstruktion](/art/台灣策展人與藝術文化建構) – Kuratorenpalette Taiwans, Zheng Wenqí als Fallbeispiel für ein internationales Stationsnetzwerk
+- [Gegenwartskunst](/de/art/contemporary-art) – Karte der taiwanesischen Kunsttheorie, Position der Digitalen Wüste als kuratorische Plattform mit südlichem Blickwinkel
+- [Taiwanesische Medienkunst](/de/art/taiwan-new-media-art) – Von der Experimentellen Territorium (1995) zur Digitalen Kunststiftung (2008): Die taiwanesische Medienkunst-Palette
+- [Wang Furu](/de/people/fujui-wang) – 1993 gründete er die NOISE-Zeitschrift, das papierbasierte Modell für eine kleine Zielgruppe, das mit der mütterlichen Institution der Digitalen Wüste verbunden ist
+- [Taiwanesische Kuratoren und kulturelle Konstruktion](/de/art/taiwanese-curators-and-artistic-cultural-construction) – Kuratorenpalette Taiwans, Zheng Wenqí als Fallbeispiel für ein internationales Stationsnetzwerk
 
 ## Bildnachweise
 

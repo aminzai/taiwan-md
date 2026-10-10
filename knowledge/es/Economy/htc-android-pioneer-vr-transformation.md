@@ -141,7 +141,7 @@ En esta era llena de incertidumbre, la historia de HTC nos dice: siempre se mant
 
 ## Lecturas relacionadas
 
-- [Taiwán cuenta historias tecnológicas: 100 puntos de chips, 60 puntos de micrófonos](/es/technology/taiwan-tech-stories) — Por qué "Quietly Brilliant" perdió frente a competidores que saben contar historias, la lección de HTC se convirtió en un artículo completo
+- [Taiwán cuenta historias tecnológicas: 100 puntos de chips, 60 puntos de micrófonos](/es/technology/taiwan-tech-storytelling) — Por qué "Quietly Brilliant" perdió frente a competidores que saben contar historias, la lección de HTC se convirtió en un artículo completo
 
 ## Referencias
 

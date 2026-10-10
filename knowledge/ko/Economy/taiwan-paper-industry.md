@@ -91,7 +91,7 @@ translatedAt: '2026-09-15T06:51:25+08:00'
 
 ![탄산칼슘과 수지로 만든 돌 편지지의 미세 구조, Charles Kazilek, CC BY-SA 4.0](https://upload.wikimedia.org/wikipedia/commons/2/21/Scanning_electron_image_of_paper_made_from_stone_material_-_100x.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
-_이미지: Charles Kazilek, 〈Scanning electron image of paper made from stone material - 100x〉, Wikimedia Commons, CC BY-SA 4.0. 이미지는 돌 편지지의 미세 영상이며, 어떤 대만 제조업체의 제품도 나타내지 않는다. 라이선스 및 파일 정보._
+_이미지: Charles Kazilek, 〈Scanning electron image of paper made from stone material - 100x〉, Wikimedia Commons, CC BY-SA 4.0. 이미지는 돌 편지지의 미세 영상이며, 어떤 대만 제조업체의 제품도 나타내지 않는다. 라이선스 및 파일 정보. [授權與檔案資訊](https://commons.wikimedia.org/wiki/File:Scanning_electron_image_of_paper_made_from_stone_material_-_100x.jpg)_
 
 대만의 돌 편지지 이야기는 흔히 대만 남부의 롱희복합재료와 연결된다. 전국 상공회의소의 보도에 따르면, 럥석회씨는 플라스틱 봉투 원료에 탄산칼슘을 더하여 비용을 줄이기 위해 노력했고, 이어서 돌 분말로 목재 펄프를 대체할 수 있는지 고민하기 시작했고, 이후 수년간의 연구개발에 전념했다. 이것은 기업 보고서의 연구개발 연혁으로, 대만이 어떻게 플라스틱 가공 경험을 종이 혁신으로 가져갔는지 설명할 수 있지만, 제품의 모든 환경적 효과를 단독으로 입증할 수는 없다. [^12]
 

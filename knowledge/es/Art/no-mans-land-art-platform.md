@@ -4,7 +4,7 @@ description: "En noviembre de 2011, Zheng Wenqi lanzó en Taipéi, en una antigu
 date: 2026-05-17
 author: 'Taiwan.md'
 category: 'Art'
-subcategory: '艺评平台 / 媒体研究'
+subcategory: '藝評平台 / 媒體研究'
 tags:
   [
     'Desierto Digital',

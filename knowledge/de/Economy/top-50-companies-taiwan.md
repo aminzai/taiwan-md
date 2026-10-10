@@ -29,6 +29,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG'
 translatedFrom: 'Economy/台灣前50大企業.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:c392f57da0dcbd9d'
+sourceBodyHash: 'sha256:645f8f42e79639a7'
 translatedAt: '2026-09-23T09:10:47.146112+00:00'
 ---
 
@@ -43,11 +44,11 @@ Die Namen auf dieser Karte waren nahezu eine Miniaturversion des Rankings der To
 
 ## Eine Karte, die ein Land festlegt
 
-Die Nachbörsenrangliste vom 19. Mai 2026 sah wie folgt aus[^4]: Platz eins war TSMC mit einem Marktwert von 57,18 Billionen NTD [2330](/economy/台灣企業：台積電); auf Platz zwei stand MediaTek mit 5,06 Billionen NTD (2454), gefolgt von Wistron mit 4,97 Billionen NTD [2308](/de/economy/delta-electronics-taiwan-power-giant), Foxconn mit 3,43 Billionen NTD [2317](/economy/台灣企業：鴻海精密) und ASE Technology Holding mit 2,11 Billionen NTD (3711). Allein diese fünf Unternehmen erreichten einen Marktwert von über 7,2 Billionen NTD, was mehr als die Hälfte des gesamten Aktienmarktwertes Taiwans ausmacht.
+Die Nachbörsenrangliste vom 19. Mai 2026 sah wie folgt aus[^4]: Platz eins war TSMC mit einem Marktwert von 57,18 Billionen NTD [2330](/de/economy/tsmc); auf Platz zwei stand MediaTek mit 5,06 Billionen NTD (2454), gefolgt von Wistron mit 4,97 Billionen NTD [2308](/de/economy/delta-electronics-taiwan-power-giant), Foxconn mit 3,43 Billionen NTD [2317](/de/economy/foxconn-precision-industry) und ASE Technology Holding mit 2,11 Billionen NTD (3711). Allein diese fünf Unternehmen erreichten einen Marktwert von über 7,2 Billionen NTD, was mehr als die Hälfte des gesamten Aktienmarktwertes Taiwans ausmacht.
 
 Von Platz sechs bis dreißig lassen sich drei Schichten erkennen. Die Halbleitergruppe umfasst United Ocean Technology [2303](/de/economy/mediatek), Creative (3443), Winstar (2344), Nanya Technology (2408), TAIWAN Semiconductor (2360). Die Finanzgruppe besteht aus Fubon Financial Holdings [2881](/de/economy/taiwan-enterprise-fubon-financial), Cathay Financial Holding [2882](/de/economy/taiwan-enterprise-cathay-financial), CTOS Financial, Yuanta Financial, Mega Financial, Taishin Shin Kong and E. Sun Life Financial Holding [2884](/de/economy/esun-financial-holding-digital-banking-pioneer). Elektronische Auftragsfertigung und KI-Peripherie umfassen广达 (Quanta) [2382](/de/economy/taiwanese-companies-quanta-computer), Zhibang (2345), Wistron (6669), Chi Hong (3017), Foxconn Industrial Tech (7769), Xin Xing (3037), Taiwan Leader (2383) und Novatek [2327](/de/economy/taiwan-enterprise-ase-semiconductor). Die traditionelle Industrie und Telekommunikation sind nur durch Chunghwa Telecom (2412) und Nanya [1303](/de/economy/formosa-plastics-group) in den Top dreißig geschafft[^5].
 
-Die Plätze 31 bis 50 waren noch dichter. Alteingesessene wie CSNA [2002](/de/economy/taiwan-companies-china-steel), Formosa Plastics (6505), Evergreen Marine [2603](/de/economy/evergreen-marine) und Uni-President [1216](/economy/台灣企業：統一企業) hielten in den hinteren Rängen, gestützt durch das Wirtschaftswunder der 1970er und 80er Jahre. Elektronikhersteller wie Wistron (3231) [3231](/de/economy/wistron-global-manufacturing-transformation-pioneer), ASUS [2357](/de/economy/asus-computer), Lite-On, Wenhua (2395) und Scienix-KY (3661) wechselten ab mit Finanzholdinggesellschaften; deren Marktwert lag im Bereich von 400 bis 500 Milliarden NTD, wobei ein Prozentpunkt den Platz wechseln ließ[^6].
+Die Plätze 31 bis 50 waren noch dichter. Alteingesessene wie CSNA [2002](/de/economy/taiwan-companies-china-steel), Formosa Plastics (6505), Evergreen Marine [2603](/de/economy/evergreen-marine) und Uni-President [1216](/de/economy/taiwan-enterprise-uni-president) hielten in den hinteren Rängen, gestützt durch das Wirtschaftswunder der 1970er und 80er Jahre. Elektronikhersteller wie Wistron (3231) [3231](/de/economy/wistron-global-manufacturing-transformation-pioneer), ASUS [2357](/de/economy/asus-computer), Lite-On, Wenhua (2395) und Scienix-KY (3661) wechselten ab mit Finanzholdinggesellschaften; deren Marktwert lag im Bereich von 400 bis 500 Milliarden NTD, wobei ein Prozentpunkt den Platz wechseln ließ[^6].
 
 ![Außenansicht des Taipei 101 Gebäudes. Der Hauptsitz der Taiwan Stock Exchange befindet sich in diesem 508 Meter hohen Wahrzeichen und ist der Ort, an dem die Börsenglocke für die 50 größten Unternehmen von Taipeh läutet](/article-images/economy/taipei-101-twse-2023.webp)
 
@@ -162,11 +163,11 @@ Nach dem Lesen dieser Tabelle sollte der Leser nicht „wer auf welchem Platz st
 
 **Weiterführende Lektüre**:
 
-- [Taiwanische Unternehmen: TSMC](/economy/台灣企業：台積電) — Das einzelne Unternehmen auf Platz 1 der „Großen 50“, das 31,51 % des gewichteten Index ausmacht
+- [Taiwanische Unternehmen: TSMC](/de/economy/tsmc) — Das einzelne Unternehmen auf Platz 1 der „Großen 50“, das 31,51 % des gewichteten Index ausmacht
 - [Kleine und mittlere Unternehmen in Taiwan und unsichtbare Champions](/de/economy/taiwan-smes-and-hidden-champions) — Die nicht sichtbaren 30 % der Wirtschaftsstruktur jenseits von Yimei und Hualon
 - [Taiwanische Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Von RK zur 2-nm-Technologie: Der Ursprung der 11 Halbleiterplätze in den „Großen 50“
 - [Taiwanische Aktienmärkte und Kapitalmärkte](/de/economy/taiwan-stock-market) — Gewichteter Index, Marktwertrangliste, Struktur der institutionellen Anleger
-- [Taiwanische Verteidigung und Militarisierung](/society/台灣國防與軍事現代化) — Die geopolitische Verknüpfung von „Silicon Shield“ und den „Großen 50“
+- [Taiwanische Verteidigung und Militarisierung](/de/society/taiwan-defense-modernization) — Die geopolitische Verknüpfung von „Silicon Shield“ und den „Großen 50“
 - [Taiwan Science Park](/de/technology/science-park-development) — Der räumliche Ausdruck der Produktionsbasis der Halbleiterplätze in den „Großen 50“, die Konzentrationsdichte der drei Parks
 
 ## Bildquellen

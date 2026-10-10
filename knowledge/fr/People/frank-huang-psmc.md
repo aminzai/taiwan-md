@@ -48,6 +48,7 @@ curation: 'verified'
 translatedFrom: 'People/黃崇仁.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:db74afff74180364'
+sourceBodyHash: 'sha256:79acfb47eb180714'
 translatedAt: '2026-09-25T13:26:12.958015+00:00'
 ---
 

@@ -33,7 +33,7 @@ Das Lesen dieses Artikels dauert etwa 10 Minuten.
 
 ![Zurückkehrende Taube. Bild von Andreas Trepte, CC BY-SA 2.5.](https://commons.wikimedia.org/wiki/Special:FilePath/Homing_pigeon.jpg)
 
-_Bild: Andreas Trepte, Wikimedia Commons, CC BY-SA 2.5. Lizenz- und Originaldateiseite. Dieses Bild ist eine freie Lizenzhyperverbindung und kein Foto vom Tatort der Taiwan-Straßenpigeons._
+_Bild: Andreas Trepte, Wikimedia Commons, CC BY-SA 2.5. Lizenz- und Originaldateiseite. Dieses Bild ist eine freie Lizenzhyperverbindung und kein Foto vom Tatort der Taiwan-Straßenpigeons. [授權與原始檔案頁](https://commons.wikimedia.org/wiki/File:Homing_pigeon.jpg)_
 
 Am 17. November 2024 starteten rund 90.000 Tauben vom Hafen von Keelung in die Luft. Letztendlich kehrten nur 7.712 in der vorgegebenen Zeit zurück – eine Rückkehrquote von 8,6 %.[^1] Das ist kein spektakuläres Vogelschwarm-Szene aus einem Film, sondern der Moment, in dem ein System „Heimkehr“ in gültig und ungültig unterteilt.
 
@@ -51,7 +51,7 @@ Der „Tor“ des Nordmeers ist kein sichtbares Tor. Berichten zufolge ist die K
 
 ![In der Luft befindliche Tauben. Bild von Wikimedia Commons-Nutzer unter CC BY-SA 4.0 lizenziert.](https://commons.wikimedia.org/wiki/Special:FilePath/Picture_of_a_pigeon_flying.jpg)
 
-_Bild: Wikimedia Commons, CC BY-SA 4.0. Originaldatei und Lizenzseite. Das Bild zeigt den Flugzustand und stellt keine Originalaufnahmen des Straßenpigeon-Wettkriegs dar._
+_Bild: Wikimedia Commons, CC BY-SA 4.0. Originaldatei und Lizenzseite. Das Bild zeigt den Flugzustand und stellt keine Originalaufnahmen des Straßenpigeon-Wettkriegs dar. [原始檔案與授權頁](https://commons.wikimedia.org/wiki/File:Picture_of_a_pigeon_flying.jpg)_
 
 **Kuratorische Notiz #1: Fußringe sind keine Dekoration**
 _Die wichtigste Sache bei Straßenpigeon ist nicht der Pokal, sondern der Fußring. Er übersetzt die Heimkehr-Instinkte einer Taube in Sekunden, die der Mensch messen kann._
@@ -60,7 +60,7 @@ _Die wichtigste Sache bei Straßenpigeon ist nicht der Pokal, sondern der Fußri
 
 ![Eltern- und Jungtauben der Straßenpigeon. Bild von Hery blur, CC BY-SA 4.0.](https://commons.wikimedia.org/wiki/Special:FilePath/Racing_Pigeon.jpg)
 
-_Bild: Hery blur, Wikimedia Commons, CC BY-SA 4.0. Lizenz- und Originaldateiseite. Dieses Bild dient als Gegenüberstellung der Reproduktions- und Nachwuchserziehung in der Straßenpigeon-Industrie._
+_Bild: Hery blur, Wikimedia Commons, CC BY-SA 4.0. Lizenz- und Originaldateiseite. Dieses Bild dient als Gegenüberstellung der Reproduktions- und Nachwuchserziehung in der Straßenpigeon-Industrie. [授權與原始檔案頁](https://commons.wikimedia.org/wiki/File:Racing_Pigeon.jpg)_
 
 Taiwan-Straßenpigeon ist anders, weil die meisten Teilnehmer 4- bis 8-monatige Jungtauben sind, und weil eine Taube in der Regel nur an einem Saison teilnimmt. Vor dem offiziellen Rennen gibt es eine Qualifikation, danach folgen mehrmals Straßenpigeon. Wenn eine Taube nicht zurückkehrt, ist sie disqualifiziert – egal, ob sie danach noch den Weg nach Hause findet.
 
@@ -85,7 +85,7 @@ Dieses System verteilt Risiken auch auf viele Menschen. Die Besitzer züchten un
 
 ![Taubenschänke im Batman Park. Bild von Nick Carson, gemeinfrei.](https://commons.wikimedia.org/wiki/Special:FilePath/Batman_Park_Pigeon_Loft.JPG)
 
-_Bild: Nick Carson, Wikimedia Commons, gemeinfrei. Originaldatei und Lizenzseite. Das Bild zeigt den Raum der Taubenschänke und steht nicht für die tatsächliche Anordnung der privaten Taubenschänke in Taiwan._
+_Bild: Nick Carson, Wikimedia Commons, gemeinfrei. Originaldatei und Lizenzseite. Das Bild zeigt den Raum der Taubenschänke und steht nicht für die tatsächliche Anordnung der privaten Taubenschänke in Taiwan. [原始檔案與授權頁](https://commons.wikimedia.org/wiki/File:Batman_Park_Pigeon_Loft.JPG)_
 
 Straßenpigeon ist nicht nur ein paar Minuten am Freisetzungstag. Die befragten Taubenzüchler müssen 4 bis 8 Monate vor dem Rennen Arten auswählen, paaren, ringen, trainieren und Futter anpassen. Die Taubenschänke muss täglich gereinigt werden, der Zustand der Tauben beobachtet werden, und die Trainingsdistanz schrittweise erhöht werden.
 

@@ -127,12 +127,12 @@ Quay lại ngày chiều trong tháng 9 năm 2015 tại New York. Một người
 
 **Đọc thêm**:
 
-- [Chia Ha: Từ vị triệu follower đầu tiên đến nghề xã hội, người đàn ông đổi mất vận mệnh sau 18 năm lưu truyền thông](/people/蔡阿嘎) — YouTuber đầu tiên đạt một triệu người theo dõi tại Đài Loan, năm 2014 đạt chuẩn, năm 2010 bắt đầu, là đầu mối của trục thời gian chuyên nghiệp hóa của các nhà sáng tạo nội dung.
-- [Thánh Kết](/people/阿神) — Cùng đồng thời (2017) vượt qua ngưỡng một triệu người theo dõi, và Howhow đi theo con đường sinh tồn hoàn toàn khác.
-- [Cao Bảo: Tính toán được nụ cười, không thể dự đoán xã hội](/people/曾博恩) — Cũng dựa vào "hài hước xã hội" theo nhịp điệu, nhưng đẩy nội dung lên những vấn đề xã hội cảm tính hơn là quảng cáo tự nhiên.
+- [Chia Ha: Từ vị triệu follower đầu tiên đến nghề xã hội, người đàn ông đổi mất vận mệnh sau 18 năm lưu truyền thông](/vi/people/tsai-a-ga-youtuber) — YouTuber đầu tiên đạt một triệu người theo dõi tại Đài Loan, năm 2014 đạt chuẩn, năm 2010 bắt đầu, là đầu mối của trục thời gian chuyên nghiệp hóa của các nhà sáng tạo nội dung.
+- [Thánh Kết](/vi/people/red-shin-minecraft-youtuber) — Cùng đồng thời (2017) vượt qua ngưỡng một triệu người theo dõi, và Howhow đi theo con đường sinh tồn hoàn toàn khác.
+- [Cao Bảo: Tính toán được nụ cười, không thể dự đoán xã hội](/vi/people/bernard-tseng) — Cũng dựa vào "hài hước xã hội" theo nhịp điệu, nhưng đẩy nội dung lên những vấn đề xã hội cảm tính hơn là quảng cáo tự nhiên.
 - [Z: Từ phòng ở lớp hai đến hai kênh triệu follower, một nhật ký trẻ em của một YouTuber](/vi/people/zun) — Cùng xuất hiện trên YouTube sớm, ghi lại quá trình vươn lên qua video thiếu năng, gánh nặng triệu follower và đời sống bình thường.
-- [Lịch sử phát triển văn hóa số của Đài Loan: Từ Chia Ha đến Kiên Ngọc, hành trình biến hóa văn hóa số của một hòn đảo](/culture/台灣YouTuber產業與文化) — Bứt tranh về toàn bộ nền tảng công nghiệp và văn hóa số của Howhow và thế hệ sáng tạo khác.
-- [Kinh tế hóa sáng tạo nội dung tại Đài Loan: Trường sân khấu rãnh đá của 23 triệu người](/economy/台灣自媒體創作者經濟) — Từ góc độ cấu trúc ngành, hiểu được tại sao "quảng cáo tự nhiên" trở thành nhu cầu sinh tồn.
+- [Lịch sử phát triển văn hóa số của Đài Loan: Từ Chia Ha đến Kiên Ngọc, hành trình biến hóa văn hóa số của một hòn đảo](/vi/culture/taiwan-youtuber-industry) — Bứt tranh về toàn bộ nền tảng công nghiệp và văn hóa số của Howhow và thế hệ sáng tạo khác.
+- [Kinh tế hóa sáng tạo nội dung tại Đài Loan: Trường sân khấu rãnh đá của 23 triệu người](/vi/economy/taiwan-self-media-creator-economy) — Từ góc độ cấu trúc ngành, hiểu được tại sao "quảng cáo tự nhiên" trở thành nhu cầu sinh tồn.
 
 ## Nguồn ảnh
 

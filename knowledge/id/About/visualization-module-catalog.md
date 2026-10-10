@@ -23,6 +23,7 @@ relatedDiary: ['2026-07-16-222859-viz-evolution']
 translatedFrom: 'About/視覺化模組型錄.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:6a367e7b90a88190'
+sourceBodyHash: 'sha256:f6a2ecc9e1606c44'
 translatedAt: '2026-08-02T17:34:18.442783+00:00'
 ---
 
@@ -310,7 +311,7 @@ Setiap modul ditulis sebagai blok ` ```tw-* ` di dalam Markdown artikel, menggun
 
 Sistem ini terinspirasi dari falsafah editorial media narasi visual [The Pudding](https://pudding.cool/)—masalah mendahului data, kesimpulan harus jelas, anotasi adalah protagonista—namun berkembang menjadi organ yang cocok untuk Taiwan.md: statis, multibahasa, dan dapat dibaca AI. Konteks desain lengkapnya tertulis di [Laporan Desain Sistem Visualisasi](https://github.com/frank890417/taiwan-md/blob/main/reports/article-visualization-design-2026-06-06.md)。
 
-Untuk melihat bagaimana modul-modul ini disisipkan ke dalam narasi artikel mendalam yang nyata, baca [Perumahan Nasional dan Keadilan Tempat Tinggal](/society/國宅與居住正義)—kebanyakan data di halaman ini berasal dari penelitian artikel tersebut。
+Untuk melihat bagaimana modul-modul ini disisipkan ke dalam narasi artikel mendalam yang nyata, baca [Perumahan Nasional dan Keadilan Tempat Tinggal](/id/society/public-housing-justice)—kebanyakan data di halaman ini berasal dari penelitian artikel tersebut。
 
 ## Sistem ini pun berkembang
 
@@ -329,10 +330,10 @@ Penelitian terbaru juga mendukung jalur ini: akurasi AI multimodal merekonstruks
 
 **Bacaan Lanjutan**:
 
-- [Perumahan Nasional dan Keadilan Tempat Tinggal](/society/國宅與居住正義) — Cerita lengkap di balik data tempat tinggal ini: bagaimana perumahan nasional dari rumah murah jadi tangga aset, sumber data mayoritas modul halaman ini
-- [Melihat 22 Kabupaten/Kota Taiwan dengan Data](/geography/用數據看台灣22縣市) — Data penuaan untuk diagram titik, piramida, diagram bata kabupaten/kota halaman ini semuanya dari analisis lengkap 22 kabupaten/kota artikel itu
+- [Perumahan Nasional dan Keadilan Tempat Tinggal](/id/society/public-housing-justice) — Cerita lengkap di balik data tempat tinggal ini: bagaimana perumahan nasional dari rumah murah jadi tangga aset, sumber data mayoritas modul halaman ini
+- [Melihat 22 Kabupaten/Kota Taiwan dengan Data](/id/geography/data-taiwan-22-cities) — Data penuaan untuk diagram titik, piramida, diagram bata kabupaten/kota halaman ini semuanya dari analisis lengkap 22 kabupaten/kota artikel itu
 - [Diskusi Taiwan dan Energi Nuklir](/id/society/taiwan-nuclear-debate) — Cerita lengkap tiga referendum batang bertumpuk itu: menang debat, kalah sistem
-- [Undang-Undang Kesehatan](/society/醫療法) — Cerita lengkap angka rasio perawat-pasien tiga shift grid kelipatan kecil itu: undang-undang bisa tulis mengurus berapa tempat tidur, tak bisa tulis apakah ada sepasang tangan itu
+- [Undang-Undang Kesehatan](/id/society/medical-care-act) — Cerita lengkap angka rasio perawat-pasien tiga shift grid kelipatan kecil itu: undang-undang bisa tulis mengurus berapa tempat tidur, tak bisa tulis apakah ada sepasang tangan itu
 - [Pemecatan Massal](/id/history/great-recall-movement-2024) — Lanjutan garis putus-putus mayoritas busur kursi itu: dewan legislatif tiga partai tak mayoritas bagaimana sampai 37 kasus pemecatan
 - [Krisis Fertilitas Rendah Taiwan](/id/society/taiwan-low-birth-rate-crisis) — Beli tidak mampu rumah dan lahirkan tidak mampu anak, sisi lain keadilan generasi
 
@@ -350,10 +351,10 @@ Artikel ini menggunakan 1 gambar lisensi CC, cache di `public/article-images/soc
 
 [^3]: [Siaran Pers Kabinet Mengenai Pencabutan Undang-Undang Perumahan Nasional](https://www.ey.gov.tw/Page/9277F759E41CCD91/d4afaf10-ece5-4b4f-9482-35ce16bdc657) — Data resmi seperti jumlah kumulatif unit perumahan nasional (sekitar 390.000 lebih unit).
 
-[^4]: [Data Statistik Kependudukan Direktorat Jenderal Administrasi Kependudukan Kementerian Dalam Negeri](https://www.ris.gov.tw/app/portal/346) — Persentase penduduk berusia 65 tahun ke atas dan indeks penuaan tiap kabupaten/kota pada akhir 2025, sumber data untuk diagram titik, piramida, peta ubin kabupaten/kota, dan kotak penjelasan di halaman ini; rantai verifikasi lengkap lihat 〈[Melihat 22 Kabupaten/Kota Taiwan dengan Data](/geography/用數據看台灣22縣市)〉.
+[^4]: [Data Statistik Kependudukan Direktorat Jenderal Administrasi Kependudukan Kementerian Dalam Negeri](https://www.ris.gov.tw/app/portal/346) — Persentase penduduk berusia 65 tahun ke atas dan indeks penuaan tiap kabupaten/kota pada akhir 2025, sumber data untuk diagram titik, piramida, peta ubin kabupaten/kota, dan kotak penjelasan di halaman ini; rantai verifikasi lengkap lihat 〈[Melihat 22 Kabupaten/Kota Taiwan dengan Data](/id/geography/data-taiwan-22-cities)〉.
 
 [^5]: [Hasil Referendum Kasus ke-16 Tahun 2018 Komisi Pemilihan Umum Pusat (PDF)](https://web.cec.gov.tw/api/file/0132581c-18b5-4951-bc24-3cc083924666.pdf) — Persentase persetujuan tiga referendum tenaga nuklir (59%／47%／74%) adalah hasil penetapan resmi KPU Pusat, rantai verifikasi per kasus lihat 〈[Diskusi Taiwan dan Tenaga Nuklir](/id/society/taiwan-nuclear-debate)〉.
 
 [^6]: [CNA: Pemilu Legislatif 2024, Tidak Ada Partai yang Mendapat Mayoritas dari Tiga Partai](https://www.cna.com.tw/news/aipl/202401130361.aspx) — Distribusi 113 kursi pada busur kursi (KMT 52, DPP 51, TPP 8, Non-partai 2) adalah hasil penetapan KPU Pusat, rantai verifikasi lihat 〈[Pemecatan Massal](/id/history/great-recall-movement-2024)〉.
 
-[^7]: [Pengumuman Standar Rasio Perawat-Pasien Tiga Shift Kementerian Kesehatan dan Kesejahteraan (2024)](https://www.mohw.gov.tw/) — Nilai standar rasio perawat-pasien tiga tingkat × tiga shift pada grid kelipatan kecil, rantai verifikasi lihat 〈[Undang-Undang Medis](/society/醫療法)〉.
+[^7]: [Pengumuman Standar Rasio Perawat-Pasien Tiga Shift Kementerian Kesehatan dan Kesejahteraan (2024)](https://www.mohw.gov.tw/) — Nilai standar rasio perawat-pasien tiga tingkat × tiga shift pada grid kelipatan kecil, rantai verifikasi lihat 〈[Undang-Undang Medis](/id/society/medical-care-act)〉.

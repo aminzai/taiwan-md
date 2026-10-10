@@ -186,7 +186,7 @@ Se da próxima vez você passar pelo salão octogonal do Ximending Red House, pa
 - [Cultura ACG de Taiwan](/pt/culture/taiwan-anime-culture) — por que Cosplay fixo fins de semana junta em frente ao Red House, relação com origem do Festival de Anime 1999
 - [Arte de rua e cultura graffiti de Taiwan](/pt/culture/taiwan-street-art-and-graffiti-culture) — graffiti da parede azul do parque temático de cinema de Ximending e linhagem da cultura de rua taiwanesa pós-fim da lei marcial
 - [Cultura de ruas antigas e distritos comerciais de Taiwan](/pt/culture/taiwan-historic-streets-and-commercial-districts) — Ximending como distrito de entretenimento planejado colonial, diferença estrutural com ruas antigas Qing (Lukang, Mengjia, Dadaocheng)
-- [Mengjia](/geography/艋舺) — sibling mesmo lote 1 bairro histórico, quando japoneses 1896 planejaram Ximending, ao lado Mengjia era porto mais agitado de norte de Taiwan na era Qing
+- [Mengjia](/pt/geography/bangka) — sibling mesmo lote 1 bairro histórico, quando japoneses 1896 planejaram Ximending, ao lado Mengjia era porto mais agitado de norte de Taiwan na era Qing
 - [Dadaocheng](/pt/geography/dadaocheng) — sibling mesmo lote 1 bairro histórico, 1853 após conflito Top-Down Post nova rua comercial de chá, com distrito de entretenimento colonial de Ximending são dois "momentos de formação de rua"
 - [Boulevard Zhongshan Norte](/pt/geography/zhongshan-north-road-tiaotong) — 1898 colonial "Estrada do Enviado Imperial" em direção ao Santuário de Taiwan em Yuanshan, avenida arborizada, mesmo período planejamento colonial que Ximending mas experimento urbano completamente diferente
 

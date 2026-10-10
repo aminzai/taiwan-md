@@ -166,9 +166,9 @@ Oleh karena itu, sampul 《Desain Dicari》 juga merupakan lembar ujian. Yang in
 
 - [Majalah](/id/culture/magazine) — Evolusi majalah Taiwan selama seratus tahun, 《Shopping Design》 adalah contoh representatif dari "majalah lunak".
 - [Majalah Humanitas](/id/culture/renjian-magazine) — Jiwa jenis majalah Taiwan lainnya, membedakan dan menamai masyarakat kelas bawah melalui fotografi jurnalistik, seperti dua sisi mata uang dengan majalah desain belanja.
-- [Sejarah Iklan Taiwan](/culture/台灣廣告史) — Asal mula pembentukan Huang Wei-rong dan Li Hui-zhen, memahami bagaimana generasi "Ideology Advertising" membawa kemampuan bercerita ke dalam majalah.
+- [Sejarah Iklan Taiwan](/id/culture/taiwan-advertising-history) — Asal mula pembentukan Huang Wei-rong dan Li Hui-zhen, memahami bagaimana generasi "Ideology Advertising" membawa kemampuan bercerita ke dalam majalah.
 - [Teh dan Estetika Hidup Taiwan](/id/culture/taiwan-tea-ceremony-and-aesthetic-living) — Bagaimana estetika hidup tumbuh di Taiwan menjadi sesuatu yang dapat dibicarakan dan dibeli secara sehari-hari.
-- [Nie Yongzhen](/people/聶永真) — Nama lain dalam konteks desain Taiwan yang sama, mendorong desain ke mata publik.
+- [Nie Yongzhen](/id/people/nieh-yung-jen) — Nama lain dalam konteks desain Taiwan yang sama, mendorong desain ke mata publik.
 
 ## Sumber Gambar
 

@@ -3,8 +3,15 @@ title: 'Lu Rou Fan: Nasi Babi Kecap Taiwan'
 description: 'Dari dapur juancun sampai menjadi makanan nasional — perang utara-selatan dan identitas budaya di balik semangkuk lu rou fan Taiwan'
 date: 2026-03-19
 category: 'Food'
-tags: ['Lu rou fan', 'Rou zao fan', 'Masakan juancun', 'Makanan nasional', 'Perbedaan utara-selatan']
-subcategory: 'Kuliner Etnis'
+tags:
+  [
+    'Lu rou fan',
+    'Rou zao fan',
+    'Masakan juancun',
+    'Makanan nasional',
+    'Perbedaan utara-selatan',
+  ]
+subcategory: '族群飲食'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-16
@@ -16,6 +23,7 @@ readingTime: 8
 translatedFrom: 'Food/台灣滷肉飯.md'
 sourceCommitSha: '30569f74'
 sourceContentHash: 'sha256:6108c8dc00031909'
+sourceBodyHash: 'sha256:41cfdb3eed2dcde1'
 translatedAt: '2026-08-30T22:10:00+08:00'
 ---
 
@@ -38,7 +46,7 @@ Perang ini tidak punya jawaban baku, dan justru jadi catatan kaki terbaik bagi k
 
 ## Insiden Salah Kabar "Berasal dari Shandong" oleh Michelin 2011
 
-Episode paling terkenal dalam sejarah lu rou fan adalah kontroversi yang dipicu edisi bahasa Inggris *Panduan Michelin: Taiwan Green Guide* 2011. Michelin menerjemahkan lu rou fan menjadi "Lu (Shandong-style) Meat Rice" dan dalam keterangannya menyatakan hidangan ini berasal dari Shandong, Tiongkok.[^3]
+Episode paling terkenal dalam sejarah lu rou fan adalah kontroversi yang dipicu edisi bahasa Inggris _Panduan Michelin: Taiwan Green Guide_ 2011. Michelin menerjemahkan lu rou fan menjadi "Lu (Shandong-style) Meat Rice" dan dalam keterangannya menyatakan hidangan ini berasal dari Shandong, Tiongkok.[^3]
 
 Kesalahan ini bermula dari tertukarnya aksara "滷" (lu, merebus dalam kuah berbumbu) dengan "魯" (lu, yang umum merujuk pada 魯菜 alias masakan Shandong). Karena "魯" adalah singkatan Provinsi Shandong, penyusunnya membuat asosiasi keliru. Peristiwa ini memicu reaksi keras masyarakat Taiwan; Wali Kota Taipei saat itu, Hau Lung-pin, secara terbuka meluruskan bahwa "lu rou fan adalah makanan rakyat asli Taiwan" dan menuntut koreksi dari Michelin. Kegaduhan itu menjadi tonggak penting Taiwan dalam meneguhkan identitas budaya kulinernya sendiri.
 
@@ -78,10 +86,10 @@ Dari rasa rindu kampung halaman milik nenek-nenek juancun, ke makan siang penyem
 
 ## Bacaan Lanjutan
 
-- [Panorama Kuliner Taiwan](/food/台灣美食總覽) — peta menyeluruh dari masyarakat adat sampai Michelin: kenapa lu rou fan adalah faktor persekutuan terbesar dari cara orang Taiwan makan
-- [Niu Rou Mian](/food/牛肉麵) — makanan nasional lain yang juga dibawa masuk ke Taiwan oleh imigran waishengren 1949, berbagi garis keturunan juancun dengan lu rou fan
-- [Budaya Sarapan Taiwan](/food/台灣早餐文化) — dari shaobing youtiao sampai burger dan onigiri, sisi lain dari peleburan kuliner Taiwan
-- [Kepindahan Pemerintah Nasionalis ke Taiwan dan Rekonstruksi Pascaperang](/history/國民政府遷台與戰後重建) — latar sejarah kelahiran lu rou fan, penataan ulang pola makan akibat 1,2 juta tentara dan warga sipil yang pindah ke selatan
+- [Panorama Kuliner Taiwan](/id/food/taiwan-food-overview) — peta menyeluruh dari masyarakat adat sampai Michelin: kenapa lu rou fan adalah faktor persekutuan terbesar dari cara orang Taiwan makan
+- [Niu Rou Mian](/id/food/beef-noodle-soup) — makanan nasional lain yang juga dibawa masuk ke Taiwan oleh imigran waishengren 1949, berbagi garis keturunan juancun dengan lu rou fan
+- [Budaya Sarapan Taiwan](/id/food/taiwan-breakfast-culture) — dari shaobing youtiao sampai burger dan onigiri, sisi lain dari peleburan kuliner Taiwan
+- [Kepindahan Pemerintah Nasionalis ke Taiwan dan Rekonstruksi Pascaperang](/id/history/kmt-government-relocation-and-postwar-reconstruction) — latar sejarah kelahiran lu rou fan, penataan ulang pola makan akibat 1,2 juta tentara dan warga sipil yang pindah ke selatan
 
 ## Daftar Pustaka
 
@@ -89,7 +97,7 @@ Dari rasa rindu kampung halaman milik nenek-nenek juancun, ke makan siang penyem
 
 [^2]: [Wikipedia: 滷肉飯](https://zh.wikipedia.org/zh-tw/%E6%BB%B7%E8%82%89%E9%A3%AF) — mencatat perbedaan nama dan cara pembuatan antara "lu rou fan" di Taiwan utara dan "rou zao fan" di Taiwan selatan.
 
-[^3]: [Wikipedia: 滷肉飯](https://zh.wikipedia.org/zh-tw/%E6%BB%B7%E8%82%89%E9%A3%AF) — mencatat secara rinci insiden salah kabar "berasal dari Shandong" dalam *Panduan Michelin* 2011.
+[^3]: [Wikipedia: 滷肉飯](https://zh.wikipedia.org/zh-tw/%E6%BB%B7%E8%82%89%E9%A3%AF) — mencatat secara rinci insiden salah kabar "berasal dari Shandong" dalam _Panduan Michelin_ 2011.
 
 [^4]: [CNN Travel: Taiwan's 40 best foods and drinks](https://edition.cnn.com/travel/article/40-taiwan-food/index.html) — CNN memilih 40 makanan Taiwan yang tak tergantikan, dengan lu rou fan di peringkat teratas, menegaskan posisi internasionalnya sebagai makanan nasional.
 

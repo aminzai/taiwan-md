@@ -17,7 +17,7 @@ tags:
     'Féodalisme du cloud',
     'Souveraineté numérique',
   ]
-subcategory: 'Communautés et culture numérique'
+subcategory: '社群與數位文化'
 author: 'p3nchan'
 featured: true
 lastVerified: 2026-06-15

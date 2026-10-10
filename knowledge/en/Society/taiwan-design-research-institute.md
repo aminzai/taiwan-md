@@ -13,7 +13,7 @@ tags:
     'Chiang Chi-yi',
     'Gold Point Design Award',
   ]
-subcategory: 'Design & Public Governance'
+subcategory: '設計與公共治理'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-04
@@ -31,6 +31,7 @@ rationale:
 translatedFrom: 'Society/台灣設計研究院.md'
 sourceCommitSha: 'fa44ba5a9'
 sourceContentHash: 'sha256:31f2d67654f5ca72'
+sourceBodyHash: 'sha256:f7df18837078b48f'
 translatedAt: '2026-09-18T12:52:10.547161+00:00'
 ---
 
@@ -158,7 +159,7 @@ The font on the ballot you hold is Siyuan Black. You probably didn't know that u
 - [Taiwanese Industrial Transformation and Upgrading](/en/economy/industrial-transformation-from-manufacturing-to-innovation) — The entire story of moving from a contract manufacturing island to high added value; what the Institute of Design was betting on is one thread less often discussed along this path.
 - [Public Television](/en/society/pts-public-television-service) — Also a public corporation, an institution that walks a tightrope between "publicness" and "scrutiny."
 - [Taiwanese Architecture](/en/art/taiwanese-architecture) — The field of Chang Chi-yi; understanding why an architect believes that spatial design can change the distance between government and the people.
-- [Academia Sinica](/society/中央研究院) — Also a research institution funded by the state, but one placed under the Presidential Office versus one under a ministry, with different capabilities and different questions being asked of it.
+- [Academia Sinica](/en/society/academia-sinica) — Also a research institution funded by the state, but one placed under the Presidential Office versus one under a ministry, with different capabilities and different questions being asked of it.
 
 ## Image Sources
 

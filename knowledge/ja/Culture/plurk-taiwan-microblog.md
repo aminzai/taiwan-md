@@ -3,7 +3,7 @@ title: '噗浪 Plurk'
 description: '2008年にサービスを開始したマイクロブログ「噗浪（Plurk）」は、横スクロールする「河道」タイムラインとアルゴリズムによる配信を一切行わない設計で、FacebookとTwitterが世界を席巻した10年間を生き延びた。2016年にGoogleアドネットワークから永久遮断された後、「噗幣（プルコイン）」有料会員制を導入して黒字転換を果たした——台湾のユーザーたちが自らの手で、このアルゴリズムに縛られない河道を守り続けている。'
 date: 2026-04-01
 tags: ['ソーシャルメディア', 'オタク文化', '台湾インターネット史', 'プルコイン']
-subcategory: 'デジタル生活'
+subcategory: '數位生活'
 category: 'Culture'
 author: 'Taiwan.md Contributors'
 featured: false

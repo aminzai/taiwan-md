@@ -177,7 +177,7 @@ La formation et la diffusion des mèmes de Ma Ying-jeou ne sont pas seulement un
 
 [^9]: [自由時報電子報 — 馬勘災民哭喊：全家投你為何見你這麼難](https://news.ltn.com.tw/news/focus/paper/326339) — 11 août 2009, article/notice, documentant les événements d'origine du mème et sa diffusion en ligne
 
-[^10]: [Yahoo新聞 — 眼尖看見馬題字「自求多福」 柯P大笑](https://tw.news.yahoo.com/%E7%9C%BC%E5%B0%96%E7%9C%8B%E8%A6%8B%E9%A6%AC%E9%A1%8D%E5%AD%97-%E8%87%AA%E6%B1%82%E5%A4%9A%E7%A6%8F-%E6%9F%AFp%E5%A4%A7%E7%AC%91-072241305.html) — 4 avril 2015, article/notice, documentant les événements d'origine du mème et sa diffusion en ligne
+[^10]: [Yahoo新聞 — 眼尖看見馬題字「自求多福」 柯P大笑](https://tw.news.yahoo.com/%E7%9C%BC%E5%B0%96%E7%9C%8B%E8%A6%8B%E9%A6%AC%E9%A1%8C%E5%AD%97-%E8%87%AA%E6%B1%82%E5%A4%9A%E7%A6%8F-%E6%9F%AFp%E5%A4%A7%E7%AC%91-072241305.html) — 4 avril 2015, article/notice, documentant les événements d'origine du mème et sa diffusion en ligne
 
 [^11]: [TVBS NEWS — 馬英九高雄助選凸槌! 喊「下架國民黨」旁人提醒急更正｜TVBS新聞](https://www.youtube.com/watch?v=t4yOwhwR94Q) — 7 janvier 2024, article/notice, documentant les événements d'origine du mème et sa diffusion en ligne
 

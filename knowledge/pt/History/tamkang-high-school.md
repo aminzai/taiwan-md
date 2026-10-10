@@ -4,7 +4,7 @@ description: 'O que mais vale a pena escrever sobre a Tamkang High School não �
 date: 2026-03-24
 author: 'Terry'
 category: 'History'
-subcategory: 'Colonização e Império'
+subcategory: '殖民與帝國'
 tags:
   [
     'Tamsui',

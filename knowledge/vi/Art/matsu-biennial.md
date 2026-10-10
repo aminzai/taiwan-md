@@ -225,13 +225,13 @@ Ngày 22 tháng 7 năm 2026, Trưởng Huyện Vương Trung Minh dẫn đội t
 
 **Đọc thêm:**
 
-- [Liên Giang Huyện](/geography/連江縣) — Phiên bản đầy đủ của tường thuật chung chỉ về Mã Tổ, bối cảnh lịch sử chính vụ chiến trường và địa chính trị Chiến tranh Lạnh
-- [Kim Môn Huyện](/geography/金門縣) — Một đảo trước tuyến khác, có thể đối chiếu sự khác biệt của đường chuyển loại hình chiến trường hai địa phương
-- [Thời kỳ Thiết quân luật](/history/戒嚴時期) — Khu vực Kim Môn chỉ bỏ chính vụ chiến trường năm 1992, muộn hơn Đài Loan năm năm
-- [Khủng hoảng Đài Hải Và Sự phát triển Quan hệ hai bờ](/history/台海危機與兩岸關係發展) — Bối cảnh đầy đủ của Pháo chiến Tám Tháng Hai Mươi Ba và "Đơn Đánh Đôi Không Đánh"
-- [Bảo tàng Mỹ thuật Tân Bắc](/art/新北市美術館) — Một tác phẩm bảo tàng công cộng khác cũng kéo co giữa tầm nhìn kiến trúc và tranh chấp ngân sách
-- [Những Người Curation Đài Loan Và Xây dựng Văn hóa Nghệ thuật](/art/台灣策展人與藝術文化建構) — Lịch sử tiến hóa ba mươi năm thể chế curation Đài Loan
-- [Đảo Xa Và Văn Hóa Biển](/geography/離島與海洋文化) — Cách nhìn tường thuật chung của văn hóa biển đảo xa Đài Loan
+- [Liên Giang Huyện](/vi/geography/lienchiang-county) — Phiên bản đầy đủ của tường thuật chung chỉ về Mã Tổ, bối cảnh lịch sử chính vụ chiến trường và địa chính trị Chiến tranh Lạnh
+- [Kim Môn Huyện](/vi/geography/kinmen-county) — Một đảo trước tuyến khác, có thể đối chiếu sự khác biệt của đường chuyển loại hình chiến trường hai địa phương
+- [Thời kỳ Thiết quân luật](/vi/history/martial-law-era) — Khu vực Kim Môn chỉ bỏ chính vụ chiến trường năm 1992, muộn hơn Đài Loan năm năm
+- [Khủng hoảng Đài Hải Và Sự phát triển Quan hệ hai bờ](/vi/history/taiwan-strait-crises-and-cross-strait-relations) — Bối cảnh đầy đủ của Pháo chiến Tám Tháng Hai Mươi Ba và "Đơn Đánh Đôi Không Đánh"
+- [Bảo tàng Mỹ thuật Tân Bắc](/vi/art/new-taipei-city-museum-of-art) — Một tác phẩm bảo tàng công cộng khác cũng kéo co giữa tầm nhìn kiến trúc và tranh chấp ngân sách
+- [Những Người Curation Đài Loan Và Xây dựng Văn hóa Nghệ thuật](/vi/art/taiwanese-curators-and-artistic-cultural-construction) — Lịch sử tiến hóa ba mươi năm thể chế curation Đài Loan
+- [Đảo Xa Và Văn Hóa Biển](/vi/geography/offshore-islands-and-maritime-culture) — Cách nhìn tường thuật chung của văn hóa biển đảo xa Đài Loan
 
 ## Nguồn hình ảnh
 

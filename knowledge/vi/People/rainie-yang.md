@@ -26,7 +26,7 @@ tags:
     'Phối Hợp Phục Vụ Gió Phá Sóng Cô Gái',
     'Cho Yêu Khởi Thành',
   ]
-subcategory: 'Âm nhạc và Biểu diễn'
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-18
@@ -240,11 +240,11 @@ Mỗi một sân, đều là sân cô đã đàm phán với \"bị ai định n
 
 ## Đọc Thêm
 
-- [Trương Hiến Và An Phô](/music/trương-hiến-với-an-phô) — Một nữ ca sĩ Đài Loan khác đi từ cô gái trẻ đến danh tính người tác giả hoàn chỉnh, so sánh hai con đường \"từ bị định nghĩa đến tự định nghĩa\"
-- [Ngụy Như Tuyến](/people/ngụy-như-tuyến) — Thế hệ cùng lứa giành hai giải Kim Nhạc nữ ca sĩ Quốc Ngữ hay nhất, hình thành \"thị trường vs học viện\" so sánh cấu trúc với Rainie Yang
-- [Âm Nhạc Pop Hoa Ngữ Đài Loan](/music/âm-nhạc-pop-hoa-ngữ-đài-loan) — Cấu trúc ngành công nghiệp nhạc pop Hoa ngữ và bối cảnh lịch sử vị trí kép phim lãng mạn/ca sĩ
-- [Văn Hóa Karaoke Đài Loan](/music/văn-hóa-karaoke-đài-loan) — Bối cảnh xã hội năm 2005 khi 〈Ambiguous〉 trở thành vua điểm karaoke, và vai trò của karaoke như một nút chuyển tiếp truyền tải nhạc pop Hoa ngữ
-- [Thái Kiến Hạnh](/people/thái-kiến-hạnh) — Viết 〈Cô Đơn Là Một Cảm Giác An Toàn〉 cho Rainie Yang (2013), bốn lần nữ ca sĩ Kim Nhạc kết hợp danh tính nhà sản xuất
+- [Trương Hiến Và An Phô](/vi/music/deserts-chang-and-anpu) — Một nữ ca sĩ Đài Loan khác đi từ cô gái trẻ đến danh tính người tác giả hoàn chỉnh, so sánh hai con đường \"từ bị định nghĩa đến tự định nghĩa\"
+- [Ngụy Như Tuyến](/vi/people/waa-wei-singer) — Thế hệ cùng lứa giành hai giải Kim Nhạc nữ ca sĩ Quốc Ngữ hay nhất, hình thành \"thị trường vs học viện\" so sánh cấu trúc với Rainie Yang
+- [Âm Nhạc Pop Hoa Ngữ Đài Loan](/vi/music/golden-melodies-legacy-taiwan-pop-music) — Cấu trúc ngành công nghiệp nhạc pop Hoa ngữ và bối cảnh lịch sử vị trí kép phim lãng mạn/ca sĩ
+- [Văn Hóa Karaoke Đài Loan](/vi/music/ktv-culture) — Bối cảnh xã hội năm 2005 khi 〈Ambiguous〉 trở thành vua điểm karaoke, và vai trò của karaoke như một nút chuyển tiếp truyền tải nhạc pop Hoa ngữ
+- [Thái Kiến Hạnh](/vi/people/tanya-chua-singer) — Viết 〈Cô Đơn Là Một Cảm Giác An Toàn〉 cho Rainie Yang (2013), bốn lần nữ ca sĩ Kim Nhạc kết hợp danh tính nhà sản xuất
 
 ## Tài Liệu Tham Khảo
 

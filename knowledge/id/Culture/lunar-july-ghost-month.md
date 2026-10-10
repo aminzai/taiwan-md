@@ -4,7 +4,7 @@ description: "Di tengah musim panas tahun 2026, meja panjang masih digelar di ja
 date: 2026-07-20
 author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: 'Festival dan Tradisi'
+subcategory: '節慶與禮俗'
 tags:
   [
     'Bulan Ketujuh Kalender Imlek',
@@ -104,8 +104,8 @@ Ketika kita melihat di musim panas tahun 2026 bahwa meja persembahan kecil juga 
 
 ## Bacaan Lanjutan
 
-- [Hari Zhongyuan](/culture/zhongyuan) — Pembacaan sejarah Hari Zhongyuan sebagai perjanjian perdamaian sosial
-- [Hari Dongzhi](/culture/dongzhi) — Satu lagi festival yang didefinisikan ulang oleh Taiwan
+- [Hari Zhongyuan](/id/culture/ghost-festival-zhongyuan) — Pembacaan sejarah Hari Zhongyuan sebagai perjanjian perdamaian sosial
+- [Hari Dongzhi](/id/culture/dragon-boat-festival) — Satu lagi festival yang didefinisikan ulang oleh Taiwan
 
 ## Referensi
 
@@ -123,7 +123,7 @@ Ketika kita melihat di musim panas tahun 2026 bahwa meja persembahan kecil juga 
 
 [^7]: [Fakta Ilmiah Larangan Bulan Ketujuh - Febico](https://shop.febico.com.tw/blogs/article_knowledge/201040) — Menganalisis larangan tradisional dari sudut pandang kesehatan dan psikologi.
 
-[^8]: [Ringkasan Tradisi Bulan Hantu - Yahoo News](https://tw.news.yahoo.com/%E8%BE%B2%E6%9C%887%E6%9C%88%E6%9B%9B%E5%BE%85%E5%A5%BD%E5%85%84%E5%BC%9F-%E6%96%B0%E7%AB%B9%E9%83%BD%E5%9F%8E%E9%9A%8D%E5%BB%9F%E9%96%8B%E8%99%8E%E9%96%80-%E5%A4%AF%E6%9E%B7%E5%84%80%E5%BC%8F%E4%B8%8B%E5%8D%88%E7%99%BB%E5%A0%B4-223326523.html) — Mengenai larangan ujung sepatu menghadap tempat tidur dan detail lainnya.
+[^8]: [Ringkasan Tradisi Bulan Hantu - Yahoo News](https://tw.news.yahoo.com/%E8%BE%B2%E6%9B%867%E6%9C%88%E6%8B%9B%E5%BE%85%E5%A5%BD%E5%85%84%E5%BC%9F-%E6%96%B0%E7%AB%B9%E9%83%BD%E5%9F%8E%E9%9A%8D%E5%BB%9F%E9%96%8B%E8%99%8E%E9%96%80-%E5%A4%AF%E6%9E%B7%E5%84%80%E5%BC%8F%E4%B8%8B%E5%8D%88%E7%99%BB%E5%A0%B4-223326523.html) — Mengenai larangan ujung sepatu menghadap tempat tidur dan detail lainnya.
 
 [^9]: [【Gerbang Hantu 2025】Asal-usul dan Larangan Hari Zhongyuan - YouTube](https://www.youtube.com/watch?v=5qBuGxFDOD0) — Video menganalisis pemahaman masyarakat modern tentang larangan Bulan Hantu.
 

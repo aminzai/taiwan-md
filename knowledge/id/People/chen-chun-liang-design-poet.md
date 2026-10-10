@@ -74,4 +74,4 @@ Dia juga menyusun wawasan kreatif, menulis disertasi desain, mengeksplorasi jala
 ## Bacaan Lanjutan
 
 - [Freeimage Design Co., Ltd. — Taiwan Company Network](https://www.twincn.com/item.aspx?no=84491727) — Data pendaftaran perusahaan Freeimage Design (FREEIMAGE DESIGN CO., LTD.)
-- [Fang Hsu-chung](/people/方序中) — Desainer visual Taiwan sebaya, pembuat identitas visual Penghargaan Golden Melody Awards dan Penghargaan Golden Horse Awards
+- [Fang Hsu-chung](/id/people/fang-hsu-chung) — Desainer visual Taiwan sebaya, pembuat identitas visual Penghargaan Golden Melody Awards dan Penghargaan Golden Horse Awards

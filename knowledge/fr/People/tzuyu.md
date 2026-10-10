@@ -12,7 +12,7 @@ tags:
     Identité taïwanaise,
     Musique pop,
   ]
-subcategory: 'Musique et spectacle'
+subcategory: '音樂與表演'
 category: People
 author: 'Taiwan.md'
 readingTime: 16
@@ -219,7 +219,7 @@ Et cette île, depuis cette nuit du 15 janvier, a appris à finir les phrases de
 
 [^4]: [她的一句對不起 撼動台灣大選 解密 南台灣醫美小公主周子瑜 - 今周刊](https://www.businesstoday.com.tw/article/category/80392/post/201601210022/) — Reportage approfondi de Business Today (2016) reconstituant l'ensemble de l'affaire à partir de la chronologie du message Weibo de Huang An et du contexte familial de Tzu-yu.
 
-[^5]: [黃安 (藝人) - 維基百科](<https://zh.wikipedia.org/wiki/黃安_(藝人)>) — Article Wikipedia sur Huang An : effondrement de sa carrière taïwanaise dans les années 1990, installation en Chine, signalement nommé de Zhong Yuchen au Bureau des affaires de Taïwan en 2015.
+[^5]: [黃安 (藝人) - 維基百科](https://zh.wikipedia.org/wiki/黃安_(藝人) — Article Wikipedia sur Huang An : effondrement de sa carrière taïwanaise dans les années 1990, installation en Chine, signalement nommé de Zhong Yuchen au Bureau des affaires de Taïwan en 2015.
 
 [^6]: [完整闡述周子瑜事件 BBC：蔡勝選的助力之一 - 自由時報](https://news.ltn.com.tw/news/world/breakingnews/1577328) — Liberty Times (2016) citant le reportage de BBC Chinese sur la manière dont la vidéo d'excuses a contribué à la victoire de Tsai Ing-wen.
 
@@ -241,7 +241,7 @@ Et cette île, depuis cette nuit du 15 janvier, a appris à finir les phrases de
 
 [^15]: [世界で最も美しい顔ベスト100(2019年版) - Gigazine](https://gigazine.net/news/20191228-most-beautiful-face-2019) — Gigazine (2019), classement TC Candler des 100 plus beaux visages du monde : Tzu-yu devient première femme asiatique à décrocher la première place.
 
-[^16]: [宋芸樺「中國人」風暴擴大！周子瑜媽過來人首度表態 - Yahoo](https://tw.news.yahoo.com/%E5%AE%8B%E8%8A%B8%E6%A8%BA-%E4%B8%AD%E5%9C%8B%E4%BA%BA-%E9%A2%A8%E6%9A%B4%E6%93%B4%E5%A4%A7-%E5%91%A8%E5%AD%90%E7%91%9C%E5%AA%BD%E9%81%8E%E4%BB%A5%E4%BA%BA%E9%A6%96%E5%BA%A6%E8%A1%A8%E6%85%8B%E4%BA%86-060000442.html) — Yahoo (2018), réponse de la mère de Tzu-yu, Huang Yen-ling, à l'incident similaire impliquant Eugenie Liu : « Les questions politiques, je n'en parle pas. »
+[^16]: [宋芸樺「中國人」風暴擴大！周子瑜媽過來人首度表態 - Yahoo](https://tw.news.yahoo.com/%E5%AE%8B%E8%8A%B8%E6%A8%BA-%E4%B8%AD%E5%9C%8B%E4%BA%BA-%E9%A2%A8%E6%9A%B4%E6%93%B4%E5%A4%A7-%E5%91%A8%E5%AD%90%E7%91%9C%E5%AA%BD%E9%81%8E%E4%BE%86%E4%BA%BA%E9%A6%96%E5%BA%A6%E8%A1%A8%E6%85%8B%E4%BA%86-060000442.html) — Yahoo (2018), réponse de la mère de Tzu-yu, Huang Yen-ling, à l'incident similaire impliquant Eugenie Liu : « Les questions politiques, je n'en parle pas. »
 
 [^17]: [台灣第一人！子瑜IG追蹤破千萬 TWICE團員僅輸她 - mnews](https://www.mnews.tw/story/20230307nm010) — mnews (2023), compte @thinkaboutzu de Tzu-yu dépasse le million d'abonnés, deuxième artiste taïwanaise derrière Jay Chou.
 

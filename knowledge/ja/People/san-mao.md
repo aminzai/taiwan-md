@@ -134,7 +134,7 @@ translatedAt: '2026-10-10T16:54:46+08:00'
 - [台湾エッセイ](/ja/art/taiwanese-prose)：三毛が占めた文類の版図
 - [席慕蓉](/ja/people/ximurong)：同時代に異郷を台湾人の心に書き込んだもう一人の女性作家
 
-## 參考資料
+## 参考資料
 
 [^1]: [ウィキペディア：三毛 (作家)](https://zh.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6) — 基本経歴、創作年表、文学的評価
 

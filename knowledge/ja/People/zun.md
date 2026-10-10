@@ -12,7 +12,7 @@ tags:
     'インドア生活',
     'デジタル文化',
   ]
-subcategory: 'デジタルとメディア'
+subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-15
@@ -25,6 +25,7 @@ relatedDiary: ['2026-07-15-191335-manual']
 translatedFrom: 'People/尊.md'
 sourceCommitSha: 'b67b190fb'
 sourceContentHash: 'sha256:794334037b957586'
+sourceBodyHash: 'sha256:f9ebc993a34e1749'
 translatedAt: '2026-09-12T11:31:24.386838+00:00'
 ---
 

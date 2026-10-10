@@ -214,7 +214,7 @@ EUの『重要原材料法』はすでにタングステンを17の戦略原材�
 - [2023 Noże z węglika wolframu](https://commons.wikimedia.org/wiki/File:2023_No%C5%BCe_z_w%C4%99glika_wolframu.jpg) — Photo: Jacek Halicki, 2023-03-25, CC BY-SA 4.0, Wikimedia Commons file 2023_Noże_z_węglika_wolframu.jpg
 - [Tungsten (Element - 74)](https://commons.wikimedia.org/wiki/File:Tungsten_%28Element_-_74%29.jpg) — Photo: James St. John, 2024-09-28, CC BY 2.0, Wikimedia Commons file Tungsten*(Element*-\_74).jpg
 
-## 參考資料
+## 参考資料
 
 [^1]: [百科知識 — タングステンフィラメント](https://www.jendow.com.tw/wiki/%E9%8E%A2%E7%B5%B2) — 中国語科普項目、白熱電球タングステンフィラメント作動温度約摂氏2,200〜2,500度と記載；一次技術文書ではなく、数値はオーダー参考用
 

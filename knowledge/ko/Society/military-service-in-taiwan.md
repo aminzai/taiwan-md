@@ -4,7 +4,7 @@ description: "1945년 이후 타이완의 병역은 3년에서 4개월로 단축
 date: 2026-07-17
 author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '사회제도'
+subcategory: '社會制度'
 tags: ['병역', '국방', '의무복무', '한빛연습', '금마상']
 readingTime: 12
 lastVerified: 2026-07-17

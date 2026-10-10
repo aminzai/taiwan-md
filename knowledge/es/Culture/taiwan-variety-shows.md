@@ -108,7 +108,7 @@ Si en 1962 "Qunxiong Hui" hizo lo de trasladar el teatro de canto a la sala de e
 ## Lecturas relacionadas
 
 - [Lin Youjia](/es/people/yoga-lin) — Campeona del primer año del concurso de talentos televisivos "Chāojí Xīngguāng Dàtí" en 2007, uno de los casos más representativos del mecanismo de creación de estrellas en Taiwán
-- [Premios Golden Bell](/culture/金鐘獎) — Las estatuillas que se entregan anualmente en los premios de la categoría de programas, que han evolucionado desde ser premios de radio puros en 1965 hasta los tres eventos actuales
+- [Premios Golden Bell](/es/culture/golden-bell-awards) — Las estatuillas que se entregan anualmente en los premios de la categoría de programas, que han evolucionado desde ser premios de radio puros en 1965 hasta los tres eventos actuales
 
 ## Fuentes
 

@@ -18,7 +18,7 @@ tags:
     'Тур «Тянь Дяо»',
     'Хакка',
   ]
-subcategory: 'Музыка и исполнение'
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-26
@@ -32,6 +32,7 @@ sporeLinks:
 translatedFrom: 'People/田馥甄.md'
 sourceCommitSha: '380c49d7e'
 sourceContentHash: 'sha256:9f8381739b864e8b'
+sourceBodyHash: 'sha256:0f8970c54b5cd9d2'
 translatedAt: '2026-09-13T03:00:48.471224+00:00'
 ---
 

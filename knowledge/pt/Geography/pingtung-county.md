@@ -212,9 +212,9 @@ Da próxima vez que for a Pingtung, pode passar por Wanjin, pode caminhar pelo C
 - [Condado de Penghu (澎湖縣)](/pt/geography/penghu-county) — Série 22 condados e cidades: ilha que duas vezes recusou cassino, escolha soberana de ilha periférica, igual a Pingtung mesma identidade geográfica de "esquecido no extremo sul/oeste"
 - [Cidade de Keelung (基隆市)](/pt/geography/keelung-city) — Série 22 condados e cidades: outra cidade portuária que a capital não enxerga, igual a Pingtung mesmo nó-chave que a narrativa central deixa escapar
 - [Condado de Lienchiang (連江縣)](/pt/geography/lienchiang-county) — Série 22 condados e cidades: patrimônio de guerra e distância da narrativa mainstream, pode ler em paralelo com as memórias em camadas do Incidente de Mudan/Santuário de Kuskus em Pingtung
-- [Wei Te-sheng (魏德聖)](/people/魏德聖) — "Cape No. 7" filmado em Hengchun rendeu 530 milhões, escreveu a península do sul de Taiwan na memória cinematográfica nacional
-- [Cultura voluntária de desastres de Taiwan (台灣災難志工文化)](/society/台灣災難志工文化) — Como o desastre duplo de montanha e costa do 88 remodelou a rede de resgate de Taiwan
-- [Tufão (颱風)](/nature/颱風) — O recorde de 1.897 mm/dia do Morakot é ponto de virada na relação de Taiwan com tufões
+- [Wei Te-sheng (魏德聖)](/pt/people/wei-te-sheng-taiwanese-epic-filmmaker) — "Cape No. 7" filmado em Hengchun rendeu 530 milhões, escreveu a península do sul de Taiwan na memória cinematográfica nacional
+- [Cultura voluntária de desastres de Taiwan (台灣災難志工文化)](/pt/society/taiwan-disaster-volunteer-culture) — Como o desastre duplo de montanha e costa do 88 remodelou a rede de resgate de Taiwan
+- [Tufão (颱風)](/pt/nature/typhoons-in-taiwan) — O recorde de 1.897 mm/dia do Morakot é ponto de virada na relação de Taiwan com tufões
 
 ## Fontes das imagens
 

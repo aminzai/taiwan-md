@@ -114,11 +114,11 @@ Karier Jeremy Lin tidak pernah sesuai prediksi siapapun—termasuk dia sendiri. 
 
 **Baca Lebih Lanjut**:
 
-- [Kuo Hsing-chun (郭婞淳)](/people/郭婞淳) — Atlet Taiwan generasi sama, tiga medali Olimpiade, sebelas kali pecah rekor dunia angkat besi
+- [Kuo Hsing-chun (郭婞淳)](/id/people/kuo-hsing-chun-olympic-weightlifting-champion) — Atlet Taiwan generasi sama, tiga medali Olimpiade, sebelas kali pecah rekor dunia angkat besi
 - [Tai Tzu-ying (戴資穎)](/id/people/tai-tzu-ying) — Sama-sama berdiri di panggung dunia, ratu dunia bulu tangkis
 - [Jay Chou (周杰倫)](/id/people/jay-chou) — Wakil musik Taiwan hadir menghormati di upacara pensiun Jeremy Lin
 - [Hubungan Taiwan–Amerika Serikat](/society/台灣與美國關係) — Jeremy Lin sebagai keturunan Taiwan-Amerika, di baliknya trayektori generasi Taiwan kuliah ke AS pasca-1965
-- [Lee Yang (李洋)](/people/李洋) — Dari emas Olimpiade jadi Menteri Olahraga pertama, jalur karier atlet Taiwan lain
+- [Lee Yang (李洋)](/id/people/lee-yang-badminton) — Dari emas Olimpiade jadi Menteri Olahraga pertama, jalur karier atlet Taiwan lain
 
 ## Referensi
 

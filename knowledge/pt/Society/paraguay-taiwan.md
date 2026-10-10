@@ -104,8 +104,8 @@ Sessenta e nove anos de aliança diplomática não estão na retórica: estão n
 **Leitura complementar**:
 
 - [Aliados diplomáticos de Taiwan e diplomacia internacional](/pt/society/taiwan-diplomatic-allies-and-international-relations) — Panorama dos 12 aliados, postos no exterior e rede de isenção de visto
-- [Taiwan e Essuatíni](/society/台灣與史瓦帝尼) — Único aliado na África, outro caso de "cooperação de longo prazo e política frágil"
-- [Guerra cognitiva](/society/認知作戰) — Estrutura de operações de informação, linguagem e pressão da China na guerra diplomática contra Taiwan
+- [Taiwan e Essuatíni](/pt/society/taiwan-eswatini-relations) — Único aliado na África, outro caso de "cooperação de longo prazo e política frágil"
+- [Guerra cognitiva](/pt/society/cognitive-warfare-against-taiwan) — Estrutura de operações de informação, linguagem e pressão da China na guerra diplomática contra Taiwan
 - [Encontro Zheng-Xi 2026 e reencontro KMT-PCC após dez anos](/pt/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Dinâmica política cross-strait no mesmo período, para entender o contexto maior da pressão chinesa sobre Taiwan
 
 ## Fontes das imagens

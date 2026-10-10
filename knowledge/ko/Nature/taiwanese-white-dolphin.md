@@ -164,7 +164,7 @@ Greenpeace Taiwan의 특집은 백돌고래를 '마조어'라고 칭하며, 그 
 
 라이선스 상세: [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
 
-## 參考資料
+## 참고 자료
 
 [^1]: [해양보정부: 타이완 해역 백돌고래 보전专区](https://www.oca.gov.tw/ch/home.jsp?id=368&parentpath=0,296,360) — 해양보정부 공식 종 및 서식지专区, 중국백돌고래의 분류, 근해 하구 서식지, 763제곱킬로미터 중요 서식지 및 6가지 인간적 위협을 설명한다.
 

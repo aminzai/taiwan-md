@@ -121,7 +121,7 @@ Apa yang Zheng Nanrong tinggalkan adalah pertanyaan yang masih bisa diperdebatka
 
 **Pembacaan Lanjutan**
 
-- [Tseng Po-en](/people/曾博恩) — Pembawa acara ''Po-en Nightly Show'' pada Agustus 2019 mengutip segmen pembakaran diri Zheng Nanrong di Open Mic, memicu reaksi sosial yang keras, pertama kali menghentikan kolaborasi dengan STR Network
+- [Tseng Po-en](/id/people/bernard-tseng) — Pembawa acara ''Po-en Nightly Show'' pada Agustus 2019 mengutip segmen pembakaran diri Zheng Nanrong di Open Mic, memicu reaksi sosial yang keras, pertama kali menghentikan kolaborasi dengan STR Network
 - [Museum Hak Asasi Manusia Nasional](https://www.nhrm.gov.tw/) — Sejarah lisan Teror Putih dan gerakan demokrasi
 - Hu Hui-ling, ''Seratus Tahun Pencarian: Cerita Gerakan Demokrasi Taiwan'' — Catatan terperinci tentang Zheng Nanrong dan gerakan non-partai
 - [Yayasan Peringatan Peristiwa 228](https://www.228.org.tw/) — Keterkaitan keluarga Zheng Nanrong dengan Peristiwa 228

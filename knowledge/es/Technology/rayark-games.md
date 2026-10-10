@@ -29,6 +29,15 @@ featured: false
 image: '/article-images/technology/rayark-cafe-2021.webp'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Rayark_Café_20211016.jpg'
+sporeLinks:
+  - id: 89
+    platform: 'threads'
+    date: '2026-05-25'
+    url: 'https://www.threads.com/@taiwandotmd/post/DYwMkzBgW8k'
+  - id: 90
+    platform: 'x'
+    date: '2026-05-25'
+    url: 'https://x.com/taiwandotmd/status/2058811390337622339'
 translatedFrom: 'Technology/雷亞遊戲.md'
 sourceCommitSha: '31a05c44'
 sourceContentHash: 'sha256:efb74dfc78d9c93c'

@@ -20,7 +20,7 @@ tags:
   - 'poesía en hakka'
   - 'Ping-an-hsi'
   - 'literatura femenina'
-subcategory: 'Literatura y poetas / figuras de la cultura hakka'
+subcategory: '文學與詩人 / 客家文化人'
 author: 'Taiwan.md'
 featured: false
 canonical-order: 120

@@ -31,6 +31,7 @@ relatedDiary: ['2026-07-06-115400-acer-evolve']
 translatedFrom: 'Economy/台灣企業：宏碁.md'
 sourceCommitSha: 'a94bbcf6b'
 sourceContentHash: 'sha256:d376a35c550402b2'
+sourceBodyHash: 'sha256:51e7134a2abf4bcf'
 translatedAt: '2026-09-22T10:39:36.824797+00:00'
 ---
 
@@ -200,7 +201,7 @@ _Saluran resmi TEDxTaipei, 2012: Shih Zhen-rong "Membicarakan Jalan Raja dan Ko-
 
 **Bacaan Lanjutan**:
 
-- [Shi Zhen-rong](/people/施振榮) — Pendiri Acer yang menggambar Kurva Senyum dan melakukan penyelamatan dua kali, dari ayah teknologi menjadi penggiat kegiatan sosial
+- [Shi Zhen-rong](/id/people/stan-shih) — Pendiri Acer yang menggambar Kurva Senyum dan melakukan penyelamatan dua kali, dari ayah teknologi menjadi penggiat kegiatan sosial
 - [Perusahaan Taiwan: Wistron Global Manufacturing Transformation Pioneer](/id/economy/wistron-global-manufacturing-transformation-pioneer) — Perusahaan manufaktur kecil yang paling tidak menjanjikan saat pemisahan besar, perusahaan yang mencapai puncak kurva senyum di era AI
 - [Perusahaan Taiwan: Asus](/id/economy/asus-computer) — Kasus pembanding yang baru memisahkan diri pada tahun 2008 dan mengambil jalur pemisahan yang berbeda, kini kapitalisasinya melampaui Acer
 - [Computex: Tiga pameran komputer internasional meraih dua, sisanya tumbuh di Taipei](/id/technology/computex) — Panggung yang sama tempat Acer berfluktuasi selama tiga puluh tahun, sekaligus tuan rumah tahunan industri manufaktur Taiwan

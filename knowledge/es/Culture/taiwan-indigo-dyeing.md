@@ -208,7 +208,7 @@ Este artículo utiliza 5 imágenes licencia pública todo cache en `public/artic
 
 [^7]: [Sitio web Zhuoye sobre página](https://www.joye.com.tw/shop/about.php?PKey=18) — Datos área recuperación hierba producción anual pasta índigo proporción nacional
 
-[^8]: [Howdy.tw: Inscripciones borrosas antigua casa Sanxia esconden leyenda tintura siglo pasado](https://howdy.tw/2018/08/21/%E4%B8%89%E5%B3%BD%E5%8F%A4%E5%AE%85%E7%9A%84%E6%A8%A1%E7%B3%8A%E7%9F%B3%E5%88%BB-%E9%A9%9A%E8%97%8C%E4%B8%8A%E4%B8%96%E7%BA%AA%E7%9A%84%E8%97%8D%E6%9F%93%E5%82%B3%E5%A5%87/) — Cronología resurgimiento Sanxia 1990-1999 reclutamiento Ma Fen-mei Chen Ching-lin guía reporte literal
+[^8]: [Howdy.tw: Inscripciones borrosas antigua casa Sanxia esconden leyenda tintura siglo pasado](https://howdy.tw/2018/08/21/%E4%B8%89%E5%B3%BD%E5%8F%A4%E5%AE%85%E7%9A%84%E6%A8%A1%E7%B3%8A%E7%9F%B3%E5%88%BB-%E9%A9%9A%E8%97%8F%E4%B8%8A%E4%B8%96%E7%B4%80%E7%9A%84%E8%97%8D%E6%9F%93%E5%82%B3%E5%A5%87/) — Cronología resurgimiento Sanxia 1990-1999 reclutamiento Ma Fen-mei Chen Ching-lin guía reporte literal
 
 [^9]: [Archivo Memoria Cultural Nacional Ministerio Cultura: Artesanía índigo Sanxia](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Invisible&id=218457) — Iniciativa "Buscando pérdida índigo Sanxia" 1990; ascenso administrativo Nueva Taipéi 2010
 
@@ -242,7 +242,7 @@ Este artículo utiliza 5 imágenes licencia pública todo cache en `public/artic
 
 [^24]: [Revista Artesanía Taiwán: Desarrollo y metamorfosis industria índigo Sanxia (Lin Jiongren)](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclcdr&s=id=%22094NTPU0548006%22.&searchmode=basic) — Citación literal Wang Shiqing "Historia Hai Shan Parte I" (Revista Taipéi 37, 1976) "ramio índigo azul secundario"; mercancías principales exportación apertura puerto Balilong año Qianlong 57
 
-[^25]: [Wikipedia: Industria alcanfor Taiwán](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%A8%9F%E8%85%A6%E4%BA%A7%E6%A5%AD) — Marco exportación estándar después apertura puertos té azúcar alcanfor aprox 54%/36%/4%
+[^25]: [Wikipedia: Industria alcanfor Taiwán](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%A8%9F%E8%85%A6%E7%94%A2%E6%A5%AD) — Marco exportación estándar después apertura puertos té azúcar alcanfor aprox 54%/36%/4%
 
 [^26]: [Sistema de Valorización Conocimiento Disertaciones Taiwan: De tinte a tintorería (Cai Chenghao, 2002)](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclcdr&s=id=%22090NCNU0493002%22.&searchmode=basic) — Punto de inflexión años 1870 exportación tipo materias primas a productos terminados telas
 

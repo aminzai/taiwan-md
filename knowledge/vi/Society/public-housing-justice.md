@@ -11,7 +11,7 @@ tags:
     'Công lý thế hệ',
     'Nhà ở giá cả phải chăng',
   ]
-subcategory: 'Nhân quyền và bình đẳng'
+subcategory: '人權與平等'
 author: 'Taiwan.md'
 readingTime: 16
 featured: false
@@ -307,10 +307,10 @@ Mấy ông bà trong Hội đồng Thành phố Đào Viên lúc nhấn nút b�
 
 **Đọc mở rộng**:
 
-- [Nhà ở Xã hội với Công lý Cư trú](/society/nhà-ở-xã-hội-với-công-lý-cư-trú) — Từ năm 2016 về sau tuyến đường nhà ở xã hội "dành riêng cho cho thuê": Tám năm 20 vạn căn, xây dựng trực tiếp kèm theo bao thế chấp đại diện kép, thiết kế hợp sinh cách tránh để nhà ở xã hội dính nhãn (Bài em gái này, tiếp nối sau năm 2015 nhà ở quốc dân từ biệt của câu chuyện)
-- [Khủng hoảng Ít sinh của Đài Loan](/society/khủng-hoảng-ít-sinh-của-đài-loan) — Không mua được nhà kèm theo sinh không được con nhỏ chính là hai đầu của cùng một vết nứt cấu trúc, khía cạnh khác của công lý thế hệ
-- [Tôn Nhà Tay Múi](/society/tôn-nhà-tay-múi) — Khi không mua được cũng không thuê ổn định, dân Đài Loan cách nào để tự cho mình cẩn tạo nơi trú ẩn khó khăn nhất
-- [Công lý Làm việc Hạn chế Đào Viên kèm theo Tranh chấp Kỵ Hàng xóm](/society/công-lý-làm-việc-hạn-chế-đào-viên-kèm-theo-tranh-chấp-kỵ-hàng-xóm) — Nhà ở xã hội, trang thiết bị ghét lắp đặt tại cạnh nhà ai, công lý cư trú kèm theo công lý không gian của giao được
+- [Nhà ở Xã hội với Công lý Cư trú](/vi/society/social-housing-and-housing-justice) — Từ năm 2016 về sau tuyến đường nhà ở xã hội "dành riêng cho cho thuê": Tám năm 20 vạn căn, xây dựng trực tiếp kèm theo bao thế chấp đại diện kép, thiết kế hợp sinh cách tránh để nhà ở xã hội dính nhãn (Bài em gái này, tiếp nối sau năm 2015 nhà ở quốc dân từ biệt của câu chuyện)
+- [Khủng hoảng Ít sinh của Đài Loan](/vi/society/taiwan-low-birth-rate-crisis) — Không mua được nhà kèm theo sinh không được con nhỏ chính là hai đầu của cùng một vết nứt cấu trúc, khía cạnh khác của công lý thế hệ
+- [Tôn Nhà Tay Múi](/vi/society/taiwan-tin-shed-houses) — Khi không mua được cũng không thuê ổn định, dân Đài Loan cách nào để tự cho mình cẩn tạo nơi trú ẩn khó khăn nhất
+- [Công lý Làm việc Hạn chế Đào Viên kèm theo Tranh chấp Kỵ Hàng xóm](/vi/society/taiwan-environmental-justice-nimby-conflicts) — Nhà ở xã hội, trang thiết bị ghét lắp đặt tại cạnh nhà ai, công lý cư trú kèm theo công lý không gian của giao được
 
 ## Công khai Dữ liệu
 
@@ -342,7 +342,7 @@ Bài viết sử dụng 8 hình ảnh tạo tác CC Giấy phép, toàn bộ cac
 
 [^3]: [Viện Hành pháp Hủy bỏ Quốc dân Nhà ở Điều lệ Thông báo (Viện Hành pháp)](https://www.ey.gov.tw/Page/9277F759E41CCD91/d4afaf10-ece5-4b4f-9482-35ce16bdc657) — Chính thức Giải thích Quốc dân nhà ở Điều lệ 1975 năm Công bố, Tiền Thân 1957 năm Khoản Vay Điều lệ, 1999 năm Vì Lý Do Không Bán được Kèm theo Dân Chúng Chỉ Trích Dừng Lại Xây Dựng, Cộng với Hủy bỏ Lúc Tự Dân Quốc 65 năm Bắt Đầu Tích Lũy Khoảng 39 Vạn Hộ Hơn, Giúp Đỡ Khoảng 158 Vạn Người Quy Mô Dữ liệu Rộng.
 
-[^4]: [Quốc dân Nhà ở Điều lệ (Dân Quốc 64 năm) (Viki Văn Thư Khố)](https://zh.wikisource.org/zh-hant/國民住宅條例_(民國64年) — ) — )) — 1975 năm Gốc Văn Bản Một Tay Nguồn gốc, Bao gồm Phần thứ 3 Quốc dân nhà ở Bán Lại Cho Thuê Đối tượng Thu nhập Thấp Hơn Gia đình Kèm theo Quân đội Chính phủ Giáo dục Gia đình, Phần 12 Chuyển Nhượng Cần Chính thức Cơ quan Chủ Quản Đồng ý Kèm theo Người Nhận Chuyển Nhượng Phải Quốc dân Nhà ở Mua Điều kiện Đóng Vòng Thiết kế
+[^4]: [Quốc dân Nhà ở Điều lệ (Dân Quốc 64 năm) (Viki Văn Thư Khố)](<https://zh.wikisource.org/zh-hant/國民住宅條例_(民國64年)>) — ) — )) — 1975 năm Gốc Văn Bản Một Tay Nguồn gốc, Bao gồm Phần thứ 3 Quốc dân nhà ở Bán Lại Cho Thuê Đối tượng Thu nhập Thấp Hơn Gia đình Kèm theo Quân đội Chính phủ Giáo dục Gia đình, Phần 12 Chuyển Nhượng Cần Chính thức Cơ quan Chủ Quản Đồng ý Kèm theo Người Nhận Chuyển Nhượng Phải Quốc dân Nhà ở Mua Điều kiện Đóng Vòng Thiết kế
 
 [^5]: [Quốc dân Nhà ở Điều lệ 1982 năm Phiên Bản Phần 19, 21 (Pháp Nguồn Luật Tề Mạng)](https://www.lawbank.com.tw/treatise/lawrela.aspx?lsid=FL003760&ldate=19820730&lno=19,21) — 1982 năm Lớn Sửa Điều Văn Bản Một Tay Nguồn gốc, Phần 19 Thêm Vào Ở được 2 năm Mới có Thể Chuyển Nhượng Hạn chế, Phần 21 Để Chính phủ Bắt buộc Thu hồi Vi phạm Hộ Gia đình Lúc "Gốc Mua Giá Khấu hao Trừ đi" Bù cấp Tính giá Công thức (Phi Chuyển Nhượng Giá Trên Giới hạn).
 

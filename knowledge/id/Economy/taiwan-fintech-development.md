@@ -13,7 +13,7 @@ tags:
     'Bank Online Murni',
     'Pembayaran Elektronik',
   ]
-subcategory: 'Keuangan dan Teknologi'
+subcategory: '金融與科技'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-06

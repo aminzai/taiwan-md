@@ -29,6 +29,7 @@ relatedDiary: ['2026-06-24-153210-大安溪倚天劍-rewrite']
 translatedFrom: 'Nature/大安溪倚天劍.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:c15c81ec44174b35'
+sourceBodyHash: 'sha256:5dcfd938f21ea513'
 translatedAt: '2026-09-20T03:03:56.464037+00:00'
 ---
 
@@ -220,7 +221,7 @@ Und jetzt, über dem namenlosen tiefen Tal am Ursprung des Da'anxi (大安溪), 
 - [Tawnyfishauke](/de/nature/tawny-fish-owl) — Auch der größte Eule Taiwans lebt in dem Spalt, in dem „die Riesenbäume noch nicht gefällt sind und der Bach noch nicht reguliert wurde“, da er von alten Bäumen in mittlerer Höhe und unversiegelten Bächen abhängig ist.
 - [Formosan Landlocked Salmon](/de/nature/formosan-landlocked-salmon) — Ein weiterer Überlebender aus der Eiszeit, der im Einzugsgebiet des Seven Bays Stream unterhalb des Xueba lebt.
 - [Taiwanese Black Bear](/de/nature/taiwanese-black-bear) — Ein weiterer Indikator für die Vollständigkeit der Wälder Taiwans, der ebenfalls von großen, unberührten Primärwäldern abhängig ist.
-- [Taiwan Forest Ecosystem](/nature/台灣森林生態系) — Die ökologische Koordinate des Nebelwaldgürtels, der wertvollen Nadelbäume und Riesenbäumen; _Yitianjian_ ist der Höhepunkt dieses Systems.
+- [Taiwan Forest Ecosystem](/de/nature/taiwan-forest-ecosystems) — Die ökologische Koordinate des Nebelwaldgürtels, der wertvollen Nadelbäume und Riesenbäumen; _Yitianjian_ ist der Höhepunkt dieses Systems.
 - [Taiwan National Parks](/de/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — Der Xueba Nationalpark und die Zuständigkeit des Forst- und Naturschutzamtes sind die letzten Zufluchtsorte dieser Riesenbäume.
 
 ## Bildquellen

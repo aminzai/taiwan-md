@@ -80,7 +80,7 @@ Câu nói này khiến ông trở lại với bản thân là một “nhà côn
 
 - [Ba Lăng](/vi/people/pa-chiung-political-youtuber) — Kênh YouTube cổ nhất kéo dài 18+ năm, từ phản chứng đến tình nguyện một lối đi khác
 - [Ô Đờ](/vi/people/ray-du-english-youtuber) — Kênh YouTube đại tầng của Đài Loan – một con đường phát triển khác (bắt nguồn từ giáo dục tiếng Anh)
-- [Vua Bò](/people/波特王) — Kênh YouTube cùng thời, hài hước, so sánh các nhà sáng tạo nội dung đối mặt với xu hướng thuật toán
+- [Vua Bò](/vi/people/potter-king-youtuber) — Kênh YouTube cùng thời, hài hước, so sánh các nhà sáng tạo nội dung đối mặt với xu hướng thuật toán
 - [Hau Hau](/vi/people/howhow) — Kênh YouTube đạt một triệu cùng thời, chia sẻ chiến lược sinh tồn khi “đối tác nghề nghiệp” bị đặt ra dưới ánh nắng
 - [Tôn](/vi/people/zun) — Từ phòng ngủ cấp 2 đến kênh đôi số một triệu, ghi lại hành trình trưởng thành của các nhà sáng tạo nội dung sớm
 

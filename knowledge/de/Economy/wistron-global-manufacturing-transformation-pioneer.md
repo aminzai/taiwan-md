@@ -243,8 +243,8 @@ In der neuen Ära der Lieferketten-Neuordnung und Re-Industrialisierung bietet W
 
 **Weiterführende Links**:
 
-- [Taiwan-Unternehmen: Acer](/economy/台灣企業：宏碁) – Wistrons Mutterkonzern. Bei der Aufspaltung war der am wenigsten beachtete Fertigungs-„kleine Bruder“ im KI-Server-Zeitalter an Börsenwert an der einst markenfokussierten Acer-Mutter vorbeigezogen.
-- [Stan Shih](/people/施振榮) – Acer-Gründer, der die Trennung von Marke und Fertigung in zwei Unternehmen beschloss. Ein Satz „Ursprünglich dachtest du auch so“ ließ Wistron unabhängig werden.
+- [Taiwan-Unternehmen: Acer](/de/economy/acer-pc-industry-pioneer) – Wistrons Mutterkonzern. Bei der Aufspaltung war der am wenigsten beachtete Fertigungs-„kleine Bruder“ im KI-Server-Zeitalter an Börsenwert an der einst markenfokussierten Acer-Mutter vorbeigezogen.
+- [Stan Shih](/de/people/stan-shih) – Acer-Gründer, der die Trennung von Marke und Fertigung in zwei Unternehmen beschloss. Ein Satz „Ursprünglich dachtest du auch so“ ließ Wistron unabhängig werden.
 
 ## Quellen
 

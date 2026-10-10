@@ -153,9 +153,9 @@ Die Entstehung und Verbreitung der Ma Ying-jeou Memes ist nicht nur ein Mikrokos
 
 ## Weiterführende Lektüre
 
-- [Ma Ying-jeou](/people/馬英九) — Die Originalgeschichte der Meme-Hauptfigur: Brückenbauer zwischen den Ufern, Symbol der 22K Generation; Verständnis des politischen Hintergrunds hinter dem Meme
-- [Taiwanische Memes](/culture/台灣迷因) — Gesamtübersicht der taiwanesischen Meme-Ökologie: Evolution verschiedener Meme-Typen wie PTT-Nutzer-Enzyklopädie, Ältere-Bilder, VTuber
-- [Ältere Bilder](/culture/長輩圖) — Ein weiterer Weg der politischen Meme-Verbreitung: Visuelle Sprache aus LINE-Gruppen
+- [Ma Ying-jeou](/de/people/ma-ying-jeou-cross-strait-reconciliation-leader) — Die Originalgeschichte der Meme-Hauptfigur: Brückenbauer zwischen den Ufern, Symbol der 22K Generation; Verständnis des politischen Hintergrunds hinter dem Meme
+- [Taiwanische Memes](/de/culture/taiwan-meme-culture) — Gesamtübersicht der taiwanesischen Meme-Ökologie: Evolution verschiedener Meme-Typen wie PTT-Nutzer-Enzyklopädie, Ältere-Bilder, VTuber
+- [Ältere Bilder](/de/culture/elder-greeting-images) — Ein weiterer Weg der politischen Meme-Verbreitung: Visuelle Sprache aus LINE-Gruppen
 
 ## Quellenangaben
 

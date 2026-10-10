@@ -3,7 +3,7 @@ title: 'Robert Swinhoe: When a Diplomat Became a Naturalist'
 description: "In 1856, a 19-year-old British interpreter recorded the first bird he spotted on the western coast of Formosa. Four years later, 52 academic papers introduced the world to what lived on this island for the first time. He died in London at 41, but the species he named live on today in Taiwan's mountains and forests."
 date: 2026-04-12
 category: 'People'
-subcategory: 'Historical Figures'
+subcategory: '歷史人物'
 tags:
   - 'natural history'
   - 'British consul'

@@ -14,7 +14,7 @@ tags:
     'система здравоохранения',
     'карантинная служба',
   ]
-subcategory: 'Животные и этика'
+subcategory: '動物與倫理'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-10
@@ -23,6 +23,7 @@ readingTime: 18
 translatedFrom: 'Society/台灣動物用藥爭議.md'
 sourceCommitSha: '9a60e8fdf'
 sourceContentHash: 'sha256:400d675ceaf05f40'
+sourceBodyHash: 'sha256:58df60a34bbdc3ea'
 translatedAt: '2026-09-13T01:10:03.149796+00:00'
 ---
 

@@ -17,7 +17,7 @@ tags:
     'Vương Lực Hùng',
     'Lý Kiến Phục',
   ]
-subcategory: 'Khoa học và Học thuật'
+subcategory: '科學與學術'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-22
@@ -274,12 +274,12 @@ Ngày 3 tháng 8 năm 2025, ông nuốt hơi thở cuối cùng trong giấc ng�
 
 **Đọc thêm**:
 
-- [Châu Kiệt Luân](/people/chou-jie-lun) — Nhân vật đại diện âm nhạc đương đại tiếng Hoa cùng thế hệ (Vương Lực Hùng, cháu ngoài của Hứa Tước Vân, cùng thế hệ)
-- [Lâm Uyển Gia](/people/lin-youjia) — Lát cắt thế hệ âm nhạc đương đại tiếng Hoa (đối vị với Vương Lực Hùng)
-- [Trần Kiến Niên](/people/tan-jian-nian) — Mẫu tính tự sự thang đo dài loại People đó
-- [Người ngoại tỉnh](/society/wai-sheng-ren) — Bối cảnh Đài Loan sau chiến tranh của gia đình trí thức thế hệ thứ hai ngoại tỉnh theo chính phủ quốc gia vào năm 1949 (Hứa Tước Vân, Hứa Lưu Phân, Hứa Uyển Thanh gia đình thuộc nhóm này)
-- [Sự kiện 228](/history/er-er-ba-shi-jian) — Sự chuyển tiếp lịch sử mà các nhà trí thức cùng thế hệ với Hứa Tước Vân phải đương đầu sau khi vào Đài Loan
-- [Diệp Khuông Thời: Giải thưởng khoa học ông xây, đắt hơn cả Nobel](/people/ye-kuang-shi) — Người sáng lập Giải thưởng Tang, người tài trợ giải thưởng 50 triệu cho Hứa Tước Vân năm 2024 và ông đã quyên góp thiết lập "Quỹ học bổng Hứa-Tôn"
+- [Châu Kiệt Luân](/vi/people/jay-chou) — Nhân vật đại diện âm nhạc đương đại tiếng Hoa cùng thế hệ (Vương Lực Hùng, cháu ngoài của Hứa Tước Vân, cùng thế hệ)
+- [Lâm Uyển Gia](/vi/people/yoga-lin) — Lát cắt thế hệ âm nhạc đương đại tiếng Hoa (đối vị với Vương Lực Hùng)
+- [Trần Kiến Niên](/vi/people/chen-chien-nien) — Mẫu tính tự sự thang đo dài loại People đó
+- [Người ngoại tỉnh](/vi/society/mainlanders-in-taiwan) — Bối cảnh Đài Loan sau chiến tranh của gia đình trí thức thế hệ thứ hai ngoại tỉnh theo chính phủ quốc gia vào năm 1949 (Hứa Tước Vân, Hứa Lưu Phân, Hứa Uyển Thanh gia đình thuộc nhóm này)
+- [Sự kiện 228](/vi/history/228-incident) — Sự chuyển tiếp lịch sử mà các nhà trí thức cùng thế hệ với Hứa Tước Vân phải đương đầu sau khi vào Đài Loan
+- [Diệp Khuông Thời: Giải thưởng khoa học ông xây, đắt hơn cả Nobel](/vi/people/samuel-yin-yan-liang) — Người sáng lập Giải thưởng Tang, người tài trợ giải thưởng 50 triệu cho Hứa Tước Vân năm 2024 và ông đã quyên góp thiết lập "Quỹ học bổng Hứa-Tôn"
 
 ## Ảnh Chụp
 

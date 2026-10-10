@@ -183,7 +183,7 @@ Jadi, lain kali ketika Anda membayar di minimarket dan staf bertanya "Mau dicata
 - [Budaya Minimarket Taiwan](/id/lifestyle/convenience-store-culture) — Adegan di mana paling banyak orang menukarkan hadiah faktur dan mengatakan "919" berada di kasir empat minimarket besar.
 - [Teror Putih Taiwan](/id/history/taiwan-white-terror) — Pada era ketika perancang faktur Ren Hsien-ch'un dipenjara atas tuduhan "mengetahui mata-mata tetapi tidak melaporkannya," satu tuduhan saja bisa berakibat fatal.
 - [Keadilan Transisi Taiwan](/id/history/taiwan-transitional-justice) — Pemulihan yang dilakukan oleh Ren Hsien-ch'un melintasi dua pemerintahan dan memakan waktu bertahun-tahun adalah bagian konkret dari perjalanan Taiwan menghadapi sejarah otoriter.
-- [Mekanisme Harga Minyak Taiwan dan CPC](/economy/台灣油價機制與中油) — Menggunakan satu dokumen sistem sebagai penggaris: bagaimana rilis berita harga minyak membagi satu liter menjadi tiga bagian, meminta CPC untuk menanggungnya, membaginya secara merata per liter, sementara siapa yang paling banyak menggunakannya tidak pernah dihitung.
+- [Mekanisme Harga Minyak Taiwan dan CPC](/id/economy/taiwan-fuel-pricing-and-cpc) — Menggunakan satu dokumen sistem sebagai penggaris: bagaimana rilis berita harga minyak membagi satu liter menjadi tiga bagian, meminta CPC untuk menanggungnya, membaginya secara merata per liter, sementara siapa yang paling banyak menggunakannya tidak pernah dihitung.
 
 ## Sumber Gambar
 

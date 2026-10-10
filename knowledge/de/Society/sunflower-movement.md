@@ -158,7 +158,7 @@ Die dreißig Sekunden, die Chang Ching-chuan wahrscheinlich nicht ahnte, ändert
 **Weiterführende Lektüre:**
 
 - [Taiwanische Demokratie-Transformation](/de/history/taiwan-democratization) — Vom autoritären Regime zur Demokratie: Die institutionellen Grundlagen des Sunflower-Protests
-- [Beilei-Ereignis](/history/美麗島事件) — Wie die Vorgänger von 1979 mit Straßenaktionen die Tür zur Demokratie aufbrachen
+- [Beilei-Ereignis](/de/history/kaohsiung-incident-formosa-incident) — Wie die Vorgänger von 1979 mit Straßenaktionen die Tür zur Demokratie aufbrachen
 - [Open Source Community and g0v](/de/technology/open-source-and-g0v) — Die Ingenieursgemeinschaft hinter der digitalen Infrastruktur des Sunflower-Protests
 - [Soziale Bewegung und bürgerschaftliches Engagement](/de/society/social-movements-and-civic-participation) — Die Entwicklung der Zivilgesellschaft in Taiwan nach dem Sunflower
 - [Taiwan-Festlandchina-Krise und Beziehungsentwicklung](/de/history/taiwan-strait-crises-and-cross-strait-relations) — Der größere geopolitische Hintergrund des Wirtschaftsbeziehungsstreits
@@ -167,7 +167,7 @@ Die dreißig Sekunden, die Chang Ching-chuan wahrscheinlich nicht ahnte, ändert
 - [Complex Life Festival (複雜生活節)](/de/society/complex-life-festival) — Der vierte Export des „Ausgangs“ von 318: Keine Wahlen, kein Programmieren, keine Rekrutierung; die jährliche Zusammenkunft von achtzehnjährigen mit geringem Einkommen zu einem „Forum der Nicht-Erfolgreichen“
 - [Taiwan und Schwediniens Beziehungen](/de/society/taiwan-eswatini-relations) — Die außenpolitische Argumentation Lai Ching-te nach zehn Jahren des 318: Das spezifische Szenario des „souveränen Staates“
 - [Unsichtbares Land (看不見的國家)](/de/art/invisible-nation) — Wie der Film von Ge Jingwen den Sunflower-Protest in die vierhundertjährige demokratische Kurve Taiwans einordnet
-- [Nie Yong-zhen](/people/聶永真) — Der Designer, der für die NYT-Titelseite „Democracy at 4am“ im Jahr 2014 verantwortlich war; eine dokumentarische Aufzeichnung, wie der Protest in das internationale Bewusstsein gelangte
+- [Nie Yong-zhen](/de/people/nieh-yung-jen) — Der Designer, der für die NYT-Titelseite „Democracy at 4am“ im Jahr 2014 verantwortlich war; eine dokumentarische Aufzeichnung, wie der Protest in das internationale Bewusstsein gelangte
 
 ## Quellenverzeichnis
 

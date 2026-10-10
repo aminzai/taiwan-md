@@ -129,7 +129,7 @@ Dari mana pun berdiri, jarang orang sangkal konsistensinya. Dari kecewa Yenan, k
 **Baca Lanjutan**:
 
 - [Spektrum Persatuan-Pemisahan Taiwan](/id/society/taiwan-unification-independence-spectrum) — Paham posisi kemerdekaan Su Beng, di spektrum politik Taiwan.
-- [Kejadian 228](/history/二二八事件) — Trauma sejarah kunci yang dorong Su Beng ke jalur pemberontakan bersenjata.
+- [Kejadian 228](/id/history/228-incident) — Trauma sejarah kunci yang dorong Su Beng ke jalur pemberontakan bersenjata.
 - [Terra Putih Taiwan](/id/history/taiwan-white-terror) — "Kasus Persatuan Taiwan Merdeka" dan latar masa pengasingan Su Beng.
 
 ## Sumber Gambar

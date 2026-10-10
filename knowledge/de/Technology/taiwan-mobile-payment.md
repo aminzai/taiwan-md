@@ -26,6 +26,7 @@ imageSource: 'https://www.twqr.com.tw/'
 translatedFrom: 'Technology/台灣行動支付.md'
 sourceCommitSha: '574b1a339'
 sourceContentHash: 'sha256:d9687f2e9f925231'
+sourceBodyHash: 'sha256:62d9c6127e29bebe'
 translatedAt: '2026-09-23T01:16:18.232643+00:00'
 ---
 
@@ -157,7 +158,7 @@ Die Adoptionsschwelle fragt, wie viele Menschen es nutzen. Die Universalitätssc
 - Titelbild: Financial Information Service Co., Ltd. (offizielle TWQR-Website), [Originalquelle](https://www.twqr.com.tw/), Fair use editorial commentary. Das Originalbild ist ein Thumbnail des offiziellen Videos „店家ㄟ心裡話｜日月香肉鬆“, hier仅用於評論 TWQR 制度宣傳。
 - Textbild: Financial Information Service Co., Ltd. (offizielle TWQR-Website), [Originalquelle](https://www.twqr.com.tw/), Fair use editorial commentary. Das Originalbild ist eine offizielle Erklärungsillustration zum System „一份契約、多元支付“.
 
-## 參考資料
+## Referenzen
 
 [^1]: [MIC des Institute for Information Industry: Mobile-Payment-Verbraucherumfrage 2025](https://mic.iii.org.tw/research.aspx?id=730) — Hu Zili erläutert, dass aktive Nutzer für verschiedene Kanäle mehr Tools installieren, und veröffentlicht Erhebungsmethodik, Adoptionsraten und Intervallbereiche der Tool-Anzahl.
 

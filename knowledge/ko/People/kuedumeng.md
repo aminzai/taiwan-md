@@ -172,7 +172,7 @@ translatedAt: '2026-09-13T02:00:01+08:00'
 - [《중국어 몬스터》 폭발적 인기! 프랑스 인플루언서 쿠큠이 100명의 외국인을 데리고 중국어를 겨루다](https://www.cw.com.tw/article/5137595)
 - [French YouTuber “Ku” to test foreigners’ Mandarin skills in large competition](https://www.rti.org.tw/en/news?uid=3&pid=124879)
 
-## 參考資料
+## 참고 자료
 
 [^1]: [Radio Taiwan International：French YouTuber “Ku” to test foreigners’ Mandarin skills in large competition](https://www.rti.org.tw/en/news?uid=3&pid=124879) — 2025년 영어 보도, 《중국어 몬스터》의 참가 규모, 상금, 프로그램 목적, 쿠큠의 문화 간 언어 학습에 대한 공개 발언을 설명한다.
 

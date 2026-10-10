@@ -98,7 +98,7 @@ Wenn Ihr Handy das nächste Mal eine Starkregenwarnung anzeigt, ist es ein Erbe 
 **Weiterführende Lektüre**
 
 - [Taifun](/de/nature/typhoons-in-taiwan) — Ein weiteres saisonales Frontensystem, das neben dem Monsun steht und eine Spiegelung der Dualität „Wiederauffüllung vs. Katastrophe“ mit dem Monsun bildet.
-- [Klima-Krise und Netto-Null-Transformation in Taiwan](/nature/台灣氣候危機與淨零轉型) — Wie „kein Frühjahrsregen und konzentrierter Monsun“ die Wasserrisiken und den Energieübergang Taiwans neu gestaltet.
+- [Klima-Krise und Netto-Null-Transformation in Taiwan](/de/nature/taiwan-climate-change-net-zero-transition) — Wie „kein Frühjahrsregen und konzentrierter Monsun“ die Wasserrisiken und den Energieübergang Taiwans neu gestaltet.
 
 ## Referenzen
 

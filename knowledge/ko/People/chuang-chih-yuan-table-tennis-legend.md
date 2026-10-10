@@ -4,7 +4,7 @@ description: '1981년 4월 2일생. 종지위안은 대만 탁구 역사상 가�
 date: 2026-03-19
 category: 'People'
 tags: ['체육', '탁구', '올림픽', '세계 챔피언', '프로 탁구']
-subcategory: '체육'
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

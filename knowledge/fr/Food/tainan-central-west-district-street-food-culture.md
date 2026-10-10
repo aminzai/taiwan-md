@@ -4,7 +4,7 @@ description: "Sous les rues Guohua et Hai'an se trouvent les vestiges du lit des
 date: 2026-06-30
 author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: 'Classiques'
+subcategory: '經典小吃'
 tags:
   [
     'Tainan',

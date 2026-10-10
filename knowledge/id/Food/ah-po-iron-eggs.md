@@ -14,7 +14,7 @@ tags:
     'Yang Bi-yun',
     'Huang Zhang Kiau',
   ]
-subcategory: 'Suasana Kuliner'
+subcategory: '飲食場景'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-28
@@ -24,6 +24,7 @@ imageNote: '原 Wikimedia 圖檔已從 Commons 下架（404 Not Found），卡�
 translatedFrom: 'Food/阿婆鐵蛋.md'
 sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:e1270ee3b6b84325'
+sourceBodyHash: 'sha256:f4c6330bca417165'
 translatedAt: '2026-09-07T23:39:43.375648+00:00'
 ---
 
@@ -82,7 +83,7 @@ Telur Besi bukan sekadar camilan; ia membawa sejarah transformasi Tamsui dari pe
 - [Budaya Pasar Malam](/id/food/night-market-culture) — Analisis mendalam pasar malam sebagai ruang sosial
 - [Camilan Kaki Lima Taiwan](/id/food/taiwanese-street-food) — Keberanian akar rumput kuliner rakyat Taiwan
 - [Nasi Slur Taiwan](/id/food/braised-pork-rice) — Kenangan etnis di sebakul nasi slur
-- [Budaya Kuliner Hakka](/Food/客家飲食文化) — Kebijaksanaan kuliner kelompok Hakka
+- [Budaya Kuliner Hakka](/id/food/hakka-food-culture) — Kebijaksanaan kuliner kelompok Hakka
 
 [^1]: [Lin Ming-yu 'Makan dengan Lahap' (Penerbit Lianjing, 1984)](https://search.worldcat.org/zh-cn/title/903232266) — Halaman 21-25 memuat laporan asli 〈Telur Besi Tamsui Benar-benar Enak〉, 'Minsheng Daily' 24 Juli 1983 halaman 12 (ISBN 9789570813722, juga dapat dicek [FindBook](https://findbook.com.tw/amp/9789570813722))
 

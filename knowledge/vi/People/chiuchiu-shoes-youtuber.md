@@ -37,10 +37,10 @@ Năm 2013, trong ký túc xá Đại học Trung Ương, Hứa Nhân Giải (gi�
 Năm năm sau, ông đã trở thành một YouTuber tri thức nổi tiếng ở Đài Loan. Điều đáng chú ý nhất trên hành trình này là ông từng xóa bỏ toàn bộ những tác phẩm dịch thuật dễ mang lại lượt xem nhất. Để giúp khán giả nhận ra một kênh thực sự do chính ông chịu trách nhiệm, ông đã từ bỏ một phần lưu lượng truy cập ban đầu.[^2]
 
 ![Khung cảnh phố Đại Loan, Đài Trung, nơi Giày Chú Cú sinh sống và sáng tạo lâu dài](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Taiwan_Boulevard.jpg/1280px-Taiwan_Boulevard.jpg)
-_Ảnh: Phố Đại Loan, Đài Trung, photo của Taichung, Wikimedia Commons, CC BY-SA 4.0. Nguồn từ trang tệp._
+_Ảnh: Phố Đại Loan, Đài Trung, photo của Taichung, Wikimedia Commons, CC BY-SA 4.0. Nguồn từ trang tệp. [檔案頁](https://commons.wikimedia.org/wiki/File:Taiwan_Boulevard.jpg)_
 
 ![Tòa nhà Viện Nghiên cứu Kinh dịch, Đại học Trung Ương, nơi Giày Chú Cú học và quay video ban đầu](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/NCU_Hakka_College_Building.JPG/1280px-NCU_Hakka_College_Building.JPG)
-_Ảnh: Tòa nhà Viện Nghiên cứu Kinh dịch, Đại học Trung Ương, do SSR2000 chụp, Wikimedia Commons, CC BY-SA 3.0. Nguồn từ trang tệp._
+_Ảnh: Tòa nhà Viện Nghiên cứu Kinh dịch, Đại học Trung Ương, do SSR2000 chụp, Wikimedia Commons, CC BY-SA 3.0. Nguồn từ trang tệp. [檔案頁](https://commons.wikimedia.org/wiki/File:NCU_Hakka_College_Building.JPG)_
 
 ## Một đôi giày và một con đường chưa chắc chắn
 
@@ -79,7 +79,7 @@ Ghi âm phỏng vấn từ IOH cho biết, Giày Chú Cú bắt đầu hoài ngh
 Tuy nhiên, rời khỏi ngành hóa học không đồng nghĩa với việc vứt bỏ hóa học. Để sản xuất video khoa học, ông thường phải dành 10 đến 20 giờ để đọc tài liệu và thiết kế kịch bản. Những buổi thảo luận nhóm và thảo luận sách tạp chí ở đại học, đã rèn luyện cho ông kỹ năng tìm kiếm luận án học thuật, tổng hợp bài thuyết trình, đối mặt với giảng viên và bạn học, những kỹ năng này sau này trở thành quy trình cơ bản cho công việc kênh.
 
 ![Thư viện Đại học Trung Ương, phản ánh sự kết nối từ đọc sách và thảo luận tới công việc tri thức của Giày Chú Cú](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Library_of_National_Central_University.jpg/1280px-Library_of_National_Central_University.jpg)
-_Ảnh: Thư viện Đại học Trung Ương, Wikimedia Commons, CC BY-SA 3.0. Nguồn từ trang tệp._
+_Ảnh: Thư viện Đại học Trung Ương, Wikimedia Commons, CC BY-SA 3.0. Nguồn từ trang tệp. [檔案頁](https://commons.wikimedia.org/wiki/File:Library_of_National_Central_University.jpg)_
 
 Báo cáo năm 2020 từ "Đảo ngược Giáo dục" (giọng Việt: Đảo ngược Giáo dục) (giọng Việt: Đảo ngược Giáo dục) (giọng Việt: Đảo ngược Giáo dục) mô tả ông là "người ăn đa dạng tri thức". Ông không chỉ học khoa học mà còn đọc tâm lý học và quản lý kinh doanh, bởi vì sau khi thành lập công ty, ông cần bổ sung những kiến thức chưa từng tiếp xúc. Ông tạo ra chương trình "Giày Đọc" như một cách để ép buộc chính mình đọc sách liên tục.[^7]
 

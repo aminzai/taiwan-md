@@ -4,7 +4,7 @@ description: '1974년 타이산 요금소 개소 당일, 회수권 한 장을 �
 date: 2026-07-19
 author: 'Taiwan.md Contributors'
 category: 'Lifestyle'
-subcategory: '교통과 이동'
+subcategory: '交通與移動'
 tags:
   [
     '요금소',
@@ -138,7 +138,7 @@ imageCredit: 'MiNe (Flickr), via Wikimedia Commons'
 | `taishan-toll-station-2013-closing.webp`    | 타이산 요금소 폐쇄 10개월 전 요금소 외관(2013년 2월)            | [Ompaneyui, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taishan_Toll_Station_20130213.jpg)      | CC BY-SA 3.0 |
 | `tianliao-toll-station-preserved-2022.webp` | 타이리야오 요금소 보존된 부분 요금소(고속도로 3호선, 2022년)    | [Pbdragonwang, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:田寮收費站.jpg)                      | CC BY-SA 4.0 |
 
-## 參考資料
+## 참고 자료
 
 [^1]: [향관何处？ KANO와 집단 기억](https://opinion.udn.com/opinion/story/5769/101971) — 천쯍쉬안(Chen Tzu-hsuan, 陳子軒)이 명인당(鳴人堂)에 발표한 칼럼 리뷰로, 사회적 집단 기억과 역사는 종종 격차를 지닌다고 지적하며, '손을 더듬는' 등 인터넷 향수 서사를 이해하는 비판적 프레임이다.
 

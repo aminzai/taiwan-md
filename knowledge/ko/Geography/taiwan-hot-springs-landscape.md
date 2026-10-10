@@ -3,7 +3,7 @@ title: '대만의 온천 경관'
 description: '마녀탕에서 세계 15대 온천 왕국으로—판 충돌이 어떻게 이 섬의 치유 코드를 끓여냈는가'
 date: 2026-03-23
 tags: ['온천', '지질', '화산', '온천문화', '관광', '판운동']
-subcategory: '기후와 온천'
+subcategory: '氣候與溫泉'
 category: 'Geography'
 author: 'Taiwan.md Contributors'
 readingTime: 12

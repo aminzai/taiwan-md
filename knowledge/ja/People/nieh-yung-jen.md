@@ -20,6 +20,15 @@ readingTime: 18
 lastVerified: 2026-05-12
 lastHumanReview: false
 featured: false
+sporeLinks:
+  - id: 66
+    platform: 'threads'
+    date: '2026-05-08'
+    url: 'https://www.threads.com/@taiwandotmd/post/DYE7ZAik0qr'
+  - id: 67
+    platform: 'x'
+    date: '2026-05-08'
+    url: 'https://x.com/taiwandotmd/status/2052721374570106952'
 translatedFrom: 'People/聶永真.md'
 sourceCommitSha: '21298a7a'
 sourceContentHash: 'sha256:b31e7dab1de7bf10'

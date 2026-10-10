@@ -17,7 +17,7 @@ tags:
     'Seni Generatif',
     'C-LAB',
   ]
-subcategory: 'Media Baru dan Seni Digital'
+subcategory: '新媒體與數位藝術'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-04
@@ -25,6 +25,7 @@ lastHumanReview: true
 translatedFrom: 'Art/台灣新媒體藝術.md'
 sourceCommitSha: 'ef8fab38e'
 sourceContentHash: 'sha256:73ba9ccb331ff6aa'
+sourceBodyHash: 'sha256:3affa690cf7b66dc'
 translatedAt: '2026-07-29T09:52:08.901445+00:00'
 ---
 
@@ -144,18 +145,18 @@ Ketika nama Yang Yu-hsien muncul dalam daftar juri Ars Electronica 2025, tidak a
 
 - [Perkembangan Sastra Kontemporer Taiwan](/art/台灣當代文學發展) — Ekosistem kreasi kontemporer Taiwan yang muncul bersamaan dengan seni media baru, memahami konteks budaya secara keseluruhan
 - [Teater dan Seni Pertunjukan Taiwan](/id/art/taiwanese-theater-and-performing-arts) — Latar belakang seni pertunjukan kreator lintas disiplin seperti Huang Yi, pertemuan tubuh dan teknologi
-- [Film Taiwan](/art/台灣電影) — Alur lain seni visual Taiwan, berbagi panggung festival film dengan seni media baru
-- [Komunitas Sumber Terbuka dan g0v](/technology/開源社群與g0v) — Sisi lain budaya teknologi Taiwan, pertemuan semangat sumber terbuka dengan dunia seni
+- [Film Taiwan](/id/art/taiwanese-cinema) — Alur lain seni visual Taiwan, berbagi panggung festival film dengan seni media baru
+- [Komunitas Sumber Terbuka dan g0v](/id/technology/open-source-and-g0v) — Sisi lain budaya teknologi Taiwan, pertemuan semangat sumber terbuka dengan dunia seni
 - [Sejarah Industri Televisi Taiwan](/id/technology/taiwan-television-industry-history) — Evolusi media dari siaran radio-TV ke OTT, konteks kelembagaan teknologi visual
-- [justfont dan Pengembangan Font Taiwan](/technology/justfont與台灣字體發展) — Kelompok kreator lain di persimpangan desain, teknologi, dan identitas budaya: orang-orang yang menumbuhkan huruf Taiwan satu per satu
-- [Hsieh Te-ching](/art/謝德慶) — Media tubuh sebelum seni media baru, pelopor seni pertunjukan Taiwan dan master internasional "Five One-Year Performances"
-- [Wang Hsin-jen (A-luan)](/art/王新仁) — Seniman generatif Taiwan pertama di Art Blocks, tokoh inti akaSwap dan proyek FAB DAO Baiyue
+- [justfont dan Pengembangan Font Taiwan](/id/technology/justfont-and-taiwan-typography) — Kelompok kreator lain di persimpangan desain, teknologi, dan identitas budaya: orang-orang yang menumbuhkan huruf Taiwan satu per satu
+- [Hsieh Te-ching](/id/art/tehching-hsieh-performance-artist) — Media tubuh sebelum seni media baru, pelopor seni pertunjukan Taiwan dan master internasional "Five One-Year Performances"
+- [Wang Hsin-jen (A-luan)](/id/art/wang-hsin-jen-artist) — Seniman generatif Taiwan pertama di Art Blocks, tokoh inti akaSwap dan proyek FAB DAO Baiyue
 - [Wang Lien-cheng (Xia Ba)](/id/art/wang-lien-cheng-artist) — Pemenang pertama kategori patung Lumen Prize 2017, anggota i/O Lab dan pendiri Silent Festival, representatif seni instalasi suara Taiwan
-- [Wu Che-yu](/people/吳哲宇) — Seniman media baru yang menyebut dirinya "jurmaker kuno", pendiri proyek open-source Personal Structures × Art Basel Miami × Taiwan.md di Biennale Venesia
-- [The Reporter: Sepuluh Tahun Menyelamatkan Jurnalisme Investigatif dari Proyek Bisnis Menjadi Barang Publik](/society/報導者) — Kasus Taiwan-DNA lain yang didorong komunitas sipil, tumbuh lintas sektor, menunjukkan jalur lain konstruksi barang publik oleh masyarakat sipil pasca-2015
-- [justfont dan Pengembangan Font Taiwan: Sejarah Kecil Tipografi dari 25 Tahun Hua Kang hingga 76 Menit Jin Xuan](/technology/justfont與台灣字體發展) — Font sebagai infrastruktur budaya, dimensi lain yang sama-sama memperhatikan subjek visual Taiwan seperti seni media baru
+- [Wu Che-yu](/id/people/che-yu-wu) — Seniman media baru yang menyebut dirinya "jurmaker kuno", pendiri proyek open-source Personal Structures × Art Basel Miami × Taiwan.md di Biennale Venesia
+- [The Reporter: Sepuluh Tahun Menyelamatkan Jurnalisme Investigatif dari Proyek Bisnis Menjadi Barang Publik](/id/society/the-reporter-investigative-journalism) — Kasus Taiwan-DNA lain yang didorong komunitas sipil, tumbuh lintas sektor, menunjukkan jalur lain konstruksi barang publik oleh masyarakat sipil pasca-2015
+- [justfont dan Pengembangan Font Taiwan: Sejarah Kecil Tipografi dari 25 Tahun Hua Kang hingga 76 Menit Jin Xuan](/id/technology/justfont-and-taiwan-typography) — Font sebagai infrastruktur budaya, dimensi lain yang sama-sama memperhatikan subjek visual Taiwan seperti seni media baru
 - [Kabel Bawah Laut: Perisai Silikon di Atas Terlihat, Jalur Hidup di Bawah Tak Terlihat](/id/technology/submarine-cables-taiwan-lifeline) — 99% kolaborasi kurator dan pameran seni media baru lintas negara melewati kabel laut, artikel ini mengungkap infrastruktur budaya digital tak terlihat ini
-- [Nieh Yung-chen](/people/聶永真) — Anggota pertama Taiwan di Aliansi Desain Grafis Internasional (AGI), Studio Nieh Yung-chen dan posisi kuratorial budaya visual kontemporer Taiwan
+- [Nieh Yung-chen](/id/people/nieh-yung-jen) — Anggota pertama Taiwan di Aliansi Desain Grafis Internasional (AGI), Studio Nieh Yung-chen dan posisi kuratorial budaya visual kontemporer Taiwan
 
 ## Referensi
 

@@ -9,7 +9,7 @@ readingTime: 10
 lastVerified: 2026-04-19
 lastHumanReview: true
 translatedFrom: 'People/郭金發.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:ffef27b2909f9d95'
 sourceBodyHash: 'sha256:b629819d5dc38d6a'
 translatedAt: '2026-05-16T22:35:34Z'

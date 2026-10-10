@@ -13,7 +13,7 @@ tags:
     'جائزة ماغسايساي',
     'تبرعات تعليمية',
   ]
-subcategory: 'العمل الخيري والمجتمع'
+subcategory: '慈善與社會'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-16
@@ -21,6 +21,7 @@ lastHumanReview: true
 translatedFrom: 'People/陳樹菊.md'
 sourceCommitSha: '2344309a0'
 sourceContentHash: 'sha256:f20a1f283b0b930c'
+sourceBodyHash: 'sha256:0e9eced4546d8cba'
 translatedAt: '2026-09-09T14:49:53.921990+00:00'
 ---
 
@@ -94,7 +95,7 @@ translatedAt: '2026-09-09T14:49:53.921990+00:00'
 
 - [ثقافة الأسواق التايوانية والأسواق التقليدية](/ar/lifestyle/taiwan-traditional-markets-and-market-culture) — سوق تايتونغ المركزي حيث أقامت تشين شو تشو كشكها لخمسين عامًا، يعيش ضمن هذه المنظومة التقليدية للأسواق
 - [ثقافة التطوع والمشاركة الخيرية في تايوان](/ar/society/volunteering-and-civic-charity-in-taiwan) — من ماستر تشن ين ومؤسسة تزو تشي إلى كشك تشين شو تشو، نموذجان للعمل الخيري الأهلي في تايوان
-- [تعليم المناطق النائية في تايوان](/society/台灣偏鄉教育) — الوجهات الرئيسية لتبرعات تشين شو تشو على مر السنين: دعم طويل الأمد للمكتبات والمدارس ودور الأيتام
+- [تعليم المناطق النائية في تايوان](/ar/society/taiwan-rural-education) — الوجهات الرئيسية لتبرعات تشين شو تشو على مر السنين: دعم طويل الأمد للمكتبات والمدارس ودور الأيتام
 
 ## المراجع
 

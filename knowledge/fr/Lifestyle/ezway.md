@@ -15,7 +15,7 @@ tags:
     'Gouvernance des données personnelles',
     'Administration douanière',
   ]
-subcategory: 'Systèmes de consommation'
+subcategory: '消費與生活制度'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-08-04
@@ -41,6 +41,7 @@ sporeLinks:
 translatedFrom: 'Lifestyle/台灣海關報關制度與EZWAY.md'
 sourceCommitSha: '258412070'
 sourceContentHash: 'sha256:bc80c48817ccc98d'
+sourceBodyHash: 'sha256:7abf227d191df077'
 translatedAt: '2026-09-15T20:42:23.007366+00:00'
 ---
 

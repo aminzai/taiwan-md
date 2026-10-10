@@ -3,7 +3,7 @@ title: '이호정: 푸방 복귀와 높은 출석·인지도'
 description: '한국 치어를 대만에서 ‘게스트 자리’에서 ‘고정 로스터’로 옮기는 상징.'
 date: 2026-05-13
 category: People
-subcategory: '팝 문화'
+subcategory: '流行人物'
 tags:
   [
     '팝 문화',
@@ -19,7 +19,7 @@ featured: false
 lastVerified: 2026-05-13
 translatedFrom: 'People/李晧禎.md'
 readingTime: 8
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:fe236b66343104a0'
 sourceBodyHash: 'sha256:fa5aded8dae3b311'
 translatedAt: '2026-05-17T06:30:00Z'

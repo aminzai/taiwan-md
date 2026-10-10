@@ -13,14 +13,14 @@ tags:
     'GNN',
     'Taiwan Gaming',
   ]
-subcategory: 'Community and Digital Culture'
+subcategory: '社群與數位文化'
 author: 'zaious'
 category: 'Technology'
 readingTime: 10
 lastVerified: 2026-04-23
 lastHumanReview: false
 translatedFrom: 'Technology/不入地窖焉能睡覺.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:c211c97e077ebc86'
 sourceBodyHash: 'sha256:abaef255e91e930b'
 translatedAt: '2026-06-09T04:16:34+08:00'

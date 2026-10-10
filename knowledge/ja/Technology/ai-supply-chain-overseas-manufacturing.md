@@ -18,7 +18,7 @@ tags:
   - '鴻海'
   - '緯創'
   - '台達電子'
-subcategory: '半導体とハードウェア'
+subcategory: '半導體與硬體'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-11

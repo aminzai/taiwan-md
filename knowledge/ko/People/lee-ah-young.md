@@ -3,7 +3,7 @@ title: '이아영: 푸방 시스템의 ‘장기 체류형’ 한국 치어 대�
 description: '푸방 계열에서 높은 가시성을 장기적 안정성으로 바꾼 한국 치어 — 구장과 상업 콘텐츠의 이중 축으로 자리 잡았다.'
 date: 2026-05-13
 category: People
-subcategory: '팝 문화'
+subcategory: '流行人物'
 tags:
   [
     '팝 문화',
@@ -19,7 +19,7 @@ featured: false
 lastVerified: 2026-05-13
 translatedFrom: 'People/李雅英.md'
 readingTime: 9
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:1893791073a1e549'
 sourceBodyHash: 'sha256:c10dde5e8f5a2f8e'
 translatedAt: '2026-05-17T06:30:00Z'

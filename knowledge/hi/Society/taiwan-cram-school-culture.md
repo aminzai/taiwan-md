@@ -12,7 +12,7 @@ tags:
   - 'वर्ग/जाति'
   - 'कोचिंग प्रसिद्ध शिक्षक'
   - 'पूर्वी एशियाई शिक्षा'
-subcategory: 'शिक्षा'
+subcategory: '教育'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-23

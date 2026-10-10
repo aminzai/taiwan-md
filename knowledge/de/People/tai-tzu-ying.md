@@ -3,7 +3,16 @@ title: 'Tai Tzu-ying'
 description: 'Rekordhalterin mit 214 Wochen als Weltranglistenerste, die taiwanesische Badminton-Königin von Qianzhen, Kaohsiung, bis zur olympischen Silbermedaille'
 date: 2026-03-21
 category: 'People'
-tags: ['Personen', 'Tai Tzu-ying', 'Badminton', 'Weltranglistenerste', 'Olympia', 'Sportlerin', 'Taiwan']
+tags:
+  [
+    'Personen',
+    'Tai Tzu-ying',
+    'Badminton',
+    'Weltranglistenerste',
+    'Olympia',
+    'Sportlerin',
+    'Taiwan',
+  ]
 subcategory: '體育'
 author: 'Taiwan.md'
 featured: true
@@ -12,6 +21,7 @@ lastHumanReview: true
 translatedFrom: 'People/戴資穎.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:0e8d85d535dca885'
+sourceBodyHash: 'sha256:72bb27cc8697bfee'
 translatedAt: '2026-08-13T04:30:00+08:00'
 ---
 
@@ -121,10 +131,10 @@ Wichtiger noch: Tais Geist – nie aufgeben, immer weiterlernen, bescheiden und 
 
 **Weiterführende Lektüre**:
 
-- [Kuo Hsing-chun](/people/郭婞淳) – Olympia-Gold im Gewichtheben in Tokio, ebenfalls Kernmitglied der taiwanesischen Delegation, Amis-Athletin
-- [Lee Yang](/people/李洋) – zur selben Zeit Bewohner des Nationalen Trainingszentrums, nach zwei Goldmedaillen (Tokio/Paris) erster Sportminister
-- [Wang Chi-lin und Lee Yang](/people/麟洋配) – erstes ungesetztes Doppel der Geschichte mit zweimaliger olympischer Titelverteidigung
-- [Chou Tzu-yu](/people/周子瑜) – aus derselben Generation, ein Mädchen aus Tainan, das mit 13 sein Zuhause verließ, um für seine Träume zu kämpfen
+- [Kuo Hsing-chun](/de/people/kuo-hsing-chun-olympic-weightlifting-champion) – Olympia-Gold im Gewichtheben in Tokio, ebenfalls Kernmitglied der taiwanesischen Delegation, Amis-Athletin
+- [Lee Yang](/de/people/lee-yang-badminton) – zur selben Zeit Bewohner des Nationalen Trainingszentrums, nach zwei Goldmedaillen (Tokio/Paris) erster Sportminister
+- [Wang Chi-lin und Lee Yang](/de/people/lin-yang-duo-taiwan-badminton-champions) – erstes ungesetztes Doppel der Geschichte mit zweimaliger olympischer Titelverteidigung
+- [Chou Tzu-yu](/de/people/tzuyu) – aus derselben Generation, ein Mädchen aus Tainan, das mit 13 sein Zuhause verließ, um für seine Träume zu kämpfen
 
 ## Referenzen
 

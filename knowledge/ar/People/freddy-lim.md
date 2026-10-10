@@ -4,7 +4,7 @@ description: 'بصفته مغني تشثونيك فريدي، كتب لين تش
 date: 2026-07-10
 category: 'People'
 tags: ['شخصيات', 'موسيقى', 'معدن ثقيل', 'سياسة', 'حركات اجتماعية', 'تشثونيك']
-subcategory: 'موسيقى وشخصيات عامة'
+subcategory: '音樂與公共人物'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-10
@@ -23,6 +23,7 @@ rationale:
 translatedFrom: 'People/林昶佐.md'
 sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:ea846eb0ccd40f2d'
+sourceBodyHash: 'sha256:dfd669296348affb'
 translatedAt: '2026-09-09T15:33:04.052989+00:00'
 ---
 

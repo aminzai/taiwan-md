@@ -159,6 +159,6 @@ _사진 출처: [Zhengbin Fishing Port, Keelung, Taiwan 2019](https://commons.wi
 
 ## 더 읽을 거리
 
-- [타이완 어업 기원](/history/台灣漁業起源) — 동일한 바다의上半场: 일제 수산 시험, 어시장, 전후 기술 인수
+- [타이완 어업 기원](/ko/history/taiwan-fishery-origins) — 동일한 바다의上半场: 일제 수산 시험, 어시장, 전후 기술 인수
 - [타이완 해양 무역사](/ko/history/taiwan-maritime-trade-history)
 - [타이완 제당사](/history/台灣糖業史)

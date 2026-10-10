@@ -212,7 +212,7 @@ export default function TaskRow(props: {
         type="button"
         onClick={onRowClick}
         class="flex items-center gap-3 min-w-0 flex-1 text-left
-               focus:outline-none"
+               focus:outline-hidden"
       >
         <div class="text-xl shrink-0">{typeEmoji(t().type)}</div>
         <div class="min-w-0 flex-1">
@@ -291,7 +291,7 @@ export default function TaskRow(props: {
             <button
               type="button"
               class="text-text-muted hover:text-accent-red disabled:opacity-40
-                     px-1.5 py-1 rounded hover:bg-accent-red/10 transition-colors
+                     px-1.5 py-1 rounded-sm hover:bg-accent-red/10 transition-colors
                      text-sm leading-none"
               disabled={deleteMut.isPending}
               title="刪除任務（不可復原）"

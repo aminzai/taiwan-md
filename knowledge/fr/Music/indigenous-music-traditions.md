@@ -295,6 +295,6 @@ Le Musée des peuples autochtones de Taïwan Shung Ye à Taipei est un lieu impo
 
 [^3]: Ming Li-kuo, _La beauté de la musique des peuples autochtones de Taïwan_, p. 120. La flûte nasale à double tube paiwan était traditionnellement réservée aux hommes de la noblesse, étroitement liée au système hiérarchique du peuple. [Présentation de l'auteur](https://par.npac-ntch.org/tw/article/author/2656)
 
-[^4]: Hsu Chang-hui, _Premier manuscrit d'une histoire de la musique de Taïwan_, Éditions Quan Yinfu, 1991, p. 157. Le processus par lequel le son des pilons des Thao est passé du chant de travail agricole à l'art du spectacle y est documenté. [Sanmin Online](https://www.books.com.tw/product/index/000268139)
+[^4]: Hsu Chang-hui, _Premier manuscrit d'une histoire de la musique de Taïwan_, Éditions Quan Yinfu, 1991, p. 157. Le processus par lequel le son des pilons des Thao est passé du chant de travail agricole à l'art du spectacle y est documenté. [Sanmin Online](https://www.sanmin.com.tw/product/index/000268139)
 
 [^5]: Conseil des peuples autochtones, _Livre blanc sur la politique de revitalisation culturelle des peuples autochtones_, 2019. https://www.cip.gov.tw/

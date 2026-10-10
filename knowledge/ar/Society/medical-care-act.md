@@ -14,7 +14,7 @@ tags:
     'كيانات صحية',
     'مجتمع تايوان',
   ]
-subcategory: 'القانون والمؤسسات'
+subcategory: '法律與制度'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-07-13
@@ -39,6 +39,7 @@ sporeLinks:
 translatedFrom: 'Society/醫療法.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:a87fc88d09f6e189'
+sourceBodyHash: 'sha256:3a7e69bdd14827b6'
 translatedAt: '2026-09-18T03:20:36.337749+00:00'
 ---
 

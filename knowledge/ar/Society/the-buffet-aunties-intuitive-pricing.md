@@ -13,7 +13,7 @@ tags:
     'ثقافة الطعام',
     'فلسفة التكنولوجيا',
   ]
-subcategory: 'المجتمع والحياة اليومية'
+subcategory: '社區與日常'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-22
@@ -23,6 +23,7 @@ curation: 'incubating'
 translatedFrom: 'Society/自助餐阿姨的謎之目測精算能力.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:6476b4bbc6422f82'
+sourceBodyHash: 'sha256:b933f7d83c83a92f'
 translatedAt: '2026-08-04T09:29:25.489546+00:00'
 ---
 

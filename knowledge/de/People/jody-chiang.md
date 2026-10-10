@@ -3,7 +3,14 @@ title: 'Jody Chiang: Aus dem Schwefeldampf von Beitou zur Diva des taiwanesische
 description: 'Vom Singen in den Kneipen Beitous mit 10 Jahren bis zur taiwanesischen Hokkien-Königin mit Millionenverkäufen: Jody Chiang schrieb mit ihrer Stimme den Status der Alltagskultur Taiwans neu – und gab auf dem Höhepunkt ihren Abschied von der Bühne wegen eines geheimen Kampfes gegen den Krebs bekannt.'
 date: 2026-03-28
 category: 'People'
-tags: ['Jody Chiang', 'taiwanesischer Hokkien-Pop', 'Golden Melody Award', 'Beitou Nakasi', 'Taiwanische Kultur']
+tags:
+  [
+    'Jody Chiang',
+    'taiwanesischer Hokkien-Pop',
+    'Golden Melody Award',
+    'Beitou Nakasi',
+    'Taiwanische Kultur',
+  ]
 subcategory: '音樂'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -14,6 +21,7 @@ curation: incubating
 translatedFrom: 'People/江蕙.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:30e9fa7d7e985187'
+sourceBodyHash: 'sha256:09c26c642594595d'
 translatedAt: '2026-08-13T03:20:00+08:00'
 ---
 

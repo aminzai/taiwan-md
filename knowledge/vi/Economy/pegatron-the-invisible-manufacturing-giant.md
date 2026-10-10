@@ -4,7 +4,7 @@ description: 'Gã khổng lồ gia công tách rời từ Asus, là nhà sản x
 date: 2026-03-20
 category: 'Economy'
 tags: ['Economy', 'Doanh nghiệp', 'Gia công điện tử', 'Sản xuất', 'ODM']
-subcategory: 'Tiểu sử doanh nghiệp'
+subcategory: '企業列傳'
 author: 'Taiwan.md'
 readingTime: 8
 featured: false

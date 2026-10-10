@@ -13,7 +13,7 @@ tags:
     'सेडेक बाले',
     'ताइनान',
   ]
-subcategory: 'फ़िल्म और नाटक'
+subcategory: '電影與戲劇'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07
@@ -22,6 +22,7 @@ readingTime: 7
 translatedFrom: 'People/魏德聖.md'
 sourceCommitSha: '8f070a887'
 sourceContentHash: 'sha256:3df4d3f96096486a'
+sourceBodyHash: 'sha256:9fd756dd61905363'
 translatedAt: '2026-07-30T05:09:57.336147+00:00'
 ---
 
@@ -87,7 +88,7 @@ translatedAt: '2026-07-30T05:09:57.336147+00:00'
 
 1969 में ताइनान के योंगकांग में जन्म, 2000 में 500,000 से 5 मिनट की फिल्म बनाई लेकिन धन नहीं मिला, 2008 में 530,000,000 बॉक्स ऑफिस, 2011 वेनिस मुख्य प्रतियोगिता; यह रेखा, धैर्य का संचय है, चमत्कार से कोई संबंध नहीं।
 
-**विस्तारित पठन**：[मोना रुदाओ: बीस डॉलर के सिक्के पर अंकित जापान-विरोधी नायक](/people/莫那·魯道)（《सेडेक बाले》 के नायक का प्रोटोटाइप, और फिल्म ने कैसे स्मृति को पुनर्गठित किया）｜ [वे ते-शेंग — विकिपीडिया](https://zh.wikipedia.org/zh-tw/魏德聖) ｜ [ताइवान फिल्म डेटाबेस: वे ते-शेंग](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12549) ｜ [गोल्डन हॉर्स अवार्ड आधिकारिक](https://www.goldenhorse.org.tw/)
+**विस्तारित पठन**：[मोना रुदाओ: बीस डॉलर के सिक्के पर अंकित जापान-विरोधी नायक](/hi/people/mona-rudao)（《सेडेक बाले》 के नायक का प्रोटोटाइप, और फिल्म ने कैसे स्मृति को पुनर्गठित किया）｜ [वे ते-शेंग — विकिपीडिया](https://zh.wikipedia.org/zh-tw/魏德聖) ｜ [ताइवान फिल्म डेटाबेस: वे ते-शेंग](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12549) ｜ [गोल्डन हॉर्स अवार्ड आधिकारिक](https://www.goldenhorse.org.tw/)
 
 ## संदर्भ सामग्री
 

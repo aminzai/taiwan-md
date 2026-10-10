@@ -11,7 +11,7 @@ tags:
     'Industri Manufaktur',
     'ODM',
   ]
-subcategory: 'Profil Perusahaan'
+subcategory: '企業列傳'
 author: 'Taiwan.md'
 readingTime: 8
 featured: false
@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：和碩聯合.md'
 sourceCommitSha: '24efd20f3'
 sourceContentHash: 'sha256:dc67a77228383374'
+sourceBodyHash: 'sha256:8c8993cc9ab020c5'
 translatedAt: '2026-09-13T05:41:27.168997+00:00'
 ---
 

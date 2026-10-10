@@ -91,7 +91,7 @@ translatedAt: '2026-09-18T00:52:59+08:00'
 
 ![炭酸カルシウムと樹脂でできた石頭紙の走査型電子顕微鏡画像，Charles Kazilek, CC BY-SA 4.0](https://upload.wikimedia.org/wikipedia/commons/2/21/Scanning_electron_image_of_paper_made_from_stone_material_-_100x.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
-_画像：Charles Kazilek, 〈Scanning electron image of paper made from stone material - 100x〉, Wikimedia Commons, CC BY-SA 4.0。本画像は石頭紙の顕微鏡画像であり、特定の台湾企業の製品を代表するものではありません。ライセンスとファイル情報。_
+_画像：Charles Kazilek, 〈Scanning electron image of paper made from stone material - 100x〉, Wikimedia Commons, CC BY-SA 4.0。本画像は石頭紙の顕微鏡画像であり、特定の台湾企業の製品を代表するものではありません。ライセンスとファイル情報。 [授權與檔案資訊](https://commons.wikimedia.org/wiki/File:Scanning_electron_image_of_paper_made_from_stone_material_-_100x.jpg)_
 
 台湾の石頭紙の物語は、台南（たいなん）の龍盟複合材料（りょうめいふくごうざいりょう）と関連付けられることがよくあります。全国商業総会（全商）の報道によれば、梁石輝（りょう・しきき）が初期にプラスチック袋の原料に炭酸カルシウムを添加してコストを削減する過程で、石粉を使って木パルプを代替できないか考察し、何年も研究開発に注力したことが記されています。これは企業の報道における研究開発の経緯であり、台湾がいかにしてプラスチック加工の経験を紙材の革新に持ち込んだかを示していますが、製品のすべての環境効果を単独で証明するものではありません[^12]。
 

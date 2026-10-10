@@ -20,7 +20,7 @@ tags:
     'Musik Indie',
     'Masyarakat Adat',
   ]
-subcategory: 'Musik dan Pertunjukan'
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-07
@@ -124,9 +124,9 @@ Dia terbuka bantah scalper, tambah show, posting ingatkan penggemar jadi korban.
 **Baca Lanjutan**:
 
 - [EggPlantEgg](/id/music/eggplant-egg-band) — Band yang juga lewat kreasi Bahasa Taiwan masuk mainstream, Penyanyi Baru Terbaik Golden Melody 2019
-- [Musik Indie Taiwan](/music/台灣獨立音樂) — Dari underground ke era streaming, ekosistem musik indie tempat Crowd Lu berkembang
+- [Musik Indie Taiwan](/id/music/indie-music-scene) — Dari underground ke era streaming, ekosistem musik indie tempat Crowd Lu berkembang
 - [Qseries (植劇場)](/id/art/qseries-drama-platform) — Proyek inovasi drama Wang Hsiao-ti, tempat lahir _Flower Jia Boys Growing Up_
-- [Perkembangan Hip Hop dan Rap Taiwan](/music/台灣嘻哈與饒舌發展) — Jalur evolusi musik Taiwan era yang sama
+- [Perkembangan Hip Hop dan Rap Taiwan](/id/music/taiwan-hip-hop-and-rap) — Jalur evolusi musik Taiwan era yang sama
 
 ## Referensi
 
@@ -160,7 +160,7 @@ Dia terbuka bantah scalper, tambah show, posting ingatkan penggemar jadi korban.
 
 [^15]: [Wikipedia "Your Name Engraved Herein" Film](https://zh.wikipedia.org/zh-hant/%E5%88%BB%E5%9C%A8%E4%BD%A0%E5%BF%83%E5%BA%95%E7%9A%84%E5%90%8D%E5%AD%97) — Detail film LGBT Taiwan 2020, timeline rilis global Netflix.
 
-[^16]: [Wikipedia "Your Name Engraved Herein" Lagu (Inggris)](<https://en.wikipedia.org/wiki/Your_Name_Engraved_Herein_(song)>) — YouTube 64 juta tayangan, empat wilayah KKBOX juara, tanggapan Richard Sanderson soal tuduhan plagiarisme.
+[^16]: [Wikipedia "Your Name Engraved Herein" Lagu (Inggris)](https://en.wikipedia.org/wiki/Your_Name_Engraved_Herein_(song) — YouTube 64 juta tayangan, empat wilayah KKBOX juara, tanggapan Richard Sanderson soal tuduhan plagiarisme.
 
 [^17]: [Central News Agency "Golden Horse 57 Lagu Film Terbaik"](https://www.cna.com.tw/news/firstnews/202011210239.aspx) — Laporan kemenangan Golden Horse ke-57.
 

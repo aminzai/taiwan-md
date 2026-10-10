@@ -213,7 +213,7 @@ It's the same water of the Keelung River.
 **Further Reading:**
 
 - [Jinguashi](/en/geography/jinguashi) — Sister settlement upstream on the same Keelung River, mining heritage transformed via the "Gold Ecological Park" eco-museum path
-- [History of Taiwan Railways](/en/history/TBD-NEEDS-SLUG) — The Pingxi Line railway, opened in 1920, is the physical backbone of the tourism corridor linking Houtong, Pingxi, Jingtong, and Shifen
+- [History of Taiwan Railways](/en/history/taiwan-railway-history) — The Pingxi Line railway, opened in 1920, is the physical backbone of the tourism corridor linking Houtong, Pingxi, Jingtong, and Shifen
 - [Stray Animal Culture in Taiwan](/en/society/stray-animal-culture) — The Taiwan context of TNVR policy implementation; Houtong is one of the few successful cases
 - [Zoos and the Ethics of Exhibition Animals](/en/society/zoo-and-exhibition-animal-ethics) — "Cat tourism" and the same animal ethics tensions as zoos and aquariums
 - [Sky Lanterns](/en/culture/sky-lanterns-pingxi) — The Pingxi Sky Lantern Festival faces the same "local economy vs. animal protection / environmental responsibility" tensions in mining heritage settlement transformation
@@ -232,7 +232,7 @@ This article uses 3 Wikimedia Commons CC-licensed images, all cached in `public/
 
 [^2]: [CNN — Six travel hotspots where cats rule](https://www.cnn.com/travel/article/where-cats-outshine-sights) — CNN Travel, November 2013: original article listing Houtong among the "six best cat-watching destinations in the world," alongside Rome's Largo di Torre Argentina, Japan's Tashirojima, Ainoshima, Turkey's Kalkan, and Florida's Hemingway House.
 
-[^3]: [Cat Lady's Post-Withdrawal Reflections — Culture Journal](https://medium.com/%E6%96%87%E5%8C%96%E4%B8%80%E5%91%A8-culture-journal/1346-%E8%B2%93%E5%A4%AB%E4%BA%BA-%E7%B0%A1%E4%BD%A9%E7%8E%B2-%E5%A4%A9%E6%99%82%E5%9C%B0%E5%88%A9%E4%BF%82%E7%8C%B4%E7%A1%90-%E7%9B%BC-%E5%B0%8A%E9%87%8D%E5%8B%95%E7%89%A9-%E7%B2%BE%E7%A5%9E%E7%95%99%E7%95%B6%E5%9C%B0-745b76cc341d) — Post-withdrawal reflection interview, including the original quotes "I once thought I was indispensable" and "only when people are taken care of can the animals possibly be better."
+[^3]: [Cat Lady's Post-Withdrawal Reflections — Culture Journal](https://medium.com/%E6%96%87%E5%8C%96%E4%B8%80%E5%91%A8-culture-journal/1346-%E8%B2%93%E5%A4%AB%E4%BA%BA-%E7%B0%A1%E4%BD%A9%E7%8E%B2-%E5%A4%A9%E6%99%82%E5%9C%B0%E5%88%A9%E4%BF%83%E7%8C%B4%E7%A1%90-%E7%9B%BC-%E5%B0%8A%E9%87%8D%E5%8B%95%E7%89%A9-%E7%B2%BE%E7%A5%9E%E7%95%99%E7%95%B6%E5%9C%B0-745b76cc341d) — Post-withdrawal reflection interview, including the original quotes "I once thought I was indispensable" and "only when people are taken care of can the animals possibly be better."
 
 [^4]: [Ruisan Main Mine Closure on May 1, 1990 — PTS Our Island](https://ourisland.pts.org.tw/content/11309) — PTS Our Island report on Ruisan Mining's official closure on May 1, 1990, peak production in 1970 accounting for one-seventh of Taiwan's total output, and over 1,500 miners (correcting v1's "July closure").
 

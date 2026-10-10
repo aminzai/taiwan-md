@@ -279,11 +279,11 @@ Memahami "aku tiap bulan potong 200 elemen" dari "buat kebaikan" ulang jadi "gan
 ## Bacaan Lanjutan
 
 - [Media Taiwan dan Kebebasan Pers](/id/society/media-and-press-freedom-in-taiwan) — Dari partai, pemerintah, militer keluar media hingga ekosistem media saat ini panorama.
-- [TV Publik](/society/公視) — Jalur media publik lain: anggaran undang-undang suportin versi siaran "barang publik".
-- [Global Views Monthly](/society/天下雜誌) — Tempat Ho Jung-hsing sebelum tinggalkan Editor-in-Chief, representasi media keuangan komersial Taiwan.
-- [Perang Kognitif](/society/認知作戰) — Statistik, AI hoaks, strategi zona abu-abu, sama _The Reporter_ spesial Statistik 2026 saling background.
-- [Perang Kognitif Kentang Beracun](/society/毒馬鈴薯認知作戰) — Satu kasus konkrit perang kognitif studi kasus.
-- [PTT](/technology/PTT批踢踢) — Era pra-jaringan Taiwan domain publik, sama _The Reporter_ satu garis "platform tidak netral" konteks.
+- [TV Publik](/id/society/pts-public-television-service) — Jalur media publik lain: anggaran undang-undang suportin versi siaran "barang publik".
+- [Global Views Monthly](/id/society/commonwealth-magazine) — Tempat Ho Jung-hsing sebelum tinggalkan Editor-in-Chief, representasi media keuangan komersial Taiwan.
+- [Perang Kognitif](/id/society/cognitive-warfare-against-taiwan) — Statistik, AI hoaks, strategi zona abu-abu, sama _The Reporter_ spesial Statistik 2026 saling background.
+- [Perang Kognitif Kentang Beracun](/id/society/poisoned-potato-cognitive-warfare-taiwan) — Satu kasus konkrit perang kognitif studi kasus.
+- [PTT](/id/technology/ptt-bulletin-board-system) — Era pra-jaringan Taiwan domain publik, sama _The Reporter_ satu garis "platform tidak netral" konteks.
 
 ## Sumber Gambar
 

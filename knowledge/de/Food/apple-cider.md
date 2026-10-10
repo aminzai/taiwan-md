@@ -224,11 +224,11 @@ Wie das nächste 60. Jahr überdauern wird, kann niemand mit einer einzigen Ank�
 
 **Weiterführende Literatur:**
 
-- [Taiwanesische Hochzeitenkultur](/food/台灣辦桌文化) — Die Rolle von Getränken auf dem HochzeTisch, wo Apfel-Sidra in diesem System steht
-- [Taiwanesische Handgemachte Getränke](/food/台灣手搖飲文化) — Von Tee bis Sprudelgetränke: Wie Taiwanese trinken
-- [Taiwanesische Unternehmen: Unification Enterprises](/economy/台灣企業：統一企業) — Der Hauptwettbewerb im Getränkemarkt
-- [Taiwanesische Unternehmen: Yi-Mei Lebensmittel](/economy/台灣企業：義美食品) — Eine weitere etablierte Marke mit Lebensmittel-Sicherheitskrise
-- [Taiwanesische Börse und Kapitalmarkt](/economy/台灣股市與資本市場) — Der „Shi-Jin-She“ Skandal 1985, der „Hsun Yuan-Skandal“ 1990 und der Hintergrund der Markenübertragung 1985–1995
+- [Taiwanesische Hochzeitenkultur](/de/food/taiwan-banquet-culture) — Die Rolle von Getränken auf dem HochzeTisch, wo Apfel-Sidra in diesem System steht
+- [Taiwanesische Handgemachte Getränke](/de/food/hand-shaken-drink-culture) — Von Tee bis Sprudelgetränke: Wie Taiwanese trinken
+- [Taiwanesische Unternehmen: Unification Enterprises](/de/economy/taiwan-enterprise-uni-president) — Der Hauptwettbewerb im Getränkemarkt
+- [Taiwanesische Unternehmen: Yi-Mei Lebensmittel](/de/economy/imei-foods-corporation) — Eine weitere etablierte Marke mit Lebensmittel-Sicherheitskrise
+- [Taiwanesische Börse und Kapitalmarkt](/de/economy/taiwan-stock-market) — Der „Shi-Jin-She“ Skandal 1985, der „Hsun Yuan-Skandal“ 1990 und der Hintergrund der Markenübertragung 1985–1995
 
 ## Bildnachweise
 

@@ -35,6 +35,7 @@ sporeLinks:
 translatedFrom: 'Music/落日飛車.md'
 sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:4ae0b9c19401a360'
+sourceBodyHash: 'sha256:2680b892b33ad9fa'
 translatedAt: '2026-09-22T18:33:34.500683+00:00'
 ---
 
@@ -224,7 +225,7 @@ Pada 8 Agustus 2025, mereka secara tiba-tiba merilis album lengkap kelima, 《QU
 
 - [Musik Independen Taiwan](/id/music/indie-music-scene) — Garis perkembangan musik independen Taiwan dari "Crystal Records" pada tahun 1980-an hingga Sunset Rollercoaster, Caodong, dan Kolachi di tahun 2020-an
 - [Budaya Festival Musik Taiwan](/id/music/taiwan-music-festival-culture) — Perubahan latar belakang festival musik Taiwan, dari Teriakan Musim Semi, Panggung Da Gang, hingga Festival Laut Gongliao
-- [Musik Populer Taiwan](/music/台灣流行音樂) — Sejarah musik populer Taiwan dari Gerakan Lagu Rakyat tahun 70-an hingga Era Streaming di tahun 2020-an
+- [Musik Populer Taiwan](/id/music/golden-melodies-legacy-taiwan-pop-music) — Sejarah musik populer Taiwan dari Gerakan Lagu Rakyat tahun 70-an hingga Era Streaming di tahun 2020-an
 - [Industri Musik dan Era Streaming Taiwan](/id/music/taiwan-music-industry-and-the-streaming-era) — Mekanisme jangkauan global band Taiwan di era algoritma Spotify
 - [Chang Xuan dan An Pu](/id/music/deserts-chang-and-anpu) — Rekan seperjuangan Guoguo saat menjadi gitaris di band Algae pada tahun 2012-2016
 

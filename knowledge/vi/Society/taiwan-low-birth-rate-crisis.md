@@ -229,11 +229,11 @@ Bài hát sẽ nhỏ đi, nhưng chừng nào còn người đang hát, thì ch�
 
 **Đọc thêm**:
 
-- [Giáo dục vùng xa xôi Đài Loan](/society/台灣偏鄉教育) — Khi nông thôn sớm bốn mươi năm bước vào sinh con ít, trường tiểu học vùng xa là nơi bức thư này tới trước tiên.
-- [Hệ thống giáo dục và văn hóa thi cử](/society/教育制度與升學文化) — Thoát khỏi đại học, vực thế sinh viên, liên kết với cách toàn xã hội nhìn "thi cử" việc này.
-- [Phát triển hệ thống chăm sóc lâu dài Đài Loan](/society/台灣長期照顧制度發展) — Khi 65 tuổi trở lên vượt 20%, chăm sóc nước ngoài 21,5 vạn giường, chăm sóc lâu dài là đầu kia của sinh con ít.
-- [Ngành công nghiệp robot Đài Loan](/technology/台灣機器人產業) — Nếu người ít là định, tự động hoá sẽ là "tái tổ chức sản xuất trong dân số ít đi" câu trả lời chìa khoá một.
-- [Bức tường cao đẳng của Đài Loan thoát và thoát](/society/台灣高等教育擴張與退場) — Sinh con ít đụng bức tường đại học: từ 58 trở thành 148 sau đó, trường đóng cửa ra sao, chi phí ai chịu.
+- [Giáo dục vùng xa xôi Đài Loan](/vi/society/taiwan-rural-education) — Khi nông thôn sớm bốn mươi năm bước vào sinh con ít, trường tiểu học vùng xa là nơi bức thư này tới trước tiên.
+- [Hệ thống giáo dục và văn hóa thi cử](/vi/society/education-system-and-admissions-culture) — Thoát khỏi đại học, vực thế sinh viên, liên kết với cách toàn xã hội nhìn "thi cử" việc này.
+- [Phát triển hệ thống chăm sóc lâu dài Đài Loan](/vi/society/long-term-care-system-development) — Khi 65 tuổi trở lên vượt 20%, chăm sóc nước ngoài 21,5 vạn giường, chăm sóc lâu dài là đầu kia của sinh con ít.
+- [Ngành công nghiệp robot Đài Loan](/vi/technology/taiwan-robotics-industry) — Nếu người ít là định, tự động hoá sẽ là "tái tổ chức sản xuất trong dân số ít đi" câu trả lời chìa khoá một.
+- [Bức tường cao đẳng của Đài Loan thoát và thoát](/vi/society/taiwan-higher-education-expansion-and-decline) — Sinh con ít đụng bức tường đại học: từ 58 trở thành 148 sau đó, trường đóng cửa ra sao, chi phí ai chịu.
 
 ## Tài liệu tham khảo
 

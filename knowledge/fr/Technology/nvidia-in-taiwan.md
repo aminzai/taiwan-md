@@ -278,10 +278,10 @@ Les noms sur la muraille ne cessent de s'accumuler. Ceux qui tiennent le stylo r
 - [L'industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — Pourquoi Taïwan est devenu le centre mondial de la fabrication de puces ; l'écosystème de la chaîne d'approvisionnement abordé dans cet article offre un contexte plus complet
 - [Entreprise taïwanaise : TSMC](/fr/economy/tsmc) — La « montagne protectrice » qui fabrique chaque puce pour NVIDIA, et le revers de cette médaille
 - [Morris Chang : la destinataire de cette lettre, et l'empire de la fabrication de wafers qu'il a bâti](/fr/people/tsmc-morris-chang) — Le fondateur de TSMC, celui qui a reçu la lettre de Jensen Huang en 1996
-- [Computex : le salon informatique de Taipei, comment il est devenu l'ouverture mondiale de l'IA](/fr/technology/computex-taipei) — La scène où brille cette muraille des logos, le terrain annuel de la haute technologie taïwanaise
+- [Computex : le salon informatique de Taipei, comment il est devenu l'ouverture mondiale de l'IA](/fr/technology/computex) — La scène où brille cette muraille des logos, le terrain annuel de la haute technologie taïwanaise
 - [L'industrie de l'intelligence artificielle](/fr/technology/artificial-intelligence-industry) — De la fabrication des puces NVIDIA à la création de l'écosystème de l'IA, la place de Taïwan dans la vague de l'IA
 - [Développement et stratégie de l'IA taïwanaise](/fr/technology/artificial-intelligence-development-strategy) — L'IA souveraine, TAIDE et l'ambition nationale de Taïwan pour passer de la sous-traitance à l'autonomie
-- [Histoires de la technologie taïwanaise : 100 points pour la puce, 60 pour le micro](/fr/technology/taiwan-tech-stories) — Deux façons de raconter la même puce : la prime au récit de NVIDIA et ce que la technologie taïwanaise doit apprendre
+- [Histoires de la technologie taïwanaise : 100 points pour la puce, 60 pour le micro](/fr/technology/taiwan-tech-storytelling) — Deux façons de raconter la même puce : la prime au récit de NVIDIA et ce que la technologie taïwanaise doit apprendre
 - [Entreprise taïwanaise : Foxconn Precision Industry](/fr/economy/foxconn-precision-industry) — Le géant sous-traitant qui assemble 40 % des systèmes d'IA mondiaux, les plus grandes mains au bas de la courbe du sourire
 
 ## Sources des images

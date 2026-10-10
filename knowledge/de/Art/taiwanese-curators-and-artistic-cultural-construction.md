@@ -106,7 +106,7 @@ _Bei der Erstellung dieses Textes wurden zahlreiche Primärquellen und Interview
 
 **Weiterführende Lektüre**:
 
-- [Mazu International Art Island](/art/馬祖國際藝術島) — Ein zehnjähriges kuratorisches Projekt der Regierung des Kinmen County, bei dem fünf Kuratoren gleichberechtigt leiteten und ein konkretes Beispiel für die Entwicklung hin zu einem Team- und dezentralisierten System im taiwanesischen kuratorischen Ökosystem darstellt.
+- [Mazu International Art Island](/de/art/matsu-biennial) — Ein zehnjähriges kuratorisches Projekt der Regierung des Kinmen County, bei dem fünf Kuratoren gleichberechtigt leiteten und ein konkretes Beispiel für die Entwicklung hin zu einem Team- und dezentralisierten System im taiwanesischen kuratorischen Ökosystem darstellt.
 
 ## Referenzen
 

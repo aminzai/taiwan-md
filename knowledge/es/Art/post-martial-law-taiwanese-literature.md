@@ -3,7 +3,7 @@ title: 'La literatura taiwanesa tras la ley marcial'
 description: 'Treinta y ocho años de represión se desvanecieron de la noche a la mañana, y la creación literaria experimentó un gran florecimiento, pero la libertad no significa ausencia de restricciones: nuevos desafíos surgieron silenciosamente'
 date: 2026-03-18
 category: Art
-subcategory: "'文學'"
+subcategory: '文學'
 tags:
   [
     'Literatura',

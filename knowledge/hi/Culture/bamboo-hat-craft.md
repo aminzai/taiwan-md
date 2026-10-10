@@ -20,6 +20,7 @@ readingTime: 14
 translatedFrom: 'Culture/斗笠.md'
 sourceCommitSha: '172e37b14'
 sourceContentHash: 'sha256:79bdc16e1c9ab31c'
+sourceBodyHash: 'sha256:734b56860ef83000'
 translatedAt: '2026-09-25T14:06:05.213453+00:00'
 ---
 

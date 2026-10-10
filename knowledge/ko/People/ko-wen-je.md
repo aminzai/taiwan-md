@@ -3,7 +3,7 @@ title: '커 원저: ECMO 프로토콜 확립자에서 제3세력의 기수로'
 description: '대만 최초의 무소속 타이베이 시장, 한 중증의학 교수의 파란만장한 정치사'
 date: 2026-03-30
 tags: [인물, 정치, 타이베이 시장, 대만민중당, 의사, 제3세력]
-subcategory: '정치와 민주주의'
+subcategory: '政治與民主'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 8

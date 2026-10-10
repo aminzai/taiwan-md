@@ -2,7 +2,7 @@
 title: '中華民国美学：県市旗から街角の看板まで、ある島がいかに生活を視覚的なパズルに仕立てたか'
 description: '街並み、建築、県市旗、看板から公的機関のデザインまで、中華民国美学がいかに形成されたか、そしてなぜ台湾を「醜い」だけで片付けられないのかを問う。'
 category: 'Geography'
-subcategory: '都市と人文地理'
+subcategory: '城市與人文地理'
 tags:
   [
     '街並み',
@@ -23,6 +23,7 @@ featured: false
 translatedFrom: 'Geography/中華民國美學.md'
 sourceCommitSha: 'ba877ac2b'
 sourceContentHash: 'sha256:533282f9f1196f7a'
+sourceBodyHash: 'sha256:26c6e79fd91efe41'
 translatedAt: '2026-09-11T22:05:50.868379+00:00'
 ---
 

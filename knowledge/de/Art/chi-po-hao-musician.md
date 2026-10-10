@@ -171,10 +171,10 @@ Unsere Ohren haben keine Tülle. Aber ob wir ein offenes Ohr haben、 ist eine a
 
 ## Weiterführende Literatur
 
-- **[Lin Jingyao](/art/林經堯)** — Ebenfalls ein Klang- und Technologie-Künstler in der C-LAB-Szene、 von der Tai Chi Cloud Hand zum generativen Künstler
+- **[Lin Jingyao](/de/art/lin-ching-yao-artist)** — Ebenfalls ein Klang- und Technologie-Künstler in der C-LAB-Szene、 von der Tai Chi Cloud Hand zum generativen Künstler
 - **[Wang Xinhren (A-Lung)](/de/art/wang-hsin-jen-artist)** — Digitalkünstler、 Mitbegründer von akaSwap、 Generation X、 aber eher im NFT-Kuratorium
-- **[Hello Nico](/people/Hello-Nico)** — Pohao Chis frühere Identität als unabhängige Band、 Synthesizer-Spieler beim EP „Drifting City“ 2014
-- **[Taiwanesische neue Medienkunst](/art/台灣新媒體藝術)** — Die Position der Klangkunst in der taiwanesischen neuen Medienkunst
+- **[Hello Nico](/de/people/hello-nico-band)** — Pohao Chis frühere Identität als unabhängige Band、 Synthesizer-Spieler beim EP „Drifting City“ 2014
+- **[Taiwanesische neue Medienkunst](/de/art/taiwan-new-media-art)** — Die Position der Klangkunst in der taiwanesischen neuen Medienkunst
 
 ## Quellen
 

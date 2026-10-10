@@ -4,7 +4,15 @@ description: '1956 in Taipeh geboren, Vater Chu Hsi-ning. Gründete 1977 mit Hu 
 date: 2026-03-19
 category: 'People'
 subcategory: '文學'
-tags: ['Literatur', 'Filmdrehbuch', 'Hou Hsiao-hsien', 'Chu Hsi-ning', 'San-San-Literatur', 'Aufzeichnungen der Verzweifelten']
+tags:
+  [
+    'Literatur',
+    'Filmdrehbuch',
+    'Hou Hsiao-hsien',
+    'Chu Hsi-ning',
+    'San-San-Literatur',
+    'Aufzeichnungen der Verzweifelten',
+  ]
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07
@@ -13,6 +21,7 @@ readingTime: 7
 translatedFrom: 'People/朱天文.md'
 sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:70b5f8b7a44361ea'
+sourceBodyHash: 'sha256:bf6107b943cdb54e'
 translatedAt: '2026-08-19T04:30:30+08:00'
 ---
 

@@ -14,7 +14,7 @@ tags:
     'Quyền lợi y tế',
     'GMP',
   ]
-subcategory: 'Quyền lợi và bình đẳng'
+subcategory: '人權與平等'
 author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-05-19
@@ -273,10 +273,10 @@ Mỗi tháng 10, một bà cụ Hungary từng mở radio, nghe im lặng Ủy b
 
 **Đọc thêm**:
 
-- [Hệ thống Y tế Công cộng và Phòng chống Dịch của Đài Loan](/society/台灣公共衛生與防疫體系) — Bối cảnh đầy đủ của hệ thống phòng chống dịch Đài Loan trong thời kỳ COVID-19, việc mua BNT năm 2021 là một đoạn trong đó
-- [Luật Y tế](/society/醫療法) — Luật Kép Tái sinh Mô là một luật đặc biệt độc lập từ Luật Y tế; Luật Y tế là luật gốc về quy định y tế cơ sở của Đài Loan
+- [Hệ thống Y tế Công cộng và Phòng chống Dịch của Đài Loan](/vi/society/taiwan-public-health-epidemic-response) — Bối cảnh đầy đủ của hệ thống phòng chống dịch Đài Loan trong thời kỳ COVID-19, việc mua BNT năm 2021 là một đoạn trong đó
+- [Luật Y tế](/vi/society/medical-care-act) — Luật Kép Tái sinh Mô là một luật đặc biệt độc lập từ Luật Y tế; Luật Y tế là luật gốc về quy định y tế cơ sở của Đài Loan
 - [Phát triển Ngành Công nghệ Sinh học Đài Loan](/technology/台灣生技產業發展) — Bối cảnh toàn thể công nghệ sinh học từ học xây dựng tới công nghiệp, liệu pháp tế bào và nền tảng mRNA đều là nhánh của nó
-- [Y tế Đài Loan và Bảo hiểm Y tế Quốc dân Toàn dân](/lifestyle/台灣醫療與全民健保) — Liệu pháp tế bào có thể được đưa vào trang trí bảo hiểm y tế toàn dân hay không, là chìa khóa của tầm nhìn "Ngân hàng Tế bào Châu Á"; cấu trúc ngân sách tổng dân số bảo hiểm cũng xác định con đường thương mại hóa liệu pháp tái sinh mô
+- [Y tế Đài Loan và Bảo hiểm Y tế Quốc dân Toàn dân](/vi/lifestyle/taiwan-healthcare-and-national-health-insurance) — Liệu pháp tế bào có thể được đưa vào trang trí bảo hiểm y tế toàn dân hay không, là chìa khóa của tầm nhìn "Ngân hàng Tế bào Châu Á"; cấu trúc ngân sách tổng dân số bảo hiểm cũng xác định con đường thương mại hóa liệu pháp tái sinh mô
 - [Ngành Công nghệ Y tế Đài Loan](/economy/台灣醫療產業) — Sản xuất thuốc mới và khía cạnh công nghiệp CDMO, bổ sung với quan điểm tuân thủ của bài viết
 
 ## Nguồn Hình Ảnh

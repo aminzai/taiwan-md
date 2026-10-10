@@ -14,7 +14,7 @@ tags:
     'Sastra Tanah Air',
     'Debat Sastra',
   ]
-subcategory: 'Sastra'
+subcategory: '文學'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-24
@@ -23,6 +23,7 @@ readingTime: 13
 translatedFrom: 'Art/台灣文學史.md'
 sourceCommitSha: '4d7fab8ee'
 sourceContentHash: 'sha256:e97160f506bdd53f'
+sourceBodyHash: 'sha256:b3ce615995198c0c'
 translatedAt: '2026-07-30T23:29:08.621029+00:00'
 ---
 
@@ -185,11 +186,11 @@ Seperti yang dikatakan penyair Yu Kwang-chung: 「台灣最美的是人情」, d
 ## Bacaan Lanjutan
 
 - [Taiwan Travelogue](/id/art/taiwan-travelogue) — Novel pseudo-terjemahan karya Yang Shuang-zi, karya sastra Taiwan pertama yang meraih National Book Award AS 2024 dan International Booker Prize 2026, mengandung "Seruan Seabad Sastra Taiwan" sebagaimana diucapkan Yang Shuang-zi dalam pidatonya
-- [Sastra Masa Pendudukan Jepang](/art/日治時期文學) — 1895-1945 era bahasa Jepang milik Lai Ho, Yang Kui, Lu Ho-jo, Chang Wen-huan
-- [Sastra Taiwan Pasca-Perang](/art/戰後台灣文學) — 1945-1987 42 tahun masa hukum darurat dari kehilangan suara, modernisme, perdebatan nativis, hingga kebangkitan perempuan
-- [Sastra Taiwan Pasca-Hukum Darurat](/art/解嚴後台灣文學) — 1987-2000 generasi peralihan dengan ledakan politik, gender, dan keberagaman bahasa ibu
-- [Sastra Taiwan Kontemporer](/art/當代台灣文學) — Abad ke-21 internasionalisasi, Lin Yi-han, sastra digital
-- [Lin Liang](/people/林良) — Pendiri sastra anak Taiwan pasca-perang, 1948-2019 mendefinisikan "Menulis untuk Anak-Anak" sebagai pekerjaan serius melalui "Seni Bahasa Sederhana"
+- [Sastra Masa Pendudukan Jepang](/id/art/taiwanese-literature-during-japanese-rule) — 1895-1945 era bahasa Jepang milik Lai Ho, Yang Kui, Lu Ho-jo, Chang Wen-huan
+- [Sastra Taiwan Pasca-Perang](/id/art/postwar-taiwanese-literature) — 1945-1987 42 tahun masa hukum darurat dari kehilangan suara, modernisme, perdebatan nativis, hingga kebangkitan perempuan
+- [Sastra Taiwan Pasca-Hukum Darurat](/id/art/post-martial-law-taiwanese-literature) — 1987-2000 generasi peralihan dengan ledakan politik, gender, dan keberagaman bahasa ibu
+- [Sastra Taiwan Kontemporer](/id/art/contemporary-taiwanese-literature) — Abad ke-21 internasionalisasi, Lin Yi-han, sastra digital
+- [Lin Liang](/id/people/lin-liang-childrens-literature) — Pendiri sastra anak Taiwan pasca-perang, 1948-2019 mendefinisikan "Menulis untuk Anak-Anak" sebagai pekerjaan serius melalui "Seni Bahasa Sederhana"
 
 ## Referensi
 

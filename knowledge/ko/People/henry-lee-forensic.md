@@ -3,7 +3,7 @@ title: '헨리 리 (李昌鈺)'
 description: '뼛조각 하나로 법의학의 전설을 세웠지만, 수건 위의 "혈흔" 하나로 두 사람을 30년 억울한 옥살이로 몰아넣었다.'
 date: 2026-03-29
 tags: ['인물', '법의학', '대만계 미국인', '형사 조사']
-subcategory: '과학과 학술'
+subcategory: '科學與學術'
 category: 'People'
 author: 'Taiwan.md'
 translatedFrom: 'People/李昌鈺.md'

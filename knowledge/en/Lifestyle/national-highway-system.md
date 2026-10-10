@@ -27,6 +27,7 @@ relatedDiary: ['2026-07-18-103939-manual', '2026-07-19-092138-標點主權閘']
 translatedFrom: 'Lifestyle/高速公路.md'
 sourceCommitSha: '79f66898d'
 sourceContentHash: 'sha256:caaea3b8ab3896dc'
+sourceBodyHash: 'sha256:b76c8d691b6d2510'
 translatedAt: '2026-09-26T03:01:57.849641+00:00'
 ---
 

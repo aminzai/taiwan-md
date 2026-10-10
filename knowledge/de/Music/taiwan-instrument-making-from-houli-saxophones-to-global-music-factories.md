@@ -33,6 +33,7 @@ relatedDiary: ['2026-07-17-221115-manual']
 translatedFrom: 'Music/台灣樂器製造.md'
 sourceCommitSha: 'b4f3dab63'
 sourceContentHash: 'sha256:384848975d3b840a'
+sourceBodyHash: 'sha256:cda00c8983ea5b23'
 translatedAt: '2026-09-26T04:50:42.476751+00:00'
 ---
 
@@ -208,7 +209,7 @@ Wenn Sie das nächste Mal ein Saxophon hören, Schulkapellenblechbläser, eine S
 
 - [Kleine und mittlere Unternehmen in Taiwan und Hidden Champions](/de/economy/taiwan-smes-and-hidden-champions) — Die Meister-Lehrlings-Cluster und das duale Markenbildungsmodell der Musikinstrumentenindustrie bilden ein weiteres resonantes Rückgrat der Hidden-Champions-Erzählung
 - [Taichung](/de/geography/taichung-city) — Saxophon aus Houli, Spieluhren aus Wufeng, Schlagzeugproduktionslinien aus Tanzi – unterschiedliche Industrielogiken in derselben Stadt
-- [Kaohsiung](/geography/高雄市) — Das Gitarrenreich der Nanzi-Verarbeitungszone und die geografischen Koordinaten der Fabrikschließungserinnerungen
+- [Kaohsiung](/de/geography/kaohsiung-city) — Das Gitarrenreich der Nanzi-Verarbeitungszone und die geografischen Koordinaten der Fabrikschließungserinnerungen
 - [Taiwanische Nationalmusik](/de/music/taiwanese-traditional-chinese-orchestra-music) — Der Aufstieg und Fall von Herstellern traditioneller chinesischer Instrumente und eine weitere Produktionslinie für Musikinstrumente nach der Öffnung zwischen den beiden Seiten der Taiwanstraße (dieser Artikel behandelt dies nur kurz)
 - [Taiwans Musikindustrie und das Streaming-Zeitalter](/de/music/taiwan-music-industry-and-the-streaming-era) — Struktureller Vergleich der Industrie vom Herstellungsende zum Inhalts- und Urheberrechtsende
 

@@ -18,7 +18,7 @@ tags:
     'Tian-Diao-Tournee',
     'Hakka',
   ]
-subcategory: 'Musik und Performance'
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-26
@@ -32,6 +32,7 @@ sporeLinks:
 translatedFrom: 'People/田馥甄.md'
 sourceCommitSha: '380c49d7e'
 sourceContentHash: 'sha256:9f8381739b864e8b'
+sourceBodyHash: 'sha256:0f8970c54b5cd9d2'
 translatedAt: '2026-09-12T00:24:21.457260+00:00'
 ---
 
@@ -58,7 +59,7 @@ Diesen Satz verstehen nur die, die sie als Kind gekannt haben. 1983 wurde Hebe T
 
 Im Jahr 2000 nahm Hebe Tien in Hsinchu an dem „U2000 Power Beauty Contest“ teil, den U2 Records, der Vorgänger von HIM International Music, veranstaltete. Im Finale sang sie „Like You“ von Kit Chan, vergaß aber mitten im Lied den Text und verlor den ersten Platz[^2].
 
-Aber sie hatte nicht verloren. Nach dem Wettbewerb stellte die Plattenfirma sie zusammen mit Ren Jiaxuan (Selina) und Chen Jiahua (Ella) zur Dreiergruppe S.H.E zusammen, die am 11. September 2001 ihr erstes Album „Girls' Dormitory“ veröffentlichte[^3]. Jede der drei hatte ihre Positionierung: Selina für Sanftmut, Ella für Mut, Hebe für Selbstvertrauen, repräsentiert durch die Farbe Grün. In den folgenden zehn Jahren veröffentlichte S.H.E insgesamt 13 Alben mit Gesamtverkäufen von über 10 Millionen Exemplaren[^4]. Sie waren das Synonym für Girlgroups im chinesischsprachigen Popmusik von 2001 bis 2010. Siehe dazu [Taiwans neue Idol-Generation](/culture/台灣新偶像世代) und die dort beschriebene abgebrochene Idol-Gruppen-Produktionslinie, um das Gewicht von S.H.E in jener Ära zu verstehen.
+Aber sie hatte nicht verloren. Nach dem Wettbewerb stellte die Plattenfirma sie zusammen mit Ren Jiaxuan (Selina) und Chen Jiahua (Ella) zur Dreiergruppe S.H.E zusammen, die am 11. September 2001 ihr erstes Album „Girls' Dormitory“ veröffentlichte[^3]. Jede der drei hatte ihre Positionierung: Selina für Sanftmut, Ella für Mut, Hebe für Selbstvertrauen, repräsentiert durch die Farbe Grün. In den folgenden zehn Jahren veröffentlichte S.H.E insgesamt 13 Alben mit Gesamtverkäufen von über 10 Millionen Exemplaren[^4]. Sie waren das Synonym für Girlgroups im chinesischsprachigen Popmusik von 2001 bis 2010. Siehe dazu [Taiwans neue Idol-Generation](/de/culture/taiwan-new-idol-generation) und die dort beschriebene abgebrochene Idol-Gruppen-Produktionslinie, um das Gewicht von S.H.E in jener Ära zu verstehen.
 
 > **📝 Kuratorennotiz**
 > Sängerinnen von Hebe Tiens Generation hatten selten so etwas wie „Soloalben“. Sie war eine Stimme, ein Gesicht, eine Farbe von S.H.E. Zehn Jahre lang 13 Alben, über 10 Millionen Verkäufe – die Firma hatte keinen Grund, sie solo gehen zu lassen. Das Risiko eines Soloalbums bestand darin, diese geldbringende Dreistimmigkeit auseinanderzubrechen.
@@ -191,7 +192,7 @@ Wird das sechste Album dieses Jahr erscheinen? 2025 hat sie bereits in Salinen g
 ## Weiterführende Links
 
 - [Chen Chien-chi](/de/people/chen-chien-chi-music-producer) — Hebe Tiens fester Produzent seit 2013, Bester Albumproduzent der 32. Golden Melody Awards
-- [Taiwans neue Idol-Generation](/culture/台灣新偶像世代) — Die zwanzig Jahre der Lücke bei taiwanesischen Idol-Gruppen nach S.H.E.
+- [Taiwans neue Idol-Generation](/de/culture/taiwan-new-idol-generation) — Die zwanzig Jahre der Lücke bei taiwanesischen Idol-Gruppen nach S.H.E.
 - [Huang Shao-yong](/de/people/huang-shao-yong-musician) — Neben Chen Chien-chi einer der beiden Produzenten, die die klanglichen Grenzen des chinesischsprachigen Pop der letzten zehn Jahre definieren.
 
 ---

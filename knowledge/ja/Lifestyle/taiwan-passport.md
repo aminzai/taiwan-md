@@ -182,7 +182,7 @@ translatedAt: '2026-09-18T00:52:59+08:00'
 
 [外交部領事事務局：新版ICチップパスポート公告](https://www.boca.gov.tw/cp-56-6090-dc8f2-1.html)。[外交部：2021年新版パスポート設計説明](https://www.mofa.gov.tw/News_Content.aspx?n=13&sms=47&s=92889)。[外交部領事事務局：国民旅外査証便宜](https://www.boca.gov.tw/cp-37-220-9f130-1.html)。[国際民間航空機関：Doc 9303](https://www.icao.int/publications/doc-series/doc-9303)
 
-## 參考資料
+## 参考資料
 
 [^1]: [外交部領事事務局：外交部将於110年1月11日起発行新版ICチップパスポート、歓迎国人踴躍申請](https://www.boca.gov.tw/cp-56-6090-dc8f2-1.html) — 2020年11月30日公告、2021年1月11日発行、表紙識別度、申請場所、手数料、旧パスポート有効期限を説明。
 

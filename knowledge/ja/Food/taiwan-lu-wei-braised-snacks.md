@@ -153,7 +153,7 @@ translatedAt: '2026-09-12T19:57:11+08:00'
 
 [台湾小吃](/ja/food/taiwanese-street-food/) および [夜市文化](/ja/food/night-market-culture/) という Taiwan.md 既存の二項目から、滷味が位置するストリートフードと地方生活の脈絡をさらに理解できる。
 
-## 參考資料
+## 参考資料
 
 [^1]: [巷口美食：台灣滷味的前世今生](https://www.foodnext.net/life/culture/paper/5975248339) — 食力 foodNEXT，2018。
 

@@ -179,12 +179,12 @@ Das ist einer der klarsten und wichtigsten Aspekte Taiwans momentan.
 ## Weiterführende Literatur
 
 - [Taiwan Außenhandel und globale Lieferketten](/de/economy/taiwan-foreign-trade-and-global-supply-chain) — Von exportgetriebenen Handelsbeziehungen, Dreieckshandel bis zur Neuordnung der US-China-Lieferketten.
-- [NVIDIA in Taiwan](/technology/NVIDIA在台灣) — Wie NVIDIA Chipfertigung, Verpackung und Servermontage in Taiwan konzentriert.
+- [NVIDIA in Taiwan](/de/technology/nvidia-in-taiwan) — Wie NVIDIA Chipfertigung, Verpackung und Servermontage in Taiwan konzentriert.
 - [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Von RCA-Technologietransfer, TSMC-Dienstleistungen bis zu Materialien und Verpackungsschlachtfeldern.
-- [Computex](/technology/Computex) — Warum die Taipeher Computermesse in der KI-Ära zur Pilgerschaft für globale Hardware-Lieferanten wurde.
-- [Taiwan Strom und Halbleiter](/technology/台灣的電力與半導體) — Die Stromrechnung hinter der KI-Lieferkette, grüner Strom und Energiesicherheit.
+- [Computex](/de/technology/computex) — Warum die Taipeher Computermesse in der KI-Ära zur Pilgerschaft für globale Hardware-Lieferanten wurde.
+- [Taiwan Strom und Halbleiter](/de/technology/taiwan-electricity-and-semiconductors) — Die Stromrechnung hinter der KI-Lieferkette, grüner Strom und Energiesicherheit.
 - [Halbleiter-Wasser und Taiwan Wasserressourcen](/de/technology/semiconductor-water-use-and-taiwan-water-resources) — Wie Waferfabriken mit Speichern, Dürreperioden, Regenwasser und lokaler Regierung verbunden sind.
-- [KI-Lieferketten im Ausland](/technology/AI供應鏈海外設廠) — Von TSMC, Foxconn, Compal bis zu Delta: Wie taiwanesische Lieferketten von der Welt angefragt werden.
+- [KI-Lieferketten im Ausland](/de/technology/ai-supply-chain-overseas-manufacturing) — Von TSMC, Foxconn, Compal bis zu Delta: Wie taiwanesische Lieferketten von der Welt angefragt werden.
 
 ## Bildnachweise
 

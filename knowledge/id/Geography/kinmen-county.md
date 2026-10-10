@@ -195,17 +195,17 @@ Lihat orang-orang menunggu naik kapal: ada warga Kinmen ke Xiamen cek gigi, ada 
 
 ## Bacaan Lanjutan
 
-- [Kabupaten Lienchiang](/geography/連江縣) — Seri 22 Kabupaten/Kota saudara, kabupaten pulau luar Provinsi Fujian lainnya. Sama 1956 Pemerintahan Darurat Medan, 1992 dihapus, 2001 Tiga Komunikasi Kecil, tapi bicara Min Dong Fuzhou, ke Fuzhou 50 km, tidak punya pertempuran darat skala Guningtou, dengan Kinmen sistem sama tulang daging beda
+- [Kabupaten Lienchiang](/id/geography/lienchiang-county) — Seri 22 Kabupaten/Kota saudara, kabupaten pulau luar Provinsi Fujian lainnya. Sama 1956 Pemerintahan Darurat Medan, 1992 dihapus, 2001 Tiga Komunikasi Kecil, tapi bicara Min Dong Fuzhou, ke Fuzhou 50 km, tidak punya pertempuran darat skala Guningtou, dengan Kinmen sistem sama tulang daging beda
 - [Kota Keelung](/id/geography/keelung-city) — Seri 22 Kabupaten/Kota pilot, satu-satunya pelabunan air dalam utara vs Kinmen benteng pertahanan laut selatan, dua sumbu waktu pelabuhan Taiwan
-- [Kabupaten Penghu](/geography/澎湖縣) — Seri 22 Kabupaten/Kota pulau ketiga, sama Kinmen pulau luar tapi punya sejarah era Jepang, bisa bandingkan Kinmen tidak pernah dijajah langsung Jepang perbedaan
+- [Kabupaten Penghu](/id/geography/penghu-county) — Seri 22 Kabupaten/Kota pulau ketiga, sama Kinmen pulau luar tapi punya sejarah era Jepang, bisa bandingkan Kinmen tidak pernah dijajah langsung Jepang perbedaan
 - [Zheng Chenggong](/id/people/koxinga) — 1646 di Kinmen bangkit anti-Qing pulihkan Ming, orang ini dari Kinmen keputusan nanti mengubah Taiwan
-- [Chiang Kai-shek](/people/蔣中正) — 1958 "Jangan Lupa di Ju" Gunung Taiwu tulisan, 1949 memerintahkan mati-matian pertahankan Kinmen pengambil keputusan
+- [Chiang Kai-shek](/id/people/chiang-kai-shek) — 1958 "Jangan Lupa di Ju" Gunung Taiwu tulisan, 1949 memerintahkan mati-matian pertahankan Kinmen pengambil keputusan
 - [Masa Hukum Darurat](/id/history/martial-law-era) — Pulau Taiwan 1987 hapus hukum darurat, Kinmen dan Mazu 1992 baru hapus Pemerintahan Darurat Medan, tulisan ini bandingkan dua versi hukum darurat
-- [Krisis Selat Taiwan dan Perkembangan Hubungan Lintas Selat](/history/台海危機與兩岸關係發展) — Perang Granat 23 Agustus adalah bukti fisik paling konkret perang dingin jadi panas, paragraf § "Pukul 17.30 Sore" tulisan ini adalah ekstensi lapisan kabupaten/kota tulisan itu
+- [Krisis Selat Taiwan dan Perkembangan Hubungan Lintas Selat](/id/history/taiwan-strait-crises-and-cross-strait-relations) — Perang Granat 23 Agustus adalah bukti fisik paling konkret perang dingin jadi panas, paragraf § "Pukul 17.30 Sore" tulisan ini adalah ekstensi lapisan kabupaten/kota tulisan itu
 - [Pertahanan Nasional Taiwan dan Modernisasi Militer](/id/society/taiwan-defense-modernization) — Evolusi pasukan pemerintahan militer Kinmen 5-10 ribu jadi hari ini kurang dari 1 ribu, bandingkan jejak modernisasi Angkatan Darat Nasional secara keseluruhan
-- [Ciri Geografis dan Pembentukan Kepulauan Taiwan](/geography/台灣島嶼地理特色與形成) — Geologi granit Kinmen bandingkan mekanisme pembentukan pulau-pulau Taiwan lain
+- [Ciri Geografis dan Pembentukan Kepulauan Taiwan](/id/geography/geography-and-geology) — Geologi granit Kinmen bandingkan mekanisme pembentukan pulau-pulau Taiwan lain
 - [Legenda Mazu dan Datuk Gong](/id/culture/mazu-dadaogong-legend) — Kepercayaan Hokkien Kinmen dengan Pulau Taiwan asal sama, dengan Candi Mazu Mazu cerita lubang gaib perbedaan
-- [Pulau Seni Internasional Mazu](/art/馬祖國際藝術島) — Kabupaten Lienchiang jadikan lubang medan perang dan ruang teh militer jadi rencana kurator sepuluh tahun kasus, transformasi medan perang Kinmen jalan beda, bisa bandingkan dua pulau garis depan bagaimana mengelola warisan sama
+- [Pulau Seni Internasional Mazu](/id/art/matsu-biennial) — Kabupaten Lienchiang jadikan lubang medan perang dan ruang teh militer jadi rencana kurator sepuluh tahun kasus, transformasi medan perang Kinmen jalan beda, bisa bandingkan dua pulau garis depan bagaimana mengelola warisan sama
 
 ## Sumber Gambar
 

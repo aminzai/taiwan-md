@@ -236,13 +236,13 @@ NVIDIAのAI学習チップ、アップルのスマホプロセッサ、AMDのサ
 
 ## 延伸閲讀
 
-- [台湾企業：聯發科技](/economy/台灣企業：聯發科技) — 世界第3位のスマホチップ設計企業、ファブレスモデルの台湾代表、TSMCとは相補関係にある双子のような存在
-- [台湾企業：日月光半導體](/economy/台灣企業：日月光半導體) — 世界最大のOSAT（封止・検査）企業、TSMCと同じサプライチェーンの下流重要ノード
-- [台湾股市與資本市場](/economy/台灣股市與資本市場) — TSMCの時価総額は台湾株式市場総時価総額の約35%を占め、台湾株を理解するにはまずTSMCを理解する必要がある
-- [台湾產業轉型升級](/economy/台灣產業轉型升級) — TSMCは台湾が「受託製造の島」から「科学技術の島」へ転身した具体的事例
-- [施振榮](/people/施振榮) — TSMCの取締役を21年務め、個人資産の最大部分をTSMC株に賭けたエイサー創業者、しかし「台湾は受託製造をするな」と説いた「スマイルカーブ」の提唱者でもある
+- [台湾企業：聯發科技](/ja/economy/mediatek) — 世界第3位のスマホチップ設計企業、ファブレスモデルの台湾代表、TSMCとは相補関係にある双子のような存在
+- [台湾企業：日月光半導體](/ja/economy/taiwan-enterprise-ase-semiconductor) — 世界最大のOSAT（封止・検査）企業、TSMCと同じサプライチェーンの下流重要ノード
+- [台湾股市與資本市場](/ja/economy/taiwan-stock-market) — TSMCの時価総額は台湾株式市場総時価総額の約35%を占め、台湾株を理解するにはまずTSMCを理解する必要がある
+- [台湾產業轉型升級](/ja/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMCは台湾が「受託製造の島」から「科学技術の島」へ転身した具体的事例
+- [施振榮](/ja/people/stan-shih) — TSMCの取締役を21年務め、個人資産の最大部分をTSMC株に賭けたエイサー創業者、しかし「台湾は受託製造をするな」と説いた「スマイルカーブ」の提唱者でもある
 - [半導体産業](/ja/technology/taiwan-semiconductor-industry/) — RCA技術導入から窒化ガリウム・量子封止までの50年材料革命、TSMCが属する材料科学の戦場全体
-- [黄崇仁](/people/黃崇仁) — 力晶／力積電創業者、同じ島で別の道を歩んだ男：同じくウェハー製造、一度は千億単位の負債で上場廃止、9年後にようやく再上場
+- [黄崇仁](/ja/people/frank-huang-psmc) — 力晶／力積電創業者、同じ島で別の道を歩んだ男：同じくウェハー製造、一度は千億単位の負債で上場廃止、9年後にようやく再上場
 
 ## 画像出典
 
@@ -251,7 +251,7 @@ NVIDIAのAI学習チップ、アップルのスマホプロセッサ、AMDのサ
 - [TSMC新竹ファブ空撮 (hero)](https://commons.wikimedia.org/wiki/File:TSMC_fabs_in_Hsinchu_01.jpg) — Photo: 曾成訓 (Tseng Cheng-Hsun), 2020-01-02. [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) via Wikimedia Commons.
 - [TSMCアリゾナ Fab 21建設現場空撮](https://commons.wikimedia.org/wiki/File:231105-1_TSMC_Fab_21_construction.jpg) — Photo: Hunter Trick, 2023-11-05. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) via Wikimedia Commons. ShareAlike 4.0：本文（この画像の派生利用含む）は互換ライセンスを採用。
 
-## 參考資料
+## 参考資料
 
 [^1]: [TSMC 2026 Q1 Quarterly Results](https://investor.tsmc.com/english/quarterly-results/2026/q1) — TSMC公式サイト投資家向け情報 2026年第1四半期決算、単四半期売上359億ドル（新台幣1兆1,341億元）、前年比40.6%増、財務ガイダンス上限超えを記録。
 

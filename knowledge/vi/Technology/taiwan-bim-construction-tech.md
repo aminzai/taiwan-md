@@ -91,7 +91,7 @@ Năm 2011, **Metro Đài Bắc Tuyến Vạn Đại lần đầu tiên đưa BIM
 
 Đây là một sự kiện "first" thường được trích dẫn trong việc thúc đẩy BIM tại Đài Loan. Các gói thầu của Tuyến Vạn Đại tuân theo yêu cầu hợp đồng áp dụng chế độ BIM để thiết kế thân ga Metro, đồng thời dẫn nhập các chuyên môn kiến trúc, kết cấu và cơ điện, tích hợp đa chuyên ngành, **giảm thiểu xung đột giao diện thiết kế**[^14].
 
-Theo chân Tuyến Vạn Đại, các công trình công cộng lần lượt triển khai. Ga trên cao Tuyến vòng Metro Đài Bắc Y19, nhiều trung tâm thể thao tại Tân Bắc, [Cao tốc sắt Đài Loan](/vi/lifestyle/taiwan-high-speed-rail/) Ga Miêu Lịch mới, [Sân bay Đào Viên](/lifestyle/桃園機場/) T3, Cao Hùng Tuyến vòng nhẹ: mỗi dự án đều có một case study viết trong tạp chí nội bộ của ABRI, NTUBIM Đại học Quốc lập Đài Loan hoặc Cục Metro.
+Theo chân Tuyến Vạn Đại, các công trình công cộng lần lượt triển khai. Ga trên cao Tuyến vòng Metro Đài Bắc Y19, nhiều trung tâm thể thao tại Tân Bắc, [Cao tốc sắt Đài Loan](/vi/lifestyle/taiwan-high-speed-rail/) Ga Miêu Lịch mới, [Sân bay Đào Viên](/vi/lifestyle/taoyuan-airport/) T3, Cao Hùng Tuyến vòng nhẹ: mỗi dự án đều có một case study viết trong tạp chí nội bộ của ABRI, NTUBIM Đại học Quốc lập Đài Loan hoặc Cục Metro.
 
 Chiến thắng "số liệu" được trích dẫn nhiều nhất là Ga Miêu Lịch Cao tốc sắt Đài Loan: ba tháng trước khai công dẫn nhập BIM, đội giám sát thi công từ mô hình 3D phát hiện nhiều điểm xung đột, **tiết kiệm 20% chi phí thay đổi thiết kế sau đó, công trường định vị sớm hai tháng so với dự kiến**[^15].
 
@@ -265,9 +265,9 @@ Ngày Thạc Đào đưa `REVIT_MCP_study` lên GitHub vào tháng 12 năm 2025[
 **Đọc thêm**:
 
 - [Kiến trúc Đài Loan](/vi/art/taiwanese-architecture) — câu chuyện văn hóa kiến trúc từ nhà đá phiến đến nhà chọc trời; bài viết này là phần đồng hành về số hóa kỹ thuật
-- [Nhà ở xã hội và công bằng cư trú](/society/社會住宅與居住正義) — ứng dụng BIM trong quản lý vận hành nhà ở xã hội là chương trình trọng điểm những năm gần đây của Viện Nghiên cứu Kiến trúc và Xây dựng thuộc Bộ Nội chính
+- [Nhà ở xã hội và công bằng cư trú](/vi/society/social-housing-and-housing-justice) — ứng dụng BIM trong quản lý vận hành nhà ở xã hội là chương trình trọng điểm những năm gần đây của Viện Nghiên cứu Kiến trúc và Xây dựng thuộc Bộ Nội chính
 - [Doanh nghiệp Đài Loan: TSMC](/vi/economy/tsmc) — ứng dụng BIM tại nhà máy TSMC là địa bàn thực tiễn chủ yếu của các nhà thầu như Dacin và Futsu
-- [Sự phát triển AI tại Đài Loan](/technology/AI發展) — Anthropic MCP và MCP tích hợp trong Revit 2027 là trường hợp cụ thể của AI × công nghiệp
+- [Sự phát triển AI tại Đài Loan](/vi/technology/ai-development-in-taiwan) — Anthropic MCP và MCP tích hợp trong Revit 2027 là trường hợp cụ thể của AI × công nghiệp
 - [Ngành bán dẫn](/vi/technology/taiwan-semiconductor-industry) — giải pháp tổng thể cho công trình nhà máy fab cùng hoạt động xây dựng nhà máy thông minh bằng BIM là nền tảng kỹ thuật cho sự mở rộng của cụm công nghiệp bán dẫn
 
 ## Nguồn hình ảnh

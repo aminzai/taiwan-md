@@ -125,7 +125,7 @@ Cet article intègre quatre photos de Wikimedia Commons sur les desserts taïwan
 
 [^7]: [Bureau de la santé de la ville de Keelung : Rapport d'inspection des aliments saisonniers du Nouvel An et du Festival des Lanternes de l'année 112](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01207/f1674011260718.pdf) — PDF d'inspection officiel de 2022, page 2 listant le test des toxines aflatoxiques pour les beignets aux arachides et le résultat conforme aux réglementations, présentant la gouvernance de la sécurité des aliments du Nouvel An.
 
-[^8]: [Wikimedia Commons : Taiwanese sweets (1088069273).jpg](<https://commons.wikimedia.org/wiki/File:Taiwanese_sweets_(1088069273).jpg>) — Auteur : pelican, licence de l'image : CC BY-SA 2.0. Cet article utilise l'URL source originale de Wikimedia Commons, sans télécharger ni modifier l'image.
+[^8]: [Wikimedia Commons : Taiwanese sweets (1088069273).jpg](https://commons.wikimedia.org/wiki/File:Taiwanese_sweets_(1088069273) — Auteur : pelican, licence de l'image : CC BY-SA 2.0. Cet article utilise l'URL source originale de Wikimedia Commons, sans télécharger ni modifier l'image.
 
 [^9]: [Wikimedia Commons : 2010-02-13 Lunar New Year sweets vendor at Dihua Street, Taipei](https://commons.wikimedia.org/wiki/File:2010-02-13_Lunar_New_Year_sweets_vendor_at_Dihua_Street,_Taipei.jpg) — Photo de l'étalage de bonbons du Nouvel An lunaire à la rue Dihua à Taipei en 2010, auteur : eazytraveler, licence : CC BY 2.0, cet article utilise l'URL source originale.
 

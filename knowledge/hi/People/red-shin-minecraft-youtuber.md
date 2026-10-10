@@ -38,6 +38,7 @@ rationale:
 translatedFrom: 'People/阿神.md'
 sourceCommitSha: 'fb7f4f824'
 sourceContentHash: 'sha256:5d4d8978fc43c7cd'
+sourceBodyHash: 'sha256:02c4e1b3fececdae'
 translatedAt: '2026-09-25T21:16:18.075594+00:00'
 ---
 

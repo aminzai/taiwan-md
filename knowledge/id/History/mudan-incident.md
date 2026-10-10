@@ -4,7 +4,7 @@ description: 'Pada tahun 1874, sebuah tindakan militer yang dipicu oleh kecelaka
 date: 2026-07-17
 author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: 'Colonialism and Empire'
+subcategory: '殖民與帝國'
 tags:
   [
     'Insiden Mudan',
@@ -95,8 +95,8 @@ Saat memasuki medan perang kuno Shimen hari ini, lembah tersebut masih terlihat 
 
 ## Bacaan Lanjutan
 
-- [Insiden Kapal Luofang dan Pertemuan dengan Zhang Qidu](/history/羅發號事件與卓杞篤) — Satu lagi insiden kecelakaan laut dan benturan kedaulatan
-- [Periode Pemerintahan Dinasti Qing](/history/清治時期) — Titik balik tata kelola sebelum dan sesudah Kaishan Fuban
+- [Insiden Kapal Luofang dan Pertemuan dengan Zhang Qidu](/id/history/rover-incident-and-tauketok) — Satu lagi insiden kecelakaan laut dan benturan kedaulatan
+- [Periode Pemerintahan Dinasti Qing](/id/history/qing-dynasty-rule) — Titik balik tata kelola sebelum dan sesudah Kaishan Fuban
 - [Charles Le Gendre](/id/people/charles-le-gendre) — Penasihat Amerika di balik layar insiden
 
 ## Referensi
@@ -117,6 +117,6 @@ Saat memasuki medan perang kuno Shimen hari ini, lembah tersebut masih terlihat 
 
 [^9]: [Dokumen Masyarakat Adat. (Tanpa tanggal). Sejarah Peta dan Eksplorasi Ruang Insiden Mudang. Diambil dari](https://ihc.cip.gov.tw/EJournal/EJournalCat/99) — Lihat detail informasi tambahan di dalam tautan asli
 
-[^5]: [Museum Nasional Taiwan. (Tanpa tanggal). Penelitian Artefak Terkait "Insiden Mudang". Diambil dari](https://file.moc.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIwL3JlbGZpbGUvMTQyODQvMTQ4NjY2L2IyNTU1MDMyLTEwZDgtNGEyYS04OGZiLTA1MDMxNjZlYzU2Mi5wZGY%3D&n=MTA05ZyL16Ie654Gj5Y2a54mp6aSo44CM54mh5Li556S%2B5LqL5Lu244CN55u46Zec5paH54mp56CU56m2LnBkZg%3D%3D) — Lihat detail informasi tambahan di dalam tautan asli
+[^5]: [Museum Nasional Taiwan. (Tanpa tanggal). Penelitian Artefak Terkait "Insiden Mudang". Diambil dari](https://file.moc.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIwL3JlbGZpbGUvMTQyODQvMTQ4NjY2L2IyNTU1MDMyLTEwZDgtNGEyYS04OGZiLTA1MDMxNjZlYzU2Mi5wZGY%3D&n=MTA05ZyL56uL6Ie654Gj5Y2a54mp6aSo44CM54mh5Li556S%2B5LqL5Lu244CN55u46Zec5paH54mp56CU56m2LnBkZg%3D%3D) — Lihat detail informasi tambahan di dalam tautan asli
 
 [^7]: [Museum Nasional Palace. (Tanpa tanggal). "Kaishan Fuban" — Kekaisaran Tiongkok dan Masyarakat Adat Taiwan. Diambil dari](https://theme.npm.edu.tw/exh111/TaiwaneseIndigenous_O/ch/page-4.html) — Lihat detail informasi tambahan di dalam tautan asli

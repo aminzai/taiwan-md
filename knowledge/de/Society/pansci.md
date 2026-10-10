@@ -198,10 +198,10 @@ Die Antwort ist 2026 noch nicht stabil. Doch die von PanSci hinterlassene Frage 
 
 **Weiterführende Literatur**:
 
-- [The Reporter (報導者)](/society/報導者) – Behandelt ebenfalls Taiwans neue Medien-Öffentlichkeit, aber The Reporter baut Vertrauen durch gemeinnützige Investigativjournalistik auf und bildet damit einen Kontrast zu PanScis kommerziellem Wissensplattform-Pfad.
-- [CommonWealth Magazine (天下雜誌)](/society/天下雜誌) – Dreißig Jahre vor PanSci gegründetes taiwanesisches Wirtschaftsmedium, ebenfalls im Spannungsfeld „Öffentlichkeit“ und „Marktüberleben“, aber auf dem Autoritätspfad von Unternehmensrankings und Bezahlabos.
-- [Think Think Forum (想想論壇)](/society/想想論壇) – Ebenfalls öffentliche Diskursplattform; Think Think Forum macht politischen und demokratischen Dialog zum Kommentar-Container, PanSci macht Wissenschaftsdiskussion zur Wissensindustrie.
-- [Encyclopedia of Taiwan (臺灣大百科全書)](/society/臺灣大百科全書) – Kontrast zwischen nationalem Wissensprojekt und zivilgesellschaftlicher Wissenschafts-Community: Die eine sucht den Kanon, die andere Lesbarkeit, Teilbarkeit, Transformierbarkeit.
+- [The Reporter (報導者)](/de/society/the-reporter-investigative-journalism) – Behandelt ebenfalls Taiwans neue Medien-Öffentlichkeit, aber The Reporter baut Vertrauen durch gemeinnützige Investigativjournalistik auf und bildet damit einen Kontrast zu PanScis kommerziellem Wissensplattform-Pfad.
+- [CommonWealth Magazine (天下雜誌)](/de/society/commonwealth-magazine) – Dreißig Jahre vor PanSci gegründetes taiwanesisches Wirtschaftsmedium, ebenfalls im Spannungsfeld „Öffentlichkeit“ und „Marktüberleben“, aber auf dem Autoritätspfad von Unternehmensrankings und Bezahlabos.
+- [Think Think Forum (想想論壇)](/de/society/thinking-taiwan-forum) – Ebenfalls öffentliche Diskursplattform; Think Think Forum macht politischen und demokratischen Dialog zum Kommentar-Container, PanSci macht Wissenschaftsdiskussion zur Wissensindustrie.
+- [Encyclopedia of Taiwan (臺灣大百科全書)](/de/society/encyclopedia-of-taiwan) – Kontrast zwischen nationalem Wissensprojekt und zivilgesellschaftlicher Wissenschafts-Community: Die eine sucht den Kanon, die andere Lesbarkeit, Teilbarkeit, Transformierbarkeit.
 - [Taiwan YouTuber Industry and Culture](/de/culture/taiwan-youtuber-industry/) – Die größere Plattformökologie, der PanSci nach Eintritt in Kurzvideo, MCN und Creator Economy begegnen muss.
 
 ## Bildquellen

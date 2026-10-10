@@ -4,7 +4,7 @@ description: 'Từ nhà máy nhỏ ở Đài Nam năm 1949 đến tập đoàn h
 date: 2026-03-20
 category: 'Economy'
 tags: ['Economy', 'Doanh nghiệp', 'Công nghiệp hoá chất', 'Hoá chất']
-subcategory: 'Tiểu sử doanh nhân'
+subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20

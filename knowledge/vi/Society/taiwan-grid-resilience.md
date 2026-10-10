@@ -157,7 +157,7 @@ Khi Đài Loan đầu tư 56,45 tỷ trong mười năm để thiết kế lại
 
 **Đọc thêm**:
 
-- [Cơ chế giá dầu của Đài Loan và CPC](/economy/台灣油價機制與中油) — Trong cùng một khoản ngân sách bổ sung 600 tỷ, hai phần của CPC bên cạnh Đài Điện (Taipower): công ty quốc doanh được gọi ra đứng đầu, tiền gánh vác cuối cùng do ai chi trả.
+- [Cơ chế giá dầu của Đài Loan và CPC](/vi/economy/taiwan-fuel-pricing-and-cpc) — Trong cùng một khoản ngân sách bổ sung 600 tỷ, hai phần của CPC bên cạnh Đài Điện (Taipower): công ty quốc doanh được gọi ra đứng đầu, tiền gánh vác cuối cùng do ai chi trả.
 
 ## Tài liệu tham khảo
 

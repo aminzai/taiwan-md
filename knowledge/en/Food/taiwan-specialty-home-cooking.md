@@ -99,7 +99,7 @@ Xue Meng-hui flips through his father's diary, where the handwriting marks a per
 
 **Further Reading**:
 
-- [Taiwanese Banquet Culture](/food/台灣辦桌文化) — The concentrated stage for handy dishes: from the kingdom of caterers raised in barren Neimen to the knowledge of feast rituals spanning humans, gods, and ghosts.
+- [Taiwanese Banquet Culture](/en/food/taiwan-banquet-culture) — The concentrated stage for handy dishes: from the kingdom of caterers raised in barren Neimen to the knowledge of feast rituals spanning humans, gods, and ghosts.
 - [Chen Yu-xun](/en/people/chen-yu-hsun-taiwan-comedy-film-magician) — Director of _Caterer_, who brought endangered skills like chicken, pig tripe, and turtle onto the big screen.
 - [Taiwanese Seafood Culture](/en/food/taiwan-seafood-culture) — The context of Taiwanese seafood on the main table at banquets: salted crab, lobster, steamed fish.
 

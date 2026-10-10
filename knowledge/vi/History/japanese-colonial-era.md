@@ -4,7 +4,7 @@ description: 'Từ 1895–1945, Nhật Bản cai trị Đài Loan 50 năm, mang 
 date: 2026-03-17
 category: 'History'
 tags: ['Lịch sử', 'Cai trị Nhật Bản', 'Hiện đại hóa', 'Phong trào Nhân dân hoá']
-subcategory: 'Thuộc địa và Đế quốc'
+subcategory: '殖民與帝國'
 author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-03-19

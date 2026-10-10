@@ -11,7 +11,7 @@ tags:
     éducation,
     arts de la scène,
   ]
-subcategory: 'Arts et design'
+subcategory: '藝術與設計'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 12

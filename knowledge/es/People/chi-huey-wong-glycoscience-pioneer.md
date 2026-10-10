@@ -17,7 +17,7 @@ featured: false
 lastVerified: 2026-03-31
 lastHumanReview: false
 translatedFrom: People/翁啟惠.md
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: 'f99a9959c'
 sourceContentHash: 'sha256:984fef279b1af05b'
 sourceBodyHash: 'sha256:8e4d8fb8704570d2'
 translatedAt: '2026-05-16T22:20:03Z'

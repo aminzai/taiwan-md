@@ -20,6 +20,7 @@ readingTime: 8
 translatedFrom: 'Society/台灣長期照顧制度發展.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:318f46e5efc6bda8'
+sourceBodyHash: 'sha256:738376ef61832978'
 translatedAt: '2026-09-23T03:37:33.620128+00:00'
 ---
 

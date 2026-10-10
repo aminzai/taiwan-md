@@ -11,7 +11,7 @@ tags:
     'مدرسة الكوريين في كاوهسيونغ',
     'الحياة عبر الثقافات',
   ]
-subcategory: 'التعليم'
+subcategory: '教育'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-21
@@ -26,6 +26,7 @@ curation: 'incubating'
 translatedFrom: 'Society/韓國人在台灣.md'
 sourceCommitSha: '13c7fbcdb'
 sourceContentHash: 'sha256:8a8e0217696ef948'
+sourceBodyHash: 'sha256:aa22cde38abe8c50'
 translatedAt: '2026-09-10T17:52:44.216148+00:00'
 ---
 
@@ -143,7 +144,7 @@ _الصورة: خورخي كانسيلا، "Taipei - Skyline Sunset"، ويكي�
 
 ## قراءة موسعة
 
-- [مدينة كاوهسيونغ](/geography/高雄市) — خلفية المدينة التي تقع فيها مدرسة الكوريين المقيمين في كاوهسيونغ وجمعية الكوريين المحليين المذكورة في المقال.
+- [مدينة كاوهسيونغ](/ar/geography/kaohsiung-city) — خلفية المدينة التي تقع فيها مدرسة الكوريين المقيمين في كاوهسيونغ وجمعية الكوريين المحليين المذكورة في المقال.
 - [نظام التعليم في تايوان](/ar/lifestyle/taiwan-education-system) — لفهم السياق المؤسسي للمدارس التايوانية، والطلاب الدوليين، والتعليم ثنائي اللغة.
 - [اندماج المطبخ الوافد الجديد في تايوان](/ar/food/taiwanese-new-immigrant-culinary-fusion) — امتداد من الطعام والحياة العائلية لفهم كيف تستقر المجتمعات عبر الثقافات في تايوان.
 

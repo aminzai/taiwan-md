@@ -12,7 +12,7 @@ tags:
     'Sejarah Internet Taiwan',
     'Chen Cheng-ran',
   ]
-subcategory: 'Digital dan Internet'
+subcategory: '數位與網路'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-02
@@ -23,6 +23,7 @@ curation: 'incubating'
 translatedFrom: 'Technology/蕃薯藤.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:7fc833ed34fc1fd6'
+sourceBodyHash: 'sha256:8a57bfe7379ce603'
 translatedAt: '2026-08-04T13:47:35.236790+00:00'
 ---
 

@@ -104,9 +104,9 @@ Mayday wird weiter singen. Aber nach diesen vier Wörtern im Jahr 2024 hat der t
 
 ## Weiterführende Lektüre
 
-- [Taiwan Popmusik](/music/台灣流行音樂/)
-- [Fire Extinguisher Band](/music/滅火器樂團/)
-- [Taiwan Indie Musik](/music/台灣獨立音樂/)
+- [Taiwan Popmusik](/de/music/golden-melodies-legacy-taiwan-pop-music/)
+- [Fire Extinguisher Band](/de/music/fire-ex/)
+- [Taiwan Indie Musik](/de/music/indie-music-scene/)
 
 ## Quellenangaben
 

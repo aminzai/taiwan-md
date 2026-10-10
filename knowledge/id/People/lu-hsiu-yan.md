@@ -199,11 +199,11 @@ Dan apakah ia harus keluar dari Taichung atau tetap tinggal di rumah, pertanyaan
 
 **Bacaan Lanjutan**:
 
-- [Zheng Jilun](/people/鄭麗文) — Orang yang terpilih sebagai Ketua Partii Republik Tiongkok (Taiwan) ke-12 pada Oktober 2025 dengan 50.15% suara. Pilihan tidak maju dari Lu membuka pintu baginya.
-- [Korea Selatan](/people/韓國瑜) — Ekstremis lain dari gelombang Korea pada 2018, bersamaan dengan Lu Hsiu-yen mengubah langit hijau menjadi langit biru; Ketua Dewan Perwakilan Rakyat pada 2024, salah satu dari "3+1" pada 2028.
-- [Zhuo Rongtai](/people/卓榮泰) — Sekretaris Kabinet pertama Lai Ching-te, pendamping utama dalam proposal militer 1.25 triliun, berlawanan langsung dengan rentang militer Lu "800 miliar - 1 triliun".
+- [Zheng Jilun](/id/people/cheng-li-wun) — Orang yang terpilih sebagai Ketua Partii Republik Tiongkok (Taiwan) ke-12 pada Oktober 2025 dengan 50.15% suara. Pilihan tidak maju dari Lu membuka pintu baginya.
+- [Korea Selatan](/id/people/han-kuo-yu) — Ekstremis lain dari gelombang Korea pada 2018, bersamaan dengan Lu Hsiu-yen mengubah langit hijau menjadi langit biru; Ketua Dewan Perwakilan Rakyat pada 2024, salah satu dari "3+1" pada 2028.
+- [Zhuo Rongtai](/id/people/cho-jung-tai) — Sekretaris Kabinet pertama Lai Ching-te, pendamping utama dalam proposal militer 1.25 triliun, berlawanan langsung dengan rentang militer Lu "800 miliar - 1 triliun".
 - [Modernisasi Pertahanan dan Militer Taiwan](/id/society/taiwan-defense-modernization) — Konteks lengkap mengenai kontroversi anggaran militer 1.25 triliun, drone, dan kekuatan tidak simetris, latar belakang politik kunjungan Lu ke Washington pada 2026.
-- [Keadilan Lingkungan dan Isu Lingkungan di Taiwan](/society/台灣環境正義與鄰避爭議) — Struktur sosial di balik PLTU Taichung, PM2.5, dan transformasi energi, medan perang politik Lu sejak 2018 yang memenangkan Taichung dengan isu udara.
+- [Keadilan Lingkungan dan Isu Lingkungan di Taiwan](/id/society/taiwan-environmental-justice-nimby-conflicts) — Struktur sosial di balik PLTU Taichung, PM2.5, dan transformasi energi, medan perang politik Lu sejak 2018 yang memenangkan Taichung dengan isu udara.
 
 ## Referensi
 

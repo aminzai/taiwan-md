@@ -11,7 +11,7 @@ tags:
     'Folklore taïwanais',
     'Histoire',
   ]
-subcategory: 'Fêtes et coutumes'
+subcategory: '節慶與禮俗'
 author: 'Taiwan.md Contributors'
 readingTime: 8
 lastVerified: 2026-07-20

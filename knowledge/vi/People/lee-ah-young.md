@@ -13,7 +13,7 @@ tags:
     'Fubon Angels',
     'bóng chày chuyên nghiệp',
   ]
-subcategory: 'nhân vật đương đại'
+subcategory: '流行人物'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13

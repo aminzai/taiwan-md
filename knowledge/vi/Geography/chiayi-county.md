@@ -17,7 +17,7 @@ tags:
     'tách thành phố khỏi huyện',
     '22 loạt huyện thị',
   ]
-subcategory: 'Huyện'
+subcategory: '縣市'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-18

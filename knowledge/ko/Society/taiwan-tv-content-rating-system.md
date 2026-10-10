@@ -3,7 +3,7 @@ title: '스크린 뒤의 문지기: 대만 영상물 등급제의 진화, 검열
 description: '대만의 등급제는 계엄 시대의 "내용 심의"에서 민주주의 시대의 "아동·청소년 보호"로 넘어온 역사의 축소판이다. 1983년 《영화검사법》 폐지, 1993년 《쥬라기 공원》이 촉발한 보호급 신설, 2026년 5등급제 전면 도입까지, 이 글은 관람 권리와 사회적 책임을 둘러싼 기나긴 진화의 기록이다.'
 date: 2026-04-08
 tags: ['영화 등급', '쥬라기 공원', '영화법', '문화부', '계엄', '아동청소년보호']
-subcategory: '미디어와 커뮤니케이션'
+subcategory: '媒體與傳播'
 category: 'Society'
 author: 'Taiwan.md Contributors'
 readingTime: 15
@@ -94,7 +94,7 @@ lastHumanReview: true
 
 [^8]: [감각의 제국 - 대만 상영 논쟁 기록](https://zh.wikipedia.org/zh-tw/%E6%84%9F%E5%AE%98%E4%B8%96%E7%95%8C) — 1999년 이 영화의 대만 상영에서 촉발된 예술 대 포르노 논쟁.
 
-[^9]: [색계(영화) - 위키백과](<https://zh.wikipedia.org/zh-tw/%E8%89%B2%EF%BC%8C%E6%88%92_(%E9%9B%BB%E5%BD%B1)>) — 대만에서 《색계》가 제한급으로 판정된 기록.
+[^9]: [색계(영화) - 위키백과](https://zh.wikipedia.org/zh-tw/%E8%89%B2%EF%BC%8C%E6%88%92_(%E9%9B%BB%E5%BD%B1) — 대만에서 《색계》가 제한급으로 판정된 기록.
 
 [^10]: [디지털 엔터테인먼트 소프트웨어 등급 조회 사이트](https://www.gamerating.org.tw/) — 디지털발전부 디지털산업서 공식 플랫폼.
 

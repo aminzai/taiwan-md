@@ -148,11 +148,11 @@ Một giờ bán hết vào nửa đêm ngày 22 tháng 8 năm 2021, từ kết 
 
 ## Mở Rộng Đọc
 
-- **[FAB DAO Và Dự Án Trăm Đỉnh](/vi/art/FAB%20DAO%20và%20dự%20án%20trăm%20đỉnh)** — Kế hoạch NFT công ích sáu người mà Vương Tân Nhân tham gia, hiểu toàn bộ bối cảnh sinh thái của Trăm Đỉnh
-- **[Ngô Triết Vũ](/vi/people/Ngô%20Triết%20Vũ)** — Nghệ sĩ nhóm quốc tế Dự án Trăm Đỉnh, người đồng sáng lập FAB DAO, từ Art Blocks Project Electriz đi tới Biennale Venice
-- **[Nghệ Thuật Mới Đài Loan](/vi/art/Nghệ%20thuật%20mới%20Đài%20Loan)** — Từ Hoàng Tâm Kiến, Viên Quảng Doanh đến Vương Tân Nhân, bộ phận hoàn chỉnh bốn mươi năm hệ tính của nghệ thuật mới Đài Loan
-- **[Đài Loan Nghệ Thuật Đương Đại](/vi/art/Đại%20Loan%20nghệ%20thuật%20đương%20đại)** — Vị trí và tọa độ của tạo lập nghệ thuật trong lịch sử nghệ thuật đương đại Đài Loan
-- **[Vương Liên Thịnh (Tôm Cha)](/vi/art/Vương%20Liên%20Thịnh)** — Nghệ sĩ lắp ráp âm thanh cùng nhóm Dự án Trăm Đỉnh, người nhận giải thưởng Lumen Prize 2017 3D/Sculpture («Kế Hoạch Đọc»)
+- **[FAB DAO Và Dự Án Trăm Đỉnh](/vi/art/fab-dao)** — Kế hoạch NFT công ích sáu người mà Vương Tân Nhân tham gia, hiểu toàn bộ bối cảnh sinh thái của Trăm Đỉnh
+- **[Ngô Triết Vũ](/vi/people/che-yu-wu)** — Nghệ sĩ nhóm quốc tế Dự án Trăm Đỉnh, người đồng sáng lập FAB DAO, từ Art Blocks Project Electriz đi tới Biennale Venice
+- **[Nghệ Thuật Mới Đài Loan](/vi/art/taiwan-new-media-art)** — Từ Hoàng Tâm Kiến, Viên Quảng Doanh đến Vương Tân Nhân, bộ phận hoàn chỉnh bốn mươi năm hệ tính của nghệ thuật mới Đài Loan
+- **[Đài Loan Nghệ Thuật Đương Đại](/vi/art/contemporary-art)** — Vị trí và tọa độ của tạo lập nghệ thuật trong lịch sử nghệ thuật đương đại Đài Loan
+- **[Vương Liên Thịnh (Tôm Cha)](/vi/art/wang-lien-cheng-artist)** — Nghệ sĩ lắp ráp âm thanh cùng nhóm Dự án Trăm Đỉnh, người nhận giải thưởng Lumen Prize 2017 3D/Sculpture («Kế Hoạch Đọc»)
 
 ## Tài Liệu Tham Khảo
 

@@ -68,7 +68,7 @@ Setiap kali angin musim gugur berhembus, aroma segar jeruk bali wendang dan asap
 ## Bacaan Lanjutan
 
 - [Perayaan Tradisional dan Upacara](/id/culture/traditional-festivals-and-celebrations) — Menelusuri adat istiadat dan perayaan unik Taiwan lainnya yang lahir dari kebetulan atau krisis.
-- [Sejarah Iklan Taiwan](/culture/台灣廣告史) — Meninjau kembali bagaimana iklan televisi tahun 1980-an secara mendalam membentuk budaya konsumsi dan kenangan kolektif warga Taiwan.
+- [Sejarah Iklan Taiwan](/id/culture/taiwan-advertising-history) — Meninjau kembali bagaimana iklan televisi tahun 1980-an secara mendalam membentuk budaya konsumsi dan kenangan kolektif warga Taiwan.
 
 ## Referensi
 

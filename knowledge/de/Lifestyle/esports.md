@@ -27,6 +27,7 @@ readingTime: 15
 translatedFrom: 'Lifestyle/電競.md'
 sourceCommitSha: '2faa5728b'
 sourceContentHash: 'sha256:752a2005b2dad4cc'
+sourceBodyHash: 'sha256:4fe3e0718f755e56'
 translatedAt: '2026-09-23T12:27:09.234807+00:00'
 ---
 

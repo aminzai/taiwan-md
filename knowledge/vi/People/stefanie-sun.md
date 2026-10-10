@@ -144,10 +144,10 @@ Cô tự mình có lẽ cũng nghĩ như vậy: không quan trọng — cô đã
 
 Sự lên ngôi của Sun Yanzi là phản ánh của giai đoạn tươi mới nhất của ngành công nghiệp âm nhạc Đài Loan vào đầu thế kỷ 2000. Cô đánh bại Zhao Jie Lun với một phiếu bầu, định nghĩa một lối đi khác của âm nhạc Hoa tại cùng một thời kỳ, hai người vẫn là tọa độ trục của thế hệ ấy. Các bài hát của cô vẫn thường xuyên xuất hiện trong danh sách chọn lại bài hát KTV của Đài Loan, là một bản ghi lại văn hóa sống động.
 
-- [Âm nhạc Đài Loan](/music/台灣流行音樂/) — Bối cảnh ngành công nghiệp khi ra đời của Sun Yanzi, bối cảnh tươi mới của ngành công nghiệp bán hàng nhạc tại Đài Loan vào năm 2000
-- [Golden Melody Awards](/music/金曲獎/) — Golden Melody Awards đã dần trở thành biểu tượng vị trí văn hóa qua quy trình xét nghiệm, thay vì chỉ là giải thưởng
+- [Âm nhạc Đài Loan](/vi/music/golden-melodies-legacy-taiwan-pop-music/) — Bối cảnh ngành công nghiệp khi ra đời của Sun Yanzi, bối cảnh tươi mới của ngành công nghiệp bán hàng nhạc tại Đài Loan vào năm 2000
+- [Golden Melody Awards](/vi/music/pop-music-and-golden-melody-awards/) — Golden Melody Awards đã dần trở thành biểu tượng vị trí văn hóa qua quy trình xét nghiệm, thay vì chỉ là giải thưởng
 - [Zhao Jie Lun](/vi/people/jay-chou/) — Cùng được bố trí vào lần thứ 12, định nghĩa một lối đi khác của âm nhạc Hoa
-- [Văn hóa KTV Đài Loan](/music/台灣KTV文化/) — Các bài hát của Sun Yanzi tại danh sách chọn lại bài hát KTV vẫn tồn tại lâu dài
+- [Văn hóa KTV Đài Loan](/vi/music/ktv-culture/) — Các bài hát của Sun Yanzi tại danh sách chọn lại bài hát KTV vẫn tồn tại lâu dài
 - [Trương Hữu Nhiên](/vi/people/tanya-chua-singer/) — Hợp tác với Sun Yanzi viết bài "Cảm giác thứ sáu" (2003)
 
 ## Tài liệu tham khảo

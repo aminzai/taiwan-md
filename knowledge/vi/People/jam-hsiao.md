@@ -4,7 +4,7 @@ description: 'Từ "vua thách đấu" đến "vua Quả Cẩm", một giọng h
 date: 2026-03-23
 author: 'Taiwan.md'
 category: 'People'
-subcategory: 'Âm nhạc và biểu diễn'
+subcategory: '音樂與表演'
 tags:
   [
     'Âm nhạc',

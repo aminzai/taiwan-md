@@ -3,7 +3,7 @@ title: 'Shen Sheng-po'
 description: 'Especializado em ciência da computação, mas trouxe as linguagens de programação para o cenário artístico contemporâneo de Taiwan. A vida de Shen Sheng-po, que viveu apenas 34 anos, deixou não apenas obras de arte digital, mas também uma experiência de experimentação que vê o código como parte da vida e o software livre como ética criativa.'
 date: 2026-03-23
 category: 'People'
-subcategory: 'Arte e Design'
+subcategory: '藝術與設計'
 tags:
   [
     'Pessoa',
@@ -97,9 +97,9 @@ Shen Sheng-po não deixou um "fórmula de sucesso", mas uma **atitude**: entende
 - [shengpo on GitHub](https://github.com/shengpo)
 - [Shen Sheng-po Memorial Exhibition: Code as New Life (Artemperor)](https://artemperor.tw/focus/1221)
 - [The Third Round — Shen Sheng-po Memorial Exhibition (NCAF Repository)](https://archive.ncafroc.org.tw/result?id=b9c7810cda4f41b9994aa2d81925be02)
-- [The Nobility in Technical Purity: Shen Sheng-po’s _pin shadow_ and _texture_](https://atatw.org/hta-archive/%E7%A7%91%E6%8A%80%E6%BA%AB%E5%BA%A6%E4%B8%AD%E7%9A%84%E9%AB%98%E5%B0%9A%E7%B4%94%E6%BD%92%EF%BC%9A%E6%B2%88%E8%81%96%E5%8D%9A%E7%9A%84%E3%80%8Apin-shadow%E3%80%8B%E8%88%87%E3%80%8Atexture%E3%80%8B/)
+- [The Nobility in Technical Purity: Shen Sheng-po’s _pin shadow_ and _texture_](https://atatw.org/hta-archive/%E7%A7%91%E6%8A%80%E6%BA%AB%E5%BA%A6%E4%B8%AD%E7%9A%84%E9%AB%98%E5%B0%9A%E7%B4%94%E6%BD%94%EF%BC%9A%E6%B2%88%E8%81%96%E5%8D%9A%E7%9A%84%E3%80%8Apin-shadow%E3%80%8B%E8%88%87%E3%80%8Atexture%E3%80%8B/)
 
 ## Tópicos relacionados
 
-- [Wu Zhiyu](/people/吳哲宇): Outra trajetória de programação para arte em Taiwan
-- [Tang Feng](/people/唐鳳): Como o pensamento tecnológico entra no campo público
+- [Wu Zhiyu](/pt/people/che-yu-wu): Outra trajetória de programação para arte em Taiwan
+- [Tang Feng](/pt/people/audrey-tang): Como o pensamento tecnológico entra no campo público

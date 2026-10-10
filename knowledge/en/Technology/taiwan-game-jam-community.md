@@ -10,7 +10,7 @@ tags:
   - 'community'
   - 'KUSO'
   - 'creation'
-subcategory: 'Gaming Industry'
+subcategory: '遊戲產業'
 readingTime: 8
 author: 'tppr2046'
 featured: false

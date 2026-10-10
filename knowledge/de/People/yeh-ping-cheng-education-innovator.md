@@ -54,10 +54,10 @@ Seine Kernposition ist unverändert geblieben: Taiwans Bildungssystem trainiert 
 
 **Weiterführendes**:
 
-- [Huang Kuo-chen](/people/黃國珍) — ein weiterer Bildungsinnovator, der Taiwans Lesekompetenz fördert
-- [Lu Guan-wei](/people/呂冠緯) — Vorstandsvorsitzender der Junyi-Bildungsplattform; gab die Medizin auf, um eine taiwanesische Variante der Khan Academy aufzubauen
-- [Yen Chang-shou](/people/嚴長壽) — Sozialunternehmer, der von der Tourismusbranche zur Bildung in ländlichen Regionen wechselte
-- [Audrey Tang](/people/唐鳳) — Schnittpunkt von digitaler Governance und Bildungsinnovation
+- [Huang Kuo-chen](/de/people/huang-kuo-chen) — ein weiterer Bildungsinnovator, der Taiwans Lesekompetenz fördert
+- [Lu Guan-wei](/de/people/lu-guan-wei-junyiacademy-founder) — Vorstandsvorsitzender der Junyi-Bildungsplattform; gab die Medizin auf, um eine taiwanesische Variante der Khan Academy aufzubauen
+- [Yen Chang-shou](/de/people/stanley-yen) — Sozialunternehmer, der von der Tourismusbranche zur Bildung in ländlichen Regionen wechselte
+- [Audrey Tang](/de/people/audrey-tang) — Schnittpunkt von digitaler Governance und Bildungsinnovation
 
 ## Referenzen
 

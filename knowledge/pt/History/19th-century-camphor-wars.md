@@ -141,7 +141,7 @@ A conta não está fechada.
 - [História do Desenvolvimento Florestal de Taiwan](/pt/history/taiwan-forestry-history) — Da cânfora ao hinoki, o percurso completo da exploração das montanhas de Taiwan
 - [Alishan: A Floresta Imperial e a Montanha de Kao Yi-sheng](/pt/history/alishan-empire-forest-and-uongu-yatauyungana) — Como a pilhagem florestal se estendeu ao Alishan do período japonês e ao Terror Branco do pós-guerra
 - [Museu Nacional de História de Taiwan](/pt/society/national-museum-of-taiwan-history) — Instituição nacional de terceiro nível que guarda o 〈Formosa Camphor〉 de Swinhoe de 1864 e outras fontes primárias da Guerra da Cânfora (sistema UUID do catálogo NMTH, licença de dados abertos do governo versão 1.0)
-- [Árvores de Rua de Taiwan](/lifestyle/台灣行道樹) — A mesma cânfora, na montanha foi matéria-prima disputada globalmente, na rua só lhe pedem que faça sombra: as duas fileiras do Túnel Verde de Jiji, Nantou, são precisamente ela
+- [Árvores de Rua de Taiwan](/pt/lifestyle/taiwan-street-trees) — A mesma cânfora, na montanha foi matéria-prima disputada globalmente, na rua só lhe pedem que faça sombra: as duas fileiras do Túnel Verde de Jiji, Nantou, são precisamente ela
 
 ---
 

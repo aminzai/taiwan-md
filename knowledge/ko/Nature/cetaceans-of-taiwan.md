@@ -13,12 +13,12 @@ tags:
     '중화흰돌고래',
     '구로시오',
   ]
-subcategory: '야생동물'
+subcategory: '野生動物'
 category: 'Nature'
 author: '海女'
 readingTime: 12
 translatedFrom: 'Nature/臺灣的鯨豚.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:fa8568c6d129180a'
 sourceBodyHash: 'sha256:7c0ff1bf77404541'
 translatedAt: '2026-05-17T05:33:00Z'

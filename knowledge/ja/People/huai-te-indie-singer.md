@@ -23,6 +23,15 @@ subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 readingTime: 16
+sporeLinks:
+  - id: 45
+    platform: 'threads'
+    date: '2026-04-26'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXlcWdykVgv'
+  - id: 46
+    platform: 'x'
+    date: '2026-04-26'
+    url: 'https://x.com/taiwandotmd/status/2048290884022850047'
 translatedFrom: 'People/壞特.md'
 sourceCommitSha: 'dd39065b'
 sourceContentHash: 'sha256:2f12f91cbf28ef93'
@@ -307,7 +316,7 @@ OPENTIXのインタビューで、病院実習からフリーランスのクリ�
 
 [^2]: [壞特 — ウィキペディア中国語版](https://zh.wikipedia.org/zh-tw/%E5%A3%9E%E7%89%B9) — 国立新竹女子高級中学卒業。
 
-[^3]: [金曲新人?te壞特の夢への道》父が代わりに書いた志望票で医学部へ — 今周刊](https://www.businesstoday.com.tw/article/category/183034/post/202108250003/) — 父親が大学志望票を代わりに書き、最終的に国防医学院医学部に進学。
+[^3]: [金曲新人?te壞特の夢への道》父が代わりに書いた志望票で医学部へ — 今周刊](https://www.businesstoday.com.tw/article/category/183034/post/202108250003/) — 父親が大学志望票を代わりに書き、最終的に国防医学院医学部に進学。 [數位時代轉載](https://www.bnext.com.tw/article/64713/golden-best-new-why-te) [維基百科](https://zh.wikipedia.org/zh-tw/%E5%A3%9E%E7%89%B9)
 
 [^4]: [マイクも持ち、メスも持つ斜め掛け金曲賞新人 ?te壞特（林芝儀）— 104掌聲](https://blog.104.com.tw/104bravo-singer-whytetete/) — 2年生終了後に休学1年。ある学生会議に参加中、急に「ずっと学校にいた」という焦りを感じたため。両親の反対を押し切って休学。
 
@@ -319,7 +328,7 @@ OPENTIXのインタビューで、病院実習からフリーランスのクリ�
 
 [^8]: [BIOS monthly 専インタビュー](https://www.biosmonthly.com/article/10301) — 〈睡不著 Insomnia〉がStreetVoiceのチャート1位を記録し、2か月でYouTube20万再生。
 
-[^9]: [?te壞特 / 初アルバム A Bedroom of One's Own — 博客来](https://www.books.com.tw/products/0020218409) — 2020年7月31日デジタル、8月28日実盤。レーベルは華風数位。アルバムタイトルはヴァージニア・ウルフの《A Room of One's Own》から。プロデューサーのTower da Funkmasta（陶逸群）の自宅で録音。
+[^9]: [?te壞特 / 初アルバム A Bedroom of One's Own — 博客来](https://www.books.com.tw/products/0020218409) — 2020年7月31日デジタル、8月28日実盤。レーベルは華風数位。アルバムタイトルはヴァージニア・ウルフの《A Room of One's Own》から。プロデューサーのTower da Funkmasta（陶逸群）の自宅で録音。 [BIOS monthly](https://www.biosmonthly.com/article/10301)
 
 [^10]: [第32回金曲獎 — ウィキペディア中国語版](https://zh.wikipedia.org/zh-tw/%E7%AC%AC32%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — 2021年8月21日、第32回金曲獎にて壞特?teが最優秀新人賞を受賞。同回で田馥甄が最優秀華語女性ボーカル賞、蛋堡が最優秀華語男性ボーカル賞、桑布伊が年間最優秀アルバム賞を受賞。
 
@@ -353,7 +362,7 @@ OPENTIXのインタビューで、病院実習からフリーランスのクリ�
 
 [^28]: [金曲新人・壞特?teの謎のベールを剝ぐ — 迷誠品 2021](https://meet.eslite.com/tw/tc/article/202108310004) — 受賞後の心境「もう日本の低欲望世代になってしまった。ただ曲を書き続けられればそれでいい」という原話。最深部の動機「自分の感情としっかり向き合わなければ、自分の内なる子どもを何とかして大切にしなければ」という逐語原文。
 
-[^29]: [今周刊 2021](https://www.businesstoday.com.tw/article/category/183034/post/202108250003/) + [BIOS monthly 専インタビュー](https://www.biosmonthly.com/article/10301) — 子ども時代の家庭の音楽環境。台湾大学ジャズ研究会でTower（陶逸群）と知り合った。
+[^29]: [今周刊 2021](https://www.businesstoday.com.tw/article/category/183034/post/202108250003/) + [BIOS monthly 専インタビュー](https://www.biosmonthly.com/article/10301) — 子ども時代の家庭の音楽環境。台湾大学ジャズ研究会でTower（陶逸群）と知り合った。 [馬世芳 Medium 訪談](https://medium.com/@mashifang/whyte-and-tower-da-funkmasta-9561dd633ed)
 
 [^30]: [104掌聲：マイクとメスを同時に持つ斜め掛け金曲賞新人 ?te壞特](https://blog.104.com.tw/104bravo-singer-whytetete/) — ギターの師・李琪賢先生「理論から始めて、音楽を聴き、耳と指の技術を練習させてくれた」という原話。壞特の低迷期のメッセージ「生きることに意味はあるの？」と、受賞後の先生の返答「あのとき消えなくて本当によかった、そうでなければ今日の壞特はいなかったから、人生は楽しいものだよ！」という逐語原文。
 

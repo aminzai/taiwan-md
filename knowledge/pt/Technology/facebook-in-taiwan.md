@@ -80,7 +80,7 @@ A história do Facebook é um microcosmo dos 20 anos de transformação digital 
 
 **Leitura complementar**:
 
-- [IG: do filtro de fotógrafos à ansiedade "crisp" dos taiwaneses](/technology/IG) — Outra plataforma principal de Taiwan sob a Meta, com o Facebook compõe cenários de uso diferentes: Facebook é "contactar os mais velhos", IG é "para si mesmo ver", enquanto Threads é "a praça da grande discussão".
+- [IG: do filtro de fotógrafos à ansiedade "crisp" dos taiwaneses](/pt/technology/instagram-in-taiwan) — Outra plataforma principal de Taiwan sob a Meta, com o Facebook compõe cenários de uso diferentes: Facebook é "contactar os mais velhos", IG é "para si mesmo ver", enquanto Threads é "a praça da grande discussão".
 - [Threads em Taiwan](/pt/technology/threads-in-taiwan) — Por que os taiwaneses chamam o Threads de "crisp" (脆)? Da vaga de refugiados do FB ao "crisp" como tráfego global número um, a posição única dos utilizadores de Taiwan no ecossistema Meta.
 - [História da migração de comunidades de rede de Taiwan](/pt/technology/taiwan-online-community-migration) — Do BBS, Wretch (無名小站), Plurk ao Facebook, IG, Threads, compreender por que o Facebook subiu em Taiwan e por que começou a recuar requer este mapa migratório completo.
 - [Wretch (無名小站)](/pt/culture/wretch) — A plataforma local que o Facebook em Taiwan ultrapassou e acabou por substituir: em 2008 o Wretch ainda pressionava o Yahoo como número um de Taiwan; a partir de 2009 o Facebook, com a aderência do Mural de Notícias, veio de trás para a frente.

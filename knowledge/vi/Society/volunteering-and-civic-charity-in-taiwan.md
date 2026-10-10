@@ -12,7 +12,7 @@ tags:
     'xây dựng cộng đồng',
     'mẹ kể chuyện',
   ]
-subcategory: 'Cộng đồng và đời thường'
+subcategory: '社區與日常'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-28
@@ -21,6 +21,7 @@ curation: 'incubating'
 translatedFrom: 'Society/台灣志工文化與公益參與.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:d51a48508554d6d4'
+sourceBodyHash: 'sha256:7149df720d9ca880'
 translatedAt: '2026-09-18T21:56:25.099079+00:00'
 ---
 

@@ -4,7 +4,7 @@ description: 'Como um funcionário público que não podia pagar um helicóptero
 date: 2026-03-25
 author: 'Taiwan.md'
 category: 'People'
-subcategory: 'Arte e Criação'
+subcategory: '藝術與創作'
 tags:
   [
     'Personalidades',

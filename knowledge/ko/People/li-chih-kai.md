@@ -4,7 +4,7 @@ description: '《구르고 또 굴러라! 소년들》의 채소시장 카이에
 date: 2026-03-21
 tags:
   ['인물', '리즈카이', '체조', '올림픽', '은메달', '운동선수', '안마', '대만']
-subcategory: '스포츠'
+subcategory: '體育'
 category: 'People'
 author: 'Taiwan.md'
 translatedFrom: 'People/李智凱.md'

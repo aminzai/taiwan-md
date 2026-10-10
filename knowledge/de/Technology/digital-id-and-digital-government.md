@@ -148,9 +148,9 @@ Im Jahr 2026 gibt es immer noch keinen konkreten Zeitplan für Taiwans digitale 
 
 **Weiterführende Literatur:**
 
-- [Open-Source-Gemeinschaft und g0v](/technology/開源社群與g0v) — Die Bürger-Hacker hinter der Maskenkarte, von „GovZero“ bis vTaiwan
-- [Maskenstaatsteam](/economy/口罩國家隊) — Die andere Seite dieser Krise: Maschinenbau, Textilindustrie, Militär und Regierung verbinden sich zu einer Produktionskette
-- [Taiwans Cybersicherheitsindustrie](/technology/台灣資安產業發展) — Wenn Regierungsbeamte keine Technik verstehen und 60 % der Cybersicherheitskräfte fehlen: Wie die Industrie diese Lücke schließt
+- [Open-Source-Gemeinschaft und g0v](/de/technology/open-source-and-g0v) — Die Bürger-Hacker hinter der Maskenkarte, von „GovZero“ bis vTaiwan
+- [Maskenstaatsteam](/de/economy/mask-national-team) — Die andere Seite dieser Krise: Maschinenbau, Textilindustrie, Militär und Regierung verbinden sich zu einer Produktionskette
+- [Taiwans Cybersicherheitsindustrie](/de/technology/taiwan-cybersecurity-industry-development) — Wenn Regierungsbeamte keine Technik verstehen und 60 % der Cybersicherheitskräfte fehlen: Wie die Industrie diese Lücke schließt
 
 ## Quellen
 

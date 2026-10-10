@@ -35,6 +35,7 @@ rationale:
 translatedFrom: 'Lifestyle/台灣行道樹.md'
 sourceCommitSha: '40374bb7c'
 sourceContentHash: 'sha256:e67ede9cedeaf7ed'
+sourceBodyHash: 'sha256:800ceb548d451acd'
 translatedAt: '2026-09-26T05:40:26.285983+00:00'
 ---
 

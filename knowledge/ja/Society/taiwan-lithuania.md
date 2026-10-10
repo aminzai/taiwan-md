@@ -4,7 +4,7 @@ description: '2021年の代表処設置という突破口から、2026年のリ�
 date: 2026-05-05
 author: 'Taiwan.md'
 category: 'Society'
-subcategory: '国際関係'
+subcategory: '國際關係'
 tags: ['外交', '国際関係', '民主', '経済協力', 'リトアニア', '地政学']
 lastVerified: 2026-05-05
 lastHumanReview: true
@@ -65,9 +65,9 @@ translatedAt: '2026-05-09T11:09:57+08:00'
 
 [^1]: [政治関係 – Lietuva ♥️ Taiwan](https://taiwan.lt/zh/political-relations-tw/) — リトアニア公式サイト。両国の1923年から現在までの政治的交流と協力の歴史を詳述。
 
-[^2]: [リトアニアが台湾代表処設置は「外交的誤り」と表明、台立関係と歴史的背景](https://tw.news.yahoo.com/%E7%AB%8B%E9%99%B6%E5%AE%9B%E7%A8%B1%E8%A8%AD%E5%8F%B0%E7%81%A3%E4%BB%A3%E8%A1%A8%E8%99%95%E6%98%AF%E3%80%8C%E5%A4%96%E4%BA%A4%E9%8C%AF%E8%AA%A4%E3%80%8D%E7%AB%8B%E9%99%B6%E5%AE%9B%E8%88%87%E5%8F%B0%E9%97%9C%E4%BF%82%E3%80%81%E6%AD%B7%E5%8F%B2%E8%83%8C%E6%99%AF%E3%80%81%E5%A4%96%E4%BA%A4%E8%B7%AF%E7%B7%9A%E4%B8%80%E6%AC%A1%E7%9C%8B-083950759.html) — Yahooニュース報道。2021年の代表処設置の背景と引き起こされた地政学的影響を振り返る。
+[^2]: [リトアニアが台湾代表処設置は「外交的誤り」と表明、台立関係と歴史的背景](https://tw.news.yahoo.com/%E7%AB%8B%E9%99%B6%E5%AE%9B%E7%A8%B1%E8%A8%AD%E5%8F%B0%E7%81%A3%E4%BB%A3%E8%A1%A8%E8%99%9B%E6%98%AF%E3%80%8C%E5%A4%96%E4%BA%A4%E9%8C%AF%E8%AA%A4%E3%80%8D%E7%AB%8B%E9%99%B6%E5%AE%9B%E8%88%87%E5%8F%B0%E9%97%9C%E4%BF%82%E3%80%81%E6%AD%B7%E5%8F%B2%E8%83%8C%E6%99%AF%E3%80%81%E5%A4%96%E4%BA%A4%E8%B7%AF%E7%B7%9A%E4%B8%80%E6%AC%A1%E7%9C%8B-083950759.html) — Yahooニュース報道。2021年の代表処設置の背景と引き起こされた地政学的影響を振り返る。
 
-[^3]: [リトアニア首相：「駐リトアニア台湾代表処」の設置は戦略的誤り](https://www.dw.com/zh-hant/%E7%AB%8B%E9%99%B6%E5%AE%9B%E7%B8%BD%E7%90%86%E8%A8%AD%E7%AB%8B%E9%A7%90%E7%AB%8B%E9%99%B6%E5%AE%9B%E5%8F%B0%E7%81%A3%E4%BB%A3%E8%A1%A8%E8%99%95%E6%98%AF%E5%80%8B%E6%88%B0%E7%95%A5%E9%8C%AF%E8%AA%A4/a-75839715) — ドイツ之声（DW）報道。ルギニエネ首相による2021年の決定への批判と改名の意向を詳細に引用。
+[^3]: [リトアニア首相：「駐リトアニア台湾代表処」の設置は戦略的誤り](https://www.dw.com/zh-hant/%E7%AB%8B%E9%99%B6%E5%AE%9B%E7%B8%BD%E7%90%86%E8%A8%AD%E7%AB%8B%E9%A7%90%E7%AB%8B%E9%99%B6%E5%AE%9B%E5%8F%B0%E7%81%A3%E4%BB%A3%E8%A1%A8%E8%99%9B%E6%98%AF%E5%80%8B%E6%88%B0%E7%95%A5%E9%8C%AF%E8%AA%A4/a-75839715) — ドイツ之声（DW）報道。ルギニエネ首相による2021年の決定への批判と改名の意向を詳細に引用。
 
 [^4]: [リトアニア効果は台湾・欧州関係の発展に寄与する](https://www.pf.org.tw/tw/pfch/12-7545.html) — 遠景基金会分析記事。台立関係が台湾の欧州全体の外交展開に持つ象徴的意義を論じる。
 

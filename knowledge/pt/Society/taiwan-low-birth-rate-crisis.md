@@ -232,7 +232,7 @@ O canto fica mais baixo, mas enquanto houver quem cante, ainda não chegou a úl
 - [Sistema educativo e cultura de exames](/pt/society/education-system-and-admissions-culture) — Fecho de universidades, abismo de matrículas, indissociável de como a sociedade olha para o "subir na vida".
 - [Desenvolvimento do sistema de cuidados longos de Taiwan](/pt/society/long-term-care-system-development) — Quando >65 anos passa 20%, 215 mil camas sustentadas por cuidadores estrangeiros, cuidados longos são a outra ponta da baixa natalidade.
 - [Indústria robótica de Taiwan](/pt/technology/taiwan-robotics-industry) — Se menos gente é o destino, automação é uma das chaves para "reorganizar a produção com menos gente".
-- [Expansão e fecho do ensino superior em Taiwan](/society/台灣高等教育擴張與退場) — O muro da baixa natalidade bate na universidade: de 58 para 148 escolas, como fechar, quem paga a conta.
+- [Expansão e fecho do ensino superior em Taiwan](/pt/society/taiwan-higher-education-expansion-and-decline) — O muro da baixa natalidade bate na universidade: de 58 para 148 escolas, como fechar, quem paga a conta.
 
 ## Referências
 

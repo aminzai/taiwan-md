@@ -177,7 +177,7 @@ Anh ấy chỉ nói “Phân tích dữ liệu công khai về cháy leo ở Đ�
 Anh ấy nói trong bài thuyết trình sciwork 2026
 ```
 
-Chỉ việc thu thập vẫn chưa đủ. Pipeline này tiếp tục tự động phân chia vụ cháy thành sáu giai đoạn (phòng ngừa, ứng cứu, báo cáo, phân tích nguyên nhân gây cháy, thiệt hại, báo cáo), sau đó kết hợp với 22 tỉnh thành để tạo ra một ma trận phủ sóng, bao gồm cả những thứ như bản đồ nguy cơ cháy ở Hsinchu, khu vực khó cứu ở Đài Bắc, và các khu vực như [Thạch Sơn Tích](/geography/桃園埤塘/) trong khu vực phụ trách cứu trợ. Nó còn thẳng thắn chỉ ra những khoảng trống: thiếu API thời gian thực cho cháy, tọa độ cấp sự kiện hiếm thấy, và dữ liệu theo dõi sau thiên tai không được công bố công khai.
+Chỉ việc thu thập vẫn chưa đủ. Pipeline này tiếp tục tự động phân chia vụ cháy thành sáu giai đoạn (phòng ngừa, ứng cứu, báo cáo, phân tích nguyên nhân gây cháy, thiệt hại, báo cáo), sau đó kết hợp với 22 tỉnh thành để tạo ra một ma trận phủ sóng, bao gồm cả những thứ như bản đồ nguy cơ cháy ở Hsinchu, khu vực khó cứu ở Đài Bắc, và các khu vực như [Thạch Sơn Tích](/vi/geography/taoyuan-ponds/) trong khu vực phụ trách cứu trợ. Nó còn thẳng thắn chỉ ra những khoảng trống: thiếu API thời gian thực cho cháy, tọa độ cấp sự kiện hiếm thấy, và dữ liệu theo dõi sau thiên tai không được công bố công khai.
 
 Sau đó là phân tích. Anh ấy đư ra một báo cáo nguyên nhân về cháy do chính hệ thống tự động sinh ra: dựa trên 15.405 mục dữ liệu toàn quốc năm 2024, nguyên nhân gây cháy lớn nhất ở Thành phố Tân Bắc là yếu tố điện, chiếm 30,9%; trong khi đó ở tỉnh Bình Đông lại là bục tàu, chiếm 35,2%[^3]. Những con số này là kết quả từ ảnh chụp màn hình trong bài thuyết trình, nơi Agent kết nối nhiều API khác nhau để tạo ra báo cáo — chứ không phải là kết quả tính toán thủ công từng dòng bảng tính của anh ấy.
 
@@ -193,7 +193,7 @@ _Migu trình bày kết quả thu thập chủ đề cháy leo trong buổi thuy
 
 ## Tách ra bốn bước: Dữ liệu vào, báo cáo tự gửi ra ngoài
 
-Dây chuyền phản ứng cháy này chỉ là một mảnh ghép, phản ánh toàn bộ hệ thống của anh. Hệ thống được chia thành bốn bước: nhận dữ liệu, tích hợp tri thức, tạo phân tích, kích hoạt hành động — anh nhấn mạnh đặặng: "Mỗi bước đều có thể thay thế độc lập, cả hệ thống không cần phải xây lại từ đầu". Ở tầng dưới cùng là việc nhận dữ liệu, anh cũng từng trải qua quá trình tiến hóa: ban đầu là tải file Excel thủ công từ data.gov.tw, tự mình đọc và lưu trữ, nút giằn ở "bộ nhớ não người"; sau đó chuyển sang tìm kiếm API trên mạng, thu thập báo cáo PDF, quét các nền tảng của tỉnh thành — nhưng vấn đề là "không có chỉ mục"; cho đến hiện nay, mọi siêu dữ liệu của từng bản ghi đều được chuẩn hóa lưu trữ trong một thư mục SQLite, có thể truy vấn tự động và mở rộng tự động[^3]. Hệ thống của anh được hỗ trợ bởi hơn bốn mươ mấy bộ thu thập dữ liệu, từ YouBike, xe buýt, lưu lượng giao thông trên cao tốc, đến lịch trình tàu hỏa, dữ liệu AIS tàu thuyền, vệ tinh khí tượng, [trận địa](/society/地震/)、nước hầm lưu lượng thủy điện、chất lượng không khí — và anh cho biết, ngay cả khi sai ba lần cũng sẽ tự động gửi cảnh báo qua Telegram, mỗi sáng lúc 9 giờ sẽ gửi một bản "Đánh giá hàng ngày" vào hộp thư của anh[^3]。
+Dây chuyền phản ứng cháy này chỉ là một mảnh ghép, phản ánh toàn bộ hệ thống của anh. Hệ thống được chia thành bốn bước: nhận dữ liệu, tích hợp tri thức, tạo phân tích, kích hoạt hành động — anh nhấn mạnh đặặng: "Mỗi bước đều có thể thay thế độc lập, cả hệ thống không cần phải xây lại từ đầu". Ở tầng dưới cùng là việc nhận dữ liệu, anh cũng từng trải qua quá trình tiến hóa: ban đầu là tải file Excel thủ công từ data.gov.tw, tự mình đọc và lưu trữ, nút giằn ở "bộ nhớ não người"; sau đó chuyển sang tìm kiếm API trên mạng, thu thập báo cáo PDF, quét các nền tảng của tỉnh thành — nhưng vấn đề là "không có chỉ mục"; cho đến hiện nay, mọi siêu dữ liệu của từng bản ghi đều được chuẩn hóa lưu trữ trong một thư mục SQLite, có thể truy vấn tự động và mở rộng tự động[^3]. Hệ thống của anh được hỗ trợ bởi hơn bốn mươ mấy bộ thu thập dữ liệu, từ YouBike, xe buýt, lưu lượng giao thông trên cao tốc, đến lịch trình tàu hỏa, dữ liệu AIS tàu thuyền, vệ tinh khí tượng, [trận địa](/vi/society/earthquakes-in-taiwan/)、nước hầm lưu lượng thủy điện、chất lượng không khí — và anh cho biết, ngay cả khi sai ba lần cũng sẽ tự động gửi cảnh báo qua Telegram, mỗi sáng lúc 9 giờ sẽ gửi một bản "Đánh giá hàng ngày" vào hộp thư của anh[^3]。
 
 Khi đến bước cuối cùng — "kích hoạt hành động" — anh mô tả rõ vai trò của con người: "Agent chạy trọn vòng lặp. Vai trò của con người: đưa ra mục tiêu, nhận báo cáo. Năm bánh răng ở giữa tự động quay: khám phá、thu thập、tích hợp、sản xuất、giám sát." Hệ thống thậm chí tự động tạo ra một bản báo cáo hàng tuần "Dữ liệu mở mới thêm trong tuần". Dùng lời của chính anh: "Chủ đề tự nảy sinh, báo cáo tự gửi đến hộp thư."[^3]
 
@@ -261,10 +261,10 @@ Nhưng hình dạng đã xuất hiện. Phía sau một người, một câu l�
 
 ## Đọc thêm
 
-- [Ngô Triết Vũ](/people/吳哲宇): Nhà sáng lập Taiwan.md, cũng dùng lập trình và công cụ tạo sinh để tiến gần tới “thứ biết tự phát triển”
-- [Cộng đồng nguồn mở và g0v](/technology/開源社群與g0v): Bối cảnh tập thể của tinh thần “viết chương trình để cải tạo xã hội”, một đối chứng với hình thái cá nhân × Agent của Migu
-- [Tinh thần nguồn mở của Đài Loan](/technology/台灣開源精神): Từ “cứu nước bằng bàn phím” đến dữ liệu mở, nền văn hóa cơ sở của công nghệ công dân Đài Loan
-- [Thẻ căn cước số và chính phủ số](/technology/數位身分證與數位政府): Một mặt khác của hạ tầng dữ liệu mở chính phủ
+- [Ngô Triết Vũ](/vi/people/che-yu-wu): Nhà sáng lập Taiwan.md, cũng dùng lập trình và công cụ tạo sinh để tiến gần tới “thứ biết tự phát triển”
+- [Cộng đồng nguồn mở và g0v](/vi/technology/open-source-and-g0v): Bối cảnh tập thể của tinh thần “viết chương trình để cải tạo xã hội”, một đối chứng với hình thái cá nhân × Agent của Migu
+- [Tinh thần nguồn mở của Đài Loan](/vi/technology/taiwan-open-source-spirit): Từ “cứu nước bằng bàn phím” đến dữ liệu mở, nền văn hóa cơ sở của công nghệ công dân Đài Loan
+- [Thẻ căn cước số và chính phủ số](/vi/technology/digital-id-and-digital-government): Một mặt khác của hạ tầng dữ liệu mở chính phủ
 
 ## Liên kết dự án
 

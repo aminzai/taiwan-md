@@ -16,7 +16,7 @@ tags:
     'تغير المناخ',
     'علوم المحيطات',
   ]
-subcategory: 'الحياة البرية'
+subcategory: '野生動物'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23

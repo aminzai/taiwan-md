@@ -4,7 +4,16 @@ description: 'Sohn einer Bauernfamilie aus Pingtung, mit Mittelschulabschluss, o
 date: 2026-04-05
 category: 'People'
 subcategory: '餐飲與職人'
-tags: ['Gastronomie', 'Bäckerei', 'Meisterhandwerk', 'Weltmeister', 'Pingtung', 'Brot', 'Indigene Völker']
+tags:
+  [
+    'Gastronomie',
+    'Bäckerei',
+    'Meisterhandwerk',
+    'Weltmeister',
+    'Pingtung',
+    'Brot',
+    'Indigene Völker',
+  ]
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-05
@@ -13,6 +22,7 @@ readingTime: 7
 translatedFrom: 'People/吳寶春.md'
 sourceCommitSha: '09c1bf1a9'
 sourceContentHash: 'sha256:bd5210289cafca48'
+sourceBodyHash: 'sha256:e355ad9581f498f8'
 translatedAt: '2026-08-19T04:30:30+08:00'
 ---
 
@@ -84,10 +94,10 @@ Dieses Ergebnis ist an sich kaum erklärbar – und wenn man genauer hinsieht, m
 
 **Weiterführende Lektüre**:
 
-- [André Chiang](/people/江振誠) — ein Handwerker, der ebenfalls mit taiwanesischen Zutaten französische Juroren eroberte, sich aber im Jahr nach dem Sprung auf Platz 14 der Weltrangliste dafür entschied, das Licht zu löschen und sich abzuwenden
-- [Kulturkarte der 16 indigenen Völker Taiwans](/culture/台灣原住民族16族文化地圖) — der kulturelle Kontext, aus dem der Paiwan-Hirsewein im Litschi-Rosmarin-Brot stammt
-- [Nachtmarktkultur](/food/夜市文化) — der Boden der taiwanesischen Alltagsküche, um zu verstehen, woraus Wu Pao-chuns Material-Ästhetik gewachsen ist
-- [Huang Shan-liao](/people/黃山料) — ein weiterer Taiwanese, der auf der Weltbühne gewann (London Fashion Week), aber den umgekehrten Weg ging: das Handwerk verlassen und das „Sichtbarwerden“ zum Bestseller gemacht
+- [André Chiang](/de/people/andre-chiang-taiwanese-culinary-innovator) — ein Handwerker, der ebenfalls mit taiwanesischen Zutaten französische Juroren eroberte, sich aber im Jahr nach dem Sprung auf Platz 14 der Weltrangliste dafür entschied, das Licht zu löschen und sich abzuwenden
+- [Kulturkarte der 16 indigenen Völker Taiwans](/de/culture/indigenous-peoples-16-tribes-cultural-map) — der kulturelle Kontext, aus dem der Paiwan-Hirsewein im Litschi-Rosmarin-Brot stammt
+- [Nachtmarktkultur](/de/food/night-market-culture) — der Boden der taiwanesischen Alltagsküche, um zu verstehen, woraus Wu Pao-chuns Material-Ästhetik gewachsen ist
+- [Huang Shan-liao](/de/people/huang-shan-liao) — ein weiterer Taiwanese, der auf der Weltbühne gewann (London Fashion Week), aber den umgekehrten Weg ging: das Handwerk verlassen und das „Sichtbarwerden“ zum Bestseller gemacht
 
 ## Referenzen
 

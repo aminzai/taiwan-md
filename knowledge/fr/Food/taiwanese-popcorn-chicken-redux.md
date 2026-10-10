@@ -12,7 +12,7 @@ tags:
     'culture du grignotage nocturne',
     'basilic thaï',
   ]
-subcategory: 'Classiques de rue'
+subcategory: '經典小吃'
 category: 'Food'
 author: 'Taiwan.md Contributors'
 featured: true

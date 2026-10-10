@@ -261,11 +261,11 @@ Dan kedua pihak, **bilang diri di sisi masa depan**.
 
 ## Bacaan Lanjutan
 
-- [Krisis Iklim dan Transisi Net Zero Taiwan](/nature/台灣氣候危機與淨零轉型) — sisi lain soal energi sama: dari batas fisik, penawaran permintaan listrik, jadwal kurangi karbon, saudara tulisan ini
-- [Sejarah Gerakan Lingkungan Taiwan](/nature/台灣環境運動史) — anti-nuklir sebagai bagian gerakan lingkungan pasca-perang Taiwan, dari anti-DuPont Lukang ke Gongliao alur lengkap
-- [Keadilan Lingkungan dan Kontroversi Tetangga Taiwan](/society/台灣環境正義與鄰避爭議) — struktur tetangga di balik limbah nuklir dan Lanyu: kenapa risiko selalu jatuh tempat paling tak punya suara
-- [Gerakan Sosial dan Partisipasi Warga Negara](/society/社會運動與公民參與) — bagaimana anti-nuklir dan gerakan demokrasi Taiwan pakai bahasa dan energi sama
-- [Gerakan Mahasiswa Bunga Matahari](/society/太陽花學運) — mobilisasi warga generasi sama, paham suasana era puasa Lin Yi-hsiung
+- [Krisis Iklim dan Transisi Net Zero Taiwan](/id/nature/taiwan-climate-change-net-zero-transition) — sisi lain soal energi sama: dari batas fisik, penawaran permintaan listrik, jadwal kurangi karbon, saudara tulisan ini
+- [Sejarah Gerakan Lingkungan Taiwan](/id/nature/taiwan-environmental-movement-history) — anti-nuklir sebagai bagian gerakan lingkungan pasca-perang Taiwan, dari anti-DuPont Lukang ke Gongliao alur lengkap
+- [Keadilan Lingkungan dan Kontroversi Tetangga Taiwan](/id/society/taiwan-environmental-justice-nimby-conflicts) — struktur tetangga di balik limbah nuklir dan Lanyu: kenapa risiko selalu jatuh tempat paling tak punya suara
+- [Gerakan Sosial dan Partisipasi Warga Negara](/id/society/social-movements-and-civic-participation) — bagaimana anti-nuklir dan gerakan demokrasi Taiwan pakai bahasa dan energi sama
+- [Gerakan Mahasiswa Bunga Matahari](/id/society/sunflower-movement) — mobilisasi warga generasi sama, paham suasana era puasa Lin Yi-hsiung
 
 ## Data Terbuka
 

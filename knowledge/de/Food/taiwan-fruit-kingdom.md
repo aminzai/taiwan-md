@@ -38,6 +38,7 @@ imageLicense: 'CC BY-SA 2.0'
 translatedFrom: 'Food/台灣水果王國.md'
 sourceCommitSha: '813fde2d6'
 sourceContentHash: 'sha256:e8ef7d9d72df6a42'
+sourceBodyHash: 'sha256:4f8e5414cbe29614'
 translatedAt: '2026-09-23T08:25:43.486906+00:00'
 ---
 
@@ -212,7 +213,7 @@ Diese Insel kultiviert jedes Obst als Leben und Erinnerung. Der Lebensaspekt ist
 - [Ananas-Lychee-Vorfall](/politics/鳳梨釋迦事件) — Der vollständige Bericht über das chinesische Verbot im Jahr 2021 und das gescheiterte Umschlaggeschäft mit Kanada
 - [Arbeitsmigranten in der taiwanischen Landwirtschaft](/society/台灣農業移工) — Indonesisch-filipino Akzente in den Obstplantagen und die Lücken des rechtlichen Systems
 - [Bioökonomie in Taiwan](/food/有機農業) — Das 2,68-fache Wachstum von 2017 bis 2024 und Xie Meili's "schöne" (醜芭樂)
-- [Strauchbäume in Taiwan](/lifestyle/台灣行道樹) — Die Ökologische Kette zwischen dem taiwanischen Bauhinia und der Roten Hime-Schildlaus, sowie die Artengrenze zu der Lychee-Schildlaus
+- [Strauchbäume in Taiwan](/de/lifestyle/taiwan-street-trees) — Die Ökologische Kette zwischen dem taiwanischen Bauhinia und der Roten Hime-Schildlaus, sowie die Artengrenze zu der Lychee-Schildlaus
 
 ## Bildquellen
 

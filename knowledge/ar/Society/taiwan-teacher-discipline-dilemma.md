@@ -14,7 +14,7 @@ tags:
     'نقابات المعلمين',
     'تأديب الحرم الجامعي',
   ]
-subcategory: 'التعليم'
+subcategory: '教育'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-25

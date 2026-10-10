@@ -3,7 +3,7 @@ title: '대만의 저수지와 수자원 관리'
 description: '물 부족 위기부터 저수지 퇴적 문제까지, 대만 수자원의 과제와 남북 불균형 문제를 살펴봅니다'
 date: 2026-03-20
 tags: ['수자원', '저수지', '물 부족', '수리 공사', '기후 변화']
-subcategory: '수문과 수자원'
+subcategory: '水文與水資源'
 category: 'Geography'
 author: 'Taiwan.md Contributors'
 readingTime: 11

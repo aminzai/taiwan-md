@@ -27,6 +27,7 @@ relatedDiary: ['2026-07-06-133221-施振榮-rewrite']
 translatedFrom: 'People/施振榮.md'
 sourceCommitSha: '6ffd92f94'
 sourceContentHash: 'sha256:b50fabfadefe035f'
+sourceBodyHash: 'sha256:fb56cb60a16b87a7'
 translatedAt: '2026-09-26T06:31:31.594252+00:00'
 ---
 

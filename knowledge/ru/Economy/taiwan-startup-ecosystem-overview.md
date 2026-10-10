@@ -22,6 +22,7 @@ readingTime: 9
 translatedFrom: 'Economy/新創生態系.md'
 sourceCommitSha: '7255b3ab1'
 sourceContentHash: 'sha256:26ef34a08edb5172'
+sourceBodyHash: 'sha256:07a9caf907dd16bd'
 translatedAt: '2026-09-23T03:15:25.610818+00:00'
 ---
 

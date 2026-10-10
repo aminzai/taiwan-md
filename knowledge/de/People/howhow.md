@@ -128,11 +128,11 @@ Zurück zu jenem New Yorker Nachmittag 2015. Ein Junger mit unter 100.000 Fans, 
 **Weiterführende Links**:
 
 - [Tsai A-ga: Vom Influencer-Urvater zum Sozialarbeiter – der Mann, der 18 Jahre Traffic in Schicksal umwandelte](/de/people/tsai-a-ga-youtuber) — Taiwans erster Millionen-YouTuber, 2014 erreicht, vier Jahre vor Howhow, der Startpunkt dieser Professionalisierungs-Zeitachse.
-- [A-shen](/people/阿神) — Überschritt 2017 zeitgleich mit Sheng Jie Shi die Millionen-Marke als Gaming-Creator, verfolgt eine völlig andere Überlebensstrategie als Howhow.
-- [Tseng Po-en: Lachen lässt sich berechnen, Gesellschaft nicht](/people/曾博恩) — Ebenfalls durch „präzise getimte Komik“ bekannt, schiebt die Pointen aber in weit sensiblere gesellschaftspolitische Zonen.
+- [A-shen](/de/people/red-shin-minecraft-youtuber) — Überschritt 2017 zeitgleich mit Sheng Jie Shi die Millionen-Marke als Gaming-Creator, verfolgt eine völlig andere Überlebensstrategie als Howhow.
+- [Tseng Po-en: Lachen lässt sich berechnen, Gesellschaft nicht](/de/people/bernard-tseng) — Ebenfalls durch „präzise getimte Komik“ bekannt, schiebt die Pointen aber in weit sensiblere gesellschaftspolitische Zonen.
 - [Zun: Vom Zimmer in der 8. Klasse zu zwei Millionen-Kanälen – das Erwachsenenprotokoll eines YouTubers](/de/people/zun) — Ebenfalls aus Taiwans YouTube-Frühzeit, dokumentiert offen den Weg vom jugendlichen Drehen über die Millionen-Last bis zum Erwachsenenalltag.
 - [Taiwans YouTuber-Industrie und -Kultur: Von Tsai A-ga bis Chi Hsuan – die digitale Kulturevolution einer Insel](/de/culture/taiwan-youtuber-industry) — Die gesamte Industrielandschaft, in der Howhow steht: wie seine Generation das kollektive Netzgedächtnis einer Insel stemmte.
-- [Taiwans Creator Economy: 23 Millionen auf dem Splitter-Schlachtfeld](/economy/台灣自媒體創作者經濟) — Aus Industrie-Struktur verstehen, warum „Sponsoring Überlebensnotwendigkeit“ hinter der Werbe-TKP-Arithmetik steckt.
+- [Taiwans Creator Economy: 23 Millionen auf dem Splitter-Schlachtfeld](/de/economy/taiwan-self-media-creator-economy) — Aus Industrie-Struktur verstehen, warum „Sponsoring Überlebensnotwendigkeit“ hinter der Werbe-TKP-Arithmetik steckt.
 
 ## Bildquellen
 

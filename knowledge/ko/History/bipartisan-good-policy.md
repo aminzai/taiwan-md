@@ -4,7 +4,7 @@ description: '한 독자가 범람과 범록이 식탁에서 서로 욕하는 �
 date: 2026-06-13
 author: 'Taiwan.md'
 category: 'History'
-subcategory: "'政策與制度'"
+subcategory: '政策與制度'
 tags: ['타이완 역사', '정책', '민주화', '초당파', '전환기 정의', '정책과 제도']
 lastVerified: 2026-06-13
 lastHumanReview: false

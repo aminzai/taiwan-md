@@ -160,10 +160,10 @@ Chen Zhihong sagte: „Ich will nicht, dass andere mich wieder hineinziehen.“ 
 
 **Weiterführende Literatur:**
 
-- [Taiwanesische Popmusik](/music/台灣流行音樂) — Von Volksliedern über chinesische Pop bis zur Idol-Industrie, Little Tigers ist ein wichtiger Teil
-- [Goldene Melodie-Preise](/music/金曲獎) — Wie Taiwan mit einem Preis definierte, was „gute chinesische Popmusik“ ist
+- [Taiwanesische Popmusik](/de/music/golden-melodies-legacy-taiwan-pop-music) — Von Volksliedern über chinesische Pop bis zur Idol-Industrie, Little Tigers ist ein wichtiger Teil
+- [Goldene Melodie-Preise](/de/music/pop-music-and-golden-melody-awards) — Wie Taiwan mit einem Preis definierte, was „gute chinesische Popmusik“ ist
 - [Jay Chou](/de/people/jay-chou) — Nach der Idol-Industrie, eine andere Form taiwanesischer Musik
-- [Mayday](/music/五月天) — Eine andere Band, die von Taiwan nach ganz China kommt – ein anderer Weg
+- [Mayday](/de/music/mayday-band) — Eine andere Band, die von Taiwan nach ganz China kommt – ein anderer Weg
 
 ## Bildnachweise
 

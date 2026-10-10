@@ -21,6 +21,7 @@ readingTime: 18
 translatedFrom: 'History/台灣選舉與政黨政治.md'
 sourceCommitSha: '9cef725ce'
 sourceContentHash: 'sha256:bee6db6cebb342a7'
+sourceBodyHash: 'sha256:cf2cbcf164430410'
 translatedAt: '2026-09-09T15:32:21+08:00'
 updateLog:
   - date: '2026-04-07'
@@ -229,7 +230,7 @@ updateLog:
 - [बड़ी वापसी](/hi/history/great-recall-movement-2024) — 2025 नागरिक समाज इतिहास सबसे बड़े पैमाने की वापसी कार्रवाई का संपूर्ण पंक्ति
 - 2026 नौ-संयुक्त चुनाव (2026 के स्थानीय चुनाव) — 22 काउंटी चुनाव लड़ाई और संस्था परीक्षा
 - [नौ-संयुक्त चुनाव क्या है](/hi/politics/nine-in-one-elections-explained) — स्थानीय जन नौ-संयुक्त चुनाव संस्था व्याख्या
-- [गांव-टाउन लंबी प्रणाली](/politics/村里長制度) — ताइवान सबसे आधार लोग निर्वाचित पद
+- [गांव-टाउन लंबी प्रणाली](/hi/politics/village-chief-system) — ताइवान सबसे आधार लोग निर्वाचित पद
 - [विधायिका प्रणाली](/hi/politics/city-councilor-system-taiwan) — काउंटी विधायिका और सीधे नगर विधायिका संस्था विकास
 - [राजनीति हब](/politics) — ताइवान राजनीति परिवेश सारांश प्रवेश दरवाज़ा
 

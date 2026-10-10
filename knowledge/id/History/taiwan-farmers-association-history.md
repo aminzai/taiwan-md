@@ -128,7 +128,7 @@ Posisi sejarah koperasi pertanian terletak di sini. Kebijakan pertanian negara m
 
 ## Bacaan Lanjutan
 
-- [Reformasi Tanah Taiwan](/history/台灣土地改革) — Latar belakang institusional reformasi koperasi pertanian dan reorganisasi kekuasaan desa pasca perang
+- [Reformasi Tanah Taiwan](/id/history/taiwan-land-reform) — Latar belakang institusional reformasi koperasi pertanian dan reorganisasi kekuasaan desa pasca perang
 - [Modernisasi Pertanian Taiwan](/id/economy/taiwan-agricultural-modernization) — Jejak lain dari promosi koperasi pertanian, teknologi pertanian, dan transformasi industri
 - [Sejarah Air Tanpa Penggunaan Taiwan](/history/台灣自來水史) — Membaca perbandingan dari organisasi desa ke institusi infrastruktur publik
 

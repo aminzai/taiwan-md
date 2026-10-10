@@ -4,7 +4,7 @@ description: '1975년 실패한 식당 주인 천팅즈가 시먼딩 노점에�
 date: 2026-04-01
 tags:
   ['옌수지', '시엔수지', '길거리 음식', '야시장', '튀김', '야식 문화', '바질']
-subcategory: '전통 길거리 음식'
+subcategory: '經典小吃'
 category: 'Food'
 author: 'Taiwan.md Contributors'
 featured: true

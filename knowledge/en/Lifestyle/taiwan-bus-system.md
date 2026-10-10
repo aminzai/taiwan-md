@@ -235,7 +235,7 @@ The next time you stand under a bus stop sign, whether in Taipei complaining tha
 
 That final 5658 has driven away. But as long as someone is still raising a hand under a bus stop sign, there is still a vehicle that owes them a ride.
 
-**Further Reading:** [Taiwan’s Transportation System](/lifestyle/台灣交通系統), [Taiwan’s Scooter Culture](/lifestyle/台灣機車文化), [History of Taiwan’s MRT Development](/lifestyle/台灣捷運發展史), [Tour Buses](/lifestyle/遊覽車)
+**Further Reading:** [Taiwan’s Transportation System](/en/lifestyle/transportation-system), [Taiwan’s Scooter Culture](/en/lifestyle/taiwan-scooter-culture), [History of Taiwan’s MRT Development](/en/lifestyle/history-of-taiwan-mrt-development), [Tour Buses](/en/lifestyle/tour-bus)
 
 ## Image Sources
 

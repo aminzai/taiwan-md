@@ -5,7 +5,11 @@ category: 'Culture'
 subcategory: '節慶與禮俗'
 tags:
   [
-    'العام القمري الجديد، أربعة سيو-آه، وجبات العام الجديد، اللغة التايوانية، ثقافة الطعام',
+    'العام القمري الجديد',
+    'أربعة سيو-آه',
+    'وجبات العام الجديد',
+    'اللغة التايوانية',
+    'ثقافة الطعام',
   ]
 author: 'Taiwan.md Contributors'
 date: 2026-08-20
@@ -121,7 +125,7 @@ _حلويات تايوان. Photo: pelican، Wikimedia Commons، [CC BY-SA 2.0](
 
 [^7]: [مكتب صحة مدينة كيلونغ: قائمة فحوصات الأطعمة الموسمية للعام الجديد وعيد الفوانيس لعام 112](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01207/f1674011260718.pdf) — ملف PDF رسمي للفحوصات عام 2022، الصفحة 2 تسرد فحص الأفلاتوكسين لكعكة الفول السوداني ونتيجة مطابقة الأنظمة، تعرض حوكمة سلامة أطعمة العام الجديد.
 
-[^8]: [ويكيميديا كومنز: Taiwanese sweets (1088069273).jpg](<https://commons.wikimedia.org/wiki/File:Taiwanese_sweets_(1088069273).jpg>) — المصور pelican، ترخيص الصورة CC BY-SA 2.0. هذه المقالة تستخدم عنوان URL الأصلي من ويكيميديا كومنز، دون تحميل أو تعديل للصورة.
+[^8]: [ويكيميديا كومنز: Taiwanese sweets (1088069273).jpg](https://commons.wikimedia.org/wiki/File:Taiwanese_sweets_(1088069273) — المصور pelican، ترخيص الصورة CC BY-SA 2.0. هذه المقالة تستخدم عنوان URL الأصلي من ويكيميديا كومنز، دون تحميل أو تعديل للصورة.
 
 [^9]: [ويكيميديا كومنز: 2010-02-13 Lunar New Year sweets vendor at Dihua Street, Taipei](https://commons.wikimedia.org/wiki/File:2010-02-13_Lunar_New_Year_sweets_vendor_at_Dihua_Street,_Taipei.jpg) — صورة كشك حلوى العام القمري الجديد في شارع ديهوا، تايبيه، 2010، المصور eazytraveler، ترخيص CC BY 2.0، تستخدم المقالة عنوان URL الأصلي.
 

@@ -156,7 +156,7 @@ Cet article est principalement rédigé sur la base des treize pages d'articles 
 
 [^12]: [文化部：針對蔡志浩發表「獨立書店：逛與不逛的掙扎」一文，獨立書店文化協會推薦訪視委員，文化部即刻停止職務](https://www.moc.gov.tw/News_Content.aspx?n=105&s=204963) — Avis officiel de 2024 expliquant l'affaire de gouvernance concernant l'inspection physique des librairies, les membres recommandés par l'association et l'arrêt par le Ministère de la Culture des fonctions d'inspection et d'examen.
 
-[^13]: [Wikimedia Commons：File：植隱冊室 (3).jpg](<https://commons.wikimedia.org/wiki/File:%E6%A4%8D%E9%9A%B1%E5%86%8A%E5%AE%A4_(3).jpg>) — Page d'archive de l'image intérieure de la librairie Zhiyin à Magong, Penghu, photographiée par Austin Huang, marquée CC BY-SA 4.0, seule l'URL chaude du fichier original est intégrée dans cet article, sans téléchargement ni modification de l'image.
+[^13]: [Wikimedia Commons：File：植隱冊室 (3).jpg](https://commons.wikimedia.org/wiki/File:%E6%A4%8D%E9%9A%B1%E5%86%8A%E5%AE%A4_(3) — Page d'archive de l'image intérieure de la librairie Zhiyin à Magong, Penghu, photographiée par Austin Huang, marquée CC BY-SA 4.0, seule l'URL chaude du fichier original est intégrée dans cet article, sans téléchargement ni modification de l'image.
 
 ## Sources d'images et autorisations
 

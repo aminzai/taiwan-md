@@ -10,7 +10,7 @@ tags:
     'эволюция законодательства',
     'история Тайваня',
   ]
-subcategory: 'социальная и повседневная история'
+subcategory: '社會與日常史'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-28
@@ -20,6 +20,7 @@ curation: 'incubating'
 translatedFrom: 'History/動保.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:a68c51993d71e22a'
+sourceBodyHash: 'sha256:1acff297b5650550'
 translatedAt: '2026-08-04T15:30:25.506682+00:00'
 ---
 

@@ -10,7 +10,7 @@ tags:
     'digital-native',
     'self-discipline',
   ]
-subcategory: 'Digital & Media'
+subcategory: '數位與媒體'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 5

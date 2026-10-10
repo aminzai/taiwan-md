@@ -82,13 +82,13 @@ Giới thiệu công ty Thống nhất Siêu thị, 2026
 
 Nếu 7-ELEVEN chỉ là để bán đồ tiện lợi hơn, nó sẽ không biến thành ngày hôm nay cái gì hết. Sự biến hóa thật sự của nó, là từ "một cửa hàng" lớn thành "một cái máy giúp bạn xử lý chuyện".
 
-Tháng 11 năm 2005, Thống nhất Siêu thị ra mắt trạm ibon Cuộc Sống Tiện Lợi, chuyển những gì từng rải rác ở ngân hàng, bưu điện, cơ quan chính phủ, chuyển vào phố góc[^18]. Ngày hôm nay bạn có thể ở tiểu thất trả tiền điện nước, phí đỗ xe, phạt giao thông, thuế bằng sáng chỉ số, có thể nhận gói hàng mua sắm trực tuyến, in tài liệu, đặt tàu cao tốc, nhận quà điểm OPEN POINT. Sương nước cà ri làm mờ kính, trứng chà lưỡi nổi trên nước muối, cơm cuộn tào phủ một hàng hàng lên kệ, máy ibon kêu bíp bíp, những cảnh quay này cộng lại, chính là cái gì rất nhiều người dân Đài Loan trong lòng "phòng khách thứ hai" của họ. Nó là nơi trả tiền, nhận hàng, máy rút tiền, nhà vệ sinh, phòng in, khu vực ngồi, cũng là chỗ [văn hóa cửa hàng tiện lợi của Đài Loan](/lifestyle/台灣便利商店文化) được nén lại nhiều nhất.
+Tháng 11 năm 2005, Thống nhất Siêu thị ra mắt trạm ibon Cuộc Sống Tiện Lợi, chuyển những gì từng rải rác ở ngân hàng, bưu điện, cơ quan chính phủ, chuyển vào phố góc[^18]. Ngày hôm nay bạn có thể ở tiểu thất trả tiền điện nước, phí đỗ xe, phạt giao thông, thuế bằng sáng chỉ số, có thể nhận gói hàng mua sắm trực tuyến, in tài liệu, đặt tàu cao tốc, nhận quà điểm OPEN POINT. Sương nước cà ri làm mờ kính, trứng chà lưỡi nổi trên nước muối, cơm cuộn tào phủ một hàng hàng lên kệ, máy ibon kêu bíp bíp, những cảnh quay này cộng lại, chính là cái gì rất nhiều người dân Đài Loan trong lòng "phòng khách thứ hai" của họ. Nó là nơi trả tiền, nhận hàng, máy rút tiền, nhà vệ sinh, phòng in, khu vực ngồi, cũng là chỗ [văn hóa cửa hàng tiện lợi của Đài Loan](/vi/lifestyle/convenience-store-culture) được nén lại nhiều nhất.
 
 ![Cà ri nước ở quầy 7-ELEVEN ở Đài Loan, nước sôi trong có nổi cà rốt, bánh đen, hạt cá viên, v.v., sương nước bay mù kính](/article-images/economy/seven-eleven-oden-2020.webp)
 
 _Cà ri nước ở quầy tiểu thất. Khi trả tiền, nhận hàng, in ấn, rút tiền đều có thể làm tại cùng một góc phố, cửa hàng tiện lợi trở thành "phòng khách thứ hai" của người dân Đài Loan. Ảnh: Tbatb / Wikimedia Commons, CC BY-SA 4.0._
 
-Thống nhất Siêu thị cũng rất hiểu cách tìm một chiếc mặt cho không gian này. Ngày 1 tháng 7 năm 2005, Thống nhất Siêu thị tổ chức họp báo, công bố masscot được ủy thác cho công ty điện quang Nhật Bản thiết kế là Tiểu tướng OPEN. Tổng giám đốc lúc bấy giờ Từ Trọng Nhân giải thích cách đặt tên: "'Open' đại diện cho khả năng mở lòng đón nhận bất kỳ người, sự, vật gì, thái độ lạc quan tiến bộ sống vui vẻ" [^19]. Chú chó này sau đó phát triển thành hàng ngàn loại thứ phụ, tạo doanh số hơn trăm triệu mỗi năm, trở thành một trong những [dị vật công cộng lợi nhuận nhất ở Đài Loan](/lifestyle/吉祥物).
+Thống nhất Siêu thị cũng rất hiểu cách tìm một chiếc mặt cho không gian này. Ngày 1 tháng 7 năm 2005, Thống nhất Siêu thị tổ chức họp báo, công bố masscot được ủy thác cho công ty điện quang Nhật Bản thiết kế là Tiểu tướng OPEN. Tổng giám đốc lúc bấy giờ Từ Trọng Nhân giải thích cách đặt tên: "'Open' đại diện cho khả năng mở lòng đón nhận bất kỳ người, sự, vật gì, thái độ lạc quan tiến bộ sống vui vẻ" [^19]. Chú chó này sau đó phát triển thành hàng ngàn loại thứ phụ, tạo doanh số hơn trăm triệu mỗi năm, trở thành một trong những [dị vật công cộng lợi nhuận nhất ở Đài Loan](/vi/lifestyle/mascot-culture-in-taiwan).
 
 ![Masscot 7-ELEVEN Thống nhất Siêu thị là Tiểu tướng OPEN, một cái hình dạng chó vũ trụ nhỏ bị sơn trắng có ăng ten trên đầu](/article-images/economy/open-chan-mascot-7-eleven.webp)
 
@@ -134,7 +134,7 @@ Nguồn: Trung Ương Thông Tấn
 
 _Cửa hàng hàng lượng lớn Carrefour ở Đài Trung. 2023 tập đoàn Thống nhất hoàn thành mua lại Carrefour Đài Loan, cùng lúc trở thành tập đoàn bán lẻ lớn nhất siêu thị cộng hàng lượng lớn. Ảnh: Solomon203 / Wikimedia Commons, CC BY-SA 4.0._
 
-Thuận tiện nói thêm hai hiểu lầm phổ biến. Đại Runfa không phải Thống nhất mua, là [Trung tâm Phúc Lợi Toàn Liên](/economy/全聯福利中心) năm 2021 mua bán; báo công thương một tên "mua lại Carrefour, không đấu Đại Runfa cái siêu thị lớn? Thống nhất, Toàn Liên chuyển chiến siêu thị siêu thị", chỉ đọc nửa trước rất dễ dàng hai công ty làm việc gộp thành một[^39]. Hiểu lầm khác là Không in tốt hàng: Thống nhất Siêu thị sớm năm 2014 tháng 1 đã bán tháo cổ phần Không in tốt hàng Đài Loan, 2021 liên hợp tác cửa trong cửa cũng kết thúc, nó thực ra đã không ở bộ sưu tập Thống nhất[^40].
+Thuận tiện nói thêm hai hiểu lầm phổ biến. Đại Runfa không phải Thống nhất mua, là [Trung tâm Phúc Lợi Toàn Liên](/vi/economy/pxmart-supermarket) năm 2021 mua bán; báo công thương một tên "mua lại Carrefour, không đấu Đại Runfa cái siêu thị lớn? Thống nhất, Toàn Liên chuyển chiến siêu thị siêu thị", chỉ đọc nửa trước rất dễ dàng hai công ty làm việc gộp thành một[^39]. Hiểu lầm khác là Không in tốt hàng: Thống nhất Siêu thị sớm năm 2014 tháng 1 đã bán tháo cổ phần Không in tốt hàng Đài Loan, 2021 liên hợp tác cửa trong cửa cũng kết thúc, nó thực ra đã không ở bộ sưu tập Thống nhất[^40].
 
 > 📝 **Ghi chú người sắp xếp:** Thú vị là, lật mở danh sách thương hiệu toàn tập đoàn chính thức Thống nhất Doanh nghiệp, "Không in tốt hàng Đài Loan" cho tới lúc này vẫn liệt ở danh sách thông đường bán lẻ, bên cạnh còn nằm một vài thương hiệu người bình thường sớm không quen thuộc[^41]. Một đế chế lớn tới chừng nào không biết cửa bên ngoài nhà riêng phần biển hiệu nào nên gỡ bỏ còn không có thời gian cập nhật, cái sơ sót nhỏ này chính nó, so với bất kỳ câu "bộ sưu tập phủ sóng bán lẻ, vận chuyển, thương mại" của cơ quan chính thức nào, có thể nói rõ hơn Thống nhất cuối cùng lớn tới mức nào.
 
@@ -211,11 +211,11 @@ Lần gió mạnh tiếp theo, bạn đi qua cái chiếc đèn vừa sáng còn
 
 **Tìm hiểu thêm**:
 
-- [Văn hóa cửa hàng tiện lợi Đài Loan](/lifestyle/台灣便利商店文化): Tiểu thất làm sao từ "lại nhỏ lại đắt của hàng quái" biến thành "phòng khách thứ hai" của người dân Đài Loan, bài này nói về hiện tượng cửa hàng tiện lợi toàn bộ.
-- [Trung tâm Phúc Lợi Toàn Liên](/economy/全聯福利中心): Song thời với Thống nhất hợp nhất Carrefour gần như, Toàn Liên hợp nhất Đại Runfa, là "công ty tắng toàn bộ bán lẻ" lần lươn thứ hai chuyện Đài Loan.
-- [Dị vật công cộng](/lifestyle/吉祥物): Tiểu tướng OPEN phía sau, công ty Đài Loan làm sao dùng một chú vật quản lý cảm xúc thương hiệu.
-- [Doanh nghiệp hàng đầu Đài Loan 50](/economy/台灣前50大企業): Đặt Thống nhất vào bản đồ vốn Đài Loan, nhìn vị trí tương đối của nó cùng máy chip Đài Loan, Hùng Hải những người khổng lồ.
-- [Doanh nghiệp Đài Loan: Thực phẩm Nghĩa Mỹ](/economy/台灣企業：義美食品): Cùng lên từ bánh mì / thực phẩm công ty cũ tên, một cái đi con đường vương quốc thông đường, một cái đi tâm an toàn thực phẩm, hai kiểu Đài Loan ngành thực phẩm con đường.
+- [Văn hóa cửa hàng tiện lợi Đài Loan](/vi/lifestyle/convenience-store-culture): Tiểu thất làm sao từ "lại nhỏ lại đắt của hàng quái" biến thành "phòng khách thứ hai" của người dân Đài Loan, bài này nói về hiện tượng cửa hàng tiện lợi toàn bộ.
+- [Trung tâm Phúc Lợi Toàn Liên](/vi/economy/pxmart-supermarket): Song thời với Thống nhất hợp nhất Carrefour gần như, Toàn Liên hợp nhất Đại Runfa, là "công ty tắng toàn bộ bán lẻ" lần lươn thứ hai chuyện Đài Loan.
+- [Dị vật công cộng](/vi/lifestyle/mascot-culture-in-taiwan): Tiểu tướng OPEN phía sau, công ty Đài Loan làm sao dùng một chú vật quản lý cảm xúc thương hiệu.
+- [Doanh nghiệp hàng đầu Đài Loan 50](/vi/economy/top-50-companies-taiwan): Đặt Thống nhất vào bản đồ vốn Đài Loan, nhìn vị trí tương đối của nó cùng máy chip Đài Loan, Hùng Hải những người khổng lồ.
+- [Doanh nghiệp Đài Loan: Thực phẩm Nghĩa Mỹ](/vi/economy/imei-foods-corporation): Cùng lên từ bánh mì / thực phẩm công ty cũ tên, một cái đi con đường vương quốc thông đường, một cái đi tâm an toàn thực phẩm, hai kiểu Đài Loan ngành thực phẩm con đường.
 
 ## Hình ảnh Nguồn gốc
 

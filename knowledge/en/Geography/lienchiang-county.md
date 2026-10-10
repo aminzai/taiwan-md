@@ -18,7 +18,7 @@ tags:
     'Hokkien',
     '22 Counties Series',
   ]
-subcategory: 'Counties & Cities'
+subcategory: '縣市'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-18
@@ -33,6 +33,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Matsu_Montage.png'
 translatedFrom: 'Geography/連江縣.md'
 sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:2038e5c6672647ae'
+sourceBodyHash: 'sha256:6a5df577261b78fa'
 translatedAt: '2026-09-08T20:15:31.503016+00:00'
 ---
 
@@ -238,7 +239,7 @@ Fuzhou is 16 kilometers away. Taiwan is 200 kilometers away. **This distance wil
 - [Taiwan Coastal Landforms and Seascapes](/en/geography/taiwan-coastal-landforms-and-seascapes) — The 9.25-kilometer maritime boundary between the Matsu Archipelago and the Beihai Peninsula
 - [Pingtung County](/en/geography/pingtung-county) — Part of the 22 counties and cities series: the 1874 Mudan incident, the 1988 typhoon, and 780,000 residents including five Indigenous groups — a key node often overlooked in central narratives, just like Matsu
 - [Kinmen County](/en/geography/kinmen-county) — A sibling in the 22 counties and cities series; another offshore county in Fujian Province. Similarly, martial law in 1956, abolished in 1992, and the small three links in 2001, but Kinmen speaks the Xiamen Hokkien dialect, is 1.8 kilometers from Xiamen, and has the decisive battles of Kuningtou and the 823 Battle — sharing the same system but different roots from Lianjiang County
-- [Matsu International Art Island](/art/馬祖國際藝術島) — A decade-long curatorial project by the Lianjiang County Government that transformed military trenches, outposts, and officers' lounges into exhibition spaces — the most concrete recent example of island transformation mentioned in the "Before and After Tourism Development" section
+- [Matsu International Art Island](/en/art/matsu-biennial) — A decade-long curatorial project by the Lianjiang County Government that transformed military trenches, outposts, and officers' lounges into exhibition spaces — the most concrete recent example of island transformation mentioned in the "Before and After Tourism Development" section
 
 ## Image Credits
 

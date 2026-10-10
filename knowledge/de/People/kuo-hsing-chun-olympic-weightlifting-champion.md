@@ -3,7 +3,18 @@ title: 'Kuo Hsing-chun: Vom Gewicht von 141 kg, das sie traf, zur dreifachen oly
 description: 'Taiwanesische Gewichtheberin, Medaillengewinnerin bei drei Olympischen Spielen (Bronze 2016, Gold 2021, Bronze 2024), Weltrekordhalterin in der Klasse bis 59 kg, Nachfahrin des Amis-Stammes Malan'
 date: 2026-03-19
 category: 'People'
-tags: ['Personen', 'Kuo Hsing-chun', 'Gewichtheben', 'Olympia', 'Goldmedaille', 'Sportlerin', 'Taiwan', 'Amis', 'Indigene Völker']
+tags:
+  [
+    'Personen',
+    'Kuo Hsing-chun',
+    'Gewichtheben',
+    'Olympia',
+    'Goldmedaille',
+    'Sportlerin',
+    'Taiwan',
+    'Amis',
+    'Indigene Völker',
+  ]
 subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
@@ -12,6 +23,7 @@ lastHumanReview: true
 translatedFrom: 'People/郭婞淳.md'
 sourceCommitSha: '85926aa3b'
 sourceContentHash: 'sha256:100a6dfe0d0c9f4b'
+sourceBodyHash: 'sha256:45d6a810707daa5c'
 translatedAt: '2026-08-13T03:55:00+08:00'
 ---
 
@@ -95,48 +107,48 @@ Ihre Urgroßmutter gab die Kultur mit ihrer Stimme weiter, sie mit Langhantel un
 
 **Weiterführende Lektüre**:
 
-- [Tai Tzu-ying](/people/戴資穎) – ebenfalls Kern der taiwanesischen Delegation in Tokio, Badminton-Weltranglistenerste
-- [Yang Yung-wei](/people/楊勇緯) – Judo-Silber in Tokio, erste olympische Judo-Medaille Taiwans
-- [Lin Yang-pei](/people/麟洋配) – Badminton-Herrendoppel-Gold in Tokio, die Geschichte von Wang Chi-lin und Lee Yang
-- [Lee Yang](/people/李洋) – persönliche Biografie des Doppelgold-Olympiasiegers, der zum ersten Sportminister wurde
-- [Lee Chih-kai](/people/李智凱) – Silber im Pauschenpferd in Tokio, die zwanzigjährige Reise des „Rollenden Jungen“
+- [Tai Tzu-ying](/de/people/tai-tzu-ying) – ebenfalls Kern der taiwanesischen Delegation in Tokio, Badminton-Weltranglistenerste
+- [Yang Yung-wei](/de/people/yang-yung-wei-judo-olympic-silver) – Judo-Silber in Tokio, erste olympische Judo-Medaille Taiwans
+- [Lin Yang-pei](/de/people/lin-yang-duo-taiwan-badminton-champions) – Badminton-Herrendoppel-Gold in Tokio, die Geschichte von Wang Chi-lin und Lee Yang
+- [Lee Yang](/de/people/lee-yang-badminton) – persönliche Biografie des Doppelgold-Olympiasiegers, der zum ersten Sportminister wurde
+- [Lee Chih-kai](/de/people/li-chih-kai) – Silber im Pauschenpferd in Tokio, die zwanzigjährige Reise des „Rollenden Jungen“
 
 ## Referenzen
 
-[^1]: [ETtoday Sports Cloud: Die sanfte „Gewichthebe-Göttin“ Kuo Hsing-chun, die damals von der Langhantel getroffen wurde und einen Krankenwagen spendete](https://sports.ettoday.net/news/2041280) – Bericht über die Verletzung (141-kg-Hantel, Zerrung des Musculus vastus lateralis zu 70-80 %) und die Rehabilitation im Nationalen Trainingszentrum, inkl. des späteren Krankenwagen-Spendenkontexts.
+[^1]: [ETtoday Sports Cloud: Die sanfte „Gewichthebe-Göttin“ Kuo Hsing-chun, die damals von der Langhantel …](https://sports.ettoday.net/news/2041280) — Details in der verlinkten Originalquelle
 
-[^2]: [Liberty Times: Bewegender als eine Medaille! Kuo Hsing-chun spendet Preisgeld für einen Krankenwagen](https://news.ltn.com.tw/news/life/breakingnews/1789961) – Bericht, dass Kuo Hsing-chun im Januar 2016 1,5 Mio. NT$ spendete und über das Krankenhaus der Heiligen Mutter in Luodong einen importierten Krankenwagen für das Hui-Min-Krankenhaus in Penghu anschaffen ließ; Anlass war die Wartezeit auf den Krankenwagen nach der Verletzung 2014.
+[^2]: [Liberty Times: Bewegender als eine Medaille! Kuo Hsing-chun spendet Preisgeld für einen Krankenwagen](https://news.ltn.com.tw/news/life/breakingnews/1789961) — Details in der verlinkten Originalquelle
 
-[^3]: [Wikipedia: Kuo Hsing-chun](https://zh.wikipedia.org/wiki/%E9%83%AD%E5%A9%9E%E6%B7%B3) – Grunddaten: Geburtsort (Krankenhaus der Heiligen Mutter, Luodong, Yilan), Geburtsumstände (Steißlage + Nabelschnurumschlingung), Amis-Blut des Malan-Stammes; mehrere Quellen kreuzgeprüft.
+[^3]: [Wikipedia: Kuo Hsing-chun](https://zh.wikipedia.org/wiki/%E9%83%AD%E5%A9%9E%E6%B7%B3) — Details in der verlinkten Originalquelle
 
-[^4]: [Wikipedia: Kuo Hsing-Chun](https://en.wikipedia.org/wiki/Kuo_Hsing-Chun) – englischer Wikipedia-Eintrag mit vollständiger Wettkampfhistorie, inkl. London 2012, Rio 2016, Weltmeisterschaften 2017-2019 und Details zu 11 Weltrekorden.
+[^4]: [Wikipedia: Kuo Hsing-Chun](https://en.wikipedia.org/wiki/Kuo_Hsing-Chun) — Details in der verlinkten Originalquelle
 
-[^5]: [CNA: Kuo Hsing-chun holt Taiwans erste Goldmedaille in Tokio – Rekorde im Reißen, Stoßen und Gesamt](https://www.cna.com.tw/news/firstnews/202107275012.aspx) – Vor-Ort-Bericht der Central News Agency über 103 kg Reißen, 133 kg Stoßen, 236 kg Gesamt (drei olympische Rekorde) und Taiwans erste Goldmedaille in Tokio.
+[^5]: [CNA: Kuo Hsing-chun holt Taiwans erste Goldmedaille in Tokio – Rekorde im Reißen, Stoßen und Gesamt](https://www.cna.com.tw/news/firstnews/202107275012.aspx) — Details in der verlinkten Originalquelle
 
-[^6]: [Global Views Monthly: Kuo Hsing-chun gewinnt Bronze in Paris – sie hob nicht nur Gewicht, sondern auch Hoffnung](https://www.gvm.com.tw/article/114897) – Bericht über Bronze 2024 in Paris mit 235 kg Gesamt, erste Taiwanderin mit Medaillen bei drei aufeinanderfolgenden Olympiaden, inkl. Einfluss der Rückenverletzung.
+[^6]: [Global Views Monthly: Kuo Hsing-chun gewinnt Bronze in Paris – sie hob nicht nur Gewicht, sondern au…](https://www.gvm.com.tw/article/114897) — Details in der verlinkten Originalquelle
 
-[^7]: [CTWant: Kuo Hsing-chuns Familie und der Amis-Stamm Malan](https://www.ctwant.com/article/132580) – Bericht, dass Kuos Urgroßmutter Lu Ching-tzu Golden Melody Award für traditionelle Amis-Gesänge gewann, sowie Hintergrund der Malan-Familie.
+[^7]: [CTWant: Kuo Hsing-chuns Familie und der Amis-Stamm Malan](https://www.ctwant.com/article/132580) — Details in der verlinkten Originalquelle
 
-[^8]: [ETtoday: Die Lehrer-Schüler-Beziehung zwischen Pu Ya-ling und Kuo Hsing-chun](https://sports.ettoday.net/news/2061234) – Bericht, wie die Trainerin Pu Ya-ling von der Sportschule Taitong Kuos Gewichthebe-Talent in der Leichtathletik entdeckte und sie vom Kugelstoßen/Diskus zum Gewichtheben führte.
+[^8]: [ETtoday: Die Lehrer-Schüler-Beziehung zwischen Pu Ya-ling und Kuo Hsing-chun](https://sports.ettoday.net/news/2061234) — Details in der verlinkten Originalquelle
 
-[^9]: [Mirror Media: Die Nationalmannschaftsjahre von Trainer Lin Ching-neng und Kuo Hsing-chun](https://www.mirrormedia.mg/story/20210728pol001/) – Bericht über die Übernahme des Techniktrainings durch Nationaltrainer Lin Ching-neng sowie die Interaktion und den Vertrauensaufbau zwischen Lehrer und Schüler.
+[^9]: [Mirror Media: Die Nationalmannschaftsjahre von Trainer Lin Ching-neng und Kuo Hsing-chun](https://www.mirrormedia.mg/story/20210728pol001/) — Details in der verlinkten Originalquelle
 
-[^10]: [CNA: Kuo Hsing-chun bricht bei der Universiade 2017 in Taipeh den Weltrekord und gewinnt Gold](https://www.cna.com.tw/news/aspt/201708210284.aspx) – Bericht über 142 kg im Stoßen (Weltrekord) und 249 kg Gesamt im heimischen Taipeh 2017.
+[^10]: [CNA: Kuo Hsing-chun bricht bei der Universiade 2017 in Taipeh den Weltrekord und gewinnt Gold](https://www.cna.com.tw/news/aspt/201708210284.aspx) — Details in der verlinkten Originalquelle
 
-[^11]: [Wikipedia: Kuos Wettkampfhistorie](https://zh.wikipedia.org/zh-tw/%E9%83%AD%E5%A9%9E%E6%B7%B3) – chinesische Wikipedia mit vollständiger Wettkampfhistorie, inkl. der drei Weltrekorde (Reißen 105, Stoßen 132, Gesamt 237) in der neu eingeführten Klasse bis 59 kg bei den Weltmeisterschaften 2018 in Aschgabat.
+[^11]: [Wikipedia: Kuos Wettkampfhistorie](https://zh.wikipedia.org/zh-tw/%E9%83%AD%E5%A9%9E%E6%B7%B3) — Details in der verlinkten Originalquelle
 
-[^12]: [CNA: Kuo Hsing-chun bricht bei den Asienmeisterschaften 2021 erneut Weltrekorde](https://www.cna.com.tw/news/aspt/202104210316.aspx) – Bericht über 110 kg Reißen und 247 kg Gesamt (zwei Weltrekorde) bei den Asienmeisterschaften im April 2021 in Taschkent und Qualifikation für Tokio.
+[^12]: [CNA: Kuo Hsing-chun bricht bei den Asienmeisterschaften 2021 erneut Weltrekorde](https://www.cna.com.tw/news/aspt/202104210316.aspx) — Details in der verlinkten Originalquelle
 
-[^13]: [CTWANT: Nach dem gescheiterten Stoßversuch mit 141 kg fiel sie zu Boden und lächelte strahlend – ausländische Medien hielten Kuos echten Charakter fest](https://www.ctwant.com/article/130930) – Bericht über den Moment des gescheiterten dritten Versuchs (141 kg) in Tokio, inkl. ihres „eleganten Abgangs“ und der Kommentare der ausländischen Medien über „von Herzen lieben und genießen“.
+[^13]: [CTWANT: Nach dem gescheiterten Stoßversuch mit 141 kg fiel sie zu Boden und lächelte strahlend – aus…](https://www.ctwant.com/article/130930) — Details in der verlinkten Originalquelle
 
-[^14]: [CommonWealth Magazine: Der Wille, „sich selbst nicht durchgehen zu lassen“ – Kuo Hsing-chun: Um stärker zu werden, weicht sie auch dem Schmerz nicht aus](https://www.cw.com.tw/article/5121070) – tiefgehendes Interview zu Trainingsphilosophie, Ursprung des Team-Spitznamens „xiao cha mou“ (verrücktes Mädchen) und dem Wettkampf mit Verletzung in Paris.
+[^14]: [CommonWealth Magazine: Der Wille, „sich selbst nicht durchgehen zu lassen“ – Kuo Hsing-chun: Um stär…](https://www.cw.com.tw/article/5121070) — Details in der verlinkten Originalquelle
 
-[^15]: [ETtoday: Chronik der gemeinnützigen Spenden von Kuo Hsing-chun](https://sports.ettoday.net/news/2897531) – Übersicht über die Spenden: 2017 Universiade-Preisgeld 1,9 Mio. NT$ an die Gemeinschaft, 2019 gemeinnütziger Kalender für die Genesis-Stiftung, 2024 Spende an die Fengrong-Grundschule in Taitung.
+[^15]: [ETtoday: Chronik der gemeinnützigen Spenden von Kuo Hsing-chun](https://sports.ettoday.net/news/2897531) — Details in der verlinkten Originalquelle
 
-[^16]: [CNA: Gewichtheber-Asienmeisterschaften – Kuo Hsing-chun kämpft sich mit Verletzung zu zwei Bronzemedaillen](https://www.cna.com.tw/news/aspt/202505110120.aspx) – Bericht über die Asienmeisterschaften im Mai 2025 in Jiangshan, VR China (95/125/220 kg, Damen bis 59 kg), Bronze im Stoßen und Gesamt, Leistung deutlich unter dem Tokio-Höhepunkt.
+[^16]: [CNA: Gewichtheber-Asienmeisterschaften – Kuo Hsing-chun kämpft sich mit Verletzung zu zwei Bronzemed…](https://www.cna.com.tw/news/aspt/202505110120.aspx) — Details in der verlinkten Originalquelle
 
-[^17]: [CNA: Kuo Hsing-chun findet sich in der neuen Gewichtsklasse zurecht – Doppel-Bronze bei der WM der Damen bis 58 kg](https://www.cna.com.tw/news/aspt/202510050009.aspx) – Bericht über die Weltmeisterschaften im Oktober 2025 in Norwegen: Rückkehr in die Damenklasse bis 58 kg (96/128/224 kg), Bronze im Stoßen und Gesamt.
+[^17]: [CNA: Kuo Hsing-chun findet sich in der neuen Gewichtsklasse zurecht – Doppel-Bronze bei der WM der D…](https://www.cna.com.tw/news/aspt/202510050009.aspx) — Details in der verlinkten Originalquelle
 
-[^18]: [Taiwan Weightlifting Association: Bekanntgabe der Athleten- und Trainerauswahl für die Asienmeisterschaften 2026](https://ctwa.org.tw/%E3%80%902026%E5%B9%B4%E4%BA%9E%E6%B4%B2%E8%88%89%E9%87%8D%E9%8C%A6%E6%A8%99%E8%B3%BD%E3%80%91%E9%81%B8%E6%89%8B%E5%8F%8A%E6%95%99%E7%B7%B4%E7%95%B6%E9%81%B8%E5%90%8D%E5%96%AE-%E5%85%AC%E5%91%8A/) – offizielle Bekanntgabe des Aufgebots für die Asienmeisterschaften 2026, Kuo Hsing-chun nicht gelistet.
+[^18]: [Taiwan Weightlifting Association: Bekanntgabe der Athleten- und Trainerauswahl für die Asienmeisters…](https://ctwa.org.tw/%E3%80%902026%E5%B9%B4%E4%BA%9E%E6%B4%B2%E8%88%89%E9%87%8D%E9%8C%A6%E6%A8%99%E8%B3%BD%E3%80%91%E9%81%B8%E6%89%8B%E5%8F%8A%E6%95%99%E7%B7%B4%E7%95%B6%E9%81%B8%E5%90%8D%E5%96%AE-%E5%85%AC%E5%91%8A/) — Details in der verlinkten Originalquelle
 
-[^19]: [CNA: Kuo Hsing-chun erhält 10 Mio. NT$ Preisgeld der Hong-Dao-Stiftung – Blick auf die Asienspiele, zuerst die Qualifikation](https://www.cna.com.tw/news/aspt/202604130248.aspx) – Bericht über die 10-Mio.-NT$-Goldprämie der Hong-Dao-Stiftung im April 2026 sowie Kuos Vorbereitung auf die Asienspiele in Nagoya (neue Gewichtsklasse 57 oder 61 kg) und Überlegungen zum Rücktrittszeitpunkt.
+[^19]: [CNA: Kuo Hsing-chun erhält 10 Mio. NT$ Preisgeld der Hong-Dao-Stiftung – Blick auf die Asienspiele, …](https://www.cna.com.tw/news/aspt/202604130248.aspx) — Details in der verlinkten Originalquelle

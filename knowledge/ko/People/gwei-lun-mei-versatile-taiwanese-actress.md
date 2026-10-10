@@ -3,12 +3,12 @@ title: '구이 룬메이: 조용하고 단단한 연기파 배우'
 description: '《말할 수 없는 비밀》에서 국제 영화제의 단골 손님으로, 저조한 방식으로 실력을 쌓아온 대만 여배우'
 date: 2026-03-19
 tags: ['구이 룬메이', '배우', '말할 수 없는 비밀', '국제 영화제', '연기파']
-subcategory: '영화와 드라마'
+subcategory: '電影與戲劇'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 10
 translatedFrom: 'People/桂綸鎂.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:266bd954eeb032d3'
 sourceBodyHash: 'sha256:c06a0cb5b90069e3'
 translatedAt: '2026-05-17T06:30:00Z'

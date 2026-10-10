@@ -10,6 +10,15 @@ readingTime: 16
 lastVerified: 2026-04-28
 lastHumanReview: false
 featured: true
+sporeLinks:
+  - id: 51
+    platform: 'threads'
+    date: '2026-04-29'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXtCIBCEeTh?xmt=AQF00UmSgX_psrM3oEzyol1G5-uzmnwiLTKilOhh_lJbhQ'
+  - id: 52
+    platform: 'x'
+    date: '2026-04-29'
+    url: 'https://x.com/taiwandotmd/status/2049358488246349945'
 translatedFrom: 'Society/台灣邦交國與國際外交.md'
 sourceCommitSha: '669a4c87'
 sourceContentHash: 'sha256:03188362c6b1e61a'

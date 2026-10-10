@@ -4,7 +4,7 @@ description: "Vào tháng 11 năm 2011, Trịnh Văn Kỳ (Zheng Wenqi) tại m�
 date: 2026-05-17
 author: 'Taiwan.md'
 category: 'Art'
-subcategory: 'Nghệ thuật / Nghiên cứu truyền thông'
+subcategory: '藝評平台 / 媒體研究'
 tags:
   [
     'Hoang mạc kỹ thuật số',
@@ -168,10 +168,10 @@ _Số ra mắt tháng 9 năm 2017, Hoang mạc kỹ thuật số Issue 34 "Diễ
 
 ## Đọc thêm
 
-- [Trịnh Văn Kỳ (Zheng Wenqi)](/people/鄭文琦) — 12 năm thực hành Quần đảo của biên tập viên chính Hoang mạc kỹ thuật số: Từ tác giả đặc biệt "典藏" đến người khởi xướng "Tủ dữ liệu Quần đảo"
-- [Nghệ thuật đương đại](/art/當代藝術) — Bản đồ lý luận nghệ thuật đương đại Đài Loan, vị trí của Hoang mạc kỹ thuật số như nền tảng curate góc nhìn phương Nam
-- [Nghệ thuật truyền thông mới Đài Loan](/art/台灣新媒體藝術) — Hệ thống nghệ thuật truyền thông mới Đài Loan từ Địa thực nghiệm (1995) đến Quỹ Nghệ thuật Kỹ thuật số (2008)
-- [Vương Phúc Thụy (Wang Fui-je)](/people/王福瑞) — Sáng lập tạp chí NOISE năm 1993, biên tập viên nguyên mẫu tạp chí giấy âm nhạc thử nghiệm Đài Loan, thông mạch với tổ chức mẹ hosting Hoang mạc kỹ thuật số
+- [Trịnh Văn Kỳ (Zheng Wenqi)](/vi/people/cheng-wen-chi) — 12 năm thực hành Quần đảo của biên tập viên chính Hoang mạc kỹ thuật số: Từ tác giả đặc biệt "典藏" đến người khởi xướng "Tủ dữ liệu Quần đảo"
+- [Nghệ thuật đương đại](/vi/art/contemporary-art) — Bản đồ lý luận nghệ thuật đương đại Đài Loan, vị trí của Hoang mạc kỹ thuật số như nền tảng curate góc nhìn phương Nam
+- [Nghệ thuật truyền thông mới Đài Loan](/vi/art/taiwan-new-media-art) — Hệ thống nghệ thuật truyền thông mới Đài Loan từ Địa thực nghiệm (1995) đến Quỹ Nghệ thuật Kỹ thuật số (2008)
+- [Vương Phúc Thụy (Wang Fui-je)](/vi/people/fujui-wang) — Sáng lập tạp chí NOISE năm 1993, biên tập viên nguyên mẫu tạp chí giấy âm nhạc thử nghiệm Đài Loan, thông mạch với tổ chức mẹ hosting Hoang mạc kỹ thuật số
 - [Curate Đài Loan và xây dựng văn hóa nghệ thuật](/vi/art/taiwanese-curators-and-artistic-cultural-construction) — Hệ thống curate Đài Loan, Trịnh Văn Kỳ (Zheng Wenqi) như trường hợp "mạng curate驻站 xuyên quốc gia"
 
 ## Nguồn hình ảnh
@@ -202,7 +202,7 @@ Bài viết sử dụng 3 ảnh bìa NML issue được trích dẫn trong phạ
 
 [^9]: [Dự án驻站 và Tủ dữ liệu Quần đảo của 《Hoang mạc kỹ thuật số》 (Năm thứ nhất) | Kho lưu trữ kết quả trợ cấp NCAFROC](https://archive.ncafroc.org.tw/result?id=22442668184a47bcac13fa7426b48765) — Hồ sơ NCAFROC: số tiền trợ cấp 350.000 NTD / kỳ năm 2017 thường kỳ kỳ 1 / loại trợ cấp Môi trường và phát triển nghệ thuật (Dự án ứng dụng thư viện trí tuệ nghệ thuật) / người nộp đơn Quỹ Nghệ thuật Kỹ thuật số (DAF). Trích kết quả thực hiện "Lấy nghệ thuật驻站, diễn giải văn hóa, sản xuất chung làm ba phương châm công tác chính... Trọng điểm năm thứ nhất là giai đoạn xây dựng cơ sở dữ liệu song ngữ... Hiện đã累计 phát hành 5 cuốn, bao gồm Ngô Kỳ Dục (Wu Chi-Yu), Zikri Rahman, Khu Tú Y (Hsu Shih-yi), Phù Phương Tuấn (Fu Fang-chun), KUNCI Trung tâm nghiên cứu văn hóa".
 
-[^10]: [Dự án驻站 và Tủ dữ liệu Quần đảo của 《Hoang mạc kỹ thuật số》 (Năm thứ hai) | Kho lưu trữ kết quả trợ cấp NCAFROC](https://archive.ncafroc.org.tw/result?id=ad5a8cffc1e0471a12ccfaf0756cc52) — Hồ sơ NCAFROC: số tiền trợ cấp 400.000 NTD / kỳ năm 2018 thường kỳ kỳ 2 / loại trợ cấp Môi trường và phát triển nghệ thuật (Nền tảng dịch vụ chuyên nghiệp) / người nộp đơn Quỹ Nghệ thuật Kỹ thuật số (DAF). Trích kết quả thực hiện "Từ năm 2017 đến nay累计 bao gồm viết lách, dịch thuật của nghệ sĩ Quần đảo Mã Lai, phát hành 10 cuốn 《Tủ dữ liệu Quần đảo》 và收录 hơn 40 tài liệu song ngữ Anh-Việt".
+[^10]: [Dự án驻站 và Tủ dữ liệu Quần đảo của 《Hoang mạc kỹ thuật số》 (Năm thứ hai) | Kho lưu trữ kết quả trợ cấp NCAFROC](https://archive.ncafroc.org.tw/result?id=ad5a8cffc1e04a71a12ccfaf0756cc52) — Hồ sơ NCAFROC: số tiền trợ cấp 400.000 NTD / kỳ năm 2018 thường kỳ kỳ 2 / loại trợ cấp Môi trường và phát triển nghệ thuật (Nền tảng dịch vụ chuyên nghiệp) / người nộp đơn Quỹ Nghệ thuật Kỹ thuật số (DAF). Trích kết quả thực hiện "Từ năm 2017 đến nay累计 bao gồm viết lách, dịch thuật của nghệ sĩ Quần đảo Mã Lai, phát hành 10 cuốn 《Tủ dữ liệu Quần đảo》 và收录 hơn 40 tài liệu song ngữ Anh-Việt".
 
 [^11]: [Phân bố trường biên tập viên 384 bài viết Hoang mạc kỹ thuật số No Man's Land](https://www.heath.tw) — Thống kê từ ingestion 2026-05-04 của Taiwan.md `data/NML/raw/articles-meta.json`: Top biên tập viên là Trịnh Văn Kỳ (Zheng Wenqi) 310 bài (88%), Cao Sâm Tín Nam (Takamori Nobuo) 10, Hứa Phương Từ (Hsu Fang-tzu) 7, Từ Thi Vũ (Hsu Shih-yu) 5, Ngô Đình Khoan (Wu Ting-kuan) 4, Vương Quán Đình 4, Ngô Kỳ Dục (Wu Chi-Yu) 4, Khu Tú Y (Hsu Shih-yi) 4, Tạ Chấn Dật 2. 31 bài viết sớm không có trường biên tập viên. Top tác giả: Trịnh Văn Kỳ (Zheng Wenqi) 44 / Vương Bá Vĩ (Wang Po-wei) 19 / Cao Sâm Tín Nam (Takamori Nobuo) 10 / Ấn Ca 9 / Thái Trường Hoàng (Cai Changhuang) 9 / Giang Lăng Thanh 9.
 

@@ -3,7 +3,7 @@ title: '하카 문화와 언어'
 description: '1988년 한 무리의 사람들이 쑨원의 사진에 마스크를 씌워 행진했다. 모국어로 말할 권리를 되찾기 위해서였다. 그들은 이겼지만, 언어는 여전히 사라지고 있다'
 date: 2026-03-24
 tags: ['하카', '언어', '문화', '경목 정신', '육대', '모국어 되찾기 운동']
-subcategory: '민족 문화'
+subcategory: '族群文化'
 category: 'Culture'
 author: 'Taiwan.md'
 featured: false

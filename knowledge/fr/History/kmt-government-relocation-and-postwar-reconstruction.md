@@ -13,7 +13,7 @@ tags:
     'Yan Chia-kan',
     'Période de loi martiale',
   ]
-subcategory: 'Après-guerre et autoritarisme'
+subcategory: '戰後與威權'
 category: 'History'
 author: 'Taiwan.md'
 readingTime: 18

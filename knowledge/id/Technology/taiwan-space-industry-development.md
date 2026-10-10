@@ -157,7 +157,7 @@ Taiwan adalah negara pembuat satelit, tetapi belum memiliki roket sendiri. Namun
 
 **Bacaan Lanjutan**:
 
-- [Pusat Antariksa Nasional](/technology/國家太空中心) — Artikel ini membahas rantai pasokan, sementara artikel itu membahas institusi di baliknya: bagaimana Pusat Antariksa Nasional berkembang dari "kantor persiapan" menjadi badan administratif TASA, menyusun nama, badan hukum, lahan, dan roket satu per satu.
+- [Pusat Antariksa Nasional](/id/technology/tasa-taiwan-space-agency) — Artikel ini membahas rantai pasokan, sementara artikel itu membahas institusi di baliknya: bagaimana Pusat Antariksa Nasional berkembang dari "kantor persiapan" menjadi badan administratif TASA, menyusun nama, badan hukum, lahan, dan roket satu per satu.
 - [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Dasar hulu industri antariksa; chip satelit berasal dari rantai pasokan yang sama.
 - [Ekosistem Rintisan](/id/economy/taiwan-startup-ecosystem-overview) — Bagaimana rintisan swasta terhubung dengan rencana nasional.
 - [Pembangunan Jaringan 5G dan Transformasi Digital Taiwan](/id/technology/taiwan-5g-digital-transformation) — Saling melengkapi ketahanan komunikasi satelit dan 5G darat.

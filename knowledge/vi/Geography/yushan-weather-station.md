@@ -137,8 +137,8 @@ Từ ngôi nhà gỗ thời Nhật Bản đến trạm quan trắc hiện đại
 
 ## Đọc thêm
 
-- [Ngọc Sơn: Từ "Núi cao mới" đến đỉnh linh hồn của Đài Loan](/geography/玉山) — Đối thoại sâu sắc về hệ sinh thái tự nhiên, lịch sử núi thiêng của người bản địa và đạo đức leo núi đương đại của quần thể ngọn núi Ngọc Sơn.
-- [Tài nguyên trang web chính thức Đài Loan](/about/台灣官方網站資源) — Tìm hiểu các nguồn dữ liệu công khai của các cơ quan chính phủ Đài Loan cũng như mạng lưới quan trắc khí tượng và địa lý.
+- [Ngọc Sơn: Từ "Núi cao mới" đến đỉnh linh hồn của Đài Loan](/vi/geography/yushan-jade-mountain) — Đối thoại sâu sắc về hệ sinh thái tự nhiên, lịch sử núi thiêng của người bản địa và đạo đức leo núi đương đại của quần thể ngọn núi Ngọc Sơn.
+- [Tài nguyên trang web chính thức Đài Loan](/vi/about/taiwan-official-resources) — Tìm hiểu các nguồn dữ liệu công khai của các cơ quan chính phủ Đài Loan cũng như mạng lưới quan trắc khí tượng và địa lý.
 
 ---
 

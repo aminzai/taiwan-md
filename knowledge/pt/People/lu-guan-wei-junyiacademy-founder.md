@@ -248,10 +248,10 @@ Este artigo usa 3 imagens com licença aberta e 3 vídeos oficiais da Junyi. Ima
 
 ## Leitura complementar
 
-- [Yeh Ping-cheng](/people/葉丙成): PaGamO transforma lição de casa em jogo, outra trilha de inovação educacional gamificada
-- [Huang Kuo-chen](/people/黃國珍): Pin Academy e "Compreensão de Leitura", transformar "saber ler" numa arte
-- [Liu An-ting](/people/劉安婷): Teach for Taiwan (TFT), enviar jovens para salas de aula remotas por dois anos
-- [Yen Chang-shou](/people/嚴長壽): De pai do turismo a educador em áreas remotas, o nome da Junyi foi emprestado dele
+- [Yeh Ping-cheng](/pt/people/yeh-ping-cheng-education-innovator): PaGamO transforma lição de casa em jogo, outra trilha de inovação educacional gamificada
+- [Huang Kuo-chen](/pt/people/huang-kuo-chen): Pin Academy e "Compreensão de Leitura", transformar "saber ler" numa arte
+- [Liu An-ting](/pt/people/liu-an-ting-teach-for-taiwan): Teach for Taiwan (TFT), enviar jovens para salas de aula remotas por dois anos
+- [Yen Chang-shou](/pt/people/stanley-yen): De pai do turismo a educador em áreas remotas, o nome da Junyi foi emprestado dele
 
 ## Referências
 

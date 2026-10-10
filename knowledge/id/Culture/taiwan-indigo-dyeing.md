@@ -16,7 +16,7 @@ tags:
     'Chen Jinglin',
     'Cheng Meishu',
   ]
-subcategory: 'Kerajinan dan Estetika'
+subcategory: '工藝與美學'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-07-05
@@ -29,6 +29,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:2020._08.24_%E7%B8%BD%E7%B
 translatedFrom: 'Culture/藍染.md'
 sourceCommitSha: 'a43cf9153'
 sourceContentHash: 'sha256:b1932b90a96124c5'
+sourceBodyHash: 'sha256:e04eb558f9b5295b'
 translatedAt: '2026-09-17T14:07:18.750981+00:00'
 ---
 
@@ -177,7 +178,7 @@ Warna di dalam bak telah hidup kembali. Adapun bentuk akhir warna ini, Sanxia, Z
 
 ## Bacaan Lanjutan
 
-- [Kerajinan Tradisional Taiwan dan Warisan Budaya Takbenda](/culture/台灣傳統工藝與無形文化資產) — Posisi kebangkitan pewarnaan biru Sanxia dalam sistem pelestarian kerajinan di Taiwan, serta konteks yang lebih luas dari "inisiatif masyarakat sebelum pengakuan institusional"
+- [Kerajinan Tradisional Taiwan dan Warisan Budaya Takbenda](/id/culture/traditional-crafts-intangible-cultural-heritage) — Posisi kebangkitan pewarnaan biru Sanxia dalam sistem pelestarian kerajinan di Taiwan, serta konteks yang lebih luas dari "inisiatif masyarakat sebelum pengakuan institusional"
 - [Jalan Tua Sanxia](/id/history/sanxia-old-street) — Sejarah konservasi arsitektur Jalan Tua Sanxia; artikel ini membahas kerajinan itu sendiri, sementara artikel tersebut membahas jalan dan situs bersejarah.
 - [Budaya dan Bahasa Hakka](/id/culture/hakka-culture-and-language) — Konteks budaya kelompok yang lebih lengkap di balik baju biru Hakka dan _daqinshan_.
 - [Kain Bunga Taiwan](/id/culture/taiwan-floral-fabric) — Motif tenun lain yang pernah dianggap sebagai simbol Hakka, namun kemudian ditemukan memiliki asal-usul yang lebih kompleks.

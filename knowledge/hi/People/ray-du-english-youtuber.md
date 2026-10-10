@@ -4,7 +4,7 @@ description: '2020 में, यूट्यूबर अह ड्रॉप �
 date: 2026-04-20
 author: 'Taiwan.md'
 category: 'People'
-subcategory: 'डिजिटल और मीडिया'
+subcategory: '數位與媒體'
 tags:
   [
     'यूट्यूबर',

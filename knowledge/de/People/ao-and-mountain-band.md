@@ -156,11 +156,11 @@ Das ist Au und Shan.
 
 ## Weiterführende Lektüre
 
-- [Taiwan Indie Music](/music/台灣獨立音樂) — Der historische Kontext der taiwanesischen Indie-Szene und des Folktronica-Genres in den 2010er und 2020er Jahren
-- [Taiwan Pop Music](/music/台灣流行音樂) — Die Struktur der chinesischsprachigen Popmusikindustrie und die Positionierung von Indie-Bands darin
-- [Cicada](/people/Cicada) — Ein Indie-Ensemble, das ebenfalls den Weg des Instrumentalen / Mainstream-Abseits geht, im Kontrast zu zwei „nicht-Idol“-Schöpfungsstrategien
-- [Wei Ru-chuan](/people/魏如萱) — Ein anderer Weg für weibliche Schöpferinnen, der zwischen Mainstream und Indie liegt
-- [Hello Nico](/people/Hello-Nico) — Ebenfalls eine taiwanesische weibliche Stimme aus den 2010er Jahren, deren Dream-Pop-Stimme Unterdrückung umhüllt; „Die größte Schwierigkeit beim Musizieren ist der Kampf mit sich selbst“
+- [Taiwan Indie Music](/de/music/indie-music-scene) — Der historische Kontext der taiwanesischen Indie-Szene und des Folktronica-Genres in den 2010er und 2020er Jahren
+- [Taiwan Pop Music](/de/music/golden-melodies-legacy-taiwan-pop-music) — Die Struktur der chinesischsprachigen Popmusikindustrie und die Positionierung von Indie-Bands darin
+- [Cicada](/de/people/cicada-band) — Ein Indie-Ensemble, das ebenfalls den Weg des Instrumentalen / Mainstream-Abseits geht, im Kontrast zu zwei „nicht-Idol“-Schöpfungsstrategien
+- [Wei Ru-chuan](/de/people/waa-wei-singer) — Ein anderer Weg für weibliche Schöpferinnen, der zwischen Mainstream und Indie liegt
+- [Hello Nico](/de/people/hello-nico-band) — Ebenfalls eine taiwanesische weibliche Stimme aus den 2010er Jahren, deren Dream-Pop-Stimme Unterdrückung umhüllt; „Die größte Schwierigkeit beim Musizieren ist der Kampf mit sich selbst“
 
 ## Quellenverzeichnis
 

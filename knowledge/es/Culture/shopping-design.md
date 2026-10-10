@@ -18,7 +18,7 @@ tags:
   - 'medios de estilo de vida'
   - 'Business Next Media'
   - 'alfabetización mediática'
-subcategory: 'Diseño y medios'
+subcategory: '設計與媒體'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-07-13

@@ -206,10 +206,10 @@ Bagaimana versi berikutnya akan terbentuk? Apakah sengketa Tiongkok-Taiwan memer
 
 ## Bacaan Lanjutan
 
-- [Resolusi Masa Depan Taiwan](/history/resolution-on-taiwans-future/) — Jangkar akademis penentu wacana Nasionalisme Tionghoa pada tahun 1999, titik awal dua kata "saat ini" oleh Lin Zhuo-shui.
-- [Tsai Ing-wen](/people/蔡英文) — Pengusul konsep kerja "Republik Tiongkok Taiwan," representasi sub-spektrum Nasionalisme Tionghoa ROC Taiwan.
-- [Lai Ching-te](/people/賴清德) — Pelaksana wacana Nasionalisme Tionghoa "saling tidak tunduk" kontemporer, tokoh utama di balik pernyataan tiga nama pada 20 Mei.
-- [Pemilihan dan Politik Partai Taiwan](/history/台灣選舉與政黨政治) — Konteks yang lebih besar tentang bagaimana spektrum Tiongkok-Taiwan membentuk kembali garis biru-hijau seiring pemilu.
-- [Transisi Demokratis Taiwan](/history/台灣民主轉型) — Latar belakang sejarah kelahiran spektrum Tiongkok-Taiwan: dari kediktatoran satu partai ke pemilihan kompetitif.
-- [Krisis Selat Taiwan dan Perkembangan Hubungan Lintas Selat](/history/台海危機與兩岸關係發展) — Trajektori jangka panjang tekanan berkelanjutan dari kekuatan eksternal pada spektrum Tiongkok-Taiwan.
-- [Negara yang Tak Terlihat](/art/看不見的國家) — Konteks di mana Tsai Ing-wen mengatakan "Taiwan memang negara merdeka" dalam film dokumenter ini.
+- [Resolusi Masa Depan Taiwan](/id/history/resolution-on-taiwans-future/) — Jangkar akademis penentu wacana Nasionalisme Tionghoa pada tahun 1999, titik awal dua kata "saat ini" oleh Lin Zhuo-shui.
+- [Tsai Ing-wen](/id/people/tsai-ing-wen) — Pengusul konsep kerja "Republik Tiongkok Taiwan," representasi sub-spektrum Nasionalisme Tionghoa ROC Taiwan.
+- [Lai Ching-te](/id/people/lai-ching-te) — Pelaksana wacana Nasionalisme Tionghoa "saling tidak tunduk" kontemporer, tokoh utama di balik pernyataan tiga nama pada 20 Mei.
+- [Pemilihan dan Politik Partai Taiwan](/id/history/taiwan-elections-and-party-politics) — Konteks yang lebih besar tentang bagaimana spektrum Tiongkok-Taiwan membentuk kembali garis biru-hijau seiring pemilu.
+- [Transisi Demokratis Taiwan](/id/history/taiwan-democratization) — Latar belakang sejarah kelahiran spektrum Tiongkok-Taiwan: dari kediktatoran satu partai ke pemilihan kompetitif.
+- [Krisis Selat Taiwan dan Perkembangan Hubungan Lintas Selat](/id/history/taiwan-strait-crises-and-cross-strait-relations) — Trajektori jangka panjang tekanan berkelanjutan dari kekuatan eksternal pada spektrum Tiongkok-Taiwan.
+- [Negara yang Tak Terlihat](/id/art/invisible-nation) — Konteks di mana Tsai Ing-wen mengatakan "Taiwan memang negara merdeka" dalam film dokumenter ini.

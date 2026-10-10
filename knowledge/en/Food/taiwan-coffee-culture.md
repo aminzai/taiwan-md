@@ -12,7 +12,7 @@ tags:
     'third place',
   ]
 category: 'Food'
-subcategory: 'Beverage Culture'
+subcategory: '飲品文化'
 author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false

@@ -141,7 +141,7 @@ La deuda no ha sido saldada.
 - [Historia de la explotación forestal en Taiwân](/es/history/taiwan-forestry-history) — Desde el alcanfor hasta el ciprés de Formosa: el contexto completo de la explotación de los bosques de la isla.
 - [Alishan: El bosque del imperio y la montaña de los estudiantes](/es/history/alishan-empire-forest-and-uongu-yatauyungana) — Cómo la explotación forestal se extendió a Alishan durante el periodo japonés y al Terror Blanco de la posguerra.
 - [Museo Nacional de Historia de Taiwán](/es/society/national-museum-of-taiwan-history) — Institución nacional que custodia fuentes primarias como el informe de Swinton de 1864 (el sistema UUID de la red NMTH libera datos bajo la Licencia de Datos Abiertos del Gobierno versión 1.0).
-- [Árboles de alineación en Taiwán](/lifestyle/台灣行道樹)— El mismo árbol de alcanfor, que en las montañas fue una materia prima disputada globalmente, en las calles solo sirve para dar sombra: es el que bordea el túnel verde de Jiji, en Nantou.
+- [Árboles de alineación en Taiwán](/es/lifestyle/taiwan-street-trees)— El mismo árbol de alcanfor, que en las montañas fue una materia prima disputada globalmente, en las calles solo sirve para dar sombra: es el que bordea el túnel verde de Jiji, en Nantou.
 
 ---
 

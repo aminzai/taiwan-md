@@ -4,7 +4,7 @@ description: 'किंगत्साओ चा कोई निश्चित
 date: 2026-08-25
 category: 'Food'
 tags: ['किंगत्साओ चा', 'लोक ज्ञान', 'वानहुआ']
-subcategory: 'शिल्प और सौंदर्यशास्त्र'
+subcategory: '工藝與美學'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-25
@@ -14,6 +14,7 @@ curation: 'incubating'
 translatedFrom: 'Food/青草茶.md'
 sourceCommitSha: 'bfdca09d9'
 sourceContentHash: 'sha256:c3e32849fa506f33'
+sourceBodyHash: 'sha256:ff4f41549ee43a1c'
 translatedAt: '2026-09-10T10:35:50.876501+00:00'
 ---
 

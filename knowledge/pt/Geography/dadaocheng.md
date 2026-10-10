@@ -217,7 +217,7 @@ Da próxima vez que você caminhar na Dihua Street, erga a cabeça para os relev
 - [Incidente 228](/pt/history/228-incident) — o incidente aceso por aquele maço de cigarros em 1947, repressão posterior e justiça transicional
 - [Movimentos sociais em Taiwan sob domínio japonês](/pt/history/social-movements-during-japanese-rule) — Chiang Wei-shui e a Associação Cultural no Taipingcho 199
 - [Canções folclóricas e populares de Taiwan](/pt/music/taiwan-folk-music-and-songs) — "Wang Chun Feng" de 1932 e a Columbia Records de Taipingcho
-- [Monga](/geography/艋舺) — refugiados de Tong'an derrotados no conflito Top-Bottom de 1853 fugiram de Monga Bajia庄 para Dadaocheng — duas ruas são resultado da divisão da mesma briga
+- [Monga](/pt/geography/bangka) — refugiados de Tong'an derrotados no conflito Top-Bottom de 1853 fugiram de Monga Bajia庄 para Dadaocheng — duas ruas são resultado da divisão da mesma briga
 - [Ximending](/pt/geography/ximending) — sibling do mesmo lote 1 de bairros históricos, 1896 distrito de entretenimento japonês vs Dadaocheng rua comercial Qing, dois "momentos de formação de rua" contrastantes
 - [Dalongdong](/pt/geography/dalongdong) — refugiados de Tong'an derrotados no Top-Bottom de 1853 recuaram primeiro para Dalongdong com o Templo Baoan como centro de defesa, depois migraram para Dadaocheng — a estação intermediária que a narrativa padrão de Dadaocheng omite
 - [Shilin](/pt/geography/shilin) — o conflito Zhang-Quan de 1859 e o Top-Bottom de Monga de 1853 são duas brigas diferentes; Shilin é o outro resultado de divisão onde gente de Zhangzhou foi queimada por gente de Quanzhou e reconstruiu

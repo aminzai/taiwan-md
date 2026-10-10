@@ -97,6 +97,6 @@ En 2018, Huang Guangxiong escribió un obituario para Chen Bozhang, fallecido di
 
 [^9]: [Sala de Libros Guangxiong (Instituto de Investigación en Educación, Universidad Nacional Chung Cheng)](https://deptedu.ccu.edu.tw/p/405-1231-68628,c3763.php?Lang=zh-tw) — Conserva datos biográficos, cuadernos de investigación, manuscritos y la colección de libros sobre historia y filosofía de la educación occidental de Huang Guangxiong
 
-[^10]: [Huang Guangxiong, Zhou Shuqing (1992). Análisis del currículo nacional británico. Revista de Investigación Educativa, 34, 181-201](<https://doi.org/10.6910/BER.199206_(34).0007>) — Resultado de su investigación en el Reino Unido, análisis del currículo nacional de la Ley de Reforma Educativa británica de 1988
+[^10]: [Huang Guangxiong, Zhou Shuqing (1992). Análisis del currículo nacional británico. Revista de Investigación Educativa, 34, 181-201](https://doi.org/10.6910/BER.199206_(34) — Resultado de su investigación en el Reino Unido, análisis del currículo nacional de la Ley de Reforma Educativa británica de 1988
 
 [^11]: [Materiales catalogados en la categoría educativa del Buró de Cultura de Hsinchu](https://hccg.culture.tw/home/zh-tw/CCHM_edu/160695) — Incluye antecedentes de la investigación de Huang Guangxiong en el Reino Unido, introducción del concepto de currículo oculto y contexto de su investigación en historia del pensamiento educativo occidental

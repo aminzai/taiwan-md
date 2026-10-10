@@ -111,12 +111,12 @@ Họ muốn chỉ có ít nhất một thế hệ còn có cơ hội nói tiến
 
 **Đọc thêm**:
 
-- [Màu đỏ](/culture/藍染) — Màu đỏ Hakka và nghệ thuật sơn xuất nhà Bến Nông, cùng phản biện về "màu đỏ có phải là quyền quyền của người Hakka không"
-- [Âm nhạc Hakka Đài Loan](/music/台灣客家音樂) — Từ ca núi đến rock, tiếng Hakka nhưng âm nhạc như thế nào trở thành tuyến đường phục hồi nhóm dân tộc
-- [Văn hóa ẩm thực Hakka](/food/客家飲食文化) — Vị mặn nhớ hương vị đằng sau lịch sử lao động và địa lý
-- [Đa dạng ngôn ngữ và văn hóa ngôn ngữ mẫu](/culture/語言多樣性與母語文化) — Bản đồ toàn cảnh môi trường đa ngôn ngữ Đài Loan và hoàn cảnh ngôn ngữ mẫu của các nhóm dân tộc
-- [Nhóm dân tộc (Hakka, người gốc Nam Tài, người Mã, người mới đến từ nước ngoài)](/culture/族群（閩南客家原住民外省新住民）) — Tương tác và chính trị dân tộc của năm nhóm dân tộc chính
-- [Chuyển đổi dân chủ Đài Loan](/history/台灣民主轉型) — Bối cảnh chuyển đổi dân chủ của chiến dịch Hồi ngôn ngữ mẫu
+- [Màu đỏ](/vi/culture/taiwan-indigo-dyeing) — Màu đỏ Hakka và nghệ thuật sơn xuất nhà Bến Nông, cùng phản biện về "màu đỏ có phải là quyền quyền của người Hakka không"
+- [Âm nhạc Hakka Đài Loan](/vi/music/taiwan-hakka-music-from-mountain-songs-to-rock) — Từ ca núi đến rock, tiếng Hakka nhưng âm nhạc như thế nào trở thành tuyến đường phục hồi nhóm dân tộc
+- [Văn hóa ẩm thực Hakka](/vi/food/hakka-food-culture) — Vị mặn nhớ hương vị đằng sau lịch sử lao động và địa lý
+- [Đa dạng ngôn ngữ và văn hóa ngôn ngữ mẫu](/vi/culture/linguistic-diversity-and-mother-tongue-culture) — Bản đồ toàn cảnh môi trường đa ngôn ngữ Đài Loan và hoàn cảnh ngôn ngữ mẫu của các nhóm dân tộc
+- [Nhóm dân tộc (Hakka, người gốc Nam Tài, người Mã, người mới đến từ nước ngoài)](/vi/culture/ethnic-groups) — Tương tác và chính trị dân tộc của năm nhóm dân tộc chính
+- [Chuyển đổi dân chủ Đài Loan](/vi/history/taiwan-democratization) — Bối cảnh chuyển đổi dân chủ của chiến dịch Hồi ngôn ngữ mẫu
 
 ## Tài liệu tham khảo
 
@@ -132,9 +132,9 @@ Họ muốn chỉ có ít nhất một thế hệ còn có cơ hội nói tiến
 
 [^6]: [Wikipedia: Tiếng Hakka Đài Loan](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E5%AE%A2%E5%AE%B6%E8%AA%9E) — Bao gồm tỷ lệ phân bố bốn vị trí tiếng Hakka, sự khác biệt hệ thống âm điệu, đặc điểm ngữ điệu so sánh, và đánh giá trạng thái gần như tàn phai của các vị trí.
 
-[^7]: [Quỹ truyền thông công cộng Hakka: Báo cáo khảo sát toàn quốc về dân số và ngôn ngữ Hakka — chênh lệch 5 năm](https://www.hpcf.tw/2022/03/31/%E3%80%90%E5%AE%A2%E5%AE%B6%E8%AA%BF%E6%9F%A5%E7%B3%BB%E5%88%971%E3%80%91%E7%9D%BD%E9%81%955%E5%B9%B4%E3%80%8C%E5%85%A8%E5%9C%8B%E5%AE%A2%E5%AE%B6%E4%BA%BA%E5%8F%A7%E8%AA%9E%E8%A8%80%E8%AA%BF%E6%9F%A5/) — Phân tích đầy đủ dữ liệu khảo sát năm 2021 (năm 110), bao gồm dân số người Hakka 4,669 nghìn (19,8%), khả năng nghe tiếng Hakka giảm từ 64,3% xuống còn 56,4%, khả năng nói giảm từ 46,8% xuống còn 38,3%, và so sánh sự khác biệt giữa khu vực được xác định và không phải.
+[^7]: [Quỹ truyền thông công cộng Hakka: Báo cáo khảo sát toàn quốc về dân số và ngôn ngữ Hakka — chênh lệch 5 năm](https://www.hpcf.tw/2022/03/31/%E3%80%90%E5%AE%A2%E5%AE%B6%E8%AA%BF%E6%9F%A5%E7%B3%BB%E5%88%971%E3%80%91%E7%9D%BD%E9%81%955%E5%B9%B4%E3%80%8C%E5%85%A8%E5%9C%8B%E5%AE%A2%E5%AE%B6%E4%BA%BA%E5%8F%A3%E8%AA%9E%E8%A8%80%E8%AA%BF%E6%9F%A5/) — Phân tích đầy đủ dữ liệu khảo sát năm 2021 (năm 110), bao gồm dân số người Hakka 4,669 nghìn (19,8%), khả năng nghe tiếng Hakka giảm từ 64,3% xuống còn 56,4%, khả năng nói giảm từ 46,8% xuống còn 38,3%, và so sánh sự khác biệt giữa khu vực được xác định và không phải.
 
-[^8]: [Quỹ truyền thông công cộng Hakka: Khảo sát toàn quốc về dân số và ngôn ngữ Hakka (dữ liệu thanh thiếu niên)](https://www.hpcf.tw/2022/03/31/%E3%80%90%E5%AE%A2%E5%AE%B6%E8%AA%BF%E6%9F%A5%E7%B3%BB%E5%88%971%E3%80%91%E7%9D%BD%E9%81%955%E5%B9%B4%E3%80%8C%E5%85%A8%E5%9C%8B%E5%AE%A2%E5%AE%B6%E4%BA%BA%E5%8F%A7%E8%AA%9E%E8%A8%80%E8%AA%BF%E6%9F%A5/) — Cùng một khảo sát năm 2021, dữ liệu chi tiết về thanh thiếu niên: khả năng nghe tiếng Hakka của thanh thiếu niên tăng từ 12,3% lên 18,6%, là tín hiệu tích cực đầu tiên trong thế hệ trẻ sau hai mươi năm triển khai giảng dạy ngôn ngữ mẫu.
+[^8]: [Quỹ truyền thông công cộng Hakka: Khảo sát toàn quốc về dân số và ngôn ngữ Hakka (dữ liệu thanh thiếu niên)](https://www.hpcf.tw/2022/03/31/%E3%80%90%E5%AE%A2%E5%AE%B6%E8%AA%BF%E6%9F%A5%E7%B3%BB%E5%88%971%E3%80%91%E7%9D%BD%E9%81%955%E5%B9%B4%E3%80%8C%E5%85%A8%E5%9C%8B%E5%AE%A2%E5%AE%B6%E4%BA%BA%E5%8F%A3%E8%AA%9E%E8%A8%80%E8%AA%BF%E6%9F%A5/) — Cùng một khảo sát năm 2021, dữ liệu chi tiết về thanh thiếu niên: khả năng nghe tiếng Hakka của thanh thiếu niên tăng từ 12,3% lên 18,6%, là tín hiệu tích cực đầu tiên trong thế hệ trẻ sau hai mươi năm triển khai giảng dạy ngôn ngữ mẫu.
 
 [^9]: [Báo 500 lần: Từ bản ghi âm đến giải Nhạc sĩ quốc gia — nhóm nhạc "Linh sinh học" Linh Sinh Học × Linh Sinh Học, chế tác lời từ đồng bằng](https://500times.udn.com/wtimes/story/12670/6287749) — Phỏng vấn sâu Linh Sinh Học và Linh Sinh Học về nguồn gial hợp tác (năm 1994 đóng góp cho chiến dịch phản đối chương trình bảo tồn hồ thủy điện), triết lý sáng tác, và phương pháp của Linh Sinh Học viết lời như "giống như làm nông nghiệp".
 

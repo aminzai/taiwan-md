@@ -14,7 +14,7 @@ tags:
     'P.League+',
     'TPBL',
   ]
-subcategory: 'Deportes'
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-16

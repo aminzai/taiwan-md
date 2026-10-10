@@ -58,7 +58,7 @@ _図：DL 36ディーゼル機関車が北門に停車している様子。作�
 
 ![從阿里山林業鐵路車廂外望北門驛月台](https://upload.wikimedia.org/wikipedia/commons/0/0f/Alishan_Forest_Railway%2C_Beimen_Station%2C_Chiayi_CIty_%28Taiwan%29.jpg)
 
-_図：阿里山林業鐵路の車両から眺めた北門駅ホーム。作者 Malcolm Koo。CC BY-SA 4.0。画像ページとライセンス情報はWikimedia Commons.jpgを参照してください。[^11]\_
+\_図：阿里山林業鐵路の車両から眺めた北門駅ホーム。作者 Malcolm Koo。CC BY-SA 4.0。画像ページとライセンス情報はWikimedia Commons.jpgを参照してください。[^11]\_
 
 鉄路がもたらした変化は山の上だけではありませんでした。製材工場、木材の卸売・加工場、従業員宿舎、商店、学校などが輸送システム沿いに集積し、嘉義は「木材の都」と呼ばれる、木材産業を核とした都市紋様を形成しました[^2]。一つの産業線が二つのことを同時に成し遂げたのです。それは、森林資源を山から運び出すことと、都市生活を山の中へ引き込むことでした。
 
@@ -142,4 +142,4 @@ _図：阿里山林業鐵路の車両から眺めた北門駅ホーム。作者 
 
 [^10]: [Wikimedia Commons: File:Taiwan, Alishan Forest Railway 'DL 36' at Beimen.jpg](https://commons.wikimedia.org/wiki/File:Taiwan,_Alishan_Forest_Railway_%27DL_36%27_at_Beimen.jpg) — 作者 Industrial Wales。ライセンスはCreative Commons 表示-継承 2.0であり、画像はオリジナルファイルへの熱リンクで埋め込まれており、ダウンロードや再ホスティングはしていません。
 
-[^11]: [Wikimedia Commons: File:Alishan Forest Railway, Beimen Station, Chiayi City (Taiwan).jpg](<https://commons.wikimedia.org/wiki/File:Alishan_Forest_Railway,_Beimen_Station,_Chiayi_CIty_(Taiwan).jpg>) — 作者 Malcolm Koo。ライセンスはCreative Commons 表示-継承 4.0であり、画像はオリジナルファイルへの熱リンクで埋め込まれており、ダウンロードや再ホスティングはしていません。
+[^11]: [Wikimedia Commons: File:Alishan Forest Railway, Beimen Station, Chiayi City (Taiwan).jpg](https://commons.wikimedia.org/wiki/File:Alishan_Forest_Railway,_Beimen_Station,_Chiayi_CIty_(Taiwan) — 作者 Malcolm Koo。ライセンスはCreative Commons 表示-継承 4.0であり、画像はオリジナルファイルへの熱リンクで埋め込まれており、ダウンロードや再ホスティングはしていません。

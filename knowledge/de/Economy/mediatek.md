@@ -115,9 +115,9 @@ Anfang 2025 betrat Tsai Ming-kai die Kundenliste für TSMCs 2-nm-Prozess. Neben 
 
 ## Weiterführende Literatur
 
-- [Taiwanesische Unternehmen: TSMC](/economy/台灣企業：台積電)
+- [Taiwanesische Unternehmen: TSMC](/de/economy/tsmc)
 - [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Vom RCA-Technologietransfer 1973 bis zur 2-nm-Massenproduktion das gesamte Halbleiter-Ökosystem; MediaTek repräsentiert die IC-Design-Seite
-- [Taiwan Tech Storytelling: 100-Punkte-Chip, 60-Punkte-Mikrofon](/technology/台灣科技說故事) — Warum MediaTek, weltweiter Auslieferungs-Champion, in der Markenerzählung noch immer nicht an Qualcomm heranreicht
+- [Taiwan Tech Storytelling: 100-Punkte-Chip, 60-Punkte-Mikrofon](/de/technology/taiwan-tech-storytelling) — Warum MediaTek, weltweiter Auslieferungs-Champion, in der Markenerzählung noch immer nicht an Qualcomm heranreicht
 
 ---
 

@@ -125,7 +125,7 @@ Der Weg von der Gründung durch drei HP-Ingenieure im Jahr 1983 bis zum heutigen
 
 **Weiterführende Lektüre**:
 
-- [AAMA Taipei Cradle Program](/economy/AAMA台北搖籃計畫): Die Wistron Education Foundation ist einer der Stifter dieses Gründerprogramms, und Vorstandsvorsitzender Liu Kuei-chen war auch Mentor des Programms; beide fördern gemeinsam das „AAMA AIoT Enterprise Co-Creation Program“.
+- [AAMA Taipei Cradle Program](/de/economy/aama-taipei-cradle-program): Die Wistron Education Foundation ist einer der Stifter dieses Gründerprogramms, und Vorstandsvorsitzender Liu Kuei-chen war auch Mentor des Programms; beide fördern gemeinsam das „AAMA AIoT Enterprise Co-Creation Program“.
 
 ## Quellen
 

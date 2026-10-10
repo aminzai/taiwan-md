@@ -15,7 +15,7 @@ tags:
     '楊志良',
     '健康保険データベース',
   ]
-subcategory: '医療と健康保険'
+subcategory: '醫療與健保'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-04
@@ -190,7 +190,7 @@ _台大病院本館。1895 年創立、台湾の健保体系で最大の医学�
 - [台湾再生医療双法沿革従業員告白](/ja/society/taiwan-regenerative-medicine-laws) — 健保給付の境界線の外側で、再生医療双法が 2024 年に成立。健保 SOP の外にあるもう一つのガバナンス軌道
 - [台湾動物用薬争議](/ja/society/taiwan-animal-drug-controversy) — 健保がカバーするのは人間であって動物ではない。ペット用薬の争議は健保制度の対照群
 - [台湾災難医療体系](/ja/technology/taiwan-disaster-medicine-system) — 健保が日常医療を支え、災難医療体系が非常時を支える。二つの体系が台湾の公共医療ガバナンスの常態と緊急の両面を共に構成する
-- [台湾新冠疫情與疫苗](/society/台灣新冠疫情與疫苗) — あの健保カードが 2020 年にマスク実名制に使われ、二週間で立ち上げられた。同じデータ基盤が疫学調査とワクチン予約も動かした
+- [台湾新冠疫情與疫苗](/ja/society/taiwan-covid-pandemic-and-vaccines) — あの健保カードが 2020 年にマスク実名制に使われ、二週間で立ち上げられた。同じデータ基盤が疫学調査とワクチン予約も動かした
 
 ## 公開データ
 

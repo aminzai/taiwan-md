@@ -13,7 +13,7 @@ tags:
     'Quyền lợi người tiêu dùng',
     '2026',
   ]
-subcategory: 'Pháp luật và thể chế'
+subcategory: '法律與制度'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-07-28
@@ -283,10 +283,10 @@ Lần này, câu nói đó đi từ một tờ báo cáo kiểm nghiệm ngày 1
 
 **Đọc thêm**:
 
-- [外送專法](/society/外送專法) — Luật chuyên ngành có hiệu lực ngày 21/7, quy định chính xác về những người mang các hộp cơm đó đến tận cửa.
-- [台灣美食總覽](/food/台灣美食總覽) — Chất hóa dẻo, Đại Thống, dầu thải — niên biểu an toàn thực phẩm này đã trở thành ký ức ẩm thực chung của người Đài Loan như thế nào.
+- [外送專法](/vi/society/delivery-platform-law) — Luật chuyên ngành có hiệu lực ngày 21/7, quy định chính xác về những người mang các hộp cơm đó đến tận cửa.
+- [台灣美食總覽](/vi/food/taiwan-food-overview) — Chất hóa dẻo, Đại Thống, dầu thải — niên biểu an toàn thực phẩm này đã trở thành ký ức ẩm thực chung của người Đài Loan như thế nào.
 - [Y tế công cộng và hệ thống phòng dịch của Đài Loan](/vi/society/taiwan-public-health-epidemic-response) — Hệ thống y tế công cộng nơi TFDA và các sở y tế trú đóng vận hành ra sao trong ngày thường.
-- [台灣司法改革與預防性羈押制度](/society/台灣司法改革與預防性羈押制度) — Vụ án này có nhiều lãnh đạo cấp cao bị tạm giam cấm gặp, bài viết này bàn đúng về ranh giới và tranh cãi của biện pháp cưỡng chế này.
+- [台灣司法改革與預防性羈押制度](/vi/society/taiwan-judicial-reform-and-preventive-detention) — Vụ án này có nhiều lãnh đạo cấp cao bị tạm giam cấm gặp, bài viết này bàn đúng về ranh giới và tranh cãi của biện pháp cưỡng chế này.
 
 ## Nguồn hình ảnh
 

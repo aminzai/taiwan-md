@@ -125,7 +125,7 @@ Dieser Artikel verwendet vier taiwanesischer Süßigkeit- und Festtagsfotos von 
 
 [^7]: [Keelung Gesundheitsbehörde: Liste der Lebensmittelkontrollen für Frühlingsfest und Drachenbootfest 2023](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01207/f1674011260718.pdf) — Offizielles PDF von 2022, Seite 2 listet die Gelbfäulepilz-Kontrolle von Erdnussstäbchen und das Ergebnis „entspricht den Vorschriften“ auf, um die Lebensmittelsicherheit während des Festtags zu zeigen.
 
-[^8]: [Wikimedia Commons: Taiwanesische Süßigkeiten (1088069273).jpg](<https://commons.wikimedia.org/wiki/File:Taiwanese_sweets_(1088069273).jpg>) — Fotografiert von pelican, lizenziert unter CC BY-SA 2.0. Der Artikel verwendet die ursprüngliche URL von Wikimedia Commons, lädt oder bearbeitet keine Bilder.
+[^8]: [Wikimedia Commons: Taiwanesische Süßigkeiten (1088069273).jpg](https://commons.wikimedia.org/wiki/File:Taiwanese_sweets_(1088069273) — Fotografiert von pelican, lizenziert unter CC BY-SA 2.0. Der Artikel verwendet die ursprüngliche URL von Wikimedia Commons, lädt oder bearbeitet keine Bilder.
 
 [^9]: [Wikimedia Commons: 2010-02-13 Lunar New Year sweets vendor at Dihua Street, Taipei](https://commons.wikimedia.org/wiki/File:2010-02-13_Lunar_New_Year_sweets_vendor_at_Dihua_Street,_Taipei.jpg) — Foto vom 13. Februar 2010 des Festtagsstandes am Dihua-Street in Taipeh, von eazytraveler, lizenziert unter CC BY 2.0, der Artikel verwendet die ursprüngliche URL.
 

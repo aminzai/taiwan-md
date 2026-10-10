@@ -116,15 +116,15 @@ Nhưng mã hiệu vô danh đó vẫn còn đó.
 
 **Đọc Thêm**:
 
-- [Công Nghiệp Bán Dẫn](/technology/công-nghiệp-bán-dẫn) — Bối cảnh ngành công nghiệp mà cuộc chiến chống Tử Quang diễn ra: cấu trúc Đài Loan từ gia công đến lãnh đạo kiểm chứng/thiết kế, và ranh giới vô hình này「vốn Trung Quốc không vào được」
-- [Doanh Nghiệp Đài Loan: TSMC](/economy/doanh-nghiệp-đài-loan-tsmc) — Tử Quang năm đó không dám sờ, nhưng quyết định sự tự chủ công nghệ của Đài Loan, đó là ngọn núi bảo vệ nước đất này
-- [Doanh Nghiệp Đài Loan: Nhật Nguyệt Quang Bán Dẫn](/economy/doanh-nghiệp-đài-loan-nhật-nguyệt-quang-bán-dẫn) — Tính từ đó với vụ Tử Quang những công ty kiểm chứng lớn bị vốn khóa lại, là một tọa độ khác của tuyến bán dẫn của Hứa Tử Hoa
-- [Phong Trào Xã Hội và Tham Gia Công Dân](/society/phong-trào-xã-hội-và-tham-gia-công-dân) — Từ Phong Trào Hoa Hướng Dương đến bãi miễn lớn, sự biến hóa của mô hình huy động công dân vô danh kiểu Hứa Tử Hoa trong Đài Loan
-- [Hệ Thống Dân Chủ](/society/hệ-thống-dân-chủ) — Quyền bãi miễn như một công cụ dân chủ trực tiếp trong hệ thống đại biểu Đài Loan, cũng như cuộc tranh luận ngưỡng đằng sau「bảy khu vực vượt quá 25%」năm 2025
-- [2026 Trịnh Tập Hội: Cuộc Gặp Mặt Lần 10 của Lãnh Đạo Cộng-Quốc Sau 10 Năm](/society/2026-trịnh-tập-hội-và-gặp-mặt-lần-10-của-lãnh-đạo-cộng-quốc) — Sau thất bại bãi miễn lớn, kịch bản chính trị hai bờ eo biển tiếp tục như thế nào
-- [Trịnh Lệ Văn](/people/trịnh-lệ-văn) — Phía đối thủ của làn sóng bãi miễn lớn: vào năm 2025, người đứng đầu phản ứng bãi miễn của Quốc Dân Đảng, đề xuất「hợp tác xanh-trắng」của nhân vật chính trị cốt lõi
-- [Hàn Quốc Du](/people/hàn-quốc-du) — Chủ tịch Viện Lập pháp và vị thế dưới các dự luật cải cách quốc hội, là điểm phát nổ của làn sóng bãi miễn lớn năm 2025
-- [Cải Cách Tư Pháp Đài Loan và Hệ Thống Giữ Chân Phòng Ngừa](/society/cải-cách-tư-pháp-đài-loan-và-hệ-thống-giữ-chân-phòng-ngừa) — Một tuyến chiến đấu công dân-quốc hội khác của Đài Loan năm 2025 trong Viện Lập pháp
+- [Công Nghiệp Bán Dẫn](/vi/technology/taiwan-semiconductor-industry) — Bối cảnh ngành công nghiệp mà cuộc chiến chống Tử Quang diễn ra: cấu trúc Đài Loan từ gia công đến lãnh đạo kiểm chứng/thiết kế, và ranh giới vô hình này「vốn Trung Quốc không vào được」
+- [Doanh Nghiệp Đài Loan: TSMC](/vi/economy/tsmc) — Tử Quang năm đó không dám sờ, nhưng quyết định sự tự chủ công nghệ của Đài Loan, đó là ngọn núi bảo vệ nước đất này
+- [Doanh Nghiệp Đài Loan: Nhật Nguyệt Quang Bán Dẫn](/vi/economy/taiwan-enterprise-ase-semiconductor) — Tính từ đó với vụ Tử Quang những công ty kiểm chứng lớn bị vốn khóa lại, là một tọa độ khác của tuyến bán dẫn của Hứa Tử Hoa
+- [Phong Trào Xã Hội và Tham Gia Công Dân](/vi/society/social-movements-and-civic-participation) — Từ Phong Trào Hoa Hướng Dương đến bãi miễn lớn, sự biến hóa của mô hình huy động công dân vô danh kiểu Hứa Tử Hoa trong Đài Loan
+- [Hệ Thống Dân Chủ](/vi/society/democratic-system) — Quyền bãi miễn như một công cụ dân chủ trực tiếp trong hệ thống đại biểu Đài Loan, cũng như cuộc tranh luận ngưỡng đằng sau「bảy khu vực vượt quá 25%」năm 2025
+- [2026 Trịnh Tập Hội: Cuộc Gặp Mặt Lần 10 của Lãnh Đạo Cộng-Quốc Sau 10 Năm](/vi/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Sau thất bại bãi miễn lớn, kịch bản chính trị hai bờ eo biển tiếp tục như thế nào
+- [Trịnh Lệ Văn](/vi/people/cheng-li-wun) — Phía đối thủ của làn sóng bãi miễn lớn: vào năm 2025, người đứng đầu phản ứng bãi miễn của Quốc Dân Đảng, đề xuất「hợp tác xanh-trắng」của nhân vật chính trị cốt lõi
+- [Hàn Quốc Du](/vi/people/han-kuo-yu) — Chủ tịch Viện Lập pháp và vị thế dưới các dự luật cải cách quốc hội, là điểm phát nổ của làn sóng bãi miễn lớn năm 2025
+- [Cải Cách Tư Pháp Đài Loan và Hệ Thống Giữ Chân Phòng Ngừa](/vi/society/taiwan-judicial-reform-and-preventive-detention) — Một tuyến chiến đấu công dân-quốc hội khác của Đài Loan năm 2025 trong Viện Lập pháp
 
 ## Tham Khảo
 

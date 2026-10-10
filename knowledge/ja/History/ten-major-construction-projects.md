@@ -4,7 +4,7 @@ description: '1973年、台湾の外貨準備高はわずか10億ドルだった
 date: 2026-06-01
 author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: '経済発展史'
+subcategory: '經濟發展史'
 tags:
   [
     '経済発展',

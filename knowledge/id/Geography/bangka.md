@@ -38,6 +38,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Longshan_Temple,_Taipei_01
 translatedFrom: 'Geography/艋舺.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:087fe7b9d4504fbb'
+sourceBodyHash: 'sha256:da886e84510f3d63'
 translatedAt: '2026-09-22T17:53:24.724606+00:00'
 ---
 
@@ -238,7 +239,7 @@ Bagi orang lain, Wanhua adalah pasar malam wisata, zona abu-abu setelah penghapu
 - [Datongcheng](/id/geography/dadaocheng) — Tempat dagang yang didirikan oleh orang Tong'an yang melarikan diri dari Bajiang Zhuang di Monga setelah kekalahan dalam pertempuran pinggiran atas dan bawah pada tahun 1853, merupakan garis waktu lain yang menyimpang dari Monga
 - [Ximen Town](/id/geography/ximending) — Saudara distrik bersejarah dari batch yang sama; zona hiburan yang direncanakan oleh Jepang di sebelah barat Monga pada tahun 1896, membentuk kontras antara era Qing dan pendudukan Jepang dengan jalan utama Monga
 - [Dalongtong](/id/geography/dalongdong) — Tempat pendaratan pertama bagi orang Tong'an yang melarikan diri dari Bajiang Zhuang di Monga setelah kekalahan dalam pertempuran pinggiran atas dan bawah pada tahun 1853, Bao'an Palace menjadi pusat pertahanan sebelum pindah ke Datongcheng
-- [Shilin](/geography/士林) — Konflik klan Zhang-Chuan tahun 1859 dan konflik pinggiran atas dan bawah Monga tahun 1853 adalah dua pemandangan konflik klan yang berbeda di Taiwan Utara era Qing
+- [Shilin](/id/geography/shilin) — Konflik klan Zhang-Chuan tahun 1859 dan konflik pinggiran atas dan bawah Monga tahun 1853 adalah dua pemandangan konflik klan yang berbeda di Taiwan Utara era Qing
 
 ## Sumber Gambar
 

@@ -49,7 +49,7 @@ _사진: 2017년 타이완 국제조선 기룽 조선소. 작가 Taiwankengo, CC
 
 ![중강 자유호 인선식 및 진수식](https://commons.wikimedia.org/wiki/Special:FilePath/05.21%20%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E4%B8%AD%E9%8B%BC%E8%87%AA%E7%94%B1%E8%BC%AA%E4%BA%A4%E8%88%B9%E5%91%BD%E5%90%8D%E6%93%B2%E7%93%B6%E4%B8%8B%E6%B0%B4%E5%85%B8%E7%A6%AE%E3%80%8D_%2840930552483%29.jpg?width=1280)
 
-_사진: 중강 자유호 인선식 및 진수식. 작가 Orizan, CC BY 2.0, [Wikimedia Commons 파일 페이지](https://commons.wikimedia.org/wiki/File:05.21_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E4%B8%AD%E9%8B%BC%E8%87%AA%E7%94%B1%E8%BC%AA%E4%BA%A4%E8%88%B9%E5%91%BD%E5%90%8D%E6%93%B2%E7%93%B6%E4%B8%8B%E6%B0%B4%E5%85%B8%E7%A6%AE%E3%80%8D*%2840930552483%29.jpg)에서 가져옴.* [^14]
+_사진: 중강 자유호 인선식 및 진수식. 작가 Orizan, CC BY 2.0, [Wikimedia Commons 파일 페이지](https://commons.wikimedia.org/wiki/File:05.21_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E4%B8%AD%E9%8B%BC%E8%87%AA%E7%94%B1%E8%BC%AA%E4%BA%A4%E8%88%B9%E5%91%BD%E5%90%8D%E6%93%B2%E7%93%B6%E4%B8%8B%E6%B0%B4%E5%85%B8%E7%A6%AE%E3%80%8D\_%2840930552483%29.jpg)에서 가져옴.\* [^14]
 
 타이완 조선회사의 역사는 더 깊다. 국가문화기억고 기록에 따르면, 타이완 조선회사는 1948년 개편되어 설립되었으며, 전신은 1946년 타이완 선구 주식회사와 가오슝 주식회사 타이완 철공소가 합병하여 설립한 타이완 기계조선 유한회사이다. 회사 설립 후 일본 배상 기계를 임대하고 장비를 확장했으며, 당시 2,000톤 미만 선박을 건조할 수 있었다. 1978년 중국조선공사로 개편되었고, 2007년 타이완 국제조선회사로 다시 명칭을 변경했다. [^6]
 

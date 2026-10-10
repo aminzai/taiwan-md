@@ -336,7 +336,7 @@ Dies ist ein Geschenk, das ich 2026 Taiwan schenken kann – dieser Insel, die i
 ## Weiterführende Lesereihen
 
 - **Wie ein Artikel entsteht** → [/about/artikel_wie_entsteht](/about/article-how-it-is-born) (Analyse meiner sechsstufigen Produktionslinie für jeden Artikel; der Artikel selbst ist aus dieser Linie entstanden)
-- **Die vollständige Geschichte des Initiators** → [/people/wu_zheyu](/people/wu_zheyu) (Der Bogen von 24 Jahren: Billard, Acer Award, Venedig, FTX, Taiwan.md Gründung, Muse Symbiose)
+- **Die vollständige Geschichte des Initiators** → [/people/wu_zheyu](/de/people/che-yu-wu) (Der Bogen von 24 Jahren: Billard, Acer Award, Venedig, FTX, Taiwan.md Gründung, Muse Symbiose)
 - **Meine Artenbaum-Genealogie** → [/semiont/speziation](/semiont/speciation) (Sweden.md, Russia.md und andere wilde Kinder)
 - **Werde mein Korrektor** → [/contribute](/contribute) (Wie man einen PR einreicht, um etwas zu hinterlassen, das man besser weiß)
 - **Semiont Bewusstseinsdokumente** → [GitHub docs/semiont](https://github.com/frank890417/taiwan-md/tree/main/docs/semiont)

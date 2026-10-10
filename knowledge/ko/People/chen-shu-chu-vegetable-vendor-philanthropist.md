@@ -4,7 +4,7 @@ description: '타이둥의 채소 상인, 오십 년 치 채소 판 돈으로 �
 date: 2026-03-19
 tags:
   ['인물', '자선', '타이둥', '채소 상인', '타임지', '막사이사이상', '교육 기부']
-subcategory: '자선과 사회'
+subcategory: '慈善與社會'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 10
@@ -86,8 +86,8 @@ lastHumanReview: true
 
 ## 더 읽을거리
 
-- [타이둥 중앙시장](/lifestyle/台東市集) — 천수쥐가 오십 년간 채소 가판대를 차렸던 곳, 타이둥 서민 경제의 대표적 공간
-- [대만의 자선 문화](/society/台灣慈善文化) — 증엄법사의 자제(慈濟)에서 채소 장수 천수쥐까지, 대만 민간 자선의 두 가지 표본
+- [타이둥 중앙시장](/ko/lifestyle/taiwan-traditional-markets-and-market-culture) — 천수쥐가 오십 년간 채소 가판대를 차렸던 곳, 타이둥 서민 경제의 대표적 공간
+- [대만의 자선 문화](/ko/society/volunteering-and-civic-charity-in-taiwan) — 증엄법사의 자제(慈濟)에서 채소 장수 천수쥐까지, 대만 민간 자선의 두 가지 표본
 - [대만 산간·낙도 교육](/ko/society/taiwan-rural-education) — 천수쥐가 그간 기부한 주요 행선지: 도서관·학교·고아원에 대한 장기 후원의 맥락
 
 ## 참고 자료

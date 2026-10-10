@@ -277,12 +277,12 @@ Album lengkap, MV, catatan pertunjukan di [Saluran YouTube Resmi Cicada](https:/
 
 **Baca Lanjutan**：
 
-- [Wei Ruxuan](/people/魏如萱) — ekosistem musik independen 2010-an sama, jalur vokal bukan instrumental
-- [Grasshopper Tidak Ada Pesta](/people/草東沒有派對) — naik saat yang sama tapi jalur band marah eksternal sebagai banding
+- [Wei Ruxuan](/id/people/waa-wei-singer) — ekosistem musik independen 2010-an sama, jalur vokal bukan instrumental
+- [Grasshopper Tidak Ada Pesta](/id/people/no-party-for-cao-dong) — naik saat yang sama tapi jalur band marah eksternal sebagai banding
 - [Bola Berubah Constant](/id/people/constant-and-change-band) — spektrum post-rock sama, jalur narasi vokal
 - [Lu Guangzhong](/id/people/crowd-lu-indie-folk-treasure) — jalur lain musik independen
-- [Anugerah Emas](/music/金曲獎) — konteks sistem Cicada nominasi Anugerah Instrumental Terbaik
-- [Musik Independen Taiwan](/music/台灣獨立音樂) — spektrum musik independen pasca 2010-an
+- [Anugerah Emas](/id/music/pop-music-and-golden-melody-awards) — konteks sistem Cicada nominasi Anugerah Instrumental Terbaik
+- [Musik Independen Taiwan](/id/music/indie-music-scene) — spektrum musik independen pasca 2010-an
 - [Ekosistem Hutan Taiwan](/id/nature/taiwan-forest-ecosystems) — latar geografi _Masuk Hutan Berkabut_, _Mendiami di Atas Sumber Sungai_ Cicada
 - [Ekologi Laut Taiwan](/id/nature/taiwan-marine-ecology) — latar ekologi album tema laut 2017 band
 - [Gunung dan Budaya Mendaki Taiwan](/id/nature/taiwan-mountains-and-hiking-culture) — konteks filsafat mendaki Jiang Zhijie

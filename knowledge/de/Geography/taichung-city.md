@@ -234,16 +234,16 @@ Nächstes Mal, wenn Sie durch Taichung kommen, gehen Sie nicht nur zu den alten 
 
 ## Weiterführende Literatur
 
-- [Taiwans Musikinstrumentenindustrie: Taiwanesische Hände, die durch die Weltklänge gingen](/music/台灣樂器製造) — Die Saxophon-Agglomeration in Houli und die Musikglocken in Wufeng sind Taichungs Präzision und Musikgeographie jenseits der Industrie
+- [Taiwans Musikinstrumentenindustrie: Taiwanesische Hände, die durch die Weltklänge gingen](/de/music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories) — Die Saxophon-Agglomeration in Houli und die Musikglocken in Wufeng sind Taichungs Präzision und Musikgeographie jenseits der Industrie
 
-- [Keelung](/geography/基隆市) — 22-Kreise-und-Städte-Serie Pilot: 1984 weltgrößter siebtgrößter Containerhafen auf Rang 113 im Jahr 2018 abgestürzt, wie Taichung ein „Verwaltungsstatus, der einmal gesehen und dann umgeschrieben wurde“
-- [Nantou](/geography/南投縣) — 22-Kreise-und-Städte-Serie Batch 3 Geschwister: Einziger kreisfreier Landkreis ohne Meer, 921-Epizentrum genau in seiner Mitte, teilt mit Taichung das Chelungpu-Verwerfungs-Trauma
+- [Keelung](/de/geography/keelung-city) — 22-Kreise-und-Städte-Serie Pilot: 1984 weltgrößter siebtgrößter Containerhafen auf Rang 113 im Jahr 2018 abgestürzt, wie Taichung ein „Verwaltungsstatus, der einmal gesehen und dann umgeschrieben wurde“
+- [Nantou](/de/geography/nantou-county) — 22-Kreise-und-Städte-Serie Batch 3 Geschwister: Einziger kreisfreier Landkreis ohne Meer, 921-Epizentrum genau in seiner Mitte, teilt mit Taichung das Chelungpu-Verwerfungs-Trauma
 - [Changhua](/de/geography/changhua-county) — 22-Kreise-und-Städte-Serie Batch 4 Geschwister: 1709 Acht-Festungs-Bewässerungskanal bewässert die Mitte, 1786 Lin-Shuangwen-Ereignis, 1986 Lukang-Bewohner vertreiben DuPont, teilt mit Taichung den Lebenskreis der Bagua-Bergkette in der Mitte
-- [Yunlin](/geography/雲林縣) — 22-Kreise-und-Städte-Serie Batch 4 Geschwister: Dajia-Mazu-Pilgerfahrt führt durch Xiluo, Huwei, Tuku, teilt mit Taichung denselben mittleren Abschnitt der 340 km Mazu-Route
-- [Chiayi](/geography/嘉義市) — 22-Kreise-und-Städte-Serie Batch 2 Geschwister: Endpunkt der Dajia-Mazu-Pilgerfahrt Xingang liegt im Kreis Chiayi, teilt mit Taichung dieselbe 340 km religiöse Route an beiden Enden
-- [Miaoli](/geography/苗栗縣) — 22-Kreise-und-Städte-Serie Batch 1 Geschwister: Nördlicher Nachbar, hakka-stur und verschuldeter Binnenlandkreis, teilt mit Taichung Küstenlinie Qingshui und Dongshi-Bergland die hakka-Geographie der Mitte
-- [Taiwans Verwaltungsgliederung](/geography/台灣行政區劃) — 1887 Einrichtung der Präfektur Taiwan in Taichung, 1920 Einrichtung der Präfektur Taichung, 1945 Kreis-Stadt-Trennung, 2010 Kreis-Stadt-Fusion zur regierungsunmittelbaren Stadt – vollständige Systemgeschichte
-- [Stadtcharakter und Regionalkultur](/geography/城市特色與區域文化) — Taichung als Knotenpunkt des zentralen Lebenskreises im kreisübergreifenden Vergleichskontext
+- [Yunlin](/de/geography/yunlin-county) — 22-Kreise-und-Städte-Serie Batch 4 Geschwister: Dajia-Mazu-Pilgerfahrt führt durch Xiluo, Huwei, Tuku, teilt mit Taichung denselben mittleren Abschnitt der 340 km Mazu-Route
+- [Chiayi](/de/geography/chiayi-city) — 22-Kreise-und-Städte-Serie Batch 2 Geschwister: Endpunkt der Dajia-Mazu-Pilgerfahrt Xingang liegt im Kreis Chiayi, teilt mit Taichung dieselbe 340 km religiöse Route an beiden Enden
+- [Miaoli](/de/geography/miaoli-county) — 22-Kreise-und-Städte-Serie Batch 1 Geschwister: Nördlicher Nachbar, hakka-stur und verschuldeter Binnenlandkreis, teilt mit Taichung Küstenlinie Qingshui und Dongshi-Bergland die hakka-Geographie der Mitte
+- [Taiwans Verwaltungsgliederung](/de/geography/administrative-divisions-of-taiwan) — 1887 Einrichtung der Präfektur Taiwan in Taichung, 1920 Einrichtung der Präfektur Taichung, 1945 Kreis-Stadt-Trennung, 2010 Kreis-Stadt-Fusion zur regierungsunmittelbaren Stadt – vollständige Systemgeschichte
+- [Stadtcharakter und Regionalkultur](/de/geography/urban-character-and-regional-culture) — Taichung als Knotenpunkt des zentralen Lebenskreises im kreisübergreifenden Vergleichskontext
 
 ## Bildquellen
 

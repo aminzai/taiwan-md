@@ -31,6 +31,7 @@ readingTime: 24
 translatedFrom: 'Geography/金瓜石.md'
 sourceCommitSha: '9c5ad569a'
 sourceContentHash: 'sha256:b78814073b388a83'
+sourceBodyHash: 'sha256:68f6beb778ba92ff'
 translatedAt: '2026-09-20T07:29:47.029150+00:00'
 ---
 

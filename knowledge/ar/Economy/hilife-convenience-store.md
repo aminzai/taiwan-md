@@ -73,7 +73,7 @@ translatedAt: '2026-07-26T13:23:39+08:00'
 
 ## للقراءة الإضافية
 
-- [ثقافة متاجر convenience في تايوان](/lifestyle/台灣便利商店文化) — كيف تحولت متاجر convenience إلى بنية تحتية عامة في تايوان
+- [ثقافة متاجر convenience في تايوان](/ar/lifestyle/convenience-store-culture) — كيف تحولت متاجر convenience إلى بنية تحتية عامة في تايوان
 - [الفواتير](/ar/economy/taiwan-uniform-invoice) — الاقتصاد اليومي للفواتير الموحدة وجمعها في متاجر convenience
 
 ## مراجع

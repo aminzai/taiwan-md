@@ -148,12 +148,12 @@ Escreveu trinta anos as melhores canções dos outros, e no fim ainda devolve o 
 
 **Leitura Adicional**:
 
-- [Lo Ta-yu](/people/羅大佑) — O outro padrinho do Mandopop, "observa o mundo" contra "espreita o coração" de Jonathan Lee, a leitura obrigatória em paralelo
-- [Sylvia Chang](/people/張艾嘉) — Primeiro trabalho de Jonathan Lee na Rock Records _Ocupada e Cega_, o ponto de partida da linhagem "mulheres urbanas"
-- [A-mei](/people/張惠妹) — Mesma era de ouro da Rock Records, voz de diva, outra trilha da voz feminina de Taiwan
-- [Movimento Folk de Taiwan](/music/台灣民歌運動) — O comboio que Jonathan Lee apanhou nos anos 1970, Grupo Violão e Prémio Golden Rhyme
-- [Evolução do Mandarim de Taiwan](/culture/台灣華語的演化) — Por que a "linguagem simples na canção" comove, ligado a como o mandarim de Taiwan se tornou língua do dia a dia
-- [Huang Ta-wei](/people/黃大煒) — Compositor-intérprete da mesma geração, voz rouca, estilo próprio, duas formas de abrir caminho para a balada em mandarim
+- [Lo Ta-yu](/pt/people/luo-dayou) — O outro padrinho do Mandopop, "observa o mundo" contra "espreita o coração" de Jonathan Lee, a leitura obrigatória em paralelo
+- [Sylvia Chang](/pt/people/sylvia-chang) — Primeiro trabalho de Jonathan Lee na Rock Records _Ocupada e Cega_, o ponto de partida da linhagem "mulheres urbanas"
+- [A-mei](/pt/people/a-mei) — Mesma era de ouro da Rock Records, voz de diva, outra trilha da voz feminina de Taiwan
+- [Movimento Folk de Taiwan](/pt/music/taiwan-campus-folk-song-movement) — O comboio que Jonathan Lee apanhou nos anos 1970, Grupo Violão e Prémio Golden Rhyme
+- [Evolução do Mandarim de Taiwan](/pt/culture/taiwan-mandarin-evolution) — Por que a "linguagem simples na canção" comove, ligado a como o mandarim de Taiwan se tornou língua do dia a dia
+- [Huang Ta-wei](/pt/people/david-wong) — Compositor-intérprete da mesma geração, voz rouca, estilo próprio, duas formas de abrir caminho para a balada em mandarim
 
 ## Fontes das Imagens
 

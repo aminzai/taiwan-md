@@ -3,7 +3,7 @@ title: '台湾の義消：勤務後に制服を身に纏い、地方に第二の
 description: '義消は志工と呼ばれるが、消防法に基づく編成、専門訓練、勤務指揮、救災保険を備えた法定組織である。日本統治時代の消防組から現代の山域捜索救助まで、この地方の力がいかに消防体系の時間差を補い、同時に採用、訓練、安全装備、家族支援、長期定着という課題を露呈させているかを解説する。'
 date: 2026-08-21
 category: 'Society'
-tags: ['義消、消防、災害防救、志工、コミュニティ・レジリエンス']
+tags: ['義消', '消防', '災害防救', '志工', 'コミュニティ・レジリエンス']
 subcategory: '社會韌性'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -166,7 +166,7 @@ _図：嘉義民雄消防隊部。撮影：Tbatb、CC BY-SA 4.0。出典：[Wiki
 
 - [台北市消防局消防車](https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Firefighting-truck-02.jpg) — 撮影：CEphoto, Uwe Aranas / Wikimedia Commons、CC BY-SA 3.0
 
-## 參考資料
+## 参考資料
 
 [^1]: [Wu, Chang & Collins：Mobilizing Voluntary Organizations in Taiwanese Emergency Response](https://www.researchgate.net/publication/298727422_Mobilizing_Voluntary_Organizations_in_Taiwanese_Emergency_Response_Citizen_Engagement_and_Local_Fire_Branch_Heads) — 2015年『Journal of Contemporary Eastern Asia』研究。集集地震後の災害ガバナンス枠組みと地方消防分隊が志願組織を動員する条件を説明している。
 

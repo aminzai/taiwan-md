@@ -2,7 +2,7 @@
 title: 'レイチャ：一杯の甘茶が、どう戦後移民の食文化を北埔の名物に変えたか'
 description: '1999年3月、北埔老街の一軒の専門店が、本来家庭にあったレイチャを路面に出した。河婆移民が持ち込んだ塩味の茶湯から、落花生・ゴマ・玄米を混ぜた甘い飲み物へ、さらに桃園や海外の異なるバージョンへと、レイチャは古来の製法のままではなく、移民・政策・嗜好・観光、そして数々の擂棒とともに書き換えられてきた結果である。'
 date: 2026-08-20
-subcategory: 'エスニック料理'
+subcategory: '族群飲食'
 category: 'Food'
 tags: ['レイチャ', 'ハッカ', 'ホクホ', 'シンチク', '食文化']
 author: 'Taiwan.md Contributors'
@@ -14,6 +14,7 @@ curation: 'incubating'
 translatedFrom: 'Food/擂茶.md'
 sourceCommitSha: '2c62c6aba'
 sourceContentHash: 'sha256:ee2201b450622484'
+sourceBodyHash: 'sha256:66c062471e0b3496'
 translatedAt: '2026-09-12T10:40:17.409874+00:00'
 ---
 
@@ -129,7 +130,7 @@ _画像：桃園市中壢區芝芭里の客家擂茶、撮影 氏子、出典 [W
 
 [客家委員会：文化産業の重要要素の探討——以北埔擂茶為例](https://www.hakka.gov.tw/chhakka/app/data/view?module=thesis&id=80&serno=42331)
 
-## 參考資料
+## 参考資料
 
 [^1]: [客家委員会：文化産業の重要要素の探討――北埔擂茶を例として](https://www.hakka.gov.tw/chhakka/app/data/view?module=thesis&id=80&serno=42331) — 国立交通大学客家文化研究論文の要旨を収録し、1999年の北埔専売店、文化体験、政策支援、地方産業化の関連を説明しています。
 

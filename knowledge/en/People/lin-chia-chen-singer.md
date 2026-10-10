@@ -119,7 +119,7 @@ This preparation method also changed the meaning of "personal activities." The s
 
 ![A night scene and skyline of Taipei, used as a freely licensed visual context for the urban sensibility of 〈Love Me Again〉.](https://upload.wikimedia.org/wikipedia/commons/c/cd/Taipei%2C_Taiwan_Night_Cityscape_Skyline.jpg)
 
-_Image Caption: A night scene of Taipei taken by Mao Mao Da Shao Ye, CC BY-SA 2.0 on Wikimedia Commons. This image is not from Lin Jia-chen's MV but is used only to illustrate the Taipei nightscape and urban movement discussed in the article. Source: Wikimedia Commons Image Page._
+_Image Caption: A night scene of Taipei taken by Mao Mao Da Shao Ye, CC BY-SA 2.0 on Wikimedia Commons. This image is not from Lin Jia-chen's MV but is used only to illustrate the Taipei nightscape and urban movement discussed in the article. Source: Wikimedia Commons Image Page. [Wikimedia Commons 圖片頁](https://commons.wikimedia.org/wiki/File:Taipei,_Taiwan_Night_Cityscape_Skyline.jpg)_
 
 ## Beyond the Stage: Verifiable Creative Choices
 
@@ -139,7 +139,7 @@ The drama _The Ones You Don't Know_ presented him with another scale of performa
 
 ![The exterior of the National Theater of Taipei, used as a freely licensed image link for Taiwan's large performance venues and individual performance culture.](https://upload.wikimedia.org/wikipedia/commons/5/59/Taiwan_2009_Taipei_National_Theater_at_Chian_Kai_Shek_Cultural_Center_FRD_7291.jpg)
 
-_Image Caption: The National Theater of Taipei taken by Fred Hsu, GNU Free Documentation License on Wikimedia Commons. This image is not from Lin Jia-chen's performance but is used only to illustrate the public cultural background of Taiwanese performance venues. Source: Wikimedia Commons Image Page._
+_Image Caption: The National Theater of Taipei taken by Fred Hsu, GNU Free Documentation License on Wikimedia Commons. This image is not from Lin Jia-chen's performance but is used only to illustrate the public cultural background of Taiwanese performance venues. Source: Wikimedia Commons Image Page. [Wikimedia Commons 圖片頁](https://commons.wikimedia.org/wiki/File:Taiwan_2009_Taipei_National_Theater_at_Chian_Kai_Shek_Cultural_Center_FRD_7291.jpg)_
 
 ## What Lin Jia-chen Left Behind Is Not a Persona
 

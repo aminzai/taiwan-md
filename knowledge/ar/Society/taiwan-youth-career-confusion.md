@@ -4,7 +4,7 @@ description: 'كشف استطلاع أجرته لجنة توجيه الشباب 
 date: 2026-04-24
 author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: 'التعليم'
+subcategory: '教育'
 tags:
   - 'توظيف الشباب'
   - 'التيه في المسار المهني'

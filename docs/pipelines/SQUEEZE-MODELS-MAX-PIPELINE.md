@@ -1122,6 +1122,28 @@ consumer 不得自行挑模型；profile 無合格模型時回傳 0 worker，讓
 窗口大小 `FRESH_WINDOW_DAYS`（babel-dispatch.py）。實測十一語各有 10-14 篇
 在窗內，隊首驗證：全部佔據前段且日期嚴格遞減。
 
+### 取 target 的兩道門：投稿者的譯文不被產線覆蓋（OBSERVER-QUEUE #67，2026-10-10 哲宇拍板 B）
+
+排序之前先過 `scripts/tools/lang-sync/contributor_guard.py`，三個取 target 的入口
+（`babel-dispatch.py` 的 `build_worklist`、`prepare-batch.py`、`patch-translate.py` 原地
+patch）共用同一個判斷：
+
+1. **open-PR 過濾**：目標檔（stale 用現行譯文路徑，缺頁用 slug 比 `knowledge/<lang>/*/<slug>.md`）
+   被 `gh pr list --state open` 任何一個開著的 PR 碰到，就跳過、log 一行。每個 run 打一次 gh
+   快取（長 run 過 `BABEL_OPEN_PR_REFRESH_MIN` 分鐘再打）；gh 不在或失敗只留警告、過濾關掉，
+   產線照跑。擋的是 #1697／#1775／#1776 那型：投稿者 PR 開著，babel 同篇翻完推上 main。
+2. **人翻的譯文不直接覆蓋**：既有譯文判 stale 時，查它現在的 `translatedAt` 是哪個 commit
+   寫進去的（`git log -1 -S<translatedAt> -- <file>`，一檔一次、快取）。作者不是機器
+   （bot 身份、`🧬 [semiont] babel`／`🧬 [routine]` 標題、或操作者推的 🧬 簽名才算機器；
+   投稿者也會寫 🧬 [semiont] 前綴，所以 🧬 本身不是證據）→ 不重翻也不 patch，改記一筆提議到
+   `reports/babel/human-translation-stale.tsv`（path、zh sha、作者、原因），隨批次 commit 進
+   版控，由維護班請投稿者更新或由人決定。擋的是 steve-chen 那型：zh 改一條腳註，babel 整篇
+   重翻把投稿者寫對的 `1,65 Milliarden` 改成 `165 Millionen`，兩天沒有東西叫。
+
+原則來自 #67 的決定：**投稿者是繁殖器官最稀缺的資產，機器不改人的貢獻**；等質重譯
+要不要取代、提議要不要採納，都是人的決定。安全閥 `BABEL_CONTRIBUTOR_GUARD=0` 整個關掉。
+測試：`tests/test_contributor_guard.py`。
+
 ### 第五層：Claude sub-agent 委派（2026-08-01 實測後定型）
 
 免費池與地端 GPU 之外的一層，**不是更好的翻譯器，是能做另一種事的翻譯器**。

@@ -13,7 +13,7 @@ tags:
     '政治コミュニケーション',
     'チンギス・ハン',
   ]
-subcategory: '政治と民主主義'
+subcategory: '政治與民主'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20
@@ -23,6 +23,7 @@ curation: 'incubating'
 translatedFrom: 'People/館長陳之漢.md'
 sourceCommitSha: '319acd7f7'
 sourceContentHash: 'sha256:796b1e09f8d40882'
+sourceBodyHash: 'sha256:4da6179cc5f355db'
 translatedAt: '2026-09-10T23:15:03.291466+00:00'
 ---
 

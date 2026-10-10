@@ -4,7 +4,7 @@ description: '清末から民国初期にかけて大漢渓の水運が衰退し
 date: 2026-08-20
 category: 'Food'
 tags: ['大渓', '豆干', '桃園', '郷土料理', '河港']
-subcategory: '定番屋台グルメ'
+subcategory: '經典小吃'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20
@@ -19,6 +19,7 @@ rationale:
 translatedFrom: 'Food/大溪豆乾.md'
 sourceCommitSha: '56b89c791'
 sourceContentHash: 'sha256:a88f68e2ed7330a9'
+sourceBodyHash: 'sha256:f3daf5d832d676fb'
 translatedAt: '2026-09-12T02:37:42.257185+00:00'
 ---
 

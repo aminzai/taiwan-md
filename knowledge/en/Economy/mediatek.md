@@ -117,7 +117,7 @@ In early 2025, Tsai Ming-kai walked into TSMC's 2nm process customer list. Besid
 
 - [Taiwan Enterprise: TSMC](/en/economy/tsmc)
 - [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — The entire semiconductor ecosystem from 1973 RCA technology transfer to 2nm mass production; MediaTek represents the IC design end
-- [Taiwan Tech Storytelling: 100-Point Chip, 60-Point Microphone](/en/technology/taiwan-tech-stories) — Why MediaTek, with world-leading shipments, still trails Qualcomm in brand narrative
+- [Taiwan Tech Storytelling: 100-Point Chip, 60-Point Microphone](/en/technology/taiwan-tech-storytelling) — Why MediaTek, with world-leading shipments, still trails Qualcomm in brand narrative
 
 ---
 

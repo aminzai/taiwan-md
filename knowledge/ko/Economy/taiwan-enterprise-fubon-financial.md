@@ -3,7 +3,7 @@ title: '대만 기업: 푸본금융지주'
 description: '직원 10명에서 6만 명으로: 차이 형제가 60년에 걸쳐 대만 최대 금융 제국을 세운 이야기'
 date: 2026-03-22
 tags: [경제, 기업, 푸본금융지주, 차이밍중, 금융업, 인수합병, 디지털전환]
-subcategory: '기업 열전'
+subcategory: '企業列傳'
 category: 'Economy'
 author: 'Taiwan.md Contributors'
 readingTime: 15

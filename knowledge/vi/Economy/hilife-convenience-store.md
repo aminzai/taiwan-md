@@ -22,6 +22,7 @@ readingTime: 12
 translatedFrom: 'Economy/萊爾富.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:16de3ef9123d401b'
+sourceBodyHash: 'sha256:1db4b0d8639cd770'
 sourceBody_hash: 'sha256:1db4b0d8639cd770'
 translatedAt: '2026-07-24T15:52:20+08:00'
 ---
@@ -73,7 +74,7 @@ Câu chuyện của Hi-Life không chỉ là sự thịnh suy của một doanh 
 ## Đọc thêm
 
 - [Văn hóa cửa hàng tiện lợi Đài Loan](/vi/lifestyle/convenience-store-culture) — Cách các cửa hàng tiện lợi trở thành cơ sở hạ tầng công cộng tại Đài Loan.
-- [Hóa đơn](/economy/發票) — Kinh tế học thường nhật về hóa đơn thuế và dịch vụ thu hộ tại cửa hàng tiện lợi.
+- [Hóa đơn](/vi/economy/taiwan-uniform-invoice) — Kinh tế học thường nhật về hóa đơn thuế và dịch vụ thu hộ tại cửa hàng tiện lợi.
 
 ## Tài liệu tham khảo
 

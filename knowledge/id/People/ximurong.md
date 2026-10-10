@@ -13,7 +13,7 @@ tags:
     'Mongolia',
     'Penulis esai',
   ]
-subcategory: 'Sastra'
+subcategory: '文學'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-19
@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'People/席慕蓉.md'
 sourceCommitSha: '7415dcaae'
 sourceContentHash: 'sha256:6428a22574e0ec61'
+sourceBodyHash: 'sha256:c035c602c7e335fa'
 translatedAt: '2026-08-03T14:45:46.623375+00:00'
 ---
 

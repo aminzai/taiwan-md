@@ -11,7 +11,7 @@ tags:
     'Hứa Quang Hàn',
     'Giải thưởng Kim Chung',
   ]
-subcategory: 'Điện ảnh'
+subcategory: '電影'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-30

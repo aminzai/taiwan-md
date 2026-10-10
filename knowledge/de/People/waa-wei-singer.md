@@ -229,15 +229,15 @@ Das bekannteste Werk ist nicht „Ophelia“, nicht „Bi Ge Suo Zai“, nicht j
 **Weiterführende Links**:
 
 - [Matzka](/de/people/crowd-lu-indie-folk-treasure) – Derselbe chinesischsprachige Independent-Ökosystem, eine andere Demonstration von „nicht berühmt, aber preisgekrönt“, gleicher Weg „Werke zuerst, Präsenz zweitrangig“
-- [Yoga Lin](/people/林宥嘉) – Ein anderer Pfad: von Castingshow in Golden Melody, Bühnenprofessionalität bis zum Äußersten getrieben
+- [Yoga Lin](/de/people/yoga-lin) – Ein anderer Pfad: von Castingshow in Golden Melody, Bühnenprofessionalität bis zum Äußersten getrieben
 - [Jay Chou](/de/people/jay-chou) – Das andere Ende des chinesischsprachigen Pop-Spektrums: Superstar-System vs. werkebasierter Independent-Sänger
 - [Jolin Tsai](/de/people/jolin-tsai) – Eine andere Art, als Sängerin Stimme aufzubauen, Waa Weis Gegenbeispiel
-- [Golden Melody Awards](/music/金曲獎) – Die Bühnenkoordinaten von Waa Weis zwei Gewinnen als Beste Mandarin-Sängerin
-- [Taiwanese Pop Music](/music/台灣流行音樂) – Chinesischsprachige Pop-Musik Industrieumgebung
-- [Taiwanese Independent Music](/music/台灣獨立音樂) – Von Sodagreen bis 2020er Golden Melody Mainstream-Grenze
+- [Golden Melody Awards](/de/music/pop-music-and-golden-melody-awards) – Die Bühnenkoordinaten von Waa Weis zwei Gewinnen als Beste Mandarin-Sängerin
+- [Taiwanese Pop Music](/de/music/golden-melodies-legacy-taiwan-pop-music) – Chinesischsprachige Pop-Musik Industrieumgebung
+- [Taiwanese Independent Music](/de/music/indie-music-scene) – Von Sodagreen bis 2020er Golden Melody Mainstream-Grenze
 - [Rainie Yang](/de/people/rainie-yang) – Struktureller Kontrast derselben Generation „Markt vs. Akademie“: Rainie Yang hat 45. Golden Bell aber nie Golden Melody, Waa Wei zwei Golden Melody Beste Mandarin-Sängerin
 - [Huang Shao-yong](/de/people/huang-shao-yong-musician) – Von Lin Ma-di-Ära bis „Pearl Punishment“ „Vicious Mouth“, „For Example Leaving“, „Moon Jellyfish“ drei Solo-Produktionen, über zehn Jahre Zusammenarbeit mit Waa Wei als Electronic-Produzent
-- [Ke Zhi-tang](/people/柯智棠) – Cousin, British-Folk-Sänger, Chen Chien-chi drei Alben produziert, Slow-Tempo-Schöpfer
+- [Ke Zhi-tang](/de/people/ke-zhi-tang-musician) – Cousin, British-Folk-Sänger, Chen Chien-chi drei Alben produziert, Slow-Tempo-Schöpfer
 
 ## Referenzen
 

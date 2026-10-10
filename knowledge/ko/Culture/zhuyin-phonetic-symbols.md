@@ -4,7 +4,7 @@ description: '전 세계에서 대만의 2,300만 명만이 일상적으로 사�
 date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Culture'
-subcategory: '언어와 문자'
+subcategory: '語言與文字'
 tags: ['주음', '언어', '교육', '문화적 정체성', '입력법', 'ㄅㄆㄇ']
 readingTime: 12
 lastVerified: 2026-03-19

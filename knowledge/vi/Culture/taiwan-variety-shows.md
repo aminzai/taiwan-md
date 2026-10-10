@@ -108,7 +108,7 @@ Nếu 《Nhóm Sao Gặp Nhau》 năm 1962 làm điều đó bằng cách đưa 
 ## Tài liệu tham khảo mở rộng
 
 - [Linh Vũ Gia](/vi/people/yoga-lin) — Giải nhất 《Đường Đến Sao Vàng Siêu Cấp》 năm 2007, là một trong những trường hợp đại diện nhất cho cơ chế tạo ngôi sao thông qua lựa chọn truyền hình của Đài Loan
-- [Giải thưởng Kim Chuông](/culture/金鐘獎) — Chiếc cúp được ghi danh trong các lễ hội thể loại nghệ thuật truyền hình hàng năm, từ một giải thưởng phát thanh duy nhất vào năm 1965 trở thành ba lễ hộf hôm nay
+- [Giải thưởng Kim Chuông](/vi/culture/golden-bell-awards) — Chiếc cúp được ghi danh trong các lễ hội thể loại nghệ thuật truyền hình hàng năm, từ một giải thưởng phát thanh duy nhất vào năm 1965 trở thành ba lễ hộf hôm nay
 
 ## Tài liệu tham khảo
 

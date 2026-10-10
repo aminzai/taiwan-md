@@ -206,13 +206,13 @@ Album berikutnya dalam bahasa apa, tema apa, sekarang tidak ada yang tahu. Namun
 
 **Bacaan Perpanjutan**:
 
-- [Wei Ru-xuan](/people/魏如萱/) — Jalur berbeda "menggunakan fitur suara untuk mendefinisikan diri sendiri" dari penyanyi Taiwan perempuan generasi yang sama (Wei Ru-xuan suara boneka × Enno Cheng kejujuran Taiwanese, dua mekanisme kesadaran diri yang berbeda)
+- [Wei Ru-xuan](/id/people/waa-wei-singer/) — Jalur berbeda "menggunakan fitur suara untuk mendefinisikan diri sendiri" dari penyanyi Taiwan perempuan generasi yang sama (Wei Ru-xuan suara boneka × Enno Cheng kejujuran Taiwanese, dua mekanisme kesadaran diri yang berbeda)
 - [Abao](/id/people/aljenljeng-tjaluvie-abao/) — Sama-sama "menggunakan bahasa non-mainstream membuat penghargaan utama Taiwan Music Awards" pencapaian terobosan (Abao bahasa Paiwan Taiwan Music Awards 2020 album tahun × Enno Cheng Taiwanese 2023 Best Taiwanese, dua titik waktu hubungan bahasa dengan penghargaan)
 - [Chen Chien-chi](/id/people/chen-chien-chi-music-producer/) — Produser musik pop Mandarin defensi sistemik terhadap "suara non-standar"; Enno Cheng menggunakan ketidaakraban bahasa, Abao menggunakan non-mainstream bahasa suku, Chen Chien-chi menggunakan suara boneka — tiga "ekspansi batas suara"
-- [Taiwan Music Awards](/music/金曲獎/) — Makna struktural penghargaan Taiwanese 2023 Taiwan Music Awards 34
-- [Taiwan Pop Music](/music/台灣流行音樂/) — Spektrum evolusi penciptaan Taiwanese dari "resistansi lokal" ke "alat kontemporer"
-- [Taiwan Indie Music](/music/台灣獨立音樂/) — Identitas musisi independen Enno Cheng dari periode Lady Zero hingga _Mercury Retrograde_
-- [Lin Yu-cheng](/people/林宥嘉/) — Kasus kontras dari generasi sama keluar dari posisi idola musik pop Mandarin, menjadi produser mandiri (Enno Cheng menggunakan bahasa asing, Lin Yu-cheng menggunakan identitas produser mandiri, dua jalur berbeda "lolos dari didefinisikan")
+- [Taiwan Music Awards](/id/music/pop-music-and-golden-melody-awards/) — Makna struktural penghargaan Taiwanese 2023 Taiwan Music Awards 34
+- [Taiwan Pop Music](/id/music/golden-melodies-legacy-taiwan-pop-music/) — Spektrum evolusi penciptaan Taiwanese dari "resistansi lokal" ke "alat kontemporer"
+- [Taiwan Indie Music](/id/music/indie-music-scene/) — Identitas musisi independen Enno Cheng dari periode Lady Zero hingga _Mercury Retrograde_
+- [Lin Yu-cheng](/id/people/yoga-lin/) — Kasus kontras dari generasi sama keluar dari posisi idola musik pop Mandarin, menjadi produser mandiri (Enno Cheng menggunakan bahasa asing, Lin Yu-cheng menggunakan identitas produser mandiri, dua jalur berbeda "lolos dari didefinisikan")
 
 ## Referensi
 

@@ -70,8 +70,8 @@ Lin Min-hsiung pernah mengatakan bahwa FamilyMart adalah "pusat kesejahteraan ma
 - **[Budaya Minimarket Taiwan](/id/lifestyle/convenience-store-culture)** — Posisi FamilyMart, 7-Eleven, dan Family Mart di pasar ritel Taiwan
 - **[Ekonomi Pengiriman Taiwan](/economy/台灣外送經濟)** — Bagaimana Hours Delivery FamilyMart berhasil masuk ke pasar foodpanda / Uber Eats
 - **[Pembayaran Seluler Taiwan](/id/technology/taiwan-mobile-payment)** — Memahami perbedaan antara adopsi dan universalitas, dari PXPay hingga penerimaan pedagang kas fisik
-- **[Sejarah Iklan Taiwan](/culture/台灣廣告史)** — Ogilvy di balik "Estetika Ekonomi" FamilyMart, dan sejarah seratus tahun iklan Taiwan dari monopoli perhatian ke pemasaran yang menyentuh hati
-- **[Perusahaan Taiwan: Grup Unifikasi](/economy/台灣企業：統一企業)** — Kisah paruh kedua penggabungan dua raksasa ritel Taiwan: Unifikasi mengakuisisi Carrefour, FamilyMart mengakuisisi RT-Mart
+- **[Sejarah Iklan Taiwan](/id/culture/taiwan-advertising-history)** — Ogilvy di balik "Estetika Ekonomi" FamilyMart, dan sejarah seratus tahun iklan Taiwan dari monopoli perhatian ke pemasaran yang menyentuh hati
+- **[Perusahaan Taiwan: Grup Unifikasi](/id/economy/taiwan-enterprise-uni-president)** — Kisah paruh kedua penggabungan dua raksasa ritel Taiwan: Unifikasi mengakuisisi Carrefour, FamilyMart mengakuisisi RT-Mart
 
 ## Referensi
 

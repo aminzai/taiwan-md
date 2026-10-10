@@ -166,7 +166,7 @@ Die Geschichte von Chunghwa Telecom ist eine dreißigjährige Abbildung des Wand
 
 **Weiterführende Lektüre**:
 
-- [Taiwan Customs Clearance and EZ WAY](/lifestyle/台灣海關報關制度與EZWAY) — Ein weiteres Beispiel für eine staatlich gehaltene Gesellschaft, deren Betrieb an Privatunternehmen delegiert ist: Guanmao Network mit 36,11 % Beteiligung des Finanzministeriums.
+- [Taiwan Customs Clearance and EZ WAY](/de/lifestyle/ezway) — Ein weiteres Beispiel für eine staatlich gehaltene Gesellschaft, deren Betrieb an Privatunternehmen delegiert ist: Guanmao Network mit 36,11 % Beteiligung des Finanzministeriums.
 
 ## Referenzen
 

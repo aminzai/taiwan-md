@@ -11,7 +11,7 @@ tags:
     'काओशुंग कोरियाई प्रवासी स्कूल',
     'बहुसांस्कृतिक जीवन',
   ]
-subcategory: 'शिक्षा'
+subcategory: '教育'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-21
@@ -26,6 +26,7 @@ curation: 'incubating'
 translatedFrom: 'Society/韓國人在台灣.md'
 sourceCommitSha: '13c7fbcdb'
 sourceContentHash: 'sha256:8a8e0217696ef948'
+sourceBodyHash: 'sha256:aa22cde38abe8c50'
 translatedAt: '2026-09-10T17:58:47.739236+00:00'
 ---
 
@@ -143,7 +144,7 @@ _चित्र: जॉर्ज कैंसेला, 〈Taipei - Skyline Sun
 
 ## विस्तारित पठन
 
-- [काऊशुंग शहर](/geography/高雄市) — लेख में उल्लिखित काऊशुंग कोरियाई स्कूल और स्थानीय कोरियाई संघ के शहरी संदर्भ के लिए।
+- [काऊशुंग शहर](/hi/geography/kaohsiung-city) — लेख में उल्लिखित काऊशुंग कोरियाई स्कूल और स्थानीय कोरियाई संघ के शहरी संदर्भ के लिए।
 - [ताइवान शिक्षा प्रणाली](/hi/lifestyle/taiwan-education-system) — ताइवान के स्कूलों, अंतर्राष्ट्रीय छात्रों और द्विभाषी शिक्षा के व्यवस्थागत संदर्भ को समझने के लिए।
 - [ताइवान नवागंतुक पाक कला संलयन](/hi/food/taiwanese-new-immigrant-culinary-fusion) — भोजन और पारिवारिक जीवन के नजरिए से समझें कि अंतरसांस्कृतिक समुदाय ताइवान में कैसे जड़ें जमा रहे हैं।
 

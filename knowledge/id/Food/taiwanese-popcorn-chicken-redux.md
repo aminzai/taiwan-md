@@ -92,7 +92,7 @@ Lima puluh tahun lalu, Chen Ting-chih mungkin nggak sangka, gerobak mantan bos r
 ## Bacaan Lanjutan
 
 - [Budaya Pasar Malam](/id/food/night-market-culture) — Ruang sirkulasi utama ayam goreng garam, panggung inti ekosistem makan malam khas Taiwan
-- [Budaya Sarapan Taiwan](/food/台灣早餐文化) — Dari pagi buta sampai malam larut, perbandingan dua periode makan penting Taiwan
+- [Budaya Sarapan Taiwan](/id/food/taiwan-breakfast-culture) — Dari pagi buta sampai malam larut, perbandingan dua periode makan penting Taiwan
 - [Budaya Minimarket Taiwan](/id/lifestyle/convenience-store-culture) — Gerobak ayam goreng garam bersama minimarket bersama-sama bentuk lanskap makan 24 jam Taiwan
 
 ## Referensi

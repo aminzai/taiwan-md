@@ -205,10 +205,10 @@ Essa é a trajetória de vinte e cinco anos de um produtor. Não são os momento
 - [Tian Fu-zhen](/pt/people/hebe-tien-singer) — Chen Chien-chi, Golden Melody 2021 Melhor Produtor de Álbum 《Ninguém Sabe》
 - [Rainie Yang](/pt/people/rainie-yang) — contraponto de construção de identidade de cantora pop da mesma geração (Yang autoproduzida, Chen produzido por outros)
 - [Golden Melody Awards](/pt/music/pop-music-and-golden-melody-awards) — coordenadas completas dos três Golden Melody de Chen Chien-chi atravessando arranjo / single / álbum
-- [Pop de Taiwan](/music/台灣流行音樂) — contexto histórico da linha vermelha vocal que Chen Chien-chi derrubou em 25 anos
+- [Pop de Taiwan](/pt/music/golden-melodies-legacy-taiwan-pop-music) — contexto histórico da linha vermelha vocal que Chen Chien-chi derrubou em 25 anos
 - [Música independente de Taiwan](/pt/music/indie-music-scene) — posição dos selos "Good Many Music" "HerMusic" de Chen Chien-chi no ecossistema indie
-- [Ke Chih-tang](/people/柯智棠) — cantor folk britânico de três álbuns totalmente produzidos por Chen Chien-chi, co-vencedor do Golden Bell 2025 de Canção Original 〈Resposta de Deus〉
-- [Lin You-jia](/people/林宥嘉) — Chen Chien-chi participou da produção de 《O Grande Romance》 2012 e 《Aberto Hoje》 2016, trajetória de Lin You-jia de cantor "escrito por outros" a produtor autônomo
+- [Ke Chih-tang](/pt/people/ke-zhi-tang-musician) — cantor folk britânico de três álbuns totalmente produzidos por Chen Chien-chi, co-vencedor do Golden Bell 2025 de Canção Original 〈Resposta de Deus〉
+- [Lin You-jia](/pt/people/yoga-lin) — Chen Chien-chi participou da produção de 《O Grande Romance》 2012 e 《Aberto Hoje》 2016, trajetória de Lin You-jia de cantor "escrito por outros" a produtor autônomo
 - [Huang Shao-yung](/pt/people/huang-shao-yong-musician) — outro produtor principal de 《Pérola Punição》; Chen Chien-chi derruba linha vermelha para voz mandarim, Huang derruba a mesma linha para línguas não-mandarim (Paiwan/Amis/Taiwanês)
 
 ## Referências

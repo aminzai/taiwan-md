@@ -4,7 +4,7 @@ description: 'Ритуал небольшого городка, где фейе�
 date: 2026-03-24
 author: 'Taiwan.md'
 category: 'Culture'
-subcategory: 'Религия и фольклор'
+subcategory: '宗教與民俗'
 tags:
   [
     'Традиционные праздники',

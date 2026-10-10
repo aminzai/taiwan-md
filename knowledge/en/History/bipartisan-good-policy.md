@@ -296,7 +296,7 @@ But one thing is certain: if we use only the blue-green yardstick, we will forev
 ## Further Reading
 
 - [Taiwan’s Democratic Transition](/en/history/taiwan-democratization) — From the February 28 Incident to the Sunflower Movement, how authoritarianism personally cultivated the force that would bury it
-- [Taiwan’s Transitional Justice](/history/台灣轉型正義) — The gap between annulling nearly six thousand guilty verdicts and almost no perpetrators being held accountable
+- [Taiwan’s Transitional Justice](/en/history/taiwan-transitional-justice) — The gap between annulling nearly six thousand guilty verdicts and almost no perpetrators being held accountable
 - [Taiwan Strait Crises and the Development of Cross-Strait Relations](/en/history/taiwan-strait-crises-and-cross-strait-relations) — The full context of the 1996 missile crisis
 
 ---

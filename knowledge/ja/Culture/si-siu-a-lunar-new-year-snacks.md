@@ -102,7 +102,7 @@ _2007年迪化街（ディーホアジェ）旧正月屋台。Photo: Michael Reh
 - [教育部台湾台湾語常用詞辞典：四秀仔](https://sutian.moe.edu.tw/zh-hant/su/1474/) — 読み方、定義、例文。
 - [TaiwanPlus News：Taiwan's Lunar New Year Sweets](https://www.youtube.com/watch?v=hZwELtM16LE) — 英語によるお正月菓子報道。
 
-## 參考資料
+## 参考資料
 
 [^1]: [YouTube：〈録製〉新年超尬録音節目：過年糖果特輯](https://www.youtube.com/watch?v=d2tWy8nsw-w&t=18s) — 公開動画ページ。本文で整理したお正月おやつの品項、食感観察、節慶文脈の素材を提供。
 
@@ -118,7 +118,7 @@ _2007年迪化街（ディーホアジェ）旧正月屋台。Photo: Michael Reh
 
 [^7]: [基隆市衛生局（キールンシエイセイキョク）：112年度春節及元宵節應景食品抽驗名冊](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01207/f1674011260718.pdf) — 2022年公式抽驗（検査）PDF。第2ページに花生粩（ピーナッツ粩）のアフラトキシン検査と適合結果を記載。お正月食品の安全ガバナンスを呈示。
 
-[^8]: [Wikimedia Commons：Taiwanese sweets (1088069273).jpg](<https://commons.wikimedia.org/wiki/File:Taiwanese_sweets_(1088069273).jpg>) — 撮影者：ペリカン（pelican）、ライセンス：CC BY-SA 2.0。本文ではWikimedia Commonsの元URLを使用、画像のダウンロードや改変は行っていない。
+[^8]: [Wikimedia Commons：Taiwanese sweets (1088069273).jpg](https://commons.wikimedia.org/wiki/File:Taiwanese_sweets_(1088069273) — 撮影者：ペリカン（pelican）、ライセンス：CC BY-SA 2.0。本文ではWikimedia Commonsの元URLを使用、画像のダウンロードや改変は行っていない。
 
 [^9]: [Wikimedia Commons：2010-02-13 Lunar New Year sweets vendor at Dihua Street, Taipei](https://commons.wikimedia.org/wiki/File:2010-02-13_Lunar_New_Year_sweets_vendor_at_Dihua_Street,_Taipei.jpg) — 2010年台北迪化街（ディーホアジェ）旧正月菓子屋台の写真。撮影者：イージートラベラー（eazytraveler）、ライセンス：CC BY 2.0。本文では元URLを使用。
 

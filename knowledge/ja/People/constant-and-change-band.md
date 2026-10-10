@@ -4,7 +4,7 @@ description: '2013年に台北で結成された4人組インディーバンド�
 date: 2026-04-18
 author: 'Taiwan.md'
 category: People
-subcategory: 音楽とパフォーマンス
+subcategory: '音樂與表演'
 tags:
   [
     人物,

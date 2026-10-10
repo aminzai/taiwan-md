@@ -146,10 +146,10 @@ Oleh karena itu melihat kembali Dwagie, pintu masuk terbaik masih musik. Peristi
 
 **Bacaan Lanjutan**:
 
-- [Perkembangan Hip-hop dan Rap Taiwan](/music/台灣嘻哈與饒舌發展) — Konteks rap Taiwan dari Song Yueting, MC HotDog, Dwagie hingga Leo Wang, Xiong Zai dan generasi baru.
-- [Musik Independen Taiwan](/music/台灣獨立音樂) — Bagaimana label independen, adegan lokal, dan musik non-arus utama menyangga jalur lain dari musik Taiwan.
-- [Golden Melody Awards](/music/金曲獎) — Melihat perubahan jenis musik Taiwan dan politik bahasa dari perspektif penghargaan musik pop.
-- [Peristiwa 228](/history/二二八事件) — Salah satu ingatan sejarah dan politik Taiwan yang sering disentuh dalam karya Dwagie.
+- [Perkembangan Hip-hop dan Rap Taiwan](/id/music/taiwan-hip-hop-and-rap) — Konteks rap Taiwan dari Song Yueting, MC HotDog, Dwagie hingga Leo Wang, Xiong Zai dan generasi baru.
+- [Musik Independen Taiwan](/id/music/indie-music-scene) — Bagaimana label independen, adegan lokal, dan musik non-arus utama menyangga jalur lain dari musik Taiwan.
+- [Golden Melody Awards](/id/music/pop-music-and-golden-melody-awards) — Melihat perubahan jenis musik Taiwan dan politik bahasa dari perspektif penghargaan musik pop.
+- [Peristiwa 228](/id/history/228-incident) — Salah satu ingatan sejarah dan politik Taiwan yang sering disentuh dalam karya Dwagie.
 
 ## Sumber gambar
 

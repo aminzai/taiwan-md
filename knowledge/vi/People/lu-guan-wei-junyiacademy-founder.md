@@ -247,10 +247,10 @@ Bài viết này sử dụng 3 ảnh được cấp phép công khai và 3 video
 
 ## Đọc Thêm
 
-- [Diệp Bính Thành](/people/葉丙成): PaGamO biến làm bài tập thành chơi game, một con đường sáng tạo giáo dục khác được tạo ra
-- [Hoàng Quốc Chân](/people/黃國珍): Học Viện Phẩm Chất và "Hiểu Đọc", biến "sẽ đọc" thành một kỹ năng giảng dạy
-- [Lưu An Hương](/people/劉安婷): Giảng dạy Vì Đài Loan (TFT), gửi người trẻ vào lớp học nông thôn trong hai năm
-- [Nhan Trường Thọ](/people/嚴長壽): Từ cha đẻ du lịch chuyển hướng sang giáo dục vùng sâu, cái tên của Junyi là vay mượn từ anh
+- [Diệp Bính Thành](/vi/people/yeh-ping-cheng-education-innovator): PaGamO biến làm bài tập thành chơi game, một con đường sáng tạo giáo dục khác được tạo ra
+- [Hoàng Quốc Chân](/vi/people/huang-kuo-chen): Học Viện Phẩm Chất và "Hiểu Đọc", biến "sẽ đọc" thành một kỹ năng giảng dạy
+- [Lưu An Hương](/vi/people/liu-an-ting-teach-for-taiwan): Giảng dạy Vì Đài Loan (TFT), gửi người trẻ vào lớp học nông thôn trong hai năm
+- [Nhan Trường Thọ](/vi/people/stanley-yen): Từ cha đẻ du lịch chuyển hướng sang giáo dục vùng sâu, cái tên của Junyi là vay mượn từ anh
 
 ## Tài Liệu Tham Khảo
 

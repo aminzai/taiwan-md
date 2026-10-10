@@ -64,7 +64,7 @@ Januari 2000, Wu Ta-You meninggal di San Francisco, berusia 93 tahun[^7]. Yang C
 
 - [Lee Yuan-tseh](/id/people/lee-yuan-tseh) — Ilmuwan lain yang tumbuh di Taiwan, kemudian meraih Nobel Kimia, mewakili akumulasi berkelanjutan Taiwan di sains dasar
 - [Industri semikonduktor](/id/technology/taiwan-semiconductor-industry) — Periode Wu Ta-You menjabat Kepala Akademia Sinica 1980-an, persis masa kritis industri semikonduktor Taiwan lepas landas
-- [Audrey Tang](/people/唐鳳) — Dari sains ke teknologi, jalur lain elit intelektual Taiwan terlibat urusan publik
+- [Audrey Tang](/id/people/audrey-tang) — Dari sains ke teknologi, jalur lain elit intelektual Taiwan terlibat urusan publik
 - [Kiki Lin](/id/people/lin-chi-er-astronaut) — Astronot NASA kelahiran Taipei, dokter kedokteran, melanjutkan jejak ilmuwan keturunan Taiwan di sistem akademik AS pasca-perang yang dikumpulkan generasi Wu Ta-You
 
 ## Referensi

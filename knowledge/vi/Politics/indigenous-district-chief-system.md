@@ -11,7 +11,7 @@ tags:
     'nâng cấp 2014',
     'bầu cử 2026',
   ]
-subcategory: 'hệ thống bầu cử'
+subcategory: '選舉制度'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-27

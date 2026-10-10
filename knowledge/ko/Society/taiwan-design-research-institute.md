@@ -13,7 +13,7 @@ tags:
     '장기의',
     '금점 디자인상',
   ]
-subcategory: '디자인과 공공 거버넌스'
+subcategory: '設計與公共治理'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-04
@@ -31,6 +31,7 @@ rationale:
 translatedFrom: 'Society/台灣設計研究院.md'
 sourceCommitSha: 'fa44ba5a9'
 sourceContentHash: 'sha256:31f2d67654f5ca72'
+sourceBodyHash: 'sha256:f7df18837078b48f'
 translatedAt: '2026-09-17T12:53:08.953486+00:00'
 ---
 
@@ -158,7 +159,7 @@ _설계연구원이 주도적으로 개조한 중산역 매표 구역은 '서비
 - [타이완 산업 전환 및 고급화](/ko/economy/industrial-transformation-from-manufacturing-to-innovation) — 제조 기지 섬에서 고부가가치로 나아가는 전체 이야기 중, 설계연구원이 건 배팅한 '사물의 모습'은 이 경로상에서 덜 언급되는 한 갈래이다.
 - [공영방송](/ko/society/pts-public-television-service) — 마찬가지로 공적 법인이며, '공공성'과 '검증받음' 사이를 줄타기하는 기관이다.
 - [타이완 건축](/ko/art/taiwanese-architecture) — 장기의 본업으로, 한 건축가가 왜 공간 디자인이 정부와 국민 간의 거리를 바꿀 수 있다고 믿는지 이해하게 한다.
-- [중앙연구원](/society/中央研究院) — 마찬가지로 국가가 자금을 지원하는 연구 기관이며, 대통령실 아래에 있든 부처 아래에 있든 할 수 있는 일과 받는 질문은 다르다.
+- [중앙연구원](/ko/society/academia-sinica) — 마찬가지로 국가가 자금을 지원하는 연구 기관이며, 대통령실 아래에 있든 부처 아래에 있든 할 수 있는 일과 받는 질문은 다르다.
 
 ## 이미지 출처
 

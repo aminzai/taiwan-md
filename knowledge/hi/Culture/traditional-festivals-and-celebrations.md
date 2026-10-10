@@ -4,7 +4,7 @@ description: 'एक छोटे कस्बे का अनुष्ठा�
 date: 2026-03-24
 author: 'Taiwan.md'
 category: 'Culture'
-subcategory: 'धर्म और लोककथा'
+subcategory: '宗教與民俗'
 tags:
   [
     'पारंपरिक उत्सव',

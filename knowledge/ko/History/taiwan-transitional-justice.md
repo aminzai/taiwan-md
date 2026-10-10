@@ -4,7 +4,7 @@ description: '타이완은 권위주의 시대의 유죄 판결 약 6,000건을 
 date: 2026-03-31
 author: 'Taiwan.md'
 category: 'History'
-subcategory: '현대사'
+subcategory: '現代歷史'
 tags: ['역사', '전환정의', '민주화', '인권', '백색공포']
 lastVerified: 2026-03-31
 lastHumanReview: false

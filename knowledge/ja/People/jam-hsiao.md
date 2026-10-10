@@ -4,13 +4,13 @@ description: '「挑戦者」から金曲（ゴールデンメロディー）歌
 date: 2026-03-23
 category: 'People'
 tags: ['音楽', 'ポップス', 'ジャズ', '超級星光大道', '金曲獎', '雨神']
-subcategory: '音楽と表演'
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23
 lastHumanReview: true
 translatedFrom: People/蕭敬騰.md
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: 'f99a9959c'
 sourceContentHash: 'sha256:fb71e3bcf0475f2e'
 sourceBodyHash: 'sha256:6b96e9e6687dd8c3'
 translatedAt: '2026-05-17T06:35:00Z'

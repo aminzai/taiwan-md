@@ -89,10 +89,10 @@ Hello Nico ist noch auf der Bühne.
 
 **Weiterführende Lektüre**:
 
-- [Ao und Shan](/people/凹與山) – ebenfalls eine unabhängige taiwanesische Sängerin der 2010er, die Synthesizer verwendet, um städtische Emotionen einzufangen
+- [Ao und Shan](/de/people/ao-and-mountain-band) – ebenfalls eine unabhängige taiwanesische Sängerin der 2010er, die Synthesizer verwendet, um städtische Emotionen einzufangen
 - [VH (Vast & Hazy)](/de/people/vh-band) – ein anderer sanfter Weg in der unabhängigen Musikszene der gleichen Ära, „Exit-System-Band“
-- [Grass East No Party](/people/草東沒有派對) – dieselbe taiwanesische unabhängige Szene der 2010er, Gegenüberstellung von Wut und Unterdrückung
-- [Ke Zhitong](/people/柯智棠) – ein anderer unabhängiger taiwanesischer Sänger, der nach sieben Jahren Stille zurückkehrt, ebenfalls Teil des „langsamen Tempo-Künstlerspektrums“
+- [Grass East No Party](/de/people/no-party-for-cao-dong) – dieselbe taiwanesische unabhängige Szene der 2010er, Gegenüberstellung von Wut und Unterdrückung
+- [Ke Zhitong](/de/people/ke-zhi-tang-musician) – ein anderer unabhängiger taiwanesischer Sänger, der nach sieben Jahren Stille zurückkehrt, ebenfalls Teil des „langsamen Tempo-Künstlerspektrums“
 - [Ji Baohao](/de/art/chi-po-hao-musician) – früherer Synthesizer-Musiker von Hello Nico, später in Klangkunst gewechselt, Gewinner des MIT Schnitzer Prize
 
 ## Referenzen

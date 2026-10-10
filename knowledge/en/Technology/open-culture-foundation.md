@@ -19,6 +19,15 @@ readingTime: 13
 lastVerified: 2026-06-04
 lastHumanReview: false
 featured: false
+sporeLinks:
+  - id: 117
+    platform: 'threads'
+    date: '2026-06-03'
+    url: 'https://www.threads.com/@taiwandotmd/post/DZIRG2tk6mZ'
+  - id: 118
+    platform: 'x'
+    date: '2026-06-03'
+    url: 'https://x.com/taiwandotmd/status/2062197280984399945'
 translatedFrom: 'Technology/開放文化基金會.md'
 sourceCommitSha: 'c8e5ac9e'
 sourceContentHash: 'sha256:c4ab423af923a984'
@@ -183,7 +192,7 @@ You've used its output (the mask map, the fact-checking chatbot, the open source
 
 - [Open Source Communities and g0v](/en/technology/open-source-and-g0v) — OCF was born to file receipts for communities like g0v, those civic hackers who "forked the government," and the 72-hour mask map.
 - [Taiwan's Open Source Spirit](/en/technology/taiwan-open-source-spirit) — The "Public Money Public Code" philosophy that OCF embodies is precisely the extension of Taiwan's open source culture from the tech world into public governance.
-- [Audrey Tang](/people/唐鳳) — From g0v participant to the first digital minister, OCF has repeatedly engaged with the Ministry of Digital Affairs under her leadership—both cooperating and keeping watch.
+- [Audrey Tang](/en/people/audrey-tang) — From g0v participant to the first digital minister, OCF has repeatedly engaged with the Ministry of Digital Affairs under her leadership—both cooperating and keeping watch.
 - [Cognitive Warfare](/en/society/cognitive-warfare-against-taiwan) — The disinformation battlefield that the Cofacts fact-checking chatbot combats, and the information manipulation Taiwan faces.
 
 ## Image Credits

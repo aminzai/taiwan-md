@@ -298,13 +298,13 @@ Kemudian kamera beralih ke penghargaan berikutnya.
 
 **Bacaan Lanjutan**:
 
-- [Wei Ruxuan](/people/魏如萱) — Kontras dalam ekosistem musik independen tahun 2010-an, jalur vokal wanita
+- [Wei Ruxuan](/id/people/waa-wei-singer) — Kontras dalam ekosistem musik independen tahun 2010-an, jalur vokal wanita
 - [Constant's Changing Ball](/id/people/constant-and-change-band) — Kontras dalam spektrum post-rock, tetapi mengikuti narasi vokal
 - [Cicada](/id/people/cicada-band) — Mengikuti jalur instrumental penuh tanpa vokal, berlawanan dengan "lirik sebagai sosiologi" Kaodong
 - [Lu Guangzhong](/id/people/crowd-lu-indie-folk-treasure) — Jalur lain dalam musik independen: "penyanyi berbasis karya"
-- [Golden Melody](/music/金曲獎) — Koordinat panggung di mana Kaodong memenangkan Band Terbaik dua kali
+- [Golden Melody](/id/music/pop-music-and-golden-melody-awards) — Koordinat panggung di mana Kaodong memenangkan Band Terbaik dua kali
 - [Musik Independen Taiwan](/id/music/indie-music-scene) — Evolusi musik independen dari Natural Curl ke Kaodong dan Gao Woren
-- [Musik Pop Taiwan](/music/台灣流行音樂) — Lingkungan industri musik pop Mandarin
+- [Musik Pop Taiwan](/id/music/golden-melodies-legacy-taiwan-pop-music) — Lingkungan industri musik pop Mandarin
 
 ## Sumber Gambar
 

@@ -249,11 +249,11 @@ Depois daqueles 102 segundos de 01h47min, Nantou não virou ruína. Virou um con
 
 - [Lago Sun Moon](/pt/geography/sun-moon-lake) — Obra da barragem de Wujie (1934) elevou lago em 18,18 m, maior usina hidrelétrica da Ásia, história completa da realocação thao
 - [Yushan](/pt/geography/yushan-jade-mountain) — 3.952 m, pico mais alto de Taiwan; Parque Nacional Yushan abrange Xinyi (Nantou) / Alishan (Chiayi) / Taoyuan (Kaohsiung) / Zhuoxi (Hualien)
-- [História dos povos indígenas de Taiwan e movimento de reconhecimento](/history/台灣原住民族歷史與正名運動) — Contexto nacional: thao 10º povo (2001), Taroko (2004), seediq (2008)
+- [História dos povos indígenas de Taiwan e movimento de reconhecimento](/pt/history/indigenous-peoples-history-and-naming-movement) — Contexto nacional: thao 10º povo (2001), Taroko (2004), seediq (2008)
 - [Pasibutbut (Polifonia de 8 partes)](/pt/music/bunun-pasibutbut-eight-part-polyphony) — Só nos grupos Luan e Jun dos bunun; a verdade da tribo Mingde
 - [Era pré-histórica e povos indígenas](/pt/history/prehistoric-era-and-indigenous-peoples) — Linha do tempo milenar de seediq, bunun, thao, tsou na Cordilheira Central
 - [Keelung](/pt/geography/keelung-city) — Piloto da série 22 condados: 7º porto de contêineres do mundo (1984) caiu para 113º (2018); como Nantou, condado omitido pela narrativa central
-- [Miaoli](/geography/苗栗縣) — Lote 1 da série 22 condados, condado interiorano irmão: identidade hakka vs dívida dobrada do tesouro do condado; como Nantou, enfrenta "êxodo montanhês + teatro político" duplo
+- [Miaoli](/pt/geography/miaoli-county) — Lote 1 da série 22 condados, condado interiorano irmão: identidade hakka vs dívida dobrada do tesouro do condado; como Nantou, enfrenta "êxodo montanhês + teatro político" duplo
 
 ## Fontes das Imagens
 

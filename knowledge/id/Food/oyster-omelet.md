@@ -15,7 +15,7 @@ tags:
     'Saus',
     'Chips Huayuan',
   ]
-subcategory: 'Makanan Ringan Khas'
+subcategory: '經典小吃'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-26

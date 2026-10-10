@@ -12,7 +12,7 @@ tags:
     'Música dos anos 80',
     'Cultura da juventude',
   ]
-subcategory: 'Cultura Pop'
+subcategory: '流行文化'
 author: 'Taiwan.md Contributors'
 difficulty: 'intermediate'
 readingTime: 16
@@ -28,6 +28,7 @@ imageSource: 'https://music.apple.com/tw/album/逍遥游-2025-remastered/1847895
 translatedFrom: 'Music/小虎隊.md'
 sourceCommitSha: '9094012f4'
 sourceContentHash: 'sha256:1592d113f4d245fb'
+sourceBodyHash: 'sha256:4cfd214b3bc19b4d'
 translatedAt: '2026-09-10T03:38:09.628347+00:00'
 ---
 
@@ -159,7 +160,7 @@ Chen Zhipeng disse que "não quer que os outros o puxem de volta para dentro". M
 
 **Leitura complementar**:
 
-- [Música pop de Taiwan](/music/台灣流行音樂) — Da folk, ao mandopop, à indústria idol: a linhagem completa, onde os Pequenos Tigres são elo chave
+- [Música pop de Taiwan](/pt/music/golden-melodies-legacy-taiwan-pop-music) — Da folk, ao mandopop, à indústria idol: a linhagem completa, onde os Pequenos Tigres são elo chave
 - [Prémio Golden Melody](/pt/music/pop-music-and-golden-melody-awards) — Como Taiwan usa um troféu para definir o que é "bom mandopop"
 - [Jay Chou](/pt/people/jay-chou) — Depois da indústria idol, a outra subjetividade musical em mandarim que Taiwan fez nascer
 - [Mayday](/pt/music/mayday-band) — Também nascidos do local, famosos em todo o mundo sinófono, uma banda que trilhou caminho radicalmente diferente do grupo idol

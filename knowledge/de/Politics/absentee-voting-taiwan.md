@@ -167,9 +167,9 @@ Taiwan hat bereits einen schmalen Spalt aufgestoßen. Arbeitsortwahl der Wahlhel
 
 ## Weiterführende Literatur
 
-- [Geschichte der Wahlrechtsschwellen](/politics/投票權門檻歷史/): Wie Alter, registrierter Wohnort und Identität die Grenzen des Wahlrechts in Taiwan ziehen
+- [Geschichte der Wahlrechtsschwellen](/de/politics/voting-rights-threshold-history/): Wie Alter, registrierter Wohnort und Identität die Grenzen des Wahlrechts in Taiwan ziehen
 - [Wahlprozess](/de/politics/taiwan-election-process/): Von der Stimmzettelabholung bis zur öffentlichen Auszählung – wie das geltende System funktioniert
-- [System der Zentralen Wahlkommission](/politics/中選會制度/): Wer ist für die Gestaltung und Ausführung dieser Wahlverwaltungsprozesse verantwortlich
+- [System der Zentralen Wahlkommission](/de/politics/central-election-commission/): Wer ist für die Gestaltung und Ausführung dieser Wahlverwaltungsprozesse verantwortlich
 
 ## Quellen
 

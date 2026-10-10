@@ -166,7 +166,7 @@ Burung-burung ini hidup di Formosa ribuan tahun. 1863 adalah tahun pertama kali 
 - **→ [Perang Qing-Prancis](/zh-tw/history/清法戰爭)** — Sejarah lain pada masa yang sama tentang pertemuan Formosa dengan Barat, terpisah 22 tahun.
 - **→ [Charles Le Gendre](/zh-tw/people/李仙得)** — Tokoh Barat lain pada era yang sama yang mengubah narasi Formosa, menangani insiden Rover 1867.
 - **→ [Bangau Malam Berjambul Hitam](/zh-tw/nature/黑冠麻鷺)** — Spesimen Bangau Malam Berjambul Hitam yang dikumpulkan Swinhoe di Danshui 1865 adalah salah satu entri nama ini; burung yang dulu "langka", 160 tahun kemudian menjadi pemandangan sehari-hari di kampus dan taman Taipei, kelanjutan paling dramatis dari nama ini.
-- **→ [Beluk Ketupa](/nature/黃魚鴞)** — Salah satu spesies yang tidak tertulis Swinhoe di nama 1863; burung hantu terbesar Taiwan baru dicatat pertama kali oleh Nagamichi Kuroda 1916, adalah perwakilan burung tinggal yang "ditemukan" sejarah alam hanya di akhir masa kolonial Jepang.
+- **→ [Beluk Ketupa](/id/nature/tawny-fish-owl)** — Salah satu spesies yang tidak tertulis Swinhoe di nama 1863; burung hantu terbesar Taiwan baru dicatat pertama kali oleh Nagamichi Kuroda 1916, adalah perwakilan burung tinggal yang "ditemukan" sejarah alam hanya di akhir masa kolonial Jepang.
 
 ---
 
@@ -216,7 +216,7 @@ Referensi sekunder berasal dari Fa-Ti Fan《British Naturalists in Qing China》
 
 [^20]: [Persatuan Burung Liar Republik Tiongkok (Taiwan) — Wikipedia](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E9%87%8E%E9%B3%A5%E5%AD%B8%E6%9C%83) — Didirikan 1988, September 2020 ganti nama Inggris dari "Chinese Wild Bird Federation" menjadi "Taiwan Wild Bird Federation" (TWBF), mencerminkan pergeseran identitas lokal Taiwan dalam organisasi ornitologi.
 
-[^21]: [Pusat Penelitian dan Konservasi Spesies Endemik / Lembaga Penelitian Keanekaragaman Hayati](https://zh.wikipedia.org/zh-tw/%E8%BE%B2%E6%A5%AD%E9%83%A8%E7%94%9F%E7%89%A9%E5%A4%9A%E6%A8%A1%E6%80%A7%E7%A0%94%E7%A9%B6%E6%89%80) — Didirikan 1 Juli 1992 di Jiji, Nantou, nama Inggris Endemic Species Research Institute. Agustus 2023 berubah menjadi Lembaga Penelitian Keanekaragaman Hayati (Biodiversity Research Institute) בעקבות kenaikan status Kementerian Pertanian.
+[^21]: [Pusat Penelitian dan Konservasi Spesies Endemik / Lembaga Penelitian Keanekaragaman Hayati](https://zh.wikipedia.org/zh-tw/%E8%BE%B2%E6%A5%AD%E9%83%A8%E7%94%9F%E7%89%A9%E5%A4%9A%E6%A8%A3%E6%80%A7%E7%A0%94%E7%A9%B6%E6%89%80) — Didirikan 1 Juli 1992 di Jiji, Nantou, nama Inggris Endemic Species Research Institute. Agustus 2023 berubah menjadi Lembaga Penelitian Keanekaragaman Hayati (Biodiversity Research Institute) בעקבות kenaikan status Kementerian Pertanian.
 
 [^22]: [Persatuan Penelitian Raptor Taiwan](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E7%8C%9B%E7%A6%BD%E7%A0%94%E7%A9%B6%E6%9C%83) — Didirikan 1 Agustus 1994, fokus pada riset dan konservasi raptor (elang, rajawali, alap-alap, burung hantu).
 

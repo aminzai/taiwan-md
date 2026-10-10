@@ -14,7 +14,7 @@ tags:
     'VTuber',
     'văn hóa phụ',
   ]
-subcategory: 'Văn hóa mạng'
+subcategory: '網路文化'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-16
@@ -95,15 +95,15 @@ Nằm sau thay thế thế hệ này là quá trình những fan anime từ văn
 
 Sự phát triển của văn hóa anime Đài Loan cho một khuyến cáo quan trọng: ảnh hưởng văn hóa là một quá trình chuyển đổi hai chiều. Đài Loan nhập khẩu anime từ Nhật Bản, nhưng trong vòng 40 năm, chúng tôi đã biến nó thành "văn hóa anime Đài Loan" thông qua lồng tiếng tiếng Trung, triển lâm manga đồng nhân, cosplay, VTuber và những hình thức khác. Loại văn hóa này không hoàn toàn giống với Nhật Bản, cũng không hoàn toàn giống với Trung Quốc——nó có từ vựng riêng, cộng đồng riêng, lộ trình sáng tạo riêng.
 
-Điều này khác với sự phát triển của [Truyện tranh Đài Loan](/art/台灣漫畫), là hai trục khác nhau, nhưng kết dệt với nhau. Truyện tranh quan tâm "ai đã vẽ tác phẩm", văn hóa anime quan tâm "ai đã xem tác phẩm, làm thế nào để xem, và sau khi xem đã làm gì". Một là phía sáng tạo, một là phía tiêu thụ; một là một số ít bậc thầy, một là hành vi tập thể của hàng chục vạn người yêu thích.
+Điều này khác với sự phát triển của [Truyện tranh Đài Loan](/vi/art/taiwanese-comics-and-illustration), là hai trục khác nhau, nhưng kết dệt với nhau. Truyện tranh quan tâm "ai đã vẽ tác phẩm", văn hóa anime quan tâm "ai đã xem tác phẩm, làm thế nào để xem, và sau khi xem đã làm gì". Một là phía sáng tạo, một là phía tiêu thụ; một là một số ít bậc thầy, một là hành vi tập thể của hàng chục vạn người yêu thích.
 
 Hai trục kết hợp lại với nhau, mới là bức tranh hoàn chỉnh của hệ sinh thái anime Đài Loan.
 
 ## Đọc thêm
 
-- [Truyện tranh Đài Loan](/art/台灣漫畫) — Phía sáng tạo truyện tranh: hệ thống hoàn chỉnh của Zheng Wen, Cai Zhizhong, Liu Xingqing, Ao Youxiang, CCC Creative Collection
-- [Lịch sử di cư cộng đồng mạng Đài Loan](/technology/台灣網路社群遷徙史) — Trục di chuyển của những fan anime ở BBS, Nameless Xiaozhan, Facebook, Discord
-- [Threads ở Đài Loan](/technology/Threads在台灣) — Mô hình tập trung cộng đồng hai chiều trên nền tảng mới
+- [Truyện tranh Đài Loan](/vi/art/taiwanese-comics-and-illustration) — Phía sáng tạo truyện tranh: hệ thống hoàn chỉnh của Zheng Wen, Cai Zhizhong, Liu Xingqing, Ao Youxiang, CCC Creative Collection
+- [Lịch sử di cư cộng đồng mạng Đài Loan](/vi/technology/taiwan-online-community-migration) — Trục di chuyển của những fan anime ở BBS, Nameless Xiaozhan, Facebook, Discord
+- [Threads ở Đài Loan](/vi/technology/threads-in-taiwan) — Mô hình tập trung cộng đồng hai chiều trên nền tảng mới
 
 ## Tài liệu tham khảo
 
@@ -113,4 +113,4 @@ Hai trục kết hợp lại với nhau, mới là bức tranh hoàn chỉnh c�
 
 ---
 
-_Kiểm tra lần cuối: 2026-04-19 (Issue #556 được đề xuất bởi @idlccp1984 để manga anime độc lập, nội dung truyện tranh chuyển đến [Truyện tranh Đài Loan](/art/台灣漫畫))_
+_Kiểm tra lần cuối: 2026-04-19 (Issue #556 được đề xuất bởi @idlccp1984 để manga anime độc lập, nội dung truyện tranh chuyển đến [Truyện tranh Đài Loan](/vi/art/taiwanese-comics-and-illustration))_

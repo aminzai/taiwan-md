@@ -5,7 +5,7 @@ date: 2026-03-19
 category: 'People'
 tags:
   ['문학', '향토문학', '이란', '소인물', '아들의 대형인형', '바다를 보는 날']
-subcategory: '문학'
+subcategory: '文學'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

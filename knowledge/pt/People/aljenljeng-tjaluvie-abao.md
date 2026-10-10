@@ -197,10 +197,10 @@ Vale para ela, vale para a próxima geração de músicos indígenas, vale para 
 **Leitura complementar**:
 
 - [Waa Wei (魏如萱)](/pt/people/waa-wei-singer) — Outro caminho da mesma geração para «fazer ouvir vozes não-padrão» no pop mandarim (voz de boneca da Waa Wei × electropop em língua ancestral da Abao, duas linguagens a expandir fronteiras vocais)
-- [Chen Chien-chi (陳建騏)](/people/陳建騏) — Contraponto do produtor de pop mandarim como «autor ausente» (Chen Chien-chi define as fronteiras sonoras do mainstream mandarim, Abao define o future pop em língua ancestral)
+- [Chen Chien-chi (陳建騏)](/pt/people/chen-chien-chi-music-producer) — Contraponto do produtor de pop mandarim como «autor ausente» (Chen Chien-chi define as fronteiras sonoras do mainstream mandarim, Abao define o future pop em língua ancestral)
 - [Tzuyu (周子瑜)](/pt/people/tzuyu) — Outra ponta da estratégia de identidade de músicas taiwanesas da mesma geração (Tzuyu industrialização K-pop vs Abao identidade étnica × produção local)
 - [Golden Melody Awards (金曲獎)](/pt/music/pop-music-and-golden-melody-awards) — Significado estrutural da primeira vez que uma obra em língua ancestral leva o Álbum do Ano no Golden Melody 31 de 2020
-- [Pop Music of Taiwan (台灣流行音樂)](/music/台灣流行音樂) — Divisor de águas de 2020: música em língua ancestral da margem para o palco principal
+- [Pop Music of Taiwan (台灣流行音樂)](/pt/music/golden-melodies-legacy-taiwan-pop-music) — Divisor de águas de 2020: música em língua ancestral da margem para o palco principal
 - [Mapa Cultural das 16 Etnias Indígenas de Taiwan (台灣原住民族16族文化地圖)](/pt/culture/indigenous-peoples-16-tribes-cultural-map) — Língua paiwan, aldeias, formas artísticas na atualidade
 - [Política Linguística dos Povos Indígenas (原住民族語言政策)](/society/原住民族語言政策) — Contexto político da revitalização linguística e complementaridade com a prática musical tipo Abao
 - [Huang Shao-yong (黃少雍)](/pt/people/huang-shao-yong-musician) — Coprodutor de _kinakaian Língua da Mãe_; os dois lideram o curso «Desmistificação da Produção Electropop MINETJUS» em língua ancestral, já na 5ª edição

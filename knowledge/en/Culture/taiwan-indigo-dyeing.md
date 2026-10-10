@@ -4,7 +4,7 @@ description: 'In August 1999, Chen Ching-lin guided the Sanxia Dye Workshop in p
 date: 2026-07-05
 author: 'Taiwan.md'
 category: 'Culture'
-subcategory: 'Crafts and Aesthetics'
+subcategory: '工藝與美學'
 tags:
   - 'Indigo Dyeing'
   - 'Sanxia'
@@ -175,7 +175,7 @@ The color in the dye vat has come alive. As for what form this vat of color will
 
 ## Further Reading
 
-- [Traditional Taiwanese Crafts and Intangible Cultural Heritage](/culture/台灣傳統工藝與無形文化資產) — Sanxia indigo revival's position within Taiwan's craft preservation system, and the larger context of "folk first, institutional ratification later"
+- [Traditional Taiwanese Crafts and Intangible Cultural Heritage](/en/culture/traditional-crafts-intangible-cultural-heritage) — Sanxia indigo revival's position within Taiwan's craft preservation system, and the larger context of "folk first, institutional ratification later"
 - [Sanxia Old Street](/en/history/sanxia-old-street) — Sanxia Old Street's architectural preservation history; this article discusses the craft itself, that article discusses streets and monuments
 - [Hakka Culture and Language](/en/culture/hakka-culture-and-language) — The more complete ethnic cultural context behind Hakka blue shirts and big-front shirts
 - [Taiwan Floral Fabric](/en/culture/taiwan-floral-fabric) — Another dyeing pattern once viewed as a Hakka symbol, later found to have a more complex origin
@@ -206,7 +206,7 @@ This article uses 5 public-licensed images, all cached in `public/article-images
 
 [^7]: [Joye Cultural Market Official About Page](https://www.joye.com.tw/shop/about.php?PKey=18) — Data on indigo grass restoration area, annual indigo yield, and island-wide proportion
 
-[^8]: [Howdy.tw: Blurred Stone Carving in Sanxia Ancient Residence, Shockingly Hiding Last Century's Indigo Legend](https://howdy.tw/2018/08/21/%E4%B8%89%E5%B3%BD%E5%8F%A4%E5%AE%B5%E7%9A%84%E6%A8%A1%E7%B3%8A%E7%9F%B3%E5%88%BB-%E9%A9%9A%E8%97%8F%E4%B8%8A%E4%B8%96%E7%B4%80%E7%9A%84%E8%97%8D%E6%9F%93%E5%82%B3%E5%A5%87/) — 1990–1999 Sanxia revival timeline, Ma Fen-mei recruitment and Chen Ching-lin guidance verbatim reporting
+[^8]: [Howdy.tw: Blurred Stone Carving in Sanxia Ancient Residence, Shockingly Hiding Last Century's Indigo Legend](https://howdy.tw/2018/08/21/%E4%B8%89%E5%B3%BD%E5%8F%A4%E5%AE%85%E7%9A%84%E6%A8%A1%E7%B3%8A%E7%9F%B3%E5%88%BB-%E9%A9%9A%E8%97%8F%E4%B8%8A%E4%B8%96%E7%B4%80%E7%9A%84%E8%97%8D%E6%9F%93%E5%82%B3%E5%A5%87/) — 1990–1999 Sanxia revival timeline, Ma Fen-mei recruitment and Chen Ching-lin guidance verbatim reporting
 
 [^9]: [Ministry of Culture National Cultural Memory Bank: Sanxia Craft Indigo](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Invisible&id=218457) — "Finding Lost Sanxia Blue" 1990 launch and New Taipei City 2010 elevation administrative history
 
@@ -240,7 +240,7 @@ This article uses 5 public-licensed images, all cached in `public/article-images
 
 [^24]: [Taiwan Craft Quarterly: Development and Transformation of Sanxia Indigo Industry (Lin Hsiung-jen)](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclcdr&s=id=%22094NTPU0548006%22.&searchmode=basic) — Wang Shih-ching's "History of Haishan Volume I" (_Taipei Literature_ Issue 37, 1976) "ramie, indigo second" and Qianlong 57 Balibao port opening major export verbatim quotes
 
-[^25]: [Wikipedia: Taiwan Camphor Industry](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%A8%B9%E8%85%A6%E7%94%A2%E6%A5%AD) — Post-port-opening standard export framework tea ~54% / sugar ~36% / camphor ~4%
+[^25]: [Wikipedia: Taiwan Camphor Industry](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%A8%9F%E8%85%A6%E7%94%A2%E6%A5%AD) — Post-port-opening standard export framework tea ~54% / sugar ~36% / camphor ~4%
 
 [^26]: [Taiwan Master's and Doctoral Dissertation Knowledge Value System: From Dye to Workshop (Tsai Cheng-hao, 2002)](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclcdr&s=id=%22090NCNU0493002%22.&searchmode=basic) — 1870s export pattern shift from raw material export to finished cloth export turning point
 

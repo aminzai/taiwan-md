@@ -12,7 +12,7 @@ tags:
     'văn hóa mạng Đài Loan',
     'lao động sáng tạo',
   ]
-subcategory: 'Kỹ thuật số và truyền thông'
+subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-15

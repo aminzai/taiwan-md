@@ -12,7 +12,7 @@ tags:
     'Katup Pengaman Sosial',
     'Meme Klasik',
   ]
-subcategory: 'Budaya Internet'
+subcategory: '網路文化'
 author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 12
@@ -23,6 +23,7 @@ curation: 'incubating'
 translatedFrom: 'Culture/台灣迷因.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:b657d4be12937550'
+sourceBodyHash: 'sha256:758baf07e7746d38'
 translatedAt: '2026-08-04T14:51:19.734415+00:00'
 ---
 
@@ -103,7 +104,7 @@ Menatap kembali tiga puluh tahun, budaya meme Taiwan memantulkan kompleksitas pu
 
 - [PTT批踢踢](/id/technology/ptt-bulletin-board-system) — Tempat lahir mayoritas meme dan budaya "xiangmin" Taiwan
 
-- [馬英九迷因](/society/馬英九迷因) — Studi kasus klasik pememetan tokoh politik
+- [馬英九迷因](/id/society/ma-ying-jeou-meme) — Studi kasus klasik pememetan tokoh politik
 
 - [長輩圖](/id/culture/elder-greeting-images) — Jalur penyebaran internet khas Taiwan lainnya
 

@@ -4,7 +4,7 @@ description: "Seorang desainer informasi yang dikenal dengan update harian selam
 date: 2026-04-20
 author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: 'Digital dan Media'
+subcategory: '數位與媒體'
 tags:
   ['Zhang Zhiqi', 'Zhiqi Qiqi', 'Desain Informasi', 'YouTuber', 'Isu Sosial']
 readingTime: 10

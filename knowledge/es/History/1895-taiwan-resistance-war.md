@@ -134,7 +134,7 @@ Aquel tigre amarillo está en una vitrina del museo. Está en silencio. La histo
 
 [^3]: [Tratado de Shimonoseki, Wikipedia](https://zh.wikipedia.org/wiki/%E9%A6%AC%E9%97%9C%E6%A2%9D%E7%B4%84) — Firmado el 17 de abril de 1895 por Li Hongzhang e Ito Hirobumi en Shimonoseki; la corte Qing cedió Taiwán y Penghu a Japón de forma permanente.
 
-[^4]: [Qiu Fengjia, Wikipedia](httpshttps://zh.wikipedia.org/wiki/%E4%B8%98%E9%80%A2%E7%94%B2) — Qiu Fengjia, candidato a funcionario imperial de origen taiwanés en Pekín, organizó una petición colectiva oponiéndose a la cesión. «El canciller tiene poder para ceder tierras, el ministro solitario no tiene fuerza para hacer volver el cielo» procede de su poema _Lí Tái Shī_ (Poema de partida de Taiwán).
+[^4]: [Qiu Fengjia, Wikipedia](https://zh.wikipedia.org/wiki/%E4%B8%98%E9%80%A2%E7%94%B2) — Qiu Fengjia, candidato a funcionario imperial de origen taiwanés en Pekín, organizó una petición colectiva oponiéndose a la cesión. «El canciller tiene poder para ceder tierras, el ministro solitario no tiene fuerza para hacer volver el cielo» procede de su poema _Lí Tái Shī_ (Poema de partida de Taiwán).
 
 [^5]: [Republic of Formosa, Wikipedia](https://en.wikipedia.org/wiki/Republic_of_Formosa) — Fundada el 23 de mayo de 1895. Era «Yongqing» (永清), que significa «perpetuamente perteneciente a la Gran Qing». Bandera: tigre amarillo sobre fondo azul. Incluye el proceso de fundación, la reacción internacional y el desenlace.
 

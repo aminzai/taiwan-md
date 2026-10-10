@@ -139,10 +139,10 @@ Die Akkumulation einer peripheren Plattform ist wichtiger als ihr „Leben“.
 
 ## Weiterführende Lektüre
 
-- [Bildung und kultureller Aufbau in Taiwan](/art/台灣策展人與藝術文化建構) – Die Entwicklung und die Bildungsstrategien der Generation taiwanesischer Kuratoren wie Kosan Nobuo
-- [Neue Medienkunst in Taiwan](/art/台灣新媒體藝術) – Vier Jahrzehnte der digitalen Kunstgeschichte von Video durch Yuan Guangming bis zu VR und generativer Kunst, Cheng Wen-chis Kritikpfad parallel zu dieser Hauptlinie
+- [Bildung und kultureller Aufbau in Taiwan](/de/art/taiwanese-curators-and-artistic-cultural-construction) – Die Entwicklung und die Bildungsstrategien der Generation taiwanesischer Kuratoren wie Kosan Nobuo
+- [Neue Medienkunst in Taiwan](/de/art/taiwan-new-media-art) – Vier Jahrzehnte der digitalen Kunstgeschichte von Video durch Yuan Guangming bis zu VR und generativer Kunst, Cheng Wen-chis Kritikpfad parallel zu dieser Hauptlinie
 - [Klanglandschaften Taiwans](/de/music/taiwan-soundscape) – Klangkünstler wie Wang Fu-rui, Yao Zhonghan und Chang Yongda wurden oft tiefgehend in der Sound Scene Kategorie von „Digitales Wüstenland“ behandelt
-- [Zeitgenössische Kunst](/art/當代藝術) – Ein Überblick über das gesamte Ökosystem der zeitgenössischen Kunst in Taiwan; nach dem Inselgruppen-Framework von Cheng Wen-chi kann eine vollständige Diskurskarte erstellt werden.
+- [Zeitgenössische Kunst](/de/art/contemporary-art) – Ein Überblick über das gesamte Ökosystem der zeitgenössischen Kunst in Taiwan; nach dem Inselgruppen-Framework von Cheng Wen-chi kann eine vollständige Diskurskarte erstellt werden.
 - [Indigene zeitgenössische Kunst Taiwans](/de/art/contemporary-indigenous-art-taiwan) – Ein Bereich, den NML weniger berührt hat; beim Lesen kann man die potenzielle Schnittmenge mit der „Hypothese des Ursprungslandes der südlichen Inselgruppenfamilie“ herstellen.
 
 ## Quellenverzeichnis

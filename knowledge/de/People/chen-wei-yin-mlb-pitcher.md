@@ -3,7 +3,16 @@ title: 'Chen Wei-yin'
 description: 'Der Linkshänder, der einen 2,5-Milliarden-NT$-Höchstvertrag unterschrieb, aber nur 47 % tatsächlich erhielt'
 date: 2026-03-22
 category: 'People'
-tags: ['Personen', 'Baseball', 'Sport', 'Profisportler', 'MLB', 'NPB', 'Japanische Liga']
+tags:
+  [
+    'Personen',
+    'Baseball',
+    'Sport',
+    'Profisportler',
+    'MLB',
+    'NPB',
+    'Japanische Liga',
+  ]
 subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
@@ -14,6 +23,7 @@ curation: incubating
 translatedFrom: 'People/陳偉殷.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:257cf55177cb05b1'
+sourceBodyHash: 'sha256:7ce7a4f8a7dcd5c0'
 translatedAt: '2026-08-13T04:15:00+08:00'
 ---
 
@@ -65,9 +75,9 @@ Doch die Geschichte ist noch nicht zu Ende. Selbst nach der Freigabe erhielt Che
 
 Bis 2025 machte Chen die finanzielle Wahrheit öffentlich: **„Ich habe tatsächlich nur 47 % erhalten.“** Bundessteuer, Landessteuer, Agenten-Kommission, Versicherungskosten – Schicht um Schicht schrumpfte die 2,5 Milliarden auf 1,175 Milliarden. Für normale Menschen bleibt das eine astronomische Zahl, doch die riesige Lücke lässt die wirtschaftliche Struktur des Profisports neu denken.
 
-| 46-32-Rekord                 | 13-16-Rekord                  |
-| ---------------------------- | ----------------------------- |
-| Orioles-Ära (2012-2015)      | Marlins-Ära (2016-2019)       |
+| 46-32-Rekord                   | 13-16-Rekord                    |
+| ------------------------------ | ------------------------------- |
+| Orioles-Ära (2012-2015)        | Marlins-Ära (2016-2019)         |
 | ERA 3,72, galt als zuverlässig | ERA 5,10, Wert wurde bezweifelt |
 
 ## Wang Chien-ming und Chen Wei-yin: Zwei Generationen taiwanesischen Stolzes

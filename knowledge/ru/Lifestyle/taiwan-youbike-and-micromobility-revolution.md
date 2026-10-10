@@ -118,9 +118,9 @@ YouBike в городском транспорте Тайваня имеет я�
 
 ## Дополнительное чтение
 
-- [Тайваньская транспортная система](/lifestyle/台灣交通系統) — YouBike является последней милей этой системы, в статье добавлен более высокий контекст
+- [Тайваньская транспортная система](/ru/lifestyle/transportation-system) — YouBike является последней милей этой системы, в статье добавлен более высокий контекст
 - [История развития метро Тайваня](/ru/lifestyle/history-of-taiwan-mrt-development) — Почему YouBike должен соединяться с метро? Как это стало повседневной инфраструктурой
-- [Климатический кризис Тайваня и переход к нулевому выбросу](/nature/台灣氣候危機與淨零轉型) — Микротранспорт в контексте 28 % доли зеленого транспорта
+- [Климатический кризис Тайваня и переход к нулевому выбросу](/ru/nature/taiwan-climate-change-net-zero-transition) — Микротранспорт в контексте 28 % доли зеленого транспорта
 
 [^1]: [Reporter: Тайбэйский YouBike — популярный? Сложнее ли взять после бесплатных 30 минут?](https://www.twreporter.org/a/data-reporter-taipei-youbike-free-ride-for-the-first-30-minutes) — 2024‑годовый отчёт, включающий дневные пики, коэффициент наличия и анализ регулирования.
 
@@ -132,4 +132,4 @@ YouBike в городском транспорте Тайваня имеет я�
 
 [^5]: [Government Open Data Platform: YouBike2.0 Taipei City public bicycle real‑time information](https://data.gov.tw/dataset/137993) — источник данных о станциях, обновляемый каждые 1 минуту.
 
-[^6]: [Ministry of Transportation: 113-year survey of daily transportation usage by the public](https://www.motc.gov.tw/ch/app/data/doc?detailNo=1389089679046873088&id=56&module=survey&serno=202506190000&type=) — национальные данные о количестве транспортных средств, городском транспорте и зеленом транспорте.
+[^6]: [Ministry of Transportation: 113-year survey of daily transportation usage by the public](https://www.motc.gov.tw/ch/app/data/doc?detailNo=1389089679046873088&id=56&module=survey&serno=202506190000&type=s) — национальные данные о количестве транспортных средств, городском транспорте и зеленом транспорте.

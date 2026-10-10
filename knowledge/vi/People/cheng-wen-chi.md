@@ -131,11 +131,11 @@ Một nền tảng biên giới tích lũy 12 năm, quan trọng hơn cả việ
 
 ## Đọc thêm
 
-- [Nhà hội tụng Đài Loan và xây dựng văn hóa nghệ thuật](/art/台灣策展人與藝術文化建構) — các nhà hội tụng thế hệ mới (bao gồm cả những người tham gia NML) phát triển xu hướng diễn đạt và hình ảnh hoá
-- [Nghệ thuật số Đài Loan](/art/台灣新媒體藝術) — 40 năm lịch sử nghệ thuật số từ video của Yuan Guang Ming đến VR, nghệ thuật sinh ra, đường cong phản tác học của Trường Văn Kỷ song hành
-- [Vườn âm thanh Đài Loan](/music/台灣聲音地景) — các nghệ sĩ âm thanh như Vương Phúc Nhân, Yao Zhong Hán, Truong Thanh Đạc, phần lớn tác phẩm đều được “Sa Land số” Sound Scene category phản tác học sâu
-- [Nghệ thuật hiện đại](/art/當代藝術) — tầng trên của sinh thái nghệ thuật hiện đại Đài Loan, bổ sung khung Nusantara của Trường Văn Kỷ để thấy được bản đồ diễn giải hoàn chỉnh
-- [Nghệ thuật hiện đại người gốc Đài Loan](/art/台灣原住民當代藝術) — lĩnh vực ít được NML chạm đến, đọc khi cần so sánh với giả thuyết “ngôn ngữ Ancestral” và khả năng giao thoa của khung Nusantara
+- [Nhà hội tụng Đài Loan và xây dựng văn hóa nghệ thuật](/vi/art/taiwanese-curators-and-artistic-cultural-construction) — các nhà hội tụng thế hệ mới (bao gồm cả những người tham gia NML) phát triển xu hướng diễn đạt và hình ảnh hoá
+- [Nghệ thuật số Đài Loan](/vi/art/taiwan-new-media-art) — 40 năm lịch sử nghệ thuật số từ video của Yuan Guang Ming đến VR, nghệ thuật sinh ra, đường cong phản tác học của Trường Văn Kỷ song hành
+- [Vườn âm thanh Đài Loan](/vi/music/taiwan-soundscape) — các nghệ sĩ âm thanh như Vương Phúc Nhân, Yao Zhong Hán, Truong Thanh Đạc, phần lớn tác phẩm đều được “Sa Land số” Sound Scene category phản tác học sâu
+- [Nghệ thuật hiện đại](/vi/art/contemporary-art) — tầng trên của sinh thái nghệ thuật hiện đại Đài Loan, bổ sung khung Nusantara của Trường Văn Kỷ để thấy được bản đồ diễn giải hoàn chỉnh
+- [Nghệ thuật hiện đại người gốc Đài Loan](/vi/art/contemporary-indigenous-art-taiwan) — lĩnh vực ít được NML chạm đến, đọc khi cần so sánh với giả thuyết “ngôn ngữ Ancestral” và khả năng giao thoa của khung Nusantara
 
 ## Tài liệu tham khảo
 

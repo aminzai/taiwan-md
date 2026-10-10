@@ -91,7 +91,7 @@ Seiring perubahan zaman, nasi minyak juga menghadapi tantangan modernisasi.
 **Baca Lanjutan**:
 
 - [Jajanan Taiwan](/id/food/taiwanese-street-food) — Latar belakang budaya jajanan Taiwan tempat nasi minyak berada
-- [Masakan Pesta Panggung Taiwan](/food/台灣手路菜) — Posisi teknik nasi minyak dan alur pesta dalam budaya pesta panggung
+- [Masakan Pesta Panggung Taiwan](/id/food/taiwan-specialty-home-cooking) — Posisi teknik nasi minyak dan alur pesta dalam budaya pesta panggung
 
 ## Referensi
 

@@ -23,6 +23,7 @@ imageAlt: 'Musim panen kentang di Aroostook County, Maine, Amerika Serikat (1940
 translatedFrom: 'Society/毒馬鈴薯認知作戰.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:9680a9c97c074b94'
+sourceBodyHash: 'sha256:891cffde295deb7f'
 translatedAt: '2026-09-26T06:13:43.168977+00:00'
 ---
 
@@ -316,7 +317,7 @@ Shen Boyang pernah mengatakan kalimat yang lebih tinggi lagi: "Pembentukan kesad
 
 ## Bacaan Lanjutan
 
-- [Perang Kognitif](/society/認知作戰) — Kerangka kerja keseluruhan manipulasi informasi Tiongkok dan mekanisme penangkal masyarakat Taiwan
+- [Perang Kognitif](/id/society/cognitive-warfare-against-taiwan) — Kerangka kerja keseluruhan manipulasi informasi Tiongkok dan mekanisme penangkal masyarakat Taiwan
 - [Pertemuan Zheng-Xi 2026 dan Pertemuan Ulang Sepuluh Tahun Kuomintang-Komunis](/id/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Titik balik lain dalam hubungan lintas selat pada periode yang sama
 - [Krisis Selat Taiwan dan Perkembangan Hubungan Lintas Selat](/id/history/taiwan-strait-crises-and-cross-strait-relations) — Konteks sejarah jangka panjang narasi "bukti kesetiaan"
 - [Tsai Ing-wen](/id/people/tsai-ing-wen) — Pengambil keputusan kebijakan daging babi berisi ractopamine 2020-2021, lapisan sebelum bekas luka

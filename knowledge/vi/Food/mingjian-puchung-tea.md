@@ -3,7 +3,7 @@ title: 'Trà Puchung tại Nam Chiến: Những anh hùng tên không giúp Đà
 description: "Năm 2025 tranh cãi nhà khói tại Nam Chiến, ngầm khám phá 80% nguyên liệu chính cho trà sữa Đài Loan đến từ Nam Đảo Nam Chiến. Từ danh vọng 'Tam Phú Trung' thế kỷ 18 đến năm 1975 đổi tên thành 'Trà xanh đồng bão', đất liền chỉ cao 400 mét này đang trải qua một cuộc chiến bảo vệ quyền sống bảo vệ vùng trà."
 date: 2026-04-25
 category: 'Food'
-subcategory: 'Văn hóa uống nước'
+subcategory: '飲品文化'
 tags:
   [
     'Thị xã Nam Chiến',
@@ -91,7 +91,7 @@ Lần sau, khi bạn cầm một ly trà xanh xuân, hãy nhớ rằng hương v
 
 [^8]: [Trà truyền thống bằng phương pháp thủ công — phim tài liệu về trà Puchung Nam Chiến Trần Mão Tôn](https://www.youtube.com/watch?v=okNchAZNero) — YouTube, "Trà làm bằng phương pháp truyền thống có mùi hương sâu hơn, uống có nhiều lớp"
 
-[^9]: [Trà Puchung Nam Chiến vụ viện môi trường lại phá hoại, tế bào phản đối ném "bánh quy dở chết" và "trà đá dở chết"](https://tw.news.yahoo.com/%E5%90%8D%E9%96%93%E9%84%89%E7%84%9E%E5%8C%96%E7%88%90%E7%92%B0%E8%A9%95%E5%86%8D%E7%88%86%E7%88%80%E8%AD%B0-%E8%87%AA%E6%95%91%E6%9C%83%E5%94%B1%E6%AD%89-%E6%92%92%E8%8C%B6%E8%8F%81-%E9%80%81-%E6%9C%AB%E6%97%A5%E7%8F%8D%E5%A5%B6-021700627.html) — Báo Yahoo, vụ việc phản đối vụ viện môi trường thứ hai năm 2026
+[^9]: [Trà Puchung Nam Chiến vụ viện môi trường lại phá hoại, tế bào phản đối ném "bánh quy dở chết" và "trà đá dở chết"](https://tw.news.yahoo.com/%E5%90%8D%E9%96%93%E9%84%89%E7%84%9A%E5%8C%96%E7%88%90%E7%92%B0%E8%A9%95%E5%86%8D%E7%88%86%E7%88%AD%E8%AD%B0-%E8%87%AA%E6%95%91%E6%9C%83%E5%94%B1%E6%AD%8C-%E6%92%92%E8%8C%B6%E8%8F%81-%E9%80%81-%E6%9C%AB%E6%97%A5%E7%8F%8D%E5%A5%B6-021700627.html) — Báo Yahoo, vụ việc phản đối vụ viện môi trường thứ hai năm 2026
 
 [^10]: [Khảo sát sai lệch về vụ việc nhà khói tại Nam Đảo, xuyên tạc dân chủ và chuyên môn](https://www.taiwanwatch.org.tw/node/1662) — Bảo vệ Đài Loan, bàn tay giám đốc cơ quan môi trường bị tranh cãi về tác động đến lá trà
 

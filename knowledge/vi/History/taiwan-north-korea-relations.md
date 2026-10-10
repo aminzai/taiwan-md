@@ -112,7 +112,7 @@ Sự chuyển đổi của Bắc Kim về mô hình "lý thuyết hai quốc gia
 ## Đọc thêm
 
 - [Rời Liên Hợp Quốc](/vi/history/withdrawal-from-united-nations) — Vị trí quốc tế của Đài Loan đang trải qua quá trình biến đổi cấu trúc
-- [Thương mại xuất khẩu của Đài Loan và chuỗi cung ứng toàn cầu](/economy/台灣外貿與全球供應鏈) — Cách thức xuất khẩu định hình các kênh thương mại xám
+- [Thương mại xuất khẩu của Đài Loan và chuỗi cung ứng toàn cầu](/vi/economy/taiwan-foreign-trade-and-global-supply-chain) — Cách thức xuất khẩu định hình các kênh thương mại xám
 
 ## Tài liệu tham khảo
 

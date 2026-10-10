@@ -116,7 +116,7 @@ _図：嘉義市が小緑人歩行者信号脇に火雞画像灯箱を追加設�
 
 **延伸閲読**：[DDR Museum：東ドイツ交通信号人](https://www.ddr-museum.de/en/blog/2016/what-remains-of-the-gdr-the-east-german-traffic-light-man)、[泛科學：小緑人転倒都市伝説](https://pansci.asia/archives/328699)、[交通部第 207 条修正公告](https://motclaw.motc.gov.tw/webMotcLaw2018/Home/NewsDetail?LawID=E0060034&lawType=1)。
 
-## 參考資料
+## 参考資料
 
 [^1]: [Google Doodles：Xiaolüren’s 17th birthday](https://doodles.google/doodle/xiaolurens-17th-birthday/) — Google が 2016 年に公開した公式説明。東ベルリン静止人形の背景、および台北市が倒数計時を導入し残り時間に応じて歩調を変える設計を加えたことを記録。
 

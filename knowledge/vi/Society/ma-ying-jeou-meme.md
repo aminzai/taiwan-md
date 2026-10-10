@@ -18,7 +18,7 @@ tags:
     'xã hội',
     'văn hóa',
   ]
-subcategory: 'Truyền thông và Chính luận'
+subcategory: '媒體與言論'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-21
@@ -153,9 +153,9 @@ Sự hình thành và lan truyền của các meme Mã Anh Cửu, không chỉ l
 
 ## Đọc thêm
 
-- [Mã Anh Cửu](/vi/people/ma-ying-jeou) — Tiểu sử của nhân vật chính của meme: Người người làm thuyêt phục hai bờ eo biển, biểu tượng của thế hệ lương 22,000 đồng, hiểu rõ bối cảnh chính trị đằng sau những meme
-- [Meme Đài Loan](/vi/culture/taiwan-memes) — Tổng quan hệ sinh thái meme Đài Loan:百科 người dùng PTT, ảnh chú thích già, những loại tiến hóa của nhân vật ma thuật Vtube
-- [Ảnh chú thích già](/vi/culture/boomer-images) — Một con đường lan truyền meme chính trị khác: Từ nhóm LINE truyền đi ngôn ngữ chính trị hình ảnh
+- [Mã Anh Cửu](/vi/people/ma-ying-jeou-cross-strait-reconciliation-leader) — Tiểu sử của nhân vật chính của meme: Người người làm thuyêt phục hai bờ eo biển, biểu tượng của thế hệ lương 22,000 đồng, hiểu rõ bối cảnh chính trị đằng sau những meme
+- [Meme Đài Loan](/vi/culture/taiwan-meme-culture) — Tổng quan hệ sinh thái meme Đài Loan:百科 người dùng PTT, ảnh chú thích già, những loại tiến hóa của nhân vật ma thuật Vtube
+- [Ảnh chú thích già](/vi/culture/elder-greeting-images) — Một con đường lan truyền meme chính trị khác: Từ nhóm LINE truyền đi ngôn ngữ chính trị hình ảnh
 
 ## Các nguồn tham khảo
 

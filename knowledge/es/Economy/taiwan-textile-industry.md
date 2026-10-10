@@ -67,8 +67,8 @@ Zhou Li-ping, presidente de Juyang, dijo al pasar el testigo a su sucesor, Zhou 
 
 ## Lectura adicional
 
-- [Economía circular y reutilización de recursos en Taiwán](/economy/taiwan-circular-economy-and-resource-reuse) — Contexto de la economía de botella a ropa
-- [Mejora y transición industrial en Taiwán](/economy/taiwan-industrial-upgrading) — Marco más amplio de la transformación industrial
+- [Economía circular y reutilización de recursos en Taiwán](/es/economy/circular-economy-and-resource-recycling) — Contexto de la economía de botella a ropa
+- [Mejora y transición industrial en Taiwán](/es/economy/industrial-transformation-from-manufacturing-to-innovation) — Marco más amplio de la transformación industrial
 
 ## Referencias y fuentes
 

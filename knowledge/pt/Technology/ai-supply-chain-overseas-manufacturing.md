@@ -198,7 +198,7 @@ Esta é a pergunta mais importante da expansão no exterior da cadeia de abastec
 - [Cadeia de abastecimento de hardware de IA](/pt/technology/ai-hardware-supply-chain) — Por que o mundo precisa de Taiwan para transformar procura da nuvem em máquinas.
 - [Cadeia de abastecimento de hardware de IA](/pt/technology/ai-hardware-supply-chain) — Da GPU ao rack, como ODM/EMS de Taiwan recebem hardware de centros de dados de IA.
 - [Eletricidade e semicondutores de Taiwan](/pt/technology/taiwan-electricity-and-semiconductors) — Como fabricação avançada regressa à eletricidade e segurança energética.
-- [Água para semicondutores e recursos hídricos de Taiwan](/technology/半導體用水與台灣水資源) — Como fábricas de wafers entram em barragens, secas e governação de água reutilizada.
+- [Água para semicondutores e recursos hídricos de Taiwan](/pt/technology/semiconductor-water-use-and-taiwan-water-resources) — Como fábricas de wafers entram em barragens, secas e governação de água reutilizada.
 - [Empresa de Taiwan: TSMC](/pt/economy/tsmc) — Como o modelo foundry da TSMC reescreveu a divisão global de trabalho de semicondutores.
 - [Empresa de Taiwan: Foxconn Precision](/pt/economy/foxconn-precision-industry) — Da fabricação por encomenda eletrónica a servidores de IA e hardware de centros de dados.
 - [Empresa de Taiwan: Delta Electronics](/pt/economy/delta-electronics-taiwan-power-giant) — Como fontes de alimentação, refrigeração e gestão de energia se tornaram parte da infraestrutura de IA.

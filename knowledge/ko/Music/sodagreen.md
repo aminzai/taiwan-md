@@ -13,7 +13,7 @@ tags:
     '비발디 프로젝트',
     '린웨이저',
   ]
-subcategory: '인디와 록'
+subcategory: '獨立與搖滾'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-09

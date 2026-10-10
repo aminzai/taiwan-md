@@ -232,9 +232,9 @@ Lần tới bạn tắc ở dòng xe Đường quốc gia, nhìn vào mốc km b
 
 ## Đọc thêm
 
-- [Hầm Tuyết Sơn](/technology/雪山隧道) — Bài viết này chỉ nhẹ chạm phần lịch sử công trình đó, bốn lăng sa thạch, năm kỹ thuật lớn, TBM mười ba năm chiến đấu hoàn chỉnh đều có bài viết khác.
-- [Mười đại công trình](/history/十大建設) — Trung ương Sơn chỉ là đầu tiên trong mười đại công trình, bài viết này thấy toàn bộ bộ xây dựng hạ tầng thời kỳ độc tài và tranh chấp.
-- [Thời kỳ thiết quân luật](/history/戒嚴時期) — Tại sao "đại giá của thời kỳ độc tài" từ "không thể lưu lại ghi chép phản đối", câu trả lời nằm trong phần lịch sử quản lý tin tức thời kỳ này.
+- [Hầm Tuyết Sơn](/vi/technology/hsuehshan-tunnel) — Bài viết này chỉ nhẹ chạm phần lịch sử công trình đó, bốn lăng sa thạch, năm kỹ thuật lớn, TBM mười ba năm chiến đấu hoàn chỉnh đều có bài viết khác.
+- [Mười đại công trình](/vi/history/ten-major-construction-projects) — Trung ương Sơn chỉ là đầu tiên trong mười đại công trình, bài viết này thấy toàn bộ bộ xây dựng hạ tầng thời kỳ độc tài và tranh chấp.
+- [Thời kỳ thiết quân luật](/vi/history/martial-law-era) — Tại sao "đại giá của thời kỳ độc tài" từ "không thể lưu lại ghi chép phản đối", câu trả lời nằm trong phần lịch sử quản lý tin tức thời kỳ này.
 
 ## Nguồn Hình Ảnh
 

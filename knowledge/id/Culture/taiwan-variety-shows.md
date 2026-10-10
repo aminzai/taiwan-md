@@ -108,7 +108,7 @@ Jika _Qunxinghui_ pada tahun 1962 membawa klub malam ke ruang tamu, maka hiburan
 ## Bacaan Lanjutan
 
 - [Lin Youjia](/id/people/yoga-lin) — Pemenang pertama _Super Star Road_ pada tahun 2007, salah satu contoh paling representatif dari mekanisme penciptaan bintang televisi di Taiwan
-- [Penghargaan Golden Bell](/culture/金鐘獎) — Penghargaan yang dicantumkan setiap tahun dalam upacara kategori program hiburan, berkembang dari penghargaan siaran murni pada tahun 1965 menjadi tiga acara saat ini
+- [Penghargaan Golden Bell](/id/culture/golden-bell-awards) — Penghargaan yang dicantumkan setiap tahun dalam upacara kategori program hiburan, berkembang dari penghargaan siaran murni pada tahun 1965 menjadi tiga acara saat ini
 
 ## Referensi
 

@@ -42,6 +42,7 @@ sporeLinks:
 translatedFrom: 'Society/外送專法.md'
 sourceCommitSha: '83975eef3'
 sourceContentHash: 'sha256:2e2432d1a718986d'
+sourceBodyHash: 'sha256:725b400b5a230de4'
 translatedAt: '2026-09-26T12:40:59.358670+00:00'
 ---
 
@@ -381,7 +382,7 @@ Am vierten Tag nach Inkrafttreten fragt die nationale Gewerkschaft der Lieferbra
 - [Nachtmarktkultur](/de/food/night-market-culture) — Vor den Plattformen: Wie Taiwans Volksgastronomie funktionierte und ihre Preise festlegte
 - [Taiwans Handgeschüttelte-Getränke-Kultur](/de/food/hand-shaken-drink-culture) — Von Straßenständen in die Welt: Handgeschüttelte-Getränke-Marken, die auch das andere Ende der Plattform-Provisionen sind
 - [PX Mart](/de/economy/pxmart-supermarket) — Der lokale Vertriebskanal auf der Linie der Frische- und Lebensmittellieferung
-- [Phthalat-Lebensmittelskandal](/society/苯駢芘食安事件) — Im selben Monat, in dem das Spezialgesetz in Kraft trat, war das Bento, das der Lieferbote vor die Tür brachte, der nachgelagerte Teil dieses Lebensmittelskandals
+- [Phthalat-Lebensmittelskandal](/de/society/benzopyrene-food-safety-incident) — Im selben Monat, in dem das Spezialgesetz in Kraft trat, war das Bento, das der Lieferbote vor die Tür brachte, der nachgelagerte Teil dieses Lebensmittelskandals
 - [Wer zählt als Niedriglohn?](/de/society/who-counts-as-low-wage) — Die Entlohnungssicherung für Lieferboten steht im Spezialgesetz, doch für Jahresendprämien gibt es kein Gesetz: Wie der Niedriglohn vom Grundgehalt in die Spalte der nicht gezahlten Boni wanderte
 
 ## Bildquellen

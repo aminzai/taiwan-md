@@ -24,6 +24,15 @@ featured: false
 readingTime: 18
 lastVerified: 2026-04-26
 lastHumanReview: false
+sporeLinks:
+  - id: 43
+    platform: 'threads'
+    date: '2026-04-26'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXlCpCRE7S9'
+  - id: 44
+    platform: 'x'
+    date: '2026-04-26'
+    url: 'https://x.com/taiwandotmd/status/2048233702053073039'
 translatedFrom: People/田馥甄.md
 sourceCommitSha: '380c49d7'
 sourceContentHash: 'sha256:d2852cc419867a37'
@@ -222,11 +231,11 @@ Le sixième album sortira-t-il cette année ? En 2025, elle a chanté dans des s
 
 [^9]: [Tian Fuzhen — Wikipédia](https://zh.wikipedia.org/zh-tw/%E7%94%B0%E9%A6%A5%E7%94%84) — En 2015, chante le thème _A Little Luck_ (_Xiao Xingyun_) pour le film _Our Times_ ; en août de l'année suivante, le clip devient le premier clip mandarin à dépasser 100 millions de vues sur YouTube ; MV officiel YouTube : https://www.youtube.com/watch?v=_sQSXwdtxlY
 
-[^10]: [Album _Quotidien_ — Wikipédia](<https://zh.wikipedia.org/zh-tw/%E6%97%A5%E5%B8%B8_(%E7%94%B0%E9%A6%A5%E7%94%84%E5%B0%88%E8%BC%AF)>) — Le 13 juillet 2016, sortie du quatrième album solo _Quotidien_ (_Richang_), emballage entièrement fait main, encre fluorescente spéciale ; ventes à Taïwan environ 70 000 exemplaires, troisième meilleure vente féminine de 2016 ; MV officiel YouTube du titre éponyme : https://www.youtube.com/watch?v=3dBFK2fHjWg
+[^10]: [Album _Quotidien_ — Wikipédia](https://zh.wikipedia.org/zh-tw/%E6%97%A5%E5%B8%B8_(%E7%94%B0%E9%A6%A5%E7%94%84%E5%B0%88%E8%BC%AF) — Le 13 juillet 2016, sortie du quatrième album solo _Quotidien_ (_Richang_), emballage entièrement fait main, encre fluorescente spéciale ; ventes à Taïwan environ 70 000 exemplaires, troisième meilleure vente féminine de 2016 ; MV officiel YouTube du titre éponyme : https://www.youtube.com/watch?v=3dBFK2fHjWg
 
 [^11]: [Pourquoi Pas Music — Wikipédia](https://zh.wikipedia.org/zh-tw/%E4%BD%95%E6%A8%82%E9%9F%B3%E6%A8%82) — En 2018, Chen Jianqi fonde « Pourquoi Pas Music » (He Le Music) en tant que directeur musical ; l'album _Nobody Knows_ est produit par Le Lai Le Hao (société personnelle de Tian Fuzhen) et distribué par Pourquoi Pas Music.
 
-[^12]: [Album _Nobody Knows_ — Wikipédia](<https://zh.wikipedia.org/zh-tw/%E7%84%A1%E4%BA%BA%E7%9F%A5%E6%9B%89_(%E5%B0%88%E8%BC%AF)>) — Le 25 septembre 2020, sortie du cinquième album solo _Nobody Knows_ ; nommé dans sept catégories aux 32e Golden Melody Awards, dont meilleure chanteuse mandarine, meilleur album mandarin, meilleur clip, meilleur parolier, meilleur producteur d'album, album de l'année, chanson de l'année ; MV officiel YouTube du titre éponyme (réalisé par Bill Chia) : https://www.youtube.com/watch?v=RtH0BAbUalk
+[^12]: [Album _Nobody Knows_ — Wikipédia](https://zh.wikipedia.org/zh-tw/%E7%84%A1%E4%BA%BA%E7%9F%A5%E6%9B%89_(%E5%B0%88%E8%BC%AF) — Le 25 septembre 2020, sortie du cinquième album solo _Nobody Knows_ ; nommé dans sept catégories aux 32e Golden Melody Awards, dont meilleure chanteuse mandarine, meilleur album mandarin, meilleur clip, meilleur parolier, meilleur producteur d'album, album de l'année, chanson de l'année ; MV officiel YouTube du titre éponyme (réalisé par Bill Chia) : https://www.youtube.com/watch?v=RtH0BAbUalk
 
 [^13]: [Tian Fuzhen remporte le prix de la meilleure chanteuse mandarine pour _Nobody Knows_ — CNA, 21 août 2021](https://www.cna.com.tw/news/firstnews/202108215024.aspx) — Le 21 août 2021, Tian Fuzhen remporte le prix de la meilleure chanteuse mandarine aux 32e Golden Melody Awards pour _Nobody Knows_ ; Chen Jianqi remporte enfin le prix après sept nominations en tant que producteur ; Gedawen remporte le prix du meilleur parolier pour le même album.
 
@@ -260,7 +269,7 @@ Le sixième album sortira-t-il cette année ? En 2025, elle a chanté dans des s
 
 [^28]: [Interview de Tian Fuzhen au musée d'art de Teshima — BIOS monthly](https://www.biosmonthly.com/article/10556) — Paroles de Tian Fuzhen : « Comment utiliser les imperfections ? Il n'y a pas besoin de les utiliser, je suis une personne pleine d'imperfections » ; sur le musée d'art de Teshima comme point de départ de la tournée _Yi Yi_.
 
-[^29]: [_Sisters Who Make Waves_, saison 2 — Wikipédia](<https://zh.wikipedia.org/zh-tw/%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%A7%E7%9A%84%E5%A7%90%E5%A7%90_(%E7%AC%AC%E4%BA%8C%E5%AD%A3)>) — En 2021, Yang Chenglin participe à la saison 2 de _Sisters Who Make Waves_ et forme un groupe de sept ; Na Ying, Zhou Bichang, Joey Yung et d'autres chanteuses de la même génération sont redécouvertes par le marché chinois grâce à cette série.
+[^29]: [_Sisters Who Make Waves_, saison 2 — Wikipédia](https://zh.wikipedia.org/zh-tw/%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%84%E5%A7%90%E5%A7%90_(%E7%AC%AC%E4%BA%8C%E5%AD%A3) — En 2021, Yang Chenglin participe à la saison 2 de _Sisters Who Make Waves_ et forme un groupe de sept ; Na Ying, Zhou Bichang, Joey Yung et d'autres chanteuses de la même génération sont redécouvertes par le marché chinois grâce à cette série.
 
 [^30]: [Line-up des galas du Nouvel An 2025 de Jolin Tsai sur les chaînes chinoises — NowNews](https://www.nownews.com/news/6621053) — En 2025, Jolin Tsai participe à l'émission chinoise _Da Ge 2025_ (25 juillet 2025) et apparaît dans plusieurs galas du Nouvel An de chaînes de télévision chinoises.
 

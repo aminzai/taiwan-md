@@ -20,6 +20,15 @@ readingTime: '15min'
 lastVerified: '2026-04-13'
 lastHumanReview: true
 featured: false
+sporeLinks:
+  - id: 25
+    platform: 'threads'
+    date: '2026-04-13'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXDq1FZkddO'
+  - id: 27
+    platform: 'x'
+    date: '2026-04-13'
+    url: 'https://x.com/taiwandotmd/status/2043538702853644444'
 translatedFrom: 'Music/張懸與安溥.md'
 sourceCommitSha: 'f803d0b6b'
 sourceContentHash: 'sha256:27ef434e8d6b0605'
@@ -143,7 +152,7 @@ Ia tidak menjawab secara langsung. Ia mengatakan hal lain [^30]:
 
 Lalu ia membungkuk dalam-dalam kepada orang-orang yang mengangkat bendera.
 
-Keesokan harinya, 13 Oktober, di Takao Rock Festival yang sama, Yang Ta-cheng, vokalis [Fire EX.](/music/滅火器樂團/), berhenti di tengah pertunjukan dan berbicara tentang persoalan itu selama hampir tujuh menit [^30][^32].
+Keesokan harinya, 13 Oktober, di Takao Rock Festival yang sama, Yang Ta-cheng, vokalis [Fire EX.](/id/music/fire-ex/), berhenti di tengah pertunjukan dan berbicara tentang persoalan itu selama hampir tujuh menit [^30][^32].
 
 Ia tidak membela Anpu, tetapi juga tidak ikut mengecam. Yang dibicarakannya adalah struktur: “Ini merupakan kecanggungan suatu zaman sekaligus kecanggungan pasar. Kami beruntung karena tidak perlu memikirkan pasar Tiongkok. Namun, masalah yang mereka hadapi berbeda—godaannya sangat besar, mungkin juga karena mereka ingin menafkahi lebih banyak orang.” Kata “mereka” sekaligus merujuk kepada Anpu, Mayday, dan Wu Kang-jen—tiga artis yang diserang opini publik Taiwan pada pekan yang sama karena unggahan Hari Nasional RRT di Weibo [^32].
 
@@ -169,11 +178,11 @@ Mungkin putrinya juga mempelajari hal yang sama dari sang ayah. Hanya saja, jawa
 
 ## Bacaan lanjutan
 
-- [Musik independen Taiwan](/music/台灣獨立音樂/) — Skena musik independen tempat Deserts Chang berkarya
+- [Musik independen Taiwan](/id/music/indie-music-scene/) — Skena musik independen tempat Deserts Chang berkarya
 - [Sejarah perkembangan musik rock Taiwan](/id/music/taiwan-rock-from-underground-to-mainstream/) — Dari era pelarangan lagu hingga Hohaiyan Rock Festival
-- [Gerakan Mahasiswa Bunga Matahari](/society/太陽花學運/) — Setelah 30 detik yang mengubah Taiwan pada 2014
+- [Gerakan Mahasiswa Bunga Matahari](/id/society/sunflower-movement/) — Setelah 30 detik yang mengubah Taiwan pada 2014
 - [Budaya festival musik Taiwan](/id/music/taiwan-music-festival-culture/) — Dari Gongliao hingga Takao Rock Festival
-- [Rainie Yang](/people/楊丞琳) — Perjalanan 25 tahun penyanyi perempuan berbahasa Mandarin dalam bentuk lain, dari sosok yang dibentuk produser menjadi produser mandiri; versi segenerasi yang dapat dibandingkan dengan perubahan Anpu “dari penyanyi remaja menjadi pencipta karya seutuhnya”
+- [Rainie Yang](/id/people/rainie-yang) — Perjalanan 25 tahun penyanyi perempuan berbahasa Mandarin dalam bentuk lain, dari sosok yang dibentuk produser menjadi produser mandiri; versi segenerasi yang dapat dibandingkan dengan perubahan Anpu “dari penyanyi remaja menjadi pencipta karya seutuhnya”
 
 ## Referensi
 

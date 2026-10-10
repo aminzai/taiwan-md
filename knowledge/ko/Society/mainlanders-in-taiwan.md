@@ -78,37 +78,37 @@ translatedAt: '2026-05-20T05:08:30+08:00'
 
 ## 참고 자료
 
-[^1]: [전후 초기부터 1950년대까지 대만 인구 유출 및 유입](https://wwwacc.ntl.edu.tw/public/Attachment/811615572091.pdf) — 본문 관련 배경, 데이터 또는 사건 맥락을 제공하며, 항목 서술 및 확인 근거로 활용.
+[^1]: [전후 초기부터 1950년대까지 대만 인구 유출 및 유입](https://wwwacc.ntl.edu.tw/public/Attachment/811615572091.pdf](https://wwwacc.ntl.edu.tw/public/Attachment/811615572091.pdf) — 본문 관련 배경, 데이터 또는 사건 맥락을 제공하며, 항목 서술 및 확인 근거로 활용.
 
-[^2]: ["중국 성(省) 출신"에서 "대만 성(省) 출신"으로의 전환](https://www.ios.sinica.edu.tw/people/personal/fcwang/fcwang2005-1.pdf) — 본문 관련 배경, 데이터 또는 사건 맥락을 제공하며, 항목 서술 및 확인 근거로 활용.
+[^2]: ["중국 성(省) 출신"에서 "대만 성(省) 출신"으로의 전환](https://www.ios.sinica.edu.tw/people/personal/fcwang/fcwang2005-1.pdf](https://www.ios.sinica.edu.tw/people/personal/fcwang/fcwang2005-1.pdf) — 본문 관련 배경, 데이터 또는 사건 맥락을 제공하며, 항목 서술 및 확인 근거로 활용.
 
-[^3]: [대만 민족 불평등 재논의: 본성/외성 민족 차이 축소 설명](https://homepage.ntu.edu.tw/~khsu/vita/ethnic.pdf) — 본문 관련 배경, 데이터 또는 사건 맥락을 제공하며, 항목 서술 및 확인 근거로 활용.
+[^3]: [대만 민족 불평등 재논의: 본성/외성 민족 차이 축소 설명](https://homepage.ntu.edu.tw/~khsu/vita/ethnic.pdf](https://homepage.ntu.edu.tw/~khsu/vita/ethnic.pdf) — 본문 관련 배경, 데이터 또는 사건 맥락을 제공하며, 항목 서술 및 확인 근거로 활용.
 
-[^4]: [고거푸(高格孚) 《풍화일난: 대만 외성인과 국가 정체성의 변화》 서평](https://www.tsatw.org.tw/page.php?menu_id=82&new_id=1013) — 본문 관련 배경, 데이터 또는 사건 맥락을 제공하며, 항목 서술 및 확인 근거로 활용.
+[^4]: [고거푸(高格孚) 《풍화일난: 대만 외성인과 국가 정체성의 변화》 서평](https://www.tsatw.org.tw/page.php?menu_id=82&new_id=1013](https://www.tsatw.org.tw/page.php?menu_id=82&new_id=1013) — 본문 관련 배경, 데이터 또는 사건 맥락을 제공하며, 항목 서술 및 확인 근거로 활용.
 
-[^5]: [언어와 민족 정체성: 대만 외성 민족의 모어와 대만 화어(華語)에서 출발](https://www.ling.sinica.edu.tw/item/en?act=journal&code=download&article_id=308) — 본문 관련 배경, 데이터 또는 사건 맥락을 제공하며, 항목 서술 및 확인 근거로 활용.
+[^5]: [언어와 민족 정체성: 대만 외성 민족의 모어와 대만 화어(華語)에서 출발](https://www.ling.sinica.edu.tw/item/en?act=journal&code=download&article_id=308](https://www.ling.sinica.edu.tw/item/en?act=journal&code=download&article_id=308) — 본문 관련 배경, 데이터 또는 사건 맥락을 제공하며, 항목 서술 및 확인 근거로 활용.
 
-[^7]: [호적법 개정 과정](https://zh.wikipedia.org/zh-tw/%E5%A4%96%E7%9C%81%E4%BA%BA) — 본문 관련 배경, 데이터 또는 사건 맥락을 제공하며, 항목 서술 및 확인 근거로 활용.
+[^7]: [호적법 개정 과정](https://zh.wikipedia.org/zh-tw/%E5%A4%96%E7%9C%81%E4%BA%BA](https://zh.wikipedia.org/zh-tw/%E5%A4%96%E7%9C%81%E4%BA%BA) — 본문 관련 배경, 데이터 또는 사건 맥락을 제공하며, 항목 서술 및 확인 근거로 활용.
 
-[^9]: ["고급 외성인"과 벙어리 마을](https://vocus.cc/article/672432acfd8978000184694f) — 본문 관련 배경, 데이터 또는 사건 맥락을 제공하며, 항목 서술 및 확인 근거로 활용.
+[^9]: ["고급 외성인"과 벙어리 마을](https://vocus.cc/article/672432acfd8978000184694f](https://vocus.cc/article/672432acfd8978000184694f) — 본문 관련 배경, 데이터 또는 사건 맥락을 제공하며, 항목 서술 및 확인 근거로 활용.
 
-[^10]: [영상: 대만 외성인의 정체성 변화](https://youtu.be/t4-SM4XuSTA) — 본문 관련 배경, 데이터 또는 사건 맥락을 제공하며, 항목 서술 및 확인 근거로 활용.
+[^10]: [영상: 대만 외성인의 정체성 변화](https://youtu.be/t4-SM4XuSTA](https://youtu.be/t4-SM4XuSTA) — 본문 관련 배경, 데이터 또는 사건 맥락을 제공하며, 항목 서술 및 확인 근거로 활용.
 
-[^11]: ["대진의민"에서 "대진인"으로: 대진 집단 이주의 사회학적 분석](https://www.ios.sinica.edu.tw/twSociologySingle.php?id=155&listId=27) — 본문 관련 배경, 데이터 또는 사건 맥락을 제공하며, 항목 서술 및 확인 근거로 활용.
+[^11]: ["대진의민"에서 "대진인"으로: 대진 집단 이주의 사회학적 분석](https://www.ios.sinica.edu.tw/twSociologySingle.php?id=155&listId=27](https://www.ios.sinica.edu.tw/twSociologySingle.php?id=155&listId=27) — 본문 관련 배경, 데이터 또는 사건 맥락을 제공하며, 항목 서술 및 확인 근거로 활용.
 
 [^12]: 하정철(何政哲): 대진, 대만을 넘다 — 1950년대 신이민의 사례 연구](https://etds.lib.tku.edu.tw/ETDS/Home/Detail/U0002-0108200509440900) — 본문 관련 배경, 데이터 또는 사건 맥락을 제공하며, 항목 서술 및 확인 근거로 활용.
 
-[^13]: [대만 전후 민족 간 장벽, 사회 불공정, 친밀한 관계: 두 권의 "늦게 온" 연구](https://www.ios.sinica.edu.tw/twSociologySingle.php?id=343&listId=55) — 본문 관련 배경, 데이터 또는 사건 맥락을 제공하며, 항목 서술 및 확인 근거로 활용.
+[^13]: [대만 전후 민족 간 장벽, 사회 불공정, 친밀한 관계: 두 권의 "늦게 온" 연구](https://www.ios.sinica.edu.tw/twSociologySingle.php?id=343&listId=55](https://www.ios.sinica.edu.tw/twSociologySingle.php?id=343&listId=55) — 본문 관련 배경, 데이터 또는 사건 맥락을 제공하며, 항목 서술 및 확인 근거로 활용.
 
 [^14]: [대만 전환정의 데이터베이스 시스템](https://twtjdb.nhrm.gov.tw/content-16132-16132.html) — 본문 관련 배경, 데이터 또는 사건 맥락을 제공하며, 항목 서술 및 확인 근거로 활용.
 
 [^15]: [대만 문학 가상 박물관: 사라진 나의 고향을 생각하며 — 眷村 문학](https://tlvm.nmtl.gov.tw/zh/Theme/ExhibitionArticleCont?Exbid=143) — 본문 관련 배경, 데이터 또는 사건 맥락을 제공하며, 항목 서술 및 확인 근거로 활용.
 
-[^16]: [사라진 나의 고향: 眷村 문학](https://tlvm.nmtl.gov.tw/zh/Theme/ExhibitionArticleCont?Exbid=143) — 본문 관련 배경, 데이터 또는 사건 맥락을 제공하며, 항목 서술 및 확인 근거로 활용.
+[^16]: [사라진 나의 고향: 眷村 문학](https://tlvm.nmtl.gov.tw/zh/Theme/ExhibitionArticleCont?Exbid=143](https://tlvm.nmtl.gov.tw/zh/Theme/ExhibitionArticleCont?Exbid=143) — 본문 관련 배경, 데이터 또는 사건 맥락을 제공하며, 항목 서술 및 확인 근거로 활용.
 
 [^18]: [중앙통신: 학자들이 말하는 2.28 사건 속 외성인 피해](https://www.cna.com.tw/news/aipl/201907280115.aspx) — 본문 관련 배경, 데이터 또는 사건 맥락을 제공하며, 항목 서술 및 확인 근거로 활용.
 
-[^20]: [치진(旗津)의 대진신촌: 역사 변천과 정체성](https://khm.org.tw/tw/event/past/detail/22) — 본문 관련 배경, 데이터 또는 사건 맥락을 제공하며, 항목 서술 및 확인 근거로 활용.
+[^20]: [치진(旗津)의 대진신촌: 역사 변천과 정체성](https://khm.org.tw/tw/event/past/detail/22](https://khm.org.tw/tw/event/past/detail/22) — 본문 관련 배경, 데이터 또는 사건 맥락을 제공하며, 항목 서술 및 확인 근거로 활용.
 
 [^21]: [Yahoo 뉴스: 촉전회(促轉會), 전환정의 데이터베이스 공개](https://tw.news.yahoo.com/%E4%BF%83%E8%BD%89%E6%9C%83%E5%85%AC%E9%96%8B-%E8%BD%89%E5%9E%8B%E6%AD%A3%E7%BE%A9%E8%B3%87%E6%96%99%E5%BA%AB-%E6%9C%AC%E7%9C%81%E5%A4%96%E7%9C%81%E5%8F%97%E5%AE%B3%E6%AF%94%E4%BE%8B55-%E5%8F%8A44-045221531.html) — 본문 관련 배경, 데이터 또는 사건 맥락을 제공하며, 항목 서술 및 확인 근거로 활용.
 
@@ -116,6 +116,6 @@ translatedAt: '2026-05-20T05:08:30+08:00'
 
 [^23]: [중국평론뉴스: 원주민이 외성 노병에게 시집간 이야기 — 끝없는 고된 삶](https://hk.crntt.com/doc/93_5670_103269625_9_0704010818.html) — 본문 관련 배경, 데이터 또는 사건 맥락을 제공하며, 항목 서술 및 확인 근거로 활용.
 
-[^24]: [영화 대진의민 도시 갱신 사례를 중심으로](https://www.csat.org.tw/userfiles/A-1-1%20%E8%91%89%E5%8F%88%E8%8F%AF%20%E5%85%A8%E6%96%87.pdf) — 본문 관련 배경, 데이터 또는 사건 맥락을 제공하며, 항목 서술 및 확인 근거로 활용.
+[^24]: [영화 대진의민 도시 갱신 사례를 중심으로](https://www.csat.org.tw/userfiles/A-1-1%20%E8%91%89%E5%8F%88%E8%8F%AF%20%E5%85%A8%E6%96%87.pdf](https://www.csat.org.tw/userfiles/A-1-1%20%E8%91%89%E5%8F%88%E8%8F%AF%20%E5%85%A8%E6%96%87.pdf) — 본문 관련 배경, 데이터 또는 사건 맥락을 제공하며, 항목 서술 및 확인 근거로 활용.
 
 [^25]: 천위화(陳緯華), 장마오궈(張茂桂): 대진의민에서 대진인으로](https://www.ios.sinica.edu.tw/upload/completetext/20240620175749.pdf) — 본문 관련 배경, 데이터 또는 사건 맥락을 제공하며, 항목 서술 및 확인 근거로 활용.

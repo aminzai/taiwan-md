@@ -9,7 +9,7 @@ tags:
   - '석유화학 산업'
   - '제6경유분해공장'
   - '기업가'
-subcategory: '기술 및 기업'
+subcategory: '科技與企業'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

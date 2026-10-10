@@ -4,7 +4,7 @@ description: 'Отказавшийся от крупных планов, но п
 date: 2026-03-24
 author: 'Taiwan.md'
 category: 'People'
-subcategory: 'Кино и театр'
+subcategory: '電影與戲劇'
 tags:
   [
     'Хоу Сяосянь',

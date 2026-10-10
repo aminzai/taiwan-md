@@ -14,7 +14,7 @@ tags:
     'शिक्षक संघ',
     'स्कूल अनुशासन',
   ]
-subcategory: 'शिक्षा'
+subcategory: '教育'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-25

@@ -4,7 +4,7 @@ description: 「1874年、海難に端を発した軍事行動が、台湾南部
 date: 2026-07-17
 category: 'History'
 tags: ['牡丹社事件', '台湾歴史', '清日関係', '国際法', '原住民']
-subcategory: '植民地と帝国'
+subcategory: '殖民與帝國'
 author: 'Taiwan.md Contributors'
 readingTime: 12
 lastVerified: 2026-07-17

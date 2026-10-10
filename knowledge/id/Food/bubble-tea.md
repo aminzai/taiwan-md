@@ -126,7 +126,7 @@ Momen itu tentu saja tidak tahu apa yang dilakukannya. Keajaiban besar selalu ti
 
 ## Bacaan Lanjutan
 
-- [Ikhtisar Kuliner Taiwan](/food/台灣美食總覽) — Peta panorama dari penduduk asli hingga Michelin: posisi teh boba dalam rasa campuran empat ratus tahun
+- [Ikhtisar Kuliner Taiwan](/id/food/taiwan-food-overview) — Peta panorama dari penduduk asli hingga Michelin: posisi teh boba dalam rasa campuran empat ratus tahun
 - [Budaya Minuman Kekinian Taiwan](/id/food/hand-shaken-drink-culture) — Sejarah ekspansi merek seperti 50 Lan, Gong Cha, dan CoCo ke lebih dari 40 negara
 - [Budaya Teh](/id/food/golden-age-echoes-taiwan-tea-culture) — Dari teh Oolong Todd pada tahun 1865 hingga teh pegunungan hari ini, legenda kualitas daun teh Taiwan
 

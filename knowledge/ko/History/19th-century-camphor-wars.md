@@ -141,7 +141,7 @@ translatedAt: '2026-08-04T18:40:59+08:00'
 - [타이완 산림 개발사](/ko/history/taiwan-forestry-history) — 녹나무에서 편백나무까지, 타이완 산림 개발의 전체 맥락.
 - [아리산: 제국의 임장과 고등학생의 산](/ko/history/alishan-empire-forest-and-uongu-yatauyungana) — 임업 수탈이 어떻게 일제강점기 아리산과 전후 백색테러로 이어졌는가.
 - [국립 타이완 역사 박물관](/ko/society/national-museum-of-taiwan-history) — 스윈후의 1864년 〈Formosa Camphor〉 등 장뇌 전쟁의 1차 사료를 소장한 국가급 기관 (NMTH 컬렉션 UUID 시스템 기반 정부 데이터 개방 라이선스 1.0 적용).
-- [타이완 가로수](/lifestyle/台灣行道樹) — 동일한 녹나무가 산에서는 세계적 쟁탈 대상이었으나, 거리에서는 그저 그늘을 만드는 존재일 뿐이다: 난터우 지지(集集)의 녹색 터널 양옆에 심어진 것이 바로 이 나무다.
+- [타이완 가로수](/ko/lifestyle/taiwan-street-trees) — 동일한 녹나무가 산에서는 세계적 쟁탈 대상이었으나, 거리에서는 그저 그늘을 만드는 존재일 뿐이다: 난터우 지지(集集)의 녹색 터널 양옆에 심어진 것이 바로 이 나무다.
 
 ---
 

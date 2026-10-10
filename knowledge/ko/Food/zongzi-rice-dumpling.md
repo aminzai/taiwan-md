@@ -3,7 +3,7 @@ title: 쫑쯔(粽子)
 description: 대만의 쫑쯔(粽子)는 하나의 음식이 아니라 네 가지 섬의 기억이 켜켜이 쌓인 것이다. 민난, 하카, 외성인, 원주민 — 한 입 베어 물 때마다, 그건 누군가가 건너온 길이다.
 date: 2026-04-05
 tags: [단오절, 음식문화, 민난, 하카, 외성인, 원주민, 명절음식]
-subcategory: '명절 음식'
+subcategory: '節慶飲食'
 author: 'Taiwan.md'
 featured: true
 readingTime: 7

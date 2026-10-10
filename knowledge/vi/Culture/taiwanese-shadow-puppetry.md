@@ -11,7 +11,7 @@ tags:
     'Tài sản văn hóa',
     'Thời kỳ thực dân Nhật Bản',
   ]
-subcategory: 'Thủ công và mỹ học'
+subcategory: '工藝與美學'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-02
@@ -19,6 +19,7 @@ lastHumanReview: false
 translatedFrom: 'Culture/皮影戲.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:a3ec46fedc753589'
+sourceBodyHash: 'sha256:795653ceb8bee8f7'
 translatedAt: '2026-07-25T07:04:29.931776+00:00'
 ---
 
@@ -75,8 +76,8 @@ Thái Anh Văn (1995) khi qua đời, đã qua hơn bảy mươi năm kể từ 
 **Mở rộng đọc thêm**
 
 - [kịch xạ lược](/vi/culture/taiwanese-glove-puppetry-budaixi) — Tương tự như kịch xạ lược trên Đài Loan đã trải qua áp lực phong kiến hóa, chiến tranh và chuyển đổi thương mại hóa, hai loại hình này đồng thời là hai trục chính của kịch xạ lược truyền thống trên Đài Loan
-- [lễ hội nhà và văn hóa diễn hành ở Đài Loan](/culture/台灣廟會與陣頭文化) — Kịch xạ lược ban đầu biểu diễn trên chợ nhà, khu vực lễ hội là điểm chung của tất cả các nghệ thuật biểu diễn truyền thống trên Đài Loan
-- [văn hóa và ngôn ngữ Hakka](/culture/客家文化與語言) — Một khía cạnh khác của văn hóa và ngôn ngữ của các dân tộc miền Nam, cùng sinh sống trong cùng một hệ sinh thái văn hóa với kịch xạ lược thuộc dân tộc Hokkien ở miền Nam Đài Loan
+- [lễ hội nhà và văn hóa diễn hành ở Đài Loan](/vi/culture/taiwan-temple-festivals-and-performance-troupes) — Kịch xạ lược ban đầu biểu diễn trên chợ nhà, khu vực lễ hội là điểm chung của tất cả các nghệ thuật biểu diễn truyền thống trên Đài Loan
+- [văn hóa và ngôn ngữ Hakka](/vi/culture/hakka-culture-and-language) — Một khía cạnh khác của văn hóa và ngôn ngữ của các dân tộc miền Nam, cùng sinh sống trong cùng một hệ sinh thái văn hóa với kịch xạ lược thuộc dân tộc Hokkien ở miền Nam Đài Loan
 
 ## Tham khảo
 

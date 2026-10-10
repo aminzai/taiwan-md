@@ -103,7 +103,7 @@ translatedAt: '2026-05-09T14:29:09+08:00'
 
 ## 参考文献
 
-[^1]: [ウィキペディア：盧彦勲](https://zh.wikipedia.org/zh-tw/盧彦勲) — 盧彦勲の詳細な経歴とプロテニスキャリアの記録。出生情報、プロ転向年、主要大会成績を含む。
+[^1]: [ウィキペディア：盧彦勲](https://zh.wikipedia.org/zh-tw/盧彥勳) — 盧彦勲の詳細な経歴とプロテニスキャリアの記録。出生情報、プロ転向年、主要大会成績を含む。
 
 [^2]: [Wikipedia (EN): 2010 Wimbledon Championships](https://en.wikipedia.org/wiki/2010_Wimbledon_Championships) — 2010年ウィンブルドン大会の完全な対戦記録。盧彦勲が4回戦（16強）で第7シードのアンディ・ロディックを破りベスト8に進出したことを確認。
 

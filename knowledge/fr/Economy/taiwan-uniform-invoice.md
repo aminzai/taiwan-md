@@ -183,7 +183,7 @@ Alors la prochaine fois, quand vous faites votre achat dans un supermarché et q
 - [Culture des magasins de proximité à Taïwan](/fr/lifestyle/convenience-store-culture) — Les endroits où l’on échange le plus souvent des reçus gagnants et où l’on prononce le plus souvent « 919 » pour faire un don de ses reçus.
 - [La Terreur blanche à Taïwan](/fr/history/taiwan-white-terror) — L’époque où le concepteur de la facture unifiée, Ren Xianqun, a été emprisonné pour « non-dénonciation d’espion ».
 - [La justice transitionnelle à Taïwan](/fr/history/taiwan-transitional-justice) — Le parcours de Ren Xianqun à travers deux gouvernements, qui a mis plusieurs années à obtenir réhabilitation.
-- [Le mécanisme des prix du pétrole et CPC Corp. à Taïwan](/economy/台灣油價機制與中油) — Une autre façon d’utiliser un document administratif comme règle : comment un communiqué de presse sur le prix du pétrole divise un litre en trois parts, laissant CPC porter le coût, les prix divisés par litre, sans jamais savoir qui en profite le plus.
+- [Le mécanisme des prix du pétrole et CPC Corp. à Taïwan](/fr/economy/taiwan-fuel-pricing-and-cpc) — Une autre façon d’utiliser un document administratif comme règle : comment un communiqué de presse sur le prix du pétrole divise un litre en trois parts, laissant CPC porter le coût, les prix divisés par litre, sans jamais savoir qui en profite le plus.
 
 ## Sources des images
 

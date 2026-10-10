@@ -4,7 +4,7 @@ description: '1941년 후난성 출신, 대만계 미국 물리학자. 1987년 1
 date: 2026-03-19
 category: 'People'
 tags: ['과학과 학술', '물리학자', '초전도체', '홍콩과기대', '휴스턴대학교']
-subcategory: '과학과 학술'
+subcategory: '科學與學術'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

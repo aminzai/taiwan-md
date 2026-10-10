@@ -14,7 +14,7 @@ tags:
     '원주민',
     '파이완족',
   ]
-subcategory: '스포츠'
+subcategory: '體育'
 category: 'People'
 author: 'Taiwan.md'
 translatedFrom: 'People/楊勇緯.md'

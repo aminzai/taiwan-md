@@ -3,7 +3,7 @@ title: 'Bánh bánh xe: Từ bánh Imagawa-yaki của thời Nhật thống tr�
 description: "Một vụ bão 'Hàn lêm đậu đỏ' năm 2026 kích thích tranh cãi về ngôn ngữ và nhận diện. Bánh này, xuất phát từ thời Edo Nhật Bản, đã được đưa vào Đài Loan trong thời Nhật thống trị như một món ăn đắt giá. Sau thành công trong việc thử nghiệm đậu đỏ ở Wanda, Đắc Lịch, vào những năm 1960, bánh này đã thực sự 'lâm đất' và trở thành kỷ niệm đường phố bạn bè nhất của Đài Loan."
 date: 2026-04-28
 category: 'Food'
-subcategory: 'Đồ ăn vặt Đài Loan'
+subcategory: '台灣小吃'
 tags:
   [
     'Bánh bánh xe',

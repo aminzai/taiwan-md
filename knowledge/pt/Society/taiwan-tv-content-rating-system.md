@@ -102,7 +102,7 @@ Desde a revogação da «Lei de Inspeção Cinematográfica» em 1983 até hoje,
 
 [^8]: [O Império dos Sentidos - registo da controvérsia de exibição em Taiwan](https://zh.wikipedia.org/zh-tw/%E6%84%9F%E5%AE%98%E4%B8%96%E7%95%8C) — Sobre o debate entre arte e pornografia desencadeado pela exibição do filme em Taiwan em 1999.
 
-[^9]: [Desejo e Perigo (filme) - Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%89%B2%EF%BC%8C%E6%88%B2_(%E9%9B%BB%E5%BD%B1) — ) — Sobre o registo da classificação de «Desejo e Perigo» como Nível Restrito em Taiwan
+[^9]: [Desejo e Perigo (filme) - Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%89%B2%EF%BC%8C%E6%88%92_(%E9%9B%BB%E5%BD%B1) — ) — Sobre o registo da classificação de «Desejo e Perigo» como Nível Restrito em Taiwan
 
 [^10]: [Site de consulta de classificação de software de entretenimento digital](https://www.gamerating.org.tw/) — Plataforma oficial da Agência de Indústria Digital do Ministério do Desenvolvimento Digital.
 

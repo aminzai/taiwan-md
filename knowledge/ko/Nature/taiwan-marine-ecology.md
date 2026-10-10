@@ -13,7 +13,7 @@ tags:
   - 해상 풍력 발전
   - 기후변화
   - 해양 과학
-subcategory: '야생동물'
+subcategory: '野生動物'
 category: 'Nature'
 author: 'Taiwan.md'
 readingTime: 15

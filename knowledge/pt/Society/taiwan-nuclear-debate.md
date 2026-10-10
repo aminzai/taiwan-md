@@ -261,11 +261,11 @@ E os dois lados dizem estar do lado do futuro.
 
 ## Leitura complementar
 
-- [Crise climática e transição para zero líquido em Taiwan](/nature/台灣氣候危機與淨零轉型) — Outro ângulo da mesma questão energética: partindo de limites físicos, oferta/demanda de eletricidade e cronograma de descarbonização, texto-irmão deste
-- [História do movimento ambiental em Taiwan](/nature/台灣環境運動史) — Antinuclear como elo do movimento ambiental pós-guerra em Taiwan, de Lukang contra DuPont a Gongliao, fio completo
-- [Justiça ambiental e conflitos NIMBY em Taiwan](/society/台灣環境正義與鄰避爭議) — Estrutura NIMBY por trás do lixo nuclear e Lanyu: por que o risco sempre cai onde não tem voz
+- [Crise climática e transição para zero líquido em Taiwan](/pt/nature/taiwan-climate-change-net-zero-transition) — Outro ângulo da mesma questão energética: partindo de limites físicos, oferta/demanda de eletricidade e cronograma de descarbonização, texto-irmão deste
+- [História do movimento ambiental em Taiwan](/pt/nature/taiwan-environmental-movement-history) — Antinuclear como elo do movimento ambiental pós-guerra em Taiwan, de Lukang contra DuPont a Gongliao, fio completo
+- [Justiça ambiental e conflitos NIMBY em Taiwan](/pt/society/taiwan-environmental-justice-nimby-conflicts) — Estrutura NIMBY por trás do lixo nuclear e Lanyu: por que o risco sempre cai onde não tem voz
 - [Movimentos sociais e participação cívica](/pt/society/social-movements-and-civic-participation) — Como o antinuclear compartilhou linguagem e energia com o movimento democrático de Taiwan
-- [Movimento dos Girassóis](/society/太陽花學運) — Mobilização cívica da mesma geração, para entender o clima da época da greve de fome de Lin Yi-hsiung
+- [Movimento dos Girassóis](/pt/society/sunflower-movement) — Mobilização cívica da mesma geração, para entender o clima da época da greve de fome de Lin Yi-hsiung
 
 ## Dados públicos
 

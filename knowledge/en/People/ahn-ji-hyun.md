@@ -12,13 +12,13 @@ tags:
     'Wing Stars',
     'Kaohsiung',
   ]
-subcategory: 'Pop Culture'
+subcategory: '流行人物'
 author: 'Taiwan.md Contributors'
 readingTime: 9
 featured: false
 lastVerified: 2026-05-13
 translatedFrom: 'People/安芝儇.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:b13816d98f58f322'
 sourceBodyHash: 'sha256:56208a71719992d2'
 translatedAt: '2026-05-17T05:35:00Z'

@@ -134,7 +134,7 @@ L’évaluation des politiques doit également conserver la voix des résidents.
 
 Les lectures complémentaires sur cet article peuvent être approfondies dans trois directions : les informations de prévention des brûlures thermiques de l’Institut national de la santé publique, les données sur l’adaptation au climat et les politiques énergétiques du ministère de l’Environnement, ainsi que les plans publics locaux sur l’efficacité énergétique et le remplacement des appareils électroménagers. Lors de la lecture, il convient de distinguer trois niveaux de preuves : les annonces de politiques, les résultats de recherches et les suggestions de cet article, afin d’éviter de mal interpréter une subvention d’une seule année ou une enquête de cas comme une tendance nationale à long terme.
 
-- [Qui est considéré comme à faible revenu ?](/society/誰算低薪) — une autre mesure de la pauvreté : le salaire minimum protège le salaire de base, tandis que la pauvreté s’invite dans la colonne des primes de fin d’année et les industries sans primes
+- [Qui est considéré comme à faible revenu ?](/fr/society/who-counts-as-low-wage) — une autre mesure de la pauvreté : le salaire minimum protège le salaire de base, tandis que la pauvreté s’invite dans la colonne des primes de fin d’année et les industries sans primes
 
 ## Bibliographie
 

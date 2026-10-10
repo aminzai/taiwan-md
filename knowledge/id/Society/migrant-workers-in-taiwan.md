@@ -103,7 +103,7 @@ Bagaimana Taiwan sambil mengejar pembangunan ekonomi, benar-benar memandang tena
 
 **Bacaan Lanjutan**：
 
-- [Taiwan Pandemi COVID-19 dan Vaksin](/society/台灣新冠疫情與疫苗) — Larangan keluar masuk tenaga kerja migran di Miaoli Juni 2021, adalah sekali dorongan ke batas sistem perawatan dan hunian tenaga kerja migran di bawah pandemi
+- [Taiwan Pandemi COVID-19 dan Vaksin](/id/society/taiwan-covid-pandemic-and-vaccines) — Larangan keluar masuk tenaga kerja migran di Miaoli Juni 2021, adalah sekali dorongan ke batas sistem perawatan dan hunian tenaga kerja migran di bawah pandemi
 - [Sistem Kesehatan Masyarakat dan Pencegahan Wabah Taiwan](/id/society/taiwan-public-health-epidemic-response) — Latar belakang sistem tenaga kerja migran dimasukkan ke sistem kesehatan masyarakat dan medis
 
 ---

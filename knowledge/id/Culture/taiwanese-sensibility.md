@@ -26,6 +26,11 @@ image: '/article-images/culture/changhua-iron-window-grille-2021.webp'
 imageCredit: 'Outlookxp'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E5%BD%B0%E5%8C%96%E5%B8%82%E4%B8%89%E5%92%8C%E5%A4%A7%E6%97%85%E7%A4%BE%E9%90%B5%E7%AA%97%E8%8A%B1.jpg'
+sporeLinks:
+  - id: 15
+    platform: 'threads'
+    date: '2026-04-08'
+    url: 'https://www.threads.com/@taiwandotmd/post/DW2whskkZot'
 translatedFrom: 'Culture/台灣感性.md'
 sourceCommitSha: '54ed6c788'
 sourceContentHash: 'sha256:01da220d6681931b'
@@ -137,7 +142,7 @@ _Kendaraan hias elektronik dalam perayaan malam hari di Kuil Chaotian, Beigang. 
 
 Taiwan sebenarnya sudah pernah menjalani persoalan “perlukah orang luar memberi cap persetujuan terlebih dahulu” ini—di bioskop.
 
-[Sinema Baru Taiwan](/art/台灣電影) kerap dikenang sebagai kisah pilu “tidak laku di dalam negeri, baru diakui dunia internasional”, tetapi kenyataannya lebih rumit. Gerakan ini secara umum dianggap bermula dari _In Our Time_ pada 1982[^19]. Hanya beberapa tahun setelah dimulai, gerakan tersebut sudah mengalami pukulan besar: _Taipei Story_ karya Edward Yang hanya tayang selama empat hari pada 1985[^20]. Pada akhir tahun itu, film-film Sinema Baru berturut-turut gagal di loket, bahkan dicela kubu penentangnya sebagai “racun box office”. Para sutradara berusia tiga puluhan itu diejek hanya mampu “membuat film sambil menatap pusar sendiri”[^21].
+[Sinema Baru Taiwan](/id/art/taiwanese-cinema) kerap dikenang sebagai kisah pilu “tidak laku di dalam negeri, baru diakui dunia internasional”, tetapi kenyataannya lebih rumit. Gerakan ini secara umum dianggap bermula dari _In Our Time_ pada 1982[^19]. Hanya beberapa tahun setelah dimulai, gerakan tersebut sudah mengalami pukulan besar: _Taipei Story_ karya Edward Yang hanya tayang selama empat hari pada 1985[^20]. Pada akhir tahun itu, film-film Sinema Baru berturut-turut gagal di loket, bahkan dicela kubu penentangnya sebagai “racun box office”. Para sutradara berusia tiga puluhan itu diejek hanya mampu “membuat film sambil menatap pusar sendiri”[^21].
 
 Titik balik terjadi pada 1989, secara sangat dramatis. _A City of Sadness_ karya Hou Hsiao-hsien terlebih dahulu meraih Singa Emas di Venesia pada September, lalu baru diputar di Taiwan pada Oktober. Film itu meraup sekitar NT$66 juta di Taipei dan menjadi kesuksesan komersial besar pada tahun tersebut[^22]. Kali ini, pengakuan internasional dan sambutan dalam negeri bukan dua peristiwa “sebelum” dan “sesudah” yang terpisah, melainkan dua hal yang terjadi pada tahun dan bahkan musim gugur yang hampir sama.
 
@@ -208,12 +213,12 @@ Kali ini, giliran kita sendiri untuk menyebut angkanya dengan benar, menuntaskan
 **Bacaan lanjutan**:
 
 - [Arsitektur Taiwan](/id/art/taiwanese-architecture) — Bagaimana arsitektur Taiwan bertumbuh lapis demi lapis hingga menjadi seperti sekarang, melalui teralis jendela besi dekoratif, serambi beratap, dan teraso
-- [Sinema Taiwan](/art/台灣電影) — Pengambilan gambar panjang karya Hou Hsiao-hsien, Edward Yang, dan Tsai Ming-liang merupakan gen visual paling awal “sensibilitas Taiwan”
+- [Sinema Taiwan](/id/art/taiwanese-cinema) — Pengambilan gambar panjang karya Hou Hsiao-hsien, Edward Yang, dan Tsai Ming-liang merupakan gen visual paling awal “sensibilitas Taiwan”
 - [Upacara Minum Teh dan Estetika Kehidupan Taiwan](/id/culture/taiwan-tea-ceremony-and-aesthetic-living) — Representasi lain dari kehidupan lambat Taiwan, memandang estetika keseharian melalui penataan teh
 - [Budaya Toko Serba Ada Taiwan](/id/lifestyle/convenience-store-culture) — Toko serba ada yang tetap terang pada larut malam merupakan sisi lain estetika keseharian Taiwan
 - [Agama dan Budaya Kuil Taiwan](/id/culture/taiwan-religion-and-temple-culture) — Kuil merupakan tempat teraso dan teralis jendela besi dekoratif kerap ditemukan
 - [Chou Tzu-yu](/id/people/tzuyu) — Wajah Taiwan lain yang sering diingat dalam cara orang Korea mengenal Taiwan
-- [Tehching Hsieh](/art/謝德慶) — Seniman pertunjukan Taiwan yang menjadikan waktu dan kehidupan sebagai karya secara langsung, sebuah versi ekstrem lain dari sensibilitas Taiwan
+- [Tehching Hsieh](/id/art/tehching-hsieh-performance-artist) — Seniman pertunjukan Taiwan yang menjadikan waktu dan kehidupan sebagai karya secara langsung, sebuah versi ekstrem lain dari sensibilitas Taiwan
 
 ## Sumber gambar
 

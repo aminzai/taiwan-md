@@ -3,14 +3,14 @@ title: "Taiwanese Mahjong: Grandma Won't Teach You, But Celebrity Mahjong Will"
 description: "On the second day of the Lunar New Year, Grandma sat at the table and won with a hand you couldn't understand. When you asked her how to calculate the points, she said, 'Kids have ears but no mouths.' So you opened your computer and let Wu Zongxian teach you. Released in 2001 by IGS, Celebrity Mahjong unexpectedly became the mahjong启蒙 (enlightenment) teacher for an entire generation of Taiwanese people."
 date: 2026-04-23
 tags: ['Mahjong', 'Sixteen-Zhang', 'Celebrity Mahjong', 'IGS', 'Taiwan Culture']
-subcategory: 'Daily Entertainment'
+subcategory: '日常娛樂'
 author: 'zaious'
 category: 'Lifestyle'
 readingTime: 9
 lastVerified: 2026-04-23
 lastHumanReview: false
 translatedFrom: 'Lifestyle/台灣麻將與明星三缺一.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:334f3cc12d1f65c6'
 sourceBodyHash: 'sha256:1f3fd4501700702b'
 translatedAt: '2026-06-09T04:19:27+08:00'
@@ -151,7 +151,7 @@ He did not answer.
 
 [^1]: [Klook: Want to win money playing mahjong with friends? Beginners must see this 16-Zhang Mahjong gameplay](https://www.klook.com/zh-TW/blog/taiwan-mahjong-rules/) — Basic rules and cultural background of Taiwanese Sixteen-Zhang Mahjong
 
-[^2]: [Wikipedia: Mahjong](https://zh.wikipedia.org/zh-hant/%E9%BA%BB%E5%B0%87) — Comparison of mahjong rules in different regions
+[^2]: [Wikipedia: Mahjong](https://zh.wikipedia.org/zh-hant/%E9%BA%BB%E5%B0%86) — Comparison of mahjong rules in different regions
 
 [^3]: [Pinkoi: What are the rules of Taiwanese Mahjong? One article teaches beginners from drawing tiles to calculating points](https://blog.pinkoi.com/tw/hot-topics/discovery/2211-mahjong/) — 144 tiles composition, flower tiles, Eight Immortals Crossing the Sea
 
@@ -159,7 +159,7 @@ He did not answer.
 
 [^5]: [Commercial Times: IGS's three founders were once ball buddies and gamblers; classmates joined forces to start a business and play their way to success](https://www.ctee.com.tw/news/20240617700066-439901) — The founding story of Li Ke-chu, Jiang Shun-cheng, and Chen A-jian
 
-[^6]: [Wikipedia: IGS](https://zh.wikipedia.org/zh-hant/%E8%88%88%E8%B1%A1%E9%9B%BB%E5%AD%90) — 1996 PGM console, only self-made arcade machine in Asia
+[^6]: [Wikipedia: IGS](https://zh.wikipedia.org/zh-hant/%E9%88%8A%E8%B1%A1%E9%9B%BB%E5%AD%90) — 1996 PGM console, only self-made arcade machine in Asia
 
 [^7]: [Time UD: A classic Taiwanese mahjong game! Celebrity Mahjong has sold for over 20 years](https://time.udn.com/udntime/story/122390/8509043) — Released in 2001, celebrity voice concept
 

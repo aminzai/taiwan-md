@@ -157,7 +157,7 @@ Lorsque Taïwan investit 564,5 milliards de NT$ sur 10 ans pour redessiner le r�
 
 **Lecture complémentaire** :
 
-- [Mécanisme de tarification du pétrole et CPC](/economy/台灣油價機制與中油) — Dans le même budget supplémentaire de 600 milliards, à côté des 71,1 milliards de Taïwan Power Company, les deux lignes de CPC : une entreprise publique appelée à se tenir à l’avant, portant l’argent le plus longtemps possible.
+- [Mécanisme de tarification du pétrole et CPC](/fr/economy/taiwan-fuel-pricing-and-cpc) — Dans le même budget supplémentaire de 600 milliards, à côté des 71,1 milliards de Taïwan Power Company, les deux lignes de CPC : une entreprise publique appelée à se tenir à l’avant, portant l’argent le plus longtemps possible.
 
 ## Références
 

@@ -12,7 +12,7 @@ tags:
     'Paleolítico',
     'Reino de Dabu',
   ]
-subcategory: 'Prehistoria y pueblos indígenas'
+subcategory: '史前與原住民'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-07

@@ -29,6 +29,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:%E9%BB%91%E7%86%8A%E5%AD%B
 translatedFrom: 'Society/黑熊學院.md'
 sourceCommitSha: 'cdc7cc719'
 sourceContentHash: 'sha256:42de5cb53b9bc1de'
+sourceBodyHash: 'sha256:dd6e524ad9f23527'
 translatedAt: '2026-09-24T04:38:00.208667+00:00'
 ---
 
@@ -190,8 +191,8 @@ Kembali ke padang rumput yang diguyur gerimis. Pekerja kantoran yang menggenggam
 
 **Bacaan Lanjutan**:
 
-- [Shen Bo-yang](/people/沈伯洋) — Pendiri bersama dan rektor kehormatan Akademi Black Bear, yang meneliti perang kognitif Tiongkok, kemudian diselidiki oleh Tiongkok atas tuduhan "pemecahan negara"
-- [Perang Kognitif](/society/認知作戰) — Latar belakang lengkap dari salah satu modul dasar di Akademi Black Bear, gambaran utuh peperangan informasi Tiongkok terhadap Taiwan
+- [Shen Bo-yang](/id/people/puma-shen) — Pendiri bersama dan rektor kehormatan Akademi Black Bear, yang meneliti perang kognitif Tiongkok, kemudian diselidiki oleh Tiongkok atas tuduhan "pemecahan negara"
+- [Perang Kognitif](/id/society/cognitive-warfare-against-taiwan) — Latar belakang lengkap dari salah satu modul dasar di Akademi Black Bear, gambaran utuh peperangan informasi Tiongkok terhadap Taiwan
 - [Pertahanan dan Modernisasi Militer Taiwan](/id/society/taiwan-defense-modernization) — Hubungan pelengkap antara pertahanan sipil dan pertahanan nasional; sisi lain dari pemahaman "pertahanan sipil bukanlah pertahanan negara"
 - [Negara yang Tak Terlihat](/id/art/invisible-nation) — Film dokumenter yang menyimpulkan dengan orang Taiwan mengikuti kelas pertahanan sipil, ini adalah versi visual dari kelas Akademi Black Bear
 

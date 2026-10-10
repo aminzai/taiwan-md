@@ -13,7 +13,7 @@ tags:
     'văn hóa thợ săn',
     'phát triển bền vững',
   ]
-subcategory: 'Trí tuệ sinh thái của các dân tộc bản địa'
+subcategory: '原住民生態智慧'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20

@@ -149,10 +149,10 @@ Ba mươi năm là cùng một người viết bằng chữ NOISE từ hai yên 
 
 ## Đọc Thêm
 
-- [Bản Đồ Âm Thanh Đài Loan](/music/台灣聲音地景) — Vị trí của Vương Phước Thuỵ, Yao Zhonghán, Trương Vĩnh Đạt và những nghệ sĩ âm thanh khác trong Bản Đồ Âm Thanh Đài Loan; bài viết này là mở rộng từ đề cập cấp danh sách tới điều kiện chuyên sâu
-- [Vương Liên Thắng](/art/王連晟) — Nghệ sĩ âm thanh và truyền thông mới thế hệ học sinh của Vương Phước Thuỵ tại Bộ phận Tân Truyền Thông Đại học Nghệ Thuật Bắc Kinh, sự tiếp nối làn sóng thể chế hóa học sinh năm 2007 Liên Hoan Mất Tiếng
-- [Truyền Thông Mới Đài Loan](/art/台灣新媒體藝術) — Lịch sử phát triển kỹ thuật số/truyền thông từ 1995 Thử Nghiệm Địa Phương tới Lễ Hội Nghệ Thuật Kỹ Thuật Số Đài Bắc những năm 2000, Vương Phước Thuỵ là nút nối chính trong trục âm thanh
-- [Âm Nhạc Độc Lập Đài Loan](/music/台灣獨立音樂) — Một trục khác của cảnh tượng âm nhạc underground Đài Loan những năm 1990, song song với cảnh tượng âm thanh/âm nhạc thử nghiệm
+- [Bản Đồ Âm Thanh Đài Loan](/vi/music/taiwan-soundscape) — Vị trí của Vương Phước Thuỵ, Yao Zhonghán, Trương Vĩnh Đạt và những nghệ sĩ âm thanh khác trong Bản Đồ Âm Thanh Đài Loan; bài viết này là mở rộng từ đề cập cấp danh sách tới điều kiện chuyên sâu
+- [Vương Liên Thắng](/vi/art/wang-lien-cheng-artist) — Nghệ sĩ âm thanh và truyền thông mới thế hệ học sinh của Vương Phước Thuỵ tại Bộ phận Tân Truyền Thông Đại học Nghệ Thuật Bắc Kinh, sự tiếp nối làn sóng thể chế hóa học sinh năm 2007 Liên Hoan Mất Tiếng
+- [Truyền Thông Mới Đài Loan](/vi/art/taiwan-new-media-art) — Lịch sử phát triển kỹ thuật số/truyền thông từ 1995 Thử Nghiệm Địa Phương tới Lễ Hội Nghệ Thuật Kỹ Thuật Số Đài Bắc những năm 2000, Vương Phước Thuỵ là nút nối chính trong trục âm thanh
+- [Âm Nhạc Độc Lập Đài Loan](/vi/music/indie-music-scene) — Một trục khác của cảnh tượng âm nhạc underground Đài Loan những năm 1990, song song với cảnh tượng âm thanh/âm nhạc thử nghiệm
 
 ## Nguồn Hình Ảnh
 

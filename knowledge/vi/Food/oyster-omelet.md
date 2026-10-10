@@ -15,7 +15,7 @@ tags:
     'Nước chấm',
     'Kinh tế rau củ',
   ]
-subcategory: 'Món ăn truyền thống'
+subcategory: '經典小吃'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-26

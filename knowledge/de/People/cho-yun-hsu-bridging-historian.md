@@ -36,7 +36,7 @@ sporeLinks:
     date: '2026-05-23'
     url: 'https://x.com/taiwandotmd/status/2058183941593719181'
 translatedFrom: 'People/許倬雲.md'
-sourceCommitSha: '09ffe560f'
+sourceCommitSha: 'ecb3f6520'
 sourceContentHash: 'sha256:a7dc8d1152c0f436'
 sourceBodyHash: 'sha256:5272c869278fa371'
 translatedAt: '2026-09-09T01:20:00+08:00'
@@ -82,11 +82,11 @@ Seine Dissertation wurde später zu _Ancient China in Transition: An Analysis of
 
 Die drei repräsentativen Werke, die er selbst später abschloss – _Han Agriculture_ (1980, englische Ausgabe der University of Washington Press)[^19], _Qiuguang_ (1982, Linking)[^20], _Die Geschichte der Westlichen Zhou_ (1984, Linking)[^21] – lassen sich als drei Selbst-Erprobungen dieser Methode lesen:
 
-| Werk | Zeitabschnitt | Methodisches Instrument |
-| --- | --- | --- |
-| _Han Agriculture_ (漢代農業) | Han-Dynastie | quantitative Rekonstruktion des Bauerlebens, des Marktnetzwerks und des Zusammenspiels mit intensiver Bodenbearbeitung |
-| _Qiuguang_ (求古編) | von der Antike bis Qin-Han | die Evolution des Beamtenapparats zwischen Zentrum und Region, Politik und Gesellschaft |
-| _Die Geschichte der Westlichen Zhou_ (西周史) | Westliche Zhou | Ursprung des „Huaxia“-Bewusstseins, konstruiert durch Verwandtschaftsgruppen (lineage groups) |
+| Werk                                          | Zeitabschnitt              | Methodisches Instrument                                                                                                |
+| --------------------------------------------- | -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| _Han Agriculture_ (漢代農業)                  | Han-Dynastie               | quantitative Rekonstruktion des Bauerlebens, des Marktnetzwerks und des Zusammenspiels mit intensiver Bodenbearbeitung |
+| _Qiuguang_ (求古編)                           | von der Antike bis Qin-Han | die Evolution des Beamtenapparats zwischen Zentrum und Region, Politik und Gesellschaft                                |
+| _Die Geschichte der Westlichen Zhou_ (西周史) | Westliche Zhou             | Ursprung des „Huaxia“-Bewusstseins, konstruiert durch Verwandtschaftsgruppen (lineage groups)                          |
 
 Er selbst nannte die Fragen dieser drei Bücher die „drei Grundfarben der chinesischen Kultur“: drei Ausschnitte, in denen ein Historiker dreißig Jahre lang ununterbrochen dieselbe Gruppe fundamentaler Fragen verfolgte – keine drei unzusammenhängenden Studien[^22].
 
@@ -104,7 +104,7 @@ _Der Nangang-Campus der Academia Sinica – seit 1956 der langjährige Sitz des 
 1980, mit 50 Jahren, wurde er in die 13. Klasse der Akademiemitglieder der Academia Sinica gewählt (Sektion Geistes- und Sozialwissenschaften)[^27].
 
 ![Offizielles Akademiemitglieds-Porträt von Hsu Cho-yun aus seinen späten Jahren, hellblauer Hintergrund, mit Brille, milden Blicken gerade in die Kamera](/article-images/people/hsu-cho-yun-academia-sinica-portrait.webp)
-_Offizielles Porträt von Hsu Cho-yun aus seinen späten Jahren, Academia Sinica. Foto: Academia Sinica (中央研究院), nach 1980. [Attribution-Lizenz via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cho-Yun_Hsu_%E8%A8%B1%E5%80%AC%E9%9B%B2.jpg)._
+_Offizielles Porträt von Hsu Cho-yun aus seinen späten Jahren, Academia Sinica. Foto: Academia Sinica (中央研究院), nach 1980. [Attribution-Lizenz via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cho-Yun_Hsu_%E8%A8%B1%E5%80%AC%E9%9B%B2.jpg).\_
 
 📝 **Das Wort „Makrogeschichte“ wurde später am häufigsten mit Ray Huang verbunden, doch Hsus Makrogeschichte war eine andere:** Huang fragte, warum China nicht über die traditionellen Herrschaftsmuster hinausgelangen konnte (in _1587, A Year of No Significance_ und _China: A Macro History_); Hsu fragte, wie die chinesische Zivilisation selbst durch ihren Kontakt mit anderen Zivilisationen (Steppe, Indien, Islam, Westen) geprägt wurde – und umgekehrt andere prägte. Seine zentrale Überzeugung war die Ablehnung des Sinocentrismus: China zu verstehen, erfordert, China zurück in den Kontext der Weltgeschichte zu stellen, statt es als ein selbstgenügsames, isoliertes, geschlossenes System zu behandeln, das allein seiner inneren Logik folgt[^28].
 
@@ -118,13 +118,13 @@ Hsu Cho-yun war das siebte von neun Geschwistern: Das ist der Ursprung des „si
 
 Den Familienkontext aufgeblättert, zeigt sich eine übersehene kulturelle Landkarte des Nachkriegs-Taiwan:
 
-| Rang unter den Geschwistern | Name | Hauptrolle | Verbindung zur nächsten Generation |
-| --- | --- | --- | --- |
-| Älteste Schwester | Hsu Liu-fen | Absolventin der Volkswirtschaft der Tsing-Hua-Universität, Leiterin der Abteilung Rechnungswesen und Statistik der Taipeh-Handelsschule, Autorin von _Prinzipien der Rechnungslegung_ und eines englisch-chinesischen Rechnungswörterbuchs[^33] | → heiratete Wang Hsin-ming → Sohn Wang Ta-chung (Hirnmediziner) → Enkel **Wang Leehom**[^34] |
-| Zweite Schwester | Hsu Wan-ching | Absolventin der Südwest-Kombinierten Universität[^35] | → heiratete Li Mo (stellv. Minister für Bildung und Wirtschaft) → Sohn **Li Chien-fu** (Originalinterpret von „Söhne des Drachen“)[^35] |
-| Siebtes, älterer Zwilling | **Hsu Cho-yun** | Akademiemitglied der Academia Sinica, Historiker | (Hauptfigur dieses Artikels) |
-| Siebtes, jüngerer Zwilling | Hsu I-yun | Chemieingenieur, Vorsitzender der Atomenergiekommission des Exekutiv-Yuans[^36] | — |
-| (Weitere) | — | — | — |
+| Rang unter den Geschwistern | Name            | Hauptrolle                                                                                                                                                                                                                                      | Verbindung zur nächsten Generation                                                                                                      |
+| --------------------------- | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Älteste Schwester           | Hsu Liu-fen     | Absolventin der Volkswirtschaft der Tsing-Hua-Universität, Leiterin der Abteilung Rechnungswesen und Statistik der Taipeh-Handelsschule, Autorin von _Prinzipien der Rechnungslegung_ und eines englisch-chinesischen Rechnungswörterbuchs[^33] | → heiratete Wang Hsin-ming → Sohn Wang Ta-chung (Hirnmediziner) → Enkel **Wang Leehom**[^34]                                            |
+| Zweite Schwester            | Hsu Wan-ching   | Absolventin der Südwest-Kombinierten Universität[^35]                                                                                                                                                                                           | → heiratete Li Mo (stellv. Minister für Bildung und Wirtschaft) → Sohn **Li Chien-fu** (Originalinterpret von „Söhne des Drachen“)[^35] |
+| Siebtes, älterer Zwilling   | **Hsu Cho-yun** | Akademiemitglied der Academia Sinica, Historiker                                                                                                                                                                                                | (Hauptfigur dieses Artikels)                                                                                                            |
+| Siebtes, jüngerer Zwilling  | Hsu I-yun       | Chemieingenieur, Vorsitzender der Atomenergiekommission des Exekutiv-Yuans[^36]                                                                                                                                                                 | —                                                                                                                                       |
+| (Weitere)                   | —               | —                                                                                                                                                                                                                                               | —                                                                                                                                       |
 
 Mit anderen Worten: In dieser Familie bekleidete Hsu Cho-yun zwei Rollen zugleich – er war der „siebte Großonkel“ Wang Leehoms und zugleich der Onkel von Li Chien-fu. Wang Leehom und Li Chien-fu sind Cousins (Hsu Liu-fen ist Wang Leehoms Großmutter, Hsu Wan-ching Li Chien-fus Mutter; Hsu Liu-fen und Hsu Wan-ching sind leibliche Schwestern).
 
@@ -253,9 +253,7 @@ Hsu hinterließ beinahe vierzig Werke. Das früheste, _Der Weg des Herzens_, ers
 1962: In der Bibliothek der University of Chicago schrieb er zum ersten Mal die Frühlings- und Herbstannalen und die Kriegenden Reiche mit der Methode der Sozialwissenschaften.
 1980: Im Konferenzsaal der Academia Sinica wurde er in die 13. Klasse der Akademiemitglieder gewählt.
 2006: In der Auslage der Hansheng-Buchhandlung stand die erste Auflage von _Der ewige Strom_.
-2024: Am Schreibtisch seines Hauses in Pittsburgh tippte er mit zwei Fingern die achte Fassung von _Jingwei Huaxia_.
-25. Juli 2025: Er schrieb auf Weibo: „Ein Kind wird nicht durch das Alter zum Erwachsenen, sondern durch die Haltung im Herzen“[^11].
-3. August 2025: Im Schlaf atmete er zum letzten Mal aus.
+2024: Am Schreibtisch seines Hauses in Pittsburgh tippte er mit zwei Fingern die achte Fassung von _Jingwei Huaxia_. 25. Juli 2025: Er schrieb auf Weibo: „Ein Kind wird nicht durch das Alter zum Erwachsenen, sondern durch die Haltung im Herzen“[^11]. 3. August 2025: Im Schlaf atmete er zum letzten Mal aus.
 
 „Im Moment meines letzten Atemzugs lerne ich noch“ – Dieser Satz sagte er in einem Interview mit 94; ein Jahr später wurde er wahr.
 

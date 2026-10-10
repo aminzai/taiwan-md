@@ -22,7 +22,7 @@ tags:
     'pelestarian kedaulatan',
     'Meninggal 2026',
   ]
-subcategory: 'Pengusaha'
+subcategory: '企業家'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-26
@@ -41,6 +41,7 @@ sporeLinks:
 translatedFrom: 'People/尹衍樑.md'
 sourceCommitSha: '31a05c44b'
 sourceContentHash: 'sha256:de14cddb4cd06bf6'
+sourceBodyHash: 'sha256:bf303e93b6c06618'
 translatedAt: '2026-07-30T03:46:41.699854+00:00'
 ---
 
@@ -230,8 +231,8 @@ Meninggal dunia pada usia 76 tahun.
 
 - [Cho-yun Hsu: Dua Jari Menulis Aliran Panjang Sejarah Tiongkok](/id/people/cho-yun-hsu-bridging-historian) — Pemenang Hadiah Sinologi Tang edisi keenam 2024, total hadiah 50 juta disumbangkan untuk mendirikan «Beasiswa Hsu-Sun»
 - [Morris Chang](/id/people/tsmc-morris-chang) — Pemimpin industri Taiwan seangkatan, Akademisi ITRI, pendiri TSMC
-- [Stan Shih](/people/施振榮) — Pengusaha seangkatan beralih jadi filantrop, pendiri Acer
-- [Wang Yung-ching](/people/王永慶) — Pemimpin industri Taiwan generasi sebelumnya, pendiri Formosa Plastics dan Rumah Sakit Chang Geng, skala donasi serupa sebagai teladan awal
+- [Stan Shih](/id/people/stan-shih) — Pengusaha seangkatan beralih jadi filantrop, pendiri Acer
+- [Wang Yung-ching](/id/people/yung-ching-wang-formosa-plastics-founder) — Pemimpin industri Taiwan generasi sebelumnya, pendiri Formosa Plastics dan Rumah Sakit Chang Geng, skala donasi serupa sebagai teladan awal
 - [Modernisasi Pertahanan dan Militer Taiwan](/id/society/taiwan-defense-modernization) — Sumbu lain preservasi kedaulatan Taiwan
 
 ## Sumber Gambar

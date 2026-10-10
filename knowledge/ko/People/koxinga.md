@@ -3,7 +3,7 @@ title: '정성공 (鄭成功, 국성야 Koxinga)'
 description: '일본에서 태어나 중국에서 자라고 대만에서 죽은 37년—그의 이름은 오늘날 네 개의 정권이 서로 차지하려 다툰다'
 date: 2026-03-27
 tags: [정성공, 명정, 네덜란드동인도회사, 대만역사, 해상제국, 질란디아성]
-subcategory: '역사 인물'
+subcategory: '歷史人物'
 category: 'People'
 author: 'Taiwan.md Contributors'
 readingTime: 12

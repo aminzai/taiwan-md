@@ -18,12 +18,12 @@ tags:
   ]
 author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: 'Media and Speech'
+subcategory: '媒體與言論'
 readingTime: 8
 lastVerified: 2026-05-03
 lastHumanReview: false
 translatedFrom: 'History/心戰.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:5c60d44b5f8680b8'
 sourceBodyHash: 'sha256:2904cf32d3eb3626'
 translatedAt: '2026-05-03T21:41:10+08:00'
@@ -102,7 +102,7 @@ Psychological warfare has never disappeared; it has only changed its shell. From
 
 [^5]: [https://tcmb.culture.tw/zh-tw/detail?id=753758](https://tcmb.culture.tw/zh-tw/detail?id=753758) — National Cultural Memory Bank
 
-[^6]: [http://board.matsu.idv.tw/boardview.php?board=143&pid=69902](http://board.matsu.idv.tw/boardview.php?board=143&pid=69902) — Matsu Information Network Archive
+[^6]: [http://board.matsu.idv.tw/boardview.php?board=143&pid=69902](http://board.matsu.idv.tw/board_view.php?board=143&pid=69902) — Matsu Information Network Archive
 
 [^7]: [https://tw.news.yahoo.com/%E7%B4%B0%E6%95%B8%E5%8F%8D%E5%85%B1%E7%BE%A9%E5%A3%AB-110352156.html](https://tw.news.yahoo.com/%E7%B4%B0%E6%95%B8%E5%8F%8D%E5%85%B1%E7%BE%A9%E5%A3%AB-110352156.html) — Yahoo News Report
 

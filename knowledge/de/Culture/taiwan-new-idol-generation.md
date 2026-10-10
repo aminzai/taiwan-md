@@ -53,7 +53,7 @@ Dreizehn Episoden, jeweils zwei Stunden lang. Der Meisterschaftswettbewerb fand 
 
 Blaze Love erreichte 57,9 Punkte, Hurricane erreichte 55,4 Punkte. Die Differenz betrug 2,5 Punkte[^3].
 
-Die Siegergruppe Blaze Love debütierte unter dem Namen „G.O.F“ (Girls On Fire). Die Zweitplatzierten Hurricane wurden von Produzent Felipe.Z (斐立普) unter Vertrag genommen und gründeten AOA Entertainment Lab Star Chain Aoa, die unter dem Namen „[HUR+](/people/HUR-plus)“ debütierte[^4]. Pink Fun debütierte gleichzeitig unter dem Namen „PINK FUN“[^3].
+Die Siegergruppe Blaze Love debütierte unter dem Namen „G.O.F“ (Girls On Fire). Die Zweitplatzierten Hurricane wurden von Produzent Felipe.Z (斐立普) unter Vertrag genommen und gründeten AOA Entertainment Lab Star Chain Aoa, die unter dem Namen „[HUR+](/de/people/hur-plus-band)“ debütierte[^4]. Pink Fun debütierte gleichzeitig unter dem Namen „PINK FUN“[^3].
 
 DD52 gewann den **Golden Bell Award für Unterhaltungsshows der 56. Ausgabe**[^3].
 
@@ -68,7 +68,7 @@ Aber die wahre Geschichte begann erst nach dem Meisterschaftswettbewerb.
 
 Nach dem Debüt von G.O.F sank die Popularität schnell ab. PINK FUN erlebte einen Mitgliederabgangskonflikt. Von den drei debütierenden Gruppen lebte die Zweitplatzierten HUR, die am spätesten debütiert hatte, am längsten[^5].
 
-Die Daten der Social-Media-Diskussionen waren brutal: G.O.F erreichte 517 Diskussionen, PINK FUN 621 Diskussionen, HUR 604 Diskussionen[^5]. Die Zahl des Siegers war die niedrigste. Sechs Jahre später im Jahr 2026 gab es von den drei Gruppen nur noch HUR (jetzt [HUR+](/people/HUR-plus)), die Alben veröffentlichte, Konzerte abhielt und für K-Pop-Promotions Geld sammelte[^4].
+Die Daten der Social-Media-Diskussionen waren brutal: G.O.F erreichte 517 Diskussionen, PINK FUN 621 Diskussionen, HUR 604 Diskussionen[^5]. Die Zahl des Siegers war die niedrigste. Sechs Jahre später im Jahr 2026 gab es von den drei Gruppen nur noch HUR (jetzt [HUR+](/de/people/hur-plus-band)), die Alben veröffentlichte, Konzerte abhielt und für K-Pop-Promotions Geld sammelte[^4].
 
 Diese Wende war kein Zufall. Felipe, der Produzent von HUR+, ging einen völlig anderen Weg als die Gewinnerin: Er kopierte nicht Korea.
 
@@ -107,7 +107,7 @@ Atom Boys gewann den **Golden Bell Award für Regie der 58. Ausgabe**[^6].
 
 Im Juli 2023 wurde das Format der Casting-Shows weiterentwickelt: _Future Girls NEXT GIRLZ_ (未來少女) wählte keine Laien, sondern **bereits debütierte Girlgroups**[^8].
 
-Sechs Gruppen traten gegeneinander an: Sun Orange, Mint Crystal, Obsidian Angel, Violet Moon Light, Scarlet Phantom ([HUR+](/people/HUR-plus) mit ihrem neunköpfigen Special), Phantom Blue Bear und ein verstecktes Team namens Ghost Crystal, das durch Abstimmung der Zuschauer freigeschaltet wurde[^8].
+Sechs Gruppen traten gegeneinander an: Sun Orange, Mint Crystal, Obsidian Angel, Violet Moon Light, Scarlet Phantom ([HUR+](/de/people/hur-plus-band) mit ihrem neunköpfigen Special), Phantom Blue Bear und ein verstecktes Team namens Ghost Crystal, das durch Abstimmung der Zuschauer freigeschaltet wurde[^8].
 
 Die Championgruppe Phantom Blue Bear (GenBlue) gewann sechs Titel in neun Runden und erhielt einen Millionenwagen als Preis. Am 2. September 2024 debütierte sie in Korea mit dem Single „COCOCO“ und war der erste Fall, bei dem das taiwanesische Casting-System erfolgreich auf den koreanischen Markt exportiert wurde[^8].
 
@@ -201,7 +201,7 @@ DD52 produzierte drei Gruppen, Atom Boys sieben Gruppen und Atom Boys 2 zwei Gru
 
 Doch unter der großen Erzählung von „leicht entstehen, schwer bestehen“ gab es einzelne Fälle, die einen anderen Weg einschlugen.
 
-Felipe, der Produzent von [HUR+](/people/HUR-plus), hielt die Gruppe sechs Jahre lang am Leben mit der Strategie „nicht wie koreanische Gruppen“. Drei Alben, Geldspenden für K-Pop-Promotions, Mitglieder mit Wurzeln aus Mongolei, Großbritannien, Indonesien und Vietnam – jeder neue Mitgliedsbeitrag entsprach einem Zielmarkt[^4].
+Felipe, der Produzent von [HUR+](/de/people/hur-plus-band), hielt die Gruppe sechs Jahre lang am Leben mit der Strategie „nicht wie koreanische Gruppen“. Drei Alben, Geldspenden für K-Pop-Promotions, Mitglieder mit Wurzeln aus Mongolei, Großbritannien, Indonesien und Vietnam – jeder neue Mitgliedsbeitrag entsprach einem Zielmarkt[^4].
 
 Lian Ying (連穎) (HUR+ Tänzerin) startete nach der Gruppe als Solokünstlerin und veröffentlichte 2025 ihr EP _EZ_ mit einer Hip-Hop- und R&B-Ausrichtung. Ihre Fans organisierten Geburtstagsveranstaltungen in Taodaicheng und platzierten Werbeanzeigen gleichzeitig in Taiwan, Japan und Thailand[^13]. Die K-Pop-ähnliche Kultur der Fanunterstützung wurde von den taiwanesischen Idol-Fan-Communities lokalisiert.
 
@@ -223,12 +223,12 @@ Die Antwort ist noch nicht bekannt. Aber diejenigen, die noch auf der Bühne ste
 
 ## Weiterführende Lektüre
 
-- [HUR+](/people/HUR-plus) — Zweitplatzierten von DD52, die einzige Gruppe, die sechs Jahre lang Alben veröffentlichte. „Nur durch das Nicht-Sein wie koreanische Gruppen gab es eine Chance, Korea nicht zu schlagen.“
-- [Lian Ying](/people/連穎) — Tänzerin von HUR+, ein Experiment des Solodebüts einer taiwanesischen Girlgroup.
-- [Yang Cheng-lin](/people/楊丞琳) — Haupttrainerin von DD52, eine Geschichte von zweiundzwanzig Jahren der Selbstbestimmung aus dem Idol-System.
-- [Ai-ling Tsai](/people/蔡依林) — Die „lokale Göttin“ Taiwans, die Lian Ying öffentlich als „meine Gottheit“ bezeichnete.
-- [Taiwan Popmusik](/music/台灣流行音樂) — Wie Taiwan seinen zentralen Platz in der chinesischen Musiklandschaft einnimmt.
-- [Taiwan Baseballkultur](/culture/台灣棒球文化) — Die Mutterkultur des Cheerleadings, die als Ausgangspunkt für Cosmic Angels diente.
+- [HUR+](/de/people/hur-plus-band) — Zweitplatzierten von DD52, die einzige Gruppe, die sechs Jahre lang Alben veröffentlichte. „Nur durch das Nicht-Sein wie koreanische Gruppen gab es eine Chance, Korea nicht zu schlagen.“
+- [Lian Ying](/de/people/lien-ying) — Tänzerin von HUR+, ein Experiment des Solodebüts einer taiwanesischen Girlgroup.
+- [Yang Cheng-lin](/de/people/rainie-yang) — Haupttrainerin von DD52, eine Geschichte von zweiundzwanzig Jahren der Selbstbestimmung aus dem Idol-System.
+- [Ai-ling Tsai](/de/people/jolin-tsai) — Die „lokale Göttin“ Taiwans, die Lian Ying öffentlich als „meine Gottheit“ bezeichnete.
+- [Taiwan Popmusik](/de/music/golden-melodies-legacy-taiwan-pop-music) — Wie Taiwan seinen zentralen Platz in der chinesischen Musiklandschaft einnimmt.
+- [Taiwan Baseballkultur](/de/culture/taiwan-baseball-culture) — Die Mutterkultur des Cheerleadings, die als Ausgangspunkt für Cosmic Angels diente.
 
 ## Quellenverzeichnis
 

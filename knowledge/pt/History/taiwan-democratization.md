@@ -17,6 +17,11 @@ featured: true
 lastVerified: 2026-04-07
 lastHumanReview: true
 readingTime: 22
+sporeLinks:
+  - id: 10
+    platform: 'threads'
+    date: '2026-04-07'
+    url: 'https://www.threads.com/@taiwandotmd/post/DW1ba_tEz5D'
 translatedFrom: 'History/台灣民主轉型.md'
 sourceCommitSha: 'dbaf28954'
 sourceContentHash: 'sha256:a9330a2eb23d9c97'
@@ -172,15 +177,15 @@ De uma carta de testamento a Presidente do Yuan de Controle, quarenta e um anos.
 
 **Leitura complementar:**
 
-- [O Incidente de 28 de Fevereiro](/history/二二八事件) — Como o trauma de 1947 se tornou a origem da consciência democrática de Taiwan
+- [O Incidente de 28 de Fevereiro](/pt/history/228-incident) — Como o trauma de 1947 se tornou a origem da consciência democrática de Taiwan
 - [O Terror Branco de Taiwan](/pt/history/taiwan-white-terror) — O panorama completo dos casos políticos e violações de direitos humanos durante os trinta e oito anos de lei marcial
 - [A Era da Lei Marcial](/pt/history/martial-law-era) — A base legal da lei marcial mais longa do mundo e os mecanismos de controle social
 - [O Incidente de Mei-Li-Dao](/pt/history/kaohsiung-incident-formosa-incident) — A cronologia completa e o impacto histórico do incidente de 1979 em Kaohsiung
-- [Eleições e Política Partidária em Taiwan](/history/台灣選舉與政黨政治) — A evolução do sistema eleitoral, da Assembleia Nacional eterna aos quatro rodízios de partidos
+- [Eleições e Política Partidária em Taiwan](/pt/history/taiwan-elections-and-party-politics) — A evolução do sistema eleitoral, da Assembleia Nacional eterna aos quatro rodízios de partidos
 - [A Resolução sobre o Futuro de Taiwan](/pt/history/resolution-on-taiwans-future) — Como o PDP usou um documento cheio de ambiguidade em 1999 para completar a transição de rota, abrindo as portas para o primeiro rodízio de partidos em 2000
-- [Justiça de Transição em Taiwan](/history/台灣轉型正義) — Como a sociedade enfrenta os traumas históricos da era autoritária após a democratização
+- [Justiça de Transição em Taiwan](/pt/history/taiwan-transitional-justice) — Como a sociedade enfrenta os traumas históricos da era autoritária após a democratização
 - [O Grande Recall](/pt/history/great-recall-movement-2024) — O maior movimento de recall da história, onde 33 casos em três rodadas de votação falharam totalmente, medindo os limites e custos das ferramentas de democracia direta pós-democratização
-- [O Movimento das Flores do Sol](/society/太陽花學運) — A cronologia completa da ocupação do parlamento em 2014, do acesso forçado em 30 segundos à desincentivação econômica da China doze anos depois
+- [O Movimento das Flores do Sol](/pt/society/sunflower-movement) — A cronologia completa da ocupação do parlamento em 2014, do acesso forçado em 30 segundos à desincentivação econômica da China doze anos depois
 - [A Reunião Lai-Xi de 2026: Dez Minutos de um Reencontro Decenal entre Líderes do KMT e do PCCh](/pt/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Por que a AIT enfatiza o "diálogo com a liderança eleita"? A raiz deste princípio está nesta história de democratização
 - [Chou Tzu-yu](/pt/people/tzuyu) — O vídeo de pedido de desculpas de 90 segundos na véspera das eleições de 2016 foi a nota mais pesada do terceiro rodízio de partidos de Taiwan
 
@@ -196,9 +201,9 @@ De uma carta de testamento a Presidente do Yuan de Controle, quarenta e um anos.
 
 [^5]: [Arquivo de Memória de Direitos Humanos: Evento de Kaohsiung](https://memory.nhrm.gov.tw/TopicExploration/Event/Detail/5) — Inclui fotos, registros de julgamento e depoimentos orais de partes envolvidas do Evento de Kaohsiung de 10 de dezembro de 1979; é a base de dados digitalizada mais completa sobre o Incidente de Mei-Li-Dao.
 
-[^6]: [Story Studio: Da Grande Prisão ao Grande Julgamento Militar](https://storystudio.tw/article/gushi/%E5%BE%9E%E5%A4%A7%E9%80%95%E6%8D%95%E5%88%B0%E8%BB%8D%E6%B3%95%E5%A4%A7%E5%AF%A9%EF%BC%9A%E7%BE%8E%E9%BA%97%E5%B3%B6%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E5%BD%B1%E5%83%8F%E5%8F%B2%EF%BC%88%E4%BA%8C) — Inclui fotos do julgamento militar e a lista dos quinze advogados de defesa, registrando como o julgamento acabou criando acidentalmente a próxima geração de líderes do movimento de oposição.
+[^6]: [Story Studio: Da Grande Prisão ao Grande Julgamento Militar](https://storystudio.tw/article/gushi/%E5%BE%9E%E5%A4%A7%E9%80%AE%E6%8D%95%E5%88%B0%E8%BB%8D%E6%B3%95%E5%A4%A7%E5%AF%A9%EF%BC%9A%E7%BE%8E%E9%BA%97%E5%B3%B6%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E5%BD%B1%E5%83%8F%E5%8F%B2%EF%BC%88%E4%BA%8C) — Inclui fotos do julgamento militar e a lista dos quinze advogados de defesa, registrando como o julgamento acabou criando acidentalmente a próxima geração de líderes do movimento de oposição.
 
-[^7]: [Wikipedia: Massacre da Família Lin](https://zh.wikipedia.org/zh-tw/%E6%9E%97%E5%AE%B6%E8%A1%80%E6%A1%88) — A cronologia e as investigações subsequentes do massacre na casa de Lin Yi-xiong em 28 de fevereiro de 1980; ainda é um dos maiores casos não resolvidos de Taiwan.
+[^7]: [Wikipedia: Massacre da Família Lin](https://zh.wikipedia.org/zh-tw/%E6%9E%97%E5%AE%85%E8%A1%80%E6%A1%88) — A cronologia e as investigações subsequentes do massacre na casa de Lin Yi-xiong em 28 de fevereiro de 1980; ainda é um dos maiores casos não resolvidos de Taiwan.
 
 [^8]: [Arquivo de Memória de Direitos Humanos: Caso Jiang Nan](https://memory.nhrm.gov.tw/TopicExploration/Event/Detail/39) — A cronologia completa do assassinato de Liu Yi-liang em 1984, registrando o processo de investigação do planejamento do assassinato pelo diretor do Bureau de Inteligência Militar, Wang Hsi-ling, e seu impacto político internacional.
 

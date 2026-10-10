@@ -12,7 +12,7 @@ tags:
     'Penulisan Kehidupan',
     'Penulisan Alam',
   ]
-subcategory: 'Sastra'
+subcategory: '文學'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-24

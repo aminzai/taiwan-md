@@ -32,6 +32,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Maanshan_Nuclear_Power_Pla
 translatedFrom: 'Nature/台灣氣候危機與淨零轉型.md'
 sourceCommitSha: 'e80217d19'
 sourceContentHash: 'sha256:3b72a54becd4e249'
+sourceBodyHash: 'sha256:65e86904ae441416'
 translatedAt: '2026-09-20T23:08:54.816260+00:00'
 ---
 
@@ -312,10 +313,10 @@ The 97,672 barrels at Lan Yu will not disappear because the referendum passed or
 - [Taiwan's Hot Springs and Geothermal Energy](/en/nature/taiwan-hot-springs-and-geothermal-energy) — How the 30 years of geothermal silence—from the failure of Qingshui geothermal in 1981 to the restart in 2024—was formed.
 - [Environmental Justice and NIMBY Conflicts in Taiwan](/en/society/taiwan-environmental-justice-nimby-conflicts) — Lan Yu, seaweed reefs, Meinong: The politics of distributing the costs of energy transition.
 - [Taiwan's Industrial Transformation and Upgrading](/en/economy/industrial-transformation-from-manufacturing-to-innovation) — The energy ledger from high-energy manufacturing to green industry: TSMC’s RE100, CBAM, and protecting sacred mountains.
-- [Street Trees in Taiwan](/lifestyle/台灣行道樹) — The spatial and temporal scale of urban heat island mitigation provided by street tree shade: a minimum of ten years is needed for trees to grow enough to provide shade—this is one adjustment we cannot afford to wait for.
+- [Street Trees in Taiwan](/en/lifestyle/taiwan-street-trees) — The spatial and temporal scale of urban heat island mitigation provided by street tree shade: a minimum of ten years is needed for trees to grow enough to provide shade—this is one adjustment we cannot afford to wait for.
 - [Agricultural Modernization Development in Taiwan](/en/economy/taiwan-agricultural-modernization) — The pressures of agricultural transformation and land use conflicts behind agri-energy symbiosis.
 - [Mei Yu (Rainy Season)](/en/nature/meiyu-stagnant-front) — Local observations of climate change: "Spring rain does not come, the rainy season is concentrated."
-- [Taiwan's Oil Price Mechanism and CPC](/economy/台灣油價機制與中油) — The tug-of-war between subsidizing fossil fuels and sending energy-saving signals: freezing prices means cheapness is divided by liters; the more you use, the more you save, but no one has a chart to show who used the most in the last half-year.
+- [Taiwan's Oil Price Mechanism and CPC](/en/economy/taiwan-fuel-pricing-and-cpc) — The tug-of-war between subsidizing fossil fuels and sending energy-saving signals: freezing prices means cheapness is divided by liters; the more you use, the more you save, but no one has a chart to show who used the most in the last half-year.
 
 ## Image Sources
 

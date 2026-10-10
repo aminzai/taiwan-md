@@ -29,7 +29,7 @@ sourceBodyHash: 'sha256:3765efbdda716be7'
 translatedAt: '2026-09-11T07:09:36+08:00'
 ---
 
-> **30-Sekunden-Überblick:** Lian Wun (Erin), geb. 1999 in Taichung, begann in der 2. Klasse des Grundschuls mit Ballett, Volkstänze und chinesischem Tanz, wechselte in der Oberstufe zum Streetdance. 2020 nahm sie an „Lingge Welt DD52“ teil und sagte im zweiten Showdown gegen den Trainer Pan Weibo: „Ich will, dass alle wissen, welches Tanzniveau eine Frauen-Gruppe haben muss.“ – Dieser Satz wurde ihr Markenzeichen. Die DD52-Runner-up-Bande „Sturmhund-Schwarze“ trat unter dem Namen [HUR+](/people/HUR-plus) an, Lian Wun war die Haupttänzlerin. 2025 veröffentlichte sie ihre erste Solo-EP „EZ“, ein Hip-Hop/R&B-Album mit taiwanesischen Elementen, bewusst abseits der typischen melancholischen Balladen. Am 2026-Geburtstag organisierten Fans eine Bühne im Dadaocheng, wo sie ihr neues Lied „Eine Sekunde zu spät“ zum ersten Mal sang. Während sie weiterhin mit der Band arbeitet, veröffentlicht sie Solo-Musik – ein erster Schritt für eine taiwanesische Idol-Gruppenmitglied.
+> **30-Sekunden-Überblick:** Lian Wun (Erin), geb. 1999 in Taichung, begann in der 2. Klasse des Grundschuls mit Ballett, Volkstänze und chinesischem Tanz, wechselte in der Oberstufe zum Streetdance. 2020 nahm sie an „Lingge Welt DD52“ teil und sagte im zweiten Showdown gegen den Trainer Pan Weibo: „Ich will, dass alle wissen, welches Tanzniveau eine Frauen-Gruppe haben muss.“ – Dieser Satz wurde ihr Markenzeichen. Die DD52-Runner-up-Bande „Sturmhund-Schwarze“ trat unter dem Namen [HUR+](/de/people/hur-plus-band) an, Lian Wun war die Haupttänzlerin. 2025 veröffentlichte sie ihre erste Solo-EP „EZ“, ein Hip-Hop/R&B-Album mit taiwanesischen Elementen, bewusst abseits der typischen melancholischen Balladen. Am 2026-Geburtstag organisierten Fans eine Bühne im Dadaocheng, wo sie ihr neues Lied „Eine Sekunde zu spät“ zum ersten Mal sang. Während sie weiterhin mit der Band arbeitet, veröffentlicht sie Solo-Musik – ein erster Schritt für eine taiwanesische Idol-Gruppenmitglied.
 
 2020, 19. Juni, Folge 2 von „Lingge Welt DD52“.
 
@@ -66,7 +66,7 @@ In der offiziellen Vorstellung der DD52-Teilnehmer beschreibt sie sich selbst so
 
 Am 4. September 2020, Finale von DD52. Lian Wuns Gruppe „Sturmhund-Schwarze“ verlor mit 55,4 Punkten gegen „Flammenherz“ mit 57,9 Punkten und wurde Runner-up[^5].
 
-Nach der Show unterschrieb Produzent Pferd alle sechs Mitglieder und gründete [HUR+](/people/HUR-plus). Lian Wuns Rolle in der Band war **Haupttänzlerin und Unterstützungs-Sängerin**, und die Aufmerksamkeit, die sie bei DD52 mit diesem Satz erlangt hatte, wurde direkt in ihre Position in der Band umgewandelt[^2].
+Nach der Show unterschrieb Produzent Pferd alle sechs Mitglieder und gründete [HUR+](/de/people/hur-plus-band). Lian Wuns Rolle in der Band war **Haupttänzlerin und Unterstützungs-Sängerin**, und die Aufmerksamkeit, die sie bei DD52 mit diesem Satz erlangt hatte, wurde direkt in ihre Position in der Band umgewandelt[^2].
 
 Am 6. November 2020 startete HUR durch. DD52 erhielt den Preis für Unterhaltungssendungen beim 56. Goldenen Mikrofon[^5].
 
@@ -173,10 +173,10 @@ Von der 2. Klasse, wo sie begann zu tanzen, zur Oberstufe, wo sie umgestiegen is
 
 ## Weiterführende Literatur
 
-- [HUR+](/people/HUR-plus) — Lian Wuns Band. DD52-Runner-up, die einzige Band, die nach sechs Jahren noch Alben veröffentlicht.
-- [Taiwan neue Idol-Generation](/culture/台灣新偶像世代) — Von DD52 bis „Universelle Cheerleader“, eine industrielle Experimentieranstellung für taiwanesische Idols.
+- [HUR+](/de/people/hur-plus-band) — Lian Wuns Band. DD52-Runner-up, die einzige Band, die nach sechs Jahren noch Alben veröffentlicht.
+- [Taiwan neue Idol-Generation](/de/culture/taiwan-new-idol-generation) — Von DD52 bis „Universelle Cheerleader“, eine industrielle Experimentieranstellung für taiwanesische Idols.
 - [Cai Yilin](/de/people/jolin-tsai) — Die „Göttin“, von der Lian Wun spricht. Eine weitere Geschichte, die von der Tänzerin begann und das Idol-Format erweiterte.
-- [Yang Chengyun](/people/楊丞琳) — Haupttrainer bei DD52. Von „4 in Love“ bis zu „Mollig 2025“ in 25 Jahren.
+- [Yang Chengyun](/de/people/rainie-yang) — Haupttrainer bei DD52. Von „4 in Love“ bis zu „Mollig 2025“ in 25 Jahren.
 - [Zhou ZiYu](/de/people/tzuyu) — Eine weitere taiwanesische junges Mädchen, die in dem Idol-System ihre Rolle fand.
 
 ## Quellen

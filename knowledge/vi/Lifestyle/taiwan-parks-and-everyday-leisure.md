@@ -11,7 +11,7 @@ tags:
     'xuyên thế hệ',
     'cuộc sống hàng ngày',
   ]
-subcategory: 'Giải trí và sự giải trí'
+subcategory: '休閒與娛樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19

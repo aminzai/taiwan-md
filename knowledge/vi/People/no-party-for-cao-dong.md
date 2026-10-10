@@ -20,7 +20,7 @@ tags:
     'post-rock',
     'thế hệ kẻ thất bại',
   ]
-subcategory: 'Âm nhạc và Biểu diễn'
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-06-22
@@ -326,7 +326,7 @@ Rồi camera chuyển sang giải thưởng tiếp theo.
 
 - [Uế Như Hiên](/people/Uế Như Hiên) — Thuộc cùng sinh thái nhạc độc lập 2010, đường người nữ của ngôn ngữ tiếng người là nhóm so sánh
 - [Khác Sĩ Thạc của Biến Cuộn](/people/Khác Sĩ Thạc của Biến Cuộn) — Thuộc cùng phổ post-rock, nhưng đi đường sự tường thuật bằng tiếng nói
-- [Cicada](/people/Cicada) — Đi đường nhạc cụ hoàn toàn, không có tiếng người, đúng ngược lại với Cao Đông \"lời bài hát là xã hội học\"
+- [Cicada](/vi/people/cicada-band) — Đi đường nhạc cụ hoàn toàn, không có tiếng người, đúng ngược lại với Cao Đông \"lời bài hát là xã hội học\"
 - [Lô Quảng Trung](/people/Lô Quảng Trung) — Một con đường \"ca sĩ tác phẩm\" của nhạc độc lập khác
 - [Giải Âm Nhạc Kim Khúc](/music/Giải Âm Nhạc Kim Khúc) — Tọa độ sân khấu nơi Cao Đông lần thứ hai giành Ban nhạc xuất sắc
 - [Nhạc Độc Lập Đài Loan](/music/Nhạc Độc Lập Đài Loan) — Sự tiến hóa của nhạc độc lập từ tóc tự nhiên đến Cao Đông đến Cáo Năm

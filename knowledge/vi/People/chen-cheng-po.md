@@ -4,7 +4,7 @@ description: 'Anh từng chinh phục triển lãm Đế Quốc bằng tranh sơ
 date: 2026-03-31
 category: 'People'
 tags: ['Nghệ thuật', 'Hội họa', 'Sự kiện 228', 'Chiayi', 'Thời kỳ Nhật trị']
-subcategory: 'Nghệ sĩ'
+subcategory: '藝術家'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-31

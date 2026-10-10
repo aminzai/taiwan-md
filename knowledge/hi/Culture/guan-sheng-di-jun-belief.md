@@ -4,7 +4,7 @@ description: 'तीन राजवंशों के काल के से�
 date: '2026-03-26'
 author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: 'धर्म और लोक परंपराएँ'
+subcategory: '宗教與民俗'
 tags:
   [
     'गुआन शेंग दी-जुन',

@@ -78,7 +78,7 @@ Este humor no es una burla hacia la discapacidad, sino una expresión de despreo
 
 [^4]: [金曲歌王蕭煌奇：從小爸媽教會我](https://www.cw.com.tw/article/5121500) — Entrevista en _CommonWealth Magazine_ (天下雜誌), 2022, sobre su trayectoria en los Golden Melody, su familia y su filosofía creativa.
 
-[^5]: [蕭煌奇辦「最目中無人的演唱會」](https://tw.news.yahoo.com/%E8%95%AD%E7%85%8C%E5%A5%87%E8%BE%A6-%E6%9C%80%E7%9B%AE%E4%B8%AD%E7%84%A1%E4%BA%BA%E7%9A%84%E6%BC%94%E5%94%B1%E6%9C%83-%E5%9C%98%E5%93%A1%E6%8B%89%E5%9C%B0%E7%8D%84%E5%93%8F-%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%9E%8E%E7%9A%84%E6%A8%82%E5%9C%98-102703028.html) — Yahoo News, 2025, cobertura del concierto del 30.º aniversario de la Life Line Band.
+[^5]: [蕭煌奇辦「最目中無人的演唱會」](https://tw.news.yahoo.com/%E8%95%AD%E7%85%8C%E5%A5%87%E8%BE%A6-%E6%9C%80%E7%9B%AE%E4%B8%AD%E7%84%A1%E4%BA%BA%E7%9A%84%E6%BC%94%E5%94%B1%E6%9C%83-%E5%9C%98%E5%93%A1%E6%8B%8B%E5%9C%B0%E7%8D%84%E5%93%8F-%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%9E%8E%E7%9A%84%E6%A8%82%E5%9C%98-102703028.html) — Yahoo News, 2025, cobertura del concierto del 30.º aniversario de la Life Line Band.
 
 [^6]: [蕭煌奇 — 維基百科](https://zh.wikipedia.org/zh-hant/%E8%95%AD%E7%85%8C%E5%A5%87) — Compilación completa de la biografía, discografía y premios de Ricky Hsiao.
 

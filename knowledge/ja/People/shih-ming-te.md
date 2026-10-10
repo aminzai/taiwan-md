@@ -4,7 +4,7 @@ description: '1979年の美麗島事件後、施明德は首謀者として軍�
 date: 2026-03-19
 author: 'Taiwan.md'
 category: 'People'
-subcategory: '政治と民主'
+subcategory: '政治與民主'
 tags: ['民主運動', '美麗島事件', '政治受難者', '倒扁紅衫軍', '政治指導者']
 readingTime: 9
 #   whats_excluded: "中國大陸媒體對其倒扁運動的定性（親藍工具論）；美麗島事件後黨外運動路線鬥爭的細節；部分學者對其貢獻的保留意見；紅衫軍中泛藍協作的具體指控"

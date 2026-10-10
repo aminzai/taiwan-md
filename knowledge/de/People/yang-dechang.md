@@ -21,10 +21,11 @@ image: '/article-images/people/edward-yang-beach-set-1983.webp'
 imageCredit: '中央電影公司、新藝城影業（香港）／彭鎧立提供，寄存於國家電影及視聽文化中心'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.tfam.museum/yiyiey'
-translatedFrom: "People/楊德昌.md"
-sourceCommitSha: "21298a7a"
-sourceContentHash: "sha256:c2aa8f15ab2b1700"
-translatedAt: "2026-10-07T05:57:46+08:00"
+translatedFrom: 'People/楊德昌.md'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:c2aa8f15ab2b1700'
+sourceBodyHash: 'sha256:7119ad62eb825546'
+translatedAt: '2026-10-07T05:57:46+08:00'
 ---
 
 > **30-Sekunden-Überblick:** Edward Yang (1947–2007) arbeitete sieben Jahre lang in den USA als U-Boot-Software-Ingenieur, bevor er mit Anfang dreißig alles aufgab, um nach Taiwan zurückzukehren und Filmemachen zu lernen. Mit der Präzision eines Ingenieurs zeichnete er seine Storyboards von Hand und sezierte mit der kühlsten aller Kameraführungen die Verlorenheit der Taipeher Mittelschicht. So entstanden Werke wie „A Brighter Summer Day" und „Yi Yi", die heute zu den hundert besten Filmen der Kinogeschichte zählen – und er wurde als erster Taiwaner mit dem Regiepreis von Cannes ausgezeichnet. Doch diese „Kälte" hatte ihren Preis: Er brüllte Schauspieler an, bis sie mit dem Gesicht zur Wand standen, seine Freundschaft mit Hou Hsiao-hsien kühlte von eng vertraut zu distanziert ab, und „Yi Yi" lief siebzehn Jahre lang, zu seinen Lebzeiten, nicht in taiwanesischen Kinos. Was er filmte, war nie die Geschichte anderer – es war unsere eigene, die wir selbst nicht sehen können.
@@ -264,9 +265,9 @@ Mit der kältesten Logik eines Ingenieurs die heißeste Einsamkeit des menschlic
 
 [^20]: [Shih Lun: Jinan-Straße Nr. 69](http://shihlun.blogspot.com/2007/07/69.html) — Ebenda, beschreibt den alten japanischen Wohnbau als Treffpunkt und die mit Filmideen und vorläufigen Firmennamen vollgeschriebene Tafel, gestützt auf Erinnerungen von Hou Hsiao-hsien und anderen.
 
-[^21]: [Taipei National University of the Arts: „Ein anderes Kino" — Das Taiwanesische Filmmanifest von 1987](<https://1980s.tnua.edu.tw/keyword/主流媒體與多元平台/「另一種電影」民國七十六年臺灣電影宣言/>) — Datenbank zum taiwanesischen Film der 1980er Jahre der Taipei National University of the Arts, hält fest, dass das Manifest von Jan Hung-tze verfasst und am 24. Januar 1987 in „Wenhsing", der Human-Interest-Beilage der China Times, und in Hongkongs „Film Biweekly" veröffentlicht wurde.
+[^21]: [Taipei National University of the Arts: „Ein anderes Kino" — Das Taiwanesische Filmmanifest von 1987](https://1980s.tnua.edu.tw/keyword/主流媒體與多元平台/「另一種電影」民國七十六年臺灣電影宣言/) — Datenbank zum taiwanesischen Film der 1980er Jahre der Taipei National University of the Arts, hält fest, dass das Manifest von Jan Hung-tze verfasst und am 24. Januar 1987 in „Wenhsing", der Human-Interest-Beilage der China Times, und in Hongkongs „Film Biweekly" veröffentlicht wurde.
 
-[^22]: [Taipei National University of the Arts: „Ein anderes Kino" — Das Taiwanesische Filmmanifest von 1987](<https://1980s.tnua.edu.tw/keyword/主流媒體與多元平台/「另一種電影」民國七十六年臺灣電影宣言/>) — Ebenda; das Manifest gliedert sich in drei Abschnitte zur Sicht auf den Film, den Sorgen über das Umfeld und den Hoffnungen auf Veränderung, mit fünfzig Unterzeichnern.
+[^22]: [Taipei National University of the Arts: „Ein anderes Kino" — Das Taiwanesische Filmmanifest von 1987](https://1980s.tnua.edu.tw/keyword/主流媒體與多元平台/「另一種電影」民國七十六年臺灣電影宣言/) — Ebenda; das Manifest gliedert sich in drei Abschnitte zur Sicht auf den Film, den Sorgen über das Umfeld und den Hoffnungen auf Veränderung, mit fünfzig Unterzeichnern.
 
 [^23]: [HK01: Das Taiwanesische Filmmanifest](https://www.hk01.com/article/545528) — HK01 hält fest, dass das Manifest nach seiner Veröffentlichung einen Gegenschlag von Politik, Medien und Kritik gleichermaßen auslöste, die darin formulierten Ideale nie verwirklicht wurden und auch Edward Yangs Filme an den Kinokassen nie den erhofften Erfolg hatten.
 

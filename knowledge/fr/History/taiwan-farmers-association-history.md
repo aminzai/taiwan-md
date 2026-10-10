@@ -128,7 +128,7 @@ La position historique des associations agricoles réside ici. Les politiques ag
 
 ## Pour aller plus loin
 
-- [Réforme foncière à Taïwan](/history/台灣土地改革) — Le contexte institutionnel de l'amélioration des associations agricoles et de la restructuration du pouvoir rural post-guerre
+- [Réforme foncière à Taïwan](/fr/history/taiwan-land-reform) — Le contexte institutionnel de l'amélioration des associations agricoles et de la restructuration du pouvoir rural post-guerre
 - [Développement de la modernisation agricole à Taïwan](/fr/economy/taiwan-agricultural-modernization) — L'autre fil de la promotion par les associations agricoles, de la technique agricole et de la transformation industrielle
 - [Histoire de l'eau potable à Taïwan](/history/台灣自來水史) — Une lecture comparative passant des organisations rurales aux systèmes d'infrastructures publiques
 

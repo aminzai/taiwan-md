@@ -197,9 +197,9 @@ Wenn die nächste Katastrophe eintritt, wird nicht die teuerste Ausrüstung rett
 
 **Weiterführende Lektüre**:
 
-- [Gesundheitsgesetz](/society/醫療法) — Die Rechtsgrundlage der Katastrophenmedizin liegt in Artikel 1 des Gesundheitsgesetzes („angemessene Verteilung medizinischer Ressourcen“ und die Klassifizierung von Einrichtungen); dieser Text beschreibt die tatsächliche Anwendung dieses Gesetzes unter extremen Bedingungen.
-- [Kontroverse um Tierarzneimittel in Taiwan](/society/台灣動物用藥爭議) — Der Mensch hat ein Notfallmedizinsystem, 119 (Notruf), NHI und DMAT; bei Tieren muss selbst Sauerstoff einzeln registriert werden. Die Ressourcenlücke zwischen den beiden Systemen ist ein Spiegelbild der Werteskala dieser Insel.
-- [COVID-Pandemie und Impfstoffe in Taiwan](/society/台灣新冠疫情與疫苗) — Die Isolationsstationen und die Überlastung der Notaufnahmen im Mai 2021 waren das längste Testverfahren für dieses katastrophenmedizinische System.
+- [Gesundheitsgesetz](/de/society/medical-care-act) — Die Rechtsgrundlage der Katastrophenmedizin liegt in Artikel 1 des Gesundheitsgesetzes („angemessene Verteilung medizinischer Ressourcen“ und die Klassifizierung von Einrichtungen); dieser Text beschreibt die tatsächliche Anwendung dieses Gesetzes unter extremen Bedingungen.
+- [Kontroverse um Tierarzneimittel in Taiwan](/de/society/taiwan-animal-drug-controversy) — Der Mensch hat ein Notfallmedizinsystem, 119 (Notruf), NHI und DMAT; bei Tieren muss selbst Sauerstoff einzeln registriert werden. Die Ressourcenlücke zwischen den beiden Systemen ist ein Spiegelbild der Werteskala dieser Insel.
+- [COVID-Pandemie und Impfstoffe in Taiwan](/de/society/taiwan-covid-pandemic-and-vaccines) — Die Isolationsstationen und die Überlastung der Notaufnahmen im Mai 2021 waren das längste Testverfahren für dieses katastrophenmedizinische System.
 
 ---
 

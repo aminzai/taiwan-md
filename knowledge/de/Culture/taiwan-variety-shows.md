@@ -107,8 +107,8 @@ Wenn 1962 „Stars Gathering“ den Nachtclub ins Wohnzimmer holte, dann muss Ta
 
 ## Weiterführende Links
 
-- [Lin You-jia](/people/林宥嘉) — Gewinner der ersten Staffel von „Super Star Avenue“ 2007, eines der repräsentativsten Fälle für Taiwans TV-Casting-Sternemach-Mechanismus
-- [Golden Bell Award](/culture/金鐘獎) — Der Preis, bei dem Varieté-Sendungen jedes Jahr in der Programm-Gala namentlich genannt werden, aus dem 1965 reinen Radio-Preis zu heute drei Galas gewachsen
+- [Lin You-jia](/de/people/yoga-lin) — Gewinner der ersten Staffel von „Super Star Avenue“ 2007, eines der repräsentativsten Fälle für Taiwans TV-Casting-Sternemach-Mechanismus
+- [Golden Bell Award](/de/culture/golden-bell-awards) — Der Preis, bei dem Varieté-Sendungen jedes Jahr in der Programm-Gala namentlich genannt werden, aus dem 1965 reinen Radio-Preis zu heute drei Galas gewachsen
 
 ## Quellen
 

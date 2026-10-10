@@ -2,7 +2,7 @@
 title: 'Nhân tạo thụ tinh tại Đài Loan: Một phôi vượt biên giới, gia đình lại không thể tự động vượt qua rào cản pháp lý'
 description: 'Năm 2020, cặp đôi nữ đồng tính Mota và City đến Campuchia để thực hiện thụ tinh trong ống nghiệm (IVF), bốn năm chi tiêu khoảng 2 triệu Đài tệ mới. Đài Loan đã có Luật Nhân tạo thụ tinh từ năm 2007, năm 2021 lại mở rộng trợ cấp thụ tinh trong ống nghiệm, nhưng đến năm 2025 dự thảo sửa đổi luật mới đưa phụ nữ chưa kết hôn và cặp đôi nữ đồng tính đã kết hôn vào đối tượng được phép. Công nghệ đã lâu đời chín chắn, pháp luật đuổi kịp được không chỉ là cách thức sinh con, mà là ai đủ điều kiện trở thành gia đình.'
 category: 'Society'
-subcategory: 'Nhân quyền và bình đẳng'
+subcategory: '人權與平等'
 tags:
   [
     'Nhân tạo thụ tinh',
@@ -20,6 +20,7 @@ featured: false
 translatedFrom: 'Society/台灣人工生殖.md'
 sourceCommitSha: '8a773c917'
 sourceContentHash: 'sha256:256557b91a57e89f'
+sourceBodyHash: 'sha256:77e3b99bc535ad5d'
 translatedAt: '2026-09-15T02:25:28.355785+00:00'
 ---
 

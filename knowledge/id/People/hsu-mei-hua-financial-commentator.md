@@ -118,13 +118,13 @@ Tapi kode anonim itu, masih di sana.
 
 - [Industri Semi-konduktor](/id/technology/taiwan-semiconductor-industry) — Konteks industri perang Anti-Ziguang: struktur Taiwan dari pengontrakan ke naga kepala pengemasan/pengujian/desain, serta batas tak terlihat "modal Tiongkok tidak boleh masuk"
 - [Perusahaan Taiwan: TSMC](/id/economy/tsmc) — Gunung suci pelindung negara yang Ziguang dulu tidak berani sentuh, tapi menentukan otonomi teknologi Taiwan
-- [Perusahaan Taiwan: ASE](/economy/台灣企業：日月光半導體) — Raksasa pengemasan/pengujian yang pada 2015 sama-sama jadi target modal bersamaan kasus Ziguang, koordinat lain garis depan semi-konduktor Hsu Mei-hua
-- [Gerakan Sosial & Partisipasi Warga](/society/社會運動與公民參與) — Dari Bunga Matahari ke Pembubaran Besar, evolusi koordinat model mobilisasi kode warga anonim seperti Hsu Mei-hua di Taiwan
-- [Sistem Demokrasi](/society/民主制度) — Hak pembubaran sebagai alat demokrasi langsung dalam sistem perwakilan Taiwan, serta debat ambang batas di balik "7 daerah tembus 25%" 2025
-- [Pertemuan Zheng-Xi 2026: Sepuluh Menit Dua Pemimpin KMT-KPK Sepuluh Tahun Kembali Bertemu](/society/2026鄭習會與國共十年再會) — Pasca gagal Pembubaran Besar, bagaimana naskah politik lintas selat berlanjut
-- [Cheng Li-wen (鄭麗文)](/people/鄭麗文) — Tokoh inti sisi lawan Pembubaran Besar: 2025 memimpin KMT menanggulangi pembubaran, mengusung "kerjasama biru-putih"
-- [Han Kuo-yu (韓國瑜)](/people/韓國瑜) — Sebagai Ketua Yuan Legislatif, RUU reformasi parlemen jadi pemicu Pembubaran Besar 2025
-- [Reformasi Yudikatif Taiwan & Sistem Penahanan Pencegahan](/society/台灣司法改革與預防性羈押制度) — Garis pertempuran lain 2025 Yuan Legislatif di mana masyarakat sipil dan pemerintah-oposisi tarik tambang
+- [Perusahaan Taiwan: ASE](/id/economy/taiwan-enterprise-ase-semiconductor) — Raksasa pengemasan/pengujian yang pada 2015 sama-sama jadi target modal bersamaan kasus Ziguang, koordinat lain garis depan semi-konduktor Hsu Mei-hua
+- [Gerakan Sosial & Partisipasi Warga](/id/society/social-movements-and-civic-participation) — Dari Bunga Matahari ke Pembubaran Besar, evolusi koordinat model mobilisasi kode warga anonim seperti Hsu Mei-hua di Taiwan
+- [Sistem Demokrasi](/id/society/democratic-system) — Hak pembubaran sebagai alat demokrasi langsung dalam sistem perwakilan Taiwan, serta debat ambang batas di balik "7 daerah tembus 25%" 2025
+- [Pertemuan Zheng-Xi 2026: Sepuluh Menit Dua Pemimpin KMT-KPK Sepuluh Tahun Kembali Bertemu](/id/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Pasca gagal Pembubaran Besar, bagaimana naskah politik lintas selat berlanjut
+- [Cheng Li-wen (鄭麗文)](/id/people/cheng-li-wun) — Tokoh inti sisi lawan Pembubaran Besar: 2025 memimpin KMT menanggulangi pembubaran, mengusung "kerjasama biru-putih"
+- [Han Kuo-yu (韓國瑜)](/id/people/han-kuo-yu) — Sebagai Ketua Yuan Legislatif, RUU reformasi parlemen jadi pemicu Pembubaran Besar 2025
+- [Reformasi Yudikatif Taiwan & Sistem Penahanan Pencegahan](/id/society/taiwan-judicial-reform-and-preventive-detention) — Garis pertempuran lain 2025 Yuan Legislatif di mana masyarakat sipil dan pemerintah-oposisi tarik tambang
 
 ## Referensi
 

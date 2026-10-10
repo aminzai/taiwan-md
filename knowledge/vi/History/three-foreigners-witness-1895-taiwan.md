@@ -4,7 +4,7 @@ description: 'Năm 1895 trong cuộc nổi dậy Ất Vị, ba người nước 
 date: 2026-04-27
 category: 'History'
 tags: ['Cuộc nổi dậy Ất Vị', '1895', 'phê phán sử liệu', 'thời kỳ Nhật trị']
-subcategory: 'Thực dân và Đế quốc'
+subcategory: '殖民與帝國'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-27
@@ -107,8 +107,8 @@ Ba tài liệu của các người nước ngoài, khi so sánh cùng với tờ
 
 Loạt bài về Cuộc nổi dậy Ất Vị và sử liệu gốc. Loạt bài này sử dụng "vật thể dẫn đầu" làm phương pháp, bắt đầu từ sử liệu cụ thể với nhiều góc nhìn của năm 1895.
 
-- [Cuộc nổi dậy Ất Vị: 148 ngày của Nước Dân chủ Đài Loan](/history/乙未之役) — Loạt D-1. Bắt đầu từ góc nhìn của Tương Thiệu Tổ, thiếu niên khách gia 19 tuổi, kể lại sự khởi thủy và kết thúc của 148 ngày nước dân chủ năm 1895: tổng thống chạy trốn, nhà thơ bỏ thủ, quân nghĩa khách gia chiến đấu, và sự ra đời của chính phủ thực dân Nhật Bản thứ nhất.
-- [Bảo tàng Lịch sử Quốc gia Đài Loan](/society/國立臺灣歷史博物館) — Một tổ chức ba cấp cấp quốc gia xuất bản _Ghi chép kinh nghiệm theo quân Cuộc nổi dậy Ất Vị_ (2015), _Sử liệu tiếng Trung về Cuộc nổi dậy Ất Vị_ (2016), _Biên dịch Sử liệu ngoại ngữ về Cuộc nổi dậy Ất Vị_ (2018-2019) mà loạt bài này trích dẫn.
+- [Cuộc nổi dậy Ất Vị: 148 ngày của Nước Dân chủ Đài Loan](/vi/history/1895-taiwan-resistance-war) — Loạt D-1. Bắt đầu từ góc nhìn của Tương Thiệu Tổ, thiếu niên khách gia 19 tuổi, kể lại sự khởi thủy và kết thúc của 148 ngày nước dân chủ năm 1895: tổng thống chạy trốn, nhà thơ bỏ thủ, quân nghĩa khách gia chiến đấu, và sự ra đời của chính phủ thực dân Nhật Bản thứ nhất.
+- [Bảo tàng Lịch sử Quốc gia Đài Loan](/vi/society/national-museum-of-taiwan-history) — Một tổ chức ba cấp cấp quốc gia xuất bản _Ghi chép kinh nghiệm theo quân Cuộc nổi dậy Ất Vị_ (2015), _Sử liệu tiếng Trung về Cuộc nổi dậy Ất Vị_ (2016), _Biên dịch Sử liệu ngoại ngữ về Cuộc nổi dậy Ất Vị_ (2018-2019) mà loạt bài này trích dẫn.
 - [Kho dữ liệu Sử liệu Đài Loan ở nước ngoài của Bảo tàng Lịch sử Quốc gia Đài Loan](https://taiwanoverseas.nmth.gov.tw/) — Chứa 2100+ trang sử liệu ngoại ngữ về Cuộc nổi dậy Ất Vị trong bộ sưu tập kỹ thuật số, bao gồm dịch tác phẩm của ba tác giả này và báo cáo của lãnh sự Anh, có thể xem trực tuyến trực tiếp.
 - [James W. Davidson, _The Island of Formosa, Past and Present_ (1903)](https://archive.org/details/islandofformosap00davi) — Phiên bản tiếng Anh đầy đủ được sắp xếp xuất bản của ghi chép theo quân của Davidson, 600+ trang, miễn phí xem trên Internet Archive. Một trong những tài liệu sơ cấp tiếng Anh quan trọng nhất của lịch sử Đài Loan, nên chú ý để ý tới bối cảnh lập trường của tác giả khi đọc.
 

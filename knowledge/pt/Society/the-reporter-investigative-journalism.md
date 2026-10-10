@@ -281,9 +281,9 @@ Reinterpretar "eu debito 200 dólares por mês" de "fazer caridade" para "pagar 
 - [Mídia de Taiwan e liberdade de imprensa](/pt/society/media-and-press-freedom-in-taiwan) — Panorama da retirada de partido, governo e militares da mídia até à ecologia midiática atual.
 - [PTS](/pt/society/pts-public-television-service) — Outro caminho de mídia pública: orçamento legal a sustentar a versão radiodifusão de "bem público".
 - [CommonWealth Magazine](/pt/society/commonwealth-magazine) — Onde Ho Jung-hsing estava antes de sair da chefia de redação, representante da mídia comercial financeira de Taiwan.
-- [Operações cognitivas](/society/認知作戰) — Frente unida, desinformação IA, estratégia de zona cinzenta, pano de fundo do tema de frente unida de 2026 do The Reporter.
-- [Operação cognitiva da batata-doce venenosa](/society/毒馬鈴薯認知作戰) — Estudo de caso concreto de um evento de operação cognitiva.
-- [PTT](/technology/PTT批踢踢) — A praça pública da internet prévia de Taiwan, na mesma veia de "plataforma não é necessariamente neutra" do The Reporter.
+- [Operações cognitivas](/pt/society/cognitive-warfare-against-taiwan) — Frente unida, desinformação IA, estratégia de zona cinzenta, pano de fundo do tema de frente unida de 2026 do The Reporter.
+- [Operação cognitiva da batata-doce venenosa](/pt/society/poisoned-potato-cognitive-warfare-taiwan) — Estudo de caso concreto de um evento de operação cognitiva.
+- [PTT](/pt/technology/ptt-bulletin-board-system) — A praça pública da internet prévia de Taiwan, na mesma veia de "plataforma não é necessariamente neutra" do The Reporter.
 
 ## Fontes das imagens
 

@@ -267,12 +267,12 @@ A montanha sagrada que protege o país dominou o presente graças à experiênci
 - [Empresa de Taiwan: ASE Semiconductor](/pt/economy/taiwan-enterprise-ase-semiconductor) — Indústria de embalagem e teste global nº 1, ecossistema de back-end além do CoWoS
 - [Os Construtores da Montanha: A Aposta do Século](/pt/art/mountain-makers-tsmc-documentary) — Documentário de 2025 de Hsiao Ju-chen, cinco anos de entrevistas com 80+ veteranos de semicondutores; em 2026 chega a Purdue, Wisconsin e Michigan, três polos de investimento do CHIPS Act
 - [Wu Ta-you](/pt/people/tai-yu-wu) — Enquanto Taiwan apostava nos semicondutores nos anos 1980, como presidente da Academia Sinica insistiu na importância da ciência básica, lançando as bases do sistema de pesquisa de Taiwan
-- [Huang Chung-jen](/people/黃崇仁) — Fundador da Powerchip / PSMC, a rota de Taiwan no DRAM construindo fábricas próprias sobre licenciamento alheio: market share caiu de 23,2% para 6,3%, o capítulo menos contado desta indústria
+- [Huang Chung-jen](/pt/people/frank-huang-psmc) — Fundador da Powerchip / PSMC, a rota de Taiwan no DRAM construindo fábricas próprias sobre licenciamento alheio: market share caiu de 23,2% para 6,3%, o capítulo menos contado desta indústria
 - [Indústria de robótica de Taiwan](/pt/technology/taiwan-robotics-industry) — A ilha nº 1 em semicondutores, por que na era da robótica é aluna de recuperação? Olhando a fratura industrial a partir da inauguração do NCAIR
 - [Bolsa e mercado de capitais de Taiwan](/pt/economy/taiwan-stock-market) — Como todo o ecossistema da cadeia de suprimentos que sustenta o 6º maior mercado global em 2026 se reflete no mercado de capitais
 - [Cadeia de suprimentos de tungstênio de Taiwan](/pt/technology/taiwan-tungsten-supply-chain) — O hexafluoreto de tungstênio preenche contatos e word lines de 3D NAND; Taiwan não tem minas de tungstênio, mas subiu ao midstream desta matéria-prima via reciclagem e refino
 - [Escola de IA de Taiwan](/pt/technology/taiwan-ai-academy) — Como os 10 mil engenheiros de IA treinados em 8 anos pela AIA retornam à cadeia ICT existente de semicondutores, reforçando o lado de software de Taiwan
-- [Computex: três grandes feiras internacionais de computação, duas acabaram, a que sobrou cresce em Taipé](/technology/Computex) — O CoWoS e os processos avançados da TSMC todo fim de maio apertam a mão dos gigantes globais de IA nesta feira de 45 anos em Taipé
+- [Computex: três grandes feiras internacionais de computação, duas acabaram, a que sobrou cresce em Taipé](/pt/technology/computex) — O CoWoS e os processos avançados da TSMC todo fim de maio apertam a mão dos gigantes globais de IA nesta feira de 45 anos em Taipé
 - [Parques científicos de Taiwan](/pt/technology/science-park-development) — Hsinchu, Sul e Centro, três parques que são o suporte físico do cluster de semicondutores e também o centro geográfico do escudo de silício
 
 ## Fontes de Imagem

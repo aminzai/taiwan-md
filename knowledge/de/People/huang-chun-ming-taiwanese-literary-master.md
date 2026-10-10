@@ -4,7 +4,15 @@ description: 'Geboren am 13. Februar 1935 in Luodong, Yilan. „Tag am Meer“ (
 date: 2026-03-19
 category: 'People'
 subcategory: '文學'
-tags: ['Literatur', 'Heimatliteratur', 'Yilan', 'kleine Leute', 'Die große Spielzeugpuppe des Sohnes', 'Tag am Meer']
+tags:
+  [
+    'Literatur',
+    'Heimatliteratur',
+    'Yilan',
+    'kleine Leute',
+    'Die große Spielzeugpuppe des Sohnes',
+    'Tag am Meer',
+  ]
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07
@@ -17,6 +25,7 @@ readingTime: 7
 translatedFrom: 'People/黃春明.md'
 sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:67504d464a04b735'
+sourceBodyHash: 'sha256:59fc287ce8c0baeb'
 translatedAt: '2026-08-18T02:12:09+08:00'
 ---
 
@@ -84,12 +93,12 @@ Dass er 2026 noch lebt, ist selbst die ruhigste Antwort an alle, die die Linie d
 
 ## Referenzen
 
-[^1]: [Wikipedia: Huang Chun-ming](https://zh.wikipedia.org/zh-tw/黃春明) – bestätigt Geburt am 13. Februar 1935 in Luodong, Yilan, „Tag am Meer“ (um 1967), „Die große Spielzeugpuppe des Sohnes“ (1969) sowie die Auszeichnungen mit Wu-San-lien-Literaturpreis und Nationalem Literaturpreis.
+[^1]: [Wikipedia: Huang Chun-ming](https://zh.wikipedia.org/zh-tw/黃春明) — Details in der verlinkten Originalquelle
 
-[^2]: [The Reporter: Die taiwanesische Nativismus-Debatte der 1970er-Jahre](https://www.twreporter.org/a/1970s-taiwan-nativist-literature-huang-chunming) – enthält Ablauf der Nativismus-Debatte von 1977 und Huang Chun-mings Position darin.
+[^2]: [The Reporter: Die taiwanesische Nativismus-Debatte der 1970er-Jahre](https://www.twreporter.org/a/1970s-taiwan-nativist-literature-huang-chunming) — Details in der verlinkten Originalquelle
 
-[^3]: [Wikipedia: Die große Spielzeugpuppe des Sohnes (Film)](<https://zh.wikipedia.org/zh-tw/兒子的大玩偶_(電影)>) – bestätigt die Regie von Hou Hsiao-hsien bei „Die große Spielzeugpuppe des Sohnes“ (1983), ein wichtiges Werk des Neuen Taiwanesischen Films.
+[^3]: [Wikipedia: Die große Spielzeugpuppe des Sohnes (Film)](<https://zh.wikipedia.org/zh-tw/兒子的大玩偶_(電影)>) — Details in der verlinkten Originalquelle
 
-[^4]: [Verwandte Berichte: Der Tod Huang Kuo-chuns 2003](https://zh.wikipedia.org/zh-tw/黃國峻) – bestätigt, dass Huang Chun-mings zweiter Sohn Huang Kuo-chun (Schriftsteller) sich am 20. Juni 2003 das Leben nahm.
+[^4]: [Verwandte Berichte: Der Tod Huang Kuo-chuns 2003](https://zh.wikipedia.org/zh-tw/黃國峻) — Details in der verlinkten Originalquelle
 
-[^5]: [Nationalmuseum für taiwanesische Literatur: Digitale Sammlung Huang Chun-ming](https://www.nmtl.gov.tw/) – Werkbestand und biografische Daten Huang Chun-mings.
+[^5]: [Nationalmuseum für taiwanesische Literatur: Digitale Sammlung Huang Chun-ming](https://www.nmtl.gov.tw/) — Details in der verlinkten Originalquelle

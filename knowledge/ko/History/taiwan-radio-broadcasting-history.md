@@ -120,9 +120,9 @@ translatedAt: '2026-09-10T05:34:24+08:00'
 
 ##延伸阅读
 
-- [대만 여성운동사](/society/婦女新知) — 제도적 통제에서 공공 발언으로 나아가는 또 다른 사회사
-- [대만 우편사](/lifestyle/台灣郵政) — 통신 기반 시설이 어떻게 지역 일상에 들어왔는가
-- [대만 농회사](/history/台灣農會史) — 농촌 조직, 금융, 지역 공공 창구의 제도사
+- [대만 여성운동사](/ko/society/awakening-foundation) — 제도적 통제에서 공공 발언으로 나아가는 또 다른 사회사
+- [대만 우편사](/ko/lifestyle/taiwan-postal-service-history) — 통신 기반 시설이 어떻게 지역 일상에 들어왔는가
+- [대만 농회사](/ko/history/taiwan-farmers-association-history) — 농촌 조직, 금융, 지역 공공 창구의 제도사
 
 ## 참고 자료
 

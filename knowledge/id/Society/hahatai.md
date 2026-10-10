@@ -11,7 +11,7 @@ tags:
     'Budaya Internet',
     'Industri Konten',
   ]
-subcategory: 'Media dan Kebebasan Berpendapat'
+subcategory: '媒體與言論'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16
@@ -21,6 +21,7 @@ curation: 'incubating'
 translatedFrom: 'Society/哈哈台.md'
 sourceCommitSha: 'e292b0e80'
 sourceContentHash: 'sha256:61d6518a4ba39054'
+sourceBodyHash: 'sha256:8bb3282a6d2b9453'
 translatedAt: '2026-09-12T10:08:04.715126+00:00'
 ---
 

@@ -259,11 +259,11 @@ Ba mươi vài năm rồi, Giải Âm nhạc Vàng thực ra không phải đang
 ## Đọc thêm
 
 - [Nhạc pop Đài Loan](/vi/music/golden-melodies-legacy-taiwan-pop-music) — Từ công nghiệp đĩa đến thời đại truyền phát trực tuyến, toàn bộ lịch sử lên xuống của ngành, Giải Âm nhạc Vàng là con quy tắc chính thức trên đường này
-- [Sự tiến hóa của nhạc ca Tiếng Đài](/music/台灣台語歌曲演進) — Từ những bài ca bi lụy đến sự chuyển đổi rock của Lâm Cường với "Đi Về Phía Trước", cách nhạc Tiếng Đài bước vào lòng đông chính thức
+- [Sự tiến hóa của nhạc ca Tiếng Đài](/vi/music/taiwanese-hokkien-song-evolution) — Từ những bài ca bi lụy đến sự chuyển đổi rock của Lâm Cường với "Đi Về Phía Trước", cách nhạc Tiếng Đài bước vào lòng đông chính thức
 - [Truyền thống nhạc dân tộc bản địa Đài Loan](/vi/music/indigenous-music-traditions) — Từ những bài ca bản đồng xã đến Chen Jiannian và Apo, nguồn gốc và hiện đại của nhạc bản địa
 - [Nghệ sĩ sáng tạo bản địa đương đại](/vi/music/contemporary-indigenous-singer-songwriters) — Tiếng nói và hoàn cảnh của Ji Hsiao-chun, Bana và Apo trong dòng dõi này
 - [Không gian nhạc độc lập Đài Loan](/vi/music/indie-music-scene) — Cách thế hệ Cao Đông và đường phố vượt qua công nghiệp đĩa để lên tới đỉnh cao của Giải Âm nhạc Vàng
-- [Giải Kim La Mã](/culture/金鐘獎) — Tượng cổ nhất trong ba giải: chiếc đồng hồ được đúc cho phát thanh trong năm 1965, danh sách giải thưởng 61 năm ghi lại tay nào nắm lấy truyền hình của Đài Loan
+- [Giải Kim La Mã](/vi/culture/golden-bell-awards) — Tượng cổ nhất trong ba giải: chiếc đồng hồ được đúc cho phát thanh trong năm 1965, danh sách giải thưởng 61 năm ghi lại tay nào nắm lấy truyền hình của Đài Loan
 
 ## Nguồn ảnh
 
@@ -287,7 +287,7 @@ Bài viết này sử dụng 2 bức ảnh được phép CC, cache tại `publi
 
 [^6]: [Wikipedia — Kỳ 13 Giải Âm nhạc Vàng](https://zh.wikipedia.org/zh-tw/%E7%AC%AC13%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — Chu Kiệt Luân bốn hạng cá nhân _Phạm Tuyên Tây_, hạng Nhạc Sĩ Từ Lời của Phương Văn Sơn, hạng Sắp Xếp Nhạc của Chung Hưng Dân v.v. danh sách chiến thắng năm 2002, nguồn gốc xác minh.
 
-[^7]: [Wikipedia — Hạng Nữ Ca Sĩ Quốc Ngữ Xuất Sắc Nhất Giải Âm nhạc Vàng](https://zh.wikipedia.org/zh-tw/%E6%9C%80%E4%BD%B3%E8%8F%AF%E8%AA%9E%E5%A5%B3%E6%AD%8C%E6%89%8B%E7%8D%8E_(%E9%87%91%E6%9B%B2%E7%8D%8E) — )) — Thái Kiện Ngoại bốn lần đội vương miện, Trương Huệ Mẫu đề cử mười bốn lần và ba lần đội vương miện, các kỷ lục ca sĩ nữ vương qua các kỳ, nguồn gốc tra cứu
+[^7]: [Wikipedia — Hạng Nữ Ca Sĩ Quốc Ngữ Xuất Sắc Nhất Giải Âm nhạc Vàng](<https://zh.wikipedia.org/zh-tw/%E6%9C%80%E4%BD%B3%E8%8F%AF%E8%AA%9E%E5%A5%B3%E6%AD%8C%E6%89%8B%E7%8D%8E_(%E9%87%91%E6%9B%B2%E7%8D%8E)>) — )) — Thái Kiện Ngoại bốn lần đội vương miện, Trương Huệ Mẫu đề cử mười bốn lần và ba lần đội vương miện, các kỷ lục ca sĩ nữ vương qua các kỳ, nguồn gốc tra cứu
 
 [^8]: [Báo Thời Gian (Liên Hợp Báo) — Lâm Cường "Đi Về Phía Trước" và Phong Trào Ca Khúc Tiếng Đài Mới](https://time.udn.com/udntime/story/122834/7791726) — "Đi Về Phía Trước" chiến thắng Ca Khúc Xuất Sắc Nhất kỳ 3 năm 1991, album bán vượt bốn mươi vạn bản, khung cảnh phong trào ca khúc tiếng Đài mới xác minh.
 

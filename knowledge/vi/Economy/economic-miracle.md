@@ -112,7 +112,7 @@ _Viện trưởng Hành chính viện Tưởng Kinh Quốc, người chủ trì 
 
 **Tổng vốn đầu tư cho Mười công trình xây dựng lớn: khoảng 200 tỷ Đài tệ** (tương đương nhiều lần quy mô dự trữ ngoại hối của Đài Loan khi ấy)
 
-Các dự án bao gồm đường cao tốc Trung Sơn, Sân bay quốc tế Đào Viên, Cảng Đài Trung, Nhà máy điện hạt nhân số 1 và số 2, Tập đoàn Thép Trung Quốc, Công ty Đóng tàu Trung Quốc, cùng các công trình giao thông và công nghiệp nặng như ngành hóa dầu. Toàn bộ bối cảnh quy hoạch và những tranh luận liên quan được trình bày riêng trong bài “[Mười công trình xây dựng lớn: Canh bạc 200 tỷ trên nền dự trữ ngoại hối 1 tỷ USD](/history/十大建設)”.
+Các dự án bao gồm đường cao tốc Trung Sơn, Sân bay quốc tế Đào Viên, Cảng Đài Trung, Nhà máy điện hạt nhân số 1 và số 2, Tập đoàn Thép Trung Quốc, Công ty Đóng tàu Trung Quốc, cùng các công trình giao thông và công nghiệp nặng như ngành hóa dầu. Toàn bộ bối cảnh quy hoạch và những tranh luận liên quan được trình bày riêng trong bài “[Mười công trình xây dựng lớn: Canh bạc 200 tỷ trên nền dự trữ ngoại hối 1 tỷ USD](/vi/history/ten-major-construction-projects)”.
 
 Khi ấy, các dự án bị chỉ trích là “ham quy mô, chuộng thành tích” và “để nợ lại cho con cháu”. Tuy nhiên, diễn biến về sau cho thấy nếu không có những cơ sở hạ tầng này, bước cất cánh kinh tế trong thập niên 1980 căn bản không thể xảy ra.
 
@@ -337,9 +337,9 @@ Tác giả của câu chuyện ấy vẫn là mỗi người dân Đài Loan.
 
 **Đọc thêm**:
 
-- [Hóa đơn: Tờ giấy năm 1951 biến toàn dân thành thanh tra thuế vụ](/economy/發票) — hóa đơn thống nhất là một hạ tầng tài chính then chốt ra đời cùng thời kỳ kỳ tích kinh tế; ngay trong năm đầu triển khai vào năm 1951, chính sách này đã làm nguồn thu thuế kinh doanh tăng vọt 75%
-- [Mười công trình xây dựng lớn: Canh bạc 200 tỷ trên nền dự trữ ngoại hối 1 tỷ USD](/history/十大建設) — toàn bộ bối cảnh, tranh luận và diễn ngôn chính trị của canh bạc trong thập niên 1970
-- [Những chính sách tốt xuyên đảng phái](/history/跨黨派的好政策) — quan điểm phổ biến cho rằng cải cách ruộng đất đã “thúc đẩy kỳ tích kinh tế Đài Loan” thực ra không đứng vững
+- [Hóa đơn: Tờ giấy năm 1951 biến toàn dân thành thanh tra thuế vụ](/vi/economy/taiwan-uniform-invoice) — hóa đơn thống nhất là một hạ tầng tài chính then chốt ra đời cùng thời kỳ kỳ tích kinh tế; ngay trong năm đầu triển khai vào năm 1951, chính sách này đã làm nguồn thu thuế kinh doanh tăng vọt 75%
+- [Mười công trình xây dựng lớn: Canh bạc 200 tỷ trên nền dự trữ ngoại hối 1 tỷ USD](/vi/history/ten-major-construction-projects) — toàn bộ bối cảnh, tranh luận và diễn ngôn chính trị của canh bạc trong thập niên 1970
+- [Những chính sách tốt xuyên đảng phái](/vi/history/bipartisan-good-policy) — quan điểm phổ biến cho rằng cải cách ruộng đất đã “thúc đẩy kỳ tích kinh tế Đài Loan” thực ra không đứng vững
 
 ## Nguồn hình ảnh
 

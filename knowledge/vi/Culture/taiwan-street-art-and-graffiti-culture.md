@@ -11,7 +11,7 @@ tags:
     'nghệ thuật công cộng',
     'văn hóa phụ trội',
   ]
-subcategory: 'Khu vực nghệ thuật'
+subcategory: '藝術園區'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20
@@ -94,4 +94,4 @@ Công nghệ kỹ thuật số cũng đang mở ra những khả năng mới. Ph
 ## Đọc tiếp
 
 - [Nghệ thuật đương đại Đài Loan](/culture/台灣當代藝術) — Giao điểm giữa nghệ thuật đường phố và sinh thái nghệ thuật đương đại của Đài Loan
-- [Âm nhạc điện tử Đài Loan và văn hóa tiệc tùng](/music/台灣電子音樂與派對文化) — Cảnh âm nhạc điện tử chia sẻ nguồn gốc văn hóa phụ trội với nghệ thuật đường phố
+- [Âm nhạc điện tử Đài Loan và văn hóa tiệc tùng](/vi/music/taiwan-electronic-music-and-party-culture) — Cảnh âm nhạc điện tử chia sẻ nguồn gốc văn hóa phụ trội với nghệ thuật đường phố

@@ -105,9 +105,9 @@ Bis Ende 2023 hatten über 140.000 Menschen in ganz Taiwan die ökologische Best
 
 **Weiterführende Lektüre**
 
-- [Religiöse und Tempelkultur Taiwans](/culture/台灣宗教與寺廟文化) — Wie der Volksglaube die Bestattungsideen beeinflusst
-- [Hochzeiten, Trauerfeiern und Lebensrituale in Taiwan](/culture/台灣婚喪喜慶與人生禮俗) — Das vollständige Spektrum von der Geburt bis zum Tod
-- [Umweltgerechtigkeit und NIMBY-Streitigkeiten in Taiwan](/society/台灣環境正義與鄰避爭議) — Soziale Konflikte um Verbrennungsanlagen und Grabplatzwahl
+- [Religiöse und Tempelkultur Taiwans](/de/culture/taiwan-religion-and-temple-culture) — Wie der Volksglaube die Bestattungsideen beeinflusst
+- [Hochzeiten, Trauerfeiern und Lebensrituale in Taiwan](/de/culture/taiwanese-life-ceremony-traditions) — Das vollständige Spektrum von der Geburt bis zum Tod
+- [Umweltgerechtigkeit und NIMBY-Streitigkeiten in Taiwan](/de/society/taiwan-environmental-justice-nimby-conflicts) — Soziale Konflikte um Verbrennungsanlagen und Grabplatzwahl
 
 **Referenzen**
 

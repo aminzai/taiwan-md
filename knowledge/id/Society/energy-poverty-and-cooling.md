@@ -134,7 +134,7 @@ Evaluasi kebijakan juga harus mempertahankan suara penghuni. Pemerintah daerah d
 
 Bacaan lanjutan dari artikel ini dapat dilacak lebih lanjut dalam tiga arah: informasi pencegahan bahaya panas dari National Health Agency (國民健康署), data adaptasi iklim dan energi dari Kementerian Lingkungan (環境部), dan rencana penghematan energi perumahan serta penggantian peralatan yang dipublikasikan oleh pemerintah daerah. Saat membaca, harus membedakan antara tiga tingkat bukti yang berbeda: "pengumuman kebijakan," "hasil penelitian," dan "saran artikel ini," untuk menghindari salah mengartikan subsidi tahunan atau survei kasus tunggal sebagai tren nasional jangka panjang.
 
-- [Siapa yang Berpenghasilan Rendah](/society/誰算低薪) — Penggaris lain dari kemiskinan: upah minimum mempertahankan gaji pokok, pekerja berpenghasilan rendah masuk ke kolom akhir tahun dan industri tanpa bonus
+- [Siapa yang Berpenghasilan Rendah](/id/society/who-counts-as-low-wage) — Penggaris lain dari kemiskinan: upah minimum mempertahankan gaji pokok, pekerja berpenghasilan rendah masuk ke kolom akhir tahun dan industri tanpa bonus
 
 ## Referensi
 

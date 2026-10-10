@@ -164,7 +164,7 @@ IUCNは漁業との相互作用を直接的かつ差し迫った脅威として�
 
 授權詳情：[CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/deed.en)。
 
-## 參考資料
+## 参考資料
 
 [^1]: [海洋保育署：臺灣海域白海豚保育專區](https://www.oca.gov.tw/ch/home.jsp?id=368&parentpath=0,296,360) — 海洋保育署官方物種與棲地專區，說明中華白海豚的分類、近岸河口棲地、763 平方公里重要棲息環境與六類人為威脅。
 

@@ -17,7 +17,7 @@ tags:
     'Festival Mất Tiếng',
     'FAB DAO',
   ]
-subcategory: 'Nghệ thuật âm thanh và đa phương tiện'
+subcategory: '聲音與新媒體藝術'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-20
@@ -131,9 +131,9 @@ Từ 23 chiếc máy lật trang đồng thời vào tháng 9 năm 2017 ở Linz
 
 ## Mở Rộng Đọc
 
-- **[Vương Tân Nhân (A Loạn)](/vi/art/wang-xin-ren)** — Nghệ sĩ cùng nhóm Dự án 100 đỉnh núi, Nghệ sĩ Đài Loan đầu tiên của Art Blocks, hợp tác nhiều lần với Vương Liên Thành
-- **[FAB DAO và Dự án 100 đỉnh núi](/vi/art/fab-dao-va-du-an-100-dinh-nui)** — Bối cảnh hoàn chỉnh Dự án 100 đỉnh núi mà Vương Liên Thành tham gia sáu người
-- **[Nghệ thuật đa phương tiện Đài Loan](/vi/art/nghesuat-daphuongtiemtaiwan)** — Hệ thống hoàn chỉnh bốn mươi năm âm thanh nghệ thuật đa phương tiện Đài Loan, từ Hoàng Tâm Khang đến Vương Liên Thành
+- **[Vương Tân Nhân (A Loạn)](/vi/art/wang-hsin-jen-artist)** — Nghệ sĩ cùng nhóm Dự án 100 đỉnh núi, Nghệ sĩ Đài Loan đầu tiên của Art Blocks, hợp tác nhiều lần với Vương Liên Thành
+- **[FAB DAO và Dự án 100 đỉnh núi](/vi/art/fab-dao)** — Bối cảnh hoàn chỉnh Dự án 100 đỉnh núi mà Vương Liên Thành tham gia sáu người
+- **[Nghệ thuật đa phương tiện Đài Loan](/vi/art/taiwan-new-media-art)** — Hệ thống hoàn chỉnh bốn mươi năm âm thanh nghệ thuật đa phương tiện Đài Loan, từ Hoàng Tâm Khang đến Vương Liên Thành
 
 ## Tham khảo Tài liệu
 

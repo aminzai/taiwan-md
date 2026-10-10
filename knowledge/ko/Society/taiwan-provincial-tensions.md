@@ -3,7 +3,7 @@ title: '대만의 성적(省籍) 갈등'
 description: '성적 갈등은 두 집단이 서로를 싫어하는 이야기가 아니라, 누가 "대만인"을 정의할 자격이 있는가를 둘러싼 권력 다툼이다. 선거에서 죽다 살아나고, 군인 가족 마을 철거 속에 조용히 사라지면서도, 결코 진정으로 끝나지 않았다.'
 date: 2026-03-31
 tags: [사회, 족군, 정치, 역사, 정체성]
-subcategory: '족군과 정체성'
+subcategory: '族群與身份'
 category: 'Society'
 author: 'Taiwan.md'
 readingTime: 15

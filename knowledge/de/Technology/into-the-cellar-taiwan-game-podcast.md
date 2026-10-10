@@ -141,10 +141,10 @@ Die Methode hat sich geändert. Der Geist, „jemand hat die Antwort hier hinter
 
 ## Weiterführende Literatur
 
-- [Taiwans Netzgemeinschaftswanderung](/technology/台灣網路社群遷徙史) — Von BBS bis Threads: Die Geschichte der taiwanesischen sozialen Plattformen
-- [Taiwans Open-Source-Geist](/technology/台灣開源精神) — Eine andere Gruppe taiwanesischer „Liebhaber, die mit Liebe betrieben werden"
-- [PTT – die langlebigste BBS Taiwans](/technology/PTT批踢踢) — Ein Produkt der gleichen Epoche wie Bahamut
-- [Das Doppelschwert von Daewoo](/technology/大宇雙劍) — Die Quelle der emotionalen Erinnerungen an taiwanesische Einzelspieler
+- [Taiwans Netzgemeinschaftswanderung](/de/technology/taiwan-online-community-migration) — Von BBS bis Threads: Die Geschichte der taiwanesischen sozialen Plattformen
+- [Taiwans Open-Source-Geist](/de/technology/taiwan-open-source-spirit) — Eine andere Gruppe taiwanesischer „Liebhaber, die mit Liebe betrieben werden"
+- [PTT – die langlebigste BBS Taiwans](/de/technology/ptt-bulletin-board-system) — Ein Produkt der gleichen Epoche wie Bahamut
+- [Das Doppelschwert von Daewoo](/de/technology/softstar-twin-classics) — Die Quelle der emotionalen Erinnerungen an taiwanesische Einzelspieler
 - [Die verrückten Momente der taiwanesischen Spieler](/de/technology/taiwan-gamers-wildest-moments) — Kollektive Rasereien der Keller-/Gamebase-/Bahamut-Generation
 
 ---

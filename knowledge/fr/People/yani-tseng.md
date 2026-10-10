@@ -12,7 +12,7 @@ tags:
     'Grand Chelem',
     'Golf féminin',
   ]
-subcategory: 'Sport'
+subcategory: '體育'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 12

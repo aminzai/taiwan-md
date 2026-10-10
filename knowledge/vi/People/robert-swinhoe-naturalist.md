@@ -13,7 +13,7 @@ tags:
     'khai thác thương mại',
     'thế kỷ 19',
   ]
-subcategory: 'Nhân vật lịch sử'
+subcategory: '歷史人物'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-12

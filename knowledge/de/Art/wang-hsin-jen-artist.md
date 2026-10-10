@@ -149,10 +149,10 @@ Der Verkauf innerhalb einer Stunde am 22. August 2021 war aus Ergebnissicht eine
 ## Weiterführende Lektüre
 
 - **[FAB DAO und Baiyue Project](/de/art/fab-dao)** — Das sechsköpfige gemeinnützige NFT-Projekt, an dem Wang Xinren beteiligt war; zum Verständnis des gesamten Ökosystems von Baiyue.
-- **[Wu Zheyu (吳哲宇)](/people/吳哲宇)** — Künstler aus der internationalen Gruppe des Baiyue Projects und Mitbegründer des FAB DAO, vom Art Blocks Project Electriz bis zur Biennale Venedig.
-- **[Medienkunst Taiwan](/art/台灣新媒體藝術)** — Die vollständige Genealogie der Medienkunst in Taiwan von Huang Xinjian, Yuan Guangming bis Wang Xinren.
-- **[Zeitgenössische Kunst Taiwan](/art/當代藝術)** — Die Position und Koordinate der generativen Kunst in der zeitgenössischen Kunstgeschichte Taiwans.
-- **[Wang Liansheng (Xia Ba) (王連晟)](/art/王連晟)** — Künstler des Baiyue Projects, Klanginstallationskünstler; Gewinner des Lumen Prize 3D/Sculpture Award 2017 (Werk „Reading Plan“).
+- **[Wu Zheyu (吳哲宇)](/de/people/che-yu-wu)** — Künstler aus der internationalen Gruppe des Baiyue Projects und Mitbegründer des FAB DAO, vom Art Blocks Project Electriz bis zur Biennale Venedig.
+- **[Medienkunst Taiwan](/de/art/taiwan-new-media-art)** — Die vollständige Genealogie der Medienkunst in Taiwan von Huang Xinjian, Yuan Guangming bis Wang Xinren.
+- **[Zeitgenössische Kunst Taiwan](/de/art/contemporary-art)** — Die Position und Koordinate der generativen Kunst in der zeitgenössischen Kunstgeschichte Taiwans.
+- **[Wang Liansheng (Xia Ba) (王連晟)](/de/art/wang-lien-cheng-artist)** — Künstler des Baiyue Projects, Klanginstallationskünstler; Gewinner des Lumen Prize 3D/Sculpture Award 2017 (Werk „Reading Plan“).
 
 ## Quellenverzeichnis
 

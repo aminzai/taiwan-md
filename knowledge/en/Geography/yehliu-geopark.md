@@ -9,7 +9,7 @@ readingTime: 8
 lastVerified: 2026-04-26
 lastHumanReview: false
 translatedFrom: 'Geography/野柳.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:061c7b5484113eed'
 sourceBodyHash: 'sha256:e080c9e068d13667'
 translatedAt: '2026-05-16T22:19:17Z'

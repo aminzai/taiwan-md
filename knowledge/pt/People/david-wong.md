@@ -145,11 +145,11 @@ Ele usou sessenta e um anos para viver como alguém que se recusa a ser definido
 
 **Leitura complementar**:
 
-- [Jonathan Lee (李宗盛)](/people/李宗盛) — Produtor musical sinófono da mesma geração, também passou a vida a escrever as mágoas dos outros; contraste entre o "chinês fraco, recorre à colaboração" de David Huang (黃大煒) e o "linguagem coloquial de rua" de Jonathan Lee (李宗盛), dois caminhos para escrever baladas.
+- [Jonathan Lee (李宗盛)](/pt/people/li-zongsheng) — Produtor musical sinófono da mesma geração, também passou a vida a escrever as mágoas dos outros; contraste entre o "chinês fraco, recorre à colaboração" de David Huang (黃大煒) e o "linguagem coloquial de rua" de Jonathan Lee (李宗盛), dois caminhos para escrever baladas.
 - [Chen Sheng (陳昇)](/pt/people/bobby-chen-indie-music-pioneer) — Igualmente fora do mainstream, a insistir na própria linguagem musical, os dois provaram que o meio musical sinófono cabe vozes que "não bajulam".
 - [Xiao Huang-chi (蕭煌奇)](/pt/people/ricky-hsiao-singer) — Outra voz com identificação altíssima em Taiwan, ver como gerações diferentes usam timbres únicos para definir o som de uma época.
-- [Golden Melody Awards (金曲獎)](/music/金曲獎) — O único Golden Melody de David Huang (黃大煒) foi de arranjo e não de interpretação, este contraste é um corte para entender a lógica de premiação dos Golden Melody.
-- [Cultura de KTV em Taiwan (台灣KTV文化)](/music/台灣KTV文化) — "Você Me Embebedou" (〈你把我灌醉〉) é clássico nas tabelas de KTV, ver como uma canção via KTV se torna memória coletiva de uma geração.
+- [Golden Melody Awards (金曲獎)](/pt/music/pop-music-and-golden-melody-awards) — O único Golden Melody de David Huang (黃大煒) foi de arranjo e não de interpretação, este contraste é um corte para entender a lógica de premiação dos Golden Melody.
+- [Cultura de KTV em Taiwan (台灣KTV文化)](/pt/music/ktv-culture) — "Você Me Embebedou" (〈你把我灌醉〉) é clássico nas tabelas de KTV, ver como uma canção via KTV se torna memória coletiva de uma geração.
 
 ## Fontes das imagens
 

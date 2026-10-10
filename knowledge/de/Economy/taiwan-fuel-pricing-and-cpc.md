@@ -34,6 +34,7 @@ relatedDiary: ['2026-09-19-003000-news-radar']
 translatedFrom: 'Economy/台灣油價機制與中油.md'
 sourceCommitSha: 'ff39af227'
 sourceContentHash: 'sha256:24e5d0eeeb829e10'
+sourceBodyHash: 'sha256:dba211101379a553'
 translatedAt: '2026-09-26T13:38:42.908807+00:00'
 ---
 
@@ -201,7 +202,7 @@ _Letzte Überprüfung: 19. September 2026. Offene Fäden: Prüfung des Zusatzbud
 
 **Weiterführende Lektüre**:
 
-- [Kassenbon](/economy/發票) — Ebenso ein institutionelles Objekt als Maßstab: wie ein Beleg alle Bürger zu Steuerkontrolleuren macht, und wie eine Ölpreis-Pressemitteilung einen Liter in drei Teile zerlegt.
+- [Kassenbon](/de/economy/taiwan-uniform-invoice) — Ebenso ein institutionelles Objekt als Maßstab: wie ein Beleg alle Bürger zu Steuerkontrolleuren macht, und wie eine Ölpreis-Pressemitteilung einen Liter in drei Teile zerlegt.
 - [Taiwanische Unternehmen: Formosa Plastics Group](/de/economy/formosa-plastics-group) — Die Geschichte des anderen taiwanischen Ölraffineurs Formosa Petrochemical, die vertikale Integration nach Mailiao Naphtha Cracker.
 - [Netzstabilität](/de/society/taiwan-grid-resilience) — Das Stromsystem hinter den 71,1 Milliarden Yuan für Taipower im Zusatzbudget, wer nach einem Stromausfall zuerst wiederhergestellt wird.
 - [Taiwans Klimakrise und Netto-Null-Umwandlung](/de/nature/taiwan-climate-change-net-zero-transition) — Das Tauziehen zwischen Subventionierung fossiler Brennstoffe und Energiesparsignalen, betrachtet im Kontext des Netto-Null-Zeitplans.

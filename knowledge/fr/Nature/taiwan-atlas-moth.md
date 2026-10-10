@@ -5,7 +5,16 @@ date: 2026-03-19
 author: 'Taiwan.md Contributors'
 category: 'Nature'
 subcategory: '野生動物'
-tags: ['papillon-atlas', 'papillon à tête de serpent', 'Atlas Moth', 'papillons de nuit', 'conservation', 'insectes', 'écologie']
+tags:
+  [
+    'papillon-atlas',
+    'papillon à tête de serpent',
+    'Atlas Moth',
+    'papillons de nuit',
+    'conservation',
+    'insectes',
+    'écologie',
+  ]
 readingTime: 10
 lastVerified: 2026-03-19
 lastHumanReview: false
@@ -87,11 +96,15 @@ La stratégie de reproduction du papillon-atlas est également remarquable : il 
 
 ## Références
 
-[^1]: [Observations du papillon-atlas sur iNaturalist Taïwan](https://taiwan.inaturalist.org/taxa/125071-Attacus-atlas) — Registres d'observations et données de répartition du papillon-atlas à Taïwan.
-[^2]: [Réseau de biodiversité de Taïwan](https://www.tbn.org.tw/) — Base de données de répartition et de spécimens du papillon-atlas.
-[^3]: [Agence forestière et de conservation de la nature du Ministère de l'Agriculture](https://www.forest.gov.tw/) — Politiques et ressources relatives à la conservation des papillons de nuit à Taïwan.
-[^4]: [Papillon-atlas — Wikipédia](https://zh.wikipedia.org/zh-tw/皇蛾) — Description de la morphologie, de la répartition et des habitudes écologiques du papillon-atlas.
-[^5]: [Attacus atlas - Picture Insect](https://pictureinsect.com/zh-tw/wiki/Attacus_atlas.html) — Cycle de vie et caractéristiques d'identification du papillon-atlas.
+[^1]: [Observations du papillon-atlas sur iNaturalist Taïwan](https://catalog.digitalarchives.tw/item/00/5b/8e/5c.html) — Registres d'observations et données de répartition du papillon-atlas à Taïwan.
+
+[^2]: [Réseau de biodiversité de Taïwan](https://taieol.tw/pages/107777) — Base de données de répartition et de spécimens du papillon-atlas.
+
+[^3]: [Agence forestière et de conservation de la nature du Ministère de l'Agriculture](https://news.ltn.com.tw/news/Taipei/breakingnews/5520373) — Politiques et ressources relatives à la conservation des papillons de nuit à Taïwan.
+
+[^4]: [Papillon-atlas — Wikipédia](https://www.nhm.ac.uk/discover/spotlight-the-atlas-moth.html) — Description de la morphologie, de la répartition et des habitudes écologiques du papillon-atlas.
+
+[^5]: [Attacus atlas - Picture Insect](https://en.wikipedia.org/wiki/Attacus_atlas) — Cycle de vie et caractéristiques d'identification du papillon-atlas.
 
 Pour aller plus loin :
 

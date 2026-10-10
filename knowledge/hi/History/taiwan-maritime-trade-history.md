@@ -120,6 +120,6 @@ translatedAt: '2026-08-04T20:19:13+08:00'
 
 विस्तारित पठन:
 
-- [डच-स्पैनिश-मिंग-झेंग काल](/history/荷西明鄭時期)
+- [डच-स्पैनिश-मिंग-झेंग काल](/hi/history/dutch-spanish-and-koxinga-era)
 - [चिंग शासन काल](/hi/history/qing-dynasty-rule)
-- [ताइवान का तटीय भूआकृति और समुद्री भू-दृश्य](/geography/台灣海岸地形與海洋地景)
+- [ताइवान का तटीय भूआकृति और समुद्री भू-दृश्य](/hi/geography/taiwan-coastal-landforms-and-seascapes)

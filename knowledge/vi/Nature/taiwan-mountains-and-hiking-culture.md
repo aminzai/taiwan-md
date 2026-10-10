@@ -107,9 +107,9 @@ Mặt nước của Hồ Gia Minh phản chiếu bầu trời, dù có hay khôn
 
 - [Hệ sinh thái rừng Đài Loan](/vi/nature/taiwan-forest-ecosystems) — Từ rừng ngọa diệp xanh đến rừng thủy sinh hằng cao, các tầng sinh thái theo độ cao
 - [Hệ sinh thái cao nguyên và di sản thời băng Đài Loan](/vi/nature/taiwan-alpine-ecosystems-glacial-relicts) — Các đồng bằng cao nguyên trên 3.000 mét và các loài thời băng còn lại
-- [Công viên quốc gia Đài Loan](/nature/台灣國家公園) — Ba công viên quốc gia dạng núi cao: Thạch Sơn, Thạch Bảo, Thạch Lâm và quản lý bảo tồn
-- [Văn hóa đường leo và bảo vệ công dân Đài Loan](/nature/台灣步道文化與公民守護) — Hoạt động rừng núi không để lại dấu vết và thực hành bảo vệ bằng người dân
-- [Tri thức sinh thái và bảo tồn môi trường người Bản nguyên Đài Loan](/nature/台灣原住民生態智慧與環境保育) — Ngàn năm tri thức về rừng núi đang trò chuyện với bảo tồn hiện đại
+- [Công viên quốc gia Đài Loan](/vi/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — Ba công viên quốc gia dạng núi cao: Thạch Sơn, Thạch Bảo, Thạch Lâm và quản lý bảo tồn
+- [Văn hóa đường leo và bảo vệ công dân Đài Loan](/vi/nature/trail-culture-and-civic-stewardship) — Hoạt động rừng núi không để lại dấu vết và thực hành bảo vệ bằng người dân
+- [Tri thức sinh thái và bảo tồn môi trường người Bản nguyên Đài Loan](/vi/nature/taiwanese-indigenous-ecological-wisdom-conservation) — Ngàn năm tri thức về rừng núi đang trò chuyện với bảo tồn hiện đại
 
 ## Tham khảo
 
@@ -135,4 +135,4 @@ Mặt nước của Hồ Gia Minh phản chiếu bầu trời, dù có hay khôn
 
 [^11]: [Nhà sách: Bản dịch niên biểu "Hành trình khám phá Đài Loan của Sơn Thụ nhất hỗ" bản lưu trữ đặc biệt](https://www.books.com.tw/products/0010900485) — Dịch giả Yang Năng khoa học, xuất bản tại Hàn Quốc. Sơn Thụ nhất hỗ mất vào năm 1926 trên tàu đang hội họa trở về Nhật Bản, được tin là tự xuống biển. Cuốn sách này ghi lại toàn bộ quá trình khám phá các khu vực núi cao và đảo của Đài Loan trong vòng ba mươi năm của anh.
 
-[^12]: [Wikipedia tiếng Việt: Thạch Sơn (Đài Loan)](<https://zh.wikipedia.org/zh-tw/雪山_(臺灣) — Bản tiếng Việt ghi rõ Tày Yáng gọi Thạch Sơn khác nhau tùy bộ tín: Tại bộ Tày Yáng Trung Đông Ngọc (Sqoyaw, bộ bảo vệ Thạch Sơn phía nam), gọi "B'bu' Hagay" nghĩa là "núi đá", mô tả vị trí đỉnh núi có tên đá bằng sỏi ngày một tích tụ; bộ Bắc Thịnh (phía tây của vựa lũ Đông An) gọi "Sekoan" hoặc "Sekuwan" nghĩa là "sỏi vụn và nứt nẻ". Bản ghi cũ "Babo Hagai" là cách phiên âm bằng tiếng Nhật thời Pháp thuộc, người đọc Allen Tsai trong issue #1204 chỉ ra nên dùng chữ viết hiện đại của ngôn ngữ nguyên thủy được công bố bởi Trung tâm Nghiên cứu và Phát triển Ngôn ngữ Bản nguyên.
+[^12]: [Wikipedia tiếng Việt: Thạch Sơn (Đài Loan)](<https://zh.wikipedia.org/zh-tw/雪山_(臺灣)>) — Bản tiếng Việt ghi rõ Tày Yáng gọi Thạch Sơn khác nhau tùy bộ tín: Tại bộ Tày Yáng Trung Đông Ngọc (Sqoyaw, bộ bảo vệ Thạch Sơn phía nam), gọi "B'bu' Hagay" nghĩa là "núi đá", mô tả vị trí đỉnh núi có tên đá bằng sỏi ngày một tích tụ; bộ Bắc Thịnh (phía tây của vựa lũ Đông An) gọi "Sekoan" hoặc "Sekuwan" nghĩa là "sỏi vụn và nứt nẻ". Bản ghi cũ "Babo Hagai" là cách phiên âm bằng tiếng Nhật thời Pháp thuộc, người đọc Allen Tsai trong issue #1204 chỉ ra nên dùng chữ viết hiện đại của ngôn ngữ nguyên thủy được công bố bởi Trung tâm Nghiên cứu và Phát triển Ngôn ngữ Bản nguyên.

@@ -3,7 +3,7 @@ title: 'Gwei Lun Mei: A atuadora discreta e habilidosa'
 description: "De 'Secretly Confessed to a Girl' a habituada das festivais internacionais de cinema, a atuadora discreta e habilidosa"
 date: 2026-03-19
 category: 'People'
-subcategory: 'Filme e Teatro'
+subcategory: '電影與戲劇'
 tags:
   [
     'Gwei Lun Mei',

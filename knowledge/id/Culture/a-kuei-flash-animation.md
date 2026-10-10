@@ -12,7 +12,7 @@ tags:
     'budaya internet',
     'animasi Taiwan',
   ]
-subcategory: 'Budaya Internet'
+subcategory: '網路文化'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-09-02
@@ -27,6 +27,7 @@ rationale:
 translatedFrom: 'Culture/阿貴動畫.md'
 sourceCommitSha: '8730173b1'
 sourceContentHash: 'sha256:e731c57f65bf71e6'
+sourceBodyHash: 'sha256:00444a759deb7a89'
 translatedAt: '2026-09-13T09:11:08.395049+00:00'
 ---
 

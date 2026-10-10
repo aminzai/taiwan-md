@@ -241,6 +241,7 @@ lifeTree:
 translatedFrom: 'People/壞特.md'
 sourceCommitSha: 'dd39065b2'
 sourceContentHash: 'sha256:67d7cdf3a4bcd692'
+sourceBodyHash: 'sha256:f96db07a5b8f044c'
 translatedAt: '2026-09-26T08:39:17.108373+00:00'
 ---
 
@@ -487,7 +488,7 @@ Als sie vor der Goldene-Nadel-Preis-Bühne sagte: „Fürchtet euch nicht“, wu
 ## Weiterführende Literatur
 
 - [Taiwan unabhängige Musik](/de/music/indie-music-scene) — bedroom pop / lo-fi R&B in der gleichaltrigen Ökologie der Jahre 2019–2020
-- [Taiwan Hip-Hop und Rap-Entwicklung](/music/台灣嘻哈與饒舌發展) — Sie überquert die Genres, unterstützt und organisiert die 2025-ige Geschlechtsfeindlichkeit-Debatte, legt den Kontext der vierzig Jahre taiwanesischer Rap-Geschichte in Perspektive
+- [Taiwan Hip-Hop und Rap-Entwicklung](/de/music/taiwan-hip-hop-and-rap) — Sie überquert die Genres, unterstützt und organisiert die 2025-ige Geschlechtsfeindlichkeit-Debatte, legt den Kontext der vierzig Jahre taiwanesischer Rap-Geschichte in Perspektive
 - [Tan Hsin Chen](/de/people/hebe-tien-singer) — gleichaltrige Preisträgerin des 32. Goldenen Melodien-Preises als beste weibliche Künstlerin, die beiden Enden einer 19-jährigen Karriere
 - [Cheng Chien-hsiung](/de/people/chen-chien-chi-music-producer) — ein weiterer Strang der taiwanesischen Pop-Musik-Produzenten-Dynastie der gleichaltrigen Generation
 

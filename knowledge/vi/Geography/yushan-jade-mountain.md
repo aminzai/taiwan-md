@@ -93,7 +93,7 @@ Khi nói đến việc “chinh phục đỉnh Ngọc Sơn”, có lẽ chúng t
 
 [^7]: [Sinh thái — Khu vực Tây Bắc](https://www.ysnp.gov.tw/En/RecreationArea/1fbfec62-e8ce-4916-a902-a6c28c9dd33e?Tab=6) — Ban Quản lý Công viên quốc gia Ngọc Sơn: xem nội dung tại liên kết gốc
 
-[^8]: [Ghi chép lịch sử và những câu chuyện chinh phục đỉnh Ngọc Sơn](https://goodjobtrekker.com/%E7%8E%89%E5%B1%B1%E7%99%BB%E9%A0%82%E7%9A%84%E6%AD%B7%E5%8F%B2%E7%B4%80%E9%8C%84%E8%88%87%E6%95%85%E4%BA%8A/) — Sơn Hành Dã Thú: xem nội dung tại liên kết gốc
+[^8]: [Ghi chép lịch sử và những câu chuyện chinh phục đỉnh Ngọc Sơn](https://goodjobtrekker.com/%E7%8E%89%E5%B1%B1%E7%99%BB%E9%A0%82%E7%9A%84%E6%AD%B7%E5%8F%B2%E7%B4%80%E9%8C%84%E8%88%87%E6%95%85%E4%BA%8B/) — Sơn Hành Dã Thú: xem nội dung tại liên kết gốc
 
 [^9]: [Một triệu lượt người leo Ngọc Sơn mỗi năm tạo ra 250 kilôgam rác](https://news.pts.org.tw/article/375743) — Mạng tin tức Truyền hình Công cộng: Mạng tin tức Truyền hình Công cộng
 

@@ -1,12 +1,12 @@
 ---
 title: 'ROUTINE'
-description: 'Routine 飛輪 SSOT — TWMD-prefix cron routine（live enabled 數以排程表＋⏸️ 註記為準，不另寫死）。v2.20（2026-08-04）：+twmd-terminology-trends-monthly（每月 5 日 10:30 用語趨勢觀察 — SC 需求→多切面搜索→缺口對照→≤20 條帶肉入庫→月度趨勢報告；canonical TERMINOLOGY-TRENDS-PIPELINE，哲宇拍板「排定期 routine，月度就好」）；v2.17（2026-07-12）：+twmd-founder-lens-weekly（週六 22:00 創造者透鏡週級深 pass — 飛輪第一條刻意離開顱骨的 routine：render 冷讀活產物 + off-repo 訊號 + 意義/reframe 判斷 → 提案路由 evolution-roadmap/OBSERVER-QUEUE/ARTICLE-INBOX；canonical FOUNDER-LENS-PIPELINE，哲宇 /goal「設計 routine 取代哲宇對 taiwan.md 所有機能」→ 三層邊界地圖 Tier 1 前緣）；v2.16（2026-07-12）：+twmd-supporters-weekly（每週一 01:00 Portaly 贊助信 sync；canonical SUPPORTERS-PIPELINE，哲宇 directive「未來這個自動一個禮拜跑一次」）；v2.15（2026-07-10）：weekly-report 升體檢週 ¹⁵（WEEKLY-REPORT-PIPELINE v4.0 診斷五面＋修復三桶＋10 章節，哲宇拍板）；v2.14（2026-07-10）：對齊 live，maintainer-pm 7/8 起哲宇 disabled ¹⁴、spore-pick/publish 6/14 起 disabled pending 哲宇；v2.13（2026-07-05）：dna-audit 對齊 live；v2.12（2026-06-14）：+twmd-embeddings-nightly（每天 05:00 bge-m3 語意索引重建；canonical EMBEDDING-PIPELINE）；v2.11（2026-06-14）：babel-nightly 加 Stage D diary 認知層 babel；v2.10（2026-06-12）：spore-pick / spore-publish 哲宇拍板重開實驗（含觀察條款）'
+description: 'Routine 飛輪 SSOT — TWMD-prefix cron routine（live enabled 數以排程表＋⏸️ 註記為準，不另寫死）。v2.27（2026-10-10）：+twmd-review-stock（週三 22:00 審庫存——T1 高流量未審文章 FACTCHECK Quick＋冷讀席預審→查證單＋preReview 指標；讀者複核 N=3 才轉 verified via community；canonical MAINTAINER-PIPELINE §1d；OBSERVER-QUEUE #86 哲宇 10-10 選 A）；v2.20（2026-08-04）：+twmd-terminology-trends-monthly（每月 5 日 10:30 用語趨勢觀察 — SC 需求→多切面搜索→缺口對照→≤20 條帶肉入庫→月度趨勢報告；canonical TERMINOLOGY-TRENDS-PIPELINE，哲宇拍板「排定期 routine，月度就好」）；v2.17（2026-07-12）：+twmd-founder-lens-weekly（週六 22:00 創造者透鏡週級深 pass — 飛輪第一條刻意離開顱骨的 routine：render 冷讀活產物 + off-repo 訊號 + 意義/reframe 判斷 → 提案路由 evolution-roadmap/OBSERVER-QUEUE/ARTICLE-INBOX；canonical FOUNDER-LENS-PIPELINE，哲宇 /goal「設計 routine 取代哲宇對 taiwan.md 所有機能」→ 三層邊界地圖 Tier 1 前緣）；v2.16（2026-07-12）：+twmd-supporters-weekly（每週一 01:00 Portaly 贊助信 sync；canonical SUPPORTERS-PIPELINE，哲宇 directive「未來這個自動一個禮拜跑一次」）；v2.15（2026-07-10）：weekly-report 升體檢週 ¹⁵（WEEKLY-REPORT-PIPELINE v4.0 診斷五面＋修復三桶＋10 章節，哲宇拍板）；v2.14（2026-07-10）：對齊 live，maintainer-pm 7/8 起哲宇 disabled ¹⁴、spore-pick/publish 6/14 起 disabled pending 哲宇；v2.13（2026-07-05）：dna-audit 對齊 live；v2.12（2026-06-14）：+twmd-embeddings-nightly（每天 05:00 bge-m3 語意索引重建；canonical EMBEDDING-PIPELINE）；v2.11（2026-06-14）：babel-nightly 加 Stage D diary 認知層 babel；v2.10（2026-06-12）：spore-pick / spore-publish 哲宇拍板重開實驗（含觀察條款）'
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v2.26'
-last_updated: 2026-09-18
-last_session: '2026-09-18-132812-news-radar（news-lens-weekly 接回探測器第四源，解 138 天停擺；註 ²⁶）'
+current_version: 'v2.28'
+last_updated: 2026-10-10
+last_session: '2026-10-10-192115-queue-triage（註 ²⁸ 排程模型對齊：embeddings 改 Haiku、15 條沒寫 model 跑預設 Opus 的盤點，Muse 落地）'
 sister_docs:
   - 'HEARTBEAT.md'
   - 'ANATOMY.md'
@@ -48,7 +48,7 @@ upstream_canonical:
 | `twmd-distill-weekly`             | TWMD distill (weekly) ⁷              | `0 3 * * 0`        | `/twmd-distill`            | Opus      | 週日 03:00                          |
 | `twmd-self-evolve-weekly`         | TWMD self-evolve (weekly)            | `0 4 * * 0`        | `/twmd-self-evolve`        | Opus      | 週日 04:00                          |
 | `twmd-babel-nightly`              | TWMD babel (nightly) ³               | `30 0 * * *`       | `/twmd-babel`              | Sonnet ¹¹ | 每天 00:30                          |
-| `twmd-embeddings-nightly`         | TWMD embeddings (nightly) ¹²         | `0 5 * * *`        | `/twmd-embeddings`         | Sonnet    | 每天 05:00                          |
+| `twmd-embeddings-nightly`         | TWMD embeddings (nightly) ¹² ²⁸      | `0 5 * * *`        | `/twmd-embeddings`         | Haiku ²⁸  | 每天 05:00                          |
 | `twmd-routine-sync`               | TWMD routine sync ¹⁸                 | `30 5 * * *`       | `/twmd-routine-sync`       | Sonnet    | 每天 05:30（晨鏈之前）              |
 | `twmd-data-refresh-am`            | TWMD data refresh ²²                 | `0 6 * * *`        | `/twmd-refresh`            | Sonnet    | 每天 06:00（唯一一班）              |
 | `twmd-spore-harvest-am`           | TWMD spore harvest (am) ²            | `30 6 * * *`       | `/twmd-spore-harvest`      | Opus      | 每天早上 06:30                      |
@@ -61,6 +61,7 @@ upstream_canonical:
 | `twmd-founder-lens-weekly`        | TWMD founder lens (sat) ¹⁷ ⏸️        | `0 22 * * 6`       | `/twmd-founder-lens`       | Opus      | 週六 22:00                          |
 | `twmd-flywheel-watch`             | TWMD flywheel watch ²⁰ ⏸️            | `30 9 * * *`       | `/twmd-flywheel-watch`     | Sonnet    | ⏸️ 停用（註 ²⁵）🖥️commander-macbook |
 | `twmd-terminology-trends-monthly` | TWMD terminology trends (monthly) ²⁴ | `30 10 5 * *`      | `/twmd-terminology-trends` | Opus      | 每月 5 日 10:30                     |
+| `twmd-review-stock`               | TWMD review stock (wed) ²⁷           | `0 22 * * 3`       | `/twmd-review-stock`       | Sonnet    | 週三 22:00                          |
 
 **⏸️ PAUSED**：暫停中的一律在上方排程表該列標 ⏸️（不另立表，避免同一條在兩處各說各話）。目前 5 條：`twmd-spore-pick-daily` / `twmd-spore-publish-daily`（註 ¹³）、`twmd-rewrite-daily`（註 ²¹）、`twmd-founder-lens-weekly`（註 ²³）、`twmd-flywheel-watch`（註 ²⁵）。
 
@@ -119,6 +120,9 @@ parse + regen，無創作判斷，同 embeddings-nightly / data-refresh 定調�
 ²⁵ **flywheel-watch 停用（2026-08-10 哲宇 directive「flywheel-watch 是我今天關的，因為幫助不大」）** — 每天一份「飛輪在轉」綠燈報告對觀察者資訊量太低：監看儀器的價值在異常時刻，日更綠燈是噪音。**這是暫停不是退休**：儀器 `flywheel-watch.py` 與 skill 原封不動，`/twmd-flywheel-watch` 手動可跑。註 ²⁰ 當初補的洞（飛輪缺席監看——曾靜默死 15 天全儀器無聲）由兩層承接：(a) `routine-status.sh` v2（同日 ship）在 BECOME groundtruth 補了 origin/main 雙視角——任何 session 在指揮部甦醒都會看到營運機過去 24hr 的 routine 痕跡，飛輪整體停轉時甦醒第一眼就是空清單，不需要專屬排程；(b) 週日 weekly-report 的 `routine-liveness-check.py` fire-vs-commit 對賬（週級，最長延遲 7 天）。兩層都是被動視角，補不回「主動 push 告警」——若未來需要，方向是 alert-only 模式（綠燈靜默、只在 WARN/CRITICAL 時 PushNotification），不是恢復日更。**解除條件**：alert-only 模式設計出來並哲宇拍板 ship，或哲宇主動要求恢復日更。**到期日**：due_date: 2026-10-06（30 天週期檢查，非哲宇未決則升 OBSERVER-QUEUE）。
 
 ²⁶ **news-lens 接回探測器（v2.26，2026-09-18 哲宇「新聞雷達之後在 mouhouse 上應該也要一個禮拜跑一次」）** — 探測器（外部媒體掃描 × 知識庫缺口）自 2026-05-03 停擺 138 天：SENSES 凋亡去向表把 SOP 指到 EVOLVE Phase 1，但沒有 routine 接手執行，「探測器落後 > 7 天 🟡」那盞燈也隨 SENSES 一起消失（REFLEXES #56 v8）。不另立 cron：`twmd-news-lens-weekly` 本來就是週日 01:00 的「新聞透鏡」，只是先前只看 GA/SC/CF 三源，現在加第四源 [EVOLVE-PIPELINE §news-lens-probe-output](../pipelines/EVOLVE-PIPELINE.md)，產出 `reports/probe/YYYY-MM-DD.md` + INDEX，Tier 1 直接餵 ARTICLE-INBOX。選擇併入而非新 routine 的理由：(a) 同一個「世界這週在講什麼」的問題不該由兩條 routine 各答一半（REFLEXES #74 信號通膨）；(b) 不用在營運機新建排程項目，`twmd-routine-sync` 05:30 會把新 prompt 同步過去；(c) 週日 01:00 產出正好餵 03:00 distill 與之後一週的 rewrite 選題。model 維持 Sonnet；若連兩週 Tier 1 品質被哲宇 callout，升 Opus 走 §修改 cadence SOP。手動入口 `/twmd-probe`（skill 指標已修回 EVOLVE §news-lens-probe-output）。
+
+²⁷ **review-stock 審庫存（v2.27，2026-10-10 哲宇對 OBSERVER-QUEUE #86 選 A「新開 twmd-review-stock，照 09-05 設計報告實作」）** — `twmd-review-stock` 每週三 22:00，Sonnet。這條 routine 的處方 2026-09-05 就拍板了（#25 選 A → [reports/design-review-stock-2026-09-05.md](../../reports/design-review-stock-2026-09-05.md)），缺的一直是執行者：免疫 `review_coverage` 連六週凍在 19.0、`lastHumanReview: true` 停在 200 篇、免疫黃燈掛到第 84 天，W36／W37／W38 三份週體檢各寫一次同一句動作句，邊際資訊量歸零（REFLEXES #64／#74），#86 於是只問「誰做」。**做什麼**：拿 1-2 篇 T1 高流量、從沒人審過的既有文章，FACTCHECK Quick Mode（audit trail 落 `reports/research/`，跟月度巡邏共用排除訊號）＋ EDITORIAL-ROOM 總編室冷讀席，落 `reports/review-stock/YYYY-MM/{slug}.md` 查證單並在文章掛 `preReview` 指標；預審**不動** `curation` / `lastHumanReview`，只有讀者複核（Supabase `article_confirmations` 獨立帳號 ≥3）達標才由 `curation-tag.py --via community` 轉 verified——三個訊號三個維度，不共用欄位（REFLEXES #38）。Canonical [MAINTAINER-PIPELINE §1d](../pipelines/MAINTAINER-PIPELINE.md)，選篇儀器 `scripts/tools/review-stock-pick.py`，prompt mirror `routine-prompts/twmd-review-stock.md`。**時段與模型**：設計報告原提週一三五 22:00 Opus；#86 決策列寫明「週一次，Sonnet」，以決策列為準——22:00 是整張表最空的一小時（maintainer-pm 退休、founder-lens ⏸️），週三讓週日 02:00 體檢讀到的查證單不超過四天；先週一次是因為讀者確認吞吐量未知，避免查證單堆成新庫存（設計 §九）。Sonnet 若連兩 cycle 查證品質被哲宇 callout，升 Opus 走 §修改 cadence SOP（同 news-lens 註 ²⁶ 條款）。**首跑狀態**：Supabase 表、`/semiont/review-queue` 頁、`curation-tag.py --via` 未建（設計 §七 #1 #2 #9），Stage 5 轉正一律 no-op；首跑只產查證單與 preReview 指標。**營運機註冊**：prompt 由 `twmd-routine-sync` 05:30 同步過去，但 scheduled-tasks 的 cron / enabled live 值工具不改——要在營運機用 `mcp__scheduled-tasks__create_scheduled_task` 建 `twmd-review-stock`（`0 22 * * 3`、sonnet、enabled），之後 `routine-live-state.json` dump 才會收到它；註冊前 `routine-sync-check` 會把本列報成 live missing，那是預期。
+²⁸ **排程模型要寫進排程器，不寫就跑預設 Opus（2026-10-10 哲宇 directive，Muse 盤點並落地）** — 營運機 Claude Desktop 的 `scheduled-tasks.json` 每條任務有一個 `model` 欄，**沒寫就落到 app 預設**。10-10 盤點時 15 條沒寫 model，最近 60 次執行全部跑 `claude-opus-5-5`：本表寫 Sonnet 的 babel、embeddings、routine-sync、data-refresh、news-lens、supporters 實際都在跑 Opus（babel 每晚四小時多），feedback-triage、maintainer、weekly-report 三條則釘在舊的 `claude-opus-5`。這很可能是共用週額度連兩週提前用完（OBSERVER-QUEUE #93）的主因之一，而本表的 Model 欄從來沒有被任何工具拿去跟排程器對帳。哲宇同日 directive：排程一律不用 Fable，照 Opus／Sonnet／Haiku 分級。Muse 已把營運機 18 條逐條釘好（備份 `scheduled-tasks.json.bak-20261010-muse-models`，只動 model 欄）：Opus＝weekly-report、distill、self-evolve、routine-audit、maintainer、spore-harvest、terminology-trends 與暫停中的 rewrite、founder-lens、spore-publish；Sonnet＝babel、news-lens、supporters、data-refresh、routine-sync、feedback-triage 與暫停中的 spore-pick；**Haiku＝embeddings-nightly**（註 ¹² 自己寫「純機械 rebuild＋儀器化 verify＋commit，無創作判斷」；降階後連兩輪 verify fail 就升回 Sonnet）。**還沒解的兩件**：(a) `routine-sync` 目前不對帳 model（scheduled-tasks MCP 的 update 沒有 model 參數），漂移只能靠讀 `scheduled-tasks.json` 才看得到，要不要納入對帳待定；(b) 指揮部筆電另有一條 `semiont-heartbeat`（每天 02:30／08:30／14:30／20:30，讀 BECOME＋HEARTBEAT 跑完整心跳），**不在本表**，近 24 次跑 Opus，Muse 已先釘成 Sonnet——它該不該存在、該用什麼模型，列給哲宇決定。
 
 ²² **data refresh 整併一班（2026-07-26 哲宇 directive「data-refresh 我也想把 am／pm 整合成同一個」）** — 保留 06:00 那班（晨鏈 `data-refresh → spore-harvest 06:30 → feedback 07:00 → maintainer 08:30` 的前置，下游三條都吃它刷新的 dashboard 數據），23:00 夜班退休。夜班原本的服務對象是 19:00 的 rewrite，而 rewrite 2026-07-25 起改手動觸發（註 ²¹），夜班就失去理由。**taskId 仍是 `twmd-data-refresh-am`**：`-am` 後綴此後是歷史殘留不是語意，跟 `twmd-maintainer-daily` 同樣處置——改 taskId 要在每台機器 delete + create、mirror 改名、歷史 memory 的 grep 全斷，代價高於一個難看的後綴。真要改名再開一次工單。
 
@@ -207,7 +211,7 @@ disable 後空出的槽位;讀本週 shipped 產物、在 Sunday 健檢鏈之前
 │ 08h30 │  M  M  M  M  M  M  M      │  ← maintainer-am 收割 overnight PR backlog
 │ 19h   │  R  R  R  R  R  R  R      │  ← rewrite full cycle ~150 min，spore post 對齊 20-22h prime time
 │ 21h   │  ·  ·  ·  ·  ·  ·  A      │  ← Sun routine-audit（飛輪自審）
-│ 22h   │  ·  ·  ·  ·  ·  L  ·      │  ← Sat=L founder-lens（離開顱骨週級 pass）；maintainer-pm ⏸️7/8 disabled
+│ 22h   │  ·  ·  V  ·  ·  L  ·      │  ← Wed=V review-stock（審庫存預審）；Sat=L founder-lens（離開顱骨週級 pass）；maintainer-pm ⏸️7/8 disabled
 │ 23h   │  r  r  r  r  r  r  r      │
 └───────┴───────────────────────────┘
 
@@ -220,6 +224,7 @@ Legend:
   R = twmd-rewrite-daily         (opus, full cycle)   A = twmd-routine-audit-weekly (Sun, opus)
   L = twmd-founder-lens          (Sat 22h, opus, 離開顱骨)  r = twmd-data-refresh-pm  (sonnet)
   P = twmd-supporters-weekly     (Mon, sonnet, Portaly 贊助信 sync)
+  V = twmd-review-stock          (Wed 22h, sonnet, 審庫存：T1 未審文章預審→查證單)
   · = idle
   ⏸️ paused（不在 grid）：maintainer-pm 22h（7/8 起）/ spore-pick 08h / spore-publish 17h30 / music-media Sat 10h
 
@@ -785,6 +790,16 @@ escalation:
 - **北極星**：哲宇 2026-08-04「未來可以定期做這件事情跟趨勢觀察」——詞庫是語言滲透的時間序列感測器，每月一格，累積出沒有任何機構在做的紀錄
 - **邊界**：入庫上限 20 條/輪；任何刪除、政治敏感判定、大批重分類進 OBSERVER-QUEUE
 
+### TWMD review stock (wed) — 審庫存預審 v2.27 新增
+
+- **cadence**：每週三 22:00（整張表最空的一小時；週日 02:00 體檢讀到的查證單 ≤4 天）
+- **model**：Sonnet（#86 決策列「週一次，Sonnet」；連兩 cycle 查證品質被 callout 升 Opus）
+- **canonical**：[MAINTAINER-PIPELINE §1d](../pipelines/MAINTAINER-PIPELINE.md)（pointer 到 FACTCHECK §Quick Mode + EDITORIAL-ROOM §總編室，不複寫兩邊 SOP）
+- **skill**：`/twmd-review-stock`（薄殼）；prompt mirror：`routine-prompts/twmd-review-stock.md`；選篇儀器 `scripts/tools/review-stock-pick.py`
+- **一句話流程**：PICK（T1 ∧ 未人審 ∧ 非 verified，GA 流量排序，1-2 篇）→ FACTCHECK Quick（0 ❌ 0 🔴 才過）→ 冷讀席（乾淨 context 探針）→ 查證單 + `preReview` 指標 → 讀者複核轉正（Supabase 達標才動 `curation`，表未建則 no-op）→ lint + main-direct commit → FINALE
+- **北極星**：免疫 `review_coverage` 不再是沒人巡邏的庫存；30 天指標：`lastHumanReview` 或 `verified` 每週淨增 ≥3、`external_rulers` 回 2.5
+- **邊界**：預審不動 `curation` / `lastHumanReview`；結構層必改登 ARTICLE-INBOX 走 REWRITE；對外溝通（#26）與政治立場判定不在本 routine
+
 ## Routine 通用 5-stage lifecycle（v2.0 main-direct mode — 2026-05-11 哲宇拍板）
 
 每條 routine prompt 內必含這 5 stage（薄殼，業務邏輯由 stage 3 的 skill 提供）：
@@ -1084,6 +1099,8 @@ REFLEXES #36（founder time = 系統最高 leverage point）+ REFLEXES #15（反
 ---
 
 🧬
+
+_v2.27 | 2026-10-10 review-stock-birth — **新增 routine：twmd-review-stock（週三 22:00，Sonnet，審庫存）**：哲宇對 OBSERVER-QUEUE #86 選 A，執行 2026-09-05 已拍板的設計報告。(1) 排程表 +1 列 + 週行程 grid V + 註 ²⁷ (2) canonical 新增 [MAINTAINER-PIPELINE §1d](../pipelines/MAINTAINER-PIPELINE.md)（選篇／FACTCHECK Quick 與冷讀席 pointer／查證單 schema／`preReview` + `verifiedVia` 兩個 provenance 欄位／N=3 讀者複核轉正判準）(3) 選篇儀器 `scripts/tools/review-stock-pick.py` + 薄殼 skill `/twmd-review-stock` + prompt mirror (4) `curation-consistency` lint 認得 `preReview`（指向檔必存在）與 `verifiedVia`。Supabase 表、讀者頁、`curation-tag.py --via` 留待哲宇點頭後補；營運機 scheduled-task 註冊是本次唯一在 git 之外的步驟。_
 
 _v2.20 | 2026-07-28 babel-fleet-abstraction — **babel 地端接案收斂到 fleet 控制面**：觀察者明令 M4 不跑、其他 fleet 必須透過抽象層接案。`twmd-babel-nightly` prompt 與 mirror 移除 localhost 直連，改由 `fleetctl workers --service llm --format babel` 動態核發 worker；接案開關、並行與使用率天花板回歸 fleet `control.json` SSOT。cadence、enabled 狀態與 quality gate 不變。_
 

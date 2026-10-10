@@ -160,7 +160,7 @@ En algún Año Nuevo Lunar de 2026, en algún salón, un joven de veintipocos a�
 
 [^1]: [Klook: ¿Quieres ganar dinero jugando con amigos? Guía imprescindible para principiantes sobre el mahjong de 16 fichas](https://www.klook.com/zh-TW/blog/taiwan-mahjong-rules/) — Reglas básicas y contexto cultural del mahjong de dieciséis fichas taiwanés
 
-[^2]: [Wikipedia: Mahjong](https://zh.wikipedia.org/zh-hant/%E9%BA%BB%E5%B0%87) — Comparación de diferencias entre las reglas regionales de mahjong
+[^2]: [Wikipedia: Mahjong](https://zh.wikipedia.org/zh-hant/%E9%BA%BB%E5%B0%86) — Comparación de diferencias entre las reglas regionales de mahjong
 
 [^3]: [Pinkoi: ¿Cuáles son las reglas del mahjong taiwanés? Guía completa para principiantes, desde la repartición hasta el cálculo de tai](https://blog.pinkoi.com/tw/hot-topics/discovery/2211-mahjong/) — Composición de las 144 fichas, fichas de flores, Los Ocho Inmortales cruzando el mar
 

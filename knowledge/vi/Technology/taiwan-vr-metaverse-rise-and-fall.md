@@ -13,7 +13,7 @@ tags:
     'XRSPACE',
     'Kaohsiung VR FILM LAB',
   ]
-subcategory: 'Cộng đồng và văn hoá số'
+subcategory: '社群與數位文化'
 author: 'zaious'
 featured: false
 lastVerified: 2026-04-23

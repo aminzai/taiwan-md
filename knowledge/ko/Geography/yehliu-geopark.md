@@ -9,7 +9,7 @@ readingTime: 8
 lastVerified: 2026-04-26
 lastHumanReview: false
 translatedFrom: Geography/野柳.md
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:061c7b5484113eed'
 sourceBodyHash: 'sha256:e080c9e068d13667'
 translatedAt: '2026-05-16T22:35:46Z'
@@ -61,20 +61,20 @@ featured: false
 
 ### 참고 문헌
 
-[^1]: [야류 어부 린전전 인명 구조, 국편관 교과서에 수록](https://time.udn.com/udntime/story/122833/7805077) - 보시광(報時光)
+[^1]: [야류 어부 린전전 인명 구조, 국편관 교과서에 수록](https://time.udn.com/udntime/story/122833/7805077) — 자세한 내용은 링크된 원문 참조
 
-[^2]: [악마의 곶 - 야류 지질공식 공식 웹사이트](https://www.ylgeopark.org.tw/YehliuKnowledgeView/PuntoDiablos) - 야류 지질공원
+[^2]: [악마의 곶 - 야류 지질공식 공식 웹사이트](https://www.ylgeopark.org.tw/YehliuKnowledgeView/PuntoDiablos) — 자세한 내용은 링크된 원문 참조
 
-[^3]: [낙타봉 산책로: 무서운 야류 명칭 유래 추적](https://hiking.biji.co/index.php?q=review&act=info&review_id=18536) - 건행필기(健行筆記)
+[^3]: [낙타봉 산책로: 무서운 야류 명칭 유래 추적](https://hiking.biji.co/index.php?q=review&act=info&review_id=18536) — 자세한 내용은 링크된 원문 참조
 
-[^4]: [야류 풍경 특정구](https://zh.wikipedia.org/zh-hant/%E9%87%8E%E6%9F%B3%E1%A2%A8%E6%99%AF%E7%89%B9%E5%AE%9A%E5%8D%80) - 위키백과
+[^4]: [야류 풍경 특정구](https://zh.wikipedia.org/zh-hant/%E9%87%8E%E6%9F%B3%E1%A2%A8%E6%99%AF%E7%89%B9%E5%AE%9A%E5%8D%80) — 자세한 내용은 링크된 원문 참조
 
-[^5]: [야류 여왕머리 단목 위기 대응](https://www.taiwan-panorama.com/Articles/Details?Guid=4b275ff0-c4ff-4dc3-bb58-93c0e8ba0d18&CatId=7&postname=%E9%87%8E%E6%9F%B3%E5%A5%B3%E7%8E%8B%E9%A0%AD-%E5%8A%9B%E6%8A%97%E6%96%B7%E9%A0%B8%E5%8D%B1%E6%A9%9F) - 대만광화잡지(台灣光華雜誌)
+[^5]: [야류 여왕머리 단목 위기 대응](https://www.taiwan-panorama.com/Articles/Details?Guid=4b275ff0-c4ff-4dc3-bb58-93c0e8ba0d18&CatId=7&postname=%E9%87%8E%E6%9F%B3%E5%A5%B3%E7%8E%8B%E9%A0%AD-%E5%8A%9B%E6%8A%97%E6%96%B7%E9%A0%B8%E5%8D%B1%E6%A9%9F) — 자세한 내용은 링크된 원문 참조
 
-[^6]: [자연의 신비한 솜씨, 여왕머리 단목 위기](https://www.peopo.org/news/634394) - PeoPo 시민뉴스
+[^6]: [자연의 신비한 솜씨, 여왕머리 단목 위기](https://www.peopo.org/news/634394) — 자세한 내용은 링크된 원문 참조
 
-[^7]: [우리나라 북해안 야류 지질공원의 명소 "여왕머리", 단목 우려 직면](https://www.cy.gov.tw/News_Content.aspx?n=125&s=12857) - 감찰원 보도자료
+[^7]: [우리나라 북해안 야류 지질공원의 명소 "여왕머리", 단목 우려 직면](https://www.cy.gov.tw/News_Content.aspx?n=125&s=12857) — 자세한 내용은 링크된 원문 참조
 
-[^8]: [야류 신명정항 - 대만 종교 문화 지도](https://taiwangods.moi.gov.tw/html/cultural/3_0011.aspx?i=204) - 내무부
+[^8]: [야류 신명정항 - 대만 종교 문화 지도](https://taiwangods.moi.gov.tw/html/cultural/3_0011.aspx?i=204) — 자세한 내용은 링크된 원문 참조
 
-[^9]: [2026 야류 신명정항 문화제](https://www.ydcf.org.tw/) - 행사 공식 웹사이트
+[^9]: [2026 야류 신명정항 문화제](https://www.ydcf.org.tw/) — 자세한 내용은 링크된 원문 참조

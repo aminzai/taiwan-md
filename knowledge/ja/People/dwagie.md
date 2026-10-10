@@ -18,7 +18,7 @@ tags:
   - '台南'
   - '大支'
   - '人人有功練'
-subcategory: '音楽とパフォーマンス'
+subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-10

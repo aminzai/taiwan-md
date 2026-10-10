@@ -12,7 +12,7 @@ tags:
     'văn hóa Đài Loan',
     "RuPaul's Drag Race",
   ]
-subcategory: 'Âm nhạc và biểu diễn'
+subcategory: '音樂與表演'
 author: 'idlccp1984'
 featured: false
 lastVerified: 2026-04-18

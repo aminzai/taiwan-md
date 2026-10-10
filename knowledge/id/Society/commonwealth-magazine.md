@@ -36,6 +36,7 @@ relatedDiary: ['2026-06-04-151548-天下雜誌']
 translatedFrom: 'Society/天下雜誌.md'
 sourceCommitSha: 'd317f1649'
 sourceContentHash: 'sha256:d8c6b002cc3ec35d'
+sourceBodyHash: 'sha256:a2fb34529fea33ac'
 translatedAt: '2026-09-22T13:44:39.059865+00:00'
 ---
 
@@ -191,7 +192,7 @@ Yin Yunpeng pernah mengunjungi Zhang Ailing dengan celana jins berwarna merah ke
 **Bacaan Lanjutan**:
 
 - [Reporter](/id/society/the-reporter-investigative-journalism) — Media Taiwan lain yang melakukan liputan mendalam serupa, tetapi mengambil jalur sebaliknya yaitu nirlaba, menolak iklan, dan mengandalkan donasi dari orang asing; merupakan kontras langsung dengan _paywall_ Tianxia dan ekosistem perusahaan.
-- [Pan-Science](/society/泛科學) — Media baru Taiwan lain yang tumbuh di dekade 2010-an, menggunakan diseminasi ilmiah dan layanan pengetahuan sebagai model bisnis lain untuk mempertahankan ruang diskusi publik.
+- [Pan-Science](/id/society/pansci) — Media baru Taiwan lain yang tumbuh di dekade 2010-an, menggunakan diseminasi ilmiah dan layanan pengetahuan sebagai model bisnis lain untuk mempertahankan ruang diskusi publik.
 - [PTS](/id/society/pts-public-television-service) — Jalur lain bagi media publik Taiwan, menangani masalah yang sama—"kepada siapa media harus bertanggung jawab"—menggunakan anggaran publik alih-alih mekanisme pasar.
 - [Media dan Kebebasan Pers di Taiwan](/id/society/media-and-press-freedom-in-taiwan) — Kontroversi penarikan artikel Tianxia, peringkat tingkat kepercayaan, dan perang informasi PRC semuanya tertanam dalam konteks kebebasan pers Taiwan secara keseluruhan.
 - [50 Perusahaan Teratas Taiwan](/id/economy/top-50-companies-taiwan) — Kelompok perusahaan yang didefinisikan oleh peringkat "Tianxia 2000 Great" dan "50 Grup Besar" adalah para tokoh utama di balik daftar ini.

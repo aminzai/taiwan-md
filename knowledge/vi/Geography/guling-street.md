@@ -22,7 +22,7 @@ tags:
     'Thư Viện Tùng Lâm',
     'Khu vực lịch sử loạt',
   ]
-subcategory: 'Khu vực lịch sử / Quận Trung Chính, Thành phố Đài Bắc'
+subcategory: '歷史街區 / 台北市中正區'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-21
@@ -187,14 +187,14 @@ Phố sách bị tháo dỡ, nhưng hồ sen vẫn còn ở đó để ra hoa.
 
 **Đọc tiếp**:
 
-- [Thành phố Đài Bắc](/geography/taipei) — tầu niên 12 khu, bối cảnh hình thành sau chiến tranh của Quận Trung Chính nơi Phố Cửu Lĩnh nằm
-- [Đại Tao Ngành](/geography/大稻埕) — thế hệ khác của ký ức góc phố ba thị Đài Bắc, từ 1851 thương mại đến 1947 sự kiện 228
-- [Bãi Tràn](/geography/艋舺) — phố thị sớm nhất của Đài Bắc thời lãnh chủ Thanh, từ năm 1738 Chùa Long Sơn đến 2010 phim《Bãi Tràn》
-- [Tây Môn Cho](/geography/西門町) — khu giải trí năm 1896 thời Nhật trị đến 2026 thủ đô văn hóa lần tiếp theo, giống như Phố Cửu Lĩnh cùng là những khu phố Quận Trung Chính được quy hoạch thành hình thời Nhật trị
-- [Điện ảnh Đài Loan](/art/taiwan-cinema) — vị trí của bộ phim 237 phút《Sự kiện giết người tuổi trẻ Phố Cửu Lĩnh》của Dương Đức Xương trong lịch sử phong trào điện ảnh mới
-- [Dương Đức Xương](/people/yang-dezhang) — nhân vật linh hồn điện ảnh mới Đài Loan tạo ra bộ phim《Sự kiện giết người tuổi trẻ Phố Cửu Lĩnh》dài 237 phút
-- [Công Quán](/geography/gonguan) — cảnh tượng song sinh của văn hóa công chúng tri thức người ngoài tỉnh và phố sách cũ sau chiến tranh, tạo thành hai cơ sở tập trung người Trí Thức ngoài tỉnh với Phố Cửu Lĩnh
-- [Làng Tứ Tứ Nam](/geography/sisi-nanvillage) — kho tàng nhân viên khu làng quân công và phố sách cũ Phố Cửu Lĩnh là hai loại cấu trúc rơi cắm của người ngoài tỉnh sau chiến tranh「quân công vs văn nhân」
+- [Thành phố Đài Bắc](/vi/geography/taipei-city) — tầu niên 12 khu, bối cảnh hình thành sau chiến tranh của Quận Trung Chính nơi Phố Cửu Lĩnh nằm
+- [Đại Tao Ngành](/vi/geography/dadaocheng) — thế hệ khác của ký ức góc phố ba thị Đài Bắc, từ 1851 thương mại đến 1947 sự kiện 228
+- [Bãi Tràn](/vi/geography/bangka) — phố thị sớm nhất của Đài Bắc thời lãnh chủ Thanh, từ năm 1738 Chùa Long Sơn đến 2010 phim《Bãi Tràn》
+- [Tây Môn Cho](/vi/geography/ximending) — khu giải trí năm 1896 thời Nhật trị đến 2026 thủ đô văn hóa lần tiếp theo, giống như Phố Cửu Lĩnh cùng là những khu phố Quận Trung Chính được quy hoạch thành hình thời Nhật trị
+- [Điện ảnh Đài Loan](/vi/art/taiwanese-cinema) — vị trí của bộ phim 237 phút《Sự kiện giết người tuổi trẻ Phố Cửu Lĩnh》của Dương Đức Xương trong lịch sử phong trào điện ảnh mới
+- [Dương Đức Xương](/vi/people/yang-dechang) — nhân vật linh hồn điện ảnh mới Đài Loan tạo ra bộ phim《Sự kiện giết người tuổi trẻ Phố Cửu Lĩnh》dài 237 phút
+- [Công Quán](/vi/geography/gongguan) — cảnh tượng song sinh của văn hóa công chúng tri thức người ngoài tỉnh và phố sách cũ sau chiến tranh, tạo thành hai cơ sở tập trung người Trí Thức ngoài tỉnh với Phố Cửu Lĩnh
+- [Làng Tứ Tứ Nam](/vi/geography/44-south-village) — kho tàng nhân viên khu làng quân công và phố sách cũ Phố Cửu Lĩnh là hai loại cấu trúc rơi cắm của người ngoài tỉnh sau chiến tranh「quân công vs văn nhân」
 
 ## Nguồn gốc hình ảnh
 
@@ -225,7 +225,7 @@ Bài viết sử dụng 5 hình ảnh được cấp phép CC / miền công c�
 
 [^8]: [Truyện StoryStudio: Cửa hàng sách cũ, một trong những điều không thể thiếu trong khuôn mặt thành phố — Cửa hàng Thư viện Tùng Lâm phat tán hương sách hơn bảy mươi năm](https://storystudio.tw/article/gushi/guling-street-song-ling-old-book) — Thư viện Tùng Lâm được thành lập năm 1945 bởi thế hệ đầu tiên Thái Mộc Lâm (người Gia Nghĩa, nguyên bán gỗ), là người đầu tiên từ bán hàng rong chuyển thành cửa hàng sách cũ thực thể của những người tiền bối, thế hệ thứ hai Thái Kính Huy tiếp quản sau đó mặt tiền mười mấy tấm hai tầng lưu giữ gần 10 vạn cuốn sách, sách bán chạy nhất là tính toán, khám phá tương lai, y học Trung Quốc, bộ sưu tập sách từ thời triều Khang Hy, Càn Long thời nhà Thanh, biển hiệu「Thư viện Tùng Lâm」bốn chữ là Thái Mộc Lâm tự tay viết bằng chữ Nhan Chân Khánh.
 
-[^9]: [Bách khoa toàn thư: Phố Cửu Lĩnh（Thành phố Đài Bắc）](https://zh.wikipedia.org/zh-tw/%E7%89%AF%E5%B6%BA%E8%A1%97_(%E8%87%BA%E5%8C%97%E5%B8%82) — )) — Thời kỳ Nhật trị sau lần cải tổ thị trấn thứ hai vị trí này được gọi là Phố Rồng Miệng thứ ba, thứ tư, năm 1922 (Đại Chính 11 năm) lần nữa thay đổi tên thị trấn, phần phố Cửu Lĩnh được chia vào Thị trấn Trao Khoảng không thứ nhất, thứ hai, thứ ba gọi là「Trao Khoảng không Phố Tông」, năm 1946 sau chiến tranh được đổi thành Phố Rồng Tân, năm 1947 chính thức được đặt tên Phố Cửu Lĩnh vẫn được sử dụng cho đến nay
+[^9]: [Bách khoa toàn thư: Phố Cửu Lĩnh（Thành phố Đài Bắc）](<https://zh.wikipedia.org/zh-tw/%E7%89%AF%E5%B6%BA%E8%A1%97_(%E8%87%BA%E5%8C%97%E5%B8%82)>) — )) — Thời kỳ Nhật trị sau lần cải tổ thị trấn thứ hai vị trí này được gọi là Phố Rồng Miệng thứ ba, thứ tư, năm 1922 (Đại Chính 11 năm) lần nữa thay đổi tên thị trấn, phần phố Cửu Lĩnh được chia vào Thị trấn Trao Khoảng không thứ nhất, thứ hai, thứ ba gọi là「Trao Khoảng không Phố Tông」, năm 1946 sau chiến tranh được đổi thành Phố Rồng Tân, năm 1947 chính thức được đặt tên Phố Cửu Lĩnh vẫn được sử dụng cho đến nay
 
 [^10]: [Bách khoa toàn thư: Thị trấn Nhi Ngọk](https://zh.wikipedia.org/wiki/%E5%85%92%E7%8E%89%E7%94%BA) — Thị trấn Nhi Ngọk là thị trấn hành chính thời kỳ Đài Loan Nhật trị Thành phố Đài Bắc được chia thành một đến bốn thứ, nằm phía tây của Thị trấn Thiên Tuế, được đặt theo tên Tổng Đốc lần thứ 4 Nhi Ngọk Nguồn Thái Hùng (1898-1906 đương chức), phạm vi bao gồm phần Phố Nam Xương lần thứ nhất thứ hai, Phố Hồ Miệng, Phố Nam Hải, Phố Ninh Ba Tây, Phố Phúc Châu hiện nay.
 

@@ -13,7 +13,7 @@ tags:
     'Nobel',
     'giải Wolf',
   ]
-subcategory: 'Khoa học và học thuật'
+subcategory: '科學與學術'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-31

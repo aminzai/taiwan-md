@@ -133,13 +133,13 @@ Gran Canaria 섬 Telde 지구의 그 길은 삼모와 혹세가 살았던 Lope d
 
 ## 참고 자료
 
-[^1]: [위키백과: 삼모 (작가)](<https://zh.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6)>) — 기본 생애, 창작 연표, 문학 평가
+[^1]: [위키백과: 삼모 (작가)](https://zh.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6) — 기본 생애, 창작 연표, 문학 평가
 
 [^2]: [Chop Suey Club](https://www.chopsueyclub.com/blogs/blog/san-mao) — 혹세 출생 1951, 나이 차 8세, 독일 미혼 약혼자
 
 [^3]: [Diario de Avisos](https://www.diariodeavisos.com/2012/01/cuando-la-tragedia-sepulto-el-arte/) — 혹세 익사 사고 장소 La Palma Barlovento, 날짜, 구조 세부 사항
 
-[^4]: [위키백과: 굴굴홍인 (영화)](<https://zh.wikipedia.org/wiki/%E6%BB%9A%E6%BB%9A%E7%B4%85%E5%A1%B5_(%E9%9B%BB%E5%BD%B1)>) — 금마상 제27회 8상 전체 목록
+[^4]: [위키백과: 굴굴홍인 (영화)](https://zh.wikipedia.org/wiki/%E6%BB%9A%E6%BB%9A%E7%B4%85%E5%A1%B5_(%E9%9B%BB%E5%BD%B1) — 금마상 제27회 8상 전체 목록
 
 [^5]: [뉴욕타임스 Overlooked](https://www.nytimes.com/2019/10/23/obituaries/sanmao-overlooked.html) — 1,500만 부 판매량, 국제적 평가
 

@@ -23,6 +23,7 @@ curation: 'incubating'
 translatedFrom: 'People/李多慧.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:f6448458bab70f96'
+sourceBodyHash: 'sha256:b16f2be3d2468ceb'
 translatedAt: '2026-09-20T21:14:37.182917+00:00'
 ---
 

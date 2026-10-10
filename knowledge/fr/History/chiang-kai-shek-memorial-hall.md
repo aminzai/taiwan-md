@@ -13,7 +13,7 @@ tags:
     tourisme,
     Xinyi,
   ]
-subcategory: 'Architecture et mémoire politique'
+subcategory: '戰後與威權'
 readingTime: 9
 lastVerified: 2026-04-10
 lastHumanReview: false

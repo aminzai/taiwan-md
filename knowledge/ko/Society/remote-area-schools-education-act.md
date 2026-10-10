@@ -15,7 +15,7 @@ tags:
     '핑둥교육혁신기지',
     '교육불평등',
   ]
-subcategory: '교육'
+subcategory: '教育'
 category: 'Society'
 author: 'Taiwan.md'
 readingTime: 16

@@ -214,9 +214,9 @@ A última linha de vida diplomática de Taiwan em África está pendurada no pes
 - [Aliados diplomáticos de Taiwan e diplomacia internacional](/pt/society/taiwan-diplomatic-allies-and-international-relations) — Arquitetura de três camadas: 12 aliados diplomáticos vs 113 postos no exterior vs 177 destinos isentos de visto; Essuatíni é a peça africana mais crítica
 - [Lai Ching-te](/pt/people/lai-ching-te) — De médico em Tainan a presidente da República da China, a evolução do discurso externo de Lai Ching-te após a posse
 - [Tsai Ing-wen](/pt/people/tsai-ing-wen) — Presidente que visitou Essuatíni duas vezes; 2018 e 2023 correspondem a duas fases das relações Taiwan-Essuatíni
-- [Movimento dos Girassóis](/society/太陽花學運) — Como as ruas de 2014 se tornaram a base do discurso externo institucional de 2024-2025
+- [Movimento dos Girassóis](/pt/society/sunflower-movement) — Como as ruas de 2014 se tornaram a base do discurso externo institucional de 2024-2025
 - [Encontro Zheng-Xi de 2026 e reencontro KMT-PCC após dez anos](/pt/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Dinâmica cross-strait contemporânea, compreender o pano de fundo maior da pressão chinesa sobre Taiwan
-- [Operações cognitivas](/society/認知作戰) — Quadro sistémico para operações linguísticas chinesas como "rato", "fuga sorrateira", etc.
+- [Operações cognitivas](/pt/society/cognitive-warfare-against-taiwan) — Quadro sistémico para operações linguísticas chinesas como "rato", "fuga sorrateira", etc.
 - [Paraguai e Taiwan](/pt/society/paraguay-taiwan) — Único aliado na América do Sul, outro caso de relação sustentada por cooperação de longo prazo sob pressão chinesa
 
 ## Fontes das imagens

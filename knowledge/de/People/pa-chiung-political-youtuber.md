@@ -220,8 +220,8 @@ Bao Jiong’s Geschichte ist noch im Wandel. Dieser Text prophezeit ihm keine n�
 
 **Weiterführende Lektüre**:
 
-- [Kognitive Kriegsführung](/society/認知作戰) — Verstehen, wie Online-Inhalte in einen größeren Informationskriegskontext eingebettet werden.
-- [Shen Bo-yang](/people/沈伯洋) — Ein weiterer Fall im Vergleich zu den Drohungen und Belohnungserklärungen von chinesischen Staatsorganen gegen öffentliche Personen in Taiwan.
+- [Kognitive Kriegsführung](/de/society/cognitive-warfare-against-taiwan) — Verstehen, wie Online-Inhalte in einen größeren Informationskriegskontext eingebettet werden.
+- [Shen Bo-yang](/de/people/puma-shen) — Ein weiterer Fall im Vergleich zu den Drohungen und Belohnungserklärungen von chinesischen Staatsorganen gegen öffentliche Personen in Taiwan.
 - [Chen Zijian (Retina)](/de/people/chen-tzu-jian/) — Vergleichen der Wege der politischen Satire, des Nachrichtentons und der Online-Schöpfer.
 
 ---

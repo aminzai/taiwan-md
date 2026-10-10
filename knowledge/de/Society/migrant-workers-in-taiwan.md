@@ -103,8 +103,8 @@ Wie kann Taiwan im Streben nach wirtschaftlicher Entwicklung Arbeitsmigranten wi
 
 **Weiterführende Literatur**:
 
-- [Taiwans COVID-19-Pandemie und Impfstoffe](/society/台灣新冠疫情與疫苗) — Die Migranten-Ausgangssperre in Miaoli im Juni 2021 war der Moment, in dem diese Arbeits- und Wohnsituation unter Pandemiebedingungen an ihre Grenze gestoßen wurde.
-- [Taiwans öffentliches Gesundheitssystem und Seuchenschutz](/society/台灣公共衛生與防疫體系) — Der institutionelle Hintergrund der Einbindung von Arbeitsmigranten in das öffentliche Gesundheits- und Medizinsystem.
+- [Taiwans COVID-19-Pandemie und Impfstoffe](/de/society/taiwan-covid-pandemic-and-vaccines) — Die Migranten-Ausgangssperre in Miaoli im Juni 2021 war der Moment, in dem diese Arbeits- und Wohnsituation unter Pandemiebedingungen an ihre Grenze gestoßen wurde.
+- [Taiwans öffentliches Gesundheitssystem und Seuchenschutz](/de/society/taiwan-public-health-epidemic-response) — Der institutionelle Hintergrund der Einbindung von Arbeitsmigranten in das öffentliche Gesundheits- und Medizinsystem.
 
 ---
 

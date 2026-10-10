@@ -3,7 +3,7 @@ title: '台湾の外来語と言語接触現象'
 description: '「弁当」から「ビデオ」へ：ある島の言語接触史が明らかにする、台湾が世界で最も成功した外来語融合の実験場である理由'
 date: 2026-03-23
 tags: ['言語学', '社会言語学', '台湾文化', '言語接触', '外来語']
-subcategory: '言語と文字'
+subcategory: '語言與文字'
 category: 'Culture'
 author: 'Taiwan.md'
 featured: false

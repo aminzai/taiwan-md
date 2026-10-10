@@ -123,10 +123,10 @@ Năm 2015, cậu đi bộ 315 km về Thây Nhơn. Năm 2024, cậu đã đi b�
 
 **Đọc thêm**:
 
-- [Đậu hũ](/music/茄子蛋) — Ban nhạc đồng bằng cùng sáng tác bằng thổ ngôn đạt được sự chấp nhận của truyền hình, giành Giải thưởng Nhạc vàng mới xuất sắc nhất năm 2019
-- [Nhạc độc lập Đài Loan](/music/台灣獨立音樂) — Từ thời kỳ underground đến kỷ nguyên luồng streaming, sinh kế của Lư Quang Châu trong bối cảnh nhạc độc lập đã thay đổi như thế nào
-- [植劇場](/art/植劇場) — Dự án đổi mới hội họa của Vong Thiệu Đệ, nơi sinh ra "Thân thiên niên chuyển thành người trưởng"
-- [Phát triển hip-hop và rap Đài Loan](/music/台灣嘻哈與饒舌發展) — một con đường khác của sự phát triển âm nhạc tại Đài Loan cùng thời kỳ
+- [Đậu hũ](/vi/music/eggplant-egg-band) — Ban nhạc đồng bằng cùng sáng tác bằng thổ ngôn đạt được sự chấp nhận của truyền hình, giành Giải thưởng Nhạc vàng mới xuất sắc nhất năm 2019
+- [Nhạc độc lập Đài Loan](/vi/music/indie-music-scene) — Từ thời kỳ underground đến kỷ nguyên luồng streaming, sinh kế của Lư Quang Châu trong bối cảnh nhạc độc lập đã thay đổi như thế nào
+- [植劇場](/vi/art/qseries-drama-platform) — Dự án đổi mới hội họa của Vong Thiệu Đệ, nơi sinh ra "Thân thiên niên chuyển thành người trưởng"
+- [Phát triển hip-hop và rap Đài Loan](/vi/music/taiwan-hip-hop-and-rap) — một con đường khác của sự phát triển âm nhạc tại Đài Loan cùng thời kỳ
 
 ## Tài liệu tham khảo
 

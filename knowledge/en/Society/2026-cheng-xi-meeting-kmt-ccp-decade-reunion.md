@@ -10,7 +10,7 @@ tags:
   - 'geopolitics'
   - 'politics'
   - '2026'
-subcategory: 'Democracy and Politics'
+subcategory: '民主與政治'
 category: 'Society'
 author: 'Taiwan.md'
 difficulty: 'advanced'

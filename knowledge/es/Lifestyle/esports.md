@@ -117,7 +117,7 @@ En el futuro, con la integración profunda de tecnologías emergentes como 5G, I
 
 [^13]: Threads: [El héroe taiwanés que no conocías, Lin Li-wei (Oil King), anunció hoy su incorporación al equipo surcoreano T1 como jugador representante de “Street Fighter 6”](https://www.threads.com/@okok0753/post/DJJOD2so5nX/) — Reporta la incorporación de Lin Li-wei al equipo T1.
 
-[^14]: Medium: [¿Las mujeres no entienden los datos? Reflexiones de una streamer de videojuegos sobre los estereotipos de género y el “efecto de programa”](https://vincent199145.medium.com/%E5%A5%B3%E6%80%A7%E8%81%B2%E4%B8%8D%E6%87%82%E6%95%B8%E6%93%9A-%E4%B8%80%E4%BD%8D%E9%81%8A%E6%88%B2%E5%AF%A6%E6%B3%81%E4%B8%BB%E7%9A%84%E6%80%A7%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1%E8%88%87-%E7%AF%80%E7%9B%AE%E6%95%88%E6%9E%9C-%E5%8F%8D%E6%80%9D-9646d94ff09a) — Analiza los estereotipos de género que enfrentan las mujeres en el streaming de esports.
+[^14]: Medium: [¿Las mujeres no entienden los datos? Reflexiones de una streamer de videojuegos sobre los estereotipos de género y el “efecto de programa”](https://vincent199145.medium.com/%E5%A5%B3%E6%80%A7%E8%81%B2%E4%B8%8D%E6%87%82%E6%95%B8%E6%93%9A-%E4%B8%80%E4%BD%8D%E9%81%8A%E6%88%B2%E5%AF%A6%E6%B3%81%E4%B8%BB%E7%9A%84%E6%80%A7%E5%88%A5%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1%E8%88%87-%E7%AF%80%E7%9B%AE%E6%95%88%E6%9E%9C-%E5%8F%8D%E6%80%9D-9646d94ff09a) — Analiza los estereotipos de género que enfrentan las mujeres en el streaming de esports.
 
 [^15]: Estadísticas culturales: [Industria de videojuegos y esports](https://stat.moc.gov.tw/Research_Download.aspx?idno=1148) — Proporciona datos como la proporción de hombres y mujeres en los equipos taiwaneses de esports.
 

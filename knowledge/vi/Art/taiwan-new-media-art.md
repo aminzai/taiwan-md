@@ -17,7 +17,7 @@ tags:
     'Nghệ thuật sinh thành',
     'C-LAB',
   ]
-subcategory: 'Đa phương tiện và Nghệ thuật số'
+subcategory: '新媒體與數位藝術'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-04
@@ -146,19 +146,19 @@ Khi danh sách hội đồng giám khảo năm 2025 của Lễ hội Nghệ thu�
 **Đọc thêm**:
 
 - [Phát triển Văn học Đương đại Đài Loan](/art/Phát-triển-Văn-học-Đương-đại-Đài-Loan) — Hệ sinh thái sáng tạo đương đại Đài Loan ra đời cùng thời kỳ Nghệ thuật đa phương tiện, hiểu bối cảnh toàn diện của các vòng tròn văn hóa
-- [Sân khấu và Nghệ thuật Biểu diễn Đài Loan](/art/Sân-khấu-và-Nghệ-thuật-Biểu-diễn-Đài-Loan) — Lịch sử giáo dục Phương Đông của những người sáng tạo xuyên lĩnh vực như Hoàng Dịch, giao điểm của cơ thể và công nghệ
-- [Điện ảnh Đài Loan](/art/Điện-ảnh-Đài-Loan) — Một con đường khác của mỹ thuật hình ảnh Đài Loan, chia sẻ sân khấu liên hoan phim với Nghệ thuật đa phương tiện
-- [Cộng đồng mã nguồn mở và g0v](/technology/Cộng-đồng-mã-nguồn-mở-và-g0v) — Một khía cạnh khác của văn hóa công nghệ Đài Loan, giao điểm của tinh thần mã nguồn mở và các vòng tròn mỹ thuật
-- [Lịch sử Công nghiệp Truyền hình Đài Loan](/technology/Lịch-sử-Công-nghiệp-Truyền-hình-Đài-Loan) — Sự thay đổi của phương tiện truyền thông từ phát thanh truyền hình đến OTT, bối cảnh định chế của công nghệ hình ảnh
-- [justfont và Phát triển Kiểu chữ Đài Loan](/technology/justfont-và-Phát-triển-Kiểu-chữ-Đài-Loan) — Một nhóm người sáng tạo khác đứng ở giao điểm thiết kế, công nghệ và nhận dạng văn hóa: những người nuôi dạy lại từng nét chữ Đài Loan
-- [Tạ Đức Kính](/art/Tạ-Đức-Kính) — Phương tiện cơ thể trước kỹ thuật đa phương tiện, tiên phong nghệ thuật hành động Đài Loan và đại sư quốc tế của năm hành động trong một năm
-- [Vương Tân Nhân (A Luàn)](/art/Vương-Tân-Nhân) — Người đầu tiên đăng lên Art Blocks là một nghệ sĩ sinh thành Đài Loan, nhân vật chính của akaSwap và kế hoạch báo tập FAB DAO
-- [Vương Liên Thịnh (Tôm Ba)](/art/Vương-Liên-Thịnh) — Người chiến thắng Giải Lumen 2017 trong loại điêu khắc, thành viên i/O Lab và chủ tịch Lễ hội Tiếng Im lặng, đại diện Nghệ thuật Cài đặt Âm thanh Đài Loan
-- [Ngô Triết Vũ](/people/Ngô-Triết-Vũ) — Nghệ sĩ đa phương tiện mới gọi mình là "thợ đồng hồ thời cổ đại", Biennale Venice Cấu trúc Cá nhân × Art Basel Miami × người sáng lập dự án mã nguồn mở Taiwan.md
-- [Báo cáo Viên: Cứu Báo cáo Điều tra Khỏi các mục Kinh doanh Thành Tài sản Công cộng Một thập niên](/society/Báo-cáo-Viên) — Cùng được điều khiển bởi cộng đồng công dân, phát triển xuyên ranh, một trường hợp Taiwan-DNA khác, thể hiện một con đường khác của xây dựng tài sản công cộng bởi xã hội công dân sau năm 2015
-- [justfont và Phát triển Kiểu chữ Đài Loan: Từ 25 năm Hòa Khang đến 76 phút của Kim Xuân Bảy Chục Phút Lịch sử Kiểu chữ Nhỏ](/technology/justfont-và-Phát-triển-Kiểu-chữ-Đài-Loan) — Kiểu chữ như cơ sở hạ tầng văn hóa, cùng Nghệ thuật đa phương tiện mới chú ý đến tính chủ thể hình ảnh của Đài Loan một khía cạnh khác
-- [Cáp biển: Nhìn thấy tại Đỉnh Khiên Quân Tư, Không thấy được Tại Dưới Mạch sống](/technology/Cáp-biển) — 99% của triển lãm và hợp tác chiến lược Nghệ thuật đa phương tiện mới xuyên quốc gia chạy trên cáp biển, bài viết này bộc lộ cơ sở hạ tầng văn hóa kỹ thuật số không nhìn thấy được này
-- [Niệp Vĩnh Chân](/people/Niệp-Vĩnh-Chân) — Thành viên AGI Liên minh Thiết kế Đồ họa Quốc tế đầu tiên của Đài Loan, vị trí chiến lược của Xưởng Thực hành Vĩnh chân Khẩn cấp và Văn hóa Hình ảnh Đương đại Đài Loan
+- [Sân khấu và Nghệ thuật Biểu diễn Đài Loan](/vi/art/taiwanese-theater-and-performing-arts) — Lịch sử giáo dục Phương Đông của những người sáng tạo xuyên lĩnh vực như Hoàng Dịch, giao điểm của cơ thể và công nghệ
+- [Điện ảnh Đài Loan](/vi/art/taiwanese-cinema) — Một con đường khác của mỹ thuật hình ảnh Đài Loan, chia sẻ sân khấu liên hoan phim với Nghệ thuật đa phương tiện
+- [Cộng đồng mã nguồn mở và g0v](/vi/technology/open-source-and-g0v) — Một khía cạnh khác của văn hóa công nghệ Đài Loan, giao điểm của tinh thần mã nguồn mở và các vòng tròn mỹ thuật
+- [Lịch sử Công nghiệp Truyền hình Đài Loan](/vi/technology/taiwan-television-industry-history) — Sự thay đổi của phương tiện truyền thông từ phát thanh truyền hình đến OTT, bối cảnh định chế của công nghệ hình ảnh
+- [justfont và Phát triển Kiểu chữ Đài Loan](/vi/technology/justfont-and-taiwan-typography) — Một nhóm người sáng tạo khác đứng ở giao điểm thiết kế, công nghệ và nhận dạng văn hóa: những người nuôi dạy lại từng nét chữ Đài Loan
+- [Tạ Đức Kính](/vi/art/tehching-hsieh-performance-artist) — Phương tiện cơ thể trước kỹ thuật đa phương tiện, tiên phong nghệ thuật hành động Đài Loan và đại sư quốc tế của năm hành động trong một năm
+- [Vương Tân Nhân (A Luàn)](/vi/art/wang-hsin-jen-artist) — Người đầu tiên đăng lên Art Blocks là một nghệ sĩ sinh thành Đài Loan, nhân vật chính của akaSwap và kế hoạch báo tập FAB DAO
+- [Vương Liên Thịnh (Tôm Ba)](/vi/art/wang-lien-cheng-artist) — Người chiến thắng Giải Lumen 2017 trong loại điêu khắc, thành viên i/O Lab và chủ tịch Lễ hội Tiếng Im lặng, đại diện Nghệ thuật Cài đặt Âm thanh Đài Loan
+- [Ngô Triết Vũ](/vi/people/che-yu-wu) — Nghệ sĩ đa phương tiện mới gọi mình là "thợ đồng hồ thời cổ đại", Biennale Venice Cấu trúc Cá nhân × Art Basel Miami × người sáng lập dự án mã nguồn mở Taiwan.md
+- [Báo cáo Viên: Cứu Báo cáo Điều tra Khỏi các mục Kinh doanh Thành Tài sản Công cộng Một thập niên](/vi/society/the-reporter-investigative-journalism) — Cùng được điều khiển bởi cộng đồng công dân, phát triển xuyên ranh, một trường hợp Taiwan-DNA khác, thể hiện một con đường khác của xây dựng tài sản công cộng bởi xã hội công dân sau năm 2015
+- [justfont và Phát triển Kiểu chữ Đài Loan: Từ 25 năm Hòa Khang đến 76 phút của Kim Xuân Bảy Chục Phút Lịch sử Kiểu chữ Nhỏ](/vi/technology/justfont-and-taiwan-typography) — Kiểu chữ như cơ sở hạ tầng văn hóa, cùng Nghệ thuật đa phương tiện mới chú ý đến tính chủ thể hình ảnh của Đài Loan một khía cạnh khác
+- [Cáp biển: Nhìn thấy tại Đỉnh Khiên Quân Tư, Không thấy được Tại Dưới Mạch sống](/vi/technology/submarine-cables-taiwan-lifeline) — 99% của triển lãm và hợp tác chiến lược Nghệ thuật đa phương tiện mới xuyên quốc gia chạy trên cáp biển, bài viết này bộc lộ cơ sở hạ tầng văn hóa kỹ thuật số không nhìn thấy được này
+- [Niệp Vĩnh Chân](/vi/people/nieh-yung-jen) — Thành viên AGI Liên minh Thiết kế Đồ họa Quốc tế đầu tiên của Đài Loan, vị trí chiến lược của Xưởng Thực hành Vĩnh chân Khẩn cấp và Văn hóa Hình ảnh Đương đại Đài Loan
 
 ## Tài liệu tham khảo
 

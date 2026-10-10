@@ -141,7 +141,7 @@ The account remains unsettled.
 - [History of Forest Development in Taiwan](/en/history/taiwan-forestry-history) — From camphor trees to cypress: the complete context of Taiwan's forest exploitation.
 - [Alishan: The Empire's Timberland and the High Schooler's Mountain](/en/history/alishan-empire-forest-and-uongu-yatauyungana)— How forestry exploitation extended to Alishan during the Japanese period and the post-war White Terror.
 - [National Taiwan Museum of History](/en/society/national-museum-of-taiwan-history) — A national-level third-tier institution that holds primary sources like Swinton's 1864 "Formosa Camphor" (NMTH collection).
-- [Taiwan Street Trees](/lifestyle/台灣行道樹) — The same camphor trees that were once globally contested raw materials in the mountains are now only required to provide shade on the streets: specifically, those lining the green tunnel in Jiji, Nantou.
+- [Taiwan Street Trees](/en/lifestyle/taiwan-street-trees) — The same camphor trees that were once globally contested raw materials in the mountains are now only required to provide shade on the streets: specifically, those lining the green tunnel in Jiji, Nantou.
 
 ---
 

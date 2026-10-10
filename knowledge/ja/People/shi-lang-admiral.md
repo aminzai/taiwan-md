@@ -4,7 +4,7 @@ description: '1683年澎湖海戦で施琅が率いる清軍が鄭氏水師を�
 date: 2026-08-16
 category: 'People'
 tags: ['施琅', '澎湖海戦', '清代台湾']
-subcategory: '歴史上の人物'
+subcategory: '歷史人物'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16
@@ -14,6 +14,7 @@ curation: 'incubating'
 translatedFrom: 'People/施琅.md'
 sourceCommitSha: '6bca1263d'
 sourceContentHash: 'sha256:ffd752882b17c3c2'
+sourceBodyHash: 'sha256:5116f6aabd263b48'
 translatedAt: '2026-09-12T23:03:10.124423+00:00'
 ---
 

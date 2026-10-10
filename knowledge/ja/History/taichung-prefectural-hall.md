@@ -4,7 +4,7 @@ description: '台中州庁は1913年に着工し、段階的に建設が進め�
 date: 2026-08-23
 category: 'History'
 tags: ['台中州庁', '文化財', '台中都市史', '日本統治時代', '建築史', '史跡保存']
-subcategory: '植民地統治と都市の近代化'
+subcategory: '殖民治理與城市現代化'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-23
@@ -23,6 +23,7 @@ rationale:
 translatedFrom: 'History/台中州廳.md'
 sourceCommitSha: '39cb84dab'
 sourceContentHash: 'sha256:07b585b9d90de3d1'
+sourceBodyHash: 'sha256:2beca8976bf8f3ea'
 translatedAt: '2026-09-11T06:07:30.335589+00:00'
 ---
 

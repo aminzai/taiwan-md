@@ -244,7 +244,7 @@ Na nova era de reorganização das cadeias de suprimentos e retorno da manufatur
 **Leitura complementar**:
 
 - [Empresa de Taiwan: Acer](/pt/economy/acer-pc-industry-pioneer) — o corpo materno da Wistron. O "irmãozinho" de manufatura menos cotado na separação, na era de servidores de IA viu seu valor de mercado ultrapassar o da Acer matriz, que focava em marca.
-- [Stan Shih (施振榮)](/people/施振榮) — fundador da Acer que decidiu cortar marca e manufatura em duas empresas, uma frase "originalmente você também pensava assim" deixou a Wistron seguir independente.
+- [Stan Shih (施振榮)](/pt/people/stan-shih) — fundador da Acer que decidiu cortar marca e manufatura em duas empresas, uma frase "originalmente você também pensava assim" deixou a Wistron seguir independente.
 
 ## Referências
 

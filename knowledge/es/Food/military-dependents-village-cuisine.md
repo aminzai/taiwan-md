@@ -125,7 +125,7 @@ Los nuevos cocineros comienzan a reinterpretar la cocina de los barrios de solda
 
 ## Lecturas relacionadas
 
-- [Historia de los barrios de soldados de Taiwán](/history/台灣眷村歷史) — Desde los barrotes de bambú hasta la historia completa de la reforma de los barrios de soldados
+- [Historia de los barrios de soldados de Taiwán](/es/history/taiwan-military-dependents-villages-history) — Desde los barrotes de bambú hasta la historia completa de la reforma de los barrios de soldados
 - [Memoria cultural nacional](https://tcmb.culture.tw/zh-tw) — Base de datos de memoria cultural local del Ministerio de Cultura, que recopila historias orales y artefactos
 
 ```

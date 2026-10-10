@@ -238,11 +238,11 @@ Séparée d'UMC en 1997, MediaTek a commencé par les puces de stockage optique 
 
 [^3]: [Zone de traitement à exportation de Kaohsiung — Wikipédia](https://zh.wikipedia.org/zh-tw/%E9%AB%98%E9%9B%84%E5%8A%A0%E5%B7%A5%E5%87%BA%E5%8F%A3%E5%8D%80) — Créée en 1966 sous la direction de Li Kuo-ting.
 
-[^4]: [Dix grandes constructions — Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%8D%81%E5%A4%A7%E5%BB%A0%E8%A8%AD) — Plan national de 1974-1979 promu par Chiang Ching-kuo.
+[^4]: [Dix grandes constructions — Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%8D%81%E5%A4%A7%E5%BB%BA%E8%A8%AD) — Plan national de 1974-1979 promu par Chiang Ching-kuo.
 
 [^5]: [Parc scientifique de Hsinchu — Wikipédia](https://zh.wikipedia.org/zh-tw/%E6%96%B0%E7%AB%B9%E7%A7%91%E5%AD%B8%E5%9C%92%E5%8D%80) — Créé en 1980, premier parc technologique de Taïwan.
 
-[^6]: [Institut de recherche industrielle (ITRI) — Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%B7%A5%E6%A0%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E9%99%A2) — Créé en 1973, berceau des talents pour UMC et TSMC.
+[^6]: [Institut de recherche industrielle (ITRI) — Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E9%99%A2) — Créé en 1973, berceau des talents pour UMC et TSMC.
 
 [^7]: [Fabrication de circuits intégrés à Taïwan — Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0) — TSMC, fondé en 1987 par Morris Chang.
 

@@ -92,10 +92,10 @@ Alishan bukan sekadar gunung, adalah buku sejarah yang belum selesai ditulis. Pu
 
 - [Sejarah Pengembangan Hutan Taiwan](/id/history/taiwan-forestry-history) — Tiga abad kebijakan kehutanan bagaimana mengubah Alishan, Taipingshan, Basianshan jadi ladang hutan empayar
 - [Teror Putih Taiwan](/id/history/taiwan-white-terror) — Kasus Kao I-sheng hanya bagian penyucian elit Tsou, skala kekerasan politik seluruh 1950-an
-- [Sejarah dan Gerakan Penamaan Kembali Masyarakat Adat Taiwan](/history/台灣原住民族歷史與正名運動) — Tsou dan masyarakat adat lain di Taiwan pasca-perang: kondisi dan perjuangan
-- [Peristiwa 228](/history/二二八事件) — Kebajikan Kao I-sheng menampung pengungsi luar provinsi, kenapa nanti jadi dosanya
-- [Masa Pendudukan Jepang](/history/日治時期) — Sistem kehutanan empayar di balik Kawai Shotaro
-- [Perang Kamper Abad 19](/history/19世紀的樟腦戰爭) — Sebelum hutan hinoki Alishan, adalah akhir masa pemerintahan Qing pohon kamper ditebang. Dari Robert Swinhoe 1864 hingga Dabaoshe 1906, garis yang sama
+- [Sejarah dan Gerakan Penamaan Kembali Masyarakat Adat Taiwan](/id/history/indigenous-peoples-history-and-naming-movement) — Tsou dan masyarakat adat lain di Taiwan pasca-perang: kondisi dan perjuangan
+- [Peristiwa 228](/id/history/228-incident) — Kebajikan Kao I-sheng menampung pengungsi luar provinsi, kenapa nanti jadi dosanya
+- [Masa Pendudukan Jepang](/id/history/japanese-colonial-era) — Sistem kehutanan empayar di balik Kawai Shotaro
+- [Perang Kamper Abad 19](/id/history/19th-century-camphor-wars) — Sebelum hutan hinoki Alishan, adalah akhir masa pemerintahan Qing pohon kamper ditebang. Dari Robert Swinhoe 1864 hingga Dabaoshe 1906, garis yang sama
 
 ## Referensi
 

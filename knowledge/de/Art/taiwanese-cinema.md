@@ -31,6 +31,7 @@ relatedDiary: ['2026-06-13-183725-深度研究-台灣國片']
 translatedFrom: 'Art/台灣電影.md'
 sourceCommitSha: 'cc6f9d9b3'
 sourceContentHash: 'sha256:4eec1818bd85149d'
+sourceBodyHash: 'sha256:9c00635e5ed9da36'
 translatedAt: '2026-09-24T09:46:57.965456+00:00'
 ---
 
@@ -288,12 +289,12 @@ Dieser Artikel verwendet 4 Bilder, die alle in `public/article-images/art/` geca
 ## Weiterführende Lektüre
 
 - [Hou Hsiao-hsien](/de/people/hou-hsiao-hsien): Der Meister des langen Films, der den Goldenen Löwen von Venedig gewann und das 228er-Ereignis auf die Leinwand brachte.
-- [Yang(de) Chang](/de/people/edward-yang): Der Beobachter der Stadt in zwei Werken, die in die Sight & Sound Filmgeschichte eingegangen sind.
+- [Yang(de) Chang](/de/people/yang-dechang): Der Beobachter der Stadt in zwei Werken, die in die Sight & Sound Filmgeschichte eingegangen sind.
 - [Tsai Ming-liang](/de/people/tsai-ming-liang): Gewinner des Goldenen Löwen von Venedig, der Slow Cinema ins Louvre filmte.
 - [Ang Lee](/de/people/ang-lee): Von Taiwan zu Hollywood, zweimaliger Oscar für den besten Regisseur.
 - [Wei Te-sheng](/de/people/wei-te-sheng-taiwanese-epic-filmmaker): Derjenige, der mit fünf Sprachen „Sechzehnstraße“ drehte und den nationalen Film wiederbelebte.
 - [Das unsichtbare Land](/de/art/invisible-nation): Eine andere Sicht auf Taiwan in Ge Jeong-muns Dokumentarfilmen.
-- [Taiwanische Sensibilität: Müssen wir zuerst koreanische Likes haben, um unser altes Haus schön nennen zu dürfen?](/culture/台灣感性): Der Goldene Löwe von „Die tragische Stadt“ im Jahr 1989 und der lokale Kassenerfolg ereigneten sich im selben Jahr; internationale Anerkennung und lokales Echo sind nicht zwingend gegensätzlich.
+- [Taiwanische Sensibilität: Müssen wir zuerst koreanische Likes haben, um unser altes Haus schön nennen zu dürfen?](/de/culture/taiwanese-sensibility): Der Goldene Löwe von „Die tragische Stadt“ im Jahr 1989 und der lokale Kassenerfolg ereigneten sich im selben Jahr; internationale Anerkennung und lokales Echo sind nicht zwingend gegensätzlich.
 
 [^1]: [Filmdialogiker – Wikipedia](https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%BD%B1%E8%BE%AF%E5%A3%AB) — In Taiwan gab es 1930 etwa 60 Filmdialogiker, darunter 41 japanische und 19 taiwanesische, die eine Lizenz durch die Polizeibehörde des Präfekturamtes erwerben mussten.
 

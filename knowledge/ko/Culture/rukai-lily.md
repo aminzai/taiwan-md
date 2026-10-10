@@ -113,7 +113,7 @@ translatedAt: '2026-09-12T21:48:55+08:00'
 
 [국립자연과학박물관: '리구' 백합 - 루카이족 위타이 부족 식물 머리 장식 특별전](https://www.nmns.edu.tw/ch/exhibitions/special-exhibitions/Exhibition-000218/)
 
-## 參考資料
+## 참고 자료
 
 [^1]: [원주민위원회: 루카이족](https://www.cip.gov.tw/zh-tw/tribe/grid-list/409F703B4E592A82D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — 정부 공식 민족 소개, 루카이족 3개 무리의 분포, 사회 계급, 기장 및 사냥 생활, 그리고 백합佩戴권의 문화적 의미를 설명한다.
 

@@ -39,7 +39,7 @@ Im Jahr 1952 erreichte die Küstenfischerei in Taiwan eine Produktion von 43.900
 ## Das Eis des Qianzhen-Hafens erreichte die Hochseeflotte zuerst
 
 ![Szenerie des Fischhafens Cijin](https://upload.wikimedia.org/wikipedia/commons/b/b2/Cijin_Fishing_Port_in_Kaohsiung%2C_Taiwan.JPG)
-_Bildquelle: Cijin Fishing Port in Kaohsiung, Taiwan, Autor SSR2000, CC BY-SA 3.0._
+_Bildquelle: Cijin Fishing Port in Kaohsiung, Taiwan, Autor SSR2000, CC BY-SA 3.0. [Cijin Fishing Port in Kaohsiung, Taiwan](https://commons.wikimedia.org/wiki/File:Cijin_Fishing_Port_in_Kaohsiung,_Taiwan.JPG)_
 
 Der Wiederaufbau der Fischerei nach dem Krieg begann nicht mit einem hochmodernen Hochseefischschiff. Die historischen Aufzeichnungen des Fischereiamtes kennzeichnen die Jahre von 1946 bis 1970 als Wiederaufbauphase, in der Regierung und Privatwirtschaft mittelgroße Schutzhäfen, Eisverarbeitungsanlagen, Kühlfabriken, Landeinrichtungen und Motorboote investierten. Wenn der Fisch nach dem Ufer nicht haltbar gemacht werden konnte, führte die Steigerung der Fangkapazität nur zu mehr Verlusten. Häfen und die Kühlkette waren entscheidend für die Umwandlung des Fangs in ein Handelsgut.[^2]
 
@@ -80,7 +80,7 @@ Die Hochseefischerei wird oft als Verlängerung der Arbeit auf See imaginiert; i
 Dies erklärt auch, warum die Geschichte der Fischerei in Taiwan nicht nur durch das romantische Narrativ „Fischer kämpfen gegen das Meer“ erzählt werden kann. Die Besatzung trägt das Risiko auf See; die Familien an Land, die Verarbeitungsfabriken, Werften, Fischmärkte und lokale Regierungen tragen ebenfalls die Kosten des Sektors. Wenn der Fang steigt, fließt der Gewinn nicht notwendigerweise gleichmäßig in alle Glieder ein. Wenn Ressourcen schwinden oder internationale Vorschriften enger werden, sind es oft die kleinen Boote, die angestellten Besatzungen und die Familien, die von einem einzigen Hafen abhängig sind, die zuerst unter Druck geraten.[^5] [^8]
 
 ![Fischhafen Fugang](https://upload.wikimedia.org/wikipedia/commons/7/76/Taiwan_Fugang_Fishery_Harbor.JPG)
-_Bildquelle: Taiwan Fugang Fishery Harbor, Autor vegafish, CC BY-SA 2.5._
+_Bildquelle: Taiwan Fugang Fishery Harbor, Autor vegafish, CC BY-SA 2.5. [Taiwan Fugang Fishery Harbor](https://commons.wikimedia.org/wiki/File:Taiwan_Fugang_Fishery_Harbor.JPG)_
 
 ## Aquakultur verwandelt die Küste in eine andere Fabrik
 
@@ -89,12 +89,12 @@ Die Modernisierung der Fischerei brachte nicht nur Schiffe ins offene Meer, sond
 Das Problem der Aquakultur kann nicht nur durch Technologie gelöst werden. Die knappen Ressourcen, Krankheiten, Rückstände von Medikamenten, Kosten und Marktpreise bestimmen, ob ein Fischfarmbetrieb weitergeführt werden kann. Daten des Landwirtschaftsministeriums zeigen, dass die Aquakulturpolitik nach 2000 auf Meereszucht umgestellt wurde und Zierfische sowie Zackenbarsche als Wachstumstreiber identifiziert wurden. Dieser Wandel führte dazu, dass sich die Fischerei von der Jagd auf Wildfisch zur Verwaltung von Wasserkörpern, Jungfischen und Marktrisiken entwickelte.[^1]
 
 ![Fischhafen Fugang mit Seemauer](https://upload.wikimedia.org/wikipedia/commons/9/99/2010_07_16390_5687_Taitung_City%2C_Taiwan%2C_Fugang_Fishing_Harbor%2C_Seawalls_in_Taiwan%2C_Commercial_fishing_in_Taitung_City.JPG)
-_Bildquelle: Fugang Fishing Harbor, Taitung, Autor Lord Koxinga, CC BY-SA 3.0._
+_Bildquelle: Fugang Fishing Harbor, Taitung, Autor Lord Koxinga, CC BY-SA 3.0. [Fugang Fishing Harbor, Taitung](https://commons.wikimedia.org/wiki/File:2010_07_16390_5687_Taitung_City,_Taiwan,_Fugang_Fishing_Harbor,_Seawalls_in_Taiwan,_Commercial_fishing_in_Taitung_City.JPG)_
 
 ## Fischerhäfen beginnen, Touristen zu empfangen
 
 ![Fischhafen Mituo](https://upload.wikimedia.org/wikipedia/commons/0/05/Mituo_fishing_harbor_06.jpg)
-_Bildquelle: Mituo fishing harbor 06, Autor Reke, CC BY-SA 4.0._
+_Bildquelle: Mituo fishing harbor 06, Autor Reke, CC BY-SA 4.0. [Mituo fishing harbor 06](https://commons.wikimedia.org/wiki/File:Mituo_fishing_harbor_06.jpg)_
 
 Als die Ressourcen der Küste sanken und das Einkommen aus dem traditionellen Fang unbeständig wurde, suchten auch die Fischerhäfen nach neuen Funktionen. Die Daten des Fischereiamtes zeigen, dass nach der Aufhebung der Einschränkungen im Jahr 1987 die Regierung Freizeitaktivitäten auf See ausbaute und 1999 ein Programm zur Diversifizierung der Hafenfunktionen förderte, das Freizeitfischhäfen und Fischeranlegestellen hervorbrachte. Die Häfen richteten sich somit an Fischschiffe, Fischwaren, Touristen und lokale Marken.[^2]
 
@@ -127,12 +127,12 @@ Die Lieferkette veränderte auch die Distanz zwischen Konsumenten und Produzente
 Nach der Erweiterung der Lieferkette benötigten die Marktteilnehmer neues Wissen. Der Fischmarkt musste Arten und Qualität unterscheiden; die Kühlindustrie musste Temperatur und Lagerbestand überwachen; der Exporteur musste die Hygiene- und Kennzeichnungsstandards verschiedener Länder verstehen; die Regierung musste Fangdaten, Schiffsdaten und Schutzvorschriften in einem einzigen Managementrahmen zusammenführen. Das Ergebnis der Modernisierung umfasst somit ein Datensystem. Wenn Daten nur in den Tabellen von Unternehmen, Häfen oder Behörden verbleiben, kann der Verbraucher kaum die Herkunft und die Umweltkosten eines Produkts beurteilen. Öffentliche und gegenseitig überprüfbare Daten ermöglichen es Fischern, Regierungen und Konsumenten, Ressourcenverbrauch auf einer gemeinsamen Informationsbasis zu diskutieren. Dies ist die grundlegende Arbeit, die bei der heutigen Transformation der Fischerei noch nachgeholt werden muss.[^1] [^5]
 
 ![Fischhafen Yong'an](https://upload.wikimedia.org/wikipedia/commons/1/17/Taiwan_Yong-an_Fishery_Harbor.jpg)
-_Bildquelle: Taiwan Yong-an Fishery Harbor, Autor Mnb, CC BY-SA 2.5._
+_Bildquelle: Taiwan Yong-an Fishery Harbor, Autor Mnb, CC BY-SA 2.5. [Taiwan Yong-an Fishery Harbor](https://commons.wikimedia.org/wiki/File:Taiwan_Yong-an_Fishery_Harbor.jpg)_
 
 ## Vom Produktionsland zum verantwortungsvollen Flaggenstaat
 
 ![Fischhafen Zhengbin](https://upload.wikimedia.org/wikipedia/commons/8/88/Zhengbin_Fishing_Port%2C_Keelung%2C_Taiwan_2019.jpg)
-_Bildquelle: Zhengbin Fishing Port, Keelung, Taiwan 2019, Autor bryan..., CC BY-SA 2.0._
+_Bildquelle: Zhengbin Fishing Port, Keelung, Taiwan 2019, Autor bryan..., CC BY-SA 2.0. [Zhengbin Fishing Port, Keelung, Taiwan 2019](https://commons.wikimedia.org/wiki/File:Zhengbin_Fishing_Port,_Keelung,_Taiwan_2019.jpg)_
 
 Das Wachstum der taiwanesischen Fischerei in der zweiten Hälfte des 20. Jahrhunderts hinterließ eine klare industrielle Kapazität. Die Fischerboote konnten in die drei Ozeane vordringen, die Aquakultur konnte Jungfische in großen Mengen produzieren und Häfen sowie Kühlgeräte konnten Fische zu weit entfernten Märkten bringen. Doch je größer die industrielle Fähigkeit war, desto schwieriger wurde es, externe Verantwortlichkeiten zu vermeiden. Der Flaggenstaat musste wissen, wo seine Schiffe operierten; die Schutzvorschriften der regionalen Organisationen durften nicht nur in Konferenzdokumenten verharren; auch Arbeits- und Datenübermittlungsprozesse mussten nachverfolgbar sein.[^5] [^9]
 
@@ -166,8 +166,8 @@ Wenn Menschen heute einen Fisch auf dem Markt kaufen, sehen sie Gewicht, Preis u
 
 ## Weiterführende Lektüre
 
-- [Ursprünge der Fischerei in Taiwan](/history/台灣漁業起源) — Die erste Hälfte desselben Meeres: Aquatische Versuche, Fischmärkte und technologische Übernahme nach dem Krieg während der japanischen Kolonialzeit
-- [Geschichte des maritimen Handels in Taiwan](/history/台灣海洋貿易史)
+- [Ursprünge der Fischerei in Taiwan](/de/history/taiwan-fishery-origins) — Die erste Hälfte desselben Meeres: Aquatische Versuche, Fischmärkte und technologische Übernahme nach dem Krieg während der japanischen Kolonialzeit
+- [Geschichte des maritimen Handels in Taiwan](/de/history/taiwan-maritime-trade-history)
 - [Geschichte der Zuckerindustrie in Taiwan](/history/台灣糖業史)
 
 ## Image sources

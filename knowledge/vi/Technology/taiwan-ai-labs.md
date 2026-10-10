@@ -74,9 +74,9 @@ Trong giai đoạn dịch bệnh bắt đầu từ năm 2020, Taiwan AI Labs h�
 
 ## Tài liệu tham khảo thêm
 
-- [Miin (迷音): Đốc Dĩnh Cầm dạy AI bắt tài khoản dẫn hướng, bản thân lại bị kiện vì ăn cắp tin](/technology/迷音Miin) — Sản phẩm chủ lực của phòng thí nghiệm hướng tới công chúng, dùng AI để bắt các tài khoản thao tác phối hợp, cuối năm 2025 rơi vào vụ kiện về bản quyền do báo chí tổng hợp.
-- [Phát triển Trí tuệ Nhân tạo và Chiến lược Tương lai của Đài Loan: Từ Giải Nobel Đôi năm 2024 đến Chợ Đêm Ninh Hạ](/technology/台灣人工智慧發展與未來策略) — Đặt Taiwan AI Labs vào bàn cờ tổng thể của "lực bá quyền phần cứng + Giải Nobel Đôi năm 2024", nhìn khoảng cách giữa TAIDE và nghiên cứu nền tảng AI toàn cầu.
-- [Tại sao Đài Loan cần Kho tri thức riêng](/about/為什麼台灣需要自己的知識庫) — Mặt khác của việc xây dựng năng lực AI từ dân gian: khoảng trống ngữ liệu cho mô hình, và việc từ chối trả lời các chủ đề liên quan đến Đài Loan của AI thực tế có thể đo lường được.
+- [Miin (迷音): Đốc Dĩnh Cầm dạy AI bắt tài khoản dẫn hướng, bản thân lại bị kiện vì ăn cắp tin](/vi/technology/miin-music-app) — Sản phẩm chủ lực của phòng thí nghiệm hướng tới công chúng, dùng AI để bắt các tài khoản thao tác phối hợp, cuối năm 2025 rơi vào vụ kiện về bản quyền do báo chí tổng hợp.
+- [Phát triển Trí tuệ Nhân tạo và Chiến lược Tương lai của Đài Loan: Từ Giải Nobel Đôi năm 2024 đến Chợ Đêm Ninh Hạ](/vi/technology/artificial-intelligence-development-strategy) — Đặt Taiwan AI Labs vào bàn cờ tổng thể của "lực bá quyền phần cứng + Giải Nobel Đôi năm 2024", nhìn khoảng cách giữa TAIDE và nghiên cứu nền tảng AI toàn cầu.
+- [Tại sao Đài Loan cần Kho tri thức riêng](/vi/about/why-taiwan-needs-its-own-knowledge-base) — Mặt khác của việc xây dựng năng lực AI từ dân gian: khoảng trống ngữ liệu cho mô hình, và việc từ chối trả lời các chủ đề liên quan đến Đài Loan của AI thực tế có thể đo lường được.
 - [Trang web chính thức Taiwan AI Labs](https://ailabs.tw/)
 - [Đốc Dĩnh Cầm — Wikipedia](https://zh.wikipedia.org/zh-tw/杜奕瑾)
 - [BNext: Đốc Dĩnh Cầm trở về Đài Loan sáng lập AI Lab](https://www.bnext.com.tw/article/44267/founder-of-ptt-ethan-tu-back-to-taiwan-to-establish-an-ai-lab)

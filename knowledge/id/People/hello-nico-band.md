@@ -88,9 +88,9 @@ Hello Nico masih di atas panggung.
 
 - [Ao Yu Shan (凹與山)](/id/people/ao-and-mountain-band) — Sama-sama vokalis perempuan indie Taiwan era 2010-an, menangkap emosi perkotaan dengan sintetisator
 - [VH (Vast & Hazy)](/id/people/vh-band) — Jalur kelembutan lain di lingkaran indie seraya, "band sistem exit"
-- [No Party for Cao Dong (草東沒有派對)](/people/草東沒有派對) — Lanskap indie Taiwan era 2010-an yang sama, konter marah dan tertekan
-- [Ke Chih-tang (柯智棠)](/people/柯智棠) — Penyanyi indie Taiwan lain yang diam tujuh tahun lalu kembali, spektrum "pencipta tempo lambat" yang sama
-- [Ji Bai-hao (紀柏豪)](/art/紀柏豪) — Sintetisator awal Hello Nico, kemudian beralih ke seni suara, pemenang pertama MIT Schnitzer Prize
+- [No Party for Cao Dong (草東沒有派對)](/id/people/no-party-for-cao-dong) — Lanskap indie Taiwan era 2010-an yang sama, konter marah dan tertekan
+- [Ke Chih-tang (柯智棠)](/id/people/ke-zhi-tang-musician) — Penyanyi indie Taiwan lain yang diam tujuh tahun lalu kembali, spektrum "pencipta tempo lambat" yang sama
+- [Ji Bai-hao (紀柏豪)](/id/art/chi-po-hao-musician) — Sintetisator awal Hello Nico, kemudian beralih ke seni suara, pemenang pertama MIT Schnitzer Prize
 
 ## Referensi
 

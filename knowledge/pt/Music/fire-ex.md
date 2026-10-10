@@ -131,10 +131,10 @@ O pavilhão aplaudiu. Este pedaço de sete minutos foi carregado para as redes s
 
 - [Música independente de Taiwan](/pt/music/indie-music-scene/) — O cenário musical independente onde os Fire EX. se movem
 - [História do desenvolvimento do rock em Taiwan](/pt/music/taiwan-rock-from-underground-to-mainstream/) — Da era das canções proibidas ao Festival Megaport
-- [Movimento dos Girassóis](/society/太陽花學運/) — Aquele março em que nasceu «Ilha da Luz»
+- [Movimento dos Girassóis](/pt/society/sunflower-movement/) — Aquele março em que nasceu «Ilha da Luz»
 - [Cultura de festivais de música em Taiwan](/pt/music/taiwan-music-festival-culture/) — De Gongliao ao Festival Fireball
 - [Chang Hsuan e Anpu](/pt/music/deserts-chang-and-anpu/) — O outro lado dos sete minutos do Festival Dágǒu
-- [Comuna do Rio Turvo](/music/濁水溪公社/) — Também a usar punk em taiwanês para registar a era, uma geração antes no rock underground
+- [Comuna do Rio Turvo](/pt/music/loh-tsui-kang-commune/) — Também a usar punk em taiwanês para registar a era, uma geração antes no rock underground
 
 ## Referências
 

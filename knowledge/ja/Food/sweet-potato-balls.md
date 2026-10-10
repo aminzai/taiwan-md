@@ -12,7 +12,7 @@ tags:
     'もったいない文化',
     'タピオカ澱粉',
   ]
-subcategory: '定番小吃'
+subcategory: '經典小吃'
 author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-07-29
@@ -22,6 +22,7 @@ translatedFrom: 'Food/地瓜球.md'
 curation: incubating
 sourceCommitSha: '69b3afd9'
 sourceContentHash: 'sha256:31bbf088964cc84c'
+sourceBodyHash: 'sha256:41b23df405c1e58d'
 translatedAt: '2026-08-19T16:24:54+08:00'
 ---
 

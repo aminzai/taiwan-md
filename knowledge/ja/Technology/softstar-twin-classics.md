@@ -20,6 +20,15 @@ readingTime: 16
 lastVerified: 2026-04-23
 lastHumanReview: false
 featured: false
+sporeLinks:
+  - id: 92
+    platform: 'threads'
+    date: '2026-05-26'
+    url: 'https://www.threads.com/@taiwandotmd/post/DYzFoZxk7GN'
+  - id: 94
+    platform: 'x'
+    date: '2026-05-26'
+    url: 'https://x.com/taiwandotmd/status/2059239795231281223'
 translatedFrom: 'Technology/大宇雙劍.md'
 sourceCommitSha: '31a05c44'
 sourceContentHash: 'sha256:99d1ed1be7085b4c'
@@ -38,7 +47,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:2007-10-15_Guanhua_Compute
 ## 光華商場の少年たち
 
 ![光華商場 1990年代は台湾情報産業の心臓であり、ソフトウェア店・部品屋台・技術書の店が地下階に密集し、ゲーム開発者はここで技術資料を探した](/article-images/technology/guanghua-computer-market-2007.webp)
-_台北光華商場 2007年撮影。1990年代台湾情報産業の心臓。Photo: pacificmorningpost via Flickr. [CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2027-10-15_Guanhua_Computer_Market_Shop.jpg)._
+_台北光華商場 2007年撮影。1990年代台湾情報産業の心臓。Photo: pacificmorningpost via Flickr. [CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2007-10-15_Guanhua_Computer_Market_Shop.jpg)._
 
 1990年10月、台北。『軒轄剣』という名前のゲームがソフトウェア店の棚に並んだ。
 
@@ -248,7 +257,7 @@ _仙剣奇侠伝 1（1995）オリジナルサウンドトラック『蝶恋』�
 
 ## 関連記事
 
-- [台湾ゲーム産業とデジタルエンターテインメント](/technology/台湾ゲーム産業與數位娛樂) — 代理からオリジナルへ、台湾ゲーム産業の全体像
+- [台湾ゲーム産業とデジタルエンターテインメント](/ja/technology/taiwan-gaming-industry) — 代理からオリジナルへ、台湾ゲーム産業の全体像
 - [台湾のオープンソース精神](/ja/technology/taiwan-open-source-spirit) — 「情熱で規模を超えることを成し遂げる」もうひとつの台湾の物語
 - [地下室に入らずして眠れるか](/ja/technology/into-the-cellar-taiwan-game-podcast) — 同時代の台湾ゲームコミュニティが BBS から600万人会員のプラットフォームへと成長した記録
 - [台湾プレイヤーの狂気の瞬間](/ja/technology/taiwan-gamers-wildest-moments) — 大宇ダブルソードの後、台湾プレイヤーが書き続けた集合的狂熱の歴史
@@ -286,7 +295,7 @@ _仙剣奇侠伝 1（1995）オリジナルサウンドトラック『蝶恋』�
 
 [^9]: [ウィキペディア：軒轅剣参 雲と山の彼端](https://zh.wikipedia.org/zh-tw/%E8%BB%92%E8%BD%85%E5%8A%8D%E5%8F%83_%E9%9B%B2%E5%92%8C%E5%B1%B1%E7%9A%84%E5%BD%BC%E7%AB%AF) — 1999年発売、主人公セイトがヴェネツィアから出発しユーラシア大陸を東へ横断して大唐へ至る
 
-[^10]: [軒轅剣ウィキ館：煉妖壺](https://wikisword.fandom.com/wiki/%E7%85%89%E5%A6%94%E5%A3%BA) — 煉妖システムは『軒轅剣弐』より開始
+[^10]: [軒轅剣ウィキ館：煉妖壺](https://wikisword.fandom.com/wiki/%E7%85%89%E5%A6%96%E5%A3%BA) — 煉妖システムは『軒轅剣弐』より開始
 
 [^11]: [百科知識：蝶恋](https://www.newton.com.tw/wiki/%E8%9D%B6%E6%88%80) — 蝶楽曲紹介、再生シーン、プレイヤーによるアレンジ
 

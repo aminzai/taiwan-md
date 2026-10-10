@@ -22,7 +22,7 @@ tags:
     'Công viên Khoa học Tân Trúc',
     'sưu tập nghệ thuật',
   ]
-subcategory: 'Công nghệ và Doanh nghiệp'
+subcategory: '科技與企業'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-08-03

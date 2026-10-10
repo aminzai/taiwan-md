@@ -197,9 +197,9 @@ Wenn der Gesetzgeber das System erneut erweitert – sei es zur Bekämpfung eine
 
 ## Weiterführende Lektüre
 
-- [Taiwanesisches Demokratiesystem](/society/民主制度) — Ob die präventive Freiheitsentziehung erweitert wird, ist letztlich ein kollektives Urteil der demokratischen Gesellschaft über „Staatliche Macht vs. individuelle Freiheit“.
-- [Menschenrechte und Geschlechtergleichheit](/society/人權與性別平等) — Die Aufnahme von Kindesmissbrauch und sexueller Belästigung in die präventive Freiheitsentziehung ist Teil der Bewegung zur Verhütung sexueller Gewalt.
-- [Kontroverse um Tierarzneimittel in Taiwan](/society/台灣動物用藥爭議) — Ein weiteres Thema der „Systemtransparenz“, das die Spannung zwischen Professionalität und Demokratie in der taiwanesischen Governance zeigt.
+- [Taiwanesisches Demokratiesystem](/de/society/democratic-system) — Ob die präventive Freiheitsentziehung erweitert wird, ist letztlich ein kollektives Urteil der demokratischen Gesellschaft über „Staatliche Macht vs. individuelle Freiheit“.
+- [Menschenrechte und Geschlechtergleichheit](/de/society/human-rights-and-gender-equality) — Die Aufnahme von Kindesmissbrauch und sexueller Belästigung in die präventive Freiheitsentziehung ist Teil der Bewegung zur Verhütung sexueller Gewalt.
+- [Kontroverse um Tierarzneimittel in Taiwan](/de/society/taiwan-animal-drug-controversy) — Ein weiteres Thema der „Systemtransparenz“, das die Spannung zwischen Professionalität und Demokratie in der taiwanesischen Governance zeigt.
 
 ## Referenzen
 

@@ -3,7 +3,7 @@ title: '변하율: CTBC 한국 치어의 시즌 넘는 기둥'
 description: 'CTBC 브라더스의 한국 응원 대표에서 시즌을 넘는 잔류까지—높은 인기 뒤에서 그녀는 공개 인터뷰에서 가족 건강 문제가 자신의 감정에 끼친 영향을 솔직히 털어놓으며 응원 노동자의 실제 압력 면을 보여 주었다.'
 date: 2026-05-13
 category: People
-subcategory: '팝 문화'
+subcategory: '流行人物'
 tags:
   [
     '팝 문화',
@@ -19,7 +19,7 @@ featured: false
 lastVerified: 2026-05-13
 translatedFrom: 'People/邊荷律.md'
 readingTime: 9
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:860b8c0055b0c881'
 sourceBodyHash: 'sha256:34601056f655cc89'
 translatedAt: '2026-05-17T05:33:00Z'

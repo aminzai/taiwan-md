@@ -218,10 +218,10 @@ What will the next version look like? Does Taiwan's sovereignty debate require a
 
 ## Further Reading
 
-- [Resolution on Taiwan's Future](/history/resolution-on-taiwans-future) — The decisive academic anchor of China-centric Nationalism discourse from 1999; the starting point of Lin Zhuo-shui's two words "currently."
-- [Tsai Ing-wen](/people/tsai-ing-wen) — Proposer of the "Republic of China (Taiwan)" working concept, a representative sub-spectrum of the China-centric Nationalism faction.
-- [Lai Ching-te](/people/lai-ching-te) — The executor of contemporary China-centric Nationalism discourse regarding "non-subordination to cross-strait relations," the main actor in the May 20 three-name statement.
-- [Taiwan Elections and Party Politics](/history/taiwan-elections-and-party-politics) — A broader context of how unification preferences reshape the blue-green political lines through elections.
+- [Resolution on Taiwan's Future](/en/history/resolution-on-taiwans-future) — The decisive academic anchor of China-centric Nationalism discourse from 1999; the starting point of Lin Zhuo-shui's two words "currently."
+- [Tsai Ing-wen](/en/people/tsai-ing-wen) — Proposer of the "Republic of China (Taiwan)" working concept, a representative sub-spectrum of the China-centric Nationalism faction.
+- [Lai Ching-te](/en/people/lai-ching-te) — The executor of contemporary China-centric Nationalism discourse regarding "non-subordination to cross-strait relations," the main actor in the May 20 three-name statement.
+- [Taiwan Elections and Party Politics](/en/history/taiwan-elections-and-party-politics) — A broader context of how unification preferences reshape the blue-green political lines through elections.
 - [Taiwan Democratic Transition](/history/taiwan-democratic-transition) — The historical background for the birth of the sovereignty spectrum: from one-party dictatorship to competitive elections.
 - [Cross-Strait Crisis and Development of Cross-Strait Relations](/history/cross-strait-crisis-and-development-of-cross-strait-relations) — The long trajectory of the sovereignty spectrum under continuous external pressure.
-- [Invisible Nation](/art/invisible-nation) — The context in which Tsai Ing-wen stated, "Taiwan was inherently an independent nation," in this documentary.
+- [Invisible Nation](/en/art/invisible-nation) — The context in which Tsai Ing-wen stated, "Taiwan was inherently an independent nation," in this documentary.

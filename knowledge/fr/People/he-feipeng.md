@@ -3,14 +3,14 @@ title: 'Ho Fei-peng'
 description: 'Un homme de médias qui a devancé le marché de huit ans, encaissé sept années de pertes, et fondé le plus grand groupe éditorial de Taïwan.'
 date: 2026-03-26
 tags: ['Cité Media', 'édition', 'transformation numérique', 'Ziman']
-subcategory: 'Numérique et médias'
+subcategory: '數位與媒體'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: ~5 min
 featured: false
 lastVerified: 2026-03-26
 translatedFrom: 'People/何飛鵬.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:c6c5b08befa8584a'
 sourceBodyHash: 'sha256:65be42b8cac6c9ca'
 translatedAt: 2026-05-16T22:21:43Z

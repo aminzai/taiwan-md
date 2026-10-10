@@ -204,7 +204,7 @@ E Taiwan, depois daquela noite de 15 de janeiro, aprendeu a terminar de dizer aq
 
 **Leituras complementares**:
 
-- [Tsai Ing-wen](/people/蔡英文) — A declaração de vitória de 16 de janeiro de 2016, “ninguém precisa pedir desculpas por sua identidade”, foi uma resposta direta àqueles 90 segundos
+- [Tsai Ing-wen](/pt/people/tsai-ing-wen) — A declaração de vitória de 16 de janeiro de 2016, “ninguém precisa pedir desculpas por sua identidade”, foi uma resposta direta àqueles 90 segundos
 - [Jay Chou](/pt/people/jay-chou) — Entre os artistas taiwaneses no Instagram, ele é o único à frente de Tzuyu e seus mais de dez milhões de seguidores
 - [A sensibilidade taiwanesa: precisamos que os sul-coreanos curtam primeiro para termos coragem de dizer que nossas casas antigas são bonitas?](/pt/culture/taiwanese-sensibility) — No caminho pelo qual os sul-coreanos conheceram Taiwan, Tzuyu foi um dos primeiros rostos taiwaneses a ficar na memória
 - [Transição democrática de Taiwan](/pt/history/taiwan-democratization) — A eleição de 2016 marcou a terceira alternância partidária no poder em Taiwan, e aqueles 90 segundos foram um de seus episódios mais dolorosos

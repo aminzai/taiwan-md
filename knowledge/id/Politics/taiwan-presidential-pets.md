@@ -73,7 +73,7 @@ Selain itu, citra "nasib baik anjing pertama" milik hewan peliharaan presiden ju
 
 📝 Catatan kurator: Hewan peliharaan pertama adalah selubung paling lunak presiden, namun juga yang paling mudah ditusuk oleh ujung tombak.
 
-## 參考資料
+## Referensi
 
 [^1]: [蔣介石3愛犬護主有靈性日記留名備受寵愛](https://www.youtube.com/watch?v=uj0__fZkZlg) — Berita Taiwan (Rekaman video YouTube)
 

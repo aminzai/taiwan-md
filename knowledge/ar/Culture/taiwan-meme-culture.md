@@ -12,7 +12,7 @@ tags:
     'صمام الأمان الاجتماعي',
     'ميمات كلاسيكية',
   ]
-subcategory: 'ثقافة الإنترنت'
+subcategory: '網路文化'
 author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 12
@@ -23,6 +23,7 @@ curation: 'incubating'
 translatedFrom: 'Culture/台灣迷因.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:b657d4be12937550'
+sourceBodyHash: 'sha256:758baf07e7746d38'
 translatedAt: '2026-08-04T13:55:02.242699+00:00'
 ---
 

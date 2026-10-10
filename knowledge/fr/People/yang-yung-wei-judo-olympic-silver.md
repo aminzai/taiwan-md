@@ -14,7 +14,7 @@ tags:
     peuples autochtones,
     Paiwan,
   ]
-subcategory: 'Sports'
+subcategory: '體育'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 10

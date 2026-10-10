@@ -261,7 +261,7 @@ Das DOS-Fenster wurde seit dreißig Jahren geschlossen. Aber dieser Nachmittag e
 - [Der Open-Source-Geist Taiwans](/de/technology/taiwan-open-source-spirit) — Eine weitere Geschichte Taiwans, wie man „etwas jenseits des Maßstabs mit Leidenschaft erschafft“
 - [Man kann nicht schlafen, wenn man in der Scheune lebt](/de/technology/into-the-cellar-taiwan-game-podcast) — Die taiwanesische Gaming-Community derselben Ära entwickelte sich von BBS zu einer Plattform mit 6 Millionen Mitgliedern
 - [Die verrückten Momente der taiwanesischen Spieler](/de/technology/taiwan-gamers-wildest-moments) — Die kollektive Manie, die nach den zwei Schwertern von Dagu weitergeschrieben wurde
-- [Reia Games](/technology/雷亞遊戲) — Ein weiteres taiwanesisches Entwicklerunternehmen, das mit „ästhetischer Nationenbildung“ ähnlich ist wie Dagu, aber einen völlig anderen Weg einschlug
+- [Reia Games](/de/technology/rayark-games) — Ein weiteres taiwanesisches Entwicklerunternehmen, das mit „ästhetischer Nationenbildung“ ähnlich ist wie Dagu, aber einen völlig anderen Weg einschlug
 
 ---
 

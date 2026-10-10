@@ -206,13 +206,13 @@ La prochaine divine montagne protectrice de la nation de Taïwan pourrait ne pas
 
 **Pour aller plus loin** :
 
-- [Industrie des semi-conducteurs : 50 ans de révolution des matériaux, du transfert de technologie RCA au nitrure de gallium et à l'emballage quantique](/technology/半導體產業) — La narration technique complète de la divine montagne protectrice de la nation, et le lien avec « NVIDIA réserve la capacité CoWoS »
-- [Entreprise taïwanaise : TSMC](/economy/台灣企業：台積電) — La gouvernance et la structure financière de cette entreprise qui a écrit la discrétion dans son modèle commercial
-- [Entreprise taïwanaise : MediaTek](/economy/台灣企業：聯發科技) — Le plus grand fabricant de puces pour smartphones au monde en volume d'expéditions, pourquoi la narration rattrape encore le retard
-- [Entreprise taïwanaise : HTC](/economy/台灣企業：宏達電) — L'histoire d'entreprise complète de la mort de « Quietly Brilliant »
-- [Jensen Huang](/people/黃仁勳) — Né à Tainan, grandi aux États-Unis, la personne qui sait le mieux raconter des histoires de puces au monde
-- [NVIDIA à Taïwan](/technology/NVIDIA在台灣) — La relation entre ce blouson en cuir et la chaîne d'approvisionnement taïwanaise
-- [Computex : trois grands salons informatiques internationaux en ont fermé deux, celui qui reste est né à Taipei](/technology/Computex) — Chaque mai, les géants mondiaux de l'IA racontent tour à tour des histoires à Taipei avec le même discours
+- [Industrie des semi-conducteurs : 50 ans de révolution des matériaux, du transfert de technologie RCA au nitrure de gallium et à l'emballage quantique](/fr/technology/taiwan-semiconductor-industry) — La narration technique complète de la divine montagne protectrice de la nation, et le lien avec « NVIDIA réserve la capacité CoWoS »
+- [Entreprise taïwanaise : TSMC](/fr/economy/tsmc) — La gouvernance et la structure financière de cette entreprise qui a écrit la discrétion dans son modèle commercial
+- [Entreprise taïwanaise : MediaTek](/fr/economy/mediatek) — Le plus grand fabricant de puces pour smartphones au monde en volume d'expéditions, pourquoi la narration rattrape encore le retard
+- [Entreprise taïwanaise : HTC](/fr/economy/htc-android-pioneer-vr-transformation) — L'histoire d'entreprise complète de la mort de « Quietly Brilliant »
+- [Jensen Huang](/fr/people/jensen-huang) — Né à Tainan, grandi aux États-Unis, la personne qui sait le mieux raconter des histoires de puces au monde
+- [NVIDIA à Taïwan](/fr/technology/nvidia-in-taiwan) — La relation entre ce blouson en cuir et la chaîne d'approvisionnement taïwanaise
+- [Computex : trois grands salons informatiques internationaux en ont fermé deux, celui qui reste est né à Taipei](/fr/technology/computex) — Chaque mai, les géants mondiaux de l'IA racontent tour à tour des histoires à Taipei avec le même discours
 
 ## Sources des images
 

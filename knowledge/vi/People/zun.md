@@ -146,10 +146,10 @@ Tôn trong video về ngôi nhà mới vẫn là cùng một người với cậ
 
 **Đọc thêm**:
 
-- [A Thần](/people/阿神) — Cũng khởi đầu bằng video trò chơi; 11 năm đăng video hằng ngày của A Thần và việc về sau rút lại cam kết phát hành cố định cho thấy một nhịp độ lao động khác của nhà sáng tạo lâu năm.
-- [HowHow](/people/Howhow) — Cũng trưởng thành từ buổi đầu của YouTube Đài Loan, đưa hài phi lý, quảng cáo và đời sống gia đình vào cùng một căn tính sáng tạo.
-- [Thái A Dát](/people/蔡阿嘎) — Từ video ngắn cá nhân phát triển thành các kênh tập thể và gia đình, qua đó cho thấy một hành trình trưởng thành khác của nhà sáng tạo lâu năm.
-- [Bahamut](/culture/巴哈姆特) — Một cửa ngõ quan trọng của cộng đồng trò chơi và Internet tại Đài Loan, đồng thời là một trong những môi trường nuôi dưỡng văn hóa phát trực tiếp thời kỳ đầu.
+- [A Thần](/vi/people/red-shin-minecraft-youtuber) — Cũng khởi đầu bằng video trò chơi; 11 năm đăng video hằng ngày của A Thần và việc về sau rút lại cam kết phát hành cố định cho thấy một nhịp độ lao động khác của nhà sáng tạo lâu năm.
+- [HowHow](/vi/people/howhow) — Cũng trưởng thành từ buổi đầu của YouTube Đài Loan, đưa hài phi lý, quảng cáo và đời sống gia đình vào cùng một căn tính sáng tạo.
+- [Thái A Dát](/vi/people/tsai-a-ga-youtuber) — Từ video ngắn cá nhân phát triển thành các kênh tập thể và gia đình, qua đó cho thấy một hành trình trưởng thành khác của nhà sáng tạo lâu năm.
+- [Bahamut](/vi/culture/bahamut-taiwan-gaming-community) — Một cửa ngõ quan trọng của cộng đồng trò chơi và Internet tại Đài Loan, đồng thời là một trong những môi trường nuôi dưỡng văn hóa phát trực tiếp thời kỳ đầu.
 
 ## Nguồn hình ảnh
 

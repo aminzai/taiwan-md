@@ -126,7 +126,7 @@ GitHub에서 Taiwan으로 표기한 사용자는 44,408명이다(2026년 3월 �
 9. [About OCF — Open Culture Foundation](https://ocf.tw/en/p/what_is_ocf_en.html)
 10. [committers.top — Most active GitHub users in Taiwan](https://committers.top/taiwan.html)
 11. [COSCUP — Wikipedia](https://en.wikipedia.org/wiki/COSCUP)
-12. [The simple but ingenious system Taiwan uses to crowdsource its laws](https://www.technologyreview.com/2018/08/21/240284/the-simple-but-ingenius-system-taiwan-uses-to-crowdsource-its-laws/) — MIT Technology Review
+12. [The simple but ingenious system Taiwan uses to crowdsource its laws](https://www.technologyreview.com/2018/08/21/240284/the-simple-but-ingenious-system-taiwan-uses-to-crowdsource-its-laws/) — MIT Technology Review
 
 ---
 

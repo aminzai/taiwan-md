@@ -4,7 +4,7 @@ description: "Taiwan was once North Korea's fourth-largest export destination, w
 date: 2026-07-17
 author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: 'Democracy and Governance'
+subcategory: '民主與治理'
 tags:
   [
     'Taiwan',
@@ -107,8 +107,8 @@ North Korea's shift toward a "two states theory" proves how fragile "blood ties"
 
 ## Further Reading
 
-- [Withdrawal from the United Nations](/history/withdrawal-from-the-united-nations) — Structural shifts in Taiwan's international status
-- [Taiwan's Foreign Trade and Global Supply Chains](/economy/taiwan-foreign-trade-and-global-supply-chains) — How export orientation shapes gray zone trade
+- [Withdrawal from the United Nations](/en/history/withdrawal-from-united-nations) — Structural shifts in Taiwan's international status
+- [Taiwan's Foreign Trade and Global Supply Chains](/en/economy/taiwan-foreign-trade-and-global-supply-chain) — How export orientation shapes gray zone trade
 
 ## References
 

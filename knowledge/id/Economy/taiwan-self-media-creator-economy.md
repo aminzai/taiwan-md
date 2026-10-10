@@ -136,5 +136,5 @@ Skala ekonomi kreator Taiwan tidak akan kejar AS, ini atap langit yang ditentuka
 
 ## Bacaan Lanjutan
 
-- [Program Inkubator AAMA Taipei](/economy/AAMA台北搖籃計畫)：Dua tahun satu-satu mentor tanpa investasi, tanpa pegang saham, alumni termasuk pendiri platform bisnis kreator Portaly Lin Chi-wei, jaringan dukungan khas Taiwan di balik ekonomi kreator
+- [Program Inkubator AAMA Taipei](/id/economy/aama-taipei-cradle-program)：Dua tahun satu-satu mentor tanpa investasi, tanpa pegang saham, alumni termasuk pendiri platform bisnis kreator Portaly Lin Chi-wei, jaringan dukungan khas Taiwan di balik ekonomi kreator
 - [Program Kepemimpinan Kewirausahaan SLP Taipei](/id/economy/slp-taipei-startup-leadership-program)：Pelatihan kewirausahaan enam bulan bobot sifat pribadi separo hak pilih talenta, beresonansi jauh dengan logika ekonomi kreator "pribadi mendahului perusahaan"

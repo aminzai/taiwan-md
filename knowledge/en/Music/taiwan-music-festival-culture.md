@@ -1,6 +1,6 @@
 ---
 translatedFrom: 'Music/台灣音樂祭文化.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:05a94f16d833d02e'
 sourceBodyHash: 'sha256:7c772c535d0e1d4c'
 translatedAt: '2026-05-16T22:19:17Z'
@@ -16,7 +16,7 @@ tags:
     'indie music',
     'youth culture',
   ]
-subcategory: 'Indie and Rock'
+subcategory: '獨立與搖滾'
 category: 'Music'
 author: 'Taiwan.md'
 featured: true
@@ -24,6 +24,7 @@ readingTime: 10
 lastVerified: 2026-03-29
 lastHumanReview: false
 ---
+
 **Taiwan's music festival culture began in 1995 when two Americans erected a makeshift stage in Kenting. Over thirty years it evolved into distinct species: Spring Scream, Hohaiyan Rock Festival, Megaport, and more. By the 2020s, this island smaller than the Netherlands was hosting more than 50 music festivals per year. Market demand alone cannot explain that scale — it comes closer to a collective ritual: an entire generation finding its voice outdoors.**
 
 ## Two Foreigners on a Kenting Beach

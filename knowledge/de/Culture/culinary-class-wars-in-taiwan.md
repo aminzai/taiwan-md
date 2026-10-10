@@ -127,7 +127,7 @@ Aber eine Sache bleibt zurück: Von 2024 bis 2026 wurden die taiwanesischen Verb
 ## Weiterführende Literatur
 
 - [Taiwanesische Supermarktkultur](/de/lifestyle/convenience-store-culture) — Die Branchenszene, in der die Partnerschaft zwischen 7-ELEVEN und Bai Zhongyuan stattfand, hilft beim Verständnis der Wettbewerbssituation im frischen Supermarkt
-- [Taiwanesische Getränkekultur](/food/台灣手搖飲文化) — Der Branchenhintergrund, in dem die Partnerschaft zwischen Kim Tae-sung und Shiseng stattfand, der wichtigste Wettbewerbsschauplatz für taiwanesische Getränke
+- [Taiwanesische Getränkekultur](/de/food/hand-shaken-drink-culture) — Der Branchenhintergrund, in dem die Partnerschaft zwischen Kim Tae-sung und Shiseng stattfand, der wichtigste Wettbewerbsschauplatz für taiwanesische Getränke
 - [Perlenmilchtee](/de/food/bubble-tea) — Das Symbolzeichen der taiwanesischen Getränkekultur, im Vergleich zu den koreanischen Getränkemarken, die während der Ära von "Schwarz-Weiß-Köche" auf den taiwanesischen Markt kamen
 
 ## Quellen

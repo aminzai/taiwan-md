@@ -18,7 +18,7 @@ tags:
   - '라이프스타일 미디어'
   - '쥐쓰 미디어 그룹'
   - '미디어 리터러시'
-subcategory: '디자인과 미디어'
+subcategory: '設計與媒體'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-07-13

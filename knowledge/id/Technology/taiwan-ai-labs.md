@@ -72,8 +72,8 @@ Selama pandemi yang dimulai pada tahun 2020, Taiwan AI Labs bekerja sama dengan 
 
 ## Bacaan Lanjutan
 
-- [Miin: Tu I-Chin Mengajarkan AI untuk Menangkap Akun yang Mengarahkan Arah Opini, Sendiri Digugat Karena Mencuri Berita](/technology/迷音Miin) — Produk bendera laboratorium yang ditujukan untuk masyarakat umum, menggunakan AI untuk menangkap akun operasi terkoordinasi, pada akhir 2025 terlibat dalam sengkensi hak cipta karena agregasi berita.
-- [Perkembangan dan Strategi Masa Depan Kecerdasan Buatan Taiwan: Dari Nobel Ganda 2024 ke Pasar Malam Ningxia](/technology/台灣人工智慧發展與未來策略) — Menempatkan Taiwan AI Labs kembali ke papan catur keseluruhan hegemoni perangkat keras + Nobel Ganda 2024, melihat jarak TAIDE dengan penelitian dasar AI global.
+- [Miin: Tu I-Chin Mengajarkan AI untuk Menangkap Akun yang Mengarahkan Arah Opini, Sendiri Digugat Karena Mencuri Berita](/id/technology/miin-music-app) — Produk bendera laboratorium yang ditujukan untuk masyarakat umum, menggunakan AI untuk menangkap akun operasi terkoordinasi, pada akhir 2025 terlibat dalam sengkensi hak cipta karena agregasi berita.
+- [Perkembangan dan Strategi Masa Depan Kecerdasan Buatan Taiwan: Dari Nobel Ganda 2024 ke Pasar Malam Ningxia](/id/technology/artificial-intelligence-development-strategy) — Menempatkan Taiwan AI Labs kembali ke papan catur keseluruhan hegemoni perangkat keras + Nobel Ganda 2024, melihat jarak TAIDE dengan penelitian dasar AI global.
 - [Mengapa Taiwan Membutuhkan Basis Pengetahuan Sendiri](/id/about/why-taiwan-needs-its-own-knowledge-base) — Sisi lain dari pembangunan kemampuan AI secara mandiri oleh masyarakat: kesenjangan korpus untuk memberi makan model, dan penolakan respons AI terhadap topik Taiwan sebenarnya dapat diukur.
 - [Situs Web Resmi Taiwan AI Labs](https://ailabs.tw/)
 - [Tu I-Chin — Wikipedia](https://zh.wikipedia.org/zh-tw/杜奕瑾)

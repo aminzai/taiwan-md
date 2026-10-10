@@ -14,7 +14,7 @@ tags:
     'indigenous',
     'Paiwan',
   ]
-subcategory: 'Sports'
+subcategory: '體育'
 lastVerified: 2026-03-21
 translatedFrom: 'People/楊勇緯.md'
 sourceCommitSha: '4b6d28c5'

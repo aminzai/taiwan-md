@@ -212,11 +212,11 @@ Bài hát ngoại ông để lại, anh không lực nó "kế thừa" — anh c
 
 **Đọc thêm**:
 
-- [Trương Huệ Muội](/people/trương-huệ-muội) — Cùng tộc Bì Nam, cùng từ Đài Đông, đi đường hoàn toàn ngược: từ bản Sakuban tới sân khấu lớn nhất Á châu
-- [Ca sĩ sáng tác bản địa đương đại](/music/ca-sĩ-sáng-tác-bản-địa-đương-đại) — Bản đồ thế hệ những năm 1990s khi nhạc sĩ bản địa Đài Loan bước từ biên duyên tới dòng chính
-- [Dân ca và ca dao Đài Loan](/music/dân-ca-và-ca-dao-đài-loan) — Bao gồm vị trí của Lục Sâm Bảo và các nhà sáng tác bản địa những năm 1950s trong lịch sử dân ca Đài Loan
-- [Âm nhạc độc lập Đài Loan](/music/âm-nhạc-độc-lập-đài-loan) — Cách các nhãn hiệu âm nhạc độc lập như Giác Đầu xây dựng con đường khác ngoài công nghiệp âm nhạc chủ lưu
-- [Giải Tân Khúc](/music/giải-tân-khúc) — Cách thể chế Giải Tân Khúc tiếp nhận các sáng tác bản địa
+- [Trương Huệ Muội](/vi/people/a-mei) — Cùng tộc Bì Nam, cùng từ Đài Đông, đi đường hoàn toàn ngược: từ bản Sakuban tới sân khấu lớn nhất Á châu
+- [Ca sĩ sáng tác bản địa đương đại](/vi/music/contemporary-indigenous-singer-songwriters) — Bản đồ thế hệ những năm 1990s khi nhạc sĩ bản địa Đài Loan bước từ biên duyên tới dòng chính
+- [Dân ca và ca dao Đài Loan](/vi/music/taiwan-folk-music-and-songs) — Bao gồm vị trí của Lục Sâm Bảo và các nhà sáng tác bản địa những năm 1950s trong lịch sử dân ca Đài Loan
+- [Âm nhạc độc lập Đài Loan](/vi/music/indie-music-scene) — Cách các nhãn hiệu âm nhạc độc lập như Giác Đầu xây dựng con đường khác ngoài công nghiệp âm nhạc chủ lưu
+- [Giải Tân Khúc](/vi/music/pop-music-and-golden-melody-awards) — Cách thể chế Giải Tân Khúc tiếp nhận các sáng tác bản địa
 
 ## Nguồn hình ảnh
 
@@ -228,7 +228,7 @@ Bài viết sử dụng 3 hình ảnh có giấy phép CC BY-SA 4.0, toàn bộ 
 
 ## Tài liệu tham khảo
 
-[^1]: [Trần Kiến Niên (ca sĩ) — Từ điển bách khoa Việt tự do](https://zh.wikipedia.org/zh-tw/%E9%99%B3%E5%BB%BA%E5%B9%B4_(%E6%AD%8C%E6%89%8B) — ) — )) — Mục nhập từ điển bách khoa Việt tự do Trần Kiến Niên, ghi chép ngày sinh 1 tháng 8 năm 1967, xuất phát từ bản Sakuban, quan hệ ngoại ông Lục Sâm Bảo, tốt nghiệp khóa cảnh sát 114, năm 2000 tháng 9 chuyển công tác Đảo Lan Tự, năm 2017 tháng 9 nghỉ hưu làm phó giám đốc nhà chỉ huy phân trạm Đảo Lan Tự
+[^1]: [Trần Kiến Niên (ca sĩ) — Từ điển bách khoa Việt tự do](<https://zh.wikipedia.org/zh-tw/%E9%99%B3%E5%BB%BA%E5%B9%B4_(%E6%AD%8C%E6%89%8B)>) — ) — )) — Mục nhập từ điển bách khoa Việt tự do Trần Kiến Niên, ghi chép ngày sinh 1 tháng 8 năm 1967, xuất phát từ bản Sakuban, quan hệ ngoại ông Lục Sâm Bảo, tốt nghiệp khóa cảnh sát 114, năm 2000 tháng 9 chuyển công tác Đảo Lan Tự, năm 2017 tháng 9 nghỉ hưu làm phó giám đốc nhà chỉ huy phân trạm Đảo Lan Tự
 
 [^2]: [Baliwakes Lục Sâm Bảo — Cơ sở dữ liệu ảnh các nhạc sĩ Đài Loan, Trung tâm âm nhạc Đài Loan của Viện Lưu giữ Văn hóa truyền thống Quốc gia](http://musiciantw.ncfta.gov.tw/list.aspx?p=M037&c=&t=1) — Tệp nhạc sĩ cấp quốc gia chính thức, ghi chép Lục Sâm Bảo 1910-1988, tốt nghiệp Trường Sư phạm Đài Nam, sau Thế chiến II bắt đầu từ những năm 1950s sáng tác bằng tiếng Bì Nam "Núi Bì Nam" "Tuyên bố tổ tiên" "Bông lúa xinh đẹp" "Nhớ quê hương" "Tình yêu Đảo Lan Tự" và các bài ca khúc khác, được tôn kính là "cha đẻ âm nhạc Bì Nam".
 

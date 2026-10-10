@@ -80,10 +80,10 @@ Câu chuyện của Facebook là một nội dung rút gọn của 20 năm chuy�
 
 **Đọc thêm mở rộng**:
 
-- [IG: Từ bộ lọc của nhiếp ảnh gia đến lo lắng "dễ vỡ" của người Đài Loan](/technology/IG) — Nền tảng chính khác do Meta sở hữu tại Đài Loan, tạo thành các tình huống sử dụng khác nhau với Facebook: Facebook là "liên lạc với người lớn tuổi", IG là "cho chính mình xem", còn Threads là "quảng trường cãi vã lớn".
-- [Threads tại Đài Loan](/technology/Threads在台灣) — Người Đài Loan gọi Threads là "dễ vỡ" vì sao? Từ làn sóng tị nạn FB đến "dễ vỡ" chiếm dụng lưu lượng toàn cầu thứ nhất, vị trí độc đáo của người dùng Đài Loan trong hệ sinh thái Meta.
-- [Lịch sử di cư mạng xã hội Đài Loan](/technology/台灣網路社群遷徙史) — Từ BBS, Trang vô danh, Plurk đến Facebook, IG, Threads, để hiểu tại sao Facebook nổi lên tại Đài Loan, tại sao nó bắt đầu suy giảm, bạn cần bản đồ di cư hoàn chỉnh này.
-- [Trang vô danh](/culture/無名小站) — Nền tảng bản địa được Facebook vượt qua và cuối cùng thay thế: năm 2008 Trang vô danh vẫn áp đảo Yahoo là số một toàn Đài Loan, từ năm 2009 Facebook dựa vào bức tường động dài hạn nhanh chóng vượt lên.
+- [IG: Từ bộ lọc của nhiếp ảnh gia đến lo lắng "dễ vỡ" của người Đài Loan](/vi/technology/instagram-in-taiwan) — Nền tảng chính khác do Meta sở hữu tại Đài Loan, tạo thành các tình huống sử dụng khác nhau với Facebook: Facebook là "liên lạc với người lớn tuổi", IG là "cho chính mình xem", còn Threads là "quảng trường cãi vã lớn".
+- [Threads tại Đài Loan](/vi/technology/threads-in-taiwan) — Người Đài Loan gọi Threads là "dễ vỡ" vì sao? Từ làn sóng tị nạn FB đến "dễ vỡ" chiếm dụng lưu lượng toàn cầu thứ nhất, vị trí độc đáo của người dùng Đài Loan trong hệ sinh thái Meta.
+- [Lịch sử di cư mạng xã hội Đài Loan](/vi/technology/taiwan-online-community-migration) — Từ BBS, Trang vô danh, Plurk đến Facebook, IG, Threads, để hiểu tại sao Facebook nổi lên tại Đài Loan, tại sao nó bắt đầu suy giảm, bạn cần bản đồ di cư hoàn chỉnh này.
+- [Trang vô danh](/vi/culture/wretch) — Nền tảng bản địa được Facebook vượt qua và cuối cùng thay thế: năm 2008 Trang vô danh vẫn áp đảo Yahoo là số một toàn Đài Loan, từ năm 2009 Facebook dựa vào bức tường động dài hạn nhanh chóng vượt lên.
 
 ## Tài liệu tham khảo
 

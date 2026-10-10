@@ -482,9 +482,9 @@ Ce texte utilise 7 images sous licence CC / Domaine public, mises en cache dans 
 
 [^52]: [Focus Taiwan: Taiwan's emergency room overcrowding "unprecedented", says ER medical society](https://focustaiwan.tw/society/202503210008) — Début 2025, la Société taïwanaise de médecine des urgences a décrit le niveau d'engorgement des urgences de cette année comme « sans précédent ».
 
-[^53]: [The Lancet (RETRACTED): Taiwan's national health care on the brink of systemic collapse](<https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25) — Correspondance publiée le 26 avril 2025 par l'équipe de médecins de l'Hôpital universitaire de la médecine chinoise, retirée le 23 mai 2025.
+[^53]: [The Lancet (RETRACTED): Taiwan's national health care on the brink of systemic collapse](<https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)00489-1/fulltext>) — Correspondance publiée le 26 avril 2025 par l'équipe de médecins de l'Hôpital universitaire de la médecine chinoise, retirée le 23 mai 2025.
 
-[^54]: [The Lancet — Retraction Notice for Taiwan health care correspondence](<https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25) — Explication du retrait : fausse déclaration du chiffre 58,2 %, fausse déclaration de la densité des infirmières, téléchargement erroné du fichier complémentaire.
+[^54]: [The Lancet — Retraction Notice for Taiwan health care correspondence](<https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01096-7/fulltext?rss=yes>) — Explication du retrait : fausse déclaration du chiffre 58,2 %, fausse déclaration de la densité des infirmières, téléchargement erroné du fichier complémentaire.
 
 [^55]: [Focus Taiwan: China Medical University Hospital apologizes over Lancet retraction](https://focustaiwan.tw/society/202504270006) — L'Hôpital universitaire de la médecine chinoise a présenté des excuses publiques et demandé à The Lancet de publier une correction.
 

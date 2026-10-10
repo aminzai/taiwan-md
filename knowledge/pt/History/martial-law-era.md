@@ -144,7 +144,7 @@ Se em 2050 alguém quiser saber no que os taiwaneses de 1987 se importavam, talv
 - [Teresa Teng](/pt/people/teresa-teng) — Filha de família militar _waishengren_ que cresceu no período de lei marcial, vida inteira na linha de frente da Guerra Fria: de apresentações para tropas em Kinmen a 1989 em Happy Valley usando placa "oposição ao governo militar"
 - [Centro Nacional de Artes Cênicas](/pt/culture/national-theater-and-concert-hall) — Concluído em 1987, no mesmo ano do fim da lei marcial, nascido com vocabulário arquitetônico autoritário, testemunha em miniatura da democratização dos espaços culturais em Taiwan após o fim da lei marcial
 - [Yin Haiguang](/pt/people/yin-haiguang-liberalism-philosopher) — Mais representativo acadêmico liberal do período de lei marcial, 1960 colocado em prisão domiciliar após caso Lei Chen, 1966 _Perspectivas da Cultura Chinesa_ proibido
-- [Autoestradas](/lifestyle/高速公路) — Por que o preço das desapropriações na era autoritária "nem nomes deixava", a resposta está aqui: ao verificar as lendas de cinquenta anos das autoestradas nacionais de Taiwan, repetidamente se esbarra exatamente no vácuo institucional da era da lei marcial sem audiências públicas, sem contencioso administrativo
+- [Autoestradas](/pt/lifestyle/national-highway-system) — Por que o preço das desapropriações na era autoritária "nem nomes deixava", a resposta está aqui: ao verificar as lendas de cinquenta anos das autoestradas nacionais de Taiwan, repetidamente se esbarra exatamente no vácuo institucional da era da lei marcial sem audiências públicas, sem contencioso administrativo
 
 ---
 

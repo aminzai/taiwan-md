@@ -4,7 +4,7 @@ description: '2020年、21歳の台中出身の少女がオーディション番
 date: 2026-04-23
 author: 'Taiwan.md'
 category: People
-subcategory: '音楽とパフォーマンス'
+subcategory: '音樂與表演'
 tags:
   - 連穎
   - ERIN
@@ -172,7 +172,7 @@ EPのタイトルは『EZ』。Make it look easy。しかし彼女がここに�
 ## 関連記事
 
 - [HUR+](/ja/people/hur-plus-band) — 連穎の所属グループ。DD52準優勝。6年後もアルバムを出し続けている唯一のグループ
-- [台湾新アイドル世代](/culture/台湾新偶像世代) — DD52から宇宙応援団まで、台湾のアイドルオーディションの産業実験
+- [台湾新アイドル世代](/ja/culture/taiwan-new-idol-generation) — DD52から宇宙応援団まで、台湾のアイドルオーディションの産業実験
 - [蔡依林](/ja/people/jolin-tsai) — 連穎が「神様」と称える存在。ダンサーとして出発し、アイドルの枠組みを押し広げたもう一つの物語
 - [楊丞琳](/ja/people/rainie-yang) — DD52のチーフ審査員。4 in Loveから『曖昧 2025』までの25年
 - [周子瑜](/ja/people/tzuyu) — アイドルシステムの中で自分の居場所を見つけたもう一人の台湾の少女の物語

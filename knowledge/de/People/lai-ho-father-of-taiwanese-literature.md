@@ -3,7 +3,15 @@ title: 'Lai Ho: Der „Mazu von Changhua“ im Inselkleid und sein unverbiegsame
 description: 'Kurz vor dem Neujahrsabend 1943 verbrannte der berühmte Arzt Lai Ho aus Changhua wie jedes Jahr die Schuldenrechnungen seiner armen Patienten. Dieser als „Vater der neuen taiwanesischen Literatur“ gefeierte Arzt rettete unter dem Druck der Kolonialherrschaft mit dem Skalpell Menschen und kritisierte mit dem Stift das Unrecht; sein Werk „Ein Waagebalken“ (一桿「稱仔」) ist bis heute das kulturelle Symbol Taiwans im Widerstand gegen Gewalt der Macht.'
 date: 2026-04-28
 category: 'People'
-tags: ['Lai Ho', 'Taiwanesische Literatur', 'Changhua', 'Japanische Kolonialzeit', 'Medizingeschichte', 'Soziale Bewegung']
+tags:
+  [
+    'Lai Ho',
+    'Taiwanesische Literatur',
+    'Changhua',
+    'Japanische Kolonialzeit',
+    'Medizingeschichte',
+    'Soziale Bewegung',
+  ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -13,6 +21,7 @@ readingTime: 12
 translatedFrom: 'People/賴和.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:f3e40ac57d730cfc'
+sourceBodyHash: 'sha256:12da8a5e75f1d767'
 translatedAt: '2026-08-13T06:10:00+08:00'
 ---
 
@@ -52,13 +61,13 @@ Am Ende der Geschichte gehen die beiden Figuren getrennte Wege – ein Symbol f�
 
 Lai Ho, in traditioneller chinesischer Gelehrsamkeit erzogen, tastete sich unter moderner westlicher Medizinausbildung und kolonialem Sprachkontext stets zwischen der „taiwanesischen Sprachschrift“ und der chinesischen Bai-Hua-Sprache voran. Beim Schreiben dachte er zuerst auf Chinesisch und schrieb auf Mandarin, fügte dann bewusst Hokkien-Vokabeln wie „稱仔“ (Waagebalken), „贌“ (Pacht) und „刻虧“ (Wucher) ein, um sich der Alltagssprache und Lebenserfahrung der taiwanesischen Menschen anzunähern.[^14]
 
-| Wichtiges Werk                        | Veröffentlichung | Kernthema und historischer Bezug                       |
-| ------------------------------------- | ---------------- | ------------------------------------------------------ |
-| „Heißes Getümmel“ (鬥鬧熱)            | 01/1926          | Kritik an feudalen Bräuchen und Verschwendung, wahres Bild des Unterschichtenlebens |
-| „Ein Waagebalken“ (一桿「稱仔」)       | 02/1926          | Kritik der Rechtsgewalt, Echo auf das Erlin-Ereignis    |
-| „Herr Schlange“ (蛇先生)              | 01/1930          | Konflikt zwischen moderner Medizin und Volksglauben, Gesellschaftskritik |
-| „Elegie des Südens“ (南國哀歌)        | 04/1931          | Trauer um den Musha-Vorfall, wichtiges Protestgedicht der Kolonialzeit |
-| „Die Geschichte des Menschen, der gern klagte“ | 12/1934 | Satire auf die Ausbeutung des Volkes durch das koloniale Rechtsystem |
+| Wichtiges Werk                                 | Veröffentlichung | Kernthema und historischer Bezug                                                    |
+| ---------------------------------------------- | ---------------- | ----------------------------------------------------------------------------------- |
+| „Heißes Getümmel“ (鬥鬧熱)                     | 01/1926          | Kritik an feudalen Bräuchen und Verschwendung, wahres Bild des Unterschichtenlebens |
+| „Ein Waagebalken“ (一桿「稱仔」)               | 02/1926          | Kritik der Rechtsgewalt, Echo auf das Erlin-Ereignis                                |
+| „Herr Schlange“ (蛇先生)                       | 01/1930          | Konflikt zwischen moderner Medizin und Volksglauben, Gesellschaftskritik            |
+| „Elegie des Südens“ (南國哀歌)                 | 04/1931          | Trauer um den Musha-Vorfall, wichtiges Protestgedicht der Kolonialzeit              |
+| „Die Geschichte des Menschen, der gern klagte“ | 12/1934          | Satire auf die Ausbeutung des Volkes durch das koloniale Rechtsystem                |
 
 ### Das Nachhallen des Tapferen: das literarische Symbol in der Halle der Treuen
 
@@ -70,37 +79,36 @@ Nach dem Krieg wurde Lai Ho 1951 in den Tempel zu Ehren der Treuen aufgenommen, 
 
 ### Referenzen
 
-[^1]: [Lai Ho „Wir Menschen“, Taiwan Minbao 1925](https://zh.wikisource.org/zh-hant/Author:%E8%B3%B4%E5%92%8C) – frühes Gedicht mit dem Widerstandsbewusstsein „Die Welt lässt keine Macht zu, der Tapfere muss für die Gerechtigkeit kämpfen“.
+[^1]: [Lai Ho „Wir Menschen“, Taiwan Minbao 1925](https://zh.wikisource.org/zh-hant/Author:%E8%B3%B4%E5%92%8C) — Details in der verlinkten Originalquelle
 
-[^2]: [Lai Ho – Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E5%92%8C) – Grunddaten Leben 1894-1943, Abschluss der Medizinhochschule, Praktikum im Chiayi-Krankenhaus.
+[^2]: [Lai Ho – Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E5%92%8C) — Details in der verlinkten Originalquelle
 
-[^3]: [Taiwan Memory – Nationalbibliothek](https://tm.ncl.edu.tw/) + [Open Museum Lai-Ho-Archiv](https://openmuseum.tw/muse/digi_object/c1553216db10682602d4f7eb307f6917) – Arbeitsnachweis 1918 am Bo'ai-Krankenhaus auf Gulangyu, Xiamen.
+[^3]: [Taiwan Memory – Nationalbibliothek](https://tm.ncl.edu.tw/) — Details in der verlinkten Originalquelle [Open Museum 賴和典藏](https://openmuseum.tw/muse/digi_object/c1553216db10682602d4f7eb307f6917)
 
-[^4]: [Offizielle Website der Lai-Ho-Kultur- und Bildungsstiftung](https://www.laiho.org.tw/) – Dokumentation des Inselkleids als politische Erklärung.
+[^4]: [Offizielle Website der Lai-Ho-Kultur- und Bildungsstiftung](https://www.laiho.org.tw/) — Details in der verlinkten Originalquelle
 
-[^5]: [Lai-Ho-Stiftung: Mündliche Überlieferung zum Verbrennen der Schuldscheine](https://www.laiho.org.tw/) – „Mazu von Changhua“, „Xianzi He“, jährliches Verbrennen der Schuldscheine armer Patienten an Silvester.
+[^5]: [Lai-Ho-Stiftung: Mündliche Überlieferung zum Verbrennen der Schuldscheine](https://www.laiho.org.tw/) — Details in der verlinkten Originalquelle
 
-[^6]: [Lai-Ho-Stiftung: Nachbarschafts-Schutzhaus und soziale Fürsorge](https://www.laiho.org.tw/) – das Armenhaus neben der Praxis, Einladung alter Barden zur Mondzither, Aufzeichnung von Volksliedern wie dem „Lied von Xinyou“.
+[^6]: [Lai-Ho-Stiftung: Nachbarschafts-Schutzhaus und soziale Fürsorge](https://www.laiho.org.tw/) — Details in der verlinkten Originalquelle
 
-[^7]: [Digitales Literaturmuseum der taiwanesischen Zuckerindustrie: Erlin-Ereignis und „Opfer in der Erkenntnis“](https://jiayichinese.pixnet.net/blog/posts/8041877028) – das Erlin-Zuckerrohrbauern-Ereignis 1925 bewegte Lai zu seinem ersten neuen Gedicht.
+[^7]: [Digitales Literaturmuseum der taiwanesischen Zuckerindustrie: Erlin-Ereignis und „Opfer in der Erken…](https://jiayichinese.pixnet.net/blog/posts/8041877028) — Details in der verlinkten Originalquelle
 
-[^8]: [Ye Shitao „Grundriss der Geschichte der taiwanesischen Literatur“ (Qianwei Verlag, 1987)](https://search.worldcat.org/title/16894890) – erstes systematisches Werk zur taiwanesischen Literaturgeschichte, beschreibt „Ein Waagebalken“ als Vertreter der Kritik kolonialer Rechtsgewalt.
+[^8]: [Ye Shitao „Grundriss der Geschichte der taiwanesischen Literatur“ (Qianwei Verlag, 1987)](https://search.worldcat.org/title/16894890) — Details in der verlinkten Originalquelle
 
-[^9]: [Lai Ho, Nachwort zu „Ein Waagebalken“, 1926](https://zh.wikisource.org/zh-hant/%E4%B8%80%E6%A1%BF%E2%80%9C%E7%A8%B1%E4%BB%94%E2%80%9D) – La Ho beschreibt selbst die Inspiration von Anatole Frances „Crainquebille“.
+[^9]: [Lai Ho, Nachwort zu „Ein Waagebalken“, 1926](https://zh.wikisource.org/zh-hant/%E4%B8%80%E6%A1%BF%E2%80%9C%E7%A8%B1%E4%BB%94%E2%80%9D) — Details in der verlinkten Originalquelle
 
-[^10]: [„Elegie des Südens“ – Wikisource](https://zh.wikisource.org/zh-hant/%E5%8D%97%E5%9C%8B%E5%93%80%E6%AD%8C) – am 25.04. und 02.05.1931 in der „Taiwan Shinmin-Presse“ veröffentlicht, Trauer um den Musha-Vorfall als langes Gedicht.
+[^10]: [„Elegie des Südens“ – Wikisource](https://zh.wikisource.org/zh-hant/%E5%8D%97%E5%9C%8B%E5%93%80%E6%AD%8C) — Details in der verlinkten Originalquelle
 
-[^11]: [Lai Ho, Essay „Vorwärts“, Taiwan Minbao 1928](https://zh.wikisource.org/zh-hant/Author:%E8%B3%B4%E5%92%8C) – allegorische Schreibweise zur Sorge um die Spaltung der Kulturvereinigung, Ruf nach Einheit gegen innere Selbstzehrung.
+[^11]: [Lai Ho, Essay „Vorwärts“, Taiwan Minbao 1928](https://zh.wikisource.org/zh-hant/Author:%E8%B3%B4%E5%92%8C) — Details in der verlinkten Originalquelle
 
-[^12]: [Taiwan Soka Association: Lai Ho, Handelnder Humanist](https://www.twsgi.org.tw/index-author.php?author_id=129) – Lai-Ho-Literaturkritik-Rubrik: Details im Volltext des Originallinks.
+[^12]: [Taiwan Soka Association: Lai Ho, Handelnder Humanist](https://www.twsgi.org.tw/index-author.php?author_id=129) — Details in der verlinkten Originalquelle
 
-[^13]: [Ye Shitao „Grundriss der Geschichte der taiwanesischen Literatur“ – Nachwuchsförderung](https://search.worldcat.org/title/16894890) – Aufzeichnung der Förderung von Yang Kui / Wang Shilang / Lu He-ruo / Wu Zhuo-liu / Ye Shitao.
+[^13]: [Ye Shitao „Grundriss der Geschichte der taiwanesischen Literatur“ – Nachwuchsförderung](https://search.worldcat.org/title/16894890) — Details in der verlinkten Originalquelle
 
-[^14]: [Studien zur Sprachverwendung in Lai Hos Gesamtwerk – hrsg. Lin Rui-ming u.a.](https://www.laiho.org.tw/) – Erforschung der dreischichtigen Mischung aus Chinesisch + Mandarin + Hokkien in der „taiwanesischen Sprachschrift“.
+[^14]: [Studien zur Sprachverwendung in Lai Hos Gesamtwerk – hrsg. Lin Rui-ming u.a](https://www.laiho.org.tw/) — Details in der verlinkten Originalquelle
 
-[^15]: [Lin Rui-ming „Lai Ho und die neue taiwanesische Literaturbewegung“ (Qianwei Verlag)](https://search.worldcat.org/title/35884019) – klassisches Werk der Lai-Ho-Forschung, mit der Bescheidenheit des Testaments „nichts wert, ruhig verbrennen“.
+[^15]: [Lin Rui-ming „Lai Ho und die neue taiwanesische Literaturbewegung“ (Qianwei Verlag)](https://search.worldcat.org/title/35884019) — Details in der verlinkten Originalquelle
 
-[^16]: [Halle der Treuen (Taiwan) – Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%BF%A0%E7%83%88%E7%A5%A0_%28%E8%87%BA%E7%81%A3%29) – Lai Ho 1951 aufgenommen / 1958 aus politischen Gründen entfernt / 1984 rehabilitiert und erneut geehrt.
+[^16]: [Halle der Treuen (Taiwan) – Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%BF%A0%E7%83%88%E7%A5%A0_%28%E8%87%BA%E7%81%A3%29) — Details in der verlinkten Originalquelle
 
-[^17]: [Kulturbehörde des Landkreises Changhua: Bagua-Berg-Literaturpfad und Lai-Ho-Gedichtwand](https://www.bocach.gov.tw/) – hundert Stahlplatten mit Lai-Ho-Werken, jährlicher „Lai-Ho-Tag“.
-
+[^17]: [Kulturbehörde des Landkreises Changhua: Bagua-Berg-Literaturpfad und Lai-Ho-Gedichtwand](https://www.bocach.gov.tw/) — Details in der verlinkten Originalquelle

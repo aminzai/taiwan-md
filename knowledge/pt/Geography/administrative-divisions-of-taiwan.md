@@ -4,7 +4,7 @@ description: 'As divisões administrativas de Taiwan não são apenas linhas no 
 date: 2026-04-17
 author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: 'Cidades e geografia humana'
+subcategory: '城市與人文地理'
 tags:
   [
     'Divisões administrativas',

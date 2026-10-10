@@ -137,7 +137,7 @@ upstream_canonical:
 **🔴 四條反射特別強化**（v3.1 sad-shockley 升級 + v6.0 新增第 3 條 + v6.2 新增第 4 條）：
 
 1. **Title+desc spine sync 🥪** — 所有 category（不限 People）的 EVOLVE 在 Stage 2 寫完後**必須回看 frontmatter title + description**：
-   - 標題是否走「主題：副標 hook」冒號三明治？
+   - 標題是否走「主題：副標 hook」冒號三明治？（[EDITORIAL §三](../editorial/EDITORIAL.md) 美學層預設；不走的，研究報告寫一行 N/A 理由）
    - 副標一句是否能單獨 tweet 出去？
    - description 有沒有吃進這次 EVOLVE 加的新節核心矛盾？
    - 任一答 no → 重寫 frontmatter，跟 prose 同 commit
@@ -1148,7 +1148,7 @@ Stage 1 結束時 deliverable：
 
 ### Step 2.3: 開場 + 30 秒概覽
 
-開場是**一個具體的人在一個具體時刻做一件事**（孫元勳在樹上找到一個巢；石忠勝掃光積蓄湊 40 萬頭期款）。機關公布數字、名單、「先把座標擺好」都不是開場。前四段每段最多一個要讀者記住的數字，其餘進模組或腳註；口徑限定詞（本國籍全時受僱員工／稅前批售價這類）正文只用人話解釋一次，精確口徑收進腳註或一則策展人筆記。範本：〈黃魚鴞〉〈國宅與居住正義〉。反例與量測：[humanize-brief-2026-09-19](../../reports/staging/humanize-brief-2026-09-19.md)。
+開場預設是**一個具體的人在一個具體時刻做一件事**（孫元勳在樹上找到一個巢；石忠勝掃光積蓄湊 40 萬頭期款）。機關公布數字、名單、「先把座標擺好」都不是開場。這是 [EDITORIAL §三](../editorial/EDITORIAL.md) 五種開場裡的強預設，其他四種要用，研究報告寫一行理由（美學層 N/A 出口，v6.22）。前四段每段最多一個要讀者記住的數字，其餘進模組或腳註；口徑限定詞（本國籍全時受僱員工／稅前批售價這類）正文只用人話解釋一次，精確口徑收進腳註或一則策展人筆記。範本：〈黃魚鴞〉〈國宅與居住正義〉。反例與量測：[humanize-brief-2026-09-19](../../reports/staging/humanize-brief-2026-09-19.md)。
 
 30 秒概覽（blockquote 格式 `> **30 秒概覽：**`）放在 H1 之後、第一個 H2 之前。
 
@@ -1274,7 +1274,7 @@ agent 在研究報告中聲稱的「XXX 背書」「XXX 公開推薦」等名人
 
 > **特別強化**：所有 article（**含 EVOLVE focused section addition**）寫完 prose 後**必須回看 frontmatter title + description**，三題自檢：
 
-1. **冒號三明治測試** — title 是否走「主題：副標 hook」格式？單純名詞 stub（`台灣無人機產業` / `颱風` / `周杰倫`）= 百科風格，需升。對照 [EDITORIAL §Title 強制冒號三明治（所有 category）](../editorial/EDITORIAL.md#title-強制冒號三明治所有-categoryv63) v6.3 — 不限 People，全 category 強制
+1. **冒號三明治測試** — title 是否走「主題：副標 hook」格式？單純名詞 stub（`台灣無人機產業` / `颱風` / `周杰倫`）= 百科風格，需升。對照 [EDITORIAL §Title 冒號三明治（所有 category）](../editorial/EDITORIAL.md#title-冒號三明治所有-categoryv63-起v622-起為預設) — 不限 People；v6.22 起是美學層預設，不走的在研究報告寫一行 N/A 理由，席位審理由
 2. **副標獨立成立測試** — 冒號後一句能不能單獨 tweet 出去？讀者只看到副標也能停下來嗎？
 3. **EVOLVE spine sync 測試** — 這次 EVOLVE 加的新節核心矛盾，是否已寫進 description？舊 description 還適用嗎？description 沒吃進新核心 = SC 顯示舊 hook 但讀者點進來看到新內容 = 落差
 4. **文字感 + 負面/草率掃描** 🆕（v6.5）— 標題有沒有報導者腔的文字感（具體人/地/物 + 張力 + 留白）？有沒有踩中文語境紅線（網路輕佻「搞/爛/雷/翻車」、農場「震驚/竟然/真相是」、負面定調「崩壞/淪陷」、自貶 dismissive、過度賣弄）？一句判準：念給長輩聽像「認真報導」還是「網路八卦」？canonical + 18 範例 gallery 在 [EDITORIAL §Title 的文字感](../editorial/EDITORIAL.md#title-的文字感--對標報導者公視獨立媒體v65-新增2026-06-04)
@@ -1336,18 +1336,18 @@ grep -E "^## 圖片來源|^## 媒體授權|^## 圖片授權" knowledge/{Category
 - ⚠️ 爭議觀點
 - ✦ 結尾警句
 
-每 800-1200 字 ≥ 1 個富文本元素，幫助節奏 + 視覺呼吸。
+每 800-1200 字 ≥ 1 個富文本元素，幫助節奏 + 視覺呼吸。數量是 [EDITORIAL §十](../editorial/EDITORIAL.md) 的美學層預設（v6.22）：0 則策展人筆記可以，研究報告寫一行理由；上限看 EDITORIAL §四 密度規則。
 
 ### Stage 2 Hard gates（10 條）
 
 寫完 prose 不直接進 Stage 3，先驗：
 
 - [x] 結尾不是罐頭（per EDITORIAL §結尾的四種模式）
-- [x] 第一個名字是具體的人（前 30 行至少一個 named individual）
-- [x] ≥ 2 句真人引語（人物題材）
+- [x] 第一個名字是具體的人（前 30 行至少一個 named individual；美學層預設，N/A 要有理由）
+- [x] ≥ 2 句真人引語（人物題材；數量是預設，每句逐字與出處是事實層）
 - [x] 因果鏈完整（不是 list dump）
 - [x] 開場具體事實（年/月/日 + 人 + 動作）
-- [x] 富文本達標（每 800-1200 字 ≥ 1）
+- [x] 富文本達標（每 800-1200 字 ≥ 1；預設，0 則要有 N/A 理由）
 - [x] 挑戰編織在故事裡（不是脫離敘事的論述句）
 - [x] 純中文（無漏英文 paraphrase / 翻譯體）
 - [x] 7 自檢全跑（Step 2.7.1-2.7.7 全過）

@@ -16,7 +16,7 @@ tags:
     '海角七号',
     '金馬奨',
   ]
-subcategory: '映画'
+subcategory: '電影'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-13
@@ -31,6 +31,7 @@ relatedDiary: ['2026-06-13-183725-深度研究-台灣國片']
 translatedFrom: 'Art/台灣電影.md'
 sourceCommitSha: 'cc6f9d9b3'
 sourceContentHash: 'sha256:4eec1818bd85149d'
+sourceBodyHash: 'sha256:9c00635e5ed9da36'
 translatedAt: '2026-08-01T16:24:27.172825+00:00'
 ---
 
@@ -268,7 +269,7 @@ _『返校』4K予告編。白色テロを一本のゲームにし、さらに�
 
 だから次に、ニュースで「国産映画がまた死んだ」といった見出しを見かけたとき、あなたはおそらく思い出すだろう。この言葉、彼女たちはもう七十年も叫び続けているのだと。
 
-## 參考資料
+## 参考資料
 
 - 國家電影及視聽文化中心（TFAI）數位博物館與台灣影史教育網 — 台語片片目、健康寫實、政宣愛國片一手資料：[tfai.openmuseum.tw](https://tfai.openmuseum.tw/)、[edumovie-tfai.org.tw](https://edumovie-tfai.org.tw/)
 - 蘇致亨《毋甘願的電影史：臺語片的命運》— 台語片被政策性壓制、「黑白＝低俗」刻板印象如何被製造的關鍵論述

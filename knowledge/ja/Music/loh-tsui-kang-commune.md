@@ -15,7 +15,7 @@ tags:
     '友善的狗',
     '地下社会',
   ]
-subcategory: '独立音楽とロック'
+subcategory: '獨立與搖滾'
 category: Music
 readingTime: 10min
 lastVerified: 2026-04-27

@@ -4,7 +4,7 @@ description: 'Tujuh insinyur memulai usaha dengan 2 juta, membuat kepiting kecil
 date: 2026-03-20
 category: 'Economy'
 tags: ['Ekonomi', 'Perusahaan', 'Semikonduktor', 'Desain IC']
-subcategory: 'Profil Perusahaan'
+subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20
@@ -12,6 +12,7 @@ lastHumanReview: true
 translatedFrom: 'Economy/台灣企業：瑞昱半導體.md'
 sourceCommitSha: '18157ab5d'
 sourceContentHash: 'sha256:4a3e5b2147abfd30'
+sourceBodyHash: 'sha256:dec8acb87bfd42a2'
 translatedAt: '2026-08-10T03:52:05.370602+00:00'
 ---
 

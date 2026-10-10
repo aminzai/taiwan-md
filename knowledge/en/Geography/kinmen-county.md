@@ -195,7 +195,7 @@ Look at those waiting to board: Kinmen residents going to Xiamen for dental care
 
 ## Further Reading
 
-- [Lienchiang County](/geography/連江縣) — 22 Counties Series sibling, the other offshore county of Fujian Province. Same 1956 War-time Administration, 1992 abolition, 2001 Small Three Links, but speaks Eastern Min Fuzhou dialect, 50 km from Fuzhou, no land battle on the scale of Gu Ningtou; same system, different flesh and bones.
+- [Lienchiang County](/en/geography/lienchiang-county) — 22 Counties Series sibling, the other offshore county of Fujian Province. Same 1956 War-time Administration, 1992 abolition, 2001 Small Three Links, but speaks Eastern Min Fuzhou dialect, 50 km from Fuzhou, no land battle on the scale of Gu Ningtou; same system, different flesh and bones.
 - [Keelung City](/en/geography/keelung-city) — 22 Counties Series pilot, the only deep-water port in the north vs. Kinmen’s southern coastal defense fortress; two timelines of Taiwan’s ports.
 - [Penghu County](/en/geography/penghu-county) — The third county in the 22 Counties Series offshore group. Like Kinmen, an offshore county but with Japanese colonial history; can be compared to Kinmen’s difference of never being directly administered under Japanese rule.
 - [Zheng Chenggong](/en/people/koxinga) — Raised troops in Kinmen in 1646 to "Anti-Qing, Restore Ming"; this person’s decision to start from Kinmen later changed Taiwan.
@@ -205,7 +205,7 @@ Look at those waiting to board: Kinmen residents going to Xiamen for dental care
 - [Taiwan National Defense and Military Modernization](/en/society/taiwan-defense-modernization) — The evolution of Kinmen’s military garrison from 50,000-100,000 today to less than 10,000, compared with the overall Nationalist Army modernization trajectory.
 - [Taiwan Island Geography Characteristics and Formation](/en/geography/geography-and-geology) — Comparison of Kinmen’s granite geology with the formation mechanisms of other Taiwan islands.
 - [Legends of Mazu and Da Dao Gong](/en/culture/mazu-dadaogong-legend) — Kinmen’s Southern Min faith shares the same root as the Taiwan main island; differs from Mazu Tianhou Palace’s spiritual cave legend in Matsu.
-- [Matsu International Art Island](/art/馬祖國際藝術島) — Lienchiang County’s case of turning war-time tunnels and military tea rooms into a ten-year curation plan; Kinmen’s war-time transformation follows a different path. Compare how two front-line islands handle the same heritage.
+- [Matsu International Art Island](/en/art/matsu-biennial) — Lienchiang County’s case of turning war-time tunnels and military tea rooms into a ten-year curation plan; Kinmen’s war-time transformation follows a different path. Compare how two front-line islands handle the same heritage.
 
 ## Image Sources
 

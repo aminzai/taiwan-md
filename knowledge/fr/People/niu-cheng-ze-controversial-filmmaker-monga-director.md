@@ -3,14 +3,14 @@ title: 'Doze Niu : le cinéaste entre génie et controverse'
 description: "Réalisateur de Monga et Paradise in Service, Doze Niu a traversé une trajectoire remarquable — de l'enfant star au metteur en scène reconnu — avant d'être rattrapé par des accusations d'agression sexuelle en 2018."
 date: 2026-03-19
 tags: ['Doze Niu', 'cinéma', 'réalisateur', 'acteur', 'Monga', 'controverse']
-subcategory: 'Cinéma et arts dramatiques'
+subcategory: '電影與戲劇'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 10
 featured: false
 translatedFrom: 'People/鈕承澤.md'
 lastVerified: 2026-03-19
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:03252333a42bc60e'
 sourceBodyHash: 'sha256:decf157a216cec86'
 translatedAt: '2026-05-17T06:15:00Z'

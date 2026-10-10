@@ -178,7 +178,7 @@ Kebenaran mungkin berada di antara keduanya. Dan Han Kuo-yu sendiri, mungkin, ad
 - [Lu Hsiu-yen](/id/people/lu-hsiu-yan) — Ekstrem lain dari "gelombang Han" 2018, bersama Han Kuo-yu, mengubah langit biru di Taichung pada tahun yang sama
 - [Xu Qixian](/id/people/hsu-chiao-hsin) — Pada 2026, pihak yang mendorong pengadaan senjata senilai 80 miliar yuan, salah satu pihak penting dalam perundingan yang dilakukan oleh Han Kuo-yu sebagai Ketua DPR
 - [Ji Lin-lian](/id/people/ji-lin-lian) — Pada 29 April 2026, wakil ketua partai mengumumkan "harus mengeluarkan anggota partai karena mengorbankan partai demi kebanggaan", dan orang yang benar-benar terkena dampaknya adalah Han Kuo-yu
-- [Ceng Boren](/people/曾博恩) — Pada Desember 2019, Han Kuo-yu tampil di "Boren Night Show" musim ketiga, satu-satunya permintaan adalah "jangan mengejekkan gaya rambutnya", Ceng menyebutnya sebagai "orang asing yang paling dikenal"
+- [Ceng Boren](/id/people/bernard-tseng) — Pada Desember 2019, Han Kuo-yu tampil di "Boren Night Show" musim ketiga, satu-satunya permintaan adalah "jangan mengejekkan gaya rambutnya", Ceng menyebutnya sebagai "orang asing yang paling dikenal"
 
 ## Referensi
 

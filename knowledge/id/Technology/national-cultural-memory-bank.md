@@ -3,8 +3,16 @@ title: 'Bank Memori Budaya Nasional: Kurasi Ingatan dan Ko-kreasi Budaya di Era 
 description: 'Bank Memori Budaya Nasional bukan sekadar platform arsip digital, melainkan sebuah rekayasa sosial yang berpacu dengan waktu — melalui lisensi terbuka dan ko-kreasi, ingatan rakyat biasa Taiwan dihidupkan kembali di era digital.'
 date: 2026-04-29
 category: 'Technology'
-tags: ['Bank Memori Budaya Nasional', 'arsip digital', 'ko-kreasi budaya', 'ingatan Taiwan', 'hak cipta', 'budaya rakyat']
-subcategory: 'Digital dan Internet'
+tags:
+  [
+    'Bank Memori Budaya Nasional',
+    'arsip digital',
+    'ko-kreasi budaya',
+    'ingatan Taiwan',
+    'hak cipta',
+    'budaya rakyat',
+  ]
+subcategory: '數位與網路'
 author: 'idlccp1984'
 featured: false
 lastVerified: 2026-04-29
@@ -13,6 +21,7 @@ readingTime: 12
 translatedFrom: 'Technology/國家文化記憶庫.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:6f90dbf2e1df699d'
+sourceBodyHash: 'sha256:f903cddb5dedf5bd'
 translatedAt: '2026-09-06T05:16:23+08:00'
 ---
 

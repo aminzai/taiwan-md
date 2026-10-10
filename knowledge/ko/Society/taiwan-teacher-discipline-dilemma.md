@@ -12,7 +12,7 @@ tags:
   - 교원노동조합
   - 학교 생활지도
 category: 'Society'
-subcategory: '교육'
+subcategory: '教育'
 author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 12

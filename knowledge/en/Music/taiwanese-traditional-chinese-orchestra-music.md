@@ -8,7 +8,7 @@ tags:
   - 'Taipei Chinese Orchestra'
   - 'ethnomusicology'
   - 'cultural fusion'
-subcategory: 'Traditional Music'
+subcategory: '傳統音樂'
 author: 'Taiwan.md Contributors'
 readingTime: 15
 featured: false

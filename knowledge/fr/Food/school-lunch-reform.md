@@ -230,7 +230,7 @@ Du lait écrémé et des soupes du midi de l'ère américaine aux cuisines centr
 
 [^19]: [Comment est préparé le curry fluorescent à la taïwanaise ? — Storm Media](https://www.storm.mg/lifestyle/3048048) — Explique la composition principale du curry fluorescent : curcuma et fécule de pomme de terre.
 
-[^20]: [Le curry des boîtes à repas : jaune fluorescent — EBC News](https://news.ebc.net.tw/news/living/357150) — Confirme que la teinte vient du curcuma et de l'épaississement à la fécule.
+[^20]: [Le curry des boîtes à repas : jaune fluorescent — EBC News](https://news.ebc.net/news/living/357150) — Confirme que la teinte vient du curcuma et de l'épaississement à la fécule.
 
 [^21]: [Politique de repas gratuits dans les 17 comtés et villes — Hakka News](https://hakkanews.tw/2026/01/09/253060/) — Rapporte l'état d'avancement de la politique de gratuité dans différentes collectivités début 2026.
 
@@ -272,7 +272,7 @@ Du lait écrémé et des soupes du midi de l'ère américaine aux cuisines centr
 
 [^台北畫刊-捍衛食安]: [Défendre la sécurité alimentaire — Taipei Tourism](https://www.travel.taipei/zh-tw/featured/details/16881) — Évoque l'impact des crises alimentaires successives sur les cantines.
 
-[^客新聞-宜蘭食安]: [Mise en garde de Taiwan Statebuilding Party sur la politique de gratuité sans filet — Facebook](https://www.facebook.com/Statebuilding.tw/photos/%E6%98%A8%E5%A4%A9%E5%8F%B0%E7%81%A3%E5%89%8D%E9%80%B2%E9%99%A3%E7%B7%9A%E5%8F%AC%E9%96%8B%E8%A8%98%E8%80%85%E6%9C%83%E8%AD%A6%E7%A4%BA%E6%B2%92%E6%9C%89%E9%85%8D%E5%A5%97%E7%9A%84%E5%85%8D%E8%B2%BB%E7%87%9F%E9%A4%8A%E5%8D%88%E9%A4%90%E6%94%BF%E7%AD%96%E5%8F%B0%E7%81%A3%E5%9F%BA%E9%80%B2%E5%8F%B0%E5%8C%97%E9%BB%A8%E9%83%A8%E4%B8%BB%E5%A7%94%E5%90%B3%E6%AC%A3%E5%B2%B3%E6%8F%90%E5%88%B0%E4%BA%86%E5%AE%9C%E8%98%AD%E7%9A%84%E6%85%98%E7%97%9B%E7%B6%93%E9%A9%97%E5%AE%9C%E8%98%AD%E7%B8%A3%E8%87%AA-2021-%E5%B9%B4%E6%8E%A8%E5%8B%95%E5%85%8D%E8%B2%BB%E7%87%9F%E9%A4%90%E5%BE%8C%E7%9F%AD%E7%9F%AD%E6%99%82%E9%96%93%E5%85%A7%E6%8E%A5%E9%80%A3%E7%88%86%E7%99%BC/1444406303912203/) — Évoque les incidents de sécurité alimentaire dans le comté de Yilan après la mise en place de la gratuité.
+[^客新聞-宜蘭食安]: [Mise en garde de Taiwan Statebuilding Party sur la politique de gratuité sans filet — Facebook](https://www.facebook.com/Statebuilding.tw/photos/%E6%98%A8%E5%A4%A9%E5%8F%B0%E7%81%A3%E5%89%8D%E9%80%B2%E9%99%A3%E7%B7%9A%E5%8F%AC%E9%96%8B%E8%A8%98%E8%80%85%E6%9C%83%E8%AD%A6%E7%A4%BA%E6%B2%92%E6%9C%89%E9%85%8D%E5%A5%97%E7%9A%84%E5%85%8D%E8%B2%BB%E7%87%9F%E9%A4%8A%E5%8D%88%E9%A4%90%E6%94%BF%E7%AD%96%E5%8F%B0%E7%81%A3%E5%9F%BA%E9%80%B2%E5%8F%B0%E5%8C%97%E9%BB%A8%E9%83%A8%E4%B8%BB%E5%A7%94%E5%90%B3%E6%AC%A3%E5%B2%B3%E6%8F%90%E5%88%B0%E4%BA%86%E5%AE%9C%E8%98%AD%E7%9A%84%E6%85%98%E7%97%9B%E7%B6%93%E9%A9%97%E5%AE%9C%E8%98%AD%E7%B8%A3%E8%87%AA-2021-%E5%B9%B4%E6%8E%A8%E5%8B%95%E5%85%8D%E8%B2%BB%E7%87%9F%E9%A4%8A%E5%8D%88%E9%A4%90%E5%BE%8C%E7%9F%AD%E7%9F%AD%E6%99%82%E9%96%93%E5%85%A7%E6%8E%A5%E9%80%A3%E7%88%86%E7%99%BC/1444406303912203/) — Évoque les incidents de sécurité alimentaire dans le comté de Yilan après la mise en place de la gratuité.
 
 [^商周-供應商過期食材]: [Des fournisseurs livrent des ingrédients périmés et fraudent les subventions — Business Weekly](https://www.businesstoday.com.tw/article/category/183027/post/202305260007/) — Rapporte des affaires de fraude dans la restauration scolaire.
 

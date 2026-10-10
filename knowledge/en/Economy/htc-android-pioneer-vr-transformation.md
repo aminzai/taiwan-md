@@ -141,7 +141,7 @@ In this era full of uncertainty, HTC's story tells us: as long as we maintain ou
 
 ## Further Reading
 
-- [Taiwan Tech Stories: 100-Point Chip, 60-Point Microphone](/en/technology/taiwan-tech-stories) — Why Quietly Brilliant Lost to Opponents Who Know How to Tell Stories, HTC's Lessons Written into an Entire Article
+- [Taiwan Tech Stories: 100-Point Chip, 60-Point Microphone](/en/technology/taiwan-tech-storytelling) — Why Quietly Brilliant Lost to Opponents Who Know How to Tell Stories, HTC's Lessons Written into an Entire Article
 
 ## References
 

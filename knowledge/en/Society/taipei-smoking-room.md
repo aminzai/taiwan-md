@@ -20,6 +20,15 @@ readingTime: 17
 lastVerified: 2026-07-13
 lastHumanReview: false
 featured: false
+sporeLinks:
+  - id: 155
+    platform: 'threads'
+    date: '2026-07-14'
+    url: 'https://www.threads.com/@taiwandotmd/post/DaxYe4Sk52Q'
+  - id: 156
+    platform: 'x'
+    date: '2026-07-14'
+    url: 'https://x.com/taiwandotmd/status/2076992601543327976'
 translatedFrom: 'Society/台北吸菸室.md'
 sourceCommitSha: '1929e495'
 sourceContentHash: 'sha256:38028701b07f0fef'
@@ -240,7 +249,7 @@ This article uses 6 images, all cached at `public/article-images/society/` to av
 
 [^10]: [Key Commentary Network: Why did the Taiwan Provincial Tobacco and Wine Monopoly Bureau end its 40‑year monopoly?](https://www.thenewslens.com/article/188943) — Records the two dates: WTO accession January 1 2002, Monopoly reorganization July 1 2002 into Taiwan Tobacco and Liquor Corporation.
 
-[^11]: [Confluence News: Tobacco and Liquor Corp. stops purchasing tobacco leaves, Taiwan tobacco‑leaf farming enters history](https://cnews.com.tw/%E8%8F%B8%E9%85%92%E5%85%AC%E5%8F%B83%E6%9C%88%E5%81%9C%E6%AD%A2%E6%94%B6%E8%B3%BC-%E5%8F%B0%E7%81%A3%E8%8F%B8%E8%91%89%E7%A8%AE%E6%A4%8E%E8%B5%B0%E5%85%A5%E6%AD%B7%E5%8F%B9/) — 2016 tobacco‑farmer agreement, Jan‑Mar 2017 final harvest and curing of tobacco leaves.
+[^11]: [Confluence News: Tobacco and Liquor Corp. stops purchasing tobacco leaves, Taiwan tobacco‑leaf farming enters history](https://cnews.com.tw/%E8%8F%B8%E9%85%92%E5%85%AC%E5%8F%B83%E6%9C%88%E5%81%9C%E6%AD%A2%E6%94%B6%E8%B3%BC-%E5%8F%B0%E7%81%A3%E8%8F%B8%E8%91%89%E7%A8%AE%E6%A4%8D%E8%B5%B0%E5%85%A5%E6%AD%B7%E5%8F%B2/) — 2016 tobacco‑farmer agreement, Jan‑Mar 2017 final harvest and curing of tobacco leaves.
 
 [^12]: [Health Promotion Administration: National Adult Smoking Behavior Survey Results](https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=1718&pid=9913) — Primary statistics: adult smoking rate 21.9 % (2008) → 12.8 % (2024), down 41.6 %; indoor public‑place secondhand smoke 27.8 % → 3.2 %; outdoor non‑ban secondhand smoke 36.2 % → 58.5 % → 48.9 %.
 

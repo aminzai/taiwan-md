@@ -13,7 +13,7 @@ tags:
     'xuất bản',
     'phương tiện và báo chí',
   ]
-subcategory: 'phương tiện và báo chí'
+subcategory: '媒體與新聞'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-04
@@ -192,12 +192,12 @@ Lần sau nhìn thấy ở kệ cửa hàng tiện lợi, ở dòng tin chạy t
 
 **Đọc mở rộng**:
 
-- [Người báo đạo](/society/報導者) — Cùng căn cứ báo đạo sâu của phương tiện tin tức Đài Loan, nhưng đi con đường không lợi nhuận, không quảng cáo, dựa vào bạn xa lạ tài trợ con đường ngược lại; và chi trả tường tận, mô hình kinh tế hình khác trực tiếp Thiên Hạ thành hình tương phản
-- [Mầm khoa học](/society/泛科學) — Cũng mọc ra 2010 kỷ niệm hạn Đài Loan phương tiện tin tức mới, dùng cấp phát khoa học và dịch vụ tri thức duy trì không gian thảo luận công cộng mô hình kinh doanh khác
-- [Công khai Nhìn](/society/公視) — Đường đi khác phương tiện tin tức công khai Đài Loan, dùng ngân sách công cộng thay cho cơ cấu thị trường xử lý "phương tiện tin tức nên chịu trách nhiệm ai" cùng lưỡng nan
-- [Phương tiện tin tức Đài Loan với Tự do báo chí](/society/台灣媒體與新聞自由) — Sự kiện gỡ viết Thiên Hạ, xếp hạng tin tưởng, chiến tranh tin tức PRC, toàn bộ nằm sâu trong bối cảnh tự do báo chí tổng thể Đài Loan
-- [Đài Loan Trước 50 Doanh nghiệp lớn](/economy/台灣前50大企業) — Xếp hạng "Thiên Hạ Hai ngàn" "50 Nhóm tập đoàn lớn" định nghĩa doanh nghiệp đó chính là chủ nhân chính sau bảng xếp hạng
-- [Doanh nghiệp Đài Loan: Tập đoàn Tế Căn](/economy/台灣企業：台積電) — Doanh nghiệp xếp hạng cao ngành doanh nghiệp mẫu mực Thiên Hạ, 50 Nhóm tập đoàn lớn suốt năm, cũng là một trong những nhà tài trợ quan trọng nhất quỹ giáo dục của nó
+- [Người báo đạo](/vi/society/the-reporter-investigative-journalism) — Cùng căn cứ báo đạo sâu của phương tiện tin tức Đài Loan, nhưng đi con đường không lợi nhuận, không quảng cáo, dựa vào bạn xa lạ tài trợ con đường ngược lại; và chi trả tường tận, mô hình kinh tế hình khác trực tiếp Thiên Hạ thành hình tương phản
+- [Mầm khoa học](/vi/society/pansci) — Cũng mọc ra 2010 kỷ niệm hạn Đài Loan phương tiện tin tức mới, dùng cấp phát khoa học và dịch vụ tri thức duy trì không gian thảo luận công cộng mô hình kinh doanh khác
+- [Công khai Nhìn](/vi/society/pts-public-television-service) — Đường đi khác phương tiện tin tức công khai Đài Loan, dùng ngân sách công cộng thay cho cơ cấu thị trường xử lý "phương tiện tin tức nên chịu trách nhiệm ai" cùng lưỡng nan
+- [Phương tiện tin tức Đài Loan với Tự do báo chí](/vi/society/media-and-press-freedom-in-taiwan) — Sự kiện gỡ viết Thiên Hạ, xếp hạng tin tưởng, chiến tranh tin tức PRC, toàn bộ nằm sâu trong bối cảnh tự do báo chí tổng thể Đài Loan
+- [Đài Loan Trước 50 Doanh nghiệp lớn](/vi/economy/top-50-companies-taiwan) — Xếp hạng "Thiên Hạ Hai ngàn" "50 Nhóm tập đoàn lớn" định nghĩa doanh nghiệp đó chính là chủ nhân chính sau bảng xếp hạng
+- [Doanh nghiệp Đài Loan: Tập đoàn Tế Căn](/vi/economy/tsmc) — Doanh nghiệp xếp hạng cao ngành doanh nghiệp mẫu mực Thiên Hạ, 50 Nhóm tập đoàn lớn suốt năm, cũng là một trong những nhà tài trợ quan trọng nhất quỹ giáo dục của nó
 
 ## Nguồn ảnh
 

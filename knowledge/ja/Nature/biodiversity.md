@@ -4,7 +4,7 @@ description: '台湾の面積は世界のわずか0.025%ながら、5万種以�
 date: 2026-03-21
 category: 'Nature'
 tags: ['生物多様性', '固有種', '生物保全', '生態系', '環境保護']
-subcategory: '生態系'
+subcategory: '生態系統'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-21

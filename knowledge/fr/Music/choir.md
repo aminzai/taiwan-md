@@ -192,7 +192,7 @@ De la graine plantée par Lü Quansheng en 1957 à l'écosystème complet établ
 
 [^32]: [L'école comme point de départ de la revitalisation locale : histoire de collaboration communautaire entre l'université de Pingtung et l'école primaire de Siantan, canton de Xinpi](https://usr.nptu.edu.tw/p/404-1144-147831.php?Lang=zh-tw) — Voir les détails dans le lien original
 
-[^33]: [« Rendre les enfants fiers de leur région natale et leur faire développer un attachement au lieu » — depuis Pingtung](https://www.teach4taiwan.org/%E3%80%8C%E8%AE%93%E5%AD%A9%E5%AD%90%E4%BB%A5%E5%AE%B6%E9%84%89%E7%82%BA%E6%A6%AE%EF%BC%8C%E5%B0%8F%E5%9C%B0%E6%96%B9%E7%94%A2%E7%94%9F%E4%BE%9D%E6%88%80%E3%80%8D%E5%BE%9E%E5%B1%8F%E6%9D%B1%E5%87%BA/) — Voir les détails dans le lien original
+[^33]: [« Rendre les enfants fiers de leur région natale et leur faire développer un attachement au lieu » — depuis Pingtung](https://www.teach4taiwan.org/%E3%80%8C%E8%AE%93%E5%AD%A9%E5%AD%90%E4%BB%A5%E5%AE%B6%E9%84%89%E7%82%BA%E6%A6%AE%EF%BC%8C%E5%B0%8D%E5%9C%B0%E6%96%B9%E7%94%A2%E7%94%9F%E4%BE%9D%E6%88%80%E3%80%8D%E5%BE%9E%E5%B1%8F%E6%9D%B1%E5%87%BA/) — Voir les détails dans le lien original
 
 [^34]: [Une chorale d'enfants taïwanaise d'une école primaire rurale s'envole pour la Malaisie pour chanter pour des familles et des enfants vulnérables](https://www.worldvision.org.tw/articles/198) — Voir les détails dans le lien original
 

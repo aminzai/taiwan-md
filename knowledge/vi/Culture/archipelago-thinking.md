@@ -232,11 +232,11 @@ Lần sau có ai hỏi bạn "Đài Loan thực sự thuộc về đâu", bạn 
 
 ## Tài liệu mở rộng
 
-- [Quan điểm lịch sử đảo Đài Loan: Một hòn đảo bị cai trị lặp đi lặp lại, làm cách nào để phát minh cho mình một chủ thể](/history/quan-diem-lich-su-dao-dai-loan) — Phương pháp lịch sử đảo của Tào Vĩnh Hòa, cung cấp nền tảng nghiên cứu lịch sử đảo cho "tư duy hải đảo"
-- [Nghệ thuật đương đại của người bản địa Đài Loan](/art/nghe-thuat-tuo-dai-dan-toc-ban-dia-dai-loan) — Người bản địa Nam Đảo như một "vật chất sống liên tục hải đảo", thực hành nghệ thuật đương đại
-- [Truyền thống âm nhạc bản địa Đài Loan](/music/truyen-thong-am-nhac-ban-dia-dai-loan) — Tính liên quan cao giữa âm nhạc truyền thống của 16 dân tộc và âm nhạc dân tộc Đại Dương, hỗ trợ lý thuyết gốc Nam Đảo
-- [Lịch sử thương mại biển Đài Loan](/history/lich-su-thuong-mai-bien-dai-loan) — Từ gốm Bắc Nam đến thời đại khám phá vĩ đại, kết nối biển của Đài Loan
-- [Bản đồ địa lý văn hóa 16 dân tộc bản địa Đài Loan](/culture/ban-do-dia-li-van-hoa-16-dan-toc-ban-dia-dai-loan) — Hệ thống 16 ngôn ngữ dân tộc và tương ứng chín chi nhánh chính của ngôn ngữ Nam Đảo
+- [Quan điểm lịch sử đảo Đài Loan: Một hòn đảo bị cai trị lặp đi lặp lại, làm cách nào để phát minh cho mình một chủ thể](/vi/history/taiwan-island-historiography) — Phương pháp lịch sử đảo của Tào Vĩnh Hòa, cung cấp nền tảng nghiên cứu lịch sử đảo cho "tư duy hải đảo"
+- [Nghệ thuật đương đại của người bản địa Đài Loan](/vi/art/contemporary-indigenous-art-taiwan) — Người bản địa Nam Đảo như một "vật chất sống liên tục hải đảo", thực hành nghệ thuật đương đại
+- [Truyền thống âm nhạc bản địa Đài Loan](/vi/music/indigenous-music-traditions) — Tính liên quan cao giữa âm nhạc truyền thống của 16 dân tộc và âm nhạc dân tộc Đại Dương, hỗ trợ lý thuyết gốc Nam Đảo
+- [Lịch sử thương mại biển Đài Loan](/vi/history/taiwan-maritime-trade-history) — Từ gốm Bắc Nam đến thời đại khám phá vĩ đại, kết nối biển của Đài Loan
+- [Bản đồ địa lý văn hóa 16 dân tộc bản địa Đài Loan](/vi/culture/indigenous-peoples-16-tribes-cultural-map) — Hệ thống 16 ngôn ngữ dân tộc và tương ứng chín chi nhánh chính của ngôn ngữ Nam Đảo
 
 ![Trụ đá hình lưỡi liềm ở Công viên di chỉ Bắc Nam, biểu tượng của nền văn hóa Bắc Nam (từ 5.300-2.300 năm trước). Di chỉ Bắc Nam đã khai quật hơn 5.000 chiếc vòng tai bằng ngọc, một số vật phẩm này sau này được các nhà khảo cổ học khai quật ở các di chỉ tiền sử ở Philippines, Việt Nam, Thái Lan.](/article-images/culture/beinan-stone-pillar.webp)
 

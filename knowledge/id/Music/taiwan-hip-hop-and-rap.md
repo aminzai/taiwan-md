@@ -35,6 +35,7 @@ relatedDiary: ['2026-06-09-010031-嘻哈饒舌-round2']
 translatedFrom: 'Music/台灣嘻哈與饒舌發展.md'
 sourceCommitSha: '3d2adaeb8'
 sourceContentHash: 'sha256:d3459042301dfb22'
+sourceBodyHash: 'sha256:49c1a63539596208'
 translatedAt: '2026-09-20T05:25:57.166101+00:00'
 ---
 
@@ -221,7 +222,7 @@ _Miss Ko (Ge Zhongshan), Festival CMJ di New York pada tahun 2013. Ia adalah pen
 
 Titik ledakan yang sesungguhnya terjadi pada awal tahun 2025. Pemicunya adalah lagu _Ai Ni Zhen De Mei Ban Fa_ (義義), yang dirilis pada November 2024 dan menjadi viral di Douyin sebelum dikritik karena anti-perempuan. Pada tanggal 22 Januari 2025, RapShark (nama asli Zhang Bohan, dari Tainan, tahun 2000, lulusan Black Music Universitas National Cheng Kung) merilis _[Rechao Laji](https://www.youtube.com/watch?v=wyjDlPigQ50)_ sebagai _diss_, menjadikannya rapper perempuan pertama yang menyerang secara langsung[^45].
 
-Kemudian, seseorang yang awalnya tidak ada hubungannya dengan perang dalam lingkaran ini angkat bicara: [Hai Te](/people/壞特) (te?, nama asli Lin Zhiyi). Dia sebenarnya bukan seorang rapper; dia adalah penyanyi _lo-fi R&B_ kreatif yang kuliah selama sembilan tahun di Akademi Kedokteran Pertahanan dan memenangkan Grand Prix Musik Ke-32 sebagai pendatang baru terbaik. Justru karena hal itu, ia mengkritik lagu-lagu tersebut di Threads karena "penuh budaya maskulin tradisional," membuatnya sangat mencolok dalam aturan tak tertulis hip-hop yang tidak saling menyerang, dan segera menjadi sasaran serangan massal[^46]. Setelah diserang, dia tidak mundur; di Threads, dia menjelaskan lebih lanjut: "Saya tahu saya melakukan hal yang benar, apa yang saya lakukan juga mewakili nilai inti dari hip-hop."[^47]
+Kemudian, seseorang yang awalnya tidak ada hubungannya dengan perang dalam lingkaran ini angkat bicara: [Hai Te](/id/people/huai-te-indie-singer) (te?, nama asli Lin Zhiyi). Dia sebenarnya bukan seorang rapper; dia adalah penyanyi _lo-fi R&B_ kreatif yang kuliah selama sembilan tahun di Akademi Kedokteran Pertahanan dan memenangkan Grand Prix Musik Ke-32 sebagai pendatang baru terbaik. Justru karena hal itu, ia mengkritik lagu-lagu tersebut di Threads karena "penuh budaya maskulin tradisional," membuatnya sangat mencolok dalam aturan tak tertulis hip-hop yang tidak saling menyerang, dan segera menjadi sasaran serangan massal[^46]. Setelah diserang, dia tidak mundur; di Threads, dia menjelaskan lebih lanjut: "Saya tahu saya melakukan hal yang benar, apa yang saya lakukan juga mewakili nilai inti dari hip-hop."[^47]
 
 Medan perang meledak pada tanggal 12 Februari 2025 oleh sebuah lagu. Yang Shuyah (lahir tahun 1999, lulusan Fakultas Politik Universitas Nasional Taiwan, klub Hip-hop, pernah menjadi guru sekolah dasar di Hualien) merilis _[Rule Nan Freestyle](https://www.youtube.com/watch?v=MHHHWAyq8qM)_, dan baris "Real bukan selimut malu bagi anti-perempuan" secara langsung mengguncang meja[^48]. Lagu tanpa sumber daya label ini melonjak menjadi juara real-time di StreetVoice dalam waktu kurang dari dua puluh empat jam, dengan penayangan YouTube mendekati seratus ribu, bahkan dikomentari oleh kritikus musik Ma Shihfang dan penulis Huang Liqun[^49]. Seorang perempuan yang berasal dari klub kampus dan tidak memiliki perusahaan, menembus lingkaran musik dan dunia sastra hanya dengan satu lagu: fakta ini sendiri adalah bukti paling kuat dari "pintu masuk akademis" hip-hop Taiwan.
 
@@ -261,7 +262,7 @@ Nada empat Mandarin, tujuh nada Taiwan, bahasa suku asli: Taiwan mengubah kelema
 **Bacaan Lanjutan**:
 
 - [Chen Hsien-ching](/id/music/hsien-ching-chen) — Berasal dari musik gelap di Universitas Cheng Kung, "menjawab" puisi Xia Yu melalui rap; baru meraih penghargaan pendatang baru Golden Melody pada tahun kedelapan berkarya
-- [Musik Pop Taiwan](/music/台灣流行音樂) — Dari Na Caxi hingga Jay Chou, bagaimana sebuah pulau menyanyikan lagunya sendiri
+- [Musik Pop Taiwan](/id/music/golden-melodies-legacy-taiwan-pop-music) — Dari Na Caxi hingga Jay Chou, bagaimana sebuah pulau menyanyikan lagunya sendiri
 - [Evolusi Lagu Dialek Taiwan](/id/music/taiwanese-hokkien-song-evolution) — Dari 《Wang Chun Feng》 ke gerakan bahasa Mandarin Taiwan baru, bagaimana satu bahasa kembali ke arus utama
 - [Penyanyi Suku Asli Kontemporer](/id/music/contemporary-indigenous-singer-songwriters) — Bagaimana suara suku asli didengar, dari panggung Golden Melody hingga revitalisasi bahasa suku
 - [Adegan Musik Independen Taiwan](/id/music/indie-music-scene) — Perang jangka panjang di bawah tanah, _livehouse_, dan demi kebebasan

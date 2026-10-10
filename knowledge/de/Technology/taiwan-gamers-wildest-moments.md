@@ -143,11 +143,11 @@ Dieser Wagen ist längst abgefahren. Aber diejenigen, die ihn jagten, erinnern s
 
 ## Weiterführende Lektüre
 
-- [Taiwanesische Spieleindustrie und digitale Unterhaltung](/technology/台灣遊戲產業與數位娛樂) — Ein Überblick über die taiwanesische Gaming-Geschichte: vom Vertrieb zur Originalkreation
-- [Convenience Store Kultur in Taiwan](/lifestyle/台灣便利商店文化) — Die Voraussetzung für die Lieferwagenjagd: weltweit zweithöchste Dichte an Convenience Stores
-- [Migrationsgeschichte der taiwanesischen Online-Communitys](/technology/台灣網路社群遷徙史) — Die Infrastruktur der Nachrichtenverbreitung hinter diesen Manien
-- [Daiyu Shuangjian](/technology/大宇雙劍) — Eine emotionale Erziehung der taiwanesischen Spieler einer früheren Generation
-- [Nicht in den Keller gehen, um zu schlafen](/technology/不入地窖焉能睡覺) — Die Bühnen der sozialen Medien hinter diesen Manien
+- [Taiwanesische Spieleindustrie und digitale Unterhaltung](/de/technology/taiwan-gaming-industry) — Ein Überblick über die taiwanesische Gaming-Geschichte: vom Vertrieb zur Originalkreation
+- [Convenience Store Kultur in Taiwan](/de/lifestyle/convenience-store-culture) — Die Voraussetzung für die Lieferwagenjagd: weltweit zweithöchste Dichte an Convenience Stores
+- [Migrationsgeschichte der taiwanesischen Online-Communitys](/de/technology/taiwan-online-community-migration) — Die Infrastruktur der Nachrichtenverbreitung hinter diesen Manien
+- [Daiyu Shuangjian](/de/technology/softstar-twin-classics) — Eine emotionale Erziehung der taiwanesischen Spieler einer früheren Generation
+- [Nicht in den Keller gehen, um zu schlafen](/de/technology/into-the-cellar-taiwan-game-podcast) — Die Bühnen der sozialen Medien hinter diesen Manien
 
 ---
 

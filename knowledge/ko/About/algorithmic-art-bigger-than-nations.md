@@ -38,6 +38,7 @@ evolveHistory:
 translatedFrom: 'About/比國家還大的演算藝術.md'
 sourceCommitSha: '383229c78'
 sourceContentHash: 'sha256:5bb8aa1310e6a60e'
+sourceBodyHash: 'sha256:9644f2433efde351'
 translatedAt: '2026-09-23T20:08:01.710846+00:00'
 ---
 

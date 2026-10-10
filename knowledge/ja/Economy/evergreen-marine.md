@@ -4,14 +4,14 @@ description: '15年船齢の中古貨物船から出発し、17年後に世界�
 date: 2026-03-24
 category: 'Economy'
 tags: ['経済', '企業', '海運業', '物流', '国際貿易']
-subcategory: '企業列伝'
+subcategory: '企業列傳'
 author: 'Taiwan.md'
 readingTime: 9
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
 translatedFrom: Economy/台灣企業：長榮海運.md
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:8bed402beaecae31'
 sourceBodyHash: 'sha256:97f9ec5722ee27b9'
 translatedAt: '2026-05-17T06:35:00Z'

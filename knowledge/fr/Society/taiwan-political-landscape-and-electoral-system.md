@@ -22,6 +22,7 @@ lastHumanReview: false
 translatedFrom: Society/台灣政治環境與選舉制度.md
 sourceCommitSha: 886779d83
 sourceContentHash: sha256:1b46bb67f21432e0
+sourceBodyHash: 'sha256:688a69633785627a'
 translatedAt: '2026-09-26T11:10:12+08:00'
 ---
 

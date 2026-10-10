@@ -11,7 +11,7 @@ tags:
     'Демократизация',
     'Гражданское движение',
   ]
-subcategory: 'Демократия и политика'
+subcategory: '民主與政治'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23

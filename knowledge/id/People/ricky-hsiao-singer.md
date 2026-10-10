@@ -11,7 +11,7 @@ tags:
     'Atlet Judo',
     'Joke tentang Neraka',
   ]
-subcategory: 'Musik dan Pertunjukan'
+subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-19
@@ -91,7 +91,7 @@ Catatan Kurator: "Joke tentang neraka" Ricky Hsiao adalah progres besar dalam bu
 
 [^7]: [Ricky Hsiao "Pemenang Golden Melody" di Games Usia Emas](https://www.gvm.com.tw/article/47846) — Berita Mingguan 2025, Ricky Hsiao dengan usia 48 tahun kembali ke arena untuk memenangkan hadai Pamerin judo
 
-[^8]: [Daftar Pemenang Golden Melody Penyanyi Laki-laki Taiwan](https://zh.wikipedia.org/zh-tw/%E6%9C%80%E4%BD%B3%E5%8F%B0%E8%AA%9E%E7%94%B7%E6%AD%8C%E6%89%8B%E7%8D%8E_%28%E9%87%91%E6%9B%9C%E7%8D%8E%29) — Wikipedia Golden Melody pemenang penyanyi laki-laki Taiwan
+[^8]: [Daftar Pemenang Golden Melody Penyanyi Laki-laki Taiwan](https://zh.wikipedia.org/zh-tw/%E6%9C%80%E4%BD%B3%E5%8F%B0%E8%AA%9E%E7%94%B7%E6%AD%8C%E6%89%8B%E7%8D%8E_%28%E9%87%91%E6%9B%B2%E7%8D%8E%29) — Wikipedia Golden Melody pemenang penyanyi laki-laki Taiwan
 
 [^9]: [Saya Melihat Warna Nota — Cerita Ricky Hsiao yang Buta Menjadi Musisi](https://www.crown.com.tw/view.aspx?bc=401014) — Jaringan Baca Musik, laporan mendalam tentang perjalanan Ricky Hsiao melewati butaan ke dunia musik
 

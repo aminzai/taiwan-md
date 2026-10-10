@@ -72,8 +72,8 @@ Keberadaan diam-diam Falun Gong di Taiwan itu sendiri adalah perlawanan bisu pal
 
 **Baca Lanjutan**
 
-- [Tuan Tongzhan (統戰團)](/society/統戰團) — Dari wisata murah ke trafik influencer, logika pertarungan kognitif dan taktik baru lama operasi garis depan persatuan Tiongkok terhadap Taiwan.
-- [Operasi Kognitif (認知作戰)](/society/認知作戰) — Kerangka sistematis operasi kognitif dan mekanisme respons Taiwan, dari analisis akademis ke praktik konkret pendidikan kewarganegaraan.
+- [Tuan Tongzhan (統戰團)](/id/society/united-front-tour-groups) — Dari wisata murah ke trafik influencer, logika pertarungan kognitif dan taktik baru lama operasi garis depan persatuan Tiongkok terhadap Taiwan.
+- [Operasi Kognitif (認知作戰)](/id/society/cognitive-warfare-against-taiwan) — Kerangka sistematis operasi kognitif dan mekanisme respons Taiwan, dari analisis akademis ke praktik konkret pendidikan kewarganegaraan.
 
 ## Referensi
 

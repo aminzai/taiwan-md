@@ -162,7 +162,7 @@ Dos imágenes de licencia libre se han incluido en el proyecto: el plato lacado 
 
 - [Artesanía tradicional de Taiwán y patrimonio cultural inmaterial](/es/culture/traditional-crafts-intangible-cultural-heritage) — La posición de las artes de la lacca en el sistema de preservación de la artesanía tradicional de Taiwán.
 - [Tejido floral de Taiwán](/es/culture/taiwan-floral-fabric) — Otro caso de transformación desde patrones importados, producción industrial hasta identidad local.
-- [Industria de la sal de Taiwán](/history/台灣鹽業) — Otra historia de materiales de Taiwán desde los recursos naturales, la industrialización hasta la preservación cultural.
+- [Industria de la sal de Taiwán](/es/history/taiwan-salt-industry) — Otra historia de materiales de Taiwán desde los recursos naturales, la industrialización hasta la preservación cultural.
 
 ## Referencias
 

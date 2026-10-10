@@ -59,7 +59,7 @@ Ao colocar os _dramas_ das 20h de Taiwan em uma perspectiva internacional, eles 
 
 **Leitura Complementar**:
 
-- [Prêmio Golden Bell](/culture/金鐘獎) — Na época de 《星星知我心》 e 《包青天», os vencedores do prêmio de televisão nunca saíram da TAI, CTS ou CTV
+- [Prêmio Golden Bell](/pt/culture/golden-bell-awards) — Na época de 《星星知我心》 e 《包青天», os vencedores do prêmio de televisão nunca saíram da TAI, CTS ou CTV
 
 ## Fontes de referência
 

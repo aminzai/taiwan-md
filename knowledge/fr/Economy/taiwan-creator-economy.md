@@ -11,7 +11,7 @@ tags:
     "l'Disney de l'Orient",
     'art taïwanais',
   ]
-subcategory: 'Industries culturelles'
+subcategory: '文化產業'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-24
@@ -19,7 +19,7 @@ lastHumanReview: false
 difficulty: 'intermediate'
 readingTime: 10
 translatedFrom: 'Economy/台灣動畫代工.md'
-sourceCommitSha: 'ce7f10f8'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:d3d2ec17aaf8187a'
 sourceBodyHash: 'sha256:187c229025183e4b'
 translatedAt: '2026-05-09T14:31:09Z'

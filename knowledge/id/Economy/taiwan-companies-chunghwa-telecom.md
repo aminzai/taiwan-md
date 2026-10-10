@@ -11,7 +11,7 @@ tags:
     'Transformasi Digital',
     'Privatisasi BUMN',
   ]
-subcategory: 'Profil Perusahaan'
+subcategory: '企業列傳'
 author: 'Taiwan.md'
 readingTime: 8
 featured: false
@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：中華電信.md'
 sourceCommitSha: '4a4d66620'
 sourceContentHash: 'sha256:e3105e3b0d7b10f4'
+sourceBodyHash: 'sha256:85923df8ecf92741'
 translatedAt: '2026-08-04T06:41:13.019021+00:00'
 ---
 
@@ -165,7 +166,7 @@ Kisah Chunghwa Telecom adalah cerminan tiga puluh tahun industri telekomunikasi 
 
 **Bacaan Lanjutan**:
 
-- [Taiwan Bea Cukai dan EZ WAY](/lifestyle/台灣海關報關制度與EZWAY) — Contoh lain tata kelola saham publik di mana pemerintah memegang saham di bawah 50%, tetapi operasi aktual diserahkan ke swasta: Kementerian Keuangan memegang 36,11% saham Jaringan Dagang Bea
+- [Taiwan Bea Cukai dan EZ WAY](/id/lifestyle/ezway) — Contoh lain tata kelola saham publik di mana pemerintah memegang saham di bawah 50%, tetapi operasi aktual diserahkan ke swasta: Kementerian Keuangan memegang 36,11% saham Jaringan Dagang Bea
 
 ## Referensi
 

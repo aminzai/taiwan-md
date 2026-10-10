@@ -218,7 +218,7 @@ Tháng 5 năm 2026, một cái thông báo tràn rộng trên mạng xã hội: 
 
 Đi về phía nam, nội dung của thời đoạn này hoàn toàn thay đổi. Sáng sớm của người Đài Nam là sữa đậu nước muối nước đỏ, cháo cá bống, cơm thịt nạc, mì rau cải, không có huyết thống với dây bánh trứng sữa đậu. Cửa hàng sữa đậu nước muối đỏ hầu hết đóng cửa thứ hai, thứ ba, vì thứ hai tối đến thứ ba sáng không giết bò. Quán mở cửa năm giờ sáng sớm trái ngược, vì vậy nó cũng là một bữa sáng[^tainan]. Ngày nghỉ của một cửa hàng được quyết định bởi lịch hành sự của lò sát sinh, đây là một bộ logic hoàn toàn độc lập khác, chạy trên cùng một thời đoạn với tấm nướng Đài Bắc.
 
-Ngoài tấm nướng còn một tầng: chị em nhớ con ai bị bệnh, ai nhà hôm qua cãi nhau, con phố nào thay người láng giềng. Tầng đó ở trong〈[Chị Em Quán Bữa Sáng Với Mạng Thông Tin Cộng Đồng](/society/早餐店阿姨與社區情報網)〉. Hai mét trước tấm nướng, chỉ có những cái này: một câu "như thường lệ", một chia tổng hợp không thêm mayo, một ly sữa đậu đặc đôi đã được niêm chứng.
+Ngoài tấm nướng còn một tầng: chị em nhớ con ai bị bệnh, ai nhà hôm qua cãi nhau, con phố nào thay người láng giềng. Tầng đó ở trong〈[Chị Em Quán Bữa Sáng Với Mạng Thông Tin Cộng Đồng](/vi/society/breakfast-shops-and-community-intelligence-network)〉. Hai mét trước tấm nướng, chỉ có những cái này: một câu "như thường lệ", một chia tổng hợp không thêm mayo, một ly sữa đậu đặc đôi đã được niêm chứng.
 
 Giữ không được cách làm, giữ không được biển hiệu, giữ không được giấc ngủ. Giữ được chính là "tôi nhớ bạn không muốn dưa chuột", và chuyện này đúng không cần sở hữu.
 
@@ -247,12 +247,12 @@ Lại để lại, là vẫn còn người giữ nhiệt độ cái nồi sữa 
 
 **Mở Rộng Đọc**:
 
-- [Lịch Sử Thôn Quân Đài Loan](/history/台灣眷村歷史) — Thứ tự từ bánh nướng mặn quẩy, 1949 năm sau bánh mì phương Bắc làm sao hạ cánh Đài Loan
-- [Bánh Tẻ](/food/飯糰) — Từ bánh tẻ Giang Chiết đến sự tiến hóa nội dung bánh tẻ quán bữa sáng Đài Loan, tiểu sử hoàn toàn một cái bánh tẻ
-- [Đồ Ăn Nhỏ Đài Loan](/food/台灣小吃) — Kinh tế chợ chiếm chỗ làm sao Đài Loan ẩm thực hàng ngày, bữa sáng chỉ là một thời đoạn
-- [Văn Hóa Nước Uống Tay Lắc Đài Loan](/food/台灣手搖飲文化) — Nửa người thân khác của sữa đậu đặc đôi, giống như là ai cũng mở được quán ngành công nghiệp
-- [Tổng Quan Ẩm Thực Đài Loan](/food/台灣美食總覽) — Từ bữa sáng ra bên ngoài đi, cả bộ bản đồ ẩm thực Đài Loan
-- [Chị Em Quán Bữa Sáng Với Mạng Thông Tin Cộng Đồng](/society/早餐店阿姨與社區情報網) — Tầng ngoài tấm nướng, một quán làm sao trở thành nút thắt một con phố
+- [Lịch Sử Thôn Quân Đài Loan](/vi/history/taiwan-military-dependents-villages-history) — Thứ tự từ bánh nướng mặn quẩy, 1949 năm sau bánh mì phương Bắc làm sao hạ cánh Đài Loan
+- [Bánh Tẻ](/vi/food/rice-ball) — Từ bánh tẻ Giang Chiết đến sự tiến hóa nội dung bánh tẻ quán bữa sáng Đài Loan, tiểu sử hoàn toàn một cái bánh tẻ
+- [Đồ Ăn Nhỏ Đài Loan](/vi/food/taiwanese-street-food) — Kinh tế chợ chiếm chỗ làm sao Đài Loan ẩm thực hàng ngày, bữa sáng chỉ là một thời đoạn
+- [Văn Hóa Nước Uống Tay Lắc Đài Loan](/vi/food/hand-shaken-drink-culture) — Nửa người thân khác của sữa đậu đặc đôi, giống như là ai cũng mở được quán ngành công nghiệp
+- [Tổng Quan Ẩm Thực Đài Loan](/vi/food/taiwan-food-overview) — Từ bữa sáng ra bên ngoài đi, cả bộ bản đồ ẩm thực Đài Loan
+- [Chị Em Quán Bữa Sáng Với Mạng Thông Tin Cộng Đồng](/vi/society/breakfast-shops-and-community-intelligence-network) — Tầng ngoài tấm nướng, một quán làm sao trở thành nút thắt một con phố
 
 ## Nguồn Hình Ảnh
 

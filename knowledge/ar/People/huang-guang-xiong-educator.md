@@ -4,7 +4,7 @@ description: 'في عام 1996، انتقل هوانغ غوانغ شيونغ م�
 date: 2026-04-25
 author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: 'التعليم والمجتمع'
+subcategory: '教育與社會'
 tags:
   - 'التربية'
   - 'نظرية المناهج'

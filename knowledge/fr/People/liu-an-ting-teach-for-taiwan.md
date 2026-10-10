@@ -15,7 +15,7 @@ tags:
     'fondation Lin Ye Sheng',
   ]
 category: 'People'
-subcategory: 'Éducation et société'
+subcategory: '教育與社會'
 author: 'Taiwan.md'
 readingTime: 14
 featured: true

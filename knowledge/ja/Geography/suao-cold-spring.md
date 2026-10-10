@@ -105,7 +105,7 @@ _2022年の蘇澳冷泉公園入口。Photo: Taiwankengo, Wikimedia Commons, [CC
 
 ## 補足資料
 
-- [台湾の温泉地質](/geography/台灣溫泉地景)：プレート運動、温泉の種類から公共浴場まで、蘇澳冷泉が存在する島全体の地熱的文脈を理解してください。
+- [台湾の温泉地質](/ja/geography/taiwan-hot-springs-landscape)：プレート運動、温泉の種類から公共浴場まで、蘇澳冷泉が存在する島全体の地熱的文脈を理解してください。
 - [蘇澳冷泉公園：宜蘭県政府名所ページ](https://travel.yilan.gov.tw/zh-tw/attraction/1/)：現在の公共設備、開館時間、入水に関する注意事項を確認してください。
 
 ## 画像の出所

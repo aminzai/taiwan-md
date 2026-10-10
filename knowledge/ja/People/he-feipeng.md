@@ -7,7 +7,7 @@ tags: ['城邦メディア', '出版業', 'デジタルトランスフォーメ�
 lastVerified: 2026-03-26
 lastHumanReview: false
 translatedFrom: 'People/何飛鵬.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:c6c5b08befa8584a'
 sourceBodyHash: 'sha256:65be42b8cac6c9ca'
 translatedAt: '2026-05-16T22:19:52+00:00'

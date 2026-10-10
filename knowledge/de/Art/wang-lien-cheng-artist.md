@@ -132,7 +132,7 @@ Von den 23 synchronen Buchmaschinen in Linz im September 2017 bis zu den selbsts
 
 - **[Wang Xinzhen („Ali“)](/de/art/wang-hsin-jen-artist)** — Mitglied des Berg-Mile-Projekts, erster taiwanesischer Künstler bei Art Blocks, mehrfach in Zusammenarbeit mit Wang Lien-Cheng
 - **[FAB DAO und das Berg-Mile-Projekt](/de/art/fab-dao)** — Vollständiger Kontext des sechs-künstlerischen gemeinnützigen NFT-Projekts, in dem Wang Lien-Cheng tätig ist
-- **[Taiwanesische Neue Medien Kunst](/art/台灣新媒體藝術)** — Vollständige Systematik der taiwanesischen neuen Medien Kunst von 40 Jahren, von Huang Xinjian bis Wang Lien-Cheng
+- **[Taiwanesische Neue Medien Kunst](/de/art/taiwan-new-media-art)** — Vollständige Systematik der taiwanesischen neuen Medien Kunst von 40 Jahren, von Huang Xinjian bis Wang Lien-Cheng
 
 ## Quellen
 

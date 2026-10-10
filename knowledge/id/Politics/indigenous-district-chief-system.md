@@ -251,7 +251,7 @@ Ini berjalan selama dua belas tahun. 2026 adalah awal dari empat tahun berikutny
 - [Hub Politik](/politics) — Pusat Pengetahuan Pilihan Politik Taiwan.md
 - [Pemilihan Lokal Gabungan 2026](/politics/2026 九合一選舉) — Sistem Lengkap dan Jadwal
 - [Apa itu Pemilihan Gabungan Sembilan](/id/politics/nine-in-one-elections-explained) — Diseksi "Gabungan Sembilan" Sembilan Jabatan
-- [Sistem Kepala Kelurahan](/politics/村里長制度) — 7.748 Pemimpin Terpilih, Unit Politik Paling Dasar
+- [Sistem Kepala Kelurahan](/id/politics/village-chief-system) — 7.748 Pemimpin Terpilih, Unit Politik Paling Dasar
 - [Sistem Anggota Dewan](/id/politics/city-councilor-system-taiwan) — Kekuatan dan Operasi Hukum Anggota Dewan Kota Besar dan Anggota Dewan Kabupaten/Kota
 - [Sistem Komisi Pemilihan Pusat](/id/politics/central-election-commission) — Desain Sistem Administrasi Pemilihan
 - [Demokratisasi](/id/history/taiwan-democratization-history) — Perjalanan Taiwan dari Otoritarian ke Demokrasi

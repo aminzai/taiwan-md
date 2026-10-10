@@ -4,7 +4,7 @@ description: '国華街と海安路の地下には、清代「五条港」の河
 date: 2026-06-30
 author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '定番小吃'
+subcategory: '經典小吃'
 tags: ['台南', '小吃', '五条港', '中西区', '牛肉湯', 'シメット', 'サナ意麺']
 readingTime: 8
 lastVerified: 2026-06-30
@@ -111,10 +111,10 @@ translatedAt: '2026-07-25T12:45:15+08:00'
 - [五条港（台南）— Wikipedia](<https://zh.wikipedia.org/zh-tw/%E4%BA%94%E6%A2%9D%E6%B8%AF_(%E8%87%BA%E5%8D%97)>)
 - [歩く台南史：シメットは養殖場を豊かにし、府城の人の朝と胃を満たした — 關鍵評論網](https://www.thenewslens.com/article/131368)
 - [台南のブリのスープ、シメットは17世紀の欧州からの輸入品に由来する可能性がある — 中央社](https://www.cna.com.tw/news/acul/202403060184.aspx)
-- [台南牛肉湯の起源とコツ](https://storycircle571.com/2024/12/17/%E5%88%B0%E5%8F%B0%E5%8D%97%EF%BC%8C%E4%B8%80%E5%AE%9E%E8%A6%81%E4%BE%86%E7%A2%97%E7%89%9B%E8%82%89%E6%B9%AF%EF%BC%81%E5%8F%B0%E5%8D%97%E7%89%9B%E8%82%89%E6%B9%AF%E7%9A%84%E7%B7%A3%E8%B5%B7%E3%80%81)
+- [台南牛肉湯の起源とコツ](https://storycircle571.com/2024/12/17/%E5%88%B0%E5%8F%B0%E5%8D%97%EF%BC%8C%E4%B8%80%E5%AE%9A%E8%A6%81%E4%BE%86%E7%A2%97%E7%89%9B%E8%82%89%E6%B9%AF%EF%BC%81%E5%8F%B0%E5%8D%97%E7%89%9B%E8%82%89%E6%B9%AF%E7%9A%84%E7%B7%A3%E8%B5%B7%E3%80%81/)
 - [サナ意麺 — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5)
 - [炒サナは真の誠意と言えるか？— 独立評論＠天下](https://opinion.cw.com.tw/blog/profile/194/article/8595)
-- [食記台南。老舗サナ意麺●沙卡里バのサナ廖 — BoboTravel](https://bobotravel.tw/blog/post/153578723-%E9%A3%9F%E8%A8%98%E5%8F%B0%E5%8D%97%E3%80%82%E8%80%81%E7%89%8C%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5%E2%97%8F%E6%B2%99%E5%8D%A1%E9%87%8C%E5%B7%B4%E9%B1%94%E9%AD%9A%E5%8B%96)
+- [食記台南。老舗サナ意麺●沙卡里バのサナ廖 — BoboTravel](https://bobotravel.tw/blog/post/153578723-%E9%A3%9F%E8%A8%98%E5%8F%B0%E5%8D%97%E3%80%82%E8%80%81%E7%89%8C%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5%E2%97%8F%E6%B2%99%E5%8D%A1%E9%87%8C%E5%B7%B4%E9%B1%94%E9%AD%9A%E5%BB%96)
 - [清領台南五条港の面影消える 古跡老街が河港文化を継承 — 中央社](https://www.cna.com.tw/news/acul/202501260043.aspx)
 - [台南牛肉湯文化と地図](https://mytainan.com/tainan-food-drink/tainan-beef-soup/)
 - [約70年続く台南の深夜豚心冬粉！並ぶ覚悟をしましょう — ETtoday 旅行雲](https://travel.ettoday.net/article/2931941.htm)

@@ -149,9 +149,9 @@ Er antwortet nicht.
 
 ## Weiterführende Literatur
 
-- [Taiwans Spielindustrie und digitale Unterhaltung](/technology/台灣遊戲產業與數位娛樂) — Vom Vertrieb zur Eigenkreation: Taiwans Spielpanorama
-- [Nachtleben und KTV-Kultur](/lifestyle/夜生活與KTV文化) — Ein weiteres soziales Ritual der Taiwaner
-- [Taiwans Convenience-Store-Kultur](/lifestyle/台灣便利商店文化) — 24-Stunden-Bereitschaft: Taiwans tägliche Grundinfrastruktur
+- [Taiwans Spielindustrie und digitale Unterhaltung](/de/technology/taiwan-gaming-industry) — Vom Vertrieb zur Eigenkreation: Taiwans Spielpanorama
+- [Nachtleben und KTV-Kultur](/de/lifestyle/nightlife-and-ktv-culture) — Ein weiteres soziales Ritual der Taiwaner
+- [Taiwans Convenience-Store-Kultur](/de/lifestyle/convenience-store-culture) — 24-Stunden-Bereitschaft: Taiwans tägliche Grundinfrastruktur
 
 ---
 

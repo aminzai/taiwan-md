@@ -31,6 +31,15 @@ readingTime: 24
 lastVerified: 2026-06-21
 lastHumanReview: true
 featured: false
+sporeLinks:
+  - id: 31
+    platform: 'threads'
+    date: '2026-04-18'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXQph5okwOu'
+  - id: 32
+    platform: 'x'
+    date: '2026-04-18'
+    url: 'https://x.com/taiwandotmd/status/2045363785347612934'
 translatedFrom: 'People/Cicada.md'
 sourceCommitSha: '21298a7a'
 sourceContentHash: 'sha256:3d1c97835c5d9ea3'

@@ -108,6 +108,6 @@ Die digitale Ära bringt jedoch auch neue Chancen: Streaming-Plattformen ermögl
 
 [^6]: [Golden Melody Award 18th Time... Lin Sheng-xiang wirft eine Bombe... lehnt Preise gemeinsam ab | Liberty Entertainment](https://ent.ltn.com.tw/news/paper/136087) — Details zur Preisablehnung von Lin Sheng-xiang beim Golden Melody Award (2007) und die Spende des Preispotenzials.
 
-[^7]: [Bester Hakka-Album-Preis (Golden Melody Award) – Wikipedia](<https://zh.wikipedia.org/zh-tw/最佳客語專輯獎_(金曲獎)>) — Bestätigung, dass Luo Si-rong mit _Blumen sammeln_ den Preis für Bester Hakka-Sänger und Bester Hakka-Album beim 23. Golden Melody Award gewann.
+[^7]: [Bester Hakka-Album-Preis (Golden Melody Award) – Wikipedia](https://zh.wikipedia.org/zh-tw/最佳客語專輯獎_\(金曲獎\) — Bestätigung, dass Luo Si-rong mit _Blumen sammeln_ den Preis für Bester Hakka-Sänger und Bester Hakka-Album beim 23. Golden Melody Award gewann.
 
 [^8]: [Offizielle Website von Hakka Television](https://www.hakkatv.org.tw/) — Bestätigung des Starts im Jahr 2003 als weltweit erster 24-Stunden-Kanal in Hakka.

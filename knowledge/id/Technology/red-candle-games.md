@@ -107,9 +107,9 @@ Devotion (還願) tetap tidak di Steam. Tetapi Red Candle masih di sini.
 ## Bacaan Lebih Lanjut
 
 - [Industri Permainan Taiwan dan Hiburan Digital](/id/technology/taiwan-gaming-industry) — Panorama lengkap permainan Taiwan dari pendistribusian hingga kreasi asli
-- [Pedang Ganda Da Yu](/technology/大宇雙劍) — Era sebelumnya Red Candle, titik awal permainan Taiwan menceritakan kisah dalam bahasa Cina
+- [Pedang Ganda Da Yu](/id/technology/softstar-twin-classics) — Era sebelumnya Red Candle, titik awal permainan Taiwan menceritakan kisah dalam bahasa Cina
 - [Saat Gila Pemain Taiwan](/id/technology/taiwan-gamers-wildest-moments) — Aspek lain dari perilaku kolektif pemain Taiwan
-- [Rayon Games](/technology/雷亞遊戲) — Tim indie Taiwan dari periode yang sama, setelah insiden ICE Morse Code 2020 memilih jalur yang berlawanan dengan Red Candle: memberhentikan karyawan, mempertahankan pasar Tiongkok
+- [Rayon Games](/id/technology/rayark-games) — Tim indie Taiwan dari periode yang sama, setelah insiden ICE Morse Code 2020 memilih jalur yang berlawanan dengan Red Candle: memberhentikan karyawan, mempertahankan pasar Tiongkok
 
 ---
 

@@ -4,7 +4,7 @@ description: "In 2014, the son of a Kinmen snack shop owner walked the London Gr
 date: 2026-06-07
 author: 'Taiwan.md'
 category: 'People'
-subcategory: 'Culture and Creation'
+subcategory: '文化與創作'
 tags:
   [
     'Writer',
@@ -20,6 +20,15 @@ lastVerified: 2026-06-07
 lastHumanReview: false
 featured: true
 imageLicense: 'Fair use editorial commentary'
+sporeLinks:
+  - id: 128
+    platform: 'threads'
+    date: '2026-06-07'
+    url: 'https://www.threads.com/@taiwandotmd/post/DZSRQKnk3Vm'
+  - id: 129
+    platform: 'x'
+    date: '2026-06-07'
+    url: 'https://x.com/taiwandotmd/status/2063604185912987689'
 translatedFrom: 'People/黃山料.md'
 sourceCommitSha: '00939ce59'
 sourceContentHash: 'sha256:0b1bdd0cdf3b8705'
@@ -198,7 +207,7 @@ That cabinet of "Kinmen 1969" no one looked at, so it disappeared; that "one-lin
 - [Chiang Chen-cheng](/en/people/andre-chiang-taiwanese-culinary-innovator) — Established coordinates for Taiwanese chefs on the international stage, another destiny on the path of "doing things well"
 - [Chang Chih-chi](/en/people/shasha77-chang-chih-chi) — Another "information curator" who makes complexity readable and seeks resonance in the attention era
 - [Jimmy Liao](/en/people/jimmy-liao) — From an advertising company background, turning into an internationally bestselling healing creator, another form of being seen
-- [Audrey Tang](/people/唐鳳) — How Taiwan treats a person difficult to categorize, another mirror
+- [Audrey Tang](/en/people/audrey-tang) — How Taiwan treats a person difficult to categorize, another mirror
 
 ## Image Sources
 

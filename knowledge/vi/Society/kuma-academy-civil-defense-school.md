@@ -178,10 +178,10 @@ Quay lại cánh cỏ dưới mưa nhỏ. Nhân viên văn phòng cầm tourniqu
 
 **Bài mở rộng**:
 
-- [Thẩm Bá Dương](/people/沈伯洋) — Đồng sáng lập Học viện Gấu Đen và Chủ tịch Danh dự, nghiên cứu chiến tranh nhận thức Trung Quốc Cộng sản, sau lại bị Trung Quốc "phạm tội chia cắt quốc gia" khởi tố
-- [Chiến tranh Nhận thức](/society/認知作戰) — Toàn cảnh chiến tranh thông tin Trung Quốc Cộng sản đối với Đài Loan, bối cảnh đầy đủ của một mô-đun trong khóa cơ bản Học viện Gấu Đen
-- [Quốc phòng Đài Loan và Hiện đại hoá Quân sự](/society/台灣國防與軍事現代化) — Quan hệ bổ sung giữa dân phòng và toàn dân quốc phòng, một cách hiểu khác "dân phòng không phải toàn dân quốc phòng"
-- [Nhìn Không Thấy Quốc Gia](/art/看不見的國家) — Phim tài liệu dùng người Đài Loan lên khóa dân phòng kết cuối, chính là bản video của khóa học Học viện Gấu Đen này
+- [Thẩm Bá Dương](/vi/people/puma-shen) — Đồng sáng lập Học viện Gấu Đen và Chủ tịch Danh dự, nghiên cứu chiến tranh nhận thức Trung Quốc Cộng sản, sau lại bị Trung Quốc "phạm tội chia cắt quốc gia" khởi tố
+- [Chiến tranh Nhận thức](/vi/society/cognitive-warfare-against-taiwan) — Toàn cảnh chiến tranh thông tin Trung Quốc Cộng sản đối với Đài Loan, bối cảnh đầy đủ của một mô-đun trong khóa cơ bản Học viện Gấu Đen
+- [Quốc phòng Đài Loan và Hiện đại hoá Quân sự](/vi/society/taiwan-defense-modernization) — Quan hệ bổ sung giữa dân phòng và toàn dân quốc phòng, một cách hiểu khác "dân phòng không phải toàn dân quốc phòng"
+- [Nhìn Không Thấy Quốc Gia](/vi/art/invisible-nation) — Phim tài liệu dùng người Đài Loan lên khóa dân phòng kết cuối, chính là bản video của khóa học Học viện Gấu Đen này
 
 ## Nguồn Hình Ảnh
 

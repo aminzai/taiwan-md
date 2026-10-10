@@ -12,7 +12,7 @@ tags:
     'Tết',
     'văn hoá Đài Loan',
   ]
-subcategory: 'Giải trí hàng ngày'
+subcategory: '日常娛樂'
 author: 'zaious'
 featured: false
 lastVerified: 2026-04-23

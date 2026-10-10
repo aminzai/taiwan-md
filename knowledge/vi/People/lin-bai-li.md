@@ -11,7 +11,7 @@ tags:
     'Trí tuệ nhân tạo',
     'Ung thư biểu mô tuyến phổi',
   ]
-subcategory: 'Công nghệ và kinh doanh'
+subcategory: '科技與企業'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-08

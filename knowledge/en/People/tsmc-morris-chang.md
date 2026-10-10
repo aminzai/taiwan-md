@@ -401,7 +401,7 @@ TSMC's market value first exceeded NT$10 trillion on July 21, 2020, and exceeded
 - [Shi Zhenrong](/en/people/stan-shih) — The founder of Acer who served as a TSMC director for 21 years, also the author of the "smiling curve"; what TSMC did with "mid-stage manufacturing" was the most valuable part of that curve that was criticized and reality
 - [Guo Tai-ming](/en/people/terry-gou) — Another Taiwanese entrepreneur who changed the world through "foundry," Foxconn's assembly foundry and TSMC's wafer foundry are the two paths of Taiwan manufacturing going global
 - [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — From RCA's technology transfer in 1976 to the National Guardian Mountain, Morris Chang personally brought Taiwan into the entire industry battlefield
-- [Huang Zhongren](/people/黃崇仁) — The person who came to find Morris Chang when Lanji was almost acquired by United Microelectronics in the late 1990s, walking on another cliff-like path of Taiwan's semiconductors
+- [Huang Zhongren](/en/people/frank-huang-psmc) — The person who came to find Morris Chang when Lanji was almost acquired by United Microelectronics in the late 1990s, walking on another cliff-like path of Taiwan's semiconductors
 - [Taiwan Industry Transformation and Upgrade](/en/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC is the most concrete case of Taiwan transforming from a "foundry island" to a "technology island," and also the core coordinate of this 40-year transformation
 
 ---

@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'People/周杰倫.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:41da4ed1ac688006'
+sourceBodyHash: 'sha256:15c277d38e9e5f3f'
 translatedAt: '2026-08-13T04:05:00+08:00'
 ---
 
@@ -119,10 +120,10 @@ Vom schüchternen Klavierbegleiter 1997 zum König der chinesischsprachigen Popm
 
 **Weiterführende Lektüre**:
 
-- [Chou Tzu-yu](/people/周子瑜) – der zweithöchste IG-Followerwert taiwanesischer Künstler, direkt hinter Jay Chou
-- [Taiwanesische Popmusik](/music/台灣流行音樂) – das gesamte Branchenökosystem und die Generationswende, zu der Jay Chou gehört
-- [Stefanie Sun](/people/孫燕姿/) – im selben Jahr für den besten Newcomer der 12. Golden Melody Awards nominiert, nur eine Stimme Unterschied – definierte zwei parallele Musiklinien der 2000er
-- [Chia Yung-chieh](/people/賈永婕) – ein anderer taiwanesischer Weg, Künstler-Identität in bereichsübergreifenden Einfluss zu übersetzen (Unterhaltung → Brautmodenmarke → öffentliche Mobilisierung → öffentliche Unternehmensführung), als Kontrast zu Jay Chous Kulturindustrie-Pfad
+- [Chou Tzu-yu](/de/people/tzuyu) – der zweithöchste IG-Followerwert taiwanesischer Künstler, direkt hinter Jay Chou
+- [Taiwanesische Popmusik](/de/music/golden-melodies-legacy-taiwan-pop-music) – das gesamte Branchenökosystem und die Generationswende, zu der Jay Chou gehört
+- [Stefanie Sun](/de/people/stefanie-sun/) – im selben Jahr für den besten Newcomer der 12. Golden Melody Awards nominiert, nur eine Stimme Unterschied – definierte zwei parallele Musiklinien der 2000er
+- [Chia Yung-chieh](/de/people/chia-yung-chieh) – ein anderer taiwanesischer Weg, Künstler-Identität in bereichsübergreifenden Einfluss zu übersetzen (Unterhaltung → Brautmodenmarke → öffentliche Mobilisierung → öffentliche Unternehmensführung), als Kontrast zu Jay Chous Kulturindustrie-Pfad
 
 ## Referenzen
 

@@ -162,7 +162,7 @@ _桃園分局宿舎の漆器。Photo: Wikimedia Commons, 作者およびライ�
 
 - [台湾の伝統工芸と無形文化遺産](/ja/culture/traditional-crafts-intangible-cultural-heritage) — 漆芸が台湾の伝統工芸保存制度の中でどのような位置づけにあるか。
 - [台湾の花布](/ja/culture/taiwan-floral-fabric) — 外来のデザイン、産業生産から地域的アイデンティティへの転換という別の事例。
-- [台湾の塩業](/history/台灣鹽業) — 自然資源、工業化から文化保存に至るもう一つの台湾の素材史。
+- [台湾の塩業](/ja/history/taiwan-salt-industry) — 自然資源、工業化から文化保存に至るもう一つの台湾の素材史。
 
 ## 参考文献
 

@@ -4,7 +4,7 @@ description: 'Bảy kỹ sư với vốn 2 triệu đồng khởi nghiệp, đư
 date: 2026-03-20
 category: 'Economy'
 tags: ['Economy', 'Công ty', 'Bán dẫn', 'Thiết kế IC']
-subcategory: 'Tiểu sử doanh nhân'
+subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20

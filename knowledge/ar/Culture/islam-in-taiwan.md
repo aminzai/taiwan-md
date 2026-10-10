@@ -4,7 +4,7 @@ description: 'في عام 2025، تجاوز عدد المسلمين في تاي�
 date: 2026-04-28
 author: 'idlccp1984'
 category: 'Culture'
-subcategory: 'الدين والفولكلور'
+subcategory: '宗教與民俗'
 tags:
   [
     'الإسلام',

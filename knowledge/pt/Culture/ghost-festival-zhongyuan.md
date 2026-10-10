@@ -11,7 +11,7 @@ tags:
     'Folclore de Taiwan',
     'História',
   ]
-subcategory: 'Festivais e Costumes'
+subcategory: '節慶與禮俗'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-20
@@ -79,7 +79,7 @@ O Festival de Zhongyuan nos lembra que a paz nesta ilha não é algo garantido, 
 ## Leitura Adicional
 
 - [Julho do Calendário Lunar](/pt/culture/lunar-july-ghost-month) — O ritmo social de todo o "Mês dos Fantasmas"
-- [Festival do Barco Dragão](/culture/端午節) — Como os pacotes de festivais são localizados em Taiwan
+- [Festival do Barco Dragão](/pt/culture/dragon-boat-festival) — Como os pacotes de festivais são localizados em Taiwan
 
 ## Referências
 

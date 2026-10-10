@@ -11,7 +11,7 @@ tags:
     'Materi Kampanye',
     'Pemilu 2026',
   ]
-subcategory: 'Sistem Pemilu'
+subcategory: '選舉制度'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-27
@@ -20,6 +20,7 @@ readingTime: 10
 translatedFrom: 'Politics/選舉公報.md'
 sourceCommitSha: 'e957cf7f1'
 sourceContentHash: 'sha256:48c230f3d6f5b004'
+sourceBodyHash: 'sha256:2cdc1f033ad2b6b9'
 translatedAt: '2026-07-30T21:23:59.825242+00:00'
 ---
 

@@ -31,6 +31,7 @@ relatedDiary: ['2026-07-13-110417-manual']
 translatedFrom: 'Economy/台灣企業：統一企業.md'
 sourceCommitSha: '05ed20149'
 sourceContentHash: 'sha256:012f47b06c66bfb9'
+sourceBodyHash: 'sha256:b22e5c952fc18259'
 translatedAt: '2026-09-24T16:13:43.514855+00:00'
 ---
 

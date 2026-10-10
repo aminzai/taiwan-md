@@ -12,7 +12,7 @@ tags:
     'động vật',
     'rác thải nhà bếp',
   ]
-subcategory: 'cộng đồng và đời sống'
+subcategory: '社區與日常'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-05

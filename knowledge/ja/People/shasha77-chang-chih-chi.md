@@ -4,7 +4,7 @@ description: '「志祺七七」で7年間毎日更新、165万人のチャン�
 date: 2026-04-20
 tags: ['張志祺', '志祺七七', '情報デザイン', 'YouTuber', '社会課題']
 category: 'People'
-subcategory: 'デジタルとメディア'
+subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 10

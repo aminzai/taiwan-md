@@ -122,6 +122,6 @@ A experiência taiwanesa na conservação de endémicos serve de referência par
 - [Rede de Conservação da Natureza da Agência de Silvicultura e Conservação da Natureza](https://conservation.forest.gov.tw/)
 - [Robert Swinhoe](/pt/people/robert-swinhoe-naturalist) — Primeiro naturalista ocidental a documentar sistematicamente a fauna taiwanesa nos anos 1860; o galo-das-montanhas-de-barriga-azul e a tartaruga-de-carapaça-malhada, nomeados em sua honra, permanecem espécies-emblema da conservação de endémicos taiwaneses
 - [Ornitologia de Formosa](/pt/nature/the-ornithology-of-formosa) — Obra de Swinhoe de 1863, _The Ornithology of Formosa_, regista 201 espécies; mas o faisão-de-mikado, o timalia-de-coroa e o timalia-de-Taiwan, endémicos da Cordilheira Central, só foram descritos em 1906
-- [Garça-noturna-de-coroa-preta](/nature/黑冠麻鷺) — Não é endémica de Taiwan, mas a sua expansão populacional urbana em Taiwan é única em toda a sua distribuição global; os dados de anilhamento e recaptura acumulados pelo sistema taiwanês de ciência cidadã constituem amostra de nível mundial
+- [Garça-noturna-de-coroa-preta](/pt/nature/malayan-night-heron) — Não é endémica de Taiwan, mas a sua expansão populacional urbana em Taiwan é única em toda a sua distribuição global; os dados de anilhamento e recaptura acumulados pelo sistema taiwanês de ciência cidadã constituem amostra de nível mundial
 
 ## Temas relacionados

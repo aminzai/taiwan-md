@@ -38,6 +38,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Longshan_Temple,_Taipei_01
 translatedFrom: 'Geography/艋舺.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:087fe7b9d4504fbb'
+sourceBodyHash: 'sha256:da886e84510f3d63'
 translatedAt: '2026-09-25T06:36:51.724612+00:00'
 ---
 
@@ -246,12 +247,12 @@ Was andere Menschen in Wanfang sehen — ein Urlaubsnachtmarkt, ein ehemals grau
 
 - [Taipeh-Stadt](/de/geography/taipei-city) — Panorama der gesamten Beckenlandschaft bei 1738 Longshan-Tempel, 1885 Dadaocheng und 2004 Xinbeitou 101
 - [Taiwanische Altstadt-Kultur und Geschäftsviertel](/de/culture/taiwan-historic-streets-and-commercial-districts) — Historische Karte von mehr als 10 Altstraßen von der Qing-Dynastie bis zum japanischen Barock
-- [Taiwanische Religions- und Tempelkultur](/culture/台灣宗教與寺廟文化) — Glaubensstruktur der 15.000 Tempel, wo Wangye, Mazu und Buddha auf einem Dach zusammenleben
+- [Taiwanische Religions- und Tempelkultur](/de/culture/taiwan-religion-and-temple-culture) — Glaubensstruktur der 15.000 Tempel, wo Wangye, Mazu und Buddha auf einem Dach zusammenleben
 - [Qing-Dynastie](/de/history/qing-dynasty-rule) — Taiwans Gesellschaft, Kategorisierung und Kampf zwisachen 1683 und 1895
-- [Sino-Französischer Krieg](/history/清法戰爭) — Der französische Militärangriff auf Nord-Taiwan 1884–1885, die Freiwilligenbewegung am Longshan-Tempel in Manka, der große Sieg in Tamsui
+- [Sino-Französischer Krieg](/de/history/sino-french-war-in-taiwan) — Der französische Militärangriff auf Nord-Taiwan 1884–1885, die Freiwilligenbewegung am Longshan-Tempel in Manka, der große Sieg in Tamsui
 - [Dadaocheng](/de/geography/dadaocheng) — Die Handelsstadt, die die Menschen aus Xi'an nach dem Sieg in Dajia aus Manka fünf Kilometer entfernt gründeten — eine andere Zeitleiste, in die Manka auslief.
 - [Westend](/de/geography/ximending) — Das Geschwisterstück dieser historischen Altstadt aus Batch 1, das die Japaner 1896 in Manka westlich planten und als Unterhaltungsviertel nutzten — ein Kontrast zwischen Qing-Dynastie und japanischer Herrschaft
-- [Dalongdong](/geography/大龍峒) — Der erste Sitz der Menschen aus Xi'an, die nach dem Sieg in Dajia aus Manka fünf Kilometer entfernt flohen; der Tian Tan Miao wurde zur Verteidigungszentrale und später nach Dadaocheng verlegt
+- [Dalongdong](/de/geography/dalongdong) — Der erste Sitz der Menschen aus Xi'an, die nach dem Sieg in Dajia aus Manka fünf Kilometer entfernt flohen; der Tian Tan Miao wurde zur Verteidigungszentrale und später nach Dadaocheng verlegt
 - [Shilin](/de/geography/shilin) — Der Kampf zwischen Hokkien und Hakka 1859 ist ein anderes Schlachtfeld als der Kampf in Manka 1853 — zwei verschiedene Szenarien kultureller Konflikte im Norden Taiwans zur Qing-Zeit
 
 ## Bildquellen

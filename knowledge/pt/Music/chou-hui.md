@@ -359,10 +359,10 @@ Quando o público taiwanês de hoje entrar num KTV, alguém selecionar "O Compro
 
 **Leitura complementar**:
 
-- [Chang Hsuan e Anpu](/music/張懸與安溥) — Mesma voz feminina taiwanesa, Anpu usa dois nomes artísticos para responder "de que lado está"; a escolha de Chou Hui é não escolher lado
-- [Cultura KTV de Taiwan](/music/台灣KTV文化) — Era de ouro dos KTVs fim dos anos 90 a início dos 2000, base material dos 25 anos de "O Compromisso"
-- [Pop taiwanês](/music/台灣流行音樂) — Formação e dissolução do enquadramento "Quatro Pequenas Divas" em 1999, fatia da industrialização do pop chinês nos anos 90
-- [Golden Melody Awards](/music/金曲獎) — Chou Hui nunca levou Melhor Cantora, mas seus 25 anos fora do sistema Golden Melody construíram outro indicador de longevidade
+- [Chang Hsuan e Anpu](/pt/music/deserts-chang-and-anpu) — Mesma voz feminina taiwanesa, Anpu usa dois nomes artísticos para responder "de que lado está"; a escolha de Chou Hui é não escolher lado
+- [Cultura KTV de Taiwan](/pt/music/ktv-culture) — Era de ouro dos KTVs fim dos anos 90 a início dos 2000, base material dos 25 anos de "O Compromisso"
+- [Pop taiwanês](/pt/music/golden-melodies-legacy-taiwan-pop-music) — Formação e dissolução do enquadramento "Quatro Pequenas Divas" em 1999, fatia da industrialização do pop chinês nos anos 90
+- [Golden Melody Awards](/pt/music/pop-music-and-golden-melody-awards) — Chou Hui nunca levou Melhor Cantora, mas seus 25 anos fora do sistema Golden Melody construíram outro indicador de longevidade
 
 ## Fontes das imagens
 

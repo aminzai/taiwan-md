@@ -12,14 +12,14 @@ tags:
     'Foxconn',
     "Gouvernance d'entreprise",
   ]
-subcategory: "Chroniques d'entreprises"
+subcategory: '企業列傳'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
 readingTime: 10
 translatedFrom: 'Economy/台灣企業：鴻海精密.md'
-sourceCommitSha: 'ce7f10f8'
+sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:f8ad90a4cc28bbe6'
 sourceBodyHash: 'sha256:68bf0232c7180c94'
 translatedAt: '2026-05-09T14:31:09Z'

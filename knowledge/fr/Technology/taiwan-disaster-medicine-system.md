@@ -11,7 +11,7 @@ tags:
     'système de santé taïwanais',
     'télémédecine',
   ]
-subcategory: 'Système de santé'
+subcategory: '醫療體系'
 author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false
@@ -199,7 +199,7 @@ Lors de la prochaine catastrophe, ce ne seront pas les équipements les plus co�
 
 - [Loi sur la médecine](/fr/society/medical-care-act) — La source légale de la médecine de catastrophe est ancrée dans l'article 1 de la Loi sur la médecine, concernant la « distribution rationnelle des ressources médicales » et les normes de classification institutionnelle ; le scénario de catastrophe abordé ici représente le fonctionnement réel de cette loi dans des conditions extrêmes.
 - [Controverse sur les médicaments pour animaux à Taïwan](/fr/society/taiwan-animal-drug-controversy) — Les humains ont un système de soins d'urgence, le 119, la sécurité sociale et les DMAT ; les urgences animales nécessitent un enregistrement détaillé pour chaque besoin d'oxygène. L'écart des ressources entre ces deux systèmes est un miroir de la hiérarchisation des valeurs sur cette île.
-- [COVID à Taïwan et vaccins](/society/台灣新冠疫情與疫苗) — La saturation des chambres dédiées et des urgences en mai 2021 fut l'une des périodes où ce système de médecine de catastrophe a été le plus testé de manière continue.
+- [COVID à Taïwan et vaccins](/fr/society/taiwan-covid-pandemic-and-vaccines) — La saturation des chambres dédiées et des urgences en mai 2021 fut l'une des périodes où ce système de médecine de catastrophe a été le plus testé de manière continue.
 
 ## Références
 

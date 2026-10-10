@@ -98,6 +98,6 @@ Nachhaltige Themen im Nachtwirtschaftsbereich werden diskutiert. Übermäßig ko
 
 ## Weiterführende Literatur
 
-- [Taiwanesisches Verkehrsystem](/lifestyle/台灣交通系統) — Wie Nachtverkehr die Nachtkultur unterstützt
+- [Taiwanesisches Verkehrsystem](/de/lifestyle/transportation-system) — Wie Nachtverkehr die Nachtkultur unterstützt
 - [Taiwanesische Convenience-Store-Kultur](/de/lifestyle/convenience-store-culture) — Beziehung zwischen 24-Stunden-Geschäften und Nachtstadt-Kultur
-- [Taiwanesische religiöse Glaubensrichtungen](/culture/台灣宗教與寺廟文化) — Nachtliche Tempelanlässe und traditionelle Feste als Nachtkultur
+- [Taiwanesische religiöse Glaubensrichtungen](/de/culture/taiwan-religion-and-temple-culture) — Nachtliche Tempelanlässe und traditionelle Feste als Nachtkultur

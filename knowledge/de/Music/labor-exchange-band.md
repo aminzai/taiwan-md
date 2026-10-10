@@ -110,9 +110,9 @@ Chen Shui-bian kündigte im Jahr 2000 an, keinen Staudamm in Meinong zu bauen [^
 
 ## Weiterführende Lektüre
 
-- [Hakka-Musik in Taiwan](/music/台灣客家音樂/)
-- [Taiwanische Volksliedbewegung](/music/台灣民歌運動/)
-- [Indie-Musik in Taiwan](/music/台灣獨立音樂/)
+- [Hakka-Musik in Taiwan](/de/music/taiwan-hakka-music-from-mountain-songs-to-rock/)
+- [Taiwanische Volksliedbewegung](/de/music/taiwan-campus-folk-song-movement/)
+- [Indie-Musik in Taiwan](/de/music/indie-music-scene/)
 - [Geschichte des taiwanesischen Rock](/de/music/taiwan-rock-from-underground-to-mainstream/)
 
 ## Quellenverzeichnis

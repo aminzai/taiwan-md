@@ -74,7 +74,7 @@ Gen Urobuchi mengaku fans Pili, titik awal kolaborasi adalah momen terharu di lo
 **Baca Selengkapnya**
 
 - [Wayang Kulit](/id/culture/taiwanese-shadow-puppetry) — Sama-sama bermula Hokkien-Guangdong, di Taiwan mengakar di Mituo Kaohsiung, seni wayang bayangan tradisional, pernah di era Japanisasi berusaha hidup dengan adaptasi skenario bahasa Jepang, adalah aliran lain wayang tradisional Taiwan
-- [Pesta Kuil Taiwan dan Budaya Zhen Tou](/culture/台灣廟會與陣頭文化) — Halaman kuil adalah panggung pertama budaixi, zhen tou pesta kuil dan budaixi di ranah kepercayaan rakyat Taiwan berbagi langit yang sama
+- [Pesta Kuil Taiwan dan Budaya Zhen Tou](/id/culture/taiwan-temple-festivals-and-performance-troupes) — Halaman kuil adalah panggung pertama budaixi, zhen tou pesta kuil dan budaixi di ranah kepercayaan rakyat Taiwan berbagi langit yang sama
 - [National Theater & Concert Hall](/id/culture/national-theater-and-concert-hall) — Seni pertunjukan tradisional Taiwan dari halaman kuil naik panggung teater kontemporer, sisi lain yang disaksikan sejak berdirinya 1987 hingga kini demokratisasi seni budaya Taiwan
 
 ## Referensi
@@ -87,7 +87,7 @@ Gen Urobuchi mengaku fans Pili, titik awal kolaborasi adalah momen terharu di lo
 
 [^4]: [Kronologi Besar Budaixi Taiwan — Museum Budaixi Yunlin](https://sites.google.com/view/yunlinpuppet/%E5%B8%83%E8%A2%8B%E6%88%B2%E7%9A%84%E6%BA%90%E6%B5%81-about-bodehi/%E5%8F%B0%E7%81%A3%E5%B8%83%E8%A2%8B%E6%88%B2%E5%A4%A7%E4%BA%8B%E8%A8%98-memorabilia) — Kronologi sejarah budaixi yang disusun Museum Budaixi Yunlin, mencatat 1937 pasca larangan musik tradisional troupe tradisional terpaksa ganti drama bergaya Jepang, ganti musik Barat sebagai iringan.
 
-[^5]: [Perkembangan dan Perubahan Budaixi Taiwan — Museum Budaixi Yunlin](https://sites.google.com/view/yunlinpuppet/%E5%B8%83%E8%A2%8B%E6%88%B2%E7%9A%84%E6%BA%90%E6%B5%81-about-bodehi/%E5%8F%B0%E7%81%A3%E5%B8%83%E8%A2%8B%E6%88%B2%E7%9A%84%E7%99%BC%E5%B1%95%E8%88%87%E8%AE%8A%E9%81%81-the-development-of-taiwanese-puppetry-po-te-hi) — Menjelaskan detail kebijakan era Japanisasi: budaixi diminta pertunjukan bahasa Jepang cerita Jepang, musik Barat ganti Nanguan-Beiguan, serta pengaruh teknologi panggung masa itu ke Budaixi Kilat Emas kemudian.
+[^5]: [Perkembangan dan Perubahan Budaixi Taiwan — Museum Budaixi Yunlin](https://sites.google.com/view/yunlinpuppet/%E5%B8%83%E8%A2%8B%E6%88%B2%E7%9A%84%E6%BA%90%E6%B5%81-about-bodehi/%E5%8F%B0%E7%81%A3%E5%B8%83%E8%A2%8B%E6%88%B2%E7%9A%84%E7%99%BC%E5%B1%95%E8%88%87%E8%AE%8A%E9%81%B7-the-development-of-taiwanese-puppetry-po-te-hi) — Menjelaskan detail kebijakan era Japanisasi: budaixi diminta pertunjukan bahasa Jepang cerita Jepang, musik Barat ganti Nanguan-Beiguan, serta pengaruh teknologi panggung masa itu ke Budaixi Kilat Emas kemudian.
 
 [^6]: [Hari Tanpa TV——Budaixi Kilat Emas "Kilat Berkilauan, Auspicious Aura Ribuan Tali" | StoryStudio](https://storystudio.tw/article/gushi/puppet-show) — Menjelaskan pasca perang budaixi dari halaman kuil masuk bioskop, ukuran boneka diperbesar, panggung berlapis catik warna ditambah, serta 1953 _Daxia Baicaoweng_ mengawali era Budaixi Kilat Emas.
 

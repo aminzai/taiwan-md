@@ -109,7 +109,7 @@ Karena itu, baca Domidoro tidak bisa cuma tanya "dia bener nggak". Harus tanya: 
 
 Domidoro bikin "menangkap kesalahan" jadi pertunjukan publik, inilah dia diingat, juga beban yang harus dibawa. Penonton bisa di tawa pinjam standarnya sementara, tapi tidak harus selamanya simpan hak menilai di tangannya. Saat video berikut lagi nyala subtitle "Polisi Bahasa Jepang Beraksi", menonton yang benar-benar dewasa, bukan ikut vonis langsung, tapi dulu lihat jelas: kali ini yang ditunjuk salah, apakah teks, karya, sistem, atau batas seorang individu.
 
-## 參考資料
+## Referensi
 
 [^1]: ["Polisi Bahasa Jepang" Domidoro Menindak Merek Hand-shaken Terkenal "Bayo Heca" Resmi Cepat Minta Maaf Luncurkan Diskon "Bei Qi Ei"](https://dailyview.tw/popular/detail/27457) — Lihat Detail Data Isi Tautan Asli
 

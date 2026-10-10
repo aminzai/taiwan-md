@@ -143,7 +143,7 @@ Die Daxi-Bohnen bewahren nicht einen Flusshafen, der für immer blühend ist. Si
 
 [^9]: [Airiti Library: Forschung zur Nutzung und Entwicklung der kulturellen Ressourcen des Daxi-Historischen-Viertels](https://www.airitilibrary.com/Article/Detail/U0021-1610201315170023) — Forschungsseite, liefert Kontext für die kulturellen Ressourcen der Altstadt, lokale Gruppen, Einwohner, Geschäfte und die Interaktion mit dem Distrikt.
 
-[^10]: [Wikimedia Commons: Daxi Historic Street - panoramio (1).jpg](<https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E6%BA%AA%E8%80%81%E8%A1%97_Daxi_Historic_Street_-_panoramio_(1).jpg>) — Autor lienyuan lee, CC BY 3.0. Bild in der Haupttextverwendung über die Wikimedia Commons `Special:FilePath`-Hotlink-URL, Bild nicht heruntergeladen.
+[^10]: [Wikimedia Commons: Daxi Historic Street - panoramio (1).jpg](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E6%BA%AA%E8%80%81%E8%A1%97_Daxi_Historic_Street_-_panoramio_(1) — Autor lienyuan lee, CC BY 3.0. Bild in der Haupttextverwendung über die Wikimedia Commons `Special:FilePath`-Hotlink-URL, Bild nicht heruntergeladen.
 
 [^11]: [Wikimedia Commons: 2021 Daxi Bridge.jpg](https://commons.wikimedia.org/wiki/File:2021_Daxi_Bridge.jpg) — Autor Taiwankengo, CC BY-SA 4.0. Bild in der Haupttextverwendung über `Special:FilePath`-Hotlink-URL, Bild nicht heruntergeladen.
 

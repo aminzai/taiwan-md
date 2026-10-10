@@ -147,6 +147,6 @@ Und in diesem Jahr begann die Antwort zu kommen.
 
 ## Zugehörige Themen
 
-- [Taiyanghoa-Bewegung (Sunflower Movement)](/society/太陽花學運): Wie eine andere Generation vierundzwanzig Jahre später den Systemdiskurs wieder ankurbelte
+- [Taiyanghoa-Bewegung (Sunflower Movement)](/de/society/sunflower-movement): Wie eine andere Generation vierundzwanzig Jahre später den Systemdiskurs wieder ankurbelte
 - [Demokratisches System](/de/society/democratic-system): Wie die heutigen demokratischen Regeln Taiwans Schritt für Schritt entstanden sind
 - [Politisches Umfeld und Wahlsystem in Taiwan](/de/society/taiwan-political-landscape-and-electoral-system): Der Wandel vom ewigen Parlament zur vollständigen Neuwahl

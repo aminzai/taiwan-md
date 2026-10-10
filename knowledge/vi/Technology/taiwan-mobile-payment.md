@@ -65,7 +65,7 @@ Tài liệu giáo dục của Ủy ban Quản lý Tài chính chia theo công c�
 
 Hành động mà người tiêu dùng làm ở giao diện có thể chỉ là chạm hoặc quét hoặc nhấn xác nhận một lần, nhưng phía sau có thể được hoàn thành bởi các công cụ ràng buộc khác nhau, công nghệ, đầu thu tiền và quy tắc. Thanh toán cùng một cách trên điện thoại, một số sử dụng thẻ ràng buộc, một số sử dụng tài khoản thanh toán điện tử. Đầu thu tiền mà cửa hàng kết nối sẽ quyết định thêm lần nữa những tổ hợp nào có thể sử dụng được. LINE Pay, Jie Kou, Apple Pay, Toàn thanh toán và Đài Loan Pay vì vậy không thể chỉ xếp Logo thành năm ví giống nhau. Một số trong số chúng cạnh tranh lẫn nhau, một số hợp tác chia tầng trong cùng một giao dịch, cũng có một số bổ sung vị trí lẫn nhau ở các kênh khác nhau.
 
-Nếu muốn xem PChome, Shopee và Cool Peng v.v... các nền tảng thay đổi bối cảnh mua sắm trực tuyến như thế nào, có thể đọc thêm [Hệ sinh thái thương mại điện tử và thanh toán kỹ thuật số Đài Loan](/technology/電子商務與數位支付生態系). Bài này chỉ dừng ở dặm cuối cùng của thanh toán tại quầy tính tiền.
+Nếu muốn xem PChome, Shopee và Cool Peng v.v... các nền tảng thay đổi bối cảnh mua sắm trực tuyến như thế nào, có thể đọc thêm [Hệ sinh thái thương mại điện tử và thanh toán kỹ thuật số Đài Loan](/vi/technology/e-commerce-and-digital-payment-ecosystem). Bài này chỉ dừng ở dặm cuối cùng của thanh toán tại quầy tính tiền.
 
 Vì vậy, điện thoại có một thương hiệu nhất định, chỉ trả lời liệu người dùng có lấy được công cụ không, không thể trực tiếp trả lời liệu cửa hàng có kết nối với đầu thu tiền tương thích không. Thấy cùng một mã QR, cũng không có nghĩa là mọi ứng dụng, hướng quét mã và nguồn quỹ đều có thể hoàn thành giao dịch. Từ biểu tượng điện thoại nhảy thẳng tới "có thể dùng trên toàn đảo", giữa đó còn thiếu ít nhất ba tầng: công cụ ràng buộc, hợp đồng cửa hàng và thông số kỹ thuật giao dịch.
 
@@ -151,9 +151,9 @@ Rào cản áp dụng hỏi có bao nhiêu người sẽ dùng. Rào cản phổ
 
 ## Đọc thêm
 
-- [Hệ sinh thái thương mại điện tử và thanh toán kỹ thuật số Đài Loan](/technology/電子商務與數位支付生態系) — Nhìn lại hai mươi năm nền tảng thương mại điện tử Đài Loan và chiến tranh nhà bán lẻ vận chuyển.
-- [Phát triển fintech Đài Loan](/economy/台灣金融科技發展) — Đặt trường hợp thanh toán trở lại mười năm phát triển fintech Đài Loan giữa sự mở cửa và kiểm soát rủi ro.
-- [PChome Hướng lợi tức](/economy/全聯福利中心) — Xem làm sao PChome phát triển từ mạng lưới cửa hàng và quản lý thành viên tới nền tảng cuộc sống tần suất cao.
+- [Hệ sinh thái thương mại điện tử và thanh toán kỹ thuật số Đài Loan](/vi/technology/e-commerce-and-digital-payment-ecosystem) — Nhìn lại hai mươi năm nền tảng thương mại điện tử Đài Loan và chiến tranh nhà bán lẻ vận chuyển.
+- [Phát triển fintech Đài Loan](/vi/economy/taiwan-fintech-development) — Đặt trường hợp thanh toán trở lại mười năm phát triển fintech Đài Loan giữa sự mở cửa và kiểm soát rủi ro.
+- [PChome Hướng lợi tức](/vi/economy/pxmart-supermarket) — Xem làm sao PChome phát triển từ mạng lưới cửa hàng và quản lý thành viên tới nền tảng cuộc sống tần suất cao.
 
 ## Nguồn hình ảnh
 

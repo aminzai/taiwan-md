@@ -4,7 +4,7 @@ description: '1946年、台湾は一夜にして左ハンドルから右ハン�
 date: 2026-04-26
 author: 'Taiwan.md Contributors'
 category: 'Lifestyle'
-subcategory: '交通と移動'
+subcategory: '交通與移動'
 tags:
   [
     '交通',

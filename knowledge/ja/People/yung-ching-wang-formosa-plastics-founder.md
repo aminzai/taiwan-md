@@ -4,7 +4,7 @@ description: '1917年1月18日、台北新店に生まれた王永慶は、15歳
 date: 2026-03-19
 author: 'Taiwan.md'
 category: 'People'
-subcategory: '科技と企業'
+subcategory: '科技與企業'
 tags: ['科技と企業', '台塑グループ', '石油化学工業', '六軽', '起業家']
 readingTime: 7
 lastVerified: 2026-05-07

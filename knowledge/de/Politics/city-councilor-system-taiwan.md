@@ -21,6 +21,7 @@ readingTime: 12
 translatedFrom: 'Politics/議員制度.md'
 sourceCommitSha: 'e957cf7f1'
 sourceContentHash: 'sha256:e4ff19d34aa5684e'
+sourceBodyHash: 'sha256:443bc2c93c1de17f'
 translatedAt: '2026-09-26T05:25:37.065160+00:00'
 ---
 

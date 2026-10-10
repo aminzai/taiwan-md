@@ -92,7 +92,7 @@ Taiwan Insight는 보고서 해석에서, 공식 문서는 설치 의사결정�
 - [원자력안전위원회: 란유 저장소 안전 관리 설명](https://www.nusc.gov.tw/%E7%89%A9%E6%96%99%E7%AE%A1%E5%88%B6/%E4%BD%8E%E6%94%BE%E5%BB%A2%E6%A3%84%E7%89%A9%E7%AE%A1%E5%88%B6/%E4%BD%8E%E6%94%BE%E5%B0%84%E6%80%A7%E5%BB%A2%E7%89%A9%E7%AE%A1%E5%88%B6%E5%8B%95%E6%85%8B/%E8%98%AD%E5%B6%BC%E8%B2%AF%E5%AD%98%E5%A0%B4/%E8%98%AD%E5%B6%BC%E8%B2%AF%E5%AD%98%E5%A0%B4%E5%AE%89%E5%85%A8%E7%AE%A1%E5%88%B6%E8%AA%AA%E6%98%8E--6_5089_5096_5196_5080.html)
 - [Taiwan Insight: Tao People’s Fight for Environmental Justice and Subjectivity on Orchid Island](https://taiwaninsight.org/2021/09/10/tao-peoples-fight-for-environmental-justice-and-subjectivity-on-orchid-island/)
 
-## 參考資料
+## 참고 자료
 
 [^1]: [Nuclear Safety Commission：The Oversight of Lan-yu Storage Site](https://www.nusc.gov.tw/english/Fuel-Cycle-and-Materials-Regulation/The-Oversight-of-Lan-yu-Storage-Site-159.html) — 원자력안전위원회 영어 공식 연혁 페이지, 1972년 입지 평가, 1975년 확정, 1978년 착공 및 해상 투기가 초기 처분 고려 사항에 포함되었음을 설명.
 

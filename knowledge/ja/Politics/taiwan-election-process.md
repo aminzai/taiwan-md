@@ -99,7 +99,7 @@ translatedAt: '2026-06-13T00:46:24+08:00'
 
 [^6]: [開票所開放民衆録画規定](https://www.cec.gov.tw/central/cms/elec_news/38456) — 中央選挙委員会
 
-[^7]: [2024選挙知識懶人包｜総統連署門檻](https://tw.news.yahoo.com/2024%E9%81%B8%E8%88%89%E7%9F%A5%E8%AD%98%E6%87%B6%E4%BA%BA%E5%8C%85%EF%BD%9C%E7%B8%BD%E7%B5%B1%E9%80%A3%E7%BD%B2%E9%96%80%E6%95%B8%E8%A6%81%E5%A4%9A%E5%B0%91%E4%BA%BA-083437238.html) — Yahooニュース
+[^7]: [2024選挙知識懶人包｜総統連署門檻](https://tw.news.yahoo.com/2024%E9%81%B8%E8%88%89%E7%9F%A5%E8%AD%98%E6%87%B6%E4%BA%BA%E5%8C%85%EF%BD%9C%E7%B8%BD%E7%B5%B1%E9%80%A3%E7%BD%B2%E9%96%80%E6%AA%BB%E8%A6%81%E5%A4%9A%E5%B0%91%E4%BA%BA-083437238.html) — Yahooニュース
 
 [^8]: [Taiwan's manual counting as a shield against disinformation](https://www.reuters.com/world/asia-pacific/taiwans-low-tech-voting-system-is-high-trust-2024-01-12/) — Reuters
 
@@ -111,7 +111,7 @@ translatedAt: '2026-06-13T00:46:24+08:00'
 
 [^14]: [110年全国性公民投票監察実務](https://dep-s-district.hccg.gov.tw/uploaddowndoc?file=municipalnews/202110131648410.pdf) — 新竹市北区区公所
 
-[^15]: [AIディープフェイク技術が選挙信頼に与える挑戦](https://www.ppg.ly.gov.tw/ppg/SittingAttachment/download/2026010211/PPGB60500_4000_20959_1150121_0007.pdf) — 立法院公聴会報告
+[^15]: [AIディープフェイク技術が選挙信頼に与える挑戦](https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2026010211/PPGB60500_4000_20959_1150121_0007.pdf) — 立法院公聴会報告
 
 [^16]: [台湾「不在籍投票」争議：若者はどう考えるか？](https://www.bbc.com/zhongwen/articles/c1m70zkdv54o/trad) — BBC News 中文
 

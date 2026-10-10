@@ -176,10 +176,10 @@ Diese vergessene Anweisung wurde diesmal entdeckt. Nächstes Mal wird sie nicht 
 
 ## Weiterführende Literatur
 
-- [Kognitive Kriegsführung](/society/認知作戰) — Rahmen und Grenzen der kognitiven Kriegsführung sowie die Prinzipien der Komplexität vor der Korrektheit
-- [Kartoffelkognitive Kriegsführung](/society/毒馬鈴薯認知作戰) — Wie ein narratives Krieg die „wahre Grundlage“ trifft – ein weiteres Beispiel für die Ablehnung binärer Denkweisen
+- [Kognitive Kriegsführung](/de/society/cognitive-warfare-against-taiwan) — Rahmen und Grenzen der kognitiven Kriegsführung sowie die Prinzipien der Komplexität vor der Korrektheit
+- [Kartoffelkognitive Kriegsführung](/de/society/poisoned-potato-cognitive-warfare-taiwan) — Wie ein narratives Krieg die „wahre Grundlage“ trifft – ein weiteres Beispiel für die Ablehnung binärer Denkweisen
 - [Taiwan KI-Labor](/de/technology/taiwan-ai-labs) — Lokale Technologie, die KI nutzt, um koordinierte kognitive Operationen zu erkennen
-- [Taiwan Medien und Pressefreiheit](/society/台灣媒體與新聞自由) — Kontext und Kontroverse der Wangwang-Gruppe
+- [Taiwan Medien und Pressefreiheit](/de/society/media-and-press-freedom-in-taiwan) — Kontext und Kontroverse der Wangwang-Gruppe
 
 ## Bildnachweise
 

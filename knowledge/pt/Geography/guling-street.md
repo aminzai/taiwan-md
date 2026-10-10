@@ -185,14 +185,14 @@ A rua de sebos acabou, mas o lago continua no lugar a dar lótus.
 
 **Leitura adicional**:
 
-- [Taipé](/geography/台北市) — Narrativa centenária dos 12 distritos, o contexto de formação do Distrito de Zhongzheng onde fica a Rua Guling
-- [Dadaocheng](/geography/大稻埕) — Outra memória geracional de esquina dos três mercados de Taipé, do comércio de 1851 ao 228 de 1947
-- [Monga](/geography/艋舺) — A mais antiga rua-mercado de Taipé na era Qing, do Templo Longshan de 1738 ao filme _Monga_ de 2010
-- [Ximending](/geography/西門町) — Da zona de entretenimento japonesa de 1896 à Capital Cultural de 2026, bairro do Distrito de Zhongzheng planejado na era japonesa como a Rua Guling
+- [Taipé](/pt/geography/taipei-city) — Narrativa centenária dos 12 distritos, o contexto de formação do Distrito de Zhongzheng onde fica a Rua Guling
+- [Dadaocheng](/pt/geography/dadaocheng) — Outra memória geracional de esquina dos três mercados de Taipé, do comércio de 1851 ao 228 de 1947
+- [Monga](/pt/geography/bangka) — A mais antiga rua-mercado de Taipé na era Qing, do Templo Longshan de 1738 ao filme _Monga_ de 2010
+- [Ximending](/pt/geography/ximending) — Da zona de entretenimento japonesa de 1896 à Capital Cultural de 2026, bairro do Distrito de Zhongzheng planejado na era japonesa como a Rua Guling
 - [Cinema de Taiwan](/pt/art/taiwanese-cinema) — O lugar de _O Caso do Assassinato Juvenil da Rua Guling_ de Edward Yang na história do Novo Cinema
 - [Edward Yang](/pt/people/yang-dechang) — A alma do Novo Cinema de Taiwan que filmou os 237 minutos de _O Caso do Assassinato Juvenil da Rua Guling_
 - [Gongguan](/pt/geography/gongguan) — Paisagem-irmã da cultura de estudiosos _mainlanders_ e rua de sebos do pós-guerra, forma com a Rua Guling dois aglomerados de intelectuais _mainlanders_
-- [Vila 44](/geography/四四南村) — Aldeia de dependentes de arsenal e rua de sebos da Rua Guling: duas estruturas de assentamento do pós-guerra _mainlander_, "indústria militar vs. literatos"
+- [Vila 44](/pt/geography/44-south-village) — Aldeia de dependentes de arsenal e rua de sebos da Rua Guling: duas estruturas de assentamento do pós-guerra _mainlander_, "indústria militar vs. literatos"
 
 ## Créditos das imagens
 
@@ -223,7 +223,7 @@ Este artigo usa 5 imagens licenciadas CC / domínio público (capa + 4 inline), 
 
 [^8]: [StoryStudio: Sebo, sobrancelha indispensável do rosto da cidade — "Livraria Songlin" 70 anos de perfume de livros](https://storystudio.tw/article/gushi/guling-street-song-ling-old-book) — Livraria Songlin 1945 criada por primeira geração Cai Mulín (Chiayi, vendia madeira), primeiro na Rua Guling a virar loja física de sebo; segunda geração Cai Jinghui assumiu, loja 30 m² dois andares acervo perto de 100 mil volumes; mais vendidos esoterismo, medicina chinesa, história; acervo até eras Kangxi Qianlong da Qing; placa "Livraria Songlin" quatro caracteres escrito pelo próprio Cai Mulín no estilo Yan Zhenqing.
 
-[^9]: [Wikipédia: Rua Guling (Taipé)](<https://zh.wikipedia.org/zh-tw/%E7%89%AF%E5%B6%BA%E8%A1%97_(%E8%87%BA%E5%8C%97%E5%B8%82) — Era japonesa segundo reordenamento distrital local chamava Longkou-chō 3,4-chōme; 1922 (Taishō 11) reordenamento de bairros entrou em Sakuma-chō 1,2,3-chōme chamado "Avenida Sakuma-chō"; 1946 pós-guerra virou Rua Longjin; 1947 oficialmente Rua Guling até hoje.
+[^9]: [Wikipédia: Rua Guling (Taipé)](<https://zh.wikipedia.org/zh-tw/%E7%89%AF%E5%B6%BA%E8%A1%97_(%E8%87%BA%E5%8C%97%E5%B8%82)>) — Era japonesa segundo reordenamento distrital local chamava Longkou-chō 3,4-chōme; 1922 (Taishō 11) reordenamento de bairros entrou em Sakuma-chō 1,2,3-chōme chamado "Avenida Sakuma-chō"; 1946 pós-guerra virou Rua Longjin; 1947 oficialmente Rua Guling até hoje.
 
 [^10]: [Wikipédia: Kodama-chō](https://zh.wikipedia.org/wiki/%E5%85%92%E7%8E%89%E7%94%BA) — Kodama-chō distrito administrativo de Taipé na era japonesa, 1-4-chōme, a oeste de Chitose-chō, nomeado em homenagem ao 4º Governador-Geral Kodama Gentarō (1898-1906); hoje Rua Nanchang Secções 1 e 2, Rua Hukou, Rua Nanhai, Rua Ningbo Oeste, Rua Fuzhou partes estão no antigo bairro.
 

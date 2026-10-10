@@ -4,7 +4,7 @@ description: 'उपनिवेश काल की सभ्यता के �
 date: 2026-04-18
 author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: 'Classic Snacks'
+subcategory: '經典小吃'
 tags: ['हॉट पॉट', 'ताइवानी व्यंजन', 'शाचा सॉस', 'खाद्य संस्कृति']
 readingTime: 8
 lastVerified: 2026-04-18

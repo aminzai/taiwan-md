@@ -20,6 +20,15 @@ featured: false
 lastVerified: 2026-04-13
 lastHumanReview: true
 readingTime: '15min'
+sporeLinks:
+  - id: 25
+    platform: 'threads'
+    date: '2026-04-13'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXDq1FZkddO'
+  - id: 27
+    platform: 'x'
+    date: '2026-04-13'
+    url: 'https://x.com/taiwandotmd/status/2043538702853644444'
 translatedFrom: 'Music/張懸與安溥.md'
 sourceCommitSha: 'f803d0b6b'
 sourceContentHash: 'sha256:27ef434e8d6b0605'
@@ -171,7 +180,7 @@ Talvez a filha tenha aprendido a mesma coisa com o pai. A diferença é que a re
 
 - [Música independente de Taiwan](/pt/music/indie-music-scene/) — o cenário independente ao qual Deserts Chang pertence
 - [História do rock taiwanês](/pt/music/taiwan-rock-from-underground-to-mainstream/) — da era das canções proibidas ao Festival de Rock de Hohaiyan
-- [Movimento Estudantil Girassol](/society/太陽花學運/) — o que aconteceu depois dos trinta segundos que mudaram Taiwan em 2014
+- [Movimento Estudantil Girassol](/pt/society/sunflower-movement/) — o que aconteceu depois dos trinta segundos que mudaram Taiwan em 2014
 - [Cultura dos festivais de música em Taiwan](/pt/music/taiwan-music-festival-culture/) — de Kungliao ao Takao Rock Festival
 - [Rainie Yang](/pt/people/rainie-yang) — outra trajetória de 25 anos de uma cantora do mundo de língua chinesa, da produção por terceiros à autoprodução, em paralelo à transformação de Anpu “de cantora adolescente em autora completa”
 

@@ -123,7 +123,7 @@ Ao cruzar o Hsuehshan, reduza a velocidade, respeite as regras de trânsito; iss
 
 - [Sistema de transporte de Taiwan](/pt/lifestyle/transportation-system) — Compreenda o significado do Hsuehshan a partir das redes rodoviária, ferroviária e de transporte público.
 - [Desenvolvimento urbano e disparidade urbano-rural em Taiwan](/pt/geography/taiwan-urban-development-and-rural-urban-divide) — Leitura complementar sobre como a infraestrutura de transporte transforma o desenvolvimento local e os fluxos populacionais.
-- [Autoestradas](/lifestyle/高速公路) — O Túnel Hsuehshan é apenas um capítulo dos 50 anos de autoestradas de Taiwan; este artigo traça desde a Rodovia MacArthur até a Freeway No. 7, contabilizando o custo por trás de cada "mais rápido".
+- [Autoestradas](/pt/lifestyle/national-highway-system) — O Túnel Hsuehshan é apenas um capítulo dos 50 anos de autoestradas de Taiwan; este artigo traça desde a Rodovia MacArthur até a Freeway No. 7, contabilizando o custo por trás de cada "mais rápido".
 
 ## Referências
 

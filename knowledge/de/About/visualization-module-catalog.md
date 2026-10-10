@@ -306,7 +306,7 @@ Jedes Modul ist ein ` ```tw-* ` Block im Markdown des Artikels, Spalten durch `|
 
 Unser System orientiert sich an der redaktionellen Philosophie von [The Pudding](https://pudding.cool/) — Fragen zuerst, klare Schlüsse, Quellen im Fokus — aber angepasst an Taiwan.md: statisch, mehrsprachig, KI-lesbar. Der vollständige Design-Kontext steht in [Bericht über das Visualisierungssystem](https://github.com/frank890417/taiwan-md/blob/main/reports/article-visualization-design-2026-06-06.md).
 
-Um zu sehen, wie diese Module in einem echten Tiefenartikel eingesetzt werden, lies [Staatlicher Wohnbau und Wohngerechtigkeit](/society/國宅與居住正義) — die meisten Zahlen auf dieser Seite stammen aus dieser Analyse.
+Um zu sehen, wie diese Module in einem echten Tiefenartikel eingesetzt werden, lies [Staatlicher Wohnbau und Wohngerechtigkeit](/de/society/public-housing-justice) — die meisten Zahlen auf dieser Seite stammen aus dieser Analyse.
 
 ## Das System entwickelt sich weiter
 
@@ -325,11 +325,11 @@ Neuere Forschung hat diesen Ansatz bestätigt: Die Genauigkeit, mit der multimod
 
 **Weiterführende Literatur:**
 
-- [Staatlicher Wohnbau und Wohngerechtigkeit](/society/國宅與居住正義) — Die vollständige Geschichte hinter diesen Wohndaten: Wie staatlicher Wohnbau von günstigen Wohnungen zu einer Rendite-Maschine wurde. Die meisten Zahlen auf dieser Seite stammen von dort.
+- [Staatlicher Wohnbau und Wohngerechtigkeit](/de/society/public-housing-justice) — Die vollständige Geschichte hinter diesen Wohndaten: Wie staatlicher Wohnbau von günstigen Wohnungen zu einer Rendite-Maschine wurde. Die meisten Zahlen auf dieser Seite stammen von dort.
 - [Taiwan-Daten: 22 Städte im Vergleich](/de/geography/data-taiwan-22-cities) — Alle Alterungsdaten in Punktdiagrammen, Pyramiden und Stadtkacheln stammen aus der vollständigen Analyse dieser 22 Städte.
 - [Taiwan und Atomenergie](/de/society/taiwan-nuclear-debate) — Die vollständige Geschichte der drei Atomkraft-Volksabstimmungen: Debatten gewonnen, System verloren.
-- [Gesundheitsreform](/society/醫療法) — Die vollständige Geschichte der drei Schichten der Pflegekräftebelastung: Was das Gesetz schreiben kann, was es nicht schreiben kann.
-- [Massenentfernung](/history/大罷免) — Was nach der gestrichelten Mehrheitslinie im Sitzbogen geschah: Wie das Parlament ohne Mehrheit zu 31 Entfernungsfällen kam.
+- [Gesundheitsreform](/de/society/medical-care-act) — Die vollständige Geschichte der drei Schichten der Pflegekräftebelastung: Was das Gesetz schreiben kann, was es nicht schreiben kann.
+- [Massenentfernung](/de/history/great-recall-movement-2024) — Was nach der gestrichelten Mehrheitslinie im Sitzbogen geschah: Wie das Parlament ohne Mehrheit zu 31 Entfernungsfällen kam.
 - [Taiwan-Krise der Geburtenrate](/de/society/taiwan-low-birth-rate-crisis) — Wo man ein Haus nicht mehr kauft und kein Kind mehr bekommt: Die andere Seite der Generationengerechtigkeit.
 
 ## Bildnachweise
@@ -350,6 +350,6 @@ Dieser Artikel verwendet 1 Bild unter Creative Commons-Lizenz, im Cache unter `p
 
 [^5]: [Zentraler Wahlsrat: Volksabstimmung 2018, Fall 16 (PDF)](https://web.cec.gov.tw/api/file/0132581c-18b5-4951-bc24-3cc083924666.pdf) — Offizielle Ergebnisse der drei Atomkraft-Volksabstimmungen (59 % / 47 % / 74 % Ja-Anteile). Vollständige Quellenkette siehe [Taiwan und Atomenergie](/de/society/taiwan-nuclear-debate).
 
-[^6]: [Zentrales Nachrichteninstitut: 2024 Parlamentswahlen — Drei Parteien ohne Mehrheit](https://www.cna.com.tw/news/aipl/202401130361.aspx) — Die 113 Sitze (Kuomintang 52, DPP 51, TPP 8, unabhängig 2) sind offiziell vom Zentralen Wahlsrat bestätigt. Vollständige Quellenkette siehe [Massenentfernung](/history/大罷免).
+[^6]: [Zentrales Nachrichteninstitut: 2024 Parlamentswahlen — Drei Parteien ohne Mehrheit](https://www.cna.com.tw/news/aipl/202401130361.aspx) — Die 113 Sitze (Kuomintang 52, DPP 51, TPP 8, unabhängig 2) sind offiziell vom Zentralen Wahlsrat bestätigt. Vollständige Quellenkette siehe [Massenentfernung](/de/history/great-recall-movement-2024).
 
-[^7]: [Ministerium für Gesundheit und Soziales: Standard für Pflegekräftebelastung 2024](https://www.mohw.gov.tw/) — Die drei Schichten der Pflegekräftebelastung in drei Krankenhaus-Typen. Vollständige Quellenkette siehe [Gesundheitsreform](/society/醫療法).
+[^7]: [Ministerium für Gesundheit und Soziales: Standard für Pflegekräftebelastung 2024](https://www.mohw.gov.tw/) — Die drei Schichten der Pflegekräftebelastung in drei Krankenhaus-Typen. Vollständige Quellenkette siehe [Gesundheitsreform](/de/society/medical-care-act).

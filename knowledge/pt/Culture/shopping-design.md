@@ -14,7 +14,7 @@ tags:
     'Ju Si Media Group',
     'Letramento midiático',
   ]
-subcategory: 'Design e Mídia'
+subcategory: '設計與媒體'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-07-13
@@ -35,6 +35,7 @@ relatedDiary: ['2026-07-13-214351-manual']
 translatedFrom: 'Culture/Shopping Design.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:31b89b73d6abd610'
+sourceBodyHash: 'sha256:da4269ea46f7ec77'
 translatedAt: '2026-08-09T21:37:40.600279+00:00'
 ---
 
@@ -159,7 +160,7 @@ Por isso, aquela capa «Design Wanted» é também uma prova. O que ela procura 
 - [Revista Renjian](/pt/culture/renjian-magazine) — A alma de outro tipo de revista de Taiwan, usando fotojornalismo para distinguir e nomear a sociedade marginalizada, duas faces da mesma moeda da revista de design e compras
 - [História da publicidade em Taiwan](/pt/culture/taiwan-advertising-history) — A origem formativa de Huang Wei-rong e Li Hui-zhen, entender como a geração da "publicidade ideológica" trouxe a habilidade de contar histórias para as revistas
 - [Cerimônia do chá e estética de vida em Taiwan](/pt/culture/taiwan-tea-ceremony-and-aesthetic-living) — Como a estética de vida cresceu em Taiwan até se tornar um cotidiano que pode ser discutido e comprado
-- [Nieh Yung-chen](/people/聶永真) — No mesmo contexto do design de Taiwan, outro nome que levou o design ao público
+- [Nieh Yung-chen](/pt/people/nieh-yung-jen) — No mesmo contexto do design de Taiwan, outro nome que levou o design ao público
 
 ## Fontes das imagens
 

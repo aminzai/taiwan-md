@@ -17,7 +17,7 @@ tags:
     'cá linh hồn',
     'Venezia Biennale',
   ]
-subcategory: 'nghệ thuật truyền thông mới'
+subcategory: '新媒體藝術'
 author: 'Taiwan.md Contributors'
 translatedFrom: 'People/吳哲宇.md'
 sourceCommitSha: '4b6d28c54'
@@ -338,10 +338,10 @@ Thợ đồng hồ tiếp tục bước. Cơ cấu đồng hồ tiếp tục qua
 ## Đọc Mở Rộng
 
 - **[FAB DAO Với Kế Hoạch Trăm Đỉnh](/vi/art/fab-dao/)** — Dòng tích lũy công sinh tự trị NFT công ích Ngô Triết Vũ cùng tạo lập hoàn chỉnh
-- **[Nghệ Thuật Truyền Thông Mới Đài Loan](/art/台灣新媒體藝術)** — Từ Viên Quảng Minh, Hoàng Tâm Kiến tới Ngô Triết Vũ, bốn mươi năm hệ thống nghệ thuật truyền thông mới Đài Loan
-- **[Vương Tân Nhân (A Loạn)](/art/王新仁)** — Cùng sở hữu Art Blocks sớm kỹ sư Đài Loan, cốt lõi cùng nhóm Kế Hoạch Trăm Đỉnh
-- **[Vương Liên Thắng (Tôm Cha)](/art/王連晟)** — Người giành giải Ánh Chiếu 2017 điêu khắc hạng, kỹ sư trang trí âm thanh Kế Hoạch Trăm Đỉnh cùng nhóm
-- **[Taiwan.md Viết Taiwan.md](/about/taiwan-md)** — Kho dữ liệu mã nguồn mở anh phát động 2026 năm, tự thuần ngôn thứ nhất tạo thành dòng lớn lên
+- **[Nghệ Thuật Truyền Thông Mới Đài Loan](/vi/art/taiwan-new-media-art)** — Từ Viên Quảng Minh, Hoàng Tâm Kiến tới Ngô Triết Vũ, bốn mươi năm hệ thống nghệ thuật truyền thông mới Đài Loan
+- **[Vương Tân Nhân (A Loạn)](/vi/art/wang-hsin-jen-artist)** — Cùng sở hữu Art Blocks sớm kỹ sư Đài Loan, cốt lõi cùng nhóm Kế Hoạch Trăm Đỉnh
+- **[Vương Liên Thắng (Tôm Cha)](/vi/art/wang-lien-cheng-artist)** — Người giành giải Ánh Chiếu 2017 điêu khắc hạng, kỹ sư trang trí âm thanh Kế Hoạch Trăm Đỉnh cùng nhóm
+- **[Taiwan.md Viết Taiwan.md](/vi/about/taiwan-md)** — Kho dữ liệu mã nguồn mở anh phát động 2026 năm, tự thuần ngôn thứ nhất tạo thành dòng lớn lên
 
 ## Tài Liệu Tham Chiếu
 

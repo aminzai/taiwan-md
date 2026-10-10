@@ -134,7 +134,7 @@ La evaluación política debe preservar también la voz de los residentes. Los g
 
 Las lecturas complementarias de este artículo pueden seguirse en tres direcciones: información de prevención de daños por calor de la Administración de Promoción de la Salud, materiales de adaptación climática y política energética del Ministerio de Ambiente, y planes públicos de ahorro residencial y renovación de electrodomésticos de gobiernos locales. Al leer, debe distinguirse entre «anuncio político», «resultado de investigación» y «propuesta de este artículo», tres niveles de evidencia distintos, para evitar malinterpretar un subsidio de un solo año o una encuesta de caso como tendencia nacional a largo plazo.
 
-- [Quién cuenta como bajo salario](/society/誰算低薪) — La otra vara de medir la pobreza: el salario mínimo defendió el sueldo base, el bajo salario se coló en la columna de fin de año y en las industrias sin bono
+- [Quién cuenta como bajo salario](/es/society/who-counts-as-low-wage) — La otra vara de medir la pobreza: el salario mínimo defendió el sueldo base, el bajo salario se coló en la columna de fin de año y en las industrias sin bono
 
 ## Referencias
 

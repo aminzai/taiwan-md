@@ -208,7 +208,7 @@ Na próxima vez que você ouvir um saxofone, os metais de uma banda escolar ou u
 - [Cidade de Taichung](/pt/geography/taichung-city) — saxofones de Houli, mecanismos musicais de Wufeng e linhas de percussão de Tantzu: racionalidades industriais distintas numa mesma cidade
 - [Cidade de Kaohsiung](/pt/geography/kaohsiung-city) — coordenadas geográficas do reino dos violões da zona de processamento de Nanzih e da memória de seu fechamento
 - [Música tradicional taiwanesa](/pt/music/taiwanese-traditional-chinese-orchestra-music) — outra linha de fabricação de instrumentos, marcada pela ascensão e queda das oficinas de instrumentos tradicionais e pela abertura das relações entre os dois lados do estreito, apenas mencionada de passagem neste artigo
-- [A indústria musical de Taiwan na era do streaming](/music/台灣音樂產業與串流時代) — comparação estrutural entre a fabricação e as áreas de conteúdo e direitos autorais
+- [A indústria musical de Taiwan na era do streaming](/pt/music/taiwan-music-industry-and-the-streaming-era) — comparação estrutural entre a fabricação e as áreas de conteúdo e direitos autorais
 
 ## Fontes das imagens
 

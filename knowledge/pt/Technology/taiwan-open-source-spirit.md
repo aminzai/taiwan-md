@@ -12,7 +12,7 @@ tags:
     'Tecnologia cívica',
     'Software livre',
   ]
-subcategory: 'Comunidade e Cultura Digital'
+subcategory: '社群與數位文化'
 author: 'p3nchan'
 featured: false
 lastVerified: 2026-03-29
@@ -21,6 +21,7 @@ readingTime: 8
 translatedFrom: 'Technology/台灣開源精神.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:d044abffde5fb58e'
+sourceBodyHash: 'sha256:98feb4bab36f053f'
 translatedAt: '2026-07-25T06:57:15.502613+00:00'
 ---
 
@@ -128,7 +129,7 @@ O código aberto em Taiwan nunca foi apenas assunto da comunidade técnica. É u
 ## Leitura adicional
 
 - [Comunidade open source e g0v](/pt/technology/open-source-and-g0v) — fork da narrativa coletiva do governo
-- [História da migração das comunidades online de Taiwan](/technology/台灣網路社群遷徙史) — História geracional do BBS ao Discord
+- [História da migração das comunidades online de Taiwan](/pt/technology/taiwan-online-community-migration) — História geracional do BBS ao Discord
 - [Mini Taiwan Pulse](/pt/technology/mini-taiwan-pulse-civic-tech) — A abordagem open source pessoal da tecnologia cívica, seis semanas e 193 commits transformando dados abertos em trilhas de luz 3D
-- [As Espadas Gêmeas da Softstar](/technology/大宇雙劍) — Outra "história de Taiwan sobre fazer coisas que superam a escala com paixão" (RPG nascido no Guanghua Market)
+- [As Espadas Gêmeas da Softstar](/pt/technology/softstar-twin-classics) — Outra "história de Taiwan sobre fazer coisas que superam a escala com paixão" (RPG nascido no Guanghua Market)
 - [Como se pode dormir sem entrar no porão?](/pt/technology/into-the-cellar-taiwan-game-podcast) — Comunidade de jogadores de 6 milhões de membros nascida nos dormitórios da Universidade Central

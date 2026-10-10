@@ -14,7 +14,7 @@ tags:
     'Sejarah Industri',
     'Industrialisasi',
   ]
-subcategory: 'Pembangunan Ekonomi'
+subcategory: '經濟發展'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20
@@ -22,6 +22,7 @@ lastHumanReview: false
 translatedFrom: 'Economy/台灣造船業.md'
 sourceCommitSha: '60e991e02'
 sourceContentHash: 'sha256:1d40bc3d04d5d44b'
+sourceBodyHash: 'sha256:818b90ddb26bb8d5'
 translatedAt: '2026-09-14T18:20:14.706351+00:00'
 ---
 

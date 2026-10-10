@@ -14,7 +14,7 @@ tags:
     'Universidade Chung Cheng',
     'Universidade Chi Nan',
   ]
-subcategory: 'Educação e Sociedade'
+subcategory: '教育與社會'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-25

@@ -102,7 +102,7 @@ Desde la abolición de la Ley de Cine en 1993 hasta la actualidad, el sistema de
 
 [^8]: [El imperio de los sentidos - Registro de la controversia de su estreno en Taiwán](https://zh.wikipedia.org/zh-tw/%E6%84%9F%E5%AE%98%E4%B8%96%E7%95%8C) — Sobre el debate entre arte y pornografía provocado por el estreno de esta película en Taiwán en 1999.
 
-[^9]: [Lust, Caution (película) - Wikipedia](<https://zh.wikipedia.org/zh-tw/%E8%89%B2%EF%BC%8C%E6%88%92_(%E9%9B%BB%E5%BD%B1)>) — Registro de la clasificación de Lust, Caution como restringida en Taiwán.
+[^9]: [Lust, Caution (película) - Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%89%B2%EF%BC%8C%E6%88%92_(%E9%9B%BB%E5%BD%B1) — Registro de la clasificación de Lust, Caution como restringida en Taiwán.
 
 [^10]: [Portal de consulta de clasificación de software de entretenimiento digital](https://www.gamerating.org.tw/) — Plataforma oficial de la Dirección General de Industria Digital del Ministerio de Desarrollo Digital.
 

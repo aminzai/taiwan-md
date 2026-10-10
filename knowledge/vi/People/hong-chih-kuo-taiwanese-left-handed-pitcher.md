@@ -4,7 +4,7 @@ description: 'Sinh ngày 23 tháng 7 năm 1981, Kuo Hong-chih là cầu thủ th
 date: 2026-03-19
 category: 'People'
 tags: ['Thể thao', 'Bóng chày', 'MLB', 'Đội Dodgers', 'Left-handed pitcher']
-subcategory: 'Thể thao'
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

@@ -4,7 +4,7 @@ description: "Festival Zhongyuan di Taiwan bukan sekadar bentuk penghormatan ter
 date: 2026-07-20
 author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: 'Festival dan Tradisi'
+subcategory: '節慶與禮俗'
 tags:
   [
     'Pujamu Zhongyuan',
@@ -77,7 +77,7 @@ Festival Zhongyuan mengingatkan kita bahwa perdamaian di pulau ini bukanlah sesu
 ## Bacaan Lanjutan
 
 - [Bulan Ketujuh Kalender Lunar](/id/culture/lunar-july-ghost-month) — Ritme sosial selama bulan hantu
-- [Festival Dongzhi](/culture/端午節) — Bagaimana perlengkapan festival dilokalisasi di Taiwan
+- [Festival Dongzhi](/id/culture/dragon-boat-festival) — Bagaimana perlengkapan festival dilokalisasi di Taiwan
 
 ## Referensi
 

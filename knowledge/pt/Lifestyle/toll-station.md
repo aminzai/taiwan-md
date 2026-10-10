@@ -29,6 +29,7 @@ relatedArticles: ['Lifestyle/高速公路', 'Lifestyle/台灣交通系統']
 translatedFrom: 'Lifestyle/收費站.md'
 sourceCommitSha: '09ffe560f'
 sourceContentHash: 'sha256:cffdc6c150dee65c'
+sourceBodyHash: 'sha256:6af77751f6cfb762'
 translatedAt: '2026-09-24T19:38:31.767929+00:00'
 ---
 
@@ -102,7 +103,7 @@ Essa demissão acabou gerando uma história de luta que durou onze anos inteiros
 
 Em 2016, após ficarem de pé por mais de trinta horas diante da sede do DPP, finalmente alcançaram um acordo com o novo governo, mas depois o acordo encolheu. Em 19 de dezembro de 2019, o Tribunal Administrativo Superior de Taipé decidiu contra eles em primeira instância; a presidente da associação de autoajuda, Sun Xiu-luan, chorou no local: "Realmente não há como aceitar este resultado", acusando o tribunal de "pisotear a boa-fé do governo"[^23].
 
-Recorreram então ao Supremo Tribunal Administrativo, que devolveu o caso para novo julgamento; por fim, em 30 de dezembro de 2024, foi firmada a mediação e conciliação, exatamente onze anos após o dia da demissão, na mesma data do calendário; em 15 de fevereiro de 2025, realizaram um banquete de 20 mesas em Kaohsiung para celebrar o fim da luta[^24]. Essa linha do tempo completa de onze anos já foi detalhada no artigo irmão [Autoestrada](/lifestyle/高速公路). Lá estão os seis passos e um joelho, a procissão de rostos azuis, a escalada do portal ETC, e a análise de que "uma promessa política não cumprida e se isso constitui um contrato administrativo em termos legais são duas coisas diferentes"; os leitores podem ler diretamente lá.
+Recorreram então ao Supremo Tribunal Administrativo, que devolveu o caso para novo julgamento; por fim, em 30 de dezembro de 2024, foi firmada a mediação e conciliação, exatamente onze anos após o dia da demissão, na mesma data do calendário; em 15 de fevereiro de 2025, realizaram um banquete de 20 mesas em Kaohsiung para celebrar o fim da luta[^24]. Essa linha do tempo completa de onze anos já foi detalhada no artigo irmão [Autoestrada](/pt/lifestyle/national-highway-system). Lá estão os seis passos e um joelho, a procissão de rostos azuis, a escalada do portal ETC, e a análise de que "uma promessa política não cumprida e se isso constitui um contrato administrativo em termos legais são duas coisas diferentes"; os leitores podem ler diretamente lá.
 
 A própria presidente da associação de autoajuda, Sun Xiu-luan, diz melhor do que qualquer resumo de outsider: "Usam os cobradores até o fim e depois os descartam; tratar trabalhadores assim é injusto e irracional."[^25]
 
@@ -126,7 +127,7 @@ As três cabines estão alinhadas ao longo da rodovia: pode olhar, não pode par
 
 ## Leitura complementar
 
-- [Autoestradas](/lifestyle/高速公路) — Cinquenta anos das rodovias nacionais de Taiwan: poder e velocidade, incluindo a seção "Onze anos, em troca de um acordo que não pode ser tornado público", que narra integralmente a história da luta dos cobradores de pedágio
+- [Autoestradas](/pt/lifestyle/national-highway-system) — Cinquenta anos das rodovias nacionais de Taiwan: poder e velocidade, incluindo a seção "Onze anos, em troca de um acordo que não pode ser tornado público", que narra integralmente a história da luta dos cobradores de pedágio
 - [Sistema de transporte de Taiwan](/pt/lifestyle/transportation-system) — O panorama geral do transporte, das rodovias nacionais, trem-bala, metrô até as estradas locais
 
 ---

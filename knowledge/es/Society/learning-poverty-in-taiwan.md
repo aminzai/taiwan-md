@@ -181,7 +181,7 @@ El primer paso es reconocer: **los promedios PISA de Taiwán son reales; 571 vs 
 - Crisis demográfica juvenil en Taiwán: La pobreza del aprendizaje y la baja natalidad no son el mismo problema, pero ocurren simultáneamente en las áreas rurales: a medida que disminuyen los estudiantes, se reducen las escuelas y se concentran más los recursos, la proporción de pobreza del aprendizaje entre los niños restantes es en realidad mayor.
 - [Expansión y retirada de la educación superior en Taiwán](/es/society/taiwan-higher-education-expansion-and-decline): Después de que la popularización de la educación superior dejó de ser un obstáculo para "ser admitido en la universidad", la brecha de "lo aprendido" se convirtió en el siguiente muro.
 - Sistema educativo y cultura de exámenes: La cultura taiwanesa, que ve la educación superior como la única vía, deja a los niños con pobreza del aprendizaje sin casi ninguna otra opción dentro del sistema.
-- [¿Quién cuenta como bajo salario?](/society/誰算低薪): Otra pregunta de definición: la Oficina Nacional de Estadísticas calcula el bajo salario en base al sueldo mensual (cero personas) o al salario anual (1.26 millones de personas), y la diferencia radica en la columna del bono de fin de año que no se puede regular legalmente.
+- [¿Quién cuenta como bajo salario?](/es/society/who-counts-as-low-wage): Otra pregunta de definición: la Oficina Nacional de Estadísticas calcula el bajo salario en base al sueldo mensual (cero personas) o al salario anual (1.26 millones de personas), y la diferencia radica en la columna del bono de fin de año que no se puede regular legalmente.
 
 ## Referencias
 

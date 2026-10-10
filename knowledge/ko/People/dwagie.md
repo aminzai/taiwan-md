@@ -18,7 +18,7 @@ tags:
   - '타이난'
   - '다즈'
   - '런런유궁롄'
-subcategory: '음악과 공연'
+subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-10

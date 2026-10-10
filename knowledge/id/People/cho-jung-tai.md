@@ -219,7 +219,7 @@ Dan mayoritas biru-putih di legislatif tidak benar-benar menggulingkan kabinet. 
 
 - [Lai Ching-te](/id/people/lai-ching-te) — Orang yang menempatkan Cho Jung-tai sebagai Kepala Kabinet, dari putra pekerja tambang hingga presiden ke-16 Republik Tiongkok (Taiwan)
 - [Hsaio Bi-khim](/id/people/hsiao-bi-khim) — Wakil Presiden yang menyerahkan cap jempol kepada Cho Jung-tai dalam upacara serah terima pada 20 Mei, dari Duta Besar AS kembali ke Taipei
-- [Zheng Shijun](/people/鄭麗文) — Ketua Partai Keadaulatan yang berbicara kepada Xi Jinping di Peking pada April 2026, salah satu lawan politik yang menyumbangkan pemblokiran 1,25 triliun
+- [Zheng Shijun](/id/people/cheng-li-wun) — Ketua Partai Keadaulatan yang berbicara kepada Xi Jinping di Peking pada April 2026, salah satu lawan politik yang menyumbangkan pemblokiran 1,25 triliun
 - [Pertahanan dan Modernisasi Militer Taiwan](/id/society/taiwan-defense-modernization) — "Tiga bola bagus" Cho Jung-tai, anggaran khusus 1,25 triliun, dan konteks kebijakan lengkap "Perisai Taiwan"
 - [Negara-negara Sahabat dan Diplomasi Internasional Taiwan](/id/society/taiwan-diplomatic-allies-and-international-relations) — Kerjasama tarif AS-Taiwan 2026, kerangka diplomasi Trump kedua, variabel eksternal terbesar kabinet Cho
 

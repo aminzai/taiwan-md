@@ -4,7 +4,13 @@ description: 'تأسست NET عام 1991، وبدأت من مخزون التصد
 date: 2026-07-22
 category: 'Economy'
 tags:
-  ['NET، علامة تايوانية، صناعة الأزياء، مؤسسة اجتماعية، ساحة كيلونغ الشرقية']
+  [
+    'NET',
+    'علامة تايوانية',
+    'صناعة الأزياء',
+    'مؤسسة اجتماعية',
+    'ساحة كيلونغ الشرقية',
+  ]
 subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
 featured: false

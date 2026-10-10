@@ -41,6 +41,7 @@ relatedDiary: ['2026-07-26-202803-manual']
 translatedFrom: 'Technology/台灣鎢供應鏈.md'
 sourceCommitSha: 'd6fdcf866'
 sourceContentHash: 'sha256:cdcf37b0b24fd05b'
+sourceBodyHash: 'sha256:0ba20d6588799dfb'
 translatedAt: '2026-09-25T02:36:05.545501+00:00'
 ---
 

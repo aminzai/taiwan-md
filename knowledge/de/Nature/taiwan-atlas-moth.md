@@ -96,15 +96,15 @@ Auch die Fortpflanzungsstrategie des Atlasmotten ist besonders: Sie paaren sich 
 
 ## Referenzen
 
-[^1]: [iNaturalist Beobachtungen des Taiwan-Atlasmotten](https://taiwan.inaturalist.org/taxa/125071-Attacus-atlas) — – Sichtungsdaten und Verbreitung von Atlasmotte in Taiwan
+[^1]: [iNaturalist Beobachtungen des Taiwan-Atlasmotten](https://catalog.digitalarchives.tw/item/00/5b/8e/5c.html) — – Sichtungsdaten und Verbreitung von Atlasmotte in Taiwan
 
-[^2]: [Taiwan Biodiversity Network (TBN)](https://www.tbn.org.tw/) — – Datenbank der Atlasmotte und Probenmaterialien
+[^2]: [Taiwan Biodiversity Network (TBN)](https://taieol.tw/pages/107777) — – Datenbank der Atlasmotte und Probenmaterialien
 
-[^3]: [Ministerium für Landwirtschaft, Forst- und Naturschutz](https://www.forest.gov.tw/) — – Richtlinien und Ressourcen zum Schutz von Schmetterlingen in Taiwan
+[^3]: [Ministerium für Landwirtschaft, Forst- und Naturschutz](https://news.ltn.com.tw/news/Taipei/breakingnews/5520373) — – Richtlinien und Ressourcen zum Schutz von Schmetterlingen in Taiwan
 
-[^4]: [Atlasmotte - Wikipedia](https://zh.wikipedia.org/zh-tw/皇蛾) — – Beschreibung der Morphologie, Verbreitung und Ökologie des Atlasmotten
+[^4]: [Atlasmotte - Wikipedia](https://www.nhm.ac.uk/discover/spotlight-the-atlas-moth.html) — – Beschreibung der Morphologie, Verbreitung und Ökologie des Atlasmotten
 
-[^5]: [Attacus atlas - Picture Insect](https://pictureinsect.com/zh-tw/wiki/Attacus_atlas.html) — – Lebensgeschichte und Erkennungsmerkmale des Atlasmotten
+[^5]: [Attacus atlas - Picture Insect](https://en.wikipedia.org/wiki/Attacus_atlas) — – Lebensgeschichte und Erkennungsmerkmale des Atlasmotten
 
 Weiterführende Lektüre:
 

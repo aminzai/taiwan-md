@@ -34,6 +34,7 @@ rationale:
 translatedFrom: 'Technology/台灣網路社群遷徙史.md'
 sourceCommitSha: '56f4d6f85'
 sourceContentHash: 'sha256:a4422796c61c1b2e'
+sourceBodyHash: 'sha256:b5c758f914dccaf4'
 translatedAt: '2026-09-25T12:39:08.646105+00:00'
 ---
 
@@ -160,7 +161,7 @@ LINE की सेवा की शर्तों की धारा 4.7 इ�
 - [Facebook ताइवान में](/hi/technology/facebook-in-taiwan)
 - [Threads ताइवान में — 11 मिनट 31 सेकंड के साथ फ्रैगाइल](/hi/technology/threads-in-taiwan)
 - [Instagram ताइवान में](/hi/technology/instagram-in-taiwan)
-- [मिन Miin — 2026 में 「走了走了我們去 miin」का सुरक्षित बंदरगाह](/technology/迷音Miin)
+- [मिन Miin — 2026 में 「走了走了我們去 miin」का सुरक्षित बंदरगाह](/hi/technology/miin-music-app)
 
 ---
 

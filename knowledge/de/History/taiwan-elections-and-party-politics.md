@@ -26,6 +26,7 @@ updateLog:
 translatedFrom: 'History/台灣選舉與政黨政治.md'
 sourceCommitSha: '9cef725ce'
 sourceContentHash: 'sha256:e16b55988a799eab'
+sourceBodyHash: 'sha256:cf2cbcf164430410'
 translatedAt: '2026-09-26T05:14:51.414217+00:00'
 ---
 
@@ -223,14 +224,14 @@ Bemerkenswert ist, dass das 2008 eingeführte Einergebiet-Zwei-Stimmen-System de
 
 - [Chen Zhizhong](/de/people/chen-chih-chung) — Wie die „Ausschlussbedingung" in Artikel 26 des Wahlgesetzes funktioniert und wo die von ihr Ausgeschlossenen hingingen — ein konkretes Beispiel
 - [Taiwans demokratische Transformation](/de/history/taiwan-democratization) — Das vollständige Bild der vierzigjährigen Transformation vom Kriegsrecht zur Aufhebung des Kriegsrechts
-- [Schöne-Insel-Vorfall](/history/美麗島事件) — Die Nacht 1979, die Taiwans Schicksal veränderte
+- [Schöne-Insel-Vorfall](/de/history/kaohsiung-incident-formosa-incident) — Die Nacht 1979, die Taiwans Schicksal veränderte
 - [Kriegsrecht-Periode](/de/history/martial-law-era) — Wie das achtunddreißig Jahre andauernde Kriegsrecht die taiwanische Gesellschaft formte
 - [Taiwans-Zukunfts-Entschließung](/de/history/resolution-on-taiwans-future) — Die Linientransformation der Demokratischen Fortschrittspartei von der Taiwan-Unabhängigkeits-Parteilinie zur Zukunftsentschließung und wie sie die Wahlpolitik Taiwans neu schrieb
 - [Großes Abberufungsverfahren](/de/history/great-recall-movement-2024) — Der vollständige Kontext der größten Abberufungsaktion der Zivilgesellschaft 2025
 - [Neun-in-eins-Wahl 2026](/society/2026九合一選舉) — Wahlkampfaufstellung in 22 Bezirken und Institutionentests
 - [Was ist die Neun-in-eins-Wahl](/de/politics/nine-in-one-elections-explained) — Institutionelle Erklärung der Neun-in-eins-Wahl für lokale Ämter
 - [Dorf- und Bezirksleitersystem](/de/politics/village-chief-system) — Die unterste Ebene der gewählten Ämter in Taiwan
-- [Ratssystem](/politics/議員制度) — Institutionelle Entwicklung von Bezirksräten und Stadträten
+- [Ratssystem](/de/politics/city-councilor-system-taiwan) — Institutionelle Entwicklung von Bezirksräten und Stadträten
 - [Politik-Hub](/politics) — Überblick über Taiwans politische Umgebung
 
 ## Referenzen

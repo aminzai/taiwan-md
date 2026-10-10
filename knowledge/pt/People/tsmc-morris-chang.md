@@ -401,7 +401,7 @@ O valor de mercado da TSMC ultrapassou pela primeira vez os 10 trilhões de dól
 - [Shi Zhenrong](/pt/people/stan-shih) — O fundador da Acer que serviu como diretor da TSMC por 21 anos e autor da "curva sorridente"; a "manufatura intermediária" feita pela TSMC é exatamente a parte mais valiosa dessa curva, que todos esperavam que desabar
 - [Guo Taiqing](/pt/people/terry-gou) — Outro empreendedor taiwanês que mudou o mundo com o modelo de terceirização, a manufatura de montagem da Foxconn e a fabricação de wafers da TSMC são os dois caminhos pelos quais Taiwan levou sua produção ao mundo
 - [Indústria de semicondutores](/pt/technology/taiwan-semiconductor-industry) — Desde a transferência tecnológica da RCA em 1976 até a "montanha protetora", o campo de batalha inteiro que Zhang levou Taiwan a entrar
-- [Huang Zhongcheng](/people/黃崇仁) — A pessoa que procurou Zhang quando a Force Semiconductor quase foi absorvida pela United Semiconductor no final dos anos 1990, tomando um caminho ainda mais perigoso na indústria de semicondutores de Taiwan
+- [Huang Zhongcheng](/pt/people/frank-huang-psmc) — A pessoa que procurou Zhang quando a Force Semiconductor quase foi absorvida pela United Semiconductor no final dos anos 1990, tomando um caminho ainda mais perigoso na indústria de semicondutores de Taiwan
 - [Transformação e upgrade industrial de Taiwan](/pt/economy/industrial-transformation-from-manufacturing-to-innovation) — A TSMC é o caso mais concreto de como Taiwan evoluiu de "ilha da terceirização" para "ilha da tecnologia", e também o ponto central dessa transformação de quarenta anos
 
 ---

@@ -19,7 +19,7 @@ tags:
     'TSMC',
     '22 series tỉnh/thành phố',
   ]
-subcategory: 'tỉnh/thành phố'
+subcategory: '縣市'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-18

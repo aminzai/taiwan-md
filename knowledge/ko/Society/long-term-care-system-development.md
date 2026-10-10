@@ -3,7 +3,7 @@ title: '대만 장기요양제도의 발전'
 description: '세계에서 가장 선진적인 장기요양제도를 갖추고 있으면서, 동시에 가장 거대한 비공식 돌봄 체계가 공존하는 나라'
 date: 2026-03-22
 tags: [장기요양, 고령화, 외국인 돌봄노동자, 장기요양 2.0, 제도적 모순]
-subcategory: '사회복지'
+subcategory: '社會福利'
 category: 'Society'
 author: 'Taiwan.md'
 readingTime: 8

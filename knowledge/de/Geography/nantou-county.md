@@ -245,13 +245,13 @@ Nach den 102 Sekunden um 01:47 Uhr wurde Nantou nicht zu einer Ruine. Es ist zu 
 
 ## Weiterführende Lektüre
 
-- [Sun Moon Lake](/geography/日月潭) — Die vollständige Geschichte des Wujie-Staudamms von 1934: Anhebung des Sees um 18,18 Meter, die größte Wasserkraftanlage Asiens und die Umsiedlung der Tao.
-- [Yushan](/geography/玉山) — Der höchste Gipfel Taiwans mit 3.952 Metern; der Yushan National Park erstreckt sich über Xinyi (Nantou), Alishan (Chiayi), Taoyuan (Kaohsiung) und Zhuoxi (Hualien).
-- [Geschichte und Anerkennungsbewegung der indigenen Völker Taiwans](/history/台灣原住民族歷史與正名運動) — Der nationale Kontext der Tao-Anerkennung als zehnte Nation im Jahr 2001, Taroko im Jahr 2004 und Seediq im Jahr 2008.
+- [Sun Moon Lake](/de/geography/sun-moon-lake) — Die vollständige Geschichte des Wujie-Staudamms von 1934: Anhebung des Sees um 18,18 Meter, die größte Wasserkraftanlage Asiens und die Umsiedlung der Tao.
+- [Yushan](/de/geography/yushan-jade-mountain) — Der höchste Gipfel Taiwans mit 3.952 Metern; der Yushan National Park erstreckt sich über Xinyi (Nantou), Alishan (Chiayi), Taoyuan (Kaohsiung) und Zhuoxi (Hualien).
+- [Geschichte und Anerkennungsbewegung der indigenen Völker Taiwans](/de/history/indigenous-peoples-history-and-naming-movement) — Der nationale Kontext der Tao-Anerkennung als zehnte Nation im Jahr 2001, Taroko im Jahr 2004 und Seediq im Jahr 2008.
 - [Pasibutbut](/de/music/bunun-pasibutbut-eight-part-polyphony) — Die Wahrheit über das Pasibutbut: Es wird nur von den Bunun-Clans Luan und Jun weitergegeben; der Clan Mingde.
-- [Prähistorische Zeit und indigene Völker](/history/史前時代與原住民) — Der Zeithorizont, in dem Seediq, Bunun, Tao und Zou tausende Jahre im zentralen Gebirge lebten.
-- [Keelung City](/geography/基隆市) — Pilotstudie der 22 Bezirke: Wie der größte Containerhafen Taiwans von 1984 zu Hafen Nr. 113 im Jahr 2018 wurde, ein Bezirk, der wie Nantou vom zentralen Narrativ vergessen wurde.
-- [Miaoli County](/geography/苗栗縣) — Ein Nachbarbezirk in der Serie der Inlandregionen: Hakka-Härte vs. doppelte Schulden des Bezirkskassen; steht vor den gleichen Herausforderungen wie Nantou – „Landflucht + politisches Theater“.
+- [Prähistorische Zeit und indigene Völker](/de/history/prehistoric-era-and-indigenous-peoples) — Der Zeithorizont, in dem Seediq, Bunun, Tao und Zou tausende Jahre im zentralen Gebirge lebten.
+- [Keelung City](/de/geography/keelung-city) — Pilotstudie der 22 Bezirke: Wie der größte Containerhafen Taiwans von 1984 zu Hafen Nr. 113 im Jahr 2018 wurde, ein Bezirk, der wie Nantou vom zentralen Narrativ vergessen wurde.
+- [Miaoli County](/de/geography/miaoli-county) — Ein Nachbarbezirk in der Serie der Inlandregionen: Hakka-Härte vs. doppelte Schulden des Bezirkskassen; steht vor den gleichen Herausforderungen wie Nantou – „Landflucht + politisches Theater“.
 
 ## Bildquellen
 

@@ -3,7 +3,7 @@ title: '台湾魯肉飯（ルーローファン）'
 description: '眷村のキッチンから国民的コンフォートフードへ、魯肉飯の「南北論争」と文化的アイデンティティを探る'
 date: 2026-03-19
 tags: ['魯肉飯', '肉燥飯', '眷村料理', '国民食', '南北の差異']
-subcategory: 'エスニックフード'
+subcategory: '族群飲食'
 author: 'Taiwan.md'
 readingTime: 8
 featured: true

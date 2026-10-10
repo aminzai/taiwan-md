@@ -106,7 +106,7 @@ Diese Ungewissheit ist kein Mangel der Geschichte, sondern eine Bedingung des de
 **Weiterführende Lektüre:**
 
 - [Taiwan YouTuber Industrie und Kultur](/de/culture/taiwan-youtuber-industry) — Ergänzt den langfristigen Hintergrund der taiwanesischen Online-Medienindustrie von Cai Aga bis zum Goldenen-Bell-Award (Songzhong Award) und VTuber.
-- [Tseng Bo-en](/people/曾博恩) — Eine weitere Route eines taiwanesischen Schöpfers, die vom Online-Content zu öffentlichen Themen und Bühnenauftritten führt.
+- [Tseng Bo-en](/de/people/bernard-tseng) — Eine weitere Route eines taiwanesischen Schöpfers, die vom Online-Content zu öffentlichen Themen und Bühnenauftritten führt.
 - [Offizielle Website des Goldenen-Bell-Awards (Songzhong Award)](https://walkbelljohn.com/) — Verfolgt die nachfolgende organisatorische Entwicklung der Kreativpreise in Taiwan.
 
 ## Quellenverzeichnis

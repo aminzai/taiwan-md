@@ -29,6 +29,7 @@ imageSource: 'https://www.heath.tw/nml-issue/trial-issue-of-no-mans-land/'
 translatedFrom: Art/數位荒原.md
 sourceCommitSha: a74c440b3
 sourceContentHash: 'sha256:f2c768fcf8a22317'
+sourceBodyHash: 'sha256:7bfa784449cb0cb6'
 translatedAt: 2026-09-09T21:12:14+08:00
 ---
 
@@ -171,7 +172,7 @@ _September 2017, Lahan Digital Edisi 34 "Hermeneutika Nusantara" (Hermeneutics o
 - [Zheng Wenqi](/id/people/cheng-wen-chi) — 12 tahun praktik kepulauan editor Lahan Digital: dari penulis kontribusi "Yishu Zazhi" hingga pendiri "Arsip Nusantara"
 - [Seni Kontemporer](/id/art/contemporary-art) — Peta wacana seni kontemporer Taiwan, posisi Lahan Digital sebagai platform kurasi perspektif selatan
 - [Seni Media Baru Taiwan](/id/art/taiwan-new-media-art) — Silsilah media baru Taiwan dari ET@T (1995) hingga Digital Arts Foundation (2008)
-- [Wang Furui](/people/王福瑞) — Pendiri pada 1993 majalah NOISE, editor media cetak prototipe musik eksperimental Taiwan, terhubung dengan darah badan induk hosting Lahan Digital
+- [Wang Furui](/id/people/fujui-wang) — Pendiri pada 1993 majalah NOISE, editor media cetak prototipe musik eksperimental Taiwan, terhubung dengan darah badan induk hosting Lahan Digital
 - [Taiwan Kurator dan Konstruksi Budaya Seni](/id/art/taiwanese-curators-and-artistic-cultural-construction) — Silsilah kurator Taiwan, Zheng Wenqi sebagai kasus "jaringan residency kurasi lintas-negara"
 
 ## Sumber Gambar

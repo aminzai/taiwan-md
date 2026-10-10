@@ -14,7 +14,7 @@ tags:
     'DOMO',
     'trò chơi Đài Loan',
   ]
-subcategory: 'Cộng đồng và Văn hóa Số hóa'
+subcategory: '社群與數位文化'
 author: 'zaious'
 featured: false
 lastVerified: 2026-04-23
@@ -257,11 +257,11 @@ Cửa sổ DOS đó đã đóng ba mươi năm rồi. Nhưng chiều chiều đ�
 
 ## Đọc Thêm
 
-- [Ngành Công Nghiệp Trò Chơi Đài Loan Và Giải Trí Kỹ Thuật Số](/technology/ngành-công-nghiệp-trò-chơi-đài-loan-và-giải-trí-kỹ-thuật-số) — Toàn cảnh ngành công nghiệp trò chơi Đài Loan từ đại lý đến bản gốc
-- [Tinh Thần Mã Nguồn Mở Đài Loan](/technology/tinh-thần-mã-nguồn-mở-đài-loan) — Câu chuyện Đài Loan khác "sử dụng đam mê để làm vượt quá quy mô"
-- [Không Vào Hầm Hạ Rồi Làm Sao Ngủ Được](/technology/không-vào-hầm-hạ-rồi-làm-sao-ngủ-được) — Cộng đồng người chơi Đài Loan thời đó từ BBS lớn lên thành nền tảng 6 triệu thành viên
-- [Khoảnh Khắc Điên Rồ Của Người Chơi Đài Loan](/technology/khoảnh-khắc-điên-rồ-của-người-chơi-đài-loan) — Sau Hai Thanh Kiếm Đại Vũ, người chơi Đài Loan tiếp tục viết lịch sử cuồng nhiệt tập thể
-- [Lôi A Trò Chơi](/technology/lôi-a-trò-chơi) — Công ty trò chơi Đài Loan thế hệ tiếp theo "dùng mỹ học làm nước" nhưng đi con đường hoàn toàn khác biệt với Đại Vũ
+- [Ngành Công Nghiệp Trò Chơi Đài Loan Và Giải Trí Kỹ Thuật Số](/vi/technology/taiwan-gaming-industry) — Toàn cảnh ngành công nghiệp trò chơi Đài Loan từ đại lý đến bản gốc
+- [Tinh Thần Mã Nguồn Mở Đài Loan](/vi/technology/taiwan-open-source-spirit) — Câu chuyện Đài Loan khác "sử dụng đam mê để làm vượt quá quy mô"
+- [Không Vào Hầm Hạ Rồi Làm Sao Ngủ Được](/vi/technology/into-the-cellar-taiwan-game-podcast) — Cộng đồng người chơi Đài Loan thời đó từ BBS lớn lên thành nền tảng 6 triệu thành viên
+- [Khoảnh Khắc Điên Rồ Của Người Chơi Đài Loan](/vi/technology/taiwan-gamers-wildest-moments) — Sau Hai Thanh Kiếm Đại Vũ, người chơi Đài Loan tiếp tục viết lịch sử cuồng nhiệt tập thể
+- [Lôi A Trò Chơi](/vi/technology/rayark-games) — Công ty trò chơi Đài Loan thế hệ tiếp theo "dùng mỹ học làm nước" nhưng đi con đường hoàn toàn khác biệt với Đại Vũ
 
 ---
 

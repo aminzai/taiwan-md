@@ -166,7 +166,7 @@ Estas aves vivem em Formosa há milénios. 1863 foi o primeiro ano em que **fora
 - **→ [Guerra Franco-Chinesa](/zh-tw/history/清法戰爭)** — Outro encontro de Formosa com o Ocidente no mesmo período, 22 anos depois.
 - **→ [Charles Le Gendre](/zh-tw/people/李仙得)** — Outro ocidental contemporâneo que mudou a narrativa de Formosa, tratou do incidente do Rover em 1867.
 - **→ [Garceta-de-coroa-preta](/zh-tw/nature/黑冠麻鷺)** — O espécime coletado por Swinhoe em Tamsui em 1865 faz parte desta ficha; ave "rara" na época, 160 anos depois tornou-se paisagem quotidiana em campi e parques de Taipé, a continuação mais dramática do catálogo.
-- **→ [Coruja-pescadora-de-Taiwan](/nature/黃魚鴞)** — Uma das espécies que Swinhoe não incluiu no catálogo de 1863; a maior coruja de Taiwan só foi registada pela primeira vez em 1916 por Nagamichi Kuroda, ave residente representativa "encontrada" pela história natural já no final do período japonês.
+- **→ [Coruja-pescadora-de-Taiwan](/pt/nature/tawny-fish-owl)** — Uma das espécies que Swinhoe não incluiu no catálogo de 1863; a maior coruja de Taiwan só foi registada pela primeira vez em 1916 por Nagamichi Kuroda, ave residente representativa "encontrada" pela história natural já no final do período japonês.
 
 ---
 

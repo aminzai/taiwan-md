@@ -229,14 +229,14 @@ Tainan adalah tempat yang pertama kali dijajah, pertama kali mendirikan pemerint
 
 ## Bacaan lanjutan
 
-- [Koxinga](/people/鄭成功) — 30 April 1661 dari Lutung, 23 Juni 1662 meninggal pada usia 38 tahun di Cheng Tian Fu, pendiri pertama pemerintahan Tionghoa
-- [Era Dinasti Ming-Zheng Belanda](/history/荷西明鄭時期) — 60 tahun sejarah lengkap dari benteng Zeelandia hingga Kerajaan Dongning 1624-1683
-- [Peristiwa 228](/history/二二八事件) — latar belakang nasional kematian Huang Dezhang pada 1947
-- [Lai Qingde](/people/賴清德) — walikota pertama setelah penggabungan kabupaten dan kota Tainan pada 2010, menetapkan 13 Maret sebagai Hari Keadilan dan Keberanian pada 2014, dilantik sebagai presiden pada 2024
-- [Danau Danau](/geography/日月潭) — bersama Tainan sebagai landmark di pusat Taiwan, terbangun pada 1934 dan Sistem Irigasi Grand Jiaonan pada 1930 sebagai bagian dari era emas proyek irigasi Jepang
-- [Industri Semikonduktor](/technology/半導體產業) — konteks industri paket sains selatan 2023 1 triliun 5.855 miliar melebihi paket sains pohon
-- [Kota Keelung](/geography/基隆市) — pilot proyek 22 kota: bersama Tainan sebagai pelabuhan laut Dinasti Qing, kota pelabuhan yang terpinggirkan dalam narasi pusat
-- [Kabupaten Nantou](/geography/南投縣) — batch 3 proyek 22 kota: bersama Tainan memiliki sejarah identitas suku asli
+- [Koxinga](/id/people/koxinga) — 30 April 1661 dari Lutung, 23 Juni 1662 meninggal pada usia 38 tahun di Cheng Tian Fu, pendiri pertama pemerintahan Tionghoa
+- [Era Dinasti Ming-Zheng Belanda](/id/history/dutch-spanish-and-koxinga-era) — 60 tahun sejarah lengkap dari benteng Zeelandia hingga Kerajaan Dongning 1624-1683
+- [Peristiwa 228](/id/history/228-incident) — latar belakang nasional kematian Huang Dezhang pada 1947
+- [Lai Qingde](/id/people/lai-ching-te) — walikota pertama setelah penggabungan kabupaten dan kota Tainan pada 2010, menetapkan 13 Maret sebagai Hari Keadilan dan Keberanian pada 2014, dilantik sebagai presiden pada 2024
+- [Danau Danau](/id/geography/sun-moon-lake) — bersama Tainan sebagai landmark di pusat Taiwan, terbangun pada 1934 dan Sistem Irigasi Grand Jiaonan pada 1930 sebagai bagian dari era emas proyek irigasi Jepang
+- [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — konteks industri paket sains selatan 2023 1 triliun 5.855 miliar melebihi paket sains pohon
+- [Kota Keelung](/id/geography/keelung-city) — pilot proyek 22 kota: bersama Tainan sebagai pelabuhan laut Dinasti Qing, kota pelabuhan yang terpinggirkan dalam narasi pusat
+- [Kabupaten Nantou](/id/geography/nantou-county) — batch 3 proyek 22 kota: bersama Tainan memiliki sejarah identitas suku asli
 
 ## Sumber gambar
 

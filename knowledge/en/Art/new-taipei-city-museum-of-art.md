@@ -58,7 +58,7 @@ The "reed thicket" imagery of the new museum may also serve as a metaphor for it
 
 **Further Reading**:
 
-- [Matsu International Art Island](/art/馬祖國際藝術島) — A case study of the same struggle between public cultural investment and actual effectiveness: The Lienchiang County Government's ten-year curatorial plan features uncalculable growth rates in visitor numbers, and its budget has never been made public.
+- [Matsu International Art Island](/en/art/matsu-biennial) — A case study of the same struggle between public cultural investment and actual effectiveness: The Lienchiang County Government's ten-year curatorial plan features uncalculable growth rates in visitor numbers, and its budget has never been made public.
 
 ## References
 

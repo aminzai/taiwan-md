@@ -11,7 +11,7 @@ tags:
     'Human Rights',
     'Social Movements',
   ]
-subcategory: 'Democracy and Governance'
+subcategory: '民主與治理'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-07
@@ -21,7 +21,7 @@ sporeLinks:
     "{'id': 10, 'platform': 'threads', 'date': '2026-04-07', 'url': 'https://www.threads.com/@taiwandotmd/post/DW1ba_tEz5D'}",
   ]
 translatedFrom: 'History/台灣民主轉型.md'
-sourceCommitSha: 'dbaf28954'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:a9330a2eb23d9c97'
 sourceBodyHash: 'sha256:20dd14ee57321b53'
 translatedAt: '2026-07-30T03:36:39.261915+00:00'

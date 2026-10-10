@@ -38,6 +38,7 @@ sporeLinks:
 translatedFrom: 'People/聶永真.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:54a5de1265f2b2ea'
+sourceBodyHash: 'sha256:26e4e11c3e29817a'
 translatedAt: '2026-09-25T01:52:55.045593+00:00'
 ---
 

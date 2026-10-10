@@ -216,9 +216,9 @@ Internal contexts of Chiayi County:
 
 Larger historical coordinates:
 
-- [February 28 Incident](/history/二二八事件) — Taiwan's island-wide political tragedy of 1947; the Tsou coming down the mountain to help maintain order is among its least-told chapters
+- [February 28 Incident](/en/history/228-incident) — Taiwan's island-wide political tragedy of 1947; the Tsou coming down the mountain to help maintain order is among its least-told chapters
 - [Taiwan's White Terror](/en/history/taiwan-white-terror) — The place of Gao Yisheng and Tang Shouren at the Ankeng execution ground in Xindian in 1954
-- [History of Railways in Taiwan](/en/history/TBD-NEEDS-SLUG) — The special position of the Alishan Forest Railway in Taiwan's railway development
+- [History of Railways in Taiwan](/en/history/taiwan-railway-history) — The special position of the Alishan Forest Railway in Taiwan's railway development
 - [Chiayi City](/en/geography/chiayi-city) — The provincial city completely surrounded by Chiayi County, and the mirror image of 76 years of separation from this county
 - [Keelung City](/en/geography/keelung-city) — The first article in the 22 Counties and Cities series, another city "pressed down by the capital framework," useful for comparing two different fault lines
 

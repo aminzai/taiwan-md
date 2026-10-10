@@ -14,7 +14,7 @@ tags:
     'NPB',
     'Liga Bisbol Profesional Jepang',
   ]
-subcategory: 'Olahraga'
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-22
@@ -24,6 +24,7 @@ curation: 'incubating'
 translatedFrom: 'People/陳偉殷.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:257cf55177cb05b1'
+sourceBodyHash: 'sha256:7ce7a4f8a7dcd5c0'
 translatedAt: '2026-08-04T09:22:23.445523+00:00'
 ---
 

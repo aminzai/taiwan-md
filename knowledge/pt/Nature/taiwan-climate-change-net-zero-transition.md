@@ -316,7 +316,7 @@ Os 97.672 barris de Lan Yü não vão desaparecer porque o referendo passou ou n
 - [Árvores de rua de Taiwan](/pt/lifestyle/taiwan-street-trees) — Sombra de árvores urbanas como adaptação à ilha de calor: posição e escala temporal: uma árvore leva pelo menos dez anos para crescer o suficiente para dar sombra, é o item que menos pode esperar nesta linha
 - [Desenvolvimento da modernização agrícola de Taiwan](/pt/economy/taiwan-agricultural-modernization) — Pressão de transformação agrícola e conflitos de uso do solo por trás da simbiose agro-fotovoltaica
 - [Meiyu](/pt/nature/meiyu-stagnant-front) — Observação local da mudança climática: «chuva de primavera não vem, meiyu concentrada»
-- [Mecanismo de preço do petróleo de Taiwan e CPC](/economy/台灣油價機制與中油) — O puxa-e-empurra entre subsídio a fóssil e sinal de poupança: congelar preço deixa barato repartido por litro, quem mais usa mais poupa, e nestes seis meses quem mais usou não tem uma tabela que tenha contado.
+- [Mecanismo de preço do petróleo de Taiwan e CPC](/pt/economy/taiwan-fuel-pricing-and-cpc) — O puxa-e-empurra entre subsídio a fóssil e sinal de poupança: congelar preço deixa barato repartido por litro, quem mais usa mais poupa, e nestes seis meses quem mais usou não tem uma tabela que tenha contado.
 
 ## Fontes das imagens
 

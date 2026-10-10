@@ -56,6 +56,7 @@ rationale:
 translatedFrom: 'Society/台灣與核能的討論.md'
 sourceCommitSha: '95c3b1afd'
 sourceContentHash: 'sha256:828aff612a05168f'
+sourceBodyHash: 'sha256:b97d2d0eea4b5afe'
 translatedAt: '2026-09-22T00:42:03.453317+00:00'
 ---
 
@@ -274,11 +275,11 @@ Und beide Seiten behaupten, sie stünden auf der Seite der Zukunft.
 
 ## Weiterführende Literatur
 
-- [Taiwans Klimakrise und der Netto-Null-Wandel](/nature/台灣氣候危機與淨零轉型) — Die andere Seite derselben Energiefrage: ausgehend von physischen Grenzen, Stromangebot und -nachfrage sowie dem Dekarbonisierungszeitplan, ein Schwesternartikel zu diesem Text
+- [Taiwans Klimakrise und der Netto-Null-Wandel](/de/nature/taiwan-climate-change-net-zero-transition) — Die andere Seite derselben Energiefrage: ausgehend von physischen Grenzen, Stromangebot und -nachfrage sowie dem Dekarbonisierungszeitplan, ein Schwesternartikel zu diesem Text
 - [Geschichte der Umweltbewegung in Taiwan](/de/nature/taiwan-environmental-movement-history) — Der Anti-Atomkraft-Protest als Teil von Taiwans Umweltbewegung nach dem Krieg, der vollständige Kontext von Lukang gegen DuPont bis Gongliao
 - [Umweltgerechtigkeit und NIMBY-Konflikte in Taiwan](/de/society/taiwan-environmental-justice-nimby-conflicts) — Die NIMBY-Struktur hinter dem Atommüll und Lanyu: Warum Risiken immer dort landen, wo die schwächste Stimme ist
 - [Sozialbewegungen und bürgerliche Teilhabe](/de/society/social-movements-and-civic-participation) — Wie der Anti-Atomkraft-Protest dieselbe Sprache und Energie wie Taiwans Demokratiebewegung nutzte
-- [Sonnenblumen-Bewegung](/society/太陽花學運) — Derselbe Generationenaufstand bürgerlicher Mobilisierung, um die Atmosphäre der Jahre von Lin Yi-hsiungs Hungerstreik zu verstehen
+- [Sonnenblumen-Bewegung](/de/society/sunflower-movement) — Derselbe Generationenaufstand bürgerlicher Mobilisierung, um die Atmosphäre der Jahre von Lin Yi-hsiungs Hungerstreik zu verstehen
 
 ## Offene Daten
 

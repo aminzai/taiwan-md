@@ -191,10 +191,10 @@ Volta àquele gramado com chuva fina. Aquela que segura o torniquete aprendeu um
 
 **Leitura complementar**:
 
-- [Shen Bo-yang](/people/沈伯洋) — Cofundador e reitor honorário da Academia Urso Negro, pesquisa guerra cognitiva do PCC, depois alvo de inquérito por "crime de secessão" pela China
-- [Guerra cognitiva](/society/認知作戰) — Um dos quatro módulos do acampamento básico da Academia, panorama completo das operações de informação do PCC contra Taiwan
-- [Defesa e modernização militar de Taiwan](/society/台灣國防與軍事現代化) — Relação complementar entre defesa civil e defesa de todo o povo, entender o outro lado de "defesa civil não é defesa nacional"
-- [O país invisível](/art/看不見的國家) — Documentário termina com taiwaneses fazendo curso de defesa civil, justamente a aula da Academia em versão imagem
+- [Shen Bo-yang](/pt/people/puma-shen) — Cofundador e reitor honorário da Academia Urso Negro, pesquisa guerra cognitiva do PCC, depois alvo de inquérito por "crime de secessão" pela China
+- [Guerra cognitiva](/pt/society/cognitive-warfare-against-taiwan) — Um dos quatro módulos do acampamento básico da Academia, panorama completo das operações de informação do PCC contra Taiwan
+- [Defesa e modernização militar de Taiwan](/pt/society/taiwan-defense-modernization) — Relação complementar entre defesa civil e defesa de todo o povo, entender o outro lado de "defesa civil não é defesa nacional"
+- [O país invisível](/pt/art/invisible-nation) — Documentário termina com taiwaneses fazendo curso de defesa civil, justamente a aula da Academia em versão imagem
 
 ## Créditos das imagens
 

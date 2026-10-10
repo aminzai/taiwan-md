@@ -14,7 +14,7 @@ tags:
     'Permukiman Sungai Keelung',
     'Paradoks Influencer',
   ]
-subcategory: 'Kota dan Geografi Manusia'
+subcategory: '城市與人文地理'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-27
@@ -32,6 +32,7 @@ rationale:
 translatedFrom: 'Geography/猴硐.md'
 sourceCommitSha: '11b9ab5c8'
 sourceContentHash: 'sha256:4e7a3c516a1c10ae'
+sourceBodyHash: 'sha256:e86f8f550c13eab0'
 translatedAt: '2026-09-17T15:07:08.921221+00:00'
 ---
 
@@ -216,7 +217,7 @@ Itu adalah air sungai Keelung yang sama.
 
 **Bacaan Lanjutan**:
 
-- [Jinguashi](/geography/金瓜石) — saudara kembar di hulu sungai Keelung, jalur ekomuseum transformasi situs tambang menjadi 「Taman Museum Emas」
+- [Jinguashi](/id/geography/jinguashi) — saudara kembar di hulu sungai Keelung, jalur ekomuseum transformasi situs tambang menjadi 「Taman Museum Emas」
 - [Sejarah Kereta Api Taiwan](/id/history/taiwan-railway-history) — jalur Pingxi beroperasi 1920 menjadi fondasi fisik tulang punggung wisata jalur Houtong / Pingxi / Jingdong / Shifen
 - [Budaya Hewan Tersesat Taiwan](/id/society/stray-animal-culture) — konteks Taiwan bukti kebijakan TNVR, Houtong adalah salah satu kasus sukses yang sedikit
 - [Kebun Binatang dan Etika Hewan Pameran](/id/society/zoo-and-exhibition-animal-ethics) — 「wisata kucing」 dengan tekanan etika hewan yang sama seperti kebun binatang / akuarium

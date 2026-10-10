@@ -156,7 +156,7 @@ _사진: 자이 민슝 소방대 청사, Tbatb 촬영, CC BY-SA 4.0. 출처: [Wi
 
 ## 연장 읽기
 
-- [921 지진](/history/九二一集集地震) — 재난이 타이완 방재 제도와 집단 기억을 어떻게 바꿨는가.
+- [921 지진](/ko/history/921-jiji-earthquake) — 재난이 타이완 방재 제도와 집단 기억을 어떻게 바꿨는가.
 - [사회운동과 시민참여](/ko/society/social-movements-and-civic-participation) — 자원봉사에서 확장해 타이완 공공 참여 이해.
 - [타이완 도시발전과 도농격차](/ko/geography/taiwan-urban-development-and-rural-urban-divide) — 지역 자원 차이가 재해 대응에 어떻게 영향 주는가.
 

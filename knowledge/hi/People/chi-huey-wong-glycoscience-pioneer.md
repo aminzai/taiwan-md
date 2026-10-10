@@ -13,7 +13,7 @@ tags:
     'नोबेल',
     'वोल्फ पुरस्कार',
   ]
-subcategory: 'विज्ञान और शिक्षा'
+subcategory: '科學與學術'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-31

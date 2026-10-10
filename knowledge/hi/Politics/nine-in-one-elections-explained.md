@@ -14,7 +14,7 @@ tags:
     'स्थानीय शासन कानून',
     '2026 चुनाव',
   ]
-subcategory: 'चुनाव प्रणाली'
+subcategory: '選舉制度'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-27
@@ -23,6 +23,7 @@ readingTime: 13
 translatedFrom: 'Politics/九合一選舉是什麼.md'
 sourceCommitSha: 'e957cf7f1'
 sourceContentHash: 'sha256:495a4502c5bee0ff'
+sourceBodyHash: 'sha256:f699c0cd2ccbe17d'
 translatedAt: '2026-08-02T16:21:18.322860+00:00'
 ---
 

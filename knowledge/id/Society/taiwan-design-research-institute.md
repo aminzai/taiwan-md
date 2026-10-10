@@ -13,7 +13,7 @@ tags:
     'Zhang Jiyi',
     'Penghargaan Desain Golden Pin',
   ]
-subcategory: 'Desain dan Tata Kelola Publik'
+subcategory: '設計與公共治理'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-04
@@ -155,11 +155,11 @@ Font surat suara yang kamu pegang itu bernama Si Yuan Hei Ti. Kamu besar kemungk
 
 ## Bacaan Lanjutan
 
-- [Nie Yongzhen](/people/聶永真) — Salah satu desainer grafis paling representatif di Taiwan, tokoh utama kontroversi optimasi identitas Taipower, dan nama yang tak terhindarkan dalam diskusi "desain sebagai prestasi".
+- [Nie Yongzhen](/id/people/nieh-yung-jen) — Salah satu desainer grafis paling representatif di Taiwan, tokoh utama kontroversi optimasi identitas Taipower, dan nama yang tak terhindarkan dalam diskusi "desain sebagai prestasi".
 - [Peningkatan Industri Taiwan](/id/economy/industrial-transformation-from-manufacturing-to-innovation) — Keseluruhan kisah transisi dari pulau manufaktur ke nilai tambah tinggi; apa yang dipertaruhkan oleh Institut Desain adalah salah satu jalur yang jarang dibicarakan.
 - [Televisi Publik](/id/society/pts-public-television-service) — Juga merupakan badan hukum publik, dan juga lembaga yang berjalan di atas tali antara "sifat publik" dan "pengawasan".
 - [Arsitektur Taiwan](/id/art/taiwanese-architecture) — Bidang keahlian Chang Chi-yi; memahami mengapa seorang arsitek percaya bahwa desain ruang dapat mengubah jarak antara pemerintah dan rakyat.
-- [Akademi Sains Negara](/society/中央研究院) — Juga merupakan lembaga penelitian yang didanai negara, berada di bawah Kantor Presiden dan di bawah kementerian, dengan tugas dan pertanyaan yang berbeda.
+- [Akademi Sains Negara](/id/society/academia-sinica) — Juga merupakan lembaga penelitian yang didanai negara, berada di bawah Kantor Presiden dan di bawah kementerian, dengan tugas dan pertanyaan yang berbeda.
 
 ## Sumber Gambar
 

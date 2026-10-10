@@ -4,7 +4,7 @@ description: 'Pada Februari 2020, saat seluruh dunia masih berebut membeli maske
 date: 2026-03-23
 category: 'Technology'
 tags: ['Teknologi', 'Komunitas Sumber Terbuka', 'g0v', 'Teknologi Sipil']
-subcategory: 'Komunitas Open Source'
+subcategory: '開源社群'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23
@@ -13,6 +13,7 @@ readingTime: 8
 translatedFrom: 'Technology/開源社群與g0v.md'
 sourceCommitSha: '6eeee35c8'
 sourceContentHash: 'sha256:6b493ef18a59a364'
+sourceBodyHash: 'sha256:c135fc23da71593b'
 translatedAt: '2026-07-31T00:47:41.129476+00:00'
 ---
 
@@ -213,6 +214,6 @@ Jawabannya masih sedang ditulis, dan setiap orang yang bersedia berkontribusi, a
 
 ## Topik Terkait
 
-- [Yayasan Budaya Terbuka](/technology/開放文化基金會): Yayasan hukum di balik g0v yang mengurus administrasi, menerbitkan faktur, dan mendukung komunitas, serta perjalanannya dari latar belakang menjadi penjaga hak-hak digital
+- [Yayasan Budaya Terbuka](/id/technology/open-culture-foundation): Yayasan hukum di balik g0v yang mengurus administrasi, menerbitkan faktur, dan mendukung komunitas, serta perjalanannya dari latar belakang menjadi penjaga hak-hak digital
 - [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry): Fondasi kekuatan teknologi Taiwan
 - [Mini Taiwan Pulse](/id/technology/mini-taiwan-pulse-civic-tech): Implementasi open source pribadi teknologi sipil 2026 — memvisualisasikan Taiwan sebagai jejak cahaya 3D dengan data terbuka TDX + Three.js

@@ -134,7 +134,7 @@ A avaliação política também deve reservar espaço para a voz dos moradores. 
 
 As leituras recomendadas podem seguir três diretrizes: informações de prevenção de queimaduras por calor da Autoridade de Saúde Pública, dados de adaptação ao clima e políticas energéticas do Ministério do Meio Ambiente, e planos locais de eficiência energética e substituição de eletrodomésticos divulgados pelos governos municipais. Ao ler, é importante distinguir três níveis de evidência: "anúncios de políticas", "resultados de pesquisas" e "sugestões deste texto", para não interpretar um único ano de subsídio ou pesquisa pontual como uma tendência nacional de longo prazo.
 
-- [Quem é considerado de baixa renda?](/society/誰算低薪) — Outro critério de pobreza: o salário mínimo protege o salário base, mas a pobreza se esconde nas horas extras e na ausência de bônus anuais
+- [Quem é considerado de baixa renda?](/pt/society/who-counts-as-low-wage) — Outro critério de pobreza: o salário mínimo protege o salário base, mas a pobreza se esconde nas horas extras e na ausência de bônus anuais
 
 ## Referências
 

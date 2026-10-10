@@ -12,7 +12,7 @@ tags:
   - 'طبقة اجتماعية'
   - 'معلمون مشهورون في التعليم الخصوصي'
   - 'تعليم شرق آسيوي'
-subcategory: 'التعليم'
+subcategory: '教育'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-23

@@ -153,8 +153,8 @@ Heute, wenn wir die leuchtenden Pfingstrosen, die anmutigen Chrysanthemen und di
 
 **Weiterführende Lektüre**:
 
-- [Indigo-Färben](/culture/藍染) — eine weitere Färbetechnik, die einst vereinfacht als Symbol einer einzigen ethnischen Gruppe galt und deren Ursprung später komplexer wurde
-- [Traditionelles Handwerk und immaterielles Kulturerbe Taiwans](/culture/台灣傳統工藝與無形文化資產) — der Kontext des Erhaltungssystems für Stoffe und Indigo-Färben
+- [Indigo-Färben](/de/culture/taiwan-indigo-dyeing) — eine weitere Färbetechnik, die einst vereinfacht als Symbol einer einzigen ethnischen Gruppe galt und deren Ursprung später komplexer wurde
+- [Traditionelles Handwerk und immaterielles Kulturerbe Taiwans](/de/culture/traditional-crafts-intangible-cultural-heritage) — der Kontext des Erhaltungssystems für Stoffe und Indigo-Färben
 
 ## Quellenverzeichnis
 

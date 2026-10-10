@@ -78,37 +78,37 @@ Pour la troisième génération, « gens de l'extérieur » n'est souvent qu'un 
 
 ## Références
 
-[^1]: [Migrations de sortie et d'entrée à Taïwan de l'après-guerre aux années 1950](https://wwwacc.ntl.edu.tw/public/Attachment/811615572091.pdf) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
+[^1]: [Migrations de sortie et d'entrée à Taïwan de l'après-guerre aux années 1950](https://wwwacc.ntl.edu.tw/public/Attachment/811615572091.pdf](https://wwwacc.ntl.edu.tw/public/Attachment/811615572091.pdf) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
 
-[^2]: [De la « province d'origine chinoise »](https://www.ios.sinica.edu.tw/people/personal/fcwang/fcwang2005-1.pdf) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
+[^2]: [De la « province d'origine chinoise »](https://www.ios.sinica.edu.tw/people/personal/fcwang/fcwang2005-1.pdf](https://www.ios.sinica.edu.tw/people/personal/fcwang/fcwang2005-1.pdf) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
 
-[^3]: [Réexamen des inégalités ethniques à Taïwan : expliquer la réduction des écarts entre les groupes de souche et d'extérieur](https://homepage.ntu.edu.tw/~khsu/vita/ethnic.pdf) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
+[^3]: [Réexamen des inégalités ethniques à Taïwan : expliquer la réduction des écarts entre les groupes de souche et d'extérieur](https://homepage.ntu.edu.tw/~khsu/vita/ethnic.pdf](https://homepage.ntu.edu.tw/~khsu/vita/ethnic.pdf) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
 
-[^4]: [Compte rendu de Stéphane Corcuff, _Vent doux, soleil chaud : les Chinois de l'extérieur à Taïwan et la transformation de l'identité nationale_](https://www.tsatw.org.tw/page.php?menu_id=82&new_id=1013) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
+[^4]: [Compte rendu de Stéphane Corcuff, _Vent doux, soleil chaud : les Chinois de l'extérieur à Taïwan et la transformation de l'identité nationale_](https://www.tsatw.org.tw/page.php?menu_id=82&new_id=1013](https://www.tsatw.org.tw/page.php?menu_id=82&new_id=1013) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
 
-[^5]: [Langue et identité ethnique : du maternel des « gens de l'extérieur » à la langue chinoise de Taïwan](https://www.ling.sinica.edu.tw/item/en?act=journal&code=download&article_id=308) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
+[^5]: [Langue et identité ethnique : du maternel des « gens de l'extérieur » à la langue chinoise de Taïwan](https://www.ling.sinica.edu.tw/item/en?act=journal&code=download&article_id=308](https://www.ling.sinica.edu.tw/item/en?act=journal&code=download&article_id=308) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
 
-[^7]: [Processus de révision de la loi sur le registre des ménages](https://zh.wikipedia.org/zh-tw/%E5%A4%96%E7%9C%81%E4%BA%BA) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
+[^7]: [Processus de révision de la loi sur le registre des ménages](https://zh.wikipedia.org/zh-tw/%E5%A4%96%E7%9C%81%E4%BA%BA](https://zh.wikipedia.org/zh-tw/%E5%A4%96%E7%9C%81%E4%BA%BA) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
 
-[^9]: [Le village des muets : les « gens de l'extérieur de haut rang »](https://vocus.cc/article/672432acfd8978000184694f) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
+[^9]: [Le village des muets : les « gens de l'extérieur de haut rang »](https://vocus.cc/article/672432acfd8978000184694f](https://vocus.cc/article/672432acfd8978000184694f) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
 
-[^10]: [Vidéo](https://youtu.be/t4-SM4XuSTA) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
+[^10]: [Vidéo](https://youtu.be/t4-SM4XuSTA](https://youtu.be/t4-SM4XuSTA) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
 
-[^11]: [Des « compatriotes du Dachen »](https://www.ios.sinica.edu.tw/twSociologySingle.php?id=155&listId=27) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
+[^11]: [Des « compatriotes du Dachen »](https://www.ios.sinica.edu.tw/twSociologySingle.php?id=155&listId=27](https://www.ios.sinica.edu.tw/twSociologySingle.php?id=155&listId=27) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
 
-[^12]: He Zhengzhe, _Dachen à Taïwan — une étude de cas sur les nouveaux immigrants des années 1950_ — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
+[^12]: He Zhengzhe, _Dachen à Taïwan — une étude de cas sur les nouveaux immigrants des années 1950_ — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification. [何政哲：大陳過台灣－1950年代新移民的個案研究](https://etds.lib.tku.edu.tw/ETDS/Home/Detail/U0002-0108200509440900)
 
-[^13]: [Cloisons ethniques, injustice sociale et relations intimes dans le Taïwan de l'après-guerre : deux ouvrages « tardifs »](https://www.ios.sinica.edu.tw/twSociologySingle.php?id=343&listId=55) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
+[^13]: [Cloisons ethniques, injustice sociale et relations intimes dans le Taïwan de l'après-guerre : deux ouvrages « tardifs »](https://www.ios.sinica.edu.tw/twSociologySingle.php?id=343&listId=55](https://www.ios.sinica.edu.tw/twSociologySingle.php?id=343&listId=55) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
 
 [^14]: [Système de la base de données de la justice transitionnelle taïwanaise](https://twtjdb.nhrm.gov.tw/content-16132-16132.html) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
 
 [^15]: [Musée virtuel de la littérature taïwanaise : pensez à ma patrie disparue — la littérature des villages militaires](https://tlvm.nmtl.gov.tw/zh/Theme/ExhibitionArticleCont?Exbid=143) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
 
-[^16]: [Pensez à ma patrie disparue : la littérature des villages militaires](https://tlvm.nmtl.gov.tw/zh/Theme/ExhibitionArticleCont?Exbid=143) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
+[^16]: [Pensez à ma patrie disparue : la littérature des villages militaires](https://tlvm.nmtl.gov.tw/zh/Theme/ExhibitionArticleCont?Exbid=143](https://tlvm.nmtl.gov.tw/zh/Theme/ExhibitionArticleCont?Exbid=143) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
 
 [^18]: [CNA : des chercheurs évoquent les victimes « de l'extérieur » lors de l'incident du 28 février](https://www.cna.com.tw/news/aipl/201907280115.aspx) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
 
-[^20]: [Le village du Dachen à Qijin : transformations historiques et identité](https://khm.org.tw/tw/event/past/detail/22) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
+[^20]: [Le village du Dachen à Qijin : transformations historiques et identité](https://khm.org.tw/tw/event/past/detail/22](https://khm.org.tw/tw/event/past/detail/22) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
 
 [^21]: [Yahoo News : la Commission pour la promotion de la justice transitionnelle rend publique la base de données](https://tw.news.yahoo.com/%E4%BF%83%E8%BD%89%E6%9C%83%E5%85%AC%E9%96%8B-%E8%BD%89%E5%9E%8B%E6%AD%A3%E7%BE%A9%E8%B3%87%E6%96%99%E5%BA%AB-%E6%9C%AC%E7%9C%81%E5%A4%96%E7%9C%81%E5%8F%97%E5%AE%B3%E6%AF%94%E4%BE%8B55-%E5%8F%8A44-045221531.html) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
 
@@ -116,6 +116,6 @@ Pour la troisième génération, « gens de l'extérieur » n'est souvent qu'un 
 
 [^23]: [CRNTT : des femmes autochtones mariées à d'anciens soldats « de l'extérieur » racontent des histoires de souffrance indicible](https://hk.crntt.com/doc/93_5670_103269625_9_0704010818.html) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
 
-[^24]: [À travers l'exemple du projet de rénovation urbaine des compatriotes du Dachen à Yonghe](https://www.csat.org.tw/userfiles/A-1-1%20%E8%91%89%E5%8F%88%E8%8F%AF%20%E5%85%A8%E6%96%87.pdf) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
+[^24]: [À travers l'exemple du projet de rénovation urbaine des compatriotes du Dachen à Yonghe](https://www.csat.org.tw/userfiles/A-1-1%20%E8%91%89%E5%8F%88%E8%8F%AF%20%E5%85%A8%E6%96%87.pdf](https://www.csat.org.tw/userfiles/A-1-1%20%E8%91%89%E5%8F%88%E8%8F%AF%20%E5%85%A8%E6%96%87.pdf) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
 
 [^25]: Chen Weihua et Zhang Maogui, _Des « compatriotes du Dachen » aux « gens du Dachen »_](https://www.ios.sinica.edu.tw/upload/completetext/20240620175749.pdf) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.

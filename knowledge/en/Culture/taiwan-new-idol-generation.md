@@ -14,7 +14,7 @@ tags:
   - 'Taiwan pop music'
   - 'idol culture'
   - 'Chan Jen-Hsiung'
-subcategory: 'Popular Culture'
+subcategory: '流行文化'
 author: 'Taiwan.md'
 readingTime: 13
 lastVerified: 2026-04-23

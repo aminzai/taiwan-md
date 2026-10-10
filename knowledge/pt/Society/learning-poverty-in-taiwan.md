@@ -181,7 +181,7 @@ O primeiro passo é reconhecer: **a média do PISA de Taiwan é real, os 571 das
 - **Crise do baixo natalidade em Taiwan** — Pobreza de aprendizagem e baixo natalidade não são o mesmo problema, mas no campo acontecem simultaneamente: alunos a diminuir, escolas a encolher, recursos mais concentrados, e entre as crianças que ficam a proporção de pobreza de aprendizagem é na verdade mais alta.
 - [Expansão e recuo do ensino superior em Taiwan](/pt/society/taiwan-higher-education-expansion-and-decline) — A massificação do ensino superior fez "entrar na universidade" deixar de ser barreira, e "o que se aprendeu" tornar-se o próximo muro.
 - **Sistema educativo e cultura de acesso ao ensino superior** — A cultura de Taiwan que faz do acesso ao ensino superior o único caminho, deixa as crianças em pobreza de aprendizagem sem quase nenhuma outra opção no sistema.
-- [Quem conta como baixo salário](/society/誰算低薪) — Outra questão de definição: a Direção-Geral de Orçamento, Contabilidade e Estatística conta zero pessoas com baixo salário pelo salário mensal, 1,26 milhões pelo salário anual, a diferença está na coluna do bónus de fim de ano que a lei não alcança.
+- [Quem conta como baixo salário](/pt/society/who-counts-as-low-wage) — Outra questão de definição: a Direção-Geral de Orçamento, Contabilidade e Estatística conta zero pessoas com baixo salário pelo salário mensal, 1,26 milhões pelo salário anual, a diferença está na coluna do bónus de fim de ano que a lei não alcança.
 
 ## Referências
 

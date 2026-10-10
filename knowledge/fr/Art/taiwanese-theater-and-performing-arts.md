@@ -10,7 +10,7 @@ tags:
     Cloud Gate Dance Theatre,
     Contemporary Legend Theatre,
   ]
-subcategory: 'Littérature'
+subcategory: '文學'
 category: 'Art'
 author: 'Taiwan.md'
 readingTime: 8

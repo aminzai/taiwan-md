@@ -80,7 +80,7 @@ translatedAt: '2026-06-11T16:38:27Z'
 
 ### 参考資料
 
-[^1]: [新楼旧情——医療宣教の父マクスウェル（馬雅各）を偲ぶ](https://www.taiwan-panorama.com/Articles/Details?Guid=2925f362-2fae-4bd3-88b7-17418376f2ee&CatId=10) — 台湾光華雑誌、2001-10
+[^1]: [新楼旧情——医療宣教の父マクスウェル（馬雅各）を偲ぶ](https://www.taiwan-panorama.com/Articles/Details?Guid=2925f362-2fae-4bd3-88b7-17418376f2ee&CatId=10&postname=%E6%96%B0%E6%A8%93%E8%88%8A%E6%83%85%E2%94%80%E2%94%80%E7%B7%AC%E6%87%B7%E9%86%AB%E7%99%82%E5%82%B3%E6%95%99%E4%B9%8B%E7%88%B6%E9%A6%AC%E9%9B%85%E5%90%84) — 台湾光華雑誌、2001-10
 
 [^2]: [マッカイ博士と学生が屋外で民衆の抜歯を行う](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=596965) — 国家文化記憶庫
 
@@ -108,6 +108,6 @@ translatedAt: '2026-06-11T16:38:27Z'
 
 [^14]: [米援時代——救済物資](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Media&id=684330) — 国家文化記憶庫
 
-[^15]: [自転車の使徒——モルモン教が台湾に来て50年](https://www.taiwan-panorama.com/Articles/Details?Guid=1d427200-3a0a-4b01-87d5-37760108f9f4&CatId=8) — 台湾光華雑誌
+[^15]: [自転車の使徒——モルモン教が台湾に来て50年](https://www.taiwan-panorama.com/Articles/Details?Guid=1d427200-3a0a-4b01-87d5-37760108f9f4&CatId=8&postname=%E5%96%AE%E8%BB%8A%E4%B8%8A%E7%9A%84%E4%BD%BF%E5%BE%92%E2%94%80%E2%94%80%E6%91%A9%E9%96%80%E6%95%99%E4%BE%86%E5%8F%B050%E5%B9%B4&srsltid=AfmBOoolyJazgXD1D8uOkK8Qfe17gjE3PBMje9MxLHVeYVtU5UpPbRos) — 台湾光華雑誌
 
 [^16]: [19歳で自転車旅行で伝道する外国人宣教師](https://fion.news/index.php?pn=vw&id=485n1rof1ptc) — Fion News、2023-11-29

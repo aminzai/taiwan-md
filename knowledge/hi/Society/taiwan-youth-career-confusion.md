@@ -14,7 +14,7 @@ tags:
     'तकनीकी-व्यावसायिक शिक्षा',
     'नवउदारवाद',
   ]
-subcategory: 'शिक्षा'
+subcategory: '教育'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-24

@@ -37,6 +37,7 @@ sporeLinks:
 translatedFrom: 'Technology/開放文化基金會.md'
 sourceCommitSha: 'c8e5ac9ea'
 sourceContentHash: 'sha256:08a786ea48be0947'
+sourceBodyHash: 'sha256:429230fac9b89ba1'
 translatedAt: '2026-09-26T04:28:11.429104+00:00'
 ---
 
@@ -195,7 +196,7 @@ Du hast ihre Ergebnisse genutzt (Masken-Karte, Faktencheck-Bot, Open-Source-Jahr
 - [Taiwans Open-Source-Geist](/de/technology/taiwan-open-source-spirit) — Das von OCF verkörperte Konzept „öffentliche Finanzierung, öffentliche Software" ist die Fortsetzung von Taiwans Open-Source-Kultur, die aus der Tech-Szene in die öffentliche Verwaltung vordringt.
 - [Audrey Tang](/de/people/audrey-tang) — Von g0v-Teilnehmerin zur ersten Digitalministerin – OCF hat sich mehrfach mit dem von ihr geleiteten Ministerium für digitale Entwicklung auseinandergesetzt, sowohl in Zusammenarbeit als auch in kritischer Beobachtung.
 - [Kognitive Kriegsführung](/de/society/cognitive-warfare-against-taiwan) — Das Schlachtfeld der Desinformation, gegen das der Faktencheck-Bot Cofacts ankämpft – die Informationsmanipulation, der sich Taiwan gegenübersieht.
-- [Warum Taiwan seine eigene Wissensbasis braucht](/about/為什麼台灣需要自己的知識庫) — Wenn KI zum ersten Ansprechpartner für fremdsprachige Leser wird, die fragen „Was ist Taiwan?", dann ist die von OCF vorangetriebene Wissensöffentlichkeit und Nachvollziehbarkeit die Infrastruktur, um dieser Stille entgegenzutreten.
+- [Warum Taiwan seine eigene Wissensbasis braucht](/de/about/why-taiwan-needs-its-own-knowledge-base) — Wenn KI zum ersten Ansprechpartner für fremdsprachige Leser wird, die fragen „Was ist Taiwan?", dann ist die von OCF vorangetriebene Wissensöffentlichkeit und Nachvollziehbarkeit die Infrastruktur, um dieser Stille entgegenzutreten.
 
 ## Bildquellen
 

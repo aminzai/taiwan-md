@@ -3,7 +3,15 @@ title: 'Deng Yuxian: Hakka 1906, Aprilregen – neununddreißig Jahre des Vaters
 description: 'Geboren am 21. Juli 1906 in eine Hakka-Familie in Longtan, Taoyuan; bürgerlicher Name Deng Bingyan. Nach dem Abschluss der Lehrernormalschule wurde er 1933 von Columbia Records als Hauskomponist verpflichtet. Seine vier Hauptwerke „Aprilregen“ (Vier Jahreszeiten-Rot / Mondnacht-Kummer / Frühlingswind / Blume in der Regennacht) werden bis heute gesungen. 1939 wechselte er an die Qionglin-Volksschule in Hsinchu. Er starb am 11. Juni 1944 im Zhudong-Krankenhaus, 39 Jahre alt.'
 date: 2026-03-19
 category: 'People'
-tags: ['Musik', 'taiwanesische Volkslieder', 'Komponist', 'japanische Kolonialzeit', 'Taoyuan', 'Hakka']
+tags:
+  [
+    'Musik',
+    'taiwanesische Volkslieder',
+    'Komponist',
+    'japanische Kolonialzeit',
+    'Taoyuan',
+    'Hakka',
+  ]
 subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
@@ -17,6 +25,7 @@ readingTime: 7
 translatedFrom: 'People/鄧雨賢.md'
 sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:d5ace46188e8ff6c'
+sourceBodyHash: 'sha256:0d86dfd69dceab10'
 translatedAt: '2026-08-18T01:45:41+08:00'
 ---
 
@@ -86,12 +95,12 @@ Genau das ist eines der einfachsten und stärksten Argumente der taiwanesischen 
 
 ## Referenzen
 
-[^1]: [Wikipedia: Deng Yuxian](https://zh.wikipedia.org/zh-tw/鄧雨賢) – bestätigt Geburt am 21. Juli 1906 in Longtan, Taoyuan, bürgerlicher Name Deng Bingyan, Normalschulbesuch, die vier Hauptwerke „Aprilregen“ (Vier Jahreszeiten-Rot/Mondnacht-Kummer/Frühlingswind/Blume in der Regennacht) und die Bezeichnung „Vater der taiwanesischen Volkslieder“.
+[^1]: [Wikipedia: Deng Yuxian](https://zh.wikipedia.org/zh-tw/鄧雨賢) — Details in der verlinkten Originalquelle
 
-[^2]: [Storm.mg: Deng Yuxian und Columbia Records](https://www.storm.mg/lifestyle/237234) – bestätigt die Verpflichtung als Hauskomponist durch Columbia 1933.
+[^2]: [Storm.mg: Deng Yuxian und Columbia Records](https://www.storm.mg/lifestyle/237234) — Details in der verlinkten Originalquelle
 
-[^3]: [NTNU-Bibliothek: Deng-Yuxian-Sonderausstellung](http://archives.lib.ntnu.edu.tw/exhibitions/DengYuShian/master.jsp) – bestätigt den Lehrauftrag an der Qionglin-Volksschule in Hsinchu ab 1939 sowie den Tod am 11. Juni 1944 im Zhudong-Krankenhaus (nicht Taipeh), 39 Jahre alt.
+[^3]: [NTNU-Bibliothek: Deng-Yuxian-Sonderausstellung](http://archives.lib.ntnu.edu.tw/exhibitions/DengYuShian/master.jsp) — Details in der verlinkten Originalquelle
 
-[^4]: [Musikkulturzentrum Deng Yuxian der Stadt Taoyuan](https://www.tyac.gov.tw/home.jsp?id=10&parentpath=0,6,10) – enthält Material zu den Gedenkveranstaltungen zum 100. Geburtstag sowie zur Einrichtung des Kulturzentrums.
+[^4]: [Musikkulturzentrum Deng Yuxian der Stadt Taoyuan](https://www.tyac.gov.tw/home.jsp?id=10&parentpath=0,6,10) — Details in der verlinkten Originalquelle
 
-[^5]: [Nippon.com: Deng Yuxians Hokkien-Volkslieder](https://www.nippon.com/hk/japan-topics/g02160/) – Hintergrundartikel zu Deng Yuxians Schaffen und zum taiwanesischen Musikumfeld der japanischen Kolonialzeit.
+[^5]: [Nippon.com: Deng Yuxians Hokkien-Volkslieder](https://www.nippon.com/hk/japan-topics/g02160/) — Details in der verlinkten Originalquelle

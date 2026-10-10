@@ -21,6 +21,15 @@ readingTime: 16
 lastVerified: 2026-04-20
 lastHumanReview: true
 featured: false
+sporeLinks:
+  - id: 39
+    platform: 'threads'
+    date: '2026-04-20'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXVpBlLk4oE'
+  - id: 40
+    platform: 'x'
+    date: '2026-04-20'
+    url: 'https://x.com/taiwandotmd/status/2046066338138104130'
 translatedFrom: 'Art/謝德慶.md'
 sourceCommitSha: 'd520299b'
 sourceContentHash: 'sha256:97f19e04671843c8'

@@ -4,7 +4,7 @@ description: 'チェン・ジェンニエンの『海洋』はプユマ語と中
 date: 2026-03-18
 category: 'Music'
 tags: ['先住民歌手', '流行音楽', '文化融合', '金曲賞', '現代創作']
-subcategory: '現代先住民音楽'
+subcategory: '當代原住民音樂'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-19
@@ -15,6 +15,7 @@ relatedDiary: ['2026-09-07-164559-audit-upgrade']
 translatedFrom: 'Music/當代原住民創作歌手.md'
 sourceCommitSha: 'b67b190fb'
 sourceContentHash: 'sha256:a5f224da3d3ab399'
+sourceBodyHash: 'sha256:6ab99bf50b216a39'
 translatedAt: '2026-09-11T23:47:36.955209+00:00'
 ---
 

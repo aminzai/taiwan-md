@@ -173,7 +173,7 @@ Nó đứng bên hồ bơ, đứng trong lưu vực sông ngòi, đứng trên �
 
 - [Chuỗi cung ứng phần cứng AI](/vi/technology/ai-hardware-supply-chain) — Đài Loan làm sao biến nhu cầu đám mây thành máy móc có thể giao.
 - [Điện và bán dẫn ở Đài Loan](/vi/technology/taiwan-electricity-and-semiconductors) — Hóa đơn điện sau nền tảng chuỗi cung ứng AI.
-- [Nhà máy nước ngoài trong chuỗi cung ứng AI](/technology/AI供應鏈海外設廠) — Tại sao các quốc gia khác cũng muốn chịu áp lực của cơ sở hạ tầng và sản xuất.
+- [Nhà máy nước ngoài trong chuỗi cung ứng AI](/vi/technology/ai-supply-chain-overseas-manufacturing) — Tại sao các quốc gia khác cũng muốn chịu áp lực của cơ sở hạ tầng và sản xuất.
 - [Phát triển khu công nghệ cao](/vi/technology/science-park-development) — Bán dẫn làm sao phát triển trên đất và thành phố ở Đài Loan.
 
 ## Nguồn ảnh

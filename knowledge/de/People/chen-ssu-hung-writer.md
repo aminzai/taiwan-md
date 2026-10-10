@@ -166,7 +166,7 @@ Chen Si-hong nennt diesen Ort „Geisterort“. Am Ende des Lesens mag man entde
 
 ## Weiterführende Literatur
 
-- [Wu Ming-yi](/people/吳明益) — Ein weiterer Romanautor, der taiwanesische Orte in die Weltliteratur schrieb, sein Pfad korrespondiert mit Chen Si-hong
+- [Wu Ming-yi](/de/people/wu-ming-yi) — Ein weiterer Romanautor, der taiwanesische Orte in die Weltliteratur schrieb, sein Pfad korrespondiert mit Chen Si-hong
 - [Pai Hsien-yung](/de/people/pai-hsien-yung-literary-master) — Eine Quelle der taiwanesischen queeren Literatur, zum Verständnis der literarischen Genealogie von „Geisterort“
 - [Taiwan Ehegleichstellung und Geschlechtergerechtigkeit](/de/society/taiwan-marriage-equality-lgbtq-rights) — Gesellschaftlicher Hintergrund von Chen Si-hongs Körper- und Geschlechtsschreiben
 - [Landkreis Changhua](/de/geography/changhua-county) — Yongjings übergeordneter Ort, geographischer Kontext des „Geisterort“-Urbilds

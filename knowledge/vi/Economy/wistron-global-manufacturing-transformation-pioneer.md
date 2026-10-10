@@ -237,8 +237,8 @@ Trong thời đại tái cấu trúc chuỗi cung ứng và xu hướng đưa ng
 
 **Đọc thêm**:
 
-- [Doanh nghiệp Đài Loan: Hyperak](/economy/台灣企業：宏碁) — Đối tác mẹ của Wistron. Dù được xem là công ty sản xuất thay thế yếu kém nhất khi tách rời, trong thời kỳ AI máy chủ, vốn hóa thị trường đã vượt qua doanh nghiệp chính chỉ làm thương hiệu.
-- [Shih Chin-chung](/people/施振榮) — Người quyết định cắt đứt thương hiệu và sản xuất thay thế của Hyperak thành hai công ty riêng biệt, một câu nói "Thật ra bạn cũng nghĩ như vậy" đã cho phép Wistron tách ra.
+- [Doanh nghiệp Đài Loan: Hyperak](/vi/economy/acer-pc-industry-pioneer) — Đối tác mẹ của Wistron. Dù được xem là công ty sản xuất thay thế yếu kém nhất khi tách rời, trong thời kỳ AI máy chủ, vốn hóa thị trường đã vượt qua doanh nghiệp chính chỉ làm thương hiệu.
+- [Shih Chin-chung](/vi/people/stan-shih) — Người quyết định cắt đứt thương hiệu và sản xuất thay thế của Hyperak thành hai công ty riêng biệt, một câu nói "Thật ra bạn cũng nghĩ như vậy" đã cho phép Wistron tách ra.
 
 ## Tài liệu tham khảo
 

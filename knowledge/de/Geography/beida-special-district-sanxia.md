@@ -19,7 +19,7 @@ tags:
     'Prozession',
     'Li Mei Tree',
   ]
-subcategory: 'Stadt und Kulturgeographie'
+subcategory: '城市與人文地理'
 author: 'idlccp1984'
 featured: false
 lastVerified: 2026-04-29
@@ -28,6 +28,7 @@ readingTime: 18
 translatedFrom: 'Geography/北大特區.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:df7c1aaff4786133'
+sourceBodyHash: 'sha256:5edd055f43181f0e'
 translatedAt: '2026-09-15T18:13:55.365379+00:00'
 ---
 
@@ -163,8 +164,8 @@ Im Jahr 2026 wird das Nord-Taipei Special Area eine neue Prüfung erleben, wenn 
 
 ## Weiterführende Lektüre
 
-- [Stadtentwicklung und ländliche Disparitäten in Taiwan](/geography/台灣都市發展與城鄉差距) — Setzt das Nord-Taipei Special Area in den langfristigen Kontext der Neugestaltung und städtischen Expansion Taiwans ein.
-- [Linkou New Township](/geography/林口新市鎮) — Wie eine andere Stadt, die ebenfalls „Geisterstadt“ genannt wurde, reif wurde.
+- [Stadtentwicklung und ländliche Disparitäten in Taiwan](/de/geography/taiwan-urban-development-and-rural-urban-divide) — Setzt das Nord-Taipei Special Area in den langfristigen Kontext der Neugestaltung und städtischen Expansion Taiwans ein.
+- [Linkou New Township](/de/geography/linkou-new-town) — Wie eine andere Stadt, die ebenfalls „Geisterstadt“ genannt wurde, reif wurde.
 - [Sanxia Tee](/de/food/sanxia-tea) — Vertiefung der kulturellen Basis der alten Stadt Sanxia und ihrer lokalen Industrie.
 
 ## Referenzen

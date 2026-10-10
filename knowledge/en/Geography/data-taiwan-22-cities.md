@@ -217,11 +217,11 @@ Admitting this internal heterogeneity is necessary to see the island's true chal
 
 ## Further Reading
 
-- [Taipei City](/geography/台北市) — The most densely populated (8,975 people/sq km) and one of the oldest (Aging Index 202) in the six metropolitan areas; it is the protagonist at both ends of density and aging in this article.
-- [Taitung County](/geography/台東縣) — The sparsest county in Taiwan (59 people/sq km); the two outlying islands bear the cost of the entire island.
-- [Chiayi County](/geography/嘉義縣) — With an Aging Index of 291.69, it is the most aged in Taiwan, where every child corresponds to nearly three seniors; a representative of the aging front line in agricultural counties.
-- [Hsinchu County](/geography/新竹縣) — The youngest county in Taiwan with an aging rate of 15.08%; this area is where the Science Park pulls the population structure toward youth.
-- [Taiwan's Low Birth Rate Crisis](/society/台灣少子化危機) — The birth side of this portrait: the other side of the island suffering from decline, with newborns falling below 110,000.
+- [Taipei City](/en/geography/taipei-city) — The most densely populated (8,975 people/sq km) and one of the oldest (Aging Index 202) in the six metropolitan areas; it is the protagonist at both ends of density and aging in this article.
+- [Taitung County](/en/geography/taitung-county) — The sparsest county in Taiwan (59 people/sq km); the two outlying islands bear the cost of the entire island.
+- [Chiayi County](/en/geography/chiayi-county) — With an Aging Index of 291.69, it is the most aged in Taiwan, where every child corresponds to nearly three seniors; a representative of the aging front line in agricultural counties.
+- [Hsinchu County](/en/geography/hsinchu-county) — The youngest county in Taiwan with an aging rate of 15.08%; this area is where the Science Park pulls the population structure toward youth.
+- [Taiwan's Low Birth Rate Crisis](/en/society/taiwan-low-birth-rate-crisis) — The birth side of this portrait: the other side of the island suffering from decline, with newborns falling below 110,000.
 
 ## Image Sources
 

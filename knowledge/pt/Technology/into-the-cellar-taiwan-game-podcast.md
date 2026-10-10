@@ -139,10 +139,10 @@ O método mudou. Aquele espírito de «alguém pôs a resposta aqui para ti», n
 
 ## Leitura complementar
 
-- [História da migração das comunidades de rede de Taiwan](/technology/台灣網路社群遷徙史) — Do BBS ao Threads, a história de mudanças de plataforma da comunidade taiwanesa
+- [História da migração das comunidades de rede de Taiwan](/pt/technology/taiwan-online-community-migration) — Do BBS ao Threads, a história de mudanças de plataforma da comunidade taiwanesa
 - [O espírito _open source_ de Taiwan](/pt/technology/taiwan-open-source-spirit) — Outro grupo de taiwaneses que «trabalha por amor»
-- [PTT 批踢踢](/technology/PTT批踢踢) — O BBS mais longevo de Taiwan, contemporâneo da Bahamut
-- [As duas espadas da Softstar](/technology/大宇雙劍) — A fonte de emoção dos jogos single-player taiwaneses da mesma era
+- [PTT 批踢踢](/pt/technology/ptt-bulletin-board-system) — O BBS mais longevo de Taiwan, contemporâneo da Bahamut
+- [As duas espadas da Softstar](/pt/technology/softstar-twin-classics) — A fonte de emoção dos jogos single-player taiwaneses da mesma era
 - [Os momentos de loucura dos jogadores de Taiwan](/pt/technology/taiwan-gamers-wildest-moments) — A loucura coletiva dos jogadores das gerações adega/Gamebase/Bahamut
 
 ---

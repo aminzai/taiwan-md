@@ -154,11 +154,11 @@ Als 2025 der Name **Yang Yu-Xian** (_Yang Yu-Xian_) in der Juryliste des Linz Fe
 - [Xie Deqing](/de/art/tehching-hsieh-performance-artist) — Vor der Neuen Medien Kunst: Körpermedien und Pionier der taiwanesischen Verhaltenskunst, internationaler Meister der „Fünf Ein-Jahres-Performances“
 - [Wang Xinren (A Luan)](/de/art/wang-hsin-jen-artist) — Der erste taiwanesische Künstler, der bei Art Blocks ausgestellt wurde, Kernfigur von akaSwap und dem FAB DAO Bergprojekt
 - [Wang Lian Cheng (Shrimp Dad)](/de/art/wang-lien-cheng-artist) — Gewinner des ersten Preises für Skulptur beim Lightbox Award 2017, Mitglied von i/O Lab und Leiter des Festival of Silence, Repräsentant der taiwanesischen Klanginstallation
-- [Wu Tse-Yu](/people/吳哲宇) — Ein Künstler, der sich selbst als „uralten Uhrmacher“ bezeichnet, Initiator des Taiwan.md Open-Source-Projekts und von der Venediger Biennale _Personal Structures_ bis zu Art Basel Miami vertreten
-- [Reporter: Wie investigative Berichterstattung von einem Geschäftsvorhaben zur öffentlichen Ressource wurde](/society/報導者) — Ein weiteres von der Zivilgesellschaft getragenes und grenzüberschreitendes Projekt, das den Weg einer anderen Form des taiwanesischen Gemeinwohls zeigt
+- [Wu Tse-Yu](/de/people/che-yu-wu) — Ein Künstler, der sich selbst als „uralten Uhrmacher“ bezeichnet, Initiator des Taiwan.md Open-Source-Projekts und von der Venediger Biennale _Personal Structures_ bis zu Art Basel Miami vertreten
+- [Reporter: Wie investigative Berichterstattung von einem Geschäftsvorhaben zur öffentlichen Ressource wurde](/de/society/the-reporter-investigative-journalism) — Ein weiteres von der Zivilgesellschaft getragenes und grenzüberschreitendes Projekt, das den Weg einer anderen Form des taiwanesischen Gemeinwohls zeigt
 - [justfont und Taiwan Schriftentwicklung: Eine Geschichte von 25 Jahren bei Humanistik bis zu 76 Minuten bei Jinshan](/de/technology/justfont-and-taiwan-typography) — Schrift als kulturelle Infrastruktur, ein weiteres Themenfeld, das die visuelle Subjektivität Taiwans betont
 - [Unterseekabel: 99% der internationalen Kunstausstellungen und kulturellen Zusammenarbeit laufen über Unterseekabel](/de/technology/submarine-cables-taiwan-lifeline) — Dieser unsichtbare digitalen Infrastruktur wird in diesem Text aufgedeckt
-- [Nie Yongzhen](/people/聶永真) — Erster taiwanesischer Mitglied der internationalen AGI-Designvereinigung, Schlüsselfigur des _Yongzhi Studio_ und der taiwanesischen zeitgenössischen visuellen Kultur
+- [Nie Yongzhen](/de/people/nieh-yung-jen) — Erster taiwanesischer Mitglied der internationalen AGI-Designvereinigung, Schlüsselfigur des _Yongzhi Studio_ und der taiwanesischen zeitgenössischen visuellen Kultur
 
 ## Referenzen
 

@@ -139,12 +139,12 @@ Su Yanchi sagte bei [INSIDE Side Chat E376](https://www.inside.com.tw/feature/si
 
 **Weiterführende Literatur:**
 
-- [Bildungssystem und Studienkultur](/society/教育制度與升學文化) – Worauf sich ZASHARE stützt: Wie die taiwanesische Studienwahl durch Strukturen reproduziert wird
-- [Teach For Taiwan (TFT)](/society/為台灣而教TFT) – Eine parallele Neugründung nach den 318 Student Movement: Zwei unterschiedliche curatorialische Methoden – organisierte Rekrutierung vs. Festival-Atmosphäre
-- [Die Geburt eines Lehrers: Das Bildungssystem Taiwans](/society/一個教師的誕生：台灣師資培育制度) – Wie Lehrkräfte im System ausgebildet werden und wie die Rolle von ZASHARE als „Schulleiter“ hier positioniert ist
-- [Die Sonnenblumen-Bewegung](/society/太陽花學運) – Der historische Hintergrund von ZASHARE: Wie die 318 Student Movement nach dem Straßenprotest in soziale Praxis außerhalb des Systems überging
-- [Komplexes Lebensfest](/society/複雜生活節) – Eine weitere Variante der Energie nach den 318 Student Movement: „Absichtlich klein bleiben“ – ein achtklässiges „Forum der Nicht-Gewinner“ mit einhundert-fünfzig Personen, ein Gegenstück zu ZASHARE als der größten Bildungsmesse Asiens – zwei curatorialische Entscheidungen: Intimität vs. Skalierung
-- [Bildung in abgelegenen Regionen Taiwans](/society/台灣偏鄉教育) – Eine andere Linie der Bildungsungleichheit, die sich den Randpositionen von ZASHARE als „alternativ“ gegenüberstellt
+- [Bildungssystem und Studienkultur](/de/society/education-system-and-admissions-culture) – Worauf sich ZASHARE stützt: Wie die taiwanesische Studienwahl durch Strukturen reproduziert wird
+- [Teach For Taiwan (TFT)](/de/society/teach-for-taiwan) – Eine parallele Neugründung nach den 318 Student Movement: Zwei unterschiedliche curatorialische Methoden – organisierte Rekrutierung vs. Festival-Atmosphäre
+- [Die Geburt eines Lehrers: Das Bildungssystem Taiwans](/de/society/becoming-a-teacher-taiwan-teacher-training) – Wie Lehrkräfte im System ausgebildet werden und wie die Rolle von ZASHARE als „Schulleiter“ hier positioniert ist
+- [Die Sonnenblumen-Bewegung](/de/society/sunflower-movement) – Der historische Hintergrund von ZASHARE: Wie die 318 Student Movement nach dem Straßenprotest in soziale Praxis außerhalb des Systems überging
+- [Komplexes Lebensfest](/de/society/complex-life-festival) – Eine weitere Variante der Energie nach den 318 Student Movement: „Absichtlich klein bleiben“ – ein achtklässiges „Forum der Nicht-Gewinner“ mit einhundert-fünfzig Personen, ein Gegenstück zu ZASHARE als der größten Bildungsmesse Asiens – zwei curatorialische Entscheidungen: Intimität vs. Skalierung
+- [Bildung in abgelegenen Regionen Taiwans](/de/society/taiwan-rural-education) – Eine andere Linie der Bildungsungleichheit, die sich den Randpositionen von ZASHARE als „alternativ“ gegenüberstellt
 
 ## Quellenangaben
 

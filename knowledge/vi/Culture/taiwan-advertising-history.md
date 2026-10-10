@@ -173,9 +173,9 @@ Quảng cáo là để bán hàng. Có quảng cáo được nhớ nhất Đài 
 
 ## Đọc Mở Rộng
 
-- [Lịch sử ngành công nghiệp truyền hình Đài Loan](/technology/台灣電視產業史) — Ba đài cũ, truyền hình cáp tới OTT, chính cái màn hình mang quảng cáo chính nó như thế nào tiến hoá
-- [Toàn Liên Phúc Lợi Trung Tâm](/economy/全聯福利中心) — Từ cơ sở công cộng đen đủi tới vua bán lẻ, nền quảng cáo Ô Mỹ "thẩm mỹ kinh tế" của nền tảng thương mại
-- [Ngành âm nhạc Đài Loan và thời kỳ phát trực tuyến](/music/台灣音樂產業與串流時代) — Từ bài quảng cáo nổi tiếng ca sĩ, tới chia riêng lẻ phát trực tuyến của bản sử tiêu dùng âm nhạc biến đổi
+- [Lịch sử ngành công nghiệp truyền hình Đài Loan](/vi/technology/taiwan-television-industry-history) — Ba đài cũ, truyền hình cáp tới OTT, chính cái màn hình mang quảng cáo chính nó như thế nào tiến hoá
+- [Toàn Liên Phúc Lợi Trung Tâm](/vi/economy/pxmart-supermarket) — Từ cơ sở công cộng đen đủi tới vua bán lẻ, nền quảng cáo Ô Mỹ "thẩm mỹ kinh tế" của nền tảng thương mại
+- [Ngành âm nhạc Đài Loan và thời kỳ phát trực tuyến](/vi/music/taiwan-music-industry-and-the-streaming-era) — Từ bài quảng cáo nổi tiếng ca sĩ, tới chia riêng lẻ phát trực tuyến của bản sử tiêu dùng âm nhạc biến đổi
 
 ---
 
@@ -209,9 +209,9 @@ Bài này sử dụng 2 ảnh với giấy phép CC, toàn bộ cache tại `pub
 
 [^10]: [Quảng Cáo trong Báo Đài Loan Kể Từ Dỡ Bỏ Cấm Báo Chí](https://journals.sagepub.com/doi/abs/10.1177/107769909006700130) — Lay & Schweitzer 1990 Phát Hành Trong Journalism Quarterly Nghiên Cứu, Chỉ Ra 1988 Dỡ Bỏ Cấm Báo Chí Sau Đó Không Mang Theo Bất Cứ Thay Đổi Gay Gắt Nào.
 
-[^11]: [Luật Phát Thanh Truyền Hình (Dân Quốc 64 Năm Lập Pháp 65 Năm Công Bố)](https://zh.wikisource.org/zh-hant/廣播電視法_(民國64年立法65年公布) — )) — Kho Tư Liệu Toàn Văn Luật Phát Thanh Truyền Hình Gốc Thu Lưu, Điều 20 Minh Định Phát Thanh Ngôn Ngữ Nên Dùng Quan Thoại Làm Chính, Phương Ngôn Nên Giảm Dần
+[^11]: [Luật Phát Thanh Truyền Hình (Dân Quốc 64 Năm Lập Pháp 65 Năm Công Bố)](<https://zh.wikisource.org/zh-hant/廣播電視法_(民國64年立法65年公布)>) — )) — Kho Tư Liệu Toàn Văn Luật Phát Thanh Truyền Hình Gốc Thu Lưu, Điều 20 Minh Định Phát Thanh Ngôn Ngữ Nên Dùng Quan Thoại Làm Chính, Phương Ngôn Nên Giảm Dần
 
-[^12]: [Luật Phát Thanh Truyền Hình (Dân Quốc 64 Năm Lập Pháp 65 Năm Công Bố)](https://zh.wikisource.org/zh-hant/廣播電視法_(民國64年立法65年公布) — )) — Phiên Bản Kho Tư Liệu Ghi Chú Điều Đó Năm 1993 Tháng 7 Bị Viện Lập Pháp Xóa Bỏ Sửa Đổi Pháp Lệnh Lịch Sử
+[^12]: [Luật Phát Thanh Truyền Hình (Dân Quốc 64 Năm Lập Pháp 65 Năm Công Bố)](<https://zh.wikisource.org/zh-hant/廣播電視法_(民國64年立法65年公布)>) — )) — Phiên Bản Kho Tư Liệu Ghi Chú Điều Đó Năm 1993 Tháng 7 Bị Viện Lập Pháp Xóa Bỏ Sửa Đổi Pháp Lệnh Lịch Sử
 
 [^13]: [Truyền Hình Đài Loan Trở Thành Đài Loan Hoá](https://www.taiwan-panorama.com/en/Articles/Details?Guid=96d99a43-69d9-41e6-987a-b52947704d1d) — Tờ Taiwan Panorama báo cáo tiếng Anh, ghi ba đài truyền hình công cộng chỉ buổi trưa hoặc tối lúc sáu rưỡi phát Mân Nam chương trình, khán giả phần lớn là bà nội trợ với người già.
 
@@ -235,7 +235,7 @@ Bài này sử dụng 2 ảnh với giấy phép CC, toàn bộ cache tại `pub
 
 [^23]: [Ô Mỹ Đài Loan](https://www.ogilvy.com/tw) — Website Chính Thức Ô Mỹ Quảng Cáo Đài Loan Cùng Với Ghi Chép Liên Quan, Ghi Ô Mỹ Đài Loan 1985 Được Thành Lập Bởi Tống Trứ Minh, Trang Thục Phân, JWT Tại 1988 Vào Thị Trường Đài Loan.
 
-[^24]: [Tôn Đại Vĩ (Quảng Cáo Nhân Viên)](https://zh.wikipedia.org/zh-tw/孫大偉_(廣告人) — )) — Wikipedia Ghi Tôn Đại Vĩ (1951–2010) Chức Tổng Giám Đốc Sáng Tạo Thực Hành Ô Mỹ, Quảng Cáo Vị Đan "Nhiều Uống Nước" Với Tên Sách "Phẩm Chất Sinh Viên Quá Kém" Bắt Nguồn
+[^24]: [Tôn Đại Vĩ (Quảng Cáo Nhân Viên)](<https://zh.wikipedia.org/zh-tw/孫大偉_(廣告人)>) — )) — Wikipedia Ghi Tôn Đại Vĩ (1951–2010) Chức Tổng Giám Đốc Sáng Tạo Thực Hành Ô Mỹ, Quảng Cáo Vị Đan "Nhiều Uống Nước" Với Tên Sách "Phẩm Chất Sinh Viên Quá Kém" Bắt Nguồn
 
 [^25]: [Sáng Tạo Với Cuộc Sống Tôn Đại Vĩ](https://www.managertoday.com.tw/articles/view/355) — Báo Người Quản Lý Thu Lưu Tôn Đại Vĩ "Sáng Tạo Có Thể Bị Đạo, Nhưng Không Lần Thứ Hai" Vv Lời Từ Chính Ông.
 

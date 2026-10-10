@@ -93,9 +93,9 @@ Năm 2025, Đại học Đài Đông trao cho cô bằng tiến sĩ danh dự. C
 
 ## Đọc thêm
 
-- [Nền văn hóa chợ truyền thống Đài Loan](/lifestyle/台灣市場文化與傳統市場) — Chợ trung tâm Đài Đông nơi Trần Cúc bán rau năm mươi năm, sống trong hệ sinh thái của chợ truyền thống này
-- [Văn hóa tình nguyện viên Đài Loan và sự tham gia từ thiện công cộng](/society/台灣志工文化與公益參與) — Từ Tổ chức từ thiện Từ Vân của Pháp sư Chứng Nghiêm đến quầy rau của Trần Cúc, hai mẫu từ thiện công cộng dân gian Đài Loan
-- [Giáo dục vùng nông thôn Đài Loan](/society/台灣偏鄉教育) — Danh sách những khoản quyên tặng của Trần Cúc qua các năm chủ yếu đi đến: thư viện, trường học, trại trẻ mồ côi kéo dài lâu dài
+- [Nền văn hóa chợ truyền thống Đài Loan](/vi/lifestyle/taiwan-traditional-markets-and-market-culture) — Chợ trung tâm Đài Đông nơi Trần Cúc bán rau năm mươi năm, sống trong hệ sinh thái của chợ truyền thống này
+- [Văn hóa tình nguyện viên Đài Loan và sự tham gia từ thiện công cộng](/vi/society/volunteering-and-civic-charity-in-taiwan) — Từ Tổ chức từ thiện Từ Vân của Pháp sư Chứng Nghiêm đến quầy rau của Trần Cúc, hai mẫu từ thiện công cộng dân gian Đài Loan
+- [Giáo dục vùng nông thôn Đài Loan](/vi/society/taiwan-rural-education) — Danh sách những khoản quyên tặng của Trần Cúc qua các năm chủ yếu đi đến: thư viện, trường học, trại trẻ mồ côi kéo dài lâu dài
 
 ## Tài liệu tham khảo
 

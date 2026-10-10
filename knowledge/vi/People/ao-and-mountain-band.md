@@ -156,11 +156,11 @@ Vào giờ ra đi làm của người làm trong ngành công nghệ, ngồi tr�
 
 ## Đọc thêm
 
-- [Nhạc độc lập Đài Loan](/music/台灣獨立音樂) — Bối cảnh lịch sử của sinh thái nhóm nhạc độc lập và các loại Folktronica từ thập niên 2010-2020
-- [Nhạc dân gian Đài Loan](/music/台灣流行音樂) — Cấu trúc ngành dịch vụ nhạc dân gian Hoa ngữ và vị trí của các nhóm nhạc độc lập trong ngành này
-- [Cicada](/people/Cicada) — Cùng là một nhóm nhạc không theo đuổi hình thức, nhấn mạnh các chiến lược sáng tạo "không theo đuổi hình ảnh"
-- [Wei Ruo Xuan](/people/魏如萱) — Một con đường khác đi từ phụ nữ sáng tạo, kết hợp giữa phụ nữ và độc lập
-- [Hello Nico](/people/Hello-Nico) — Cùng là một ca sĩ nữ độc lập thập niên 2010, âm thanh Dream Pop bao bọc sự kỵ nghị, "việc làm nhạc lớn nhất là không thể sống chung với bản thân"
+- [Nhạc độc lập Đài Loan](/vi/music/indie-music-scene) — Bối cảnh lịch sử của sinh thái nhóm nhạc độc lập và các loại Folktronica từ thập niên 2010-2020
+- [Nhạc dân gian Đài Loan](/vi/music/golden-melodies-legacy-taiwan-pop-music) — Cấu trúc ngành dịch vụ nhạc dân gian Hoa ngữ và vị trí của các nhóm nhạc độc lập trong ngành này
+- [Cicada](/vi/people/cicada-band) — Cùng là một nhóm nhạc không theo đuổi hình thức, nhấn mạnh các chiến lược sáng tạo "không theo đuổi hình ảnh"
+- [Wei Ruo Xuan](/vi/people/waa-wei-singer) — Một con đường khác đi từ phụ nữ sáng tạo, kết hợp giữa phụ nữ và độc lập
+- [Hello Nico](/vi/people/hello-nico-band) — Cùng là một ca sĩ nữ độc lập thập niên 2010, âm thanh Dream Pop bao bọc sự kỵ nghị, "việc làm nhạc lớn nhất là không thể sống chung với bản thân"
 
 ## Tài liệu tham khảo
 

@@ -146,10 +146,10 @@ Do đó, quay lại xem Đại Tứ, cách vào nhất thực vẫn là âm nh�
 
 **Đọc thêm**:
 
-- [Hip-hop và rap Đài Loan](/music/台灣嘻哈與饒舌發展) — Từ Song Yuet Ting, HotDog đến Đại Tứ, Leo Vua, Bear Zi và các thế hệ mới của rap Đài Loan.
-- [Nhạc độc lập Đài Loan](/music/台灣獨立音樂) — Các nhãn hàng độc lập, không gian địa phương và âm nhạc phi chính thức đã tạo ra một con đường khác của âm nhạc Đài Loan.
-- [Giải Thưởng Nhạc Sĩ Hoa Ngữ](/music/金曲獎) — Từ các giải thưởng nhạc pop nhìn thấy sự thay đổi của các thể loại và chính trị ngôn ngữ trong âm nhạc Đài Loan.
-- [Sự kiện Hai Hai Tám](/history/二二八事件) — Một trong nhiều sự kiện lịch sử và chính trị mà công trình của Đại Tứ thường chạm đến.
+- [Hip-hop và rap Đài Loan](/vi/music/taiwan-hip-hop-and-rap) — Từ Song Yuet Ting, HotDog đến Đại Tứ, Leo Vua, Bear Zi và các thế hệ mới của rap Đài Loan.
+- [Nhạc độc lập Đài Loan](/vi/music/indie-music-scene) — Các nhãn hàng độc lập, không gian địa phương và âm nhạc phi chính thức đã tạo ra một con đường khác của âm nhạc Đài Loan.
+- [Giải Thưởng Nhạc Sĩ Hoa Ngữ](/vi/music/pop-music-and-golden-melody-awards) — Từ các giải thưởng nhạc pop nhìn thấy sự thay đổi của các thể loại và chính trị ngôn ngữ trong âm nhạc Đài Loan.
+- [Sự kiện Hai Hai Tám](/vi/history/228-incident) — Một trong nhiều sự kiện lịch sử và chính trị mà công trình của Đại Tứ thường chạm đến.
 
 ## Nguồn ảnh
 

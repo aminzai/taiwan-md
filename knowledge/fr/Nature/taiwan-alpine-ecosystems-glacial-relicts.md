@@ -11,7 +11,7 @@ tags:
     'biodiversité',
     'changement climatique',
   ]
-subcategory: 'Écosystèmes'
+subcategory: '生態系統'
 category: 'Nature'
 author: 'Taiwan.md Contributors'
 readingTime: 11

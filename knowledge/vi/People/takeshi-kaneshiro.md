@@ -2,7 +2,7 @@
 title: 'Takeshi Kaneshiro: Từ không được công nhân ra là "một người dân thường", đến khát được thế giới quên lãng làm "cỏ dại Châu Á"'
 description: 'Một tin street interview năm 2025 đã gắn nhãn ông là "một người dân thường", có lẽ đây là khoảnh khắc mà Takeshi Kaneshiro khao khát nhất. Từ lúc 17 tuổi quay quảng cáo để mua xe máy, đến trở thành ngôi sao quốc tế vượt qua Đài Loan, Nhật Bản, Hong Kong, anh luôn thực hành "biến mất" ở đỉnh cao của ngành giải trí.'
 category: 'People'
-subcategory: 'Điện ảnh và Kịch'
+subcategory: '電影與戲劇'
 tags:
   [
     'Takeshi Kaneshiro',

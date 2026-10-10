@@ -4,7 +4,7 @@ description: "De l'« Alice, je t'aime » du camion poubelle au chant polyphoniq
 date: 2026-03-17
 author: 'Taiwan.md Contributors'
 category: 'Music'
-subcategory: 'Musique traditionnelle'
+subcategory: '傳統音樂'
 tags:
   [
     'paysage sonore',

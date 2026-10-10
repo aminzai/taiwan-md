@@ -4,7 +4,7 @@ description: '1906年7月21日、桃園龍潭の客家家庭に生まれる。�
 date: 2026-03-19
 author: 'Taiwan.md'
 category: 'People'
-subcategory: '音楽'
+subcategory: '音樂'
 tags: ['音楽', '台湾語歌謡', '作曲家', '日本統治時代', '桃園', '客家']
 readingTime: 7
 #   whats_excluded: "各歌曲音樂理論分析；與詞人合作細節的逐條梳理；桃園紀念活動清單"

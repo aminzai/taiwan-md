@@ -100,6 +100,6 @@ The digital age also brings new opportunities: streaming platforms allow Hakka m
 
 [^6]: [Golden Melody 18, Take 1… Lin Sheng-xiang Drops a Bombshell, Refuses Award with Folded Hands | Liberty Times Entertainment](https://ent.ltn.com.tw/news/paper/136087) — Details of Lin Sheng-xiang's refusal at the 18th Golden Melody Awards (2007) and the recipients of his donated prize money.
 
-[^7]: [Best Hakka Album (Golden Melody Awards) — Wikipedia](<https://zh.wikipedia.org/zh-tw/最佳客語專輯獎_(金曲獎)>) — Confirms Lo Szu-jung's _Lan Hua Qu_ won Best Hakka Singer and Best Hakka Album at the 23rd Golden Melody Awards.
+[^7]: [Best Hakka Album (Golden Melody Awards) — Wikipedia](https://zh.wikipedia.org/zh-tw/最佳客語專輯獎_\(金曲獎\) — Confirms Lo Szu-jung's _Lan Hua Qu_ won Best Hakka Singer and Best Hakka Album at the 23rd Golden Melody Awards.
 
 [^8]: [Hakka TV Official Website](https://www.hakkatv.org.tw/) — Confirms launch in 2003 as the world's first 24-hour Hakka-language television channel.

@@ -12,7 +12,7 @@ tags:
     'Demokrasi Taiwan',
     'Daftar Hitam Luar Negeri',
   ]
-subcategory: 'Politik dan Demokrasi'
+subcategory: '政治與民主'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16
@@ -22,6 +22,7 @@ curation: 'incubating'
 translatedFrom: 'People/蔡同榮.md'
 sourceCommitSha: '242950a64'
 sourceContentHash: 'sha256:20335af1b3ee078c'
+sourceBodyHash: 'sha256:d10467cfa27626e7'
 translatedAt: '2026-09-15T00:56:58.343743+00:00'
 ---
 

@@ -183,10 +183,10 @@ Quelle: Eslite Lifestyle 2024 Statistikdaten
 ## Weiterführende Lektüre
 
 - [Entwicklung des taiwanesischen Kulturparks: Vom Fabrikgelände zum emotionalen Motor der Stadt](/de/culture/taiwan-cultural-creative-park-development)
-- [Die städtische Ästhetik aus Alt und Neu: Die Erhaltungsbewegung in Dazhong und Dixiang](/geography/大稻埕)
-- [Die Filmgeschichte Taiwans: Vom gesunden Realismus zur digitalen Welle](/art/台灣電影)
+- [Die städtische Ästhetik aus Alt und Neu: Die Erhaltungsbewegung in Dazhong und Dixiang](/de/geography/dadaocheng)
+- [Die Filmgeschichte Taiwans: Vom gesunden Realismus zur digitalen Welle](/de/art/taiwanese-cinema)
 - [Reporter – Der Überlebenskampf des physischen Buchladens: Die Neukonstruktion der Kulturlandschaft nach dem Ausmachen von Eslite](https://www.twreporter.org/tag/574e98b79b5c2c10007f3747)
-- [Die taiwanesische Popmusik: Vom Verbotenen Lied zum asiatischen Kreativzentrum](/music/台灣流行音樂)
+- [Die taiwanesische Popmusik: Vom Verbotenen Lied zum asiatischen Kreativzentrum](/de/music/golden-melodies-legacy-taiwan-pop-music)
 
 ---
 

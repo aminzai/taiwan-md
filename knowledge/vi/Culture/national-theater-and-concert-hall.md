@@ -3,7 +3,7 @@ title: 'Hai Phòng Họ: Con Đường Chuyển Hóa Từ Biểu Tượng Áp Đ
 description: "Vào năm 1987 khi hoàn thành, Hai Phòng Họ là một công trình kiến trúc dạng lâu đài tướng trị Chiang Ching-kuo, với cổng sắt giới hạn người dân ra ngoài. Vào năm 2003, Chủ tịch Thuong Chu Kinh đã phá hủy cổng đó, và vào năm 2004 trở thành tổ chức nhà nước đầu tiên của Đài Loan. 4.172 ống ống của đàn pipe Flentrop Hà Lan được ẩn sâu trong tường nền, Giám đốo Nghệ thuật Liu Nhi Nu nói rằng nhà hát văn hóa cần nhìn thấy 'những rào cản không thể thấy'."
 date: 2026-05-02
 category: 'Culture'
-subcategory: 'Nghệ Thuật Biểu Diễn'
+subcategory: '表演藝術'
 tags:
   [
     'Hai Phòng Họ',

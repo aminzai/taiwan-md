@@ -118,7 +118,7 @@ A carreira de Jeremy Lin nunca se encaixou nas expectativas de ninguém — incl
 - [Tai Tzu-ying (戴資穎)](/pt/people/tai-tzu-ying) — outra atleta taiwanesa no palco mundial, ex-número 1 do badminton
 - [Jay Chou (周杰倫)](/pt/people/jay-chou) — representante da música taiwanesa, presente na cerimônia de aposentadoria de Jeremy Lin
 - [Relações entre Taiwan e os EUA](/society/台灣與美國關係) — Jeremy Lin, como taiwanês-americano, carrega a trajetória da geração que foi estudar nos EUA após 1965
-- [Lee Yang (李洋)](/people/李洋) — do ouro olímpico à posse como primeiro ministro do Esporte, outro caminho de atleta taiwanês
+- [Lee Yang (李洋)](/pt/people/lee-yang-badminton) — do ouro olímpico à posse como primeiro ministro do Esporte, outro caminho de atleta taiwanês
 
 ## Referências
 

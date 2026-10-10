@@ -1,19 +1,23 @@
 #!/usr/bin/env python3
 """策展人筆記密度盤點 — 量 EDITORIAL §四 密度上限與 §十 最低使用量各自蓋住多少條目。
 
-**這支是尺，不是閘門。** 它沒有接 pre-commit、沒有接 CI、沒有 pass/fail 門檻，
-因為它要量的那兩條規則目前互相矛盾，而「要留哪一條」是 OBSERVER-QUEUE #74
-在等的決定（EDITORIAL 要不要分成事實層硬閘門與美學層預設）。先量再改，
-拍板之前不該有東西拿這兩條規則去擋任何人的 commit（REFLEXES #66 門檻要用
-真實產出校準、#99 尺先驗再用）。
+**這支是尺，不是閘門。** 它沒有接 pre-commit、沒有接 CI、沒有 pass/fail 門檻。
+造它的時候（2026-10-03）它量的兩條規則互相矛盾，「要留哪一條」是 OBSERVER-QUEUE #74
+在等的決定；2026-10-10 哲宇拍板選項 B（EDITORIAL v6.22 分成事實層硬閘門與美學層
+預設），兩條都留下來但角色變了。拍板之後它仍然只量不裁：下限現在有 N/A 出口，
+一支只數筆記的尺看不見研究報告裡那一行理由（REFLEXES #66 門檻要用真實產出校準、
+#99 尺先驗再用）。
 
-量的是哪兩條（canonical: docs/editorial/EDITORIAL.md）：
+量的是哪兩條（canonical: docs/editorial/EDITORIAL.md v6.22）：
 
-  §四 密度規則：1500 字以下 0-1 個；1500-3000 字 1-2 個；3000+ 字 2-4 個。寧少勿多。
-  §十 富文本最低使用量：B 級至少 1 個 📝 策展人筆記 callout。「不強制 = 不存在」。
+  §四 密度規則（上限，美學層預設）：1500 字以下 0-1 個；1500-3000 字 1-2 個；
+      3000+ 字 2-4 個。寧少勿多，0 則合法。
+  §十 富文本預設使用量（美學層預設）：B 級預設 1 個 📝 策展人筆記 callout；
+      0 則可以，研究報告或投影筆記寫一行「N/A：策展人筆記，{理由}」。
 
-§四 容許 0 個（「寧少勿多」），§十 把 0 這個出口關掉——同一份 canonical 的兩端
-對同一篇文章可以同時判它太多與太少。這支尺把兩個族群分開報，讓那個矛盾有數字。
+v6.22 之前 §十 寫「至少 1 個」加「不強制 = 不存在」，把 0 這個出口關掉——同一份
+canonical 的兩端對同一篇文章可以同時判它太多與太少。這支尺把兩個族群分開報：
+over_cap 是 §四 要修的那群，below_minimum 現在的意思是「0 則，去看有沒有寫理由」。
 
 誕生：2026-10-03 twmd-maintainer-am。Discussion #1757（kwt-klure）抽樣 24 篇近期
 條目，量到策展人筆記是「可逐篇插入的零件」裡收斂最明顯的一個（88% 的文章有、
@@ -93,7 +97,7 @@ def measure(path: pathlib.Path) -> dict:
         "cap": cap,
         "over_by": max(0, notes - cap),
         "over_cap": notes > cap,          # §四 判太多
-        "below_minimum": notes == 0,      # §十 判太少（B 級至少 1）
+        "below_minimum": notes == 0,      # §十 預設 1 則；0 則要看研究報告有沒有 N/A 理由
     }
 
 
@@ -136,7 +140,7 @@ def main() -> int:
     print("════════ 策展人筆記密度盤點（尺，非閘門）════════")
     print(f"  zh 條目                     : {total}")
     print(f"  §四 超過密度上限            : {len(over)}  ({100 * len(over) / total:.1f}%)")
-    print(f"  §十 一則都沒有（B 級最低）  : {len(zero)}  ({100 * len(zero) / total:.1f}%)")
+    print(f"  §十 一則都沒有（預設 1 則） : {len(zero)}  ({100 * len(zero) / total:.1f}%)")
     print(f"  平均每篇                    : {sum(r['notes'] for r in rows) / total:.2f} 則")
     print()
     dist = sorted(Counter(r["notes"] for r in rows).items())
@@ -147,9 +151,9 @@ def main() -> int:
         for r in sorted(over, key=lambda r: -r["over_by"])[:args.top]:
             print(f"    {r['notes']:3d}/{r['cap']}  {r['cjk_chars']:6d}字  {r['path']}")
         print()
-    print("  ⚠️ 這兩個族群是同一份 canonical 的兩端：§四 容許 0 則（寧少勿多），")
-    print("     §十 要求 B 級至少 1 則（不強制 = 不存在）。要留哪一條是")
-    print("     OBSERVER-QUEUE #74 在等的決定，本尺只量不裁。")
+    print("  ⚠️ EDITORIAL v6.22（OBSERVER-QUEUE #74 拍板 B）：§四 是上限、0 則合法；")
+    print("     §十 是預設、0 則要在研究報告寫一行 N/A 理由。超標那群是要修的，")
+    print("     0 則那群要去看理由在不在，本尺看不到理由，只量不裁。")
     return 0
 
 

@@ -122,4 +122,4 @@ translatedAt: '2026-08-04T20:19:13+08:00'
 
 - [فترة الهولنديين والإسبان ومينغ-تشينغ](/ar/history/dutch-spanish-and-koxinga-era)
 - [فترة حكم تشينغ](/ar/history/qing-dynasty-rule)
-- [التضاريس الساحلية والمناظر البحرية في تايوان](/geography/台灣海岸地形與海洋地景)
+- [التضاريس الساحلية والمناظر البحرية في تايوان](/ar/geography/taiwan-coastal-landforms-and-seascapes)

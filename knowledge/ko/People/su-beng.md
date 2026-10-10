@@ -4,7 +4,7 @@ description: "수벙(본명 시초회)은 중국에서 중공을 위한 지하 �
 date: 2026-07-10
 author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '정치와 사회운동'
+subcategory: '政治與社會運動'
 tags:
   - '인물'
   - '수벙'

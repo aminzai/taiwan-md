@@ -14,7 +14,7 @@ tags:
     'Identitas Nasional',
     'Satu Hari Istirahat',
   ]
-subcategory: 'Sistem dan Kebijakan'
+subcategory: '制度與政策'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 18
@@ -28,6 +28,7 @@ relatedDiary: ['2026-06-19-103421-manual']
 translatedFrom: 'Society/國定假日.md'
 sourceCommitSha: 'ddb9590b6'
 sourceContentHash: 'sha256:0acd5b8de068abbb'
+sourceBodyHash: 'sha256:68d627d331e8bf54'
 translatedAt: '2026-09-17T09:54:28.999916+00:00'
 ---
 
@@ -214,13 +215,13 @@ Ini adalah sejarah Taiwan yang ditulis dengan "hari apa yang tidak perlu pergi b
 
 **Bacaan Lanjutan**:
 
-- [Insiden 228](/history/二二八事件) — Pembantaian tahun 1947 dan bagaimana hal itu menjadi hari libur nasional pertama yang dilegalkan di Taiwan pada tahun 1997
+- [Insiden 228](/id/history/228-incident) — Pembantaian tahun 1947 dan bagaimana hal itu menjadi hari libur nasional pertama yang dilegalkan di Taiwan pada tahun 1997
 - [Masa Darurat Militer](/id/history/martial-law-era) — Kalender otoritarianisme di balik "Oktober Gemilang" dan Hari Ulang Tahun Chiang Kai-shek
 - [Keadilan Transisional Taiwan](/id/history/taiwan-transitional-justice) — Mengapa Hari Memori Teror Putih belum bisa masuk ke kalender
 - [Spektrum Unifikasi/Independensi Taiwan](/id/society/taiwan-unification-independence-spectrum) — Peta identitas di balik tiga pandangan sejarah: "Pemulihan/Akhir Perang/Pengambilalihan"
-- [Taipei Tionghoa](/society/中華台北) — Sisi lain dari perdebatan Hari Nasional 10 Oktober dan Hari Nasional Taiwan dalam satu "Republik Tiongkok"
-- [Libur Badai](/society/颱風假) — Jenis "siapa liburnya, siapa kerjanya" yang lain: orang-orang yang tetap bekerja di tengah badai
-- [Festival Perayaan Qingming](/culture/端午節) — Bagaimana hari raya tradisional menjadi sistem "libur sehari" pada kalender
+- [Taipei Tionghoa](/id/society/chinese-taipei) — Sisi lain dari perdebatan Hari Nasional 10 Oktober dan Hari Nasional Taiwan dalam satu "Republik Tiongkok"
+- [Libur Badai](/id/society/typhoon-day) — Jenis "siapa liburnya, siapa kerjanya" yang lain: orang-orang yang tetap bekerja di tengah badai
+- [Festival Perayaan Qingming](/id/culture/dragon-boat-festival) — Bagaimana hari raya tradisional menjadi sistem "libur sehari" pada kalender
 - [Kondisi Politik dan Sistem Pemilu Taiwan](/id/society/taiwan-political-landscape-and-electoral-system) — Struktur jumlah anggota Partai Biru, Putih, dan Hijau di Legislatif, bagaimana menentukan hari merah pada kalender
 
 ## Sumber Gambar

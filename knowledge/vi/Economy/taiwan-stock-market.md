@@ -178,13 +178,13 @@ Ba mươi năm tới, thị trường vốn Đài Loan sẽ học được đi�
 
 **Đọc thêm**
 
-- [Công ty Đài Loan: TSMC](/economy/台灣企業：台積電) — Mặt trời trọng số 45% trong thị trường chứng khoán Đài Loan, với câu chuyện đằng sau từ "đảo quốc bảo vệ"
-- [Ngành công nghiệp bán dẫn](/technology/半導體產業) — Toàn bộ hệ sinh thái chuỗi cung ứng hỗ trợ vị trí thứ 6 của Đài Loan
-- [Công ty Đài Loan: Foxconn Precision](/economy/台灣企業：鴻海精密) — Một chủ công suất trọng lượng khác trong danh sách 25 mã mua của Goldman Sachs, từ ông lớn gia công đến người chuyển đổi máy chủ AI
-- [Nâng cấp công nghiệp Đài Loan](/economy/台灣產業轉型升級) — Quỹ đạo từ gia công những năm 1980 đến lợi nhuận AI năm 2026
-- [Kỳ tích kinh tế: Từ nước tảo ngâm đến TSMC, câu chuyện lật đổ của 20 triệu người](/economy/經濟奇蹟) — Tiền trong thời đại "tiền Đài Loan nhiều chảy tràn chân" cuối cùng chảy vào thị trường chứng khoán 1990 và Hộng Nguồn
-- [Phát triển công nghệ tài chính Đài Loan](/economy/台灣金融科技發展) — Từ điện thoại số hiệu ở công ty chứng khoán đến cuộn điện thoại định kỳ định lượng, nền tảng cơ sở hạ tầng tài chính đằng sau một tài khoản
-- [Applause Cider](/food/蘋果西打) — Dây chuyền luân chuyển cổ phần của công ty Atlantic Beverage niêm yết 1965 (mã cổ phiếu 1213), là trường hợp thu nhỏ của hai điểm thời gian lịch sử vốn 1985 và 1990 khi công ty này phá sản
+- [Công ty Đài Loan: TSMC](/vi/economy/tsmc) — Mặt trời trọng số 45% trong thị trường chứng khoán Đài Loan, với câu chuyện đằng sau từ "đảo quốc bảo vệ"
+- [Ngành công nghiệp bán dẫn](/vi/technology/taiwan-semiconductor-industry) — Toàn bộ hệ sinh thái chuỗi cung ứng hỗ trợ vị trí thứ 6 của Đài Loan
+- [Công ty Đài Loan: Foxconn Precision](/vi/economy/foxconn-precision-industry) — Một chủ công suất trọng lượng khác trong danh sách 25 mã mua của Goldman Sachs, từ ông lớn gia công đến người chuyển đổi máy chủ AI
+- [Nâng cấp công nghiệp Đài Loan](/vi/economy/industrial-transformation-from-manufacturing-to-innovation) — Quỹ đạo từ gia công những năm 1980 đến lợi nhuận AI năm 2026
+- [Kỳ tích kinh tế: Từ nước tảo ngâm đến TSMC, câu chuyện lật đổ của 20 triệu người](/vi/economy/economic-miracle) — Tiền trong thời đại "tiền Đài Loan nhiều chảy tràn chân" cuối cùng chảy vào thị trường chứng khoán 1990 và Hộng Nguồn
+- [Phát triển công nghệ tài chính Đài Loan](/vi/economy/taiwan-fintech-development) — Từ điện thoại số hiệu ở công ty chứng khoán đến cuộn điện thoại định kỳ định lượng, nền tảng cơ sở hạ tầng tài chính đằng sau một tài khoản
+- [Applause Cider](/vi/food/apple-cider) — Dây chuyền luân chuyển cổ phần của công ty Atlantic Beverage niêm yết 1965 (mã cổ phiếu 1213), là trường hợp thu nhỏ của hai điểm thời gian lịch sử vốn 1985 và 1990 khi công ty này phá sản
 
 ## Tài liệu tham khảo
 

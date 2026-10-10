@@ -159,12 +159,12 @@ Sepanjang hidup ia mencari sekantong udara bersih. Di Kinmen ia bilang mau bawa 
 
 **Baca Lanjutan**:
 
-- [Musik Pop Taiwan](/music/台灣流行音樂) — Era emas musik pop Mandarin tempat ia berada dan konteks industri
-- [Gerakan Lagu Rakyat Taiwan](/music/台灣民歌運動) — Generasi sama, gerakan kesadaran lokal lanskap musik Taiwan 1970-an
+- [Musik Pop Taiwan](/id/music/golden-melodies-legacy-taiwan-pop-music) — Era emas musik pop Mandarin tempat ia berada dan konteks industri
+- [Gerakan Lagu Rakyat Taiwan](/id/music/taiwan-campus-folk-song-movement) — Generasi sama, gerakan kesadaran lokal lanskap musik Taiwan 1970-an
 - [Era Hukum Darurat](/id/history/martial-law-era) — Struktur politik dasar masyarakat Taiwan sebelum ia ke Jepang usia 20 tahun
 - [Teror Putih Taiwan](/id/history/taiwan-white-terror) — Iklim politik masa tumbuhnya
-- [Krisis Selat Taiwan dan Perkembangan Hubungan Lintas Selat](/history/台海危機與兩岸關係發展) — Batas Perang Dingin yang ia lewati dengan suara
-- [Brigitte Lin](/people/林青霞) — Bintang film TV Taiwan generasi sama, koordinat lain jaringan bintang Mandarin Asia Timur 1970-80-an
+- [Krisis Selat Taiwan dan Perkembangan Hubungan Lintas Selat](/id/history/taiwan-strait-crises-and-cross-strait-relations) — Batas Perang Dingin yang ia lewati dengan suara
+- [Brigitte Lin](/id/people/brigitte-lin-legendary-actress) — Bintang film TV Taiwan generasi sama, koordinat lain jaringan bintang Mandarin Asia Timur 1970-80-an
 
 ## Referensi
 

@@ -14,7 +14,7 @@ tags:
     'मूल निवासियों का नाम सुधार',
     'नए नाम रखना',
   ]
-subcategory: 'भाषा और नामकरण'
+subcategory: '語言與命名'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 18
@@ -36,6 +36,7 @@ rationale:
 translatedFrom: 'Culture/台灣人小時候的英文名字.md'
 sourceCommitSha: 'cfce444ae'
 sourceContentHash: 'sha256:c124eb253c195f03'
+sourceBodyHash: 'sha256:efeadcec0add04bc'
 translatedAt: '2026-09-16T14:49:06.218181+00:00'
 ---
 

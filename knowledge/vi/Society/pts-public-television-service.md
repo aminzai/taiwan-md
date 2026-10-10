@@ -12,7 +12,7 @@ tags:
     'Quân đội-Chính phủ rút khỏi phương tiện truyền thông',
     'nguyên tắc cánh tay',
   ]
-subcategory: 'Media and Discourse'
+subcategory: '媒體與言論'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-27

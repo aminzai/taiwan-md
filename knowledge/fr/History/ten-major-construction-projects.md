@@ -129,7 +129,7 @@ L'héritage le plus précieux que ces projets ont laissé à Taïwan n'est peut-
 
 [^19]: [Plan de développement de l'industrie automobile et autoroute Zhongshan](https://storystudio.tw/article/gushi/taiwan-first-freeway/) — Soutien politique à l'industrie automobile.
 
-[^20]: [Les Dix Grands Projets font éclore l'économie taïwanaise - Yahoo News](https://tw.yahoo.com/news/%E7%99%BE%E5%B9%B4%E5%8D%B0%E8%B1%A1-%E9%A2%A8%E8%8F%AF%E6%B5%81%E8%BD%89-%E5%BB%BA%E5%9C%8B%E7%99%BE%E5%B9%B4%E7%B3%BB%E5%88%97%E5%B0%88%E9%A1%8C-%E5%8D%81%E5%A4%A7%E5%BB%BA%E8%A8%AD-%E5%8F%B0%E7%81%A3%E7%B6%93%E6%BF%9F%E7%A0%B4%E7%B9%AD-094000742.html) — Impact de la montée en gamme industrielle et de la lourde industrialisation.
+[^20]: [Les Dix Grands Projets font éclore l'économie taïwanaise - Yahoo News](https://tw.yahoo.com/news/%E7%99%BE%E5%B9%B4%E7%B3%BB%E5%88%97%E5%B0%88%E9%A1%8C-%E5%8D%81%E5%A4%A7%E5%BB%BA%E8%A8%AD-%E5%8F%B0%E7%81%A3%E7%B6%93%E6%BF%9F%E7%A0%B4%E7%B9%AD-094000742.html) — Impact de la montée en gamme industrielle et de la lourde industrialisation.
 
 [^21]: [Série du centenaire de la fondation : Les Dix Grands Projets font éclore l'économie taïwanaise - Yahoo News (Radio centrale)](https://tw.news.yahoo.com/%E7%99%BE%E5%B9%B4%E5%8D%B0%E8%B1%A1-%E9%A2%A8%E8%8F%AF%E6%B5%81%E8%BD%89-%E5%BB%BA%E5%9C%8B%E7%99%BE%E5%B9%B4%E7%B3%BB%E5%88%97%E5%B0%88%E9%A1%8C-%E5%8D%81%E5%A4%A7%E5%BB%BA%E8%A8%AD-%E5%8F%B0%E7%81%A3%E7%B6%93%E6%BF%9F%E7%A0%B4%E7%B9%AD-094000742.html) — « En 1976, les données se sont améliorées, le taux de croissance économique atteignant 13,5 %, un record historique ».
 

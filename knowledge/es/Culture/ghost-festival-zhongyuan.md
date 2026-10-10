@@ -3,7 +3,7 @@ title: 'Festival de los Muertos: De la angustia por las almas errantes a la reco
 description: "El Festival de los Muertos en Taiwán no es solo un acto de temor hacia los espíritus, sino un registro de supervivencia sobre colonización, conflicto y fusión étnica. Desde la reconciliación con lágrimas en Keelung hasta la competencia extrema de 'reclamar a los perdidos' (搶孤) en Toucheng, esta festividad revela cómo el pueblo taiwanés transformó el miedo en un tratado de paz social."
 date: 2026-07-20
 category: 'Culture'
-subcategory: 'Festividades y Costumbres'
+subcategory: '節慶與禮俗'
 tags:
   [
     'Prado de los Muertos',

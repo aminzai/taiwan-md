@@ -18,6 +18,7 @@ curation: incubating
 translatedFrom: 'Culture/新竹都城隍廟.md'
 sourceCommitSha: 'e974b4c9'
 sourceContentHash: 'sha256:810c670a0d955eec'
+sourceBodyHash: 'sha256:772e1869525f702d'
 translatedAt: '2026-09-15T23:08:54Z'
 ---
 

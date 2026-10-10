@@ -4,7 +4,7 @@ description: 'En diciembre de 2024, el documental "Documental de la Guerra Unida
 date: 2026-04-23
 author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: 'Media y discurso público'
+subcategory: '媒體與言論'
 tags:
   [
     'Guerra cognitiva',
@@ -21,6 +21,15 @@ readingTime: 28
 lastVerified: 2026-04-23
 lastHumanReview: false
 featured: false
+sporeLinks:
+  - id: 41
+    platform: 'threads'
+    date: '2026-04-23'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXdyoqkEdma'
+  - id: 42
+    platform: 'x'
+    date: '2026-04-23'
+    url: 'https://x.com/taiwandotmd/status/2047213679826149450'
 translatedFrom: 'Society/認知作戰.md'
 sourceCommitSha: '7c4a58918'
 sourceContentHash: 'sha256:0b5ddca64df69aa6'
@@ -268,7 +277,7 @@ El campo de batalla definitivo de la guerra cognitiva es **la propia relación d
 
 [^11]: [IORG: Duda de EE. UU. y sus procedencias](https://iorg.tw/_en/a/press-release-20230921) — Centro de Investigación del Entorno Informativo de Taiwán, seguimiento de investigación de 84 narrativas
 
-[^12]: [Encuesta de adolescentes en TikTok de Doublethink Lab 2025](https://medium.com/doublethinklab-tw/%E7%B2%BE%E6%BA%96%E6%8E%A8%E6%92%AD%E8%88%87%E8%AA%8D%E7%9F%A5%E6%BB%B7%E9%80%8F-tiktok-458e3c5f7475) — Laboratorio de Democracia de Taiwán, versión resumida de tres informes interconectados
+[^12]: [Encuesta de adolescentes en TikTok de Doublethink Lab 2025](https://medium.com/doublethinklab-tw/%E7%B2%BE%E6%BA%96%E6%8E%A8%E6%92%AD%E8%88%87%E8%AA%8D%E7%9F%A5%E6%BB%B2%E9%80%8F-tiktok-458e3c5f7475) — Laboratorio de Democracia de Taiwán, versión resumida de tres informes interconectados
 
 [^13]: [Shen Pei-yang: El 80% de la guerra de opinión no tiene que ver con la verdad o falsedad, es un ataque narrativo](https://feja.org.tw/74059/) — Fundación de Premios de Periodismo de Excelencia, registro de discurso de Shen Pei-yang
 
@@ -358,7 +367,7 @@ El campo de batalla definitivo de la guerra cognitiva es **la propia relación d
 
 [^56]: [Encuesta de granjas de contenido: adultos mayores verifican activamente](https://www.twreporter.org/a/information-warfare-business-disinformation-fake-news-behind-line-groups) — The Reporter, 30% de adultos mayores reportan activamente
 
-[^57]: [Alfabetización Algorítmica Crítica Critical Algorithmic Literacy](https://rcais.medium.com/ai%E4%BD%9C%E7%82%BA%E5%AA%92%E4%BB%8B-%E8%A9%A6%E8%AB%96%E6%89%B9%E5%88%A4%E6%BC%94%E7%AE%97%E6%B3%95%E7%B4%A0%E9%A4%8A-critical-algorithmic-literacy-%E7%9A%84%E5%85%A7%E6%B6%B9-dde8235a0a4e) — Centro de Investigación Social de IA de la Universidad de Soochow (RCAIS)
+[^57]: [Alfabetización Algorítmica Crítica Critical Algorithmic Literacy](https://rcais.medium.com/ai%E4%BD%9C%E7%82%BA%E5%AA%92%E4%BB%8B-%E8%A9%A6%E8%AB%96%E6%89%B9%E5%88%A4%E6%BC%94%E7%AE%97%E6%B3%95%E7%B4%A0%E9%A4%8A-critical-algorithmic-literacy-%E7%9A%84%E5%85%A7%E6%B6%B5-dde8235a0a4e) — Centro de Investigación Social de IA de la Universidad de Soochow (RCAIS)
 
 [^58]: [StopFake y NAFO: Autorganización civil en Ucrania](https://www.twreporter.org/a/russian-invasion-of-ukraine-2022-stopfake) — The Reporter, contrarespuesta táctica civil posterior a 2022
 

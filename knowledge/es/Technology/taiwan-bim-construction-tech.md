@@ -18,7 +18,7 @@ tags:
     'Taiwan Engineering Consulting',
     'Shuoto',
   ]
-subcategory: 'Tecnología de la construcción'
+subcategory: '建築科技'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-22
@@ -32,6 +32,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:FreeCAD_1.0_Dark_BIM_Examp
 translatedFrom: 'Technology/台灣BIM與營建科技.md'
 sourceCommitSha: 'b67b190fb'
 sourceContentHash: 'sha256:f8b3c2310e7fb840'
+sourceBodyHash: 'sha256:c4a7f62bbc68876d'
 translatedAt: '2026-09-10T08:31:51.904411+00:00'
 ---
 

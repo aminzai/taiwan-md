@@ -4,7 +4,7 @@ description: 'Global Game Jam이 타이완에 상륙한 때부터 KUSO GAME JAM�
 date: 2026-04-27
 author: 'tppr2046'
 category: 'Technology'
-subcategory: '게임 산업'
+subcategory: '遊戲產業'
 tags: ['게임', '인디 게임', 'Game Jam', '커뮤니티', 'KUSO', '창작']
 readingTime: 8
 lastVerified: 2026-04-27

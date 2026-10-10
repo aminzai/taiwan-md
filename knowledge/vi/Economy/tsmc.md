@@ -46,6 +46,7 @@ sporeLinks:
 translatedFrom: 'Economy/台灣企業：台積電.md'
 sourceCommitSha: '6ffd92f94'
 sourceContentHash: 'sha256:e49710c21ecf543a'
+sourceBodyHash: 'sha256:6bdb1c40d1477a30'
 translatedAt: '2026-09-22T04:24:48.887344+00:00'
 ---
 

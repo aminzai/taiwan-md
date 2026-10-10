@@ -222,7 +222,7 @@ _Ge Zhong-shan Miss Ko, 2013 no CMJ Music Marathon em Nova Iorque. Primeira cant
 
 O verdadeiro estouro deu-se no início de 2025. O estopim foi uma faixa de Novembro de 2024 que explodiu no Douyin, criticada por misoginia — «Amar-te É Impossível» (Yi Yi). A 22 de Janeiro de 2025, RapShark (nome real Chang Po-han, 2000, de Tainan, Black Music Society da Chengchi) lançou «[Cala a Boca Lixo](https://www.youtube.com/watch?v=wyjDlPigQ50)», diss direto, primeira rapper mulher a contra-atacar frontalmente[^45].
 
-Quem saiu em apoio foi alguém que nada tinha a ver com a guerra interna: [?te](/people/壞特) (nome real Lin Chih-yi). Ela nem faz rap; estudou nove anos na Academia de Medicina da Defesa, levou o 32.º Golden Melody de Melhor Novo Artista como cantora criadora lo-fi R&B. Justamente por isso, o seu post no Threads a criticar aquelas canções «cheias de cultura machista tradicional» sob a regra não-escrita do «não se pisa uns aos outros» no hip-hop foi especialmente visível, e foi imediatamente alvo de ataque em massa[^46]. Após o ataque não recuou, no Threads foi mais fundo: «Sei que estou a fazer a coisa certa, o que estou a fazer representa os valores nucleares do hip-hop.»[^47]
+Quem saiu em apoio foi alguém que nada tinha a ver com a guerra interna: [?te](/pt/people/huai-te-indie-singer) (nome real Lin Chih-yi). Ela nem faz rap; estudou nove anos na Academia de Medicina da Defesa, levou o 32.º Golden Melody de Melhor Novo Artista como cantora criadora lo-fi R&B. Justamente por isso, o seu post no Threads a criticar aquelas canções «cheias de cultura machista tradicional» sob a regra não-escrita do «não se pisa uns aos outros» no hip-hop foi especialmente visível, e foi imediatamente alvo de ataque em massa[^46]. Após o ataque não recuou, no Threads foi mais fundo: «Sei que estou a fazer a coisa certa, o que estou a fazer representa os valores nucleares do hip-hop.»[^47]
 
 O campo de batalha incendiou-se a 12 de Fevereiro de 2025 com uma canção. Yang Shu-ya (nascida 1999, Política da NTU, Sociedade de Hip-hop, ex-professora de primária em Hualien) lançou «[Rule Homem Freestyle](https://www.youtube.com/watch?v=MHHHWAyq8qM)», com o verso «Real não é o teu véu de misoginia» a virar a mesa[^48]. Esta faixa sem qualquer recurso de editora, em menos de 24 horas subiu ao topo imediato do StreetVoice, YouTube perto de 100 mil visualizações, o crítico Ma Shih-fang e a escritora Huang Li-chun partilharam[^49]. Uma rapariga saída de clube universitário, sem editora, com uma canção atravessou o meio musical e o literário: isto por si só é a prova mais forte daquela «porta académica» do hip-hop taiwanês.
 
@@ -262,8 +262,8 @@ Os quatro tons do mandarim, os sete do taiwanês, as 16 línguas indígenas: Tai
 **Leitura complementar**:
 
 - [Chen Hsien-ching](/pt/music/hsien-ching-chen) — Black Music Society da Chengchi, «respondeu» em rap ao poema de Xia Yu, oitava ano de música para levar Golden Melody de Novo Artista
-- [Música popular de Taiwan](/music/台灣流行音樂) — Do nakasi a Jay Chou, como uma ilha canta a sua canção
-- [Evolução da canção taiwanesa](/music/台灣台語歌曲演進) — De «Wang Chun Feng» ao Movimento Nova Canção Taiwanesa, como uma língua cantou de volta ao mainstream
+- [Música popular de Taiwan](/pt/music/golden-melodies-legacy-taiwan-pop-music) — Do nakasi a Jay Chou, como uma ilha canta a sua canção
+- [Evolução da canção taiwanesa](/pt/music/taiwanese-hokkien-song-evolution) — De «Wang Chun Feng» ao Movimento Nova Canção Taiwanesa, como uma língua cantou de volta ao mainstream
 - [Cantores criadores indígenas contemporâneos](/pt/music/contemporary-indigenous-singer-songwriters) — Do palco Golden Melody à revitalização de línguas de povo, como se ouvem as vozes dos 16 povos
 - [Música independente de Taiwan](/pt/music/indie-music-scene) — Underground, livehouses e uma longa campanha pela liberdade
 - [Golden Melody](/pt/music/pop-music-and-golden-melody-awards) — Como um prémio definiu o padrão do pop sinófono

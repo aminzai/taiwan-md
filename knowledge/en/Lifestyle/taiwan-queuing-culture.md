@@ -22,6 +22,7 @@ curation: 'incubating'
 translatedFrom: 'Lifestyle/排隊.md'
 sourceCommitSha: '0e24f2873'
 sourceContentHash: 'sha256:71a07c5ea0f34a1e'
+sourceBodyHash: 'sha256:a11c88d6404dea13'
 translatedAt: '2026-09-26T03:10:17.440078+00:00'
 ---
 

@@ -170,15 +170,15 @@ Die Wahrheit liegt wahrscheinlich dazwischen. Und Han Kuo-yu selbst ist möglich
 
 **Weiterführende Lesestoffe**:
 
-- [2026 Zheng-Shi Treffen: Zehn Jahre Wiedersehen von KMT und DPP in zehn Minuten](/society/2026鄭習會與國共十年再會) — Die Haushaltsverhandlungen des Parlaments im April 2026 werden von Han Kuo-yu geleitet; das Timing des Zheng-Shi Treffens mit dem Sondergesetz für den Haushalt ist dieselbe Woche.
-- [Cheng Li-wen (鄭麗文)](/people/鄭麗文) — Zwei der wichtigsten Figuren der KMT in den Jahren 2025–2026, eine als Parteivorsitzende und die andere als Parlamentspräsidentin, repräsentieren unterschiedliche Ökosysteme innerhalb der Partei.
+- [2026 Zheng-Shi Treffen: Zehn Jahre Wiedersehen von KMT und DPP in zehn Minuten](/de/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Die Haushaltsverhandlungen des Parlaments im April 2026 werden von Han Kuo-yu geleitet; das Timing des Zheng-Shi Treffens mit dem Sondergesetz für den Haushalt ist dieselbe Woche.
+- [Cheng Li-wen (鄭麗文)](/de/people/cheng-li-wun) — Zwei der wichtigsten Figuren der KMT in den Jahren 2025–2026, eine als Parteivorsitzende und die andere als Parlamentspräsidentin, repräsentieren unterschiedliche Ökosysteme innerhalb der Partei.
 - [Hsiao Mi-ching (蕭美琴)](/de/people/hsiao-bi-khim) — Zum Vergleich: Hsiao Mi-ching gewann erst nach sechs Jahren in Hualien einmal ein Abgeordnetenmandat; Han Kuo-yu wurde in Kaohsiung in 528 Tagen abgesetzt. Die Zeitkurven der Demokratie sind vielfältig.
-- [Taiwanische politische Landschaft und Wahlsystem](/society/台灣政治環境與選舉制度) — Warum ermöglicht das System der nicht gewählten Mandate die Wiederbelebung von „abgesetzten Politikern“ wie Han Kuo-yu? Die Antwort liegt in den Wahlregeln selbst.
-- [Ko Wen-je (柯文哲)](/people/柯文哲) — Eine weitere Figur, die von einem Laien zum Bürgermeister, vom Bürgermeister zum Präsidentschaftskandidaten und vom Präsidentschaftskandidaten zur Sturmschwerpunktfigur wurde; ihre Struktur des „Aufstiegs und Falls“ ähnelt der von Han Kuo-yu.
+- [Taiwanische politische Landschaft und Wahlsystem](/de/society/taiwan-political-landscape-and-electoral-system) — Warum ermöglicht das System der nicht gewählten Mandate die Wiederbelebung von „abgesetzten Politikern“ wie Han Kuo-yu? Die Antwort liegt in den Wahlregeln selbst.
+- [Ko Wen-je (柯文哲)](/de/people/ko-wen-je) — Eine weitere Figur, die von einem Laien zum Bürgermeister, vom Bürgermeister zum Präsidentschaftskandidaten und vom Präsidentschaftskandidaten zur Sturmschwerpunktfigur wurde; ihre Struktur des „Aufstiegs und Falls“ ähnelt der von Han Kuo-yu.
 - [Lu Hsiao-yan (盧秀燕)](/de/people/lu-hsiu-yan) — Der andere Pol der Han-Welle im Jahr 2018, die Bürgermeisterin von Taichung, die von einem blauen zu einem roten Gebiet wechselte, im selben Jahr wie Han Kuo-yu.
-- [Hsu Chao-xin (徐巧芯)](/people/徐巧芯) — Die Hauptverfechterin der 800-Milliarden-Dollar-Waffenbeschaffungsstreitigkeiten von 2026 und eine Schlüsselbeteiligte bei den Verhandlungen des Parlamentspräsidenten Han Kuo-yu.
+- [Hsu Chao-xin (徐巧芯)](/de/people/hsu-chiao-hsin) — Die Hauptverfechterin der 800-Milliarden-Dollar-Waffenbeschaffungsstreitigkeiten von 2026 und eine Schlüsselbeteiligte bei den Verhandlungen des Parlamentspräsidenten Han Kuo-yu.
 - [Ji Lin-lian (季麟連)](/de/people/ji-lin-lian) — Der stellvertretende Vorsitzende, der am 29. April 2026 in der Plenarsitzung verkündete: „Wer sich durch den Verkauf der Partei Ruhm verschafft, sollte seinen Parteizugehörigkeit verlieren“; das eigentliche Ziel dieser Aussage war Han Kuo-yu.
-- [Cheng Bo-en (曾博恩)](/people/曾博恩) — Im Dezember 2019 trat Han Kuo-yu in die dritte Staffel von Boen Nightly Show ein, wobei er nur verlangte, „nicht über Frisuren zu scherzen“, und Boen bezeichnete ihn als „vertrauter Fremder“.
+- [Cheng Bo-en (曾博恩)](/de/people/bernard-tseng) — Im Dezember 2019 trat Han Kuo-yu in die dritte Staffel von Boen Nightly Show ein, wobei er nur verlangte, „nicht über Frisuren zu scherzen“, und Boen bezeichnete ihn als „vertrauter Fremder“.
 
 ## Quellenangaben
 

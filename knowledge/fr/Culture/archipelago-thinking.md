@@ -266,7 +266,7 @@ La prochaine fois que quelqu’un vous demandera « à quel lieu Taïwan apparti
 
 [^12]: [L’ADN végétal porte aussi l’histoire : l’histoire migratoire austronésienne racontée par le mûrier à papier](https://research.sinica.edu.tw/paper-mulberry-dna-austronesian-history-chung-kuo-fang/) — Entretien de l’Academia Sinica présentant les recherches de l’équipe de Chung Kuo-fang, qui utilisent l’ADN du mûrier à papier pour soutenir la théorie de la « sortie de Taïwan » depuis la biogéographie.
 
-[^13]: [Nusantara (term) - Wikipedia](<https://en.wikipedia.org/wiki/Nusantara_(term)>) — Étude étymologique complète du terme Nusantara : vieux javanais _nusa_ (« île ») + emprunt sanskrit _antara_ (« entre »).
+[^13]: [Nusantara (term) - Wikipedia](https://en.wikipedia.org/wiki/Nusantara_(term) — Étude étymologique complète du terme Nusantara : vieux javanais _nusa_ (« île ») + emprunt sanskrit _antara_ (« entre »).
 
 [^14]: [Majapahit - Wikipedia](https://en.wikipedia.org/wiki/Majapahit) — Article sur l’empire Majapahit de Java oriental au XIVe siècle, incluant le contexte historique du « serment de Palapa » prononcé par Gajah Mada en 1336.
 

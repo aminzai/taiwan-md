@@ -21,6 +21,15 @@ readingTime: 18
 lastVerified: 2026-06-19
 lastHumanReview: false
 featured: false
+sporeLinks:
+  - id: 146
+    platform: 'threads'
+    date: '2026-06-19'
+    url: 'https://www.threads.com/@taiwandotmd/post/DZw5BYDE_fT'
+  - id: 147
+    platform: 'x'
+    date: '2026-06-19'
+    url: 'https://x.com/taiwandotmd/status/2067914171996614897'
 translatedFrom: 'Culture/端午節.md'
 sourceCommitSha: '58fa84f01'
 sourceContentHash: 'sha256:aac6019521f0bc32'

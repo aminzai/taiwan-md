@@ -11,7 +11,7 @@ tags:
     '2014 उन्नयन',
     '2026 चुनाव',
   ]
-subcategory: 'चुनाव प्रणाली'
+subcategory: '選舉制度'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-27
@@ -20,6 +20,7 @@ readingTime: 12
 translatedFrom: 'Politics/直轄市山地原住民區長.md'
 sourceCommitSha: 'e957cf7f1'
 sourceContentHash: 'sha256:0746c045bf4a4492'
+sourceBodyHash: 'sha256:4dad7b27d2c04ae8'
 translatedAt: '2026-08-02T14:36:49.531605+00:00'
 ---
 
@@ -243,10 +244,10 @@ translatedAt: '2026-08-02T14:36:49.531605+00:00'
 
 - [राजनीति हब](/politics) — Taiwan.md राजनीति चुनाव ज्ञान केंद्र
 - [2026 नौ-इन-वन चुनाव](/politics/2026 九合一選舉) — पूर्ण प्रणाली और समयसारिणी
-- [नौ-इन-वन चुनाव क्या है](/politics/九合一選舉是什麼) — 「नौ-इन-वन」 नौ पदों का विवरण
-- [ग्राम/ली प्रमुख प्रणाली](/politics/村里長制度) — 7,748 निर्वाचित प्रमुख, सबसे जमीनी राजनीतिक इकाई
+- [नौ-इन-वन चुनाव क्या है](/hi/politics/nine-in-one-elections-explained) — 「नौ-इन-वन」 नौ पदों का विवरण
+- [ग्राम/ली प्रमुख प्रणाली](/hi/politics/village-chief-system) — 7,748 निर्वाचित प्रमुख, सबसे जमीनी राजनीतिक इकाई
 - [पार्षद प्रणाली](/hi/politics/city-councilor-system-taiwan) — सीधे प्रशासित नगरों के पार्षद और काउंटी/शहर पार्षदों की वैधानिक शक्तियाँ और वास्तविक संचालन
-- [केंद्रीय चुनाव आयोग प्रणाली](/politics/中選會制度) — चुनाव प्रशासन का प्रणाली डिजाइन
+- [केंद्रीय चुनाव आयोग प्रणाली](/hi/politics/central-election-commission) — चुनाव प्रशासन का प्रणाली डिजाइन
 - [लोकतंत्रीकरण](/hi/history/taiwan-democratization-history) — ताइवान की निरंकुशता से लोकतंत्र तक की यात्रा
 
 ---

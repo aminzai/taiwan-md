@@ -14,7 +14,7 @@ tags:
     '2020',
     '2024',
   ]
-subcategory: 'Political Figure'
+subcategory: '政治人物'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 12
@@ -31,7 +31,7 @@ sporeLinks:
     date: '2026-04-13'
     url: 'https://x.com/taiwandotmd/status/2043538858886017091'
 translatedFrom: 'People/韓國瑜.md'
-sourceCommitSha: 'dd39065b'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:43806fa3b9658513'
 sourceBodyHash: 'sha256:fe00573219684528'
 translatedAt: '2026-06-10T16:45:00+00:00'

@@ -201,11 +201,11 @@ Bình Tây đang thử con đường thứ tư, thung lũng tiếp theo Tết Ng
 
 **Bài đọc thêm**:
 
-- [Lễ hội đền và đội hình Đài Loan](/culture/Lễ-hội-đền-và-đội-hình-Đài-Loan) — cùng với đèn trời là lễ hội dân gian, kéo co giữa di sản văn hóa vs vấn đề môi trường trong một case khác
-- [Lễ hội truyền thống và lễ kỷ niệm](/culture/Lễ-hội-truyền-thống-và-lễ-kỷ-niệm) — panorama lễ hội Đài Loan toàn bộ, nhìn thấy vị trí của đèn trời trong Tết Nguyên Tiêu và các lễ hội khác
-- [Tôn giáo Đài Loan và văn hóa miếu](/culture/Tôn-giáo-Đài-Loan-và-văn-hóa-miếu) — từ tín ngưỡng Ma Tổ của thành An Cung đến tiếp tục ký hiệu cầu phúc
-- [Lịch sử đường sắt Đài Loan](/history/Lịch-sử-đường-sắt-Đài-Loan) — tại sao đường sắt Bình Tây của thung lũng có thể biến lễ hội đèn trời thành thương hiệu quốc tế
-- [Hệ thống sinh thái rừng Đài Loan](/nature/Hệ-thống-sinh-thái-rừng-Đài-Loan) — tác động thực tế của rác đèn trời đối với hệ thống rừng
+- [Lễ hội đền và đội hình Đài Loan](/vi/culture/taiwan-temple-festivals-and-performance-troupes) — cùng với đèn trời là lễ hội dân gian, kéo co giữa di sản văn hóa vs vấn đề môi trường trong một case khác
+- [Lễ hội truyền thống và lễ kỷ niệm](/vi/culture/traditional-festivals-and-celebrations) — panorama lễ hội Đài Loan toàn bộ, nhìn thấy vị trí của đèn trời trong Tết Nguyên Tiêu và các lễ hội khác
+- [Tôn giáo Đài Loan và văn hóa miếu](/vi/culture/taiwan-religion-and-temple-culture) — từ tín ngưỡng Ma Tổ của thành An Cung đến tiếp tục ký hiệu cầu phúc
+- [Lịch sử đường sắt Đài Loan](/vi/history/taiwan-railway-history) — tại sao đường sắt Bình Tây của thung lũng có thể biến lễ hội đèn trời thành thương hiệu quốc tế
+- [Hệ thống sinh thái rừng Đài Loan](/vi/nature/taiwan-forest-ecosystems) — tác động thực tế của rác đèn trời đối với hệ thống rừng
 
 ## Nguồn gốc hình ảnh
 

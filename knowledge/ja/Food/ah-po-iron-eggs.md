@@ -24,6 +24,7 @@ imageNote: '原 Wikimedia 圖檔已從 Commons 下架（404 Not Found），卡�
 translatedFrom: 'Food/阿婆鐵蛋.md'
 sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:e1270ee3b6b84325'
+sourceBodyHash: 'sha256:f4c6330bca417165'
 translatedAt: '2026-09-10T01:56:28.044276+00:00'
 ---
 

@@ -13,14 +13,14 @@ tags:
     'GNN',
     'Taiwan Games',
   ]
-subcategory: 'Community and Digital Culture'
+subcategory: '社群與數位文化'
 author: 'zaious'
 category: 'Technology'
 readingTime: 10
 lastVerified: 2026-04-23
 lastHumanReview: false
 translatedFrom: 'Technology/不入地窖焉能睡覺.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:c211c97e077ebc86'
 sourceBodyHash: 'sha256:abaef255e91e930b'
 translatedAt: '2026-06-09T03:16:10+08:00'
@@ -141,11 +141,11 @@ The method has changed. The spirit of "someone put the answer here for you" has 
 
 ## Further Reading
 
-- [History of Taiwan's Online Community Migration](/technology/History-of-Taiwan-Online-Community-Migration) — The moving history of Taiwan's social platforms from BBS to Threads
-- [Taiwan's Open Source Spirit](/ja/technology/Taiwan-Open-Source-Spirit) — Another group of "Taiwanese powered by love"
-- [PTT Ptt](/technology/PTT-Ptt) — Taiwan's longest-lasting BBS, a contemporary product of Bahamut
-- [Softstar's Twin Swords](/technology/Softstars-Twin-Swords) — The emotional enlightenment source of Taiwan's single-player games from the same era
-- [Crazy Moments of Taiwan Players](/technology/Crazy-Moments-of-Taiwan-Players) — The collective frenzy of the Cellar/Gamebase/Bahamut generation of players
+- [History of Taiwan's Online Community Migration](/ja/technology/taiwan-online-community-migration) — The moving history of Taiwan's social platforms from BBS to Threads
+- [Taiwan's Open Source Spirit](/ja/technology/taiwan-open-source-spirit) — Another group of "Taiwanese powered by love"
+- [PTT Ptt](/ja/technology/ptt-bulletin-board-system) — Taiwan's longest-lasting BBS, a contemporary product of Bahamut
+- [Softstar's Twin Swords](/ja/technology/softstar-twin-classics) — The emotional enlightenment source of Taiwan's single-player games from the same era
+- [Crazy Moments of Taiwan Players](/ja/technology/taiwan-gamers-wildest-moments) — The collective frenzy of the Cellar/Gamebase/Bahamut generation of players
 
 ---
 

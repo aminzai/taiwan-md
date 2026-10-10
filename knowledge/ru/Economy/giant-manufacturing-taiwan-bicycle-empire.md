@@ -196,4 +196,4 @@ A-Team переопределила смысл «конкуренции». Тр�
 - [Финансовая информация Giant Group](https://www.giantgroup-cycling.com/en/ir-financial) — страница инвесторских отношений Giant Manufacturing
 - [Мировые передовые комплектующие для велосипедов на Тайване](https://www.taiwan-panorama.com/zh/Articles/Details?Guid=d86bf51a-a8e6-491c-838e-720d61f70a81) — журнал Taiwan Panorama, анализ A-Team
 - [Успешная формула альянса тайваньской велосипедной индустрии](https://www.hbrtaiwan.com/article_content_AR0002366.html) — Harvard Business Review Taiwan
-- [Система проката общественных велосипедов Тайбэя](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E5%8C%97%E5%B8%82%E5%85%AC%E5%85%B1%E8%87%AA%E8%A1%8C%E8%BB%8A%E7%A7%9F%E8%B3%A3%E7%B3%BB%E7%B5%B1) — Wikipedia, история развития YouBike
+- [Система проката общественных велосипедов Тайбэя](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E5%8C%97%E5%B8%82%E5%85%AC%E5%85%B1%E8%87%AA%E8%A1%8C%E8%BB%8A%E7%A7%9F%E8%B3%83%E7%B3%BB%E7%B5%B1) — Wikipedia, история развития YouBike

@@ -86,7 +86,7 @@ Grüne Insel, diese einsame Insel im Pazifik, trägt die schwersten Erinnerungen
 
 **Weiterführende Lektüre**:
 
-- [Nationales Museum für Menschenrechte](/history/國家人權博物館) — Die staatliche Institution, zu der der Grüne Insel Park gehört, vom Neuerziehungseinrichtung bis zum Museumsprozess
+- [Nationales Museum für Menschenrechte](/de/history/national-human-rights-museum) — Die staatliche Institution, zu der der Grüne Insel Park gehört, vom Neuerziehungseinrichtung bis zum Museumsprozess
 - [White Terror in Taiwan](/de/history/taiwan-white-terror) — Das Gesamtbild politischer Fälle während des 38-jährigen Kriegsrechts; Grüne Insel war ein Zentrum für Inhaftierung und geistige Umformung.
 - [Kriegsrechtliche Periode](/de/history/martial-law-era) — Der rechtliche Rahmen von 1949 bis 1987.
 - [Justizübergang in Taiwan](/de/history/taiwan-transitional-justice) — Die unvollendete Aufgabe der Aufhebung von Urteilen und der Rechenschaftspflicht der Täter.

@@ -229,14 +229,14 @@ Wenn Sie beim nächsten Mal um halb acht am Shilin Nachtmarkt stehen und einen g
 **Weiterführende Lektüre:**
 
 - [Taipei Stadt](/de/geography/taipei-city) — Panorama der 12 Bezirke; Shilin war vor der Eingliederung in Taipei City im Jahr 1968 unter der Verwaltung des Yangmingsan Verwaltungsbüros.
-- [Kultur und Geschäftsviertel alter Städte in Taiwan](/culture/台灣老街文化與商業街區) — Hauptseite zur Kulturalterstädte; Shilin ist eines der wenigen Viertel, dessen Gesamtstruktur bis zum Plan von 1860 zurückverfolgt werden kann.
-- [Mangxia](/geography/艋舺) — Ein Geschwisterstück aus derselben Batch; Der Dingxiajiao Pin im Jahr 1853 war die Vorgeschichte des Zhang-Quanzhai Konflikts im Jahr 1859, eine andere Ecke des Dreiecks der drei Städte.
-- [Da'daochang](/geography/大稻埕) — Ein Geschwisterstück aus derselben Batch; Die Flucht der Tong'aner nach Da'daochang im Jahr 1853 zur Gründung eines Handelsplatzes ist dieselbe Strukturkette wie die Flucht der Zhanger von Zhilan Old Street in das neue Viertel.
-- [Ximen Town](/geography/西門町) — Ein Geschwisterstück aus derselben Batch; Die japanische Unterhaltungszone von 1896 vs. der japanische Lebensmarkt von Shilin im Jahr 1909 – zwei materielle Strukturen, hinterlassen von den Japanern.
-- [Religion und Tempelkultur in Taiwan](/culture/台灣宗教與寺廟文化) — Der Cixian Tempel ist ein wichtiger Knotenpunkt des Mazu-Glaubens in Taipei und steht neben dem Kasai Cheng Huang in Da'daochang und der Longshan Temple in Mangxia.
+- [Kultur und Geschäftsviertel alter Städte in Taiwan](/de/culture/taiwan-historic-streets-and-commercial-districts) — Hauptseite zur Kulturalterstädte; Shilin ist eines der wenigen Viertel, dessen Gesamtstruktur bis zum Plan von 1860 zurückverfolgt werden kann.
+- [Mangxia](/de/geography/bangka) — Ein Geschwisterstück aus derselben Batch; Der Dingxiajiao Pin im Jahr 1853 war die Vorgeschichte des Zhang-Quanzhai Konflikts im Jahr 1859, eine andere Ecke des Dreiecks der drei Städte.
+- [Da'daochang](/de/geography/dadaocheng) — Ein Geschwisterstück aus derselben Batch; Die Flucht der Tong'aner nach Da'daochang im Jahr 1853 zur Gründung eines Handelsplatzes ist dieselbe Strukturkette wie die Flucht der Zhanger von Zhilan Old Street in das neue Viertel.
+- [Ximen Town](/de/geography/ximending) — Ein Geschwisterstück aus derselben Batch; Die japanische Unterhaltungszone von 1896 vs. der japanische Lebensmarkt von Shilin im Jahr 1909 – zwei materielle Strukturen, hinterlassen von den Japanern.
+- [Religion und Tempelkultur in Taiwan](/de/culture/taiwan-religion-and-temple-culture) — Der Cixian Tempel ist ein wichtiger Knotenpunkt des Mazu-Glaubens in Taipei und steht neben dem Kasai Cheng Huang in Da'daochang und der Longshan Temple in Mangxia.
 - [228 Ereignis](/de/history/228-incident) — Die historische Achse, auf der nach den 228 Ereignissen im Jahr 1947 viele Leute aus anderen Provinzen nach Shilin kamen, die Wenlin Road erweitert wurde und das Shilin Amtshaus gegründet wurde.
 - [Qing-Dynastie](/de/history/qing-dynasty-rule) — Der hundertjährige Hintergrund der Qing-Herrschaft (1796–1895), einschließlich der Besiedlung durch Han-Chinesen, des Zhang-Quanzhai Konflikts und der Stadtplanung von Pan Yongqing.
-- [Dalongtong](/geography/大龍峒) — Das Verteidigungszentrum, in dem die Tong'aner nach der Niederlage im Dingxiajiao Pin 1853 flohen, ist ein anderes Schlachtfeld des Zhang-Quanzhai Konflikts in Nordtaiwans Qing-Ära wie Shilin.
+- [Dalongtong](/de/geography/dalongdong) — Das Verteidigungszentrum, in dem die Tong'aner nach der Niederlage im Dingxiajiao Pin 1853 flohen, ist ein anderes Schlachtfeld des Zhang-Quanzhai Konflikts in Nordtaiwans Qing-Ära wie Shilin.
 
 ## Bildquellen
 

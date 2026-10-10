@@ -244,9 +244,9 @@ Da próxima vez que fores a Yilan, não vás só às águas termais de Jiaoxi, n
 
 ## Leituras Adicionais
 
-- [Ilha Guishan](/geography/龜山島) — A história própria daquela "coordenada imutável" fora da Planície de Lanyang: vulcão ativo, aldeia realojada sem compensação, 22 anos de zona militar proibida, e a casa que os habitantes da ilha não podem voltar.
+- [Ilha Guishan](/pt/geography/gueishan-island) — A história própria daquela "coordenada imutável" fora da Planície de Lanyang: vulcão ativo, aldeia realojada sem compensação, 22 anos de zona militar proibida, e a casa que os habitantes da ilha não podem voltar.
 - [Divisão Administrativa de Taiwan](/pt/geography/administrative-divisions-of-taiwan) — 1812: estabelecimento do Distrito de Kavalan; 1875: renomeado Condado de Yilan; 1895: evolução administrativa do sistema da era japonesa.
-- [Terreno Costeiro e Paisagem Marítima de Taiwan](/geography/台灣海岸地形與海洋地景) — A ilha vulcânica de Guishan, o leque aluvial do Rio Lanyang, a geologia da faixa costeira de Su-Hua.
+- [Terreno Costeiro e Paisagem Marítima de Taiwan](/pt/geography/taiwan-coastal-landforms-and-seascapes) — A ilha vulcânica de Guishan, o leque aluvial do Rio Lanyang, a geologia da faixa costeira de Su-Hua.
 - [Paisagem Agrícola e Distribuição Industrial de Taiwan](/pt/geography/taiwan-agricultural-landscapes-and-industry-belts) — A fragmentação das terras agrícolas da Planície de Lanyang na paisagem agrícola de todo o Taiwan.
 - [Desenvolvimento Urbano e Lacuna Urbano-Rural de Taiwan](/pt/geography/taiwan-urban-development-and-rural-urban-divide) — O efeito de cidade satélite de Yilan sendo incluído na vida diária de Taipei após a inauguração do Túnel Xueshan.
 - [Paisagem Termal de Taiwan](/pt/geography/taiwan-hot-springs-landscape) — A posição especial das águas termais de Jiaoxi na geografia termal de Taiwan.

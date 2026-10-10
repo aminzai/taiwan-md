@@ -4,7 +4,7 @@ description: 'طقوس بلدة صغيرة بإطلاق المفرقعات لم�
 date: 2026-03-24
 author: 'Taiwan.md'
 category: 'Culture'
-subcategory: 'الدين والفولكلور'
+subcategory: '宗教與民俗'
 tags:
   [
     'المهرجانات التقليدية',

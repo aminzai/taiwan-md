@@ -113,4 +113,4 @@ author: 'Taiwan.md'
 - [警政署悼念聲明 — 聯合新聞網（2026-03-28）](https://udn.com/news/story/7314/9408695)
 - [神探李昌鈺辭世 — 風傳媒（2026-03-27）](https://www.storm.mg/article/11115554)
 - [李昌鈺條目 — 中文維基百科](https://zh.wikipedia.org/wiki/李昌鈺)
-- [三一九槍擊事件條目 — 中文維基百科](https://zh.wikipedia.org/wiki/三一九銃撃案)
+- [三一九槍擊事件條目 — 中文維基百科](https://zh.wikipedia.org/wiki/三一九槍擊案)

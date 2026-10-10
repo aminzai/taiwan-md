@@ -13,7 +13,7 @@ tags:
     fusion-acquisition,
     transformation numérique,
   ]
-subcategory: "Portraits d'entreprises"
+subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
 readingTime: 15
 featured: false

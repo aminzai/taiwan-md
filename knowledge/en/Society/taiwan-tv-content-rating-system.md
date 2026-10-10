@@ -102,7 +102,7 @@ From the abolition of the Film Inspection Law in 1983 to the present, Taiwan's r
 
 [^8]: [In the Realm of the Senses — Taiwan Screening Controversy Record](https://zh.wikipedia.org/zh-tw/%E6%84%9F%E5%AE%98%E4%B8%96%E7%95%8C) — On the art-vs.-pornography debate sparked by the film's 1999 Taiwan screening.
 
-[^9]: [Lust, Caution (film) — Wikipedia](<https://zh.wikipedia.org/zh-tw/%E8%89%B2%EF%BC%8C%E6%88%92_(%E9%9B%BB%E5%BD%B1)>) — Record of Lust, Caution's classification as Restricted Rating in Taiwan.
+[^9]: [Lust, Caution (film) — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%89%B2%EF%BC%8C%E6%88%92_(%E9%9B%BB%E5%BD%B1) — Record of Lust, Caution's classification as Restricted Rating in Taiwan.
 
 [^10]: [Digital Entertainment Software Rating Inquiry Website](https://www.gamerating.org.tw/) — Official platform of the Administration for Digital Industries, Ministry of Digital Affairs.
 

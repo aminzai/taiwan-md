@@ -19,7 +19,7 @@ tags:
     歌仔戲,
   ]
 category: People
-subcategory: 音楽と表演
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-26

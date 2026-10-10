@@ -262,12 +262,12 @@ Em maio de 2026, ele vestiu uma fita de campanha e entrou em outra batalha eleit
 
 **Leitura complementar**:
 
-- [Academia Kuma](/society/黑熊學院) — Organização de educação em defesa civil fundada conjuntamente por Puma Shen e Ho Cheng-hui, uma escola que «espera nunca mais ser necessária» para Taiwan
-- [Guerra Cognitiva](/society/認知作戰) — Framework completo de guerra da informação chinesa contra Taiwan; Puma Shen é um dos principais pesquisadores
-- [Bajiao](/people/八炯) — Outro YouTuber taiwanês alvo de perseguição chinesa; em novembro de 2025 foi incluído na lista de recompensas chinesa com recompensa máxima de 250 mil yuans
-- [Lai Ching-te](/people/賴清德) — Também listado como «separatista obstinado», publicamente apoiou Puma Shen em novembro de 2025
-- [Defesa Nacional de Taiwan e Modernização Militar](/society/台灣國防與軍事現代化) — Relação complementar entre educação em defesa civil da Academia Kuma e defesa nacional
-- [O País Invisível](/art/看不見的國家) — Documentário que encerra com pessoas de Taiwan em aulas de defesa civil; Academia Kuma é a versão real daquela cena final
+- [Academia Kuma](/pt/society/kuma-academy-civil-defense-school) — Organização de educação em defesa civil fundada conjuntamente por Puma Shen e Ho Cheng-hui, uma escola que «espera nunca mais ser necessária» para Taiwan
+- [Guerra Cognitiva](/pt/society/cognitive-warfare-against-taiwan) — Framework completo de guerra da informação chinesa contra Taiwan; Puma Shen é um dos principais pesquisadores
+- [Bajiao](/pt/people/pa-chiung-political-youtuber) — Outro YouTuber taiwanês alvo de perseguição chinesa; em novembro de 2025 foi incluído na lista de recompensas chinesa com recompensa máxima de 250 mil yuans
+- [Lai Ching-te](/pt/people/lai-ching-te) — Também listado como «separatista obstinado», publicamente apoiou Puma Shen em novembro de 2025
+- [Defesa Nacional de Taiwan e Modernização Militar](/pt/society/taiwan-defense-modernization) — Relação complementar entre educação em defesa civil da Academia Kuma e defesa nacional
+- [O País Invisível](/pt/art/invisible-nation) — Documentário que encerra com pessoas de Taiwan em aulas de defesa civil; Academia Kuma é a versão real daquela cena final
 
 ## Fontes das imagens
 

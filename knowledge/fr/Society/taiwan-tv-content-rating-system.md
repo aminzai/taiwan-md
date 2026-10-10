@@ -2,7 +2,7 @@
 title: "Les gardiens de l'écran : l'évolution du système de classification des films et séries à Taïwan"
 description: 'Le système de classification taïwanais incarne le passage de la "censure d''État" sous la loi martiale à la "protection de l''enfance" à l''ère démocratique. De l''abolition de la loi sur la censure cinématographique en 1983 à la naissance de la catégorie "Protégé" inspirée par Jurassic Park en 1993, jusqu''à l''harmonisation complète au système à cinq niveaux en 2026, cet article retrace une longue évolution entre droit du spectateur et responsabilité sociale.'
 category: 'Society'
-subcategory: 'Médias et communication'
+subcategory: '媒體與傳播'
 tags:
   [
     classification des films,
@@ -102,7 +102,7 @@ De l'abolition de la Loi sur l'inspection cinématographique en 1983 à aujourd'
 
 [^8]: [感官世界 - 台灣上映爭議紀錄](https://zh.wikipedia.org/zh-tw/%E6%84%9F%E5%AE%98%E4%B8%96%E7%95%8C) — Sur le débat art/pornographie suscité par la diffusion du film à Taïwan en 1999.
 
-[^9]: [色，戒(電影) - 維基百科](<https://zh.wikipedia.org/zh-tw/%E8%89%B2%EF%BC%8C%E6%88%92_(%E9%9B%BB%E5%BD%B1)>) — Documentation sur la classification "Interdit aux mineurs" attribuée à Lust, Caution à Taïwan.
+[^9]: [色，戒(電影) - 維基百科](https://zh.wikipedia.org/zh-tw/%E8%89%B2%EF%BC%8C%E6%88%92_(%E9%9B%BB%E5%BD%B1) — Documentation sur la classification "Interdit aux mineurs" attribuée à Lust, Caution à Taïwan.
 
 [^10]: [數位娛樂軟體分級查詢網](https://www.gamerating.org.tw/) — Plateforme officielle de l'Agence de l'industrie numérique du Ministère du Développement numérique.
 

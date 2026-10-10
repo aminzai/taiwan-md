@@ -163,7 +163,7 @@ If someone in 2050 wants to know what Taiwan's television industry once tried to
 
 **Further Reading**:
 
-- [Golden Bell Awards](/culture/金鐘獎) — The Big Three's seventeen years of exclusivity, PTS and cable channels joining the list, Netflix's entry — the winners' column for the Best Drama Series award is another record of this industry history
+- [Golden Bell Awards](/en/culture/golden-bell-awards) — The Big Three's seventeen years of exclusivity, PTS and cable channels joining the list, Netflix's entry — the winners' column for the Best Drama Series award is another record of this industry history
 
 ## References
 

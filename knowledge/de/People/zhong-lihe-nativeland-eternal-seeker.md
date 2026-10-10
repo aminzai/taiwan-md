@@ -4,7 +4,15 @@ description: 'Der Hakka-Schriftsteller aus Meinung, Kaohsiung (1915–1960). Mit
 date: 2026-03-19
 category: 'People'
 subcategory: '文學'
-tags: ['Heimatliteratur', 'Schriftsteller', 'Hakka', 'Meinung', 'Lishan-Farm', 'Heimatmensch']
+tags:
+  [
+    'Heimatliteratur',
+    'Schriftsteller',
+    'Hakka',
+    'Meinung',
+    'Lishan-Farm',
+    'Heimatmensch',
+  ]
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07
@@ -13,6 +21,7 @@ readingTime: 7
 translatedFrom: 'People/鍾理和.md'
 sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:336b96e510e804d3'
+sourceBodyHash: 'sha256:59814996cd0ea2c6'
 translatedAt: '2026-08-19T03:44:52+08:00'
 ---
 

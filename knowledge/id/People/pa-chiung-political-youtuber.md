@@ -220,8 +220,8 @@ Kisah Bājióng masih berubah. Artikel ini tidak meramalkan statusnya berikutnya
 
 **Bacaan Lanjutan**:
 
-- [Perang Kognitif](/society/認知作戰) — Memahami bagaimana konten internet ditempatkan dalam konteks perang informasi yang lebih besar.
-- [Shen Bo-yang](/people/沈伯洋) — Kasus lain mengenai ancaman dan hadiah yang dikeluarkan oleh otoritas Tiongkok terhadap tokoh publik Taiwan.
+- [Perang Kognitif](/id/society/cognitive-warfare-against-taiwan) — Memahami bagaimana konten internet ditempatkan dalam konteks perang informasi yang lebih besar.
+- [Shen Bo-yang](/id/people/puma-shen) — Kasus lain mengenai ancaman dan hadiah yang dikeluarkan oleh otoritas Tiongkok terhadap tokoh publik Taiwan.
 - [Chen Zijian (Retina)](/id/people/chen-tzu-jian/) — Membandingkan jalur parodi politik, nada berita, dan kreator internet.
 
 ---

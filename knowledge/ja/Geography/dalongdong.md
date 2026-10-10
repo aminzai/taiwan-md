@@ -4,7 +4,7 @@ description: '現在から 5,300 年前の圓山貝塚から、1742 年に同安
 date: 2026-05-21
 author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '歴史街区 / 台北市大同区・中山区境界'
+subcategory: '歷史街區 / 台北市大同區、中山區邊界'
 tags:
   [
     '大龍峒',
@@ -46,7 +46,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E9%BE%8D%E5%B3%9
 > **30 秒概観：** MRT 圓山駅を出ると、1.5 キロメートル以内に三つの信仰空間があります。1742 年に同安人が草創した保安宮、1925 年に地方士紳が募金して再建した台北孔廟、1973 年に楊卓成が設計した圓山大飯店です。同じ軸線上に、三つの異なる時代の「正統」が並んでいます。足元にあるこの土地の歴史は 300 年にとどまりません。5,300 年前、圓山貝塚の新石器時代の人びとがここに暮らしていました。清朝嘉慶 7 年、王元記ら同安人 6 戸が 44 軒の瓦店を開き、「興隆同安」の「隆同」が今日の大同区になりました。咸豊 9 年に陳維英が郷試に合格し、郷里の人びとは「士子を龍のように見なした」ため、大隆同を大龍峒に改めました。1853 年、頂下郊拚で敗退した同安人は、まず保安宮に逃げ込んで防御し、その後大稲埕へ移りました。1907 年、日本人が旧台北府学文廟を撤去して国語学校を建てると、陳悦記家族と辜顕栄は孔子が住む場所を失わないよう、3,000 坪余りを寄付しました。1944 年、日本の旅客機が松山空港への着陸時に事故を起こし、台湾神宮に衝突して破壊しました。戦後、神社は撤去され、蔣宋美齢の敦睦聯誼会が 1952 年に跡地を引き継ぎました。1995 年、廖武治は政府補助を拒み、自己資金 2.6 億元で保安宮を修復し、2003 年に台湾初の UNESCO アジア太平洋遺産賞を受けました。この記事で述べたいのは、大龍街で太極拳をする中高年の人びとが踏みしめているのは、台北で最も凝縮された時間の断面だということです。
 
 ![大龍峒保安宮正面建築の全景。赤瓦と黄色い軒の三川殿と広場。1742 年に同安人が白礁慈済宮の保生大帝の分霊を台湾へ迎えて草創し、1830 年に正式に落成、1995-2002 年に廖武治主導の自己資金による修復で UNESCO アジア太平洋遺産賞を受けました。](/article-images/geography/dalongdong-baoan-temple-2010s.webp)
-_大龍峒保安宮正面。Photo: Tianmu peter via panoramio, CC BY 3.0 via Wikimedia._
+_大龍峒保安宮正面。Photo: Tianmu peter via panoramio, CC BY 3.0 via Wikimedia. [CC BY 3.0 via Wikimedia](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E9%BE%8D%E5%B3%92%E4%BF%9D%E5%AE%89%E5%AE%AE_Dalongdong_Baoan_Temple_-_panoramio.jpg)_
 
 ## 朝七時、保安宮前広場の太極拳
 
@@ -99,7 +99,7 @@ MRT 圓山駅 2 番出口を出て、庫倫街を越えて左へ歩くと、五�
 最後の名は今日まで使われています。1990 年、台北市が行政区を再編すると、この一帯は大同区に属し、基隆河を越えると中山区に属することになりました。「大同」という区名は、直接「興隆同安」に由来します。
 
 ![保安宮山門の細部。門額の彩色と石獅。山門外の石獅は 280 年余り立って守り続け、大隆同が大龍峒へ変わるのを見、日本人が旧孔廟を撤去するのを見、国府が圓山大飯店を建てるのを見てきました。](/article-images/geography/dalongdong-baoan-gate-2020s.webp)
-_保安宮山門。Photo: Outlookxp, CC BY-SA 4.0 via Wikimedia._
+_保安宮山門。Photo: Outlookxp, CC BY-SA 4.0 via Wikimedia. [CC BY-SA 4.0 via Wikimedia](https://commons.wikimedia.org/wiki/File:Gate_of_the_Dalongdong_Bao-an_Temple_01.jpg)_
 
 ## 1853：敗退した同安人、第一の到着地は大稲埕ではなかった
 
@@ -140,7 +140,7 @@ _保安宮山門。Photo: Outlookxp, CC BY-SA 4.0 via Wikimedia._
 陳維英の死から 27 年後の 1896 年、日本人は保安宮内に国語学校第三附属学校（大龍国小の前身）を設けました[^1]。一つの廟には、二つの学校が続けて入ったことになります。1853 年の樹人書院の後、1896 年の国語学校です。同じ中庭で、前の学生は長衫を着て文昌を拝み、後の学生は帽子をかぶって五十音を学びました。
 
 ![保安宮の蟠龍石柱。殿前の八角龍柱は下から上へ巻き上がる形で、嘉慶年間（1796-1820）の作品であり、この廟に現存する最古の石彫です。](/article-images/geography/dalongdong-baoan-dragon-pillars-2012.webp)
-_保安宮蟠龍石柱。Photo: panoramio contributor, CC BY 3.0 via Wikimedia._
+_保安宮蟠龍石柱。Photo: panoramio contributor, CC BY 3.0 via Wikimedia. [CC BY 3.0 via Wikimedia](https://commons.wikimedia.org/wiki/File:%E4%BF%9D%E5%AE%89%E5%AE%AE%E9%BE%8D%E6%9F%B1_Dragon_Pillars_of_Baoan_Temple_-_panoramio.jpg)_
 
 ## 1917 年の対場作：二人の木匠の競演、皮肉まで木に刻まれている
 
@@ -282,7 +282,7 @@ _圓山大飯店。Photo: shennongtw, [Public domain via Wikimedia](https://comm
 この軸線を歩き終えるには 30 分かかります。
 
 ![保安宮正殿全景。五開間重檐歇山式屋根と七層宝塔。1995-2002 年に廖武治主導で修復され、2003 年に UNESCO アジア太平洋遺産賞を受け、審査書では「コミュニティを基盤とする修復の模範」と評されました。](/article-images/geography/dalongdong-baoan-main-hall-2018.webp)
-_保安宮正殿。Photo: Bgabel, CC BY-SA 4.0 via Wikimedia._
+_保安宮正殿。Photo: Bgabel, CC BY-SA 4.0 via Wikimedia. [CC BY-SA 4.0 via Wikimedia](https://commons.wikimedia.org/wiki/File:Taipeh_Dalongdong_Baoan_Temple_Haupthalle_1.jpg)_
 
 ## 朝七時の太極拳は、まだ続いている
 

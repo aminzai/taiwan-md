@@ -13,7 +13,7 @@ tags:
     'thời gian thực',
     'Taiwan.md',
   ]
-subcategory: 'Công nghệ công dân'
+subcategory: '公民科技'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-22
@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'resources/mini-taiwan-pulse.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:3100c78e3e84a12a'
+sourceBodyHash: 'sha256:215016d553b05404'
 translatedAt: '2026-09-17T04:53:11.230562+00:00'
 ---
 

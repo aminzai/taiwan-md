@@ -19,7 +19,7 @@ tags:
     'актёры дубляжа',
     'Янь Чаншоу',
   ]
-subcategory: 'История общества и быта'
+subcategory: '社會與日常史'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-26
@@ -29,6 +29,7 @@ curation: 'incubating'
 translatedFrom: 'History/迪士尼.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:f212b82c110bd5ef'
+sourceBodyHash: 'sha256:ad7b91e555067f88'
 translatedAt: '2026-08-04T19:08:45.812467+00:00'
 ---
 

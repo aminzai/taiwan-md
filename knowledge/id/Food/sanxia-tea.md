@@ -124,7 +124,7 @@ Masa depan teh Sanxia menghadapi ujian nyata. Seiring pengembangan Kawasan Khusu
 
 [^13]: [Mata Pelajaran Khas Sekolah Mingde SMA: Kajian Sanxia - Belajar Sanxia](https://expo.efroip.tw/ischool/publish_page/18/) — SMA Negeri Mingde Kota Baru Taipei memperkenalkan pengajaran lintas disiplin mengumpulkan rasa memiliki tempat siswa
 
-[^14]: [Praktik Kurikulum Sekolah SMA Beida: Perjalanan Tamu di Lembah Yuan](https://www.yphs.tp.edu.tw/wp-content/uploads/doc/yp1966/%E6%A0%A1%E8%A8%82%E8%AA%B2%E7%A8%8B%E7%9A%84%E5%AF%A6%E8%B8%90-%E9%B3%B6%E5%B1%B1%E5%B3%BD%E5%AE%A2%E8%A1%8C-%E6%A9%9F%E7%B9%AA%E7%A2%A7%E8%8C%B6%E9%84%89%E7%9A%84%E5%89%B5%E7%94%9F%E5%82%B3%E5%A5%87.pdf) — SMA Beida berbagi bagaimana memadukan dua tema besar teh dan warna mendorong pembangunan lokal dan pertukaran internasional
+[^14]: [Praktik Kurikulum Sekolah SMA Beida: Perjalanan Tamu di Lembah Yuan](https://www.yphs.tp.edu.tw/wp-content/uploads/doc/yp1966/%E6%A0%A1%E8%A8%82%E8%AA%B2%E7%A8%8B%E7%9A%84%E5%AF%A6%E8%B8%90-%E9%B3%B6%E5%B1%B1%E5%B3%BD%E5%AE%A2%E8%A1%8C-%E6%9F%93%E7%B9%AA%E7%A2%A7%E8%8C%B6%E9%84%89%E7%9A%84%E5%89%B5%E7%94%9F%E5%82%B3%E5%A5%87.pdf) — SMA Beida berbagi bagaimana memadukan dua tema besar teh dan warna mendorong pembangunan lokal dan pertukaran internasional
 
 [^15]: [Kurikulum Perjalanan Belajar Sanying SMA Sanxia: Pengalaman Pembuatan Longjing Manual](https://cci.ntpc.edu.tw/cht/index.php?code=list&ids=25&class_id=17020) — Universitas Komunitas Sanying Kota Baru Taipei mencatat siswa SMA Sanxia berpartisipasi pembuatan Longjing manual dan perjalanan sejarah budaya
 

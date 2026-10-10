@@ -12,7 +12,7 @@ tags:
   - Taiwanese Hokkien
   - Language Policy
 category: 'Culture'
-subcategory: 'Media and Publishing'
+subcategory: '媒體與出版'
 author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 10

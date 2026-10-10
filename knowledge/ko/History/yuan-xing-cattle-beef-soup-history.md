@@ -3,7 +3,7 @@ title: '거제목장의 소 19마리: 원흥우에서 타이난 쇠고기탕까�
 description: '대만의 쇠고기 자급률은 4.6%에 불과하지만, 2024년 전국 최초의 민간 공인 소 품종이 탄생했다. 원흥우의 이야기는 94세 노인과 야생 흑소 19마리, 그리고 새벽에 내오는 온도 높은 국물이 함께 써내려간 산업 돌파의 시나리오다.'
 category: 'History'
 tags: [원흥우, 타이난 쇠고기탕, 온체우, 축산업, 대만 농업, 리덩후이, 육우 산업]
-subcategory: '사회와 일상사'
+subcategory: '社會與日常史'
 author: 'Taiwan.md Contributors'
 date: 2026-03-25
 readingTime: 9

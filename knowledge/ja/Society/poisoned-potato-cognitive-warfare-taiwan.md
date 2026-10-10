@@ -14,6 +14,7 @@ imageAlt: 'アメリカ・メイン州アルーストック郡のジャガイモ
 translatedFrom: 'Society/毒馬鈴薯認知作戰.md'
 sourceCommitSha: '21298a7a'
 sourceContentHash: 'sha256:6f804a54cc46f969'
+sourceBodyHash: 'sha256:891cffde295deb7f'
 translatedAt: '2026-08-23T08:47:33+08:00'
 ---
 

@@ -16,6 +16,7 @@ translatedFrom: 'Art/台灣水彩畫的百年流變.md'
 #   where_it_hedges: "藍蔭鼎1971十大水彩：引述名稱為『歐美藝術評論學會』，確切組織名可參閱鴻禧基金會原始記錄"
 sourceCommitSha: '0f8fae0a'
 sourceContentHash: 'sha256:0b51fe43b7a1bf00'
+sourceBodyHash: 'sha256:de90bfe09eb0461c'
 translatedAt: '2026-08-28T22:17:11+08:00'
 ---
 

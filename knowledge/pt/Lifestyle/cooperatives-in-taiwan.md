@@ -12,7 +12,7 @@ tags:
     'economia democrática',
     'queda na natalidade',
   ]
-subcategory: 'educação'
+subcategory: '教育'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-30

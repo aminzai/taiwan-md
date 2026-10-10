@@ -103,7 +103,7 @@ En 2026, Taiwán enfrenta la doble presión de la baja natalidad y el vacío gen
 
 **Lectura adicional**:
 
-- [La pandemia de COVID-19 y las vacunas en Taiwán](/society/台灣新冠疫情與疫苗) — La orden de confinamiento de los trabajadores extranjeros en el condado de Miaoli en junio de 2021 fue una vez que esta situación laboral y de vivienda fue llevada al límite bajo la pandemia.
+- [La pandemia de COVID-19 y las vacunas en Taiwán](/es/society/taiwan-covid-pandemic-and-vaccines) — La orden de confinamiento de los trabajadores extranjeros en el condado de Miaoli en junio de 2021 fue una vez que esta situación laboral y de vivienda fue llevada al límite bajo la pandemia.
 - [El sistema de salud pública y prevención de epidemias en Taiwán](/es/society/taiwan-public-health-epidemic-response) — El contexto institucional de la inclusión de los trabajadores extranjeros en el sistema de salud pública y médica.
 
 ---

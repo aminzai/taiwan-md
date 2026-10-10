@@ -266,7 +266,7 @@ Blust だけがこのように主張しているわけではありません。�
 
 [^12]: [植物 DNA 竟記載著歷史！構樹說的南島語族遷徙史](https://research.sinica.edu.tw/paper-mulberry-dna-austronesian-history-chung-kuo-fang/) — 中央研究院「研之有物」のインタビュー。鍾国芳チームがカジノキ DNA を用い、生物地理学の観点から「台湾外進出説」を支持した研究を紹介しています。
 
-[^13]: [Nusantara (term) - Wikipedia](<https://en.wikipedia.org/wiki/Nusantara_(term)>) — Nusantara の語源に関する詳細な考証。古ジャワ語 _nusa_（島）+ サンスクリット借用語 _antara_（間）。
+[^13]: [Nusantara (term) - Wikipedia](https://en.wikipedia.org/wiki/Nusantara_(term) — Nusantara の語源に関する詳細な考証。古ジャワ語 _nusa_（島）+ サンスクリット借用語 _antara_（間）。
 
 [^14]: [Majapahit - Wikipedia](https://en.wikipedia.org/wiki/Majapahit) — 14 世紀東ジャワの Majapahit 帝国に関する項目。1336 年の Gajah Mada「Palapa の誓い」の歴史的背景を含みます。
 

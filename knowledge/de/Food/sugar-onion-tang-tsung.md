@@ -89,7 +89,7 @@ Die Geschichte von Zangcong ist im Grunde eine Geschichte der „Resilienz“. S
 
 ## Weiterführende Lektüre
 
-- [Jinniujiao](/food/金牛角) — Eine weitere taiwanesische Süßspeise, die lokale Erinnerungen trägt und von Sanxia Old Street landesweit verbreitet wurde.
+- [Jinniujiao](/de/food/golden-croissant) — Eine weitere taiwanesische Süßspeise, die lokale Erinnerungen trägt und von Sanxia Old Street landesweit verbreitet wurde.
 
 ## Referenzen
 

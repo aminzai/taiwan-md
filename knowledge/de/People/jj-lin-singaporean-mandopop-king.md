@@ -23,6 +23,7 @@ readingTime: 7
 translatedFrom: 'People/林俊傑.md'
 sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:09cbb2a7492cd72a'
+sourceBodyHash: 'sha256:e9ed087ab11c2ccb'
 translatedAt: '2026-08-13T03:10:00+08:00'
 ---
 
@@ -74,12 +75,12 @@ Vom Kind, das in Singapur mit vier Jahren Klavier zu üben begann, bis zum tief 
 
 ## Referenzen
 
-[^1]: [Wikipedia: JJ Lin](https://zh.wikipedia.org/wiki/林俊傑) – bestätigt Geburt am 27. März 1981 in Singapur, Klavier ab 4, 2003 „Musikreisender“ (1,2 Mio. in Asien), 2004 „Der zweite Himmel“/„Jiangnan“ (1,8 Mio.), Duett mit Charlene Choi „Kleine Grübchen“.
+[^1]: [Wikipedia: JJ Lin](https://zh.wikipedia.org/wiki/林俊傑) — Details in der verlinkten Originalquelle
 
-[^2]: [JJ Lin Offizielle Website](http://jjlin.com/) – offizielle aktuelle Auftrittsinformationen und Karriereerfolge.
+[^2]: [JJ Lin Offizielle Website](http://jjlin.com/) — Details in der verlinkten Originalquelle
 
-[^3]: [Bandsintown: JJ Lin JJ20 FINAL LAP](https://www.bandsintown.com/a/10768-) – bestätigt JJ20-FINAL-LAP-Tour (2024–2025, 40 Städte, 77 Shows, 2,6 Mio. Zuschauer); 2024/04 Herzerkrankung mit täglicher Medikation; 2024/11 Biografie „Jenseits der Noten: JJ Lins 20 Jahre“.
+[^3]: [Bandsintown: JJ Lin JJ20 FINAL LAP](https://www.bandsintown.com/a/10768-) — Details in der verlinkten Originalquelle
 
-[^4]: [Universal Music: JJ Lin](https://www.umusic.com.tw/artist.php?id=399) – offizielle Veröffentlichungsgeschichte der Plattenfirma.
+[^4]: [Universal Music: JJ Lin](https://www.umusic.com.tw/artist.php?id=399) — Details in der verlinkten Originalquelle
 
-[^5]: [Golden Melody Award: JJ Lins Auszeichnungsrekord](https://www.bamid.gov.tw/information_143_64673.html) – offizielle Daten des Golden Melody Awards.
+[^5]: [Golden Melody Award: JJ Lins Auszeichnungsrekord](https://www.bamid.gov.tw/information_143_64673.html) — Details in der verlinkten Originalquelle

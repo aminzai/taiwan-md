@@ -194,7 +194,7 @@ Before closing this page, a reader can ask themselves one small thing:
 **Further Reading:**
 
 - [Li Poetry Society](/en/art/li-poetry-society) — The localist poetry network she joined in 1965.
-- [February 28 Incident](/history/二二八事件) — The structure of island-wide trauma where the Chang Shih-lang case occurred.
+- [February 28 Incident](/en/history/228-incident) — The structure of island-wide trauma where the Chang Shih-lang case occurred.
 - [Taiwan White Terror](/en/history/taiwan-white-terror) — The institutional background for the political reading of "Peace Performance."
 - [Taiwan Literary History](/en/art/history-of-taiwanese-literature) — The long-term position of the cross-linguistic generation and mother tongue literature.
 - [Mo Na-neng](/en/people/monaneng) — Another path of "using non-mother tongue/Chinese to speak for a group."

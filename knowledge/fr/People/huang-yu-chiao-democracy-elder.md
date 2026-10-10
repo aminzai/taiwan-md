@@ -3,7 +3,7 @@ title: 'Huang Yu-chiao'
 description: "En novembre 1977, lors de l'Incident de Zhongli, cette pharmacienne de 58 ans formée au Japon se tenait devant la porte du commissariat pour exhorter la foule au calme. Élue quatre fois consécutives à l'Assemblée provinciale et cofondatrice du Parti démocrate progressiste, elle reste l'une des figures les plus sous-estimées de l'histoire démocratique de Taïwan."
 date: 2026-04-05
 category: People
-subcategory: 'Politique et démocratie'
+subcategory: '政治與民主'
 tags:
   [
     'Incident de Zhongli',

@@ -143,7 +143,7 @@ _الصورة: جسر داكسي وضفة النهر. المصور CEphoto, Uwe 
 
 [^9]: [مكتبة Airiti: دراسة تطوير واستخدام أصول داكسي القديم الثقافية](https://www.airitilibrary.com/Article/Detail/U0021-1610201315170023) — صفحة تفصيلية للدراسة، توفر سياق بحث أصول داكسي القديم الثقافية، الجمعيات المحلية، السكان، التجار، وتفاعل المكتب.
 
-[^10]: [ويكيميديا كومنز: داكسي الشارع القديم Daxi Historic Street - panoramio (1).jpg](<https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E6%BA%AA%E8%80%81%E8%A1%97_Daxi_Historic_Street_-_panoramio_(1).jpg>) — المصور lienyuan lee، CC BY 3.0. صورة النص تستخدم رابط ويكيميديا كومنز `Special:FilePath` المباشر، الصورة غير محملة.
+[^10]: [ويكيميديا كومنز: داكسي الشارع القديم Daxi Historic Street - panoramio (1).jpg](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E6%BA%AA%E8%80%81%E8%A1%97_Daxi_Historic_Street_-_panoramio_(1) — المصور lienyuan lee، CC BY 3.0. صورة النص تستخدم رابط ويكيميديا كومنز `Special:FilePath` المباشر، الصورة غير محملة.
 
 [^11]: [ويكيميديا كومنز: 2021 Daxi Bridge.jpg](https://commons.wikimedia.org/wiki/File:2021_Daxi_Bridge.jpg) — المصور Taiwankengo، CC BY-SA 4.0. صورة النص تستخدم رابط `Special:FilePath` المباشر، الصورة غير محملة.
 

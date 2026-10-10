@@ -4,7 +4,7 @@ description: '해발 3,000m 이상 대만 고산지대의 독특한 생태계, �
 date: 2026-03-20
 tags:
   ['고산생태', '빙하유존종', '대만삼나무', '고산식물', '생물다양성', '기후변화']
-subcategory: '생태계'
+subcategory: '生態系統'
 category: 'Nature'
 author: 'Taiwan.md Contributors'
 readingTime: 11

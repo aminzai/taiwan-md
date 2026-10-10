@@ -4,7 +4,7 @@ description: '농업경제학 박사로 시작해 12년 만에 대만을 권위�
 date: 2026-03-22
 tags: ['인물', '정치', '민주화', '총통']
 category: 'People'
-subcategory: '정치와 민주주의'
+subcategory: '政治與民主'
 author: 'Taiwan.md'
 readingTime: 8
 translatedFrom: 'People/李登輝.md'

@@ -203,12 +203,12 @@ Còn cái vé vào sân đó, vẫn chỉ có thể để Đài Loan lên sân, 
 
 ## Đọc thêm
 
-- [Đài Loan trong các tiêu chuẩn quốc tế](/society/台灣在國際標準中的標示問題) — Từ ISO 3166 đến phần mềm mã nguồn mở, cái tên "Đài Loan" được viết như thế nào trong cơ sở hạ tầng kỹ thuật số toàn cầu và gây tranh cãi, cùng nguồn gốc với tên gọi Olympic nhưng bộ chân khác
-- [Phổ độc lập thống nhất Đài Loan](/society/台灣統獨光譜) — Tại sao người Đài Loan cảm xúc với hai cái tên "Đài Loan" và "Trung Hoa" lại khác nhau đến vậy, phía sau là phổ nhận dạng hoàn toàn
-- [Các nước giao kèo Đài Loan và ngoại giao quốc tế](/society/台灣邦交國與國際外交) — Bên ngoài các lan tỏa "mô hình Olympic", Đài Loan tại lĩnh vực ngoại giao chính thức cũng phải đối mặt với cùng một khó khăn về cái tên
-- [Kỷ Chính](/people/紀政) — Từ tấm huy chương đồng Mexico 1968 của "Linh Linh Ngoài Rượu", tới nhân vật xây dựng chế độ năm 1981, cho tới người khởi xướng đổi tên 2018, toàn bộ cung cách của một nhân vật
-- [Dương Truyền Quảng](/people/楊傳廣) — Huy chương Olympic đầu tiên của Đài Loan năm 1960 Rome dưới tên "Formosa", người bù nhân "thép Á Châu"
-- [Đất nước vô hình](/art/看不見的國家) — Trong phim tài liệu này, Kỷ Chính lấy ra tấm huy chương đồng Olympic 1968, phản bác lại "Đài Bắc Trung Hoa có phải tên quốc gia không?"
+- [Đài Loan trong các tiêu chuẩn quốc tế](/vi/society/taiwans-labeling-in-international-standards) — Từ ISO 3166 đến phần mềm mã nguồn mở, cái tên "Đài Loan" được viết như thế nào trong cơ sở hạ tầng kỹ thuật số toàn cầu và gây tranh cãi, cùng nguồn gốc với tên gọi Olympic nhưng bộ chân khác
+- [Phổ độc lập thống nhất Đài Loan](/vi/society/taiwan-unification-independence-spectrum) — Tại sao người Đài Loan cảm xúc với hai cái tên "Đài Loan" và "Trung Hoa" lại khác nhau đến vậy, phía sau là phổ nhận dạng hoàn toàn
+- [Các nước giao kèo Đài Loan và ngoại giao quốc tế](/vi/society/taiwan-diplomatic-allies-and-international-relations) — Bên ngoài các lan tỏa "mô hình Olympic", Đài Loan tại lĩnh vực ngoại giao chính thức cũng phải đối mặt với cùng một khó khăn về cái tên
+- [Kỷ Chính](/vi/people/chi-cheng-flying-antelope) — Từ tấm huy chương đồng Mexico 1968 của "Linh Linh Ngoài Rượu", tới nhân vật xây dựng chế độ năm 1981, cho tới người khởi xướng đổi tên 2018, toàn bộ cung cách của một nhân vật
+- [Dương Truyền Quảng](/vi/people/yang-chuan-kwang-asian-iron-man) — Huy chương Olympic đầu tiên của Đài Loan năm 1960 Rome dưới tên "Formosa", người bù nhân "thép Á Châu"
+- [Đất nước vô hình](/vi/art/invisible-nation) — Trong phim tài liệu này, Kỷ Chính lấy ra tấm huy chương đồng Olympic 1968, phản bác lại "Đài Bắc Trung Hoa có phải tên quốc gia không?"
 
 ## Nguồn ảnh
 

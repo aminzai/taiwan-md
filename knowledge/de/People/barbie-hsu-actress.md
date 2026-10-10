@@ -4,7 +4,15 @@ description: '1994 Debüt als S.O.S, 2001 mit „Meteor Garden“ in ganz Asien 
 date: 2026-04-28
 category: 'People'
 tags:
-  ['Barbie Hsu', 'Big S', 'Wang Xiaofei', 'Koo Jun-yup', 'Meteor Garden', 'Beauty King', 'Entertainment 100%']
+  [
+    'Barbie Hsu',
+    'Big S',
+    'Wang Xiaofei',
+    'Koo Jun-yup',
+    'Meteor Garden',
+    'Beauty King',
+    'Entertainment 100%',
+  ]
 subcategory: '電影與戲劇'
 author: 'idlccp1984'
 featured: false
@@ -14,6 +22,7 @@ readingTime: 8
 translatedFrom: 'People/徐熙媛.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:9423951b41e161b7'
+sourceBodyHash: 'sha256:7ad4c339c52ad6fb'
 translatedAt: '2026-08-13T03:40:00+08:00'
 ---
 
@@ -51,18 +60,18 @@ Barbie Hsu verstarb am 2. Februar 2025 im Alter von 48 Jahren an einer Grippe mi
 
 ## Referenzen
 
-[^1]: [Barbie Hsu – Wikipedia](https://zh.wikipedia.org/zh-tw/徐熙媛) – Zusammenstellung von Leben, Karriere und Hauptwerken, inkl. S.O.S-Debüt
+[^1]: [Barbie Hsu – Wikipedia](https://zh.wikipedia.org/zh-tw/徐熙媛) — Details in der verlinkten Originalquelle
 
-[^2]: [Der Tod von Barbie Hsu: Rückblick auf ihr Leben, von der Idol-Drama-Göttin zur Beauty King](https://www.harpersbazaar.com.hk/celebrity/celebrity-news/barbie-hsu-passed-away) – Harper's BAZAAR HK über ihre Karriere-Meilensteine, inkl. „Meteor Garden“, „Connected“ und Wiederverheiratung
+[^2]: [Der Tod von Barbie Hsu: Rückblick auf ihr Leben, von der Idol-Drama-Göttin zur Beauty King](https://www.harpersbazaar.com.hk/celebrity/celebrity-news/barbie-hsu-passed-away) — Details in der verlinkten Originalquelle
 
-[^3]: [Rückblick auf die 8 wichtigsten Pflegewege der Beauty King Barbie Hsu](https://www.cosmopolitan.com.hk/beauty/barbie-hsu-beauty-tips) – Cosmopolitan HK über Verkaufszahlen und Pflegephilosophie von „Beauty King“
+[^3]: [Rückblick auf die 8 wichtigsten Pflegewege der Beauty King Barbie Hsu](https://www.cosmopolitan.com.hk/beauty/barbie-hsu-beauty-tips) — Details in der verlinkten Originalquelle
 
-[^4]: [Die blutrünstige Beauty-Geschichte von Big S Barbie Hsu](http://eladies.sina.com.cn/shehua/2005-04-13/1136173467.html) – Sina 2005 über ihre extremen Pflegemethoden und die Außenwirkung
+[^4]: [Die blutrünstige Beauty-Geschichte von Big S Barbie Hsu](http://eladies.sina.com.cn/shehua/2005-04-13/1136173467.html) — Details in der verlinkten Originalquelle
 
-[^5]: [Tod von Big S: Rückblick auf Zitate von Barbie Hsu](https://hk.news.yahoo.com/%E5%A4%A7s%E9%80%9D%E4%B8%96-%E5%BE%90%E7%86%99%E5%AA%9B%E5%90%8D%E8%A8%80%E5%9B%9E%E9%A1%A7%E9%9B%A2%E5%A9%9A-%E8%A2%AB%E6%8E%A7%E6%B6%89%E6%AF%92%E9%9C%B8%E6%B0%A3%E5%8F%8D%E6%93%8A-%E5%B9%B8%E7%A6%8F-084500945.html) – Yahoo News über ihre repräsentativen Aussagen in Ehe und Kontroversen
+[^5]: [Tod von Big S: Rückblick auf Zitate von Barbie Hsu](https://hk.news.yahoo.com/%E5%A4%A7s%E9%80%9D%E4%B8%96-%E5%BE%90%E7%86%99%E5%AA%9B%E5%90%8D%E8%A8%80%E5%9B%9E%E9%A1%A7%E9%9B%A2%E5%A9%9A-%E8%A2%AB%E6%8E%A7%E6%B6%89%E6%AF%92%E9%9C%B8%E6%B0%A3%E5%8F%8D%E6%93%8A-%E5%B9%B8%E7%A6%8F-084500945.html) — Details in der verlinkten Originalquelle
 
-[^6]: [Die 10-jährige Ehe von Big S Barbie Hsu und Wang Xiaofei endet](https://www.elle.com.hk/celebrity/barbie-hsu-and-her-husband-divorced) – ELLE HK über den Verlauf der Scheidung und die Ehe-Zeitlinie
+[^6]: [Die 10-jährige Ehe von Big S Barbie Hsu und Wang Xiaofei endet](https://www.elle.com.hk/celebrity/barbie-hsu-and-her-husband-divorced) — Details in der verlinkten Originalquelle
 
-[^7]: [Volltext der Erklärung von Big S: „zweimal gestorben, einmal schwer verletzt“](https://star.ettoday.net/news/2703845) – ETtoday über den Volltext der Anwaltserklärung von Barbie Hsu vom 20.03.2024, inkl. Vorwurf der Untreue gegen Wang Xiaofei
+[^7]: [Volltext der Erklärung von Big S: „zweimal gestorben, einmal schwer verletzt“](https://star.ettoday.net/news/2703845) — Details in der verlinkten Originalquelle
 
-[^8]: [An Big S' Sanftmut und Gutmütigkeit, ihre klare Liebe und ihren klaren Hass](https://www.thenewslens.com/article/248560) – The News Lens über ihren Einfluss und den Tod am 02.02.2025
+[^8]: [An Big S' Sanftmut und Gutmütigkeit, ihre klare Liebe und ihren klaren Hass](https://www.thenewslens.com/article/248560) — Details in der verlinkten Originalquelle

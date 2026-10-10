@@ -10,7 +10,7 @@ tags:
     'Pembelajaran Digital',
     'Pembelajaran Terbedakan',
   ]
-subcategory: 'Digital dan Internet'
+subcategory: '數位與網路'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-15
@@ -20,6 +20,7 @@ curation: 'incubating'
 translatedFrom: 'Technology/均一教育平台.md'
 sourceCommitSha: '70831d1ef'
 sourceContentHash: 'sha256:b71f8a565a04196b'
+sourceBodyHash: 'sha256:415bd00f696e8783'
 translatedAt: '2026-09-12T17:57:02.348539+00:00'
 ---
 

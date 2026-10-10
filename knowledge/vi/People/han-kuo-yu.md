@@ -185,15 +185,15 @@ Sự thật có thể nằm giữa hai khía cạnh. Và chính Hần Quốc Du 
 
 **Đọc thêm**:
 
-- [2026 Cuộc gặp gỡ Trịnh-Tập: Cuộc tái ngộ sau mười năm của các nhà lãnh đạo Quốc-Cộng](/society/2026-gặp-gỡ-trịnh-tập-và-quốc-cộng-mười-năm-tái-ngộ) — Cuộc thương thảo ngân sách Viện Lập pháp tháng 4 năm 2026, được Hần Quốc Du chủ trì; thời điểm cuộc gặp gỡ Trịnh-Tập và điều lệ bổ sung ngân sách Viện Lập pháp, là những sự kiện cùng một tuần
-- [Trịnh Lệ Văn](/people/trịnh-lệ-văn) — Hai nhân vật quan trọng nhất của Quốc Dân Đảng trong năm 2025–2026, một là chủ tịch đảng, một là chủ tịch Viện Lập pháp, đại diện cho các hệ sinh thái khác nhau trong đảng
-- [Tiêu Mỹ Cầm](/people/tiêu-mỹ-cầm) — Đối chiếu đọc: Tiêu Mỹ Cầm mất sáu năm ở Hoa Liên mới thắng một lần đại biểu, Hần Quốc Du chỉ 528 ngày là bị bãi miễn. Đường cong thời gian trong dân chủ có nhiều hình dạng
-- [Môi trường chính trị Đài Loan và hệ thống bầu cử](/society/môi-trường-chính-trị-đài-loan-và-hệ-thống-bầu-cử) — Tại sao chế độ đại biểu không phân khu vực lại cho phép những chính trị gia "bị bãi miễn trước đó" như Hần Quốc Du phục hưng? Câu trả lời nằm trong chính các quy tắc bầu cử
-- [Kha Văn Triết](/people/kha-văn-triết) — Một người khác từ người bình thường thành thị trưởng, từ thị trưởng thành ứng viên tổng thống, từ ứng viên tổng thống thành tâm điểm bão tố; cấu trúc "bùng nổ rồi sụp đổ" giữa hai người tương tự nhau
-- [Lữ Tú Yên](/people/lữ-tú-yên) — Đối cực khác của Hần lưu năm 2018, thị trưởng Đài Trung lật ngược từ đất xanh sang bầu trời xanh cùng năm
-- [Từ Bác Tâm](/people/từ-bác-tâm) — Người thúc đẩy chính phiên bản 8.000 tỷ viện trợ quân sự 2026, là người đóng vai trò then chốt trong đàm phán của Hần Quốc Du làm chủ tịch Viện Lập pháp
-- [Kỳ Lân Liên](/people/kỳ-lân-liên) — Phó chủ tịch 2026–04–29 lên tiếng tại cuộc họp Thường vụ Trung ương "người bán đảng vì danh lợi nên bị loại khỏi đảng", câu nói đó thực ra tác động trực tiếp đến Hần Quốc Du
-- [Tăng Bác Ân](/people/tăng-bác-ân) — Tháng 12 năm 2019 Hần Quốc Du xuất hiện trên chương trình "Đêm Bác Ân mùa 3 của Thế hệ," điều kiện duy nhất là "không được nói đùa về kiểu tóc", Bác Ân gọi anh là "người quen thuộc nhất với con người lạ nhất"
+- [2026 Cuộc gặp gỡ Trịnh-Tập: Cuộc tái ngộ sau mười năm của các nhà lãnh đạo Quốc-Cộng](/vi/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Cuộc thương thảo ngân sách Viện Lập pháp tháng 4 năm 2026, được Hần Quốc Du chủ trì; thời điểm cuộc gặp gỡ Trịnh-Tập và điều lệ bổ sung ngân sách Viện Lập pháp, là những sự kiện cùng một tuần
+- [Trịnh Lệ Văn](/vi/people/cheng-li-wun) — Hai nhân vật quan trọng nhất của Quốc Dân Đảng trong năm 2025–2026, một là chủ tịch đảng, một là chủ tịch Viện Lập pháp, đại diện cho các hệ sinh thái khác nhau trong đảng
+- [Tiêu Mỹ Cầm](/vi/people/hsiao-bi-khim) — Đối chiếu đọc: Tiêu Mỹ Cầm mất sáu năm ở Hoa Liên mới thắng một lần đại biểu, Hần Quốc Du chỉ 528 ngày là bị bãi miễn. Đường cong thời gian trong dân chủ có nhiều hình dạng
+- [Môi trường chính trị Đài Loan và hệ thống bầu cử](/vi/society/taiwan-political-landscape-and-electoral-system) — Tại sao chế độ đại biểu không phân khu vực lại cho phép những chính trị gia "bị bãi miễn trước đó" như Hần Quốc Du phục hưng? Câu trả lời nằm trong chính các quy tắc bầu cử
+- [Kha Văn Triết](/vi/people/ko-wen-je) — Một người khác từ người bình thường thành thị trưởng, từ thị trưởng thành ứng viên tổng thống, từ ứng viên tổng thống thành tâm điểm bão tố; cấu trúc "bùng nổ rồi sụp đổ" giữa hai người tương tự nhau
+- [Lữ Tú Yên](/vi/people/lu-hsiu-yan) — Đối cực khác của Hần lưu năm 2018, thị trưởng Đài Trung lật ngược từ đất xanh sang bầu trời xanh cùng năm
+- [Từ Bác Tâm](/vi/people/hsu-chiao-hsin) — Người thúc đẩy chính phiên bản 8.000 tỷ viện trợ quân sự 2026, là người đóng vai trò then chốt trong đàm phán của Hần Quốc Du làm chủ tịch Viện Lập pháp
+- [Kỳ Lân Liên](/vi/people/ji-lin-lian) — Phó chủ tịch 2026–04–29 lên tiếng tại cuộc họp Thường vụ Trung ương "người bán đảng vì danh lợi nên bị loại khỏi đảng", câu nói đó thực ra tác động trực tiếp đến Hần Quốc Du
+- [Tăng Bác Ân](/vi/people/bernard-tseng) — Tháng 12 năm 2019 Hần Quốc Du xuất hiện trên chương trình "Đêm Bác Ân mùa 3 của Thế hệ," điều kiện duy nhất là "không được nói đùa về kiểu tóc", Bác Ân gọi anh là "người quen thuộc nhất với con người lạ nhất"
 
 ## Tài liệu tham khảo
 

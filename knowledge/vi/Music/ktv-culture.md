@@ -13,7 +13,7 @@ tags:
     'âm nhạc phổ biến',
     'văn hóa xã hội',
   ]
-subcategory: 'Công nghiệp âm nhạc'
+subcategory: '音樂產業'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-19
@@ -207,7 +207,7 @@ Giải trí số hóa mang lại cạnh tranh, dịch bệnh mang lại thanh l�
 - [Trang chính thức Holiday](https://www.holiday.com.tw/)
 - [Trang chính thức Cashbox](https://www.cashbox.com.tw/)
 - [Thống kê hoạt động dịch vụ của Bộ Kinh tế Đài Loan](https://www.moea.gov.tw/)
-- [Huỳnh Đại Vệ](/people/黃大煒) — «Đã đổ nước lên tôi» là một bài hát dài hạn trong bảng xếp hạng KTV yêu thích, hãy xem cách một bài hát trở thành ký ức ca hát chung của một thế hệ
+- [Huỳnh Đại Vệ](/vi/people/david-wong) — «Đã đổ nước lên tôi» là một bài hát dài hạn trong bảng xếp hạng KTV yêu thích, hãy xem cách một bài hát trở thành ký ức ca hát chung của một thế hệ
 
 ## Tài Liệu Tham Khảo
 

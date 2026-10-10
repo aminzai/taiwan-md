@@ -21,7 +21,7 @@ tags:
     'Phía bắc đầm biển',
     'Giải thưởng Tây Mã',
   ]
-subcategory: 'điện ảnh'
+subcategory: '電影'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-13
@@ -283,13 +283,13 @@ Bài viết này dùng 4 bức hình ảnh, tất cả bộ nhớ tạm ở `pub
 
 ## Đọc thêm
 
-- [Hầu Hiếu Hiền](/people/侯孝賢)：Giành Huy chương vàng Venice, đưa Sự kiện 228 lên màn hình lớn của Thầy phố Camera Dài
-- [Dương Đức Xương](/people/楊德昌)：Hai bộ phim vào danh sách trăm phim trong lịch sử Sight & Sound của Nhà Quan sát Thành Phố
-- [Thái Minh Lương](/people/蔡明亮)：Huy chương vàng Venice, quay phim chậm vào Bảo tàng Louvre
-- [Lý An](/people/李安)：Từ Đài Loan bước tới Hollywood, hai lần giành Đạo diễn tốt nhất Oscar
-- [Ngụy Đức Thánh](/people/魏德聖)：Dùng năm thứ tiếng quay _Phía bắc đầm biển_, nhân vật làm sống lại phim quốc gia
-- [Quốc gia nhìn không thấy](/art/看不見的國家)：Trong phim tài liệu Cát Tĩnh Văn, một cách khác để Đài Loan được nhìn thấy
-- [Cảm xúc Đài Loan: Chúng ta có phải chờ người Hàn Quốc thích trước, mới dám nói ngôi nhà cũ của chính mình đẹp không?](/culture/台灣感性)：_Thành phố đau buồn_ 1989 Huy chương vàng Venice và doanh thu Đài Bắc cùng năm diễn ra, công nhận quốc tế với sự đồng cảm địa phương không nhất thiết phải chọn một
+- [Hầu Hiếu Hiền](/vi/people/hou-hsiao-hsien)：Giành Huy chương vàng Venice, đưa Sự kiện 228 lên màn hình lớn của Thầy phố Camera Dài
+- [Dương Đức Xương](/vi/people/yang-dechang)：Hai bộ phim vào danh sách trăm phim trong lịch sử Sight & Sound của Nhà Quan sát Thành Phố
+- [Thái Minh Lương](/vi/people/tsai-ming-liang)：Huy chương vàng Venice, quay phim chậm vào Bảo tàng Louvre
+- [Lý An](/vi/people/ang-lee)：Từ Đài Loan bước tới Hollywood, hai lần giành Đạo diễn tốt nhất Oscar
+- [Ngụy Đức Thánh](/vi/people/wei-te-sheng-taiwanese-epic-filmmaker)：Dùng năm thứ tiếng quay _Phía bắc đầm biển_, nhân vật làm sống lại phim quốc gia
+- [Quốc gia nhìn không thấy](/vi/art/invisible-nation)：Trong phim tài liệu Cát Tĩnh Văn, một cách khác để Đài Loan được nhìn thấy
+- [Cảm xúc Đài Loan: Chúng ta có phải chờ người Hàn Quốc thích trước, mới dám nói ngôi nhà cũ của chính mình đẹp không?](/vi/culture/taiwanese-sensibility)：_Thành phố đau buồn_ 1989 Huy chương vàng Venice và doanh thu Đài Bắc cùng năm diễn ra, công nhận quốc tế với sự đồng cảm địa phương không nhất thiết phải chọn một
 
 [^1]: [Người dịch nghĩa Phim - Wikipedia](https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%BD%B1%E8%BE%AF%E5%A3%AB) — Năm 1930 Đài Loan có 41 người dịch nghĩa người Nhật, 19 người dịch nghĩa người Đài Loan khoảng 60 người, thực tập phải vượt kỳ thi của viên cảnh sát viên lấy bằng.
 
@@ -365,7 +365,7 @@ Bài viết này dùng 4 bức hình ảnh, tất cả bộ nhớ tạm ở `pub
 
 [^37]: [Sự Kiện Giết Người Thiếu Niên Gu Ling Street - Wikipedia](https://zh.wikipedia.org/wiki/%E7%89%AF%E5%B6%BA%E8%A1%97%E5%B0%91%E5%B9%B4%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6) — Dương Đức Xương 《Sự Kiện Giết Người Thiếu Niên Gu Ling Street》(1991) phiên bản gốc 237 phút, chuyển thể từ vụ giết người thiếu niên thực tế năm 1961.
 
-[^38]: [Một Một - Wikipedia／Cannes Liên hoan Phim](https://zh.wikipedia.org/wiki/%E4%B8%80%E4%B8%80_(%E9%9B%BB%E5%BD%B1) — )) — Dương Đức Xương 《Một Một》giành Giải Đạo diễn tốt nhất lần thứ 53 Cannes (2000) (không phải Cành Vàng)
+[^38]: [Một Một - Wikipedia／Cannes Liên hoan Phim](<https://zh.wikipedia.org/wiki/%E4%B8%80%E4%B8%80_(%E9%9B%BB%E5%BD%B1)>) — )) — Dương Đức Xương 《Một Một》giành Giải Đạo diễn tốt nhất lần thứ 53 Cannes (2000) (không phải Cành Vàng)
 
 [^39]: [Dương Đức Xương - Wikipedia](https://zh.wikipedia.org/wiki/%E6%A5%8A%E5%BE%B7%E6%98%8C) — Dương Đức Xương ngày 29 tháng 6 năm 2007 qua đời vì ung thư kết tràng, hưởng thọ 59 tuổi.
 
@@ -375,7 +375,7 @@ Bài viết này dùng 4 bức hình ảnh, tất cả bộ nhớ tạm ở `pub
 
 [^42]: [Tình Yêu Muôn Vàn - Wikipedia／Liên hoan Phim Venice lần thứ 51](https://zh.wikipedia.org/wiki/%E6%84%9B%E6%83%85%E8%90%AC%E6%AD%B2) — 《Tình Yêu Muôn Vàn》giành Huy chương Vàng lần thứ 51 Venice (1994), bàn nhau với 《Mưa Bão Sắp Tới》, chủ tịch bộ giám khảo lần đó là David Lynch; lỗi truyền lại \"Giải Phê Bình Viên Venice Quốc Tế\" sai, Huy chương Vàng mới đúng.
 
-[^43]: [Khuôn Mặt (Phim) - Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%89_(%E9%9B%BB%E5%BD%B1) — )) — Thái Minh Lương 《Dòng Sông》《Ngoại Ô》tiếp tục tại các liên hoan phim đạt giải; 《Khuôn Mặt》(2009) trở thành bộ phim đầu tiên được Bảo tàng Louvre lưu giữ
+[^43]: [Khuôn Mặt (Phim) - Wikipedia](<https://zh.wikipedia.org/wiki/%E8%87%89_(%E9%9B%BB%E5%BD%B1)>) — )) — Thái Minh Lương 《Dòng Sông》《Ngoại Ô》tiếp tục tại các liên hoan phim đạt giải; 《Khuôn Mặt》(2009) trở thành bộ phim đầu tiên được Bảo tàng Louvre lưu giữ
 
 [^44]: [Cahiers du Cinéma 2008 Danh Sách Trăm Tác Phẩm Kiểm Chứng](https://en.wikipedia.org/wiki/Cahiers_du_Cin%C3%A9ma#Top_100_films) — Năm 2008 《Tạp Chí Điện Ảnh》danh sách trăm tác phẩm vĩ đại không có bất kỳ bộ phim Đài Loan nào; cách nói lưu truyền \"Tạp Chí Điện Ảnh trăm tác phẩm có ba bộ phim Đài Loan\" sai.
 
@@ -413,7 +413,7 @@ Bài viết này dùng 4 bức hình ảnh, tất cả bộ nhớ tạm ở `pub
 
 [^61]: [Phật Lớn Phổ La Tư／Quan Huyết - Wikipedia／Giải Thưởng Tây Mã lần thứ 54](https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%BD%9B%E6%99%AE%E6%8B%89%E6%96%AF) — Hoàng Tín Yao 《Phật Lớn Phổ La Tư》(2017) tại Giải Thưởng Tây Mã lần thứ 54 cùng lúc giành năm giải; cùng đó Dương Nhã Triệt 《Quan Huyết》giành Kịch tích tốt nhất.
 
-[^62]: [Quay Lại Nhà (Phim) - Wikipedia](https://zh.wikipedia.org/wiki/%E8%BF%94%E6%A0%A1_(%E9%9B%BB%E5%BD%B1) — )) — Từ Hàn Cường 《Quay Lại Nhà》(2019) chuyển thể từ trò chơi điện tử Xích Nến, dùng Khủng Bố Trắng làm đề tài, toàn Đài Loan 2,59 tỷ, là vương phế phòng vé phim quốc gia năm đó
+[^62]: [Quay Lại Nhà (Phim) - Wikipedia](<https://zh.wikipedia.org/wiki/%E8%BF%94%E6%A0%A1_(%E9%9B%BB%E5%BD%B1)>) — )) — Từ Hàn Cường 《Quay Lại Nhà》(2019) chuyển thể từ trò chơi điện tử Xích Nến, dùng Khủng Bố Trắng làm đề tài, toàn Đài Loan 2,59 tỷ, là vương phế phòng vé phim quốc gia năm đó
 
 [^63]: [Về Chuyện Tôi và Ma Quỷ Trở Thành Thành Viên Gia Đình - Wikipedia](https://zh.wikipedia.org/wiki/%E9%97%9C%E6%96%BC%E6%88%91%E5%92%8C%E9%AC%BC%E8%AE%8A%E6%88%90%E5%AE%B6%E4%BA%BA%E7%9A%84%E9%82%A3%E4%BB%B6%E4%BA%8B) — 《Về Chuyện Tôi và Ma Quỷ Trở Thành Thành Viên Gia Đình》(2023) toàn Đài Loan 3,63 tỷ, lên Bảng Xếp Hạng Phim Phi Anh Ngữ Toàn Cầu Netflix hạng 7.
 

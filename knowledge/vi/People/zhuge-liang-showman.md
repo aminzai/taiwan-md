@@ -4,7 +4,7 @@ description: 'Đại diện văn hóa sân khấu ca kịch Đài Loan, diễn v
 date: 2026-03-19
 category: 'People'
 tags: ['Trư Ca Lượng', 'sân khấu ca kịch', 'hài kịch', 'tạp kỹ', 'tiếng Đài']
-subcategory: 'Kỹ thuật số và Truyền thông'
+subcategory: '數位與媒體'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19

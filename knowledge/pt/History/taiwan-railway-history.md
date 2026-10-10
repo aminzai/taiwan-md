@@ -15,7 +15,7 @@ tags:
     'Período Colonial Japonês',
     'Engenheiros Estrangeiros',
   ]
-subcategory: 'Sociedade e História do Cotidiano'
+subcategory: '社會與日常史'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-11
@@ -31,6 +31,7 @@ relatedDiary: ['2026-05-11-161600-twmd-rewrite-daily']
 translatedFrom: 'History/台灣鐵道史.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:3745f6b7e84f2ed1'
+sourceBodyHash: 'sha256:74b314b2dea62382'
 translatedAt: '2026-08-02T18:44:28.240724+00:00'
 ---
 

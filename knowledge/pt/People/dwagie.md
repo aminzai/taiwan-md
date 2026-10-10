@@ -149,7 +149,7 @@ Portanto, olhando Dwagie de volta, a melhor entrada continua sendo a música. Ev
 - [Hip-hop e desenvolvimento do rap em Taiwan](/pt/music/taiwan-hip-hop-and-rap) — De Song Yue-ting, Hot Dog, Dwagie a Leo Wang, Bear Child e nova geração, o fio do rap taiwanês.
 - [Música independente de Taiwan](/pt/music/indie-music-scene) — Como selos independentes, cenas locais e música não mainstream sustentam outra estrada da música de Taiwan.
 - [Golden Melody Awards](/pt/music/pop-music-and-golden-melody-awards) — Da premiação de música popular veja a mudança de gêneros e política linguística da música de Taiwan.
-- [Incidente 228](/history/二二八事件) — Uma das memórias históricas e políticas de Taiwan frequentemente tocadas nas obras de Dwagie.
+- [Incidente 228](/pt/history/228-incident) — Uma das memórias históricas e políticas de Taiwan frequentemente tocadas nas obras de Dwagie.
 
 ## Fontes das imagens
 

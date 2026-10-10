@@ -382,8 +382,8 @@ No quarto dia em vigor, o Sindicato Nacional da Indústria de Entregas perguntou
 - [Cultura de mercados noturnos](/pt/food/night-market-culture) — Antes das plataformas: como funcionava e como se precificava a alimentação popular de Taiwan
 - [Cultura do bubble tea de Taiwan](/pt/food/hand-shaken-drink-culture) — Das pequenas lojas de rua para o mundo: as marcas de bebidas agitadas à mão que estão do outro lado da comissão das plataformas
 - [PX Mart (全聯福利中心)](/pt/economy/pxmart-supermarket) — O canal local na linha de entrega de mantimentos frescos
-- [Caso dos ftalatos (DEHP)](/society/苯駢芘食安事件) — No mesmo mês em que a lei especial entrou em vigor, o marmitex que o entregador deixou na porta era justamente a ponta final dessa tempestade de segurança alimentar
-- [Quem define salário baixo](/society/誰算低薪) — A garantia de remuneração dos entregadores entrou na lei especial, mas o bônus de fim de ano não tem lei que o proteja: como o salário baixo migrou do salário-base para a coluna onde não se paga bônus
+- [Caso dos ftalatos (DEHP)](/pt/society/benzopyrene-food-safety-incident) — No mesmo mês em que a lei especial entrou em vigor, o marmitex que o entregador deixou na porta era justamente a ponta final dessa tempestade de segurança alimentar
+- [Quem define salário baixo](/pt/society/who-counts-as-low-wage) — A garantia de remuneração dos entregadores entrou na lei especial, mas o bônus de fim de ano não tem lei que o proteja: como o salário baixo migrou do salário-base para a coluna onde não se paga bônus
 
 ## Fontes das imagens
 

@@ -15,7 +15,7 @@ tags:
     'mở cửa dữ liệu',
     'tình trạng thiếu tài xế',
   ]
-subcategory: 'Giao thông và di chuyển'
+subcategory: '交通與移動'
 translatedFrom: 'Lifestyle/台灣的公車系統.md'
 sourceCommitSha: '036f4f3f2'
 sourceContentHash: 'sha256:6350fb8cfb489452'
@@ -243,7 +243,7 @@ Lần tiếp theo bạn ở dưới cái cột chỉ dẫn, dù ở Đài Bắc 
 
 Chuyến 5658 cuối cùng rồi. Nhưng chừng nào còn người giơ tay ở dưới cái cột chỉ dẫn, thì còn một chiếc xe, nợ phải chạy tới cho họ.
 
-**Mở rộng đọc**: [Hệ thống giao thông Đài Loan](/lifestyle/hệ-thống-giao-thông-đài-loan), [Văn hoá xe máy Đài Loan](/lifestyle/văn-hoá-xe-máy-đài-loan), [Lịch sử phát triển tàu điện ngầm Đài Loan](/lifestyle/lịch-sử-tàu-điện-ngầm-đài-loan), [Xe du lịch](/lifestyle/xe-du-lịch)
+**Mở rộng đọc**: [Hệ thống giao thông Đài Loan](/vi/lifestyle/transportation-system), [Văn hoá xe máy Đài Loan](/vi/lifestyle/taiwan-scooter-culture), [Lịch sử phát triển tàu điện ngầm Đài Loan](/vi/lifestyle/history-of-taiwan-mrt-development), [Xe du lịch](/vi/lifestyle/tour-bus)
 
 ## Nguồn ảnh
 

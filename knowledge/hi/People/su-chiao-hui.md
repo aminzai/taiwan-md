@@ -4,7 +4,7 @@ description: 'फॉर्मोसा घटना के बचाव वक�
 date: 2026-04-28
 author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: 'राजनीति और लोकतंत्र'
+subcategory: '政治與民主'
 tags:
   - सू च्याओ-हुई
   - नया ताइपे शहर

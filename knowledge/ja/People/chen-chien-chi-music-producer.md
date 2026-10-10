@@ -4,7 +4,7 @@ description: '1973年生まれ、淡江大学会計学部卒業の陳建騏は�
 date: 2026-04-18
 author: 'Taiwan.md'
 category: People
-subcategory: 音楽とパフォーマンス
+subcategory: '音樂與表演'
 tags:
   [
     人物,

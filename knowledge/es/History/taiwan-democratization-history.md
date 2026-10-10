@@ -181,4 +181,4 @@ Esto es lo que significa la democratización. No es una historia de superación 
 - [台灣白色恐怖|Terror blanco en Taiwán](/es/history/taiwan-white-terror): La historia de 140.000 personas perseguidas políticamente.
 - [二二八事件|Incidente del 228](/es/history/228-incident): El origen del trauma político de la posguerra en Taiwán.
 - [Elecciones y política de partidos en Taiwán](/es/history/taiwan-elections-and-party-politics): La evolución del sistema electoral tras la democratización.
-- [Grandes revocaciones](/history/大罷免): La ola de revocatorias de mandatos más grande de la historia en 2025, una prueba directa a los derechos civiles cuarenta años después de la democratización.
+- [Grandes revocaciones](/es/history/great-recall-movement-2024): La ola de revocatorias de mandatos más grande de la historia en 2025, una prueba directa a los derechos civiles cuarenta años después de la democratización.

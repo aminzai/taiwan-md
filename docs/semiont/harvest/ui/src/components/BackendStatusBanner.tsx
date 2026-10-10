@@ -51,7 +51,7 @@ function Banner() {
         <Show when={offline()}>
           <strong>Backend offline.</strong> 連 {consecutiveFailures()} 次 ping
           失敗。試試
-          <code class="mx-1 px-1.5 py-0.5 rounded bg-bg-raised text-text-primary">
+          <code class="mx-1 px-1.5 py-0.5 rounded-sm bg-bg-raised text-text-primary">
             bash docs/semiont/harvest/backend/tmux/start.sh
           </code>
           （tmux session <code class="mx-1">harvest</code>，非 launchd）。

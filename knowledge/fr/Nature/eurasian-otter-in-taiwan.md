@@ -19,7 +19,7 @@ readingTime: 10
 lastVerified: 2026-04-25
 lastHumanReview: false
 translatedFrom: Nature/水獺.md
-sourceCommitSha: d6e87d07
+sourceCommitSha: 4b6d28c54
 sourceContentHash: 'sha256:06078f29307a4c77'
 sourceBodyHash: 'sha256:cd4c66affdcc4144'
 translatedAt: 2026-05-16T22:36:25Z
@@ -100,7 +100,7 @@ La survie insulaire des loutres de Kinmen est un miroir de la conservation écol
 
 [^10]: [十年數量少一半! 金門僅剩 94 隻歐亞水獺 犬隻攻擊恐成主因](https://www.ctwant.com/article/308499/) — CTWANT (2024), signalant un nombre record de cas de mortalité en 2023.
 
-[^11]: [歐亞水獺排遺與棲地水質微塑膠調查研究成果摘要](https://www.greenpeace.org/static/planet4-taiwan-stateless/2022/06/7d355282-%E6%AD%90%E4%BA%9E%E6%B0%B4%E7%8D%BA%E6%8E%92%E9%81%BA%E8%88%87%E6%A3%B2%E5%9C%B0%E6%B0%B4%E8%B3%AA%E5%BE%AE%E5%A1%91%E8%86%A0%E8%AA%BF%E6%9F%A5%E7%A0%94%E7%A9%B2%E6%96%B9%E6%B3%95%E8%88%87%E6%88%90%E6%9E%9C%E6%91%98%E8%A6%81-1.pdf) — Greenpeace (2022).
+[^11]: [歐亞水獺排遺與棲地水質微塑膠調查研究成果摘要](https://www.greenpeace.org/static/planet4-taiwan-stateless/2022/06/7d355282-%E6%AD%90%E4%BA%9E%E6%B0%B4%E7%8D%BA%E6%8E%92%E9%81%BA%E8%88%87%E6%A3%B2%E5%9C%B0%E6%B0%B4%E8%B3%AA%E5%BE%AE%E5%A1%91%E8%86%A0%E8%AA%BF%E6%9F%A5%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%E8%88%87%E6%88%90%E6%9E%9C%E6%91%98%E8%A6%81-1.pdf) — Greenpeace (2022).
 
 [^12]: [棲地與人類高度重疊 金門「歐亞水獺」糞便檢出微塑膠](https://www.natgeomedia.com/environment/article/content-15247.html) — 國家地理雜誌 (2022).
 

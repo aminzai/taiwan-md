@@ -24,7 +24,7 @@ tags:
     'Lễ hội Đồng Chơi',
     'Loạt 22 tỉnh thành',
   ]
-subcategory: '22 tỉnh thành'
+subcategory: '縣市'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-18
@@ -244,13 +244,13 @@ Lần tới đến Nghi Lan, không chỉ đi Suối Nóng Tiêu Khê, không ch
 
 ## Đọc thêm
 
-- [Đảo Quy Sơn](/geography/đảo-quy-sơn) — Câu chuyện riêng của chiếc "tọa độ không thay đổi" ngoài khơi Bằng Dương Lan Dương: núi lửa hoạt động, không có đền bù chuyển dân thôn, 22 năm vùng cấm quân sự, và nhà dân không thể quay lại
-- [Bố cục hành chính Đài Loan](/geography/bố-cục-hành-chính-đài-loan) — Thành lập Khang Ma Lan Đình năm 1812, đổi tên Tỉnh Nghi Lan năm 1875, hệ thống Nhật trị năm 1895 phát triển hành chính
-- [Địa hình bờ biển Đài Loan và cảnh quan biển](/geography/địa-hình-bờ-biển-đài-loan-và-cảnh-quan-biển) — Ngữ cảnh địa chất của núi lửa đảo Quy Sơn, quạt phù sa Sông Lan Dương, dải bờ biển Tô Hoa
-- [Cảnh quan nông nghiệp Đài Loan và phân bố công nghiệp](/geography/cảnh-quan-nông-nghiệp-đài-loan-và-phân-bố-công-nghiệp) — Vị trí phân mảnh đất nông dân Bằng Dương Lan Dương trong cảnh quan nông nghiệp toàn Đài Loan
-- [Phát triển đô thị Đài Loan và khoảng cách thành thị-nông thôn](/geography/phát-triển-đô-thị-đài-loan-và-khoảng-cách-thành-thị-nông-thôn) — Hiệu ứng thành phố vệ tinh của Nghi Lan được đưa vào vòng sinh hoạt một ngày Đài Bắc sau khi hầm Tuyết Sơn thông xe
-- [Cảnh quan suối nóng Đài Loan](/geography/cảnh-quan-suối-nóng-đài-loan) — Vị trí đặc thù của suối nóng Tiêu Khê trong địa lý suối nóng Đài Loan
-- [Thành phố Cơ Long](/geography/thành-phố-cơ-long) — Bài viết cùng loạt 22 tỉnh thành trong cùng thời kỳ, cùng là "không nhìn thấy" Đông Bắc của Đài Bắc
+- [Đảo Quy Sơn](/vi/geography/gueishan-island) — Câu chuyện riêng của chiếc "tọa độ không thay đổi" ngoài khơi Bằng Dương Lan Dương: núi lửa hoạt động, không có đền bù chuyển dân thôn, 22 năm vùng cấm quân sự, và nhà dân không thể quay lại
+- [Bố cục hành chính Đài Loan](/vi/geography/administrative-divisions-of-taiwan) — Thành lập Khang Ma Lan Đình năm 1812, đổi tên Tỉnh Nghi Lan năm 1875, hệ thống Nhật trị năm 1895 phát triển hành chính
+- [Địa hình bờ biển Đài Loan và cảnh quan biển](/vi/geography/taiwan-coastal-landforms-and-seascapes) — Ngữ cảnh địa chất của núi lửa đảo Quy Sơn, quạt phù sa Sông Lan Dương, dải bờ biển Tô Hoa
+- [Cảnh quan nông nghiệp Đài Loan và phân bố công nghiệp](/vi/geography/taiwan-agricultural-landscapes-and-industry-belts) — Vị trí phân mảnh đất nông dân Bằng Dương Lan Dương trong cảnh quan nông nghiệp toàn Đài Loan
+- [Phát triển đô thị Đài Loan và khoảng cách thành thị-nông thôn](/vi/geography/taiwan-urban-development-and-rural-urban-divide) — Hiệu ứng thành phố vệ tinh của Nghi Lan được đưa vào vòng sinh hoạt một ngày Đài Bắc sau khi hầm Tuyết Sơn thông xe
+- [Cảnh quan suối nóng Đài Loan](/vi/geography/taiwan-hot-springs-landscape) — Vị trí đặc thù của suối nóng Tiêu Khê trong địa lý suối nóng Đài Loan
+- [Thành phố Cơ Long](/vi/geography/keelung-city) — Bài viết cùng loạt 22 tỉnh thành trong cùng thời kỳ, cùng là "không nhìn thấy" Đông Bắc của Đài Bắc
 
 ## Nguồn hình ảnh
 

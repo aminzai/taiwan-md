@@ -3,7 +3,16 @@ title: 'Wei Te-sheng: Yongkang 1969 – vom Rekord-Einspielergebnis von „Cape 
 description: 'Geboren am 16. August 1969 in Yongkang, Landkreis Tainan (heute Bezirk Yongkang, Tainan). Abschluss in Elektrotechnik an der Fern-East-Fachhochschule. 2008 „Cape No. 7“ mit 530 Mio. NT$ Einspielergebnis (taiwanesischer Filmrekord). 2011 im Hauptwettbewerb der 68. Filmfestspiele von Venedig um den Goldenen Löwen; „Seediq Bale“ gewann den Golden Horse Award für den besten Spielfilm (48. Ausgabe). Derzeit in Vorbereitung: das Epen-Projekt „Taiwan-Trilogie“.'
 date: 2026-03-19
 category: 'People'
-tags: ['Film und Theater', 'Regisseur', 'Taiwanesischer Film', 'Indigene Kultur', 'Cape No. 7', 'Seediq Bale', 'Tainan']
+tags:
+  [
+    'Film und Theater',
+    'Regisseur',
+    'Taiwanesischer Film',
+    'Indigene Kultur',
+    'Cape No. 7',
+    'Seediq Bale',
+    'Tainan',
+  ]
 subcategory: '電影與戲劇'
 author: 'Taiwan.md'
 featured: false
@@ -77,7 +86,7 @@ Im Filmgeschäft gibt es keine Abkürzung. Von der Elektrotechnik-Fachhochschule
 
 1969 in Yongkang, Tainan, geboren; 2000 einen 5-Minuten-Film für 500.000 NT$ ohne Geldgeber; 2008 ein Einspielergebnis von 530 Mio. NT$; 2011 der Hauptwettbewerb von Venedig – diese Linie ist das Ergebnis von Ausdauer, nichts mit Wunder zu tun.
 
-**Weiterführende Lektüre**: [Mo-na Rudo (莫那·魯道): der in den 20-Dollar-Münzen Taiwans verewigte Anti-Japan-Held](/people/莫那·魯道) (das Vorbild der Hauptfigur von „Seediq Bale“ und wie der Film die Erinnerung umgeformt hat) ｜ [Wei Te-sheng – Wikipedia](https://zh.wikipedia.org/zh-tw/魏德聖) ｜ [Taiwan-Film-Datenbank: Wei Te-sheng](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12549) ｜ [Offizielle Seite der Golden Horse Awards](https://www.goldenhorse.org.tw/)
+**Weiterführende Lektüre**: [Mo-na Rudo (莫那·魯道): der in den 20-Dollar-Münzen Taiwans verewigte Anti-Japan-Held](/de/people/mona-rudao) (das Vorbild der Hauptfigur von „Seediq Bale“ und wie der Film die Erinnerung umgeformt hat) ｜ [Wei Te-sheng – Wikipedia](https://zh.wikipedia.org/zh-tw/魏德聖) ｜ [Taiwan-Film-Datenbank: Wei Te-sheng](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12549) ｜ [Offizielle Seite der Golden Horse Awards](https://www.goldenhorse.org.tw/)
 
 ## Referenzen
 

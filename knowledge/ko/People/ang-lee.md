@@ -4,7 +4,7 @@ description: '2006년 오스카 무대에서 이안은 역사상 최초로 감�
 date: 2026-03-17
 category: 'People'
 tags: ['인물', '이안', '감독', '오스카', '영화', '횡문화', '금마장']
-subcategory: "'電影與戲劇'"
+subcategory: '電影與戲劇'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-01

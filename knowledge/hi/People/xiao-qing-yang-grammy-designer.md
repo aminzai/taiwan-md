@@ -11,7 +11,7 @@ tags:
     'दृश्य डिजाइन',
     'ताइवान संस्कृति',
   ]
-subcategory: 'कला और डिज़ाइन'
+subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-19
@@ -19,6 +19,7 @@ lastHumanReview: false
 translatedFrom: 'People/蕭青陽.md'
 sourceCommitSha: '18157ab5d'
 sourceContentHash: 'sha256:f24974c7e35648df'
+sourceBodyHash: 'sha256:269ea0687b8a4a49'
 translatedAt: '2026-08-06T22:18:08.295540+00:00'
 ---
 

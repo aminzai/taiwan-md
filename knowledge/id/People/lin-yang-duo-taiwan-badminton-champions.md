@@ -211,7 +211,7 @@ Meskipun Li Yang sudah pensiun, nama Lin Yang akan selalu dikaitkan dengan momen
 **Bacaan Lanjutan:**
 
 - [Guo Cing-chun](/id/people/kuo-hsing-chun-olympic-weightlifting-champion) — Emas Olimpiade Tokyo dalam angkat, bersama Lin Yang sebagai generasi emas emas Olimpiade Taiwan
-- [Li Yang](/people/李洋) — Biografi pribadi setengah kanan Lin Yang: dari ayah yang berkata 'bukan untuk bulu tangkis' hingga paling muda sekretaris olahraga
+- [Li Yang](/id/people/lee-yang-badminton) — Biografi pribadi setengah kanan Lin Yang: dari ayah yang berkata 'bukan untuk bulu tangkis' hingga paling muda sekretaris olahraga
 - [Wang Ziyin](/id/people/tai-tzu-ying) — Putri tunggal yang setara dengan Lin Yang, wajah lain dari generasi emas bulu tangkis Taiwan
 
 ## Referensi

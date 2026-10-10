@@ -105,7 +105,7 @@ Dokumen tiga orang asing ini, dibaca secara berdampingan dengan surat kabar Taiw
 
 > **📝 Catatan Kurator: Kritik Sumber Sejarah Bukan Berarti Membuang Sumber**
 >
-> Mengakui bahwa catatan Endō Makoto, Davidson, dan Hosokawa Ryu memiliki keterbatasan perspektif, tidak berarti ketiga dokumen sejarah ini tidak berguna. Mereka tetap menjadi bahan primer visual dan tekstual paling langsung untuk penelitian tentang Pemberontakan Yiwei hingga hari ini. Tindakan [Museum Nasional Sejarah Taiwan](/society/國立臺灣歷史博物館) menerbitkan seri _Terjemahan dan Interpretasi Sumber Asing tentang Pemberontakan Yiwei_ (2018–2019) sendiri adalah satu deklarasi: mengatur ulang sumber sejarah berbahasa asing ini dengan perspektif berpusat Taiwan, menerjemahkan, memberi catatan, membiarkan akademisi Taiwan dapat menggunakannya secara kritis, bukan membiarkan perspektif berbahasa asing ini tanpa refleksi menjadi "versi standar" sejarah Taiwan.
+> Mengakui bahwa catatan Endō Makoto, Davidson, dan Hosokawa Ryu memiliki keterbatasan perspektif, tidak berarti ketiga dokumen sejarah ini tidak berguna. Mereka tetap menjadi bahan primer visual dan tekstual paling langsung untuk penelitian tentang Pemberontakan Yiwei hingga hari ini. Tindakan [Museum Nasional Sejarah Taiwan](/id/society/national-museum-of-taiwan-history) menerbitkan seri _Terjemahan dan Interpretasi Sumber Asing tentang Pemberontakan Yiwei_ (2018–2019) sendiri adalah satu deklarasi: mengatur ulang sumber sejarah berbahasa asing ini dengan perspektif berpusat Taiwan, menerjemahkan, memberi catatan, membiarkan akademisi Taiwan dapat menggunakannya secara kritis, bukan membiarkan perspektif berbahasa asing ini tanpa refleksi menjadi "versi standar" sejarah Taiwan.
 
 ---
 

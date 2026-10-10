@@ -3,7 +3,16 @@ title: 'Jin (Enoki)'
 description: 'Mit Erzählungen über ihr Leben in Taiwan baute sie millionenschwere Wirkung auf und machte aus „Koreaner in Taiwan“ einen Content-Typ, der nicht mehr nur eine Schlagzeile ist, sondern im Alltag angesehen werden kann.'
 date: 2026-05-13
 category: 'People'
-tags: ['Popkultur-Persönlichkeit', 'Jin (Enoki)', 'Korea', 'YouTuber', 'Koreaner in Taiwan', 'Neue Medien', 'Taiwan']
+tags:
+  [
+    'Popkultur-Persönlichkeit',
+    'Jin (Enoki)',
+    'Korea',
+    'YouTuber',
+    'Koreaner in Taiwan',
+    'Neue Medien',
+    'Taiwan',
+  ]
 subcategory: '流行人物'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -14,6 +23,7 @@ curation: incubating
 translatedFrom: 'People/金針菇.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:a6d650976df7cf5b'
+sourceBodyHash: 'sha256:4b10f11517195560'
 translatedAt: '2026-08-13T02:55:00+08:00'
 ---
 

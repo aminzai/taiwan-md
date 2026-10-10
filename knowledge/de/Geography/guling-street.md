@@ -37,6 +37,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Nanhai_Academy_20240102.jp
 translatedFrom: 'Geography/牯嶺街.md'
 sourceCommitSha: 'fe48ea49d'
 sourceContentHash: 'sha256:66bd8b34b1fa18da'
+sourceBodyHash: 'sha256:cafaccb40b199771'
 translatedAt: '2026-09-26T14:00:50.903897+00:00'
 ---
 
@@ -189,7 +190,7 @@ Die Buchstraße wurde abgerissen, aber der Teich blüht noch an derselben Stelle
 - [Bangka](/de/geography/bangka) — Die früheste Marktstraße Taipehs aus der Qing-Zeit, vom Longshan-Tempel 1738 bis zum Film „Bangka" 2010
 - [Ximending](/de/geography/ximending) — Das Unterhaltungsviertel von 1896 aus der japanischen Kolonialzeit bis zur Subkultur-Hauptstadt 2026, wie die Guling Street ein während der japanischen Kolonialzeit geplanter Straßenbezirk in Zhongzheng
 - [Taiwanisches Kino](/de/art/taiwanese-cinema) — Die Position von Yang De-changs „A Brighter Summer Day" in der Geschichte der Neuen Taiwanischen Filmwelle
-- [Yang De-chang](/de/people/edward-yang) — Der Geist der Taiwanischen Neuen Filmwelle, der die 237 Minuten lange „A Brighter Summer Day" drehte
+- [Yang De-chang](/de/people/yang-dechang) — Der Geist der Taiwanischen Neuen Filmwelle, der die 237 Minuten lange „A Brighter Summer Day" drehte
 - [Gongguan](/de/geography/gongguan) — Eine Schwesterlandschaft der Nachkriegskultur von Gelehrten aus dem Festland und der Antiquariatsbuchkultur, die mit der Guling Street zwei Siedlungen von Intellektuellen aus dem Festland bildet
 - [Sisi Nancun](/de/geography/44-south-village) — Die Munitionsfabrik-Militärwohnviertel und die Guling Street Antiquariatsbuchstraße sind zwei Strukturen der Nachkriegs-„Militär-Industrie vs. Literaten"-Ansiedlung
 

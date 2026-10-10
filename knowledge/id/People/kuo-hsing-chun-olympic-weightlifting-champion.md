@@ -15,7 +15,7 @@ tags:
     'Suku Amis',
     'Masyarakat adat',
   ]
-subcategory: 'Olahraga'
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-16
@@ -23,6 +23,7 @@ lastHumanReview: true
 translatedFrom: 'People/郭婞淳.md'
 sourceCommitSha: '85926aa3b'
 sourceContentHash: 'sha256:100a6dfe0d0c9f4b'
+sourceBodyHash: 'sha256:45d6a810707daa5c'
 translatedAt: '2026-08-05T04:13:02.331708+00:00'
 ---
 
@@ -108,8 +109,8 @@ Nenek buyutnya mewariskan budaya lewat nyanyian, dia mewariskannya lewat barbel 
 
 - [Tai Tzu-ying](/id/people/tai-tzu-ying) — Sama-sama inti delegasi Taiwan di Olimpiade Tokyo, ratu dunia bulu tangkis
 - [Yang Yung-wei](/id/people/yang-yung-wei-judo-olympic-silver) — Perak judo Olimpiade Tokyo, medali Olimpiade pertama judo Taiwan
-- [Ganda Lin-Yang](/people/麟洋配) — Emas bulu tangkis ganda putra Olimpiade Tokyo, kisah Wang Chi-lin dan Lee Yang
-- [Lee Yang](/people/李洋) — Juara Olimpiade emas ganda yang bertransformasi menjadi Menteri Olahraga pertama, biografi pribadinya
+- [Ganda Lin-Yang](/id/people/lin-yang-duo-taiwan-badminton-champions) — Emas bulu tangkis ganda putra Olimpiade Tokyo, kisah Wang Chi-lin dan Lee Yang
+- [Lee Yang](/id/people/lee-yang-badminton) — Juara Olimpiade emas ganda yang bertransformasi menjadi Menteri Olahraga pertama, biografi pribadinya
 - [Lee Chih-kai](/id/people/li-chih-kai) — Perak kuda tangga gimnastik Olimpiade Tokyo, perjalanan dua puluh tahun 「Anak Nakal yang Berguling」
 
 ## Referensi

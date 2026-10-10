@@ -130,7 +130,7 @@ _사진: Solomon203, CC BY-SA 4.0, 위키미디어 코먼즈 파일 페이지 �
 
 [국가문화유산망: 이름 벽에서 선조 이름 찾기](https://rhs.boch.gov.tw/rhs/news_D.aspx?id=38)
 
-## 參考資料
+## 참고 자료
 
 [^1]: [지룽 시 문화관광국: 타이핑룬호 희생자 기념비](https://klgreat.klcg.gov.tw/History_Content.aspx?n=8106&s=8864) — 공식 역사 현장 페이지, 사건 날짜, 희생 및 생존자 수, 구조, 비석 건립 및 2018년 기념 장소 개방 연혁을 기록.
 

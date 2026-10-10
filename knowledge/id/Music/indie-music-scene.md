@@ -203,8 +203,8 @@ Apa yang dikatakan Ren Jiangda kepada anak-anak itu mungkin adalah hal yang sama
 - [Dari Zhang Xuan ke Anpu](/id/music/deserts-chang-and-anpu) — Perubahan identitas suara musik independen Taiwan, dari politik insiden bendera hingga politik pengakuan di balik penggantian nama
 - [Sejarah Perkembangan Rock Taiwan](/id/music/taiwan-rock-from-underground-to-mainstream) — Jalur lengkap rock dari larangan menjadi arus utama di Taiwan
 - [Budaya Festival Musik Taiwan](/id/music/taiwan-music-festival-culture) — Bagaimana Ocean Music Festival menjadi inkubator musik independen
-- [Zuo Shui Xi Gongshe](/music/濁水溪公社) — Tiga puluh tahun bawah tanah punk bahasa Taiwan, dan memenangkan Album Terbaik Bahasa Taiwan pada debut Golden Melody Award setelah bubar
-- [Soda Green](/music/蘇打綠) — Lintasan lengkap band indie Taiwan selama dua puluh tahun, dari penghargaan Jin Xuan di Universitas Cheng Kung pada 2001 hingga Ji Tang Yingye pada 2023, termasuk perjuangan merek dagang dan "Yu Ding Si"
+- [Zuo Shui Xi Gongshe](/id/music/loh-tsui-kang-commune) — Tiga puluh tahun bawah tanah punk bahasa Taiwan, dan memenangkan Album Terbaik Bahasa Taiwan pada debut Golden Melody Award setelah bubar
+- [Soda Green](/id/music/sodagreen) — Lintasan lengkap band indie Taiwan selama dua puluh tahun, dari penghargaan Jin Xuan di Universitas Cheng Kung pada 2001 hingga Ji Tang Yingye pada 2023, termasuk perjuangan merek dagang dan "Yu Ding Si"
 
 ## Referensi
 

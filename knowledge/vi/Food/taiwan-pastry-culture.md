@@ -137,7 +137,7 @@ Một miếng bánh chứa đựng thời gian, dài hơn bạn nghĩ.
 
 - [Bánh mặt trời](/vi/food/sun-cake) — Báo sâu về câu chuyện lịch sử của bánh mặt trời được cải tiến từ bánh malt của Thầy A Minh tại tiệm Kinh phát ở Thần Không
 - [Bánh dứa](/vi/food/pineapple-cake) — Lộ trình phát triển bánh dứa từ bánh lớn hình cây dứa thời Pháp thuộc đến cuộc cách mạch biến hình vuông
-- [Bánh mì và công nghệ bánh kẹp Đài Loan](/food/台灣麵包與烘焙) — Câu chuyện về các thầy bánh kẹp Đài Loan từ Trần Tĩnh Bảo đến Trần Duy Tín bước vào sân chơi thế giới
+- [Bánh mì và công nghệ bánh kẹp Đài Loan](/vi/food/taiwan-bread-and-baking) — Câu chuyện về các thầy bánh kẹp Đài Loan từ Trần Tĩnh Bảo đến Trần Duy Tín bước vào sân chơi thế giới
 - [Văn hóa ẩm thực gạo Đài Loan](/vi/food/taiwan-rice-cuisine-culture) — Gạo và bánh ngọt là hai đường con trên cùng một bàn ăn, hiểu gạo mới hiểu được vị trí của bánh ngọt
 - [Nghi lễ hôn nhân và lễ hội trong đời sống Đài Loan](/vi/culture/taiwanese-life-ceremony-traditions) — Vai trò cụ thể của hộp bánh ngọt trong sáu nghi lễ mười hai nghi lễ
 - [Văn hóa trà Đài Loan](/vi/culture/taiwanese-tea-culture-and-living-aesthetics) — Bánh ngọt và trà là bạn đồng thời kéo dài hàng năm, bánh hồn quả của Yù Zhēn Zhāi ban đầu chỉ dùng để ăn kèm trà
@@ -164,7 +164,7 @@ Một miếng bánh chứa đựng thời gian, dài hơn bạn nghĩ.
 
 [^10]: [Báo cáo về bánh trứng dầu của Trần Duy Tín](https://blog.104.com.tw/yoshi-bakery-yolk-pastry/) — Báo cáo Trần Duy Tín – Bến tàu bánh mì YOSHI BAKERY sử dụng trứng dầu từ đất ngâm rượu, đậu hũ giảm đường, siro bánh bò chiến thắng, cùng thiết kế quy trình giao hòa công nghệ bánh mì kiểu châu Âu vào bánh trứng dầu truyền thống.
 
-[^11]: [Trang web chính thức của Trần Duy Tín – Bến tàu bánh mì YOSHI BAKERY](https://www.chenyunpaochuan.com.tw/) — Trang web chính thức của Trần Duy Tín – Bến tàu bánh mì YOSHI BAKERY, tiền đề Trung Thu 2025 dùng hệ thống bán vé truyền thông số, mở bán vào lúc 12:30 ngày 29 tháng 7, mỗi người giới hạn mua 8 hộp, giá 900 USD, không giao hàng nhà, phải đến cửa hàng lấy hàng.
+[^11]: [Trang web chính thức của Trần Duy Tín – Bến tàu bánh mì YOSHI BAKERY](https://www.nownews.com/news/6711245) — Trang web chính thức của Trần Duy Tín – Bến tàu bánh mì YOSHI BAKERY, tiền đề Trung Thu 2025 dùng hệ thống bán vé truyền thông số, mở bán vào lúc 12:30 ngày 29 tháng 7, mỗi người giới hạn mua 8 hộp, giá 900 USD, không giao hàng nhà, phải đến cửa hàng lấy hàng.
 
 [^12]: [Văn hóa bánh kẹp khoai lang của Thầy A Trương](https://www.o-nongs.com.tw/) — Tài liệu chính thức về bánh kẹp khoai lang sáng tạo của Thầy A Trương, ghi lại lịch sử làm món ăn đặc biệt tại bữa tiệc quốc gia, và câu chuyện truyền thống công nghệ bánh kẹp.
 

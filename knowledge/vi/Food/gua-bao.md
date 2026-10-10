@@ -12,7 +12,7 @@ tags:
     'BAO London',
     'ẩm thực Đài Loan',
   ]
-subcategory: 'Món ăn cổ điển'
+subcategory: '經典小吃'
 author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-05-16
@@ -148,11 +148,11 @@ Năm 2023, BAO lần đầu tiên quay lại Á châu tổ chức popup, địa 
 
 ## Mở rộng
 
-- [Ẩm thực Đài Loan](/food/ẩm-thực-đài-loan) — Hệ sinh thái ẩm thực vỉa hè ngoài rộng, bánh bao kẹp là một nhánh then chốt
-- [Văn hóa chợ đêm](/food/văn-hóa-chợ-đêm) — Lịch sử bánh bao kẹp từ lễ tết cuối năm vào chợ đêm
-- [Văn hóa tiệc ngồi thức Đài Loan](/food/văn-hóa-tiệc-ngồi-thức-đài-loan) — Nghi lễ lao động tư bản của lễ tết cuối năm và tiệc ngồi thức, hướng mỏ gà và bánh chó cắn lợn
-- [Văn hóa cơm gạo Đài Loan](/food/văn-hóa-cơm-gạo-đài-loan) — Ngữ cảnh bánh mì của bánh bao kẹp và cấu trúc ẩm thực đôi bánh mỳ-gạo của Đài Loan
-- [Gà chín muối phục Đài Loan](/food/gà-chín-muối-phục-đài-loan) — Một loại ẩm thực vặt khác của Đài Loan trên con đường tới nhãn hiệu quốc tế CNN
+- [Ẩm thực Đài Loan](/vi/food/taiwanese-street-food) — Hệ sinh thái ẩm thực vỉa hè ngoài rộng, bánh bao kẹp là một nhánh then chốt
+- [Văn hóa chợ đêm](/vi/food/night-market-culture) — Lịch sử bánh bao kẹp từ lễ tết cuối năm vào chợ đêm
+- [Văn hóa tiệc ngồi thức Đài Loan](/vi/food/taiwan-banquet-culture) — Nghi lễ lao động tư bản của lễ tết cuối năm và tiệc ngồi thức, hướng mỏ gà và bánh chó cắn lợn
+- [Văn hóa cơm gạo Đài Loan](/vi/food/taiwan-rice-cuisine-culture) — Ngữ cảnh bánh mì của bánh bao kẹp và cấu trúc ẩm thực đôi bánh mỳ-gạo của Đài Loan
+- [Gà chín muối phục Đài Loan](/vi/food/taiwanese-popcorn-chicken-redux) — Một loại ẩm thực vặt khác của Đài Loan trên con đường tới nhãn hiệu quốc tế CNN
 
 ## Nguồn hình ảnh
 

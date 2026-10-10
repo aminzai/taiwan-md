@@ -144,13 +144,13 @@ Một con người sống trọn cuộc đời trong sự trốn thoát, cuối 
 
 ## Tài liệu tham khảo
 
-[^1]: [Wikipedia: San Mao (nhà văn)](<https://zh.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6)>) — Tiểu sử cơ bản, lộ trình sáng tạo, đánh giá văn học
+[^1]: [Wikipedia: San Mao (nhà văn)](https://zh.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6) — Tiểu sử cơ bản, lộ trình sáng tạo, đánh giá văn học
 
 [^2]: [Chop Suey Club](https://www.chopsueyclub.com/blogs/blog/san-mao) — Năm sinh của Quỷ Tây 1951, khoảng cách tuổi tám năm, chưa thể cưới của người Đức
 
 [^3]: [Diario de Avisos](https://www.diariodeavisos.com/2012/01/cuando-la-tragedia-sepulto-el-arte/) — Nơi Quỷ Tây mất: La Palma Barlovento, ngày tháng, chi tiết tìm thấy
 
-[^4]: [Wikipedia: Xoay tròn đời người (phim)](<https://zh.wikipedia.org/wiki/%E6%BB%9A%E6%BB%9A%E7%B4%85%E5%A1%B5_(%E9%9B%BB%E5%BD%B1)>) — Danh sách đầy đủ tám giải Kim Mã lần thứ hai mươi bảy
+[^4]: [Wikipedia: Xoay tròn đời người (phim)](https://zh.wikipedia.org/wiki/%E6%BB%9A%E6%BB%9A%E7%B4%85%E5%A1%B5_(%E9%9B%BB%E5%BD%B1) — Danh sách đầy đủ tám giải Kim Mã lần thứ hai mươi bảy
 
 [^5]: [New York Times Overlooked](https://www.nytimes.com/2019/10/23/obituaries/sanmao-overlooked.html) — Doanh số 15 triệu bản, đánh giá quốc tế
 

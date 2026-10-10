@@ -228,7 +228,7 @@ Decisões ambientais em sociedades democráticas devem basear-se em informação
 - [Barracas de chapas metálicas](/pt/society/taiwan-tin-shed-houses) — A demolição de Fanzaitian é caso típico de justiça ambiental: dilemas de poluição, demolição e reassentamento de aglomerado de 400 hectares de fábricas de chapas metálicas
 - [Habitação social e justiça habitacional](/pt/society/social-housing-and-housing-justice) — A face política do problema habitacional: oferta de habitação social e reforma do mercado de arrendamento
 - [Lu Hsiu-yen](/pt/people/lu-hsiu-yan) — Figura política que venceu Taichung em 2018 com a pauta da qualidade do ar; central a carvão, PM2.5, transição energética como campos de batalha políticos concretos
-- [Crise climática e transição para zero líquido em Taiwan](/nature/台灣氣候危機與淨零轉型) — 97.672 barris em Lanyu, referendo de 2025 sobre Nuclear 3, terceira ligação para algas, défice de 27 vezes em geotermia: cada caminho da transição energética corresponde a uma falha de justiça ambiental
+- [Crise climática e transição para zero líquido em Taiwan](/pt/nature/taiwan-climate-change-net-zero-transition) — 97.672 barris em Lanyu, referendo de 2025 sobre Nuclear 3, terceira ligação para algas, défice de 27 vezes em geotermia: cada caminho da transição energética corresponde a uma falha de justiça ambiental
 
 ## Referências
 

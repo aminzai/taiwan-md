@@ -16,7 +16,7 @@ tags:
   - '초순수'
   - '재생수'
   - '공급망'
-subcategory: '반도체와 하드웨어'
+subcategory: '半導體與硬體'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-11

@@ -109,7 +109,7 @@ _Devotion_ continua fora da Steam. Mas a Red Candle continua aqui.
 - [Indústria de Jogos de Taiwan e Entretenimento Digital](/pt/technology/taiwan-gaming-industry) — Do trabalho de distribuição à criação original, o panorama completo dos jogos de Taiwan
 - [As Duas Espadas da Softstar](/pt/technology/softstar-twin-classics) — A era anterior à Red Candle, o ponto de partida dos jogos de Taiwan contando histórias em chinês
 - [Os Momentos de Loucura dos Jogadores de Taiwan](/pt/technology/taiwan-gamers-wildest-moments) — Outro lado do comportamento coletivo dos jogadores de Taiwan
-- [Rayark Games](/technology/雷亞遊戲) — Equipe indie contemporânea de Taiwan, após o incidente do código Morse no ICE 2020 escolheu o caminho oposto ao da Red Candle: cortar funcionários, preservar o mercado chinês
+- [Rayark Games](/pt/technology/rayark-games) — Equipe indie contemporânea de Taiwan, após o incidente do código Morse no ICE 2020 escolheu o caminho oposto ao da Red Candle: cortar funcionários, preservar o mercado chinês
 
 ---
 

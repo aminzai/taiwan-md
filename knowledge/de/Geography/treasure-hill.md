@@ -216,10 +216,10 @@ Baobaoan wurde nicht abgerissen, weil genug Menschen ihn davor bewahrt haben.
 
 - [Taipeh: Drei Zeiten in einer Stadt, der Longshan Temple von 1738 blickt auf den 101 von 2004](/de/geography/taipei-city) — Die Lage Baobaoans im Bezirk 12 neben den Zeitachsen Wanhua, Dadaocheng und Xinyi.
 - [Entwicklung des Taiwan Cultural and Creative Park](/de/culture/taiwan-cultural-creative-park-development) — Vergleichen Sie Baobaoan mit „Militärsiedlung/Industrieerbe zu Kulturzentrum“ in Taiwan wie SiSiNan Village, Huashan und Songyan.
-- [Dadaocheng: 800 Meter, drei Jahrhunderte von Taipeh](/geography/大稻埕) — Ein Geschwisterprojekt der historischen Viertel; die Teehandelsstraße von 1851 und die illegale Siedlung der 1960er Jahre sind zwei völlig unterschiedliche „Gebilde-Momente“.
-- [Wanhua: Der lebhafteste Ort in Qing-Taiwan](/geography/艋舺) — Ein Geschwisterprojekt; der religiöse Landschaftsraum des Longshan Tempels von 1738 und der Guan Yin Tempel Baobaoan von 1791 sind Zentren der Glaubenspraxis der Zhangzhou/Quanzhou-Migranten.
-- [Ximen Town: Die Vergnügungsstraße, die die Japaner 1896 bauten](/geography/西門町) — Ein Geschwisterprojekt; das von japanischer Planung erbaute Vergnügungsviertel vs. die illegale Siedlung nach dem Krieg sind zwei Kontraste der „Menschen, die von der Stadtplanung nicht gesehen wurden“.
-- [Gongguan](/geography/公館) — Der akademische Konsumraum 800 Meter nördlich; eine völlig andere räumliche Ökologie als die illegale Siedlung Baobaoan in der Nähe der Taiwan University.
+- [Dadaocheng: 800 Meter, drei Jahrhunderte von Taipeh](/de/geography/dadaocheng) — Ein Geschwisterprojekt der historischen Viertel; die Teehandelsstraße von 1851 und die illegale Siedlung der 1960er Jahre sind zwei völlig unterschiedliche „Gebilde-Momente“.
+- [Wanhua: Der lebhafteste Ort in Qing-Taiwan](/de/geography/bangka) — Ein Geschwisterprojekt; der religiöse Landschaftsraum des Longshan Tempels von 1738 und der Guan Yin Tempel Baobaoan von 1791 sind Zentren der Glaubenspraxis der Zhangzhou/Quanzhou-Migranten.
+- [Ximen Town: Die Vergnügungsstraße, die die Japaner 1896 bauten](/de/geography/ximending) — Ein Geschwisterprojekt; das von japanischer Planung erbaute Vergnügungsviertel vs. die illegale Siedlung nach dem Krieg sind zwei Kontraste der „Menschen, die von der Stadtplanung nicht gesehen wurden“.
+- [Gongguan](/de/geography/gongguan) — Der akademische Konsumraum 800 Meter nördlich; eine völlig andere räumliche Ökologie als die illegale Siedlung Baobaoan in der Nähe der Taiwan University.
 
 ## Bildquellen
 

@@ -13,7 +13,7 @@ tags:
     'Đài Đông',
     '1980s',
   ]
-subcategory: 'nhân vật văn hóa bản địa / văn học và các nhà thơ'
+subcategory: '原住民文化人 / 文學與詩人'
 author: 'Taiwan.md'
 featured: false
 canonical-order: 110

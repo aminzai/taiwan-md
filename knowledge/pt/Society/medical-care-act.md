@@ -360,8 +360,8 @@ As palavras escritas pela lei serão lidas pelos leitores. As palavras não escr
 **Leitura Adicional**:
 
 - [Medicina de Taiwan e Seguro de Saúde Universal](/pt/lifestyle/taiwan-healthcare-and-national-health-insurance) — A cobertura mundialmente famosa e a estrutura de pagamento do sistema de seguro de saúde são o parceiro da "face de pagamento" após a implementação da Lei de Assistência Médica
-- [Evolução das Duas Leis de Medicina Regenerativa de Taiwan e Confissões de Profissionais](/society/台灣再生醫療雙法沿革從業人員告白) — As duas leis de medicina regenerativa aprovadas em 2024 são leis especiais separadas da Lei de Assistência Médica, preenchendo a regulação de terapia celular
-- [Sistema de Medicina de Desastres de Taiwan](/technology/台灣災難醫療體系) — A operação real do Artigo 1º da Lei de Assistência Médica "distribuir razoavelmente os recursos de assistência médica" em cenários de grandes desastres
+- [Evolução das Duas Leis de Medicina Regenerativa de Taiwan e Confissões de Profissionais](/pt/society/taiwan-regenerative-medicine-laws) — As duas leis de medicina regenerativa aprovadas em 2024 são leis especiais separadas da Lei de Assistência Médica, preenchendo a regulação de terapia celular
+- [Sistema de Medicina de Desastres de Taiwan](/pt/technology/taiwan-disaster-medicine-system) — A operação real do Artigo 1º da Lei de Assistência Médica "distribuir razoavelmente os recursos de assistência médica" em cenários de grandes desastres
 
 ## Fontes de Imagem
 
@@ -482,9 +482,9 @@ Este artigo utiliza 7 imagens com licença CC / Domínio Público, cacheadas em 
 
 [^52]: [Focus Taiwan: Taiwan's emergency room overcrowding "unprecedented", says ER medical society](https://focustaiwan.tw/society/202503210008) — No início de 2025, a Sociedade de Medicina de Emergência de Taiwan descreveu o nível de congestionamento de emergências daquele ano como "sem precedentes".
 
-[^53]: [The Lancet (RETRACTED): Taiwan's national health care on the brink of systemic collapse](<https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25) — Correspondência publicada em 26 de abril de 2025 pela equipe médica do Hospital Affiliado da Universidade de Medicina da China, posteriormente retirada em 23 de maio de 2025.
+[^53]: [The Lancet (RETRACTED): Taiwan's national health care on the brink of systemic collapse](<https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)00489-1/fulltext>) — Correspondência publicada em 26 de abril de 2025 pela equipe médica do Hospital Affiliado da Universidade de Medicina da China, posteriormente retirada em 23 de maio de 2025.
 
-[^54]: [The Lancet — Retraction Notice for Taiwan health care correspondence](<https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25) — Explicação do motivo da retirada: erro de divulgação do número 58,2%, erro de densidade de enfermeiros, carregamento errado de arquivo suplementar.
+[^54]: [The Lancet — Retraction Notice for Taiwan health care correspondence](<https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01096-7/fulltext?rss=yes>) — Explicação do motivo da retirada: erro de divulgação do número 58,2%, erro de densidade de enfermeiros, carregamento errado de arquivo suplementar.
 
 [^55]: [Focus Taiwan: China Medical University Hospital apologizes over Lancet retraction](https://focustaiwan.tw/society/202504270006) — Hospital Affiliado da Universidade de Medicina da China pediu desculpas publicamente e solicitou ao The Lancet publicar uma correção.
 
@@ -494,7 +494,7 @@ Este artigo utiliza 7 imagens com licença CC / Domínio Público, cacheadas em 
 
 [^58]: [The Reporter: Desequilíbrio na Distribuição de Pessoal Médico de Taiwan — Vazio nas Cinco Grandes e Explosão no Mercado de Pagamento Próprio](https://www.twreporter.org/a/data-reporter-physician-shortages-by-specialty-and-subspecialty) — Em três anos, cerca de 300 novas clínicas de pagamento próprio foram adicionadas em todo o país, dificuldade em atrair residentes para as cinco grandes especialidades.
 
-[^55]: [Nan Hui Foundation: Distribuição de Recursos Médicos em Áreas Remotas](https://4141.org.tw/news/detail/40) — Média nacional de 508 pessoas por médico, algumas cidades e condados remotos superam 10.000; 3 cidades e condados sem médicos (Shitan, Dapu, Wuhu); Plano de Médicos Públicos recrutou 1.250 de 2016-2025.
+[^55]: [Nan Hui Foundation: Distribuição de Recursos Médicos em Áreas Remotas](https://focustaiwan.tw/society/202504270006) — Média nacional de 508 pessoas por médico, algumas cidades e condados remotos superam 10.000; 3 cidades e condados sem médicos (Shitan, Dapu, Wuhu); Plano de Médicos Públicos recrutou 1.250 de 2016-2025.
 
 [^60]: [The Reporter: As Três Grandes Áreas de Alta Mortalidade Infantil de Taiwan — O Custo da Insuficiência de Recursos Médicos](https://www.twreporter.org/a/child-health-care-remote-areas-inequality) — Investigação de 2018 sobre a correlação entre mortalidade de lactentes e crianças e recursos médicos em Taitung, Pingtung e sul de Hualian.
 

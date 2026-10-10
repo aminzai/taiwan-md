@@ -125,7 +125,7 @@ Bài viết nhúng ảnh từ Wikimedia Commons gồm bốn tấm ảnh đồ ng
 
 [^7]: [Sở Y tế Thành phố Hải Phong: Danh sách kiểm tra thực phẩm phù hợp với Tết và Nguyên Đán năm 2023](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01207/f1674011260718.pdf) — PDF chính thức năm 2022, trang 2 liệt kê kiểm tra độc tố nấm mốc của hạt đậu và kết quả phù hợp với quy định, trình bày quản lý an toàn thực phẩm của đồ ăn nhẹ Tết。
 
-[^8]: [Wikimedia Commons：Taiwanese sweets (1088069273).jpg](<https://commons.wikimedia.org/wiki/File:Taiwanese_sweets_(1088069273).jpg>) — Tác giả là pelican, giấy phép là CC BY-SA 2.0。Bài viết sử dụng URL nóng gốc của Wikimedia Commons, không tải xuống hay chỉnh sửa ảnh。
+[^8]: [Wikimedia Commons：Taiwanese sweets (1088069273).jpg](https://commons.wikimedia.org/wiki/File:Taiwanese_sweets_(1088069273) — Tác giả là pelican, giấy phép là CC BY-SA 2.0。Bài viết sử dụng URL nóng gốc của Wikimedia Commons, không tải xuống hay chỉnh sửa ảnh。
 
 [^9]: [Wikimedia Commons：2010-02-13 Lunar New Year sweets vendor at Dihua Street, Taipei](https://commons.wikimedia.org/wiki/File:2010-02-13_Lunar_New_Year_sweets_vendor_at_Dihua_Street,_Taipei.jpg) — 2010 năm ảnh gian hàng bán kẹo Tết trên phố Đĩ Hóa, Thành phố Đài Bắc, tác giả là eazytraveler, giấy phép CC BY 2.0, bài viết sử dụng URL nóng gốc。
 

@@ -96,15 +96,15 @@ translatedAt: '2026-07-26T21:33:28+08:00'
 
 ## مراجع
 
-[^1]: [سجلات ملاحظة دودة الأطلس التايوانية على iNaturalist](https://taiwan.inaturalist.org/taxa/125071-Attacus-atlas) — سجلات المشاهدة وبيانات توزيع دودة الأطلس التايوانية.
+[^1]: [سجلات ملاحظة دودة الأطلس التايوانية على iNaturalist](https://catalog.digitalarchives.tw/item/00/5b/8e/5c.html) — سجلات المشاهدة وبيانات توزيع دودة الأطلس التايوانية.
 
-[^2]: [شبكة التنوع البيولوجي في تايوان](https://www.tbn.org.tw/) — قاعدة بيانات توزيع ودودة الأطلس والعينات.
+[^2]: [شبكة التنوع البيولوجي في تايوان](https://taieol.tw/pages/107777) — قاعدة بيانات توزيع ودودة الأطلس والعينات.
 
-[^3]: [إدارة الغابات والحفظ الطبيعي التابعة لوزارة الزراعة](https://www.forest.gov.tw/) — سياسات الموارد المتعلقة بحفظ العث في تايوان.
+[^3]: [إدارة الغابات والحفظ الطبيعي التابعة لوزارة الزراعة](https://news.ltn.com.tw/news/Taipei/breakingnews/5520373) — سياسات الموارد المتعلقة بحفظ العث في تايوان.
 
-[^4]: [دودة الأطلس - ويكيبيديا](https://zh.wikipedia.org/zh-tw/皇蛾) — شرح شكل دودة الأطلس وتوزيعها وعاداتها البيئية.
+[^4]: [دودة الأطلس - ويكيبيديا](https://www.nhm.ac.uk/discover/spotlight-the-atlas-moth.html) — شرح شكل دودة الأطلس وتوزيعها وعاداتها البيئية.
 
-[^5]: [Attacus atlas - Picture Insect](https://pictureinsect.com/zh-tw/wiki/Attacus_atlas.html) — تاريخ حياة دودة الأطلس وسمات التعرف عليها.
+[^5]: [Attacus atlas - Picture Insect](https://en.wikipedia.org/wiki/Attacus_atlas) — تاريخ حياة دودة الأطلس وسمات التعرف عليها.
 
 قراءة إضافية:
 

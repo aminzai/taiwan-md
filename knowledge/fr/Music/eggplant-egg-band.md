@@ -12,14 +12,14 @@ tags:
     'culture taïwanaise',
     'rock',
   ]
-subcategory: 'Musique populaire'
+subcategory: '流行音樂'
 author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 10
 lastVerified: 2026-04-05
 lastHumanReview: false
 translatedFrom: 'Music/茄子蛋.md'
-sourceCommitSha: 'ce7f10f8'
+sourceCommitSha: 'f99a9959c'
 sourceContentHash: 'sha256:1be7230ba8a26470'
 sourceBodyHash: 'sha256:448d367a49551ee8'
 translatedAt: '2026-05-09T14:31:09Z'

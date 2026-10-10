@@ -3,7 +3,7 @@ title: '대만의 AI 일상 — 인공지능이 골목 구석구석으로 들어
 description: '대만 사람들은 매일 수십 번씩 AI와 상호작용하지만, 대부분은 자신이 AI와 대화하고 있다는 사실을 모른다'
 date: 2026-03-29
 tags: ['AI', '인공지능', 'LINE', '스마트 의료', '스마트 농업', '일상 기술']
-subcategory: '커뮤니티와 디지털 문화'
+subcategory: '社群與數位文化'
 category: 'Technology'
 author: 'p3nchan'
 readingTime: 8

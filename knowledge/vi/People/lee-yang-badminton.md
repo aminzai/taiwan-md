@@ -22,7 +22,7 @@ tags:
     'Kim Môn',
     'triết lý cố gắng',
   ]
-subcategory: 'Thể thao'
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-14

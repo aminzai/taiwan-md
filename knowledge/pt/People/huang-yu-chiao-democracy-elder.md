@@ -99,7 +99,7 @@ O seu epitáfio não devia ser «heroína do Incidente de Chungli», mas sim: **
 
 **Leitura complementar**:
 
-- [Incidente de Chungli](/history/台灣選舉與政黨政治) — A noite de 19 de novembro de 1977 que mudou a política de rua de Taiwan
+- [Incidente de Chungli](/pt/history/taiwan-elections-and-party-politics) — A noite de 19 de novembro de 1977 que mudou a política de rua de Taiwan
 - [Incidente de Formosa](/pt/history/kaohsiung-incident-formosa-incident) — Dois anos depois, outro grande revés do movimento Tangwai, o contexto de terror em que Huang Yu-chiao viveu
 - [Transição Democrática de Taiwan](/pt/history/taiwan-democratization) — Como esta geração de deputados provinciais do Tangwai abriu espaço democrático dentro do regime autoritário
 - [Lee Teng-hui](/pt/people/lee-teng-hui) — Governador provincial com quem ela debateu na Assembleia entre 1981 e 1984, depois primeiro presidente eleito democraticamente de Taiwan

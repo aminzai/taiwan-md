@@ -210,11 +210,11 @@ Dieser Artikel verwendet 3 CC-lizenzierte Bilder, alle im Cache im Verzeichnis `
 
 ## Weiterführende Literatur
 
-- [Qing Dynasty](/history/清治時期) — Die politischen Hintergründe, in denen Liu Mingchuan begann, Schienen zu legen
+- [Qing Dynasty](/de/history/qing-dynasty-rule) — Die politischen Hintergründe, in denen Liu Mingchuan begann, Schienen zu legen
 - [Japanese Colonial Era](/de/history/japanese-colonial-era/) — Der Kontext der kolonialen Regierung, in dem Hasegawa Kinsukei und Kawai Shitaro die Eisenbahn Taiwans bauten
-- [Sino-Japanese War](/history/清法戰爭) — Der Krieg, der Liu Mingchuan zum ersten Gouverneur Taiwans ernannt hat und unmittelbar den Bau der Eisenbahn von Keelung nach Hsinchu einleitete
-- [Taiwan Transport System](/lifestyle/台灣交通系統) — Die Rolle der Eisenbahn im mehrdimensionalen Verkehrsnetz aus Straße, Flughafen und U-Bahn
-- [Taiwan High Speed Rail](/lifestyle/台灣高鐵) — Das Hochgeschwindigkeitssystem, das 2007 in Betrieb genommen wurde, als Fortsetzung der Geschichte der taiwanesischen Eisenbahn
+- [Sino-Japanese War](/de/history/sino-french-war-in-taiwan) — Der Krieg, der Liu Mingchuan zum ersten Gouverneur Taiwans ernannt hat und unmittelbar den Bau der Eisenbahn von Keelung nach Hsinchu einleitete
+- [Taiwan Transport System](/de/lifestyle/transportation-system) — Die Rolle der Eisenbahn im mehrdimensionalen Verkehrsnetz aus Straße, Flughafen und U-Bahn
+- [Taiwan High Speed Rail](/de/lifestyle/taiwan-high-speed-rail) — Das Hochgeschwindigkeitssystem, das 2007 in Betrieb genommen wurde, als Fortsetzung der Geschichte der taiwanesischen Eisenbahn
 
 ## Referenzen
 

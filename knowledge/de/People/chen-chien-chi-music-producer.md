@@ -200,15 +200,15 @@ Das war Chen Chien-chiaos 25 Jahre als Produzent. Nicht auf dem Roten Teppich, s
 
 **Weiterführende Literatur**:
 
-- [Wei Ruoxuan](/people/魏如萱) — Chen Chien-chiao als Mentor in einer 25+-jährigen Produktionsbeziehung; von Natural Promise bis „Perlenstrafe“ auf einer einzigen Sound-Entwicklungslinie
-- [Xu Jiaxing](/people/徐佳瑩) — Chen Chien-chiaos erster Schritt in die Popmusikproduktion („Verlorener Sandbank“ 2008)
-- [Tian Fuxing](/people/田馥甄) — Chen Chien-chiaos 2021 Goldkugel-Preis für den besten Album-Produzenten mit „Niemand weiß es“
+- [Wei Ruoxuan](/de/people/waa-wei-singer) — Chen Chien-chiao als Mentor in einer 25+-jährigen Produktionsbeziehung; von Natural Promise bis „Perlenstrafe“ auf einer einzigen Sound-Entwicklungslinie
+- [Xu Jiaxing](/de/people/lala-hsu-singer) — Chen Chien-chiaos erster Schritt in die Popmusikproduktion („Verlorener Sandbank“ 2008)
+- [Tian Fuxing](/de/people/hebe-tien-singer) — Chen Chien-chiaos 2021 Goldkugel-Preis für den besten Album-Produzenten mit „Niemand weiß es“
 - [Yang Chenglin](/de/people/rainie-yang) — Vergleichende Identität einer chinesischen Popmusik-Sängerin (Yang Chenglin selbst produziert, Chen Chien-chiao produziert für andere)
-- [Goldkugel-Preis](/music/金曲獎) — Chen Chien-chiaos drei Goldkugel-Preise decken Arrangement / Singel / Album-Produktion ab
-- [Taiwan Popmusik](/music/台灣流行音樂) — Historischer Kontext der 25 Jahre, in denen Chen Chien-chiao eine rote Linie in der chinesischen Popmusik entfernte
-- [Taiwan unabhängige Musik](/music/台灣獨立音樂) — Position von Chen Chien-chiaos Labels „Viel Musik“ und „Was Lache Musik“ in der unabhängigen Musikökologie
-- [Ke Zhitang](/people/柯智棠) — Britischer Folk-Sänger, den Chen Chien-chiao in drei Alben vollständig produzierte; gemeinsamer Gewinner des 2025 Goldkugel-Preises für den besten dramatischen Original-Song mit „Gottes Antwort“
-- [Lin Yu-chia](/people/林宥嘉) — Chen Chien-chiaos 2012 mit „Die große Geschichte“, 2016 mit „Heute geöffnet“ zweimal in der Produktionsmannschaft; Lin Yu-chia wandelte sich von Sängerin zu Produzentin
+- [Goldkugel-Preis](/de/music/pop-music-and-golden-melody-awards) — Chen Chien-chiaos drei Goldkugel-Preise decken Arrangement / Singel / Album-Produktion ab
+- [Taiwan Popmusik](/de/music/golden-melodies-legacy-taiwan-pop-music) — Historischer Kontext der 25 Jahre, in denen Chen Chien-chiao eine rote Linie in der chinesischen Popmusik entfernte
+- [Taiwan unabhängige Musik](/de/music/indie-music-scene) — Position von Chen Chien-chiaos Labels „Viel Musik“ und „Was Lache Musik“ in der unabhängigen Musikökologie
+- [Ke Zhitang](/de/people/ke-zhi-tang-musician) — Britischer Folk-Sänger, den Chen Chien-chiao in drei Alben vollständig produzierte; gemeinsamer Gewinner des 2025 Goldkugel-Preises für den besten dramatischen Original-Song mit „Gottes Antwort“
+- [Lin Yu-chia](/de/people/yoga-lin) — Chen Chien-chiaos 2012 mit „Die große Geschichte“, 2016 mit „Heute geöffnet“ zweimal in der Produktionsmannschaft; Lin Yu-chia wandelte sich von Sängerin zu Produzentin
 - [Huang Shao-yong](/de/people/huang-shao-yong-musician) — Mitproduzent bei **„Perlenstrafe“**; Chen Chien-chiao entfernte die rote Linie für chinesische Stimmen, Huang Shao-yong entfernte dieselbe Linie für nicht-chinesische Sprachen (Paiwanisch / Amis / Taiwanesisch)
 
 ## Referenzen

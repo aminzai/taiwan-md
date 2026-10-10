@@ -10,6 +10,15 @@ readingTime:
 lastVerified: 2026-06-15
 lastHumanReview: false
 featured: false
+sporeLinks:
+  - id: 142
+    platform: 'threads'
+    date: '2026-06-16'
+    url: 'https://www.threads.com/@taiwandotmd/post/DZnPRd1k-F4'
+  - id: 143
+    platform: 'x'
+    date: '2026-06-16'
+    url: 'https://x.com/taiwandotmd/status/2066559522156748815'
 translatedFrom: 'Technology/迷音Miin.md'
 sourceCommitSha: 'ce36d542'
 sourceContentHash: 'sha256:e317c3018b82f2b6'

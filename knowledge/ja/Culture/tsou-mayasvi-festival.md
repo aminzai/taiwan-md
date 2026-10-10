@@ -119,7 +119,7 @@ Taiwan.md にとってもこれは執筆上の境界線です。祭儀手順と�
 - [原住民族伝統知恵創作保護情報網：ツオ族タプア社男子会所](https://www.titic.cip.gov.tw/app/caseDetail?num=1080611000005)
 - [Taiwan News：When February brings a different New Year: Inside Taiwan's Indigenous worlds and the Tsou Mayasvi](https://www.tcn.tw/news/6784674)
 
-## 參考資料
+## 参考資料
 
 [^1]: [原住民族委員会：ツオ族族群紹介](https://www.cip.gov.tw/zh-tw/tribe/grid-list/AE6EE12F5F284D59D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — 公式族群資料でツオ族分布、歳時祭儀、クバ建築、親族組織、部落公共機能を説明。
 

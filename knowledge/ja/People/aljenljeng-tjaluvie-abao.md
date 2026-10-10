@@ -4,7 +4,7 @@ description: '2020年、金曲賞31の年度アルバム賞は、全編パイワ
 date: 2026-04-18
 author: 'Taiwan.md'
 category: 'People'
-subcategory: '音楽とパフォーマンス'
+subcategory: '音樂與表演'
 tags:
   [
     '人物',

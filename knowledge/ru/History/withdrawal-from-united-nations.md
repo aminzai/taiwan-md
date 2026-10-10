@@ -4,7 +4,7 @@ description: '25 октября 1971 года, в тот момент, когд�
 date: 2026-05-02
 author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: 'демократия и управление'
+subcategory: '民主與治理'
 tags:
   [
     'дипломатия',

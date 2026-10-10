@@ -191,7 +191,7 @@ Tiene planeado una segunda jubilación a los 85 años[^70], para entregar el car
 
 Aquel niño que creció en Lukang viendo a su madre vender huevos de pato, al final, sigue siendo aquel jardinero que desea cultivar un jardín entero.
 
-**Lecturas adicionales**: [Acer](/es/economy/acer-pc-industry-pioneer) (la marca fundada por Shi Zhen-rong y llevada al escenario mundial; aquí encontrarás su historia completa), [Morris Chang](/es/people/tsmc-morris-chang) (la persona que invitó a Shi Zhen-rong a ser director de TSMC durante 21 años, y que siguió una ruta tecnológica taiwanesa distinta), [TSMC](/es/economy/tsmc) (la empresa que, centrándose en la «fabricación intermedia», se convirtió en el «defensor de la nación» y es donde Shi Zhen-rong posee la mayor participación accionaria), [Transformación y actualización de la industria de Taiwán](/es/economy/industrial-transformation-from-manufacturing-to-innovation) (detrás de la curva de la sonrisa y el Camino del Rey, el camino que Taiwán ha recorrido durante cuarenta años entre la fabricación y la marca), [Huang Chung-jen](/people/黃崇仁) (Dequi Semiconductor, la empresa conjunta entre Acer y Texas Instruments en 1989, fue la primera fábrica de DRAM en Taiwán, cinco años antes que la suya, Nanya).
+**Lecturas adicionales**: [Acer](/es/economy/acer-pc-industry-pioneer) (la marca fundada por Shi Zhen-rong y llevada al escenario mundial; aquí encontrarás su historia completa), [Morris Chang](/es/people/tsmc-morris-chang) (la persona que invitó a Shi Zhen-rong a ser director de TSMC durante 21 años, y que siguió una ruta tecnológica taiwanesa distinta), [TSMC](/es/economy/tsmc) (la empresa que, centrándose en la «fabricación intermedia», se convirtió en el «defensor de la nación» y es donde Shi Zhen-rong posee la mayor participación accionaria), [Transformación y actualización de la industria de Taiwán](/es/economy/industrial-transformation-from-manufacturing-to-innovation) (detrás de la curva de la sonrisa y el Camino del Rey, el camino que Taiwán ha recorrido durante cuarenta años entre la fabricación y la marca), [Huang Chung-jen](/es/people/frank-huang-psmc) (Dequi Semiconductor, la empresa conjunta entre Acer y Texas Instruments en 1989, fue la primera fábrica de DRAM en Taiwán, cinco años antes que la suya, Nanya).
 
 ## Fuentes de las imágenes
 
@@ -254,7 +254,7 @@ Aquel niño que creció en Lukang viendo a su madre vender huevos de pato, al fi
 
 [^26]: [智榮基金會：核心理念（王道）](https://stansfoundation.org/about_pages/adde94) — Página oficial de la Fundación Stan que detalla los tres pilares del Wangdao: crear valor, equilibrio de intereses y gestión sostenible; el concepto de "valor explícito" vs. "valor implícito".
 
-[^22]: [智榮基金會：核心理念（王道）](https://stansfoundation.org/about_pages/adde94) — Igual que el anterior, donde define valor explícito como tangible y directo (ganar dinero), e implícito como intangible y futuro (marca, talento).
+[^22]: [智榮基金會：核心理念（王道）](https://stansfoundation.org/articles/0828c8) — Igual que el anterior, donde define valor explícito como tangible y directo (ganar dinero), e implícito como intangible y futuro (marca, talento).
 
 [^28]: [商業周刊：為什麼創辦人施振榮說「我是最大輸家」](https://www.businessweekly.com.tw/management/blog/3009647) — Columna de Guo Yiling en Business Weekly, donde cita a Shi Zhen-rong: «Toda la sociedad de Taiwán se preocupa demasiado por el valor explícito (ganar dinero)».
 

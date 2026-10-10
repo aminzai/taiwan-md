@@ -29,6 +29,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Chen_Chih-chung.jpg'
 translatedFrom: 'People/陳致中.md'
 sourceCommitSha: 'fa7059f7a'
 sourceContentHash: 'sha256:4de98c280e186c57'
+sourceBodyHash: 'sha256:560772bbc10e04f9'
 translatedAt: '2026-09-23T14:13:00.483542+00:00'
 ---
 

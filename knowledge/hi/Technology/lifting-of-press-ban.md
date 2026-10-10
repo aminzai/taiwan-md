@@ -11,7 +11,7 @@ tags:
     'अखबार उद्योग इतिहास',
     'लोकतंत्रीकरण',
   ]
-subcategory: 'डिजिटल और इंटरनेट'
+subcategory: '數位與網路'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16
@@ -26,6 +26,7 @@ curation: 'incubating'
 translatedFrom: 'Technology/報禁解除.md'
 sourceCommitSha: '7f5972b70'
 sourceContentHash: 'sha256:d7854491fc4c5785'
+sourceBodyHash: 'sha256:09e6bc194dc58574'
 translatedAt: '2026-09-12T04:05:56.759031+00:00'
 ---
 

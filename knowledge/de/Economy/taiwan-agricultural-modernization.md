@@ -358,7 +358,7 @@ Der Antrieb für Taiwans landwirtschaftliche Modernisierung lag stets in externe
 
 **Weiterführende Literatur**:
 
-- [Taiwans Klimakrise und Netto-Null-Transformation](/nature/台灣氣候危機與淨零轉型) — Auswirkungen des Klimawandels auf Land- und Fischereiwirtschaft sowie Landnutzungskonflikte durch Agri-Photovoltaik-Politik
+- [Taiwans Klimakrise und Netto-Null-Transformation](/de/nature/taiwan-climate-change-net-zero-transition) — Auswirkungen des Klimawandels auf Land- und Fischereiwirtschaft sowie Landnutzungskonflikte durch Agri-Photovoltaik-Politik
 
 ## Referenzen
 

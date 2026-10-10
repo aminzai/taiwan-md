@@ -26,6 +26,15 @@ readingTime: 18
 lastVerified: 2026-06-22
 lastHumanReview: true
 featured: false
+sporeLinks:
+  - id: 33
+    platform: 'threads'
+    date: '2026-04-18'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXQ_in_Ew0*'
+  - id: 34
+    platform: 'x'
+    date: '2026-04-18'
+    url: 'https://x.com/taiwandotmd/status/2045412116665172331'
 translatedFrom: 'People/草東沒有派對.md'
 sourceCommitSha: 'ac1d187a'
 sourceContentHash: 'sha256:62a474db99f7907b'

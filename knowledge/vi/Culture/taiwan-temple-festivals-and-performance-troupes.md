@@ -12,7 +12,7 @@ tags:
     'tám gia tướng',
     'ngoạn hành Ma Tổ',
   ]
-subcategory: 'tôn giáo và dân tục'
+subcategory: '宗教與民俗'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-21

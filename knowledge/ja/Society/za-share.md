@@ -13,14 +13,14 @@ tags:
     'Huashan 1914',
     '318 Student Movement',
   ]
-subcategory: 'Education'
+subcategory: '教育'
 author: 'Taiwan.md'
 category: 'Society'
 readingTime: 12
 lastVerified: 2026-05-05
 lastHumanReview: false
 translatedFrom: 'Society/雜學校.md'
-sourceCommitSha: '1844f59c5'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:b414878c293e15ed'
 sourceBodyHash: 'sha256:63cdc7eebcc0988a'
 translatedAt: '2026-06-09T02:28:23+08:00'

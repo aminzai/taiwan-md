@@ -105,7 +105,7 @@ Mayday akan terus menyanyi. Tapi pasca empat kata 2024, saat orang Taiwan menden
 
 ## Bacaan Lanjutan
 
-- [Musik Populer Taiwan](/music/台灣流行音樂/)
+- [Musik Populer Taiwan](/id/music/golden-melodies-legacy-taiwan-pop-music/)
 - [Fire EX. (Grup)](/id/music/fire-ex/)
 - [Musik Indie Taiwan](/id/music/indie-music-scene/)
 

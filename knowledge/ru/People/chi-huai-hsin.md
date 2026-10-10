@@ -15,7 +15,7 @@ tags:
     'Когнитивная психология',
     'Даньшуй',
   ]
-subcategory: 'Технологии и бизнес'
+subcategory: '科技與企業'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-27
@@ -31,6 +31,7 @@ relatedDiary: ['2026-06-27-180207-manual']
 translatedFrom: 'People/紀懷新.md'
 sourceCommitSha: '95f42de83'
 sourceContentHash: 'sha256:5a619f0cc796c527'
+sourceBodyHash: 'sha256:826517ecee263b74'
 translatedAt: '2026-08-05T04:28:22.650560+00:00'
 ---
 
@@ -232,7 +233,7 @@ _Официальное видение Google Project Astra, это направ
 - [Хуан Жэньсюнь](/ru/people/jensen-huang) — Тайвань, ускоряющая ИИ: аппаратная сторона
 - [Чжан Чунмао](/ru/people/tsmc-morris-chang) — Основоположник тайваньской полупроводниковой индустрии, та «гора, чья позиция трудно erschüttern», по словам Цзи Хуайсиня
 - [Промышленность искусственного интеллекта](/ru/technology/artificial-intelligence-industry) — Место Тайваня в глобальной цепочке поставок ИИ
-- [Развитие искусственного интеллекта в Тайване и будущая стратегия](/technology/台灣人工智慧發展與未來策略) — Общая картина ИИ в Тайване
+- [Развитие искусственного интеллекта в Тайване и будущая стратегия](/ru/technology/artificial-intelligence-development-strategy) — Общая картина ИИ в Тайване
 - [ИИ в повседневной жизни Тайваня](/ru/technology/taiwan-ai-in-daily-life) — Как ИИ уже вошёл в жизнь тайваньцев
 
 ## Ссылки

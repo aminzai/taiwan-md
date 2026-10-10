@@ -153,7 +153,7 @@ A IA em Taiwan já não é assunto de notícia de tecnologia. Ela faz parte da l
 
 ## Leitura complementar
 
-- [Desenvolvimento e estratégia futura da inteligência artificial em Taiwan: dos dois Nobel de 2024 ao mercado noturno de Ningxia](/technology/台灣人工智慧發展與未來策略) — Traz a observação em nível de cenário do cotidiano da IA de volta ao tabuleiro geral: hardware 90%, mas na camada de software nenhum nome de Taiwan entra no Nobel de 2024 — a tensão estrutural.
+- [Desenvolvimento e estratégia futura da inteligência artificial em Taiwan: dos dois Nobel de 2024 ao mercado noturno de Ningxia](/pt/technology/artificial-intelligence-development-strategy) — Traz a observação em nível de cenário do cotidiano da IA de volta ao tabuleiro geral: hardware 90%, mas na camada de software nenhum nome de Taiwan entra no Nobel de 2024 — a tensão estrutural.
 - [Indústria de IA inteligência artificial](/pt/technology/artificial-intelligence-industry)
 - [Desenvolvimento de IA](/pt/technology/ai-development-in-taiwan)
 - [Escola de Inteligência Artificial de Taiwan](/pt/technology/taiwan-ai-academy) — Como mais de oito mil engenheiros entraram no cotidiano da IA: da fundação em 2018 aos mais de dez mil alumni em 2024, a história de formação.

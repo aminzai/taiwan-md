@@ -200,7 +200,7 @@ _Chaîne officielle de TEDxTaipei, 2012 : Shih Chih-jung « Parler de la voie ro
 - [Shih Chih-jung](/fr/people/stan-shih) — Fondateur d'Acer qui a tracé la courbe du sourire et sauvé l'entreprise à deux reprises, passé de parrain technologique à acteur social.
 - [Entreprise taïwanaise : Wistron Information](/fr/economy/wistron-global-manufacturing-transformation-pioneer) — Le petit frère de production peu estimé lors de la scission, ayant atteint le sommet de la courbe du sourire dans l'ère de l'IA.
 - [Entreprise taïwanaise : ASUS](/fr/economy/asus-computer) — Groupe ayant opéré une scission en 2008 pour suivre une voie différente, dépassant désormais Acer en capitalisation.
-- [Computex : Les trois grandes foires internationales en ont pris deux, la troisième est installée à Taipei](/fr/technology/computex-taipei) — La même scène où fluctue le destin d'Acer depuis trente ans, et le terrain principal de l'industrie manufacturière taïwanaise chaque année.
+- [Computex : Les trois grandes foires internationales en ont pris deux, la troisième est installée à Taipei](/fr/technology/computex) — La même scène où fluctue le destin d'Acer depuis trente ans, et le terrain principal de l'industrie manufacturière taïwanaise chaque année.
 - [Transformation et mise à niveau des industries de Taïwan](/fr/economy/industrial-transformation-from-manufacturing-to-innovation) — Progresser vers les deux extrémités au lieu du milieu est-il la seule voie ? Le grand débat après la courbe du sourire.
 
 ## Sources des images

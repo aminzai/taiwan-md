@@ -12,14 +12,23 @@ tags:
     'Media Literacy',
     'Local Fanpages',
   ]
-subcategory: 'Information Environment'
+subcategory: '資訊環境'
 author: 'Taiwan.md'
 category: 'Society'
 readingTime: 12
 lastVerified: 2026-06-05
 lastHumanReview: false
+sporeLinks:
+  - id: 124
+    platform: 'threads'
+    date: '2026-06-05'
+    url: 'https://www.threads.com/@taiwandotmd/post/DZM0aZ2kzIN'
+  - id: 125
+    platform: 'x'
+    date: '2026-06-05'
+    url: 'https://x.com/taiwandotmd/status/2062839725648703638'
 translatedFrom: 'Society/我是OO人.md'
-sourceCommitSha: '21298a7a'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:7528460cb857fc3b'
 translatedAt: '2026-06-14T16:37:40Z'
 sourceBodyHash: 'sha256:0b63d09474dfeccb'
@@ -163,7 +172,7 @@ That forgotten instruction was caught this time. Next time, it will not forget t
 ## Further Reading
 
 - [Cognitive Warfare](/ja/society/cognitive-warfare-against-taiwan) — The framework, boundaries, and "complexity over accuracy" reading principles of cognitive warfare
-- [Poisonous Potato Cognitive Warfare](/society/毒馬鈴薯認知作戰) — How a narrative war "steps on the foundation of truth," and this piece belongs to the paradigm of rejecting binaries
+- [Poisonous Potato Cognitive Warfare](/ja/society/poisoned-potato-cognitive-warfare-taiwan) — How a narrative war "steps on the foundation of truth," and this piece belongs to the paradigm of rejecting binaries
 - [Taiwan Artificial Intelligence Laboratory](/ja/technology/taiwan-ai-labs) — Local technology using AI to detect coordinated cognitive operations
 - [Taiwan Media and Press Freedom](/ja/society/media-and-press-freedom-in-taiwan) — The larger context of Wang Zhong controversies and media group structures
 

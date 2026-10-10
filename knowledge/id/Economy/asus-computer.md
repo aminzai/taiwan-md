@@ -178,8 +178,8 @@ Kisah ASUS memberitahu kita: di era globalisasi, Taiwan yang kecil namun presisi
 
 **Bacaan Lebih Lanjut**:
 
-- [Perusahaan Taiwan: Acer](/economy/台灣企業：宏碁) — Kelompok kontrol dengan rute pisah yang berbeda. Acer melepaskan manufaktur kontrak pada 2000 (Wistron), ASUS melepaskan pada 2008 (Pegatron), hasil dari dua jalan menjadi debat klasik dalam industri elektronik Taiwan.
-- [Perusahaan Taiwan: Wistron Corporation](/economy/台灣企業：緯創資通) — Anak angkat manufaktur kontrak yang dilepaskan dari Acer, seperti Pegatron yang dilepaskan dari ASUS, keduanya membuktikan bahwa "segmen tengah yang dibuang" kemudian tumbuh lebih tinggi.
+- [Perusahaan Taiwan: Acer](/id/economy/acer-pc-industry-pioneer) — Kelompok kontrol dengan rute pisah yang berbeda. Acer melepaskan manufaktur kontrak pada 2000 (Wistron), ASUS melepaskan pada 2008 (Pegatron), hasil dari dua jalan menjadi debat klasik dalam industri elektronik Taiwan.
+- [Perusahaan Taiwan: Wistron Corporation](/id/economy/wistron-global-manufacturing-transformation-pioneer) — Anak angkat manufaktur kontrak yang dilepaskan dari Acer, seperti Pegatron yang dilepaskan dari ASUS, keduanya membuktikan bahwa "segmen tengah yang dibuang" kemudian tumbuh lebih tinggi.
 
 ## Referensi
 

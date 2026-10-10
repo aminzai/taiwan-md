@@ -9,7 +9,7 @@ readingTime: 12
 lastVerified: 2026-04-26
 lastHumanReview: false
 translatedFrom: Food/肉圓.md
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:6de8df7e037bf580'
 sourceBodyHash: 'sha256:4ab47a31d7ad3c5f'
 translatedAt: '2026-05-16T22:35:46Z'
@@ -80,7 +80,7 @@ featured: false
 
 [^4]: [삼립뉴스【여독타이완】](https://www.youtube.com/watch?v=uTLGJKqZ7pk) — 장화 베이두 완자의 내력 공개! '무술대수해'로 전답이 모두 잠기자 완자가 해결한 기근.
 
-[^5]: [위키백과](<https://zh.wikipedia.org/zh-tw/%E8%82%89%E5%9C%93_(%E5%8F%B0%E7%81%A3)>) — 완자(타이완)의 역사와 분류.
+[^5]: [위키백과](https://zh.wikipedia.org/zh-tw/%E8%82%89%E5%9C%93_(%E5%8F%B0%E7%81%A3) — 완자(타이완)의 역사와 분류.
 
 [^6]: [FoodNext 식력](https://www.foodnext.net/life/culture/paper/5098655128) — 바삭파? 촉촉파? 베이두에서 시작된 완자가 삼각형이 된 이유.
 

@@ -29,6 +29,7 @@ readingTime: 15
 translatedFrom: 'Geography/林口新市鎮.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:1f56fd44853214d5'
+sourceBodyHash: 'sha256:57cdd81fe5d56c02'
 translatedAt: '2026-09-26T05:36:43.628232+00:00'
 ---
 

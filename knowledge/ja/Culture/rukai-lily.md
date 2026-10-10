@@ -113,7 +113,7 @@ translatedAt: '2026-09-19T11:59:02+08:00'
 
 [国立自然科学博物館：「リグ」百合－ルカイ族霧台部落植物頭飾特別展](https://www.nmns.edu.tw/ch/exhibitions/special-exhibitions/Exhibition-000218/)
 
-## 參考資料
+## 参考資料
 
 [^1]: [原住民族委員会：ルカイ族](https://www.cip.gov.tw/zh-tw/tribe/grid-list/409F703B4E592A82D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — 政府公式の民族紹介。ルカイ族三群の分布・社会階級・キビと狩猟の生活、百合花飾権の文化的意義を説明。
 

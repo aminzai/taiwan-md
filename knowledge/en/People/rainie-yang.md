@@ -20,7 +20,7 @@ tags:
     'Rainie in Love',
   ]
 category: People
-subcategory: 'Music and Performance'
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 readingTime: 22

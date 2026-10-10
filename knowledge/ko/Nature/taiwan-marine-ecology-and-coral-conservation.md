@@ -9,7 +9,7 @@ tags:
   - '해양 국가공원'
   - '해양보호구역'
   - '생물다양성'
-subcategory: '국가공원과 탐방로'
+subcategory: '國家公園與步道'
 category: 'Nature'
 author: 'Taiwan.md Contributors'
 readingTime: 13

@@ -14,7 +14,7 @@ tags:
     '3 chương 1 Q',
     'cung cấp cơm cho vùng sâu',
   ]
-subcategory: 'Cảnh tượng ẩm thực'
+subcategory: '飲食場景'
 author: 'idlccp'
 featured: false
 lastVerified: 2026-05-04

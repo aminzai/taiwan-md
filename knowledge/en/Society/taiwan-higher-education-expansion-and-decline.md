@@ -233,7 +233,7 @@ Opening the door took Taiwan ten years. Learning how to close it took thirty —
 - [Taiwan's Low Birth Rate Crisis](/en/society/taiwan-low-birth-rate-crisis) — How the population wall that toppled universities formed, and where it's going
 - [Education System and Admissions Culture](/en/society/education-system-and-admissions-culture) — The Joint Exam's narrow gate and credentialism, which university expansion tried to loosen
 - [Learning Poverty](/en/society/learning-poverty-in-taiwan) — After credential universalization, where the real learning gap hides
-- [Academia Sinica](/society/中央研究院) — The institution that doesn't need to recruit or teach, with its legal basis written directly into the Presidential Office Organization Act, and the relative deprivation felt by universities: "why does it get to wait?"
+- [Academia Sinica](/en/society/academia-sinica) — The institution that doesn't need to recruit or teach, with its legal basis written directly into the Presidential Office Organization Act, and the relative deprivation felt by universities: "why does it get to wait?"
 
 ## Image Sources
 

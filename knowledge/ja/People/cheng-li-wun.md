@@ -10,14 +10,19 @@ tags:
     'student_movement_generation',
     '2026',
   ]
-subcategory: 'Political Figures'
+subcategory: '政治人物'
 author: 'Taiwan.md'
 category: 'People'
 readingTime: 12
 lastVerified: 2026-04-11
 lastHumanReview: false
+sporeLinks:
+  - id: 22
+    platform: 'threads'
+    date: '2026-04-11'
+    url: 'https://www.threads.com/@taiwandotmd/post/DW_l-6Yk_kg'
 translatedFrom: 'People/鄭麗文.md'
-sourceCommitSha: 'dd39065b'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:d7d8adfe5a1c7158'
 translatedAt: '2026-06-10T16:41:16Z'
 sourceBodyHash: 'sha256:119c3d104b24e9dd'
@@ -135,17 +140,17 @@ So the real question is not "Has Cheng Li-wen changed?" but: **Has Taiwan change
 
 **Further Reading**:
 
-- [2026 Cheng-Xi Meeting: The Ten Minutes of the KMT-CCP Leaders' Reunion After Ten Years](/society/2026ChengXiMeeting) — The current endpoint of Cheng Li-wen's personal trajectory, the full scene and aftermath of that meeting
-- [Tai Strait Crisis and the Development of Cross-Strait Relations](/history/TaiStraitCrisis) — The historical structure Cheng Li-wen was in ten years before and ten years after, the invisible forces that led this figure to Beijing
-- [Taiwan Political Environment and Electoral System](/society/TaiwanPoliticalEnvironment) — Why could "I am Chinese" become the KMT Chairperson's election slogan? The party member structure in the electoral system provides the answer
-- [Taiwan Democratic Transition](/history/TaiwanDemocraticTransition) — The year Cheng Li-wen hunger-stripped was the first year after lifting martial law; understanding her starting point requires first understanding the youth culture of those five years of democratization
-- [Ko Wen-je](/people/KoWenJie) — Another cross-boundary political figure moving from green to blue (or white to blue); their paths are similar yet different
-- [Hsieh Tsai-yun](/people/HsiehTsaiYun) — Another prototype of female political figures on the same 2026 stage, with a completely different path and corresponding view of Taiwan
-- [Han Kuo-yu](/people/HanKuoYu) — The "Party Chairperson + Legislative Yuan President" dual structure of the KMT in 2025-2026; Cheng Li-wen in the Party, Han Kuo-yu in the Legislature
-- [Chao Jung-tsai](/people/ChaoJungTsai) — The main proponent of the 1.25 trillion military procurement in the Executive Yuan; Cheng Li-wen's opposing position of "Party Version 380 Billion + N"
-- [Lu Hsiu-yan](/people/LuHsiuYan) — Cheng Li-wen's opponent in the 2025 KMT Chairperson election, whose decision "not to run" opened Cheng Li-wen's entry channel
-- [Hsu Chiao-hsin](/people/HsuChiaoHsin) — The proponent of the "800 Billion" version colliding with Cheng Li-wen's "Party Version 380 Billion + N" in the 2026 military procurement controversy
-- [Chi Lin-lian](/people/ChiLinLian) — The vice chairperson appointed by Cheng Li-wen in 2026; the person involved in the event where the KMT Central Committee pointed out Han Kuo-yu on 4/29, igniting the split in the blue camp
+- [2026 Cheng-Xi Meeting: The Ten Minutes of the KMT-CCP Leaders' Reunion After Ten Years](/ja/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — The current endpoint of Cheng Li-wen's personal trajectory, the full scene and aftermath of that meeting
+- [Tai Strait Crisis and the Development of Cross-Strait Relations](/ja/history/taiwan-strait-crises-and-cross-strait-relations) — The historical structure Cheng Li-wen was in ten years before and ten years after, the invisible forces that led this figure to Beijing
+- [Taiwan Political Environment and Electoral System](/ja/society/taiwan-political-landscape-and-electoral-system) — Why could "I am Chinese" become the KMT Chairperson's election slogan? The party member structure in the electoral system provides the answer
+- [Taiwan Democratic Transition](/ja/history/taiwan-democratization) — The year Cheng Li-wen hunger-stripped was the first year after lifting martial law; understanding her starting point requires first understanding the youth culture of those five years of democratization
+- [Ko Wen-je](/ja/people/ko-wen-je) — Another cross-boundary political figure moving from green to blue (or white to blue); their paths are similar yet different
+- [Hsieh Tsai-yun](/ja/people/hsiao-bi-khim) — Another prototype of female political figures on the same 2026 stage, with a completely different path and corresponding view of Taiwan
+- [Han Kuo-yu](/ja/people/han-kuo-yu) — The "Party Chairperson + Legislative Yuan President" dual structure of the KMT in 2025-2026; Cheng Li-wen in the Party, Han Kuo-yu in the Legislature
+- [Chao Jung-tsai](/ja/people/cho-jung-tai) — The main proponent of the 1.25 trillion military procurement in the Executive Yuan; Cheng Li-wen's opposing position of "Party Version 380 Billion + N"
+- [Lu Hsiu-yan](/ja/people/lu-hsiu-yan) — Cheng Li-wen's opponent in the 2025 KMT Chairperson election, whose decision "not to run" opened Cheng Li-wen's entry channel
+- [Hsu Chiao-hsin](/ja/people/hsu-chiao-hsin) — The proponent of the "800 Billion" version colliding with Cheng Li-wen's "Party Version 380 Billion + N" in the 2026 military procurement controversy
+- [Chi Lin-lian](/ja/people/ji-lin-lian) — The vice chairperson appointed by Cheng Li-wen in 2026; the person involved in the event where the KMT Central Committee pointed out Han Kuo-yu on 4/29, igniting the split in the blue camp
 
 ## References
 

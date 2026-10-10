@@ -4,7 +4,7 @@ description: 'एक 26 वर्षीय साहित्यिक युव
 date: 2026-03-22
 author: 'Taiwan.md'
 category: 'Art'
-subcategory: 'साहित्य'
+subcategory: '文學'
 tags:
   [
     'रंगमंच',

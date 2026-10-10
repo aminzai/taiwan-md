@@ -4,12 +4,12 @@ description: '糖化学の世界的権威、2014年ウォルフ化学賞受賞�
 date: 2026-03-31
 tags:
   ['学者', '化学', '中央研究院', '糖化学', '浩鼎事件', 'ノーベル', 'ウォルフ賞']
-subcategory: '科学と学術'
+subcategory: '科學與學術'
 featured: false
 lastVerified: 2026-03-31
 lastHumanReview: false
 translatedFrom: People/翁啟惠.md
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: 'f99a9959c'
 sourceContentHash: 'sha256:984fef279b1af05b'
 sourceBodyHash: 'sha256:8e4d8fb8704570d2'
 translatedAt: '2026-05-16T22:19:52+00:00'

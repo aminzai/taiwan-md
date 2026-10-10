@@ -3,7 +3,16 @@ title: 'Byun Ha-yul'
 description: 'Von der koreanischen Repräsentantin der CTBC Brothers bis zum Verbleib über mehrere Spielzeiten: Abseits großer Beliebtheit räumte sie in öffentlichen Interviews offen ein, dass Gesundheitsthemen in der Familie ihre Stimmung beeinflussen – ein Blick auf die reale Druckseite der Cheer-Arbeit.'
 date: 2026-05-13
 category: 'People'
-tags: ['Popkultur-Persönlichkeit', 'Byun Ha-yul', 'Korea', 'Cheerleading', 'CTBC Brothers', 'Passion Sisters', 'CPBL']
+tags:
+  [
+    'Popkultur-Persönlichkeit',
+    'Byun Ha-yul',
+    'Korea',
+    'Cheerleading',
+    'CTBC Brothers',
+    'Passion Sisters',
+    'CPBL',
+  ]
 subcategory: '流行人物'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -14,6 +23,7 @@ curation: incubating
 translatedFrom: 'People/邊荷律.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:9fd36812ed9ccca0'
+sourceBodyHash: 'sha256:34601056f655cc89'
 translatedAt: '2026-08-13T02:45:00+08:00'
 ---
 

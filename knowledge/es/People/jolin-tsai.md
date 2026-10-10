@@ -3,14 +3,22 @@ title: 'Jolin Tsai'
 description: 'La reina del pop que no era genio: la profesora de baile que dijo que "no servía para bailar" y que veinticinco años después se convirtió en la artista de canto y baile con más premios en la historia de los Premios Golden Melody'
 date: 2026-03-24
 category: 'People'
-tags: ['Personaje', 'Cantante', 'Mundo del espectáculo', 'Derechos LGBTQ+', 'Música pop', 'Premios Golden Melody']
-subcategory: 'Música'
+tags:
+  [
+    'Personaje',
+    'Cantante',
+    'Mundo del espectáculo',
+    'Derechos LGBTQ+',
+    'Música pop',
+    'Premios Golden Melody',
+  ]
+subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
 translatedFrom: 'People/蔡依林.md'
-sourceCommitSha: 'ce7f10f8'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:1eed0b39727d52a4'
 sourceBodyHash: 'sha256:ecfb49e20d9c0f4b'
 translatedAt: '2026-05-09T14:31:06Z'

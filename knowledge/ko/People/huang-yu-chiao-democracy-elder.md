@@ -3,7 +3,7 @@ title: '황위자오: 17년을 기다린 여성 정치인'
 description: '1977년 중리사건의 현장에서 군중을 말린 58세의 약사 출신 성의원. 네 번 연임하며 북부 대만의 수원을 지켜낸 민진당 창당 원로'
 date: 2026-04-05
 tags: ['중리사건', '당외운동', '성의회', '민주화', '여성정치', '민진당']
-subcategory: '정치와 민주주의'
+subcategory: '政治與民主'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 15

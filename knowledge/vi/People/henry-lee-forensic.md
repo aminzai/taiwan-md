@@ -5,7 +5,7 @@ date: 2026-03-29
 category: 'People'
 tags:
   ['nhân vật', 'pháp y khoa học', 'người Đài Loan gốc Mỹ', 'điều tra hình sự']
-subcategory: 'Khoa học và Học thuật'
+subcategory: '科學與學術'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-29

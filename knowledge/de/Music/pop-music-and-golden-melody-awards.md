@@ -260,12 +260,12 @@ Sie erinnern sich an die Dominanz von Zhou Jieluns _Fantasy_, an Jay Chous Hartn
 
 ## Weiterführende Lektüre
 
-- [Popmusik aus Taiwan](/music/台灣流行音樂) — Die gesamte Geschichte des Aufstiegs und Falls der Musikindustrie vom Plattenmarkt bis zum Streaming-Zeitalter; die Goldenen Melodien sind ein offizieller Maßstab auf dieser Linie.
-- [Entwicklung der Hokkien-Lieder aus Taiwan](/music/台灣台語歌曲演進) — Vom melancholischen Lied zur Rockwende von Lin Qiangs „Xiang Qian Zou“: Wie Hokkien in den Mainstream gelangte.
+- [Popmusik aus Taiwan](/de/music/golden-melodies-legacy-taiwan-pop-music) — Die gesamte Geschichte des Aufstiegs und Falls der Musikindustrie vom Plattenmarkt bis zum Streaming-Zeitalter; die Goldenen Melodien sind ein offizieller Maßstab auf dieser Linie.
+- [Entwicklung der Hokkien-Lieder aus Taiwan](/de/music/taiwanese-hokkien-song-evolution) — Vom melancholischen Lied zur Rockwende von Lin Qiangs „Xiang Qian Zou“: Wie Hokkien in den Mainstream gelangte.
 - [Traditionelle indigene Musik aus Taiwan](/de/music/indigenous-music-traditions) — Von Stammesliedern zu Chen Jiannian und Abao: Die Wurzeln und die Gegenwart der indigenen Musik.
 - [Zeitgenössische indigene Künstler aus Taiwan](/de/music/contemporary-indigenous-singer-songwriters) — Die Stimmen und Lebensumstände von Schöpfern wie Ji Xiaojun, Banai und Abao.
-- [Indie-Musik aus Taiwan](/music/台灣獨立音樂) — Wie Cao Dong und die „Street Voice“-Generation die Plattenindustrie umgingen und auf der höchsten Bühne der Goldenen Melodien auftraten.
-- [Golden Bell Awards (Jin Song Awards)](/culture/金鐘獎) — Der älteste der drei großen Preise: Die Glocke, die 1965 für das Radio gegossen wurde; die Gewinnerliste von 1961 dokumentierte die Fernsehlandschaft Taiwans.
+- [Indie-Musik aus Taiwan](/de/music/indie-music-scene) — Wie Cao Dong und die „Street Voice“-Generation die Plattenindustrie umgingen und auf der höchsten Bühne der Goldenen Melodien auftraten.
+- [Golden Bell Awards (Jin Song Awards)](/de/culture/golden-bell-awards) — Der älteste der drei großen Preise: Die Glocke, die 1965 für das Radio gegossen wurde; die Gewinnerliste von 1961 dokumentierte die Fernsehlandschaft Taiwans.
 
 ## Bildquellen
 

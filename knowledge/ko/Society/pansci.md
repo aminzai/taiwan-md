@@ -18,6 +18,11 @@ tags:
 lastVerified: 2026-05-07
 lastHumanReview: false
 featured: false
+sporeLinks:
+  - id: 78
+    platform: 'threads'
+    date: '2026-05-20'
+    url: 'https://www.threads.com/@taiwandotmd/post/DYi422_k4Vs'
 translatedFrom: 'Society/泛科學.md'
 sourceCommitSha: '2ed57e08'
 sourceContentHash: 'sha256:81628aa1fa2a0014'

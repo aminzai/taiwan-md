@@ -3,7 +3,7 @@ title: '대만 화어(華語)의 진화—400년의 언어 지층학'
 description: '도시락 하나에 얼마나 많은 역사가 담겨 있을까? 이 단어의 여정을 따라 400년간 이 섬 위에서 자연스럽게 형성된 언어를 탐색한다'
 date: 2026-03-29
 tags: ['대만 화어', '언어 진화', '일본어 차용어', '양안 어휘', '언어 정체성']
-subcategory: '언어와 문자'
+subcategory: '語言與文字'
 category: 'Culture'
 author: 'Taiwan.md'
 readingTime: 12

@@ -41,6 +41,7 @@ relatedDiary: ['2026-06-14-154636-無名小卒勘誤']
 translatedFrom: 'Culture/無名小站.md'
 sourceCommitSha: 'b67b190fb'
 sourceContentHash: 'sha256:bb3880571afae296'
+sourceBodyHash: 'sha256:4a9169e2b0024dea'
 translatedAt: '2026-09-24T22:12:42.538002+00:00'
 ---
 

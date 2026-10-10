@@ -92,7 +92,7 @@ Fünfzig Jahre zuvor hätte Chen Ting-chih (陳廷智) wahrscheinlich nicht geda
 ## Weiterführende Lektüre
 
 - [Nachtmarktkultur](/de/food/night-market-culture) — Das Hauptumfeld für Yansuji; die Bühne des taiwanesischen Spätnachtsökosystems
-- [Taiwanisches Frühstückskultur](/food/台灣早餐文化) — Die zwei wichtigen Essenszeiten Taiwans, von der Morgenstunde bis in die Nacht
+- [Taiwanisches Frühstückskultur](/de/food/taiwan-breakfast-culture) — Die zwei wichtigen Essenszeiten Taiwans, von der Morgenstunde bis in die Nacht
 - [Taiwanische Convenience Store Kultur](/de/lifestyle/convenience-store-culture) — Yansuji-Stände und Convenience Stores bilden zusammen das 24-Stunden-Esslandschaftsbild Taiwans
 
 ## Referenzen

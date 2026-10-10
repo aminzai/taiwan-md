@@ -22,6 +22,7 @@ readingTime: 12
 translatedFrom: 'Economy/台灣科技園區外圍商圈生態.md'
 sourceCommitSha: '7255b3ab1'
 sourceContentHash: 'sha256:3c7cf0527c70a369'
+sourceBodyHash: 'sha256:abefead0dde8fee7'
 translatedAt: '2026-09-23T02:25:15.927481+00:00'
 ---
 

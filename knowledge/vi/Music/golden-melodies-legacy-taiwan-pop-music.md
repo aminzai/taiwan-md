@@ -24,7 +24,7 @@ tags:
     'Tự do ngôn luận',
     'Chủ quyền văn hoá',
   ]
-subcategory: 'Âm nhạc phổ biến'
+subcategory: '流行音樂'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-19
@@ -254,11 +254,11 @@ Còn lại không phải quy mô, là tự do, là mất hết rồi cuối cùn
 
 **Đọc thêm**:
 
-- [Phong trào dân ca Đài Loan: "Hát bài hát của riêng mình" hát của là ai](/music/phong-trao-dan-ca-tai-loan)
-- [Sự phát triển ca khúc tiếng Đài Đài Loan: Từ ngôn ngữ mẹ đẻ bị cấm đến Album của năm](/music/su-phat-trien-ca-khuc-tieng-dai-tai-loan)
-- [Giải Kim Khúc: Tiếng nói của ai mới được tính, do ai quyết định](/music/giai-kim-khuc)
-- [Ngành công nghiệp âm nhạc Đài Loan và kỷ nguyên phát thanh: Sau khi thực thể sụp đổ mà lấy lại máu](/music/nganh-cong-nghiep-am-nhac-tai-loan-va-ky-nguyen-phat-thanh)
-- [Đặng Lệ Quân: Truyền lời khắp hai bờ ba vùng, nhưng đến lúc qua đời vẫn chưa bao giờ mở một buổi hát ở Trung Quốc đại lục](/people/dang-le-quan)
+- [Phong trào dân ca Đài Loan: "Hát bài hát của riêng mình" hát của là ai](/vi/music/taiwan-campus-folk-song-movement)
+- [Sự phát triển ca khúc tiếng Đài Đài Loan: Từ ngôn ngữ mẹ đẻ bị cấm đến Album của năm](/vi/music/taiwanese-hokkien-song-evolution)
+- [Giải Kim Khúc: Tiếng nói của ai mới được tính, do ai quyết định](/vi/music/pop-music-and-golden-melody-awards)
+- [Ngành công nghiệp âm nhạc Đài Loan và kỷ nguyên phát thanh: Sau khi thực thể sụp đổ mà lấy lại máu](/vi/music/taiwan-music-industry-and-the-streaming-era)
+- [Đặng Lệ Quân: Truyền lời khắp hai bờ ba vùng, nhưng đến lúc qua đời vẫn chưa bao giờ mở một buổi hát ở Trung Quốc đại lục](/vi/people/teresa-teng)
 
 ## Hình ảnh Nguồn
 
@@ -289,7 +289,7 @@ Bài viết này sử dụng 3 hình ảnh công có/ CC được phép, toàn b
 
 [^9]: [Wikipedia: Khúc hôn tạm biệt](https://zh.wikipedia.org/zh-tw/吻別) — Ghi lại doanh số album "Khúc hôn tạm biệt" năm 1993 của Chu Học Hữu tại Đài Loan là 1.36 triệu bản, mô tả "Cứ 20 người mua 1 bản" và số liệu doanh số tổng châu Á.
 
-[^10]: [Wikipedia: Cậu bé tồi tệ (Album Trương Huệ Miên)](https://zh.wikipedia.org/zh-hant/Bad_Boy_(張惠妹專輯) — ) — )) — Ghi lại doanh số album "Cậu bé tồi tệ" năm 1997 của Trương Huệ Miên tại Đài Loan là 1.38 triệu bản, là cao nhất từng được ghi âm studio của lịch sử Đài Loan, tổng doanh số châu Á khoảng 6 triệu bản
+[^10]: [Wikipedia: Cậu bé tồi tệ (Album Trương Huệ Miên)](<https://zh.wikipedia.org/zh-hant/Bad_Boy_(張惠妹專輯)>) — ) — )) — Ghi lại doanh số album "Cậu bé tồi tệ" năm 1997 của Trương Huệ Miên tại Đài Loan là 1.38 triệu bản, là cao nhất từng được ghi âm studio của lịch sử Đài Loan, tổng doanh số châu Á khoảng 6 triệu bản
 
 [^11]: [Tạp chí Quang Hoa "Tương lai lớn của âm nhạc phổ biến"](https://www.taiwan-panorama.com/Articles/Details?Guid=bffd9904-4bf3-4c08-ab91-4333ec55cd34) — Tờ rơi chính thức ghi từng từ "Tổng giá trị thị trường đĩa than Đài Loan từ 1997 đạt 12,3 tỷ Đơn vị tính, nhanh chóng co cót xuống chỉ 3,15 tỷ Đơn vị tính năm 2005" và doanh số Chu Kiệt Luân đỉnh cao khoảng 300,000 bản.
 
@@ -353,7 +353,7 @@ Bài viết này sử dụng 3 hình ảnh công có/ CC được phép, toàn b
 
 [^41]: [Lý Tiểu Phong: Chính sách tiếng Quốc ngữ và ngôn ngữ Đài Loan](https://www.jimlee.org.tw/article_detail.php?SN=8729) — Học viên Lý Tiểu Phong sắp xếp một chuỗi liên tiếp chính sách thúc đẩy tiếng Quốc ngữ từ 1951 cấm tuyệt đối phương ngôn, 1952 tăng cường tiếng Quốc ngữ, 1963 chú ý ngôn ngữ v.v.
 
-[^42]: [Wikitext: Luật phát thanh truyền hình (Dân Quốc năm 64 lập pháp năm 65 công bố)](https://zh.wikisource.org/zh-hant/廣播電視法_(民國64年立法65年公布) — ) — )) — Một tay Pháp lệnh gốc, khoản 20 ghi "Đài phát thanh quốc nội phát thanh tiếng nên chủ yếu là tiếng Quốc ngữ, phương ngôn nên giảm bớt hàng năm."
+[^42]: [Wikitext: Luật phát thanh truyền hình (Dân Quốc năm 64 lập pháp năm 65 công bố)](<https://zh.wikisource.org/zh-hant/廣播電視法_(民國64年立法65年公布)>) — ) — )) — Một tay Pháp lệnh gốc, khoản 20 ghi "Đài phát thanh quốc nội phát thanh tiếng nên chủ yếu là tiếng Quốc ngữ, phương ngôn nên giảm bớt hàng năm."
 
 [^43]: [Wikipedia: Chính sách tiếng Quốc ngữ](https://zh.wikipedia.org/wiki/國語政策) — Trích dẫn 1972 ba đài truyền hình bị yêu cầu "hàng ngày phát hành ca khúc tiếng Đài không vượt quá hai bài" điều quản lý phát thanh.
 
@@ -369,15 +369,15 @@ Bài viết này sử dụng 3 hình ảnh công có/ CC được phép, toàn b
 
 [^49]: [Fount Media: Phong trào ca khúc tiếng Đài mới](https://www.fountmedia.io/article/100382) — Ghi lại "Cây chi chim cô" của Ngũ Bách 1998 đạt Giải Kim Khúc tốt nhất tờ phát thanh phổ biến lần 10, là "phong trào ca khúc tiếng Đài mới mười năm hồi sinh" tác phẩm đại diện.
 
-[^50]: [Wikipedia: Giải bài ca album tiếng Đài tốt nhất (Giải Kim Khúc)](https://zh.wikipedia.org/zh-tw/最佳台語專輯獎_(金曲獎) — ) — )) — Ghi lại Giải Kim Khúc 2005 lần 16 thành lập Giải bài ca album tiếng Đài, tiếng Khách Gia, tiếng bản địa tốt nhất quá trình lịch sử cơ chế
+[^50]: [Wikipedia: Giải bài ca album tiếng Đài tốt nhất (Giải Kim Khúc)](<https://zh.wikipedia.org/zh-tw/最佳台語專輯獎_(金曲獎)>) — ) — )) — Ghi lại Giải Kim Khúc 2005 lần 16 thành lập Giải bài ca album tiếng Đài, tiếng Khách Gia, tiếng bản địa tốt nhất quá trình lịch sử cơ chế
 
-[^51]: [Wikipedia: Lịch sử đạt được Giải album của năm Giải Kim Khúc](https://zh.wikipedia.org/zh-tw/年度專輯獎_(金曲獎) — ) — )) — Ghi lại Giải album của năm 2017 lần 28 thành lập, cùng Tương Bộ Vệ (2017), A Phát (2020), Lý Trúc Tâm (2025) v.v. lịch sử đạt được và ngôn ngữ phân biệt
+[^51]: [Wikipedia: Lịch sử đạt được Giải album của năm Giải Kim Khúc](<https://zh.wikipedia.org/zh-tw/年度專輯獎_(金曲獎)>) — ) — )) — Ghi lại Giải album của năm 2017 lần 28 thành lập, cùng Tương Bộ Vệ (2017), A Phát (2020), Lý Trúc Tâm (2025) v.v. lịch sử đạt được và ngôn ngữ phân biệt
 
 [^52]: [Truyền thông Trung ương: Lý Trúc Tâm Suí nước giành ba giải](https://www.cna.com.tw/news/amov/202506285004.aspx) — Ghi lại album tiếng Đài "Suí nước" của Lý Trúc Tâm tại Giải Kim Khúc lần 36 giành Album của năm, Ca sĩ nữ tiếng Đài tốt nhất, Album tiếng Đài tốt nhất ba giải lớn.
 
 [^53]: [Bella: Lý Trúc Tâm Album của năm lần đầu tiên phát cho tiếng Đài](https://www.bella.tw/articles/music/52469/) — Ghi lại "Suí nước" của Lý Trúc Tâm là Giải Album của năm lần đầu tiên phát cho album tiếng Đài kỷ lục.
 
-[^54]: [Wikipedia: Lịch sử đạt được Giải album của năm Giải Kim Khúc](https://zh.wikipedia.org/zh-tw/年度專輯獎_(金曲獎) — ) — )) — Danh sách lịch sử chứng minh Tương Bộ Vệ album bản địa (2017), A Phát album Paiwan (2020) đã trước Lý Trúc Tâm đạt Giải album của năm, cho nên Lý Trúc Tâm là "tiếng Đài lần đầu" không phải "ngôn ngữ mẹ đẻ lần đầu"
+[^54]: [Wikipedia: Lịch sử đạt được Giải album của năm Giải Kim Khúc](<https://zh.wikipedia.org/zh-tw/年度專輯獎_(金曲獎)>) — ) — )) — Danh sách lịch sử chứng minh Tương Bộ Vệ album bản địa (2017), A Phát album Paiwan (2020) đã trước Lý Trúc Tâm đạt Giải album của năm, cho nên Lý Trúc Tâm là "tiếng Đài lần đầu" không phải "ngôn ngữ mẹ đẻ lần đầu"
 
 [^55]: [Wikipedia: Phượng Bay Bay](https://zh.wikipedia.org/zh-tw/鳳飛飛) — Ghi lại Phượng Bay Bay 1971 tháng 9 ghi âm bài đầu, 1972 album đầu, thập niên 1970 cùng Đặng Lệ Quân, đầu thập niên 1980 là nữ hoàng sân khấu tiếng Quốc ngữ, chứng minh nữ ca sĩ không phải 1990 mới "thọc lên".
 

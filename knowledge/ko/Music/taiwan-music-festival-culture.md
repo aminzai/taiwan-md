@@ -11,13 +11,13 @@ tags:
     '인디음악',
     '청년 문화',
   ]
-subcategory: '인디 & 록'
+subcategory: '獨立與搖滾'
 category: 'Music'
 author: 'Taiwan.md'
 readingTime: 10
 featured: true
 translatedFrom: 'Music/台灣音樂祭文化.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:05a94f16d833d02e'
 sourceBodyHash: 'sha256:7c772c535d0e1d4c'
 translatedAt: '2026-05-16T22:35:46Z'

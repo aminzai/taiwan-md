@@ -12,14 +12,14 @@ tags:
     'Nobel',
     'prix Wolf',
   ]
-subcategory: 'Sciences et monde académique'
+subcategory: '科學與學術'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 10
 featured: false
 lastVerified: 2026-03-31
 translatedFrom: 'People/翁啟惠.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: 'f99a9959c'
 sourceContentHash: 'sha256:984fef279b1af05b'
 sourceBodyHash: 'sha256:8e4d8fb8704570d2'
 translatedAt: 2026-05-16T22:26:08Z

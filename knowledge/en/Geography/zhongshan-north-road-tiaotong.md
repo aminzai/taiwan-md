@@ -209,7 +209,7 @@ If you pass Guangdian Taipei on Zhongshan North Road Section 2 next time, stop f
 - [Ximen Town: An Entertainment Street Built by the Japanese in 1896, Still Taipei's Youngest Street After 130 Years](/en/geography/ximending) — A sibling historic district from the same batch, a foreign entertainment area outside the city like San Tiao Tong, but following a completely different subculture path.
 - [Taiwanese Tea Ceremony and Life Aesthetics](/en/culture/taiwan-tea-ceremony-and-aesthetic-living) — The mutual influence between Japanese aesthetics in San Tiao Tong culture and the post-war Taiwanese tea ceremony revival movement.
 - [February 28 Incident](/en/history/228-incident) — On the afternoon of February 28, 1947, crowds marched to the Zhongshan Road intersection and were machine-gunned by guards; Zhongshan Hall convened an emergency meeting on the same day to form the incident handling committee.
-- [Taiwanese Street Trees](/lifestyle/台灣行道樹) — How the colonial planning logic of "wide roads with neat rows of trees" extended from the tree planting theory established in 1898 to the predecessor, Imperial Envoy Street.
+- [Taiwanese Street Trees](/en/lifestyle/taiwan-street-trees) — How the colonial planning logic of "wide roads with neat rows of trees" extended from the tree planting theory established in 1898 to the predecessor, Imperial Envoy Street.
 - [Beitou Hot Spring Town](/en/geography/beitou-hot-spring-street) — The two divergences in Taipei's post-war sex industry landscape: the prohibition of prostitution in Beitou in 1979 versus the city-wide ban on licensed prostitutes in 1997, compared to San Tiao Tong culture on Linssen North Road.
 
 ## Image Sources

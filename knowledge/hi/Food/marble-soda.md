@@ -22,6 +22,7 @@ curation: incubating
 translatedFrom: Food/彈珠汽水.md
 sourceCommitSha: 03b3aaae8
 sourceContentHash: sha256:285a5868a3aa5597
+sourceBodyHash: 'sha256:c3f4128a5ed93797'
 translatedAt: '2026-09-09T15:32:21+08:00'
 ---
 

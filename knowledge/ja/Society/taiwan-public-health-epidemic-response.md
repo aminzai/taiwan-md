@@ -88,7 +88,7 @@ SARS後の10年間、台湾は屈辱を制度へと転換させた。
 - [台湾の医療と全民健保](/ja/lifestyle/taiwan-healthcare-and-national-health-insurance) — 防疫体系の基盤インフラ：2,340万人の健保データベース
 - [唐鳳](/ja/people/audrey-tang) — マスクマップの裏側にいたデジタル政務委員
 - [台湾災害医療体系](/ja/technology/taiwan-disaster-medicine-system) — 921からSARSへ、災害がいかに医療進化を駆動したか
-- [台湾新型コロナ疫情とワクチン](/society/台灣新冠疫情與疫苗) — SARS後に構築されたこの制度が、2020〜2023年に完全にテストされた：国境で18か月防いだが、ワクチンと高齢者の3回目接種には間に合わなかった
+- [台湾新型コロナ疫情とワクチン](/ja/society/taiwan-covid-pandemic-and-vaccines) — SARS後に構築されたこの制度が、2020〜2023年に完全にテストされた：国境で18か月防いだが、ワクチンと高齢者の3回目接種には間に合わなかった
 - [再生医療二法 × mRNA 30年](/ja/society/taiwan-regenerative-medicine-laws) — 2021年BNT調達＋細胞治療法制化の二重ナラティブ、本稿COVID防疫の延長視点
 
 ## 参考資料

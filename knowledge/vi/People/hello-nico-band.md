@@ -89,11 +89,11 @@ Hello Nico vẫn đang trên sân khấu.
 
 **Đọc thêm**:
 
-- [Âu Dữ Sơn](/people/凹與山) — Cũng là giọng nữ độc lập của thập niên 2010 tại Đài Loan, dùng bộ tổng hợp để nắm bắt cảm xúc đô thị
-- [VH (Vast & Hazy)](/people/VH) — Một con đường dịu dàng khác trong giới nhạc độc lập cùng thời, "ban nhạc hướng tới lối thoát"
-- [Thảo Đông không có bữa tiệc](/people/草東沒有派對) — Sự đối ngẫu giữa sự giận dữ và kìm nén trong bối cảnh âm nhạc độc lập Đài Loan thập niên 2010
-- [A Kha Trí Đường](/people/柯智棠) — Một ca sĩ độc lập khác trở lại sau bảy năm im lặng, cùng thuộc phổ "nhà sáng tạo nhịp độ chậm"
-- [Kê Bách Hào](/art/紀柏豪) — Cựu thành viên chơi tổng hợp của Hello Nico, sau này chuyển sang nghệ thuật âm thanh, đoạt giải thưởng MIT Schnitzer
+- [Âu Dữ Sơn](/vi/people/ao-and-mountain-band) — Cũng là giọng nữ độc lập của thập niên 2010 tại Đài Loan, dùng bộ tổng hợp để nắm bắt cảm xúc đô thị
+- [VH (Vast & Hazy)](/vi/people/vh-band) — Một con đường dịu dàng khác trong giới nhạc độc lập cùng thời, "ban nhạc hướng tới lối thoát"
+- [Thảo Đông không có bữa tiệc](/vi/people/no-party-for-cao-dong) — Sự đối ngẫu giữa sự giận dữ và kìm nén trong bối cảnh âm nhạc độc lập Đài Loan thập niên 2010
+- [A Kha Trí Đường](/vi/people/ke-zhi-tang-musician) — Một ca sĩ độc lập khác trở lại sau bảy năm im lặng, cùng thuộc phổ "nhà sáng tạo nhịp độ chậm"
+- [Kê Bách Hào](/vi/art/chi-po-hao-musician) — Cựu thành viên chơi tổng hợp của Hello Nico, sau này chuyển sang nghệ thuật âm thanh, đoạt giải thưởng MIT Schnitzer
 
 ## Tài liệu tham khảo
 

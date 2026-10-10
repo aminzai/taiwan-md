@@ -129,8 +129,8 @@ Wer vier Milliarden verloren hat, spricht diese Worte – jedes einzelne hat Gew
 
 ## Weiterführende Links
 
-- [Taiwanesische Spieleindustrie und digitale Unterhaltung](/technology/台灣遊戲產業與數位娛樂) — Vom Vertrieb zur Originalentwicklung: Panorama der taiwanesischen Spiele
-- [Softstar Double Sword](/technology/大宇雙劍) — Die emotionale Prägung taiwanesischer Single-Player-RPGs, die Ära vor X-Legend
+- [Taiwanesische Spieleindustrie und digitale Unterhaltung](/de/technology/taiwan-gaming-industry) — Vom Vertrieb zur Originalentwicklung: Panorama der taiwanesischen Spiele
+- [Softstar Double Sword](/de/technology/softstar-twin-classics) — Die emotionale Prägung taiwanesischer Single-Player-RPGs, die Ära vor X-Legend
 - [Ohne Kellerbesuch kein Schlaf](/de/technology/into-the-cellar-taiwan-game-podcast) — Drei Jahrzehnte taiwanesische Spiele-Community
 
 ---

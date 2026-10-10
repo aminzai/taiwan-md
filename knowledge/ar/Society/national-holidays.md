@@ -28,6 +28,7 @@ relatedDiary: ['2026-06-19-103421-manual']
 translatedFrom: 'Society/國定假日.md'
 sourceCommitSha: 'ddb9590b6'
 sourceContentHash: 'sha256:0acd5b8de068abbb'
+sourceBodyHash: 'sha256:68d627d331e8bf54'
 translatedAt: '2026-09-24T07:47:16.113660+00:00'
 ---
 
@@ -220,7 +221,7 @@ translatedAt: '2026-09-24T07:47:16.113660+00:00'
 - [طيف التوحيد والانفصال في تايوان](/ar/society/taiwan-unification-independence-spectrum) — الخريطة الهويةًية وراء "استعادة تايوان/نهاية الحرب/الإدارة"
 - [تايبيه الصينية](/ar/society/chinese-taipei) — الوجه الآخر لنفس "جمهورية الصين": صراع العيد الوطني للعشرين والعشرين مع عيد تايوان الوطني
 - [إجازة الأعاصير](/ar/society/typhoon-day) — نوع آخر من "من يحصل على الإجازة، ومن يعمل": أولئك الذين يعملون في العواصف
-- [عيد الدراجات](/culture/端午節) — كيف أصبح عيدًا شعبيًا إجازة رسمية في التقويم
+- [عيد الدراجات](/ar/culture/dragon-boat-festival) — كيف أصبح عيدًا شعبيًا إجازة رسمية في التقويم
 - [بيئة السياسة والنظام الانتخابي في تايوان](/ar/society/taiwan-political-landscape-and-electoral-system) — كيف يحدد توزيع الأحزاب في البرلمان الحروف المموضة على التقويم
 
 ---

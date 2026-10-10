@@ -15,7 +15,7 @@ tags:
     '거리오 결제',
     '디지털 전환',
   ]
-subcategory: '디지털과 인터넷'
+subcategory: '數位與網路'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-06

@@ -3,7 +3,7 @@ title: '丁日昌：一本の電報線の背後にある、完成しなかった
 description: '1876年に台湾統治のため渡海した丁日昌は、電報、鉄道、炭鉱、開墾、番人統治と海防を同一の青写真に組み込みました。電報線は1877年に完成しましたが、鉄道と鉄甲船は経費、制度、時間に阻まれました。本稿は奏摺、官方档案、学術研究、地方の遺物を交叉読解し、この晩清官員がいかに台湾の体系的問題を認識し、また一つの青写真がなぜその一部分だけしか完成できなかったのかを説明します。'
 date: 2026-08-21
 category: 'People'
-tags: ['丁日昌、清代台湾、洋務運動、電報、海防']
+tags: ['丁日昌', '清代台湾', '洋務運動', '電報', '海防']
 subcategory: '殖民與帝國'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -166,7 +166,7 @@ _画像：新北市双渓区平林里連挙人厝中の丁日昌所贈匾額、W
 - [中央研究院近代史研究所：丁日昌と自強運動](https://www.mh.sinica.edu.tw/PGPublication_Detail.aspx?pubid=129&majorTypeCode=2&minorTypeCode=1)
 - [中央研究院デジタル典蔵：福建巡撫已有旨令丁日昌補授台湾撫番各事宜](https://digiarch.sinica.edu.tw/content/repository/resource_content.jsp?oid=561873&queryString=%E6%92%AB%E7%95%AA%20%E9%96%8B%E5%B1%B1%E6%92%AB%E7%95%AA)
 
-## 參考資料
+## 参考資料
 
 [^1]: [中央研究院台湾文献全文資料庫：清季台湾洋務史料](https://taicool.ith.sinica.edu.tw/browse-ebook.html?id=EB0000000278) — 光緒年間の台湾電線、鉄道、輪船、機器、炭務、鉱務奏摺を収録し、丁日昌が台湾鉄路を最初に唱導し、その計画が後に劉銘傳に継承されたことを説明しています。
 

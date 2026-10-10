@@ -83,10 +83,10 @@ Thay vì xem họ là kẻ rỡi, hãy học cách giữ khoảng cách thích h
 
 ## Đọc thêm
 
-- [Đạo đức với động vật trong vườn quốc gia và triển lãm](/society/動物園與展演動物倫理) — Thảo luận đạo đức về nuôi con vật trong chuồng, bổ trợ khung " hàng xóm" của khỉ hoang dã trong bài viết này
-- [Các khu vực nuôi con vật ở Đài Loan](/society/台灣有哪些動物園) — Vườn quốc gia Thượng Sơn và bản đồ dân số khỉ tại vị trí cùng địa lý
-- [Thái Anh Văn: Khi nhà ngoại gia trở thành nhà khảo cổ](/people/史溫侯) — Nhà khảo cổ người Anh Robert Swinhoe đặt tên _Macaca cyclopis_ năm 1862, trước đây là tiền sử của bài viết này [^4][^5]
-- [Hạc trắng đuôi xanh](/nature/黑冠麻鷺) — Một vụ việc khác của động vật hoang dã xâm nhập khu dân cư; sự xấu hại của khỉ thường xuất phát từ nguyên nhân thức ăn, và sự xấu hại của hạc trắng đuôi xanh đến gần với khu dân cư hơn do mở rộng khu dân cư—con người vô tình tạo ra những khu vực sinh sống thấp nước giống như rừng ngập mặn
+- [Đạo đức với động vật trong vườn quốc gia và triển lãm](/vi/society/zoo-and-exhibition-animal-ethics) — Thảo luận đạo đức về nuôi con vật trong chuồng, bổ trợ khung " hàng xóm" của khỉ hoang dã trong bài viết này
+- [Các khu vực nuôi con vật ở Đài Loan](/vi/society/taiwan-zoos) — Vườn quốc gia Thượng Sơn và bản đồ dân số khỉ tại vị trí cùng địa lý
+- [Thái Anh Văn: Khi nhà ngoại gia trở thành nhà khảo cổ](/vi/people/robert-swinhoe-naturalist) — Nhà khảo cổ người Anh Robert Swinhoe đặt tên _Macaca cyclopis_ năm 1862, trước đây là tiền sử của bài viết này [^4][^5]
+- [Hạc trắng đuôi xanh](/vi/nature/malayan-night-heron) — Một vụ việc khác của động vật hoang dã xâm nhập khu dân cư; sự xấu hại của khỉ thường xuất phát từ nguyên nhân thức ăn, và sự xấu hại của hạc trắng đuôi xanh đến gần với khu dân cư hơn do mở rộng khu dân cư—con người vô tình tạo ra những khu vực sinh sống thấp nước giống như rừng ngập mặn
 
 ## Tài liệu tham khảo
 

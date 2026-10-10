@@ -12,7 +12,7 @@ tags:
     'Boneka Besar Anak Laki-laki',
     'Hari-hari Melihat Laut',
   ]
-subcategory: 'Sastra'
+subcategory: '文學'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07
@@ -21,6 +21,7 @@ readingTime: 7
 translatedFrom: 'People/黃春明.md'
 sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:67504d464a04b735'
+sourceBodyHash: 'sha256:59fc287ce8c0baeb'
 translatedAt: '2026-08-04T04:31:47.828279+00:00'
 ---
 

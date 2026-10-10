@@ -86,7 +86,7 @@ Ini juga menjelaskan sebuah kebetulan kecil. Basis pengetahuan yang Anda baca in
 
 **Bacaan Lanjutan**:
 
-- [AAMA Taipei Cradle Program](/economy/AAMA台北搖籃計畫): CW Lin adalah wirausahawan ke-13 dari program mentor satu lawan satu selama dua tahun ini, sebuah model dukungan kewirausahaan Taiwan yang tidak melibatkan investasi dan tidak mengambil saham.
+- [AAMA Taipei Cradle Program](/id/economy/aama-taipei-cradle-program): CW Lin adalah wirausahawan ke-13 dari program mentor satu lawan satu selama dua tahun ini, sebuah model dukungan kewirausahaan Taiwan yang tidak melibatkan investasi dan tidak mengambil saham.
 
 ## Referensi
 

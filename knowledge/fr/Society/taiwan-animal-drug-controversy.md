@@ -13,7 +13,7 @@ tags:
     'système de santé',
     'APHIA',
   ]
-subcategory: 'Animaux et éthique'
+subcategory: '動物與倫理'
 category: 'Society'
 author: 'Taiwan.md'
 featured: false

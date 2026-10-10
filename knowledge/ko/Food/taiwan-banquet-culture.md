@@ -13,14 +13,14 @@ tags:
     'Traditional Craft',
     'Human Touch',
   ]
-subcategory: 'Dining Scenes'
+subcategory: '飲食場景'
 author: 'Taiwan.md'
 category: 'Food'
 readingTime: 12
 lastVerified: 2026-06-07
 lastHumanReview: false
 translatedFrom: 'Food/台灣辦桌文化.md'
-sourceCommitSha: '26a67c77'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:87996856be7f510f'
 sourceBodyHash: 'sha256:dc734b24b423e098'
 translatedAt: '2026-06-16T16:55:29Z'
@@ -138,7 +138,7 @@ Older generations of masters often use presidential terms to remember the indust
 The 12 years from 1988 to 2000, when Lee Teng-hui served as President, are considered the golden age of Bando. This was not only the era of the traditional "Eight Celebrations and One Funeral"—engagement, marriage, full-month, returning to natal home, opening business, birthday, moving house, death—but also the era where even children getting PhDs or winning pigeon racing prizes would host a banquet [^21]. On auspicious lunar days, the temple square and roadside were full of "Black Forest Grand Hotels." The origin of this name is very Taiwanese: early canvas tents were often provided by beverage companies, printed with Black Forest soda advertisements; over time, "Black Forest Grand Hotel" became a synonym for Bando [^21].
 
 ![Round tables with red chair covers in Tainan at night, table after table, filled with guests, with storefronts with rolled-down iron gates and parked motorcycles in the background](/article-images/food/bando-street-banquet-tainan-2014.webp)
-_A Bando held directly on the street in Tainan in 2014. Blocking the road, setting up tables, and starting the feast is the most everyday appearance of the "Black Forest Grand Hotel." Photo: Ce Jingzhe, 2014. [CC BY-SA 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File/2014-12-07_a_banquet_on_street_in_Tainan.jpg)._
+_A Bando held directly on the street in Tainan in 2014. Blocking the road, setting up tables, and starting the feast is the most everyday appearance of the "Black Forest Grand Hotel." Photo: Ce Jingzhe, 2014. [CC BY-SA 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2014-12-07_a_banquet_on_street_in_Tainan.jpg)._
 
 How prosperous that era was is best remembered by Xue Meng-hui through the work diary left by his father, Xue Qing-ji.
 
@@ -225,7 +225,7 @@ This article uses 3 public domain / CC licensed images, all cached in `public/ar
 
 - [Bando after Zhongyuan Ghost Festival](https://commons.wikimedia.org/wiki/File:The_End_of_Ghost_Festival_Party_at_Dongsha_Tzufu_Temple_20170919a.jpg) (hero) — Photo: Xuan Shi Sheng, 2017-09-19, CC0 1.0
 - [Mudstone Badland of Gutingkeng Formation in Kaohsiung (Moon World)](https://commons.wikimedia.org/wiki/File:Tianliao_Moon_World_3.jpg) — Photo: StevenK234, 2019-04-01, CC BY-SA 4.0
-- [Street Bando in Tainan](https://commons.wikimedia.org/wiki/File/2014-12-07_a_banquet_on_street_in_Tainan.jpg) — Photo: Ce Jingzhe, 2014-12-07, CC BY-SA 2.0
+- [Street Bando in Tainan](https://commons.wikimedia.org/wiki/File:2014-12-07_a_banquet_on_street_in_Tainan.jpg) — Photo: Ce Jingzhe, 2014-12-07, CC BY-SA 2.0
 
 ## References
 

@@ -212,9 +212,9 @@ Two rooms. One technology. Two futures.
 
 ## Further Reading
 
-- [Taiwan Corporate Profile: HTC](/economy/Taiwan-Corporate-HTC) — HTC's corporate biography, from Android phones to the VR pivot
+- [Taiwan Corporate Profile: HTC](/en/economy/htc-android-pioneer-vr-transformation) — HTC's corporate biography, from Android phones to the VR pivot
 - [Taiwan's Open Source Spirit](/en/technology/taiwan-open-source-spirit) — Another story of a Taiwanese tech community running on passion
-- [Taiwan Digital Imaging and Animation Industry](/technology/taiwan-digital-imaging-animation-industry) — The technical and human foundations behind VR content
+- [Taiwan Digital Imaging and Animation Industry](/en/technology/taiwan-digital-animation-industry) — The technical and human foundations behind VR content
 
 ---
 

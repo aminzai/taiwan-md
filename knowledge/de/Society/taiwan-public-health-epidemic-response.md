@@ -91,15 +91,15 @@ Die Basis von Taiwans Seuchenschutzsystem ist die 1995 eingeführte Nationale Kr
 
 **Weiterführende Literatur:**
 
-- [Taipehs Raucherräume: Die atmenden Glaskästen in der rauchfreien Stadt](/society/台北吸菸室) — Das neueste Kapitel der vierzigjährigen Kampagne gegen Tabakschäden, das Schlachtfeld verlagerte sich von drinnen nach draußen
+- [Taipehs Raucherräume: Die atmenden Glaskästen in der rauchfreien Stadt](/de/society/taipei-smoking-room) — Das neueste Kapitel der vierzigjährigen Kampagne gegen Tabakschäden, das Schlachtfeld verlagerte sich von drinnen nach draußen
 
-- [Taiwans Gesundheitswesen und Nationale Krankenversicherung](/lifestyle/台灣醫療與全民健保) — Die Infrastruktur des Seuchenschutzes: Die Krankenversicherungsdatenbank von 23,4 Millionen Menschen
+- [Taiwans Gesundheitswesen und Nationale Krankenversicherung](/de/lifestyle/taiwan-healthcare-and-national-health-insurance) — Die Infrastruktur des Seuchenschutzes: Die Krankenversicherungsdatenbank von 23,4 Millionen Menschen
 
-- [Audrey Tang](/people/唐鳳) — Die Digitalministerin hinter der Masken-Karte
+- [Audrey Tang](/de/people/audrey-tang) — Die Digitalministerin hinter der Masken-Karte
 
-- [Taiwans Katastrophenmedizinisches System](/technology/台灣災難醫療體系) — Vom 921-Erdbeben bis SARS: Wie Katastrophen die medizinische Evolution antreiben
+- [Taiwans Katastrophenmedizinisches System](/de/technology/taiwan-disaster-medicine-system) — Vom 921-Erdbeben bis SARS: Wie Katastrophen die medizinische Evolution antreiben
 
-- [Taiwans COVID-19-Pandemie und Impfstoffe](/society/台灣新冠疫情與疫苗) — Das nach SARS aufgebaute System wurde 2020 bis 2023 vollständig getestet: Die Grenze hielt 18 Monate, doch Impfstoffe und die dritte Dosis für Ältere kamen nicht rechtzeitig
+- [Taiwans COVID-19-Pandemie und Impfstoffe](/de/society/taiwan-covid-pandemic-and-vaccines) — Das nach SARS aufgebaute System wurde 2020 bis 2023 vollständig getestet: Die Grenze hielt 18 Monate, doch Impfstoffe und die dritte Dosis für Ältere kamen nicht rechtzeitig
 
 - [Zwei Gesetze zur regenerativen Medizin × 30 Jahre mRNA](/de/society/taiwan-regenerative-medicine-laws) — Die doppelte Erzählung von BNT-Beschaffung 2021 und Zelltherapie-Gesetzgebung, eine erweiterte Perspektive auf den COVID-Seuchenschutz dieses Artikels
 

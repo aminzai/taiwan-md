@@ -149,10 +149,10 @@ Trinta anos são dois silêncios escritos pela mesma pessoa com a palavra NOISE.
 
 ## Leituras complementares
 
-- [Paisagem sonora de Taiwan](/music/台灣聲音地景) — Posição de Wang Fujui, Yao Chung-han, Chang Yung-ta e outros artistas sonoros na paisagem sonora de Taiwan; este artigo estende a menção nominal a verbete aprofundado
-- [Wang Lian-cheng](/art/王連晟) — Artista de som e nova mídia da geração estudantil de Wang no Departamento de Novas Mídias da TNUA, continuação da onda institucional estudantil de 2007 do Lacking Sound
-- [Arte de nova mídia de Taiwan](/art/台灣新媒體藝術) — História da arte digital/mídia do ET@T 1995 ao Taipei Digital Art Festival dos anos 2000; Wang é nó-chave no eixo sonoro
-- [Música independente de Taiwan](/music/台灣獨立音樂) — Outro eixo da cena underground dos anos 90 em Taiwan, universo paralelo ao ruído/música experimental
+- [Paisagem sonora de Taiwan](/pt/music/taiwan-soundscape) — Posição de Wang Fujui, Yao Chung-han, Chang Yung-ta e outros artistas sonoros na paisagem sonora de Taiwan; este artigo estende a menção nominal a verbete aprofundado
+- [Wang Lian-cheng](/pt/art/wang-lien-cheng-artist) — Artista de som e nova mídia da geração estudantil de Wang no Departamento de Novas Mídias da TNUA, continuação da onda institucional estudantil de 2007 do Lacking Sound
+- [Arte de nova mídia de Taiwan](/pt/art/taiwan-new-media-art) — História da arte digital/mídia do ET@T 1995 ao Taipei Digital Art Festival dos anos 2000; Wang é nó-chave no eixo sonoro
+- [Música independente de Taiwan](/pt/music/indie-music-scene) — Outro eixo da cena underground dos anos 90 em Taiwan, universo paralelo ao ruído/música experimental
 
 ## Créditos das imagens
 

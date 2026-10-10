@@ -10,14 +10,14 @@ tags:
     'Influencer Politics',
     'Democratic Resilience',
   ]
-subcategory: 'Cross-Strait Relations'
+subcategory: '兩岸關係'
 author: 'Taiwan.md Contributors'
 category: 'Society'
 readingTime: 25
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: 'Society/統戰團.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:6189acad34e81f7d'
 sourceBodyHash: 'sha256:a81371a8c3c242ce'
 translatedAt: '2026-05-02T14:15:00+08:00'
@@ -131,7 +131,7 @@ And uncertainty may well be the ultimate product of this cognitive game.
 
 [^5]: [Understanding in One Article] Why Did YouTuber Potato King's Exposure Spark the "Influencer United Front" Storm?](https://www.storm.mg/article/5164466) — Storm Media, June 20, 2024, compreh梳理ing the beginning and end of the exposure and responses from all parties.
 
-[^6]: ["Reject United Front, Protect Taiwan" Grand Assembly](https://zh.wikipedia.org/zh-tw/%E3%80%8C%E6%8B%92%E7%B5%95%E7%B5%B1%E6%88%B0%EF%BC%8C%E5%AE%88%E8%AD%B7%E5%8F%B0%E7%81%A3%E3%80%8B%E5%A4%A7%E6%9C%83) — Wikipedia, recording the beginning and end, organizers, and main demands of the Ketagalan Boulevard rally on April 19, 2025.
+[^6]: ["Reject United Front, Protect Taiwan" Grand Assembly](https://zh.wikipedia.org/zh-tw/%E3%80%8C%E6%8B%92%E7%B5%95%E7%B5%B1%E6%88%B0%EF%BC%8C%E5%AE%88%E8%AD%B7%E5%8F%B0%E7%81%A3%E3%80%8D%E5%A4%A7%E6%9C%83) — Wikipedia, recording the beginning and end, organizers, and main demands of the Ketagalan Boulevard rally on April 19, 2025.
 
 [^7]: [Helping the Taiwan Affairs Office Organize Tours, Intermediary for Elections: United Alliance Party Pingtung Branch President and General Secretary Sentenced to 4.5 Years](https://news.ltn.com.tw/news/society/breakingnews/4782159) — Liberty Times, 2025, reporting on the case of Zhang Cunfeng and Huang Rongde, cadres of the Pingtung United Alliance Party, being sentenced to 4 years and 6 months under the Anti-Infiltration Act.
 

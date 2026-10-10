@@ -3,8 +3,15 @@ title: "Taisugar: Dari Kerajaan Manis Penopang 74% Devisa Taiwan, hingga 'Tuan T
 description: "Pada 2025, laba bersih setelah pajak Taisugar mencetak rekor baru senilai NT$7,4 miliar, padahal perusahaan berusia seabad ini sudah lama tak lagi mengandalkan penjualan gula. Dari tulang punggung kolonial era pendudukan Jepang hingga urat nadi ekonomi pascaperang, simak bagaimana Taisugar berbalik arah dari tebu, dan mendefinisikan ulang arti 'manis' lewat anggrek, bioteknologi, serta bangunan sirkular."
 date: 2026-05-03
 category: 'Economy'
-tags: ['Taisugar', 'Sejarah Industri Gula', 'Transformasi', 'Ekonomi Sirkular', 'Anggrek Bulan']
-subcategory: 'Profil Perusahaan'
+tags:
+  [
+    'Taisugar',
+    'Sejarah Industri Gula',
+    'Transformasi',
+    'Ekonomi Sirkular',
+    'Anggrek Bulan',
+  ]
+subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-03

@@ -15,6 +15,7 @@ curation: incubating
 translatedFrom: 'Economy/三商.md'
 sourceCommitSha: 'a923e393'
 sourceContentHash: 'sha256:9985c51170111ca8'
+sourceBodyHash: 'sha256:a06f7b884fa31776'
 translatedAt: '2026-08-23T08:47:33+08:00'
 ---
 

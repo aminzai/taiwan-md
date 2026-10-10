@@ -313,10 +313,10 @@ _시후 휴게소 지붕 태양광 패널. 타이완 태양광은 2024년 설비
 - [대만 온천과 지열](/ko/nature/taiwan-hot-springs-and-geothermal-energy) — 청수 지열 1981년 실패에서 2024년 재개까지, 30년의 지열 침묵이 어떻게 형성되었는가
 - [대만 환경 정의와 이웃 배제 논쟁](/ko/society/taiwan-environmental-justice-nimby-conflicts) — 란유, 조개초, 미농: 에너지 전환의 비용 분배 정치
 - [대만 산업 전환과 업그레이드](/ko/economy/industrial-transformation-from-manufacturing-to-innovation) — 고에너지 소비 제조에서 녹색 에너지 산업으로, 타이전 RE100, CBAM, 수호산맥의 에너지 장부
-- [대만 가로수](/lifestyle/台灣行道樹) — 도심 열섬 완화를 위한 거리 나무의 위치와 시간 규모: 그늘을 막기 위해서는 최소한 10년이 필요한데, 이것은 결코 기다릴 수 없는 조정 중 하나이다
+- [대만 가로수](/ko/lifestyle/taiwan-street-trees) — 도심 열섬 완화를 위한 거리 나무의 위치와 시간 규모: 그늘을 막기 위해서는 최소한 10년이 필요한데, 이것은 결코 기다릴 수 없는 조정 중 하나이다
 - [대만 농업 현대화 발전](/ko/economy/taiwan-agricultural-modernization) — 농전 협생 뒤의 농업 전환 압력과 토지 사용 충돌
 - [메이우](/ko/nature/meiyu-stagnant-front) — '봄비가 오지 않고, 메이우가 집중된다'는 기후 변화의 지역적 관찰
-- [대만 유가 체계와 중유](/economy/台灣油價機制與中油) — 화석 연료 보조금과 절약 신호의 긴장: 가격 동결은 가격을 리터당 나누어 저렴하게 유지하며, 더 많이 쓸수록 더 절약하도록 하지만, 이 반년 동안 누가 가장 많이 썼는지에 대한 표는 없었다.
+- [대만 유가 체계와 중유](/ko/economy/taiwan-fuel-pricing-and-cpc) — 화석 연료 보조금과 절약 신호의 긴장: 가격 동결은 가격을 리터당 나누어 저렴하게 유지하며, 더 많이 쓸수록 더 절약하도록 하지만, 이 반년 동안 누가 가장 많이 썼는지에 대한 표는 없었다.
 
 ## 이미지 출처
 

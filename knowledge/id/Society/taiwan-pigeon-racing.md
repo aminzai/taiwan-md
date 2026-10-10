@@ -34,7 +34,7 @@ Membaca artikel ini membutuhkan waktu sekitar 10 menit.
 
 ![Merpati yang pulang. Foto oleh Andreas Trepte, CC BY-SA 2.5.](https://commons.wikimedia.org/wiki/Special:FilePath/Homing_pigeon.jpg)
 
-_Foto: Andreas Trepte, Wikimedia Commons, CC BY-SA 2.5. Halaman lisensi dan berkas asli. Gambar ini adalah tautan lisensi bebas, bukan foto lapangan Taiwan Lomba Merpati._
+_Foto: Andreas Trepte, Wikimedia Commons, CC BY-SA 2.5. Halaman lisensi dan berkas asli. Gambar ini adalah tautan lisensi bebas, bukan foto lapangan Taiwan Lomba Merpati. [授權與原始檔案頁](https://commons.wikimedia.org/wiki/File:Homing_pigeon.jpg)_
 
 Pada pagi 17 November 2024, hampir 90.000 ekor merpati terbang dari laut di luar pelabuhan Keelung, namun hanya 7.712 ekor yang menyelesaikan kualifikasi dalam waktu yang ditentukan, dengan tingkat pulang sebesar 8,6%.[^1] Ini bukanlah kawanan burung yang luas seperti dalam film, tetapi pagi di mana sebuah sistem membagi "pulang" menjadi yang layak dan yang tidak layak.
 
@@ -52,7 +52,7 @@ Pada Lomba Laut Musim Dingin 2024, pemilik merpati memberikan pemain yang telah 
 
 ![Merpati yang sedang terbang. Foto oleh pengguna Wikimedia Commons dengan lisensi CC BY-SA 4.0.](https://commons.wikimedia.org/wiki/Special:FilePath/Picture_of_a_pigeon_flying.jpg)
 
-_Foto: Wikimedia Commons, CC BY-SA 4.0. Halaman berkas asli dan lisensi. Foto ini menunjukkan kondisi penerbangan, bukan rekaman lapangan Lomba Penerbangan Laut Taiwan._
+_Foto: Wikimedia Commons, CC BY-SA 4.0. Halaman berkas asli dan lisensi. Foto ini menunjukkan kondisi penerbangan, bukan rekaman lapangan Lomba Penerbangan Laut Taiwan. [原始檔案與授權頁](https://commons.wikimedia.org/wiki/File:Picture_of_a_pigeon_flying.jpg)_
 
 **Catatan Kurator #1: Cincin Bukan Hiasan**
 _Cincin terpenting dalam lomba merpati bukanlah piala, tetapi cincin. Ia menerjemahkan insting pulang seekor burung menjadi detik yang bisa diterima oleh manusia._
@@ -61,7 +61,7 @@ _Cincin terpenting dalam lomba merpati bukanlah piala, tetapi cincin. Ia menerje
 
 ![Merpati induk dan anak merpati. Foto oleh Hery blur, CC BY-SA 4.0.](https://commons.wikimedia.org/wiki/Special:FilePath/Racing_Pigeon.jpg)
 
-_Foto: Hery blur, Wikimedia Commons, CC BY-SA 4.0. Halaman lisensi dan berkas asli. Foto ini digunakan untuk membandingkan tahapan hidup reproduksi dan pembinaan pemain dalam industri lomba merpati._
+_Foto: Hery blur, Wikimedia Commons, CC BY-SA 4.0. Halaman lisensi dan berkas asli. Foto ini digunakan untuk membandingkan tahapan hidup reproduksi dan pembinaan pemain dalam industri lomba merpati. [授權與原始檔案頁](https://commons.wikimedia.org/wiki/File:Racing_Pigeon.jpg)_
 
 Keunikan sistem Taiwan adalah pesertanya biasanya berusia 4 hingga 8 bulan, dan biasanya seekor merpati hanya mengikuti satu musim lomba. Sebelum lomba resmi, ada kualifikasi, lalu diikuti dengan beberapa penerbangan laut. Jika tidak kembali tepat waktu, merpati dinyatakan tidak lolos, tidak peduli apakah merpati tersebut kemudian menemukan jalan pulangnya sendiri.
 
@@ -86,7 +86,7 @@ Sistem ini juga mendistribusikan risiko ke banyak orang. Pemilik merpati bertang
 
 ![Kandang merpati Batman Park. Foto oleh Nick Carson, Public domain.](https://commons.wikimedia.org/wiki/Special:FilePath/Batman_Park_Pigeon_Loft.JPG)
 
-_Foto: Nick Carson, Wikimedia Commons, Public domain. Halaman berkas asli dan lisensi. Foto ini menampilkan ruang kandang merpati, bukan konfigurasi kandang merpati swasta Taiwan._
+_Foto: Nick Carson, Wikimedia Commons, Public domain. Halaman berkas asli dan lisensi. Foto ini menampilkan ruang kandang merpati, bukan konfigurasi kandang merpati swasta Taiwan. [原始檔案與授權頁](https://commons.wikimedia.org/wiki/File:Batman_Park_Pigeon_Loft.JPG)_
 
 Lomba merpati bukan hanya beberapa menit pada hari pelepasan. Reporter yang mewawancarai pemilik merpati harus memilih jenis, memasangkan, memasang cincin, melatih, dan menyesuaikan pakan selama 4 hingga 8 bulan sebelum lomba. Kandang merpati harus dibersihkan setiap hari, kondisi merpati harus diamati, dan jarak latihan luar ruangan harus diperpanjang secara bertahap.
 

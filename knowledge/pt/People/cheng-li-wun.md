@@ -141,7 +141,7 @@ Então a verdadeira questão não é «Zheng Liwen mudou?», mas sim: **Taiwan m
 
 - [2026 Reunião Zheng-Xi: Dez minutos de reencontro de líderes do Kuomintang e do Partido Comunista após dez anos](/pt/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — O ponto final atual na trajetória da figura de Zheng Liwen, a cena completa da conversa e as reações posteriores
 - [Crise no Estreito de Taiwan e Desenvolvimento das Relações entre os Dois Lados do Estreito](/pt/history/taiwan-strait-crises-and-cross-strait-relations) — A estrutura histórica em que Zheng Liwen estava dez anos antes e dez anos depois, as forças invisíveis que levaram essa figura a Pequim
-- [Ambiente Político de Taiwan e Sistema Eleitoral](/society/台灣政治環境與選舉制度) — Por que «Sou chinês» pôde se tornar o slogan eleitoral da presidência do Partido Nacionalista? A estrutura de membros do partido no sistema eleitoral dá a resposta
+- [Ambiente Político de Taiwan e Sistema Eleitoral](/pt/society/taiwan-political-landscape-and-electoral-system) — Por que «Sou chinês» pôde se tornar o slogan eleitoral da presidência do Partido Nacionalista? A estrutura de membros do partido no sistema eleitoral dá a resposta
 - [Transição Democrática de Taiwan](/pt/history/taiwan-democratization) — O ano em que Zheng Liwen fez greve de fome foi o primeiro após o fim do estado de sítio; para entender seu ponto de partida, é preciso primeiro entender a cultura juvenil daqueles cinco anos de democratização
 - [Ko Wen-je](/pt/people/ko-wen-je) — Outra figura política transversal que foi do verde ao azul (ou do branco ao azul); os caminhos de ambos têm semelhanças e diferenças
 - [Hsiao Bi-khim](/pt/people/hsiao-bi-khim) — Outro protótipo de figura política feminina no mesmo palco de 2026, caminho completamente diferente e visão de Taiwan correspondente
@@ -149,7 +149,7 @@ Então a verdadeira questão não é «Zheng Liwen mudou?», mas sim: **Taiwan m
 - [Chao Jung-tsai](/pt/people/cho-jung-tai) — O principal promotor do Executivo Yuan da compra de armas de NT$ 1,25 triliões, posição oposta à «versão do Partido de NT$ 380 bilhões + N» de Zheng Liwen
 - [Liu Siu-yen](/pt/people/lu-hsiu-yan) — Oponente de Zheng Liwen na eleição para a presidência do Partido Nacionalista de 2025, abriu o canal de entrada de Zheng Liwen após «não concorrer»
 - [Hsu Chiao-hsin](/pt/people/hsu-chiao-hsin) — No meio da controvérsia sobre a compra de armas de 2026, a principal promotora da «versão de NT$ 800 bilhões» que colidiu com a «versão do Partido de NT$ 380 bilhões + N» de Zheng Liwen
-- [Chi Lin-lien](/people/季麟連) — Vice-presidente nomeado por Zheng Liwen em 2026, o protagonista do evento que explodiu a divisão do campo azul no Comitê Central do Partido em 29/04 ao apontar Han Kuo-yu
+- [Chi Lin-lien](/pt/people/ji-lin-lian) — Vice-presidente nomeado por Zheng Liwen em 2026, o protagonista do evento que explodiu a divisão do campo azul no Comitê Central do Partido em 29/04 ao apontar Han Kuo-yu
 
 ## Referências
 

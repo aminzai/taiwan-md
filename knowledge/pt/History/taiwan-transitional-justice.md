@@ -181,7 +181,7 @@ Mas a história de [Zheng Nanrong](/pt/people/zheng-nanrong/) lembra-nos que est
 - [Museu Nacional dos Direitos Humanos](/pt/history/national-human-rights-museum) — Museu criado pelo próprio Estado para memorializar vítimas políticas, inaugurado em 2018, orçamento de 2025 chegou a ser congelado
 - [Terror Branco de Taiwan](/pt/history/taiwan-white-terror) — O corpo histórico visado pela revogação de sentenças
 - [Lei Marcial](/pt/history/martial-law-era) — O recipiente legal de 1949-1987
-- [Incidente 228](/history/二二八事件) — A repressão de 1947 na Taiwan do pós-guerra, outra linha de trabalho da justiça de transição
+- [Incidente 228](/pt/history/228-incident) — A repressão de 1947 na Taiwan do pós-guerra, outra linha de trabalho da justiça de transição
 - [A fatura de 1951 que transformou toda a população em inspetores fiscais](/pt/economy/taiwan-uniform-invoice) — O desenhador da fatura unificada, Ren Xiangqun, atravessou os governos Ma Ying-jeou e Tsai Ing-wen, levou anos a ser reabilitado, um caso concreto do trabalho de justiça de transição
 
 ## Referências

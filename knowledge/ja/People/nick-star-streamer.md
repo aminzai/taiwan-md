@@ -11,7 +11,7 @@ tags:
     'ボクシング',
     'ジェンダーとアイデンティティ',
   ]
-subcategory: 'デジタルとメディア'
+subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20
@@ -25,6 +25,7 @@ readingTime: 8
 translatedFrom: 'People/尼克星.md'
 sourceCommitSha: 'b9ebab71d'
 sourceContentHash: 'sha256:35a900e3d6bcf999'
+sourceBodyHash: 'sha256:ac25e74e87295655'
 translatedAt: '2026-09-11T21:51:27.672208+00:00'
 ---
 
@@ -181,7 +182,7 @@ VS MEDIA Taiwanは翌日に動画で同一トラブルを再整理し、タイ�
 - [『私はバイセクシャル』公式ミュージックビデオ](https://www.youtube.com/watch?v=_Ckw_9TzxdM) — 楽曲ページの制作情報と正式作品としての文脈を読み取る。
 - [Taiwan.md：ネット文化関連カテゴリ](https://taiwan.md/culture/) — 台湾のネット文化のより大きな文脈から延伸して読む。
 
-## 參考資料
+## 参考資料
 
 [^1]: [ニックシン・ボクシング YouTube チャンネル](https://www.youtube.com/@nickstar8) — 作成者の公開チャンネルページで、チャンネル名、動画のテーマ、ライブ配信のハイライトなどの長期的なコンテンツ範囲を示しており、本文におけるその公開クリエイター像の記述を確認するために使用できます。
 

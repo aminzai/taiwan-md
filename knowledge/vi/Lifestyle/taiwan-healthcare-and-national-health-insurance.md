@@ -20,7 +20,7 @@ tags:
     'Dương Chí Lương',
     'Cơ sở dữ liệu bảo hiểm',
   ]
-subcategory: 'Y tế và bảo hiểm'
+subcategory: '醫療與健保'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-04
@@ -202,11 +202,11 @@ _Tòa nhà chính Bệnh viện Đại học Đài Loan. Thành lập 1895, là 
 
 **Đọc thêm**:
 
-- [Luật Y tế](/society/Luật-y-tế) — Luật bảo hiểm quản "Cấp bảo hiểm", Luật y tế quản "Cơ sở"; hai luật pháp tạo thành hai lộ quản lý y tế cấp bảo hiểm và cấp cơ sở
-- [Tiến hóa pháp lý tái sinh y tế Đài Loan và lời thú nhân nhân viên](/society/tiến-hóa-pháp-lý-tái-sinh-y-tế-đài-loan-và-lời-thú-nhân-nhân-viên) — Ngoài biên độ cấp bảo hiểm, pháp lý tái sinh năm 2024 thông qua, là lộ quản lý khác ngoài SOP bảo hiểm
-- [Tranh chấp dùng thuốc động vật Đài Loan](/society/tranh-chấp-dùng-thuốc-động-vật-đài-loan) — Bảo hiểm phủ sóng là người không phải động vật; tranh chấp thuốc thú y là nhóm đối chiếu hệ thống bảo hiểm
-- [Hệ thống y tế thảm họa Đài Loan](/technology/hệ-thống-y-tế-thảm-họa-đài-loan) — Bảo hiểm chịu y tế bình thường, hệ thống y tế thảm họa chịu giai đoạn bất thường; hai hệ thống kết hợp tạo thành quản lý y tế công cộng bình thường và khẩn cấp
-- [Đại dịch Covid Đài Loan và vắc xin](/society/đại-dịch-covid-đài-loan-và-vắc-xin) — Thẻ bảo hiểm năm 2020 được lấy ra để làm hệ thống thực tế mặt nạ, hai tuần thiết lập; cùng cơ sở dữ liệu cũng để dịch tễ học và đặt lịch vắc xin chạy
+- [Luật Y tế](/vi/society/medical-care-act) — Luật bảo hiểm quản "Cấp bảo hiểm", Luật y tế quản "Cơ sở"; hai luật pháp tạo thành hai lộ quản lý y tế cấp bảo hiểm và cấp cơ sở
+- [Tiến hóa pháp lý tái sinh y tế Đài Loan và lời thú nhân nhân viên](/vi/society/taiwan-regenerative-medicine-laws) — Ngoài biên độ cấp bảo hiểm, pháp lý tái sinh năm 2024 thông qua, là lộ quản lý khác ngoài SOP bảo hiểm
+- [Tranh chấp dùng thuốc động vật Đài Loan](/vi/society/taiwan-animal-drug-controversy) — Bảo hiểm phủ sóng là người không phải động vật; tranh chấp thuốc thú y là nhóm đối chiếu hệ thống bảo hiểm
+- [Hệ thống y tế thảm họa Đài Loan](/vi/technology/taiwan-disaster-medicine-system) — Bảo hiểm chịu y tế bình thường, hệ thống y tế thảm họa chịu giai đoạn bất thường; hai hệ thống kết hợp tạo thành quản lý y tế công cộng bình thường và khẩn cấp
+- [Đại dịch Covid Đài Loan và vắc xin](/vi/society/taiwan-covid-pandemic-and-vaccines) — Thẻ bảo hiểm năm 2020 được lấy ra để làm hệ thống thực tế mặt nạ, hai tuần thiết lập; cùng cơ sở dữ liệu cũng để dịch tễ học và đặt lịch vắc xin chạy
 
 ---
 

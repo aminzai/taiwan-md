@@ -11,7 +11,7 @@ tags:
     'chính sách phòng chống dịch bệnh',
     'trợ cấp thiệt hại từ vắc-xin',
   ]
-subcategory: 'Khả năng phục hồi của xã hội'
+subcategory: '社會韌性'
 author: 'Taiwan.md'
 readingTime: 32
 featured: false

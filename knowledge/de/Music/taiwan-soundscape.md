@@ -252,12 +252,12 @@ Der Taiwan Soundscape Association (台灣聲景協會) arbeitet mit dem Minister
 
 **Weiterführende Lektüre:**
 
-- [Klanglandschaft Taiwans](/culture/台灣聲景) — Schwesterbeitrag: Dieselben Klänge, neu betrachtet aus der Perspektive „Wie wir hören“, eine kollaborative Erstellung von Soundscape-Forschern.
+- [Klanglandschaft Taiwans](/de/culture/taiwan-soundscape) — Schwesterbeitrag: Dieselben Klänge, neu betrachtet aus der Perspektive „Wie wir hören“, eine kollaborative Erstellung von Soundscape-Forschern.
 - [🎧 U-Bahn-Klanglandschaft Taiwan Aufnahme](/soundscape) — Audioversion dieses Artikels: 21 Feldaufnahmen von Müllwagen, Tempelfesten, U-Bahnen und Naturklängen zum Anhören online; wir bitten um Ihre Aufnahmen.
-- [Wang Fu-rui](/people/王福瑞) — Die Quelle der Genealogie von Wang Fu-rui, Yao Zhonghan und Chang Yongda, die im Abschnitt „Sound Art“ erwähnt wird – er gründete 1993 das erste experimentelle Musiklabel NOISE in Taiwan.
+- [Wang Fu-rui](/de/people/fujui-wang) — Die Quelle der Genealogie von Wang Fu-rui, Yao Zhonghan und Chang Yongda, die im Abschnitt „Sound Art“ erwähnt wird – er gründete 1993 das erste experimentelle Musiklabel NOISE in Taiwan.
 - [Traditionale indigene Musik Taiwans](/de/music/indigenous-music-traditions) — Traditionelle Klänge wie Pasibutbut der Punu oder Mundharmonika der Paiwan bilden die älteste Schicht der Klanglandschaft Taiwans.
 - [KTV-Kultur Taiwans](/de/music/ktv-culture) — Vom Bühnenauftritt zum Kabinett: KTV ist eine der häufigsten künstlichen Geräuschquellen in der nächtlichen Klanglandschaft Taiwans; das laute Singen von fünf Leuten, das aus dem Kabinett dringt, bildet ein einzigartiges akustisches Muster der taiwanesischen Nacht.
-- [Entwicklung des Hip-Hop und Rap in Taiwan](/music/台灣嘻哈與饒舌發展) — Von den städtischen Kellern zu den KKBOX-Charts: Die Klangtextur des Raps hat die Klangschicht der taiwanesischen Populärmusik verändert.
+- [Entwicklung des Hip-Hop und Rap in Taiwan](/de/music/taiwan-hip-hop-and-rap) — Von den städtischen Kellern zu den KKBOX-Charts: Die Klangtextur des Raps hat die Klangschicht der taiwanesischen Populärmusik verändert.
 
 ---
 

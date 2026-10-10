@@ -4,7 +4,14 @@ description: 'Gewinner der Grammy-Auszeichnung für die beste Albumverpackung; n
 date: 2026-03-19
 category: 'People'
 subcategory: '藝術與設計'
-tags: ['Designer', 'Grammy Awards', 'Albumverpackung', 'Grafikdesign', 'Taiwanesische Kultur']
+tags:
+  [
+    'Designer',
+    'Grammy Awards',
+    'Albumverpackung',
+    'Grafikdesign',
+    'Taiwanesische Kultur',
+  ]
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-19
@@ -12,6 +19,7 @@ lastHumanReview: false
 translatedFrom: 'People/蕭青陽.md'
 sourceCommitSha: '18157ab5d'
 sourceContentHash: 'sha256:f24974c7e35648df'
+sourceBodyHash: 'sha256:269ea0687b8a4a49'
 translatedAt: '2026-08-19T01:11:45+08:00'
 ---
 
@@ -56,14 +64,20 @@ Xiaos Grammy-Gewinn zeigt dem taiwanesischen Designkreis einen Weg auf: Man muss
 ## Referenzen
 
 [^1]: [Offizielle Website der Fuxing-Berufsschule](https://www.fhvs.tp.edu.tw/) — Informationen zur Geschichte der Fu-Hsin Trade and Arts School und zum Kunst- und Handwerkszweig.
+
 [^2]: [Liste der Golden Melody Awards-Gewinner — Ministerium für Kultur, Amt für Film- und Popmusik](https://www.bamid.gov.tw/information_143_64138.html) — Xiaos Auszeichnungsrekorde für die beste Albumverpackung der Golden Melody Awards.
+
 [^3]: [Nominierungsdaten der 47. Grammy-Verleihung — The Recording Academy](https://www.grammy.com/) — bestätigt die erste Nominierung Xiaos 2005 in der Kategorie Best Recording Package.
+
 [^4]: [Nominierungsrekorde der Grammys über die Jahre — Grammy.com](https://www.grammy.com/) — vollständiger Rekord der sieben Nominierungen Xiao Qing-yangs.
+
 [^5]: [Bekanntgabe der Gewinner der 65. Grammy-Verleihung — The Recording Academy](https://www.grammy.com/news/2023-grammy-awards-complete-winners-nominations-list) — bestätigt Xiaos und Hsiao Chun-tiens Gewinn des Best Recording Package für „Beginningless Beginning“.
+
 [^6]: [Taiwan Design Research Institute — Talentdatenbank](https://www.tdri.org.tw/) — Hintergrundmaterial zu Xiaos interdisziplinären Design-Kooperationen und Studio.
+
 [^7]: [Künstlerdatenbank des Kulturministeriums](https://artist.moc.gov.tw/) — Xiaos persönlicher Schaffenshintergrund und nationale/internationale Auszeichnungsrekorde.
 
 ## Weiterführende Lektüre
 
 - [Bisherige Gewinner des Grammy Best Recording Package — Grammy.com](https://www.grammy.com/) — Nominierungs- und Gewinnerliste der besten Albumverpackung über die Jahre
-- [Lim Giong](/people/林強) — der taiwanesische Musiker, mit dem Xiao Qing-yang in seinen frühen Jahren zusammenarbeitete
+- [Lim Giong](/de/people/lim-giong) — der taiwanesische Musiker, mit dem Xiao Qing-yang in seinen frühen Jahren zusammenarbeitete

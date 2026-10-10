@@ -175,7 +175,7 @@ Isto não é ódio; é um livro-razão. O dia em que o Terror Branco terminou n�
 - [Museu Nacional dos Direitos Humanos](/pt/history/national-human-rights-museum) — Instituição dos parques comemorativos do Terror Branco em Jingmei e Green Island, desde o planejamento de seis anos até o congelamento orçamentário em 2025
 - [Incidente de 228](/pt/history/228-incident) — O prelúdio do Terror Branco; como a repressão de 1947 anunciou o sistema de estado de sítio
 - [Incidente de Kaohsiung](/pt/history/kaohsiung-incident-formosa-incident) — Um ponto de virada importante no final do Terror Branco em 1979
-- [Academia Sinica](/society/中央研究院) — A instituição que publicou as entrevistas orais "Memória Branca" pelo Instituto de História de Taiwan, e o momento em que ela voltou seu foco para esta ilha
+- [Academia Sinica](/pt/society/academia-sinica) — A instituição que publicou as entrevistas orais "Memória Branca" pelo Instituto de História de Taiwan, e o momento em que ela voltou seu foco para esta ilha
 - [Alishan: O Plantio Imperial e a Montanha de Kao Yi-sheng](/pt/history/alishan-empire-forest-and-uongu-yatauyungana) — A montanha de Kao Yi-sheng e a história dos povos silenciados
 - [Recibo: O papel de 1951 que transformou todos em fiscais tributários](/pt/economy/taiwan-uniform-invoice) — O próprio projetista do sistema de recibos, Ren Hsien-ch'un, viveu na mesma época e foi preso em 1955 por "não denunciar o inimigo", um chapéu suficiente para ser fatal
 - [Yin Hai-guang](/pt/people/yin-haiguang-liberalism-philosopher) — O professor do Departamento de Filosofia da Universidade Nacional de Taiwan, que foi mantido sob prisão domiciliar na Rua 18 de Wenzhou após o Caso Lei Zhen em 1960, um dos fundadores do liberalismo taiwanês

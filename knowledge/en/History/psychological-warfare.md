@@ -15,7 +15,7 @@ tags:
     'cross-strait relations',
     'Voice of Free China',
   ]
-subcategory: 'Media and Speech'
+subcategory: '媒體與言論'
 author: 'Taiwan.md Contributors'
 category: 'History'
 readingTime: 8

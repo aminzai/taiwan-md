@@ -139,10 +139,10 @@ Akumulasi 12 tahun sebuah platform pinggiran lebih penting daripada "kelangsunga
 ## Bacaan Lanjutan
 
 - [Taiwan Kurator dan Konstruksi Seni Budaya](/id/art/taiwanese-curators-and-artistic-cultural-construction) — Perkembangan wacana dan tren visualisasi generasi kurator Taiwan seperti Gao Senxin (Editor Penasihat NML)
-- [Seni Media Baru Taiwan](/art/台灣新媒體藝術) — Sejarah seni digital empat puluh tahun dari video Yuan Guangming hingga VR, seni generatif, jalur kritik Zheng Wenqi berjalan paralel dengan garis utama ini
-- [Lanskap Suara Taiwan](/music/台灣聲音地景) — Seniman suara Wang Furu, Yao Zhonghan, Zhang Yongda, dll., sebagian besar karya mereka dikomentari secara mendalam oleh kategori Sound Scene _Digital Wasteland_
-- [Seni Kontemporer](/art/當代藝術) — Tingkat konseptual ekologi seni kontemporer Taiwan secara keseluruhan, melengkapi peta wacana lengkap setelah kerangka kepulauan Zheng Wenqi ditambahkan
-- [Seni Kontemporer Penduduk Asli Taiwan](/art/台灣原住民當代藝術) — Bidang yang较少 disentuh NML, saat membaca dapat dibandingkan dengan hipotesis "tanah air rumpun Austronesia" dan potensi persilangan dengan kerangka kepulauan
+- [Seni Media Baru Taiwan](/id/art/taiwan-new-media-art) — Sejarah seni digital empat puluh tahun dari video Yuan Guangming hingga VR, seni generatif, jalur kritik Zheng Wenqi berjalan paralel dengan garis utama ini
+- [Lanskap Suara Taiwan](/id/music/taiwan-soundscape) — Seniman suara Wang Furu, Yao Zhonghan, Zhang Yongda, dll., sebagian besar karya mereka dikomentari secara mendalam oleh kategori Sound Scene _Digital Wasteland_
+- [Seni Kontemporer](/id/art/contemporary-art) — Tingkat konseptual ekologi seni kontemporer Taiwan secara keseluruhan, melengkapi peta wacana lengkap setelah kerangka kepulauan Zheng Wenqi ditambahkan
+- [Seni Kontemporer Penduduk Asli Taiwan](/id/art/contemporary-indigenous-art-taiwan) — Bidang yang较少 disentuh NML, saat membaca dapat dibandingkan dengan hipotesis "tanah air rumpun Austronesia" dan potensi persilangan dengan kerangka kepulauan
 
 ## Referensi
 

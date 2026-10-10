@@ -4,7 +4,7 @@ description: '2012年以降、前総統馬英九の発言や行動が台湾の�
 date: 2026-04-21
 category: 'Society'
 tags: ['馬英九', 'ミーム', '政治', 'ネット文化', '台湾', '社会', '文化']
-subcategory: 'メディアと言論'
+subcategory: '媒體與言論'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-21
@@ -145,7 +145,7 @@ translatedAt: '2026-06-12T03:51:13+08:00'
 ## 関連記事
 
 - [馬英九](/ja/people/ma-ying-jeou-cross-strait-reconciliation-leader) — ミームの主役の本編：台湾海峡ブレーカー、22K世代の象徴。ミームの背景にある政治的文脈を理解する
-- [台湾ミーム](/culture/台湾ミーム) — 台湾のミーム生態系総覧：PTTネットユーザー百科、おじさんおばさんグラフィック、VTuberなど、異なるミームタイプの進化の軌跡
+- [台湾ミーム](/ja/culture/taiwan-meme-culture) — 台湾のミーム生態系総覧：PTTネットユーザー百科、おじさんおばさんグラフィック、VTuberなど、異なるミームタイプの進化の軌跡
 - [おじさんおばさんグラフィック](/ja/culture/elder-greeting-images) — 政治的ミーム伝播のもう一つの経路：LINEグループから拡散される視覚的な政治言語
 
 ## 出典

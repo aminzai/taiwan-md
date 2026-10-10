@@ -34,6 +34,7 @@ relatedDiary: ['2026-07-16-213425-highered-evolve']
 translatedFrom: 'Society/台灣高等教育擴張與退場.md'
 sourceCommitSha: 'fa44ba5a9'
 sourceContentHash: 'sha256:75def73de8a38979'
+sourceBodyHash: 'sha256:fc5314c473c1914f'
 translatedAt: '2026-09-24T02:26:06.763419+00:00'
 ---
 
@@ -232,7 +233,7 @@ Pintu terbuka, Taiwan telah menghabiskan sepuluh tahun. Belajarlah cara menutup 
 - [Krisis Kependekin Anak di Taiwan](/id/society/taiwan-low-birth-rate-crisis) — Dinding populasi yang menumbangkan universitas, bagaimana terbentuknya dan kemana arahnya
 - [Sistem Pendidikan dan Budaya Masuk ke Perguruan Tinggi](/id/society/education-system-and-admissions-culture) — Pintu masuk ujian nasional dan budaya kompetisi, penguatan universitas yang ingin melegakan justru menargetkan ini
 - [Kemiskinan Belajar](/id/society/learning-poverty-in-taiwan) — Setelah pendidikan menjadi umum, di mana sebenarnya kesenjangan belajar yang sejati tersembunyi
-- [Akademi Ilmu Pengetahuan Taiwan](/society/中央研究院) — Lembaga yang tidak perlu menerima mahasiswa atau mengajar, dengan dasar hukum tertulis langsung di Undang-Undang Organisasi Presiden, serta rasa kehampaan relatif yang dirasakan di ujung universitas "mengapa ia layak"
+- [Akademi Ilmu Pengetahuan Taiwan](/id/society/academia-sinica) — Lembaga yang tidak perlu menerima mahasiswa atau mengajar, dengan dasar hukum tertulis langsung di Undang-Undang Organisasi Presiden, serta rasa kehampaan relatif yang dirasakan di ujung universitas "mengapa ia layak"
 
 ## Sumber Gambar
 

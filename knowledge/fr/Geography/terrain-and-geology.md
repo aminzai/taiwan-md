@@ -11,7 +11,7 @@ tags:
     séismes,
     sources thermales,
   ]
-subcategory: 'Climat et sources thermales'
+subcategory: '氣候與溫泉'
 category: 'Geography'
 author: 'Taiwan.md'
 readingTime: 8

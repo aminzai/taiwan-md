@@ -4,7 +4,7 @@ description: 'Kisah YouTuber asal Belgia, Ceylan, yang tinggal, mengomentari, da
 date: 2026-08-19
 category: 'People'
 tags: ['Ceylan', 'Ceylan', 'YouTuber', 'Budaya internet', 'Taiwan']
-subcategory: 'Digital dan Media'
+subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-19
@@ -19,6 +19,7 @@ curation: 'incubating'
 translatedFrom: 'People/Ceylan.md'
 sourceCommitSha: '6cb632bab'
 sourceContentHash: 'sha256:f1296fe6fee14759'
+sourceBodyHash: 'sha256:750dbd2ead7f4c90'
 translatedAt: '2026-09-11T22:54:25.030554+00:00'
 ---
 

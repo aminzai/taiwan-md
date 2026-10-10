@@ -4,7 +4,7 @@ description: 'أدت مراحل إصلاح الأراضي الثلاثة في خ
 date: 2026-08-14
 category: 'History'
 subcategory: '經濟發展史'
-tags: ['إصلاح الأراضي، الفلاح يملك أرضه، الريف، المعجزة الاقتصادية']
+tags: ['إصلاح الأراضي', 'الفلاح يملك أرضه', 'الريف', 'المعجزة الاقتصادية']
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-14

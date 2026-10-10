@@ -197,7 +197,7 @@ Next time you go to Keelung, don't just visit Miaokou. Try leaving Taipei at 3:3
 - [Yehliu](/en/geography/yehliu-geopark) — Part of the same North Coast geological landscape belt
 - [Taiwan Coastal Terrain and Marine Landscapes](/en/geography/taiwan-coastal-landforms-and-seascapes) — The formation of Keelung Islet and the Keelung Volcanic Group
 - [Chiayi City](/en/geography/chiayi-city) — Another medium-sized provincial city in the 22 Counties and Cities Series, also a city suppressed by the capital framework — comparing two different fault lines
-- [Lienchiang County](/geography/連江縣) — 22 Counties and Cities Series: the Taiwan-Matsu ferry rocks from Keelung Port to Nangan for 8 to 10 hours; Keelung is the physical link between Matsu and the Taiwan mainland
+- [Lienchiang County](/en/geography/lienchiang-county) — 22 Counties and Cities Series: the Taiwan-Matsu ferry rocks from Keelung Port to Nangan for 8 to 10 hours; Keelung is the physical link between Matsu and the Taiwan mainland
 - [Miaoli County](/en/geography/miaoli-county) — 22 Counties and Cities Series: Hakka stubbornness vs. the five-star county magistrate paradox — placed alongside Keelung's "invisible to the capital" as two local political portraits
 - [Penghu County](/en/geography/penghu-county) — 22 Counties and Cities Series: an outlying island that twice rejected gambling sovereignty choices — like Keelung, a forgotten port of departure
 - [Yilan County](/en/geography/yilan-county) — 22 Counties and Cities Series: two Yilans, before and after the Hsuehshan Tunnel — like Keelung, facing the fate of being "too close to the capital"

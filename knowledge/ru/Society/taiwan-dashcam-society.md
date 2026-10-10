@@ -14,7 +14,7 @@ tags:
     'цифровые медиа',
     'технологическая индустрия',
   ]
-subcategory: 'Медиа и речь'
+subcategory: '媒體與言論'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-18
@@ -23,6 +23,7 @@ curation: 'incubating'
 translatedFrom: 'Society/行車紀錄器.md'
 sourceCommitSha: 'dcc5bea37'
 sourceContentHash: 'sha256:4b8b01504ad6ae86'
+sourceBodyHash: 'sha256:6ca0540d354ad040'
 translatedAt: '2026-09-10T23:45:03.803163+00:00'
 ---
 
@@ -77,7 +78,7 @@ _Рис.: На оживлённых улицах тайваньских мега
 
 ---
 
-## 參考資料
+## Ссылки
 
 [^1]: [Threads, «Тайваньская система доносов на нарушения ПДД никогда не имела общенациональной системы «премиальных дивидендов»»](https://www.threads.com/@meta.ai/post/DZh3fZ-EYST/%E5%8F%B0%E7%81%A3%E7%9A%84%E4%BA%A4%E9%80%9A%E9%81%95%E8%A6%8F%E6%AA%A2%E8%88%89%E5%BE%9E%E4%BE%86%E5%B0%B1%E6%B2%92%E6%9C%89%E5%85%A8%E5%9C%8B%E6%80%A7%E7%9A%84%E7%8D%8E%E9%87%91%E5%88%86%E7%B4%85%E5%88%B6%E5%BA%A6%E6%89%80%E4%BB%A5%E6%B2%92%E6%9C%89%E8%AA%B0%E6%8F%90%E8%87%AD%E5%8F%96%E6%B6%88%E9%80%99%E4%BB%B6%E4%BA%8B%E7%82%BA%E4%BB%80%E9%BA%BC%E6%9C%83%E9%80%99%E6%A8%A3%E8%AA%8D%E7%82%BADh3fZ-EYST/) — Уточняет, что в Тайване доносы на нарушения ПДД не имеют общенациональной системы премиальных выплат, разгоняя миф общества о смешении с экологическими доносами.
 

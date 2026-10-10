@@ -16,7 +16,7 @@ tags:
     'Künstliche Intelligenz',
     'Computex',
   ]
-subcategory: 'Halbleiter und Hardware'
+subcategory: '半導體與硬體'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-22
@@ -27,6 +27,7 @@ image: '/article-images/technology/computex-jensen-huang-2016.webp'
 translatedFrom: 'Technology/NVIDIA在台灣.md'
 sourceCommitSha: '0df538d8c'
 sourceContentHash: 'sha256:a7a044b9c6def84a'
+sourceBodyHash: 'sha256:5412b8ae390af1fa'
 translatedAt: '2026-09-19T00:01:17.230082+00:00'
 ---
 
@@ -275,13 +276,13 @@ Die Namen an der Wand nehmen zu. Wer den Stift hält, wird es selbst sein – un
 
 - [Jensen Huang: Vom Jungen, der Toiletten putzte, zum CEO eines Fünf-Billionen-Imperiums](/de/people/jensen-huang) — Die Lebensgeschichte des Gründers von NVIDIA; dieser Artikel behandelt nur kurz seine Familie in Tainan und seine Geschichte
 - [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Warum Taiwan zum Zentrum der globalen Chipfertigung geworden ist; die Lieferkette wird hier noch vollständiger beleuchtet
-- [Taiwanische Unternehmen: TSMC](/economy/台灣企業：台積電) — Der „Schutzheilige“, der jeden Chip für NVIDIA herstellt, und die andere Seite, die ausgebeutet wird
+- [Taiwanische Unternehmen: TSMC](/de/economy/tsmc) — Der „Schutzheilige“, der jeden Chip für NVIDIA herstellt, und die andere Seite, die ausgebeutet wird
 - [Morris Chang: Die Empfängerin dieses Briefes und das von ihm geschaffene Wafer-Imperium](/de/people/tsmc-morris-chang) — Der Gründer von TSMC, der 1996 den Brief von Jensen Huang erhielt
 - [Computex: Das Computer-Messe in Taipei wird zur Eröffnungszeremonie für die globale KI](/de/technology/computex) — Die Bühne, auf der diese Logo-Wand leuchtet; das jährliche Schauplatz der taiwanesischen Technologieindustrie
 - [Industrie Künstliche Intelligenz](/de/technology/artificial-intelligence-industry) — Von der Herstellung von NVIDIA-Chips bis zum Aufbau des KI-Ökosystems: Taiwans Platz in der KI-Welle
-- [Taiwanische KI-Entwicklung und zukünftige Strategie](/technology/台灣人工智慧發展與未來策略) — Souveräne KI, TAIDE und das nationale Bestreben Taiwans, von der Auftragsfertigung aufzusteigen
-- [Taiwanesische Tech-Geschichten: 100 Punkte Chip, 60 Punkte Mikrofon](/de/technology/taiwan-tech-stories) — Zwei Erzählungen desselben Chips: Der Aufschlag, den NVIDIA verdient, und was die taiwanesische Technologie lernen muss
-- [Taiwanische Unternehmen: Foxconn Precision](/economy/台灣企業：鴻海精密) — Der Gigant der Auftragsfertigung, der 40 % der globalen KI-Server montiert; die größten Hände am unteren Ende der Lächelnkurve
+- [Taiwanische KI-Entwicklung und zukünftige Strategie](/de/technology/artificial-intelligence-development-strategy) — Souveräne KI, TAIDE und das nationale Bestreben Taiwans, von der Auftragsfertigung aufzusteigen
+- [Taiwanesische Tech-Geschichten: 100 Punkte Chip, 60 Punkte Mikrofon](/de/technology/taiwan-tech-storytelling) — Zwei Erzählungen desselben Chips: Der Aufschlag, den NVIDIA verdient, und was die taiwanesische Technologie lernen muss
+- [Taiwanische Unternehmen: Foxconn Precision](/de/economy/foxconn-precision-industry) — Der Gigant der Auftragsfertigung, der 40 % der globalen KI-Server montiert; die größten Hände am unteren Ende der Lächelnkurve
 
 ## Bildquellen
 

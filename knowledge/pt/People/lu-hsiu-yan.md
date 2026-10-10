@@ -201,8 +201,8 @@ E a pergunta — se ela deve sair de Taichung ou continuar ficando em casa — e
 - [Cheng Li-wen](/pt/people/cheng-li-wun) — Eleita 12ª presidente do KMT em outubro de 2025 com 50,15%. A "não-candidatura" de Lu abriu sua porta de entrada
 - [Han Kuo-yu](/pt/people/han-kuo-yu) — Outro polo da onda Han de 2018, virou azul no mesmo ano que Lu; 2024 presidente do Legislativo, um dos "3+1" para 2028
 - [Cho Jung-tai](/pt/people/cho-jung-tai) — Primeiro-ministro do governo Lai Ching-te, principal articulador do orçamento de 1,25 trilhão para compras militares, contraparte política do intervalo "800 bilhões-1 trilhão" de Lu
-- [Defesa e modernização militar de Taiwan](/society/台灣國防與軍事現代化) — Contexto completo da disputa do orçamento de 1,25 trilhão, drones, poder assimétrico, pano de fundo político da visita de Lu em 2026
-- [Justiça ambiental e conflitos NIMBY em Taiwan](/society/台灣環境正義與鄰避爭議) — Estrutura NIMBY por trás da usina de Taichung, PM2.5, transição energética; o campo de batalha político que Lu venceu em 2018 com a pauta do ar
+- [Defesa e modernização militar de Taiwan](/pt/society/taiwan-defense-modernization) — Contexto completo da disputa do orçamento de 1,25 trilhão, drones, poder assimétrico, pano de fundo político da visita de Lu em 2026
+- [Justiça ambiental e conflitos NIMBY em Taiwan](/pt/society/taiwan-environmental-justice-nimby-conflicts) — Estrutura NIMBY por trás da usina de Taichung, PM2.5, transição energética; o campo de batalha político que Lu venceu em 2018 com a pauta do ar
 
 ## Referências
 

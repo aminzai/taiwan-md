@@ -4,7 +4,7 @@ description: '2026년 4월 29일, 중국 국대판 대변인 천빈화(陳斌華
 date: 2026-04-30
 author: 'Taiwan.md'
 category: 'Society'
-subcategory: '국제관계'
+subcategory: '國際關係'
 tags:
   ['독감마 감자', '식안', '인지전', '양안관계', 'ART 협정', '솔라닌', 'CIPC']
 lastVerified: 2026-04-30
@@ -330,7 +330,7 @@ framing chain은 '공산당 주문 → 국민당 확산 → 미디어 확대'보
 - **Hero**: [Children gathering potatoes on a large farm, vicinity of Caribou, Aroostook County, Me. Schools do not open until the potatoes are harvested](https://commons.wikimedia.org/wiki/File:Children_gathering_potatoes_on_a_large_farm,_vicinity_of_Caribou,_Aroostook_County,_Me._Schools_do_not_open_until_the_potatoes_are_harvested_LCCN2017877412.jpg) — US Farm Security Administration/Office of War Information / 1940 / Public Domain (PD-USGov, NARA / Library of Congress FSA-OWI Collection)
 - **Inline §200ppm 단락**: [Solanine.svg](https://commons.wikimedia.org/wiki/File:Solanine.svg) — Public Domain (simple structural formula, ineligible for copyright; via Wikimedia Commons)
 
-## 參考資料
+## 참고 자료
 
 [^1]: [자유時報: 중국 국대판 "독감마 감자" 대만 식탁에 올렸다, 국대판 맹렬히 비판: 삼사사사할 필요 없다](https://news.ltn.com.tw/news/politics/breakingnews/5420147) — 2026-04-29 국대판 대변인 천빈화 원어 완전 전술(다원 비교: 대공문회, Newtalk, ETtoday verbatim 일치).
 

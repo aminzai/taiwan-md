@@ -14,6 +14,7 @@ curation: 'incubating'
 translatedFrom: 'Culture/台灣獸迷文化.md'
 sourceCommitSha: '4a95859b1'
 sourceContentHash: 'sha256:623ca6c131e6b41f'
+sourceBodyHash: 'sha256:3e6fa91c9ef25405'
 translatedAt: '2026-09-19T19:38:26.968663+00:00'
 ---
 

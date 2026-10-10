@@ -16,7 +16,7 @@ tags:
     'Takao Festival',
   ]
 category: Music
-subcategory: 'Indie and Rock'
+subcategory: '獨立與搖滾'
 author: 'Taiwan.md'
 featured: true
 readingTime: 14min

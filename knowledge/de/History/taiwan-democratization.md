@@ -175,16 +175,16 @@ Vom Abschiedsbrief zur Kontroll-Yuan-Präsidentin – einundvierzig Jahre. Das i
 
 **Weiterführende Literatur**:
 
-- [28. Februar-Zwischenfall](/history/二二八事件) – Wie das Trauma von 1947 zum Ursprung des taiwanesischen Demokratiebewusstseins wurde
-- [Taiwans Weißer Terror](/history/台灣白色恐怖) – Politische Fälle und Menschenrechtsverletzungen während der achtunddreißig Jahre Kriegsrecht im Überblick
-- [Kriegsrechtszeit](/history/戒嚴時期) – Rechtsgrundlage und soziale Kontrollmechanismen der längsten Kriegsrechtsverordnung der Welt
-- [Kaohsiung-Zwischenfall](/history/美麗島事件) – Vollständiger Ablauf und historische Auswirkungen des Kaohsiung-Ereignisses 1979
-- [Taiwans Wahlen und Parteipolitik](/history/台灣選舉與政黨政治) – Entwicklung des Wahlsystems von der Zehntausend-Jahre-Nationalversammlung bis zu vier Parteiewechslern
+- [28. Februar-Zwischenfall](/de/history/228-incident) – Wie das Trauma von 1947 zum Ursprung des taiwanesischen Demokratiebewusstseins wurde
+- [Taiwans Weißer Terror](/de/history/taiwan-white-terror) – Politische Fälle und Menschenrechtsverletzungen während der achtunddreißig Jahre Kriegsrecht im Überblick
+- [Kriegsrechtszeit](/de/history/martial-law-era) – Rechtsgrundlage und soziale Kontrollmechanismen der längsten Kriegsrechtsverordnung der Welt
+- [Kaohsiung-Zwischenfall](/de/history/kaohsiung-incident-formosa-incident) – Vollständiger Ablauf und historische Auswirkungen des Kaohsiung-Ereignisses 1979
+- [Taiwans Wahlen und Parteipolitik](/de/history/taiwan-elections-and-party-politics) – Entwicklung des Wahlsystems von der Zehntausend-Jahre-Nationalversammlung bis zu vier Parteiewechslern
 - [Taiwan-Zukunfts-Resolution](/de/history/resolution-on-taiwans-future) – Wie die DPP 1999 mit einem bewusst mehrdeutigen Dokument ihren Kurswechsel vollzog und so den ersten Parteiewechsler 2000 ermöglichte
-- [Taiwans Transitional Justice](/history/台灣轉型正義) – Wie die Gesellschaft nach der Demokratisierung mit den historischen Traumata der autoritären Zeit umgeht
-- [Groß-Abmahnung](/history/大罷免) – 2025 drei Abstimmungswellen, 33 Fälle, alle gescheitert: die größte Abwahlwelle der Geschichte testet die Grenzen und Kosten direkter Demokratie-Instrumente nach dem demokratischen Wandel
-- [Sonnenblumen-Bewegung](/society/太陽花學運) – Vollständige Chronik der Parlamentsbesetzung 2014, von den dreißig Sekunden bis zur wirtschaftlichen Entkopplung zwölf Jahre später
-- [2026 Xi-Zheng-Treffen: Zehn Minuten, zehn Jahre später](/society/2026鄭習會與國共十年再會) – Warum AIT betont, „mit gewählten Führungskräften zu sprechen“ – das Fundament dieses Prinzips liegt in dieser Demokratisierungsgeschichte
+- [Taiwans Transitional Justice](/de/history/taiwan-transitional-justice) – Wie die Gesellschaft nach der Demokratisierung mit den historischen Traumata der autoritären Zeit umgeht
+- [Groß-Abmahnung](/de/history/great-recall-movement-2024) – 2025 drei Abstimmungswellen, 33 Fälle, alle gescheitert: die größte Abwahlwelle der Geschichte testet die Grenzen und Kosten direkter Demokratie-Instrumente nach dem demokratischen Wandel
+- [Sonnenblumen-Bewegung](/de/society/sunflower-movement) – Vollständige Chronik der Parlamentsbesetzung 2014, von den dreißig Sekunden bis zur wirtschaftlichen Entkopplung zwölf Jahre später
+- [2026 Xi-Zheng-Treffen: Zehn Minuten, zehn Jahre später](/de/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) – Warum AIT betont, „mit gewählten Führungskräften zu sprechen“ – das Fundament dieses Prinzips liegt in dieser Demokratisierungsgeschichte
 - [Chou Tzu-yu](/de/people/tzuyu) – Das 90-Sekunden-Entschuldigungsvideo vor der Wahl 2016, der schwerste Moment von Taiwans drittem Parteiewechsler
 
 ## Quellen

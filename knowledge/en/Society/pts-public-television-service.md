@@ -182,7 +182,7 @@ Perhaps the next 28 years will provide an answer. Perhaps not. But one thing pub
 - [Taiwan Animation Outsourcing](/en/economy/taiwan-creator-economy) — A comparison with the commercial IP industry, and the different logic behind public television's choice of animation themes
 - [Traditional Festivals and Celebrations](/en/culture/traditional-festivals-and-celebrations) — The long-term contribution of the public television documentary _Documentary Viewpoint_ to preserving Taiwan's cultural memory
 - [Taiwan Design Research Institute](/en/society/taiwan-design-research-institute) — Another quasi-governmental organization walking a tightrope between "being seen" and publicity, turning design into a way for the government to serve the people
-- [Golden Bell Awards](/culture/金鐘獎) — From _Once_ in 2000 to 60 nominations at the 61st ceremony, how public television is listed alongside its affiliations with broadcast and nomination quotas
+- [Golden Bell Awards](/en/culture/golden-bell-awards) — From _Once_ in 2000 to 60 nominations at the 61st ceremony, how public television is listed alongside its affiliations with broadcast and nomination quotas
 
 ## Image Sources
 

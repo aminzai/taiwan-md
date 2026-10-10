@@ -154,7 +154,7 @@ Francia obtuvo Vietnam. La corte Qing conservó Taiwán. 600 soldados franceses 
 
 [^15]: [Story StoryStudio: Extrayendo las palabras íntimas de los personajes históricos de diarios y cartas](https://storystudio.tw/article/watch-Taiwan-NMTH/from-bottom-of-their-heart) — Diario del comerciante británico de té John Dodd, 1 de diciembre de 1884. Citado en la exposición especial "Impresiones de Xīzǎifǎn" del Museo de Historia de Taiwán.
 
-[^16]: [Pescadores campaign (1885), Wikipedia](<https://en.wikipedia.org/wiki/Pescadores_campaign_(1885)>) — Franceses tomaron Penghu en marzo de 1885. El cólera estalló tras el desembarco; 15 muertos y 20 hospitalizados en tres semanas.
+[^16]: [Pescadores campaign (1885), Wikipedia](https://en.wikipedia.org/wiki/Pescadores_campaign_(1885) — Franceses tomaron Penghu en marzo de 1885. El cólera estalló tras el desembarco; 15 muertos y 20 hospitalizados en tres semanas.
 
 [^17]: [Amédée Courbet, Wikipedia](https://en.wikipedia.org/wiki/Am%C3%A9d%C3%A9e_Courbet) — Courbet murió de cólera el 11 de junio de 1885 a bordo de su buque insignia Bayard. Ya padecía disentería grave desde abril; su estado se deterioró rápidamente tras asistir al funeral de su subordinado el 8 de junio.
 
@@ -168,7 +168,7 @@ Francia obtuvo Vietnam. La corte Qing conservó Taiwán. 600 soldados franceses 
 
 [^22]: [Liu Mingchuan, Wikipedia](https://zh.wikipedia.org/wiki/%E5%8A%89%E9%8A%98%E5%82%B3) — En 1885, Taiwán se separó de la provincia de Fujian y se convirtió en la vigésima provincia del imperio Qing. Liu Mingchuan fue nombrado primer gobernador provincial de Taiwán, en funciones de 1885 a 1891.
 
-[^23]: [Ferrocarril de Taiwán (dinastía Qing), Wikipedia](<https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E9%90%B5%E8%B7%AF_(%E6%B8%85%E6%9C%9D)>) — El ferrocarril Keelung-Hsinchu tenía una longitud aproximada de 107 km; las obras comenzaron en 1887 y la línea completa se inauguró en 1893. Véase también [Commonwealth Magazine: El gran sueño de modernización de Liu Mingchuan](https://www.cw.com.tw/article/5026963).
+[^23]: [Ferrocarril de Taiwán (dinastía Qing), Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E9%90%B5%E8%B7%AF_(%E6%B8%85%E6%9C%9D) — El ferrocarril Keelung-Hsinchu tenía una longitud aproximada de 107 km; las obras comenzaron en 1887 y la línea completa se inauguró en 1893. Véase también [Commonwealth Magazine: El gran sueño de modernización de Liu Mingchuan](https://www.cw.com.tw/article/5026963).
 
 [^24]: [Taipei Times: Exhuming French History in Taiwan (2001)](https://www.taipeitimes.com/News/feat/archives/2001/11/15/111666) — Cementerio militar francés de Keelung: aproximadamente 600 personas, incluidos 120 muertos en combate, 150 fallecidos por heridas y el resto por enfermedad. El investigador Christophe Rouil corrigió la cifra del monumento de 700 a aproximadamente 600. Véase también [Atlas Obscura](https://www.atlasobscura.com/places/sino-french-war-memorial-park).
 

@@ -228,15 +228,15 @@ Karya paling terkenal bukan 〈Ophelia〉, bukan 〈彼個所在〉, bukan dua p
 **Baca Lanjutan**：
 
 - [Lu Guang-zhong (盧廣仲)](/id/people/crowd-lu-indie-folk-treasure) — Ekosistem musik independen Mandarin yang sama demonstrasi lain "tidak merah tapi dapat penghargaan", sama jalan "karya prioritas, terekspos kedua"
-- [Lin You-jia (林宥嘉)](/people/林宥嘉) — Jalur lain dari talent show masuk Anugerah Lagu Emas, bikin profesionalitas panggung sampai ekstrem penyanyi pria
+- [Lin You-jia (林宥嘉)](/id/people/yoga-lin) — Jalur lain dari talent show masuk Anugerah Lagu Emas, bikin profesionalitas panggung sampai ekstrem penyanyi pria
 - [Jay Chou (周杰倫)](/id/people/jay-chou) — Ujung spektrum pop Mandarin: sistem superstar vs penyanyi tipe karya independen
 - [Jolin Tsai (蔡依林)](/id/people/jolin-tsai) — Cara lain penyanyi wanita bangun suara, kasus lawan Waa Wei
-- [Anugerah Lagu Emas (金曲獎)](/music/金曲獎) — Panggung koordinat Waa Wei dua kali dapat Penyanyi Wanita Mandarin Terbaik
-- [Pop Taiwan (台灣流行音樂)](/music/台灣流行音樂) — Lingkungan industri pop Mandarin
+- [Anugerah Lagu Emas (金曲獎)](/id/music/pop-music-and-golden-melody-awards) — Panggung koordinat Waa Wei dua kali dapat Penyanyi Wanita Mandarin Terbaik
+- [Pop Taiwan (台灣流行音樂)](/id/music/golden-melodies-legacy-taiwan-pop-music) — Lingkungan industri pop Mandarin
 - [Musik Independen Taiwan (台灣獨立音樂)](/id/music/indie-music-scene) — Dari Natural Q ke 2020-an Anugerah Lagu Emas mainstream batas
-- [Rainie Yang (楊丞琳)](/people/楊丞琳) — Kontras struktural "pasar vs akademi" segen: Rainie Yang punya 45 Anugerah Golden Bell tapi tidak pernah dapat Anugerah Lagu Emas, Waa Wei dua Anugerah Lagu Emas Penyanyi Wanita Mandarin Terbaik
+- [Rainie Yang (楊丞琳)](/id/people/rainie-yang) — Kontras struktural "pasar vs akademi" segen: Rainie Yang punya 45 Anugerah Golden Bell tapi tidak pernah dapat Anugerah Lagu Emas, Waa Wei dua Anugerah Lagu Emas Penyanyi Wanita Mandarin Terbaik
 - [Huang Shao-yung (黃少雍)](/id/people/huang-shao-yong-musician) — Dari era Lin Ma-di (林瑪黛) ke 《Pearl Punishment》 〈Evil Words〉 (惡口) 〈For Example Leave〉 (例如離開) 〈Sea Moon〉 (海月) tiga lagu solo produser, dengan Waa Wei kolaborasi lebih sepuluh tahun produser elektronik
-- [Ke Chih-tang (柯智棠)](/people/柯智棠) — Sepupu, penyanyi folk Britania, Chen Chien-chi tiga album produser kreator tempo lambat
+- [Ke Chih-tang (柯智棠)](/id/people/ke-zhi-tang-musician) — Sepupu, penyanyi folk Britania, Chen Chien-chi tiga album produser kreator tempo lambat
 
 ## Referensi
 

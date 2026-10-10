@@ -18,7 +18,7 @@ tags:
   - '春浪'
   - 'バンド'
 category: People
-subcategory: 音楽與表演
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 readingTime: 8

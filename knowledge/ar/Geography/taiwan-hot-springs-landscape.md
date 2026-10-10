@@ -4,7 +4,7 @@ description: 'من "حساء الساحرة" إلى مصاف أفضل 15 ممل�
 date: 2026-03-23
 author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: 'المناخ والينابيع الساخنة'
+subcategory: '氣候與溫泉'
 tags:
   [
     'الينابيع الساخنة',

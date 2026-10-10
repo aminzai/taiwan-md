@@ -13,7 +13,7 @@ tags:
     'dự án Vivaldi',
     'Lin Wei-zhe',
   ]
-subcategory: 'Độc lập và Rock'
+subcategory: '獨立與搖滾'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-09
@@ -444,9 +444,9 @@ Bài viết sử dụng hình ảnh được cấp phép CC BY-SA 4.0 của Wiki
 
 [^16]: [Blow (StreetVoice) Lin Wei-zhe 2022-05-30 tuyên bố toàn văn](https://blow.streetvoice.com/60829/) — Blow thổi âm nhạc StreetVoice cải tạo tạp chí âm nhạc, 2022-05-30 phát hành hoàn chỉnh Lin Wei-zhe từ bỏ thương hiệu FB tuyên bố toàn văn và "Ngày Sodagreen" lịch sử bối cảnh.
 
-[^17]: [Sodagreen (album cùng tên) zh.wikipedia mục](https://zh.wikipedia.org/zh-tw/蘇打綠_(專輯) — )) — Wikipedia tiếng Trung Sodagreen album đầu tiên cùng tên mục, 2005-09-03 phát hành, Phòng âm nhạc Lin Wei-zhe sản xuất, 11 bài, 53 phút 40 giây, mua trước quà tặng 《Sodagreen Tạp chí sodazine 1》chi tiết
+[^17]: [Sodagreen (album cùng tên) zh.wikipedia mục](<https://zh.wikipedia.org/zh-tw/蘇打綠_(專輯)>) — )) — Wikipedia tiếng Trung Sodagreen album đầu tiên cùng tên mục, 2005-09-03 phát hành, Phòng âm nhạc Lin Wei-zhe sản xuất, 11 bài, 53 phút 40 giây, mua trước quà tặng 《Sodagreen Tạp chí sodazine 1》chi tiết
 
-[^18]: [《Vũ trụ nhỏ》zh.wikipedia mục](https://zh.wikipedia.org/zh-tw/小宇宙_(蘇打綠專輯) — )) — Wikipedia tiếng Trung Sodagreen album ghi âm phòng thu thứ hai mục, 2006-10-20 phát hành, gồm 〈Tình ca nhỏ〉từ điệu sáng tác nền tảng
+[^18]: [《Vũ trụ nhỏ》zh.wikipedia mục](<https://zh.wikipedia.org/zh-tw/小宇宙_(蘇打綠專輯)>) — )) — Wikipedia tiếng Trung Sodagreen album ghi âm phòng thu thứ hai mục, 2006-10-20 phát hành, gồm 〈Tình ca nhỏ〉từ điệu sáng tác nền tảng
 
 [^19]: [《Vẻ đẹp Không thể sánh được》zh.wikipedia mục](https://zh.wikipedia.org/zh-tw/無與倫比的美麗) — Wikipedia tiếng Trung Sodagreen album ghi âm phòng thu thứ ba mục, ghi chép 〈Bốn mùa say mê〉làm nước hạt nhân mầm mống kế hoạch Vivaldi bối cảnh.
 
@@ -476,7 +476,7 @@ Bài viết sử dụng hình ảnh được cấp phép CC BY-SA 4.0 của Wiki
 
 [^32]: [Truyền thông Trung ương 2022-05-30 Lin Wei-zhe từ bỏ thương hiệu FB tuyên bố](https://www.cna.com.tw/news/amov/202205300081.aspx) — Xã hội truyền thông Trung ương 2022-05-30 tin tức tức thời, phát hành hoàn chỉnh Lin Wei-zhe ở FB tuyên bố "Sodagreen Sodagreen" chủ sở hữu thương hiệu toàn văn tuyên bố từ bỏ.
 
-[^33]: [《Nhân Vũ Trụ》zh.wikipedia mục](https://zh.wikipedia.org/zh-tw/太空人_(專輯) — )) — Wikipedia tiếng Trung Cát Thanh Phong album ghi âm phòng thu cá nhân đầu tiên mục, 2019-09-06 phát hành, là sắp xếp các tác phẩm cá nhân thời kỳ dừng hoạt động chứ không liên quan đến rời ban
+[^33]: [《Nhân Vũ Trụ》zh.wikipedia mục](<https://zh.wikipedia.org/zh-tw/太空人_(專輯)>) — )) — Wikipedia tiếng Trung Cát Thanh Phong album ghi âm phòng thu cá nhân đầu tiên mục, 2019-09-06 phát hành, là sắp xếp các tác phẩm cá nhân thời kỳ dừng hoạt động chứ không liên quan đến rời ban
 
 [^34]: [Tòa Sở hữu Trí tuệ mục lệnh 109 trí tố 5 số](https://www.judicial.gov.tw/tw/cp-1888-442101-c6828-1.html) — Tòa Tòa Bắc Kinh Tòa Sở hữu Trí tuệ thông báo mục lệnh, ghi chép 2020-02-24 Khởi tố Bắc Kinh Cát Thanh Phong vi phạm pháp luật bản quyền số vụ nội dung phạm vi, là tài liệu tố tụng một tay.
 

@@ -38,6 +38,7 @@ rationale:
 translatedFrom: 'People/吳明益.md'
 sourceCommitSha: '36aaa72e1'
 sourceContentHash: 'sha256:55029350d5152d22'
+sourceBodyHash: 'sha256:70f421624b5717be'
 translatedAt: '2026-09-25T15:03:22.085785+00:00'
 ---
 

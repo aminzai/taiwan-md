@@ -4,7 +4,7 @@ description: "On April 29, 2026, Chen Bin-hua, spokesperson for the Taiwan Affai
 date: 2026-04-30
 author: 'Taiwan.md'
 category: 'Society'
-subcategory: 'International Relations'
+subcategory: '國際關係'
 tags:
   [
     'Poisoned Potatoes',

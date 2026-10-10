@@ -3,7 +3,7 @@ title: 'Từ vựng mượn ngoại và hiện tượng tiếp xúc ngôn ngữ 
 description: 'Từ bữa ăn nhẹ đến video: Câu chuyện lịch sử tiếp xúc ngôn ngữ của một hòn đảo, hé lộ cách Đài Loan trở thành phòng thí nghiệm hòa trộn từ vựng mượn ngoại thành công nhất thế giới'
 date: 2026-03-23
 category: 'Culture'
-subcategory: 'Ngôn ngữ và chữ viết'
+subcategory: '語言與文字'
 tags:
   [
     'Ngôn ngữ học',

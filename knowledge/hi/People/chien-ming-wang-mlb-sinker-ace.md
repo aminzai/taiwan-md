@@ -25,6 +25,7 @@ readingTime: 9
 translatedFrom: 'People/王建民.md'
 sourceCommitSha: '0f8fae0a'
 sourceContentHash: 'sha256:88ba1e028cceec90'
+sourceBodyHash: 'sha256:d72e85599f59782f'
 translatedAt: '2026-08-29T22:26:31+08:00'
 ---
 

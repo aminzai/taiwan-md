@@ -276,7 +276,7 @@ Fonte de dados: Medium oficial do Festival da Vida Complexa, dados anuais do Fes
 
 **Leitura complementar**:
 
-- [Movimento do Sol](/society/太陽花學運) — O contexto da era do Festival da Vida Complexa: como o movimento de 2014, após terminar nas ruas, se dividiu em Força do Tempo, g0v, Zazaz School e Festival da Vida Complexa como saídas juvenis
+- [Movimento do Sol](/pt/society/sunflower-movement) — O contexto da era do Festival da Vida Complexa: como o movimento de 2014, após terminar nas ruas, se dividiu em Força do Tempo, g0v, Zazaz School e Festival da Vida Complexa como saídas juvenis
 - [Zazaz School](/pt/society/za-share) — A mesma energia pós-318, mas seguindo uma rota oposta: crescendo para se tornar o maior festival educacional da Ásia, contrastando escala e intimidade com o "intencionalmente pequeno" do Festival da Vida Complexa
 - [A Geração Multifuncional de Taiwan](/pt/society/taiwan-slash-generation-multi-job-economy) — O contexto estrutural pelo qual os participantes do Festival da Vida Complexa se autodescrevem como "obcecados por trabalho": como a mediana salarial e a pressão de sobrevivência forçam esta geração a ser multifuncional
 - [FAB DAO e o Projeto das Cem Montanhas](/art/FAB_DAO_e_o_Projeto_das_Cem_Montanhas) — Para onde Huang Dou-ni foi após abandonar a medicina: a próxima obra de "integrar o espírito do cypherpunk na sociedade digital de Taiwan"

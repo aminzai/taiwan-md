@@ -13,7 +13,7 @@ tags:
     'nativist literature',
     'literary debates',
   ]
-subcategory: 'Literature'
+subcategory: '文學'
 category: 'Art'
 author: 'Taiwan.md'
 readingTime: 13

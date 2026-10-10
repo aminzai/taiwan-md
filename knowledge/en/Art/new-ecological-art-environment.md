@@ -4,7 +4,7 @@ description: "In June 1992, Du Zhao-xian opened the 'New Ecological Art Environm
 date: 2026-05-17
 author: 'Taiwan.md Contributors'
 category: 'Art'
-subcategory: 'Contemporary Art'
+subcategory: '當代藝術'
 tags:
   [
     'Alternative Spaces',
@@ -160,7 +160,7 @@ At the time of shipping this article, no images were used. Exhibition site photo
 
 [^5]: [National Tainan University of Arts Wikipedia Entry](https://zh.wikipedia.org/zh-tw/%E5%9C%8B%E7%AB%8B%E8%87%BA%E5%8D%97%E8%97%9D%E8%A1%93%E5%A4%A7%E5%AD%B8) — The National Tainan College of Arts was established in July 1996, initially having only four graduate institutes (Sculpture, Audio-Visual Documentation, Museology, Art History and Theory); it was restructured into the National Tainan University of Arts in 2004.
 
-[^6]: [Chiayi Railway Art Village Wikipedia Entry](https://zh.wikipedia.org/zh-tw/%E5%98%89%E7%BE%A9%E9%81%93%E8%97%9D%E8%A1%93%E6%9D%91) — In August 1999, the Chiayi City Cultural Center was converted into an arts space; in July 2000, the MOCA Central Office selected it as the second station of the "Railway Art Network"; it was officially opened in 2002. The Railway Art Network project originated from the MOCA's "Reuse of Idle Spaces" policy, which was commissioned to the Department of Architecture at National Dong Hwa University for evaluation in 1997.
+[^6]: [Chiayi Railway Art Village Wikipedia Entry](https://zh.wikipedia.org/zh-tw/%E5%98%89%E7%BE%A9%E9%90%B5%E9%81%93%E8%97%9D%E8%A1%93%E6%9D%91) — In August 1999, the Chiayi City Cultural Center was converted into an arts space; in July 2000, the MOCA Central Office selected it as the second station of the "Railway Art Network"; it was officially opened in 2002. The Railway Art Network project originated from the MOCA's "Reuse of Idle Spaces" policy, which was commissioned to the Department of Architecture at National Dong Hwa University for evaluation in 1997.
 
 [^7]: [Pier-2 Art Center Wikipedia Entry](https://zh.wikipedia.org/zh-tw/%E9%A7%81%E4%BA%8C%E8%97%9D%E8%A1%93%E7%89%B9%E5%8D%80) — In 2000, the old warehouse site was discovered during the Double Ten National Day fireworks; the Pier-2 Art Development Association was established in 2001; it was fully renovated and officially opened on March 24, 2002, combining MOCA's idle space reuse resources.
 

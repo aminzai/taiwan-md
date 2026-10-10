@@ -230,7 +230,7 @@ Sosok botak itu tidak akan ingat pernah lembur untuk siapa atau pernah ingin pul
 **Bacaan Lanjutan**:
 
 - [Situs Anonim: Komunitas Taiwan Sebelum Facebook](/id/culture/wretch)
-- [Sejarah Migrasi Komunitas Internet Taiwan](/technology/台灣網路社群遷徙史)
+- [Sejarah Migrasi Komunitas Internet Taiwan](/id/technology/taiwan-online-community-migration)
 - [Meme Taiwan](/id/culture/taiwan-meme-culture)
 - [Dcard](/id/culture/dcard-taiwan-social-platform)
-- [Tsai Ying-wen (楊丞琳)](/people/楊丞琳)
+- [Tsai Ying-wen (楊丞琳)](/id/people/rainie-yang)

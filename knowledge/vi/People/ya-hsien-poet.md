@@ -14,7 +14,7 @@ tags:
     'Hà Nam',
     'Vancouver',
   ]
-subcategory: 'Văn học và nhà thơ'
+subcategory: '文學與詩人'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-28
@@ -172,9 +172,9 @@ Chỉ còn Trương Mặc còn sống, sinh năm 1931, lúc này chín mươi n�
 
 **Đọc Thêm Liên Quan**:
 
-- [Trịnh Sầu Dự: Viết _Lỗi Lầm_ của người lưu lạc, cuối cùng lập gia ở Kim Môn](/people/trịnh-sầu-dự) — Nhà thơ đồng thế hệ Sáng Tạo, năm 2025 tháng 6 từ trần
-- [Thời kỳ Thiết Quân Luật](/history/thời-kỳ-thiết-quân-luật) — Bối cảnh kiểm duyệt văn học, cảnh sát quân sự, sự mơ hồ như kháng cự chính trị
-- [Báo Đài Loan Và Tự Do Báo Chí](/society/báo-đài-loan-và-tự-do-báo-chí) — Bối cảnh lịch sử mục phụ Báo Liên Hợp, Báo Thời Báo Trung Quốc hai báo lớn dẫn dắt giới văn đàn Đài Loan 1950-1990
+- [Trịnh Sầu Dự: Viết _Lỗi Lầm_ của người lưu lạc, cuối cùng lập gia ở Kim Môn](/vi/people/cheng-chou-yu-poet) — Nhà thơ đồng thế hệ Sáng Tạo, năm 2025 tháng 6 từ trần
+- [Thời kỳ Thiết Quân Luật](/vi/history/martial-law-era) — Bối cảnh kiểm duyệt văn học, cảnh sát quân sự, sự mơ hồ như kháng cự chính trị
+- [Báo Đài Loan Và Tự Do Báo Chí](/vi/society/media-and-press-freedom-in-taiwan) — Bối cảnh lịch sử mục phụ Báo Liên Hợp, Báo Thời Báo Trung Quốc hai báo lớn dẫn dắt giới văn đàn Đài Loan 1950-1990
 
 ## Hình Ảnh Nguồn Gốc
 

@@ -11,7 +11,7 @@ tags:
     'âm nhạc dân tộc',
     'sự hòa trộn văn hóa',
   ]
-subcategory: 'truyền thống âm nhạc'
+subcategory: '傳統音樂'
 author: 'Taiwan.md Contributors'
 readingTime: 15
 featured: false

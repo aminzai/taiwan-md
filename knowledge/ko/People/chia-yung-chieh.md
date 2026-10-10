@@ -19,8 +19,17 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
+sporeLinks:
+  - id: 57
+    platform: 'threads'
+    date: '2026-05-02'
+    url: 'https://www.threads.com/@taiwandotmd/post/DX13hccE6U6'
+  - id: 58
+    platform: 'x'
+    date: '2026-05-02'
+    url: 'https://x.com/taiwandotmd/status/2050601653792047479'
 translatedFrom: People/賈永婕.md
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: 'dd39065b2'
 sourceContentHash: 'sha256:a92f6a6b22257ffa'
 sourceBodyHash: 'sha256:3a5ef98d636f1bfa'
 translatedAt: '2026-05-16T22:35:46Z'

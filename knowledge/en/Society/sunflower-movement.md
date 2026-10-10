@@ -199,7 +199,7 @@ Those thirty seconds, Zhang Ching‑chung probably never imagined he was resha
 
 [^15]: [The News Lens: Legislative Yuan third reading of “Cross‑Strait Agreements” reaches constitutional‑level threshold](https://www.thenewslens.com/article/120099) — Report on the amendment to the Cross‑Strait People‑to‑People Relations Act, explaining why it only covers political agreements, not the economic pact that sparked the movement.
 
-[^16]: [Yahoo News: Taiwan’s export dependence on China drops to 31.5 %](https://tw.news.yahoo.com/%E5%8F%B0%E7%81%A3%E5%AF%AB%E4%B8%AD%E5%9C%8B%E7%9A%84%E5%87%BA%E5%8F%A3%E4%BE%9D%E5%AD%98%E5%BA%A6%E9%99%8D%E8%87%B3-31-5-...) — 2025 latest trade data showing Taiwan’s export share to China falling to 31.5 %.
+[^16]: [Yahoo News: Taiwan’s export dependence on China drops to 31.5 %](https://tw.news.yahoo.com/%E5%8F%B0%E7%81%A3%E5%B0%8D%E4%B8%AD%E5%9C%8B%E7%9A%84%E5%87%BA%E5%8F%A3%E4%BE%9D%E5%AD%98%E5%BA%A6%E9%99%8D%E8%87%B331-5-%E5%87%BA%E5%8F%A3%E9%99%84%E5%8A%A0%E5%83%B9%E5%80%BC%E5%89%B521%E5%B9%B4%E6%96%B0%E9%AB%98-072951768.html) — 2025 latest trade data showing Taiwan’s export share to China falling to 31.5 %.
 
 [^17]: [Liberty Times: Foreign media note China’s self‑defeat, Taiwan’s trade dependence drops dramatically](https://ec.ltn.com.tw/article/breakingnews/4602029) — International media analysis of Taiwan’s declining trade dependence on China and rising share of U.S. trade.
 

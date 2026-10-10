@@ -15,7 +15,7 @@ tags:
     '개인정보 거버넌스',
     '세관총서',
   ]
-subcategory: '소비와 생활 제도'
+subcategory: '消費與生活制度'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-08-04
@@ -41,6 +41,7 @@ sporeLinks:
 translatedFrom: 'Lifestyle/台灣海關報關制度與EZWAY.md'
 sourceCommitSha: '258412070'
 sourceContentHash: 'sha256:bc80c48817ccc98d'
+sourceBodyHash: 'sha256:7abf227d191df077'
 translatedAt: '2026-08-09T11:18:51.840815+00:00'
 ---
 

@@ -4,7 +4,7 @@ description: '1957年、呂泉生と辜偉甫が栄星児童合唱団を創立�
 date: 2026-05-07
 author: 'Taiwan.md Contributors'
 category: 'Music'
-subcategory: '音楽産業'
+subcategory: '音樂產業'
 tags:
   [
     '合唱団',
@@ -208,6 +208,6 @@ translatedAt: '2026-05-09T11:09:57+08:00'
 
 [^40]: [国立実験合唱団 私たちについて](http://www.taiwannationalchoir.tw/home/about) — 元リンクの本文参照
 
-[^41]: [映画『陽光女子合唱団』から台湾の実話へ](https://tw.news.yahoo.com/%E5%BE%9E%E9%9B%BB%E5%BD%B1-%E9%99%BD%E5%85%89%E5%A5%B3%E5%AD%90%E5%90%88%E5%94%B1%E5%9C%98-%E5%88%B0%E5%8F%B0%E7%81%A3%E7%9C%9F%E5%AF%A6%E6%95%85%E4%BA%8B-%E5%96%87%E8%80%95365%E5%B8%B6%E5%81%8F%E9%84%89%E5%AD%A9%E5%AD%90%E7%94%A8%E5%90%88%E5%94%B1%E6%89%BE%E5%9B%9E%E8%87%AA%E4%BF%A1-031851810.html) — Yahooニュース報道
+[^41]: [映画『陽光女子合唱団』から台湾の実話へ](https://tw.news.yahoo.com/%E5%BE%9E%E9%9B%BB%E5%BD%B1-%E9%99%BD%E5%85%89%E5%A5%B3%E5%AD%90%E5%90%88%E5%94%B1%E5%9C%98-%E5%88%B0%E5%8F%B0%E7%81%A3%E7%9C%9F%E5%AF%A6%E6%95%85%E4%BA%8B-%E5%96%84%E8%80%95365%E5%B8%B6%E5%81%8F%E9%84%89%E5%AD%A9%E5%AD%90%E7%94%A8%E5%90%88%E5%94%B1%E6%89%BE%E5%9B%9E%E8%87%AA%E4%BF%A1-031851810.html) — Yahooニュース報道
 
 [^42]: [台湾学校合唱団の生存困難](http://www.tcmc.org.tw/index.php/knowledge/articles/action/view/frmContentId/3330/menu2.swf) — 元リンクの本文参照

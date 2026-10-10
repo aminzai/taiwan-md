@@ -13,7 +13,7 @@ tags:
     'cluster industriel',
     '2026',
   ]
-subcategory: 'Industries traditionnelles'
+subcategory: '傳統產業'
 category: 'Economy'
 author: 'Taiwan.md'
 difficulty: 'intermediate'

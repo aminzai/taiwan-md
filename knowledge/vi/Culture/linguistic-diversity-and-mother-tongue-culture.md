@@ -17,7 +17,7 @@ tags:
     'ngôn ngữ Nam Đảo bản địa',
     'đa dạng văn hóa',
   ]
-subcategory: 'Văn hóa cộng đồng'
+subcategory: '族群文化'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 10

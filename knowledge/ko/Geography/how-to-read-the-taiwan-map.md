@@ -18,7 +18,7 @@ tags:
     디지털 지도,
   ]
 category: 'Geography'
-subcategory: '지리 개론'
+subcategory: '地理概論'
 author: 'Taiwan.md'
 featured: false
 readingTime: 10
@@ -160,7 +160,7 @@ translatedAt: '2026-05-13T01:08:20Z'
 
 [^11]: [Taiwan Strait — Wikipedia (EN)](https://en.wikipedia.org/wiki/Taiwan_Strait) — 대만해협 중간선의 1955년 기원, 2019년 좌표 공개, 중국의 부정.
 
-[^12]: [Air Defense Identification Zone (Taiwan) — Wikipedia (EN)](<https://en.wikipedia.org/wiki/Air_Defense_Identification_Zone_(Taiwan)>) — 대만 ADIZ의 1954년 미군 설정, 중국 상공까지 포함, 국제법적 근거 부재.
+[^12]: [Air Defense Identification Zone (Taiwan) — Wikipedia (EN)](https://en.wikipedia.org/wiki/Air_Defense_Identification_Zone_(Taiwan) — 대만 ADIZ의 1954년 미군 설정, 중국 상공까지 포함, 국제법적 근거 부재.
 
 [^13]: [Marine Regions — Overlapping claim Taiwan](https://www.marineregions.org/eezdetails.php?mrgid=8321) — 대만해협 대륙붕 수심과 배타적 경제수역 중첩 분쟁.
 

@@ -11,7 +11,7 @@ tags:
     'Chá Oriental Beauty',
     'Wistaria Tea House',
   ]
-subcategory: 'Artesanato e Estética'
+subcategory: '工藝與美學'
 author: 'Taiwan.md'
 difficulty: 'beginner'
 readingTime: 12
@@ -139,4 +139,4 @@ As glicínias da _Wistaria Tea House_ florescem todos os anos na primavera. Chou
 - [Cultura do Chá de Taiwan](/pt/culture/taiwanese-tea-culture-and-living-aesthetics) - Guia profundo sobre variedades e regiões
 - [Festivais e Celebrações Tradicionais](/pt/culture/traditional-festivals-and-celebrations) - O papel do chá nas festividades
 - [Sensibilidade de Taiwan: Precisamos que os coreanos curtam primeiro para termos coragem de dizer que nossas casas antigas são belas?](/pt/culture/taiwanese-sensibility) — Uma revalorização da estética cotidiana de Taiwan (flores de ferro, granilite, casas antigas).
-- [Cultura e Língua Hakka](/culture/客家文化與語言) - A conexão entre o _Oriental Beauty_ e as regiões de chá Hakka
+- [Cultura e Língua Hakka](/pt/culture/hakka-culture-and-language) - A conexão entre o _Oriental Beauty_ e as regiões de chá Hakka

@@ -108,7 +108,7 @@ translatedAt: '2026-09-19T01:37:17+08:00'
 
 [文化部：Taiwan Pineapple Museum](https://www.moc.gov.tw/en/News_Content2.aspx?n=502&s=119304)
 
-## 參考資料
+## 参考資料
 
 [^1]: [国家発展委員会檔案管理局：黄金歳月——台湾パイナップル缶詰が世界へ](https://www.archives.gov.tw/tw/arctw/69-1792.html) — 公式档案管理機関がパイナップル栽培・缶詰工業・戦後外貨・台東工場・輸出数字・産業転換を整理し、行政院新聞局等の原始档案写真と档号を附す。
 

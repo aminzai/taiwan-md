@@ -19,7 +19,7 @@ tags:
     'Lanyu',
     'iklim ekstrem',
   ]
-subcategory: 'Konservasi dan Lingkungan'
+subcategory: '保育與環境'
 readingTime: 26
 author: 'Taiwan.md'
 featured: true
@@ -310,10 +310,10 @@ Tidak ada yang tahu apakah 9 triliun dolar Taiwan dapat membeli masa depan yang 
 - [Air Panas dan Energi Panas Bumi Taiwan](/id/nature/taiwan-hot-springs-and-geothermal-energy) — Bagaimana keheningan panas bumi selama 30 tahun terbentuk, mulai dari kegagalan panas bumi Qingshui pada tahun 1981 hingga dilanjutkan pada tahun 2024.
 - [Keadilan Lingkungan dan Sengketa NIMBY Taiwan](/id/society/taiwan-environmental-justice-nimby-conflicts) — Lanyu, terumbu karang, Minong: politik pembagian biaya transisi energi.
 - [Peningkatan Transformasi Industri Taiwan](/id/economy/industrial-transformation-from-manufacturing-to-innovation) — Dari manufaktur berenergi tinggi ke industri energi hijau, tagihan energi dari TSMC RE100, CBAM, dan "Dewa Penjaga Negara".
-- [Pohon di Trotoar Taiwan](/lifestyle/台灣行道樹) — Posisi dan skala waktu penyesuaian pulau panas sebagai naungan pohon jalan: pohon harus tumbuh setidaknya selama sepuluh tahun untuk memberikan keteduhan, ini adalah salah satu penyesuaian yang paling tidak bisa ditunda.
+- [Pohon di Trotoar Taiwan](/id/lifestyle/taiwan-street-trees) — Posisi dan skala waktu penyesuaian pulau panas sebagai naungan pohon jalan: pohon harus tumbuh setidaknya selama sepuluh tahun untuk memberikan keteduhan, ini adalah salah satu penyesuaian yang paling tidak bisa ditunda.
 - [Pembangunan Modernisasi Pertanian Taiwan](/id/economy/taiwan-agricultural-modernization) — Tekanan transformasi pertanian dan konflik penggunaan lahan di balik simbiosis energi surya dan pertanian.
 - [Musim Hujan](/id/nature/meiyu-stagnant-front) — Pengamatan lokal perubahan iklim "hujan musim semi tidak datang, hujan monsun terkonsentrasi".
-- [Mekanisme Harga Minyak Taiwan dan CPC](/economy/台灣油價機制與中油) — Tarikan antara subsidi bahan bakar fosil dan sinyal efisiensi energi: kenaikan yang dibekukan membagi harga per liter secara merata, semakin banyak digunakan semakin hemat, tetapi tidak ada tabel yang menghitung siapa yang paling banyak menggunakannya selama setengah tahun ini.
+- [Mekanisme Harga Minyak Taiwan dan CPC](/id/economy/taiwan-fuel-pricing-and-cpc) — Tarikan antara subsidi bahan bakar fosil dan sinyal efisiensi energi: kenaikan yang dibekukan membagi harga per liter secara merata, semakin banyak digunakan semakin hemat, tetapi tidak ada tabel yang menghitung siapa yang paling banyak menggunakannya selama setengah tahun ini.
 
 ## Sumber Gambar
 

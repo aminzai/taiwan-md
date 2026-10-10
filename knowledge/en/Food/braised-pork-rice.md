@@ -10,7 +10,7 @@ tags:
     'everyday cuisine',
     'north–south differences',
   ]
-subcategory: 'Ethnic Cuisine'
+subcategory: '族群飲食'
 author: 'Taiwan.md'
 readingTime: 8
 featured: true

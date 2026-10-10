@@ -136,12 +136,12 @@ Hutang belum lunas.
 ## Bacaan Lanjutan
 
 - [Swinhoe: Ketika Diplomat Menjadi Naturalis](/id/people/robert-swinhoe-naturalist) — Penyedia sumber primer artikel ini, 〈Formosa Camphor〉 1864 adalah pra-sejarah Perang Kapur Barus
-- [Era Qing](/history/清治時期) — Bagaimana pembukaan pelabuhan perdagangan 1860 mereorganisasi struktur politik-ekonomi Taiwan
-- [Era Jepang](/history/日治時期) — Bagaimana Kantor Monopoli Kapur Barus dan "membuka gunung menenangkan suku asli" melanjutkan kebijakan gunung akhir era Qing
+- [Era Qing](/id/history/qing-dynasty-rule) — Bagaimana pembukaan pelabuhan perdagangan 1860 mereorganisasi struktur politik-ekonomi Taiwan
+- [Era Jepang](/id/history/japanese-colonial-era) — Bagaimana Kantor Monopoli Kapur Barus dan "membuka gunung menenangkan suku asli" melanjutkan kebijakan gunung akhir era Qing
 - [Sejarah Pengembangan Hutan Taiwan](/id/history/taiwan-forestry-history) — Dari pohon kapur barus ke kayu hinoki, alur lengkap pengembangan hutan Taiwan
 - [Alishan: Ladang Hutan Kekaisaran dan Gunung Gao Yisheng](/id/history/alishan-empire-forest-and-uongu-yatauyungana) — Bagaimana rampasan kehutanan meluas ke Alishan era Jepang dan Terreur Blanche pasca-perang
-- [Museum Sejarah Nasional Taiwan](/society/國立臺灣歷史博物館) — Lembaga tingkat negara tiga bintang yang menyimpan 〈Formosa Camphor〉 Swinhoe 1864 dan sumber primer Perang Kapur Barus lainnya (sistem UUID koleksi NMTH merilis data pemerintah di bawah Lisensi Data Terbuka Pemerintah Versi 1.0)
-- [Pohon Jalan Taiwan](/lifestyle/台灣行道樹) — Jenis pohon kapur barus yang sama, di gunung pernah jadi bahan baku global yang diperburu, di jalan hanya diminta menahan matahari: Terowong Hijau Jiji Nantou di kedua sisi tanamannya persis dia
+- [Museum Sejarah Nasional Taiwan](/id/society/national-museum-of-taiwan-history) — Lembaga tingkat negara tiga bintang yang menyimpan 〈Formosa Camphor〉 Swinhoe 1864 dan sumber primer Perang Kapur Barus lainnya (sistem UUID koleksi NMTH merilis data pemerintah di bawah Lisensi Data Terbuka Pemerintah Versi 1.0)
+- [Pohon Jalan Taiwan](/id/lifestyle/taiwan-street-trees) — Jenis pohon kapur barus yang sama, di gunung pernah jadi bahan baku global yang diperburu, di jalan hanya diminta menahan matahari: Terowong Hijau Jiji Nantou di kedua sisi tanamannya persis dia
 
 ---
 

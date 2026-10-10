@@ -115,9 +115,9 @@ Kebakaran berikutnya akan mulai di atap bangunan ilegal yang sudah ada yang mana
 
 **Bacaan Lanjutan**:
 
-- [Perumahan Sosial dan Keadilan Perumahan](/society/社會住宅與居住正義) — Kendala promosi perumahan sosial Taiwan dan masalah pasar sewa, struktur perumahan lebih besar yang melingkupi masalah rumah atap seng
-- [Keadilan Lingkungan dan Sengketa Tetangga Taiwan](/society/台灣環境正義與鄰避爭議) — Isu penggunaan lahan dan pencemaran lingkungan di balik penggedoran pabrik atap seng Zengwun
-- [Keadilan Tanah Masyarakat Asli Taiwan dan Wilayah Tradisional](/society/台灣原住民族土地正義與傳統領域) — Memahami kompleksitas penggunaan lahan antara «legal dan ilegal» Taiwan dari sudut pandang berbeda
+- [Perumahan Sosial dan Keadilan Perumahan](/id/society/social-housing-and-housing-justice) — Kendala promosi perumahan sosial Taiwan dan masalah pasar sewa, struktur perumahan lebih besar yang melingkupi masalah rumah atap seng
+- [Keadilan Lingkungan dan Sengketa Tetangga Taiwan](/id/society/taiwan-environmental-justice-nimby-conflicts) — Isu penggunaan lahan dan pencemaran lingkungan di balik penggedoran pabrik atap seng Zengwun
+- [Keadilan Tanah Masyarakat Asli Taiwan dan Wilayah Tradisional](/id/society/indigenous-land-justice-and-traditional-territories) — Memahami kompleksitas penggunaan lahan antara «legal dan ilegal» Taiwan dari sudut pandang berbeda
 
 ## Referensi
 

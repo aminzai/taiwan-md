@@ -103,7 +103,7 @@ translatedAt: '2026-09-23T07:28:04+08:00'
 
 ## قراءات إضافية
 
-- [الموسيقى الشعبية التايوانية](/music/台灣流行音樂/)
+- [الموسيقى الشعبية التايوانية](/ar/music/golden-melodies-legacy-taiwan-pop-music/)
 - [فرقة مطفأة الحريق](/ar/music/fire-ex/)
 - [موسيقى تايوان المستقلة](/ar/music/indie-music-scene/)
 

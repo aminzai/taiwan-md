@@ -13,7 +13,7 @@ tags:
     'バウハウス',
     '建国南路自邸',
   ]
-subcategory: 'アートとデザイン'
+subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-18
@@ -23,6 +23,7 @@ curation: 'incubating'
 translatedFrom: 'People/王大閎.md'
 sourceCommitSha: 'b90ca43b0'
 sourceContentHash: 'sha256:4cbd176678ae5ebb'
+sourceBodyHash: 'sha256:4ff2706afa6c57f6'
 translatedAt: '2026-09-12T05:38:14.906725+00:00'
 ---
 

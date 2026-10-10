@@ -95,10 +95,10 @@ Năm bị bỏ rời, chính xác tại thời điểm đó đã là điểm d�
 
 **Đọc thêm**:
 
-- [Hưng Lợc](/geography/新竹縣) — Bối cảnh toàn bộ Hưng Lợc, nơi Hồ Khách nằm: tín ngưỡng Hakka, lễ hội Người hiếu, vùng sông Đầu Trước có một cảm giác thời gian khác
+- [Hưng Lợc](/vi/geography/hsinchu-county) — Bối cảnh toàn bộ Hưng Lợc, nơi Hồ Khách nằm: tín ngưỡng Hakka, lễ hội Người hiếu, vùng sông Đầu Trước có một cảm giác thời gian khác
 - [Khu dự trữ Hồ Khách và bộ nhớ đường sắt](/vi/history/hukou-camp-shengli-road-memory) — Cùng một Hồ Khách, một phần khác của ký ức quân sự và chính trị trong và ngoài bức tường
-- [Văn hóa ẩm thực Hakka](/food/客家飲食文化) — Bối cảnh ẩm thực Hakka cho đậu phụ và khoai lang như các món ăn vặt cổ
-- [Phố cổ Bắc Tựu Nước Suối](/geography/北投溫泉街) — Một con phố khác do cải tạo giao thông, cùng cư dân tự nguyện bảo tồn và phục hồi
+- [Văn hóa ẩm thực Hakka](/vi/food/hakka-food-culture) — Bối cảnh ẩm thực Hakka cho đậu phụ và khoai lang như các món ăn vặt cổ
+- [Phố cổ Bắc Tựu Nước Suối](/vi/geography/beitou-hot-spring-street) — Một con phố khác do cải tạo giao thông, cùng cư dân tự nguyện bảo tồn và phục hồi
 
 ## Tài liệu tham khảo
 

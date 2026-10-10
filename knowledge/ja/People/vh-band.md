@@ -16,7 +16,7 @@ tags:
     エモーショナルロック,
   ]
 category: People
-subcategory: 音楽とパフォーマンス
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 readingTime: 12
@@ -117,7 +117,7 @@ translatedAt: 2026-05-01T19:52:32+08:00
 
 - [草東沒有派對](/ja/people/no-party-for-cao-dong) — 同じ2010年代末の台湾独立シーンにおける、政治的ロック路線とVHの優しさ路線の対位
 - [魏如萱](/ja/people/waa-wei-singer) — 同様に「作品優先、露出二次」の道を歩む台湾の独立音楽人
-- [台湾独立音楽](/music/台湾独立音楽) — VHが台頭した生態系の背景
+- [台湾独立音楽](/ja/music/indie-music-scene) — VHが台頭した生態系の背景
 - [Hello Nico](/ja/people/hello-nico-band) — 同世代の独立音楽シーン、八年間の沈黙を経て2024年に『Plan B』で復帰、もう一つの優しさと抑圧の対位
 
 ## 参考資料

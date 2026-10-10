@@ -11,7 +11,7 @@ tags:
     'Physician',
     'Third Party',
   ]
-subcategory: 'Politics & Democracy'
+subcategory: '政治與民主'
 category: 'People'
 author: 'Taiwan.md'
 lastVerified: 2026-03-30

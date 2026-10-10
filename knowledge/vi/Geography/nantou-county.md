@@ -247,13 +247,13 @@ Sau 102 giây lúc 1 giờ 47 phút, Nam Đầu không biến thành tàn tích.
 
 ## Đọc Thêm
 
-- [Hồ Nhật Nguyệt](/geography/日月潭) — Năm 1934 đập Wujie công trình nâng cao mặt hồ 18,18 mét, nhà máy điện thủy lực lớn nhất châu Á, lịch sử di dân người Thao hoàn chỉnh
-- [Núi Ngọc Sơn](/geography/玉山) — 3.952 mét piku cao nhất Đài Loan, công viên quốc gia Ngọc Sơn vượt qua Nam Đầu Tín Nghĩa / Chiayi Ah Lý Sơn / Cao Hùng Đào Nguyên / Hoa Liên Tác Khê bốn quận thành phố
-- [Lịch Sử Dân Tộc Bản Địa Đài Loan Và Phong Trào Công Nhân](/history/台灣原住民族歷史與正名運動) — 2001 công nhận người Thao dân tộc thứ 10, 2004 Thái Lộ Các, 2008 công nhận dân tộc Seediq toàn cảnh phong trào quốc gia
-- [Tám Phần Hài Hòa](/music/八部合音) — Pasibutbut chỉ truyền ở nhóm Luanshe và nhóm Junshe của tộc Bunun, sự thật bộ lạc Minh Đức
-- [Tiền Sử Và Dân Tộc Bản Địa](/history/史前時代與原住民) — Dân tộc Seediq, Bunun, Thao, Tsou sinh sống 1000 năm ở dãy núi trung ương trục thời gian
-- [Thành Phố Cơ Long](/geography/基隆市) — Khởi động series 22 quận thành phố: cảng chứa container thế giới thứ bảy năm 1984 thành thứ 113 năm 2018, cùng Nam Đầu là quận được tường thuật chính quyền trung tâm bỏ sót
-- [Quận Miêu Lật](/geography/苗栗縣) — Batch 1 sibling quận nội địa series 22 quận thành phố: tinh thần cứng rắn Khách Gia so với quỹ quân tăng gấp đôi, cùng Nam Đầu đối mặt với "di cư thanh niên khu vực núi + sân khấu chính trị" câu hỏi kép
+- [Hồ Nhật Nguyệt](/vi/geography/sun-moon-lake) — Năm 1934 đập Wujie công trình nâng cao mặt hồ 18,18 mét, nhà máy điện thủy lực lớn nhất châu Á, lịch sử di dân người Thao hoàn chỉnh
+- [Núi Ngọc Sơn](/vi/geography/yushan-jade-mountain) — 3.952 mét piku cao nhất Đài Loan, công viên quốc gia Ngọc Sơn vượt qua Nam Đầu Tín Nghĩa / Chiayi Ah Lý Sơn / Cao Hùng Đào Nguyên / Hoa Liên Tác Khê bốn quận thành phố
+- [Lịch Sử Dân Tộc Bản Địa Đài Loan Và Phong Trào Công Nhân](/vi/history/indigenous-peoples-history-and-naming-movement) — 2001 công nhận người Thao dân tộc thứ 10, 2004 Thái Lộ Các, 2008 công nhận dân tộc Seediq toàn cảnh phong trào quốc gia
+- [Tám Phần Hài Hòa](/vi/music/bunun-pasibutbut-eight-part-polyphony) — Pasibutbut chỉ truyền ở nhóm Luanshe và nhóm Junshe của tộc Bunun, sự thật bộ lạc Minh Đức
+- [Tiền Sử Và Dân Tộc Bản Địa](/vi/history/prehistoric-era-and-indigenous-peoples) — Dân tộc Seediq, Bunun, Thao, Tsou sinh sống 1000 năm ở dãy núi trung ương trục thời gian
+- [Thành Phố Cơ Long](/vi/geography/keelung-city) — Khởi động series 22 quận thành phố: cảng chứa container thế giới thứ bảy năm 1984 thành thứ 113 năm 2018, cùng Nam Đầu là quận được tường thuật chính quyền trung tâm bỏ sót
+- [Quận Miêu Lật](/vi/geography/miaoli-county) — Batch 1 sibling quận nội địa series 22 quận thành phố: tinh thần cứng rắn Khách Gia so với quỹ quân tăng gấp đôi, cùng Nam Đầu đối mặt với "di cư thanh niên khu vực núi + sân khấu chính trị" câu hỏi kép
 
 ## Nguồn Hình Ảnh
 

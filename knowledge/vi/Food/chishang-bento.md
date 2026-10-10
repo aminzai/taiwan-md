@@ -77,9 +77,9 @@ Mặc dù tiếng rao bán trên sân ga đã dần biến mất vì tàu điệ
 
 ## Tài liệu mở rộng
 
-- [Văn hoá cơm Đài Loan](/food/văn-hoá-cơm-đài-loan) — Trước khi cơm Chishang ngồi lên ngai vàng, mối quan hệ giữa người Đài Loan và cơm
-- [Nông nghiệp Đài Loan và tái sinh nông thôn](/economy/nông-nghiệp-đài-loan-và-tái-sinh-nông-thôn) — Hệ thống tự kỷ luật phía sau chứng nhận địa phương
-- [Nắp cơm](/food/nắp-cơm) — Hình dáng ban đầu của hộp cơm Chishang, sau này tự nó lớn thành một loại bữa sáng
+- [Văn hoá cơm Đài Loan](/vi/food/taiwan-rice-cuisine-culture) — Trước khi cơm Chishang ngồi lên ngai vàng, mối quan hệ giữa người Đài Loan và cơm
+- [Nông nghiệp Đài Loan và tái sinh nông thôn](/vi/economy/taiwan-agriculture-and-rural-revitalization) — Hệ thống tự kỷ luật phía sau chứng nhận địa phương
+- [Nắp cơm](/vi/food/rice-ball) — Hình dáng ban đầu của hộp cơm Chishang, sau này tự nó lớn thành một loại bữa sáng
 
 ## Tài liệu tham khảo
 

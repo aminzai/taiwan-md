@@ -5,7 +5,14 @@ date: 2026-08-16
 category: 'Technology'
 tags:
   [
-    'ディスプレイ産業、パネル、TFT-LCD、Micro LED、工業技術研究院、友達、群創、光電',
+    'ディスプレイ産業',
+    'パネル',
+    'TFT-LCD',
+    'Micro LED',
+    '工業技術研究院',
+    '友達',
+    '群創',
+    '光電',
   ]
 subcategory: '半導體與硬體'
 author: 'Taiwan.md Contributors'

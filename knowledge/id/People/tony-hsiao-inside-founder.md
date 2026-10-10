@@ -113,7 +113,7 @@ Hsiao Shang-nung masih di sini. Pengamatan terus berlanjut. Ia jadikan "terus me
 
 - [INSIDE Hard-se Network Trend Observation](https://www.inside.com.tw/) — Media teknologi pendirian bersama Hsiao Shang-nung, kini milik TNL Media Group, terus meliput industri teknologi Taiwan dan global
 - [iCook](https://icook.tw/) — Platform resep terbesar Taiwan pendirian bersama Hsiao Shang-nung, kini milik TNL Media Group
-- [Audrey Tang (唐鳳)](/people/唐鳳) — Menteri Pertama Departemen Pengembangan Digital Taiwan, sama-sama mendefinisikan karirnya dengan "melintasi banyak bidang"
+- [Audrey Tang (唐鳳)](/id/people/audrey-tang) — Menteri Pertama Departemen Pengembangan Digital Taiwan, sama-sama mendefinisikan karirnya dengan "melintasi banyak bidang"
 - [Ekosistem Startup Taiwan (台灣新創生態系)](/technology/台灣新創生態系) — Konteks perkembangan wirausaha internet Taiwan secara keseluruhan, INSIDE dan iCook keduanya kasus representatif di dalamnya
 
 ## Referensi

@@ -14,7 +14,7 @@ tags:
     'tiananmen',
     'cultural-icon',
   ]
-subcategory: 'Music'
+subcategory: '音樂'
 author: 'Taiwan.md'
 readingTime: 14
 featured: true

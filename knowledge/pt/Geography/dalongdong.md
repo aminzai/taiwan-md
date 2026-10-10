@@ -306,12 +306,12 @@ Três eras de fé de Taipé, alinhadas num eixo de 1,5 km, sem precedência, sem
 
 **Leitura complementar**:
 
-- [Taipé](/geography/台北市) — Contexto completo da cidade onde fica Dalongdong, do número Chen-Lai-Zhang de 1709 ao panorama de 2026
-- [Mengjia](/geography/艋舺) — Bairro mais antigo de Taipé na era Qing com Longshan Temple formado em 1738, outra ponta do conflito Ding-Xia Jiao de 1853
-- [Dadaocheng](/geography/大稻埕) — Assentamento final dos Tong'an em 1853, centro de comércio de chá em 1860, rua irmã de Dalongdong com mesma origem caminhos diferentes
-- [Ximending](/geography/西門町) — Distrito de entretenimento do período japonês em 1908, mesma época de Dalongdong mas experimento urbano completamente diferente
+- [Taipé](/pt/geography/taipei-city) — Contexto completo da cidade onde fica Dalongdong, do número Chen-Lai-Zhang de 1709 ao panorama de 2026
+- [Mengjia](/pt/geography/bangka) — Bairro mais antigo de Taipé na era Qing com Longshan Temple formado em 1738, outra ponta do conflito Ding-Xia Jiao de 1853
+- [Dadaocheng](/pt/geography/dadaocheng) — Assentamento final dos Tong'an em 1853, centro de comércio de chá em 1860, rua irmã de Dalongdong com mesma origem caminhos diferentes
+- [Ximending](/pt/geography/ximending) — Distrito de entretenimento do período japonês em 1908, mesma época de Dalongdong mas experimento urbano completamente diferente
 - [Religião e cultura de templos em Taiwan](/pt/culture/taiwan-religion-and-temple-culture) — Contexto completo do Baoan Temple, restauração de Liao Wu-zhi, Prêmio UNESCO
-- [Shilin](/geography/士林) — Conflito Zhang-Quan de 1859 e acolhimento pelos Tong'an de Dalongdong dos refugiados do conflito Ding-Xia Jiao de 1853, duas paisagens de conflito étnico no norte de Taiwan na era Qing
+- [Shilin](/pt/geography/shilin) — Conflito Zhang-Quan de 1859 e acolhimento pelos Tong'an de Dalongdong dos refugiados do conflito Ding-Xia Jiao de 1853, duas paisagens de conflito étnico no norte de Taiwan na era Qing
 
 ## Fontes das imagens
 
@@ -362,7 +362,7 @@ Este artigo usa 6 imagens com licença CC e domínio público, todas em cache em
 
 [^18]: [Prata Jogando Junto: Residência Ancestral Chen Yueji de Dalongdong — Único par remanescente em Taiwan de "dragão enroscado acima, leão rastejante abaixo"](http://egoldenyears.com/58360/) — Família Chen produziu 3 juren sucessivamente, ergueram 3 pares de mastros de pedra no pátio frontal, dragões enroscados no topo, leões rastejantes na base, até hoje 1 par ainda intacto, representante único remanescente em Taiwan.
 
-[^19]: [Chen Weiying (Taiwan, Wikipédia)](<https://zh.wikipedia.org/zh-tw/%E9%99%B3%E7%B6%AD%E8%8B%B1_(%E5%8F%B0%E7%81%A3) — Chen Weiying (1811-1869), nome de cortesia Yugu, natural de Dalongdong, Taipé, 1859 (9º ano Xianfeng) juren, 1862 incidente Dai Chaochun autofinanciou milícia para ajudar governo, após pacificação construiu casa de campo "Taigu Chao" na margem esquerda de Jiantan.
+[^19]: [Chen Weiying (Taiwan, Wikipédia)](<https://zh.wikipedia.org/zh-tw/%E9%99%B3%E7%B6%AD%E8%8B%B1_(%E5%8F%B0%E7%81%A3)>) — Chen Weiying (1811-1869), nome de cortesia Yugu, natural de Dalongdong, Taipé, 1859 (9º ano Xianfeng) juren, 1862 incidente Dai Chaochun autofinanciou milícia para ajudar governo, após pacificação construiu casa de campo "Taigu Chao" na margem esquerda de Jiantan.
 
 [^20]: [Cidade Acadêmica: Único grande deus no Templo de Confúcio de Taipé! "Zongwen do Norte de Taiwan" Chen Weiying](https://city.gvm.com.tw/article/121548) — Chen Weiying louvado postumamente como "Zongwen do Norte de Taiwan", obras _Rou Xian Lu_, _Taigu Chao Lian Ji_, _Xiangdang Zhi Yi_.
 

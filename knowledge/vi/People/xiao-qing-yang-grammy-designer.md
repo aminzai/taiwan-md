@@ -11,7 +11,7 @@ tags:
     'thiết kế hình ảnh',
     'văn hóa Đài Loan',
   ]
-subcategory: 'Nghệ thuật và Thiết kế'
+subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-19

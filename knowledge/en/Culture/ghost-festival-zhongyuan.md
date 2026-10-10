@@ -4,7 +4,7 @@ description: "In Taiwan, the Ghost Festival is more than just reverence for spir
 date: 2026-07-20
 author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: 'Festivals and Customs'
+subcategory: '節慶與禮俗'
 tags:
   [
     'Ghost Festival Offering',

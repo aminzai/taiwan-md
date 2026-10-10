@@ -199,7 +199,7 @@ _Canal oficial de TEDxTaipei, 2012: Shih Chen-jung «Hablando de la Vía del Rey
 - [Shih Chen-jung](/es/people/stan-shih) — El fundador de Acer que dibujó la Curva de la Sonrisa y regresó dos veces para salvar la empresa, de profeta tecnológico a dedicado a la beneficencia social
 - [Empresa de Taiwán: Wistron](/es/economy/wistron-global-manufacturing-transformation-pioneer) — El pequeño subcontratista menos esperado en la gran escisión, la que alcanzó la cima de la Curva de la Sonrisa en la era de la IA
 - [Empresa de Taiwán: ASUS](/es/economy/asus-computer) — El grupo de control que escindió a Pegatron en 2008, siguiendo un camino de escisión diferente, hoy con capitalización bursátil que supera a Acer
-- [Computex: Tres grandes ferias internacionales de computadoras cerraron dos, la que queda creció en Taipéi](/es/technology/computex-taipei) — El mismo escenario de la ascensión y caída de treinta años de Acer, también el campo principal anual de la industria manufacturera de Taiwán
+- [Computex: Tres grandes ferias internacionales de computadoras cerraron dos, la que queda creció en Taipéi](/es/technology/computex) — El mismo escenario de la ascensión y caída de treinta años de Acer, también el campo principal anual de la industria manufacturera de Taiwán
 - [Transformación y actualización de la industria de Taiwán](/es/economy/industrial-transformation-from-manufacturing-to-innovation) — Escalar desde la sección media de subcontratación hacia los extremos, ¿es el único camino? Todo el gran tema después de la Curva de la Sonrisa
 
 ## Fuentes de imágenes

@@ -158,7 +158,7 @@ translatedAt: '2026-07-25T07:56:05+08:00'
 
 [^11]: [Taiwan Strait — Wikipedia (EN)](https://en.wikipedia.org/wiki/Taiwan_Strait) — происхождение средней линии пролива 1955 г., публикация координат 2019 г., отрицание Китаем.
 
-[^12]: [Air Defense Identification Zone (Taiwan) — Wikipedia (EN)](<https://en.wikipedia.org/wiki/Air_Defense_Identification_Zone_(Taiwan)>) — тайваньская ADIZ 1954 г. американскими военными, охватывает материковый Китай, нет оснований в международном праве.
+[^12]: [Air Defense Identification Zone (Taiwan) — Wikipedia (EN)](https://en.wikipedia.org/wiki/Air_Defense_Identification_Zone_(Taiwan) — тайваньская ADIZ 1954 г. американскими военными, охватывает материковый Китай, нет оснований в международном праве.
 
 [^13]: [Marine Regions — Overlapping claim Taiwan](https://www.marineregions.org/eezdetails.php?mrgid=8321) — глубина континентального шельфа Тайваньского пролива и споры экономических зон.
 

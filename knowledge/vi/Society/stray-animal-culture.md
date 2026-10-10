@@ -469,7 +469,7 @@ Bài viết sử dụng 4 ảnh công cộng / CC license, toàn bộ cache ở 
 
 [^2]: [Bộ Nông nghiệp — Báo cáo điều tra quần thể chó hoang toàn quốc năm 111](https://www.moa.gov.tw/) — Kết quả điều tra lấy mẫu năm 2022: ước tính toàn Đài Loan khoảng 159.697 con chó hoang, đó là lần thống kê quy mô lớn chính thức mới nhất của vấn đề này.
 
-[^3]: [Twelve Nights — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8D%81%E4%BA%8C%E5%A4%9C_(%E8%87%BA%E7%81%A3%E9%9B%BB%E5%BD%B1) — ) — )) — Bộ phim tài liệu năm 2013 do Raye thực hiện, Cửu Ba Dao sản xuất, ghi lại 12 ngày đếm ngược của chó hoang ở nơi trú ẩn, trực tiếp thúc đẩy sửa đổi luật năm 2015
+[^3]: [Twelve Nights — Wikipedia](<https://zh.wikipedia.org/wiki/%E5%8D%81%E4%BA%8C%E5%A4%9C_(%E8%87%BA%E7%81%A3%E9%9B%BB%E5%BD%B1)>) — ) — )) — Bộ phim tài liệu năm 2013 do Raye thực hiện, Cửu Ba Dao sản xuất, ghi lại 12 ngày đếm ngược của chó hoang ở nơi trú ẩn, trực tiếp thúc đẩy sửa đổi luật năm 2015
 
 [^4]: [Cơ sở dữ liệu pháp luật quốc gia — Luật bảo vệ động vật (sửa đổi năm 2015)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0060027) — Luật bảo vệ động vật sửa đổi thông qua ba lần ngày 23 tháng 1 năm 2015, Điều 12 quy định rõ ràng từ năm 2017 nơi trú ẩn công cộng dừng xử lý nhân đạo (tiêm thuốc độc).
 

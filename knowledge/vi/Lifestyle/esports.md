@@ -18,7 +18,7 @@ tags:
     'Sức khỏe tâm thần',
     'Arena of Valor',
   ]
-subcategory: 'Giải trí và Thư giãn'
+subcategory: '休閒與娛樂'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-11

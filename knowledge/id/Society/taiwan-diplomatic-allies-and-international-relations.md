@@ -18,6 +18,15 @@ readingTime: 16
 lastVerified: 2026-04-28
 lastHumanReview: false
 featured: true
+sporeLinks:
+  - id: 51
+    platform: 'threads'
+    date: '2026-04-29'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXtCIBCEeTh?xmt=AQF00UmSgX_psrM3oEzyol1G5-uzmnwiLTKilOhh_lJbhQ'
+  - id: 52
+    platform: 'x'
+    date: '2026-04-29'
+    url: 'https://x.com/taiwandotmd/status/2049358488246349945'
 translatedFrom: 'Society/台灣邦交國與國際外交.md'
 sourceCommitSha: '669a4c87'
 sourceContentHash: 'sha256:03188362c6b1e61a'
@@ -276,11 +285,11 @@ Kedudukan itu adalah jarak di antara angka-angka tersebut.
 
 **Bacaan lanjutan**:
 
-- [Pertahanan dan modernisasi militer Taiwan](/society/台灣國防與軍事現代化) — ketika hanya tersisa 12 sekutu diplomatik, pertahanan militer mandiri menjadi pilar lain untuk memastikan jumlahnya “bukan 0”
-- [Krisis Selat Taiwan dan perkembangan hubungan lintas selat](/history/台海危機與兩岸關係發展) — bagaimana tiga krisis membentuk keterasingan diplomatik dan kecemasan keamanan Taiwan
+- [Pertahanan dan modernisasi militer Taiwan](/id/society/taiwan-defense-modernization) — ketika hanya tersisa 12 sekutu diplomatik, pertahanan militer mandiri menjadi pilar lain untuk memastikan jumlahnya “bukan 0”
+- [Krisis Selat Taiwan dan perkembangan hubungan lintas selat](/id/history/taiwan-strait-crises-and-cross-strait-relations) — bagaimana tiga krisis membentuk keterasingan diplomatik dan kecemasan keamanan Taiwan
 - [TSMC](/business/台積電) — landasan material perisai silikon dan kerentanan strukturalnya
 - [Cho Jung-tai](/id/people/cho-jung-tai) — lintasan tarif Amerika Serikat–Taiwan pada 2026 dari 32→20→15% dan koordinator kabinet untuk kunjungan Lai Ching-te ke Eswatini
-- [Taiwan dan Eswatini](/society/台灣與史瓦帝尼) — satu-satunya sekutu diplomatik yang tersisa di Afrika, kisah lengkap selama 58 tahun sejak pembentukan hubungan pada hari yang sama pada 1968 hingga kunjungan Lai Ching-te pada 2026
+- [Taiwan dan Eswatini](/id/society/taiwan-eswatini-relations) — satu-satunya sekutu diplomatik yang tersisa di Afrika, kisah lengkap selama 58 tahun sejak pembentukan hubungan pada hari yang sama pada 1968 hingga kunjungan Lai Ching-te pada 2026
 
 ## Referensi
 

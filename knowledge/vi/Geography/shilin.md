@@ -23,7 +23,7 @@ tags:
     'gà chiên giòn nổi danh',
     'khu phố lịch sử',
   ]
-subcategory: 'Khu phố lịch sử / Quận Tư Lâm, Đài Bắc'
+subcategory: '歷史街區 / 台北市士林區'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-21
@@ -225,15 +225,15 @@ Lần tới bạn chiều 7 giờ 30 tối đứng ở ngã tư chợ đêm Tư 
 
 **Đọc Tiếp**:
 
-- [Đài Bắc](/geography/đài-bắc) — 12 khu Panorama, Tư Lâm năm 1968 trước sát nhập Đài Bắc là quản lý sơn Dương Minh
-- [Văn Hóa Phố Cũ và Khu Phố Thương Mại Đài Loan](/culture/phố-cũ-và-khu-phố-thương-mại-đài-loan) — Phố cũ Tài Liệu Chính, Tư Lâm Phố Mới là một trong ít vị trí Đài Loan có thể truy tìm tới bộ kế hoạch hình vuông năm 1860
-- [Bến Tàu](/geography/bến-tàu) — Batch 1 Anh Em Chị Dâu, Năm 1853 Tranh chấp Hàng Chợ là Tiền Dạo của Năm 1859 Tranh chấp Tương-Tuyền, Góc Khác của Tam Giác Thị Trường Ba
-- [Đại Thao Đế](/geography/đại-thao-đế) — Batch 1 Anh Em Chị Dâu, Năm 1853 Người Đồng An Chạy Trốn Tới Đây Mở Thương Cảng, Và Người Tương Châu từ Phố Cũ Chạy Trốn tới Phố Mới là cùng một Xích Cấu Trúc
-- [Tây Giang](/geography/tây-giang) — Batch 1 Anh Em Chị Dâu, Năm 1896 Khu Giải Trí Nhật bây tỏ vs Tư Lâm Năm 1909 Thị Trường Dân Sinh, Hai Loại Cấu Trúc Vật Chất Người Nhật Bây Tỏ để Lại
-- [Văn Hóa Tôn Giáo và Miếu Đàn Đài Loan](/culture/tôn-giáo-và-miếu-đàn) — Miếu Từ Tuyên Là Nút Ghi Trọng Yếu Tín Ngưỡng Ma Tổ Đài Bắc, Cạnh Nhau Với Thánh Thành Thành Hoàng Đại Thao Đế, Rồn Rộp Thánh Thành Đại Bến Tàu
-- [Sự Kiện 228](/history/sự-kiện-228) — Bối Cảnh Từ Năm 1947 Nhân Dân Ngoài Tỉnh Ồ Ạt Tới Tư Lâm, Đường Văn Lâm Mở Rộng, Quan Đế Tư Lâm Lập Nên Thời Đại
-- [Lịch Sử Thời Thanh](/history/lịch-sử-thời-thanh) — Năm 1796-1895 Hán Nhân Vào Khai Hoang, Tranh Chấp Tương-Tuyền, Bối Cảnh Trăm Năm Thời Thanh Quy Hoạch Phố Mới Phan Vĩnh Thanh
-- [Đại Long Tổng](/geography/đại-long-tổng) — Năm 1853 Tranh Chấp Hàng Chợ Thất Bại Trung Tâm Phòng Chế Người Đồng An Rút Lui, Cạnh Rồn Rộp Và Tư Lâm Năm 1859 Tranh Chấp Tương-Tuyền Là Hai Cảnh Quang Cảnh Tranh Chấp Dân Tộc Bắc Đài Loan
+- [Đài Bắc](/vi/geography/taipei-city) — 12 khu Panorama, Tư Lâm năm 1968 trước sát nhập Đài Bắc là quản lý sơn Dương Minh
+- [Văn Hóa Phố Cũ và Khu Phố Thương Mại Đài Loan](/vi/culture/taiwan-historic-streets-and-commercial-districts) — Phố cũ Tài Liệu Chính, Tư Lâm Phố Mới là một trong ít vị trí Đài Loan có thể truy tìm tới bộ kế hoạch hình vuông năm 1860
+- [Bến Tàu](/vi/geography/bangka) — Batch 1 Anh Em Chị Dâu, Năm 1853 Tranh chấp Hàng Chợ là Tiền Dạo của Năm 1859 Tranh chấp Tương-Tuyền, Góc Khác của Tam Giác Thị Trường Ba
+- [Đại Thao Đế](/vi/geography/dadaocheng) — Batch 1 Anh Em Chị Dâu, Năm 1853 Người Đồng An Chạy Trốn Tới Đây Mở Thương Cảng, Và Người Tương Châu từ Phố Cũ Chạy Trốn tới Phố Mới là cùng một Xích Cấu Trúc
+- [Tây Giang](/vi/geography/ximending) — Batch 1 Anh Em Chị Dâu, Năm 1896 Khu Giải Trí Nhật bây tỏ vs Tư Lâm Năm 1909 Thị Trường Dân Sinh, Hai Loại Cấu Trúc Vật Chất Người Nhật Bây Tỏ để Lại
+- [Văn Hóa Tôn Giáo và Miếu Đàn Đài Loan](/vi/culture/taiwan-religion-and-temple-culture) — Miếu Từ Tuyên Là Nút Ghi Trọng Yếu Tín Ngưỡng Ma Tổ Đài Bắc, Cạnh Nhau Với Thánh Thành Thành Hoàng Đại Thao Đế, Rồn Rộp Thánh Thành Đại Bến Tàu
+- [Sự Kiện 228](/vi/history/228-incident) — Bối Cảnh Từ Năm 1947 Nhân Dân Ngoài Tỉnh Ồ Ạt Tới Tư Lâm, Đường Văn Lâm Mở Rộng, Quan Đế Tư Lâm Lập Nên Thời Đại
+- [Lịch Sử Thời Thanh](/vi/history/qing-dynasty-rule) — Năm 1796-1895 Hán Nhân Vào Khai Hoang, Tranh Chấp Tương-Tuyền, Bối Cảnh Trăm Năm Thời Thanh Quy Hoạch Phố Mới Phan Vĩnh Thanh
+- [Đại Long Tổng](/vi/geography/dalongdong) — Năm 1853 Tranh Chấp Hàng Chợ Thất Bại Trung Tâm Phòng Chế Người Đồng An Rút Lui, Cạnh Rồn Rộp Và Tư Lâm Năm 1859 Tranh Chấp Tương-Tuyền Là Hai Cảnh Quang Cảnh Tranh Chấp Dân Tộc Bắc Đài Loan
 
 ## Hình Ảnh Nguồn Gốc
 

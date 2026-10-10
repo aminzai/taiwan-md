@@ -5,7 +5,7 @@ date: 2026-03-19
 category: 'People'
 tags:
   ['체육', '육상', '창던지기', '세계대학경기대회', '아시아 기록', '도쿄 올림픽']
-subcategory: '체육'
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

@@ -12,7 +12,7 @@ tags:
     'bài hát sâu lắng',
     'triết học nhân sinh',
   ]
-subcategory: 'âm nhạc'
+subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-06-05
@@ -148,12 +148,12 @@ Viết ca khúc tốt nhất ba mươi năm cho người khác, anh cuối cùng
 
 **Đọc thêm liên quan**:
 
-- [Luo Dayou](/people/羅大佑) — Cha đẻ âm nhạc Hoa ngữ khác, "quan sát thế gian" đối với "hiểu tâm người" của Lý Tông Thạnh, phải đọc cạnh nhau
-- [Trương Ngải Gia](/people/張艾嘉) — Lý Tông Thạnh bước vào Rolling Stone công việc sản xuất đầu tiên 《Bận Rộn Và Mù Lòa》, điểm khởi đầu của dòng máu "nữ thành phố"
-- [Trương Huệ Mei](/people/張惠妹) — Giọng nữ thần thánh cùng thời Kỷ Nguyên Vàng Rolling Stone, con đường khác của phụ nữ giọng Hoa ngữ
-- [Phong Trào Nhạc Dân Gian Đài Loan](/music/台灣民歌運動) — Chuyến tàu mà Lý Tông Thạnh đã lên vào những năm 1970, đất nuôi dưỡng ban dạ ca ghi ta và Giải thưởng Kim Vận
-- [Sự Tiến Hóa Của Tiếng Hoa Đài Loan](/culture/台灣華語的演化) — Tại sao "lời bình dân vào ca khúc" lại cảm động người, liên quan tới tiếng Hoa Đài Loan biến thành ngôn ngữ hàng ngày như thế nào
-- [Hoàng Đại Nguy](/people/黃大煒) — Nhạc sĩ toàn năng cùng thế hệ và ca sĩ sáng tác, dùng một giọng khàn khàn tự thành một bộ môn, với Lý Tông Thạnh là hai cách tìm đường cho ca khúc cảm xúc dòng Hoa ngữ
+- [Luo Dayou](/vi/people/luo-dayou) — Cha đẻ âm nhạc Hoa ngữ khác, "quan sát thế gian" đối với "hiểu tâm người" của Lý Tông Thạnh, phải đọc cạnh nhau
+- [Trương Ngải Gia](/vi/people/sylvia-chang) — Lý Tông Thạnh bước vào Rolling Stone công việc sản xuất đầu tiên 《Bận Rộn Và Mù Lòa》, điểm khởi đầu của dòng máu "nữ thành phố"
+- [Trương Huệ Mei](/vi/people/a-mei) — Giọng nữ thần thánh cùng thời Kỷ Nguyên Vàng Rolling Stone, con đường khác của phụ nữ giọng Hoa ngữ
+- [Phong Trào Nhạc Dân Gian Đài Loan](/vi/music/taiwan-campus-folk-song-movement) — Chuyến tàu mà Lý Tông Thạnh đã lên vào những năm 1970, đất nuôi dưỡng ban dạ ca ghi ta và Giải thưởng Kim Vận
+- [Sự Tiến Hóa Của Tiếng Hoa Đài Loan](/vi/culture/taiwan-mandarin-evolution) — Tại sao "lời bình dân vào ca khúc" lại cảm động người, liên quan tới tiếng Hoa Đài Loan biến thành ngôn ngữ hàng ngày như thế nào
+- [Hoàng Đại Nguy](/vi/people/david-wong) — Nhạc sĩ toàn năng cùng thế hệ và ca sĩ sáng tác, dùng một giọng khàn khàn tự thành một bộ môn, với Lý Tông Thạnh là hai cách tìm đường cho ca khúc cảm xúc dòng Hoa ngữ
 
 ## Hình ảnh Nguồn
 
@@ -177,7 +177,7 @@ Bài viết sử dụng 3 hình ảnh được cấp phép CC, toàn bộ cache 
 
 [^4]: [Lý Tông Thạnh 《Những Bài Hát Cũ Viết Lại》 Viết Cho Cha Một Bức Thư Hòa Giải - Tạp Chí Mirror](https://www.mirrormedia.mg/story/20180615ent023) — Báo cáo 〈Những Bài Hát Cũ Viết Lại〉 phát hành tháng 5 năm 2018, là bức thư "chưa được gửi để hòa giải" mà Lý Tông Thạnh viết cho cha quá cố.
 
-[^5]: [Sơn Khúc (Ca Khúc Lý Tông Thạnh) - Đại Bách Khoa](https://zh.wikipedia.org/zh-tw/山丘_(李宗盛歌曲) — ) — )) — Ghi 〈Sơn Khúc〉 giai điệu ủ mưu ở Thượng Hải năm 2003, kéo dài mười năm hoàn thành phát hành ngày 2 tháng 10 năm 2013
+[^5]: [Sơn Khúc (Ca Khúc Lý Tông Thạnh) - Đại Bách Khoa](<https://zh.wikipedia.org/zh-tw/山丘_(李宗盛歌曲)>) — ) — )) — Ghi 〈Sơn Khúc〉 giai điệu ủ mưu ở Thượng Hải năm 2003, kéo dài mười năm hoàn thành phát hành ngày 2 tháng 10 năm 2013
 
 [^6]: [Thuyết Phục Lý Tông Thạnh: Lý Tông Thạnh Nói Về Điểm Khởi Đầu Sáng Tác - Báo Liên Hợp](https://opinion.udn.com/opinion/story/121698/5965869) — Lý Tông Thạnh nói về cảm hứng sáng tác và động lực, đề cập "Tôi không muốn quay lại phân phối gas nữa!".
 
@@ -207,7 +207,7 @@ Bài viết sử dụng 3 hình ảnh được cấp phép CC, toàn bộ cache 
 
 [^19]: [Luo Dayou - Đại Bách Khoa](https://zh.wikipedia.org/zh-tw/羅大佑) — Ghi "Nhà Máy Âm Nhạc" (Music Factory) là nhãn nhạc Luo Dayou thành lập ở Hồng Kông năm 1990, không phải do Lý Tông Thạnh sở hữu.
 
-[^20]: [Cuộn Cuộn Hồng Trần (Phim) - Đại Bách Khoa](https://zh.wikipedia.org/zh-tw/滾滾紅塵_(電影) — ) — )) — Xác nhận 〈Cuộn Cuộn Hồng Trần〉 do Luo Dayou sáng tác nhạc (cùng Lâm Tích từ), Trần Thục Hòa hát, không phải tác phẩm Lý Tông Thạnh
+[^20]: [Cuộn Cuộn Hồng Trần (Phim) - Đại Bách Khoa](<https://zh.wikipedia.org/zh-tw/滾滾紅塵_(電影)>) — ) — )) — Xác nhận 〈Cuộn Cuộn Hồng Trần〉 do Luo Dayou sáng tác nhạc (cùng Lâm Tích từ), Trần Thục Hòa hát, không phải tác phẩm Lý Tông Thạnh
 
 [^21]: [Khảo Sát 〈Yêu Một Người Không Về Nhà〉 - The News Lens Bình Luận Khoá](https://www.thenewslens.com/article/31123) — Ghi 〈Yêu Một Người Không Về Nhà〉 là tác phẩm Feidi năm 1990, Trần Chí Viễn nhạc, Đỉnh Tiêu Văn từ, Trần Thu Nam sản xuất, không phải Lý Tông Thạnh.
 

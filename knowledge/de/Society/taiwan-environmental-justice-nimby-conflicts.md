@@ -222,13 +222,13 @@ Umweltentscheidungen in einer Demokratie sollten auf vollständiger Information,
 
 **Weiterführende Literatur**：
 
-- [Taipehs Raucherräume: In der rauchfreien Stadt, jener atmende Glaskasten](/society/台北吸菸室) — Wo Raucherräume hingehören, ob Obdachlose sich sammeln, ist ein NIMBY-Rätsel im Straßenmaßstab
+- [Taipehs Raucherräume: In der rauchfreien Stadt, jener atmende Glaskasten](/de/society/taipei-smoking-room) — Wo Raucherräume hingehören, ob Obdachlose sich sammeln, ist ein NIMBY-Rätsel im Straßenmaßstab
 
-- [Taiwans Diskussion über Kernenergie](/society/台灣與核能的討論) — Die Tao von Orchid Island tragen Atommüll, stehen aber nicht im Zentrum der Debatte: Der tiefste NIMBY- und Umweltgerechtigkeitsbruch im Kernenergiestreit
+- [Taiwans Diskussion über Kernenergie](/de/society/taiwan-nuclear-debate) — Die Tao von Orchid Island tragen Atommüll, stehen aber nicht im Zentrum der Debatte: Der tiefste NIMBY- und Umweltgerechtigkeitsbruch im Kernenergiestreit
 - [Wellblechhütten](/de/society/taiwan-tin-shed-houses) — Die Zwangsräumung von Tuliao Creek ist ein typischer Fall von Umweltgerechtigkeit: Das Dilemma von Verschmutzung, Abriss und Umsiedlung einer 400 Hektar großen Wellblechfabrik-Siedlung
-- [Sozialer Wohnbau und Wohnungsgerechtigkeit](/society/社會住宅與居住正義) — Die Politikdimension des Wohnproblems: Angebot an Sozialwohnungen und Reform des Mietmarkts
+- [Sozialer Wohnbau und Wohnungsgerechtigkeit](/de/society/social-housing-and-housing-justice) — Die Politikdimension des Wohnproblems: Angebot an Sozialwohnungen und Reform des Mietmarkts
 - [Lu Hsiu-yen](/de/people/lu-hsiu-yan) — Die Politikerin, die 2018 mit Luftthemen Taichung gewann: Das konkrete Politikschlachtfeld um das Kohlekraftwerk Taichung, PM2.5, Energiewende
-- [Taiwans Klimakrise und Net-Zero-Transformation](/nature/台灣氣候危機與淨零轉型) — Orchid Island 97.672 Fässer, Kernkraftwerk 3 Referendum 2025, Algenriff dritter LNG-Terminal, Geothermie 27-fache Lücke: Jeder Energiewendepfad korrespondiert mit einem Umweltgerechtigkeitsbruch
+- [Taiwans Klimakrise und Net-Zero-Transformation](/de/nature/taiwan-climate-change-net-zero-transition) — Orchid Island 97.672 Fässer, Kernkraftwerk 3 Referendum 2025, Algenriff dritter LNG-Terminal, Geothermie 27-fache Lücke: Jeder Energiewendepfad korrespondiert mit einem Umweltgerechtigkeitsbruch
 
 ## Referenzen
 

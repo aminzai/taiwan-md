@@ -117,7 +117,7 @@ A principios de 2025, Tsai Ming-chieh entró en la lista de clientes del proceso
 
 - [Empresas de Taiwán: TSMC](/es/economy/tsmc)
 - [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — Desde la transferencia tecnológica de RCA en 1973 hasta la producción en masa de 2 nm, todo el ecosistema de semiconductores; MediaTek es el representante del diseño de IC
-- [Taiwán cuenta tecnología: 100 puntos el chip, 60 puntos el micrófono](/es/technology/taiwan-tech-stories) — MediaTek, número uno en envíos globales, ¿por qué su narrativa de marca aún no alcanza a Qualcomm?
+- [Taiwán cuenta tecnología: 100 puntos el chip, 60 puntos el micrófono](/es/technology/taiwan-tech-storytelling) — MediaTek, número uno en envíos globales, ¿por qué su narrativa de marca aún no alcanza a Qualcomm?
 
 ---
 

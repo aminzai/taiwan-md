@@ -4,7 +4,7 @@ description: '1972年8月9日、台東県卑南郷に生まれた張惠妹は、
 date: 2026-03-19
 author: 'Taiwan.md'
 category: 'People'
-subcategory: '音楽'
+subcategory: '音樂'
 tags: ['音楽', '先住民族', '卑南族', '天后', 'LGBTQ+平等', 'ポップミュージック']
 readingTime: 7
 #   whats_excluded: "各アルバムの全曲リスト；商業タイアップ一覧；各コンサートの公演詳細"

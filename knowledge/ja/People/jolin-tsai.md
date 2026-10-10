@@ -11,7 +11,7 @@ featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
 translatedFrom: 'People/蔡依林.md'
-sourceCommitSha: 'ce7f10f8'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:1eed0b39727d52a4'
 sourceBodyHash: 'sha256:ecfb49e20d9c0f4b'
 translatedAt: '2026-05-09T14:30:48Z'

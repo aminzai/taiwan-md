@@ -114,8 +114,8 @@ Kebangkitan komik Taiwan sekaligus merupakan persoalan industri dan identitas bu
 
 ## Bacaan Lanjutan
 
-- [Budaya Anime dan Komik Taiwan](/culture/台灣動漫文化) — budaya konsumsi anime dan komik dari sudut pandang pembaca: _cosplay_, _dōjinshi_, pameran anime dan komik, serta ingatan antargenerasi
-- [Film Taiwan](/art/台灣電影) — poros lain dalam narasi visual Taiwan
+- [Budaya Anime dan Komik Taiwan](/id/culture/taiwan-anime-culture) — budaya konsumsi anime dan komik dari sudut pandang pembaca: _cosplay_, _dōjinshi_, pameran anime dan komik, serta ingatan antargenerasi
+- [Film Taiwan](/id/art/taiwanese-cinema) — poros lain dalam narasi visual Taiwan
 - [Perkembangan Sastra Kontemporer Taiwan](/art/台灣當代文學發展) — ranah tekstual dalam evolusi kesadaran diri kreatif Taiwan
 
 ## Referensi
@@ -136,4 +136,4 @@ Kebangkitan komik Taiwan sekaligus merupakan persoalan industri dan identitas bu
 
 ---
 
-_Terakhir diverifikasi: 2026-04-19 (Issue #556 mengusulkan melalui @idlccp1984 agar dua artikel lama, “Komik dan Ilustrasi Taiwan” serta “Komik, Anime, dan Budaya Animasi Taiwan”, digabungkan; bagian anime dan animasi dipisahkan menjadi [Budaya Anime dan Komik Taiwan](/culture/台灣動漫文化))_
+_Terakhir diverifikasi: 2026-04-19 (Issue #556 mengusulkan melalui @idlccp1984 agar dua artikel lama, “Komik dan Ilustrasi Taiwan” serta “Komik, Anime, dan Budaya Animasi Taiwan”, digabungkan; bagian anime dan animasi dipisahkan menjadi [Budaya Anime dan Komik Taiwan](/id/culture/taiwan-anime-culture))_

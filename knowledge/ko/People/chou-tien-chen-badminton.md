@@ -112,7 +112,7 @@ translatedAt: '2026-07-07T00:38:22+08:00'
 
 - [Chartlin / Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Chou_Tien-Chen_(TPE)_2018.jpg>) — CC BY-SA 4.0 (2018 중화 타이베이 오픈)
 - [Tony2803.tw / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:周天成2024台北羽球公開賽.jpg) — CC BY 4.0 (2024 타이베이 오픈)
-- [타이베이시 체육국 / Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Chou_Tien-chen_in_2022_Taipei_Open_(cropped).jpg>) — Attribution (정부 개방 데이터, 2022 타이베이 오픈)
+- [타이베이시 체육국 / Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Chou_Tien-Chen_in_2022_Taipei_Open_(cropped).jpg>) — Attribution (정부 개방 데이터, 2022 타이베이 오픈)
 
 ## 참고 자료
 

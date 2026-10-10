@@ -242,9 +242,9 @@ Bedanya di pagi 8 September 2015 itu. Sekarang Taiwan punya puluhan ribu orang t
 
 **Bacaan Lanjutan**:
 
-- [The Reporter: Sepuluh Tahun Menyelamatkan Investigasi Jurnalistik dari Item Bisnis Jadi Barang Publik](/society/報導者): Cerita lain pembaca Taiwan pakai uang vote hidupi barang publik, donatur bagi The Reporter, kayak sponsor bagi Jin Xuan.
+- [The Reporter: Sepuluh Tahun Menyelamatkan Investigasi Jurnalistik dari Item Bisnis Jadi Barang Publik](/id/society/the-reporter-investigative-journalism): Cerita lain pembaca Taiwan pakai uang vote hidupi barang publik, donatur bagi The Reporter, kayak sponsor bagi Jin Xuan.
 - [Seni Media Baru Taiwan](/id/art/taiwan-new-media-art): Kelompok kreator Taiwan lain berdiri di persimpangan desain, teknologi, identitas budaya.
-- [Gerakan Sosial dan Partisipasi Warga](/society/社會運動與公民參與): Energi "berebut untuk urusan publik" kayak perdebatan Jin Xuan, di masyarakat Taiwan punya konteks lebih besar.
+- [Gerakan Sosial dan Partisipasi Warga](/id/society/social-movements-and-civic-participation): Energi "berebut untuk urusan publik" kayak perdebatan Jin Xuan, di masyarakat Taiwan punya konteks lebih besar.
 - [Kabel Laut](/id/technology/submarine-cables-taiwan-lifeline): Infrastruktur dasar lain yang tiap hari dipakai semua orang, tapi hampir tidak ada yang lihat.
 
 ## Sumber Gambar

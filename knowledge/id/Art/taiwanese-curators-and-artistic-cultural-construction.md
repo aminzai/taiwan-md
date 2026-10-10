@@ -106,7 +106,7 @@ _Penulisan artikel ini merujuk pada sejumlah besar data primer dan konten wawanc
 
 **Bacaan Lanjutan**:
 
-- [Pulau Seni Internasional Matsu](/art/馬祖國際藝術島) — proyek kurasi sepuluh tahun yang diselenggarakan oleh Pemerintah Kabupaten Lienchiang, edisi ke-tiga dipimpin secara berdampingan oleh lima kurator, merupakan kasus konkret ekosistem kurasi Taiwan menuju berbasis tim dan desentralisasi
+- [Pulau Seni Internasional Matsu](/id/art/matsu-biennial) — proyek kurasi sepuluh tahun yang diselenggarakan oleh Pemerintah Kabupaten Lienchiang, edisi ke-tiga dipimpin secara berdampingan oleh lima kurator, merupakan kasus konkret ekosistem kurasi Taiwan menuju berbasis tim dan desentralisasi
 
 ## Referensi
 

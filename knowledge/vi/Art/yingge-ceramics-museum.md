@@ -12,7 +12,7 @@ tags:
     'Giản Học Nghĩa',
     'triển lãm nghệ thuật gốm sứ quốc tế của Đài Loan',
   ]
-subcategory: 'Kiểu tra và giáo dục'
+subcategory: '策展與教育'
 author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 12

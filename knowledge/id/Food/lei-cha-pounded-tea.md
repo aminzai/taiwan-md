@@ -2,7 +2,7 @@
 title: 'Lei Cha: Se Mangkuk Teh Manis, Bagaimana Kuliner Pengungsi Pasca Perang Menjadi Ikon Kuliner Beipu'
 description: 'Maret 1999, sebuah toko khusus di Jalan Tua Beipu membawa Lei Cha yang semula tersembunyi di rumah ke jalanan. Dari sup teh asin yang dibawa imigran Hebo, hingga minuman manis yang diseduh dari kacang tanah, wijen, dan beras sangrai, serta versi-versi berbeda di Taoyuan dan luar negeri, Lei Cha bukanlah warisan kuno yang kaku, melainkan hasil penulisan ulang bersama oleh imigran, kebijakan, selera, pariwisata, dan sepasang-sepasang alu penumbuk.'
 date: 2026-08-20
-subcategory: 'Kuliner Etnis'
+subcategory: '族群飲食'
 category: 'Food'
 tags: ['Lei Cha', 'Hakka', 'Beipu', 'Hsinchu', 'Budaya Kuliner']
 author: 'Taiwan.md Contributors'
@@ -14,6 +14,7 @@ curation: 'incubating'
 translatedFrom: 'Food/擂茶.md'
 sourceCommitSha: '2c62c6aba'
 sourceContentHash: 'sha256:ee2201b450622484'
+sourceBodyHash: 'sha256:66c062471e0b3496'
 translatedAt: '2026-09-11T16:01:40.417465+00:00'
 ---
 

@@ -39,6 +39,7 @@ sporeLinks:
 translatedFrom: 'Society/醫療法.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:a87fc88d09f6e189'
+sourceBodyHash: 'sha256:3a7e69bdd14827b6'
 translatedAt: '2026-09-20T01:05:35.528782+00:00'
 ---
 
@@ -208,7 +209,7 @@ Biaya seorang perawat yang merawat satu tempat tidur pasien selama 24 jam, diban
 民眾網
 ```
 
-> 📝 **Catatan Editor**: Di bawah logika penilaian biaya National Health Insurance, rawat inap tidak seperti klinik atau operasi yang bisa menghasilkan poin tinggi. Namun tenaga perawat adalah pengeluaran tetap yang harus dibayar oleh rumah sakit. Di bawah langit-langit anggaran total, yang paling mudah dihemat dan paling mudah ditekan adalah justru perawat. Mengaitkan "rumah sakit jahat mengeksploitasi perawat" terdengar sangat mudah, namun pandangan yang lebih dekat ke struktur adalah: ini adalah pilihan rasional yang dituntut oleh sistem pembayaran ini. Untuk melegakkan tangan-tangan ini, hanya mencela rumah sakit tidak cukup, harus kembali bertanya bagaimana National Health Insurance menilai biaya perawatan satu tempat tidur — jejak ini mengarah ke [Sistem Kesehatan dan Asuransi Kesehatan Nasional](/lifestyle/台灣醫療與全民健保) yang telah berusia empat puluh tahun.
+> 📝 **Catatan Editor**: Di bawah logika penilaian biaya National Health Insurance, rawat inap tidak seperti klinik atau operasi yang bisa menghasilkan poin tinggi. Namun tenaga perawat adalah pengeluaran tetap yang harus dibayar oleh rumah sakit. Di bawah langit-langit anggaran total, yang paling mudah dihemat dan paling mudah ditekan adalah justru perawat. Mengaitkan "rumah sakit jahat mengeksploitasi perawat" terdengar sangat mudah, namun pandangan yang lebih dekat ke struktur adalah: ini adalah pilihan rasional yang dituntut oleh sistem pembayaran ini. Untuk melegakkan tangan-tangan ini, hanya mencela rumah sakit tidak cukup, harus kembali bertanya bagaimana National Health Insurance menilai biaya perawatan satu tempat tidur — jejak ini mengarah ke [Sistem Kesehatan dan Asuransi Kesehatan Nasional](/id/lifestyle/taiwan-healthcare-and-national-health-insurance) yang telah berusia empat puluh tahun.
 
 Ketika akar masalah tertanam dalam struktur pembayaran asuransi kesehatan dan dalam pilihan karier 110.000 orang, jawabannya sulit ditemukan hanya dengan satu undang-undang. Namun, di musim semi 2026, Taiwan tetap memutuskan untuk menulis garis itu ke dalam hukum terlebih dahulu.
 
@@ -362,7 +363,7 @@ Kata-kata yang ditulis dalam undang-undang akan dibaca oleh pembacanya. Kata-kat
 
 **Bacaan Lanjutan**:
 
-- [Taiwan Kesehatan dan Asuransi Kesehatan Nasional](/lifestyle/台灣醫療與全民健保) — cakupan dan struktur pembayaran asuransi kesehatan yang terkenal secara global, menjadi pasangan "sisi pembayaran" setelah Undang-Undang Kesehatan dilaksanakan
+- [Taiwan Kesehatan dan Asuransi Kesehatan Nasional](/id/lifestyle/taiwan-healthcare-and-national-health-insurance) — cakupan dan struktur pembayaran asuransi kesehatan yang terkenal secara global, menjadi pasangan "sisi pembayaran" setelah Undang-Undang Kesehatan dilaksanakan
 - [Pengakuan Praktisi: Evolusi Undang-Undang Kesehatan Regeneratif Taiwan](/id/society/taiwan-regenerative-medicine-laws) — dua undang-undang kesehatan regeneratif yang disahkan pada 2024, merupakan undang-undang khusus yang dipisahkan dari Undang-Undang Kesehatan untuk melengkapi ketentuan terapi sel
 - [Sistem Kesehatan Gawat Darurat Taiwan](/id/technology/taiwan-disaster-medicine-system) — implementasi sebenarnya dari Pasal 1 Undang-Undang Kesehatan "mendistribusikan sumber daya kesehatan secara wajar" dalam skenario bencana besar
 

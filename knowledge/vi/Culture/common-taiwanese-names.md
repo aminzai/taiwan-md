@@ -3,7 +3,7 @@ title: 'Tên Chợ Rau'
 description: "Khi người ta hô vang 'Thịnh An' hay 'Gia Hùng' trên đường phố Đài Loan, có bao nhiêu người sẽ quay lại? Những tên này là phản ánh xã hội Đài Loan, ghi lại tưởng tượng chung về 'cuộc sống tốt đẹp' của các thế hệ khác nhau."
 date: 2026-04-19
 category: 'Culture'
-subcategory: 'Lễ hội và phong tục'
+subcategory: '節慶與禮俗'
 tags:
   [
     'Văn hóa xã hội',

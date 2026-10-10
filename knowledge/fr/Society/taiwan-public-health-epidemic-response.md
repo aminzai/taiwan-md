@@ -12,7 +12,7 @@ tags:
     'assurance maladie universelle',
     'CDC Taïwan',
   ]
-subcategory: 'Société'
+subcategory: 'Society'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-08

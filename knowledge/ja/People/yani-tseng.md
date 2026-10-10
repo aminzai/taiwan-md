@@ -12,7 +12,7 @@ tags:
     'メジャー',
     '女子ゴルフ',
   ]
-subcategory: 'スポーツ'
+subcategory: '體育'
 featured: false
 lastVerified: 2026-03-31
 lastHumanReview: false

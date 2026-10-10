@@ -166,14 +166,14 @@ Năm 2015 ở Tân Gia Ba là một lần bắt tay, 2026 ở Bắc Kinh là m�
 
 **Đọc thêm**:
 
-- [Khủng hoảng eo biển Đài Loan và phát triển quan hệ hai bờ eo biển](/history/khủng-hoảng-eo-biển-và-quan-hệ-hai-bờ) — Từ 1949 đến 2016, bảy mươi năm tương tác hai bờ eo biển, cuộc gặp Trịnh-Tập chỉ là chương mới nhất của dòng sông dài này.
-- [Môi trường chính trị Đài Loan và hệ thống bầu cử](/society/môi-trường-chính-trị-đài-loan) — Để hiểu "tại sao lại là Trịnh Lệ Văn", trước tiên cần hiểu cuộc bầu cử chủ tịch Quốc Dân Đảng 2025 và cuộc tranh luận đường lối nội bộ.
-- [Quá trình chuyển đổi dân chủ của Đài Loan](/history/quá-trình-chuyển-đổi-dân-chủ) — Tại sao AIT nhấn mạnh "đối thoại với lãnh đạo được bầu chọn"? Nền tảng của nguyên tắc này nằm ở đây.
-- [Quốc phòng và hiện đại hóa quân sự Đài Loan](/society/quốc-phòng-và-hiện-đại-hóa-quân-sự) — Đằng sau "sắp xếp chính thức để ngăn chặn chiến tranh" của Trịnh, là cuộc chiến chính trị về dự toán quốc phòng.
-- [Lại Thanh Đức](/people/lại-thanh-đức) — Vai trò khác của vở kịch này, bị cố tình loại khỏi hình ảnh của cuộc gặp.
-- [Trịnh Lệ Văn](/people/trịnh-lệ-văn) — Từ cô gái phong trào sinh viên năm 1988 tại cổng đại học Đài Loan chủ trương độc lập Đài Loan, cho đến năm 2026 là chủ tịch Quốc Dân Đảng nói "Tôi là người Trung Quốc" tại Bắc Kinh.
-- [Hàn Quốc Dũ](/people/hàn-quốc-dũ) — Chủ tịch Viện Lập pháp, người điều phối đàm phán dự toán Viện Lập pháp trong tuần của cuộc gặp Trịnh-Tập; một vai trò quan trọng khác của vở kịch.
-- [Đài Loan và Eswatini](/society/đài-loan-và-eswatini) — Tuyên bố đối ngoại của Lại Thanh Đức đi thăm nước bạn trong cùng giai đoạn này, so sánh giữa "Trung Hoa Dân Quốc (Đài Loan) là một quốc gia có chủ quyền thuộc thế giới" với "Người dân hai bờ eo biển đều là người Trung Quốc".
+- [Khủng hoảng eo biển Đài Loan và phát triển quan hệ hai bờ eo biển](/vi/history/taiwan-strait-crises-and-cross-strait-relations) — Từ 1949 đến 2016, bảy mươi năm tương tác hai bờ eo biển, cuộc gặp Trịnh-Tập chỉ là chương mới nhất của dòng sông dài này.
+- [Môi trường chính trị Đài Loan và hệ thống bầu cử](/vi/society/taiwan-political-landscape-and-electoral-system) — Để hiểu "tại sao lại là Trịnh Lệ Văn", trước tiên cần hiểu cuộc bầu cử chủ tịch Quốc Dân Đảng 2025 và cuộc tranh luận đường lối nội bộ.
+- [Quá trình chuyển đổi dân chủ của Đài Loan](/vi/history/taiwan-democratization) — Tại sao AIT nhấn mạnh "đối thoại với lãnh đạo được bầu chọn"? Nền tảng của nguyên tắc này nằm ở đây.
+- [Quốc phòng và hiện đại hóa quân sự Đài Loan](/vi/society/taiwan-defense-modernization) — Đằng sau "sắp xếp chính thức để ngăn chặn chiến tranh" của Trịnh, là cuộc chiến chính trị về dự toán quốc phòng.
+- [Lại Thanh Đức](/vi/people/lai-ching-te) — Vai trò khác của vở kịch này, bị cố tình loại khỏi hình ảnh của cuộc gặp.
+- [Trịnh Lệ Văn](/vi/people/cheng-li-wun) — Từ cô gái phong trào sinh viên năm 1988 tại cổng đại học Đài Loan chủ trương độc lập Đài Loan, cho đến năm 2026 là chủ tịch Quốc Dân Đảng nói "Tôi là người Trung Quốc" tại Bắc Kinh.
+- [Hàn Quốc Dũ](/vi/people/han-kuo-yu) — Chủ tịch Viện Lập pháp, người điều phối đàm phán dự toán Viện Lập pháp trong tuần của cuộc gặp Trịnh-Tập; một vai trò quan trọng khác của vở kịch.
+- [Đài Loan và Eswatini](/vi/society/taiwan-eswatini-relations) — Tuyên bố đối ngoại của Lại Thanh Đức đi thăm nước bạn trong cùng giai đoạn này, so sánh giữa "Trung Hoa Dân Quốc (Đài Loan) là một quốc gia có chủ quyền thuộc thế giới" với "Người dân hai bờ eo biển đều là người Trung Quốc".
 
 ## Tài liệu tham khảo
 

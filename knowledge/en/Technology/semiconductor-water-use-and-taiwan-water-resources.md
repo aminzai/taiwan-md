@@ -29,6 +29,7 @@ imageLicense: 'CC BY 4.0'
 translatedFrom: 'Technology/半導體用水與台灣水資源.md'
 sourceCommitSha: '2d46f0882'
 sourceContentHash: 'sha256:e3dbfa5f81690467'
+sourceBodyHash: 'sha256:45c1175dae9b247b'
 translatedAt: '2026-07-12T00:02:05+08:00'
 ---
 

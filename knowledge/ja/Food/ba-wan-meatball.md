@@ -3,12 +3,12 @@ title: '肉圓（バーワン）：水害の救命食から三指痕が残る生
 description: '1898年の壊滅的な戊戌大水害がまさか台湾のソウルフード「肉圓（バーワン）」を生み出すとは——北斗の神壇・文筆生（ぶんぴつせい）・范萬居（ハン・ワンジュ）の手から生まれた救命の粉団（こだま）から、南蒸北炸（南は蒸し、北は揚げ）という味覚の境界線まで。これは美味の進化の物語であるだけでなく、台湾人が窮乏の中で生き残った粘り強さの記憶でもある。'
 date: 2026-04-26
 tags: ['肉圓', '彰化グルメ', '北斗', '台湾屋台料理', '戊戌大水害']
-subcategory: '台湾屋台料理'
+subcategory: '經典小吃'
 category: 'Food'
 author: 'Taiwan.md Contributors'
 readingTime: 12
 translatedFrom: 'Food/肉圓.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:6de8df7e037bf580'
 sourceBodyHash: 'sha256:4ab47a31d7ad3c5f'
 translatedAt: '2026-05-16T22:35:34Z'
@@ -83,7 +83,7 @@ lastHumanReview: false
 
 [^4]: [三立新聞【呂読台湾】](https://www.youtube.com/watch?v=uTLGJKqZ7pk) — 彰化・北斗肉圓の身の上を明かす！「戊戌大水害」で田畑が壊滅し、肉圓が飢えを救った。
 
-[^5]: [維基百科](<https://zh.wikipedia.org/zh-tw/%E8%82%89%E5%9C%93_(%E5%8F%B0%E7%81%A3)>) — 肉圓（台湾）の歴史と分類。
+[^5]: [維基百科](https://zh.wikipedia.org/zh-tw/%E8%82%89%E5%9C%93_(%E5%8F%B0%E7%81%A3) — 肉圓（台湾）の歴史と分類。
 
 [^6]: [FoodNext 食力](https://www.foodnext.net/life/culture/paper/5098655128) — カリカリ派かしっとり派か？北斗発祥の肉圓はなぜ三角形になったか。
 

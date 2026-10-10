@@ -4,7 +4,7 @@ description: '黄震南は台湾の文史工作者、蔵書家、作家である
 date: 2026-03-20
 author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '文学'
+subcategory: '文學'
 tags: ['台湾文史', '蔵書家', '黄震南', '台湾歴史', '活水来冊房']
 lastVerified: 2026-03-20
 lastHumanReview: false

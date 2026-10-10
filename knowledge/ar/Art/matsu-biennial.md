@@ -12,7 +12,7 @@ tags:
     'جزر نائية',
     'حوكمة ثقافية',
   ]
-subcategory: 'تنسيق المعارض والتعليم'
+subcategory: '策展與教育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-08-06
@@ -33,6 +33,7 @@ relatedDiary: ['2026-08-06-164219-manual']
 translatedFrom: 'Art/馬祖國際藝術島.md'
 sourceCommitSha: 'cb75c0402'
 sourceContentHash: 'sha256:799ca5362c21601f'
+sourceBodyHash: 'sha256:55c20a0d0cb340b3'
 translatedAt: '2026-08-06T13:05:14.027171+00:00'
 ---
 

@@ -11,7 +11,7 @@ tags:
     'kontroversi sosial',
     'gerakan mahasiswa',
   ]
-subcategory: 'Pendidikan'
+subcategory: '教育'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-05
@@ -21,6 +21,7 @@ curation: 'incubating'
 translatedFrom: 'Society/2026年分科爭議.md'
 sourceCommitSha: 'a5f19502c'
 sourceContentHash: 'sha256:8fda1cde0f787fad'
+sourceBodyHash: 'sha256:8fd8e7154014483c'
 translatedAt: '2026-08-06T18:43:39.735391+00:00'
 ---
 
@@ -78,7 +79,7 @@ Saat ini, prosedur tinjauan ulang Pusat Ujian Masuk Perguruan Tinggi akan berakh
 ## Bacaan Lanjutan
 
 - [Sistem Pendidikan dan Budaya Seleksi Masuk](/id/society/education-system-and-admissions-culture) — Posisi Ujian Bidang Studi dalam seluruh sistem seleksi masuk
-- [Ekspansi dan Mundur Pendidikan Tinggi Taiwan](/society/台灣高等教育擴張與退場) — Perubahan pasokan di sisi universitas menentukan tekanan di sisi ujian
+- [Ekspansi dan Mundur Pendidikan Tinggi Taiwan](/id/society/taiwan-higher-education-expansion-and-decline) — Perubahan pasokan di sisi universitas menentukan tekanan di sisi ujian
 - [Krisis Kelahiran Rendah Taiwan](/id/society/taiwan-low-birth-rate-crisis) — Dari mana kurva jangka panjang jumlah peserta ujian berasal
 
 ## Referensi

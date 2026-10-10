@@ -142,7 +142,7 @@ _그림 3: 〈U.S. Troops Stationed in Taiwan (1950–1979)〉. 작가 Hung1101,
 - [국민정부 대만 이전과 전후 재건](https://taiwan.md/history/%E5%9C%8B%E6%B0%91%E6%94%BF%E5%BA%9C%E9%81%B7%E5%8F%B0%E8%88%87%E6%88%B0%E5%BE%8C%E9%87%8D%E5%BB%BA/)
 - [경제 기적](https://taiwan.md/economy/%E7%B6%93%E6%BF%9F%E5%A5%87%E8%B9%9F/)
 
-## 參考資料
+## 참고 자료
 
 [^1]: [자진양: 〈미원 480호 공법 구호 물자 배분 관련 문제〉](https://www.taih.ntnu.edu.tw/wp-content/uploads/2020/06/%E8%B6%99%E9%9C%87%E6%8F%9A%EF%BC%8C%E3%80%88%E7%BE%8E%E6%8F%B4-480-%E5%85%AC%E6%B3%95%E6%95%91%E6%BF%9F%E7%89%A9%E8%B3%87%E7%99%BC%E6%94%BE%E7%9B%B8%E9%97%9C%E5%95%8F%E9%A1%8C%E3%80%89%E3%80%8A%E5%B8%AB%E5%A4%A7%E8%87%BA%E7%81%A3%E5%8F%B2%E5%AD%B8%E5%A0%B1%E3%80%8B%EF%BC%8C8%EF%BC%882015.12%EF%BC%89%EF%BC%8C%E9%A0%8165-92%E3%80%82.pdf) — 국립대만사범대학 《사범대 대만사 학보》 제8호 연구, 아카이브를 바탕으로 1951–1965년 미원 규모, 480호 공법 물자 제도, 구호 배분 문제를 정리했다.
 

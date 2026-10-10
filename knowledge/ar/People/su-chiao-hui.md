@@ -4,7 +4,7 @@ description: 'من ابنة محامي دفاع في قضية فورموزا إ�
 date: 2026-04-28
 author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: 'السياسة والديمقراطية'
+subcategory: '政治與民主'
 tags:
   - 'سو تشياو-هوي'
   - 'مدينة تايبيه الجديدة'

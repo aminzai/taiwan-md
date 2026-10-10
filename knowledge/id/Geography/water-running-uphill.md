@@ -12,7 +12,7 @@ tags:
     'Ilusi Optik',
     'Sejarah Pembukaan Lahan Taiwan',
   ]
-subcategory: 'Hidrologi dan Sumber Daya Air'
+subcategory: '水文與水資源'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-03

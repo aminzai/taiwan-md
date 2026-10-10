@@ -4,7 +4,7 @@ description: 'Cuando el término "generación fresa" apareció por primera vez e
 date: 2026-06-08
 author: 'Taiwan.md'
 category: 'Society'
-subcategory: 'Generación y cambio social'
+subcategory: '世代與社會變遷'
 tags:
   [
     'Generación por año de nacimiento',
@@ -205,7 +205,7 @@ Este artículo utiliza 5 imágenes con licencia Creative Commons, todas almacena
 
 [^8]: [Tiempo de Reporte: Botellas de vidrio de Yakult y las mamás de Yakult](https://time.udn.com/udntime/story/122390/7069408) — Registra la historia de la fábrica de Yakult en Taiwán en 1964, el modelo de venta de una botella a dos yuanes entregada puerta a puerta por las "mamás de Yakult", siendo la memoria infantil común de los nacidos en los años 50 y 60.
 
-[^9]: [Wikipedia: El Gran Confuciano de Yunzhou](https://zh.wikipedia.org/zh-tw/%E9%9B%B2%E%B7%9E%E5%A4%A7%E5%84%92%E4%BF%A0) — Registra el proceso completo de la obra de ópera de guantes de Huang Junxiong _El Gran Confuciano de Yunzhou_, emitida por primera vez en TTV en 1970, 583 episodios, alcanzando una audiencia del 97%, y prohibida en 1974 por "perturbar el descanso de los agricultores".
+[^9]: [Wikipedia: El Gran Confuciano de Yunzhou](https://zh.wikipedia.org/zh-tw/%E9%9B%B2%E5%B7%9E%E5%A4%A7%E5%84%92%E4%BF%A0) — Registra el proceso completo de la obra de ópera de guantes de Huang Junxiong _El Gran Confuciano de Yunzhou_, emitida por primera vez en TTV en 1970, 583 episodios, alcanzando una audiencia del 97%, y prohibida en 1974 por "perturbar el descanso de los agricultores".
 
 [^10]: [Roomie: Aquellos años, usábamos códigos numéricos para enamorarnos](https://www.roomie.tw/posts/69404) — Retrospectiva del auge y caída de los buscadores (BB Call) en Taiwán, abiertos en 1976, alcanzando un pico de usuarios de aproximadamente cuatro millones de hogares en 1999, deteniendo servicios a finales de 2011, y la cultura de uso de números como 520 y 1314 para enviar mensajes.
 

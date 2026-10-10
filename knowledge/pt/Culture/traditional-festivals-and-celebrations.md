@@ -4,7 +4,7 @@ description: 'Um ritual de uma pequena cidade de soltar foguetes para combater a
 date: 2026-03-24
 author: 'Taiwan.md'
 category: 'Culture'
-subcategory: 'Religião e Folclore'
+subcategory: '宗教與民俗'
 tags:
   [
     'Festivais Tradicionais',

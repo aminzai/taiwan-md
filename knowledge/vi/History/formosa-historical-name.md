@@ -14,7 +14,7 @@ tags:
     'Bảo tàng lịch sử Đài Loan',
     'Tư liệu nước ngoài',
   ]
-subcategory: 'Thuộc địa và đế chế'
+subcategory: '殖民與帝國'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-12

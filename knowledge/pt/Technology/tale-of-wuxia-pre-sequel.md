@@ -13,7 +13,7 @@ tags:
     'Steam',
     'Jogos de Taiwan',
   ]
-subcategory: 'Comunidade e Cultura Digital'
+subcategory: '社群與數位文化'
 readingTime: 9
 lastVerified: 2026-04-25
 lastHumanReview: false
@@ -115,8 +115,8 @@ Bear disse: "Um mortal não é necessariamente uma pessoa medíocre". Esta frase
 
 ## Leitura Recomendada
 
-- [Dois Espadas de Da Yu](/technology/大宇雙劍) — O ponto de partida dos jogos de wuxia taiwaneses há trinta anos
-- [Red Candle Games](/technology/赤燭遊戲) — Outro caminho para os jogos independentes de Taiwan
+- [Dois Espadas de Da Yu](/pt/technology/softstar-twin-classics) — O ponto de partida dos jogos de wuxia taiwaneses há trinta anos
+- [Red Candle Games](/pt/technology/red-candle-games) — Outro caminho para os jogos independentes de Taiwan
 - [Indústria de Jogos de Taiwan e Entretenimento Digital](/pt/technology/taiwan-gaming-industry) — Do licenciamento à originalidade, um panorama completo
 
 ---

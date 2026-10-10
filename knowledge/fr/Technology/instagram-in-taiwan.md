@@ -75,7 +75,7 @@ Et l'essor du « Cui » illustre peut-être une chose : quand les filtres sont d
 
 ## Références
 
-[^1]: [Les utilisateurs d'Instagram dépassent le milliard, mais pourquoi les deux fondateurs se sont-ils retirés ?](https://www.managagertoday.com.tw/articles/view/61994) — _Manager Today_, rapportant les origines entrepreneuriales de Kevin Systrom et le contexte de son départ avec Mike Krieger d'Instagram en 2018, citant la remarque décisive de sa copine Nicole Schuetz sur la plage mexicaine.
+[^1]: [Les utilisateurs d'Instagram dépassent le milliard, mais pourquoi les deux fondateurs se sont-ils retirés ?](https://www.managertoday.com.tw/articles/view/61994) — _Manager Today_, rapportant les origines entrepreneuriales de Kevin Systrom et le contexte de son départ avec Mike Krieger d'Instagram en 2018, citant la remarque décisive de sa copine Nicole Schuetz sur la plage mexicaine.
 
 [^2]: [Hitting the Books: The story behind Instagram's most famous filter](https://www.engadget.com/hitting-the-books-no-filter-sarah-frier-153013189.html) — Engadget, citant le livre de Sarah Frier _No Filter_, racontant l'histoire de la création du filtre X-Pro II par Systrom cet après-midi-là au Mexique, ainsi que la première photo publiée sur Instagram.
 

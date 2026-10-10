@@ -604,7 +604,7 @@ La capitalización de TSMC superó por primera vez los 10 billones de dólares t
 - [Stan Shih (施振榮)](/es/people/stan-shih) — Fundador de Acer, invitado a formar parte del consejo de TSMC durante veintiún años, autor de la «curva de la sonrisa»; el «segmento medio de manufactura» que hace TSMC es precisamente el tramo que la curva pronosticaba en declive pero que en la realidad resulta el más valioso
 - [Terry Gou (郭台銘)](/es/people/terry-gou) — Otro empresario taiwanés que cambió el mundo con la «fundición»; la fundición de ensamblaje de Foxconn y la fundición de obleas de TSMC son las dos vías por las que la manufactura taiwanesa llegó al mundo
 - [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — Desde la transferencia tecnológica de RCA en 1976 hasta la montaña sagrada protectora, el campo de batalla industrial completo en el que Chang introdujo a Taiwán de la mano
-- [John Hsu (黃崇仁)](/people/黃崇仁) — A finales de los 90, cuando Powerchip (力晶) estuvo a punto de ser absorbida por UMC (聯電), corrió a buscar a Chang; recorrió la otra ruta de los semiconductores taiwaneses, la que tiene acantilados
+- [John Hsu (黃崇仁)](/es/people/frank-huang-psmc) — A finales de los 90, cuando Powerchip (力晶) estuvo a punto de ser absorbida por UMC (聯電), corrió a buscar a Chang; recorrió la otra ruta de los semiconductores taiwaneses, la que tiene acantilados
 - [Transformación y升級 de la industria taiwanesa](/es/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC es el caso más concreto de la transformación de Taiwán de «isla de la fundición» a «isla tecnológica», y la coordenada nuclear de esta transformación de cuarenta años
 
 ---

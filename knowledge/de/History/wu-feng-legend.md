@@ -159,5 +159,5 @@ Dieser Artikel verwendet vier externe Bilder, alle stammen von Wikimedia Commons
 ## Weiterführende Literatur
 
 - [Japanische Kolonialherrschaft](/de/history/japanese-colonial-era) — Institutionen, Bildung und die politische Sozialisierung während der japanischen Kolonialherrschaft
-- [Geschichte und Bewegung der indigenen Völker Taiwans](/history/台灣原住民族歷史與正名運動) — Der lange Hintergrund der Bewegung der indigenen Völker Taiwans für Selbstbestimmung und Anerkennung
-- [Alishan: Kolonialforst und Lebensraum für die Jugend](/history/阿里山：帝國的林場與高一生的山) — Eine weitere historische Linie der Berge, Kolonialentwicklung und indigener Politik in Alishan
+- [Geschichte und Bewegung der indigenen Völker Taiwans](/de/history/indigenous-peoples-history-and-naming-movement) — Der lange Hintergrund der Bewegung der indigenen Völker Taiwans für Selbstbestimmung und Anerkennung
+- [Alishan: Kolonialforst und Lebensraum für die Jugend](/de/history/alishan-empire-forest-and-uongu-yatauyungana) — Eine weitere historische Linie der Berge, Kolonialentwicklung und indigener Politik in Alishan

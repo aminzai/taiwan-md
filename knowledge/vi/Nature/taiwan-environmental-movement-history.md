@@ -22,6 +22,7 @@ curation: 'incubating'
 translatedFrom: 'Nature/台灣環境運動史.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:762c2cb912d919af'
+sourceBodyHash: 'sha256:11166779b46079e7'
 translatedAt: '2026-09-19T22:54:46.226590+00:00'
 ---
 

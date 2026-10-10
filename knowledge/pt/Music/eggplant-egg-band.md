@@ -12,7 +12,7 @@ tags:
     'Cultura de Taiwan',
     'Rock',
   ]
-subcategory: 'Música Popular'
+subcategory: '流行音樂'
 author: 'Taiwan.md Contributors'
 readingTime: 10
 lastVerified: 2026-04-05

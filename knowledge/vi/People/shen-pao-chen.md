@@ -41,7 +41,7 @@ Ngày 17 tháng 6 năm 1874, Thẩm Bảo Trân đến An Bình. Ba tháng sau, 
 
 ![Chân dung Thẩm Bảo Trân, khoảng năm 1870](https://commons.wikimedia.org/wiki/Special:FilePath/Sing%20Bo-ting2.jpg)
 
-_Hình: Chân dung Thẩm Bảo Trân, khoảng năm 1870. Nguồn: Trang tệp Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Sing_Bo-ting2.jpg); được đánh dấu là Miền công cộng [^6]._
+_Hình: Chân dung Thẩm Bảo Trân, khoảng năm 1870. Nguồn: Trang tệp Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Sing_Bo-ting2.jpg); được đánh dấu là Miền công cộng [^6]. [Wikimedia Commons 檔案頁](https://commons.wikimedia.org/wiki/File:Sing_Bo-ting2.jpg)_
 
 📝 **Ghi chú của người biên tập:** Điều đáng nhớ nhất về Thẩm Bảo Trân không phải là những di tích ông để lại cho Đài Loan, mà là việc ông đã dịch một cuộc khủng hoảng ngoại giao thành đo đạc, xây thành, lập huyện và đường quân sự. Và mỗi bản dịch đều thay đổi con người trên mảnh đất đó.
 
@@ -73,7 +73,7 @@ Vấn đề cụ thể đầu tiên mà Thẩm Bảo Trân giải quyết tại 
 
 ![Cổng thành Dịch Tái Kim Thành](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/20180922_%E5%84%84%E8%BC%89%E9%87%91%E5%9F%8E.jpg/1280px-20180922_%E5%84%84%E8%BC%89%E9%87%91%E5%9F%8E.jpg)
 
-_Hình: Cổng thành Dịch Tái Kim Thành. Nhiếp ảnh: Phùng Đạo Minh, 2018; Nguồn: Trang tệp Wikimedia Commons (https://commons.wikimedia.org/wiki/File:20180922_%E5%84%84%E8%BC%89%E9%87%91%E5%9F%8E.jpg), sử dụng theo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)[^7].\_
+_Hình: Cổng thành Dịch Tái Kim Thành. Nhiếp ảnh: Phùng Đạo Minh, 2018; Nguồn: Trang tệp Wikimedia Commons (https://commons.wikimedia.org/wiki/File:20180922_%E5%84%84%E8%BC%89%E9%87%91%E5%9F%8E.jpg), sử dụng theo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)[^7].\ [Wikimedia Commons 檔案頁](https://commons.wikimedia.org/wiki/File:20180922_%E5%84%84%E8%BC%89%E9%87%91%E5%9F%8E.jpg)\_
 
 Ý nghĩa của pháo đài không chỉ nằm ở trọng lượng của pháo. Nó đã nâng tầm việc "thành Đài Loan phải được bảo vệ" từ một nhiệm vụ phòng thủ địa phương lên thành một dự án phòng thủ biển mà triều đình nhà Thanh phải đầu tư. Đồng thời, nó cũng cô đọng kiến thức kỹ thuật Pháp, pháo binh Anh và nhân tài của thuyền chính Phúc Châu vào một công trình có thể nhìn thấy tại An Bình. [^4]
 
@@ -95,7 +95,7 @@ Những gì những người này làm, thoạt nhìn giống như công việc 
 
 ![Bản đồ phân chia hành chính Đài Loan thời Thanh năm 1875](https://commons.wikimedia.org/wiki/Special:FilePath/1875%20Taiwan.svg)
 
-_Hình: Bản đồ phân chia hành chính Đài Loan thời Thanh năm 1875. Tác giả: Liaon98; Nguồn: Trang tệp Wikimedia Commons (https://commons.wikimedia.org/wiki/File:1875_Taiwan.svg), sử dụng theo [CC BY-SA 3.0 Taiwan](https://creativecommons.org/licenses/by-sa/3.0/tw/deed.en)[^8]._
+_Hình: Bản đồ phân chia hành chính Đài Loan thời Thanh năm 1875. Tác giả: Liaon98; Nguồn: Trang tệp Wikimedia Commons (https://commons.wikimedia.org/wiki/File:1875_Taiwan.svg), sử dụng theo [CC BY-SA 3.0 Taiwan](https://creativecommons.org/licenses/by-sa/3.0/tw/deed.en)[^8]. [Wikimedia Commons 檔案頁](https://commons.wikimedia.org/wiki/File:1875_Taiwan.svg)_
 
 Sau năm 1875, các đơn vị hành chính mới như huyện Hằng Xuân, phủ Bê Nam và thị trấn Phổ Lý lần lượt xuất hiện trong kế hoạch quản lý của triều đình nhà Thanh. Các kết quả đo đạc liên quan sau này đã để lại hơn 2.000 tên địa danh, trở thành tài liệu lịch sử quan trọng nghiên cứu về núi phía sau, núi phía trước và sự mở rộng hành chính cuối thời Thanh. [^4]
 

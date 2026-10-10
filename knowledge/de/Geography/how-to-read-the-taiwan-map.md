@@ -129,10 +129,10 @@ Von Lopo Homems Pergamentkarte 1554 bis zu Googles Karte auf deinem Smartphone �
 
 **Weiterführende Literatur:**
 
-- [Taiwans fünf große natürliche Landschaften und geografische Struktur](/geography/台灣五大地形與地理結構) — Geologische Entstehung und detaillierte Verteilung der fünf Landschaften
+- [Taiwans fünf große natürliche Landschaften und geografische Struktur](/de/geography/taiwan-five-major-landforms-and-geographic-structure) — Geologische Entstehung und detaillierte Verteilung der fünf Landschaften
 - [Taiwan-Plattenbewegung und seismische Aktivität](/de/geography/tectonic-plates-and-seismic-activity) — Warum Taiwan so viele Berge hat: Die Kollision der Philippinensee-Platte mit der Eurasischen Platte
-- [Zeit der holländischen Kolonialherrschaft](/history/荷西明鄭時期) — 1624–1683: Das erste Mal, dass Europäer detaillierte Karten Taiwans erstellten
-- [Inseln und maritime Kultur](/geography/離島與海洋文化) — Kinmen, Matsu, Penghu: Die „taiwanischen Inseln“, die am weitesten von Taiwan entfernt, aber am nächsten an China liegen
+- [Zeit der holländischen Kolonialherrschaft](/de/history/dutch-spanish-and-koxinga-era) — 1624–1683: Das erste Mal, dass Europäer detaillierte Karten Taiwans erstellten
+- [Inseln und maritime Kultur](/de/geography/offshore-islands-and-maritime-culture) — Kinmen, Matsu, Penghu: Die „taiwanischen Inseln“, die am weitesten von Taiwan entfernt, aber am nächsten an China liegen
 
 ## Quellen
 

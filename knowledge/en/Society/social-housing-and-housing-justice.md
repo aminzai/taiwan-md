@@ -251,9 +251,9 @@ The realization of residential justice requires the collective effort of all soc
 
 **Further Reading**:
 
-- [National Housing Agency and Residential Justice](/society/國宅與居住正義) — The "Government Builds to Sell" path before 2016: From the National Housing Act of 1975 to its abolition in 2015, how national housing became an asset escalator, and the contemporary struggle in Taoyuan for affordable housing (a sister article).
-- [Tin Sheds](/society/鐵皮屋) — The governance dilemma of 716,000 illegal structures across Taiwan; tin roofs and illegal construction are underlying structural issues of residential justice.
-- [Taiwan Environmental Justice and NIMBY Disputes](/society/台灣環境正義與鄰避爭議) — Land use extension of housing issues: unequal distribution of environmental risks and community conflicts over facilities.
+- [National Housing Agency and Residential Justice](/en/society/public-housing-justice) — The "Government Builds to Sell" path before 2016: From the National Housing Act of 1975 to its abolition in 2015, how national housing became an asset escalator, and the contemporary struggle in Taoyuan for affordable housing (a sister article).
+- [Tin Sheds](/en/society/taiwan-tin-shed-houses) — The governance dilemma of 716,000 illegal structures across Taiwan; tin roofs and illegal construction are underlying structural issues of residential justice.
+- [Taiwan Environmental Justice and NIMBY Disputes](/en/society/taiwan-environmental-justice-nimby-conflicts) — Land use extension of housing issues: unequal distribution of environmental risks and community conflicts over facilities.
 
 [^1]: [Urban Renewal All Know (2023-12-21): Direct Construction and Rental Management Numbers Hit New Highs](https://urbanrenewal.wealth.com.tw/news-detail/1102) — "Not only will the target be met by the end of 2024, but direct construction social housing units will reach 120,000, and effective rental management contracts will reach 93,980, totaling 213,980, achieving a rate of 107%."
 

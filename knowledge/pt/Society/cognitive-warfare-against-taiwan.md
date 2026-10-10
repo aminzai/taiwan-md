@@ -239,13 +239,13 @@ O campo de batalha final da guerra cognitiva é **a própria relação de confia
 - [Os Construtores de Montanhas: A Aposta do Século](/pt/art/mountain-makers-tsmc-documentary) — Documentário de Xiao Ju-zhen 2025, cinco anos entrevistando 80+ veteranos de semicondutores, 2026 entra em Purdue, Wisconsin, Michigan, três polos de investimento do CHIPS Act
 
 - [Threads em Taiwan](/pt/technology/threads-in-taiwan) — História da migração social de Taiwan e estrutura de plataforma do campo de batalha informacional
-- [Miin](/technology/迷音Miin) — Du Yi-jin e o Laboratório de IA de Taiwan plataforma anti-desinformação, usa IA para pegar contas de operação colaborativa (não verificação item a item)
-- [Fundação Cultura Aberta](/technology/開放文化基金會) — Hospeda bot de verificação Cofacts, organização de retaguarda que zela pela liberdade de rede de Taiwan
+- [Miin](/pt/technology/miin-music-app) — Du Yi-jin e o Laboratório de IA de Taiwan plataforma anti-desinformação, usa IA para pegar contas de operação colaborativa (não verificação item a item)
+- [Fundação Cultura Aberta](/pt/technology/open-culture-foundation) — Hospeda bot de verificação Cofacts, organização de retaguarda que zela pela liberdade de rede de Taiwan
 - [História da Migração de Comunidades de Rede de Taiwan](/pt/technology/taiwan-online-community-migration) — Entender papel de PTT, Dcard, Threads etc. na guerra cognitiva
 - [Mídia e Liberdade de Imprensa em Taiwan](/pt/society/media-and-press-freedom-in-taiwan) — Ecossistema jornalístico e responsabilidade de plataforma na guerra cognitiva
-- [Shen Po-yang](/people/沈伯洋) — Um dos principais pesquisadores de guerra cognitiva, em 2025 tornou-se primeiro político eleito de Taiwan indiciado pela China por "crime de secessão nacional"
+- [Shen Po-yang](/pt/people/puma-shen) — Um dos principais pesquisadores de guerra cognitiva, em 2025 tornou-se primeiro político eleito de Taiwan indiciado pela China por "crime de secessão nacional"
 - [Academia Urso Negro](/pt/society/kuma-academy-civil-defense-school) — Organização civil que coloca reconhecimento de guerra cognitiva no acampamento base de defesa civil, ensina pessoas comuns a manter julgamento em desinformação e guerra psicológica
-- [Batata Doce Venenosa: Além dos 200 ppm,还有 30 ppm、14 天、与 15 年的食安伤疤](/society/毒馬鈴薯認知作戰) — Anatomia de como a narrativa "carta de apresentação" do Gabinete de Assuntos de Taiwan em 2026-04 pisa precisamente na cicatriz de 15 anos de segurança alimentar desde o plastificante de 2011
+- [Batata Doce Venenosa: Além dos 200 ppm,还有 30 ppm、14 天、与 15 年的食安伤疤](/pt/society/poisoned-potato-cognitive-warfare-taiwan) — Anatomia de como a narrativa "carta de apresentação" do Gabinete de Assuntos de Taiwan em 2026-04 pisa precisamente na cicatriz de 15 anos de segurança alimentar desde o plastificante de 2011
 - [Taiwan e Essuatíni](/pt/society/taiwan-eswatini-relations) — Cenários concretos de operação linguística da China "rat", "fuga disfarçada", "piada internacional": reações durante visita de Lai Ching-te a Essuatíni em 2026-05
 - [Paraguai e Taiwan](/pt/society/paraguay-taiwan) — Sob sedução de mercado chinês e puxão político, como Taiwan usa cooperação de longo prazo para segurar único aliado diplomático na América do Sul
 

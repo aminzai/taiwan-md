@@ -183,7 +183,7 @@ Peut-être que les 28 prochaines années apporteront une réponse. Peut-être pa
 - [Sous-traitance d’animation à Taïwan](/fr/economy/taiwan-creator-economy) — En contraste avec l’industrie commerciale des propriétés intellectuelles, les logiques différentes de PTS dans le choix des sujets d’animation
 - [Festivités et célébrations traditionnelles](/fr/culture/traditional-festivals-and-celebrations) — La contribution à long terme de PTS à la préservation de la mémoire culturelle de Taïwan à travers le documentaire _Record Viewpoint_
 - [Institut taïwanais de recherche sur le design](/fr/society/taiwan-design-research-institute) — Une autre fondation publique qui marche sur un fil entre la visibilité et la dimension publique, transformant le design en un moyen par lequel l’État dessert les citoyens
-- [Prix du bouclier de la télévision et de la radio](/culture/金鐘獎) — De _Ever_ en 2000 au 61e édition avec 60 nominations, comment la case « unité primée » des programmes de drama indique PTS, ainsi que ses trois identités de diffusion, d’inscription et de quota d’inscription
+- [Prix du bouclier de la télévision et de la radio](/fr/culture/golden-bell-awards) — De _Ever_ en 2000 au 61e édition avec 60 nominations, comment la case « unité primée » des programmes de drama indique PTS, ainsi que ses trois identités de diffusion, d’inscription et de quota d’inscription
 
 ## Sources des images
 

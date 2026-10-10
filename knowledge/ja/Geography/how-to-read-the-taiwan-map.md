@@ -158,7 +158,7 @@ translatedAt: '2026-05-13T01:08:16Z'
 
 [^11]: [Taiwan Strait — Wikipedia (EN)](https://en.wikipedia.org/wiki/Taiwan_Strait) — 台湾海峡中線の1955年の起源、2019年の座標公表、中国による存在否定。
 
-[^12]: [Air Defense Identification Zone (Taiwan) — Wikipedia (EN)](<https://en.wikipedia.org/wiki/Air_Defense_Identification_Zone_(Taiwan)>) — 台湾ADIZの1954年米軍による設定、中国大陸上空への延伸、国際法上の根拠の不在
+[^12]: [Air Defense Identification Zone (Taiwan) — Wikipedia (EN)](https://en.wikipedia.org/wiki/Air_Defense_Identification_Zone_(Taiwan) — 台湾ADIZの1954年米軍による設定、中国大陸上空への延伸、国際法上の根拠の不在
 
 [^13]: [Marine Regions — Overlapping claim Taiwan](https://www.marineregions.org/eezdetails.php?mrgid=8321) — 台湾海峡大陸棚の水深と経済水域の重複紛争。
 

@@ -11,7 +11,7 @@ tags:
     'Transporte',
     'Dez Grandes Projetos',
   ]
-subcategory: 'Transporte e Mobilidade'
+subcategory: '交通與移動'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-03

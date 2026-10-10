@@ -11,14 +11,23 @@ tags:
     'Sports Diplomacy',
     'Sovereignty',
   ]
-subcategory: 'International Relations'
+subcategory: '國際關係'
 author: 'Taiwan.md Contributors'
 category: 'Society'
 readingTime: 12
 lastVerified: 2026-06-04
 lastHumanReview: false
+sporeLinks:
+  - id: 120
+    platform: 'threads'
+    date: '2026-06-04'
+    url: 'https://www.threads.com/@taiwandotmd/post/DZKoOQpmPhJ'
+  - id: 121
+    platform: 'x'
+    date: '2026-06-04'
+    url: 'https://x.com/taiwandotmd/status/2062529681283522655'
 translatedFrom: 'Society/中華台北.md'
-sourceCommitSha: 'bbd8788a'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:177fea3750c80f10'
 translatedAt: '2026-06-16T16:55:14Z'
 sourceBodyHash: 'sha256:dab437d622fd59b0'
@@ -186,11 +195,11 @@ And that ticket, still only lets Taiwan play, still won't print its own name. Ne
 
 ## Further Reading
 
-- [Issues with Taiwan's Designation in International Standards](/society/Taiwan-in-International-Standards) — From ISO 3166 to open-source software, how the name "Taiwan" is written and disputed in global digital infrastructure, originating from the same source but on a different battlefield as Olympic naming
-- [Taiwan Unification-Independence Spectrum](/ja/society/Taiwan-Unification-Independence-Spectrum) — Why Taiwanese people's emotions towards the two names "Chinese" and "Taiwan" are so divided, a complete explanation of the underlying identity spectrum
-- [Taiwan's Diplomatic Allies and International Diplomacy](/society/Taiwan-Diplomatic-Allies-and-International-Diplomacy) — Beyond the spillover of the "Olympic Model," the same name dilemma Taiwan faces in formal diplomatic arenas
-- [Chi Cheng](/people/Chi-Cheng) — The complete arc of the Leaping Antelope from the 1968 Mexico bronze medal, 1981 establishment merit figure, to the 2018 renaming initiator
-- [Yang Chuan-kwang](/people/Yang-Chuan-kwang) — The Asian Iron Man who won Taiwan's first Olympic medal under the name "Formosa" at the 1960 Rome Olympics
+- [Issues with Taiwan's Designation in International Standards](/ja/society/taiwans-labeling-in-international-standards) — From ISO 3166 to open-source software, how the name "Taiwan" is written and disputed in global digital infrastructure, originating from the same source but on a different battlefield as Olympic naming
+- [Taiwan Unification-Independence Spectrum](/ja/society/taiwan-unification-independence-spectrum) — Why Taiwanese people's emotions towards the two names "Chinese" and "Taiwan" are so divided, a complete explanation of the underlying identity spectrum
+- [Taiwan's Diplomatic Allies and International Diplomacy](/ja/society/taiwan-diplomatic-allies-and-international-relations) — Beyond the spillover of the "Olympic Model," the same name dilemma Taiwan faces in formal diplomatic arenas
+- [Chi Cheng](/ja/people/chi-cheng-flying-antelope) — The complete arc of the Leaping Antelope from the 1968 Mexico bronze medal, 1981 establishment merit figure, to the 2018 renaming initiator
+- [Yang Chuan-kwang](/ja/people/yang-chuan-kwang-asian-iron-man) — The Asian Iron Man who won Taiwan's first Olympic medal under the name "Formosa" at the 1960 Rome Olympics
 - [The Invisible Country](/ja/art/invisible-nation) — In this documentary, Chi Cheng holds up her 1968 Olympic bronze medal and asks, "Is 'Chinese Taipei' even a country name?"
 
 ## Image Sources
@@ -199,7 +208,7 @@ And that ticket, still only lets Taiwan play, still won't print its own name. Ne
 - **Yang Chuan-kwang**: [C. K. Yang — UCLA Southern Campus 1960](https://commons.wikimedia.org/wiki/File:C_K_Yang_-_Southern_Campus_1960_crop.jpg), Public Domain (PD-US, copyright not renewed).
 - **Samaranch**: [Juan Antonio Samaranch](<https://commons.wikimedia.org/wiki/File:Juan_Antonio_Samaranch_(3x4_cropped).jpg>), Photo by Leo Medvedev, CC BY-SA 4.0.
 - **Flag (Plum Blossom Flag)**: [Chinese Taipei Olympic Committee Flag](https://commons.wikimedia.org/wiki/File:Flag_of_Chinese_Taipei_for_Olympic_Games.svg), Wikimedia Commons, Public Domain. Outer ring blue, white, red taken from the Republic of China flag, center Blue Sky with a White Sun emblem, below Olympic rings, activated after the 1981 Lausanne Agreement.
-- **Emblem**: [Chinese Taipei Olympic Committee Emblem](https://commons.wikimedia.org/wiki/File:Emblem_of_Chinese_Taipei_for_Olympic_Games.svg), Wikimedia Commons, Public Domain (Author Denelson83 released).
+- **Emblem**: [Chinese Taipei Olympic Committee Emblem](https://commons.wikimedia.org/wiki/File:Emblem_of_Chinese_Taipei_for_Olympic_games.svg), Wikimedia Commons, Public Domain (Author Denelson83 released).
 
 ## Video Sources
 
@@ -234,7 +243,7 @@ All four videos are embedded from official channels (documentary news / events /
 
 [^11]: [Tang Ming-hsin: Analyzing the "Olympic Model" and the "Two Associations Agreement"](https://npf.org.tw/2/1403) — National Policy Foundation, verbatim records the 1980-03-27 Lausanne Court interim judgment "IOC seems contrary to the spirit and text of the Charter, particularly Articles 64, 65, 66" and the fee ruling "Court fee of 100 Swiss Francs borne by the IOC, plus 500 Swiss Francs paid to Mr. Hsü Heng (plaintiff) to compensate for expenses."
 
-[^12]: [Lausanne Agreement](https://zh.wikipedia.org/wiki/%E6%B4%9B%E6%A1%91%E5%8D94%E8%AD%B0) — Chinese Wikipedia, records Hsü Heng and others reaching a consensus with Samaranch and withdrawing the lawsuit on 1981-01-26.
+[^12]: [Lausanne Agreement](https://zh.wikipedia.org/wiki/%E6%B4%9B%E6%A1%91%E5%8D%94%E8%AD%B0) — Chinese Wikipedia, records Hsü Heng and others reaching a consensus with Samaranch and withdrawing the lawsuit on 1981-01-26.
 
 [^13]: [Lin Chia-ho / "Chinese Taipei" Past and Present — Those Years We Sued the IOC](https://www.twreporter.org/a/opinion-olympic-and-politics-chinese-taipei) — The Reporter, legal scholar Lin Chia-ho writes to梳理 (sort out) the process of the 1981-03-23 Lausanne Agreement signed by Shen Chia-ming, Secretary-General of the Chinese Olympic Committee, and Samaranch, establishing the name "CHINESE TAIPEI OLYMPIC COMMITTEE" and the TPE code.
 

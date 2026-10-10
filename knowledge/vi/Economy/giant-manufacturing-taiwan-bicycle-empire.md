@@ -14,7 +14,7 @@ tags:
     'A-Team',
     'xe đạp điện',
   ]
-subcategory: 'Tiểu sử công ty'
+subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 15

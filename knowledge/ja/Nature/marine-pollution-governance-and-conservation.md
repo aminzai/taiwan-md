@@ -4,7 +4,7 @@ description: '海洋ごみ、乱獲、気候変動に直面し、台湾の海洋
 date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Nature'
-subcategory: '保育と環境'
+subcategory: '保育與環境'
 tags: ['海洋保全', '海洋汚染', '海洋ごみ', '海洋委員会', '持続可能な漁業']
 readingTime: 15
 lastVerified: 2026-03-19

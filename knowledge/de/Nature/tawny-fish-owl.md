@@ -154,10 +154,10 @@ Und jetzt lernen zwei Jungvögel auf dem Ussing-Stein, ihre Flügel auszubreiten
 **Weiterführende Lektüre**:
 
 - [Vogelkunde Formosa](/de/nature/the-ornithology-of-formosa) — Der Fischkauz wurde erst 1916 benannt und gehört zu den Zugvögeln, die erst am Ende der japanischen Herrschaft „entdeckt“ wurden; dies zeigt die zeitliche Struktur der vogelkundlichen Forschung in Taiwan.
-- [Sakura-Kōwashi-Forelle](/nature/櫻花鉤吻鮭) — Beide teilen das Qixiawan-Ökosystem; Sun Yuan-xun führte gleichzeitig Studien zu beiden Arten auf Beauftragung von Xueba durch, die zwei Enden des Lebensraumkomplexes darstellen.
-- [Taiwanischer Schwarzbär](/nature/台灣黑熊) — Eine weitere Art, die vom Wildtierschutzinstitut der Pingtung University langfristig verfolgt wird und die mittelgroßen alten Baumumgebungen benötigt.
-- [Taiwanisches Waldökosystem](/nature/台灣森林生態系) — Große Bäume mit über 1 Meter Stammdurchmesser und Naturwaldanteil; der Fischkauz ist das dramatischste Beispiel für einen „Altenbaumvogel“.
-- [Aitianjian aus Danxi](/nature/大安溪倚天劍) — Ein alter Baum, der tief in Xueba verborgen ist und nur durch die Unzugänglichkeit des Menschen überlebt hat; der ursprüngliche Wald am Quellbach, wo die Taiwanische Zeder zu einem der höchsten Bäume Ostasiens heranwuchs, ist der Lebensraum, den der Fischkauz benötigt.
+- [Sakura-Kōwashi-Forelle](/de/nature/formosan-landlocked-salmon) — Beide teilen das Qixiawan-Ökosystem; Sun Yuan-xun führte gleichzeitig Studien zu beiden Arten auf Beauftragung von Xueba durch, die zwei Enden des Lebensraumkomplexes darstellen.
+- [Taiwanischer Schwarzbär](/de/nature/taiwanese-black-bear) — Eine weitere Art, die vom Wildtierschutzinstitut der Pingtung University langfristig verfolgt wird und die mittelgroßen alten Baumumgebungen benötigt.
+- [Taiwanisches Waldökosystem](/de/nature/taiwan-forest-ecosystems) — Große Bäume mit über 1 Meter Stammdurchmesser und Naturwaldanteil; der Fischkauz ist das dramatischste Beispiel für einen „Altenbaumvogel“.
+- [Aitianjian aus Danxi](/de/nature/daan-river-yitian-sword) — Ein alter Baum, der tief in Xueba verborgen ist und nur durch die Unzugänglichkeit des Menschen überlebt hat; der ursprüngliche Wald am Quellbach, wo die Taiwanische Zeder zu einem der höchsten Bäume Ostasiens heranwuchs, ist der Lebensraum, den der Fischkauz benötigt.
 - [Taiwanische Nationalparks](/de/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — Die drei großen Nationalparks Xueba, Taroko und Yushan sind die letzten Festungen stabiler Fischkauzpopulationen; ein konkretes Beispiel für das Schutzgebietssystem.
 
 ## Bildquellen

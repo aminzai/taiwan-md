@@ -140,12 +140,12 @@ Tô Ngưỡng Chí nói với [INSIDE Sê Kiếp Side Chat E376](https://www.ins
 
 **Mở rộng đọc:**
 
-- [Hệ thống giáo dục và văn hóa thi cử](/society/hệ-thống-giáo-dục-và-văn-hóa-thi-cử) — Đối tượng phản kháng của Tạp Học Trường: tại sao chủ nghĩa ưu tiên thi cử của Đài Loan được cấu trúc hóa và nhân đôi
-- [Giáo dục vì Đài Loan TFT](/society/giáo-dục-vì-đài-loan-tft) — Một khởi nghiệp giáo dục thay thế cùng thời kỳ 318, con đường tuyển dụng có tổ chức khác với con đường lễ hội của Tạp Học Trường
-- [Sinh ra của một giáo viên: hệ thống đào tạo giáo viên Đài Loan](/society/sinh-ra-của-một-giáo-viên-hệ-thống-đào-tạo-giáo-viên-đài-loan) — Cách hệ thống bên trong đào tạo giáo viên, bản sắc "hiệu trưởng" của Tạp Học Trường đặt ở nhóm đối chiếu nào
-- [Phong trào Mặt Trời Hoa](/society/phong-trào-mặt-trời-hoa) — Bối cảnh lịch sử của Tạp Học Trường: sau khi Phong trào 318 tản biến trên phố, nó kéo dài thành thực hành xã hội ngoài hệ thống
-- [Lễ hội Cuộc sống Phức tạp](/society/lễ-hội-cuộc-sống-phức-tạp) — Phiên bản "cố ý giữ nhỏ" của năng lượng 318 sau: diễn đàn "Những người chưa thành công" vài ba trăm người của lớp 8, so với Tạp Học Trường lớn thành lễ hội giáo dục thay thế lớn nhất toàn Châu Á, là hai lựa chọn chiến lược của tính gần gũi và quy mô
-- [Giáo dục vùng sâu Đài Loan](/society/giáo-dục-vùng-sâu-đài-loan) — Tuyến chính khác của bất bình đẳng giáo dục, vị trí "thay thế" của Tạp Học Trường hình thành hai đầu của giáo dục Đài Loan
+- [Hệ thống giáo dục và văn hóa thi cử](/vi/society/education-system-and-admissions-culture) — Đối tượng phản kháng của Tạp Học Trường: tại sao chủ nghĩa ưu tiên thi cử của Đài Loan được cấu trúc hóa và nhân đôi
+- [Giáo dục vì Đài Loan TFT](/vi/society/teach-for-taiwan) — Một khởi nghiệp giáo dục thay thế cùng thời kỳ 318, con đường tuyển dụng có tổ chức khác với con đường lễ hội của Tạp Học Trường
+- [Sinh ra của một giáo viên: hệ thống đào tạo giáo viên Đài Loan](/vi/society/becoming-a-teacher-taiwan-teacher-training) — Cách hệ thống bên trong đào tạo giáo viên, bản sắc "hiệu trưởng" của Tạp Học Trường đặt ở nhóm đối chiếu nào
+- [Phong trào Mặt Trời Hoa](/vi/society/sunflower-movement) — Bối cảnh lịch sử của Tạp Học Trường: sau khi Phong trào 318 tản biến trên phố, nó kéo dài thành thực hành xã hội ngoài hệ thống
+- [Lễ hội Cuộc sống Phức tạp](/vi/society/complex-life-festival) — Phiên bản "cố ý giữ nhỏ" của năng lượng 318 sau: diễn đàn "Những người chưa thành công" vài ba trăm người của lớp 8, so với Tạp Học Trường lớn thành lễ hội giáo dục thay thế lớn nhất toàn Châu Á, là hai lựa chọn chiến lược của tính gần gũi và quy mô
+- [Giáo dục vùng sâu Đài Loan](/vi/society/taiwan-rural-education) — Tuyến chính khác của bất bình đẳng giáo dục, vị trí "thay thế" của Tạp Học Trường hình thành hai đầu của giáo dục Đài Loan
 
 ## Tài liệu tham khảo
 

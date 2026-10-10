@@ -12,7 +12,7 @@ tags:
     'Cầu thủ ném bóng du Mỹ',
     'Đội Trung Hoa',
   ]
-subcategory: 'Thể thao'
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07
@@ -117,7 +117,7 @@ Từ Trường THCS Kiến Hứng ở Đài Nam, sân vận động Yankees, gi�
 
 **Đọc thêm**: [Chien-Ming Wang — Wikipedia tiếng Việt](<https://zh.wikipedia.org/zh-tw/王建民_(棒球運動員)>) ｜ [Trailer phim tài liệu "Sau Khi: Chien-Ming Wang"](https://www.youtube.com/watch?v=ko-AxGU_D5s) ｜ [Giới thể thao: Những năm chúng ta cùng cuồng tinh Chien-Ming Wang](https://www.sportsv.net/articles/72833)
 
-[^1]: [Wikipedia: Chien-Ming Wang](https://zh.wikipedia.org/zh-tw/王建民_(棒球運動員) — ) — )) — Xác nhận sinh năm 1980 tại Đài Nam, học tại Trường THCS Kiến Hứng, huấn luyện viên Trương Tích Kiệt, chi tiết bị chấn thương bàn chân ngày 15 tháng 6 năm 2008 dây chằng bàn chân
+[^1]: [Wikipedia: Chien-Ming Wang](<https://zh.wikipedia.org/zh-tw/王建民_(棒球運動員)>) — ) — )) — Xác nhận sinh năm 1980 tại Đài Nam, học tại Trường THCS Kiến Hứng, huấn luyện viên Trương Tích Kiệt, chi tiết bị chấn thương bàn chân ngày 15 tháng 6 năm 2008 dây chằng bàn chân
 
 [^2]: [Giới thể thao: Những năm chúng ta cùng cuồng tinh Chien-Ming Wang](https://www.sportsv.net/articles/72833) — Xác nhận 2006 19 thắng 6 thua cạnh tranh chặt với Santana (Johan Santana) giải Vua thắng Liên đấu Mỹ (không phải hạng nhì), vị trí đầu tiên cầu thủ châu Á MLB Vua thắng, 2006 ALDS trận đầu tiên lấy được chiến thắng đầu tiên của cầu thủ ném bóng châu Á vòng playoff MLB.
 

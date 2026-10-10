@@ -13,7 +13,7 @@ tags:
     incident de Formosa,
     Shih Ming-teh,
   ]
-subcategory: 'Politique et démocratie'
+subcategory: '政治與民主'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 8

@@ -3,7 +3,7 @@ title: '대만의 외래어와 언어 접촉 현상'
 description: '도시락(便當)부터 동영상(視頻)까지: 한 섬의 언어 접촉사가 보여주는 대만이 어떻게 세계에서 가장 성공적인 외래어 융합 실험실이 되었는지'
 date: 2026-03-23
 tags: ['언어학', '사회언어학', '대만 문화', '언어 접촉', '외래어']
-subcategory: '언어와 문자'
+subcategory: '語言與文字'
 category: 'Culture'
 author: 'Taiwan.md'
 readingTime: 8

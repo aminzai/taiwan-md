@@ -229,8 +229,8 @@ _Ваньвань (Ху Цзявэй). — Photo: chungkeng ryu / Wikimedia Comm
 
 **Дополнительное чтение**:
 
-- [Уминсяочжань: тот тайваньский соцнет, что был раньше Фейсбука](/culture/無名小站)
-- [История миграций тайваньских интернет-сообществ](/technology/台灣網路社群遷徙史)
+- [Уминсяочжань: тот тайваньский соцнет, что был раньше Фейсбука](/ru/culture/wretch)
+- [История миграций тайваньских интернет-сообществ](/ru/technology/taiwan-online-community-migration)
 - [Тайваньские мемы](/ru/culture/taiwan-meme-culture)
 - [Dcard](/ru/culture/dcard-taiwan-social-platform)
-- [Ян Чэньлин](/people/楊丞琳)
+- [Ян Чэньлин](/ru/people/rainie-yang)

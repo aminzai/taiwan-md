@@ -1,6 +1,125 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import 'tailwindcss';
+
+@custom-variant dark (&:is(.dark *));
+
+@theme {
+  --color-bg-base: #1a1a1f;
+  --color-bg-surface: #22222a;
+  --color-bg-raised: #2a2a32;
+  --color-bg-input: #1f1f26;
+
+  --color-line: #2f2f38;
+
+  --color-text-primary: #e8e6e1;
+  --color-text-secondary: #a0a0a8;
+  --color-text-muted: #6e6e78;
+
+  --color-accent-green: #10b981;
+  --color-accent-green-soft: #34d399;
+  --color-accent-amber: #f59e0b;
+  --color-accent-red: #ef4444;
+  --color-accent-blue: #3b82f6;
+  --color-accent-purple: #a78bfa;
+  --color-accent-orange: #f97316;
+
+  --font-sans:
+    -apple-system, BlinkMacSystemFont, PingFang TC, Noto Sans TC,
+    Helvetica Neue, Helvetica, Arial, sans-serif;
+  --font-mono: SF Mono, Menlo, Monaco, Consolas, Liberation Mono, monospace;
+
+  --shadow-card:
+    0 1px 0 rgba(255, 255, 255, 0.02), 0 8px 24px rgba(0, 0, 0, 0.35);
+}
+
+/*
+  The default border color has changed to `currentcolor` in Tailwind CSS v4,
+  so we've added these compatibility styles to make sure everything still
+  looks the same as it did with Tailwind CSS v3.
+
+  If we ever want to remove these styles, we need to add an explicit border
+  color utility to any element that depends on these defaults.
+*/
+@layer base {
+  *,
+  ::after,
+  ::before,
+  ::backdrop,
+  ::file-selector-button {
+    border-color: var(--color-gray-200, currentcolor);
+  }
+}
+
+/*
+  Tailwind v4 Preflight no longer sets `cursor: pointer` on buttons (v3 did).
+  Keep the v3 behaviour so the 30+ buttons here don't silently lose the hand cursor.
+*/
+@layer base {
+  button:not(:disabled),
+  [role='button']:not(:disabled) {
+    cursor: pointer;
+  }
+}
+
+@utility card {
+  @apply bg-bg-surface border border-line rounded-lg shadow-card;
+}
+
+@utility card-header {
+  @apply px-4 py-3 border-b border-line flex items-center justify-between;
+}
+
+@utility card-body {
+  @apply p-4;
+}
+
+@utility btn {
+  @apply inline-flex items-center gap-2 px-3 py-1.5 rounded-md text-sm font-medium
+           border border-line bg-bg-raised hover:bg-bg-input
+           transition-colors disabled:opacity-50 disabled:cursor-not-allowed;
+}
+
+@utility btn-primary {
+  @apply border-accent-green/40 bg-accent-green/15 text-accent-green-soft
+           hover:bg-accent-green/25;
+}
+
+@utility btn-danger {
+  @apply border-accent-red/40 bg-accent-red/15 text-accent-red
+           hover:bg-accent-red/25;
+}
+
+@utility input {
+  @apply w-full bg-bg-input border border-line rounded-md px-3 py-2
+           text-sm text-text-primary placeholder:text-text-muted
+           focus:outline-hidden focus:border-accent-green/60
+           focus:ring-1 focus:ring-accent-green/40;
+}
+
+@utility select {
+  @apply w-full bg-bg-input border border-line rounded-md px-3 py-2
+           text-sm text-text-primary placeholder:text-text-muted
+           focus:outline-hidden focus:border-accent-green/60
+           focus:ring-1 focus:ring-accent-green/40;
+}
+
+@utility textarea {
+  @apply w-full bg-bg-input border border-line rounded-md px-3 py-2
+           text-sm text-text-primary placeholder:text-text-muted
+           focus:outline-hidden focus:border-accent-green/60
+           focus:ring-1 focus:ring-accent-green/40;
+}
+
+@utility pill {
+  @apply inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-xs font-medium;
+}
+
+@utility skeleton {
+  @apply bg-bg-raised animate-pulse rounded-sm;
+}
+
+@utility section-title {
+  @apply text-sm font-semibold uppercase tracking-wider text-text-secondary;
+}
 
 @layer base {
   :root {
@@ -36,47 +155,5 @@
   }
   ::-webkit-scrollbar-thumb:hover {
     background: #3a3a44;
-  }
-}
-
-@layer components {
-  .card {
-    @apply bg-bg-surface border border-line rounded-lg shadow-card;
-  }
-  .card-header {
-    @apply px-4 py-3 border-b border-line flex items-center justify-between;
-  }
-  .card-body {
-    @apply p-4;
-  }
-  .btn {
-    @apply inline-flex items-center gap-2 px-3 py-1.5 rounded-md text-sm font-medium
-           border border-line bg-bg-raised hover:bg-bg-input
-           transition-colors disabled:opacity-50 disabled:cursor-not-allowed;
-  }
-  .btn-primary {
-    @apply border-accent-green/40 bg-accent-green/15 text-accent-green-soft
-           hover:bg-accent-green/25;
-  }
-  .btn-danger {
-    @apply border-accent-red/40 bg-accent-red/15 text-accent-red
-           hover:bg-accent-red/25;
-  }
-  .input,
-  .select,
-  .textarea {
-    @apply w-full bg-bg-input border border-line rounded-md px-3 py-2
-           text-sm text-text-primary placeholder:text-text-muted
-           focus:outline-none focus:border-accent-green/60
-           focus:ring-1 focus:ring-accent-green/40;
-  }
-  .pill {
-    @apply inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-xs font-medium;
-  }
-  .skeleton {
-    @apply bg-bg-raised animate-pulse rounded;
-  }
-  .section-title {
-    @apply text-sm font-semibold uppercase tracking-wider text-text-secondary;
   }
 }

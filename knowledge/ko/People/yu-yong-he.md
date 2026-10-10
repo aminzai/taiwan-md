@@ -13,7 +13,7 @@ tags:
     '유황',
     '타이완 문학',
   ]
-subcategory: '역사와 탐험'
+subcategory: '歷史與探險'
 category: 'People'
 author: 'Taiwan.md'
 featured: false

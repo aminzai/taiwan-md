@@ -78,7 +78,7 @@ En la era del video corto, lo que nos llevamos no es solo conocimiento, sino una
 
 ### Referencias y notas
 
-[^1]: [Laboratorio de Democracia de Taiwán, _Encuesta de usuarios de TikTok/Douyin 2025: anuncio de datos de encuesta nacional en línea_](https://medium.com/doublethinklab-tw/2025-tiktok-%E6%8A%96%E9%9F%B3%E4%BD%BF%E7%94%A8%E8%80%85%E8%AA%BF%E6%9F%A7-%E5%85%A8%E5%9C%8B%E7%B6%B2%E8%AA%BF%E6%95%B8%E6%93%9A%E5%85%AC%E5%91%8A-008f043db43e)
+[^1]: [Laboratorio de Democracia de Taiwán, _Encuesta de usuarios de TikTok/Douyin 2025: anuncio de datos de encuesta nacional en línea_](https://medium.com/doublethinklab-tw/2025-tiktok-%E6%8A%96%E9%9F%B3%E4%BD%BF%E7%94%A8%E8%80%85%E8%AA%BF%E6%9F%A5-%E5%85%A8%E5%9C%8B%E7%B6%B2%E8%AA%BF%E6%95%B8%E6%93%9A%E5%85%AC%E5%91%8A-008f043db43e)
 
 [^2]: [Centro de Verificación de Hechos de Taiwán, _Top 10 de desmentidos: 2025/4/28-2025/5/04_](https://tfc-taiwan.org.tw/%E3%80%902025-4-28-2025-5-04%E3%80%91%E9%97%A2%E8%AC%A3top10/)
 
@@ -114,9 +114,9 @@ En la era del video corto, lo que nos llevamos no es solo conocimiento, sino una
 
 [^18]: [RFI: ¿Prohibir TikTok viola la libertad de expresión? Entrevista con la académica taiwanesa Zheng Yujun](https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E5%85%AC%E6%B0%91%E8%AB%96%E5%A3%B4/20250128-%E7%A6%81%E6%AD%A2tiktok%E6%98%AF%E5%90%A6%E4%BE%B5%E7%8A%AF%E8%A8%80%E8%AB%96%E8%87%AA%E7%94%B1-%E8%A8%AA%E5%8F%B0%E7%81%A3%E5%AD%B8%E8%80%85%E9%84%AD%E5%AE%87%E5%90%9B)
 
-[^19]: [Laboratorio de Democracia de Taiwán: Recomendaciones precisas y penetración cognitiva: el impacto de TikTok en el entorno informativo de los adolescentes taiwaneses y en su percepción de China](https://medium.com/doublethinklab-tw/%E7%B2%BE%E6%BA%90%E6%8E%A8%E6%92%AD%E8%88%87%E8%AA%8D%E7%9F%A5%E6%BB%B2%E9%80%8F-tiktok-%E5%B0%8D%E5%8F%B0%E7%81%A3%E9%9D%92%E5%B0%91%E5%B9%B4%E8%B3%87%E8%A8%8A%E7%92%B0%E5%A2%83%E8%88%87%E5%B0%8D%E4%B8%AD%E5%9C%8B%E8%A7%80%E6%84%9F%E7%9A%84%E5%BD%B1%E9%9F%BF-2025-tiktok%E6%8A%96%E9%9F%B3%E5%8F%B0%E7%81%A3%E9%9D%92%E5%B0%91%E5%B9%B4%E4%BD%BF%E7%94%A8%E8%80%85%E8%AA%BF%E6%9F%A7%E5%A0%B1%E5%91%8A-%E6%91%98%E8%A6%81%E7%89%88-458e3c5f7475)
+[^19]: [Laboratorio de Democracia de Taiwán: Recomendaciones precisas y penetración cognitiva: el impacto de TikTok en el entorno informativo de los adolescentes taiwaneses y en su percepción de China](https://medium.com/doublethinklab-tw/%E7%B2%BE%E6%BA%96%E6%8E%A8%E6%92%AD%E8%88%87%E8%AA%8D%E7%9F%A5%E6%BB%B2%E9%80%8F-tiktok-%E5%B0%8D%E5%8F%B0%E7%81%A3%E9%9D%92%E5%B0%91%E5%B9%B4%E8%B3%87%E8%A8%8A%E7%92%B0%E5%A2%83%E8%88%87%E5%B0%8D%E4%B8%AD%E5%9C%8B%E8%A7%80%E6%84%9F%E7%9A%84%E5%BD%B1%E9%9F%BF-2025-tiktok%E6%8A%96%E9%9F%B3%E5%8F%B0%E7%81%A3%E9%9D%92%E5%B0%91%E5%B9%B4%E4%BD%BF%E7%94%A8%E8%80%85%E8%AA%BF%E6%9F%A5%E5%A0%B1%E5%91%8A-%E6%91%98%E8%A6%81%E7%89%88-458e3c5f7475)
 
-[^20]: [Nuevo Think Tank Social de Taiwán: TikTok, Xiaohongshu: riesgos multidimensionales para la seguridad nacional de Taiwán](http://www.taiwansig.tw/index.php/%E6%94%BF%E7%AD%96%E5%A0%B1%E5%91%8A/%E5%85%A9%E5%B2%B8%E5%9C%8B%E9%9A%9B/9096-tiktok%E3%80%81%E5%B0%8F%E7%B4%85%E6%9B%B8%EF%BC%9A%E5%A4%9A%E7%B6%AD%E5%BA%A6%E7%9A%84%E5%8F%B0%E7%81%A3%E5%9C%8B%E5%AE%89%E9%A2%A8%E9%9A%BB)
+[^20]: [Nuevo Think Tank Social de Taiwán: TikTok, Xiaohongshu: riesgos multidimensionales para la seguridad nacional de Taiwán](http://www.taiwansig.tw/index.php/%E6%94%BF%E7%AD%96%E5%A0%B1%E5%91%8A/%E5%85%A9%E5%B2%B8%E5%9C%8B%E9%9A%9B/9096-tiktok%E3%80%81%E5%B0%8F%E7%B4%85%E6%9B%B8%EF%BC%9A%E5%A4%9A%E7%B6%AD%E5%BA%A6%E7%9A%84%E5%8F%B0%E7%81%A3%E5%9C%8B%E5%AE%89%E9%A2%A8%E9%9A%AA)
 
 [^21]: [RFA: Reportaje en profundidad | La propaganda exterior del PCCh en Taiwán (epílogo final): a la isla, a los hogares, a TikTok](https://www.rfa.org/mandarin/shishi-hecha/2025/04/28/factcheck-ccp-propaganda-tiktok/)
 

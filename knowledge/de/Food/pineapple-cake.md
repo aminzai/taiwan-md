@@ -68,7 +68,7 @@ Im Jahr 2006 organisierte die Taipeler Stadtregierung das erste „Taipeler Anan
 ## Weiterführende Literatur
 
 - [Taiwanesische Kuchenkultur](/de/food/taiwan-pastry-culture) — Die Genetik der Kuchenfertigkeit und moderne Desserts, zusammen mit Ananasplunder, zeigen die Transformation der taiwanesischen Kuchen
-- [Rindfleisch-Nudeln](/food/牛肉麵) — Ein weiteres typisches Geschmackserinnerung Taiwans als „Volksdiplomatie“, ein Gegenstück zur Ananasplunder
+- [Rindfleisch-Nudeln](/de/food/beef-noodle-soup) — Ein weiteres typisches Geschmackserinnerung Taiwans als „Volksdiplomatie“, ein Gegenstück zur Ananasplunder
 - [Modernisierung der taiwanesischen Landwirtschaft](/economy/台灣農業現代化) — Von der Produktionskrise zur Transformation der Landwirtschaft, die Ananasplunder ist ein Teil davon
 
 ## Quellen

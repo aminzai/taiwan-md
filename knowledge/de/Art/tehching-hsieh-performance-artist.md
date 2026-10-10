@@ -171,9 +171,9 @@ Die leere Erklärung vom 31. Dezember 1999 ist bis heute im Archiv des Dia Beaco
 
 ## Weiterführende Literatur
 
-- **[Taiwan New Media Art](/art/台灣新媒體藝術)** — Von Nie Yongzhen bis zur Videokunst Taiwans; Hsieh ist einer der Ursprünge dieser Linie.
-- **[Taiwan Contemporary Art](/art/當代藝術)** — Hsiehs Position in der taiwanesischen Avantgarde-Geschichte (so vorhanden).
-- **[Taiwan Sensibel: Müssen wir erst auf Like von Korea warten, bevor wir unser altes Haus schön finden?](/culture/台灣感性)** — Hsieh bewies in 21 Jahren, dass Ästhetik keine Likes braucht, um real zu sein. Dieser Text stellt dieselbe Frage: Wenn Taiwanese ihr eigenes altes Haus neu entdecken, müssen sie dann erst auf Korea warten?
+- **[Taiwan New Media Art](/de/art/taiwan-new-media-art)** — Von Nie Yongzhen bis zur Videokunst Taiwans; Hsieh ist einer der Ursprünge dieser Linie.
+- **[Taiwan Contemporary Art](/de/art/contemporary-art)** — Hsiehs Position in der taiwanesischen Avantgarde-Geschichte (so vorhanden).
+- **[Taiwan Sensibel: Müssen wir erst auf Like von Korea warten, bevor wir unser altes Haus schön finden?](/de/culture/taiwanese-sensibility)** — Hsieh bewies in 21 Jahren, dass Ästhetik keine Likes braucht, um real zu sein. Dieser Text stellt dieselbe Frage: Wenn Taiwanese ihr eigenes altes Haus neu entdecken, müssen sie dann erst auf Korea warten?
 
 ## Quellen
 

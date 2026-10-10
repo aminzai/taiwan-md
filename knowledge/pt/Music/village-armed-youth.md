@@ -3,7 +3,7 @@ title: 'Jovens Armados da Vila'
 description: 'Jiang Yu-ta e sua música folclórica cantaram por dez anos nas manifestações, depois voltaram para sua terra natal em Changhua, perdendo a capacidade criativa por dois anos — ele disse que foi isso que tornou sua revolução mais intensa.'
 date: 2026-04-27
 category: 'Music'
-subcategory: 'Independência e Rock'
+subcategory: '獨立與搖滾'
 tags:
   [
     'Jovens Armados da Vila',
@@ -117,15 +117,15 @@ As músicas de Jovens Armados da Vila queimam nas ruas, se fixam no pátio de um
 
 A-dá encontrou a resposta, chamou de "Raiz".
 
-[^1]: [Wikipedia Jovens Armados da Vila](https://zh.wikipedia.org/zh-hant/%E8%BE%B6%E6%9D%91%E6%AD%A6%E8%A3%9D%E9%9D%92%E5%B9%B4) — O Instituto de Lazer de Saúde e a fundação de Yang Ru-men
+[^1]: [Wikipedia Jovens Armados da Vila](https://zh.wikipedia.org/zh-hant/%E8%BE%B2%E6%9D%91%E6%AD%A6%E8%A3%9D%E9%9D%92%E5%B9%B4) — O Instituto de Lazer de Saúde e a fundação de Yang Ru-men
 
-[^2]: [Wikipedia Jovens Armados da Vila](https://zh.wikipedia.org/zh-hant/%E8%BE%B6%E6%9D%91%E6%AD%A6%E8%A3%9D%E9%9D%92%E5%B9%B4) — Formação, repertório de instrumentos, lista dos seis álbuns
+[^2]: [Wikipedia Jovens Armados da Vila](https://zh.wikipedia.org/zh-hant/%E8%BE%B2%E6%9D%91%E6%AD%A6%E8%A3%9D%E9%9D%92%E5%B9%B4) — Formação, repertório de instrumentos, lista dos seis álbuns
 
 [^3]: [Notícias do Fluxo de Trabalho "Jovens Armados da Vila: Eu vejo a terra, e também vivo com ela"](https://www.newsmarket.com.tw/blog/2434/) — A-dá sobre música, rock e terra
 
-[^4]: [Yahoo Notícias: Da luta às ruas até a comunidade, Jovens Armados da Vila cantam a terra](https://tw.news.yahoo.com/%E8%A1%97%E9%A0%AD%E6%8A%97%E7%88%AD%E5%88%B0%E6%89%8E%E6%A0%B9%E7%A4%BE%E5%8D%80-%E8%BE%B6%E6%9D%91%E6%AD%A6%E8%A3%9D%E9%9D%92%E5%B9%B4%E5%94%B1%E5%9C%B0%E5%9C%B0%E7%9A%84%E6%AD%8C-%E9%8F%A1%E6%96%B0%E8%81%9E-032107410.html) — Lista de conflitos com Jovens Armados da Vila, incluindo Dapu
+[^4]: [Yahoo Notícias: Da luta às ruas até a comunidade, Jovens Armados da Vila cantam a terra](https://tw.news.yahoo.com/%E8%A1%97%E9%A0%AD%E6%8A%97%E7%88%AD%E5%88%B0%E6%89%8E%E6%A0%B9%E7%A4%BE%E5%8D%80-%E8%BE%B2%E6%9D%91%E6%AD%A6%E8%A3%9D%E9%9D%92%E5%B9%B4%E5%94%B1%E5%9C%B0%E5%9C%B0%E7%9A%84%E6%AD%8C-%E9%8F%A1%E6%96%B0%E8%81%9E-032107410.html) — Lista de conflitos com Jovens Armados da Vila, incluindo Dapu
 
-[^5]: [Wikipedia Jovens Armados da Vila](https://zh.wikipedia.org/zh-hant/%E8%BE%B6%E6%9D%91%E6%AD%A6%E8%A3%9D%E9%9D%92%E5%B9%B4) — Prêmio Golden Music de Criação, indicações ao Golden Melody
+[^5]: [Wikipedia Jovens Armados da Vila](https://zh.wikipedia.org/zh-hant/%E8%BE%B2%E6%9D%91%E6%AD%A6%E8%A3%9D%E9%9D%92%E5%B9%B4) — Prêmio Golden Music de Criação, indicações ao Golden Melody
 
 [^6]: [Wikipedia Evento de Dapu](https://zh.wikipedia.org/zh-tw/%E5%A4%A7%E5%9F%94%E4%BA%8B%E4%BB%B6) — Demolição em 2010, demolição forçada em 18 de julho de 2013, corpo de Zhang Sen-wen
 

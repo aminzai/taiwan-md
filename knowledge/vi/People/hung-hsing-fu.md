@@ -145,9 +145,9 @@ Ba mươi hai năm ngắn ngủi, Hồng Hưng Phu như một vì sao lấp lán
 
 ## Tài nguyên mở rộng
 
-- [Văn học Đài Loan sau chiến tranh](/art/戰後台灣文學)：bối cảnh lịch sử về sự thay đổi xã hội, tranh cãi văn học nông thô và triển lĩnh chủ nghĩa thực dụng
-- [Lịch sử văn học Đài Loan](/art/台灣文學史)：từ thời kỳ thuộc địa Nhật đến hiện đại
-- [Huang Hưng Minh](/people/黃春明)：câu chuyện bi kịch của người dân vùng Bắc, một so sánh kinh điển trong văn học nông thô đương thời
+- [Văn học Đài Loan sau chiến tranh](/vi/art/postwar-taiwanese-literature)：bối cảnh lịch sử về sự thay đổi xã hội, tranh cãi văn học nông thô và triển lĩnh chủ nghĩa thực dụng
+- [Lịch sử văn học Đài Loan](/vi/art/history-of-taiwanese-literature)：từ thời kỳ thuộc địa Nhật đến hiện đại
+- [Huang Hưng Minh](/vi/people/huang-chun-ming-taiwanese-literary-master)：câu chuyện bi kịch của người dân vùng Bắc, một so sánh kinh điển trong văn học nông thô đương thời
 
 ---
 

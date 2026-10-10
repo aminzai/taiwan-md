@@ -105,7 +105,7 @@ Giá trị của suối lạnh Tô Áo, chính là ở chỗ nó không bị cô
 
 ## Tài liệu mở rộng
 
-- [Cảnh quan suối nước nóng Đài Loan](/geography/cảnh-quan-suối-nước-nóng-đài-loan): Từ chuyển động tectonic, kiểu suối nước nóng đến nhà tắm công cộng, hiểu bối cảnh địa nhiệt toàn đảo mà suối lạnh Tô Áo nằm trong đó.
+- [Cảnh quan suối nước nóng Đài Loan](/vi/geography/taiwan-hot-springs-landscape): Từ chuyển động tectonic, kiểu suối nước nóng đến nhà tắm công cộng, hiểu bối cảnh địa nhiệt toàn đảo mà suối lạnh Tô Áo nằm trong đó.
 - [Công viên suối lạnh Tô Áo: Trang điểm du lịch của Tỉnh Nghi Lan](https://travel.yilan.gov.tw/zh-tw/attraction/1/): Xem trang thiết bị công cộng hiện tại, giờ mở cửa và nhắc nhở vào bể.
 
 ## Nguồn hình ảnh

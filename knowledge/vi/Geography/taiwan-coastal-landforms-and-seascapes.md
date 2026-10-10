@@ -11,7 +11,7 @@ tags:
     'tác động địa chất',
     'cảnh quan tự nhiên',
   ]
-subcategory: 'Địa hình và địa chất'
+subcategory: '地形與地質'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-24

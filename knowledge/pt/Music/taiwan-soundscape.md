@@ -252,11 +252,11 @@ A Associação de Paisagem Sonora de Taiwan e o Ministério da Cultura integram 
 
 **Leitura complementar**:
 
-- [Paisagem Sonora de Taiwan](/culture/台灣聲景) — Artigo irmão: os mesmos sons, reinterrogados pelo ângulo de "como escutamos", cocriação de materiais por pesquisadores de paisagem sonora
+- [Paisagem Sonora de Taiwan](/pt/culture/taiwan-soundscape) — Artigo irmão: os mesmos sons, reinterrogados pelo ângulo de "como escutamos", cocriação de materiais por pesquisadores de paisagem sonora
 - [🎧 Projeto de Coleta de Paisagem Sonora de Taiwan](/soundscape) — Versão em áudio deste artigo: 21 gravações de campo de caminhão de lixo, templo, metrô, natureza, disponíveis online; contribuições bem-vindas
-- [Wang Fu-jui](/people/王福瑞) — Fundou em 1993 o primeiro selo de música experimental de Taiwan, NOISE; fonte da linhagem de Wang Fu-jui, Yao Chung-han, Chang Yung-ta mencionada na seção "Arte sonora"
+- [Wang Fu-jui](/pt/people/fujui-wang) — Fundou em 1993 o primeiro selo de música experimental de Taiwan, NOISE; fonte da linhagem de Wang Fu-jui, Yao Chung-han, Chang Yung-ta mencionada na seção "Arte sonora"
 - [Tradições Musicais dos Povos Indígenas de Taiwan](/pt/music/indigenous-music-traditions) — Polifonia de oito vozes dos Bunun, harpa bucal dos Paiwan e outros sons tradicionais, a camada mais antiga da paisagem sonora de Taiwan
-- [Cultura KTV de Taiwan](/music/台灣KTV文化) — Do show de variedades à sala privativa, o KTV é uma das fontes sonoras artificiais mais onipresentes da paisagem noturna de Taiwan; a alegria de cinco pessoas cantando numa sala vazando para fora compõe uma assinatura sonora única das noites taiwanesas
+- [Cultura KTV de Taiwan](/pt/music/ktv-culture) — Do show de variedades à sala privativa, o KTV é uma das fontes sonoras artificiais mais onipresentes da paisagem noturna de Taiwan; a alegria de cinco pessoas cantando numa sala vazando para fora compõe uma assinatura sonora única das noites taiwanesas
 - [Desenvolvimento do Hip Hop e Rap em Taiwan](/pt/music/taiwan-hip-hop-and-rap) — Do porão urbano ao topo do KKBOX, a textura sonora do rap transformou as camadas da paisagem sonora da música popular taiwanesa
 
 ---

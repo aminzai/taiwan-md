@@ -164,9 +164,9 @@ Die Bedeutung eines Burgers mit Nudelsuppe muss nicht durch eine erfundene Grün
 
 ## Weiterführende Lektüre
 
-- [Taiwanische Frühstückskultur](/food/台灣早餐文化) — Verständnis des kulinarischen Kontextes von Dan Dan durch die Mischung aus Ost und West im taiwanesischen Frühstück.
+- [Taiwanische Frühstückskultur](/de/food/taiwan-breakfast-culture) — Verständnis des kulinarischen Kontextes von Dan Dan durch die Mischung aus Ost und West im taiwanesischen Frühstück.
 - [Kultureller Hintergrund der taiwanischen Nudelgerichte](/de/food/taiwanese-noodle-culture) — Erweiterte Lektüre über traditionelle taiwanische Nudeln, Nudelsuppen und lokale Küche.
-- [Taiwanische Snacks](/food/台灣小吃) — Ein größeres Bild des Elements „traditioneller taiwanischer Snacks“ auf der Dan Dan Speisekarte.
+- [Taiwanische Snacks](/de/food/taiwanese-street-food) — Ein größeres Bild des Elements „traditioneller taiwanischer Snacks“ auf der Dan Dan Speisekarte.
 
 ## Quellenverzeichnis
 

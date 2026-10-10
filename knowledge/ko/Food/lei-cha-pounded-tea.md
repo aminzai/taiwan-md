@@ -130,7 +130,7 @@ _사진: 타오위안시 중리구 지바리 하카 뤄차, 작가 氏子, [Wiki
 
 [客家委員會：文化產業的關鍵要素之探討——以北埔擂茶為例](https://www.hakka.gov.tw/chhakka/app/data/view?module=thesis&id=80&serno=42331)
 
-## 參考資料
+## 참고 자료
 
 [^1]: [客家委員會：文化產業的關鍵要素之探討——以北埔擂茶為例](https://www.hakka.gov.tw/chhakka/app/data/view?module=thesis&id=80&serno=42331) — 國立交通大學 하카 문화 연구 논문 초록을 수록하며, 1999년 북포 전문점, 문화 체험, 정책 지원 및 지역 산업화의 연관성을 설명합니다.
 

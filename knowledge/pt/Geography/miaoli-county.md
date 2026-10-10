@@ -206,11 +206,11 @@ Teimoso é assim: você não sai da terra. Mesmo que a terra tenha vivido coisas
 
 ## Leitura complementar
 
-- [Cultura e língua Hakka](/culture/客家文化與語言) — Distribuição nacional dos dialetos Sixian (principal de Miaoli), Hailu, Dapu, Raoping; contexto da proporção de 62,5% de Miaoli
+- [Cultura e língua Hakka](/pt/culture/hakka-culture-and-language) — Distribuição nacional dos dialetos Sixian (principal de Miaoli), Hailu, Dapu, Raoping; contexto da proporção de 62,5% de Miaoli
 - [Cultura gastronômica Hakka](/pt/food/hakka-food-culture) — Banmian, intestino gordo com gengibre, refogado hakka, chá pilado (lei: a mesa dos povoados hakka
 - [Mapa cultural das 16 etnias indígenas de Taiwan](/pt/culture/indigenous-peoples-16-tribes-cultural-map) — Posição dos Saisiyat no espectro indígena de Taiwan; Saisiyat do Sul (Nanzhuang) vs. Saisiyat do Norte (Wufeng)
 - [Chung Li-ho](/pt/people/zhong-lihe-nativeland-eternal-seeker) — Figura representativa da literatura hakka de Miaoli (Chung Li-ho era de Meinong, Kaohsiung, mas a escrita hakka conecta-se)
-- [Artesanato tradicional e patrimônio cultural imaterial de Taiwan](/culture/台灣傳統工藝與無形文化資產) — Escultura de Sanyi como representante da escultura em madeira de Taiwan; Festival dos Espíritos Anões Saisiyat como Patrimônio Folclórico Nacional Importante
+- [Artesanato tradicional e patrimônio cultural imaterial de Taiwan](/pt/culture/traditional-crafts-intangible-cultural-heritage) — Escultura de Sanyi como representante da escultura em madeira de Taiwan; Festival dos Espíritos Anões Saisiyat como Patrimônio Folclórico Nacional Importante
 - [Cidade de Keelung](/pt/geography/keelung-city) — Sibling do mesmo lote da série 22 condados e cidades; outro condado deixado para trás pela virada de época
 - [Condado de Hsinchu](/pt/geography/hsinchu-county) — Série 22 condados e cidades lote 2; condado com maior proporção hakka (67,8%), experiência hakka paralela a Miaoli: fé nos justos ao lado da Fase 2 de Baoshan da TSMC
 - [Divisão administrativa de Taiwan](/pt/geography/administrative-divisions-of-taiwan) — 1889 criação do Condado de Miaoli, 1950 reorganização pós-guerra, 2015 elevação de Toufen

@@ -18,7 +18,7 @@ tags:
   - 'médias de style de vie'
   - 'Business Next Media'
   - 'éducation aux médias'
-subcategory: 'Design et médias'
+subcategory: '設計與媒體'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-07-13

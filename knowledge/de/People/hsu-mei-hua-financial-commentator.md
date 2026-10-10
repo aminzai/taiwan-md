@@ -117,14 +117,14 @@ Aber jener anonyme Codename ist noch da.
 **Weiterführende Literatur**:
 
 - [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Industriekontext der Anti-Ziguang-Schlacht: Taiwans Struktur vom Foundry zum Verpackungs-/Test-/Design-Champion und die unsichtbare Grenze „Chinesisches Kapital kommt nicht herein“
-- [Taiwanesische Unternehmen: TSMC](/economy/台灣企業：台積電) — Jener Schutzberg der taiwanesischen Technologieautonomie, den Ziguang damals nicht anzufassen wagte
-- [Taiwanesische Unternehmen: ASE](/economy/台灣企業：日月光半導體) — Zur selben Zeit wie der Ziguang-Vorfall ins Visier des Kapitals geratener Verpackungs- und Test-Riese, ein weiterer Koordinatpunkt auf Xu Meihuas Halbleiterfront
-- [Sozialbewegungen und Bürgerbeteiligung](/society/社會運動與公民參與) — Von der Sonnenblume bis zur Großabwahl, die Evolutionskoordinaten von Xu Meihuas anonymem Bürger-Codename-Mobilisierungsmodus in Taiwan
-- [Demokratisches System](/society/民主制度) — Das Abwahlrecht als direktdemokratisches Werkzeug in Taiwans Vertretungssystem und die Quorum-Debatte hinter den „7 Wahlkreisen über 25 %“ von 2025
-- [Gipfel Zheng-Xi 2026: Zehn Minuten, zehn Jahre später](/society/2026鄭習會與國共十年再會) — Wie das Zwei-Ufer-Politikspektakel nach dem Scheitern der Großabwahl fortgesetzt wird
-- [Zheng Liwen](/people/鄭麗文) — Gegenüber der Großabwahl: 2025 leitete KMT-Gegenwehr an, brachte „blau-weiße Zusammenarbeit“ ein, zentrale politische Figur
-- [Han Kuo-yu](/people/韓國瑜) — Als Parlamentspräsident der Auslöser der Parlamentsreformgesetze, die die Großabwahl 2025 zündeten
-- [Taiwans Justizreform und präventive Haft](/society/台灣司法改革與預防性羈押制度) — Eine weitere Front im Legislativ-Yuan 2025, an der Zivilgesellschaft und Regierung-Opposition rangen
+- [Taiwanesische Unternehmen: TSMC](/de/economy/tsmc) — Jener Schutzberg der taiwanesischen Technologieautonomie, den Ziguang damals nicht anzufassen wagte
+- [Taiwanesische Unternehmen: ASE](/de/economy/taiwan-enterprise-ase-semiconductor) — Zur selben Zeit wie der Ziguang-Vorfall ins Visier des Kapitals geratener Verpackungs- und Test-Riese, ein weiterer Koordinatpunkt auf Xu Meihuas Halbleiterfront
+- [Sozialbewegungen und Bürgerbeteiligung](/de/society/social-movements-and-civic-participation) — Von der Sonnenblume bis zur Großabwahl, die Evolutionskoordinaten von Xu Meihuas anonymem Bürger-Codename-Mobilisierungsmodus in Taiwan
+- [Demokratisches System](/de/society/democratic-system) — Das Abwahlrecht als direktdemokratisches Werkzeug in Taiwans Vertretungssystem und die Quorum-Debatte hinter den „7 Wahlkreisen über 25 %“ von 2025
+- [Gipfel Zheng-Xi 2026: Zehn Minuten, zehn Jahre später](/de/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Wie das Zwei-Ufer-Politikspektakel nach dem Scheitern der Großabwahl fortgesetzt wird
+- [Zheng Liwen](/de/people/cheng-li-wun) — Gegenüber der Großabwahl: 2025 leitete KMT-Gegenwehr an, brachte „blau-weiße Zusammenarbeit“ ein, zentrale politische Figur
+- [Han Kuo-yu](/de/people/han-kuo-yu) — Als Parlamentspräsident der Auslöser der Parlamentsreformgesetze, die die Großabwahl 2025 zündeten
+- [Taiwans Justizreform und präventive Haft](/de/society/taiwan-judicial-reform-and-preventive-detention) — Eine weitere Front im Legislativ-Yuan 2025, an der Zivilgesellschaft und Regierung-Opposition rangen
 
 ## Quellen
 

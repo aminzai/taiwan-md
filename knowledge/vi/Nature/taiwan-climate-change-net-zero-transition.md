@@ -238,7 +238,7 @@ Mỗi con đường năng lượng đều có những người phản đối c�
 
 > 📝 **Ghi chú của nhà viết:** Cuộc thảo luận công lý môi trường phổ biến thường dừng ở «cân bằng phát triển và bảo vệ môi trường», nhưng cách định khung này đã san bằng vấn đề rồi. Lam Dã, tảo biển, Mỹ Phước ba trường hợp điểm chung thực sự là: **chúng đều là hậu quả quyết định sau năm 1980, được xã hội chạy bộ 1990-2020 mua giúp**. Chuyển đổi năng lượng trước 2050 sẽ tiếp tục sinh ra nhiều «Lam Dã» «tảo biển» mới (ngư dân Chương Hóa của tua-bin gió ngoài khơi, dân tộc bản địa Nghi Lan của địa nhiệt, muối của Đài Nam của năng lượng mặt trời). Vấn đề thực sự là «có thể không lặp lại mô hình quyết định 1982 không».
 
-Lịch sử ngữ cảnh môi trường xanh chi tiết có thể xem [Lịch sử phong trào môi trường Đài Loan](/nature/lịch-sử-phong-trào-môi-trường-đài-loan), và [Thách thức quản lý và bảo vệ ô nhiễm biển Đài Loan](/nature/thách-thức-quản-lý-và-bảo-vệ-ô-nhiễm-biển-đài-loan).
+Lịch sử ngữ cảnh môi trường xanh chi tiết có thể xem [Lịch sử phong trào môi trường Đài Loan](/vi/nature/taiwan-environmental-movement-history), và [Thách thức quản lý và bảo vệ ô nhiễm biển Đài Loan](/vi/nature/marine-pollution-governance-and-conservation).
 
 ## 9 nghìn tỷ đô la Đài Loan với giới hạn vật lý
 
@@ -316,7 +316,7 @@ Không ai biết liệu 9 nghìn tỷ Đài tệ có thể mua được một t�
 - [Cây phố ở Đài Loan](/vi/lifestyle/taiwan-street-trees) — Vị trí và thang thời gian điều chỉnh đảo nhiệt đô thị bằng bóng mát cây: cây cần ít nhất mười năm để che bóng là một trong những yếu tố không thể chờ đợi trên tuyến này.
 - [Phát triển hiện đại hóa nông nghiệp Đài Loan](/vi/economy/taiwan-agricultural-modernization) — Áp lực chuyển đổi nông nghiệp và xung đột sử dụng đất đằng sau sự cộng sinh điện - nông nghiệp.
 - [Mùa mưa](/vi/nature/meiyu-stagnant-front) — Quan sát địa phương về biến đổi khí hậu: "mưa xuân không đến, mùa mưa tập trung".
-- [Cơ chế giá dầu và Đài Loan (CPC)](/economy/台灣油價機制與中油) — Sự giằng co giữa trợ cấp nhiên liệu hóa thạch và tín hiệu tiết kiệm năng lượng: việc đóng băng giá khiến người dùng nhiều hơn thì tiết kiệm hơn, nhưng trong nửa năm này không ai có bảng tính xem ai đã sử dụng nhiều nhất.
+- [Cơ chế giá dầu và Đài Loan (CPC)](/vi/economy/taiwan-fuel-pricing-and-cpc) — Sự giằng co giữa trợ cấp nhiên liệu hóa thạch và tín hiệu tiết kiệm năng lượng: việc đóng băng giá khiến người dùng nhiều hơn thì tiết kiệm hơn, nhưng trong nửa năm này không ai có bảng tính xem ai đã sử dụng nhiều nhất.
 
 ## Nguồn ảnh
 

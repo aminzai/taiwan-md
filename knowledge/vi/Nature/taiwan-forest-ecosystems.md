@@ -12,7 +12,7 @@ tags:
     'Vùng mây mù',
     'Đa dạng sinh học',
   ]
-subcategory: 'Hệ sinh thái'
+subcategory: '生態系統'
 readingTime: 15
 author: 'Taiwan.md'
 featured: false
@@ -189,5 +189,5 @@ Bảo vệ rừng Đài Loan chính là bảo vệ hình ảnh thu nhỏ của �
 - [Hiệp hội Phục hồi rừng núi Đài Loan: "Các quần thể thực vật đới cao núi"](https://www.reforestation.tw/?p=14319)
 - [Our Island: "Bách Ngọc Sơn trên sống lưng Đài Loan"](https://ourisland.pts.org.tw/content/2572)
 - [The Reporter: "Từ khai thác lậu đến buôn bán — Tội ác và giao dịch xoay quanh những cây thần ngàn năm"](https://www.twreporter.org/topics/illegal-logging)
-- [Đường sắt lâm nghiệp Alishan](https://zh.wikipedia.org/zh-tw/%E9%98%BF%E9%87%8C%E5%B1%B5%E6%9E%97%E6%A5%AD%E9%90%B5%E8%B7%AF)
+- [Đường sắt lâm nghiệp Alishan](https://zh.wikipedia.org/zh-tw/%E9%98%BF%E9%87%8C%E5%B1%B1%E6%9E%97%E6%A5%AD%E9%90%B5%E8%B7%AF)
 - [Mạng lưới du lịch rừng núi Đài Loan: "Đường sắt lâm nghiệp Alishan"](https://recreation.forest.gov.tw/Forestry/FR?typ_id=0900041)

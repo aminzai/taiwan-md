@@ -10,7 +10,7 @@ tags:
     'تعليم اللغة الأم',
     'الدراسات الفيتنامية',
   ]
-subcategory: 'الأكاديمية والتعليم'
+subcategory: '學術與教育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23
@@ -19,6 +19,7 @@ curation: 'incubating'
 translatedFrom: 'People/蔣為文.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:bbaa3ce760ab4f32'
+sourceBodyHash: 'sha256:161cfe479ea8068c'
 translatedAt: '2026-08-04T11:03:03.207652+00:00'
 ---
 

@@ -12,7 +12,7 @@ tags:
     peuples autochtones,
     gastronomie festive,
   ]
-subcategory: 'Gastronomie festive'
+subcategory: '節慶飲食'
 author: 'Taiwan.md'
 readingTime: 7
 featured: true

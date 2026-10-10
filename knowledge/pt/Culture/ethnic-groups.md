@@ -149,7 +149,7 @@ Esses números ainda estão em movimento.
 - [Diversidade linguística e cultura de língua materna](/pt/culture/linguistic-diversity-and-mother-tongue-culture) — Velocidade de perda e movimentos de revitalização do taiwanês, hakka e línguas indígenas
 - [História dos povos indígenas de Taiwan e movimento de retificação do nome](/pt/history/indigenous-peoples-history-and-naming-movement) — Dos "shanbao" aos "povos indígenas": dez anos de luta pela retificação
 - [Mapa cultural dos 16 povos indígenas de Taiwan](/pt/culture/indigenous-peoples-16-tribes-cultural-map) — Distribuição, línguas e características culturais dos 16 grupos
-- [Cultura e língua hakka](/culture/客家文化與語言) — História das migrações e preservação cultural do grupo hakka
+- [Cultura e língua hakka](/pt/culture/hakka-culture-and-language) — História das migrações e preservação cultural do grupo hakka
 - [Incidente 228](/pt/history/228-incident) — Ponto de partida histórico do conflito étnico do pós-guerra
 
 ## Referências

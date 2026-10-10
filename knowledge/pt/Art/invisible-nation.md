@@ -215,11 +215,11 @@ Naquela sessão de imprensa de junho de 2025, o chão tremeu antes de a tela ace
 ## Leitura complementar
 
 - [Tsai Ing-wen](/pt/people/tsai-ing-wen) — Protagonista filmada de perto por sete anos, primeira presidente mulher de Taiwan, de 800 mil votos de derrota a 8,17 milhões de reeleição
-- [Movimento Girassol](/society/太陽花學運) — Nó-chave do arco democrático no filme, 24 dias em 2014 que redefiniram a consciência política de uma geração
+- [Movimento Girassol](/pt/society/sunflower-movement) — Nó-chave do arco democrático no filme, 24 dias em 2014 que redefiniram a consciência política de uma geração
 - [Chi Cheng](/pt/people/chi-cheng-flying-antelope) — A "Gazela Saltadora" que no filme mostra a medalha de 1968 na Cidade do México e pergunta "Taipé Chinesa é nome de país?"
-- [Taipé Chinesa](/society/中華台北) — O mecanismo de nome olímpico por trás da "medalha que não pode dizer o próprio nome"
-- [Espectro unificação-independência de Taiwan](/society/台灣統獨光譜) — Coordenadas do espectro de soberania onde se situa a frase de Tsai Ing-wen "Taiwan já é um país independente"
-- [Puma Shen](/people/沈伯洋) — Versão real da aula de defesa civil do final: cofundador da Kuma Academy, deputado que ensina "como sobreviver" a civis
+- [Taipé Chinesa](/pt/society/chinese-taipei) — O mecanismo de nome olímpico por trás da "medalha que não pode dizer o próprio nome"
+- [Espectro unificação-independência de Taiwan](/pt/society/taiwan-unification-independence-spectrum) — Coordenadas do espectro de soberania onde se situa a frase de Tsai Ing-wen "Taiwan já é um país independente"
+- [Puma Shen](/pt/people/puma-shen) — Versão real da aula de defesa civil do final: cofundador da Kuma Academy, deputado que ensina "como sobreviver" a civis
 - [O Construtor de Montanhas: A Aposta do Século](/pt/art/mountain-makers-tsmc-documentary) — Outro documentário "valores de Taiwan" estreado no mesmo dia, conta a história dos semicondutores taiwaneses
 
 ## Créditos das imagens
@@ -275,7 +275,7 @@ Este artigo usa 5 imagens, todas em cache em `public/article-images/` para evita
 
 [^21]: [Washington Post — Após 38 Anos, Taiwan Levanta Lei Marcial](https://www.washingtonpost.com/archive/politics/1987/07/15/after-38-years-taiwan-lifts-martial-law/6ba420e6-f061-467a-9647-63858e4956b3/) — Lei marcial Taiwan 20-05-1949 vigente, 15-07-1987 Chiang Ching-kuo suspende, durou 38 anos
 
-[^22]: [Wikipedia — Incidente 28 de Fevereiro](https://en.wikipedia.org/wiki/February_28_incident) — Relatório Yuan Executivo 1992 estima mortes 18.000-28.000 (números controversos); ~140 mil presos no Terror Branco ver [Terror Branco (Taiwan)](<https://en.wikipedia.org/wiki/White_Terror_(Taiwan)
+[^22]: [Wikipedia — Incidente 28 de Fevereiro](https://en.wikipedia.org/wiki/February_28_incident) — Relatório Yuan Executivo 1992 estima mortes 18.000-28.000 (números controversos); ~140 mil presos no Terror Branco ver [Terror Branco (Taiwan)](<https://en.wikipedia.org/wiki/White_Terror_(Taiwan)>)
 
 [^23]: [Wikipedia — Eleição presidencial taiwanesa de 1996](https://en.wikipedia.org/wiki/1996_Taiwanese_presidential_election) — 23-03-1996 primeira eleição direta, Lee Teng-hui 54% eleito, período com disparo de mísseis do outro lado (terceira crise do Estreito)
 

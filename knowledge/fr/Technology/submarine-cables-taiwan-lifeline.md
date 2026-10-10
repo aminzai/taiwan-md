@@ -19,6 +19,15 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-29
 lastHumanReview: false
+sporeLinks:
+  - id: 55
+    platform: 'threads'
+    date: '2026-04-30'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXwm8KLk5QP'
+  - id: 56
+    platform: 'x'
+    date: '2026-04-30'
+    url: 'https://x.com/taiwandotmd/status/2049860918641893571'
 translatedFrom: Technology/海底電纜.md
 sourceCommitSha: '5ff155c1'
 sourceContentHash: 'sha256:a528d560e37c40b9'

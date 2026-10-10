@@ -196,7 +196,7 @@ function Inner() {
             <ul class="space-y-1">
               <For each={tasks}>
                 {(t) => (
-                  <li class="flex items-center gap-2 text-sm py-1.5 px-2 hover:bg-bg-raised rounded">
+                  <li class="flex items-center gap-2 text-sm py-1.5 px-2 hover:bg-bg-raised rounded-sm">
                     <span class="text-base">{typeEmoji(t.type)}</span>
                     <span class={`pill ${statusBadgeClass(t.status)}`}>
                       {t.status}

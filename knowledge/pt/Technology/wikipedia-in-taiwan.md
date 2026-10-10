@@ -12,7 +12,7 @@ tags:
     'indigenous languages',
     'legal litigation',
   ]
-subcategory: 'Tecnologia Cívica'
+subcategory: '公民科技'
 author: 'idlccp1984'
 featured: false
 lastVerified: 2026-04-29
@@ -21,6 +21,7 @@ readingTime: 35
 translatedFrom: 'Technology/維基百科.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:c2bbe42815071eb5'
+sourceBodyHash: 'sha256:d2c0d3b4dad31bc9'
 translatedAt: '2026-07-25T06:22:06.110426+00:00'
 ---
 

@@ -4,7 +4,7 @@ description: '2003년 허핑병원 봉쇄로 30명이 사망했다. 17년 후 �
 date: 2026-04-08
 category: 'Society'
 tags: ['공중보건', 'SARS', '코로나19', '방역', '전국민건강보험', '질병관리서']
-subcategory: '사회'
+subcategory: 'Society'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-08
@@ -87,7 +87,7 @@ SARS 이후 10년, 대만은 수치를 제도로 바꿨다.
 - [대만 의료와 전국 건강보험](/ko/lifestyle/taiwan-healthcare-and-national-health-insurance) — 방역 체계의 기반 시설: 2,340만 명의 건강보험 데이터베이스
 - [당숭](/ko/people/audrey-tang) — 마스크 지도 뒷면의 디지털 행정장관
 - [대만 재해 의료 체계](/ko/technology/taiwan-disaster-medicine-system) — 921에서 SARS까지, 재해가 의료를 어떻게 진화시켰는가
-- [대만 신종 코로나19 상황과 백신](/society/台灣新冠疫情與疫苗) — SARS 이후 세워진 제도가 2020~2023년에 완전 시험을 받았다: 국경 차단 18개월, 백신과 장기자녀의 3차 접종은 늦잡아 따라가지 못했다
+- [대만 신종 코로나19 상황과 백신](/ko/society/taiwan-covid-pandemic-and-vaccines) — SARS 이후 세워진 제도가 2020~2023년에 완전 시험을 받았다: 국경 차단 18개월, 백신과 장기자녀의 3차 접종은 늦잡아 따라가지 못했다
 - [재생 의료법 × mRNA 30년](/ko/society/taiwan-regenerative-medicine-laws) — 2021년 BNT 구매 + 세포 치료 입법의 이중 서사, 본문 코로나 방역의 확장적 시각
 
 ## 참고 자료

@@ -193,10 +193,10 @@ Antes de virar esta página, o leitor pode se perguntar uma coisa bem pequena �
 **Leitura adicional**:
 
 - [Li Poetry Society](/pt/art/li-poetry-society) — rede de sociedade poética nativista onde ingressou em 1965
-- [Incidente 228](/history/二二八事件) — estrutura traumática de toda a ilha onde se insere o caso Chang Chi-lang
+- [Incidente 228](/pt/history/228-incident) — estrutura traumática de toda a ilha onde se insere o caso Chang Chi-lang
 - [Terror branco em Taiwan](/pt/history/taiwan-white-terror) — fundo institucional da leitura política de "Peça de Paz"
 - [História da literatura de Taiwan](/pt/art/history-of-taiwanese-literature) — posição de longo prazo da geração translinguística e literatura em língua materna
-- [Mona Rudao](/people/莫那能) — outro caminho de "falar pelo grupo étnico em não-língua-máter/hanzi"
+- [Mona Rudao](/pt/people/monaneng) — outro caminho de "falar pelo grupo étnico em não-língua-máter/hanzi"
 - [Poesia moderna de Taiwan](/pt/art/taiwanese-modern-poetry) — mapa maior da ecologia de sociedades poéticas do pós-guerra
 
 ## Fontes das imagens

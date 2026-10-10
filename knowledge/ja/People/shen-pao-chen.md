@@ -4,7 +4,7 @@ description: '1874年牡丹社事件後、沈葆楨は福州船政の軍艦、�
 date: 2026-08-16
 category: 'People'
 subcategory: '歷史人物'
-tags: ['沈葆楨、福州船政、牡丹社事件、開山撫番、億載金城、清代台湾']
+tags: ['沈葆楨', '福州船政', '牡丹社事件', '開山撫番', '億載金城', '清代台湾']
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16

@@ -3,7 +3,7 @@ title: '台湾議会設置請願運動：一通の請願、14年間で自治を�
 description: '1921年から1934年にかけて、林獻堂らが15回の請願をもって総督府の植民地統治に挑んだ。運動は台湾議会の獲得には至らなかったが、法理・報刊・組織を台湾人が自治を求める公共の技術へと変えた。'
 date: 2026-08-20
 category: 'History'
-subcategory: '民主主義とガバナンス'
+subcategory: '民主與治理'
 tags:
   [
     '歴史',
@@ -23,6 +23,7 @@ readingTime: 15
 translatedFrom: 'History/臺灣議會設置請願運動.md'
 sourceCommitSha: '1625b24f7'
 sourceContentHash: 'sha256:ed19a67a28e57807'
+sourceBodyHash: 'sha256:3441000e1e1b1dde'
 translatedAt: '2026-09-14T17:32:53.709232+00:00'
 ---
 

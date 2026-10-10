@@ -11,7 +11,7 @@ tags:
     'phong trào ngoài Đảng',
     'thiết quân luật',
   ]
-subcategory: 'lịch sử hiện đại'
+subcategory: '現代歷史'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-31

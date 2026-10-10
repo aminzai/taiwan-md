@@ -14,7 +14,7 @@ tags:
     '기억 정치',
     '전환기 정의',
   ]
-subcategory: '역사적 인물'
+subcategory: '歷史人物'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-10
@@ -35,6 +35,7 @@ relatedDiary: ['2026-06-11-083358-莫那魯道']
 translatedFrom: 'People/莫那·魯道.md'
 sourceCommitSha: '9094012f4'
 sourceContentHash: 'sha256:eecabb61bafa58a4'
+sourceBodyHash: 'sha256:2e9a56655129cad4'
 translatedAt: '2026-09-08T16:31:22.355054+00:00'
 ---
 
@@ -287,7 +288,7 @@ _우서의 모나 루다오 동상과 항일 봉기 기념비. Photo: 쉬팡란(
 - 影片：[《賽德克．巴萊》戲院預告 HD](https://www.youtube.com/watch?v=vD_YrB2-C4c) — 果子電影（ARS Film）官方頻道。
 - 影片：[《餘生–賽德克．巴萊》預告](https://www.youtube.com/watch?v=OzBU5FePqJg) — 果子電影官方頻道，湯湘竹 2014 年紀錄片。
 
-## 參考資料
+## 참고 자료
 
 [^1]: [중앙은행 권폐 디지털 박물관: 신대만달러 20원 주화](https://museum.cbc.gov.tw/web/zh-tw/circulation/currency/62) — 중앙은행 공식 권폐 박물관 페이지로, 2001년 7월 발행된 20원 이색 유통 주화를 설명합니다. 앞면은 모나 루다오와 무사 항일 기념비, 뒷면은 다우족 판판주로, 대만 최초로 원주민을 주제로 한 유통 화폐입니다.
 

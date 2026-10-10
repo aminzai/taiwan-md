@@ -37,6 +37,7 @@ sporeLinks:
 translatedFrom: 'Society/我是OO人.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:d652cbdbef0c301b'
+sourceBodyHash: 'sha256:0b63d09474dfeccb'
 translatedAt: '2026-09-26T06:25:51.408604+00:00'
 ---
 

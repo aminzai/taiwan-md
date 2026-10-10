@@ -87,7 +87,7 @@ Warisan paling berharga yang dibangunkan ini untuk Taiwan, mungkin bukan pelabuh
 
 ## Bacaan Lanjutan
 
-- [Jalan Tol](/lifestyle/高速公路) — Jalan Tol Zhongshan hanyalah puncak Sepuluh Proyek Besar, artikel ini menggali dalam sejarah 50 tahun kekuasaan dan biaya yang terhubung dengan Jalan Jenderal MacArthur, Terowongan Xueshan, dan Jalan Tol Nasional Nomor 7.
+- [Jalan Tol](/id/lifestyle/national-highway-system) — Jalan Tol Zhongshan hanyalah puncak Sepuluh Proyek Besar, artikel ini menggali dalam sejarah 50 tahun kekuasaan dan biaya yang terhubung dengan Jalan Jenderal MacArthur, Terowongan Xueshan, dan Jalan Tol Nasional Nomor 7.
 
 ## Referensi
 

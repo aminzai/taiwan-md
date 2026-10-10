@@ -4,7 +4,7 @@ description: 'Após a Segunda Guerra Mundial, os militares americanos trouxeram 
 date: '2026-04-24'
 author: 'zaious'
 category: 'Food'
-subcategory: 'Comida local'
+subcategory: '地方美食'
 tags:
   [
     'Chiayi',

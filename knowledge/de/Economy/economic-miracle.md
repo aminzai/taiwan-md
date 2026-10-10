@@ -338,9 +338,9 @@ Die Autoren dieser Geschichte sind immer noch jeder Einzelne unter uns in Taiwan
 
 **Weiterführende Literatur**:
 
-- [Receipt: Das Papier, das 1951 alle Taiwanesen zu Steuerprüfern machte](/economy/發票) — Die einheitliche Rechnung war eine wichtige finanzielle Infrastruktur des Wirtschaftswunders, und die Umsatzsteuer stieg im ersten Jahr um 75%
+- [Receipt: Das Papier, das 1951 alle Taiwanesen zu Steuerprüfern machte](/de/economy/taiwan-uniform-invoice) — Die einheitliche Rechnung war eine wichtige finanzielle Infrastruktur des Wirtschaftswunders, und die Umsatzsteuer stieg im ersten Jahr um 75%
 - [Zehn große Projekte: Das riskante Investment von einer Milliarde US-Dollar Devisenreserven](/de/history/ten-major-construction-projects) — Der vollständige Kontext, die Debatten und die politischen Erzählungen der mutigen Investition der 1970er
-- [Politik über Parteigrenzen hinweg](/history/跨黨派的好政策) — Ist die Aussage „Landreform hat Taiwans Wirtschaftswunder angetrieben“ wirklich haltbar?
+- [Politik über Parteigrenzen hinweg](/de/history/bipartisan-good-policy) — Ist die Aussage „Landreform hat Taiwans Wirtschaftswunder angetrieben“ wirklich haltbar?
 
 ## Bildnachweise
 

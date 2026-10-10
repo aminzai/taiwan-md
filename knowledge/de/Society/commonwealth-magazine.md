@@ -36,6 +36,7 @@ relatedDiary: ['2026-06-04-151548-天下雜誌']
 translatedFrom: 'Society/天下雜誌.md'
 sourceCommitSha: 'd317f1649'
 sourceContentHash: 'sha256:d8c6b002cc3ec35d'
+sourceBodyHash: 'sha256:a2fb34529fea33ac'
 translatedAt: '2026-09-24T16:03:22.988617+00:00'
 ---
 
@@ -190,10 +191,10 @@ Als Yin Yunpeng in einem geliehenen rostroten Jeansrock bei Ts'ai Eileen intervi
 
 **Weiterführende Lektüre**:
 
-- [Reporter](/society/報導者) — Ein taiwanesisches Medium mit ähnlicher Tiefe wie Tianxia, das jedoch einen gegenteiligen Weg geht: gemeinnützig, werbefrei und finanziert durch Spenden von Fremden; der direkteste Kontrast zum Paywall-System und dem Unternehmensökosystem von Tianxia.
+- [Reporter](/de/society/the-reporter-investigative-journalism) — Ein taiwanesisches Medium mit ähnlicher Tiefe wie Tianxia, das jedoch einen gegenteiligen Weg geht: gemeinnützig, werbefrei und finanziert durch Spenden von Fremden; der direkteste Kontrast zum Paywall-System und dem Unternehmensökosystem von Tianxia.
 - [General Science](/de/society/pansci) — Ein neues taiwanesisches Medium, das in den 2010er Jahren entstand und ein anderes Geschäftsmodell nutzt: Wissenschaftskommunikation und Wissensdienstleistung zur Aufrechterhaltung des öffentlichen Diskursraums.
-- [PSBC](/society/公視) — Ein anderer Weg für die öffentliche Medien Taiwans, der dieselbe schwierige Frage „Wem soll das Medium Rechenschaft ablegen?“ mit öffentlichem Budget anstatt Marktmechanismen behandelt.
-- [Taiwan Media and Press Freedom](/society/台灣媒體與新聞自由) — Die Entzugskontroverse von Tianxia, die Glaubwürdigkeitsranglisten und der Informationskrieg der VR China sind alle in den Kontext der allgemeinen Pressefreiheit Taiwans eingebettet.
+- [PSBC](/de/society/pts-public-television-service) — Ein anderer Weg für die öffentliche Medien Taiwans, der dieselbe schwierige Frage „Wem soll das Medium Rechenschaft ablegen?“ mit öffentlichem Budget anstatt Marktmechanismen behandelt.
+- [Taiwan Media and Press Freedom](/de/society/media-and-press-freedom-in-taiwan) — Die Entzugskontroverse von Tianxia, die Glaubwürdigkeitsranglisten und der Informationskrieg der VR China sind alle in den Kontext der allgemeinen Pressefreiheit Taiwans eingebettet.
 - [Top 50 Companies of Taiwan](/de/economy/top-50-companies-taiwan) — Die Unternehmen, die durch die Ranglisten „Tausend Große“ und „Top 50 Gruppen“ von Tianxia definiert werden, sind die Hauptakteure hinter dieser Liste.
 - [Taiwanese Corporations: TSMC](/de/economy/tsmc) — Das Unternehmen, das jahrelang in den Spitzenpositionen der Tianxia-Ranglisten und der Top 50 Gruppen auftauchte, ist auch einer der wichtigsten Sponsoren ihres Bildungsfonds.
 

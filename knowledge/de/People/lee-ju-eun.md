@@ -3,7 +3,16 @@ title: 'Lee Ju-eun'
 description: 'Vom Hype der „AI-Göttin“ zur vollen Entwicklung in Taiwan: Ihr Weg hat die Vorstellung davon, wie koreanische Cheerleaderinnen in der CPBL bleiben können, neu geschrieben.'
 date: 2026-05-13
 category: 'People'
-tags: ['Popkultur-Persönlichkeit', 'Lee Ju-eun', 'Korea', 'Cheerleading', 'Fubon Guardians', 'Fubon Angels', 'CPBL']
+tags:
+  [
+    'Popkultur-Persönlichkeit',
+    'Lee Ju-eun',
+    'Korea',
+    'Cheerleading',
+    'Fubon Guardians',
+    'Fubon Angels',
+    'CPBL',
+  ]
 subcategory: '流行人物'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -14,6 +23,7 @@ curation: incubating
 translatedFrom: 'People/李珠珢.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:c5807ce29d9cf2f7'
+sourceBodyHash: 'sha256:4b9c8f80e4d299c5'
 translatedAt: '2026-08-13T03:00:00+08:00'
 ---
 

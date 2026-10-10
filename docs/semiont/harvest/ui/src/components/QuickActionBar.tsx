@@ -201,7 +201,7 @@ function Inner() {
     <div class="space-y-3">
       <Show when={flash()}>
         <div
-          class={`text-xs rounded px-3 py-2 ${
+          class={`text-xs rounded-sm px-3 py-2 ${
             flash()!.type === 'ok'
               ? 'bg-accent-green/15 text-accent-green-soft border border-accent-green/40'
               : 'bg-accent-red/15 text-accent-red border border-accent-red/40'
@@ -275,7 +275,7 @@ function Inner() {
                     {(b) =>
                       p.lockModel ? (
                         <span
-                          class={`text-[10px] px-1 py-px rounded border leading-tight ${modelBadgeClass(b().tone)}`}
+                          class={`text-[10px] px-1 py-px rounded-sm border leading-tight ${modelBadgeClass(b().tone)}`}
                           title={`${b().full} — locked by strict pipeline contract`}
                         >
                           🔒{b().label}
@@ -283,7 +283,7 @@ function Inner() {
                       ) : (
                         <button
                           type="button"
-                          class={`text-[10px] px-1 py-px rounded border leading-tight cursor-pointer hover:opacity-80 ${modelBadgeClass(b().tone)}`}
+                          class={`text-[10px] px-1 py-px rounded-sm border leading-tight cursor-pointer hover:opacity-80 ${modelBadgeClass(b().tone)}`}
                           title={`${b().full} — click to change model`}
                           onClick={(e) => {
                             e.stopPropagation();

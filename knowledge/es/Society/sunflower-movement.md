@@ -199,7 +199,7 @@ Aquellos treinta segundos, Zhang Qingzhong probablemente no imaginó que no esta
 
 [^15]: [關鍵評論網：立院三讀「兩岸協議」門檻比照修憲等級](https://www.thenewslens.com/article/120099) — Explicación del umbral constitucional para la enmienda del Reglamento de Relaciones a ambos lados del estrecho.
 
-[^16]: [Yahoo 新聞：台灣對中國的出口依存度降至 31.5%](https://tw.news.yahoo.com/%E5%8F%B0%E7%81%A3%E5%AF%B9%E4%B8%AD%E5%9C%8B%E7%9A%84%E5%87%BA%E5%8F%A3%E4%BE%9D%E5%AD%98%E5%BA%A6%E9%99%8D%E8%87%B331-5-%E5%87%BA%E5%8F%A3%E9%99%84%E5%8A%A0%E5%83%B9%E5%80%BC%E5%89%B5%E5%8D%81%E5%B9%B4%E6%96%B0%E9%AB%98-072951768.html) — Datos de comercio 2025, caída de la dependencia de exportaciones a China.
+[^16]: [Yahoo 新聞：台灣對中國的出口依存度降至 31.5%](https://tw.news.yahoo.com/%E5%8F%B0%E7%81%A3%E5%B0%8D%E4%B8%AD%E5%9C%8B%E7%9A%84%E5%87%BA%E5%8F%A3%E4%BE%9D%E5%AD%98%E5%BA%A6%E9%99%8D%E8%87%B331-5-%E5%87%BA%E5%8F%A3%E9%99%84%E5%8A%A0%E5%83%B9%E5%80%BC%E5%89%B521%E5%B9%B4%E6%96%B0%E9%AB%98-072951768.html) — Datos de comercio 2025, caída de la dependencia de exportaciones a China.
 
 [^17]: [自由時報：外媒指中國自敗 台灣對中貿易依存驚人下降](https://ec.ltn.com.tw/article/breakingnews/4602029) — Análisis internacional del descenso de la dependencia comercial con China y aumento con EE. UU.
 

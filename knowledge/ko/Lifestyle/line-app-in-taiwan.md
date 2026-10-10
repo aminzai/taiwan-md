@@ -110,10 +110,10 @@ LINE의 대만에서의 야망은 이미 통신의 영역을 넘어섰다. LINE 
 
 [^16]: [LINE Premium 台灣正式上線！每月 165 元值得嗎？10 大功能一次看 — Cheers 快樂工作人](https://www.cheers.com.tw/article/article.action?id=5105462) — LINE Premium 대만 출시의 기능 및 가격 설명.
 
-[^17]: [LINE 付費版 10 大功能已上線　每月 165 元值不值？網友掀兩派論戰 — Yahoo 股市](https://tw.stock.yahoo.com/news/line%E4%BB%98%E8%B2%BB%E7%89%8810%E5%A4%A7%E5%8A%9F%E8%83%BD%E5%B7%B2%E4%B8%8A%E7%B7%9A-%E6%AF%8F%E6%9C%88165%E5%85%83%E5%80%BC%E4%B8%8D%E5%80%BC%EF%BC%9F%E7%B6%B2%E5%8F%8B%E6%8E%89%E6%8B%89%E5%85%A8%E6%B4%BE%E8%AB%96%E6%88%B0-090857434.html) — 사용자들의 LINE Premium 가치에 대한 양극화된 논쟁.
+[^17]: [LINE 付費版 10 大功能已上線　每月 165 元值不值？網友掀兩派論戰 — Yahoo 股市](https://tw.stock.yahoo.com/news/line%E4%BB%98%E8%B2%BB%E7%89%8810%E5%A4%A7%E5%8A%9F%E8%83%BD%E5%B7%B2%E4%B8%8A%E7%B7%9A-%E6%AF%8F%E6%9C%88165%E5%85%83%E5%80%BC%E4%B8%8D%E5%80%BC%EF%BC%9F%E7%B6%B2%E5%8F%8B%E6%8E%89%E6%8B%89%E5%85%A9%E6%B4%BE%E8%AB%96%E6%88%B0-090857434.html) — 사용자들의 LINE Premium 가치에 대한 양극화된 논쟁.
 
 [^18]: [數位遺產法的制度挑戰：台灣隱私權、繼承權與法制建構 — 新國會](https://newcongress.tw/?p=36294) — 디지털 유산의 법적 회색 지대에 대한 정책 분석.
 
-[^19]: [數位遺產全攻略：親人過世後手機號碼如何處理？LINE 帳號繼承？ — 一星網](https://onestar.com.tw/%E6%95%B8%E4%BD%8D%E9%81%BA%E7%94%A2%E5%85%A8%E6%94%BB%E7%95%A5%EF%BC%9A%E8%A6%AA%E4%BA%BA%E9%81%8E%E4%B8%96%E5%BE%8C%E6%89%8B%E6%A9%9F%E8%99%9F%E7%A2%BC%E5%A6%82%E4%BD%8D%E8%99%95%E7%90%86%EF%BC%9Fli/) — 전화번호 해지와 LINE 계정 상속에 대한 실무 안내.
+[^19]: [數位遺產全攻略：親人過世後手機號碼如何處理？LINE 帳號繼承？ — 一星網](https://onestar.com.tw/%E6%95%B8%E4%BD%8D%E9%81%BA%E7%94%A2%E5%85%A8%E6%94%BB%E7%95%A5%EF%BC%9A%E8%A6%AA%E4%BA%BA%E9%81%8E%E4%B8%96%E5%BE%8C%E6%89%8B%E6%A9%9F%E8%99%9F%E7%A2%BC%E5%A6%82%E4%BD%95%E8%99%95%E7%90%86%EF%BC%9Fli/) — 전화번호 해지와 LINE 계정 상속에 대한 실무 안내.
 
 [^20]: [其實我們會在 LINE Voom 上面發最新資訊但是流量超級不好 — Threads](https://www.threads.com/@titlist.co/post/DUHekY4km-O/) — 창작자의 LINE VOOM 트래픽 성과에 대한 현장 관찰.

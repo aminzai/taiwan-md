@@ -13,7 +13,7 @@ tags:
     Kaohsiung Incident,
     Shih Ming-teh,
   ]
-subcategory: 'Politics & Democracy'
+subcategory: '政治與民主'
 category: 'People'
 author: 'Taiwan.md'
 featured: false

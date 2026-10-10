@@ -18,7 +18,7 @@ tags:
     'Taiwan Seexi',
     'Shuo Tao',
   ]
-subcategory: 'Architekturtechnologie'
+subcategory: '建築科技'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-22
@@ -32,6 +32,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:FreeCAD_1.0_Dark_BIM_Examp
 translatedFrom: 'Technology/台灣BIM與營建科技.md'
 sourceCommitSha: 'b67b190fb'
 sourceContentHash: 'sha256:f8b3c2310e7fb840'
+sourceBodyHash: 'sha256:c4a7f62bbc68876d'
 translatedAt: '2026-09-08T02:03:07.830819+00:00'
 ---
 
@@ -84,7 +85,7 @@ Im Jahr 2011 wurde die **Wan-Dai-Linie der Taipei Metro zum ersten Mal in einen 
 
 Dies ist das häufig zitierte „erste“ Ereignis bei der Förderung von BIM in Taiwan. Bei den verschiedenen Abschnitten der Wan-Dai-Linie wurde der Bau des U-Bahn-Stationskörpers nach dem BIM-Modell gemäß den Vertragsanforderungen durchgeführt und gleichzeitig wurden Architektur-, Struktur- und Elektro-/Messeinrichtungen integriert, was eine **Reduzierung von Schnittstellenkonflikten**[^14] zwischen verschiedenen Fachdisziplinen ermöglichte.
 
-Folgend der Wan-Dai-Linie folgten immer mehr öffentliche Bauprojekte. Die Hochbahnhöhe des Taipei Metro Ring (Y19), verschiedene Sportzentren in New Taipei, der neue Bahnhof Miaoli [Taiwan High Speed Rail](/lifestyle/台灣高鐵/) und das Terminal 3 vom Flughafen Taoyuan [Taoyuan Airport](/lifestyle/桃園機場/), die leichte Bahn von Kaohsiung: Jedes Projekt hat eine Fallstudie in ABRI, NTUBIM oder den internen Zeitschriften der U-Bahnbehörde.
+Folgend der Wan-Dai-Linie folgten immer mehr öffentliche Bauprojekte. Die Hochbahnhöhe des Taipei Metro Ring (Y19), verschiedene Sportzentren in New Taipei, der neue Bahnhof Miaoli [Taiwan High Speed Rail](/de/lifestyle/taiwan-high-speed-rail/) und das Terminal 3 vom Flughafen Taoyuan [Taoyuan Airport](/de/lifestyle/taoyuan-airport/), die leichte Bahn von Kaohsiung: Jedes Projekt hat eine Fallstudie in ABRI, NTUBIM oder den internen Zeitschriften der U-Bahnbehörde.
 
 Der am häufigsten zitierte „**numerische Sieg**“ ist der Bahnhof Miaoli der Taiwan High Speed Rail: Drei Monate vor Baubeginn wurde BIM eingeführt, und das Bauüberwachungsteam entdeckte Konfliktpunkte in 3D-Modellen, wodurch **20 % der Kosten für nachfolgende Designänderungen eingespart wurden und die Baustelle zwei Monate früher als geplant beginnen konnte**[^15].
 
@@ -249,10 +250,10 @@ Als Shi Tao am Dezember 2025 `REVIT_MCP_study` auf GitHub hochlud[^48], waren ge
 
 **Weiterführende Lektüre**:
 
-- [Architektur in Taiwan](/art/台灣建築) — Die kulturelle Erzählung von Steinhäusern bis Wolkenkratzern; dieser Artikel ist das Geschwisterstück seiner digitalen Ingenieursebene.
-- [Sozialwohnungen und Wohngerechtigkeit](/society/社會住宅與居住正義) — Die Anwendung von BIM im Betrieb von Sozialwohnungen ist ein Schwerpunktprojekt des Ministeriums für Innere Angelegenheiten in jüngster Zeit.
-- [Taiwanische Unternehmen: TSMC](/economy/台灣企業：台積電) — Der Einsatz von BIM in den Fabriken von TSMC ist das Hauptpraktikfeld von Baufirmen wie Tachen und Huzu.
-- [KI-Entwicklung in Taiwan](/technology/AI發展) — Anthropic MCP und der integrierte MCP in Revit 2027 sind konkrete Fälle von KI × Industrie.
+- [Architektur in Taiwan](/de/art/taiwanese-architecture) — Die kulturelle Erzählung von Steinhäusern bis Wolkenkratzern; dieser Artikel ist das Geschwisterstück seiner digitalen Ingenieursebene.
+- [Sozialwohnungen und Wohngerechtigkeit](/de/society/social-housing-and-housing-justice) — Die Anwendung von BIM im Betrieb von Sozialwohnungen ist ein Schwerpunktprojekt des Ministeriums für Innere Angelegenheiten in jüngster Zeit.
+- [Taiwanische Unternehmen: TSMC](/de/economy/tsmc) — Der Einsatz von BIM in den Fabriken von TSMC ist das Hauptpraktikfeld von Baufirmen wie Tachen und Huzu.
+- [KI-Entwicklung in Taiwan](/de/technology/ai-development-in-taiwan) — Anthropic MCP und der integrierte MCP in Revit 2027 sind konkrete Fälle von KI × Industrie.
 - [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Die Gesamtbewältigung des Fabrikprojekts + Smart Building mit BIM bildet die technische Grundlage für die Expansion der Halbleitercluster.
 
 ## Bildquellen

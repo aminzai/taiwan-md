@@ -109,7 +109,7 @@ translatedAt: '2026-09-18T00:53:01+08:00'
 
 - [타이완 기업: TSMC](/ko/economy/tsmc)
 - [반도체 산업](/ko/technology/taiwan-semiconductor-industry) — 1973년 RCA 기술 이전부터 2나노 양산까지의 전체 반도체 생태계에서 미디어텍은 IC 설계 측면을 대표한다.
-- [타이완 테크놀로지 스토리: 100점짜리 칩, 60점짜리 마이크](/technology/台灣科技說故事) — 출하량 세계 1위인 미디어텍이 왜 브랜드 서사에서 퀄컴을 따라잡지 못하는가.
+- [타이완 테크놀로지 스토리: 100점짜리 칩, 60점짜리 마이크](/ko/technology/taiwan-tech-storytelling) — 출하량 세계 1위인 미디어텍이 왜 브랜드 서사에서 퀄컴을 따라잡지 못하는가.
 
 ---
 

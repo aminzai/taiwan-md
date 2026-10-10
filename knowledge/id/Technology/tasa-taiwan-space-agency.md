@@ -274,7 +274,7 @@ Zeppelin melihat Taiwan dari helikopter; ia gagal menyelesaikannya saat kecelaka
 
 - [Perkembangan Industri Antariksa Taiwan](/id/technology/taiwan-space-industry-development) — Artikel ini membahas bagaimana institusi tersebut berkembang, sedangkan artikel itu membahas rantai pasokan di belakangnya: perusahaan mana yang membuat komponen satelit, bagaimana semikonduktor masuk ke antariksa, dan bagaimana ekosistem _startup_ terbentuk.
 - [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Basis industri dari "kemandirian" antariksa Taiwan; sebagian besar dibangun di atas kemampuan manufaktur presisi dan semikonduktor yang sudah ada di pulau ini.
-- [Taipei Tionghoa](/society/中華台北) — Garis kedaulatan dalam upaya "mengembalikan Taiwan ke dalam nama".
+- [Taipei Tionghoa](/id/society/chinese-taipei) — Garis kedaulatan dalam upaya "mengembalikan Taiwan ke dalam nama".
 - [Lin Chi-er](/id/people/lin-chi-er-astronaut) — Profil tokoh lain yang bekerja untuk Taiwan di bidang sains.
 
 ## Sumber Video

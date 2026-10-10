@@ -29,6 +29,7 @@ imageNote: '原 Wikimedia 圖檔已從 Commons 下架（404 Not Found），卡�
 translatedFrom: 'Geography/嘉義縣.md'
 sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:92677747f5c5aca7'
+sourceBodyHash: 'sha256:a01c05f219edf7a3'
 translatedAt: '2026-09-22T15:37:41.542322+00:00'
 ---
 
@@ -88,7 +89,7 @@ Struktur sosial tradisional suku Tsou berpusat pada "hosa" (desa besar). Dokumen
 Dalam tiga ritual besar suku Tsou, Mayasvi (ritual perang) menempati posisi tertinggi, diadakan di Kuba, untuk memohon kekuatan perang kepada dewa perang. Ritual perang Tabangu diadakan sekitar Agustus hingga Oktober, sementara Tfuya diadakan sekitar Januari hingga Maret; kedua desa ini tidak sinkron dan telah ditetapkan sebagai kebudayaan penting oleh negara[^11].
 
 ![Fotografer Torii merekam wanita pembuat tembikar di Desa Tabangu pada tahun 1900. Torii melakukan survei berkali-kali terhadap suku asli Taiwan antara tahun 1896–1900, meninggalkan rekaman visual tertua dari suku Tsou Alishan. Catatan Jepang asli: "Wanita Pembuat Tembikar (Desa Tabangu)".](https://upload.wikimedia.org/wikipedia/commons/4/4f/Tsou%2C_Alishan%2C_Taiwan_1900_%28No.7425%29.jpg)
-_Foto: Torii Ryuzan, Desa Tabangu, 1900. Foto: Torii Ryuzan (1870-1953), [Domain Publik melalui Wikimedia](<https://commons.wikimedia.org/wiki/File:Tsou,_Alishan,_Taiwan_1900_(No.7425).jpg>).\_
+_Foto: Torii Ryuzan, Desa Tabangu, 1900. Foto: Torii Ryuzan (1870-1953), [Domain Publik melalui Wikimedia](https://commons.wikimedia.org/wiki/File:Tsou,_Alishan,_Taiwan_1900_(No.7425).\_
 
 Yang membawa suku Tsou memasuki sejarah modern Taiwan adalah nama Gao Yisheng.
 
@@ -218,7 +219,7 @@ Koordinat sejarah skala yang lebih besar:
 - [Insiden 228](/id/history/228-incident) — Tragedi politik di seluruh Taiwan pada tahun 1947, babak bantuan suku Tzou turun gunung untuk menjaga ketertiban adalah bagian yang paling sedikit dibicarakan
 - [Teror Putih Taiwan](/id/history/taiwan-white-terror) — Lokasi Uongu Yatauyungana dan Tzou Tang Shouren di tempat eksekusi Ankeng, Xindian pada tahun 1954
 - [Sejarah Kereta Api Taiwan](/id/history/taiwan-railway-history) — Posisi khusus kereta api hutan Alishan dalam perkembangan perkeretaapian Taiwan
-- [Kota Chiayi](/geography/嘉義市) — Kota prefektur yang sepenuhnya dikelilingi oleh Kabupaten Chiayi, cerminan dari pemisahan administratif selama 76 tahun
+- [Kota Chiayi](/id/geography/chiayi-city) — Kota prefektur yang sepenuhnya dikelilingi oleh Kabupaten Chiayi, cerminan dari pemisahan administratif selama 76 tahun
 - [Kota Keelung](/id/geography/keelung-city) — Artikel pertama dalam seri 22 kota dan kabupaten, kota prefektur lain yang "tertekan oleh kerangka ibu kota", membandingkan dua garis patahan yang berbeda
 
 ## Sumber Gambar

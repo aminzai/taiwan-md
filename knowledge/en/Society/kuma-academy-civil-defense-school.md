@@ -4,7 +4,7 @@ description: "In 2021, five volunteers talked for five hours in a cafe and decid
 date: 2026-06-21
 author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: "'公民社會'"
+subcategory: '公民社會'
 tags:
   [
     'civil defense',

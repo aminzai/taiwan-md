@@ -4,7 +4,7 @@ description: '왜 외국인들은 질겁을 하는데, 대만인들은 라면이
 date: 2026-04-17
 author: 'Taiwan.md'
 category: 'Society'
-subcategory: '사회 회복력'
+subcategory: '社會韌性'
 tags: ['문화', '일상', '역사', '재난 기억', '지우 전설']
 readingTime: 6
 lastVerified: 2026-04-17
@@ -103,6 +103,6 @@ featured: false
 
 [^18]: [끝난 후의 시작──0403 강진으로 삶이 바뀐 화롄 사람들](https://www.twreporter.org/topics/taiwan-0403earthquake-hualien) — 리포터, 0403 지진 이후 화롄 주민들의 생활 변화를 보도.
 
-[^19]: [고인은 어떻게 지진을 기록했을까?－역사 속의 대만·일본 지진 특별전](https://pansci.asia/archives/154848) — 팬사이 과학대중, 청나라 시대와 일제 강점기의 지진 기록을 소개.
+[^19]: [고인은 어떻게 지진을 기록했을까?－역사 속의 대만·일본 지진 특별전](https://pansci.asia/archives/154948) — 팬사이 과학대중, 청나라 시대와 일제 강점기의 지진 기록을 소개.
 
 [^20]: [【재변 시리즈】-불안한 대지(상)｜대만 역사 지진 재해](https://ourisland.pts.org.tw/content/1975) — 우리의 섬, 대만 역사상 주요 지진 재해를 회고.

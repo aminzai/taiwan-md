@@ -80,7 +80,7 @@ En sus diez años en Taiwán, Shopee ha transformado radicalmente el ritmo de co
 - [Ecosistema de comercio electrónico y pagos digitales](/es/technology/e-commerce-and-digital-payment-ecosystem) — Cómo es el mapa de pagos donde opera ShopeePay.
 - [Hi-Life](/es/economy/hilife-convenience-store) — La cadena tradicional superada por los puntos de recogida; cómo gestiona su propia estrategia de recogida.
 - [Cultura de tiendas de conveniencia en Taiwán](/es/lifestyle/convenience-store-culture) — Por qué las tiendas de conveniencia se han convertido en la infraestructura pública de Taiwán.
-- [Sistema de aduanas de Taiwán y EZWAY](/lifestyle/台灣海關報關制度與EZWAY) — El control que deben superar los paquetes transfronterizos antes de entrar.
+- [Sistema de aduanas de Taiwán y EZWAY](/es/lifestyle/ezway) — El control que deben superar los paquetes transfronterizos antes de entrar.
 
 ## Referencias
 

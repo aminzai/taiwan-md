@@ -101,8 +101,8 @@ Erst wenn beide Achsen zusammenkommen, ergibt sich das vollständige Bild des ta
 ## Weiterführende Lektüre
 
 - [Manga in Taiwan](/de/art/taiwanese-comics-and-illustration) – Die Schöpfungsseite: Die komplette Genealogie von Cheng Wen, Tsai Chih-chung, Liu Xingqin, Ao Youxiang und CCC Creations
-- [Geschichte der Netzgemeinschaften in Taiwan](/technology/台灣網路社群遷徙史) – Die Migrationsachse der Anime-Fans auf BBS, Anonymous Boards, Facebook und Discord
-- [Threads in Taiwan](/technology/Threads在台灣) – Das Muster der Zusammenkunft von zweidimensionalen Gemeinschaften auf neuen Plattformen
+- [Geschichte der Netzgemeinschaften in Taiwan](/de/technology/taiwan-online-community-migration) – Die Migrationsachse der Anime-Fans auf BBS, Anonymous Boards, Facebook und Discord
+- [Threads in Taiwan](/de/technology/threads-in-taiwan) – Das Muster der Zusammenkunft von zweidimensionalen Gemeinschaften auf neuen Plattformen
 
 ## Referenzen
 

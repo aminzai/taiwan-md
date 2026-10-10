@@ -4,7 +4,7 @@ description: 'पत्थर के छत वाले घरों से ल
 date: 2026-03-28
 author: 'Taiwan.md'
 category: 'Art'
-subcategory: 'वास्तुकला'
+subcategory: '建築'
 tags: ['वास्तुकला', 'संस्कृति', 'इतिहास', 'आदिवासी', 'जापानी शासन काल']
 lastVerified: 2026-03-28
 lastHumanReview: true

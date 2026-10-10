@@ -21,7 +21,7 @@ tags:
     'Nayawa',
     'Vavayan',
   ]
-subcategory: 'Musik und Performance'
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-18
@@ -31,6 +31,7 @@ readingTime: 18
 translatedFrom: 'People/阿爆.md'
 sourceCommitSha: 'ac1d187af'
 sourceContentHash: 'sha256:3152a96aee84899e'
+sourceBodyHash: 'sha256:97980c1ca1d62fad'
 translatedAt: '2026-09-11T22:49:06.656601+00:00'
 ---
 
@@ -195,11 +196,11 @@ Für sie selbst so, für die nächste Generation ureinwohnerischer Musiker so, f
 
 **Weiterführende Literatur**:
 
-- [Wei Ru-xuan](/people/魏如萱) — Ein weiterer Pfad der gleichen Generation im chinesischsprachigen Pop, „nicht-standardisierte Stimmen hörbar zu machen“ (Wei Ru-xuans „Baby-Stimme“ × Abaos indigener Electro-Pop: zwei Sprachen der Erweiterung von Stimmgrenzen)
-- [Chen Chien-chi](/people/陳建騏) — Gegenüberstellung der Identität des „abwesenden Autors“ im chinesischsprachigen Pop-Produzenten (Chen Chien-chi definiert die Stimmgrenzen des Mainstreams, Abao gestalten indigenen Future Pop)
+- [Wei Ru-xuan](/de/people/waa-wei-singer) — Ein weiterer Pfad der gleichen Generation im chinesischsprachigen Pop, „nicht-standardisierte Stimmen hörbar zu machen“ (Wei Ru-xuans „Baby-Stimme“ × Abaos indigener Electro-Pop: zwei Sprachen der Erweiterung von Stimmgrenzen)
+- [Chen Chien-chi](/de/people/chen-chien-chi-music-producer) — Gegenüberstellung der Identität des „abwesenden Autors“ im chinesischsprachigen Pop-Produzenten (Chen Chien-chi definiert die Stimmgrenzen des Mainstreams, Abao gestalten indigenen Future Pop)
 - [Chou Tzu-yu](/de/people/tzuyu) — Das andere Ende der Identitätsstrategien taiwanesischer Musikerinnen derselben Generation (Chou Tzu-yu: K-pop-Industrialisierung vs. Abao: ethnische Identität × lokale Produktion)
-- [Golden Melody Awards](/music/金曲獎) — Die strukturelle Bedeutung, dass 2020 der Golden Melody Award für das Album des Jahres (31. Verleihung) erstmals an ein Werk in einer indigenen Sprache ging
-- [Taiwans Popmusik](/music/台灣流行音樂) — Die Wasserscheide 2020, an der indigene Musik von der Sidebar auf die Main Stage rückte
+- [Golden Melody Awards](/de/music/pop-music-and-golden-melody-awards) — Die strukturelle Bedeutung, dass 2020 der Golden Melody Award für das Album des Jahres (31. Verleihung) erstmals an ein Werk in einer indigenen Sprache ging
+- [Taiwans Popmusik](/de/music/golden-melodies-legacy-taiwan-pop-music) — Die Wasserscheide 2020, an der indigene Musik von der Sidebar auf die Main Stage rückte
 - [Kulturkarte der 16 indigenen Völker Taiwans](/de/culture/indigenous-peoples-16-tribes-cultural-map) — Das zeitgenössische Bild der Paiwan-Sprache, -Dörfer und -Kunstformen
 - [Sprachpolitik der indigenen Völker](/society/原住民族語言政策) — Der politische Kontext der Revitalisierung indigener Sprachen und seine Ergänzung durch Abaos musikalische Praxis
 - [Huang Shao-yong](/de/people/huang-shao-yong-musician) — Ko-Produzent von 《kinakaian 母親的舌頭》; der von beiden geleitete Kurs „MINETJUS – Entschlüsselung der Electro-Produktion“ für indigenen Electro erreicht mittlerweile die 5. Auflage

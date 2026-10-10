@@ -23,6 +23,7 @@ featured: false
 translatedFrom: 'Geography/中華民國美學.md'
 sourceCommitSha: 'ba877ac2b'
 sourceContentHash: 'sha256:533282f9f1196f7a'
+sourceBodyHash: 'sha256:26c6e79fd91efe41'
 translatedAt: '2026-09-26T12:25:38.932671+00:00'
 ---
 

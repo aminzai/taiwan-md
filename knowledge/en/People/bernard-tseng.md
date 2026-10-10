@@ -13,7 +13,7 @@ tags:
     'Freedom of Speech',
     'Entertainment Tax',
   ]
-subcategory: 'Digital & Media'
+subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13
@@ -22,6 +22,7 @@ readingTime: 22
 translatedFrom: 'People/曾博恩.md'
 sourceCommitSha: '4f72f613c'
 sourceContentHash: 'sha256:8cc10fd808c3a1ae'
+sourceBodyHash: 'sha256:5b25bf3684001b40'
 translatedAt: '2026-09-18T10:12:15.475936+00:00'
 ---
 

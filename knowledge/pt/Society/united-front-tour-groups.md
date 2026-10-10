@@ -118,7 +118,7 @@ E a incerteza, talvez, seja justamente o produto final deste jogo cognitivo.
 - [Falun Gong em Taiwan](/pt/society/falun-gong-in-taiwan) — Do relógio de flores do Monte Yangming ao Taipei 101, o mesmo espelho de comparação cross-strait, como a liberdade religiosa se tornou pedra de toque dos valores democráticos de Taiwan.
 - [Potter King](/pt/people/potter-king-youtuber) — O primeiro criador em Taiwan a expor publicamente em plataforma aberta os detalhes do convite de frente unida a influenciadores, o desenrolar do caso de revelação.
 - [Pa Chiung](/pt/people/pa-chiung-political-youtuber) — Do documentário sobre frente unida a organizador do comício na Avenida Ketagalan, as tentativas de contramedida da sociedade civil taiwanesa contra operações cognitivas.
-- [Operação cognitiva da batata venenosa](/society/毒馬鈴薯認知作戰) — Como uma fake news de 2022 sobre batatas de Taiwan se tornou um caso típico para observar a guerra de informação cross-strait.
+- [Operação cognitiva da batata venenosa](/pt/society/poisoned-potato-cognitive-warfare-taiwan) — Como uma fake news de 2022 sobre batatas de Taiwan se tornou um caso típico para observar a guerra de informação cross-strait.
 
 ## Referências
 

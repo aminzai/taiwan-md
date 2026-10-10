@@ -4,7 +4,7 @@ description: '1996年、19歳のファン・シャオシュアンは一曲『健
 date: 2026-04-20
 category: 'People'
 tags: ['音楽', 'シンガーソングライター', '金曲奨', '100%バンド', '華語ポップス']
-subcategory: '音楽家'
+subcategory: '音樂人'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-20
@@ -13,6 +13,7 @@ researchReport: 'reports/research/2026-04/范曉萱.md'
 translatedFrom: 'People/范曉萱.md'
 sourceCommitSha: 'b67b190fb'
 sourceContentHash: 'sha256:e292cad27370cab5'
+sourceBodyHash: 'sha256:7cceb716a616fa6b'
 translatedAt: '2026-09-12T11:40:15.410557+00:00'
 ---
 
@@ -112,7 +113,7 @@ translatedAt: '2026-09-12T11:40:15.410557+00:00'
 
 ---
 
-## 參考資料
+## 参考資料
 
 [^1]: [中国語版ウィキペディア：范曉萱](https://zh.wikipedia.org/zh-tw/范曉萱) — 台湾のシンガーソングライター范曉萱の生涯、家族背景、音楽キャリアを網羅した項目。
 

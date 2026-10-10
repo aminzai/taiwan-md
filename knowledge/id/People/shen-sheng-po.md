@@ -137,5 +137,5 @@ Semangat ini, sampai sekarang belum usang.
 
 ## Topik Terkait
 
-- [Wu Che-yu](/people/吳哲宇): Jalur penciptaan Taiwan lain dari kode menuju seni
-- [Audrey Tang](/people/唐鳳): Bagaimana pemikiran teknologi memasuki ranah publik
+- [Wu Che-yu](/id/people/che-yu-wu): Jalur penciptaan Taiwan lain dari kode menuju seni
+- [Audrey Tang](/id/people/audrey-tang): Bagaimana pemikiran teknologi memasuki ranah publik

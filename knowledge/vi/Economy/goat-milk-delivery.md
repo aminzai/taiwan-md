@@ -101,10 +101,10 @@ Quay lại những năm 1979 ở Quan Miểu với 6 con dê. Bốn chục mấy
 
 **Đọc thêm**:
 
-- [Hiện đại hóa nông nghiệp Đài Loan](/economy/台灣農業現代化發展) — Từ sản xuất yêu cầu lao động đến yêu cầu kỹ thuật, quỹ đạo chuyển đổi của nông nghiệp Đài Loan
-- [Nông nghiệp Đài Loan và tái sinh sống nông thôn](/economy/台灣農業與農村再生) — Lão hóa dân số nông thôn và những khó khăn có cấu trúc của kế tục thế hệ
-- [Kỹ thuật nông nghiệp và nông nghiệp tinh tế](/economy/農業科技與精緻農業) — Làm thế nào hệ thống chứng chỉ và giá trị cao giữ được nền kinh tế người nông dân nhỏ
-- [Kỳ tích kinh tế](/economy/經濟奇蹟) — Làn sóng thập niên 1980 cho phép những người chăn nuôi dê "bị sữa dê đuổi theo" tăng trưởng thu nhập
+- [Hiện đại hóa nông nghiệp Đài Loan](/vi/economy/taiwan-agricultural-modernization) — Từ sản xuất yêu cầu lao động đến yêu cầu kỹ thuật, quỹ đạo chuyển đổi của nông nghiệp Đài Loan
+- [Nông nghiệp Đài Loan và tái sinh sống nông thôn](/vi/economy/taiwan-agriculture-and-rural-revitalization) — Lão hóa dân số nông thôn và những khó khăn có cấu trúc của kế tục thế hệ
+- [Kỹ thuật nông nghiệp và nông nghiệp tinh tế](/vi/economy/agricultural-technology-and-refined-agriculture) — Làm thế nào hệ thống chứng chỉ và giá trị cao giữ được nền kinh tế người nông dân nhỏ
+- [Kỳ tích kinh tế](/vi/economy/economic-miracle) — Làn sóng thập niên 1980 cho phép những người chăn nuôi dê "bị sữa dê đuổi theo" tăng trưởng thu nhập
 
 ## Tài liệu tham khảo
 

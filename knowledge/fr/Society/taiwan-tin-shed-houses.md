@@ -2,7 +2,7 @@
 title: "Les toits en tôle ondulée de Taïwan : 716 372 constructions illégales soutiennent l'horizon urbain"
 description: "En août 2024, un incendie dans un magasin d'agriculture mécanique à Liujia, Tainan, a coûté la vie à une famille de cinq personnes piégée sous un toit en tôle ondulée au troisième étage. Fin juillet 2023, le nombre total de constructions illégales à Taïwan atteignait 716 372 unités ; le district de New Taipei enregistrait une augmentation annuelle de 32 000 unités. Bien que le gouvernement annonce chaque année des démolitions, le nombre augmente encore de 10 000 unités par an. Cette couche de métal orange et argenté constitue à la fois le paysage urbain le plus laid et la légende urbaine la plus citée en matière de sécurité publique."
 category: Society
-subcategory: Environnement de vie
+subcategory: '居住環境'
 tags:
   [
     'Constructions illégales',

@@ -13,7 +13,7 @@ tags:
     'photographie aérienne',
     'environnement',
   ]
-subcategory: 'Arts et création'
+subcategory: '藝術與創作'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 12

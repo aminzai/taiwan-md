@@ -4,7 +4,7 @@ description: '選挙のたびに、台湾の街頭は巨大な民主の劇場と
 date: 2026-08-20
 category: 'Politics'
 tags: ['社会', '政治', '文化', '選挙', '舞台車', '民主スナック']
-subcategory: '民主主義と政治'
+subcategory: '民主與政治'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-19
@@ -13,6 +13,7 @@ curation: 'incubating'
 translatedFrom: 'Politics/選舉造勢.md'
 sourceCommitSha: '6226eb6aa'
 sourceContentHash: 'sha256:61e2c933e1672b41'
+sourceBodyHash: 'sha256:f73fed3867526ad3'
 translatedAt: '2026-09-12T03:58:55.000843+00:00'
 ---
 

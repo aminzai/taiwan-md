@@ -4,7 +4,7 @@ description: 'جزيرة عمرها 6 ملايين سنة، تخفي ذاكرة 
 date: 2026-03-23
 author: 'Taiwan.md'
 category: 'Geography'
-subcategory: 'المناخ والينابيع الساخنة'
+subcategory: '氣候與溫泉'
 tags:
   [
     'الجغرافيا',

@@ -174,11 +174,11 @@ Nach dem Millennium gaben neue Stimmen wie Wu Mingyi (吳明益), Lin Yihan (林
 
 ## Weiterführende Lektüre
 
-- [Taiwan Wanderbuch](/art/臺灣漫遊錄) — Yang Shuangzi setzt die Tradition der weiblichen und lesbischen Schreibung nach der Aufhebung des Kriegsrechts fort; mit fiktiven Übersetzungen schreibt sie über die japanische Kolonialgeschichte, was 2024 beim NBA und beim Booker Prize international gewürdigt wurde.
-- [Taiwan Literatur nach dem Krieg](/art/戰後台灣文學) — Die 42 Jahre von 1945 bis 1987: vom Schweigen, der Moderne, den ländlichen Debatten bis zum weiblichen Erwachen.
-- [Zeitgenössische Taiwan-Literatur](/art/當代台灣文學) — Das nächste Kapitel im 21. Jahrhundert: Wu Mingyi, Lin Yihan und die digitale Literatur.
-- [Geschichte der taiwanesischen Literatur](/art/台灣文學史) — Der Gesamtkontext von der niederländischen Herrschaft über die Qing-Dynastie, die japanische Kolonialzeit bis zur Gegenwart.
-- [Lin Liang](/people/林良) — Gründerin des Kinderliteraturvereins der Republik China (Taiwan) im Jahr 1984 und Pionierin der taiwanesischen Kinderliteratur; ihre Spalte „Bilder erzählen“ begleitete Generationen von Kindern in Taiwan.
+- [Taiwan Wanderbuch](/de/art/taiwan-travelogue) — Yang Shuangzi setzt die Tradition der weiblichen und lesbischen Schreibung nach der Aufhebung des Kriegsrechts fort; mit fiktiven Übersetzungen schreibt sie über die japanische Kolonialgeschichte, was 2024 beim NBA und beim Booker Prize international gewürdigt wurde.
+- [Taiwan Literatur nach dem Krieg](/de/art/postwar-taiwanese-literature) — Die 42 Jahre von 1945 bis 1987: vom Schweigen, der Moderne, den ländlichen Debatten bis zum weiblichen Erwachen.
+- [Zeitgenössische Taiwan-Literatur](/de/art/contemporary-taiwanese-literature) — Das nächste Kapitel im 21. Jahrhundert: Wu Mingyi, Lin Yihan und die digitale Literatur.
+- [Geschichte der taiwanesischen Literatur](/de/art/history-of-taiwanese-literature) — Der Gesamtkontext von der niederländischen Herrschaft über die Qing-Dynastie, die japanische Kolonialzeit bis zur Gegenwart.
+- [Lin Liang](/de/people/lin-liang-childrens-literature) — Gründerin des Kinderliteraturvereins der Republik China (Taiwan) im Jahr 1984 und Pionierin der taiwanesischen Kinderliteratur; ihre Spalte „Bilder erzählen“ begleitete Generationen von Kindern in Taiwan.
 
 ---
 

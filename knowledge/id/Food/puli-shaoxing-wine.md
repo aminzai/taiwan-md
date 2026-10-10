@@ -4,7 +4,7 @@ description: "Didirikan pada tahun 1917, namun baru menghasilkan botol pertama m
 date: '2026-05-01'
 author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: 'Budaya Minuman'
+subcategory: '飲品文化'
 tags:
   [
     'Minuman Shaoxing',
@@ -114,8 +114,8 @@ Saat ini tidak ada lagi orang yang menganggapnya sebagai "milik Tiongkok daratan
 
 **Bacaan Lanjutan:**
 
-- [Masakan Kampung Taiwan](/food/台灣眷村菜) — Sama seperti memori kuliner yang dibawa oleh banyak imigran setelah tahun 1949, masakan kampung berbagi asal yang sama dengan minuman Shaoxing Puli: sebuah pelarian yang membawa kenangan dapur.
-- [Budaya Makanan Fermentasi dan Pengawetan Taiwan](/food/台灣發酵食品與醃製文化) — Dari tahu fermentasi hingga kecap asin, spektrum teknologi pangan fermentasi di Taiwan menjadikan minuman Shaoxing sebagai salah satu varian dengan latar belakang politik paling kuat.
+- [Masakan Kampung Taiwan](/id/food/military-dependents-village-cuisine) — Sama seperti memori kuliner yang dibawa oleh banyak imigran setelah tahun 1949, masakan kampung berbagi asal yang sama dengan minuman Shaoxing Puli: sebuah pelarian yang membawa kenangan dapur.
+- [Budaya Makanan Fermentasi dan Pengawetan Taiwan](/id/food/taiwan-fermented-and-pickled-foods) — Dari tahu fermentasi hingga kecap asin, spektrum teknologi pangan fermentasi di Taiwan menjadikan minuman Shaoxing sebagai salah satu varian dengan latar belakang politik paling kuat.
 - [Budaya Makanan Berbasis Beras Taiwan](/id/food/taiwan-rice-cuisine-culture) — Beras ketan adalah bahan dasar utama minuman Shaong; budaya makanan beras memberikan konteks lengkap untuk memahami transisi minuman ini dari pertanian ke industri, lalu ke pariwisata.
 
 ## Referensi
@@ -136,7 +136,7 @@ Saat ini tidak ada lagi orang yang menganggapnya sebagai "milik Tiongkok daratan
 
 [^8]: [Lonely Planet: Puli Wine Museum & Factory](https://www.lonelyplanet.com/taiwan/western-taiwan/puli/attractions/puli-wine-museum-factory/a/poi-sig/1358475/357574) — Entri panduan perjalanan internasional yang secara jelas menunjukkan produksi sake sejak 1917 dan transisi ke arak beras kuning (yellow rice wine) setelah KMT tiba di Taiwan lima puluh tahun kemudian sebagai kebijakan industri.
 
-[^9]: [Jurnal Nankai: Penjelasan Istilah dan Klasifikasi Metode Minuman Shaoxing](https://libap.nhu.edu.tw:8081/EJournal/AO01130106.pdf) — Bab penjelasan istilah dalam tesis Wang Yue-ying dan Wang Jun-min 2016, menjelaskan bahwa minuman Shaong dibuat dengan beras ketan dan air Dan_hu, diklasifikasikan menjadi empat jenis: Yuanhong, Jiafan, Shanliang, dan Xiangxue, dengan kadar alkohol 14–18 derajat.
+[^9]: [Jurnal Nankai: Penjelasan Istilah dan Klasifikasi Metode Minuman Shaoxing](https://libap.nhu.edu.tw:8081/Ejournal/AO01130106.pdf) — Bab penjelasan istilah dalam tesis Wang Yue-ying dan Wang Jun-min 2016, menjelaskan bahwa minuman Shaong dibuat dengan beras ketan dan air Dan_hu, diklasifikasikan menjadi empat jenis: Yuanhong, Jiafan, Shanliang, dan Xiangxue, dengan kadar alkohol 14–18 derajat.
 
 [^10]: [Zhejiang Online: 60 Tahun Lalu, Minuman Shaoxing Sudah Menjadi "Minuman Jamuan Negara"](https://zjnews.zjol.com.cn/zjnews/sxnews/201803/t20180315_6804718.shtml) — Laporan media resmi Zhejiang tahun 2018, mencatat latar belakang sejarah di mana Perdana Menteri Zhou Enlai menetapkan minuman Shaoxing sebagai minuman jamuan negara pada 1950-an dan memerintahkan pembangunan "Gudang Pusat".
 

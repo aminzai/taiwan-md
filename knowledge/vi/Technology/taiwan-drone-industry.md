@@ -21,6 +21,11 @@ lastHumanReview: false
 featured: false
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Chung_Shyang_II_UAV.jpg'
+sporeLinks:
+  - id: 70
+    platform: 'threads'
+    date: '2026-05-10'
+    url: 'https://www.threads.com/@taiwandotmd/post/DYKW0PmkzbM'
 translatedFrom: 'Technology/台灣無人機產業.md'
 sourceCommitSha: '21298a7a'
 sourceContentHash: 'sha256:4412f50a29e8bcfe'
@@ -159,10 +164,10 @@ Dây chuyền năm 1979 bắt đầu từ máy bay đồ chơi điều khiển t
 
 **Đọc thêm**
 
-- [Hiện đại hóa Quốc phòng và Quân sự Đài Loan](/society/台灣國防與軍事現代化) — Toàn cảnh chiến lược Bào Ngư sau 200.000 máy bay không người lái
+- [Hiện đại hóa Quốc phòng và Quân sự Đài Loan](/vi/society/taiwan-defense-modernization) — Toàn cảnh chiến lược Bào Ngư sau 200.000 máy bay không người lái
 - [Công nghiệp Bán dẫn](/vi/technology/taiwan-semiconductor-industry) — Ngành công nghiệp chiến lược trỗi dậy vì địa chính trị trước đó của Đài Loan
-- [Phát triển Công nghiệp Không gian Đài Loan](/technology/台灣太空產業發展) — Từ máy bay không người lái đến vệ tinh, tham vọng bầu trời của Đài Loan
-- [Công nghiệp Robot Đài Loan](/technology/台灣機器人產業) — Một ví dụ khác "linh kiện mạnh, máy hoàn chỉnh yếu", có cùng vấn đề cấu trúc với máy bay không người lái
+- [Phát triển Công nghiệp Không gian Đài Loan](/vi/technology/taiwan-space-industry-development) — Từ máy bay không người lái đến vệ tinh, tham vọng bầu trời của Đài Loan
+- [Công nghiệp Robot Đài Loan](/vi/technology/taiwan-robotics-industry) — Một ví dụ khác "linh kiện mạnh, máy hoàn chỉnh yếu", có cùng vấn đề cấu trúc với máy bay không người lái
 
 ## Nguồn hình ảnh
 

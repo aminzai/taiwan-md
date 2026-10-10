@@ -150,9 +150,9 @@ Em seus 32 anos curtos, Hong Hsin-fu era como um cometa brilhante passando pelo 
 
 ## Leituras recomendadas
 
-- [Literatura Taiuanesa Pós-Guerra](/art/戰後台灣文學)：contexto histórico das transformações sociais pós-guerra, debates sobre literatura rural e correntes realistas
-- [História da Literatura Taiuanesa](/art/台灣文學史)：linha do tempo completa da evolução da literatura taiuanesa desde o período de ocupação japonesa até os dias atuais
-- [Huang Chun-ming](/people/黃春明)：comédia trágica dos pequenos personagens no planalto de Lanyang, contraste clássico contemporâneo da literatura rural
+- [Literatura Taiuanesa Pós-Guerra](/pt/art/postwar-taiwanese-literature)：contexto histórico das transformações sociais pós-guerra, debates sobre literatura rural e correntes realistas
+- [História da Literatura Taiuanesa](/pt/art/history-of-taiwanese-literature)：linha do tempo completa da evolução da literatura taiuanesa desde o período de ocupação japonesa até os dias atuais
+- [Huang Chun-ming](/pt/people/huang-chun-ming-taiwanese-literary-master)：comédia trágica dos pequenos personagens no planalto de Lanyang, contraste clássico contemporâneo da literatura rural
 
 ---
 

@@ -122,6 +122,9 @@ OBSERVER_QUEUE_MD = REPO / "docs" / "semiont" / "OBSERVER-QUEUE.md"
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from langs import ALL_TRANSLATION_LANGS, ENABLED_TRANSLATION_LANGS  # noqa: E402
 import status as status_lib  # noqa: E402 — reuse body_hash()/body_hash_pure() (same algo status.py uses)
+# OBSERVER-QUEUE #67（2026-10-10 哲宇拍板 B）：open-PR 過濾＋人寫的譯文不覆蓋。
+# 判斷邏輯全在 contributor_guard.py，這裡只在取 target 時問一句。
+from contributor_guard import ContributorGuard, PROPOSALS_TSV as HUMAN_STALE_PROPOSALS  # noqa: E402
 
 # bump-source-sha.py's filename has a hyphen (not import-able as a plain module) —
 # load it via spec so we can call its bump_one() directly instead of duplicating
@@ -988,8 +991,13 @@ def start_exclusion_refresher(path: Optional[Path], log: "Logger",
 
 def build_worklist(status_data: dict, lang: str, priority: str, order: str,
                     fail_counts: dict | None = None, max_zh_bytes: int | None = None,
-                    log: Logger | None = None, exclude: set | None = None) -> list:
+                    log: Logger | None = None, exclude: set | None = None,
+                    guard: ContributorGuard | None = None, slug_map: dict | None = None) -> list:
     """四層優先序佇列。
+
+    `guard`（OBSERVER-QUEUE #67，2026-10-10）：開著的投稿 PR 碰到的目標、以及現行
+    譯文是人翻的 stale，都在這裡就不進佇列（guard 自己 log 每一筆、記提議檔）。
+    `slug_map` 只給缺頁用——缺頁還沒有目標路徑，要靠 slug 對 open PR 的檔名。
 
     `max_zh_bytes` 把超過篇幅的文章排除在這條軌之外（不是丟掉——由委派層接）。
     2026-09-09 實測：雲端軌四個 worker 52 分鐘只嘗試 1 篇、0 通過，每一篇都耗在
@@ -1032,6 +1040,12 @@ def build_worklist(status_data: dict, lang: str, priority: str, order: str,
             continue
         if (lang, zh) in exclude or ("*", zh) in exclude:
             continue  # origin/main 那側已做掉——不重複翻，衝突面不從本機增長
+        if guard is not None:
+            trans_rel = f"knowledge/{t['path']}" if t.get("path") else None
+            slug = None if trans_rel else (slug_map or {}).get(zh)
+            if not guard.check(lang, zh, st, trans_rel, slug=slug,
+                               zh_sha=info.get("zh", {}).get("lastCommit", "")).ok:
+                continue  # 投稿 PR 開著／人翻的譯文——不覆蓋（#67）
         if max_zh_bytes:
             try:
                 if (REPO / "knowledge" / zh).stat().st_size > max_zh_bytes:
@@ -1251,6 +1265,9 @@ def do_commit(lang: str, state: RunState, no_commit: bool, log: Logger) -> None:
     except Exception:
         pass
     files.append(str(FAIL_MEMO.relative_to(REPO)))   # 難篇記憶隨批次入版控
+    if HUMAN_STALE_PROPOSALS.exists():
+        # #67：人翻的 stale 譯文不覆蓋、改記提議——提議要跟批次一起進版控，維護班才看得到
+        files.append(str(HUMAN_STALE_PROPOSALS.relative_to(REPO)))
     subprocess.run(["python3", "scripts/tools/sync-translations-json.py"], cwd=REPO, capture_output=True, text=True)
     subprocess.run(["python3", "scripts/tools/lang-sync/status.py"], cwd=REPO, capture_output=True, text=True)
     git_lock_commit(lang, workers, files, log)
@@ -1936,7 +1953,8 @@ TOPUP_PER_LANG = 10   # 每次補貨每語言最多排進幾篇（小批：讓�
 
 def topup_queue(worker: Worker, queue: TaskQueue, state: RunState, langs: list, args,
                 run_dir: Path, round_num: int, slug_map_path: Path, seen_missing_slug: set,
-                log: Logger, exclusions: set | None = None) -> bool:
+                log: Logger, exclusions: set | None = None,
+                guard: ContributorGuard | None = None, slug_map: dict | None = None) -> bool:
     """輪中補貨：worker 在本輪佇列裡再也 claim 不到東西時，替它從 backlog 撈一批
     它接得了的語言，直接 extend 進同一個佇列。回 True = 補到了，worker 續跑；
     False = 這個 worker 能接的語言在全庫 backlog 裡都沒東西了，照舊退出等輪次結束。
@@ -1970,7 +1988,8 @@ def topup_queue(worker: Worker, queue: TaskQueue, state: RunState, langs: list, 
             try:
                 worklist_full = build_worklist(status_data, lang, args.priority, args.order,
                                                max_zh_bytes=args.max_zh_bytes, log=None,
-                                               fail_counts=fail_counts, exclude=exclusions)
+                                               fail_counts=fail_counts, exclude=exclusions,
+                                               guard=guard, slug_map=slug_map)
             except Exception as e:  # noqa: BLE001
                 log(f"⚠️  top-up build_worklist {lang} 失敗：{e}")
                 continue
@@ -2246,6 +2265,11 @@ def main() -> None:
     state.tier7_cap = args.tier7_nightly_cap
     seen_missing_slug: set = set()
     total_enqueued = 0
+    # OBSERVER-QUEUE #67（2026-10-10 哲宇拍板 B）：整個 run 一個 guard——open-PR 清單
+    # 打一次 gh 快取（長 run 過 BABEL_OPEN_PR_REFRESH_MIN 分鐘再打）、作者查詢一檔一次。
+    guard = ContributorGuard(log=log)
+    if not guard.enabled:
+        log("  ⚠️ BABEL_CONTRIBUTOR_GUARD=0：open-PR 過濾與人翻譯文保護都關閉（#67）")
 
     barren_rounds = 0            # 連續零產出輪數（空轉偵測，見下方 break）
     for round_num in range(1, args.rounds + 1):
@@ -2266,6 +2290,10 @@ def main() -> None:
             log(f"  restricted_eligible (Tier 6/7)：{len(state.restricted_eligible)} 篇合格")
 
         slug_map_path = build_slug_map(run_dir)
+        try:
+            slug_map = json.loads(slug_map_path.read_text(encoding="utf-8"))
+        except Exception:  # noqa: BLE001 — 讀不到只影響缺頁的 open-PR 比對，不擋輪次
+            slug_map = {}
 
         remaining_budget = None
         if args.max_articles is not None:
@@ -2299,7 +2327,8 @@ def main() -> None:
             # fail_counts 跨 run 持久化，所以重啟不會又從同一批難篇開始撞。
             worklist_full = build_worklist(status_data, lang, args.priority, args.order,
                                            max_zh_bytes=args.max_zh_bytes, log=log,
-                                            fail_counts=state.fail_counts, exclude=exclusions)
+                                            fail_counts=state.fail_counts, exclude=exclusions,
+                                            guard=guard, slug_map=slug_map)
             cap = 10 * len(workers)
             if remaining_budget is not None:
                 cap = min(cap, remaining_budget - sum(len(v) for v in per_lang_tasks.values()))
@@ -2340,7 +2369,8 @@ def main() -> None:
 
         def _topup(w, q):
             return topup_queue(w, q, state, _langs, args, run_dir, _rn, slug_map_path,
-                               seen_missing_slug, log, exclusions=_excl)
+                               seen_missing_slug, log, exclusions=_excl,
+                               guard=guard, slug_map=slug_map)
 
         with ThreadPoolExecutor(max_workers=len(workers)) as pool:
             futures = [

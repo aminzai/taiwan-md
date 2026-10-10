@@ -26,7 +26,7 @@ tags:
     'Povo Siraya',
     'Série 22 Condados e Cidades',
   ]
-subcategory: 'Municípios'
+subcategory: '縣市'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-18
@@ -38,6 +38,7 @@ imageNote: '原 Wikimedia 圖檔已從 Commons 下架（404 Not Found），卡�
 translatedFrom: 'Geography/台南市.md'
 sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:4da0630edaa8897d'
+sourceBodyHash: 'sha256:2dcae5a0df1cbb16'
 translatedAt: '2026-09-09T02:14:22.034421+00:00'
 ---
 

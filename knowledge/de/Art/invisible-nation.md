@@ -31,6 +31,7 @@ rationale:
 translatedFrom: 'Art/看不見的國家.md'
 sourceCommitSha: '31a05c44b'
 sourceContentHash: 'sha256:fd6fc02e66010c96'
+sourceBodyHash: 'sha256:00c160f3d2bfc5b4'
 translatedAt: '2026-09-22T22:04:51.143435+00:00'
 ---
 
@@ -212,10 +213,10 @@ Bei jener Pressevorführung im Juni 2025 bebte der Boden, bevor der Bildschirm a
 ## Weiterführende Literatur
 
 - [Tsai Ing-wen](/de/people/tsai-ing-wen) — die Protagonistin, die in diesem Film sieben Jahre lang hautnah begleitet wurde, Taiwans erste Präsidentin, von einer Niederlage mit 800.000 Stimmen bis zur Wiederwahl mit 8,17 Millionen Stimmen
-- [Sonnenblumen-Bewegung](/society/太陽花學運) — der entscheidende Wendepunkt im demokratischen Handlungsbogen des Films, die 24 Tage im Jahr 2014, die das politische Bewusstsein einer Generation neu formten
-- [Chi Cheng](/people/紀政) — die im Film ihre Bronzemedaille von den Olympischen Spielen 1968 in Mexiko-Stadt zeigt und fragt: „Ist ‚Chinesisch Taipeh‘ ein Landesname?“, die „springende Gazelle“
-- [Chinesisch Taipeh](/society/中華台北) — Chi Chengs „Bronzemedaille, auf der sie ihren eigenen Namen nicht nennen durfte“, und der dahinterstehende olympische Namensmechanismus
-- [Taiwans Vereinigung-Unabhängigkeit-Spektrum](/society/台灣統獨光譜) — Tsai Ing-wens Aussage im Film: „Taiwan ist von Anfang an ein unabhängiges Land“, und ihre Position im Souveränitätsspektrum
+- [Sonnenblumen-Bewegung](/de/society/sunflower-movement) — der entscheidende Wendepunkt im demokratischen Handlungsbogen des Films, die 24 Tage im Jahr 2014, die das politische Bewusstsein einer Generation neu formten
+- [Chi Cheng](/de/people/chi-cheng-flying-antelope) — die im Film ihre Bronzemedaille von den Olympischen Spielen 1968 in Mexiko-Stadt zeigt und fragt: „Ist ‚Chinesisch Taipeh‘ ein Landesname?“, die „springende Gazelle“
+- [Chinesisch Taipeh](/de/society/chinese-taipei) — Chi Chengs „Bronzemedaille, auf der sie ihren eigenen Namen nicht nennen durfte“, und der dahinterstehende olympische Namensmechanismus
+- [Taiwans Vereinigung-Unabhängigkeit-Spektrum](/de/society/taiwan-unification-independence-spectrum) — Tsai Ing-wens Aussage im Film: „Taiwan ist von Anfang an ein unabhängiges Land“, und ihre Position im Souveränitätsspektrum
 - [Shen Bo-yang](/de/people/puma-shen) — die Realitätsversion der Zivilschutzstunde am Filmende: Mitbegründer der Black Bear Academy, der Abgeordnete, der Zivilisten beibringt, „wie man überlebt“
 - [Mountain Makers: The Gamble of the Century](/de/art/mountain-makers-tsmc-documentary) — ein weiterer „Taiwan-Werte“-Dokumentarfilm, der am selben Tag wie dieser Film Premiere hatte, der die Geschichte von Taiwans Halbleiterindustrie erzählt
 

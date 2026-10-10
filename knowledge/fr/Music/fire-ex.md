@@ -156,7 +156,7 @@ Ovation générale. Ces sept minutes, filmées par des spectateurs et partagées
 
 [^9]: [Publication Threads de Sam Yang — Juillet 2025](https://www.threads.com/@fatfatfamily9487/) — « Pourquoi il faut encore que je la chante onze ans après »
 
-[^10]: [Sam Yang — Wikipédia](https://zh.wikipedia.org/zh-tw/%E6%A5%8A%E5%A4%A9%E6%AD%A3) — Coming out d'Enno Cheng et divorce, remariage avec Shandong et divorce, période de cohabitation à trois, position sur le mariage homosexuel
+[^10]: [Sam Yang — Wikipédia](https://zh.wikipedia.org/zh-tw/%E6%A5%8A%E5%A4%A7%E6%AD%A3) — Coming out d'Enno Cheng et divorce, remariage avec Shandong et divorce, période de cohabitation à trois, position sur le mariage homosexuel
 
 [^11]: [58e cérémonie des Golden Bell Awards — United Daily News / Stars](https://stars.udn.com/star/story/10091/7466614) — 2023, meilleur acteur dans un second rôle pour _I Do_, artiste aux « trois Gold » (Golden Melody + Golden Bell + Golden Indie)
 

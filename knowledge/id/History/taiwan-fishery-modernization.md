@@ -39,7 +39,7 @@ Pada 1952, produksi perikanan pesisir Taiwan mencapai 43.900 ton. Pada 1980, pro
 ## Es Bali di Pelabuhan Tainan, Sebelum Armada Kapal Perikanan Jauh Tiba
 
 ![Pelabuhan Perikanan Cijin di Kaohsiung, Taiwan](https://upload.wikimedia.org/wikipedia/commons/b/b2/Cijin_Fishing_Port_in_Kaohsiung%2C_Taiwan.JPG)
-_ Sumber gambar: Pelabuhan Perikanan Cijin di Kaohsiung, Taiwan, penulis SSR2000, CC BY-SA 3.0._
+_ Sumber gambar: Pelabuhan Perikanan Cijin di Kaohsiung, Taiwan, penulis SSR2000, CC BY-SA 3.0. [Cijin Fishing Port in Kaohsiung, Taiwan](https://commons.wikimedia.org/wiki/File:Cijin_Fishing_Port_in_Kaohsiung,_Taiwan.JPG)_
 
 Pemulihan perikanan pasca-perang tidak dimulai dengan sebuah kapal perikanan jauh yang canggih. Data sejarah Dinas Perikanan mencatat periode pemulihan dari 1946 hingga 1970, ketika pemerintah dan sektor swasta menginvestasikan pelabuhan pelindung kecil, pabrik es, pabrik pembekuan, fasilitas darat, dan kapal perikanan bermotor. Ikan tidak akan bernilai jika tidak dapat disimpan segar setelah mencapai laut, sehingga peningkatan kapasitas penangkapan hanya akan meningkatkan kerusakan. Pelabuhan dan rantai pending keharusan menangani tugas krusial mengubah hasil tangkapan menjadi komoditas.[^2]
 
@@ -80,7 +80,7 @@ Perikanan jauh sering dianggap sebagai lanjutan pekerjaan di laut, padahal seben
 Ini juga menjelaskan mengapa sejarah perikanan Taiwan tidak bisa hanya ditulis dengan narasi romantis "nelayan melawan laut". Awak kapal menghadapi risiko di laut, sementara keluarga di daratan, pabrik pengolahan, pabrik perbaikan kapal, pasar ikan, dan pemerintah daerah juga berkontribusi dalam menanggung biaya industri. Ketika hasil tangkapan meningkat, pendapatan tidak selalu tersebar merata ke semua pihak yang terlibat. Ketika sumber daya berkurang atau ketentuan internasional semakin ketat, yang paling rentan adalah kapal kecil, awak kapal yang disewa, dan keluarga yang bergantung pada satu pelabuhan. [^5] [^8]
 
 ![Pelabuhan Perikanan Fugang](https://upload.wikimedia.org/wikipedia/commons/7/76/Taiwan_Fugang_Fishery_Harbor.JPG)
-_ Sumber gambar: Pelabuhan Perikanan Fugang, Taiwan, penulis vegafish, CC BY-SA 2.5._
+_ Sumber gambar: Pelabuhan Perikanan Fugang, Taiwan, penulis vegafish, CC BY-SA 2.5. [Taiwan Fugang Fishery Harbor](https://commons.wikimedia.org/wiki/File:Taiwan_Fugang_Fishery_Harbor.JPG)_
 
 ## Kolam Budidaya Mengubah Pesisir Menjadi Pabrik Lain
 
@@ -89,12 +89,12 @@ Modernisasi perikanan tidak hanya mendorong kapal ke laut jauh, tetapi juga mena
 Masalah budidaya tidak bisa diselesaikan hanya dengan teknologi. Sumber daya tanah dan air terbatas, penyakit, residu obat, biaya, dan harga pasar semuanya dapat mengubah apakah sebuah kolam dapat bertahan. Data Dinas Pertanian menyatakan bahwa kebijakan budidaya pasca-2000 beralih ke budidaya air laut, dan menempatkan ikan hias dan ikan gurame sebagai fokus pengembangan industri. Pergeseran ini mengubah perikanan dari mengejar sekumpel ikan alami menjadi mengelola air, benih, dan risiko pasar. [^1]
 
 ![Pelabuhan Perikanan Fugang dan Benteng Laut](https://upload.wikimedia.org/wikipedia/commons/9/99/2010_07_16390_5687_Taitung_City%2C_Taiwan%2C_Fugang_Fishing_Harbor%2C_Seawalls_in_Taiwan%2C_Commercial_fishing_in_Taitung_City.JPG)
-_ Sumber gambar: Pelabuhan Perikanan Fugang, Taitung, penulis Lord Koxinga, CC BY-SA 3.0._
+_ Sumber gambar: Pelabuhan Perikanan Fugang, Taitung, penulis Lord Koxinga, CC BY-SA 3.0. [Fugang Fishing Harbor, Taitung](https://commons.wikimedia.org/wiki/File:2010_07_16390_5687_Taitung_City,_Taiwan,_Fugang_Fishing_Harbor,_Seawalls_in_Taiwan,_Commercial_fishing_in_Taitung_City.JPG)_
 
 ## Pelabuhan Perikanan Mulai Belajar Menerima Wisatawan
 
 ![Pelabuhan Perikanan Mituo](https://upload.wikimedia.org/wikipedia/commons/0/05/Mituo_fishing_harbor_06.jpg)
-_ Sumber gambar: Pelabuhan Perikanan Mituo 06, penulis Reke, CC BY-SA 4.0._
+_ Sumber gambar: Pelabuhan Perikanan Mituo 06, penulis Reke, CC BY-SA 4.0. [Mituo fishing harbor 06](https://commons.wikimedia.org/wiki/File:Mituo_fishing_harbor_06.jpg)_
 
 Ketika sumber daya perairan dekat berkurang dan pendapatan penangkapan tradisional tidak stabil, pelabuhan perikanan juga mencari fungsi baru. Data Dinas Perikanan mencatat bahwa setelah pembebasan pada 1987, pemerintah memperluas aktivitas rekreasi laut, dan pada 1999 meluncurkan rencana diversifikasi fungsi pelabuhan perikanan, mendorong pelabuhan rekreasi dan dermaga nelayan. Dengan demikian, pelabuhan perikanan sekaligus menghadapi kapal perikanan, barang ikan, wisatawan, dan merek lokal. [^2]
 
@@ -127,12 +127,12 @@ Rantai pasokan juga mengubah jarak antara konsumen dan produsen. Teknologi pembe
 Setelah rantai pasokan berkembang, para pemain pasar perlu pengetahuan baru. Pasar ikan perlu membedakan jenis dan kualitas ikan, industri pembekuan perlu menguasai suhu dan stok, pedagang ekspor perlu memahami standar kesehatan dan label berbeda di setiap negara, dan pemerintah perlu menempatkan data hasil tangkapan, data kapal, dan aturan konservasi dalam satu kerangka pengelolaan. Oleh karena itu, hasil modernisasi termasuk sistem data. Jika data hanya tersimpan dalam lembar kerja masing-masing pedagang, pelabuhan, atau otoritas terkait, konsumen sulit untuk menilai asal dan biaya lingkungan dari sejumlah produk perikanan. Data yang transparan dan dapat saling diverifikasi dapat membantu nelayan, pemerintah, dan konsumen berdiskusi tentang penggunaan sumber daya di platform informasi yang sama. Ini juga menjadi fondasi yang perlu dilengkapi dalam transformasi perikanan saat ini. [^1] [^5]
 
 ![Pelabuhan Perikanan Yong'an](https://upload.wikimedia.org/wikipedia/commons/1/17/Taiwan_Yong-an_Fishery_Harbor.jpg)
-_ Sumber gambar: Pelabuhan Perikanan Yong'an, Taiwan, penulis Mnb, CC BY-SA 2.5._
+_ Sumber gambar: Pelabuhan Perikanan Yong'an, Taiwan, penulis Mnb, CC BY-SA 2.5. [Taiwan Yong-an Fishery Harbor](https://commons.wikimedia.org/wiki/File:Taiwan_Yong-an_Fishery_Harbor.jpg)_
 
 ## Dari Negara Produsen ke Negara Bendera Kapal yang Bertanggung Jawab
 
 ![Pelabuhan Perikanan Zhengbin](https://upload.wikimedia.org/wikipedia/commons/8/88/Zhengbin_Fishing_Port%2C_Keelung%2C_Taiwan_2019.jpg)
-_ Sumber gambar: Pelabuhan Perikanan Zhengbin, Keelung, Taiwan 2019, penulis bryan..., CC BY-SA 2.0._
+_ Sumber gambar: Pelabuhan Perikanan Zhengbin, Keelung, Taiwan 2019, penulis bryan..., CC BY-SA 2.0. [Zhengbin Fishing Port, Keelung, Taiwan 2019](https://commons.wikimedia.org/wiki/File:Zhengbin_Fishing_Port,_Keelung,_Taiwan_2019.jpg)_
 
 Pertumbuhan perikanan Taiwan di paruh kedua abad ke-20 meninggalkan jejak kemampuan industri yang jelas. Kapal perikanan dapat beroperasi di tiga samudra, teknologi budidaya dapat memproduksi benih secara massal, dan pelabuhan serta peralatan pembekuan dapat mengirimkan ikan ke pasar jauh. Namun semakin besar kemampuan industri, semakin sulit untuk menghindari tanggung jawab eksternal. Negara bendera kapal harus tahu di mana kapalnya beroperasi, aturan konservasi yang ditetapkan oleh organisasi regional tidak bisa hanya tersimpan dalam dokumen rapat, dan alur kerja dan transfer harus dapat dilacak. [^5] [^9]
 
@@ -166,7 +166,7 @@ Hari ini, ketika kita membeli seekor ikan di pasar, yang kita lihat adalah berat
 
 ## Bacaan Lanjutan
 
-- [Asal Usul Perikanan Taiwan](/history/台灣漁業起源) — Bab pertama dari laut yang sama: uji coba sumber daya air kolonial Jepang, pasar ikan, dan penerimaan teknologi pasca-perang
+- [Asal Usul Perikanan Taiwan](/id/history/taiwan-fishery-origins) — Bab pertama dari laut yang sama: uji coba sumber daya air kolonial Jepang, pasar ikan, dan penerimaan teknologi pasca-perang
 - [Sejarah Perdagangan Maritim Taiwan](/id/history/taiwan-maritime-trade-history)
 - [Sejarah Industri Gula Taiwan](/history/台灣糖業史)
 

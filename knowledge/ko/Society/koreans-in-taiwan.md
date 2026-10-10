@@ -150,7 +150,7 @@ _사진: Jorge Cancela, 〈Taipei - Skyline Sunset〉, Wikimedia Commons, CC BY 
 - [대만 교육 제도](/ko/lifestyle/taiwan-education-system) — 대만 학교, 국제 학생 및 바이링 교육의 제도적 맥락을 이해하기 위해.
 - [대만 신주민 미식 융합](/ko/food/taiwanese-new-immigrant-culinary-fusion) — 식습관과 가족 생활을 통해 교차 문화 커뮤니티가 대만에 어떻게 뿌리내리는지 이해하기 위해.
 
-## 參考資料
+## 참고 자료
 
 [^1]: [외교부 영사사무국: 한국인 참여 대만 바캉스 워킹 계획 비자 신청 관련 설명](https://www.boca.gov.tw/cp-388-51-cb41a-1.html) — 2024년 7월 17일 발표된 공식 비자 기사로, 대한 바캉스 워킹의 목적, 연령, 횟수 및 업무 제한을 설명한다.
 

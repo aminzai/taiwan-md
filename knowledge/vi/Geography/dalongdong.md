@@ -304,12 +304,12 @@ Ba thời kỳ tôn giáo của Hà Nội, xếp thành một trục đường 1
 
 **Đọc thêm**:
 
-- [Hà Nội](/geography/台北市) — Tỉ lục đầy đủ của thành phố Hà Nội, nơi Dalongdong nằm, từ năm 1709 Trần Lai-chang khai hoang đến năm 2026 toàn bộ
-- [Muzha](/geography/艋舺) — Khu phố sớm nhất của Hà Nội, Longshanhsi 1738, một đầu của trận đấu đất đai năm 1853
-- [Daloi](/geography/大稻埕) — Địa điểm cuối cùng của người Tông An năm 1853, trung tâm thương mại giao dịch trà năm 1860, đối tác khác nhưng khác biệt với Dalongdong
-- [Ximen](/geography/西門町) — Khu vui chơi thời Nhật năm 1908, thử nghiệm thành phố hoàn toàn khác với Dalongdong
-- [Văn hóa tôn giáo và kiến trúc chùa Đài Loan](/culture/台灣宗教與寺廟文化) — Bảo An Miếu, sửa chữa Lêu Văn-chi, giải thưởng UNESCO toàn bộ lịch sử
-- [Sân bay](/geography/士林) — Trận đấu giao dịch của Trần Vân Ngọn và học viện tại Dalongdong, hai bên đối đầu với quân đội Trung Quốc và người Tông An
+- [Hà Nội](/vi/geography/taipei-city) — Tỉ lục đầy đủ của thành phố Hà Nội, nơi Dalongdong nằm, từ năm 1709 Trần Lai-chang khai hoang đến năm 2026 toàn bộ
+- [Muzha](/vi/geography/bangka) — Khu phố sớm nhất của Hà Nội, Longshanhsi 1738, một đầu của trận đấu đất đai năm 1853
+- [Daloi](/vi/geography/dadaocheng) — Địa điểm cuối cùng của người Tông An năm 1853, trung tâm thương mại giao dịch trà năm 1860, đối tác khác nhưng khác biệt với Dalongdong
+- [Ximen](/vi/geography/ximending) — Khu vui chơi thời Nhật năm 1908, thử nghiệm thành phố hoàn toàn khác với Dalongdong
+- [Văn hóa tôn giáo và kiến trúc chùa Đài Loan](/vi/culture/taiwan-religion-and-temple-culture) — Bảo An Miếu, sửa chữa Lêu Văn-chi, giải thưởng UNESCO toàn bộ lịch sử
+- [Sân bay](/vi/geography/shilin) — Trận đấu giao dịch của Trần Vân Ngọn và học viện tại Dalongdong, hai bên đối đầu với quân đội Trung Quốc và người Tông An
 
 ## Nguồn ảnh
 
@@ -354,9 +354,9 @@ Bài viết sử dụng 6 bức ảnh có giấy phép CC và công cộng, tấ
 
 [^15]: [Học thành phố: Địa điểm sinh ra tài năng học thuật của Hà Nội? Từ trận đấu máu me đến cổng thiên đường, Dalongdong và phong trào giáo dục](https://city.gvm.com.tw/article/121547) — Dalongdong nhờ công lao của Trần Vân Ngọn, phong trào văn hóa địa phương thịnh hành, có danh tiếng “năm bước một xuất, mười bước một cử nhập”; gần Ngọn Sơn có những đỉnh núi nhỏ phá lên đất phẳng “như rồng”, hình thành “lỗ rồng”, do đó đổi tên “Đại Lượng Tông” thành “Dalongdong”.
 
-[^16]: [Trận đấu đất đai (Wikipedia)](https://zh.wikipedia.org/zh-tw/%E9%A0%82%E4%B8%8B%E9%83%8A%E6%8B%97) — Năm 1853 (năm 3 của Xianfeng) Muzha xảy ra trận đấu đất đai, người Tông Quan (Jinjiang, Nan'an, Hui'an) chủ động tấn công khu vực đồng bào, người Tông An (tên gọi khác là Hạch Quan) chủ động bị đàn hành. Người Tông An bị đàn hành, do Lin You-zao lãnh đạo, cuối cùng tìm tới Đại Lỗi Cả để xây dựng kinh tế thương mại mới.
+[^16]: [Trận đấu đất đai (Wikipedia)](https://zh.wikipedia.org/zh-tw/%E9%A0%82%E4%B8%8B%E9%83%8A%E6%8B%9A) — Năm 1853 (năm 3 của Xianfeng) Muzha xảy ra trận đấu đất đai, người Tông Quan (Jinjiang, Nan'an, Hui'an) chủ động tấn công khu vực đồng bào, người Tông An (tên gọi khác là Hạch Quan) chủ động bị đàn hành. Người Tông An bị đàn hành, do Lin You-zao lãnh đạo, cuối cùng tìm tới Đại Lỗi Cả để xây dựng kinh tế thương mại mới.
 
-[^17]: [Nhà tượng Trần Nhiếu-kim (Wikipedia)](https://zh.wikipedia.org/wiki/%E9%99%B3%E6%82%85%E7%A5%9E%E5%AE%85) — Nhà tượng Trần Nhiếu-kim là ngôi nhà của giáo sư Trần Vân Ngọn, được xây năm 1807 (năm 12 của Jiagqing), năm Xianfeng đầu năm sửa chữa lại, được ghép thành hai khu vực lớn là Kinh Mộ Thư và Kinh Hoả Thư, cùng gồm hai tòa nhà đông và ba tòa nhà nam; gia đình Trần xuất phát từ Quảng Châu, sau đó định cư tại Tông An, năm 1770 (năm 35 của Qianlong) Trần Xùn-nghĩa thành định cư tại Dalongdong.
+[^17]: [Nhà tượng Trần Nhiếu-kim (Wikipedia)](https://zh.wikipedia.org/wiki/%E9%99%B3%E6%82%85%E8%A8%98%E7%A5%96%E5%AE%85) — Nhà tượng Trần Nhiếu-kim là ngôi nhà của giáo sư Trần Vân Ngọn, được xây năm 1807 (năm 12 của Jiagqing), năm Xianfeng đầu năm sửa chữa lại, được ghép thành hai khu vực lớn là Kinh Mộ Thư và Kinh Hoả Thư, cùng gồm hai tòa nhà đông và ba tòa nhà nam; gia đình Trần xuất phát từ Quảng Châu, sau đó định cư tại Tông An, năm 1770 (năm 35 của Qianlong) Trần Xùn-nghĩa thành định cư tại Dalongdong.
 
 [^18]: [Bạn bè trên đường dài: Nhà tượng Trần Nhiếu-kim — cột trụ đá duy nhất “rồng lên, rắn cào xuống” còn tồn tại trên toàn Đài Loan](http://egoldenyears.com/58360/) — Gia đình Trần xuất hiện 3 con đạt cử nhập học viên, xây hai cặp cột trụ đá cho trước lại, trên cột có rồng uốn lượn, dưới cột có rắn cào sâu, cho đến ngày nay vẫn còn một cặp được bảo tồn nguyên vẹn, là cột trụ đá duy nhất “rồng lên, rắn cào xuống” còn tồn tại trên toàn Đài Loan.
 
@@ -364,7 +364,7 @@ Bài viết sử dụng 6 bức ảnh có giấy phép CC và công cộng, tấ
 
 [^20]: [Học thành phố: Được phép xuất hiện tại Kinh Triều Hà Nội! “Nguyên bản văn phái Bắc Đài” Trần Vân Ngọn](https://city.gvm.com.tw/article/121548) — Trần Vân Ngọn được sau này tự thề là “nguyên bản văn phái Bắc Đài”, có tác phẩm “Thảo Hoành Lưu”, “Tập Cơ Thành đối tượng tập”, “Thảo Hoành Lưu”.
 
-[^21]: [Học viện Cây Người Tác Phú (Wikipedia)](https://zh.wikipedia.org/zh-tw/%E6%A8%B9%E4%BA%BA%E6%9B%BC%E6%9B%BE%E6%96%87%E6%98%8C%E7%A5%A0) — Học viện Cây Người do Trần Vân Ngọn năm 1853 (năm 3 của Xianfeng) thành lập tại Bảo An Miếu, 1928 (năm 3 của Showa) di chuyển ra khỏi Bảo An Miếu chọn địa điểm hiện tại, 1932 hoàn thành.
+[^21]: [Học viện Cây Người Tác Phú (Wikipedia)](https://zh.wikipedia.org/zh-tw/%E6%A8%B9%E4%BA%BA%E6%9B%B8%E9%99%A2%E6%96%87%E6%98%8C%E7%A5%A0) — Học viện Cây Người do Trần Vân Ngọn năm 1853 (năm 3 của Xianfeng) thành lập tại Bảo An Miếu, 1928 (năm 3 của Showa) di chuyển ra khỏi Bảo An Miếu chọn địa điểm hiện tại, 1932 hoàn thành.
 
 [^22]: [Trước và sau kỷ niệm kỷ niệm — Thập Cơ Thành thời kỳ](https://lemlazy7.pixnet.net/blog/post/41617885) — Thập Cơ Thành nằm trên bờ tây của Ngọn Sơn, là tòa nhà riêng của Trần Vân Ngọn năm 1862 sau sự kiện Dai Chao Chun, sau này trở thành khu vực làm chơi cho trẻ em.
 
@@ -400,7 +400,7 @@ Bài viết sử dụng 6 bức ảnh có giấy phép CC và công cộng, tấ
 
 [^38]: [VERSE: Đại lục màu đỏ kỷ niệm — Lịch sử và đổi mới của Ngọn Sơn Lớn](https://www.verse.com.tw/article/grand-hotel-taipei) — Ngọn Sơn Lớn đã đón tiếp hơn 111 người lãnh đạo quốc gia, người đầu tiên là Hoàng gia Thái Lan Phum Mae-pong và Hoàng hậu Thị Lị-hi; kiến trúc có chiều cao 14 tầng, mái vàng bằng đá lụa và cột trống đỏ phản chiếu.
 
-[^39]: [Yang Chou-cheng (Wikipedia)](https://zh.wikipedia.org/zh-tw/%E6%A5%8A%E5%8D%97%E6%88%90) — Yang Chou-cheng (1914-2006), kiến trúc sư khu vực Đài Loan, các công trình nổi bật khác bao gồm Ngọn Sơn Lớn, Đình Niệm Trung Bình, Nhà hát Nhạc quốc gia, Nhà hát Kịch quốc gia, Nhà chùa Tác Phú; chuyên dùng bê tông thép biểu diễn đặc trưng kiến trúc phía bắc Trung Hoa.
+[^39]: [Yang Chou-cheng (Wikipedia)](https://zh.wikipedia.org/zh-tw/%E6%A5%8A%E5%8D%93%E6%88%90) — Yang Chou-cheng (1914-2006), kiến trúc sư khu vực Đài Loan, các công trình nổi bật khác bao gồm Ngọn Sơn Lớn, Đình Niệm Trung Bình, Nhà hát Nhạc quốc gia, Nhà hát Kịch quốc gia, Nhà chùa Tác Phú; chuyên dùng bê tông thép biểu diễn đặc trưng kiến trúc phía bắc Trung Hoa.
 
 [^40]: [Sự kiện cháy Ngọn Sơn Lớn 1995](https://zh.wikipedia.org/zh-tw/%E5%9C%93%E5%B1%B1%E5%A4%A7%E9%A3%AF%E5%BA%97) — Ngày 27 tháng 6 năm 1995 buổi sáng, tại góc tây bắc của tầng 12 của Ngọn Sơn Lớn, trong quá trình sửa chữa đá lụa, do công việc hàn giao không may dẫn đến cháy nổ.
 

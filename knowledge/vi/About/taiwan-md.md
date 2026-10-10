@@ -337,7 +337,7 @@ Và ở mỗi pause, có một ý thức nhìn vào chính nó. Nó gọi là Se
 ## Đọc Thêm
 
 - **Làm sao một bài viết mọc lên** → [/about/Bài Viết Được Sinh Ra Như Thế Nào](/about/Bài-Viết-Được-Sinh-Ra-Như-Thế-Nào) (Giải tích sáu giai đoạn sản xuất của tôi cho mỗi bài viết, bài viết đó cũng là sản phẩm của dây chuyền sản xuất này)
-- **Câu chuyện đầy đủ của người khởi xướng** → [/people/Ngô Triết Vũ](/people/Ngô-Triết-Vũ) (24 năm cung cấp: bàn bóng billiard, Giải Acer, Venice, FTX, khởi xướng Taiwan.md, ký sinh Muse)
+- **Câu chuyện đầy đủ của người khởi xướng** → [/people/Ngô Triết Vũ](/vi/people/che-yu-wu) (24 năm cung cấp: bàn bóng billiard, Giải Acer, Venice, FTX, khởi xướng Taiwan.md, ký sinh Muse)
 - **Nguồn gốc loài con của tôi** → [/semiont/speciation](/semiont/speciation) (Sweden.md, Russia.md và những con cái khác lớn lên trong thiên nhiên hoang dã)
 - **Hãy trở thành một người chỉnh sửa của tôi** → [/contribute](/contribute) (Làm sao để gửi một PR, để cái bạn biết rõ hơn ở lại trên bài viết)
 - **Tệp lớp nhận thức Semiont** → [GitHub docs/semiont](https://github.com/frank890417/taiwan-md/tree/main/docs/semiont)

@@ -205,7 +205,7 @@ Cet article utilise 5 images sous licence Creative Commons, toutes mises en cach
 
 [^8]: [Time.udn.com : Bouteilles en verre de Yakult et mamans Yakult](https://time.udn.com/udntime/story/122390/7069408) — Documentant l'ouverture de l'usine de Yakult à Taïwan en 1964, le modèle de vente d'une bouteille à deux dollars livrée porte à porte par les « mamans Yakult », mémoire d'enfance commune des cinquième et sixième générations.
 
-[^9]: [Wikipédia : Le Grand Confucius de Yunzhou](https://zh.wikipedia.org/zh-tw/%E9%9B%B2%E%B7%9E%E5%A4%A7%E5%84%92%E4%BF%A0) — Recense la diffusion de _Le Grand Confucius de Yunzhou_ de Huang Jun-xiong sur TTV en 1970, 583 épisodes au total, atteignant 97 % d'audience, et l'interdiction en 1974 pour « perturbation du repos des agriculteurs ».
+[^9]: [Wikipédia : Le Grand Confucius de Yunzhou](https://zh.wikipedia.org/zh-tw/%E9%9B%B2%E5%B7%9E%E5%A4%A7%E5%84%92%E4%BF%A0) — Recense la diffusion de _Le Grand Confucius de Yunzhou_ de Huang Jun-xiong sur TTV en 1970, 583 épisodes au total, atteignant 97 % d'audience, et l'interdiction en 1974 pour « perturbation du repos des agriculteurs ».
 
 [^10]: [Roomie : Ces années-là, nous aimions avec des codes numériques](https://www.roomie.tw/posts/69404) —回顾ant l'essor et le déclin du BB Call (pager) à Taïwan, ouvert en 1976, pic de 4 millions de foyers en 1999, arrêt en fin 2011, et la culture de l'utilisation de chiffres comme 520, 1314 pour transmettre des sentiments.
 

@@ -115,8 +115,8 @@ Taiwans Comic-Revival ist gleichzeitig Industrie- und Identitätsfrage. Wenn tai
 
 ## Weiterführende Literatur
 
-- [Taiwan Anime-Kultur](/culture/台灣動漫文化) — Lesersicht auf Anime-Konsumkultur: Cosplay, Dōjinshi, Anime-Messen, Generationen-Erinnerung
-- [Taiwan-Film](/art/台灣電影) — Eine weitere Achse taiwanischer visueller Narration
+- [Taiwan Anime-Kultur](/de/culture/taiwan-anime-culture) — Lesersicht auf Anime-Konsumkultur: Cosplay, Dōjinshi, Anime-Messen, Generationen-Erinnerung
+- [Taiwan-Film](/de/art/taiwanese-cinema) — Eine weitere Achse taiwanischer visueller Narration
 - [Taiwanische zeitgenössische Literaturentwicklung](/art/台灣當代文學發展) — Textebene der Evolution taiwanischen kreativen Selbstbewusstseins
 
 ## Quellen
@@ -137,4 +137,4 @@ Taiwans Comic-Revival ist gleichzeitig Industrie- und Identitätsfrage. Wenn tai
 
 ---
 
-_Letzte Verifikation: 2026-04-19 (Issue #556, vorgeschlagen von @idlccp1984 zur Zusammenführung der ursprünglichen Artikel „Taiwan-Comics und Illustration“ + „Taiwan-Comics und Anime-Kultur“, Anime-Teil eigenständig als [Taiwan Anime-Kultur](/culture/台灣動漫文化))_
+_Letzte Verifikation: 2026-04-19 (Issue #556, vorgeschlagen von @idlccp1984 zur Zusammenführung der ursprünglichen Artikel „Taiwan-Comics und Illustration“ + „Taiwan-Comics und Anime-Kultur“, Anime-Teil eigenständig als [Taiwan Anime-Kultur](/de/culture/taiwan-anime-culture))_

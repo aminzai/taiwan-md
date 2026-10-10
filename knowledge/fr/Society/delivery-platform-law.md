@@ -385,7 +385,7 @@ Le quatrième jour après l'entrée en vigueur, le Syndicat national de l'indust
 - [La culture des boissons secouées à la main de Taïwan](/fr/food/hand-shaken-drink-culture) — des échoppes de rue aux marques mondiales, et l'autre bout de la commission des plateformes
 - [PX Mart](/fr/economy/pxmart-supermarket) — le circuit de distribution local sur cette ligne de livraison de produits frais et d'épicerie
 - [L'affaire du benzopyrène et de la sécurité alimentaire](/fr/society/benzopyrene-food-safety-incident) — le mois même de l'entrée en vigueur de la loi spéciale, la boîte-repas livrée à la porte par le livreur se trouvait juste en aval de cette tempête de sécurité alimentaire
-- [Qui compte comme bas salaire](/society/誰算低薪) — la rémunération des livreurs a été inscrite dans la loi spéciale, mais aucune loi ne protège la prime de fin d'année : comment le bas salaire se déplace du salaire de base vers la case où aucune prime n'est versée
+- [Qui compte comme bas salaire](/fr/society/who-counts-as-low-wage) — la rémunération des livreurs a été inscrite dans la loi spéciale, mais aucune loi ne protège la prime de fin d'année : comment le bas salaire se déplace du salaire de base vers la case où aucune prime n'est versée
 
 ## Sources des images
 

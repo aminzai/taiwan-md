@@ -224,6 +224,7 @@ lifeTree:
 translatedFrom: 'People/唐鳳.md'
 sourceCommitSha: 'e75b621d2'
 sourceContentHash: 'sha256:1917aa69dfd8ab97'
+sourceBodyHash: 'sha256:223451ab2ee89544'
 translatedAt: '2026-09-22T06:37:45.226921+00:00'
 ---
 

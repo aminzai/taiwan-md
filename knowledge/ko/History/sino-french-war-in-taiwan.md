@@ -3,7 +3,7 @@ title: '청프랑스 전쟁: 지룽과 단수이의 여덟 달'
 description: '1884년 가을, 프랑스 함대가 지룽항을 포격하고 2천 명의 해병대가 상륙해 항구를 점령했다. 하지만 그들은 일곱 달 동안 지룽의 산자락을 벗어나지 못했다. 같은 주, 600명의 프랑스 수병이 단수이에 상륙했다가 두 시간 만에 바다로 쫓겨났다. 전쟁이 끝날 때 프랑스는 베트남을 얻었고 대만을 포기했다. 청나라는 하마터면 졌지만, 그 덕분에 대만은 부속 지역에서 독립 성(省)으로 승격됐다.'
 date: 2026-04-12
 category: History
-subcategory: 식민과 제국
+subcategory: '殖民與帝國'
 tags:
   - 청프랑스 전쟁
   - 지룽
@@ -154,7 +154,7 @@ lastHumanReview: false
 
 [^15]: [스토리스튜디오: 일기와 서신으로 역사 인물의 내면을 발굴하다](https://storystudio.tw/article/watch-Taiwan-NMTH/from-bottom-of-their-heart) — 영국 차 상인 도드(John Dodd) 1884년 12월 1일 일기. 대만역사박물관 '서仔반 인상기' 특별전에서 인용.
 
-[^16]: [Pescadores campaign (1885), Wikipedia](<https://en.wikipedia.org/wiki/Pescadores_campaign_(1885)>) — 1885년 3월 프랑스군 펑후 점령. 상륙 후 콜레라 발생, 3주 만에 15명 사망 20명 입원.
+[^16]: [Pescadores campaign (1885), Wikipedia](https://en.wikipedia.org/wiki/Pescadores_campaign_(1885) — 1885년 3월 프랑스군 펑후 점령. 상륙 후 콜레라 발생, 3주 만에 15명 사망 20명 입원.
 
 [^17]: [Amédée Courbet, Wikipedia](https://en.wikipedia.org/wiki/Am%C3%A9d%C3%A9e_Courbet) — 쿠르베 1885년 6월 11일 기함 바야르호에서 콜레라로 사망. 4월에 이미 심한 이질에 걸렸고, 6월 8일 부하 장례 후 급속히 악화.
 
@@ -168,7 +168,7 @@ lastHumanReview: false
 
 [^22]: [류밍촨, 위키백과](https://zh.wikipedia.org/wiki/%E5%8A%89%E9%8A%98%E5%82%B3) — 1885년 대만이 복건성에서 분리되어 대청제국 제20번째 성이 됨. 류밍촨이 초대 대만 순무로 임명, 재임 1885~1891.
 
-[^23]: [대만철로(청나라), 위키백과](<https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E9%90%B5%E8%B7%AF_(%E6%B8%85%E6%9C%9D)>) — 지룽~신주 철도 총연장 약 107km, 1887년 착공·1893년 전선 개통. 아울러 [천하잡지: 류밍촨의 근대화 대몽상](https://www.cw.com.tw/article/5026963) 참조.
+[^23]: [대만철로(청나라), 위키백과](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E9%90%B5%E8%B7%AF_(%E6%B8%85%E6%9C%9D) — 지룽~신주 철도 총연장 약 107km, 1887년 착공·1893년 전선 개통. 아울러 [천하잡지: 류밍촨의 근대화 대몽상](https://www.cw.com.tw/article/5026963) 참조.
 
 [^24]: [Taipei Times: Exhuming French History in Taiwan (2001)](https://www.taipeitimes.com/News/feat/archives/2001/11/15/111666) — 지룽 프랑스군 묘지 약 600명. 120명 전사, 150명 부상 순직, 나머지 질병 사망. 연구자 크리스토프 루일(Christophe Rouil)이 기념비의 700명 기록을 약 600명으로 수정. 아울러 [Atlas Obscura](https://www.atlasobscura.com/places/sino-french-war-memorial-park) 참조.
 

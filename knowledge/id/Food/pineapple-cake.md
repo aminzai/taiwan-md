@@ -12,7 +12,7 @@ tags:
     'Mountain Hot Valley',
     'Yan Xin Fa',
   ]
-subcategory: 'Baking dan Kue-Kuean'
+subcategory: '烘焙與甜點'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-24
@@ -68,7 +68,7 @@ Pada tahun 2006, Pemerintah Kota Taipei mengadakan 'Festival Budaya Kue Lapis Na
 ## Bacaan Lanjutan
 
 - [Budaya Kue Taiwan](/id/food/taiwan-pastry-culture) — Gena teknik kue dan makanan manis modern, lihat transformasi kue Taiwan bersama kue lapis nanas
-- [Mie Daging Sapi](/food/牛肉麵) — 'Batu emas' lainnya yang menentukan kenangan cita rasa Taiwan, berlawanan dengan kue lapis nanas
+- [Mie Daging Sapi](/id/food/beef-noodle-soup) — 'Batu emas' lainnya yang menentukan kenangan cita rasa Taiwan, berlawanan dengan kue lapis nanas
 - [Modernisasi Pertanian Taiwan](/economy/台灣農業現代化) — Dari krisis pasokan ke transformasi perusahaan pertanian, kue lapis nanas adalah bagian dari perjalanan panjang ini
 
 ## Daftar Pustaka

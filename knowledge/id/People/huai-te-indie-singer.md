@@ -241,6 +241,7 @@ lifeTree:
 translatedFrom: 'People/壞特.md'
 sourceCommitSha: 'dd39065b2'
 sourceContentHash: 'sha256:67d7cdf3a4bcd692'
+sourceBodyHash: 'sha256:f96db07a5b8f044c'
 translatedAt: '2026-09-25T21:58:04.330723+00:00'
 ---
 
@@ -489,7 +490,7 @@ Saat dia berkata ke penonton Anugerah Golden Melody "Tolong jangan takut", penon
 
 - [Musik Indie Taiwan](/id/music/indie-music-scene) — bedroom pop / lo-fi R&B dalam ekosistem kontemporer 2019-2020
 - [Perkembangan Hip-Hop dan Rap Taiwan](/id/music/taiwan-hip-hop-and-rap) — dukungan lintas genre dan penyelenggaraan She Vibes olehnya, perang misogini 2025 itu, dikembalikan ke konteks empat puluh tahun rap Taiwan
-- [Tien Fu-chen](/people/田馥甄) — pemenang Penyanyi Wanita Terbaik Golden Melody ke-32 edisi yang sama, dua ujung karir yang terpisah 19 edisi debut
+- [Tien Fu-chen](/id/people/hebe-tien-singer) — pemenang Penyanyi Wanita Terbaik Golden Melody ke-32 edisi yang sama, dua ujung karir yang terpisah 19 edisi debut
 - [Chen Chien-chi](/id/people/chen-chien-chi-music-producer) — jalur lain dalam garis keturunan produser musik pop Mandarin kontemporer
 
 ---
@@ -540,7 +541,7 @@ Saat dia berkata ke penonton Anugerah Golden Melody "Tolong jangan takut", penon
 
 [^25]: [Dari Mahasiswa Kedokteran, Pemenang Baru 金曲, Menjadi Penyanyi Indie — Wawancara HEAVEN RAVEN](https://www.heavenraven.com/2023/05/15/whyte-music-interview/) — Kutipan asli: 'Aku bahkan pernah mendengar lagu sendiri saat membantu dokter bedah di ruang operasi. Karena pada dasarnya di rumah sakit selalu memakai masker, saat magang setiap bulan juga berganti departemen'.
 
-[^26]: [田馥甄 — Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%94%B0%E9%A6%A5%E7%94%84) — 田馥甄 memenangkan Penyanyi Wanita Mandarin Terbaik Anugerah 金曲 ke-32 dengan 《無人知曉》; rujuk [artikel 田馥甄](/people/田馥甄).
+[^26]: [田馥甄 — Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%94%B0%E9%A6%A5%E7%94%84) — 田馥甄 memenangkan Penyanyi Wanita Mandarin Terbaik Anugerah 金曲 ke-32 dengan 《無人知曉》; rujuk [artikel 田馥甄](/id/people/hebe-tien-singer).
 
 [^27]: [Calon Dokter ?te壞特 Menang Emas Profesor UI Mengkritik — 噓星聞](https://stars.udn.com/star/story/10092/5694350) — ⚠️ Tautan kini 404; setelah memenangkan penghargaan 2021, internet sempat beredar tulisan yang ditandatangani profesor Fakultas Kedokteran UI dengan pertanyaan 'Apakah anda tenang jika dia yang mengoperasi?', sumber asli sudah tidak bisa dilacak. Pada audit ini diturunkan menjadi pernyataan umum 'muncul pertanyaan di internet', tidak lagi dikaitkan dengan identitas profesor tertentu.
 

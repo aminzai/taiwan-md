@@ -14,7 +14,7 @@ tags:
     géologie,
     culture du bien-être,
   ]
-subcategory: 'Médecine et bien-être'
+subcategory: '醫療與健保'
 author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false

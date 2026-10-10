@@ -4,7 +4,7 @@ description: '1990 के दशक में ताइवान को आव�
 date: 2026-07-28
 category: 'History'
 tags: ['पशु संरक्षण', 'सामाजिक आंदोलन', 'कानूनी विकास', 'ताइवान का इतिहास']
-subcategory: 'समाज और रोज़मर्रा का इतिहास'
+subcategory: '社會與日常史'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-28
@@ -14,6 +14,7 @@ curation: 'incubating'
 translatedFrom: 'History/動保.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:a68c51993d71e22a'
+sourceBodyHash: 'sha256:1acff297b5650550'
 translatedAt: '2026-08-04T15:24:41.301218+00:00'
 ---
 

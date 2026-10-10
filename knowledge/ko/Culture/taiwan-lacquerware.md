@@ -162,7 +162,7 @@ _타이위안 분국 숙사 칠기. 사진: 위키미디어 코먼즈, 저자 �
 
 - [타이완 전통 공예와 무형 문화유산](/ko/culture/traditional-crafts-intangible-cultural-heritage) — 칠 공예가 타이완 전통 공예 보존 제도에서 차지하는 위치.
 - [타이완 화포(花布)](/ko/culture/taiwan-floral-fabric) — 외부 도样, 산업 생산에서 지역 정체성 전환에 이르는 또 다른 사례.
-- [타이완 염업](/history/台灣鹽業) — 자연 자원, 산업화에서 문화 보존에 이르는 또 다른 타이완 재료사.
+- [타이완 염업](/ko/history/taiwan-salt-industry) — 자연 자원, 산업화에서 문화 보존에 이르는 또 다른 타이완 재료사.
 
 ## 참고 자료
 

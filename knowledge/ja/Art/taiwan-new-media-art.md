@@ -16,14 +16,14 @@ tags:
     'Generative Art',
     'C-LAB',
   ]
-subcategory: 'New Media and Digital Art'
+subcategory: '新媒體與數位藝術'
 author: 'Taiwan.md'
 category: 'Art'
 readingTime: 12
 lastVerified: 2026-04-04
 lastHumanReview: true
 translatedFrom: 'Art/台灣新媒體藝術.md'
-sourceCommitSha: 'ef8fab38'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:d196b7664449f36f'
 sourceBodyHash: 'sha256:3affa690cf7b66dc'
 translatedAt: '2026-06-12T16:38:55Z'
@@ -148,7 +148,7 @@ When the name of Yu Shien Yang appeared on the jury list for the 2025 Ars Electr
 
 - [Development of Contemporary Taiwanese Literature](/art/台灣當代文學發展) — The contemporary creative ecology of Taiwan that rose alongside new media art, understanding the overall context of the cultural circle
 - [Taiwan Theater and Performing Arts](/ja/art/taiwanese-theater-and-performing-arts) — The performing arts background of cross-disciplinary creators like Huang Yi, the intersection of body and technology
-- [Taiwan Cinema](/art/台灣電影) — Another thread of Taiwanese image art, sharing the film festival stage with new media art
+- [Taiwan Cinema](/ja/art/taiwanese-cinema) — Another thread of Taiwanese image art, sharing the film festival stage with new media art
 - [Open Source Communities and g0v](/ja/technology/open-source-and-g0v) — Another aspect of Taiwan's tech culture, the intersection of open-source spirit and the art circle
 - [History of the Taiwan Television Industry](/ja/technology/taiwan-television-industry-history) — The media evolution from radio/television to OTT, the institutional context of image technology
 - [justfont and the Development of Taiwanese Typography](/ja/technology/justfont-and-taiwan-typography) — Another group of creators at the intersection of design, technology, and cultural identity: the people who painstakingly restored Taiwan's characters stroke by stroke

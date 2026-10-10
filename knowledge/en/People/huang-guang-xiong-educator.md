@@ -97,6 +97,6 @@ In 2018, Huang Guang-xiong wrote a memorial tribute for Chen Bo-zhang, the decea
 
 [^9]: [Guang-xiong Reading Room (Graduate Institute of Education, National Chung Cheng University)](https://deptedu.ccu.edu.tw/p/405-1231-68628,c3763.php?Lang=zh-tw) — Preserving Huang Guang-xiong's biographical materials, research notes, and manuscript drafts, and his Western education history and philosophy collection.
 
-[^10]: [Huang Guang-xiong and Chou Shu-ching (1992). An analysis of the British national curriculum. _Bulletin of Educational Research_, 34, 181–201](<https://doi.org/10.6910/BER.199206_(34).0007>) — London research results, analyzing the British national curriculum under the Education Reform Act 1988.
+[^10]: [Huang Guang-xiong and Chou Shu-ching (1992). An analysis of the British national curriculum. _Bulletin of Educational Research_, 34, 181–201](https://doi.org/10.6910/BER.199206_(34) — London research results, analyzing the British national curriculum under the Education Reform Act 1988.
 
 [^11]: [Hsinchu City Cultural Bureau Education Collection](https://hccg.culture.tw/home/zh-tw/CCHM_edu/160695) — Includes Huang Guang-xiong's London research background, introduction of the hidden curriculum concept, and the context of his Western educational thought history research.

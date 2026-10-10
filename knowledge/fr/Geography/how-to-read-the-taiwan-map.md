@@ -18,7 +18,7 @@ tags:
     'territoire',
     'cartographie numérique',
   ]
-subcategory: 'Introduction à la géographie'
+subcategory: '地理概論'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-07
@@ -158,7 +158,7 @@ De la carte en vélin de Lopo Homem en 1554 au Google Maps de votre téléphone 
 
 [^11]: [Taiwan Strait — Wikipedia (EN)](https://en.wikipedia.org/wiki/Taiwan_Strait) — Origines de la ligne médiane du détroit en 1955, publication des coordonnées en 2019 et déni chinois.
 
-[^12]: [Air Defense Identification Zone (Taiwan) — Wikipedia (EN)](<https://en.wikipedia.org/wiki/Air_Defense_Identification_Zone_(Taiwan)>) — L'ADIZ taïwanaise tracée par les Américains en 1954, s'étendant au-dessus du territoire continental chinois, sans fondement en droit international.
+[^12]: [Air Defense Identification Zone (Taiwan) — Wikipedia (EN)](https://en.wikipedia.org/wiki/Air_Defense_Identification_Zone_(Taiwan) — L'ADIZ taïwanaise tracée par les Américains en 1954, s'étendant au-dessus du territoire continental chinois, sans fondement en droit international.
 
 [^13]: [Marine Regions — Overlapping claim Taiwan](https://www.marineregions.org/eezdetails.php?mrgid=8321) — Profondeur du plateau continental du détroit de Taïwan et chevauchements de zones économiques exclusives.
 

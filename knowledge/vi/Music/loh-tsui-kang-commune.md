@@ -16,7 +16,7 @@ tags:
     'Chó Thân Thiện',
     'Xã Hội Dưới Lòng Đất',
   ]
-subcategory: '独立与摇滚'
+subcategory: '獨立與搖滾'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-27

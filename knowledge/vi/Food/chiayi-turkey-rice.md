@@ -121,8 +121,8 @@ Quân đội Mỹ đến, gà đến. Ông lão Thái Anh Văn dùng nguyên li�
 
 ## Đọc thêm
 
-- [Văn hóa ẩm thực gia đình Đài Loan](/food/台灣手路菜) — Bối cảnh lịch sử văn hóa của các món ăn gia đình
-- [Văn hóa ẩm thực Đài Loan](/food/台灣辦桌文化) — Một truyền thống ẩm thực khác từ lớp lới phổ thông
+- [Văn hóa ẩm thực gia đình Đài Loan](/vi/food/taiwan-specialty-home-cooking) — Bối cảnh lịch sử văn hóa của các món ăn gia đình
+- [Văn hóa ẩm thực Đài Loan](/vi/food/taiwan-banquet-culture) — Một truyền thống ẩm thực khác từ lớp lới phổ thông
 
 ---
 

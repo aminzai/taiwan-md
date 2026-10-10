@@ -115,7 +115,7 @@ Manusia di pulau terus berjalan.
 - [Zaman Prasejarah dan Penduduk Asli](/id/history/prehistoric-era-and-indigenous-peoples) — Taiwan enam ribu tahun sebelum "penemuan" Eropa, budaya Dapenkeng dan tanah asal Austronesia
 - [Era Belanda–Spanyol–Koxinga](/id/history/dutch-spanish-and-koxinga-era) — 38 tahun kolonisator Eropa pertama di Taiwan, etnografi Candidius mulai dari sini
 - [Robert Swinhoe](/id/people/robert-swinhoe-naturalist) — Tipe pengamat Barat abad ke-19: memandang Taiwan dengan mata sains, meninggalkan catatan lebih abadi dari karir diplomatiknya
-- [Museum Sejarah Nasional Taiwan](/society/國立臺灣歷史博物館) — NMTH 2014 menerbitkan terjemahan edisi asli Davidson 1903 _The Island of Formosa, Past and Present_ (terjemahan dan anotasi Chen Zheng-san), instantiasi institusional konkret dari "dari ditulis ke menulis sendiri"
+- [Museum Sejarah Nasional Taiwan](/id/society/national-museum-of-taiwan-history) — NMTH 2014 menerbitkan terjemahan edisi asli Davidson 1903 _The Island of Formosa, Past and Present_ (terjemahan dan anotasi Chen Zheng-san), instantiasi institusional konkret dari "dari ditulis ke menulis sendiri"
 
 ## Referensi
 

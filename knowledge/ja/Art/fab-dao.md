@@ -23,6 +23,7 @@ curation: 'incubating'
 translatedFrom: 'Art/FAB DAO與百岳計畫.md'
 sourceCommitSha: '9094012f4'
 sourceContentHash: 'sha256:c241c1c3a25d07fa'
+sourceBodyHash: 'sha256:7b9ca7167bf3d12a'
 translatedAt: '2026-09-09T14:04:54.603291+00:00'
 ---
 
@@ -103,7 +104,7 @@ FAB DAO と百岳プロジェクトの最も深い貢献は、おそらく価値
 - [台湾のニュー・メディア・アート](/ja/art/taiwan-new-media-art) — ビデオアートからジェネラティブアートまで、FAB DAO が位置する台湾のニュー・メディア・アートの文脈
 - [台湾の現代美術](/ja/art/contemporary-art) — 台湾の現代美術エコシステムにおけるブロックチェーンアートの位置づけ
 
-## 參考資料
+## 参考資料
 
 1. FAB DAO 公式サイト: https://fabdao.world/
 2. FAB DAO GitBook ホワイトペーパー: https://fab-dao.gitbook.io/fab-dao

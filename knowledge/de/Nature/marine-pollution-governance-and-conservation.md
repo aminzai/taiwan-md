@@ -583,7 +583,7 @@ Der Kern des Meeresschutzes ist die Generationengerechtigkeit: Die heutigen Ents
 
 **Weiterführende Lektüre**:
 
-- [Klimakrise und Netto-Null-Transformation in Taiwan](/nature/台灣氣候危機與淨零轉型) — Korallenbleiche am Auslass von Kernkraftwerk Nr. 3, Fischereikonflikte mit Windparks, Umweltkontroverse um die drei „Algenriffe“: Wie der Klimawandel das maritime Governance-Szenario neu gestaltet
+- [Klimakrise und Netto-Null-Transformation in Taiwan](/de/nature/taiwan-climate-change-net-zero-transition) — Korallenbleiche am Auslass von Kernkraftwerk Nr. 3, Fischereikonflikte mit Windparks, Umweltkontroverse um die drei „Algenriffe“: Wie der Klimawandel das maritime Governance-Szenario neu gestaltet
 
 ## Referenzen
 

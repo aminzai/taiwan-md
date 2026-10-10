@@ -38,6 +38,7 @@ relatedDiary: ['2026-07-14-193334-manual']
 translatedFrom: 'Society/台北吸菸室.md'
 sourceCommitSha: '1929e495a'
 sourceContentHash: 'sha256:da418b1ee825bfe1'
+sourceBodyHash: 'sha256:9688d39de8d42815'
 translatedAt: '2026-09-24T03:35:59.107242+00:00'
 ---
 
@@ -212,7 +213,7 @@ Rauchen ist nie wirklich verschwunden. Es wechselte vom Aschenbecher im Büro zu
 
 **Weiterführende Lektüre**:
 
-- [Ximending](/geography/西門町) — Dieses erste Außen-Unterdruck-Rauchzimmer in ganz Taiwan steht auf der Straße am Ausgang der Ximen-U-Bahn; wie ein Geschäftsviertel, das aus einem japanischen Vergnügungsgebiet entstanden ist, zu einer Testumgebung für neue Politik wurde
+- [Ximending](/de/geography/ximending) — Dieses erste Außen-Unterdruck-Rauchzimmer in ganz Taiwan steht auf der Straße am Ausgang der Ximen-U-Bahn; wie ein Geschäftsviertel, das aus einem japanischen Vergnügungsgebiet entstanden ist, zu einer Testumgebung für neue Politik wurde
 - [Taiwanisches öffentliches Gesundheits- und Präventionssystem](/de/society/taiwan-public-health-epidemic-response) — Tabakschutz ist Teil des öffentlichen Gesundheitskampfes in Taiwan und teilt die Logik der „kollektiven Gesundheit geht vor“ mit dem Präventionssystem
 - [Taiwanische Umweltgerechtigkeit und NIMBY-Streitigkeiten](/de/society/taiwan-environmental-justice-nimby-conflicts) — Wo soll ein Raucherraum stehen, vor wessen Tür? Werden Obdachlose sich dort versammeln? Im Grunde ist es eine städtische NIMBY-Frage (Not In My Backyard).
 - [Periode der Kriegsrechtsherrschaft](/de/history/martial-law-era) — Die Ära, in der Tabakmarktanteile bei 70 % lagen und die staatliche Verkaufsstelle Alkohol monopolisierte, bildet den historischen Hintergrund, in dem der Staat das Alltägliche kontrollierte.

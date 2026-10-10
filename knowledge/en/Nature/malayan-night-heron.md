@@ -11,7 +11,7 @@ tags:
     'big dumb bird',
     'citizen science',
   ]
-subcategory: 'Wildlife'
+subcategory: '野生動物'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-30
@@ -127,7 +127,7 @@ So, the next time you see one standing motionless along Coconut Grove Avenue, re
 * [Taiwan Forest Ecosystems](/en/nature/taiwan-forest-ecosystems) — The original low-altitude broadleaf forest habitat of the Malayan Night Heron; understanding its urbanized counterpart.
 * [Formosan Rock Macaque](/en/nature/formosan-rock-macaque) — Another case of wildlife entering human activity zones, though in reverse to the Malayan Night Heron's expansion: humans are constantly encountering them on the road.
 * [Endemic Species](/en/nature/endemic-species) — While the Malayan Night Heron is not endemic to Taiwan, the scale of its urban population expansion in Taiwan is unique globally.
-* [Street Trees in Taiwan](/lifestyle/台灣行道樹) — The mature camphor and banyan street tree populations established since the 1990s—strips of low-altitude broadleaf forest laid out amidst the concrete—represent the other side of the Malayan Night Heron's urban habitat.
+* [Street Trees in Taiwan](/en/lifestyle/taiwan-street-trees) — The mature camphor and banyan street tree populations established since the 1990s—strips of low-altitude broadleaf forest laid out amidst the concrete—represent the other side of the Malayan Night Heron's urban habitat.
 
 ## Image Credits
 

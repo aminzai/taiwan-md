@@ -126,8 +126,8 @@ Dù đứng ở đâu, rất ít người phủ nhận sự thống nhất của
 
 **Đọc thêm**:
 
-- [Bản đồ phân tích chủ quyền Đài Loan](/society/台灣統獨光譜) — Định vị quan điểm độc lập của Thái Minh trong bản đồ chính trị Đài Loan.
-- [Sự kiện Hai Hai Bát](/history/二二八事件) — Bệnh lý lịch sử khiến Thái Minh thành lập quân vũ khí phản kháng.
+- [Bản đồ phân tích chủ quyền Đài Loan](/vi/society/taiwan-unification-independence-spectrum) — Định vị quan điểm độc lập của Thái Minh trong bản đồ chính trị Đài Loan.
+- [Sự kiện Hai Hai Bát](/vi/history/228-incident) — Bệnh lý lịch sử khiến Thái Minh thành lập quân vũ khí phản kháng.
 - [Hối áo đen Đài Loan](/vi/history/taiwan-white-terror) — Bối cảnh lịch sử vụ án "Hiệp hội độc lập Đài Loan" và thời kỳ tị nạn của Thái Minh.
 
 ## Nguồn hình ảnh

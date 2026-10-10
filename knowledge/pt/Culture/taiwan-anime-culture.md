@@ -102,7 +102,7 @@ Juntos, os dois eixos compõem a imagem completa do ecossistema de anime e mang�
 ## Leitura complementar
 
 - [Quadrinhos de Taiwan](/pt/art/taiwanese-comics-and-illustration) — Lado da criação de quadrinhos: genealogia completa de Zheng Wen, Cai Zhizhong, Liu Xingqin, Ao Youxiang, coletivo criativo CCC
-- [História da migração das comunidades de rede de Taiwan](/technology/台灣網路社群遷徙史) — Eixo de migração dos fãs de anime no BBS, Wretch, Facebook, Discord
+- [História da migração das comunidades de rede de Taiwan](/pt/technology/taiwan-online-community-migration) — Eixo de migração dos fãs de anime no BBS, Wretch, Facebook, Discord
 - [Threads em Taiwan](/pt/technology/threads-in-taiwan) — Padrão de agregação da comunidade bidimensional na nova plataforma
 
 ## Referências

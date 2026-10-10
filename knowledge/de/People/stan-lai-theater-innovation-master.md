@@ -117,4 +117,4 @@ Stan Lai wurde **zweimal mit dem nationalen Kulturpreis ausgezeichnet**, wobei d
 ## Weiterführende Literatur
 
 - [Performing Arts Workshop](http://www.pw-theatre.com/) — Offizielle Website der von Stan Lai gegründeten Theatergruppe, einschließlich historischer Werke und Ticketinformationen
-- [„Dark Love in the Peach Blossom Land“](/people/賴聲川) — Klassisches Werk des chinesischsprachigen Theaters
+- [„Dark Love in the Peach Blossom Land“](/de/people/stan-lai-theater-innovation-master) — Klassisches Werk des chinesischsprachigen Theaters

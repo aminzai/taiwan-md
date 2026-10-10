@@ -3,7 +3,7 @@ title: 'पहली बार राष्ट्रपति प्रत्य
 description: '1996 में ताइवान ने पहली बार नागरिकों द्वारा प्रत्यक्ष राष्ट्रपति चुनाव किया, जब व्यवस्था सुधार, वाइल्ड लिली छात्र आंदोलन और ताइवान जलडमरूमध्य सैन्य संकट एक ही मतपत्र पर मिले, और लोकतंत्र इस प्रकार मतदान दिवस से परे व्यवस्थागत जीवन में प्रवेश किया।'
 date: 2026-08-15
 category: 'Politics'
-subcategory: 'चुनाव प्रणाली'
+subcategory: '選舉制度'
 tags:
   [
     'राष्ट्रपति प्रत्यक्ष चुनाव',
@@ -21,6 +21,7 @@ curation: 'incubating'
 translatedFrom: 'Politics/第一次總統直選.md'
 sourceCommitSha: '0cbc25416'
 sourceContentHash: 'sha256:f6ec890028398bdc'
+sourceBodyHash: 'sha256:7f3db8811cfb9799'
 translatedAt: '2026-09-12T01:02:31.609381+00:00'
 ---
 

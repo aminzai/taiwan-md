@@ -16,7 +16,7 @@ tags:
     जलवायु परिवर्तन,
     समुद्री विज्ञान,
   ]
-subcategory: 'वन्यजीव'
+subcategory: '野生動物'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23

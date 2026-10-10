@@ -224,7 +224,7 @@ translatedAt: 2026-06-12T03:51:13+08:00
 
 [^7]: [차이잉원: 내가 총통인 하루, 누구도 자신의 정체성을 위해 사과할 필요 없다 - 자유시보 2016 대선 특집](https://election.ltn.com.tw/2016/news/breakingnews/1575237) — 자유전자보 2016년 총통 입법의원 선거 특집. 차이잉원 당선 연설 전문 및 쯔위 사건에 대한 그녀의 직접적 응답 단락 수록.
 
-[^8]: [Teen pop star Chou Tzu-yu's apology for waving Taiwan flag swayed young voters for DPP - South China Morning Post](https://www.scmp.com/news/china/policies-politics/article/1902195/teen-pop-star-chou-tzuyus-apology-waving-taiwan-flag) — 사우스차이나모닝포스트 2016년 보도. 여론조사 수치 134만 명의 젊은 유권자가 사건으로 투표 결정을 바꿨다는 국제 매체 1차 분석.
+[^8]: [Teen pop star Chou Tzu-yu's apology for waving Taiwan flag swayed young voters for DPP - South China Morning Post](https://www.scmp.com/news/china/policies-politics/article/1902195/teen-pop-star-chou-tzu-yus-apology-waving-taiwan-flag) — 사우스차이나모닝포스트 2016년 보도. 여론조사 수치 134만 명의 젊은 유권자가 사건으로 투표 결정을 바꿨다는 국제 매체 1차 분석.
 
 [^9]: [쯔위 사건, 잘못된 우연인가 정치적 음모인가? - 자유평론망](https://talk.ltn.com.tw/article/breakingnews/1579972) — 자유평론망 2016년 정치 분석 기사. 정대(政大) 판스핑이 사과 영상이 2016년 대선에 "직접적이고 거대한 영향"을 미쳤다는 학술적 판단 인용.
 

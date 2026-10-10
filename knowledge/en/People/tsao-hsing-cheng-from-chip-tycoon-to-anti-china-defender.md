@@ -70,7 +70,7 @@ Today, Chang Hsin-cheng remains that same unpredictable strategist. He has trans
 **Further Reading**:
 
 - [Morris Chang](/en/people/tsmc-morris-chang) — The other party in the foundry originality dispute; both had their own versions of "who thought of this model first."
-- [K Landis (Huang Chung-jen)](/people/黃崇仁) — In the late 1990s, UMC intended to bring VISiCorp into its camp, which prompted his trip to seek help from Morris Chang.
+- [K Landis (Huang Chung-jen)](/en/people/frank-huang-psmc) — In the late 1990s, UMC intended to bring VISiCorp into its camp, which prompted his trip to seek help from Morris Chang.
 - [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry)— The entire industrial battlefield where the UMC and TSMC rivalry takes place.
 
 ---

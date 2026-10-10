@@ -184,14 +184,14 @@ Schreiben bis zur letzten Woche. Schreiben bis die **jüngste Tochter** zurückk
 
 📝 **Kuratorische Anmerkung:** Die National Arts Foundation schrieb 2012 in der Begründung für die 16. Nationale Kunstmedaille[^37]: „60 Jahre ununterbrochene Schöpfung mit exzellenten und kumulativen Errungenschaften; Pionier- und Originalleistungen in der Kinderliteratur. Die Sprache ist frei und lebendig, die Arbeiten weben die einzigartige Ästhetik der flachen Sprache zusammen und schaffen einen harmonischen und herzlichen künstlerischen Stil." Dieser Text liest sich, als würde er Lin Liang gelten, und zugleich die gesamte Zeit, in der die taiwanesische Kinderliteratur nach dem Krieg aus dem Nichts entstand.
 
-## 參考資料
+## Referenzen
 
 **Related Reading:**
 
-- [Taiwanische Nachkriegsliteratur](/art/戰後台灣文學) — Der größere historische Kontext der Generation Lin Liangs, „Auswanderer, die nach der Übernahme der Insel begannen, für Kinder zu schreiben"
-- [Taiwanische Literatur nach der Aufhebung des Kriegsrechts](/art/解嚴後台灣文學) — In diesem Zeitraum bezeugte und beteiligte sich Lin Liang an der Transformation der Kinderliteratur von Rand zu Mainstream
-- [Literatur der japanischen Kolonialzeit](/art/日治時期文學) — Der taiwanesische literarische Kontext vor Lin Liangs Ankunft; ein historischer Kontrast zur Rolle des „Sprachstandard-Verbreitungsbeamten"
-- [Taiwanesische Literaturgeschichte](/art/台灣文學史) — Kinderliteratur als ein Zweig der taiwanesischen Nachkriegsliteratur; Lin Liang als Gründer
+- [Taiwanische Nachkriegsliteratur](/de/art/postwar-taiwanese-literature) — Der größere historische Kontext der Generation Lin Liangs, „Auswanderer, die nach der Übernahme der Insel begannen, für Kinder zu schreiben"
+- [Taiwanische Literatur nach der Aufhebung des Kriegsrechts](/de/art/post-martial-law-taiwanese-literature) — In diesem Zeitraum bezeugte und beteiligte sich Lin Liang an der Transformation der Kinderliteratur von Rand zu Mainstream
+- [Literatur der japanischen Kolonialzeit](/de/art/taiwanese-literature-during-japanese-rule) — Der taiwanesische literarische Kontext vor Lin Liangs Ankunft; ein historischer Kontrast zur Rolle des „Sprachstandard-Verbreitungsbeamten"
+- [Taiwanesische Literaturgeschichte](/de/art/history-of-taiwanese-literature) — Kinderliteratur als ein Zweig der taiwanesischen Nachkriegsliteratur; Lin Liang als Gründer
 
 [^1]: [Huaxia Jingwei — Lin Liang: Die ewige kleine Sonne](https://big5.huaxia.com/c/2021/01/04/500332.shtml) — Eine ausführliche Erzählung aus chinesischer Perspektive über Lin Liangs Kindheit und Flucht während des Krieges; enthält ein konkretes Szenario von Lin Mu-jens Tod beim Rettungsversuch eines Ertrinkenden am Jangtsekiang in Zhangzhou – das detaillierteste öffentlich verfügbare Narrativ über diesen Zeitraum.
 

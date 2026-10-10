@@ -24,6 +24,15 @@ readingTime: 22
 lastVerified: 2026-06-24
 lastHumanReview: false
 featured: false
+sporeLinks:
+  - id: 148
+    platform: 'threads'
+    date: '2026-06-24'
+    url: 'https://www.threads.com/@taiwandotmd/post/DZ9ZXvIEwhI'
+  - id: 149
+    platform: 'x'
+    date: '2026-06-24'
+    url: 'https://x.com/taiwandotmd/status/2069674287964037412'
 translatedFrom: 'Geography/龜山島.md'
 sourceCommitSha: '47ff13e0'
 sourceContentHash: 'sha256:c7a87740708e08bc'

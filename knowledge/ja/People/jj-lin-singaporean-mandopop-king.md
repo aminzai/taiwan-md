@@ -10,7 +10,7 @@ tags:
   - 'シンガポール'
   - 'ポップミュージック'
   - '金曲賞'
-subcategory: '音楽'
+subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-08

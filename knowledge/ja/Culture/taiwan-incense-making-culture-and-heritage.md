@@ -4,7 +4,7 @@ description: '嘉義の雲霄コミュニティに伝わる百年の香脚技術
 date: 2026-03-18
 author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '工藝と美学'
+subcategory: '工藝與美學'
 tags: ['製香', '伝統工芸', '宗教文化', '嘉義', '香脚', '民間信仰']
 readingTime: 10
 lastVerified: 2026-03-19

@@ -242,7 +242,7 @@ Personne n'avait planifié une transition de cette ampleur. Pourtant, lors de la
 - [Transformation industrielle de Taïwan](/fr/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC est l'exemple concret du passage de Taïwan d'une île de sous-traitance à une île technologique.
 - [Shi Zhenrong](/fr/people/stan-shih) — Fondateur d'Acer, administrateur de TSMC pendant 21 ans, dont la fortune était massivement investie dans les actions de TSMC, mais qui est l'auteur de la courbe en "J" prônant que Taïwan ne doit pas se contenter de la sous-traitance.
 - [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — De la technologie RCA à la révolution des matériaux (nitrure de gallium et packaging quantique), le champ de bataille de la science des matériaux où se situe TSMC.
-- [Hung Jui-ren](/people/黃崇仁) — Fondateur de VISiLeap/Vanguard, une autre voie sur la même île : fabrication de plaquettes, ayant connu des dettes massives avant de revenir en bourse neuf ans plus tard.
+- [Hung Jui-ren](/fr/people/frank-huang-psmc) — Fondateur de VISiLeap/Vanguard, une autre voie sur la même île : fabrication de plaquettes, ayant connu des dettes massives avant de revenir en bourse neuf ans plus tard.
 
 ## Sources des images
 
@@ -277,44 +277,44 @@ Cet article utilise 2 images, toutes mises en cache dans `public/article-images/
 
 [^12]: [商業周刊書摘：揭秘台積電創立起源 — 張忠謀我和命運有約](https://www.businessweekly.com.tw/business/blog/3017310) — Extraits de l'autobiographie de Morris Chang (Business Weekly, nov. 2024), relatant la proposition du « Common Wafer Fab » le 04-09-1985 au bureau de Li Kuo-ting, la structure du capital en 1987 (Philips 27,5 % / Exécutif 48,3 % / Wang 5 %) et les devises « Ne pas faire de promesses faciles » et « Ne pas concurrencer les clients ».
 
-[^13]: [今周刊：張忠謀 16 年前為何重掌台積電 CEO](https://www.businesstoday.com.tw/article/category/183015/post/202502030032/) — Reportage approfondi de _Next Magazine_ (fév. 2025), détaillant le licenciement de 840 employés par Tsai Li-hsing en 2009, l'histoire du lait de soja devant la maison de Morris Chang, et le remplacement en moins de dix minutes lors du conseil du 11 juin, ainsi que le principe de « ne pas licencrer ».
+[^13]: [今周刊：張忠謀 16 年前為何重掌台積電 CEO](https://www.businessweekly.com.tw/business/blog/3017310) — Reportage approfondi de _Next Magazine_ (fév. 2025), détaillant le licenciement de 840 employés par Tsai Li-hsing en 2009, l'histoire du lait de soja devant la maison de Morris Chang, et le remplacement en moins de dix minutes lors du conseil du 11 juin, ainsi que le principe de « ne pas licencrer ».
 
-[^14]: [Wikipedia: Morris Chang](https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80) — Article Wikipédia sur Morris Chang, détaillant sa naissance à Ningbo en 1931, ses déplacements dans six villes avant l'âge de 18 ans, ses dix écoles et son départ pour les États-Unis en 1949.
+[^14]: [Wikipedia: Morris Chang](https://www.businesstoday.com.tw/article/category/183015/post/202502030032/) — Article Wikipédia sur Morris Chang, détaillant sa naissance à Ningbo en 1931, ses déplacements dans six villes avant l'âge de 18 ans, ses dix écoles et son départ pour les États-Unis en 1949.
 
-[^15]: [Wikipedia: TSMC](https://en.wikipedia.org/wiki/TSMC) — Article principal sur TSMC, détaillant la chronologie : Fab 5 (8 pouces) en oct. 1997, début de Fab 12 (12 pouces) en déc. 1999 et production en 2002.
+[^15]: [Wikipedia: TSMC](https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80) — Article principal sur TSMC, détaillant la chronologie : Fab 5 (8 pouces) en oct. 1997, début de Fab 12 (12 pouces) en déc. 1999 et production en 2002.
 
 [^16]: [9to5Mac: iPhone 6 chipworks teardown reveals TSMC A8](https://9to5mac.com/2014/09/19/chipworks-iphone-6-tsmc/) — Analyse technique internationale du 19-09-2014, indiquant que le processeur Apple A8 de l'iPhone 6/6 Plus est fabriqué par TSMC en 20 nm, remplaçant Samsung.
 
-[^17]: [ETtoday：賴清德私訪張忠謀魏哲家林全 預備 1000 億宣布](https://www.ettoday.net/news/20250304/2919347.htm) — Reportage de presse chinoise de mars 2025, indiquant la visite privée de Lai Ching-te à Morris Chang, Wei Jھی-jia et Lin Chuan en février 2025 pour préparer l'annonce des 100 milliards.
+[^17]: [ETtoday：賴清德私訪張忠謀魏哲家林全 預備 1000 億宣布](https://en.wikipedia.org/wiki/TSMC) — Reportage de presse chinoise de mars 2025, indiquant la visite privée de Lai Ching-te à Morris Chang, Wei Jھی-jia et Lin Chuan en février 2025 pour préparer l'annonce des 100 milliards.
 
-[^18]: [鏡週刊：為台積電擴廠獵地竹科強徵百年墓園](https://www.mirrormedia.mg/story/20220628soc005) — Reportage approfondi de _Mirror Media_ (juin 2022), détaillant l'expropriation de 270 000 pyongs à Baoshan pour l'usine de 2 nm, incluant le cimetière de la famille Zheng (construit en 1844), les sondages non autorisés par TSMC et les propos du conseiller Chiu Chen-wei sur « l'extermination du village d'Oosaki ».
+[^18]: [鏡週刊：為台積電擴廠獵地竹科強徵百年墓園](https://9to5mac.com/2014/09/19/chipworks-iphone-6-tsmc/) — Reportage approfondi de _Mirror Media_ (juin 2022), détaillant l'expropriation de 270 000 pyongs à Baoshan pour l'usine de 2 nm, incluant le cimetière de la famille Zheng (construit en 1844), les sondages non autorisés par TSMC et les propos du conseiller Chiu Chen-wei sur « l'extermination du village d'Oosaki ».
 
-[^19]: [遠見雜誌：64% 憂矽盾正崩解](https://www.gvm.com.tw/article/120066) — Sondage de _Vista Magazine_ (2025), indiquant que 64 % des Taïwanais craignent un affaiblissement du bouclier de silicium, tandis que 27,1 % pensent renforcer les relations Taïwan-USA.
+[^19]: [遠見雜誌：64% 憂矽盾正崩解](https://www.ettoday.net/news/20250304/2919347.htm) — Sondage de _Vista Magazine_ (2025), indiquant que 64 % des Taïwanais craignent un affaiblissement du bouclier de silicium, tandis que 27,1 % pensent renforcer les relations Taïwan-USA.
 
-[^20]: [數位時代：台積電水車對抗 56 年來最大水荒](https://www.bnext.com.tw/article/61637/taiwan-2021-drought-mooly) — Reportage technologique chinois de 2021, détaillant le coût du transport d'eau par camion (15 000 TWD le trajet) et les coûts des conduites d'eau recyclée à Baoshan.
+[^20]: [數位時代：台積電水車對抗 56 年來最大水荒](https://www.mirrormedia.mg/story/20220628soc005) — Reportage technologique chinois de 2021, détaillant le coût du transport d'eau par camion (15 000 TWD le trajet) et les coûts des conduites d'eau recyclée à Baoshan.
 
-[^21]: [New York Times: Taiwan's Drought Pits Chip Makers Against Farmers](https://www.nytimes.com/2021/04/08/technology/taiwan-drought-tsmc-semiconductors.html) — Reportage du NYT (08-04-2021) sur la sécheresse de 2021, l'arrêt de l'irrigation des rizières par le gouvernement et l'opposition entre fabricants de puces et agriculteurs.
+[^21]: [New York Times: Taiwan's Drought Pits Chip Makers Against Farmers](https://www.gvm.com.tw/article/120066) — Reportage du NYT (08-04-2021) sur la sécheresse de 2021, l'arrêt de l'irrigation des rizières par le gouvernement et l'opposition entre fabricants de puces et agriculteurs.
 
-[^22]: [Foreign Policy: Climate Planning Could Doom TSMC Arizona Expansion](https://foreignpolicy.com/2023/08/04/tsmc-taiwan-arizona-semiconductors-climate-canada-labor-water/) — Analyse de _Foreign Policy_ (août 2023), indiquant une consommation d'eau de 150 000 tonnes par jour pour une usine avancée, représentant 7 % de la consommation électrique de Taïwan, et une hausse de 70 % de la consommation d'eau entre 2015 et 2019.
+[^22]: [Foreign Policy: Climate Planning Could Doom TSMC Arizona Expansion](https://www.bnext.com.tw/article/61637/taiwan-2021-drought-mooly) — Analyse de _Foreign Policy_ (août 2023), indiquant une consommation d'eau de 150 000 tonnes par jour pour une usine avancée, représentant 7 % de la consommation électrique de Taïwan, et une hausse de 70 % de la consommation d'eau entre 2015 et 2019.
 
-[^23]: [鏡週刊：限水減產危機 — 台積電面臨減產？](https://www.mirrormedia.mg/story/20210412fin003) — Reportage de _Mirror Media_ (avril 2021), citant l'ancien directeur du parc de Hsinchu, Li Chieh-mu : « Transporter l'eau par camion, c'est comme essayer d'éteindre un incendie avec un verre d'eau ».
+[^23]: [鏡週刊：限水減產危機 — 台積電面臨減產？](https://www.nytimes.com/2021/04/08/technology/taiwan-drought-tsmc-semiconductors.html) — Reportage de _Mirror Media_ (avril 2021), citant l'ancien directeur du parc de Hsinchu, Li Chieh-mu : « Transporter l'eau par camion, c'est comme essayer d'éteindre un incendie avec un verre d'eau ».
 
-[^24]: [MIT Technology Review: Taiwan's silicon shield could be weakening](https://www.technologyreview.com/2025/08/15/1121358/taiwan-silicon-shield-tsmc-china-chip-manufacturing/) — Analyse de la _MIT Tech Review_ (août 2025) sur l'affaiblissement du bouclier de silicium, citant Rupert Hammond-Chambers : « Parce que TSMC est désormais l'entreprise la plus identifiable de Taïwan, elle est intégrée au concept même de souveraineté taïwanaise ».
+[^24]: [MIT Technology Review: Taiwan's silicon shield could be weakening](https://foreignpolicy.com/2023/08/04/tsmc-taiwan-arizona-semiconductors-climate-canada-labor-water/) — Analyse de la _MIT Tech Review_ (août 2025) sur l'affaiblissement du bouclier de silicium, citant Rupert Hammond-Chambers : « Parce que TSMC est désormais l'entreprise la plus identifiable de Taïwan, elle est intégrée au concept même de souveraineté taïwanaise ».
 
-[^25]: [商業周刊：張忠謀 — 我已實現心中認定的成功](https://www.businessweekly.com.tw/business/blog/3015159) — Entretien avec Morris Chang (Business Weekly), citant ses propos sur l'accomplissement de sa réussite et son sentiment d'être « un vieux soldat qui s'étiole ».
+[^25]: [商業周刊：張忠謀 — 我已實現心中認定的成功](https://www.mirrormedia.mg/story/20210412fin003) — Entretien avec Morris Chang (Business Weekly), citant ses propos sur l'accomplissement de sa réussite et son sentiment d'être « un vieux soldat qui s'étiole ».
 
-[^26]: [今周刊：張忠謀 56 歲創立台積電時在想啥？](https://www.businesstoday.com.tw/article/category/183015/post/202303160037/) — Entretien avec Morris Chang (Next Magazine, mars 2023), relatant ses propos sur la difficulté des premières années de TSMC et sa volonté de « simplement survivre ».
+[^26]: [今周刊：張忠謀 56 歲創立台積電時在想啥？](https://www.technologyreview.com/2025/08/15/1121358/taiwan-silicon-shield-tsmc-china-chip-manufacturing/) — Entretien avec Morris Chang (Next Magazine, mars 2023), relatant ses propos sur la difficulté des premières années de TSMC et sa volonté de « simplement survivre ».
 
-[^27]: [Taipei Times: $100B deal sparks debate](https://www.taipeitimes.com/News/taiwan/archives/2025/03/09/2003833130) — Article du _Taipei Times_ (09-03-2025), citant le député du KMT Ko Chih-en sur l'impact géopolitique de la production de TSMC aux États-Unis.
+[^27]: [Taipei Times: $100B deal sparks debate](https://www.businessweekly.com.tw/business/blog/3015159) — Article du _Taipei Times_ (09-03-2025), citant le député du KMT Ko Chih-en sur l'impact géopolitique de la production de TSMC aux États-Unis.
 
-[^28]: [Foreign Policy: Lai Administration Has Rocky Relationship With Chip Giant TSMC](https://foreignpolicy.com/2025/11/03/taiwan-silicon-shield-tsmc-semiconductor-chips/) — Analyse de _Foreign Policy_ (03-11-2025) sur les tensions entre l'administration Lai et TSMC.
+[^28]: [Foreign Policy: Lai Administration Has Rocky Relationship With Chip Giant TSMC](https://www.businesstoday.com.tw/article/category/183015/post/202303160037/) — Analyse de _Foreign Policy_ (03-11-2025) sur les tensions entre l'administration Lai et TSMC.
 
-[^29]: [中央社：張忠謀 — 全球化已死世界貿易已死台積電兵家必爭](https://www.cna.com.tw/news/afe/202410260040.aspx) — Reportage de la CNA (26-10-2024) sur le discours de Morris Chang lors des Jeux Sportifs de TSMC, annonçant la « mort de la mondialisation » et du « libre-échange ».
+[^29]: [中央社：張忠謀 — 全球化已死世界貿易已死台積電兵家必爭](https://www.taipeitimes.com/News/taiwan/archives/2025/03/09/2003833130) — Reportage de la CNA (26-10-2024) sur le discours de Morris Chang lors des Jeux Sportifs de TSMC, annonçant la « mort de la mondialisation » et du « libre-échange ».
 
-[^30]: [TechNews: NVIDIA CEO Jensen Huang hosts banquet with Taiwan supply chain partners](https://technews.tw/2026/02/01/nvidia-ceo-jensen-huang-hosts-banquet-with-taiwan-supply-chain-partners/) — Reportage technologique chinois (février 202<0xC2>6) sur le banquet de Jensen Huang à Taïwan, citant une expansion massive de la capacité de TSMC pour l'IA.
+[^30]: [TechNews: NVIDIA CEO Jensen Huang hosts banquet with Taiwan supply chain partners](https://foreignpolicy.com/2025/11/03/taiwan-silicon-shield-tsmc-semiconductor-chips/) — Reportage technologique chinois (février 202<0xC2>6) sur le banquet de Jensen Huang à Taïwan, citant une expansion massive de la capacité de TSMC pour l'IA.
 
-[^31]: [CompaniesMarketCap: TSMC market cap](https://companiesmarketcap.com/tsmc/marketcap/) — Site de suivi boursier, indiquant la capitalisation de TSMC à environ 1,7 billion USD en mai 2026.
+[^31]: [CompaniesMarketCap: TSMC market cap](https://www.cna.com.tw/news/afe/202410260040.aspx) — Site de suivi boursier, indiquant la capitalisation de TSMC à environ 1,7 billion USD en mai 2026.
 
-[^32]: [獨立評論／瞿宛文：護國神山的由來](https://opinion.cw.com.tw/blog/profile/390/article/13390) — Analyse de l'institut Academia Sinica (Qu Wan-wen) sur l'origine de la « Montagne protectrice », mentionnant les transferts technologiques RCA et le rôle du gouvernement.
+[^32]: [獨立評論／瞿宛文：護國神山的由來](https://technews.tw/2026/02/01/nvidia-ceo-jensen-huang-hosts-banquet-with-taiwan-supply-chain-partners/) — Analyse de l'institut Academia Sinica (Qu Wan-wen) sur l'origine de la « Montagne protectrice », mentionnant les transferts technologiques RCA et le rôle du gouvernement.
 
-[^33]: [TSMC PR: Fab 5 wins Top Fab 2000 honor](https://pr.tsmc.com/english/news/2230) — Communiqué officiel de TSTSMC (2000), détaillant la construction et la production de la Fab 5 à Hsinchu.
+[^33]: [TSMC PR: Fab 5 wins Top Fab 2000 honor](https://companiesmarketcap.com/tsmc/marketcap/) — Communiqué officiel de TSTSMC (2000), détaillant la construction et la production de la Fab 5 à Hsinchu.

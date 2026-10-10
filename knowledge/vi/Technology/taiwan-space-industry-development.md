@@ -12,7 +12,7 @@ tags:
     'công nghệ không gian',
     'không gian thương mại',
   ]
-subcategory: 'Không gian và biên giới'
+subcategory: '太空與前沿'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-04
@@ -158,9 +158,9 @@ Nhưng Đài Loan có một ưu thế người khác không có: ba mươi năm 
 
 **Đọc Tiếp**:
 
-- [國家太空中心](/technology/國家太空中心) — Bài viết này nói về chuỗi công nghiệp, bài kia nói về tổ chức phía sau nó: Trung tâm Không gian Quốc gia làm cách nào từ một "chi nhánh" phát triển thành pháp nhân hành chính TASA, lần lượt trang bị tên gọi, quy chế pháp nhân, đất đai, tên lửa.
-- [半導體產業](/technology/半導體產業) — Nền tảng ngành công nghiệp phía trước, các vệ tiến bán dẫn từ cùng một chuỗi cung ứng
-- [新創生態系](/economy/新創生態系) — Các công ty khởi nghiệp không gian dân sự kết nối như thế nào với kế hoạch quốc gia
-- [台灣5G網路建設與數位轉型](/technology/台灣5G網路建設與數位轉型) — Vệ tiến truyền thông bổ sung độ mục đích chống rủi ro với 5G trên mặt đất
-- [台灣國防與軍事現代化](/society/台灣國防與軍事現代化) — Từ vệ tiến dân sự đến truyền thông quốc phòng, không gian là chiến trường mới trong độ mục đích quốc phòng Đài Loan
-- [林琪兒](/people/林琪兒) — Nhà du hành vũ trụ sinh tại Đài Bắc, thành viên nhóm Artemis của NASA, từ góc nhìn cá nhân xem mối liên kết giữa Đài Loan và khám phá vũ trụ toàn cầu
+- [國家太空中心](/vi/technology/tasa-taiwan-space-agency) — Bài viết này nói về chuỗi công nghiệp, bài kia nói về tổ chức phía sau nó: Trung tâm Không gian Quốc gia làm cách nào từ một "chi nhánh" phát triển thành pháp nhân hành chính TASA, lần lượt trang bị tên gọi, quy chế pháp nhân, đất đai, tên lửa.
+- [半導體產業](/vi/technology/taiwan-semiconductor-industry) — Nền tảng ngành công nghiệp phía trước, các vệ tiến bán dẫn từ cùng một chuỗi cung ứng
+- [新創生態系](/vi/economy/taiwan-startup-ecosystem-overview) — Các công ty khởi nghiệp không gian dân sự kết nối như thế nào với kế hoạch quốc gia
+- [台灣5G網路建設與數位轉型](/vi/technology/taiwan-5g-digital-transformation) — Vệ tiến truyền thông bổ sung độ mục đích chống rủi ro với 5G trên mặt đất
+- [台灣國防與軍事現代化](/vi/society/taiwan-defense-modernization) — Từ vệ tiến dân sự đến truyền thông quốc phòng, không gian là chiến trường mới trong độ mục đích quốc phòng Đài Loan
+- [林琪兒](/vi/people/lin-chi-er-astronaut) — Nhà du hành vũ trụ sinh tại Đài Bắc, thành viên nhóm Artemis của NASA, từ góc nhìn cá nhân xem mối liên kết giữa Đài Loan và khám phá vũ trụ toàn cầu

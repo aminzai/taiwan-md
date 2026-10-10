@@ -135,8 +135,8 @@ Tương tự, đường sá, làm đá, điện và kho bãi do hiện đại h�
 
 ## Đọc thêm
 
-- [Hiện đại hóa Ngư nghiệp Đài Loan](/history/台灣漁業現代化) — Nửa sau của cùng một vùng biển: đội tàu xa bờ, vùng biển kinh tế chuyên dụng và trách nhiệm quốc tịch
-- [Lịch sử Hiệp hội Nông dân Đài Loan](/history/台灣農會史) — Sự thay đổi thể chế của tổ chức nông thôn, tài chính và cửa sổ công cộng địa phương
+- [Hiện đại hóa Ngư nghiệp Đài Loan](/vi/history/taiwan-fishery-modernization) — Nửa sau của cùng một vùng biển: đội tàu xa bờ, vùng biển kinh tế chuyên dụng và trách nhiệm quốc tịch
+- [Lịch sử Hiệp hội Nông dân Đài Loan](/vi/history/taiwan-farmers-association-history) — Sự thay đổi thể chế của tổ chức nông thôn, tài chính và cửa sổ công cộng địa phương
 - [Lịch sử Bưu điện Đài Loan](/history/台灣郵政史) — Một cơ sở hạ tầng công cộng khác kết nối địa phương, logistics và hành chính quốc gia
 - [Lịch sử Cấp nước Đài Loan](/history/台灣自來水史) — Cách kỹ thuật, vệ sinh và cuộc sống đô thị cùng nhau hình thành thể chế
 

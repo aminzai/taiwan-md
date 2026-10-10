@@ -3,7 +3,7 @@ title: 'Lee Teng-hui'
 description: "Le paradoxe d'une vie : d'économiste agricole à premier dirigeant démocratiquement élu du monde sinophone"
 date: 2026-03-22
 tags: [personnalité, politique, démocratisation, président]
-subcategory: 'Politique et démocratie'
+subcategory: '政治與民主'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 8

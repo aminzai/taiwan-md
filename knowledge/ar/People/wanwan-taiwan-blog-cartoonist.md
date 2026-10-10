@@ -229,8 +229,8 @@ _وان وان (هو جيا وي). — Photo: chungkeng ryu / Wikimedia Commons,
 
 **قراءة موسعة**:
 
-- [ويمينغ: ذلك المجتمع التايواني الأقدم من فيسبوك](/culture/無名小站)
-- [تاريخ هجرة المجتمعات التايوانية على الإنترنت](/technology/台灣網路社群遷徙史)
+- [ويمينغ: ذلك المجتمع التايواني الأقدم من فيسبوك](/ar/culture/wretch)
+- [تاريخ هجرة المجتمعات التايوانية على الإنترنت](/ar/technology/taiwan-online-community-migration)
 - [ميمز تايوان](/ar/culture/taiwan-meme-culture)
 - [دي كارد](/ar/culture/dcard-taiwan-social-platform)
 - [يانغ تشينغ لين](/ar/people/rainie-yang)

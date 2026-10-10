@@ -238,6 +238,6 @@ Wasser ist eine Lebensquelle und die Grundlage der wirtschaftlichen Entwicklung.
 
 Weiterführende Lektüre:
 
-- [Taiwanische Flusssysteme und hydrologische Besonderheiten](/geography/台灣河川系統與水文特色)
-- [Klima](/geography/氣候)
+- [Taiwanische Flusssysteme und hydrologische Besonderheiten](/de/geography/taiwan-river-systems-and-hydrology)
+- [Klima](/de/geography/climate)
 - [Bewegung und Erdbebenaktivität in Taiwan](/de/geography/tectonic-plates-and-seismic-activity)

@@ -224,11 +224,11 @@ Como aguentar os próximos 60 anos, ninguém consegue responder com um anúncio 
 
 **Leitura adicional**:
 
-- [Cultura de banquetes de Taiwan](/food/台灣辦桌文化) — Contexto cultural das bebidas nas mesas de stir-fry e banquetes, a posição do Apple Sidra neste sistema
+- [Cultura de banquetes de Taiwan](/pt/food/taiwan-banquet-culture) — Contexto cultural das bebidas nas mesas de stir-fry e banquetes, a posição do Apple Sidra neste sistema
 - [Cultura de chás agitados de Taiwan](/pt/food/hand-shaken-drink-culture) — Do chá às sodas, a evolução do que os taiwaneses bebem
-- [Empresas de Taiwan: Uni-President](/economy/台灣企業：統一企業) — Principal concorrente do mercado de bebidas da mesma época
+- [Empresas de Taiwan: Uni-President](/pt/economy/taiwan-enterprise-uni-president) — Principal concorrente do mercado de bebidas da mesma época
 - [Empresas de Taiwan: I-Mei Foods](/pt/economy/imei-foods-corporation) — Outra marca antiga que passou por escândalo alimentar
-- [Bolsa e mercado de capitais de Taiwan](/economy/台灣股市與資本市場) — Caso Dez Bancos 1985, caso Hung Yuan 1990 e pano de fundo da rotação da marca 1985-1995 no artigo
+- [Bolsa e mercado de capitais de Taiwan](/pt/economy/taiwan-stock-market) — Caso Dez Bancos 1985, caso Hung Yuan 1990 e pano de fundo da rotação da marca 1985-1995 no artigo
 
 ## Fontes das imagens
 

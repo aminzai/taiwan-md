@@ -4,7 +4,7 @@ description: '87년 전 상하이의 작은 방직공장이 어떻게 10대 산�
 date: 2026-03-24
 category: Economy
 tags: [기업, 그룹기업, 다각경영, 방직업, 대만기업인, 정치적리스크]
-subcategory: '기업열전'
+subcategory: '企業列傳'
 author: Taiwan.md
 readingTime: 8
 featured: false

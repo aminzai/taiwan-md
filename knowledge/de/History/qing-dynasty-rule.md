@@ -84,5 +84,5 @@ Dieser Text verwendet den Begriff „**Qing-Regierungszeit**“ (清治時期). 
 
 ## Weiterführende Lektüre
 
-- [Yiwei-Krieg](/history/乙未之役) – Das Ende der Qing-Zeit: Der Vertrag von Mastulang im Jahr 1895 und der Widerstand der Republik Taiwan
-- [Hollandisch/Westlich/Ming-Cheng-Periode](/history/荷西明鄭時期) – Die Geschichte Taiwans vor der Qing-Regierungszeit
+- [Yiwei-Krieg](/de/history/1895-taiwan-resistance-war) – Das Ende der Qing-Zeit: Der Vertrag von Mastulang im Jahr 1895 und der Widerstand der Republik Taiwan
+- [Hollandisch/Westlich/Ming-Cheng-Periode](/de/history/dutch-spanish-and-koxinga-era) – Die Geschichte Taiwans vor der Qing-Regierungszeit

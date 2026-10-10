@@ -102,7 +102,7 @@ Trên hòn đảo này, một trăm ngọn núi vươn lên, một trăm giấc 
 - [Vương Tân Nhân (A Loạn)](/vi/art/wang-hsin-jen-artist) — Người sáng tạo Dự án Bách Nhạc 《Đỉnh cao》, nghệ sĩ tạo sinh Đài Loan đầu tiên được trưng bày tại Art Blocks
 - [Vương Liên Thịnh (Xiang Ba)](/vi/art/wang-lien-cheng-artist) — Nhà sáng tạo thuật toán núi nước của Dự án Bách Nhạc, người đoạt giải nhất hạng mục điêu khắc Lumine 2017
 - [Nghệ thuật truyền thông mới Đài Loan](/vi/art/taiwan-new-media-art) — Từ nghệ thuật video đến nghệ thuật tạo sinh, bối cảnh nghệ thuật truyền thông mới nơi FAB DAO tọa lạc
-- [Nghệ thuật đương đại Đài Loan](/art/當代藝術) — Vị trí của nghệ thuật blockchain trong hệ sinh thái nghệ thuật đương đại Đài Loan
+- [Nghệ thuật đương đại Đài Loan](/vi/art/contemporary-art) — Vị trí của nghệ thuật blockchain trong hệ sinh thái nghệ thuật đương đại Đài Loan
 
 ## Tài liệu tham khảo
 

@@ -4,7 +4,7 @@ description: "2024 adalah Tahun Naga, saat orang Taiwan seharusnya berlomba mela
 date: '2026-03-24'
 author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: 'Demografi dan Generasi'
+subcategory: '人口與世代'
 tags:
   [
     'Penurunan Kelahiran',
@@ -222,11 +222,11 @@ Nyanyian mungkin akan mengecil, tetapi selama masih ada orang yang bernyanyi, it
 
 **Bacaan Lanjutan:**
 
-- [Pendidikan Pedesaan Taiwan](/society/Taiwan_Pedesaan_Pendidikan) — Ketika pedesaan lebih awal memasuki era penurunan populasi dibandingkan perkotaan empat puluh tahun lalu, sekolah di pedesaan adalah tempat pertama di mana surat ini sampai.
-- [Sistem Pendidikan dan Budaya Akademik](/society/Sistem_Pendidikan_dan_Budaya_Akademik) — Penutupan universitas dan jurang sumber siswa tidak dapat dipisahkan dari bagaimana masyarakat memandang "pendidikan tinggi".
-- [Perkembangan Sistem Perawatan Jangka Panjang Taiwan](/society/Taiwan_Perawatan_Jangka_Panjang) — Ketika lebih dari 20% adalah orang di atas 65 tahun dan 215.000 perawat asing menopang 215.000 tempat tidur, perawatan jangka panjang adalah sisi lain dari penurunan populasi.
-- [Industri Robotika Taiwan](/technology/Taiwan_Industri_Robotik) — Jika berkurangnya jumlah orang adalah kepastian, otomatisasi akan menjadi salah satu kunci untuk "mengorganisasi ulang produksi dalam populasi yang berkurang".
-- [Ekspansi dan Penutupan Pendidikan Tinggi di Taiwan](/society/Taiwan_Pendidikan_Tinggi_Ekspansi_dan_Penutupan) — Dinding penurunan populasi menghantam universitas: setelah meningkat dari 58 menjadi 148, bagaimana sekolah ditutup dan siapa yang menanggung biayanya.
+- [Pendidikan Pedesaan Taiwan](/id/society/taiwan-rural-education) — Ketika pedesaan lebih awal memasuki era penurunan populasi dibandingkan perkotaan empat puluh tahun lalu, sekolah di pedesaan adalah tempat pertama di mana surat ini sampai.
+- [Sistem Pendidikan dan Budaya Akademik](/id/society/education-system-and-admissions-culture) — Penutupan universitas dan jurang sumber siswa tidak dapat dipisahkan dari bagaimana masyarakat memandang "pendidikan tinggi".
+- [Perkembangan Sistem Perawatan Jangka Panjang Taiwan](/id/society/long-term-care-system-development) — Ketika lebih dari 20% adalah orang di atas 65 tahun dan 215.000 perawat asing menopang 215.000 tempat tidur, perawatan jangka panjang adalah sisi lain dari penurunan populasi.
+- [Industri Robotika Taiwan](/id/technology/taiwan-robotics-industry) — Jika berkurangnya jumlah orang adalah kepastian, otomatisasi akan menjadi salah satu kunci untuk "mengorganisasi ulang produksi dalam populasi yang berkurang".
+- [Ekspansi dan Penutupan Pendidikan Tinggi di Taiwan](/id/society/taiwan-higher-education-expansion-and-decline) — Dinding penurunan populasi menghantam universitas: setelah meningkat dari 58 menjadi 148, bagaimana sekolah ditutup dan siapa yang menanggung biayanya.
 
 ## Referensi
 
@@ -280,7 +280,7 @@ Nyanyian mungkin akan mengecil, tetapi selama masih ada orang yang bernyanyi, it
 
 [^25]: [Institute of Chinese Economics: Penelitian Pernikahan dan Kelahiran](https://www.cier.edu.tw/) — Penelitian ICE menunjukkan harga rumah dan gaji rendah bukan penyebab utama ketidaknikahan; banyak orang yang belum menikah ingin menikah tetapi sulit menemukan pasangan setelah masuk ke dunia kerja.
 
-[^16]: [Executive Yuan: Rencana Tindakan Penurunan Kelahiran](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E) — Anggaran rencana tindakan penurunan populasi dari 2007-2024 mencapai sekitar 485,1 miliar TWD.
+[^16]: [Executive Yuan: Rencana Tindakan Penurunan Kelahiran](https://www.taipeitimes.com/News/front/archives/2026/01/10/2003850357) — Anggaran rencana tindakan penurunan populasi dari 2007-2024 mencapai sekitar 485,1 miliar TWD.
 
 [^27]: [Legislative Yuan: Evaluasi Biaya untuk Anak Usia 0-6 Tahun](https://www.ly.gov.tw/) - Data evaluasi anggaran menunjukkan investasi untuk anak usia 0-6 tahun meningkat dari 15 miliar pada 2016 menjadi sekitar 140 miliar pada 2026, melampaui 120 miliar dalam satu tahun tunggal.
 
@@ -302,7 +302,7 @@ Nyanyian mungkin akan mengecil, tetapi selama masih ada orang yang bernyanyi, it
 
 [^36]: [ETtoday: Jiang Min-hinn Membahas Privatisasi Risiko Pengasuhan](https://forum.ettoday.net/news/3098138) - Komentar tertanggal 1 Januari 2026, di mana Jiang Min-hinn menyatakan bahwa masyarakat memprivatisasi risiko pengasuhan dan menganggap keuntungan populasi sebagai milik publik; ia berpendapat rendahnya tingkat kelahiran adalah sinyal harga bukan cacat moral.
 
-[^37]: [Sama seperti di atas: Jiang Min-hinn "Subsidi Seperti Obat Pereda Nyeri, Bukan Operasi Bedah"](https://forum.ettuday.net/news/3098138) - Mencatat metafora Jiang Min-hinn bahwa subsidi hanya mengobati gejala sementara tanpa memperbaiki masalah dasar.
+[^37]: [Sama seperti di atas: Jiang Min-hinn "Subsidi Seperti Obat Pereda Nyeri, Bukan Operasi Bedah"](https://forum.ettoday.net/news/3098138) - Mencatat metafora Jiang Min-hinn bahwa subsidi hanya mengobati gejala sementara tanpa memperbaiki masalah dasar.
 
 [^38]: [IZA World of Labor: Bisakah Kebijakan Membalikkan Penurunan Kelahiran](https://wol.iza.org/articles/can-government-policies-reverse-undesirable-declines-in-fertility/long) - Tinjauan akademis menyatakan kebijakan mendorong kelahiran dapat meningkatkan sedikit, tetapi tidak mungkin mengembalikannya ke tingkat penggantian.
 

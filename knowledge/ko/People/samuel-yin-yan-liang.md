@@ -27,6 +27,15 @@ tags:
 lastVerified: 2026-05-26
 lastHumanReview: false
 featured: true
+sporeLinks:
+  - id: 95
+    platform: 'threads'
+    date: '2026-05-26'
+    url: 'https://www.threads.com/@taiwandotmd/post/DYzmiFqE0mC'
+  - id: 96
+    platform: 'x'
+    date: '2026-05-26'
+    url: 'https://x.com/taiwandotmd/status/2059290686671982831'
 translatedFrom: 'People/尹衍樑.md'
 sourceCommitSha: '31a05c44'
 sourceContentHash: 'sha256:ca0ab51cac71e4a7'

@@ -114,7 +114,7 @@ Xiao Shang-nong ist noch da. Die Beobachtung geht weiter. Er hat das „Weiterbe
 
 - [INSIDE: Kritische Trendbeobachtung](https://www.inside.com.tw/) — Das von Xiao Shang-nong mitbegründete Tech-Medium, das nun zur Key Opinion Media Group gehört und weiterhin über Taiwan und die globale Technologiebranche berichtet.
 - [iCook (愛料理)](https://icook.tw/) — Die größte Rezeptplattform Taiwans, die von Xiao Shang-nong mitbegründet wurde und nun zur Key Opinion Media Group gehört.
-- [Audry Tang (唐鳳)](/people/唐鳳) — Die erste Ministerin des taiwanesischen Ministeriums für digitale Entwicklung, die ihre Karriere ebenfalls als „interdisziplinär“ definiert hat.
+- [Audry Tang (唐鳳)](/de/people/audrey-tang) — Die erste Ministerin des taiwanesischen Ministeriums für digitale Entwicklung, die ihre Karriere ebenfalls als „interdisziplinär“ definiert hat.
 - [taiwanisches Startup-Ökosystem](/technology/台灣新創生態系) — Der gesamte Entwicklungsverlauf der taiwanesischen Internetgründerschaft; INSIDE und iCook sind repräsentative Beispiele dafür.
 
 ## Quellenangaben

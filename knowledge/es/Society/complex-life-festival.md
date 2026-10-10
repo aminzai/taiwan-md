@@ -13,7 +13,7 @@ tags:
     'Huang Tou-ni',
     'Disaffected Generation',
   ]
-subcategory: 'Generations and Society'
+subcategory: '世代與社會'
 author: 'Taiwan.md'
 category: 'Society'
 readingTime: 12
@@ -23,7 +23,7 @@ image: '/article-images/society/complex-festival-onsite-program.webp'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://medium.com/泥巴第三放送局/當我們討論複雜生活節的視覺設計-我們在討論什麼-81512c97a6c'
 translatedFrom: 'Society/複雜生活節.md'
-sourceCommitSha: 'dd82dc4a'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:288b132714804aff'
 sourceBodyHash: 'sha256:f51e2d5a46bf8d87'
 translatedAt: '2026-06-14T00:35:00+08:00'
@@ -355,7 +355,7 @@ This article uses 8 photos of the Complex Life Festival site and main visual des
 
 [^32]: [Creative Coding Taiwan: mashbean Community Sharing (2022-04)](https://creativecoding.in/2022/05/08/creative-coding-meetup-202204-mashbean/) — Creative Coding meetup record, Huang Tou-ni shares his abandonment of medicine timeline "still a doctor last year," corroborating ~2021 resignation, abandonment of medicine as a gradual process.
 
-[^33]: [YouTube (Digital Times Official): How to Do Taiwan's Largest Public Welfare NFT Project ft. FAB DAO Co-Founder Huang Tou-ni](https://www.youtube.com/watch=2TyXgAB4_78) — Digital Times official channel interview, Huang Tou-ni discusses FAB DAO public welfare NFT project, first-hand image of his post-abandonment of medicine web3 public welfare works.
+[^33]: [YouTube (Digital Times Official): How to Do Taiwan's Largest Public Welfare NFT Project ft. FAB DAO Co-Founder Huang Tou-ni](https://www.youtube.com/watch?v=2TyXgAB4_78) — Digital Times official channel interview, Huang Tou-ni discusses FAB DAO public welfare NFT project, first-hand image of his post-abandonment of medicine web3 public welfare works.
 
 [^34]: [VERSE: Taichung Independent Bookstore Tour (Reference Bookstore Current Status)](https://www.verse.com.tw/article/taichung-indepedent-bookstores) — Taichung independent bookstore report, recording Reference Bookstore remaining after election loss, Hsu Hao-ning managing, and the同名 (same-name) Podcast _Reference Bookstore_ still updating at the end of 2024.
 

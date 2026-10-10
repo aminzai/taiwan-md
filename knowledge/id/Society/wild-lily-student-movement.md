@@ -3,7 +3,7 @@ title: 'Gerakan Mahasiswa Wild Lily'
 description: 'Sejumlah mahasiswa di Taiwan duduk diam selama tujuh hari di Monumen Zhongzheng, yang akhirnya memaksa sistem politik yang sudah lama tidak diubah mulai bergerak. Yang benar-benar berubah oleh Gerakan Mahasiswa Wild Lily bukan hanya rapat Kongres Rakyat, tetapi juga kesadaran pertama Taiwan bahwa mahasiswa dapat langsung mengubah jadwal renaisasi konstitusional dan politik. '
 date: 2026-03-23
 category: 'Society'
-subcategory: 'Demokrasi dan Politik'
+subcategory: '民主與政治'
 tags:
   [
     'Masyarakat',
@@ -149,7 +149,7 @@ Dan pada tahun itu, jawabannya mulai muncul.
 
 ## Topik Terkait
 
-- [Gerakan Mahasiswa Bunga Matahari](/society/太陽花學運): Generasi mahasiswa lainnya bagaimana mengkaji ulang sistem institusi
-- [Sistem Demokrasi](/society/民主制度): Bagaimana demokrasi Taiwan dibangun secara bertahap
+- [Gerakan Mahasiswa Bunga Matahari](/id/society/sunflower-movement): Generasi mahasiswa lainnya bagaimana mengkaji ulang sistem institusi
+- [Sistem Demokrasi](/id/society/democratic-system): Bagaimana demokrasi Taiwan dibangun secara bertahap
 - [Lingkungan Politik Taiwan dan Sistem Pemilu](/id/society/taiwan-political-landscape-and-electoral-system): Dari Kongres Rakyat Abadi ke pemilihan umum menyeluruh
 ```

@@ -4,7 +4,7 @@ description: 'Di jalanan Taiwan, jika seseorang berteriak "Shu-fen" atau "Chia-h
 date: '2026-04-19'
 author: 'Taiwan.md'
 category: 'Culture'
-subcategory: '节庆与礼俗'
+subcategory: '節慶與禮俗'
 tags:
   [
     'Budaya Sosial',

@@ -72,7 +72,7 @@ Nachdem wir seine Geschichte gelesen haben, sollten wir uns fragen: Leidet Taiwa
 **Weiterführende Lektüre**
 
 - [Lai Hwa](賴和) — Vater der modernen Literatur in Taiwan zur gleichen Zeit, ebenfalls Pionier der kulturellen Erleuchtung wie Chiang Wei-shu
-- [Soziale Bewegungen in Taiwan während der japanischen Kolonialzeit](/history/日治時期臺灣社會運動) — Der Gesamtkontext der Bewegung, in dem Chiang Wei-shu agierte
+- [Soziale Bewegungen in Taiwan während der japanischen Kolonialzeit](/de/history/social-movements-during-japanese-rule) — Der Gesamtkontext der Bewegung, in dem Chiang Wei-shu agierte
 - [Taiwan People's Party](台灣民眾黨) — Die erste legale Partei in Taiwan, gegründet von Chiang Wei-shu
 
 ---

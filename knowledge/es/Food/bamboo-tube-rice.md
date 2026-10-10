@@ -11,14 +11,14 @@ tags:
     'Gastronomía sostenible',
     'Comparación internacional',
   ]
-subcategory: 'Gastronomía étnica'
+subcategory: '族群飲食'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-27
 lastHumanReview: false
 readingTime: 8
 translatedFrom: 'Food/竹筒飯.md'
-sourceCommitSha: 'ce7f10f8'
+sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:2f969547257cfb65'
 sourceBodyHash: 'sha256:b1f0ce92250128c2'
 translatedAt: '2026-05-09T14:31:06Z'

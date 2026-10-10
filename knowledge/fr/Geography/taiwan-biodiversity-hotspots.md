@@ -10,7 +10,7 @@ tags:
     'conservation',
     'parcs nationaux',
   ]
-subcategory: 'Géographie écologique'
+subcategory: '生態地理'
 author: 'Taiwan.md Contributors'
 difficulty: 'beginner'
 readingTime: 8

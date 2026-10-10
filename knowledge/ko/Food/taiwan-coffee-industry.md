@@ -12,7 +12,7 @@ tags:
     'Cup of Excellence',
     '편의점커피',
   ]
-subcategory: '음료 문화'
+subcategory: '飲品文化'
 author: 'Taiwan.md'
 category: 'Food'
 lastVerified: 2026-03-23

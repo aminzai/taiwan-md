@@ -20,14 +20,14 @@ tags:
     'Sisters Who Make Waves',
     'For Love Start Rainie World Tour',
   ]
-subcategory: 'Music and Performance'
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 category: 'People'
 readingTime: 22
 lastVerified: 2026-04-18
 lastHumanReview: true
 translatedFrom: 'People/楊丞琳.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:fe001b011f023dad'
 sourceBodyHash: 'sha256:89629de55a5721c1'
 translatedAt: '2026-06-09T04:21:32+08:00'
@@ -241,11 +241,11 @@ Every field was a field where she negotiated with "who defines me."
 
 ## See Also
 
-- [Zhang Xuan and An Pu](/music/Zhang-Xuan-and-An-Pu) — Another Taiwanese female singer who moved from a girl singer to a complete author identity, contrasting two paths of "from being defined to self-definition"
-- [Wei Wu-xuan](/people/Wei-Wu-xuan) — Two Golden Melody Best Mandarin Female Singer winners from the same generation, forming a structural contrast of "market vs. academy" with Rainie Yang
-- [Taiwan Pop Music](/music/Taiwan-Pop-Music) — The historical context of the Mandopop industry structure and the dual-track positioning of idol dramas/singers
-- [Taiwan KTV Culture](/music/Taiwan-KTV-Culture) — The social context of _Ambiguous_ becoming the KTV点播 king in 2005, and the role of KTV as a node in the dissemination of Mandopop
-- [Tanya Chua](/people/Tanya-Chua) — Wrote _Loneliness is a Sense of Security_ (2013) for Rainie Yang; four-time Golden Melody Best Singer and producer dual identity
+- [Zhang Xuan and An Pu](/es/music/deserts-chang-and-anpu) — Another Taiwanese female singer who moved from a girl singer to a complete author identity, contrasting two paths of "from being defined to self-definition"
+- [Wei Wu-xuan](/es/people/waa-wei-singer) — Two Golden Melody Best Mandarin Female Singer winners from the same generation, forming a structural contrast of "market vs. academy" with Rainie Yang
+- [Taiwan Pop Music](/es/music/golden-melodies-legacy-taiwan-pop-music) — The historical context of the Mandopop industry structure and the dual-track positioning of idol dramas/singers
+- [Taiwan KTV Culture](/es/music/ktv-culture) — The social context of _Ambiguous_ becoming the KTV点播 king in 2005, and the role of KTV as a node in the dissemination of Mandopop
+- [Tanya Chua](/es/people/tanya-chua-singer) — Wrote _Loneliness is a Sense of Security_ (2013) for Rainie Yang; four-time Golden Melody Best Singer and producer dual identity
 
 ## References
 
@@ -257,13 +257,13 @@ Every field was a field where she negotiated with "who defines me."
 
 [^4]: [Wikipedia 4 in Love Entry](https://zh.wikipedia.org/wiki/4_in_Love) — A four-member girl group launched by BMG in 2000, using a weather concept for naming (Rainie/Sunnie/Windie/Cloudie) and a 3D virtual avatar marketing concept. First album _Fall In Love_ in November 2000, second _Who's Afraid of Who_ in July 2001, disbanded in 2002.
 
-[^5]: [Wikipedia Rainie Yang Filmography](https://zh.wikipedia.org/wiki/Rainie_Yang) — Lists complete representative works including _The Rose of Versailles_ (2003 TTV), _The Devil in You_ (2005), _Love Swap_ (2007), _My Romantic Providence_ (2009), _Drunk After Love_ (2011 paired with Chang Hsiao-chuan), etc., along with characters and co-stars.
+[^5]: [Wikipedia Rainie Yang Filmography](https://zh.wikipedia.org/wiki/楊丞琳) — Lists complete representative works including _The Rose of Versailles_ (2003 TTV), _The Devil in You_ (2005), _Love Swap_ (2007), _My Romantic Providence_ (2009), _Drunk After Love_ (2011 paired with Chang Hsiao-chuan), etc., along with characters and co-stars.
 
-[^6]: [Ambiguous Album 2005 Release Record](<https://zh.wikipedia.org/wiki/Ambiguous_(album)>) — Rainie Yang's album released on September 9, 2005, including the ending theme _Ambiguous_ from the idol drama _The Devil in You_. Asian sales broke 1 million copies, IFPI Platinum certification. Lyrics: Chen Xin-yan; Composition: Xiao Leng; Producer: Chen Zi-hong.
+[^6]: [Ambiguous Album 2005 Release Record](https://zh.wikipedia.org/wiki/曖昧_%28專輯%29) — Rainie Yang's album released on September 9, 2005, including the ending theme _Ambiguous_ from the idol drama _The Devil in You_. Asian sales broke 1 million copies, IFPI Platinum certification. Lyrics: Chen Xin-yan; Composition: Xiao Leng; Producer: Chen Zi-hong.
 
-[^7]: [45th Golden Bell Awards Winner List + Historical Golden Melody Nominations](https://zh.wikipedia.org/wiki/45th_Golden_Bell_Awards) — Rainie Yang won the Best Actress in a Drama Series at the 45th Golden Bell Awards in 2010 for her role as Chen Bao-zhu in _My Romantic Providence_, which is her only major Golden Bell Award to date. In 2021, the 32nd Golden Melody Awards' _Delete & Pick Up_ was called a "pearl missed by the media."
+[^7]: [45th Golden Bell Awards Winner List + Historical Golden Melody Nominations](https://zh.wikipedia.org/wiki/第45屆金鐘獎) — Rainie Yang won the Best Actress in a Drama Series at the 45th Golden Bell Awards in 2010 for her role as Chen Bao-zhu in _My Romantic Providence_, which is her only major Golden Bell Award to date. In 2021, the 32nd Golden Melody Awards' _Delete & Pick Up_ was called a "pearl missed by the media."
 
-[^8]: [Li Ronghao and Rainie Yang Relationship Timeline](https://zh.wikipedia.org/wiki/Li_Ronghao) — Li Ronghao (born July 11, 1985, in Hefei) started working as a producer and arranger for others from 2001, released his first album _Model_ in 2013. First collaborated with Rainie Yang at the end of 2014, started dating in 2015, relationship made public in 2017, proposed in Okinawa hotel on July 11, 2019 (Li's birthday), registered marriage in Hefei on September 17, wedding in Thailand's Aube Wedding on February 18, 2024.
+[^8]: [Li Ronghao and Rainie Yang Relationship Timeline](https://zh.wikipedia.org/wiki/李榮浩) — Li Ronghao (born July 11, 1985, in Hefei) started working as a producer and arranger for others from 2001, released his first album _Model_ in 2013. First collaborated with Rainie Yang at the end of 2014, started dating in 2015, relationship made public in 2017, proposed in Okinawa hotel on July 11, 2019 (Li's birthday), registered marriage in Hefei on September 17, wedding in Thailand's Aube Wedding on February 18, 2024.
 
 [^9]: [Delete & Pick Up 2019 Album Production Intro](https://www.eslite.com/product/) — The 11th album released on November 27, 2019, is Rainie Yang's first personal album to fully participate as a producer and planner. The theme shifted to the emotional reorganization of middle-aged women.
 
@@ -271,7 +271,7 @@ Every field was a field where she negotiated with "who defines me."
 
 [^11]: [Rainie & Love...? Rain Love Colorful Celebratory Edition + Historical Album List](https://sonymusic.com.tw/album/rainie-love-%E9%9B%A8%E6%84%9B-%E6%A5%8A%E4%B8%9E%E7%90%B3-rainie-yang-88697643132/) — Taiwan Sony Music official album page. _Rainie & Love...? Rain Love_ released on January 4, 2010; the colorful celebratory edition CD2 was a Japanese single limited disc, including the Japanese version of _Ambiguous_ and _Love's Magic_. _Look Up_ in 2011, _The Person Who Wants to Be Happy_ in 2012, _Double Rainie Opera_ on December 12, 2014, _Tree Rings_ on September 30, 2016, which was the 17th-anniversary commemorative work.
 
-[^12]: [Rainie Yang For Love Start Rainie World Tour 2012 Red Arena Premiere](https://zh.wikipedia.org/wiki/Rainie_Yang) — Second world tour concert; the first stop was Hong Kong Red Arena Sports Center, opening for three consecutive shows, setting a box office record for Mandopop female singers at Red Arena. On May 4, 2025, during the LIKE A STAR World Tour, she returned to Hong Kong after seven years, holding the event at AsiaWorld-Arena.
+[^12]: [Rainie Yang For Love Start Rainie World Tour 2012 Red Arena Premiere](https://zh.wikipedia.org/wiki/楊丞琳) — Second world tour concert; the first stop was Hong Kong Red Arena Sports Center, opening for three consecutive shows, setting a box office record for Mandopop female singers at Red Arena. On May 4, 2025, during the LIKE A STAR World Tour, she returned to Hong Kong after seven years, holding the event at AsiaWorld-Arena.
 
 [^13]: [ETtoday 2022 Rainie Yang Suspension Singing "Capillary Burst" 9-Year Aftereffects](https://star.ettoday.net/news/2261010) — Rainie Yang suspended 3 meters high to sing _Take Me Away_ during the 2012-2013 _For Love Start Rainie_ World Tour; nine years later in 2022, she let it slip in an interview: "After every show, my entire face (especially my forehead) would be in a state of burst capillaries, covered in red dots." It was not until a Shanghai yoga teacher, introduced by her friend Chen Yen-hsi, taught her the method of "breathing into the pose" that it was resolved. Free Entertainment and NOWnews reported simultaneously.
 
@@ -281,8 +281,8 @@ Every field was a field where she negotiated with "who defines me."
 
 [^16]: [ETtoday 2021 "Rainie Yang Bravely Takes Third" _Sisters 2_ X-SISTER Formation](https://star.ettoday.net/news/1962065) — 2021 _Sisters Who Make Waves_ Season 2 Grand Finale results: After successfully challenging, Rainie Yang advanced all the way, finally forming the group in third place with 1.9 million votes. First place Na Ying 5.42 million votes, second place Zhou Bichang 5.12 million votes. X-SISTER seven-member group: Na Ying, Zhou Bichang, Rainie Yang, Joey Yung, Angelababy, Yang Yu-ying, Jike Junyi. Premiered on Mango TV on January 22, 2021; live grand finale on April 9, 2021.
 
-[^17]: [Boiling Campus 2022 Tencent Variety Mentor Lineup](https://zh.wikipedia.org/wiki/Rainie_Yang) — Premiered on Tencent Video platform on August 28, 2022; Rainie Yang served as a "Boiling Counselor" (mentor), jointly guiding 20 national university dance club competitions with Cai Xukun (Boiling Producer), Tan Jian-ci, and Meng Jia.
+[^17]: [Boiling Campus 2022 Tencent Variety Mentor Lineup](https://zh.wikipedia.org/wiki/楊丞琳) — Premiered on Tencent Video platform on August 28, 2022; Rainie Yang served as a "Boiling Counselor" (mentor), jointly guiding 20 national university dance club competitions with Cai Xukun (Boiling Producer), Tan Jian-ci, and Meng Jia.
 
 [^18]: [NOWnews 2023 Rainie Yang _The Great Dance Club_ "Old Lady Will Still Keep Dancing"](https://www.nownews.com/news/6145763) — In 2023, Rainie Yang recorded _The Great Dance Club_ with the theme "Reconciliation"; when forwarding the dance video, she said: "I don't not know how to dance, and I'm turning four next year; this old lady will still keep dancing." Previously, due to waist injuries, she had long been limited in dancing since _Look Up_ in 2011; in 2022-2023, she had an intensive dance return in Chinese variety shows.
 
-[^19]: [Singer 2024 Debut Singer List + Withdrawal Statement](https://zh.wikipedia.org/wiki/Singer_2024) — In 2024, Hunan TV's _Singer 2024_, Rainie Yang was a debut singer, singing _The Song Not Written for Anyone_, which won the Weibo "Most Anticipated Track" vote. On July 18, she issued a statement that she did not enter the finals due to schedule conflicts; the breakthrough round performance was counted as a performance stage and did not count towards final qualification.
+[^19]: [Singer 2024 Debut Singer List + Withdrawal Statement](https://zh.wikipedia.org/wiki/歌手2024) — In 2024, Hunan TV's _Singer 2024_, Rainie Yang was a debut singer, singing _The Song Not Written for Anyone_, which won the Weibo "Most Anticipated Track" vote. On July 18, she issued a statement that she did not enter the finals due to schedule conflicts; the breakthrough round performance was counted as a performance stage and did not count towards final qualification.

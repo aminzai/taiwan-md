@@ -4,7 +4,7 @@ description: "Một ngành công nghiệp truyền thống từng bị coi là '
 date: 2026-07-20
 author: 'Taiwan.md Contributors'
 category: 'Economy'
-subcategory: 'Kinh tế phát triển'
+subcategory: '經濟發展'
 tags:
   [
     'Ngành dệt may',
@@ -76,7 +76,7 @@ Chủ tịch Poly Châu Lý Bình (Chou Li-ping) khi giao lại cho thế hệ t
 
 ## Đọc thêm
 
-- [Kinh tế tuần hoàn và tái sử dụng tài nguyên của Đài Loan](/economy/台灣循環經濟與資源再利用) — Bối cảnh kinh tế tuần hoàn từ chai PET thành trang phục
+- [Kinh tế tuần hoàn và tái sử dụng tài nguyên của Đài Loan](/vi/economy/circular-economy-and-resource-recycling) — Bối cảnh kinh tế tuần hoàn từ chai PET thành trang phục
 - [Chuyển đổi và nâng cấp ngành công nghiệp của Đài Loan](/vi/economy/industrial-transformation-from-manufacturing-to-innovation) — Khung lớn hơn của sự chuyển đổi ngành công nghiệp truyền thống
 
 ## Tài liệu tham khảo và nguồn

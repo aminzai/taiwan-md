@@ -105,8 +105,8 @@ Di sampingnya berdiri seorang diva yang dia bangun dengan tangan sendiri, dan di
 ## Bacaan Lanjutan
 
 - [A-mei](/id/people/a-mei/) — Chang Yu-sheng membangun menjadi album "Sisters" dan "Bad Boy", mendorong ke kursi diva musik Mandarin; lagunya di panggung Golden Melody Awards 2017 adalah penyembahan terdalam
-- [Musik Populer Taiwan](/music/台灣流行音樂) — Latar belakang industri musik populer Mandarin tahun 1980-90an, dan posisi sejarah karya eksperimental Chang Yu-sheng di dalamnya
-- [Waa Wei](/people/魏如萱) — Demikian juga melintasi ketegangan antara idol mainstream dan penulis, jalan lain untuk saling menggosok antara pasar dan kreativitas
+- [Musik Populer Taiwan](/id/music/golden-melodies-legacy-taiwan-pop-music) — Latar belakang industri musik populer Mandarin tahun 1980-90an, dan posisi sejarah karya eksperimental Chang Yu-sheng di dalamnya
+- [Waa Wei](/id/people/waa-wei-singer) — Demikian juga melintasi ketegangan antara idol mainstream dan penulis, jalan lain untuk saling menggosok antara pasar dan kreativitas
 - [Yoga Lin](/id/people/yoga-lin) — Generasi lebih baru dari jenis lain "idol dan musisi" saling tarik: dari juara Star Search 2007 hingga menjadi produser sendiri 2024 surat perpisahan selama 17 tahun
 
 ## Referensi

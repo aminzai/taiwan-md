@@ -241,7 +241,7 @@ Os olhos compostos ainda giram. As coisas desaparecidas, enquanto houver quem ol
 
 ## Leitura complementar
 
-- [Ximending](/geography/西門町) — Bairro onde ficava o Zhonghua Mall, entender as coordenadas urbanas de _O Mágico da Passarela_
+- [Ximending](/pt/geography/ximending) — Bairro onde ficava o Zhonghua Mall, entender as coordenadas urbanas de _O Mágico da Passarela_
 - [História da literatura de Taiwan](/pt/art/history-of-taiwanese-literature) — Colocar Wu Ming-yi de volta na genealogia mais longa da escrita da ilha
 - [Literatura de Taiwan pós-guerra](/pt/art/postwar-taiwanese-literature) — Como a geração pós-guerra escreveu terra, guerra e cotidiano
 - [Literatura de Taiwan contemporânea](/pt/art/contemporary-taiwanese-literature) — Coordenadas de mesmo tempo de romance e tradução internacional pós-2000

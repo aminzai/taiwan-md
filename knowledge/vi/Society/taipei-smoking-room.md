@@ -242,7 +242,7 @@ Bài viết này sử dụng 5 hình ảnh, toàn bộ bộ nhớ đệm tại `
 
 [^5]: [Bộ Văn Hóa Cơ Quan Tài Sản Văn Hóa: Xưởng Thuốc Lá Tùng Sơn](https://nchdb.boch.gov.tw/assets/overview/monument/20020416000001) — Dữ liệu đăng ký di tích cổ xưa, ghi chép năm 1937 Cơ Quan Chuyên Bán Công Khai động công xây, thời kỳ cao điểm khoảng 2000 nhân viên, năm 1998 dừng sản xuất, năm 2011 Công Viên Sáng Tạo Tùng Sơn vận hành.
 
-[^6]: [Wikipedia: Yên Đạo (Người Kinh Doanh)](https://zh.wikipedia.org/zh-tw/%E5%9A%B4%E9%81%93_(%E4%BC%81%E6%A5%AD%E5%AE%B6) — ) — ) — Ghi chép Yên Đạo học hút từ lúc 12 tuổi, 52 tuổi vì tác hại thuốc lá cắt bỏ thùy phổi phải lớn, năm 1984 thành lập Quỹ Tôn Chi Anh trong tiểu sử
+[^6]: [Wikipedia: Yên Đạo (Người Kinh Doanh)](<https://zh.wikipedia.org/zh-tw/%E5%9A%B4%E9%81%93_(%E4%BC%81%E6%A5%AD%E5%AE%B6)>) — ) — ) — Ghi chép Yên Đạo học hút từ lúc 12 tuổi, 52 tuổi vì tác hại thuốc lá cắt bỏ thùy phổi phải lớn, năm 1984 thành lập Quỹ Tôn Chi Anh trong tiểu sử
 
 [^7]: [Câu Chuyện StoryStudio: Quỹ Tôn Chi Anh Người Tôn Chi Anh Đó Là Ai](https://storystudio.tw/article/gushi/cold104) — Bài viết chuyên đề, giải thích Tôn Chi Anh cảm ơn Yên Đạo giải quyết vụ kiện pháp lý quyên tặng, Yên Đạo gợi ý chuyển đổi thành sự phát triển công ích kiểm soát tác hại thuốc lá nguồn gốc thành lập.
 

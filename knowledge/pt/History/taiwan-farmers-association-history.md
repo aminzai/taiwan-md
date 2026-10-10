@@ -128,7 +128,7 @@ A posição histórica da associação está justamente aqui. A política agríc
 
 ## Leituras complementares
 
-- [Reforma agrária de Taiwan](/history/台灣土地改革) — Contexto institucional da melhoria das associações e da reorganização do poder rural no pós-guerra
+- [Reforma agrária de Taiwan](/pt/history/taiwan-land-reform) — Contexto institucional da melhoria das associações e da reorganização do poder rural no pós-guerra
 - [Desenvolvimento da modernização agrícola de Taiwan](/pt/economy/taiwan-agricultural-modernization) — Outra pista sobre extensão das associações, tecnologia agrícola e transformação industrial
 - [História do abastecimento de água de Taiwan](/history/台灣自來水史) — Leitura comparativa da organização rural para o sistema institucional de infraestrutura pública
 

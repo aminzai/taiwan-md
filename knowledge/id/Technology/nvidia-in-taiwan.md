@@ -16,7 +16,7 @@ tags:
     'Kecerdasan Buatan',
     'Computex',
   ]
-subcategory: 'Semikonduktor dan Perangkat Keras'
+subcategory: '半導體與硬體'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-22
@@ -27,6 +27,7 @@ image: '/article-images/technology/computex-jensen-huang-2016.webp'
 translatedFrom: 'Technology/NVIDIA在台灣.md'
 sourceCommitSha: '0df538d8c'
 sourceContentHash: 'sha256:a7a044b9c6def84a'
+sourceBodyHash: 'sha256:5412b8ae390af1fa'
 translatedAt: '2026-09-18T03:12:45.855619+00:00'
 ---
 
@@ -279,8 +280,8 @@ Nama-nama di dinding semakin bertambah banyak. Apakah orang-orang yang memegang 
 - [Morris Chang: Penerima surat itu, dan kekaisaran fabrikasi wafer yang ia bangun](/id/people/tsmc-morris-chang) — Pendiri TSMC, orang yang menerima surat Jensen Huang pada tahun 1996
 - [Computex: Pameran komputer Taipei, bagaimana ia menjadi pembukaan AI global](/id/technology/computex) — Panggung di mana dinding logo bersinar, panggung utama tahunan industri teknologi Taiwan
 - [Industri kecerdasan buatan (AI)](/id/technology/artificial-intelligence-industry) — Dari memproduksi chip NVIDIA hingga membangun ekosistem AI, posisi Taiwan dalam gelombang AI
-- [Pengembangan dan strategi AI Taiwan](/technology/台灣人工智慧發展與未來策略) — AI berdaulat, TAIDE, dan upaya nasional Taiwan untuk naik dari manufaktur
-- [Cerita Teknologi Taiwan: Chip 100 Poin, Mikrofon 60 Poin](/technology/台灣科技說故事) — Dua cara berbicara tentang satu chip: premi keuntungan yang diambil NVIDIA, bagaimana teknologi Taiwan harus belajar
+- [Pengembangan dan strategi AI Taiwan](/id/technology/artificial-intelligence-development-strategy) — AI berdaulat, TAIDE, dan upaya nasional Taiwan untuk naik dari manufaktur
+- [Cerita Teknologi Taiwan: Chip 100 Poin, Mikrofon 60 Poin](/id/technology/taiwan-tech-storytelling) — Dua cara berbicara tentang satu chip: premi keuntungan yang diambil NVIDIA, bagaimana teknologi Taiwan harus belajar
 - [Perusahaan Taiwan: Foxconn Precision Industry](/id/economy/foxconn-precision-industry) — Raksasa manufaktur yang merakit 40% perangkat AI global, tangan terbesar di dasar kurva senyum
 
 ## Sumber Gambar

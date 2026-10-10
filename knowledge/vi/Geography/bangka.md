@@ -23,7 +23,7 @@ tags:
     'hẻm cỏ xanh',
     'loạt khu phố cổ',
   ]
-subcategory: 'Khu phố cổ / Quận Vạn Hoa Đài Bắc'
+subcategory: '歷史街區 / 台北市萬華區'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-21
@@ -231,15 +231,15 @@ Vạn Hóa theo cách nhìn của người khác là chợ đêm du lịch, là 
 
 **Đọc thêm mở rộng**:
 
-- [Đài Bắc](/geography/đài-bắc) — 1738 Miếu Long Sơn, 1885 Đại Đạo Điền, 2004 Tháp 101 toàn cảnh thể sơ bộ ba thời gian
-- [Văn hóa phố cổ Đài Loan và khu thương mại](/culture/văn-hóa-phố-cổ-đài-loan-và-khu-thương-mại) — từ cảng hàng thời Thanh tới Barroco kỳ Nhật trị, bản đồ lịch sử 10+ phố cổ toàn Đài Loan
-- [Văn hóa tôn giáo và miếu của Đài Loan](/culture/văn-hóa-tôn-giáo-và-miếu-của-đài-loan) — toàn đảo 15.000 miếu, cấu trúc tín ngưỡng ba giáo Phật đạo hợp một mái
-- [Thời kỳ Thanh](/history/thời-kỳ-thanh) — 1683-1895 xã hội Đài Loan, chiến chiến chia loại, mạng lưới di cư
-- [Chiến Pháp Thanh](/history/chiến-pháp-thanh) — 1884-1885 quân Pháp xâm chiếm miền Bắc Đài Loan, động viên Miếu Long Sơn Bangka, chiến thắng Đạm Thủy
-- [Đại Đạo Điền](/geography/đại-đạo-điền) — 1853 dân An Khai thua chiến Đỉnh Hạ Giao Phing Bangka tám Giáp Trang chạy qua mở thương cảng, là nhánh thời gian khác từ Bangka ra
-- [Tây Môn Độ](/geography/tây-môn-độ) — cùng batch 1 khu phố cổ anh em, năm 1896 người Nhật quy hoạch khu giải trí phía tây Bangka, tạo đối chiếu Thanh từ Nhật trị
-- [Đại Long Động](/geography/đại-long-động) — 1853 dân An Khai thua chiến Đỉnh Hạ Giao Phing Bangka tám Giáp Trang rút binh nơi đầu tiên đặt chân, Miếu Bảo An trở thành trung tâm phòng thủ, sau chuyển sang Đại Đạo Điền
-- [Sơ Lâm](/geography/sơ-lâm) — 1859 chiến chiến Chương Tuyền Bangka với 1853 Đỉnh Hạ Giao Phing là hai trận chiến chia loại khác nhau, là hai khung cảnh chiến chiến dân tộc của miền Bắc Thanh Đài Loan
+- [Đài Bắc](/vi/geography/taipei-city) — 1738 Miếu Long Sơn, 1885 Đại Đạo Điền, 2004 Tháp 101 toàn cảnh thể sơ bộ ba thời gian
+- [Văn hóa phố cổ Đài Loan và khu thương mại](/vi/culture/taiwan-historic-streets-and-commercial-districts) — từ cảng hàng thời Thanh tới Barroco kỳ Nhật trị, bản đồ lịch sử 10+ phố cổ toàn Đài Loan
+- [Văn hóa tôn giáo và miếu của Đài Loan](/vi/culture/taiwan-religion-and-temple-culture) — toàn đảo 15.000 miếu, cấu trúc tín ngưỡng ba giáo Phật đạo hợp một mái
+- [Thời kỳ Thanh](/vi/history/qing-dynasty-rule) — 1683-1895 xã hội Đài Loan, chiến chiến chia loại, mạng lưới di cư
+- [Chiến Pháp Thanh](/vi/history/sino-french-war-in-taiwan) — 1884-1885 quân Pháp xâm chiếm miền Bắc Đài Loan, động viên Miếu Long Sơn Bangka, chiến thắng Đạm Thủy
+- [Đại Đạo Điền](/vi/geography/dadaocheng) — 1853 dân An Khai thua chiến Đỉnh Hạ Giao Phing Bangka tám Giáp Trang chạy qua mở thương cảng, là nhánh thời gian khác từ Bangka ra
+- [Tây Môn Độ](/vi/geography/ximending) — cùng batch 1 khu phố cổ anh em, năm 1896 người Nhật quy hoạch khu giải trí phía tây Bangka, tạo đối chiếu Thanh từ Nhật trị
+- [Đại Long Động](/vi/geography/dalongdong) — 1853 dân An Khai thua chiến Đỉnh Hạ Giao Phing Bangka tám Giáp Trang rút binh nơi đầu tiên đặt chân, Miếu Bảo An trở thành trung tâm phòng thủ, sau chuyển sang Đại Đạo Điền
+- [Sơ Lâm](/vi/geography/shilin) — 1859 chiến chiến Chương Tuyền Bangka với 1853 Đỉnh Hạ Giao Phing là hai trận chiến chia loại khác nhau, là hai khung cảnh chiến chiến dân tộc của miền Bắc Thanh Đài Loan
 
 ## Hình ảnh Nguồn
 
@@ -287,7 +287,7 @@ Bài viết này dùng 5 hình ảnh CC BY-SA authorized Wikimedia Commons, tấ
 
 [^17]: [Bangka - Wikipedia (Đoạn Suy Thoái)](https://zh.wikipedia.org/zh-tw/%E8%89%8B%E8%88%BA) — "Năm 1860 sau cảng nước Bangka vì silt sông Đạm Thủy, chức năng dần dần bị đoàn người An Khai tập trung Đại Đạo Điền thay thế" Wikipedia gốc, ghi chép Bangka từ thịnh vượng Thanh sang suy thoái kỳ Nhật hai nhân tố cấu trúc: silt sông nước + cư dân không thích người ngoài.
 
-[^18]: [Vạn Hóa Quận / Phố Quảng Châu - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%BB%A3%E5%B7%9E%E8%A1%97_(%E8%87%BA%E5%8C%97%E5%B8%82) — )) — Phố Quảng Châu từng tên "Phố Bên Viện Dâu Ý", "Phố Bên Viện Dâu Ý Y", "Phố Miếu Long Sơn" v.v. đặt tên, năm 1947 chính thức đặt tên phố Quảng Châu; số phố Quảng Châu 135-137 hào, 123-125 hào v.v. nhà phố kỳ Nhật trị bảo lưu tới ngày nay gạch đỏ mặt phố mái vòm xây dựng tài liệu kiến trúc
+[^18]: [Vạn Hóa Quận / Phố Quảng Châu - Wikipedia](<https://zh.wikipedia.org/zh-tw/%E5%BB%A3%E5%B7%9E%E8%A1%97_(%E8%87%BA%E5%8C%97%E5%B8%82)>) — )) — Phố Quảng Châu từng tên "Phố Bên Viện Dâu Ý", "Phố Bên Viện Dâu Ý Y", "Phố Miếu Long Sơn" v.v. đặt tên, năm 1947 chính thức đặt tên phố Quảng Châu; số phố Quảng Châu 135-137 hào, 123-125 hào v.v. nhà phố kỳ Nhật trị bảo lưu tới ngày nay gạch đỏ mặt phố mái vòm xây dựng tài liệu kiến trúc
 
 [^19]: [Miếu Long Sơn Bangka - Đạm Thủy Quái Vật / 1945 Không Kích Đoạn](http://tamsui.dils.tku.edu.tw/wiki/index.php/%E8%89%8B%E8%88%BA%E9%BE%8D%E5%B1%B1%E5%AF%BA) — "Năm 1945 tháng 5 ngày 31, quân Mỹ phát động không kích quy mô lớn nhất lịch sử tới Đài Bắc, Miếu Long Sơn Bangka Chính Điện, cánh trái đều bị đánh tuyệt tối" "Tôn tượng Quan Âm Bồ Tát chính thắp không bị tổn hại, lưu truyền tới nay thành đạo âm nhân tín đồ đẹp" ghi chép gốc.
 
@@ -307,12 +307,12 @@ Bài viết này dùng 5 hình ảnh CC BY-SA authorized Wikimedia Commons, tấ
 
 [^27]: [Đài Bắc Thị Vạn Hóa Quận Trường Tiểu Học Lão Tùng - Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E5%8C%97%E5%B8%82%E8%90%AC%E8%8F%AF%E5%8D%80%E8%80%81%E6%9D%BE%E5%9C%8B%E6%B0%91%E5%B0%8F%E5%AD%B8) — Năm 1896 (Minh Trị 29) tháng 5 ngày 21 thành lập, năm 1966 tháng 9 toàn trường 158 lớp học sinh 11.110 người tạo toàn cầu kỷ lục cao nhất lớp và số lượng học sinh, ngày nay Trường tiểu học Lão Tùng chỉ còn 458 học sinh lịch sử hoàn chỉnh.
 
-[^28]: [Hẻm Cỏ Xanh (Đài Loan) - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%9D%92%E8%8D%89%E5%B7%B7_(%E5%8F%B0%E7%81%A3) — )) — Phố Tây Xương 224 hẻm Hẻm Cỏ Xanh bối cảnh lịch sử, "Bangka kỳ khai hoang ban đầu bệnh tật nhiều, cư dân thường phụ thuộc vào phương pháp nói miệng hoặc Miếu Long Sơn lô thuốc bói, mọi người vì thế tới tiệm cỏ gần đó mua cỏ chữa bệnh, vì vậy lại được gọi 'phố cứu mạng'"; năm 2015 Đài Bắc Thị sắp dạn nhóm kiến trúc lịch sử Hẻm Cỏ Xanh là kiến trúc lịch sử
+[^28]: [Hẻm Cỏ Xanh (Đài Loan) - Wikipedia](<https://zh.wikipedia.org/zh-tw/%E9%9D%92%E8%8D%89%E5%B7%B7_(%E5%8F%B0%E7%81%A3)>) — )) — Phố Tây Xương 224 hẻm Hẻm Cỏ Xanh bối cảnh lịch sử, "Bangka kỳ khai hoang ban đầu bệnh tật nhiều, cư dân thường phụ thuộc vào phương pháp nói miệng hoặc Miếu Long Sơn lô thuốc bói, mọi người vì thế tới tiệm cỏ gần đó mua cỏ chữa bệnh, vì vậy lại được gọi 'phố cứu mạng'"; năm 2015 Đài Bắc Thị sắp dạn nhóm kiến trúc lịch sử Hẻm Cỏ Xanh là kiến trúc lịch sử
 
 [^29]: [Miếu Thanh Sơn Bangka Lạn Phòng Cũng Như Dự Hành - Bản Đồ Văn Hóa Tôn Giáo Đài Loan](https://taiwangods.moi.gov.tw/html/cultural/3_0011.aspx?i=81) — Bộ Nội vụ Bảng Tài Sản Văn Hóa Tôn Giáo chính thức trang ghi chép Miếu Thanh Sơn Bangka (1856 xây) lạn phòng dự hành hoạt động, rằm tháng 10 ngày 20-22 "Bangka đại bái bái", năm 2010 Đài Bắc Thị sắp dạn di tích dân tộc học văn hóa, cùng với Đại Đạo Điền Thánh Hoài Thành Hoàng, Tân Trang Địa Tạng An Lâm gọi là ba đại lạn phòng Đài Bắc bàn địa ghi chép hoàn chỉnh.
 
-[^30]: [Bangka (Phim) - Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%89%8B%E8%88%BA_(%E9%9B%BB%E5%BD%B1) — )) — Thông tin doanh thu phim "Bangka" năm 2010 đạo diễn Niệu Thừa Trạch (ngày đầu 18 triệu tân tấc, ba ngày đầu tuần 60 triệu tân tấc, cuối cùng 2,6 tỷ tân tấc Đài Loan), địa điểm quay phim (Bạ Bì Liêu, Miếu Tổ Sư, nước Nguồn nhanh chóng), phản ứng chính thức (Bộ Giáo dục bộ trưởng Ngô Thanh Cơ, Cảnh sát bộ trưởng Vương Tác Quân chỉ trích)
+[^30]: [Bangka (Phim) - Wikipedia](<https://zh.wikipedia.org/zh-tw/%E8%89%8B%E8%88%BA_(%E9%9B%BB%E5%BD%B1)>) — )) — Thông tin doanh thu phim "Bangka" năm 2010 đạo diễn Niệu Thừa Trạch (ngày đầu 18 triệu tân tấc, ba ngày đầu tuần 60 triệu tân tấc, cuối cùng 2,6 tỷ tân tấc Đài Loan), địa điểm quay phim (Bạ Bì Liêu, Miếu Tổ Sư, nước Nguồn nhanh chóng), phản ứng chính thức (Bộ Giáo dục bộ trưởng Ngô Thanh Cơ, Cảnh sát bộ trưởng Vương Tác Quân chỉ trích)
 
-[^31]: [Snake Alley (Taipei) - Wikipedia](https://en.wikipedia.org/wiki/Snake_Alley_(Taipei) — )) — Bài viết Wikipedia tiếng Anh Hoa Tây (Phố Rắn) ghi chép Đại Đạo Điền chợ đêm du lịch từ những năm 1990 tiệm bán rắn toàn thịnh tới sau năm 2000 ý thức bảo vệ động vật nâng cao, khách quay đổi, toàn bộ chợ đêm chuyển hóa đồ ăn chủ yếu quá trình chuyển hóa hoàn chỉnh
+[^31]: [Snake Alley (Taipei) - Wikipedia](<https://en.wikipedia.org/wiki/Snake_Alley_(Taipei)>) — )) — Bài viết Wikipedia tiếng Anh Hoa Tây (Phố Rắn) ghi chép Đại Đạo Điền chợ đêm du lịch từ những năm 1990 tiệm bán rắn toàn thịnh tới sau năm 2000 ý thức bảo vệ động vật nâng cao, khách quay đổi, toàn bộ chợ đêm chuyển hóa đồ ăn chủ yếu quá trình chuyển hóa hoàn chỉnh
 
 [^32]: [【Cư Dân Chung Sống 1-3】Công Viên Bangka Tu Sửa: Thi Hành Phân Đoạn, Quy Mô Hiên Giảm Ảnh Hưởng Người Vô Gia Cư, Nửa Số Lượng Trở Lên Người Dùng Gốc Rồi Có Nhà" - Right Plus Đa Đa Ích Thiện 2024-09-04](https://rightplus.org/2024/09/04/mongapark1/) — Năm 2024 tháng 9 tổ chức dân sự khảo sát 168 phiếu hỏi hoàn chỉnh báo cáo, bao gồm 94 phiếu người vô gia cư, 74 phiếu dân thường, 33 phiếu tiệm hàng xung quanh ý kiến Công Viên Bangka tu sửa, 6 thập người vô gia cư từ chối trại chứa công ty mở lý do, 6 thập tiệm hàng ủng hộ "chiến lược quản lý tại chỗ", đại biểu lập pháp Ngô Mộc Dự thúc đẩy "Luật Cứu Trợ Xã Hội" chuyên biệt vô gia cư sửa đạo luật v.v. ghi chép.

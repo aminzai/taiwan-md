@@ -94,7 +94,7 @@ Yang ia temukan di Fengyuan bukan vas yang kebetulan bisa dipakai, tapi awal seb
 - [Dinas Pengelolaan Aset Budaya Kota Tainan: Hati Seni Sang Maestro—Pewaris "Jiannian" Chen San-huo](https://tmach-culture.tainan.gov.tw/page.asp?mainid=75BBB810-6FD0-4DF6-968A-AC9C9E65DFFE)
 - [Taiwan Panorama: Reconfiguring Tradition: Chen San-huo's Art of Jiannian](https://www.taiwan-panorama.com/en/Articles/Details?Guid=4c29fc69-a210-46ac-a6b1-8ae6c9b5d454&CatId=8&postname=Reconfiguring%20Tradition%3A%20-Chen%20San-huo%27s%20Art%20of%20Jiannian)
 
-## 參考資料
+## Referensi
 
 [^1]: [Central News Agency: Anugerah Kerajinan Nasional — Seniman Jiannian Chen San-huo Raih Penghargaan](https://www.cna.com.tw/news/acul/202109230183.aspx) — Liputan titik awal belajar seni Chen San-huo, pembuatan Damuo dari pecahan vas pasca 921, dan bagaimana teknik "Yi Peng Dai Jian" beralih dari pemulihan kuil ke kreasi.
 

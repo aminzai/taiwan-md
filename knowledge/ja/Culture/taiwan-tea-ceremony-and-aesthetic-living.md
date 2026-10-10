@@ -129,7 +129,7 @@ difficulty: 'beginner'
 
 ## 関連記事
 
-- [台湾茶文化](/culture/台湾茶文化) - 茶の品種と産地の詳細ガイド
-- [伝統的な祝祭と祭典](/culture/伝統的な祝祭と祭典) - 祝祭における茶の役割
-- [台湾感性：韓国人が見る台湾的美学](/culture/台湾感性) - 台湾のスローライフを代表する茶席美学も、韓国人が憧れる「台湾感性（テーモンガムソン）」の一環
-- [客家文化と言語](/culture/客家文化と言語) - 東方美人茶と客家茶産地とのつながり
+- [台湾茶文化](/ja/culture/taiwanese-tea-culture-and-living-aesthetics) - 茶の品種と産地の詳細ガイド
+- [伝統的な祝祭と祭典](/ja/culture/traditional-festivals-and-celebrations) - 祝祭における茶の役割
+- [台湾感性：韓国人が見る台湾的美学](/ja/culture/taiwanese-sensibility) - 台湾のスローライフを代表する茶席美学も、韓国人が憧れる「台湾感性（テーモンガムソン）」の一環
+- [客家文化と言語](/ja/culture/hakka-culture-and-language) - 東方美人茶と客家茶産地とのつながり

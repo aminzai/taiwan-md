@@ -313,10 +313,10 @@ Les 97 672 fûts de Lanyu ne disparaîtront pas, que le référendum passe ou no
 - [Sources chaudes et géothermie à Taïwan](/fr/nature/taiwan-hot-springs-and-geothermal-energy) — De l'échec de la géothermie de Chingshui en 1981 à son redémarrage en 2024, comment 30 ans de silence géothermique se sont formés
 - [Justice environnementale et conflits NIMBY à Taïwan](/fr/society/taiwan-environmental-justice-nimby-conflicts) — Lanyu, récifs d'algues, Meinong : la politique de répartition des coûts de la transition énergétique
 - [Transformation et mise à niveau industrielle de Taïwan](/fr/economy/industrial-transformation-from-manufacturing-to-innovation) — De la manufacture à haute intensité énergétique à l'industrie de l'énergie verte, le compte énergétique de TSMC RE100, CBAM, la montagne sacrée protectrice du pays
-- [Arbres d'alignement de Taïwan](/lifestyle/台灣行道樹) — L'ombrage des arbres d'alignement comme adaptation aux îlots de chaleur urbains, position et échelle temporelle : un arbre a besoin d'au moins dix ans pour grandir assez pour faire de l'ombre, c'est l'élément le plus urgent sur cette ligne
+- [Arbres d'alignement de Taïwan](/fr/lifestyle/taiwan-street-trees) — L'ombrage des arbres d'alignement comme adaptation aux îlots de chaleur urbains, position et échelle temporelle : un arbre a besoin d'au moins dix ans pour grandir assez pour faire de l'ombre, c'est l'élément le plus urgent sur cette ligne
 - [Développement de la modernisation agricole de Taïwan](/fr/economy/taiwan-agricultural-modernization) — Pressions de transformation agricole et conflits d'utilisation des terres derrière l'agrivoltaïsme
 - [Pluie de mousson](/fr/nature/meiyu-stagnant-front) — Observation locale du changement climatique : « pas de pluie au printemps, mousson concentrée »
-- [Mécanisme des prix du pétrole à Taïwan et CPC](/economy/台灣油價機制與中油) — Tiraillement entre subventions aux combustibles fossiles et signaux d'économie d'énergie : le gel des prix rend l'essence bon marché au litre pour tous, plus on en utilise plus on économise, et personne n'a calculé qui en a le plus profité ces six derniers mois.
+- [Mécanisme des prix du pétrole à Taïwan et CPC](/fr/economy/taiwan-fuel-pricing-and-cpc) — Tiraillement entre subventions aux combustibles fossiles et signaux d'économie d'énergie : le gel des prix rend l'essence bon marché au litre pour tous, plus on en utilise plus on économise, et personne n'a calculé qui en a le plus profité ces six derniers mois.
 
 ## Sources des images
 

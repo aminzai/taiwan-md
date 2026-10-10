@@ -13,7 +13,7 @@ tags:
     'पारिवारिक व्यवसाय',
     'उद्यमशीलता की भावना',
   ]
-subcategory: 'आर्थिक विकास'
+subcategory: '經濟發展'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-07-25
@@ -23,6 +23,7 @@ curation: 'incubating'
 translatedFrom: 'Economy/台灣中小企業與隱形冠軍.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:5740300e7d61b41d'
+sourceBodyHash: 'sha256:aa9670656fd12067'
 translatedAt: '2026-08-04T20:38:59.241177+00:00'
 ---
 

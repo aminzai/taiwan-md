@@ -11,7 +11,7 @@ tags:
     'وو نيان تشن',
     'الذاكرة الجماعية',
   ]
-subcategory: 'الثقافة الشعبية'
+subcategory: '大眾文化'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-14
@@ -25,6 +25,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Tatung_100th_Anniversary_C
 translatedFrom: 'Culture/台灣廣告史.md'
 sourceCommitSha: 'f7484ebea'
 sourceContentHash: 'sha256:5bf5af7cbb7baf0f'
+sourceBodyHash: 'sha256:296b2f47a01a03eb'
 translatedAt: '2026-07-30T03:02:18.151371+00:00'
 ---
 

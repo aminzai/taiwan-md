@@ -37,6 +37,7 @@ sporeLinks:
 translatedFrom: 'Technology/開放文化基金會.md'
 sourceCommitSha: 'c8e5ac9ea'
 sourceContentHash: 'sha256:08a786ea48be0947'
+sourceBodyHash: 'sha256:429230fac9b89ba1'
 translatedAt: '2026-09-26T12:59:05.005050+00:00'
 ---
 
@@ -194,7 +195,7 @@ Anda telah menggunakan hasil karyanya (peta masker, bot verifikasi, konferensi s
 - [Komunitas Sumber Terbuka dan g0v](/id/technology/open-source-and-g0v) — OCF lahir sejak awal untuk menangani pembukuan komunitas seperti g0v, mereka yang "fork pemerintah" sebagai peretas sipil, dan peta masker 72 jam.
 - [Semangat Sumber Terbuka Taiwan](/id/technology/taiwan-open-source-spirit) — Konsep "pendanaan publik, program publik" yang diwujudkan OCF adalah perpanjangan dari budaya sumber terbuka Taiwan yang bergerak dari lingkaran teknologi ke tata kelola publik.
 - [Audrey Tang](/id/people/audrey-tang) — Dari peserta g0v hingga menteri digital pertama, OCF berkali-kali berhadapan dengan Kementerian Pengembangan Digital yang dipimpinnya, baik berkolaborasi maupun saling mengawasi.
-- [Peperangan Kognitif](/society/認知作戰) — Medan pertempuran berita palsu yang dilawan robot verifikasi Cofacts, manipulasi informasi yang dihadapi Taiwan.
+- [Peperangan Kognitif](/id/society/cognitive-warfare-against-taiwan) — Medan pertempuran berita palsu yang dilawan robot verifikasi Cofacts, manipulasi informasi yang dihadapi Taiwan.
 - [Mengapa Taiwan Membutuhkan Basis Pengetahuan Sendiri](/id/about/why-taiwan-needs-its-own-knowledge-base) — Ketika AI menjadi pintu masuk pertama bagi pembaca berbahasa asing yang bertanya "apa itu Taiwan", komitmen OCF terhadap keterbukaan pengetahuan dan dapat diaudit adalah infrastruktur dasar untuk mengembalikan suara yang tertindas itu.
 
 ## Sumber Gambar

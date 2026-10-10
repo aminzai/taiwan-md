@@ -150,4 +150,4 @@ Rel industri Alishan tidak membawa Taiwan menjauh dari alam. Ia lebih seperti pe
 
 [^10]: [Wikimedia Commons: File:Taiwan, Rel Kereta Api Industri Alishan 'DL 36' di Beimen.jpg](https://commons.wikimedia.org/wiki/File:Taiwan,_Alishan_Forest_Railway_%27DL_36%27_at_Beimen.jpg) — Oleh Industrial Wales, lisensi Creative Commons Atribusi—Berbagi Serupa 2.0, gambar disematkan melalui URL panas file asli, tidak diunduh atau di-host ulang.
 
-[^11]: [Wikimedia Commons: File:Rel Kereta Api Industri Alishan, Stasiun Beimen, Kota Chiayi (Taiwan).jpg](<https://commons.wikimedia.org/wiki/File:Alishan_Forest_Railway,_Beimen_Station,_Chiayi_CIty_(Taiwan).jpg>) — Oleh Malcolm Koo, lisensi Creative Commons Atribusi—Berbagi Serupa 4.0, gambar disematkan melalui URL panas file asli, tidak diunduh atau di-host ulang.
+[^11]: [Wikimedia Commons: File:Rel Kereta Api Industri Alishan, Stasiun Beimen, Kota Chiayi (Taiwan).jpg](https://commons.wikimedia.org/wiki/File:Alishan_Forest_Railway,_Beimen_Station,_Chiayi_CIty_(Taiwan) — Oleh Malcolm Koo, lisensi Creative Commons Atribusi—Berbagi Serupa 4.0, gambar disematkan melalui URL panas file asli, tidak diunduh atau di-host ulang.

@@ -16,7 +16,7 @@ tags:
     'K-POP',
     'Idols taiwaneses',
   ]
-subcategory: 'Música e Performance'
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-23

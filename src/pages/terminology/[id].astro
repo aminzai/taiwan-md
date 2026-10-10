@@ -25,6 +25,14 @@
  */
 import Layout from '../../layouts/Layout.astro';
 import PageHero from '../../components/PageHero.astro';
+// 「算不算中國用語」四層說法 + 佐證判定住在 src/utils/terminology-wording.ts，
+// 讓 tests/terminology-wording.test.mjs 不用整站 build 就能驗字（OBSERVER-QUEUE #76 C）。
+import {
+  scrubTermField,
+  hasTermEtymology,
+  hasTermEvidence,
+  termWording,
+} from '../../utils/terminology-wording';
 // NB: fs/path/yaml are imported *inside* getStaticPaths (Astro runs it in an
 // isolated context). The page body works purely off Astro.props, so it needs
 // none of them at module scope.
@@ -289,17 +297,9 @@ const forkBlurb = p.forkKey ? forkTypeBlurbs[p.forkKey] : '';
 // ~1,655 legacy entries (1997/ThunderKO import) carry literal filler in the
 // etymology paths ("台灣用法" / "中國用法"). Rendered as 詞源 they are visible junk
 // on 71% of per-term pages. Treat them as empty so hasEtymology / etymologyRows
-// (and the fork honesty gate below) ignore them.
-const PLACEHOLDERS = new Set([
-  '台灣用法',
-  '台灣用語',
-  '中國用法',
-  '中國用語',
-  '用法',
-  '無',
-]);
-const scrub = (s: string) =>
-  PLACEHOLDERS.has((s || '').trim()) ? '' : (s || '').trim();
+// (and the fork honesty gate below) ignore them. The placeholder list itself
+// lives in terminology-wording.ts (TERM_PLACEHOLDERS) so the test sees the same set.
+const scrub = scrubTermField;
 const origin = scrub(p.origin);
 const taiwanPath = scrub(p.taiwanPath);
 const chinaPath = scrub(p.chinaPath);
@@ -315,9 +315,21 @@ const notesClean =
   /CC0|caris-events|invade/i.test(p.notes || '')
     ? ''
     : p.notes;
-const hasRealEtymology = Boolean(
-  origin || forkPoint || forkCause || taiwanPath || chinaPath,
-);
+const evidenceFields = {
+  origin,
+  taiwanPath,
+  chinaPath,
+  forkPoint,
+  forkCause,
+  usageExample,
+  usageNote,
+};
+const hasRealEtymology = hasTermEtymology(evidenceFields);
+// ── 零佐證降級（2026-10-10，OBSERVER-QUEUE #76 選項 C）────────────────────────
+// 佐證 = 詞源任一欄位有字，或 usage 有範疇（example / note）。零佐證的條目（import
+// 預設 B 型那一千七百條）不再對讀者講「是中國大陸的常見說法」，只說這條記錄了
+// 有人回報的差異、來源還沒查證。資料不動，命中的是 render 層。
+const evidenced = hasTermEvidence(evidenceFields);
 
 // ── fork_type honesty gate (2026-06-22) ─────────────────────────────────────
 // 1,716 entries default to fork_type B「1949 分流」but 93% carry zero etymology
@@ -329,12 +341,30 @@ const hasRealEtymology = Boolean(
 const forkIsSoft = p.forkKey === 'E' || p.forkKey === 'F';
 const showFork = Boolean(p.forkKey) && (hasRealEtymology || forkIsSoft);
 
+// ── Direct-answer wording (2026-06-22 → 2026-10-10) ─────────────────────────
+// taiwan may carry " / " alternatives; the lead folds the rest in as「也說…」.
+// Honesty gate history: 2026-07-10 split E/F out of the mainland-only claim;
+// 2026-10-10 split zero-evidence entries out too (#76 C). All four sentences
+// (lead / FAQ answer / seo lead / hero subtitle) come from one function so the
+// visible text, the JSON-LD mirror and the snippet can never disagree.
+const taiwanAlts = p.taiwan
+  .split(/\s*\/\s*/)
+  .slice(1)
+  .join('、');
+const wording = termWording({
+  china: p.china,
+  taiwanPrimary,
+  taiwanAlts,
+  forkKey: p.forkKey,
+  evidenced,
+});
+
 // SEO title — tuned to「{china} 台灣怎麼說」. Kept ≤ ~60 chars.
 const seoTitle = `「${p.china}」台灣怎麼說？台灣用語是「${taiwanPrimary}」`;
 // seoDesc gates the fork blurb on showFork (never assert an unsupported 1949 claim
 // in the snippet) and folds in the「算不算中國用語」intent.
 const seoDesc =
-  `中國說「${p.china}」，台灣說「${taiwanPrimary}」。` +
+  wording.seoLead +
   (showFork && forkBlurb ? forkBlurb : '') +
   `查「${p.china}」算不算中國用語、台灣用語怎麼說 — Taiwan.md 用語保存計畫。`;
 
@@ -352,28 +382,11 @@ if (forkCause) etymologyRows.push({ label: '為什麼會分歧', value: forkCaus
 // URL helper for sources: treat http(s) as link, everything else as citation.
 const isUrl = (s: string) => /^https?:\/\//i.test(s.trim());
 
-// ── Direct-answer lead (2026-06-22) ─────────────────────────────────────────
-// Always true: by the inclusion rule the china term is the mainland usage and
-// taiwan is the local word. A prose answer high in the body gives Google a real
-// snippet (the thin pages had none) and answers both「{china}台灣用語」and the
-// 「是支語嗎」intent in plain, non-judgmental language.
-const taiwanAlts = p.taiwan
-  .split(/\s*\/\s*/)
-  .slice(1)
-  .join('、');
-// Honesty gate for the lead claim (2026-07-10): E「正在分歧」and F「同詞不同語感」both
-// mean the word lives on both sides — asserting「是中國大陸的用法」for F is wrong (F was
-// wrongly bucketed into the mainland-only else branch). E = actively diverging;
-// F = both use it, register/frequency differs. Only distinctly-mainland classes
-// (A/B/C/D/semantic/orthographic + evidenced) get the「是中國大陸的用法」claim.
-const isDiverging = p.forkKey === 'E';
-const isSameWordDiffFeel = p.forkKey === 'F';
-const altSuffix = taiwanAlts ? `（也說${taiwanAlts}）` : '';
-const leadAnswer = isDiverging
-  ? `「${p.china}」是兩岸正在分歧的詞，雙方大致都聽得懂；台灣這邊多半說「${taiwanPrimary}」${altSuffix}。`
-  : isSameWordDiffFeel
-    ? `「${p.china}」兩岸都在用，但語感與常用度不太一樣；台灣這邊比較常說「${taiwanPrimary}」${altSuffix}。`
-    : `「${p.china}」是中國大陸的用法，在台灣通常說「${taiwanPrimary}」${altSuffix}。`;
+// Direct-answer lead: a prose answer high in the body gives Google a real snippet
+// (the thin pages had none) and answers both「{china}台灣用語」and the「是支語嗎」
+// intent in plain, non-judgmental language. Which sentence it is depends on the
+// bucket (E / F / evidenced / unverified), see terminology-wording.ts.
+const leadAnswer = wording.lead;
 const leadExtra = showFork && forkBlurb ? forkBlurb : '';
 
 // ── FAQ (2026-06-22) ────────────────────────────────────────────────────────
@@ -388,13 +401,7 @@ const faqEntries = [
     // #1286: 陰陽怪氣 adjective usage is MoE-dictionary standard Mandarin —
     // only the verb usage is a China-internet usage). Fold it into the answer
     // so the FAQ (and its JSON-LD mirror) never over-claims the whole word.
-    a:
-      (isDiverging
-        ? `「${p.china}」兩岸都在用、正在分歧，台灣這邊習慣說「${taiwanPrimary}」。`
-        : isSameWordDiffFeel
-          ? `「${p.china}」兩岸都用，但語感不同；台灣這邊比較常說「${taiwanPrimary}」。`
-          : `是，「${p.china}」是中國大陸的常見說法，台灣慣用「${taiwanPrimary}」。`) +
-      (usageNote || ''),
+    a: wording.faqAnswer + (usageNote || ''),
   },
 ];
 
@@ -452,7 +459,7 @@ const faqLD = {
         {
           p.taiwan !== taiwanPrimary
             ? `台灣完整說法：${p.taiwan}`
-            : `在台灣，「${p.china}」要說「${taiwanPrimary}」。`
+            : wording.heroSubtitle
         }
       </Fragment>
 

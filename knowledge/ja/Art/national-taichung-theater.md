@@ -18,6 +18,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:2017-10-29_National_Taichu
 translatedFrom: 'Art/台中國家歌劇院.md'
 sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:bc43817a123394b3'
+sourceBodyHash: 'sha256:672a8871e0fcfa50'
 translatedAt: '2026-09-10T18:56:12.284945+00:00'
 ---
 

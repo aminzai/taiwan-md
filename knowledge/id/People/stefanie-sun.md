@@ -144,11 +144,11 @@ Dia sendiri mungkin juga rasa: tidak apa-apa—dia sudah bilang, jadi diri sendi
 
 Kebangkitan Stefanie Sun adalah cerminan puncak industri musik pop Taiwan awal 2000-an. Jay Chou yang dikalahkannya selisih 1 suara, di era yang sama mendefinisikan lintasan lain pop Mandarin, keduanya sampai sekarang tetap sumbu ganda generasi itu. Lagu-lagunya sampai sekarang sering muncul daftar pilih KTV Taiwan, adalah semacam arsip budaya yang hidup di masa kini.
 
-- [Musik Pop Taiwan](/music/台灣流行音樂/) — Latar industri debut Stefanie Sun, konteks puncak industri rekaman Taiwan era 2000-an
-- [Anugerah Emas](/music/金曲獎/) — Bagaimana Anugerah Emas dari mekanisme juri jadi penanda selera budaya
+- [Musik Pop Taiwan](/id/music/golden-melodies-legacy-taiwan-pop-music/) — Latar industri debut Stefanie Sun, konteks puncak industri rekaman Taiwan era 2000-an
+- [Anugerah Emas](/id/music/pop-music-and-golden-melody-awards/) — Bagaimana Anugerah Emas dari mekanisme juri jadi penanda selera budaya
 - [Jay Chou](/id/people/jay-chou/) — Peserta nominasi Penyanyi Baru Terbaik ke-12 angkatan yang sama, mendefinisikan lintasan lain pop Mandarin
-- [Budaya KTV Taiwan](/music/台灣KTV文化/) — Kenapa lagu Stefanie Sun di daftar pilih KTV tahan lama
-- [Tanya Chua](/people/蔡健雅/) — Dua bintang penyanyi wanita Singapura era yang sama, Tanya Chua pernah tulis "Di Liu Gan" (2003) untuk Stefanie Sun
+- [Budaya KTV Taiwan](/id/music/ktv-culture/) — Kenapa lagu Stefanie Sun di daftar pilih KTV tahan lama
+- [Tanya Chua](/id/people/tanya-chua-singer/) — Dua bintang penyanyi wanita Singapura era yang sama, Tanya Chua pernah tulis "Di Liu Gan" (2003) untuk Stefanie Sun
 
 ## Referensi
 

@@ -171,9 +171,9 @@ This is not about hatred — it is about the ledger. The day the White Terror tr
 
 - [Taiwan's Democratic Transition](/en/history/taiwan-democratization) — The full picture of the forty-year transformation from martial law to one of Asia's freest democracies
 - [The Martial Law Period](/en/history/martial-law-era) — The legal container of 38 years and 56 days and the process of lifting martial law
-- [Taiwan's Transitional Justice](/history/台灣轉型正義) — Post–martial law truth investigations and the unfinished business of holding perpetrators accountable
+- [Taiwan's Transitional Justice](/en/history/taiwan-transitional-justice) — Post–martial law truth investigations and the unfinished business of holding perpetrators accountable
 - [National Human Rights Museum](/en/history/national-human-rights-museum) — The institution behind the two White Terror memorial parks at Jingmei and Green Island: from six years of preparation to the 2025 budget freeze
-- [The February 28 Incident](/history/二二八事件) — The prelude to the White Terror: how the 1947 crackdown foreshadowed the martial law regime
+- [The February 28 Incident](/en/history/228-incident) — The prelude to the White Terror: how the 1947 crackdown foreshadowed the martial law regime
 - [The Kaohsiung Incident](/en/history/kaohsiung-incident-formosa-incident) — A pivotal turning point in the late White Terror period, 1979
 - [Alishan: The Empire's Forest and Kao I-sheng's Mountain](/en/history/alishan-empire-forest-and-uongu-yatauyungana) — Kao I-sheng's mountain and the story of a silenced Indigenous people
 - [Yin Hai-kuang](/en/people/yin-haiguang-liberalism-philosopher) — The National Taiwan University philosophy professor placed under house arrest on Wenzhou Street's Lane 18 after the Lei Chen case in 1960, a founding figure of Taiwanese liberalism

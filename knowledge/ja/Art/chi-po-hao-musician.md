@@ -177,7 +177,7 @@ MITでの3年、彼はいくつかのことをした。
 - **[Hello Nico](/ja/people/hello-nico-band)** — 紀柏豪初期のインディーズバンドとしてのアイデンティティ、2014《浮游城市》EPシンセサイザー奏者
 - **[台湾ニューメディア芸術](/ja/art/taiwan-new-media-art)** — 台湾ニューメディア芸術脈絡における音響芸術の位置
 
-## 參考資料
+## 参考資料
 
 [^1]: [MIT ACT: Po-Hao Chi SMACT '21 and Chucho Ocampo Aguilar SMACT '21 Win First and Second Place in 2021 Schnitzer Prize](http://act.mit.edu/2021/08/po-hao-chi-smact-21-and-chucho-ocampo-aguilar-smact-21-win-first-and-second-place-in-2021-schnitzer-prize/) — MIT公式首席発表、首席賞金$5,000
 

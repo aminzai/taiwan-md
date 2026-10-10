@@ -185,7 +185,7 @@ O próximo desastre virá inevitavelmente. A plataforma da estação de Guangfu 
 - [Cantores Indígenas Contemporâneos](/pt/music/contemporary-indigenous-singer-songwriters) — Como Chen Chien-nien, Hu Defu e outros músicos indígenas escrevem a experiência tribal no mapa sonoro do Taiwan contemporâneo
 - [Cultura de Voluntariado e Participação Pública em Taiwan](/pt/society/volunteering-and-civic-charity-in-taiwan) — A ecologia da sociedade civil taiwanesa, da Tzu Chi a incontáveis pequenas ONGs
 - [Mitologia Indígena](/pt/culture/taiwan-indigenous-mythology) — Do mito de fundação de Matayal às lendas Truku, Paiwan, o motivo da enchente e a memória geográfica da ilha de Taiwan
-- [Justiça Territorial Indígena e Domínios Tradicionais](/society/台灣原住民族土地正義與傳統領域) — Autonomia tribal, demarcação de domínios tradicionais e subjetividade tribal na reconstrução pós-desastre
+- [Justiça Territorial Indígena e Domínios Tradicionais](/pt/society/indigenous-land-justice-and-traditional-territories) — Autonomia tribal, demarcação de domínios tradicionais e subjetividade tribal na reconstrução pós-desastre
 
 ## Fontes das Imagens
 

@@ -142,8 +142,8 @@ Ebenso integrierten die durch die Hafenmodernisierung entstandenen Straßen, Eis
 
 ## Weiterführende Lektüre
 
-- [Modernisierung der taiwanesischen Fischerei](/history/台灣漁業現代化) — Die zweite Hälfte desselben Meeres: Hochseeflotten, ausschließliche Wirtschaftszonen und Flaggenstaatsverantwortung
-- [Geschichte des Taiwan Agricultural Cooperative](/history/台灣農會史) — Systemische Veränderungen in ländlichen Organisationen, Finanzen und lokalen öffentlichen Schnittstellen
+- [Modernisierung der taiwanesischen Fischerei](/de/history/taiwan-fishery-modernization) — Die zweite Hälfte desselben Meeres: Hochseeflotten, ausschließliche Wirtschaftszonen und Flaggenstaatsverantwortung
+- [Geschichte des Taiwan Agricultural Cooperative](/de/history/taiwan-farmers-association-history) — Systemische Veränderungen in ländlichen Organisationen, Finanzen und lokalen öffentlichen Schnittstellen
 - [Geschichte der taiwanesischen Post](/history/台灣郵政史) — Eine weitere öffentliche Infrastruktur, die lokale Gemeinschaften, Logistik und staatliche Verwaltung miteinander verband
 - [Geschichte des taiwanesischen Wassers](/history/台灣自來水史) — Wie Ingenieurwesen, Hygiene und das städtische Alltagsleben ein System bildeten
 

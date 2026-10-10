@@ -12,7 +12,7 @@ tags:
     'Parque Kadori',
     'Jardim Yage',
   ]
-subcategory: 'Sociedade e História do Cotidiano'
+subcategory: '社會與日常史'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-01
@@ -21,6 +21,7 @@ readingTime: 8
 translatedFrom: 'History/消失的遊樂園.md'
 sourceCommitSha: 'edae9fc94'
 sourceContentHash: 'sha256:b2e6141f09c44118'
+sourceBodyHash: 'sha256:67b3b53be583f748'
 translatedAt: '2026-07-29T05:21:41.806155+00:00'
 ---
 

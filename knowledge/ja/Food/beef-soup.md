@@ -82,7 +82,7 @@ translatedAt: '2026-08-04T17:42:34+08:00'
 
 ---
 
-## 參考資料
+## 参考資料
 
 - [一碗台南牛肉湯，看牛隻從牧場到餐桌的真實內幕 — CitiOrange 公民報橘](https://buzzorange.com/citiorange/2018/07/20/what-is-the-source-of-beef/)
 - [台南牛肉湯：從牧場到餐桌這段路 — 上下游新聞](https://www.newsmarket.com.tw/blog/110742/)

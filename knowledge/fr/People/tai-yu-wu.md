@@ -9,7 +9,7 @@ lastVerified: 2026-05-16
 lastHumanReview: true
 featured: true
 translatedFrom: People/吳大猷.md
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '85926aa3b'
 sourceContentHash: 'sha256:ea84edf10c10d1a4'
 sourceBodyHash: 'sha256:54cafe2c5032e30e'
 translatedAt: '2026-05-17T06:15:00Z'
@@ -47,9 +47,9 @@ En 1957, Yang Chen-Ning et Lee Tsung-Dao reçurent conjointement le prix Nobel d
 
 En 1983, à l'âge de 76 ans, Wu Da-You devint président de l'Academia Sinica, assumant un poste qui n'était pas des plus faciles. Durant son mandat (1983–1994), il souligna le caractère irremplaçable de la recherche fondamentale, refusant que l'Academia Sinica se réduise à un simple organisme au service des besoins appliqués ; il promut un système d'évaluation de la recherche plus rigoureux et favorisa le retour de chercheurs basés à l'étranger[^6].
 
-Il disait souvent : « Sans sciences fondamentales, il n'y a pas de véritable sciences appliquées. » Dans le contexte des années 1980, où Taïwan était pressé de développer son [[semiconductor industry|industrie des semi-conducteurs]] et son secteur des technologies de l'information, cette phrase demandait une certaine force de caractère pour être prononcée. Il accordait également une grande importance à la communication scientifique auprès du grand public, encourageant l'Academia Sinica à organiser des conférences scientifiques et des écoles d'été, pour que la science ne reste pas confinée dans les murs de l'institut.
+Il disait souvent : « Sans sciences fondamentales, il n'y a pas de véritable sciences appliquées. » Dans le contexte des années 1980, où Taïwan était pressé de développer son industrie des semi-conducteurs et son secteur des technologies de l'information, cette phrase demandait une certaine force de caractère pour être prononcée. Il accordait également une grande importance à la communication scientifique auprès du grand public, encourageant l'Academia Sinica à organiser des conférences scientifiques et des écoles d'été, pour que la science ne reste pas confinée dans les murs de l'institut.
 
-Les effets de ces réformes ne furent pas immédiats, mais elles fournirent les bases institutionnelles de l'essor ultérieur de la recherche scientifique à Taïwan. Par la suite, [[Lee Yuan-Tseh|Lee Yuan-Tseh]] lui succéda à la présidence (1994–2006), poursuivant l'internationalisation de l'Academia Sinica en s'appuyant sur les fondations institutionnelles posées par Wu Da-You.
+Les effets de ces réformes ne furent pas immédiats, mais elles fournirent les bases institutionnelles de l'essor ultérieur de la recherche scientifique à Taïwan. Par la suite, Lee Yuan-Tseh lui succéda à la présidence (1994–2006), poursuivant l'internationalisation de l'Academia Sinica en s'appuyant sur les fondations institutionnelles posées par Wu Da-You.
 
 ## Un titre malaisé
 

@@ -3,7 +3,7 @@ title: "Three Foreigners Witness 1895 Taiwan: A Photographer's Album, a Reporter
 description: "In the Yi-Wei War of 1895 (乙未之役), three foreigners left behind the most important foreign-language eyewitness documents of that conflict — Japanese photographer Endo Makoto's victory album, American journalist James W. Davidson's embedded notes, and Japanese pastor Hosokawa Ryu's diary from Taiwan. The question is not what they saw, but for whom they were watching."
 date: 2026-04-27
 category: History
-subcategory: 'Colonialism & Empire'
+subcategory: '殖民與帝國'
 tags:
   - 'Yi-Wei War'
   - '1895'

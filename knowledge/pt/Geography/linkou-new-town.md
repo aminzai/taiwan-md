@@ -3,7 +3,7 @@ title: "Linkou New Town: Transformação e Desafios de uma Nova Metrópole em No
 description: "Na década de 1970, o governo de Taiwan planejou a criação do 'Linkou New Town' na planície de Linkou para aliviar a pressão populacional em Taipé. Após décadas de desenvolvimento, a área, que era apelidada de 'cidade fantasma' devido à má infraestrutura e falta de serviços, viu seu crescimento populacional acelerar após a estreia do metrô do aeroporto em 2017, com avanço industrial e aumento da dinâmica, tornando-se uma das regiões metropolitanas mais jovens e prósperas do norte de Taiwan. No entanto, congestionamentos e o clima úmido e frio permanecem desafios a serem superados."
 date: 2026-04-29
 category: 'Geography'
-subcategory: 'Cidade e Geografia Humana'
+subcategory: '城市與人文地理'
 tags:
   [
     'Linkou New Town',
@@ -119,9 +119,9 @@ De olhos para o futuro, Linkou New Town continuará a atrair talentos e recursos
 
 [^15]: [YouTube: Linkou é a cidade dos escolas internacionais ricas!](https://www.youtube.com/watch?v=jokTPTYsQQg) — Fornece contexto, dados ou eventos relevantes para o texto, servindo como base de verificação.
 
-[^16]: [MK Studio: Linkou, a 'Cidade Internacional', desenvolve um plano educacional para famílias internacionais](https://mkstudiotw.com/2018/07/14/%E6%9E%97%E5%8F%A3%E5%9C%8B%E9%9A%9B%E5%9F%8E%EF%BC%8C%E5%A4%9A%E6%89%80%E5%9C%8B%E9%9A%96%E5%AD%B8%E6%A0%A1%E6%89%93%E9%80%A0%E3%80%8C%E8%8F%81%E8%8B%B1%E6%95%99%E8%82%B2%E8%97%8D%E5%9C%96%E3%80%8D/) — Fornece contexto, dados ou eventos relevantes para o texto, servindo como base de verificação.
+[^16]: [MK Studio: Linkou, a 'Cidade Internacional', desenvolve um plano educacional para famílias internacionais](https://mkstudiotw.com/2018/07/14/%E6%9E%97%E5%8F%A3%E5%9C%8B%E9%9A%9B%E5%9F%8E%EF%BC%8C%E5%A4%9A%E6%89%80%E5%9C%8B%E9%9A%9B%E5%AD%B8%E6%A0%A1%E6%89%93%E9%80%A0%E3%80%8C%E8%8F%81%E8%8B%B1%E6%95%99%E8%82%B2%E8%97%8D%E5%9C%96%E3%80%8D/) — Fornece contexto, dados ou eventos relevantes para o texto, servindo como base de verificação.
 
-[^17]: [Yahoo News: O distrito de mídia atinge o auge! TVBS e ETTV enfrentam ajustes, mas mantêm presença em Linkou](https://tw.news.yahoo.com/%E5%AA%92%E9%AB%94%E5%BD%B1%E5%9F%8E%E5%B1%A2%E7%A0%B1%E5%8A%9F-%E6%B0%91%E8%A6%96%E5%BD%B1%E5%9F%8E%E5%A4%AD%E6%8A%98-%E4%B8%89%E7%AB%8B%E6%9A%AB%E7%B7%A9%E5%9F%91%E5%BF%83%E7%89%A7%E5%A0%B4%E6%A1%88-tvbs%E7%94%A8%E5%9C%B0%E9%A4%8A%E8%9A%8A%E5%AD%9514%E5%B9%B4-100000631.html) — Fornece contexto, dados ou eventos relevantes para o texto, servindo como base de verificação.
+[^17]: [Yahoo News: O distrito de mídia atinge o auge! TVBS e ETTV enfrentam ajustes, mas mantêm presença em Linkou](https://tw.news.yahoo.com/%E5%AA%92%E9%AB%94%E5%BD%B1%E5%9F%8E%E5%B1%A2%E7%A0%B4%E5%8A%9F-%E6%B0%91%E8%A6%96%E5%BD%B1%E5%9F%8E%E5%A4%AD%E6%8A%98-%E4%B8%89%E7%AB%8B%E6%9A%AB%E7%B7%A9%E5%9F%94%E5%BF%83%E7%89%A7%E5%A0%B4%E6%A1%88-tvbs%E7%94%A8%E5%9C%B0%E9%A4%8A%E8%9A%8A%E5%AD%9014%E5%B9%B4-100000631.html) — Fornece contexto, dados ou eventos relevantes para o texto, servindo como base de verificação.
 
 [^18]: [YouTube: 'O distrito de mídia de Linkou' — Previsão de conclusão em 5 anos! - TVBS Notícias](https://www.youtube.com/watch?v=_gkgV9XvAYg) — Fornece contexto, dados ou eventos relevantes para o texto, servindo como base de verificação.
 
@@ -131,7 +131,7 @@ De olhos para o futuro, Linkou New Town continuará a atrair talentos e recursos
 
 [^21]: [GoWithMark: [Recomendações de Pontos Turísticos em Linkou 2026] Roteiro de um dia em Linkou, guia de comida típica](https://gowithmarkhazyl.com/must-visit-places-in-linkou/) — Fornece contexto, dados ou eventos relevantes para o texto, servindo como base de verificação.
 
-[^22]: [HouseFeel Imóvel: Onde fica o Parque Tecnológico Hua Ya? Quais indústrias? Desenvolvimento do solo Hua Ya?](https://www.housefeel.com.tw/article/%E8%8F%AF%E4%BA%9E%E7%A7%91%E6%8A%80%E5%9C%92%E5%8D%80-%E8%8F%AF%E4%BA%9E%E7%A7%91-%E6%9E%97%E5%8F%A3-%E5%B7%A5%E4%BA%94%E5%B7%A5%E6%A5%B1%E5%8D%80/) — Fornece contexto, dados ou eventos relevantes para o texto, servindo como base de verificação.
+[^22]: [HouseFeel Imóvel: Onde fica o Parque Tecnológico Hua Ya? Quais indústrias? Desenvolvimento do solo Hua Ya?](https://www.housefeel.com.tw/article/%E8%8F%AF%E4%BA%9E%E7%A7%91%E6%8A%80%E5%9C%92%E5%8D%80-%E8%8F%AF%E4%BA%9E%E7%A7%91-%E6%9E%97%E5%8F%A3-%E5%B7%A5%E4%BA%94%E5%B7%A5%E6%A5%AD%E5%8D%80/) — Fornece contexto, dados ou eventos relevantes para o texto, servindo como base de verificação.
 
 [^23]: [Jornal Econômico: Linkou atrai jovens profissionais](https://money.udn.com/money/story/5930/9421423) — Fornece contexto, dados ou eventos relevantes para o texto, servindo como base de verificação.
 
@@ -151,10 +151,10 @@ De olhos para o futuro, Linkou New Town continuará a atrair talentos e recursos
 
 [^31]: [Clínica de Medicina Tradicional Kyoto: Como lidar com a umidade em Linkou? Análise de TCM para cefaleia por reumatismo e diferença térmica no transporte](https://www.kyoto.com.tw/article/linkou-dampness-tcm-strategy) — Fornece contexto, dados ou eventos relevantes para o texto, servindo como base de verificação.
 
-[^32]: [Gomaji: Linkou não é apenas um Outlet Mall! 10 cafés escondidos recomendados por blogueiros](https://www.gomaji.com/blog/%E6%9E%97%E5%8F%A3%E5%95%A1%E5%BB%B3/) — Fornece contexto, dados ou eventos relevantes para o texto, servindo como base de verificação.
+[^32]: [Gomaji: Linkou não é apenas um Outlet Mall! 10 cafés escondidos recomendados por blogueiros](https://www.gomaji.com/blog/%E6%9E%97%E5%8F%A3%E5%92%96%E5%95%A1%E5%BB%B3/) — Fornece contexto, dados ou eventos relevantes para o texto, servindo como base de verificação.
 
 [^33]: [TVBS: 10 cafés com avaliações altas em Linkou — Guia de sobrevivência para mulheres](https://woman.tvbs.com.tw/lifestyle/58417) — Fornece contexto, dados ou eventos relevantes para o texto, servindo como base de verificação.
 
 [^34]: [Yahoo News: Novo marco cultural em Linkou! O café do Museu Nacional de Arquivos em 'WALK IN'](https://tw.news.yahoo.com/%E6%9E%97%E5%8F%A3%E6%9C%80%E6%96%B0%E6%96%87%E8%97%9D%E5%9C%B0%E6%A8%99%EF%BC%81%E5%9C%8B%E5%AE%B6%E6%AA%94%E6%A8%9F%E9%A4%A8%E5%85%A7%E7%9A%84walk-in%E5%92%96%E5%95%A1%E5%BB%B3%EF%BC%8C%E5%A4%A7%E7%89%87%E6%8E%A1%E5%85%89%E7%81%91%E8%90%BD%EF%BC%8C%E9%9A%A8%E6%89%8B%E6%8B%8D%E9%83%BD%E5%83%8F%E9%9B%9C%E8%AA%8C-045607764.html) — Fornece contexto, dados ou eventos relevantes para o texto, servindo como base de verificação.
 
-[^35]: [Facebook: Compartilhamento de visita a novo café | CAFE!N espaço cultural em Linkou](https://www.facebook.com/Helensdiary/posts/%E6%96%B0%E9%96%8B%E5%B9%95%E5%92%96%E5%95%A1%E9%A4%A8%E6%8E%A2%E5%BA%97%E5%88%86%E4%BA%ABcafen-%E6%9E%97%E5%8F%A3%E6%96%87%E5%8C%96%E9%96%80%E5%B8%82%E6%9E%97%E5%8F%A3%E6%9C%80%E8%BF%91%E7%9C%9F%E7%9A%84%E8%B6%8A%E4%BE%86%E8%B6%8A%E7%86%B1%E9%AC%A2%E9%80%99%E6%AC%A1%E6%AC%A1%E8%B7%9F%E5%A7%90%E5%A6%B9%E5%80%97%E4%B8%80%E8%B5%B7%E4%BE%86%E8%B8%A9%E9%BB%9E-81%E5%85%A8%E6%96%B0%E9%96%8B%E5%B9%95%E7%9A%84-cafen-%E6%9E%97%E5%8F%A3%E6%96%87%E5%8C%96%E9%96%80%E5%B8%82%E5%9C%B0%E9%BB%9E%E5%B0%B1%E5%9C%A8%E6%96%87%E5%8C%96%E4%BA%8C%E8%B7%AF%E7%9A%84%E6%96%B0%E6%BD%A4%E4%B8%96%E7%95%8C%E9%83%BD%E5%BF%83/1351921846942463/) — Fornece contexto, dados ou eventos relevantes para o texto, servindo como base de verificação.
+[^35]: [Facebook: Compartilhamento de visita a novo café | CAFE!N espaço cultural em Linkou](https://www.facebook.com/Helensdiary/posts/%E6%96%B0%E9%96%8B%E5%B9%95%E5%92%96%E5%95%A1%E9%A4%A8%E6%8E%A2%E5%BA%97%E5%88%86%E4%BA%ABcafen-%E6%9E%97%E5%8F%A3%E6%96%87%E5%8C%96%E9%96%80%E5%B8%82%E6%9E%97%E5%8F%A3%E6%9C%80%E8%BF%91%E7%9C%9F%E7%9A%84%E8%B6%8A%E4%BE%86%E8%B6%8A%E7%86%B1%E9%AC%A7%E9%80%99%E6%AC%A1%E6%AC%A1%E8%B7%9F%E5%A7%90%E5%A6%B9%E5%80%91%E4%B8%80%E8%B5%B7%E4%BE%86%E8%B8%A9%E9%BB%9E-81%E5%85%A8%E6%96%B0%E9%96%8B%E5%B9%95%E7%9A%84-cafen-%E6%9E%97%E5%8F%A3%E6%96%87%E5%8C%96%E9%96%80%E5%B8%82%E5%9C%B0%E9%BB%9E%E5%B0%B1%E5%9C%A8%E6%96%87%E5%8C%96%E4%BA%8C%E8%B7%AF%E7%9A%84%E6%96%B0%E6%BD%A4%E4%B8%96%E7%95%8C%E9%83%BD%E5%BF%83/1351921846942463/) — Fornece contexto, dados ou eventos relevantes para o texto, servindo como base de verificação.

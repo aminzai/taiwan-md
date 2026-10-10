@@ -134,7 +134,7 @@ Khi một gia đình có thể an tâm bật điều hòa trong nhiệt độ ca
 
 Các tài liệu đọc thêm của bài viết có thể theo dõi sâu hơn theo ba hướng: thông tin phòng ngừa tổn thương nhiệt độ cao của Cơ quan Y tế Quốc gia, dữ liệu về điều chỉnh khí hậu và năng lượng của Bộ Môi trường, và các kế hoạch tiết kiệm năng lượng và thay thế thiết bị công khai của chính quyền địa phương. Khi đọc, cần phân biệt ba cấp độ bằng chứng khác nhau: "thông báo chính sách", "kết quả nghiên cứu" và "đề xuất của bài viết", tránh hiểu nhầm một khoản hỗ trợ hàng năm hoặc khảo sát trường hợp đơn lẻ thành xu hướng quốc gia dài hạn.
 
-- [Ai là người có thu nhập thấp](/society/誰算低薪) — Một thước đo khác của sự nghèo đói: Mức lương tối thiểu giữ được mức lương cơ bản, những người có thu nhập thấp vào mục cuối năm và các ngành không thưởng
+- [Ai là người có thu nhập thấp](/vi/society/who-counts-as-low-wage) — Một thước đo khác của sự nghèo đói: Mức lương tối thiểu giữ được mức lương cơ bản, những người có thu nhập thấp vào mục cuối năm và các ngành không thưởng
 
 ## Tài liệu tham khảo
 

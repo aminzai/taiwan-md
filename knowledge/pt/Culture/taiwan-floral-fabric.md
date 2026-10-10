@@ -153,8 +153,8 @@ Hoje, quando revalorizamos aquelas peônias vivas, crisântemos elegantes, rosas
 
 **Leitura complementar**:
 
-- [Tingimento com índigo](/culture/藍染) — outro artesanato têxtil que já foi simplificado a símbolo de grupo único, descobrindo-se depois ter origem mais complexa
-- [Artesanato Tradicional de Taiwan e Patrimônio Cultural Imaterial](/culture/台灣傳統工藝與無形文化資產) — contexto do sistema de preservação de artesanato que tecido floral e tingimento com índigo enfrentam juntos
+- [Tingimento com índigo](/pt/culture/taiwan-indigo-dyeing) — outro artesanato têxtil que já foi simplificado a símbolo de grupo único, descobrindo-se depois ter origem mais complexa
+- [Artesanato Tradicional de Taiwan e Patrimônio Cultural Imaterial](/pt/culture/traditional-crafts-intangible-cultural-heritage) — contexto do sistema de preservação de artesanato que tecido floral e tingimento com índigo enfrentam juntos
 
 ## Referências
 

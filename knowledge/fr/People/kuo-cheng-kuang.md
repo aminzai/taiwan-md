@@ -10,7 +10,7 @@ tags:
     'liste noire',
     'mouvement démocratique taïwanais',
   ]
-subcategory: 'Sciences et Recherche'
+subcategory: '科學與研究'
 category: 'People'
 author: 'Taiwan.md Contributors'
 readingTime: 7

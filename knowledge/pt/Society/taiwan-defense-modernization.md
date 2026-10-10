@@ -154,15 +154,15 @@ Os F-16V Block 70, previstos para entrega em 2024, atrasaram para 2027 devido a 
 - [Países com Relações Diplomáticas com Taiwan e Diplomacia Internacional](/pt/society/taiwan-diplomatic-allies-and-international-relations) — Além da autodefesa militar, a outra estrada: o突圍 diplomático de Taiwan no sistema internacional
 - [Ambiente Político e Sistema Eleitoral de Taiwan](/pt/society/taiwan-political-landscape-and-electoral-system) — Por que o orçamento especial de 1,25 trilhão foi bloqueado oito vezes no Yuan Legislativo, a defesa não é decidida por um só governo
 - [Desenvolvimento da Indústria de Cibersegurança de Taiwan](/pt/technology/taiwan-cybersecurity-industry-development) — A primeira linha da guerra de zona cinzenta não são minas navais, são firewalls
-- [Desenvolvimento da Indústria Espacial de Taiwan](/technology/台灣太空產業發展) — De satélites civis a comunicações de defesa, o espaço é o novo campo de batalha da resiliência de defesa de Taiwan
+- [Desenvolvimento da Indústria Espacial de Taiwan](/pt/technology/taiwan-space-industry-development) — De satélites civis a comunicações de defesa, o espaço é o novo campo de batalha da resiliência de defesa de Taiwan
 - [Encontro Zheng-Xi de 2026: Líderes de KMT e PCC se Reencontram Após Dez Anos por Dez Minutos](/pt/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Quando Cheng Li-wen propõe "arranjos institucionais de prevenção de guerra", por trás está o embate político do orçamento especial de defesa
-- [Shen Bo-yang](/people/沈伯洋) — Cofundador da Academia Urso Negro, fortalece a resiliência de defesa nacional total via educação de defesa civil; após 7 anos pesquisando guerra cognitiva do PCC, foi processado pela China por "crime de secessão"
+- [Shen Bo-yang](/pt/people/puma-shen) — Cofundador da Academia Urso Negro, fortalece a resiliência de defesa nacional total via educação de defesa civil; após 7 anos pesquisando guerra cognitiva do PCC, foi processado pela China por "crime de secessão"
 - [Academia Urso Negro](/pt/society/kuma-academy-civil-defense-school) — Educação de defesa nacional total de iniciativa civil, outra linha de resiliência além da defesa nacional, uma escola que torce para um dia não precisar existir
 - [Cho Jung-tai](/pt/people/cho-jung-tai) — Principal impulsionador do orçamento especial de 1,25 trilhão no Yuan Executivo, proponente do "Escudo de Taiwan" e "Três Boas Bolas"
 - [Lu Hsiu-yen](/pt/people/lu-hsiu-yan) — Vice-presidente do KMT / Prefeita de Taichung, na controvérsia de compras militares de 2026 adotou posição de "intervalo de 800 bilhões a 1 trilhão"
 - [Hsu Chiao-hsin](/pt/people/hsu-chiao-hsin) — Deputada do KMT / Principal proponente da versão de 800 bilhões em compras militares, protótipo político dos confrontos repetidos com Lai Ching-te no plenário
-- [Chi Lin-lien](/people/季麟連) — Vice-presidente do KMT / General da reserva, na reunião do Comitê Central de 29/4 detonou a divisão da linha azul sobre compras militares
-- [Yin Yen-liang](/people/尹衍樑) — Método de pré-fabricação reduziu para 100 dias a conclusão de fábricas da TSMC / Google / Microsoft em Taiwan, infraestrutura invisível da competitividade de semicondutores de Taiwan; ao mesmo tempo, típico empresário taiwanês de "aposta dos dois lados" que em 2013 disse "unificação é inevitável"
+- [Chi Lin-lien](/pt/people/ji-lin-lian) — Vice-presidente do KMT / General da reserva, na reunião do Comitê Central de 29/4 detonou a divisão da linha azul sobre compras militares
+- [Yin Yen-liang](/pt/people/samuel-yin-yan-liang) — Método de pré-fabricação reduziu para 100 dias a conclusão de fábricas da TSMC / Google / Microsoft em Taiwan, infraestrutura invisível da competitividade de semicondutores de Taiwan; ao mesmo tempo, típico empresário taiwanês de "aposta dos dois lados" que em 2013 disse "unificação é inevitável"
 
 ## Referências
 

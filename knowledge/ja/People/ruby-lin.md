@@ -4,7 +4,7 @@ description: '1998年『還珠格格』で林心如は紫薇役となり、2009�
 date: 2026-08-21
 category: 'People'
 tags: ['林心如', '台湾ドラマ', 'プロデューサー', '華燈初上', '16個の夏']
-subcategory: '映画と演劇'
+subcategory: '電影與戲劇'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-21
@@ -19,6 +19,7 @@ curation: 'incubating'
 translatedFrom: 'People/林心如.md'
 sourceCommitSha: '13c7fbcdb'
 sourceContentHash: 'sha256:57b0bfdd960a74ba'
+sourceBodyHash: 'sha256:74473841bc53291c'
 translatedAt: '2026-09-13T23:15:05.399088+00:00'
 ---
 
@@ -111,7 +112,7 @@ Netflix の英文プレスリリースは、この規模をより明確に伝え
 
 [Netflix Newsroom：『Light the Night（華燈初上）』と台北のサブカルチャー](https://about.netflix.com/news/in-star-studded-light-the-night-a-unique-taipei-subculture-comes-alive)
 
-## 參考資料
+## 参考資料
 
 [^1]: [女人迷：林心如『華燈初上』：俳優からプロデューサーへ、最も難しかったのは俳優としてのアイデンティティを脱却すること](https://womany.net/read/article/28093) — 2021年のインタビュー。林心如が俳優からプロデューサーへ転身した際の仕事内容、ニューヨークでの研修、大学院での学習、本人の発言などを詳細に記録。
 

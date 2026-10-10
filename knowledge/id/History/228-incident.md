@@ -205,7 +205,7 @@ Apa yang tertulis di atas kertas itu tidak penting. Yang penting adalah, akhirny
 - [Periode Darurat Militer](/id/history/martial-law-era) — Kontainer hukum selama 38 tahun sejak 1949, garis perpanjangan penindasan 1947
 - [Teror Putih Taiwan](/id/history/taiwan-white-terror) — Kasus-kasus politik selama 38 tahun darurat militer
 - [Demokratisasi Taiwan](/id/history/taiwan-democratization) — Pertarungan penarikan putusan dan akuntabilitas pelaku
-- [Hari Libur Nasional](/society/國定假日) — Bagaimana Peristiwa 228 menjadi hari libur nasional pertama ROC pada 1997
+- [Hari Libur Nasional](/id/society/national-holidays) — Bagaimana Peristiwa 228 menjadi hari libur nasional pertama ROC pada 1997
 
 ## Referensi
 

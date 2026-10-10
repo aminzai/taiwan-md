@@ -3,7 +3,7 @@ title: 'Chao Tzu-chiang: Dari Pendidikan di Lantai Pangeran, hingga Jiwa yang Ti
 description: "Pada tahun 1984, Chao Tzu-chiang karena iklan 'Gratis Selama Tahun' itu bergabung dengan Lantai Pangeran, membuka karir legendaris lintas panggung, film, dan seni anak. Ia menyentuh kehangatan banyak anak Taiwan lewat 'Kakek Buah-Buahan', namun di balik itu, ia membangun 'Koleksi Drama Anak-Anak 'Jika'' dengan utang ratus juta dolar, dan menunjukkan semangat 'tidak menyerah' selama krisis pandemi dan keuangan. Ini adalah penerapan mendalam selama tiga dekade bagi mimpi anak Taiwan."
 date: 2026-04-25
 category: 'People'
-subcategory: 'Musik dan Pertunjukan'
+subcategory: '音樂與表演'
 tags:
   [
     'Chao Tzu-chiang',
@@ -89,13 +89,13 @@ Chao Tzu-chiang menunjukkan bahwa seni pertunjukan dapat menjadi pelindung. Meli
 
 [^2]: [Chao Tzu-chiang masuk Lantai Pangeran karena iklan gratis](https://www.chinatimes.com/newspapers/20230703000477-260112) — China Times, 2023.07, Keuntungan bergabung dengan Lantai Pangeran
 
-[^3]: [Profil Pelaku Seni Chao Tzu-chiang](https://archive.ncafroc.org.tw/upload/result/3551-E2025/3551-E2025_%E6%BC%9E%E8%81%B7%E4%BA%BA%E5%93%A1%E7%B0%A1%E4%BB%8B.pdf) — Lantai Pangeran terlibat karya klasik
+[^3]: [Profil Pelaku Seni Chao Tzu-chiang](https://archive.ncafroc.org.tw/upload/result/3551-E2025/3551-E2025_%E6%BC%94%E8%81%B7%E4%BA%BA%E5%93%A1%E7%B0%A1%E4%BB%8B.pdf) — Lantai Pangeran terlibat karya klasik
 
-[^4]: [Chao Tzu-chiang menghormati peran 'Kakek Buah-Buahan'](https://medium.com/actionquarterly-pts/%E8%B6%99%E8%87%AA%E5%BC%B7%E5%A6%82%E6%AD%A4%E5%B0%8A%E6%95%AC-%E6%B0%B4%E6%9E%97%E5%A5%B6%E5%A5%B6-%E8%A7%92%E8%89%B2-73172527b5f9) — Media Monografi TV Negara, 2017.07, Termasuk banyak kutipan langsung
+[^4]: [Chao Tzu-chiang menghormati peran 'Kakek Buah-Buahan'](https://medium.com/actionquarterly-pts/%E8%B6%99%E8%87%AA%E5%BC%B7%E5%A6%82%E6%AD%A4%E5%B0%8A%E6%95%AC-%E6%B0%B4%E6%9E%9C%E5%A5%B6%E5%A5%B6-%E8%A7%92%E8%89%B2-73172527b5f9) — Media Monografi TV Negara, 2017.07, Termasuk banyak kutipan langsung
 
 [^5]: [Kakek Buah-Buahan pernah di bully! Chao mengungkap 'masa kanak-kanak gelap'](https://news.tvbs.com.tw/entertainment/1965203) — TVBS, 2022.11, Bully "Burung Liar Sabun Kepekan" dan kekurangan kepercayaan diri
 
-[^6]: [Membongkar latar belakang karier seni anak Koleksi Drama Anak-Anak 'Jika' Chao Tzu-chiang](https://uptogo.com.tw/%E5%A8%9B%E6%A8%87/%E5%90%8D%E4%BA%BA/%E5%A6%82%E6%9E%9C%E5%8A%87%E5%9C%98-%E5%9C%98%E9%95%B7%EF%BC%9F/) — UpToGo, 2026.03, Latar belakang dan evolusi koleksi
+[^6]: [Membongkar latar belakang karier seni anak Koleksi Drama Anak-Anak 'Jika' Chao Tzu-chiang](https://uptogo.com.tw/%E5%A8%9B%E6%A8%82/%E5%90%8D%E4%BA%BA/%E5%A6%82%E6%9E%9C%E5%8A%87%E5%9C%98-%E5%9C%98%E9%95%B7%EF%BC%9F/) — UpToGo, 2026.03, Latar belakang dan evolusi koleksi
 
 [^7]: [Chao tidak mampu bayar 10.000 dolar biaya sampah, Koleksi tutup dengan 2 juta dolar](https://stars.udn.com/star/story/10091/8076430) — Bongkar! Berita Bintang, 2024.07, Krisis SARS "menutup lebih mahal"
 

@@ -101,7 +101,7 @@ translatedAt: '2026-08-04T14:12:35+08:00'
 - [台湾と原子力の議論](/ja/society/taiwan-nuclear-debate) — 反原発運動がいかに環境運動から派生し、気候世代において再編されたか：40年間・3回の国民投票の完全な論争史
 - [台湾の気候危機とネットゼロ転換](/ja/nature/taiwan-climate-change-net-zero-transition) — 環境意識がいかに国家レベルのネットゼロ転換政策とエネルギー構造再編へと転化したか
 
-## 參考資料
+## 参考資料
 
 - [台湾環境與土地研究中心](http://www.elt.org.tw/) — 台湾環境運動の歴史と発展研究
 - [綠色公民行動聯盟](https://www.gcaa.org.tw/) — 反原発運動と環境政策提言

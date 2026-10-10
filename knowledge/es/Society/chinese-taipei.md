@@ -11,14 +11,23 @@ tags:
     'Sports Diplomacy',
     'Sovereignty',
   ]
-subcategory: 'International Relations'
+subcategory: '國際關係'
 author: 'Taiwan.md Contributors'
 category: 'Society'
 readingTime: 12
 lastVerified: 2026-06-04
 lastHumanReview: false
+sporeLinks:
+  - id: 120
+    platform: 'threads'
+    date: '2026-06-04'
+    url: 'https://www.threads.com/@taiwandotmd/post/DZKoOQpmPhJ'
+  - id: 121
+    platform: 'x'
+    date: '2026-06-04'
+    url: 'https://x.com/taiwandotmd/status/2062529681283522655'
 translatedFrom: 'Society/中華台北.md'
-sourceCommitSha: 'bbd8788a'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:177fea3750c80f10'
 sourceBodyHash: 'sha256:dab437d622fd59b0'
 translatedAt: '2026-06-16T16:54:57Z'
@@ -187,7 +196,7 @@ And that ticket still only lets Taiwan enter, and still cannot print its own nam
 ## Further Reading
 
 - [Issues with Taiwan's Representation in International Standards](/society/Issues-with-Taiwans-Representation-in-International-Standards) — From ISO 3166 to open-source software, how the name "Taiwan" is written and disputed in global digital infrastructure, originating from the same source but on a different battlefield as Olympic naming
-- [Taiwan Unification-Independence Spectrum](/es/society/Taiwan-Unification-Independence-Spectrum) — Why Taiwanese people's emotions towards the two names "Chinese" and "Taiwan" are so divided, a complete explanation of the underlying identity spectrum
+- [Taiwan Unification-Independence Spectrum](/es/society/taiwan-unification-independence-spectrum) — Why Taiwanese people's emotions towards the two names "Chinese" and "Taiwan" are so divided, a complete explanation of the underlying identity spectrum
 - [Taiwan's Diplomatic Allies and International Diplomacy](/society/Taiwans-Diplomatic-Allies-and-International-Diplomacy) — Beyond the spillover of the "Olympic Model," the same name dilemma Taiwan faces in formal diplomatic arenas
 - [Chi Cheng](/people/Chi-Cheng) — The complete arc from the 1968 Mexico bronze medalist "Flying Antelope," to the 1981 establishment figurehead, to the 2018 renaming initiator
 - [Yang Chuan-kwang](/people/Yang-Chuan-kwang) — The Asian Iron Man who won Taiwan's first Olympic medal under the name "Formosa" at the 1960 Rome Olympics

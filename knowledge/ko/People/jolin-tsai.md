@@ -4,14 +4,14 @@ description: '천재가 아닌 천후(天后)——무용 선생님에게 "춤 �
 date: 2026-03-24
 category: 'People'
 tags: ['인물', '가수', '연예계', 'LGBTQ+권익', '팝뮤직', '금곡상']
-subcategory: '음악'
+subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
 readingTime: 10
 translatedFrom: 'People/蔡依林.md'
-sourceCommitSha: 'ce7f10f8'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:1eed0b39727d52a4'
 sourceBodyHash: 'sha256:ecfb49e20d9c0f4b'
 translatedAt: '2026-05-09T14:31:08Z'

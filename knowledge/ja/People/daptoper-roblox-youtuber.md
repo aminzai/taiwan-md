@@ -69,7 +69,7 @@ translatedAt: '2026-05-01T19:52:32+08:00'
 
 [^4]: [天下雑誌 - 清大に合格しながら休学一年を選択、有感筆電：百万YouTuberの裏側には高度な自律がある](https://www.cw.com.tw/article/5131830) —— 清大休学の意思決定プロセスに関する深度報道。
 
-[^5]: [Yahooニュース - 最も典型的でないYouTuber 有感筆電](https://tw.news.yahoo.com/%E6%9C%80%E4%B8%8D%E5%85%B8%E5%9E%8B%E7%9A%84-youtuber-%E6%9C%89%E6%84%9F%E7%AD%86%E9%9B%BB-%E7%86%B1%E6%83%85%E6%98%AF%E5%9F%BA%E7%A4%8E%E7%87%83%E6%96%99-%E6%9C%89%E8%A8%88%E7%95%AB%E6%89%80%E8%83%BD%E8%B8%8F%E5%AF%A6%E7%AF%89%E5%A4%A2-180012226.html) —— 彼の職業観と「一年間の約束」の詳細を引用。
+[^5]: [Yahooニュース - 最も典型的でないYouTuber 有感筆電](https://tw.news.yahoo.com/%E6%9C%80%E4%B8%8D%E5%85%B8%E5%9E%8B%E7%9A%84-youtuber-%E6%9C%89%E6%84%9F%E7%AD%86%E9%9B%BB-%E7%86%B1%E6%83%85%E6%98%AF%E5%9F%BA%E7%A4%8E%E7%87%83%E6%96%99-%E6%9C%89%E8%A8%88%E7%95%AB%E6%89%8D%E8%83%BD%E8%B8%8F%E5%AF%A6%E7%AF%89%E5%A4%A2-180012226.html) —— 彼の職業観と「一年間の約束」の詳細を引用。
 
 [^6]: [有感筆電の英語名がDaptoperである理由 - YouTube](https://www.youtube.com/watch?v=oxsbtLjWO0s) —— 芸名Daptoperの構成と象徴的意味を解説。
 

@@ -122,7 +122,7 @@ A bandeira do tigre amarelo repousa na vitrine do museu. Está em silêncio. A h
 
 - [Três estrangeiros veem a Guerra de Yiwei: o álbum do fotógrafo, as notas do jornalista, o diário do pastor](/pt/history/three-foreigners-witness-1895-taiwan) — Série D-2. O fotógrafo japonês Endo Makoto, o jornalista americano Davidson, o pastor japonês Hosokawa Toru — três dos mais importantes testemunhos em língua estrangeira da Guerra de Yiwei, e os limites de perspectiva por trás de cada um
 - [Período Qing](/pt/history/qing-dynasty-rule) — A Guerra de Yiwei é o ponto final do período Qing; compreender duzentos anos de governação de Taiwan
-- [Período de domínio japonês](/history/日治時期) — Com o desaparecimento da República, o ponto de partida de cinquenta anos de domínio japonês em Taiwan
+- [Período de domínio japonês](/pt/history/japanese-colonial-era) — Com o desaparecimento da República, o ponto de partida de cinquenta anos de domínio japonês em Taiwan
 - [Guerra Sino-Francesa](/pt/history/sino-french-war-in-taiwan) — Dez anos antes, os franceses atacaram Taiwan, Liu Ming-chuan segurou Keelung. Dez anos depois, a província que ele construiu foi cedida
 - [James W. Davidson](/pt/people/robert-swinhoe-naturalist) — Trinta anos antes, o cônsul britânico registava a história natural na mesma ilha; na Guerra de Yiwei, aquele mundo já tinha acabado
 

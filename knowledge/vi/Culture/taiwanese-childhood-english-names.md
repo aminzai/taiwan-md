@@ -19,7 +19,7 @@ tags:
     'đặt lại tên cho người bản địa',
     'tạo tên sắc lệnh',
   ]
-subcategory: 'ngôn ngữ và tên gọi'
+subcategory: '語言與命名'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 18
@@ -268,10 +268,10 @@ Hành động bị ghi tên từ chưa bao giờ bị bãi bỏ — nó chỉ l�
 
 ## Mở rộng đọc
 
-- [Ngôn ngữ ngoại lai Đài Loan và Liên hệ ngôn ngữ](/vi/culture/ngôn-ngữ-ngoại-lai-đài-loan-và-liên-hệ-ngôn-ngữ) — Từ sự mượn tiếng Nhật, tiếng Anh, tiếng Mân Nam giữa, xem nhiều tầng ngôn ngữ Đài Loan được chồng lên như thế nào
-- [Phong trào Phục hồi Ngôn ngữ Bản địa Đài Loan](/vi/culture/phong-trào-phục-hồi-ngôn-ngữ-bản-địa-đài-loan) — Một dòng khác của nhận lại quyền lực đặt tên, từ phục hồi tiếng bản địa cho tới sửa đổi Luật Tên 2024
-- [Tưởng Vi Văn](/vi/people/tưởng-vi-văn) — Mở rộng của phong trào văn tự tiếng Đài "thoát chữ Hán", quyền lực đặt tên với chủ quyền chữ tự là mặt khác
-- [Nhân cách Đài Loan](/vi/culture/nhân-cách-đài-loan) — Góc cnh sáng tác văn hoá, một góc độ khác để hiểu "tại sao người Đài Loan lúc nào cũng cảm thấy cần một tên ngoại lai"
+- [Ngôn ngữ ngoại lai Đài Loan và Liên hệ ngôn ngữ](/vi/culture/loanwords-and-language-contact-in-taiwan) — Từ sự mượn tiếng Nhật, tiếng Anh, tiếng Mân Nam giữa, xem nhiều tầng ngôn ngữ Đài Loan được chồng lên như thế nào
+- [Phong trào Phục hồi Ngôn ngữ Bản địa Đài Loan](/vi/culture/indigenous-language-revitalization-movement) — Một dòng khác của nhận lại quyền lực đặt tên, từ phục hồi tiếng bản địa cho tới sửa đổi Luật Tên 2024
+- [Tưởng Vi Văn](/vi/people/chiung-wi-vun) — Mở rộng của phong trào văn tự tiếng Đài "thoát chữ Hán", quyền lực đặt tên với chủ quyền chữ tự là mặt khác
+- [Nhân cách Đài Loan](/vi/culture/taiwanese-sensibility) — Góc cnh sáng tác văn hoá, một góc độ khác để hiểu "tại sao người Đài Loan lúc nào cũng cảm thấy cần một tên ngoại lai"
 
 ## Nguồn hình ảnh
 

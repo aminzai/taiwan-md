@@ -11,13 +11,13 @@ tags:
     'Golden Melody Awards',
     'Rain God',
   ]
-subcategory: 'Music & Performance'
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23
 lastHumanReview: true
 translatedFrom: 'People/蕭敬騰.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: 'f99a9959c'
 sourceContentHash: 'sha256:fb71e3bcf0475f2e'
 sourceBodyHash: 'sha256:6b96e9e6687dd8c3'
 translatedAt: '2026-05-16T21:50:00Z'

@@ -182,10 +182,10 @@ Bencana berikutnya pasti akan datang. Peron Stasiun Guangfu akan kembali penuh s
 
 **Bacaan Lanjutan**:
 
-- [Penyanyi Pencipta Pribumi Kontemporer](/music/當代原住民創作歌手) — Bagaimana musisi suku seperti Chen Chien-nian dan Hu Defu menulis pengalaman desa ke dalam peta suara Taiwan kontemporer
+- [Penyanyi Pencipta Pribumi Kontemporer](/id/music/contemporary-indigenous-singer-songwriters) — Bagaimana musisi suku seperti Chen Chien-nian dan Hu Defu menulis pengalaman desa ke dalam peta suara Taiwan kontemporer
 - [Budaya Relawan Taiwan dan Partisipasi Publik](/id/society/volunteering-and-civic-charity-in-taiwan) — Ekologi masyarakat sipil Taiwan dari Tzu Chi hingga无数 NGO kecil
 - [Mitos Pribumi](/id/culture/taiwan-indigenous-mythology) — Dari mitos penciptaan Matas-an hingga tema banjir dalam legenda Taroko dan Paiwan, dan memori geografis pulau Taiwan
-- [Keadilan Tanah dan Wilayah Tradisional Etnik Pribumi Taiwan](/society/台灣原住民族土地正義與傳統領域) — Otonomi desa, penetapan wilayah tradisional, dan subyek desa dalam重建 pasca-bencana
+- [Keadilan Tanah dan Wilayah Tradisional Etnik Pribumi Taiwan](/id/society/indigenous-land-justice-and-traditional-territories) — Otonomi desa, penetapan wilayah tradisional, dan subyek desa dalam重建 pasca-bencana
 
 ## Sumber Gambar
 

@@ -12,14 +12,14 @@ tags:
     'Fubon Angels',
     'CPBL',
   ]
-subcategory: 'Popular Figures'
+subcategory: '流行人物'
 author: 'Taiwan.md Contributors'
 readingTime: 8
 lastVerified: 2026-05-13
 lastHumanReview: false
 category: 'People'
 translatedFrom: 'People/李晧禎.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:fe236b66343104a0'
 sourceBodyHash: 'sha256:fa5aded8dae3b311'
 translatedAt: '2026-05-16T21:50:00Z'

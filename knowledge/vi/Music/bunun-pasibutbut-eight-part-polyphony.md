@@ -12,14 +12,14 @@ tags:
     'di sản văn hóa phi vật thể',
     'văn hóa Đài Loan',
   ]
-subcategory: 'Âm nhạc truyền thống và dân tộc'
+subcategory: '傳統與民族音樂'
 author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-04-01
 lastHumanReview: true
 imageAlt: 'Người Bunun trình diễn hợp xướng tám bè'
 translatedFrom: 'Music/八部合音.md'
-sourceCommitSha: '37638e173'
+sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:3c2872e562b3f229'
 sourceBodyHash: 'sha256:43f231d59e183f8e'
 translatedAt: '2026-09-01T18:01:56+08:00'

@@ -35,7 +35,7 @@ translatedAt: '2026-09-23T20:15:24+08:00'
 
 Ihr iPhone, die PlayStation in Ihrem Wohnzimmer, die NVIDIA GB200 AI-Serverracks für das Cloud-Training von GPT – diese Geräte wurden wahrscheinlich in einem Foxconn-Werk zusammengebaut[^10][^14].
 
-Von den 100.000 Taler, mit denen [Terry Gou](/people/郭台銘) im Jahr 1974 „Foxconn Plastics“ gründete[^13], bis zum Umsatz von über 8 Billionen NT$ als börsennotiertes Unternehmen in Taiwan im Jahr 2025[^9], wurde die Geschichte von Foxconn bereits hunderte Male erzählt. Dieser Artikel wiederholt diese Erzählung nicht.
+Von den 100.000 Taler, mit denen [Terry Gou](/de/people/terry-gou) im Jahr 1974 „Foxconn Plastics“ gründete[^13], bis zum Umsatz von über 8 Billionen NT$ als börsennotiertes Unternehmen in Taiwan im Jahr 2025[^9], wurde die Geschichte von Foxconn bereits hunderte Male erzählt. Dieser Artikel wiederholt diese Erzählung nicht.
 
 Der 30. April 2026 war ein widersprüchlicher Tag für Foxconn: Morgens war es der globale AI-Auftragsfertigungsgigant, den _Time_ ausgezeichnet hatte; am Abend war es das Ziel der Durchsuchung durch die Staatsanwaltschaft von Neu-Taipei[^1][^10]. Auf derselben Bilanz wurden an zwei Fronten gebucht. Dies ist der Kern dieser Neuschreibung.
 
@@ -87,7 +87,7 @@ Der Fall Liao Wan-cheng war eine lange Geschichte im Justizwesen, aber für Foxc
 
 ## Die Entscheidung von 2015
 
-Mitte 2015 gründete [Terry Gou](/people/郭台銘) neben der Rechtsabteilung und der Prüfungsabteilung eine unabhängige Abteilung: die **Abteilung zur Prävention von Missständen**[^6].
+Mitte 2015 gründete [Terry Gou](/de/people/terry-gou) neben der Rechtsabteilung und der Prüfungsabteilung eine unabhängige Abteilung: die **Abteilung zur Prävention von Missständen**[^6].
 
 _Manager Today_ nannte sie „Foxconn Anti-Korruptionsbüro“[^6]. Terry Gou führte gleichzeitig eine „Geisterjagd“-Prämie in Höhe von bis zu 50 Millionen Taler ein, um Mitarbeiter zur Meldung interner Missstände zu ermutigen[^6].
 
@@ -123,7 +123,7 @@ Zwei Foxconn: einer auf dem Cover der _Time_, einer in der wichtigen Mitteilung.
 
 ## Die Distanz von 100.000 Taler zu 8 Billionen
 
-Im Jahr 1974 gründete der 30-jährige [Terry Gou](/people/郭台銘) mit einem Freund „Foxconn Plastics Co., Ltd.“ in Tucheng, Taipeh, für 300.000 Taler, wobei er die Hälfte der 200.000 Taler (die seine Mutter bei einer Auktion erhielt; die andere Hälfte wurde für seine eigene Hochzeit verwendet). Es waren 10 Mitarbeiter und es wurden hauptsächlich Knöpfe für Schwarz-Weißfernseher hergestellt[^13].
+Im Jahr 1974 gründete der 30-jährige [Terry Gou](/de/people/terry-gou) mit einem Freund „Foxconn Plastics Co., Ltd.“ in Tucheng, Taipeh, für 300.000 Taler, wobei er die Hälfte der 200.000 Taler (die seine Mutter bei einer Auktion erhielt; die andere Hälfte wurde für seine eigene Hochzeit verwendet). Es waren 10 Mitarbeiter und es wurden hauptsächlich Knöpfe für Schwarz-Weißfernseher hergestellt[^13].
 
 Im folgenden Jahr, als die Wirtschaft schwankte, war das Stammkapital von 300.000 Taler verbraucht, und der ursprüngliche Gesellschafter zog sich zurück. Terry Gou nahm 700.000 Taler von seinem Schwiegervater auf, um die gesamte Firma zu kaufen, und sie nannte sie „Foxconn Industry“[^13].
 
@@ -156,11 +156,11 @@ Die Rangliste der _Time_ wird weiter aktualisiert. Der EPS bei der Investor Conf
 
 ## Weiterführende Lektüre
 
-- [Terry Gou](/people/郭台銘) — Gründer von Foxconn: Vom Startkapital von 100.000 Taler bis zum globalen Fertigungsimperium
-- [Taiwan-Unternehmen: TSMC](/economy/台灣企業：台積電) — Ebenfalls ein taiwanesisches internationales Flaggschiff, aber mit dem Fokus auf professionelle Waferfertigung; die Governance-Struktur unterscheidet sich grundlegend vom Foxconn-Auftragsfertigungsimperium
-- [Taiwanische Aktienmärkte und Kapitalmärkte](/economy/台灣股市與資本市場) — Die Aktie von Foxconn (Ticker 2317) und wie das Mechanismus der wichtigen Mitteilung funktioniert
-- [Taiwanischer Industrieschwung und Aufwertung](/economy/台灣產業轉型升級) — Von arbeitsintensiver Auftragsfertigung zur AI-Servermontage: Foxconn ist ein Mikrokosmos dieses Weges
-- [Taiwanischer Außenhandel und globale Lieferketten](/economy/台灣外貿與全球供應鏈) — Die globale Präsenz von 900.000 Mitarbeitern in 24 Ländern ist das größte Experiment der grenzüberschreitenden Governance der taiwanesischen Industrie
+- [Terry Gou](/de/people/terry-gou) — Gründer von Foxconn: Vom Startkapital von 100.000 Taler bis zum globalen Fertigungsimperium
+- [Taiwan-Unternehmen: TSMC](/de/economy/tsmc) — Ebenfalls ein taiwanesisches internationales Flaggschiff, aber mit dem Fokus auf professionelle Waferfertigung; die Governance-Struktur unterscheidet sich grundlegend vom Foxconn-Auftragsfertigungsimperium
+- [Taiwanische Aktienmärkte und Kapitalmärkte](/de/economy/taiwan-stock-market) — Die Aktie von Foxconn (Ticker 2317) und wie das Mechanismus der wichtigen Mitteilung funktioniert
+- [Taiwanischer Industrieschwung und Aufwertung](/de/economy/industrial-transformation-from-manufacturing-to-innovation) — Von arbeitsintensiver Auftragsfertigung zur AI-Servermontage: Foxconn ist ein Mikrokosmos dieses Weges
+- [Taiwanischer Außenhandel und globale Lieferketten](/de/economy/taiwan-foreign-trade-and-global-supply-chain) — Die globale Präsenz von 900.000 Mitarbeitern in 24 Ländern ist das größte Experiment der grenzüberschreitenden Governance der taiwanesischen Industrie
 
 ---
 

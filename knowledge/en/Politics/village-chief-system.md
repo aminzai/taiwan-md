@@ -9,7 +9,7 @@ tags:
   - 'Local Government Act'
   - 'Japanese‑Era Baojia'
   - '2026 Election'
-subcategory: 'Election System'
+subcategory: '選舉制度'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-27
@@ -227,7 +227,7 @@ _v1.0 | 2026-05-27 | Created by Zhe‑Yu directive: 2026 Election Series Tier 1.
 
 [^2]: [Central Election Commission — Historical Local Public‑Official Election Statistics](https://web.cec.gov.tw/) — Official data source
 
-[^3]: [2026 Republic of China Local Public‑Official Election — Wikipedia](https://zh.wikipedia.org/wiki/2026%E5%B9%B4%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%85%AC%E5%8B%99%E4%BA%BA%E5%93%A1%E9%81%B8%E8%88%89) — Official data source
+[^3]: [2026 Republic of China Local Public‑Official Election — Wikipedia](https://zh.wikipedia.org/wiki/2026年中華民國地方公職人員選舉) — Official data source
 
 [^4]: [Local Government Act Articles 59‑61 — National Laws Database](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040003) — Official source
 

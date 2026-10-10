@@ -153,11 +153,11 @@ La industria taiwanesa del audio enfrenta una triple presión: competencia por c
 
 ## Referencias
 
-[^1]: Agencia de Desarrollo Industrial del Ministerio de Asuntos Económicos (antigua Oficina de Desarrollo Industrial, reorganizada en septiembre de 2023), _Libro blanco sobre el desarrollo de la industria del audio_ — políticas y panorama de mercado de la industria taiwanesa del audio
+[^1]: Agencia de Desarrollo Industrial del Ministerio de Asuntos Económicos (antigua Oficina de Desarrollo Industrial, reorganizada en septiembre de 2023), _Libro blanco sobre el desarrollo de la industria del audio_ — políticas y panorama de mercado de la industria taiwanesa del audio [經濟部產業發展署](https://www.ida.gov.tw/)
 
 [^2]: [Análisis de tendencias de la industria del audio, IEK Consulting, ITRI](https://ieknet.iek.org.tw/) — análisis del tamaño de la industria taiwanesa del audio y del mercado de manufactura por encargo
 
-[^3]: Asociación de Fabricantes Eléctricos y Electrónicos de Taiwán, _Anuario de la industria del audio_ — estadísticas de fabricantes y valor de producción de la industria taiwanesa del audio
+[^3]: Asociación de Fabricantes Eléctricos y Electrónicos de Taiwán, _Anuario de la industria del audio_ — estadísticas de fabricantes y valor de producción de la industria taiwanesa del audio [台灣區電機電子工業同業公會（TEEMA）](https://www.teema.org.tw/)
 
 [^4]: [Sitio web oficial de Merry Electronics](https://www.merry.com.tw/) — productos de componentes electroacústicos e información corporativa; Creative Technology Ltd. es una empresa de Singapur, no un fabricante taiwanés
 

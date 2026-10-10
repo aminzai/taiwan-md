@@ -100,10 +100,10 @@ Mười bốn năm, ba người, từ trường Trung học THỰC TẾ Thành �
 
 **Đọc thêm:**
 
-- [Âm nhạc độc lập Đài Loan](/music/台灣獨立音樂) — Bối cảnh thời đại từ tự nhiên đến Cỏ Đông cho đến post-hardcore của Fish Stick
-- [Cỏ Đông không có bữa tiệc](/people/草東沒有派對) — Cùng là bạn bè trường trung học ở Bắc Đài, hai lần giành giải nhạc rock hay nhất
-- [Xấu Tinh](/people/壞特) — Đồng thời là nhà sáng tạo âm nhạc độc lập ở Đài Loan, đi theo hướng R&B bedroom-pop hoàn toàn khác biệt
-- [Biến số của Kansas](/people/康士坦的變化球) — Khung cảnh rock độc lập ở Bắc Đài, tham chiếu cho câu chuyện kể bằng giọng nói
+- [Âm nhạc độc lập Đài Loan](/vi/music/indie-music-scene) — Bối cảnh thời đại từ tự nhiên đến Cỏ Đông cho đến post-hardcore của Fish Stick
+- [Cỏ Đông không có bữa tiệc](/vi/people/no-party-for-cao-dong) — Cùng là bạn bè trường trung học ở Bắc Đài, hai lần giành giải nhạc rock hay nhất
+- [Xấu Tinh](/vi/people/huai-te-indie-singer) — Đồng thời là nhà sáng tạo âm nhạc độc lập ở Đài Loan, đi theo hướng R&B bedroom-pop hoàn toàn khác biệt
+- [Biến số của Kansas](/vi/people/constant-and-change-band) — Khung cảnh rock độc lập ở Bắc Đài, tham chiếu cho câu chuyện kể bằng giọng nói
 
 ## Liên kết bên ngoài
 

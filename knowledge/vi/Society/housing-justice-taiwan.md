@@ -29,6 +29,7 @@ rationale:
 translatedFrom: 'Society/居住正義.md'
 sourceCommitSha: '149901078'
 sourceContentHash: 'sha256:dcd392c480a1e7a1'
+sourceBodyHash: 'sha256:a0a8f64f629c96f3'
 translatedAt: '2026-09-09T15:01:50+08:00'
 ---
 

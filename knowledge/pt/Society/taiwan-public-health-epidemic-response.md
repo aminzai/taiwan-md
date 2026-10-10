@@ -94,8 +94,8 @@ Vinte e três anos após o bloqueio do Hospital Heping, aquele prédio ainda erg
 - [Salas de Fumantes de Taipé: Na Cidade Livre de Tabaco, Aquela Caixa de Vidro que Respira](/pt/society/taipei-smoking-room) — O capítulo mais recente da cruzada de quarenta anos contra o tabaco, o campo de batalha mudou do interior para o exterior
 
 - [Saúde e Seguro Nacional de Saúde de Taiwan](/pt/lifestyle/taiwan-healthcare-and-national-health-insurance) — A infraestrutura de base do sistema de prevenção: o banco de dados do Seguro Nacional de Saúde de 23,4 milhões de pessoas
-- [Audrey Tang](/people/唐鳳) — A ministra digital por trás do mapa de máscaras
-- [Sistema de Medicina de Desastres de Taiwan](/technology/台灣災難醫療體系) — Do 921 à SARS, como desastres impulsionam a evolução médica
+- [Audrey Tang](/pt/people/audrey-tang) — A ministra digital por trás do mapa de máscaras
+- [Sistema de Medicina de Desastres de Taiwan](/pt/technology/taiwan-disaster-medicine-system) — Do 921 à SARS, como desastres impulsionam a evolução médica
 - [Lei Dual de Medicina Regenerativa × 30 Anos de mRNA](/pt/society/taiwan-regenerative-medicine-laws) — A narrativa dupla da aquisição de BNT em 2021 + legislação de terapia celular, perspectiva estendida da prevenção de COVID deste artigo
 
 ## Referências

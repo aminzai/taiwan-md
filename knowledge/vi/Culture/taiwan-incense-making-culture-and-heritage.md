@@ -12,7 +12,7 @@ tags:
     'chiếc hương',
     'dân gian tín ngưỡng',
   ]
-subcategory: 'Thủ công và Mỹ học'
+subcategory: '工藝與美學'
 author: 'Taiwan.md Contributors'
 difficulty: 'beginner'
 readingTime: 10

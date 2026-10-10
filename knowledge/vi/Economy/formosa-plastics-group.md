@@ -12,7 +12,7 @@ tags:
     'Công nghiệp truyền thống',
     'Tứ bảo Formosa',
   ]
-subcategory: 'Tiểu sử doanh nghiệp'
+subcategory: '企業列傳'
 author: 'Taiwan.md'
 readingTime: 8
 featured: false
@@ -156,7 +156,7 @@ Câu chuyện của Tập đoàn Formosa Plastics là bản thu nhỏ của quá
 
 **Đọc thêm**:
 
-- [Cơ chế giá xăng dầu Đài Loan và CPC](/economy/台灣油價機制與中油) — Hoàn cảnh của CPC, đơn vị luyện dầu lớn thứ hai của Đài Loan bên cạnh Formosa Petrochemical: mỗi khi giá xăng tăng vọt đều bị yêu cầu đứng ở hàng đầu gánh vác, giá rẻ được chia đều theo lít cho mỗi người, ai dùng nhiều nhất không ai thống kê.
+- [Cơ chế giá xăng dầu Đài Loan và CPC](/vi/economy/taiwan-fuel-pricing-and-cpc) — Hoàn cảnh của CPC, đơn vị luyện dầu lớn thứ hai của Đài Loan bên cạnh Formosa Petrochemical: mỗi khi giá xăng tăng vọt đều bị yêu cầu đứng ở hàng đầu gánh vác, giá rẻ được chia đều theo lít cho mỗi người, ai dùng nhiều nhất không ai thống kê.
 
 ## Tài liệu tham khảo
 

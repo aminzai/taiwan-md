@@ -20,7 +20,7 @@ readingTime: 9
 lastVerified: 2026-05-13
 lastHumanReview: false
 translatedFrom: 'People/邊荷律.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:860b8c0055b0c881'
 sourceBodyHash: 'sha256:34601056f655cc89'
 translatedAt: '2026-05-17T05:33:00Z'
@@ -38,7 +38,7 @@ El reconocimiento de Byun Ha-yul entre los aficionados taiwaneses proviene de un
 
 ## 2026: estado de ánimo y salud familiar en entrevistas públicas
 
-Según un reporte de *ETtoday Sports Cloud*, en la rueda de prensa previa a la temporada de 2026, Byun Ha-yul habló sobre temas relacionados con el Clásico Mundial de Béisbol y declaró que, tras desarrollarse durante un tiempo en Taiwán, también siente un profundo afecto por esta tierra. [Fuente: Eastern Broadcasting New Media / ETtoday Sports Cloud][^1]
+Según un reporte de _ETtoday Sports Cloud_, en la rueda de prensa previa a la temporada de 2026, Byun Ha-yul habló sobre temas relacionados con el Clásico Mundial de Béisbol y declaró que, tras desarrollarse durante un tiempo en Taiwán, también siente un profundo afecto por esta tierra. [Fuente: Eastern Broadcasting New Media / ETtoday Sports Cloud][^1]
 
 El mismo reporte también recoge su explicación, durante la rueda de prensa, sobre su «bajo estado de ánimo»: señaló que su abuelo materno se encontraba en mala salud y que su madre estaba muy preocupada, por lo que ella misma estaba muy pendiente del estado de su familia. [Fuente: Eastern Broadcasting New Media / ETtoday Sports Cloud][^1]
 

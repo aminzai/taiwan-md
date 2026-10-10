@@ -4,7 +4,7 @@ description: '1980 के दशक के भूमिगत रॉक से 1
 date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Music'
-subcategory: 'Independent and Rock'
+subcategory: '獨立與搖滾'
 tags: ['रॉक संगीत', 'संगीत इतिहास', 'भूमिगत संगीत', 'बैंड', 'ताइवान संगीत']
 readingTime: '12'
 lastVerified: 2026-03-19

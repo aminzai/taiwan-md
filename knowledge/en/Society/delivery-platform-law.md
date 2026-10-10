@@ -382,8 +382,8 @@ On day four after implementation the National Delivery Industry Union asked prec
 - [Night Market Culture](/en/food/night-market-culture) — How local dining operated and was priced in Taiwan before the platforms.
 - [Taiwan Bubble Tea Culture](/en/food/hand-shaken-drink-culture) — From street stalls to global brands, another side of platform commissions.
 - [FamilyMart Welfare Center](/en/economy/pxmart-supermarket) — The local channel on the fresh groceries delivery line.
-- [Benzo(a)pyrene Food Safety Incident](/society/苯駢芘食安事件) — Bento boxes delivered to doorsteps a month after the specialized law took effect are downstream from this food safety storm.
-- [Who Determines Low Pay](/society/誰算低薪) — The remuneration guarantee for delivery riders is written into the specialized law, but there's no legal protection for year-end bonuses: how low pay moves from base salary to non-bonus columns.
+- [Benzo(a)pyrene Food Safety Incident](/en/society/benzopyrene-food-safety-incident) — Bento boxes delivered to doorsteps a month after the specialized law took effect are downstream from this food safety storm.
+- [Who Determines Low Pay](/en/society/who-counts-as-low-wage) — The remuneration guarantee for delivery riders is written into the specialized law, but there's no legal protection for year-end bonuses: how low pay moves from base salary to non-bonus columns.
 
 ## Image Sources
 

@@ -13,14 +13,14 @@ tags:
     'Huang Tou-ni',
     'disaffected generation',
   ]
-subcategory: 'Generations and Society'
+subcategory: '世代與社會'
 author: 'Taiwan.md'
 category: 'Society'
 readingTime: 12
 lastVerified: 2026-06-07
 lastHumanReview: false
 translatedFrom: 'Society/複雜生活節.md'
-sourceCommitSha: 'dd82dc4a'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:288b132714804aff'
 sourceBodyHash: 'sha256:f51e2d5a46bf8d87'
 translatedAt: '2026-06-14T00:35:00+08:00'

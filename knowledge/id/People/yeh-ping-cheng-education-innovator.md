@@ -57,7 +57,7 @@ Gagasan intinya tak berubah: pendidikan Taiwan melatih kemampuan siswa "menjawab
 - [Huang Kuo-chen](/id/people/huang-kuo-chen) — Inovator pendidikan lain yang mendorong pendidikan literasi membaca di Taiwan
 - [Lu Kuan-wei](/id/people/lu-guan-wei-junyiacademy-founder) — Ketua Yayasan Platform Pendidikan Merata, meninggalkan kedokteran untuk mengajar, membangun versi Taiwan Khan Academy
 - [Yen Chang-shou](/id/people/stanley-yen) — Dari industri pariwisata beralih ke pendidikan pedalaman sebagai pengusaha sosial
-- [Audrey Tang](/people/唐鳳) — Titik temu tata kelola digital dan inovasi pendidikan
+- [Audrey Tang](/id/people/audrey-tang) — Titik temu tata kelola digital dan inovasi pendidikan
 
 ## Referensi
 

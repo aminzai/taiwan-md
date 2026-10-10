@@ -181,7 +181,7 @@ Der erste Schritt ist die Anerkennung: **Die durchschnittlichen PISA-Ergebnisse 
 - **Die Krise der Geburtenrückgang in Taiwan:** Learning Poverty und Geburtenrückgang sind keine gleich Problem, aber sie treten auf dem Land gleichzeitig auf: Die Schülerzahl nimmt ab, die Schulen werden kleiner, die Ressourcen konzentrieren sich stärker, während der Anteil der Lernarmen unter den verbliebenen Kindern tatsächlich höher ist.
 - **[Ausweitung und Rückzug des taiwanischen Hochschulwesens](/de/society/taiwan-higher-education-expansion-and-decline):** Nachdem die Hochschulbildung zur Norm geworden war, wurde „etwas gelernt haben“ zur nächsten Mauer.
 - **Bildungssystem und Aufstiegs-Kultur:** Die Kultur in Taiwan, bei der der Aufstieg als einziger Weg angesehen wird, lässt Kinder mit Learning Poverty im System fast ohne andere Möglichkeiten zurück.
-- **[Wer verdient wenig](/society/誰算低薪):** Eine weitere Definitionsfrage: Das Statistikamt definiert „niedriges Einkommen“ basierend auf dem Monatsgehalt (Null) oder dem Jahresgehalt (1,26 Millionen), wobei die Boni nicht erfasst werden können.
+- **[Wer verdient wenig](/de/society/who-counts-as-low-wage):** Eine weitere Definitionsfrage: Das Statistikamt definiert „niedriges Einkommen“ basierend auf dem Monatsgehalt (Null) oder dem Jahresgehalt (1,26 Millionen), wobei die Boni nicht erfasst werden können.
 
 ## Referenzen
 

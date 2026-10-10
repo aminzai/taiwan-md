@@ -12,7 +12,7 @@ tags:
     'Pendidikan',
     'Seni pertunjukan',
   ]
-subcategory: 'Seni dan Desain'
+subcategory: '藝術與設計'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-21
@@ -20,6 +20,7 @@ lastHumanReview: true
 translatedFrom: 'People/朱宗慶.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:088677b3f90aa3d4'
+sourceBodyHash: 'sha256:7f55711687ee2aed'
 translatedAt: '2026-07-25T06:44:10.819265+00:00'
 ---
 

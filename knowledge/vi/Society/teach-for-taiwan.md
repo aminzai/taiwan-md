@@ -137,12 +137,12 @@ Năm 2025, TFT tổ chức “Festival Cảm nghĩ” tại khu vực sáng tạ
 
 **Đọc thêm**:
 
-- [Giáo dục nông thôn ở Đài Loan](/society/台灣偏鄉教育) — Nếu muốn xem toàn bộ cấu trúc, chứ không chỉ nhìn vào tổ chức TFT, bài viết này mở rộng bốn vòng tròn về trẻ em, trường học, gia đình cộng đồng và thành công xã hội
-- [Khủng hoảng giảm dưới 1.5 tuổi ở Đài Loan](/society/台灣少子化危機) — Sự giảm dưới 1.5 tuổi là áp lực nền tảng của trường học nông thôn, số lượng học sinh giảm dần khiến các trường nhỏ đối mặt với khả năng hợp nhất
-- [Công lý đất đai và lĩnh vực truyền thống của người gốc Đài Loan](/society/台灣原住民族土地正義與傳統領域) — Nhiều trường học mà TFT đăng khi ở khu vực người gốc Đài Loan, vấn đề giáo dục gắn liền với công lý đất đai, duy trì văn hóa truyền thống
-- [Long Sương](/people/嚴長壽) — Một trong những người tạo nền tảng cho TFT, người sáng lập Hiệp hội Nền tảng hành động xã hội, các thí nghiệm giáo dục tại Tây Ngưỡng và TFT là hai phát triển của cùng một sông
-- [Văn hóa tình nguyện và tham gia xã hội ở Đài Loan](/society/台灣災難志工文化) — Truyền thống tình nguyện của xã hội dân sự ở Đài Loan là môi trường cho phép TFT thu hút được bốn trăm người tham gia
-- [Trường học phi chính phủ](/society/雜學校) — Sau trận đấu 318 học đường năm đó, các trường giáo dục mới thành lập khác, khác với TFT theo cách tập hợp tài năng, các trường dạy học phi chính phủ theo lối đi của Festival cổ vũ là hai phương pháp sắp xếp khác nhau
+- [Giáo dục nông thôn ở Đài Loan](/vi/society/taiwan-rural-education) — Nếu muốn xem toàn bộ cấu trúc, chứ không chỉ nhìn vào tổ chức TFT, bài viết này mở rộng bốn vòng tròn về trẻ em, trường học, gia đình cộng đồng và thành công xã hội
+- [Khủng hoảng giảm dưới 1.5 tuổi ở Đài Loan](/vi/society/taiwan-low-birth-rate-crisis) — Sự giảm dưới 1.5 tuổi là áp lực nền tảng của trường học nông thôn, số lượng học sinh giảm dần khiến các trường nhỏ đối mặt với khả năng hợp nhất
+- [Công lý đất đai và lĩnh vực truyền thống của người gốc Đài Loan](/vi/society/indigenous-land-justice-and-traditional-territories) — Nhiều trường học mà TFT đăng khi ở khu vực người gốc Đài Loan, vấn đề giáo dục gắn liền với công lý đất đai, duy trì văn hóa truyền thống
+- [Long Sương](/vi/people/stanley-yen) — Một trong những người tạo nền tảng cho TFT, người sáng lập Hiệp hội Nền tảng hành động xã hội, các thí nghiệm giáo dục tại Tây Ngưỡng và TFT là hai phát triển của cùng một sông
+- [Văn hóa tình nguyện và tham gia xã hội ở Đài Loan](/vi/society/taiwan-disaster-volunteer-culture) — Truyền thống tình nguyện của xã hội dân sự ở Đài Loan là môi trường cho phép TFT thu hút được bốn trăm người tham gia
+- [Trường học phi chính phủ](/vi/society/za-share) — Sau trận đấu 318 học đường năm đó, các trường giáo dục mới thành lập khác, khác với TFT theo cách tập hợp tài năng, các trường dạy học phi chính phủ theo lối đi của Festival cổ vũ là hai phương pháp sắp xếp khác nhau
 
 ## Tài liệu tham khảo
 

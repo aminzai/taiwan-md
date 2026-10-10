@@ -57,7 +57,7 @@ Sua tese central nunca mudou: a educação de Taiwan treinou a capacidade dos al
 - [Huang Kuo-chen](/pt/people/huang-kuo-chen) — Outro inovador educacional que impulsiona a educação para a literacia de leitura em Taiwan
 - [Lu Kuan-wei](/pt/people/lu-guan-wei-junyiacademy-founder) — Presidente da plataforma Junyi Academy, abandonou a medicina para ensinar e fazer a versão taiwanesa da Khan Academy
 - [Yen Chang-shou](/pt/people/stanley-yen) — Do setor de turismo para a educação em áreas remotas, empreendedor social
-- [Audrey Tang](/people/唐鳳) — Ponto de encontro entre governança digital e inovação educacional
+- [Audrey Tang](/pt/people/audrey-tang) — Ponto de encontro entre governança digital e inovação educacional
 
 ## Referências
 

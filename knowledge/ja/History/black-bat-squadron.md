@@ -4,7 +4,7 @@ description: '1952年に編成された空軍第34中隊は、冷戦の霧のな
 date: 2026-08-01
 category: 'History'
 tags: ['冷戦', '空軍', '黒バット中隊', '新竹', '特殊任務', '西方公司']
-subcategory: '軍事史'
+subcategory: '軍事歷史'
 author: 'Taiwan.md Translation Team'
 featured: false
 readingTime: 12
@@ -14,6 +14,7 @@ curation: incubating
 translatedFrom: 'History/黑蝙蝠中隊.md'
 sourceCommitSha: '69b3afd9'
 sourceContentHash: 'sha256:9c407c7793816591'
+sourceBodyHash: 'sha256:7e573e2650a593fd'
 translatedAt: '2026-08-21T19:08:49+08:00'
 ---
 
@@ -61,7 +62,7 @@ translatedAt: '2026-08-21T19:08:49+08:00'
 - [戒厳令時代](/ja/history/martial-law-era) — 黒バット中隊の極秘任務と家族の沈黙は、同じ戒厳体制の下で起きていた
 - [台湾白色テロ](/ja/history/taiwan-white-terror) — 同じ冷戦の年代に、別のかたちで消音されていった個人の運命
 
-## 參考資料
+## 参考資料
 
 [^1]: [Wikipedia：黒蝙蝠中隊](https://zh.wikipedia.org/zh-tw/%E9%BB%91%E8%9D%99%E8%9D%A0%E4%B8%AD%E9%9A%8A) — Wikipedia項目
 

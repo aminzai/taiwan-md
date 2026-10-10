@@ -12,7 +12,7 @@ tags:
     수렵 문화,
     지속 가능한 발전,
   ]
-subcategory: '원주민 생태 지혜'
+subcategory: '原住民生態智慧'
 category: 'Nature'
 author: 'Taiwan.md Contributors'
 readingTime: 9

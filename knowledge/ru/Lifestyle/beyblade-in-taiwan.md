@@ -11,7 +11,7 @@ tags:
     'Соревновательный спорт',
     'Ностальгическая экономика',
   ]
-subcategory: 'Досуг и развлечения'
+subcategory: '休閒與娛樂'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-19
@@ -26,6 +26,7 @@ whos_pushing_back: '玩具業者會主張這仍是「玩具」而非運動；玩
 translatedFrom: 'Lifestyle/戰鬥陀螺.md'
 sourceCommitSha: '7492cf56b'
 sourceContentHash: 'sha256:0621b1b977ebccef'
+sourceBodyHash: 'sha256:238cada628dc5182'
 translatedAt: '2026-09-11T11:17:19.160420+00:00'
 ---
 

@@ -49,6 +49,7 @@ sporeLinks:
 translatedFrom: 'Music/周蕙.md'
 sourceCommitSha: 'a2811a4f0'
 sourceContentHash: 'sha256:3f3e19a3f60ba784'
+sourceBodyHash: 'sha256:14a031263a904f69'
 translatedAt: '2026-09-24T01:20:08.544762+00:00'
 ---
 
@@ -364,7 +365,7 @@ Ketika pendengar Taiwan modern berikutnya memasuki KTV, ketika seseorang memilih
 
 - [Chang Hsien dan An Pu](/id/music/deserts-chang-and-anpu) — Sama-sama penyanyi wanita Taiwan, An Pu menjawab pertanyaan "pihak mana" dengan dua nama panggung; pilihan Chou Hui adalah tidak memilih pihak mana pun
 - [Budaya KTV Taiwan](/id/music/ktv-culture) — Periode emas KTV dari akhir 1990-an hingga awal 2000-an adalah dasar materi bagi keberlangsungan 〈約定〉 selama 25 tahun
-- [Musik Pop Taiwan](/music/台灣流行音樂) — Pembentukan dan peluruhan _frame_ "Empat Bintang Muda" pada tahun 1999, menampilkan sepotong industri musik pop berbahasa Mandarin yang terindustrialisasi di era 90-an
+- [Musik Pop Taiwan](/id/music/golden-melodies-legacy-taiwan-pop-music) — Pembentukan dan peluruhan _frame_ "Empat Bintang Muda" pada tahun 1999, menampilkan sepotong industri musik pop berbahasa Mandarin yang terindustrialisasi di era 90-an
 - [Penghargaan Lagu Terbaik](/id/music/pop-music-and-golden-melody-awards) — Chou Hui tidak pernah memenangkan penghargaan penyanyi lagu terbaik, tetapi kariernya selama 25 tahun telah membangun metrik keabadiannya sendiri di luar sistem penghargaan tersebut
 
 ## Sumber Gambar

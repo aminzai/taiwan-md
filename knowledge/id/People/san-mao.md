@@ -210,13 +210,13 @@ Seorang yang hidupnya penuh dengan melarikan diri, pada akhirnya menjadi jalan b
 
 ## Referensi
 
-[^1]: [Wikipedia: San Mao (penulis)](<https://zh.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6)>) — Informasi dasar, kronologi karya, penilaian sastra
+[^1]: [Wikipedia: San Mao (penulis)](https://zh.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6) — Informasi dasar, kronologi karya, penilaian sastra
 
 [^2]: [Chop Suey Club](https://www.chopsueyclub.com/blogs/blog/san-mao) — Tahun kelahiran Jose Maria 1951, selisih usia 8 tahun, mantan suami asal Jerman
 
 [^3]: [Diario de Avisos](https://www.diariodeavisos.com/2012/01/cuando-la-tragedia-sepulto-el-arte/) — Lokasi kecelamatan Jose Maria di La Palma Barlovento, tanggal, detail evakuasi
 
-[^4]: [Wikipedia: Red Sorghum (film)](<https://zh.wikipedia.org/wiki/%E6%BB%9A%E6%BB%9A%E7%B4%85%E5%A1%B5_(%E9%9B%BB%E5%BD%B1)>) — Daftar lengkap 8 penghargaan Golden Horse ke-27
+[^4]: [Wikipedia: Red Sorghum (film)](https://zh.wikipedia.org/wiki/%E6%BB%9A%E6%BB%9A%E7%B4%85%E5%A1%B5_(%E9%9B%BB%E5%BD%B1) — Daftar lengkap 8 penghargaan Golden Horse ke-27
 
 [^5]: [New York Times Overlooked](https://www.nytimes.com/2019/10/23/obituaries/sanmao-overlooked.html) — Penjualan 15 juta eksemplar, penilaian internasional
 

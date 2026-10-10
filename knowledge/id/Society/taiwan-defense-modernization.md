@@ -22,6 +22,7 @@ readingTime: 16
 translatedFrom: 'Society/台灣國防與軍事現代化.md'
 sourceCommitSha: 'e1b5668ad'
 sourceContentHash: 'sha256:47a9b948e22a790b'
+sourceBodyHash: 'sha256:22e1d83beded6641'
 translatedAt: '2026-07-28T21:39:08.532735+00:00'
 ---
 
@@ -149,19 +150,19 @@ F-16V Block 70 semula dijadwalkan diserahkan 2024, tertunda hingga 2027 akibat m
 
 **Bacaan Lanjutan**:
 
-- [Krisis Selat Taiwan dan Perkembangan Hubungan Lintas Selat](/history/台海危機與兩岸關係發展) — Bagaimana tiga krisis Selat Taiwan membentuk logika struktural konfrontasi militer lintas selat hari ini
+- [Krisis Selat Taiwan dan Perkembangan Hubungan Lintas Selat](/id/history/taiwan-strait-crises-and-cross-strait-relations) — Bagaimana tiga krisis Selat Taiwan membentuk logika struktural konfrontasi militer lintas selat hari ini
 - [Mitra Diplomatik Taiwan dan Diplomasi Internasional](/id/society/taiwan-diplomatic-allies-and-international-relations) — Jalan lain di luar pertahanan militer, diplomasi Taiwan mencari keberadaan dalam sistem internasional
 - [Lingkungan Politik dan Sistem Pemilu Taiwan](/id/society/taiwan-political-landscape-and-electoral-system) — Mengapa anggaran khusus 1,25 triliun diblokir delapan kali di Yuan Legislatif, pertahanan bukan keputusan satu pemerintah
-- [Pengembangan Industri Keamanan Siber Taiwan](/technology/台灣資安產業發展) — Garis depan perang zona abu-abu bukan ranjau laut, melainkan firewall
-- [Pengembangan Industri Antariksa Taiwan](/technology/台灣太空產業發展) — Dari satelit sipil ke komunikasi pertahanan, antariksa adalah medan perang baru ketahanan pertahanan Taiwan
-- [Pertemuan Cheng-Xi 2026: Sepuluh Menit Pertemuan Ulang Pemimpin KMT-KPC Sepuluh Tahun Lagi](/society/2026鄭習會與國共十年再會) — Saat Cheng Li-wen mengusulkan "aranjemen institutional pencegahan perang", di baliknya adalah pertarungan politik anggaran khusus pertahanan
-- [Shen Bo-yang](/people/沈伯洋) — Pendiri bersama Akademi Beruang Hitam, memperkuat ketahanan pertahanan seluruh rakyat Taiwan melalui pendidikan pertahanan sipil; setelah tujuh tahun mempelajari perang kognitif KPC, didakwa oleh Tiongkok dengan "kepidanaan memecah belah negara"
-- [Akademi Beruang Hitam](/society/黑熊學院) — Pendidikan pertahanan seluruh rakyat yang bermula dari masyarakat sipil, lapisan ketahanan lain di luar pertahanan negara, sebuah sekolah yang berharap suatu hari tidak perlu ada
-- [Cho Jung-tai](/people/卓榮泰) — Pelopor utama anggaran khusus pertahanan 1,25 triliun di Yuan Eksekutif, pengusul "Perisai Taiwan" dan "Tiga Bola Bagus"
-- [Lu Hsiu-yen](/people/盧秀燕) — Wakil Ketua KMT / Walikota Taichung, dalam kontroversi pembelian senjata 2026 mengambil posisi menengah "800 miliar-1 triliun"
+- [Pengembangan Industri Keamanan Siber Taiwan](/id/technology/taiwan-cybersecurity-industry-development) — Garis depan perang zona abu-abu bukan ranjau laut, melainkan firewall
+- [Pengembangan Industri Antariksa Taiwan](/id/technology/taiwan-space-industry-development) — Dari satelit sipil ke komunikasi pertahanan, antariksa adalah medan perang baru ketahanan pertahanan Taiwan
+- [Pertemuan Cheng-Xi 2026: Sepuluh Menit Pertemuan Ulang Pemimpin KMT-KPC Sepuluh Tahun Lagi](/id/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Saat Cheng Li-wen mengusulkan "aranjemen institutional pencegahan perang", di baliknya adalah pertarungan politik anggaran khusus pertahanan
+- [Shen Bo-yang](/id/people/puma-shen) — Pendiri bersama Akademi Beruang Hitam, memperkuat ketahanan pertahanan seluruh rakyat Taiwan melalui pendidikan pertahanan sipil; setelah tujuh tahun mempelajari perang kognitif KPC, didakwa oleh Tiongkok dengan "kepidanaan memecah belah negara"
+- [Akademi Beruang Hitam](/id/society/kuma-academy-civil-defense-school) — Pendidikan pertahanan seluruh rakyat yang bermula dari masyarakat sipil, lapisan ketahanan lain di luar pertahanan negara, sebuah sekolah yang berharap suatu hari tidak perlu ada
+- [Cho Jung-tai](/id/people/cho-jung-tai) — Pelopor utama anggaran khusus pertahanan 1,25 triliun di Yuan Eksekutif, pengusul "Perisai Taiwan" dan "Tiga Bola Bagus"
+- [Lu Hsiu-yen](/id/people/lu-hsiu-yan) — Wakil Ketua KMT / Walikota Taichung, dalam kontroversi pembelian senjata 2026 mengambil posisi menengah "800 miliar-1 triliun"
 - [Hsu Chiao-hsin](/id/people/hsu-chiao-hsin) — Anggota Legislatif KMT / Pelopor versi pembelian senjata 800 miliar, prototipe politik yang berulang kali bertabrakan dengan Lai Ching-te di podium interpelasi
 - [Chi Lin-lien](/id/people/ji-lin-lian) — Wakil Ketua KMT / Mayor Jenderal Purnawirawan, Rapat Komite Pusat 29 April memicu pecahnya jalur akuisisi senjata khas biru
-- [Yin Yan-liang](/people/尹衍樑) — Metode pra-cetak mempersingkat pembangunan pabrik TSMC / Google / Microsoft di Taiwan menjadi 100 hari, adalah infrastruktur tersembunyi daya saing semi-konduktor Taiwan; sekaligus pengusaha Taiwan khas yang taruhan ganda lintas selat dengan pernyataan 2013 "persatuan adalah keharusan"
+- [Yin Yan-liang](/id/people/samuel-yin-yan-liang) — Metode pra-cetak mempersingkat pembangunan pabrik TSMC / Google / Microsoft di Taiwan menjadi 100 hari, adalah infrastruktur tersembunyi daya saing semi-konduktor Taiwan; sekaligus pengusaha Taiwan khas yang taruhan ganda lintas selat dengan pernyataan 2013 "persatuan adalah keharusan"
 
 ## Referensi
 

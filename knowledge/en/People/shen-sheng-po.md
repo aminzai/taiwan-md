@@ -19,7 +19,7 @@ lastHumanReview: false
 category: 'People'
 subcategory: '藝術與設計'
 translatedFrom: 'People/沈聖博.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: 'f99a9959c'
 sourceContentHash: 'sha256:36208e14ce1c380c'
 sourceBodyHash: 'sha256:5eb269f5e4d722c4'
 translatedAt: '2026-05-17T06:10:00Z'

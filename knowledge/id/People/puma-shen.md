@@ -340,6 +340,7 @@ sporeLinks:
 translatedFrom: 'People/沈伯洋.md'
 sourceCommitSha: 'e1b5668ad'
 sourceContentHash: 'sha256:b525186aeb276e8e'
+sourceBodyHash: 'sha256:ec031917f07c2762'
 translatedAt: '2026-09-26T11:41:50.907677+00:00'
 ---
 
@@ -565,7 +566,7 @@ Pada Mei 2026 dia mengenakan sabuk kampanye, pergi untuk pertempuran pemilu lain
 **Bacaan Lanjutan**:
 
 - [Black Bear Academy](/id/society/kuma-academy-civil-defense-school) — organisasi pendidikan pertahanan sipil rakyat yang didirikan bersama oleh Shen Boyang dan Ho Cheng-hui, sebuah sekolah yang "berharap suatu hari Taiwan tidak lagi membutuhkannya"
-- [Perang Kognitif](/society/認知作戰) — kerangka kerja lengkap perang informasi Tiongkok terhadap Taiwan, Shen Boyang adalah salah satu peneliti utamanya
+- [Perang Kognitif](/id/society/cognitive-warfare-against-taiwan) — kerangka kerja lengkap perang informasi Tiongkok terhadap Taiwan, Shen Boyang adalah salah satu peneliti utamanya
 - [Ba Jiong](/id/people/pa-chiung-political-youtuber) — YouTuber Taiwan yang juga menjadi sasaran Tiongkok, pada November 2025 Tiongkok menjatuhkan harga atas kepalanya setinggi 250.000 yuan
 - [Lai Ching-te](/id/people/lai-ching-te) — terdaftar dalam daftar "separatis keras Taiwan", pada November 2025 secara terbuka menyuarakan dukungan kepada Shen Boyang
 - [Modernisasi Pertahanan dan Militer Taiwan](/id/society/taiwan-defense-modernization) — hubungan pelengkap antara pendidikan pertahanan sipil Black Bear Academy dan pertahanan nasional semua rakyat

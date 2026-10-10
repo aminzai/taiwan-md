@@ -11,7 +11,7 @@ tags:
     'Komisi Laut',
     'perikanan berkelanjutan',
   ]
-subcategory: 'Konservasi dan Lingkungan'
+subcategory: '保育與環境'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 15
@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'Nature/台灣海洋污染治理與保育挑戰.md'
 sourceCommitSha: '1d54cbe52'
 sourceContentHash: 'sha256:9d271528f9d62e05'
+sourceBodyHash: 'sha256:c208c01efc93c70e'
 translatedAt: '2026-07-30T20:17:29.477203+00:00'
 ---
 
@@ -582,7 +583,7 @@ Inti konservasi laut adalah keadilan antargenerasi: keputusan hari ini menentuka
 
 **Bacaan Lanjutan**:
 
-- [Krisis Iklim Taiwan dan Transisi Net-Zero](/nature/台灣氣候危機與淨零轉型) — Pembelahan karang di saluran air keluar PLTN Kuosheng, konflik perikanan akibat tenaga angin lepas pantai, kontroversi AMDAL Terminal Tiga di karang alga: bagaimana transisi iklim membentuk ulang medan perang tata kelola laut
+- [Krisis Iklim Taiwan dan Transisi Net-Zero](/id/nature/taiwan-climate-change-net-zero-transition) — Pembelahan karang di saluran air keluar PLTN Kuosheng, konflik perikanan akibat tenaga angin lepas pantai, kontroversi AMDAL Terminal Tiga di karang alga: bagaimana transisi iklim membentuk ulang medan perang tata kelola laut
 
 ## Referensi
 

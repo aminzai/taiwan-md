@@ -86,7 +86,7 @@ Dies erklärt auch ein kleines Zufall. Dieses Wissensarchiv, das Sie gerade lese
 
 **Weiterführende Lektüre**:
 
-- [AAMA Taipei Cradle Program](/economy/AAMA台北搖籃計畫): Lin Chi-Wei ist der 13. Unternehmer dieser zweijährigen, eins-zu-eins-Mentorenphase; ein taiwanesisches Unterstützungsmodell für Start-ups ohne Investition und ohne Beteiligung.
+- [AAMA Taipei Cradle Program](/de/economy/aama-taipei-cradle-program): Lin Chi-Wei ist der 13. Unternehmer dieser zweijährigen, eins-zu-eins-Mentorenphase; ein taiwanesisches Unterstützungsmodell für Start-ups ohne Investition und ohne Beteiligung.
 
 ## Quellenverzeichnis
 

@@ -72,7 +72,7 @@ Bagi ketiga generasi Orang Provinsi Luar, 'Orang Provinsi Luar' sering hanya men
 
 ## Bacaan Lanjutan
 
-- [Kelompok (Minnan, Hakka, Penduduk Asli, Orang Provinsi Luar Baru)](/culture/族群（閩南客家原住民外省新住民）) — Memahami interaksi Orang Provinsi Luar dengan kelompok lain dalam konteks klasifikasi kelompok yang lebih luas.
+- [Kelompok (Minnan, Hakka, Penduduk Asli, Orang Provinsi Luar Baru)](/id/culture/ethnic-groups) — Memahami interaksi Orang Provinsi Luar dengan kelompok lain dalam konteks klasifikasi kelompok yang lebih luas.
 - [Sejarah Desa Militer Taiwan](/id/history/taiwan-military-dependents-villages-history) — Menambahkan ruang tinggal, jaringan komunitas, dan ingatan budaya setelah migrasi Orang Provinsi Luar tiba.
 - [White Terror Taiwan](/id/history/taiwan-white-terror) — Menghubungkan pengalaman penderitaan Orang Provinsi Luar dalam pemerintahan otoriter dan kasus politik.
 
@@ -110,9 +110,9 @@ Bagi ketiga generasi Orang Provinsi Luar, 'Orang Provinsi Luar' sering hanya men
 
 [^20]: [旗津的大陳新村：歷史變遷與認同](https://khm.org.tw/tw/event/past/detail/22](https://khm.org.tw/tw/event/past/detail/22) — Menyediakan latar belakang, data, atau konteks peristiwa terkait artikel ini, sebagai dasar narasi dan verifikasi.
 
-[^21]: [Yahoo 新聞：促轉會公開轉型正義資料庫](https://tw.news.yahoo.com/%E4%BF%83%E8%BD%89%E6%9C%83%E5%85%AC%E9%96%8B-%E8%BD%89%E5%9E%8B%E6%94%BF%E7%BE%A9%E8%B3%87%E6%96%99%E5%BA%AB-%E6%9C%AC%E7%9C%81%E5%A4%96%E7%9C%81%E5%8F%97%E5%AE%B3%E6%AF%94%E4%BE%8B55-%E5%8F%8A44-045221531.html) — Menyediakan latar belakang, data, atau konteks peristiwa terkait artikel ini, sebagai dasar narasi dan verifikasi.
+[^21]: [Yahoo 新聞：促轉會公開轉型正義資料庫](https://tw.news.yahoo.com/%E4%BF%83%E8%BD%89%E6%9C%83%E5%85%AC%E9%96%8B-%E8%BD%89%E5%9E%8B%E6%AD%A3%E7%BE%A9%E8%B3%87%E6%96%99%E5%BA%AB-%E6%9C%AC%E7%9C%81%E5%A4%96%E7%9C%81%E5%8F%97%E5%AE%B3%E6%AF%94%E4%BE%8B55-%E5%8F%8A44-045221531.html) — Menyediakan latar belakang, data, atau konteks peristiwa terkait artikel ini, sebagai dasar narasi dan verifikasi.
 
-[^22]: [游鑑明：當外省人遇到臺灣女性](https://www.mh.sinica.edu.tw/FileUpload/87/199912_%E7%95%B6%E5%A4%96%E7%9C%81%E4%BA%BA%E9%81%87%E5%88%B0%E8%87%BA%E7%81%A3%E5%A5%B3%E6%80%A7%EF%BC%9A%E6%88%B0%E5%BE%8C%E8%87%BA%E7%81%A3%E5%82%AC%E5%88%86%E5%8A%9E%E5%8F%8A%E5%8F%8A44-045221531.html) — Menyediakan latar belakang, data, atau konteks peristiwa terkait artikel ini, sebagai dasar narasi dan verifikasi.
+[^22]: [游鑑明：當外省人遇到臺灣女性](https://www.mh.sinica.edu.tw/FileUpload/87/199912_%E7%95%B6%E5%A4%96%E7%9C%81%E4%BA%BA%E9%81%87%E5%88%B0%E8%87%BA%E7%81%A3%E5%A5%B3%E6%80%A7%EF%BC%9A%E6%88%B0%E5%BE%8C%E8%87%BA%E7%81%A3%E5%A0%B1%E5%88%8A%E4%B8%AD%E7%9A%84%E5%A5%B3%E6%80%A7%E8%AB%96%E8%BF%B0%20%281945-1949%29.pdf) — Menyediakan latar belakang, data, atau konteks peristiwa terkait artikel ini, sebagai dasar narasi dan verifikasi.
 
 [^23]: [中國評論新聞：原住民嫁外省老兵說不盡的辛酸故事](https://hk.crntt.com/doc/93_5670_103269625_9_0704010818.html) — Menyediakan latar belakang, data, atau konteks peristiwa terkait artikel ini, sebagai dasar narasi dan verifikasi.
 

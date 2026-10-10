@@ -14,7 +14,7 @@ tags:
     'địa chất',
     'văn hóa chữa lành',
   ]
-subcategory: 'Y tế và bảo hiểm sức khỏe'
+subcategory: '醫療與健保'
 author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 12

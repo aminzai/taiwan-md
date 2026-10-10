@@ -3,7 +3,7 @@ title: 'Stinky tofu: Olahraga sensorik di antara menyatu rasa dan mencari aroma 
 description: "Dari ilmuwan jalanan tahun 1950-an hingga 'shrine stinky tofu' yang menjadi bagian dari menu makanan tamu negara, stinky tofu ini membawa riwayat fermentasi 50 tahun Taiwan. Artikel ini menganalisis strategi mikroba di dalam larutan stinky tofu, serta rahasia rasa di Keang yang berbau karamel dan tiga tahap suhu minyak di Yili."
 date: 2026-04-26
 category: 'Food'
-subcategory: 'Makanan Khas Taiwan'
+subcategory: '經典小吃'
 tags:
   [
     'stinky tofu',
@@ -83,7 +83,7 @@ Dari tahun 2001, setelah film Larry Angel (李安) "Enter the Dragon" memenangka
 
 [^2]: [Stinky tofu yang menyengat adalah aroma: Kode rasa stinky tofu - Majalah Panorama Taiwan](https://www.taiwan-panorama.com/zh/Articles/Details?Guid=2cfc3c00-8ed3-4012-abe8-f937ee91f9c4&CatId=10&postname=%E8%87%AD%E5%88%B0%E6%A5%B5%E8%87%B4%E5%B0%B1%E6%98%AF%E9%A6%99-%E8%87%AD%E8%B1%86%E8%85%90%E7%9A%84%E9%A2%A8%E5%91%B3%E5%AF%86%E7%A2%BC) — Lihat tautan sumber untuk detail informasi (lihat catatan tambahan di sumber asli)
 
-[^3]: [Apakah stinky tofu mengandung bakteri probiotik bermanfaat untuk pencernaan? Mirip dengan minuman sehari-hari - Yahoo奇摩新聞](https://tw.news.yahoo.com/%E7%B6%B2%E5%8F%8B%E8%BF%B7%E6%80%9D-%E8%87%AD%E8%B1%86%E8%85%90%E5%90%AB%E4%B9%B3%E9%85%B8%E8%8F%8C%E6%9C%89%E7%9B%8A%E8%85%B8%E9%81%93%E5%81%A5%E5%BA%B7-%E8%B7%9F%E5%96%961%E9%A3%B2%E6%96%99%E7%9A%84%E6%95%88%E6%9E%9C%E5%B7%AE%E4%B8%8D%E5%A4%9A-004659979.html) — Lihat tautan sumber untuk detail informasi (lihat catatan tambahan di sumber asli)
+[^3]: [Apakah stinky tofu mengandung bakteri probiotik bermanfaat untuk pencernaan? Mirip dengan minuman sehari-hari - Yahoo奇摩新聞](https://tw.news.yahoo.com/%E7%B6%B2%E5%8F%8B%E8%BF%B7%E6%80%9D-%E8%87%AD%E8%B1%86%E8%85%90%E5%90%AB%E4%B9%B3%E9%85%B8%E8%8F%8C%E6%9C%89%E7%9B%8A%E8%85%B8%E9%81%93%E5%81%A5%E5%BA%B7-%E8%B7%9F%E5%96%9D1%E9%A3%B2%E6%96%99%E7%9A%84%E6%95%88%E6%9E%9C%E5%B7%AE%E4%B8%8D%E5%A4%9A-004659979.html) — Lihat tautan sumber untuk detail informasi (lihat catatan tambahan di sumber asli)
 
 [^4]: [Rasio emas! Stinky tofu fermentasi yang mudah dibuat dalam lima menit - Threads](https://www.threads.com/@mikiteresa/video/DWjErcngTwi/) — Lihat tautan sumber untuk detail informasi (lihat catatan tambahan di sumber asli)
 

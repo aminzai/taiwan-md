@@ -4,7 +4,7 @@ description: '2024년 12월 <중국 통일전선 다큐멘터리> 조회수 200�
 date: 2026-04-23
 author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '미디어와 표현의 자유'
+subcategory: '媒體與言論'
 tags:
   [
     인지전,
@@ -21,6 +21,15 @@ readingTime: 28
 lastVerified: 2026-04-23
 lastHumanReview: false
 featured: false
+sporeLinks:
+  - id: 41
+    platform: 'threads'
+    date: '2026-04-23'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXdyoqkEdma'
+  - id: 42
+    platform: 'x'
+    date: '2026-04-23'
+    url: 'https://x.com/taiwandotmd/status/2047213679826149450'
 translatedFrom: 'Society/認知作戰.md'
 sourceCommitSha: '7c4a58918'
 sourceContentHash: 'sha256:0b5ddca64df69aa6'
@@ -268,7 +277,7 @@ AI 가짜 의사 사안에 대해, 위건부(위생복리부)는 다층 대응�
 
 [^11]: [IORG 미국 불신 논조와 그들의 기원](https://iorg.tw/_en/a/press-release-20230921) — 대만 정보 환경 연구센터, 84개 논조 추적 연구
 
-[^12]: [Doublethink Lab 틱톡(TikTok) 청소년 조사 2025](https://medium.com/doublethinklab-tw/%E7%B2%BE%E6%BA%96%E6%8E%A8%E6%92%AD%E8%88%87%E8%AA%8D%E7%9F%A5%E6%BB%B5%E9%80%88-tiktok-458e3c5f7475) — 대만 민주 실험실, 3부 상호 연결 보고서의 요약판
+[^12]: [Doublethink Lab 틱톡(TikTok) 청소년 조사 2025](https://medium.com/doublethinklab-tw/%E7%B2%BE%E6%BA%96%E6%8E%A8%E6%92%AD%E8%88%87%E8%AA%8D%E7%9F%A5%E6%BB%B2%E9%80%8F-tiktok-458e3c5f7475) — 대만 민주 실험실, 3부 상호 연결 보고서의 요약판
 
 [^13]: [썸보양: 여론전 80%가 진실과 무관하며, 서사 공격이다](https://feja.org.tw/74059/) — 탁월 뉴스 어워드 재단, 썸보양 연설 기록
 
@@ -358,7 +367,7 @@ AI 가짜 의사 사안에 대해, 위건부(위생복리부)는 다층 대응�
 
 [^56]: [콘텐츠 농장 조사: 레저족主动 검증](https://www.twreporter.org/a/information-warfare-business-disinformation-fake-news-behind-line-groups) — 보고자, 레저족 30%主动 신고
 
-[^57]: [비판적 알고리즘 리터러시 Critical Algorithmic Literacy](https://rcais.medium.com/ai%E4%BD%9C%E7%82%BA%E5%AA%93%E4%BB%8B-%E8%A9%A6%E8%AB%96%E6%89%B9%E5%88%A4%E6%BC%94%E7%AE%97%E6%B3%95%E7%B4%A0%E9%A4%8A-critical-algorithmic-literacy-%E7%9A%84%E5%85%A7%E6%B6%B5-dde8235a0a4e) — 동우아대 AI 사회연구센터 RCAIS
+[^57]: [비판적 알고리즘 리터러시 Critical Algorithmic Literacy](https://rcais.medium.com/ai%E4%BD%9C%E7%82%BA%E5%AA%92%E4%BB%8B-%E8%A9%A6%E8%AB%96%E6%89%B9%E5%88%A4%E6%BC%94%E7%AE%97%E6%B3%95%E7%B4%A0%E9%A4%8A-critical-algorithmic-literacy-%E7%9A%84%E5%85%A7%E6%B6%B5-dde8235a0a4e) — 동우아대 AI 사회연구센터 RCAIS
 
 [^58]: [StopFake 및 NAFO: 우크라이나 민간 자조직](https://www.twreporter.org/a/russian-invasion-of-ukraine-2022-stopfake) — 보고자, 2022년 이후 민간 전술급 반제
 

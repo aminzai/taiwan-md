@@ -155,7 +155,7 @@ A literatura de Taiwan deste período forneceu acumulação substancial para o d
 
 ## Leituras Recomendadas
 
-- [Taiwan Man-yu-luk (Registros de uma Viagem por Taiwan)](/art/臺灣漫遊錄) — O romance de tradução falsa de Yang Tan-su, 2020, que transforma a viagem pela Ferrovia Transversal de Taiwan durante o período de governabilidade japonesa (1938-39) na história de comida e poder de duas mulheres, reconhecida internacionalmente em 2024 com os prêmios NBA e Booker International.
+- [Taiwan Man-yu-luk (Registros de uma Viagem por Taiwan)](/pt/art/taiwan-travelogue) — O romance de tradução falsa de Yang Tan-su, 2020, que transforma a viagem pela Ferrovia Transversal de Taiwan durante o período de governabilidade japonesa (1938-39) na história de comida e poder de duas mulheres, reconhecida internacionalmente em 2024 com os prêmios NBA e Booker International.
 - [Literatura de Taiwan Pós-Guerra](/pt/art/postwar-taiwanese-literature) — Como a linhagem do período de governabilidade japonesa de Lai Ho, Lioh Hok-jiok e Chang Bun-huan foi continuada após a ruptura linguística de 1945: Ye Shih-tao, Modernismo, Debate da Literatura Local, Consciência Feminina.
 - [Literatura de Taiwan Pós-Libertação Marcial](/pt/art/post-martial-law-taiwanese-literature) — A explosão diversificada após a remoção da Lei Marcial em 1987.
 - [Literatura Contemporânea de Taiwan](/pt/art/contemporary-taiwanese-literature) — Internacionalização no século 21, Wu Ming-yi, Literatura Digital.

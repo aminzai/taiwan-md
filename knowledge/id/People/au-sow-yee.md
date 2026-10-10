@@ -17,7 +17,7 @@ tags:
     'Rumah Attap Library',
     'Digital Wasteland',
   ]
-subcategory: 'Kurasi dan Seni Kontemporer'
+subcategory: '策展與當代藝術'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-17
@@ -30,6 +30,7 @@ imageSource: 'https://ausowyee.cargo.site/'
 translatedFrom: 'People/區秀詒.md'
 sourceCommitSha: '31a05c44b'
 sourceContentHash: 'sha256:0756e6688779bf0a'
+sourceBodyHash: 'sha256:9bd8f0aa157f38ef'
 translatedAt: '2026-09-16T15:13:14.826756+00:00'
 ---
 

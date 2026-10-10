@@ -4,7 +4,7 @@ description: '高校卒業の廟会団長が、文建会（文化建設委員会
 date: 2026-03-27
 author: 'Taiwan.md'
 category: 'Culture'
-subcategory: '宗教と民俗'
+subcategory: '宗教與民俗'
 tags: ['九天玄女', '陣頭', '九天民俗技藝団', '民間信仰', '廟宇文化', '許振栄']
 readingTime: 12
 lastVerified: 2026-03-27

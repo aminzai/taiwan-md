@@ -7,7 +7,7 @@ tags:
   - 'contemporary'
   - 'internationalization'
   - 'digital transformation'
-subcategory: 'Literature'
+subcategory: '文學'
 date: 2026-04-27
 lastVerified: 2026-04-27
 lastHumanReview: false

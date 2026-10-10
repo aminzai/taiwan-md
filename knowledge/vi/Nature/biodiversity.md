@@ -11,7 +11,7 @@ tags:
     'Hệ sinh thái',
     'Bảo vệ môi trường',
   ]
-subcategory: 'Hệ sinh thái'
+subcategory: '生態系統'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-21

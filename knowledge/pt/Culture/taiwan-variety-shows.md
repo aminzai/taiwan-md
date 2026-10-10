@@ -108,7 +108,7 @@ Se o "Encontro das Estrelas" de 1962 fez o trabalho de levar o show do salão pa
 ## Leituras recomendadas
 
 - [Lin You-jia](/pt/people/yoga-lin) — Campeã da primeira edição do "Super Star de Domingo" de 2007, um dos casos mais representativos do mecanismo de criação de estrelas por concursos da TV da Taiwan
-- [Prêmios de Ouro](/culture/金鐘獎) — A estatueta lembrada anualmente na cerimônia de prêmios de programas, que cresceu de um prêmio de rádio puro em 1965 para os três eventos de hoje
+- [Prêmios de Ouro](/pt/culture/golden-bell-awards) — A estatueta lembrada anualmente na cerimônia de prêmios de programas, que cresceu de um prêmio de rádio puro em 1965 para os três eventos de hoje
 
 ## Referências
 

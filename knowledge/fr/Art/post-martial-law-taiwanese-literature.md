@@ -3,7 +3,7 @@ title: 'La littérature taïwanaise après la levée de la loi martiale'
 description: "Trente-huit ans de répression levés en une nuit, la création littéraire connaît un essor fulgurant — mais la liberté ne signifie pas l'absence de contraintes, de nouveaux défis se profilent."
 date: 2026-03-18
 category: Art
-subcategory: "'文學'"
+subcategory: '文學'
 tags:
   [
     'Littérature',

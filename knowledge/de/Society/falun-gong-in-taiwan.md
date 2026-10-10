@@ -72,8 +72,8 @@ Die ruhige Präsenz von Falun Gong in Taiwan ist selbst ein kraftvoller, stiller
 
 **Weiterführende Lektüre**
 
-- [Ideologische Kriegsführung](/society/統戰團) — Von billigem Tourismus zur Influencer-Bewegung: Die neue und alte Logik des ideologischen Kampfes der KPCh gegenüber Taiwan.
-- [Kognitive Kriegsführung](/society/認知作戰) — Das systematische Rahmenwerk der kognitiven Operationen und die entsprechenden Mechanismen in Taiwan, von akademischer Analyse bis zu praktischer Bürgerbildung.
+- [Ideologische Kriegsführung](/de/society/united-front-tour-groups) — Von billigem Tourismus zur Influencer-Bewegung: Die neue und alte Logik des ideologischen Kampfes der KPCh gegenüber Taiwan.
+- [Kognitive Kriegsführung](/de/society/cognitive-warfare-against-taiwan) — Das systematische Rahmenwerk der kognitiven Operationen und die entsprechenden Mechanismen in Taiwan, von akademischer Analyse bis zu praktischer Bürgerbildung.
 
 ## Quellenverzeichnis
 

@@ -3,7 +3,7 @@ title: 'Wei-Yin Chen'
 description: "The left-hander who signed Taiwan's highest sports contract but only received 47% of the money"
 date: 2026-03-22
 tags: [people, baseball, sports, professional athlete, MLB, NPB]
-subcategory: 'Sports'
+subcategory: '體育'
 category: 'People'
 author: 'Taiwan.md'
 featured: false
@@ -11,7 +11,7 @@ readingTime: 6
 lastVerified: 2026-03-22
 lastHumanReview: false
 translatedFrom: 'People/陳偉殷.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:ffd25b21bdd9c278'
 sourceBodyHash: 'sha256:7ce7a4f8a7dcd5c0'
 translatedAt: '2026-05-16T22:19:17Z'

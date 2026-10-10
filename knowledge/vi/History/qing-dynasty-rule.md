@@ -4,7 +4,7 @@ description: 'Giai đoạn 1683–1895 khi nhà Thanh cai trị Đài Loan kho�
 date: 2026-03-17
 category: 'History'
 tags: ['History', 'Nhà Thanh', 'Mở cảng thương mại', 'Sự kiện Bồ Đàn Xã']
-subcategory: 'Thực dân và Đế chế'
+subcategory: '殖民與帝國'
 author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 8
@@ -85,5 +85,5 @@ Bài viết này sử dụng thuật ngữ "**Thời kỳ Thanh trị**". Trong 
 
 ## Đọc thêm
 
-- [乙未之役](/history/乙未之役) — Điểm kết thúc của giai đoạn Thanh trị: Hiệp ước Mã Quan năm 1895 và sự kháng cự của Nước Dân chủ Đài Loan
-- [荷西明鄭時期](/history/荷西明鄭時期) — Lịch sử Đài Loan trước thời kỳ Thanh trị
+- [乙未之役](/vi/history/1895-taiwan-resistance-war) — Điểm kết thúc của giai đoạn Thanh trị: Hiệp ước Mã Quan năm 1895 và sự kháng cự của Nước Dân chủ Đài Loan
+- [荷西明鄭時期](/vi/history/dutch-spanish-and-koxinga-era) — Lịch sử Đài Loan trước thời kỳ Thanh trị

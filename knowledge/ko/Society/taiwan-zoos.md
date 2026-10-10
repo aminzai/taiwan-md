@@ -170,7 +170,7 @@ Xpark가 중요한 이유는 아름다운지 여부가 아니라, "수족관을 
 - [리우푸춘 테마파크: 동물 전시 구역](https://www.leofoovillage.com.tw/Zoo/9b5777c5-b424-44cd-807d-58d2db17c577)（1차）
 - [Xpark: Xpark란](https://www.xpark.com.tw/about)（1차）
 - [Taipei Times: Xpark dismisses accusations of poor animal care](https://www.taipeitimes.com/News/taiwan/archives/2020/10/16/2003745256)
-- [국립해양생물박물관 2024 연례보고서: 수족관부](https://ws.nmmba.gov.tw/Download.ashx?icon=.pdf&n=5rW355Sf6aSoXzExM+W5tOWgsV8xMOawtOaXj+mkqOmDqC5wZGY%3D&u=LzAwMS9VcGxvYWQvMjIzL3JlbGZpbGUvNjQ1NC8xNDM1Ny81NTJhYTQ5My04NTI5LTQ4NDYtOTUxYS1iMDE3ODRiZTg2MWQucGRm)（1차）
+- [국립해양생물박물관 2024 연례보고서: 수족관부](https://ws.nmmba.gov.tw/Download.ashx?icon=.pdf&n=5rW355Sf6aSoXzExM%2BW5tOWgsV8xMOawtOaXj%2BmkqOmDqC5wZGY%3D&u=LzAwMS9VcGxvYWQvMjIzL3JlbGZpbGUvNjQ1NC8xNDM1Ny81NTJhYTQ5My04NTI5LTQ4NDYtOTUxYS1iMDE3ODRiZTg2MWQucGRm)（1차）
 - [위안슝해양공원: 해양공원 소개](https://www.farglory-oceanpark.com.tw/about)（1차）
 - [중앙통신사: 화롄 위안슝해양공원 돌고래 쇼 막내림, 돌고래 수호 기지로 전환](https://www.cna.com.tw/news/aloc/202604060152.aspx)
 - [예리우해양세계 공식 웹사이트](https://www.oceanworld.com.tw/)（1차）

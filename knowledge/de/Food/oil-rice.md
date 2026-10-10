@@ -90,8 +90,8 @@ Mit dem Wandel der Zeiten steht Oily Rice vor modernen Herausforderungen.
 
 **Weiterführende Lektüre**:
 
-- [Taiwanische Snacks](/food/台灣小吃) — Der Hintergrund der taiwanesischen Snackkultur, zu der Oily Rice gehört
-- [taiwanische Festmahlgerichte](/food/台灣手路菜) — Die Zubereitungsweise und die Rolle von Oily Rice im Kontext des Banketts
+- [Taiwanische Snacks](/de/food/taiwanese-street-food) — Der Hintergrund der taiwanesischen Snackkultur, zu der Oily Rice gehört
+- [taiwanische Festmahlgerichte](/de/food/taiwan-specialty-home-cooking) — Die Zubereitungsweise und die Rolle von Oily Rice im Kontext des Banketts
 
 ## Referenzen
 

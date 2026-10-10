@@ -180,9 +180,9 @@ Une voix « un peu usée », une lenteur qui refuse de se presser. Kowen Ko n'es
 
 **Lectures complémentaires :**
 
-- [Wei Ru-hsuan](/people/魏如萱) — Cousine de Kowen Ko, double lauréate du prix de Meilleure chanteuse en langue mandarine aux Golden Melody Awards, également membre de forgood music.
-- [Chen Jian-ki](/people/陳建騏) — Le producteur qui a accompagné Kowen Ko pendant neuf ans pour trois albums sans jamais le presser, un artisan multi-récompensé par les prix Golden Horse, Golden Melody et Golden Bell.
-- [Hello Nico](/people/Hello-Nico) — Un autre groupe de la scène indépendante taïwanaise souvent encadré par le terme « disparu pendant X années », mais qui produit régulièrement des œuvres.
+- [Wei Ru-hsuan](/fr/people/waa-wei-singer) — Cousine de Kowen Ko, double lauréate du prix de Meilleure chanteuse en langue mandarine aux Golden Melody Awards, également membre de forgood music.
+- [Chen Jian-ki](/fr/people/chen-chien-chi-music-producer) — Le producteur qui a accompagné Kowen Ko pendant neuf ans pour trois albums sans jamais le presser, un artisan multi-récompensé par les prix Golden Horse, Golden Melody et Golden Bell.
+- [Hello Nico](/fr/people/hello-nico-band) — Un autre groupe de la scène indépendante taïwanaise souvent encadré par le terme « disparu pendant X années », mais qui produit régulièrement des œuvres.
 
 ## Sources des images
 

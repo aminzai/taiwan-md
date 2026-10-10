@@ -14,7 +14,7 @@ tags:
     'Huang Douni',
     'weltmüde Generation',
   ]
-subcategory: 'Generation und Gesellschaft'
+subcategory: '世代與社會'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-06-07
@@ -33,6 +33,7 @@ relatedDiary: ['2026-06-07-153821-複雜生活節']
 translatedFrom: 'Society/複雜生活節.md'
 sourceCommitSha: 'dd82dc4a6'
 sourceContentHash: 'sha256:7ebf5415595c2d0c'
+sourceBodyHash: 'sha256:f51e2d5a46bf8d87'
 translatedAt: '2026-09-12T01:15:21.005741+00:00'
 ---
 
@@ -275,9 +276,9 @@ Quelle: Complex Life Festival offizielles Medium, historisches Material des Einf
 
 **Weiterführende Links**:
 
-- [Sunflower Movement](/society/太陽花學運) — Zeitlicher Kontext des Complex Life Festival: Wie die Bewegung von 2014 nach dem Ende auf der Straße in die New Power Party, g0v, Za Share und das Complex Life Festival als mehrere jugendliche Ausgänge aufsplitterte
+- [Sunflower Movement](/de/society/sunflower-movement) — Zeitlicher Kontext des Complex Life Festival: Wie die Bewegung von 2014 nach dem Ende auf der Straße in die New Power Party, g0v, Za Share und das Complex Life Festival als mehrere jugendliche Ausgänge aufsplitterte
 - [Za Share](/de/society/za-share) — Eine weitere Energie aus derselben 318-Welle, doch gegensätzlicher Weg: wuchs zum größten Bildungsfestival Asiens heran, im Kontrast zum Complex Life Festival mit dessen „bewusst klein bleiben“ als Gegenüber von Scale und Intimität
-- [Taiwans Slash-Generation](/society/台灣斜槓世代) — Struktureller Hintergrund, warum sich Teilnehmer des Complex Life Festival als „Workaholics“ bezeichnen: Medianlohn und Existenzdruck, wie sie diese Generation zu Mehrfachjobs zwingen
+- [Taiwans Slash-Generation](/de/society/taiwan-slash-generation-multi-job-economy) — Struktureller Hintergrund, warum sich Teilnehmer des Complex Life Festival als „Workaholics“ bezeichnen: Medianlohn und Existenzdruck, wie sie diese Generation zu Mehrfachjobs zwingen
 - [FAB DAO und das Hundred Peaks Project](/art/FAB DAO與百岳計畫) — Wohin Huang Dou-ni nach dem Medizinstudium ging: das nächste Werk, das „Cypherpunk-Geist in Taiwans digitale Gesellschaft einbringt“
 
 ## Bildquellen

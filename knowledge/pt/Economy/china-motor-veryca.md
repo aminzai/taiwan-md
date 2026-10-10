@@ -11,7 +11,7 @@ tags:
     'indústria automobilística',
     'veículo de sustento',
   ]
-subcategory: 'Perfis de Empresas'
+subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-01
@@ -20,6 +20,7 @@ readingTime: 6
 translatedFrom: 'Economy/中華菱利.md'
 sourceCommitSha: 'edae9fc94'
 sourceContentHash: 'sha256:c1097b8e22bc556b'
+sourceBodyHash: 'sha256:ad3e4832ac3a2cfe'
 translatedAt: '2026-08-02T06:13:03.329800+00:00'
 ---
 

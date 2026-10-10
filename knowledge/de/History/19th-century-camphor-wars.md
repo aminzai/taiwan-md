@@ -135,13 +135,13 @@ Die Rechnung ist noch nicht beglichen.
 
 ## Weiterführende Literatur
 
-- [Davidson: Wenn Diplomaten zu Forschern wurden](/people/史溫侯) — Der Hauptlieferant der Primärquellen dieses Artikels; Davidson’s 1864er Bericht _Formosa Camphor_ ist die Vorgeschichte des Kauri-Krieges
+- [Davidson: Wenn Diplomaten zu Forschern wurden](/de/people/robert-swinhoe-naturalist) — Der Hauptlieferant der Primärquellen dieses Artikels; Davidson’s 1864er Bericht _Formosa Camphor_ ist die Vorgeschichte des Kauri-Krieges
 - [Qing-Dynastie](/de/history/qing-dynasty-rule) — Wie die Hafenöffnung 1860 Taiwans politische und wirtschaftliche Struktur neu gestaltete
 - [Japanische Kolonialherrschaft](/de/history/japanese-colonial-era) — Wie das Kauri-Monopolbüro und „Bergexpeditionen gegen die Barbaren“ die Politik der Bergregionen im späten Qing-Reich fortsetzten
 - [Geschichte der taiwanesischen Forstwirtschaft](/de/history/taiwan-forestry-history) — Vom Kauri-Baum zum Zedernholz: Der vollständige Kontext der Entwaldung Taiwans
-- [Ali Mountain: Kolonialforstwirtschaft und der Berg eines Schülers](/history/阿里山：帝國的林場與高一生的山) — Wie die Ausbeutung der Wälder bis in die japanische Kolonialherrschaft und die „Weiße Angst“ nach 1945 reicht
-- [Nationales Museum für taiwanesische Geschichte](/society/國立臺灣歷史博物館) — Staatliche Einrichtung der dritten Stufe, die Davidson’s 1864er Bericht _Formosa Camphor_ und andere Primärquellen zur Kauri-Krieg-Geschichte bewahrt (NMTH Sammlung, UUID-System, lizenziert unter Government Data Open License 1.0)
-- [Taiwans Straßenbäume](/lifestyle/台灣行道樹) — Dieselbe Art Kauri, die einst in den Bergen als globaler Rohstoff umkämpft wurde, wird heute nur noch dazu verlangt, Sonnenlicht abzuschirmen: entlang des grünen Tunnels in Nantou
+- [Ali Mountain: Kolonialforstwirtschaft und der Berg eines Schülers](/de/history/alishan-empire-forest-and-uongu-yatauyungana) — Wie die Ausbeutung der Wälder bis in die japanische Kolonialherrschaft und die „Weiße Angst“ nach 1945 reicht
+- [Nationales Museum für taiwanesische Geschichte](/de/society/national-museum-of-taiwan-history) — Staatliche Einrichtung der dritten Stufe, die Davidson’s 1864er Bericht _Formosa Camphor_ und andere Primärquellen zur Kauri-Krieg-Geschichte bewahrt (NMTH Sammlung, UUID-System, lizenziert unter Government Data Open License 1.0)
+- [Taiwans Straßenbäume](/de/lifestyle/taiwan-street-trees) — Dieselbe Art Kauri, die einst in den Bergen als globaler Rohstoff umkämpft wurde, wird heute nur noch dazu verlangt, Sonnenlicht abzuschirmen: entlang des grünen Tunnels in Nantou
 
 ---
 

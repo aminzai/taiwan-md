@@ -21,6 +21,11 @@ lastHumanReview: false
 featured: false
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Chung_Shyang_II_UAV.jpg'
+sporeLinks:
+  - id: 70
+    platform: 'threads'
+    date: '2026-05-10'
+    url: 'https://www.threads.com/@taiwandotmd/post/DYKW0PmkzbM'
 translatedFrom: 'Technology/台灣無人機產業.md'
 sourceCommitSha: '21298a7a'
 sourceContentHash: 'sha256:4412f50a29e8bcfe'

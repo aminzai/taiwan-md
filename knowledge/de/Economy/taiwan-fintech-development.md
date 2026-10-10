@@ -127,8 +127,8 @@ Im Dezember 2025 veröffentlichte LINE Bank ihre ersten Gewinne – klein genug,
 
 - [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) – Eine weitere Branche, die durch staatliche Förderung begonnen hat und schließlich die globale Landschaft veränderte
 - [Ökosystem für Start-ups](/de/economy/taiwan-startup-ecosystem-overview) – Der taiwanesische Start-up-Markt, in dem Jiekou Pay tätig ist
-- [E-Commerce und digitale Zahlungssysteme](/technology/電子商務與數位支付生態系) – Die Infrastruktur hinter mobilen Zahlungen
-- [Taiwan Mobile Payment](/technology/台灣行動支付) – Die drei Hürden zwischen Smartphone-Wallet, Händlerakzeptanz, gemeinsamer QR-Codes und Bargeldreserve
+- [E-Commerce und digitale Zahlungssysteme](/de/technology/e-commerce-and-digital-payment-ecosystem) – Die Infrastruktur hinter mobilen Zahlungen
+- [Taiwan Mobile Payment](/de/technology/taiwan-mobile-payment) – Die drei Hürden zwischen Smartphone-Wallet, Händlerakzeptanz, gemeinsamer QR-Codes und Bargeldreserve
 - [Taiwanischer Aktienmarkt und Kapitalmarkt](/de/economy/taiwan-stock-market) – Von der Standleitung zum Smartphone-Sparplan: Entwicklung der Finanzinfrastruktur und Kapitalmärkte
 
 ## Quellen

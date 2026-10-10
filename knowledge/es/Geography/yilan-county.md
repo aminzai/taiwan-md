@@ -4,7 +4,7 @@ description: 'La noche del 13 de diciembre de 1987, Chen Dingnan se sentó frent
 date: 2026-05-18
 author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '县市'
+subcategory: '縣市'
 tags:
   [
     'Yilan',
@@ -246,9 +246,9 @@ La próxima vez que vayas a Yilan, no vayas solo a las aguas termales de Jiaoxi,
 - [División Administrativa de Taiwán](/es/geography/administrative-divisions-of-taiwan) — 1812 establecimiento de la Prefectura de Kavalan, 1875 renombrado como Condado de Yilan, 1895 evolución administrativa del sistema de la era japonesa
 - [Topografía Costera y Paisaje Marino de Taiwán](/es/geography/taiwan-coastal-landforms-and-seascapes) — El contexto geológico de la isla volcánica Gueishan, el abanico aluvial del río Lanyang y la franja costera de Su-Hua
 - [Paisaje Agrícola y Distribución Industrial de Taiwán](/es/geography/taiwan-agricultural-landscapes-and-industry-belts) — La posición de la fragmentación de tierras agrícolas de la llanura de Lanyang en el paisaje agrícola de toda la isla
-- [Desarrollo Urbano y Brecha Urbano-Rural de Taiwán](/geography/%E5%8F%B0%E7%81%A3%E9%83%BD%E5%B8%82%E7%99%BC%E5%B1%95%E8%88%87%E5%9F%8E%E9%96%93%E5%B7%AE%E8%B7%9F) — El efecto de ciudad satélite de Yilan siendo integrado en el área de vida diaria de Taipéi después de la apertura del túnel Xueshan
-- [Paisaje Termal de Taiwán](/geography/%E5%8F%B0%E7%81%A3%E6%B8%AF%E6%B8%A9%E5%9C%B0%E6%99%AF) — La posición especial de las aguas termales de Jiaoxi en la geografía termal de Taiwán
-- [Ciudad de Keelung](/geography/%E5%9F%8E%E5%88%97%E5%B8%82) — Artículo contemporáneo de la Serie de 22 Condados y Ciudades, un condado del noreste «invisible para Taipéi» junto con Yilan
+- [Desarrollo Urbano y Brecha Urbano-Rural de Taiwán](/es/geography/taiwan-urban-development-and-rural-urban-divide) — El efecto de ciudad satélite de Yilan siendo integrado en el área de vida diaria de Taipéi después de la apertura del túnel Xueshan
+- [Paisaje Termal de Taiwán](/es/geography/taiwan-hot-springs-landscape) — La posición especial de las aguas termales de Jiaoxi en la geografía termal de Taiwán
+- [Ciudad de Keelung](/es/geography/keelung-city) — Artículo contemporáneo de la Serie de 22 Condados y Ciudades, un condado del noreste «invisible para Taipéi» junto con Yilan
 
 ## Fuentes de Imágenes
 
@@ -312,7 +312,7 @@ La versión completa del debate «Antiliugqing: Chen Dingnan vs Wang Yung-ching�
 
 [^25]: [Ferrocarril de la Línea Yilan — Wikipedia](https://zh.wikipedia.org/wiki/%E5%AE%9C%E8%98%AD%E7%B7%9A) — Historia de la construcción ferroviaria de la era japonesa: construcción simultánea en los extremos norte y sur el 1 de diciembre de 1917; la sección sur (Suao–Yilan) abrió al tráfico en marzo de 1919; el túnel caoling norte (2.166,52 m) se completó en diciembre de 1924; toda la línea abrió al tráfico el 1 de diciembre de 1924; costo de ingeniería de 12,63 millones de yuanes; 102 puentes, 19 túneles.
 
-[^26]: [Aguas Termales de Jiaoxi — Wikipedia](https://zh.wikipedia.org/wiki/%E7%A4%81%E6%BA%AA%E6%B8%AF%E6%B8%A9%E6%B3%89) — Historia de la industria termal: aguas termales de bicarbonato de sodio neutro, temperatura del agua de aproximadamente 50–60℃, sin olor a azufre, conocidas como «baño de belleza»; en el cuarto año de Taisho (1915), la oficina de Yilan asignó 10.000 yuanes de gastos de salud pública para construir un baño público dentro del Parque Yuanshan (abrió oficialmente en diciembre del mismo año); crecimiento significativo del número de visitantes después de la apertura del túnel Xueshan; desarrollo sucesivo de hoteles de estrellas.
+[^26]: [Aguas Termales de Jiaoxi — Wikipedia](https://zh.wikipedia.org/wiki/%E7%A4%81%E6%BA%AA%E6%BA%AB%E6%B3%89) — Historia de la industria termal: aguas termales de bicarbonato de sodio neutro, temperatura del agua de aproximadamente 50–60℃, sin olor a azufre, conocidas como «baño de belleza»; en el cuarto año de Taisho (1915), la oficina de Yilan asignó 10.000 yuanes de gastos de salud pública para construir un baño público dentro del Parque Yuanshan (abrió oficialmente en diciembre del mismo año); crecimiento significativo del número de visitantes después de la apertura del túnel Xueshan; desarrollo sucesivo de hoteles de estrellas.
 
 [^27]: [Festival Internacional de Arte de Juguetes de Yilan — Wikipedia](https://zh.wikipedia.org/wiki/%E5%AE%9C%E8%98%AD%E5%9C%8B%E9%9A%9B%E7%AB%A5%E7%8E%A9%E8%97%9D%E8%A1%93%E7%AF%80) — Historia completa de la celebración: fundada por el gobernador You Xi-kun en 1996 (conmemorando el 200º aniversario del desarrollo de la llanura de Lanyang por los chinos han); la primera edición contó con 9 países y 10 equipos artísticos, entradas de casi 200.000; «la única actividad de festival de arte invitada y certificada en Asia por el grupo de nivel A de la UNESCO «Asociación Internacional de Festivales de Arte Folclórico» (C.I.O.F.F.)» verbatim; pérdida de 67 millones de yuanes en 2007 (entradas de 325.000); suspendido de 2007 a 2009; reanudado el 24 de noviembre de 2010 por el gobernador Lin Tsung-hsien.
 

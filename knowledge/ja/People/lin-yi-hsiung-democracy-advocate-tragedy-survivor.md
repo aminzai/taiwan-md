@@ -4,7 +4,7 @@ description: '林義雄は1941年に宜蘭に生まれ、台湾大学法学部�
 date: 2026-03-19
 author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '政治と民主'
+subcategory: '政治與民主'
 tags: ['民主運動', '林宅血案', '反核運動', '政治受難者', '慈林教育基金会']
 lastVerified: 2026-05-13
 lastHumanReview: false

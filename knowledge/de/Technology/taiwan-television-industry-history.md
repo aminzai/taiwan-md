@@ -163,7 +163,7 @@ Wenn jemand 2050 wissen will, was die taiwanesische Fernsehindustrie einst versu
 
 **Weiterführende Literatur**:
 
-- [Goldene-Glocke-Preise](/culture/金鐘獎) – Die alten Drei dominierten siebzehn Jahre, PTS und Kabelsender kamen dazu, Netflix stieg ein; die Spalte der preisgekrönten Einheiten beim Dramapreis ist ein weiteres Protokoll dieser Industriegeschichte
+- [Goldene-Glocke-Preise](/de/culture/golden-bell-awards) – Die alten Drei dominierten siebzehn Jahre, PTS und Kabelsender kamen dazu, Netflix stieg ein; die Spalte der preisgekrönten Einheiten beim Dramapreis ist ein weiteres Protokoll dieser Industriegeschichte
 
 ## Referenzen
 

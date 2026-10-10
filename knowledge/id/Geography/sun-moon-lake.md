@@ -12,7 +12,7 @@ tags:
     'Wisata',
     'Teknik Hidrolik',
   ]
-subcategory: 'Hidrologi dan Sumber Daya Air'
+subcategory: '水文與水資源'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-27

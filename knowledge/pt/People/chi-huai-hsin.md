@@ -229,10 +229,10 @@ Uma criança de Tamsui, aos 15 anos foi com a mãe para Minnesota, enquanto ajud
 ## Leitura complementar
 
 - [Jensen Huang](/pt/people/jensen-huang) — o orgulho de Taiwan que faz a IA correr mais rápido, o lado do hardware
-- [Morris Chang](/people/張忠謀) — fundador dos semicondutores de Taiwan, a "montanha de posição inabalável" na boca de Ed Chi
+- [Morris Chang](/pt/people/tsmc-morris-chang) — fundador dos semicondutores de Taiwan, a "montanha de posição inabalável" na boca de Ed Chi
 - [Indústria de IA](/pt/technology/artificial-intelligence-industry) — a posição de Taiwan na cadeia de abastecimento global de IA
-- [Desenvolvimento e estratégia futura de IA em Taiwan](/technology/台灣人工智慧發展與未來策略) — panorama geral da IA em Taiwan
-- [IA no quotidiano de Taiwan](/technology/台灣AI日常) — como a IA já entrou na vida dos taiwaneses
+- [Desenvolvimento e estratégia futura de IA em Taiwan](/pt/technology/artificial-intelligence-development-strategy) — panorama geral da IA em Taiwan
+- [IA no quotidiano de Taiwan](/pt/technology/taiwan-ai-in-daily-life) — como a IA já entrou na vida dos taiwaneses
 
 ## Referências
 

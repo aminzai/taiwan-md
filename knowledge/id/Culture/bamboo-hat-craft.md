@@ -4,7 +4,7 @@ description: "Pada tahun 2017, Lin Rong-chun di Meinong, Kaohsiung, yang berusia
 date: '2026-05-04'
 author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: 'Tradisi Kerajinan'
+subcategory: '傳統工藝'
 tags:
   [
     'Tradisi Kerajinan',
@@ -125,9 +125,9 @@ Penuaan pengrajin, penyusutan pasar, putusnya rantai pasokan, dan perubahan ikli
 
 ## Bacaan Lanjutan
 
-- [Tekstil Bunga Taiwan](/culture/Taiwan_Flower_Cloth) — Sama seperti _douli_, ini adalah produk yang diberi "label Tionghoa" pada 1990-an, namun di baliknya terdapat lapisan memori kehidupan bersama dari berbagai etnis.
-- [Budaya Teh Taiwan](/culture/Taiwan_Tea_Culture) — Penurunan jumlah pemetik teh secara langsung menarik pasar _douli_.
-- [Peta Budaya 16 Suku Penduduk Asli Taiwan](/culture/Indigenous_Peoples_of_Taiwan) — Akar dari topi jerami rumput liar di Yuanli berasal dari wanita suku Pingpu, bukan Han.
+- [Tekstil Bunga Taiwan](/id/culture/taiwan-floral-fabric) — Sama seperti _douli_, ini adalah produk yang diberi "label Tionghoa" pada 1990-an, namun di baliknya terdapat lapisan memori kehidupan bersama dari berbagai etnis.
+- [Budaya Teh Taiwan](/id/culture/taiwanese-tea-culture-and-living-aesthetics) — Penurunan jumlah pemetik teh secara langsung menarik pasar _douli_.
+- [Peta Budaya 16 Suku Penduduk Asli Taiwan](/id/culture/indigenous-peoples-16-tribes-cultural-map) — Akar dari topi jerami rumput liar di Yuanli berasal dari wanita suku Pingpu, bukan Han.
 
 ## Referensi
 
@@ -135,7 +135,7 @@ Penuaan pengrajin, penyusutan pasar, putusnya rantai pasokan, dan perubahan ikli
 
 [^2]: [Publikasi Pemerintah "Pedesaan dan Budaya" Juni 2007, Halaman 61](https://kmweb.moa.gov.tw/redirect_files.php?id=160394) — Publikasi resmi pemerintah (PDF), mencatat bahwa Xionglin, Hsinchu dulu adalah pusat _douli_ di utara Taiwan; saat ini menghadapi risiko punah karena tidak ada penerus.
 
-[^3]: [Asosiasi Pengembangan Komunitas Lukitzi, Distrik Lu-chi, Kota Taoyuan: Douli Buatan Tangan Ru-yi](https://www.kz.org.tw/%e5%a6%82%e6%9c%8f%e6%89%8b%e5%b7%a5%e7%ac%a0/) — Halaman resmi asosiasi, mencatat sejarah _douli_ di Lukitzi dari keluarga Qin dan Chen (kasar) serta keluarga Li di Chidusu (halus), dan dampak penurunan permintaan akibat penutupan pabrik bata Linku serta berkurangnya pemetik teh.
+[^3]: [Asosiasi Pengembangan Komunitas Lukitzi, Distrik Lu-chi, Kota Taoyuan: Douli Buatan Tangan Ru-yi](https://www.kz.org.tw/%e5%a6%82%e6%84%8f%e6%89%8b%e5%b7%a5%e7%ac%a0/) — Halaman resmi asosiasi, mencatat sejarah _douli_ di Lukitzi dari keluarga Qin dan Chen (kasar) serta keluarga Li di Chidusu (halus), dan dampak penurunan permintaan akibat penutupan pabrik bata Linku serta berkurangnya pemetik teh.
 
 [^4]: [Pusat Memori Budaya Nasional: Pembuatan Lasong](https://tcmb.culture.tw/zh-tw/detail?id=604230&indexCode=Culture_Invisible) — Rekaman resmi Kementerian Budaya, membedah struktur _lasian_ (permukaan) dan _laitai_ (kerangka) untuk "Lasong" Tionghoa di Dongshi.
 
@@ -147,7 +147,7 @@ Penuaan pengrajin, penyusutan pasar, putusnya rantai pasokan, dan perubahan ikli
 
 [^8]: [Rumah Tikar Rumput Dajia: Asal-usul Rumput Li](https://djcthm.com/article.php?id=79&lang=tw&tb=2) — Data sejarah yang mencatat asal mula anyaman rumput liar di Yuanli oleh wanita suku Pingpu pada tahun 1727.
 
-[^9]: [Dunia Kecil Universitas Shihsuan: Membuka Era Emas "Li" - Kebangkitan Budaya Anyaman Rumput Li](https://shuj.shu.edu.tw/blog/2024/11/02/%e9%96%8b%e5%89%b5%e3%80%8c%e8%97%ab%e3%80%8d%e5%80%8b%e9%bb%83%e9%87%91%e6%99%82%e4%bb%a3-%e8%97%ab%e8%8d%89%e7%b7%a8%e7%b9%94%e6%96%87%e5%8c%96%e5%8e%a9%e8%88%88/) — Media kampus 2024, mencatat proses pengolahan rumput liar di komunitas Shan-jiao Yuanli.
+[^9]: [Dunia Kecil Universitas Shihsuan: Membuka Era Emas "Li" - Kebangkitan Budaya Anyaman Rumput Li](https://shuj.shu.edu.tw/blog/2024/11/02/%e9%96%8b%e5%89%b5%e3%80%8c%e8%97%ba%e3%80%8d%e5%80%8b%e9%bb%83%e9%87%91%e6%99%82%e4%bb%a3-%e8%97%ba%e8%8d%89%e7%b7%a8%e7%b9%94%e6%96%87%e5%8c%96%e5%be%a9%e8%88%88/) — Media kampus 2024, mencatat proses pengolahan rumput liar di komunitas Shan-jiao Yuanli.
 
 [^10]: [MyPlus Jurnal: Cerita untuk Melanjutkan Aroma Rumput Li Kuno](https://www.myplus.com.tw/article-20190419/251/1) — Laporan mengenai sejarah anyaman rumput liar di Yuanli yang dapat dilacak hingga 280 tahun lalu.
 
@@ -175,15 +175,15 @@ Penuaan pengrajin, penyusutan pasar, putusnya rantai pasokan, dan perubahan ikli
 
 [^22]: [BigGo: Rekomendasi Harga Douli Anyaman Bambu Februari 2026](https://biggo.com.tw/s/%E7%AB%B9%E7%B7%A8%E6%96%97%E7%AC%A0) — Platform perbandingan harga yang menunjukkan dominasi produk impor di pasar lokal.
 
-[^23]: [Portal Informasi Digital Pendatang Baru: Kelahiran nón lá dan Keindahan Tersembunyi](https://nit.immigration.gov.tw/Multicultural/Detail/1f6b194-3a9f-4ed9-a874-7de4fdb4221b) — Informasi budaya yang menjelaskan penggunaan _nón lá_ di Vietnam sebagai bagian dari pakaian tradisional.
+[^23]: [Portal Informasi Digital Pendatang Baru: Kelahiran nón lá dan Keindahan Tersembunyi](https://nit.immigration.gov.tw/Multicultural/Detail/7ef6b194-3a9f-4ed9-a874-7de4fdb4221b) — Informasi budaya yang menjelaskan penggunaan _nón lá_ di Vietnam sebagai bagian dari pakaian tradisional.
 
-[^24]: [YENKANA: Topi Jepang dan nón lá Vietnam](https://yenkana.com/ja/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%AC%A0-%E3%81%A8%E3%83%88%E3%83%8A%E3%83%A0%E3%81%AE%E3%83%8E%E3%83%B3%E3%83%A9%E3%83%BC/) — Perbandingan antara _douli_ Jepang dan Vietnam sebagai kerajinan yang kini hanya ada di acara tradisional.
+[^24]: [YENKANA: Topi Jepang dan nón lá Vietnam](https://yenkana.com/ja/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%AC%A0-%E3%81%A8%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E3%81%AE%E3%83%8E%E3%83%B3%E3%83%A9%E3%83%BC/) — Perbandingan antara _douli_ Jepang dan Vietnam sebagai kerajinan yang kini hanya ada di acara tradisional.
 
 [^25]: [Asosiasi Bambu Taiwan: Konteks Perkembangan Industri Bambu Taiwan](https://www.taiwan-bamboo.org/tw/taiwan-bamboo-industry-history/) — Halaman resmi yang mencatat sejarah industri bambu dan titik awal industrialisasi pada tahun 1937.
 
 [^26]: [Asosiasi Bambu Taiwan: Huang Tu-shan](https://www.taiwan-bamboo.org/tw/partner/huang-tu-shan/) - Profil maestro anyaman bambu yang mencatat silsilah pengajaran di Taiwan.
 
-[^17]: [Stasiun TV New Taiwan: Douli Tradisional di Pedesaan Tainan Masih Populer](https://www.ntdtv.com/b5/2014/07/22/a1124646.html) - Laporan 2014 tentang tradisi _douli_ di Longxi yang sudah ada sejak Dinasti Qing.
+[^17]: [Stasiun TV New Taiwan: Douli Tradisional di Pedesaan Tainan Masih Populer](https://www.merit-times.com.tw/NewsPage.aspx?unid=823598) - Laporan 2014 tentang tradisi _douli_ di Longxi yang sudah ada sejak Dinasti Qing.
 
 [^28]: [Yayasan Budaya Tainan: Bai-chu Garden](https://docmall.doctw.com/story_page.php?id=132) - Rekaman transisi dari produsen menjadi pengajar untuk pelestarian budaya di Longxi.
 

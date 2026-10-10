@@ -15,7 +15,7 @@ tags:
     Chun Chun,
     tribu Bunun,
   ]
-subcategory: 'Musique traditionnelle'
+subcategory: '傳統音樂'
 category: 'Music'
 author: 'Taiwan.md'
 readingTime: 8

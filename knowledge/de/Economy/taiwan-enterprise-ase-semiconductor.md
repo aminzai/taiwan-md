@@ -169,7 +169,7 @@ In einer Ära, in der alle über Chipdesign und Fertigung sprechen, erinnert ASE
 
 **Weiterführende Links**:
 
-- [Taiwan-Unternehmen: TSMC](/economy/台灣企業：台積電) – Die «Schutzgottheit» und die nachgelagerten OSAT-Unternehmen in symbiotischer Beziehung
+- [Taiwan-Unternehmen: TSMC](/de/economy/tsmc) – Die «Schutzgottheit» und die nachgelagerten OSAT-Unternehmen in symbiotischer Beziehung
 - [Taiwan-Unternehmen: MediaTek](/de/economy/mediatek) – Taiwans führendes IC-Design-Unternehmen, gehört mit ASE zum vollständigen Lieferketten-Ökosystem
 - [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) – Vom RCA-Technologietransfer bis zu CoWoS-Advanced-Packaging: 50 Jahre Materialwissenschaft-Schlachtfeld, ASEs Position in der traditionellen Verpackung
 

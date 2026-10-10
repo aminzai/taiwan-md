@@ -105,8 +105,8 @@ Esta incertidumbre no es una deficiencia de la historia, sino una condición de 
 
 **Lectura adicional:**
 
-- [Industria y cultura de los YouTubers en Taiwán](/culture/台灣YouTuber產業與文化) — Desde Ca A'gá (蔡阿嘎), los Premios Walkbell hasta los VTubers, complementa el contexto a largo plazo de la industria de audio y video en internet de Taiwán.
-- [Zeng Bo'en](/people/曾博恩) — Otra ruta de creadores taiwaneses que entran en temas públicos y actuaciones en vivo desde el contenido digital.
+- [Industria y cultura de los YouTubers en Taiwán](/es/culture/taiwan-youtuber-industry) — Desde Ca A'gá (蔡阿嘎), los Premios Walkbell hasta los VTubers, complementa el contexto a largo plazo de la industria de audio y video en internet de Taiwán.
+- [Zeng Bo'en](/es/people/bernard-tseng) — Otra ruta de creadores taiwaneses que entran en temas públicos y actuaciones en vivo desde el contenido digital.
 - [Sitio web oficial de los Premios Walkbell](https://walkbelljohn.com/) — Sigue el desarrollo organizativo posterior de los premios de creadores en Taiwán.
 
 ## Referencias

@@ -126,4 +126,4 @@ Estas tensiones demuestran precisamente que la fe en Guandi en Taiwán no es un 
 - [Sitio web de las Cinco Grandes Obras del Xíngtiāngōng](https://www.ht.org.tw/p1_religion.htm)
 - [Vita.tw: El Xíngtiāngōng reduce el incienso y prohíbe las ofrendas; el culto ya no está envuelto en humo](https://vita.tw/%E8%A1%8C%E5%A4%A9%E5%AE%AE%E6%B8%9B%E9%A6%99%E7%A6%81%E4%BE%9B/)
 - [Story Studio: De general de los Tres Reinos a dios omnipotente — Cómo se formó la fe en Guandi](https://storystudio.tw/article/gushi/kuan-di-belief)
-- [Centro de Humanidades y Ciencias Sociales, Academia Sinica: El desarrollo de las religiones populares en Taiwán](https://www2.ios.sinica.edu.tw/people/hyc/essay/9ROS/0114%E9%99%80%E9%8C%84%E4%BA%8C.pdf)
+- [Centro de Humanidades y Ciencias Sociales, Academia Sinica: El desarrollo de las religiones populares en Taiwán](https://www2.ios.sinica.edu.tw/people/hyc/essay/9ROS/0114%E9%99%84%E9%8C%84%E4%BA%8C.pdf)

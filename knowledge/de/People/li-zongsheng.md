@@ -26,6 +26,7 @@ rationale:
 translatedFrom: 'People/李宗盛.md'
 sourceCommitSha: 'db2633671'
 sourceContentHash: 'sha256:cae032d995bba4cf'
+sourceBodyHash: 'sha256:e6fee31313863c50'
 translatedAt: '2026-09-24T22:33:38.137462+00:00'
 ---
 
@@ -150,9 +151,9 @@ Nachdem er dreißig Jahre lang die besten Songs für andere geschrieben hatte, s
 - [Lo Ta-yu](/de/people/luo-dayou) — Ein weiterer Godfather der chinesischsprachigen Musik, „Die Welt beobachten“ im Kontrast zu Jonathan Lees „In Herzen blicken“, die Person, die man am ehesten zusammen lesen sollte
 - [Sylvia Chang](/de/people/sylvia-chang) — Jonathan Lees erstes Produktionsprojekt bei Rock Records „Busy and Blind“, der Ursprung der „Urban Women“-Linie
 - [A-mei](/de/people/a-mei) — Ebenfalls eine Diva aus Rock Records' goldenem Zeitalter, ein weiterer Weg taiwanesischer Pop-Diven
-- [Taiwan Folk Music Movement](/music/台灣民歌運動) — Jener Zug, den Jonathan Lee in den 1970ern bestieg, der Boden von Akustikgitarren-Chören und dem Golden Rhyme Award
+- [Taiwan Folk Music Movement](/de/music/taiwan-campus-folk-song-movement) — Jener Zug, den Jonathan Lee in den 1970ern bestieg, der Boden von Akustikgitarren-Chören und dem Golden Rhyme Award
 - [Entwicklung des taiwanesischen Mandarin](/de/culture/taiwan-mandarin-evolution) — Warum „Umgangssprache in Songs“ berührte, hängt damit zusammen, wie taiwanesisches Mandarin zur Alltagssprache wurde
-- [Huang Da-wei](/people/黃大煒) — Zeitgenössischer Singer-Songwriter und Allround-Musiker, der mit seiner rauen Stimme seinen eigenen Stil schuf – eine andere Art als Jonathan Lee, einen Weg für chinesischsprachige Liebeslieder zu finden
+- [Huang Da-wei](/de/people/david-wong) — Zeitgenössischer Singer-Songwriter und Allround-Musiker, der mit seiner rauen Stimme seinen eigenen Stil schuf – eine andere Art als Jonathan Lee, einen Weg für chinesischsprachige Liebeslieder zu finden
 
 ## Bildquellen
 

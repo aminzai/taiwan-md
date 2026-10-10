@@ -22,7 +22,7 @@ tags:
     'Historisches Viertel',
     'Wenn die Laternen leuchten',
   ]
-subcategory: 'Historisches Viertel'
+subcategory: '歷史街區'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-21
@@ -37,6 +37,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Section_3_Zhongshan_North_
 translatedFrom: 'Geography/中山北路條通.md'
 sourceCommitSha: '2da8b92f2'
 sourceContentHash: 'sha256:d645bc8708c3f0c9'
+sourceBodyHash: 'sha256:605dca39a0b5b5c5'
 translatedAt: '2026-09-12T12:04:35.917089+00:00'
 ---
 
@@ -203,13 +204,13 @@ Wenn du das nächste Mal an der Light Point Taipei in Zhongshan-Nordstraße Absc
 **Weiterführende Links**:
 
 - [Taipeh: Drei Zeiten in einer Stadt, 1738 Longshan-Tempel blickt auf 2004 Taipei 101](/de/geography/taipei-city) — Die Position der Zhongshan-Nordstraße in den 12 Bezirken, parallel zu den drei Zeitlinien von Wanhua, Dadaocheng, Xinyi
-- [Dadaocheng: Eine 800 Meter lange Straße trägt drei Jahrhunderte](/geography/大稻埕) — Derselbe Batch-1-Historie-Straßenblock, die Markstraße, die 1860 mit dem Teehandel aufblühte, 1947 der erste Schuss des 228-Vorfalls in Dadaocheng, Nanjing-Weststraße Nr. 189
-- [Wanhua: Der lebhafteste Ort Taipehs unter der Qing-Herrschaft, heute der Bezirk mit dem höchsten Durchschnittsalter](/geography/艋舺) — Derselbe Batch-1-Historie-Straßenblock, andere Entstehungslogik als die „japanisch geplante“ Tiaotong-Kultur
-- [Ximending: Die Vergnügungsstraße, die Japaner 1896 bauten, 130 Jahre später noch immer Taipehs jüngste Straße](/geography/西門町) — Derselbe Batch-1-Historie-Straßenblock, wie Tiaotong japanisch geplantes Außerhalb-Vergnügungsviertel, aber völlig andere Subkultur-Pfade
+- [Dadaocheng: Eine 800 Meter lange Straße trägt drei Jahrhunderte](/de/geography/dadaocheng) — Derselbe Batch-1-Historie-Straßenblock, die Markstraße, die 1860 mit dem Teehandel aufblühte, 1947 der erste Schuss des 228-Vorfalls in Dadaocheng, Nanjing-Weststraße Nr. 189
+- [Wanhua: Der lebhafteste Ort Taipehs unter der Qing-Herrschaft, heute der Bezirk mit dem höchsten Durchschnittsalter](/de/geography/bangka) — Derselbe Batch-1-Historie-Straßenblock, andere Entstehungslogik als die „japanisch geplante“ Tiaotong-Kultur
+- [Ximending: Die Vergnügungsstraße, die Japaner 1896 bauten, 130 Jahre später noch immer Taipehs jüngste Straße](/de/geography/ximending) — Derselbe Batch-1-Historie-Straßenblock, wie Tiaotong japanisch geplantes Außerhalb-Vergnügungsviertel, aber völlig andere Subkultur-Pfade
 - [Taiwanische Teekultur und Lebensästhetik](/de/culture/taiwan-tea-ceremony-and-aesthetic-living) — Wechselwirkung zwischen japanischer Ästhetik in der Tiaotong-Kultur und der nachkriegszeitlichen taiwanesischen Teekultur-Revival-Bewegung
 - [228-Vorfall](/de/history/228-incident) — Am 28. Februar 1947, 13 Uhr, zog die Menge zur Zhongshan-Straßenkreuzung und wurde von Wachen mit Maschinengewehren beschossen; die Zhongshan-Halle wurde am selben Tag zum Sitz des Ereignisbehandlungskomitees
-- [Taiwanische Alleebäume](/lifestyle/台灣行道樹) — Wie die koloniale Planungslogik „breite Straße plus Baumreihen“ von Tashiro Anteis Baumpflanztheorie 1898 bis zur Chishi-Straße, dem Vorläufer von Tiaotong, durchgängig angewendet wurde
-- [Beitou Thermalbadstraße](/geography/北投溫泉街) — 1979 Schließung der lizenzierten Prostitution in Beitou vs. 1997 landesweites Ende der öffentlichen Prostitution, zwei Abzweigungen der taipeher Nachkriegs-Spezialbranchen-Landschaft neben der Tiaotong-Kultur der Linsen-Nordstraße
+- [Taiwanische Alleebäume](/de/lifestyle/taiwan-street-trees) — Wie die koloniale Planungslogik „breite Straße plus Baumreihen“ von Tashiro Anteis Baumpflanztheorie 1898 bis zur Chishi-Straße, dem Vorläufer von Tiaotong, durchgängig angewendet wurde
+- [Beitou Thermalbadstraße](/de/geography/beitou-hot-spring-street) — 1979 Schließung der lizenzierten Prostitution in Beitou vs. 1997 landesweites Ende der öffentlichen Prostitution, zwei Abzweigungen der taipeher Nachkriegs-Spezialbranchen-Landschaft neben der Tiaotong-Kultur der Linsen-Nordstraße
 
 ## Bildquellen
 

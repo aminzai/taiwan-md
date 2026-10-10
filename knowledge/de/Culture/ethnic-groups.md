@@ -150,11 +150,11 @@ Diese Zahlen sind noch nicht final.
 
 **Weiterführende Literatur:**
 
-- [Sprachvielfalt und Muttersprachenkultur Taiwans](/culture/語言多樣性與母語文化) — Der Verlust und die Wiederbelebung von Taiwanesisch, Hakka und indigenen Sprachen
-- [Geschichte der indigenen Völker Taiwans und die Bewegung für den Namenwechsel](/history/台灣原住民族歷史與正名運動) — Zehn Jahre Kampf von „Bergleuten" zu „indigenen Völkern"
-- [Kulturelle Karte der 16 indigenen Gruppen Taiwans](/culture/台灣原住民族16族文化地圖) — Verbreitung, Sprachen und kulturelle Merkmale der 16 Gruppen
-- [Hakka-Kultur und -Sprache](/culture/客家文化與語言) — Geschichte der Hakka-Migration und Kulturerhalt
-- [228-Massaker-Ereignis](/history/二二八事件) — Der historische Ursprung der ethnischen Konflikte nach dem Zweiten Weltkrieg
+- [Sprachvielfalt und Muttersprachenkultur Taiwans](/de/culture/linguistic-diversity-and-mother-tongue-culture) — Der Verlust und die Wiederbelebung von Taiwanesisch, Hakka und indigenen Sprachen
+- [Geschichte der indigenen Völker Taiwans und die Bewegung für den Namenwechsel](/de/history/indigenous-peoples-history-and-naming-movement) — Zehn Jahre Kampf von „Bergleuten" zu „indigenen Völkern"
+- [Kulturelle Karte der 16 indigenen Gruppen Taiwans](/de/culture/indigenous-peoples-16-tribes-cultural-map) — Verbreitung, Sprachen und kulturelle Merkmale der 16 Gruppen
+- [Hakka-Kultur und -Sprache](/de/culture/hakka-culture-and-language) — Geschichte der Hakka-Migration und Kulturerhalt
+- [228-Massaker-Ereignis](/de/history/228-incident) — Der historische Ursprung der ethnischen Konflikte nach dem Zweiten Weltkrieg
 
 ## Quellenangaben
 

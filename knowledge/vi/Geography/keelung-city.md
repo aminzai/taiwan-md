@@ -17,7 +17,7 @@ tags:
     'Chợ cá Kanaitei',
     '22 tỉnh thành loạt bài',
   ]
-subcategory: '县市'
+subcategory: '縣市'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-17

@@ -162,7 +162,7 @@ Deux images sous licence libre ont été intégrées au projet : le plateau en l
 
 - [Artisanat traditionnel taïwanais et patrimoine culturel immatériel](/fr/culture/traditional-crafts-intangible-cultural-heritage) — La place de l'art de laque dans le système de préservation de l'artisanat traditionnel taïwanais.
 - [Tissu floral taïwanais](/fr/culture/taiwan-floral-fabric) — Un autre cas de transformation des motifs importés, de la production industrielle à l'identité locale.
-- [Industrie du sel taïwanaise](/history/台灣鹽業) — Une autre histoire des matériaux taïwanais, allant des ressources naturelles à l'industrialisation puis à la préservation culturelle.
+- [Industrie du sel taïwanaise](/fr/history/taiwan-salt-industry) — Une autre histoire des matériaux taïwanais, allant des ressources naturelles à l'industrialisation puis à la préservation culturelle.
 
 ## Références
 

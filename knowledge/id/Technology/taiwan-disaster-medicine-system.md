@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: 'Technology/台灣災難醫療體系.md'
 sourceCommitSha: 'a17bb572e'
 sourceContentHash: 'sha256:49c22450d433ffad'
+sourceBodyHash: 'sha256:c70ae774b0edc421'
 translatedAt: '2026-09-23T19:46:52.782698+00:00'
 ---
 
@@ -198,7 +199,7 @@ Ketika bencana berikutnya tiba, yang menyelamatkan nyawa bukanlah peralatan term
 
 - [Undang-Undang Kesehatan](/id/society/medical-care-act) — Hukum medis bencana berakar pada Pasal 1 Undang-Undang Kesehatan tentang "distribusi wajar sumber daya kesehatan" dan regulasi tingkatan fasilitas; skenario bencana dalam artikel ini adalah operasi nyata Undang-Undang Kesehatan di bawah kondisi ekstrem
 - [Kontroversi Obat Hewan Taiwan](/id/society/taiwan-animal-drug-controversy) — Manusia memiliki sistem medis gawat darurat, 119, asuransi kesehatan nasional, DMAT; bahkan oksigen untuk gawat darurat hewan memerlukan pencatatan per item. Kesenjangan sumber daya antara kedua sistem ini adalah cerminan dari urutan prioritas nilai pulau ini
-- [Pandemi COVID-19 dan Vaksin di Taiwan](/society/台灣新冠疫情與疫苗) — Ruang perawatan khusus dan kemacetan IGD pada Mei 2021 adalah uji berkelanjutan terlama bagi sistem medis bencana ini
+- [Pandemi COVID-19 dan Vaksin di Taiwan](/id/society/taiwan-covid-pandemic-and-vaccines) — Ruang perawatan khusus dan kemacetan IGD pada Mei 2021 adalah uji berkelanjutan terlama bagi sistem medis bencana ini
 
 ## Referensi
 

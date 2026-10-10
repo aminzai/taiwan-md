@@ -3,7 +3,7 @@ title: 'Reservatórios e Gestão de Recursos Hídricos em Taiwan'
 description: 'Da crise de escassez hídrica à acumulação em reservatórios, os desafios dos recursos hídricos em Taiwan e a dificuldade da distribuição desigual entre norte e sul'
 date: 2026-03-20
 category: 'Geography'
-subcategory: 'Hidrologia e Recursos Hídricos'
+subcategory: '水文與水資源'
 tags:
   [
     'recursos hídricos',
@@ -244,5 +244,5 @@ A água é a fonte da vida e a base do desenvolvimento econômico. Nesta bela il
 Leituras adicionais:
 
 - [Sistema de rios em Taiwan e características hidrológicas](/pt/geography/taiwan-river-systems-and-hydrology)
-- [Clima](/geography/氣候)
+- [Clima](/pt/geography/climate)
 - [Movimentos tectônicos da placa de Taiwan e atividades sísmicas](/pt/geography/tectonic-plates-and-seismic-activity)

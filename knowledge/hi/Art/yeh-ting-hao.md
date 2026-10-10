@@ -35,6 +35,7 @@ imageSource: 'https://www.youtube.com/watch?v=_-L_wAYDmBs'
 translatedFrom: 'Art/葉廷皓.md'
 sourceCommitSha: '4f3974f86'
 sourceContentHash: 'sha256:d57af5403d15c947'
+sourceBodyHash: 'sha256:8bfc60cfb32ca5a1'
 translatedAt: '2026-09-26T02:37:26.701251+00:00'
 ---
 

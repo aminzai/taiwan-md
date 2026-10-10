@@ -14,7 +14,7 @@ tags:
     '医療法人',
     '台湾社会',
   ]
-subcategory: '法律と制度'
+subcategory: '法律與制度'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-07-13
@@ -39,6 +39,7 @@ sporeLinks:
 translatedFrom: 'Society/醫療法.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:a87fc88d09f6e189'
+sourceBodyHash: 'sha256:3a7e69bdd14827b6'
 translatedAt: '2026-08-04T05:21:19.467950+00:00'
 ---
 

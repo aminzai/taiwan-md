@@ -177,12 +177,12 @@ Was wird der taiwanesische Kapitalmarkt in den nächsten dreißig Jahren lernen?
 
 **Weiterführende Lektüre**
 
-- [Taiwan Semiconductor Manufacturing Company](/economy/台灣企業：台積電) — Die Sonne mit 45 % Gewichtung in der taiwanesischen Börse und die Geschichte hinter dem Begriff „Schutzheilige Berge“
+- [Taiwan Semiconductor Manufacturing Company](/de/economy/tsmc) — Die Sonne mit 45 % Gewichtung in der taiwanesischen Börse und die Geschichte hinter dem Begriff „Schutzheilige Berge“
 - [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Das gesamte Lieferökosystem, das den Platz 6 des Aktienmarktes Taiwans stützt
-- [Foxconn Precision](/economy/台灣企業：鴻海精密) — Ein weiterer großer Akteur in der Goldman Sachs Top 25 Käuferliste: Vom Giganten der Auftragsfertigung zum KI-Server-Transformator
-- [Taiwanische Industrielle Transformation und Aufwertung](/economy/台灣產業轉型升級) — Die Entwicklung von der Auftragsfertigung in den 1980er Jahren zur KI-Dividende im Jahr 2026
-- [Wirtschaftswunder: Vom Süßkartoffel-Check-in zu TSMC, die Geschichte des Wiederaufstehens von zwanzig Millionen Menschen](/economy/經濟奇蹟) — Das Geld der „Taiwan ist voller Geld“-Ära floss schließlich in den Aktienmarkt und Hongyuan von 1990
-- [Entwicklung der taiwanesischen Finanztechnologie](/economy/台灣金融科技發展) — Von Festnetztelefonen zu Smartphone-Sparplänen, die finanzielle Infrastruktur hinter einem Konto
+- [Foxconn Precision](/de/economy/foxconn-precision-industry) — Ein weiterer großer Akteur in der Goldman Sachs Top 25 Käuferliste: Vom Giganten der Auftragsfertigung zum KI-Server-Transformator
+- [Taiwanische Industrielle Transformation und Aufwertung](/de/economy/industrial-transformation-from-manufacturing-to-innovation) — Die Entwicklung von der Auftragsfertigung in den 1980er Jahren zur KI-Dividende im Jahr 2026
+- [Wirtschaftswunder: Vom Süßkartoffel-Check-in zu TSMC, die Geschichte des Wiederaufstehens von zwanzig Millionen Menschen](/de/economy/economic-miracle) — Das Geld der „Taiwan ist voller Geld“-Ära floss schließlich in den Aktienmarkt und Hongyuan von 1990
+- [Entwicklung der taiwanesischen Finanztechnologie](/de/economy/taiwan-fintech-development) — Von Festnetztelefonen zu Smartphone-Sparplänen, die finanzielle Infrastruktur hinter einem Konto
 - [Apple Cider](/de/food/apple-cider) — Die Eigentümerstruktur des börsennotierten Atlantic Beverage (Aktienkennzeichen 1213) im Jahr 1965 ist ein Mikrokosmos der Kapitalgeschichte bei den Ereignissen von 1985 und 1990
 
 **Referenzen**

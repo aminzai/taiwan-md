@@ -17,6 +17,11 @@ readingTime: 14
 featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
+sporeLinks:
+  - id: 21
+    platform: 'threads'
+    date: '2026-04-11'
+    url: 'https://www.threads.com/@taiwandotmd/post/DW_CjmCkQMW'
 translatedFrom: 'Society/2026鄭習會與國共十年再會.md'
 sourceCommitSha: 'dd39065b2'
 sourceContentHash: 'sha256:3eecc6e30b4626f7'
@@ -210,6 +215,6 @@ La reunión de Singapur en 2015 fue un apretón; la de Pekín en 2026, una puest
 
 [^20]: [China’s Xi meets Taiwan opposition leader ahead of key summit with Trump – NPR](https://www.npr.org/2026/04/10/nx-s1-5780605/china-xi-taiwan-opposition) — Análisis de NPR que cita a expertos internacionales sobre el aumento de buques y la posible “nueva normalidad” en el estrecho.
 
-[^21]: [China’s Xi meets Taiwan opposition leader ahead of key summit with Trump – KPBS](https://www.kpbs.org/news/international/2026/04/10/chinas-xi-taiwan-opposition-leader-ahead-of-key-summit-with-trump) — Comentario de Yan en KPBS sobre la estrategia de Cheng para aprovechar la ansiedad de la sociedad taiwanesa ante la administración de Trump.
+[^21]: [China’s Xi meets Taiwan opposition leader ahead of key summit with Trump – KPBS](https://www.kpbs.org/news/international/2026/04/10/chinas-xi-meets-taiwan-opposition-leader-ahead-of-key-summit-with-trump) — Comentario de Yan en KPBS sobre la estrategia de Cheng para aprovechar la ansiedad de la sociedad taiwanesa ante la administración de Trump.
 
 [^22]: [Taiwan opposition leader calls for ‘reconciliation’ after meeting Xi – Al Jazeera](https://www.aljazeera.com/news/2026/4/10/taiwan-opposition-leader-calls-for-reconciliation-after-meeting-xi) — Análisis de Wen‑ti Sung del Atlantic Council que interpreta la “estructura institucional para prevenir la guerra” como una política de reducción de la construcción militar y menor adquisición de armas estadounidenses.

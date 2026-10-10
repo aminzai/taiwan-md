@@ -74,7 +74,7 @@ Die Geschichte von Hi-Life ist nicht nur der Aufstieg und Fall eines Unternehmen
 ## Weiterführende Lektüre
 
 - [Taiwan Convenience Store Culture](/de/lifestyle/convenience-store-culture) — Wie C-Stores zu einer öffentlichen Infrastruktur in Taiwan wurden
-- [Quittungen](/economy/發票) — Die tägliche Wirtschaft von Sammelquittungen und C-Store-Zahlungsdienstleistungen
+- [Quittungen](/de/economy/taiwan-uniform-invoice) — Die tägliche Wirtschaft von Sammelquittungen und C-Store-Zahlungsdienstleistungen
 
 ## Quellenangaben
 

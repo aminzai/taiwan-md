@@ -11,7 +11,7 @@ tags:
     'सामाजिक विवाद',
     'छात्र आंदोलन',
   ]
-subcategory: 'शिक्षा'
+subcategory: '教育'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-05
@@ -21,6 +21,7 @@ curation: 'incubating'
 translatedFrom: 'Society/2026年分科爭議.md'
 sourceCommitSha: 'a5f19502c'
 sourceContentHash: 'sha256:8fda1cde0f787fad'
+sourceBodyHash: 'sha256:8fd8e7154014483c'
 translatedAt: '2026-08-09T05:44:46.814289+00:00'
 ---
 
@@ -78,7 +79,7 @@ xin नामक एक प्रस्तावक द्वारा 「公共
 ## विस्तारित पठन
 
 - [शिक्षा प्रणाली और प्रवेश संस्कृति](/hi/society/education-system-and-admissions-culture) — विषय-वार परीक्षा की पूरी प्रवेश प्रणाली में स्थिति
-- [ताइवान उच्च शिक्षा विस्तार और निकास](/society/台灣高等教育擴張與退場) — विश्वविद्यालय पक्ष की आपूर्ति कैसे बदलती है, यह परीक्षा पक्ष के दबाव को तय करता है
+- [ताइवान उच्च शिक्षा विस्तार और निकास](/hi/society/taiwan-higher-education-expansion-and-decline) — विश्वविद्यालय पक्ष की आपूर्ति कैसे बदलती है, यह परीक्षा पक्ष के दबाव को तय करता है
 - [ताइवान निम्न जन्म दर संकट](/hi/society/taiwan-low-birth-rate-crisis) — परीक्षार्थियों की संख्या का दीर्घकालिक वक्र कहां से आता है
 
 ## संदर्भ सामग्री

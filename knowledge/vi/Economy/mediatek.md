@@ -12,7 +12,7 @@ tags:
     'Thiết kế IC',
     'MediaTek',
   ]
-subcategory: 'Chân dung doanh nghiệp'
+subcategory: '企業列傳'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-25
@@ -22,6 +22,7 @@ curation: 'incubating'
 translatedFrom: 'Economy/台灣企業：聯發科技.md'
 sourceCommitSha: '0df538d8c'
 sourceContentHash: 'sha256:31e1b73206428a5a'
+sourceBodyHash: 'sha256:bda6180b6fe80c7a'
 translatedAt: '2026-09-18T19:24:40.594267+00:00'
 ---
 
@@ -116,7 +117,7 @@ Thái Minh Giới năm nay 75 tuổi. Ông dẫn dắt Liên Phát Khoa từ CD-
 
 - [Doanh nghiệp Đài Loan: Đài Tích Điện](/vi/economy/tsmc)
 - [Ngành bán dẫn](/vi/technology/taiwan-semiconductor-industry) — Từ chuyển giao công nghệ RCA năm 1973 đến sản xuất lượng lớn 2 nanomet, toàn bộ hệ sinh thái bán dẫn, Liên Phát Khoa là đại diện cho đầu thiết kế IC
-- [Câu chuyện công nghệ Đài Loan: Chip 100 điểm, Micro 60 điểm](/vi/technology/taiwan-tech-stories) — Liên Phát Khoa xuất khẩu lượng toàn cầu thứ nhất, tại sao chuyện thương hiệu vẫn chưa đuổi kịp Qualcomm
+- [Câu chuyện công nghệ Đài Loan: Chip 100 điểm, Micro 60 điểm](/vi/technology/taiwan-tech-storytelling) — Liên Phát Khoa xuất khẩu lượng toàn cầu thứ nhất, tại sao chuyện thương hiệu vẫn chưa đuổi kịp Qualcomm
 
 ## Mở rộng tham khảo
 

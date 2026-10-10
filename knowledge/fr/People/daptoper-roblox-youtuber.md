@@ -76,7 +76,7 @@ Lorsque l'on parle de la culture numérique taïwanaise, l'histoire de Zhou Zhi-
 
 [^4]: [天下雜誌 — Admis à Tsing Hua mais en suspension pendant un an : derrière le million d'abonnés de Daptoper, une autodiscipline de haut niveau](https://www.cw.com.tw/article/5131830) — Reportage approfondi sur le processus décisionnel de sa suspension universitaire.
 
-[^5]: [Yahoo 新聞 — Le YouTuber le plus atypique : Daptoper](https://tw.news.yahoo.com/%E6%9C%80%E4%B8%8D%E5%85%B8%E5%9E%8B%E7%9A%84-youtuber-%E6%9C%89%E6%84%9F%E7%AD%86%E9%9B%BB-%E7%86%B1%E6%83%85%E6%98%AF%E5%9F%BA%E7%A4%8E%E7%87%83%E6%96%99-%E6%9C%89%E8%A8%88%E7%95%AB%E6%89%80%E8%83%BD%E8%B8%8F%E5%AF%A6%E7%AF%89%E5%A4%A2-180012226.html) — Cite sa vision professionnelle et les détails de sa « convention d'un an ».
+[^5]: [Yahoo 新聞 — Le YouTuber le plus atypique : Daptoper](https://tw.news.yahoo.com/%E6%9C%80%E4%B8%8D%E5%85%B8%E5%9E%8B%E7%9A%84-youtuber-%E6%9C%89%E6%84%9F%E7%AD%86%E9%9B%BB-%E7%86%B1%E6%83%85%E6%98%AF%E5%9F%BA%E7%A4%8E%E7%87%83%E6%96%99-%E6%9C%89%E8%A8%88%E7%95%AB%E6%89%8D%E8%83%BD%E8%B8%8F%E5%AF%A6%E7%AF%89%E5%A4%A2-180012226.html) — Cite sa vision professionnelle et les détails de sa « convention d'un an ».
 
 [^6]: [Pourquoi le nom anglais de Daptoper est Daptoper — YouTube](https://www.youtube.com/watch?v=oxsbtLjWO0s) — Explique la composition et la signification symbolique de son nom de scène Daptoper.
 

@@ -11,7 +11,7 @@ tags:
     'строительные и хозяйственные товары',
     'цифровая трансформация',
   ]
-subcategory: 'городская жизнь'
+subcategory: '城市生活'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-25
@@ -21,6 +21,7 @@ curation: 'incubating'
 translatedFrom: 'Lifestyle/小北百貨.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:439d3806c63e39aa'
+sourceBodyHash: 'sha256:08eacf8247ffcb10'
 translatedAt: '2026-08-04T08:14:10.735632+00:00'
 ---
 

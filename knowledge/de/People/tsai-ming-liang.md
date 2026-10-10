@@ -102,4 +102,4 @@ Tsai zählt zur internationalen "Langfilm"-Bewegung. Der Philippinen-Regisseur L
 ## Weiterführende Literatur
 
 - [Taiwan Film Institute](https://taiwancinema.bamid.gov.tw/) — Offizielle Datenbank der taiwanesischen Filmkünstler
-- [Yang De-chang](/de/people/edward-yang) — Ein weiterer Blick auf die Inszenierung der Einsamkeit in Taipeh, mit ingenieurhafter Kälte
+- [Yang De-chang](/de/people/yang-dechang) — Ein weiterer Blick auf die Inszenierung der Einsamkeit in Taipeh, mit ingenieurhafter Kälte

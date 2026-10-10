@@ -95,7 +95,7 @@ translatedAt: '2026-07-25T07:56:03+08:00'
 
 [^3]: [https://www.nownews.com/news/6786985](https://www.nownews.com/news/6786985) — ناو نيوز أخبار اليوم
 
-[^4]: [https://www.gwytb.gov.cn/m/speech/202601/t2026012812748417.htm](https://www.gwytb.gov.cn/m/speech/202601/t2026012812748417.htm) — بيانات مكتب شؤون تايوان الرسمي الصيني (منظور جمهورية الصين الشعبية)
+[^4]: [https://www.gwytb.gov.cn/m/speech/202601/t2026012812748417.htm](https://www.gwytb.gov.cn/m/speech/202601/t20260128_12748417.htm) — بيانات مكتب شؤون تايوان الرسمي الصيني (منظور جمهورية الصين الشعبية)
 
 [^5]: [https://tcmb.culture.tw/zh-tw/detail?id=753758](https://tcmb.culture.tw/zh-tw/detail?id=753758) — بنك الذاكرة الثقافية الوطني: بنك الذاكرة الثقافية الوطني
 
@@ -103,7 +103,7 @@ translatedAt: '2026-07-25T07:56:03+08:00'
 
 [^7]: [https://tw.news.yahoo.com/%E7%B4%B0%E6%95%B8%E5%8F%8D%E5%85%B1%E7%BE%A9%E5%A3%AB-110352156.html](https://tw.news.yahoo.com/%E7%B4%B0%E6%95%B8%E5%8F%8D%E5%85%B1%E7%BE%A9%E5%A3%AB-110352156.html) — تقرير ياهو نيوز
 
-[^8]: [https://www.gwytb.gov.cn/m/speech/202601/t2026012812748417.htm](https://www.gwytb.gov.cn/m/speech/202601/t2026012812748417.htm) — بيانات مكتب شؤون تايوان الرسمي الصيني (منظور جمهورية الصين الشعبية)
+[^8]: [https://www.gwytb.gov.cn/m/speech/202601/t2026012812748417.htm](https://www.gwytb.gov.cn/m/speech/202601/t20260128_12748417.htm) — بيانات مكتب شؤون تايوان الرسمي الصيني (منظور جمهورية الصين الشعبية)
 
 [^9]: [Taiwan.md：الحرب المعرفية — مرحلة تصنيع الذكاء الاصطناعي في ساحة المعلومات التايوانية](https://taiwan.md/society/認知作戰/) — إدخال داخلي في Taiwan.md، يسجل اتجاه تصنيع الحرب المعرفية بالذكاء الاصطناعي الصينية ضد تايوان في 2024-2026
 

@@ -142,8 +142,8 @@ Sama seperti itu, jalan, pembuatan es, listrik, dan pergudangan yang dibawa mode
 
 ## Bacaan Lanjutan
 
-- [Modernisasi Perikanan Taiwan](/history/台灣漁業現代化) — Babak kedua laut yang sama: armada samudra jauh, zona ekonomi eksklusif, dan tanggung jawab negara bendera
-- [Sejarah Persatuan Petani Taiwan](/history/台灣農會史) — Organisasi pedesaan, keuangan, dan perubahan institusi jendela pelayanan publik lokal
+- [Modernisasi Perikanan Taiwan](/id/history/taiwan-fishery-modernization) — Babak kedua laut yang sama: armada samudra jauh, zona ekonomi eksklusif, dan tanggung jawab negara bendera
+- [Sejarah Persatuan Petani Taiwan](/id/history/taiwan-farmers-association-history) — Organisasi pedesaan, keuangan, dan perubahan institusi jendela pelayanan publik lokal
 - [Sejarah Pos Taiwan](/history/台灣郵政史) — Infrastruktur publik lain yang menghubungkan lokal, logistik, dan administrasi negara
 - [Sejarah Air Minum Taiwan](/history/台灣自來水史) — Teknik, kesehatan, dan kehidupan sehari-hari kota bersama membentuk sistem
 

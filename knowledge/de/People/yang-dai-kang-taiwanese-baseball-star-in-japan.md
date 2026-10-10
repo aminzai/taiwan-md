@@ -17,6 +17,7 @@ readingTime: 7
 translatedFrom: 'People/陽岱鋼.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:43fe535b07f25e8f'
+sourceBodyHash: 'sha256:2bbcd86b693a9ea2'
 translatedAt: '2026-08-13T04:20:00+08:00'
 ---
 
@@ -68,12 +69,12 @@ Vom roten Aschenplatz Taitungs bis zum Stadion der Yomiuri Giants auf Japans gr�
 
 ## Referenzen
 
-[^1]: [Wikipedia: Yang Dai-kang](https://zh.wikipedia.org/zh-tw/陽岱鋼) – bestätigt Geburt 17.01.1987 in Taitung (Amis, früherer Name Yang Chung-shou), Mittelschule der National Taitung University Affiliated Athletic High School → Fukuoka Daiichi High School, Draft 2005 mit doppelter erster Wahl von Ham/SoftBank (Ham gewann die Auslosung), NPB-Karriere 1322 Spiele 105 Homeruns 482 RBIs .270 141 gestohlene Bases.
+[^1]: [Wikipedia: Yang Dai-kang](https://zh.wikipedia.org/zh-tw/陽岱鋼) — Details in der verlinkten Originalquelle
 
-[^2]: [China Times: Yang Dai-kangs Ham-FA-Wechsel zu den Giants](https://www.chinatimes.com/realtimenews/20211126002692-261306) – bestätigt zehn Jahre Ham-Ära (2006-2015), 2012 Golden Glove der Pacific League als Outfielder (erster taiwanesischer Feldspieler), 2016 Ausübung des FA und Wechsel zu den Yomiuri Giants.
+[^2]: [China Times: Yang Dai-kangs Ham-FA-Wechsel zu den Giants](https://www.chinatimes.com/realtimenews/20211126002692-261306) — Details in der verlinkten Originalquelle
 
-[^3]: [Yahoo Sport: Yang Dai-kang schließt sich Oisix Niigata an](https://tw.sports.yahoo.com/news/重回日職-37歲陽岱鋼加入二軍新球隊) – bestätigt, dass er Ende 2021 die Giants verließ, später in die US-amerikanische unabhängige Liga / australische Liga / Atlantic League wechselte und nun für Oisix Niigata in der zweiten NPB-Liga spielt.
+[^3]: [Yahoo Sport: Yang Dai-kang schließt sich Oisix Niigata an](https://tw.sports.yahoo.com/news/重回日職-37歲陽岱鋼加入二軍新球隊) — Details in der verlinkten Originalquelle
 
-[^4]: [Liberty Times: Yang Dai-kangs aktuelle Lage](https://sports.ltn.com.tw/news/breakingnews/4862829) – Bericht über Yangs Lage nach dem Spiel im Karrierespätwerk.
+[^4]: [Liberty Times: Yang Dai-kangs aktuelle Lage](https://sports.ltn.com.tw/news/breakingnews/4862829) — Details in der verlinkten Originalquelle
 
-[^5]: [Nippon Professional Baseball Organization NPB: Yang Dai-kangs Statistiken](https://npb.jp/) – offizielle NPB-Karriere-Schlagstatistik.
+[^5]: [Nippon Professional Baseball Organization NPB: Yang Dai-kangs Statistiken](https://npb.jp/) — Details in der verlinkten Originalquelle

@@ -10,7 +10,7 @@ tags:
     'Non-KMT Movement',
     'Martial Law',
   ]
-subcategory: 'Modern History'
+subcategory: '現代歷史'
 author: 'Taiwan.md'
 category: 'History'
 readingTime: 12

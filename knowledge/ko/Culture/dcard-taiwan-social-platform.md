@@ -3,7 +3,7 @@ title: 'Dcard'
 description: '대만 남부 출신의 한 대학생이 기숙사에서 친구를 사귀려고 만든 웹사이트가, 대만 청년층 최대의 소셜 플랫폼이 되었다. 그리고 성장을 거듭하는 한편, "Dcard는 사라지는 걸까?"라는 질문과 끊임없이 씨름하고 있다.'
 date: 2026-04-05
 tags: [소셜미디어, 대만스타트업, 젊은세대, 포럼, 익명, 대학, 테크]
-subcategory: '인터넷과 디지털 문화'
+subcategory: '網路與數位文化'
 category: 'Culture'
 author: 'Taiwan.md'
 readingTime: 8

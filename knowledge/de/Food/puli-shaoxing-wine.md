@@ -115,8 +115,8 @@ Dieser Geschmack wird heute von niemandem mehr als „Einwanderer“ oder „chi
 **Weiterführende Lektüre**:
 
 - [Taiwanische眷村菜 (Jüan Cun Cuisine)](/de/food/military-dependents-village-cuisine) — Ebenfalls ein kulinarisches Gedächtnis, das nach 1949 von Massenimmigranten nach Taiwan gebracht wurde; die Jüan Cun Küche und Puli Shaoxing teilen einen Ursprung: ein Rückzug mit Küchenerinnerungen.
-- [Taiwanische Fermentations- und Konservierungskultur](/food/台灣發酵食品與醃製文化) — Die genealogischen Techniken der taiwanesischen fermentierten Lebensmittel, von Tofu zu Sojasauce; Shaoxing ist eine der politischsten Sorten in dieser Reihe.
-- [Taiwanische Reisesskultur](/food/台灣米食文化) — Reis ist die Basis von Shaoxing; die Reiskultur bietet den vollständigen Kontext, um diesen Wein vom Landbau über die Industrie bis zum Tourismus zu verstehen.
+- [Taiwanische Fermentations- und Konservierungskultur](/de/food/taiwan-fermented-and-pickled-foods) — Die genealogischen Techniken der taiwanesischen fermentierten Lebensmittel, von Tofu zu Sojasauce; Shaoxing ist eine der politischsten Sorten in dieser Reihe.
+- [Taiwanische Reisesskultur](/de/food/taiwan-rice-cuisine-culture) — Reis ist die Basis von Shaoxing; die Reiskultur bietet den vollständigen Kontext, um diesen Wein vom Landbau über die Industrie bis zum Tourismus zu verstehen.
 
 ## Quellenverzeichnis
 

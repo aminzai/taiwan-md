@@ -11,7 +11,7 @@ tags:
     'aires marines protégées',
     'biodiversité',
   ]
-subcategory: 'Parcs nationaux et sentiers'
+subcategory: '國家公園與步道'
 author: 'Taiwan.md Contributors'
 readingTime: 13
 featured: false

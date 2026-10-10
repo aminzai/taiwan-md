@@ -15,7 +15,7 @@ tags:
     'سكان أصليون',
     'بايوان',
   ]
-subcategory: 'رياضة'
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-21
@@ -23,6 +23,7 @@ lastHumanReview: true
 translatedFrom: 'People/楊勇緯.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:2486f039d0fdc0ce'
+sourceBodyHash: 'sha256:162f09653edec7c3'
 translatedAt: '2026-07-25T07:15:16.932759+00:00'
 ---
 

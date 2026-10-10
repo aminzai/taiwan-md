@@ -13,7 +13,7 @@ tags:
     'XRSPACE',
     'Kaohsiung VR FILM LAB',
   ]
-subcategory: 'Komunitas dan Budaya Digital'
+subcategory: '社群與數位文化'
 author: 'zaious'
 featured: false
 lastVerified: 2026-04-23
@@ -22,6 +22,7 @@ readingTime: 10
 translatedFrom: 'Technology/台灣VR元宇宙興衰史.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:dcdc411ac65fa741'
+sourceBodyHash: 'sha256:e56340a36684b82b'
 translatedAt: '2026-09-13T00:38:03.720600+00:00'
 ---
 

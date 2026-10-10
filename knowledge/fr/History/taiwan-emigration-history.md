@@ -15,13 +15,13 @@ tags:
     'Freedom of Movement',
   ]
 author: 'Taiwan.md Contributors'
-subcategory: 'History/Taiwan Outbound History'
+subcategory: '社會與日常史'
 category: 'History'
 readingTime: 25
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: 'History/台灣出國史.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:8d6508c76f18f1af'
 sourceBodyHash: 'sha256:2ed834cb9de7de1b'
 translatedAt: '2026-05-03T21:42:07+08:00'

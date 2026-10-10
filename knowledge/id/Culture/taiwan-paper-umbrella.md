@@ -74,10 +74,10 @@ Namun, kisah payung kertas Meinong memberikan inspirasi berharga bagi kerajinan 
 
 ## Bacaan Lanjutan
 
-- **[Budaya dan Bahasa Hakka](/culture/客家文化與語言)** — Pelestarian bahasa dan warisan budaya kelompok Hakka, tanah budaya kelahiran payung kertas
+- **[Budaya dan Bahasa Hakka](/id/culture/hakka-culture-and-language)** — Pelestarian bahasa dan warisan budaya kelompok Hakka, tanah budaya kelahiran payung kertas
 - **[Budaya Tabu Homofon Taiwan](/id/culture/taiwanese-homophone-taboos)** — Tabu "mengirim payung" budaya Hoklo vs. doa payung kertas Hakka, logika homofon barang sama makna berbeda
-- **[Kain Bunga Taiwan](/culture/台灣花布)** — Contoh lain dari barang sehari-hari bertransformasi menjadi simbol budaya Taiwan
-- **[Pewarnaan Indigo](/culture/藍染)** — Kerajinan tradisional Taiwan lain yang menghadapi tantangan warisan serupa
+- **[Kain Bunga Taiwan](/id/culture/taiwan-floral-fabric)** — Contoh lain dari barang sehari-hari bertransformasi menjadi simbol budaya Taiwan
+- **[Pewarnaan Indigo](/id/culture/taiwan-indigo-dyeing)** — Kerajinan tradisional Taiwan lain yang menghadapi tantangan warisan serupa
 
 ## Referensi
 

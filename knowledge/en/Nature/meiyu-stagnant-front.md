@@ -98,8 +98,8 @@ The next time a torrential rain alert flashes across your smartphone screen, rem
 
 **See Also**
 
-- [Typhoons](/nature/typhoons) — Another highly seasonal atmospheric system that stands alongside the Meiyu as Taiwan's dual primary water source, serving as a perfect mirror to the Meiyu’s dual nature of "water replenishment vs. localized catastrophe."
-- [Taiwan's Climate Crisis and Net-Zero Transition](/nature/taiwans-climate-crisis-and-net-zero-transition) — Exploring how the climate reality of "absent spring rains and highly hyper-concentrated Meiyu downpours" is actively reshaping Taiwan's water resource risks and energy transition pressures.
+- [Typhoons](/en/nature/typhoons-in-taiwan) — Another highly seasonal atmospheric system that stands alongside the Meiyu as Taiwan's dual primary water source, serving as a perfect mirror to the Meiyu’s dual nature of "water replenishment vs. localized catastrophe."
+- [Taiwan's Climate Crisis and Net-Zero Transition](/en/nature/taiwan-climate-change-net-zero-transition) — Exploring how the climate reality of "absent spring rains and highly hyper-concentrated Meiyu downpours" is actively reshaping Taiwan's water resource risks and energy transition pressures.
 
 ## References
 

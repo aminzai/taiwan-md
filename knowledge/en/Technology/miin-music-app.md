@@ -131,10 +131,10 @@ So next time you swipe past that "let's go, let's go to miin," you can remember:
 
 ## Further Reading
 
-- [Ethan Tu](/people/杜奕瑾) — Built PTT with a 486 computer, led Cortana at Microsoft, returned to Taiwan for non-profit AI for thirty years
-- [Taiwan AI Labs](/technology/台灣人工智慧實驗室) — The non-profit AI institution behind Miin, from TAIDE to cognitive warfare prevention
-- [Cognitive Warfare](/society/認知作戰) — Why Taiwan is written by academia as the frontline of this information war
-- [History of Taiwan's Online Community Migration](/technology/台灣網路社群遷徙史) — From BBS, Wretch, to Threads, the story of Taiwanese moving house time and again
+- [Ethan Tu](/en/people/ethan-tu) — Built PTT with a 486 computer, led Cortana at Microsoft, returned to Taiwan for non-profit AI for thirty years
+- [Taiwan AI Labs](/en/technology/taiwan-ai-labs) — The non-profit AI institution behind Miin, from TAIDE to cognitive warfare prevention
+- [Cognitive Warfare](/en/society/cognitive-warfare-against-taiwan) — Why Taiwan is written by academia as the frontline of this information war
+- [History of Taiwan's Online Community Migration](/en/technology/taiwan-online-community-migration) — From BBS, Wretch, to Threads, the story of Taiwanese moving house time and again
 
 ## Image Sources
 

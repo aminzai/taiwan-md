@@ -11,7 +11,7 @@ tags:
     'Pengemasan dan Pengujian',
     'Manufaktur Teknologi',
   ]
-subcategory: 'Profil Perusahaan'
+subcategory: '企業列傳'
 author: 'Taiwan.md'
 readingTime: 8
 featured: false
@@ -21,6 +21,7 @@ curation: 'incubating'
 translatedFrom: 'Economy/台灣企業：日月光半導體.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:65cc0b60ab116db7'
+sourceBodyHash: 'sha256:58739438cbba3247'
 translatedAt: '2026-08-04T20:46:57.539731+00:00'
 ---
 

@@ -4,7 +4,7 @@ description: '대만 최대 ACG 커뮤니티의 탄생, 생존, 그리고 페이
 date: 2026-04-05
 tags:
   ['ACG', '게임', '애니메이션', '커뮤니티', '대만 인터넷', '서브컬처', '포럼']
-subcategory: '인터넷과 디지털 문화'
+subcategory: '網路與數位文化'
 category: 'Culture'
 author: 'Taiwan.md'
 featured: false

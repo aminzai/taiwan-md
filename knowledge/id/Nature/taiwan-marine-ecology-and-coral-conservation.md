@@ -189,7 +189,7 @@ Jalan konservasi laut Taiwan tetap penuh tantangan, tapi juga penuh harapan. Mel
 
 **Bacaan Lanjutan**:
 
-- [Krisis Iklim Taiwan dan Transisi Net Zero](/nature/台灣氣候危機與淨零轉型) — Bagaimana perubahan iklim dan pemanasan air laut memperparah pembelahan karang, serta respons pengurangan karbon Taiwan
+- [Krisis Iklim Taiwan dan Transisi Net Zero](/id/nature/taiwan-climate-change-net-zero-transition) — Bagaimana perubahan iklim dan pemanasan air laut memperparah pembelahan karang, serta respons pengurangan karbon Taiwan
 
 ## Referensi
 

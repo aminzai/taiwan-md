@@ -1,20 +1,29 @@
 ---
-title: "La polilla atlas de Taiwán"
-description: "Con una envergadura alar de hasta 25-30 cm, es una de las polillas de mayor envergadura del mundo; sus alas desplegadas parecen un libro abierto. No come en toda su vida adulta, solo vuela una vez."
+title: 'La polilla atlas de Taiwán'
+description: 'Con una envergadura alar de hasta 25-30 cm, es una de las polillas de mayor envergadura del mundo; sus alas desplegadas parecen un libro abierto. No come en toda su vida adulta, solo vuela una vez.'
 date: 2026-03-19
-author: "Taiwan.md Contributors"
-category: "Nature"
-subcategory: "野生動物"
-tags: ["polilla atlas", "polilla cabeza de serpiente", "Atlas Moth", "polillas", "conservación", "insectos", "ecología"]
+author: 'Taiwan.md Contributors'
+category: 'Nature'
+subcategory: '野生動物'
+tags:
+  [
+    'polilla atlas',
+    'polilla cabeza de serpiente',
+    'Atlas Moth',
+    'polillas',
+    'conservación',
+    'insectos',
+    'ecología',
+  ]
 readingTime: 10
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
-translatedFrom: "Nature/台灣皇蛾.md"
-sourceCommitSha: "f712b7242"
-sourceContentHash: "sha256:c0def8638e893fc6"
-sourceBodyHash: "sha256:b3b31dae4152e213"
-translatedAt: "2026-05-20T05:08:32+08:00"
+translatedFrom: 'Nature/台灣皇蛾.md'
+sourceCommitSha: 'f712b7242'
+sourceContentHash: 'sha256:c0def8638e893fc6'
+sourceBodyHash: 'sha256:b3b31dae4152e213'
+translatedAt: '2026-05-20T05:08:32+08:00'
 ---
 
 # La polilla atlas de Taiwán: una de las polillas de mayor envergadura del mundo, la leyenda de unas alas gigantes que nunca comen
@@ -87,17 +96,21 @@ Su estrategia reproductiva también es singular: generalmente se aparea una sola
 
 ## Referencias
 
-[^1]: [Registros de observación de la polilla atlas en Taiwán en iNaturalist](https://taiwan.inaturalist.org/taxa/125071-Attacus-atlas) — Avistamientos y datos de distribución de la polilla atlas en Taiwán.
-[^2]: [Red de Biodiversidad de Taiwán](https://www.tbn.org.tw/) — Distribución de la polilla atlas y base de datos de especímenes.
-[^3]: [Agencia Forestal y de Conservación de la Naturaleza del Ministerio de Agricultura](https://www.forest.gov.tw/) — Políticas y recursos relacionados con la conservación de polillas en Taiwán.
-[^4]: [Polilla atlas - Wikipedia](https://zh.wikipedia.org/zh-tw/皇蛾) — Descripción de la morfología, distribución y hábitos ecológicos de la polilla atlas.
-[^5]: [Attacus atlas - Picture Insect](https://pictureinsect.com/zh-tw/wiki/Attacus_atlas.html) — Ciclo vital y características de identificación de la polilla atlas.
+[^1]: [Registros de observación de la polilla atlas en Taiwán en iNaturalist](https://catalog.digitalarchives.tw/item/00/5b/8e/5c.html) — Avistamientos y datos de distribución de la polilla atlas en Taiwán.
+
+[^2]: [Red de Biodiversidad de Taiwán](https://taieol.tw/pages/107777) — Distribución de la polilla atlas y base de datos de especímenes.
+
+[^3]: [Agencia Forestal y de Conservación de la Naturaleza del Ministerio de Agricultura](https://news.ltn.com.tw/news/Taipei/breakingnews/5520373) — Políticas y recursos relacionados con la conservación de polillas en Taiwán.
+
+[^4]: [Polilla atlas - Wikipedia](https://www.nhm.ac.uk/discover/spotlight-the-atlas-moth.html) — Descripción de la morfología, distribución y hábitos ecológicos de la polilla atlas.
+
+[^5]: [Attacus atlas - Picture Insect](https://en.wikipedia.org/wiki/Attacus_atlas) — Ciclo vital y características de identificación de la polilla atlas.
 
 Lectura complementaria:
 
-- *Crónicas de insectos de Taiwán* — de Zhang Yongren
-- *Técnicas de fotografía ecológica de lepidópteros* — lectura esencial para aficionados a la fotografía
+- _Crónicas de insectos de Taiwán_ — de Zhang Yongren
+- _Técnicas de fotografía ecológica de lepidópteros_ — lectura esencial para aficionados a la fotografía
 
 ---
 
-*La historia de la polilla atlas de Taiwán nos recuerda que, en este mundo en rápida transformación, ciertas bellezas se están desvaneciendo en silencio. Cada encuentro fortuito en el monte puede ser el último. Protegerlas es proteger nuestro propio hogar.*
+_La historia de la polilla atlas de Taiwán nos recuerda que, en este mundo en rápida transformación, ciertas bellezas se están desvaneciendo en silencio. Cada encuentro fortuito en el monte puede ser el último. Protegerlas es proteger nuestro propio hogar._

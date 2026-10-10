@@ -4,7 +4,7 @@ description: "Beneath Guohua Street and Hai'an Road lie the riverbed ruins of th
 date: 2026-06-30
 author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: 'Classic Street Food'
+subcategory: '經典小吃'
 tags:
   [
     'Tainan',

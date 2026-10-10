@@ -3,7 +3,7 @@ title: '陳文郁：一粒の種子が、いかにして台湾農業の外交官
 description: '鳳山試験所、鳳山一号無籽スイカから農友種苗まで、陳文郁は育種を農民の生活向上を先行させる台湾のソフトパワーへと昇華させました。'
 date: 2026-08-16
 category: 'People'
-tags: ['陳文郁、農友種苗、無籽スイカ、農業、育種']
+tags: ['陳文郁', '農友種苗', '無籽スイカ', '農業', '育種']
 subcategory: '科學與學術'
 author: 'Taiwan.md Contributors'
 featured: false

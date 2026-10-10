@@ -3,7 +3,17 @@ title: 'Chi Po-lin'
 description: 'Ein Mann, dessen Beamtengehalt nicht für einen Helikopter reichte, drehte mit dem Geld aus der Verpfändung seines Hauses den erfolgreichsten Dokumentarfilm in der Geschichte des taiwanesischen Films.'
 date: 2026-03-25
 category: 'People'
-tags: ['Personen', 'Chi Po-lin', 'Dokumentarfilm', 'Taiwan aus der Luft sehen', 'Regisseur', 'Fotograf', 'Luftaufnahme', 'Umwelt']
+tags:
+  [
+    'Personen',
+    'Chi Po-lin',
+    'Dokumentarfilm',
+    'Taiwan aus der Luft sehen',
+    'Regisseur',
+    'Fotograf',
+    'Luftaufnahme',
+    'Umwelt',
+  ]
 subcategory: '藝術與創作'
 author: 'Taiwan.md'
 featured: false
@@ -13,6 +23,7 @@ readingTime: 12
 translatedFrom: 'People/齊柏林.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:b0e42a4b48f12184'
+sourceBodyHash: 'sha256:272da240ae5fe1df'
 translatedAt: '2026-08-13T07:10:00+08:00'
 ---
 
@@ -134,16 +145,16 @@ Sein Erbe überquerte die Grenze des Lebens:
 
 ### Werkeverzeichnis
 
-| Jahr | Werk                                              | Typ               |
-| ---- | ------------------------------------------------- | ----------------- |
-| 1997 | „Bilder der Nord-Süd-Autobahn 2: Die Liebe zur Erde im Arm“ | Fotobuch |
-| 2004 | „Flieg durch Taiwan: Unsere Landesgeschichten“    | Fotobuch |
-| 2012 | „From above Taiwan: Die Luftfotografie von Chi Po-lin“ (2. Aufl.) | Fotobuch |
-| 2012 | „Vogelauge Taiwan“ (Text Liu Ko-hsiang, Musik Chen Ming-chang) | Dokumentarfilm |
-| 2013 | „Flieg durch Taiwans Nationalparks“               | Dokumentarfilm |
-| 2013 | „Mein Herz, mein Auge, Taiwan aus der Luft sehen“| Buch  |
+| Jahr | Werk                                                                         | Typ            |
+| ---- | ---------------------------------------------------------------------------- | -------------- |
+| 1997 | „Bilder der Nord-Süd-Autobahn 2: Die Liebe zur Erde im Arm“                  | Fotobuch       |
+| 2004 | „Flieg durch Taiwan: Unsere Landesgeschichten“                               | Fotobuch       |
+| 2012 | „From above Taiwan: Die Luftfotografie von Chi Po-lin“ (2. Aufl.)            | Fotobuch       |
+| 2012 | „Vogelauge Taiwan“ (Text Liu Ko-hsiang, Musik Chen Ming-chang)               | Dokumentarfilm |
+| 2013 | „Flieg durch Taiwans Nationalparks“                                          | Dokumentarfilm |
+| 2013 | „Mein Herz, mein Auge, Taiwan aus der Luft sehen“                            | Buch           |
 | 2013 | **„Taiwan aus der Luft sehen“** (Off Wu Nien-jen, Produzent Hou Hsiao-hsien) | Dokumentarfilm |
-| 2015 | „Insel-Sonaten: Die Luftfotografie von Chi Po-lin“ | Fotobuch |
+| 2015 | „Insel-Sonaten: Die Luftfotografie von Chi Po-lin“                           | Fotobuch       |
 
 Von den 3 Millionen NT$ Ersparnissen eines Beamten zu 220 Millionen Kinokassen, von 20 Stunden Jahresbudget zu 1.600 gesammelten Flugstunden, von einem Foto des Lin-Familiegartens in Wufeng bis zum Gerichtsurteil, das das Bergbaurecht von Asia Cement veränderte: Chi Po-lin tat 26 Jahre lang eine Sache – er ließ die Taiwaner ihre Insel vom Himmel aus sehen.
 

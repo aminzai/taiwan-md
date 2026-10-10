@@ -3,7 +3,7 @@ title: "Taiwan's Textile Industry: From Sunset Sector to the Hidden Champion of 
 description: "How a traditional industry once seen as 'dying' is transforming its narrative of resilience by creating high-tech gear for global teams at the 2024 Paris Olympics, using recycled PET bottles, discarded fishing nets, and even captured factory emissions."
 date: 2026-07-20
 category: 'Economy'
-subcategory: 'Economic Development'
+subcategory: '經濟發展'
 tags:
   [
     'Textile Industry',
@@ -76,8 +76,8 @@ Zhou Li-ping, Chairman of Juyang, stated when passing the baton to his second-ge
 
 ## Further Reading
 
-- [Taiwan's Circular Economy and Resource Reuse](/economy/taiwan-circular-economy-and-resource-reuse) — Background on the Bottle to Garment circular economy
-- [Taiwan's Industrial Transformation and Upgrading](/economy/taiwan-industrial-transformation-and-upgrading) — A broader framework of traditional industry transformation
+- [Taiwan's Circular Economy and Resource Reuse](/en/economy/circular-economy-and-resource-recycling) — Background on the Bottle to Garment circular economy
+- [Taiwan's Industrial Transformation and Upgrading](/en/economy/industrial-transformation-from-manufacturing-to-innovation) — A broader framework of traditional industry transformation
 
 ## References and Sources
 

@@ -112,7 +112,7 @@ Chen Shui-bian pada tahun 2000 mengumumkan Bendungan Meinong tidak akan dibangun
 
 - [Musik Hakka Taiwan](/id/music/taiwan-hakka-music-from-mountain-songs-to-rock)
 - [Gerakan Lagu Rakyat Kampus Taiwan](/id/music/taiwan-campus-folk-song-movement)
-- [Musik Indie Taiwan](/music/台灣獨立音樂/)
+- [Musik Indie Taiwan](/id/music/indie-music-scene/)
 - [Sejarah Perkembangan Musik Rock Taiwan](/id/music/taiwan-rock-from-underground-to-mainstream)
 
 ## Referensi

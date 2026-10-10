@@ -10,6 +10,15 @@ readingTime: 16
 lastVerified: 2026-06-06
 lastHumanReview: false
 featured: false
+sporeLinks:
+  - id: 126
+    platform: 'threads'
+    date: '2026-06-06'
+    url: 'https://www.threads.com/@taiwandotmd/post/DZPIcLHEzpk'
+  - id: 127
+    platform: 'x'
+    date: '2026-06-06'
+    url: 'https://x.com/taiwandotmd/status/2063165712261390793'
 translatedFrom: 'Society/國宅與居住正義.md'
 sourceCommitSha: '21298a7a'
 sourceContentHash: 'sha256:8ca8b403c13ab428'

@@ -164,7 +164,7 @@ _그림: 2023년 텍사스 북페에서 진싱훙이 《Ghost Town》을 논의�
 - [대만 동성애 결혼과 성 평등](/ko/society/taiwan-marriage-equality-lgbtq-rights) — 진싱훙이笔下的 신체와 성별 서사의 사회적 배경
 - [차오화현](/ko/geography/changhua-county) — 영징이 위치한 곳, 《유령 마을》 원형의 지리적 맥락
 
-## 參考資料
+## 참고 자료
 
 [^1]: [차오화현 영징향 위치도, 위키미디어 코먼즈](https://commons.wikimedia.org/wiki/File:Tw_yj_map.png) — Essolo가 제작한 영징 지도, 페이지에 CC BY-SA 3.0 라이선스가 명시되어 있으며, 공유 및 개작이 가능하다.
 

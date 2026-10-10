@@ -99,8 +99,8 @@ Tên gọi tưới chùa của cô không nên là "nữ anh hùng vụ sự Th�
 
 **Đọc thêm**:
 
-- [Vụ sự Thượng Li](/history/台灣選舉與政黨政治) — Vụ phong trào dân chủ đêm ngày 19 tháng 11 năm 1977 thay đổi chính trị đường phố Đài Loan
-- [Vụ vụ sinh viên thủ phạm](/history/美麗島事件) — Hai năm sau, một vụ khổng lồ khác của phong trào ngoài đảng, bối cảnh của thời kỳ giết người mà **Hoàng Nữ Cáo** đang sống
+- [Vụ sự Thượng Li](/vi/history/taiwan-elections-and-party-politics) — Vụ phong trào dân chủ đêm ngày 19 tháng 11 năm 1977 thay đổi chính trị đường phố Đài Loan
+- [Vụ vụ sinh viên thủ phạm](/vi/history/kaohsiung-incident-formosa-incident) — Hai năm sau, một vụ khổng lồ khác của phong trào ngoài đảng, bối cảnh của thời kỳ giết người mà **Hoàng Nữ Cáo** đang sống
 - [Chuyển đổi dân chủ Đài Loan](/vi/history/taiwan-democratization) — Các thành viên hội đồng nhân dân tỉnh ngoài đảng như **Hoàng Nữ Cáo** làm sao mở không gian dân chủ trong hệ thống chế độ ác minh
 - [Lê Đăng Phúc](/vi/people/lee-teng-hui) — Tổng thống tỉnh mà **Hoàng Nữ Cáo** hỏi vấn trong giai đoạn 1981-1984, sau đó trở thành tổng thống được bầu chọn của Đài Loan
 - [Lụu Thị Hương Lan](/vi/people/annette-lu) — Một người phụ nữ chính trị ngoài đảng cùng thời đại với **Hoàng Nữ Cáo**, nhưng đi theo con đường hoàn toàn khác

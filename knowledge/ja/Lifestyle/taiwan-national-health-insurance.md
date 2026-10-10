@@ -5,7 +5,7 @@ date: 2026-08-21
 category: 'Lifestyle'
 tags:
   ['全民健保', '医療制度', '社会福祉', '台湾の奇跡', 'デジタル医療', '公衆衛生']
-subcategory: '医療と健康保険'
+subcategory: '醫療與健保'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-21
@@ -15,6 +15,7 @@ curation: 'incubating'
 translatedFrom: 'Lifestyle/全民健保.md'
 sourceCommitSha: '998b8bdb1'
 sourceContentHash: 'sha256:68c1aee34edc608c'
+sourceBodyHash: 'sha256:398cb3fbf9ae9f6e'
 translatedAt: '2026-09-13T22:52:12.373525+00:00'
 ---
 

@@ -25,6 +25,15 @@ readingTime: 16
 lastVerified: 2026-04-26
 lastHumanReview: false
 featured: false
+sporeLinks:
+  - id: 45
+    platform: 'threads'
+    date: '2026-04-26'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXlcWdykVgv'
+  - id: 46
+    platform: 'x'
+    date: '2026-04-26'
+    url: 'https://x.com/taiwandotmd/status/2048290884022850047'
 translatedFrom: People/壞特.md
 sourceCommitSha: 'dd39065b'
 sourceContentHash: 'sha256:2f12f91cbf28ef93'
@@ -327,7 +336,7 @@ Cuando dijo «por favor, no tengan miedo» ante los focos de los Golden Melody, 
 
 [^12]: [Whyte / Way out — Sony Music Taiwan](https://sonymusic.com.tw/album/whyte-way-out/) — Segundo álbum _Way out_, publicado digitalmente el 19 de junio de 2023 y físicamente el 1 de agosto; coproducido por Chen Jun-hao; participación invitada de la cantante Pei-Yu Hung; ese mismo año ganó el premio al Mejor Álbum de Pop Alternativo en la 14.ª edición de los Premios Golden Indie Music; _playlist_ oficial en YouTube: https://www.youtube.com/playlist?list=PLMWGaRkAD1f6fiy__mOshbziceYeMY5Jr
 
-[^13]: [2023 ?te Whyte Live Concert Zepp New Taipei — Klook](https://klook.com/zh-TW/event-detail/101017395-2023-whyte-live-concert-zepp/) — Primer gran concierto con entradas el 11 de agosto de 2023 en el Zepp New Taipei.
+[^13]: [2023 ?te Whyte Live Concert Zepp New Taipei — Klook](https://www.klook.com/zh-TW/event-detail/101017395-2023-whyte-live-concert-zepp/) — Primer gran concierto con entradas el 11 de agosto de 2023 en el Zepp New Taipei.
 
 [^14]: [Nuevo álbum de ?te Whyte: _Boundary_ — VERSE](https://www.verse.com.tw/article/why-te-boundary) — Tercer álbum _Boundary_, publicado el 28 de diciembre de 2025 por Universal Music; ella misma dirigió la planificación, envió más de cien correos de contacto en frío y completó 9 canciones con músicos de 11 países (incluidos el japonés TENDRE, el cantante de soul nigeriano residente en Londres Steven Bamidele y el malasio babychair); un «autorreparatorio» de dos años.
 

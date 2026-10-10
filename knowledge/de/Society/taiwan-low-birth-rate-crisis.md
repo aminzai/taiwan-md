@@ -27,6 +27,7 @@ rationale:
 translatedFrom: 'Society/台灣少子化危機.md'
 sourceCommitSha: 'd96dbc4bb'
 sourceContentHash: 'sha256:5f45c56f4459f40f'
+sourceBodyHash: 'sha256:be7b46d45d345648'
 translatedAt: '2026-09-22T04:41:41.932713+00:00'
 ---
 
@@ -215,11 +216,11 @@ Der Gesang wird leiser, aber solange jemand singt, ist es noch nicht das letzte 
 
 **Weiterführende Lektüre**:
 
-- [Bildung in ländlichen Gebieten Taiwans](/society/台灣偏鄉教育) — Als der Landbau vier Jahrzehnte vor den Städten die Schrumpfung der Bevölkerung erlebte, war die ländliche Schule der erste Ort, an dem dieser Brief ankam.
+- [Bildung in ländlichen Gebieten Taiwans](/de/society/taiwan-rural-education) — Als der Landbau vier Jahrzehnte vor den Städten die Schrumpfung der Bevölkerung erlebte, war die ländliche Schule der erste Ort, an dem dieser Brief ankam.
 - [Bildungssystem und Hochschulbildungskultur](/de/society/education-system-and-admissions-culture) — Der Rückzug der Universitäten und der Absturz der Studierendenzahlen sind untrennbar mit der Art und Weise verbunden, wie die gesamte Gesellschaft „Hochschulbildung“ betrachtet.
 - [Entwicklung des Pflegewesens in Taiwan](/de/society/long-term-care-system-development) — Wenn über 20 % der Bevölkerung älter als 65 Jahre sind und 215.000 Betten durch ausländische Pflegerinnen gestützt werden, ist die Altenpflege eine andere Seite der demografischen Schrumpfung.
 - [Robotikindustrie in Taiwan](/de/technology/taiwan-robotics-industry) — Wenn weniger Menschen unvermeidlich ist, wird die Automatisierung zu einer der Schlüsselantworten für „die Neuorganisation der Produktion inmitten schrumpfender Bevölkerung“.
-- [Expansion und Rückzug der Hochschulbildung in Taiwan](/society/台灣高等教育擴張與退場) — Die Wand der Schrumpfung trifft auf Universitäten: Nachdem 58 Institutionen zu 148 aufgestiegen waren, wie schließen die Schulen und wer trägt die Kosten?
+- [Expansion und Rückzug der Hochschulbildung in Taiwan](/de/society/taiwan-higher-education-expansion-and-decline) — Die Wand der Schrumpfung trifft auf Universitäten: Nachdem 58 Institutionen zu 148 aufgestiegen waren, wie schließen die Schulen und wer trägt die Kosten?
 
 ## Referenzmaterial
 

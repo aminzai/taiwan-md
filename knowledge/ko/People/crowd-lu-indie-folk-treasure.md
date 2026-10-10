@@ -18,12 +18,12 @@ tags:
     인디음악,
   ]
 category: 'People'
-subcategory: '음악과 공연'
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 readingTime: 12
 translatedFrom: 'People/盧廣仲.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:a21c857b64fd8e71'
 sourceBodyHash: 'sha256:090ff0c53b31ba5d'
 translatedAt: '2026-05-16T22:20:00Z'
@@ -128,52 +128,52 @@ lastHumanReview: true
 
 ## 참고 자료
 
-[^1]: [TVBS 뉴스 〈버스에 다리가 치여 기타를 배우다〉](https://news.tvbs.com.tw/entertainment/142363)
+[^1]: [TVBS 뉴스 〈버스에 다리가 치여 기타를 배우다〉](https://news.tvbs.com.tw/entertainment/142363) — 자세한 내용은 링크된 원문 참조
 
-[^2]: [LINE TODAY/Cheers 인터뷰](https://today.line.me/tw/v2/article/yymlqQ)
+[^2]: [LINE TODAY/Cheers 인터뷰](https://today.line.me/tw/v2/article/yymlqQ) — 자세한 내용은 링크된 원문 참조
 
-[^3]: [자유 엔터테인먼트 〈'안녕 아침의 미'는 그를 위해 썼다〉](https://ent.ltn.com.tw/news/breakingnews/2554016)
+[^3]: [자유 엔터테인먼트 〈'안녕 아침의 미'는 그를 위해 썼다〉](https://ent.ltn.com.tw/news/breakingnews/2554016) — 자세한 내용은 링크된 원문 참조
 
-[^4]: [KKBOX 10주년 바이닐 감상회 보도](https://www.kkbox.com/tw/en/column/live_reviews-0-513-1.html)
+[^4]: [KKBOX 10주년 바이닐 감상회 보도](https://www.kkbox.com/tw/en/column/live_reviews-0-513-1.html) — 자세한 내용은 링크된 원문 참조
 
-[^5]: [루관중 위키백과](https://zh.wikipedia.org/zh-tw/%E7%9B%A7%E5%BB%A3%E4%BB%B2)
+[^5]: [루관중 위키백과](https://zh.wikipedia.org/zh-tw/%E7%9B%A7%E5%BB%A3%E4%BB%B2) — 자세한 내용은 링크된 원문 참조
 
-[^6]: [ETtoday 최연소 삼관왕 보도](https://tw.news.yahoo.com/%E6%9C%80%E5%B9%B4%E8%BC%95%E4%B8%89%E9%87%91%E5%BE%97%E4%B8%BB-%E7%9B%A7%E5%BB%A3%E4%BB%B2%E6%9B%BE8%E5%B9%B4%E6%9C%AA%E5%85%A5%E5%9C%8D%E9%87%91%E6%9B%B2%E9%99%B7%E4%BD%8E%E6%BD%AE-012600480.html)
+[^6]: [ETtoday 최연소 삼관왕 보도](https://tw.news.yahoo.com/%E6%9C%80%E5%B9%B4%E8%BC%95%E4%B8%89%E9%87%91%E5%BE%97%E4%B8%BB-%E7%9B%A7%E5%BB%A3%E4%BB%B2%E6%9B%BE8%E5%B9%B4%E6%9C%AA%E5%85%A5%E5%9C%8D%E9%87%91%E6%9B%B2%E9%99%B7%E4%BD%8E%E6%BD%AE-012600480.html) — 자세한 내용은 링크된 원문 참조
 
-[^7]: [Yahoo 뉴스 〈8년간 금곡상 후보에 못 오른 슬럼프〉](https://tw.news.yahoo.com/%E6%9C%80%E5%B9%B4%E8%BC%95%E4%B8%89%E9%87%91%E5%BE%97%E4%B8%BB-%E7%9B%A7%E5%BB%A3%E4%BB%B2%E6%9B%BE8%E5%B9%B4%E6%9C%AA%E5%85%A5%E5%9C%8D%E9%87%91%E6%9B%B2%E9%99%B7%E4%BD%8E%E6%BD%AE-012600480.html)
+[^7]: [Yahoo 뉴스 〈8년간 금곡상 후보에 못 오른 슬럼프〉](https://tw.news.yahoo.com/%E6%9C%80%E5%B9%B4%E8%BC%95%E4%B8%89%E9%87%91%E5%BE%97%E4%B8%BB-%E7%9B%A7%E5%BB%A3%E4%BB%B2%E6%9B%BE8%E5%B9%B4%E6%9C%AA%E5%85%A5%E5%9C%8D%E9%87%91%E6%9B%B2%E9%99%B7%E4%BD%8E%E6%BD%AE-012600480.html) — 자세한 내용은 링크된 원문 참조
 
-[^8]: [ETtoday 〈11일 43만 보〉](https://star.ettoday.net/news/2849807)
+[^8]: [ETtoday 〈11일 43만 보〉](https://star.ettoday.net/news/2849807) — 자세한 내용은 링크된 원문 참조
 
-[^9]: [BIOS Monthly 커버스토리 〈영웅은 그저 집으로 돌아가고 싶었다〉](https://www.biosmonthly.com/article/7666)
+[^9]: [BIOS Monthly 커버스토리 〈영웅은 그저 집으로 돌아가고 싶었다〉](https://www.biosmonthly.com/article/7666) — 자세한 내용은 링크된 원문 참조
 
-[^10]: [티엔이창위에 《격려론》 앨범 소개](https://www.team-ear.com/news_detail.php?id=3047)
+[^10]: [티엔이창위에 《격려론》 앨범 소개](https://www.team-ear.com/news_detail.php?id=3047) — 자세한 내용은 링크된 원문 참조
 
-[^11]: [La Vie 〈7분 제문 원테이크〉](https://www.wowlavie.com/article/ae1701289)
+[^11]: [La Vie 〈7분 제문 원테이크〉](https://www.wowlavie.com/article/ae1701289) — 자세한 내용은 링크된 원문 참조
 
-[^12]: [ETtoday 〈차이전난: 잘했어, 아이야〉](https://star.ettoday.net/news/942036)
+[^12]: [ETtoday 〈차이전난: 잘했어, 아이야〉](https://star.ettoday.net/news/942036) — 자세한 내용은 링크된 원문 참조
 
-[^13]: [위키백과 〈물고기(魚仔)〉](https://zh.wikipedia.org/zh-tw/%E9%AD%9A%E4%BB%94)
+[^13]: [위키백과 〈물고기(魚仔)〉](https://zh.wikipedia.org/zh-tw/%E9%AD%9A%E4%BB%94) — 자세한 내용은 링크된 원문 참조
 
-[^14]: [NOWnews 〈삼관왕 최연소〉](https://www.nownews.com/news/6756330)
+[^14]: [NOWnews 〈삼관왕 최연소〉](https://www.nownews.com/news/6756330) — 자세한 내용은 링크된 원문 참조
 
-[^15]: [위키백과 〈네 심장에 새긴 이름〉 영화](https://zh.wikipedia.org/zh-hant/%E5%88%BB%E5%9C%A8%E4%BD%A0%E5%BF%83%E5%BA%95%E7%9A%84%E5%90%8D%E5%AD%97)
+[^15]: [위키백과 〈네 심장에 새긴 이름〉 영화](https://zh.wikipedia.org/zh-hant/%E5%88%BB%E5%9C%A8%E4%BD%A0%E5%BF%83%E5%BA%95%E7%9A%84%E5%90%8D%E5%AD%97) — 자세한 내용은 링크된 원문 참조
 
-[^16]: [위키백과 〈네 이름을 새겼어〉 노래(영문)](https://en.wikipedia.org/wiki/Your_Name_Engraved_Herein_(song) — )
+[^16]: [위키백과 〈네 이름을 새겼어〉 노래(영문)](https://en.wikipedia.org/wiki/Your_Name_Engraved_Herein_(song) — ): 자세한 내용은 링크된 원문 참조
 
-[^17]: [중앙통신사 〈금마상 57회 최우수 영화 노래〉](https://www.cna.com.tw/news/firstnews/202011210239.aspx)
+[^17]: [중앙통신사 〈금마상 57회 최우수 영화 노래〉](https://www.cna.com.tw/news/firstnews/202011210239.aspx) — 자세한 내용은 링크된 원문 참조
 
-[^18]: [Marie Claire 〈금곡상 수상 소감〉](https://www.marieclaire.com.tw/entertainment/music/59687)
+[^18]: [Marie Claire 〈금곡상 수상 소감〉](https://www.marieclaire.com.tw/entertainment/music/59687) — 자세한 내용은 링크된 원문 참조
 
-[^19]: [HK01 〈최연소 삼관왕〉](https://www.hk01.com/%E9%9B%BB%E5%BD%B1/552069/)
+[^19]: [HK01 〈최연소 삼관왕〉](https://www.hk01.com/%E9%9B%BB%E5%BD%B1/552069/) — 자세한 내용은 링크된 원문 참조
 
-[^20]: [VERSE 매거진 〈삼관왕 이후, 나 자신이 되고 싶다〉](https://www.verse.com.tw/article/chorus-captain-lu)
+[^20]: [VERSE 매거진 〈삼관왕 이후, 나 자신이 되고 싶다〉](https://www.verse.com.tw/article/chorus-captain-lu) — 자세한 내용은 링크된 원문 참조
 
-[^21]: [티엔이창위에 《격려론》 페이지](https://www.team-ear.com/release_detail.php?id=3047)
+[^21]: [티엔이창위에 《격려론》 페이지](https://www.team-ear.com/release_detail.php?id=3047) — 자세한 내용은 링크된 원문 참조
 
-[^22]: [관키엔평론망 〈슬픈 아침 식당〉](https://www.thenewslens.com/article/258748)
+[^22]: [관키엔평론망 〈슬픈 아침 식당〉](https://www.thenewslens.com/article/258748) — 자세한 내용은 링크된 원문 참조
 
-[^23]: [위키백과 〈폭주 형제 순례 여행〉](https://zh.wikipedia.org/zh-tw/%E6%9A%B4%E8%B5%B0%E5%85%84%E5%BC%9F%E6%9C%9D%E8%81%96%E8%B6%A3)
+[^23]: [위키백과 〈폭주 형제 순례 여행〉](https://zh.wikipedia.org/zh-tw/%E6%9A%B4%E8%B5%B0%E5%85%84%E5%BC%9F%E6%9C%9D%E8%81%96%E8%B6%A3) — 자세한 내용은 링크된 원문 참조
 
-[^24]: [Crowd Lu 위키백과(영문)](https://en.wikipedia.org/wiki/Crowd_Lu)
+[^24]: [Crowd Lu 위키백과(영문)](https://en.wikipedia.org/wiki/Crowd_Lu) — 자세한 내용은 링크된 원문 참조
 
-[^25]: [중앙통신사 〈콘서트 추가 개설, 암표상 비판〉](https://www.cna.com.tw/news/amov/202603280214.aspx)
+[^25]: [중앙통신사 〈콘서트 추가 개설, 암표상 비판〉](https://www.cna.com.tw/news/amov/202603280214.aspx) — 자세한 내용은 링크된 원문 참조

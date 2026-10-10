@@ -4,7 +4,7 @@ description: '석판 가옥에서 마천루까지: 한 섬의 건축 시간 여�
 date: 2026-03-28
 category: 'Art'
 tags: ['건축', '문화', '역사', '원주민', '일제시대']
-subcategory: '건축'
+subcategory: '建築'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-28

@@ -13,7 +13,7 @@ tags:
     '美麗島事件',
     '施明德',
   ]
-subcategory: '政治と民主'
+subcategory: '政治與民主'
 category: 'People'
 author: 'Taiwan.md'
 featured: false

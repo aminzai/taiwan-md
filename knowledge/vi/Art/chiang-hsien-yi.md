@@ -23,7 +23,7 @@ tags:
     'trăm năm chùa',
     'Bach',
   ]
-subcategory: 'Nghệ sĩ đương đại'
+subcategory: '當代藝術家'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-22
@@ -279,10 +279,10 @@ Phải mất một tiếng đồng hồ nữa, mặt trời mới trườn lên 
 
 **Đọc tiếp**:
 
-- [Phát triển điêu khắc đương đại Đài Loan](/art/phát-triển-điêu-khắc-đương-đại-đài-loan) — Từ Hoàng Thổ Thủy tới Dương Anh Phong tới cài đặt đương đại, quãng đường trăm năm của sáng tạo ba chiều ở Đài Loan
-- [Giáo dục nghệ thuật và phát triển học viện Đài Loan](/art/giáo-dục-nghệ-thuật-và-phát-triển-học-viện-đài-loan) — Sư Phạm khoa hội họa, Trường cao đẳng nghệ thuật quốc gia, khoa mỹ thuật Đại học Đông Hải, hệ thống đào tạo, nền tảng học viện của Giang Hiền Nhị
-- [Người sắp xếp và xây dựng văn hóa nghệ thuật Đài Loan](/art/người-sắp-xếp-và-xây-dựng-văn-hóa-nghệ-thuật-đài-loan) — Từ Vương Giai Kỳ tới thực hành sắp xếp đương đại, làm thế nào triển lãm hồi cố định hình lại hình ảnh công khai của họa sĩ
-- [Nghệ thuật đương đại](/art/nghệ-thuật-đương-đại) — Bối cảnh phong trào hội họa trừu tượng những năm 1960 Đài Loan, Hội họa tháng năm, Hội họa Phương Đông toàn bộ
+- [Phát triển điêu khắc đương đại Đài Loan](/vi/art/development-of-contemporary-taiwanese-sculpture) — Từ Hoàng Thổ Thủy tới Dương Anh Phong tới cài đặt đương đại, quãng đường trăm năm của sáng tạo ba chiều ở Đài Loan
+- [Giáo dục nghệ thuật và phát triển học viện Đài Loan](/vi/art/taiwanese-art-education-and-academic-development) — Sư Phạm khoa hội họa, Trường cao đẳng nghệ thuật quốc gia, khoa mỹ thuật Đại học Đông Hải, hệ thống đào tạo, nền tảng học viện của Giang Hiền Nhị
+- [Người sắp xếp và xây dựng văn hóa nghệ thuật Đài Loan](/vi/art/taiwanese-curators-and-artistic-cultural-construction) — Từ Vương Giai Kỳ tới thực hành sắp xếp đương đại, làm thế nào triển lãm hồi cố định hình lại hình ảnh công khai của họa sĩ
+- [Nghệ thuật đương đại](/vi/art/contemporary-art) — Bối cảnh phong trào hội họa trừu tượng những năm 1960 Đài Loan, Hội họa tháng năm, Hội họa Phương Đông toàn bộ
 
 ## Hình ảnh các nguồn
 

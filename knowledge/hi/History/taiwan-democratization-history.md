@@ -4,7 +4,7 @@ description: "'18 मार्च 1980 को, हाओसियुंग स�
 date: '2026-03-27'
 author: "'Taiwan.md'"
 category: "'History'"
-subcategory: "'戰後與威權'"
+subcategory: '戰後與威權'
 tags:
   [
     'इतिहास',

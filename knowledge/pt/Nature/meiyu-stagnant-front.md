@@ -3,7 +3,7 @@ title: 'Meiyu: da chuva que inundou Tápuxa-Miao e Taipé em 1981 até o experim
 description: 'Na manhã de 28 de maio de 1981, uma frente de Meiyu explodiu em Tápuxa-Miao e Taipé, com precipitação acima de 140 centímetros em uma área perto de Taipé, resultando em 8 mortos e danos a milhares de casas. Seis anos depois, o projeto TAMEX foi lançado, com mais de 125 cientistas taiwaneses e norte-americanos rastreando a frente com um avião NOAA P-3, três embarcações de monitoramento e três radares doppler. Hoje, essa frente que aparece anualmente em maio e junho continua sendo a fonte de água para 23 milhões de pessoas, mas também o responsável por inundações urbanas.'
 date: 2026-05-02
 category: 'Nature'
-subcategory: 'Proteção ambiental'
+subcategory: '保育與環境'
 tags: ['clima', 'recursos hídricos', 'história científica', 'desastres']
 author: 'Taiwan.md'
 featured: false
@@ -96,8 +96,8 @@ Na próxima vez que seu celular receber um alerta de chuva intensa, lembre-se: �
 
 **Leituras adicionais**
 
-- [Tempestades](/nature/颱風) — Juntamente com a Meiyu, outra estação sazonal de frentes que forma as duas maiores fontes de água da Taiwan, com a mesma dualidade de "abastecimento vs desastre" que a Meiyu
-- [Crise climática e transição para neutralidade carbônica na Taiwan](/nature/台灣氣候危機與淨零轉型) — Como a "chuva de primavera que não vem" e a concentração da Meiyu estão redefinindo os riscos de recursos hídricos e a pressão pela transição energética na Taiwan
+- [Tempestades](/pt/nature/typhoons-in-taiwan) — Juntamente com a Meiyu, outra estação sazonal de frentes que forma as duas maiores fontes de água da Taiwan, com a mesma dualidade de "abastecimento vs desastre" que a Meiyu
+- [Crise climática e transição para neutralidade carbônica na Taiwan](/pt/nature/taiwan-climate-change-net-zero-transition) — Como a "chuva de primavera que não vem" e a concentração da Meiyu estão redefinindo os riscos de recursos hídricos e a pressão pela transição energética na Taiwan
 
 ## Referências
 

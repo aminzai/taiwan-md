@@ -11,7 +11,7 @@ tags:
     'Diễn tập Hán Quang',
     'Giải Kim Mã',
   ]
-subcategory: 'Chế độ xã hội'
+subcategory: '社會制度'
 author: 'Taiwan.md Contributors'
 readingTime: 12
 lastVerified: 2026-07-17
@@ -99,7 +99,7 @@ Chế độ nghĩa vụ quân sự của Đài Loan là một cuộc đối tho�
 ## Đọc thêm
 
 - [Ký ức về doanh trại Hồ Khẩu và đường Thắng Lợi](/vi/history/hukou-camp-shengli-road-memory) — Ký ức thường nhật về không gian quân sự
-- [Học viện Gấu Đen (Black Bear Academy)](/society/黑熊學院) — Phiên bản đương đại của ý thức phòng vệ dân sự
+- [Học viện Gấu Đen (Black Bear Academy)](/vi/society/kuma-academy-civil-defense-school) — Phiên bản đương đại của ý thức phòng vệ dân sự
 
 ## Tài liệu tham khảo
 
@@ -115,7 +115,7 @@ Chế độ nghĩa vụ quân sự của Đài Loan là một cuộc đối tho�
 
 [^6]: [Vocus, "Cẩm nang huấn luyện tân binh: Bảng lịch trình đầy đủ", 2025-11-14.](https://vocus.cc/article/691736a9fd89780001c8de88) — Xem thêm chi tiết trong nội dung liên kết gốc.
 
-[^7]: [CakeResume, "Nghĩa vụ thay thế R&D là gì? Điều kiện đăng ký và FAQ", 2025-06-17.](https://www.cake.me/resources/industry_job_overview/research-development-substitute-services) — Xem thêm chi tiết trong nội dung liên kết gốc.
+[^7]: [CakeResume, "Nghĩa vụ thay thế R&D là gì? Điều kiện đăng ký và FAQ", 2025-06-17.](https://www.cake.me/resources/industry-job-overview/research-development-substitute-services) — Xem thêm chi tiết trong nội dung liên kết gốc.
 
 [^8]: [Cục Nghĩa vụ quân sự Thành phố Đài Bắc, "Có những loại hình nghĩa vụ thay thế nào?", 2024.](https://docms.gov.taipei/News_Content.aspx?n=03317D8229965B64&s=8173F72D6F5CA5E4) — Xem thêm chi tiết trong nội dung liên kết gốc.
 

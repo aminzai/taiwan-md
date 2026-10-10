@@ -16,7 +16,7 @@ tags:
     'chất liệu cao phân tử',
     'doanh nghiệp Đài Nam',
   ]
-subcategory: 'tiểu sử doanh nhân'
+subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
 readingTime: 8
 featured: false

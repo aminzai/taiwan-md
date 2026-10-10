@@ -244,7 +244,7 @@ Setiap panggung adalah tempat ia menegosiasikan dengan "siapa yang mendefinisika
 
 - [Zhang Xuan dan An Pu](/id/music/deserts-chang-and-anpu) — Penyanyi wanita Taiwan lain yang bertransisi dari penyanyi muda menjadi penulis lengkap, sebagai pembanding dua jalur "dari didefinisikan ke mendefinisikan diri sendiri"
 - [Wei Ruxuan](/id/people/waa-wei-singer) — Dua penerima penghargaan penyanyi wanita berbahasa Mandarin terbaik di generasi yang sama, membentuk perbandingan struktural antara "pasar vs akademi" dengan Yang Cheng-lin
-- [Musik Pop Taiwan](/music/台灣流行音樂) — Struktur industri musik pop berbahasa Mandarin dan latar belakang historis penempatan ganda drama idol/penyanyi
+- [Musik Pop Taiwan](/id/music/golden-melodies-legacy-taiwan-pop-music) — Struktur industri musik pop berbahasa Mandarin dan latar belakang historis penempatan ganda drama idol/penyanyi
 - [Budaya KTV Taiwan](/id/music/ktv-culture) — Konteks sosial di mana 〈Ambiguous〉 menjadi raja pemutaran KTV pada tahun 2005, dan peran KTV sebagai titik transmisi musik pop berbahasa Mandarin
 - [Tsai Jianya](/id/people/tanya-chua-singer) — Menulis 〈Kesepian Adalah Rasa Aman〉 (2013) untuk Yang Cheng-lin, dengan identitas ganda pemenang Golden Melody Awards dan produser
 

@@ -259,10 +259,10 @@ Jendela DOS itu tertutup tiga puluh tahun. Tetapi sore itu masih di sana.
 ## Bacaan Lanjutan
 
 - [Taiwan Game Industry and Digital Entertainment](/id/technology/taiwan-gaming-industry) — Dari distribusi hingga pengembangan asli, panorama lengkap industri game Taiwan
-- [Taiwan Open Source Spirit](/technology/台灣開源精神) — Kisah lain dari Taiwan tentang "menciptakan sesuatu yang melampaui skala dengan semangat"
+- [Taiwan Open Source Spirit](/id/technology/taiwan-open-source-spirit) — Kisah lain dari Taiwan tentang "menciptakan sesuatu yang melampaui skala dengan semangat"
 - [No Sleep Without Entering the Cellar](/id/technology/into-the-cellar-taiwan-game-podcast) — Komunitas pemain game Taiwan dari era yang sama berkembang dari BBS menjadi platform dengan 6 juta anggota
 - [Taiwan Gamers' Crazy Moments](/id/technology/taiwan-gamers-wildest-moments) — Setelah Dua Pedang Softstar, pemain Taiwan terus menulis sejarah kegilaan kolektif
-- [Rayark Games](/technology/雷亞遊戲) — Perusahaan game Taiwan generasi berikutnya yang "menempatkan estetika sebagai dasar negara" tetapi mengambil jalan yang sama sekali berbeda dari Softstar
+- [Rayark Games](/id/technology/rayark-games) — Perusahaan game Taiwan generasi berikutnya yang "menempatkan estetika sebagai dasar negara" tetapi mengambil jalan yang sama sekali berbeda dari Softstar
 
 ---
 

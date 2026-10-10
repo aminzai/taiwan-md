@@ -12,7 +12,7 @@ tags:
     'Chiến tranh Thanh-Pháp',
     'Xây dựng điện lực',
   ]
-subcategory: 'Nhân vật lịch sử'
+subcategory: '歷史人物'
 author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 14

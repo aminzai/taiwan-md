@@ -12,14 +12,23 @@ tags:
     'Online Vigilante Justice',
     'World Champion',
   ]
-subcategory: 'Culture and Creation'
+subcategory: '文化與創作'
 author: 'Taiwan.md'
 category: 'People'
 readingTime: 12
 lastVerified: 2026-06-07
 lastHumanReview: false
+sporeLinks:
+  - id: 128
+    platform: 'threads'
+    date: '2026-06-07'
+    url: 'https://www.threads.com/@taiwandotmd/post/DZSRQKnk3Vm'
+  - id: 129
+    platform: 'x'
+    date: '2026-06-07'
+    url: 'https://x.com/taiwandotmd/status/2063604185912987689'
 translatedFrom: 'People/黃山料.md'
-sourceCommitSha: '00939ce5'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:0b1bdd0cdf3b8705'
 sourceBodyHash: 'sha256:a1e88d45df841409'
 translatedAt: '2026-06-16T16:55:29Z'

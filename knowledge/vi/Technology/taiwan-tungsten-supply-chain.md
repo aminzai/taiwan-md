@@ -202,9 +202,9 @@ Sợi wolfram cần đốt lên trên 2.200°C mới sáng lên. Nhiệt độ �
 
 - [半導體產業](/vi/technology/taiwan-semiconductor-industry) — Vị trí của wolfram trong bán dẻt, là một phần nhỏ trong hành trình 50 năm của vật liệu
 - [台灣企業：台積電](/vi/economy/tsmc) — Axit natri wolfram được tách rão tại Đài Loan cuối cùng chảy đến đâu
-- [台灣外貿與全球供應鏈](/economy/台灣外貿與全球供應鏈) — Tình huống lâu dài của Đài Loan đứng trên chuỗi của người khác, đồng thời là khoảng trống
+- [台灣外貿與全球供應鏈](/vi/economy/taiwan-foreign-trade-and-global-supply-chain) — Tình huống lâu dài của Đài Loan đứng trên chuỗi của người khác, đồng thời là khoảng trống
 - [台灣的電力與半導體](/vi/technology/taiwan-electricity-and-semiconductors) — Nguồn lực không đủ, nhưng vẫn đỡ bình minh quốc phòng
-- [台灣機器人產業](/technology/台灣機器人產業) — Bước tiếp theo của dãy chuỗi máy móc chính xú ở đỉnh Nhỏ
+- [台灣機器人產業](/vi/technology/taiwan-robotics-industry) — Bước tiếp theo của dãy chuỗi máy móc chính xú ở đỉnh Nhỏ
 
 ## Nguồn ảnh
 

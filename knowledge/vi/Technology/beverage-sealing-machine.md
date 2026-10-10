@@ -12,7 +12,7 @@ tags:
     'vinh quang Đài Loan',
     'bao gói thực phẩm',
   ]
-subcategory: 'bán dẫn và phần cứng'
+subcategory: '半導體與硬體'
 author: 'Taiwan.md Contributors'
 readingTime: 10
 featured: false
@@ -72,9 +72,9 @@ Vị "anh hùng vô danh" này với một lớp màng keo mỏng, hỗ trợ ng
 
 ## Thư mục mở rộng
 
-- [Văn hóa trà sữa có tay Đài Loan](/vi/food/trà-sữa-có-tay-đài-loan) — Hệ sinh thái văn hóa ẩm thực được hỗ trợ sau khi máy dán màng phổ biến
-- [Trà sữa trân châu](/vi/food/trà-sữa-trân-châu) — Loại thức uống quốc dân Đài Loan cùng bay cao vào những năm 1980 với máy dán màng
-- [Ngành công nghiệp bán dẫn](/vi/technology/bán-dẫn-công-nghiệp) — Con đường thành công khác của ngành sản xuất phần cứng Đài Loan cùng thời kỳ
+- [Văn hóa trà sữa có tay Đài Loan](/vi/food/hand-shaken-drink-culture) — Hệ sinh thái văn hóa ẩm thực được hỗ trợ sau khi máy dán màng phổ biến
+- [Trà sữa trân châu](/vi/food/bubble-tea) — Loại thức uống quốc dân Đài Loan cùng bay cao vào những năm 1980 với máy dán màng
+- [Ngành công nghiệp bán dẫn](/vi/technology/taiwan-semiconductor-industry) — Con đường thành công khác của ngành sản xuất phần cứng Đài Loan cùng thời kỳ
 
 [^1]: Công ty Giới hạn Máy dán Nút Ích Phương. (2021, December 20). 《Một ý tưởng "quá tò mò" giúp mười tỷ người đóng lại hương vị tươm tươi》. Trích từ https://www.yifunggroup.com/tw/article/NEWS-01.html
 

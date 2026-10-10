@@ -12,7 +12,7 @@ tags:
     'Life Otaku',
     'Digital Culture',
   ]
-subcategory: 'Digital and Media'
+subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-15

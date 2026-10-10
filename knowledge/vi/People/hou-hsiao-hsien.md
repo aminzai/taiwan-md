@@ -12,7 +12,7 @@ tags:
     'Thẩm mỹ điện ảnh',
     'Cảnh quay dài',
   ]
-subcategory: 'Điện ảnh và Kịch'
+subcategory: '電影與戲劇'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-24

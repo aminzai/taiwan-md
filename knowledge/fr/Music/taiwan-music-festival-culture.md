@@ -11,7 +11,7 @@ tags:
     'musique indépendante',
     'culture jeune',
   ]
-subcategory: 'Indépendant et rock'
+subcategory: '獨立與搖滾'
 category: 'Music'
 author: 'Taiwan.md'
 featured: true
@@ -19,7 +19,7 @@ readingTime: 10
 lastVerified: 2026-03-29
 lastHumanReview: false
 translatedFrom: 'Music/台灣音樂祭文化.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:05a94f16d833d02e'
 sourceBodyHash: 'sha256:7c772c535d0e1d4c'
 translatedAt: '2026-05-16T22:36:54Z'

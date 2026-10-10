@@ -3,7 +3,7 @@ title: '台湾の劇場と舞台芸術'
 description: '26歳の文学青年が華語世界初の現代ダンスカンパニーを生み出し、京劇俳優たちがシェイクスピアに中国語で語らせた物語'
 date: 2026-03-22
 category: Art
-subcategory: '文学'
+subcategory: '文學'
 tags: ['劇場', '舞台芸術', 'ダンス', '雲門舞集', '當代傳奇劇場']
 lastVerified: 2026-03-22
 lastHumanReview: false

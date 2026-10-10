@@ -24,6 +24,7 @@ readingTime: 25
 translatedFrom: 'History/台灣出國史.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:ad19e9c6bc8bac80'
+sourceBodyHash: 'sha256:2ed834cb9de7de1b'
 translatedAt: '2026-09-23T12:46:21.026525+00:00'
 ---
 

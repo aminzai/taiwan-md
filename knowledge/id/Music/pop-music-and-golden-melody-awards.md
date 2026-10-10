@@ -260,12 +260,12 @@ Selama tiga puluh beberapa tahun, Penghargaan Golden Melody sebenarnya tidak sed
 
 ## Bacaan Lanjutan
 
-- [Musik Pop Taiwan](/music/台灣流行音樂) — Dari industri rekaman hingga era streaming, sejarah kenaikan dan penurunan seluruh industri, Penghargaan Golden Melody adalah satuan ukur resmi pada garis ini
+- [Musik Pop Taiwan](/id/music/golden-melodies-legacy-taiwan-pop-music) — Dari industri rekaman hingga era streaming, sejarah kenaikan dan penurunan seluruh industri, Penghargaan Golden Melody adalah satuan ukur resmi pada garis ini
 - [Evolusi Lagu Taiwan](/id/music/taiwanese-hokkien-song-evolution) — Dari lagu sedih ke arah rock yang ditunjukkan oleh Lin Qiang "Keep Going Forward", bagaimana lagu Taiwan masuk ke pasar utama
 - [Tradisi Musik Pribumi Taiwan](/id/music/indigenous-music-traditions) — Dari lagu suku ke Chen Jian Nian, A Bao, akar dan kontemporer musik pribumi
 - [Penyanyi Pribumi Kontemporer](/id/music/contemporary-indigenous-singer-songwriters) — Suara dan situasi penyanyi seperti Ren Xiao Jun, Bai Nai, A Bao
 - [Musik Independen Taiwan](/id/music/indie-music-scene) — Bagaimana Cao Dong, generasi Jalan Suara melintasi industri rekaman, mencapai panggung tertinggi Golden Melody
-- [Penghargaan Golden Bell](/culture/金鐘獎) — Penghargaan tertua di antara tiga penghargaan: dilahirkan pada tahun 1965 untuk radio, daftar pemenang selama enam puluh satu tahun mencatat televisi di tangan siapa
+- [Penghargaan Golden Bell](/id/culture/golden-bell-awards) — Penghargaan tertua di antara tiga penghargaan: dilahirkan pada tahun 1965 untuk radio, daftar pemenang selama enam puluh satu tahun mencatat televisi di tangan siapa
 
 ## Sumber Gambar
 

@@ -69,9 +69,9 @@ Lin Min-hsiung sagte einst: „Wanfang ist das Wohlfahrtszentrum aller Taiwanese
 - **[Mascot](/de/lifestyle/mascot-culture-in-taiwan)** — Wanfang-Bär und Open: IP-Management für Retail-Mascots
 - **[Kultur der Convenience-Stores in Taiwan](/de/lifestyle/convenience-store-culture)** — Positionen von Wanfang, 7-Eleven und FamilyMart im taiwanesischen Einzelhandel
 - **[Taiwanesische Lieferwirtschaft](/economy/台灣外送經濟)** — Wie Wanfang Express in den Markt von foodpanda / Uber Eats drang
-- **[Taiwanesische mobile Zahlungen](/technology/台灣行動支付)** — Von Wanfang Pay und anderen Tools, Händlerakzeptanz bis Reservegeld: Warum Verbreitung und Allgemeingültigkeit unterschiedlich sind
-- **[Geschichte der taiwanesischen Werbung](/culture/台灣廣告史)** — Die Ökonomie hinter Wanfangs „Wirtschaftsästhetik“: Ogilvy & Mather und der Weg von Aufmerksamkeitsmonopol bis emotionale Werbung
-- **[Unternehmen in Taiwan: Uni-President](/economy/台灣企業：統一企業)** — Uni-President übernimmt Carrefour, Wanfang übernimmt Carrefour: Die andere Seite der Retail-Konsolidierung
+- **[Taiwanesische mobile Zahlungen](/de/technology/taiwan-mobile-payment)** — Von Wanfang Pay und anderen Tools, Händlerakzeptanz bis Reservegeld: Warum Verbreitung und Allgemeingültigkeit unterschiedlich sind
+- **[Geschichte der taiwanesischen Werbung](/de/culture/taiwan-advertising-history)** — Die Ökonomie hinter Wanfangs „Wirtschaftsästhetik“: Ogilvy & Mather und der Weg von Aufmerksamkeitsmonopol bis emotionale Werbung
+- **[Unternehmen in Taiwan: Uni-President](/de/economy/taiwan-enterprise-uni-president)** — Uni-President übernimmt Carrefour, Wanfang übernimmt Carrefour: Die andere Seite der Retail-Konsolidierung
 
 ## Quellen
 

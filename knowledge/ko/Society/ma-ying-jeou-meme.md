@@ -143,9 +143,9 @@ translatedAt: '2026-05-01T20:54:10+08:00'
 
 ## 더 읽어보기
 
-- [마잉주](/people/마잉주) — 밈의 주인공 본전: 양안 교류의 개척자, 22K 세대의 상징, 밈의 이면에 있는 정치적 맥락 이해
-- [타이완 밈](/culture/타이완-밈) — 타이완 밈 생태계 총람: PTT 네티즌 백과, 어른들 이미지(長輩圖), VTuber 등 다양한 밈 유형의 궤적
-- [어른들 이미지](/culture/어른들-이미지) — 정치 밈 전파의 또 다른 경로: LINE 그룹에서 확산되는 시각적 정치 언어
+- [마잉주](/ko/people/ma-ying-jeou-cross-strait-reconciliation-leader) — 밈의 주인공 본전: 양안 교류의 개척자, 22K 세대의 상징, 밈의 이면에 있는 정치적 맥락 이해
+- [타이완 밈](/ko/culture/taiwan-meme-culture) — 타이완 밈 생태계 총람: PTT 네티즌 백과, 어른들 이미지(長輩圖), VTuber 등 다양한 밈 유형의 궤적
+- [어른들 이미지](/ko/culture/elder-greeting-images) — 정치 밈 전파의 또 다른 경로: LINE 그룹에서 확산되는 시각적 정치 언어
 
 ## 참고 출처
 

@@ -30,6 +30,7 @@ rationale:
 translatedFrom: 'Society/公視.md'
 sourceCommitSha: '6b09bda3b'
 sourceContentHash: 'sha256:4db765c86303453e'
+sourceBodyHash: 'sha256:ff708086fed4d9aa'
 translatedAt: '2026-09-24T05:08:52.690941+00:00'
 ---
 
@@ -181,7 +182,7 @@ CPB의 운영 종료 사건은 2025년 1월 대만의 예산 삭감 사태와 �
 - [타이완 애니메이션 외주](/ko/economy/taiwan-creator-economy) — 상업 IP 산업과의 대조, 공영방송이 애니메이션 주제 선택에서 보이는 다른 논리
 - [전통 축제와 기념식](/ko/culture/traditional-festivals-and-celebrations) — 공영방송 다큐멘터리 《기록의 견점》이 타이완 문화 기억 보존에 끼친 장기적 기여
 - [타이완 디자인 연구소](/ko/society/taiwan-design-research-institute) — '비춰진다'는 것과 공공성 사이를 걷는 또 다른 공공 설계 재단법인, 디자인을 정부가 사람들에게 봉사하는 방법으로 전환시킴
-- [진금상](/culture/金鐘獎) — 2000년 《曾經》에서 시작해 제61회 후보에 60개 노출까지, 드라마 프로그램 수상 단위가 어떻게 공영방송, 방송 및 출품 규모의 삼중 신분을 기록하는가
+- [진금상](/ko/culture/golden-bell-awards) — 2000년 《曾經》에서 시작해 제61회 후보에 60개 노출까지, 드라마 프로그램 수상 단위가 어떻게 공영방송, 방송 및 출품 규모의 삼중 신분을 기록하는가
 
 ## 그림 출처
 

@@ -73,8 +73,8 @@ Liu I-ju sagte in einem weiteren Medieninterview: "Früher konnte man die ganze 
 
 **Weiterführende Literatur:**
 
-- [Chiang Kai-shek-Gedächtnispark](/history/中正紀念堂) — Ebenfalls von Yang Chuo-cheng entworfen, ein Gedenkplatz für Chiang Kai-sheks politische Landschaft und Themen der Aufarbeitung der Diktatur
-- [Zeit der Martiallaw](/history/戒嚴時期) — Das 1987 eröffnete Nationaltheater fiel mit dem Ende der Martiallaw in Taiwans Geschichte, das Verständnis des politischen Kontexts hilft, die Bedeutung des Gebäudes zu verstehen
+- [Chiang Kai-shek-Gedächtnispark](/de/history/chiang-kai-shek-memorial-hall) — Ebenfalls von Yang Chuo-cheng entworfen, ein Gedenkplatz für Chiang Kai-sheks politische Landschaft und Themen der Aufarbeitung der Diktatur
+- [Zeit der Martiallaw](/de/history/martial-law-era) — Das 1987 eröffnete Nationaltheater fiel mit dem Ende der Martiallaw in Taiwans Geschichte, das Verständnis des politischen Kontexts hilft, die Bedeutung des Gebäudes zu verstehen
 - [Puppenspiel](/de/culture/taiwanese-glove-puppetry-budaixi) — Eine andere Form taiwanesischer Volkskultur, die neben dem feinen kulturellen Zentrum des Nationaltheaters existiert
 
 ## Quellen

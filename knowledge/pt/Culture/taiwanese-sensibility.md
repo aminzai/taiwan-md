@@ -16,7 +16,7 @@ tags:
     'renovação urbana',
     'Wang Tsung-wei',
   ]
-subcategory: 'Características regionais'
+subcategory: '區域特色'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-07-18
@@ -26,6 +26,11 @@ image: '/article-images/culture/changhua-iron-window-grille-2021.webp'
 imageCredit: 'Outlookxp'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E5%BD%B0%E5%8C%96%E5%B8%82%E4%B8%89%E5%92%8C%E5%A4%A7%E6%97%85%E7%A4%BE%E9%90%B5%E7%AA%97%E8%8A%B1.jpg'
+sporeLinks:
+  - id: 15
+    platform: 'threads'
+    date: '2026-04-08'
+    url: 'https://www.threads.com/@taiwandotmd/post/DW2whskkZot'
 translatedFrom: 'Culture/台灣感性.md'
 sourceCommitSha: '54ed6c788'
 sourceContentHash: 'sha256:01da220d6681931b'
@@ -213,7 +218,7 @@ Desta vez, cabe a nós acertar os números, terminar de contar a história e inc
 - [Cultura das lojas de conveniência em Taiwan](/pt/lifestyle/convenience-store-culture) — As lojas de conveniência iluminadas durante a madrugada são outra faceta da estética cotidiana taiwanesa
 - [Religiões e cultura dos templos em Taiwan](/pt/culture/taiwan-religion-and-temple-culture) — Templos são justamente alguns dos lugares onde o granilite e as grades ornamentais aparecem com frequência
 - [Chou Tzu-yu](/pt/people/tzuyu) — Outro rosto taiwanês frequentemente lembrado no percurso pelo qual os coreanos conheceram Taiwan
-- [Tehching Hsieh](/art/謝德慶) — Artista performático taiwanês que transforma diretamente tempo e vida em obra: outra versão, mais extrema, da sensibilidade taiwanesa
+- [Tehching Hsieh](/pt/art/tehching-hsieh-performance-artist) — Artista performático taiwanês que transforma diretamente tempo e vida em obra: outra versão, mais extrema, da sensibilidade taiwanesa
 
 ## Fontes das imagens
 

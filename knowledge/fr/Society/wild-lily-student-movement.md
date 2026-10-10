@@ -10,7 +10,7 @@ tags:
     'démocratisation',
     'engagement civique',
   ]
-subcategory: 'Démocratie et politique'
+subcategory: '民主與政治'
 category: 'Society'
 author: 'Taiwan.md'
 readingTime: 12

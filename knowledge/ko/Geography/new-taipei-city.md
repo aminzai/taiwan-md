@@ -20,7 +20,7 @@ tags:
     '순환대도시',
     '22현시계열',
   ]
-subcategory: '현과 시'
+subcategory: '縣市'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-18
@@ -32,6 +32,7 @@ imageNote: '原 Wikimedia 圖檔已從 Commons 下架（404 Not Found），卡�
 translatedFrom: 'Geography/新北市.md'
 sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:7893a2743008a706'
+sourceBodyHash: 'sha256:8f043620c961da1e'
 translatedAt: '2026-09-10T10:19:55.154849+00:00'
 ---
 

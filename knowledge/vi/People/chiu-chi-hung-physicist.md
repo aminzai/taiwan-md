@@ -14,7 +14,7 @@ tags:
     'tiếp thị trí tuệ nhân tạo',
     'RMN',
   ]
-subcategory: 'Công nghệ và Kinh doanh'
+subcategory: '科技與企業'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-26

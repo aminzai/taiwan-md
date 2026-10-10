@@ -136,7 +136,7 @@ function Inner() {
                     <div class="flex flex-col items-end gap-1 ml-2">
                       <button
                         type="button"
-                        class="text-xs px-2 py-1 rounded border border-line text-text-secondary hover:border-accent-amber hover:text-accent-amber"
+                        class="text-xs px-2 py-1 rounded-sm border border-line text-text-secondary hover:border-accent-amber hover:text-accent-amber"
                         onClick={(e) => {
                           e.stopPropagation();
                           setOpenLog({
@@ -149,7 +149,7 @@ function Inner() {
                       </button>
                       <button
                         type="button"
-                        class="text-xs px-2 py-1 rounded border border-line text-text-muted hover:border-accent-red hover:text-accent-red disabled:opacity-50"
+                        class="text-xs px-2 py-1 rounded-sm border border-line text-text-muted hover:border-accent-red hover:text-accent-red disabled:opacity-50"
                         disabled={cancelMut.isPending}
                         onClick={(e) => {
                           e.stopPropagation();

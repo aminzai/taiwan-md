@@ -178,9 +178,9 @@ A cor na cuba de tingimento já reviveu. Quanto a como esta cuba de cor vai fina
 
 ## Leituras complementares
 
-- [Artesanato tradicional e patrimônio cultural imaterial de Taiwan](/culture/台灣傳統工藝與無形文化資產) — A posição da revitalização do tingimento com índigo de San-hsia no sistema de preservação do artesanato de Taiwan, e o contexto maior de "sociedade civil faz primeiro, sistema reconhece depois"
+- [Artesanato tradicional e patrimônio cultural imaterial de Taiwan](/pt/culture/traditional-crafts-intangible-cultural-heritage) — A posição da revitalização do tingimento com índigo de San-hsia no sistema de preservação do artesanato de Taiwan, e o contexto maior de "sociedade civil faz primeiro, sistema reconhece depois"
 - [Rua Velha de San-hsia](/pt/history/sanxia-old-street) — História de preservação arquitetônica da Rua Velha de San-hsia; este artigo trata do artesanato em si, aquele trata da rua e sítios históricos
-- [Cultura e língua hakka](/culture/客家文化與語言) — Contexto cultural étnico mais completo por trás da camisa azul hakka, da camisa de grande peito
+- [Cultura e língua hakka](/pt/culture/hakka-culture-and-language) — Contexto cultural étnico mais completo por trás da camisa azul hakka, da camisa de grande peito
 - [Tecido estampado de Taiwan](/pt/culture/taiwan-floral-fabric) — Outro padrão de tingimento e tecelagem que já foi visto como símbolo hakka, depois descobriu-se ter origem mais complexa
 
 ## Fontes das imagens

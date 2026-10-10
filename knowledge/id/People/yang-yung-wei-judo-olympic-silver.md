@@ -149,7 +149,7 @@ Dari perak Tokyo ke nomor satu dunia, dari emas Asiad ke harapan Olimpiade Paris
 
 **Baca Selanjutnya**:
 
-- [Guo Shu-ting](/people/郭婞淳) — Emas angkat besi Olimpiade Tokyo, atlet Taiwan tiga Olimpiade berturut-turut dapat medali
+- [Guo Shu-ting](/id/people/kuo-hsing-chun-olympic-weightlifting-champion) — Emas angkat besi Olimpiade Tokyo, atlet Taiwan tiga Olimpiade berturut-turut dapat medali
 
 ## Referensi
 

@@ -3,7 +3,7 @@ title: '美麗島事件：弾圧のつもりが最大の民主宣伝になった
 description: '1979年12月10日、高雄で起きた衝突と逮捕、そして1980年の公開軍事裁判——反対運動を潰そうとした国民党政府の計算は、完全に裏目に出た'
 date: 2026-03-31
 tags: ['歴史', '民主化', '人権', '党外運動', '戒厳']
-subcategory: '現代歴史'
+subcategory: '現代歷史'
 category: 'History'
 author: 'Taiwan.md'
 readingTime: 14

@@ -249,7 +249,7 @@ _華西街観光夜市。Photo: Wikimedia Commons contributor, [CC BY-SA via Wik
 - [File:2017-06-29 Bangka Qingshan Temple, Wanhua District, Taipei.jpg](https://commons.wikimedia.org/wiki/File:2017-06-29_Bangka_Qingshan_Temple,_Wanhua_District,_Taipei.jpg) — 艋舺青山宮、CC BY-SA
 - [File:Huaxi Street Tourist Night Market 2019.jpg](https://commons.wikimedia.org/wiki/File:Huaxi_Street_Tourist_Night_Market_2019.jpg) — 華西街観光夜市、CC BY-SA
 
-## 參考資料
+## 参考資料
 
 [^1]: [艋舺龍山寺官網 — 參拜資訊](https://www.lungshan.org.tw/tw/) — 龍山寺の開放時間は 6:00-22:00（年中無休）です。毎日早朝 6 時と午後 3 時 45 分に朝夕の読経があり、午前 8 時にも読経共修があります。住所は台北市萬華区広州街 211 号です。
 

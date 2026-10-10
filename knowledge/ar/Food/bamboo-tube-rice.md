@@ -11,7 +11,7 @@ tags:
     'الطعام المستدام',
     'مقارنة دولية',
   ]
-subcategory: 'غذاء الأقليات'
+subcategory: '族群飲食'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-27

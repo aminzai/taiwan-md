@@ -13,14 +13,23 @@ tags:
     'Illegal Immigrant',
     'Pingtung',
   ]
-subcategory: 'Contemporary Art'
+subcategory: '當代藝術'
 author: 'Taiwan.md Contributors'
 category: 'Art'
 readingTime: 16
 lastVerified: 2026-04-20
 lastHumanReview: true
+sporeLinks:
+  - id: 39
+    platform: 'threads'
+    date: '2026-04-20'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXVpBlLk4oE'
+  - id: 40
+    platform: 'x'
+    date: '2026-04-20'
+    url: 'https://x.com/taiwandotmd/status/2046066338138104130'
 translatedFrom: 'Art/謝德慶.md'
-sourceCommitSha: 'd520299b'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:97f19e04671843c8'
 translatedAt: '2026-06-10T16:41:16Z'
 sourceBodyHash: 'sha256:63227fedc7d1144a'

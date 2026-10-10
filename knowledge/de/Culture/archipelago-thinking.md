@@ -232,10 +232,10 @@ Wenn dir das nächste Mal jemand fragt: „Wo gehört Taiwan eigentlich hin?“,
 
 ## Weiterführende Lektüre
 
-- [Taiwanische Geschichtssicht: Wie die von wiederholter Herrschaft beherrschte Insel ihre eigene Subjektivität erfand](/history/台灣島史觀) — Die Insgeschichtsmethodik von Cao Yonghe liefert die historische Grundlage für das „Archipel-Denken“.
+- [Taiwanische Geschichtssicht: Wie die von wiederholter Herrschaft beherrschte Insel ihre eigene Subjektivität erfand](/de/history/taiwan-island-historiography) — Die Insgeschichtsmethodik von Cao Yonghe liefert die historische Grundlage für das „Archipel-Denken“.
 - [Zeitgenössische Kunst der indigenen Völker Taiwans](/de/art/contemporary-indigenous-art-taiwan) — Indigene Völker der Austronesier als lebender Träger des „archipelagischen Kontinuums“, zeitgenössische künstlerische Praxis.
 - [Musikalische Traditionen der indigenen Völker Taiwans](/de/music/indigenous-music-traditions) — Die hohe Korrelation zwischen den Musiktraditionen der 16 Stämme und der Musik der Ozeanien stützt die Theorie des Austronesischen Ursprungs.
-- [Seetraditionsgeschichte Taiwans](/history/台灣海洋貿易史) — Von Jadeobjekten der Beinan bis zur Ära der großen Entdeckungen: Die maritimen Verbindungen Taiwans.
+- [Seetraditionsgeschichte Taiwans](/de/history/taiwan-maritime-trade-history) — Von Jadeobjekten der Beinan bis zur Ära der großen Entdeckungen: Die maritimen Verbindungen Taiwans.
 - [Kulturkarten der 16 indigenen Völker Taiwans](/de/culture/indigenous-peoples-16-tribes-cultural-map) — Die Korrespondenz zwischen den Sprachsystemen der 16 Stämme und den neun primären Zweigen der Austronesier.
 
 ![Mondsteinpfeiler der Beinan-Stätte, ein charakteristisches Relikt der Beinan-Kultur (5300–2300 Jahre alt). In der Beinan-Stätte wurden über 5000 Jadeobjekte gefunden, einige davon später in prähistorischen Stätten auf den Philippinen, in Vietnam und Thailand ausgegraben.](/article-images/culture/beinan-stone-pillar.webp)
@@ -268,7 +268,7 @@ Wenn dir das nächste Mal jemand fragt: „Wo gehört Taiwan eigentlich hin?“,
 
 [^12]: [Pflanzen-DNA schreibt Geschichte! Die Migrationsgeschichte der Austronesier, erzählt durch die Baumpflanze](https://research.sinica.edu.tw/paper-mulberry-dna-austronesian-history-chung-kuo-fang/) — Ein Spezialinterview vom Academia Sinica, das die Forschung des Teams von Chung Kuo-fang zur Unterstützung der „Taiwan-Ursprungshypothese“ aus einer biogeographischen Perspektive mittels Baumpflanzen-DNA vorstellt.
 
-[^13]: [Nusantara (Begriff) - Wikipedia](<https://en.wikipedia.org/wiki/Nusantara_(term)>) — Eine vollständige etymologische Untersuchung des Begriffs Nusantara: _nusa_ (Insel) aus dem alten Javanischen + Lehnwort _antara_ (zwischen) aus dem Sanskrit.
+[^13]: [Nusantara (Begriff) - Wikipedia](https://en.wikipedia.org/wiki/Nusantara_(term) — Eine vollständige etymologische Untersuchung des Begriffs Nusantara: _nusa_ (Insel) aus dem alten Javanischen + Lehnwort _antara_ (zwischen) aus dem Sanskrit.
 
 [^14]: [Majapahit - Wikipedia](https://en.wikipedia.org/wiki/Majapahit) — Der Eintrag zum Majapahit-Reich in Ostjava im 14. Jahrhundert, der den historischen Hintergrund des „Palapa-Eids“ von Gajah Mada im Jahr 1336 enthält.
 

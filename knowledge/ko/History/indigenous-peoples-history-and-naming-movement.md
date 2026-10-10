@@ -3,7 +3,7 @@ title: '타이완 원주민족 역사와 정명운동'
 description: '1987년, 스물도 안 된 쪼우족 청년이 타이베이 형장에서 총살되었다. 그의 죽음이 정명운동의 불씨를 댕겼다.'
 date: 2026-03-29
 category: 'History'
-subcategory: '선사시대와 원주민'
+subcategory: '史前與原住民'
 tags: ['원주민족', '정명운동', '정체성', '사회운동', '문화보존']
 featured: false
 author: 'Taiwan.md'

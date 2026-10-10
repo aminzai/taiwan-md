@@ -4,7 +4,7 @@ description: '究方社創設者・方序中は、1978年に屏東県東港鎮�
 date: 2026-03-19
 author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '藝術とデザイン'
+subcategory: '藝術與設計'
 tags: ['デザイナー', 'ビジュアルアイデンティティ', '金曲奨', '金馬奨', '究方社']
 lastVerified: 2026-05-13
 lastHumanReview: false

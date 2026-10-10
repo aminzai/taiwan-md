@@ -13,7 +13,7 @@ tags:
     'người Mông Cổ',
     'nhà văn',
   ]
-subcategory: 'Văn học'
+subcategory: '文學'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-19

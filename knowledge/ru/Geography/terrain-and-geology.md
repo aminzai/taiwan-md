@@ -4,7 +4,7 @@ description: 'Остров в 6 миллионов лет хранит 200-ми�
 date: 2026-03-23
 author: 'Taiwan.md'
 category: 'Geography'
-subcategory: 'Климат и горячие источники'
+subcategory: '氣候與溫泉'
 tags:
   [
     'география',

@@ -240,7 +240,7 @@ Artikel ini menggunakan 4 gambar, semuanya dicache di `public/article-images/art
 
 ## Bacaan Lebih Lanjut
 
-- [Hou Hsiao-hsien](/people/侯孝賢): Master lensa panjang yang memenangkan Venesia Singa Emas, membawa 228 ke layar besar
+- [Hou Hsiao-hsien](/id/people/hou-hsiao-hsien): Master lensa panjang yang memenangkan Venesia Singa Emas, membawa 228 ke layar besar
 - [Edward Yang](/id/people/yang-dechang): Dua karya masuk Top 100 Sepanjang Masa Sight & Sound pengamat kota
 - [Tsai Ming-liang](/id/people/tsai-ming-liang): Pemenang Venesia Singa Emas, film lambat masuk Louvre
 - [Ang Lee](/id/people/ang-lee): Dari Taiwan menuju Hollywood, dua kali memenangkan Oscar Sutradara Terbaik

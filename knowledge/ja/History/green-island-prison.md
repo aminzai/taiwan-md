@@ -88,7 +88,7 @@ _白色テロ緑島記念園區（旧国防部緑島感訓監獄「緑洲山荘�
 
 - [国家人權博物館](/ja/history/national-human-rights-museum) ―― 緑島園區を管轄する国家機関。新生訓導処から博物館への制度化の過程
 - [台湾白色恐怖](/ja/history/taiwan-white-terror) ―― 38年間の戒厳令下の政治事件の全貌。緑島はその収監と思想改造の中枢であった
-- [戒厳時期](/history/戒厳時期) ―― 1949年から1987年までの法的枠組み
+- [戒厳時期](/ja/history/martial-law-era) ―― 1949年から1987年までの法的枠組み
 - [台湾轉型正義](/ja/history/taiwan-transitional-justice) ―― 判決の撤回と加害者追及という未完の課題
 
 ## 画像出典
@@ -103,7 +103,7 @@ _白色テロ緑島記念園區（旧国防部緑島感訓監獄「緑洲山荘�
 
 [^1]: [https://www.nhrm.gov.tw/](https://www.nhrm.gov.tw/) — 詳しくは元リンク内の資料をご参照ください
 
-[^2]: [Threads. (2026年2月22日). 火焼島。- 政治犯への「刺青運動」の強制. 取得元 [](https://www.threads.com/@ce2_2l/post/DVDp5ZOkzeW/%E7%81%AB%E7%87%92%E5%B3%B61950-%E5%B9%B4%E4%BB%A3%E5%88%9D%E6%9C%9F%E7%9A%84%E6%94%BF%E6%B2%BB%E7%8A%AF%E8%A2%AB%E7%A8%B1%E7%82%BA%E6%96%B0%E7%94%9F%E4%BB%96%E5%80%91%E5%88%B0%E7%B6%A0%E5%B3%B6%E7%9A%84%E7%AC%AC%E4%B8%80%E4%BB%B6%E4%BA%8B%E4%B8%8D%E6%98%AF%E8%A2%AB%E9%97%9C%E8%80%8C%E6%98%AF%E5%BB%BA%E8%A8%AD%E7%95%B6%E6%99%82%E7%9A%84%E7%87%9F%E8%88%8D%E5%9C%8D%E7%89%86%E7%94%9A%E8%87%B3%E6%97%A5%E5%B8%B8%E4%BD%BF%E7%94%A8%E7%9A%84%E9%81%93%E8%B7%AF%E5%A4%A7%E5%A4%9A%E6%98%AF%E6%94%BF%E6%B2%BB%E7%8A%AF%E9%A0%88%E8%91%9B%E7%83%88%E6%97%A5%E5%88%B0%E6%B5%B7%E9%82%8A%E6%90%AC%E9%81%8B%E6%B2%89%E9%87%8D%E7%9A%84%E7%9F%B3%E7%81%B0%E5%B2%A9%E8%88%87%E7%8F%8A%E7%91%9A%E7%A4%81)) — 詳しくは元リンク内の資料をご参照ください
+[^2]: [Threads. (2026年2月22日). 火焼島。- 政治犯への「刺青運動」の強制. 取得元 [](https://www.threads.com/@ce2_2l/post/DVDp5ZOkzeW/%E7%81%AB%E7%87%92%E5%B3%B61950-%E5%B9%B4%E4%BB%A3%E5%88%9D%E6%9C%9F%E7%9A%84%E6%94%BF%E6%B2%BB%E7%8A%AF%E8%A2%AB%E7%A8%B1%E7%82%BA%E6%96%B0%E7%94%9F%E4%BB%96%E5%80%91%E5%88%B0%E7%B6%A0%E5%B3%B6%E7%9A%84%E7%AC%AC%E4%B8%80%E4%BB%B6%E4%BA%8B%E4%B8%8D%E6%98%AF%E8%A2%AB%E9%97%9C%E8%80%8C%E6%98%AF%E5%BB%BA%E8%A8%AD%E7%95%B6%E6%99%82%E7%9A%84%E7%87%9F%E8%88%8D%E5%9C%8D%E7%89%86%E7%94%9A%E8%87%B3%E6%97%A5%E5%B8%B8%E4%BD%BF%E7%94%A8%E7%9A%84%E9%81%93%E8%B7%AF%E5%A4%A7%E5%A4%9A%E6%98%AF%E6%94%BF%E6%B2%BB%E7%8A%AF%E9%A0%82%E8%91%97%E7%83%88%E6%97%A5%E5%88%B0%E6%B5%B7%E9%82%8A%E6%90%AC%E9%81%8B%E6%B2%89%E9%87%8D%E7%9A%84%E7%9F%B3%E7%81%B0%E5%B2%A9%E8%88%87%E7%8F%8A%E7%91%9A%E7%A4%81)) — 詳しくは元リンク内の資料をご参照ください
 
 [^3]: [https://zh.wikipedia.org/zh-tw/%E7%B6%A0%E5%B3%B6%E7%8D%84%E4%B8%AD%E7%B5%84%E7%B9%94%E6%A1%88](https://zh.wikipedia.org/zh-tw/%E7%B6%A0%E5%B3%B6%E7%8D%84%E4%B8%AD%E7%B5%84%E7%B9%94%E6%A1%88) — Wikipedia 項目
 

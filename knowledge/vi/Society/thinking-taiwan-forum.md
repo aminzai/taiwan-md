@@ -13,7 +13,7 @@ tags:
     'Lĩnh vực công cộng',
     'Nền tảng bình luận',
   ]
-subcategory: 'Phương tiện truyền thông'
+subcategory: '媒體'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-05
@@ -147,11 +147,11 @@ Báo Liên Hợp và báo Tự do dùng cùng một sự kiện để đưa ra h
 
 **Đọc thêm**:
 
-- [Thái Anh Văn](/people/蔡英文) — người sáng lập Diễn đàn Tư tưởng Đài Loan, founder Quỹ Giáo dục Tiểu Anh, 2016-2024 tổng thống thứ bảy và tám của Trung Hoa Dân Quốc
-- [Lại Thanh Đức](/people/賴清德) — tổng thống thứ chín của Trung Hoa Dân Quốc tiếp Thái Anh Văn sau khi từ chức, đối tương ẩn thị của báo cáo «nhân xét nặng ký» của báo Liên Hợp khi cải tổ Diễn đàn Tư tưởng Đài Loan tháng 10 năm 2025
-- [Quảng khoa học toàn quốc](/society/泛科學) — cùng là nền tảng thảo luận công cộng, nhưng quảng khoa học toàn quốc chuyển truyền bá khoa học thành phương tiện truyền thông kiến thức, sản phẩm giáo dục và hỗn hợp kinh tế người sáng tạo
-- [Thừa nhận sai lầm khoai tây độc hại](/society/毒馬鈴薯認知作戰) — chủ đề xung đột thông tin Trung Quốc mà cột địa chính địa kinh của Diễn đàn Tư tưởng Đài Loan tiếp tục thảo luận
-- [Chiến lược tâm lý](/history/心戰) — chủ đề xuyên tính của Diễn đàn Tư tưởng Đài Loan / cột tư tưởng chính sách / an toàn
+- [Thái Anh Văn](/vi/people/tsai-ing-wen) — người sáng lập Diễn đàn Tư tưởng Đài Loan, founder Quỹ Giáo dục Tiểu Anh, 2016-2024 tổng thống thứ bảy và tám của Trung Hoa Dân Quốc
+- [Lại Thanh Đức](/vi/people/lai-ching-te) — tổng thống thứ chín của Trung Hoa Dân Quốc tiếp Thái Anh Văn sau khi từ chức, đối tương ẩn thị của báo cáo «nhân xét nặng ký» của báo Liên Hợp khi cải tổ Diễn đàn Tư tưởng Đài Loan tháng 10 năm 2025
+- [Quảng khoa học toàn quốc](/vi/society/pansci) — cùng là nền tảng thảo luận công cộng, nhưng quảng khoa học toàn quốc chuyển truyền bá khoa học thành phương tiện truyền thông kiến thức, sản phẩm giáo dục và hỗn hợp kinh tế người sáng tạo
+- [Thừa nhận sai lầm khoai tây độc hại](/vi/society/poisoned-potato-cognitive-warfare-taiwan) — chủ đề xung đột thông tin Trung Quốc mà cột địa chính địa kinh của Diễn đàn Tư tưởng Đài Loan tiếp tục thảo luận
+- [Chiến lược tâm lý](/vi/history/psychological-warfare) — chủ đề xuyên tính của Diễn đàn Tư tưởng Đài Loan / cột tư tưởng chính sách / an toàn
 
 ## Tài liệu tham khảo
 

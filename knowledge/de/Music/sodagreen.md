@@ -13,7 +13,7 @@ tags:
     'Vivaldi-Projekt',
     'Lin Wei-che',
   ]
-subcategory: 'Indie und Rock'
+subcategory: '獨立與搖滾'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-09
@@ -27,6 +27,7 @@ viewpointFormed: true
 translatedFrom: 'Music/蘇打綠.md'
 sourceCommitSha: 'ac048ecf8'
 sourceContentHash: 'sha256:9cf99b2480b3617d'
+sourceBodyHash: 'sha256:343b0b4aed90195f'
 translatedAt: '2026-09-12T02:40:28.114695+00:00'
 ---
 
@@ -389,11 +390,11 @@ Jener Junge, der in der 12. Klasse den Tian Yun Award gewann und im ersten Studi
 
 **Weiterführende Links**:
 
-- [Cheer Chen und Anpu](/music/張懸與安溥) — Zeitgenössische Indie-Sängerinnen, politische Haltung der unabhängigen Musikszene
-- [Taiwanesische Independent-Musik](/music/台灣獨立音樂) — Ökosystem taiwanesischer Indie-Bands
-- [Taiwanesische Musikfestival-Kultur](/music/台灣音樂祭文化) — Gongliao Ocean Music Festival und Entdeckungsplattform für Indie-Bands
-- [Mayday](/music/五月天) — 1997 gegründete weitere taiwanesische Leitband, Kontrast unterschiedlicher Management-Modelle
-- [Golden Melody Awards](/music/金曲獎) — Kontext der Dominanz von Sodagreen bei den Golden Melody Awards
+- [Cheer Chen und Anpu](/de/music/deserts-chang-and-anpu) — Zeitgenössische Indie-Sängerinnen, politische Haltung der unabhängigen Musikszene
+- [Taiwanesische Independent-Musik](/de/music/indie-music-scene) — Ökosystem taiwanesischer Indie-Bands
+- [Taiwanesische Musikfestival-Kultur](/de/music/taiwan-music-festival-culture) — Gongliao Ocean Music Festival und Entdeckungsplattform für Indie-Bands
+- [Mayday](/de/music/mayday-band) — 1997 gegründete weitere taiwanesische Leitband, Kontrast unterschiedlicher Management-Modelle
+- [Golden Melody Awards](/de/music/pop-music-and-golden-melody-awards) — Kontext der Dominanz von Sodagreen bei den Golden Melody Awards
 
 ---
 

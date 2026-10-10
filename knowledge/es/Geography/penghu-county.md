@@ -19,7 +19,7 @@ tags:
     'Islas del Sur',
     'Serie de 22 condados y ciudades',
   ]
-subcategory: 'Condados y ciudades'
+subcategory: '縣市'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-18
@@ -31,6 +31,7 @@ imageNote: '原圖 Commons 原生解析度僅 291×136（自另一張圖裁切�
 translatedFrom: 'Geography/澎湖縣.md'
 sourceCommitSha: '0ba9d3c9'
 sourceContentHash: 'sha256:2b8d67aa5824f2f2'
+sourceBodyHash: 'sha256:cf2c3e11ea1bbb06'
 translatedAt: '2026-10-03T16:55:52Z'
 ---
 

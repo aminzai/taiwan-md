@@ -4,7 +4,7 @@ description: '1994 debut dengan S.O.S, 2001 meledak di Asia berkat "Meteor Garde
 date: 2026-04-28
 author: 'idlccp1984'
 category: 'People'
-subcategory: 'Film dan Drama'
+subcategory: '電影與戲劇'
 tags:
   - 'Barbie Hsu'
   - 'Da S'

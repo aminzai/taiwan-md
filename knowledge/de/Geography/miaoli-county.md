@@ -33,6 +33,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:2023_Tung_Blossom_Festival
 translatedFrom: 'Geography/苗栗縣.md'
 sourceCommitSha: '8d4f4b434'
 sourceContentHash: 'sha256:3629b92a875681ab'
+sourceBodyHash: 'sha256:240cad04d9fcb9fe'
 translatedAt: '2026-09-25T08:47:19.519147+00:00'
 ---
 

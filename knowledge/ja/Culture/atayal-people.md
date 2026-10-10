@@ -3,7 +3,7 @@ title: 'タイヤル族：紋面が禁止された後、織布はいかにして
 description: '紋面はかつてタイヤル族の成人の印であったが、二十世紀初めに禁止されました。ユーマ・ダルク（尤瑪達陸）と部落の織女たちの根源探求の道から、失伝の危機にある文化がいかに日常の中で新たに成長するのかを見つめます。'
 date: 2026-08-15
 category: 'Culture'
-tags: ['タイヤル族、紋面、染織、gaga、文化復興']
+tags: ['タイヤル族', '紋面', '染織', 'gaga', '文化復興']
 subcategory: '族群文化'
 author: 'Taiwan.md Contributors'
 featured: false

@@ -12,6 +12,7 @@ lastHumanReview: false
 translatedFrom: 'History/日治時期.md'
 sourceCommitSha: '1e674def'
 sourceContentHash: 'sha256:ab038fc6af555335'
+sourceBodyHash: 'sha256:c1f42478c12060a3'
 translatedAt: '2026-08-27T22:17:06+08:00'
 ---
 

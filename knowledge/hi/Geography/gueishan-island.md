@@ -43,6 +43,7 @@ relatedDiary:
 translatedFrom: 'Geography/龜山島.md'
 sourceCommitSha: '47ff13e07'
 sourceContentHash: 'sha256:acb674b180da7910'
+sourceBodyHash: 'sha256:49a1234928ae1d8e'
 translatedAt: '2026-09-19T13:45:32.928670+00:00'
 ---
 

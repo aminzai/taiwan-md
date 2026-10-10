@@ -127,8 +127,8 @@ translatedAt: '2026-09-30T09:01:27+08:00'
 
 ## 관련 읽기
 
-- [리장 제도](/politics/村里長制度) — 7,748명의 민선 수장, 타이완 가장 기초적인 정치 단위는 어떻게 운영되는가
-- [정치기부금 투명성](/politics/政治獻金透明度) — 신고 제도의 설계와 '자기에게 돈을 빌리는' 허점
+- [리장 제도](/ko/politics/village-chief-system) — 7,748명의 민선 수장, 타이완 가장 기초적인 정치 단위는 어떻게 운영되는가
+- [정치기부금 투명성](/ko/politics/political-donation-transparency) — 신고 제도의 설계와 '자기에게 돈을 빌리는' 허점
 - [2026년 구합일 선거](/ko/politics/2026-local-elections-taiwan) — 다음 장부는 이 선거에서 나올 것이다
 
 ## 참고 자료

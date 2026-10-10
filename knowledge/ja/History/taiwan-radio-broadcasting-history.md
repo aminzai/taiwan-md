@@ -4,7 +4,7 @@ description: '1925年の試験放送、日治時代の放送局、戦後の『�
 date: 2026-08-20
 category: 'History'
 tags: ['放送史', 'メディア史', '戒厳', '台湾語', '大衆文化']
-subcategory: 'メディアと社会'
+subcategory: '媒體與社會'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20
@@ -18,6 +18,7 @@ rationale:
 translatedFrom: 'History/台灣廣播史.md'
 sourceCommitSha: '174a83b65'
 sourceContentHash: 'sha256:0b3f5400cfd756f2'
+sourceBodyHash: 'sha256:9b5ab13cba09c99e'
 translatedAt: '2026-09-10T08:49:59.325490+00:00'
 ---
 
@@ -119,11 +120,11 @@ translatedAt: '2026-09-10T08:49:59.325490+00:00'
 
 ## 延伸閱讀
 
-- [台湾婦女運動史](/society/婦女新知) — 制度統制から公共的発声へと向かったもう一つの社会史
-- [台湾郵政史](/lifestyle/台灣郵政) — 通信インフラがいかにローカルの日常へ入り込んだか
-- [台湾農会史](/history/台灣農會史) — 農村組織・金融・ローカルな公共窓口の制度史
+- [台湾婦女運動史](/ja/society/awakening-foundation) — 制度統制から公共的発声へと向かったもう一つの社会史
+- [台湾郵政史](/ja/lifestyle/taiwan-postal-service-history) — 通信インフラがいかにローカルの日常へ入り込んだか
+- [台湾農会史](/ja/history/taiwan-farmers-association-history) — 農村組織・金融・ローカルな公共窓口の制度史
 
-## 參考資料
+## 参考資料
 
 本稿は学術論文、国家档案研究、国立台湾文学館の期刊資料、地方文化組織の活動記録を相互参照して執筆した。放送管制に関わる部分では、植民地政府・戦後党国体制・民営ラジオ局・地下ラジオの資料を分けて扱い、異なる時期の制度を単一の路線へ直接合併しないよう注意した。
 

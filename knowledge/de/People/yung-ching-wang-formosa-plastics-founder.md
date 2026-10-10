@@ -3,7 +3,14 @@ title: 'Wang Yung-ching: Vom Reisladen zur zwanzigjährigen Schlacht um die Sech
 description: 'Geboren am 18. Januar 1917 in Xindian, Taipeh; mit 15 brach Wang Yung-ching die Schule ab und eröffnete mit geliehenem Geld einen Reisladen. 1954 gründete er die Formosa Plastics. 1973 schlug er der Regierung die Sechste Naphtha-Spaltanlage vor; erst nach fast zwanzig Jahren Kampf wurde sie genehmigt, 1998 begann die Massenproduktion in Mailiao, Yunlin. Am 15. Oktober 2008 starb er in den USA im Alter von 92 Jahren – zurück blieb ein Familienstreit um das Erbe, der sich über zehn Jahre hinzog.'
 date: 2026-03-19
 category: 'People'
-tags: ['Unternehmertum', 'Formosa-Plastics-Gruppe', 'Petrochemie', 'Sechste Naphtha-Spaltanlage', 'Unternehmer']
+tags:
+  [
+    'Unternehmertum',
+    'Formosa-Plastics-Gruppe',
+    'Petrochemie',
+    'Sechste Naphtha-Spaltanlage',
+    'Unternehmer',
+  ]
 subcategory: '科技與企業'
 author: 'Taiwan.md'
 featured: false
@@ -101,7 +108,7 @@ Das Kind aus der Bauernfamilie von Xindian 1917, der Mann, der 1998 das größte
 
 Was er hinterließ, ist nicht nur ein Konzern, sondern eine taiwanesische Philosophie des schlanken Managements: Kosten klar ausweisen, Prozesse bis zur Wurzel hinterfragen – und das ein Leben lang wiederholen. Diese Philosophie erzählt in seinen Fabriken, in seinem Krankenhaus und in den Geschichten seines Reisladens immer denselben Satz.
 
-**Weiterführende Lektüre**: [Wang Yung-ching – Wikipedia](https://zh.wikipedia.org/wiki/王永慶) ｜ [Die Sechste Naphtha-Spaltanlage der Formosa Plastics: der entscheidende Wandel der taiwanesischen Petrochemie](https://storystudio.tw/article/gushi/taiwan-plastic-industry) ｜ [尹衍樑：他蓋的科學獎，比諾貝爾還貴 (zh only)](/people/尹衍樑) — Spiegelbild eines taiwanesischen Industrieführers derselben Generation, der zum Philanthropen wurde
+**Weiterführende Lektüre**: [Wang Yung-ching – Wikipedia](https://zh.wikipedia.org/wiki/王永慶) ｜ [Die Sechste Naphtha-Spaltanlage der Formosa Plastics: der entscheidende Wandel der taiwanesischen Petrochemie](https://storystudio.tw/article/gushi/taiwan-plastic-industry) ｜ [尹衍樑：他蓋的科學獎，比諾貝爾還貴 (zh only)](/de/people/samuel-yin-yan-liang) — Spiegelbild eines taiwanesischen Industrieführers derselben Generation, der zum Philanthropen wurde
 
 ## Referenzen
 

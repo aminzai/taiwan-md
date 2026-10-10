@@ -34,6 +34,7 @@ relatedDiary: ['2026-07-16-213425-highered-evolve']
 translatedFrom: 'Society/台灣高等教育擴張與退場.md'
 sourceCommitSha: 'fa44ba5a9'
 sourceContentHash: 'sha256:75def73de8a38979'
+sourceBodyHash: 'sha256:fc5314c473c1914f'
 translatedAt: '2026-09-25T03:52:36.010974+00:00'
 ---
 
@@ -231,8 +232,8 @@ Das Öffnen der Türen hat Taiwan zehn Jahre gedauert. Zu lernen, wie man sie sc
 
 - [Taiwans Geburtenkrise](/de/society/taiwan-low-birth-rate-crisis) — Die demografische Mauer, die die Universitäten umstürzt: wie sie entstand und wohin sie führt
 - [Bildungssystem und Prüfungskultur](/de/society/education-system-and-admissions-culture) — Das enge Tor des Joint College Entrance Examination und der Prüfungswahn: genau das wollte die Massengründung von Universitäten lösen
-- [Bildungsarmut](/society/學習貧窮) — Nach der Ausweitung der Bildungsabschlüsse: wo sich die echte Lernkluft verbirgt
-- [Academia Sinica](/society/中央研究院) — Jene Institution, die weder Studenten rekrutieren noch lehren muss, deren Rechtsgrundlage direkt im Organisationsgesetz des Präsidentenamts steht, und das relative Deprivationsgefühl der Universitäten: „Warum kann gerade sie es sich leisten zu warten?“
+- [Bildungsarmut](/de/society/learning-poverty-in-taiwan) — Nach der Ausweitung der Bildungsabschlüsse: wo sich die echte Lernkluft verbirgt
+- [Academia Sinica](/de/society/academia-sinica) — Jene Institution, die weder Studenten rekrutieren noch lehren muss, deren Rechtsgrundlage direkt im Organisationsgesetz des Präsidentenamts steht, und das relative Deprivationsgefühl der Universitäten: „Warum kann gerade sie es sich leisten zu warten?“
 
 ## Bildquellen
 

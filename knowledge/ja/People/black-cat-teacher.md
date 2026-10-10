@@ -117,7 +117,7 @@ Facebookファンページ設立後、内容は鄉民文化、時事雑談、塾
 - [黒猫先生 X 黒蟲倉庫](https://blackcatteacher.com/) — 黒猫先生の個人サイト。自媒体、歴史語り、Podcast、甲虫・水族等の記事を収録。
 - [黒猫創作報](https://vocus.cc/salon/black_cat_teacher) — 黒猫先生が方格子で運営するクリエイター学習基地。自媒体経営と創作心得を継続整理。
 
-## 參考資料
+## 参考資料
 
 [^1]: [黒猫先生：黒猫先生FB的誕生](https://blackcatteacher.com/blog/post/blackcat-teacher-fb-origin-story) — 作者が一人称で2015年ファンページ設立、塾仕事、フォロワー蓄積、ナチス歴史記事バズりの転機を回顧。人物自述と時系列を提供。
 

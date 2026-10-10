@@ -163,7 +163,7 @@ Jika pada 2050 ada yang ingin tahu apa yang pernah dicoba industri televisi Taiw
 
 **Bacaan Lanjutan**:
 
-- [Penghargaan Golden Bell](/culture/金鐘獎) — Tiga Stasiun Tua mendominasi tujuh belas tahun, PTS dan stasiun kabel masuk nominasi, Netflix hadir, kolom unit pemenang penghargaan acara drama adalah catatan lain dari sejarah industri ini
+- [Penghargaan Golden Bell](/id/culture/golden-bell-awards) — Tiga Stasiun Tua mendominasi tujuh belas tahun, PTS dan stasiun kabel masuk nominasi, Netflix hadir, kolom unit pemenang penghargaan acara drama adalah catatan lain dari sejarah industri ini
 
 ## Referensi
 

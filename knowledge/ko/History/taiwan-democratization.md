@@ -4,7 +4,7 @@ description: '각각의 탄압은 더 많은 저항자를 만든다. 2·28 사�
 date: 2026-03-24
 category: 'History'
 tags: ['민주주의', '전환 정의', '정치사', '인권', '사회운동']
-subcategory: '민주와 거버넌스'
+subcategory: '民主與治理'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-07

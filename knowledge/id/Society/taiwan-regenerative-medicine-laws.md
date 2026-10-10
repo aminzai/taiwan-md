@@ -273,10 +273,10 @@ Setiap Oktober, seorang wanita tua dari Hungaria pernah menyalakan radio untuk m
 
 **Bacaan Lanjutan**:
 
-- [Sistem Kesehatan Publik dan Pencegahan Taiwan](/society/台灣公共衛生與防疫體系) — Konteks lengkap sistem pencegahan Taiwan selama COVID-19; pembelian BNT oleh artikel ini adalah bagian darinya
-- [Hukum Medis](/society/醫療法) — Dua Metode Pengobatan Regeneratif adalah hukum khusus yang terpisah dari Hukum Medis; Hukum Medis adalah dasar regulasi medis institusi di Taiwan
+- [Sistem Kesehatan Publik dan Pencegahan Taiwan](/id/society/taiwan-public-health-epidemic-response) — Konteks lengkap sistem pencegahan Taiwan selama COVID-19; pembelian BNT oleh artikel ini adalah bagian darinya
+- [Hukum Medis](/id/society/medical-care-act) — Dua Metode Pengobatan Regeneratif adalah hukum khusus yang terpisah dari Hukum Medis; Hukum Medis adalah dasar regulasi medis institusi di Taiwan
 - [Perkembangan Industri Bioteknologi Taiwan](/technology/台灣生技產業發展) — Konteks keseluruhan bioteknologi dari penelitian ke industri, terapi sel dan platform mRNA adalah cabang darinya
-- [Kesehatan dan Asuransi Nasional Taiwan](/lifestyle/台灣醫療與全民健保) — Apakah terapi sel dapat dimasukkan dalam manfaat asuransi nasional adalah kunci visi "Bank Sel Asia"; struktur anggaran total asuransi juga menentukan jalur komersialisasi pengobatan regeneratif
+- [Kesehatan dan Asuransi Nasional Taiwan](/id/lifestyle/taiwan-healthcare-and-national-health-insurance) — Apakah terapi sel dapat dimasukkan dalam manfaat asuransi nasional adalah kunci visi "Bank Sel Asia"; struktur anggaran total asuransi juga menentukan jalur komersialisasi pengobatan regeneratif
 - [Industri Medis Taiwan](/economy/台灣醫療產業) — Sisi industri manufaktur obat baru dan CDMO, melengkapi perspektif kepatuhan artikel ini
 
 ## Sumber Gambar

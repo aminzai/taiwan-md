@@ -30,6 +30,7 @@ relatedDiary: ['2026-06-14-013210-呂冠緯-evolve']
 translatedFrom: 'People/呂冠緯.md'
 sourceCommitSha: '0bedbf853'
 sourceContentHash: 'sha256:8eb31268ec4f6e73'
+sourceBodyHash: 'sha256:5b5dbb7b472ae1b0'
 translatedAt: '2026-09-21T22:09:59.167882+00:00'
 ---
 
@@ -250,7 +251,7 @@ Dieser Artikel verwendet 3 frei lizenzierte Bilder und 3 Videos, die alle von Ju
 - [Yeh Ping-cheng](/de/people/yeh-ping-cheng-education-innovator): PaGamO verwandelt Hausaufgaben in Monsterjagd, eine weitere gamifizierte Bildungsinnovation
 - [Huang Kuo-chen](/de/people/huang-kuo-chen): Pinxuetang und „Leseverständnis“, das Wissen zu lesen zu einer Kunstform machen
 - [Liu An-ting](/de/people/liu-an-ting-teach-for-taiwan): Lehren für Taiwan (TFT), zwei Jahre, in denen junge Menschen in abgelegene Schulen geschickt wurden
-- [Yan Chang-shou](/people/嚴長壽): Vom Tourismuspatron zur Bildung in ländlichen Gebieten, Junyi leiht ihm seinen Namen
+- [Yan Chang-shou](/de/people/stanley-yen): Vom Tourismuspatron zur Bildung in ländlichen Gebieten, Junyi leiht ihm seinen Namen
 
 ## Quellenangaben
 

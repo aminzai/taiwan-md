@@ -131,7 +131,7 @@ Quem perdeu quatro cento milhões de dólares fala essa frase com peso em cada p
 ## Leituras adicionais
 
 - [A indústria de jogos da Taiwan e o entretenimento digital](/pt/technology/taiwan-gaming-industry) — Panorama da Taiwan, de agentes a inovação
-- [Dois Espadas](/technology/大宇雙劍) — A formação emocional dos jogos RPG da Taiwan, antes da Chuanqi
+- [Dois Espadas](/pt/technology/softstar-twin-classics) — A formação emocional dos jogos RPG da Taiwan, antes da Chuanqi
 - [Não pode dormir sem entrar na cova](/pt/technology/into-the-cellar-taiwan-game-podcast) — Trinta anos da comunidade de jogos da Taiwan
 
 ---

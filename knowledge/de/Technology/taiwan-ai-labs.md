@@ -74,9 +74,9 @@ Während der Pandemie ab 2020 entwickelte Taiwan AI Labs in Zusammenarbeit mit d
 
 ## Weiterführende Lektüre
 
-- [Miin: Du Yijin lehrt KI, Windrichtungskonten zu erkennen, wird aber selbst wegen Diebstahls beschuldigt](/technology/迷音Miin) — Das Flaggschiffprodukt des Labs für die Öffentlichkeit; es nutzt KI zur Erkennung koordinierten Verhaltens und geriet Ende 2025 in einen Urheberrechtsstreit aufgrund der Aggregation von Nachrichten.
-- [Taiwanische KI-Entwicklung und zukünftige Strategie: Von den zwei Nobelpreisen 2024 zum Nachtmarkt von Ningxia](/technology/台灣人工智慧發展與未來策略) — Setzt Taiwan AI Labs in das Gesamtbild aus Hardware-Hegemonie und den zwei Nobelpreisen von 2024, um die Distanz zwischen TAIDE und der Grundlagenforschung der globalen KI zu beleuchten.
-- [Warum Taiwan seine eigenen Wissensdatenbanken braucht](/about/為什麼台灣需要自己的知識庫) — Die andere Seite der selbstgebauten KI-Fähigkeiten in der Zivilgesellschaft: Der Mangel an Trainingskorpora für Modelle und die messbare Ablehnung von Themen durch KI bezüglich Taiwans.
+- [Miin: Du Yijin lehrt KI, Windrichtungskonten zu erkennen, wird aber selbst wegen Diebstahls beschuldigt](/de/technology/miin-music-app) — Das Flaggschiffprodukt des Labs für die Öffentlichkeit; es nutzt KI zur Erkennung koordinierten Verhaltens und geriet Ende 2025 in einen Urheberrechtsstreit aufgrund der Aggregation von Nachrichten.
+- [Taiwanische KI-Entwicklung und zukünftige Strategie: Von den zwei Nobelpreisen 2024 zum Nachtmarkt von Ningxia](/de/technology/artificial-intelligence-development-strategy) — Setzt Taiwan AI Labs in das Gesamtbild aus Hardware-Hegemonie und den zwei Nobelpreisen von 2024, um die Distanz zwischen TAIDE und der Grundlagenforschung der globalen KI zu beleuchten.
+- [Warum Taiwan seine eigenen Wissensdatenbanken braucht](/de/about/why-taiwan-needs-its-own-knowledge-base) — Die andere Seite der selbstgebauten KI-Fähigkeiten in der Zivilgesellschaft: Der Mangel an Trainingskorpora für Modelle und die messbare Ablehnung von Themen durch KI bezüglich Taiwans.
 - [Offizielle Website von Taiwan AI Labs](https://ailabs.tw/)
 - [Du Yijin – Wikipedia](https://zh.wikipedia.org/zh-tw/杜奕瑾)
 - [BNext: Du Yijin gründet KI-Lab in Taiwan](https://www.bnext.com.tw/article/44267/founder-of-ptt-ethan-tu-back-to-taiwan-to-establish-an-ai-lab)

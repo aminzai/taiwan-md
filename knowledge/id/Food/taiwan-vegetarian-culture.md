@@ -107,7 +107,7 @@ Sejak 2024, daging buatan dan daging yang dibudidayakan telah memasuki tahap kom
 ## Bacaan Lanjutan
 
 - [台灣宗教與寺廟文化](/id/culture/taiwan-religion-and-temple-culture) — Konteks religius tradisi vegetarian Buddhis dan peran kantin kuil dalam budaya pangan
-- [台灣早餐文化](/food/台灣早餐文化) — Vegetarian pancake, susu kedelai, roti bakar sudah menjadi pilihan standar sarapan Taiwan
+- [台灣早餐文化](/id/food/taiwan-breakfast-culture) — Vegetarian pancake, susu kedelai, roti bakar sudah menjadi pilihan standar sarapan Taiwan
 - [台灣食品科技產業](/technology/台灣食品科技產業) — Latar belakang teknologi dan industri dari teknologi daging nabati simulasi
 
 ## Sumber Gambar

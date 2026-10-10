@@ -5,7 +5,7 @@ date: 2026-03-18
 category: 'Lifestyle'
 tags:
   ['parques', 'lazer', 'cultura social', 'intergeracional', 'vida cotidiana']
-subcategory: 'Lazer e Entretenimento'
+subcategory: '休閒與娛樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19

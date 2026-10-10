@@ -5,7 +5,7 @@ date: 2026-03-20
 category: 'Economy'
 tags:
   ['Ekonomi', 'Perusahaan', 'Industri Teknologi', 'VR', 'Smartphone', 'Inovasi']
-subcategory: 'Profil Perusahaan'
+subcategory: '企業列傳'
 author: 'Taiwan.md'
 readingTime: 9
 featured: false
@@ -14,6 +14,7 @@ lastHumanReview: true
 translatedFrom: 'Economy/台灣企業：宏達電.md'
 sourceCommitSha: '0df538d8c'
 sourceContentHash: 'sha256:5886f28be6aca797'
+sourceBodyHash: 'sha256:6bb6fbebdcab1fd8'
 translatedAt: '2026-09-12T14:03:28.856759+00:00'
 ---
 
@@ -133,7 +134,7 @@ Di era penuh ketidakpastian ini, kisah HTC memberitahu kita: selama mempertahank
 
 ## Bacaan Lanjutan
 
-- [Kisah Teknologi Taiwan: Chip 100 Poin, Mikrofon 60 Poin](/technology/台灣科技說故事) — Mengapa Quietly Brilliant Kalah dari Lawan yang Jago Bercerita, Pelajaran HTC Ditulis Menjadi Seluruh Artikel
+- [Kisah Teknologi Taiwan: Chip 100 Poin, Mikrofon 60 Poin](/id/technology/taiwan-tech-storytelling) — Mengapa Quietly Brilliant Kalah dari Lawan yang Jago Bercerita, Pelajaran HTC Ditulis Menjadi Seluruh Artikel
 
 ## Referensi
 

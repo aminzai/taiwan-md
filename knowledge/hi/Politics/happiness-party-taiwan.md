@@ -13,7 +13,7 @@ tags:
     'झांग झीकी',
     'चेन ज़िजियान',
   ]
-subcategory: 'राजनीतिक संस्कृति'
+subcategory: '政治文化'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16
@@ -23,6 +23,7 @@ curation: 'incubating'
 translatedFrom: 'Politics/歡樂無法黨.md'
 sourceCommitSha: '418bd3410'
 sourceContentHash: 'sha256:4daf4700307c5c6d'
+sourceBodyHash: 'sha256:871a0c07dcb1e28f'
 translatedAt: '2026-09-12T01:32:09.947996+00:00'
 ---
 

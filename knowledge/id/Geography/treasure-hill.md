@@ -215,10 +215,10 @@ Treasure Hill tidak dibongkar karena terlalu banyak orang yang mencegahnya untuk
 **Bacaan Lanjutan**:
 
 - [Taipei: Tiga Waktu dalam Satu Kota, Kuil Longshan pada Tahun 1738 Melihat 101 pada Tahun 2004](/id/geography/taipei-city) — Posisi Treasure Hill di Distrik 12 berdampingan dengan tiga garis waktu Wanhua, Dadao, dan Xinyi.
-- [Pengembangan Kawasan Kreatif Budaya Taiwan](/culture/台灣文化創意園區發展) — Bandingkan Treasure Hill dengan kasus studi Taiwan seperti Desa Veteran/Situs Industri ke Budaya di Qisixian, Huashan, dan Songyan.
-- [Dadao: Taipei yang Mengemas Tiga Abad dalam 800 Meter](/geography/大稻埕) — Saudara kawasan bersejarah batch 1; jalan komersial teh tahun 1851 dan permukiman ilegal era 1960-an adalah dua "momen pembentukan kota" yang sama sekali berbeda.
-- [Wanhua: Tempat Paling Hidup di Taipei Era Qing](/geography/艋舺) — Saudara batch 1; lanskap keagamaan Kuil Longshan tahun 1738 dan Kuil Guanyin Treasure Hill tahun 1791 adalah pusat keagamaan imigran Zhang-Quanzhou yang sezaman.
-- [Ximen Town: Jalan Hiburan yang Dibangun oleh Jepang pada Tahun 1896](/geography/西門町) — Saudara batch 1; zona hiburan perencanaan era Jepang vs permukiman ilegal pembangunan mandiri pasca-perang adalah kontras dari "orang yang tidak terlihat oleh perencanaan kota."
+- [Pengembangan Kawasan Kreatif Budaya Taiwan](/id/culture/taiwan-cultural-creative-park-development) — Bandingkan Treasure Hill dengan kasus studi Taiwan seperti Desa Veteran/Situs Industri ke Budaya di Qisixian, Huashan, dan Songyan.
+- [Dadao: Taipei yang Mengemas Tiga Abad dalam 800 Meter](/id/geography/dadaocheng) — Saudara kawasan bersejarah batch 1; jalan komersial teh tahun 1851 dan permukiman ilegal era 1960-an adalah dua "momen pembentukan kota" yang sama sekali berbeda.
+- [Wanhua: Tempat Paling Hidup di Taipei Era Qing](/id/geography/bangka) — Saudara batch 1; lanskap keagamaan Kuil Longshan tahun 1738 dan Kuil Guanyin Treasure Hill tahun 1791 adalah pusat keagamaan imigran Zhang-Quanzhou yang sezaman.
+- [Ximen Town: Jalan Hiburan yang Dibangun oleh Jepang pada Tahun 1896](/id/geography/ximending) — Saudara batch 1; zona hiburan perencanaan era Jepang vs permukiman ilegal pembangunan mandiri pasca-perang adalah kontras dari "orang yang tidak terlihat oleh perencanaan kota."
 - [Gongguan](/id/geography/gongguan) — Lingkungan konsumsi akademisi di utara sejauh 800 meter, merupakan ekologi ruang yang sama sekali berbeda dari permukiman ilegal Treasure Hill di sekitar NTU.
 
 ## Sumber Gambar

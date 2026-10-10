@@ -153,7 +153,7 @@ Aujourd'hui, lorsque nous contemplons à nouveau ces pivoines éclatantes, ces c
 
 **Pour aller plus loin** :
 
-- [Teinture indigo](/fr/culture/indigo-dyeing) — un autre artisanat de teinture textile autrefois simplifié en symbole ethnique unique, dont on a ensuite découvert que les origines étaient plus complexes
+- [Teinture indigo](/fr/culture/taiwan-indigo-dyeing) — un autre artisanat de teinture textile autrefois simplifié en symbole ethnique unique, dont on a ensuite découvert que les origines étaient plus complexes
 - [Artisanat traditionnel taïwanais et patrimoine culturel immatériel](/fr/culture/traditional-crafts-intangible-cultural-heritage) — le contexte institutionnel de préservation de l'artisanat auquel le tissu floral et la teinture indigo sont tous deux confrontés
 
 ## Références

@@ -13,7 +13,7 @@ tags:
     'Lee Teng-hui',
     'Industri Sapi Daging',
   ]
-subcategory: 'Sosial dan Sejarah Sehari-hari'
+subcategory: '社會與日常史'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-25
@@ -174,7 +174,7 @@ Ini adalah sebuah pulau yang menemukan celah dalam rantai pasok daging global. C
 - [Agriharvest: Mengatasi Persaingan Daging Impor, Peta Jalan Sapi Daging Domestik](https://www.agriharvest.tw/archives/125578)（Statistik Kementerian Pertanian, 2025）
 - [United Daily News/Zhongwan Magazin: Analisis Tingkat Kemandirian Daging Sapi Domestik dan Sumber Impor](https://udn.com/news/story/123535/8760486)（Statistik Kementerian Pertanian, 2025）
 - [12 Foodie: Apa yang Tidak Kamu Ketahui tentang Sapi Hangat, Rahasia Rasa Sup Daging Tainan](https://www.12foody.com.tw/blog/posts/beef-07)（Konteks Budaya Makanan）
-- [Mountain Cloud Blog: Dari Peternakan ke Meja—Rantai Pasok Sup Daging Tainan](https://catdrawer.blog/2018/07/07/%E5%8F%B0%E5%8D%97%E7%89%9B%E8%82%89%E6%B9%AF%E3%80%80%E5%BE%9E%E5%B1%A0%E5%AE%B5%E5%A0%B4%E5%88%B0%E9%A4%90%E6%A1%8C%E9%80%99%E6%AE%B5%E8%B7%AF/)（Laporan Mendalam Rantai Pemotongan）
+- [Mountain Cloud Blog: Dari Peternakan ke Meja—Rantai Pasok Sup Daging Tainan](https://catdrawer.blog/2018/07/07/%E5%8F%B0%E5%8D%97%E7%89%9B%E8%82%89%E6%B9%AF%E3%80%80%E5%BE%9E%E5%B1%A0%E5%AE%B0%E5%A0%B4%E5%88%B0%E9%A4%90%E6%A1%8C%E9%80%99%E6%AE%B5%E8%B7%AF/)（Laporan Mendalam Rantai Pemotongan）
 - [Tainan Travel网: Pengenalan Pusat Pemrosesan Saihua](https://www.twtainan.net/zh-tw/attractions/detail/5603/)（Latar Belakang Budaya Resmi）
 - [Kunjukan Yuan-Xing Ju Bioteknologi](https://ggp.com.tw/)（Data Sumber Langsung）
 - [Zeczec: Rencana Pemeliharaan Sapi Yuan-Xing](https://www.zeczec.com/projects/Tw-Ag-Mou)（Narasi Merek dan Informasi Produk）

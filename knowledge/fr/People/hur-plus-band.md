@@ -25,6 +25,7 @@ readingTime: 14
 translatedFrom: 'People/HUR-plus.md'
 sourceCommitSha: '9cef725ce'
 sourceContentHash: 'sha256:fdd5821ca0875f61'
+sourceBodyHash: 'sha256:396a9fed148c94a2'
 translatedAt: '2026-09-19T21:48:16.377642+00:00'
 ---
 

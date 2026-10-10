@@ -65,7 +65,7 @@ Quizá algún día la reina incline la cabeza y se despida. Pero hasta entonces,
 
 ### Referencias
 
-[^1]: [El pescador heroico Lin Tian-zhen de Yehliu, rescató a otro a costa de su vida, incluido en los libros de texto nacionales](https://time.udn.com/udnhime/story/122833/7805077) — UDN Tiempo: columna de UDN Tiempo
+[^1]: [El pescador heroico Lin Tian-zhen de Yehliu, rescató a otro a costa de su vida, incluido en los libros de texto nacionales](https://time.udn.com/udntime/story/122833/7805077) — UDN Tiempo: columna de UDN Tiempo
 
 [^2]: [Cabo del diablo — Sitio web oficial del parque geológico de Yehliu](https://www.ylgeopark.org.tw/YehliuKnowledgeView/PuntoDiablos) — Parque geológico de Yehliu: véase el contenido del enlace original
 

@@ -112,8 +112,8 @@ Die Art der Friseurstätten ist selbst ein Mikrokosmos: Vom traditionellen Meist
 
 ## Weiterführende Lektüre
 
-- [Motorradkultur Taiwans](/lifestyle/台灣機車文化) — Der A-Chi-Kopf in Kombination mit eng anliegender Kleidung und Yamaha BWS ist ein klassisches Set auf den Straßen Taiwans.
-- [Convenience Store Kultur Taiwans](/lifestyle/台灣便利商店文化) — Die Standortlogik des Hundert-Yuan-Schnellschnitts ähnelt der Dichte von Convenience Stores.
+- [Motorradkultur Taiwans](/de/lifestyle/taiwan-scooter-culture) — Der A-Chi-Kopf in Kombination mit eng anliegender Kleidung und Yamaha BWS ist ein klassisches Set auf den Straßen Taiwans.
+- [Convenience Store Kultur Taiwans](/de/lifestyle/convenience-store-culture) — Die Standortlogik des Hundert-Yuan-Schnellschnitts ähnelt der Dichte von Convenience Stores.
 
 ## Referenzen
 

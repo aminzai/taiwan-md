@@ -32,6 +32,7 @@ sporeLinks:
 translatedFrom: 'Technology/海底電纜.md'
 sourceCommitSha: '5ff155c10'
 sourceContentHash: 'sha256:1867ed080d284a4e'
+sourceBodyHash: 'sha256:1790c4ef1b7a9b20'
 translatedAt: '2026-09-24T17:13:38.343388+00:00'
 ---
 
@@ -198,8 +199,8 @@ Deshalb trägt das Gebäude 506 kein Schild.
 
 ## Weiterführende Literatur
 
-- [The Reporter: Zehn Jahre, in denen investigativer Journalismus vom Geschäftsmodell zum Gemeingut gerettet wurde](/society/報導者) — Ein weiteres Fallbeispiel, das sich ebenfalls mit der Glaubwürdigkeit der taiwanesischen Zivilgesellschaft und Infrastruktur nach 2015 befasst
-- [Taiwanesische New-Media-Kunst](/art/台灣新媒體藝術) — Ebenfalls eine digitale kulturelle Infrastruktur, die vom Internet getragen wird, das unter den Seekabeln verläuft
+- [The Reporter: Zehn Jahre, in denen investigativer Journalismus vom Geschäftsmodell zum Gemeingut gerettet wurde](/de/society/the-reporter-investigative-journalism) — Ein weiteres Fallbeispiel, das sich ebenfalls mit der Glaubwürdigkeit der taiwanesischen Zivilgesellschaft und Infrastruktur nach 2015 befasst
+- [Taiwanesische New-Media-Kunst](/de/art/taiwan-new-media-art) — Ebenfalls eine digitale kulturelle Infrastruktur, die vom Internet getragen wird, das unter den Seekabeln verläuft
 - [Soziale Bewegungen und bürgerliche Teilhabe](/de/society/social-movements-and-civic-participation) — Der größere Kontext, der mit dem legislativen Druck der Zivilgesellschaft im Zusammenhang mit den sieben Seekabelgesetzen und lokalen Reaktionsplattformen steht
 - [justfont und die Entwicklung taiwanesischer Schriftarten](/de/technology/justfont-and-taiwan-typography) — Eine weitere Achse, die ebenfalls die Dimension der „kulturellen Infrastruktur“ veranschaulicht
 

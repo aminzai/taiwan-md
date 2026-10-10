@@ -14,7 +14,7 @@ tags:
     'Media Mandiri',
     'Ekonomi Kreator',
   ]
-subcategory: 'Digital dan Media'
+subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-17
@@ -33,6 +33,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Intermediapost_Recording_S
 translatedFrom: 'People/這群人.md'
 sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:6757eecf44fc9b6a'
+sourceBodyHash: 'sha256:8f9570ec5e03bedf'
 translatedAt: '2026-09-09T22:18:48.465100+00:00'
 ---
 

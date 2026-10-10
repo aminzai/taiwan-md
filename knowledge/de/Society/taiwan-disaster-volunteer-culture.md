@@ -185,7 +185,7 @@ Die nächste Katastrophe wird kommen. Der Bahnsteig des Bahnhofs Guangfu wird wi
 - [Zeitgenössische indigene Künstler](/de/music/contemporary-indigenous-singer-songwriters) — Wie indigene Musiker wie Chen Jiannian und Hu Defu die Erfahrungen der Gemeinschaften in die Klanglandschaft des modernen Taiwan integrieren
 - [Taiwanesische Freiwilligenkultur und gemeinnützige Beteiligung](/de/society/volunteering-and-civic-charity-in-taiwan) — Die Ökologie der taiwanesischen Zivilgesellschaft von Tzu-Chi bis zu unzähligen kleinen NGOs
 - [Indigene Mythen](/de/culture/taiwan-indigenous-mythology) — Das Motiv der Flut in den Schöpfungsmythen von Matai'an, Taroko und Paiwan und die geografische Erinnerung der Insel Taiwan
-- [Landgerechtigkeit und traditionelle Gebiete der indigenen Völker Taiwans](/society/台灣原住民族土地正義與傳統領域) — Die Subjektivität der Gemeinschaften bei der Selbstverwaltung, der Festlegung traditioneller Gebiete und dem Wiederaufbau nach Katastrophen
+- [Landgerechtigkeit und traditionelle Gebiete der indigenen Völker Taiwans](/de/society/indigenous-land-justice-and-traditional-territories) — Die Subjektivität der Gemeinschaften bei der Selbstverwaltung, der Festlegung traditioneller Gebiete und dem Wiederaufbau nach Katastrophen
 
 ## Bildquellen
 

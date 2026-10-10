@@ -34,6 +34,7 @@ relatedDiary: ['2026-09-19-003000-news-radar']
 translatedFrom: 'Culture/金鐘獎.md'
 sourceCommitSha: 'ff39af227'
 sourceContentHash: 'sha256:bbab8ee22f168103'
+sourceBodyHash: 'sha256:02baeff9cbce935a'
 translatedAt: '2026-09-26T11:58:58.983013+00:00'
 ---
 

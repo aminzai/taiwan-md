@@ -149,7 +149,7 @@ Therefore, looking back at Dwagie, the best entry point remains the music. Polit
 - [Development of Taiwan Hip-hop and Rap](/en/music/taiwan-hip-hop-and-rap) — The context of Taiwanese rap from Song Yü-ting, Hotdog, and Dwag $\text{ie}$ to Leo Wang, Khaim, and the new generation.
 - [Taiwanese Independent Music](/en/music/indie-music-scene) — How independent labels, local scenes, and non-mainstream music sustain another path for Taiwanese music.
 - [Golden Melody Awards](/en/music/pop-music-and-golden-melody-awards) — Observing changes in Taiwanese music genres and linguistic politics through pop music awards.
-- [February 28 Incident](/history/二二八事件) — One of the Taiwanese historical and political memories frequently touched upon in Dwagie's works.
+- [February 28 Incident](/en/history/228-incident) — One of the Taiwanese historical and political memories frequently touched upon in Dwagie's works.
 
 ## Image Sources
 

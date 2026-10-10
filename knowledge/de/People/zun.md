@@ -144,10 +144,10 @@ Zun im Hausvideo ist dieselbe Person wie der Gaming-Streamer aus der Mittelschul
 
 **Weiterführende Lektüre**:
 
-- [Ah Shen](/people/阿神) — Startete ebenfalls mit Gaming-Videos; Ah Shens elfjährliche tägliche Veröffentlichung und der spätere Rückzug des Versprechens zur festen Veröffentlichung können als Vergleich für den Arbeitsrhythmus eines anderen langjährigen Creators dienen.
-- [HowHow](/people/Howhow) — Kommt ebenfalls aus dem frühen taiwanischen YouTube, indem er absurde Komik, Werbung und das Familienleben in einer kreativen Persona vereint.
-- [Tsai Aga](/people/蔡阿嘎) — Wechselte von persönlichen Kurzvideos zu Team- und Familienkanälen und kann als Vergleich für einen anderen Weg des Erwachsenwerdens dienen.
-- [Bahamut](/culture/巴哈姆特) — Ein wichtiger Zugangspunkt für Gaming und Online-Communitys in Taiwan, auch ein Boden für das Wachstum der frühen Streaming-Kultur.
+- [Ah Shen](/de/people/red-shin-minecraft-youtuber) — Startete ebenfalls mit Gaming-Videos; Ah Shens elfjährliche tägliche Veröffentlichung und der spätere Rückzug des Versprechens zur festen Veröffentlichung können als Vergleich für den Arbeitsrhythmus eines anderen langjährigen Creators dienen.
+- [HowHow](/de/people/howhow) — Kommt ebenfalls aus dem frühen taiwanischen YouTube, indem er absurde Komik, Werbung und das Familienleben in einer kreativen Persona vereint.
+- [Tsai Aga](/de/people/tsai-a-ga-youtuber) — Wechselte von persönlichen Kurzvideos zu Team- und Familienkanälen und kann als Vergleich für einen anderen Weg des Erwachsenwerdens dienen.
+- [Bahamut](/de/culture/bahamut-taiwan-gaming-community) — Ein wichtiger Zugangspunkt für Gaming und Online-Communitys in Taiwan, auch ein Boden für das Wachstum der frühen Streaming-Kultur.
 
 ## Bildquellen
 

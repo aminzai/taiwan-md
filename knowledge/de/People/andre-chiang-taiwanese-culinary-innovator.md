@@ -24,6 +24,7 @@ relatedDiary: ['2026-07-18-104038-manual']
 translatedFrom: 'People/江振誠.md'
 sourceCommitSha: 'afc8fbf91'
 sourceContentHash: 'sha256:87e96b9bea7173bf'
+sourceBodyHash: 'sha256:257d28e459bd329d'
 translatedAt: '2026-08-19T02:37:54+08:00'
 ---
 
@@ -176,11 +177,11 @@ In Singapur gibt es ein 139 Jahre überspannendes neues Restaurant, in Taipeh ei
 
 **Weiterführende Lektüre**:
 
-- [Aaron Nieh](/people/聶永真) — ein weiterer Name, der Taiwan auf die internationale Bühne brachte; mit Grafikdesign statt Kochen macht er Taiwans Sichtbarkeit für die Welt begreifbar
-- [Ang Lee](/people/李安) — ebenfalls im westlichen System östliche Geschichten erzählend, ein Kreativer, der „Wer bin ich“ und „Woher komme ich“ erkundet
-- [Jensen Huang](/people/黃仁勳) — ebenfalls mit taiwanesischem Hintergrund und an der Spitze einer internationalen Industrie, ging aber einen völlig anderen Weg: im Systemkern bleiben und sich selbst unersetzlich machen
-- [Wu Pao-chun](/people/吳寶春) — ebenfalls ein Handwerker, der mit taiwanesischen Zutaten französische Juroren eroberte; die zwei Wege von Brot und Fine Dining
-- [Huang Shan-liao](/people/黃山料) — ein junger Taiwaner auf der Weltbühne, der vom Laufsteg zum Schreibtisch wechselte; das Schreiben ersetzte das ursprüngliche Handwerk
+- [Aaron Nieh](/de/people/nieh-yung-jen) — ein weiterer Name, der Taiwan auf die internationale Bühne brachte; mit Grafikdesign statt Kochen macht er Taiwans Sichtbarkeit für die Welt begreifbar
+- [Ang Lee](/de/people/ang-lee) — ebenfalls im westlichen System östliche Geschichten erzählend, ein Kreativer, der „Wer bin ich“ und „Woher komme ich“ erkundet
+- [Jensen Huang](/de/people/jensen-huang) — ebenfalls mit taiwanesischem Hintergrund und an der Spitze einer internationalen Industrie, ging aber einen völlig anderen Weg: im Systemkern bleiben und sich selbst unersetzlich machen
+- [Wu Pao-chun](/de/people/wu-bao-chun) — ebenfalls ein Handwerker, der mit taiwanesischen Zutaten französische Juroren eroberte; die zwei Wege von Brot und Fine Dining
+- [Huang Shan-liao](/de/people/huang-shan-liao) — ein junger Taiwaner auf der Weltbühne, der vom Laufsteg zum Schreibtisch wechselte; das Schreiben ersetzte das ursprüngliche Handwerk
 
 ## Bildquellen
 

@@ -2,7 +2,7 @@
 title: "The Mingjian Incinerator Battle: When 300,000 Tons of 'Garbage Debt' Collides with a Billion-Dollar Tea Country's Survival"
 description: "Nantou County's accumulated garbage surpassed 310,000 tons by late 2024, triggering a 'garbage siege' crisis. County Chief Hsu Shu-hua plans to build a 500-ton-per-day incinerator in Xinmin Village, Mingjian Township, sparking a resistance coalition of over 250 scholars. This is a battle for survival involving a designated agricultural zone, a Chinese stripe-necked turtle habitat, and the supply chain for Taiwan's largest hand-shaken tea market."
 category: Society
-subcategory: 'Community and Daily Life'
+subcategory: '社區與日常'
 tags:
   [
     'Nantou',

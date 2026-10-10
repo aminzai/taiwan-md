@@ -4,7 +4,7 @@ description: '1956년 타이베이 출생, 아버지 주시닝. 1977년 호란�
 date: 2026-03-19
 category: 'People'
 tags: ['문학', '영화 각본', '구효현', '주시닝', '삼삼문학', '황수수기']
-subcategory: '문학'
+subcategory: '文學'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

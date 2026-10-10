@@ -84,7 +84,7 @@ Lorsqu'un logiciel commercial assume de facto une fonction d'infrastructure de c
 
 [^3]: [時代眼淚！為何即時通、MSN 跌落神壇？網點致命關鍵：害死自己 — MSN 新聞](https://www.msn.com/zh-tw/news/living/%E6%99%82%E4%BB%A3%E7%9C%BC%E6%B7%9A-%E7%82%BA%E4%BD%95%E5%8D%B3%E6%99%82%E9%80%9A-msn%E8%B7%8C%E8%90%BD%E7%A5%9E%E5%A3%87-%E7%B6%B2%E9%BB%9E%E8%87%B4%E5%91%BD%E9%97%9C%E9%8D%B5-%E5%AE%B3%E6%AD%BB%E8%87%AA%E5%B7%B1/ar-AA1E03i6) — Contexte de la migration massive des utilisateurs taïwanais de messagerie instantanée suite à l'arrêt de MSN.
 
-[^4]: [用了 LINE 就離不開？網揭「拿下台灣市場」原因 — Yahoo 新聞](https://tw.news.yahoo.com/%E7%94%A8%E4%BA%86line%E5%B0%B1%E9%9B%A2%E4%B8%8D%E9%96%8B-%E7%B6%B2%E6%8F%AD-%E6%8B%BF%E4%B8%8D%E5%8F%B0%E7%81%A3%E5%B8%82%E5%A0%B4-%E5%8E%9F%E5%9B%A0-015100376.html) — Comparaison entre la controverse du passage au payant de WhatsApp en 2013 et la stratégie de localisation de LINE.
+[^4]: [用了 LINE 就離不開？網揭「拿下台灣市場」原因 — Yahoo 新聞](https://tw.news.yahoo.com/%E7%94%A8%E4%BA%86line%E5%B0%B1%E9%9B%A2%E4%B8%8D%E9%96%8B-%E7%B6%B2%E6%8F%AD-%E6%8B%BF%E4%B8%8B%E5%8F%B0%E7%81%A3%E5%B8%82%E5%A0%B4-%E5%8E%9F%E5%9B%A0-015100376.html) — Comparaison entre la controverse du passage au payant de WhatsApp en 2013 et la stratégie de localisation de LINE.
 
 [^5]: [LINE 原創市集 10 週年　台灣貼圖創作者突破 100 萬人 — LINE Plus Corp](https://www.linepluscorp.com/pr/news/tw/2024/4722) — Statistiques officielles de LINE sur l'écosystème de création d'autocollants à Taïwan.
 
@@ -110,7 +110,7 @@ Lorsqu'un logiciel commercial assume de facto une fonction d'infrastructure de c
 
 [^16]: [LINE Premium 台灣正式上線！每月 165 元值得嗎？10 大功能一次看 — Cheers 快樂工作人](https://www.cheers.com.tw/article/article.action?id=5105462) — Description des fonctionnalités et du tarif du lancement de LINE Premium à Taïwan.
 
-[^17]: [LINE 付費版 10 大功能已上線　每月 165 元值不值？網友掀兩派論戰 — Yahoo 股市](https://tw.stock.yahoo.com/news/line%E4%BB%98%E8%B2%BB%E7%89%8810%E5%A4%A7%E5%8A%9F%E8%83%BD%E5%B7%B2%E4%B8%8A%E7%B7%9A-%E6%AF%8F%E6%9C%88165%E5%85%83%E5%80%BC%E4%B8%8D%E5%80%BC%EF%BC%9F%E7%B6%B2%E5%8F%8B%E6%8E%89%E6%8B%89%E5%85%A8%E6%B4%BE%E8%AB%96%E6%88%B0-090857434.html) — Débat polarisé des utilisateurs sur la valeur de LINE Premium.
+[^17]: [LINE 付費版 10 大功能已上線　每月 165 元值不值？網友掀兩派論戰 — Yahoo 股市](https://tw.stock.yahoo.com/news/line%E4%BB%98%E8%B2%BB%E7%89%8810%E5%A4%A7%E5%8A%9F%E8%83%BD%E5%B7%B2%E4%B8%8A%E7%B7%9A-%E6%AF%8F%E6%9C%88165%E5%85%83%E5%80%BC%E4%B8%8D%E5%80%BC%EF%BC%9F%E7%B6%B2%E5%8F%8B%E6%8E%89%E6%8B%89%E5%85%A9%E6%B4%BE%E8%AB%96%E6%88%B0-090857434.html) — Débat polarisé des utilisateurs sur la valeur de LINE Premium.
 
 [^18]: [數位遺產法的制度挑戰：台灣隱私權、繼承權與法制建構 — 新國會](https://newcongress.tw/?p=36294) — Analyse politique des zones grises juridiques de l'héritage numérique.
 

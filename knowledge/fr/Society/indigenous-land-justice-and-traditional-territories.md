@@ -11,7 +11,7 @@ tags:
     commission autochtone,
     droits fonciers,
   ]
-subcategory: 'Droits humains et égalité'
+subcategory: '人權與平等'
 author: 'Taiwan.md Contributors'
 readingTime: 9
 featured: false

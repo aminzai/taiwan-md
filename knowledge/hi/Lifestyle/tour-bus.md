@@ -183,12 +183,12 @@ translatedAt: '2026-07-24T20:56:16+08:00'
 
 [^24]: [Tour Bus Driver Working 15 Hours - Manager Says "No" Three Times](https://www.taisounds.com/news/content/96/115554) — Tai-Sound report on the 2024 Renwu accident.
 
-[^25]: [National Highway 1 Tour Bus Fire, 25 People Escape](https://tw.news.yahoo.com/%E5%9C%8B-%E9%81%8A%E8%A6%BD%E8%BB%8A%E7%81%AB%E7%87%92%E8%BB%8A-25%E4%BA%BA%E9%A9%9A%E9%80%8B-124206904.html) — Yahoo News report on the 2025 accident at Wuyang Viaduct.
+[^25]: [National Highway 1 Tour Bus Fire, 25 People Escape](https://tw.news.yahoo.com/%E5%9C%8B-%E9%81%8A%E8%A6%BD%E8%BB%8A%E7%81%AB%E7%87%92%E8%BB%8A-25%E4%BA%BA%E9%A9%9A%E9%80%83-124206904.html) — Yahoo News report on the 2025 accident at Wuyang Viaduct.
 
 [^26]: [Analysis of Mandatory Driver Identification for Tour Buses](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=6590&pid=250687) — Legislative Yuan analysis on closing the "separation of vehicle and person" loophole.
 
 [^27]: [Mandatory ID Systems from Next Year, MOTC Subsidizes Up to 2,000 per Bus](https://udn.com/news/story/7266/8824688) — UDN report on subsidy limits and operator costs.
 
-[^18]: [110 Tour Bus Operation Status Survey](https://srdaadj.survey.sinica.edu.tw/search/metadata/detail/AG060008) — Academia Sinica survey of tour bus operators.
+[^18]: [110 Tour Bus Operation Status Survey](https://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=19-2&pcode=K0040003) — Academia Sinica survey of tour bus operators.
 
 [^29]: [104 Transport Yearbook: Tour Bus Industry](https://www.motc.gov.tw/ch/app/yearbook/doc?detailNo=2&id=21&module=directory&serno=6845&type=s&year=104) — MOTC statistics on the number of vehicles and operators.

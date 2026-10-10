@@ -12,7 +12,7 @@ tags:
     'цифровая демократия',
     'социальные медиа',
   ]
-subcategory: 'Сообщества и цифровая культура'
+subcategory: '社群與數位文化'
 author: 'p3nchan'
 featured: false
 lastVerified: 2026-03-21
@@ -22,6 +22,7 @@ curation: 'incubating'
 translatedFrom: 'Technology/PTT批踢踢.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:ab09d0f00eb883d9'
+sourceBodyHash: 'sha256:110038d2fb23bc2a'
 translatedAt: '2026-08-04T15:56:38.391875+00:00'
 ---
 

@@ -146,13 +146,13 @@ Une femme qui a passé sa vie à fuir est finie par devenir le chemin de fuite d
 
 ## Bibliographie
 
-[^1]: [Wikipédia : San Mao (auteure)](<https://zh.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6)>) — biographie, chronologie de création, évaluation littéraire
+[^1]: [Wikipédia : San Mao (auteure)](https://zh.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6) — biographie, chronologie de création, évaluation littéraire
 
 [^2]: [Chop Suey Club](https://www.chopsueyclub.com/blogs/blog/san-mao) — année de naissance de José 1951, différence d'âge de 8 ans, fiancé allemand non marié
 
 [^3]: [Diario de Avisos](https://www.diariodeavisos.com/2012/01/cuando-la-tragedia-sepulto-el-arte/) — lieu de noyade de José à La Palma Barlovento, date, détails de récupération
 
-[^4]: [Wikipédia : Rolling on the Passion (film)](<https://zh.wikipedia.org/wiki/%E6%BB%9A%E6%BB%9A%E7%B4%85%E5%A1%B5_(%E9%9B%BB%E5%BD%B1)>) — liste complète des 8 prix Golden Horse 27e
+[^4]: [Wikipédia : Rolling on the Passion (film)](https://zh.wikipedia.org/wiki/%E6%BB%9A%E6%BB%9A%E7%B4%85%E5%A1%B5_(%E9%9B%BB%E5%BD%B1) — liste complète des 8 prix Golden Horse 27e
 
 [^5]: [New York Times Overlooked](https://www.nytimes.com/2019/10/23/obituaries/sanmao-overlooked.html) — 15 millions de ventes, évaluation internationale
 

@@ -87,11 +87,15 @@ translatedAt: '2026-05-20T05:08:29+08:00'
 
 ## 参考文献
 
-[^1]: [iNaturalist 台湾アトラスガ観察記録](https://taiwan.inaturalist.org/taxa/125071-Attacus-atlas) — 台湾アトラスガの目撃記録と分布データ。
-[^2]: [台湾生物多様性ネットワーク](https://www.tbn.org.tw/) — アトラスガの分布と標本データベース。
-[^3]: [農業部林業及自然保育署](https://www.forest.gov.tw/) — 台湾のガ類保全に関する政策と資源。
-[^4]: [アトラスガ - ウィキペディア](https://zh.wikipedia.org/zh-tw/皇蛾) — アトラスガの形態、分布、生態習性の解説。
-[^5]: [Attacus atlas - Picture Insect](https://pictureinsect.com/zh-tw/wiki/Attacus_atlas.html) — アトラスガの生活史と識別特徴。
+[^1]: [iNaturalist 台湾アトラスガ観察記録](https://catalog.digitalarchives.tw/item/00/5b/8e/5c.html) — 台湾アトラスガの目撃記録と分布データ。
+
+[^2]: [台湾生物多様性ネットワーク](https://taieol.tw/pages/107777) — アトラスガの分布と標本データベース。
+
+[^3]: [農業部林業及自然保育署](https://news.ltn.com.tw/news/Taipei/breakingnews/5520373) — 台湾のガ類保全に関する政策と資源。
+
+[^4]: [アトラスガ - ウィキペディア](https://www.nhm.ac.uk/discover/spotlight-the-atlas-moth.html) — アトラスガの形態、分布、生態習性の解説。
+
+[^5]: [Attacus atlas - Picture Insect](https://en.wikipedia.org/wiki/Attacus_atlas) — アトラスガの生活史と識別特徴。
 
 関連書籍：
 

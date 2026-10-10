@@ -21,6 +21,7 @@ author: 'Taiwan.md'
 translatedFrom: 'Technology/半導體產業.md'
 sourceCommitSha: '6ffd92f94'
 sourceContentHash: 'sha256:c91074d5ba69e3b2'
+sourceBodyHash: 'sha256:d37164a7592bd08a'
 translatedAt: '2026-08-12T16:22:42.438418+00:00'
 featured: true
 lastVerified: 2026-05-19
@@ -262,18 +263,18 @@ Der „護國神山“ beherrscht den Planeten mit 50 Jahren Auftragsfertigungse
 
 **Weiterführende Lektüre**:
 
-- [Taiwanese Enterprises: TSMC](/economy/台灣企業：台積電) — Unternehmensführung, Finanzstruktur und das Ausmaß der Investitionen von TSMC
-- [Taiwanese Enterprises: MediaTek](/economy/台灣企業：聯發科技) — Wie der IC‑Design‑Leader in Smartphone‑Chips und KI‑Edge‑Rechenleistung positioniert ist
-- [Taiwanese Enterprises: ASE](/economy/台灣企業：日月光半導體) — Global führend im Verpackungs- und Testbereich; Ökosystem nach CoWoS in der Endfertigung
-- [Der Gipfelbauer: Der große Einsatz](/art/造山者世紀的賭注) — Dokumentarfilm von Xiao Ju-zhen (2025), 80+ Interviews mit Halbleiter‑Veteranen über fünf Jahre; 2026 besucht es Purdue / Wisconsin / Michigan als CHIPS‑Act‑Investitionszentren
-- [Wu Dayou](/people/吳大猷) — Während Taiwans Aufstieg in den 1980ern war er zugleich Akademiepräsident und trat für Grundlagenforschung ein, was dem taiwanischen Forschungsgefüge Grundstrukturen gab
-- [Huang Chong-ren](/people/黃崇仁) — Gründer von Reatek/力晶 und Powerchip/力積電; Taiwans Weg, auf fremden Prozesslizenzen eigene Waferfabriken aufzubauen, von 23,2 % auf 6,3 % Marktanteil — ein Abschnitt, der selten erzählt wird
-- [Taiwanische Robotikindustrie](/technology/台灣機器人產業) — Warum die Insel, die Halbleiterwelt dominiert, im Roboterzeitalter Nachholbedarf hat; Ein Blick auf die Industriebrüche seit der NCAIR‑Einweihung
-- [Taiwanische Aktien- und Kapitalmärkte](/economy/台灣股市與資本市場) — Wie die komplette Lieferkette als 6. Platz im Weltmaßstab der Marktstruktur die taiwanische Börse trägt
-- [Taiwan Tungsten Supply Chain](/technology/台灣鎢供應鏈) — Wie sechswertiges Tungsten Kontakte und 3D‑NAND‑Wordlines verbindet, obwohl Taiwan selbst keine Wolfrenvorkommen hat
-- [Taiwan AI School](/technology/台灣人工智慧學校) — Wie 10.000 AI‑Ingenieur:innen durch acht Jahre AIA‑Ausbildung die Software‑Seite der Halbleiterlandschaft zurück in den taiwanischen Verbund bringen
-- [Computex: Drei große Computer‑Messen, aber zwei gingen nach Hause](/technology/Computex) — TSMCs CoWoS und führende Prozesslinien treffen jedes Jahr im Mai im 45‑jährigen Taipei‑Computex auf KI‑Giganten
-- [Taiwan Science Parks](/technology/科技園區發展) — Hsinchu, Nangang, Nantz? (Nacional?); der physische Träger des Halbleiterclusters und geografisches Zentrum des „護國神山“
+- [Taiwanese Enterprises: TSMC](/de/economy/tsmc) — Unternehmensführung, Finanzstruktur und das Ausmaß der Investitionen von TSMC
+- [Taiwanese Enterprises: MediaTek](/de/economy/mediatek) — Wie der IC‑Design‑Leader in Smartphone‑Chips und KI‑Edge‑Rechenleistung positioniert ist
+- [Taiwanese Enterprises: ASE](/de/economy/taiwan-enterprise-ase-semiconductor) — Global führend im Verpackungs- und Testbereich; Ökosystem nach CoWoS in der Endfertigung
+- [Der Gipfelbauer: Der große Einsatz](/de/art/mountain-makers-tsmc-documentary) — Dokumentarfilm von Xiao Ju-zhen (2025), 80+ Interviews mit Halbleiter‑Veteranen über fünf Jahre; 2026 besucht es Purdue / Wisconsin / Michigan als CHIPS‑Act‑Investitionszentren
+- [Wu Dayou](/de/people/tai-yu-wu) — Während Taiwans Aufstieg in den 1980ern war er zugleich Akademiepräsident und trat für Grundlagenforschung ein, was dem taiwanischen Forschungsgefüge Grundstrukturen gab
+- [Huang Chong-ren](/de/people/frank-huang-psmc) — Gründer von Reatek/力晶 und Powerchip/力積電; Taiwans Weg, auf fremden Prozesslizenzen eigene Waferfabriken aufzubauen, von 23,2 % auf 6,3 % Marktanteil — ein Abschnitt, der selten erzählt wird
+- [Taiwanische Robotikindustrie](/de/technology/taiwan-robotics-industry) — Warum die Insel, die Halbleiterwelt dominiert, im Roboterzeitalter Nachholbedarf hat; Ein Blick auf die Industriebrüche seit der NCAIR‑Einweihung
+- [Taiwanische Aktien- und Kapitalmärkte](/de/economy/taiwan-stock-market) — Wie die komplette Lieferkette als 6. Platz im Weltmaßstab der Marktstruktur die taiwanische Börse trägt
+- [Taiwan Tungsten Supply Chain](/de/technology/taiwan-tungsten-supply-chain) — Wie sechswertiges Tungsten Kontakte und 3D‑NAND‑Wordlines verbindet, obwohl Taiwan selbst keine Wolfrenvorkommen hat
+- [Taiwan AI School](/de/technology/taiwan-ai-academy) — Wie 10.000 AI‑Ingenieur:innen durch acht Jahre AIA‑Ausbildung die Software‑Seite der Halbleiterlandschaft zurück in den taiwanischen Verbund bringen
+- [Computex: Drei große Computer‑Messen, aber zwei gingen nach Hause](/de/technology/computex) — TSMCs CoWoS und führende Prozesslinien treffen jedes Jahr im Mai im 45‑jährigen Taipei‑Computex auf KI‑Giganten
+- [Taiwan Science Parks](/de/technology/science-park-development) — Hsinchu, Nangang, Nantz? (Nacional?); der physische Träger des Halbleiterclusters und geografisches Zentrum des „護國神山“
 
 ## Bildquellen
 

@@ -4,7 +4,7 @@ description: "Une cérémonie d'excuses, une manifestation de dix mille personne
 date: 2026-03-30
 author: 'Taiwan.md'
 category: 'Culture'
-subcategory: 'Culture des groupes ethniques'
+subcategory: '族群文化'
 tags:
   [
     'culture',

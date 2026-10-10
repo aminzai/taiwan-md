@@ -25,6 +25,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Tatung_100th_Anniversary_C
 translatedFrom: 'Culture/台灣廣告史.md'
 sourceCommitSha: 'f7484ebea'
 sourceContentHash: 'sha256:5bf5af7cbb7baf0f'
+sourceBodyHash: 'sha256:296b2f47a01a03eb'
 translatedAt: '2026-09-25T00:15:08.820170+00:00'
 ---
 
@@ -188,7 +189,7 @@ Werbung dient dazu, Dinge zu verkaufen. Aber die am besten erinnerten Werbespots
 
 - [Geschichte der Fernsehbranche in Taiwan](/de/technology/taiwan-television-industry-history) — Wie sich das Medium des Werbeträgers von den alten drei Kanälen über Kabelfernsehen bis zu OTT entwickelt hat
 - [Fulin Welfare Center](/de/economy/pxmart-supermarket) — Vom schmutzigen Wohlfahrtsverein zum König des Einzelhandels, der kommerzielle Hintergrund der Ogilvy „ökonomischen Ästhetik“ Werbung
-- [Musikindustrie und Streaming-Zeitalter in Taiwan](/music/台灣音樂產業與串流時代) — Der Wandel vom Musikkonsum, der durch Werbelieder populäre Künstler hervorbrachte, hin zur Segmentierung durch Streaming
+- [Musikindustrie und Streaming-Zeitalter in Taiwan](/de/music/taiwan-music-industry-and-the-streaming-era) — Der Wandel vom Musikkonsum, der durch Werbelieder populäre Künstler hervorbrachte, hin zur Segmentierung durch Streaming
 
 ## Bildquellen
 

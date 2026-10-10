@@ -19,7 +19,7 @@ featured: false
 lastVerified: 2026-04-05
 lastHumanReview: false
 translatedFrom: 'Music/茄子蛋.md'
-sourceCommitSha: 'ce7f10f8'
+sourceCommitSha: 'f99a9959c'
 sourceContentHash: 'sha256:1be7230ba8a26470'
 sourceBodyHash: 'sha256:448d367a49551ee8'
 translatedAt: '2026-05-09T14:31:06Z'
@@ -75,7 +75,7 @@ El vocalista A-Bin se ha unido a Universal Music y está explorando activamente 
 
 [^4]: [國家文化記憶庫: EggPlantEgg gana el Premio al Artista Nuevo en la 29.ª edición de los Golden Melody](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=507455) — Registro oficial de los Premios Golden Melody: Base Nacional de Memoria Cultural
 
-[^5]: [Stylemaster: EggPlantEgg / ¡La vida es una mierda! Pero mañana siempre hay que seguir adelante](https://www.stylemaster.com.tw/2020/01/14/%E8%8C%84%E5%AD%90%E8%9B%8B%EF%BC%8F%E4%BA%BA%E7%94%9F%E5%B0%B1%E6%98%AF%E5%BE%88%E7%88%9B%E5%98%9B%EF%BC%81%E4%BD%86%E6%98%8E%E5%A4%A9%E7%B8%BD%E6%98%AF%E5%BE%97%E9%81%8E%E5%95%8A%EF%BC%8C%E4%B8%80/) — Reportaje de portada de 2022
+[^5]: [Stylemaster: EggPlantEgg / ¡La vida es una mierda! Pero mañana siempre hay que seguir adelante](https://www.stylemaster.com.tw/2022/01/14/%E8%8C%84%E5%AD%90%E8%9B%8B%EF%BC%8F%E4%BA%BA%E7%94%9F%E5%B0%B1%E6%98%AF%E5%BE%88%E7%88%9B%E5%98%9B%EF%BC%81%E4%BD%86%E6%98%8E%E5%A4%A9%E7%B8%BD%E6%98%AF%E5%BE%97%E9%81%8E%E5%95%8A%EF%BC%8C%E4%B8%8D/) — Reportaje de portada de 2022
 
 [^6]: [The News Lens: 〈浪流連〉 de EggPlantEgg: el vagabundo regresa por amor; A-Bin escribe sobre el «chico travieso pero bueno»](https://www.thenewslens.com/article/192518) — Análisis del concepto de «善良歹囝» en 〈浪流連〉
 

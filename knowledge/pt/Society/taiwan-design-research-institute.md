@@ -31,6 +31,7 @@ rationale:
 translatedFrom: 'Society/台灣設計研究院.md'
 sourceCommitSha: 'fa44ba5a9'
 sourceContentHash: 'sha256:31f2d67654f5ca72'
+sourceBodyHash: 'sha256:f7df18837078b48f'
 translatedAt: '2026-09-24T12:13:20.299138+00:00'
 ---
 
@@ -154,11 +155,11 @@ A fonte daquele boletim de voto na sua mão chama-se Source Han Sans (思源黑�
 
 ## Leitura complementar
 
-- [Nieh Yung-chen](/people/聶永真) — um dos designers gráficos mais representativos de Taiwan, protagonista da controvérsia sobre a otimização da identidade visual da Taipower, é um nome incontornável na discussão sobre o «design como realização política».
+- [Nieh Yung-chen](/pt/people/nieh-yung-jen) — um dos designers gráficos mais representativos de Taiwan, protagonista da controvérsia sobre a otimização da identidade visual da Taipower, é um nome incontornável na discussão sobre o «design como realização política».
 - [Transformação e atualização da indústria de Taiwan](/pt/economy/industrial-transformation-from-manufacturing-to-innovation) — a história completa da transição de ilha de manufatura por encomenda para alto valor agregado; a aposta do Instituto de Pesquisa de Design no «como as coisas são» é um dos aspetos menos discutidos deste percurso.
 - [Televisão Pública](/pt/society/pts-public-television-service) — igualmente uma fundação de direito público, uma instituição que caminha na corda bamba entre a «publicidade» e o «escrutínio».
 - [Arquitetura de Taiwan](/pt/art/taiwanese-architecture) — a especialidade de Chang Chi-yi; para entender por que um arquiteto acredita que o design de espaços pode mudar a distância entre o governo e o povo.
-- [Academia Sinica](/society/中央研究院) — também uma instituição de pesquisa financiada pelo Estado; subordinada à Presidência ou a ministérios, o que pode fazer e as perguntas que lhe são feitas não são as mesmas.
+- [Academia Sinica](/pt/society/academia-sinica) — também uma instituição de pesquisa financiada pelo Estado; subordinada à Presidência ou a ministérios, o que pode fazer e as perguntas que lhe são feitas não são as mesmas.
 
 ## Fontes das imagens
 

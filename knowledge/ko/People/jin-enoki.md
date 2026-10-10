@@ -3,7 +3,7 @@ title: '김(금침구): 대만 거주 한국인 크리에이터'
 description: '백만 규모 도달로 ‘대만의 한국인’을 헤드라인이 아닌 일상 시청 콘텐츠로 바꿨다.'
 date: 2026-05-13
 category: People
-subcategory: '팝 문화'
+subcategory: '流行人物'
 tags:
   [
     '팝 문화',
@@ -20,7 +20,7 @@ featured: false
 lastVerified: 2026-05-13
 translatedFrom: 'People/金針菇.md'
 readingTime: 9
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:a4d0a0070adaa30d'
 sourceBodyHash: 'sha256:4b10f11517195560'
 translatedAt: '2026-05-17T05:33:00Z'

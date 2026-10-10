@@ -116,12 +116,12 @@ Gelar "Kelompok Musik Tipe Keluar" ini dari penikmat musik, bukan promosi diri m
 
 **Bacaan Lanjutan**:
 
-- [No Party for Cao Dong (草東沒有派對)](/people/草東沒有派對) — Lingkar independen Taiwan akhir 2010-an yang sama, jalur rock politik dengan jalur lembut VH bertemu
-- [Waa Wei (魏如萱)](/people/魏如萱) — Sama-sama menjalani jalur "karya prioritas, paparan kedua" musisi independen Taiwan
-- [Musik Independen Taiwan (台灣獨立音樂)](/music/台灣獨立音樂) — Latar ekosistem kebangkitan VH
+- [No Party for Cao Dong (草東沒有派對)](/id/people/no-party-for-cao-dong) — Lingkar independen Taiwan akhir 2010-an yang sama, jalur rock politik dengan jalur lembut VH bertemu
+- [Waa Wei (魏如萱)](/id/people/waa-wei-singer) — Sama-sama menjalani jalur "karya prioritas, paparan kedua" musisi independen Taiwan
+- [Musik Independen Taiwan (台灣獨立音樂)](/id/music/indie-music-scene) — Latar ekosistem kebangkitan VH
 - [Hello Nico](/id/people/hello-nico-band) — Lingkar independen seraya, diam delapan tahun 2024 kembali lewat "Plan B", kontras lembut dan tekanan lain
 
-## 參考資料
+## Referensi
 
 [^1]: [Vast & Hazy's "Ci Di Mi Mi" (次等秘密) dan Penulisan Terbuka](https://blow.streetvoice.com/31100/) — Blow Music 2017 wawancara mendalam, Kaka bicarakan falsafah kreasi, pelepasan kekuasaan pimpinan, dan "berharap penikmat masing-masing menafsirkan jadi bentuk berbeda"
 

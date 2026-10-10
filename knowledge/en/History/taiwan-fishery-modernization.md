@@ -166,6 +166,6 @@ Today, when people buy a fish at the market, they see weight, price, and origin.
 
 ## Further Reading
 
-- [The Origins of Taiwan's Fisheries](/history/台灣漁業起源) — The first half of the same sea: Japanese colonial aquaculture research, fish markets, and postwar technical reception
+- [The Origins of Taiwan's Fisheries](/en/history/taiwan-fishery-origins) — The first half of the same sea: Japanese colonial aquaculture research, fish markets, and postwar technical reception
 - [The History of Taiwan's Marine Trade](/en/history/taiwan-maritime-trade-history)
 - [The History of Taiwan's Sugar Industry](/history/台灣糖業史)

@@ -172,12 +172,12 @@ Dies ist kein Hass, sondern ein Kontobuch. Der Tag, an dem der weiße Terror end
 - [Taiwanische Demokratieentwicklung](/de/history/taiwan-democratization) — Der gesamte Wandel von der Kriegsrechtsherrschaft zu einem der liberalsten demokratischen Systeme Asiens
 - [Kriegsrechtsperiode](/de/history/martial-law-era) — Die juristische Hülle und der Prozess der Lockerung über 38 Jahre und 56 Tage
 - [Taiwanische Transformation Justice](/de/history/taiwan-transitional-justice) — Die unvollendete Aufgabe der Wahrheitsfindung und Verfolgung von Tätern nach der Lockerung
-- [Nationales Menschenrechtsmuseum](/history/國家人權博物館) — Die Institutionen der Gedenkparks in Jingmei und auf Grüne Insel, vom sechsjährigen Vorbereitungsprozess bis zur Budgeteinfrierung 2025
+- [Nationales Menschenrechtsmuseum](/de/history/national-human-rights-museum) — Die Institutionen der Gedenkparks in Jingmei und auf Grüne Insel, vom sechsjährigen Vorbereitungsprozess bis zur Budgeteinfrierung 2025
 - [Der 228-Vorfall](/de/history/228-incident) — Die Vorgeschichte des weißen Terrors: Wie die Unterdrückung von 1947 das Kriegsrechtssystem ankündigte
-- [Der Belleau-Island-Vorfall](/history/美麗島事件) — Ein wichtiger Wendepunkt am Ende des weißen Terrors im Jahr 1979
-- [Academia Sinica (中央研究院)](/society/中央研究院) — Die Institution, die in der Studie 〈Weiße Erinnerung〉 von Taiwan's Institut für Geschichte veröffentlicht wurde und den Wandel der Forschungsobjekte auf diese Insel beschreibt
+- [Der Belleau-Island-Vorfall](/de/history/kaohsiung-incident-formosa-incident) — Ein wichtiger Wendepunkt am Ende des weißen Terrors im Jahr 1979
+- [Academia Sinica (中央研究院)](/de/society/academia-sinica) — Die Institution, die in der Studie 〈Weiße Erinnerung〉 von Taiwan's Institut für Geschichte veröffentlicht wurde und den Wandel der Forschungsobjekte auf diese Insel beschreibt
 - [Ali-Shan: Der Forstbetrieb des Imperiums und Kao Yi-sheng aus dem Berg](/de/history/alishan-empire-forest-and-uongu-yatauyungana) — Die Geschichte des Tsou-Volkes und die Stille um sie
-- [Rechnungskarte: Das Papier von 1951, das alle zu Steuerprüfern machte](/economy/發票) — Der Erfinder des Rechnungssystems, Ren Xianqun, lebte in derselben Ära und wurde 1955 wegen „Nichtmeldung von Verrat“ eingesperrt; ein Hut konnte tödlich sein.
+- [Rechnungskarte: Das Papier von 1951, das alle zu Steuerprüfern machte](/de/economy/taiwan-uniform-invoice) — Der Erfinder des Rechnungssystems, Ren Xianqun, lebte in derselben Ära und wurde 1955 wegen „Nichtmeldung von Verrat“ eingesperrt; ein Hut konnte tödlich sein.
 - [Yin Haiguang (殷海光)](/de/people/yin-haiguang-liberalism-philosopher) — Der Professor der Philosophie an der NTU, der nach dem Lei Zhen-Fall 1960 in Gangsheng, Wenzhou, isoliert lebte und einer der Begründer des taiwanischen Liberalismus war.
 
 ## Quellenverzeichnis

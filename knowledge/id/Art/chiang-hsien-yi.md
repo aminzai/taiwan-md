@@ -23,7 +23,7 @@ tags:
     'Candi Seratus Tahun',
     'Bach',
   ]
-subcategory: 'Seniman Kontemporer'
+subcategory: '當代藝術家'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-22
@@ -40,6 +40,7 @@ sporeLinks:
 translatedFrom: 'Art/江賢二.md'
 sourceCommitSha: '31a05c44b'
 sourceContentHash: 'sha256:7881c6e8b38a5fa7'
+sourceBodyHash: 'sha256:ae43b98131d02326'
 translatedAt: '2026-07-30T02:35:38.567365+00:00'
 ---
 
@@ -275,10 +276,10 @@ Masih butuh satu jam lagi, matahari baru akan terbit dari balik Pulau Green.
 
 **Bacaan Lanjutan**：
 
-- [Perkembangan Patung Kontemporer Taiwan](/art/台灣當代雕塑發展) — Dari Huang Tu-shui ke Yang Ying-feng hingga instalasi kontemporer, ratusan tahun jalur kreasi tiga dimensi Taiwan
-- [Pendidikan Seni dan Perkembangan Akademi Taiwan](/art/台灣藝術教育與學院發展) — Sistem pengembangan Jurusan Seni Universitas Normal, Akademi Seni Nasional, Jurusan Seni Rupa Universitas Tunghai, serta latar belakang akademik Jiang Xian-er
+- [Perkembangan Patung Kontemporer Taiwan](/id/art/development-of-contemporary-taiwanese-sculpture) — Dari Huang Tu-shui ke Yang Ying-feng hingga instalasi kontemporer, ratusan tahun jalur kreasi tiga dimensi Taiwan
+- [Pendidikan Seni dan Perkembangan Akademi Taiwan](/id/art/taiwanese-art-education-and-academic-development) — Sistem pengembangan Jurusan Seni Universitas Normal, Akademi Seni Nasional, Jurusan Seni Rupa Universitas Tunghai, serta latar belakang akademik Jiang Xian-er
 - [Kurator Taiwan dan Konstruksi Budaya Seni](/id/art/taiwanese-curators-and-artistic-cultural-construction) — Dari Wang Chia-chi ke praktik kurasi kontemporer, bagaimana pameran retrospektif membentuk ulang citra publik seniman
-- [Seni Kontemporer](/art/當代藝術) — Seluruh aliran gerakan lukisan abstrak Taiwan pasca 1960-an, May Art Association, Eastern Art Association
+- [Seni Kontemporer](/id/art/contemporary-art) — Seluruh aliran gerakan lukisan abstrak Taiwan pasca 1960-an, May Art Association, Eastern Art Association
 
 ## Sumber Gambar
 

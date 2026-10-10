@@ -195,14 +195,14 @@ Das ist die wichtigste Frage des Auslandsaustritts: Nachdem die Welt taiwanesisc
 
 ## Weiterführende Literatur
 
-- [AI-Hardware-Lieferkette](/technology/AI硬體供應鏈) — Warum die Welt Taiwan braucht, um Cloud-Anforderungen in Maschinen umzusetzen.
-- [AI-Hardware-Lieferkette](/technology/AI硬體供應鏈) — Von GPU bis Gehäuse: Wie taiwanesische ODM/EMS Unternehmen AI-Datacenter-Hardware bedienen.
-- [Taiwan: Strom und Halbleiter](/technology/台灣的電力與半導體) — Wie fortgeschrittene Fertigung zu Strom- und Energiesicherheit zurückkehrt.
+- [AI-Hardware-Lieferkette](/de/technology/ai-hardware-supply-chain) — Warum die Welt Taiwan braucht, um Cloud-Anforderungen in Maschinen umzusetzen.
+- [AI-Hardware-Lieferkette](/de/technology/ai-hardware-supply-chain) — Von GPU bis Gehäuse: Wie taiwanesische ODM/EMS Unternehmen AI-Datacenter-Hardware bedienen.
+- [Taiwan: Strom und Halbleiter](/de/technology/taiwan-electricity-and-semiconductors) — Wie fortgeschrittene Fertigung zu Strom- und Energiesicherheit zurückkehrt.
 - [Halbleiter und taiwanesische Wasserressourcen](/de/technology/semiconductor-water-use-and-taiwan-water-resources) — Wie Waferfabriken in Talsperren, Dürreperioden und Regenwassermanagement eingreifen.
-- [Taiwan Unternehmen: TSMC](/economy/台灣企業：台積電) — Wie das Geschäftsmodell von TSMC die globale halbleiterische Arbeitsteilung neu geschrieben hat.
-- [Taiwan Unternehmen: Foxconn Precision](/economy/台灣企業：鴻海精密) — Von der Elektronik-Fertigung zu AI-Servern und Datacenter-Hardware.
+- [Taiwan Unternehmen: TSMC](/de/economy/tsmc) — Wie das Geschäftsmodell von TSMC die globale halbleiterische Arbeitsteilung neu geschrieben hat.
+- [Taiwan Unternehmen: Foxconn Precision](/de/economy/foxconn-precision-industry) — Von der Elektronik-Fertigung zu AI-Servern und Datacenter-Hardware.
 - [Taiwan Unternehmen: Delta Electronics](/de/economy/delta-electronics-taiwan-power-giant) — Wie Stromversorgung, Kühlung und Energiemanagement zu AI-Infrastruktur gehören.
-- [Industrieparkentwicklung](/technology/科技園區發展) — Wie taiwanesische halbleitende Industrieparks aus Land und Stadt entstehen.
+- [Industrieparkentwicklung](/de/technology/science-park-development) — Wie taiwanesische halbleitende Industrieparks aus Land und Stadt entstehen.
 
 ## Bildnachweise
 

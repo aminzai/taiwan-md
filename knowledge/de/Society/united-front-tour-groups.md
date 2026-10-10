@@ -116,11 +116,11 @@ Und Unsicherheit mag genau das Endprodukt dieses kognitiven Spiels sein.
 
 **Weiterführende Literatur**
 
-- [Kognitive Kriegsführung](/society/認知作戰) — Systemrahmen und Gegenmaßnahmen Taiwans, von akademischer Analyse bis praktische Bürgerbildung.
+- [Kognitive Kriegsführung](/de/society/cognitive-warfare-against-taiwan) — Systemrahmen und Gegenmaßnahmen Taiwans, von akademischer Analyse bis praktische Bürgerbildung.
 - [Falun Gong in Taiwan](/de/society/falun-gong-in-taiwan) — Vom Yangmingshan-Feuerstein-Turm zum Taipeh 101, ein Spiegelbild der zweiseitigen Gegenüberstellung, wie religiöse Freiheit Taiwans Demokratiewerte prüft.
 - [Potter King](/de/people/potter-king-youtuber) — Der erste taiwanesische Creator, der die Details der Einladung zur Einheitsfrontarbeit öffentlich machte.
 - [Bai Qiong](/de/people/pa-chiung-political-youtuber) — Vom Dokumentarfilmemacher zur Organisatorin der Ketagalan-Straße-Demonstration, ein Versuch der taiwanesischen Zivilgesellschaft, kognitive Operationen zu kontern.
-- [Kognitive Kriegsführung durch Kartoffelsalat](/society/毒馬鈴薯認知作戰) — 2022 eine Falschinformation über taiwanesische Kartoffeln, ein typisches Beispiel zur Beobachtung des Informationskrieges zwischen den beiden Seiten.
+- [Kognitive Kriegsführung durch Kartoffelsalat](/de/society/poisoned-potato-cognitive-warfare-taiwan) — 2022 eine Falschinformation über taiwanesische Kartoffeln, ein typisches Beispiel zur Beobachtung des Informationskrieges zwischen den beiden Seiten.
 
 ## Referenzen
 

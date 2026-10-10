@@ -26,6 +26,7 @@ curation: 'incubating'
 translatedFrom: 'History/西螺大橋.md'
 sourceCommitSha: '4f3974f86'
 sourceContentHash: 'sha256:b4ceb4e882b4ea63'
+sourceBodyHash: 'sha256:0367fe0da1bfd005'
 translatedAt: '2026-09-21T15:15:46.830676+00:00'
 ---
 

@@ -29,6 +29,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Chen_Chih-chung.jpg'
 translatedFrom: 'People/陳致中.md'
 sourceCommitSha: 'fa7059f7a'
 sourceContentHash: 'sha256:4de98c280e186c57'
+sourceBodyHash: 'sha256:560772bbc10e04f9'
 translatedAt: '2026-09-22T21:57:22.483072+00:00'
 ---
 
@@ -229,7 +230,7 @@ Hari ketika masa hukumannya berakhir tiba, denda sudah dibayar penuh pada hari p
 **Bacaan lanjutan**:
 
 - [Chen Shuibian](/id/people/chen-shui-bian-controversial-president) — Dari pengacara di luar partai hingga presiden pertama Taiwan yang menggantikan partai yang sama, garis ini membantu memahami latar belakang semua nama kasus dalam artikel ini
-- [Chen Xingyu](/people/陳幸妤) — Saudara perempuannya yang dihukum bersama dalam kasus pengkhianatan, kemudian membuka klinik gigi di Tainan, cara orang memandangnya berbeda dengan cara orang memandangnya
+- [Chen Xingyu](/id/people/chen-hsing-yu) — Saudara perempuannya yang dihukum bersama dalam kasus pengkhianatan, kemudian membuka klinik gigi di Tainan, cara orang memandangnya berbeda dengan cara orang memandangnya
 - [Pemilihan dan Politik Partai di Taiwan](/id/history/taiwan-elections-and-party-politics) — Bagaimana daerah pemilihan, nominasi partai, dan faksi lokal memutuskan siapa yang bisa muncul di kertas suara
 - [Reformasi Yudikatif dan Sistem Penahanan Preventif di Taiwan](/id/society/taiwan-judicial-reform-and-preventive-detention) — Desain dan kontroversi dalam prosedur pidana, mekanisme putusan dan pencabutan jabatan dalam artikel ini hidup dalam kerangka ini
 - [Keadilan Transformasi di Taiwan](/id/history/taiwan-transitional-justice) — Sejarah 228 dan pembersihan yang mengikutinya, tempat yang ia bangun di pengadegan kualifikasi adalah Museum 228 Kaohsiung yang berasal dari garis ini

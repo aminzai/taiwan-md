@@ -79,7 +79,7 @@ Ia membawa isu LGBTQ+ ke cakrawala hiburan utama lebih awal dari kebanyakan toko
 
 Dari menyanyi malam di restoran Taitung, hingga lima malam Dome, balon udara panas terbang di atas kepala penonton, jejak A-mei bukan skenario standar industri hiburan Taiwan, melainkan seorang gadis suku asli yang membuka ruang lebih besar dengan suaranya, lalu membiarkan semua orang masuk.
 
-**Bacaan Lanjutan**: [A-mei — Wikipedia](https://zh.wikipedia.org/wiki/張惠妹) ｜ [Chang Yu-sheng](/people/張雨生) — Produser Jiwa《姊妹》
+**Bacaan Lanjutan**: [A-mei — Wikipedia](https://zh.wikipedia.org/wiki/張惠妹) ｜ [Chang Yu-sheng](/id/people/chang-yu-sheng-singer) — Produser Jiwa《姊妹》
 
 ## Referensi
 

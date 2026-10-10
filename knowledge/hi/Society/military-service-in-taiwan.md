@@ -4,7 +4,7 @@ description: '1945 से अब तक, ताइवान में सैन�
 date: '2026-07-17'
 author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: 'समाज व्यवस्था'
+subcategory: '社會制度'
 tags:
   ['सैन्य सेवा', 'रक्षा', 'अनिवार्य सेवा', 'हेंगुआंग अभ्यास', 'किनमा पुरस्कार']
 readingTime: '12'
@@ -95,7 +95,7 @@ translatedAt: '2026-07-24T20:56:16+08:00'
 ## अतिरिक्त पठन
 
 - [हुकोयुंग शिविर और शिलिंग रोड की यादें](/hi/history/hukou-camp-shengli-road-memory) — सैन्य स्थान की दैनिक स्मृतियाँ
-- [ब्लैक बियर अकादमी](/society/黑熊學院) — नागरिक रक्षा जागरूकता का समकालीन संस्करण
+- [ब्लैक बियर अकादमी](/hi/society/kuma-academy-civil-defense-school) — नागरिक रक्षा जागरूकता का समकालीन संस्करण
 
 ## संदर्भ सामग्री
 

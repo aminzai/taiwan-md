@@ -3,7 +3,7 @@ title: '대만 원주민족 16부족 문화 지도'
 description: "'16'은 자연스럽게 만들어진 숫자가 아니라 협상의 결과다. 아미족 21만 명에서 카나카나부족 441명까지, 대만 원주민족의 문화적 깊이는 어떤 공식 명단도 담아내지 못한다."
 date: 2026-03-29
 tags: ['원주민족', '문화', '제전', '언어', '현대 창작']
-subcategory: '민족 문화'
+subcategory: '族群文化'
 category: 'Culture'
 author: 'Taiwan.md Contributors'
 readingTime: 9

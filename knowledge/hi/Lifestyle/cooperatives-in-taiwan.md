@@ -12,7 +12,7 @@ tags:
     'लोकतांत्रिक अर्थव्यवस्था',
     'कम जन्म दर',
   ]
-subcategory: 'शिक्षा'
+subcategory: '教育'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-30

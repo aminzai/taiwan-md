@@ -48,6 +48,7 @@ curation: 'verified'
 translatedFrom: 'People/黃崇仁.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:db74afff74180364'
+sourceBodyHash: 'sha256:79acfb47eb180714'
 translatedAt: '2026-09-22T04:52:23.898597+00:00'
 ---
 
@@ -250,7 +251,7 @@ Artikel ini diselesaikan pada 3 Agustus 2026, tiga hari setelah Huang Chongren m
 - [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Peta lengkap industri chip Taiwan, jalan bergelombang yang jarang dibahas adalah salah satunya bagian.
 - [TSMC](/id/economy/tsmc) — Jalan setapak yang sempurna di pulau yang sama, kontras ini menunjukkan betapa tidak sabar industri ini.
 - [Zhang Zhongmu](/id/people/tsmc-morris-chang) — Orang yang dicari Huang Chongren sebelum digabungkan oleh United Microelectronics.
-- [Shi Zhenrong](/people/施振榮) — Acer-nya pada 1989 membangun joint venture dengan Texas Instruments ASMI, inilah pabrik DRAM pertama di Taiwan, lima tahun lebih awal dari Powerchip.
+- [Shi Zhenrong](/id/people/stan-shih) — Acer-nya pada 1989 membangun joint venture dengan Texas Instruments ASMI, inilah pabrik DRAM pertama di Taiwan, lima tahun lebih awal dari Powerchip.
 - [Cao Xingchen](/id/people/tsao-hsing-cheng-from-chip-tycoon-to-anti-china-defender) — Pendiri UMC, pada akhir 1990-an UMC ingin menggabungkan Powerchip ke dalam kelompoknya.
 
 ## Sumber Gambar

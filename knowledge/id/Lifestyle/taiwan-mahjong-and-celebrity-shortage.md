@@ -149,8 +149,8 @@ Dia tak jawab.
 
 ## Bacaan Lanjutan
 
-- [Industri Game Taiwan & Hiburan Digital](/technology/台灣遊戲產業與數位娛樂) — Panorama game Taiwan dari agen ke original
-- [Malam Hidup & Budaya KTV](/lifestyle/夜生活與KTV文化) — Ritual sosial lain orang Taiwan
+- [Industri Game Taiwan & Hiburan Digital](/id/technology/taiwan-gaming-industry) — Panorama game Taiwan dari agen ke original
+- [Malam Hidup & Budaya KTV](/id/lifestyle/nightlife-and-ktv-culture) — Ritual sosial lain orang Taiwan
 - [Budaya Minimarket Taiwan](/id/lifestyle/convenience-store-culture) — Infrastruktur harian Taiwan siap 24 jam
 
 ---

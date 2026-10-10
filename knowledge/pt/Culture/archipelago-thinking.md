@@ -233,7 +233,7 @@ Da próxima vez que alguém lhe perguntar "afinal Taiwan pertence a onde", pode 
 ## Leituras complementares
 
 - [Visão da história insular de Taiwan: como uma ilha repetidamente governada inventa a sua subjetividade](/pt/history/taiwan-island-historiography) — A metodologia de história insular de Cao Yonghe, base historiográfica da "visão arquipelágica"
-- [Arte contemporânea indígena de Taiwan](/art/台灣原住民當代藝術) — Indígenas austronésios como "portadores vivos do continuum arquipelágico", práticas artísticas contemporâneas
+- [Arte contemporânea indígena de Taiwan](/pt/art/contemporary-indigenous-art-taiwan) — Indígenas austronésios como "portadores vivos do continuum arquipelágico", práticas artísticas contemporâneas
 - [Tradições musicais indígenas de Taiwan](/pt/music/indigenous-music-traditions) — Alta correlação entre música tradicional dos 16 povos e música étnica da Oceania, apoio à teoria da origem austronésia
 - [História do comércio marítimo de Taiwan](/pt/history/taiwan-maritime-trade-history) — Do jade de Peinan à Era dos Descobrimentos, as ligações oceânicas de Taiwan
 - [Mapa cultural dos 16 povos indígenas de Taiwan](/pt/culture/indigenous-peoples-16-tribes-cultural-map) — Sistemas linguísticos dos 16 povos e correspondência com os nove ramos austronésios
@@ -268,7 +268,7 @@ Da próxima vez que alguém lhe perguntar "afinal Taiwan pertence a onde", pode 
 
 [^12]: [DNA vegetal até regista a história! A migração austronésia contada pela _Broussonetia_](https://research.sinica.edu.tw/paper-mulberry-dna-austronesian-history-chung-kuo-fang/) — Entrevista especial 'Ciência com Substância' da Academia Sinica, apresenta a equipa de Chung Kuo-fang a apoiar 'Out of Taiwan' via biogeografia do DNA de _Broussonetia_.
 
-[^13]: [Nusantara (term) - Wikipedia](<https://en.wikipedia.org/wiki/Nusantara_(term)>) — Etimologia completa de Nusantara: javanês antigo _nusa_ (ilha) + empréstimo sânscrito _antara_ (entre).
+[^13]: [Nusantara (term) - Wikipedia](https://en.wikipedia.org/wiki/Nusantara_(term) — Etimologia completa de Nusantara: javanês antigo _nusa_ (ilha) + empréstimo sânscrito _antara_ (entre).
 
 [^14]: [Majapahit - Wikipedia](https://en.wikipedia.org/wiki/Majapahit) — Verbete sobre o império Majapahit de Java Oriental (século XIV), inclui contexto histórico do 'Juramento de Palapa' de Gajah Mada em 1336.
 

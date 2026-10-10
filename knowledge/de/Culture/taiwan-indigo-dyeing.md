@@ -29,6 +29,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:2020._08.24_%E7%B8%BD%E7%B
 translatedFrom: 'Culture/藍染.md'
 sourceCommitSha: 'a43cf9153'
 sourceContentHash: 'sha256:b1932b90a96124c5'
+sourceBodyHash: 'sha256:e04eb558f9b5295b'
 translatedAt: '2026-09-22T14:55:10.346488+00:00'
 ---
 
@@ -179,7 +180,7 @@ Die Farbe im Färbetank ist wieder zum Leben erwacht. Was diese Farbschale letzt
 
 - [Traditionelles Handwerk und immaterielles Kulturerbe Taiwans](/de/culture/traditional-crafts-intangible-cultural-heritage) — Die Position der Wiederbelebung des Sanxia-Indigo in dem System zur Erhaltung des taiwanesischen Handwerks sowie der größere Kontext von „bürgerlicher Vorarbeit, institutionelle Anerkennung danach“
 - [Sanxia Altstadt](/de/history/sanxia-old-street) — Die Geschichte der baulichen Erhaltung der Sanxia Altstadt; dieser Artikel behandelt das Handwerk selbst, der andere behandelt die Straße und die historischen Stätten
-- [Hakka-Kultur und Sprache](/culture/客家文化與語言) — Der vollständigere kulturelle Kontext hinter den Hakka-Blauhemden und -Großärmeligen
+- [Hakka-Kultur und Sprache](/de/culture/hakka-culture-and-language) — Der vollständigere kulturelle Kontext hinter den Hakka-Blauhemden und -Großärmeligen
 - [Taiwanesische Blumenstoffe](/de/culture/taiwan-floral-fabric) — Ein anderes Färbemuster, das einst als Symbol der Hakka galt, dessen Ursprung später als komplexer herausgestellt wurde
 
 ## Bildquellen

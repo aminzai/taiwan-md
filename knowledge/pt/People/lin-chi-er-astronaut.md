@@ -208,7 +208,7 @@ Se aquele laudo de asma estivesse certo, hoje ele seria talvez um piloto da For�
 - [Wu Ta-you (吳大猷)](/pt/people/tai-yu-wu) — Fundador da física em Taiwan, para entender como a geração de cientistas do pós-guerra construiu o ambiente científico básico de Taiwan
 - [Chu Ching-wu (朱經武)](/pt/people/chu-ching-wu) — Outro cientista taiwanês-americano de impacto internacional, para ver como o duplo background cultural Taiwan-EUA floresceu em diferentes disciplinas
 - [Os construtores de montanhas: a aposta do século (造山者：世紀的賭注)](/pt/art/mountain-makers-tsmc-documentary) — Documentário de 2025 de Hsiao Ju-chen (蕭菊貞), entrevistando pioneiros do setor de semicondutores, ecoando a trajetória internacional da mesma geração tecnológica de Taiwan
-- [Desenvolvimento da indústria espacial de Taiwan (台灣太空產業發展)](/technology/台灣太空產業發展) — Panorama dos satélites, foguetes e políticas espaciais próprios de Taiwan, para entender a base industrial local que ele encontrou no retorno
+- [Desenvolvimento da indústria espacial de Taiwan (台灣太空產業發展)](/pt/technology/taiwan-space-industry-development) — Panorama dos satélites, foguetes e políticas espaciais próprios de Taiwan, para entender a base industrial local que ele encontrou no retorno
 
 ## Créditos das imagens
 

@@ -19,6 +19,15 @@ readingTime: 18
 lastVerified: 2026-06-21
 lastHumanReview: true
 featured: false
+sporeLinks:
+  - id: 47
+    platform: 'threads'
+    date: '2026-04-28'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXqRxf5EQpg'
+  - id: 48
+    platform: 'x'
+    date: '2026-04-28'
+    url: 'https://x.com/taiwandotmd/status/2048970734253551638'
 translatedFrom: 'People/沈伯洋.md'
 sourceCommitSha: 'e1b5668ad'
 sourceContentHash: 'sha256:ccbab3f1822e47af'

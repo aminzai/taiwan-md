@@ -72,7 +72,7 @@ function Inner() {
   });
 
   return (
-    <div class="grid lg:grid-cols-[1fr,320px] gap-4">
+    <div class="grid lg:grid-cols-[1fr_320px] gap-4">
       <div>
         <Show
           when={!q.isPending}

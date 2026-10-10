@@ -11,7 +11,7 @@ tags:
     'Макай',
     'японский колониальный период',
   ]
-subcategory: 'Колониализм и империи'
+subcategory: '殖民與帝國'
 author: 'Terry'
 featured: false
 lastVerified: 2026-03-24

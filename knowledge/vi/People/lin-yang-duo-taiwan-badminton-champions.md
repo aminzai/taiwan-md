@@ -14,7 +14,7 @@ tags:
     'Olympic Paris',
     'huy chương vàng',
   ]
-subcategory: 'Thể thao'
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-19
@@ -210,9 +210,9 @@ Mặc dù Lý Dương đã giải nghệ, nhưng tên tuổi "Lâm Dương Phố
 
 **Đọc thêm**:
 
-- [Quách Hành Nhuần](/people/郭婞淳) — Huy chương vàng cử tạ Olympic Tokyo, là đại diện thế hệ vàng Olympic của Đài Loan cùng Lâm Dương Phối
-- [Lý Dương](/people/李洋) — Tiểu sử cá nhân của nửa phía bên phải Lâm Dương Phối: từ cha nói "không phải tay vợt cầu lông" cho đến Bộ trưởng Thể thao trẻ tuổi nhất lịch sử
-- [Đái Tư Doanh](/people/戴資穎) — Nhà vô địch thế giới nữ đơn thời kỳ Lâm Dương Phối, là mặt mũi đại diện khác của thế hệ vàng cầu lông Đài Loan
+- [Quách Hành Nhuần](/vi/people/kuo-hsing-chun-olympic-weightlifting-champion) — Huy chương vàng cử tạ Olympic Tokyo, là đại diện thế hệ vàng Olympic của Đài Loan cùng Lâm Dương Phối
+- [Lý Dương](/vi/people/lee-yang-badminton) — Tiểu sử cá nhân của nửa phía bên phải Lâm Dương Phối: từ cha nói "không phải tay vợt cầu lông" cho đến Bộ trưởng Thể thao trẻ tuổi nhất lịch sử
+- [Đái Tư Doanh](/vi/people/tai-tzu-ying) — Nhà vô địch thế giới nữ đơn thời kỳ Lâm Dương Phối, là mặt mũi đại diện khác của thế hệ vàng cầu lông Đài Loan
 
 ## Tài liệu tham khảo
 
@@ -224,7 +224,7 @@ Mặc dù Lý Dương đã giải nghệ, nhưng tên tuổi "Lâm Dương Phố
 
 [^4]: [Wikipedia: Wang Chi-lin](https://zh.wikipedia.org/zh-tw/%E7%8E%8B%E9%BD%8A%E9%BA%9F) — Birth year and month, height, career rankings and representative team information.
 
-[^5]: [Wikipedia: Lee Yang (Badminton)](https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%B4%8B_(%E7%BE%BD%E7%90%83%E9%81%8B%E5%8B%95%E5%93%A1) — ) — )) — Birth and household registration, family background, partnership and international competition results
+[^5]: [Wikipedia: Lee Yang (Badminton)](<https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%B4%8B_(%E7%BE%BD%E7%90%83%E9%81%8B%E5%8B%95%E5%93%A1)>) — ) — )) — Birth and household registration, family background, partnership and international competition results
 
 [^6]: [Wikipedia: Badminton at the 2020 Summer Olympics – Men's doubles](https://en.wikipedia.org/wiki/Badminton_at_the_2020_Summer_Olympics_%E2%80%93_Men%27s_doubles) — Tokyo Olympics men's doubles gold medalists, final scores and unseeded gold medal record (English article, fact cross-verification).
 

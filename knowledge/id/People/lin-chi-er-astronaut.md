@@ -11,7 +11,7 @@ tags:
     'Kedokteran',
     'Sejarah Migrasi',
   ]
-subcategory: 'Sains dan Akademik'
+subcategory: '科學與學術'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-28
@@ -30,6 +30,7 @@ sporeLinks:
 translatedFrom: 'People/林琪兒.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:a30f0de5d79e98de'
+sourceBodyHash: 'sha256:85e505009fb05c24'
 translatedAt: '2026-08-02T16:10:57.472075+00:00'
 ---
 
@@ -204,10 +205,10 @@ Andai surat diagnosis asma itu dulu akurat, dia mungkin jadi mantan pilot angkat
 
 ## Bacaan Lanjutan
 
-- [吳大猷](/people/吳大猷) — Pendiri fisika Taiwan, memahami bagaimana generasi ilmuwan pasca perang membangun fondasi sains dasar Taiwan
-- [朱經武](/people/朱經武) — Ilmuwan keturunan Taiwan lain yang berpengaruh di komunitas sains internasional, lihat latar belakang budaya ganda Taiwan-AS कैसे mekar di disiplin berbeda
+- [吳大猷](/id/people/tai-yu-wu) — Pendiri fisika Taiwan, memahami bagaimana generasi ilmuwan pasca perang membangun fondasi sains dasar Taiwan
+- [朱經武](/id/people/chu-ching-wu) — Ilmuwan keturunan Taiwan lain yang berpengaruh di komunitas sains internasional, lihat latar belakang budaya ganda Taiwan-AS कैसे mekar di disiplin berbeda
 - [造山者：世紀的賭注](/id/art/mountain-makers-tsmc-documentary) — Dokumenter 2025 karya Hsiao Ju-chen, wawancara para senior semikonduktor, menggemakan jejak internasional generasi serupa teknologi Taiwan
-- [台灣太空產業發展](/technology/台灣太空產業發展) — Lanskap penuh satelit buatan sendiri, roket, dan kebijakan luar angkasa Taiwan, memahami fondasi industri domestik yang dihadapi saat dia pulang
+- [台灣太空產業發展](/id/technology/taiwan-space-industry-development) — Lanskap penuh satelit buatan sendiri, roket, dan kebijakan luar angkasa Taiwan, memahami fondasi industri domestik yang dihadapi saat dia pulang
 
 ## Sumber Gambar
 

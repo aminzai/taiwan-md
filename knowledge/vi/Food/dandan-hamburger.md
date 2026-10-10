@@ -164,9 +164,9 @@ Còn "Tại sao không vào miền Bắc", dữ liệu hiện tại chỉ cho ph
 
 ## Đọc thêm
 
-- [Văn hóa ăn sáng Đài Loan](/food/台灣早餐文化) — Hiểu bối cảnh ẩm thực mà Dandan nằm trong đó từ sự kết hợp Trung-Tây của bữa ăn sáng kiểu Đài Loan.
-- [Văn hóa mì Đài Loan](/food/台灣麵食文化) — Đọc thêm về mì, canh tua Đài Loan và bối cảnh văn hóa ẩm thực địa phương.
-- [Ẩm thực Đài Loan](/food/台灣小吃) — Hiểu bối cảnh lớn hơn của các yếu tố ẩm thực Đài Loan trong thực đơn Dandan.
+- [Văn hóa ăn sáng Đài Loan](/vi/food/taiwan-breakfast-culture) — Hiểu bối cảnh ẩm thực mà Dandan nằm trong đó từ sự kết hợp Trung-Tây của bữa ăn sáng kiểu Đài Loan.
+- [Văn hóa mì Đài Loan](/vi/food/taiwanese-noodle-culture) — Đọc thêm về mì, canh tua Đài Loan và bối cảnh văn hóa ẩm thực địa phương.
+- [Ẩm thực Đài Loan](/vi/food/taiwanese-street-food) — Hiểu bối cảnh lớn hơn của các yếu tố ẩm thực Đài Loan trong thực đơn Dandan.
 
 ## Tài liệu tham khảo
 

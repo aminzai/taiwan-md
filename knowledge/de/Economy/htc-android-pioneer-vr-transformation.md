@@ -141,7 +141,7 @@ In dieser von Unsicherheit geprägten Ära erzählt uns HTCs Geschichte: Wer den
 
 ## Weiterführende Links
 
-- [Taiwan Tech Stories: 100-Punkte-Chips, 60-Punkte-Mikrofon](/technology/台灣科技說故事) — Warum „Quietly Brilliant“ gegen Storytelling-Talente verlor, HTCs Lehre wurde zum ganzen Artikel
+- [Taiwan Tech Stories: 100-Punkte-Chips, 60-Punkte-Mikrofon](/de/technology/taiwan-tech-storytelling) — Warum „Quietly Brilliant“ gegen Storytelling-Talente verlor, HTCs Lehre wurde zum ganzen Artikel
 
 ## Quellen
 

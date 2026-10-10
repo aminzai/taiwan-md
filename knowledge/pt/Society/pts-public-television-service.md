@@ -182,7 +182,7 @@ Talvez os próximos 28 anos forneçam a resposta. Talvez não. Mas uma coisa que
 - [Dublagem e produção de animação em Taiwan](/pt/economy/taiwan-creator-economy) — Em contraste com a indústria comercial de IP, a lógica diferente da PTS na escolha de temas de animação
 - [Festivais e celebrações tradicionais](/pt/culture/traditional-festivals-and-celebrations) — A contribuição de longa data dos documentários da PTS, como _Document Point_, para a preservação da memória cultural de Taiwan
 - [Instituto de Pesquisa de Design de Taiwan](/pt/society/taiwan-design-research-institute) — Outra instituição sem fins lucrativos que caminha por um corda bamba entre a visibilidade e a natureza pública, transformando design em um meio pelo qual o governo serve o povo
-- [Prêmio Golden Bell](/culture/金鐘獎) — Desde _Once Upon a Time_ em 2000 até as seis indicações na 61ª edição, como a categoria de “programa de drama premiado” registra a PTS, e também sua tripla identidade de emissora, produtora e concorrente
+- [Prêmio Golden Bell](/pt/culture/golden-bell-awards) — Desde _Once Upon a Time_ em 2000 até as seis indicações na 61ª edição, como a categoria de “programa de drama premiado” registra a PTS, e também sua tripla identidade de emissora, produtora e concorrente
   </arg_value></tool_call>
 
 ## Fontes das imagens

@@ -212,6 +212,6 @@ Các nguồn của bài viết này đều là các bài viết cụ thể, nghi
 
 ## Đọc thêm
 
-- [Quá trình dân chủ hóa Đài Loan](/history/quá-trình-dân-chủ-hóa-đài-loan)
-- [Công lý chuyển tiếp Đài Loan](/history/công-lý-chuyển-tiếp-đài-loan)
-- [Khủng bố Trắng Đài Loan](/history/khủng-bố-trắng-đài-loan)
+- [Quá trình dân chủ hóa Đài Loan](/vi/history/taiwan-democratization)
+- [Công lý chuyển tiếp Đài Loan](/vi/history/taiwan-transitional-justice)
+- [Khủng bố Trắng Đài Loan](/vi/history/taiwan-white-terror)

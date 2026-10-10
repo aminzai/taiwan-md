@@ -23,6 +23,7 @@ lastHumanReview: true
 translatedFrom: 'People/楊勇緯.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:2486f039d0fdc0ce'
+sourceBodyHash: 'sha256:162f09653edec7c3'
 translatedAt: '2026-08-13T04:40:00+08:00'
 ---
 
@@ -148,7 +149,7 @@ Vom Silber in Tokio zur Weltranglistenspitze, von der Asienspiele-Goldmedaille b
 
 **Weiterführende Lektüre**:
 
-- [Kuo Hsing-chun](/people/郭婞淳) – Olympia-Gold im Gewichtheben in Tokio, Taiwanesin mit Medaillen bei drei aufeinanderfolgenden Olympischen Spielen
+- [Kuo Hsing-chun](/de/people/kuo-hsing-chun-olympic-weightlifting-champion) – Olympia-Gold im Gewichtheben in Tokio, Taiwanesin mit Medaillen bei drei aufeinanderfolgenden Olympischen Spielen
 
 ## Referenzen
 

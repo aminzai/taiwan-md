@@ -15,7 +15,7 @@ tags:
     'Kerajaan Tungning',
     'Benteng Zeelandia',
   ]
-subcategory: 'Kolonialisme dan Kekaisaran'
+subcategory: '殖民與帝國'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-16
@@ -25,6 +25,7 @@ readingTime: 10
 translatedFrom: 'History/荷西明鄭時期.md'
 sourceCommitSha: '85926aa3b'
 sourceContentHash: 'sha256:475b891f7794f26c'
+sourceBodyHash: 'sha256:b9a9258412d16bc5'
 translatedAt: '2026-08-05T04:57:01.336555+00:00'
 ---
 
@@ -114,12 +115,12 @@ Nuansa asing dan multikulturalisme, dengan laut sebagai jalan, tiba di Taiwan, m
 **Bacaan Lanjutan**:
 
 - [Zaman Prasejarah dan Orang Asli](/id/history/prehistoric-era-and-indigenous-peoples) — Sebelum orang Belanda mendarat, pulau sudah memiliki masyarakat otonom
-- [Masa Pemerintahan Qing](/history/清治時期) — 212 tahun setelah 1683, bagaimana Taiwan berkembang dari "prefektur kecil" menjadi provinsi
+- [Masa Pemerintahan Qing](/id/history/qing-dynasty-rule) — 212 tahun setelah 1683, bagaimana Taiwan berkembang dari "prefektur kecil" menjadi provinsi
 - [Sejarah Perdagangan Maritim Taiwan](/id/history/taiwan-maritime-trade-history) — Konteks lengkap jaringan perdagangan dari Belanda ke Dongning, ke era Qing
 - [Sejarah dan Gerakan Penamaan Kembali Orang Asli Taiwan](/id/history/indigenous-peoples-history-and-naming-movement) — Kelompok Pingpu yang terdampak gelombang migrasi orang Han
 - [Historiografi Pulau Taiwan](/id/history/taiwan-island-historiography) — Perspektif sejarah berpusat pulau milik Cao Yong-he, menembusi sudut pandang inti periode ini
-- [Formosa](/history/福爾摩沙) — Kontroversi asal nama "Formosa", serta bagaimana orang Barat menulis pulau ini selama empat ratus tahun
-- [Museum Sejarah Nasional Taiwan](/society/國立臺灣歷史博物館) — NMTH pameran tetap Zona 3 "Pulau dan Manusia yang Lahir dari Laut" serta pameran khusus internasional 2024 lintas-1624 langsung mempresentasikan periode ini; 1624 adalah tahun VOC mendirikan Fort Zeelandia di Tayouan
+- [Formosa](/id/history/formosa-historical-name) — Kontroversi asal nama "Formosa", serta bagaimana orang Barat menulis pulau ini selama empat ratus tahun
+- [Museum Sejarah Nasional Taiwan](/id/society/national-museum-of-taiwan-history) — NMTH pameran tetap Zona 3 "Pulau dan Manusia yang Lahir dari Laut" serta pameran khusus internasional 2024 lintas-1624 langsung mempresentasikan periode ini; 1624 adalah tahun VOC mendirikan Fort Zeelandia di Tayouan
 
 ## Referensi
 

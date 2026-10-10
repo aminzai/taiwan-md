@@ -11,7 +11,7 @@ tags:
     'lembaga independen',
     'pemilu 2026',
   ]
-subcategory: 'Sistem Pemilu'
+subcategory: '選舉制度'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-27
@@ -20,6 +20,7 @@ readingTime: 12
 translatedFrom: 'Politics/中選會制度.md'
 sourceCommitSha: 'e957cf7f1'
 sourceContentHash: 'sha256:11c48f00ef5f2757'
+sourceBodyHash: 'sha256:a1bf64af5a7a6426'
 translatedAt: '2026-07-30T21:55:48.043043+00:00'
 ---
 

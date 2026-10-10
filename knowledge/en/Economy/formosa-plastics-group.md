@@ -156,7 +156,7 @@ The story of the Formosa Plastics Group is a microcosm of Taiwan's industrializa
 
 **Further Reading**:
 
-- [Taiwan Oil Price Mechanism and CPC](/economy/台灣油價機制與中油) — The situation of CPC, another refinery in Taiwan outside of Formosa Plastics: every time oil prices surge, it is called to bear the brunt first; they are distributed equally per liter without anyone tracking who uses the most.
+- [Taiwan Oil Price Mechanism and CPC](/en/economy/taiwan-fuel-pricing-and-cpc) — The situation of CPC, another refinery in Taiwan outside of Formosa Plastics: every time oil prices surge, it is called to bear the brunt first; they are distributed equally per liter without anyone tracking who uses the most.
 
 ## References
 

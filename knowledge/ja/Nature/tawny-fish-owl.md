@@ -21,6 +21,15 @@ readingTime: 12
 lastVerified: 2026-05-12
 lastHumanReview: false
 featured: false
+sporeLinks:
+  - id: 59
+    platform: 'threads'
+    date: '2026-05-04'
+    url: 'https://www.threads.com/@taiwandotmd/post/DX6Xxd6kQan'
+  - id: 60
+    platform: 'x'
+    date: '2026-05-04'
+    url: 'https://x.com/taiwandotmd/status/2051235570995839479'
 translatedFrom: 'Nature/黃魚鴞.md'
 sourceCommitSha: '21298a7a'
 sourceContentHash: 'sha256:7f5ae90c4eafcd0e'

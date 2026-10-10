@@ -12,7 +12,7 @@ tags:
     'Paléolithique',
     'Royaume de Dadù',
   ]
-subcategory: 'Préhistoire et peuples autochtones'
+subcategory: '史前與原住民'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-07

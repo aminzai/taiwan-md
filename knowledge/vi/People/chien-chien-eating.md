@@ -11,7 +11,7 @@ tags:
     'Mukbang',
     'Đồ ăn Taiwan',
   ]
-subcategory: 'Kỹ thuật số và truyền thông'
+subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16
@@ -21,6 +21,7 @@ curation: 'incubating'
 translatedFrom: 'People/千千進食中.md'
 sourceCommitSha: '513bf256a'
 sourceContentHash: 'sha256:84a9abe5d2802f5e'
+sourceBodyHash: 'sha256:685bed7af9ee32a1'
 translatedAt: '2026-09-14T13:11:01.364195+00:00'
 ---
 

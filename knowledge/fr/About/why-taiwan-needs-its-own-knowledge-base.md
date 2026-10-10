@@ -75,7 +75,7 @@ Alors, pourquoi cette question devient-elle urgente en 2026 ?
 
 Parce que les IA deviennent de plus en plus la première porte d'entrée pour ceux qui demandent « Qu'est-ce que Taïwan ? », et qu'une IA possède une caractéristique souvent mal comprise : elle ne produit pas de connaissances. Ce qu'elle répète est la version ayant le plus de volume, la meilleure structure et les licences les plus claires parmi les données qu'elle a lues.
 
-Cela repose sur un mécanisme froid. Les « connaissances mondiales » des principaux modèles de langage à grande échelle dépendent fortement de Common Crawl (une base de données publique qui indexe des milliards de pages web chaque mois), laquelle est fortement orientée vers l'anglais, avec quarante et une langues représentant chacune moins d'un pour cent du total.[^2] L'autre pilier est [Wikipedia](/technology/維基百科) : elle sert à la fois de corpus d'entraînement et de « livre de référence » consulté par de nombreuses IA lors de recherches en temps réel, se classant dans le top trois des domaines cités par ChatGPT.[^3] Le problème est que Wikipédia elle-même est un manuel vivant de l'inégalité linguistique.
+Cela repose sur un mécanisme froid. Les « connaissances mondiales » des principaux modèles de langage à grande échelle dépendent fortement de Common Crawl (une base de données publique qui indexe des milliards de pages web chaque mois), laquelle est fortement orientée vers l'anglais, avec quarante et une langues représentant chacune moins d'un pour cent du total.[^2] L'autre pilier est [Wikipedia](/fr/technology/wikipedia-in-taiwan) : elle sert à la fois de corpus d'entraînement et de « livre de référence » consulté par de nombreuses IA lors de recherches en temps réel, se classant dans le top trois des domaines cités par ChatGPT.[^3] Le problème est que Wikipédia elle-même est un manuel vivant de l'inégalité linguistique.
 
 ```tw-figure
 7,21 millions → 1,54 million / articles
@@ -99,7 +99,7 @@ _Campus de l'Académie des sciences. Même la plus haute institution de recherch
 
 (Un point plus flou pour le consommateur final est l'opacité, plutôt que « tous sont des modèles chinois » : bien que l'IA de la version taïwanaise de LINE utilise en réalité GPT-4.1 d'OpenAI, le tuteur IA "Yincai" utilisé par plus de 750 000 élèves du ministère de l'Éducation ne divulgue pas quel modèle est à sa base ; plutôt que de se demander « si c'est un modèle fait en Chine », il est plus difficile de répondre à « qui est le fournisseur réel ».)
 
-C'est aussi pour cette raison qu'il existe la version expliquée par Taiwan.md. Soyons clairs sur ce qu'est ce projet : c'est un projet open source indépendant, lancé par Wu Zhe-yu, sous licence CC BY-SA, soutenu par de petites contributions communautaires, sans financement gouvernemental, institutionnel ou partisan (comment il est passé d'une idée à une entité capable de s'auto-entretenir est détaillé sur [Taiwan.md - À propos de Taiwan.md](/about/taiwan-md)). Mais avec la même règle, nous devons aussi évaluer le gouvernement : l'IA souveraine du gouvernement taïwanais (TAIDE, base de données du ministère des Communications) doit également être surveillée. La phrase « celui qui contrôle la réponse contrôle le récit » ne s'applique pas seulement à la rive opposée. Et il existe une conséquence plus radicale que de donner une mauvaise réponse : ne pas fournir aucune version alternative et laisser l'espace vide. C'est précisément ce qu'il faut mesurer ensuite.
+C'est aussi pour cette raison qu'il existe la version expliquée par Taiwan.md. Soyons clairs sur ce qu'est ce projet : c'est un projet open source indépendant, lancé par Wu Zhe-yu, sous licence CC BY-SA, soutenu par de petites contributions communautaires, sans financement gouvernemental, institutionnel ou partisan (comment il est passé d'une idée à une entité capable de s'auto-entretenir est détaillé sur [Taiwan.md - À propos de Taiwan.md](/fr/about/taiwan-md)). Mais avec la même règle, nous devons aussi évaluer le gouvernement : l'IA souveraine du gouvernement taïwanais (TAIDE, base de données du ministère des Communications) doit également être surveillée. La phrase « celui qui contrôle la réponse contrôle le récit » ne s'applique pas seulement à la rive opposée. Et il existe une conséquence plus radicale que de donner une mauvaise réponse : ne pas fournir aucune version alternative et laisser l'espace vide. C'est précisément ce qu'il faut mesurer ensuite.
 
 ## Demander si Hunyuan connaît un président, 70 % des questions en anglais restent sans réponse
 
@@ -198,7 +198,7 @@ En février 2025, un journaliste de Deutsche Welle a posé la même question en 
 
 En anglais, le modèle a généré une réponse complète de 662 mots, affirmant que Taïwan était un pays indépendant avec son propre gouvernement, armée et institutions démocratiques. Cette réponse est restée visible pendant environ deux secondes avant d'être supprimée par le système, remplacée par « Parlons d'autre chose ». En chinois, il n'y a eu qu'une seule réponse du début à la fin : Taïwan est une terre sacrée de la Chine depuis des temps immémoriaux.[^24]
 
-Ces deux secondes sont la raison d'être de tout cet article. Cette réponse a existé — elle a été écrite, puis retirée en deux secondes. Taïwan doit écrire sa propre version pour que quelque chose puisse résister dans cette case vide ; et ce qui peut réellement résister est une version publique, vérifiable, traduite dans suffisamment de langues et sauvegardée pour ne pas pouvoir être effacée. C'est aussi ce que font des œuvres comme le documentaire [Pays invisible](/art/看不見的國家) : faire en sorte qu'une existence souvent ignorée par les intermédiaires ait d'abord une version visible.
+Ces deux secondes sont la raison d'être de tout cet article. Cette réponse a existé — elle a été écrite, puis retirée en deux secondes. Taïwan doit écrire sa propre version pour que quelque chose puisse résister dans cette case vide ; et ce qui peut réellement résister est une version publique, vérifiable, traduite dans suffisamment de langues et sauvegardée pour ne pas pouvoir être effacée. C'est aussi ce que font des œuvres comme le documentaire [Pays invisible](/fr/art/invisible-nation) : faire en sorte qu'une existence souvent ignorée par les intermédiaires ait d'abord une version visible.
 
 Que peut faire le lecteur ? Pour être honnête, Taïwan ne possède actuellement aucun bouton pratique pour « signaler à l'IA qu'elle a mal répondu sur Taïwan ». Les outils les plus proches sont conçus pour les nouvelles et les rumeurs, pas pour les dialogues avec les IA. Mais si vous voulez agir, il y a une première étape concrète : la prochaine fois que vous découvrirez qu'une IA donne une réponse bizarre sur Taïwan, capturez cette image ou transmettez-la au robot LINE de Cofacts « Vrai ou Faux » (ajoutez @cofacts en ami), ou remplissez le formulaire de plainte du Centre de vérification des faits de Taïwan.[^25] Le fait qu'il n'y ait pas de canal direct est une raison supplémentaire pour l'existence d'une base de connaissances publique et vérifiable. Et si vous êtes un lecteur qui lit à propos de Taïwan dans une autre langue, vous n'avez pas le score des taux de refus pour juger de ce qui a été censuré — cette impuissance de détection est précisément la meilleure preuve qu'une autre version doit exister.
 
@@ -213,8 +213,8 @@ Revenons à cette réponse de quarante octets du 1er mai. Le vide est toujours l
 ## Lectures complémentaires
 
 - [Fondation pour la culture ouverte](/technology/開源文化基金會) — Promoteur du code source ouvert et des données ouvertes à Taïwan, expliquant pourquoi la publication des connaissances est une infrastructure de base.
-- [Laboratoire d'intelligence artificielle de Taïwan](/technology/台灣人工智慧實驗室) — Une voie pour le développement local de capacités en IA, aux côtés du TAIDE gouvernemental et de la base de données du ministère des Communications.
-- [École d'intelligence artificielle de Taïwan](/technology/台灣人工智慧學校) — Organisation où se trouve le directeur académique Tsai Ming-shun, formant les talents en IA à Taïwan et discutant en première ligne de la pénurie de données locales.
+- [Laboratoire d'intelligence artificielle de Taïwan](/fr/technology/taiwan-ai-labs) — Une voie pour le développement local de capacités en IA, aux côtés du TAIDE gouvernemental et de la base de données du ministère des Communications.
+- [École d'intelligence artificielle de Taïwan](/fr/technology/taiwan-ai-academy) — Organisation où se trouve le directeur académique Tsai Ming-shun, formant les talents en IA à Taïwan et discutant en première ligne de la pénurie de données locales.
 
 ## Sources des images
 
@@ -261,11 +261,11 @@ Toutes les images de cet article sont mises en cache dans `public/article-images
 
 [^16]: [Conflit de licence et défis de la base de données IA souveraine (The Reporter)](https://www.twreporter.org/a/taiwan-sovereign-ai-zhtw-llm-copyright-conflict) — Enquête sur les difficultés du ministère des Communications pour acquérir les droits d'utilisation des données pour le projet TAIDE.
 
-[^17]: [History of a Taiwan historian (Taipei Times)](https://www.taipeitimes.com/News/taïwan/archives/2003/08/12/2003063294) — Article de Melody Chen sur Tsao Yung-ho et sa « Vision historique de l'île de Taïwan ».
+[^17]: [History of a Taiwan historian (Taipei Times)](https://www.taipeitimes.com/News/taiwan/archives/2003/08/12/2003063294) — Article de Melody Chen sur Tsao Yung-ho et sa « Vision historique de l'île de Taïwan ».
 
 [^18]: [Taiwan Tongues projet de données ouvertes](https://tt.ima.org.tw/) — Base de données pour les langues locales, soulignant que les langues des travailleurs migrants ne sont pas encore incluses.
 
-[^19]: [Documents GoLaxy révélant l'influence de la Chine (Laboratoire de démocratie de Taïwan)](https://medium.com/doublethinklab/the-rise-of-ai-in-prc-influence-operations-nine-takeaways-from-the-golaxy-documents-2d6617a75e5) — Analyse des documents fuités montrant l'utilisation de l'IA pour la manipulation d'opinion.
+[^19]: [Documents GoLaxy révélant l'influence de la Chine (Laboratoire de démocratie de Taïwan)](https://medium.com/doublethinklab/the-rise-of-ai-in-prc-influence-operations-nine-takeaways-from-the-golaxy-documents-2d6617a753e5) — Analyse des documents fuités montrant l'utilisation de l'IA pour la manipulation d'opinion.
 
 [^20]: [Recensement des forks de Taiwan.md (dashboard-forks.json)](https://taiwan.md/api/dashboard-forks.json) — Données sur les projets dérivés, incluant HongKong.md comme exemple de résilience par la distribution.
 
@@ -273,7 +273,7 @@ Toutes les images de cet article sont mises en cache dans `public/article-images
 
 [^22]: [Indigenous AI voice models: Māori (IEEE Spectrum)](https://spectrum.ieee.org/indigenous-ai-voice-models-maori) — Rapport sur la protection des droits de propriété intellectuelle et culturelle pour les langues autochtones.
 
-[^13]: [Conséquences du blocage de Wikipedia en Chine](https://en.wikipedia.org/wiki/Wikimedia_censorship_in_mainland_China) — ; étude de comparaison par Citizen Lab sur Baidu Baike
+[^13]: [Conséquences du blocage de Wikipedia en Chine](https://udn.com/news/story/6656/8241591) — ; étude de comparaison par Citizen Lab sur Baidu Baike
 
 [^24]: [DeepSeek supprimant une réponse sur Taïwan après deux secondes (The Reporter)](https://www.storm.mg/article/5317299) — Rapport du 03/02/2025 sur la suppression automatique d'une réponse en anglais favorable à Taïwan par DeepSeek.
 

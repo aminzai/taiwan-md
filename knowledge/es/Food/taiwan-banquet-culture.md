@@ -13,7 +13,7 @@ tags:
     'Traditional Craft',
     'Human Touch',
   ]
-subcategory: 'Dining Scenes'
+subcategory: '飲食場景'
 author: 'Taiwan.md'
 category: 'Food'
 readingTime: 12
@@ -27,7 +27,7 @@ imageCredit: '玄史生 / Wikimedia Commons'
 imageLicense: 'CC0 1.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:The_End_of_Ghost_Festival_Party_at_Dongsha_Tzufu_Temple_20170919a.jpg'
 translatedFrom: 'Food/台灣辦桌文化.md'
-sourceCommitSha: '26a67c77'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:87996856be7f510f'
 sourceBodyHash: 'sha256:dc734b24b423e098'
 translatedAt: '2026-06-16T17:05:07Z'

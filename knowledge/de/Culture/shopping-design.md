@@ -165,10 +165,10 @@ Daher ist das Cover von _„Design Wanted“_ auch eine Prüfungsanfrage. Es suc
 ## Weiterführende Lektüre
 
 - [Magazin](/de/culture/magazine) — Der hundertjährige Wandel der taiwanesischen Magazine; _Shopping Design_ ist ein repräsentatives Beispiel für die „weichen Magazine“.
-- [Human Magazine](/culture/人間雜誌) — Eine andere Seele des taiwanesischen Magazins, das durch Berichterstattung und Fotografie die Unterscheidung und Benennung der unteren Gesellschaft trifft – eine Münze mit zwei Seiten zum Designeinkaufsmagazin.
-- [Taiwan Advertising History](/culture/台灣廣告史) — Die Ursprünge der Ausbildung von Huang Wei-rong und Li Hui-ching; das Verständnis, wie die Generation der „Ideologie-Werbung“ ihre Fähigkeit des Geschichtenerzählens in Magazine brachte.
+- [Human Magazine](/de/culture/renjian-magazine) — Eine andere Seele des taiwanesischen Magazins, das durch Berichterstattung und Fotografie die Unterscheidung und Benennung der unteren Gesellschaft trifft – eine Münze mit zwei Seiten zum Designeinkaufsmagazin.
+- [Taiwan Advertising History](/de/culture/taiwan-advertising-history) — Die Ursprünge der Ausbildung von Huang Wei-rong und Li Hui-ching; das Verständnis, wie die Generation der „Ideologie-Werbung“ ihre Fähigkeit des Geschichtenerzählens in Magazine brachte.
 - [Taiwan Tea Ceremony and Lifestyle Aesthetics](/de/culture/taiwan-tea-ceremony-and-aesthetic-living) — Wie sich Lebensästhetik in Taiwan zu einem alltäglichen Thema entwickelt hat, über das man sprechen und kaufen kann.
-- [Nie Yongzhen](/people/聶永真) — Ein anderer Name im gleichen taiwanesischen Designkontext, der Design dem Massenpublikum präsentiert.
+- [Nie Yongzhen](/de/people/nieh-yung-jen) — Ein anderer Name im gleichen taiwanesischen Designkontext, der Design dem Massenpublikum präsentiert.
 
 ## Bildquellen
 

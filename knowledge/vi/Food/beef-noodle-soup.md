@@ -23,6 +23,7 @@ imageCredit: 'Wikimedia Commons, CC BY-SA 2.0'
 translatedFrom: 'Food/牛肉麵.md'
 sourceCommitSha: '271c50fb'
 sourceContentHash: 'sha256:0f8567c72fce22ef'
+sourceBodyHash: 'sha256:31e72a4ea39ea451'
 translatedAt: '2026-07-30T23:04:39+08:00'
 ---
 
@@ -151,11 +152,11 @@ Từ gánh Halal ở phố Đào Nguyên, Đài Bắc, thương hiệu lâu đ�
 
 ## Đọc thêm
 
-- [Toàn cảnh ẩm thực Đài Loan](/food/台灣美食總覽) — Bản đồ toàn cảnh từ ẩm thực người bản địa đến Michelin: vị trí của mì bò trong bốn trăm năm hòa huyết vị giác
-- [Văn hóa bữa sáng Đài Loan](/food/台灣早餐文化) — Bánh nướng, quẩy, sữa đậu nành cũng được người di cư ngoại tỉnh mang vào sau năm 1949, cùng với mì bò là biểu tượng tiêu biểu của sự hòa quyện ẩm thực thời hậu chiến
-- [Cơm thịt kho Đài Loan](/food/台灣滷肉飯) — Một con đường khác từ bếp ăn làng quân nhân đến món ăn quốc dân, cùng chia sẻ dòng máu kép nỗi nhớ quê hương và bản địa hóa với mì bò
-- [Chính phủ Quốc dân di chuyển ra Đài Loan và tái thiết thời hậu chiến](/history/國民政府遷台與戰後重建) — Bước ngoặt văn hóa ẩm thực do 1,2 triệu quân dân di cư xuống phía nam mang lại, là bối cảnh lịch sử cho sự ra đời của mì bò
-- [Văn hóa chợ đêm Đài Loan](/food/夜市文化) — Không gian lưu thông bình dân cốt lõi của mì bò sau khi bước ra khỏi các khu làng quân nhân
+- [Toàn cảnh ẩm thực Đài Loan](/vi/food/taiwan-food-overview) — Bản đồ toàn cảnh từ ẩm thực người bản địa đến Michelin: vị trí của mì bò trong bốn trăm năm hòa huyết vị giác
+- [Văn hóa bữa sáng Đài Loan](/vi/food/taiwan-breakfast-culture) — Bánh nướng, quẩy, sữa đậu nành cũng được người di cư ngoại tỉnh mang vào sau năm 1949, cùng với mì bò là biểu tượng tiêu biểu của sự hòa quyện ẩm thực thời hậu chiến
+- [Cơm thịt kho Đài Loan](/vi/food/braised-pork-rice) — Một con đường khác từ bếp ăn làng quân nhân đến món ăn quốc dân, cùng chia sẻ dòng máu kép nỗi nhớ quê hương và bản địa hóa với mì bò
+- [Chính phủ Quốc dân di chuyển ra Đài Loan và tái thiết thời hậu chiến](/vi/history/kmt-government-relocation-and-postwar-reconstruction) — Bước ngoặt văn hóa ẩm thực do 1,2 triệu quân dân di cư xuống phía nam mang lại, là bối cảnh lịch sử cho sự ra đời của mì bò
+- [Văn hóa chợ đêm Đài Loan](/vi/food/night-market-culture) — Không gian lưu thông bình dân cốt lõi của mì bò sau khi bước ra khỏi các khu làng quân nhân
 
 ---
 

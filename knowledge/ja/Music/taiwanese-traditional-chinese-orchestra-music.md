@@ -10,6 +10,15 @@ featured: false
 lastVerified: 2026-04-03
 lastHumanReview: true
 category: 'Music'
+sporeLinks:
+  - id: 4
+    platform: 'threads'
+    date: '2026-04-04'
+    url: 'https://www.threads.com/@taiwandotmd/post/DWtoAI1k8Xf'
+  - id: 5
+    platform: 'x'
+    date: '2026-04-04'
+    url: 'https://x.com/taiwandotmd/status/2040438911697379383'
 translatedFrom: 'Music/台灣國樂.md'
 sourceCommitSha: 'dd39065b'
 sourceContentHash: 'sha256:e1bc3aa8197e4184'

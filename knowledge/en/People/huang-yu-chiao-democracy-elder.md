@@ -8,7 +8,7 @@ title: 'Huang Yu-chiao: Democracy Elder'
 description: 'At the critical moment of the 1977 Zhongli Incident, she stood at the police station door urging the crowd not to act rashly — this 58-year-old pharmacist who had studied in Japan, later a four-term Provincial Assemblywoman and DPP founding member, has long been overlooked in historical narratives.'
 date: 2026-04-05
 category: 'People'
-subcategory: 'Politics and Democracy'
+subcategory: '政治與民主'
 tags:
   [
     'Zhongli Incident',

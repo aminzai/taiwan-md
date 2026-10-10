@@ -20,13 +20,13 @@ tags:
     peuples autochtones,
   ]
 category: 'People'
-subcategory: 'Musique et arts de la scène'
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 readingTime: 12
 lastVerified: 2026-04-07
 translatedFrom: 'People/盧廣仲.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:a21c857b64fd8e71'
 sourceBodyHash: 'sha256:090ff0c53b31ba5d'
 translatedAt: 2026-05-16T22:21:29Z
@@ -160,7 +160,7 @@ En 2015, il a marché 315 kilomètres jusqu'à Tainan. En 2024, il a parcouru le
 
 [^15]: [Wikipedia〈刻在你心底的名字〉電影](https://zh.wikipedia.org/zh-hant/%E5%88%BB%E5%9C%A8%E4%BD%A0%E5%BF%83%E5%BA%95%E7%9A%84%E5%90%8D%E5%AD%97) — Détails du film gay taïwanais de 2020 et calendrier de distribution mondiale sur Netflix.
 
-[^16]: [Wikipedia〈刻在我心底的名字〉歌曲（英文）](<https://en.wikipedia.org/wiki/Your_Name_Engraved_Herein_(song)>) — 64 millions de vues YouTube, numéro 1 KKBOX dans quatre territoires, réponse de Richard Sanderson à l'accusation de plagiat.
+[^16]: [Wikipedia〈刻在我心底的名字〉歌曲（英文）](https://en.wikipedia.org/wiki/Your_Name_Engraved_Herein_(song) — 64 millions de vues YouTube, numéro 1 KKBOX dans quatre territoires, réponse de Richard Sanderson à l'accusation de plagiat.
 
 [^17]: [中央通訊社〈金馬 57 最佳電影歌曲〉](https://www.cna.com.tw/news/firstnews/202011210239.aspx) — Palmarès de la 57e cérémonie des Golden Horse Awards.
 

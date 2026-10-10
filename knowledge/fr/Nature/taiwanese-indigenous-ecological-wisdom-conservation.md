@@ -12,7 +12,7 @@ tags:
     culture de la chasse,
     développement durable,
   ]
-subcategory: 'Savoirs écologiques autochtones'
+subcategory: '原住民生態智慧'
 category: 'Nature'
 author: 'Taiwan.md Contributors'
 readingTime: 9

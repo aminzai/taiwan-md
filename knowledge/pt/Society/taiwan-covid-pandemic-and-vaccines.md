@@ -32,6 +32,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:COVID-19_vaccinations_in_E
 translatedFrom: 'Society/台灣新冠疫情與疫苗.md'
 sourceCommitSha: 'fa44ba5a9'
 sourceContentHash: 'sha256:1533ad6bc4336b4a'
+sourceBodyHash: 'sha256:40600aa18fa8f8d1'
 translatedAt: '2026-09-26T11:13:28.332277+00:00'
 ---
 
@@ -385,7 +386,7 @@ As linhas ainda não fechadas também são muito claras. O caso de fraude da Fun
 - [Trabalhadores migrantes](/pt/society/migrant-workers-in-taiwan) — contexto estrutural por trás da ordem de confinamento em Miaoli: a situação laboral e habitacional de 700 mil pessoas em Taiwan
 - [Audrey Tang](/pt/people/audrey-tang) — a ministra sem pasta na cadeia de coordenação do mapa de máscaras, e a relação entre tecnologia cívica e abertura de dados governamentais
 - [Sistema de medicina de desastre de Taiwan](/pt/technology/taiwan-disaster-medicine-system) — contexto institucional por trás das enfermarias especializadas e do congestionamento de emergências
-- [Academia Sinica](/society/中央研究院) — a instituição que desenvolveu anticorpos monoclonais capazes de identificar o vírus da COVID-19 em dezenove dias, e o sistema que a permitiu agir com urgência
+- [Academia Sinica](/pt/society/academia-sinica) — a instituição que desenvolveu anticorpos monoclonais capazes de identificar o vírus da COVID-19 em dezenove dias, e o sistema que a permitiu agir com urgência
 
 ## Fontes de imagens
 

@@ -93,7 +93,7 @@ Em 2026 ele continua vivo, esse facto em si é a resposta mais silenciosa a todo
 
 [^2]: [The Reporter: Controvérsia da literatura nativista de Taiwan nos anos 1970](https://www.twreporter.org/a/1970s-taiwan-nativist-literature-huang-chunming) — Inclui o desenrolar da controvérsia da literatura nativista de 1977 e a posição de Huang Chun-ming na controvérsia.
 
-[^3]: [Wikipédia: O Grande Boneco do Filho (filme)](<https://zh.wikipedia.org/zh-tw/兒子的大玩偶_(電影) — Confirma 1983 Hou Hsiao-hsien realizou "O Grande Boneco do Filho", importante obra representativa da Nova Vaga de Taiwan.
+[^3]: [Wikipédia: O Grande Boneco do Filho (filme)](<https://zh.wikipedia.org/zh-tw/兒子的大玩偶_(電影)>) — Confirma 1983 Hou Hsiao-hsien realizou "O Grande Boneco do Filho", importante obra representativa da Nova Vaga de Taiwan.
 
 [^4]: [Reportagem relacionada: Partida de Huang Kuo-chun em 2003](https://zh.wikipedia.org/zh-tw/黃國峻) — Confirma o segundo filho de Huang Chun-ming, Huang Kuo-chun (escritor), faleceu por suicídio a 20 de junho de 2003.
 

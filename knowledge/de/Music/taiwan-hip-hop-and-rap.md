@@ -39,6 +39,7 @@ relatedDiary: ['2026-06-09-010031-嘻哈饒舌-round2']
 translatedFrom: 'Music/台灣嘻哈與饒舌發展.md'
 sourceCommitSha: '3d2adaeb8'
 sourceContentHash: 'sha256:d3459042301dfb22'
+sourceBodyHash: 'sha256:49c1a63539596208'
 translatedAt: '2026-09-26T12:58:27.933376+00:00'
 ---
 

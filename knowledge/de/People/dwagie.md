@@ -146,9 +146,9 @@ Daher bleibt der beste Zugang zu Dwagie die Musik. Politische Ereignisse ziehen 
 
 **Weiterführende Links**:
 
-- [Taiwanesischer Hip-Hop und Rap-Entwicklung](/music/台灣嘻哈與饒舌發展) – Vom Tom Chang, Hot Dog, Dwagie bis zu Leo Wang, Bear Child und der neuen Generation: der Kontext des taiwanesischen Rap.
-- [Taiwanesische Independent Music](/music/台灣獨立音樂) – Wie Independent Labels, lokale Szenen und Non-Mainstream-Musik Taiwans andere Musikstraße stützen.
-- [Golden Melody Awards](/music/金曲獎) – Aus Sicht des Popmusikpreises: Wandel von Taiwans Musikgenres und Sprachpolitik.
+- [Taiwanesischer Hip-Hop und Rap-Entwicklung](/de/music/taiwan-hip-hop-and-rap) – Vom Tom Chang, Hot Dog, Dwagie bis zu Leo Wang, Bear Child und der neuen Generation: der Kontext des taiwanesischen Rap.
+- [Taiwanesische Independent Music](/de/music/indie-music-scene) – Wie Independent Labels, lokale Szenen und Non-Mainstream-Musik Taiwans andere Musikstraße stützen.
+- [Golden Melody Awards](/de/music/pop-music-and-golden-melody-awards) – Aus Sicht des Popmusikpreises: Wandel von Taiwans Musikgenres und Sprachpolitik.
 - [228-Vorfall](/de/history/228-incident) – Eines der historischen und politischen Erinnerungen Taiwans, die Dwagies Werk häufig berührt.
 
 ## Bildquellen

@@ -16,7 +16,7 @@ tags:
     'Lễ hội Lửa Cầu',
     'Lễ hội Đảo Phòng',
   ]
-subcategory: 'Độc lập và Rock'
+subcategory: '獨立與搖滾'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-14

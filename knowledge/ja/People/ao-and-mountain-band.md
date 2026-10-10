@@ -4,7 +4,7 @@ description: '凹と山（Our Shame）は台湾の電気民謡デュオで、メ
 date: 2026-04-18
 author: 'Taiwan.md'
 category: 'People'
-subcategory: '音楽とパフォーマンス'
+subcategory: '音樂與表演'
 tags:
   - '人物'
   - '凹と山'
@@ -152,7 +152,7 @@ Isanはこの協業モデルを次のように語ります：
 ## 延伸阅读
 
 - [台湾インディーズ音楽](/ja/music/indie-music-scene) — 2010年代〜2020年代の台湾インディーズバンドシーンとFolktronicaの歴史的文脈
-- [台湾ポップミュージック](/music/台灣流行音楽) — 華語ポップミュージック産業構造とインディーズバンドの位置付け
+- [台湾ポップミュージック](/ja/music/golden-melodies-legacy-taiwan-pop-music) — 華語ポップミュージック産業構造とインディーズバンドの位置付け
 - [Cicada](/ja/people/cicada-band) — 同様に器楽／非主流路線を歩むインディーズバンド、二つの「アイドル路線を取らない」創作戦略の比較
 - [魏如萱](/ja/people/waa-wei-singer) — 主流とインディーズ、女性クリエイターの別の道筋
 - [Hello Nico](/ja/people/hello-nico-band) — 同じく2010年代の台湾インディーズ女性ボーカル、Dream Popのサウンドで抑圧を包み、「音楽で最大の困難は自分と向き合うことだ」と語る

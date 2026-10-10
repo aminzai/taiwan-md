@@ -4,7 +4,7 @@ description: '淡江中学校で最も書き値するのは、それが十分に
 date: 2026-03-24
 author: 'Terry'
 category: 'History'
-subcategory: '殖民と帝国'
+subcategory: '殖民與帝國'
 tags: ['淡水', '淡江中学校', '教育史', 'マッカイ', '日本統治時期']
 readingTime: 8
 lastVerified: 2026-03-24

@@ -63,7 +63,7 @@ Wenn Sie das nächste Mal in diese angebrannt-knusprige Ochsenhornspitze beissen
 
 ## Weiterführende Lektüre
 
-- **[Taiwanesische Snacks](/food/台灣小吃)** — Die Position der Goldenen Ochsenhörner als lokales Mitbringsel in der Landkarte taiwanesischer Snacks
+- **[Taiwanesische Snacks](/de/food/taiwanese-street-food)** — Die Position der Goldenen Ochsenhörner als lokales Mitbringsel in der Landkarte taiwanesischer Snacks
 - **[Sanxia-Altstadt](/de/history/sanxia-old-street)** — Die Kulturlandschaft, in der die Goldenen Ochsenhörner Fuss fassten (falls Eintrag nicht existiert, als zukünftige Entwicklung)
 - **[Taiwanesische Kuchen- und Gebäckkultur](/de/food/taiwan-pastry-culture)** — Wie der Han-Bing-Handwerks-Genus in neue Gebäcke einging
 - **[Taiwanesische Mitbringsel-Ökonomie](/economy/台灣伴手禮經濟)** — Fallbeispiel der lokalen Ökonomie: Altstadt-Touristifizierung × Familien-Markenstreit

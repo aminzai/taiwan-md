@@ -120,4 +120,4 @@ Keterlibatan lokal ini juga tercermin dalam presentasi media pribadinya. Di Inst
 ## Bacaan Lanjutan
 
 - [Situs Web Resmi Joe Fang Studio](https://joefangstudio.com/) — Studio desain yang didirikan oleh Fang Hsu-chung
-- [Hsiao Ching-yang (蕭青陽)](/people/蕭青陽) — Desainer visual Taiwan sezaman, pemenang Grammy
+- [Hsiao Ching-yang (蕭青陽)](/id/people/xiao-qing-yang-grammy-designer) — Desainer visual Taiwan sezaman, pemenang Grammy

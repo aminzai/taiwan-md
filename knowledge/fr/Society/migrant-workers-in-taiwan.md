@@ -103,7 +103,7 @@ Comment Taïwan peut-elle, tout en poursuivant son développement économique, c
 
 **Pour aller plus loin** :
 
-- [La pandémie de COVID-19 et les vaccins à Taïwan](/society/台灣新冠疫情與疫苗) — En juin 2021, l'ordre de confinement des travailleurs migrants à Miaoli était une fois où cette situation de travail et de logement a été poussée à ses limites sous la pandémie.
+- [La pandémie de COVID-19 et les vaccins à Taïwan](/fr/society/taiwan-covid-pandemic-and-vaccines) — En juin 2021, l'ordre de confinement des travailleurs migrants à Miaoli était une fois où cette situation de travail et de logement a été poussée à ses limites sous la pandémie.
 - [Le système de santé publique et de prévention des épidémies à Taïwan](/fr/society/taiwan-public-health-epidemic-response) — Le contexte institutionnel de l'intégration des travailleurs migrants dans les systèmes de santé publique et de soins médicaux.
 
 ---

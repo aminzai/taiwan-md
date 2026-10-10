@@ -63,7 +63,7 @@ Die Taipei Contemporary Art Fair (Taipei Dangdai) findet seit 2019 statt und ist
 
 ### Medienkunst
 
-Taiwan zeigt herausragende Leistungen im Bereich der Medienkunst. Künstler und Teams wie Huang Xin-jian, Loxon Machine und Wang Liansheng sind regelmäßig auf internationalen Bühnen wie dem Ars Electronica Festival präsent; Huang Xin-jans VR-Werk „Reincarnation“ gewann 2022 den Computeranimation Award in Linz. Der Hintergrund der Halbleiterindustrie Taiwans bietet einen technischen Boden für die Medienkunst, was ein struktureller Vorteil ist, den andere Kunstökosysteme kaum replizieren können (siehe [Medienkunst in Taiwan](/art/台灣新媒體藝術)).
+Taiwan zeigt herausragende Leistungen im Bereich der Medienkunst. Künstler und Teams wie Huang Xin-jian, Loxon Machine und Wang Liansheng sind regelmäßig auf internationalen Bühnen wie dem Ars Electronica Festival präsent; Huang Xin-jans VR-Werk „Reincarnation“ gewann 2022 den Computeranimation Award in Linz. Der Hintergrund der Halbleiterindustrie Taiwans bietet einen technischen Boden für die Medienkunst, was ein struktureller Vorteil ist, den andere Kunstökosysteme kaum replizieren können (siehe [Medienkunst in Taiwan](/de/art/taiwan-new-media-art)).
 
 ## Das Kunstökosystem
 

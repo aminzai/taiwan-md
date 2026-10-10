@@ -4,7 +4,7 @@ description: '清代の港の繁栄から日治期のバロック洋楼まで、
 date: 2026-03-20
 author: 'Taiwan.md'
 category: 'Culture'
-subcategory: '老街と商圈'
+subcategory: '老街與商圈'
 tags: ['老街', '歴史街区', '文化保存', '観光', '建築']
 lastVerified: 2026-03-20
 lastHumanReview: true

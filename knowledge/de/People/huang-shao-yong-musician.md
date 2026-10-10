@@ -99,7 +99,7 @@ Am 24. Dezember 2024 wurde 〈Pearl Punishment〉 von Wei Ru-hsuan veröffentlic
 
 Chen Jianqi war seit über 20 Jahren der langjährige Partner von Wei Ru-hsuan, beginnend mit ihrer Zeit in der Band Natural Curl bis zu Ophelia, Ni Zijun und Pearl Punishment. Aber für dieses Album 〈Pearl Punishment〉 musste die „seltsame Perle“ – diese deformierte, heterogene, leicht unangenehme Textur – eine elektronische Denkweise wie die von Huang Shaoyong einbeziehen, die „nicht zum Chen Jianqi-System gehört“.
 
-**Huang Shaoyong ergänzte das Produktionssystem von Chen Jianqi.** Dies ist der direkteste Vergleich in der Produzentenchronik von Taiwan. [Chen Jianqi](/people/陳建騏) hatte in seinen 20 Jahren die rote Linie des „seltsamen Akzents“ in der chinesischen Popmusik aufgebrochen und es nicht-standardisierte chinesische Stimmen (Peng Jiahui, Wei Ru-hsuan, Xu Jiaying, Tián Fùzhēn) einen Platz innerhalb der Grenzen der Mainstream-Stimme gegeben. Huang Shaoyong brach die andere Hälfte dieser Linie: er schuf Raum für nicht-chinesische Sprachen (Paiwanisch, Amis, Taiwanesisch, Japanisch) im Mainstream-Arrangementsystem.
+**Huang Shaoyong ergänzte das Produktionssystem von Chen Jianqi.** Dies ist der direkteste Vergleich in der Produzentenchronik von Taiwan. [Chen Jianqi](/de/people/chen-chien-chi-music-producer) hatte in seinen 20 Jahren die rote Linie des „seltsamen Akzents“ in der chinesischen Popmusik aufgebrochen und es nicht-standardisierte chinesische Stimmen (Peng Jiahui, Wei Ru-hsuan, Xu Jiaying, Tián Fùzhēn) einen Platz innerhalb der Grenzen der Mainstream-Stimme gegeben. Huang Shaoyong brach die andere Hälfte dieser Linie: er schuf Raum für nicht-chinesische Sprachen (Paiwanisch, Amis, Taiwanesisch, Japanisch) im Mainstream-Arrangementsystem.
 
 Eine rote Linie für chinesische Stimmen, eine rote Linie für nicht-chinesische Sprachen. Die beiden Arbeiten scheinen unterschiedlich zu sein, aber der Kern ist derselbe: **die Grenze dessen, was dieser Industrie als „hörbar“ definiert, ständig nach außen auszudehnen.**
 
@@ -117,11 +117,11 @@ Er hat den Produktionspreis noch nicht gewonnen. Aber Dark Paradise Records, Wei
 
 ## Weiterführende Lektüre
 
-- [Chen Jianqi](/people/陳建騏) — Ein weiteres Beispiel des „nicht anwesenden Autors“ in der chinesischen Popmusik; Co-Produzent von 〈Pearl Punishment〉 und arbeitet mit Huang Shaoyong an der Schnittstelle zwischen „chinesisch/nicht-chinesisch“.
-- [Wei Ru-hsuan](/people/魏如萱) — Die Sängerin, die Huang Shaoyong seit seiner Zeit bei MATELIN bis zu 〈Pearl Punishment〉 über zehn Jahre begleitet; zwei Golden Melody Königinnen, deren Stimmen sich weigern zu definieren.
-- [A-Bao](/people/阿爆) — Die Sängerin und Labelchefin von „kinakaian Mütterliche Zunge“, die gemeinsam mit Huang Shaoyong den MINETJUS Kurs zur elektronischen Musik in indigener Sprache leitet.
-- [Cheng Yi-nong](/people/鄭宜農) — Ein Musiker der gleichen Generation, der mit „der ehrlichsten Weise in der fremdesten Sprache“ zwei Golden Melody Awards für Taiwanesische Dialekte gewann.
-- [Yang Cheng-lin](/people/楊丞琳) — Die Achse vom „produzierten“ zum „selbstproduzierten“ Künstler; die Arbeit eines Produzenten wie Huang Shaoyong ist die notwendige Ökologie, damit der Künstler selbst die Produktionsrechte übernehmen kann.
+- [Chen Jianqi](/de/people/chen-chien-chi-music-producer) — Ein weiteres Beispiel des „nicht anwesenden Autors“ in der chinesischen Popmusik; Co-Produzent von 〈Pearl Punishment〉 und arbeitet mit Huang Shaoyong an der Schnittstelle zwischen „chinesisch/nicht-chinesisch“.
+- [Wei Ru-hsuan](/de/people/waa-wei-singer) — Die Sängerin, die Huang Shaoyong seit seiner Zeit bei MATELIN bis zu 〈Pearl Punishment〉 über zehn Jahre begleitet; zwei Golden Melody Königinnen, deren Stimmen sich weigern zu definieren.
+- [A-Bao](/de/people/aljenljeng-tjaluvie-abao) — Die Sängerin und Labelchefin von „kinakaian Mütterliche Zunge“, die gemeinsam mit Huang Shaoyong den MINETJUS Kurs zur elektronischen Musik in indigener Sprache leitet.
+- [Cheng Yi-nong](/de/people/cheng-i-nung) — Ein Musiker der gleichen Generation, der mit „der ehrlichsten Weise in der fremdesten Sprache“ zwei Golden Melody Awards für Taiwanesische Dialekte gewann.
+- [Yang Cheng-lin](/de/people/rainie-yang) — Die Achse vom „produzierten“ zum „selbstproduzierten“ Künstler; die Arbeit eines Produzenten wie Huang Shaoyong ist die notwendige Ökologie, damit der Künstler selbst die Produktionsrechte übernehmen kann.
 
 ## Quellenverzeichnis
 

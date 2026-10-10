@@ -4,7 +4,7 @@ description: '陳俊良は1958年に台南で生まれ、29歳で「自由落体
 date: 2026-03-19
 author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '藝術とデザイン'
+subcategory: '藝術與設計'
 tags:
   [
     'デザイナー',

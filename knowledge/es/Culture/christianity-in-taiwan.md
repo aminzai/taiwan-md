@@ -101,7 +101,7 @@ Los retos más visibles provienen de cuestiones sociales. En la última década,
 
 [^12]: [La Iglesia Presbiteriana bajo la movilización de la población](https://www.facebook.com/hsuchungmaostudio4364/posts/1576595971139385/) — Xu Zong‑mao Museum, 2026‑04‑20
 
-[^13]: [Después del culto, toma la harina: una mirada a la ayuda estadounidense en la iglesia taiwanesa](https://resources.abs.edu/%E5%81%9A%E5%AE%8C%E7%A6%AE%E6%8B%9C%E6%8B%BF%E9%BA%B5%E7%B2%89%EF%BC%9A%E6%B7%BA%E8%AB%B6%E6%88%98%E5%90%8E%E7%BE%8E%E6%8F%B4%E4%B8%8B%E7%9A%84%E5%8F%B0%E7%81%A3%E6%95%99%E6%9C%83/) — Zheng Mu‑qun
+[^13]: [Después del culto, toma la harina: una mirada a la ayuda estadounidense en la iglesia taiwanesa](https://resources.abs.edu/%E5%81%9A%E5%AE%8C%E7%A6%AE%E6%8B%9C%E6%8B%BF%E9%BA%B5%E7%B2%89%EF%BC%9A%E6%B7%BA%E8%AB%87%E6%88%B0%E5%BE%8C%E7%BE%8E%E6%8F%B4%E4%B8%8B%E7%9A%84%E5%8F%B0%E7%81%A3%E6%95%99%E6%9C%83/) — Zheng Mu‑qun
 
 [^14]: [Periodo de ayuda estadounidense – bienes de socorro](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Media&id=684330) — National Cultural Memory Database
 

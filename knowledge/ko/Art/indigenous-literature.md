@@ -3,7 +3,7 @@ title: '원주민 문학'
 description: '소리 없는 노래에서 문자 창작으로, 수천 년을 가로지르는 문학의 진화사'
 date: 2026-03-24
 tags: ['문학', '원주민', '구전 문학', '오스트로네시아어족', '문화 부흥']
-subcategory: '문학'
+subcategory: '文學'
 category: 'Art'
 author: 'Taiwan.md'
 readingTime: 7

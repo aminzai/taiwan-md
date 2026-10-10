@@ -12,7 +12,7 @@ tags:
     'الهندسة الساحلية',
     'الدلفين الأبيض',
   ]
-subcategory: 'تاريخ التنمية الاقتصادية'
+subcategory: '經濟發展史'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20
@@ -28,6 +28,7 @@ rationale:
 translatedFrom: 'History/台中港.md'
 sourceCommitSha: '853cd1e60'
 sourceContentHash: 'sha256:b6e5c247e5675857'
+sourceBodyHash: 'sha256:493dcb5683d6e166'
 translatedAt: '2026-09-11T04:25:20.625435+00:00'
 ---
 

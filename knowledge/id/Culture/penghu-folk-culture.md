@@ -137,6 +137,6 @@ Tahun depan, biarkan orang pergi ke laut pulang.
 **Baca Lanjutan**:
 
 - [Agama dan Budaya Pura di Taiwan](/id/culture/taiwan-religion-and-temple-culture) — Kepadatan pura Taiwan dan fungsi sosial kepercayaan rakyat
-- [Budaya Pura dan Parade Taiwan](/culture/台灣廟會與陣頭文化) — Dari parade tradisional ke DJ Tiga Taizi, bagaimana festival pura bertransformasi di masyarakat modern
+- [Budaya Pura dan Parade Taiwan](/id/culture/taiwan-temple-festivals-and-performance-troupes) — Dari parade tradisional ke DJ Tiga Taizi, bagaimana festival pura bertransformasi di masyarakat modern
 - [Festival Tradisional dan Upacara](/id/culture/traditional-festivals-and-celebrations) — Cap Go Meh, Zhongyuan, Parade Mazu, panorama festival Taiwan
 - [Kepercayaan Jiutian Xuannu](/id/culture/jiutian-xuannu-belief) — Dewi wanita dan dewa pelindung lokal dalam kepercayaan rakyat Taiwan

@@ -266,12 +266,12 @@ Tiếng Hoa bốn tông, tiếng Đài bảy tông, ngôn ngữ 16 tộc bộ t�
 
 **Tham khảo mở rộng**:
 
-- [Trần Hàn Tĩnh](/music/trần-hàn-tĩnh) — Chính trị Âm nhạc Đen xuất thân, sẽ tính truyện Hạ Vũ "trả lời" vào rap, làm âm nhạc năm 8 mới đoạt Kim KhúcNgười mới
-- [Âm nhạc Lưu hành Đài Loan](/music/âm-nhạc-lưu-hành-đài-loan) — Từ nhạc tây ba đến Chu Dạc Luân, một hòn đảo cách nào hát bài hát riêng
-- [Tiến hoá Bài hát Tiếng Đài Đài Loan](/music/tiến-hoá-bài-hát-tiếng-đài-đài-loan) — Từ <Mong Xuân Phong> cho Phong Trào Tiếng mới, một loại ngôn ngữ cách nào hát trở về chính thống
-- [Ca sĩ Tạo tác Bộ Tộc Đương đại](/music/ca-sĩ-tạo-tác-bộ-tộc-đương-đại) — Từ sân khấu Kim Khúccho vậy Bộ Tộc Phục Sinh, tiếng nói của 16 tộc cách nào được nghe
-- [Âm nhạc Độc lập Đài Loan](/music/âm-nhạc-độc-lập-đài-loan) — Phía dưới, livehouse cùng một cuộc chiến tranh về tự do dài hạn
-- [Lễ Giải Kim Khúc](/music/lễ-giải-kim-khúc) — Một lễ giải cách nào định nghĩa chuẩn của sân khấu nhạc Hoa
+- [Trần Hàn Tĩnh](/vi/music/hsien-ching-chen) — Chính trị Âm nhạc Đen xuất thân, sẽ tính truyện Hạ Vũ "trả lời" vào rap, làm âm nhạc năm 8 mới đoạt Kim KhúcNgười mới
+- [Âm nhạc Lưu hành Đài Loan](/vi/music/golden-melodies-legacy-taiwan-pop-music) — Từ nhạc tây ba đến Chu Dạc Luân, một hòn đảo cách nào hát bài hát riêng
+- [Tiến hoá Bài hát Tiếng Đài Đài Loan](/vi/music/taiwanese-hokkien-song-evolution) — Từ <Mong Xuân Phong> cho Phong Trào Tiếng mới, một loại ngôn ngữ cách nào hát trở về chính thống
+- [Ca sĩ Tạo tác Bộ Tộc Đương đại](/vi/music/contemporary-indigenous-singer-songwriters) — Từ sân khấu Kim Khúccho vậy Bộ Tộc Phục Sinh, tiếng nói của 16 tộc cách nào được nghe
+- [Âm nhạc Độc lập Đài Loan](/vi/music/indie-music-scene) — Phía dưới, livehouse cùng một cuộc chiến tranh về tự do dài hạn
+- [Lễ Giải Kim Khúc](/vi/music/pop-music-and-golden-melody-awards) — Một lễ giải cách nào định nghĩa chuẩn của sân khấu nhạc Hoa
 
 ## Nguồn gốc hình ảnh
 
@@ -336,7 +336,7 @@ Bài viết dùng 8 hình ảnh, toàn bộ bộ nhớ tạm tại `public/artic
 
 [^24]: [Wikipedia: Nước Yên Công Ty](https://zh.wikipedia.org/zh-tw/顏社企業) — Lưu hành Nước Yên KAO!INC. năm 2005 bởi Trương Dịch Thánh (Trương Dịch Thánh) thành lập ở Tây Nước, đường Thơ tế Jazz lộ trình cùng ghi chép dưới người thực hành.
 
-[^25]: [Wikipedia: Trứng Pháo](https://zh.wikipedia.org/zh-tw/蛋堡_(音樂人) — )) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — )) — ) — ) — )) — Lưu hành Đỗ Chấn Hùng (Trứng Pháo) Nước Yên thời kỳ, <Ánh sáng Mặt trăng> (2010, cùng JABBERLOOP), <Âm nhạc Gia thường> (2020) được trao giải Người hát Hoa Ngữ hay nhất cùng Album hay nhất kép lần 32 (2021) Kim Khúcghi chép
+[^25]: [Wikipedia: Trứng Pháo](<https://zh.wikipedia.org/zh-tw/蛋堡_(音樂人)>) — )) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — )) — ) — ) — )) — Lưu hành Đỗ Chấn Hùng (Trứng Pháo) Nước Yên thời kỳ, <Ánh sáng Mặt trăng> (2010, cùng JABBERLOOP), <Âm nhạc Gia thường> (2020) được trao giải Người hát Hoa Ngữ hay nhất cùng Album hay nhất kép lần 32 (2021) Kim Khúcghi chép
 
 [^26]: [Kim KhúcGMA Trang Facebook Chính thức (2021-08-21): Người hát Hoa Ngữ hay nhất Đỗ Chấn Hùng / Âm nhạc Gia thường](https://www.facebook.com/GMAGMF/photos/a.1461235614113582/3026470250923436/) — Bài viết trang Facebook Kim Khúcchính thức tối nay lễ trao giải, ghi lại nguyên văn cảm ơn Trứng Pháo "Tôi hôm nay muốn để giải thưởng cho gia đình cùng bà mẹ ruột dì em, để cho Trúc Giúp cũng như anh em Nước Yên, để cho Tap Đài Loan, cùng Bảo Anh ở trời"; KKBOX báo cáo cùng ghi chú Bảo Anh tức "Đại Bảo Giám đốc".
 

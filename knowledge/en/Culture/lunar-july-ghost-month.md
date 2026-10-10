@@ -4,7 +4,7 @@ description: "In the midsummer of 2026, long tables are still set up on Taiwan s
 date: 2026-07-20
 author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: 'Festivals and Customs'
+subcategory: '節慶與禮俗'
 tags:
   [
     'Lunar July',
@@ -104,8 +104,8 @@ When we see small offering tables set up outside convenience stores during the m
 
 ## Further Reading
 
-- [Zhongyuan Festival](/culture/ZhongyuanFestival) — A historical reading of Zhongyuan as a treaty of social peace
-- [Duanwu Festival](/culture/DuanwuFestival) — Another festival reinvented by Taiwan
+- [Zhongyuan Festival](/en/culture/ghost-festival-zhongyuan) — A historical reading of Zhongyuan as a treaty of social peace
+- [Duanwu Festival](/en/culture/dragon-boat-festival) — Another festival reinvented by Taiwan
 
 ## Sources
 

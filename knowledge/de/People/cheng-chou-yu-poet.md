@@ -165,8 +165,8 @@ Jugendliteraturpreis, Sun Yat-sen Kulturpreis, China Times Neu-Dichter-Preis, Pr
 
 ## Weiterführende Literatur
 
-- [Taiwanesische Moderne Dichtung](/art/台灣現代詩) – Vom modernen Dichterkreis von Ji Xian, Blaue Sterne, Creators Society bis zur Debatte über ländliche Literatur
-- [Zhang Xuan und An Pu](/music/張懸與安溥) – An Pus Bücherliste enthält Zheng Chouyu, neben Kafka, Mishima Yukio, Shen Congwen, Bei Dao, T.S. Eliot
+- [Taiwanesische Moderne Dichtung](/de/art/taiwanese-modern-poetry) – Vom modernen Dichterkreis von Ji Xian, Blaue Sterne, Creators Society bis zur Debatte über ländliche Literatur
+- [Zhang Xuan und An Pu](/de/music/deserts-chang-and-anpu) – An Pus Bücherliste enthält Zheng Chouyu, neben Kafka, Mishima Yukio, Shen Congwen, Bei Dao, T.S. Eliot
 
 ## Bildnachweise
 

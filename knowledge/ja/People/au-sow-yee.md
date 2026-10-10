@@ -4,7 +4,7 @@ description: '2003 年、彼女はクアラルンプールから台北へ渡り�
 date: 2026-05-17
 author: 'Taiwan.md'
 category: 'People'
-subcategory: 'キュレーションと現代美術'
+subcategory: '策展與當代藝術'
 tags:
   [
     '区秀詒',

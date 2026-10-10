@@ -280,7 +280,7 @@ No dish is purely Taiwanese. Every dish is Taiwanese to the core.
 
 **Ritual and Refinement**:
 
-- [Taiwanese Bando Culture](/food/台灣辦桌文化) — Lin Tien-sheng, Lin Ming-tsan, and the human feeling, righteousness, ritual, and propriety of twelve dishes
+- [Taiwanese Bando Culture](/en/food/taiwan-banquet-culture) — Lin Tien-sheng, Lin Ming-tsan, and the human feeling, righteousness, ritual, and propriety of twelve dishes
 - [Taiwan Michelin and Fine Dining](/en/food/taiwan-michelin-fine-dining) — The trajectory from Michelin’s 2018 arrival in Taiwan to 419 selections in 2025
 - [Taiwanese Breakfast Culture](/en/food/taiwan-breakfast-culture) — From soy milk under Yonghe Bridge to 24-hour chain breakfast shops
 

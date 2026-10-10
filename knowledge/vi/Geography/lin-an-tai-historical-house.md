@@ -26,6 +26,7 @@ curation: 'incubating'
 translatedFrom: 'Geography/林安泰古厝.md'
 sourceCommitSha: 'd9ef16d5e'
 sourceContentHash: 'sha256:0810c10b58402414'
+sourceBodyHash: 'sha256:f8662882b41f1947'
 translatedAt: '2026-09-23T01:40:19.833555+00:00'
 ---
 

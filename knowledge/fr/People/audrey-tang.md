@@ -224,6 +224,7 @@ lifeTree:
 translatedFrom: 'People/唐鳳.md'
 sourceCommitSha: 'e75b621d2'
 sourceContentHash: 'sha256:1917aa69dfd8ab97'
+sourceBodyHash: 'sha256:223451ab2ee89544'
 translatedAt: '2026-09-22T05:46:32.362764+00:00'
 ---
 
@@ -337,7 +338,7 @@ Elle a formé un petit groupe de 20 personnes, appelé PDIS (Public Digital Inno
 En 2019, elle a été sélectionnée parmi les cent grands penseurs mondiaux par _Foreign Policy_ (catégorie vote des lecteurs) [^27]. Les médias la décrivaient comme « le seul ministre transgenre au monde » ou une « star du code ». Lors de chaque entretien, elle renvoyait le mérite — mais l'histoire de la « ministre géniale » était plus facile à raconter que ce qu'elle disait.
 
 ![Tang Feng lors de sa conférence à re:publica à Berlin en mai 2019](/article-images/people/audrey-tang-re-publica-2019.webp)
-_Scène du dialogue « Digital Social Innovation » au re:publica à Berlin le 8 mai 2019, Tang Feng et Julia Kloiber sur scène. Photo : Jan Michalko. [CC BY-SA 2.0 via Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Re_publica_19_-_Day_3_(32860400897).jpg>).\_
+_Scène du dialogue « Digital Social Innovation » au re:publica à Berlin le 8 mai 2019, Tang Feng et Julia Kloiber sur scène. Photo : Jan Michalko. [CC BY-SA 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Re_publica_19_-_Day_3_(32860400897).\_
 
 ## L'anarchisme conservateur : refuser d'ordonner, mais aussi refuser d'être ordonné
 
@@ -422,7 +423,7 @@ _Signature personnelle d'Audrey Tang publiée en août 2021, initialement destin
 - [Tony Hsiao](/fr/people/tony-hsiao-inside-founder) — Co-fondateur de INSIDE et Ai Liao Li, il définit également son rôle dans la sphère technologique taïwanaise en « traversant plusieurs domaines ».
 - [Tai Yu Wu](/fr/people/tai-yu-wu) — La transmission des élites du savoir taïwanaises, de la science à la technologie : Tai Yu Wu a jeté les bases du système de recherche scientifique taïwanais en tant que directeur de l'Academia Sinica.
 - [Fondation pour la culture ouverte](/fr/technology/open-culture-foundation) — Une fondation qui est passée d'un tableau de bord de comptabilité g0v à un pont des droits numériques taïwanais, interagissant à plusieurs reprises avec le ministère du développement dirigé par Tang Feng, tant en collaboration qu'en surveillance.
-- [La pandémie de COVID à Taïwan et les vaccins](/society/台灣新冠疫情與疫苗) — Dans quel type d'épidémie se trouvait la chaîne de coordination de la carte des masques, ainsi que ces dix-huit mois où Taïwan a obtenu ses masques grâce aux frontières.
+- [La pandémie de COVID à Taïwan et les vaccins](/fr/society/taiwan-covid-pandemic-and-vaccines) — Dans quel type d'épidémie se trouvait la chaîne de coordination de la carte des masques, ainsi que ces dix-huit mois où Taïwan a obtenu ses masques grâce aux frontières.
 
 ## Sources des images
 

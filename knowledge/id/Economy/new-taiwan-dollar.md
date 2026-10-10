@@ -124,7 +124,7 @@ Tapi sejarah Dolar Taiwan Baru tetap di dompet. 40.000 lawan 1 ingat putusnya hi
 
 Dolar Taiwan Baru baru 2000 dapat nama hukum, tapi 1949 sudah dipaksa menanggung hidup sebuah pulau. Dulu rembang sistem di krisis, nanti jadi barang orang ambil tanpa mikir. Mungkin ini pekerjaan paling sulit uang: biarkan sejarah penuh kontroversi, akhirnya tenang di meja sarapan.
 
-## 參考資料
+## Referensi
 
 [^1]: [Arsip Nasional Komite Pembangunan Negara: 40.000 Lawan 1: Penerbitan dan Edaran Dolar Taiwan Baru](https://www.archives.gov.tw/tw/arctw/69-1989.html) — Berdasarkan arsip Kabinet, Bank Taiwan, Bank Sentral jelasin reformasi sistem uang 1949, 40.000 lawan 1, batas terbit, hiperinflasi, uang terbatas Kinmen-Matsu.
 

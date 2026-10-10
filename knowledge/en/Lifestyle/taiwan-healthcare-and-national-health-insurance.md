@@ -15,7 +15,7 @@ tags:
     'Yang Chih-liang',
     'National Health Insurance Research Database',
   ]
-subcategory: 'Healthcare and NHI'
+subcategory: '醫療與健保'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-04
@@ -190,7 +190,7 @@ _The main building of National Taiwan University Hospital (NTUH). Founded in 189
 - [Evolution of Taiwan's Regenerative Medicine Laws: A Professional's Confession](/en/society/taiwan-regenerative-medicine-laws) — Beyond the boundaries of NHI benefits, the two regenerative medicine laws passed in 2024, representing another governance track outside of NHI SOPs.
 - [Controversy over Veterinary Drugs in Taiwan](/en/society/taiwan-animal-drug-controversy) — NHI covers humans, not animals; the controversy over pet medication serves as a control group for the NHI system.
 - [Taiwan's Disaster Medicine System](/en/technology/taiwan-disaster-medicine-system) — NHI supports routine medical care, while the disaster medicine system supports extraordinary periods; these two systems together construct the normal and emergency aspects of Taiwan's public health governance.
-- [COVID-19 and Vaccines in Taiwan](/society/台灣新冠疫情與疫苗) — That same health insurance card was used for the real-name mask distribution system in 2020, set up within two weeks; the same underlying data infrastructure also enabled epidemic investigation and vaccine appointments to function.
+- [COVID-19 and Vaccines in Taiwan](/en/society/taiwan-covid-pandemic-and-vaccines) — That same health insurance card was used for the real-name mask distribution system in 2020, set up within two weeks; the same underlying data infrastructure also enabled epidemic investigation and vaccine appointments to function.
 
 ---
 

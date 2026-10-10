@@ -4,7 +4,7 @@ description: 'Sejarah Pulau Taiwan mengembalikan Taiwan dari tahun-tahun kekuasa
 date: 2026-07-10
 author: 'Taiwan.md'
 category: 'History'
-subcategory: 'Sejarah dan Metodologi'
+subcategory: '史觀與方法論'
 tags:
   [
     'Sejarah',
@@ -153,11 +153,11 @@ Itulah tempat yang paling berguna bagi pembaca umum dari Perspektif Sejarah Pula
 
 **Bacaan Lanjutan**:
 
-- [Formosa](/history/福爾摩沙) — Kembali dari narasi "penemuan" Barat ke bagaimana Taiwan dinamai, dibayangkan, dan dipahami kembali.
-- [Periode Belanda-Spanyol dan Ming Zheng](/history/荷西明鄭時期) — Melihat bagaimana Taiwan abad ke-17 memasuki laut Asia Timur, kolonialisme Eropa, dan interaksi masyarakat lokal.
-- [Peristiwa 228](/history/二二八事件) — Bagaimana perpindahan kekuasaan pasca-perang menjadi salah satu retakan terdalam dalam lapisan memori Taiwan.
-- [Museum Sejarah Nasional Taiwan](/society/國立臺灣歷史博物館) — Bagaimana museum tingkat nasional mengubah Perspektif Sejarah Pulau Taiwan menjadi ruang pameran publik.
-- [Pemikiran Kepulauan](/culture/群島思維) — Melihat lebih jauh dari pulau tunggal, memahami hubungan Taiwan dengan pulau-pulau sekitarnya, dan dunia maritim.
+- [Formosa](/id/history/formosa-historical-name) — Kembali dari narasi "penemuan" Barat ke bagaimana Taiwan dinamai, dibayangkan, dan dipahami kembali.
+- [Periode Belanda-Spanyol dan Ming Zheng](/id/history/dutch-spanish-and-koxinga-era) — Melihat bagaimana Taiwan abad ke-17 memasuki laut Asia Timur, kolonialisme Eropa, dan interaksi masyarakat lokal.
+- [Peristiwa 228](/id/history/228-incident) — Bagaimana perpindahan kekuasaan pasca-perang menjadi salah satu retakan terdalam dalam lapisan memori Taiwan.
+- [Museum Sejarah Nasional Taiwan](/id/society/national-museum-of-taiwan-history) — Bagaimana museum tingkat nasional mengubah Perspektif Sejarah Pulau Taiwan menjadi ruang pameran publik.
+- [Pemikiran Kepulauan](/id/culture/archipelago-thinking) — Melihat lebih jauh dari pulau tunggal, memahami hubungan Taiwan dengan pulau-pulau sekitarnya, dan dunia maritim.
 
 ## Sumber Gambar
 

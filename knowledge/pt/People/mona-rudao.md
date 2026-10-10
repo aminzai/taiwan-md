@@ -14,7 +14,7 @@ tags:
     'Política da memória',
     'Justiça de transição',
   ]
-subcategory: 'Figuras Históricas'
+subcategory: '歷史人物'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-10
@@ -35,6 +35,7 @@ relatedDiary: ['2026-06-11-083358-莫那魯道']
 translatedFrom: 'People/莫那·魯道.md'
 sourceCommitSha: '9094012f4'
 sourceContentHash: 'sha256:eecabb61bafa58a4'
+sourceBodyHash: 'sha256:2e9a56655129cad4'
 translatedAt: '2026-09-08T13:27:53.076149+00:00'
 ---
 

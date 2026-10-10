@@ -185,12 +185,12 @@ Wie der Dichter Yu Guangzhong sagte: „Das Schönste an Taiwan ist das menschli
 
 ## Weiterführende Lektüre
 
-- [Taiwan Wanderbuch](/art/臺灣漫遊錄) — Roman, dessen Übersetzung als Fälschung gilt; es ist eines der ersten taiwanesischen Werke, das beim NBA in den USA 2024 und dem International Book Prize 2026 ausgezeichnet wurde und die „hundertjährige Frage der taiwanesischen Literatur“ im Vorwort von Yang Shuangzi trägt.
-- [Literatur während der japanischen Herrschaft](/art/日治時期文學) — Die Jahre 1895–1945 mit Lai He, Yang Kui, Lü He-ruo und Chang Wen-huan.
-- [Taiwanesische Literatur nach dem Krieg](/art/戰後台灣文學) — Die 42 Jahre von 1945 bis 1987: vom Sprachverlust über den Modernismus, die lokale Debatte bis zum weiblichen Erwachen.
-- [Taiwanesische Literatur nach der Lockerung](/art/解嚴後台灣文學) — Die Übergangsgeneration von 1987 bis 2000 mit politischer, geschlechtlicher und muttersprachlicher Explosion.
-- [Zeitgenössische taiwanesische Literatur](/art/當代台灣文學) — Internationalisierung im 21. Jahrhundert, Lin Yi-han, digitale Literatur.
-- [Lin Liang](/people/林良) — Begründerin der Kinderliteratur nach dem Krieg; definierte die „Kunst der einfachen Sprache“ von 1948–2019 als ernste Arbeit beim Schreiben für Kinder.
+- [Taiwan Wanderbuch](/de/art/taiwan-travelogue) — Roman, dessen Übersetzung als Fälschung gilt; es ist eines der ersten taiwanesischen Werke, das beim NBA in den USA 2024 und dem International Book Prize 2026 ausgezeichnet wurde und die „hundertjährige Frage der taiwanesischen Literatur“ im Vorwort von Yang Shuangzi trägt.
+- [Literatur während der japanischen Herrschaft](/de/art/taiwanese-literature-during-japanese-rule) — Die Jahre 1895–1945 mit Lai He, Yang Kui, Lü He-ruo und Chang Wen-huan.
+- [Taiwanesische Literatur nach dem Krieg](/de/art/postwar-taiwanese-literature) — Die 42 Jahre von 1945 bis 1987: vom Sprachverlust über den Modernismus, die lokale Debatte bis zum weiblichen Erwachen.
+- [Taiwanesische Literatur nach der Lockerung](/de/art/post-martial-law-taiwanese-literature) — Die Übergangsgeneration von 1987 bis 2000 mit politischer, geschlechtlicher und muttersprachlicher Explosion.
+- [Zeitgenössische taiwanesische Literatur](/de/art/contemporary-taiwanese-literature) — Internationalisierung im 21. Jahrhundert, Lin Yi-han, digitale Literatur.
+- [Lin Liang](/de/people/lin-liang-childrens-literature) — Begründerin der Kinderliteratur nach dem Krieg; definierte die „Kunst der einfachen Sprache“ von 1948–2019 als ernste Arbeit beim Schreiben für Kinder.
 
 ---
 

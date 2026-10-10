@@ -60,7 +60,7 @@ featured: false
 
 ---
 
-## 參考資料
+## 参考資料
 
 [^1]: CParty. (2025). 「経典宵夜図鑑｜台湾百年火鍋進化」. [https://cparty.com.tw/archives/85863](https://cparty.com.tw/archives/85863)
 

@@ -4,7 +4,7 @@ description: '本名呉俊霖、1968年に嘉義県六脚郷蒜頭村で生ま�
 date: 2026-03-19
 author: 'Taiwan.md'
 category: 'People'
-subcategory: '音楽'
+subcategory: '音樂'
 tags: ['音楽', 'ロック', '台湾語歌曲', '嘉義', 'ローカルロック', 'ギター']
 readingTime: 7
 #   whats_excluded: "各アルバムの年ごとの収録曲；China Blueメンバーの変動の詳細；商業収益とコンサートの興行収入"

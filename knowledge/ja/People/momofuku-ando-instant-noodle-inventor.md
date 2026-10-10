@@ -4,7 +4,7 @@ description: '1961年、安藤百福は2300万円で張国文のインスタン�
 date: 2026-04-29
 author: 'idlccp1984'
 category: 'People'
-subcategory: '歴史人物'
+subcategory: '歷史人物'
 tags:
   [
     '呉百福',

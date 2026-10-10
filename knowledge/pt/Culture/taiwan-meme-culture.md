@@ -102,9 +102,9 @@ Olhando para trás, trinta anos, a cultura de memes de Taiwan reflete a complexi
 
 ## Leitura complementar
 
-- [PTT批踢踢](/technology/PTT批踢踢) — Berço da maioria dos memes e da cultura de vizinhos de Taiwan
+- [PTT批踢踢](/pt/technology/ptt-bulletin-board-system) — Berço da maioria dos memes e da cultura de vizinhos de Taiwan
 
-- [Memes de Ma Ying-jeou](/society/馬英九迷因) — Estudo de caso clássico da memeficação de figura política
+- [Memes de Ma Ying-jeou](/pt/society/ma-ying-jeou-meme) — Estudo de caso clássico da memeficação de figura política
 
 - [Imagens de idosos](/pt/culture/elder-greeting-images) — Outro caminho de propagação na internet com características de Taiwan
 

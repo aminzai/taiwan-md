@@ -4,7 +4,7 @@ description: '60 लाख वर्ष पुराना द्वीप, ज�
 date: 2026-03-23
 author: 'Taiwan.md'
 category: 'Geography'
-subcategory: 'जलवायु और गर्म झरने'
+subcategory: '氣候與溫泉'
 tags: ['भूगोल', 'भूविज्ञान', 'प्लेट गति', 'पर्वत-निर्माण', 'भूकंप', 'गर्म झरने']
 readingTime: 8
 lastVerified: 2026-03-23

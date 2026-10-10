@@ -99,8 +99,8 @@ Ihr Grabstein sollte nicht „Heldin des Chinzhu-Vorfalls“ lauten, sondern: **
 
 **Weiterführende Lektüre:**
 
-- [Chinzhu-Vorfall](/history/台灣選舉與政黨政治) — Die Volksbewegung vom Abend des 19. November 1977, die die Straßenpolitik Taiwans veränderte
-- [Beilidong-Vorfall](/history/美麗島事件) — Eine weitere große Katastrophe der unabhängigen Bewegung zwei Jahre später, der Kontext der Unterdrückung, in dem Huang Yu-chiao agierte
+- [Chinzhu-Vorfall](/de/history/taiwan-elections-and-party-politics) — Die Volksbewegung vom Abend des 19. November 1977, die die Straßenpolitik Taiwans veränderte
+- [Beilidong-Vorfall](/de/history/kaohsiung-incident-formosa-incident) — Eine weitere große Katastrophe der unabhängigen Bewegung zwei Jahre später, der Kontext der Unterdrückung, in dem Huang Yu-chiao agierte
 - [Demokratischer Wandel Taiwan](/de/history/taiwan-democratization) — Wie die unabhängigen Provinzabgeordneten ihrer Generation demokratischen Raum im autoritären System behaupteten
 - [Lee Teng-hui](/de/people/lee-teng-hui) — Der Parlamentspräsident, mit dem sie 1981–1984 sprach, und später der erste gewählte Präsident Taiwans
 - [Luo Xiu-lian](/de/people/annette-lu) — Eine andere unabhängige weibliche Politikerin ihrer Zeit, die jedoch einen völlig anderen Weg einschlug

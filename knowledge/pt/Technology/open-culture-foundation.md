@@ -13,7 +13,7 @@ tags:
     'Comunidade de Código Aberto',
     'Liberdade na Internet',
   ]
-subcategory: 'Comunidade Open Source'
+subcategory: '開源社群'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-06-04
@@ -33,6 +33,7 @@ sporeLinks:
 translatedFrom: 'Technology/開放文化基金會.md'
 sourceCommitSha: 'c8e5ac9ea'
 sourceContentHash: 'sha256:08a786ea48be0947'
+sourceBodyHash: 'sha256:429230fac9b89ba1'
 translatedAt: '2026-08-01T21:49:14.186285+00:00'
 ---
 
@@ -189,9 +190,9 @@ Você já usou os seus resultados (mapa de máscaras, bot de verificação, enco
 
 - [Comunidade de código aberto e g0v](/pt/technology/open-source-and-g0v) — A OCF nasceu justamente para prestar contas a comunidades como o g0v, aquele grupo de "hackers cívicos que deram fork no governo", e o mapa de máscaras de 72 horas.
 - [Espírito de código aberto de Taiwan](/pt/technology/taiwan-open-source-spirit) — O ideal de "dinheiro público, código público" incorporado pela OCF é precisamente a extensão da cultura de código aberto de Taiwan do círculo técnico para a governança pública.
-- [Audrey Tang](/people/唐鳳) — De participante do g0v à primeira ministra digital, a OCF cruzou várias vezes com o Ministério do Desenvolvimento Digital sob sua liderança, tanto colaborando quanto fiscalizando.
+- [Audrey Tang](/pt/people/audrey-tang) — De participante do g0v à primeira ministra digital, a OCF cruzou várias vezes com o Ministério do Desenvolvimento Digital sob sua liderança, tanto colaborando quanto fiscalizando.
 - [Guerra cognitiva](/pt/society/cognitive-warfare-against-taiwan) — O campo de batalha da desinformação onde o robô de verificação do Cofacts atua, a manipulação de informação que Taiwan enfrenta.
-- [Por que Taiwan precisa de sua própria base de conhecimento](/about/為什麼台灣需要自己的知識庫) — Quando a IA se tornou a primeira porta de entrada para leitores estrangeiros perguntarem "o que é Taiwan", a transparência e auditabilidade do conhecimento que a OCF vem promovendo são exatamente a infraestrutura que empurra de volta esse silêncio.
+- [Por que Taiwan precisa de sua própria base de conhecimento](/pt/about/why-taiwan-needs-its-own-knowledge-base) — Quando a IA se tornou a primeira porta de entrada para leitores estrangeiros perguntarem "o que é Taiwan", a transparência e auditabilidade do conhecimento que a OCF vem promovendo são exatamente a infraestrutura que empurra de volta esse silêncio.
 
 ## Fontes das imagens
 

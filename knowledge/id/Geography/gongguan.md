@@ -285,7 +285,7 @@ Dadaocheng didirikan pada 1860 oleh perdagangan teh, Wanhua didirikan pada 1738 
 - [Wanhua](/id/geography/bangka) — kawasan jalan bersejarah dalam batch 1 yang sama, kuil Longshan pada 1738 yang mendukung kemakmuran Qing, berlawanan dengan Gongguan pada masa Qing "Gongguangzhuang" di batas
 - [Ximending](/id/geography/ximending) — kawasan jalan bersejarah dalam batch 1 yang sama, kawasan hiburan Jepang pada 1896, berdampingan dengan Gongguan pada 1928 kekaisaran Jepang
 - [Jalan Yongkang](/id/geography/yongkang-street) — bersama Gongguan, mendukung lingkaran konsumsi mahasiswa UI, dari asrama ahli ke meja makan mahasiswa
-- [Jalan Guling](/geography/牯嶺街) — landskap saudara dari pengetahuan ahli dari provinsi luar dan budaya jalan buku bekas pasca-perang, berdampingan dengan asrama ahli Gongguan-Jalan Wenzhou
+- [Jalan Guling](/id/geography/guling-street) — landskap saudara dari pengetahuan ahli dari provinsi luar dan budaya jalan buku bekas pasca-perang, berdampingan dengan asrama ahli Gongguan-Jalan Wenzhou
 - [Treasure Hill](/id/geography/treasure-hill) — kawasan terlarang 800 meter ke selatan Gongguan, bersamaan dengan gerakan mahasiswa UI 1969, dua jenis "ruang pinggiran"
 
 ## Sumber Gambar

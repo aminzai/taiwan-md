@@ -13,7 +13,7 @@ tags:
     'Film',
     'Taipei',
   ]
-subcategory: 'Film dan Drama'
+subcategory: '電影與戲劇'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-07-05
@@ -26,6 +26,7 @@ imageSource: 'https://www.tfam.museum/yiyiey'
 translatedFrom: 'People/楊德昌.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:d43bbd945067b97d'
+sourceBodyHash: 'sha256:7119ad62eb825546'
 translatedAt: '2026-08-01T16:51:12.370230+00:00'
 ---
 
@@ -216,7 +217,7 @@ Yang ia abadikan bukan pernah orang lain. Adalah kita.
 
 Dengan logika paling dingin seorang insinyur, mengabadikan kesepian paling panas hati manusia—inilah sepasang mata yang ditinggalkan Yang De-chang untuk Taiwan, dan untuk dunia.
 
-**Bacaan Lanjutan**: [Film Taiwan](/art/台灣電影) (Yang De-chang adalah salah satu pembawa bendera Film Baru Taiwan, di sini peta seluruh gerakan tempat ia berada), [Hou Hsiao-hsien](/people/侯孝賢) (gunung lain yang disejajarkan dengan Yang De-chang, orang yang dari sahabat dekat menjadi asing), [Ang Lee](/id/people/ang-lee) (sama-sama membawa film Taiwan ke panggung dunia, namun jalurnya sangat berbeda), [Tsai Ming-liang](/id/people/tsai-ming-liang) (setelah Film Baru Taiwan, cara lain membedah kesepian perkotaan), [Jalan Guling](/geography/牯嶺街) (jalan nyata di mana pisau itu jatuh, titik asal sebuah epik empat jam).
+**Bacaan Lanjutan**: [Film Taiwan](/id/art/taiwanese-cinema) (Yang De-chang adalah salah satu pembawa bendera Film Baru Taiwan, di sini peta seluruh gerakan tempat ia berada), [Hou Hsiao-hsien](/id/people/hou-hsiao-hsien) (gunung lain yang disejajarkan dengan Yang De-chang, orang yang dari sahabat dekat menjadi asing), [Ang Lee](/id/people/ang-lee) (sama-sama membawa film Taiwan ke panggung dunia, namun jalurnya sangat berbeda), [Tsai Ming-liang](/id/people/tsai-ming-liang) (setelah Film Baru Taiwan, cara lain membedah kesepian perkotaan), [Jalan Guling](/id/geography/guling-street) (jalan nyata di mana pisau itu jatuh, titik asal sebuah epik empat jam).
 
 ## Sumber Gambar
 

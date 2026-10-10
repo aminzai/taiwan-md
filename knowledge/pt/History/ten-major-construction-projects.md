@@ -87,7 +87,7 @@ O legado mais precioso que esta construção deixou a Taiwan talvez não sejam a
 
 ## Leitura complementar
 
-- [Autoestrada](/lifestyle/高速公路) — A Sun Yat-sen é apenas a primeira das Dez Grandes Construções; este artigo aprofunda os seus cinquenta anos de história de poder e custos, ligando-a à Estrada MacArthur, ao Túnel de Xueshan e à Autoestrada Nacional n.º 7
+- [Autoestrada](/pt/lifestyle/national-highway-system) — A Sun Yat-sen é apenas a primeira das Dez Grandes Construções; este artigo aprofunda os seus cinquenta anos de história de poder e custos, ligando-a à Estrada MacArthur, ao Túnel de Xueshan e à Autoestrada Nacional n.º 7
 
 ## Referências
 

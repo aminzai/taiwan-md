@@ -89,7 +89,7 @@ translatedAt: '2026-05-15T15:39:39+08:00'
 
 [^1]: [奇美実業公式ウェブサイト](https://www.chimei.com/) — 会社沿革と創業史。
 
-[^2]: [成功大学台湾化学史料館：奇美実業](https://www.che.nche.ncku.edu.tw/historicalgallery2/index.php?option=module&lang=cht&task=pageinfo&id=648&index=2) — 奇美実業の技術発展の経緯とABS産業の展開。
+[^2]: [成功大学台湾化学史料館：奇美実業](https://www.che.ncku.edu.tw/historicalgallery2/index.php?option=module&lang=cht&task=pageinfo&id=648&index=2) — 奇美実業の技術発展の経緯とABS産業の展開。
 
 [^3]: [ウィキペディア：奇美電子](https://zh.wikipedia.org/zh-tw/%E5%A5%87%E7%BE%8E%E9%9B%BB%E5%AD%90) — 奇美電子の2002年設立、2010年群創光電との合併を確認。
 

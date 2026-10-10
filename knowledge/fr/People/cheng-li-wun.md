@@ -10,15 +10,20 @@ tags:
     'student_movement_generation',
     '2026',
   ]
-subcategory: 'Political Figures'
+subcategory: '政治人物'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 12
 featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
+sporeLinks:
+  - id: 22
+    platform: 'threads'
+    date: '2026-04-11'
+    url: 'https://www.threads.com/@taiwandotmd/post/DW_l-6Yk_kg'
 translatedFrom: 'People/鄭麗文.md'
-sourceCommitSha: 'dd39065b'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:d7d8adfe5a1c7158'
 translatedAt: 2026-06-10T16:45:50Z
 sourceBodyHash: 'sha256:119c3d104b24e9dd'

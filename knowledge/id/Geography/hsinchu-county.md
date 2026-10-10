@@ -19,7 +19,7 @@ tags:
     'TSMC',
     'Seri 22 Kota/Kabupaten',
   ]
-subcategory: 'Kabupaten dan Kota'
+subcategory: '縣市'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-18
@@ -34,6 +34,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%A4%92%E5%BF%A0%E4%BA%A
 translatedFrom: 'Geography/新竹縣.md'
 sourceCommitSha: '2187c1c9c'
 sourceContentHash: 'sha256:091b9844837415a1'
+sourceBodyHash: 'sha256:e2a36aeb8ae88cc6'
 translatedAt: '2026-09-18T07:34:51.069666+00:00'
 ---
 
@@ -176,8 +177,8 @@ Jika Anda mengunjungi Kabupaten Hsinchu di lain waktu, jangan hanya berjalan di 
 - [Kota Keelung](/id/geography/keelung-city) — Seri 22 Kota dan Kabupaten batch 1 pilot, sebuah kota yang juga tertekan oleh kerangka ibu kota, membandingkan dua pola politik lokal.
 - [Kabupaten Miaoli](/id/geography/miaoli-county) — Saudara dari seri 22 Kota dan Kabupaten, kabupaten dengan proporsi Hakka tertinggi kedua (62,5%), menyajikan pengalaman Hakka lain yang berdampingan dengan "Kepercayaan Yi Min vs Kawasan Teknologi" di Kabupaten Hsinchu.
 - [Budaya dan Bahasa Hakka](/id/culture/hakka-culture-and-language) — Distribusi seluruh Taiwan dari dialek Hakka Empat Kabupaten (dialek utama Miaoli) versus dialek pesisir dan daratan (dialek utama Hsinchu), latar belakang proporsi 67,8% di Kabupaten Hsinchu.
-- [Budaya Kuliner Hakka](/food/客家飲食文化) — Konteks meja makan desa Hakka dengan _banjiao_, _leicha_, tumisan hakka, dan teh Oriental Beauty, asal usul _banjiao_ Xinpu dan _leicha_ Beipu.
-- [Etnis (Minnan, Hakka, Pribumi, Penduduk Asing)](/culture/族群（閩南客家原住民外省新住民）) — Struktur hidup bersama tiga kelompok di Kabupaten Hsinchu dari skala yang lebih besar.
+- [Budaya Kuliner Hakka](/id/food/hakka-food-culture) — Konteks meja makan desa Hakka dengan _banjiao_, _leicha_, tumisan hakka, dan teh Oriental Beauty, asal usul _banjiao_ Xinpu dan _leicha_ Beipu.
+- [Etnis (Minnan, Hakka, Pribumi, Penduduk Asing)](/id/culture/ethnic-groups) — Struktur hidup bersama tiga kelompok di Kabupaten Hsinchu dari skala yang lebih besar.
 - [Perusahaan Taiwan: TSMC](/id/economy/tsmc) — Pabrik wafer 2 nanometer Fase II Bao Shan adalah mesin di balik penggandaan populasi Zona Khusus Kereta Cepat Hsinchu, Zhubei.
 - [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Jalur ekspansi Kawasan Sains Hsinchu melintasi Kota Hsinchu, Bao Shan Kabupaten Hsinchu, dan Dongla Kabupaten Miaoli.
 - [Pembagian Wilayah Administrasi Taiwan](/id/geography/administrative-divisions-of-taiwan) — Sejarah administratif: pembentukan Kabupaten Hsinchu pada tahun 1875, pemisahan kota dan kabupaten pada tahun 1950, kenaikan status Kota Hsinchu menjadi kota prefektur pada tahun 1982, dan pemindahan kantor kabupaten ke Zhubei pada tahun 1989.

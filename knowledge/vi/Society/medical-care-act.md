@@ -364,9 +364,9 @@ Pháp luật viết chữ sẽ được độc giả đọc được. Chữ khô
 
 **Đọc tiếp**:
 
-- [Y tế Đài Loan lẫn Bảo hiểm Y tế Quốc gia](/lifestyle/台灣醫療與全民健保) — Cấu trúc bảo hiểm y tế danh tiếng toàn cầu tỷ lệ bao phủ lẫn thanh toán, là "mặt thanh toán" ghép với Luật Y tế sau lên đường
-- [Lịch sử Soái Sinh Y tế Lưỡng Luật Đài Loan Cách Hành Nhân Khai Bạch](/society/台灣再生醫療雙法沿革從業人員告白) — 2024 thông qua lưỡng luật tái sinh y tế, là pháp luật đặc biệt tách từ Luật Y tế, bổ sung quy phạm trị liệu tế bào
-- [Hệ Thống Y Tế Thảm Họa Đài Loan](/technology/台灣災難醫療體系) — Luật Y tế điều 1 "phân bổ hợp lý tài nguyên y tế" hoạt động thực tế trong bối cảnh thảm họa lớn
+- [Y tế Đài Loan lẫn Bảo hiểm Y tế Quốc gia](/vi/lifestyle/taiwan-healthcare-and-national-health-insurance) — Cấu trúc bảo hiểm y tế danh tiếng toàn cầu tỷ lệ bao phủ lẫn thanh toán, là "mặt thanh toán" ghép với Luật Y tế sau lên đường
+- [Lịch sử Soái Sinh Y tế Lưỡng Luật Đài Loan Cách Hành Nhân Khai Bạch](/vi/society/taiwan-regenerative-medicine-laws) — 2024 thông qua lưỡng luật tái sinh y tế, là pháp luật đặc biệt tách từ Luật Y tế, bổ sung quy phạm trị liệu tế bào
+- [Hệ Thống Y Tế Thảm Họa Đài Loan](/vi/technology/taiwan-disaster-medicine-system) — Luật Y tế điều 1 "phân bổ hợp lý tài nguyên y tế" hoạt động thực tế trong bối cảnh thảm họa lớn
 
 ## Nguồn Hình Ảnh
 
@@ -487,9 +487,9 @@ Bài này dùng 7 cái ảnh CC / công cộng được phép, cache tại `publ
 
 [^52]: [Focus Taiwan：Phòng Cấp Cứu Đài Loan Tắc Nghẽn "Chưa Có Trước", Hiệp Hội Y Học Cấp Cứu Nói](https://focustaiwan.tw/society/202503210008) — Đầu 2025 Hiệp Hội Y Học Cấp Cứu Đài Loan dùng "chưa có trước" miêu tả tình hình tắc nghẽn phòng cấp cứu năm đó.
 
-[^53]: [Lồng Nhân (RÚT LẠI)：Hệ Thống Y tế Chăm Sóc Quốc Gia Đài Loan Sắp Sửa Sụp Đổ Cơ Hệ Thống](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25) — 00489-1/fulltext)00489-1/fulltext) — 00489-1/fulltext) — 00489-1/fulltext) — 00489-1/fulltext) — 00489-1/fulltext) — 00489-1/fulltext) — 00489-1/fulltext)00489-1/fulltext) — 26 tháng 4 năm 2025 được Bệnh Viện Liên Hệ Đại Học Y Dược Trung Quốc đội ngũ bác sĩ công bố thư trao đổi, sau đó 23 tháng 5 năm 2025 rút lại
+[^53]: [Lồng Nhân (RÚT LẠI)：Hệ Thống Y tế Chăm Sóc Quốc Gia Đài Loan Sắp Sửa Sụp Đổ Cơ Hệ Thống](<https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)00489-1/fulltext>) — 00489-1/fulltext)00489-1/fulltext) — 00489-1/fulltext) — 00489-1/fulltext) — 00489-1/fulltext) — 00489-1/fulltext) — 00489-1/fulltext) — 00489-1/fulltext)00489-1/fulltext) — 26 tháng 4 năm 2025 được Bệnh Viện Liên Hệ Đại Học Y Dược Trung Quốc đội ngũ bác sĩ công bố thư trao đổi, sau đó 23 tháng 5 năm 2025 rút lại
 
-[^54]: [Lồng Nhân — Thông Báo Rút Lại Cho Thư Trao Đổi Chăm Sóc Y tế Đài Loan](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25) — 01096-7/fulltext?rss=yes)01096-7/fulltext?rss=yes) — 01096-7/fulltext?rss=yes) — 01096-7/fulltext?rss=yes) — 01096-7/fulltext?rss=yes) — 01096-7/fulltext?rss=yes) — 01096-7/fulltext?rss=yes) — 01096-7/fulltext?rss=yes)01096-7/fulltext?rss=yes) — Rút lại lý do giải thích：58,2% con số sai báo, mật độ điều dưỡng sai báo, tài liệu bổ sung sai upload
+[^54]: [Lồng Nhân — Thông Báo Rút Lại Cho Thư Trao Đổi Chăm Sóc Y tế Đài Loan](<https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01096-7/fulltext?rss=yes>) — 01096-7/fulltext?rss=yes)01096-7/fulltext?rss=yes) — 01096-7/fulltext?rss=yes) — 01096-7/fulltext?rss=yes) — 01096-7/fulltext?rss=yes) — 01096-7/fulltext?rss=yes) — 01096-7/fulltext?rss=yes) — 01096-7/fulltext?rss=yes)01096-7/fulltext?rss=yes) — Rút lại lý do giải thích：58,2% con số sai báo, mật độ điều dưỡng sai báo, tài liệu bổ sung sai upload
 
 [^55]: [Focus Taiwan：Bệnh Viện Liên Hệ Đại Học Y Dược Trung Quốc Xin Lỗi Về Rút Lại Lồng Nhân](https://focustaiwan.tw/society/202504270006) — Bệnh Viện Liên Hệ Đại Học Y Dược Trung Quốc công khai xin lỗi yêu cầu Lồng Nhân công bố điều chính.
 

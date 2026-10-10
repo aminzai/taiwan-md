@@ -4,7 +4,7 @@ description: '1967年、麦幸夫が台北武昌街で東陽焼味行を創業�
 date: 2026-08-14
 category: 'Food'
 tags: ['焼味', '弁当', '香港', '移民', '新東陽', '食文化']
-subcategory: '食のシーン'
+subcategory: '飲食場景'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-08-14
@@ -13,6 +13,7 @@ curation: 'incubating'
 translatedFrom: 'Food/燒臘便當.md'
 sourceCommitSha: 'f89314e27'
 sourceContentHash: 'sha256:883e6019ba168229'
+sourceBodyHash: 'sha256:3b14e4290a67452c'
 translatedAt: '2026-09-13T22:15:54.439579+00:00'
 ---
 
@@ -118,7 +119,7 @@ _関連画像：[新東陽麥記焼臘店舗](https://www.hty.com.tw/data/upload
 - [新東陽：麥記叉燒](https://www.hty.com.tw/location.php?act=view&no=12)
 - [Taylor & Francis：『台湾における広東料理（ Yue-cai ）と香港における台湾料理（ Tai-cai ）』](https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.4324/9781315028620-8&type=chapterpdf)
 
-## 參考資料
+## 参考資料
 
 [^1]: [小牛講正經：なぜ台湾には香港式焼肉弁当店があふれているのか？](https://www.youtube.com/watch?v=_idnM8SSQ6c) — 動画では、焼臘（シャオラー）、焼と臘の技法の違い、および台湾の焼臘弁当の歴史について説明しており、本稿では動画の内容と外部資料を分けて扱う。
 

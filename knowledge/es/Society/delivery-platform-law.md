@@ -383,7 +383,7 @@ Al cuarto día de vigencia, el Sindicato Nacional de la Industria del Reparto pr
 - [Cultura de las bebidas agitadas a mano de Taiwán](/es/food/hand-shaken-drink-culture) — Marcas de bebidas agitadas que pasaron de puestos callejeros al mundo, y que son el otro extremo de la comisión de las plataformas
 - [PX Mart](/es/economy/pxmart-supermarket) — El canal local en la línea de reparto de productos frescos y de despensa
 - [Escándalo de los ftalatos](/es/society/benzopyrene-food-safety-incident) — El mismo mes en que entró en vigor la ley especial, los bentós que los repartidores llevaban a la puerta eran la corriente descendente de esa tormenta de seguridad alimentaria
-- [Quién define el salario bajo](/society/誰算低薪) — La garantía salarial de los repartidores se escribió en la ley especial, pero ninguna ley protege el bono de fin de año: cómo el salario bajo se coló del sueldo base a la casilla de «sin bono»
+- [Quién define el salario bajo](/es/society/who-counts-as-low-wage) — La garantía salarial de los repartidores se escribió en la ley especial, pero ninguna ley protege el bono de fin de año: cómo el salario bajo se coló del sueldo base a la casilla de «sin bono»
 
 ## Fuentes de las imágenes
 

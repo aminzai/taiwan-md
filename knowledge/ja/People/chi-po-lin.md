@@ -4,7 +4,7 @@ description: '公務員の給料ではヘリコプターを養えない男が、
 date: 2026-03-25
 author: 'Taiwan.md'
 category: 'People'
-subcategory: '藝術と創作'
+subcategory: '藝術與創作'
 tags:
   [
     '人物',

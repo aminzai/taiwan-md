@@ -120,6 +120,6 @@ Menghadapi tantangan abad ke-21, Taiwan mungkin harus memikirkan kembali identit
 
 Bacaan Lanjutan:
 
-- [Era Belanda-Spanyol-Ming-Zheng](/history/荷西明鄭時期)
-- [Era Qing](/history/清治時期)
-- [Topografi Pesisir dan Lanskap Lautan Taiwan](/geography/台灣海岸地形與海洋地景)
+- [Era Belanda-Spanyol-Ming-Zheng](/id/history/dutch-spanish-and-koxinga-era)
+- [Era Qing](/id/history/qing-dynasty-rule)
+- [Topografi Pesisir dan Lanskap Lautan Taiwan](/id/geography/taiwan-coastal-landforms-and-seascapes)

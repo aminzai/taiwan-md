@@ -11,13 +11,13 @@ tags:
     'OpenLab.Taipei',
     '대만',
   ]
-subcategory: '예술 및 디자인'
+subcategory: '藝術與設計'
 category: 'People'
 author: 'Taiwan.md Contributors'
 readingTime: 8
 featured: false
 translatedFrom: 'People/沈聖博.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: 'f99a9959c'
 sourceContentHash: 'sha256:36208e14ce1c380c'
 sourceBodyHash: 'sha256:5eb269f5e4d722c4'
 translatedAt: '2026-05-16T22:20:00Z'

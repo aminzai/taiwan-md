@@ -80,7 +80,7 @@ featured: false
 
 [^10]: [제41회 문학상 수상자 - 오삼련상 재단](https://www.wusanlien.org.tw/products_detail/85)
 
-[^11]: [흑조 표류, 바다 넓고 하늘 높이: 흑조101 표류 계획 | 앤니뉴스 - 미감교육](https://aade.project.edu.tw/annetimes/journal/12/%E9%BB%91%E6%BD%AE%E6%BC%82%E6%B5%81%EF%BC%8C%E6%B5%B7%E9%97%8A%E5%A4%A9%E7%A9%BA%EF%BC%8A%E9%BB%91%E6%BD%AE101-%E6%BC%82%E6%B5%81%E8%A8%88%E7%95%AB)
+[^11]: [흑조 표류, 바다 넓고 하늘 높이: 흑조101 표류 계획 | 앤니뉴스 - 미감교육](https://aade.project.edu.tw/annetimes/journal/12/%E9%BB%91%E6%BD%AE%E6%BC%82%E6%B5%81%EF%BC%8C%E6%B5%B7%E9%97%8A%E5%A4%A9%E7%A9%BA%EF%BC%9A%E9%BB%91%E6%BD%AE101-%E6%BC%82%E6%B5%81%E8%A8%88%E7%95%AB)
 
 [^12]: [2019년 독일 프랑크푸르트 서적전시회 진출, 이야기의 섬이 타이완의 산해 지혜와 자연의 모습을 선보이다](https://www.moc.gov.tw/News_Content.aspx?n=105&s=55824)
 

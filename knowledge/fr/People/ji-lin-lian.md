@@ -12,7 +12,7 @@ tags:
     'arms procurement controversy',
     '2026',
   ]
-subcategory: 'Political Figures'
+subcategory: '政治人物'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-03
@@ -21,7 +21,7 @@ difficulty: 'intermediate'
 readingTime: 12
 researchReport: 'reports/research/2026-05/Chi Lin-lien.md'
 translatedFrom: 'People/季麟連.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:e096cf547c4b743c'
 translatedAt: '2026-05-13T01:08:41Z'
 sourceBodyHash: 'sha256:94870d211f5fa515'
@@ -165,11 +165,11 @@ The remaining question is less "which side will he step on next," but rather: **
 
 **Further Reading**:
 
-- [Cheng Li-wen](/people/Cheng_Li-wen) — The object Chi Lin-lien withdrew from the 2025 KMT Chair election to support; the boss in 2026; to understand the political context of Chi Lin-lien's Vice Chair appointment, one must first read Cheng Li-wen's full arc
-- [Han Kuo-yu](/people/Han_Kuo-yu) — The Legislative Yuan President named by Chi Lin-lien at the April 29, 2026 Central Executive Committee meeting as "betraying the party for personal glory, recommending expulsion from the party"; the true target impacted by Chi Lin-lien's words is this person
-- [Taiwan National Defense and Military Modernization](/society/Taiwan_National_Defense_and_Military_Modernization) — The background of the 1.25 trillion arms procurement special budget and the dispute between "380 billion + N vs 800 billion"; to understand the trigger of Chi Lin-lien's April 29 Central Executive Committee remarks, this larger national defense issue framework is needed
-- [Chuo Jung-tai](/people/Chuo_Rung-tai) — In the arms procurement controversy where Chi Lin-lien threatened to expel Han Kuo-yu, the Premier who presented the 1.25 trillion budget plan was Chuo Jung-tai; the two "coordinators" of Blue and Green face each other at the same table
-- [Taiwan Political Environment and Electoral System](/society/Taiwan_Political_Environment_and_Electoral_System) — Why can a 78-year-old retired general threaten to expel the Legislative Yuan President at the 2026 KMT Central Executive Committee? The entry point for institutional backgrounds such as the Huang Xing Fu Party Department, Vice Chair appointment, and intra-party factions
+- [Cheng Li-wen](/fr/people/cheng-li-wun) — The object Chi Lin-lien withdrew from the 2025 KMT Chair election to support; the boss in 2026; to understand the political context of Chi Lin-lien's Vice Chair appointment, one must first read Cheng Li-wen's full arc
+- [Han Kuo-yu](/fr/people/han-kuo-yu) — The Legislative Yuan President named by Chi Lin-lien at the April 29, 2026 Central Executive Committee meeting as "betraying the party for personal glory, recommending expulsion from the party"; the true target impacted by Chi Lin-lien's words is this person
+- [Taiwan National Defense and Military Modernization](/fr/society/taiwan-defense-modernization) — The background of the 1.25 trillion arms procurement special budget and the dispute between "380 billion + N vs 800 billion"; to understand the trigger of Chi Lin-lien's April 29 Central Executive Committee remarks, this larger national defense issue framework is needed
+- [Chuo Jung-tai](/fr/people/cho-jung-tai) — In the arms procurement controversy where Chi Lin-lien threatened to expel Han Kuo-yu, the Premier who presented the 1.25 trillion budget plan was Chuo Jung-tai; the two "coordinators" of Blue and Green face each other at the same table
+- [Taiwan Political Environment and Electoral System](/fr/society/taiwan-political-landscape-and-electoral-system) — Why can a 78-year-old retired general threaten to expel the Legislative Yuan President at the 2026 KMT Central Executive Committee? The entry point for institutional backgrounds such as the Huang Xing Fu Party Department, Vice Chair appointment, and intra-party factions
 
 ## References
 

@@ -4,7 +4,7 @@ description: '1949年、痛みと望郱を抱えた百万人余りの人々が�
 date: 2026-04-29
 author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '人口と世代'
+subcategory: '人口與世代'
 tags:
   [
     '外省人',

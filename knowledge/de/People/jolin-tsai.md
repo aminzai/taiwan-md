@@ -3,7 +3,15 @@ title: 'Jolin Tsai'
 description: 'Die Diva, die kein Genie ist – von einer Tanzlehrerin als „kein Talent zum Tanzen“ abgestempelt, wurde sie 25 Jahre später die meistausgezeichnete Sängerin-Tänzerin in der Geschichte der Golden Melody Awards.'
 date: 2026-03-24
 category: 'People'
-tags: ['Personen', 'Sängerin', 'Showbusiness', 'LGBTQ+-Rechte', 'Popmusik', 'Golden Melody Award']
+tags:
+  [
+    'Personen',
+    'Sängerin',
+    'Showbusiness',
+    'LGBTQ+-Rechte',
+    'Popmusik',
+    'Golden Melody Award',
+  ]
 subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
@@ -13,6 +21,7 @@ curation: incubating
 translatedFrom: 'People/蔡依林.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:87e0672780258627'
+sourceBodyHash: 'sha256:ecfb49e20d9c0f4b'
 translatedAt: '2026-08-13T03:20:00+08:00'
 ---
 
@@ -53,12 +62,12 @@ In der Albumdokumentation bei Sony Music sagte sie: „Früher machte ich mir se
 
 Zahlen sind am ehrlichsten. Seit 2007 hat Jolin Tsai sechs große Tourneen gegeben:
 
-| Tournee      | Jahre        | Städte | Shows | Zuschauer | Umsatz (NT$)   |
-| ------------ | ------------ | ------ | ----- | --------- | -------------- |
-| Myself       | 2010-2013    | 31     | 35    | 600.000   | ca. 1,5 Mrd.   |
-| Play         | 2015-2017    | 23     | 34    | —         | ca. 1,5 Mrd.   |
-| Ugly Beauty  | 2019-2024    | 23     | 34    | 600.000   | ca. 1,5 Mrd.   |
-| Pleasure     | 2025-        | läuft  | —     | —         | —              |
+| Tournee     | Jahre     | Städte | Shows | Zuschauer | Umsatz (NT$) |
+| ----------- | --------- | ------ | ----- | --------- | ------------ |
+| Myself      | 2010-2013 | 31     | 35    | 600.000   | ca. 1,5 Mrd. |
+| Play        | 2015-2017 | 23     | 34    | —         | ca. 1,5 Mrd. |
+| Ugly Beauty | 2019-2024 | 23     | 34    | 600.000   | ca. 1,5 Mrd. |
+| Pleasure    | 2025-     | läuft  | —     | —         | —            |
 
 Die drei Tourneen zusammen ergeben über 100 Shows und kumulierte Einnahmen von über 4 Milliarden NT$. Im chinesischsprachigen Musikgeschäft liegt diese Zahl auf demselben Niveau wie Jay Chou (周杰倫) und Mayday (五月天). Sie ist die seit den 2000er-Jahren umsatzstärkste Sängerin Taiwans – unangefochten.
 

@@ -88,8 +88,8 @@ featured: false
 
 **延伸読書（関連記事）**：
 
-- [台湾小吃](/ja/food/台湾小吃) — 油飯が属する台湾小吃文化の背景
-- [台湾手路菜](/ja/food/台湾手路菜) — 辦桌文化における油飯の製法的位置と宴席の文脈
+- [台湾小吃](/ja/food/taiwanese-street-food) — 油飯が属する台湾小吃文化の背景
+- [台湾手路菜](/ja/food/taiwan-specialty-home-cooking) — 辦桌文化における油飯の製法的位置と宴席の文脈
 
 ## 参考資料
 

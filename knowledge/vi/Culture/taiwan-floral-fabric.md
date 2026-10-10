@@ -153,7 +153,7 @@ Hôm nay, khi chúng ta lại ngước nhìn lên những bông đào rực rỡ
 
 **Đọc thêm**:
 
-- [Màu xanh dầu](/culture/藍染) — một loại chất tô khác, từng được gói gọn là biểu tượng của một dân tộc riêng, nhưng sau này phát hiện ra nguồn gốc phức tạp hơn
+- [Màu xanh dầu](/vi/culture/taiwan-indigo-dyeing) — một loại chất tô khác, từng được gói gọn là biểu tượng của một dân tộc riêng, nhưng sau này phát hiện ra nguồn gốc phức tạp hơn
 - [Di sản văn hóa truyền thống và tài sản phi vật thể của Đài Loan](/vi/culture/traditional-crafts-intangible-cultural-heritage) — bối cảnh của Hoa Bất và màu xanh dầu đối mặt với vấn đề bảo tồn nghề thủ công
 
 ## Tài liệu tham khảo

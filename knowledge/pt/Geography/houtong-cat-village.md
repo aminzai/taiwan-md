@@ -217,9 +217,9 @@ A próxima identidade — talvez seja o Museu dos Mineiros que Chou Chao-nan e c
 
 **Leitura adicional**:
 
-- [Jinguashi](/geography/金瓜石) — aglomerado irmão a montante do Keelung, património mineiro transformado na via "Parque Museu do Ouro" eco-museu
-- [História ferroviária de Taiwan](/history/台灣鐵道史) — linha Pingxi 1920 entrada em operação é a base física do eixo turístico de Houtong / Pingxi / Jingdong / Shifen
-- [Cultura de animais vadios em Taiwan](/society/台灣流浪動物文化) — contexto taiwanês da evidência da política TNVR, Houtong é dos poucos casos de sucesso
+- [Jinguashi](/pt/geography/jinguashi) — aglomerado irmão a montante do Keelung, património mineiro transformado na via "Parque Museu do Ouro" eco-museu
+- [História ferroviária de Taiwan](/pt/history/taiwan-railway-history) — linha Pingxi 1920 entrada em operação é a base física do eixo turístico de Houtong / Pingxi / Jingdong / Shifen
+- [Cultura de animais vadios em Taiwan](/pt/society/stray-animal-culture) — contexto taiwanês da evidência da política TNVR, Houtong é dos poucos casos de sucesso
 - [Ética de jardins zoológicos e animais de exibição](/pt/society/zoo-and-exhibition-animal-ethics) — "turismo de gatos" partilha a mesma tensão ética animal de jardins zoológicos / oceanários
 - [Lanternas celestes](/pt/culture/sky-lanterns-pingxi) — festival de lanternas de Pingxi enfrenta igualmente a tensão de "economia local vs responsabilidade proteção animal / ambiental" na transição de aglomerados de património mineiro
 

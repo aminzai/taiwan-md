@@ -183,7 +183,7 @@ Por isso, da próxima vez, quando você estiver no caixa do supermercado e o ate
 - [Cultura de lojas de conveniência em Taiwan](/pt/lifestyle/convenience-store-culture) — O cenário onde mais pessoas resgatam prêmios de recibos e dizem “919” doando seus pontos, bem diante dos caixas das quatro grandes redes.
 - [Terrore branco em Taiwan](/pt/history/taiwan-white-terror) — A época em que o designer da Fatura Unificada, Ren Xiangqun, foi preso por “não denunciar os bandidos”.
 - [Justiça transition em Taiwan](/pt/history/taiwan-transitional-justice) — O processo de reabilitação de Ren Xiangqun, que atravessou dois governos e levou anos para ser concluído.
-- [Mecanismo de preços da gasolina em Taiwan e CNPC](/economy/台灣油價機制與中油) — Outro documento institucional usado como régua: como uma nota de imprensa sobre preços da gasolina divide um litro em três partes, fazendo a CNPC carregar primeiro, os preços mais baratos divididos por litro, e ninguém nunca contou quem consome mais.
+- [Mecanismo de preços da gasolina em Taiwan e CNPC](/pt/economy/taiwan-fuel-pricing-and-cpc) — Outro documento institucional usado como régua: como uma nota de imprensa sobre preços da gasolina divide um litro em três partes, fazendo a CNPC carregar primeiro, os preços mais baratos divididos por litro, e ninguém nunca contou quem consome mais.
 
 ## Fontes das imagens
 

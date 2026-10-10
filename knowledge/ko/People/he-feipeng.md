@@ -3,13 +3,13 @@ title: '허페이펑 (何飛鵬)'
 description: '시장보다 8년 앞서 나가 7년을 적자로 버티며 결국 대만 최대 출판 그룹을 창립한 미디어인'
 date: 2026-03-26
 tags: ['시티 퍼블리셔', '출판업', '디지털 전환', '자만(自慢)']
-subcategory: '디지털·미디어'
+subcategory: '數位與媒體'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 7
 featured: false
 translatedFrom: 'People/何飛鵬.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:c6c5b08befa8584a'
 sourceBodyHash: 'sha256:65be42b8cac6c9ca'
 translatedAt: '2026-05-16T22:20:00Z'

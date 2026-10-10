@@ -156,7 +156,7 @@ Bài viết này chủ yếu dựa trên mười ba trang bài viết cụ thể
 
 [^12]: [Bộ Văn hóa: Về bài "Hiệu sách độc lập: Trăn trở khi ghé thăm và không ghé thăm" do Tạ Chí Hạo đăng, Bộ Văn hóa ngay lập tức ngừng nhiệm vụ sau khi Hiệp hội Văn hóa Hiệu sách Độc lập đề cử ủy viên thẩm định](https://www.moc.gov.tw/News_Content.aspx?n=105&s=204963) — Thông báo chính thức năm 2024, giải thích sự kiện quản trị về việc thăm dò các hiệu sách thực tế, ủy viên được hiệp hội đề cử và Bộ Văn hóa ngừng nhiệm vụ thăm dò và thẩm định.
 
-[^13]: [Wikimedia Commons: File: Trúc Ẩn Thư Phòng (3).jpg](<https://commons.wikimedia.org/wiki/File:%E6%A4%8D%E9%9A%B1%E5%86%8A%E5%AE%A4_(3).jpg>) — Trang tệp hình ảnh bên trong Hiệu sách Tri Âm Mã Công Bành Hồ do Austin Huang chụp, gắn nhãn CC BY-SA 4.0, bài viết chỉ nhúng bằng URL gốc của tệp mà không tải xuống hay chỉnh sửa hình ảnh.
+[^13]: [Wikimedia Commons: File: Trúc Ẩn Thư Phòng (3).jpg](https://commons.wikimedia.org/wiki/File:%E6%A4%8D%E9%9A%B1%E5%86%8A%E5%AE%A4_(3) — Trang tệp hình ảnh bên trong Hiệu sách Tri Âm Mã Công Bành Hồ do Austin Huang chụp, gắn nhãn CC BY-SA 4.0, bài viết chỉ nhúng bằng URL gốc của tệp mà không tải xuống hay chỉnh sửa hình ảnh.
 
 ## Nguồn và Giấy phép Hình ảnh
 

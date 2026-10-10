@@ -165,7 +165,7 @@ Giải thưởng thanh niên văn học, Giải thưởng Văn học Trường H
 
 ## Đọc thêm
 
-- [Thơ hiện đại Đài Loan](/art/台灣現代詩) — Từ phong trào hiện đại Niệt Văn, sao thơ, tập thơ sinh động đến chiến tranh văn học nông nghiệp, diễn biến hoàn thiện của lịch sử thơ Đài Loan
+- [Thơ hiện đại Đài Loan](/vi/art/taiwanese-modern-poetry) — Từ phong trào hiện đại Niệt Văn, sao thơ, tập thơ sinh động đến chiến tranh văn học nông nghiệp, diễn biến hoàn thiện của lịch sử thơ Đài Loan
 - [Zhang Xuân và An Huo](/vi/music/deserts-chang-and-anpu) — Trong danh sách đọc của An Huo có Zheng Chouyu, xếp hạng cùng với Kafka, Tanizawa Jun'ichirō, Shen Congwen, Bắc Đảo, và Arthur C. Clarke
 
 ## Nguồn ảnh

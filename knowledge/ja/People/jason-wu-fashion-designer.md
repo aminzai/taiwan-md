@@ -192,7 +192,7 @@ _2010 年 10 月 7 日、総統府が呉季剛（ご・きごう／ジェイソ�
 - [Sign of Jason Wu in New York City](https://commons.wikimedia.org/wiki/File:Sign_of_Jason_Wu_in_New_York_City.jpg) — 本文内。Photo: Dquai、CC BY-SA 4.0；ホットリンク：`https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Sign_of_Jason_Wu_in_New_York_City.jpg/960px-Sign_of_Jason_Wu_in_New_York_City.jpg`` 。
 - [総統が華裔ファッションデザイナー呉季剛を接見](<https://commons.wikimedia.org/wiki/File:991007%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E8%8F%AF%E8%A3%94%E6%99%82%E8%A3%9D%E8%A8%AD%E8%A8%88%E5%B8%AB%E5%90%B3%E5%AD%A3%E5%89%9B_(5061743264).jpg>) — 本文内。Photo: 総統府、CC BY 2.0；ホットリンク：`https://upload.wikimedia.org/wikipedia/commons/9/90/991007%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E8%8F%AF%E8%A3%94%E6%99%82%E8%A3%9D%E8%A8%AD%E8%A8%88%E5%B8%AB%E5%90%B3%E5%AD%A3%E5%89%9B_%285061743264%29.jpg`` 。
 
-## 參考資料
+## 参考資料
 
 [^1]: [スミソニアン博物館：ミシェル・オバマ就任ドレス 2009](https://www.si.edu/newsdesk/photos/michelle-obamas-inaugural-gown-2009) — スミソニアン博物館による 2009 年アメリカ大統領就任舞踏会ドレスの蔵蔵解説。デザイナー、着用機会、素材、作品選定過程を記録。
 

@@ -16,7 +16,7 @@ tags:
     'Ekologi Pulau',
     'Biogeografi',
   ]
-subcategory: 'Ekologi dan Konservasi'
+subcategory: '生態與保育'
 author: 'Taiwan.md'
 readingTime: 7
 featured: false
@@ -26,6 +26,7 @@ curation: 'incubating'
 translatedFrom: 'Nature/蘭嶼生態系.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:000cc0a777fcb307'
+sourceBodyHash: 'sha256:31718e0ce0828285'
 translatedAt: '2026-08-04T09:11:52.852363+00:00'
 ---
 

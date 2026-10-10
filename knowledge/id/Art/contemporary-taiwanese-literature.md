@@ -113,7 +113,7 @@ Chen Si-hong dari Berlin menulis dengan bahasa Mandarin tentang Changhua yang ke
 
 - [Taiwanese Wandering Records](/id/art/taiwan-travelogue) — Fiksi semi-penerjemahan Yang Shuang-zi, 2024 NBA Translation Prize Amerika, 2026 International Booker Prize, karya pertama sastra kontemporer Taiwan yang naik ke dua panggung penghargaan internasional ini
 - [Post-Martial Law Taiwan Literature](/id/art/post-martial-law-taiwanese-literature) — Generasi antara 1987-2000 ledakan beragam (sastra politik, perempuan, Austronesia, bahasa ibu) yang melahirkan generasi menengah, Luo Yijun, Chu Tien-wen, Chu Tien-hsin berjalan ke kematangan dari periode ini
-- [Postwar Taiwan Literature](/art/戰後台灣文學) — 1945-1987 selama darurat militer dari kehilangan suara, modernisme, perdebatan sastra tanah air hingga kebangkitan perempuan 42 tahun
+- [Postwar Taiwan Literature](/id/art/postwar-taiwanese-literature) — 1945-1987 selama darurat militer dari kehilangan suara, modernisme, perdebatan sastra tanah air hingga kebangkitan perempuan 42 tahun
 - [Taiwan Literary History](/id/art/history-of-taiwanese-literature) — Konteks keseluruhan dari periode Belanda, Qing, Jepang, pasca-perang hingga kontemporer
 
 ## Referensi

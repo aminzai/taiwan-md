@@ -18,7 +18,7 @@ tags:
   - 'dance'
   - 'hip-hop'
   - 'solo'
-subcategory: 'Music and Performance'
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 readingTime: 10
 lastVerified: 2026-04-23

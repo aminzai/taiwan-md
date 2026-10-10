@@ -3,7 +3,7 @@ title: 'Huang Shao-yong: Abandonando o Programa de Doutorado em Bioquímica, Usa
 description: "Em 2022, no pós-temporada 33 dos Prêmios Golden Melody, Huang Shao-yong ganhou o prêmio de Melhor Produtor Musical, tirando de dentro de si um dizi e tocando-o. Filho do ex-ministro da Educação e atual presidente do Banco Nacional, Huang, com cerca de 30 anos, interrompeu seus estudos de doutorado em bioquímica na Universidade Nacional de Taiwan. Criou a gravadora independente Dark Paradise Records há dez anos e, como produtor, contribuiu para o álbum 'kinakaian Mãe da Língua' de A-Blade, vencedor do Prêmio de Melhor Álbum do Ano dos Golden Melody de 2020. Seu trabalho sempre se baseia em uma ideia: transformar as vozes das minorias em uma via para a música mainstream."
 date: 2026-04-20
 category: 'People'
-subcategory: 'Música e Performance'
+subcategory: '音樂與表演'
 tags:
   [
     'Pessoas',
@@ -98,7 +98,7 @@ Em 24 de dezembro de 2024, o álbum '珍珠刑' de Wei Ru-Huan foi lançado. A e
 
 Chien Chien-rui é o produtor mais antigo de Wei Ru-Huan, desde os tempos da banda 'Natural Curl'. Mas o álbum '珍珠刑' exigia uma qualidade estranha, anômala e desconfortável, o que levou a inclusão de Huang, cujo estilo de produção não se encaixava no universo de Chien Chien-rui.
 
-**Huang acrescentou uma peça ao genealogia de produtores de Chien Chien-rui.** Essa é a comparação mais direta entre os dois na cadeia de histórias de produtores em Taiwan.md.[Chien Chien-rui](/people/陳建騏) ao longo de 20 anos de trabalho, desmontou a linha vermelha das "vozes não convencionais" na música popular chinesa, permitindo que vozes não padrão (Peng Jia-hui, Wei Ru-Huan, Shirley Kuan, Ian Hsu) tivessem espaço na fronteira da voz mainstream. Huang desmonta a outra metade dessa mesma linha: para línguas não chinesas (Paiwan, Atayal, taiwanês, japonês), abrindo espaço na indústria de produção mainstream.
+**Huang acrescentou uma peça ao genealogia de produtores de Chien Chien-rui.** Essa é a comparação mais direta entre os dois na cadeia de histórias de produtores em Taiwan.md.[Chien Chien-rui](/pt/people/chen-chien-chi-music-producer) ao longo de 20 anos de trabalho, desmontou a linha vermelha das "vozes não convencionais" na música popular chinesa, permitindo que vozes não padrão (Peng Jia-hui, Wei Ru-Huan, Shirley Kuan, Ian Hsu) tivessem espaço na fronteira da voz mainstream. Huang desmonta a outra metade dessa mesma linha: para línguas não chinesas (Paiwan, Atayal, taiwanês, japonês), abrindo espaço na indústria de produção mainstream.
 
 Duas linhas de trabalho que parecem diferentes, mas ambas compartilham a mesma base: **expandir continuamente a linha que define "o que pode ser ouvido" na indústria.**
 
@@ -116,10 +116,10 @@ Ele ainda não ganhou o prêmio de produção. Mas ao longo de dez anos com Dark
 
 ## Leituras Adicionais
 
-- [Chien Chien-rui](/people/陳建騏) — Outro caso do "produtor fora do palco" na música popular chinesa; produtor principal de '珍珠刑', colaborando com Huang para abrir fronteiras sonoras entre línguas chinesas e não chinesas.
-- [Wei Ru-Huan](/people/魏如萱) — Artista com quem Huang colaborou desde Lin Ma-Dai até '珍珠刑', duas cantoras vencedoras de Golden Melody, rejeitando a identidade de "voz a ser reconhecida".
-- [A-Blade](/people/阿爆) — Cantora e proprietária da gravadora Wa Culture, colaboradora de Huang no álbum 'Mãe da Língua' e co-organizadora do curso 'MINETJUS'.
-- [Zheng Yi-nung](/people/鄭宜農) — Músico taiwanês da mesma geração, usando "a língua mais estranha para escrever as canções mais sinceras", vencendo os prêmios Golden Melody de língua taiwanês.
+- [Chien Chien-rui](/pt/people/chen-chien-chi-music-producer) — Outro caso do "produtor fora do palco" na música popular chinesa; produtor principal de '珍珠刑', colaborando com Huang para abrir fronteiras sonoras entre línguas chinesas e não chinesas.
+- [Wei Ru-Huan](/pt/people/waa-wei-singer) — Artista com quem Huang colaborou desde Lin Ma-Dai até '珍珠刑', duas cantoras vencedoras de Golden Melody, rejeitando a identidade de "voz a ser reconhecida".
+- [A-Blade](/pt/people/aljenljeng-tjaluvie-abao) — Cantora e proprietária da gravadora Wa Culture, colaboradora de Huang no álbum 'Mãe da Língua' e co-organizadora do curso 'MINETJUS'.
+- [Zheng Yi-nung](/pt/people/cheng-i-nung) — Músico taiwanês da mesma geração, usando "a língua mais estranha para escrever as canções mais sinceras", vencendo os prêmios Golden Melody de língua taiwanês.
 - [Yang Che-lin](/pt/people/rainie-yang) — Cantora transitando de "ser produzida" para "autoprodutora"; o trabalho de Huang é o ecossistema que permite aos artistas tomar controle da produção.
 
 ## Referências

@@ -17,6 +17,11 @@ readingTime: '22'
 lastVerified: '2026-04-07'
 lastHumanReview: 'true'
 featured: true
+sporeLinks:
+  - id: 10
+    platform: 'threads'
+    date: '2026-04-07'
+    url: 'https://www.threads.com/@taiwandotmd/post/DW1ba_tEz5D'
 translatedFrom: 'History/台灣民主轉型.md'
 sourceCommitSha: 'dbaf28954'
 sourceContentHash: 'sha256:a9330a2eb23d9c97'
@@ -172,16 +177,16 @@ Dari surat wasiat hingga Ketua Komisi Pengawasan, empat puluh satu tahun. Itulah
 
 **Bacaan Lanjutan**:
 
-- [Peristiwa 28 Februari](/history/二二八事件) — Bagaimana trauma tahun 1947 menjadi titik awal kesadaran demokrasi Taiwan
+- [Peristiwa 28 Februari](/id/history/228-incident) — Bagaimana trauma tahun 1947 menjadi titik awal kesadaran demokrasi Taiwan
 - [Teror Putih Taiwan](/id/history/taiwan-white-terror) — Gambaran lengkap kasus politik dan pelanggaran hak asasi manusia selama tiga puluh delapan tahun martial law
 - [Era Martial Law](/id/history/martial-law-era) — Dasar hukum perintah martial law terpanjang di dunia dan mekanisme kontrol sosial
-- [Peristiwa Mei Li Tao](/history/美麗島事件) — Kronologi lengkap peristiwa Kaohsiung 1979 dan dampak sejarahnya
-- [Pemilihan dan Politik Partai di Taiwan](/history/台灣選舉與政黨政治) — Evolusi sistem pemilihan dari National Assembly Abadi hingga empat kali pergantian partai
-- [Deklarasi Masa Depan Taiwan](/history/臺灣前途決議文) — Pada tahun 1999, DPP menyelesaikan transformasi jalur politik dengan dokumen yang penuh ambiguitas, membuka pintu untuk pergantian partai pertama tahun 2000
+- [Peristiwa Mei Li Tao](/id/history/kaohsiung-incident-formosa-incident) — Kronologi lengkap peristiwa Kaohsiung 1979 dan dampak sejarahnya
+- [Pemilihan dan Politik Partai di Taiwan](/id/history/taiwan-elections-and-party-politics) — Evolusi sistem pemilihan dari National Assembly Abadi hingga empat kali pergantian partai
+- [Deklarasi Masa Depan Taiwan](/id/history/resolution-on-taiwans-future) — Pada tahun 1999, DPP menyelesaikan transformasi jalur politik dengan dokumen yang penuh ambiguitas, membuka pintu untuk pergantian partai pertama tahun 2000
 - [Keadilan Transisional Taiwan](/id/history/taiwan-transitional-justice) — Bagaimana masyarakat menghadapi trauma sejarah dari era otoriter setelah demokratisasi
 - [Gerakan Pemanggilan Massal Besar](/id/society/social-movements-and-civic-participation) — Gelombang pemanggilan massal terbesar dalam sejarah di mana 33 kasus dalam tiga gelombang pemungutan suara semuanya gagal, mengukur batas dan biaya alat hak rakyat langsung pasca-demokratisasi
-- [Gerakan Bunga Matahari](/society/太陽花學運) — Kronologi lengkap pendudukan legislatif tahun 2014, dari terobosan tiga puluh detik hingga dekontekstualisasi ekonomi dari Tiongkok dua belas tahun kemudian
-- [Pertemuan Zheng-Xi 2026: Sepuluh Menit Pertemuan Kembali Pemimpin Partai Komunis dan Kuomintang Sepuluh Tahun](/society/2026鄭習會與國共十年再會) — Mengapa AIT menekankan "berdialog dengan lapisan kepemimpinan terpilih"? Fondasi prinsip ini terletak pada sejarah demokratisasi ini
+- [Gerakan Bunga Matahari](/id/society/sunflower-movement) — Kronologi lengkap pendudukan legislatif tahun 2014, dari terobosan tiga puluh detik hingga dekontekstualisasi ekonomi dari Tiongkok dua belas tahun kemudian
+- [Pertemuan Zheng-Xi 2026: Sepuluh Menit Pertemuan Kembali Pemimpin Partai Komunis dan Kuomintang Sepuluh Tahun](/id/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Mengapa AIT menekankan "berdialog dengan lapisan kepemimpinan terpilih"? Fondasi prinsip ini terletak pada sejarah demokratisasi ini
 - [Chou Tzu-yu](/id/people/tzuyu) — Video permintaan maaf 90 detik pada malam sebelum pemilihan umum 2016 adalah beban terberat bagi pergantian partai ketiga Taiwan
 
 ## Referensi
@@ -196,9 +201,9 @@ Dari surat wasiat hingga Ketua Komisi Pengawasan, empat puluh satu tahun. Itulah
 
 [^5]: [Memori Hak Asasi Manusia Nasional: Peristiwa Kaohsiung](https://memory.nhrm.gov.tw/TopicExploration/Event/Detail/5) — Menyimpan foto, catatan pengadilan, dan kesaksian lisan pelaku peristiwa Kaohsiung 10 Desember 1979, merupakan basis data sejarah Peristiwa Mei Li Tao dengan digitalisasi tertinggi.
 
-[^6]: [Story Studio: Dari Penangkapan Besar-Besaran ke Pengadilan Militer Besar](https://storystudio.tw/article/gushi/%E5%BE%9E%E5%A4%A7%E9%80%95%E6%8D%95%E5%88%B0%E8%BB%8D%E6%B3%95%E5%A4%A7%E5%AF%A9%EF%BC%9A%E7%BE%8E%E9%BA%97%E5%B3%B6%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E5%BD%B1%E5%83%8F%E5%8F%B2%EF%BC%88%E4%BA%8C) — Menyimpan foto sidang pengadilan militer besar dan daftar lima belas pengacara pembela, mencatat bagaimana pengadilan secara tidak sengaja menciptakan pemimpin generasi berikutnya gerakan oposisi.
+[^6]: [Story Studio: Dari Penangkapan Besar-Besaran ke Pengadilan Militer Besar](https://storystudio.tw/article/gushi/%E5%BE%9E%E5%A4%A7%E9%80%AE%E6%8D%95%E5%88%B0%E8%BB%8D%E6%B3%95%E5%A4%A7%E5%AF%A9%EF%BC%9A%E7%BE%8E%E9%BA%97%E5%B3%B6%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E5%BD%B1%E5%83%8F%E5%8F%B2%EF%BC%88%E4%BA%8C) — Menyimpan foto sidang pengadilan militer besar dan daftar lima belas pengacara pembela, mencatat bagaimana pengadilan secara tidak sengaja menciptakan pemimpin generasi berikutnya gerakan oposisi.
 
-[^7]: [Wikipedia: Kasus Darah Rumah Lin](https://zh.wikipedia.org/zh-tw/%E6%9E%97%E5%AE%B6%E8%A1%80%E6%A1%88) — Kronologi dan investigasi lanjutan kasus pembunuhan massal di rumah Lin Yi-hsiung pada 28 Februari 1980, hingga kini masih menjadi salah satu kasus misterius terbesar di Taiwan.
+[^7]: [Wikipedia: Kasus Darah Rumah Lin](https://zh.wikipedia.org/zh-tw/%E6%9E%97%E5%AE%85%E8%A1%80%E6%A1%88) — Kronologi dan investigasi lanjutan kasus pembunuhan massal di rumah Lin Yi-hsiung pada 28 Februari 1980, hingga kini masih menjadi salah satu kasus misterius terbesar di Taiwan.
 
 [^8]: [Memori Hak Asasi Manusia Nasional: Kasus Jiang Nan](https://memory.nhrm.gov.tw/TopicExploration/Event/Detail/39) — Kronologi lengkap kasus pembunuhan Liu Yi-liang tahun 1984, mencatat proses investigasi pembunuhan yang diorganisir oleh Kepala Biro Intelijen Militer Wang Hsi-ling dan dampak politik internasionalnya.
 

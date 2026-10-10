@@ -249,15 +249,15 @@ Dajiaochang ist ein Geschäftsviertel, das durch den Teehandel 1860 entstanden i
 **Weiterführende Literatur**:
 
 - [Taipeh: Eine Stadt mit drei Zeiten, 1738 Drachen-Tempel sieht 2004 das 101-Gebäude](/de/geography/taipei-city) — Gongguan in der 12. Position (Zhongzheng + Da’an + Wenshan), neben Manka, Dajiaochang und Xinyi vier Zeitleisten
-- [Taiwan weiße Angst](/history/台灣白色恐怖) — 1960 Lei Chen, 1969 Yin Hai-guang, 1972–1975 die philosophische Fakultätsaffäre der Nationalen Universität Tai-wan im Kontext der Martialrechtszeit
+- [Taiwan weiße Angst](/de/history/taiwan-white-terror) — 1960 Lei Chen, 1969 Yin Hai-guang, 1972–1975 die philosophische Fakultätsaffäre der Nationalen Universität Tai-wan im Kontext der Martialrechtszeit
 - [Martialrechtszeit](/de/history/martial-law-era) — 1949–1987 politischer Hintergrund und das 11-jährige Gefängnis von Lei Chen
 - [Yin Hai-guang: Der Philosoph, der Freiheit in Taiwan in der Wenzhou-Straße 18, Lane säte](/de/people/yin-haiguang-liberalism-philosopher) — Der typische Bewohner von Gongguan – Wenzhou-Straße, von 1949 nach Taiwan bis 1969
 - [Taiwan Zeitschrift: Von „Freies China“ bis „Qiao Nü Zhi“](/de/culture/magazine) — Die Veröffentlichungsgeschichte von „Freies China“ 1949–1960 und die politische Kultur der Medien während der Martialrechtszeit
-- [Dajiaochang](/geography/大稻埕) — Die gleiche Serie historischer Stadtkerne, ein Geschäftsviertel für Teehandel 1851, und die Gründung der Kaiser Universität 1928 in Gongguan gehören zu zwei völlig verschiedenen „Logiken der Stadtbildung“
-- [Manka](/geography/艋舺) — Die gleiche Serie historischer Stadtkerne, ein Viertel, das durch den Drachen-Tempel 1738 in der Blütezeit der Kangxi-Zeit entstanden ist, und bildet einen Kontrast zu Gongguan im frühen Kangxi-Zeit „Gongguan-Village“
-- [Ximending](/geography/西門町) — Die gleiche Serie historischer Stadtkerne, ein Unterhaltungsviertel, das 1896 von der japanischen Kolonialregierung errichtet wurde, und die Kaiser Universität 1928 in Gongguan gehört zu zwei verschiedenen räumlichen Planungen der Japaner in Taipeh
+- [Dajiaochang](/de/geography/dadaocheng) — Die gleiche Serie historischer Stadtkerne, ein Geschäftsviertel für Teehandel 1851, und die Gründung der Kaiser Universität 1928 in Gongguan gehören zu zwei völlig verschiedenen „Logiken der Stadtbildung“
+- [Manka](/de/geography/bangka) — Die gleiche Serie historischer Stadtkerne, ein Viertel, das durch den Drachen-Tempel 1738 in der Blütezeit der Kangxi-Zeit entstanden ist, und bildet einen Kontrast zu Gongguan im frühen Kangxi-Zeit „Gongguan-Village“
+- [Ximending](/de/geography/ximending) — Die gleiche Serie historischer Stadtkerne, ein Unterhaltungsviertel, das 1896 von der japanischen Kolonialregierung errichtet wurde, und die Kaiser Universität 1928 in Gongguan gehört zu zwei verschiedenen räumlichen Planungen der Japaner in Taipeh
 - [Yongkang-Straße](/de/geography/yongkang-street) — Gemeinsam mit Gongguan die Konsumkurve der Studenten der Nationalen Universität Tai-wan, von Professorenwohnungen zu den Tischen der taiwanesischen Studenten
-- [Guling-Straße](/geography/牯嶺街) — Ein Schwestergebiet der ausländischen Intellektuellen und der alten Buchkultur, und bildet ein Gegenstück zu den Gelehrten-Wohnungen in Gongguan – Wenzhou-Straße
+- [Guling-Straße](/de/geography/guling-street) — Ein Schwestergebiet der ausländischen Intellektuellen und der alten Buchkultur, und bildet ein Gegenstück zu den Gelehrten-Wohnungen in Gongguan – Wenzhou-Straße
 - [Treasure Hill](/de/geography/treasure-hill) — Ein unerlaubtes Viertel 800 Meter südlich von Gongguan, und die zwei Arten von „Randzuständen“ in der Ära der Studentenproteste 1969
 
 ## Bildnachweise

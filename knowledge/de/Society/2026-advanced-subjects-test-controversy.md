@@ -79,8 +79,8 @@ Der Überprüfungsprozess des Prüfungskomitees endet voraussichtlich am 6. Augu
 ## Weiterführende Lektüre
 
 - [Bildungssystem und Hochschulbildungskultur](/de/society/education-system-and-admissions-culture) — Die Position der Fachprüfungen im gesamten Bildungssystem
-- [Expansion und Rückzug des Hochschulsektors in Taiwan](/society/台灣高等教育擴張與退場) — Wie die Versorgung auf universitärer Ebene den Druck auf die Prüfungsseite bestimmt
-- [Die Kinderkrisen von Taiwan](/society/台灣少子化危機) — Woher stammt die langfristige Kurve der Studierendenanzahl?
+- [Expansion und Rückzug des Hochschulsektors in Taiwan](/de/society/taiwan-higher-education-expansion-and-decline) — Wie die Versorgung auf universitärer Ebene den Druck auf die Prüfungsseite bestimmt
+- [Die Kinderkrisen von Taiwan](/de/society/taiwan-low-birth-rate-crisis) — Woher stammt die langfristige Kurve der Studierendenanzahl?
 
 ## Referenzen
 

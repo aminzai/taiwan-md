@@ -201,11 +201,11 @@ Was auf diesem Papier stand, ist nicht wichtig. Wichtig ist, dass es endlich jem
 
 **Weiterführende Lektüre**:
 
-- [National Museum of Human Rights](/history/國家人權博物館) — Institutionalisierung der Gedenken und Rechenschaftslegung; Eröffnung 2018, Budget im Jahr 2025 eingefroren
-- [Kriegsrecht](/history/戒嚴時期) — Der rechtliche Rahmen von 1949 bis 1987, eine Verlängerung der Repression von 1947
-- [weiße Terrorherrschaft Taiwan](/history/台灣白色恐怖) — Politische Fälle während der Kriegsrechtsperiode
-- [Übergangsgerechtigkeit Taiwan](/history/台灣轉型正義) — Der Kampf zwischen Aufhebung von Urteilen und Rechenschaftslegung
-- [Gesetzlicher Feiertag](/society/國定假日) — Wie 228 im Jahr 1997 zum ersten gesetzlichen Feiertag der Republik China wurde
+- [National Museum of Human Rights](/de/history/national-human-rights-museum) — Institutionalisierung der Gedenken und Rechenschaftslegung; Eröffnung 2018, Budget im Jahr 2025 eingefroren
+- [Kriegsrecht](/de/history/martial-law-era) — Der rechtliche Rahmen von 1949 bis 1987, eine Verlängerung der Repression von 1947
+- [weiße Terrorherrschaft Taiwan](/de/history/taiwan-white-terror) — Politische Fälle während der Kriegsrechtsperiode
+- [Übergangsgerechtigkeit Taiwan](/de/history/taiwan-transitional-justice) — Der Kampf zwischen Aufhebung von Urteilen und Rechenschaftslegung
+- [Gesetzlicher Feiertag](/de/society/national-holidays) — Wie 228 im Jahr 1997 zum ersten gesetzlichen Feiertag der Republik China wurde
 
 ## Referenzen
 

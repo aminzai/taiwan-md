@@ -12,7 +12,7 @@ tags:
     '柏成設計',
     '雄獅トラベル',
   ]
-subcategory: '交通と美学'
+subcategory: '交通與美學'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-17
@@ -22,6 +22,7 @@ curation: 'incubating'
 translatedFrom: 'Lifestyle/台鐵鳴日號.md'
 sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:928aabb44491a861'
+sourceBodyHash: 'sha256:28f054608fa81e22'
 translatedAt: '2026-09-09T13:51:51.070105+00:00'
 ---
 

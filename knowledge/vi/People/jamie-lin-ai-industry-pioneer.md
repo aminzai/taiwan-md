@@ -136,10 +136,10 @@ Vị trí của anh chắc chắn mang lại sự xung đột. Có người cho 
 
 **Đọc thêm**:
 
-- [Du Yijun](/people/杜奕瑾) — Từ PTT đến Microsoft, rồi đến phòng thí nghiệm AI Đài Loan, một con đường khác của AI Đài Loan.
-- [Zhang Zhongmou](/people/張忠謀) — Một mẫu khác của công ty công nghệ Đài Loan "tự làm, sau đó làm thành phần quốc tế".
+- [Du Yijun](/vi/people/ethan-tu) — Từ PTT đến Microsoft, rồi đến phòng thí nghiệm AI Đài Loan, một con đường khác của AI Đài Loan.
+- [Zhang Zhongmou](/vi/people/tsmc-morris-chang) — Một mẫu khác của công ty công nghệ Đài Loan "tự làm, sau đó làm thành phần quốc tế".
 - [Trường đại học AI Đài Loan](/vi/technology/taiwan-ai-academy) — Đài Loan làm sao dùng lực lượng phi chính phủ bổ sung khoảng trống nhân lực AI.
-- [Shih Zhenrong](/people/施振榮) — Từ gia công sang thương hiệu, một người khác sẵn sàng đứng trước máy ảnh nói về cha của công nghệ Đài Loan.
+- [Shih Zhenrong](/vi/people/stan-shih) — Từ gia công sang thương hiệu, một người khác sẵn sàng đứng trước máy ảnh nói về cha của công nghệ Đài Loan.
 
 ## Nguồn ảnh
 

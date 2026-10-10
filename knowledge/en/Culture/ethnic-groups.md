@@ -17,7 +17,7 @@ tags:
     'mainlanders',
     'new immigrants',
   ]
-subcategory: 'Ethnic Culture'
+subcategory: '族群文化'
 category: 'Culture'
 author: 'Taiwan.md'
 featured: false

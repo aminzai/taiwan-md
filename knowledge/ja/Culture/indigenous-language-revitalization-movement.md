@@ -4,7 +4,7 @@ description: '台湾の邵族（Thao）にはたった4人の母語話者が残�
 date: 2026-03-29
 author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '言語と文字'
+subcategory: '語言與文字'
 tags: ['原住民族', '言語復興', '族語教育', '言語政策', '文化継承']
 readingTime: 8
 lastVerified: 2026-03-29
@@ -101,10 +101,10 @@ Kolas Yotakaの政治的経歴と言語運動：https://en.wikipedia.org/wiki/Ko
 
 **関連記事**：
 
-- [台湾の辺境地域教育](/society/台湾偏郷教育) — 原郷の学校の問題は学力だけでなく、言語と文化が学校に受け止められるかどうかにある。
-- [台湾原住民族の歴史と正名運動](/history/台湾原住民族歴史與正名運動) — 言語復興は、民族名・歴史的物語・政治的主体の再構築なしには成り立たない。
-- [台湾原住民族の土地正義と伝統領域](/society/台湾原住民族土地正義與傳統領域) — 言語・土地・暮らし方はもともと同じ網の目である。
-- [台湾原住民族16族文化マップ](/culture/台湾原住民族16族文化地圖) — 各民族の分布と文化の輪郭を知りたい場合は、この記事が全体像を提供する。
-- [台湾原住民の飲食文化](/food/台湾原住民飲食文化) — 食が保存するのは味だけでなく、言語・地名・生態学的知識でもある。
-- [台湾原住民の生態知恵と環境保全](/nature/台湾原住民生態智慧與環境保育) — 原住民族の言語には、山・川・季節との相互作用に関する膨大な知識が含まれている。
-- [台湾原住民の現代アート](/art/台湾原住民當代藝術) — 現代アートは、族語と文化を再び可視化するもう一つの道である。
+- [台湾の辺境地域教育](/ja/society/taiwan-rural-education) — 原郷の学校の問題は学力だけでなく、言語と文化が学校に受け止められるかどうかにある。
+- [台湾原住民族の歴史と正名運動](/ja/history/indigenous-peoples-history-and-naming-movement) — 言語復興は、民族名・歴史的物語・政治的主体の再構築なしには成り立たない。
+- [台湾原住民族の土地正義と伝統領域](/ja/society/indigenous-land-justice-and-traditional-territories) — 言語・土地・暮らし方はもともと同じ網の目である。
+- [台湾原住民族16族文化マップ](/ja/culture/indigenous-peoples-16-tribes-cultural-map) — 各民族の分布と文化の輪郭を知りたい場合は、この記事が全体像を提供する。
+- [台湾原住民の飲食文化](/ja/food/taiwan-indigenous-foodways) — 食が保存するのは味だけでなく、言語・地名・生態学的知識でもある。
+- [台湾原住民の生態知恵と環境保全](/ja/nature/taiwanese-indigenous-ecological-wisdom-conservation) — 原住民族の言語には、山・川・季節との相互作用に関する膨大な知識が含まれている。
+- [台湾原住民の現代アート](/ja/art/contemporary-indigenous-art-taiwan) — 現代アートは、族語と文化を再び可視化するもう一つの道である。

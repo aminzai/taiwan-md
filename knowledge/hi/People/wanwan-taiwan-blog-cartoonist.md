@@ -228,7 +228,7 @@ _वानवान (हू चिया-वेई)। — Photo: chungkeng ryu 
 **अतिरिक्त पठन**:
 
 - [वुमिंग श्याओझान: फेसबुक से पहले का ताइवानी सोशल](/hi/culture/wretch)
-- [ताइवान इंटरनेट समुदाय प्रवास इतिहास](/technology/台灣網路社群遷徙史)
+- [ताइवान इंटरनेट समुदाय प्रवास इतिहास](/hi/technology/taiwan-online-community-migration)
 - [ताइवान मीम](/hi/culture/taiwan-meme-culture)
 - [Dcard](/hi/culture/dcard-taiwan-social-platform)
-- [यांग चेंग-लिन](/people/楊丞琳)
+- [यांग चेंग-लिन](/hi/people/rainie-yang)

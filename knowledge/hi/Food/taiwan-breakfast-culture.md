@@ -30,6 +30,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Breakfast_sold_in_taiwan.j
 translatedFrom: 'Food/台灣早餐文化.md'
 sourceCommitSha: 'ee6650052'
 sourceContentHash: 'sha256:499276bde9de600f'
+sourceBodyHash: 'sha256:be2608c0c19c56d2'
 translatedAt: '2026-09-24T23:52:28.032717+00:00'
 ---
 
@@ -250,7 +251,7 @@ _नमकीन सोया दूध और अंडा पैनकेक �
 - [फानीटुआन (चावल का गोला)](/hi/food/rice-ball) — जियांगनान फानीटुआन से ताइवान नाश्ते की दुकान तक भरावन का विकास, एक चावल के गोले की पूरी कहानी
 - [ताइवान स्नैक्स](/hi/food/taiwanese-street-food) — स्टॉल अर्थव्यवस्था कैसे ताइवान के दैनिक खान-पान को सहारा देती है, नाश्ता केवल एक समय है
 - [ताइवान स्ट्रीट ड्रिंक संस्कृति](/hi/food/hand-shaken-drink-culture) — आइस मिल्क का दूसरा रिश्तेदार, यह भी एक ऐसा उद्योग है जिसे कोई भी खोल सकता है
-- [ताइवान फूड अवलोकन](/food/台灣美食總覽) — नाश्ते से आगे बढ़कर, ताइवान के खान-पान का पूरा नक्शा
+- [ताइवान फूड अवलोकन](/hi/food/taiwan-food-overview) — नाश्ते से आगे बढ़कर, ताइवान के खान-पान का पूरा नक्शा
 - [नाश्ते की दुकान की आंटी और सामुदायिक सूचना नेटवर्क](/hi/society/breakfast-shops-and-community-intelligence-network) — तवे के बाहर की परत, एक दुकान कैसे एक गली का नोड बन जाती है
 
 ## चित्र स्रोत

@@ -13,14 +13,14 @@ tags:
     'dauphin blanc de Chine',
     'Kuroshio',
   ]
-subcategory: 'Faune sauvage'
+subcategory: '野生動物'
 author: '海女'
 readingTime: 12
 category: 'Nature'
 lastVerified: 2026-03-19
 featured: false
 translatedFrom: 'Nature/臺灣的鯨豚.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:fa8568c6d129180a'
 sourceBodyHash: 'sha256:7c0ff1bf77404541'
 translatedAt: '2026-05-17T05:33:00Z'

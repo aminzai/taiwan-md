@@ -55,6 +55,7 @@ rationale:
 translatedFrom: 'Lifestyle/台灣醫療與全民健保.md'
 sourceCommitSha: '29ff6f481'
 sourceContentHash: 'sha256:6a23ae926022133f'
+sourceBodyHash: 'sha256:a5c8010bb09051a0'
 translatedAt: '2026-09-22T19:03:04.405157+00:00'
 ---
 
@@ -205,7 +206,7 @@ _Gedung utama Universitas Nasional Taiwan. Didirikan pada tahun 1895, ini adalah
 - [Kesaksian Tenaga Kerja dalam Evolusi Dua Undang-Undang Pengobatan Regeneratif di Taiwan](/id/society/taiwan-regenerative-medicine-laws) — Di luar batas pembayaran jaminan kesehatan, dua undang-undang pengobatan regeneratif disahkan pada tahun 2024, yang merupakan jalur tata kelola lain di luar SOP jaminan kesehatan.
 - [Kontroversi Obat Hewan di Taiwan](/id/society/taiwan-animal-drug-controversy) — Jaminan kesehatan mencakup manusia, bukan hewan; kontroversi obat hewan adalah kelompok pembanding bagi sistem jaminan kesehatan.
 - [Sistem Medis Bencana di Taiwan](/id/technology/taiwan-disaster-medicine-system) — Jaminan kesehatan menopang layanan medis sehari-hari, sementara sistem medis bencana menopang keadaan darurat; kedua sistem ini membentuk aspek normal dan darurat dari tata kelola kesehatan publik Taiwan.
-- [Pandemi COVID-19 dan Vaksinasi di Taiwan](/society/台灣新冠疫情與疫苗) — Kartu jaminan kesehatan itu digunakan untuk sistem pendaftaran masker pada tahun 2020, yang berjalan selama dua minggu; basis data yang sama juga memungkinkan pelacakan epidemi dan pendaftaran vaksin.
+- [Pandemi COVID-19 dan Vaksinasi di Taiwan](/id/society/taiwan-covid-pandemic-and-vaccines) — Kartu jaminan kesehatan itu digunakan untuk sistem pendaftaran masker pada tahun 2020, yang berjalan selama dua minggu; basis data yang sama juga memungkinkan pelacakan epidemi dan pendaftaran vaksin.
 
 ## Data Terbuka
 

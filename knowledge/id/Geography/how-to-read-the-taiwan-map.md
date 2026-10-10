@@ -129,9 +129,9 @@ Dari kulit domba Lopo Homem 1554, sampai Google Maps di genggaman Anda 2026, set
 
 **Baca Lebih Lanjut**:
 
-- [Lima Bentuk Lahan Utama Taiwan dan Struktur Geografis](/geography/台灣五大地形與地理結構) — Pembentukan geologi dan sebaran rinci lima bentuk lahan utama
-- [Gerakan Lempeng Tektonik Taiwan dan Aktivitas Gempa](/geography/台灣板塊運動與地震活動) — Kenapa Taiwan gunung begitu banyak: tabrakan Lempeng Laut Filipina dan Lempeng Eurasia
-- [Masa Belanda, Spanyol, Koxinga](/history/荷西明鄭時期) — 1624-1683, era orang Eropa pertama kali menggambar peta detail Taiwan
+- [Lima Bentuk Lahan Utama Taiwan dan Struktur Geografis](/id/geography/taiwan-five-major-landforms-and-geographic-structure) — Pembentukan geologi dan sebaran rinci lima bentuk lahan utama
+- [Gerakan Lempeng Tektonik Taiwan dan Aktivitas Gempa](/id/geography/tectonic-plates-and-seismic-activity) — Kenapa Taiwan gunung begitu banyak: tabrakan Lempeng Laut Filipina dan Lempeng Eurasia
+- [Masa Belanda, Spanyol, Koxinga](/id/history/dutch-spanish-and-koxinga-era) — 1624-1683, era orang Eropa pertama kali menggambar peta detail Taiwan
 - [Pulau Terpencil dan Budaya Laut](/id/geography/offshore-islands-and-maritime-culture) — Kinmen, Matsu, Penghu: di peta paling jauh dari Taiwan, paling dekat ke Tiongkok, tapi tetap "Taiwan"
 
 ## Referensi
@@ -158,7 +158,7 @@ Dari kulit domba Lopo Homem 1554, sampai Google Maps di genggaman Anda 2026, set
 
 [^11]: [Selat Taiwan — Wikipedia (EN)](https://en.wikipedia.org/wiki/Taiwan_Strait) — Asal garis tengah Selat Taiwan 1955, pengumuman koordinat 2019, penolakan Tiongkok.
 
-[^12]: [Zona Identifikasi Pertahanan Udara (Taiwan) — Wikipedia (EN)](<https://en.wikipedia.org/wiki/Air_Defense_Identification_Zone_(Taiwan)>) — ADIZ Taiwan 1954 ditetapkan Angkatan Udara AS, cakupan meluas ke atas Tiongkok daratan, tak ada dasar hukum internasional.
+[^12]: [Zona Identifikasi Pertahanan Udara (Taiwan) — Wikipedia (EN)](https://en.wikipedia.org/wiki/Air_Defense_Identification_Zone_(Taiwan) — ADIZ Taiwan 1954 ditetapkan Angkatan Udara AS, cakupan meluas ke atas Tiongkok daratan, tak ada dasar hukum internasional.
 
 [^13]: [Wilayah Laut — Klaim Tumpang Tindih Taiwan](https://www.marineregions.org/eezdetails.php?mrgid=8321) — Kedalaman landas benua Selat Taiwan dan sengketa ZEE tumpang tindih.
 

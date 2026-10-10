@@ -155,12 +155,12 @@ Văn học Đài Loan thời kỳ này, cung cấp những tích lũy thực ch�
 
 ## Đọc thêm
 
-- [Cuộc du hành trên Đài Loan](/art/cuộc-du-hành-trên-đài-loan) — Bộ tiểu thuyết dịch giả của Dương Song Tử 2020, biến những chuyến đi trên đường sắt dọc Đài Loan từ 1938-39 thời kỳ Nhật trị thành những câu chuyện về thực phẩm và quyền lực của hai phụ nữ, nhận được sự xác nhận quốc tế từ NBA 2024 và Giải thưởng Booker Quốc tế 2026 kép
-- [Văn học Đài Loan sau chiến tranh](/art/văn-học-đài-loan-sau-chiến-tranh) — Sau khi khoảng cách ngôn ngữ năm 1945, bản dòng thời kỳ Nhật như Lại Hòa, Lữ Hách Nhược, Trương Văn Hoàn: Diệp Thạch Đào bạch giấy, chủ nghĩa hiện đại, tranh luận nông thôn, thức tỉnh phụ nữ
-- [Văn học Đài Loan sau khi giải tỏa thiết quân luật](/art/văn-học-đài-loan-sau-khi-giải-tỏa-thiết-quân-luật) — Nổ lên đa dạng sau khi thiết quân luật bãi bỏ năm 1987
-- [Văn học Đài Loan đương đại](/art/văn-học-đài-loan-đương-đại) — Quốc tế hóa thế kỷ 21, Ngô Minh Ích, văn học kỹ thuật số
-- [Lịch sử Văn học Đài Loan](/art/lịch-sử-văn-học-đài-loan) — Tổng thể bối cảnh từ Hà Lan, Minh Thanh, thời kỳ Nhật đến đương đại
-- [Lâm Lương](/people/lâm-lương) — Nền tảng tác giả văn học thiếu nhi từ Hạ Môn du hành qua Đài Loan sau chiến tranh, tạo thành mối tương phản của vị trí chính sách ngôn ngữ trước/sau chiến tranh với văn học thời kỳ Nhật trị
+- [Cuộc du hành trên Đài Loan](/vi/art/taiwan-travelogue) — Bộ tiểu thuyết dịch giả của Dương Song Tử 2020, biến những chuyến đi trên đường sắt dọc Đài Loan từ 1938-39 thời kỳ Nhật trị thành những câu chuyện về thực phẩm và quyền lực của hai phụ nữ, nhận được sự xác nhận quốc tế từ NBA 2024 và Giải thưởng Booker Quốc tế 2026 kép
+- [Văn học Đài Loan sau chiến tranh](/vi/art/postwar-taiwanese-literature) — Sau khi khoảng cách ngôn ngữ năm 1945, bản dòng thời kỳ Nhật như Lại Hòa, Lữ Hách Nhược, Trương Văn Hoàn: Diệp Thạch Đào bạch giấy, chủ nghĩa hiện đại, tranh luận nông thôn, thức tỉnh phụ nữ
+- [Văn học Đài Loan sau khi giải tỏa thiết quân luật](/vi/art/post-martial-law-taiwanese-literature) — Nổ lên đa dạng sau khi thiết quân luật bãi bỏ năm 1987
+- [Văn học Đài Loan đương đại](/vi/art/contemporary-taiwanese-literature) — Quốc tế hóa thế kỷ 21, Ngô Minh Ích, văn học kỹ thuật số
+- [Lịch sử Văn học Đài Loan](/vi/art/history-of-taiwanese-literature) — Tổng thể bối cảnh từ Hà Lan, Minh Thanh, thời kỳ Nhật đến đương đại
+- [Lâm Lương](/vi/people/lin-liang-childrens-literature) — Nền tảng tác giả văn học thiếu nhi từ Hạ Môn du hành qua Đài Loan sau chiến tranh, tạo thành mối tương phản của vị trí chính sách ngôn ngữ trước/sau chiến tranh với văn học thời kỳ Nhật trị
 
 ---
 

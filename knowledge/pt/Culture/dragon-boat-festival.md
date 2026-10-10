@@ -165,10 +165,10 @@ Aquele ovo na prova do exame de admissão que se exige derrubar, e aquele ovo qu
 
 **Leitura adicional**:
 
-- [Feriados nacionais](/society/國定假日) — Como o Festival do Barco-Dragão subiu de uma ordem administrativa a feriado legal, a outra história que os taiwaneses escreveram com "não precisa trabalhar"
+- [Feriados nacionais](/pt/society/national-holidays) — Como o Festival do Barco-Dragão subiu de uma ordem administrativa a feriado legal, a outra história que os taiwaneses escreveram com "não precisa trabalhar"
 - [Festas e celebrações tradicionais](/pt/culture/traditional-festivals-and-celebrations) — Da peste aos fogos de artifício, como a cultura festiva de Taiwan evoluiu acidentalmente
 - [Petiscos de Taiwan](/pt/food/taiwanese-street-food) — O zongzi norte-sul é só o prólogo; a obsessão dos taiwaneses por comida tem muitos outros campos de batalha
-- [Koxinga](/people/鄭成功) — Protagonista da lenda do Poço da Espada, uma figura histórica que deixou pegadas (e lendas) por toda Taiwan
+- [Koxinga](/pt/people/koxinga) — Protagonista da lenda do Poço da Espada, uma figura histórica que deixou pegadas (e lendas) por toda Taiwan
 
 ## Créditos das imagens
 

@@ -4,7 +4,7 @@ description: '台湾手話は口語を手振りに翻訳したものではなく
 date: 2026-08-16
 category: 'Culture'
 tags: ['台湾手話', 'ろう文化', '言語政策', 'ろう教育', '国家言語']
-subcategory: '言語とコミュニティ'
+subcategory: '語言與社群'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16
@@ -14,6 +14,7 @@ curation: 'incubating'
 translatedFrom: 'Culture/台灣手語.md'
 sourceCommitSha: '88c8f03b3'
 sourceContentHash: 'sha256:9e62fc9bd2bec4e1'
+sourceBodyHash: 'sha256:4eaa3ae985aa0bf5'
 translatedAt: '2026-09-12T16:01:29.424956+00:00'
 ---
 

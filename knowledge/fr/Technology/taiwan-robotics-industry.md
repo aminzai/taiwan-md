@@ -14,7 +14,7 @@ tags:
     'NCAIR',
     '2026',
   ]
-subcategory: 'Industries technologiques'
+subcategory: '科技產業'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 13
@@ -146,7 +146,7 @@ La différence entre ces deux réponses constitue le véritable bulletin de note
 - [Crise de la natalité à Taïwan](/fr/society/taiwan-low-birth-rate-crisis) — Pourquoi le NCAIR place les « soins familiaux de longue durée » en priorité ? La réponse est dans la structure démographique
 - [Transformation et montée en gamme de l'industrie taïwanaise](/fr/economy/industrial-transformation-from-manufacturing-to-innovation) — De la sous-traitance à la marque, des composants à l'intégration système, le défi structurel débattu depuis vingt ans
 - [Industrie taïwanaise des machines-outils](/fr/economy/taiwan-machine-tool-industry) — Les 1 500 fabricants de machines de précision de la vallée dorée de Dadu Mountain, racine amont du matériel robotique
-- [Computex : deux des trois grands salons informatiques internationaux ont fermé, il ne reste que celui de Taipei](/fr/technology/computex-taipei) — Computex 2026 mise sur l'« IA physique » et l'intelligence incarnée, vitrine annuelle où la chaîne d'approvisionnement taïwanaise passe de l'assemblage de serveurs IA à l'assemblage de robots
+- [Computex : deux des trois grands salons informatiques internationaux ont fermé, il ne reste que celui de Taipei](/fr/technology/computex) — Computex 2026 mise sur l'« IA physique » et l'intelligence incarnée, vitrine annuelle où la chaîne d'approvisionnement taïwanaise passe de l'assemblage de serveurs IA à l'assemblage de robots
 
 ## Références
 

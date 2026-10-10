@@ -14,7 +14,7 @@ tags:
     'स्मृति राजनीति',
     'संक्रमण न्याय',
   ]
-subcategory: 'ऐतिहासिक व्यक्तित्व'
+subcategory: '歷史人物'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-10
@@ -35,6 +35,7 @@ relatedDiary: ['2026-06-11-083358-莫那魯道']
 translatedFrom: 'People/莫那·魯道.md'
 sourceCommitSha: '9094012f4'
 sourceContentHash: 'sha256:eecabb61bafa58a4'
+sourceBodyHash: 'sha256:2e9a56655129cad4'
 translatedAt: '2026-09-09T09:16:30.725006+00:00'
 ---
 

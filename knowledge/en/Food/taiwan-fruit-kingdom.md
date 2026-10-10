@@ -38,6 +38,7 @@ imageLicense: 'CC BY-SA 2.0'
 translatedFrom: 'Food/台灣水果王國.md'
 sourceCommitSha: '813fde2d6'
 sourceContentHash: 'sha256:e8ef7d9d72df6a42'
+sourceBodyHash: 'sha256:4f8e5414cbe29614'
 translatedAt: '2026-09-21T08:53:21.007894+00:00'
 ---
 
@@ -212,7 +213,7 @@ This island cultivates every piece of fruit as life and memory. The aspect of li
 - [Pineapple Sapodilla Incident](/politics/鳳梨釋迦事件) — A Complete Record of the 2021 China Ban and Failed Orders to Canada
 - [Taiwan Agricultural Migrant Workers](/society/台灣農業移工) — Indonesian and Filipino Accents in Orchards and Gaps in the Legal System
 - [Organic Agriculture in Taiwan](/food/有機農業) — Growth by 2.68 Times from 2017 to 2024 and Xie Mei-li's Ugly Pomelo
-- [Taiwan Street Trees](/lifestyle/台灣行道樹) — The Ecological Chain of the Taiwanese Gulmohur and Red Ladybug, and the Species Boundary Between Them and the Lychee Bug
+- [Taiwan Street Trees](/en/lifestyle/taiwan-street-trees) — The Ecological Chain of the Taiwanese Gulmohur and Red Ladybug, and the Species Boundary Between Them and the Lychee Bug
 
 ## Image Sources
 

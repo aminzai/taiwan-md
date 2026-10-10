@@ -12,7 +12,7 @@ tags:
     'Xin Dong Yang',
     'Budaya Kuliner',
   ]
-subcategory: 'Suasana Kuliner'
+subcategory: '飲食場景'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-08-14
@@ -21,6 +21,7 @@ curation: 'incubating'
 translatedFrom: 'Food/燒臘便當.md'
 sourceCommitSha: 'f89314e27'
 sourceContentHash: 'sha256:883e6019ba168229'
+sourceBodyHash: 'sha256:3b14e4290a67452c'
 translatedAt: '2026-09-10T19:53:23.287864+00:00'
 ---
 

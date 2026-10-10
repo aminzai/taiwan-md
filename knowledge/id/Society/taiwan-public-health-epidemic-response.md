@@ -91,13 +91,13 @@ Dua puluh tiga tahun setelah penutupan Rumah Sakit Heping, bangunan itu tetap be
 
 **Bacaan Lanjutan**：
 
-- [Ruang Merokok Taipei: Di Kota Tanpa Rokok, Kotak Kaca yang Bernapas](/society/台北吸菸室) — Bab terbaru ekspedisi empat puluh tahun pengendalian rokok, medan perang bergeser dari ruang tertutup ke luar ruangan
+- [Ruang Merokok Taipei: Di Kota Tanpa Rokok, Kotak Kaca yang Bernapas](/id/society/taipei-smoking-room) — Bab terbaru ekspedisi empat puluh tahun pengendalian rokok, medan perang bergeser dari ruang tertutup ke luar ruangan
 
-- [Kesehatan Taiwan dan Jaminan Kesehatan Nasional](/lifestyle/台灣醫療與全民健保) — Infrastruktur dasar sistem pencegahan wabah: basis data jaminan kesehatan 23,4 juta warga
-- [Audrey Tang (唐鳳)](/people/唐鳳) — Menterinya Digital di Balik Peta Masker
+- [Kesehatan Taiwan dan Jaminan Kesehatan Nasional](/id/lifestyle/taiwan-healthcare-and-national-health-insurance) — Infrastruktur dasar sistem pencegahan wabah: basis data jaminan kesehatan 23,4 juta warga
+- [Audrey Tang (唐鳳)](/id/people/audrey-tang) — Menterinya Digital di Balik Peta Masker
 - [Sistem Medis Bencana Taiwan](/id/technology/taiwan-disaster-medicine-system) — Dari 921 ke SARS, Bagaimana Bencana Mendorong Evolusi Medis
-- [Pandemi COVID-19 Taiwan dan Vaksin](/society/台灣新冠疫情與疫苗) — Sistem ini yang dibangun pasca-SARS, diuji penuh pada 2020–2023: perbatasan menahan wabah delapan belas bulan, namun vaksin dan dosis ketiga untuk lansia tidak sempat tiba
-- [Dua UU Medis Regeneratif × mRNA 30 Tahun](/society/台灣再生醫療雙法沿革從業人員告白) — Narasi ganda 2021: pengadaan BNT + legislasi terapi sel, perspektif lanjutan pencegahan wabah COVID 本文
+- [Pandemi COVID-19 Taiwan dan Vaksin](/id/society/taiwan-covid-pandemic-and-vaccines) — Sistem ini yang dibangun pasca-SARS, diuji penuh pada 2020–2023: perbatasan menahan wabah delapan belas bulan, namun vaksin dan dosis ketiga untuk lansia tidak sempat tiba
+- [Dua UU Medis Regeneratif × mRNA 30 Tahun](/id/society/taiwan-regenerative-medicine-laws) — Narasi ganda 2021: pengadaan BNT + legislasi terapi sel, perspektif lanjutan pencegahan wabah COVID 本文
 
 ## Referensi
 

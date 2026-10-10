@@ -3,7 +3,14 @@ title: 'Sastra Taiwan pada Masa Pemerintahan Jepang'
 description: 'Perjalanan perkembangan sastra Taiwan pada masa pemerintahan Jepang (1895–1945), dari sastra klasik berbahasa Han hingga Gerakan Sastra Baru, serta identitas budaya dan kebangkitan nasional dalam konteks kolonial.'
 date: 2026-03-18
 category: 'Art'
-tags: ['Sastra', 'Masa Pemerintahan Jepang', 'Sastra Kolonial', 'Sastra Baru Taiwan', 'Identitas Budaya']
+tags:
+  [
+    'Sastra',
+    'Masa Pemerintahan Jepang',
+    'Sastra Kolonial',
+    'Sastra Baru Taiwan',
+    'Identitas Budaya',
+  ]
 subcategory: '文學'
 author: 'Taiwan.md'
 featured: false
@@ -28,9 +35,9 @@ Pada 1895, gema meriam Perang Tiongkok-Jepang Pertama belum juga reda ketika pen
 
 ### Seruan Tragis Sastra Anti-Jepang
 
-"Kesedihan musim semi sulit terhapus, kupaksa diri memandang gunung; peristiwa lampau mengejutkan hati, air mata nyaris menetes. Empat juta jiwa menangis bersama, setahun lalu di hari ini Taiwan diserahkan." Inilah syair yang dilantunkan penyair Qiu Fengjia dalam *Kesedihan Musim Semi*, yang mengungkapkan kepedihan dan keputusasaan para cendekiawan Taiwan menghadapi nasib penyerahan pulau mereka.
+"Kesedihan musim semi sulit terhapus, kupaksa diri memandang gunung; peristiwa lampau mengejutkan hati, air mata nyaris menetes. Empat juta jiwa menangis bersama, setahun lalu di hari ini Taiwan diserahkan." Inilah syair yang dilantunkan penyair Qiu Fengjia dalam _Kesedihan Musim Semi_, yang mengungkapkan kepedihan dan keputusasaan para cendekiawan Taiwan menghadapi nasib penyerahan pulau mereka.
 
-Pada tahun Yiwei, muncul banyak sekali karya sastra anti-Jepang di Taiwan. Karya-karya ini kebanyakan berbentuk puisi, mengungkapkan perlawanan terhadap pemerintahan Jepang dan kerinduan akan tanah leluhur. *Kata Pengantar Sejarah Umum Taiwan* karya Lian Yatang memang ditulis belakangan, tetapi akar semangatnya dapat ditelusuri hingga masa ini. Keluhan "Taiwan memang belum punya sejarah" mencerminkan kesadaran budaya para cendekiawan untuk menulis dan mencatat sejarah Taiwan bagi bangsanya sendiri.
+Pada tahun Yiwei, muncul banyak sekali karya sastra anti-Jepang di Taiwan. Karya-karya ini kebanyakan berbentuk puisi, mengungkapkan perlawanan terhadap pemerintahan Jepang dan kerinduan akan tanah leluhur. _Kata Pengantar Sejarah Umum Taiwan_ karya Lian Yatang memang ditulis belakangan, tetapi akar semangatnya dapat ditelusuri hingga masa ini. Keluhan "Taiwan memang belum punya sejarah" mencerminkan kesadaran budaya para cendekiawan untuk menulis dan mencatat sejarah Taiwan bagi bangsanya sendiri.
 
 Namun, lebih banyak sastrawan yang memilih "menyeberang ke daratan" dan kembali ke Tiongkok. Eksodus besar-besaran talenta budaya ini menyebabkan keretakan sementara dalam perkembangan sastra Taiwan. Para sastrawan yang bertahan di Taiwan, entah perlahan terdiam di bawah kebijakan budaya Jepang, atau bergulat dengan penuh derita di antara benturan tradisi dan modernitas, antara yang lokal dan yang asing.
 
@@ -38,17 +45,17 @@ Namun, lebih banyak sastrawan yang memilih "menyeberang ke daratan" dan kembali 
 
 ### Zhang Woujun: Pelopor Gerakan Sastra Baru
 
-Pada 1924, sebuah artikel berjudul "Sepucuk Surat untuk Pemuda Taiwan" terbit di *Taiwan Minpo*. Penulisnya, Zhang Woujun, baru saja kembali ke Taiwan dari Beijing. Artikel ini mengecam keras puisi dan prosa tradisional Taiwan sebagai "usang tak tertahankan", dan menyerukan agar orang belajar dari sastra baru yang digagas Hu Shi dan lainnya, berkarya dengan bahasa sehari-hari (baihua).
+Pada 1924, sebuah artikel berjudul "Sepucuk Surat untuk Pemuda Taiwan" terbit di _Taiwan Minpo_. Penulisnya, Zhang Woujun, baru saja kembali ke Taiwan dari Beijing. Artikel ini mengecam keras puisi dan prosa tradisional Taiwan sebagai "usang tak tertahankan", dan menyerukan agar orang belajar dari sastra baru yang digagas Hu Shi dan lainnya, berkarya dengan bahasa sehari-hari (baihua).
 
 Pandangan Zhang Woujun memicu perdebatan sengit. Para sastrawan tradisional yang diwakili Lian Yatang menentang keras, menganggap bahasa sehari-hari "dangkal dan hambar" serta merusak kedalaman budaya Tionghoa. Sementara golongan sastra baru yang dipimpin Zhang Woujun berpendapat bahwa hanya dengan bahasa sehari-hari, pikiran dan perasaan manusia modern dapat terungkap, dan sastra benar-benar dapat merasuk ke tengah rakyat.
 
 Makna perdebatan ini jauh melampaui sastra semata. Pada dasarnya ini adalah diskusi mendasar tentang arah perkembangan budaya Taiwan: haruskah Taiwan berpegang teguh pada tradisi, atau merangkul modernitas? Haruskah mempertahankan budaya elite, atau beralih ke budaya massa? Haruskah bertahan dengan "bahasa nasional" (Mandarin), atau menerima "bahasa nasional" (Jepang)?
 
-### *Taiwan Minpo*: Buaian Sastra Baru
+### _Taiwan Minpo_: Buaian Sastra Baru
 
-*Taiwan Minpo*[^1], yang terbit pertama kali pada 1923, menjadi basis inti Gerakan Sastra Baru. Surat kabar ini tidak hanya memuat berita politik terkini, tetapi juga menyediakan ruang penerbitan bagi sastra baru Taiwan. Banyak karya awal dari penulis-penulis yang kelak menjadi terkenal pertama kali terbit di surat kabar ini.
+_Taiwan Minpo_[^1], yang terbit pertama kali pada 1923, menjadi basis inti Gerakan Sastra Baru. Surat kabar ini tidak hanya memuat berita politik terkini, tetapi juga menyediakan ruang penerbitan bagi sastra baru Taiwan. Banyak karya awal dari penulis-penulis yang kelak menjadi terkenal pertama kali terbit di surat kabar ini.
 
-Halaman sastra *Taiwan Minpo* menunjukkan ciri khas zamannya secara jelas: di satu sisi memuat puisi baru, novel, dan esai berbahasa sehari-hari; di sisi lain tetap mempertahankan ruang untuk puisi tradisional, mencerminkan ciri masa transisi di mana yang lama dan yang baru berdampingan. Yang patut dicatat, surat kabar ini mulai memperhatikan realitas sosial lokal Taiwan, membuka jalan bagi sastra realisme.
+Halaman sastra _Taiwan Minpo_ menunjukkan ciri khas zamannya secara jelas: di satu sisi memuat puisi baru, novel, dan esai berbahasa sehari-hari; di sisi lain tetap mempertahankan ruang untuk puisi tradisional, mencerminkan ciri masa transisi di mana yang lama dan yang baru berdampingan. Yang patut dicatat, surat kabar ini mulai memperhatikan realitas sosial lokal Taiwan, membuka jalan bagi sastra realisme.
 
 ## Lai He: Bapak Sastra Baru Taiwan
 
@@ -58,7 +65,7 @@ Lai He (1894–1943) diakui sebagai penulis Taiwan yang paling representatif pad
 
 Penciptaan sastra Lai He tak terpisahkan dari kebangkitan politiknya. Pada 1921, ia terlibat dalam kegiatan Asosiasi Budaya Taiwan dan mulai memperhatikan persoalan sosial Taiwan. Pada 1925, ia menerbitkan esai "Tanpa Judul" dan puisi baru "Pengorbanan di Bawah Kesadaran — Kepada Kawan Seperjuangan dalam Insiden Erlin", secara resmi melangkah ke ranah penciptaan sastra baru.
 
-Karya representatif Lai He, *Keramaian Perayaan* (1926), dianggap sebagai novel berbahasa sehari-hari pertama yang benar-benar bermakna dalam sastra Taiwan. Novel ini berlatar perayaan kuil, menggambarkan corak kehidupan rakyat Taiwan, sambil dengan cerdik menyisipkan kritik terhadap pemerintahan Jepang. Bahasanya hidup dan lincah, banyak menggunakan kosakata bahasa Hokkien Taiwan, membuka jalan bagi lokalisasi sastra Taiwan.
+Karya representatif Lai He, _Keramaian Perayaan_ (1926), dianggap sebagai novel berbahasa sehari-hari pertama yang benar-benar bermakna dalam sastra Taiwan. Novel ini berlatar perayaan kuil, menggambarkan corak kehidupan rakyat Taiwan, sambil dengan cerdik menyisipkan kritik terhadap pemerintahan Jepang. Bahasanya hidup dan lincah, banyak menggunakan kosakata bahasa Hokkien Taiwan, membuka jalan bagi lokalisasi sastra Taiwan.
 
 ### Fondasi Realisme
 
@@ -78,15 +85,15 @@ Melalui eksperimen bahasa, Lai He menemukan cara yang tepat untuk mengungkapkan 
 
 Yang Kui (1906–1985) adalah tokoh penting sastra sayap kiri Taiwan. Ia belajar di Jepang pada masa mudanya, bersentuhan dengan pemikiran Marxisme dan teori sastra proletar, lalu setelah kembali ke Taiwan mencurahkan diri untuk menciptakan dan mempromosikan sastra sosialis.
 
-Karya representatif Yang Kui, *Pengantar Koran*, adalah novel pertama dalam sejarah sastra Taiwan yang menampilkan buruh sebagai tokoh utama. Karya ini menggambarkan nasib tragis seorang remaja pengantar koran, secara mendalam mengungkap ketidakadilan masyarakat kapitalis. Bahasa novel ini sederhana namun kuat, karakternya jelas, mencerminkan ciri estetika sastra proletar.
+Karya representatif Yang Kui, _Pengantar Koran_, adalah novel pertama dalam sejarah sastra Taiwan yang menampilkan buruh sebagai tokoh utama. Karya ini menggambarkan nasib tragis seorang remaja pengantar koran, secara mendalam mengungkap ketidakadilan masyarakat kapitalis. Bahasa novel ini sederhana namun kuat, karakternya jelas, mencerminkan ciri estetika sastra proletar.
 
-Pada 1935, Yang Kui mendirikan majalah *Sastra Baru Taiwan*, salah satu majalah sastra murni penting di Taiwan[^2]. Majalah ini tidak hanya memuat karya penulis lokal, tetapi juga menerjemahkan banyak karya sastra sayap kiri asing, memberikan wawasan internasional bagi sastra Taiwan.
+Pada 1935, Yang Kui mendirikan majalah _Sastra Baru Taiwan_, salah satu majalah sastra murni penting di Taiwan[^2]. Majalah ini tidak hanya memuat karya penulis lokal, tetapi juga menerjemahkan banyak karya sastra sayap kiri asing, memberikan wawasan internasional bagi sastra Taiwan.
 
-### Zhang Shenqie dan *Taiwan Bungei*
+### Zhang Shenqie dan _Taiwan Bungei_
 
-Pada 1934, majalah *Taiwan Bungei* terbit perdana. Sang penggagas, Zhang Shenqie, mengajukan kebijakan penerbitan "tanpa memandang aliran, tanpa memandang golongan", menyatukan secara luas kekuatan sastra Taiwan. Majalah ini menjadi salah satu publikasi sastra paling berpengaruh dalam sejarah sastra Taiwan.
+Pada 1934, majalah _Taiwan Bungei_ terbit perdana. Sang penggagas, Zhang Shenqie, mengajukan kebijakan penerbitan "tanpa memandang aliran, tanpa memandang golongan", menyatukan secara luas kekuatan sastra Taiwan. Majalah ini menjadi salah satu publikasi sastra paling berpengaruh dalam sejarah sastra Taiwan.
 
-Ciri khas *Taiwan Bungei* adalah keterbukaan dan keberagaman. Ia memuat karya penulis sayap kiri sekaligus karya bergaya modernisme; ada karya berbahasa Han, ada pula karya berbahasa Jepang; memperhatikan Taiwan lokal sekaligus memandang sastra dunia. Sikap terbuka ini membuka kemungkinan perkembangan sastra Taiwan yang beragam.
+Ciri khas _Taiwan Bungei_ adalah keterbukaan dan keberagaman. Ia memuat karya penulis sayap kiri sekaligus karya bergaya modernisme; ada karya berbahasa Han, ada pula karya berbahasa Jepang; memperhatikan Taiwan lokal sekaligus memandang sastra dunia. Sikap terbuka ini membuka kemungkinan perkembangan sastra Taiwan yang beragam.
 
 ## Pergulatan Sastra pada Masa Kōminka
 
@@ -98,15 +105,15 @@ Para penulis ini menghadapi situasi budaya yang sangat rumit. Di satu sisi, mere
 
 ### Lu Heruo: Seniman yang Melintasi Bahasa
 
-Lu Heruo (1914–1951) adalah penulis representatif pada masa ini[^4]. Novelnya *Gerobak Sapi* menggambarkan kemerosotan pedesaan Taiwan dengan sapuan pena yang halus, menampilkan ketidakberdayaan dan pergulatan para petani di bawah gempuran modernisasi. Meski ditulis dalam bahasa Jepang, inti spiritual karyanya tetap berakar dalam-dalam di tanah Taiwan.
+Lu Heruo (1914–1951) adalah penulis representatif pada masa ini[^4]. Novelnya _Gerobak Sapi_ menggambarkan kemerosotan pedesaan Taiwan dengan sapuan pena yang halus, menampilkan ketidakberdayaan dan pergulatan para petani di bawah gempuran modernisasi. Meski ditulis dalam bahasa Jepang, inti spiritual karyanya tetap berakar dalam-dalam di tanah Taiwan.
 
 Karya-karya Lu Heruo mencerminkan strategi budaya para penulis di tanah jajahan: di permukaan tampak mengikuti kebijakan kolonial, tetapi sesungguhnya melalui metafora dan simbolisme sastra, mengungkapkan penjagaan terhadap budaya lokal. Gaya penulisan "berbelit-belit" ini kemudian berlanjut menjadi sebuah jalur yang bertahan lama dalam sastra Taiwan.
 
 ### Zhang Wenhuan: Sang Penekun Sastra
 
-Zhang Wenhuan (1909–1978) adalah penulis sastra berbahasa Jepang lain yang patut diperhatikan. Novelnya *Ayam Jantan yang Dikebiri* menggunakan kisah seekor ayam jantan yang dikebiri sebagai metafora nasib orang Taiwan di bawah pemerintahan kolonial. Penggunaan teknik simbolis ini sekaligus menghindari sensor politik dan mengungkapkan makna politik yang mendalam.
+Zhang Wenhuan (1909–1978) adalah penulis sastra berbahasa Jepang lain yang patut diperhatikan. Novelnya _Ayam Jantan yang Dikebiri_ menggunakan kisah seekor ayam jantan yang dikebiri sebagai metafora nasib orang Taiwan di bawah pemerintahan kolonial. Penggunaan teknik simbolis ini sekaligus menghindari sensor politik dan mengungkapkan makna politik yang mendalam.
 
-Pada 1941, Zhang Wenhuan mendirikan majalah *Sastra Taiwan*, publikasi sastra inti pada masa Kōminka[^5]. Meski majalah ini menggunakan bahasa Jepang, ia tetap mempertahankan sikap sastra lokal Taiwan, menyediakan ruang penerbitan yang berharga bagi para penulis Taiwan.
+Pada 1941, Zhang Wenhuan mendirikan majalah _Sastra Taiwan_, publikasi sastra inti pada masa Kōminka[^5]. Meski majalah ini menggunakan bahasa Jepang, ia tetap mempertahankan sikap sastra lokal Taiwan, menyediakan ruang penerbitan yang berharga bagi para penulis Taiwan.
 
 ## Ciri Estetika Sastra Tanah Jajahan
 
@@ -153,20 +160,20 @@ Sastra Taiwan pada masa ini memberikan akumulasi substansial bagi perkembangan s
 - [Sastra Taiwan Pascadarurat Militer](/id/art/post-martial-law-taiwanese-literature) — Ledakan keberagaman setelah pencabutan darurat militer pada 1987
 - [Sastra Taiwan Kontemporer](/id/art/contemporary-taiwanese-literature) — Internasionalisasi abad ke-21, Wu Ming-yi, sastra digital
 - [Sejarah Sastra Taiwan](/id/art/history-of-taiwanese-literature) — Alur menyeluruh dari masa Belanda, Ming-Qing, Jepang, hingga kontemporer
-- [Lin Liang](/people/林良) — Peletak dasar sastra anak yang menyeberang dari Xiamen ke Taiwan setelah perang, membentuk kontras posisi kebijakan bahasa pra-perang/pascaperang dengan sastra masa pemerintahan Jepang
+- [Lin Liang](/id/people/lin-liang-childrens-literature) — Peletak dasar sastra anak yang menyeberang dari Xiamen ke Taiwan setelah perang, membentuk kontras posisi kebijakan bahasa pra-perang/pascaperang dengan sastra masa pemerintahan Jepang
 
 ---
 
 ## Referensi
 
-[^1]: *Taiwan Minpo* terbit perdana pada 1923, awalnya diterbitkan di Tokyo, kemudian pindah penerbitan ke Taiwan. Lihat: Kawahara Isao, [*Perkembangan Gerakan Sastra Baru Taiwan*](https://www.books.com.tw/products/0010268540) (Taipei: Avant-Garde, 1997).
+[^1]: _Taiwan Minpo_ terbit perdana pada 1923, awalnya diterbitkan di Tokyo, kemudian pindah penerbitan ke Taiwan. Lihat: Kawahara Isao, [_Perkembangan Gerakan Sastra Baru Taiwan_](https://www.books.com.tw/products/0010268540) (Taipei: Avant-Garde, 1997).
 
-[^2]: Yang Kui, *Sastra Baru Taiwan*, 1935-1937. Lihat: Nakajima Toshiro (ed.), [*Daftar Isi dan Indeks Nama Majalah Sastra Taiwan Masa Pemerintahan Jepang*](https://www.books.com.tw/products/0010028221) (1995) dan koleksi terkait di [Bank Memori Budaya Nasional](https://catalog.digitalarchives.tw/).
+[^2]: Yang Kui, _Sastra Baru Taiwan_, 1935-1937. Lihat: Nakajima Toshiro (ed.), [_Daftar Isi dan Indeks Nama Majalah Sastra Taiwan Masa Pemerintahan Jepang_](https://www.books.com.tw/products/0010028221) (1995) dan koleksi terkait di [Bank Memori Budaya Nasional](https://catalog.digitalarchives.tw/).
 
-[^3]: Data biografi terkait Lai He lihat: Ye Shitao, [*Garis Besar Sejarah Sastra Taiwan*](https://books.google.com/books/about/%E5%8F%B0%E7%81%A3%E6%96%87%E5%AD%B8%E5%8F%B2%E7%B6%B1.html?id=8fURAAAAYAAJ) (Kaohsiung: Wenxuejie Magazine, 1987).
+[^3]: Data biografi terkait Lai He lihat: Ye Shitao, [_Garis Besar Sejarah Sastra Taiwan_](https://books.google.com/books/about/%E5%8F%B0%E7%81%A3%E6%96%87%E5%AD%B8%E5%8F%B2%E7%B6%B1.html?id=8fURAAAAYAAJ) (Kaohsiung: Wenxuejie Magazine, 1987).
 
-[^4]: Untuk kajian Lu Heruo lihat: Chen Fangming, [*Taiwan Kolonial: Sejarah Gerakan Politik Sayap Kiri*](https://www.books.com.tw/products/0010751439) (Taipei: Rye Field, 1998).
+[^4]: Untuk kajian Lu Heruo lihat: Chen Fangming, [_Taiwan Kolonial: Sejarah Gerakan Politik Sayap Kiri_](https://www.books.com.tw/products/0010751439) (Taipei: Rye Field, 1998).
 
-[^5]: Majalah *Sastra Taiwan* (1941-1943) dipimpin oleh Zhang Wenhuan, diterbitkan dalam bahasa Jepang. Lihat: Nakajima Toshiro (ed.), [*Daftar Isi dan Indeks Nama Majalah Sastra Taiwan Masa Pemerintahan Jepang*](https://www.books.com.tw/products/0010028221) (1995) dan koleksi terkait di [Bank Memori Budaya Nasional](https://catalog.digitalarchives.tw/).
+[^5]: Majalah _Sastra Taiwan_ (1941-1943) dipimpin oleh Zhang Wenhuan, diterbitkan dalam bahasa Jepang. Lihat: Nakajima Toshiro (ed.), [_Daftar Isi dan Indeks Nama Majalah Sastra Taiwan Masa Pemerintahan Jepang_](https://www.books.com.tw/products/0010028221) (1995) dan koleksi terkait di [Bank Memori Budaya Nasional](https://catalog.digitalarchives.tw/).
 
-[^6]: Ye Shitao, [*Garis Besar Sejarah Sastra Taiwan*](https://books.google.com/books/about/%E5%8F%B0%E7%81%A3%E6%96%87%E5%AD%B8%E5%8F%B2%E7%B6%B1.html?id=8fURAAAAYAAJ) (Kaohsiung: Wenxuejie Magazine, 1987), hlm. 1-50.
+[^6]: Ye Shitao, [_Garis Besar Sejarah Sastra Taiwan_](https://books.google.com/books/about/%E5%8F%B0%E7%81%A3%E6%96%87%E5%AD%B8%E5%8F%B2%E7%B6%B1.html?id=8fURAAAAYAAJ) (Kaohsiung: Wenxuejie Magazine, 1987), hlm. 1-50.

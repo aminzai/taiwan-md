@@ -36,7 +36,7 @@ translatedAt: '2026-10-10T19:08:19+08:00'
 
 # Taiwans Monatälter-Karte: Vor der Partnersuche den passenden Tempel wählen, denn diese Insel beherbergt mindestens zehn Monatälter mit unterschiedlichen Zuständigkeiten
 
-Um 19 Uhr, [Dadaocheng](/geography/大稻埕/), Dihua-Straße. Vor dem Xiahai-Stadtgott-Tempel windet sich die Schlange in die Gasse hinein, überwiegend Frauen zwischen 25 und 35 Jahren, manche halten Hochzeitsbonbons in der Hand, andere rezitieren die auf roten Zetteln notierten Partnerkriterien. [^1]
+Um 19 Uhr, [Dadaocheng](/de/geography/dadaocheng/), Dihua-Straße. Vor dem Xiahai-Stadtgott-Tempel windet sich die Schlange in die Gasse hinein, überwiegend Frauen zwischen 25 und 35 Jahren, manche halten Hochzeitsbonbons in der Hand, andere rezitieren die auf roten Zetteln notierten Partnerkriterien. [^1]
 
 Dasselbe Abend, neben dem Chihkan-Turm in Tainan, im Opfer-Tempel des Kriegsgottes (Sidian Wumiao). Ein Mann steht vor dem Monatälter mit dem Gehstock und bittet um „Trennung von Seitensprüngen“ – der Monatälter mit dem Gehstock ist unter den vier grossen Monatältern Tainans zuständig für Fälle von Untreue. [^2]
 
@@ -56,7 +56,7 @@ Der Umgehungsweg ist Arbeitsteilung. Eine Insel beherbergt über ein Dutzend Mon
 
 ## Vier Monatälter-Tempel im Norden, vier narrative Rhythmen
 
-**Der Xiahai-Stadtgott-Tempel in Dadaocheng, Taipeh**, erbaut 1859, ist einer der bekanntesten Monatälter-Tempel Taipehs. [^5] Der Monatälter hat einen eigenen abgetrennten Bereich. Nachdem Gläubige Namen, Mondkalender-Geburtstag, Adresse und Partnerkriterien vorgetragen und [Wurfholz](/culture/擲筊/) geworfen haben, um die rote Schnur zu erhalten, sind die berühmten „Hundert Jahre Harmonie“-Roten Zettel und Hochzeitsbonbons des Tempels Markenzeichen – der Xiahai-Tempel gilt als „effizient“, viele Gläubige beschreiben den Monatälter hier als „hochwirksam“, und beim Dankopfer Bonbons mitzubringen ist stillschweigende Übereinkunft.
+**Der Xiahai-Stadtgott-Tempel in Dadaocheng, Taipeh**, erbaut 1859, ist einer der bekanntesten Monatälter-Tempel Taipehs. [^5] Der Monatälter hat einen eigenen abgetrennten Bereich. Nachdem Gläubige Namen, Mondkalender-Geburtstag, Adresse und Partnerkriterien vorgetragen und [Wurfholz](/de/culture/jiaobei-divination-blocks/) geworfen haben, um die rote Schnur zu erhalten, sind die berühmten „Hundert Jahre Harmonie“-Roten Zettel und Hochzeitsbonbons des Tempels Markenzeichen – der Xiahai-Tempel gilt als „effizient“, viele Gläubige beschreiben den Monatälter hier als „hochwirksam“, und beim Dankopfer Bonbons mitzubringen ist stillschweigende Übereinkunft.
 
 **Der Xiahai-Stadtgott-Tempel in Songshan, Taipeh**, liegt an der Bade-Straße, Abschnitt 4, Nr. 439 im Bezirk Songshan. Er hat **denselben Namen, ist aber ein anderer Tempel** als der in Dadaocheng. Hauptgott ist der Stadtgott, der Monatälter ist Beigott. Berühmt ist der Tempel für seine „Partnerschafts-Laternen“, die vor der Monatälter-Halle aufgestellt werden können; Gläubige glauben, das Anzünden beschleunige das Eintreffen der guten Verbindung. [^19] Die _Liberty Times_ verglich einst in einem Spezialartikel „Zwei Xiahai-Stadtgott-Tempel in Taipeh: Reichtum und Partnersuche völlig unterschiedlich“: Der Dadaocheng-Xiahai ist bekannt für „Hundert Jahre Harmonie“-Rote Zettel und Bonbons, der Songshan-Xiahai für das Laternen-Ritual und die gleichzeitige Verehrung der fünf Wohlstandsgötter. Dass zwei Xiahai-Tempel in Taipeh nebeneinander bestehen, spiegelt wider, wie ein und dasselbe Göttersystem in verschiedenen Verwaltungsbezirken jeweils eigene, lokalisierte Ritualvokabulare ausgebildet hat.
 
@@ -182,5 +182,5 @@ Jene rote Schnur, die von der Tang-Dynastie bis ins 21. Jahrhundert reicht, hat 
 
 ## Weiterführende Lektüre
 
-- [Taiwans Ehegleichstellung und Geschlechtergerechtigkeit](/society/台灣同婚與性別平權) – Grösserer gesellschaftlicher Kontext des Hasengottes Weimingtang als eines der wenigen weltweit LGBT-exklusiven Tempel
-- [Taiwans Freiwilligenkultur und zivilgesellschaftliches Engagement](/society/台灣志工文化與公益參與) – Verflechtung von Volksglaube und Social-Media-Kultur
+- [Taiwans Ehegleichstellung und Geschlechtergerechtigkeit](/de/society/taiwan-marriage-equality-lgbtq-rights) – Grösserer gesellschaftlicher Kontext des Hasengottes Weimingtang als eines der wenigen weltweit LGBT-exklusiven Tempel
+- [Taiwans Freiwilligenkultur und zivilgesellschaftliches Engagement](/de/society/volunteering-and-civic-charity-in-taiwan) – Verflechtung von Volksglaube und Social-Media-Kultur

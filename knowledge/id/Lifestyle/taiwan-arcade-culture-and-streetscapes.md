@@ -4,7 +4,7 @@ description: 'Koridor kehidupan yang melindungi dari angin dan hujan, kenangan j
 date: 2026-03-20
 category: 'Lifestyle'
 tags: ['Gaya Hidup', 'Kolong', 'Pemandangan Jalan', 'Budaya Perkotaan']
-subcategory: 'Transportasi dan Mobilitas'
+subcategory: '交通與移動'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-20
@@ -13,6 +13,7 @@ curation: 'incubating'
 translatedFrom: 'Lifestyle/台灣騎樓文化與街景.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:bd3e7ae30112faf0'
+sourceBodyHash: 'sha256:8f231aa6641c39c8'
 translatedAt: '2026-08-04T08:22:52.370732+00:00'
 ---
 

@@ -12,7 +12,7 @@ tags:
     'Sở thú Đài Bắc',
     'sinh thái',
   ]
-subcategory: 'động vật hoang dã'
+subcategory: '野生動物'
 author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false

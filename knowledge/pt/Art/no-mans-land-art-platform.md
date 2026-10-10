@@ -4,7 +4,7 @@ description: "Em novembro de 2011, Zheng Wenqi lançou em Taipei, numa antiga in
 date: 2026-05-17
 author: 'Taiwan.md'
 category: 'Art'
-subcategory: '艺评平台 / 媒体研究'
+subcategory: '藝評平台 / 媒體研究'
 tags:
   [
     'Deserto Digital',
@@ -171,7 +171,7 @@ _Setembro de 2017, Edição 34 do Deserto Digital, "Hermenêutica do Arquipélag
 - [Zheng Wenqi](/pt/people/cheng-wen-chi) — 12 anos de prática do Arquipélago do editor-chefe do Deserto Digital: de autor convidado da "Coleção" a iniciador do "Arquipélago Database"
 - [Arte Contemporâneo](/pt/art/contemporary-art) — Mapa do discurso da arte contemporânea de Taiwan, a posição do Deserto Digital como plataforma curatorial da Perspectiva do Sul
 - [Arte Nova Mídia de Taiwan](/pt/art/taiwan-new-media-art) — Linhagem da arte nova mídia de Taiwan, do Experimento Local (1995) à Fundação de Arte Digital (2008)
-- [Wang Fu Rui](/people/王福瑞) — Fundou a revista NOISE em 1993, editor do protótipo impresso da música experimental de Taiwan, com fio sanguíneo conectado à matriz de hospedagem do Deserto Digital
+- [Wang Fu Rui](/pt/people/fujui-wang) — Fundou a revista NOISE em 1993, editor do protótipo impresso da música experimental de Taiwan, com fio sanguíneo conectado à matriz de hospedagem do Deserto Digital
 - [Construção de Curadoria e Cultura Artística de Taiwan](/pt/art/taiwanese-curators-and-artistic-cultural-construction) — Linhagem de curadores de Taiwan, Zheng Wenqi como caso de "rede curatorial de residência transnacional"
 
 ## Fontes de imagem
@@ -202,7 +202,7 @@ Este artigo usa 3 imagens de capas de edições do NML引用 dentro do escopo de
 
 [^9]: [Projeto de Residência e Arquipélago Database do 'Deserto Digital' (Primeiro Ano) | Arquivo de Resultados de Subsídios da NCAFROC](https://archive.ncafroc.org.tw/result?id=22442668184a47bcac13fa7426b48765) — Arquivo da NCAFROC: Valor do subsídio 350.000 yuans / Ano 2017 1ª edição regular / Categoria de subsídio Ambiente e Desenvolvimento de Artes (Projeto de Aplicação de Think Tank de Artes) / Requerente Fundação de Arte Digital. Resumo dos resultados da execução "Com três diretrizes de trabalho de residência artística, interpretação cultural e produção conjunta... O foco do primeiro ano é a fase de criação de banco de dados bilíngue... Até agora, foram lançados 5 volumes, abrangendo Wu Chi-Yu, Zikeli Laman, Ou Xiuyi, Fu Fangjun, KUNCI Research Center".
 
-[^10]: [Projeto de Residência e Arquipélago Database do 'Deserto Digital' (Segundo Ano) | Arquivo de Resultados de Subsídios da NCAFROC](https://archive.ncafroc.org.tw/result?id=ad5a8cffc1e0471a12ccfaf0756cc52) — Arquivo da NCAFROC: Valor do subsídio 400.000 yuans / Ano 2018 2ª edição regular / Categoria de subsídio Ambiente e Desenvolvimento de Artes (Plataforma de Serviços Profissionais) / Requerente Fundação de Arte Digital. Resumo dos resultados da execução "De 2017 até agora, a cobertura de escrita e tradução de artistas do Arquipélago da Malásia acumulou, lançando 10 volumes do 'Arquipélago Database' e收录 mais de 40 documentos bilíngues em chinês e inglês".
+[^10]: [Projeto de Residência e Arquipélago Database do 'Deserto Digital' (Segundo Ano) | Arquivo de Resultados de Subsídios da NCAFROC](https://archive.ncafroc.org.tw/result?id=ad5a8cffc1e04a71a12ccfaf0756cc52) — Arquivo da NCAFROC: Valor do subsídio 400.000 yuans / Ano 2018 2ª edição regular / Categoria de subsídio Ambiente e Desenvolvimento de Artes (Plataforma de Serviços Profissionais) / Requerente Fundação de Arte Digital. Resumo dos resultados da execução "De 2017 até agora, a cobertura de escrita e tradução de artistas do Arquipélago da Malásia acumulou, lançando 10 volumes do 'Arquipélago Database' e收录 mais de 40 documentos bilíngues em chinês e inglês".
 
 [^11]: [Distribuição do campo de edição nos 384 artigos do Deserto Digital No Man's Land](https://www.heath.tw) — Estatísticas da ingestão de 04-05-2026 da Taiwan.md `data/NML/raw/articles-meta.json`: Top editores são Zheng Wenqi 310 artigos (88%), Gao Senxinman 10, Xu Fangci 7, Xu Shiyu 5, Wu Tingkuan 4, Wang Guanting 4, Wu Qiyu 4, Ou Xiuyi 4, Xie Zhenyi 2. 31 artigos antigos não têm campo de editor. Top autores: Zheng Wenqi 44 / Wang Bowei 19 / Gao Senxinman 10 / Yin Ka 9 / Cai Changhuang 9 / Jiang Lingqing 9.
 

@@ -12,7 +12,7 @@ tags:
     'العدالة الانتقالية',
     'السياسات والمؤسسات',
   ]
-subcategory: 'السياسات والمؤسسات'
+subcategory: '政策與制度'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-06-13
@@ -29,6 +29,7 @@ rationale:
 translatedFrom: 'History/跨黨派的好政策.md'
 sourceCommitSha: 'e666af3e1'
 sourceContentHash: 'sha256:165d618ccd73fdcd'
+sourceBodyHash: 'sha256:00c84158a3ec97b2'
 translatedAt: '2026-08-06T12:00:16.178115+00:00'
 ---
 

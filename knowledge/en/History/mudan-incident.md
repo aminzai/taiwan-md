@@ -4,7 +4,7 @@ description: 'In 1874, a military action triggered by a maritime disaster made t
 date: 2026-07-17
 author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: 'Colonialism and Empires'
+subcategory: '殖民與帝國'
 tags:
   [
     'Mudan Incident',

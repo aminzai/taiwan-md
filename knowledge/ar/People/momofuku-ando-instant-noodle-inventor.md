@@ -4,7 +4,7 @@ description: 'في عام 1961، اشترى أندو بايفو براءة اخ�
 date: 2026-04-29
 author: 'idlccp1984'
 category: 'People'
-subcategory: "'歷史人物'"
+subcategory: '歷史人物'
 tags:
   [
     'و بايفو',
@@ -100,7 +100,7 @@ translatedAt: '2026-07-25T17:25:43+08:00'
 
 [^5]: [找回台灣自己的歷史：從泡麵發明者安藤百福說起](https://www.thinkingtaiwan.net/content/5602) — مقالة منتدى التفكير التايواني
 
-[^6]: [劉黎兒觀點》安藤發明泡麵說法落定為歷史 知情的人無法沉默](https://tw.news.yahoo.com/%E5%8A%89%E9%BB%8E%E5%85%92%E8%A7%80%E9%BB%9E-%E5%AE%89%E8%97%A4%E7%99%BC%E6%98%8E%E6%B3%A1%E9%BA%B5%E8%AA%AA%E6%B3%95%E8%90%BD%E5%AE%9A%E7%82%BA%E6%AD%B7%E5%8F%B2-%E7%9F%A5%E6%83%85%E7%9A%84%E4%BA%BA%E7%84%A1%E6%83%85%E6%89%93%E9%BB%98-095713124.html) — تقرير ياهو
+[^6]: [劉黎兒觀點》安藤發明泡麵說法落定為歷史 知情的人無法沉默](https://tw.news.yahoo.com/%E5%8A%89%E9%BB%8E%E5%85%92%E8%A7%80%E9%BB%9E-%E5%AE%89%E8%97%A4%E7%99%BC%E6%98%8E%E6%B3%A1%E9%BA%B5%E8%AA%AA%E6%B3%95%E8%90%BD%E5%AE%9A%E7%82%BA%E6%AD%B7%E5%8F%B2-%E7%9F%A5%E6%83%85%E7%9A%84%E4%BA%BA%E7%84%A1%E6%B3%95%E6%B2%89%E9%BB%98-095713124.html) — تقرير ياهو
 
 [^7]: [日媒還台灣雞絲麵發明者一個公道](https://newtalk.tw/news/view/2019-03-29/226261) — راجع الرابط الأصلي للمحتوى
 
@@ -132,7 +132,7 @@ translatedAt: '2026-07-25T17:25:43+08:00'
 
 [^21]: [Momofuku Ando - Lemelson-MIT Program](https://lemelson.mit.edu/resources/momofuku-ando) — مصدر المراجع
 
-[^22]: [EP139 揭密安藤百福！淺間山莊事件與杯麵爆紅...](https://podcasts.apple.com/us/podcast/ep139-揭密安藤百福！淺間山莊事件與杯麵爆紅/id1776056352?i=1000752352217) — مصدر المراجع
+[^22]: [EP139 揭密安藤百福！淺間山莊事件與杯麵爆紅...](https://podcasts.apple.com/us/podcast/ep139-%E6%8F%AD%E5%AF%86%E5%AE%89%E8%97%A4%E7%99%BE%E7%A6%8F-%E8%8A%B13%E5%84%84%E8%B2%B7%E4%B8%8B%E7%9A%84%E5%B0%88%E5%88%A9-%E6%97%A5%E6%B8%85%E6%B3%A1%E9%BA%B5%E8%83%8C%E5%BE%8C%E7%9A%84-%E8%87%BA%E5%83%91%E6%B7%9A%E6%B0%B4%E5%8F%B2/id1776056352?i=1000752352217) — مصدر المراجع
 
 [^23]: [日本拉麵工業協會成立與專利轉讓](https://www.thenewslens.com/article/107298) — مصدر المراجع
 

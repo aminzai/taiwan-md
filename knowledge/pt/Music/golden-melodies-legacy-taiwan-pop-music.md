@@ -40,6 +40,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwan%27s_Sunflower_Movem
 translatedFrom: 'Music/台灣流行音樂.md'
 sourceCommitSha: '1e1040928'
 sourceContentHash: 'sha256:4517347444f75a1c'
+sourceBodyHash: 'sha256:eb706bc3431ec070'
 translatedAt: '2026-09-22T18:13:11.849761+00:00'
 ---
 
@@ -255,8 +256,8 @@ O que resta não é escala, mas sim liberdade, aquela coisa única que não foi 
 
 **Leituras Relacionadas**:
 
-- [Movimento Canção Popular de Taiwan: Quem canta a canção "própria"](/music/台灣民歌運動)
-- [Evolução das músicas em taiwanês: do idioma proibido ao álbum do ano](/music/台灣台語歌曲演進)
+- [Movimento Canção Popular de Taiwan: Quem canta a canção "própria"](/pt/music/taiwan-campus-folk-song-movement)
+- [Evolução das músicas em taiwanês: do idioma proibido ao álbum do ano](/pt/music/taiwanese-hokkien-song-evolution)
 - [Prêmio Golden Melody: De quem é o som que conta, e quem decide](/pt/music/pop-music-and-golden-melody-awards)
 - [Indústria Musical de Taiwan e a Era do Streaming: A recuperação após o colapso físico](/pt/music/taiwan-music-industry-and-the-streaming-era)
 - [Teresa Teng: A cantora que percorreu os dois lados do estreito, mas morreu sem cantar na China continental](/pt/people/teresa-teng)

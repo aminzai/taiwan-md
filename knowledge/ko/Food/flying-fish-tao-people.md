@@ -104,7 +104,7 @@ translatedAt: '2026-09-13T14:25:54+08:00'
 - 상하류신문, [비어류가 흑조를 따라 대만을 순례하다](https://www.newsmarket.com.tw/blog/170665/): 비어류 어류학 및 회유 습성
 - 농업부 수산시험소, [어업 Q&A](https://www.tfrin.gov.tw/theme_data.php?theme=qa&sub_theme=fishery&id=369): 비어류 산란 및 짚 매트 어법
 
-## 參考資料
+## 참고 자료
 
 [^1]: [란위 부족 문화 재단: 제례 의식](https://www.taofoundation.org.tw/story/ceremony.html) — 란위 현지 문화 조직의 제례 전문 기사로, 어초제, 종식제 등 비어류 제례 의식 내용과 보관제 이후의 비어류 말린 것 처리 방식을 항목별로 기록한 현지 관점의 1차 자료이다.
 

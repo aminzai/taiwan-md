@@ -172,7 +172,7 @@ export default function SessionLogDrawer(props: Props) {
             <Show when={!stickToBottom()}>
               <button
                 type="button"
-                class="text-xs text-zinc-300 hover:text-white px-2 py-1 rounded border border-zinc-700"
+                class="text-xs text-zinc-300 hover:text-white px-2 py-1 rounded-sm border border-zinc-700"
                 onClick={() => {
                   setStickToBottom(true);
                   if (bodyEl) bodyEl.scrollTop = bodyEl.scrollHeight;
@@ -183,7 +183,7 @@ export default function SessionLogDrawer(props: Props) {
             </Show>
             <button
               type="button"
-              class="text-xs text-zinc-300 hover:text-white px-2 py-1 rounded border border-zinc-700"
+              class="text-xs text-zinc-300 hover:text-white px-2 py-1 rounded-sm border border-zinc-700"
               onClick={() => props.onClose()}
             >
               ✕ close (esc)

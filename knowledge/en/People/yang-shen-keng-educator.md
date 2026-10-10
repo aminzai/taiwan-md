@@ -11,7 +11,7 @@ tags:
   - 'National Chair'
   - 'National Chung Cheng University'
   - 'National Chi Nan University'
-subcategory: 'Education and Society'
+subcategory: '教育與社會'
 category: 'People'
 author: 'Taiwan.md Contributors'
 featured: false

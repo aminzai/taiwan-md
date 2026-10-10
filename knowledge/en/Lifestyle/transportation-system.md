@@ -30,7 +30,7 @@ tags:
     'Shipping',
     'Snow Mountain Tunnel',
   ]
-subcategory: 'Transportation & Mobility'
+subcategory: '交通與移動'
 author: 'Taiwan.md Contributors'
 readingTime: 16
 featured: true
@@ -165,7 +165,7 @@ The maritime story is more dramatic. From the 1980s through the 2000s, Kaohsiung
 
 **Further Reading:**
 
-- [Taiwan's Bus System](/lifestyle/台灣的公車系統) — How "people without steering wheels" move on a motorcycle island, and the story of how this system is collapsing in rural areas first
+- [Taiwan's Bus System](/en/lifestyle/taiwan-bus-system) — How "people without steering wheels" move on a motorcycle island, and the story of how this system is collapsing in rural areas first
 - [Taiwan's Convenience Store Culture](/en/lifestyle/convenience-store-culture) — Another round-the-clock infrastructure, like the transportation system
 - [Taiwan's Scooter Culture](/en/lifestyle/taiwan-scooter-culture) — The urban design, class politics, and road rights battles behind 14 million scooters
 - [Taiwan's Electric Vehicle Industry Chain](/en/technology/taiwan-electric-vehicle-industry-chain) — Beyond Gogoro: Taiwan's role in the global EV supply chain
@@ -224,7 +224,7 @@ The government open data below lets you verify or rebut the claims in this artic
 
 [^22]: [Snow Mountain Tunnel — Wikipedia (zh)](https://zh.wikipedia.org/wiki/%E9%9B%AA%E5%B1%B1%E9%9A%A7%E9%81%93) — 12.9 km long, opened 2006, core infrastructure of National Highway No. 5 (Jiang Wei-shui Freeway); reduced Taipei-Yilan travel time from approximately 2 hours to 40 minutes
 
-[^23]: [Suhua Improvement Project — Wikipedia (zh)](https://zh.wikipedia.org/wiki/%E5%8F%B0%E9%84%89%E9%80%A3%E7%B7%9A%E8%98%87%E8%8A%B1%E5%85%AC%E8%B7%AF%E5%B1%B1%E5%8D%80%E8%B7%AF%E5%BB%8A%E6%94%B9%E5%96%84%E8%A8%88%E7%95%AB) — Fully opened 2020; Suao-to-Chongde section travel time reduced from 2.5 hours to 1 hour; includes engineering and environmental controversy
+[^23]: [Suhua Improvement Project — Wikipedia (zh)](https://zh.wikipedia.org/wiki/%E5%8F%B0%E9%84%A89%E7%B7%9A%E8%98%87%E8%8A%B1%E5%85%AC%E8%B7%AF%E5%B1%B1%E5%8D%80%E8%B7%AF%E5%BB%8A%E6%94%B9%E5%96%84%E8%A8%88%E7%95%AB) — Fully opened 2020; Suao-to-Chongde section travel time reduced from 2.5 hours to 1 hour; includes engineering and environmental controversy
 
 [^24]: [Taoyuan International Airport — Wikipedia (zh)](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E6%A1%83%E5%9C%92%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4) — 2024 passenger throughput approximately 44 million; Taiwan's largest international airport
 

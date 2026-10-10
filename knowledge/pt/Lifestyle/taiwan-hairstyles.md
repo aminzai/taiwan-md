@@ -3,7 +3,7 @@ title: 'Introdução aos Cabelos em Taiwan: Da Restrição à Meme'
 description: "Desde a proibição de cabelos em 1969 pelo Ministério da Educação, até a declaração de Tsai Ing-wen em 2005 ao dissolver a proibição, o topo das cabeças dos homens de Taiwan reflete uma transição social da opressão autoritária à expressão pessoal. O recente viral 'cabelo de Ashin' é a última capítulo dessa mudança."
 date: 2026-05-07
 category: 'Lifestyle'
-subcategory: 'Cidade'
+subcategory: '城市生活'
 tags: ['cabelos', 'cultura de cabeleireiro', 'moda pop', 'vida urbana', 'meme']
 author: 'Taiwan.md'
 featured: false
@@ -112,7 +112,7 @@ Os tipos de espaços de cabelos em si são um reflexo social: dos barbeiros trad
 
 ## Leituras Adicionais
 
-- [Cultura de Motocicletas em Taiwan](/lifestyle/台灣機車文化) — O cabelo de Ashin combinado com camiseta ajustável e grande B (Yamaha BWS) é o tríplice clássico da rua taiwanesa
+- [Cultura de Motocicletas em Taiwan](/pt/lifestyle/taiwan-scooter-culture) — O cabelo de Ashin combinado com camiseta ajustável e grande B (Yamaha BWS) é o tríplice clássico da rua taiwanesa
 - [Cultura de Lojas de Comércio em Taiwan](/pt/lifestyle/convenience-store-culture) — A lógica de localização dos cortes rápidos de 100 taiwaneses e as lojas de varejo densas são contextualizadas
 
 ## Referências
@@ -123,9 +123,9 @@ Os tipos de espaços de cabelos em si são um reflexo social: dos barbeiros trad
 
 [^3]: Em 28 de junho de 1969, o Ministério da Educação da República da China (Taiwan) publicou oficialmente as "Regras de Forma de Cabelo para Estudantes Secundários": meninos devem seguir a política de "cabelos lisos", e meninas não podem pentear os cabelos nem deixá-los mais longos que a raiz dos pescoços. Referência-se aos arquivos do Ministério da Educação dos anos 1950-1970 e documentos relacionados à história da educação em Taiwan.
 
-[^4]: Em 20 de janeiro de 1987, o Ministério da Educação anunciou a suspensão da proibição nacional de cabelos, deixando a decisão às escolas individuais[^4].
+[^4]: Em 20 de janeiro de 1987, o Ministério da Educação anunciou a suspensão da proibição nacional de cabelos, deixando a decisão às escolas individuais[^4]. [「Taiwan in Time: Hairstyles as a form of social control」- Taipei Times](https://www.taipeitimes.com/News/feat/archives/2021/01/17/2003750725)
 
-[^5]: O Taipei Times de 2021-01-17 cita a declaração do ministro Tsai Ing-wen após a manifestação de 400 estudantes: "Os cabelos podem representar uma pessoa como boa ou má?"[^5].
+[^5]: O Taipei Times de 2021-01-17 cita a declaração do ministro Tsai Ing-wen após a manifestação de 400 estudantes: "Os cabelos podem representar uma pessoa como boa ou má?"[^5]. [Taipei Times 報導](https://www.taipeitimes.com/News/feat/archives/2021/01/17/2003750725)
 
 [^6]: O Ministério da Educação da República da China (Taiwan) emitiu oficialmente a dissolução total da proibição de cabelos em 24 de julho de 2005, e em 9 de agosto do mesmo ano publicou o documento oficial (台特教字第 0940108865 號), reafirmando que "as formas de cabelo pessoais dos estudantes estão dentro do escopo dos direitos fundamentais, e as regras escolares não podem incluir a gestão de formas de cabelo na orientação educacional dos estudantes"[^6]. Referência-se ao [National Cultural Memory Bank](https://tcmb.culture.tw/zh-tw/detail?id=168721&indexCode=Culture_Object) e publicações oficiais do Ministério da Educação.
 

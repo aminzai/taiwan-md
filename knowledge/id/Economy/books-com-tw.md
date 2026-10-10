@@ -14,7 +14,7 @@ tags:
     'e-commerce Taiwan',
     'transformasi digital',
   ]
-subcategory: 'Profil Perusahaan'
+subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
 featured: false
 curation: 'incubating'
@@ -24,6 +24,7 @@ readingTime: 12
 translatedFrom: 'Economy/博客來.md'
 sourceCommitSha: '5e15a7d9d'
 sourceContentHash: 'sha256:5bead514abf0635b'
+sourceBodyHash: 'sha256:70cf0c01c1c3b9f1'
 translatedAt: '2026-08-09T07:44:42.876068+00:00'
 ---
 
@@ -103,7 +104,7 @@ Sejarah Books.com.tw, hampir merupakan sekilas perkembangan internet dan ritail 
 
 ## Bacaan Lanjutan
 
-- **[Perusahaan Taiwan: Uni-President Enterprises](/economy/台灣企業：統一企業)** — Tata letak strategis Grup Uni-President mengonsolidasikan peta ritail seluruh Taiwan
+- **[Perusahaan Taiwan: Uni-President Enterprises](/id/economy/taiwan-enterprise-uni-president)** — Tata letak strategis Grup Uni-President mengonsolidasikan peta ritail seluruh Taiwan
 - **[PX Mart](/id/economy/pxmart-supermarket)** — Pertarungan saluran dari koperasi kesejahteraan ke raja ritail
 - **[Shopping Design](/culture/Shopping Design)** — Mengubah desain jadi konsumsi sehari-hari dan praktik media gaya hidup
 

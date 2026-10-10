@@ -9,6 +9,15 @@ tags: ['メディア', '調査報道', '非営利', '報道の自由', '市民�
 lastVerified: 2026-06-14
 lastHumanReview: false
 featured: true
+sporeLinks:
+  - id: 144
+    platform: 'threads'
+    date: '2026-06-16'
+    url: 'https://www.threads.com/@taiwandotmd/post/DZpJfvEE4IL'
+  - id: 145
+    platform: 'x'
+    date: '2026-06-16'
+    url: 'https://x.com/taiwandotmd/status/2066822763638341918'
 translatedFrom: 'Society/報導者.md'
 sourceCommitSha: '21298a7a'
 sourceContentHash: 'sha256:46044d1881e9332e'
@@ -262,7 +271,7 @@ AIツールの参入は、さらに新しい変数です。大規模言語モデ
 - [公共テレビ](/ja/society/pts-public-television-service) — もう一つの公共メディアの道筋：法定予算で支えられる放送版の「公共財」。
 - [天下雑誌](/ja/society/commonwealth-magazine) — 何栄幸氏が総主筆を離れる前に所属していた、台湾の商業経済メディアの代表。
 - [認知戦](/ja/society/cognitive-warfare-against-taiwan) — 統一戦線工作、AI偽情報、グレーゾーン戦略。『報導者』2026年統一戦線工作特集と背景を共有する。
-- [毒ジャガイモ認知戦](/society/毒馬鈴薯認知作戰) — 具体的な認知戦事件のケーススタディ。
+- [毒ジャガイモ認知戦](/ja/society/poisoned-potato-cognitive-warfare-taiwan) — 具体的な認知戦事件のケーススタディ。
 - [PTT批踢踢](/ja/technology/ptt-bulletin-board-system) — 台湾の前インターネット時代の公共圏。『報導者』と同じ「プラットフォームは必ずしも中立ではない」という文脈にある。
 
 ## 圖片來源
@@ -280,7 +289,7 @@ AIツールの参入は、さらに新しい変数です。大規模言語モデ
 - [医療美容盗撮騒動：台湾の医療美容規制に何が起きているのか？](https://www.youtube.com/watch?v=_AdtqBm7Hk4) — 報導者 The Reporter
 - [『報導者』創立周年、大きな声で話します！](https://www.youtube.com/watch?v=H_PiSMCR6Sc) — 報導者 The Reporter
 
-## 參考資料
+## 参考資料
 
 [^1]: 何栄幸氏Facebook投稿、2025-09-14：「『報導者』公開初月、定期定額寄付者は4人しかおらず、私はこの数字を同僚たちに知らせる勇気がまったくなかった」。facebook.com/twreporter/posts/1235665585269425 を参照。
 

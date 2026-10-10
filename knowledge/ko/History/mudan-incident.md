@@ -4,7 +4,7 @@ description: '1874년, 해상 재난으로 촉발된 군사 행동은 타이완 
 date: 2026-07-17
 author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: 'Colonialism and Empire'
+subcategory: '殖民與帝國'
 tags: ['모단사 사건', '타이완 역사', '청일 관계', '국제법', '원주민']
 readingTime: 12
 lastVerified: 2026-07-17

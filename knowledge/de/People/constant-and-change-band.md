@@ -157,13 +157,13 @@ Und die Mianyue Line auf Alishan fährt in ihrem Song weiter.
 
 **Weiterführende Lektüre:**
 
-- [Grassong hat keine Party](/people/草東沒有派對) — Die im selben Jahr 2016 aufgestiegene Indie-Band, die über den Zorn der jungen Menschen nach dem Berufseinstieg schrieb; KST schreibt über die Festgefahrenheit zehn Jahre später – zwei Phasen derselben Generation
-- [Wei Ruxuan](/people/魏如萱) — Eine Sängerin aus demselben Indie-Musikökosystem der 2010er Jahre, die den Weg des Gesangs und nicht des Post-Rocks ging
-- [Cicada](/people/Cicada) — Ein reiner Post-Rock ohne Gesang, im Kontrast zu KSTs „Post-Rock + Gesang“
-- [Lu Guangzhong](/people/盧廣仲) — Ein anderer Weg der Indie-Musik: Künstler mit Werkcharakter, die in drei Golden Melody Awards erfolgreich sind
-- [Golden Melody Award](/music/金曲獎) — Die Bühne, auf der KST für den Golden Melody Award Bestes Ensemble nominiert wurde
-- [Indie-Musik Taiwan](/music/台灣獨立音樂) — Die Generationslinie der Indie-Musik von Natural Curl zu KST, Grassong und Gao Wu
-- [Popmusik Taiwan](/music/台灣流行音樂) — Das Umfeld der chinesischen Popmusikindustrie
+- [Grassong hat keine Party](/de/people/no-party-for-cao-dong) — Die im selben Jahr 2016 aufgestiegene Indie-Band, die über den Zorn der jungen Menschen nach dem Berufseinstieg schrieb; KST schreibt über die Festgefahrenheit zehn Jahre später – zwei Phasen derselben Generation
+- [Wei Ruxuan](/de/people/waa-wei-singer) — Eine Sängerin aus demselben Indie-Musikökosystem der 2010er Jahre, die den Weg des Gesangs und nicht des Post-Rocks ging
+- [Cicada](/de/people/cicada-band) — Ein reiner Post-Rock ohne Gesang, im Kontrast zu KSTs „Post-Rock + Gesang“
+- [Lu Guangzhong](/de/people/crowd-lu-indie-folk-treasure) — Ein anderer Weg der Indie-Musik: Künstler mit Werkcharakter, die in drei Golden Melody Awards erfolgreich sind
+- [Golden Melody Award](/de/music/pop-music-and-golden-melody-awards) — Die Bühne, auf der KST für den Golden Melody Award Bestes Ensemble nominiert wurde
+- [Indie-Musik Taiwan](/de/music/indie-music-scene) — Die Generationslinie der Indie-Musik von Natural Curl zu KST, Grassong und Gao Wu
+- [Popmusik Taiwan](/de/music/golden-melodies-legacy-taiwan-pop-music) — Das Umfeld der chinesischen Popmusikindustrie
 
 ## Quellenverzeichnis
 

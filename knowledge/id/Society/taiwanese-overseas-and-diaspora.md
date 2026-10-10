@@ -12,7 +12,7 @@ tags:
     'Silicon Valley',
     'FAPA',
   ]
-subcategory: 'Hubungan Internasional'
+subcategory: '國際關係'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-28
@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: 'Society/台灣海外僑民與離散社群.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:273b605321194083'
+sourceBodyHash: 'sha256:dc26781150e83c1c'
 translatedAt: '2026-09-13T05:27:31.085290+00:00'
 ---
 

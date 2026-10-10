@@ -85,7 +85,7 @@ Masa depan kedaulatan pengetahuan Taiwan mungkin tidak ada pada "ensiklopedia na
 
 - Kementerian Budaya — lembaga pemerintah yang menggerakkan proyek ini
 - [Wikipedia](維基百科) — paradigma kolaborasi Web 2.0 pada masa yang sama
-- [Pan SCI](/society/泛科學) — kasus kontras komunitas sains rakyat dan platform pengetahuan, dari artikel, kursus, hingga multimedia, menampilkan bagaimana pengetahuan diubah dalam ekonomi platform
+- [Pan SCI](/id/society/pansci) — kasus kontras komunitas sains rakyat dan platform pengetahuan, dari artikel, kursus, hingga multimedia, menampilkan bagaimana pengetahuan diubah dalam ekonomi platform
 - [Basis Data Budaya Nasional](國家文化記憶庫) — platform penerus yang menerima entri dari proyek ini
 
 ---

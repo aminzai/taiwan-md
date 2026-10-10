@@ -13,6 +13,7 @@ lastHumanReview: false
 translatedFrom: 'People/林強.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:481077a86ce7a288'
+sourceBodyHash: 'sha256:d49e5d04c317a204'
 translatedAt: '2026-08-19T04:30:30+08:00'
 ---
 
@@ -105,9 +106,9 @@ Der Zug ist längst vom Bahnsteig des Bahnhofs Taipeh abgefahren. Der Junge mit 
 
 **Weiterführende Lektüre**:
 
-- [Hou Hsiao-hsien](/people/侯孝賢) — Lim Giongs erster Filmmusik-Lehrer, Kernfigur der Taiwan-New-Cinema-Bewegung
-- [Entwicklung der taiwanesischsprachigen Lieder](/music/台灣台語歌曲演進) — die kulturelle Welle, zu der Lim Giongs „Vorwärts“ gehört, von den Klageliedern zur Rock-taiwanesischen Musik
-- [Chia Yung-chieh](/people/賈永婕) — eine taiwanesische Persönlichkeit des öffentlichen Lebens, die ebenfalls einen Identitätswechsel vollzog, vom Star zur Mobilisierungskraft im öffentlichen Raum
+- [Hou Hsiao-hsien](/de/people/hou-hsiao-hsien) — Lim Giongs erster Filmmusik-Lehrer, Kernfigur der Taiwan-New-Cinema-Bewegung
+- [Entwicklung der taiwanesischsprachigen Lieder](/de/music/taiwanese-hokkien-song-evolution) — die kulturelle Welle, zu der Lim Giongs „Vorwärts“ gehört, von den Klageliedern zur Rock-taiwanesischen Musik
+- [Chia Yung-chieh](/de/people/chia-yung-chieh) — eine taiwanesische Persönlichkeit des öffentlichen Lebens, die ebenfalls einen Identitätswechsel vollzog, vom Star zur Mobilisierungskraft im öffentlichen Raum
 
 ## Referenzen
 

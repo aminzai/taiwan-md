@@ -173,8 +173,8 @@ Hsuan Hsien hinterließ neunzig Gedichte. In der Einleitung von „Abgrund“ zi
 **Weiterführende Lektüre**:
 
 - [Cheng Chouyu: Der Vagabund, der „Fehler“ schrieb, und schließlich in Kinmen registriert](/de/people/cheng-chou-yu-poet) — Gleichaltriger von Gründungspoesie-Vereinigung, starb im Juni 2025
-- [Die Kriegsrechtszeit](/history/戒嚴時期) — Historischer Kontext der literarischen Zensur, des Militärs und der Verschleierung als politischer Protest
-- [Taiwanische Medien und Meinungsfreiheit](/society/台灣媒體與新聞自由) — Der historische Kontext, in dem die Nebenrubriken von United Daily News und China Times in den Jahren 1950–1990 die taiwanesische Literaturszene prägten
+- [Die Kriegsrechtszeit](/de/history/martial-law-era) — Historischer Kontext der literarischen Zensur, des Militärs und der Verschleierung als politischer Protest
+- [Taiwanische Medien und Meinungsfreiheit](/de/society/media-and-press-freedom-in-taiwan) — Der historische Kontext, in dem die Nebenrubriken von United Daily News und China Times in den Jahren 1950–1990 die taiwanesische Literaturszene prägten
 
 ## Bildquellen
 

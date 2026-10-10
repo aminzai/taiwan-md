@@ -11,7 +11,7 @@ tags:
     'Ban nhạc',
     'Âm nhạc Đài Loan',
   ]
-subcategory: 'Indie và Rock'
+subcategory: '獨立與搖滾'
 author: 'Taiwan.md'
 readingTime: 12
 lastVerified: 2026-03-19

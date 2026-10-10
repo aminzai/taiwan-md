@@ -4,14 +4,21 @@ description: "Born 1980 in Taipei, Jolin Tsai debuted at 19 and became Asia's mo
 date: 2026-03-24
 category: 'People'
 tags:
-  ['People', 'Singer', 'Entertainment', 'LGBTQ+ Rights', 'Mandopop', 'Golden Melody Awards']
-subcategory: 'Music'
+  [
+    'People',
+    'Singer',
+    'Entertainment',
+    'LGBTQ+ Rights',
+    'Mandopop',
+    'Golden Melody Awards',
+  ]
+subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
 translatedFrom: 'People/蔡依林.md'
-sourceCommitSha: 'ce7f10f8'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:1eed0b39727d52a4'
 sourceBodyHash: 'sha256:ecfb49e20d9c0f4b'
 translatedAt: '2026-05-09T14:29:43Z'
@@ -60,17 +67,17 @@ Three major world tours tell the story in numbers:
 | Play        | 2015–2017 | 23     | 34    | —          | ~1.5 billion     |
 | Ugly Beauty | 2019–2024 | 23     | 34    | ~600,000   | ~1.5 billion     |
 
-Over 100 shows, cumulative box office exceeding NT$4 billion (roughly US$130 million). In the Mandopop world, only [[jay-chou]] and [[mayday]] operate at comparable scale. She is the highest-grossing female concert act in Taiwanese pop history.
+Over 100 shows, cumulative box office exceeding NT$4 billion (roughly US$130 million). In the Mandopop world, only [Jay Chou](/en/people/jay-chou) and [Mayday](/en/music/mayday-band) operate at comparable scale. She is the highest-grossing female concert act in Taiwanese pop history.
 
 The production budgets match the ambition. _Ugly Beauty_'s album alone cost over NT$100 million to produce — nearly unheard of in Chinese-language music.
 
 ## "Womxnly": One Song, One Conversation
 
-In December 2018, Tsai released her fourteenth studio album _Ugly Beauty_. Track five, "Womxnly" (玫瑰少年), told the story of Yeh Yung-chih. The lyrics, co-written with [[mayday]]'s Ashin, included the line: "Born human is no crime — you don't need to apologize."
+In December 2018, Tsai released her fourteenth studio album _Ugly Beauty_. Track five, "Womxnly" (玫瑰少年), told the story of Yeh Yung-chih. The lyrics, co-written with Mayday's Ashin, included the line: "Born human is no crime — you don't need to apologize."
 
 It was the first time a Mandopop superstar had directly addressed LGBTQ+ issues and bullying-related death.
 
-On June 29, 2019, at the 30th [[Golden Melody Awards]], "Womxnly" won Song of the Year. Tsai was in tears on stage: "Yeh Yung-chih reminded me that in any situation, I could become some kind of minority. So I must use empathy to love the people around me. This song is for him — and for everyone who ever felt they had no choices. Remember to choose yourself, and support yourself."
+On June 29, 2019, at the 30th Golden Melody Awards, "Womxnly" won Song of the Year. Tsai was in tears on stage: "Yeh Yung-chih reminded me that in any situation, I could become some kind of minority. So I must use empathy to love the people around me. This song is for him — and for everyone who ever felt they had no choices. Remember to choose yourself, and support yourself."
 
 Five weeks earlier, on May 24, 2019, Taiwan had become the first country in Asia to legalize same-sex marriage. "Womxnly" had transformed from a pop single into a generational symbol.
 

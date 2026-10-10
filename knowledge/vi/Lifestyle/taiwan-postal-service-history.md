@@ -22,13 +22,13 @@ translatedAt: '2026-09-15T06:51:28+08:00'
 
 ![Ngoại cảnh Bưu cục Đài Bắc, năm 2019.](https://upload.wikimedia.org/wikipedia/commons/4/43/Taipei_Post_Office%2C_Chunghwa_Post_20190406.jpg)
 
-_Ảnh: Solomon203／Trang tệp Wikimedia Commons, CC BY-SA 4.0._
+_Ảnh: Solomon203／Trang tệp Wikimedia Commons, CC BY-SA 4.0. [Wikimedia Commons 檔案頁](https://commons.wikimedia.org/wiki/File:Taipei_Post_Office,_Chunghwa_Post_20190406.jpg)_
 
 ## Một lá thư không có biển số nhà
 
 ![Hòm thư màu đỏ và xanh trên phố Đài Bắc.](https://upload.wikimedia.org/wikipedia/commons/c/c1/Taipei_Taiwan_Post-boxes-01.jpg)
 
-_Ảnh: CEphoto, Uwe Aranas／Trang tệp Wikimedia Commons, CC BY-SA 3.0._
+_Ảnh: CEphoto, Uwe Aranas／Trang tệp Wikimedia Commons, CC BY-SA 3.0. [Wikimedia Commons 檔案頁](https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Post-boxes-01.jpg)_
 
 Năm 2015, Bưu cục Thủy Lâm (Yunlin) nhận được một lá thư từ Đào Viên. Phong bì chỉ có mã bưu chính và vài chữ "Tiểu thư Lâm Mỗ Mỗ", không có địa chỉ. Lá thư này theo quy tắc có thể bị coi là "thư chết," nhưng nhân viên bưu điện Lâm Hồng Kỳ nhìn nét chữ đoán người gửi còn trẻ, lại nhớ đến một thiếu nữ họ Lâm từ Đào Viên kết hôn trong khu vực phụ trách, nên đã thử gửi theo ký ức và tìm thấy người nhận ngay lần đầu tiên. [^7]
 

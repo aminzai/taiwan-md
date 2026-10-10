@@ -74,10 +74,10 @@ Contudo, a história do guarda-chuva de papel de Meinong oferece lições valios
 
 ## Leitura complementar
 
-- **[Cultura e língua hakka](/culture/客家文化與語言)** — A preservação da língua e a transmissão cultural do grupo hakka, o solo cultural onde nasceu o guarda-chuva de papel
+- **[Cultura e língua hakka](/pt/culture/hakka-culture-and-language)** — A preservação da língua e a transmissão cultural do grupo hakka, o solo cultural onde nasceu o guarda-chuva de papel
 - **[Cultura dos tabus por homofonia em Taiwan](/pt/culture/taiwanese-homophone-taboos)** — O tabu minnan de "dar guarda-chuva" vs. a bênção hakka do guarda-chuva de papel, a lógica homofônica do mesmo objeto com sentidos opostos
-- **[Tecido estampado de Taiwan](/culture/台灣花布)** — Outro padrão tradicional que passou do uso diário a símbolo cultural
-- **[Índigo (tingimento azul)](/culture/藍染)** — Artesanato tradicional que enfrenta desafios semelhantes de transmissão
+- **[Tecido estampado de Taiwan](/pt/culture/taiwan-floral-fabric)** — Outro padrão tradicional que passou do uso diário a símbolo cultural
+- **[Índigo (tingimento azul)](/pt/culture/taiwan-indigo-dyeing)** — Artesanato tradicional que enfrenta desafios semelhantes de transmissão
 
 ## Referências
 

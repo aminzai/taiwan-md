@@ -11,7 +11,7 @@ tags:
     'Medizin',
     'Einwanderungsgeschichte',
   ]
-subcategory: 'Wissenschaft und Akademie'
+subcategory: '科學與學術'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-28
@@ -30,6 +30,7 @@ sporeLinks:
 translatedFrom: 'People/林琪兒.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:a30f0de5d79e98de'
+sourceBodyHash: 'sha256:85e505009fb05c24'
 translatedAt: '2026-09-12T05:35:16.130091+00:00'
 ---
 
@@ -206,8 +207,8 @@ Wenn diese Atemwegsdokumentation damals genau war, wäre er heute ein pensionier
 
 - [Wu Da-yu](/de/people/tai-yu-wu) — Taiwanesischer Physiker, der versteht, wie Wissenschaftler eine Grundlage für Wissenschaft in Taiwan aufbauten
 - [Zhu Jing-wu](/de/people/chu-ching-wu) — Ein weiterer taiwanischer Wissenschaftler, der die taiwanisch-amerikanische Kultur in verschiedenen Fächern verbindet
-- [Bergbau: Die Wette des Jahrhunderts](/art/造山者世紀的賭注) — Eine 2025 entstandene Dokumentation von Xiao Ju-zhen, die Halbleiter-Veteranen interviewt und die internationale Karriere von taiwanischen Ingenieuren widerspiegelt
-- [Taiwanesische Raumfahrtentwicklung](/technology/台灣太空產業發展) — Eine Übersicht über taiwanische Satelliten, Raketen und Raumfahrtpolitik, um die lokale Industriegrundlage zu verstehen, vor der er bei seinem Besuch stand
+- [Bergbau: Die Wette des Jahrhunderts](/de/art/mountain-makers-tsmc-documentary) — Eine 2025 entstandene Dokumentation von Xiao Ju-zhen, die Halbleiter-Veteranen interviewt und die internationale Karriere von taiwanischen Ingenieuren widerspiegelt
+- [Taiwanesische Raumfahrtentwicklung](/de/technology/taiwan-space-industry-development) — Eine Übersicht über taiwanische Satelliten, Raketen und Raumfahrtpolitik, um die lokale Industriegrundlage zu verstehen, vor der er bei seinem Besuch stand
 
 ## Bildquellen
 

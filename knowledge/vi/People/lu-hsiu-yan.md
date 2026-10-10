@@ -203,11 +203,11 @@ Và cuối cùng bà có nên bước ra khỏi Đài Trung, hay tiếp tục �
 
 **Đọc thêm**:
 
-- [Trịnh Lệ Văn](/vi/people/trịnh-lệ-văn) — người được bầu chọn Chủ tịch Quốc Dân Đảng thứ 12 vào tháng 10 năm 2025 với 50,15%. Quyết định «không tranh cử» của Lư Tú Yên đã mở cửa vào sân khấu cho bà
-- [Hàn Quốc Du](/vi/people/hàn-quốc-du) — khác cực của làn sóng Hàn 2018, cùng với Lư Tú Yân từ vùng đất xanh thành bầu trời xanh năm 2018; năm 2024 là Chủ tịch Viện Lập pháp, một trong «3+1»
-- [Trương Vạn An](/vi/people/trương-vạn-an) — Thị trưởng Đài Bắc từng vượt qua Lư Tú Yân trong dân số tháng 4 năm 2026 với 25% đối với 19,7%
-- [Đài Loan Quốc phòng và Hiện đại hoá Quân sự](/vi/society/đài-loan-quốc-phòng-và-hiện-đại-hoá-quân-sự) — tranh cãi quân mua 1,25 tỷ, máy bay không người lái, chiến lực không đối xứng, bối cảnh chính trị của chuyến thăm Washington năm 2026 của Lư Tú Yân
-- [Công lý Môi trường và Tranh cãi NIMBY của Đài Loan](/vi/society/công-lý-môi-trường-và-tranh-cãi-nimby) — nhà máy Trung Hỏa, PM2.5, chuyển đổi năng lượng, chiến trường chính sách mà Lư Tú Yân từ năm 2018 thắng về không khí
+- [Trịnh Lệ Văn](/vi/people/cheng-li-wun) — người được bầu chọn Chủ tịch Quốc Dân Đảng thứ 12 vào tháng 10 năm 2025 với 50,15%. Quyết định «không tranh cử» của Lư Tú Yên đã mở cửa vào sân khấu cho bà
+- [Hàn Quốc Du](/vi/people/han-kuo-yu) — khác cực của làn sóng Hàn 2018, cùng với Lư Tú Yân từ vùng đất xanh thành bầu trời xanh năm 2018; năm 2024 là Chủ tịch Viện Lập pháp, một trong «3+1»
+- [Trương Vạn An](/vi/people/cho-jung-tai) — Thị trưởng Đài Bắc từng vượt qua Lư Tú Yân trong dân số tháng 4 năm 2026 với 25% đối với 19,7%
+- [Đài Loan Quốc phòng và Hiện đại hoá Quân sự](/vi/society/taiwan-defense-modernization) — tranh cãi quân mua 1,25 tỷ, máy bay không người lái, chiến lực không đối xứng, bối cảnh chính trị của chuyến thăm Washington năm 2026 của Lư Tú Yân
+- [Công lý Môi trường và Tranh cãi NIMBY của Đài Loan](/vi/society/taiwan-environmental-justice-nimby-conflicts) — nhà máy Trung Hỏa, PM2.5, chuyển đổi năng lượng, chiến trường chính sách mà Lư Tú Yân từ năm 2018 thắng về không khí
 
 [^1]: [Lư Tú Yên - Bách khoa toàn thư](https://zh.wikipedia.org/zh-tw/%E7%9B%A7%E7%A7%80%E7%87%95) — bách khoa toàn thư tiếng Trung ghi lại tiểu sử hoàn chỉnh của Lư Tú Yân: sinh 1961-08-31 ở quận An Lạc, thành phố Cơ Long; cha Lư Hội Đình từ Chư Thành, Sơn Đông là Quân Tình Nguyện Nhân dân Trung Quốc bị quân Mỹ bắt làm tù binh và sau đó định cư tại Đài Loan; mẹ từ Tân Trúc; chị em gái Lư Tú Phương hiện là Chủ tịch kiêm Giám đốc Điều hành Truyền hình Trung Quốc.
 

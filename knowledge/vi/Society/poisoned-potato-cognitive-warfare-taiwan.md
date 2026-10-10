@@ -329,12 +329,12 @@ Tần Bá Dương nói câu tầm cao hơn: "thiết lập ý thức kẻ thù t
 
 ## Đọc thêm
 
-- [Chiến dịch nhận thức](/society/認知作戰) — tổng thể khung lý Trung Quốc thao túng thông tin và cơ chế phản ứng xã hội Đài Loan
-- [Họp mặt Trịnh Tử 2026 và cuộc gặp 10 năm Trung Cộng](/society/2026鄭習會與國共十年再會) — điểm đảo lộn khác của quan hệ hai bờ cùng thời kỳ
-- [Khủng hoảng eo biển Đài Loan và phát triển quan hệ hai bờ](/history/台海危機與兩岸關係發展) — bối cảnh lịch sử lâu dài của cách thuật dụng "đầu hàng"
-- [Thái Anh Văn](/people/蔡英文) — người quyết định chính sách thịt lợn kháng sinh 2020-2021, tầng vết sẹo trước
-- [Lại Thanh Đức](/people/賴清德) — nhiệm kỳ tổng thống khi ký Hiệp định Thương mại Tương đương
-- [Diễn đàn Suy Nghĩ](/society/想想論壇) — cột "báo cáo quan sát Trung Quốc hàng năm" khi Thái Anh Văn 2025 khởi động lại sau sửa đổi, bao hàm các vấn đề chiến dịch nhận thức cùng loại
+- [Chiến dịch nhận thức](/vi/society/cognitive-warfare-against-taiwan) — tổng thể khung lý Trung Quốc thao túng thông tin và cơ chế phản ứng xã hội Đài Loan
+- [Họp mặt Trịnh Tử 2026 và cuộc gặp 10 năm Trung Cộng](/vi/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — điểm đảo lộn khác của quan hệ hai bờ cùng thời kỳ
+- [Khủng hoảng eo biển Đài Loan và phát triển quan hệ hai bờ](/vi/history/taiwan-strait-crises-and-cross-strait-relations) — bối cảnh lịch sử lâu dài của cách thuật dụng "đầu hàng"
+- [Thái Anh Văn](/vi/people/tsai-ing-wen) — người quyết định chính sách thịt lợn kháng sinh 2020-2021, tầng vết sẹo trước
+- [Lại Thanh Đức](/vi/people/lai-ching-te) — nhiệm kỳ tổng thống khi ký Hiệp định Thương mại Tương đương
+- [Diễn đàn Suy Nghĩ](/vi/society/thinking-taiwan-forum) — cột "báo cáo quan sát Trung Quốc hàng năm" khi Thái Anh Văn 2025 khởi động lại sau sửa đổi, bao hàm các vấn đề chiến dịch nhận thức cùng loại
 
 ---
 

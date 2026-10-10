@@ -14,7 +14,7 @@ tags:
     'وادي السيليكون',
     'تايوان',
   ]
-subcategory: 'التكنولوجيا والشركات'
+subcategory: '科技與企業'
 author: 'idlccp1984'
 featured: false
 lastVerified: 2026-04-29
@@ -23,6 +23,7 @@ readingTime: 12
 translatedFrom: 'People/楊致遠.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:ca2d67d7e07ef02e'
+sourceBodyHash: 'sha256:e0245844724d0a9c'
 translatedAt: '2026-07-25T06:47:08.212716+00:00'
 ---
 

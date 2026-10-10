@@ -16,7 +16,7 @@ tags:
     'Trần Cảnh Lâm',
     'Trịnh Mỹ Thục',
   ]
-subcategory: 'Công nghệ thủ công và mỹ học'
+subcategory: '工藝與美學'
 translatedFrom: 'Culture/藍染.md'
 sourceCommitSha: 'a43cf9153'
 sourceContentHash: 'sha256:1670373f1f6c3b4a'
@@ -178,10 +178,10 @@ Màu sắc trong bồn nhuộm đã sống lại. Còn bồn màu sắc này cu�
 
 ## Mở rộng đọc
 
-- [Thủ công truyền thống Đài Loan và Tài sản Văn hóa Vô hình](/culture/thủ-công-truyền-thống-đài-loan-và-tài-sản-văn-hóa-vô-hình) — Vị trí của phục hưng nhuộm chàm Tam Hiệp trong cơ chế lưu giữ thủ công Đài Loan, và bối cảnh rộng lớn hơn của "dân gian làm trước, chế độ công nhận sau"
-- [Phố cổ Tam Hiệp](/history/phố-cổ-tam-hiệp) — Lịch sử bảo tồn kiến trúc phố cổ Tam Hiệp, bài này nói kỹ thuật, bài đó nói đường phố và cổ tích
-- [Văn hóa và Ngôn ngữ Khách Gia](/culture/văn-hóa-và-ngôn-ngữ-khách-gia) — Bối cảnh văn hóa dân tộc hoàn chỉnh hơn đằng sau áo chàm Khách Gia
-- [Vải bông Đài Loan](/culture/vải-bông-đài-loan) — Một loại mô hình nhuộm dệt khác từng được xem là biểu tượng Khách Gia, sau này phát hiện ra nguồn gốc phức tạp hơn
+- [Thủ công truyền thống Đài Loan và Tài sản Văn hóa Vô hình](/vi/culture/traditional-crafts-intangible-cultural-heritage) — Vị trí của phục hưng nhuộm chàm Tam Hiệp trong cơ chế lưu giữ thủ công Đài Loan, và bối cảnh rộng lớn hơn của "dân gian làm trước, chế độ công nhận sau"
+- [Phố cổ Tam Hiệp](/vi/history/sanxia-old-street) — Lịch sử bảo tồn kiến trúc phố cổ Tam Hiệp, bài này nói kỹ thuật, bài đó nói đường phố và cổ tích
+- [Văn hóa và Ngôn ngữ Khách Gia](/vi/culture/hakka-culture-and-language) — Bối cảnh văn hóa dân tộc hoàn chỉnh hơn đằng sau áo chàm Khách Gia
+- [Vải bông Đài Loan](/vi/culture/taiwan-floral-fabric) — Một loại mô hình nhuộm dệt khác từng được xem là biểu tượng Khách Gia, sau này phát hiện ra nguồn gốc phức tạp hơn
 
 ## Nguồn gốc hình ảnh
 

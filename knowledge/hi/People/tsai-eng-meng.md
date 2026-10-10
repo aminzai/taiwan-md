@@ -11,7 +11,7 @@ tags:
     'प्लेटफॉर्म शासन',
     'प्रेस स्वतंत्रता',
   ]
-subcategory: 'प्रौद्योगिकी और उद्यम'
+subcategory: '科技與企業'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16
@@ -21,6 +21,7 @@ curation: 'incubating'
 translatedFrom: 'People/蔡衍明.md'
 sourceCommitSha: '3d9addf71'
 sourceContentHash: 'sha256:358c2c2f89fcf891'
+sourceBodyHash: 'sha256:04d4784a133b2499'
 translatedAt: '2026-09-12T00:24:38.766956+00:00'
 ---
 

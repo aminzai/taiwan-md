@@ -11,7 +11,7 @@ tags:
     'Chuyển đổi số',
     'Tư nhân hoá doanh nghiệp nhà nước',
   ]
-subcategory: 'Tiểu sử doanh nghiệp'
+subcategory: '企業列傳'
 author: 'Taiwan.md'
 readingTime: 8
 featured: false

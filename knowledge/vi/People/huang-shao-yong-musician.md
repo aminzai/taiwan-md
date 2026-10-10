@@ -99,7 +99,7 @@ Ngày 24 tháng 12 năm 2024, 《Viên Châu Danh Xung》 của Vi Như Tuyên �
 
 Trần Kiến Kỳ là người cộng sự lâu năm của Vi Như Tuyên - từ khi cô còn ở ban nhạc Tự Nhiên Cuộn, cho đến Ophelia, Nị Tử Quân, Viên Châu Danh Xung. Nhưng album 《Viên Châu Danh Xung》 này để tạo ra cảm giác "viên châu kỳ quái" với hình dáng dị hình, dị chất, hơi khó chịu, cần phải đưa vào tư duy âm nhạc điện tử như Hoàng Thiểu Dung mà "không thuộc hệ thống Trần Kiến Kỳ".
 
-**Hoàng Thiểu Dung bổ sung một phần nằm ngoài hệ thống nhà sản xuất của Trần Kiến Kỳ.** Đây là sự đối chiếu trực tiếp nhất giữa hai người trong chuỗi tiểu sử nhà sản xuất Taiwan.md. [Trần Kiến Kỳ](/people/陳建騏) trong 20 năm làm việc của anh, đã dỡ bỏ "giọng nói lạ thường" trong nhạc pop Hoa ngữ, cho phép những giọng nói không chuẩn mực (Bành Gia Huệ, Vi Như Tuyên, Từ Giai Dương, Điền Phủ Hân) có một chỗ để ngồi trong ranh giới âm thanh chính luồng. Hoàng Thiểu Dung dỡ bỏ nửa kia của cùng một đường chuyền: bổ sung những ngôn ngữ không phải Hoa ngữ (Paiwan, A Mei, tiếng Đài, tiếng Nhật) trong hệ thống biên khúc chính luồng.
+**Hoàng Thiểu Dung bổ sung một phần nằm ngoài hệ thống nhà sản xuất của Trần Kiến Kỳ.** Đây là sự đối chiếu trực tiếp nhất giữa hai người trong chuỗi tiểu sử nhà sản xuất Taiwan.md. [Trần Kiến Kỳ](/vi/people/chen-chien-chi-music-producer) trong 20 năm làm việc của anh, đã dỡ bỏ "giọng nói lạ thường" trong nhạc pop Hoa ngữ, cho phép những giọng nói không chuẩn mực (Bành Gia Huệ, Vi Như Tuyên, Từ Giai Dương, Điền Phủ Hân) có một chỗ để ngồi trong ranh giới âm thanh chính luồng. Hoàng Thiểu Dung dỡ bỏ nửa kia của cùng một đường chuyền: bổ sung những ngôn ngữ không phải Hoa ngữ (Paiwan, A Mei, tiếng Đài, tiếng Nhật) trong hệ thống biên khúc chính luồng.
 
 Một người mở đường cho giọng nói Hoa ngữ kỳ quái, một người mở đường cho ngôn ngữ không phải Hoa ngữ. Hai công việc trông khác nhau, nhưng ở tầng dưới là cùng một điều: **để ranh giới "tiếng nào được phép nghe" mà ngành công nghiệp này mặc định sẵn, tiếp tục mở rộng ra ngoài.**
 
@@ -117,11 +117,11 @@ Anh chưa bao giờ nhận được giải Sản xuất. Nhưng Dark Paradise Re
 
 ## Mở rộng thêm
 
-- [Trần Kiến Kỳ](/people/陳建騏) — Một trường hợp khác của "tác giả vắng mặt" trong nhạc pop Hoa ngữ; một người sản xuất khác trong 《Viên Châu Danh Xung》, tạo thành công việc đôi đường "Hoa ngữ/không phải Hoa ngữ" với Hoàng Thiểu Dung
-- [Vi Như Tuyên](/people/魏如萱) — Ca sĩ Hoàng Thiểu Dung hợp tác từ thời kỳ Lâm Mã Đột cho đến 《Viên Châu Danh Xung》, hợp tác hơn mười năm; hai lần chiến thắng Nữ ca sĩ Âm nhạc Vàng, một tiếng nói từ chối được công nhận
-- [A Bao](/people/阿爆) — Ca sĩ và nhà chủ trì của tác phẩm 《Kinakaian Tiếng mẹ đẻ》, cùng với Hoàng Thiểu Dung chủ đạo khóa học sản xuất âm nhạc điện tử ngôn ngữ người bản địa MINETJUS
-- [Trịnh Ý Nông](/people/鄭宜農) — Nhạc sĩ cùng thế hệ ngôn ngữ mẹ đẻ/ngôn ngữ Đài, chiến thắng giải thưởng kép Âm nhạc Tiếng Đài tại Giải Vàng bằng "cách viết bằng ngôn ngữ xa lạ nhất để diễn đạt những sự thật chân thành nhất"
-- [Dương Thừa Lâm](/people/楊丞琳) — Trục đối chiếu của ca sĩ từ "được sản xuất" đến "tự sản xuất"; công việc của những nhà sản xuất như Hoàng Thiểu Dung chính là tiền đề sinh thái cho phép ca sĩ cuối cùng có thể nắm lấy quyền sản xuất
+- [Trần Kiến Kỳ](/vi/people/chen-chien-chi-music-producer) — Một trường hợp khác của "tác giả vắng mặt" trong nhạc pop Hoa ngữ; một người sản xuất khác trong 《Viên Châu Danh Xung》, tạo thành công việc đôi đường "Hoa ngữ/không phải Hoa ngữ" với Hoàng Thiểu Dung
+- [Vi Như Tuyên](/vi/people/waa-wei-singer) — Ca sĩ Hoàng Thiểu Dung hợp tác từ thời kỳ Lâm Mã Đột cho đến 《Viên Châu Danh Xung》, hợp tác hơn mười năm; hai lần chiến thắng Nữ ca sĩ Âm nhạc Vàng, một tiếng nói từ chối được công nhận
+- [A Bao](/vi/people/aljenljeng-tjaluvie-abao) — Ca sĩ và nhà chủ trì của tác phẩm 《Kinakaian Tiếng mẹ đẻ》, cùng với Hoàng Thiểu Dung chủ đạo khóa học sản xuất âm nhạc điện tử ngôn ngữ người bản địa MINETJUS
+- [Trịnh Ý Nông](/vi/people/cheng-i-nung) — Nhạc sĩ cùng thế hệ ngôn ngữ mẹ đẻ/ngôn ngữ Đài, chiến thắng giải thưởng kép Âm nhạc Tiếng Đài tại Giải Vàng bằng "cách viết bằng ngôn ngữ xa lạ nhất để diễn đạt những sự thật chân thành nhất"
+- [Dương Thừa Lâm](/vi/people/rainie-yang) — Trục đối chiếu của ca sĩ từ "được sản xuất" đến "tự sản xuất"; công việc của những nhà sản xuất như Hoàng Thiểu Dung chính là tiền đề sinh thái cho phép ca sĩ cuối cùng có thể nắm lấy quyền sản xuất
 
 ## Tài liệu tham khảo
 

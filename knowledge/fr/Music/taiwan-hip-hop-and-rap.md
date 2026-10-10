@@ -20,6 +20,15 @@ readingTime: 24
 lastVerified: 2026-06-09
 lastHumanReview: true
 featured: true
+sporeLinks:
+  - id: 132
+    platform: 'threads'
+    date: '2026-06-09'
+    url: 'https://www.threads.com/@taiwandotmd/post/DZXjMdDE_xC'
+  - id: 133
+    platform: 'x'
+    date: '2026-06-09'
+    url: 'https://x.com/taiwandotmd/status/2064344279485710550'
 translatedFrom: 'Music/台灣嘻哈與饒舌發展.md'
 sourceCommitSha: '3d2adaeb'
 sourceContentHash: 'sha256:6df07f794411626f'

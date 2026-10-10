@@ -13,7 +13,7 @@ tags:
     'Hu De-fu',
     'Menyanyikan Lagu Sendiri',
   ]
-subcategory: 'Musik Pop'
+subcategory: '流行音樂'
 author: 'Taiwan.md Contributors'
 difficulty: 'beginner'
 readingTime: 12
@@ -149,7 +149,7 @@ Jawaban dari gerakan lagu rakyat Taiwan adalah: jangan takut menciptakan dengan 
 
 - [Perkembangan Musik Pop Taiwan](/music/台灣流行音樂發展) — Sumbu utama musik pop Mandarin dari Lo Ta-yu hingga Chen Ch'i-chen, Chang Hsüan setelah lagu rakyat
 - [Sastra Taiwan Pasca-Pembukaan Hukum Darurat](/id/art/post-martial-law-taiwanese-literature) — Gerakan kesadaran budaya lain pasca-pembukaan hukum darurat 1987, sejalan dengan semangat lagu rakyat "menyanyikan lagu sendiri"
-- [Film Taiwan](/art/台灣電影) — Gerakan film baru Taiwan pada masa yang sama, sumbu lain kebangkitan budaya lokal Taiwan era 1970-1980
+- [Film Taiwan](/id/art/taiwanese-cinema) — Gerakan film baru Taiwan pada masa yang sama, sumbu lain kebangkitan budaya lokal Taiwan era 1970-1980
 - [Sanmao](/id/people/san-mao) — Penulis lirik asli "Pohon Zaitun", liriknya diubah dan menyebar ke seluruh dunia Mandarin
 
 ---

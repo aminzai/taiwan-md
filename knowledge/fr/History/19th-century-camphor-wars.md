@@ -141,7 +141,7 @@ Le compte n'est pas encore soldé.
 - [Histoire de l'exploitation forestière à Taïwan](/fr/history/taiwan-forestry-history) — De l'arbre à camphre au cyprès de Formose, le contexte complet de l'exploitation des forêts taïwanaises.
 - [Alishan : forêt impériale et montagne des lycéens](/fr/history/alishan-empire-forest-and-uongu-yatauyungana) — Comment le pillage forestier s'est étendu à Alishan sous l'ère japonaise et à la Terreur Blanche d'après-guerre.
 - [Musée National d'Histoire de Taïwan](/fr/society/national-museum-of-taiwan-history) — Institution nationale de troisième rang conservant les sources primaires de Swinton (1864) sur la guerre du camphre (système UUID du réseau NMTH).
-- [Arbres d'alignement à Taïwan](/lifestyle/台灣行道樹)— Le même arbre, autrefois ressource mondiale convoitée en montagne, n'est plus sollicité en ville que pour son ombre : c'est celui qui borde le tunnel vert de Jiji à Nantou.
+- [Arbres d'alignement à Taïwan](/fr/lifestyle/taiwan-street-trees)— Le même arbre, autrefois ressource mondiale convoitée en montagne, n'est plus sollicité en ville que pour son ombre : c'est celui qui borde le tunnel vert de Jiji à Nantou.
 
 ---
 

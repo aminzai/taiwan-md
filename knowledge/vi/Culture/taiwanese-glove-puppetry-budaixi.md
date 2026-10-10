@@ -3,7 +3,7 @@ title: 'Bò đàn họa: Từ chiến thiệt tại chùa chiến đến vũ tr�
 description: "Vào ngày 2 tháng 3 năm 1970, truyền hình công ty Huang Jun-hsiu của Shih Yen-wen khiến các nhà máy ở Đài Loan ngừng hoạt động, học sinh vắng lớp, đạt tỷ lệ xem trên toàn quốc lên tới 97%; sau bốn năm, chính phủ cấm phát vì lý do 'hạn chế người nông dân và công nhân làm việc bình thường'. Kiến trúc nghệ thuật này trên Đài Loan qua qua áp lực hoàng quốc, chiến tranh, và cuộc cách mạng thẻ VCD, cuối cùng mở ra thị trường hoạt hình toàn cầu thông qua《Đường Lê Kiếm Du Ký》."
 date: 2026-05-02
 category: 'Culture'
-subcategory: 'Công nghiệp và thẩm mỹ'
+subcategory: '工藝與美學'
 tags:
   [
     'Nghệ thuật truyền thống',
@@ -76,7 +76,7 @@ Vô hạn Huyền tự thành là người hâm mộ của Lửa nam châm, đi�
 **Đọc thêm**
 
 - [Kịch bằng chiếu mây](/vi/culture/taiwanese-shadow-puppetry) — Cũng xuất phát từ nền văn hóa Hàn-Giang, gắn cối vào Đài Loan, thành phố Hồng Kông, đã từng trong thời kỳ hoàng quốc bằng cách biên dịch các vở kịch Nhật Bản sinh tồn, là một lượng truyền thống kịch khác của bò đàn họa
-- [Lễ hội chùa và văn hóa động đất](/culture/台灣廟會與陣頭文化) — Chùa chiến là sân khấu đầu tiên của bò đàn họa, lễ hội chùa và bò đàn họa trên bầu trời chung của khu vực tín ngưỡng dân gian Đài Loan
+- [Lễ hội chùa và văn hóa động đất](/vi/culture/taiwan-temple-festivals-and-performance-troupes) — Chùa chiến là sân khấu đầu tiên của bò đàn họa, lễ hội chùa và bò đàn họa trên bầu trời chung của khu vực tín ngưỡng dân gian Đài Loan
 - [Hai phòng chiếu](/vi/culture/national-theater-and-concert-hall) — Nghệ thuật biểu diễn truyền thống Đài Loan từ chùa chiến lên sân khấu hiện đại, hoàn thành đến năm 1987 cho đến nay chứng kiến sự hoan hòa văn hóa Đài Loan
 
 ## Tài liệu tham khảo
@@ -87,9 +87,9 @@ Vô hạn Huyền tự thành là người hâm mộ của Lửa nam châm, đi�
 
 [^3]: [Bò đàn họa — Mạng lưới tài sản văn hóa quốc gia](https://nchdb.boch.gov.tw/assets/overview/traditionalPerformingart/20090501000001) — Trang phục Bộ Văn hóa và Tài sản quốc gia đăng ký chính thức về bò đàn họa, ghi nhận đặc điểm phong cách của hai truyền thống Nam và Bắc quan, quá trình biến đổi địa phương trên Đài Loan, và bối cảnh công nhận nghệ thuật biểu diễn truyền thống quốc gia.
 
-[^4]: [Lịch sử bò đàn họa Đài Loan — Bảo tàng bò đàn họa Yunlin](https://sites.google.com/view/yunlinpuppet/%E5%B8%83%E8%A2%8B%E6%88%B2%E7%9A%84%E6%BA%90%E6%B5%81-about-bodehi/%E5%8F%B0%E7%81%A3%E5%B8%82%E5%B8%82%E5%B8%82%E5%B8%82) — Bảo tàng bò đàn họa Yunlin tổng hợp lịch sử bò đàn họa, bao gồm hồ sơ về việc các đoàn bò đàn họa bị ép biểu diễn các câu chuyện Nhật Bản sau quy định cấm trống nhạc năm 1937, thay đổi âm nhạc bằng nhạc Tây.
+[^4]: [Lịch sử bò đàn họa Đài Loan — Bảo tàng bò đàn họa Yunlin](https://sites.google.com/view/yunlinpuppet/%E5%B8%83%E8%A2%8B%E6%88%B2%E7%9A%84%E6%BA%90%E6%B5%81-about-bodehi/%E5%8F%B0%E7%81%A3%E5%B8%83%E8%A2%8B%E6%88%B2%E5%A4%A7%E4%BA%8B%E8%A8%98-memorabilia) — Bảo tàng bò đàn họa Yunlin tổng hợp lịch sử bò đàn họa, bao gồm hồ sơ về việc các đoàn bò đàn họa bị ép biểu diễn các câu chuyện Nhật Bản sau quy định cấm trống nhạc năm 1937, thay đổi âm nhạc bằng nhạc Tây.
 
-[^5]: [Phát triển và biến đổi của bò đàn họa Đài Loan — Bảo tàng bò đàn họa Yunlin](https://sites.google.com/view/yunlinpuppet/%E5%B8%83%E8%A2%8B%E6%88%B2%E7%9A%84%E6%BA%90%E6%B5%81-about-bodehi/%E5%8F%B0%E7%81%A3%E5%B8%82%E5%B8%82%E5%B8%82%E5%B8%82) — Miêu tả chi tiết về chính sách trong thời kỳ hoàng quốc yêu cầu biểu diễn bằng tiếng Nhật, sử dụng nhạc cổ điển Tây thay cho nhạc Nam và Bắc quan, và tác động của công nghệ sân khấu mới trong giai đoạn này đến bò đàn họa ánh sáng vàng sau này.
+[^5]: [Phát triển và biến đổi của bò đàn họa Đài Loan — Bảo tàng bò đàn họa Yunlin](https://sites.google.com/view/yunlinpuppet/%E5%B8%83%E8%A2%8B%E6%88%B2%E7%9A%84%E6%BA%90%E6%B5%81-about-bodehi/%E5%8F%B0%E7%81%A3%E5%B8%83%E8%A2%8B%E6%88%B2%E7%9A%84%E7%99%BC%E5%B1%95%E8%88%87%E8%AE%8A%E9%81%B7-the-development-of-taiwanese-puppetry-po-te-hi) — Miêu tả chi tiết về chính sách trong thời kỳ hoàng quốc yêu cầu biểu diễn bằng tiếng Nhật, sử dụng nhạc cổ điển Tây thay cho nhạc Nam và Bắc quan, và tác động của công nghệ sân khấu mới trong giai đoạn này đến bò đàn họa ánh sáng vàng sau này.
 
 [^6]: [Những ngày không có truyền hình — Ánh sáng vàng rực rỡ, nghìn dải hoạng của bò đàn họa ánh sáng vàng | Câu chuyện StoryStudio](https://storystudio.tw/article/gushi/puppet-show) — Giải thích cách bò đàn họa di chuyển từ chùa chiến vào rạp chiếu phim sau chiến tranh, kích thước đầu bò đàn họa to hơn, sân khấu đa tầng trang trí màu sắc, và qua đó khẳng định kỷ nguyên bò đàn họa ánh sáng vàng vào năm 1953 với vở《Đại hiệp trăm cây cỏ》.
 
@@ -97,6 +97,6 @@ Vô hạn Huyền tự thành là người hâm mộ của Lửa nam châm, đi�
 
 [^8]: [Lửa nam châm "vàng" — Tạp chí Đài Loan Pháp thoát](https://www.taiwan-panorama.com/Articles/Details?Guid=d8ccfb34-6ed9-49b2-96bb-b8dcb96de1fc) — Tạp chí Đài Loan Pháp thoát ghi lại quá trình chuyển đổi của bò đàn họa Lửa nam châm từ năm 1988 sang thị trường cho thuê DVD, xây dựng kênh phát hành độc lập, cùng hành trình của anh em Huang Thăng Huy và Huang Văn Trí thành lập thương hiệu độc lập.
 
-[^9]: [Đường Lê Kiếm Du Ký — Wikipedia, bách khoa toàn thư tự do](https://zh.wikipedia.org/zh-tw/%E6%9D%B1%E9%9B%A2%E5%8A%8D%E9%81%8E%E7%B4%80) — Thông tin đầy đủ về sản phẩm hợp sản Đài-Nhật《Thunderbolt Fantasy Đường Lê Kiếm Du Ký》, bao gồm việc phát sóng đồng thời ở Đài Loan và Nhật Bản vào tháng 7 năm 2016, vai trò của biên tập viên Vô hạn Huyền, sự hợp tác giữa đa phương tiện Lửa nam châm và công ty Nhật Bản Nitro+ dựa trên trải nghiệm tại triển lãm Đài Bắc.
+[^9]: [Đường Lê Kiếm Du Ký — Wikipedia, bách khoa toàn thư tự do](https://zh.wikipedia.org/zh-tw/%E6%9D%B1%E9%9B%A2%E5%8A%8D%E9%81%8A%E7%B4%80) — Thông tin đầy đủ về sản phẩm hợp sản Đài-Nhật《Thunderbolt Fantasy Đường Lê Kiếm Du Ký》, bao gồm việc phát sóng đồng thời ở Đài Loan và Nhật Bản vào tháng 7 năm 2016, vai trò của biên tập viên Vô hạn Huyền, sự hợp tác giữa đa phương tiện Lửa nam châm và công ty Nhật Bản Nitro+ dựa trên trải nghiệm tại triển lãm Đài Bắc.
 
 [^10]: [Bò đàn họa Đài Loan — Wikipedia, bách khoa toàn thư tự do](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E5%B8%83%E8%A2%8B%E6%88%B2) — Wikipedia tổng hợp các đặc điểm âm nhạc của hai truyền thống Nam và Bắc quan của bò đàn họa Đài Loan (nhạc Nam quan đàn tranh vs nhạc Bắc quan trống sáo trầu), phong cách điệu nghệ, và vị trí địa lý của hai truyền thống sông Quan và sông Zhang trên Đài Loan.

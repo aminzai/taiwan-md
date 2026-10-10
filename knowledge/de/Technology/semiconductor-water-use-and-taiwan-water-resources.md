@@ -171,10 +171,10 @@ Das ist der Kern, warum Halbleiter-Wasserverbrauch verstanden werden muss: Er l�
 
 ## Weiterführende Literatur
 
-- [KI-Hardware-Lieferkette](/technology/AI硬體供應鏈) — Wie Taiwan Cloud-Nachfrage in auslieferbare Maschinen verwandelt.
-- [Taiwans Strom und Halbleiter](/technology/台灣的電力與半導體) — Die Stromrechnung hinter der KI-Lieferkette.
-- [KI-Lieferkette Auslandswerke](/technology/AI供應鏈海外設廠) — Warum andere Länder auch Teile der Fertigung und Infrastrukturpressure übernehmen wollen.
-- [Entwicklung der Technologieparks](/technology/科技園區發展) — Wie sich Halbleiter-Cluster in Taiwans Land und Städte ausbreiteten.
+- [KI-Hardware-Lieferkette](/de/technology/ai-hardware-supply-chain) — Wie Taiwan Cloud-Nachfrage in auslieferbare Maschinen verwandelt.
+- [Taiwans Strom und Halbleiter](/de/technology/taiwan-electricity-and-semiconductors) — Die Stromrechnung hinter der KI-Lieferkette.
+- [KI-Lieferkette Auslandswerke](/de/technology/ai-supply-chain-overseas-manufacturing) — Warum andere Länder auch Teile der Fertigung und Infrastrukturpressure übernehmen wollen.
+- [Entwicklung der Technologieparks](/de/technology/science-park-development) — Wie sich Halbleiter-Cluster in Taiwans Land und Städte ausbreiteten.
 
 ## Bildquellen
 

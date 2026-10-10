@@ -19,7 +19,7 @@ tags:
     'Prosesi Keagamaan',
     'Pohon Li Mei',
   ]
-subcategory: 'Kota dan Geografi Manusia'
+subcategory: '城市與人文地理'
 author: 'idlccp1984'
 featured: false
 lastVerified: 2026-04-29
@@ -28,6 +28,7 @@ readingTime: 18
 translatedFrom: 'Geography/北大特區.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:df7c1aaff4786133'
+sourceBodyHash: 'sha256:5edd055f43181f0e'
 translatedAt: '2026-09-15T20:23:28.626461+00:00'
 ---
 
@@ -164,7 +165,7 @@ Pada tahun 2026, ketika kereta Jalur San Ying secara resmi memasuki area tersebu
 ## Bacaan Lanjutan
 
 - [Perkembangan Perkotaan Taiwan dan Kesenjangan Desa-Kota](/id/geography/taiwan-urban-development-and-rural-urban-divide) — Menempatkan Taipei Special Zone dalam konteks jangka panjang zonasi rekayasa ulang dan ekspansi kota di Taiwan.
-- [Pusat Kota Xinshi Linkou](/geography/林口新市鎮) — Membandingkan bagaimana pusat kota baru yang juga pernah dijuluki "kota hantu" mencapai kematangan.
+- [Pusat Kota Xinshi Linkou](/id/geography/linkou-new-town) — Membandingkan bagaimana pusat kota baru yang juga pernah dijuluki "kota hantu" mencapai kematangan.
 - [Teh Sanxia](/id/food/sanxia-tea) — Bacaan lanjutan tentang lapisan budaya di balik kota lama Sanxia dan industri lokal.
 
 ## Referensi

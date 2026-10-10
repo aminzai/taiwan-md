@@ -12,7 +12,7 @@ tags:
     'Phần cứng AI',
     'Chuỗi cung ứng',
   ]
-subcategory: 'Bán dẫn và Phần cứng'
+subcategory: '半導體與硬體'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-11
@@ -29,6 +29,7 @@ imageLicense: 'CC BY-SA 3.0'
 translatedFrom: 'Technology/台灣的電力與半導體.md'
 sourceCommitSha: '250410eae'
 sourceContentHash: 'sha256:739eb8c857d7b377'
+sourceBodyHash: 'sha256:814f9eb8b97792cf'
 sourceBody_hash: 'sha256:814f9eb8b97792cf'
 translatedAt: '2026-07-24T15:52:20+08:00'
 ---
@@ -178,8 +179,8 @@ Ngành bán dẫn khiến Đài Loan được thế giới cần đến. Còn đ
 ## Đọc thêm
 
 - [Chuỗi cung ứng phần cứng AI](/vi/technology/ai-hardware-supply-chain) — Cách Đài Loan biến nhu cầu đám mây thành máy móc có thể xuất khẩu.
-- [Nước dùng trong bán dẫn và tài nguyên nước Đài Loan](/technology/半導體用水與台灣水資源) — Cách sản xuất wafer tác động đến hồ chứa, hạn hán và quản lý nước tái sử dụng.
-- [Đặt nhà máy chuỗi cung ứng AI tại nước ngoài](/technology/AI供應鏈海外設廠) — Việc đặt nhà máy ở nước ngoài gắn kết chuỗi cung ứng, điện năng và hạ tầng địa phương như thế nào.
+- [Nước dùng trong bán dẫn và tài nguyên nước Đài Loan](/vi/technology/semiconductor-water-use-and-taiwan-water-resources) — Cách sản xuất wafer tác động đến hồ chứa, hạn hán và quản lý nước tái sử dụng.
+- [Đặt nhà máy chuỗi cung ứng AI tại nước ngoài](/vi/technology/ai-supply-chain-overseas-manufacturing) — Việc đặt nhà máy ở nước ngoài gắn kết chuỗi cung ứng, điện năng và hạ tầng địa phương như thế nào.
 - [Doanh nghiệp Đài Loan: TSMC](/vi/economy/tsmc) — Mô hình đúc chip thuần túy đã trở thành nút thắt của chip tiên tiến toàn cầu như thế nào.
 
 ## Nguồn ảnh

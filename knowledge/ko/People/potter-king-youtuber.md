@@ -4,7 +4,7 @@ description: '포터왕(천자진)의 직업 인생 진화는 대만 창작자�
 date: 2026-04-20
 category: 'People'
 tags: ['포터왕', '디지털주권', '인지전', '인플루언서재산권', '법적게임']
-subcategory: '網紅與媒體'
+subcategory: '數位與媒體'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-01-01

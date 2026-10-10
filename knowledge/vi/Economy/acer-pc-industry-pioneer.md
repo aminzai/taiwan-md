@@ -12,7 +12,7 @@ tags:
     'Toàn cầu hóa',
     'Đường cong nụ cười',
   ]
-subcategory: 'Tiểu sử doanh nhân'
+subcategory: '企業列傳'
 author: 'Taiwan.md'
 readingTime: 13
 featured: false
@@ -197,11 +197,11 @@ _Kênh chính thức TEDxTaipei, năm 2012: Thi Chấn Vinh 〈Nói về Vương
 
 **Mở rộng đọc**:
 
-- [Thi Chấn Vinh](/people/Thi-Chấn-Vinh) — Người vẽ đường cong nụ cười, hai lần quay lại chữa cháy người sáng lập Acer, từ cha đỡ đầu công nghệ tới chỉ làm công ích xã hội
-- [Doanh nghiệp Đài Loan: Wistron](/economy/Doanh-nghiệp-Đài-Loan-Wistron) — Công ty con gia công được coi là bất lợi nhất lúc bấy giờ bị tách ra, bò lên đỉnh của đường cong nụ cười ở thời đại AI
-- [Doanh nghiệp Đài Loan: Asus](/economy/Doanh-nghiệp-Đài-Loan-Asus) — Năm 2008 tách gia công thành Hòa Kế, cách tách rời con đường khác, giá trị thị trường hiện tại ngược lạc Acer
-- [Computex: Ba triển lãm máy tính quốc tế lớn đã đóng hai cái, cái còn lại lớn ở Đài Bắc](/technology/Computex) — Sân khấu ba mươi năm nửa cơn bạo động Acer, cũng là sân khấu chính hàng năm của ngành sản xuất Đài Loan
-- [Chuyển hóa nâng cấp ngành sản xuất Đài Loan](/economy/Chuyển-hóa-nâng-cấp-ngành-sản-xuất-Đài-Loan) — Sau đường cong nụ cười, bò từ gia công giữa tới hai đầu, có phải là con đường duy nhất không?
+- [Thi Chấn Vinh](/vi/people/stan-shih) — Người vẽ đường cong nụ cười, hai lần quay lại chữa cháy người sáng lập Acer, từ cha đỡ đầu công nghệ tới chỉ làm công ích xã hội
+- [Doanh nghiệp Đài Loan: Wistron](/vi/economy/wistron-global-manufacturing-transformation-pioneer) — Công ty con gia công được coi là bất lợi nhất lúc bấy giờ bị tách ra, bò lên đỉnh của đường cong nụ cười ở thời đại AI
+- [Doanh nghiệp Đài Loan: Asus](/vi/economy/asus-computer) — Năm 2008 tách gia công thành Hòa Kế, cách tách rời con đường khác, giá trị thị trường hiện tại ngược lạc Acer
+- [Computex: Ba triển lãm máy tính quốc tế lớn đã đóng hai cái, cái còn lại lớn ở Đài Bắc](/vi/technology/computex) — Sân khấu ba mươi năm nửa cơn bạo động Acer, cũng là sân khấu chính hàng năm của ngành sản xuất Đài Loan
+- [Chuyển hóa nâng cấp ngành sản xuất Đài Loan](/vi/economy/industrial-transformation-from-manufacturing-to-innovation) — Sau đường cong nụ cười, bò từ gia công giữa tới hai đầu, có phải là con đường duy nhất không?
 
 ## Nguồn ảnh
 

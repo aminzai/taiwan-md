@@ -267,12 +267,12 @@ Nokia 3310の充電器4.56W、2025年の急速充電器240W。52倍の差。こ�
 - [台湾企業：日月光半導体](/ja/economy/taiwan-enterprise-ase-semiconductor) — 封止検査産業世界首位、CoWoS以外の後工程エコシステム
 - [造山者：世紀の賭け](/ja/art/mountain-makers-tsmc-documentary) — 蕭菊貞2025年ドキュメンタリー、5年で80名以上の半導体先駆者に取材、2026年パデュー／ウィスコンシン／ミシガン三大CHIPS法投資拠点へ
 - [呉大猷](/ja/people/tai-yu-wu) — 1980年代台湾が半導体に賭けた同時期、中研院長として基礎科学の重要性を堅持、台湾科研体制の基石を築く
-- [黄崇仁](/people/黃崇仁) — 力晶／力積電創業者、台湾DRAM、他社プロセスライセンス上に自社工場を建てた道：シェア23.2%から6.3%へ、この産業で最も語られない一段
+- [黄崇仁](/ja/people/frank-huang-psmc) — 力晶／力積電創業者、台湾DRAM、他社プロセスライセンス上に自社工場を建てた道：シェア23.2%から6.3%へ、この産業で最も語られない一段
 - [台湾ロボット産業](/ja/technology/taiwan-robotics-industry) — 半導体世界一の島が、ロボット時代にはなぜ補習生なのか？ NCAIR発足から見る産業断層
 - [台湾株式市場と資本市場](/ja/economy/taiwan-stock-market) — 2026年世界第6位の時価総額を支えるサプライチェーン生態系が資本市場にどう映るか
 - [台湾タングステンサプライチェーン](/ja/technology/taiwan-tungsten-supply-chain) — 六フッ化タングステンがコンタクトプラグと3D NANDワード線を埋める、台湾にタングステン鉱山はないがリサイクル精製でこの原料の中流に立つ
 - [台湾人工知能学校](/ja/technology/taiwan-ai-academy) — AIA 8年間で育成した万名のAIエンジニアが如何に半導体既存ICTチェーンへ戻り、台湾のソフトウェア側を補強するか
-- [Computex：三大国際コンピュータ展が二つ消え、残った一つが台北に根付く](/ja/technology/computex-taipei) — TSMCのCoWoSと先進プロセス、毎年5月末にこの45歳の台北コンピュータ展で世界のAI巨頭と握手
+- [Computex：三大国際コンピュータ展が二つ消え、残った一つが台北に根付く](/ja/technology/computex) — TSMCのCoWoSと先進プロセス、毎年5月末にこの45歳の台北コンピュータ展で世界のAI巨頭と握手
 - [台湾科学園区](/ja/technology/science-park-development) — 竹科・南科・中科三園区、半導体集落の物理的担い手、シリコンシールドの地理的中心
 
 ## 画像出典

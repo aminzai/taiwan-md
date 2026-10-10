@@ -121,8 +121,8 @@ Es wurde zu Staatsbankett, es wurde als das wichtigste Wahrzeichenreisgericht ge
 
 ## Weiterführende Literatur
 
-- [Taiwan Straßenessen](/food/台灣手路菜) — Kulturelle Kontexte der taiwanesischen Hausmannskost
-- [Taiwan Bankette](/food/台灣辦桌文化) — Eine weitere Tradition, die von der Masse stammt
+- [Taiwan Straßenessen](/de/food/taiwan-specialty-home-cooking) — Kulturelle Kontexte der taiwanesischen Hausmannskost
+- [Taiwan Bankette](/de/food/taiwan-banquet-culture) — Eine weitere Tradition, die von der Masse stammt
 
 ---
 

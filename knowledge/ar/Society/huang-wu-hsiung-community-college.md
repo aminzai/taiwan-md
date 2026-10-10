@@ -11,7 +11,7 @@ tags:
     'تعليم الكبار',
     'الدراسات المحلية',
   ]
-subcategory: 'التعليم'
+subcategory: '教育'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20
@@ -20,6 +20,7 @@ readingTime: 8
 translatedFrom: 'Society/社區大學黃武雄.md'
 sourceCommitSha: '097c838b2'
 sourceContentHash: 'sha256:db0507a661e567d8'
+sourceBodyHash: 'sha256:56a4506a2e90295b'
 translatedAt: '2026-09-10T23:32:59.177817+00:00'
 ---
 

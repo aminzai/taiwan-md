@@ -211,7 +211,7 @@ Auch wenn Lee bereits in Rente gegangen ist, wird der Name Lin-Yang-Paarung ewig
 **Weiterführende Lektüre**:
 
 - [Kuo Ch'un](/de/people/kuo-hsing-chun-olympic-weightlifting-champion) — Goldmedaille beim Gewichtheben bei den Olympischen Spielen in Tokio, ein Vertreter der taiwanesischen olympischen Goldgeneration wie Lin-Yang-Paarung
-- [Lee Yang](/people/李洋) — Die persönliche Biografie von Lee Yang auf der rechten Seite von Lin-Yang-Paarung: Von Vaters Aussagen „kein Badmintontyp“ bis zum jüngsten Sportminister der Geschichte
+- [Lee Yang](/de/people/lee-yang-badminton) — Die persönliche Biografie von Lee Yang auf der rechten Seite von Lin-Yang-Paarung: Von Vaters Aussagen „kein Badmintontyp“ bis zum jüngsten Sportminister der Geschichte
 - [Dai Ziying](/de/people/tai-tzu-ying) — Die weltberühmte Einzelspielerin aus der Zeit von Lin-Yang-Paarung, ein weiteres Gesicht der taiwanesischen olympischen Goldgeneration
 
 ## Referenzen

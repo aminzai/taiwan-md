@@ -281,7 +281,7 @@ _台北南港展覧館のComputex会場です。毎年6月、世界中の買い�
 - [Computex：台北のコンピューターショーがいかにして世界のAI開幕式となったか](/ja/technology/computex) — あのロゴが輝く舞台は、台湾のテクノロジー業界にとっての年次主戦場です。
 - [AI人工知能産業](/ja/technology/artificial-intelligence-industry) — NVIDIAチップの製造からAIエコシステムの構築まで、AIの波の中での台湾の位置づけ。
 - [台湾のAI開発と未来戦略](/ja/technology/artificial-intelligence-development-strategy) — 主権AI、TAIDE、そして受託製造からの脱却を目指す国家的な企て。
-- [台湾のテクノロジー物語：100点ものチップと60点のマイク](/technology/台灣科技說故事) — 同じチップに対する二つの語り方：NVIDIAが利益を吸い上げる物語的プレミアムと、台湾のテクノロジーがどう学ぶべきか。
+- [台湾のテクノロジー物語：100点ものチップと60点のマイク](/ja/technology/taiwan-tech-storytelling) — 同じチップに対する二つの語り方：NVIDIAが利益を吸い上げる物語的プレミアムと、台湾のテクノロジーがどう学ぶべきか。
 - [台湾企業：鴻海精密](/ja/economy/foxconn-precision-industry) — 世界の4割のAIラックを組み立てる受託製造の巨人、微笑曲線の底で最も大きな手を持つ存在。
 
 ## 画像出典

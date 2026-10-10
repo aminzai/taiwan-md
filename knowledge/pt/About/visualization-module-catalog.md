@@ -331,7 +331,7 @@ Pesquisas recentes também deram lastro a esta rota: precisão de IA multimodal 
 **Leitura complementar**:
 
 - [Habitação Pública e Justiça Habitacional](/pt/society/public-housing-justice) — A história completa por trás destes dados de habitação: como a habitação pública virou escada de ativos, fonte da maioria dos módulos desta página
-- [Veja os 22 condados/cidades de Taiwan com dados](/geography/用數據看台灣22縣市) — Dados de envelhecimento do gráfico de pontos, pirâmide, mapa de ladrilhos e caixa de explicação vêm da análise completa dos 22 condados/cidades deste artigo
+- [Veja os 22 condados/cidades de Taiwan com dados](/pt/geography/data-taiwan-22-cities) — Dados de envelhecimento do gráfico de pontos, pirâmide, mapa de ladrilhos e caixa de explicação vêm da análise completa dos 22 condados/cidades deste artigo
 - [Taiwan e o Debate Nuclear](/pt/society/taiwan-nuclear-debate) — A história completa daqueles três referendos das barras empilhadas: ganhou o debate, perdeu o sistema
 - [Lei de Saúde](/pt/society/medical-care-act) — A história completa daqueles números de razão enfermeiro-paciente dos três turnos dos pequenos múltiplos: a lei escreve quantas camas cuidar, não escreve se existem aquelas mãos
 - [Grande Recall](/pt/history/great-recall-movement-2024) — O depois daquela linha tracejada da maioria do arco de assentos: como o Yuan Legislativo de três partidos sem maioria chegou a 31 casos de recall
@@ -351,7 +351,7 @@ Este artigo usa 1 imagem licenciada CC, em cache em `public/article-images/socie
 
 [^3]: [Comunicado do Yuan Executivo sobre revogação da Lei de Habitação Nacional](https://www.ey.gov.tw/Page/9277F759E41CCD91/d4afaf10-ece5-4b4f-9482-35ce16bdc657) — Total acumulado de unidades de habitação pública (aprox. 390 mil+ unidades) e outros dados oficiais.
 
-[^4]: [Dados estatísticos populacionais do Departamento de Administração Doméstica do Ministério do Interior](https://www.ris.gov.tw/app/portal/346) — Taxa de população ≥ 65 anos e índice de envelhecimento por condado/cidade no final de 2025, fonte do gráfico de pontos, pirâmide, mapa de ladrilhos e caixa de explicação desta página; cadeia completa de verificação ver 〈[Veja os 22 condados/cidades de Taiwan com dados](/geography/用數據看台灣22縣市)〉.
+[^4]: [Dados estatísticos populacionais do Departamento de Administração Doméstica do Ministério do Interior](https://www.ris.gov.tw/app/portal/346) — Taxa de população ≥ 65 anos e índice de envelhecimento por condado/cidade no final de 2025, fonte do gráfico de pontos, pirâmide, mapa de ladrilhos e caixa de explicação desta página; cadeia completa de verificação ver 〈[Veja os 22 condados/cidades de Taiwan com dados](/pt/geography/data-taiwan-22-cities)〉.
 
 [^5]: [Comissão Eleitoral Central - Resultado do Caso 16 do Referendo de 2018 (PDF)](https://web.cec.gov.tw/api/file/0132581c-18b5-4951-bc24-3cc083924666.pdf) — Percentuais de Sim nos três referendos nucleares (59%/47%/74%) são resultados oficiais da Comissão Eleitoral; cadeia de verificação caso a caso ver 〈[Taiwan e o Debate Nuclear](/pt/society/taiwan-nuclear-debate)〉.
 

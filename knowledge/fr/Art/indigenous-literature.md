@@ -10,7 +10,7 @@ tags:
     langues austronésiennes,
     revitalisation culturelle,
   ]
-subcategory: 'Littérature'
+subcategory: '文學'
 category: 'Art'
 author: 'Taiwan.md'
 readingTime: 7

@@ -20,6 +20,15 @@ readingTime: '15min'
 lastVerified: '2026-04-13'
 lastHumanReview: true
 featured: false
+sporeLinks:
+  - id: 25
+    platform: 'threads'
+    date: '2026-04-13'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXDq1FZkddO'
+  - id: 27
+    platform: 'x'
+    date: '2026-04-13'
+    url: 'https://x.com/taiwandotmd/status/2043538702853644444'
 translatedFrom: 'Music/張懸與安溥.md'
 sourceCommitSha: 'f803d0b6b'
 sourceContentHash: 'sha256:27ef434e8d6b0605'
@@ -143,7 +152,7 @@ Cô không trả lời thẳng. Cô nói một điều khác [^30]:
 
 Rồi cô cúi đầu thật sâu trước những người đang giương cờ.
 
-Ngày hôm sau, 13 tháng 10, vẫn tại Lễ hội Takao Rock, Dương Đại Chính, giọng ca chính của [Diệt Hỏa Khí](/music/滅火器樂團/), dừng phần biểu diễn và dành gần bảy phút để nói về sự việc [^30][^32].
+Ngày hôm sau, 13 tháng 10, vẫn tại Lễ hội Takao Rock, Dương Đại Chính, giọng ca chính của [Diệt Hỏa Khí](/vi/music/fire-ex/), dừng phần biểu diễn và dành gần bảy phút để nói về sự việc [^30][^32].
 
 Anh không biện hộ cho An Phổ, cũng không tham gia lên án. Điều anh nói là vấn đề cấu trúc: “Đây là tình thế khó xử của một thời đại, cũng là tình thế khó xử của thị trường. Chúng tôi rất may mắn vì không phải suy nghĩ đến thị trường Trung Quốc. Nhưng vấn đề họ đối mặt không giống chúng tôi — sức cám dỗ khổng lồ, có lẽ còn là mong muốn nuôi sống nhiều người hơn.” “Họ” trong lời anh đồng thời chỉ An Phổ, ban nhạc Ngũ Nguyệt Thiên và Ngô Khảng Nhân — ba nghệ sĩ bị dư luận Đài Loan công kích trong cùng một tuần vì các bài đăng Quốc khánh trên Weibo [^32].
 
@@ -169,11 +178,11 @@ Có lẽ cô con gái cũng học được điều tương tự từ cha mình. 
 
 ## Đọc thêm
 
-- [Âm nhạc độc lập Đài Loan](/music/台灣獨立音樂/) — bối cảnh âm nhạc độc lập mà Trương Huyền thuộc về
+- [Âm nhạc độc lập Đài Loan](/vi/music/indie-music-scene/) — bối cảnh âm nhạc độc lập mà Trương Huyền thuộc về
 - [Lịch sử phát triển nhạc rock Đài Loan](/vi/music/taiwan-rock-from-underground-to-mainstream/) — từ thời kỳ cấm ca khúc đến Liên hoan Âm nhạc Đại dương
-- [Phong trào Sinh viên Hoa Hướng Dương](/society/太陽花學運/) — sau 30 giây đã làm thay đổi Đài Loan năm 2014
-- [Văn hóa lễ hội âm nhạc Đài Loan](/music/台灣音樂祭文化/) — từ Cống Liêu đến Lễ hội Takao Rock
-- [Dương Thừa Lâm](/people/楊丞琳) — hành trình 25 năm của một nữ ca sĩ Hoa ngữ theo một hướng khác, từ được người khác sản xuất đến tự sản xuất; một phiên bản cùng thế hệ để đối chiếu với quá trình An Phổ “từ ca sĩ thiếu nữ trở thành tác giả toàn diện”
+- [Phong trào Sinh viên Hoa Hướng Dương](/vi/society/sunflower-movement/) — sau 30 giây đã làm thay đổi Đài Loan năm 2014
+- [Văn hóa lễ hội âm nhạc Đài Loan](/vi/music/taiwan-music-festival-culture/) — từ Cống Liêu đến Lễ hội Takao Rock
+- [Dương Thừa Lâm](/vi/people/rainie-yang) — hành trình 25 năm của một nữ ca sĩ Hoa ngữ theo một hướng khác, từ được người khác sản xuất đến tự sản xuất; một phiên bản cùng thế hệ để đối chiếu với quá trình An Phổ “từ ca sĩ thiếu nữ trở thành tác giả toàn diện”
 
 ## Tài liệu tham khảo
 

@@ -13,7 +13,7 @@ tags:
     '厳家淦',
     '戒厳時期',
   ]
-subcategory: '戦後と威権'
+subcategory: '戰後與威權'
 category: 'History'
 author: 'Taiwan.md'
 readingTime: 18

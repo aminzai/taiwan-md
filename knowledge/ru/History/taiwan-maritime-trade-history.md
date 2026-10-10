@@ -122,4 +122,4 @@ translatedAt: '2026-08-04T20:19:14+08:00'
 
 - [Период голландцев, испанцев, Минь-Чжэнь](/ru/history/dutch-spanish-and-koxinga-era)
 - [Период Цинь](/ru/history/qing-dynasty-rule)
-- [Прибрежная рельеф и морские ландшафты Тайваня](/geography/台灣海岸地形與海洋地景)
+- [Прибрежная рельеф и морские ландшафты Тайваня](/ru/geography/taiwan-coastal-landforms-and-seascapes)

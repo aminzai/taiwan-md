@@ -210,13 +210,13 @@ Die letzte diplomatische Lebensader Afrikas hängt an einer Person. Das ist ihr 
 
 **Weiterführende Lektüre**:
 
-- [Taiwanische Partnerländer und internationale Diplomatie](/society/台灣邦交國與國際外交) — Die dreifache Struktur aus 12 anerkannten Ländern vs. 113 Auslandsposten vs. 177 visumfreie Ziele; Eswatini ist ein Schlüsselstück in Afrika.
+- [Taiwanische Partnerländer und internationale Diplomatie](/de/society/taiwan-diplomatic-allies-and-international-relations) — Die dreifache Struktur aus 12 anerkannten Ländern vs. 113 Auslandsposten vs. 177 visumfreie Ziele; Eswatini ist ein Schlüsselstück in Afrika.
 - [Lai Ching-te](/de/people/lai-ching-te) — Lai Ching-tes Entwicklung der außenpolitischen Argumentation vom Arzt aus Tainan zum Präsidenten der Republik China.
 - [Tsai Ing-wen](/de/people/tsai-ing-wen) — Die Präsidentin, die Eswatini zweimal besuchte; zwei Phasen der taiwanesischen Beziehungen zu Eswatini (2018 und 2023).
-- [Tamsui-Protest](/society/太陽花學運) — Wie Straßenproteste von 2014 zur Grundlage der Systemdiskussionen im Jahr 2024–2025 wurden.
-- [Zheng Xiu-Treffen 2026 und Wiedersehen zwischen Volksrepublik und Taiwan](/society/2026鄭習會與國共十年再會) — Die gleichzeitigen Beziehungen an der Taiwanstraße, um den größeren Hintergrund des chinesischen Drucks auf Taiwan zu verstehen.
-- [Kognitive Kriegsführung](/society/認知作戰) — Ein systematischer Rahmen für Sprachmanipulationen wie „Ratte“ oder „illegale Auswanderung“ durch China.
-- [Paraguay und Taiwan](/society/巴拉圭與台灣) — Der einzige Partner in Südamerika; eine andere Beziehung, die unter chinesischem Druck durch langfristige Zusammenarbeit Bestand hat.
+- [Tamsui-Protest](/de/society/sunflower-movement) — Wie Straßenproteste von 2014 zur Grundlage der Systemdiskussionen im Jahr 2024–2025 wurden.
+- [Zheng Xiu-Treffen 2026 und Wiedersehen zwischen Volksrepublik und Taiwan](/de/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Die gleichzeitigen Beziehungen an der Taiwanstraße, um den größeren Hintergrund des chinesischen Drucks auf Taiwan zu verstehen.
+- [Kognitive Kriegsführung](/de/society/cognitive-warfare-against-taiwan) — Ein systematischer Rahmen für Sprachmanipulationen wie „Ratte“ oder „illegale Auswanderung“ durch China.
+- [Paraguay und Taiwan](/de/society/paraguay-taiwan) — Der einzige Partner in Südamerika; eine andere Beziehung, die unter chinesischem Druck durch langfristige Zusammenarbeit Bestand hat.
 
 ## Bildquellen
 

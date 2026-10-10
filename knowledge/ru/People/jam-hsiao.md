@@ -4,7 +4,7 @@ description: 'От «короля вызовов» до «короля Золо�
 date: 2026-03-23
 author: 'Taiwan.md'
 category: 'People'
-subcategory: 'Музыка и исполнение'
+subcategory: '音樂與表演'
 tags:
   [
     'Музыка',

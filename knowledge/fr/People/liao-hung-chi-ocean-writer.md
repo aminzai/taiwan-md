@@ -85,4 +85,4 @@ Il a été écrivain en résidence à l'Université maritime de Taïwan et a ens
 
 [^12]: [Vers la Foire du livre de Francfort 2019 — L'île des récits présente la sagesse maritime et les paysages naturels de Taïwan](https://www.moc.gov.tw/News_Content.aspx?n=105&s=55824)
 
-[^13]: [Se faire le fiancé de la mer — L'écrivain-pêcheur Liao Hung-chi — Taiwan Panorama](https://www.taiwan-panorama.com/Articles/Details?Guid=34cd082e-844b-4398-8b0c-e240ae386c95&CatId=8&postname=%E9%A1%98%E5%81%9A%E5%A4%A9%E6%B5%B7%E7%9A%84%E6%96%B0%E9%83%8E%E2%94%80%E2%94%80%E6%BC%81%E5%A4%AB%E4%BD%9C%E5%AE%B6%E5%BB%96%E9%B4%BB%E5%9F%BA&srsltid=AfmBOorsgWpLab9EOqBHhxnx0ghU-RPBi-FLGjn3TVLbcz7q_Dp5PlDx)
+[^13]: [Se faire le fiancé de la mer — L'écrivain-pêcheur Liao Hung-chi — Taiwan Panorama](https://www.taiwan-panorama.com/Articles/Details?Guid=34cd082e-844b-4398-8b0c-e240ae386c95&CatId=8&postname=%E9%A1%98%E5%81%9A%E5%A4%A7%E6%B5%B7%E7%9A%84%E6%96%B0%E9%83%8E%E2%94%80%E2%94%80%E6%BC%81%E5%A4%AB%E4%BD%9C%E5%AE%B6%E5%BB%96%E9%B4%BB%E5%9F%BA&srsltid=AfmBOorsgWpLab9EOqBHhxnx0ghU-RPBi-FLGjn3TVLbcz7q_Dp5PlDx)

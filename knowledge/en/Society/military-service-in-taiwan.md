@@ -4,7 +4,7 @@ description: "From 1945 onward, Taiwan's military service has shifted from a thr
 date: 2026-07-17
 author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: 'Social Systems'
+subcategory: '社會制度'
 tags:
   [
     'Military Service',

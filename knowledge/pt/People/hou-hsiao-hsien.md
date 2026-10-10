@@ -4,7 +4,7 @@ description: 'Um poeta do cinema que recusou planos de detalhe e conquistou o mu
 date: 2026-03-24
 author: 'Taiwan.md'
 category: 'People'
-subcategory: 'Cinema e Teatro'
+subcategory: '電影與戲劇'
 tags:
   [
     'Hou Hsiao-hsien',

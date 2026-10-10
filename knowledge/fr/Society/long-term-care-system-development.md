@@ -10,7 +10,7 @@ tags:
     'Long-Term Care 2.0',
     'contradictions institutionnelles',
   ]
-subcategory: 'Protection sociale'
+subcategory: '社會福利'
 category: 'Society'
 author: 'Taiwan.md'
 featured: false

@@ -4,7 +4,7 @@ description: 'Từ "giải pháp cuối cùng" tới cơ sở hạ tầng hàng 
 date: 2026-04-14
 category: 'Lifestyle'
 tags: ['YouBike', 'di động thành phố', 'vận chuyển xanh', 'vi di động']
-subcategory: 'Giao thông và di chuyển'
+subcategory: '交通與移動'
 author: 'Wilson Chen'
 featured: false
 lastVerified: 2026-04-14

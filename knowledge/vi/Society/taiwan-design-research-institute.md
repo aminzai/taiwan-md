@@ -13,7 +13,7 @@ tags:
     'Trương Cơ Nghĩa',
     'Giải thưởng Thiết kế Kim Điểm',
   ]
-subcategory: 'Thiết kế và quản trị công'
+subcategory: '設計與公共治理'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-04
@@ -31,6 +31,7 @@ rationale:
 translatedFrom: 'Society/台灣設計研究院.md'
 sourceCommitSha: 'fa44ba5a9'
 sourceContentHash: 'sha256:31f2d67654f5ca72'
+sourceBodyHash: 'sha256:f7df18837078b48f'
 translatedAt: '2026-09-18T06:28:10.787766+00:00'
 ---
 
@@ -158,7 +159,7 @@ Chữ in trên tờ phiếu bầu trong tay bạn mang tên Source Han Sans. Có
 - [Chuyển đổi nâng cấp ngành công nghiệp Đài Loan](/vi/economy/industrial-transformation-from-manufacturing-to-innovation) — Câu chuyện đầy đủ từ "đảo gia công" tiến về giá trị gia tăng cao, "đồ vật trông như thế nào" mà Viện Nghiên cứu Thiết kế đặt cược là một nhánh ít được nhắc đến trên con đường này.
 - [Đài Truyền hình Công cộng](/vi/society/pts-public-television-service) — Cũng là một tổ chức tài團 pháp nhân công thiết, cũng là cơ quan đi dây giữa "tính công cộng" và "bị kiểm chứng".
 - [Kiến trúc Đài Loan](/vi/art/taiwanese-architecture) — Nghề chính của Trương Cơ Nghĩa, hiểu tại sao một người kiến trúc lại tin rằng thiết kế không gian có thể thay đổi khoảng cách giữa chính phủ và nhân dân.
-- [Viện Nghiên cứu Trung ương](/society/中央研究院) — Cũng là cơ quan nghiên cứu do nhà nước tài trợ, trực thuộc Phủ Tổng thống so với trực thuộc bộ hội, những việc có thể làm và những câu hỏi bị đặt ra đều không giống nhau.
+- [Viện Nghiên cứu Trung ương](/vi/society/academia-sinica) — Cũng là cơ quan nghiên cứu do nhà nước tài trợ, trực thuộc Phủ Tổng thống so với trực thuộc bộ hội, những việc có thể làm và những câu hỏi bị đặt ra đều không giống nhau.
 
 ## Nguồn hình ảnh
 

@@ -10,7 +10,7 @@ tags:
   - '칭수이 지열 발전소'
   - '지질 과학'
   - '온천 문화'
-subcategory: '지질과 지열'
+subcategory: '地質與地熱'
 category: 'Nature'
 author: 'Taiwan.md'
 readingTime: 15

@@ -123,10 +123,10 @@ Er wetterte öffentlich gegen die Schwarzmarkthändler, legte Zusatztermine auf 
 
 **Weiterführende Links**:
 
-- [EggPlantEgg (茄子蛋)](/music/茄子蛋) – Ebenfalls mit taiwanesischer Kreation im Mainstream angekommen, Golden Melody Best Newcomer 2019
-- [Taiwanesische Independent-Musik](/music/台灣獨立音樂) – Von der Underground- zur Streaming-Ära, wie sich das Independent-Ökosystem, zu dem Crowd Lu gehört, entwickelte
-- [Zhi Chang Ju (植劇場)](/art/植劇場) – Wang Xiao-dis Drama-Innovationsprojekt, Geburtsort von _Hua Jia Nan Zi Zhuan Da Ren_
-- [Taiwanesischer Hip-Hop und Rap](/music/台灣嘻哈與饒舌發展) – Ein weiterer Evolutionspfad der taiwanischen Musik derselben Epoche
+- [EggPlantEgg (茄子蛋)](/de/music/eggplant-egg-band) – Ebenfalls mit taiwanesischer Kreation im Mainstream angekommen, Golden Melody Best Newcomer 2019
+- [Taiwanesische Independent-Musik](/de/music/indie-music-scene) – Von der Underground- zur Streaming-Ära, wie sich das Independent-Ökosystem, zu dem Crowd Lu gehört, entwickelte
+- [Zhi Chang Ju (植劇場)](/de/art/qseries-drama-platform) – Wang Xiao-dis Drama-Innovationsprojekt, Geburtsort von _Hua Jia Nan Zi Zhuan Da Ren_
+- [Taiwanesischer Hip-Hop und Rap](/de/music/taiwan-hip-hop-and-rap) – Ein weiterer Evolutionspfad der taiwanischen Musik derselben Epoche
 
 ## Quellen
 

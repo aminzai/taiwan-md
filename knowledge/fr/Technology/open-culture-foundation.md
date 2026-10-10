@@ -19,6 +19,15 @@ readingTime: 13
 lastVerified: 2026-06-04
 lastHumanReview: false
 featured: false
+sporeLinks:
+  - id: 117
+    platform: 'threads'
+    date: '2026-06-03'
+    url: 'https://www.threads.com/@taiwandotmd/post/DZIRG2tk6mZ'
+  - id: 118
+    platform: 'x'
+    date: '2026-06-03'
+    url: 'https://x.com/taiwandotmd/status/2062197280984399945'
 translatedFrom: 'Technology/開放文化基金會.md'
 sourceCommitSha: 'c8e5ac9e'
 sourceContentHash: 'sha256:c4ab423af923a984'

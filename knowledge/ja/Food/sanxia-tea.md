@@ -5,7 +5,8 @@ date: 2026-04-26
 author: 'Taiwan.md'
 category: 'Food'
 subcategory: 'LocalSpecialty'
-tags: [
+tags:
+  [
     三峡,
     碧螺春,
     蜜香紅茶,
@@ -123,7 +124,7 @@ translatedAt: '2026-05-17T05:34:50+08:00'
 
 [^13]: [明德高校校本特色課程：三峡学-学三峡](https://expo.efroip.tw/ischool/publish_page/18/) — 新北市立明德高校による跨領域授業で生徒の地域への愛着を育む取り組みの紹介
 
-[^14]: [北大高校校訂課程の実践：鳶山峡客行](https://www.yphs.tp.edu.jp/wp-content/uploads/doc/yp1966/%E6%A0%A1%E8%A8%82%E8%AA%B2%E7%A8%8B%E7%9A%84%E5%AF%A6%E8%B8%90-%E9%B3%B6%E5%B1%B1%E5%B3%BD%E5%AE%A2%E8%A1%8C-%E6%9F%93%E7%B9%AA%E7%A2%A7%E8%8C%B6%E9%84%89%E7%9A%84%E5%89%B5%E7%94%9F%E5%82%B3%E5%A5%87.pdf) — 北大高校による茶と染めの二大テーマを融合させた地方創生と国際交流の取り組みの共有
+[^14]: [北大高校校訂課程の実践：鳶山峡客行](https://www.yphs.tp.edu.tw/wp-content/uploads/doc/yp1966/%E6%A0%A1%E8%A8%82%E8%AA%B2%E7%A8%8B%E7%9A%84%E5%AF%A6%E8%B8%90-%E9%B3%B6%E5%B1%B1%E5%B3%BD%E5%AE%A2%E8%A1%8C-%E6%9F%93%E7%B9%AA%E7%A2%A7%E8%8C%B6%E9%84%89%E7%9A%84%E5%89%B5%E7%94%9F%E5%82%B3%E5%A5%87.pdf) — 北大高校による茶と染めの二大テーマを融合させた地方創生と国際交流の取り組みの共有
 
 [^15]: [三峡中学校三鶯体験学習：手製龍井茶の製作体験](https://cci.ntpc.edu.tw/cht/index.php?code=list&ids=25&class_id=17020) — 新北市三鶯社区大学による三峡中学校の生徒が手製龍井茶の製作と文史ウォークに参加した実践の記録
 

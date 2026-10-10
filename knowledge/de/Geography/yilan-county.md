@@ -19,7 +19,7 @@ tags:
     'Tongwan Festival',
     '22 Counties and Cities Series',
   ]
-subcategory: 'County'
+subcategory: '縣市'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-18
@@ -34,6 +34,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Yilan_Plain_and_Gueishan_I
 translatedFrom: 'Geography/宜蘭縣.md'
 sourceCommitSha: '7f3ddf123'
 sourceContentHash: 'sha256:58d83174a1d3bd65'
+sourceBodyHash: 'sha256:13a49441594ebd54'
 translatedAt: '2026-09-12T06:46:05.635103+00:00'
 ---
 
@@ -243,13 +244,13 @@ Wenn Sie das nächste Mal nach Yilan reisen, besuchen Sie nicht nur die Thermalq
 
 ## Weiterführende Lektüre
 
-- [Guishan-Insel](/geography/龜山島) — Die Geschichte des „unveränderlichen Koordinatenpunkts“ im Meer jenseits der Lanyang-Ebene: aktiver Vulkan, Umsiedlung ohne Entschädigung, 22 Jahre Militärsperrgebiet und das Zuhause, zu dem die Inselbewohner nicht zurückkehren können
-- [Taiwanische Verwaltungseinheiten](/geography/台灣行政區劃) — Die administrative Entwicklung von der Gründung des Ga'ma-lan-Distrikts im Jahr 1812 bis zur Umbenennung in den Yilan County im Jahr 1875 und dem japanischen Verwaltungsregime ab 1895
-- [Küstenmorphologie und Meereslandschaften Taiwans](/geography/台灣海岸地形與海洋地景) — Die geologischen Zusammenhänge der Vulkaninsel Guishan, des Lanyang-Sedimentplattform und des Suhua-Küstenstreifens
+- [Guishan-Insel](/de/geography/gueishan-island) — Die Geschichte des „unveränderlichen Koordinatenpunkts“ im Meer jenseits der Lanyang-Ebene: aktiver Vulkan, Umsiedlung ohne Entschädigung, 22 Jahre Militärsperrgebiet und das Zuhause, zu dem die Inselbewohner nicht zurückkehren können
+- [Taiwanische Verwaltungseinheiten](/de/geography/administrative-divisions-of-taiwan) — Die administrative Entwicklung von der Gründung des Ga'ma-lan-Distrikts im Jahr 1812 bis zur Umbenennung in den Yilan County im Jahr 1875 und dem japanischen Verwaltungsregime ab 1895
+- [Küstenmorphologie und Meereslandschaften Taiwans](/de/geography/taiwan-coastal-landforms-and-seascapes) — Die geologischen Zusammenhänge der Vulkaninsel Guishan, des Lanyang-Sedimentplattform und des Suhua-Küstenstreifens
 - [Landnutzung und Industrieverteilung in Taiwan](/de/geography/taiwan-agricultural-landscapes-and-industry-belts) — Die Fragmentierung der landwirtschaftlichen Flächen in der Lanyang-Ebene im Kontext der gesamten taiwanesischen Agrarlandschaft
-- [Städtische Entwicklung und Stadt-Land-Disparitäten in Taiwan](/geography/台灣都市發展與城鄉差距) — Der Satelliteneffekt von Yilan, der nach der Eröffnung des Xueshan-Tunnels in den Tageslebensraum Taipeis integriert wurde
+- [Städtische Entwicklung und Stadt-Land-Disparitäten in Taiwan](/de/geography/taiwan-urban-development-and-rural-urban-divide) — Der Satelliteneffekt von Yilan, der nach der Eröffnung des Xueshan-Tunnels in den Tageslebensraum Taipeis integriert wurde
 - [Thermallandschaften Taiwans](/de/geography/taiwan-hot-springs-landscape) — Die besondere Position der Jiaoxi-Thermalquellen in der taiwanesischen Thermalgeographie
-- [Keelung City](/geography/基隆市) — Artikelreihe zu den 22 Landkreisen und Städten, die ebenfalls „von Taipeh nicht gesehen“ werden
+- [Keelung City](/de/geography/keelung-city) — Artikelreihe zu den 22 Landkreisen und Städten, die ebenfalls „von Taipeh nicht gesehen“ werden
 
 ## Bildquellen
 

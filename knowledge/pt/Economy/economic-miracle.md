@@ -112,7 +112,7 @@ _O primeiro-ministro Chiang Ching-kuo, que liderou a grande aposta dos Dez Grand
 
 **Investimento total nos Dez Grandes Projetos de Infraestrutura: cerca de NT$ 200 bilhões** — várias vezes o valor das reservas cambiais da época.
 
-Os projetos incluíam a Autoestrada Sun Yat-sen, o Aeroporto Internacional de Taoyuan, o Porto de Taichung, as usinas nucleares nº 1 e nº 2, a China Steel, a China Shipbuilding Corporation e a indústria petroquímica, entre outras obras de transporte e indústria pesada. O planejamento completo e as controvérsias são apresentados separadamente em “[Dez Grandes Projetos de Infraestrutura: uma aposta de NT$ 200 bilhões sobre US$ 1 bilhão em reservas cambiais](/history/十大建設)”.
+Os projetos incluíam a Autoestrada Sun Yat-sen, o Aeroporto Internacional de Taoyuan, o Porto de Taichung, as usinas nucleares nº 1 e nº 2, a China Steel, a China Shipbuilding Corporation e a indústria petroquímica, entre outras obras de transporte e indústria pesada. O planejamento completo e as controvérsias são apresentados separadamente em “[Dez Grandes Projetos de Infraestrutura: uma aposta de NT$ 200 bilhões sobre US$ 1 bilhão em reservas cambiais](/pt/history/ten-major-construction-projects)”.
 
 Na época, essas obras foram criticadas como “megalomaníacas” e acusadas de “deixar dívidas para as gerações futuras”. Posteriormente, porém, ficou demonstrado que, sem essa infraestrutura, a decolagem econômica da década de 1980 simplesmente não teria sido possível.
 
@@ -338,8 +338,8 @@ Os autores dessa história continuam sendo todos os taiwaneses.
 **Leituras adicionais**:
 
 - [Fatura: o papel que transformou toda a população em fiscal tributário em 1951](/pt/economy/taiwan-uniform-invoice) — a fatura uniforme foi uma infraestrutura fiscal decisiva no mesmo período do milagre econômico; em seu primeiro ano, iniciado em 1951, fez a arrecadação do imposto sobre vendas aumentar 75%
-- [Dez Grandes Projetos de Infraestrutura: uma aposta de NT$ 200 bilhões sobre US$ 1 bilhão em reservas cambiais](/history/十大建設) — o contexto completo, as controvérsias e a narrativa política daquela grande aposta da década de 1970
-- [Boas políticas que atravessaram os partidos](/history/跨黨派的好政策) — a afirmação amplamente difundida de que a reforma agrária “impulsionou o milagre econômico de Taiwan” não resiste, na verdade, a um exame rigoroso
+- [Dez Grandes Projetos de Infraestrutura: uma aposta de NT$ 200 bilhões sobre US$ 1 bilhão em reservas cambiais](/pt/history/ten-major-construction-projects) — o contexto completo, as controvérsias e a narrativa política daquela grande aposta da década de 1970
+- [Boas políticas que atravessaram os partidos](/pt/history/bipartisan-good-policy) — a afirmação amplamente difundida de que a reforma agrária “impulsionou o milagre econômico de Taiwan” não resiste, na verdade, a um exame rigoroso
 
 ## Fontes das imagens
 

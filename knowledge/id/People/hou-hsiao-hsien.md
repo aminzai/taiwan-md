@@ -12,7 +12,7 @@ tags:
     'Estetika Film',
     'Long Take',
   ]
-subcategory: 'Film dan Drama'
+subcategory: '電影與戲劇'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-24
@@ -22,6 +22,7 @@ lifeTree: "{'protagonist': '侯孝賢', 'birthYear': 1947, 'span': '1947–2023'
 translatedFrom: 'People/侯孝賢.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:64e8c8786128b4a0'
+sourceBodyHash: 'sha256:4bfda7146e522cab'
 translatedAt: '2026-09-13T18:35:08.712859+00:00'
 ---
 

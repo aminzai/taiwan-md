@@ -198,4 +198,4 @@ Diante das tendências futuras de eletrificação, inteligência, sustentabilida
 - [Informações financeiras do Giant Group](https://www.giantgroup-cycling.com/en/ir-financial) — Página de relações com investidores da Giant Manufacturing
 - [Componentes de bicicleta de ponta imbatíveis estão em Taiwan](https://www.taiwan-panorama.com/zh/Articles/Details?Guid=d86bf51a-a8e6-491c-838e-720d61f70a81) — Revista Taiwan Panorama, análise do A-Team
 - [A equação do sucesso da aliança da indústria de bicicletas de Taiwan](https://www.hbrtaiwan.com/article_content_AR0002366.html) — Harvard Business Review Taiwan
-- [Sistema de aluguel de bicicletas públicas de Taipé](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E5%8C%97%E5%B8%82%E5%85%AC%E5%85%B1%E8%87%AA%E8%A1%8C%E8%BB%8A%E7%A7%9F%E8%B3%B3%E7%B3%BB%E7%B5%B1) — Wikipédia, histórico de desenvolvimento do YouBike
+- [Sistema de aluguel de bicicletas públicas de Taipé](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E5%8C%97%E5%B8%82%E5%85%AC%E5%85%B1%E8%87%AA%E8%A1%8C%E8%BB%8A%E7%A7%9F%E8%B3%83%E7%B3%BB%E7%B5%B1) — Wikipédia, histórico de desenvolvimento do YouBike

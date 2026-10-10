@@ -153,7 +153,7 @@ KI ist in Taiwan nicht mehr ein Thema für Technologienachrichten. Es ist Teil d
 
 ## Weiterführende Literatur
 
-- [KI-Entwicklung und Zukunftsstrategie Taiwans: Vom Nobelpreis 2024 zum Nightmarkt in Ningxia](/technology/台灣人工智慧發展與未來策略) — Setzt die Szenen-basierte Beobachtung der KI-Alltagsanwendung in den gesamten strategischen Kontext: Hardware macht 90 % der Arbeit, aber kein taiwanesisches Unternehmen ist bei den 2024-Nobelpreisen vertreten.
-- [KI-Industrie](/technology/AI人工智慧產業)
-- [KI-Entwicklung](/technology/AI發展)
-- [Taiwan AI School](/technology/台灣人工智慧學校) — Wie 8.000 Ingenieure in den Alltag der KI kamen: Von 2018 bis 2024 wurden mehr als 10.000 Absolventen ausgebildet.
+- [KI-Entwicklung und Zukunftsstrategie Taiwans: Vom Nobelpreis 2024 zum Nightmarkt in Ningxia](/de/technology/artificial-intelligence-development-strategy) — Setzt die Szenen-basierte Beobachtung der KI-Alltagsanwendung in den gesamten strategischen Kontext: Hardware macht 90 % der Arbeit, aber kein taiwanesisches Unternehmen ist bei den 2024-Nobelpreisen vertreten.
+- [KI-Industrie](/de/technology/artificial-intelligence-industry)
+- [KI-Entwicklung](/de/technology/ai-development-in-taiwan)
+- [Taiwan AI School](/de/technology/taiwan-ai-academy) — Wie 8.000 Ingenieure in den Alltag der KI kamen: Von 2018 bis 2024 wurden mehr als 10.000 Absolventen ausgebildet.

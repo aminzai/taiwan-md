@@ -11,7 +11,7 @@ tags:
     'Hi-Fi',
     'âm thanh chuyên nghiệp',
   ]
-subcategory: 'ngành công nghiệp âm thanh'
+subcategory: '音響產業'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19

@@ -167,7 +167,7 @@ translatedAt: '2026-09-23T05:53:42+08:00'
 - [国家人権博物館](/ja/history/national-human-rights-museum) — 景美と緑島の二つの白色テロリズム記念公園を運営する機関。6年間の準備から2025年の予算凍結まで
 - [二二八事件](/ja/history/228-incident) — 白色テロリズムの前触れ、1947年の鎮圧が戒厳体制を予感させた経緯
 - [美麗島事件](/ja/history/kaohsiung-incident-formosa-incident) — 1979年、白色テロリズム後期における重要な転換点
-- [中央研究院](/society/中央研究院) — 台湾史研究所が出版した『白色記憶』の口述インタビューを行った機関。研究対象をこの島に焦点を移した経緯
+- [中央研究院](/ja/society/academia-sinica) — 台湾史研究所が出版した『白色記憶』の口述インタビューを行った機関。研究対象をこの島に焦点を移した経緯
 - [阿里山：帝国の林場と高一生の山](/ja/history/alishan-empire-forest-and-uongu-yatauyungana) — 高一生の山と、先住民が沈黙させられた物語
 - [領収書：1951年、国民全体を税務検査官に変えた紙](/ja/economy/taiwan-uniform-invoice) — 領収書制度の設計者である任顯群（じん・シエンクン／ジェン・シエンクン）自身も同時代を生きており、1955年に「匪諜不報」で投獄。一つの帽子が致命的になり得る。
 - [殷海光](/ja/people/yin-haiguang-liberalism-philosopher) — 1960年の雷震事件後、温州街十八巷に軟禁された台湾大学哲学系の教授であり、台湾リベラリズムの開祖

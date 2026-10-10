@@ -32,6 +32,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Maanshan_Nuclear_Power_Pla
 translatedFrom: 'Nature/台灣氣候危機與淨零轉型.md'
 sourceCommitSha: 'e80217d19'
 sourceContentHash: 'sha256:3b72a54becd4e249'
+sourceBodyHash: 'sha256:65e86904ae441416'
 translatedAt: '2026-09-23T22:54:43.348194+00:00'
 ---
 
@@ -312,10 +313,10 @@ Die 97.672 Tonnen auf Lanyu verschwinden nicht, weil die Abstimmung angenommen o
 - [Thermalwasser und Geothermie in Taiwan](/de/nature/taiwan-hot-springs-and-geothermal-energy) — Von dem Scheitern des Qingshui-Geothermieprojekts 1981 bis zum Neustart im Jahr 2024: Wie die geothermische Stille von 30 Jahren entstand.
 - [Umweltgerechtigkeit und NIMBY-Streitigkeiten in Taiwan](/de/society/taiwan-environmental-justice-nimby-conflicts) — Lanyu, Algenriff, Měinong: Die Verteilungspolitik der Kosten des Energiewandels.
 - [Industrieller Wandel und Aufwertung in Taiwan](/de/economy/industrial-transformation-from-manufacturing-to-innovation) — Vom energieintensiven Manufacturing zur grünen Industrie: Der Energiehaushalt von TSMC (RE100), CBAM und dem Schutz des „Schutzgipfels“.
-- [Baumstraßenbäume in Taiwan](/lifestyle/台灣行道樹) — Die räumliche und zeitliche Skala der städtischen Hitzeminderung durch Straßenbeschattung: Ein Anpassungsbedarf, den man nicht warten kann – Bäume müssen mindestens zehn Jahre alt sein, um Schatten spenden zu können.
+- [Baumstraßenbäume in Taiwan](/de/lifestyle/taiwan-street-trees) — Die räumliche und zeitliche Skala der städtischen Hitzeminderung durch Straßenbeschattung: Ein Anpassungsbedarf, den man nicht warten kann – Bäume müssen mindestens zehn Jahre alt sein, um Schatten spenden zu können.
 - [Entwicklung der modernen Landwirtschaft in Taiwan](/de/economy/taiwan-agricultural-modernization) — Der Druck des landwirtschaftlichen Wandels und die Konflikte bei der Landnutzung hinter der Symbiose von Agrar- und Energiewirtschaft.
 - [Regenzeit (Mei Yu)](/de/nature/meiyu-stagnant-front) — Lokale Beobachtungen des Klimawandels: „Der Frühregen kommt nicht, aber die Regenzeit konzentriert sich“.
-- [Brennstoffpreismechanismus in Taiwan und CPC](/economy/台灣油價機制與中油) — Der Konflikt zwischen der Subventionierung fossiler Brennstoffe und den Einsparungssignalen: Die Preisstabilisierung teilt den Vorteil pro Liter auf; wer am meisten verbraucht hat, ist bis heute nicht erfasst.
+- [Brennstoffpreismechanismus in Taiwan und CPC](/de/economy/taiwan-fuel-pricing-and-cpc) — Der Konflikt zwischen der Subventionierung fossiler Brennstoffe und den Einsparungssignalen: Die Preisstabilisierung teilt den Vorteil pro Liter auf; wer am meisten verbraucht hat, ist bis heute nicht erfasst.
 
 ## Bildquellen
 

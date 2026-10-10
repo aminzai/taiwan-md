@@ -13,13 +13,13 @@ tags:
     '일제강점기',
     '고웅의학대학교',
   ]
-subcategory: '역사적 인물'
+subcategory: '歷史人物'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 10
 featured: false
 translatedFrom: 'People/杜聰明.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: 'f99a9959c'
 sourceContentHash: 'sha256:cda33c38cf5ae9bc'
 sourceBodyHash: 'sha256:f0f1f0e7889b7e24'
 translatedAt: '2026-05-16T22:20:00Z'

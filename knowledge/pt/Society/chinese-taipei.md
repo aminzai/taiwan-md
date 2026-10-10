@@ -202,7 +202,7 @@ E aquele bilhete de entrada continua deixando Taiwan entrar em campo, continua s
 ## Leitura complementar
 
 - [A representação de Taiwan em padrões internacionais](/pt/society/taiwans-labeling-in-international-standards) — Do ISO 3166 ao software livre, como o nome "Taiwan" é escrito e disputado na infraestrutura digital global, mesma raiz do nome olímpico, outro campo de batalha
-- [Espectro unificação-independência de Taiwan](/society/台灣統獨光譜) — Por que os taiwaneses se dividem tanto emocionalmente entre "China" e "Taiwan", o espectro de identidade por trás explicado
+- [Espectro unificação-independência de Taiwan](/pt/society/taiwan-unification-independence-spectrum) — Por que os taiwaneses se dividem tanto emocionalmente entre "China" e "Taiwan", o espectro de identidade por trás explicado
 - [Países com relações diplomáticas e diplomacia internacional de Taiwan](/pt/society/taiwan-diplomatic-allies-and-international-relations) — Além do transbordamento do "modelo olímpico", o mesmo dilema do nome na arena diplomática formal
 - [Chi Cheng](/pt/people/chi-cheng-flying-antelope) — A gazela voadora: do bronze no México 1968, à artífice do establishment em 1981, à iniciadora do referendo de 2018, a curva completa
 - [Yang Chuan-kwang](/pt/people/yang-chuan-kwang-asian-iron-man) — O homem de ferro asiático que em Roma 1960, sob o nome "Fórmosa", conquistou a primeira medalha olímpica de Taiwan

@@ -397,11 +397,11 @@ TSMCs Marktwert überschritt erstmals im Juli 2020 zehn Billionen Taisimal und e
 
 ## Weiterführende Lektüre
 
-- [Taiwanisches Unternehmen: TSMC](/economy/台灣企業：台積電) — Der „Schutzschild Taiwan“, gegründet mit dem Wafer-Foundry-Modell im Jahr 1987 und heute über sechzig Billionen wert, ist die vollständigste Darstellung von Morris Chang.
+- [Taiwanisches Unternehmen: TSMC](/de/economy/tsmc) — Der „Schutzschild Taiwan“, gegründet mit dem Wafer-Foundry-Modell im Jahr 1987 und heute über sechzig Billionen wert, ist die vollständigste Darstellung von Morris Chang.
 - [Shih Zhen-rong (Morris Changs Kollegen)](/de/people/stan-shih) — Er war der Gründer von Acer, der TSMC zwanzig Jahre lang als Vorstandsvorsitzender einlud; er ist auch der Autor der „Lächelnkurve“; die „Zwischenfertigung“, die TSMC macht, ist jener Teil dieser Kurve, den man verachtet, aber der in Wirklichkeit am wertvollsten ist.
 - [Terry Gou (Foxconn)](/de/people/terry-gou) — Ein weiterer taiwanesischer Unternehmer, der die Welt durch „Auftragsfertigung“ verändert hat; die Montagelösung von Foxconn und das Wafer-Foundry-Modell von TSMC sind zwei Wege, wie Taiwan zur globalen Fertigungsbasis wurde.
 - [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Von der Technologietransfer-Ära RCA bis zum „Schutzschild“ – Morris Chang brachte die gesamte Industrie in den Kampf.
-- [Huang Chongren (Wistron)](/people/黃崇仁) — Die Person, die Ende der 1990er Jahre zu Morris Chang kam, als Wistron kurz davor war, von United Microelectronics Corporation übernommen zu werden; er repräsentiert einen anderen, gefährlichen Weg in der taiwanesischen Halbleiterindustrie.
+- [Huang Chongren (Wistron)](/de/people/frank-huang-psmc) — Die Person, die Ende der 1990er Jahre zu Morris Chang kam, als Wistron kurz davor war, von United Microelectronics Corporation übernommen zu werden; er repräsentiert einen anderen, gefährlichen Weg in der taiwanesischen Halbleiterindustrie.
 - [Taiwanische Industrielle Transformation und Aufwertung](/de/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC ist das konkretste Beispiel dafür, wie Taiwan von einer „Fertigungsinsel“ zu einer „Tech Island“ wurde, und bildet den Kernkoordinaten dieser vierzigjährigen Transformation.
 
 ---

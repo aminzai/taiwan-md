@@ -4,7 +4,7 @@ description: "Quando a 'geração morango' foi impressa pela primeira vez em 199
 date: 2026-06-08
 author: 'Taiwan.md'
 category: 'Society'
-subcategory: 'Gerações e Mudança Social'
+subcategory: '世代與社會變遷'
 tags:
   - 'Gerações'
   - 'Estratificação Social'
@@ -170,8 +170,8 @@ O "grau" é apenas uma entrada. É útil porque nos ajuda a ver como a escada ro
 
 - [Geração Bico de Taiwan](/pt/society/taiwan-slash-generation-multi-job-economy) — O sétimo e oitavo graus, sob a estrutura de salários baixos, dividem um salário em três empregos para sobreviver
 - [Perda de Rumo na Carreira dos Jovens de Taiwan](/pt/society/taiwan-youth-career-confusion) — Dezoito anos de escola, no dia da formatura a pergunta mais comum é "não sei o que quero fazer"
-- [Crise da Baixa Natalidade em Taiwan](/society/台灣少子化危機) — O número de nascimentos despenca de 420.000 para 160.000, o bolo fica cada vez menor a cada ano
-- [Espectro da Unificação e Independência de Taiwan](/society/台灣統獨光譜) — A visão completa da linha de falha de identidade, de "quem sou eu" a "para onde vamos"
+- [Crise da Baixa Natalidade em Taiwan](/pt/society/taiwan-low-birth-rate-crisis) — O número de nascimentos despenca de 420.000 para 160.000, o bolo fica cada vez menor a cada ano
+- [Espectro da Unificação e Independência de Taiwan](/pt/society/taiwan-unification-independence-spectrum) — A visão completa da linha de falha de identidade, de "quem sou eu" a "para onde vamos"
 - [MySpace](/pt/culture/wretch) — O servidor digital da juventude do sétimo grau, desligado em 2013, reapareceu no Threads em 2025
 
 ## Fontes das Imagens
@@ -202,7 +202,7 @@ Este artigo usa 5 imagens com licença Creative Commons, todas em cache em `publ
 
 [^8]: [Time.udn: Garrafa de Vidro do Yakult e a Mãe do Yakult](https://time.udn.com/udntime/story/122390/7069408) — Registra a história da fábrica do Yakult estabelecida em Taiwan em 1964, o modelo de venda de uma garrafa por dois yuan, entregue porta a porta pela "Mãe do Yakult", sendo a memória de infância comum das gerações do quinto e sexto graus.
 
-[^9]: [Wikipedia: O Grande Confucionista de Yunzhou](https://zh.wikipedia.org/zh-tw/%E9%9B%B2%E%B7%A4%E5%A4%A7%E5%84%92%E4%BF%A0) — Registra o início da transmissão do teatro de marionetes de Huang Jun-xiong, _O Grande Confucionista de Yunzhou_, pela TTV em 1970, totalizando 583 episódios, criando uma taxa de audiência de 97%, e o processo completo de proibição em 1974 sob o pretexto de "perturbar o descanso dos agricultores".
+[^9]: [Wikipedia: O Grande Confucionista de Yunzhou](https://zh.wikipedia.org/zh-tw/%E9%9B%B2%E5%B7%9E%E5%A4%A7%E5%84%92%E4%BF%A0) — Registra o início da transmissão do teatro de marionetes de Huang Jun-xiong, _O Grande Confucionista de Yunzhou_, pela TTV em 1970, totalizando 583 episódios, criando uma taxa de audiência de 97%, e o processo completo de proibição em 1974 sob o pretexto de "perturbar o descanso dos agricultores".
 
 [^10]: [Roomie: Naqueles Anos, Nós Usávamos Códigos Numéricos para Namorar](https://www.roomie.tw/posts/69404) — Revisa a abertura do BB Call (pager) em Taiwan em 1976, o pico de usuários em 1999 com cerca de quatro milhões de lares, o fim do serviço no final de 2011, e a cultura de uso de números como 520 e 1314 para se comunicar.
 

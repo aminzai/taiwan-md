@@ -4,7 +4,7 @@ description: '1952年2月13日、高雄県大寮郷（現高雄市大寮区）�
 date: 2026-03-19
 author: 'Taiwan.md'
 category: 'People'
-subcategory: '文学'
+subcategory: '文學'
 tags: ['文学', '随筆', '野火集', '大江大海', '文化大臣', '公共知識人', '高雄']
 readingTime: 7
 lastVerified: 2026-05-07

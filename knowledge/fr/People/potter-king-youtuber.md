@@ -81,9 +81,9 @@ Après avoir retrouvé son indépendance, Potter King a réorienté son contenu 
 
 [^8]: [Potter King heurte un mur : le tribunal confirme la violation du contrat et ordonne le remboursement de plusieurs millions de NT$ de revenus partagés](https://www.nownews.com/news/6808009) — _Now News_, 16‑04‑2026.
 
-[^9]: [Potter King perd ! Le tribunal ordonne le remboursement de 284 millions de NT$, l’ancien employeur s’exprime](https://tw.news.yahoo.com/%E6%B3%A2%E7%89%B9%E7%8E%8B%E6%95%97%E8%A8%B4-%E6%B3%95%E9%99%A2%E5%88%A4%E9%9B%84%E9%9C%80%E8%BF%94%E9%82%84%E5%89%8D%E6%9D%B1%E5%AE%B6284%E8%90%AC-075700107.html) — _Yahoo News_, 16‑04‑2026.
+[^9]: [Potter King perd ! Le tribunal ordonne le remboursement de 284 millions de NT$, l’ancien employeur s’exprime](https://tw.news.yahoo.com/%E6%B3%A2%E7%89%B9%E7%8E%8B%E6%95%97%E8%A8%B4-%E6%B3%95%E9%99%A2%E5%88%A4%E9%9C%80%E8%BF%94%E9%82%84%E5%89%8D%E6%9D%B1%E5%AE%B6284%E8%90%AC-075700107.html) — _Yahoo News_, 16‑04‑2026.
 
-[^10]: [Potter King supprime 485 vidéos de sa chaîne, révèle la raison : « C’est dommage, ces vidéos ne seront plus disponibles »](https://tw.news.yahoo.com/%E6%B3%A2%E7%89%B9%E7%8E%8B%E7%AA%81%E5%88%AA%E9%81%93%E9%81%93485%E6%94%AF%E5%BD%B1%E7%89%87-%E8%A6%AA%E6%8F%AD%E5%8E%9F%E5%9B%A0%E5%98%86-%E5%8F%AF%E6%83%9C%E9%80%99%E9%83%A8%E7%89%87%E6%B2%92%E4%BA%86-052121377.html) — _Yahoo News_, 02‑09‑2024.
+[^10]: [Potter King supprime 485 vidéos de sa chaîne, révèle la raison : « C’est dommage, ces vidéos ne seront plus disponibles »](https://tw.news.yahoo.com/%E6%B3%A2%E7%89%B9%E7%8E%8B%E7%AA%81%E5%88%AA%E9%A0%BB%E9%81%93485%E6%94%AF%E5%BD%B1%E7%89%87-%E8%A6%AA%E6%8F%AD%E5%8E%9F%E5%9B%A0%E5%98%86-%E5%8F%AF%E6%83%9C%E9%80%99%E9%83%A8%E7%89%87%E6%B2%92%E4%BA%86-052121377.html) — _Yahoo News_, 02‑09‑2024.
 
 [^11]: [Le millionnaire des réseaux, Potter King, explique la suppression de « 485 vidéos » : « Elle s’est arrêtée », impossibilité de rediffusion](https://www.ftvnews.com.tw/news/detail/2024903W0016) — _FTV News_, 03‑09‑2024.
 

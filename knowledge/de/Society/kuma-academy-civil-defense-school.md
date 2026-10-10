@@ -29,6 +29,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:%E9%BB%91%E7%86%8A%E5%AD%B
 translatedFrom: 'Society/黑熊學院.md'
 sourceCommitSha: 'cdc7cc719'
 sourceContentHash: 'sha256:42de5cb53b9bc1de'
+sourceBodyHash: 'sha256:dd6e524ad9f23527'
 translatedAt: '2026-09-24T03:09:43.985790+00:00'
 ---
 
@@ -191,8 +192,8 @@ Zurück auf diesem Regenfällen-Grasplatz. Diese Arbeitnehmerin, die den Verband
 **Weiterlesen**:
 
 - [Shen Pochun](/de/people/puma-shen) — Mitbegründer und ehrenhalberer Präsident der Bärenakademie, forscht über chinesische kognitive Kriegsführung, später von China wegen „Trennung des Staates" strafrechtlich verfolt
-- [Kognitive Kriegsführung](/society/認知作戰) — Hintergrund des vierten Moduls des Grundausbildungstrainings der Bärenakademie, das vollständige Bild chinesischer Informationskriegsführung gegen Taiwan
-- [Taiwanische Verteidigung und militärische Modernisierung](/society/台灣國防與軍事現代化) — Ergänzungsbeziehung zwischen Zivilcourage und allgemeiner Landesverteidigung, das andere Gesicht einer Aussage: „Zivilcourage ist keine Landesverteidigung"
+- [Kognitive Kriegsführung](/de/society/cognitive-warfare-against-taiwan) — Hintergrund des vierten Moduls des Grundausbildungstrainings der Bärenakademie, das vollständige Bild chinesischer Informationskriegsführung gegen Taiwan
+- [Taiwanische Verteidigung und militärische Modernisierung](/de/society/taiwan-defense-modernization) — Ergänzungsbeziehung zwischen Zivilcourage und allgemeiner Landesverteidigung, das andere Gesicht einer Aussage: „Zivilcourage ist keine Landesverteidigung"
 - [Das unsichtbare Land](/de/art/invisible-nation) — Dokumentarfilm, der mit Taiwanesen abschließt, die eine Zivilcourage-Stunde belegen; genau die filmische Version dieser Stunde
 
 ## Bildquellen

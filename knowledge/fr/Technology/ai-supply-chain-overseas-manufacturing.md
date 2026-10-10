@@ -18,7 +18,7 @@ tags:
   - 'Foxconn'
   - 'Wistron'
   - 'Delta Electronics'
-subcategory: 'Semi-conducteurs et matériel'
+subcategory: '半導體與硬體'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-11

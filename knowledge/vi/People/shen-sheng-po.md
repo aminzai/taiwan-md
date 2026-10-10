@@ -3,7 +3,7 @@ title: 'Thạch Thánh Bác'
 description: 'Chuyên ngành khoa học máy tính, nhưng đã mang lại ngôn ngữ lập trình vào không gian nghệ thuật hiện đại của Đài Loan. Tính đến năm 2014, đời sống ngắn ngủi của Thạch Thánh Bác chỉ là 34 năm, để lại không chỉ các tác phẩm nghệ thuật kỹ thuật số mà còn là tinh thần thí nghiệm đặt lập trình vào cuộc sống, xem phần mềm tự do như một đạo đức sáng tạo.'
 date: 2026-03-23
 category: 'People'
-subcategory: 'Nghệ thuật và thiết kế'
+subcategory: '藝術與設計'
 tags:
   [
     'nhân vật',
@@ -137,5 +137,5 @@ Tinh thần này cho đến ngày nay vẫn chưa lỗi thời.
 
 ## Các chủ đề liên quan
 
-- [吳哲宇](/people/吳哲宇): Một con đường khác của người Đài Loan đi từ lập trình sang nghệ thuật
-- [唐鳳](/people/唐鳳): Cách quan niệm công nghệ tiếp vào lĩnh vực công cộng
+- [吳哲宇](/vi/people/che-yu-wu): Một con đường khác của người Đài Loan đi từ lập trình sang nghệ thuật
+- [唐鳳](/vi/people/audrey-tang): Cách quan niệm công nghệ tiếp vào lĩnh vực công cộng

@@ -78,7 +78,7 @@ Meskipun suara penjual di peron sudah perlahan hilang akibat elektrifikasi keret
 ## Bacaan Lanjutan
 
 - [Budaya Makanan Beras Taiwan](/id/food/taiwan-rice-cuisine-culture) — Sebelum Beras Chishang menduduki takhta, hubungan orang Taiwan dengan beras
-- [Pertanian Taiwan dan Regenerasi Pedesaan](/economy/台灣農業與農村再生) — Tata kelola pedesaan di balik sistem disiplin diri sertifikasi asal ini
+- [Pertanian Taiwan dan Regenerasi Pedesaan](/id/economy/taiwan-agriculture-and-rural-revitalization) — Tata kelola pedesaan di balik sistem disiplin diri sertifikasi asal ini
 - [Bola Nasi (Fan Tuan)](/id/food/rice-ball) — Bentuk awal Chishang Fanbao, kemudian tumbuh sendiri menjadi satu jenis sarapan
 
 ## Referensi

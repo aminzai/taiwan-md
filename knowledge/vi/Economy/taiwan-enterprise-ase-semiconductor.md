@@ -11,7 +11,7 @@ tags:
     'Đóng gói kiểm tra',
     'Sản xuất công nghệ',
   ]
-subcategory: 'Tiểu sử doanh nhân'
+subcategory: '企業列傳'
 author: 'Taiwan.md'
 readingTime: 8
 featured: false

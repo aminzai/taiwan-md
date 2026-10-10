@@ -4,7 +4,7 @@ description: 'Em 2026, Sun Moon Lake é a maior bateria de bombeamento reversív
 date: 2026-04-27
 author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: 'Hidrologia e Recursos Hídricos'
+subcategory: '水文與水資源'
 tags:
   [
     'Sun Moon Lake',
@@ -103,7 +103,7 @@ O Sun Moon Lake de hoje ainda muda de cor entre o nascer e o pôr do sol, mas aq
 
 [^10]: [泳渡日月潭在地人反對：汙染一次變三次 - 環境資訊中心](https://e-info.org.tw/node/104165) — Ver dados suplementares no link original
 
-[^11]: [曹士桂《宦海日記》：山南水圓如日，山北水彎如半月 - 維基百科引用](https://zh.wikipedia.org/zh-tw/%E6%97%A5%E6%9C%88%E6%BD%AD#%E5%90%8D%E7%A8%B1%E5%85%B8%E6%95%B5) — Entrada da Wikipédia
+[^11]: [曹士桂《宦海日記》：山南水圓如日，山北水彎如半月 - 維基百科引用](https://zh.wikipedia.org/zh-tw/%E6%97%A5%E6%9C%88%E6%BD%AD#%E5%90%8D%E7%A8%B1%E5%85%B8%E6%95%85) — Entrada da Wikipédia
 
 [^12]: [日月潭水庫 - 經濟部水利署](https://www.wra.gov.tw/cp.aspx?n=14717) — Ver dados suplementares no link original
 

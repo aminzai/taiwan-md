@@ -20,7 +20,7 @@ tags:
     'Kavalan',
     'loạt 22 tỉnh thành',
   ]
-subcategory: 'Tỉnh thành'
+subcategory: '縣市'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-18
@@ -239,14 +239,14 @@ Công Viên Quốc Gia Taroko 7 năm sau cũng có thể mở cửa lại. Nhưn
 
 ## Đọc Thêm
 
-- [Đà Nẵng](/geography/宜蘭縣) — loạt 22 tỉnh thành cùng thời, năm 1830 làng Gia Lễ Vãn dân tộc Kavalan chính là từ Đà Nẵng Lan Dương Bình Nguyên di cư tới Hoa Liên, hai bài bổ trợ lẫn nhau
-- [Cơ Long](/geography/基隆市) — pilot loạt 22 tỉnh thành đầu tiên, cùng Hoa Liên là "bị thủ đô ngó không thấy" huyện thị phía đông bắc duyên hải
-- [Công Viên Quốc Gia Taroko](/nature/台灣國家公園) — thành lập 1986 là Công Viên Quốc Gia thứ 4 Đài Loan, sau động đất 0403 ước phục hồi 7 năm
-- [Hoạt động Tấn Động Đất Đài Loan](/geography/台灣板塊運動與地震活動) — Động Đất 0403 ở vị trí lịch sử động đất Đài Loan: hệ thống lỗi Thung Lũng Dãy Biển Philippin và Mảng Á Âu va chạm
-- [Lịch Sử Tái Tên Dân Tộc Bản Địa Đài Loan](/history/台灣原住民族歷史與正名運動) — Sakizaya, Taroko, Seediq, Kavalan tái tên Hoa Liên quỹ tích
-- [Bản Đồ Văn Hóa 16 Dân Tộc Bản Địa Đài Loan](/culture/台灣原住民族16族文化地圖) — Amis, Taroko, Sakizaya, Seediq, Bunun, Kavalan phân bố ở Hoa Liên
-- [Thời Kỳ Nhật Trị](/history/日治時期) — 1913 Phong Điền, Yoshino, Hayashida ba làng di cư; 1914 sự kiện Taroko; 1930 Bunun chuyển cư tập thể
-- [Lâm Nghĩa Hùng](/people/林義雄) — Vận Động Ngoài Đảng, Ngũ Kết Hương gốc, Đà Nẵng, chia cùng Hoa Liên một trục dân chủ hóa những năm 1980 Đài Loan
+- [Đà Nẵng](/vi/geography/yilan-county) — loạt 22 tỉnh thành cùng thời, năm 1830 làng Gia Lễ Vãn dân tộc Kavalan chính là từ Đà Nẵng Lan Dương Bình Nguyên di cư tới Hoa Liên, hai bài bổ trợ lẫn nhau
+- [Cơ Long](/vi/geography/keelung-city) — pilot loạt 22 tỉnh thành đầu tiên, cùng Hoa Liên là "bị thủ đô ngó không thấy" huyện thị phía đông bắc duyên hải
+- [Công Viên Quốc Gia Taroko](/vi/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — thành lập 1986 là Công Viên Quốc Gia thứ 4 Đài Loan, sau động đất 0403 ước phục hồi 7 năm
+- [Hoạt động Tấn Động Đất Đài Loan](/vi/geography/tectonic-plates-and-seismic-activity) — Động Đất 0403 ở vị trí lịch sử động đất Đài Loan: hệ thống lỗi Thung Lũng Dãy Biển Philippin và Mảng Á Âu va chạm
+- [Lịch Sử Tái Tên Dân Tộc Bản Địa Đài Loan](/vi/history/indigenous-peoples-history-and-naming-movement) — Sakizaya, Taroko, Seediq, Kavalan tái tên Hoa Liên quỹ tích
+- [Bản Đồ Văn Hóa 16 Dân Tộc Bản Địa Đài Loan](/vi/culture/indigenous-peoples-16-tribes-cultural-map) — Amis, Taroko, Sakizaya, Seediq, Bunun, Kavalan phân bố ở Hoa Liên
+- [Thời Kỳ Nhật Trị](/vi/history/japanese-colonial-era) — 1913 Phong Điền, Yoshino, Hayashida ba làng di cư; 1914 sự kiện Taroko; 1930 Bunun chuyển cư tập thể
+- [Lâm Nghĩa Hùng](/vi/people/lin-yi-hsiung-democracy-advocate-tragedy-survivor) — Vận Động Ngoài Đảng, Ngũ Kết Hương gốc, Đà Nẵng, chia cùng Hoa Liên một trục dân chủ hóa những năm 1980 Đài Loan
 
 ## Nguồn hình ảnh
 

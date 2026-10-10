@@ -33,6 +33,7 @@ relatedDiary: ['2026-07-17-221115-manual']
 translatedFrom: 'Music/台灣樂器製造.md'
 sourceCommitSha: 'b4f3dab63'
 sourceContentHash: 'sha256:384848975d3b840a'
+sourceBodyHash: 'sha256:cda00c8983ea5b23'
 translatedAt: '2026-09-24T05:39:15.613604+00:00'
 ---
 

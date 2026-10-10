@@ -13,7 +13,7 @@ tags:
     'Merger dan Akuisisi',
     'Transformasi Digital',
   ]
-subcategory: 'Profil Perusahaan'
+subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 15
@@ -22,6 +22,7 @@ lastHumanReview: true
 translatedFrom: 'Economy/台灣企業：富邦金控.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:4b90da1c1b3a40bf'
+sourceBodyHash: 'sha256:1b85009498a2a6bb'
 translatedAt: '2026-09-13T03:50:45.348369+00:00'
 ---
 

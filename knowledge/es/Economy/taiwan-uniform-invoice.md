@@ -183,7 +183,7 @@ Así que la próxima vez que, al pagar en una tienda de conveniencia, el dependi
 - [Cultura de las tiendas de conveniencia en Taiwán](/es/lifestyle/convenience-store-culture) — Hoy, donde más gente cobra premios de la factura y dice en voz alta el «919» para donarla es justo en el mostrador de las cuatro grandes cadenas de conveniencia.
 - [El Terror Blanco en Taiwán](/es/history/taiwan-white-terror) — La época en la que Jen Hsien-chun, el diseñador de la factura, fue a la cárcel por «saber de un espía y no denunciarlo»: una sola acusación bastaba para ser mortal.
 - [Justicia transicional en Taiwán](/es/history/taiwan-transitional-justice) — La rehabilitación de Jen Hsien-chun, que tardó años y atravesó dos gobiernos, es un tramo concreto de cómo Taiwán afronta su historia autoritaria.
-- [El mecanismo del precio del petróleo en Taiwán y CPC](/economy/台灣油價機制與中油) — Otro caso en el que un solo documento institucional sirve de vara de medir: cómo un comunicado de prensa sobre el precio de la gasolina reparte cada litro en tres, hace que CPC cargue primero con la parte barata repartida por litro, y nadie ha llevado nunca la cuenta de quién consume más.
+- [El mecanismo del precio del petróleo en Taiwán y CPC](/es/economy/taiwan-fuel-pricing-and-cpc) — Otro caso en el que un solo documento institucional sirve de vara de medir: cómo un comunicado de prensa sobre el precio de la gasolina reparte cada litro en tres, hace que CPC cargue primero con la parte barata repartida por litro, y nadie ha llevado nunca la cuenta de quién consume más.
 
 ## Fuentes de las imágenes
 

@@ -266,7 +266,7 @@ Blust만이 이렇게 주장한 것은 아니다. 고고학자 Peter Bellwood도
 
 [^12]: [식물 DNA가 역사를 기록하다! 닥나무가 말하는 오스트로네시아어족 이주사](https://research.sinica.edu.tw/paper-mulberry-dna-austronesian-history-chung-kuo-fang/) — 중앙연구원 〈연구에 물음〉 인터뷰로, 중궈팡 연구팀이 닥나무 DNA를 통해 생물지리학 관점에서 “타이완 출발설”을 뒷받침한 연구를 소개한다.
 
-[^13]: [Nusantara (term) - Wikipedia](<https://en.wikipedia.org/wiki/Nusantara_(term)>) — Nusantara의 어원에 대한 완전한 고증: 고대 자바어 _nusa_(섬) + 산스크리트어 차용어 _antara_(사이).
+[^13]: [Nusantara (term) - Wikipedia](https://en.wikipedia.org/wiki/Nusantara_(term) — Nusantara의 어원에 대한 완전한 고증: 고대 자바어 _nusa_(섬) + 산스크리트어 차용어 _antara_(사이).
 
 [^14]: [Majapahit - Wikipedia](https://en.wikipedia.org/wiki/Majapahit) — 14세기 동자바 마자파힛 제국 항목으로, 1336년 Gajah Mada의 “Palapa 서약” 역사적 배경을 포함한다.
 

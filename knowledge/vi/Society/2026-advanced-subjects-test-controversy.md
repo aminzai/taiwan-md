@@ -11,7 +11,7 @@ tags:
     'tranh chấp xã hội',
     'phong trào sinh viên',
   ]
-subcategory: 'giáo dục'
+subcategory: '教育'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-05
@@ -78,9 +78,9 @@ Hiện tại, quy trình xem lại của Trung tâm Thi cử Quốc gia sẽ k�
 
 ## Tài liệu mở rộng
 
-- [Hệ thống giáo dục và văn hóa tuyển sinh](/society/教育制度與升學文化) — Vị trí của kỳ thi phân ngành trong toàn bộ hệ thống tuyển sinh
-- [Sự mở rộng và rút lui của giáo dục đại học Đài Loan](/society/台灣高等教育擴張與退場) — Cách cung cấp từ phía đại học thay đổi, quyết định áp lực ở phía thi cử
-- [Cuộc khủng hoảng thiếu sinh Đài Loan](/society/台灣少子化危機) — Đường cong dài hạn của số lượng sinh viên thi cử bắt nguồn từ đâu
+- [Hệ thống giáo dục và văn hóa tuyển sinh](/vi/society/education-system-and-admissions-culture) — Vị trí của kỳ thi phân ngành trong toàn bộ hệ thống tuyển sinh
+- [Sự mở rộng và rút lui của giáo dục đại học Đài Loan](/vi/society/taiwan-higher-education-expansion-and-decline) — Cách cung cấp từ phía đại học thay đổi, quyết định áp lực ở phía thi cử
+- [Cuộc khủng hoảng thiếu sinh Đài Loan](/vi/society/taiwan-low-birth-rate-crisis) — Đường cong dài hạn của số lượng sinh viên thi cử bắt nguồn từ đâu
 
 ## Tài liệu tham khảo
 

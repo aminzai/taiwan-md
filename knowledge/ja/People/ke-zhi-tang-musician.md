@@ -14,7 +14,7 @@ tags:
     '金鐘奨',
     '好多音樂',
   ]
-subcategory: '音楽家'
+subcategory: '音樂人'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-07
@@ -38,6 +38,7 @@ sporeLinks:
 translatedFrom: 'People/柯智棠.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:da09e4b3162c5f4c'
+sourceBodyHash: 'sha256:e1150c885b006baf'
 translatedAt: '2026-07-30T20:24:30.219757+00:00'
 ---
 

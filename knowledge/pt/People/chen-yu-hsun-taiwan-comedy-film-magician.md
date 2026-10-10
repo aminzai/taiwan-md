@@ -4,7 +4,7 @@ description: 'Diretor de cinema de comédia de Taiwan, criador de "Peixes Tropic
 date: 2026-03-19
 author: 'Taiwan.md'
 category: 'People'
-subcategory: 'Cinema e Teatro'
+subcategory: '電影與戲劇'
 tags:
   [
     'Chen Yu-hsun',

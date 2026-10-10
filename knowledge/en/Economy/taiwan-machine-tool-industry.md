@@ -11,7 +11,7 @@ tags:
   - 'TMTS'
   - 'industrial cluster'
   - '2026'
-subcategory: 'Traditional Industries'
+subcategory: '傳統產業'
 category: 'Economy'
 author: 'Taiwan.md'
 difficulty: 'intermediate'

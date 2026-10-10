@@ -4,7 +4,7 @@ description: '屏風表演班の創設者、台湾のコメディ王として知
 date: 2026-03-19
 author: 'Taiwan.md'
 category: 'People'
-subcategory: '藝術とデザイン'
+subcategory: '藝術與設計'
 tags: ['李國修', '屏風表演班', 'コメディ', '劇場', '台湾演劇']
 lastVerified: 2026-03-19
 lastHumanReview: false

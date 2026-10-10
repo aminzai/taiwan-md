@@ -293,10 +293,10 @@ En el futuro, los movimientos sociales en Taiwán enfrentarán nuevos desafíos 
 
 **Lecturas relacionadas:**
 
-- [Reporteros: Cómo salvar las investigaciones periodísticas del negocio como bien público en diez años](/society/報導者) — Desde 2015, Taiwán ha utilizado deducciones mensuales de desconocidos para convertir las investigaciones periodísticas de los medios comerciales en bienes públicos
-- [justfont y el desarrollo de tipografías en Taiwán: De los 25 años de Founder a los 76 minutos de JinXuan](/technology/justfont與台灣字體發展) — Otro caso de crowdfunding que reescribe la percepción cultural, desde la perspectiva de la infraestructura tipográfica
-- [Cables submarinos: Visibles sobre el escudo de silicio, invisibles bajo la línea de vida](/technology/海底電纜) — La legislación de siete leyes sobre cables submarinos, la plataforma de defensa de Pingdong y el caso judicial de Hong Tai 58 muestran cómo la presión de la sociedad civil impulsa la legislación sobre infraestructura de seguridad nacional
-- [Gran oleada de recall](/history/大罷免) — Desde los pájaros azules hasta el movimiento de recall, la imagen de movilización generacional y la energía de las calles en la mayor ola de recall en la historia de 2025
+- [Reporteros: Cómo salvar las investigaciones periodísticas del negocio como bien público en diez años](/es/society/the-reporter-investigative-journalism) — Desde 2015, Taiwán ha utilizado deducciones mensuales de desconocidos para convertir las investigaciones periodísticas de los medios comerciales en bienes públicos
+- [justfont y el desarrollo de tipografías en Taiwán: De los 25 años de Founder a los 76 minutos de JinXuan](/es/technology/justfont-and-taiwan-typography) — Otro caso de crowdfunding que reescribe la percepción cultural, desde la perspectiva de la infraestructura tipográfica
+- [Cables submarinos: Visibles sobre el escudo de silicio, invisibles bajo la línea de vida](/es/technology/submarine-cables-taiwan-lifeline) — La legislación de siete leyes sobre cables submarinos, la plataforma de defensa de Pingdong y el caso judicial de Hong Tai 58 muestran cómo la presión de la sociedad civil impulsa la legislación sobre infraestructura de seguridad nacional
+- [Gran oleada de recall](/es/history/great-recall-movement-2024) — Desde los pájaros azules hasta el movimiento de recall, la imagen de movilización generacional y la energía de las calles en la mayor ola de recall en la historia de 2025
 
 [^1]: [Wikipedia: Primavera de los cerezos silvestres](https://zh.wikipedia.org/zh-tw/%E9%87%8E%E7%99%BE%E5%90%88%E5%AD%B8%E9%81%8B) — Del 16 al 22 de marzo de 1990, alrededor de 6,000 estudiantes universitarios se sentaron en silencio en la Plaza del Memorial Nacional de Chiang Kai-shek (actual Plaza de la Libertad), siendo la protesta estudiantil más grande desde la llegada del gobierno a Taiwán
 

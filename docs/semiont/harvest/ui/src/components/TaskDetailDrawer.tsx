@@ -42,7 +42,7 @@ export default function TaskDetailDrawer(props: {
   return (
     <Show when={props.taskId}>
       <div
-        class="fixed inset-0 z-40 bg-black/50 backdrop-blur-sm"
+        class="fixed inset-0 z-40 bg-black/50 backdrop-blur-xs"
         onClick={() => props.onClose()}
       />
       <aside
@@ -85,7 +85,7 @@ export default function TaskDetailDrawer(props: {
                 <div class="flex items-start gap-3">
                   <div class="text-3xl">{typeEmoji(t.type)}</div>
                   <div class="min-w-0 flex-1">
-                    <h2 class="text-lg font-semibold text-text-primary break-words">
+                    <h2 class="text-lg font-semibold text-text-primary wrap-break-word">
                       {t.title}
                     </h2>
                     <div class="mt-2 flex flex-wrap gap-2">
@@ -153,7 +153,7 @@ export default function TaskDetailDrawer(props: {
                 </Show>
                 <Show when={t.inputs && Object.keys(t.inputs).length}>
                   <Field label="inputs">
-                    <pre class="text-xs whitespace-pre-wrap bg-bg-input rounded p-2 overflow-x-auto">
+                    <pre class="text-xs whitespace-pre-wrap bg-bg-input rounded-sm p-2 overflow-x-auto">
                       {JSON.stringify(t.inputs, null, 2)}
                     </pre>
                   </Field>
@@ -245,7 +245,7 @@ export default function TaskDetailDrawer(props: {
 
                 <Show when={spawnPreview()}>
                   <Field label="dry-spawn output">
-                    <pre class="text-xs whitespace-pre-wrap bg-bg-input rounded p-2 overflow-x-auto max-h-64">
+                    <pre class="text-xs whitespace-pre-wrap bg-bg-input rounded-sm p-2 overflow-x-auto max-h-64">
                       {JSON.stringify(spawnPreview(), null, 2)}
                     </pre>
                   </Field>

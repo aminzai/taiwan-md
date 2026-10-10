@@ -13,7 +13,7 @@ tags:
     'cộng đồng mã nguồn mở',
     'tự do Internet',
   ]
-subcategory: 'cộng đồng mã nguồn mở'
+subcategory: '開源社群'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-06-04
@@ -192,10 +192,10 @@ Bạn đã sử dụng thành quả của nó (bản đồ khẩu trang, robot k
 
 ## Đọc thêm
 
-- [Cộng đồng mã nguồn mở và g0v](/vi/technology/g0v-open-source-community) — OCF ban đầu đúng là để giúp cộng đồng như g0v này thanh toán, nhóm "fork bỏ chính phủ" công dân hacker, với 72 giờ bản đồ khẩu trang.
+- [Cộng đồng mã nguồn mở và g0v](/vi/technology/open-source-and-g0v) — OCF ban đầu đúng là để giúp cộng đồng như g0v này thanh toán, nhóm "fork bỏ chính phủ" công dân hacker, với 72 giờ bản đồ khẩu trang.
 - [Tinh thần mã nguồn mở Đài Loan](/vi/technology/taiwan-open-source-spirit) — OCF thể hiện ý tưởng "Tiền công cộng, mã công cộng", đúng là phần mở rộng của văn hoá mã nguồn mở Đài Loan từ vòng tròn công nghệ bước vào quản lý công cộng.
 - [Đường Phượng](/vi/people/audrey-tang) — Từ người tham gia g0v thành bộ trưởng phát triển kỹ thuật số đầu tiên, OCF nhiều lần giao dịch với bộ phát triển kỹ thuật số do cô ấy chủ trì, vừa hợp tác vừa canh chừng.
-- [Thao tác nhận thức](/vi/society/cognitive-warfare) — Cảnh chiến tin giả mà robot Cofacts kiểm chứng đối mặt, Đài Loan gặp phải thao tác thông tin.
+- [Thao tác nhận thức](/vi/society/cognitive-warfare-against-taiwan) — Cảnh chiến tin giả mà robot Cofacts kiểm chứng đối mặt, Đài Loan gặp phải thao tác thông tin.
 - [Tại sao Đài Loan lại cần kho kiến thức của bản thân](/vi/about/why-taiwan-needs-knowledge-base) — Khi AI trở thành cánh cửa đầu tiên để độc giả nước ngoài hỏi "Đài Loan là gì", OCF luôn thúc đẩy mở công khai kiến thức lại có thể kiểm chứng, đúng là cơ sở hạ tầng để đẩy lại cái im lặng đó.
 
 ## Nguồn hình ảnh

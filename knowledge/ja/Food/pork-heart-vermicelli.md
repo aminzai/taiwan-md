@@ -70,7 +70,7 @@ translatedAt: '2026-08-04T17:42:34+08:00'
 
 ---
 
-## 參考資料
+## 参考資料
 
 - [賣了快 70 年的台南深夜豬心冬粉！先做好排隊心理準備 — ETtoday 旅遊雲](https://travel.ettoday.net/article/2931941.htm)
 - [阿明豬心冬粉 內臟控排隊也要吃的保安路美食（附菜單價錢）— 春天幸福味](https://springhappylife.tw/amingzhuxing/)

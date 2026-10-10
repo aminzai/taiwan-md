@@ -27,7 +27,7 @@ readingTime: 12
 lastVerified: 2026-04-07
 lastHumanReview: true
 translatedFrom: 'People/盧廣仲.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:a21c857b64fd8e71'
 sourceBodyHash: 'sha256:090ff0c53b31ba5d'
 translatedAt: '2026-05-16T22:20:03Z'
@@ -49,7 +49,7 @@ En la universidad escribió una canción llamada _¡Buenos días, belleza matuti
 
 El productor Chung Cheng-hu del estudio creativo Team Ear lo descubrió. En 2008 se publicó su álbum debut, _100 maneras de vivir_ (100 種生活). Diez años después de este álbum, Crowd Lu dijo en un evento de lanzamiento de vinilo: "Ya no puedo escribir canciones tan buenas como estas."[^4]
 
-En la 20.ª edición de los [[Premios Golden Melody]] (金曲獎) (zh) en 2009, este chico de Rende, Tainan, se llevó de golpe el premio al Mejor Artista Nuevo y al Mejor Compositor[^5]. Ese mismo año, el premio al Mejor Álbum en Mandarín fue para Eason Chan. Pero cuando Eason Chan subió al escenario, dijo públicamente que él creía que _100 maneras de vivir_ de Crowd Lu era el verdadero mejor álbum[^6].
+En la 20.ª edición de los Premios Golden Melody (金曲獎) (zh) en 2009, este chico de Rende, Tainan, se llevó de golpe el premio al Mejor Artista Nuevo y al Mejor Compositor[^5]. Ese mismo año, el premio al Mejor Álbum en Mandarín fue para Eason Chan. Pero cuando Eason Chan subió al escenario, dijo públicamente que él creía que _100 maneras de vivir_ de Crowd Lu era el verdadero mejor álbum[^6].
 
 Tenía 23 años, con pantalones cortos y unas gafas de montura negra enorme sobre el escenario de los Golden Melody. Nadie sabía que lo que venía después sería un desierto de ocho años.
 
@@ -69,7 +69,7 @@ Esta caminata no fue una campaña de marketing, sino un compositor que no podía
 
 ## Los siete minutos del chico Hua Jia
 
-En 2017, la serie _El chico Hua Jia crece_ (花甲男孩轉大人) (zh), producida por el proyecto [[Q Place]] (植劇場) (zh) dirigido por Wang Xiao-dian, se emitió en televisión. El director Qu You-ning eligió a Crowd Lu para interpretar al protagonista Zheng Hua-jia, un joven de Tainan que llevaba muchos años en la universidad y estaba destinado a ser medium espiritual[^11].
+En 2017, la serie _El chico Hua Jia crece_ (花甲男孩轉大人) (zh), producida por el proyecto Q Place (植劇場) (zh) dirigido por Wang Xiao-dian, se emitió en televisión. El director Qu You-ning eligió a Crowd Lu para interpretar al protagonista Zheng Hua-jia, un joven de Tainan que llevaba muchos años en la universidad y estaba destinado a ser medium espiritual[^11].
 
 Nunca había actuado.
 

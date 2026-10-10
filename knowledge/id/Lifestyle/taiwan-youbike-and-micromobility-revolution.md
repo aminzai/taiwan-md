@@ -13,6 +13,7 @@ readingTime: 8
 translatedFrom: 'Lifestyle/台灣YouBike文化與城市微交通革命.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:71377fcdfb99db3b'
+sourceBodyHash: 'sha256:b4c2bbb618fa4629'
 translatedAt: '2026-08-29T22:21:24+08:00'
 ---
 
@@ -80,7 +81,7 @@ Dari sisi data, sistem ini dapat diamati secara kontinu, tetapi pengalaman pengg
 Banyak orang mengira YouBike adalah tiga langkah: pinjam sepeda, kayuh, kembalikan.
 Padahal di baliknya ada rekayasa sistem yang bekerja serentak: penempatan stasiun, kapasitas tiang, rute penjadwalan, arus data real-time, dan model prediksi.[^1][^5]
 
-Analisis *The Reporter* atas data terbuka Kota Taipei juga menunjukkan bahwa setelah kebijakan berjalan, tingkat ketersediaan pada sebagian jam dan sebagian stasiun memang berfluktuasi; pada saat yang sama pemerintah kota dan pihak operator terus menambah armada serta menyetel penjadwalan untuk merespons tekanan jam sibuk.[^1]
+Analisis _The Reporter_ atas data terbuka Kota Taipei juga menunjukkan bahwa setelah kebijakan berjalan, tingkat ketersediaan pada sebagian jam dan sebagian stasiun memang berfluktuasi; pada saat yang sama pemerintah kota dan pihak operator terus menambah armada serta menyetel penjadwalan untuk merespons tekanan jam sibuk.[^1]
 Ini mengingatkan kita: sepeda publik bukan pembangunan perangkat keras yang "sekali dipasang lalu beres", melainkan layanan dinamis yang menuntut pemeliharaan setiap hari.
 
 Dari hasil operasi resmi Maret 2026 terlihat, stasiun populer sudah mencatat lebih dari 50.000 peminjaman dalam sebulan (misalnya stasiun-stasiun di sekitar MRT Gongguan).[^2]
@@ -112,7 +113,7 @@ Begitu hal itu terjadi, soal perencanaan kota tidak lagi sekadar "jalannya cukup
 **Bacaan Lanjutan**:
 
 - [Sistem Transportasi Taiwan](/id/lifestyle/transportation-system) — YouBike adalah mil terakhir dari sistem ini, dan artikel tersebut melengkapi konteks di hulunya
-- [Sejarah Perkembangan MRT Taiwan](/lifestyle/台灣捷運發展史) — kenapa YouBike harus tersambung dengan MRT? Bagaimana penyambungan itu berubah menjadi infrastruktur harian
+- [Sejarah Perkembangan MRT Taiwan](/id/lifestyle/history-of-taiwan-mrt-development) — kenapa YouBike harus tersambung dengan MRT? Bagaimana penyambungan itu berubah menjadi infrastruktur harian
 - [Krisis Iklim Taiwan dan Transisi Nol Bersih](/id/nature/taiwan-climate-change-net-zero-transition) — posisi mikromobilitas di dalam porsi 28% transportasi hijau
 
 ## Referensi

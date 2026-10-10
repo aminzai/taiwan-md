@@ -22,7 +22,7 @@ tags:
     'Formosa Tea',
     'Loạt khu phố cổ lịch sử',
   ]
-subcategory: 'Khu phố cổ lịch sử / Quận Đại Đồng, Đài Bắc'
+subcategory: '歷史街區 / 台北市大同區'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-21
@@ -211,16 +211,16 @@ Lần sau bạn đi phố Dị Hoá, nhâng đầu nhìn những tinh hoa chạm
 
 **Bài Viết Mở Rộng**:
 
-- [Đài Bắc Thành Phố: Một Thành Phố Với Ba Thời Gian, 1738 Miếu Rồng Sơn Nhìn 2004 Số 101](/geography/台北市) — Panorama 12 quận Đài Bắc, vị trí Đà Đạo Thành trong ba phố
-- [Văn Hoá Phố Cổ Đài Loan Và Khu Thương Mại Phố](/culture/台灣老街文化與商業街區) — Tập tin chính phố cổ, so sánh Phố Dị Hoá với Lộc Cảng, Bành Xương, Tam Tước
-- [Văn Hoá Trà Đài Loan](/culture/台灣茶文化) — Bối cảnh hoàn chỉnh của Formosa Tea và ngành trà Bắc Đài Loan
-- [Sự Kiện 228](/history/二二八事件) — Gói thuốc lá đó thắp lên sự kiện, các cuộc bắt giữ lần sau và chuyển đổi công lý
-- [Phong Trào Xã Hội Đài Loan Thời Kỳ Nhật Trị](/history/日治時期臺灣社會運動) — Tưởng Vệ Thủy và Hiệp Hội Văn Hoá ở số 199 phố Thái Bình
-- [Dân Giai Và Bài Hát Đài Loan](/music/台灣民謠與歌謠) — Bài Hát Mong Xuân Phong 1932 và Công Ty Đĩa Cổ Lôn Mỹ Á ở phố Thái Bình
-- [Bành Xương](/geography/艋舺) — Người Đồng An sơ tán từ Bành Xương Bát Giáp Trang tới Đà Đạo Thành sau cuộc tranh chấp hàng trên hàng dưới năm 1853, hai phố là kết quả luồng phân chia của cùng một cuộc tranh chấp
-- [Tây Môn Chợ](/geography/西門町) — Cùng batch 1 khu phố cổ lịch sử sibling, 1896 khu vui chơi thời Nhật trị vs phố thương mại lĩnh chính thời Đại Thanh của Đà Đạo Thành, so sánh hai "khoảnh khắc hình thành phố"
-- [Đại Long Khustomok](/geography/大龍峒) — Người Đồng An sơ tán sau khi thua cuộc tranh chấp hàng trên hàng dưới lần đầu rút tới Đại Long Khustomok với miếu Bảo An làm trung tâm phòng thủ, sau rồi mới dời tới Đà Đạo Thành—một trạm trung gian trong tường thuật Đà Đạo Thành phổ biến bị bỏ quên
-- [Sĩ Lâm](/geography/士林) — Cuộc tranh chấp giữa người Trạm Châu và người Tuyền Châu năm 1859 ở Sĩ Lâm và cuộc tranh chấp hàng trên hàng dưới năm 1853 ở Bành Xương là hai cuộc tranh chấp khác nhau, Sĩ Lâm là một kết quả luồng phân chia khác của người Trạm Châu bị người Tuyền Châu đốt phố sau khi xây dựng lại
+- [Đài Bắc Thành Phố: Một Thành Phố Với Ba Thời Gian, 1738 Miếu Rồng Sơn Nhìn 2004 Số 101](/vi/geography/taipei-city) — Panorama 12 quận Đài Bắc, vị trí Đà Đạo Thành trong ba phố
+- [Văn Hoá Phố Cổ Đài Loan Và Khu Thương Mại Phố](/vi/culture/taiwan-historic-streets-and-commercial-districts) — Tập tin chính phố cổ, so sánh Phố Dị Hoá với Lộc Cảng, Bành Xương, Tam Tước
+- [Văn Hoá Trà Đài Loan](/vi/culture/taiwanese-tea-culture-and-living-aesthetics) — Bối cảnh hoàn chỉnh của Formosa Tea và ngành trà Bắc Đài Loan
+- [Sự Kiện 228](/vi/history/228-incident) — Gói thuốc lá đó thắp lên sự kiện, các cuộc bắt giữ lần sau và chuyển đổi công lý
+- [Phong Trào Xã Hội Đài Loan Thời Kỳ Nhật Trị](/vi/history/social-movements-during-japanese-rule) — Tưởng Vệ Thủy và Hiệp Hội Văn Hoá ở số 199 phố Thái Bình
+- [Dân Giai Và Bài Hát Đài Loan](/vi/music/taiwan-folk-music-and-songs) — Bài Hát Mong Xuân Phong 1932 và Công Ty Đĩa Cổ Lôn Mỹ Á ở phố Thái Bình
+- [Bành Xương](/vi/geography/bangka) — Người Đồng An sơ tán từ Bành Xương Bát Giáp Trang tới Đà Đạo Thành sau cuộc tranh chấp hàng trên hàng dưới năm 1853, hai phố là kết quả luồng phân chia của cùng một cuộc tranh chấp
+- [Tây Môn Chợ](/vi/geography/ximending) — Cùng batch 1 khu phố cổ lịch sử sibling, 1896 khu vui chơi thời Nhật trị vs phố thương mại lĩnh chính thời Đại Thanh của Đà Đạo Thành, so sánh hai "khoảnh khắc hình thành phố"
+- [Đại Long Khustomok](/vi/geography/dalongdong) — Người Đồng An sơ tán sau khi thua cuộc tranh chấp hàng trên hàng dưới lần đầu rút tới Đại Long Khustomok với miếu Bảo An làm trung tâm phòng thủ, sau rồi mới dời tới Đà Đạo Thành—một trạm trung gian trong tường thuật Đà Đạo Thành phổ biến bị bỏ quên
+- [Sĩ Lâm](/vi/geography/shilin) — Cuộc tranh chấp giữa người Trạm Châu và người Tuyền Châu năm 1859 ở Sĩ Lâm và cuộc tranh chấp hàng trên hàng dưới năm 1853 ở Bành Xương là hai cuộc tranh chấp khác nhau, Sĩ Lâm là một kết quả luồng phân chia khác của người Trạm Châu bị người Tuyền Châu đốt phố sau khi xây dựng lại
 
 ## Nguồn Hình Ảnh
 
@@ -264,7 +264,7 @@ Bài viết này sử dụng 5 hình ảnh được phép CC / Attribution (hìn
 
 [^15]: [Thư Viện Ký Ức Văn Hóa Quốc Gia: Công Trình Hiện Đại Hoá Đài Loan Của Lưu Minh Truyền](https://memory.culture.tw/) — Năm 1885 Lưu Minh Truyền ở Đà Đạo Thành xây dựng trường học phương Tây là trường học hiện đại đầu tiên của Đài Loan, địa chỉ ở hôm nay khu vực giữa đường Lục Quán phố và đường Kiến Xương phố, nội dung giáo dục gồm tiếng Anh pháp văn địa lý toán học số học được giáo dạy bởi giáo viên nước ngoài mời đến năm đầu tiên tuyển sinh 64 học sinh, năm 1888 mở cơ quan bưu điện Đài Loan đầu tiên, năm 1889 đường sắt từ Đà Đạo Thành tới Cơ Long thông xe, năm 1891 nhà ga Đà Đạo Thành bắt đầu hoạt động cho tới năm 1908 bị nhà ga Đài Bắc mới xây thay thế.
 
-[^16]: [Wikipedia: Thái Bình Chợ （Đài Loan）](https://zh.wikipedia.org/wiki/%E5%A4%AA%E5%B9%B3%E7%94%BA_(%E8%87%BA%E7%81%A3) — )) — Thời kỳ Nhật trị từ thập niên 1910 trở đi chia Đà Đạo Thành thành Thái Bình Chợ, Vĩnh Lạc Chợ, Nhật Tân Chợ, Kiến Thành Chợ bốn khu phố, trong đó Thái Bình Chợ (hôm nay đường Yên Bình Bắc) và Vĩnh Lạc Chợ (hôm nay phố Dị Hoá) hai trục chính từ thập niên 1920 trở đi biến thành "Thương Xá Của Người Đài Loan", người Nhật ở thành phố, người Đài Loan ở Thái Bình Chợ, là đại diện phân hoá không gian tộc người của Đài Bắc thời Nhật trị
+[^16]: [Wikipedia: Thái Bình Chợ （Đài Loan）](<https://zh.wikipedia.org/wiki/%E5%A4%AA%E5%B9%B3%E7%94%BA_(%E8%87%BA%E7%81%A3)>) — )) — Thời kỳ Nhật trị từ thập niên 1910 trở đi chia Đà Đạo Thành thành Thái Bình Chợ, Vĩnh Lạc Chợ, Nhật Tân Chợ, Kiến Thành Chợ bốn khu phố, trong đó Thái Bình Chợ (hôm nay đường Yên Bình Bắc) và Vĩnh Lạc Chợ (hôm nay phố Dị Hoá) hai trục chính từ thập niên 1920 trở đi biến thành "Thương Xá Của Người Đài Loan", người Nhật ở thành phố, người Đài Loan ở Thái Bình Chợ, là đại diện phân hoá không gian tộc người của Đài Bắc thời Nhật trị
 
 [^17]: [Wikipedia: Công Ty Hàng Hoá Nghĩa Mỹ](https://zh.wikipedia.org/zh-tw/%E7%BE%A9%E7%BE%8E%E9%A3%9F%E5%93%81) — Năm 1934 Cao Phiên Vương (học trò của Tưởng Vệ Thủy) và anh rễ Cao Tái Được ở Đà Đạo Thành phố Thái Bình Ba Đoạn số 199 (hôm nay đường Yên Bình Bắc Đoạn 2 số 31) mở "cửa hàng Nghĩa Mỹ" kinh doanh bánh mì hàng hoá, địa chỉ trước đó là bệnh viện Đại An của Tưởng Vệ Thủy (1916-1931), hậu chiến cửa hàng phân chi Yên Bình Nghĩa Mỹ tiếp tục hoạt động tới nay, là một trong những cửa hàng có tính lịch sử nhất của Đài Bắc.
 

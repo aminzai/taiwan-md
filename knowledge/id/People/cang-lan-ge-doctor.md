@@ -28,7 +28,7 @@ Pada Oktober 2020, sebuah wawancara dimulai di kedai sarapan di Shilin. Saat itu
 
 ![Lokasi vaksinasi COVID-19 Taiwan; staf medis menyiapkan vaksin; gambar ini digunakan untuk konteks komunikasi publik medis dalam artikel](https://upload.wikimedia.org/wikipedia/commons/2/2b/Taiwan_COVID-19_vaccination_20210716.jpg)
 
-_Gambar: Istana Negara, 〈Taiwan COVID-19 vaccination 20210716〉; Halaman sumber asli Wikimedia Commons; Lisensi: CC BY 2.0._
+_Gambar: Istana Negara, 〈Taiwan COVID-19 vaccination 20210716〉; Halaman sumber asli Wikimedia Commons; Lisensi: CC BY 2.0. [Wikimedia Commons 原始檔案頁](https://commons.wikimedia.org/wiki/File:Taiwan_COVID-19_vaccination_20210716.jpg) [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)_
 
 Kalimat ini terdengar seperti menyederhanakan kreasi, padahal kenyataannya sebaliknya. Pekerjaan residen rumah sakit, rekaman, penulisan naskah, dan penyuntingan bukanlah sesuatu yang bisa selesai secara otomatis hanya dengan memotong sedikit waktu setelah jam kerja. Dalam wawancara tersebut, Pigeon Biru berbicara tentang pembagian tugas di berbagai platform: YouTube untuk analisis drama medis, Podcast untuk isu berita, sementara teks disisakan untuk pediatri dan kedokteran keluarga.[^1]
 
@@ -54,7 +54,7 @@ Transisi ini mudah ditulis sebagai "pandai mencari _traffic_," tetapi itu akan m
 
 ![Eksterior Rumah Sakit Universitas Medis Taipei; gambar ini digunakan untuk konteks profesional medis dan institusi publik](https://upload.wikimedia.org/wikipedia/commons/f/f1/Taipei_Medical_University_Hospital_20161112.jpg)
 
-_Gambar: Padai, 〈Taipei Medical University Hospital 20161112〉; Halaman sumber asli Wikimedia Commons; Lisensi: CC BY-SA 4.0._
+_Gambar: Padai, 〈Taipei Medical University Hospital 20161112〉; Halaman sumber asli Wikimedia Commons; Lisensi: CC BY-SA 4.0. [Wikimedia Commons 原始檔案頁](https://commons.wikimedia.org/wiki/File:Taipei_Medical_University_Hospital_20161112.jpg) [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)_
 
 Ia juga menganggap penampilan sebagai bagian dari pekerjaannya. Wawancara tersebut menyebutkan bahwa ia menyukai tepuk tangan melalui pertunjukan sejak masa kuliah. Setelah menjadi dokter, dorongan untuk tampil ini tidak hilang, tetapi digunakan untuk membantu penonton menyelesaikan pengetahuan yang sulit.[^2]
 

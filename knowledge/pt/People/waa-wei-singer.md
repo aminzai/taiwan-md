@@ -228,15 +228,15 @@ A obra mais famosa não é "Ophelia", não é "Aquele Lugar", não são as duas 
 **Leitura complementar**:
 
 - [Lu Guang-zhong](/pt/people/crowd-lu-indie-folk-treasure) — Outra demonstração de «não famoso mas premiado» no mesmo ecossistema indie mandarim, mesma trilha «obra primeiro, exposição depois»
-- [Lin You-jia](/people/林宥嘉) — Outra rota: do _talent show_ ao Golden Melody, levando o ofício de palco ao extremo
+- [Lin You-jia](/pt/people/yoga-lin) — Outra rota: do _talent show_ ao Golden Melody, levando o ofício de palco ao extremo
 - [Jay Chou](/pt/people/jay-chou) — O outro polo do espectro pop mandarim: sistema de superestrela vs. cantor de obra independente
 - [Jolin Tsai](/pt/people/jolin-tsai) — Outro jeito de cantora construir voz, caso oposto a Waa Wei
 - [Golden Melody](/pt/music/pop-music-and-golden-melody-awards) — Palco onde Waa Wei levou duas vezes Melhor Cantora Mandarim
-- [Pop de Taiwan](/music/台灣流行音樂) — Ambiente da indústria pop mandarim
+- [Pop de Taiwan](/pt/music/golden-melodies-legacy-taiwan-pop-music) — Ambiente da indústria pop mandarim
 - [Indie de Taiwan](/pt/music/indie-music-scene) — Da Natural Q aos anos 2020 no mainstream Golden Melody
 - [Rainie Yang](/pt/people/rainie-yang) — Contraponto estrutural da mesma geração «mercado vs. academia»: Rainie Yang tem 45º Golden Bell mas nunca levou Golden Melody; Waa Wei duas vezes Melhor Cantora Mandarim
 - [Huang Shao-yong](/pt/people/huang-shao-yong-musician) — Da época de Matzka a _Pérola Punitiva_ "Língua Má", "Por Exemplo Partir", "Medusa" três faixas de produção solo, produtor eletrônico colaborando com Waa Wei há mais de dez anos
-- [Ke Chih-tang](/people/柯智棠) — Primo, cantor folk estilo britânico, três álbuns produzidos por Chen Chien-chi em ritmo lento
+- [Ke Chih-tang](/pt/people/ke-zhi-tang-musician) — Primo, cantor folk estilo britânico, três álbuns produzidos por Chen Chien-chi em ritmo lento
 
 ## Referências
 

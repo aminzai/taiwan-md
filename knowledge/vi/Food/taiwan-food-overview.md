@@ -261,37 +261,37 @@ Không Có Một Món Nào Là Hoàn Toàn Của Đài Loan. Mỗi Món, Đều 
 
 **Dạy Đáy Đảo**:
 
-- [Ẩm Thực Bản Địa Đài Loan](/food/ẩm-thực-bản-địa-đài-loan) — 16 Tộc Mỗi Tộc Có Cách Ăn Riêng, Từ Thịt Nướng Đá Tới Canh Chua Cay Binaleng
-- [Ẩm Thực Khách Gia](/food/ẩm-thực-khách-gia) — «Béo, Mặn, Thơm» Với Trí Tuệ Bảo Quản Trên Đường Nhập Cư
+- [Ẩm Thực Bản Địa Đài Loan](/vi/food/taiwan-indigenous-foodways) — 16 Tộc Mỗi Tộc Có Cách Ăn Riêng, Từ Thịt Nướng Đá Tới Canh Chua Cay Binaleng
+- [Ẩm Thực Khách Gia](/vi/food/hakka-food-culture) — «Béo, Mặn, Thơm» Với Trí Tuệ Bảo Quản Trên Đường Nhập Cư
 
 **Hỗn Hợp Di Cư**:
 
-- [Cơm Ăn Eyên Ngoài Tỉnh Đài Loan](/food/cơm-ăn-eyên-ngoài-tỉnh-đài-loan) — 1.21 Triệu Người Năm 1949 Mang Tám Phong Cách Ẩm Thực, Quanh Lại Được Đảo Hiệu Chuẩn
-- [Mỳ Bò](/food/mỳ-bò) — Tương Ớt Cay Ớt Vùng Eyên Ngoài Tỉnh Với Đậu Nành Đài Loan
+- [Cơm Ăn Eyên Ngoài Tỉnh Đài Loan](/vi/food/military-dependents-village-cuisine) — 1.21 Triệu Người Năm 1949 Mang Tám Phong Cách Ẩm Thực, Quanh Lại Được Đảo Hiệu Chuẩn
+- [Mỳ Bò](/vi/food/beef-noodle-soup) — Tương Ớt Cay Ớt Vùng Eyên Ngoài Tỉnh Với Đậu Nành Đài Loan
 
 **Thường Dân Hàng Ngày**:
 
-- [Cơm Thịt Kho](/food/cơm-thịt-kho-đài-loan) — Phế Liệu Thịt Thời Kỳ Đầu Sau Chiến Tranh, Rưới Thành Cơm Quốc Dân
-- [Văn Hóa Chợ Đêm](/food/văn-hóa-chợ-đêm) — Toàn Đài 300 Chợ Đêm, Bản Đồ Vị Giác Chí Lâm, Ninh Hạ, Thẩm Hà, Sáu Hợp, Phùng Giáp
-- [Ăn Vặt Đài Loan](/food/ăn-vặt-đài-loan) — Từ Trứng Chiên Hàu Tới Gà Chiên Mặn, Tập Hợp Hoàn Toàn Vị Trong Hẻm Phố
+- [Cơm Thịt Kho](/vi/food/braised-pork-rice) — Phế Liệu Thịt Thời Kỳ Đầu Sau Chiến Tranh, Rưới Thành Cơm Quốc Dân
+- [Văn Hóa Chợ Đêm](/vi/food/night-market-culture) — Toàn Đài 300 Chợ Đêm, Bản Đồ Vị Giác Chí Lâm, Ninh Hạ, Thẩm Hà, Sáu Hợp, Phùng Giáp
+- [Ăn Vặt Đài Loan](/vi/food/taiwanese-street-food) — Từ Trứng Chiên Hàu Tới Gà Chiên Mặn, Tập Hợp Hoàn Toàn Vị Trong Hẻm Phố
 
 **Cách Mạng Chất Lỏng**:
 
-- [Trà Sữa Trân Châu](/food/trà-sữa-trân-châu) — Suất Nước Xuân Đài Trung Năm 1986 Một Chiều, Thay Đổi Bản Đồ Đồ Uống Thế Giới
-- [Văn Hóa Trà Uống Nước Tay Cầm Đài Loan](/food/văn-hóa-trà-uống-nước-tay-cầm-đài-loan) — 50 Ân, Cung Trà, Suất Nước Xuân, CoCo Đi Vào 40 Quốc Gia Nhiều
-- [Văn Hóa Trà](/food/văn-hóa-trà) — Từ Năm 1865 Trà Ô Long Của Tào Đức Tới Hôm Nay Trà Cao Sơn A Lý Sơn
+- [Trà Sữa Trân Châu](/vi/food/bubble-tea) — Suất Nước Xuân Đài Trung Năm 1986 Một Chiều, Thay Đổi Bản Đồ Đồ Uống Thế Giới
+- [Văn Hóa Trà Uống Nước Tay Cầm Đài Loan](/vi/food/hand-shaken-drink-culture) — 50 Ân, Cung Trà, Suất Nước Xuân, CoCo Đi Vào 40 Quốc Gia Nhiều
+- [Văn Hóa Trà](/vi/food/golden-age-echoes-taiwan-tea-culture) — Từ Năm 1865 Trà Ô Long Của Tào Đức Tới Hôm Nay Trà Cao Sơn A Lý Sơn
 
 **Nghi Lễ Với Tinh Tế**:
 
-- [Văn Hóa Tiệc Liên Hoan Đài Loan](/food/văn-hóa-tiệc-liên-hoan-đài-loan) — Lâm Thiêm Thịnh, Lâm Minh Tàn Cha Con, Mười Hai Bàn Cơm Tình Cảm Nghĩa Lễ
-- [Michelin Đài Loan Với Ẩm Thực Tinh Tế](/food/michelin-đài-loan-với-ẩm-thực-tinh-tế) — Năm 2018 Vào Đài Loan, Năm 2025 419 Gia Quỹ Lộ Trình
-- [Văn Hóa Bữa Sáng Đài Loan](/food/văn-hóa-bữa-sáng-đài-loan) — Đậu Nành Dưới Cầu Vĩnh Hòa, Tới Cửa Hàng Ăn Sáng Liên Chuỗi 24 Giờ
+- [Văn Hóa Tiệc Liên Hoan Đài Loan](/vi/food/taiwan-banquet-culture) — Lâm Thiêm Thịnh, Lâm Minh Tàn Cha Con, Mười Hai Bàn Cơm Tình Cảm Nghĩa Lễ
+- [Michelin Đài Loan Với Ẩm Thực Tinh Tế](/vi/food/taiwan-michelin-fine-dining) — Năm 2018 Vào Đài Loan, Năm 2025 419 Gia Quỹ Lộ Trình
+- [Văn Hóa Bữa Sáng Đài Loan](/vi/food/taiwan-breakfast-culture) — Đậu Nành Dưới Cầu Vĩnh Hòa, Tới Cửa Hàng Ăn Sáng Liên Chuỗi 24 Giờ
 
 **Mở Rộng Đa Dạng**:
 
-- [Hòa Quyện Ẩm Thực Tân Cư Dân Đài Loan](/food/hòa-quyện-ẩm-thực-tân-cư-dân-đài-loan) — 1.87 Triệu Tân Cư Dân Mang Bản Đồ Đông Nam Á
-- [Văn Hóa Chay Đài Loan](/food/văn-hóa-chay-đài-loan) — Tỷ Lệ Dân Số Chay Toàn Cầu Thứ Ba
-- [Vương Quốc Trái Cây Đài Loan](/food/vương-quốc-trái-cây-đài-loan) — Từ Đào Nước Núi Cao Tới Thích Thối Nhiệt Đới Bản Đồ Trái Cây Đảo
+- [Hòa Quyện Ẩm Thực Tân Cư Dân Đài Loan](/vi/food/taiwanese-new-immigrant-culinary-fusion) — 1.87 Triệu Tân Cư Dân Mang Bản Đồ Đông Nam Á
+- [Văn Hóa Chay Đài Loan](/vi/food/taiwan-vegetarian-culture) — Tỷ Lệ Dân Số Chay Toàn Cầu Thứ Ba
+- [Vương Quốc Trái Cây Đài Loan](/vi/food/taiwan-fruit-kingdom) — Từ Đào Nước Núi Cao Tới Thích Thối Nhiệt Đới Bản Đồ Trái Cây Đảo
 - [Cái Gọi Ẩm Thực](/food) — Chỉ Số Phân Loại Ẩm Thực Toàn Bộ
 
 ---

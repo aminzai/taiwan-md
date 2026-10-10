@@ -288,6 +288,6 @@ The Shung Ye Museum of Formosan Aborigines in Taipei is an important venue for p
 
 [^3]: Ming Li-guo, _The Beauty of Taiwan's Indigenous Music_, p. 120. The Paiwan double-tube nose flute was traditionally restricted to noble-class men, closely tied to the group's hierarchical system. [Author Introduction](https://par.npac-ntch.org/tw/article/author/2656)
 
-[^4]: Hsü Chang-hui, _First Draft of a History of Music in Taiwan_, Whole Music Publishing, 1991, p. 157. The process by which Thao pestle music developed from agricultural work songs into a performing art is recorded here. [Sanmin Online Bookstore](https://www.books.com.tw/product/index/000268139)
+[^4]: Hsü Chang-hui, _First Draft of a History of Music in Taiwan_, Whole Music Publishing, 1991, p. 157. The process by which Thao pestle music developed from agricultural work songs into a performing art is recorded here. [Sanmin Online Bookstore](https://www.sanmin.com.tw/product/index/000268139)
 
 [^5]: Council of Indigenous Peoples, _White Paper on Indigenous Cultural Revitalization Policy_, 2019. https://www.cip.gov.tw/

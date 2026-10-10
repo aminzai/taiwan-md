@@ -125,7 +125,7 @@ Perjalanan Wistron Technology dari pendirian oleh tiga insinyur HP pada tahun 19
 
 **Bacaan Lanjutan**:
 
-- [Program Inkubator Taipei AAMA](/economy/AAMA台北搖籃計畫): Yayasan Pendidikan Wistron adalah salah satu donatur yayasan untuk program inkubasi ini, dan Ketua Direktur Liu Ke-chen juga pernah menjabat sebagai mentor program; keduanya bersama-sama mendorong "Proyek Kolaborasi Perusahaan AIoT AAMA".
+- [Program Inkubator Taipei AAMA](/id/economy/aama-taipei-cradle-program): Yayasan Pendidikan Wistron adalah salah satu donatur yayasan untuk program inkubasi ini, dan Ketua Direktur Liu Ke-chen juga pernah menjabat sebagai mentor program; keduanya bersama-sama mendorong "Proyek Kolaborasi Perusahaan AIoT AAMA".
 
 ## Referensi
 

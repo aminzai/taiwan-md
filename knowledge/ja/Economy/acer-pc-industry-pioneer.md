@@ -198,7 +198,7 @@ _TEDxTaipei公式チャンネル、2012年：施振栄〈談王道與共創共�
 - [施振栄](/ja/people/stan-shih) — 微笑カーブを描き、2度目復帰して救火に当たった宏碁創業者。科技教父から社会公益専心へ
 - [台灣企業：緯創資通](/ja/economy/wistron-global-manufacturing-transformation-pioneer) — 大分家時最も期待されていなかった代工業体の小規模企業。AI時代において微笑カーブ頂点へ爬到した一家
 - [台灣企業：華碩](/ja/economy/asus-computer) — 2008年まで和碩を切り離さず、別の分家路を歩んだ対照組。如今時価総額が宏碁を逆転
-- [Computex：三大國際電腦展收了兩個，剩下的那個長在台北](/ja/technology/computex-taipei) — 宏碁30年浮沈の同じ舞台。台湾製造業の年度主場でもある
+- [Computex：三大國際電腦展收了兩個，剩下的那個長在台北](/ja/technology/computex) — 宏碁30年浮沈の同じ舞台。台湾製造業の年度主場でもある
 - [台灣產業轉型升級](/ja/economy/industrial-transformation-from-manufacturing-to-innovation) — 代工業体中段から両端へ爬到するのは唯一の道か？微笑カーブ後の整個大命題
 
 ## 圖片來源
@@ -211,7 +211,7 @@ _TEDxTaipei公式チャンネル、2012年：施振栄〈談王道與共創共�
 - [Predator Helios 300 eスポーツノートPC](https://commons.wikimedia.org/wiki/File:Acer_Predator_Helios_300_back_panel_open.jpg) — Photo: Vjdeep, CC BY 3.0
 - [Acer Chromebook CB3-111](https://commons.wikimedia.org/wiki/File:Acer_Chromebook_CB3_111_B%26H_jeh.JPG) — Photo: Jim.henderson, CC0
 
-## 參考資料
+## 参考資料
 
 [^1]: [智栄財団法人〈1992 微笑カーブ〉](https://stansfoundation.org/articles/bdfb93) — 施振栄自らの財団法人。微笑カーブの原始定義と施振栄の逐字発言を収録。「組立はすでにコンピュータ産業において付加価値が最も低い部分变成了」を含む。
 

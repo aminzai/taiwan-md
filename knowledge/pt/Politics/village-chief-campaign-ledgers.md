@@ -127,7 +127,7 @@ Os candidatos pretendentes para chefe de vila em 2026 podem começar a receber d
 
 ## Leitura Relacionada
 
-- [Sistema do Chefe de Vila](/politics/村里長制度) — Como funciona o elemento político mais básico de Taiwan, com 7.748 líderes eleitos
+- [Sistema do Chefe de Vila](/pt/politics/village-chief-system) — Como funciona o elemento político mais básico de Taiwan, com 7.748 líderes eleitos
 - [Transparência de Doação Política](/pt/politics/political-donation-transparency) — O design do sistema de declaração e a falha de "pegar emprestado dinheiro de si mesmo"
 - [Eleição Unificada de 2026](/pt/politics/2026-local-elections-taiwan) — O próximo lote de livros virá desta eleição
 

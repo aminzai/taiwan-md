@@ -21,7 +21,7 @@ tags:
     'B2B Wandel',
     'physische AI',
   ]
-subcategory: 'Halbleiter und Hardware'
+subcategory: '半導體與硬體'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-12
@@ -42,6 +42,7 @@ relatedDiary: ['2026-06-01-130850-manual']
 translatedFrom: 'Technology/Computex.md'
 sourceCommitSha: '46055e4f3'
 sourceContentHash: 'sha256:f4b0813105283dab'
+sourceBodyHash: 'sha256:45291b99c4801128'
 translatedAt: '2026-09-12T06:45:50.317912+00:00'
 ---
 
@@ -265,10 +266,10 @@ _Offizieller NVIDIA-Kanal: Vollständige Hauptrede von Jensen Huang bei COMPUTEX
 **Weiterführende Lesestoffe**:
 
 - [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Diese Kette, die die Hauptbühne von COMPUTEX stützt, hat ihren Ursprung in Hsinchu, Taichung und Tainan mit Waferfabriken.
-- [Entwicklung und zukünftige Strategie der KI in Taiwan](/Technology/台灣人工智慧發展與未來策略) — Von Servermontage zu physischer KI: Die taiwanesische KI-Industrie durchläuft eine zweite Transformation.
-- [Roboterindustrie in Taiwan](/Technology/台灣機器人產業) — Der erste Auftritt von AUO bei COMPUTEX war ein Schlüsselabschnitt dieser Lieferkette.
+- [Entwicklung und zukünftige Strategie der KI in Taiwan](/de/technology/artificial-intelligence-development-strategy) — Von Servermontage zu physischer KI: Die taiwanesische KI-Industrie durchläuft eine zweite Transformation.
+- [Roboterindustrie in Taiwan](/de/technology/taiwan-robotics-industry) — Der erste Auftritt von AUO bei COMPUTEX war ein Schlüsselabschnitt dieser Lieferkette.
 - [Entwicklung der E-Mobilitätsbranche in Taiwan](/de/technology/taiwan-electric-vehicle-industry-chain) — Eine weitere Fertigungsachse, die neben den KI-Servern steht.
-- [NVIDIA in Taiwan](/Technology/NVIDIA在台灣) — Von der Kindheit von Jensen Huang in Tainan bis zur Heimatbasis GTC Taipei.
+- [NVIDIA in Taiwan](/de/technology/nvidia-in-taiwan) — Von der Kindheit von Jensen Huang in Tainan bis zur Heimatbasis GTC Taipei.
 
 ## Bildquellen
 

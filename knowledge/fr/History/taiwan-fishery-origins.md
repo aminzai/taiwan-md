@@ -143,7 +143,7 @@ De même, les routes, la production de glace, l'électricité et l'entreposage a
 ## Pour aller plus loin
 
 - [La modernisation de la pêche taïwanaise](/fr/history/taiwan-fishery-modernization) — La seconde moitié de la même mer : flottes lointaines, zones économiques exclusives et responsabilités des États du pavillon
-- [L'histoire des associations agricoles et halieutiques de Taïwan](/history/台灣農會史) — Changements institutionnels dans les organisations rurales, la finance et les guichets publics locaux
+- [L'histoire des associations agricoles et halieutiques de Taïwan](/fr/history/taiwan-farmers-association-history) — Changements institutionnels dans les organisations rurales, la finance et les guichets publics locaux
 - [L'histoire de la poste taïwanaise](/history/台灣郵政史) — Un autre système d'infrastructure publique reliant les lieux, la logistique et l'administration nationale
 - [L'histoire de l'eau potable taïwanaise](/history/台灣自來水史) — Comment l'ingénierie, l'hygiène et le quotidien urbain forment ensemble des institutions
 

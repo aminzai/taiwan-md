@@ -23,6 +23,7 @@ readingTime: 16
 translatedFrom: 'People/林良.md'
 sourceCommitSha: '9094012f4'
 sourceContentHash: 'sha256:eea6e5a10d131ef2'
+sourceBodyHash: 'sha256:99fcaed64626278d'
 translatedAt: '2026-09-22T08:23:41.098684+00:00'
 ---
 

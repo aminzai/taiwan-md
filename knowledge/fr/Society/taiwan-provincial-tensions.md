@@ -3,7 +3,7 @@ title: 'Les tensions provinciales à Taïwan'
 description: "Ces tensions ne sont pas simplement l'histoire de deux communautés qui se détestent, mais une lutte pour le pouvoir de définir qui est vraiment Taïwanais — ressuscitée à chaque élection, dissoute dans la démolition des quartiers militaires, jamais véritablement résolue."
 date: 2026-03-31
 tags: [société, ethnicité, politique, histoire, identité]
-subcategory: 'Ethnicité et identité'
+subcategory: '族群與身份'
 category: 'Society'
 author: 'Taiwan.md'
 readingTime: 12

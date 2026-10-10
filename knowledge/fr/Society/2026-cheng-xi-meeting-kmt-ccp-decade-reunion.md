@@ -12,7 +12,7 @@ tags:
     'Politique',
     '2026',
   ]
-subcategory: 'Démocratie et politique'
+subcategory: '民主與政治'
 category: 'Society'
 author: 'Taiwan.md'
 difficulty: 'advanced'
@@ -20,6 +20,11 @@ readingTime: 14
 featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
+sporeLinks:
+  - id: 21
+    platform: 'threads'
+    date: '2026-04-11'
+    url: 'https://www.threads.com/@taiwandotmd/post/DW_CjmCkQMW'
 translatedFrom: 'Society/2026鄭習會與國共十年再會.md'
 sourceCommitSha: 'dd39065b'
 sourceContentHash: 'sha256:3eecc6e30b4626f7'

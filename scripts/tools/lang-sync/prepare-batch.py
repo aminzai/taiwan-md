@@ -28,6 +28,9 @@ import argparse, json, hashlib, re, subprocess, sys
 from pathlib import Path
 from datetime import datetime, timezone, timedelta
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from contributor_guard import ContributorGuard  # noqa: E402 — OBSERVER-QUEUE #67
+
 REPO = Path(__file__).resolve().parent.parent.parent.parent
 KNOWLEDGE = REPO / "knowledge"
 TASKS = REPO / ".lang-sync-tasks"
@@ -206,6 +209,8 @@ def main():
 
     manifest_articles = []
     missing_slugs = []
+    skipped_by_guard = 0
+    guard = ContributorGuard(log=lambda m: print(m, file=sys.stderr))
     for entry in candidates:
         zh_path = entry["zh_path"]
         status = entry["status"]
@@ -240,6 +245,13 @@ def main():
             en_path = f"knowledge/{args.lang}/{category}/{slug}.md"
 
         sha, content_hash, body_hash = get_zh_meta(zh_path)
+
+        # OBSERVER-QUEUE #67（2026-10-10 哲宇拍板 B）：目標被開著的投稿 PR 碰到、或現行
+        # 譯文是人翻的 stale，都不進派工單。babel-dispatch 在排佇列時已問過一次，這裡
+        # 是手動跑 prepare-batch 時唯一的一道門（它知道最終 en_path，缺頁也擋得住）。
+        if not guard.check(args.lang, zh_path, status, en_path, slug=slug, zh_sha=sha).ok:
+            skipped_by_guard += 1
+            continue
 
         wikilinks = extract_wikilinks(zh_path)
         target_map = {}
@@ -326,6 +338,9 @@ def main():
     print(f"   Total: {len(manifest_articles)} articles")
     print(f"   Stale: {sum(1 for a in manifest_articles if a['status'] == 'stale')}")
     print(f"   Missing: {sum(1 for a in manifest_articles if a['status'] == 'missing')}")
+    if skipped_by_guard:
+        print(f"   Skipped by contributor guard (#67): {skipped_by_guard} "
+              f"(open-pr={guard.skipped.get('open-pr', 0)}, human-authored={guard.skipped.get('human-authored', 0)})")
     total_targets = sum(len(a["wikilink_targets"]) for a in manifest_articles)
     resolved = sum(
         1 for a in manifest_articles

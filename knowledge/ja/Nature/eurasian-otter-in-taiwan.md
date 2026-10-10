@@ -4,7 +4,7 @@ description: '台湾本島のユーラシアカワウソは1980年代以降、�
 date: 2026-04-25
 author: 'Taiwan.md Contributors'
 category: Nature
-subcategory: '保育と環境'
+subcategory: '保育與環境'
 tags:
   [
     'ユーラシアカワウソ',
@@ -19,7 +19,7 @@ readingTime: 10
 lastVerified: 2026-04-25
 lastHumanReview: false
 translatedFrom: Nature/水獺.md
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:06078f29307a4c77'
 sourceBodyHash: 'sha256:cd4c66affdcc4144'
 translatedAt: '2026-05-16T22:35:34Z'

@@ -166,6 +166,6 @@ Hoje, ao comprar um peixe no mercado, vê-se peso, preço e origem. Não se vê 
 
 ## Leitura complementar
 
-- [台灣漁業起源](/history/台灣漁業起源) — A primeira metade do mesmo mar: experimentação em aquicultura da era colonial, mercados de peixe e recepção técnica do pós-guerra
+- [台灣漁業起源](/pt/history/taiwan-fishery-origins) — A primeira metade do mesmo mar: experimentação em aquicultura da era colonial, mercados de peixe e recepção técnica do pós-guerra
 - [台灣海洋貿易史](/pt/history/taiwan-maritime-trade-history)
 - [台灣糖業史](/history/台灣糖業史)

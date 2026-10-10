@@ -4,7 +4,7 @@ description: '1950년 10월 18일 타이베이현 반교 출생. 1974년 10만 �
 date: 2026-03-19
 category: 'People'
 tags: ['기술과 기업', '홍해', '제조업', '기업가', 'Fortune 500', '영령재단']
-subcategory: '기술과 기업'
+subcategory: '科技與企業'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

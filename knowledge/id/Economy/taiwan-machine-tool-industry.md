@@ -14,7 +14,7 @@ tags:
     'Klaster Industri',
     '2026',
   ]
-subcategory: 'Industri Tradisional'
+subcategory: '傳統產業'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 13
@@ -22,7 +22,7 @@ featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
 translatedFrom: 'Economy/台灣機械工具產業.md'
-sourceCommitSha: '37638e173'
+sourceCommitSha: 'f99a9959c'
 sourceContentHash: 'sha256:74fc634acab51c40'
 sourceBodyHash: 'sha256:f5ecba58cc661bc1'
 translatedAt: '2026-09-01T22:32:31+08:00'

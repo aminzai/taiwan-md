@@ -264,7 +264,7 @@ La Société Li n'a pas cessé de paraître pendant 60 ans. Taiwan.md fait que d
 Cet article utilise 4 images de domaine public / sous licence CC, toutes mises en cache dans `public/article-images/art/` pour éviter les liens directs vers les serveurs sources :
 
 - [Poète Wu Sheng en 2016 au Salon du livre de Taipei](https://commons.wikimedia.org/wiki/File:2016TIBE_D3_Wu_Sheng.jpg) — Photo : Rico Shen, 2016, CC BY-SA 4.0 (hero)
-- [Photo de groupe des directeurs de la Société poétique Li en 1964](https://commons.wikimedia.org/wiki/File:1964%E5%B9%B4%E7%AC%A0%E8%A9%A9%E7%A4%BE%E7%B6%93%E7%90%86.jpg) — Document historique de l'année de fondation de la Société Li, Wikimedia Commons CC BY-SA / Domaine public
+- [Photo de groupe des directeurs de la Société poétique Li en 1964](https://commons.wikimedia.org/wiki/File:1964%E5%B9%B4%E7%AC%A0%E8%A9%A9%E5%88%8A%E7%A4%BE%E7%B6%93%E7%90%86.jpg) — Document historique de l'année de fondation de la Société Li, Wikimedia Commons CC BY-SA / Domaine public
 - [Portrait du poète Lin Hengtai](https://commons.wikimedia.org/wiki/File:%E6%9E%97%E4%BA%A8%E6%B3%B0%E8%82%96%E5%83%8F.jpg) — Wikimedia Commons CC BY-SA / Domaine public
 - [Distinction de Chen Qianwu](https://commons.wikimedia.org/wiki/File:%E9%99%B3%E5%8D%83%E6%AD%A6%E8%A4%92%E6%8F%9A%E4%BB%A4.jpg) — Document gouvernemental public, Domaine public
 

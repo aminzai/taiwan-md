@@ -173,7 +173,7 @@ A visibilidade cultural da pega-azul-de-Taiwan mantém-se alta. Além da eleiç�
 
 [^18]: [Threads: Hábito de armazenamento de alimento da pega-azul-de-Taiwan](https://www.threads.com/@mojo71098/post/DFpAEC5pkXf) — Observação de uso de alimento como isca e comportamento de armazenamento.
 
-[^19]: [Relatório Nacional de Aves de Taiwan 2024](https://www.bird.org.tw/sites/default/files/field/file/report/2024%E8%87%BA%E7%81%A3%E5%9C%8B%E5%AE%B6%E9%B3%A5%E9%A1%A5%E5%A0%B1%E5%91%8A%E6%9B%B8%28%E4%B8%AD%E6%96%87%E7%89%88%29_1.pdf) — Relatório mais recente de tendências populacionais, menciona aumento em áreas urbanas.
+[^19]: [Relatório Nacional de Aves de Taiwan 2024](https://www.bird.org.tw/sites/default/files/field/file/report/2024%E8%87%BA%E7%81%A3%E5%9C%8B%E5%AE%B6%E9%B3%A5%E9%A1%A8%E5%A0%B1%E5%91%8A%E6%9B%B8%28%E4%B8%AD%E6%96%87%E7%89%88%29_1.pdf) — Relatório mais recente de tendências populacionais, menciona aumento em áreas urbanas.
 
 [^20]: [IUCN Red List: Urocissa caerulea](https://www.iucnredlist.org/species/22705825/94037944) — Avaliação da IUCN para a pega-azul-de-Taiwan.
 

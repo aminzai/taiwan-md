@@ -63,14 +63,14 @@ Khoảng cách giữa năm mươi triệu và bốn trăm triệu chính là kho
 
 HUR khi ra mắt là một nhóm sáu người:
 
-| Nghệ danh                     | Tên thật       | Xuất thân           | Vị trí                           |
-| :---------------------------- | :------------- | :------------------ | :------------------------------- |
-| Cindy                         | Lợi Thiện Chân | Bình Đông           | Trưởng nhóm, phụ ca sĩ, hình ảnh |
-| Jasmine                       | Bùi Kiệt       | Đài Bắc             | Ca sĩ chính, trung tâm           |
-| C.Holly                       | Vương Sán Quân | Anh                 | Main rapper, main vũ công        |
-| **[Liên Dĩnh](/people/連穎)** | **Liên Dĩnh**  | **Đài Trung**       | **Main vũ công, phụ ca sĩ**      |
-| Sizi                          | Ba Luân Nguyệt | Ulan Bator, Mông Cổ | Ca sĩ chính                      |
-| Jennifer                      | Tịch Tử Kỳ     | Tân Bắc             | Phụ ca sĩ, phụ vũ công           |
+| Nghệ danh                             | Tên thật       | Xuất thân           | Vị trí                           |
+| :------------------------------------ | :------------- | :------------------ | :------------------------------- |
+| Cindy                                 | Lợi Thiện Chân | Bình Đông           | Trưởng nhóm, phụ ca sĩ, hình ảnh |
+| Jasmine                               | Bùi Kiệt       | Đài Bắc             | Ca sĩ chính, trung tâm           |
+| C.Holly                               | Vương Sán Quân | Anh                 | Main rapper, main vũ công        |
+| **[Liên Dĩnh](/vi/people/lien-ying)** | **Liên Dĩnh**  | **Đài Trung**       | **Main vũ công, phụ ca sĩ**      |
+| Sizi                                  | Ba Luân Nguyệt | Ulan Bator, Mông Cổ | Ca sĩ chính                      |
+| Jennifer                              | Tịch Tử Kỳ     | Tân Bắc             | Phụ ca sĩ, phụ vũ công           |
 
 Trong sáu người có hai người không phải người Đài Loan: C.Holly đến từ Anh, Sizi đến từ Ulan Bator, Mông Cổ. Felipe đã cố tình làm điều này ngay từ đầu: gieo rắc gen quốc tế vào thành viên[^2].
 
@@ -194,7 +194,7 @@ Lựa chọn này khiến tốc độ phát triển của HUR+ chậm hơn nhi�
 
 ## Nhóm Nữ Đài Loan Có Thể Đi Được Bao Xa?
 
-Vào thời điểm tháng 4 năm 2026, HUR+ có chín thành viên, ba album, tổng cộng 2.61 triệu lượt xem trên YouTube, và lần đầu tiên biểu diễn tại Đông Nam Á vừa hoàn thành ở Bangkok. Main vũ công của nhóm [Liên Dĩnh](/people/連穎) đã phát triển sự nghiệp solo, EP cá nhân _《EZ》_ theo hướng hip-hop, fan đồng thời ủng hộ ở ba quốc gia[^10]. Trưởng nhóm Lợi Thiện Chân đã từ bỏ công việc tiếp viên hàng không vì nhóm này[^11]. C.Holly gãy xương tay vẫn đeo thạch cao lên sân khấu nhảy[^13]. Fan Hồng Kông thường xuyên bay đến Đài Loan theo dõi họ[^15].
+Vào thời điểm tháng 4 năm 2026, HUR+ có chín thành viên, ba album, tổng cộng 2.61 triệu lượt xem trên YouTube, và lần đầu tiên biểu diễn tại Đông Nam Á vừa hoàn thành ở Bangkok. Main vũ công của nhóm [Liên Dĩnh](/vi/people/lien-ying) đã phát triển sự nghiệp solo, EP cá nhân _《EZ》_ theo hướng hip-hop, fan đồng thời ủng hộ ở ba quốc gia[^10]. Trưởng nhóm Lợi Thiện Chân đã từ bỏ công việc tiếp viên hàng không vì nhóm này[^11]. C.Holly gãy xương tay vẫn đeo thạch cao lên sân khấu nhảy[^13]. Fan Hồng Kông thường xuyên bay đến Đài Loan theo dõi họ[^15].
 
 HUR+ không phải là một câu chuyện thành công — nếu tiêu chuẩn "thành công" là TWICE hay BLACKPINK. Nhưng nó là một **câu chuyện về sự tồn tại**. Trong môi trường mà tuổi thọ trung bình của các nhóm thần tượng Đài Loan chưa đến ba năm, việc sáu năm vẫn phát hành ca khúc mới, vẫn tổ chức biểu diễn, từ Đài Bắc tiến tới Bangkok, và có fan sẵn sàng đổ 1.5 triệu trong mười phút để đưa họ đi thu âm tại Hàn Quốc, bản thân nó đã là một câu trả lời.
 
@@ -206,11 +206,11 @@ HUR+ đang chứng minh giả thuyết này. Vẫn chưa hoàn toàn chứng min
 
 ## Đọc Thêm
 
-- [Liên Dĩnh](/people/連穎) — Main vũ công của HUR+, trường hợp đầu tiên thành viên nhóm nữ đi solo. "Trình độ vũ đạo mà một nhóm nữ nên có"
-- [Thế hệ thần tượng mới Đài Loan](/culture/台灣新偶像世代) — Từ DD52 đến đội cổ vũ Vũ Trụ, thí nghiệm ngành công nghiệp tuyển chọn thần tượng Đài Loan trong sáu năm
-- [Dương Thừa Lâm](/people/楊丞琳) — Huấn luyện viên trưởng _DD52_, và câu chuyện hai mươi lăm năm thoát khỏi hệ thống thần tượng để tự chủ
-- [Ngũ Nguyệt Thiên](/music/五月天) — Câu chuyện hành trình dài của một nhóm nhạc Đài Loan từ sân khấu nhỏ đến sân vận động châu Á
-- [Âm nhạc độc lập Đài Loan](/music/台灣獨立音樂) — Sự giao thoa giữa phong cách âm nhạc HUR+ và điện tử độc lập
+- [Liên Dĩnh](/vi/people/lien-ying) — Main vũ công của HUR+, trường hợp đầu tiên thành viên nhóm nữ đi solo. "Trình độ vũ đạo mà một nhóm nữ nên có"
+- [Thế hệ thần tượng mới Đài Loan](/vi/culture/taiwan-new-idol-generation) — Từ DD52 đến đội cổ vũ Vũ Trụ, thí nghiệm ngành công nghiệp tuyển chọn thần tượng Đài Loan trong sáu năm
+- [Dương Thừa Lâm](/vi/people/rainie-yang) — Huấn luyện viên trưởng _DD52_, và câu chuyện hai mươi lăm năm thoát khỏi hệ thống thần tượng để tự chủ
+- [Ngũ Nguyệt Thiên](/vi/music/mayday-band) — Câu chuyện hành trình dài của một nhóm nhạc Đài Loan từ sân khấu nhỏ đến sân vận động châu Á
+- [Âm nhạc độc lập Đài Loan](/vi/music/indie-music-scene) — Sự giao thoa giữa phong cách âm nhạc HUR+ và điện tử độc lập
 
 ## Tài liệu Tham khảo
 

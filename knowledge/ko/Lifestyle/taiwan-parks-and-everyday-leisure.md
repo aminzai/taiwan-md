@@ -4,7 +4,7 @@ description: '새벽 태극권부터 야간 산책까지 — 세대를 아우르
 date: 2026-03-18
 category: 'Lifestyle'
 tags: ['공원', '여가', '사교문화', '세대통합', '일상생활']
-subcategory: '여가와 오락'
+subcategory: '休閒與娛樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19

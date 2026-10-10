@@ -4,7 +4,7 @@ description: "A banda independente de Taiwan que venceu o campeonato anual do St
 date: 2026-04-20
 author: 'Taiwan.md'
 category: 'People'
-subcategory: 'Música e Performance'
+subcategory: '音樂與表演'
 tags:
   - 'Hello Nico'
   - 'Chan Yu-ting'

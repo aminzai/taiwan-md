@@ -225,7 +225,7 @@ _1970 年、競技人生の絶頂期にあった紀政。その年、彼女は�
 - 紀政 1970 年肖像：パブリックドメイン（CC0），[via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chi_Cheng_1970.jpg)。
 - 動画：《見えない国》公式予告編。配給会社 Abramorama 公式 YouTube チャンネルから埋め込み。
 
-## 參考資料
+## 参考資料
 
 [^1]: [Wikipedia — Invisible Nation](https://en.wikipedia.org/wiki/Invisible_Nation) — 《Invisible Nation》の上映時間 85 分、2023 年 9 月 29 日にウッドストック映画祭（Woodstock Film Festival）で世界初上映、2024 年 5 月 31 日にニューヨーク Quad Cinema で北米劇場公開された記録
 

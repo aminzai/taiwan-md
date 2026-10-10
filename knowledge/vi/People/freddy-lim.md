@@ -12,7 +12,7 @@ tags:
     'phong trào xã hội',
     'Chthonic',
   ]
-subcategory: 'Âm nhạc và nhân vật công cộng'
+subcategory: '音樂與公共人物'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-10

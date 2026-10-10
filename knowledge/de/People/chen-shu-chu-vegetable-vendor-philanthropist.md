@@ -93,9 +93,9 @@ Die tiefere Frage ist: Warum tut eine Gemüsehändlerin diese Dinge? Ihre Antwor
 
 ## Empfohlene Weiterliteratur
 
-- [Taiwanesische Marktkultur und traditionelle Märkte](/lifestyle/台灣市場文化與傳統市場) — Der Zentralmarkt von Taitung, an dem Chen Shu-chu fünfzig Jahre lang ihren Stand hatte, ist Teil dieses traditionellen Marktökosystems
-- [Taiwanesische Freiwilligenkultur und gemeinnützige Beteiligung](/society/台灣志工文化與公益參與) — Von der Tzu-Chi-Stiftung der Nonne Cheng Yen bis zu Chen Shu-chus Gemüsestand: zwei Beispiele aus dem taiwanesischen zivilen Sektor
-- [Bildung in Taiwans ländlichen Gebieten](/society/台灣偏鄉教育) — Chens Jahre der Spendensammlungen zeigen ein klares Muster: Bibliotheken, Schulen und Waisenhäuser, langjährig unterstützt
+- [Taiwanesische Marktkultur und traditionelle Märkte](/de/lifestyle/taiwan-traditional-markets-and-market-culture) — Der Zentralmarkt von Taitung, an dem Chen Shu-chu fünfzig Jahre lang ihren Stand hatte, ist Teil dieses traditionellen Marktökosystems
+- [Taiwanesische Freiwilligenkultur und gemeinnützige Beteiligung](/de/society/volunteering-and-civic-charity-in-taiwan) — Von der Tzu-Chi-Stiftung der Nonne Cheng Yen bis zu Chen Shu-chus Gemüsestand: zwei Beispiele aus dem taiwanesischen zivilen Sektor
+- [Bildung in Taiwans ländlichen Gebieten](/de/society/taiwan-rural-education) — Chens Jahre der Spendensammlungen zeigen ein klares Muster: Bibliotheken, Schulen und Waisenhäuser, langjährig unterstützt
 
 ## Referenzen
 

@@ -4,7 +4,7 @@ description: '1949년 타이난 소규모 공장에서 글로벌 화학 거대 �
 date: 2026-03-20
 category: 'Economy'
 tags: ['Economy', '기업', '석유화학업', '화학공업']
-subcategory: '기업열전'
+subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20

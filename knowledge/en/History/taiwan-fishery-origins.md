@@ -142,8 +142,8 @@ Similarly, the roads, ice-making, electricity, and warehousing brought by port m
 
 ## Further Reading
 
-- [The Modernization of Taiwan’s Fisheries](/history/台灣漁業現代化) — The second half of the same sea: distant-water fleets, exclusive economic zones, and flag state responsibilities
-- [The History of Taiwan’s Agricultural Associations](/history/台灣農會史) — Institutional changes in rural organizations, finance, and local public windows
+- [The Modernization of Taiwan’s Fisheries](/en/history/taiwan-fishery-modernization) — The second half of the same sea: distant-water fleets, exclusive economic zones, and flag state responsibilities
+- [The History of Taiwan’s Agricultural Associations](/en/history/taiwan-farmers-association-history) — Institutional changes in rural organizations, finance, and local public windows
 - [The History of Taiwan Post](/history/台灣郵政史) — Another public infrastructure connecting localities, logistics, and state administration
 - [The History of Taiwan Water](/history/台灣自來水史) — How engineering, hygiene, and urban daily life jointly formed institutions
 

@@ -182,10 +182,10 @@ Local Chiayi contexts:
 
 Larger historical coordinates:
 
-- [February 28 Incident](/history/二二八事件) — the historical context of Taiwan’s 1947 political tragedy, in which Chiayi was one of the cities with the most intense conflict
+- [February 28 Incident](/en/history/228-incident) — the historical context of Taiwan’s 1947 political tragedy, in which Chiayi was one of the cities with the most intense conflict
 - [A Century of Change in Taiwanese Watercolor Painting](/en/art/century-of-taiwanese-watercolor-painting) — the place of the Chiayi school of painting in Taiwanese art history, from the Imperial Art Exhibition to the Prefectural Exhibition
 - [Taiwan Baseball Culture](/en/culture/taiwan-baseball-culture) — the coordinates of Jianong’s 1931 Koshien runner-up finish in Taiwanese baseball history
-- [Taiwan Railway History](/en/history/TBD-NEEDS-SLUG) — the broader context in which the 1908 completion of the north-south trunk railway gave rise to the Tropic of Cancer monument
+- [Taiwan Railway History](/en/history/taiwan-railway-history) — the broader context in which the 1908 completion of the north-south trunk railway gave rise to the Tropic of Cancer monument
 - [Taiwan Forest Development History](/en/history/taiwan-forestry-history) — the broader scale of 50 years of Alishan forestry, 1914-1963
 - [Chiayi County](/en/geography/chiayi-county) — batch 2 of the 22 Counties and Cities series; the county that completely surrounds this city, separated from it in 1950 and moved its county seat to Taibao in 1991, forming the other half of this article’s narrative
 - [Keelung City](/en/geography/keelung-city) — the first article in the 22 Counties and Cities series, another port city pressed down by the framework of the capital; useful for comparing the different fault lines of two mid-sized cities

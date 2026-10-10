@@ -42,6 +42,7 @@ sporeLinks:
 translatedFrom: 'Society/外送專法.md'
 sourceCommitSha: '83975eef3'
 sourceContentHash: 'sha256:2e2432d1a718986d'
+sourceBodyHash: 'sha256:725b400b5a230de4'
 translatedAt: '2026-09-26T05:30:21.240593+00:00'
 ---
 
@@ -377,7 +378,7 @@ Hari keempat pelaksanaan, Serikat Pekerja Pengiriman Nasional menanyakan hal ter
 ## Bacaan Lanjutan
 
 - [Generasi Slash Taiwan](/id/society/taiwan-slash-generation-multi-job-economy) — Generasi yang membuka aplikasi pengiriman makanan setelah jam kerja, dan mengapa satu gaji tidak cukup
-- [Panduan Kuliner Taiwan](/food/台灣美食總覽) — Di ujung lain pesanan di platform pengiriman: panorama lengkap lanskap kuliner Taiwan
+- [Panduan Kuliner Taiwan](/id/food/taiwan-food-overview) — Di ujung lain pesanan di platform pengiriman: panorama lengkap lanskap kuliner Taiwan
 - [Budaya Pasar Malam](/id/food/night-market-culture) — Sebelum platform ada, bagaimana restoran rakyat Taiwan beroperasi dan menetapkan harga
 - [Budaya Minuman Teh Bersoda Taiwan](/id/food/hand-shaken-drink-culture) — Merek teh bersoda yang berkembang dari warung pinggir jalan ke panggung dunia, juga ujung lain dari komisi platform
 - [PX Mart](/id/economy/pxmart-supermarket) — Saluran lokal dalam bisnis pengiriman produk segar dan kebutuhan sehari-hari

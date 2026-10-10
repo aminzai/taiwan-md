@@ -202,7 +202,7 @@ Vào năm đó, người dân Đài Loan lần đầu tiên biết rằng điề
 
 ## Đọc thêm
 
-- [Trần Trí Trung](/people/陳致中) — Con trai cả. Ông đã được bầu vào hội đồng thành phố Tiểu Cảng ba lần tại Cao Hùng, và hai nhiệm kỳ đều kết thúc sớm hơn theo quy định pháp luật; sau năm 2023 không được đăng ký ứng cử.
+- [Trần Trí Trung](/vi/people/chen-chih-chung) — Con trai cả. Ông đã được bầu vào hội đồng thành phố Tiểu Cảng ba lần tại Cao Hùng, và hai nhiệm kỳ đều kết thúc sớm hơn theo quy định pháp luật; sau năm 2023 không được đăng ký ứng cử.
 - Su Trinh Xương — Đồng minh trong đoàn bào chữa vụ Lệ Mỹ Đảo, nguyên thủ chức vụ hành pháp.
 - Tạ Trường Đình — Đồng minh trong đoàn bào chữa vụ Lệ Mỹ Đảo, nguyên thủ chức vụ hành pháp.
 - Lư Tú Liên — Phó tổng thống năm 2000 / 2004.

@@ -4,7 +4,7 @@ description: '1999年の集集地震後、呉逸民ら研究者が低価格のP�
 date: 2026-08-19
 category: 'Technology'
 tags: ['地震早期警報', 'P-Alert', '防災技術', '地震科学', '社会レジリエンス']
-subcategory: '防災技術'
+subcategory: '防災科技'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-19
@@ -14,6 +14,7 @@ readingTime: 10
 translatedFrom: 'Technology/地震預警系統.md'
 sourceCommitSha: '53d3624d7'
 sourceContentHash: 'sha256:7fe905eb6c043cad'
+sourceBodyHash: 'sha256:326a1e569da021aa'
 translatedAt: '2026-09-12T09:48:30.517160+00:00'
 ---
 
@@ -121,7 +122,7 @@ DPIPはまた、「民間アプリが公式警報に取って代われるか」�
 
 次に警報が鳴ったとき、システムが特定の地域に数秒をもたらすだけかもしれません。しかし、それらの秒数がすでに列車・工場・学校・家庭の意思決定につながっていれば、それは単なるカウントダウンではありません。それらは、地震を予知できないという条件下で、台湾が依然として選び取った「早めに備える」という在り方なのです。
 
-## 參考資料
+## 参考資料
 
 [^1]: [1999年集集（台湾）地震に関する予備報告](https://www.usgs.gov/publications/a-preliminary-report-1999-chi-chi-taiwan-earthquake) — 米国地質調査所の出版物詳細ページで、集集地震の初期調査報告を記録し、台湾の防災技術発展の歴史的起点となっている。
 

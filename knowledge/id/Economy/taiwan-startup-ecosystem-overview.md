@@ -237,7 +237,7 @@ Dari kesuksesan AppWorks, hingga terobosan pasar modal Gogoro, Appier, dan 91APP
 - [Situs Web Resmi AppWorks](https://appworks.tw/): Akselerator startup terbesar Taiwan, termasuk data ekosistem dan portofolio investasi
 - [Komisi Pembangunan Nasional — Situs Web Bisnis Startup](https://startup.ndc.gov.tw/): Kompilasi kebijakan kewirausahaan pemerintah dan informasi subsidi
 - [Digital Age BusinessNext](https://www.bnext.com.tw/): Liputan mendalam industri startup Taiwan
-- [Program Inkubasi Taipei AAMA](/economy/AAMA台北搖籃計畫): Program mentor satu lawan satu selama dua tahun tanpa investasi atau kepemilikan, dimulai pada tahun 2012 oleh Zhan Hongzhi dan Yan Louyou, merupakan jalur dukungan kewirausahaan Taiwan selain model akselerator.
+- [Program Inkubasi Taipei AAMA](/id/economy/aama-taipei-cradle-program): Program mentor satu lawan satu selama dua tahun tanpa investasi atau kepemilikan, dimulai pada tahun 2012 oleh Zhan Hongzhi dan Yan Louyou, merupakan jalur dukungan kewirausahaan Taiwan selain model akselerator.
 - [Program Kepemimpinan Kewirausahaan SLP Taipei](/id/economy/slp-taipei-startup-leadership-program): Cabang Taipei dari program pelatihan kewirausahaan nirlaba global yang diluncurkan pada tahun 2012, kursus intensif enam bulan dengan biaya satu kali tanpa mengambil saham.
 
 ## Referensi

@@ -22,6 +22,7 @@ curation: incubating
 translatedFrom: 'People/黃土水.md'
 sourceCommitSha: 'f89314e27'
 sourceContentHash: 'sha256:d22d7298dff5ac3a'
+sourceBodyHash: 'sha256:7b62e2a912ba5344'
 translatedAt: '2026-08-27T11:21:11+08:00'
 ---
 

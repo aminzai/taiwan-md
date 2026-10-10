@@ -88,7 +88,7 @@ Kali berikut ke Taichung, cari satu gerobak nasi pesan seb mangkok Sup Ma-kui. J
 - Da Mian Geng — Masakan tempo dulu Taichung lain yang berdiri di "sedikit pahit lalu manis"
 - Industri Gula Taiwan — Narasi lain yang sama-sama transformasi dari tanaman ekonomi era Jepang
 
-## 參考資料
+## Referensi
 
 [^1]: [Museum Budaya Ma-kui Nantun——Rasa Lokal Pahit Berakhir Manis](https://www.culture.taichung.gov.tw/media/825794/%E7%8E%8B%E6%B4%BE%E4%BB%81%E5%B0%88%E6%AC%84-%E5%8D%97%E5%B1%AF%E9%BA%BB%E8%8A%9B%E6%96%87%E5%8C%96%E9%A4%A8-%E8%8B%A6%E7%9B%A1%E7%94%98%E4%BE%86%E7%9A%84%E9%84%89%E5%9C%9F%E6%BB%8B%E5%91%B3.pdf) — Kolom Wang Pai-ren (王派仁), Majalah "Wenhua Taichung", diterbitkan Dinas Kebudayaan Pemerintah Kota Taichung
 

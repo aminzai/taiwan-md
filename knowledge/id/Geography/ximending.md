@@ -36,6 +36,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E9%96%80%E7%B4%8
 translatedFrom: 'Geography/西門町.md'
 sourceCommitSha: '49728f9d5'
 sourceContentHash: 'sha256:0ee777992a128197'
+sourceBodyHash: 'sha256:08db5a34a2ebbaab'
 translatedAt: '2026-09-20T10:20:14.130026+00:00'
 ---
 
@@ -179,14 +180,14 @@ Jika Anda pernah melewati Pagoda Delapan Sudut di Ximen Honglou, luangkan waktu 
 
 **Bacaan Lanjutan**:
 
-- [Ruang Merokok Taipei: Kotak kaca bernapas di kota bebas asap](/society/台北吸菸室) — Ruang bertekanan negatif terbuka pertama di Taiwan, terletak di jalan keluar stasiun MRT Ximen.
+- [Ruang Merokok Taipei: Kotak kaca bernapas di kota bebas asap](/id/society/taipei-smoking-room) — Ruang bertekanan negatif terbuka pertama di Taiwan, terletak di jalan keluar stasiun MRT Ximen.
 - [Kota Taipei: Tiga Waktu dalam Satu Kota, Longshan Temple 1738 Melihat 101 pada Tahun 2004](/id/geography/taipei-city) — Posisi Ximen dalam Distrik 12, berdampingan dengan garis waktu Wanhua, Dadaocheng, dan Xinyi.
 - [Budaya Anime Taiwan](/id/culture/taiwan-anime-culture) — Mengapa Cosplay selalu berkumpul di depan Ximen Honglou pada akhir pekan, terkait dengan asal usul Festival Anime tahun 1999.
 - [Seni Jalanan dan Budaya Grafiti Taiwan](/id/culture/taiwan-street-art-and-graffiti-culture) — Dinding biru Taman Bertema Film Ximen dan konteks munculnya budaya jalanan di Taiwan pasca-pencabutan status darurat militer.
 - [Budaya Jalan Tua dan Distrik Komersial Taiwan](/id/culture/taiwan-historic-streets-and-commercial-districts) — Perbedaan struktural antara Ximen sebagai area hiburan yang direncanakan Jepang, dengan jalan tua era Qing (Lukang, Wanhua, Dadaocheng).
-- [Wanhua](/geography/艋舺) — Saudara distrik bersejarah dari batch 1; di samping Wanhua, pelabuhan tersibuk di Taiwan Utara era Qing ketika Ximen didesain oleh orang Jepang pada tahun 1896.
+- [Wanhua](/id/geography/bangka) — Saudara distrik bersejarah dari batch 1; di samping Wanhua, pelabuhan tersibuk di Taiwan Utara era Qing ketika Ximen didesain oleh orang Jepang pada tahun 1896.
 - [Dadaocheng](/id/geography/dadaocheng) — Saudara distrik bersejarah dari batch 1; jalan komersial teh yang baru muncul setelah pembangunan pinggiran kota pada tahun 1853, berbeda dengan area hiburan Jepang di Ximen dalam "momen pembentukan jalan".
-- [Jalan Zhongshan Bei](/geography/中山北路條通) — Jalan berkanopi "jalan resmi" era Jepang tahun 1898 menuju Kuil Taiwan Yuanshan, dan eksperimen kota yang direncanakan oleh orang Jepang pada periode yang sama tetapi berjalan sangat berbeda.
+- [Jalan Zhongshan Bei](/id/geography/zhongshan-north-road-tiaotong) — Jalan berkanopi "jalan resmi" era Jepang tahun 1898 menuju Kuil Taiwan Yuanshan, dan eksperimen kota yang direncanakan oleh orang Jepang pada periode yang sama tetapi berjalan sangat berbeda.
 
 ## Sumber Gambar
 

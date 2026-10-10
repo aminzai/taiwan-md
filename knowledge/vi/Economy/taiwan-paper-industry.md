@@ -98,7 +98,7 @@ Tên gọi giấy đá rất trực tiếp, nhưng quy trình sản xuất khôn
 
 ![Cấu trúc vi mô của giấy đá được làm từ cẩm thạch và nhựa, Charles Kazilek, CC BY-SA 4.0](https://upload.wikimedia.org/wikipedia/commons/2/21/Scanning_electron_image_of_paper_made_from_stone_material_-_100x.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
-_Ảnh: Charles Kazilek, 〈Scanning electron image of paper made from stone material - 100x〉, Wikimedia Commons, CC BY-SA 4.0. Ảnh chụp vi mô của giấy đá, không đại diện cho bất kỳ sản phẩm nào của nhà sản xuất Đài Loan. Thông tin cấp phép và tệp._
+_Ảnh: Charles Kazilek, 〈Scanning electron image of paper made from stone material - 100x〉, Wikimedia Commons, CC BY-SA 4.0. Ảnh chụp vi mô của giấy đá, không đại diện cho bất kỳ sản phẩm nào của nhà sản xuất Đài Loan. Thông tin cấp phép và tệp. [授權與檔案資訊](https://commons.wikimedia.org/wiki/File:Scanning_electron_image_of_paper_made_from_stone_material_-_100x.jpg)_
 
 Câu chuyện về giấy đá ở Đài Loan thường được liên kết với công ty liệu phát hành hợp kim Long Môn ở Tainan. Theo báo cáo của Hiệp hội Thương mại Quốc gia, Liang Shiheng ban đầu nghĩ đến việc thêm cẩm thạch vào nhựa túi để giảm chi phí, sau đó cân nhắc thay thế mủ giấy bằng bột đá, và cuối cùng dành nhiều năm nghiên cứu và phát triển. Đây là lộ trình nghiên cứu phát triển trong báo cáo doanh nghiệp, có thể giải thích cách Đài Loan mang kinh nghiệm chế biến nhựa vào đổi mới giấy, nhưng không thể chứng minh độc lập mọi hiệu quả môi trường của sản phẩm. [^12]
 

@@ -163,10 +163,10 @@ Thunder Tigers Produktionslinie in Taichung, die 1979 mit ferngesteuerten Spielz
 
 **Weiterführende Literatur**
 
-- [Taiwan Verteidigung und militärische Modernisierung](/society/台灣國防與軍事現代化) — Die strategische Landschaft hinter 200.000 Drohnen
+- [Taiwan Verteidigung und militärische Modernisierung](/de/society/taiwan-defense-modernization) — Die strategische Landschaft hinter 200.000 Drohnen
 - [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Der letzte strategische Sektor Taiwans, der durch Geopolitik entstanden ist
-- [Taiwan Raumfahrtindustrie](/technology/台灣太空產業發展) — Von Drohnen zu Satelliten: Taiwans Himmelsambitionen
-- [Taiwan Robotikindustrie](/technology/台灣機器人產業) — Ein weiteres Beispiel für „Bauteile stark, Endprodukt schwach“ mit ähnlichen strukturellen Problemen wie bei Drohnen
+- [Taiwan Raumfahrtindustrie](/de/technology/taiwan-space-industry-development) — Von Drohnen zu Satelliten: Taiwans Himmelsambitionen
+- [Taiwan Robotikindustrie](/de/technology/taiwan-robotics-industry) — Ein weiteres Beispiel für „Bauteile stark, Endprodukt schwach“ mit ähnlichen strukturellen Problemen wie bei Drohnen
 
 ## Bildnachweise
 

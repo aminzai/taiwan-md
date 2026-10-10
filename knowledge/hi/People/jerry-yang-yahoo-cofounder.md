@@ -4,7 +4,7 @@ description: '1978 में, 10 वर्षीय जेरी यांग �
 date: 2026-04-29
 author: 'idlccp1984'
 category: 'People'
-subcategory: 'प्रौद्योगिकी और उद्यम'
+subcategory: '科技與企業'
 tags:
   [
     'जेरी यांग',

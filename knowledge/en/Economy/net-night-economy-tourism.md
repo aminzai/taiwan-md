@@ -4,7 +4,7 @@ description: "Established in 1991, NET began with export overstock from Keelung'
 date: 2026-07-22
 author: 'Taiwan.md Contributors'
 category: 'Economy'
-subcategory: 'Corporate Biographies'
+subcategory: '企業列傳'
 tags:
   [
     'NET',

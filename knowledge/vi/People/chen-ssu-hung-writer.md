@@ -154,10 +154,10 @@ Trần Tư Hùng gọi nơi đó là "Cái Địa Phương Ma Quái". Độc gi�
 
 ## Đọc thêm
 
-- [Ngô Minh Ích](/people/吳明益) — Một nhà văn Đài Loan khác viết địa phương vào diễn đàn quốc tế, đường lối là ảnh tương phản với Trần Tư Hùng
-- [Bạch Tiên Dũng](/people/白先勇) — Một trong những nguyên thủy của văn học đồng tính Đài Loan, để hiểu được dòng chảy văn học của "Cái Địa Phương Ma Quái"
-- [Đợi Loan Hôn Nhân Cùng Nhau Giới Tính Bình Đẳng](/society/台灣同婚與性別平權) — Bối cảnh xã hội của cách viết về cơ thể và giới tính trong bút Trần Tư Hùng
-- [Tỉnh Chương Hóa](/geography/彰化縣) — Nơi Vĩnh Tịnh được đặt, bối cảnh địa lý của mẫu nguyên thủy "Cái Địa Phương Ma Quái"
+- [Ngô Minh Ích](/vi/people/wu-ming-yi) — Một nhà văn Đài Loan khác viết địa phương vào diễn đàn quốc tế, đường lối là ảnh tương phản với Trần Tư Hùng
+- [Bạch Tiên Dũng](/vi/people/pai-hsien-yung-literary-master) — Một trong những nguyên thủy của văn học đồng tính Đài Loan, để hiểu được dòng chảy văn học của "Cái Địa Phương Ma Quái"
+- [Đợi Loan Hôn Nhân Cùng Nhau Giới Tính Bình Đẳng](/vi/society/taiwan-marriage-equality-lgbtq-rights) — Bối cảnh xã hội của cách viết về cơ thể và giới tính trong bút Trần Tư Hùng
+- [Tỉnh Chương Hóa](/vi/geography/changhua-county) — Nơi Vĩnh Tịnh được đặt, bối cảnh địa lý của mẫu nguyên thủy "Cái Địa Phương Ma Quái"
 
 ## Tham khảo
 

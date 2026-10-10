@@ -148,9 +148,9 @@ As of 2026, Taiwan's digital ID card still has no timeline. But every tax season
 
 **Further Reading**:
 
-- [Open Source Community and g0v](/technology/開源社群與g0v) — The civic hacker community behind the mask map, from "Zero-Time Government" to the origins of vTaiwan
-- [Mask National Team](/economy/口罩國家隊) — The other half of the same mask crisis: machine tools, textiles, military, and government linked into a production line
-- [Taiwan Cybersecurity Industry Development](/technology/台灣資安產業發展) — Beyond government case officers not understanding technology and 60% security personnel shortfall, how the industry side fills this wall
+- [Open Source Community and g0v](/en/technology/open-source-and-g0v) — The civic hacker community behind the mask map, from "Zero-Time Government" to the origins of vTaiwan
+- [Mask National Team](/en/economy/mask-national-team) — The other half of the same mask crisis: machine tools, textiles, military, and government linked into a production line
+- [Taiwan Cybersecurity Industry Development](/en/technology/taiwan-cybersecurity-industry-development) — Beyond government case officers not understanding technology and 60% security personnel shortfall, how the industry side fills this wall
 
 ## References
 

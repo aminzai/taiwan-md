@@ -91,4 +91,4 @@ Taiwan wird als „demokratisches Wunder“ bezeichnet; Institutionen wie Freedo
 
 ## Verwandte Themen
 
-- [Menschenrechte und Geschlechtergleichstellung](/society/人權與性別平等)
+- [Menschenrechte und Geschlechtergleichstellung](/de/society/human-rights-and-gender-equality)

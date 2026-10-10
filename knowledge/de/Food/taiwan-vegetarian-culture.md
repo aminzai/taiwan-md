@@ -106,8 +106,8 @@ Ab 2024 treten neue Technologien wie Fleischersatz und zelluläre Landwirtschaft
 
 ## Weiterführende Lektüre
 
-- [Religiöse und Tempelkultur Taiwans](/culture/台灣宗教與寺廟文化) — Der religiöse Kontext der buddhistischen vegetarischen Tradition und die Rolle von Tempelküchen in der Esskultur
-- [Frühstückskultur Taiwans](/food/台灣早餐文化) — Vegane Varianten wie Eierkuchen, Sojamilchgetränke und süßes Gebäck sind zu Standardoptionen beim Frühstück geworden
+- [Religiöse und Tempelkultur Taiwans](/de/culture/taiwan-religion-and-temple-culture) — Der religiöse Kontext der buddhistischen vegetarischen Tradition und die Rolle von Tempelküchen in der Esskultur
+- [Frühstückskultur Taiwans](/de/food/taiwan-breakfast-culture) — Vegane Varianten wie Eierkuchen, Sojamilchgetränke und süßes Gebäck sind zu Standardoptionen beim Frühstück geworden
 - [Lebensmitteltechnologieindustrie Taiwans](/technology/台灣食品科技產業) — Die wissenschaftliche und industrielle Grundlage der Technologie für pflanzliche Lebensmittel
 
 ## Bildquellen

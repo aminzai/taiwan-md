@@ -18,7 +18,7 @@ tags:
     'khu quân sự',
     'đảo ngoài khơi',
   ]
-subcategory: 'đảo ngoài khơi'
+subcategory: '離島'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-24

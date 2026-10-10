@@ -4,7 +4,7 @@ description: '2026年5月2日、元親民党主席の宋楚瑜、時代力量党
 date: 2026-05-05
 author: 'Taiwan.md'
 category: 'Society'
-subcategory: 'メディア'
+subcategory: '媒體'
 tags:
   [
     'メディア',
@@ -149,7 +149,7 @@ CEOが張振亞に交代した後、プラットフォームの日常業務は�
 - [蔡英文](/ja/people/tsai-ing-wen) — 想想論壇創設者、小英教育基金会founder、2016-2024年中華民国第七・八代総統
 - [賴清德](/ja/people/lai-ching-te) — 蔡英文退任後に就任した中華民国第九代総統、2025-10想想論壇改版時の聯合報「重磅快評」における暗黙の対照対象
 - [泛科學](/ja/society/pansci) — 同様に公共討論プラットフォームであるが、泛科学は科学コミュニケーションを知識メディア、教育製品、クリエイターエコノミーの融合体としている
-- [毒馬鈴薯認知作戰](/society/毒馬鈴薯認知作戰) — 想想論壇地政経済欄目で継続的に議論されている中国情報戦のテーマの一つ
+- [毒馬鈴薯認知作戰](/ja/society/poisoned-potato-cognitive-warfare-taiwan) — 想想論壇地政経済欄目で継続的に議論されている中国情報戦のテーマの一つ
 - [心戰](/ja/history/psychological-warfare) — 想想論壇思想政策・安全保障欄目との交差する論点
 
 ## 参考資料

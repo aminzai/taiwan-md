@@ -119,8 +119,8 @@ Culturas estrangeiras e diversidade, via mar, chegaram a Taiwan e integraram-se 
 - [História do comércio marítimo de Taiwan](/pt/history/taiwan-maritime-trade-history) — A rede comercial de Taiwan, dos holandeses ao Dongning e à Qing
 - [História e movimento de reafirmação dos povos indígenas de Taiwan](/pt/history/indigenous-peoples-history-and-naming-movement) — As tribos Pingpu impactadas pela onda migratória chinesa
 - [Visão da história de Taiwan como ilha](/pt/history/taiwan-island-historiography) — A perspectiva de Cao Yonghe, centrada na ilha, que moldou a visão do período
-- [Formosa](/history/福爾摩沙) — A origem e controvérsias do nome "Formosa", e como o Ocidente escreveu a ilha por 400 anos
-- [Museu Nacional da História de Taiwan](/society/國立臺灣歷史博物館) — As Exposições permanentes da "Ilha e Povo nascendo no mar" e a exposição especial internacional de 1624
+- [Formosa](/pt/history/formosa-historical-name) — A origem e controvérsias do nome "Formosa", e como o Ocidente escreveu a ilha por 400 anos
+- [Museu Nacional da História de Taiwan](/pt/society/national-museum-of-taiwan-history) — As Exposições permanentes da "Ilha e Povo nascendo no mar" e a exposição especial internacional de 1624
 
 ## Referências
 

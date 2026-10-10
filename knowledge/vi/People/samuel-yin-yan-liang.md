@@ -303,7 +303,7 @@ Bài viết sử dụng 5 hình ảnh được cấp phép CC BY hoặc thông t
 
 [^30]: [2020 唐獎 Jane Goodall 永續獎](https://www.gbimonthly.com/2020/06/72629/) — Tạp chí Công nghệ Sinh vật Toàn cầu 2020 báo cáo, ghi lại người đạt giải Giải thưởng Phát triển bền vững Giải thưởng Đường lần thứ tư Trần Cổ Đức đóng góp nghiên cứu và nền tảng đạt giải.
 
-[^31]: [2024 唐獎漢學獎得主許倬雲](https://www.tang-prize.org/owner.php?Lang=tw) — Trang chính thức người đạt giải Giải thưởng Đường lần thứ sáu Học Hán của Quỹ Giáo dục Giải thưởng Đường, ghi lại đóng góp học vấn Hứa Trác Vân và lý do đạt giải; bài viết chuyên sâu tương ứng ở trang này xem [Hứa Trác Vân: Hai ngón tay viết ra một con sông dài Lịch sử Trung Quốc](/people/許倬雲).
+[^31]: [2024 唐獎漢學獎得主許倬雲](https://www.tang-prize.org/owner.php?Lang=tw) — Trang chính thức người đạt giải Giải thưởng Đường lần thứ sáu Học Hán của Quỹ Giáo dục Giải thưởng Đường, ghi lại đóng góp học vấn Hứa Trác Vân và lý do đạt giải; bài viết chuyên sâu tương ứng ở trang này xem [Hứa Trác Vân: Hai ngón tay viết ra một con sông dài Lịch sử Trung Quốc](/vi/people/cho-yun-hsu-bridging-historian).
 
 [^32]: [2012 國安密帳案緩起訴 1 年繳 1000 萬](https://www.ettoday.net/news/20120806/1542044.htm) — ETtoday 2012-08-06 báo cáo, ghi lại Uân Diễn Lương nhân tòa nhận tội, tự nguyện nộp 10 triệu đô la Taiwan Mới quyên góp công cộng, chi tiết quyết định khôi phục kiệp tố một năm, cáo trạng vi phạm "Luật Kế toán Kinh doanh" và "Giả mạo Tài liệu".
 

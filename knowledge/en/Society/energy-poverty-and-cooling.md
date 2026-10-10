@@ -134,7 +134,7 @@ Policy evaluation should also retain residents' voices. Local governments can as
 
 Further reading for this article can be pursued in three directions: the Health Promotion Administration's high-temperature heat injury prevention information, the Ministry of Environment's climate adaptation and energy policy materials, and local governments' published residential energy-saving and appliance replacement plans. When reading, distinguish among "policy announcements," "research findings," and "this article's recommendations" — three different evidence levels — to avoid misreading a single-year subsidy or case survey as a long-term national trend.
 
-- [Who Counts as Low-Wage](/society/誰算低薪) — Another Ruler of Poverty: Minimum Wage Guarded Base Pay, Low Wage Moved into Year-End Bonus Column and Industries Without Bonuses
+- [Who Counts as Low-Wage](/en/society/who-counts-as-low-wage) — Another Ruler of Poverty: Minimum Wage Guarded Base Pay, Low Wage Moved into Year-End Bonus Column and Industries Without Bonuses
 
 ## References
 

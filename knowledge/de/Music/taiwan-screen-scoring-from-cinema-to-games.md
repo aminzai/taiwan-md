@@ -29,6 +29,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Golden_Horse_Awards_Ceremo
 translatedFrom: 'Music/台灣影視配樂.md'
 sourceCommitSha: '31a05c44b'
 sourceContentHash: 'sha256:3d345fa4696c5375'
+sourceBodyHash: 'sha256:5340a77820daae23'
 translatedAt: '2026-09-25T00:27:30.830749+00:00'
 ---
 

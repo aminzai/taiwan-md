@@ -180,15 +180,15 @@ Nếu lần sau bạn đi qua Hồi Họp Tám Giác của Nhà Đỏ Ximending,
 
 **Đọc tiếp**:
 
-- [Phòng khum hút thuốc Đài Bắc: Chiếc hộp kính có thể thở ngoài không khí sạch trong thành phố, chính xác đứng tại lối ra ga tàu điện ngầm Ximending](/society/Đài-Bắc-hút-thuốc) — ga tàu điện ngầm Ximending lối ra được lắp phòng hút thuốc âm áp ngoài trời đầu tiên toàn thành phố
+- [Phòng khum hút thuốc Đài Bắc: Chiếc hộp kính có thể thở ngoài không khí sạch trong thành phố, chính xác đứng tại lối ra ga tàu điện ngầm Ximending](/vi/society/taipei-smoking-room) — ga tàu điện ngầm Ximending lối ra được lắp phòng hút thuốc âm áp ngoài trời đầu tiên toàn thành phố
 
-- [Thành phố Đài Bắc: Ba thời gian trong một thành phố, năm 1738 Chùa Long Sơn nhìn thấy năm 2004 của 101](/geography/Đài-Bắc) — vị trí của Ximending trong 12 quận, với Vạn Hóa, Đại Đào Điền, Tín Nghĩa ba dòng thời gian sắp xếp cạnh nhau
-- [Văn hóa Hoạt Hình Đài Loan](/culture/Đài-Loan-động-hạ) — tại sao Cosplay tập trung tuần cuối tháng ở trước Nhà Đỏ Ximending, liên quan tới nguồn gốc 1999 của lễ hội Khai Tác Hoạt Hình
-- [Văn hóa Nghệ Thuật Đường Phố và Vẽ Tranh Đài Loan](/culture/Đài-Loan-vẽ-tranh) — bức tường xanh công viên chủ đề điện ảnh Ximending và mối liên hệ của phong trào văn hóa đường phố Đài Loan hậu giải nghĩa
-- [Văn hóa Phố Cổ Đài Loan và Khu Thương Mại Đường Phố](/culture/Đài-Loan-phố-cổ) — Ximending là khu giải trí thời Nhật trị, và sự khác biệt cấu trúc với phố cổ thời Thanh (Hộc Bộc, Vạn Hóa, Đại Đào Điền)
-- [Vạn Hóa](/geography/Vạn-Hóa) — anh em batch 1 khu phố lịch sử cùng, khi người Nhật quy hoạch Ximending năm 1896, Vạn Hóa bên cạnh là cảng thương mại sôi động nhất Bắc Đài Loan thời Thanh
-- [Đại Đào Điền](/geography/Đại-Đào-Điền) — anh em batch 1 khu phố lịch sử cùng, là khu phố thương mại nông sản trà mới nổi sau xung đột Định Dưỡng Tôn 1853, trái ngược với khu giải trí Nhật trị của Ximending là hai loại "thành phố thế thành"
-- [Đường Sơn Bắc Điều Thông](/geography/Đường-Sơn-Bắc) — "Sắc Sứ Thông Đạo" Nhật trị 1898 tới Viên Sơn Đài Loan Đạo Thánh Xã, và Ximending cùng kỳ Nhật trị quy hoạch nhưng một thí nghiệm thành phố hoàn toàn khác
+- [Thành phố Đài Bắc: Ba thời gian trong một thành phố, năm 1738 Chùa Long Sơn nhìn thấy năm 2004 của 101](/vi/geography/taipei-city) — vị trí của Ximending trong 12 quận, với Vạn Hóa, Đại Đào Điền, Tín Nghĩa ba dòng thời gian sắp xếp cạnh nhau
+- [Văn hóa Hoạt Hình Đài Loan](/vi/culture/taiwan-anime-culture) — tại sao Cosplay tập trung tuần cuối tháng ở trước Nhà Đỏ Ximending, liên quan tới nguồn gốc 1999 của lễ hội Khai Tác Hoạt Hình
+- [Văn hóa Nghệ Thuật Đường Phố và Vẽ Tranh Đài Loan](/vi/culture/taiwan-street-art-and-graffiti-culture) — bức tường xanh công viên chủ đề điện ảnh Ximending và mối liên hệ của phong trào văn hóa đường phố Đài Loan hậu giải nghĩa
+- [Văn hóa Phố Cổ Đài Loan và Khu Thương Mại Đường Phố](/vi/culture/taiwan-historic-streets-and-commercial-districts) — Ximending là khu giải trí thời Nhật trị, và sự khác biệt cấu trúc với phố cổ thời Thanh (Hộc Bộc, Vạn Hóa, Đại Đào Điền)
+- [Vạn Hóa](/vi/geography/bangka) — anh em batch 1 khu phố lịch sử cùng, khi người Nhật quy hoạch Ximending năm 1896, Vạn Hóa bên cạnh là cảng thương mại sôi động nhất Bắc Đài Loan thời Thanh
+- [Đại Đào Điền](/vi/geography/dadaocheng) — anh em batch 1 khu phố lịch sử cùng, là khu phố thương mại nông sản trà mới nổi sau xung đột Định Dưỡng Tôn 1853, trái ngược với khu giải trí Nhật trị của Ximending là hai loại "thành phố thế thành"
+- [Đường Sơn Bắc Điều Thông](/vi/geography/zhongshan-north-road-tiaotong) — "Sắc Sứ Thông Đạo" Nhật trị 1898 tới Viên Sơn Đài Loan Đạo Thánh Xã, và Ximending cùng kỳ Nhật trị quy hoạch nhưng một thí nghiệm thành phố hoàn toàn khác
 
 ## Nguồn Hình Ảnh
 
@@ -216,7 +216,7 @@ Bài viết sử dụng 5 hình ảnh được cấp phép CC, tất cả đều
 
 [^7]: [Cổng Tây Phủ Thành Đài Bắc — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E5%8C%97%E5%BA%9C%E5%9F%8E%E8%A5%BF%E9%96%80) — Nhập cảnh Cổng Bảo Thành, ghi lại đặt tên "Bảo vật thành tựu" ý, năm 1882 khởi công 1884 hoàn thành, năm 1904 nhà nước Nhật trị phá dỡ, là một trong năm cổng bị phá hủy hoàn toàn nhất, gây nên phản đối mạnh từ những người quý tộc thương mại Vạn Hóa, dẫn tới Trưởng Dân Chính Gotō Shinpei quyết định giữ lại bốn cổng còn lại.
 
-[^8]: [Thị Trường Tây Môn (Đài Bắc) — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%A5%BF%E9%96%80%E5%B8%82%E5%A0%B4_(%E5%8F%B0%E5%8C%97) — )) — Nhập cảnh Thị Trường Tây Môn, ghi lại "năm 1896 tháng 9 'xây Thị Trường Tây Môn' (Thị Trường Phố Mới)" là khai sinh Thị Trường Công lập Đài Loan, chủ yếu cung cấp hàng hóa sinh hoạt cần thiết hàng ngày cho người di cư Nhật địa phương, năm 1908 tháng 4 bắt đầu xây dựng gạch và tháng 11-12 năm đó hoàn thành
+[^8]: [Thị Trường Tây Môn (Đài Bắc) — Wikipedia](<https://zh.wikipedia.org/zh-tw/%E8%A5%BF%E9%96%80%E5%B8%82%E5%A0%B4_(%E5%8F%B0%E5%8C%97)>) — )) — Nhập cảnh Thị Trường Tây Môn, ghi lại "năm 1896 tháng 9 'xây Thị Trường Tây Môn' (Thị Trường Phố Mới)" là khai sinh Thị Trường Công lập Đài Loan, chủ yếu cung cấp hàng hóa sinh hoạt cần thiết hàng ngày cho người di cư Nhật địa phương, năm 1908 tháng 4 bắt đầu xây dựng gạch và tháng 11-12 năm đó hoàn thành
 
 [^9]: [Từ Đặt Tên Ximending — Wikipedia Ximending Nhập Cảnh](https://zh.wikipedia.org/zh-tw/%E8%A5%BF%E9%96%80%E7%94%BA) — Wikipedia Ximending ghi lại chính xác "Tên Ximending từ thời kỳ Nhật trị năm 1922 khi thành lập Đài Bắc với sự phân chia hành chính mới — Ximending, phạm vi khoảng là 'Ximending Lý' ngày nay chung quanh, bao bởi Phố Nga Mỹ, Đường Khảng Định, Đường Nội Giang, Đường Trung Hóa" + "Khu vực hiện nay được gọi chung là Ximending thì lại rộng hơn, còn bao gồm thời xưa Phố Mới, Phố Tre Trẻ, Phố Cuối, Phố Tuổi Thọ, Phố Xây Dựng, Phố Bờ Sông, Phố Viên Gốc v.v. phạm vi phố".
 
@@ -258,7 +258,7 @@ Bài viết sử dụng 5 hình ảnh được cấp phép CC, tất cả đều
 
 [^28]: [Văn Hóa Phong Bì — Hiệp Hội Phát Triển Khu Phố Ximending](https://www.ximen.com.tw/red-envelope-club-culture.html) — Ghi Lại Văn Hóa Phong Bì Khởi Phát Những Năm 1960, Thời Kỳ Hoàng Kim Những Năm 1980 Ximending Có 16-17 Quán Phong Bì Hoạt Động Cùng Lúc, Toàn Quốc Mỗi Ngày Lưu Lượng Khách Khoảng 3 Vạn Người, Nhân Dân Hưởng Thụ Chủ Yếu Là Quân Nhân Sót Ngoài Tỉnh, Coi Đây Là Không Gian Giải Trí Xã Hội Nhớ Lại Quá Khứ.
 
-[^29]: [Ga Ximending (Tàu Điện Ngầm Đài Bắc) — Wikipedia](https://zh.wikipedia.org/zh-hant/%E8%A5%BF%E9%96%80%E7%AB%99_(%E8%87%BA%E5%8C%97%E6%8D%B7%E9%81%8B) — )) — Ga Ximending Tuyến Bảng Nam Cùng Với Tuyến Nam Hồng Công "Thành Phố Quản Lý-Ximending" Phần Và Tuyến Bảng Xương "Ximending-Long Sơn Tự" Phần Ngày 24 Tháng 12 Năm 1999 Chính Thức Thông Xe Và Khai Trương, Mã Ga BL11
+[^29]: [Ga Ximending (Tàu Điện Ngầm Đài Bắc) — Wikipedia](<https://zh.wikipedia.org/zh-hant/%E8%A5%BF%E9%96%80%E7%AB%99_(%E8%87%BA%E5%8C%97%E6%8D%B7%E9%81%8B)>) — )) — Ga Ximending Tuyến Bảng Nam Cùng Với Tuyến Nam Hồng Công "Thành Phố Quản Lý-Ximending" Phần Và Tuyến Bảng Xương "Ximending-Long Sơn Tự" Phần Ngày 24 Tháng 12 Năm 1999 Chính Thức Thông Xe Và Khai Trương, Mã Ga BL11
 
 [^30]: [Đi Du Ở Ngang Ngang Phố Ximending Không Hoạt Động Vẽ Tranh Đường Phố — Quỹ Giáo Dục Xe Vàng](https://medium.com/%E9%87%91%E8%BB%8A%E6%96%87%E6%95%99%E5%9F%BA%E9%87%91%E6%9C%83/%E8%B7%A8%E6%96%87%E5%8C%96%E8%B5%B0%E8%AE%80-%E8%A5%BF%E9%96%80%E4%B8%8D%E7%87%9F%E6%A5%AD%E7%9A%84%E8%A1%97%E9%A0%AD%E5%A1%97%E9%B4%89-%E7%99%BE%E5%B9%B4%E6%B5%81%E8%A1%8C%E6%8C%87%E6%A8%99-%E5%BE%9E%E6%97%A5%E6%B2%BB%E6%99%82%E4%BB%A3%E8%88%88%E8%B5%B7%E7%9A%84%E6%BD%AE%E6%B5%81%E5%A8%9B%E6%A8%82%E5%9C%B0-980b60523c5b) — Thập Niên 1990 Ximending Phố Côn Minh 96 Hẻm Cửa Hàng Quần Áo Sơ Mi Mỹ Nhật, Cửa Hàng Quần Áo Thời Trang "Doobiest Độ Tỷ S" Năm 2001 Tổ Chức Lần Đầu Tiên "Lễ Hội Văn Hóa Đường Phố" Tập Trung Bốn Nguyên Tố Hip Hop Sân Khấu Lịch Sử Bối Cảnh.
 

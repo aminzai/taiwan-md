@@ -29,6 +29,7 @@ rationale:
 translatedFrom: 'History/跨黨派的好政策.md'
 sourceCommitSha: 'e666af3e1'
 sourceContentHash: 'sha256:165d618ccd73fdcd'
+sourceBodyHash: 'sha256:00c84158a3ec97b2'
 translatedAt: '2026-09-24T18:46:14.300708+00:00'
 ---
 

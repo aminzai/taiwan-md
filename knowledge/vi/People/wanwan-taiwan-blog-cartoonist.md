@@ -12,7 +12,7 @@ tags:
     'Thời MSN',
     'Văn hóa Internet',
   ]
-subcategory: 'Nghệ thuật và Thiết kế'
+subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-29
@@ -228,8 +228,8 @@ Cái đầu nhỏ sẽ không nhớ nó từng nói thay cho ai, nó từng nói
 
 **Đọc thêm:**
 
-- [Trang web vô danh: cái blog được so sánh sớm hơn Facebook của Đài Loan](/culture/無名小站)
-- [Lịch sử di cư xã hội mạng Đài Loan](/technology/台灣網路社群遷徙史)
-- [Meme Đài Loan](/culture/台灣迷因)
-- [Dcard](/culture/Dcard)
-- [Dương Thừa Lâm](/people/楊丞琳)
+- [Trang web vô danh: cái blog được so sánh sớm hơn Facebook của Đài Loan](/vi/culture/wretch)
+- [Lịch sử di cư xã hội mạng Đài Loan](/vi/technology/taiwan-online-community-migration)
+- [Meme Đài Loan](/vi/culture/taiwan-meme-culture)
+- [Dcard](/vi/culture/dcard-taiwan-social-platform)
+- [Dương Thừa Lâm](/vi/people/rainie-yang)

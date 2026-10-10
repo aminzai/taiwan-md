@@ -13,7 +13,7 @@ tags:
     'văn hóa ẩm thực',
     'triết học công nghệ',
   ]
-subcategory: 'Cộng đồng và cuộc sống hàng ngày'
+subcategory: '社區與日常'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-22

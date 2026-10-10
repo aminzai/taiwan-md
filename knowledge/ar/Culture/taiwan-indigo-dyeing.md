@@ -16,7 +16,7 @@ tags:
     'تشن جينغ لين',
     'تشنغ مي شو',
   ]
-subcategory: 'حرف وفنون جمالية'
+subcategory: '工藝與美學'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-07-05
@@ -29,6 +29,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:2020._08.24_%E7%B8%BD%E7%B
 translatedFrom: 'Culture/藍染.md'
 sourceCommitSha: 'a43cf9153'
 sourceContentHash: 'sha256:b1932b90a96124c5'
+sourceBodyHash: 'sha256:e04eb558f9b5295b'
 translatedAt: '2026-09-18T20:13:13.481479+00:00'
 ---
 

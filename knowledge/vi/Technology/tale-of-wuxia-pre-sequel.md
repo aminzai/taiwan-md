@@ -149,4 +149,4 @@ Gấu từng nói: "Con người không phải là những kẻ trung bình." C�
 
 - [Cặp đôi song parallel của Đại Trường](/vi/technology/softstar-twin-classics) — Điểm khởi đầu của game hành động Đài Loan ba mươi năm trước
 - [Red Candle Games](/vi/technology/red-candle-games) — Một con đường khác của game độc lập Đài Loan
-- [Ngành công nghiệp game và giải trí số của Đài Loan](/technology/台灣遊戲產業與數位娛樂) — Tầm nhìn từ đại lý đến sáng tạo ban đầu
+- [Ngành công nghiệp game và giải trí số của Đài Loan](/vi/technology/taiwan-gaming-industry) — Tầm nhìn từ đại lý đến sáng tạo ban đầu

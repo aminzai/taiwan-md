@@ -12,7 +12,7 @@ tags:
     'médecin',
     'troisième voie',
   ]
-subcategory: 'Politique et démocratie'
+subcategory: '政治與民主'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-30
