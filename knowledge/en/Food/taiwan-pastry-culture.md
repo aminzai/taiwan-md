@@ -1,30 +1,30 @@
 ---
-title: 'Taiwan Pastry Culture'
-description: "From the 1877 Lukang Yuzhenzhai Phoenix Eye Cake to the 2026 Chen Yaoxun's Red Soil Egg Yolk Pastry that sold out in 30 seconds on the Tixcraft ticketing system, Taiwan's pastries carry a 150-year layered story. In between lies the square pineapple cake revolution of Yifutang during the Japanese colonial era, Fengquan's olive-shaped egg yolk pastry experiment in Fengyuan, 270 hectares of native pineapple contract farming at the foot of Bagua Mountain, the craft mutation of oil-wrapped pastry layers, and a century-old Han pastry shop standing on the same Mid-Autumn dining table as a world bread champion."
+title: 'Taiwanese Pastry Culture'
+description: "From the phoenix-eye cake of Lukang's Yuzhenzhai in 1877 to the red bean and salted egg yolk pastry that sold out in 30 seconds through Chen Yaoxun's ticketing system in 2026, the layered story of Taiwanese pastries over 150 years. In between lies the square pineapple cake revolution of Nissin-do under Japanese rule, the olive-shaped salted egg yolk pastry experiments of Fengyuan Baoquan, 270 hectares of contracted pineapple cultivation under the Baguashan region, the craft evolution of oil pastry with oil filling, and century-old Han-style pastry shops sitting at the same Mid-Autumn dinner table as world bread champions."
 date: 2026-05-03
-author: 'Taiwan.md'
 category: 'Food'
-subcategory: '烘焙與糕點'
 tags:
   [
-    '糕餅',
-    '漢餅',
-    '鳳梨酥',
-    '蛋黃酥',
-    '太陽餅',
-    '中秋',
-    '伴手禮',
-    '油酥皮',
-    '飲食文化',
+    'Pastry',
+    'Han-style Pastry',
+    'Pineapple Cake',
+    'Salted Egg Yolk Pastry',
+    'Sun Cake',
+    'Mid-Autumn Festival',
+    'Souvenir Gifts',
+    'Flaky Pastry',
+    'Food Culture',
   ]
+subcategory: '烘焙與糕點'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
-featured: false
 translatedFrom: 'Food/台灣糕餅文化.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:bdb405b92fc10596'
-sourceBodyHash: 'sha256:c6a86f733ba033b1'
-translatedAt: '2026-05-03T23:14:05+08:00'
+sourceCommitSha: '93c5da2ca'
+sourceContentHash: 'sha256:18a6dcd21c7afdcc'
+sourceBodyHash: 'sha256:736db188fea407ed'
+translatedAt: '2026-10-10T08:16:58.173431+00:00'
 ---
 
 # Taiwan Pastry Culture
@@ -109,19 +109,19 @@ The tea offering ceremony at the entrance of the Nantou sanheyuan (traditional c
 
 The more substantive impact is on agriculture. SunnyHills drove up the price of native pineapple from less than NT$5 per catty at the start to a contract farming price of NT$10 per catty, with contract farming area reaching 270 hectares and 210 local employees hired[^4]. This figure is not small in Taiwan's agricultural business landscape, equivalent to pulling a seemingly disappearing native variety back into the mainstream market.
 
-## The 30-Second Sellout Mid-Autumn Battle
+## The 30-Second Sellout Moon Festival Showdown
 
-Time arrives at 2017. A Lukang native named **Chen Yaoxun** won the 6th Mondial du Pain World Bread Championship[^5]. The World Bread Competition is a European-style bread technical contest hosted by France, and it is rare for an Asian contestant to win.
+The year was 2017. A young man from Lukang named **Chen Yaoxun** won the championship at the sixth Mondial du Pain, a prestigious international bread-making competition held in France[^5]. It is rare for an Asian contestant to take top honors at this European-style bread contest.
 
-In 2019, Chen Yaoxun returned to Taiwan and founded his personal baking brand, "**Chen Yaoxun・Bread Port YOSHI BAKERY**"[^11]. The first thing he do was blend the European bread techniques of a world bread champion with the salted egg yolk pastry crust of traditional Taiwanese Han pastry, developing a Mid-Autumn gift box called the "Red Soil Salted Egg Yolk Pastry"[^10].
+After returning to Taiwan, Chen Yaoxun founded his personal baking brand **Chen Yaoxun Bread Port YOSHI BAKERY** in Taipei[^11]. His very first move was to fuse the European bread-making techniques of a world champion with the traditional Taiwanese salted egg yolk pastry crust, developing a new moon festival gift box called the "Red Earth Salted Egg Yolk Pastry"[^10].
 
-Red soil-cured salted egg yolk + reduced-sugar bean paste + Danish championship butter.
+Salted egg yolk cured in red earth + low-carb red bean paste + Danish champion buttercream.
 
-This combination put Chen Yaoxun in the "Hermès of the egg yolk pastry world" position in its first year on the market — selling out in under 30 seconds[^10]. Netizens started saying it was harder to get than a concert ticket. The 2025 Mid-Autumn pre-order was moved directly to the Tixcraft ticketing system (the same system that sells Mayday and Jay Chou concert tickets), opening at 12:30 PM on July 29, limited to 8 boxes per person, priced at NT$900, with no home delivery — pickup in store only[^11].
+This combination sold out in under 30 seconds on its first launch year, catapulting Chen Yaoxun to fame as the "Hermès of the salted egg yolk pastry world"[^10]. Netizens began joking that these pastries were harder to snag than concert tickets. For the 2025 Mid-Autumn Festival pre-orders, sales were again handled through the Tixcraft ticketing system—the same platform used for Mayday and Jay Chou concerts. Sales opened at 12:30 PM on July 29th, with a limit of 8 boxes per person at NT$900 each, no shipping, and in-store pickup only[^11].
 
-This is a brand-new generation's Mid-Autumn battle format. Traditional old pastry shops compete on recipes, gift box design, and distribution channels; the new generation adds three more battlefields: ticketing systems, world bread championships, and social media hype.
+This marked a brand-new format for the moon festival showdown. Traditional old bakeries compete on recipes, gift box design, and distribution channels; the new generation adds three new battlegrounds: ticket-snatching systems, world bread champions, and social media hype.
 
-In the same generation as Chen Yaoxun are Dajia's A-Cong-Shi taro pastry (designated state banquet snack), Lukang Yuzhenzhai's Phoenix Eye Cake, Fengyuan Chen Yun Fengquan's small moon cake, SunnyHills' pineapple cake, and Jiu Zhen Nan's Han Pastry Gelato[^12]. These century-old shops, emerging artisans, cultural education routes, and crossover ice cream — four types of pastries representing four generational postures — all converse at the same Mid-Autumn dining table every year.
+From the same generation as Chen Yaoxun are Dajia A-Cong-Shi's taro pastry (a state banquet designated specialty), Lukang Yuzhenzhai's fermented deer antler cake, Fengyuan Chen Yung-pao's mini mooncakes, Wuliu Mountain's pineapple cake, and Jiuzhennan's mung bean pastry Gelato[^12]. These century-old shops, rising artisans, cultural education brands, and cross-industry ice cream collaborations—each represents a different generational attitude, all converging in conversation around the same dinner table every Mid-Autumn Festival.
 
 ## The Layers of the Filling Remained Largely the Same
 
@@ -144,48 +144,48 @@ A single pastry holds far more time than you might think.
 
 ## References
 
-[^1]: [Yuzhenzhai Official Website — About Yuzhenzhai and Historical Development](https://www.1877.com.tw/about-us/) — Yuzhenzhai's official website, documenting the founding in 1877 (third year of Guangxu) by Lukang wealthy merchant Huang Jin, his partnership with Zheng Chui to open Yuzhenzhai Pastry Shop, and the subsequent split where Zheng Chui established Zheng Yuzhen Pastry Shop.
+[^1]: [Yuzhen Zhai Official Website — About Yuzhen Zhai and Its History](https://www.1877.com.tw/about-us/) — Yuzhen Zhai's official website, documenting the 1877 founding of Yuzhen Zhai by Lukang merchant Huang Jin, and the story of Huang Jin partnering with Zheng Chuan to open the Yuzhen Zhai cake shop, as well as the later split when Zheng Chuan established his own Zheng Yuzhen cake shop.
 
-[^2]: [Wikipedia: Sun Cake](https://zh.wikipedia.org/zh-tw/%E5%A4%AA%E9%99%BD%E9%A4%85) — Documents the Sun Cake's origin from Kunpai Pastry Shop's malt cake in Shen'gang, Taichung, opened by the Lin Zhenfang family during the Japanese colonial era, apprentice Wei Qinghai (Master A-Ming) refining and naming it "Sun Cake," and its market evolution as a Taichung specialty from the 1950s onward.
+[^2]: [Wikipedia: Sun Cake](https://zh.wikipedia.org/zh-tw/%E5%A4%AA%E9%99%BD%E9%A4%85) — Includes the historical context of the sun cake's origin from the malt cake shop of the Kangpur faction in Shengguan, Taichung, its establishment during the Japanese colonial period by the Lin Zhenfang family, and its renaming to 'sun cake' after improvements by apprentice Wei Qinghai (Master Ai), as well as the market evolution of it becoming a Taichung specialty in the 1950s.
 
-[^3]: [Wikipedia: Fengquan](https://zh.wikipedia.org/zh-tw/%E5%AE%9D%E6%B3%89) — Documents the four-generation heritage of Fengyuan Fengquan Pastry Shop from first generation Chen Yun in the Japanese colonial era, second generation Chen Jinquan opening Fengquan Confectionery Main Store in Tokyo in 1943, to third generation Chen Zengxiong establishing Taiwan Fengquan Main Store in 1975 and developing the egg yolk pastry.
+[^3]: [Wikipedia: Baoquan](https://zh.wikipedia.org/zh-tw/%E5%AE%9D%E6%B3%89) — Documents the four-generation succession of Fengyuan Baoquan Cake Shop: first generation Chen Yun during the Japanese colonial era, second generation Chen Jinquan opening the Baoquan Confectionery main shop in Tokyo in 1943, third generation Chen Zengxiong establishing the Taiwan Baoquan flagship store in 1975 and developing the egg yolk pastry.
 
-[^4]: [Taiwan Panorama Magazine: SunnyHills Interview](https://www.taiwan-panorama.com/Articles/Details?Guid=59960b88-840d-45d4-943e-4c5a3606e228) — Documents SunnyHills' 2009 founding by Xu Mingren and three others with NT$80 million in capital, their use of Kaiying variety 2/3 native pineapple for contract farming, raising the contract price from under NT$5 to NT$10 per catty, 270 hectares of contract farming area, and 210 local employees.
+[^4]: [Taiwan Light Magazine: Interview with Microheat Hill](https://www.taiwan-panorama.com/Articles/Details?Guid=59960b88-840d-45d4-943e-4c5a3606e228) — Documents the operational details of Microheat Hill, founded in 2009 by Xu Mingren and three others with an investment of NT$80 million, using the second and third pineapple contracted farming from Kailung, raising the contracted price from less than NT$5 per catty to NT$10, covering 270 hectares, and employing 210 local workers.
 
-[^5]: [Supertaste: Chen Yaoxun Egg Yolk Pastry Report](https://supertaste.tvbs.com.tw/food/355752) — Reports on Lukang-born Chen Yaoxun winning the 2017 Mondial du Pain World Bread Championship, founding Chen Yaoxun・Bread Port YOSHI BAKERY in 2019, and the Red Soil Salted Egg Yolk Pastry being dubbed the "Hermès of the egg yolk pastry world."
+[^5]: [Supertaste: Report on Chen Yaoxun's Egg Yolk Pastry](https://supertaste.tvbs.com.tw/food/355752) — Reports on the rise of Chen Yaoxun from Lukang, who won the world bread championship at the Mondial du Pain in 2017, founded Chen Yaoxun Bread Port YOSHI BAKERY in 2019, and whose red earth salted egg yolk pastry was hailed as the 'Hermès of the egg yolk pastry world.'
 
-[^6]: [Lukang Yuzhenzhai and the Century-Old Attic](https://www.bigfang.tw/blog/post/lukang-1877) — The Yuzhenzhai storefront at No. 168 Minzu Road was formerly the site of "Quanheli," the largest shipping agency in Qing-era Lukang, including architectural background research on the century-old attic and skylight, as well as the Qing-era commercial context of Lukang's eight merchant guilds.
+[^6]: [Lukang Yuzhen Zhai and the Century-Old Mansion](https://www.bigfang.tw/blog/post/lukang-1877) — Architectural background research on the Yuzhen Zhai store at No. 168 Minsu Road, formerly the site of 'Quanheli,' the largest shiptick office in Lukang during the Qing Dynasty, including the century-old mansion and courtyard, as well as the commercial context of Lukang's eight suburbs.
 
-[^7]: [Wikipedia: Pineapple Cake](https://zh.wikipedia.org/zh-tw/%E9%B3%B3%E6%A2%A8%E9%85%A5) — Documents the round pineapple big cake made by Yifutang Confectionery's Chen Zhoucai during the Japanese colonial era, and the subsequent shape evolution where Yan Shumu shrank it into a square and switched to a butter cookie crust.
+[^7]: [Wikipedia: Pineapple Cake](https://zh.wikipedia.org/zh-tw/%E9%B3%B3%E6%A2%A8%E9%85%A5) — Documents the evolution of the pineapple cake: the round pineapple big cake made by Chen Zhoucai of Yifutang Confectionery during the Japanese colonial period, and the subsequent changes by Yan Shumu who reduced it to a square shape and changed the skin to butter cookie.
 
-[^8]: [Taichung City Cultural Assets: Pineapple Cake Craft](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Invisible&id=2195556) — Taichung City Cultural Bureau's collected pineapple cake craft data, including the annual consumption of approximately 5,000 tons of pineapple for fillings and the traditional craft detail of using native pineapple with winter melon jam to balance sweet and sour.
+[^8]: [Taichung City Cultural Assets: Pineapple Cake Craftsmanship](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Invisible&id=2195556) — Taichung City Cultural Affairs Bureau's collection of pineapple cake craftsmanship data, including the annual consumption of about 5,000 tons of pineapples, and the traditional craft details of using native pineapples with winter melon jam to achieve the sour and sweet flavor.
 
-[^9]: [VERSE: The Craft of Egg Yolk Pastry](https://www.wowlavie.com/article/ae2101192) — National treasure pastry master Lü Hongyu recalls the egg yolk pastry originating in the 1960s, originally olive-shaped with pineapple crust, later evolving into round oil pastry crust, along with craft details of soaking salted egg yolks in strong liquor to remove fishiness and slow-cooking red bean paste.
+[^9]: [VERSE: The Craft of Egg Yolk Pastry](https://www.wowlavie.com/article/ae2101192) — National treasure master Lv Hongyu recalls the origin of the egg yolk pastry in the 1960s, originally with an olive-shaped pineapple skin, which later evolved into a round ball-shaped oil pastry skin, as well as the craftsmanship details of using salted egg yolk soaked in liquor to remove odor and slow-cooking red bean paste over low heat.
 
-[^10]: [104 Workplace: Chen Yaoxun Egg Yolk Pastry Craft](https://blog.104.com.tw/yoshi-bakery-yolk-pastry/) — Reports on Chen Yaoxun・Bread Port's Red Soil Salted Egg Yolk Pastry using red soil-cured salted egg yolks, reduced-sugar bean paste, Danish championship butter, and his process design integrating European bread craft into Han pastry.
+[^10]: [104 Job: Chen Yaoxun's Egg Yolk Pastry Craftsmanship](https://blog.104.com.tw/yoshi-bakery-yolk-pastry/) — Reports on Chen Yaoxun Bread Port's red earth salted egg yolk pastry, which uses red earth-cured salted egg yolks, reduced-sugar red bean paste, and Danish champion butter, as well as his integration of Western bread craftsmanship into the production process of Chinese pastries.
 
-[^11]: [Chen Yaoxun・Bread Port Official Website](https://www.chenyunpaochuan.com.tw/) — Chen Yaoxun・Bread Port YOSHI BAKERY official website, 2025 Mid-Autumn pre-order via Tixcraft ticketing system, opening July 29 at 12:30 PM, 8-piece box at NT$900, in-store pickup only with no home delivery.
+[^11]: [Chen Yaoxun Egg Yolk Pastry Available on July 29! Compilation of Four Major Brands for Pre-order - NOWnews](https://www.nownews.com/news/6711245) — Reported on July 25, 2025: Chen Yaoxun Bread Port (Da Dun District, Taipei City, Dunhua North Road) will start selling Mid-Autumn Festival pre-orders on July 29 at 12:30 noon, through the Tixuton ticketing system as before, with NT$900 per box of 8 pieces, limited to 8 boxes per person, and no delivery service—pickup in store required.
 
-[^12]: [Dajia A-Cong-Shi Pastry Culture Museum](https://www.o-nongs.com.tw/) — Official information for Dajia A-Cong-Shi Creative Taro Pastry, documenting its history as a designated state banquet snack and the heritage of taro pastry craft.
+[^12]: [Dajia Asong Master Cake Culture Museum](https://www.o-nongs.com.tw/) — Official data of Dajia Asong Master's creative taro pastry, documenting its history as a designated banquet snack, as well as the lineage of the taro pastry craftsmanship.
 
-[^13]: [Wikipedia: Egg Yolk Pastry](https://zh.wikipedia.org/zh-tw/%E8%9B%8B%E9%BB%83%E9%85%A5) — Documents the August 1986 _Baking Food Information Magazine_ record of egg yolk pastry inventor Chen Zengxiong, along with standard craft parameters of red bean paste, salted duck egg yolk, and oil pastry crust.
+[^13]: [Wikipedia: Egg Yolk Pastry](https://zh.wikipedia.org/zh-tw/%E8%9B%8B%E9%BB%83%E9%85%A5) — Documents the information of Chen Zengxiong, the inventor of the egg yolk pastry, as recorded in the August 1986 issue of the Baking Food Information Magazine, as well as the standard craft parameters of red bean paste, salted duck egg yolks, and oil pastry skin.
 
-[^14]: [Wikipedia: Mung Bean Pastry (綠豆椪)](https://zh.wikipedia.org/zh-tw/%E7%B6%A0%E8%B1%86%E6%A4%AA) — Also known as "Green Bean Dome" or "Taiwanese moon cake," originating from Fengyuan refinements during the Japanese colonial era, with fillings of mung bean paste, lard, fried shallots, and pork, and its important role in Taiwanese wedding pastries.
+[^14]: [Wikipedia: Mung Bean Puff](https://zh.wikipedia.org/zh-tw/%E7%B6%A0%E8%B1%86%E6%A4%AA) — Also known as 'mung bean bump' and 'Chinese mooncake,' it originated from improvements during the Japanese colonial period in Fengyuan, with fillings containing mung bean paste, lard, green onions, and minced pork in a sweet and salty flavor, and playing an important role in Chinese wedding gift cakes.
 
-[^15]: [Chen Yun Fengquan Main Store Official Website](https://www.chenyunpaochuan.com.tw/) — Fengyuan Chen Yun Fengquan Main Store official website, documenting the 2013 renaming from "Fengquan" to "Chen Yun Fengquan" and fourth generation Chen Kunhong's training in Japan.
+[^15]: [Chen Yun Baoquan Official Website](https://www.chenyunpaochuan.com.tw/) — Fengyuan Chen Yun Baoquan's official website, documenting the 2013 name change from 'Baoquan' to 'Chen Yun Baoquan,' and the family lineage record of the fourth generation, Chen Kunhong, studying abroad in Japan.
 
-[^16]: [Jiu Zhen Nan Han Pastry Culture Museum](https://www.jzn.com.tw/tw/architecture) — Jiu Zhen Nan official website, documenting the 2016 establishment of the Han Pastry Culture Museum in Daliao, Kaohsiung: a 4,421-square-meter, three-story building housing the brand headquarters, story hall, pastry kitchen, and baking culture experience space.
+[^16]: [Old Zhennan Cake Culture Museum](https://www.jzn.com.tw/tw/architecture) — Old Zhennan's official website, documenting the cake culture museum established in 2016 in Dapeng, Kaohsiung: a 4,421-square-meter three-story building that combines the brand headquarters, story museum, cake kitchen, and baking culture experience space.
 
-[^17]: [Jiu Zhen Nan: The Science of Oil Pastry Crust](https://www.facebook.com/jznpastryhouse/posts/1468951346624149/) — Jiu Zhen Nan official science post, illustrating the thousand-layer structure principle of oil-wrapped pastry: all-purpose flour for oil skin, low-gluten flour mixed for oil pastry, repeatedly folded and rolled to form hundreds or thousands of delicate layers.
+[^17]: [Old Zhennan: The Study of Oil Pastry Skin](https://www.facebook.com/jznpastryhouse/posts/1468951346624149/) — Old Zhennan's official science popularization post, illustrating the principle of the layered structure of oil pastry skin with oil: medium-gluten flour for the dough, low-gluten flour mixed with oil pastry, repeatedly folded and rolled to form hundreds of delicate layers.
 
-[^18]: [ETtoday: Jiu Zhen Nan Han Pastry Gelato 6 Flavors](https://travel.ettoday.net/article/3147149.htm) — Reports on Jiu Zhen Nan's April 2026 launch of Taiwan's first "Han Pastry Gelato" with 4 regular flavors (Feng He Ri Li, Peng Jian Jing Dian, Liang Chen Mei Jing, Jing Yu Hua Xiang) plus 2 seasonal limited editions (Xi Shang Mei Shao, Ning Jing Zao Chen) crossover product design.
+[^18]: [ETtoday: Old Zhennan Cake Gelato 6 Flavors](https://travel.ettoday.net/article/3147149.htm) — Reports on Old Zhennan's launch in April 2026 of a Taiwan-exclusive 'cake Italian ice cream' with a regular 4 flavors (Fenghuo Riji, Pangjian Classic, Liangchen Mier, Chayu Huaxiang) plus 2 seasonal limited flavors (Xishang Meisui, Ningjing Zao Chen) as a cross-domain product design.
 
-[^19]: [Economic Daily News: Jiu Zhen Nan 20-Store Expansion](https://money.udn.com/money/story/5635/9446485) — Reports on Jiu Zhen Nan's 2026 launch of a 20-store expansion plan across Taiwan, first entering Taichung Hanshin Intercontinental Shopping Plaza, with Q2 plans to enter Taipei Far Eastern Garden City (SOGO Dome).
+[^19]: [Economic Daily: Old Zhennan's 20 Store Expansion](https://money.udn.com/money/story/5635/9446485) — Reports on Old Zhennan's 20-store expansion plan across Taiwan launched in 2026, with the first store opening in Taichung Hankyu Department Store, and the second quarter planning to enter Taipei's Far Eastern Garden City (SOGO Dome).
 
-[^20]: [Santong Han Pastry Official Media Page](https://www.suntone.com.tw/pages/babyou) — Santong Han Pastry official explanation of the lava pastry's reduced-sugar formula and technical R&D path: traditional oil pastry craft combined with modern liquid lava filling to create light-style Han pastry.
+[^20]: [Sanzhong Han Snacks Official Media Page](https://www.suntone.com.tw/pages/babyou) — Sanzhong Han Snacks' official explanation of the reduced-sugar formulation and technical development path of the flowery pastry: traditional oil pastry craftsmanship combined with modern liquid flowery filling, creating a light and elegant Han pastry.
 
-[^21]: [Bnext: Santong Han Pastry Selling 400,000 Pieces Daily](https://www.bnext.com.tw/article/77855/shopline_202312) — Reports on Santong Han Pastry's single-store daily revenue of only NT$2,000 during the COVID-19 pandemic, marketing director Zhou Shiya driving SHOPLINE self-built website and e-commerce layout, the lava pastry setting a record of selling 1 box every 17 seconds on average, 400,000 pieces sold in a single day, and over NT$100 million in revenue within three years.
+[^21]: [Digital Era: Sanzhong Han Snacks Daily Sales of 400,000 Pieces](https://www.bnext.com.tw/article/77855/shopline_202312) — Reports on Sanzhong Han Snacks' transformation record: during the COVID-19 pandemic, a single store's daily revenue was only NT$2,000, but marketing director Zhou Shiyu promoted the self-built official website and e-commerce layout through SHOPLINE, with the flowery pastry selling one box every 17 seconds on average, up to 400,000 pieces per day, and breaking NT$100 million in revenue within three years.
 
-[^22]: [Bnext: Kuo Chien-wei Interview](https://fc.bnext.com.tw/articles/view/2474) — Reports on Kuo Yuan Ye fifth-generation Kuo Chien-wei entering the family business in 2009, being designated successor in 2016, studying in Japan for nearly three years visiting century-old wagashi shops, and returning to Taiwan to shift strategy from the wedding cake market to festivals and souvenir gifts.
+[^22]: [Digital Era: Interview with Guo Jianwei](https://fc.bnext.com.tw/articles/view/2474) — Reports on Guo Yuanqi's fifth-generation successor Guo Jianwei, who entered the family business in 2009, took over in 2016, studied in Japan for nearly three years visiting many century-old pastry shops, and after returning to Taiwan, shifted strategy from the gift cake market to festival and souvenir markets.
 
-[^23]: [Persona Media: Kuo Chien-wei and Aaron Nieh Collaboration Mung Bean Cake](https://www.persona-media.com/6596/kuo-yuan-ye-foods-co) — Profile interview with Kuo Yuan Ye fifth-generation successor Kuo Chien-wei, documenting his collaboration with designer Aaron Nieh to develop the "Ban Dian Shi Guang" mung bean cake, breaking through single-side pressing and single-flavor limitations, and the design experiment of shaping mung bean cakes into landmarks like the Taiwan Blue Magpie and Longshan Temple.
+[^23]: [Persona Media: Guo Jianwei and Nie Yongzhen's Mung Bean Puff Collaboration](https://www.persona-media.com/6596/kuo-yuan-ye-foods-co) — Personality magazine's interview with Guo Yuanqi's fifth-generation successor Guo Jianwei, documenting his collaboration with designer Nie Yongzhen to develop the 'Accompanying Time' mung bean puff, breaking through the limitations of single-sided molding and single flavor, and experimenting with shaping the mung bean puff into landmarks such as the Taiwan Blue Magpie and Longshan Temple.

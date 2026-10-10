@@ -1,154 +1,158 @@
 ---
-title: 'Brigitte Lin: From Qiong Yao Romance Star to East Asia’s Cinema Legend'
-description: 'Discovered in Taipei at seventeen, Brigitte Lin defined Taiwanese romance cinema before reinventing herself as Hong Kong martial arts icon Dongfang Bubai.'
+title: 'Lin Qingxia: From Literary Goddess to Wuxia Legend'
+description: 'The legendary actress of Chinese-language cinema, who transformed from a Qiong Yao literary star to a wuxia icon.'
 date: 2026-03-19
+category: 'People'
 tags:
   [
-    'Brigitte Lin',
-    'actress',
-    'Qiong Yao films',
-    'The Swordsman II',
-    'Chinese cinema',
+    'Lin Qingxia',
+    'Actress',
+    'Qiong Yao Films',
+    'The Fair Immortal (Dongfang Bubai)',
+    'Chinese Cinema',
   ]
-subcategory: 'Film & Theater'
-lastVerified: 2026-03-19
-translatedFrom: 'People/林青霞.md'
-sourceCommitSha: '7415dcaa'
-sourceContentHash: 'sha256:2b4a824289c241f9'
-sourceBodyHash: 'sha256:12badc0094297f08'
-translatedAt: '2026-05-17T05:53:00Z'
-category: People
+subcategory: '電影與戲劇'
 author: 'Taiwan.md'
 featured: false
+lastVerified: 2026-03-19
 lastHumanReview: false
+translatedFrom: 'People/林青霞.md'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:d90dfbfec4a44a23'
+sourceBodyHash: 'sha256:12badc0094297f08'
+translatedAt: '2026-10-10T12:07:00+08:00'
 ---
 
-# Brigitte Lin: From Romance Icon to Martial Arts Legend
+# Lin Qingxia: From Literary Goddess to Wuxia Legend
 
-Brigitte Lin (林青霞) is one of the most representative actresses in Chinese-language cinema, bridging the eras of Qiong Yao romance and Tsui Hark martial arts cinema. Rising to fame in the 1970s as a central figure in the film adaptations of romance novelist Qiong Yao (瓊瑤), she later transformed herself in the late 1980s into an unforgettable martial arts icon through her collaboration with director Tsui Hark (徐克), playing a subversive role in _The Swordsman II_. Her career witnessed the golden age of Chinese-language cinema.
+Lin Qingxia spanned two eras of Chinese-language cinema—the literary films of Qiong Yao and the wuxia films of Tsui Hark—making her one of the most representative actresses in the industry. In the 1970s, she gained prominence as a pure and innocent figure in Qiong Yao's movies; by the late 1980s, she successfully transformed, creating a groundbreaking character in _The Fair Immortal_ (Dongfang Bubai). Her career witnessed the golden age of Chinese-language film.
 
-## A Military Dependents' Village Girl's Journey to Stardom
+## The Stardom of a Village Girl
 
-Born on November 3, 1954, in Taipei, Brigitte Lin came from a military family—her father Lin Weilliang was an army officer, and her mother Luo Xiuyun was a housewife. Growing up in a juancun (眷村, military dependents' village), she displayed an otherworldly beauty and gentle temperament from an early age.
+Lin Qingxia was born on November 3, 1954, in Taipei, with ancestral roots in Shandong. Her father, Lin Wei-liang, was a military man, and her mother, Luo Xiu-yun, was a housewife. Growing up in a military family compound (juancun), Lin Qingxia displayed an elegant appearance and a gentle demeanor from a young age.
 
-While attending Jinling Girls' High School, Lin excelled academically and showed deep interest in literature and arts. In 1972, as she prepared for university entrance exams, she was spotted in Ximending by director Song Cunshou (宋存壽), who invited her to star in _Outside the Window_; she had no prior experience or aspirations in entertainment.[^1]
+She attended Jinling Girls' High School, where she was a model student with a deep interest in literature and art. In 1972, she was discovered by director Song Cunshou in Ximending, invited to star in _Beyond the Window_ (Chuāngwài), while she was preparing for university entrance exams and had no prior experience in acting.[^1]
 
-With her mother's support, Lin decided to try film acting. Her debut film _Outside the Window_ (窗外, 1973), adapted from a Qiong Yao novel and co-starring with Qin Han (秦漢), established her position as a defining face of Chinese-language literary cinema.[^2]
+With her mother's support, Lin Qingxia decided to try film. Her first movie, _Beyond the Window_ (1973), adapted from a Qiong Yao novel, featured her alongside Jin Han, establishing her status in literary cinema.[^2]
 
-## The Qiong Yao Era: Literary Romance Goddess
+## The Literary Goddess of the Qiong Yao Era
 
-The success of "Outside the Window" in 1972 launched Lin into the Qiong Yao film era. Over the following decade, she starred in numerous Qiong Yao adaptations including "Colorful Clouds Flying" (彩雲飛), "Thousands of Knots in My Heart" (心有千千結), and "Hazy Moon, Hazy Bird" (月朦朧鳥朦朧).
+The success of _Beyond the Window_ in 1972 launched Lin Qingxia's era in Qiong Yao films. Over the next decade, she starred in several Qiong Yao works, including _Caiyun Fei_, _Heart with a Thousand Knots_, and _Moonlit, Misty_.
 
-Lin's pristine image perfectly embodied Qiong Yao's idealized female characters: pure, kind-hearted, and romantically melancholic. Her on-screen partnerships with Qin Han and Qin Xianglin (秦祥林) created iconic romantic pairings that captivated audiences throughout the Chinese-speaking world.
+Lin Qingxia perfectly embodied the female characters written by Qiong Yao: innocent, kind-hearted, and sentimental. Her pairings with Jin Han and Qin Xianglin created classic on-screen couples that were popular across the Chinese-speaking world.
 
-During this period, Brigitte Lin became the idol of countless young women, with her hairstyles and fashion choices setting trends across Taiwan and Hong Kong. Her presence elevated Qiong Yao films to unprecedented commercial and cultural success.
+During this period, Lin Qingxia was an idol to countless young women; her hairstyles and fashion choices became style benchmarks. The Qiong Yao films also gained greater influence and commercial success due to her performances.
 
-## Literary Cinema Beyond Romance
+## Diversified Attempts in Literary Films
 
-Beyond Qiong Yao productions, Lin explored other genres of literary cinema. Her 1979 collaboration with renowned director Li Xing (李行) in "A Boat on the Ocean" (汪洋中的一條船) demonstrated her maturing acting abilities.
+Beyond Qiong Yao's works, Lin Qingxia also attempted other types of literary films. In 1979, she collaborated with director Li Xing on _A Ship in the Ocean_, demonstrating a more mature acting style.
 
-The 1981 film "I Am a Cloud" (我是一片雲), one of her most celebrated Qiong Yao works with Qin Han, showcased Lin's profound emotional range. This work highlighted her exceptional skill in portraying complex romantic relationships.
+_I Am a Cloud_ (Wo Shi Yi Pian Yun) from 1981 was one of her representative Qiong Yao films, featuring deeply moving dramatic scenes opposite Jin Han. This work showcased Lin Qingxia's profound skill in emotional dramas.
 
-By the early 1980s, Lin began contemplating a career transformation. She recognized that being typecast as a pure romance goddess might limit her artistic growth and actively sought opportunities for breakthrough roles.
+In the early 1980s, Lin Qingxia began contemplating a career transition. She realized that the single image of a literary goddess might limit her development space and started seeking opportunities for breakthrough.
 
-## Hong Kong Cinema and the New Wave Transformation
+## Transition to Hong Kong and New Wave Collaborations
 
-In the mid-1980s, Lin's decision to work in Hong Kong's film industry completely transformed her career trajectory. The diverse and commercially vibrant Hong Kong cinema scene provided her with unprecedented opportunities for artistic exploration.
+In the mid-1980s, Lin Qingxia moved to the Hong Kong film market, a decision that completely changed her career. The diversified and commercial environment of Hong Kong cinema provided her with greater room for growth.
 
-Collaborating with Hong Kong New Wave directors, she experimented with various character types; these experiences deepened her acting skills and prepared her to later take on Tsui Hark's martial arts films. This period saw Lin successfully maintaining careers in both Taiwan and Hong Kong, making her one of the few stars to transcend regional markets.
+She established collaborations with directors from the Hong Kong New Wave, attempting different types of roles. These experiences matured her acting skills, preparing her for later wuxia films directed by Tsui Hark.
 
-Her success provided a template for subsequent Taiwanese actors seeking to expand into Hong Kong cinema, demonstrating the possibilities of cross-strait cultural exchange through film.
+During her time in Hong Kong, Lin Qingxia maintained development in both Taiwan and Hong Kong, becoming one of the few superstars who could cross markets between the two regions. Her success provided a model for subsequent Taiwanese actors entering the Hong Kong industry.
 
-## Martial Arts Masterpiece: The Subversive Performance in "The Swordsman II"
+## Wuxia Masterpiece: The Groundbreaking Performance in _The Fair Immortal_ (Dongfang Bubai)
 
-Tsui Hark's 1992 film "The Swordsman II: The Legend of the Swordsman" (笑傲江湖II東方不敗) became the pinnacle of Brigitte Lin's acting career. Her portrayal of Dongfang Bubai (東方不敗), the invincible martial arts master, completely subverted audiences' expectations of her established image.
+_The Fair Immortal II: The Fair Immortal_ (1992), directed by Tsui Hark, became the pinnacle of Lin Qingxia's career. In the film, she played the peerless martial artist, The Fair Immortal, a role that subverted the audience's preconceived notions of her.
 
-Dongfang Bubai was a complex character study: simultaneously a martial arts overlord and a passionate lover, embodying both masculine dominance and feminine grace. Lin's layered performance captured this contradictory character with remarkable depth and nuance.
+The Fair Immortal was a complex character: simultaneously the overlord of the martial arts world and a deeply affectionate lover; possessing masculine dominance yet feminine grace. Lin Qingxia’s performance was richly layered, interpreting this contradictory character to the fullest extent.
 
-The iconic line "The sun rises in the east, only I am invincible" (日出東方，唯我不敗) became legendary, while her image in flowing red robes remains indelibly imprinted in cinema history. This role represented not only the peak of her acting prowess but also created one of the most memorable characters in Chinese film history.
+The line, "The sun rises in the East, only I am undefeated," became iconic, and Lin Qingxia's image, flying in red robes, remains deeply imprinted in the hearts of audiences. This role was not just the peak of her acting career but also a classic figure in Chinese-language film history.
 
 ## Creative Collaboration with Tsui Hark
 
-Lin's partnership with director Tsui Hark marked a crucial turning point in her career. Hark's talent for discovering actors' hidden potential allowed him to recognize the martial arts charisma and dramatic possibilities within Lin's artistic range.
+The collaboration between Lin Qingxia and director Tsui Hark was a major turning point in her career. Tsui Hark possessed an aptitude for discovering actors' potential; he saw the wuxia spirit and performance possibilities within Lin Qingxia.
 
-Beyond "The Swordsman II," they collaborated on works like "New Dragon Gate Inn" (新龍門客棧). Hark's innovative direction enabled Lin to discover new facets of her artistry, successfully completing her transformation from literary goddess to martial arts superstar.
+Besides _The Fair Immortal_, they also collaborated on works like _New Dragon Gate Inn_. Tsui Hark's creative direction helped Lin Qingxia discover new facets of herself, successfully completing her transformation from a literary goddess to a wuxia superstar.
 
-These collaborations achieved both commercial and critical success, validating Lin's career transformation. She was no longer merely the representative of Qiong Yao cinema, but a true dramatic powerhouse.
+These collaborative projects achieved success both commercially and critically, proving the correctness of Lin Qingxia's transition. She was no longer merely representative of Qiong Yao films but a true acting powerhouse.
 
-## 1990s: Diverse Artistic Expression
+## Diverse Performances in the 1990s
 
-The 1990s represented Lin's most artistically active period, during which she embraced various character types across genres. From period martial arts to contemporary dramas, her performances consistently demonstrated exceptional range.
+The 1990s were Lin Qingxia's most active period, during which she attempted various types of roles. From historical wuxia to modern dramas, her performances were brilliant.
 
-Her roles as Jin Xiangyu in "New Dragon Gate Inn," the blonde assassin in Wong Kar-wai's "Chungking Express" (重慶森林), and Murong Yan in "Ashes of Time" (東邪西毒) each possessed unique allure, showcasing Lin's remarkable versatility.
+Characters such as Jin Xiangyu in _New Dragon Gate Inn_, the blonde assassin in _Se7en Days in Hong Kong_ (Chungking Express), and Murong Yan in _Ashes of Time_ (Dong Xie Xi Du), each possessed unique charm. Lin Qingxia demonstrated an astonishing range of acting.
 
-Wong Kar-wai's art films "Chungking Express" and "Ashes of Time" connected Lin with auteur cinema, proving her ability to excel in both commercial blockbusters and artistically demanding works.
+Wong Kar-wai's _Chungking Express_ and _Ashes of Time_ connected Lin Qingxia to art cinema, proving that she could handle not only commercial films but also highly artistic works.
 
-## Retirement and New Life Chapter
+## Retirement and a New Phase in Life
 
-In 1994, Lin announced her retirement from acting to focus on family life. While this decision disappointed countless fans, it also reflected her personal priorities and life choices.
+In 1994, Lin Qingxia announced her retirement from acting to focus on family life. This decision caused regret among countless fans but was also understood as her personal choice for life.
 
-After retiring, Lin married businessman Xing Liyuan (邢李原) and had two daughters. She shifted her life focus entirely to family, rarely making public appearances, which only enhanced her mystique.
+After retiring, Lin Qingxia married businessman Xing Li-yuan and had two daughters. She shifted the focus of her life to her family and rarely appeared in public, which only added to her aura of mystery.
 
-Despite her retirement, Lin's influence never diminished. Her classic films continue to be rebroadcast on television, introducing new generations to her enduring charisma.
+Even after retirement, Lin Qingxia's influence did not diminish. Her classic works continued to be re-aired on television, allowing new generations of viewers to appreciate her charm through these films.
 
-## Literary Writing: A New Creative Endeavor
+## New Attempts at Writing
 
-Post-retirement, Lin began exploring literary writing, publishing essay collections including "Inside and Outside the Window" (窗裡窗外). Her delicate prose records life insights and personal experiences.
+After retiring from acting, Lin Qingxia began trying her hand at writing, publishing prose collections such as _Beyond the Window_ (Chuānglǐ Chuāngwài). She recorded her life insights and experiences with delicate writing.
 
-Her writing received critical acclaim from the literary community, proving her talents extended beyond acting to encompass literary artistry. This multifaceted creativity further elevated respect for her intellectual depth.
+Lin Qingxia's literary work received recognition in literary circles, proving that she was not only an excellent actress but also a talented writer. This multifaceted talent earned her greater admiration.
 
-Through her writing, she shared behind-the-scenes stories from her acting career and personal reflections, providing fans deeper insight into her inner world. These works serve as valuable historical documents of cinema history.
+Through writing, she shared her acting experiences and reflections on life, allowing fans to delve deeper into her inner world. These works have become precious historical records of cinema.
 
-## Occasional Returns: Special Significance
+## The Significance of Occasional Comebacks
 
-Though officially retired, Lin occasionally returns for special projects. Her 2013 cameo in "101 Proposals" (101次求婚) generated tremendous excitement among fans.
+Although officially retired, Lin Qingxia occasionally made guest appearances for special projects. In 2013, she made a cameo in _101 Dalmatians_ (Shi Bai Ci Qiuhan), attracting intense attention from fans.
 
-These brief returns, while limited in screen time, invariably become cultural events. Lin's enduring star power and influence remain evidently strong.
+Though these comeback roles were brief, each one became a topic of conversation. Lin Qingxia's appeal and influence were evident.
 
-Her appearances at film festivals and award ceremonies consistently create sensations. The passage of time has only enhanced her elegant and captivating presence.
+She also participated in film festivals and award ceremonies, causing a stir with every appearance. The accumulation of years made her even more elegant and captivating.
 
-## Transcending Generational Influence
+## Cross-Era Influence
 
-Brigitte Lin's influence extends far beyond cinema. From the innocent image of the Qiong Yao era to the heroic warrior of martial arts cinema, her career arc echoes three decades of change in Chinese-language film.
+Lin Qingxia's influence extended beyond mere cinema. From the innocent image during the Qiong Yao era to the heroic figure in wuxia films, her artistic journey mirrored the thirty-year evolution of Chinese-language film.
 
-Her beauty and charisma have been widely admired, and countless rising stars have been compared with her. "Brigitte Lin-style beauty" has become a common benchmark within the industry.
+Her beauty and temperament were highly praised; countless rising stars have been compared to her. "Lin Qingxia-style beauty" has become a common benchmark in the industry.
 
-New generation directors like Wong Kar-wai hold Lin in the highest regard, making her works subjects of analysis for film critics and cinema scholars worldwide.
+New generations of directors, such as Wong Kar-wai, hold Lin Qingxia in high regard, and her works are subjects of study by film critics and scholars.
 
-## Inspiration for Female Performers
+## Inspiration for Female Actresses
 
-Lin's successful transformation provides important inspiration for female actors. She demonstrated that actresses need not be confined to single image types, proving that different career phases can embrace entirely different character ranges.
+Lin Qingxia's successful transformation provided significant inspiration to female actors. She proved that actresses do not have to be confined to a single image but can experiment with different types of roles at various stages of their lives.
 
-Her dedication to roles and professional standards became exemplars for subsequent performers. Lin embodied the dedication and artistic pursuit that define exceptional actors.
+Her dedication to her roles and professional attitude also serve as a model for younger generations to learn from. Lin Qingxia demonstrated the professionalism and artistic pursuit expected of an actor.
 
-Many contemporary actresses acknowledge Lin's influence and inspiration, as she established crucial benchmarks for female performers in Chinese cinema.
+Many contemporary female stars have stated that they are influenced by and inspired by Lin Qingxia, establishing her as an important benchmark for women in Chinese-language cinema.
 
-## Position in Chinese Cinema History
+## Status in Chinese-Language Film History
 
-Brigitte Lin is recognized as one of the most important actresses in Chinese cinema history, with works spanning literary films, martial arts epics, and art house cinema, demonstrating extraordinary range.
+Lin Qingxia is hailed as one of the most significant actresses in Chinese-language film history. Her works span various genres—literary films, wuxia films, and art films—demonstrating an astonishing range of acting.
 
-Her collaborations with different eras' most important directors produced numerous classic works. These films achieved not only commercial success but also possess significant artistic value.
+She collaborated with important directors from different eras, leaving behind many classic works. These works are not only commercially successful but also possess significant artistic value.
 
-Cinema historians consider Lin's career a reflection of Chinese cinema's developmental trajectory, positioning her as a crucial witness and participant in Chinese cinema's golden age.
+Film scholars believe that Lin Qingxia's career reflects the developmental trajectory of Chinese-language film; she is a vital witness and participant in the golden age of this cinema.
 
 ## Eternal Classic Status
 
-Despite retiring years ago, Lin's position in fans' hearts remains supreme. Her classic images and exceptional performances constitute precious heritage of Chinese cinema.
+Even after years of retirement, Lin Qingxia maintains a revered status among fans. Her classic images and brilliant performances are precious legacies of Chinese-language cinema.
 
-Younger generations discovering her magic through classic film reruns shows that an outstanding performer can transcend her era. Brigitte Lin is a cultural symbol of Chinese-language cinema, and continues to inspire every generation of filmmakers who followed.
+Younger generations recognize her charm by rewatching her classics, proving that great performers transcend time. Lin Qingxia is a cultural icon in the Chinese-language film industry, inspiring every generation of filmmakers who followed.
+
+## Further Reading
+
+- [Sanmao](/en/people/san-mao): Screenwriter for _Rolling Red Dust_, who helped Lin Qingxia win the Golden Horse Award.
 
 ## References
 
-- [Brigitte Lin — Taiwan Cinema](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12467) — Complete filmography
-- [Hong Kong Film Archive](https://www.filmarchive.gov.hk/zh_TW/web/hkfa/home.html) — Hong Kong period film materials
-- [The Swordsman II — Hong Kong Film Awards Association](https://www.hkfaa.com/) — Critical evaluation of classic works
+- [Lin Qingxia - Taiwan Film Network](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12467) — List of Actress's Works
+- [Hong Kong Film Archive](https://www.filmarchive.gov.hk/zh_TW/web/hkfa/home.html) — Data on Hong Kong Period Works
+- [The Fair Immortal - Hong Kong Film Awards Association](https://www.hkfaa.com/) — Evaluation of Classic Works
 
-[^1]: Wikipedia "Brigitte Lin" entry: Song Cunshou as director invited her to star in _Outside the Window_ (1973). https://zh.wikipedia.org/wiki/林青霞
+[^1]: Wikipedia article on Lin Qingxia: Song Cunshou directed _Beyond the Window_ (1973), casting her. https://zh.wikipedia.org/wiki/林青霞
 
-[^2]: _Outside the Window_ (1973), directed by Song Cunshou, was Brigitte Lin's first starring role, adapted from Qiong Yao's novel of the same name. Taiwan Cinema works data: https://taiwancinema.bamid.gov.tw/
+[^2]: _Beyond the Window_ (1973) was directed by Song Cunshou, and it was Lin Qingxia's debut as a lead actress, adapted from a Qiong Yao novel. Taiwan Film Network works data: https://taiwancinema.bamid.gov.tw/
 
-[^3]: Brigitte Lin married Hong Kong businessman Michael Ying (邢李原) on June 29, 1994 and gradually withdrew from acting; see Wikipedia "Brigitte Lin" entry <https://zh.wikipedia.org/wiki/%E6%9E%97%E9%9D%92%E9%9C%9E>
+[^3]: After marrying businessman Xing Li-yuan on June 29, 1994, Lin Qingxia faded from the entertainment industry; related reports can be found in the Wikipedia article "Lin Qingxia" <https://zh.wikipedia.org/wiki/%E6%9E%97%E9%9D%92%E9%9C%9E>.
 
-[^4]: _Swordsman II: The Legend of the Swordsman_ (1992), directed by Tsui Hark, with Brigitte Lin as Dongfang Bubai; held in the Hong Kong Film Archive. https://www.filmarchive.gov.hk/
+[^4]: _The Fair Immortal II: The Fair Immortal_ (1992), directed by Tsui Hark, with Lin Qingxia playing The Fair Immortal, archived at the Hong Kong Film Archive. https://www.filmarchive.gov.hk/
 
-[^5]: Brigitte Lin, _Inside and Outside the Window_ (窗裡窗外), Cosmos Books, 2011 — her principal essay collection, well received by the literary world. <https://www.books.com.tw/products/0010512315>
+[^5]: _Beyond the Window_ (Chuānglǐ Chuāngwài) by Lin Qingxia, published by Tianditu Books in 2011. This book is her main collection of essays and received positive reviews from literary circles. <https://www.books.com.tw/products/0010512315>

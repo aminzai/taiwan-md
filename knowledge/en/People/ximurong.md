@@ -1,14 +1,14 @@
 ---
-title: 'Xi Murong'
-description: 'Author of "Qili Xiang" and "Youth Without Regret", the best-selling poet in the Chinese-language poetry scene, of Mongol ethnicity'
+title: 'Xi Mu-rong: A Poetic Symphony of Grasslands and Modernity'
+description: 'Author of *Seven Miles of Fragrance* and *Youth Without Grievance*, she is a best-selling Chinese-language poet, descendant of the Mongol people.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Person',
-    'Xi Murong',
-    'Qili Xiang',
-    'Youth Without Regret',
+    'Xi Mu-rong',
+    'Seven Miles of Fragrance',
+    'Youth Without Grievance',
     'Poet',
     'Mongol',
     'Essayist',
@@ -19,91 +19,90 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/席慕蓉.md'
-sourceCommitSha: '7415dcaa'
-sourceContentHash: 'sha256:5d1d8e5f0b7eaefd'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:36049c1494516a6b'
 sourceBodyHash: 'sha256:c035c602c7e335fa'
-translatedAt: '2026-05-17T05:34:48+08:00'
+translatedAt: '2026-10-10T12:07:00+08:00'
 ---
 
-# Xi Murong: A Poetic Symphony of the Steppe and Modernity
+# Xi Mu-rong: A Poetic Symphony of Grasslands and Modernity
 
-> **30‑second overview:** Xi Murong was the best‑selling poet in Taiwan during the 1980s. After the 1981 publication of _Qili Xiang_, the collection was reprinted seven times within a year, sweeping across Taiwan, Hong Kong, and Mainland China. She is also a formally trained oil painter and a descendant of the Mongol Chahar tribe; after first stepping onto the steppe in 1989, her poetic vision shifted from urban lyricism to writing about ethnic culture.
+> **30 Second Overview:** Xi Mu-rong was one of Taiwan's best-selling poets in the 1980s. Within a year of _Seven Miles of Fragrance_ being published in 1981, it was reprinted seven times, sweeping across Taiwan and mainland China. She is also a painter trained in art school and a descendant of the Khalkha Mongols; after her first trip to the grasslands in 1989, her poetic focus shifted from urban lyricism to writing about ethnic culture.
 
-## A Multicultural Growing Up
+## A Background of Diverse Cultures
 
-Xi Murong’s birth name was Mu Lun · Xi Lianbo. She was born on 15 October 1943 in Jingangpo, Chongqing. Her father, Xi Zhenduo (Mongol name Lasi Dondok), was a Chahar “Eight Banners” representative in the first National Assembly, and her mother, Le Zhufang (Mongol name Bayin Bilig), was also Mongolian. This steppe‑derived lineage gave her a sensitivity to the “lost homeland” that surpassed that of most families who migrated to Taiwan. The turbulence of war made her experience displacement and longing for her native land from an early age.
+Xi Mu-rong's birth name was Muren Xilianbo, and she was born on October 15, 1943, in Jinggangpo, Chongqing. Her father, Xi Zhenduo (Mongol name: Lasekhdorg), was the first representative to the National Congress from the Khalkha Banner group, and her mother, Le Zhufang (Mongol name: Bayinbilig), was also of Mongol descent. This lineage originating from the grasslands gave her a sensitivity regarding "lost homeland" that transcended the experience of ordinary families who migrated to Taiwan. The upheaval of wartime forced Xi Mu-rong to feel the pain of displacement and the longing for her ancestral land from a young age.
 
-In 1949, six‑year‑old Xi Murong moved with her family to Hong Kong. The international environment there exposed her to a blend of Chinese and Western cultures, profoundly influencing her later creations. During her Hong Kong years she encountered both traditional Chinese culture and Western literature and art.
+In 1949, at the age of six, Xi Mu-rong moved with her family to Hong Kong. The international environment of Hong Kong exposed her to the confluence of Chinese and Western cultures, which profoundly influenced her later creative works. During her years growing up in Hong Kong, she was exposed to both traditional Chinese culture and Western literature and art.
 
-In 1954 she settled in Taiwan with her family. The natural scenery and cultural environment of Taiwan during her adolescence provided abundant material for her poetry. Taiwan’s mountains, waters, flora, and seasonal changes repeatedly appear as imagery in her poems.
+In 1954, Xi Mu-rong settled in Taiwan with her family. Her life during her youth in Taiwan, particularly the natural scenery and humanistic environment of Taiwan, provided rich material for her poetic creation. The mountains, flora, and seasonal changes of Taiwan all became recurring images in her poetry.
 
-## Studies at the National Taiwan Normal University College of Arts
+## Studies at National Taiwan Normal University's College of Fine Arts
 
-After graduating from high school, Xi Murong entered the Department of Fine Arts at National Taiwan Normal University (NTNU). Training in fine arts sharpened her sense of colour and composition, artistic sensibilities that later merged into her poetry. [^1]
+After graduating from middle school, Xi Mu-rong enrolled in the Department of Fine Arts at National Taiwan Normal University (NTNU). Her training in art cultivated a keen perception of color and composition, artistic sensibilities that were later integrated into her poetic works.[^1]
 
-During her time at NTNU she achieved success in painting and began literary experimentation, reading extensively in both Chinese and foreign poetry. Modern poets left a deep imprint on her, helping her develop her own poetic language.
+During her time at NTNU, Xi Mu-rong achieved success in painting and also began experimenting with literary creation, reading extensively from Chinese and foreign poetry. The works of modern poets deeply influenced her, gradually helping her form her own poetic language.
 
-Upon graduating in 1966, she pursued further studies at the Royal Academy of Fine Arts in Brussels, Belgium. The museums, churches, and historic architecture of Europe left a lasting impression and broadened her creative outlook. [^2]
+After graduating in 1966, Xi Mu-rong pursued advanced studies at the Royal Academy of Fine Arts in Brussels, Belgium. The museums, churches, and ancient architecture of Europe left a deep impression on her, broadening her creative horizons.[^2]
 
-## _Qili Xiang_: A Stunning Debut on the Poetry Scene
+## _Seven Miles of Fragrance_: A Stunning Debut in Poetry
 
-In the 1970s Xi Murong mainly worked in visual art and teaching; poetry was still a hobby. However, the 1981 publication of the _Qili Xiang_ poetry collection made her an overnight focus of the poetry world. Within a year the book was reprinted seven times, setting a sales record for modern Taiwanese poetry. [^3]
+In the 1970s, Xi Mu-rong primarily worked as an artist and teacher; poetry was merely a hobby. However, the publication of the collection _Seven Miles of Fragrance_ in 1981 made her an instant focus of the literary world. This collection was reprinted seven times within a year of its release, setting a sales record for modern Taiwanese poetry.[^3]
 
-The success of _Qili Xiang_ lies in its clear, accessible language—never pretentious, yet capable of conveying genuine emotion in simplicity and depth in plainness. Xi Murong skillfully employs everyday images such as flowers, the moon, wind, and rain to express complex inner feelings.
+The success of _Seven Miles of Fragrance_ lies in its clarity—it is not overly complicated, yet it finds truth in simplicity and profound meaning in plainness. Xi Mu-rong excels at using common imagery from daily life, such as flowers, the moon, wind, and rain, to express complex inner feelings.
 
-The poem “A Tree in Bloom” became a classic of Chinese‑language poetry:  
-_How can you meet me / at my most beautiful moment / for this / I have prayed before the Buddha for five hundred years / asking him to bind us with a dust‑bound fate._  
-Its beautiful imagery and moving sentiment continue to be widely quoted.
+"A Tree in Bloom" became a classic of Chinese-language poetry: "How can I let you meet me / At my most beautiful moment? / For this, / I have prayed for five hundred years before the Buddha / Praying that we might form an earthly bond." This poem is widely recited today for its elegant imagery and moving emotion.
 
-## _Youth Without Regret_: A Poetic Re‑examination of Youth
+## _Youth Without Grievance_: A Poetic Reflection on Youthful Years
 
-Published in 1982, _Youth Without Regret_ continued the success of _Qili Xiang_. The collection focuses on themes of youth, love, and friendship, revealing the poet’s profound insight into life. The title itself expresses nostalgia for bygone years and admiration for youth. [^4]
+_Youth Without Grievance_, published in 1982, continued the success of _Seven Miles of Fragrance_. This collection focuses on themes of youth, love, and friendship, demonstrating the poet's deep insights into life. The title poem, "Youth Without Grievance," expresses a longing for past years and an admiration for youth.[^4]
 
-Xi Murong’s poems often start from a concrete scene or object, then expand and ultimately ascend to philosophical heights. A distinctive feature of _Youth Without Regret_ is its musicality—strong rhythm that suits recitation, allowing readers to experience the beauty of poetry through sound.
+Xi Mu-rong's poetry often starts from a specific scene or object, gradually unfolding to reach a philosophical height. Another characteristic of _Youth Without Grievance_ is its musicality—it has a strong sense of rhythm, making it suitable for recitation and allowing readers to experience the beauty of the poetry through sound.
 
-## Prose and Mongolian Sentiment
+## Essay Writing and the Mongol Connection
 
-Beyond poetry, Xi Murong is also an essayist. In the late 1980s she published essay collections such as _Traces of Growth_ and _There Is a Song_, continuing the fresh style of her poetry with elegant prose and sincere emotion.
+In addition to poetry, Xi Mu-rong was an essayist. In the late 1980s, she sequentially published collections such as _Traces of Growth_ and _A Song_, continuing the fresh style of her poetry with beautiful writing and sincere emotion.
 
-In 1989 she stepped onto the Mongolian steppe for the first time; this journey of roots profoundly affected her. She began producing a large body of work centered on Mongolia—poems and essays such as _My Home Is on the Plateau_ and _The Rivers Await_—showcasing her deep affection for the steppe and contemplation of ethnic culture. Using modern poetic forms, she expressed longing for ancient culture and affirmation of her ethnic identity. [^5]
+In 1989, she traveled to the Mongolian grasslands for the first time; this journey of seeking roots had a massive impact on her. She began creating numerous poems and essays centered on Mongolia, such as _My Home is on the Plateau_ and _The Land Awaits_, which demonstrated her deep affection for the grasslands and her reflections on ethnic culture. Using modern poetic forms, she expressed a longing for ancient culture and an affirmation of ethnic identity.[^5]
 
-The 2019 collection _I Name My Memories_ is a later‑life anthology, reflecting on a lifetime of wandering and root‑seeking with a more tranquil, restrained tone.
+_I Name Memory_ (published in 2019) is her later collection, with language that tends to be tranquil and introverted as she reflects on a life of wandering and searching roots at an advanced age.
 
-## The Perfect Fusion of Painting and Poetry
+## The Perfect Combination of Painting and Poetry
 
-As a formally trained painter, Xi Murong never abandoned visual art. Her oil paintings are fresh and natural, closely mirroring the style of her poetry. Moreover, her poems often possess strong visual qualities, allowing readers to picture vivid scenes while reading.
+As an artist trained in art school, Xi Mu-rong never abandoned painting. Her oil paintings have a fresh and natural style, highly consistent with her poetic style. What is even more remarkable is that her poems often possess strong visual imagery; readers feel as if they are viewing beautiful pictures while reading them.
 
-She has repeatedly organized poetry‑painting exhibitions, merging literature and visual art into a practicable interdisciplinary form that has been warmly received by audiences. [^6]
+Xi Mu-rong has held numerous poetry and art exhibitions, combining poetry and painting to find practical forms for cross-disciplinary cooperation between literature and fine arts, which has been warmly received by audiences.[^6]
 
-## Educational Career and Cultural Transmission
+## Educational Career and Cultural Inheritance
 
-Since **1984**, Xi Murong has taught in the Department of Fine Arts at **Tunghai University**, and also taught for many years at the National Hsinchu University of Education (now the National Tsing Hua University College of Education). She believes that the core of art education is the inspiration of emotion and spirit; technique is merely a tool, while aesthetic sensibility is the soul. Her teaching philosophy has influenced numerous later art practitioners.
+Starting in **1984**, Xi Mu-rong taught in the Department of Fine Arts at **Tunghai University**, and she also taught for many years at Hsinchu Teachers College (now National Tsing Hua University's Teacher Education College). She believes that the core of art education is the inspiration of emotion and spirit; technique is merely a tool, while aesthetic feeling is the soul. Her teaching philosophy influenced many subsequent artists.
 
-She frequently gives talks at schools and community centers, sharing creative insights with readers. Her approachable demeanor and sincerity have touched countless listeners and contributed to the popularisation of poetry.
+Xi Mu-rong also frequently lectured at schools and communities, sharing her creative insights with readers. Her warmth and sincerity have touched countless listeners and contributed to the popularization of poetry.
 
 ## Literary Achievements and Historical Significance
 
-Xi Murong’s poetry collections have sold over one million copies and have been translated into multiple languages worldwide. She has received awards such as the Sun Yat‑sen Literary Award and the National Cultural and Arts Foundation Award. [^7]
+Xi Mu-rong's poetry collections have sold over a million copies and have been translated into various languages for publication around the world. She has received recognition such as the Sun Yat-sen Literary Award and the National Arts Award.[^7]
 
-Unlike the refined elegance of [白先勇](/en/people/pai-hsien-yung-literary-master/) or the rational critique of [龍應台](/en/people/lung-ying-tai/), Xi Murong chose a gentler path. In today’s fast‑paced modern life, her poetry offers spiritual comfort. Her work demonstrates that women’s delicate perception and unique perspective can create literature that moves hearts.
+Unlike the refined elegance of [Pai Hsien-yung](/en/people/pai-hsien-yung-literary-master/) or the rational critique of [Lung Ying-tai](/en/people/lung-ying-tai/), Xi Mu-rong chose a gentler path. In the fast-paced modern life, her poetry provides spiritual comfort to readers. Her works also demonstrate that the delicate sensibilities and unique perspectives of women can create literature that touches people's hearts.
 
 ## References
 
-[^1]: [National Taiwan Normal University Department of Fine Arts](https://www.ntnu.edu.tw/art/) — Background of NTNU’s Fine Arts Department and alumni information.
+[^1]: [Department of Fine Arts at National Taiwan Normal University](https://www.ntnu.edu.tw/art/) — Background and alumni information for NTNU's Department of Fine Arts.
 
-[^2]: [Royal Academy of Fine Arts, Brussels (Académie Royale des Beaux‑Arts)](https://www.arba-esi.be/) — Institution where Xi Murong studied abroad, a Belgian national art academy.
+[^2]: [Royal Academy of Fine Arts in Brussels (Académie Royale des Beaux-Arts)](https://www.arba-esi.be/) — The institution where Xi Mu-rong studied abroad, a national art academy in Belgium.
 
-[^3]: [National Museum of Taiwan Literature — Xi Murong Special Exhibition](https://www.nmtl.gov.tw/) — Publication and reprint records of _Qili Xiang_, including sales data and exhibition information.
+[^3]: [National Taiwan Museum of Literature — Special Exhibition on Xi Mu-rong](https://www.nmtl.gov.tw/) — Records of the publication and reprinting of _Seven Miles of Fragrance_, including sales data and exhibition materials.
 
-[^4]: [Taiwan eBook Alliance — Xi Murong Works Page](https://www.taaze.tw/) — First‑edition data and publication year confirmation for _Youth Without Regret_.
+[^4]: [Taiwan E-book Alliance — Xi Mu-rong's Works Page](https://www.taaze.tw/) — Initial edition information and publication year confirmation for _Youth Without Grievance_.
 
-[^5]: [Mongolian and Tibetan Cultural Center — Xi Murong’s Mongolian Literary Works](https://www.mtac.gov.tw/) — Government‑hosted feature on Xi Murong’s Mongolian‑themed literature.
+[^5]: [Mongol Culture Museum — Xi Mu-rong's Mongol Literary Creations](https://www.mtac.gov.tw/) — A special introduction by a government institution regarding Xi Mu-rong's literary works on Mongolia.
 
-[^6]: [Xi Murong Official Website](http://www.ximurong.tw) — Official site containing work information, exhibition records, and creative chronology.
+[^6]: [Official Website of Xi Mu-rong](http://www.ximurong.tw) — The poet's official website, which includes information on her works, art exhibitions, and creative journey.
 
-[^7]: [National Cultural and Arts Foundation — National Arts Award](https://www.ncafroc.org.tw/) — Record of Xi Murong’s award and jury commentary.
+[^7]: [National Arts Award — National Foundation for the Arts](https://www.ncafroc.org.tw/) — Records of awards received by Xi Mu-rong and judging commentary.
 
 ## Further Reading
 
-- [National Museum of Taiwan Literature](https://www.nmtl.gov.tw/) — Collections of Xi Murong’s works and artifacts.
-- [白先勇](/en/people/pai-hsien-yung-literary-master) — Contemporary Taiwanese literary master, known for _Taipei People_.
+- [National Taiwan Museum of Literature](https://www.nmtl.gov.tw/) — Works and artifacts of Xi Mu-rong curated at the National Taiwan Museum of Literature
+- [Pai Hsien-yung](/en/people/pai-hsien-yung-literary-master) — A contemporary Taiwanese literary master, known for _People of Taipei_
+- [San Mao](/en/people/san-mao) — A female writer from the same generation who wrote about foreign lands in the hearts of Taiwanese people

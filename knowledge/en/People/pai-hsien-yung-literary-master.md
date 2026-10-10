@@ -1,22 +1,28 @@
 ---
-title: "Pai Hsien-yung: Taipei People (1971) to the Youth Edition of the Peony Pavilion's 20-Year Tour"
-description: 'Born in 1937 in Guilin, Guangxi, son of Bai Chongxi. Entered the National Taiwan University Department of Foreign Languages and Literature in 1956; co-founded Modern Literature with Wang Wen-hsing and others. Published Taipei People, a collection of 14 short stories, in 1971. Published Crystal Boys in 1983. Launched the Youth Edition of the Peony Pavilion in 2003, with its premiere in April 2004, reaching its 20th anniversary in 2024. Received the National Award for Arts in 2003.'
+title: 'Bai Xianyong: Taipei People (1971) and Twenty Years of Youth Edition Peony Pavilion Tours'
+description: "Born in Guilin, Guangxi in 1937, he is the son of Bai Chongxi. In 1956, while studying at National Taiwan University's Department of Foreign Languages, he co-founded Modern Literature with Wang Wenxing and others. In 1971, he published 14 short stories in Taipei People. In 1983, he published Nie Zi (The Sinful Child). He started the Youth Edition Peony Pavilion in 2003, which premiered in April 2004, celebrating its 20th anniversary in 2024. He received the National Arts Prize in 2003."
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags:
+  [
+    'literature',
+    'modern literature',
+    'Taipei People',
+    'Nie Zi',
+    'Kunqu',
+    'Bai Chongxi',
+  ]
 subcategory: '文學'
-tags: ['文學', '現代文學', '台北人', '孽子', '崑曲', '白崇禧']
-readingTime: 7
-#   whats_excluded: "各短篇小說個別分析；崑曲技術細節；家族政治史細節"
-#   where_it_hedges: "已移除「2018年第七屆紅樓夢獎決審團獎」幻覺（該屆得主是《青蚨子》《望春風》，非白先勇）；中山文藝獎無法驗證（已移除，以2003國家文藝獎為準）"'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+readingTime: 7
 translatedFrom: 'People/白先勇.md'
-sourceCommitSha: '7415dcaae'
-sourceContentHash: 'sha256:27b9c46e9dd00321'
-sourceBodyHash: 'sha256:bfc5f694a6aa2127'
-translatedAt: '2026-05-18T05:08:07+08:00'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:d675a47ee18feb3d'
+sourceBodyHash: 'sha256:44085a78b193e440'
+translatedAt: '2026-10-10T08:08:43.055473+00:00'
 ---
 
 # Pai Hsien-yung: Taipei People (1971) to the Youth Edition of the Peony Pavilion's 20-Year Tour
@@ -65,25 +71,25 @@ This award represented the Taiwanese literary world's formal recognition of his 
 
 (Note: Neither the "Chungshan Literary Award" nor the "2018 7th Dream of the Red Chamber Award Jury Prize" can be confirmed. The latter is a hallucination: the 7th Dream of the Red Chamber Award (2018) was won by _Qingfuzi_ and _Wangchunfeng_, not by Pai Hsien-yung.[^5])
 
-## The Youth Edition of the _Peony Pavilion_ at 20 and _Twenty Years of the Peony in Bloom_
+## Youth Edition of _The Peony Pavilion_ 20th Anniversary and _Twenty Years of Blossoming Peonies_
 
-In September 2024, the 20th-anniversary tour of the Youth Edition of the _Peony Pavilion_ was launched.[^2] In November of the same year, _Twenty Years of the Peony in Bloom_ was published, documenting two decades of performance history.
+In September 2024, the tour celebrating the 20th anniversary of the youth edition of _The Peony Pavilion_ began.[^2] In November of that year, _Twenty Years of Blossoming Peonies_, which documents two decades of performances, was published.
 
-In October 2025, National Taiwan University held a special exhibition on Pai Hsien-yung's literary legacy.[^4] As of 2026, Pai remains active.
+In October 2025, National Taiwan University hosted a special literary exhibition featuring Pai Hsien-yung.[^4] In 2026, Pai Hsien-yung remains active.
 
-The 2024 20th-anniversary tour spanned Taipei, Hong Kong, Suzhou, and other cities, and _Twenty Years of the Peony in Bloom_ records the complete journey of this cultural project from premiere to milestone.
+The 20th-anniversary tour in 2024 spanned multiple cities, including Taipei and Hong Kong. _Twenty Years of Blossoming Peonies_ records the complete journey of this cultural project from its premiere to significant milestones.
 
-Pai Hsien-yung continues to make public appearances in 2026, actively promoting kunqu culture and literary education. This persistence itself is a declaration against disappearance.
+In 2026, Pai Hsien-yung continues public activities, promoting Kunqu culture and literary education. This persistence is a declaration against fading away.
 
-> 🎙️ **Curator's note:** Pai Hsien-yung is one of the rare figures in Taiwanese literary history who began as a "modern novelist" and concluded as a "reviver of traditional culture." This arc is not a conventional career pivot but a deepening. The attachment to what is vanishing in _Taipei People_ and the guardianship of kunqu in the Youth Edition of the _Peony Pavilion_ spring from the same question: how to keep precious things from disappearing.
+> 🎙️ **Curator's Note**: Pai Hsien-yung is one of the few creators in Taiwanese literature who started as a "modern novelist" but concluded as a "revitalizer of traditional culture." This trajectory is not merely transformation, but deepening. The nostalgia for what is fading in _Taipei People_ and the safeguarding of Kunqu in the youth edition of _The Peony Pavilion_ stem from the same core concern: how to prevent precious things from disappearing.
 >
-> His success demonstrates that cultural preservation requires neither museumification nor popularization. What it requires is a person of sufficient artistic caliber and sufficient persistence, continuing to do it well enough.
+> His success demonstrates that cultural preservation does not require museumification, nor does it require popularization. It requires someone with sufficient artistic caliber and sufficient dedication to keep doing it well enough.
 >
-> _Crystal Boys_ and the Youth Edition of the _Peony Pavilion_ (one breaking silence in 1983, the other reviving a classical form in 2004) appear entirely different, yet both arise from the same deep commitment to safeguarding what has been marginalized.
+> _Nieziz_ (The Sinful Child) and the youth edition of _The Peony Pavilion_ (one breaking silence in 1983, one reviving classical forms in 2004), though seemingly disparate, both spring from a deep safeguarding of marginalized things.
 
-From Guilin, Guangxi to Taipei's New Park, from _Modern Literature_ to the Suzhou Kunqu Theatre, Pai Hsien-yung's six-decade trajectory is the portrait of a person who has never been willing to let go of "memory."
+From Guilin, Guangxi, to Xinyi Park in Taipei, from _Modern Literature_ to the Suzhou Kunqu Opera House, Pai Hsien-yung's sixty-year trajectory is an example of someone who refuses to let go of "memory."
 
-**Further reading:** [Pai Hsien-yung — Wikipedia](https://zh.wikipedia.org/wiki/白先勇) ｜ [National Award for Arts: Pai Hsien-yung's Award Record](https://www.ncafroc.org.tw/artsaward/winnerDetail@1229) ｜ [National Museum of Taiwan Literature](https://www.nmtl.gov.tw/) ｜ [Sanmao](/en/people/san-mao): Pai Hsien-yung recommended her debut story "Bewilderment" for publication in _Modern Literature_
+**Further Reading**: [Pai Hsien-yung — Wikipedia](https://zh.wikipedia.org/wiki/白先勇) ｜ [National Culture and Arts Foundation: Pai Hsien-yung Award Record](https://www.ncafroc.org.tw/artsaward/winnerDetail@1229) ｜ [National Taiwan Museum of Literature](https://www.nmtl.gov.tw/) ｜ [Sanmao](/en/people/san-mao): Pai Hsien-yung recommended her debut work _Huo_ (Bewilderment), which was published in _Modern Literature_.
 
 ## References
 
