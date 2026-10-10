@@ -12,7 +12,7 @@ tags:
     'vinh quang Đài Loan',
     'bao gói thực phẩm',
   ]
-subcategory: 'bán dẫn và phần cứng'
+subcategory: '半導體與硬體'
 author: 'Taiwan.md Contributors'
 readingTime: 10
 featured: false

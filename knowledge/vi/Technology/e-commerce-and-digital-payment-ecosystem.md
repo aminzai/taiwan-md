@@ -15,7 +15,7 @@ tags:
     'Street Pay',
     'chuyển đổi số',
   ]
-subcategory: 'Số hóa và Internet'
+subcategory: '數位與網路'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-06

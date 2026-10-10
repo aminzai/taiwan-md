@@ -14,7 +14,7 @@ tags:
     'đường sắt rừng',
     'Hồi Hàn Tài Tô',
   ]
-subcategory: 'Sau chiến tranh và chế độ áp đảo'
+subcategory: '戰後與威權'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-05

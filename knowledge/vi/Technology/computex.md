@@ -21,7 +21,7 @@ tags:
     'Chuyển đổi B2B',
     'Trí tuệ nhân tạo vật lý',
   ]
-subcategory: 'Bán dẫn và phần cứng'
+subcategory: '半導體與硬體'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-12

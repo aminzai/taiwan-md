@@ -17,7 +17,7 @@ tags:
     'cá linh hồn',
     'Venezia Biennale',
   ]
-subcategory: 'nghệ thuật truyền thông mới'
+subcategory: '新媒體藝術'
 author: 'Taiwan.md Contributors'
 translatedFrom: 'People/吳哲宇.md'
 sourceCommitSha: '4b6d28c54'

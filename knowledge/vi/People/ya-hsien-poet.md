@@ -14,7 +14,7 @@ tags:
     'Hà Nam',
     'Vancouver',
   ]
-subcategory: 'Văn học và nhà thơ'
+subcategory: '文學與詩人'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-28

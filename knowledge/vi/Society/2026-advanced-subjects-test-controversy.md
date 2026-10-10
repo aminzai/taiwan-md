@@ -11,7 +11,7 @@ tags:
     'tranh chấp xã hội',
     'phong trào sinh viên',
   ]
-subcategory: 'giáo dục'
+subcategory: '教育'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-05

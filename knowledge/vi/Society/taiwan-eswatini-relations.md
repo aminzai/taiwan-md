@@ -18,7 +18,7 @@ tags:
     'Phong trào sinh viên 2014',
     'Nauru đứt giao',
   ]
-subcategory: 'Quan hệ quốc tế'
+subcategory: '國際關係'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-05

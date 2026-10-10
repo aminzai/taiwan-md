@@ -4,7 +4,7 @@ description: 'Giai đoạn 1683–1895 khi nhà Thanh cai trị Đài Loan kho�
 date: 2026-03-17
 category: 'History'
 tags: ['History', 'Nhà Thanh', 'Mở cảng thương mại', 'Sự kiện Bồ Đàn Xã']
-subcategory: 'Thực dân và Đế chế'
+subcategory: '殖民與帝國'
 author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 8

@@ -12,7 +12,7 @@ tags:
     'Toàn cầu hóa',
     'Đường cong nụ cười',
   ]
-subcategory: 'Tiểu sử doanh nhân'
+subcategory: '企業列傳'
 author: 'Taiwan.md'
 readingTime: 13
 featured: false

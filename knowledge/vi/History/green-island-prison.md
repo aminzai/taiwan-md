@@ -17,7 +17,7 @@ tags:
     'Lưu Ma Giang',
     'Trung đội 13',
   ]
-subcategory: 'Hậu chiến và thời kỳ Độc tài'
+subcategory: '戰後與威權'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-15

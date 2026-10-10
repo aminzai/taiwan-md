@@ -14,7 +14,7 @@ tags:
     'thống nhất',
     'Vụ Liên Minh Dân chủ Đài Loan',
   ]
-subcategory: 'Văn học'
+subcategory: '文學'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13

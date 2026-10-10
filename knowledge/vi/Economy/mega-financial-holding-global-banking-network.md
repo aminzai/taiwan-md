@@ -11,7 +11,7 @@ tags:
     'Ngân hàng nhà nước',
     'Tài chính quốc tế',
   ]
-subcategory: 'Chân dung doanh nghiệp'
+subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13

@@ -4,7 +4,7 @@ description: 'Ông vua sản xuất thiết kế gốc (ODM) lớp hai thế gi�
 date: 2026-03-20
 category: 'Economy'
 tags: ['Economy', 'Doanh nghiệp', 'Sản xuất điện tử', 'ODM']
-subcategory: 'Tiểu sử doanh nhân'
+subcategory: '企業列傳'
 author: 'Taiwan.md'
 readingTime: 12
 featured: false

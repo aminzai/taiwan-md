@@ -14,7 +14,7 @@ tags:
     'cơ sở hạ tầng',
     'chủ quyền số',
   ]
-subcategory: 'Truyền thông và cơ sở hạ tầng'
+subcategory: '通訊與基礎建設'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-29

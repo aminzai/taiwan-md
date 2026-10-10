@@ -5,7 +5,7 @@ date: 2026-04-24
 category: 'People'
 tags:
   ['Khám phá vũ trụ', 'NASA', 'Nhân vật gốc Đài Loan', 'Y học', 'Lịch sử di cư']
-subcategory: 'Khoa học và Học vấn'
+subcategory: '科學與學術'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-28

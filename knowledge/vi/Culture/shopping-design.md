@@ -14,7 +14,7 @@ tags:
     'tập đoàn báo chí Cự Tư',
     'hiểu biết về phương tiện truyền thông',
   ]
-subcategory: 'Design and Media'
+subcategory: '設計與媒體'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-07-13

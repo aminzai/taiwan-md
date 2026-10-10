@@ -12,7 +12,7 @@ tags:
     'Lịch sử Đài Loan',
     'Nâng cấp ngành công nghiệp',
   ]
-subcategory: 'Lịch sử phát triển kinh tế'
+subcategory: '經濟發展史'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-01

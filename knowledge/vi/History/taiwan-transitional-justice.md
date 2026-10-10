@@ -11,7 +11,7 @@ tags:
     'nhân quyền',
     'khủng bố trắng',
   ]
-subcategory: 'Lịch sử hiện đại'
+subcategory: '現代歷史'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-31

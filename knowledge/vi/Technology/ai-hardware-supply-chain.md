@@ -4,7 +4,7 @@ description: 'Trông thì giống dịch vụ đám mây, thực tế AI cần c
 date: 2026-07-11
 author: 'Taiwan.md Contributors'
 category: 'Technology'
-subcategory: 'Semiconductor và Phần cứng'
+subcategory: '半導體與硬體'
 tags:
   [
     'Phần cứng AI',

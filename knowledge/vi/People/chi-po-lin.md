@@ -14,7 +14,7 @@ tags:
     'môi trường',
     'không quay phim',
   ]
-subcategory: 'Nghệ thuật và sáng tạo'
+subcategory: '藝術與創作'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-25

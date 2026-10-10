@@ -16,7 +16,7 @@ tags:
     'cây lũa Đài Loan',
     'cục công viên',
   ]
-subcategory: 'cảnh đô thị và không gian công cộng'
+subcategory: '街景與公共空間'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-08-04

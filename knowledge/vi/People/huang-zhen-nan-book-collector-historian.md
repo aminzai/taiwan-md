@@ -11,7 +11,7 @@ tags:
     'lịch sử Đài Loan',
     'Hoạt Thủy Lai Sách Phòng',
   ]
-subcategory: 'Văn học'
+subcategory: '文學'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20

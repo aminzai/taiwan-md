@@ -13,7 +13,7 @@ tags:
     'thiết quân luật',
     '228',
   ]
-subcategory: 'lịch sử quân sự'
+subcategory: '軍事歷史'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-31

@@ -4,7 +4,7 @@ description: 'Từ động đất 921 tới trận động đất mạnh ở Hoa
 date: 2026-03-24
 category: 'Technology'
 tags: ['y tế thảm họa', 'y học cấp cứu', 'DMAT', 'y tế Đài Loan', 'y tế từ xa']
-subcategory: 'hệ thống y tế'
+subcategory: '醫療體系'
 author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false

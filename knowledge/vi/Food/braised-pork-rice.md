@@ -11,7 +11,7 @@ tags:
     'ẩm thực quốc dân',
     'khác biệt Bắc Nam',
   ]
-subcategory: 'Ẩm thực dân tộc'
+subcategory: '族群飲食'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-16

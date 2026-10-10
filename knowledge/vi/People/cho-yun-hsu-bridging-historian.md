@@ -17,7 +17,7 @@ tags:
     'Vương Lực Hùng',
     'Lý Kiến Phục',
   ]
-subcategory: 'Khoa học và Học thuật'
+subcategory: '科學與學術'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-22

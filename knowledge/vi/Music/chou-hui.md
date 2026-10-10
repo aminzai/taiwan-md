@@ -27,7 +27,7 @@ tags:
     'Where X Đi',
     'Ánh sáng không bị lãng quên',
   ]
-subcategory: 'Ca sĩ'
+subcategory: '歌手'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-28

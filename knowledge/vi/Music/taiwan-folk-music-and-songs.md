@@ -14,7 +14,7 @@ tags:
     'Thuần Thuần',
     'Bố Nông',
   ]
-subcategory: 'Âm nhạc truyền thống'
+subcategory: '傳統音樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23

@@ -23,7 +23,7 @@ tags:
     'gà chiên giòn nổi danh',
     'khu phố lịch sử',
   ]
-subcategory: 'Khu phố lịch sử / Quận Tư Lâm, Đài Bắc'
+subcategory: '歷史街區 / 台北市士林區'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-21

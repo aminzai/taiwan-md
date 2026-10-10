@@ -3,7 +3,7 @@ title: 'Bò đàn họa: Từ chiến thiệt tại chùa chiến đến vũ tr�
 description: "Vào ngày 2 tháng 3 năm 1970, truyền hình công ty Huang Jun-hsiu của Shih Yen-wen khiến các nhà máy ở Đài Loan ngừng hoạt động, học sinh vắng lớp, đạt tỷ lệ xem trên toàn quốc lên tới 97%; sau bốn năm, chính phủ cấm phát vì lý do 'hạn chế người nông dân và công nhân làm việc bình thường'. Kiến trúc nghệ thuật này trên Đài Loan qua qua áp lực hoàng quốc, chiến tranh, và cuộc cách mạng thẻ VCD, cuối cùng mở ra thị trường hoạt hình toàn cầu thông qua《Đường Lê Kiếm Du Ký》."
 date: 2026-05-02
 category: 'Culture'
-subcategory: 'Công nghiệp và thẩm mỹ'
+subcategory: '工藝與美學'
 tags:
   [
     'Nghệ thuật truyền thống',

@@ -12,7 +12,7 @@ tags:
     'Thiết kế IC',
     'MediaTek',
   ]
-subcategory: 'Chân dung doanh nghiệp'
+subcategory: '企業列傳'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-25

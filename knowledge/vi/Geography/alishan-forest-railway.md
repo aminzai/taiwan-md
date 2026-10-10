@@ -2,7 +2,7 @@
 title: 'Đường sắt lâm nghiệp A Li Sơn: Một tuyến đường đưa gỗ lên núi, lưu giữ di sản văn hóa dài 71,6 km'
 description: 'Đường sắt lâm nghiệp A Li Sơn, khởi công năm 1906 và thông xe năm 1912, từng vận chuyển gỗ thùng xuống Ca Nghĩa, cũng từng ngừng hoạt động 15 năm sau các cơn bão Morakot và Dujuan. Năm 2024 toàn tuyến khôi phục chạy lại, nó từ một tuyến đường vận tải khai thác gỗ đã trở thành cảnh quan văn hóa. Sau khi tàu hỏa lại lên núi, vấn đề thực sự không phải là làm thế nào để chinh phục rừng, mà là làm thế nào để tiếp tục vận hành giữa thiên tai, du lịch và bảo tồn.'
 category: 'Geography'
-subcategory: 'Giao thông và cơ sở hạ tầng'
+subcategory: '交通與基礎設施'
 tags:
   [
     'A Li Sơn',

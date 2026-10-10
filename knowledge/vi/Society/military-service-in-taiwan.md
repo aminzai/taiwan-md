@@ -11,7 +11,7 @@ tags:
     'Diễn tập Hán Quang',
     'Giải Kim Mã',
   ]
-subcategory: 'Chế độ xã hội'
+subcategory: '社會制度'
 author: 'Taiwan.md Contributors'
 readingTime: 12
 lastVerified: 2026-07-17

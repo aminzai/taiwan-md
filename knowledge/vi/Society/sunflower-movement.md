@@ -10,7 +10,7 @@ tags:
     'quan hệ hai bờ eo biển',
     'công nghệ công dân',
   ]
-subcategory: 'Dân chủ và chính trị'
+subcategory: '民主與政治'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-12

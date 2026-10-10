@@ -15,7 +15,7 @@ tags:
     'Hội nhạc đen Chính Đại',
     'bedroom pop',
   ]
-subcategory: 'Độc lập và Rock'
+subcategory: '獨立與搖滾'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-06-28

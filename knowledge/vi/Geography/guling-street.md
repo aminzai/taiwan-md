@@ -22,7 +22,7 @@ tags:
     'Thư Viện Tùng Lâm',
     'Khu vực lịch sử loạt',
   ]
-subcategory: 'Khu vực lịch sử / Quận Trung Chính, Thành phố Đài Bắc'
+subcategory: '歷史街區 / 台北市中正區'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-21

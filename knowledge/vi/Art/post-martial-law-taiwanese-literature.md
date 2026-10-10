@@ -12,7 +12,7 @@ tags:
     'văn học chính trị',
     'đa dạng văn học',
   ]
-subcategory: 'Văn học'
+subcategory: '文學'
 featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true

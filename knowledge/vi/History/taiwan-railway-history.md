@@ -15,7 +15,7 @@ tags:
     'thời kỳ Nhật trị',
     'kỹ sư nước ngoài',
   ]
-subcategory: 'Xã hội và Lịch sử hàng ngày'
+subcategory: '社會與日常史'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-11

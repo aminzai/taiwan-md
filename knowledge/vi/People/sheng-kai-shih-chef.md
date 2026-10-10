@@ -14,7 +14,7 @@ tags:
     'Thương hiệu thực phẩm',
     'Món năm',
   ]
-subcategory: 'Kỹ thuật số và truyền thông'
+subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-21

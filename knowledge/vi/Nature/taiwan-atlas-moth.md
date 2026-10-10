@@ -13,7 +13,7 @@ tags:
     'côn trùng',
     'sinh thái',
   ]
-subcategory: 'động vật hoang dã'
+subcategory: '野生動物'
 author: 'Taiwan.md Contributors'
 readingTime: 10
 featured: false

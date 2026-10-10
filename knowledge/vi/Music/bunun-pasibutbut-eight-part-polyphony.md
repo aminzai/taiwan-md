@@ -12,7 +12,7 @@ tags:
     'di sản văn hóa phi vật thể',
     'văn hóa Đài Loan',
   ]
-subcategory: 'Âm nhạc truyền thống và dân tộc'
+subcategory: '傳統與民族音樂'
 author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-04-01

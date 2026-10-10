@@ -4,7 +4,7 @@ description: 'Nhà máy gia công phôi đầu tiên của Đài Loan, nửa th�
 date: 2026-03-20
 category: 'Economy'
 tags: ['Kinh tế', 'Doanh nghiệp', 'Bán dẫn', 'Gia công phôi', 'Công nghệ']
-subcategory: 'Tiểu sử doanh nhân'
+subcategory: '企業列傳'
 author: 'Taiwan.md'
 readingTime: 8
 featured: false

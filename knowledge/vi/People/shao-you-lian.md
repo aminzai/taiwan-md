@@ -14,7 +14,7 @@ tags:
     'Hiệp ước Ili',
     'Lý Hồng Chương',
   ]
-subcategory: 'Nhân vật lịch sử'
+subcategory: '歷史人物'
 author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 15

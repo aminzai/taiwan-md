@@ -11,7 +11,7 @@ tags:
     'nghệ thuật công cộng',
     'văn hóa phụ trội',
   ]
-subcategory: 'Khu vực nghệ thuật'
+subcategory: '藝術園區'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20

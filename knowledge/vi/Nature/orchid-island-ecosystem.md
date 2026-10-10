@@ -16,7 +16,7 @@ tags:
     'sinh thái đảo',
     'sinh vật địa lý',
   ]
-subcategory: 'Sinh thái và bảo tồn'
+subcategory: '生態與保育'
 author: 'Taiwan.md'
 readingTime: 7
 featured: false

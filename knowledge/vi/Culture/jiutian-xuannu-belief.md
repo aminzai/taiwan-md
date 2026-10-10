@@ -3,7 +3,7 @@ title: 'Thiên Nữ Bảy Thiên: Từ chiến sư của Hoàng Đế đến th�
 description: 'Một người đàn ông tốt nghiệp trung học, làm trưởng đội múa lễ, bị các chuyên gia tại Bộ Văn hóa xét nghiệm và làm mặt kỷ luật hơn 10 năm, bốn mươi năm sau đó nhận được bằng tiến sĩ chỉ để chứng minh việc điêu khúc cũng là nghệ thuật. Đằng sau người này đứng vững là một nữ thần từ trước khi Hoàng Đế chiến đấu.'
 date: 2026-03-27
 category: 'Culture'
-subcategory: 'Tôn giáo và dân gian'
+subcategory: '宗教與民俗'
 tags:
   [
     'Thiên Nữ Bảy Thiên',

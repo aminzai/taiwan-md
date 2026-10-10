@@ -16,7 +16,7 @@ tags:
     'AI',
     'Computex',
   ]
-subcategory: 'Bán dẫn và thiết bị'
+subcategory: '半導體與硬體'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-22

@@ -18,7 +18,7 @@ tags:
     'dự báo AI',
     'vệ tinh Phúc Vệ 7',
   ]
-subcategory: 'Khí hậu và Thảm họa'
+subcategory: '氣候與災害'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-09

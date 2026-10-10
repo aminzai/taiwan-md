@@ -10,7 +10,7 @@ tags:
     'văn hóa phụ',
     'không gian thành phố',
   ]
-subcategory: 'Nghệ thuật Thị giác'
+subcategory: '視覺藝術'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-01

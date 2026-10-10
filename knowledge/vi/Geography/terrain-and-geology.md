@@ -4,7 +4,7 @@ description: 'Đảo quốc 6 triệu năm, giấu kín ký ức 2 tỷ năm —
 date: 2026-03-23
 author: 'Taiwan.md'
 category: 'Geography'
-subcategory: 'Khí hậu và suối nóng'
+subcategory: '氣候與溫泉'
 tags:
   [
     'Địa lý',

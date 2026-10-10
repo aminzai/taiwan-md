@@ -4,7 +4,7 @@ description: "Vào tháng 11 năm 2011, Trịnh Văn Kỳ (Zheng Wenqi) tại m�
 date: 2026-05-17
 author: 'Taiwan.md'
 category: 'Art'
-subcategory: 'Nghệ thuật / Nghiên cứu truyền thông'
+subcategory: '藝評平台 / 媒體研究'
 tags:
   [
     'Hoang mạc kỹ thuật số',

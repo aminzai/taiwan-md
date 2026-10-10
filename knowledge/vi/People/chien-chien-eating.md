@@ -11,7 +11,7 @@ tags:
     'Mukbang',
     'Đồ ăn Taiwan',
   ]
-subcategory: 'Kỹ thuật số và truyền thông'
+subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16

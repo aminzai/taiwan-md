@@ -18,7 +18,7 @@ tags:
     'Đại học Đông Hoa',
     'Sinh thái văn học',
   ]
-subcategory: 'Văn học và sáng tác'
+subcategory: '文學與創作'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-07-28

@@ -20,7 +20,7 @@ tags:
     'Dương Chí Lương',
     'Cơ sở dữ liệu bảo hiểm',
   ]
-subcategory: 'Y tế và bảo hiểm'
+subcategory: '醫療與健保'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-04

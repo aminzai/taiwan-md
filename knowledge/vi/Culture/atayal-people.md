@@ -4,7 +4,7 @@ description: 'Xăm mặt từng là dấu ấn trưởng thành của người A
 date: 2026-08-15
 category: 'Culture'
 tags: ['Người Atayal', 'Xăm mặt', 'Dệt nhuộm', 'gaga', 'Phục hồi văn hóa']
-subcategory: 'Văn hóa tộc người'
+subcategory: '族群文化'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-15

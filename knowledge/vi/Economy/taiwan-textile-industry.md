@@ -4,7 +4,7 @@ description: "Một ngành công nghiệp truyền thống từng bị coi là '
 date: 2026-07-20
 author: 'Taiwan.md Contributors'
 category: 'Economy'
-subcategory: 'Kinh tế phát triển'
+subcategory: '經濟發展'
 tags:
   [
     'Ngành dệt may',

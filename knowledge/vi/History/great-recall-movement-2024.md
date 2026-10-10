@@ -13,7 +13,7 @@ tags:
     'phong trào công dân',
     'chính trị phân hóa',
   ]
-subcategory: 'Dân chủ và Quản trị'
+subcategory: '民主與治理'
 author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-07-16

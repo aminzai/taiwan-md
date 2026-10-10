@@ -10,7 +10,7 @@ tags:
     'Mười dự án lớn',
     'Công nghiệp nặng',
   ]
-subcategory: 'Tiểu sử doanh nghiệp'
+subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
 date: 2026-03-20
 category: 'Economy'

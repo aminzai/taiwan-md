@@ -11,7 +11,7 @@ tags:
     'Giao thông',
     'Vòng sống một ngày',
   ]
-subcategory: 'Giao thông và di chuyển'
+subcategory: '交通與移動'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20

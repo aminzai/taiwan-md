@@ -14,7 +14,7 @@ tags:
     'Những cộng đồng Sông Cơ Long',
     'Mâu thuẫn nhân vật nổi tiếng',
   ]
-subcategory: 'Địa lý đô thị và nhân văn'
+subcategory: '城市與人文地理'
 translatedFrom: 'Geography/猴硐.md'
 sourceCommitSha: '11b9ab5c8'
 sourceContentHash: 'sha256:da37ca4aa7f65da7'

@@ -12,7 +12,7 @@ tags:
     'ủy ban chuyển đổi công lý',
     'quyền đất đai',
   ]
-subcategory: 'Nhân quyền và Bình đẳng'
+subcategory: '人權與平等'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20

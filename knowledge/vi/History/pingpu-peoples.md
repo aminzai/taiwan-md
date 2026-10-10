@@ -11,7 +11,7 @@ tags:
     '111 Hiến pháp 17',
     'Lịch sử Đài Loan',
   ]
-subcategory: 'Tiền sử và dân tộc bản địa'
+subcategory: '史前與原住民'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-31

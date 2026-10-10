@@ -21,7 +21,7 @@ tags:
     'Phía bắc đầm biển',
     'Giải thưởng Tây Mã',
   ]
-subcategory: 'điện ảnh'
+subcategory: '電影'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-13

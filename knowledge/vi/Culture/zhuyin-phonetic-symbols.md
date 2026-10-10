@@ -4,7 +4,7 @@ description: 'Hệ thống ký âm duy nhất trên thế giới chỉ còn đư
 date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Culture'
-subcategory: 'Ngôn ngữ và chữ viết'
+subcategory: '語言與文字'
 tags: ['Chú âm', 'Ngôn ngữ', 'Giáo dục', 'Bản sắc văn hóa', 'Bộ gõ', 'ㄅㄆㄇ']
 readingTime: 12
 lastVerified: 2026-03-19

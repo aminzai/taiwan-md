@@ -12,7 +12,7 @@ tags:
     'Nhạc Đài Loan',
     'Giải Âm nhạc Vàng',
   ]
-subcategory: 'Âm nhạc'
+subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-08

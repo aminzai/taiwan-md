@@ -11,7 +11,7 @@ tags:
     'phong trào xã hội',
     'bảo tồn văn hóa',
   ]
-subcategory: 'Tiền sử và dân tộc bản địa'
+subcategory: '史前與原住民'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-29

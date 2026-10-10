@@ -13,7 +13,7 @@ tags:
     'phác thảo truyền thông',
     'fanpage địa phương',
   ]
-subcategory: 'môi trường thông tin'
+subcategory: '資訊環境'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-06-05

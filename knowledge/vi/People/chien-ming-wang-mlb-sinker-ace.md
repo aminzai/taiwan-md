@@ -12,7 +12,7 @@ tags:
     'Cầu thủ ném bóng du Mỹ',
     'Đội Trung Hoa',
   ]
-subcategory: 'Thể thao'
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

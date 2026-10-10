@@ -15,7 +15,7 @@ tags:
     'Rumah Attap Library (Thư viện Rumah Attap)',
     'Hoang vu kỹ thuật số',
   ]
-subcategory: 'Tổ chức triển lãm và nghệ thuật đương đại'
+subcategory: '策展與當代藝術'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-17

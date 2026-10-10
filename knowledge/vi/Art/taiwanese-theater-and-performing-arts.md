@@ -11,7 +11,7 @@ tags:
     'Yên Môn Vũ Tập',
     'Kịch Truyền Kỳ Đương Đại',
   ]
-subcategory: 'Văn học'
+subcategory: '文學'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-22

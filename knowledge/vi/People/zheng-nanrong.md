@@ -12,7 +12,7 @@ tags:
     'Sự kiện 228',
     'độc lập Đài Loan',
   ]
-subcategory: 'chính trị-dân chủ'
+subcategory: '政治與民主'
 author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-05-13

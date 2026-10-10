@@ -24,7 +24,7 @@ tags:
     'Tự do ngôn luận',
     'Chủ quyền văn hoá',
   ]
-subcategory: 'Âm nhạc phổ biến'
+subcategory: '流行音樂'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-19

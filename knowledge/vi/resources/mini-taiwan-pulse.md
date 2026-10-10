@@ -13,7 +13,7 @@ tags:
     'thời gian thực',
     'Taiwan.md',
   ]
-subcategory: 'Công nghệ công dân'
+subcategory: '公民科技'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-22

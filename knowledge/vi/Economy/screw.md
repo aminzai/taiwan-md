@@ -12,7 +12,7 @@ tags:
     'chuyển đổi ngành',
     'bóng ma ẩn',
   ]
-subcategory: 'Phát triển kinh tế'
+subcategory: '經濟發展'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-11

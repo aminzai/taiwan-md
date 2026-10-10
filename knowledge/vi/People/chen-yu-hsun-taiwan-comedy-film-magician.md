@@ -12,7 +12,7 @@ tags:
     'Tổng đầu bếp',
     'Ngày mất của người yêu',
   ]
-subcategory: 'Điện ảnh và kịch'
+subcategory: '電影與戲劇'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19

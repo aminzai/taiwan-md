@@ -26,7 +26,7 @@ tags:
     'Phối Hợp Phục Vụ Gió Phá Sóng Cô Gái',
     'Cho Yêu Khởi Thành',
   ]
-subcategory: 'Âm nhạc và Biểu diễn'
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-18

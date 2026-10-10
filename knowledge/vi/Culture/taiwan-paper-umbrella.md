@@ -3,7 +3,7 @@ title: 'Ô giấy: Từ dụng cụ chịu mưa đến nghệ thuật, đưa lê
 description: "Trong thành phố Kinh Hạ Long Mỹ Nông, một chiếc ô giấy dường như thông thường không chỉ mang bám Hakka 'sớm sinh con cái' và 'hoàn mỹ' của lời chúc, mà còn, trong lúc ngành công nghiệp đứng yên, nhờ sự kiên trì của thợ rèn Lý Hiếu Linh và bài báo của tạp chí Hán Hạng, từ dụng cụ thông thường đã trở thành sản phẩm nghệ thuật gây chú ý quốc tế, kể lại câu chuyện năm trăm năm phát triển nghề thủ công truyền thống của Đài Loan, cách đây vượt qua khó khăn và tìm được vị trí mới trong xã hội hiện đại."
 date: 2026-04-21
 category: 'Culture'
-subcategory: 'Văn hóa Hakka'
+subcategory: '客家文化'
 tags:
   [
     'Mỹ Nông',

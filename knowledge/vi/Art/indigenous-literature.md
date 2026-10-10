@@ -11,7 +11,7 @@ tags:
     'Ngôn ngữ Nam Đảo',
     'Phục hưng văn hoá',
   ]
-subcategory: 'Văn học'
+subcategory: '文學'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-24

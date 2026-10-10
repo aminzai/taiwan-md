@@ -22,7 +22,7 @@ tags:
     'Formosa Tea',
     'Loạt khu phố cổ lịch sử',
   ]
-subcategory: 'Khu phố cổ lịch sử / Quận Đại Đồng, Đài Bắc'
+subcategory: '歷史街區 / 台北市大同區'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-21

@@ -21,7 +21,7 @@ tags:
     'Văn học bản địa',
     'Cuộc tranh luận về văn học quê hương',
   ]
-subcategory: 'Văn học'
+subcategory: '文學'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-20

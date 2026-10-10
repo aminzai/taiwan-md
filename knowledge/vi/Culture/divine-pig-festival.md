@@ -14,7 +14,7 @@ tags:
     'Chuyển Hóa Niềm Tin',
     'Lễ Nghi Truyền Thống',
   ]
-subcategory: 'Niềm Tin Dân Gian'
+subcategory: '民俗信仰'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-21

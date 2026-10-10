@@ -12,7 +12,7 @@ tags:
     'Vùng mây mù',
     'Đa dạng sinh học',
   ]
-subcategory: 'Hệ sinh thái'
+subcategory: '生態系統'
 readingTime: 15
 author: 'Taiwan.md'
 featured: false

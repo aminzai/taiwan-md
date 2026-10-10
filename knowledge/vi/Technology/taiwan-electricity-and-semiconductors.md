@@ -12,7 +12,7 @@ tags:
     'Phần cứng AI',
     'Chuỗi cung ứng',
   ]
-subcategory: 'Bán dẫn và Phần cứng'
+subcategory: '半導體與硬體'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-11

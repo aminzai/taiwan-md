@@ -12,7 +12,7 @@ tags:
     'công nghệ không gian',
     'không gian thương mại',
   ]
-subcategory: 'Không gian và biên giới'
+subcategory: '太空與前沿'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-04

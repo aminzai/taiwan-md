@@ -14,7 +14,7 @@ tags:
     'VTuber',
     'văn hóa phụ',
   ]
-subcategory: 'Văn hóa mạng'
+subcategory: '網路文化'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-16

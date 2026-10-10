@@ -12,7 +12,7 @@ tags:
     'xã hội công dân',
     'Hà Vinh Hạnh',
   ]
-subcategory: 'Phương tiện và tin tức'
+subcategory: '媒體與新聞'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-14

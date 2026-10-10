@@ -12,7 +12,7 @@ tags:
     'bài hát sâu lắng',
     'triết học nhân sinh',
   ]
-subcategory: 'âm nhạc'
+subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-06-05

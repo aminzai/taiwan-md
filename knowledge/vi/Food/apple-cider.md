@@ -15,7 +15,7 @@ tags:
     'thương hiệu cũ',
     'công ty niêm yết',
   ]
-subcategory: '文化飲品'
+subcategory: '飲品文化'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-11

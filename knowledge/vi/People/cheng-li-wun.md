@@ -11,7 +11,7 @@ tags:
     'thế hệ phong trào học sinh',
     '2026',
   ]
-subcategory: 'nhân vật chính trị'
+subcategory: '政治人物'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 12

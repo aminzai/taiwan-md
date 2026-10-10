@@ -3,7 +3,7 @@ title: "Khách giáo tại Đài Loan: Từ huyền thoại 'phát thác mắt v
 description: "Năm 1865, Maxwell mở phòng khám ở phố Tây Nam, Tây Ninh, sau 23 ngày bị đóng lại do huyền thoại 'phát thác mắt và tim'. Hành trình từ sự hiểu lầm y tế, tia nhiều 20.000 răng, xung đột với đình sứ thời kỳ Nhật bản đến giáo hội 'bột' của Mỹ hậu chiến, ghi lại cách khách giáo biến hóa từ tôn giáo 'đông bắc' ngoại quốc thành động lực chính trị nền dân chủ địa phương Đài Loan."
 date: 2026-04-29
 category: 'Culture'
-subcategory: 'Tôn giáo và dân nghi'
+subcategory: '宗教與民俗'
 tags:
   [
     'Khách giáo',

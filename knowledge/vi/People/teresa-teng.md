@@ -16,7 +16,7 @@ tags:
     'Nữ chiến sĩ quân đội yêu được',
     'Chiến tranh Lạnh',
   ]
-subcategory: 'Âm nhạc'
+subcategory: '音樂'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-20

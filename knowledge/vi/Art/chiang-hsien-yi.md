@@ -23,7 +23,7 @@ tags:
     'trăm năm chùa',
     'Bach',
   ]
-subcategory: 'Nghệ sĩ đương đại'
+subcategory: '當代藝術家'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-22

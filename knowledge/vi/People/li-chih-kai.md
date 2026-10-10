@@ -14,7 +14,7 @@ tags:
     'nhị mã',
     'Đài Loan',
   ]
-subcategory: 'Thể thao'
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-21

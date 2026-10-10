@@ -11,7 +11,7 @@ tags:
     'ODM',
     'Máy chủ',
   ]
-subcategory: 'Công nghệ và Doanh nghiệp'
+subcategory: '科技與企業'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

@@ -12,7 +12,7 @@ tags:
     'bác sĩ',
     'lực lượng thứ ba',
   ]
-subcategory: 'Chính trị và dân chủ'
+subcategory: '政治與民主'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-30

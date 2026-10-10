@@ -17,7 +17,7 @@ tags:
     'Nghệ thuật sinh thành',
     'C-LAB',
   ]
-subcategory: 'Đa phương tiện và Nghệ thuật số'
+subcategory: '新媒體與數位藝術'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-04

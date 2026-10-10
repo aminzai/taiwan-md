@@ -11,7 +11,7 @@ tags:
     'tái phát triển đô thị',
     'bảo vệ văn hóa',
   ]
-subcategory: 'Công viên nghệ thuật'
+subcategory: '藝術園區'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19

@@ -12,7 +12,7 @@ tags:
     'Đại học Quốc gia Đài Loan',
     'Đổi mới Giáo dục',
   ]
-subcategory: 'Giáo dục và Xã hội'
+subcategory: '教育與社會'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-20

@@ -13,7 +13,7 @@ tags:
     'Trương Cơ Nghĩa',
     'Giải thưởng Thiết kế Kim Điểm',
   ]
-subcategory: 'Thiết kế và quản trị công'
+subcategory: '設計與公共治理'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-04

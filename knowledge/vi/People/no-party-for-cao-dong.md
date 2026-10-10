@@ -20,7 +20,7 @@ tags:
     'post-rock',
     'thế hệ kẻ thất bại',
   ]
-subcategory: 'Âm nhạc và Biểu diễn'
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-06-22

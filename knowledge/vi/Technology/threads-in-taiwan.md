@@ -12,7 +12,7 @@ tags:
     'Hỗ trợ trực tuyến',
     'Văn hóa giới trẻ',
   ]
-subcategory: 'Cộng đồng và văn hóa số'
+subcategory: '社群與數位文化'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-08-14

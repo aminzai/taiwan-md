@@ -18,7 +18,7 @@ tags:
     'Tìm kiếm Điền',
     'Khách Gia',
   ]
-subcategory: 'Âm nhạc và Biểu diễn'
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-26

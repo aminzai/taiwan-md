@@ -10,7 +10,7 @@ tags:
     'Kế hoạch đô thị',
     'Tự quản địa phương',
   ]
-subcategory: 'Thành phố và địa lý nhân văn'
+subcategory: '城市與人文地理'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-17

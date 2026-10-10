@@ -15,7 +15,7 @@ tags:
     'mở cửa dữ liệu',
     'tình trạng thiếu tài xế',
   ]
-subcategory: 'Giao thông và di chuyển'
+subcategory: '交通與移動'
 translatedFrom: 'Lifestyle/台灣的公車系統.md'
 sourceCommitSha: '036f4f3f2'
 sourceContentHash: 'sha256:6350fb8cfb489452'

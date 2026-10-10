@@ -11,7 +11,7 @@ tags:
     'nền kinh tế nền tảng',
     'lập pháp',
   ]
-subcategory: 'Luật pháp và Chế độ'
+subcategory: '法律與制度'
 author: 'Taiwan.md'
 readingTime: 17
 featured: false

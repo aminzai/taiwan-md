@@ -11,7 +11,7 @@ tags:
     'học tập kỹ thuật số',
     'AI sinh thành',
   ]
-subcategory: 'Trí tuệ nhân tạo'
+subcategory: '人工智慧'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-20

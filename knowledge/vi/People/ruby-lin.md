@@ -11,7 +11,7 @@ tags:
     'Hoa Đăng Khởi Thượng',
     '16 Mùa Hè',
   ]
-subcategory: 'Điện ảnh và kịch nghệ'
+subcategory: '電影與戲劇'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-21

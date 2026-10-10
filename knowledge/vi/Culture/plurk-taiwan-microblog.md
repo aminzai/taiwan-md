@@ -3,7 +3,7 @@ title: 'Plurk'
 description: 'Nền tảng microblogging ra đời vào năm 2008, Plurk sử dụng trục thời gian "sông ngòi" cuộn ngang và không có thuật toán đề xuất, tồn tại suốt mười năm trước khi bị Google Adsense chặn vào năm 2016. Sau đó, nhờ vào hệ thống phí thành viên "Plurk Cash", nền tảng chuyển đổi từ thua lỗ sang lợi nhuận — người dùng Đài Loan bỏ tiền vào để bầu phiếu, giúp "sông ngòi" không bị thuật toán kiểm duyệt tiếp tục chảy.'
 date: 2026-04-01
 category: 'Culture'
-subcategory: 'Số đời sống kỹ thuật số'
+subcategory: '數位生活'
 tags:
   [
     'Truyền thông xã hội',

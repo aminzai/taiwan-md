@@ -12,7 +12,7 @@ tags:
     'BAO London',
     'ẩm thực Đài Loan',
   ]
-subcategory: 'Món ăn cổ điển'
+subcategory: '經典小吃'
 author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-05-16

@@ -12,7 +12,7 @@ tags:
     'Du lịch',
     'Đồ ăn vặt',
   ]
-subcategory: 'Phát triển kinh tế'
+subcategory: '經濟發展'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-21

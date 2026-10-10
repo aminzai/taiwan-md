@@ -16,7 +16,7 @@ tags:
     'Trở về trường',
     'Báo ơn',
   ]
-subcategory: 'Ngành công nghiệp âm nhạc'
+subcategory: '音樂產業'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-06-01

@@ -4,7 +4,7 @@ description: 'Năm 1895 trong cuộc nổi dậy Ất Vị, ba người nước 
 date: 2026-04-27
 category: 'History'
 tags: ['Cuộc nổi dậy Ất Vị', '1895', 'phê phán sử liệu', 'thời kỳ Nhật trị']
-subcategory: 'Thực dân và Đế quốc'
+subcategory: '殖民與帝國'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-27

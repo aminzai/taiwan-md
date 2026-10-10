@@ -4,7 +4,7 @@ description: 'Những thí nghiệm hiện đại chủ nghĩa xuất phát từ
 date: 2026-03-23
 category: 'Art'
 tags: ['Văn học', 'Thơ', 'Thơ hiện đại', 'Văn học đề tài đất nước']
-subcategory: 'Văn học'
+subcategory: '文學'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23

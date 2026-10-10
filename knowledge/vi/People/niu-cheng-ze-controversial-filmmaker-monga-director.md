@@ -4,7 +4,7 @@ description: 'Đạo diễn phim Võng Châu, từ diễn viên chuyển hướn
 date: 2026-03-19
 category: 'People'
 tags: ['Nữu Thừa Trạch', 'đạo diễn', 'diễn viên', 'Võng Châu', 'tranh cãi']
-subcategory: 'Phim ảnh và Kịch'
+subcategory: '電影與戲劇'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19

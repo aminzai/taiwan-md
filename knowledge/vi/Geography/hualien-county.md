@@ -20,7 +20,7 @@ tags:
     'Kavalan',
     'loạt 22 tỉnh thành',
   ]
-subcategory: 'Tỉnh thành'
+subcategory: '縣市'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-18

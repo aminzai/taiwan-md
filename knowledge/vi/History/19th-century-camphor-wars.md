@@ -14,7 +14,7 @@ tags:
     'lâm-nghiệp',
     '19-thế-kỷ',
   ]
-subcategory: 'Thuộc địa và Đế chế'
+subcategory: '殖民與帝國'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-25

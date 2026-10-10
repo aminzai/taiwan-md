@@ -14,7 +14,7 @@ tags:
     'Giang Hiển Tân',
     'Trần Khích Thuận',
   ]
-subcategory: 'phim tài liệu'
+subcategory: '紀錄片'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-16

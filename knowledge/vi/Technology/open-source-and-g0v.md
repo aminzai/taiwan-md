@@ -4,7 +4,7 @@ description: 'Tháng 2 năm 2020, khi thế giới đang tìm mua khẩu trang, 
 date: 2026-03-23
 category: 'Technology'
 tags: ['Technology', 'Cộng đồng mã nguồn mở', 'g0v', 'Công nghệ công dân']
-subcategory: 'Cộng đồng mã nguồn mở'
+subcategory: '開源社群'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23

@@ -13,7 +13,7 @@ tags:
     'nền tảng số',
     'Đài Loan',
   ]
-subcategory: 'nhân vật nổi tiếng'
+subcategory: '流行人物'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13

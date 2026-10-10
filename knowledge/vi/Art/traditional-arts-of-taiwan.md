@@ -13,7 +13,7 @@ tags:
     'Tài sản văn hóa vô hình',
     'Bảo tồn văn hóa',
   ]
-subcategory: 'Nghệ thuật biểu diễn'
+subcategory: '表演藝術'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-24

@@ -12,7 +12,7 @@ tags:
     'Tết Nguyên Đán',
     'Thưởng Ngoại khắc thịt',
   ]
-subcategory: 'Tôn giáo và dân gian'
+subcategory: '宗教與民俗'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 12

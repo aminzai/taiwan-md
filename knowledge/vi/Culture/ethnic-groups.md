@@ -13,7 +13,7 @@ tags:
     'người ngoại tỉnh',
     'người nhập cư mới',
   ]
-subcategory: 'văn hóa dân tộc'
+subcategory: '族群文化'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-30

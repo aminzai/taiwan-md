@@ -13,7 +13,7 @@ tags:
     'âm nhạc phổ biến',
     'văn hóa xã hội',
   ]
-subcategory: 'Công nghiệp âm nhạc'
+subcategory: '音樂產業'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-19

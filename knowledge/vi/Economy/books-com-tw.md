@@ -14,7 +14,7 @@ tags:
     'Thương mại điện tử Đài Loan',
     'Chuyển đổi kỹ thuật số',
   ]
-subcategory: 'Tiểu sử doanh nghiệp'
+subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
 featured: false
 curation: incubating

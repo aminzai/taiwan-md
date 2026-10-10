@@ -11,7 +11,7 @@ tags:
     'Con chim ngu',
     'Khoa học công dân',
   ]
-subcategory: 'Động vật hoang dã'
+subcategory: '野生動物'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-30

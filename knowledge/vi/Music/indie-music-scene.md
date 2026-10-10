@@ -13,7 +13,7 @@ tags:
     'nhãn hiệu độc lập',
     'ngành công nghiệp âm nhạc',
   ]
-subcategory: 'Độc lập và Rock'
+subcategory: '獨立與搖滾'
 featured: true
 lastVerified: 2026-03-29
 lastHumanReview: false

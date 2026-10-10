@@ -13,7 +13,7 @@ tags:
     'sáp nhập',
     'chuyển đổi số',
   ]
-subcategory: 'Tiểu sử Doanh nghiệp'
+subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 15

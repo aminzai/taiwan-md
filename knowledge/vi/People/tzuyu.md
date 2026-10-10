@@ -4,7 +4,7 @@ description: 'Một cô gái Đài Nam chưa từng bàn chuyện chính trị �
 date: '2026-04-14'
 author: 'Taiwan.md'
 category: 'People'
-subcategory: 'Âm nhạc và biểu diễn'
+subcategory: '音樂與表演'
 tags:
   [
     'Châu Tử Du',

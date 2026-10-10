@@ -11,7 +11,7 @@ tags:
     'cách nói hai bờ eo biển',
     'bản sắc ngôn ngữ',
   ]
-subcategory: 'Ngôn ngữ và chữ viết'
+subcategory: '語言與文字'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-29

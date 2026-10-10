@@ -20,7 +20,7 @@ tags:
     'phong tục dân gian',
     'văn hóa Đài Loan',
   ]
-subcategory: 'Lễ hội và Nghi lễ'
+subcategory: '節慶與禮俗'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-19

@@ -14,7 +14,7 @@ tags:
     'Đài Loan thành tỉnh',
     'Thế kỷ 19',
   ]
-subcategory: 'Thực dân và Đế quốc'
+subcategory: '殖民與帝國'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-12

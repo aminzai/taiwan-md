@@ -14,7 +14,7 @@ tags:
     'huy động công cộng',
     'Alex Honnold',
   ]
-subcategory: 'Nghệ thuật, Giải trí và Phương tiện truyền thông'
+subcategory: '藝術、娛樂與媒體'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-02

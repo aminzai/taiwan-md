@@ -11,7 +11,7 @@ tags:
     'Tài sản văn hóa',
     'Thời kỳ thực dân Nhật Bản',
   ]
-subcategory: 'Thủ công và mỹ học'
+subcategory: '工藝與美學'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-02

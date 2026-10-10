@@ -13,7 +13,7 @@ tags:
     'hyukoh',
     'đài-bắc',
   ]
-subcategory: 'Độc lập & Rock'
+subcategory: '獨立與搖滾'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-27

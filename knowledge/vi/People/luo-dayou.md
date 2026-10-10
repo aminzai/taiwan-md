@@ -14,7 +14,7 @@ tags:
     'Vua đường Hoàng Hậu Hướng Đông',
     'lang thang',
   ]
-subcategory: 'Âm Nhạc'
+subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-06-19

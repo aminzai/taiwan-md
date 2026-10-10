@@ -12,7 +12,7 @@ tags:
     'Y tế công cộng',
     'Chống dịch',
   ]
-subcategory: 'Chính trị và dân chủ'
+subcategory: '政治與民主'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

@@ -12,7 +12,7 @@ tags:
     'Bách Thành Thiết Kế',
     'Hùng Sư Du Lịch',
   ]
-subcategory: 'Giao thông và Thẩm mỹ'
+subcategory: '交通與美學'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-17

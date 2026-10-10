@@ -23,7 +23,7 @@ tags:
     'Chùa Quan Âm',
     'Khu phố lịch sử',
   ]
-subcategory: 'Khu phố lịch sử'
+subcategory: '歷史街區'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-21

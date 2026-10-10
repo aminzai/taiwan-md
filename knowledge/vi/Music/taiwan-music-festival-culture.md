@@ -12,7 +12,7 @@ tags:
     'âm nhạc độc lập',
     'văn hóa thanh niên',
   ]
-subcategory: 'Độc lập và Rock'
+subcategory: '獨立與搖滾'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-29

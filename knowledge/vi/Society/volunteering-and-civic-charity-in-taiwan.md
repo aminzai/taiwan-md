@@ -12,7 +12,7 @@ tags:
     'xây dựng cộng đồng',
     'mẹ kể chuyện',
   ]
-subcategory: 'Cộng đồng và đời thường'
+subcategory: '社區與日常'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-28

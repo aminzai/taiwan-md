@@ -13,7 +13,7 @@ tags:
     'Quyền lợi người tiêu dùng',
     '2026',
   ]
-subcategory: 'Pháp luật và thể chế'
+subcategory: '法律與制度'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-07-28

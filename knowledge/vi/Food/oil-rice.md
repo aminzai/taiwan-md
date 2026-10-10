@@ -12,7 +12,7 @@ tags:
     'gạo nếp',
     'văn hóa tiệc tùng',
   ]
-subcategory: 'đồ ăn vặt'
+subcategory: '小吃'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-28

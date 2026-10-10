@@ -19,7 +19,7 @@ tags:
     'đặt lại tên cho người bản địa',
     'tạo tên sắc lệnh',
   ]
-subcategory: 'ngôn ngữ và tên gọi'
+subcategory: '語言與命名'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 18

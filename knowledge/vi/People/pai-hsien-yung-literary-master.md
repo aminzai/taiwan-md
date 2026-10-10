@@ -12,7 +12,7 @@ tags:
     'Cung kịch',
     'Bạch Trùng Hy',
   ]
-subcategory: 'Văn học'
+subcategory: '文學'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

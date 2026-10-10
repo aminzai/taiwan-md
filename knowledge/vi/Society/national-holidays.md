@@ -14,7 +14,7 @@ tags:
     'Nhân thức dân tộc',
     'Một loại nghỉ một ngày',
   ]
-subcategory: 'Chế độ và chính sách'
+subcategory: '制度與政策'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 18

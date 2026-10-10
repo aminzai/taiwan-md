@@ -14,7 +14,7 @@ tags:
     'Quyền lợi y tế',
     'GMP',
   ]
-subcategory: 'Quyền lợi và bình đẳng'
+subcategory: '人權與平等'
 author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-05-19

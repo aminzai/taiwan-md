@@ -2,7 +2,7 @@
 title: 'Bưu cục: Mở cửa từ năm 1888, chính quyền đổi tên, quầy vẫn còn'
 description: 'Năm 1888, Lưu Minh Truyền tại thành phủ Đài Bắc thành lập Tổng cục Bưu chính Đài Loan. Bưu cục sau đó trải qua thời kỳ thống trị của nhà Thanh, thời kỳ Nhật chiếm và chế độ quốc doanh sau chiến tranh, từ quầy gửi thư phát triển thành mạng lưới công cộng về tiết kiệm, bảo hiểm và chăm sóc địa phương; nó bình thường nhất, cũng là nơi thấy rõ nhất cách Đài Loan biến thể chế quốc gia thành đời thường.'
 date: 2026-08-18
-subcategory: 'Đời sống đô thị'
+subcategory: '城市生活'
 category: 'Lifestyle'
 tags:
   [

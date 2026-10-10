@@ -14,7 +14,7 @@ tags:
     'kỹ thuật truyền thống',
     'tình cảm nhân tình',
   ]
-subcategory: 'Cảnh ăn uống'
+subcategory: '飲食場景'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-06-07

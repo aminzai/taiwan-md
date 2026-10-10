@@ -11,7 +11,7 @@ tags:
     'công nghiệp sáng tạo văn hóa',
     'công nghiệp điện ảnh',
   ]
-subcategory: 'số hoá giải trí'
+subcategory: '數位娛樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-20

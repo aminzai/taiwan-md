@@ -16,7 +16,7 @@ tags:
     'A Lý Bà Ba',
     'Thí Phúc Trân',
   ]
-subcategory: 'Văn hoá mạng'
+subcategory: '網路文化'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-28

@@ -23,7 +23,7 @@ tags:
     'hẻm cỏ xanh',
     'loạt khu phố cổ',
   ]
-subcategory: 'Khu phố cổ / Quận Vạn Hoa Đài Bắc'
+subcategory: '歷史街區 / 台北市萬華區'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-21

@@ -12,7 +12,7 @@ tags:
     'Thời MSN',
     'Văn hóa Internet',
   ]
-subcategory: 'Nghệ thuật và Thiết kế'
+subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-29

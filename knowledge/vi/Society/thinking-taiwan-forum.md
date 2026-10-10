@@ -13,7 +13,7 @@ tags:
     'Lĩnh vực công cộng',
     'Nền tảng bình luận',
   ]
-subcategory: 'Phương tiện truyền thông'
+subcategory: '媒體'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-05

@@ -13,7 +13,7 @@ tags:
     'xuất bản',
     'phương tiện và báo chí',
   ]
-subcategory: 'phương tiện và báo chí'
+subcategory: '媒體與新聞'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-04

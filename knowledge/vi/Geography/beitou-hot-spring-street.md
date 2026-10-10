@@ -27,7 +27,7 @@ tags:
     'Thung Lũng Địa nhiệt',
     'Bắc Đầu Thạch',
   ]
-subcategory: 'Khu phố lịch sử'
+subcategory: '歷史街區'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-21

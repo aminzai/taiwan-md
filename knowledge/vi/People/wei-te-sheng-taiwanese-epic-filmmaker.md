@@ -13,7 +13,7 @@ tags:
     'Seediq Bale',
     'Đài Nam',
   ]
-subcategory: 'Điện ảnh và kịch'
+subcategory: '電影與戲劇'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

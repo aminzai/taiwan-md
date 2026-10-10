@@ -14,7 +14,7 @@ tags:
     'Quỹ Cải cách tư pháp',
     'Cải cách tư pháp 2026',
   ]
-subcategory: 'Tư pháp và nhân quyền'
+subcategory: '司法與人權'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-17

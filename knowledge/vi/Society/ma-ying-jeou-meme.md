@@ -18,7 +18,7 @@ tags:
     'xã hội',
     'văn hóa',
   ]
-subcategory: 'Truyền thông và Chính luận'
+subcategory: '媒體與言論'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-21

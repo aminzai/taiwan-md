@@ -13,7 +13,7 @@ tags:
     'cộng đồng mã nguồn mở',
     'tự do Internet',
   ]
-subcategory: 'cộng đồng mã nguồn mở'
+subcategory: '開源社群'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-06-04

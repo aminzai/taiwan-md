@@ -24,7 +24,7 @@ tags:
     'Lễ hội Đồng Chơi',
     'Loạt 22 tỉnh thành',
   ]
-subcategory: '22 tỉnh thành'
+subcategory: '縣市'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-18

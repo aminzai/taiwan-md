@@ -4,7 +4,7 @@ description: 'Sinh năm 1953 tại Chiayi, Sylvia Chang bước vào giới gi�
 date: 2026-03-19
 category: 'People'
 tags: ['Phim ảnh', 'Đạo diễn', 'Diễn viên', 'Ca sĩ', 'Kịch bản']
-subcategory: 'Phim Ảnh Và Sân Khấu'
+subcategory: '電影與戲劇'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

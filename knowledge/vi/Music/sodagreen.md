@@ -13,7 +13,7 @@ tags:
     'dự án Vivaldi',
     'Lin Wei-zhe',
   ]
-subcategory: 'Độc lập và Rock'
+subcategory: '獨立與搖滾'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-09

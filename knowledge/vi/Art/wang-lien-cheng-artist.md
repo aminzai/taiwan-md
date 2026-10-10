@@ -17,7 +17,7 @@ tags:
     'Festival Mất Tiếng',
     'FAB DAO',
   ]
-subcategory: 'Nghệ thuật âm thanh và đa phương tiện'
+subcategory: '聲音與新媒體藝術'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-20

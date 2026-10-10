@@ -14,7 +14,7 @@ tags:
     'Giải Kim Chung',
     'forgood music',
   ]
-subcategory: 'âm nhạc'
+subcategory: '音樂人'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-07

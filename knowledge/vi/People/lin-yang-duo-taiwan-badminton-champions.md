@@ -14,7 +14,7 @@ tags:
     'Olympic Paris',
     'huy chương vàng',
   ]
-subcategory: 'Thể thao'
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-19

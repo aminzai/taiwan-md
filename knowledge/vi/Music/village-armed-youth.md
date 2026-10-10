@@ -16,7 +16,7 @@ tags:
     'âm nhạc độc lập',
     'giải thưởng âm nhạc Tân Thế',
   ]
-subcategory: 'Độc lập và Rock'
+subcategory: '獨立與搖滾'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-27

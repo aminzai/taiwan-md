@@ -18,7 +18,7 @@ tags:
     'Nghi Lan',
     'Chuyển thể điện ảnh',
   ]
-subcategory: 'Nghệ thuật và Thiết kế'
+subcategory: '藝術與設計'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-06-21

@@ -16,7 +16,7 @@ tags:
     'Trần Cảnh Lâm',
     'Trịnh Mỹ Thục',
   ]
-subcategory: 'Công nghệ thủ công và mỹ học'
+subcategory: '工藝與美學'
 translatedFrom: 'Culture/藍染.md'
 sourceCommitSha: 'a43cf9153'
 sourceContentHash: 'sha256:1670373f1f6c3b4a'

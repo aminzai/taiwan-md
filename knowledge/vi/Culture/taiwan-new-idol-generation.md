@@ -21,7 +21,7 @@ tags:
     'văn hóa thần tượng',
     'Trần Nhân Hùng',
   ]
-subcategory: 'Văn hóa phổ biến'
+subcategory: '流行文化'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-23
