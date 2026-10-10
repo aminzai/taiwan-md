@@ -136,6 +136,34 @@ def release_lock() -> None:
         pass
 
 
+LAST_MERGE_OUTPUT = ""
+
+
+def blocking_orphans(output: str) -> list[str]:
+    """合併訊息「would be overwritten by merge」列出的、擋住合併的未 commit 譯文。
+
+    只收 knowledge/<譯文語言>/ 底下的檔；中文母稿、認知層、工具一律不碰。
+    """
+    files, inside = [], False
+    for line in output.splitlines():
+        if "would be overwritten by merge" in line:
+            inside = True
+            continue
+        if inside:
+            if not line.startswith("\t"):
+                inside = False
+                continue
+            f = line.strip()
+            parts = f.split("/")
+            if len(parts) >= 4 and parts[0] == "knowledge" and parts[1] in ALL_TRANSLATION_LANGS:
+                files.append(f)
+    return files
+
+
+def dispatcher_alive() -> bool:
+    return subprocess.run(["pgrep", "-f", "babel-dispatch.py"], capture_output=True).returncode == 0
+
+
 def merge_origin() -> bool:
     """origin 領先時在共用鎖底下合併。回傳 True＝可以推（沒有領先或合併成功）。"""
     _, behind = ahead_behind()
@@ -152,6 +180,8 @@ def merge_origin() -> bool:
         if r.returncode != 0:
             if (REPO / ".git" / "MERGE_HEAD").exists():
                 git("merge", "--abort")
+            global LAST_MERGE_OUTPUT
+            LAST_MERGE_OUTPUT = r.stdout + r.stderr
             log(f"🔴 合併 origin/main 失敗（落後 {behind}），已 abort，本輪不推——需要人看：\n"
                 + (r.stdout + r.stderr)[-1500:])
             return False
@@ -236,7 +266,24 @@ def main() -> int:
         _, behind = ahead_behind()
         if behind > 0:
             log(f"🔄 sync：工作樹落後 origin {behind} 個 commit，起跑前先合併")
-            merge_origin()
+            if merge_origin():
+                return 0
+            # 2026-10-11 babel-nightly：起跑前合併被工作樹裡沒 commit 的譯文擋住時，舊版只印
+            # 「沿用現有工作樹」就讓 dispatcher 起跑。產線一跑起來工作樹永遠有未 commit 的譯文，
+            # push-every 之後每一輪合併都撞同一批檔、全部 abort——10-10 23:26 那輪就這樣在
+            # 落後 104 個 commit 的舊樹上跑了 80 分鐘，譯文一篇都推不出去。
+            # wrapper 呼叫 --sync 的那一刻 dispatcher 已經死了，擋路的檔是上一輪的孤兒；
+            # origin 又改過同一份譯文，代表它是在舊樹上產的。還原成 HEAD 讓它重新排隊
+            # （寧可 stale 也不要 missing：還原後仍是舊譯文，不是空的），再合併一次。
+            orphans = blocking_orphans(LAST_MERGE_OUTPUT)
+            if not orphans or dispatcher_alive():
+                log("🔴 sync：合併被擋，" + ("dispatcher 還活著" if orphans else "擋路的不是譯文孤兒")
+                    + "，不動工作樹——需要人看")
+                return 1
+            git("checkout", "HEAD", "--", *orphans)
+            log(f"♻️ sync：{len(orphans)} 篇上一輪留下、origin 也改過的未 commit 譯文還原成 HEAD，"
+                f"重新排隊：{', '.join(orphans)}")
+            return 0 if merge_origin() else 1
         return 0
 
     if args.status:
