@@ -1,11 +1,11 @@
 ---
 title: 'MAINTAINER-PIPELINE'
-description: '日常維護者主流程 canonical — 4 stage 線性 / Step N.M 編號 / Default-action principle / Issue 要修不是要分類 / Git merge 優先 (merge-first-then-heal，P1 push-to-branch 是格式債 default) / Draft PR 處置 / §collect-and-merge / §collect-and-merge / §Close 前 hard gate / §雙向校正 / §[Content] issue digest sub-flow'
+description: '日常維護者主流程 canonical — 4 stage 線性 / Step N.M 編號 / Default-action principle / Issue 要修不是要分類 / Git merge 優先 (merge-first-then-heal，P1 push-to-branch 是格式債 default) / Draft PR 處置 / §collect-and-merge / §collect-and-merge / §Close 前 hard gate / §雙向校正 / §[Content] issue digest sub-flow / §1d 審庫存（review-stock 預審 + verified 第二條路徑）'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.16'
-last_updated: 2026-10-08
-last_session: '2026-10-08-twmd-maintainer-daily（Step 1.5c npm audit 四道全掃儀器化 — contracts job 的四道 audit 用 && 串著，第一道紅了後面三道不跑，修第一個只是把紅燈往下推一格）'
+current_version: 'v2.17'
+last_updated: 2026-10-10
+last_session: '2026-10-10-review-stock-birth（§1d 審庫存：OBSERVER-QUEUE #86 哲宇選 A，twmd-review-stock routine 的 canonical——選篇儀器 / FACTCHECK Quick + 冷讀席 pointer / 查證單 schema / preReview 與 verifiedVia 兩個 provenance 欄位 / N=3 讀者複核轉正判準）'
 sister_docs:
   - 'CONTRIBUTOR-SYSTEM-PIPELINE.md'
   - 'EVOLVE-PIPELINE.md'
@@ -249,6 +249,45 @@ git push origin main   # GitHub 將 PR 標 MERGED，tree 不變
 - 需要改 zh SSOT 內容實質的（走 REWRITE-PIPELINE，不在 maintainer heal 範圍）
 - 需要對回報者本人說話的（人類 gate，per §外向留言分層）
 - **真的評估過而選擇不做**，且在 memory 裡寫明「為什麼不做」——這跟沒做是兩件事，前者是判斷，後者是省略
+
+### 1d. 審庫存（review-stock）：既有文章的 Semiont 預審與 `verified` 第二條路徑 ⭐ v2.17
+
+> 誕生：OBSERVER-QUEUE #25（2026-09-05 哲宇選 A「社群 reviewer 頁 + Semiont 預審 routine」）→ [reports/design-review-stock-2026-09-05.md](../../reports/design-review-stock-2026-09-05.md) → #86（2026-09-27 進佇列，只問誰做）→ **2026-10-10 哲宇選 A：新開 `twmd-review-stock`，照設計報告實作**。免疫 `review_coverage` 連六週凍在 19.0、`lastHumanReview: true` 停在 200 篇，兩週內三次事實錯誤全由讀者抓到。根因不是缺工具是缺職責：maintainer 審進料口、rewrite 審要重寫的、feedback-triage 審讀者回報的，沒有一條 routine 拿一篇已經在站上的文章逐條查證後蓋章。本節是那條 routine 的 canonical；routine 殼在 [ROUTINE.md 註 ²⁷](../semiont/ROUTINE.md)，手動入口 `/twmd-review-stock`。
+
+**三個訊號是三個維度，不共用一個欄位**（REFLEXES #38 混維度）：人審過（`lastHumanReview`，走完 REWRITE Evolution 深度或 FACTCHECK Full Mode 的真人確認）／Semiont 預審過（`preReview`，本節 Stage 2-4）／讀者確認過（Supabase `article_confirmations`，真人但不是查證員）。把「三個路人按了讚」跟「180 分鐘全量 atom 驗證」用同一個徽章講給讀者聽是假保證，所以 `curation` **不新增第四態**，只加兩個 provenance 欄位：`preReview`（查證單路徑，常駐不移除）與 `verifiedVia`（`editorial` / `community`；既有 verified 文章無此欄視同 editorial）。
+
+**Stage 1 選篇** — `python3 scripts/tools/review-stock-pick.py --top 2 --json`（唯讀儀器）。母體：T1 分類（`TIER_MAP` 直接 import 自 `generate-dashboard-immune.py`，不複寫）∧ `lastHumanReview ≠ true` ∧ `curation ≠ verified`；排序 GA 視窗流量由高到低（沒進榜的依最後改動日由舊到新補後面）；跳過近 14 天已有 `preReview` 的、與出現在任一 open PR diff 裡的（跟 maintainer 搶同一篇會 merge 衝突；`gh` 不可用時 `--skip-pr-check` 並在 memory 註明）。exit 1 = 母體為空 = 合法 no-op。旗標 `walked`（走過 REWRITE）只標不排——走過產線仍然沒人審，正是要補的洞。每班 1-2 篇；第一篇若是 FACTCHECK A 級（≥50 腳註／≥3000 字／引語 ≥10 句）本班只做它一篇。
+
+**Stage 2 FACTCHECK Quick Mode** — pointer [FACTCHECK-PIPELINE §Quick Mode](FACTCHECK-PIPELINE.md)，不複寫。落檔規則同 [§月度巡邏抽樣母體](FACTCHECK-PIPELINE.md)：audit trail 寫進 `reports/research/YYYY-MM/{slug}.md` § audit（沒有就建成那篇的第一份 research 檔，`type: 'research'` / `status: 'audit'`；開頭「audit 前 HEAD」寫**文章自己的**最後 commit）——巡邏抽樣靠這個檔排除已巡過的，查證單不能取代它。Hard gate 0 ❌ + 0 🔴 才進 Stage 3；⚠️ SOFT-FIX 當班修；發現 ≥3 個 ❌ → 不進查證單、ARTICLE-INBOX 登一條待 Full Mode、換下一篇。止血後用被改掉的錯誤短語 grep 全庫中文（FACTCHECK v2.10 找同胞）。
+
+**Stage 3 冷讀席** — pointer [EDITORIAL-ROOM §總編室](../editorial/EDITORIAL-ROOM.md)，不複寫。3-4 支 Sonnet 平行探針（門面兌現／逐段主軸服務／H2 載體還原／閱讀節奏；人物或政治題加開立體地愛），各自乾淨 context，**禁讀藍圖、研究報告與 Stage 2 audit，只拿成品＋標題**——探針的價值就是沒讀過。主 session 收探針，≤7 必改：字句層當班修；結構層（整段重組、觀點改動）登 ARTICLE-INBOX 走 REWRITE EVOLVE，不在本 routine 動。
+
+**Stage 4 查證單** — `reports/review-stock/YYYY-MM/{slug}.md`，frontmatter HARD schema：
+
+```yaml
+---
+title: '{文章標題} — 查證單'
+description: '預審結論的人話版，2-3 句（讀者頁直接用這段）'
+type: 'research'
+status: 'audit'
+current_version: 'v1.0'
+last_updated: YYYY-MM-DD
+last_session: '{session-id}'
+slug: '{Category}/{slug}'
+checkedAt: YYYY-MM-DD
+factcheckVerdict: pass # pass / soft-fixed（Quick 過但有 SOFT-FIX 已修）
+coldReadVerdict: pass # pass / fixed（字句必改已修）/ escalated（結構層登 ARTICLE-INBOX）
+auditRef: 'reports/research/YYYY-MM/{slug}.md'
+---
+```
+
+正文三段：**查了什麼**（atoms 數、來源數、❌／⚠️／🔴 計數、修了什麼）／**冷讀席怎麼說**（探針結論濃縮、必改處置）／**讀者可以怎麼幫**（哪些 atom 只有單一來源、哪裡最需要人證）。文章 frontmatter 加 `preReview: reports/review-stock/YYYY-MM/{slug}.md`（`review-stock-pick.py` 讀查證單的 `checkedAt` 決定 14 天跳過）。**本 Stage 不動 `curation` / `lastHumanReview`**——預審不是人審。
+
+**Stage 5 讀者複核轉正（`verified` 第二條合格路徑）** — 判準：`preReview` 存在 ∧ Supabase `article_confirmations` 該篇獨立 `user_id` ≥ 3（N=3：Quick Mode 的 HRC 級 atom 已要求兩個獨立來源，三個互不相識的帳號是在既有最高門檻上再加一道，2 人門檻容易被同一小圈子一次衝過）。成立 → `curation-tag.py --set verified --via community` 三欄一起動（`curation: verified` / `verifiedVia: community` / `lastHumanReview: true`），併入同批 commit，main-direct（更新 frontmatter 在 MANIFESTO §自主權邊界「AI 自主可做」清單裡，判準是機械門檻不是 Semiont 自己下判斷）。徽章仍是同一個 🔎，provenance 在 frontmatter 誠實揭露。**現況（2026-10-10）**：`article_confirmations` 表、`/semiont/review-queue` 頁、`curation-tag.py --via` 三件未建（設計 §七 #1 #2 #9，前兩件要哲宇的 Supabase 與對外介面點頭），本 Stage 一律 no-op，memory 記「Stage 5 skipped: article_confirmations 未建」。
+
+**Stage 6 lint + commit** — 每篇 `python3 scripts/tools/article-health.py <article> --check=curation-consistency`（`preReview` 指向的檔必須存在 WARN；`verifiedVia` 只能 editorial／community HARD；`verifiedVia: community` 必有 `preReview` WARN）。commit 只含本班文章、research audit、查證單、ARTICLE-INBOX（若有登）；訊息 `🧬 [routine] twmd-review-stock: {N} 篇預審（{slugs}）— YYYY-MM-DD`。隱私三不（WEEKLY-REPORT §Stage 5）：讀者 email／user_id 不進 repo、commit、memory，只印人數。
+
+**邊界** — 政治立場判定、>10 篇刪除、對外溝通（含對已標 `incubating` 的貢獻者說明徽章制，OBSERVER-QUEUE #26）不在本 routine。**30 天辨識指標**（設計 §八）：`lastHumanReview` 或 `verified` 每週淨增 ≥3、`external_rulers` 止跌回 2.5 以上；查證單堆積無人按 → 週報點名，考慮降頻或延長 N 的等待窗。
 
 ### 2. 策展不是百科
 
