@@ -171,6 +171,6 @@ _Подпись к изображению: Разрезанное чайное �
 
 [^14]: [File:Tea eggs of FamilyMart Beijie Store 20190810.jpg](https://commons.wikimedia.org/wiki/File:Tea_eggs_of_FamilyMart_Beijie_Store_20190810.jpg) — см. дополнительные материалы в оригинальной ссылке
 
-[^15]: [File:Marble Tea Eggs (茶葉蛋).jpg](<https://commons.wikimedia.org/wiki/File:Marble_Tea_Eggs_(%E8%8C%B6%E8%91%B6%E8%9B%8B).jpg>) — см. дополнительные материалы в оригинальной ссылке
+[^15]: [File:Marble Tea Eggs (茶葉蛋).jpg](https://commons.wikimedia.org/wiki/File:Marble_Tea_Eggs_(%E8%8C%B6%E8%91%B6%E8%9B%8B) — см. дополнительные материалы в оригинальной ссылке
 
 _Эта статья является курируемой статьёй Taiwan.md, все фактические утверждения проверены посредством справочных материалов, а заметки куратора явно выражают точку зрения._

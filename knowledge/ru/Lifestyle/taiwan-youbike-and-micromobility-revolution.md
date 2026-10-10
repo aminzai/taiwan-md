@@ -132,4 +132,4 @@ YouBike в городском транспорте Тайваня имеет я�
 
 [^5]: [Government Open Data Platform: YouBike2.0 Taipei City public bicycle real‑time information](https://data.gov.tw/dataset/137993) — источник данных о станциях, обновляемый каждые 1 минуту.
 
-[^6]: [Ministry of Transportation: 113-year survey of daily transportation usage by the public](https://www.motc.gov.tw/ch/app/data/doc?detailNo=1389089679046873088&id=56&module=survey&serno=202506190000&type=) — национальные данные о количестве транспортных средств, городском транспорте и зеленом транспорте.
+[^6]: [Ministry of Transportation: 113-year survey of daily transportation usage by the public](https://www.motc.gov.tw/ch/app/data/doc?detailNo=1389089679046873088&id=56&module=survey&serno=202506190000&type=s) — национальные данные о количестве транспортных средств, городском транспорте и зеленом транспорте.

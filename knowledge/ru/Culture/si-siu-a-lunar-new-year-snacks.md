@@ -125,7 +125,7 @@ _Тайваньские сладости. Photo: pelican, Wikimedia Commons, [CC
 
 [^7]: [Управление гигиены г. Цзилун: Список проверок приуроченных продуктов на Чуньцзе и Юаньсяоцзе 112-го года](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01207/f1674011260718.pdf) — официальный PDF проверок 2022 г., стр. 2 перечисляет арахисовую мацзы, тест на афлатоксин и результат соответствия нормам, показывающий безопасное управление новогодней пищей.
 
-[^8]: [Wikimedia Commons: Taiwanese sweets (1088069273).jpg](<https://commons.wikimedia.org/wiki/File:Taiwanese_sweets_(1088069273).jpg>) — автор pelican, лицензия CC BY-SA 2.0. Статья использует исходную прямую ссылку Wikimedia Commons, не скачивает и не перерабатывает изображение.
+[^8]: [Wikimedia Commons: Taiwanese sweets (1088069273).jpg](https://commons.wikimedia.org/wiki/File:Taiwanese_sweets_(1088069273) — автор pelican, лицензия CC BY-SA 2.0. Статья использует исходную прямую ссылку Wikimedia Commons, не скачивает и не перерабатывает изображение.
 
 [^9]: [Wikimedia Commons: 2010-02-13 Lunar New Year sweets vendor at Dihua Street, Taipei](https://commons.wikimedia.org/wiki/File:2010-02-13_Lunar_New_Year_sweets_vendor_at_Dihua_Street,_Taipei.jpg) — фото лавки конфет на Дихуацзе в Тайбэи на Лунный Новый год 2010 г., автор eazytraveler, лицензия CC BY 2.0, статья использует исходную прямую ссылку.
 

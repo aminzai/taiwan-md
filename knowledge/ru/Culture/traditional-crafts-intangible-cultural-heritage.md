@@ -262,7 +262,7 @@ _В Музее исторических артефактов района Сан
 
 [^6]: [Living National Treasure (Japan)](https://en.wikipedia.org/wiki/Preservers_of_Important_Intangible_Cultural_Properties) — английская Википедия о японской системе «Живое национальное достояние», записывающая 1950 Закон о защите КЦ, поправку 1954, 1955-02-15 первое определение, запуск системы субсидий 2 млн иен 1964 года.
 
-[^7]: [National Intangible Cultural Heritage (South Korea)](<https://en.wikipedia.org/wiki/National_Intangible_Cultural_Heritage_(South_Korea) — английская Википедия о корейской системе важных нематериальных культурных ценностей, 1962 законодательство, копия Японии но шире сфера.
+[^7]: [National Intangible Cultural Heritage (South Korea)](<https://en.wikipedia.org/wiki/National_Intangible_Cultural_Heritage_(South_Korea)>) — английская Википедия о корейской системе важных нематериальных культурных ценностей, 1962 законодательство, копия Японии но шире сфера.
 
 [^8]: [Развитие Иньге](https://www.yingge.ntpc.gov.tw/home.jsp?id=6fed0da13b535525) — официальный сайт администрации района Иньге города Синьбэй «Развитие Иньге», полная хронология 1804 У Ань переплыл море развёл печь, 1853 переезд в Цзяньшаньбу с географическим контекстом.
 

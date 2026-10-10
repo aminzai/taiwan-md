@@ -143,7 +143,7 @@ _Картинка: Мост Даси и набережная. Автор CEphoto
 
 [^9]: [Airiti Library: исследование использования и развития культурных активов квартала Старой улицы Даси](https://www.airitilibrary.com/Article/Detail/U0021-1610201315170023) — страница исследования, даёт контекст культурных активов Старой улицы Даси, местных групп, жителей, лавок и взаимодействия с администрацией.
 
-[^10]: [Wikimedia Commons: 大溪老街 Daxi Historic Street - panoramio (1).jpg](<https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E6%BA%AA%E8%80%81%E8%A1%97_Daxi_Historic_Street_-_panoramio_(1).jpg>) — автор lienyuan lee, CC BY 3.0. Картинка в тексте используется горячая ссылка Wikimedia Commons `Special:FilePath`, не скачивалась.
+[^10]: [Wikimedia Commons: 大溪老街 Daxi Historic Street - panoramio (1).jpg](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E6%BA%AA%E8%80%81%E8%A1%97_Daxi_Historic_Street_-_panoramio_(1) — автор lienyuan lee, CC BY 3.0. Картинка в тексте используется горячая ссылка Wikimedia Commons `Special:FilePath`, не скачивалась.
 
 [^11]: [Wikimedia Commons: 2021 Daxi Bridge.jpg](https://commons.wikimedia.org/wiki/File:2021_Daxi_Bridge.jpg) — автор Taiwankengo, CC BY-SA 4.0. Картинка в тексте используется `Special:FilePath`, не скачивалась.
 

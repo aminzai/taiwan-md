@@ -97,7 +97,7 @@ LINE-стикеры — не просто средство общения, он�
 
 [^11]: [Первый чисто интернет-банк заработал! LINE Bank к 100 млн прибыли, IPO максимум в 2028 — Global Views Monthly](https://www.gvm.com.tw/article/127349) — Репортаж о планах IPO и перспективах прибыли LINE Bank.
 
-[^12]: [Новая политика приватности LINE вызвала споры — официальное заявление дало объяснения — Exclusive Report](https://www.scooptw.com/popular/network_news/technology/22002/line%E6%8E%A8%E6%96%B0%E7%89%88%E9%9A%B1%E7%A7%81%E6%AC%8A%E6%94%BF%E7%AD%96%E6%83%B9%E7%88%AD%E8%AD%B0-%E5%AE%98%E6%96%B9%E8%81%8A%E6%98%8E%E7%B5%A6%E5%87%BA%E8%A7%A3%E9%87%8B/) — Споры из-за обновления политики приватности и ответ официальной стороны.
+[^12]: [Новая политика приватности LINE вызвала споры — официальное заявление дало объяснения — Exclusive Report](https://www.scooptw.com/popular/network_news/technology/22002/line%E6%8E%A8%E6%96%B0%E7%89%88%E9%9A%B1%E7%A7%81%E6%AC%8A%E6%94%BF%E7%AD%96%E6%83%B9%E7%88%AD%E8%AD%B0-%E5%AE%98%E6%96%B9%E8%81%B2%E6%98%8E%E7%B5%A6%E5%87%BA%E8%A7%A3%E9%87%8B/) — Споры из-за обновления политики приватности и ответ официальной стороны.
 
 [^13]: [Реклама в LINE LAP имеет свою логику! Посмотрите 3 маркетинговые логики за этим — Digit Spark](https://digitspark.co/blog/line-lap-marketing-logic/) — Логика работы рекламной платформы LINE LAP.
 
