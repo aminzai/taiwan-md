@@ -135,7 +135,7 @@ Nhìn lại ba người sáng lập khởi nghiệp từ Đài Bắc năm 2011, 
 
 Nếu muốn từ Pinkoi tiếp tục hiểu về thiết kế và nền kinh tế nền tảng tại Đài Loan, có thể đặt nó cạnh các phương tiện truyền thông thiết kế tại Đài Loan, gọi vốn cộng đồng và các nền tảng mạng khác. Tính đặc biệt của Pinkoi không nằm ở việc nó đại diện cho toàn bộ ngành công nghiệp thiết kế, mà nằm ở việc nó đặt "sáng tạo, xuyên biên giới và tiêu dùng hàng ngày" vào cùng một nền tảng, khiến vấn đề của nhà thiết kế cũng trở thành vấn đề về logistics, dữ liệu và cộng đồng.[^4] [^6] [^9]
 
-## 參考資料
+## Tài liệu tham khảo
 
 [^1]: [Giới thiệu về Pinkoi](https://www.pinkoi.com/about) — Trang giới thiệu chính thức của Pinkoi, mô tả thời gian thành lập, điểm khởi nguồn tại Đài Bắc, vị thế nền tảng cùng dịch vụ Mô hình AI Phong cách Sống và RMN.
 

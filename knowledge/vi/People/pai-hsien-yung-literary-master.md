@@ -91,7 +91,7 @@ Từ Quảng Tây Vân Laĩ tới khu công viên mới Đài Bắc, từ 《Vă
 
 **Đọc thêm**: [Bạch Tiên Dũng — Wikipedia](https://zh.wikipedia.org/wiki/白先勇) ｜ [Giải Văn nghệ Quốc gia: Hồ sơ Bạch Tiên Dũng](https://www.ncafroc.org.tw/artsaward/winnerDetail@1229) ｜ [Viện Văn hóa Quốc gia Đài Loan](https://www.nmtl.gov.tw/) ｜ [Tam Mỹ](/vi/people/san-mao): Tác phẩm đầu tiên của cô, 《Mê Lả», được Bạch Tiên Dũng giới thiệu và đăng trên 《Văn học Hiện đại》
 
-## 參考資料
+## Tài liệu tham khảo
 
 [^1]: [Wikipedia: Bạch Tiên Dũng](https://zh.wikipedia.org/wiki/白先勇) — Xác nhận sinh năm 1937 tại Quế Lâm, con trai của Bạch Trùng Hy, hệ Ngoại văn Đại học Đài Loan, người sáng lập tạp chí 'Văn học Hiện đại', 'Người Taipei' xuất bản lần đầu tháng 4/1971 (14 truyện), 'Đứa con khổ' xuất bản năm 1983.
 
