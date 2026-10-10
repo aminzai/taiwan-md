@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-10T18:17:28+08:00",
-    "zhCommitHead": "4bfcbb609",
+    "lastUpdated": "2026-10-10T18:35:29+08:00",
+    "zhCommitHead": "994ee8736",
     "totalZh": 1125,
     "activeLanguages": [
       "en",
@@ -28,9 +28,9 @@
       },
       "ja": {
         "total_zh": 1125,
-        "fresh": 1121,
+        "fresh": 1122,
         "stale": 2,
-        "metadata_stale": 2,
+        "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
       },
@@ -44,9 +44,9 @@
       },
       "es": {
         "total_zh": 1125,
-        "fresh": 1120,
+        "fresh": 1121,
         "stale": 2,
-        "metadata_stale": 3,
+        "metadata_stale": 2,
         "missing": 0,
         "orphan": 0
       },
@@ -76,9 +76,9 @@
       },
       "pt": {
         "total_zh": 1125,
-        "fresh": 1120,
+        "fresh": 1121,
         "stale": 1,
-        "metadata_stale": 4,
+        "metadata_stale": 3,
         "missing": 0,
         "orphan": 0
       },
@@ -92,25 +92,25 @@
       },
       "ar": {
         "total_zh": 1125,
-        "fresh": 1118,
+        "fresh": 1119,
         "stale": 3,
-        "metadata_stale": 4,
+        "metadata_stale": 3,
         "missing": 0,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1125,
-        "fresh": 1122,
+        "fresh": 1123,
         "stale": 1,
-        "metadata_stale": 2,
+        "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
       },
       "de": {
         "total_zh": 1125,
-        "fresh": 1118,
+        "fresh": 1119,
         "stale": 1,
-        "metadata_stale": 6,
+        "metadata_stale": 5,
         "missing": 0,
         "orphan": 0
       }
@@ -4750,20 +4750,18 @@
         "ru": {
           "path": "ru/Music/taiwan-campus-folk-song-movement.md",
           "translatedFrom": "Music/台灣民歌運動.md",
-          "sourceCommitSha": "7415dcaae",
-          "sourceContentHash": "sha256:e201829436b891a1",
+          "sourceCommitSha": "f40273072",
+          "sourceContentHash": "sha256:852e24aefb540676",
           "sourceBodyHash": "sha256:61e39c0d29fd318e",
-          "translatedAt": "2026-08-01T23:08:41+08:00",
+          "translatedAt": "2026-10-10T16:54:48+08:00",
           "translationLastCommit": "7f2170e5",
           "translationLastModified": "2026-08-02T14:23:53+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 24429,
+          "bytes": 26798,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Music/taiwan-campus-folk-song-movement.md",
@@ -7166,8 +7164,8 @@
           "sourceContentHash": "sha256:f9e17206eee03c4e",
           "sourceBodyHash": "sha256:b2179659aae39566",
           "translatedAt": "2026-10-10T09:37:04.826215+00:00",
-          "translationLastCommit": "1c4b5849",
-          "translationLastModified": "2026-08-05T03:44:27+08:00",
+          "translationLastCommit": "994ee873",
+          "translationLastModified": "2026-10-10T18:17:28+08:00",
           "inferred": false,
           "footnoteDefs": 56,
           "bytes": 69403,
@@ -77868,20 +77866,18 @@
         "pt": {
           "path": "pt/Society/typhoon-day.md",
           "translatedFrom": "Society/颱風假.md",
-          "sourceCommitSha": "9bddcff65",
-          "sourceContentHash": "sha256:d909a68892279cea",
+          "sourceCommitSha": "f40273072",
+          "sourceContentHash": "sha256:a1f455d597d80f3d",
           "sourceBodyHash": "sha256:8d3f66b5c4593a14",
-          "translatedAt": "2026-08-02T13:22:33+08:00",
+          "translatedAt": "2026-10-10T16:54:47+08:00",
           "translationLastCommit": "9b326b94",
           "translationLastModified": "2026-08-03T03:15:23+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "bytes": 25060,
+          "bytes": 24951,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Society/typhoon-day.md",
@@ -85588,8 +85584,8 @@
           "sourceContentHash": "sha256:d52ac46a55e0087a",
           "sourceBodyHash": "sha256:7ff26ffe138f6405",
           "translatedAt": "2026-10-10T16:15:52+08:00",
-          "translationLastCommit": "2a6e2d13",
-          "translationLastModified": "2026-07-27T00:47:17+08:00",
+          "translationLastCommit": "994ee873",
+          "translationLastModified": "2026-10-10T18:17:28+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "bytes": 32068,
@@ -119126,20 +119122,18 @@
         "ar": {
           "path": "ar/People/ximurong.md",
           "translatedFrom": "People/席慕蓉.md",
-          "sourceCommitSha": "7415dcaae",
-          "sourceContentHash": "sha256:5d1d8e5f0b7eaefd",
+          "sourceCommitSha": "f40273072",
+          "sourceContentHash": "sha256:36049c1494516a6b",
           "sourceBodyHash": "sha256:c035c602c7e335fa",
-          "translatedAt": "2026-08-01T23:08:40+08:00",
+          "translatedAt": "2026-10-10T16:54:48+08:00",
           "translationLastCommit": "f87df5a8",
           "translationLastModified": "2026-08-02T01:21:47+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 13581,
+          "bytes": 14203,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/ximurong.md",
@@ -119606,20 +119600,18 @@
         "ja": {
           "path": "ja/People/brigitte-lin-legendary-actress.md",
           "translatedFrom": "People/林青霞.md",
-          "sourceCommitSha": "7415dcaa",
-          "sourceContentHash": "sha256:2b4a824289c241f9",
+          "sourceCommitSha": "f40273072",
+          "sourceContentHash": "sha256:d90dfbfec4a44a23",
           "sourceBodyHash": "sha256:12badc0094297f08",
-          "translatedAt": "2026-05-17T05:33:00Z",
+          "translatedAt": "2026-10-10T16:54:46+08:00",
           "translationLastCommit": "fd678fd2",
           "translationLastModified": "2026-07-25T10:32:02+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 13193,
+          "bytes": 14670,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/brigitte-lin-legendary-actress.md",
@@ -119640,20 +119632,18 @@
         "es": {
           "path": "es/People/brigitte-lin-legendary-actress.md",
           "translatedFrom": "People/林青霞.md",
-          "sourceCommitSha": "7415dcaa",
-          "sourceContentHash": "sha256:2b4a824289c241f9",
+          "sourceCommitSha": "f40273072",
+          "sourceContentHash": "sha256:d90dfbfec4a44a23",
           "sourceBodyHash": "sha256:12badc0094297f08",
-          "translatedAt": "2026-05-17T05:33:00Z",
+          "translatedAt": "2026-10-10T16:54:47+08:00",
           "translationLastCommit": "4ad0aa42",
           "translationLastModified": "2026-05-18T06:16:48+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 12870,
+          "bytes": 13214,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/brigitte-lin-legendary-actress.md",
@@ -124018,18 +124008,18 @@
         "de": {
           "path": "de/People/san-mao.md",
           "translatedFrom": "People/三毛.md",
-          "sourceCommitSha": "09ffe560f",
-          "sourceContentHash": "sha256:423bfa0c83cbe434",
+          "sourceCommitSha": "f40273072",
+          "sourceContentHash": "sha256:06a2002deee9c4a4",
           "sourceBodyHash": "sha256:5eacf1a20c5ad4bd",
-          "translatedAt": "2026-09-08T17:06:59+0800",
+          "translatedAt": "2026-10-10T16:54:48+08:00",
           "translationLastCommit": "9b6dd689",
           "translationLastModified": "2026-09-08T17:18:11+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "bytes": 29393,
+          "bytes": 28814,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "sha-lost-body-match"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
