@@ -278,10 +278,10 @@ Los nombres en la pared siguen aumentando. ¿Será que quien sostiene el lápiz 
 - [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — ¿Por qué Taiwán puede ser el centro mundial de la fabricación de chips? Aquí se aborda la cadena de suministro con un contexto más completo.
 - [Empresa taiwanesa: TSMC](/es/economy/tsmc) — La "montaña sagrada" que fabrica cada chip para NVIDIA, y la otra cara agotada.
 - [Morris Chang: el destinatario de esa carta y el imperio de fundición que construyó](/es/people/tsmc-morris-chang) — El fundador de TSMC, quien recibió una carta de Jensen Huang en 1996.
-- [Computex: la feria informática de Taipéi se convierte en la ceremonia de apertura de la IA mundial](/es/technology/computex-taipei) — El escenario donde brilla esa pared de logotipos, el evento anual del sector tecnológico de Taiwán.
+- [Computex: la feria informática de Taipéi se convierte en la ceremonia de apertura de la IA mundial](/es/technology/computex) — El escenario donde brilla esa pared de logotipos, el evento anual del sector tecnológico de Taiwán.
 - [Industria de inteligencia artificial](/es/technology/artificial-intelligence-industry) — Desde fabricar chips para NVIDIA hasta construir un ecosistema de IA, la posición de Taiwán en la ola de la IA.
 - [Desarrollo y estrategia de IA de Taiwán](/es/technology/artificial-intelligence-development-strategy) — IA soberana, TAIDE y el intento nacional de Taiwán por ascender desde la fabricación.
-- [Historias tecnológicas de Taiwán: chips con 100 puntos, micrófono con 60](/es/technology/taiwan-tech-stories) — Dos formas de contar sobre el mismo chip: la prima del beneficio que se lleva NVIDIA y cómo debe aprender la tecnología taiwanesa.
+- [Historias tecnológicas de Taiwán: chips con 100 puntos, micrófono con 60](/es/technology/taiwan-tech-storytelling) — Dos formas de contar sobre el mismo chip: la prima del beneficio que se lleva NVIDIA y cómo debe aprender la tecnología taiwanesa.
 - [Empresa taiwanesa: Foxconn Precision Industry](/es/economy/foxconn-precision-industry) — El gigante de la fabricación que ensambla el 40% de los racks de IA a nivel mundial, las manos más grandes en el fondo de la curva de la sonrisa.
 
 ## Fuentes de imágenes

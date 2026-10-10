@@ -273,12 +273,12 @@ Lo que dejó fue un largo río que sigue fluyendo, sin respuestas finales.
 
 **Lectura adicional:**
 
-- [Jay Chou](/people/Jay%20Chou) — Figura representativa de la música pop de habla china de la misma generación (contemporáneo del sobrino-nieto materno de Hsu Cho-yun, Wang Leehom)
-- [Lin Youjia (Willber Lin)](/people/Lin%20Youjia) — Corte generacional de la música pop de habla china (contrapunto generacional con Wang Leehom)
-- [Chen Jiannian](/people/Chen%20Jiannian) — Modelo de narrativa de larga escala de figuras culturales de la categoría People
-- [Extranjeros (Waishengren)](/society/Waishengren) — Contexto posterior a la guerra de Taiwán de las familias de intelectuales de la segunda generación de extranjeros que llegaron en 1949 (la familia de Hsu Cho-yun, Hsu Liu-fen, Hsu Wan-qing pertenece a este grupo)
-- [El Incidente de Febrero 28](/history/Er%20Er%20Ba%20Shi%20Jian) — Punto de inflexión histórico que los intelectuales de la misma generación que Hsu Cho-yun enfrentaron conjuntamente después de llegar a Taiwán
-- [Yin Yan-liang: El premio de ciencia que construyó es más caro que el Nobel](/people/Yin%20Yan-liang) — Fundador del Premio Tang, quien en 2024 otorgó la sexta edición del Premio de Estudios Chinos a Hsu Cho-yun, y donó los 50 millones de NT$ completos para establecer la "Beca Hsu-Sun"
+- [Jay Chou](/es/people/jay-chou) — Figura representativa de la música pop de habla china de la misma generación (contemporáneo del sobrino-nieto materno de Hsu Cho-yun, Wang Leehom)
+- [Lin Youjia (Willber Lin)](/es/people/yoga-lin) — Corte generacional de la música pop de habla china (contrapunto generacional con Wang Leehom)
+- [Chen Jiannian](/es/people/chen-chien-nien) — Modelo de narrativa de larga escala de figuras culturales de la categoría People
+- [Extranjeros (Waishengren)](/es/society/mainlanders-in-taiwan) — Contexto posterior a la guerra de Taiwán de las familias de intelectuales de la segunda generación de extranjeros que llegaron en 1949 (la familia de Hsu Cho-yun, Hsu Liu-fen, Hsu Wan-qing pertenece a este grupo)
+- [El Incidente de Febrero 28](/es/history/228-incident) — Punto de inflexión histórico que los intelectuales de la misma generación que Hsu Cho-yun enfrentaron conjuntamente después de llegar a Taiwán
+- [Yin Yan-liang: El premio de ciencia que construyó es más caro que el Nobel](/es/people/samuel-yin-yan-liang) — Fundador del Premio Tang, quien en 2024 otorgó la sexta edición del Premio de Estudios Chinos a Hsu Cho-yun, y donó los 50 millones de NT$ completos para establecer la "Beca Hsu-Sun"
 
 ## Fuentes de imagen
 

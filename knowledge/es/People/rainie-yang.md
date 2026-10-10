@@ -241,11 +241,11 @@ Every field was a field where she negotiated with "who defines me."
 
 ## See Also
 
-- [Zhang Xuan and An Pu](/music/Zhang-Xuan-and-An-Pu) — Another Taiwanese female singer who moved from a girl singer to a complete author identity, contrasting two paths of "from being defined to self-definition"
-- [Wei Wu-xuan](/people/Wei-Wu-xuan) — Two Golden Melody Best Mandarin Female Singer winners from the same generation, forming a structural contrast of "market vs. academy" with Rainie Yang
-- [Taiwan Pop Music](/music/Taiwan-Pop-Music) — The historical context of the Mandopop industry structure and the dual-track positioning of idol dramas/singers
-- [Taiwan KTV Culture](/music/Taiwan-KTV-Culture) — The social context of _Ambiguous_ becoming the KTV点播 king in 2005, and the role of KTV as a node in the dissemination of Mandopop
-- [Tanya Chua](/people/Tanya-Chua) — Wrote _Loneliness is a Sense of Security_ (2013) for Rainie Yang; four-time Golden Melody Best Singer and producer dual identity
+- [Zhang Xuan and An Pu](/es/music/deserts-chang-and-anpu) — Another Taiwanese female singer who moved from a girl singer to a complete author identity, contrasting two paths of "from being defined to self-definition"
+- [Wei Wu-xuan](/es/people/waa-wei-singer) — Two Golden Melody Best Mandarin Female Singer winners from the same generation, forming a structural contrast of "market vs. academy" with Rainie Yang
+- [Taiwan Pop Music](/es/music/golden-melodies-legacy-taiwan-pop-music) — The historical context of the Mandopop industry structure and the dual-track positioning of idol dramas/singers
+- [Taiwan KTV Culture](/es/music/ktv-culture) — The social context of _Ambiguous_ becoming the KTV点播 king in 2005, and the role of KTV as a node in the dissemination of Mandopop
+- [Tanya Chua](/es/people/tanya-chua-singer) — Wrote _Loneliness is a Sense of Security_ (2013) for Rainie Yang; four-time Golden Melody Best Singer and producer dual identity
 
 ## References
 
