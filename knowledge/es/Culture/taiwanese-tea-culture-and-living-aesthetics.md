@@ -28,6 +28,7 @@ relatedDiary: ['2026-07-12-135710-twmd-tea-panorama']
 translatedFrom: 'Culture/台灣茶文化.md'
 sourceCommitSha: '4aabbe030'
 sourceContentHash: 'sha256:8649216212301e4d'
+sourceBodyHash: 'sha256:164fab87d9636e11'
 translatedAt: '2026-09-24T15:34:30.462513+00:00'
 ---
 

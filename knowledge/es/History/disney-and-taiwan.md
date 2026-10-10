@@ -29,6 +29,7 @@ curation: 'incubating'
 translatedFrom: 'History/迪士尼.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:f212b82c110bd5ef'
+sourceBodyHash: 'sha256:ad7b91e555067f88'
 translatedAt: '2026-09-18T21:11:13.461124+00:00'
 ---
 

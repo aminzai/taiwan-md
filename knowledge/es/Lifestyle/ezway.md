@@ -50,6 +50,7 @@ sporeLinks:
 translatedFrom: 'Lifestyle/台灣海關報關制度與EZWAY.md'
 sourceCommitSha: '258412070'
 sourceContentHash: 'sha256:76dffd172486f9a9'
+sourceBodyHash: 'sha256:7abf227d191df077'
 translatedAt: '2026-08-26T20:41:59Z'
 ---
 
@@ -250,152 +251,102 @@ Este artículo utiliza 5 imágenes de dominio público o con licencia CC, todas 
 
 ## Referencias
 
-
 [^1]: [Desde el 1 de marzo, mandato previo generalizado para la mensajería importada por particulares](https://money.udn.com/money/story/6710/9341541) — Economic Daily News, diciembre de 2025. Recoge literalmente la definición oficial de la Administración de Aduanas sobre el «mandato de confirmación previa»; es la frase clave para entender que pulsar «declaración conforme» equivale jurídicamente a un mandato en línea.
-
 
 [^2]: [Artículo 22 de la Ley de Aduanas](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=G0350001&flno=22) — Texto legal de la Base de Datos Nacional de Legislación, que establece que «los trámites de despacho y pago de tributos correspondientes a las mercancías podrán encomendarse a agentes de aduanas»; es la base legal de la relación de mandato.
 
-
 [^3]: [Artículo 7 del Reglamento de Despacho Aduanero de Envíos Postales](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=G0350072&flno=7) — Texto original en la Base de Datos Nacional de Legislación: exime de arancel, impuesto sobre consumos específicos e IVA a los envíos con valor en aduana de hasta 2.000 NT$, y excluye el tabaco, el alcohol y los productos agrícolas sujetos a contingente arancelario. Última modificación: 1 de abril de 2020.
-
 
 [^4]: [Artículo 29 de la Ley de Aduanas](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=G0350001&flno=29) — Base legal del valor en aduana; enumera los seis conceptos que deben añadirse al valor de transacción (comisiones y corretajes, envases, cánones, flete y gastos de carga y descarga, seguro, etc.). Los envíos personales de bajo valor suelen implicar solo el precio de la mercancía, el flete y el seguro, que es el escenario simplificado que adopta este artículo.
 
-
 [^5]: [Administración de Aduanas: seis usos por semestre para los envíos exentos de bajo valor](https://web.customs.gov.tw/singlehtml/2222?cntId=cus1_185635_2222) — Nota de prensa de la Administración de Aduanas de 25 de agosto de 2020; explica literalmente que el levante exento para envíos con valor en aduana de hasta 2.000 NT$ se limita a seis veces por semestre para un mismo sujeto pasivo, y anuncia la nueva consulta de «datos de importación frecuente» en la Ventanilla Única.
-
 
 [^6]: [126.000 personas agotaron en dos meses sus seis usos exentos del semestre](https://ec.ltn.com.tw/article/breakingnews/3272174) — Liberty Times Finance, 26 de agosto de 2020; registra que entre el 1 de julio y el 23 de agosto se acumularon 980.000 importaciones exentas de bajo valor y que 126.000 personas ya habían alcanzado el límite, lo que muestra que la regla afecta al comprador corriente y no solo a los intermediarios.
 
-
 [^7]: [Mobile01: descubro en EZ Way que el importe declarado por la agencia no coincide](https://www.mobile01.com/topicdetail.php?f=423&t=6771709) — Hilo de foro (experiencia personal, no estadística formal): un usuario descubre que la descripción y el importe declarados no coinciden con lo comprado, solo puede elegir entre «conforme» y «no conforme», y tras marcar «no conforme» el paquete llega igualmente.
-
 
 [^8]: [Ministerio de Finanzas: mandato de confirmación previa generalizado desde el 1 de marzo de 2026](https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=87e84e6a6cbc4af9a6608d03c333b06c) — Nota de prensa del Ministerio de Finanzas de 24 de febrero de 2026 que anuncia la implantación general del mandato de confirmación previa para la mensajería con declaración simplificada importada por particulares, con base en la reforma de los reglamentos de despacho de mensajería aérea y marítima.
 
-
 [^9]: [Llevaba años usándola y no sabía que la operaba una empresa privada](https://www.chinatimes.com/realtimenews/20260803000910-260405) — China Times, 3 de agosto de 2026; recopila la publicación original en Threads (más de 4.000 «me gusta») y los comentarios, incluido el «o sea que cuando compro en iHerb tengo que despachar en aduana con una empresa privada». El enlace a la publicación original no fue difundido por los medios, así que aquí se cita la versión referida en la información.
-
 
 [^10]: [Rueda de prensa del director general Peng Ying-wei: los tres grandes malentendidos sobre EZ Way](https://ec.ltn.com.tw/article/breakingnews/5526916) — Liberty Times Finance, 3 de agosto de 2026, sobre la rueda de prensa del mediodía; recoge la formulación completa de las tres aclaraciones del director general (uso no obligatorio, el mandato en línea protege los datos personales, solo se cobra a los agentes de aduanas).
 
-
 [^11]: [Aduana de Taipéi: historia de la automatización del despacho de mercancías](https://web.customs.gov.tw/taipei/singlehtml/101?cntId=cus2_99948_101) — Página oficial de la Aduana de Taipéi, que consigna literalmente la implantación oficial de la automatización el 9 de noviembre de 1992. La afirmación que circula por internet de que Taiwán fue «el tercero de Asia, tras Japón y Singapur» no aparece ni en esta página ni en las demás cronologías oficiales, por lo que este artículo no la utiliza.
-
 
 [^12]: [Sala de Archivo Histórico Fiscal del Ministerio de Finanzas: la automatización del despacho de mercancías](https://museum.mof.gov.tw/singlehtml/c54dcfe3b7cf439ebf6cf2536bf03f75) — Página oficial de archivo histórico del Ministerio de Finanzas: estudio en 1990, automatización aérea en noviembre de 1992 y marítima el 19 de junio de 1995, con la autoevaluación oficial de que «para los despachos por la vía C1, el tiempo se ha reducido de 4 horas a los 3 minutos actuales».
 
-
 [^13]: [Normas de despacho por declaración simplificada de mercancías de mensajería aérea](https://law-out.mof.gov.tw/LawContent.aspx?id=FL006333) — Texto del sistema normativo del Ministerio de Finanzas; define las cuatro categorías X1 (documentos), X2 (bajo valor exento, hasta 2.000 NT$), X3 (bajo valor gravado, de 2.001 a 50.000 NT$) y X4 (alto valor), y establece que la declaración simplificada solo admite el levante C1 y la inspección C3, sin examen documental C2.
-
 
 [^14]: [Análisis de los datos del comercio electrónico transfronterizo de Taiwán](https://www.mirai.com.tw/analysis-of-taiwans-cross-border-e-commerce-trade-data-2/) — Infografía de datos comerciales del Mirai Business Research Institute: entre 2014 y 2024 los paquetes pequeños importados pasaron de 15,82 a 58,47 millones de unidades y el importe medio por paquete bajó de 1.396 a 1.122 NT$. Como los criterios varían entre instituciones, este artículo usa la formulación de orden de magnitud «más de cincuenta y ocho millones».
 
-
 [^15]: [Directrices del programa piloto de verificación de identidad del destinatario de mensajería y mandato de despacho en línea](https://law-out.mof.gov.tw/LawContent.aspx?id=GL010451) — Orden n.º 1071013202 del Ministerio de Finanzas de 15 de junio de 2018; es la base legal de la apertura piloto del mandato en línea de EZ WAY y demuestra que el mandato en línea arranca en 2018 y no en 2020, como suele escribirse.
-
 
 [^16]: [Taiwan Customs: Real-Name Authorization APP (EZ Way)](https://web.customs.gov.tw/en/singlehtml/1865?cntId=1ddad168f44a42eba6cab1d4c8983687) — Página oficial en inglés de la Administración de Aduanas; consigna literalmente que desde el 16 de mayo de 2020 la Aduana dejó de admitir la declaración simplificada de quien no hubiera completado el registro con verificación de identidad o entregado un mandato en papel, lo que aclara la versión del 16 de abril que circula por ahí.
 
-
 [^17]: [Administración de Aduanas: mandato de confirmación previa](https://web.customs.gov.tw/singlehtml/3150?cntId=11c8861747b54153863dd6323122466a) — Página explicativa oficial que documenta la primera fase del mandato previo desde el 28 de diciembre de 2021 para listas específicas y la segunda fase (2.0) desde el 15 de septiembre de 2022, con adhesión voluntaria del público.
-
 
 [^18]: [Entra en servicio el mandato previo 3.0 para frenar las declaraciones con identidad suplantada](https://web.customs.gov.tw/singlehtml/2222?cntId=79c4e23b3329408397c0b8dd45f5a23b) — Nota de prensa de la Administración de Aduanas de agosto de 2023 que anuncia la puesta en marcha del mandato previo 3.0 y la ampliación del universo afectado. Cotejada palabra por palabra, esta nota no contiene ninguna estadística anual de casos de suplantación.
 
-
 [^19]: [Contra el despacho con identidad suplantada, la Aduana prevé implantar el año que viene el mandato de confirmación previa para todos](https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=5d4bf15583314cb2ba11f3a072e493f4) — Nota de prensa del Ministerio de Finanzas de 17 de diciembre de 2025; indica que la Administración impulsa el mandato previo por fases desde 2021 y que a 30 de noviembre de ese año ya superaba el 80 % de cobertura. Esta nota tampoco contiene las tres cifras «1.723 / 474 / 39» que tanto se citan.
-
 
 [^20]: [Trade-Van: del grupo de planificación del Ministerio de Finanzas a la empresa cotizada](https://finance.ettoday.net/news/3212529) — ETtoday Finance, 3 de agosto de 2026; documenta que Trade-Van nació como Grupo de Planificación y Promoción de la Automatización del Despacho de Mercancías del Ministerio de Finanzas y se privatizó en agosto de 1996, y cita al funcionario de la Administración de Aduanas sobre la no participación de Universal EC y el papel de Trade-Van como quien «puso recursos por delante para apagar el fuego».
 
-
 [^21]: [EZ Way, 7,59 millones de registros: ¿están seguros los datos? ¿Quién paga la comisión?](https://www.gvm.com.tw/article/132037) — Global Views Monthly, 3 de agosto de 2026; recoge que el Ministerio de Finanzas posee 54.162.436 acciones de Trade-Van (36,11 %), que EZ WAY acumula unos 7,59 millones de registros y más de cuatro millones de declaraciones simplificadas mensuales (cerca del 70 % de los expedientes), y el intervalo de tarifas de 0,8 a 3,5 NT$ por expediente.
-
 
 [^22]: [El Ministerio de Finanzas ocupa 6 de los 12 asientos del consejo de Trade-Van](https://www.mirrormedia.mg/story/20260803-177fin-182204) — Mirror Media, 3 de agosto de 2026; completa la estructura del consejo de administración de Trade-Van y su cuota de mercado, y consigna que Universal EC, que cumplía los requisitos, «no tenía intención de operarlo», de ahí que en la práctica quedara un único operador.
 
-
 [^23]: [Reglamento de Autorización y Gestión de las Redes de Despacho Aduanero](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0350048) — Texto de la Base de Datos Nacional de Legislación, dictado al amparo del artículo 10.5 de la Ley de Aduanas: el artículo 4 exige un capital desembolsado de 500 millones de NT$ y el artículo 6 permite al Ministerio de Finanzas constituir una comisión evaluadora. Es un régimen de licencia por acreditación, no un procedimiento de licitación pública.
-
 
 [^24]: [Administración de Aduanas: cualquier operador acreditado puede desarrollar su app de mandato en línea](https://finance.ettoday.net/news/3212376) — ETtoday, 3 de agosto de 2026, sobre el contenido de la rueda de prensa; recoge literalmente la respuesta oficial a las acusaciones de monopolio con el marco de «acreditación y recertificación cada cinco años», y explica que el ciudadano puede otorgar el mandato en línea con el certificado digital de persona física en la Ventanilla Única, de modo que EZ WAY no es la única vía.
 
-
 [^25]: [Administración de Aduanas: explicación sobre la verificación de identidad del destinatario de mensajería](https://web.customs.gov.tw/singlehtml/3150?cntId=cus1_3150_3150_1149) — Página oficial de la Administración de 18 de marzo de 2020; consigna literalmente que el ciudadano puede seguir entregando un mandato en papel y fotocopias del anverso y el reverso de su documento de identidad al agente de aduanas de mensajería, es decir, que el mandato mantiene la doble vía de papel y en línea.
-
 
 [^26]: [Debate en el foro Gossiping de PTT: qué pasa si no usas Yilewei](https://disp.cc/b/Gossiping/iaY5) — Página de transcripción de un hilo de PTT (opinión en línea, sin fuente oficial ni identificada); recoge comparaciones del tipo «para irte de viaje nadie te obliga a tener pasaporte, simplemente no vas a poder pasar la aduana», que reflejan la sensación popular de una obligatoriedad «voluntaria de nombre, inevitable en la práctica».
 
-
 [^27]: [La Administración de Aduanas se compromete a presentar un informe monográfico en tres meses](https://news.pts.org.tw/article/820029) — PTS News, 30 de julio de 2026; registra el compromiso del director general Peng Ying-wei de presentar en tres meses un informe que evalúe la incorporación a la infraestructura pública nacional, y aporta otra versión de la estructura de tarifas (3,5 NT$ de tasa de confirmación más 0,8 NT$ de tasa de servicio).
-
 
 [^28]: [Velando por millones de compradores: Lin Tai-hua destapa la repercusión de tarifas de EZ WAY](https://tw.news.yahoo.com/%E6%9B%BF%E5%8D%83%E8%90%AC%E7%B6%B2%E8%B3%BC%E6%97%8F%E6%8A%8A%E9%97%9C-%E6%9E%97%E5%B2%B1%E6%A8%BA%E6%8F%AD-ez-way-%E8%BD%89%E5%AB%81%E6%94%B6%E8%B2%BB%E4%BA%82%E8%B1%A1-214343033.html) — Información reproducida en Yahoo Noticias; recoge la versión de tarifas aportada por el despacho de Lin Tai-hua («la conexión de datos por SFTP exige además una cuota mensual de 2.500 NT$ y 0,8 NT$ por expediente»), sin que la información original aclare si se trata de la misma partida que la escala de la tasa de confirmación.
 
-
 [^29]: [Lin Tai-hua interpela sobre la estructura de tarifas de EZ WAY](https://news.tvbs.com.tw/politics/4001130) — TVBS, julio de 2026, sobre la interpelación de la diputada Lin Tai-hua en la Comisión de Finanzas del Yuan Legislativo; recoge su estimación de costes «calculando sobre 60 millones de paquetes al año» y su tesis de que la tarifa escalonada perjudica a los agentes de aduanas pequeños y medianos del país.
-
 
 [^30]: [La diputada Lin Tai-hua: un sistema previsto por la ley, externalizado sin contrato](https://www.mirrormedia.mg/story/20260803edi001) — Mirror Media, 3 de agosto de 2026; resume los cuestionamientos de Lin Tai-hua sobre la externalización de EZ WAY y la repercusión de tarifas, así como las reacciones en redes. La transcripción íntegra de la interpelación no aparece en las informaciones de circulación pública, por lo que este artículo la trata al nivel de «según se informa».
 
-
 [^31]: [Lin Tai-hua](https://zh.wikipedia.org/wiki/%E6%9E%97%E5%B2%B1%E6%A8%BA) — Entrada de Wikipedia que consigna que el partido de la actual diputada Lin Tai-hua es el Partido Democrático Progresista.
-
 
 [^32]: [Si no das este paso al comprar en el extranjero, tu paquete puede ser devuelto](https://www.storm.mg/lifestyle/11088908) — Storm Media; es hasta ahora la única fuente rastreable de la serie «1.723 casos en 2023, 474 en 2024 y 39 entre enero y octubre de 2025» sobre despacho con identidad suplantada, y el propio artículo no indica de dónde procede el dato. Cotejadas palabra por palabra, ni la nota del Ministerio de Finanzas de 17 de diciembre de 2025 ni la de la Administración de Aduanas de agosto de 2023 contienen esas tres cifras.
 
-
 [^33]: [Red antifraude 165](https://165.npa.gov.tw/) — Portal oficial antifraude de la Agencia Nacional de Policía del Ministerio del Interior, donde pueden verificarse y denunciarse los SMS y llamadas que suplantan a organismos públicos, incluida la Aduana. La antigua página de aviso antifraude de la Administración de Aduanas (dominio customs.gov.tw) ha dejado de funcionar y redirige a la portada, por lo que se cita este recurso gubernamental de carácter general.
-
 
 [^34]: [El despacho de Taobao esconde mucho: consolidación encubierta y despacho con nombre ajeno](https://www.bnext.com.tw/article/81911/taobao-customs-clearance-scam) — Reportaje de Business Next que documenta casos reales de consumidores cuya mercancía fue agrupada sin aviso con paquetes de terceros para pasar la aduana y en cuyos envíos aparecían nombres de desconocidos, y que muestra que incluso con verificación de identidad queda margen de irregularidad en el eslabón intermediario.
 
-
 [^35]: [Propuesta ciudadana: en contra de reducir a 2.000 NT$ la franquicia de las compras en línea en el extranjero](https://join.gov.tw/idea/detail/f549a33d-644e-4016-831e-d375ae1eb83f) — Página oficial de la propuesta en la Plataforma de Participación Pública en Políticas, presentada el 4 de mayo de 2017 por la internauta «Duo-er» y respaldada por 5.226 personas; incluye la respuesta del organismo y la constancia de que la medida entró finalmente en vigor el 1 de enero de 2018.
-
 
 [^36]: [Base legal y calendario de la rebaja del umbral de exención a 2.000 NT$](https://finance.technews.tw/2017/05/24/online-shopping-tax-september/) — TechNews, 24 de mayo de 2017; explica que la reforma de la Ley de Aduanas aprobada en tercera lectura en 2016 dio base legal a la rebaja, y detalla el calendario inicial del Ministerio de Finanzas, que preveía la entrada en vigor el 1 de septiembre de 2017.
 
-
 [^37]: [Comparación de los umbrales de exención de 14 países y respuesta de la Administración de Aduanas](https://www.businesstoday.com.tw/article/category/183022/post/202210210036/) — Business Today, octubre de 2022; recoge la posición escrita de la Administración en aquel momento: un límite exento demasiado alto favorece la reimportación de mercancía nacional para eludir impuestos, pero entonces no había planes de modificar el techo y se seguirían observando las tendencias internacionales. Es el contexto de 2022, distinto de la posición reabierta a estudio a partir de 2025.
-
 
 [^38]: [Ministerio de Finanzas: el umbral de exención de 2.000 NT$ está en fase de análisis y reflexión](https://www.cna.com.tw/news/afe/202504100080.aspx) — CNA, 10 de abril de 2025, sobre la interpelación en la Comisión de Finanzas del Yuan Legislativo; registra las dudas del diputado Wu Ping-jui sobre el agravio a la industria manufacturera nacional, la respuesta de la ministra Chuang Tsui-yun y la creación por la Aduana de un «grupo de refuerzo de la inspección del transbordo irregular».
 
-
 [^39]: [La ministra: incorporaremos a las consideraciones rebajar el umbral para los países de origen con dumping](https://www.cna.com.tw/news/afe/202504160053.aspx) — CNA, 16 de abril de 2025; registra el estudio por el Ministerio de Finanzas de una rebaja diferenciada del umbral a 1.000 NT$ para determinados países de origen como China, y la respuesta de la ministra Chuang Tsui-yun. A agosto de 2026 seguía sin decidirse.
-
 
 [^40]: [La proporción de China en las declaraciones exentas de bajo valor sube del 50,4 % al 64,4 %](https://www.ctee.com.tw/news/20250417700134-439901) — Commercial Times, 17 de abril de 2025; es hasta ahora la única fuente rastreable de esta serie (no se ha encontrado una segunda fuente independiente para contrastarla) y añade que China y Hong Kong suman más del 88 %.
 
-
 [^41]: [Executive Order 14324: Suspending Duty-Free De Minimis Treatment for All Countries](https://www.whitehouse.gov/presidential-actions/2025/07/suspending-duty-free-de-minimis-treatment-for-all-countries/) — Texto original de la orden ejecutiva de la Casa Blanca, firmada el 30 de julio de 2025 y en vigor desde la madrugada del 29 de agosto, que suspende el trato exento del 19 U.S.C. 1321(a)(2)(C) con independencia del valor, el origen, el modo de transporte o el canal de despacho.
-
 
 [^42]: [El Consejo de la UE aprueba definitivamente las nuevas normas arancelarias para los paquetes pequeños](https://www.consilium.europa.eu/en/press/press-releases/2026/02/11/council-gives-final-green-light-to-new-customs-duty-rules-for-small-parcels/) — Nota de prensa oficial del Consejo de la Unión Europea de 11 de febrero de 2026, que confirma el arancel transitorio de 3 euros por subpartida arancelaria para los envíos de hasta 150 euros a partir del 1 de julio, vigente hasta la entrada en funcionamiento del Centro de Datos Aduaneros de la UE en 2028.
 
-
 [^43]: [WCO News: E-commerce at a turning point](https://mag.wcoomd.org/magazine/wco-news-108-issue-3-2025/e-commerce-at-a-turning-point/) — Artículo de la publicación de 2025 de la Organización Mundial de Aduanas; explica que la percepción internacional del de minimis ha pasado de instrumento de facilitación a agujero controvertido, y la presión que la fragmentación de los envíos de bajo valor ejerce sobre la gestión de riesgos y la recaudación de las aduanas.
-
 
 [^44]: [Oficina de Aduanas y Aranceles del Ministerio de Finanzas de Japón: exención para importaciones de escaso valor](https://www.customs.go.jp/tetsuzuki/c-answer/imtsukan/1006_jr.htm) — Página oficial de preguntas y respuestas de la aduana japonesa, que explica que, en principio, un valor imponible total de hasta 10.000 yenes queda exento de arancel e impuesto sobre el consumo; el texto oficial precisa que la exención efectiva depende del tipo de producto y de su uso, y este artículo adopta el caso general.
 
-
 [^45]: [Explicación del umbral de exención para compras directas en el extranjero en Corea del Sur](https://www.tossbank.com/articles/customs) — Guía de las reglas de despacho elaborada por un operador financiero surcoreano; consigna el umbral de despacho por lista de 150 dólares para mercancías generales y de 200 dólares para las importadas desde Estados Unidos mediante mensajería, con tributación íntegra por encima del umbral.
-
 
 [^46]: [Customs defends EZ Way app amid privacy concerns](https://www.taipeitimes.com/News/taiwan/archives/2026/08/03/2003861872) — Taipei Times, 3 de agosto de 2026; traduce frase a frase al inglés las tres aclaraciones del director general Peng Ying-wei, y es la única parte de esta polémica con un registro completo en dos lenguas.
 
-
 [^47]: [Administración de Aduanas: sistema de niveles del personal de interpretación de imágenes de rayos X](https://web.customs.gov.tw/singlehtml/2222?cntId=a742b46ee2954b9e96fca36859f1e9d9) — Nota de prensa oficial de la Administración de Aduanas que publica 368 personas en nivel inicial, 591 en intermedio y 184 en avanzado (a 2023), y el aumento de las incautaciones de drogas de 355 casos en 2018 a 558 en 2023; el documento no aborda la carga de interpretación por persona y hora.
-
 
 [^48]: [Página de EZ WAY 易利委 en la App Store y reseñas de usuarios](https://apps.apple.com/tw/app/ez-way-%E6%98%93%E5%88%A9%E5%A7%94/id1127781971) — Página de la tienda taiwanesa de Apple, con una gran acumulación de reseñas de una estrella centradas en los fallos del reconocimiento del documento de identidad, lo engorroso del registro, los errores de inicio de sesión, la respuesta del servicio de atención y la dificultad de uso para las personas mayores; es el registro público más concentrado de opinión del lado del consumidor.
 
-
 [^49]: [Administración de Aduanas: no hemos dicho que vayamos a reestatalizar EZ WAY sin más](https://www.chinatimes.com/realtimenews/20260803003905-260405) — China Times, 3 de agosto de 2026; registra las respuestas del director general Peng Ying-wei en la Comisión de Finanzas del Yuan Legislativo del 29 de julio de 2026 y la aclaración oficial expresa frente al marco de la «reestatalización».
-
 
 [^50]: [Ministerio de Finanzas: comprar en el extranjero es fácil, pero ojo con la importación frecuente](https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=afd982c0ea7e439a94e3e8df855ef4a2) — Nota de prensa del Ministerio de Finanzas de octubre de 2024 que reitera la exención para valores en aduana de hasta 2.000 NT$ y el criterio de las seis veces por semestre; sirve para constatar que el régimen vigente no se modificó durante el periodo de estudio de 2025-2026.

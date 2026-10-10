@@ -30,6 +30,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:2016TIBE_D3_Wu_Sheng.jpg'
 translatedFrom: 'Art/笠詩社.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:3682e7bff916a9de'
+sourceBodyHash: 'sha256:a39fc5d7615c6869'
 translatedAt: '2026-09-26T11:37:44.601848+00:00'
 ---
 

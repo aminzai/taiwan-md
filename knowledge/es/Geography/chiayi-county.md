@@ -29,6 +29,7 @@ imageNote: '原 Wikimedia 圖檔已從 Commons 下架（404 Not Found），卡�
 translatedFrom: 'Geography/嘉義縣.md'
 sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:92677747f5c5aca7'
+sourceBodyHash: 'sha256:a01c05f219edf7a3'
 translatedAt: '2026-09-24T01:43:52.710987+00:00'
 ---
 
