@@ -20,6 +20,7 @@ readingTime: 6
 translatedFrom: 'Economy/中華菱利.md'
 sourceCommitSha: 'edae9fc94'
 sourceContentHash: 'sha256:c1097b8e22bc556b'
+sourceBodyHash: 'sha256:ad3e4832ac3a2cfe'
 translatedAt: '2026-07-30T05:24:16.801751+00:00'
 ---
 

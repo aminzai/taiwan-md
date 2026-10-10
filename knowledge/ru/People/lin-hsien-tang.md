@@ -21,6 +21,7 @@ curation: 'incubating'
 translatedFrom: 'People/林獻堂.md'
 sourceCommitSha: '7fa2d9630'
 sourceContentHash: 'sha256:7f7dea58a093fcc2'
+sourceBodyHash: 'sha256:fd90a845acbf3ca4'
 translatedAt: '2026-09-11T23:23:57.426607+00:00'
 ---
 

@@ -11,6 +11,7 @@ lastHumanReview: true
 translatedFrom: 'About/看見台灣引言集.md'
 sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:53f055ce6b8e65e1'
+sourceBodyHash: 'sha256:0d8842cfba541dc2'
 translatedAt: '2026-08-02T16:36:22.701262+00:00'
 ---
 

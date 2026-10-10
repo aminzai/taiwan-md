@@ -21,6 +21,7 @@ readingTime: 12
 translatedFrom: 'People/趙自強.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:42ad61e0b893570f'
+sourceBodyHash: 'sha256:4e53d6d0a41114dd'
 translatedAt: '2026-07-25T07:35:37.428595+00:00'
 ---
 

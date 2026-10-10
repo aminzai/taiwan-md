@@ -28,6 +28,7 @@ curation: 'incubating'
 translatedFrom: 'History/台灣盜版史.md'
 sourceCommitSha: '373a07d35'
 sourceContentHash: 'sha256:43c8ec2f83486e39'
+sourceBodyHash: 'sha256:a195178fa37b285e'
 translatedAt: '2026-09-11T00:35:05.652215+00:00'
 ---
 

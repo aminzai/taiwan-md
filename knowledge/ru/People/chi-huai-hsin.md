@@ -31,6 +31,7 @@ relatedDiary: ['2026-06-27-180207-manual']
 translatedFrom: 'People/紀懷新.md'
 sourceCommitSha: '95f42de83'
 sourceContentHash: 'sha256:5a619f0cc796c527'
+sourceBodyHash: 'sha256:826517ecee263b74'
 translatedAt: '2026-08-05T04:28:22.650560+00:00'
 ---
 

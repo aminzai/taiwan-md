@@ -33,6 +33,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Kinmen_Montage.png'
 translatedFrom: 'Geography/金門縣.md'
 sourceCommitSha: '217edf31a'
 sourceContentHash: 'sha256:3df55177e97b9f1c'
+sourceBodyHash: 'sha256:fd7f3e0d4f2dc9b4'
 translatedAt: '2026-08-09T04:42:32.262615+00:00'
 ---
 

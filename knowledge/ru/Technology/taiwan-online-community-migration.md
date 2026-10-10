@@ -34,6 +34,7 @@ rationale:
 translatedFrom: 'Technology/台灣網路社群遷徙史.md'
 sourceCommitSha: '56f4d6f85'
 sourceContentHash: 'sha256:a4422796c61c1b2e'
+sourceBodyHash: 'sha256:b5c758f914dccaf4'
 translatedAt: '2026-09-25T23:33:15.037290+00:00'
 ---
 

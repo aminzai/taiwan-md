@@ -34,6 +34,7 @@ lifeTree: '{''protagonist'': ''壞特?te（林芝儀）'', ''birthYear'': 1994, 
 translatedFrom: 'People/壞特.md'
 sourceCommitSha: 'dd39065b2'
 sourceContentHash: 'sha256:67d7cdf3a4bcd692'
+sourceBodyHash: 'sha256:f96db07a5b8f044c'
 translatedAt: '2026-09-20T14:04:48.561710+00:00'
 ---
 

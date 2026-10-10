@@ -37,6 +37,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Aerial_photographs_of_Dihu
 translatedFrom: 'Geography/大稻埕.md'
 sourceCommitSha: '31a05c44b'
 sourceContentHash: 'sha256:a74434c8289b52c5'
+sourceBodyHash: 'sha256:4f2293becc2b45da'
 translatedAt: '2026-08-09T21:05:16.277525+00:00'
 ---
 

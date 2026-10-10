@@ -28,6 +28,7 @@ sporeLinks:
 translatedFrom: 'People/賈永婕.md'
 sourceCommitSha: 'dd39065b2'
 sourceContentHash: 'sha256:ef77f1a4a4a50fce'
+sourceBodyHash: 'sha256:3a5ef98d636f1bfa'
 translatedAt: '2026-08-09T22:56:54.504394+00:00'
 ---
 

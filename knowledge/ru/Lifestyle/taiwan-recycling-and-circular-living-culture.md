@@ -23,6 +23,7 @@ curation: 'incubating'
 translatedFrom: 'Lifestyle/台灣回收與資源循環文化.md'
 sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:42870bf136abc081'
+sourceBodyHash: 'sha256:258baccfb653bebb'
 translatedAt: '2026-08-04T07:47:28.915337+00:00'
 ---
 

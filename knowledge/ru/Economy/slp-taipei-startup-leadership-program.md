@@ -26,6 +26,7 @@ imageSource: 'https://slptaipei.com/'
 translatedFrom: 'Economy/SLP台北創業領導計畫.md'
 sourceCommitSha: '7255b3ab1'
 sourceContentHash: 'sha256:9bdb791d8649c130'
+sourceBodyHash: 'sha256:e213a0f35315b401'
 translatedAt: '2026-09-25T09:59:54.449350+00:00'
 ---
 

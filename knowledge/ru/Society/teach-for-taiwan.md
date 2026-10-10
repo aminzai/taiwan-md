@@ -23,6 +23,7 @@ readingTime: 12
 translatedFrom: 'Society/為台灣而教TFT.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:c054d9746f242fef'
+sourceBodyHash: 'sha256:2ed9c66e6cdd44d6'
 translatedAt: '2026-08-03T21:54:21.374643+00:00'
 ---
 

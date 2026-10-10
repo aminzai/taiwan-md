@@ -20,6 +20,7 @@ featured: false
 translatedFrom: 'History/823砲戰.md'
 sourceCommitSha: '7b73ad150'
 sourceContentHash: 'sha256:ff604a79f8320b85'
+sourceBodyHash: 'sha256:438d4ba6b831a508'
 translatedAt: '2026-09-11T03:20:00.238688+00:00'
 ---
 

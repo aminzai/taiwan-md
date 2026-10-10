@@ -40,6 +40,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwan%27s_Sunflower_Movem
 translatedFrom: 'Music/台灣流行音樂.md'
 sourceCommitSha: '1e1040928'
 sourceContentHash: 'sha256:4517347444f75a1c'
+sourceBodyHash: 'sha256:eb706bc3431ec070'
 translatedAt: '2026-09-24T05:35:14.656141+00:00'
 ---
 

@@ -23,6 +23,7 @@ curation: 'incubating'
 translatedFrom: 'Society/沃草.md'
 sourceCommitSha: '2b7a2adcd'
 sourceContentHash: 'sha256:70098b78e6d1d7cd'
+sourceBodyHash: 'sha256:f303227e993d74f0'
 translatedAt: '2026-09-12T05:30:05.312540+00:00'
 ---
 

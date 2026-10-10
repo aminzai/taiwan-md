@@ -22,6 +22,7 @@ curation: 'incubating'
 translatedFrom: 'Society/學測.md'
 sourceCommitSha: '4a95859b1'
 sourceContentHash: 'sha256:70f67e9c812463d2'
+sourceBodyHash: 'sha256:52e4b8f287c1b0bb'
 translatedAt: '2026-09-12T22:20:24.177152+00:00'
 ---
 

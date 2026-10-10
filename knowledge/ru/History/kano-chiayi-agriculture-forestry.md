@@ -14,6 +14,7 @@ lastHumanReview: false
 translatedFrom: 'History/嘉義農林.md'
 sourceCommitSha: '7147bb94b'
 sourceContentHash: 'sha256:4a36332de3715b33'
+sourceBodyHash: 'sha256:01899a9de634067d'
 translatedAt: '2026-09-12T02:54:11.830340+00:00'
 ---
 

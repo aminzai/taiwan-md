@@ -21,6 +21,7 @@ readingTime: 8
 translatedFrom: 'History/消失的遊樂園.md'
 sourceCommitSha: 'edae9fc94'
 sourceContentHash: 'sha256:b2e6141f09c44118'
+sourceBodyHash: 'sha256:67b3b53be583f748'
 translatedAt: '2026-07-30T16:31:03.712060+00:00'
 ---
 
