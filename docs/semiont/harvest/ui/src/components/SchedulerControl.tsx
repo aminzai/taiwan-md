@@ -138,7 +138,7 @@ function Inner() {
               {(c) => (
                 <button
                   type="button"
-                  class={`text-xs px-1.5 py-0.5 rounded border transition-colors ${
+                  class={`text-xs px-1.5 py-0.5 rounded-sm border transition-colors ${
                     cfgQ.data?.intervalSec === c.sec
                       ? 'border-accent-green text-accent-green bg-accent-green/10'
                       : 'border-line text-text-muted hover:border-accent-green/40'
@@ -163,7 +163,7 @@ function Inner() {
               {(n) => (
                 <button
                   type="button"
-                  class={`text-xs px-1.5 py-0.5 rounded border transition-colors ${
+                  class={`text-xs px-1.5 py-0.5 rounded-sm border transition-colors ${
                     cfgQ.data?.maxConcurrent === n
                       ? 'border-accent-green text-accent-green bg-accent-green/10'
                       : 'border-line text-text-muted hover:border-accent-green/40'
@@ -188,7 +188,7 @@ function Inner() {
               fallback={
                 <button
                   type="button"
-                  class="text-xs px-2 py-0.5 rounded border border-line hover:border-accent-green text-accent-green-soft"
+                  class="text-xs px-2 py-0.5 rounded-sm border border-line hover:border-accent-green text-accent-green-soft"
                   disabled={resumeMut.isPending}
                   onClick={() => resumeMut.mutate()}
                 >
@@ -198,7 +198,7 @@ function Inner() {
             >
               <button
                 type="button"
-                class="text-xs px-2 py-0.5 rounded border border-line hover:border-accent-red text-text-muted hover:text-accent-red"
+                class="text-xs px-2 py-0.5 rounded-sm border border-line hover:border-accent-red text-text-muted hover:text-accent-red"
                 disabled={pauseMut.isPending}
                 onClick={() => pauseMut.mutate()}
               >
@@ -207,7 +207,7 @@ function Inner() {
             </Show>
             <button
               type="button"
-              class="text-xs px-2 py-0.5 rounded border border-line hover:border-accent-blue text-text-muted hover:text-accent-blue"
+              class="text-xs px-2 py-0.5 rounded-sm border border-line hover:border-accent-blue text-text-muted hover:text-accent-blue"
               disabled={scanMut.isPending}
               onClick={() => scanMut.mutate()}
               title="scan ARTICLE-INBOX"

@@ -299,7 +299,7 @@ function SpawnRow(props: {
 
   return (
     <li
-      class={`flex items-center gap-2 px-2 py-1.5 rounded border cursor-pointer transition-colors ${
+      class={`flex items-center gap-2 px-2 py-1.5 rounded-sm border cursor-pointer transition-colors ${
         props.active
           ? 'border-accent-amber/40 bg-accent-amber/5'
           : 'border-transparent hover:border-line hover:bg-bg-raised'

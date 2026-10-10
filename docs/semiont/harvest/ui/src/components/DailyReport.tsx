@@ -81,7 +81,7 @@ function Inner() {
       </Show>
 
       <Show when={!q.isPending && !q.data}>
-        <div class="text-sm text-text-muted py-6 text-center border border-dashed border-line rounded">
+        <div class="text-sm text-text-muted py-6 text-center border border-dashed border-line rounded-sm">
           {date()} 還沒有 report — 試試 re-generate
         </div>
       </Show>

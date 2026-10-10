@@ -116,7 +116,7 @@ function Inner() {
                             <span class="text-text-muted">commits:</span>{' '}
                             <For each={latest.commits ?? []}>
                               {(c) => (
-                                <code class="ml-1 px-1.5 py-0.5 bg-bg-raised rounded text-accent-green-soft">
+                                <code class="ml-1 px-1.5 py-0.5 bg-bg-raised rounded-sm text-accent-green-soft">
                                   {c.slice(0, 8)}
                                 </code>
                               )}

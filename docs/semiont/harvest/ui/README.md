@@ -9,7 +9,7 @@ Astro + Solid.js islands dashboard for the Taiwan.md Harvest engine
 - **Astro 5** — multi-page shell, SSR-by-default with islands for interactivity
 - **Solid.js** islands (`client:load`) — fine-grained reactivity, ~5x lighter than React
 - **TanStack Query (Solid)** — all data fetching, polling, retries, cache
-- **Tailwind CSS** — utility-only styling, dark theme tokens in `tailwind.config.mjs`
+- **Tailwind CSS v4** — utility-only styling via `@tailwindcss/vite`; dark theme tokens live in `@theme` inside `src/styles/global.css`
 - **ECharts** — radar (organ harmony) + line chart (history)
 - **marked** — daily report markdown rendering
 - **Bun** — package manager + runtime
@@ -70,7 +70,6 @@ CORS for `localhost:*` is enabled in the backend.
 ```
 ui/
 ├── astro.config.mjs
-├── tailwind.config.mjs
 ├── tsconfig.json
 ├── package.json
 ├── public/
