@@ -160,10 +160,10 @@ Chen Zhi-peng dit qu'il « ne veut pas que les autres le remettent dedans ». Ma
 
 **Pour aller plus loin** :
 
-- [Musique pop taïwanaise](/music/台灣流行音樂) — De la chanson folklorique à la pop mandarin, jusqu'à l'industrie des idoles, toute la脉络 ; les Petits Tigres en sont un maillon clé
-- [Golden Melody Awards](/music/金曲獎) — Comment Taïwan utilise un trophée pour définir ce qu'est une « bonne musique pop sinophone »
-- [Jay Chou](/people/周杰倫) — Après l'industrie des idoles, l'autre subjectivité musicale pop sinophone qui a émergé de Taïwan
-- [Mayday](/music/五月天) — Un groupe ayant également commencé localement et connu un succès dans tout le cercle sinophone, une autre voie radicalement différente des groupes d'idoles
+- [Musique pop taïwanaise](/fr/music/golden-melodies-legacy-taiwan-pop-music) — De la chanson folklorique à la pop mandarin, jusqu'à l'industrie des idoles, toute la脉络 ; les Petits Tigres en sont un maillon clé
+- [Golden Melody Awards](/fr/music/pop-music-and-golden-melody-awards) — Comment Taïwan utilise un trophée pour définir ce qu'est une « bonne musique pop sinophone »
+- [Jay Chou](/fr/people/jay-chou) — Après l'industrie des idoles, l'autre subjectivité musicale pop sinophone qui a émergé de Taïwan
+- [Mayday](/fr/music/mayday-band) — Un groupe ayant également commencé localement et connu un succès dans tout le cercle sinophone, une autre voie radicalement différente des groupes d'idoles
 
 ## Sources des images
 

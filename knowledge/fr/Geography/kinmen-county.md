@@ -195,17 +195,17 @@ Regardez ceux qui attendent d'embarquer : des habitants de Kinmen allant à Xiam
 
 ## Lectures complémentaires
 
-- [Comté de Lienchiang](/geography/連江縣) — Frère de la série 22 comtés et villes, l'autre comté insulaire du Fujian. Même gouvernement militaire en 1956, abrogé en 1992, Petit Trois-connexions en 2001, mais parle min oriental fuzhouhua, à 50 km de Fuzhou, pas de bataille terrestre à l'échelle de Gulin, même système, os et chair différents
-- [Ville de Keelung](/geography/基隆市) — Pilote de la série 22 comtés et villes, seul port en eau profonde du nord vs forteresse de défense côtière au sud de Kinmen, deux chronologies de ports taïwanais
-- [Comté de Penghu](/geography/澎湖縣) — Troisième comté du groupe insulaire de la série 22 comtés et villes, comté insulaire comme Kinmen mais avec une histoire de colonisation japonaise, peut comparer la différence de Kinmen n'ayant jamais été directement administré par les Japonais
-- [Zheng Chenggong](/people/鄭成功) — Levé des troupes en 1646 à Kinmen pour renverser les Qing et restaurer les Ming, la décision de cette personne de partir de Kinmen a ensuite changé le Taiwan
-- [Tchang Kaï-chek](/people/蔣中正) — Inscription « N'oubliez pas Juguang » sur le mont Taiwu en 1958, décideur ordonnant la défense désespérée de Kinmen en 1949
-- [Période de loi martiale](/history/戒嚴時期) — Taiwan continental levé la loi martiale en 1987, Kinmen et Matsu n'ont abrogé le gouvernement militaire qu'en 1992, cette article à comparer montre les deux versions de la loi martiale
-- [Crise de la mer de Taiwan et développement des relations entre les deux rives](/history/台海危機與兩岸關係發展) — La bataille du 22 août est l'une des preuves physiques les plus concrètes de la Guerre froide chaude, la section « 17 h 30 » de cet article est l'extension de comté de cette article
-- [Modernisation de la défense nationale et militaire du Taiwan](/society/台灣國防與軍事現代化) — L'évolution de la garnison militaire de Kinmen de 50 à 100 000 à moins de 10 000 aujourd'hui, à comparer avec la trajectoire de modernisation globale de l'Armée nationale
-- [Caractéristiques géographiques et formation des îles du Taiwan](/geography/台灣島嶼地理特色與形成) — Comparaison de la géologie granitique de Kinmen avec les mécanismes de formation des autres îles du Taiwan
-- [Légendes de Mazu et du Grand Seigneur de la Voie](/culture/媽祖與大道公的傳說) — La croyance minnan de Kinmen a la même source que le Taiwan continental, différence avec la légende du trou spirituel du temple de Mazu de Matsu
-- [Île d'art internationale de Matsu](/art/馬祖國際藝術島) — Le comté de Lienchiang transforme les tunnels de guerre et les salles de thé militaires en un projet d'exposition de dix ans, la transformation de guerre de Kinmen suit un chemin différent, peut comparer comment les deux îles frontalières gèrent le même héritage
+- [Comté de Lienchiang](/fr/geography/lienchiang-county) — Frère de la série 22 comtés et villes, l'autre comté insulaire du Fujian. Même gouvernement militaire en 1956, abrogé en 1992, Petit Trois-connexions en 2001, mais parle min oriental fuzhouhua, à 50 km de Fuzhou, pas de bataille terrestre à l'échelle de Gulin, même système, os et chair différents
+- [Ville de Keelung](/fr/geography/keelung-city) — Pilote de la série 22 comtés et villes, seul port en eau profonde du nord vs forteresse de défense côtière au sud de Kinmen, deux chronologies de ports taïwanais
+- [Comté de Penghu](/fr/geography/penghu-county) — Troisième comté du groupe insulaire de la série 22 comtés et villes, comté insulaire comme Kinmen mais avec une histoire de colonisation japonaise, peut comparer la différence de Kinmen n'ayant jamais été directement administré par les Japonais
+- [Zheng Chenggong](/fr/people/koxinga) — Levé des troupes en 1646 à Kinmen pour renverser les Qing et restaurer les Ming, la décision de cette personne de partir de Kinmen a ensuite changé le Taiwan
+- [Tchang Kaï-chek](/fr/people/chiang-kai-shek) — Inscription « N'oubliez pas Juguang » sur le mont Taiwu en 1958, décideur ordonnant la défense désespérée de Kinmen en 1949
+- [Période de loi martiale](/fr/history/martial-law-era) — Taiwan continental levé la loi martiale en 1987, Kinmen et Matsu n'ont abrogé le gouvernement militaire qu'en 1992, cette article à comparer montre les deux versions de la loi martiale
+- [Crise de la mer de Taiwan et développement des relations entre les deux rives](/fr/history/taiwan-strait-crises-and-cross-strait-relations) — La bataille du 22 août est l'une des preuves physiques les plus concrètes de la Guerre froide chaude, la section « 17 h 30 » de cet article est l'extension de comté de cette article
+- [Modernisation de la défense nationale et militaire du Taiwan](/fr/society/taiwan-defense-modernization) — L'évolution de la garnison militaire de Kinmen de 50 à 100 000 à moins de 10 000 aujourd'hui, à comparer avec la trajectoire de modernisation globale de l'Armée nationale
+- [Caractéristiques géographiques et formation des îles du Taiwan](/fr/geography/geography-and-geology) — Comparaison de la géologie granitique de Kinmen avec les mécanismes de formation des autres îles du Taiwan
+- [Légendes de Mazu et du Grand Seigneur de la Voie](/fr/culture/mazu-dadaogong-legend) — La croyance minnan de Kinmen a la même source que le Taiwan continental, différence avec la légende du trou spirituel du temple de Mazu de Matsu
+- [Île d'art internationale de Matsu](/fr/art/matsu-biennial) — Le comté de Lienchiang transforme les tunnels de guerre et les salles de thé militaires en un projet d'exposition de dix ans, la transformation de guerre de Kinmen suit un chemin différent, peut comparer comment les deux îles frontalières gèrent le même héritage
 
 ## Sources des images
 

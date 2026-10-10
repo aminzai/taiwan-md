@@ -233,7 +233,7 @@ Il a fallu dix ans à Taïwan pour apprendre à ouvrir les portes. Apprendre à 
 - [Crise de la baisse de la natalité au Taïwan](/fr/society/taiwan-low-birth-rate-crisis) — La mur de la baisse de la natalité qui a fait tomber les universités : comment il s’est formé et où il va
 - [Système éducatif et culture d’admission](/fr/society/education-system-and-admissions-culture) — Les examens d’entrée et le culte de l’admission : c’est précisément pourquoi les universités ont multiplié les débouchés
 - [La pauvreté éducative](/fr/society/learning-poverty-in-taiwan) — Après la généralisation de l’enseignement supérieur, où se cache-t-elle vraiment la fracture pédagogique ?
-- [L’Institut de recherche centrale](/society/中央研究院) — Cet organisme qui n’a ni besoin de recruter ni d’enseigner, dont la légitimité est inscrite directement dans la loi organique du Bureau présidentiel, et qui illustre la relative précarité perçue par les universités
+- [L’Institut de recherche centrale](/fr/society/academia-sinica) — Cet organisme qui n’a ni besoin de recruter ni d’enseigner, dont la légitimité est inscrite directement dans la loi organique du Bureau présidentiel, et qui illustre la relative précarité perçue par les universités
 
 ---
 

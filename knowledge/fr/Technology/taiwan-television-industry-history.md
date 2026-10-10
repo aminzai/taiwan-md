@@ -159,7 +159,7 @@ Si, en 2050, quelqu'un voulait savoir ce que l'industrie télévisuelle taïwana
 
 **Lecture complémentaire** :
 
-- [Prix du Golden Bell](/culture/金鐘獎) — Les trois grands y ont dominé pendant dix-sept ans, PTS et les chaînes câblées ont été récompensés, et l'arrivée de Netflix a marqué une nouvelle ère pour les prix décernés aux programmes dramatiques, témoignant de cette histoire industrielle.
+- [Prix du Golden Bell](/fr/culture/golden-bell-awards) — Les trois grands y ont dominé pendant dix-sept ans, PTS et les chaînes câblées ont été récompensés, et l'arrivée de Netflix a marqué une nouvelle ère pour les prix décernés aux programmes dramatiques, témoignant de cette histoire industrielle.
 
 ## Références
 

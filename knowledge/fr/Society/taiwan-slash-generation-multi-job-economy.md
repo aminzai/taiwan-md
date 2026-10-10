@@ -138,4 +138,4 @@ Les jeunes Taïwanais ont opté pour la seconde solution. Mais cela ne devrait p
 ## Lectures complémentaires
 
 - [Loi sur les plateformes de livraison](/fr/society/delivery-platform-law) — Ce que la mise en œuvre de la « correction législative tardive » signifie pour les livreurs : quand la base de 45 NT$ par commande se transforme en réalité pour les individus, et les deux questions qu'elle ne répond pas
-- [Qui est considéré comme pauvre ?](/society/誰算低薪) — Le salaire minimum a dépassé le seuil de pauvreté, mais les pauvres l’ont dépassé dans la rubrique des primes de fin d'année. Les travailleurs à temps partiel, les travailleurs indépendants et les travailleurs avec des contrats fragmentés échappent même à cette mesure.
+- [Qui est considéré comme pauvre ?](/fr/society/who-counts-as-low-wage) — Le salaire minimum a dépassé le seuil de pauvreté, mais les pauvres l’ont dépassé dans la rubrique des primes de fin d'année. Les travailleurs à temps partiel, les travailleurs indépendants et les travailleurs avec des contrats fragmentés échappent même à cette mesure.

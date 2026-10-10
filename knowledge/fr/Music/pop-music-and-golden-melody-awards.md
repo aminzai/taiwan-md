@@ -265,7 +265,7 @@ Après trois décennies, les Golden Melody Awards ne décernent pas vraiment des
 - [Les traditions musicales des peuples autochtones de Taïwan](/fr/music/indigenous-music-traditions) — Des chants tribaux à Chen Chien-nien et ABAO, les racines et le contemporain de la musique autochtone
 - [Les auteurs-compositeurs-interprètes autochtones contemporains](/fr/music/contemporary-indigenous-singer-songwriters) — La voix et la situation des créateurs de cette lignée : Chi Hsiao-chun, Panai, ABAO
 - [La musique indépendante de Taïwan](/fr/music/indie-music-scene) — Comment la génération No Party for Cao Dong et StreetVoice a contourné l'industrie du disque pour atteindre le sommet des Golden Melody Awards
-- [Les Golden Bell Awards](/culture/金鐘獎) — La plus ancienne des « trois ors » : forgée en 1965 pour la radio, soixante et un ans de palmarès qui racontent qui tient la télévision à Taïwan
+- [Les Golden Bell Awards](/fr/culture/golden-bell-awards) — La plus ancienne des « trois ors » : forgée en 1965 pour la radio, soixante et un ans de palmarès qui racontent qui tient la télévision à Taïwan
 
 ## Sources des images
 

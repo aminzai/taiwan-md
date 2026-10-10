@@ -401,7 +401,7 @@ La capitalisation boursière de TSMC a franchi la barre des 10 billions de nouve
 - [Shi Zhen-rong](/fr/people/stan-shih) — Fondateur d'Acer, invité à siéger au conseil d'administration de TSMC pendant vingt et un ans, auteur de la « courbe souriante » ; la « production intermédiaire » réalisée par TSMC est précisément la partie la plus rentable de cette courbe
 - [Guo Tai-ming](/fr/people/terry-gou) — Un autre entrepreneur taïwanais ayant changé le monde grâce au modèle de fabrication, Foxconn et TSMC représentent respectivement l'assemblage et la fabrication de puces, deux voies par lesquelles Taïwan a conquis le monde
 - [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — Du transfert technologique de RCA en 1976 au statut de « pilier de la nation », l'ensemble du champ de bataille industriel des semi-conducteurs a été construit par Chang Chung-mou
-- [Huang Zhong-ren](/people/黃崇仁) — L'homme qui a couru vers Chang Chung-mou en 1999 pour empêcher une fusion de Lite-On avec United Microelectronics, une autre voie escarpée dans l'industrie des semi-conducteurs taïwanaise
+- [Huang Zhong-ren](/fr/people/frank-huang-psmc) — L'homme qui a couru vers Chang Chung-mou en 1999 pour empêcher une fusion de Lite-On avec United Microelectronics, une autre voie escarpée dans l'industrie des semi-conducteurs taïwanaise
 - [Transformation et évolution industrielle de Taïwan](/fr/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC est l'exemple le plus concret de la transformation de Taïwan d'une « île de fabrication » à une « île technologique », et le point central de cette évolution de quarante ans
 
 ---

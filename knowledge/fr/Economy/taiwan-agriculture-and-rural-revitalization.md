@@ -232,8 +232,8 @@ Face aux doubles défis de la mondialisation et du changement climatique, l'exp�
 
 ## Lectures complémentaires
 
-- [Les petites et moyennes entreprises et les champions invisibles de Taïwan](/economy/台灣中小企業與隱形冠軍)
-- [Le commerce extérieur et la chaîne d'approvisionnement mondiale de Taïwan](/economy/台灣外貿與全球供應鏈)
+- [Les petites et moyennes entreprises et les champions invisibles de Taïwan](/fr/economy/taiwan-smes-and-hidden-champions)
+- [Le commerce extérieur et la chaîne d'approvisionnement mondiale de Taïwan](/fr/economy/taiwan-foreign-trade-and-global-supply-chain)
 
 ## Références
 

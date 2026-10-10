@@ -166,6 +166,6 @@ Aujourd'hui, lorsque les gens achètent un poisson sur le marché, ils voient le
 
 ## Lectures complémentaires
 
-- [L'origine de la pêche taïwanaise](/history/台灣漁業起源) — La première moitié de la même mer : expériences aquatiques de l'époque coloniale japonaise, marchés aux poissons et réception technique d'après-guerre
+- [L'origine de la pêche taïwanaise](/fr/history/taiwan-fishery-origins) — La première moitié de la même mer : expériences aquatiques de l'époque coloniale japonaise, marchés aux poissons et réception technique d'après-guerre
 - [L'histoire du commerce maritime taïwanais](/fr/history/taiwan-maritime-trade-history)
 - [L'histoire de l'industrie sucrière taïwanaise](/history/台灣糖業史)

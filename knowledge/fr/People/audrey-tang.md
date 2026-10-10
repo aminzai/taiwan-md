@@ -423,7 +423,7 @@ _Signature personnelle d'Audrey Tang publiée en août 2021, initialement destin
 - [Tony Hsiao](/fr/people/tony-hsiao-inside-founder) — Co-fondateur de INSIDE et Ai Liao Li, il définit également son rôle dans la sphère technologique taïwanaise en « traversant plusieurs domaines ».
 - [Tai Yu Wu](/fr/people/tai-yu-wu) — La transmission des élites du savoir taïwanaises, de la science à la technologie : Tai Yu Wu a jeté les bases du système de recherche scientifique taïwanais en tant que directeur de l'Academia Sinica.
 - [Fondation pour la culture ouverte](/fr/technology/open-culture-foundation) — Une fondation qui est passée d'un tableau de bord de comptabilité g0v à un pont des droits numériques taïwanais, interagissant à plusieurs reprises avec le ministère du développement dirigé par Tang Feng, tant en collaboration qu'en surveillance.
-- [La pandémie de COVID à Taïwan et les vaccins](/society/台灣新冠疫情與疫苗) — Dans quel type d'épidémie se trouvait la chaîne de coordination de la carte des masques, ainsi que ces dix-huit mois où Taïwan a obtenu ses masques grâce aux frontières.
+- [La pandémie de COVID à Taïwan et les vaccins](/fr/society/taiwan-covid-pandemic-and-vaccines) — Dans quel type d'épidémie se trouvait la chaîne de coordination de la carte des masques, ainsi que ces dix-huit mois où Taïwan a obtenu ses masques grâce aux frontières.
 
 ## Sources des images
 

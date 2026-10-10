@@ -126,7 +126,7 @@ Il y a 160 ans, Swinhoe écrivait le mot « rare » à Tamsui. Aujourd'hui, nous
 - [Les écosystèmes forestiers de Taïwan](/fr/nature/taiwan-forest-ecosystems) — L'habitat originel du Bihoreau malais en forêt de feuillus de basse altitude, pour comprendre le contraste avec son urbanisation.
 - [Le Macaque de Formose](/fr/nature/formosan-rock-macaque) — Un autre cas d'animal sauvage pénétrant dans les zones d'activité humaine, mais à l'inverse du Bihoreau malais : ici, l'humain rencontre constamment l'animal sur sa route.
 - [Espèces endémiques](/fr/nature/endemic-species) — Le Bihoreau malais n'est pas une espèce endémique de Taïwan, mais l'ampleur de l'expansion de sa population urbaine à Taïwan est unique au monde.
-- [Les arbres d'alignement à Taïwan](/lifestyle/台灣行道樹) — Les alignements de camphriers et de banyans matures depuis les années 1990, fragments de forêts de feuillus de basse altitude insérés dans le béton, représentent l'autre face de l'habitat urbanisé du Bihoreau malais.
+- [Les arbres d'alignement à Taïwan](/fr/lifestyle/taiwan-street-trees) — Les alignements de camphriers et de banyans matures depuis les années 1990, fragments de forêts de feuillus de basse altitude insérés dans le béton, représentent l'autre face de l'habitat urbanisé du Bihoreau malais.
 
 ## Crédits photographiques
 

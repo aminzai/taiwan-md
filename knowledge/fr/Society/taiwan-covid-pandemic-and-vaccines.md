@@ -386,7 +386,7 @@ Les fils qui restent à démêler sont tout aussi clairs. L'affaire de fraude vi
 - [Les travailleurs migrants](/fr/society/migrant-workers-in-taiwan) — Le contexte structurel de l'épisode du confinement de Miaoli : les conditions de travail et de logement de sept cent mille personnes à Taïwan
 - [Audrey Tang](/fr/people/audrey-tang) — La ministre sans portefeuille au bout de la chaîne de coordination de la carte des masques, et le lien entre la civic tech et l'ouverture des données publiques
 - [Le système taïwanais de médecine des catastrophes](/fr/technology/taiwan-disaster-medicine-system) — Le contexte institutionnel derrière les unités COVID dédiées et l'engorgement des urgences
-- [Academia Sinica](/society/中央研究院) — L'institution qui a mis au point en dix-neuf jours un anticorps monoclonal capable de reconnaître le SARS-CoV-2, et le système qui l'a poussée à faire vite
+- [Academia Sinica](/fr/society/academia-sinica) — L'institution qui a mis au point en dix-neuf jours un anticorps monoclonal capable de reconnaître le SARS-CoV-2, et le système qui l'a poussée à faire vite
 
 ## Sources des images
 

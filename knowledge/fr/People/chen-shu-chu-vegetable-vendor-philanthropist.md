@@ -93,9 +93,9 @@ En 2025, l'université de Taidong lui a décerné un doctorat honoris causa. Ell
 
 ## Lectures complémentaires
 
-- [Culture des marchés taïwanais et marchés traditionnels](/lifestyle/台灣市場文化與傳統市場) — Le marché central de Taidong, où Chen Shu-chu a vendu pendant cinquante ans, fait partie de cet écosystème de marché traditionnel.
-- [Culture du bénévolat et participation caritative à Taïwan](/society/台灣志工文化與公益參與) — Deux exemples de la philanthropie populaire taïwanaise, allant de Tzu Chi (certifié par le maître Cheng Yen) au stand de légumes de Chen Shu-chu.
-- [Éducation rurale à Taïwan](/society/台灣偏鄉教育) — Les principaux domaines de dons de Chen Shu-chu : un soutien à long terme pour les bibliothèques, les écoles et les orphelinats.
+- [Culture des marchés taïwanais et marchés traditionnels](/fr/lifestyle/taiwan-traditional-markets-and-market-culture) — Le marché central de Taidong, où Chen Shu-chu a vendu pendant cinquante ans, fait partie de cet écosystème de marché traditionnel.
+- [Culture du bénévolat et participation caritative à Taïwan](/fr/society/volunteering-and-civic-charity-in-taiwan) — Deux exemples de la philanthropie populaire taïwanaise, allant de Tzu Chi (certifié par le maître Cheng Yen) au stand de légumes de Chen Shu-chu.
+- [Éducation rurale à Taïwan](/fr/society/taiwan-rural-education) — Les principaux domaines de dons de Chen Shu-chu : un soutien à long terme pour les bibliothèques, les écoles et les orphelinats.
 
 ## Références
 

@@ -218,9 +218,9 @@ Le spectre a été redessiné, mais personne ne l'a officiellement annoncé. Les
 
 ## Lecture complémentaire
 
-- [Résolution sur l'avenir de Taïwan](/history/resolution-on-taiwans-future/) — L'ancre académique décisive du discours pro-Chine en 1999, le point de départ des deux mots « actuellement » par Lin Zhuo-shui
-- [Tsai Ing-wen](/people/tsai-ing-wen) — Proposatrice du concept de travail « Taïwan (République de Chine) », représentante du sous-spectre pro-ROC
-- [Lai Ching-te](/people/lai-ching-te) — Exécutant du discours pro-Chine sur la « non subordonnation des deux rives », personnage principal de la déclaration des trois noms le 20/05
+- [Résolution sur l'avenir de Taïwan](/fr/history/resolution-on-taiwans-future/) — L'ancre académique décisive du discours pro-Chine en 1999, le point de départ des deux mots « actuellement » par Lin Zhuo-shui
+- [Tsai Ing-wen](/fr/people/tsai-ing-wen) — Proposatrice du concept de travail « Taïwan (République de Chine) », représentante du sous-spectre pro-ROC
+- [Lai Ching-te](/fr/people/lai-ching-te) — Exécutant du discours pro-Chine sur la « non subordonnation des deux rives », personnage principal de la déclaration des trois noms le 20/05
 - [Élections et politique partisane à Taïwan](/history/taiwans-elections-et-politique-partisane) — Le contexte plus large dans lequel le spectre unité/sécession remodèle les lignes bleu et verte en fonction des élections
 - [Transition démocratique de Taïwan](/history/taiwans-transition-democratique) — Contexte historique de l'émergence du spectre unité/sécession : du régime à parti unique aux élections compétitives
 - [Crise trans-détroit et développement des relations sino-taïwanaises](/history/crise-trans-detroit-et-developpement-des-relations-sino-taiwanaises) — La trajectoire à long terme sous la pression constante des forces extérieures du spectre unité/sécession

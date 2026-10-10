@@ -108,7 +108,7 @@ Si le _Qunxinghui_ (群星會) en 1962 a emmené les cabarets dans le salon, alo
 ## Lectures complémentaires
 
 - [Lin Youjia](/fr/people/yoga-lin) — Champion du premier concours _Super Star Road_ (超級星光大道) en 2007, un cas emblématique du mécanisme de création de stars télévisuelles taïwanaises.
-- [Golden Bell Awards](/culture/金鐘獎) — Le prix décerné chaque année lors des cérémonies de catégorie pour les programmes de variétés, qui est passé d'un prix purement radiophonique en 1965 à trois cérémonies aujourd'hui.
+- [Golden Bell Awards](/fr/culture/golden-bell-awards) — Le prix décerné chaque année lors des cérémonies de catégorie pour les programmes de variétés, qui est passé d'un prix purement radiophonique en 1965 à trois cérémonies aujourd'hui.
 
 ## Références
 

@@ -303,8 +303,8 @@ Cette voie n'est pas parfaite : le manque de talents en recherche IA avancée pe
 
 **Lectures complémentaires** :
 
-- [Wu Zheyu (吳哲宇)](/people/吳哲宇) — Comment les artistes des nouveaux médias maintiennent leur rôle de maître horloger à l'« ère du déluge IA », une perspective créative en dehors de l'industrie de l'IA.
-- [École d'intelligence artificielle à Taïwan](/technology/台灣人工智慧學校) — En regardant la « descente » de Chen Sheng-wei et le financement participatif privé de 180 millions, on voit comment la ligne de production des talents en dehors de la stratégie IA gouvernementale se complète.
+- [Wu Zheyu (吳哲宇)](/fr/people/che-yu-wu) — Comment les artistes des nouveaux médias maintiennent leur rôle de maître horloger à l'« ère du déluge IA », une perspective créative en dehors de l'industrie de l'IA.
+- [École d'intelligence artificielle à Taïwan](/fr/technology/taiwan-ai-academy) — En regardant la « descente » de Chen Sheng-wei et le financement participatif privé de 180 millions, on voit comment la ligne de production des talents en dehors de la stratégie IA gouvernementale se complète.
 
 ## Références
 

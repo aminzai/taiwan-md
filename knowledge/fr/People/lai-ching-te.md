@@ -165,9 +165,9 @@ Depuis sa prise de fonction, la question de la diplomatie a également suscité 
 **Lecture complémentaire** :
 
 - [Réunion de 2026 entre Zheng Xishu et Xi Jinping : les dix minutes d’un rendez-vous entre dirigeants communistes et nationalistes après dix ans](/society/2026%E9%84%AD%E7%BF%85%E6%9C%9F%E8%81%AF%E7%9B%9B%E5%9F%BA%E4%BA%94%E5%B9%B4%E5%86%8D%E9%9D%A2) — l’autre acteur de cette pièce, celui qui a été intentionnellement laissé hors champ
-- [Hsiao Mei-chih](/people/蕭美琴) — la vice-présidente de Lai Ching-te, passée de la représentante de Taïwan aux États-Unis à la vice-présidente combative
+- [Hsiao Mei-chih](/fr/people/hsiao-bi-khim) — la vice-présidente de Lai Ching-te, passée de la représentante de Taïwan aux États-Unis à la vice-présidente combative
 - [Défense nationale et modernisation militaire de Taïwan](/society/%E5%8F%B0%E7%81%A3%E5%9C%8B%E9%98%B2%E8%88%87%E5%85%B1%E8%AD%B0%E7%8E%89%E7%90%83%E5%8C%96) — la politique la plus emblématique du mandat de Lai Ching-te : un budget spécial de 1,25 billion de NT$ et l’arrivée d’une escadrons de chars M1A2T
-- [Transition démocratique de Taïwan](/history/台灣民主轉型) — le simple fait qu’un fils de mineur puisse devenir président est lui-même le fruit de la transition démocratique
+- [Transition démocratique de Taïwan](/fr/history/taiwan-democratization) — le simple fait qu’un fils de mineur puisse devenir président est lui-même le fruit de la transition démocratique
 - [Li Yang](/people/%E6%9D%B1%E6%B3%B0) — le plus jeune membre du gouvernement jamais nommé par Lai Ching-te, ministre des Sports
 - [Shen Bozhi](/people/%E6%B2%96%E4%BC%AF%E6%B4%9B) — député non titulaire du Parti démocrate progressiste inscrit sur la liste des « séparatistes indépendantistes », est le premier homme politique taïwanais élu à être poursuivi par la Chine continentale pour crime de sécession
 - [Zhu Rongtai](/people/%E7%BF%81%E5%AE%89%E5%A4%AA) — Premier ministre nommé par Lai Ching-te en 2024, coordinateur de 38 ans, devenant en décembre 2025 le premier Premier ministre à ne pas être nommé par le président

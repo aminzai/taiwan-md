@@ -127,9 +127,9 @@ Ce que l'histoire de la radio taïwanaise laisse de plus précieux, ce n'est pas
 
 ## Lectures complémentaires
 
-- [Histoire du mouvement des femmes à Taïwan](/society/婦女新知) — Une autre histoire sociale passant du contrôle institutionnel à la parole publique
-- [Histoire de la poste taïwanaise](/lifestyle/台灣郵政) — Comment les infrastructures de communication sont entrées dans le quotidien local
-- [Histoire des associations agricoles taïwanaises](/history/台灣農會史) — Histoire institutionnelle des organisations rurales, de la finance et des fenêtres publiques locales
+- [Histoire du mouvement des femmes à Taïwan](/fr/society/awakening-foundation) — Une autre histoire sociale passant du contrôle institutionnel à la parole publique
+- [Histoire de la poste taïwanaise](/fr/lifestyle/taiwan-postal-service-history) — Comment les infrastructures de communication sont entrées dans le quotidien local
+- [Histoire des associations agricoles taïwanaises](/fr/history/taiwan-farmers-association-history) — Histoire institutionnelle des organisations rurales, de la finance et des fenêtres publiques locales
 
 ## Références
 

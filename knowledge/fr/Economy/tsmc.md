@@ -242,7 +242,7 @@ Personne n'avait planifié une transition de cette ampleur. Pourtant, lors de la
 - [Transformation industrielle de Taïwan](/fr/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC est l'exemple concret du passage de Taïwan d'une île de sous-traitance à une île technologique.
 - [Shi Zhenrong](/fr/people/stan-shih) — Fondateur d'Acer, administrateur de TSMC pendant 21 ans, dont la fortune était massivement investie dans les actions de TSMC, mais qui est l'auteur de la courbe en "J" prônant que Taïwan ne doit pas se contenter de la sous-traitance.
 - [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — De la technologie RCA à la révolution des matériaux (nitrure de gallium et packaging quantique), le champ de bataille de la science des matériaux où se situe TSMC.
-- [Hung Jui-ren](/people/黃崇仁) — Fondateur de VISiLeap/Vanguard, une autre voie sur la même île : fabrication de plaquettes, ayant connu des dettes massives avant de revenir en bourse neuf ans plus tard.
+- [Hung Jui-ren](/fr/people/frank-huang-psmc) — Fondateur de VISiLeap/Vanguard, une autre voie sur la même île : fabrication de plaquettes, ayant connu des dettes massives avant de revenir en bourse neuf ans plus tard.
 
 ## Sources des images
 

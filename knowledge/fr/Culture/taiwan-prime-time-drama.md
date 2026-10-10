@@ -66,7 +66,7 @@ Placer les séries télévisées taïwanaises en prime time sur la scène intern
 
 **Lectures complémentaires** :
 
-- [Prix Golden Bell](/culture/金鐘獎) — À l'époque de « Les étoiles me connaissent » et « Bao Qingtian », les gagnants du prix des programmes dramatiques provenaient uniquement de TAI, CTV ou HTV.
+- [Prix Golden Bell](/fr/culture/golden-bell-awards) — À l'époque de « Les étoiles me connaissent » et « Bao Qingtian », les gagnants du prix des programmes dramatiques provenaient uniquement de TAI, CTV ou HTV.
 
 ## Sources
 

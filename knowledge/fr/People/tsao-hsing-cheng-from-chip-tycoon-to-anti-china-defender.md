@@ -70,7 +70,7 @@ Aujourd’hui encore, Cao Xingcheng incarne un stratège hors du commun. Passant
 **Lecture complémentaire :**
 
 - [Zhang Zhongmou](/fr/people/tsmc-morris-chang) — L'autre figure de la controverse sur l'origine de la fabrication de circuits sur mesure, chacun ayant son propre récit sur qui a eu l'idée en premier
-- [Huang Zhongren](/people/黃崇仁) — En fin d'années 1990, UMC envisageait d'intégrer Force Mosmann dans son équipe, ce qui l’amena à chercher l’appui de Zhang Zhongmou lors d’un voyage décisif
+- [Huang Zhongren](/fr/people/frank-huang-psmc) — En fin d'années 1990, UMC envisageait d'intégrer Force Mosmann dans son équipe, ce qui l’amena à chercher l’appui de Zhang Zhongmou lors d’un voyage décisif
 - [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — Le champ de bataille industriel où s'affrontent les deux géants UMC et TSMC
 
 ---

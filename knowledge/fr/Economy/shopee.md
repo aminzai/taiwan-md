@@ -80,7 +80,7 @@ En dix ans à Taïwan, Shopee a radicalement transformé le rythme de consommati
 - [Écosystème du commerce électronique et des paiements numériques](/fr/technology/e-commerce-and-digital-payment-ecosystem) — À quoi ressemble le paysage des paiements où se situe Shopee Pay
 - [Hi-Life](/fr/economy/hilife-convenience-store) — Cette enseigne historique dépassée par les points de retrait : comment gère-t-elle sa propre guerre du retrait ?
 - [Culture des magasins de proximité à Taïwan](/fr/lifestyle/convenience-store-culture) — Pourquoi les _convenience stores_ sont devenus des infrastructures publiques à Taïwan
-- [Système douanier taïwanais et EZWAY](/lifestyle/台灣海關報關制度與EZWAY) — L'étape cruciale avant l'arrivée des colis transfrontaliers
+- [Système douanier taïwanais et EZWAY](/fr/lifestyle/ezway) — L'étape cruciale avant l'arrivée des colis transfrontaliers
 
 ## Références
 

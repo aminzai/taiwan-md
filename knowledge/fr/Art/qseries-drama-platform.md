@@ -159,7 +159,7 @@ L'héritage n'est pas quelques bonnes séries, mais une réponse qui germe encor
 
 **Lectures complémentaires** :
 
-- [Golden Bell Awards](/culture/金鐘獎) — 《天黑請閉眼》《花甲男孩轉大人》 deux fois prix du meilleur drame, première apparition de « Hao Feng Guang » parmi les lauréats
+- [Golden Bell Awards](/fr/culture/golden-bell-awards) — 《天黑請閉眼》《花甲男孩轉大人》 deux fois prix du meilleur drame, première apparition de « Hao Feng Guang » parmi les lauréats
 
 ## Références
 
