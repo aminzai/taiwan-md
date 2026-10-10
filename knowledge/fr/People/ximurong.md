@@ -1,107 +1,108 @@
 ---
-title: 'Xi Murong'
-description: "Auteure de « Parfum de chèvrefeuille » et « Jeunesse sans regret », poétesse la plus vendue du monde sinophone, d'origine mongole"
+title: 'Xi Mu-rong : La symphonie poétique entre la prairie et la modernité'
+description: 'Auteure de « Qili Xiang » (Les Sept Lieues Parfumées) et « Le Jeunesse Sans Regrets », elle est une poétesse très vendue dans le monde sinophone, issue du peuple mongol.'
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '文學'
 tags:
   [
     'personnage',
-    'Xi Murong',
-    'Parfum de chèvrefeuille',
-    'Jeunesse sans regret',
-    'poétesse',
-    'Mongols',
-    'essayiste',
+    'Xi Mu-rong',
+    'Qili Xiang',
+    'Le Jeunesse Sans Regrets',
+    'poète',
+    'peuple mongol',
+    'romancière',
   ]
+subcategory: '文學'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
 translatedFrom: 'People/席慕蓉.md'
-sourceCommitSha: '7415dcaa'
-sourceContentHash: 'sha256:5d1d8e5f0b7eaefd'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:36049c1494516a6b'
 sourceBodyHash: 'sha256:c035c602c7e335fa'
-translatedAt: '2026-05-17T05:34:56+08:00'
+translatedAt: '2026-10-10T12:07:02+08:00'
 ---
 
-# Xi Murong : une symphonie poétique entre steppe et modernité
+# Xi Mu-rong : La symphonie poétique entre la prairie et la modernité
 
-> **En bref (30 s) :** Xi Murong est la poétesse la plus vendue à Taïwan dans les années 1980. Après la publication de _Parfum de chèvrefeuille_ en 1981, le recueil a été réimprimé sept fois en un an, conquérant les deux rives du détroit et Hong Kong. Elle est également peintre de formation académique, descendante du clan Chakhar de Mongolie, et depuis son premier voyage sur la steppe en 1989, sa poésie est passée du lyrisme urbain à l'écriture identitaire et culturelle.
+> **Aperçu de 30 secondes :** Xi Mu-rong est l'une des poétesses les plus vendues à Taïwan dans les années 1980. Le recueil _Qili Xiang_ (Les Sept Lieues Parfumées), publié en 1981, a été réédité sept fois au cours de la première année, faisant sensation sur les deux rives du détroit. Elle est également peintre à l'huile formée dans une école d'art et descendante des Mongols de la région de Khalkha. Après son premier voyage dans les steppes en 1989, son champ poétique s'est déplacé de l'expression lyrique urbaine vers l'écriture culturelle ethnique.
 
-## Une enfance au carrefour de plusieurs cultures
+## Un parcours culturellement riche
 
-Xi Murong, de son vrai nom Muren Xilianbo, est née le 15 octobre 1943 à Jingangpo, dans le Chongqing de la Chine en guerre. Son père, Xi Zhenduo (nom mongol : Radish Dondog), fut le premier représentant de l'Assemblée nationale pour les huit bannières du Chakhar ; sa mère, Yue Zhufang (nom mongol : Bayin Bilig), était également d'origine mongole. Cette lignée steppique lui a conféré, bien plus que chez la plupart des familles exilées à Taïwan, une perception aiguë de la « terre perdue ». Les déplacements incessants liés aux troubles de l'époque lui ont très tôt fait connaître la saveur de la dispersion et la nostalgie d'un foyer lointain.
+Le nom de naissance de Xi Mu-rong est Muren Xilianbo. Née le 15 octobre 1943 à Jinggangpo, Chongqing. Son père, Xi Zhenduo (nom mongol Lasekidunrok), était un représentant du Grand Conseil national parmi les chefs des Huit Bandes de Khalkha ; sa mère, Le Zhufang (nom mongol Bayinbilig), était également d'origine mongole. Cette lignée issue des steppes lui a conféré une sensibilité pour le « pays perdu » qui dépassait celle des familles migrantes ordinaires. Les déplacements forcés durant les périodes de guerre lui ont fait ressentir, dès son plus jeune âge, l'exil et la nostalgie de sa terre natale.
 
-En 1949, à l'âge de six ans, Xi Murong suit sa famille à Hong Kong. L'environnement cosmopolite de la colonie lui fait découvrir la rencontre des cultures chinoise et occidentale, une imprégnation qui marquera profondément son œuvre future. Durant ses années à Hong Kong, elle se familiarise simultanément avec la tradition littéraire chinoise et les arts occidentaux.
+En 1949, à l'âge de six ans, Xi Mu-rong a déménagé avec sa famille à Hong Kong. L'environnement internationalisé de Hong Kong lui a permis d'entrer en contact avec la fusion des cultures chinoise et occidentale, une influence qui a profondément marqué son œuvre ultérieure. Durant ses années passées à Hong Kong, elle a été exposée à la fois à la culture traditionnelle chinoise et aux arts littéraires occidentaux.
 
-En 1954, la famille s'installe à Taïwan. L'adolescence de Xi Murong sur l'île, en particulier ses paysages naturels et son environnement humain, fournit une matière riche à sa poésie. Les montagnes, les fleurs, les saisons de Taïwan deviennent des images récurrentes dans ses vers.
+En 1954, Xi Mu-rong s'est installée à Taïwan avec sa famille. La vie durant son adolescence à Taïwan, en particulier le paysage naturel et l'environnement humain de Taïwan, a fourni une matière riche pour sa création poétique. Les montagnes, les fleurs, la végétation et les changements saisonniers de Taïwan sont devenus des motifs récurrents dans ses poèmes.
 
-## Les années d'études à la faculté des arts de l'Université normale
+## Ses années d'études à l'Université Normale de Taiwan (NTU)
 
-Après le lycée, Xi Murong intègre le département des beaux-arts de l'Université normale de Taïwan. La formation artistique développe chez elle une sensibilité aiguë aux couleurs et à la composition — des qualités qui se retrouveront dans sa poésie.[^1]
+Après avoir terminé le collège, Xi Mu-rong a été admise en faculté d'art à l'Université Normale de Taïwan. La formation artistique lui a permis de développer une sensibilité aiguë pour la couleur et la composition, des compétences artistiques qui ont ensuite été intégrées dans sa création poétique.[^1]
 
-À l'université, elle se distingue en peinture tout en commençant à écrire, dévorant poésie chinoise et étrangère. Les poètes modernes l'influencent profondément et l'aident à forger son propre langage poétique.
+Pendant son temps à NTU, Xi Mu-rong a réalisé des œuvres en peinture et a commencé à expérimenter l'écriture littéraire, lisant abondamment de la poésie chinoise et étrangère. Les œuvres des poètes modernes ont eu une influence profonde sur elle, lui permettant progressivement de forger sa propre langue poétique.
 
-Diplômée en 1966, elle part se perfectionner à l'Académie royale des beaux-arts de Bruxelles, en Belgique. Les musées, les églises et l'architecture ancienne de la capitale européenne la marquent durablement et élargissent son horizon créatif.[^2]
+En 1966, après avoir obtenu son diplôme, Xi Mu-rong s'est formée à l'Académie Royale des Beaux-Arts de Bruxelles en Belgique. Les musées, les églises et les anciens bâtiments d'Europe lui ont laissé une impression durable, élargissant son champ créatif.[^2]
 
-## _Parfum de chèvrefeuille_ : une entrée fracassante en poésie
+## _Qili Xiang_ : Une apparition sensationnelle dans le monde poétique
 
-Dans les années 1970, Xi Murong se consacre principalement à la peinture et à l'enseignement ; la poésie reste un loisir. Mais la publication de _Parfum de chèvrefeuille_ en 1981 la propulse en une nuit au centre de l'attention littéraire. Le recueil est réimprimé sept fois en un an, un record de ventes pour la poésie moderne taïwanaise.[^3]
+Dans les années 1970, Xi Mu-rong se consacrait principalement à la création artistique et à l'enseignement ; l'écriture poétique n'était qu'un passe-temps. Cependant, la publication du recueil _Qili Xiang_ (Les Sept Lieues Parfumées) en 1981 l'a propulsée au centre de l'attention littéraire du jour au lendemain. Ce recueil a été réédité sept fois au cours de la première année de sa parution, établissant un record de ventes pour la poésie moderne à Taïwan.[^3]
 
-Le succès de _Parfum de chèvrefeuille_ tient à sa langue limpide : sans obscurité factice, elle atteint la sincérité dans la simplicité et la profondeur dans le dépouillement. Xi Murong excelle à transformer des images du quotidien — fleurs, lune, vent, pluie — en expressions de sentiments intimes complexes.
+Le succès de _Qili Xiang_ réside dans la clarté de son langage : il n'est pas artificiellement complexe, mais trouve une vérité profonde dans la simplicité et une signification riche dans le rustique. Xi Mu-rong excelle à utiliser des motifs courants de la vie, tels que les fleurs, la lune ou le vent et la pluie, pour exprimer des sentiments intérieurs complexes.
 
-_L'arbre en fleurs_ est devenu un classique de la poésie sinophone : « Comment te rencontrer / Au plus bel instant de ma vie / Pour cela / J'ai prié Bouddha pendant cinq cents ans / Pour qu'il nous accorde une liaison terrestre. » Ce poème, par sa beauté d'atmosphère et son émotion, est encore largement récité aujourd'hui.
+« Un arbre en fleur » est devenu un classique de la poésie sinophone : « Comment te faire rencontrer / Au moment où je suis la plus belle / Pour cela / J'ai prié pendant cinq cents ans devant Bouddha / Pour que nous formions une relation terrestre. » Ce poème, par son atmosphère élégante et ses émotions touchantes, est encore largement récité aujourd'hui.
 
-## _Jeunesse sans regret_ : regard poétique sur les années de jeunesse
+## _Le Jeunesse Sans Regrets_ : Un regard poétique sur les années de jeunesse
 
-Publié en 1982, _Jeunesse sans regret_ prolonge le succès du recueil précédent. Il explore les thèmes de la jeunesse, de l'amour et de l'amitié, révélant la profonde sensibilité de la poétesse face à la vie. Le poème-titre exprime la nostalgie des années envolées et la célébration de la jeunesse.[^4]
+Publié en 1982, _Le Jeunesse Sans Regrets_ a poursuivi le succès de _Qili Xiang_. Ce recueil se concentre sur des thèmes existentiels tels que la jeunesse, l'amour et l'amitié, démontrant la profonde compréhension de la vie par la poétesse. Le titre du recueil, « Jeunesse Sans Regrets », exprime une nostalgie pour les années passées et une célébration de la jeunesse.[^4]
 
-La poésie de Xi Murong part souvent d'une scène ou d'un objet concret, puis s'élargit progressivement jusqu'à atteindre une dimension philosophique. Une autre caractéristique de _Jeunesse sans regret_ est sa musicalité — un rythme marqué, propice à la récitation, qui permet au lecteur de savourer la beauté du poème par le son.
+Les poèmes de Xi Mu-rong partent souvent d'un décor ou d'un objet concret avant de se développer progressivement pour atteindre un niveau philosophique. Une autre caractéristique de _Le Jeunesse Sans Regrets_ est sa musicalité : son rythme est fort et il est propice à la récitation, permettant aux lecteurs de ressentir la beauté du poème à travers le son.
 
-## Prose et passion mongole
+## Création en prose et lien avec les Mongols
 
-Outre la poésie, Xi Murong est aussi essayiste. À la fin des années 1980, elle publie des recueils de proses tels que _Traces de croissance_ et _Il y a une chanson_, dans la même veine limpide que ses poèmes, avec une écriture élégante et sincère.
+En plus de la poésie, Xi Mu-rong est une romancière. À partir de la fin des années 1980, elle a publié successivement des recueils de nouvelles tels que _Traces de croissance_ et _Une chanson_, poursuivant le style frais de sa poésie avec un langage élégant et des émotions sincères.
 
-En 1989, elle foule pour la première fois la steppe mongole. Ce voyage identitaire la bouleverse profondément. Elle se met alors à écrire abondamment sur la Mongolie, tant en poésie qu'en prose. Des œuvres comme _Ma maison est sur le plateau_ et _Le pays attend_ témoignent de son attachement à la steppe et de sa réflexion sur la culture de son peuple. Sous la forme de la poésie moderne, elle exprime la nostalgie d'une culture ancienne et l'affirmation de son identité ethnique.[^5]
+En 1989, son premier voyage dans les steppes mongoles l'a profondément influencée. Elle a commencé à créer en abondance des poèmes et des nouvelles sur le thème des Mongols, telles que _Ma maison est sur la haute plaine_ et _Le pays attend_, qui témoignent de sa profonde affection pour les steppes et de ses réflexions sur la culture ethnique. Elle exprime par la forme de la poésie moderne son attachement à l'ancienne culture et son identification ethnique.[^5]
 
-_Mon nom pour la mémoire_, publié en 2019, est son recueil tardif : y revient, à un âge avancé, sur une vie entière de pérégrinations et de quête des racines, dans une langue plus sobre et intériorisée.
+_Je donne un nom à la mémoire_, publié en 2019, est son recueil poétique tardif, dont le langage est plus calme et introspectif, contemplant les errances et la recherche des racines tout au long de sa vie avancée.
 
-## Peinture et poésie : une union parfaite
+## La combinaison parfaite entre peinture et poésie
 
-Peintre de formation académique, Xi Murong n'a jamais abandonné la peinture. Ses huiles, d'un style frais et naturel, sont en parfaite cohérence avec sa poésie. Plus remarquable encore, ses poèmes possèdent une forte dimension visuelle : le lecteur a l'impression de contempler de délicates images en les lisant.
+En tant que peintre formée dans une école d'art, Xi Mu-rong n'a jamais abandonné la création picturale. Le style de ses peintures à l'huile est frais et naturel, en parfaite cohérence avec son style poétique. Plus remarquable encore, ses poèmes possèdent souvent un fort sens visuel ; le lecteur semble y voir des tableaux magnifiques lorsqu'il les lit.
 
-Xi Murong a organisé à plusieurs reprises des expositions mêlant poésie et peinture, offrant une forme concrète de collaboration transdisciplinaire entre littérature et beaux-arts, accueillie avec enthousiasme par le public.[^6]
+Xi Mu-rong a organisé plusieurs expositions de poésie et d'art, combinant la poésie et la peinture pour trouver une forme concrète de coopération interdisciplinaire entre littérature et art, ce qui a été très bien accueilli par le public.[^6]
 
-## Enseignement et transmission culturelle
+## Carrière éducative et transmission culturelle
 
-Depuis **1984**, Xi Murong enseigne au département des beaux-arts de l'**Université Tunghai**, tout en donnant des cours pendant de nombreuses années à l'Institut pédagogique de Hsinchu (aujourd'hui la Faculté d'éducation de l'Université nationale de Tsing Hua). Pour elle, le cœur de l'enseignement artistique est l'éveil émotionnel et spirituel ; la technique n'est qu'un outil, la sensibilité esthétique en est l'âme. Sa pédagogie a influencé de nombreux artistes de la génération suivante.
+Xi Mu-rong est professeure au département des beaux-arts de l'Université de Tunghai depuis **1984**, et elle a également enseigné pendant de nombreuses années à la Haute École d'enseignement de Hsinchu (aujourd'hui l'École d'éducation de Tsinghua National University). Elle estime que le cœur de l'éducation artistique est l'inspiration émotionnelle et spirituelle ; la technique n'est qu'un outil, la beauté est l'âme. Sa philosophie d'enseignement a influencé de nombreux artistes ultérieurs.
 
-Elle donne aussi régulièrement des conférences dans les écoles et les communautés, partageant son expérience créative avec les lecteurs. Son charisme et sa sincérité ont touché d'innombrables auditeurs et contribué à la démocratisation de la poésie.
+Xi Mu-rong se rend également souvent dans des écoles et des communautés pour donner des conférences, partageant ses expériences créatives avec les lecteurs. Son approche amicale et sa sincérité ont touché d'innombrables auditeurs, contribuant à la popularisation de la poésie.
 
-## Reconnaissance littéraire et portée historique
+## Réalisations littéraires et signification historique
 
-Les recueils de Xi Murong se sont vendus à plus d'un million d'exemplaires et ont été traduits en plusieurs langues à travers le monde. Elle a reçu de nombreuses distinctions, dont le prix littéraire Zhongshan et le prix national des arts et des lettres.[^7]
+Les recueils de Xi Mu-rong ont vendu plus d'un million d'exemplaires et ont été traduits dans plusieurs langues pour être publiés dans le monde entier. Elle a reçu de nombreuses distinctions, dont le Prix Littéraire Zhongshan et le Prix National des Arts.[^7]
 
-Contrairement à l'élégance raffinée de [[Pai Hsien-yung (白先勇)]](/fr/people/pai-hsien-yung-literary-master/) ou à la lucidité critique de [[Lung Ying-tai (龍應台)]](/fr/people/lung-ying-tai/), Xi Murong a choisi une voie plus douce et intime. Dans le rythme effréné de la vie moderne, sa poésie offre au lecteur un refuge pour l'âme. Son œuvre montre aussi que la sensibilité féminine et le regard singulier d'une femme peuvent créer une littérature qui touche le cœur.
+Contrairement à l'élégance raffinée de [Bai Hsien-yung](/fr/people/pai-hsien-yung-literary-master/) ou au critique rationnel de [Lung Ying-tai](/fr/people/lung-ying-tai/), Xi Mu-rong a choisi une voie plus douce. Dans la vie moderne au rythme effréné, sa poésie offre un réconfort spirituel aux lecteurs. Ses œuvres démontrent également que les sentiments délicats et le point de vue unique des femmes peuvent créer une littérature émouvante.
 
 ## Références
 
-[^1]: [Département des beaux-arts de l'Université normale de Taïwan](https://www.ntnu.edu.tw/art/) — Historique de la création du département et informations sur les anciens élèves.
+[^1]: [Département des Beaux-Arts de l'Université Normale de Taïwan](https://www.ntnu.edu.tw/art/) — Contexte de fondation du département d'art et informations sur les anciens élèves.
 
-[^2]: [Académie royale des beaux-arts de Bruxelles](https://www.arba-esi.be/) — Institution où Xi Murong a étudié, école nationale d'art de Belgique.
+[^2]: [Académie Royale des Beaux-Arts de Bruxelles](https://www.arba-esi.be/) — Institution d'études de Xi Mu-rong, une école d'art nationale belge.
 
-[^3]: [Musée national de littérature taïwanaise — Exposition Xi Murong](https://www.nmtl.gov.tw/) — Publication et réimpressions de _Parfum de chèvrefeuille_, données de ventes et documents d'exposition.
+[^3]: [Musée National de Littérature de Taïwan — Exposition spéciale Xi Mu-rong](https://www.nmtl.gov.tw/) — Dossier sur la publication et les rééditions de _Qili Xiang_, incluant des données de vente du recueil et des informations sur l'exposition.
 
-[^4]: [Alliance taïwanaise du livre électronique — Page des œuvres de Xi Murong](https://www.taaze.tw/) — Informations sur la première édition de _Jeunesse sans regret_ et confirmation de l'année de publication.
+[^4]: [Alliance électronique de livres de Taïwan — Page d'œuvres de Xi Mu-rong](https://www.taaze.tw/) — Informations sur la première édition de _Le Jeunesse Sans Regrets_ et confirmation de l'année de publication.
 
-[^5]: [Centre culturel mongol et tibétain — Création littéraire mongole de Xi Murong](https://www.mtac.gov.tw/) — Présentation thématique par une institution gouvernementale de l'œuvre mongole de Xi Murong.
+[^5]: [Musée de Culture Mongole — Créations littéraires mongoles de Xi Mu-rong](https://www.mtac.gov.tw/) — Présentation thématique par une institution gouvernementale concernant les œuvres littéraires mongoles de Xi Mu-rong.
 
-[^6]: [Site officiel de Xi Murong](http://www.ximurong.tw) — Site officiel de la poétesse, regroupant informations sur les œuvres, comptes rendus d'expositions et parcours créatif.
+[^6]: [Site officiel de Xi Mu-rong](http://www.ximurong.tw) — Site officiel de la poétesse, contenant des informations sur ses œuvres, des archives d'expositions et son parcours créatif.
 
-[^7]: [Prix national des arts et des lettres — Fondation nationale pour la culture et les arts](https://www.ncafroc.org.tw/) — Palmarès de Xi Murong et rapports du jury.
+[^7]: [Prix National des Arts — Fonds national pour la culture et les arts](https://www.ncafroc.org.tw/) — Dossier sur les prix reçus par Xi Mu-rong et les explications du jury.
 
-## Pour aller plus loin
+## Lectures complémentaires
 
-- [Musée national de littérature taïwanaise](https://www.nmtl.gov.tw/) — Œuvres et documents de Xi Murong conservés par le musée
-- [Pai Hsien-yung (白先勇)](/fr/people/pai-hsien-yung-literary-master/) — Grand nom de la littérature taïwanaise de la même génération, célèbre pour _Les Gens de Taipei_
+- [Musée National de Littérature de Taïwan](https://www.nmtl.gov.tw/) — Œuvres et artefacts de Xi Mu-rong conservés au Musée National de Littérature de Taïwan
+- [Bai Hsien-yung](/fr/people/pai-hsien-yung-literary-master) — Figure littéraire contemporaine de Taïwan, célèbre pour _Les habitants de Taipei_
+- [San Mao](/fr/people/san-mao) — Autrice d'une génération qui a transposé l'étranger dans le cœur du peuple taïwanais

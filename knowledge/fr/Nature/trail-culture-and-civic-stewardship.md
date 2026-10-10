@@ -1,166 +1,188 @@
 ---
-title: 'La culture des sentiers à Taïwan et la garde citoyenne'
-description: "De l'association Qianli Budao à la plateforme iTrail, plongez dans la culture unique de préservation des sentiers et l'esprit de science citoyenne à Taïwan"
+title: 'Culture des sentiers de Taïwan et protection citoyenne'
+description: "De l'Association des sentiers des mille li à la plateforme iTrail, exploration de la culture unique de protection des sentiers de Taïwan et de l'esprit de science citoyenne"
 date: 2026-03-19
-tags: [nature, sentiers, science citoyenne, conservation écologique]
-subcategory: 'Parcs nationaux et sentiers'
 category: 'Nature'
+tags: ['nature', 'sentiers', 'science citoyenne', 'conservation écologique']
+subcategory: '國家公園與步道'
 author: 'Taiwan.md Contributors'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-19
-translatedFrom: 'Nature/台灣步道文化與公民守護.md'
-sourceCommitSha: 'd6e87d07'
-sourceContentHash: 'sha256:6a877621bb6ceb6f'
-sourceBodyHash: 'sha256:855af6d5f189b0bd'
-translatedAt: '2026-05-17T05:33:00Z'
 lastHumanReview: false
+translatedFrom: 'Nature/台灣步道文化與公民守護.md'
+sourceCommitSha: '1440e2a2d'
+sourceContentHash: 'sha256:d52ac46a55e0087a'
+sourceBodyHash: 'sha256:7ff26ffe138f6405'
+translatedAt: '2026-10-10T16:15:51+08:00'
 ---
 
-# La culture des sentiers à Taïwan et la garde citoyenne
+# Culture des sentiers de Taïwan et protection citoyenne
 
-Cinq heures et demie du matin, sur un sentier de montagne dans le district de Jianshi, à Hsinchu. Un groupe de bénévoles est accroupi au bord du chemin, retirant avec soin les pierres tombées la nuit précédente. Ce ne sont pas des ouvriers envoyés par l'État — ce sont des membres de l'association Qianli BuDao. Cette scène se répète chaque week-end, dans des forêts et sur des sommets dispersés aux quatre coins de Taïwan.
+En 2002, Lin Tsung-hung et Hsu Ming-chien, qui grimpaient ensemble chaque semaine dans les collines périphériques, lancent « Adieu aux marches en pierre », demandant aux randonneurs d'envoyer des photos des travaux de destruction des sentiers un peu partout ; les courriels s'accumulent, sont triés manuellement puis transmis au Conseil pour la planification du développement économique (經建會). [^1] Hsu Ming-chien devient par la suite directeur adjoint exécutif de l'Association des sentiers des mille li (千里步道協會), ramenant de son expérience de bénévolat sur l'Appalachian Trail aux États-Unis le concept de « sentiers façonnés à la main » (手作步道). [^2] Un groupe de passionnés de montagne refusant de voir davantage de marches en béton ouvre ainsi la voie au mouvement de protection des sentiers de Taïwan.
 
-L'île ne couvre que 36 000 km², mais elle compte plus de 268 montagnes dépassant les 3 000 mètres d'altitude — une concentration rare à l'échelle mondiale. Sur cette « île haute », les sentiers sont à la fois des itinéraires de randonnée et la mémoire d'une culture profonde et d'une valeur écologique irremplaçable. Des anciens chemins de chasse des peuples autochtones aux routes de pacification de l'époque japonaise, en passant par le réseau national de sentiers d'aujourd'hui, chaque trace dans la montagne raconte l'histoire de cette terre.
+Bien que Taïwan ne couvre que 36 000 km², l'île compte plus de 268 sommets dépassant 3 000 m d'altitude, une concentration rare à l'échelle mondiale. Sur cette « île aux hautes montagnes », les sentiers sont les itinéraires de la randonnée et de la marche en montagne, mais ils portent aussi une signification culturelle profonde et une valeur écologique. Des anciens sentiers de chasse des peuples autochtones aux routes de « pacification des barbares » (理蕃道路) de l'époque coloniale japonaise, en passant par le système moderne des sentiers nationaux, chaque chemin de montagne raconte l'histoire de cette terre.
 
-## La naissance d'un mouvement de préservation
+## L'essor du mouvement de protection des sentiers
 
-### La vision de Qianli BuDao
+### La vision de l'Association des sentiers des mille li
 
-Le mouvement Qianli BuDao a été officiellement lancé le 23 avril 2006 ; la personne morale de l'association a été constituée le 8 juin 2011.[^1] Elle porte une ambition qui paraît alors démesurée : relier Taïwan par un réseau de voies vertes permettant de traverser l'île au plus près de la terre, et de la redécouvrir autrement.
+Le 23 avril 2006, Huang Wu-hsiung, Hsiao Yeh (小野) et Hsu Jen-hsiu (徐仁修) lancent conjointement le mouvement des sentiers des mille li. [^3][^4] Ils formulent une vision en apparence impossible : relier en un réseau vert l'ensemble du pourtour de l'île, afin que les gens puissent redécouvrir Taïwan de la manière la plus proche du sol.
 
-En 2012, l'association formule sa politique dite des « deux zéros » : zéro perte de sentiers naturels, zéro progression du béton. Ce slogan reste aujourd'hui le socle du mouvement de protection des sentiers à Taïwan. Le cofondateur Huang Wu-xiong a insisté sur le fait que la protection des sentiers doit viser la coexistence avec la montagne, plutôt que sa conquête.[^2]
+En 2012, l'association présente lors de la conférence nationale des ONG environnementales la vision « zéro perte pour les sentiers naturels, zéro croissance pour les sentiers en béton », phrase qui reste encore aujourd'hui la revendication centrale du mouvement de protection des sentiers à Taïwan. [^1]
 
-Ce mouvement est né d'une prise de conscience face à la bétonisation excessive des zones de montagne. À partir des années 1990, de nombreux sentiers en terre battue avaient été « améliorés » — c'est-à-dire transformés en escaliers de béton. Plus praticables, certes, mais au prix de la dégradation du paysage naturel et de la perturbation du cycle hydrologique de la forêt. Qianli BuDao s'est constitué pour renverser cette logique du « faux progrès ».
+Ce mouvement naît d'une réflexion sur l'excès de bétonnage en montagne. De nombreux sentiers rustiques en terre et pierre ont été « améliorés » en escaliers en béton ; s'ils facilitent la marche, ils détruisent le paysage naturel et entravent le cycle hydrologique de la forêt. L'Association des sentiers des mille li entend inverser précisément cette tendance du « faux progrès ».
 
-### De la protection à la participation : la science citoyenne en action
+### De la protection à la participation : la force de la science citoyenne
 
-En 2024, la plateforme iTrail est officiellement lancée. Cette application mobile combinant géolocalisation et prise de photo permet à chaque randonneur de signaler l'état des sentiers en temps réel.[^3] Dès qu'un sentier est endommagé, qu'on y observe des dépôts de déchets ou une dégradation écologique, les usagers peuvent instantanément téléverser photos et coordonnées GPS, formant ainsi un réseau de surveillance en direct sur l'ensemble de l'île.
+En juin 2024, l'Association des sentiers des mille li et près de 40 organisations lancent conjointement le « Réseau de protection des sentiers de Taïwan iTrail » (iTrail 台灣步道守護網), permettant à chaque randonneur de devenir un rapporteur de l'état des sentiers. [^5] Les marcheurs ajoutent le site à l'écran d'accueil de leur téléphone ; en montagne, ils photographient l'usure des sentiers, les dégradations humaines ou les équipements endommagés, sélectionnent le type de problème et soumettent le signalement.
 
-Dès sa première année, la plateforme a reçu plus de 15 000 signalements : effondrements de chemin, constructions illégales, animaux sauvages piégés... Ces données de première main sont devenues une ressource précieuse pour les autorités et les associations de conservation dans l'élaboration des politiques publiques.
+À octobre 2026, le site cumule 2 702 signalements et 314 rapporteurs. [^6] L'association explique que ces signalements doivent servir de données de base pour le dialogue avec les autorités publiques, incitant les instances compétentes à prêter attention aux problèmes des sentiers et à les réparer. [^5]
 
-## La Journée des sentiers de Taïwan : un rendez-vous citoyen annuel
+## Journée des sentiers de Taïwan : grande fête annuelle de participation citoyenne
 
-Du 6 au 30 juin se tient chaque année la « Journée des sentiers de Taïwan », une initiative majeure de l'association Qianli BuDao. Pendant un mois, des milliers de personnes sont mobilisées pour arpenter les sentiers du pays et y mener des relevés de « science citoyenne ».
+Chaque premier samedi de juin est la « Journée des sentiers de Taïwan » (台灣步道日), instituée par l'Association des sentiers des mille li ; la première édition a lieu en 2014. [^7] À partir de 2025, l'association lance lors de ce mois une surveillance synchronisée nationale des sentiers, invitant les randonneurs à signaler les problèmes via leur téléphone. L'année 2026 marque la deuxième édition, l'activité se déroulant du 6 au 30 juin. [^8][^9]
 
-Les participants consignent les données de revêtement, de largeur, de pente et d'environnement écologique, puis les transmettent à une base de données commune. Ce qui pourrait sembler une simple collecte d'informations constitue en réalité un véritable « bilan de santé » des sentiers de Taïwan. Grâce à la mobilisation massive de bénévoles, les chercheurs disposent d'une vision dynamique de l'évolution du réseau et peuvent détecter rapidement les zones nécessitant une attention particulière.
+Le signalement ne requiert pas d'outils de mesure ; on estime visuellement à l'aide d'échelles corporelles — hauteur de cheville, hauteur de genou —, on photographie et on téléverse. En l'absence de signal en montagne, on peut d'abord enregistrer un brouillon et l'envoyer à la descente. [^8] Ces collectes de données en apparence simples constituent en réalité un « bilan de santé » de l'environnement des sentiers de Taïwan. L'association espère qu'à force de nombreux signalements, les points chauds de problèmes seront identifiés, puis discutés avec les autorités pour organiser les réparations. [^9]
 
-En 2023, plus de 3 000 bénévoles ont participé à l'événement, explorant près de 500 sentiers à travers le pays. Les données ainsi accumulées représentent l'équivalent de dix ans de travail pour une équipe professionnelle.
+### La valeur scientifique de la révision décennale
 
-### La valeur scientifique du suivi décennal
+Le socle de ce mouvement est l'enquête de revêtement. Depuis 2012, près de 60 bénévoles formés passent plus de deux ans à arpenter les 272 sentiers de collines périphériques répertoriés par les gouvernements de Taipei et de New Taipei ; les résultats publiés en 2014 montrent que la proportion de sentiers en béton atteint près de 75 % à Taipei, les sentiers naturels sans aucun revêtement artificiel ne représentant plus que 10 %. À New Taipei, les sentiers en béton représentent environ 27 %, mais avec les passerelles, traverses en bois et autres revêtements artificiels, le total atteint 64 %. L'enquête 2018 des « Cent li de sentiers » (百里步道) à Taichung révèle également 54,6 % de sentiers en béton. [^1][^10]
 
-À noter en particulier : les trois municipalités de Taipei, New Taipei et Taichung ont mené à terme leur programme de « réévaluation décennale » des revêtements de sentiers. En comparant les données de 2010 et 2020, les enquêteurs ont mis au jour une tendance préoccupante : la proportion de sentiers bétonnés est passée de 35 % à 52 %, tandis que les sentiers conservant leur surface naturelle de terre ou de pierres sont passés de 48 % à 31 %.
+Dix ans plus tard, l'association refait le même parcours avec la même méthode : l'été 2023, pendant deux ans et demi, 324 sentiers totalisant 572,5 km sont réexaminés ; les résultats sont dévoilés lors de la Journée des sentiers de Taïwan 2025 : à Taipei, la part des sentiers en béton passe de 74 % à 47 %, les sentiers naturels montent de 10 % à 27 % ; à Taichung, le béton recule de 54,6 % à 37 % ; dans les deux municipalités, les sentiers naturels augmentent tant en proportion qu'en longueur. [^9]
 
-Ces chiffres ont conduit les gouvernements locaux à inscrire la politique des « deux zéros » comme orientation de leurs aménagements de sentiers.
+Pour Taipei où la proportion baisse, la longueur réelle de sentiers en béton diminue d'environ dix kilomètres ; à New Taipei, elle augmente d'environ 32 km ; au total des sentiers répertoriés des deux villes, le revêtement en béton a encore augmenté d'environ 22 km nets. [^9]
 
-## La diversité du réseau de sentiers taïwanais
+## La diversité du système de sentiers de Taïwan
 
-### Les sentiers de haute montagne : défi et majesté
+### Sentiers de haute montagne : défi et splendeur
 
-Les sentiers de haute montagne de Taïwan sont réputés pour leurs dénivelés vertigineux et leurs panoramas à couper le souffle. Le sentier du pic principal du Yushan, celui de la Shei-Pa, le sentier Qilai-Nanhua — autant de destinations vénérées par les amateurs de randonnée. Ces parcours nécessitent généralement un permis d'accès en montagne et sont soumis à une régulation stricte de la fréquentation afin de protéger l'équilibre fragile des écosystèmes d'altitude.
+Les sentiers de haute montagne de Taïwan sont mondialement réputés pour leur dénivelé et leur grandeur. Le sentier du pic principal de Yushan (玉山主峰步道), celui du pic principal de Xueshan (雪山主峰步道), le sentier Qilai-Nanhua (奇萊南華步道) et d'autres sont des lieux saints pour les amateurs d'alpinisme. Ces sentiers exigent généralement une demande de permis d'entrée en montagne (入山證) et font l'objet de strictes limites de capacité d'accueil, afin de protéger l'équilibre fragile des écosystèmes d'altitude.
 
-L'entretien de ces sentiers est particulièrement exigeant : les matériaux doivent souvent être acheminés par hélicoptère, ce qui en fait une opération coûteuse. C'est pourquoi la discipline personnelle des randonneurs est d'autant plus précieuse. Le principe du « Leave No Trace » (sans trace) y est fondamental : chaque déchet laissé, chaque empreinte hors sentier peut avoir des répercussions durables sur l'environnement.
+La maintenance des sentiers de haute montagne est particulièrement difficile, nécessitant l'héliportage des matériaux à des coûts très élevés. C'est pourquoi ces sentiers requièrent d'autant plus l'autodiscipline et le respect des alpinistes. Le concept de « Sans trace » (Leave No Trace, LNT) y est crucial : chaque déchet, chaque empreinte peut avoir des répercussions écologiques durables.
 
-### La moyenne montagne : l'essence de la randonnée à Taïwan
+### Montagnes de moyenne altitude : l'essence de la randonnée taïwanaise
 
-Entre 1 000 et 3 000 mètres, la moyenne montagne est souvent considérée comme la quintessence de la randonnée à Taïwan. Des forêts riches en biodiversité, un climat relativement clément — c'est un terrain idéal pour développer ses compétences de montagnard.
+Les montagnes de moyenne altitude, entre 1 000 et 3 000 m, sont considérées par beaucoup comme l'essence de la randonnée à Taïwan. On y trouve une riche écologie forestière et des conditions climatiques relativement clémentes, idéales pour développer les compétences en montagne.
 
-Le sentier du Dabajian, les massifs de l'Hehuan, le réseau de l'Alishan : autant d'exemples emblématiques. Ces parcours se complètent généralement en une ou deux journées, accessibles au grand public et idéaux pour l'éducation à la nature.
+Les sentiers autour d'Alishan (阿里山) se situent dans cette bande d'altitude. Les itinéraires de moyenne montagne se bouclent souvent en un ou deux jours, accessibles au grand public, et constituent des terrains privilégiés pour l'éducation à la forêt.
 
-### Les sentiers périurbains : le jardin vert de la ville
+### Collines périphériques : le jardin vert des citadins
 
-Pour la majorité des Taïwanais, les sentiers de basse montagne proches des villes sont le premier point de contact avec la nature. Les sentiers du Xiangshan, du Hushan ou du Jiantanshan, en périphérie de Taipei, attirent des foules chaque week-end.
+Pour la majorité des Taïwanais, les sentiers de collines périphériques (郊山) sont l'environnement naturel le plus accessible. Les sentiers de Xiangshan (象山), Hushan (虎山), Jiantanshan (劍潭山) et d'autres autour de Taipei attirent chaque week-end une foule de citadins.
 
-Si l'altitude y est modeste, l'importance de ces lieux pour les habitants n'en est pas moins grande. Équipés de pergolas et de belvédères, ces sentiers sont des espaces de promenade, d'exercice physique et d'activités familiales. Trouver le juste équilibre entre accessibilité et préservation de l'environnement constitue l'un des principaux défis de leur gestion.
+Bien que peu élevés, ces sentiers portent une signification humaine non moindre que les hautes montagnes. Beaucoup sont dotés de pavillons, de belvédères et d'autres équipements, offrant des espaces importants pour l'exercice, les sorties en famille. Trouver l'équilibre entre commodité pour le public et protection de l'environnement est un enjeu majeur de la gestion des collines périphériques.
 
-### Les chemins historiques : les traces de l'histoire
+### Anciens sentiers : les traces de l'histoire
 
-Les anciens chemins de Taïwan gardent la trace des efforts des pionniers qui ont ouvert ces terres, ainsi que celles des échanges entre différentes communautés.
+Les anciens sentiers de Taïwan (古道) conservent la mémoire des peines des pionniers et les traces des échanges entre groupes ethniques.
 
-**Le chemin historique de Danlan** est l'un des itinéraires historiques les plus connus de l'île, reliant Taipei à Yilan sur environ 200 kilomètres.[^4] Ce parcours se décline en trois axes principaux : la route du Nord (voie officielle), la route centrale (voie populaire) et la route du Sud (route du thé), chacune portant un contexte historique et une identité culturelle distincts. Ces dernières années, la ville de New Taipei a collaboré avec des associations civiles pour restaurer le chemin par tronçons et le rendre accessible au plus grand nombre.
+**L'ancien sentier Danlan (淡蘭古道)** est l'un des systèmes d'anciens sentiers les plus célèbres de Taïwan ; il part de Taipei, traverse New Taipei et Keelung pour rejoindre Yilan, sur plus de 200 km au total. [^11] Ce parcours se divise en trois axes principaux : la route du nord (voie officielle, 官道), la route du centre (voie populaire, 民道) et la route du sud (voie du thé, 茶道), chacun avec son histoire et sa couleur culturelle propre. Ces dernières années, le gouvernement de New Taipei collabore avec des organisations civiles pour restaurer l'ancien sentier Danlan par tronçons, permettant à davantage de gens de fouler le chemin des ancêtres.
 
-**Le Zhangzhixilu** (la « route des camphriers ») est un autre axe historique de grande importance. Serpentant sur les contreforts occidentaux de Taïwan, de Taoyuan jusqu'à Taichung sur environ 400 kilomètres, son nom évoque les ressources en camphriers qui jalonnaient l'itinéraire et les étroits sentiers de montagne issus de l'industrie du camphre. Le Zhangzhixilu est un corridor culturel qui réunit l'histoire des communautés hakkas, des peuples autochtones et des migrants han.
+**Le sentier fin des camphriers (樟之細路)** est un autre système d'anciens sentiers d'importance majeure. Cette route suit principalement la provinciale n°3 (臺三線), le long des piémonts de l'ouest de Taïwan, de Longtan (龍潭) à Taoyuan au nord jusqu'à Dongshi (東勢) à Taichung au sud ; l'axe principal fait environ 270 km, le réseau environnant environ 400 km. [^12] Son nom vient des riches ressources en camphriers le long du tracé et des fins sentiers de montagne laissés par l'industrie du camphre naissante. Le sentier fin des camphriers est un corridor culturel reliant culture hakka, culture autochtone et histoire de la colonisation han.
 
-**La Voie verte nationale Shanhaijun** est le projet de sentier longue distance le plus récent de Taïwan. Elle s'étend sur 177 kilomètres depuis le sommet du Yushan jusqu'au Parc national de Taijiang. Sa singularité tient à la diversité exceptionnelle des écosystèmes traversés : des zones alpines, aux forêts tempérées, aux plaines subtropicales, jusqu'aux zones humides côtières — un parcours pour appréhender la nature taïwanaise dans toute sa variété.
+**La voie verte nationale du canal Shan-Hai (山海圳國家綠道)** s'étend du niveau 0 m du parc national de Taijiang (台江國家公園) jusqu'au pic principal de Yushan, sur 177 km au total ; elle prend forme en 2017 lorsque la division de Taijiang de l'Université communautaire de Tainan (台南社大台江分校) relie la mer intérieure au sommet de Yushan. [^13] Sa particularité réside dans la diversité écologique la plus complète de Taïwan : de la zone alpine froide aux forêts tempérées, des plaines subtropicales aux zones humides côtières, c'est un itinéraire idéal pour comprendre l'environnement naturel de Taïwan.
 
-## L'essor d'une culture du bénévolat de sentier
+## L'essor de la culture bénévole sur les sentiers
 
-### Du simple entretien à la garde active
+### De la maintenance passive à la protection active
 
-La culture du bénévolat autour des sentiers à Taïwan a suivi une trajectoire singulière. Au départ, les activités bénévoles se limitaient à des opérations de nettoyage organisées par les pouvoirs publics, auxquelles les habitants participaient de façon ponctuelle. Avec la montée de la conscience environnementale, de plus en plus de citoyens ont commencé à s'impliquer de façon spontanée, formant un réseau de gardiens engagés.
+La culture bénévole des sentiers à Taïwan suit un développement particulier. Au début, les activités bénévoles sont surtout des opérations de nettoyage de montagne organisées par les administrations ; la participation du public reste relativement passive. Mais avec la montée de la conscience écologique, de plus en plus de citoyens se soucient activement de l'environnement des sentiers, formant une force de protection spontanée.
 
-Aujourd'hui, plus de 200 groupes d'adoption de sentiers existent sur l'ensemble du territoire : associations de quartier, clubs de randonnée, équipes de bénévoles en entreprise. Leur travail va bien au-delà du simple ramassage des déchets — ils se forment aux techniques de base de construction de sentiers, aux méthodes de suivi écologique, et participent même à la planification et à la conception des parcours, devenant de véritables « gardiens du chemin ».
+Parmi les près de 40 organisations cofondatrices du Réseau de protection des sentiers de Taïwan en 2024, on trouve des clubs d'alpinisme, des équipes de secours en montagne, des scouts, des universités communautaires et des entreprises d'équipement outdoor. [^5] Ces bénévoles ne se contentent pas de ramasser les déchets ; ils apprennent les techniques de base du génie des sentiers, les méthodes de surveillance écologique, participent même à la planification et à la conception des sentiers, devenant de véritables « gardiens des sentiers ».
 
 ### Une formation bénévole professionnalisée
 
-Qianli BuDao a mis en place un programme complet de formation pour ses bénévoles, comprenant des cours de « science des sentiers », des ateliers pratiques de techniques de construction, des compétences en relevé écologique. Les participants apprennent à réparer les sentiers avec des matériaux locaux, à diagnostiquer les causes des dégradations, à conduire des programmes de restauration végétale.
+L'Association des sentiers des mille li a mis en place un système complet de formation des bénévoles : en 2013, elle propose la « sentierologie » (步道學), ouvre des cours en collaboration avec diverses universités communautaires ; à partir de 2015, elle forme des « maîtres des sentiers » (步道師) ; en 2018, elle décerne le titre de « maître des sentiers honoraire » (榮譽步道師) aux détenteurs de savoir-faire traditionnels. [^2] Les bénévoles apprennent à réparer les sentiers avec des matériaux locaux, à diagnostiquer les causes de dégradation, à mener la revégétalisation et d'autres compétences professionnelles.
 
-Cette professionnalisation de la formation élève la participation bénévole du niveau du « coup de main » à celui de l'« engagement qualifié ». Nombreux sont les bénévoles expérimentés dont les compétences techniques rivalisent avec celles d'ingénieurs professionnels.
+Cette professionnalisation élève la maintenance des sentiers du stade de la « bonne volonté » à celui de la « participation experte ». Le niveau technique de nombreux bénévoles expérimentés n'a rien à envier à celui d'ingénieurs professionnels des sentiers.
 
-## Le « Leave No Trace » à la taïwanaise
+## Le Sans trace à Taïwan
 
-### Les sept principes du LNT en pratique locale
+### Mise en œuvre locale des sept principes LNT
 
-La philosophie du Leave No Trace (LNT) est née aux États-Unis, mais elle a connu une adaptation singulière à Taïwan. La densité de population en montagne et la fragilité des écosystèmes insulaires rendent sa mise en pratique d'autant plus urgente.
+Le concept de Sans trace (Leave No Trace, LNT) vient des États-Unis, mais il connaît à Taïwan un développement local unique. La forte densité de population en montagne et la fragilité des écosystèmes rendent l'application du LNT d'autant plus urgente.
 
-Les sept principes du LNT — « Planifier et préparer son aventure », « Circuler et bivouaquer sur des surfaces résistantes », « Gérer correctement ses déchets », « Laisser le site tel qu'on l'a trouvé », « Limiter l'impact des feux de camp », « Respecter la faune et la flore », « Être attentif aux autres usagers » — ont tous trouvé des déclinaisons concrètes dans la pratique locale.
+Les sept principes du LNT promus par le Bureau des forêts (林務局) — « planification et préparation minutieuses », « marcher et camper sur des surfaces durables », « gérer correctement les déchets pour préserver l'environnement », « préserver l'aspect originel de l'environnement », « réduire l'impact du feu sur l'environnement », « respecter la faune et la flore sauvages », « prendre en compte les autres usagers » — ont tous des modalités concrètes d'application à Taïwan. [^14]
 
-### Des défis propres à Taïwan
+### Les défis propres à Taïwan
 
-L'environnement montagnard taïwanais présente des défis particuliers pour l'application du LNT. Le taux d'humidité élevé ralentit la décomposition des déchets organiques : un simple reste de repas mal géré peut attirer singes et autres animaux sauvages. L'instabilité géologique de l'île impose une attention particulière au choix des emplacements de bivouac. Et la densité de fréquentation des sentiers rend d'autant plus nécessaire le respect des autres usagers.
+L'environnement particulier des montagnes taïwanaises pose des défis uniques à la pratique du LNT. Par exemple, l'humidité élevée ralentit la décomposition des déchets de cuisine, dont l'élimination inadéquate peut attirer des macaques et d'autres animaux sauvages ; la géologie instable impose une vigilance accrue dans le choix des sites de campement ; la forte densité de randonneurs renforce la nécessité de respecter les autres usagers.
 
-Pour répondre à ces réalités, la communauté des randonneurs a développé des pratiques adaptées, comme la règle de « redescendre tous ses déchets alimentaires » ou les systèmes de rotation des zones de bivouac.
+Pour répondre à ces problèmes, le manuel Sans trace du Bureau des forêts exige d'emporter tous les déchets, aliments et restes de cuisine en quittant le campement, sans les brûler ni les enterrer : la combustion attire l'attention des animaux ou les effraie ; les déchets enterrés sont déterrés par la faune ou remis à jour par le vent et la pluie. [^14]
 
-## Technologies et préservation des sentiers
+## Technologie et protection des sentiers
 
-### Les outils numériques au service du terrain
+### L'usage des outils numériques
 
-Les nouvelles technologies ouvrent des perspectives inédites pour la protection des sentiers. Au-delà d'iTrail déjà évoquée, d'autres innovations transforment la gestion au quotidien.
+La technologie moderne ouvre de nouvelles possibilités pour la protection des sentiers. Outre la plateforme iTrail mentionnée plus haut, de nombreuses applications innovantes transforment la gestion des sentiers.
 
-Les systèmes GPS permettent de mesurer précisément la fréquentation et d'aider les gestionnaires à définir des capacités d'accueil raisonnées. Les drones permettent un diagnostic rapide des dégradations sur de vastes zones. Des capteurs environnementaux assurent le suivi en temps réel de la qualité de l'air et des niveaux sonores.
+Les systèmes de suivi GPS permettent de surveiller précisément la fréquentation des sentiers, aidant les gestionnaires à définir des limites de capacité raisonnables ; la technologie des drones permet d'inspecter rapidement l'état de dégradation sur de vastes portions ; les capteurs environnementaux offrent un suivi en temps réel de la qualité de l'air, du bruit et d'autres indicateurs.
 
-### Mégadonnées et maintenance prédictive
+### Du signalement à la base de données
 
-En croisant différentes sources de données, des chercheurs commencent à développer des modèles prédictifs pour l'entretien des sentiers. En combinant données météorologiques, informations géologiques et statistiques de fréquentation, il devient possible d'anticiper quels tronçons sont susceptibles de se dégrader et à quel moment, pour intervenir en amont.
+L'Association des sentiers des mille li indique en 2026 que la prochaine étape consistera à développer un « système d'apprentissage en ligne » et une « base de données à reconnaissance par IA », et à signer des accords de coopération avec des institutions académiques pour transformer les signalements citoyens en données exploitables pour l'élaboration des politiques. [^8]
 
-Cette approche de « maintenance prédictive » peut considérablement réduire les coûts d'entretien tout en limitant les risques pour les usagers.
-
-## Défis présents et perspectives
+## Défis et perspectives
 
 ### La menace du changement climatique
 
-Le changement climatique mondial fait peser une pression croissante sur les forêts et montagnes de Taïwan. La multiplication des événements météorologiques extrêmes intensifie la fréquence des dégradations. La hausse des températures modifie la répartition de la végétation et perturbe l'équilibre écologique des sentiers. L'évolution des régimes de précipitations augmente les risques de coulées de boue.
+Le changement climatique mondial frappe durement l'environnement forestier et montagnard de Taïwan. La multiplication des événements météorologiques extrêmes accélère la dégradation des sentiers ; la hausse des températures modifie la répartition de la végétation, affectant l'équilibre écologique autour des sentiers ; le changement des régimes de précipitations augmente le risque de glissements de terrain.
 
-Face à ces enjeux, la planification et l'entretien des sentiers doivent intégrer une résilience climatique accrue : matériaux plus résistants aux intempéries, systèmes de drainage mieux dimensionnés, dispositifs d'intervention plus réactifs.
+Face à ces défis, la planification et la maintenance des sentiers doivent accorder une plus grande importance à l'adaptation climatique. L'adoption de matériaux plus résistants aux intempéries, la conception de systèmes de drainage plus performants, l'instauration de mécanismes de réaction plus souples sont autant d'ajustements nécessaires.
 
-### La transmission intergénérationnelle
+### L'importance de la transmission intergénérationnelle
 
-Le mouvement de garde des sentiers à Taïwan traverse un moment charnière de renouvellement des générations. Beaucoup des bénévoles les plus expérimentés ont dépassé la soixantaine, et la question de l'engagement des jeunes dans la préservation des sentiers devient cruciale.
+Le mouvement de protection des sentiers de Taïwan se trouve à un moment charnière de transition générationnelle ; attirer les jeunes vers la protection des sentiers est un enjeu majeur.
 
-La nouvelle génération apporte des compétences et des regards neufs : marketing digital, animation des réseaux sociaux, applications technologiques. Articuler l'expérience montagnarde des anciens et les outils numériques des nouveaux venus constitue le défi central de la prochaine étape du mouvement.
+La nouvelle génération de bénévoles apporte des compétences et des regards différents : marketing numérique, gestion de communautés, applications technologiques. Comment combiner l'expérience montagnarde de l'ancienne génération avec les outils numériques de la nouvelle est le défi central de la prochaine phase du mouvement de protection des sentiers.
 
 ### Échanges et apprentissages internationaux
 
-La culture des sentiers de Taïwan commence à rayonner au-delà de ses frontières. Qianli BuDao a noué des partenariats avec le « Michinoku Coastal Trail » au Japon et le « Jeju Olle Trail » en Corée, pour partager leurs expériences en matière de planification et de gestion. Ces échanges enrichissent la culture des sentiers à Taïwan tout en renforçant son positionnement dans la communauté internationale. L'expérience taïwanaise en matière de gestion des sentiers retient peu à peu l'attention au sein de la communauté Asie-Pacifique.
+La culture des sentiers de Taïwan commence à s'internationaliser. L'Association des sentiers des mille li signe en 2018 un protocole d'accord « sentiers d'amitié » avec Jeju Olle (濟州偶來) en Corée du Sud ; en 2023, elle facilite le jumelage des sentiers du centenaire de Danlan (淡蘭百年山徑) avec Miyagi Olle (宮城偶來) au Japon, et assure la même année le secrétariat de l'Alliance asiatique des sentiers (亞洲步道聯盟). [^15]
 
-## Conclusion : le sentier comme expression des valeurs de Taïwan
+Ces échanges enrichissent non seulement le contenu culturel des sentiers de Taïwan, mais rehaussent aussi la place de Taïwan dans la communauté internationale des sentiers. L'expérience taïwanaise de gestion des sentiers gagne progressivement l'attention de la communauté des sentiers en Asie-Pacifique.
 
-La culture des sentiers à Taïwan incarne les valeurs singulières de cette île : le respect de la nature, l'engagement dans la vie collective, la quête de compétences, et la conviction que c'est ensemble qu'on agit mieux. De la politique des « deux zéros » de Qianli BuDao à la participation citoyenne via iTrail, en passant par l'éthique environnementale du Leave No Trace, tous ces efforts tissent ensemble un filet de protection pour les forêts et montagnes de Taïwan.
+## Conclusion : les sentiers comme incarnation des valeurs de Taïwan
 
-Chaque sentier est une histoire. Chaque pas, une promesse. Lorsque vous marchez sur ces chemins, vous ne faites pas que vous déplacer — vous prolongez une tradition culturelle et assumez une responsabilité envers l'environnement.
+La culture des sentiers de Taïwan incarne les valeurs uniques de cette île : respect de l'environnement naturel, participation aux affaires publiques, recherche du savoir professionnel, importance accordée à la collaboration communautaire. De la « politique des deux zéros » de l'Association des sentiers des mille li à la participation citoyenne via la plateforme iTrail, en passant par l'éthique environnementale du Sans trace, ces efforts tissent ensemble un filet de sécurité pour la protection des montagnes et forêts de Taïwan.
 
-La culture des sentiers à Taïwan illustre une chose : protéger l'environnement peut être l'affaire de chacune et chacun qui aime cette terre, sans attendre l'État ni les experts. À une époque où le lien entre l'humain et la nature s'effiloche, les sentiers offrent l'occasion de renouer ce lien — et de léguer aux générations futures un patrimoine naturel précieux.
+Chaque sentier est une histoire, chaque empreinte un engagement. Quand nous foulons ces chemins de montagne, nous ne déplaçons pas seulement nos corps ; nous perpétuons une tradition culturelle, nous mettons en œuvre une responsabilité environnementale.
 
-Qianli BuDao insiste sur le fait que la garde des sentiers vise à apprendre à coexister avec la montagne ; c'est peut-être l'âme la plus fondamentale de la culture des sentiers à Taïwan.
+La culture des sentiers de Taïwan démontre une chose : la protection de l'environnement peut impliquer chaque personne qui aime cette terre, sans attendre l'État ou les experts. À une époque où la relation entre l'humain et la nature se distend, les sentiers offrent l'opportunité de se reconnecter, et préservent pour les générations futures un précieux patrimoine naturel.
+
+La mission du Réseau de protection des sentiers de Taïwan s'énonce ainsi : « Faire en sorte que la forêt et la montagne deviennent meilleures grâce à notre venue. » [^16] C'est peut-être là l'esprit le plus central de la culture des sentiers de Taïwan.
 
 ## Références
 
-[^1]: [Chronologie de l'association Qianli BuDao - iTrail](https://itrail.tw/aboutus/important-events) — Vérifie le lancement du mouvement Qianli BuDao le 23 avril 2006 et la constitution de la personne morale le 8 juin 2011.
+[^1]: [Chronologie de l'Association des sentiers des mille li - Réseau de protection des sentiers de Taïwan](https://itrail.tw/aboutus/important-events) — « Adieu aux marches en pierre » 2002, vision des deux zéros et enquête de revêtement des collines périphériques des deux municipalités lors de la conférence nationale des ONG environnementales 2012, lancement de la Journée des sentiers de Taïwan 2014, révision décennale de l'enquête de revêtement 2023, Réseau de protection des sentiers de Taïwan 2024.
 
-[^2]: [Site officiel de Qianli BuDao](https://www.tmitrail.org.tw/) — Mission de l'association, politique des « deux zéros » et idées de Huang Wu-xiong en matière de protection des sentiers.
+[^2]: [Présentation de l'Association des sentiers des mille li - Réseau de protection des sentiers de Taïwan](https://itrail.tw/aboutus/introduction) — Hsu Ming-chien rapporte le concept de sentiers façonnés à la main après son bénévolat sur l'Appalachian Trail ; 2013 proposition de la sentierologie, 2015 formation des maîtres des sentiers, 2018 distinction des maîtres des sentiers honoraires.
 
-[^3]: [Plateforme iTrail des sentiers intelligents](https://itrail.tw/) — Plateforme de signalement de l'état des sentiers, lancée en 2024, plus de 15 000 signalements reçus la première année.
+[^3]: [Origine - Association des sentiers des mille li de Taïwan](https://www.tmitrail.org.tw/about) — Les sentiers des mille li lancés le 23 avril 2006 par Huang Wu-hsiung, Hsiao Yeh, Hsu Jen-hsiu, rêve d'un réseau vert ceinturant l'île.
 
-[^4]: [Chemin historique de Danlan - Gouvernement de New Taipei](https://trails.ntpc.gov.tw/) — Présentation des trois axes du chemin historique de Danlan et de son plan de restauration.
+[^4]: [20 ans de protection des plus beaux « sentiers de tous » de Taïwan - Sourire Taïwan](https://smiletaiwan.cw.com.tw/article/9059) — Reportage du 20e anniversaire en avril 2026, relatant l'assemblée de lancement du 23 avril 2006 et les trois fondateurs.
 
-[^5]: [Vingt ans de Qianli BuDao : la naissance d'un chemin - Smile Taiwan](https://smiletaiwan.cw.com.tw/article/9059) — Reportage sur les vingt ans d'action de l'association Qianli BuDao.
+[^5]: [Naissance du premier site citoyen de veille des sentiers de Taïwan - Réseau de protection des sentiers de Taïwan](https://itrail.tw/news/8304) — Communiqué de la conférence de presse du 4 juin 2024 : près de 40 organisations cofondatrices, mécanisme de signalement et usage auprès des autorités publiques.
+
+[^6]: [Page d'accueil du Réseau de protection des sentiers de Taïwan](https://itrail.tw/) — Statistiques de signalement (lecture d'octobre 2026 : 2 702 signalements cumulés, 314 rapporteurs) et classification des signalements.
+
+[^7]: [Historique du développement - Association des sentiers des mille li de Taïwan](https://www.tmitrail.org.tw/page/1795) — 2012 nouvelle vision des sentiers et trilogie de protection des collines périphériques ; institution du premier samedi de juin comme Journée des sentiers de Taïwan, première édition 2014.
+
+[^8]: [Lancement officiel de la « Deuxième mobilisation nationale de surveillance synchronisée » pour la Journée des sentiers de Taïwan 2026 - Réseau de protection des sentiers de Taïwan](https://itrail.tw/news/12170) — Période du 6 au 30 juin, signalement par estimation à l'échelle corporelle, fonction brouillon, prochaines étapes : système d'apprentissage en ligne et base de données à reconnaissance par IA.
+
+[^9]: [Journée des sentiers de Taïwan 2025 : résultats publics de la révision décennale de l'enquête de revêtement des deux municipalités - Réseau de protection des sentiers de Taïwan](https://itrail.tw/news/10713) — Réexamen 2023-2025 de 324 sentiers, 572,5 km ; Taipei béton 74 %→47 %, naturel 10 %→27 %, Taichung béton 54,6 %→37 %, béton net des deux municipalités +22 km environ.
+
+[^10]: [Origine de l'enquête de revêtement 1.0 - Réseau de protection des sentiers de Taïwan](https://itrail.tw/aboutus/the-origin-of-shop-floor-survey-1-0) — Résultats de l'enquête de revêtement des 272 sentiers de collines périphériques des deux municipalités (Taipei béton près de 75 %, naturel 10 % ; New Taipei béton ~27 %, revêtements artificiels 64 %) et enquête Taichung 2018.
+
+[^11]: [Lancement de la voie verte nationale Danlan : reconnaissance du sens humaniste des sentiers - Agence centrale de presse](https://www.cna.com.tw/news/aloc/201806020109.aspx) — 2018, les trois routes nord, centre, sud de l'ancien sentier Danlan totalisent environ 200 km, incluant voie officielle, voie populaire, voie du thé.
+
+[^12]: [Le sentier fin des camphriers - Business Weekly](https://www.businesstoday.com.tw/article/category/80730/post/202011100016/) — Conseil des affaires hakka : axe principal sur la provinciale n°3, de Longtan (Taoyuan) à Dongshi (Taichung), axe principal ~270 km, réseau ~400 km.
+
+[^13]: [Remonter les 400 ans de Taïwan : entrer dans la voie verte nationale du canal Shan-Hai - Sourire Taïwan](https://smiletaiwan.cw.com.tw/article/3018) — Lin Hua-ching (2020) : du parc national de Taijiang à Yushan, 177 km, formée en 2017 par la division de Taijiang de l'Université communautaire de Tainan.
+
+[^14]: [Concept d'action Sans trace - Bureau des forêts](https://recreation.forest.gov.tw/Files/RT/Doc/%E7%84%A1%E7%97%95%E5%B1%B1%E6%9E%97%E8%A1%8C%E5%8B%95%E6%A6%82%E5%BF%B5.pdf) — Texte original des sept principes du Sans trace, et pratique d'emporter déchets, aliments, restes de cuisine, sans brûler ni enterrer.
+
+[^15]: [Échanges internationaux - Association des sentiers des mille li de Taïwan](https://www.tmitrail.org.tw/work-content/1425) — 2018 MOU sentiers d'amitié avec Jeju Olle, 2023 secrétariat de l'Alliance asiatique des sentiers, jumelage Danlan avec Miyagi Olle.
+
+[^16]: [Explication de la mission du Réseau de protection des sentiers - Réseau de protection des sentiers de Taïwan](https://itrail.tw/aboutus/mission-statement) — Idéal « zéro perte pour les sentiers naturels, zéro croissance pour les sentiers en béton » et mission du site.
