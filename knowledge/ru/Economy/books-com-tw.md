@@ -104,7 +104,7 @@ translatedAt: '2026-08-09T15:02:45+08:00'
 
 ## Дополнительное чтение
 
-- **[Тайваньские предприятия: Uni-President Enterprises](/economy/台灣企業：統一企業)** — Стратегическая раскладка группы Uni-President по интеграции ритейл-ландшафта всего Тайваня
+- **[Тайваньские предприятия: Uni-President Enterprises](/ru/economy/taiwan-enterprise-uni-president)** — Стратегическая раскладка группы Uni-President по интеграции ритейл-ландшафта всего Тайваня
 - **[PX Mart (全聯福利中心)](/ru/economy/pxmart-supermarket)** — От кооперативного магазина до короля ритейла: битва каналов
 - **[Shopping Design](/culture/Shopping Design)** — Превращение дизайна в медиа-практику повседневного потребления и стиля жизни
 

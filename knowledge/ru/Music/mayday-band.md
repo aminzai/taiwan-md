@@ -105,7 +105,7 @@ translatedAt: '2026-09-22T10:29:40+08:00'
 
 ## Дополнительное чтение
 
-- [Тайваньская популярная музыка](/music/台灣流行音樂/)
+- [Тайваньская популярная музыка](/ru/music/golden-melodies-legacy-taiwan-pop-music/)
 - [Группа «Огнетушитель»](/ru/music/fire-ex/)
 - [Тайваньская инди-музыка](/ru/music/indie-music-scene/)
 
