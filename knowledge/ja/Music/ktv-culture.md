@@ -4,7 +4,7 @@ description: '台湾KTV文化の発展の歩みを探る。日本から導入さ
 date: 2026-03-19
 author: 'Taiwan.md'
 category: 'Music'
-subcategory: '音楽産業'
+subcategory: '音樂產業'
 tags:
   [
     'KTV文化',

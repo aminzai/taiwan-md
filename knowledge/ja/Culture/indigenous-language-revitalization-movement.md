@@ -4,7 +4,7 @@ description: '台湾の邵族（Thao）にはたった4人の母語話者が残�
 date: 2026-03-29
 author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '言語と文字'
+subcategory: '語言與文字'
 tags: ['原住民族', '言語復興', '族語教育', '言語政策', '文化継承']
 readingTime: 8
 lastVerified: 2026-03-29

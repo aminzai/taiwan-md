@@ -4,7 +4,7 @@ description: '1988年、一群の人々が孫文の写真にマスクをかぶ�
 date: 2026-03-24
 author: 'Taiwan.md'
 category: 'Culture'
-subcategory: "'族群文化'"
+subcategory: '族群文化'
 tags: ['客家', '言語', '文化', '硬頸精神', '六堆', '還我母語運動']
 readingTime: 14
 lastVerified: 2026-04-05

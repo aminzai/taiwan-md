@@ -13,7 +13,7 @@ tags:
     'ひまわり学生運動',
     '全民防衛',
   ]
-subcategory: '民主主義と政治'
+subcategory: '民主與政治'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-12

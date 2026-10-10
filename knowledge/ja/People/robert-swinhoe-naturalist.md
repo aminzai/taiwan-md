@@ -4,7 +4,7 @@ description: '1856年、19歳のイギリス人通訳官がフォルモサの西
 date: 2026-04-12
 author: Taiwan.md
 category: People
-subcategory: 歴史人物
+subcategory: '歷史人物'
 tags:
   - 博物学
   - イギリス領事

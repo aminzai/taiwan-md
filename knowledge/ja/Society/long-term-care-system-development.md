@@ -3,7 +3,7 @@ title: '台湾の長期介護制度の発展'
 description: '世界で最も先進的な介護制度でありながら、同時に最大の見えない介護体系が存在する'
 date: 2026-03-22
 tags: ['長期介護', '高齢化', '外国人介護員', '長照2.0', '制度の矛盾']
-subcategory: '社会福祉'
+subcategory: '社會福利'
 category: 'Society'
 author: 'Taiwan.md'
 featured: false

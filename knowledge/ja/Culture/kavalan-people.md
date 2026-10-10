@@ -4,7 +4,7 @@ description: '蘭陽平原の河海集落、1878年の加禮宛戦役から2002�
 date: 2026-08-14
 category: 'Culture'
 tags: ['先住民族', 'カバラン族', 'バナナ繊維', '民族正名', '加禮宛戦役', '族語']
-subcategory: 'エスニック文化'
+subcategory: '族群文化'
 author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 15

@@ -4,7 +4,7 @@ description: '2020年12月13日、楊深坑は台大病院から休暇を取り�
 date: 2026-04-25
 author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '教育と社会'
+subcategory: '教育與社會'
 tags:
   - 教育
   - 教育哲学

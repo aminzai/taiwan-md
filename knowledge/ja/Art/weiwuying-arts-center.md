@@ -4,7 +4,7 @@ description: '1992年、民間運動が高雄の衛武営を軍事用地の未�
 date: 2026-08-14
 category: 'Art'
 tags: ['衛武営', '高雄', '建築', '表演芸術', '文化平等']
-subcategory: '舞台芸術'
+subcategory: '表演藝術'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-14

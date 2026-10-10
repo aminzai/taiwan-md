@@ -4,7 +4,7 @@ description: '1967年、麦幸夫が台北武昌街で東陽焼味行を創業�
 date: 2026-08-14
 category: 'Food'
 tags: ['焼味', '弁当', '香港', '移民', '新東陽', '食文化']
-subcategory: '食のシーン'
+subcategory: '飲食場景'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-08-14

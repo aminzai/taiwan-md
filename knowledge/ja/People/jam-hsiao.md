@@ -4,7 +4,7 @@ description: '「挑戦者」から金曲（ゴールデンメロディー）歌
 date: 2026-03-23
 category: 'People'
 tags: ['音楽', 'ポップス', 'ジャズ', '超級星光大道', '金曲獎', '雨神']
-subcategory: '音楽と表演'
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23

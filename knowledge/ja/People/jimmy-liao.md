@@ -12,7 +12,7 @@ tags:
     '宜蘭',
     '映画化',
   ]
-subcategory: 'アートとデザイン'
+subcategory: '藝術與設計'
 author: 'Taiwan.md'
 category: 'People'
 readingTime: 12

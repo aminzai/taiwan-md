@@ -4,7 +4,7 @@ description: '政治について一度も語ったことのない台南の少女
 date: 2026-04-14
 author: 'Taiwan.md'
 category: People
-subcategory: '音楽とパフォーマンス'
+subcategory: '音樂與表演'
 tags:
   [
     '周子瑜',

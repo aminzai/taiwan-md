@@ -4,7 +4,7 @@ description: '1947年の二二八事件の際、父鄭木森は台湾人隠れ�
 date: 2026-03-25
 author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '政治と民主'
+subcategory: '政治與民主'
 tags: ['民主運動', '言論自由', '自由時代', '殉道者', '二二八', '台湾独立']
 lastVerified: 2026-05-13
 lastHumanReview: false
@@ -112,10 +112,15 @@ translatedAt: '2026-05-20T05:08:29+08:00'
 ## 参考文献
 
 [^1]: [自由時代週刊 — ウィキペディア](https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%99%82%E4%BB%A3%E5%91%A8%E5%88%8A) — 創刊日1984年3月12日、24枚の許可証申請、18回の発売禁止記録を確認。
+
 [^2]: [鄭南榕基金会・記念館](https://www.nfreedommemorialfoundation.org/) — 年表：1987年二二八記念活動の公的呼びかけ、1989年1月21日起訴の経緯。
+
 [^3]: [許世楷 — ウィキペディア](https://zh.wikipedia.org/wiki/%E8%A8%B1%E4%B8%96%E6%A5%B7) — 『台湾共和国憲法草案』の著者背景、『自由時代』第254号掲載に伴う起訴の経過。
+
 [^4]: [鄭南榕 — ウィキペディア](https://zh.wikipedia.org/wiki/%E9%84%AD%E5%8D%97%E6%A6%95) — 1989年4月7日の突入作戦が中山分局侯友宜の指揮によること、詹益樺が7日後の葬儀行列で自焚したことを確認。
+
 [^5]: [葉菊蘭 — ウィキペディア](https://zh.wikipedia.org/wiki/%E8%91%89%E8%8F%8A%E8%98%AD) — 歴任公職の確認：立法委員、交通部長、客委員会主任委員、行政院副院長、大統領府秘書長（2006–2007）。
+
 [^6]: [言論自由日 — 行政院](https://www.ey.gov.tw/) — 2016年12月22日、4月7日を言論自由日と定める公告。
 
 **関連記事**

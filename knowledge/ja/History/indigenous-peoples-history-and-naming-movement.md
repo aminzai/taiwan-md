@@ -3,7 +3,7 @@ title: '台湾原住民族の歴史と正名運動'
 description: '1987年、19歳のツォウ族（鄒族）の青年が台北の刑場で銃殺された。彼の死が、正名運動の最初の火を灯した。'
 date: 2026-03-29
 category: 'History'
-subcategory: '史前と原住民'
+subcategory: '史前與原住民'
 tags: ['原住民族', '正名運動', 'アイデンティティ', '社会運動', '文化保存']
 lastHumanReview: false
 featured: false

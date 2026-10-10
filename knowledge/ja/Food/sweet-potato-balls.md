@@ -12,7 +12,7 @@ tags:
     'もったいない文化',
     'タピオカ澱粉',
   ]
-subcategory: '定番小吃'
+subcategory: '經典小吃'
 author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-07-29

@@ -4,7 +4,7 @@ description: '林昶佐は閃靈のボーカル Freddy として、二・二八�
 date: 2026-07-10
 category: 'People'
 tags: ['人物', '音楽', 'ヘヴィメタル', '政治', '社会運動', '閃靈']
-subcategory: '音楽と公共人物'
+subcategory: '音樂與公共人物'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-10

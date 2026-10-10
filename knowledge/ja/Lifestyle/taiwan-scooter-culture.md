@@ -4,7 +4,7 @@ description: '世界で最もバイク密度が高い国は、人々がバイク
 date: 2026-03-25
 author: 'Taiwan.md'
 category: 'Lifestyle'
-subcategory: '交通と移動'
+subcategory: '交通與移動'
 tags:
   [
     '生活',

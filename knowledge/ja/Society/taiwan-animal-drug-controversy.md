@@ -4,7 +4,7 @@ description: '2026年7月1日、「人用医薬品の犬猫および非経済動
 date: 2026-04-10
 author: 'Taiwan.md'
 category: 'Society'
-subcategory: '動物と倫理'
+subcategory: '動物與倫理'
 tags:
   [
     '動物用薬品',

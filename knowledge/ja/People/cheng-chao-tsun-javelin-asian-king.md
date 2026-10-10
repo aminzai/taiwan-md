@@ -12,7 +12,7 @@ tags:
     'アジア記録',
     '東京オリンピック',
   ]
-subcategory: '体育'
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

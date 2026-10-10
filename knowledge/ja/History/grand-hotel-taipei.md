@@ -4,7 +4,7 @@ description: '日治時代の神社跡地から蔣宋美齢の国賓館へ、円
 date: 2026-08-13
 category: 'History'
 tags: ['建築', '蔣宋美齢', '民主進歩党', 'ランドマーク', '冷戦', '楊卓成']
-subcategory: '戦後と権威主義時代'
+subcategory: '戰後與威權'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-13

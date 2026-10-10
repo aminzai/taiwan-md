@@ -14,7 +14,7 @@ tags:
     '医療法人',
     '台湾社会',
   ]
-subcategory: '法律と制度'
+subcategory: '法律與制度'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-07-13

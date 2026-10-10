@@ -14,7 +14,7 @@ tags:
     '金鐘奨',
     '好多音樂',
   ]
-subcategory: '音楽家'
+subcategory: '音樂人'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-07

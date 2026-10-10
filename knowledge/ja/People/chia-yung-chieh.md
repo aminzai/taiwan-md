@@ -13,7 +13,7 @@ tags:
     '公共動員',
     'Alex Honnold',
   ]
-subcategory: 'Arts, Entertainment and Media'
+subcategory: '藝術、娛樂與媒體'
 author: 'Taiwan.md'
 category: 'People'
 readingTime: 12

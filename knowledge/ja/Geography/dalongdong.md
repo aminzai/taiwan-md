@@ -4,7 +4,7 @@ description: '現在から 5,300 年前の圓山貝塚から、1742 年に同安
 date: 2026-05-21
 author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '歴史街区 / 台北市大同区・中山区境界'
+subcategory: '歷史街區 / 台北市大同區、中山區邊界'
 tags:
   [
     '大龍峒',

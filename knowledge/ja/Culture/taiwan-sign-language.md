@@ -4,7 +4,7 @@ description: '台湾手話は口語を手振りに翻訳したものではなく
 date: 2026-08-16
 category: 'Culture'
 tags: ['台湾手話', 'ろう文化', '言語政策', 'ろう教育', '国家言語']
-subcategory: '言語とコミュニティ'
+subcategory: '語言與社群'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16

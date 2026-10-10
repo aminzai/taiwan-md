@@ -4,7 +4,7 @@ description: '1976年生まれ、台湾の創作歌手・蕭煌奇（しょう�
 date: 2026-04-19
 author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '音楽と表演'
+subcategory: '音樂與表演'
 tags: ['蕭煌奇', '全方位バンド', '金曲賞', '柔道国手', '地獄ネタ']
 readingTime: 12
 lastVerified: 2026-04-19

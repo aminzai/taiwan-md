@@ -12,7 +12,7 @@ tags:
     'Media Literacy',
     'Local Fanpages',
   ]
-subcategory: 'Information Environment'
+subcategory: '資訊環境'
 author: 'Taiwan.md'
 category: 'Society'
 readingTime: 12

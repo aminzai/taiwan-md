@@ -16,7 +16,7 @@ tags:
     '海角七号',
     '金馬奨',
   ]
-subcategory: '映画'
+subcategory: '電影'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-13

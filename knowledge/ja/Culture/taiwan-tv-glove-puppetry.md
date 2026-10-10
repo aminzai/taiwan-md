@@ -4,7 +4,7 @@ description: '雲林虎尾の街頭で伝統的な布袋戯一座から、テレ
 date: 2026-08-12
 category: 'Culture'
 tags: ['布袋戯', '黄海岱', '雲州大儒俠', '素還真', '台湾文化', '伝統芸術']
-subcategory: '工芸と美学'
+subcategory: '工藝與美學'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-12

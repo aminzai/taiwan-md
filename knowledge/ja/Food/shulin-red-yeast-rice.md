@@ -4,7 +4,7 @@ description: '樹林はかつて台湾唯一の紅麹製造工場であり、紅
 date: 2026-08-11
 category: 'Food'
 tags: ['紅麹', '樹林', '紅露酒', '発酵', '新北市', '地元特産', '文化祭']
-subcategory: '発酵文化'
+subcategory: '發酵文化'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-11

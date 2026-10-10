@@ -4,7 +4,7 @@ description: '早朝7時の台北橋の引き道で、数万台のスクータ�
 date: 2026-08-13
 category: 'Lifestyle'
 tags: ['スクーターの滝', '台北橋', '通勤', '都市計画', '交通文化', '庶民経済']
-subcategory: '交通とモビリティ'
+subcategory: '交通與移動'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-13

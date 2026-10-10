@@ -4,7 +4,7 @@ description: '2020年、21歳の台中出身の少女がオーディション番
 date: 2026-04-23
 author: 'Taiwan.md'
 category: People
-subcategory: '音楽とパフォーマンス'
+subcategory: '音樂與表演'
 tags:
   - 連穎
   - ERIN

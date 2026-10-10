@@ -4,7 +4,7 @@ description: '1997年、内気な18歳の少年が中国語ポップミュージ
 date: 2026-03-23
 author: 'Taiwan.md'
 category: 'People'
-subcategory: '音楽とパフォーマンス'
+subcategory: '音樂與表演'
 tags:
   [
     '人物',

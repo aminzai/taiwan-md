@@ -4,7 +4,7 @@ description: '2026年5月2日、元親民党主席の宋楚瑜、時代力量党
 date: 2026-05-05
 author: 'Taiwan.md'
 category: 'Society'
-subcategory: 'メディア'
+subcategory: '媒體'
 tags:
   [
     'メディア',

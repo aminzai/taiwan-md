@@ -4,7 +4,7 @@ description: 'ボラは西部沿岸の漁民から「信魚」と呼ばれ、冬
 date: 2026-08-15
 category: 'Food'
 tags: ['からすみ', 'ボラ', '口湖', '水産養殖', '年節料理', '沿岸漁業']
-subcategory: '食材と調味料'
+subcategory: '食材與調味'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-15

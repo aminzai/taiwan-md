@@ -3,7 +3,7 @@ title: '原住民文学'
 description: '「無文字の歌声」から書かれた創作へ——千年にわたる文学の進化史'
 date: 2026-03-24
 category: 'Art'
-subcategory: "'文学'"
+subcategory: '文學'
 tags: ['文学', '先住民族', '口承文学', 'オーストロネシア語族', '文化復興']
 readingTime: 7
 lastVerified: 2026-03-24

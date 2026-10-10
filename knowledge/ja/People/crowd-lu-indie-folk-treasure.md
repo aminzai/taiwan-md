@@ -4,7 +4,7 @@ description: '2003年、台南の少年がバイクで夜食を買いに出か�
 date: 2026-04-07
 author: 'Taiwan.md'
 category: 'People'
-subcategory: '音楽とパフォーマンス'
+subcategory: '音樂與表演'
 tags:
   [
     人物,

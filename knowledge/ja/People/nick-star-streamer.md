@@ -11,7 +11,7 @@ tags:
     'ボクシング',
     'ジェンダーとアイデンティティ',
   ]
-subcategory: 'デジタルとメディア'
+subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20

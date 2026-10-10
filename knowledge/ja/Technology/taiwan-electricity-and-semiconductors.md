@@ -10,7 +10,7 @@ tags:
   - 'TSMC'
   - 'AIハードウェア'
   - 'サプライチェーン'
-subcategory: '半導体とハードウェア'
+subcategory: '半導體與硬體'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-11

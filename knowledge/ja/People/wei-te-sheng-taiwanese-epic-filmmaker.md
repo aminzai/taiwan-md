@@ -13,7 +13,7 @@ tags:
     '賽德克バライ',
     '台南',
   ]
-subcategory: '映画と演劇'
+subcategory: '電影與戲劇'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

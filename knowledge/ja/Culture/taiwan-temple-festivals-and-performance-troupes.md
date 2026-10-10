@@ -4,7 +4,7 @@ description: '台湾には12,000の寺院があり、世界最高の信仰密度
 date: 2026-03-20
 author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '宗教と民俗'
+subcategory: '宗教與民俗'
 tags: ['廟会', '陣頭', '民間信仰', '電音三太子', '八家将', '媽祖巡礼']
 readingTime: 8
 lastVerified: 2026-03-21

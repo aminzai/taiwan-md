@@ -11,7 +11,7 @@ tags:
     '先住民族語',
     '法的訴訟',
   ]
-subcategory: '社群與數位文化'
+subcategory: '公民科技'
 date: 2026-04-29
 lastVerified: 2026-04-29
 lastHumanReview: false

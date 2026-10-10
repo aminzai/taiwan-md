@@ -12,7 +12,7 @@ tags:
     '柏成設計',
     '雄獅トラベル',
   ]
-subcategory: '交通と美学'
+subcategory: '交通與美學'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-17

@@ -4,7 +4,7 @@ description: '凹と山（Our Shame）は台湾の電気民謡デュオで、メ
 date: 2026-04-18
 author: 'Taiwan.md'
 category: 'People'
-subcategory: '音楽とパフォーマンス'
+subcategory: '音樂與表演'
 tags:
   - '人物'
   - '凹と山'

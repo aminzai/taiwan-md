@@ -4,7 +4,7 @@ description: '台湾本島のユーラシアカワウソは1980年代以降、�
 date: 2026-04-25
 author: 'Taiwan.md Contributors'
 category: Nature
-subcategory: '保育と環境'
+subcategory: '保育與環境'
 tags:
   [
     'ユーラシアカワウソ',

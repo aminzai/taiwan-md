@@ -4,7 +4,7 @@ description: '将軍の子が反抗期の少年になり、反抗期の少年が
 date: 2026-03-28
 author: 'Taiwan.md'
 category: 'People'
-subcategory: '藝術と文化人物'
+subcategory: '藝術與文化人物'
 tags: ['監督', 'テレビ', '映画', '植劇場', '公視', '金鐘賞', 'LGBTQ+']
 lastVerified: 2026-03-28
 lastHumanReview: true

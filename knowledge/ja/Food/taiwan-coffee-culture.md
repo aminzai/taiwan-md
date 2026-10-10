@@ -11,7 +11,7 @@ tags:
     'コンビニ',
     'サードプレイス',
   ]
-subcategory: '飲み物文化'
+subcategory: '飲品文化'
 category: 'Food'
 author: 'Taiwan.md Contributors'
 readingTime: 12

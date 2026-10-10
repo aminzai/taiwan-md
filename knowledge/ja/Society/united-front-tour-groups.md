@@ -10,7 +10,7 @@ tags:
     'Influencer Politics',
     'Democratic Resilience',
   ]
-subcategory: 'Cross-Strait Relations'
+subcategory: '兩岸關係'
 author: 'Taiwan.md Contributors'
 category: 'Society'
 readingTime: 25

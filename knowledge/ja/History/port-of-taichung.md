@@ -4,7 +4,7 @@ description: '1973年10月31日、陳樹曦が梧棲北堤に最初の石を投�
 date: 2026-08-20
 category: 'History'
 tags: ['台中港', '梧棲', '十大建設', '港湾史', '海岸工学', '白イルカ']
-subcategory: '経済発展史'
+subcategory: '經濟發展史'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20

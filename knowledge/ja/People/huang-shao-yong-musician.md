@@ -4,7 +4,7 @@ description: '2022年、金曲賞33のバックステージ。黄少雍は最優
 date: 2026-04-20
 author: 'Taiwan.md'
 category: 'People'
-subcategory: '音楽とパフォーマンス'
+subcategory: '音樂與表演'
 tags:
   [
     人物,

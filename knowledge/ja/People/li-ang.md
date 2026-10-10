@@ -4,7 +4,7 @@ description: '1952年彰化鹿港に生まれる。本名は施淑端。1983年�
 date: 2026-03-19
 category: 'People'
 tags: ['文学', '女性主義文学', '殺夫', '迷園', '鹿港', 'ジェンダー問題']
-subcategory: '文学'
+subcategory: '文學'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

@@ -4,7 +4,7 @@ description: '三国時代の武将・関羽は敗れて斬首されたが、台
 date: 2026-03-26
 author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '宗教と民俗'
+subcategory: '宗教與民俗'
 tags: ['関聖帝君', '恩主公', '行天宮', '民間信仰', '廟文化']
 readingTime: 10
 lastVerified: 2026-03-26

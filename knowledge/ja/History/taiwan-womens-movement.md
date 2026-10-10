@@ -4,7 +4,7 @@ description: '1971年に呂秀蓮が新女性主義を提唱し、1982年に李�
 date: 2026-08-20
 category: 'History'
 tags: ['女性運動', 'ジェンダー平等', '女性主義', '社会運動', '法制史']
-subcategory: '戦後と権威主義時代'
+subcategory: '戰後與威權'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20

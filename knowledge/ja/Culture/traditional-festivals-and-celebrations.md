@@ -4,7 +4,7 @@ description: '疫病を退散させるために爆竹を鳴らした小さな町
 date: 2026-03-24
 author: 'Taiwan.md'
 category: 'Culture'
-subcategory: '宗教と民俗'
+subcategory: '宗教與民俗'
 tags:
   ['伝統祝祭', '民俗', '媽祖の巡行', '塩水蜂炮', '春節', '中秋のバーベキュー']
 readingTime: 12

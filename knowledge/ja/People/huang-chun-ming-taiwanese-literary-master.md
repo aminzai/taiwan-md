@@ -10,7 +10,7 @@ tags:
   - '小人物'
   - '息子の大きな人形'
   - '海を見る日々'
-subcategory: '文学'
+subcategory: '文學'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

@@ -16,7 +16,7 @@ tags:
     '金門',
     '尽力学',
   ]
-subcategory: '体育'
+subcategory: '體育'
 author: 'Taiwan.md'
 readingTime: 15
 lastVerified: 2026-04-14

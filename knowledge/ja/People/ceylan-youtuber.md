@@ -4,7 +4,7 @@ description: 'ベルギー出身のYouTuberセイランが台湾で生活し、�
 date: 2026-08-19
 category: 'People'
 tags: ['セイラン', 'セイラン', 'ユーチューバー', 'ネット文化', '台湾']
-subcategory: 'デジタルとメディア'
+subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-19

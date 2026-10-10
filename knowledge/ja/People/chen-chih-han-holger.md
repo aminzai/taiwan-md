@@ -13,7 +13,7 @@ tags:
     '政治コミュニケーション',
     'チンギス・ハン',
   ]
-subcategory: '政治と民主主義'
+subcategory: '政治與民主'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20

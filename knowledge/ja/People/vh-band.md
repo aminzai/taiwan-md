@@ -16,7 +16,7 @@ tags:
     エモーショナルロック,
   ]
 category: People
-subcategory: 音楽とパフォーマンス
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 readingTime: 12

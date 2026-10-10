@@ -4,7 +4,7 @@ description: 'OEM 受託製造から自社ブランドへ、台湾音響産業�
 date: 2026-03-19
 author: 'Taiwan.md'
 category: 'Technology'
-subcategory: '音響産業'
+subcategory: '音響產業'
 tags: ['音響産業', '電子製造', '音響技術', 'ハイエンドオーディオ', 'プロ用音響']
 lastVerified: 2026-03-19
 lastHumanReview: false

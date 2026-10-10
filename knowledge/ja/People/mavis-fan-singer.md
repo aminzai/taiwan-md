@@ -4,7 +4,7 @@ description: '1996年、19歳のファン・シャオシュアンは一曲『健
 date: 2026-04-20
 category: 'People'
 tags: ['音楽', 'シンガーソングライター', '金曲奨', '100%バンド', '華語ポップス']
-subcategory: '音楽家'
+subcategory: '音樂人'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-20

@@ -4,7 +4,7 @@ description: '国華街と海安路の地下には、清代「五条港」の河
 date: 2026-06-30
 author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '定番小吃'
+subcategory: '經典小吃'
 tags: ['台南', '小吃', '五条港', '中西区', '牛肉湯', 'シメット', 'サナ意麺']
 readingTime: 8
 lastVerified: 2026-06-30

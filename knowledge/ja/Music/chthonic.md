@@ -17,7 +17,7 @@ tags:
   - '台湾語'
   - '台湾史'
   - '林昶佐'
-subcategory: 'ヘヴィメタル / 台湾史'
+subcategory: '重金屬 / 台灣史'
 author: 'Taiwan.md Contributors'
 featured: false
 canonical-order: 999

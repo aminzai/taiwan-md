@@ -4,7 +4,7 @@ description: '1891年、嘉義・民雄の行商人 盧欺頭は、長雨で湿�
 date: 2026-07-29
 category: 'Food'
 tags: ['嘉義', '新港', '奉天宮', '伝統菓子', '進香文化']
-subcategory: '定番の小吃'
+subcategory: '經典小吃'
 author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-07-29

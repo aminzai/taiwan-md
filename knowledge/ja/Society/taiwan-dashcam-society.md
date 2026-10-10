@@ -14,7 +14,7 @@ tags:
     'デジタルメディア',
     'テクノロジー産業',
   ]
-subcategory: 'メディアと言論'
+subcategory: '媒體與言論'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-18

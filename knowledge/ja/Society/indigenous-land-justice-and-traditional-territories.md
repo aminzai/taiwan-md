@@ -4,7 +4,7 @@ description: '台湾先住民族の土地権利の歴史的背景、法的発展
 date: 2026-03-20
 author: 'Taiwan.md Contributors'
 category: Society
-subcategory: '人權と平等'
+subcategory: '人權與平等'
 tags: ['先住民族', '土地正義', '伝統領域', '転換正義', '原転会', '土地権利']
 readingTime: 9
 lastVerified: 2026-03-20

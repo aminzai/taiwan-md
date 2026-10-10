@@ -4,7 +4,7 @@ description: '1990年、蔡同栄は葬儀を理由に台湾へ帰国し、20余
 date: 2026-08-16
 category: 'People'
 tags: ['蔡同栄', '国民投票', '民視', 'FAPA', '台湾民主', '海外ブラックリスト']
-subcategory: '政治と民主主義'
+subcategory: '政治與民主'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16

@@ -4,7 +4,7 @@ description: '1987年生まれの鄭宜農（Enno Cheng）、父はニューシ�
 date: 2026-04-18
 author: 'Taiwan.md'
 category: 'People'
-subcategory: '音楽と表演'
+subcategory: '音樂與表演'
 tags:
   [
     人物,

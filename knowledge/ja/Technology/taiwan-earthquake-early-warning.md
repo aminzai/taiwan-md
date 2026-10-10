@@ -4,7 +4,7 @@ description: '1999年の集集地震後、呉逸民ら研究者が低価格のP�
 date: 2026-08-19
 category: 'Technology'
 tags: ['地震早期警報', 'P-Alert', '防災技術', '地震科学', '社会レジリエンス']
-subcategory: '防災技術'
+subcategory: '防災科技'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-19

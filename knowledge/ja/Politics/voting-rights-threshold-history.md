@@ -4,7 +4,7 @@ description: '2022年11月26日午後4時、台湾全土の投開票所スタッ
 date: 2026-05-27
 author: 'Taiwan.md'
 category: 'Politics'
-subcategory: '選挙制度'
+subcategory: '選舉制度'
 tags:
   [
     '投票権',

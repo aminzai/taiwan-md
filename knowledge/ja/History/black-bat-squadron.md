@@ -4,7 +4,7 @@ description: '1952年に編成された空軍第34中隊は、冷戦の霧のな
 date: 2026-08-01
 category: 'History'
 tags: ['冷戦', '空軍', '黒バット中隊', '新竹', '特殊任務', '西方公司']
-subcategory: '軍事史'
+subcategory: '軍事歷史'
 author: 'Taiwan.md Translation Team'
 featured: false
 readingTime: 12

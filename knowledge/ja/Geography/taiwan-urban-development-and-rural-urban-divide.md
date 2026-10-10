@@ -4,7 +4,7 @@ description: '70年間で農業の島から都市の島へ、六都に7割の人
 date: 2026-03-21
 author: 'Taiwan.md'
 category: 'Geography'
-subcategory: '城市と人文地理'
+subcategory: '城市與人文地理'
 tags: ['都市発展', '都市・農村格差', '六都', '人口移動', '地域発展']
 readingTime: 12
 lastVerified: 2026-03-21

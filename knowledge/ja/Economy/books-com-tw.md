@@ -14,7 +14,7 @@ tags:
     '台湾EC',
     'デジタルトランスフォーメーション',
   ]
-subcategory: '企業列伝'
+subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
 featured: false
 curation: 'incubating'

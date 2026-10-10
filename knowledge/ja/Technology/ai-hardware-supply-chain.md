@@ -17,7 +17,7 @@ tags:
   - '先端プロセス'
   - '先進パッケージング'
   - '台湾のテクノロジー産業'
-subcategory: '半導体とハードウェア'
+subcategory: '半導體與硬體'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-11

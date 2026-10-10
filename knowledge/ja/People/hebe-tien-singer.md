@@ -17,7 +17,7 @@ tags:
     'Tian Diao Tour',
     'Hakka',
   ]
-subcategory: 'Music and Performance'
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 category: 'People'
 readingTime: 18

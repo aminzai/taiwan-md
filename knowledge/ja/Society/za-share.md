@@ -13,7 +13,7 @@ tags:
     'Huashan 1914',
     '318 Student Movement',
   ]
-subcategory: 'Education'
+subcategory: '教育'
 author: 'Taiwan.md'
 category: 'Society'
 readingTime: 12

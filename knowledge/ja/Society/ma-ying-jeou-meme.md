@@ -4,7 +4,7 @@ description: '2012年以降、前総統馬英九の発言や行動が台湾の�
 date: 2026-04-21
 category: 'Society'
 tags: ['馬英九', 'ミーム', '政治', 'ネット文化', '台湾', '社会', '文化']
-subcategory: 'メディアと言論'
+subcategory: '媒體與言論'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-21

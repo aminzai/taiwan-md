@@ -15,7 +15,7 @@ tags:
     '楊志良',
     '健康保険データベース',
   ]
-subcategory: '医療と健康保険'
+subcategory: '醫療與健保'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-04

@@ -4,7 +4,7 @@ description: '1998年『還珠格格』で林心如は紫薇役となり、2009�
 date: 2026-08-21
 category: 'People'
 tags: ['林心如', '台湾ドラマ', 'プロデューサー', '華燈初上', '16個の夏']
-subcategory: '映画と演劇'
+subcategory: '電影與戲劇'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-21

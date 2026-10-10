@@ -13,7 +13,7 @@ tags:
     'バウハウス',
     '建国南路自邸',
   ]
-subcategory: 'アートとデザイン'
+subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-18

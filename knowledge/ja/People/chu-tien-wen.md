@@ -4,7 +4,7 @@ description: '1956年台北に生まれる。父は朱西甯。1977年、胡蘭�
 date: 2026-03-19
 category: 'People'
 tags: ['文学', '映画脚本家', '侯孝賢', '朱西甯', '三三文学', '荒人手記']
-subcategory: '文学'
+subcategory: '文學'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

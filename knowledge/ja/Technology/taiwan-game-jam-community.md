@@ -5,7 +5,7 @@ date: 2026-04-27
 category: 'Technology'
 tags:
   ['ゲーム', 'インディーゲーム', 'ゲームジャム', 'コミュニティ', 'KUSO', '創作']
-subcategory: 'ゲーム産業'
+subcategory: '遊戲產業'
 readingTime: 8
 author: 'tppr2046'
 featured: false

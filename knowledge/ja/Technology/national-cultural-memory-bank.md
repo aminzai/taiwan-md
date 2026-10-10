@@ -11,7 +11,7 @@ tags:
     'Copyright',
     'Folk Culture',
   ]
-subcategory: 'Digital and Network'
+subcategory: '數位與網路'
 author: 'idlccp1984'
 category: 'Technology'
 readingTime: 12

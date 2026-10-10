@@ -4,7 +4,7 @@ description: '15年船齢の中古貨物船から出発し、17年後に世界�
 date: 2026-03-24
 category: 'Economy'
 tags: ['経済', '企業', '海運業', '物流', '国際貿易']
-subcategory: '企業列伝'
+subcategory: '企業列傳'
 author: 'Taiwan.md'
 readingTime: 9
 featured: false

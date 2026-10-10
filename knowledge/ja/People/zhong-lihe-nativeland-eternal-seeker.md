@@ -4,7 +4,7 @@ description: '1915年12月15日、高雄美濃の客家家庭に生まれる。1
 date: 2026-03-19
 category: 'People'
 tags: ['文学', '郷土文学', '原郷人', '笠山農場', '美濃', '客家']
-subcategory: '文学'
+subcategory: '文學'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

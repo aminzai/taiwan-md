@@ -4,7 +4,7 @@ description: '2021年の代表処設置という突破口から、2026年のリ�
 date: 2026-05-05
 author: 'Taiwan.md'
 category: 'Society'
-subcategory: '国際関係'
+subcategory: '國際關係'
 tags: ['外交', '国際関係', '民主', '経済協力', 'リトアニア', '地政学']
 lastVerified: 2026-05-05
 lastHumanReview: true

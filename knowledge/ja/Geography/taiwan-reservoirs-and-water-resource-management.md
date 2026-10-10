@@ -4,7 +4,7 @@ description: '水不足の危機からダムの堆積問題まで、台湾の水
 date: 2026-03-20
 author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '水文と水資源'
+subcategory: '水文與水資源'
 tags: ['水資源', 'ダム', '水不足', '水利工事', '気候変動']
 readingTime: 11
 lastVerified: 2026-03-20

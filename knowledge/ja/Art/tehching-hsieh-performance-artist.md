@@ -13,7 +13,7 @@ tags:
     'Illegal Immigrant',
     'Pingtung',
   ]
-subcategory: 'Contemporary Art'
+subcategory: '當代藝術'
 author: 'Taiwan.md Contributors'
 category: 'Art'
 readingTime: 16

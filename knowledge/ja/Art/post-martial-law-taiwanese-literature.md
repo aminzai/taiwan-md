@@ -10,7 +10,7 @@ tags:
     'Political Literature',
     'Diverse Literature',
   ]
-subcategory: 'Literature'
+subcategory: '文學'
 author: 'Taiwan.md'
 category: 'Art'
 readingTime: 8

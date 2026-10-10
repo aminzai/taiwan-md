@@ -4,7 +4,7 @@ description: '1981年7月23日生まれ。郭泓志は台湾人として4番目�
 date: 2026-03-19
 category: 'People'
 tags: ['スポーツ', '野球', 'MLB', 'ドジャース', '左腕投手']
-subcategory: 'スポーツ'
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

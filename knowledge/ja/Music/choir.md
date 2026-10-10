@@ -4,7 +4,7 @@ description: '1957年、呂泉生と辜偉甫が栄星児童合唱団を創立�
 date: 2026-05-07
 author: 'Taiwan.md Contributors'
 category: 'Music'
-subcategory: '音楽産業'
+subcategory: '音樂產業'
 tags:
   [
     '合唱団',

@@ -20,7 +20,7 @@ tags:
   - '客家語詩'
   - '平安戲'
   - '女性文学'
-subcategory: '文学と詩人 / 客家文化人'
+subcategory: '文學與詩人 / 客家文化人'
 author: 'Taiwan.md'
 featured: false
 canonical-order: 120

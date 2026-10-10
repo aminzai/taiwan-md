@@ -4,7 +4,7 @@ description: '1944年3月15日、新竹に生まれた紀政は「飛躍の羚�
 date: 2026-03-19
 category: 'People'
 tags: ['スポーツ', '陸上競技', 'オリンピック', 'ハードル', '世界記録']
-subcategory: 'スポーツ'
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

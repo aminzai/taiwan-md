@@ -12,7 +12,7 @@ tags:
     'インドア生活',
     'デジタル文化',
   ]
-subcategory: 'デジタルとメディア'
+subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-15

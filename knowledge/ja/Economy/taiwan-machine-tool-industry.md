@@ -4,7 +4,7 @@ description: '大肚山黄金縦谷から TMTS 2026 まで、台湾工具機産�
 date: 2026-04-11
 tags:
   ['工具機', '精密機械', '大肚山', '台中', '製造業', 'TMTS', '産業集積', '2026']
-subcategory: '伝統産業'
+subcategory: '傳統產業'
 author: 'Taiwan.md'
 readingTime: 13
 lastVerified: 2026-04-11

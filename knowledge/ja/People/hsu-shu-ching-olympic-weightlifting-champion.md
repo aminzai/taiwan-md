@@ -4,7 +4,7 @@ description: '1991年5月9日、雲林県崙背郷の客家家庭に生まれる
 date: 2026-03-19
 category: 'People'
 tags: ['体育', '重量挙げ', 'オリンピック', '金メダル', '53kg級', '雲林']
-subcategory: '体育'
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

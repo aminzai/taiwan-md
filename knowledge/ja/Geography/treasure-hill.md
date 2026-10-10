@@ -4,7 +4,7 @@ description: '1980年7月、台北市政府はこの山を297号公園予定地�
 date: 2026-05-21
 author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '歴史街區'
+subcategory: '歷史街區'
 tags:
   [
     '宝岩',

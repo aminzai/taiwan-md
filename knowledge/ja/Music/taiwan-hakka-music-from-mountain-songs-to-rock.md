@@ -4,7 +4,7 @@ description: '客家山歌は労働生活に起源を持ち、客家八音は婚
 date: 2026-03-19
 author: 'Taiwan.md Contributors'
 category: 'Music'
-subcategory: '傳統音楽'
+subcategory: '傳統音樂'
 tags:
   ['客家音楽', '山歌', '客家八音', '林生祥', '交工楽隊', '客語歌曲', '金曲賞']
 readingTime: 10

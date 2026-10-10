@@ -11,7 +11,7 @@ tags:
     'Human Rights',
     'Social Movements',
   ]
-subcategory: 'Democracy and Governance'
+subcategory: '民主與治理'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-07

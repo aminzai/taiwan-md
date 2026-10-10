@@ -16,7 +16,7 @@ tags:
     'Generative Art',
     'C-LAB',
   ]
-subcategory: 'New Media and Digital Art'
+subcategory: '新媒體與數位藝術'
 author: 'Taiwan.md'
 category: 'Art'
 readingTime: 12

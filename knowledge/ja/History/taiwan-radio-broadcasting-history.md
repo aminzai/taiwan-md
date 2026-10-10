@@ -4,7 +4,7 @@ description: '1925年の試験放送、日治時代の放送局、戦後の『�
 date: 2026-08-20
 category: 'History'
 tags: ['放送史', 'メディア史', '戒厳', '台湾語', '大衆文化']
-subcategory: 'メディアと社会'
+subcategory: '媒體與社會'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20

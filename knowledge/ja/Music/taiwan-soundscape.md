@@ -4,7 +4,7 @@ description: 'ゴミ収集車の『エリーゼのために』からブヌン族
 date: 2026-03-17
 author: 'Taiwan.md Contributors'
 category: 'Music'
-subcategory: '伝統音楽'
+subcategory: '傳統音樂'
 tags:
   [
     'サウンドスケープ',

@@ -12,7 +12,7 @@ tags:
     'online trial',
     'world champion',
   ]
-subcategory: 'Culture and Creation'
+subcategory: '文化與創作'
 author: 'Taiwan.md'
 category: 'People'
 readingTime: 12

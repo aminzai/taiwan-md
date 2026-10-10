@@ -4,7 +4,7 @@ description: 'タオ族のトビウオ祭りは、約11の祭儀と3つの禁忌
 date: 2026-08-16
 category: 'Food'
 tags: ['タオ族', 'トビウオ祭り', '蘭嶼']
-subcategory: 'エスニック料理'
+subcategory: '族群飲食'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16

@@ -12,7 +12,7 @@ tags:
     'politics',
     '2026',
   ]
-subcategory: 'Democracy and Politics'
+subcategory: '民主與政治'
 author: 'Taiwan.md'
 category: 'Society'
 readingTime: 14

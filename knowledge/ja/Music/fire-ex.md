@@ -16,7 +16,7 @@ tags:
     '打狗祭',
   ]
 category: Music
-subcategory: 'インディーズとロック'
+subcategory: '獨立與搖滾'
 author: 'Taiwan.md'
 featured: true
 readingTime: 14min

@@ -4,7 +4,7 @@ description: '1984年、趙自強は「年間無料」の広告をきっかけ�
 date: 2026-04-25
 author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '音楽とパフォーマンス'
+subcategory: '音樂與表演'
 tags:
   - '趙自強'
   - 'フルーツおばあちゃん'
