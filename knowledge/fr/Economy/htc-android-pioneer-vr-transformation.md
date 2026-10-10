@@ -141,7 +141,7 @@ Dans cette ère pleine d'incertitudes, l'histoire d'HTC nous enseigne : tant que
 
 ## Lectures complémentaires
 
-- [Raconter l'histoire de la technologie taïwanaise : 100 points pour les puces, 60 points pour le micro](/fr/technology/taiwan-tech-stories) — Pourquoi « Quietly Brilliant » a perdu face à des concurrents qui savent raconter des histoires, les leçons d'HTC ont fait l'objet d'un article complet
+- [Raconter l'histoire de la technologie taïwanaise : 100 points pour les puces, 60 points pour le micro](/fr/technology/taiwan-tech-storytelling) — Pourquoi « Quietly Brilliant » a perdu face à des concurrents qui savent raconter des histoires, les leçons d'HTC ont fait l'objet d'un article complet
 
 ## Références
 

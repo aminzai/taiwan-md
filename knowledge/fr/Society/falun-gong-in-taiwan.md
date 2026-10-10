@@ -67,8 +67,8 @@ The quiet presence of Falun Gong in Taiwan itself constitutes the most powerful 
 
 **Further Reading**
 
-- [United Front Work](/society/United%20Front%20Work) — From low-cost tourism to influencer traffic, the new and old methods of the CCP's cross-strait united front operations and the logic of cognitive博弈 (game theory).
-- [Cognitive Warfare](/society/Cognitive%20Warfare) — The systematic framework of cognitive operations and Taiwan's corresponding mechanisms, from academic analysis to concrete practices in civic education.
+- [United Front Work](/fr/society/united-front-tour-groups) — From low-cost tourism to influencer traffic, the new and old methods of the CCP's cross-strait united front operations and the logic of cognitive博弈 (game theory).
+- [Cognitive Warfare](/fr/society/cognitive-warfare-against-taiwan) — The systematic framework of cognitive operations and Taiwan's corresponding mechanisms, from academic analysis to concrete practices in civic education.
 
 ## References
 

@@ -107,8 +107,8 @@ Lorsque nous voyons, en plein été 2026, de petits autels dressés devant les p
 
 ## Lectures complémentaires
 
-- [Fête du Zhongyuan (Zhongyuan Jie)](/culture/zhongyuan-jie) — Lecture historique du Zhongyuan comme traité de paix sociale
-- [Fête du Duanwu (Duanwu Jie)](/culture/duanwu-jie) — Une autre fête réinventée par Taïwan
+- [Fête du Zhongyuan (Zhongyuan Jie)](/fr/culture/ghost-festival-zhongyuan) — Lecture historique du Zhongyuan comme traité de paix sociale
+- [Fête du Duanwu (Duanwu Jie)](/fr/culture/dragon-boat-festival) — Une autre fête réinventée par Taïwan
 
 ## Références bibliographiques
 

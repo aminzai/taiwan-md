@@ -272,7 +272,7 @@ La « montagne protectrice » (le pilier de l'économie) a dominé le présent g
 - [Bourse et marché des capitaux de Taïwan](/fr/economy/taiwan-stock-market) — Comment l'écosystème de la chaîne d'approvisionnement, qui soutient le statut de Taïwan comme 6e place mondiale boursière en 2026, se manifeste sur les marchés financiers
 - [Chaîne d'approvisionnement du tungstène à Taïwan](/fr/technology/taiwan-tungsten-supply-chain) — L'hexafluorure de tungstène remplit les fenêtres de contact et les lignes de caractères 3D NAND ; bien que Taïwan n'ait pas de mines de tungstène, elle occupe le segment intermédiaire grâce au raffinage par recyclage
 - [Académie de l'IA de Taïwan](/fr/technology/taiwan-ai-academy) — Comment les milliers d'ingénieurs IA formés durant huit ans par l'AIA réintègrent la chaîne ICT existante des semi-conducteurs pour renforcer le volet logiciel de Taïwan
-- [Computex : Deux des trois grandes foires mondiales sont ici, la troisième est à Taipei](/fr/technology/computex-taipei) — Le CoWoS et les procédés avancés de TSMC rencontrent chaque année, fin mai, les géants mondiaux de l'IA lors de ce salon informatique taïwanais de 45 ans d'existence
+- [Computex : Deux des trois grandes foires mondiales sont ici, la troisième est à Taipei](/fr/technology/computex) — Le CoWoS et les procédés avancés de TSMC rencontrent chaque année, fin mai, les géants mondiaux de l'IA lors de ce salon informatique taïwanais de 45 ans d'existence
 - [Parcs scientifiques de Taïwan](/fr/technology/science-park-development) — Les parcs de Hsinchu, Taichung et Tainan : supports physiques des pôles semi-conducteurs et centre géographique du « bouclier de silicium »
 
 ## Sources d'images

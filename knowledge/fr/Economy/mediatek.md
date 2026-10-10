@@ -117,7 +117,7 @@ Début 2025, Tsai Ming-chieh figure sur la liste des clients du procédé 2 nm d
 
 - [Entreprise taïwanaise : TSMC](/fr/economy/tsmc)
 - [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — De la transfer de technologie RCA 1973 à la production en masse 2 nm, l'ensemble de l'écosystème semi-conducteur, MediaTek en est le représentant côté conception IC
-- [La tech taïwanaise raconte des histoires : 100/100 pour la puce, 60/100 pour le micro](/fr/technology/taiwan-tech-stories) — Premier mondial en volume d'expéditions, pourquoi le récit de marque de MediaTek ne rattrape-t-il toujours pas Qualcomm
+- [La tech taïwanaise raconte des histoires : 100/100 pour la puce, 60/100 pour le micro](/fr/technology/taiwan-tech-storytelling) — Premier mondial en volume d'expéditions, pourquoi le récit de marque de MediaTek ne rattrape-t-il toujours pas Qualcomm
 
 ---
 
