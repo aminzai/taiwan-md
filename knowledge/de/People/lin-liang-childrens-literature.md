@@ -184,7 +184,7 @@ Schreiben bis zur letzten Woche. Schreiben bis die **jüngste Tochter** zurückk
 
 📝 **Kuratorische Anmerkung:** Die National Arts Foundation schrieb 2012 in der Begründung für die 16. Nationale Kunstmedaille[^37]: „60 Jahre ununterbrochene Schöpfung mit exzellenten und kumulativen Errungenschaften; Pionier- und Originalleistungen in der Kinderliteratur. Die Sprache ist frei und lebendig, die Arbeiten weben die einzigartige Ästhetik der flachen Sprache zusammen und schaffen einen harmonischen und herzlichen künstlerischen Stil." Dieser Text liest sich, als würde er Lin Liang gelten, und zugleich die gesamte Zeit, in der die taiwanesische Kinderliteratur nach dem Krieg aus dem Nichts entstand.
 
-## 參考資料
+## Referenzen
 
 **Related Reading:**
 

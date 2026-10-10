@@ -154,7 +154,7 @@ Wenn du das nächste Mal einen traditionellen Markt passierst und die Hitze aus 
 
 - Hero: Zongzi zum Drachenbootfest, Fotografie von WeeWZ, [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Rice_Dumpling_(Zongzi).jpg>), CC BY-SA 4.0.
 
-## 參考資料
+## Referenzen
 
 - [2022年糧食供需年報 - 農業部](https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=8850)
 - [台灣稻米產業現況 - 農業部農糧署](https://www.afa.gov.tw/cht/index.php?code=list&ids=324)
