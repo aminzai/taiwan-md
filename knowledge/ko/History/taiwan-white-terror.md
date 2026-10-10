@@ -166,7 +166,7 @@ translatedAt: '2026-09-22T02:06:13+08:00'
 - [국가인권박물관](/ko/history/national-human-rights-museum) — 징메이(景美)와 녹도 두 백색 공포 기념 공원의 기관, 6년간 준비부터 2025년 예산 동결까지
 - [228 사건](/ko/history/228-incident) — 백색 공포의 서곡, 1947년 진압이 계엄 체제를 예고한 방식
 - [미레이섬 사건](/ko/history/kaohsiung-incident-formosa-incident) — 1979년 백색 공포 후기의 중요한 전환점
-- [중앙연구원(中央研究院)](/society/中央研究院) — 타이완사연구소에서 출판한 《백색 기억》 구술 인터뷰를 간행한 기관, 그리고 연구 대상을 이 섬으로 돌린 그 변곡점
+- [중앙연구원(中央研究院)](/ko/society/academia-sinica) — 타이완사연구소에서 출판한 《백색 기억》 구술 인터뷰를 간행한 기관, 그리고 연구 대상을 이 섬으로 돌린 그 변곡점
 - [아리산: 제국의 임업과 고일생의 산](/ko/history/alishan-empire-forest-and-uongu-yatauyungana) — 고일생의 산과 소외된 부족들의 이야기
 - [영수증: 1951년 전 국민을 세무 조사원으로 만든 종이](/ko/economy/taiwan-uniform-invoice) — 영수증 제도 설계자인 임현군(任顯群) 자신도 같은 시대를 살았으며, 1955년에 '적을 신고하지 않음'으로 수감된 한 모자만으로도 치명적일 수 있었다.
 - [인해광(殷海光)](/ko/people/yin-haiguang-liberalism-philosopher) — 1960년 레이진 사건 후 온주가 18번 골목에 감금되었던 타이 대학교 철학과 교수, 타이완 자유주의의 개척자

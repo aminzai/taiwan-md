@@ -80,7 +80,7 @@ translatedAt: '2026-08-06T14:56:38+08:00'
 - [전자상거래와 디지털 결제 생태계](/ko/technology/e-commerce-and-digital-payment-ecosystem) — 쇼피페이가 속한 결제 지형은 어떤 모습인가
 - [라이어푸(萊爾富)](/ko/economy/hilife-convenience-store) — 점포 물류에 추월당한 노련한 편의점, 자체 수령 전쟁의 현주소
 - [타이완 편의점 문화](/ko/lifestyle/convenience-store-culture) — 왜 편의점이 타이완의 공공 인프라가 되었는가
-- [타이완 세관 통관 제도와 EZWAY](/lifestyle/台灣海關報關制度與EZWAY) — 해외 직구 물품이 들어오기 전 거쳐야 하는 관문
+- [타이완 세관 통관 제도와 EZWAY](/ko/lifestyle/ezway) — 해외 직구 물품이 들어오기 전 거쳐야 하는 관문
 
 ## 참고 자료
 

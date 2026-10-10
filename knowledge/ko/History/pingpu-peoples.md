@@ -87,9 +87,9 @@ translatedAt: '2026-08-09T10:51:40+08:00'
 
 ## 읽어볼 만한 글
 
-- [타이완 원주민 역사와 정명 운동](/history/台灣原住民族歷史與正名運動) — 청대 '숙번'부터 현대 정명 운동까지의 전체 맥락
-- [타이완 원주민 16개 부족 문화 지도](/culture/台灣原住民族16族文化地圖) — 승인된 부족들의 문화적 양상 총람
-- [선사 시대와 원주민](/history/史前時代與原住民) — 타이완 섬의 초기 거주자들에 대하여
+- [타이완 원주민 역사와 정명 운동](/ko/history/indigenous-peoples-history-and-naming-movement) — 청대 '숙번'부터 현대 정명 운동까지의 전체 맥락
+- [타이완 원주민 16개 부족 문화 지도](/ko/culture/indigenous-peoples-16-tribes-cultural-map) — 승인된 부족들의 문화적 양상 총람
+- [선사 시대와 원주민](/ko/history/prehistoric-era-and-indigenous-peoples) — 타이완 섬의 초기 거주자들에 대하여
 
 ## 참고 자료
 

@@ -267,7 +267,7 @@ Nokia 3310의 충전기 출력은 4.56W였으나, 2025년의 급속 충전기는
 - [타이완 기업: ASE 반도체](/ko/economy/taiwan-enterprise-ase-semiconductor) — 글로벌 1위 OSAT 산업, CoWoS 외의 후공정 생태계
 - [창조자: 세기의 도박](/ko/art/mountain-makers-tsmc-documentary) — 샤오쥐전(蕭菊貞) 2025 다큐멘터리, 5년간 80명 이상의 반도체 선배들을 인터뷰하여 2026년 Purdue/Wisconsin/Michigan 등 CHIPS Act 투자 요충지를 방문하다
 - [우다유(吳大猷)](/ko/people/tai-yu-wu) — 1980년대 타이완이 반도체에 매진하던 시기, 중앙연구원 원장으로서 기초 과학의 중요성을 역설하며 타이완 과학 기술 체계의 기틀을 마련하다
-- [황충런(黃崇仁)](/people/黃崇仁) — PSMC/VIS의 창립자, 타사의 공정 라이선스에 의존해 자사 <0xED><0x8C><0xB9>을 세우려 했던 타이완 DRAM의 고군분투기: 시장 점유율이 23.2%에서 6.3%로 하락한, 업계에서 가장 덜 회자되는 이야기
+- [황충런(黃崇仁)](/ko/people/frank-huang-psmc) — PSMC/VIS의 창립자, 타사의 공정 라이선스에 의존해 자사 <0xED><0x8C><0xB9>을 세우려 했던 타이완 DRAM의 고군분투기: 시장 점유율이 23.2%에서 6.3%로 하락한, 업계에서 가장 덜 회자되는 이야기
 - [타이완 로봇 산업](/ko/technology/taiwan-robotics-industry) — 반도체 세계 1위의 섬, 왜 로봇 시대에는 뒤처진 학생인가? NCAIR 출범을 통해 본 산업 단절 현상
 - [타이완 주식 및 자본 시장](/ko/economy/taiwan-stock-market) — 타이완 증시를 202ck년 세계 6위 규모로 떠받치는 공급망 생태계가 자본 시장에 나타나는 방식
 - [타이완 텅스텐 공급망](/ko/technology/taiwan-tungsten-supply-chain) — 육불화텅스텐(WF6)이 컨택 홀과 3D NAND의 선폭을 채우는 과정, 텅스텐 광산은 없지만 재활용 정련을 통해 이 소재 공급망의 중류를 점유한 타이완

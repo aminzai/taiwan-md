@@ -281,7 +281,7 @@ _타이베이 난강 전람관의 Computex 전시장. 매년 6월 전 세계 바
 - [컴퓨텍스: 타이베이의 컴퓨터 전시회가 어떻게 글로벌 AI의 개막식처럼 되었는가](/ko/technology/computex-taipei) — 그 로고 벽이 빛나는 무대, 타이완 기술 산업의 연례 주무대.
 - [AI 인공지능 산업](/ko/technology/artificial-intelligence-industry) — NVIDIA 칩 제조부터 AI 생태계 구축까지, AI 물결 속 타이완의 위치.
 - [타이완 인공지능 발전 및 미래 전략](/ko/technology/artificial-intelligence-development-strategy) — 주권 AI, TAIDE와 대행업체에서 벗어나려는 타이완의 국가적 시도.
-- [타이완 기술 이야기: 100점짜리 칩과 60점짜리 마이크](/technology/台灣科技說故事) — 같은 칩에 대한 두 가지 해석: NVIDIA가 가져가는 스토리 프리미엄, 타이완 기술은 무엇을 배워야 하는가.
+- [타이완 기술 이야기: 100점짜리 칩과 60점짜리 마이크](/ko/technology/taiwan-tech-storytelling) — 같은 칩에 대한 두 가지 해석: NVIDIA가 가져가는 스토리 프리미엄, 타이완 기술은 무엇을 배워야 하는가.
 - [타이완 기업: 폭스콘 정밀산업](/ko/economy/foxconn-precision-industry) — 글로벌 AI 랙의 40%를 조립하는 대행업체 거인, 미소 곡선의 가장 큰 손.
 
 ## 이미지 출처

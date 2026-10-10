@@ -148,9 +148,9 @@ translatedAt: '2026-10-03T00:56:56+08:00'
 
 **추가 읽을거리**:
 
-- [오픈소스 커뮤니티와 g0v](/technology/開源社群與g0v) — 마스크 지도의 배후 시민 해커 커뮤니티, '제로시 정부'에서 vTaiwan까지의 여정
-- [마스크 국가대(Mask Nation Team)](/economy/口罩國家隊) — 같은 마스크 위기의 또 다른 측면: 장비, 섬유, 군대와 정부가 하나의 생산 라인으로 연결되다
-- [타이완 사이버보안 산업 발전](/technology/台灣資安產業發展) — 정부 담당자가 기술을 모르고 사이버 보안 인력이 60% 부족한 상황에서, 산업계는 어떻게 이 벽을 보강하는가
+- [오픈소스 커뮤니티와 g0v](/ko/technology/open-source-and-g0v) — 마스크 지도의 배후 시민 해커 커뮤니티, '제로시 정부'에서 vTaiwan까지의 여정
+- [마스크 국가대(Mask Nation Team)](/ko/economy/mask-national-team) — 같은 마스크 위기의 또 다른 측면: 장비, 섬유, 군대와 정부가 하나의 생산 라인으로 연결되다
+- [타이완 사이버보안 산업 발전](/ko/technology/taiwan-cybersecurity-industry-development) — 정부 담당자가 기술을 모르고 사이버 보안 인력이 60% 부족한 상황에서, 산업계는 어떻게 이 벽을 보강하는가
 
 ## 참고 자료
 

@@ -204,7 +204,7 @@ A Good Day Records(1998년 설립)는 타이완 “문청 미학”의 소리를
 - [타이완 록 음악 발전사](/ko/music/taiwan-rock-from-underground-to-mainstream) — 금지곡에서 주류까지, 타이완 록의 완전한 경로
 - [타이완 음악제 문화](/ko/music/taiwan-music-festival-culture) — Ho-hai-yan Rock Festival이 어떻게 독립음악의 인큐베이터가 되었는가
 - [로추이시 궁서](/ko/music/loh-tsui-kang-commune) — 30년 동안 지하에 있던 타이완어 펑크, 해산 뒤 처음 금곡장 후보에 오르자마자 최우수 타이완어 앨범상을 받다
-- [수다그린(蘇打綠)](/music/蘇打綠) — 2001 정치대 금선상부터 2023 츠탕 영의 밤까지, 타이완 indie 밴드 20년의 완전한 호선; 상표 소송과 “위딩쓰(魚丁糸)” 분신 항쟁 포함
+- [수다그린(蘇打綠)](/ko/music/sodagreen) — 2001 정치대 금선상부터 2023 츠탕 영의 밤까지, 타이완 indie 밴드 20년의 완전한 호선; 상표 소송과 “위딩쓰(魚丁糸)” 분신 항쟁 포함
 
 ## 참고자료
 
