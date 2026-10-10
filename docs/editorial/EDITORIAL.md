@@ -3,9 +3,9 @@ title: 'EDITORIAL'
 description: '怎麼把素材寫成一篇有溫度的台灣文章'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v6.20'
-last_updated: 2026-09-26
-last_session: '2026-09-26-230240-twmd-maintainer（v6.20：#1777 反向解釋改為有證據才寫＋雲門正例換成可查證版本；戴資穎正例事實更正；A/B 見 reports/editorial-v6.20-ab-test-2026-09-26.md）'
+current_version: 'v6.21'
+last_updated: 2026-10-10
+last_session: '2026-10-10-editorial-layers（v6.21：A/B 破例條款加「只改事實的修正」，OBSERVER-QUEUE #82 哲宇拍板 A）'
 benchmark: '報導者（The Reporter）深度報導品質標準'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --profile=rewrite-stage-4'
 sister_docs:
@@ -1795,7 +1795,7 @@ SOP（每次 EDITORIAL polish 必跑）：
 
 **起源案例**：reports/editorial-v6-ab-test-2026-05-09.md。本次 v6.0 ship 後 A/B test 揭露三個 prime side effect（對位句 / 過渡硬切 / metaphor），這些靠 prose review 都看不到，只有實際讓 agent 寫出來才浮現。
 
-**何時可破例**：純 footer / changelog 更新 / typo fix 不需要跑 A/B test。任何對 craft 教學 / voice / 規則的修改都必須跑。
+**何時可破例**：純 footer / changelog 更新 / typo fix 不需要跑 A/B test。**只改事實的修正也不需要跑**（2026-10-10 哲宇拍板 [OBSERVER-QUEUE #82](../semiont/OBSERVER-QUEUE.md) 選項 A）：正例或範例裡的年份、地名、持拍手、引語框架、出處這類錯，改掉只會讓範例回到事實，寫手讀到的規則一個字沒動；條件是 commit 訊息附上出處，而且不動寫法、不動規則。背景：2026-09-26 同一位投稿者的兩個 PR 剛好落在兩邊，#1778 只把「連續」改成「累計」、沒跑 A/B 就收了，#1777 動到反向解釋的觸發條件、補跑了一次，兩個判斷都對，這條只是把它寫下來。任何對 craft 教學 / voice / 規則的修改，以及新增或替換正例，都必須跑。
 
 ---
 
@@ -1813,6 +1813,7 @@ _**Plugin self-reference note**：本檔跑 `prose-health` 會出現 ~25 warn �
 
 **最近 milestone**（完整 changelog → `git log docs/editorial/EDITORIAL.md`）：
 
+- **v6.21**（2026-10-10，OBSERVER-QUEUE #82 哲宇拍板 A）— §A/B SOP「何時可破例」加一類：只改事實的修正（commit 附出處、不動寫法與規則）不跑 A/B；規則／voice／新正例仍必跑。這條本身是規則修改，文字由哲宇 10-10 直接核可，沒另跑 A/B。
 - **v6.20**（2026-09-26 twmd-maintainer，PR #1777 kwt-klure＋維護班事實更正，源自 Discussion #1757）— §四 反向解釋：從「高 stake 至少寫一個」改成先檢查通行說法的證據與重要反例，有根據且會實質改變解讀才寫，並編進主敘事；§九 #4 雲門結尾正例換成可查證的交棒畫面與本人原話（引語框架照聯合報〈優人物〉原文：卸任後所說，沒有「笑」）；§三／§九 #1 戴資穎正例事實更正：左手持拍刪去（她右手持拍）、6 歲每天 6 小時改為 7 歲持拍與 12 歲甲組、日本媒體改為媒體、「那一晚 Google 搜尋量第一」改為 2021 年度快速竄升總榜唯一人物、左營改為前鎮（同版另含 #1778 的 214 週累計更正）。A/B（台灣公投制度研究報告，兩隻 Sonnet）：改動的主體照設計發生，看不到副作用，見 [reports/editorial-v6.20-ab-test-2026-09-26.md](../../reports/editorial-v6.20-ab-test-2026-09-26.md)。
 - **v6.18**（2026-08-19 algorithmic-art-evolve，哲宇同日兩次 callout 同一篇的英式短句開場：「文章裡面還是有很多英文短句在開頭殘留」→「再度強化 prose-health、EDITORIAL 跟 rewrite 裡面相關的部分，未來嚴格執行歐化檢查跟改善」）— §歐化 第 9 病**第三輪**：這個病的本體是「一句短平述句先立在段首定調、底下再展開」的段落骨架，跟字數（8 字）與句首是哪個詞無關；五組同篇反例＋三題人判（陳述判斷或狀態而非動作？底下在展開它？接進後句會不會更像人在講話？）＋三類不算（冒號引子／日期場景句／刻意節拍孤句）。儀器同步：`prose-health` §8e v3——第二帶判準從「句首定調詞」改「宣告型謂語（是/有/叫/可以/都/也/很/一直/就/才/在⋯的/得到）且無事件體標記（了/著/過）」、後接改量整段展開 ≥40 字、落差 3.5×→1.5×、上限 14→15 字；**WARN-only 升計分**（≥3 +1／≥6 +2，rewrite-stage-3 score-budget 會咬）；**pre-commit 觸檔 >10 升 HARD**（ci-deploy 不設，legacy grandfather 同 7/19 路徑）。校準 992 篇 zh：v2 744 處／403 篇 → v3 2,133 處／650 篇，抽樣 45 條判斷句主題句佔絕大多數；哲宇點名的那篇改稿前 15 處人眼、v2 報 0、v3 報 11。REWRITE Stage 2C 寫手指令與 Stage 4 形同步加「寬尺掃＋人眼判」步驟。
 - **v6.17**（2026-08-04 EZWAY，哲宇 callout「後台寫手思考洩漏徹底改善＋進化儀器跟 pipeline」）— §後台洩漏 八形狀→**十形狀**：新增「結構導覽鷹架」（先說第一句／再看第二句／第三句留下的問題——投影分段地圖寫成正文導覽）與「查核腔第一人稱」（本文查核期間／沒有一家媒體交叉印證——查核動作上桌）；人判清單二→三，加「分層拆解自己的論點」（第一層是⋯第二層是⋯拆的是自己的 thesis 而非世界裡的東西，896 篇校準 6 hits 全合法列舉故不做 regex）。§歐化 第 10 病補「把帳算完／這筆帳有人在問」= settle the account（vc=2）。儀器同步：`prose-health` §backstage 七組→九組＋強加對比收束句補帳隱喻，dogfood：修正前 EZWAY 7 處全中、修正後 0、合法用法（秋後算帳／腳註裡的查核聲明）全放行。
