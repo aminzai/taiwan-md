@@ -12,7 +12,7 @@ tags:
     'स्टारलाइट ब्रिगेड',
     'स्थानीय यादें',
   ]
-subcategory: 'सैन्य इतिहास'
+subcategory: '軍事歷史'
 author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false

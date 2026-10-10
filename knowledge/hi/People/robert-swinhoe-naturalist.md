@@ -10,7 +10,7 @@ tags:
   - 'खुलाप के बाद व्यापार'
   - '19वीं सदी'
 category: 'People'
-subcategory: 'इतिहासिक व्यक्ति'
+subcategory: '歷史人物'
 date: 2026-04-12
 author: 'Taiwan.md'
 featured: true

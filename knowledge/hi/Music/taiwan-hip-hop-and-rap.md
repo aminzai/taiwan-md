@@ -14,7 +14,7 @@ tags:
     'लोकप्रिय संस्कृति',
     'उपसंस्कृति',
   ]
-subcategory: 'इंडी और रॉक'
+subcategory: '獨立與搖滾'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-09

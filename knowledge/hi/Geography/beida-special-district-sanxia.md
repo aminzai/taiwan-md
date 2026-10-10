@@ -4,7 +4,7 @@ description: '1895 के लॉन्गएनपु प्राचीन य�
 date: 2026-04-29
 author: 'idlccp1984'
 category: 'Geography'
-subcategory: 'शहर और मानव भूगोल'
+subcategory: '城市與人文地理'
 tags:
   [
     'सानशिया',

@@ -14,7 +14,7 @@ tags:
     '3 अध्याय 1Q',
     'सुदूर क्षेत्र भोजन आपूर्ति',
   ]
-subcategory: 'भोजन दृश्य'
+subcategory: '飲食場景'
 author: 'idlccp'
 featured: false
 lastVerified: 2026-05-04

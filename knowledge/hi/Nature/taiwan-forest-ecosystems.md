@@ -4,7 +4,7 @@ description: 'समुद्र तल से यूशान शिखर त�
 date: 2026-03-23
 author: 'Taiwan.md'
 category: 'Nature'
-subcategory: 'पारिस्थितिकी तंत्र'
+subcategory: '生態系統'
 tags:
   [
     'वन पारिस्थितिकी',

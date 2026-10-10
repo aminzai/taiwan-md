@@ -4,7 +4,7 @@ description: 'गुओहुआ स्ट्रीट और हाईआन �
 date: '2026-06-30'
 author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: 'क्लासिक स्नैक्स'
+subcategory: '經典小吃'
 tags:
   [
     'ताइवान',

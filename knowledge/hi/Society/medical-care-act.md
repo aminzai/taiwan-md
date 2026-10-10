@@ -14,7 +14,7 @@ tags:
     'चिकित्सा निगम',
     'ताइवान समाज',
   ]
-subcategory: 'कानून और व्यवस्था'
+subcategory: '法律與制度'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-07-13

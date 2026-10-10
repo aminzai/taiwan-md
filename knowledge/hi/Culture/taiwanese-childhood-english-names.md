@@ -14,7 +14,7 @@ tags:
     'मूल निवासियों का नाम सुधार',
     'नए नाम रखना',
   ]
-subcategory: 'भाषा और नामकरण'
+subcategory: '語言與命名'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 18

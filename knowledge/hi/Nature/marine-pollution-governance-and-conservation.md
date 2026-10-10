@@ -11,7 +11,7 @@ tags:
     'समुद्री मामलों की परिषद',
     'टिकाऊ मत्स्य पालन',
   ]
-subcategory: 'संरक्षण और पर्यावरण'
+subcategory: '保育與環境'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 15

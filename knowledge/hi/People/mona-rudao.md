@@ -14,7 +14,7 @@ tags:
     'स्मृति राजनीति',
     'संक्रमण न्याय',
   ]
-subcategory: 'ऐतिहासिक व्यक्तित्व'
+subcategory: '歷史人物'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-10

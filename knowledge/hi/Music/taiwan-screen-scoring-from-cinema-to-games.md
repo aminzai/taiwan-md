@@ -16,7 +16,7 @@ tags:
     'डिटेंशन',
     'डिवोशन',
   ]
-subcategory: 'संगीत उद्योग'
+subcategory: '音樂產業'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-06-01

@@ -4,7 +4,7 @@ description: '2008 में लॉन्च किया गया माइक
 date: '2026-04-01'
 author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: 'डिजिटल जीवन'
+subcategory: '數位生活'
 tags: ['सोशल मीडिया', 'ओटाकू संस्कृति', 'ताइवान इंटरनेट इतिहास', 'प्लर्क कॉइन']
 lastVerified: '2026-04-01'
 lastHumanReview: true

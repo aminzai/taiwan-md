@@ -11,7 +11,7 @@ tags:
     'पीढ़ीगत न्याय',
     'किफायती आवास',
   ]
-subcategory: 'मानवाधिकार और समानता'
+subcategory: '人權與平等'
 author: 'Taiwan.md'
 readingTime: 16
 featured: false

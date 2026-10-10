@@ -12,7 +12,7 @@ tags:
     'ऑनलाइन मदद',
     'युवा संस्कृति',
   ]
-subcategory: 'समुदाय और डिजिटल संस्कृति'
+subcategory: '社群與數位文化'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-08-14

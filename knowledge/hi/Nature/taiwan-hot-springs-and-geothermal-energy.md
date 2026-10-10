@@ -13,7 +13,7 @@ tags:
     'भूविज्ञान',
     'गर्म झरना संस्कृति',
   ]
-subcategory: 'भूविज्ञान और भू-तापीय ऊर्जा'
+subcategory: '地質與地熱'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23

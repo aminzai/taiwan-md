@@ -11,7 +11,7 @@ tags:
     'काओशुंग कोरियाई प्रवासी स्कूल',
     'बहुसांस्कृतिक जीवन',
   ]
-subcategory: 'शिक्षा'
+subcategory: '教育'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-21

@@ -12,7 +12,7 @@ tags:
     'मां मेयर',
     '2028 चुनाव',
   ]
-subcategory: 'राजनीतिक हस्ती'
+subcategory: '政治人物'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-03

@@ -12,7 +12,7 @@ tags:
     'मार्शल लॉ',
     'बाल-किशोर संरक्षण',
   ]
-subcategory: 'मीडिया और संचार'
+subcategory: '媒體與傳播'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-08

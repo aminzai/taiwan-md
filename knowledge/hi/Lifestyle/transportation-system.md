@@ -4,7 +4,7 @@ description: '1946 में ताइवान रातों-रात बा
 date: '2026-04-26'
 author: 'Taiwan.md Contributors'
 category: 'Lifestyle'
-subcategory: 'परिवहन और गतिशीलता'
+subcategory: '交通與移動'
 tags:
   [
     'परिवहन',

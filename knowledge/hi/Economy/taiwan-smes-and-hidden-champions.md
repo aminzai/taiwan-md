@@ -13,7 +13,7 @@ tags:
     'पारिवारिक व्यवसाय',
     'उद्यमशीलता की भावना',
   ]
-subcategory: 'आर्थिक विकास'
+subcategory: '經濟發展'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-07-25

@@ -23,7 +23,7 @@ tags:
     'किंगकाओ लेन',
     'ऐतिहासिक गली श्रृंखला',
   ]
-subcategory: 'ऐतिहासिक इलाका / ताइपे शहर, वानहुआ ज़िला'
+subcategory: '歷史街區 / 台北市萬華區'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-21

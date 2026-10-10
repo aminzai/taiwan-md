@@ -14,7 +14,7 @@ tags:
     'औद्योगिक इतिहास',
     'औद्योगिकीकरण',
   ]
-subcategory: 'आर्थिक विकास'
+subcategory: '經濟發展'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20

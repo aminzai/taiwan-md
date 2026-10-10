@@ -4,7 +4,7 @@ description: '1969 में शिक्षा मंत्रालय के 
 date: '2026-05-07'
 author: 'Taiwan.md'
 category: 'Lifestyle'
-subcategory: 'शहरी जीवन'
+subcategory: '城市生活'
 tags: ['केशविन्यास', 'नाई संस्कृति', 'प्रचलित फैशन', 'शहरी जीवन', 'मीम']
 lastVerified: '2026-05-07'
 lastHumanReview: 'false'

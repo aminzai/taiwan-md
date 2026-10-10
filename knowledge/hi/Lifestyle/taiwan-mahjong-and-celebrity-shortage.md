@@ -13,7 +13,7 @@ tags:
     'नया साल',
     'ताइवान संस्कृति',
   ]
-subcategory: 'दैनिक मनोरंजन'
+subcategory: '日常娛樂'
 author: 'zaious'
 featured: false
 lastVerified: 2026-04-23

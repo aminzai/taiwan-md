@@ -12,7 +12,7 @@ tags:
     'भावपूर्ण गीत',
     'जीवन दर्शन',
   ]
-subcategory: 'संगीत'
+subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-06-05

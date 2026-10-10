@@ -14,7 +14,7 @@ tags:
     'ताइवान पहचान',
     'लोक संगीत',
   ]
-subcategory: 'संगीत और प्रदर्शन'
+subcategory: '音樂與表演'
 readingTime: '16'
 lastVerified: '2026-04-14'
 lastHumanReview: 'true'

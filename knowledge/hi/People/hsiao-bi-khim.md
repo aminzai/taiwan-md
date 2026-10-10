@@ -4,7 +4,7 @@ description: 'जापान में जन्म, ताइनान प्�
 date: 2026-04-11
 author: 'Taiwan.md'
 category: 'People'
-subcategory: 'राजनेता'
+subcategory: '政治人物'
 tags:
   [
     'राजनेता',

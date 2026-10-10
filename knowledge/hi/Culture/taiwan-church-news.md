@@ -14,7 +14,7 @@ tags:
     'ताइवानी भाषा',
     'भाषा नीति',
   ]
-subcategory: 'मीडिया और प्रकाशन'
+subcategory: '媒體與出版'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-29

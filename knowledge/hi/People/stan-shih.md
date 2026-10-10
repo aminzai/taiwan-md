@@ -13,7 +13,7 @@ tags:
     'उद्यमी',
     'लुकांग',
   ]
-subcategory: 'प्रौद्योगिकी और उद्यम'
+subcategory: '科技與企業'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-07-06

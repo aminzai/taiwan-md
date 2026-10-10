@@ -15,7 +15,7 @@ tags:
     'राजनीतिक विश्वविद्यालय ब्लैक साउंड',
     'बेडरूम पॉप',
   ]
-subcategory: 'इंडी और रॉक'
+subcategory: '獨立與搖滾'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-06-28

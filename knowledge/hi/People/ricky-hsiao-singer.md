@@ -4,7 +4,7 @@ description: '1976 में जन्मे ताइवानी रचना�
 date: 2026-04-19
 author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: 'संगीत और प्रदर्शन'
+subcategory: '音樂與表演'
 tags:
   [
     'श्याओ हुआंगची',

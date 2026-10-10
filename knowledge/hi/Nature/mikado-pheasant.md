@@ -12,7 +12,7 @@ tags:
     'वन्यजीव संरक्षण',
     'पक्षी अवलोकन नैतिकता',
   ]
-subcategory: 'वन्यजीव'
+subcategory: '野生動物'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-14

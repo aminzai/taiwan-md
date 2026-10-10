@@ -11,7 +11,7 @@ tags:
     'चुनाव प्रचार सामग्री',
     '2026 चुनाव',
   ]
-subcategory: 'चुनाव प्रणाली'
+subcategory: '選舉制度'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-27

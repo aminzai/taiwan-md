@@ -4,7 +4,7 @@ description: 'कृषि अर्थशास्त्री से चीन
 date: 2026-03-22
 category: 'People'
 tags: ['व्यक्ति', 'राजनीति', 'लोकतंत्रीकरण', 'राष्ट्रपति']
-subcategory: 'राजनीति और लोकतंत्र'
+subcategory: '政治與民主'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-22

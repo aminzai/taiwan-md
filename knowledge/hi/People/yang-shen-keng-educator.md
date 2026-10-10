@@ -14,7 +14,7 @@ tags:
     'चुंग चेंग विश्वविद्यालय',
     'ची नान विश्वविद्यालय',
   ]
-subcategory: 'शिक्षा और समाज'
+subcategory: '教育與社會'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-25

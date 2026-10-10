@@ -13,7 +13,7 @@ tags:
     'ऑनलाइन सार्वजनिक सुनवाई',
     'विश्व चैंपियन',
   ]
-subcategory: 'संस्कृति और सृजन'
+subcategory: '文化與創作'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-07

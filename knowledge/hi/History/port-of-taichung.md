@@ -12,7 +12,7 @@ tags:
     'तटीय इंजीनियरिंग',
     'सफेद डॉल्फिन',
   ]
-subcategory: 'आर्थिक विकास का इतिहास'
+subcategory: '經濟發展史'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20

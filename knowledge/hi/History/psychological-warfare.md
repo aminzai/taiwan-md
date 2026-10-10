@@ -16,7 +16,7 @@ tags:
     दोनों किनारों के संबंध,
     केंद्रीय प्रसारण स्टेशन,
   ]
-subcategory: 'मीडिया और अभिव्यक्ति'
+subcategory: '媒體與言論'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-03

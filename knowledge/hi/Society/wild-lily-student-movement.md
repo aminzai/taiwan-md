@@ -4,7 +4,7 @@ description: 'विश्वविद्यालय के छात्रो�
 date: '2026-03-23'
 author: 'Taiwan.md'
 category: 'Society'
-subcategory: '민주주의와 정치'
+subcategory: '民主與政治'
 tags: ['समाज', 'इतिहास', 'छात्र आंदोलन', 'लोकतंत्रीकरण', 'नागरिक आंदोलन']
 lastVerified: '2026-03-23'
 lastHumanReview: false

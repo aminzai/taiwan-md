@@ -12,7 +12,7 @@ tags:
     'ताइवानी संस्कृति',
     'रूपॉल्स ड्रैग रेस',
   ]
-subcategory: '음악与表演'
+subcategory: '音樂與表演'
 author: 'idlccp1984'
 featured: false
 lastVerified: 2026-04-18

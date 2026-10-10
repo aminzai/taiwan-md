@@ -4,7 +4,7 @@ description: '1995 में, ताइवान का पहला फाल�
 date: 2026-04-29
 author: 'Taiwan.md'
 category: 'Society'
-subcategory: 'धर्म और विश्वास'
+subcategory: '宗教與信仰'
 tags: ['धार्मिक स्वतंत्रता', 'मानवाधिकार', 'द्वीप-पार संबंध', 'फालुन गोंग']
 lastVerified: 2026-05-02
 lastHumanReview: false

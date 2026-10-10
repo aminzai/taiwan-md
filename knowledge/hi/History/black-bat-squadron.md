@@ -12,7 +12,7 @@ tags:
     'विशेष अभियान',
     'वेस्टर्न एंटरप्राइजेज़',
   ]
-subcategory: 'सैन्य इतिहास'
+subcategory: '軍事歷史'
 author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 12

@@ -4,7 +4,7 @@ description: 'ताइवान के दसवें और ग्यार�
 date: '2026-04-29'
 author: 'idlccp1984'
 category: 'People'
-subcategory: 'राजनीति और लोकतंत्र'
+subcategory: '政治與民主'
 tags:
   [
     'राष्ट्रपति',

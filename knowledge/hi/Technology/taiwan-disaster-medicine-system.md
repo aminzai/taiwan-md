@@ -11,7 +11,7 @@ tags:
     'ताइवान चिकित्सा',
     'दूरस्थ चिकित्सा',
   ]
-subcategory: 'स्वास्थ्य सेवा प्रणाली'
+subcategory: '醫療體系'
 author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false

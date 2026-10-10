@@ -12,7 +12,7 @@ tags:
     'महिला राजनीति',
     'डेमोक्रेटिक प्रोग्रेसिव पार्टी',
   ]
-subcategory: 'राजनीति और लोकतंत्र'
+subcategory: '政治與民主'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-05

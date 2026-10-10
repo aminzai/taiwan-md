@@ -11,7 +11,7 @@ tags:
     'दोनों तटों की शब्दावली',
     'भाषाई पहचान',
   ]
-subcategory: 'भाषा और लिपि'
+subcategory: '語言與文字'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-29

@@ -14,7 +14,7 @@ tags:
     'डिजिटल मीडिया',
     'प्रौद्योगिकी उद्योग',
   ]
-subcategory: 'मीडिया और अभिव्यक्ति'
+subcategory: '媒體與言論'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-18

@@ -27,7 +27,7 @@ tags:
     'वेयर एक्स वॉक',
     'भूली हुई यादें',
   ]
-subcategory: 'गायक'
+subcategory: '歌手'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-28

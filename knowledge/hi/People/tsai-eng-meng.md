@@ -11,7 +11,7 @@ tags:
     'प्लेटफॉर्म शासन',
     'प्रेस स्वतंत्रता',
   ]
-subcategory: 'प्रौद्योगिकी और उद्यम'
+subcategory: '科技與企業'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16

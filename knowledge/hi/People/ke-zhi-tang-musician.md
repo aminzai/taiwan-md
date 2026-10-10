@@ -14,7 +14,7 @@ tags:
     'गोल्डन बेल पुरस्कार',
     'हाओडुओ म्यूजिक',
   ]
-subcategory: 'संगीतकार'
+subcategory: '音樂人'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-07

@@ -10,7 +10,7 @@ tags:
     'डिजिटल शिक्षा',
     'विभेदित शिक्षण',
   ]
-subcategory: 'डिजिटल और इंटरनेट'
+subcategory: '數位與網路'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-15

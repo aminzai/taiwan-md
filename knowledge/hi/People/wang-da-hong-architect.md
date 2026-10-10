@@ -13,7 +13,7 @@ tags:
     'बॉहॉस',
     'जियांगुओ साउथ रोड निवास',
   ]
-subcategory: 'कला और डिज़ाइन'
+subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-18

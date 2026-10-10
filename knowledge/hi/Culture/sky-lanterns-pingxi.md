@@ -13,7 +13,7 @@ tags:
     'अमूर्त सांस्कृतिक विरासत',
     'त्योहार परिवर्तन',
   ]
-subcategory: 'त्योहार और रीति-रिवाज़'
+subcategory: '節慶與禮俗'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-27

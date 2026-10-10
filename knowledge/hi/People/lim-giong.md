@@ -4,7 +4,7 @@ description: '7 दिसंबर 1990 को, 26 वर्षीय चां�
 date: 2026-03-31
 author: 'Taiwan.md'
 category: 'People'
-subcategory: 'संगीत'
+subcategory: '音樂'
 tags: ['संगीत', 'इलेक्ट्रॉनिक संगीत', 'फिल्म संगीत', 'ध्वनि कला', 'ताइवानी']
 lastVerified: 2026-05-02
 lastHumanReview: false

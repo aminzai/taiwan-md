@@ -15,7 +15,7 @@ tags:
     'पुराना ब्रांड',
     'सूचीबद्ध कंपनी',
   ]
-subcategory: 'पेय संस्कृति'
+subcategory: '飲品文化'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-11

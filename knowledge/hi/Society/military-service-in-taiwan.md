@@ -4,7 +4,7 @@ description: '1945 से अब तक, ताइवान में सैन�
 date: '2026-07-17'
 author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: 'समाज व्यवस्था'
+subcategory: '社會制度'
 tags:
   ['सैन्य सेवा', 'रक्षा', 'अनिवार्य सेवा', 'हेंगुआंग अभ्यास', 'किनमा पुरस्कार']
 readingTime: '12'

@@ -11,7 +11,7 @@ tags:
   - 'पेशेवर गोल्फ'
   - 'ग्रैंड स्लैम'
   - 'महिला गोल्फ'
-subcategory: 'खेल'
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: '2026-03-31'

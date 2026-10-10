@@ -13,7 +13,7 @@ tags:
     'सेडेक बाले',
     'ताइनान',
   ]
-subcategory: 'फ़िल्म और नाटक'
+subcategory: '電影與戲劇'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

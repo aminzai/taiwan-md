@@ -15,7 +15,7 @@ tags:
     'गोल्डन मेलोडी अवार्ड',
     'सूर्य फूल छात्र आंदोलन',
   ]
-subcategory: 'स्वतंत्र और रॉक'
+subcategory: '獨立與搖滾'
 featured: false
 lastVerified: '2026-04-13'
 lastHumanReview: 'true'

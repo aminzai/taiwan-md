@@ -12,7 +12,7 @@ tags:
     'डिजिटल मूल निवासी',
     'आत्म-अनुशासन',
   ]
-subcategory: 'डिजिटल और मीडिया'
+subcategory: '數位與媒體'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-24

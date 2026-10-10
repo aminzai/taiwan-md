@@ -13,7 +13,7 @@ tags:
     'मानव-मैकाके संघर्ष',
     'जंग-प्राणी संरक्षण',
   ]
-subcategory: 'जंग-प्राणी'
+subcategory: '野生動物'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-25

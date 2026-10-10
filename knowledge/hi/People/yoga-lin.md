@@ -16,7 +16,7 @@ tags:
     'निर्माता',
     'पिंगटुंग',
   ]
-subcategory: 'लोकप्रिय संगीत'
+subcategory: '流行音樂'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-18

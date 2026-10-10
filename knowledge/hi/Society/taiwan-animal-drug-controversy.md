@@ -14,7 +14,7 @@ tags:
     'चिकित्सा प्रणाली',
     'पशु एवं पादप स्वास्थ्य निरीक्षण ब्यूरो',
   ]
-subcategory: 'पशु और नैतिकता'
+subcategory: '動物與倫理'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-10

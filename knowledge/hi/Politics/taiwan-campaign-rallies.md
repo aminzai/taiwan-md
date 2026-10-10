@@ -5,7 +5,7 @@ date: 2026-08-20
 category: 'Politics'
 tags:
   ['समाज', 'राजनीति', 'संस्कृति', 'चुनाव', 'मंच वाहन', 'लोकतांत्रिक स्नैक्स']
-subcategory: 'लोकतंत्र और राजनीति'
+subcategory: '民主與政治'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-19

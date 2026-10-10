@@ -4,7 +4,7 @@ description: '15 जनवरी 2024 को लाइ चिंग-ते क�
 date: 2026-04-28
 author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: 'अंतरराष्ट्रीय संबंध'
+subcategory: '國際關係'
 tags:
   [
     'कूटनीति',

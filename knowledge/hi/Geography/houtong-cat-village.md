@@ -14,7 +14,7 @@ tags:
     'कीलोंग नदी बस्ती',
     'इन्फ्लुएंसर विरोधाभास',
   ]
-subcategory: 'शहर और मानव भूगोल'
+subcategory: '城市與人文地理'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-27

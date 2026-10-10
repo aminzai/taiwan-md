@@ -4,7 +4,7 @@ description: '1945 में, ताइचुंग के येन शिन �
 date: 2026-04-24
 author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: 'बेकरी और मिठाइयाँ'
+subcategory: '烘焙與甜點'
 tags:
   [
     'रसभरी केक',

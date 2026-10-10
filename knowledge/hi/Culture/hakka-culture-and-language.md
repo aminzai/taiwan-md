@@ -5,7 +5,7 @@ date: 2026-03-24
 category: 'Culture'
 tags:
   ['हक्का', 'भाषा', 'संस्कृति', 'हठी भावना', 'लिउदुई', 'मातृभाषा वापसी आंदोलन']
-subcategory: 'जातीय संस्कृति'
+subcategory: '族群文化'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-05

@@ -13,7 +13,7 @@ tags:
     'शुद्ध ऑनलाइन बैंक',
     'इलेक्ट्रॉनिक भुगतान',
   ]
-subcategory: 'वित्तीय और तकनीक'
+subcategory: '金融與科技'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-06

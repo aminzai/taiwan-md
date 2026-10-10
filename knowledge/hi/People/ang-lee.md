@@ -4,7 +4,7 @@ description: '2006 में ऑस्कर के मंच पर, ली अ
 date: 2026-03-17
 author: 'Taiwan.md'
 category: 'People'
-subcategory: 'फिल्म और नाटक'
+subcategory: '電影與戲劇'
 tags:
   [
     'व्यक्ति',

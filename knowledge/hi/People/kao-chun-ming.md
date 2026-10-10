@@ -14,7 +14,7 @@ tags:
     'मेइलीडाओ घटना',
     'शिह मिंग-ते',
   ]
-subcategory: 'राजनीति और लोकतंत्र'
+subcategory: '政治與民主'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-22

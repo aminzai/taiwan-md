@@ -4,7 +4,7 @@ description: '2007 में 1.8 लाख वोटों से राष्�
 date: 2026-04-30
 author: 'Taiwan.md Contributors'
 category: 'Nature'
-subcategory: 'वन्यजीव'
+subcategory: '野生動物'
 tags:
   - 'स्थानिक प्रजाति'
   - 'संरक्षण श्रेणी'

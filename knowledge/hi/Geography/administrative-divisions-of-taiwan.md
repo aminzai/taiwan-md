@@ -10,7 +10,7 @@ tags:
     'राष्ट्रीय भू-योजना',
     'स्थानीय स्वशासन',
   ]
-subcategory: 'शहर और मानव भूगोल'
+subcategory: '城市與人文地理'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-17

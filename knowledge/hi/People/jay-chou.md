@@ -4,7 +4,7 @@ description: '1997 में एक शर्मीले 18 वर्षीय 
 date: 2026-03-23
 author: 'Taiwan.md'
 category: 'People'
-subcategory: 'संगीत और प्रदर्शन'
+subcategory: '音樂與表演'
 tags:
   ['व्यक्ति', 'जय चाउ', 'मंदारिन पॉप संगीत', 'गायक', 'रचना', 'R&B', 'चीनी शैली']
 lastVerified: 2026-03-23

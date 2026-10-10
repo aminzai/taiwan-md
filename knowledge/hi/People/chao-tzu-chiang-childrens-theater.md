@@ -12,7 +12,7 @@ tags:
     'बाल कला',
     'ताइवान संस्कृति',
   ]
-subcategory: 'संगीत और प्रदर्शन'
+subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-25

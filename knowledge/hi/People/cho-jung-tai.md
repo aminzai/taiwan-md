@@ -4,7 +4,7 @@ description: 'चीन गणराज्य के 31वें प्रधा
 date: 2026-05-03
 author: 'Taiwan.md'
 category: 'People'
-subcategory: 'राजनीतिक हस्तियाँ'
+subcategory: '政治人物'
 tags:
   [
     'राजनीतिक हस्तियाँ',

@@ -12,7 +12,7 @@ tags:
     'सामाजिक सुरक्षा वाल्व',
     'क्लासिक मीम',
   ]
-subcategory: 'इंटरनेट संस्कृति'
+subcategory: '網路文化'
 author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 12

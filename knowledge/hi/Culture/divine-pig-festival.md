@@ -14,7 +14,7 @@ tags:
     'आस्था परिवर्तन',
     'पारंपरिक उत्सव',
   ]
-subcategory: 'लोक विश्वास'
+subcategory: '民俗信仰'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-21

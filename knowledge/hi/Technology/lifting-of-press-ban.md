@@ -11,7 +11,7 @@ tags:
     'अखबार उद्योग इतिहास',
     'लोकतंत्रीकरण',
   ]
-subcategory: 'डिजिटल और इंटरनेट'
+subcategory: '數位與網路'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16

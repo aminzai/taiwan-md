@@ -14,7 +14,7 @@ tags:
     'हवाई फोटोग्राफी',
     'पर्यावरण',
   ]
-subcategory: 'कला और सृजन'
+subcategory: '藝術與創作'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-25

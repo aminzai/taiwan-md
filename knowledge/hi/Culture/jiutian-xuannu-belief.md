@@ -12,7 +12,7 @@ tags:
     'मियाओ यू वेनहुआ',
     'शू चेन-रोंग',
   ]
-subcategory: 'धर्म और लोककथा'
+subcategory: '宗教與民俗'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-27

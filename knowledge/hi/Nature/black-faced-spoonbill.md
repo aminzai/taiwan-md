@@ -4,7 +4,7 @@ description: '2026 की वैश्विक गणना में काल
 date: 2026-04-30
 author: 'Taiwan.md Contributors'
 category: 'Nature'
-subcategory: 'वन्यजीव'
+subcategory: '野生動物'
 tags:
   [
     'काले-मुंह वाला चमचा',

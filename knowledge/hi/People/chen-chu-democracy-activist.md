@@ -4,7 +4,7 @@ description: 'मेइलिदाओ के मौत की सज़ा प�
 date: 2026-04-17
 author: 'Taiwan.md'
 category: 'People'
-subcategory: 'राजनीति और लोकतंत्र'
+subcategory: '政治與民主'
 tags: ['राजनीति', 'लोकतंत्र आंदोलन', 'काऊशुंग', 'मानवाधिकार']
 lastVerified: 2026-04-17
 lastHumanReview: false

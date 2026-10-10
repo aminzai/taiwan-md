@@ -12,7 +12,7 @@ tags:
     'पक्ष राजनीतिक सेना में से मीडिया',
     'भुज दूरी सिद्धांत',
   ]
-subcategory: 'मीडिया और अभिव्यक्ति'
+subcategory: '媒體與言論'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-27

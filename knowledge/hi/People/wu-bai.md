@@ -4,7 +4,7 @@ description: "असली नाम वू जुन-लिन, 1968 में 
 date: 2026-03-19
 category: 'People'
 tags: ['संगीत', 'रॉक', 'ताइवानी गीत', 'चियाई', 'देसी रॉक', 'गिटार']
-subcategory: 'संगीत'
+subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

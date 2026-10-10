@@ -4,7 +4,7 @@ description: '15 सेकंड की खुशी से लेकर अद�
 date: 2026-04-12
 author: 'idlccp1984'
 category: 'Society'
-subcategory: 'मीडिया और अभिव्यक्ति'
+subcategory: '媒體與言論'
 tags:
   - टिकटॉक
   - डॉयिन

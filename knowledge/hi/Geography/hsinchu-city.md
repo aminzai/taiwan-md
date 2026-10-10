@@ -22,7 +22,7 @@ tags:
     'यांग मिंग चियाओ तुंग विश्वविद्यालय',
     '22 काउंटी-शहर श्रृंखला',
   ]
-subcategory: 'काउंटी और शहर'
+subcategory: '縣市'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-18

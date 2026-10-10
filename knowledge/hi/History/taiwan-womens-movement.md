@@ -11,7 +11,7 @@ tags:
     'सामाजिक आंदोलन',
     'कानूनी इतिहास',
   ]
-subcategory: 'युद्धोत्तर काल और सत्तावाद'
+subcategory: '戰後與威權'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20

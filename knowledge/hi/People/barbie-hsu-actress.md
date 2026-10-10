@@ -4,7 +4,7 @@ description: '1994 में S.O.S से शुरुआत, 2001 में 《
 date: 2026-04-28
 author: 'idlccp1984'
 category: 'People'
-subcategory: 'फ़िल्में और नाटक'
+subcategory: '電影與戲劇'
 tags:
   - 'बार्बी ह्सू'
   - 'बड़ी एस'

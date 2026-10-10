@@ -11,7 +11,7 @@ tags:
     'श्यू क्वांग-हान',
     'गोल्डन बेल अवार्ड',
   ]
-subcategory: 'फ़िल्म'
+subcategory: '電影'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-30

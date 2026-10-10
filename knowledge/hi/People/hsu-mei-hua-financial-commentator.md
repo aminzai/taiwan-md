@@ -4,7 +4,7 @@ description: '"शू मेई-हुआ" उनका असली नाम �
 date: 2026-04-17
 author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: 'शिक्षा और समाज'
+subcategory: '教育與社會'
 tags:
   [
     'शू मेई-हुआ',

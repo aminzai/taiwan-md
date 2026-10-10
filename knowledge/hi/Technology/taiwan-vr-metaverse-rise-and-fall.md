@@ -13,7 +13,7 @@ tags:
     'एक्सआरस्पेस',
     'काऊशुंग वीआर फिल्म लैब',
   ]
-subcategory: 'समुदाय और डिजिटल संस्कृति'
+subcategory: '社群與數位文化'
 author: 'zaious'
 featured: false
 lastVerified: 2026-04-23

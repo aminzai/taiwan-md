@@ -13,7 +13,7 @@ tags:
     'झांग झीकी',
     'चेन ज़िजियान',
   ]
-subcategory: 'राजनीतिक संस्कृति'
+subcategory: '政治文化'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16

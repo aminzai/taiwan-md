@@ -8,7 +8,7 @@ tags:
     "ला'आलुआ जनजाति",
     "ह्ला'आलुआ, मियातुंगुसु, मूलनिवासी जाति, जातीय भाषा पुनरुद्धार",
   ]
-subcategory: 'जातीय संस्कृति'
+subcategory: '族群文化'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-18

@@ -13,7 +13,7 @@ tags:
     'सार्वजनिक क्षेत्र',
     'टिप्पणी मंच',
   ]
-subcategory: 'मीडिया'
+subcategory: '媒體'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-05

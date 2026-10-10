@@ -13,7 +13,7 @@ tags:
     'ताइवानी भाषा',
     'चथॉनिक',
   ]
-subcategory: 'संगीत उद्योग'
+subcategory: '音樂產業'
 author: 'Taiwan.md Contributors'
 featured: false
 canonical-order: 999

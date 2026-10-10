@@ -4,7 +4,7 @@ description: 'उनकी प्रतिमाएँ हटाई जा र�
 date: 2026-03-31
 author: 'Taiwan.md'
 category: 'People'
-subcategory: 'राजनीतिक हस्तियाँ'
+subcategory: '政治人物'
 tags: ['राजनीति', 'इतिहास', 'मार्शल लॉ', 'संक्रमणकालीन न्याय', 'शीत युद्ध']
 lastVerified: 2026-03-31
 lastHumanReview: false

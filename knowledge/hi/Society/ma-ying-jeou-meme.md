@@ -13,7 +13,7 @@ tags:
     'समाज',
     'संस्कृति',
   ]
-subcategory: 'मीडिया और अभिव्यक्ति'
+subcategory: '媒體與言論'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-21

@@ -18,7 +18,7 @@ tags:
     'मार्शल लॉ',
     'मानवाधिकार',
   ]
-subcategory: 'युद्धोत्तर काल और सत्तावाद'
+subcategory: '戰後與威權'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-26
