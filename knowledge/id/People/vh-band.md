@@ -121,7 +121,7 @@ Gelar "Kelompok Musik Tipe Keluar" ini dari penikmat musik, bukan promosi diri m
 - [Musik Independen Taiwan (台灣獨立音樂)](/id/music/indie-music-scene) — Latar ekosistem kebangkitan VH
 - [Hello Nico](/id/people/hello-nico-band) — Lingkar independen seraya, diam delapan tahun 2024 kembali lewat "Plan B", kontras lembut dan tekanan lain
 
-## 參考資料
+## Referensi
 
 [^1]: [Vast & Hazy's "Ci Di Mi Mi" (次等秘密) dan Penulisan Terbuka](https://blow.streetvoice.com/31100/) — Blow Music 2017 wawancara mendalam, Kaka bicarakan falsafah kreasi, pelepasan kekuasaan pimpinan, dan "berharap penikmat masing-masing menafsirkan jadi bentuk berbeda"
 

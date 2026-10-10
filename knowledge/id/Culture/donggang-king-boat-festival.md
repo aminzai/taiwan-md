@@ -131,7 +131,7 @@ Ia sekaligus menghubungkan lautan dengan daratan, suci dengan profan, keluarga d
 
 Jika Taiwan ingin memperkenalkan budayanya ke dunia, Festival Sambut Raja Donggang menawarkan bukan pemandangan menakjubkan yang bisa dikonsumsi, melainkan jawaban yang lebih jujur: budaya tidak pernah hanya pertunjukan di atas panggung, tetapi juga mencakup siapa yang menjaga tertib di dini hari, siapa yang mengingat detail sebuah jabatan, siapa yang bersedia menyerahkan tekniknya, serta apakah orang luar bisa belajar menjaga rasa hormat di hadapan kepercayaan yang asing. Setelah kapal raja pergi, pekerjaan tak terlihat ini tetap tinggal di Donggang, dan oleh karena itu layak dicatat dengan baik oleh basis pengetahuan Taiwan sendiri.
 
-## 參考資料
+## Referensi
 
 [^10]: [Festival Sambut Raja Donggang untuk Kesejahteraan — Peta Budaya Agama Taiwan Kementerian Dalam Negeri](https://taiwangods.moi.gov.tw/html/cultural/3_0011.aspx?i=85) — Halaman artikel resmi menjelaskan pembangunan kapal raja, buku muatan kapal, isi muatan, dan prosedur utama festival sambut raja.
 

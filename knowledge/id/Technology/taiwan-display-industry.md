@@ -122,7 +122,7 @@ Namun kompetisi berikutnya tidak akan hanya mengulang sejarah itu. Perang skala 
 
 5 perusahaan berbagi dan 22 perusahaan peminta dalam acara 2025, ditambah demo 42 inci dan alur produksi yang belum terstandarisasi yang dicatat review akademis, mengungkapkan skenario industri yang masih dalam perakitan, bukan deklarasi kemenangan yang sudah selesai. [^6] [^7] Babak selanjutnya tampilan Taiwan, mungkin tidak akan ditulis oleh satu panel terbesar, melainkan oleh sekelompok perusahaan yang membuat jendela transparan, permukaan melengkung kabin, papan kertas elektronik, antarmuka medis, dan pengemasan baru benar-benar beroperasi.
 
-## 參考資料
+## Referensi
 
 [^1]: [Illuminating Taiwan's Competitiveness: Smart Display and LEDs — Industrial Technology Research Institute](https://50th.itri.org.tw/en/history/optoelectronics/24/) — Artikel sejarah industri optoelektronika ITRI, mendukung asal industri 1970-an, investasi teknologi tampilan 1987, TFT-LCD 10,4 inci 1996, pemasok panel terbesar kedua global 2002, milestone Micro LED 2016–2022.
 
