@@ -4,7 +4,7 @@ description: "Formed by four students on the stage of the 2001 National Chengchi
 date: 2026-06-09
 author: 'Taiwan.md Contributors'
 category: 'Music'
-subcategory: 'Independent and Rock'
+subcategory: '獨立與搖滾'
 tags:
   - 'Sodagreen'
   - 'Fish Ding Si'

@@ -4,7 +4,7 @@ description: "From 'Für Elise' played by garbage trucks to the Bunun Pasibutbut
 date: 2026-03-17
 author: 'Taiwan.md Contributors'
 category: 'Music'
-subcategory: 'Traditional Music'
+subcategory: '傳統音樂'
 tags:
   [
     'soundscape',

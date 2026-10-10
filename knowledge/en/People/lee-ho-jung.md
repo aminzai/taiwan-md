@@ -12,7 +12,7 @@ tags:
     'Fubon Angels',
     'CPBL',
   ]
-subcategory: 'Popular Figures'
+subcategory: '流行人物'
 author: 'Taiwan.md Contributors'
 readingTime: 8
 lastVerified: 2026-05-13

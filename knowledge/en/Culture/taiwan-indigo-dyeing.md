@@ -4,7 +4,7 @@ description: 'In August 1999, Chen Ching-lin guided the Sanxia Dye Workshop in p
 date: 2026-07-05
 author: 'Taiwan.md'
 category: 'Culture'
-subcategory: 'Crafts and Aesthetics'
+subcategory: '工藝與美學'
 tags:
   - 'Indigo Dyeing'
   - 'Sanxia'

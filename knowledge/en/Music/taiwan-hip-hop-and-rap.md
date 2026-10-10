@@ -4,7 +4,7 @@ description: "In 2004, Song Yueh-ting had been dead for two years when his mothe
 date: 2026-03-19
 author: 'Taiwan.md'
 category: 'Music'
-subcategory: 'Independent and Rock'
+subcategory: '獨立與搖滾'
 tags:
   [
     'Hip-Hop',

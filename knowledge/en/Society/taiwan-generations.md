@@ -13,7 +13,7 @@ tags:
     'natural-independence',
     'generational-justice',
   ]
-subcategory: 'Generations and Social Change'
+subcategory: '世代與社會變遷'
 author: 'Taiwan.md'
 category: 'Society'
 readingTime: 18

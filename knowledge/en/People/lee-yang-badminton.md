@@ -14,7 +14,7 @@ tags:
   - 'Cho Jung-tai Cabinet'
   - 'Kinmen'
   - "philosophy of trying one's best"
-subcategory: 'Sports'
+subcategory: '體育'
 author: 'Taiwan.md'
 difficulty: 'beginner'
 readingTime: 15

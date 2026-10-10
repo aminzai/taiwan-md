@@ -10,7 +10,7 @@ tags:
     'Digital Culture',
     'Taiwan Current Affairs',
   ]
-subcategory: 'Social Media and Digital Culture'
+subcategory: '社群與數位文化'
 author: 'Taiwan.md Contributors'
 category: 'Technology'
 readingTime: 8

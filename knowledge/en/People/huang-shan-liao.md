@@ -4,7 +4,7 @@ description: "In 2014, the son of a Kinmen snack shop owner walked the London Gr
 date: 2026-06-07
 author: 'Taiwan.md'
 category: 'People'
-subcategory: 'Culture and Creation'
+subcategory: '文化與創作'
 tags:
   [
     'Writer',

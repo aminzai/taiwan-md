@@ -4,7 +4,7 @@ description: "Ed Chi is the Research Vice President at Google DeepMind and co-au
 date: 2026-06-27
 author: 'Taiwan.md'
 category: 'People'
-subcategory: 'Technology and Business'
+subcategory: '科技與企業'
 tags:
   - 'Person'
   - 'Ed Chi'

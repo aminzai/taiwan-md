@@ -11,7 +11,7 @@ tags:
     'big dumb bird',
     'citizen science',
   ]
-subcategory: 'Wildlife'
+subcategory: '野生動物'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-30

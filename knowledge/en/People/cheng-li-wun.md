@@ -10,7 +10,7 @@ tags:
     'student_movement_generation',
     '2026',
   ]
-subcategory: 'Political Figures'
+subcategory: '政治人物'
 author: 'Taiwan.md'
 category: 'People'
 readingTime: 12

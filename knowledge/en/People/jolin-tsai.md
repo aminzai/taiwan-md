@@ -12,7 +12,7 @@ tags:
     'Mandopop',
     'Golden Melody Awards',
   ]
-subcategory: 'Music'
+subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-24

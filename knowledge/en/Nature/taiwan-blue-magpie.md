@@ -16,7 +16,7 @@ tags:
     'citizen science',
     'climate change',
   ]
-subcategory: 'Wildlife'
+subcategory: '野生動物'
 category: 'Nature'
 author: 'Taiwan.md Contributors'
 featured: false

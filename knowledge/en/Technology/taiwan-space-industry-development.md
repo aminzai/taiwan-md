@@ -11,7 +11,7 @@ tags:
     'space technology',
     'commercial space',
   ]
-subcategory: 'Space & Frontier'
+subcategory: '太空與前沿'
 author: 'Taiwan.md'
 readingTime: 14
 featured: true

@@ -12,7 +12,7 @@ tags:
     'Fubon Angels',
     'CPBL',
   ]
-subcategory: 'Pop Culture'
+subcategory: '流行人物'
 author: 'Taiwan.md Contributors'
 readingTime: 8
 featured: false

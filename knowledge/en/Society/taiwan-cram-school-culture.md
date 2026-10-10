@@ -12,7 +12,7 @@ tags:
   - 'star tutors'
   - 'East Asian education'
 category: 'Society'
-subcategory: 'Education'
+subcategory: '教育'
 author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 10

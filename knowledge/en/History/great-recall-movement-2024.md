@@ -4,7 +4,7 @@ description: 'On the night of July 26, 2025, one-third of Taiwan’s electoral d
 date: 2026-04-13
 author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: 'Democracy and Governance'
+subcategory: '民主與治理'
 tags:
   - 'Great Recall'
   - 'Recall'

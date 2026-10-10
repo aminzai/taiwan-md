@@ -11,7 +11,7 @@ tags:
     'Spray Water Chicken Rice',
     'Chiayi cuisine',
   ]
-subcategory: 'Regional Cuisine'
+subcategory: '地方美食'
 author: 'zaious'
 readingTime: 8
 category: 'Food'

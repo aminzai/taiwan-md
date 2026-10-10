@@ -16,7 +16,7 @@ tags:
     'indie music',
     'youth culture',
   ]
-subcategory: 'Indie and Rock'
+subcategory: '獨立與搖滾'
 category: 'Music'
 author: 'Taiwan.md'
 featured: true

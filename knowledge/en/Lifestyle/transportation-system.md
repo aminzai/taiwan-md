@@ -30,7 +30,7 @@ tags:
     'Shipping',
     'Snow Mountain Tunnel',
   ]
-subcategory: 'Transportation & Mobility'
+subcategory: '交通與移動'
 author: 'Taiwan.md Contributors'
 readingTime: 16
 featured: true

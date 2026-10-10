@@ -14,7 +14,7 @@ tags:
     'Memory Politics',
     'Transitional Justice',
   ]
-subcategory: 'Historical Figures'
+subcategory: '歷史人物'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-10

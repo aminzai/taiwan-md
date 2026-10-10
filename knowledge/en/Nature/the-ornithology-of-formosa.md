@@ -16,7 +16,7 @@ tags:
     'Indigenous Peoples',
     'Sisil',
   ]
-subcategory: 'Natural History'
+subcategory: '博物學'
 author: 'Taiwan.md'
 readingTime: 10
 featured: false

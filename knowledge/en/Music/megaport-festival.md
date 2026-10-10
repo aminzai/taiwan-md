@@ -12,7 +12,7 @@ tags:
     'Taiwanese Hokkien',
     'Chthonic',
   ]
-subcategory: 'Music Industry'
+subcategory: '音樂產業'
 author: 'Taiwan.md Contributors'
 featured: false
 canonical-order: 999

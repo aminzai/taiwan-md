@@ -4,7 +4,7 @@ description: "Taiwan was once North Korea's fourth-largest export destination, w
 date: 2026-07-17
 author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: 'Democracy and Governance'
+subcategory: '民主與治理'
 tags:
   [
     'Taiwan',

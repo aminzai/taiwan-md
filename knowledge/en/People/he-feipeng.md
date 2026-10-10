@@ -4,7 +4,7 @@ description: ‘A media entrepreneur who led by eight years and suffered seven y
 date: 2026-03-26
 category: People
 tags: [‘Cite Media’, ‘Publishing’, ‘Digital Transformation’, ‘Self-Awareness’]
-subcategory: ‘數位與媒體’
+subcategory: '數位與媒體'
 author: Taiwan.md
 featured: false
 lastVerified: 2026-03-26

@@ -3,7 +3,7 @@ title: "Taiwan's Open Source Spirit — The Engineers Powered by Love"
 description: "Taiwan's most influential open source project isn't a piece of software. It's a group of engineers who showed up at a hackathon and told their government: 'You're doing it wrong. We'll do it ourselves.'"
 date: 2026-03-29
 tags: ['open source', 'g0v', 'COSCUP', 'GitHub', 'civic tech', 'free software']
-subcategory: 'Community & Digital Culture'
+subcategory: '社群與數位文化'
 author: 'p3nchan'
 readingTime: 8
 category: 'Technology'

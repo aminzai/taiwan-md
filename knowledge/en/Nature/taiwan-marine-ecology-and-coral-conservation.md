@@ -16,7 +16,7 @@ tags:
     'marine protected areas',
     'biodiversity',
   ]
-subcategory: 'National Parks and Trails'
+subcategory: '國家公園與步道'
 author: 'Taiwan.md Contributors'
 readingTime: 13
 featured: false

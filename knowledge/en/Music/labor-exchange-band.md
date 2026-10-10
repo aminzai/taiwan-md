@@ -2,7 +2,7 @@
 title: 'Labor Exchange Band (交工樂隊)'
 description: 'In the autumn of 1998, Lin Sheng-xiang closed his Tamsui bank account — balance: NT$57 — and returned home to Meinong. Together with poet Chung Yung-feng, he began writing songs for the anti-dam movement. From 1999 to 2003, Labor Exchange Band fused Hakka eight-instrument music with modern rock across two albums that documented rural communities struggling to survive in the era of globalization — the suona horn stood at the center of a Taiwanese rock stage for the first time.'
 category: 'Music'
-subcategory: 'Indie and Rock'
+subcategory: '獨立與搖滾'
 tags:
   [
     'Labor Exchange Band',

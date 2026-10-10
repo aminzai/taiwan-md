@@ -11,7 +11,7 @@ tags:
     'Golden Melody Awards',
     'Rain God',
   ]
-subcategory: 'Music & Performance'
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23

@@ -13,7 +13,7 @@ tags:
     'Chiang Chi-yi',
     'Gold Point Design Award',
   ]
-subcategory: 'Design & Public Governance'
+subcategory: '設計與公共治理'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-04

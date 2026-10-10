@@ -9,7 +9,7 @@ tags:
   - 'Local Government Act'
   - 'Japanese‑Era Baojia'
   - '2026 Election'
-subcategory: 'Election System'
+subcategory: '選舉制度'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-27

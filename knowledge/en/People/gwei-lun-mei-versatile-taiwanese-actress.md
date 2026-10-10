@@ -10,7 +10,7 @@ tags:
     'international film festivals',
     'method acting',
   ]
-subcategory: 'Film & Theater'
+subcategory: '電影與戲劇'
 lastVerified: 2026-03-19
 translatedFrom: 'People/桂綸鎂.md'
 sourceCommitSha: 'f712b7242'

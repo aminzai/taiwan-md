@@ -2,7 +2,7 @@
 title: "Formosan Rock Macaque: Survival Games at NSYSU, Matrilineal Power, and the Truth About Taiwan's Ten-Thousand-Year Settlers"
 description: 'From the absurd daily routine at NSYSU — students collecting food deliveries while armed — to Robert Swinhoe''s 1862 introduction of the island''s primates to Western science, the Formosan Rock Macaque is often branded a "thug." Behind the label is a strict matrilineal society that settled on Mount Chai (柴山) tens of thousands of years ago, forced to evolve a survival culture under campus expansion and human feeding.'
 category: Nature
-subcategory: 'Wildlife'
+subcategory: '野生動物'
 tags:
   [
     formosan rock macaque,

@@ -13,7 +13,7 @@ tags:
     'Junyi School',
     'Paul Chiang Art Center',
   ]
-subcategory: 'Education & Society'
+subcategory: '教育與社會'
 author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false

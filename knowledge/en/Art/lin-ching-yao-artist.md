@@ -17,7 +17,7 @@ tags:
   - 'Sound Lab'
   - 'Taiwan new media art'
 category: 'Art'
-subcategory: 'Generative Art'
+subcategory: '生成藝術'
 author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 12

@@ -18,7 +18,7 @@ tags:
     'Hokkien',
     '22 Counties Series',
   ]
-subcategory: 'Counties & Cities'
+subcategory: '縣市'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-18

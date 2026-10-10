@@ -18,7 +18,7 @@ tags:
   - 'AOA Entertainment Lab'
   - 'K-POP'
   - 'Taiwan idol'
-subcategory: 'Music and Performance'
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 readingTime: 14
 lastVerified: 2026-04-23

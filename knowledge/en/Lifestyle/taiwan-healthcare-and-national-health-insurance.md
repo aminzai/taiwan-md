@@ -15,7 +15,7 @@ tags:
     'Yang Chih-liang',
     'National Health Insurance Research Database',
   ]
-subcategory: 'Healthcare and NHI'
+subcategory: '醫療與健保'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-04

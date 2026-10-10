@@ -12,7 +12,7 @@ tags:
     'Online Mutual Aid',
     'Youth Culture',
   ]
-subcategory: 'Community & Digital Culture'
+subcategory: '社群與數位文化'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-08-14

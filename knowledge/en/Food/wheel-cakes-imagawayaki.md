@@ -11,7 +11,7 @@ tags:
     'Imagawa-yaki',
     'Food Culture',
   ]
-subcategory: 'Taiwanese Snacks'
+subcategory: '台灣小吃'
 author: 'Taiwan.md Contributors'
 category: 'Food'
 readingTime: 12

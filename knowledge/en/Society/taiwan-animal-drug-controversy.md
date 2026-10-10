@@ -13,7 +13,7 @@ tags:
     'healthcare system',
     'regulation',
   ]
-subcategory: 'Society'
+subcategory: '動物與倫理'
 category: 'Society'
 author: 'Taiwan.md'
 featured: false

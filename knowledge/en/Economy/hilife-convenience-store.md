@@ -4,7 +4,7 @@ description: "How did Hi-Life, as Taiwan's sole superstore with purely local roo
 date: 2026-07-21
 author: 'Taiwan.md Contributors'
 category: 'Economy'
-subcategory: 'Corporate Biography'
+subcategory: '企業列傳'
 tags:
   [
     'Hi-Life',

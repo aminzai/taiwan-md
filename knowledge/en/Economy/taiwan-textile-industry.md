@@ -3,7 +3,7 @@ title: "Taiwan's Textile Industry: From Sunset Sector to the Hidden Champion of 
 description: "How a traditional industry once seen as 'dying' is transforming its narrative of resilience by creating high-tech gear for global teams at the 2024 Paris Olympics, using recycled PET bottles, discarded fishing nets, and even captured factory emissions."
 date: 2026-07-20
 category: 'Economy'
-subcategory: 'Economic Development'
+subcategory: '經濟發展'
 tags:
   [
     'Textile Industry',

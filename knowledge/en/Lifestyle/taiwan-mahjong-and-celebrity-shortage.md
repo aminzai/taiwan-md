@@ -11,7 +11,7 @@ tags:
     'Lunar New Year',
     'Taiwan Culture',
   ]
-subcategory: 'Everyday Entertainment'
+subcategory: '日常娛樂'
 author: 'zaious'
 readingTime: 9
 category: 'Lifestyle'

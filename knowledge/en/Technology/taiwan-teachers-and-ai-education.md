@@ -4,7 +4,7 @@ description: "In 2026, Hsiao Bi-khim placed 300 AI agents designed by approximat
 date: 2026-07-20
 author: 'Taiwan.md Contributors'
 category: 'Technology'
-subcategory: 'Artificial Intelligence'
+subcategory: '人工智慧'
 tags:
   [
     'Artificial Intelligence',

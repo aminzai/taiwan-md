@@ -4,7 +4,7 @@ description: "In January 2026, a septuagenarian man in Dax'an District died of h
 date: 2026-05-05
 author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: 'Community and Daily Life'
+subcategory: '社區與日常'
 tags:
   [
     'Urban Issues',

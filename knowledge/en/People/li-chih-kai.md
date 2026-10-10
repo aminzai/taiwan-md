@@ -18,7 +18,7 @@ tags:
     'pommel horse',
     'Taiwan',
   ]
-subcategory: 'Sports'
+subcategory: '體育'
 lastVerified: 2026-03-21
 lastHumanReview: true
 category: People

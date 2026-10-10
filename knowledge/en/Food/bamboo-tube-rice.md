@@ -11,7 +11,7 @@ tags:
     'Sustainable Food Arts',
     'Cross-Cultural Comparison',
   ]
-subcategory: 'Indigenous Cuisine'
+subcategory: '族群飲食'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-27

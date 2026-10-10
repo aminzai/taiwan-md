@@ -4,7 +4,7 @@ description: "In the midsummer of 2026, long tables are still set up on Taiwan s
 date: 2026-07-20
 author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: 'Festivals and Customs'
+subcategory: '節慶與禮俗'
 tags:
   [
     'Lunar July',

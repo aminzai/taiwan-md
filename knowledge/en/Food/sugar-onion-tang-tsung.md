@@ -13,7 +13,7 @@ tags:
     'sugar history',
     'resistance culture',
   ]
-subcategory: 'Food Scenes'
+subcategory: '飲食場景'
 author: 'Taiwan.md'
 category: 'Food'
 readingTime: 15

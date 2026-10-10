@@ -11,7 +11,7 @@ tags:
     'Steam',
     'Taiwan game',
   ]
-subcategory: 'Community and Digital Culture'
+subcategory: '社群與數位文化'
 author: 'zaious'
 readingTime: 9
 category: 'Technology'

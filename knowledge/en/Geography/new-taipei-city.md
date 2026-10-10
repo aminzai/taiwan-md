@@ -20,7 +20,7 @@ tags:
     'Ring-Shaped Metropolis',
     '22 Counties and Cities Series',
   ]
-subcategory: 'Counties & Cities'
+subcategory: '縣市'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-18

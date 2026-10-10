@@ -4,7 +4,7 @@ description: "In 2017, Lin Rong-chun, in his eighties, was still splitting bambo
 date: 2026-05-04
 author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: 'Traditional Craft'
+subcategory: '傳統工藝'
 tags:
   [
     'Traditional Craft',

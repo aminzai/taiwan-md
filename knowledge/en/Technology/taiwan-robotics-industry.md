@@ -14,7 +14,7 @@ tags:
     'NCAIR',
     '2026',
   ]
-subcategory: 'Technology Industry'
+subcategory: '科技產業'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 13

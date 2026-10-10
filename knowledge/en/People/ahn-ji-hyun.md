@@ -12,7 +12,7 @@ tags:
     'Wing Stars',
     'Kaohsiung',
   ]
-subcategory: 'Pop Culture'
+subcategory: '流行人物'
 author: 'Taiwan.md Contributors'
 readingTime: 9
 featured: false

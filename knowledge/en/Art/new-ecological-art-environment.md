@@ -4,7 +4,7 @@ description: "In June 1992, Du Zhao-xian opened the 'New Ecological Art Environm
 date: 2026-05-17
 author: 'Taiwan.md Contributors'
 category: 'Art'
-subcategory: 'Contemporary Art'
+subcategory: '當代藝術'
 tags:
   [
     'Alternative Spaces',

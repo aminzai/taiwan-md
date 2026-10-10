@@ -4,7 +4,7 @@ description: "In February 2026, a local fan page claiming to be 'a person from T
 date: 2026-06-05
 author: 'Taiwan.md'
 category: 'Society'
-subcategory: 'Information Environment'
+subcategory: '資訊環境'
 tags:
   [
     'Cognitive Warfare',

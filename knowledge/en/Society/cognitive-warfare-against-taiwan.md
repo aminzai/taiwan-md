@@ -4,7 +4,7 @@ description: "In December 2024, the 'China United Front Documentary' surpassed 2
 date: 2026-04-23
 author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: 'Media and Speech'
+subcategory: '媒體與言論'
 tags:
   - Cognitive Warfare
   - Information Warfare

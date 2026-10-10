@@ -7,7 +7,7 @@ translatedAt: '2026-06-11T16:38:12Z'
 title: 'The Divine Pig Festival: A Century of Tension Between Taiwanese Faith and Animal Welfare'
 description: "The divine pig (shen-zhu) tradition is a sacrificial ritual unique to Taiwan's Hokkien and Hakka communities, centered on offering an enormous pig to the gods. Rooted in the Yimin (Righteous People) faith of the Qing dynasty, it shifted toward competitive weight contests during Japan's colonial promotion of animal husbandry. In the modern era, the practice of confining pigs and force-feeding them has drawn intense animal welfare criticism. Festivals across Taiwan are now attempting transitions to 'eco-friendly divine pigs' or naturally raised animals, seeking a balance between faith and respect for life."
 category: Culture
-subcategory: 'Folk Beliefs'
+subcategory: '民俗信仰'
 tags:
   - 'divine pig'
   - 'Yimin Festival'

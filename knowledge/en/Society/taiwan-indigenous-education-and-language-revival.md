@@ -16,7 +16,7 @@ tags:
     'educational transition gap',
   ]
 category: 'Society'
-subcategory: 'Education'
+subcategory: '教育'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 15
