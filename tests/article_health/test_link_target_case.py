@@ -15,6 +15,23 @@ from lib.article_health.loader import load_target
 from lib.article_health.types import Severity
 
 
+def _fs_is_case_sensitive(dirpath: Path) -> bool:
+    """實測這個資料夾分不分大小寫，不用 sys.platform 猜。
+
+    下面那題的前提是「兩個只差大小寫的真實路徑同時存在」。macOS 預設 APFS 不分
+    大小寫，第二個 write_text 會蓋掉第一個，於是前提根本建立不起來、檢查器只看到
+    一個候選、照常建議 → 這題在每一台 macOS 上都紅，而 CI（Linux）是綠的。
+    反過來就是 §神經迴路「本機檔案系統不分大小寫，把 CI 會擋的錯誤藏起來」那條，
+    只是方向相反：它製造的是假的紅，不是假的綠。
+    """
+    probe = dirpath / "_twmd_case_probe"
+    probe.write_text("a", encoding="utf-8")
+    try:
+        return not (dirpath / "_TWMD_CASE_PROBE").exists()
+    finally:
+        probe.unlink(missing_ok=True)
+
+
 @pytest.fixture
 def corpus(tmp_path, monkeypatch):
     """最小 knowledge/：兩篇 zh、一篇 en 譯文。"""
@@ -80,6 +97,11 @@ def test_fix_rewrites_only_the_case(corpus):
 
 def test_ambiguous_case_is_not_guessed(corpus):
     # 兩個真實路徑只差大小寫時，不替作者選
+    if not _fs_is_case_sensitive(corpus):
+        pytest.skip(
+            "這個檔案系統不分大小寫，建立不出兩個只差大小寫的真實路徑："
+            "本題的前提不成立（CI 的 Linux 分大小寫，那裡才量得到）"
+        )
     (corpus / "knowledge" / "Technology" / "ai人工智慧產業.md").write_text("---\ntitle: x\n---\n", encoding="utf-8")
     link_target._reset_cache()
     f = _article(corpus, "見 [AI](/technology/Ai人工智慧產業)。\n")
