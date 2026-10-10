@@ -1,17 +1,17 @@
 ---
-title: 'Nghỉ do bão: Kỳ nghỉ của ai, ca làm của ai?'
-description: 'Chế độ nghỉ do bão tại Đài Loan được hình thành từ sự hy sinh của một giáo viên năm 2001. Hơn hai thập kỷ sau, 81% lao động vẫn phải đi làm trong mưa bão và 37,7% hoàn toàn không được trả lương.'
+title: 'Ngày Typhoon: Ai được nghỉ, ai vẫn phải làm việc'
+description: 'Năm 2001, một giáo viên tại Chương Hóa đã hy sinh để tạo ra chế độ ngày typhoon ở Đài Loan. Hai mươi mấy năm sau đó, 81% công nhân vẫn làm việc trong mưa gió, và 37,7% hoàn toàn không lĩnh được lương. Mỗi năm hè, một bản thông báo dừng làm việc cắt ngang xã hội Đài Loan dọc theo ranh giới tầng lớp: nhân viên văn phòng ở nhà lướt điện thoại, trong khi công nhân bán buôn bán lẻ, nông nghiệp thủy sản tiếp tục ra ngoài dưới cơn bão.'
 date: 2026-05-09
 category: 'Society'
 tags:
   [
-    'Nghỉ do bão',
-    'Quyền lợi lao động',
-    'Phòng chống thiên tai',
-    'Khí hậu Đài Loan',
-    'Vấn đề xã hội',
-    'Lao động di trú',
-    'Bão',
+    'ngày typhoon',
+    'quyền lao động',
+    'phòng chống thảm họa',
+    'khí hậu Đài Loan',
+    'vấn đề xã hội',
+    'lao động nhập cư',
+    'bão',
   ]
 subcategory: '社會制度'
 author: 'Taiwan.md'
@@ -21,201 +21,205 @@ featured: false
 lastVerified: 2026-05-09
 lastHumanReview: false
 translatedFrom: 'Society/颱風假.md'
-sourceCommitSha: 'f40273072'
-sourceContentHash: 'sha256:a1f455d597d80f3d'
+sourceCommitSha: '9bddcff65'
+sourceContentHash: 'sha256:d909a68892279cea'
 sourceBodyHash: 'sha256:8d3f66b5c4593a14'
-translatedAt: '2026-10-10T23:27:02+08:00'
+translatedAt: '2026-08-09T10:41:15+08:00'
 ---
 
-# Nghỉ do bão: Kỳ nghỉ của ai, ca làm của ai?
+# Ngày Typhoon: Ai được nghỉ, ai vẫn phải làm việc
 
-> **Tóm tắt trong 30 giây:** Năm 2001, cô giáo Hứa Bích Lan (Xu Bilan) tại trường Tiểu học Thanh Sơn, huyện Chương Hóa, đã hy sinh trong một ngày bão, gây chấn động xã hội Đài Loan và thúc đẩy chính phủ thiết lập chế độ nghỉ do bão rõ ràng hơn. Tuy nhiên, hơn hai thập kỷ sau, một cuộc khảo sát của yes123 trên 1.330 lao động cho thấy 81% từng phải đi làm bình thường trong ngày bão, và số liệu từ 1111 Nhân lực cho thấy 37,7% hoàn toàn không nhận được lương. Mỗi mùa hè, khoảnh khắc các thị trưởng hoặc huyện trưởng công bố tạm dừng làm việc đã che lấp một vấn đề sâu sắc hơn: Kỳ nghỉ này chưa bao giờ dành cho tất cả mọi người.
+> **30 giây tổng quan:** Năm 2001, giáo viên Hứa Bích Lan tại Trường Tiểu học Thanh Sơn, Chương Hóa đã hy sinh do bão, tạo ra cú sốc xã hội Đài Loan, thúc đẩy chính phủ xây dựng chế độ ngày typhoon rõ ràng hơn. Nhưng hai mươi mấy năm sau, cuộc khảo sát yes123 với 1.330 công nhân cho thấy 81% từng làm việc trong ngày bão, và con số từ 1111 Human Resources Bank còn cho thấy 37,7% hoàn toàn không lĩnh tiền lương. Mỗi năm hè, khi lãnh đạo hành chính thông báo dừng làm việc, tờ giấy đó che giấu một vấn đề sâu hơn: chế độ này từ không bao giờ là của tất cả mọi người.
 
-## Rãnh thoát nước mà người giáo viên không thể bước qua
+## Giáo viên không thể vượt qua chiếc rãnh thoát nước đó
 
-Vào cuối tháng 7 năm 2001, khi bão Tao-chi (桃芝) đổ bộ, cô giáo Hứa Bích Lan đang làm việc tại trường Tiểu học Thanh Sơn, huyện Chương Hóa. [^1]
+Ngày bão Đào Chi đến, cuối tháng 7 năm 2001, giáo viên Hứa Bích Lan (許碧蘭) ở Trường Tiểu học Thanh Sơn, Chương Hóa. [^1]
 
-Cơn bão trung bình "Tao-chi" đổ bộ từ Hoa Liên và tiến về phía Tây, khiến mưa lớn trút xuống huyện Chương Hóa. Để bảo vệ an toàn cho học sinh, trong quá trình di chuyển trong khuôn viên trường, cô Hứa đã không may rơi xuống rãnh thoát nước và bị dòng lũ dữ cuốn trôi.
+Bão cấp trung bình "Đào Chi" đổ bộ từ Hoa Liên, tiến về phía tây, Chương Hóa mưa rất lớn. Để bảo vệ an toàn học sinh, Hứa Bích Lan đang di chuyển trong khuôn viên trường thì tình cờ ngã xuống chiếc rãnh thoát nước, bị dòng lũ dữ dội cuốn đi.
 
-Cô đã hy sinh khi đang làm nhiệm vụ. Tổng thống đương nhiệm khi đó là Trần Thủy Biển (Chen Shui-bian) đã thân chinh đến viếng linh cữu. Sự cố này đã gây chấn động xã hội Đài Loan, buộc chính phủ phải đối mặt với câu hỏi: Có nên cho nghỉ vào ngày bão hay không, tiêu chuẩn nghỉ là gì, và ai là người quyết định?
+Cô đã hy sinh. Tổng thống khi đó Trần Thủy Biển (陳水扁) đã trực tiếp đến tòa hành pháp để tưởng niệm. Sự kiện này gây chấn động xã hội Đài Loan, cũng buộc chính phủ phải đối mặt với vấn đề: liệu có nên nghỉ vào ngày bão hay không, tiêu chuẩn nghỉ là gì, ai quy định?
 
-Nhưng trước khi hỏi "ai quyết định", Đài Loan thực tế đã có một câu trả lời về quy định. Ngay từ **tháng 7 năm 1974**, Cục Hành chính Nhân sự thuộc Hành chính viện đã ban hành "Các điểm hướng dẫn về việc tạm dừng làm việc và học tập khi xảy ra thiên tai". Quy định vốn đã tồn tại, chỉ là nó không được xem trọng cho đến khi một người giáo viên không thể bước qua một rãnh thoát nước. [^2]
-
----
-
-## Quyết định nghỉ làm: Mỗi lần tuyên bố là một lần đặt cược
-
-Sau sự kiện cô Hứa Bích Lan, chính phủ đã từng bước thiết lập các tiêu chuẩn quyết định rõ ràng hơn. Vào **ngày 22 tháng 1 năm 2013**, Hành chính viện đã đổi tên bản hướng dẫn cũ thành "Biện pháp tạm dừng làm việc và học tập khi xảy ra thiên tai", đưa chế độ nghỉ do bão vào khuôn khổ thống nhất của các loại thiên tai khác nhau. [^3]
-
-Ngưỡng kích hoạt quy định hiện hành gồm hai nhóm: sức gió đạt cấp 7 trở lên hoặc gió giật đạt cấp 10 trở lên; hoặc lượng mưa tích lũy trong 24 giờ tại vùng núi vượt quá 200 mm, và tại vùng đồng bằng vượt quá 350 mm. Tuy nhiên, người thực sự nắm quyền quyết định là thị trưởng các thành phố trực thuộc trung ương và huyện trưởng các huyện — chứ không phải chính quyền trung ương.
-
-Thiết kế này đã tạo ra những hình thái không ngờ trong vận hành thực tế.
-
-Mỗi lần tuyên bố nghỉ làm, các lãnh đạo địa phương đều đang đặt cược. Một nghiên cứu định lượng về chính trị học đối với 35 sự kiện bão từ năm 2005 đến 2015, sau khi đưa dữ liệu bão vào mô hình hồi quy và kiểm soát các biến số như tỷ lệ thất nghiệp, tỷ lệ tội phạm, trình độ học vấn và cấu trúc dân số, đã đưa ra kết luận: Mỗi ngày cho nghỉ do bão "đúng thời điểm" giúp tăng trung bình **2%** tỷ lệ phiếu bầu khi tái đắc cử. [^4]
-
-Những quyết định chính sách mà cử tri cảm nhận được ngay lập tức chính là chính trị. Nghỉ do bão là một trong số ít vấn đề tại Đài Loan khiến tất cả mọi người cùng trải nghiệm hiệu quả chính sách một lúc — nếu cho nghỉ đúng, mọi người đều thở phào; nếu cho nghỉ sai, mọi người đều bất mãn. Tuy nhiên, nghiên cứu cũng phát hiện ra rằng các quyết định sai lầm (cho nghỉ nhầm hoặc không cho nghỉ khi cần thiết) không gây ra hình phạt bầu cử đáng kể nào đối với người đương nhiệm. Điều này nói lên điều gì? Nó cho thấy cử tri quan tâm đến việc "nghỉ đúng" chứ không phải là "trách nhiệm giải trình". Vì vậy, chiến lược tối ưu của các chính trị gia là: Đợi các huyện lân cận tuyên bố trước.
-
-Cuộc chơi này đã đạt đến một đỉnh điểm trong cơn bão Kajiki năm 2024 — lần đầu tiên kể từ năm 2001, toàn đảo đồng loạt nghỉ hai ngày liên tiếp. Do vị trí và địa hình, huyện Nghi Lan có số ngày nghỉ do bão tích lũy nhiều nhất, lên tới **47 ngày**; trong khi huyện Miêu Lật ở phần đất liền có ít nhất, chỉ **31 ngày**. [^5]
+Nhưng trước khi hỏi "ai quy định", Đài Loan đã có một đáp án pháp lý từ lâu. Sớm nhất từ **tháng 7 năm 1974**, Viện Quản lý Nhân sự của Viện Hành pháp đã ban hành "Hướng dẫn tạm dừng làm việc và học tập khi có thảm họa tự nhiên". Quy định đã tồn tại, chỉ là nó không được coi trọng cho đến khi một giáo viên không thể vượt qua một chiếc rãnh thoát nước. [^2]
 
 ---
 
-## Nhưng phép tính này hoàn toàn bỏ qua một con người
+## Quyết định dừng làm việc, mỗi lần thị trưởng đều đang cá cược
 
-Trang tìm việc yes123 đã khảo sát 1.330 lao động: 81% từng phải đi làm bình thường trong ngày bão, trong đó **65% là do cấp trên yêu cầu**. [^6]
+Sau sự kiện Hứa Bích Lan, chính phủ từng bước xây dựng những tiêu chuẩn quyết định rõ ràng hơn. **Vào ngày 22 tháng 1 năm 2013**, Viện Hành pháp đã chính thức đổi tên quy định cũ thành "Quy định tạm dừng làm việc và học tập do thảm họa tự nhiên", đưa ngày typhoon vào khung chung của các loại thảm họa tự nhiên. [^3]
 
-Phiên bản của 1111 Nhân lực còn cụ thể hơn: 76% lao động từng đi làm vào ngày bão, trong đó 53,5% vẫn nhận đủ lương, nhưng **37,7% hoàn toàn không được trả lương**. 43,1% không có bất kỳ biện pháp bảo hộ nào, và 12,2% chỉ nhận được lời khen ngợi suông. [^7]
+Tiêu chuẩn khích hoạt hiện hành có hai nhóm: sức gió từ cấp 7 trở lên, hoặc gió giật từ cấp 10 trở lên; hoặc tích lũy lượng mưa trong 24 giờ ở khu vực núi vượt quá 200 milimét, vùng bằng phẳng vượt quá 350 milimét. Nhưng người thực sự hướng dẫn quyết định là các thị trưởng và chủ tịch hành chính trực thuộc, không phải trung ương.
 
-Hai cuộc khảo sát này đã lột tả thực tế về chế độ nghỉ do bão tại Đài Loan. Vào khoảnh khắc thị trưởng hay huyện trưởng tuyên bố tạm dừng làm việc, có hơn một phần ba số lao động phải ra ngoài trong bão mà không nhận được một đồng bồi thường thêm nào.
+Thiết kế này trong thực tế vận hành đã phát triển thành hình dạng bất ngờ.
 
-Năm ngành nghề có tỷ lệ đi làm cao nhất là: Truyền thông quảng cáo **90%**, Bán buôn bán lẻ **88,6%**, Y tế và công nghệ sinh học **86,7%**, Du lịch khách sạn **85,7%**, Nông - Ngư - Lâm nghiệp **83,3%**. Danh sách này gần như là danh mục các ngành lao động chân tay và dịch vụ cơ sở tại Đài Loan. [^8]
+Thị trưởng mỗi lần thông báo đều đang cá cược. Một nghiên cứu lượng tính khoa học chính trị về 35 sự kiện bão từ 2005 đến 2015, kết hợp dữ liệu bão và kết quả bầu cử vào mô hình hồi quy, kiểm soát tỷ lệ thất nghiệp, tỷ lệ tội phạm, mức độ giáo dục và cấu trúc dân số, đã đi đến kết luận: mỗi lần thêm một ngày nghỉ typhoon đúng, tỷ lệ phiếu bầu lúc tái đắc cử trung bình tăng **2%**. [^4]
 
-> **📝 Ghi chú của biên tập viên**
+Chính sách khiến cử tri cảm nhận ngay tức thì chính là chính trị. Ngày typhoon là một trong những chủ đề ít ỏi khiến tất cả mọi người cùng lúc trải nghiệm hiệu ứng của chính sách — nếu đúng thì mọi người đều thở phào nhẹ nhõm, nếu sai thì mọi người đều bực bội. Nhưng nghiên cứu cũng phát hiện ra, quyết định sai lầm (vô tình cho phép hoặc không cho phép khi nên) không có hình phạt bầu cử đáng kể nào đối với người đương chức. Điều này nói lên điều gì? Nói lên rằng cử tri nhìn vào "cái đúng", không phải "trách nhiệm". Vì vậy chiến lược tối ưu của các chính trị gia là: chờ các huyện/thành phố lân cận công bố trước.
+
+Trò chơi chiến lược này đạt đến một loại đỉnh cao trong giai đoạn bão Khải Mỹ năm 2024 — tạo ra lần đầu tiên kể từ năm 2001 khi toàn đảo đồng bộ nghỉ hai ngày liên tiếp. Quận Nghi Lan do vị trí và địa hình, lũy tích ngày typhoon qua các năm lên đến **47 ngày**; quận Miêu Lật trên đất liền là ít nhất, chỉ **31 ngày**. [^5]
+
+---
+
+## Nhưng phép tính này hoàn toàn không thấy một người
+
+Trang web tuyển dụng yes123 đã khảo sát 1.330 công nhân: 81% từng làm việc vào ngày bão, trong đó **65% là do chủ quản yêu cầu**. [^6]
+
+Phiên bản từ 1111 Human Resources Bank cụ thể hơn: 76% công nhân từng ra làm vào ngày bão, trong đó 53,5% vẫn lĩnh toàn bộ lương, **37,7% hoàn toàn không lĩnh**. 43,1% hoàn toàn không được bất kỳ biện pháp bảo vệ nào, 12,2% chỉ nhận được lời khen miệng. [^7]
+
+Hai cuộc khảo sát này nói lên thực tế hàng ngày của ngày typhoon ở Đài Loan. Khi thị trưởng công bố dừng làm việc, hơn một phần ba công nhân ra ngoài dưới bão, mà không lĩnh được một xu tiền bù đắp.
+
+Tỷ lệ ra làm cao nhất thuộc năm ngành: truyền thông công khai **90%**, bán buôn bán lẻ **88,6%**, y tế sinh học **86,7%**, khách sạn nhà hàng **85,7%**, nông nghiệp thủy sản **83,3%**. Danh sách này gần như chính là mục lục công nhân xanh cổ và dịch vụ cơ bản ở Đài Loan. [^8]
+
+> **📝 Ghi chú từ người lựa chọn**
 >
-> Cách kể chuyện phổ biến là "nghỉ do bão giúp người Đài Loan được nghỉ ngơi tại nhà". Cách kể này đã cắt ngang xã hội theo một đường phân cấp giai cấp chính xác: Nhân viên văn phòng (white-collar) ở nhà chờ thông báo nghỉ, trong khi công nhân ngành bán lẻ, nông - ngư nghiệp và ăn uống vẫn phải tiếp tục ra ngoài giữa cơn bão. Thiết kế hệ thống không sai, nhưng giả định của nó là: "Người được nghỉ" có văn phòng để không phải đến. Những người tại sạp bán buôn, đầm nuôi cá hay nhà hàng chưa bao giờ nằm trong giả định đó.
+> Tường thuật phổ biến là "ngày typhoon cho phép người Đài Loan nghỉ ở nhà". Tường thuật này cắt ngang theo một ranh giới tầng lớp: nhân viên hành chính văn phòng ở nhà chờ thông báo nghỉ, trong khi công nhân bán buôn bán lẻ, nông nghiệp thủy sản, nhà hàng tiếp tục ra ngoài dưới cơn bão cùng lúc. Thiết kế của chế độ không sai, nhưng giả định của nó là: những người "được nghỉ" có một phòng làm việc có thể không đi. Những người ở các quầy bán buôn, ao nuôi cá, nhà hàng, từ không bao giờ nằm trong giả định này.
 
 ---
 
-## Lao động di trú là tầng lớp vô hình nhất trong cấu trúc này
+## Lao động nhập cư là tầng lớp không thể nhìn thấy nhất trong cấu trúc
 
-Đài Loan có gần **800.000 lao động nước ngoài**, hầu hết tập trung vào các ngành sản xuất, xây dựng và nông - ngư nghiệp — chính là những ngành có tỷ lệ đi làm cao nhất trong ngày bão. [^9]
+Đài Loan có gần **800.000 lao động nhập cư nước ngoài**, hầu hết tập trung trong ngành sản xuất, xây dựng và nông nghiệp thủy sản — đúng những ngành có tỷ lệ ra làm cao nhất vào ngày bão. [^9]
 
-Hoàn cảnh của họ phức tạp hơn nhiều so với những gì dữ liệu hiển thị. Đa số lao động di trú hưởng lương tháng, việc bị trừ lương do nghỉ làm sẽ ảnh hưởng trực tiếp đến số tiền họ gửi về quê hương mỗi tháng. Cộng thêm rào cản ngôn ngữ và pháp lý, việc chủ động thực hiện "quyền tránh bão" hoặc xin trợ cấp nghỉ do bão là điều gần như không thể. Đó là chưa kể công việc của họ hầu hết đều phải có mặt tại hiện trường — không có lựa chọn làm việc tại nhà. Cơ bản hơn nữa, quyết định nghỉ do bão được đưa ra ở cấp địa phương, khiến lao động di trú đôi khi thậm chí còn không nhận được thông báo.
+Tình cảnh mà họ phải đối mặt phức tạp hơn những gì dữ liệu cho thấy. Hầu hết lao động nhập cư áp dụng chế độ lương tháng, dừng làm việc bị trừ lương sẽ trực tiếp ảnh hưởng đến số tiền gửi về quê hàng tháng. Cộng thêm rào cản ngôn ngữ và pháp lý, muốn chủ động thực hiện "quyền rút lui" hoặc nộp đơn xin trợ cấp ngày typhoon gần như bất khả thi. Chưa kể công việc của họ gần như toàn bộ là ra ngoài làm việc — không có tùy chọn làm việc tại nhà. Vấn đề cơ bản hơn là, quyết định dừng làm việc được đưa ra ở cấp địa phương, lao động nhập cư đôi khi thậm chí không nhận được thông báo.
 
-Quy định của Bộ Lao động ghi rõ bằng văn bản: Việc đi làm vào ngày bão "nên không khấu trừ tiền lương, cũng không được coi là tự ý bỏ việc và không được có các hình thức xử phạt bất lợi như trừ thưởng chuyên cần", người vi phạm sẽ bị phạt từ NT$20.000 đến NT$1 triệu. Tuy nhiên, chữ "nên" mang tính chất khuyến nghị chứ không phải bắt buộc. Khả năng thực thi còn hạn chế. [^10]
+Bộ Lao động có quy định ghi rõ ràng: ra làm vào ngày bão "nên không trừ tiền lương, cũng không được coi là vắng mặt không phép và không được trừ tiền thưởng toàn dự", vi phạm bị phạt từ 20.000 đến 1.000.000 đồng New Đài Loan. Nhưng chữ "nên" là lời khuyên, không phải bắt buộc. Lực thi hành có hạn. [^10]
 
-96% lao động ủng hộ việc luật hóa ngày nghỉ do bão thành kỳ nghỉ có lương, bao gồm cả 64% doanh nghiệp cũng ủng hộ. Nhưng tiến độ sửa đổi luật cực kỳ chậm chạp, vì lý do "có thể ảnh hưởng nghiêm trọng đến các dịch vụ thiết yếu" luôn là một cái cớ hành chính vạn năng để trì hoãn.
+96% công nhân ủng hộ đưa ngày typhoon vào luật thành ngày nghỉ có lương, bao gồm 64% doanh nghiệp cũng ủng hộ. Nhưng tiến độ sửa đổi pháp luật vô cùng chậm, vì "có thể ảnh hưởng nghiêm trọng tới các dịch vụ thiết yếu" là lý do tạm hoãn phổ biến nhất trong hành chính.
 
-> **✦** "Mỗi ngày cho nghỉ đúng sẽ giúp tăng 2% tỷ lệ phiếu bầu khi tái đắc cử." Phát hiện này mô tả chính xác ngôn ngữ chính trị của việc nghỉ do bão, nhưng điều chưa nói là: Liệu 81% những người vẫn phải đi làm kia có được tính vào lá phiếu đó không?
-
----
-
-## Thiệt hại một ngày là bao nhiêu? Thuật toán khác nhau, câu trả lời khác nhau
-
-Mỗi khi có kỳ nghỉ do bão, các phương tiện truyền thông thường trích dẫn con số "thiệt hại 31 tỷ đến 31,5 tỷ Đài tệ mỗi ngày". Con số này từ đâu mà có?
-
-Logic tính toán cơ bản là: Lấy GDP năm 2023 là 23 nghìn tỷ Đài tệ làm chuẩn, chia cho 365 ngày, ra giá trị sản xuất hàng ngày khoảng 63 tỷ, sau đó trừ đi phần vẫn hoạt động bình thường trong ngày bão (các nhà máy bán dẫn vận hành liên tục, một phần tiêu dùng nội địa), thu được thiệt hại ròng khoảng 31,5 tỷ. [^11]
-
-Nhà báo kỳ cựu Hoàng Dương Minh (Huang Yang-ming) đã tính toán lại dưới góc độ xuất khẩu: Tổng kim ngạch xuất khẩu năm 2023 vượt quá 430 tỷ USD, xuất khẩu hàng ngày vượt quá 1 tỷ USD, chỉ riêng mục này đã hơn 31 tỷ Đài tệ. Hai cách tính cho ra con số tương đương nhưng lập trường trái ngược — một bên muốn nói "đừng dễ dàng cho nghỉ", một bên muốn nói "cho nghỉ là cái giá rất đắt". [^12]
-
-Vấn đề của phép toán này không nằm ở bản thân con số, mà ở cột dữ liệu còn thiếu: Liệu có tính đến cái giá về mạng người của những người phải đi làm trong bão hay không? Rãnh thoát nước nơi cô giáo Hứa Bích Lan gặp nạn năm 2001, liệu có được tính là một phần của con số 31,5 tỷ đó không?
+> **✦** "Mỗi lần thêm một ngày đúng, tỷ lệ phiếu bầu tái đắc cử sẽ tăng 2%." Phát hiện này mô tả chính xác ngôn ngữ chính trị của ngày typhoon, nhưng cái nó không nói là: những người trong 81% ra làm bình thường đó, phiếu bầu của họ được tính vào không?
 
 ---
 
-## Lịch sử nghỉ do bão là bài học về mạng người
+## Mất mấy tỷ một ngày? Phương pháp tính khác, đáp án khác
 
-Thống kê đầy đủ về việc nghỉ do bão tại Đài Loan kể một câu chuyện khác.
+Mỗi lần trước sau ngày typhoon, các phương tiện truyền thông sẽ cố định trích dẫn con số "mất 310 đến 315 tỷ đồng New Đài Loan một ngày". Con số này từ đâu ra?
 
-Từ năm 2001 đến nay, số lần toàn đảo đồng loạt nghỉ do bão chỉ có **14 lần** (tính đến tháng 7 năm 2024). Lần nghỉ liên tục dài nhất là bão Morakot (2009), với 10 huyện thành nghỉ liên tiếp 3 ngày. Việc nghỉ do bão chủ yếu rơi vào các ngày làm việc, chứ không phải kiểu "nghỉ bù vào cuối tuần" như trên mạng lan truyền. [^13]
+Logic tính toán cơ bản là: lấy GDP năm 2023 là 23 tỷ đồng New Đài Loan làm cơ sở, chia cho 365 ngày, được ra giá trị sản xuất mỗi ngày khoảng 630 tỷ, rồi trừ đi phần vẫn hoạt động bình thường vào ngày bão (nhà máy bán dẫn hoạt động liên tục, một phần tiêu dùng nội địa), được tổn thất ròng khoảng 315 tỷ. [^11]
 
-| Kỷ lục                                      | Con số                 | Giải thích                   |
-| :------------------------------------------ | :--------------------- | :--------------------------- |
-| Số lần toàn đảo nghỉ đồng loạt              | 14 lần                 | Từ năm 2001 đến tháng 7/2024 |
-| Nghỉ liên tục dài nhất                      | 3 ngày                 | Bão Morakot, 10 huyện thành  |
-| Lần đầu tiên toàn đảo nghỉ 2 ngày liên tiếp | Năm 2024               | Bão Kajiki                   |
-| Huyện có nhiều ngày nghỉ nhất               | Huyện Nghi Lan 47 ngày | Do địa hình và vị trí        |
-| Huyện có ít ngày nghỉ nhất (phần đất liền)  | Huyện Miêu Lật 31 ngày | Hiệu ứng rào cản địa lý      |
+Nhà báo dày dạn kinh nghiệm Hoàng Dương Minh dùng góc độ xuất khẩu tính lại: năm 2023 tổng xuất khẩu vượt 430 tỷ đô-la Mỹ, xuất khẩu mỗi ngày vượt 10 tỷ đô-la Mỹ, riêng điểm này đã vượt 310 tỷ đồng New Đài Loan. Hai phương pháp tính đi đến con số gần tương tự, nhưng lập trường ngược nhau — cái trước muốn nói rằng "đừng dễ dãi cho phép nghỉ", cái sau muốn nói rằng "một khi cho phép nghỉ thì giá phải trả rất cao". [^12]
 
-Khó khăn trong việc phối hợp giữa các huyện vẫn chưa được giải quyết. Phân chia hành chính không đi đôi với khu vực đi lại, dẫn đến tiêu chuẩn nghỉ tại nơi ở, nơi làm việc và nơi học tập có thể hoàn toàn khác nhau. Tình huống "cha mẹ phải đi làm, con cái được nghỉ ở nhà" cứ vài năm lại bùng lên một làn sóng thảo luận trên mạng xã hội. Các huyện đã thử phối hợp theo khu vực, nhưng đường đi của bão và địa hình khiến việc đồng bộ hóa gần như là không thể. [^14]
-
-Hệ thống đang vận hành theo các ranh giới hành chính của thế kỷ 20, trong khi cơn bão thì không tuân theo ranh giới hành chính.
+Vấn đề của phép tính này không nằm ở con số tự nó, mà nằm ở cột mà nó thiếu: giá phải trả bằng tính mạng của những người ra làm vào ngày bão có được tính vào không? Chiếc rãnh thoát nước của cô Hứa Bích Lan năm 2001 đó, có được tính là một phần trong 315 tỷ không?
 
 ---
 
-## Tổn thất nông nghiệp: Bão không đi theo địa giới hành chính, nhưng thiệt hại tính theo huyện
+## Lịch sử ngày typhoon là bài học từ tính mạng con người
 
-Các cuộc thảo luận về nghỉ do bão thường tập trung vào giới văn phòng và thành thị, nhưng đối tượng bị bão đánh gục trực tiếp nhất mỗi năm lại là ngành nông nghiệp.
+Thống kê hoàn chỉnh về ngày typhoon ở Đài Loan nói lên một câu chuyện khác.
 
-Theo thống kê của Bộ Nông nghiệp, tổng thiệt hại nông nghiệp tại Đài Loan năm 2023 là **24,276 tỷ Đài tệ**, trong đó bão chiếm **77,16%** (khoảng 18,7 tỷ); năm 2024 còn cực đoan hơn, tổng thiệt hại nông nghiệp là **52,651 tỷ Đài tệ**, bão chiếm tới **98,88%**, hầu hết là do ba cơn bão liên tiếp (Kajiki, Gaemi, Kong-rey) gây ra. [^13a]
+Kể từ năm 2001, số lần toàn đảo đồng bộ cho phép nghỉ vào ngày typhoon chỉ có **14 lần** (tính đến tháng 7 năm 2024). Ngày nghỉ liên tiếp dài nhất là bão Mạnh Lạc (2009), 10 quận liên tiếp 3 ngày. Ngày typhoon hầu hết vào ngày làm việc, không phải lặp lại trên mạng "cho phép nhiều vào cuối tuần". [^13]
 
-Năm 2025, bão Danas gây thiệt hại nông nghiệp **2,5 tỷ Đài tệ**: Đài Nam chịu thiệt hại nhiều nhất (929 triệu), chuối mất 229 triệu, 445.000 con gà chết, và **2.454 cột điện bị hư hỏng**, lập kỷ lục lịch sử. [^13b]
+| Thống kê                             | Con số                | Giải thích                       |
+| ------------------------------------ | --------------------- | -------------------------------- |
+| Số lần toàn đảo đồng bộ              | 14 lần                | Từ năm 2001 đến tháng 7 năm 2024 |
+| Ngày liên tiếp dài nhất              | 3 ngày                | Bão Mạnh Lạc, 10 quận            |
+| Lần đầu toàn đảo 2 ngày              | 2024                  | Bão Khải Mỹ                      |
+| Quận có ngày nghỉ nhiều nhất         | Quận Nghi Lan 47 ngày | Do địa hình và vị trí            |
+| Quận có ngày nghỉ ít nhất (đất liền) | Quận Miêu Lật 31 ngày | Hiệu ứng rào cản địa lý          |
 
-Chuối, đu đủ, quýt và măng là những nạn nhân cố định của bão hàng năm. Bình Đông, Gia Nghĩa (Chiayi), Vân Lâm, Đài Nam là những địa danh luôn nằm trong bản đồ thiên tai lặp đi lặp lại. Nông dân tại các huyện này đã biết trước kết cục ngay cả khi thông báo nghỉ làm chưa được ban hành. Vào đúng thời điểm thông báo tạm dừng làm việc được phát ra, họ đang phải dùng băng keo nông nghiệp để buộc thân chuối, hoặc kéo lồng nuôi hàu lên bờ, hoặc chỉ biết đứng lặng lẽ trên bờ ruộng chờ đợi.
+Khó khăn phối hợp giữa các quận cho đến nay vẫn chưa được giải quyết. Phân chia hành chính không được thiết kế để phù hợp với vùng đi làm, nơi ở, nơi học và tiêu chuẩn dừng làm việc có thể hoàn toàn khác nhau. "Cha mẹ phải đi làm, con em ở nhà vì dừng làm việc" tình huống này, cứ mấy năm lại nổ ra một cuộc thảo luận trên mạng xã hội. Các quận đã cố gắng phối hợp khu vực, nhưng đường đi bão và địa hình khiến đồng bộ gần như bất khả thi. [^14]
 
-Khoản thiệt hại này không nằm trong giá trị trung bình hàng ngày của GDP một cách nổi bật, nhưng nó là gương mặt bị bỏ qua nhiều nhất trong các cuộc thảo luận về nghỉ do bão.
+Chế độ hoạt động dọc theo ranh giới hành chính thế kỷ hai mươi, nhưng bão không đi theo ranh giới hành chính.
 
-## Mì bão và tích trữ cải thảo: Đó là một hệ thống khác
+---
 
-Bên ngoài hệ thống chính thức này, người Đài Loan đồng thời vận hành một "thỏa thuận dân gian" trước khi bão đến.
+## Nông nghiệp bị tổn thương: bão không theo hành chính, nhưng tổn thất lại theo quận
 
-Nhà làm phim Lý Hựu Tông (Li You-zong) cho biết, ở Đài Loan ba mươi năm trước, bão gần như luôn đi kèm với mất điện và mất nước. Đêm trước cơn bão, người mẹ sẽ xả đầy nước vào bồn tắm, đổ đầy bình nước uống, đi cửa hàng tạp hóa mua pin và nến; các bà nội trợ sẽ ra chợ tích trữ lương thực, chuẩn bị sẵn bánh quy, đồ hộp, mì ăn liền. Khi mất điện, nồi cơm điện không dùng được, cả nhà sẽ nấu một bát mì với cá thu sốt cà chua đóng hộp, thêm một quả trứng, rồi hàng xóm láng giềng trao đổi cho nhau các loại mì khác vị — đó chính là nguồn gốc của "mì bão". Ông nói thói quen này đã "khắc sâu vào xương tủy chúng ta, là biểu tượng của một thời đã qua". [^15]
+Thảo luận về ngày typhoon tập trung vào nhân viên văn phòng đô thị và hành chính, nhưng những kẻ bị tấn công trực tiếp nhất mỗi năm là nông nghiệp.
 
-Theo phân tích về lưu lượng mạng trong hai năm gần đây (2023-2025) của United Daily News, vật tư được mua sắm nhiều nhất trước bão là gạo và mì sợi, đứng thứ tư là mì ăn liền, và thứ sáu là nước uống. Câu nói "thùng gạo đầy = cảm giác an toàn đầy" đã nắm bắt chính xác một logic cổ xưa hơn: Không tin bất kỳ hệ thống nào sẽ bảo vệ bạn, hãy tự bảo vệ mình trước. [^16]
+Theo thống kê từ Bộ Nông nghiệp, năm 2023 tổng tổn thất nông nghiệp ở Đài Loan là **242,76 tỷ đồng New Đài Loan**, trong đó bão chiếm **77,16%**, khoảng 187 tỷ; năm 2024 thậm chí còn cực đoan hơn, tổn thất nông nghiệp **526,51 tỷ**, bão chiếm **98,88%**, gần như toàn bộ do ba bão (Khải Mỹ, Sơn Đạo Nhân, Khang Lợi) gây ra. [^13a]
 
-Cùng với sự cải thiện của hạ tầng điện và nước, thế hệ 8x và 9x phần lớn không còn trải qua cảnh mất điện khi có bão, khiến ký ức tập thể này đang dần bị đứt gãy giữa các thế hệ. Tuy nhiên, hiện tượng siêu thị bị "quét sạch" hai ngày trước bão chưa bao giờ biến mất. Người ta có thể tranh luận về tính hiệu quả của chế độ nghỉ do bão, nhưng "mì bão" là ngôn ngữ mà ai cũng hiểu.
+Năm 2025 bão Đan Nạ (Danas), tổn thất nông nghiệp **25 tỷ đồng New Đài Loan**: Đài Nam tổn thất nhiều nhất (9,29 tỷ), mất chuối 2,29 tỷ, 445.000 con gà chết, **2.454 cột điện bị hư hại**, tạo kỷ lục lịch sử. [^13b]
 
-> **📝 Ghi chú của biên tập viên**
+Chuối, đu đủ, cam, măng sào là những nạn nhân cố định hàng năm của bão. Bình Đông, Chiayi, Vân Lâm, Đài Nam là những vùng tái phát thảm họa năm này qua năm khác. Nông dân ở những quận này, trước khi thông báo dừng làm việc phát hành đã biết kết quả rồi. Cùng lúc thông báo dừng làm việc phát hành, họ đang dùng băng keo nông nghiệp cuốn chặt thân cây chuối, hoặc kéo lồng hàu lên bờ, hoặc chỉ đứng im trên thửa ruộng chờ.
+
+Tổn thất này không được tính vào giá trị GDP hàng ngày nổi bật, nhưng nó là gương mặt bị bỏ quên nhất trong cuộc thảo luận về ngày typhoon.
+
+## Mỳ gỏi bão, hoarding rau cải, đó là chế độ khác
+
+Bên ngoài chế độ chính thức này, người Đài Loan đồng thời vận hành một bộ quy ước dân gian khác trước bão.
+
+Người quay phim Lý Hữu Tông nói, ba mươi năm trước ở Đài Loan, bão gần như chắc chắn kèm theo ngừng cấp nước ngừng điện. Đêm trước bão, mẹ sẽ đổ đầy bồn tắm nước, đổ đầy máy nước nóng, đi tiệm tạp hóa mua pin khô và nến; các bà mẹ đi chợ hoarding lương thực, chuẩn bị bánh quy, hộp cơm đóng hộp, mỳ ăn liền. Sau ngừng điện máy cơm điện không thể dùng, cả nhà nấu một tô mỳ cà chua cá thu hộp cơm, đánh một quả trứng, láng giềng trao đổi những hộp mỳ ăn liền khác nhau — đó chính là "mỳ gỏi bão" ra đời. Ông nói thói quen này "khắc sâu vào xương máu chúng tôi, là ký hiệu từng sống qua". [^15]
+
+Theo phân tích từ Liên hợp tin tức trực tuyến "Cảm nhiệt độ mạng" gần hai năm (2023-2025), hàng hóa được tìm kiếm nhiều nhất trước bão là gạo mỳ xào, tên thứ tư là mỳ ăn liền, tên thứ sáu là nước uống. "Cái hòm gạo đầy = cảm giác an toàn đầy" câu này nắm bắt chính xác một logic cổ xưa hơn: không tin bất kỳ chế độ nào sẽ bảo vệ bạn, tự bảo vệ mình trước. [^16]
+
+Khi cơ sở hạ tầng điện lực và cấp nước cải thiện, hầu hết thế hệ sinh năm 1980-1990 hầu như không còn trải qua ngừng điện bão, ký ức tập thể này đang nhanh chóng mất kỳ thế hệ. Nhưng hiện tượng siêu thị bị quét sạch hai ngày trước bão từ không bao giờ biến mất. Hiệu quả của chế độ ngày typhoon mọi người có thể tranh luận, nhưng mỳ gỏi bão là một ngôn ngữ mà mọi người đều hiểu.
+
+> **📝 Ghi chú từ người lựa chọn**
 >
-> Chế độ nghỉ do bão chính thức và văn hóa "mì bão" dân gian là hai câu trả lời cho cùng một vấn đề. Một bên cố gắng quản lý tác động của bão thông qua luật pháp và quyết định hành chính, một bên trực tiếp bỏ qua mọi hệ thống để đổi lấy cảm giác an toàn bằng cách tích trữ thực phẩm. Sự tồn tại song song của cả hai cho thấy ký ức của người Đài Loan về bão sâu sắc hơn niềm tin của họ vào bất kỳ hệ thống nào.
+> Chế độ ngày typhoon chính thức và văn hóa mỳ gỏi bão dân gian là hai đáp án cho cùng một vấn đề. Cái trước cố gắng quản lý tác động của bão thông qua luật pháp và quyết định hành chính, cái sau trực tiếp bỏ qua mọi chế độ, dùng tích trữ thực phẩm đổi lấy cảm giác an toàn. Hai đáp án cùng tồn tại, nói lên rằng ký ức người Đài Loan về bão sâu hơn ký ức về bất kỳ chế độ nào.
 
 ---
 
-## Mặt trái của nghỉ do bão: Tại sao có người nói "đừng cho nghỉ"
+## Mặt ngược của ngày typhoon: tại sao có người nói "đừng cho nghỉ"
 
-Câu nói "Chủ tịch Hiệp hội Tam Tam nói một ngày nghỉ do bão thiệt hại 31,5 tỷ" luôn được đưa ra thảo luận mỗi mùa bão, đằng sau đó là lập trường của giới kinh doanh: Nghỉ do bão là một thứ xa xỉ, Đài Loan là nền kinh tế hướng về xuất khẩu, nhà máy dừng một ngày là tổn thất, khách hàng không thể chờ đợi và đơn hàng sẽ bay mất.
+"Chủ tịch Tổng hội ba ba Lâm Bá Phong nói ngày typhoon mất 315 tỷ một ngày" câu nói này mỗi lần trước sau mùa bão đều được đưa ra thảo luận, đằng sau là một lập trường từ giới thương mại: ngày typhoon là mặt hàng xa xỉ, Đài Loan là nền kinh tế hướng xuất khẩu, nhà máy dừng một ngày là tổn thất, khách hàng chờ không nổi, đơn hàng sẽ chạy sang nơi khác.
 
-Lập trường này không sai, nhưng họ đã chọn một phép tính có lợi cho mình. Trong cùng một phép toán đó, không có 81% lao động phải đi làm trong bão, không có 37,7% người hoàn toàn không được trả lương, và không có những người bán hàng rong đang cầm ô, lội nước đến các chợ bán buôn.
+Lập trường này không nói sai, nhưng nó lựa chọn một phép tính có lợi cho chính nó. Phép tính cùng ấy, không có 81% người ra làm bình thường vào ngày bão, không có 37,7% người hoàn toàn không lĩnh tiền lương, không có những người cầm dù, đi trên nước ngập đi tới chợ bán buôn.
 
-Cách làm của Nhật Bản là một con đường khác: Tại một số khu vực, việc nghỉ do bão sẽ tự động kích hoạt sau khi Cục Khí tượng Trung ương phát cảnh báo đặc biệt, chính quyền địa phương thực hiện theo tiêu chuẩn chứ không phải là phán đoán cá nhân của các chính trị gia. Cơ chế của Hồng Kông còn trực tiếp hơn: Khi treo tín hiệu bão số 8, các loại cơ quan sẽ tự động kích hoạt quy trình tạm dừng làm việc và học tập mà không cần lãnh đạo tuyên bố riêng lẻ.
+Nhật Bản làm theo một con đường khác: một số khu vực cho phép ngày typhoon tự động khích hoạt sau khi Cơ quan Khí tượng trung ương phát hành cảnh báo đặc biệt, chính quyền địa phương tuân theo tiêu chuẩn thi hành, không phải quyết định riêng lẻ của chính trị gia. Cơ chế của Hồng Kông còn trực tiếp hơn: kéo tấm quạt gió cấp 8, các cơ quan tự động kích hoạt chương trình dừng làm việc dừng học, không cần cấp trên công bố riêng.
 
-Hệ thống của Đài Loan là sự pha trộn: Có các điều kiện kích hoạt theo luật định, nhưng quyết định cuối cùng nằm ở thị trưởng và huyện trưởng. Thiết kế này vừa giữ được sự linh hoạt cho địa phương, vừa để lại không gian cho các phán đoán chính trị. Việc người dân ở đâu được hưởng lợi, và người dân ở đâu phải tiếp tục đi làm, luôn được quyết định một cách lặng lẽ trong không gian đó. [^14a]
+Chế độ ở Đài Loan là hỗn hợp: có điều kiện khích hoạt theo quy định, nhưng quyết định cuối cùng ở tay thị trưởng quận. Thiết kế này giữ lại sự linh hoạt địa phương, cũng giữ lại khoảng trống để phán đoán chính trị. Những người nơi nào được hưởng lợi, những người nơi nào tiếp tục ra làm, mỗi lần đều được quyết định im lặng trong khoảng trống này. [^14a]
 
-## Chương Hóa năm 2001 và quy định năm 2026
+---
 
-Sau khi cô giáo Hứa Bích Lan hy sinh, chính phủ thực sự đã hành động. Nhưng giữa "đã hành động" và "đã thay đổi" có một khoảng cách lặng lẽ.
+## Chương Hóa năm 2001, và quy định năm 2026
 
-Khung pháp lý đã được thiết lập, tiêu chuẩn quyết định đã rõ ràng, quy trình tuyên bố của các thị trưởng cũng công khai hơn. Tuy nhiên, vào năm 2026 hôm nay, khi bão đến, nhân viên bán buôn bán lẻ vẫn phải ra ngoài trong cùng một cơn bão đó, lao động di trú vẫn bị yêu cầu đi làm trong tình trạng không nhận được thông báo, và 37,7% lao động vẫn hoàn toàn không nhận được lương.
+Sau khi cô Hứa Bích Lan hy sinh, chính phủ quả thực hành động rồi. Nhưng "hành động" và "thay đổi" giữa là một khoảng cách im lặng.
 
-Điểm khởi đầu của hệ thống là cái chết của một người giáo viên. Nhưng ranh giới của sự thay đổi hệ thống lại luôn dừng lại ở ranh giới của khu vực công và các văn phòng chính thức.
+Khung pháp lý được xây dựng, tiêu chuẩn quyết định rõ ràng, quy trình công bố của thị trưởng cũng công khai hơn. Tuy nhiên vào năm 2026 hôm nay, khi bão đến, nhân viên bán buôn bán lẻ vẫn ra ngoài dưới cơn bão cùng lúc, lao động nhập cư vẫn bị yêu cầu đi làm mà không nhận được thông báo, 37,7% công nhân vẫn hoàn toàn không lĩnh tiền lương.
 
-Cô Hứa Bích Lan năm đó là giáo viên trường công lập, là một trong những nhóm người cuối cùng được hệ thống bảo vệ — chính vì cái chết của cô mà các giáo viên sau này mới có sự bảo vệ pháp lý rõ ràng hơn vào ngày bão. Câu chuyện của cô sau đó đã được đưa vào các giải thích chính sách, được viết trong các báo cáo truyền thông và đưa vào tài liệu phòng chống thiên tai của trường học.
+Ranh giới của thay đổi chế độ, luôn dừng lại ở ranh giới giữa phòng công vụ và văn phòng chính thức.
 
-Nhưng mỗi mùa hè, khoảnh khắc mở điện thoại thấy thông báo nghỉ làm, 81% những người kia không hề chờ đợi thông báo này. [^17]
+Cô Hứa Bích Lan khi đó là giáo viên trường công lập, là một trong những nhóm mà chế độ cuối cùng bảo vệ — chính vì vì cô chết mà các giáo viên về sau mới có pháp lý rõ ràng hơn bảo vệ vào ngày bão. Câu chuyện của cô được đưa vào giải thích chính sách, được viết vào báo cáo phương tiện truyền thông, đi vào giáo trình phòng chống thảm họa của trường học.
+
+Nhưng mỗi năm hè, khi mở điện thoại thấy thông báo dừng làm việc khoảnh khắc, 81% người đó không đang chờ tin nhắn này. [^17]
+
+---
 
 ## Đọc thêm
 
-- [Bão](/vi/nature/typhoons-in-taiwan) — Từ việc tiền nhân thời nhà Thanh chứng kiến cuồng phong tại Bành Hồ đến làng Tiểu Lâm năm 2009, toàn cảnh 400 năm cộng sinh giữa Đài Loan và bão.
-- [Ngày lễ quốc gia](/vi/society/national-holidays) — Lịch sử chính trị của những ngày đỏ trên lịch, nhìn từ góc độ hệ thống về "Kỳ nghỉ của ai, ca làm của ai".
-- Tạp chí Business Weekly 〈Liệu nghỉ do bão có thực sự làm hài lòng cử tri mong cầu hạnh phúc nhỏ nhoi? Kết quả thống kê cho thấy: Chỉ khi nghỉ đúng mới có tác dụng〉— Phân tích định lượng chính trị học về quyết định nghỉ do bão.
-- Trang Kulau 〈Mùa bão đến, việc luật hóa ngày nghỉ thiên tai có lương đang chờ đợi điều gì?〉— Góc nhìn của lao động về vận động đưa nghỉ do bão vào luật.
+- [Bão](/vi/nature/typhoons-in-taiwan) — Từ thế kỷ 17 khi thổ dân ở Bành Hồ nhìn thấy lốc xoáy đến sự kiện Tiểu Lâm Làng 2009, toàn cảnh bốn trăm năm cộng sinh giữa Đài Loan và bão
+- [Ngày lễ quốc định](/vi/society/national-holidays) — Lịch sử chính trị trên những ngày đỏ, từ góc độ chế độ nhìn "ngày của ai, lớp của ai"
+- Tạp chí Kinh doanh Tuần báo 〈Ngày typhoon có thực sự chiều chuộng những cử tri nhỏ xinh không? Kết quả thống kê cho thấy: chỉ cho đúng mới được〉 — Phân tích lượng tính khoa học chính trị của quyết định ngày typhoon
+- Trang web Khổ lao 〈Khi mùa bão đến, tại sao cho phép ngày không có lương không đi vào luật?〉 — Quan điểm công nhân về khuyến nghị đưa ngày thảm họa vào luật
 
 ## Tài liệu tham khảo
 
-[^1]: Feng Media, 〈"Nghỉ do bão" bắt nguồn như thế này: Một bi kịch 24 năm trước đã thay đổi tư duy phòng chống thiên tai của Đài Loan〉, https://www.storm.mg/articles/1080271
+[^1]: Phong Truyền Truyền Thông, 〈"Ngày typhoon" có nguồn gốc như thế nào: 24 năm trước một thảm kịch, thay đổi tư duy phòng chống thảm họa ở Đài Loan〉, https://www.storm.mg/articles/1080271
 
-[^2]: Feng Life, 〈Tại sao lại có "nghỉ do bão"? Tất cả vì sự hy sinh của cô ấy 23 năm trước〉, https://new.storm.mg/lifestyle/5265333
+[^2]: Phong Cuộc sống, 〈Tại sao lại có "ngày typhoon"? Toàn do 23 năm trước cô hy sinh〉, https://new.storm.mg/lifestyle/5265333
 
-[^3]: Wikipedia, 〈Biện pháp tạm dừng làm việc và học tập khi xảy ra thiên tai〉, https://zh.wikipedia.org/wiki/天然災害停止上班及上課作業辦法
+[^3]: Bách khoa toàn thư, 〈Quy định tạm dừng làm việc và học tập do thảm họa tự nhiên〉, https://zh.wikipedia.org/wiki/天然災害停止上班及上課作業辦法
 
-[^4]: Business Weekly, 〈Liệu nghỉ do bão có thực sự làm hài lòng cử tri mong cầu hạnh phúc nhỏ nhoi? Kết quả thống kê cho thấy: Chỉ khi nghỉ đúng mới có tác dụng〉, https://www.businessweekly.com.tw/focus/blog/20743; xem thêm Hoa Nghệ Online Library, 〈Nghiên cứu về quyết định nghỉ do bão〉, https://www.airitilibrary.com/Article/Detail/15618080-N202405300006-00002
+[^4]: Tạp chí Kinh doanh Tuần báo, 〈Ngày typhoon có thực sự chiều chuộng những cử tri nhỏ xinh không? Kết quả thống kê cho thấy: chỉ cho đúng mới được〉, https://www.businessweekly.com.tw/focus/blog/20743; xem thêm Thư viện sách trực tuyến Hoa Nghệ, 〈Nghiên cứu quyết định ngày typhoon〉, https://www.airitilibrary.com/Article/Detail/15618080-N202405300006-00002
 
-[^5]: Critical Politics, 〈Từ năm 2001 đến nay chỉ có 14 lần toàn Đài Loan cùng nghỉ do bão〉, https://www.thenewslens.com/article/205647; iBuyRanking, 〈Xếp hạng tỷ lệ nghỉ do bão của các huyện thành tại Đài Loan trong 10 năm qua〉, https://ibuyranking.blogspot.com/2024/10/typhoon-day.html
+[^5]: Mạng lưới tin tức quan trọng, 〈Kể từ năm 2001 chỉ có 14 lần toàn đảo Đài Loan cho phép nghỉ ngày typhoon〉, https://www.thenewslens.com/article/205647; iBuyRanking, 〈Tỷ lệ cho phép ngày typhoon ở các quận Đài Loan trong 10 năm gần đây〉, https://ibuyranking.blogspot.com/2024/10/typhoon-day.html
 
-[^6]: Taiwan Epoch Times, 〈Khảo sát: 80% lao động từng đi làm vào ngày bão, 5 ngành nghề vất vả nhất〉, https://epochtimes.com.tw/n445585/調查-8成勞工曾颱風天到班-五大行業好辛勞
+[^6]: Đài Loan Epoch Times, 〈Khảo sát: 80% công nhân từng đi làm vào ngày bão, năm ngành khó nhất được tiết lộ〉, https://epochtimes.com.tw/n445585/調查-8成勞工曾颱風天到班-五大行業好辛勞
 
-[^7]: FTNN News, 〈Khảo sát: 50% chủ doanh nghiệp trả đủ lương khi nghỉ do bão〉, https://www.ftnn.com.tw/news/467148
+[^7]: Trang tin FTNN, 〈Khảo sát: Nửa chủ sở hữu cho lương đầy đủ vào ngày typhoon〉, https://www.ftnn.com.tw/news/467148
 
-[^8]: CTWANT, 〈80% lao động vẫn đi làm bình thường trong ngày bão! Lộ diện 5 ngành nghề khổ cực nhất〉, http://www.ctwant.com/article/440391; iPhon News, 〈Bất chấp mưa gió vẫn phải đi làm! Tiết lộ 4 ngành nghề đau lòng〉, https://tw.nextapple.com/life/20250822/C00DE9809B179D8E59BEADA06473B111
+[^8]: CTWANT, 〈80% công nhân vẫn làm việc vào ngày typhoon! 5 ngành "số khổ" được tiết lộ〉, http://www.ctwant.com/article/440391; Trang báo Tờ Báo Một, 〈Vô tư chạy vào mưa gió đi làm! Những ngành trái tim 4 được tiết lộ〉, https://tw.nextapple.com/life/20250822/C00DE9809B179D8E59BEADA06473B111
 
-[^9]: 21manpower, 〈Lao động di trú | Bão đổ bộ, kêu gọi tăng cường các biện pháp an toàn lao động〉, https://www.21manpower.com.tw/migrant-workers/2295/
+[^9]: 21 Quân lực, 〈Lao động nước ngoài | Khi bão đến hãy tăng cường biện pháp an toàn〉, https://www.21manpower.com.tw/migrant-workers/2295/
 
-[^10]: Trang thông tin toàn cầu của Bộ Lao động, 〈Các quy định liên quan đến nghỉ do bão〉, https://www.mol.gov.tw/1607/1632/1640/33257/post; Kulau, 〈Mùa bão đến, việc luật hóa ngày nghỉ thiên tai có lương đang chờ đợi điều gì?〉, https://www.coolloud.org.tw/node/97010
+[^10]: Trang toàn cầu Bộ Lao động, 〈Quy định liên quan ngày typhoon〉, https://www.mol.gov.tw/1607/1632/1640/33257/post; Trang Khổ lao, 〈Khi mùa bão đến, tại sao cho phép ngày không có lương không đi vào luật?〉, https://www.coolloud.org.tw/node/97010
 
-[^11]: Sanli News, 〈Cách tính thiệt hại 31,5 tỷ Đài tệ do nghỉ do bão〉, https://setn.com/News.aspx?NewsID=1541010; ETtoday Financial Cloud, https://finance.ettoday.net/news/2828678
+[^11]: Trang tin Sê Lập, 〈Tính toán mất mát 315 tỷ vào ngày typhoon〉, https://setn.com/News.aspx?NewsID=1541010; ETtoday Tài chính đám mây, https://finance.ettoday.net/news/2828678
 
-[^12]: NOWnews, 〈Cập nhật dữ liệu! Hoàng Dương Minh: Nghỉ một ngày do bão, Đài Loan thiệt hại vượt quá "con số này" Đài tệ〉, https://www.nownews.com/news/6480095
+[^12]: Tin tức ngày hôm nay NOWnews, 〈Cập nhật dữ liệu! Hoàng Dương Minh: Cho phép một ngày nghỉ typhoon, Đài Loan mất hơn "con số này" tỷ đồng New Đài Loan〉, https://www.nownews.com/news/6480095
 
-[^13]: Critical Politics, 〈Từ năm 2001 đến nay chỉ có 14 lần toàn Đài Loan cùng nghỉ do bão〉, https://www.thenewslens.com/article/205647; iBuyRanking, 〈Xếp hạng tỷ lệ nghỉ do bão của các huyện thành tại Đài Loan trong 10 năm qua〉, https://ibuyranking.blogspot.com/2024/10/typhoon-day.html
+[^13]: Mạng lưới tin tức quan trọng, 〈Kể từ năm 2001 chỉ có 14 lần toàn đảo Đài Loan cho phép nghỉ ngày typhoon〉, https://www.thenewslens.com/article/205647; iBuyRanking, 〈Tỷ lệ cho phép ngày typhoon ở các quận Đài Loan trong 10 năm gần đây〉, https://ibuyranking.blogspot.com/2024/10/typhoon-day.html
 
-[^13a]: Trang thông tin toàn cầu của Bộ Nông nghiệp, Thống kê thiệt hại thiên tai nông nghiệp, https://eng.moa.gov.tw/ws.php?id=2502354; Lập pháp viện, 〈Thiệt hại thiên tai nông nghiệp của nước ta trong 10 năm gần đây〉, https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=33368&pid=185093
+[^13a]: Trang toàn cầu Bộ Nông nghiệp, Thống kê tổn thất nông nghiệp do thảm họa, https://eng.moa.gov.tw/ws.php?id=2502354; Viện Lập pháp, 〈Tổn thất nông nghiệp của nước tôi trong 10 năm gần đây〉, https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=33368&pid=185093
 
-[^13b]: Taipei Times, "Typhoon caused NT$2.5bn losses: MOA", https://www.taipeitimes.com/News/taiwan/archives/2025/07/13/2003840217
+[^13b]: Thời báo Đài Bắc, "Bão gây tổn thất 2,5 tỷ đồng New Đài Loan: MOA", https://www.taipeitimes.com/News/taiwan/archives/2025/07/13/2003840217
 
-[^14]: vocus, 〈Chế độ "nghỉ do bão" của Đài Loan: Một vùng xám đan xen giữa phòng chống thiên tai, hành chính và chính trị〉, https://vocus.cc/article/69158ba4fd89780001675c23
+[^14]: Vocus, 〈"Chế độ ngày typhoon" ở Đài Loan: một vùng mơ hồ dệt từ phòng chống, hành chính và chính trị〉, https://vocus.cc/article/69158ba4fd89780001675c23
 
-[^14a]: vocus, 〈Chế độ "nghỉ do bão" của Đài Loan: Một vùng xám đan xen giữa phòng chống thiên tai, hành chính và chính trị〉, https://vocus.cc/article/69158ba4fd89780001675c23; xem thêm phân tích so sánh chính sách nghỉ do bão của Business Weekly, https://www.businessweekly.com.tw/focus/blog/20743
+[^14a]: Vocus, 〈"Chế độ ngày typhoon" ở Đài Loan: một vùng mơ hồ dệt từ phòng chống, hành chính và chính trị〉, https://vocus.cc/article/69158ba4fd89780001675c23; xem thêm phân tích so sánh chính sách ngày typhoon tạp chí kinh doanh, https://www.businessweekly.com.tw/focus/blog/20743
 
-[^15]: UHO Health, 〈"Người Đài Loan có thói quen ăn mì vào ngày bão?" Ông tiết lộ ký ức chung của thế hệ 7x〉, https://www.uho.com.tw/article-64790.html; Feng Media, 〈Siêu thị cháy hàng trong ngày bão! Tại sao người Đài Loan "có thói quen ăn mì"〉, https://storm.mg/lifestyle/5264370
+[^15]: Trang sức khỏe tối ưu UHO, 〈Vào ngày bão "người Đài Loan có thói quen ăn mỳ ăn liền?" Anh ta tiết lộ ký ức chung của người sinh năm 1980-1990〉, https://www.uho.com.tw/article-64790.html; Phong Truyền Truyền Thông, 〈Ngày bão cửa hàng bận rộn! Người Đài Loan "tại sao lại có thói quen ăn mỳ ăn liền"〉, https://storm.mg/lifestyle/5264370
 
-[^16]: United Daily News, 〈Tích trữ gì khi có bão? Tiết lộ 10 vật tư phải tranh mua nhất〉, https://udn.com/news/story/7266/8982945
+[^16]: Trang tin hợp nhất, 〈Tích trữ cái gì khi bão? Mười hàng hóa phải tìm kiếm được tiết lộ〉, https://udn.com/news/story/7266/8982945
 
-[^17]: Khảo sát của yes123, trích dẫn từ Taiwan Epoch Times, https://epochtimes.com.tw/n445585/調查-8成勞工曾颱風天到班-五大行業好辛勞
+[^17]: Khảo sát từ trang web tuyển dụng yes123, trích từ Đài Loan Epoch Times, https://epochtimes.com.tw/n445585/調查-8成勞工曾颱風天到班-五大行業好辛勞

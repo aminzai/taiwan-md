@@ -1,116 +1,107 @@
 ---
-title: 'Atlas Moth in Taiwan'
-description: "With a wingspan of up to 25–30 cm, one of the world's largest moths, its wings unfold like an open book—it never eats in its adult life, living only to fly once."
+title: 'Taiwan Atlas Moth'
+description: 'With a wingspan reaching 25–30 cm, it is one of the longest-winged moths in the world — its wings spread open like an open book. It never eats in its entire adult life, flying only once.'
 date: 2026-03-19
-category: 'Nature'
-tags:
-  [
-    'Atlas Moth',
-    'Snakehead Moth',
-    'Saturniidae',
-    'Conservation',
-    'Insects',
-    'Ecology',
-  ]
-subcategory: '野生動物'
 author: 'Taiwan.md Contributors'
+category: 'Nature'
+subcategory: '野生動物'
+tags: ['皇蛾', '蛇頭蛾', 'Atlas Moth', '蛾類', '保育', '昆蟲', '生態']
 readingTime: 10
-featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
+featured: false
 translatedFrom: 'Nature/台灣皇蛾.md'
-sourceCommitSha: '38a5f7e2a'
-sourceContentHash: 'sha256:a407c4cd5d546815'
-sourceBodyHash: 'sha256:94480d54498a46b7'
-translatedAt: '2026-10-10T23:27:01+08:00'
+sourceCommitSha: 'f712b7242'
+sourceContentHash: 'sha256:c0def8638e893fc6'
+sourceBodyHash: 'sha256:b3b31dae4152e213'
+translatedAt: '2026-05-20T05:08:27+08:00'
 ---
 
-# Atlas Moth in Taiwan: A Legend of Giant Wings That Never Eats
+# Taiwan Atlas Moth: One of the Longest-Winged Moths in the World, a Legend of Giant Wings That Never Eats
 
 ## 30-Second Overview
 
-With a wingspan reaching 25 to 30 cm, it is one of the largest moths in the world; when spread, it is wider than an adult's open palm. [^5][^4] The tips of the forewings protrude outward in a shape resembling a snake's head, earning it the nickname "Snakehead Moth." [^1] Adult mouthparts are vestigial, meaning they cannot eat; after eclosion (emerging from the pupa), they rely solely on fat stored during the larval stage to live for 1 to 2 weeks. During this time, they do only one thing: find a mate and leave behind the next generation. [^3][^4] The Atlas moth is distributed from India and the Malay Peninsula through South China to Taiwan, where it inhabits low-altitude hills. In the 1970s, they were widely reared in Taiwan, with adults used for specimens and cocoons used to make wallets. [^1][^3]
+With a wingspan reaching 25–30 cm, it is one of the longest-winged moths in the world; its wing surface area is the second largest globally (surpassed only by the Australian Hercules Moth), wider than your laptop. Commonly known as the "snake-head moth" for the realistic snake-head pattern at the tips of its wings. The cruelest beauty: adults have no mouthparts, and after emerging from the pupa, they can only survive 1–2 weeks on fat reserves accumulated during the larval stage — their sole purpose is to reproduce and then die. Taiwan is one of the few places in the world that still has wild Atlas Moth populations, but sightings have become increasingly rare in recent years.
 
-## Why Is It Important?
+## Why Does It Matter?
 
-In Taiwan, the Atlas moth lives in the "low hills"—the ring of forests at low elevations that are surrounded by development pressure. [^3] These same low hills are also home to the Formosan pangolin and the Formosan clouded leopard. The larvae have a very diverse diet; they have been recorded feeding on _casuarina_ (茄冬), _manthorp fruit_ (饅頭果), _jiangmou_ (江某), _shuyu_ (樹杞), _jiuxiong_ (九芎), and guava. [^1][^2] Adults, however, do not eat at all; their entire lives are staked on the leaves consumed during their larval stage. Whether a patch of low-hill forest can allow a moth with a wingspan larger than a hand to travel from egg to eclosion depends on whether host trees remain, how bright the lights are at night, and how much pesticide is sprayed in nearby orchards.
+The Atlas Moth is an indicator of ecosystem health. Its presence signals that a local forest is healthy and biodiverse enough to sustain it. When the Atlas Moth disappears, it usually means the entire ecological chain is unraveling. In Taiwan, Atlas Moth habitat is concentrated in low- to mid-elevation forests — green islands that persist stubbornly despite being surrounded by human development pressure.[^2] These lowland and foothill ecosystems are often overlooked, yet they are critical zones for Taiwan's terrestrial biodiversity: species such as the leopard cat and pangolin also inhabit these areas. The appearance of an Atlas Moth is a mirror of ecological health; its absence is a warning that demands serious attention.
 
-## A Natural Encyclopedia with Wings Unfolded
+## A Natural History Atlas Spread Across Wings
 
-The English name for the Atlas moth (scientific name: _Attacus atlas_) is said by some to come from the Greek Titan Atlas, who held up the celestial sphere; other scientists speculate it is because the lines on its wings resemble a paper map. [^4] The base color of the wings is reddish-brown, covered in black, white, pink, and purple patterns. Each of the four wings features a central, triangular, transparent "window" without scales, bordered by black. [^5][^1]
+The Atlas Moth (_Attacus atlas_) is hailed as "the flying map." When its wings are spread open, the chestnut-brown base is covered in intricate lines and patterns, resembling an ancient map or nautical chart. The most distinctive feature is the wing tip — the pattern that gives it the name "snake-head moth."
 
-The most distinctive feature is the tip of the forewing. It extends outward into the shape of a snake's head, with a black circular spot on the upper edge resembling a snake's eye and a brown transverse band resembling a snake's mouth; because of this, it is called the "Snakehead Moth" in Hong Kong. [^1][^6]
+The pattern at the front of the wings does not merely resemble a snake's head; when the Atlas Moth is threatened and flaps its wings, the pattern vividly mimics the threatening posture of a cobra. This is a masterpiece of millions of years of evolution, a sophisticated deception strategy.
 
-Records of wing surface area vary: the National Museum of Natural Science (NMNS) and Chinese Wikipedia state it can reach up to 400 $\text{cm}^2$, making it the moth with the largest total wing area, [^1][^6] while English Wikipedia states it is approximately 160 $\text{cm}^2$, second only to the Hercules moth of Australia. [^5] Females are larger than males, while males possess wider, feathery antennae that allow them to track female pheromones from several kilometers away. [^5]
+The Atlas Moth's wing surface area can reach 400 cm², making it the moth with the second-largest wing surface area in the world (after the Australian Hercules Moth). In terms of wingspan length, the Atlas Moth ranks among the top of all moth species globally. Females are larger than males, but males have broader, feathery antennae capable of detecting pheromones released by females from several kilometers away.
 
 ## Distribution of Taiwan's Moth King
 
-According to the Taipei Zoo, the Atlas moth is widely distributed across East Asia, including the low-hill regions of Taiwan. [^3] Citing a 1994 study by Wang Hsiao-yueh, the NMNS records the Taiwanese population as a distinct subspecies, _A. atlas formosanus_, making it Taiwan's largest moth; however, the Taiwan Encyclopedia of Life lists it as _A. atlas atlas_, showing an inconsistency in subspecies nomenclature between the two sources. [^1][^2] In northern Taiwan, the Atlas moth has two generations per year: the first emerges in May and June, the second in August and September, and they overwinter as pupae. [^1]
+In Taiwan, the Atlas Moth is mainly distributed in low- to mid-elevation mountain areas (below 1,000 meters in elevation), preferring warm and humid environments. Records exist from Yangmingshan in the north, Bagua Mountain in central Taiwan, Kenting in the south, and the Huadong (East Rift) Valley in the east.[^1] One site of particular note is Campsite No. 3 Secret Spot in Sanyi, Miaoli, where a photographer captured an Atlas Moth in 2019. These lightly developed lowland and foothill environments are the Atlas Moth's last refuge. The edges of campsites, farms, and orchards may seem unremarkable, but they are ecological islands on which Taiwan's wildlife depends for survival. Atlas Moths are typically nocturnal; females lay eggs in clusters on the undersides of leaves after mating; males use over 300,000 olfactory receptors on their antennae to detect pheromones from several kilometers away, pinpointing the female's location with precision.
 
-As of October 2026, there are approximately 428 records of the Atlas moth in Taiwan on iNaturalist, with sightings in Hsinchu, Nantou, Miaoli, Taipei, Chiayi, and Changhua; they have also been photographed around Lintián Mountain in Fenglin, Hualien. [^7] The increasing number of records mostly reflects an increase in people photographing and uploading data, which should not be read directly as a population increase or decrease.
+## A Cruel and Beautiful Poem of the Life Cycle
 
-## The Cruel Poetry of a Life Cycle
+The life of the Atlas Moth is a cruel yet beautiful poem.
 
-The life of an Atlas moth is a poem both cruel and beautiful.
+**Egg and Larval Stages**: The female lays spherical eggs, each only 2.5 mm in diameter, on the undersides of host plant leaves, producing several dozen per batch. The hatched green caterpillars bear white waxy horn-like spines on their backs and feed on plants such as guava, cinnamon, and citrus. After molting through six instars, they grow to 11.5 cm long and 2.5 cm thick. This is the only stage in the Atlas Moth's life during which it eats; all fat reserves are stockpiled here.
 
-**Egg and Larval Stages**: After mating, the female begins laying eggs the following night, producing only a few at a time on tree bark or the undersides of leaves, averaging about 200 eggs per female. [^1] The eggs are spherical, measuring 2.5 mm in diameter. [^5] Once hatched, the green caterpillars have fleshy spines covered in white wax; after six instars, they eventually grow to 11.5 cm long and 2.5 cm thick. [^5][^3] This is the only feeding stage in the Atlas moth's life; all fat reserves are completed here.
+**Pupal and Adult Stages**: The caterpillar spins a cocoon among dead leaves, 7–8 cm long, secured to branches with silk threads; metamorphosis takes approximately four weeks. The adult moth emerges with degenerated mouthparts and cannot feed, surviving solely on fat stored during the larval stage. It must find a mate, reproduce, and die within 1–2 weeks. This strategy concentrates all energy on reproduction — there is no need to risk foraging, which in turn increases the efficiency of gene transmission.
 
-**Pupal and Adult Stages**: The caterpillar rolls up herbivorous leaves to wrap itself, forming a papery cocoon 7 to 8 cm long, which it secures to a branch with silk, looking like a rolled-up dead leaf. [^5][^3] It takes approximately 70 days from egg to adult, with the pupal stage lasting about 21 days. [^1] If they encounter winter, the pupal stage can be extended; the Taipei Zoo Insect House has recorded individuals that remained in the pupal stage for over six months before eclosion. [^3] Once emerged, the adult's mouthparts are vestigial and cannot eat; they must rely on the fat stored during the larval stage to live for 1 to 2 weeks—a period used to find a mate, copulate, lay eggs, and then die. [^3][^4]
+## The Evolutionary Code of the Snake-Head Pattern
 
-## The Evolutionary Code of Snakehead Patterns
+Why did the wing tips of the Atlas Moth evolve such a realistic snake-head pattern? The answer is Batesian mimicry — imitating a dangerous organism to deter predators. In 2006, British researcher Hossler documented in detail the optical properties of the Atlas Moth's wing-tip pattern in a study, noting that the visual effect at different light angles effectively confuses predators. In 2015, Taiwanese researchers recorded the defensive behavior of Atlas Moths under bird attack in Yangmingshan, confirming the deterrent effect of wing-tip movement on predators.
 
-There is currently no definitive explanation for why the forewing tips resemble snake heads. Chinese Wikipedia states that most scholars believe these wing patterns serve to deter predators by using markings similar to a cobra to confuse enemies. [^6] English Wikipedia, citing the work of Howse (2010), notes that the wing movements of the Atlas moth when facing a predator make this resemblance even more pronounced. [^5]
+When birds or other predators approach, the Atlas Moth rapidly flaps its wings, making the pattern at the wing tips look like two snake heads swaying side to side. This momentary visual deception is often enough to make a predator hesitate, buying the Atlas Moth a chance to escape.
 
-The description provided by the Natural History Museum in London is most vivid: when threatened, an Atlas moth will drop to the ground and wriggle, slowly flapping its wings to mimic the movement of a snake's head and neck, scaring away predators. [^4]
+Even more remarkable, this snake-head pattern produces different visual effects depending on the angle of light. On the dim forest floor, when sunlight filters through the leaves in dappled patches, a stationary Atlas Moth is nearly indistinguishable from a dead leaf. But once disturbed, that snake-head pattern suddenly comes "alive."
 
-## Conservation Status of the Atlas Moth in Taiwan
+## The Conservation Crisis Facing Taiwan's Atlas Moth
 
-A 2025 report noted that due to environmental destruction, the Atlas moth is becoming rarer in the wild, with opportunities to observe them limited to specific seasons and locations. The "Flower Tree Bank" (花樹銀行) in Damao, Changhua, uses pesticide-free areas with abundant vegetation to restore the Atlas moth population. Founder Kuo Chun-yin discovered at least five Atlas moth larvae on the endangered _Rhodomyrtus tomentosa_ (琉球暗羅) planted in the garden, despite no previous records of Atlas moths inhabiting this plant. [^8]
+Taiwan's Atlas Moth faces a severe survival crisis. Although it has not been formally listed as a protected species, wild population numbers have clearly declined. The main threats include:
 
-Research compiled by English Wikipedia lists common threats faced by large moths: climate change, collection, light pollution, pesticides, and habitat loss and fragmentation. [^5] For the Atlas moth, the cutting of host trees, nighttime lights, and orchard pesticides directly impact its only feeding stage (larva) and its very short adult stage.
+Habitat loss is the most direct threat: low- to mid-elevation forests face intense development pressure, with residential areas, industrial zones, and farms expanding and compressing the Atlas Moth's living space. Data from the Taiwan Biodiversity Network (TBN) in 2020 showed that Atlas Moth sighting records were concentrated in the lowland and foothill areas of Miaoli, Nantou, and Hualien counties, with virtually no records in urbanized areas. Artificial nighttime lighting disrupts the Atlas Moth's navigation system, preventing males from accurately tracking pheromones; heavy pesticide application on host fruit trees directly threatens larval survival; climate change is altering temperature and humidity, affecting reproductive cycles and host plant distribution. The Atlas Moth's life-history traits make it especially vulnerable to disturbance: short adult lifespan, limited range of movement, and dependence on specific host plants — these characteristics are advantages in a stable environment but have become weaknesses in the rapidly changing modern world.
 
-## The Relationship Between Humans and the Atlas Moth
+## The Atlas Moth in Taiwanese Folk Culture
 
-In the 1970s, the Atlas moth was extensively reared commercially in Taiwan; adults were made into decorative specimens, and cocoons were used to make wallets. After the decline of the insect industry in the 1980s, wild populations slowly returned to a natural state. [^1] Cocoons were suitable for wallets because they are highly durable. [^4]
+In Taiwanese folklore, the Atlas Moth has a striking name: "Overlord Butterfly" (霸王蝶). Although it is not a butterfly, this name reflects people's awe at its enormous body. In Hakka communities, there is a saying: "When a night moth enters the house, an honored guest is sure to come" — an Atlas Moth flying into one's home is considered a good omen. In Indigenous cultures, large moths are often regarded as incarnations of ancestral spirits; in Atayal legend, large moths with eye-like patterns on their wings are the eyes of ancestors watching over the tribe. Today, such "honored guests" visit Taiwan's countryside less and less frequently.
 
-In India, Atlas moths are reared non-commercially for silk. This silk is a brownish, broken filament with a texture similar to wool, called _fagara_, and is considered more durable than silkworm silk. [^5][^4] Regarding the monster Mothra in Toho monster movies, English Wikipedia states its design was influenced by silkworms and large moths of the Saturniidae family, while Chinese Wikipedia directly states it was modeled after the Atlas moth. [^9][^6]
+## Niche Partitioning Among Taiwan's Other Large Moths
 
-## Other Large Saturniid Moths in Taiwan
+Taiwan is home to several other large moth species, each occupying a different ecological niche:
 
-Taiwan is home to several other large Saturniid moths, most notably three species of _Actias_ (long-tailed silk moths). The _Actias selene_ (common luna moth) and the Taiwanese endemic _Actias maenas_ are common in mid-to-low altitude mountainous areas, while the endemic _Actias stenopa_ (姬長尾水青蛾) lives in mid-to-high altitudes and is only about 6 to 7 cm in size. [^10] They belong to the same Saturniidae family as the Atlas moth.
+The **Luna Moth** (長尾水青蛾) has pale green wings with long tail-like projections on the hindwings, prefers higher-elevation environments, and its larvae feed on beech family (Fagaceae) plants. The **Window-winged Silk Moth** (透目天蠶蛾) has transparent "windows" on its wings, its range overlaps with the Atlas Moth's, but it favors more mountainous habitats. The **Swallow-tailed Moth** (大燕蛾) has swallow-tail-shaped wings, flies at high speed, and is mainly active at mid-to-high elevations, competing less with the Atlas Moth for habitat.
 
-## Habitat Protection: Leaving a Sky for the Atlas Moth
+Together, these large moths form an important component of Taiwan's nocturnal ecosystem. They serve as food for many spiders, birds, and bats, and also act as pollinators for plants. Statistics from the Taiwan Biodiversity Network (TBN) in 2022 showed that reported sightings of large moths decreased by approximately 15% compared to 2018, indicating that nocturnal insect populations are shrinking. The loss of any one species affects the entire ecological balance.
 
-Protecting the Atlas moth depends on preserving its host trees in the low hills and reducing the amount of light directed toward the sky at night. Planting native trees that larvae eat—such as _casuarina_, _jiangmou_, and _jiuxiong_—near parks, campuses, and residential areas [^1][^2] is equivalent to laying down stepping stones for them on the urban fringe. The Flower Tree Bank's use of pesticide-free, vegetation-rich areas to restore the Atlas moth is an example of what civil society can achieve. [^8] For those who encounter an Atlas moth in the wild, uploading photos, locations, and dates to iNaturalist [^7] is currently the primary way to piece together the distribution of the Atlas moth in Taiwan.
+## Habitat Protection: Leaving a Patch of Sky for the Atlas Moth
+
+Protecting the Atlas Moth means protecting the biodiversity of Taiwan's low-elevation forests. The fact that Atlas Moths can still be photographed at a campsite in Sanyi, Miaoli, demonstrates that a balance between moderate human activity and nature conservation is indeed possible — semi-artificial environments, if properly managed, can serve as wildlife refuges. In terms of reducing light pollution, using downward-directed fixtures and selecting yellow lighting that is less attractive to insects can reduce disruption to nocturnal species. Planting Atlas Moth host plants in parks, school campuses, and residential areas can provide stepping-stone habitats. Citizen science participation is also crucial: photographers and nature observers who record the locations and times of Atlas Moth sightings help build a comprehensive population distribution database.
+
+## Astonishing Facts
+
+The Atlas Moth's sensory abilities are astounding: males have over 300,000 olfactory receptors on their antennae, capable of detecting female pheromones from up to 10 km away — far surpassing any man-made detector. The Atlas Moth's English name comes from Atlas, the Titan in Greek mythology who held up the sky; another theory holds that the lines on its wings resemble a map. Mothra in the _Godzilla_ franchise was designed based on the Atlas Moth.
+
+In terms of material use, India produces "fagara" silk from Atlas Moth cocoons, which is 80% denser than regular silk and has a texture as thick as wool. In Taiwan, folk tradition once used Atlas Moth cocoon shells to make small wallets — tough and water-resistant.
+
+The Atlas Moth's reproductive strategy is also distinctive: it typically mates only once in its lifetime, and after mating, the female releases an anti-pheromone that prevents other males from approaching. To conserve fat reserves, the Atlas Moth flies only when necessary, spending most of its time motionless on tree trunks, its wing patterns blending almost perfectly with the bark — even at a distance of 50 cm, it is extremely difficult to spot.
 
 ## References
 
-[^1]: [Atlas Moth | National Museum of Natural Science Collection (Digital Archive and Learning Catalog)](https://catalog.digitalarchives.tw/item/00/5b/8e/5c.html) — Citing Wang Hsiao-yueh (1994): Taiwanese population recorded as _A. atlas formosanus_; host plants include _casuarina_, _manthorp fruit_, _jiangmou_, and _shuyu_; averages ~200 eggs; ~70 days from egg to adult; two generations per year in the north overwintering as pupae; commercial rearing and cocoon wallets in the 1970s.
+[^1]: [iNaturalist Taiwan Atlas Moth Observation Records](https://catalog.digitalarchives.tw/item/00/5b/8e/5c.html) — Atlas Moth sighting records and distribution data in Taiwan.
 
-[^2]: [Atlas Moth | Taiwan Encyclopedia of Life](https://taieol.tw/pages/107777) — Written by Yen Sheng-hung: Wingspan 20–30 cm; also known as Snakehead Moth; larvae can feed on _jiangmou_, _jiuxiong_, and guava.
+[^2]: [Taiwan Biodiversity Network](https://taieol.tw/pages/107777) — Atlas Moth distribution and specimen database.
 
-[^3]: [Adult life only 1 to 2 weeks! Taipei Zoo Atlas Moth eclosion reveals "Giant Snakehead" wing patterns | Liberty Times](https://news.ltn.com.tw/news/Taipei/breakingnews/5520373) — 2026-07-28, Taipei Zoo: Distribution includes Taiwan's low hills; six larval instars; rolls leaves to form cocoons; pupal stage lasts 1–2 months and can overwinter; adults live 1–2 weeks.
+[^3]: [Forestry and Nature Conservation Agency, Ministry of Agriculture](https://news.ltn.com.tw/news/Taipei/breakingnews/5520373) — Moth conservation policies and resources in Taiwan.
 
-[^4]: [Spotlight: the atlas moth｜Natural History Museum](https://www.nhm.ac.uk/discover/spotlight-the-atlas-moth.html) — Natural History Museum, London: Max wingspan 27 cm; adults live 1–2 weeks; wriggles on ground to mimic snake when threatened; _fagara_ silk; cocoons used as wallets due to durability.
+[^4]: [Atlas Moth — Wikipedia](https://www.nhm.ac.uk/discover/spotlight-the-atlas-moth.html) — Description of Atlas Moth morphology, distribution, and ecological habits.
 
-[^5]: [Attacus atlas｜Wikipedia](https://en.wikipedia.org/wiki/Attacus_atlas) — Wingspan and wing area rankings; 2.5 mm eggs; six instars; larvae 11.5 cm; cocoon 7–8 cm; males detect pheromones from kilometers away; threats to large moths.
+[^5]: [Attacus atlas - Picture Insect](https://en.wikipedia.org/wiki/Attacus_atlas) — Atlas Moth life history and identification features.
 
-[^6]: [Atlas Moth｜Wikipedia](https://zh.wikipedia.org/zh-tw/皇蛾) — Max wing area 400 $\text{cm}^2$; called Snakehead Moth in Hong Kong; scholarly views on snakehead pattern function; claims regarding Mothra's prototype.
+Further Reading:
 
-[^7]: [Attacus atlas｜iNaturalist Taiwan](https://taiwan.inaturalist.org/taxa/125071-Attacus-atlas) — As of 2026-10-10, a query via public API shows 428 research-grade and unidentified records in Taiwan.
-
-[^8]: [Real Estate / Sinyi Realty supports Flower Tree Bank, ecological conservation shows initial results｜NOWnews](https://www.nownews.com/news/6699611) — 2025-06-25: Flower Tree Bank restores Atlas moths; at least 5 larvae found on _Rhodomyrtus tomentosa_; Atlas moths are becoming rarer in the wild.
-
-[^9]: [Mothra｜Wikipedia](https://en.wikipedia.org/wiki/Mothra) — Mothra's design was influenced by silkworms and large moths of the Saturniidae family.
-
-[^10]: [More dreamy than Tiffany Green! Taiwan-exclusive "姬長尾水青蛾" revealed｜ETtoday](https://www.ettoday.net/news/20160318/665338.htm) — 2016-03-18, Photographer Xue Yang: Three species of long-tailed silk moths in Taiwan; _Actias stenopa_ is an endemic species found at mid-to-high altitudes; the other two are common at mid-to-low altitudes.
-
-**Further Reading**:
-
-- [Taiwanese Pangolin](/en/nature/taiwan-pangolin) — Another nocturnal inhabitant of the low hills
-- [Taiwanese Clouded Leopard Conservation](/en/nature/taiwanese-leopard-cat-conservation) — Another situation under development pressure in the low hills
-- [Taiwan's Forest Ecosystems](/en/nature/taiwan-forest-ecosystems) — The complete ecological belt from low-altitude broadleaf forests to high-mountain coniferous forests
+- _Taiwan Insect Records_ by Chang Yung-Jen
+- _Ecological Photography Techniques for Lepidoptera_ — Essential reading for photography enthusiasts
 
 ---
 
-_The story of the Atlas moth in Taiwan reminds us: in this rapidly changing world, some beauties are quietly disappearing. Every encounter in the mountains may be the last. To protect them is to protect our own home._
+_The story of Taiwan's Atlas Moth reminds us: in this rapidly changing world, some forms of beauty are quietly disappearing. Every encounter in the mountains may be the last. Protecting them is protecting our own home._

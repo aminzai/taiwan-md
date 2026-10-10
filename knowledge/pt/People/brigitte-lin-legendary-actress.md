@@ -1,15 +1,15 @@
 ---
-title: 'Lin Qing-xia: da deusa artística ao mito do wuxia'
-description: 'Transição da rainha do cinema de Qiong Yao para um clássico do wuxia, lenda da indústria cineasta chinesa'
+title: 'Lin Ching-hsia'
+description: 'Rainha dos filmes de Chiung Yao transformada em clássico do wuxia, estrela lendária do cinema sinófono'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Lin Qing-xia',
-    'atriz',
-    'cinema de Qiong Yao',
-    'Dongfang Bubai',
-    'cinema chinesa',
+    'Lin Ching-hsia',
+    'actriz',
+    'filmes de Chiung Yao',
+    'O Invencível do Oriente',
+    'cinema sinófono',
   ]
 subcategory: '電影與戲劇'
 author: 'Taiwan.md'
@@ -17,142 +17,142 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/林青霞.md'
-sourceCommitSha: 'f40273072'
-sourceContentHash: 'sha256:d90dfbfec4a44a23'
+sourceCommitSha: '7415dcaae'
+sourceContentHash: 'sha256:2b4a824289c241f9'
 sourceBodyHash: 'sha256:12badc0094297f08'
-translatedAt: '2026-10-10T20:45:15+08:00'
+translatedAt: '2026-07-26T17:01:26+08:00'
 ---
 
-# Lin Qing-xia: da deusa artística ao mito do wuxia
+# Lin Ching-hsia: de deusa do cinema literário a lenda do wuxia
 
-Lin Qing-xia (林青霞) travou carreira tanto nos filmes artísticos de Qiong Yao quanto nos filmes de wuxia de Tsui Hark, sendo uma das atrizes mais representativas do cinema chinês. Nos anos 1970, com sua imagem tímida, tornou-se a figura central dos filmes de Qiong Yao; no final dos anos 1980, deu um rumbo revolucionário ao interpretar o papel de Dongfang Bubai em "O Mundo Mágico" (《東方不敗》). Sua carreira testemunhou a era de ouro do cinema chinês.
+Lin Ching-hsia atravessa duas eras — os filmes literários de Chiung Yao e os filmes de wuxia de Tsui Hark — sendo uma das actrizes mais representativas do cinema sinófono. Na década de 1970, tornou-se figura central dos filmes de Chiung Yao com a sua imagem pura; no final da década de 1980, reinventou-se com sucesso, criando uma personagem subversiva em _O Invencível do Oriente_. A sua carreira testemunhou a idade de ouro do cinema sinófono.
 
-## A jornada de estrela da vila de veteranos
+## O caminho da rapariga da aldeia militar para o estrelato
 
-Lin Qing-xia nasceu em Taipé, em 3 de novembro de 1954, com ascendência de Shandong. Seu pai, Lin Weiliang (林維良), era soldado, e sua mãe, Luo Xiuyun (羅秀雲), era uma dona de casa. Crescida em uma vila de veteranos, Lin Qing-xia mostrava desde cedo uma beleza distinta e uma personalidade tranquila.
+Lin Ching-hsia nasceu a 3 de Novembro de 1954 em Taipé, com ascendência em Shandong. O pai, Lin Wei-liang, era militar; a mãe, Lo Hsiu-yun, dona de casa. Crescida num ambiente de aldeia militar (_chüan-ts'un_), Lin Ching-hsia exibiu desde cedo uma beleza delicada e um temperamento tranquilo.
 
-No ensino médio no Colégio Feminino Jinling (金陵女中), Lin Qing-xia era uma estudante exemplar, com grande interesse por literatura e artes. Em 1972, foi descoberta por Song Cunshou (宋存壽) no distrito de Ximending, que a convidou para estrelar "Fora da Janela" (《窗外》), quando ela estava se preparando para os exames universitários, sem experiência prévia na indústria do entretenimento. [^1]
+Estudou no Liceu Feminino Chinling, onde foi aluna exemplar, com grande interesse por literatura e artes. Em 1972, foi descoberta pelo realizador Sung Tsun-shou em Ximending, que a convidou para protagonizar _A Janela_ — na altura, preparava-se para o exame de admissão à universidade, sem qualquer preparação para a carreira artística. [^1]
 
-Com o apoio de sua mãe, Lin Qing-xia decidiu tentar a carreira no cinema. Seu primeiro filme, "Fora da Janela" (1973), adaptado do romance de Qiong Yao, em parceria com Qin Han (秦漢), consolidou sua posição no cinema artístico. [^2]
+Com o apoio da mãe, Lin Ching-hsia decidiu tentar a representação. O seu primeiro filme, _A Janela_ (1973), adaptado do romance homónimo de Chiung Yao, contracenou com Chin Han, consolidando o seu estatuto no cinema literário. [^2]
 
-## A deusa artística da era de Qiong Yao
+## A era de ouro dos filmes de Chiung Yao: deusa do cinema literário
 
-O sucesso de "Fora da Janela" em 1972 marcou o início da era de Qiong Yao de Lin Qing-xia. Nos dez anos seguintes, ela protagonizou obras como "Nuvens Coloridas Voam" (《彩雲飛》), "Mil e Mil Conexões no Coração" (《心有千千結》) e "Pássaro Sonhador Sob a Lua" (《月朦朧鳥朦朧》).
+O sucesso de _A Janela_ em 1972 inaugurou a era de Lin Ching-hsia nos filmes de Chiung Yao. Na década seguinte, protagonizou _As Nuvens Coloridas Voam_, _Mil Nós no Coração_, _A Lua Nebulosa, o Pássaro Nebuloso_, entre outras obras de Chiung Yao.
 
-A imagem tímida de Lin Qing-xia encarnava perfeitamente os personagens femininos de Qiong Yao: inocentes, bondosas e melancólicos. Sua parceria com Qin Han (秦漢) e Qin Xianglin (秦祥林) formou um casal icônico nas telas, conquistando o coração de todo o mundo chinês.
+A imagem pura de Lin Ching-hsia encarnou na perfeição as heroínas de Chiung Yao: inocentes, bondosas, melancólicas. A sua parceria com Chin Han e Chin Hsiang-lin formou duplas românticas clássicas no ecrã, arrebatando todo o mundo sinófono.
 
-Nessa fase, Lin Qing-xia tornou-se o ídolo de inúmeras fãs jovens, e seu cabelo e vestuário se tornaram referências de moda. Os filmes de Qiong Yao também ganharam mais influência e sucesso comercial graças à sua atuação.
+Neste período, Lin Ching-hsia tornou-se ídolo de incontáveis raparigas; o seu penteado e vestuário ditavam a moda. Os filmes de Chiung Yao ganharam maior influência e sucesso comercial graças às suas interpretações.
 
-## Explorações artísticas em filmes de gênero diverso
+## Tentativas diversas no cinema literário
 
-Além dos filmes de Qiong Yao, Lin Qing-xia também experimentou outros tipos de filmes artísticos. Em 1979, colaborou com o diretor Li Xing (李行) no filme "Um Barco no Oceano" (《汪洋中的一條船》), mostrando habilidades mais maduras como atriz.
+Além dos filmes de Chiung Yao, Lin Ching-hsia explorou outros tipos de cinema literário. Em 1979, colaborou com o realizador Li Hsing em _Um Barco no Oceano_, revelando uma representação mais madura.
 
-"Onde Estou, uma Nuvem" (《我是一片雲》), de 1981, é uma das obras mais representativas da era de Qiong Yao de Lin Qing-xia, com uma cena de confronto emocional com Qin Han (秦漢) profundamente tocante. Esta produção demonstrou a habilidade emocional de Lin Qing-xia.
+_Sou uma Nuvem_ (1981) é uma das suas obras-primas do período Chiung Yao; os duelos emocionais com Chin Han comovem profundamente. Este filme demonstrou a profundidade do seu talento para o drama sentimental.
 
-No início dos anos 1980, Lin Qing-xia começou a refletir sobre a transformação de sua carreira artística. Ela percebeu que a imagem única de deusa artística poderia limitar seu espaço de desenvolvimento, e começou a buscar oportunidades para romper com isso.
+No início da década de 1980, Lin Ching-hsia começou a reflectir sobre a transformação da carreira. Consciente de que a imagem única de deusa literária poderia limitar o seu desenvolvimento, procurou oportunidades de ruptura.
 
-## Mudança para Hong Kong e colaboração com o novo onda
+## Mudança para Hong Kong e colaboração com a Nova Vaga
 
-No meio dos anos 1980, Lin Qing-xia mudou-se para o mercado cinematográfico de Hong Kong, uma decisão que transformou completamente sua carreira artística. O ambiente diversificado e comercializado de Hong Kong proporcionou a ela mais espaço para crescimento.
+Em meados da década de 1980, Lin Ching-hsia mudou-se para o mercado cinematográfico de Hong Kong, decisão que transformou radicalmente a sua carreira. O ambiente diversificado e comercial do cinema de Hong Kong ofereceu-lhe maior espaço de desenvolvimento.
 
-Ela estabeleceu colaborações com diretores do novo onda de Hong Kong, experimentando diferentes tipos de personagens. Essas experiências fizeram sua atuação amadurecer, preparando-a para assumir os filmes de wuxia de Tsui Hark (徐克).
+Estabeleceu colaboração com realizadores da Nova Vaga de Hong Kong, experimentando diferentes tipos de papéis. Estas experiências amadureceram a sua arte, preparando-a para os filmes de wuxia de Tsui Hark.
 
-Durante sua estadia em Hong Kong, Lin Qing-xia manteve sua carreira tanto em Hong Kong quanto em Taiwan, tornando-se uma das poucas celebridades capazes de atravessar os dois mercados. Seu sucesso serviu como exemplo para atores taiuanos que desejavam entrar em Hong Kong.
+Durante o período em Hong Kong, Lin Ching-hsia manteve actividade em Taiwan e Hong Kong, tornando-se das poucas estrelas capazes de transitar entre os dois mercados. O seu sucesso serviu de modelo para futuros actores taiwaneses em Hong Kong.
 
-## Clássico do wuxia: a performance revolucionária de "Dongfang Bubai"
+## Clássico do wuxia: a interpretação subversiva de _O Invencível do Oriente_
 
-"O Mundo Mágico II: Dongfang Bubai" (《笑傲江湖II東方不敗》), dirigido por Tsui Hark (徐克) em 1992, tornou-se o ápice da carreira de Lin Qing-xia. Ela interpretou Dongfang Bubai, um mestre das artes marciais, cujo papel revolucionou a percepção do público sobre ela.
+_O Invencível do Oriente_ (1992), realizado por Tsui Hark, tornou-se o auge da carreira de Lin Ching-hsia. Interpretou Tung-fang Pu-pai (O Invencível do Oriente), mestre supremo das artes marciais, papel que subverteu completamente a imagem que o público tinha dela.
 
-Dongfang Bubai é um personagem complexo: ao mesmo tempo que é um líder do mundo do wuxia, é um amante apaixonado; possui força masculina, mas também beleza feminina. A atuação de Lin Qing-xia foi rica em camadas, interpretando esse personagem contraditório com perfeição.
+Tung-fang Pu-pai é uma personagem complexa: simultaneamente senhor do mundo marcial e amante apaixonado; possui a imponência masculina e a graça feminina. A interpretação de Lin Ching-hsia é rica em camadas, encarnando esta personagem contraditória de forma magistral.
 
-A frase "O sol nasce no leste, mas Dongfang Bubai é invencível" tornou-se um clássico, e a imagem de Lin Qing-xia dançando em vermelho se gravou na mente dos espectadores. Este papel não apenas marcou o ápice de sua habilidade artística, mas também se tornou um dos personagens clássicos da história do cinema chinês.
+A réplica «O sol nasce a oriente, só eu sou invencível» tornou-se clássica; a imagem de Lin Ching-hsia a dançar com vestes vermelhas ficou gravada na memória do público. Este papel não só representa o pico da sua arte, como se tornou uma personagem clássica da história do cinema sinófono.
 
 ## Colaboração criativa com Tsui Hark
 
-A colaboração entre Lin Qing-xia e o diretor Tsui Hark (徐克) foi uma virada importante em sua carreira artística. Tsui Hark era habilidoso em descobrir o potencial dos atores, e ele reconheceu a essência do wuxia e a possibilidade de atuação de Lin Qing-xia.
+A colaboração de Lin Ching-hsia com o realizador Tsui Hark marcou uma viragem decisiva. Tsui Hark soube descortinar o potencial dos actores; viu em Lin Ching-hsia a aura de wuxia e possibilidades de representação inexploradas.
 
-Além de "Dongfang Bubai", os dois colaboraram também em "O Novo Hotel Longmen" (《新龍門客棧》). A orientação criativa de Tsui Hark feiz Lin Qing-xia descobrir uma nova face, completando com sucesso a transição da deusa artística ao mito do wuxia.
+Além de _O Invencível do Oriente_, colaboraram em _A Nova Estalagem do Dragão_ e outras obras. A direcção criativa de Tsui Hark permitiu a Lin Ching-hsia descobrir novas facetas de si mesma, completando com sucesso a transformação de deusa literária em estrela de wuxia.
 
-Essas colaborações tiveram sucesso tanto em bilheteria quanto em crítica, provando a acertada decisão de Lin Qing-xia em mudar de direção. Ela deixou de ser apenas a representante dos filmes de Qiong Yao, tornando-se uma verdadeira estrela de atuação.
+Estas obras obtiveram sucesso tanto de bilheteira como de crítica, provando a acertada da sua transformação. Deixou de ser apenas a representante dos filmes de Chiung Yao para se tornar uma verdadeira actriz de mérito.
 
-## Diversidade de performances na década de 1990
+## Anos 1990: expressões diversas
 
-A década de 1990 foi o período mais ativo de Lin Qing-xia, em que ela experimentou diversos tipos de personagens. Desde wuxia histórico até dramas modernos, cada papel trouxe brilhantes performances.
+A década de 1990 foi o período mais activo de Lin Ching-hsia, experimentando diversos tipos de papéis. Do wuxia de época ao drama moderno, brilhou em todos.
 
-Em "O Novo Hotel Longmen" (《新龍門客棧》), interpretou Jin Xiuyu (金鑲玉); em "Floresta de Chongqing" (《重慶森林》), interpretou uma assassina de cabelos dourados; em "O Mundo Mágico" (《東邪西毒》), interpretou Murong Yan (慕容嫣). Cada personagem possuía seu próprio encanto. Lin Qing-xia demonstrou uma impressionante amplitude de habilidades de atuação.
+A Kam Yat-yuk de _A Nova Estalagem do Dragão_, a assassina loira de _Chungking Express_, a Murung Yin de _As Cinzas do Tempo_ — cada personagem possui um encanto único. Lin Ching-hsia demonstrou uma amplitude surpreendente.
 
-Os filmes de Wong Kar-wai, como "Floresta de Chongqing" (《重慶森林》) e "O Mundo Mágico" (《東邪西毒》), conectaram Lin Qing-xia com o cinema de arte, provando que ela não apenas podia atuar em filmes comerciais, mas também dominar obras com maior valor artístico.
+Os filmes de Wong Kar-wai, _Chungking Express_ e _As Cinzas do Tempo_, aproximaram Lin Ching-hsia do cinema de autor, provando que não só dominava o cinema comercial como também sabia conduzir obras de maior exigência artística.
 
-## Nova fase da vida privada
+## Retirada e nova fase de vida
 
-Em 1994, Lin Qing-xia anunciou sua aposentadoria do cinema, decidindo dedicar-se à vida familiar. Essa decisão deixou inúmeros fãs de avós, mas também respeitaram sua escolha de vida.
+Em 1994, Lin Ching-hsia anunciou a retirada, optando por dedicar-se à vida familiar. A decisão entristeceu inúmeros fãs, mas também foi compreendida como uma escolha de vida.
 
-Após se aposentar, Lin Qing-xia se casou com o comerciante Xing Li Yuan (邢李原), com quem teve duas filhas. Ela dedicou sua vida à família, raramente aparecendo em público, o que aumentou ainda mais seu mistério.
+Após a retirada, casou com o empresário Hing Lee-yuan, tendo duas filhas. Recentrou a vida na família, aparecendo raramente em público, o que apenas aumentou o seu mistério.
 
-Mesmo após se aposentar, a influência de Lin Qing-xia não diminuiu. Seus filmes clássicos continuam sendo reexibidos na televisão, e novas gerações de espectadores reconhecem seu talento através dessas obras.
+Embora retirada, a sua influência não diminuiu. Os seus clássicos continuam a ser reprisados na televisão, e novas gerações de espectadores descobrem o seu encanto através dessas obras.
 
-## Nova tentativa na criação literária
+## Nova tentativa na escrita
 
-Após se aposentar, Lin Qing-xia começou a experimentar a criação literária, publicando coletâneas de contos como "Dentro e Fora da Janela" (《窗裡窗外》). Com sua prosa refinada, ela registrou reflexões sobre a vida e experiências pessoais.
+Após a retirada, Lin Ching-hsia iniciou-se na escrita, publicando a colectânea de ensaios _Dentro e Fora da Janela_, entre outras obras. Com prosa delicada, regista reflexões sobre a vida e experiências pessoais.
 
-A criação literária de Lin Qing-xia recebeu reconhecimento da comunidade literária, provando que ela não era apenas uma atriz talentosa, mas também uma escritora dotada de habilidade. Essa diversidade de talentos fez com que as pessoas a admirassem ainda mais.
+A sua escrita obteve reconhecimento do meio literário, provando que não é apenas uma excelente actriz, mas também uma escritora talentosa. Esta versatilidade inspira ainda maior admiração.
 
-Ela também compartilhou suas experiências artísticas e reflexões sobre a vida através da escrita, permitindo que os fãs conhecessem mais profundamente seu mundo interior. Essas obras tornaram-se preciosos documentos históricos do cinema.
+Através da escrita, partilha experiências artísticas e reflexões sobre a vida, permitindo aos fãs conhecer melhor o seu mundo interior. Estas obras tornaram-se valiosos documentos da história do cinema.
 
-## O significado especial das aparições ocasionais
+## O significado especial dos regressos ocasionais
 
-Embora tenha se aposentado oficialmente, Lin Qing-xia ocasionalmente aparece em projetos especiais. Em 2013, ela fez uma aparição especial no filme "101 Propostas de Casamento" (《101次求婚》), gerando grande interesse dos fãs.
+Embora formalmente retirada, Lin Ching-hsia ocasionalmente regressa para projectos especiais. Em 2013, fez uma participação especial em _101 Propostas de Casamento_, gerando enorme entusiasmo entre os fãs.
 
-Embora suas aparições sejam breves, cada uma se torna um tema central. A capacidade de atrair atenção e influência de Lin Qing-xia é evidente.
+Estes regressos, embora breves, tornam-se sempre foco de atenção. A sua capacidade de convocação e influência são evidentes.
 
-Ela também participa de festivais de cinema e cerimônias de prêmios, e cada aparição causa grande repercussão. Com o tempo, ela se tornou ainda mais elegante e cativante.
+Participa também em alguns festivais de cinema e cerimónias de prémios; cada aparição causa sensação. O decantar dos anos tornou-a ainda mais elegante e cativante.
 
-## Influência que transcende a era
+## Influência que atravessa eras
 
-A influência de Lin Qing-xia vai além do simples universo do cinema. Desde a imagem tímida da era de Qiong Yao até o herói corajoso do wuxia, sua trajetória artística ecoa as transformações de três décadas do cinema chinês.
+A influência de Lin Ching-hsia transcende o cinema. Da imagem inocente da era Chiung Yao à heroína do wuxia, o seu percurso artístico ecoa trinta anos de transformação do cinema sinófono.
 
-Sua beleza e personalidade são frequentemente elogiadas, e inúmeros novos talentos são comparados a ela. "O tipo de beleza de Lin Qing-xia" tornou-se um padrão de comparação na indústria.
+A sua beleza e aura são amplamente reverenciadas; incontáveis novas estrelas são comparadas a ela. «Beleza ao estilo Lin Ching-hsia» tornou-se referência padrão na indústria.
 
-Diretores contemporâneos, como Wong Kar-wai (王家衛), expressaram sua admiração por Lin Qing-xia, e suas obras tornaram-se objetos de estudo para críticos e estudiosos do cinema.
+Novos realizadores como Wong Kar-wai tecem-lhe elogios; as suas obras tornaram-se objecto de estudo de críticos e investigadores de cinema.
 
-## Inspiração para atrizes mulheres
+## Inspiração para actrizes
 
-O sucesso de transição de Lin Qing-xia serviu como inspiração importante para atrizes mulheres. Ela provou que uma estrela não precisa se limitar a uma única imagem, podendo explorar diferentes tipos de personagens em diferentes fases de sua carreira.
+A transformação bem-sucedida de Lin Ching-hsia oferece importante inspiração às actrizes. Provou que uma estrela não precisa de se prender a uma única imagem; pode, em diferentes fases, experimentar diferentes tipos de papéis.
 
-Seu compromisso e atitude profissional com os personagens também se tornaram modelos a seguir para as novas gerações. Lin Qing-xia demonstrou o espírito profissional e a busca artística que um ator deve possuir.
+A sua entrega aos personagens e atitude profissional tornaram-se modelo para as gerações seguintes. Lin Ching-hsia demonstrou o espírito de dedicação e a busca artística que um actor deve ter.
 
-Muitas atrizes contemporâneas declararam serem influenciadas e inspiradas por Lin Qing-xia, e ela estabeleceu uma referência importante para as atrizes do cinema chinês.
+Muitas estrelas contemporâneas declaram-se influenciadas e inspiradas por Lin Ching-hsia; ela estabeleceu um marco importante para as actrizes do cinema sinófono.
 
-## Posição na história do cinema chinês
+## Lugar na história do cinema sinófono
 
-Lin Qing-xia é considerada uma das atrizes mais importantes da história do cinema chinês, com obras que abrangem filmes artísticos, wuxia e cinema de arte, demonstrando uma impressionante amplitude de habilidades.
+Lin Ching-hsia é aclamada como uma das mais importantes estrelas da história do cinema sinófono. A sua obra abrange cinema literário, wuxia, cinema de autor, demonstrando uma amplitude surpreendente.
 
-Ela colaborou com diretores importantes de diferentes eras, deixando muitas obras clássicas. Essas obras tiveram sucesso tanto comercialmente quanto artisticamente.
+Colaborou com importantes realizadores de diferentes épocas, deixando numerosos clássicos. Estas obras não só tiveram sucesso comercial, como possuem relevante valor artístico.
 
-Historiadores do cinema acreditam que a carreira de Lin Qing-xia reflete o desenvolvimento do cinema chinês, e ela é uma testemunha e participante importante da era de ouro do cinema chinês.
+Historiadores de cinema consideram que a carreira de Lin Ching-hsia reflecte o percurso de desenvolvimento do cinema sinófono; ela é testemunha e participante importante da idade de ouro do cinema sinófono.
 
-## Status clássico eterno
+## Estatuto clássico eterno
 
-Mesmo após anos de aposentadoria, a posição de Lin Qing-xia entre os fãs permanece elevada. Suas imagens clássicas e performances memoráveis tornaram-se um tesouro precioso do cinema chinês.
+Mesmo anos após a retirada, o lugar de Lin Ching-hsia no coração dos fãs permanece elevado. As suas imagens clássicas e interpretações memoráveis tornaram-se património precioso do cinema sinófono.
 
-Nova geração de espectadores reconhece seu talento através da reexibição de seus filmes clássicos, mostrando que uma atuação excepcional pode transcender o tempo. Lin Qing-xia é um símbolo cultural do cinema chinês, inspirando continuamente cada geração de artistas.
+As novas gerações, ao rever os seus clássicos, redescobrem o seu encanto, provando que intérpretes de excelência conseguem atravessar o tempo. Lin Ching-hsia é símbolo cultural do cinema sinófono, inspirando cada geração subsequente de cineastas.
 
-## Leituras recomendadas
+## Leituras complementares
 
-- [Sanmao](/pt/people/san-mao)：Escritora de "Rolando na Neblina Vermelha", a mulher que fez Lin Qing-xia ganhar o prêmio de melhor atriz do Festival de Cinema de Macau
+- [Sanmao](/pt/people/san-mao): argumentista de _Pó Vermelho_, que valeu a Lin Ching-hsia o Cavalo de Ouro de Melhor Actriz
 
 ## Referências
 
-- [Lin Qing-xia — Taiwan Film Database](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12467) — Lista de obras da atriz
-- [Hong Kong Film Archive](https://www.filmarchive.gov.hk/zh_TW/web/hkfa/home.html) — Informações sobre obras da era de Hong Kong
-- [Dongfang Bubai — Hong Kong Film Awards Association](https://www.hkfaa.com/) — Avaliações de obras clássicas
+- [Lin Ching-hsia — Taiwan Cinema](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12467) — filmografia da actriz
+- [Arquivo de Cinema de Hong Kong](https://www.filmarchive.gov.hk/zh_TW/web/hkfa/home.html) —资料 do período em Hong Kong
+- [O Invencível do Oriente — Associação de Prémios de Cinema de Hong Kong](https://www.hkfaa.com/) — avaliação da obra clássica
 
-[^1]: Wikipedia "Lin Qing-xia": Song Cunshou como diretor, convidou-a para estrelar "Fora da Janela" (1973). https://zh.wikipedia.org/wiki/林青霞
+[^1]: Verbete «Lin Ching-hsia» da Wikipédia: Sung Tsun-shou como realizador, convidou-a para protagonizar _A Janela_ (1973). https://zh.wikipedia.org/wiki/林青霞
 
-[^2]: "Fora da Janela" (1973), dirigido por Song Cunshou, Lin Qing-xia protagonizou pela primeira vez, adaptado do romance homônimo de Qiong Yao. Dados do Taiwan Film Database: https://taiwancinema.bamid.gov.tw/
+[^2]: _A Janela_ (1973), realizado por Sung Tsun-shou, primeira protagonista de Lin Ching-hsia, adaptado do romance homónimo de Chiung Yao. Dados da obra em Taiwan Cinema: https://taiwancinema.bamid.gov.tw/
 
-[^3]: Lin Qing-xia se casou com o comerciante hongkonguês Xing Li Yuan (邢李原) em 29 de junho de 1994, após o qual se afastou da indústria do entretenimento. Relatórios relacionados na Wikipedia "Lin Qing-xia" <https://zh.wikipedia.org/wiki/%E6%9E%97%E9%9D%92%E9%9C%9E>
+[^3]: Lin Ching-hsia casou a 29 de Junho de 1994 com o empresário de Hong Kong Hing Lee-yuan, afastando-se depois do meio artístico; notícias relacionadas no verbete «Lin Ching-hsia» da Wikipédia <https://zh.wikipedia.org/wiki/%E6%9E%97%E9%9D%92%E9%9C%9E>
 
-[^4]: "O Mundo Mágico II: Dongfang Bubai" (1992), direção de Tsui Hark, Lin Qing-xia interpretou Dongfang Bubai, acervo do Hong Kong Film Archive. https://www.filmarchive.gov.hk/
+[^4]: _O Invencível do Oriente_ (1992), realizado por Tsui Hark, Lin Ching-hsia como Tung-fang Pu-pai, acervo do Arquivo de Cinema de Hong Kong. https://www.filmarchive.gov.hk/
 
-[^5]: Lin Qing-xia escreveu "Dentro e Fora da Janela" (《窗裡窗外》), Editora Tian Di, 2011. Este é o principal acervo de contos da autora, recebendo avaliações positivas da comunidade literária. <https://www.books.com.tw/products/0010512315>
+[^5]: Lin Ching-hsia, _Dentro e Fora da Janela_, Tian Di Publishing, 2011. Principal colectânea de ensaios da autora, recebeu críticas positivas do meio literário. <https://www.books.com.tw/products/0010512315>
