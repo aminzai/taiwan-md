@@ -23,6 +23,7 @@ readingTime: 16
 translatedFrom: 'Economy/台灣股市與資本市場.md'
 sourceCommitSha: '9c5ad569a'
 sourceContentHash: 'sha256:b978d4b2bf9bc301'
+sourceBodyHash: 'sha256:c34c5e10c2fbc812'
 translatedAt: '2026-08-09T03:51:07.771385+00:00'
 ---
 

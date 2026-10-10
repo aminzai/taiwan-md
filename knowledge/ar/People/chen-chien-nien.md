@@ -32,6 +32,7 @@ sporeLinks:
 translatedFrom: 'People/陳建年.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:f3d5577608a77794'
+sourceBodyHash: 'sha256:64a1b7182260c207'
 translatedAt: '2026-08-01T00:40:03.510870+00:00'
 ---
 

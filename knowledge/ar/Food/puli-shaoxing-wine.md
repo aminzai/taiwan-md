@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: 'Food/埔里紹興酒.md'
 sourceCommitSha: '58a56e425'
 sourceContentHash: 'sha256:206fc5a1d92e25e9'
+sourceBodyHash: 'sha256:0805d92de4b036d1'
 translatedAt: '2026-08-06T06:47:37.250294+00:00'
 ---
 

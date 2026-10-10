@@ -23,6 +23,7 @@ rationale:
 translatedFrom: 'People/林昶佐.md'
 sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:ea846eb0ccd40f2d'
+sourceBodyHash: 'sha256:dfd669296348affb'
 translatedAt: '2026-09-09T15:33:04.052989+00:00'
 ---
 

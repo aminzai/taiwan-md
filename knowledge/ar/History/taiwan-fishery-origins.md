@@ -26,6 +26,7 @@ curation: 'incubating'
 translatedFrom: 'History/台灣漁業起源.md'
 sourceCommitSha: 'ad6842824'
 sourceContentHash: 'sha256:2293cc44a0954537'
+sourceBodyHash: 'sha256:5ae2ca3119e7bd26'
 translatedAt: '2026-09-12T21:12:31.414021+00:00'
 ---
 

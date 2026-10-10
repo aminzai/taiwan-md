@@ -80,6 +80,7 @@ sporeLinks:
 translatedFrom: 'People/李洋.md'
 sourceCommitSha: 'fef3e1199'
 sourceContentHash: 'sha256:d21eaa1c32fc46c9'
+sourceBodyHash: 'sha256:57937e9b25b2f462'
 translatedAt: '2026-09-25T12:43:40.111814+00:00'
 ---
 

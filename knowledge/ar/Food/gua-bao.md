@@ -24,6 +24,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Gua-bao_by_the_Yuan_Fang_G
 translatedFrom: 'Food/刈包.md'
 sourceCommitSha: '31a05c44b'
 sourceContentHash: 'sha256:7c68d3e107d70b8d'
+sourceBodyHash: 'sha256:6b2255cbc29cf54c'
 translatedAt: '2026-07-29T16:08:33.686445+00:00'
 ---
 

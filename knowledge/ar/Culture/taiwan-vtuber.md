@@ -28,6 +28,7 @@ curation: 'incubating'
 translatedFrom: 'Culture/台灣VTuber.md'
 sourceCommitSha: '4a95859b1'
 sourceContentHash: 'sha256:7dd4a33fd13d7c17'
+sourceBodyHash: 'sha256:7132650f96a1d22a'
 translatedAt: '2026-09-26T10:22:30.958266+00:00'
 ---
 

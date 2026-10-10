@@ -31,6 +31,7 @@ relatedDiary: ['2026-07-06-115400-acer-evolve']
 translatedFrom: 'Economy/台灣企業：宏碁.md'
 sourceCommitSha: 'a94bbcf6b'
 sourceContentHash: 'sha256:d376a35c550402b2'
+sourceBodyHash: 'sha256:51e7134a2abf4bcf'
 translatedAt: '2026-09-20T09:11:08.269865+00:00'
 ---
 

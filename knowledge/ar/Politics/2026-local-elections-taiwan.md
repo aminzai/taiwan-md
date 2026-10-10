@@ -41,6 +41,7 @@ relatedDiary: ['2026-07-10-224934-elections-refresh']
 translatedFrom: 'Politics/2026 九合一選舉.md'
 sourceCommitSha: '2cbb7955c'
 sourceContentHash: 'sha256:98482d1a94d7ac85'
+sourceBodyHash: 'sha256:a62248f87fd69728'
 translatedAt: '2026-09-26T02:49:07.314269+00:00'
 ---
 

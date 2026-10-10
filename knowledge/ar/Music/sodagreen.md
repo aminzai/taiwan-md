@@ -27,6 +27,7 @@ viewpointFormed: true
 translatedFrom: 'Music/蘇打綠.md'
 sourceCommitSha: 'ac048ecf8'
 sourceContentHash: 'sha256:9cf99b2480b3617d'
+sourceBodyHash: 'sha256:343b0b4aed90195f'
 translatedAt: '2026-09-23T23:21:02.418956+00:00'
 ---
 

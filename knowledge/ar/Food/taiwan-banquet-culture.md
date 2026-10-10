@@ -30,6 +30,7 @@ readingTime: 12
 translatedFrom: 'Food/台灣辦桌文化.md'
 sourceCommitSha: '26a67c779'
 sourceContentHash: 'sha256:e2ad095276c4d00c'
+sourceBodyHash: 'sha256:dc734b24b423e098'
 translatedAt: '2026-09-26T03:42:12.066294+00:00'
 ---
 

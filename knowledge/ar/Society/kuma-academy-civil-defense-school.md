@@ -29,6 +29,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:%E9%BB%91%E7%86%8A%E5%AD%B
 translatedFrom: 'Society/黑熊學院.md'
 sourceCommitSha: 'cdc7cc719'
 sourceContentHash: 'sha256:42de5cb53b9bc1de'
+sourceBodyHash: 'sha256:dd6e524ad9f23527'
 translatedAt: '2026-08-05T17:06:50.169140+00:00'
 ---
 

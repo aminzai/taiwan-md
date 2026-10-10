@@ -13,6 +13,7 @@ readingTime: 12
 translatedFrom: 'People/傅崐萁.md'
 sourceCommitSha: edae9fc94
 sourceContentHash: 'sha256:ff571f0d47415df6'
+sourceBodyHash: 'sha256:87fd16bb46aa18be'
 translatedAt: '2026-09-09T15:32:52+08:00'
 ---
 

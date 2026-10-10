@@ -16,6 +16,7 @@ subcategory: '交通與移動'
 translatedFrom: 'Lifestyle/中華民國台灣護照.md'
 sourceCommitSha: 'd94c908db'
 sourceContentHash: 'sha256:c4b2a0aad8a3e01378ba296626781dd69b75c61f685b2a48256a67502300921a'
+sourceBodyHash: 'sha256:ee5f05761a053be1'
 translatedAt: '2026-09-10T00:00:00+08:00'
 rationale:
   why_this_hook: 'بدءاً من جواز السفر الجديد 2021 الذي يوسع كلمة TAIWAN، نفهم كيف يشكل التمييز على الغلاف والإجراءات القانونية والتحقق من الشريحة وسياسات الدخول بين الدول معاً الدور العملي الفعلي لجواز السفر التايواني.'

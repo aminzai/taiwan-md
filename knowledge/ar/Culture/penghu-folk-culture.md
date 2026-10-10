@@ -24,6 +24,7 @@ imageNote: '原 Wikimedia 圖檔已從 Commons 下架（404 Not Found），卡�
 translatedFrom: 'Culture/澎湖民俗文化.md'
 sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:e421aaaba453df4c'
+sourceBodyHash: 'sha256:9b0e9ffb81c95f4e'
 translatedAt: '2026-09-09T12:44:26.321037+00:00'
 ---
 

@@ -22,6 +22,7 @@ curation: 'incubating'
 translatedFrom: 'Culture/茄芷袋.md'
 sourceCommitSha: '4a95859b1'
 sourceContentHash: 'sha256:d572cc1ca2a487f6'
+sourceBodyHash: 'sha256:ca35c2a9b4b8b4ff'
 translatedAt: '2026-09-12T13:29:49.382306+00:00'
 ---
 

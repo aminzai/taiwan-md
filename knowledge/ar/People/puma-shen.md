@@ -340,6 +340,7 @@ sporeLinks:
 translatedFrom: 'People/沈伯洋.md'
 sourceCommitSha: 'e1b5668ad'
 sourceContentHash: 'sha256:b525186aeb276e8e'
+sourceBodyHash: 'sha256:ec031917f07c2762'
 translatedAt: '2026-09-26T05:53:36.791530+00:00'
 ---
 

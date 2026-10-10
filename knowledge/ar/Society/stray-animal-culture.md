@@ -29,6 +29,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E8%8F%AF%E7%9F%B
 translatedFrom: 'Society/台灣流浪動物文化.md'
 sourceCommitSha: '31a05c44b'
 sourceContentHash: 'sha256:30721022cb662a60'
+sourceBodyHash: 'sha256:6f79d66a90a09b62'
 translatedAt: '2026-07-30T02:09:00.997728+00:00'
 ---
 

@@ -22,6 +22,7 @@ readingTime: 22
 translatedFrom: 'People/曾博恩.md'
 sourceCommitSha: '4f72f613c'
 sourceContentHash: 'sha256:8cc10fd808c3a1ae'
+sourceBodyHash: 'sha256:5b25bf3684001b40'
 translatedAt: '2026-09-12T14:46:01.047848+00:00'
 ---
 

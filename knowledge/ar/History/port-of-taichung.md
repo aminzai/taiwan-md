@@ -28,6 +28,7 @@ rationale:
 translatedFrom: 'History/台中港.md'
 sourceCommitSha: '853cd1e60'
 sourceContentHash: 'sha256:b6e5c247e5675857'
+sourceBodyHash: 'sha256:493dcb5683d6e166'
 translatedAt: '2026-09-11T04:25:20.625435+00:00'
 ---
 

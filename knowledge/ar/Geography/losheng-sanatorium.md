@@ -32,6 +32,7 @@ readingTime: 12
 curation: incubating
 sourceCommitSha: '4b946c51d'
 sourceContentHash: 'sha256:97323b56bde19cd4'
+sourceBodyHash: 'sha256:1cf3a8a560e00934'
 translatedFrom: 'Geography/樂生療養院.md'
 translatedAt: '2026-09-10T00:00:00Z'
 ---

@@ -26,6 +26,7 @@ curation: 'incubating'
 translatedFrom: 'Society/韓國人在台灣.md'
 sourceCommitSha: '13c7fbcdb'
 sourceContentHash: 'sha256:8a8e0217696ef948'
+sourceBodyHash: 'sha256:aa22cde38abe8c50'
 translatedAt: '2026-09-10T17:52:44.216148+00:00'
 ---
 

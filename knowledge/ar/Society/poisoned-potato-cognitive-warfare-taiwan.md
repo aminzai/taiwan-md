@@ -23,6 +23,7 @@ imageAlt: 'موسم حصاد بطاطس في مقاطعة أروستوك بول�
 translatedFrom: 'Society/毒馬鈴薯認知作戰.md'
 sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:9680a9c97c074b94'
+sourceBodyHash: 'sha256:891cffde295deb7f'
 translatedAt: '2026-09-24T20:34:32.804264+00:00'
 ---
 
