@@ -34,7 +34,7 @@ translatedAt: '2026-09-13T00:44:05+08:00'
 
 ![ताइवान COVID-19 टीकाकरण स्थल, चिकित्सा कर्मचारी वैक्सीन तैयार कर रहे हैं; यह चित्र इस लेख के चिकित्सा सार्वजनिक संचार संदर्भ को दर्शाता है](https://upload.wikimedia.org/wikipedia/commons/2/2b/Taiwan_COVID-19_vaccination_20210716.jpg)
 
-_चित्र: राष्ट्रपति भवन, 〈Taiwan COVID-19 vaccination 20210716〉; Wikimedia Commons मूल फ़ाइल पृष्ठ; लाइसेंस: CC BY 2.0।_
+_चित्र: राष्ट्रपति भवन, 〈Taiwan COVID-19 vaccination 20210716〉; Wikimedia Commons मूल फ़ाइल पृष्ठ; लाइसेंस: CC BY 2.0। [Wikimedia Commons 原始檔案頁](https://commons.wikimedia.org/wiki/File:Taiwan_COVID-19_vaccination_20210716.jpg) [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)_
 
 यह बात सुनने में ऐसा लगती है जैसे रचना को बहुत सरलता से बताया गया हो, लेकिन वास्तविकता इसके विपरीत थी। अस्पताल के रेजीडेंट डॉक्टर का काम, रिकॉर्डिंग, लेखन और संपादन ऐसी चीजें नहीं हैं जो बस काम खत्म करने के बाद थोड़ा समय निकालकर पूरी की जा सकें। ब्लू कबूतर ने उस साक्षात्कार में विभिन्न प्लेटफार्मों पर कार्य विभाजन के बारे में बात की: यूट्यूब चिकित्सा नाटक विश्लेषण करता है, पॉडकास्ट समाचार मुद्दों पर चर्चा करता है, और फंगज़ी (方格子) बाल चिकित्सा और पारिवारिक चिकित्सा पर पाठ प्रस्तुत करता है।[^1]
 
@@ -60,7 +60,7 @@ _चित्र: राष्ट्रपति भवन, 〈Taiwan COVID-19 v
 
 ![ताइपे मेडिकल यूनिवर्सिटी अस्पताल भवन का बाहरी दृश्य; यह चित्र चिकित्सा पेशे और सार्वजनिक संस्थान संदर्भ को दर्शाता है](https://upload.wikimedia.org/wikipedia/commons/f/f1/Taipei_Medical_University_Hospital_20161112.jpg)
 
-_चित्र: Padai, 〈Taipei Medical University Hospital 20161112〉; Wikimedia Commons मूल फ़ाइल पृष्ठ; लाइसेंस: CC BY-SA 4.0।_
+_चित्र: Padai, 〈Taipei Medical University Hospital 20161112〉; Wikimedia Commons मूल फ़ाइल पृष्ठ; लाइसेंस: CC BY-SA 4.0। [Wikimedia Commons 原始檔案頁](https://commons.wikimedia.org/wiki/File:Taipei_Medical_University_Hospital_20161112.jpg) [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)_
 
 उन्होंने प्रदर्शन को भी अपने काम का हिस्सा बनाया। उस साक्षात्कार में उल्लेख किया गया था कि उन्हें छात्र के दिनों से ही प्रदर्शन के माध्यम से तालियाँ पसंद थीं। चिकित्सक बनने के बाद, यह प्रदर्शन की इच्छा गायब नहीं हुई, बल्कि इसका उपयोग दर्शकों को एक कठिन ज्ञान को सुनने में मदद करने के लिए किया गया।[^2]
 

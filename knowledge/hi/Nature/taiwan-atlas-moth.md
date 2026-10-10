@@ -96,15 +96,15 @@ translatedAt: '2026-07-26T23:43:22+08:00'
 
 ## संदर्भ सामग्री
 
-[^1]: [iNaturalist ताइवान एटलस मोथ अवलोकन रिकॉर्ड](https://taiwan.inaturalist.org/taxa/125071-Attacus-atlas) — ताइवान एटलस मोथ अवलोकन रिकॉर्ड और वितरण डेटा।
+[^1]: [iNaturalist ताइवान एटलस मोथ अवलोकन रिकॉर्ड](https://catalog.digitalarchives.tw/item/00/5b/8e/5c.html) — ताइवान एटलस मोथ अवलोकन रिकॉर्ड और वितरण डेटा।
 
-[^2]: [ताइवान जैव विविधता नेटवर्क](https://www.tbn.org.tw/) — एटलस मोथ वितरण और नमूना डेटाबेस।
+[^2]: [ताइवान जैव विविधता नेटवर्क](https://taieol.tw/pages/107777) — एटलस मोथ वितरण और नमूना डेटाबेस।
 
-[^3]: [कृषि और कृषि मंत्रालय वन और प्राकृतिक संरक्षण एजेंसी](https://www.forest.gov.tw/) — ताइवान तितली संरक्षण संबंधित नीतियां और संसाधन।
+[^3]: [कृषि और कृषि मंत्रालय वन और प्राकृतिक संरक्षण एजेंसी](https://news.ltn.com.tw/news/Taipei/breakingnews/5520373) — ताइवान तितली संरक्षण संबंधित नीतियां और संसाधन।
 
-[^4]: [एटलस मोथ - वीकिपीडिया](https://zh.wikipedia.org/zh-tw/皇蛾) — एटलस मोथ आकृति, वितरण और पारिस्थितिक आदतों की व्याख्या।
+[^4]: [एटलस मोथ - वीकिपीडिया](https://www.nhm.ac.uk/discover/spotlight-the-atlas-moth.html) — एटलस मोथ आकृति, वितरण और पारिस्थितिक आदतों की व्याख्या।
 
-[^5]: [Attacus atlas - Picture Insect](https://pictureinsect.com/zh-tw/wiki/Attacus_atlas.html) — एटलस मोथ जीवन इतिहास और पहचान लक्षण।
+[^5]: [Attacus atlas - Picture Insect](https://en.wikipedia.org/wiki/Attacus_atlas) — एटलस मोथ जीवन इतिहास और पहचान लक्षण।
 
 आगे पढ़ें:
 

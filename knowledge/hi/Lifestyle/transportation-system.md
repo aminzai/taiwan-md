@@ -209,7 +209,7 @@ translatedAt: '2026-07-25T06:33:32+08:00'
 
 [^22]: [Snow Mountain Tunnel — Wikipedia](https://zh.wikipedia.org/wiki/%E9%9B%AA%E5%B1%B1%E9%9A%A7%E9%81%93) - 12.9 किमी लंबी, 2006 में खुली, राष्ट्रीय राजमार्ग 5 का मुख्य हिस्सा।
 
-[^23]: [Su-hua Road — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E9%84%A89%E7%B7%9A%E8%98%87%E8%8A%B1%E5%85%AC%E8%B7%AF%E5%B1%B1%E5%BB%8A%E6%94%B9%E5%96%84%E8%A8%88%E7%95%AB) - 2020 में पूरा हुआ, सुओउ से चोंगदे तक का समय 2.5 घंटे से घटकर 1 घंटा।
+[^23]: [Su-hua Road — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E9%84%A89%E7%B7%9A%E8%98%87%E8%8A%B1%E5%85%AC%E8%B7%AF%E5%B1%B1%E5%8D%80%E8%B7%AF%E5%BB%8A%E6%94%B9%E5%96%84%E8%A8%88%E7%95%AB) - 2020 में पूरा हुआ, सुओउ से चोंगदे तक का समय 2.5 घंटे से घटकर 1 घंटा।
 
 [^24]: [Taoyuan International Airport — Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E6%A1%83%E5%9C%92%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4) - 2024 में यात्री संख्या लगभग 4.4 करोड़।
 

@@ -143,7 +143,7 @@ _चित्र: दाशी ब्रिज और नदी किनार�
 
 [^9]: [एयरिटी लाइब्रेरी: दाशी पुरानी गली क्षेत्र सांस्कृतिक संपत्ति उपयोग और विकास शोध](https://www.airitilibrary.com/Article/Detail/U0021-1610201315170023) — शोध विवरण पृष्ठ，दाशी पुरानी गली सांस्कृतिक संपत्ति、स्थानीय समूह、निवासी、दुकानदार और जिला कार्यालय बातचीत के शोध संदर्भ।
 
-[^10]: [Wikimedia Commons: दाशी पुरानी गली Daxi Historic Street - panoramio (1).jpg](<https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E6%BA%AA%E8%80%81%E8%A1%97_Daxi_Historic_Street_-_panoramio_(1).jpg>) — लेखक lienyuan lee，CC BY 3.0। मुख्य पाठ चित्र Wikimedia Commons `Special:FilePath` हॉटलिंक का उपयोग，चित्र डाउनलोड नहीं किया।
+[^10]: [Wikimedia Commons: दाशी पुरानी गली Daxi Historic Street - panoramio (1).jpg](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E6%BA%AA%E8%80%81%E8%A1%97_Daxi_Historic_Street_-_panoramio_(1) — लेखक lienyuan lee，CC BY 3.0। मुख्य पाठ चित्र Wikimedia Commons `Special:FilePath` हॉटलिंक का उपयोग，चित्र डाउनलोड नहीं किया।
 
 [^11]: [Wikimedia Commons: 2021 Daxi Bridge.jpg](https://commons.wikimedia.org/wiki/File:2021_Daxi_Bridge.jpg) — लेखक Taiwankengo，CC BY-SA 4.0। मुख्य पाठ चित्र `Special:FilePath` हॉटलिंक का उपयोग，चित्र डाउनलोड नहीं किया।
 

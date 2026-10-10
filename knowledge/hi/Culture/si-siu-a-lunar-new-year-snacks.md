@@ -125,7 +125,7 @@ _2007 डीहुआ स्ट्रीट चंद्र नव वर्ष 
 
 [^7]: [कीलुंग सिटी स्वास्थ्य ब्यूरो: 112वें वर्ष चंद्र नव वर्ष और लालटेन त्योहार मौसमी खाद्य जाँच सूची](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01207/f1674011260718.pdf) — 2022 आधिकारिक जाँच PDF, पृष्ठ 2 मूंगफली कैंडी aflatoxin जाँच और नियमों के अनुरूप परिणाम सूचीबद्ध करता है, त्योहारी खाद्य की सुरक्षा शासन प्रस्तुत करता है।
 
-[^8]: [Wikimedia Commons: Taiwanese sweets (1088069273).jpg](<https://commons.wikimedia.org/wiki/File:Taiwanese_sweets_(1088069273).jpg>) — लेखक pelican, चित्र लाइसेंस CC BY-SA 2.0। लेख Wikimedia Commons मूल हॉटलिंक उपयोग करता है, चित्र डाउनलोड या संशोधित नहीं करता।
+[^8]: [Wikimedia Commons: Taiwanese sweets (1088069273).jpg](https://commons.wikimedia.org/wiki/File:Taiwanese_sweets_(1088069273) — लेखक pelican, चित्र लाइसेंस CC BY-SA 2.0। लेख Wikimedia Commons मूल हॉटलिंक उपयोग करता है, चित्र डाउनलोड या संशोधित नहीं करता।
 
 [^9]: [Wikimedia Commons: 2010-02-13 Lunar New Year sweets vendor at Dihua Street, Taipei](https://commons.wikimedia.org/wiki/File:2010-02-13_Lunar_New_Year_sweets_vendor_at_Dihua_Street,_Taipei.jpg) — 2010 ताइपे डीहुआ स्ट्रीट चंद्र नव वर्ष कैंडी स्टॉल तस्वीर, लेखक eazytraveler, लाइसेंस CC BY 2.0, लेख मूल हॉटलिंक उपयोग करता है।
 

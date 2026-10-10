@@ -158,7 +158,7 @@ translatedAt: '2026-07-25T03:42:49+08:00'
 
 [^11]: [ताइवान जलडमरूमध्य — Wikipedia (EN)](https://en.wikipedia.org/wiki/Taiwan_Strait) — ताइवान जलडमरूमध्य की मध्य रेखा का 1955 में उद्भव, 2019 में निर्देशांक की घोषणा, चीन द्वारा अस्तित्व का इनकार।
 
-[^12]: [वायु रक्षा पहचान क्षेत्र (ताइवान) — Wikipedia (EN)](https://www.wikipedia.org/wiki/Air_Defense_Identification_Zone_(Taiwan) — ) — ताइवान ADIZ 1954 में अमेरिकी सेना द्वारा खींचा गया, क्षेत्र चीन के मुख्यभूमि के ऊपर तक विस्तारित, अंतरराष्ट्रीय कानून के आधार पर नहीं।
+[^12]: [वायु रक्षा पहचान क्षेत्र (ताइवान) — Wikipedia (EN)](https://en.wikipedia.org/wiki/Air_Defense_Identification_Zone_(Taiwan) — ) — ताइवान ADIZ 1954 में अमेरिकी सेना द्वारा खींचा गया, क्षेत्र चीन के मुख्यभूमि के ऊपर तक विस्तारित, अंतरराष्ट्रीय कानून के आधार पर नहीं।
 
 [^13]: [मरीन रीजन — ओवरलैपिंग क्लेम ताइवान](https://www.marineregions.org/eezdetails.php?mrgid=8321) — ताइवान जलडमरूमध्य के प्लेट के नीचे की गहराई और आर्थिक समुद्री क्षेत्र के ओवरलैप विवाद।
 
@@ -172,4 +172,4 @@ translatedAt: '2026-07-25T03:42:49+08:00'
 
 [^18]: [Cao Yonghe — Wikipedia](https://zh.wikipedia.org/zh-hant/%E6%9B%B9%E6%B0%B8%E5%92%8C) — स्वयं-शिक्षित चीनी अकादमी के सदस्य, आठ भाषाओं में निपुण, 1990 में 'ताइवान द्वीप इतिहास' की अवधारणा प्रस्तुत की।
 
-[^19]: [दुनिया के मंच पर कदम रखना — Taiwan Panorama (EN)](https://www.taiwan-panorama.com/en/Articles/Details?Guid=72902122-4b8a-42d6-a8cd-ed66bdb3a601&CatId=7&postname=Stepping+onto+the+World+Stage-Taiwan+on+OldMaps) — Wang Jiaxiang ने बीस वर्ष तक विश्व प्राचीन मानचित्रों में ताइवान का अनुसरण किया, मानचित्र रिकॉर्ड करता है कि दुनिया ताइवान को कैसे देखती है।
+[^19]: [दुनिया के मंच पर कदम रखना — Taiwan Panorama (EN)](https://www.taiwan-panorama.com/en/Articles/Details?Guid=72902122-4b8a-42d6-a8cd-ed66bdb3a601&CatId=7&postname=Stepping+onto+the+World+Stage-Taiwan+on+Old+Maps) — Wang Jiaxiang ने बीस वर्ष तक विश्व प्राचीन मानचित्रों में ताइवान का अनुसरण किया, मानचित्र रिकॉर्ड करता है कि दुनिया ताइवान को कैसे देखती है।

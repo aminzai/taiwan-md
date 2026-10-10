@@ -355,7 +355,7 @@ MIT Technology Review 2025 अगस्त का शीर्षक सीध�
 
 [^32]: [विकिपीडिया — ताइवान और विश्व स्वास्थ्य संगठन](https://en.wikipedia.org/wiki/Taiwan_and_the_World_Health_Organization) — WHA अवलोकन 2009-2016 8 वर्ष इतिहास
 
-[^33]: [एटलांटिक काउंसिल — लिथुआनिया चीन पर नीति](https://www.atlanticcouncil.org/in-depth-research-reports/report/lithuania-s-policy-on-china-an-unlikely-eu-trailblazer/) — लिथुआनिया 2021 कार्यालय खोलने के बाद चीन आर्थिक जबरदस्ती की पूरी रिकॉर्ड
+[^33]: [एटलांटिक काउंसिल — लिथुआनिया चीन पर नीति](https://www.atlanticcouncil.org/in-depth-research-reports/report/lithuanias-policy-on-china-an-unlikely-eu-trailblazer/) — लिथुआनिया 2021 कार्यालय खोलने के बाद चीन आर्थिक जबरदस्ती की पूरी रिकॉर्ड
 
 [^34]: [विकिपीडिया — चीन गणराज्य विदेशी संस्थान सूची](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E9%A7%90%E5%A4%96%E6%A9%9F%E6%A7%8B%E5%88%97%E8%A1%A8) — 2025-12 तक 113 कार्यालय और वितरण
 
