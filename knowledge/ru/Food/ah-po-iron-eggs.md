@@ -22,10 +22,10 @@ lastHumanReview: false
 readingTime: 10
 imageNote: '原 Wikimedia 圖檔已從 Commons 下架（404 Not Found），卡片圖暫缺，待補圖'
 translatedFrom: 'Food/阿婆鐵蛋.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:f215fbcb32524845'
-sourceBodyHash: 'sha256:f4c6330bca417165'
-translatedAt: '2026-09-08T15:54:54+08:00'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:bb3833c08618e661'
+sourceBodyHash: 'sha256:f7475d29ab35a9a7'
+translatedAt: '2026-10-10T07:56:34.938207+00:00'
 ---
 
 # Солоные яйца Апо
@@ -105,6 +105,6 @@ translatedAt: '2026-09-08T15:54:54+08:00'
 ## Связанные темы
 
 - [Культура ночных рынков](/ru/food/night-market-culture) — Глубокий анализ ночного рынка как социального пространства
-- [Тайваньские закуски](/Food/台灣小吃) — Корневая смелость повседневной кухни Тайваня
-- [Тайваньский тушеное мясо с рисом](/Food/台灣滷肉飯) — Коллективная память о тарелке тушеного мяса с рисом
-- [Культура питания хакка](/Food/客家飲食文化) — Кулинарная мудрость общины хакка
+- [Тайваньская уличная еда](/ru/food/taiwanese-street-food) — Корневая смелость повседневной кухни Тайваня
+- [Тайваньский лару роун (тушеное мясо)](/ru/food/braised-pork-rice) — Этнографическая память в одной порции лару роун
+- [Культура питания хакка](/ru/food/hakka-food-culture) — Кулинарная мудрость общины хакка
