@@ -13,7 +13,7 @@ tags:
     'Comunidade de Código Aberto',
     'Liberdade na Internet',
   ]
-subcategory: 'Comunidade Open Source'
+subcategory: '開源社群'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-06-04

@@ -4,7 +4,7 @@ description: 'Sete engenheiros, 2 milhões para empreender, a história lendári
 date: 2026-03-20
 author: 'Taiwan.md Contributors'
 category: 'Economy'
-subcategory: 'Perfis de Empresas'
+subcategory: '企業列傳'
 tags: ['Economy', 'Empresas', 'Semicondutores', 'Design de IC']
 lastVerified: 2026-03-20
 lastHumanReview: true

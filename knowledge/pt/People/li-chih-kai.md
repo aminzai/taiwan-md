@@ -4,7 +4,7 @@ description: "Do 'Kai do mercado' de 'Vai, Menino!' à medalha de prata olímpic
 date: 2026-03-21
 author: 'Taiwan.md'
 category: 'People'
-subcategory: 'Esportes'
+subcategory: '體育'
 tags:
   [
     'Figuras',

@@ -10,7 +10,7 @@ tags:
     'Relações entre as duas margens do estreito',
     'Falun Gong',
   ]
-subcategory: 'Religião e crença'
+subcategory: '宗教與信仰'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-02

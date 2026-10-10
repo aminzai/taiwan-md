@@ -11,7 +11,7 @@ tags:
     'Fluxo Populacional',
     'Desenvolvimento Regional',
   ]
-subcategory: 'Geografia Urbana e Humana'
+subcategory: '城市與人文地理'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-21

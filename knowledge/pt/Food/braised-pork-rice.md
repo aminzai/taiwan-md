@@ -11,7 +11,7 @@ tags:
     'comida popular',
     'diferenças entre norte e sul',
   ]
-subcategory: 'Culinária de grupos sociais'
+subcategory: '族群飲食'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-16

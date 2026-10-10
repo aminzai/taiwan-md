@@ -3,7 +3,7 @@ title: 'Huang Shao-yong: Abandonando o Programa de Doutorado em Bioquímica, Usa
 description: "Em 2022, no pós-temporada 33 dos Prêmios Golden Melody, Huang Shao-yong ganhou o prêmio de Melhor Produtor Musical, tirando de dentro de si um dizi e tocando-o. Filho do ex-ministro da Educação e atual presidente do Banco Nacional, Huang, com cerca de 30 anos, interrompeu seus estudos de doutorado em bioquímica na Universidade Nacional de Taiwan. Criou a gravadora independente Dark Paradise Records há dez anos e, como produtor, contribuiu para o álbum 'kinakaian Mãe da Língua' de A-Blade, vencedor do Prêmio de Melhor Álbum do Ano dos Golden Melody de 2020. Seu trabalho sempre se baseia em uma ideia: transformar as vozes das minorias em uma via para a música mainstream."
 date: 2026-04-20
 category: 'People'
-subcategory: 'Música e Performance'
+subcategory: '音樂與表演'
 tags:
   [
     'Pessoas',

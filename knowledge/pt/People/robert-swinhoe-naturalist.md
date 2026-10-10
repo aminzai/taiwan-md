@@ -11,7 +11,7 @@ tags:
   - 'Espécies Endêmicas de Taiwan'
   - 'Abertura das Portas e Comércio'
   - 'Século XIX'
-subcategory: 'História de Pessoas'
+subcategory: '歷史人物'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-12

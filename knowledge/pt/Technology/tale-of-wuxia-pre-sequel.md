@@ -13,7 +13,7 @@ tags:
     'Steam',
     'Jogos de Taiwan',
   ]
-subcategory: 'Comunidade e Cultura Digital'
+subcategory: '社群與數位文化'
 readingTime: 9
 lastVerified: 2026-04-25
 lastHumanReview: false

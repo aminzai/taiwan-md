@@ -3,7 +3,7 @@ title: "Jerry Yang: Do único símbolo em inglês 'Shoe' até a era da web porta
 description: "Em 1978, o menino de 10 anos Yang Chih-yuan só sabia dizer 'Shoe' (sapato) quando imigrou para os EUA. Em 1994, enquanto fugia da redação de sua tese de doutorado na Universidade de Stanford, ele e seu parceiro classificaram manualmente páginas web em um carro, acidentalmente criando o Yahoo!, cujo valor de mercado chegou a ultrapassar US$ 100 bilhões, e em 2005, com um 'jogo de azar extrema' investiu na Alibaba, reescrevendo o mapa da web global."
 date: 2026-04-29
 category: 'People'
-subcategory: 'Tecnologia e Empresas'
+subcategory: '科技與企業'
 tags:
   - 'Yang Chih-yuan'
   - 'Yahoo'

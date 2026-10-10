@@ -12,7 +12,7 @@ tags:
     'Zona de Nuvens e Névoa',
     'Biodiversidade',
   ]
-subcategory: 'Ecossistemas'
+subcategory: '生態系統'
 readingTime: 15
 author: 'Taiwan.md'
 featured: false

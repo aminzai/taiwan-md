@@ -4,7 +4,7 @@ description: 'Ao e Montanha (Our Shame) é um duo taiwanês de folktronica, form
 date: 2026-04-18
 author: 'Taiwan.md'
 category: 'People'
-subcategory: 'Música e Espetáculo'
+subcategory: '音樂與表演'
 tags:
   [
     'Pessoas',

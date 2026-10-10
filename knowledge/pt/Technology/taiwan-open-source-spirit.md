@@ -12,7 +12,7 @@ tags:
     'Tecnologia cívica',
     'Software livre',
   ]
-subcategory: 'Comunidade e Cultura Digital'
+subcategory: '社群與數位文化'
 author: 'p3nchan'
 featured: false
 lastVerified: 2026-03-29

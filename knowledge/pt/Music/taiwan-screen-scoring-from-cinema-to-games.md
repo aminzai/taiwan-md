@@ -16,7 +16,7 @@ tags:
     'Detenção',
     'Devoção',
   ]
-subcategory: 'Indústria Musical'
+subcategory: '音樂產業'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-06-01

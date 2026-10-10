@@ -4,7 +4,7 @@ description: 'Em 1945, a padaria Yen Hsin-fa em Taichung aprimorou o tradicional
 date: 2026-04-24
 author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: 'Panificação e doces'
+subcategory: '烘焙與甜點'
 tags:
   [
     'Bolo de abacaxi',

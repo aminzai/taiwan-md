@@ -4,7 +4,7 @@ description: 'Um site criado por um jovem de Tainan no dormitório da NTU para f
 date: '2026-04-05'
 author: 'Taiwan.md'
 category: 'Culture'
-subcategory: 'Internet e Cultura Digital'
+subcategory: '網路與數位文化'
 tags:
   [
     'Mídia social',

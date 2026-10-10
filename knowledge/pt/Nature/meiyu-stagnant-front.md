@@ -3,7 +3,7 @@ title: 'Meiyu: da chuva que inundou Tápuxa-Miao e Taipé em 1981 até o experim
 description: 'Na manhã de 28 de maio de 1981, uma frente de Meiyu explodiu em Tápuxa-Miao e Taipé, com precipitação acima de 140 centímetros em uma área perto de Taipé, resultando em 8 mortos e danos a milhares de casas. Seis anos depois, o projeto TAMEX foi lançado, com mais de 125 cientistas taiwaneses e norte-americanos rastreando a frente com um avião NOAA P-3, três embarcações de monitoramento e três radares doppler. Hoje, essa frente que aparece anualmente em maio e junho continua sendo a fonte de água para 23 milhões de pessoas, mas também o responsável por inundações urbanas.'
 date: 2026-05-02
 category: 'Nature'
-subcategory: 'Proteção ambiental'
+subcategory: '保育與環境'
 tags: ['clima', 'recursos hídricos', 'história científica', 'desastres']
 author: 'Taiwan.md'
 featured: false

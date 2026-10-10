@@ -14,7 +14,7 @@ tags:
     'Ju Si Media Group',
     'Letramento midiático',
   ]
-subcategory: 'Design e Mídia'
+subcategory: '設計與媒體'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-07-13

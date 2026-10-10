@@ -13,7 +13,7 @@ tags:
     'Pão',
     'Povos indígenas',
   ]
-subcategory: 'Gastronomia e artesãos'
+subcategory: '餐飲與職人'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-05

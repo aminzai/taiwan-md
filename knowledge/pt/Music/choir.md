@@ -4,7 +4,7 @@ description: 'Em 1957, Lu Quansheng e Ku Weifu fundaram o Coral Infantil de Rong
 date: 2026-05-07
 author: 'Taiwan.md Contributors'
 category: 'Music'
-subcategory: 'Indústria Musical'
+subcategory: '音樂產業'
 tags:
   [
     'coral',

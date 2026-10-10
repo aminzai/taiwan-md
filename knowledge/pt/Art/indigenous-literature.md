@@ -11,7 +11,7 @@ tags:
     'Línguas Austronésias',
     'Revitalização Cultural',
   ]
-subcategory: 'Literatura'
+subcategory: '文學'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-24

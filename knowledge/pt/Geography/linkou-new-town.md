@@ -3,7 +3,7 @@ title: "Linkou New Town: Transformação e Desafios de uma Nova Metrópole em No
 description: "Na década de 1970, o governo de Taiwan planejou a criação do 'Linkou New Town' na planície de Linkou para aliviar a pressão populacional em Taipé. Após décadas de desenvolvimento, a área, que era apelidada de 'cidade fantasma' devido à má infraestrutura e falta de serviços, viu seu crescimento populacional acelerar após a estreia do metrô do aeroporto em 2017, com avanço industrial e aumento da dinâmica, tornando-se uma das regiões metropolitanas mais jovens e prósperas do norte de Taiwan. No entanto, congestionamentos e o clima úmido e frio permanecem desafios a serem superados."
 date: 2026-04-29
 category: 'Geography'
-subcategory: 'Cidade e Geografia Humana'
+subcategory: '城市與人文地理'
 tags:
   [
     'Linkou New Town',

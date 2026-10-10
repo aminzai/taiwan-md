@@ -14,7 +14,7 @@ tags:
     'Fuji Rock',
     'SXSW',
   ]
-subcategory: 'Bandas Contemporâneas / Bandas Internacionais'
+subcategory: '當代樂團 / 出海樂團'
 author: 'Taiwan.md'
 featured: false
 canonical-order: 999

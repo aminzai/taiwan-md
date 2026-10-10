@@ -16,7 +16,7 @@ tags:
     'renovação urbana',
     'Wang Tsung-wei',
   ]
-subcategory: 'Características regionais'
+subcategory: '區域特色'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-07-18

@@ -3,7 +3,7 @@ title: 'Shen Sheng-po'
 description: 'Especializado em ciência da computação, mas trouxe as linguagens de programação para o cenário artístico contemporâneo de Taiwan. A vida de Shen Sheng-po, que viveu apenas 34 anos, deixou não apenas obras de arte digital, mas também uma experiência de experimentação que vê o código como parte da vida e o software livre como ética criativa.'
 date: 2026-03-23
 category: 'People'
-subcategory: 'Arte e Design'
+subcategory: '藝術與設計'
 tags:
   [
     'Pessoa',

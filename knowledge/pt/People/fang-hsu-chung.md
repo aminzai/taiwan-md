@@ -11,7 +11,7 @@ tags:
     'Prémio Golden Horse',
     'Jiu Fang She',
   ]
-subcategory: 'Arte e Design'
+subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13

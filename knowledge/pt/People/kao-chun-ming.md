@@ -3,7 +3,7 @@ title: 'Kao Chun-ming'
 description: 'Um estranho que ele jamais viu, colocando a vida e a igreja em risco — a escolha de fé por trás do Incidente de Formosa'
 date: 2026-03-22
 category: 'People'
-subcategory: 'Política e Democracia'
+subcategory: '政治與民主'
 tags:
   [
     'Pessoa',

@@ -13,7 +13,7 @@ tags:
     'Da Shi Ye de Minxiong',
     'Templo Cheng Huang de Hsinchu',
   ]
-subcategory: 'Festivais e Costumes'
+subcategory: '節慶與禮俗'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-20

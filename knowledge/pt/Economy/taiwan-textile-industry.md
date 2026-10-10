@@ -4,7 +4,7 @@ description: "Como uma indústria tradicional que já foi considerada 'do pôr d
 date: 2026-07-20
 author: 'Taiwan.md Contributors'
 category: 'Economy'
-subcategory: 'Desenvolvimento Econômico'
+subcategory: '經濟發展'
 tags:
   [
     'Indústria Têxtil',

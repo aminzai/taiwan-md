@@ -13,7 +13,7 @@ tags:
     'liberdade de expressão',
     'imposto de entretenimento',
   ]
-subcategory: 'Digital e Mídia'
+subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13

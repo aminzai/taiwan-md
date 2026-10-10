@@ -4,7 +4,7 @@ description: 'Em 2026, Sun Moon Lake é a maior bateria de bombeamento reversív
 date: 2026-04-27
 author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: 'Hidrologia e Recursos Hídricos'
+subcategory: '水文與水資源'
 tags:
   [
     'Sun Moon Lake',

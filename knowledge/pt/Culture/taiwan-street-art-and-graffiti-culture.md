@@ -4,7 +4,7 @@ description: 'Do graffiti underground à pintura legalizada, como as paredes da 
 date: 2026-03-20
 author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: 'Parques Artísticos'
+subcategory: '藝術園區'
 tags:
   ['Arte de rua', 'Graffiti', 'Cultura urbana', 'Arte pública', 'Subcultura']
 lastVerified: 2026-03-20

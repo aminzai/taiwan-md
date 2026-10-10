@@ -5,7 +5,7 @@ date: 2026-06-17
 category: 'People'
 tags:
   ['Empreendedorismo', 'Portaly', 'PLG', 'IA', 'SaaS', 'Economia de criadores']
-subcategory: 'Tecnologia e Empresas'
+subcategory: '科技與企業'
 author: 'CW Lin (林啟維)'
 featured: false
 lastVerified: 2026-07-03

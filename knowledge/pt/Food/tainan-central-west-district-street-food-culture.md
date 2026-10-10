@@ -13,7 +13,7 @@ tags:
     'peixe-limão',
     'macarrão com enguia',
   ]
-subcategory: 'Clássicos da culinabilidade'
+subcategory: '經典小吃'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-30

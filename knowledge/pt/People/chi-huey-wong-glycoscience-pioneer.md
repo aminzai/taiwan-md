@@ -13,7 +13,7 @@ tags:
     'Nobel',
     'Prêmio Wolf',
   ]
-subcategory: 'Ciência e Academia'
+subcategory: '科學與學術'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-31

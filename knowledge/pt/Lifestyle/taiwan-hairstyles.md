@@ -3,7 +3,7 @@ title: 'Introdução aos Cabelos em Taiwan: Da Restrição à Meme'
 description: "Desde a proibição de cabelos em 1969 pelo Ministério da Educação, até a declaração de Tsai Ing-wen em 2005 ao dissolver a proibição, o topo das cabeças dos homens de Taiwan reflete uma transição social da opressão autoritária à expressão pessoal. O recente viral 'cabelo de Ashin' é a última capítulo dessa mudança."
 date: 2026-05-07
 category: 'Lifestyle'
-subcategory: 'Cidade'
+subcategory: '城市生活'
 tags: ['cabelos', 'cultura de cabeleireiro', 'moda pop', 'vida urbana', 'meme']
 author: 'Taiwan.md'
 featured: false

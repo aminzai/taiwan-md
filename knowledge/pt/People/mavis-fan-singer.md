@@ -4,7 +4,7 @@ description: "Em 1996, aos 19 anos, Fan Hsiao-Yuan se tornou a bruxa menor de Ta
 date: 2026-04-20
 category: 'People'
 tags: ['Música', 'Cantora', 'Prêmio Gold', 'Banda 100%', 'Música Pop Mandarim']
-subcategory: 'Músicos'
+subcategory: '音樂人'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-20

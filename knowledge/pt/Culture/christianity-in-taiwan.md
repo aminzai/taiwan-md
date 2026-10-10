@@ -16,7 +16,7 @@ tags:
     Período Colonial Japonês,
     Mórmon,
   ]
-subcategory: 'Religião e Folclore'
+subcategory: '宗教與民俗'
 author: 'idlccp1984'
 featured: false
 lastVerified: 2026-04-29

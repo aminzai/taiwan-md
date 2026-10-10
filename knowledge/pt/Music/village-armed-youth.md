@@ -3,7 +3,7 @@ title: 'Jovens Armados da Vila'
 description: 'Jiang Yu-ta e sua música folclórica cantaram por dez anos nas manifestações, depois voltaram para sua terra natal em Changhua, perdendo a capacidade criativa por dois anos — ele disse que foi isso que tornou sua revolução mais intensa.'
 date: 2026-04-27
 category: 'Music'
-subcategory: 'Independência e Rock'
+subcategory: '獨立與搖滾'
 tags:
   [
     'Jovens Armados da Vila',

@@ -11,7 +11,7 @@ tags:
     'Chá Oriental Beauty',
     'Wistaria Tea House',
   ]
-subcategory: 'Artesanato e Estética'
+subcategory: '工藝與美學'
 author: 'Taiwan.md'
 difficulty: 'beginner'
 readingTime: 12

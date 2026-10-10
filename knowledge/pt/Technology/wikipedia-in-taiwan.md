@@ -12,7 +12,7 @@ tags:
     'indigenous languages',
     'legal litigation',
   ]
-subcategory: 'Tecnologia Cívica'
+subcategory: '公民科技'
 author: 'idlccp1984'
 featured: false
 lastVerified: 2026-04-29

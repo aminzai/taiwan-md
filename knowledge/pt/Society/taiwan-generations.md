@@ -4,7 +4,7 @@ description: "Quando a 'geração morango' foi impressa pela primeira vez em 199
 date: 2026-06-08
 author: 'Taiwan.md'
 category: 'Society'
-subcategory: 'Gerações e Mudança Social'
+subcategory: '世代與社會變遷'
 tags:
   - 'Gerações'
   - 'Estratificação Social'

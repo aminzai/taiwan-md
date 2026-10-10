@@ -20,7 +20,7 @@ tags:
     'Metrópole Anelar',
     'Série 22 Cidades e Condados',
   ]
-subcategory: 'Municípios'
+subcategory: '縣市'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-18

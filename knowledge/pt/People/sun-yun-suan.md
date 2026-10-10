@@ -4,7 +4,7 @@ description: 'Do milagre da restauração da energia em cinco meses nas ruínas 
 date: 2026-04-30
 author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: 'Política e Democracia'
+subcategory: '政治與民主'
 tags:
   [
     'Sun Yun-suan',

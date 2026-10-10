@@ -12,7 +12,7 @@ tags:
     'Parque Kadori',
     'Jardim Yage',
   ]
-subcategory: 'Sociedade e História do Cotidiano'
+subcategory: '社會與日常史'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-01

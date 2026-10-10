@@ -11,7 +11,7 @@ tags:
     'Folclore de Taiwan',
     'História',
   ]
-subcategory: 'Festivais e Costumes'
+subcategory: '節慶與禮俗'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-20

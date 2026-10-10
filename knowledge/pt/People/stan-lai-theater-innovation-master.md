@@ -12,7 +12,7 @@ tags:
     'encenador',
     'Festival de Teatro de Wuzhen',
   ]
-subcategory: 'Artes e Design'
+subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13

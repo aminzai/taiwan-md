@@ -14,7 +14,7 @@ tags:
     'Ben Tsiang',
     'Chen Tien-shun',
   ]
-subcategory: 'Documentário'
+subcategory: '紀錄片'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-16

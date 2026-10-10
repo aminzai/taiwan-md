@@ -12,7 +12,7 @@ tags:
     'Música dos anos 80',
     'Cultura da juventude',
   ]
-subcategory: 'Cultura Pop'
+subcategory: '流行文化'
 author: 'Taiwan.md Contributors'
 difficulty: 'intermediate'
 readingTime: 16

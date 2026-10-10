@@ -4,7 +4,7 @@ description: 'Da filha do advogado de defesa do Incidente de Formosa a 16 vezes 
 date: 2026-04-28
 author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: 'Política e Democracia'
+subcategory: '政治與民主'
 tags:
   [
     'Su Chiao-hui',

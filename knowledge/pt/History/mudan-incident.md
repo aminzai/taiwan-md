@@ -4,7 +4,7 @@ description: 'Em 1874, uma ação militar desencadeada por um naufrágio transfo
 date: 2026-07-17
 author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: 'Colonialismo e Império'
+subcategory: '殖民與帝國'
 tags:
   [
     'Incidente do Clube Peônia',

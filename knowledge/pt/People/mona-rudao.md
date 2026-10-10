@@ -14,7 +14,7 @@ tags:
     'Política da memória',
     'Justiça de transição',
   ]
-subcategory: 'Figuras Históricas'
+subcategory: '歷史人物'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-10

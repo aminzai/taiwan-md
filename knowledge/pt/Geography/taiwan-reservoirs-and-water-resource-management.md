@@ -3,7 +3,7 @@ title: 'Reservatórios e Gestão de Recursos Hídricos em Taiwan'
 description: 'Da crise de escassez hídrica à acumulação em reservatórios, os desafios dos recursos hídricos em Taiwan e a dificuldade da distribuição desigual entre norte e sul'
 date: 2026-03-20
 category: 'Geography'
-subcategory: 'Hidrologia e Recursos Hídricos'
+subcategory: '水文與水資源'
 tags:
   [
     'recursos hídricos',

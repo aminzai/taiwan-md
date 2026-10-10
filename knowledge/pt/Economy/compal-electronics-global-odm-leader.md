@@ -4,7 +4,7 @@ description: 'Segunda maior fabricante de notebooks por encomenda do mundo, impo
 date: 2026-03-20
 category: 'Economy'
 tags: ['Economia', 'Empresa', 'Fabricação eletrônica por encomenda', 'ODM']
-subcategory: 'Perfis de Empresas'
+subcategory: '企業列傳'
 author: 'Taiwan.md'
 readingTime: 12
 featured: false

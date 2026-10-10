@@ -11,7 +11,7 @@ tags:
     'Arte Sonora',
     'Taiwanês (Hokkien)',
   ]
-subcategory: 'Música'
+subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-02
