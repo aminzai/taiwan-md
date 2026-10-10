@@ -22,10 +22,10 @@ lastHumanReview: false
 readingTime: 10
 imageNote: '原 Wikimedia 圖檔已從 Commons 下架（404 Not Found），卡片圖暫缺，待補圖'
 translatedFrom: 'Food/阿婆鐵蛋.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:f215fbcb32524845'
-sourceBodyHash: 'sha256:f4c6330bca417165'
-translatedAt: '2026-09-08T00:42:47+08:00'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:bb3833c08618e661'
+sourceBodyHash: 'sha256:f7475d29ab35a9a7'
+translatedAt: '2026-10-10T07:54:13.393521+00:00'
 ---
 
 # 아포철단
@@ -104,7 +104,7 @@ translatedAt: '2026-09-08T00:42:47+08:00'
 
 ## 관련 주제
 
-- [야시장 문화](/ko/food/night-market-culture) — 사회적 장소로서의 야시장에 대한 심층 분석
-- [타이완 간식](/ko/food/taiwanese-street-food) — 타이완 서민 음식의 토착적인 용기
-- [타이완 장조림 덮밥](/ko/food/braised-pork-rice) — 한 그릇의 장조림 덮밥에 담긴 집단 기억
-- [하카 식문화](/ko/food/hakka-food-culture) — 하카 공동체의 식생활 지혜
+- [야시장 문화](/ko/food/night-market-culture) — 야시장을 사회적 장으로서 심층 분석
+- [타이완 급식](/ko/food/taiwanese-street-food) — 타이완 민속 음식의 품위 있는 용기
+- [타이완 불고기 밥](/ko/food/braised-pork-rice) — 한 그릇 불고기 밥의 민족 기억
+- [갸자 음식 문화](/ko/food/hakka-food-culture) — 갸자 민족의 음식 지혜
