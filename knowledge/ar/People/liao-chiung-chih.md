@@ -4,7 +4,8 @@ description: 'ولدت ليياو تشيونغ-تشي في كيلونغ عام 1
 date: 2026-08-17
 subcategory: '音樂與表演'
 category: 'People'
-tags: ['ليياو تشيونغ-تشي، أوبرا كويتزي، الفنون التقليدية، الأصول الثقافية']
+tags:
+  ['ليياو تشيونغ-تشي', 'أوبرا كويتزي', 'الفنون التقليدية', 'الأصول الثقافية']
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-17

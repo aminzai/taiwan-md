@@ -4,7 +4,7 @@ description: 'في عام 1967، استحوذ الموز التايواني عل
 date: 2026-08-18
 subcategory: '食材與調味'
 category: 'Food'
-tags: ['الموز، تشي شان، الزراعة، اليابان، صغار المزارعين']
+tags: ['الموز', 'تشي شان', 'الزراعة', 'اليابان', 'صغار المزارعين']
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-18

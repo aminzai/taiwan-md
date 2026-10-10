@@ -5,7 +5,12 @@ date: 2026-03-27
 category: 'Culture'
 tags:
   [
-    'تشوكبول، Tchoukball، رياضة تايوان، كرة السادة، بطل العالم، الرياضة المدرسية',
+    'تشوكبول',
+    'Tchoukball',
+    'رياضة تايوان',
+    'كرة السادة',
+    'بطل العالم',
+    'الرياضة المدرسية',
   ]
 subcategory: '運動文化'
 author: 'Taiwan.md Contributors'

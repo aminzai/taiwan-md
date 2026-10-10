@@ -4,7 +4,8 @@ description: 'في عام 2024، جعل فيديو يصحح اليابانية �
 date: 2026-08-16
 category: 'People'
 subcategory: '數位與媒體'
-tags: ['دوميدورو، يوتيوبر، شرطة اللغة اليابانية، اليابان، ثقافة الإنترنت']
+tags:
+  ['دوميدورو', 'يوتيوبر', 'شرطة اللغة اليابانية', 'اليابان', 'ثقافة الإنترنت']
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16

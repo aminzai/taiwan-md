@@ -3,7 +3,7 @@ title: 'الحياة الليلية وثقافة الـKTV'
 description: 'من غرف الخاصة إلى المطاعم الليلية، جزيرة لا تغلق أبوابها طوال الوقت'
 date: 2026-03-17
 category: 'Lifestyle'
-tags: ['حياة، حياة ليلية، KTV، مطاعم ليلية، تايوان']
+tags: ['حياة', 'حياة ليلية', 'KTV', 'مطاعم ليلية', 'تايوان']
 subcategory: '休閒與娛樂'
 author: 'Taiwan.md Contributors'
 featured: false
