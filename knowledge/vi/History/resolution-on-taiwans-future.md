@@ -1,21 +1,21 @@
 ---
-title: 'Nghị quyết về tương lai Đài Loan: Hai chữ "hiện nay" đã giúp tồn tại hai mươi bảy năm'
-description: 'Năm 1999, Lâm Trược Thủy đã thêm hai chữ "hiện nay" trước "quốc hiệu Trung Hoa Dân Quốc", điều này khiến phe thân Biển bất mãn. Hai chữ này đồng thời làm dịu phe độc lập và cử tri trung dung, mở ra cánh cửa cho sự luân chuyển chính quyền lần đầu tiên năm 2000. Hai mươi bảy năm sau đó, giới trẻ Đài Loan coi việc "Đài Loan vốn dĩ là độc lập" là điều hiển nhiên, nhưng họ không biết điều này xuất phát từ một tài liệu đầy những mơ hồ.'
+title: 'Bản quyết định Tương lai Đài Loan: Hai từ «hiện nay», đã đủ hai mươi bảy năm'
+description: 'Năm 1999, Lãm Trắc Thủy thêm từ «hiện nay» vào trước «quốc hiệu Trung Hoa Dân Quốc», khiến phe Dân tiến rất bất mãn. Hai từ này vừa an ủi phe độc lập vừa thu hút cử tri trung lập, mở cánh cửa cho lần đầu tiên thay đổi đảng nắm quyền vào năm 2000. Hai mươi bảy năm sau, thế hệ trẻ Đài Loan cho rằng «Đài Loan từ lâu đã độc lập» là điều hiển nhiên, nhưng họ không biết kiến thức này xuất phát từ một tài liệu mang tính mơ hồ.'
 date: 2026-05-17
 category: 'History'
 tags:
   [
-    'Đảng Dân chủ Tiến bộ',
-    'Nghị quyết về tương lai Đài Loan',
-    'Đảng Cương độc lập Đài Loan',
-    'Lâm Trược Thủy',
-    'Quách Chính Lượng',
-    'Trần Trung Tín',
+    'Đảng Dân tiến',
+    'Bản quyết định Tương lai',
+    'Đường lĩnh sự độc lập Đài Loan',
+    'Lãm Trắc Thủy',
+    'Kuo Ching-chang',
+    'Chen Chung-hsin',
     'Quan hệ hai bờ eo biển',
-    'Luân chuyển chính quyền',
-    'Dân chủ hóa Đài Loan',
+    'Thay đổi đảng nắm quyền',
+    'Quá trình dân chủ hoá Đài Loan',
   ]
-subcategory: 'chính trị'
+subcategory: '政治'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-17
@@ -31,179 +31,181 @@ sporeLinks:
     date: '2026-05-17'
     url: 'https://x.com/taiwandotmd/status/2056026352298688935'
 translatedFrom: 'History/臺灣前途決議文.md'
-sourceCommitSha: 'dd39065b2'
-sourceContentHash: 'sha256:d8a522bc82b5f1d6'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:e6702eb59071e6e0'
 sourceBodyHash: 'sha256:c8ff273540a02078'
-translatedAt: '2026-08-09T11:16:34+08:00'
+translatedAt: '2026-10-10T09:17:00+08:00'
 ---
 
-# Nghị quyết về tương lai Đài Loan: Hai chữ "hiện nay" đã giúp tồn tại hai mươi bảy năm
+# Bản quyết định Tương lai Đài Loan: Hai từ «hiện nay», đã đủ hai mươi bảy năm
 
-> **Tổng quan 30 giây:** Ngày 8 tháng 5 năm 1999, Đảng Dân chủ Tiến bộ thông qua Nghị quyết về tương lai Đài Loan tại Cao Hùng, dùng câu nói "Đài Loan, tuy hiện nay theo hiến pháp gọi là Trung Hoa Dân Quốc, nhưng không bị kiểm soát bởi Cộng hòa Nhân dân Trung Hoa" hoàn thành việc chuyển hướng đường lối. Lâm Trược Thủy đã thêm hai chữ "hiện nay" trước "quốc hiệu", làm cho phe độc lập cảm thấy "trong tương lai có cơ hội thay đổi", và làm cho cử tri trung dung cảm thấy "Đảng Dân chủ Tiến bộ cuối cùng đã thực tế hoá". Tài liệu này đã mở ra cánh cửa cho sự luân chuyển chính quyền lần đầu tiên năm 2000, đồng thời cũng trở thành nền tảng của luận thuyết quan hệ hai bờ eo biển của Đài Loan trong hai mươi bảy năm sau, cho tới nay vẫn không ai dám làm rõ sự mơ hồ của nó.
+> **30 giây tóm tắt:** Ngày 8 tháng 5 năm 1999, Đảng Dân tiến thông qua Bản quyết định Tương lai Đài Loan tại Kaohsiung, hoàn thành chuyển đổi hướng đi bằng câu «Đài Loan, dĩ nhiên theo hiến pháp hiện hành gọi là Trung Hoa Dân Quốc, nhưng không thuộc sở về Trung Hoa Nhân Dân Cộng hòa». Hai từ «hiện nay» mà Lãm Trắc Thủy thêm vào trước «quốc hiệu» khiến phe độc lập cảm thấy «có cơ hội thay đổi trong tương lai», trong khi cử tri trung lập thấy «Đảng Dân tiến cuối cùng cũng thực tế rồi». Tài liệu này mở ra cánh cửa cho lần đầu tiên thay đổi đảng nắm quyền vào năm 2000, đồng thời trở thành nền tảng cho suốt hai mươi bảy năm truyền luận hai bờ eo biển kể từ đó, cho đến ngày hôm nay vẫn chưa ai dám làm rõ sự mơ hồ của nó.
 
-Mùa xuân đầu năm 1999, Quách Chính Lượng nhận được một nhiệm vụ: viết một tài liệu lập trường hai bờ eo biển mới cho Đảng Dân chủ Tiến bộ. Trần Thủy Biển thông qua Du Tích Khôn, khi đó là Bí thư Đảng, thúc đẩy hướng đi, muốn dùng "Trung Hoa Dân Quốc" thay thế "Cộng hòa Đài Loan" trong Đảng Cương độc lập Đài Loan, để chiếu lòng cử tri trung dung.[^1]
+Mùa xuân năm 1999, Kuo Ching-chang nhận được một nhiệm vụ: viết một tài liệu mới về quan điểm hai bờ eo biển cho Đảng Dân tiến. Chen Shui-bian thông qua người đứng đầu bộ phận bí thư lúc bấy giờ là Ngoại Hoa (Nguyễn Tập Cương) đề xuất hướng đi, muốn thay thế «quốc gia Đài Loan» trong đường lĩnh sự độc lập bằng «Trung Hoa Dân Quốc», thu hút cử tri trung lập.[^1]
 
-Quách Chính Lượng viết ra "quốc hiệu Trung Hoa Dân Quốc". Lâm Trược Thủy nhận được bản nháp, thêm hai chữ trước "quốc hiệu": "hiện nay".
+Kuo Ching-chang viết «quốc hiệu Trung Hoa Dân Quốc». Lãm Trắc Thủy nhận bản nháp, thêm hai từ vào trước «quốc hiệu»: «hiện nay».
 
-"Phe thân Biển rất không mãn lòng."[^2]
+«Hệ thống Dân tiến rất bất mãn.»[^2]
 
-"Hiện nay" có nghĩa quốc hiệu trong tương lai có thể thay đổi, làm suy yếu sức thuyết phục đối với cử tri trung dung. Nhưng Lâm Trược Thủy nhất quyết: không thêm hai chữ này, tương đương Đảng Dân chủ Tiến bộ chính thức chấp nhận Trung Hoa Dân Quốc là quốc hiệu vĩnh viễn, phe độc lập sẽ không bao giờ đồng ý. Ông cho rằng cái giá của việc nhấn mạnh Trung Hoa Dân Quốc rất thực tế: các văn phòng đại diện nước ngoài có thể bị buộc phải đóng cửa, "quốc gia có thể bước ra ngoài thế giới quan trọng hơn."[^3]
+«Hiện nay» ngụ ý quốc hiệu có thể thay đổi trong tương lai, làm suy giảm sức cam kết đối với cử tri trung lập. Nhưng Lãm Trắc Thủy kiên trì: nếu không thêm hai từ này, đương đẳn có nghĩa là Đảng Dân tiến chính thức chấp nhận Trung Hoa Dân Quốc làm quốc hiệu vĩnh viễn, phe độc lập không thể đồng ý. Ông tin rằng việc duy trì danh hiệu Trung Hoa Dân Quốc mang lại chi phí thực tế: các cơ quan đại diện nước ngoài có thể bị buộc phải đóng cửa, «quốc gia phải ra nước ngoài quan trọng hơn».[^3]
 
-Cuối cùng, nghị quyết được thông qua theo phiên bản của Lâm Trược Thủy. Hai chữ này cùng lúc làm dịu cả hai phía, đồng thời cũng để lại một sự mơ hồ trong chính trị Đài Loan mà cho tới nay không ai dám làm rõ.
+Cuối cùng, Bản quyết định Tương lai Đài Loan đã được thông qua theo phiên bản của Lãm Trắc Thủy. Hai từ này vừa an ủi cả hai phía, đồng thời gieo mầm cho một sự mơ hồ trong chính trường Đài Loan mà đến ngày nay vẫn chưa ai dám giải quyết.
 
-## Tám năm thay đổi hướng
+## Tám năm thay đổi hướng đi
 
-Điểm khởi đầu của Nghị quyết về tương lai Đài Loan có từ năm 1991. Hôm 13 tháng 10 năm đó, Đảng Dân chủ Tiến bộ thông qua Đảng Cương độc lập Đài Loan, chủ trương "thiết lập Cộng hòa Đài Loan có chủ quyền, độc lập, tự chủ".[^4] Người soạn thảo chính là Lâm Trược Thủy. Đảng Cương này kèm theo một điều khoản ngoại lệ: chủ trương xây dựng quốc gia "phải được toàn thể cư dân Đài Loan lựa chọn và quyết định thông qua bỏ phiếu công dân", nhưng tín hiệu cốt lõi không mơ hồ: Đảng Dân chủ Tiến bộ muốn xây dựng quốc gia độc lập.
+Khởi điểm của Bản quyết định Tương lai Đài Loan là năm 1991. Ngày 13 tháng 10 năm đó, Đảng Dân tiến thông qua Đường lĩnh sự độc lập, đề xuất «xây dựng một Cộng hòa Đài Loan có chủ quyền và độc lập tự chủ».[^4] Người soạn thảo chính là Lãm Trắc Thủy. Bản đề xuất kèm theo một điều kiện: mục tiêu xây dựng quốc gia «nên được toàn thể cư dân Đài Loan thông qua bình chọn cử tri quyết định», nhưng tín hiệu cốt lõi không mơ hồ: Đảng Dân tiến muốn xây dựng quốc gia.
 
-Bốn năm sau, ngày 14 tháng 9 năm 1995, tại Washington, Mỹ. Thi Minh Đức, người từng ngồi tù chính trị hai mươi lăm năm, với tư cách Chủ tịch Đảng Dân chủ Tiến bộ, phát biểu trước khán giả quốc tế một câu nói mà sau này trở thành điểm ngoặt: "Nếu Đảng Dân chủ Tiến bộ nắm quyền, không cần phải công bố độc lập của Đài Loan, cũng không sẽ công bố, vì Đài Loan đã độc lập trong nửa thế kỷ rồi."[^5] Với cộng đồng quốc tế là sự yên tâm, với phe độc lập nội bộ đảng lại như một cơn sét. Câu nói này được bàn luận liên tục trong đảng, cuối cùng trở thành sự đồng thuận toàn đảng, gieo hạt cho Nghị quyết về tương lai Đài Loan bốn năm sau.
+Bốn năm sau, ngày 14 tháng 9 năm 1995, tại Washington, Hoa Kỳ. Ngồi trong nhà tù chính trị hai mươi lăm năm, Thạch Minh Đức (Shih Ming-de), với tư cách Chủ tịch Đảng Dân tiến, nói với khán giả quốc tế một câu trở thành điểm xoay chiều: «Nếu Đảng Dân tiến lên làm chủ, không cần thiết và cũng sẽ không tuyên bố độc lập Đài Loan, vì Đài Loan đã độc lập được nửa thế kỷ rồi».[^5] Đối với cộng đồng quốc tế là an ủi, nhưng đối với phe độc lập trong nội bộ đảng là gây phẫn nộ. Câu nói này được tranh luận khẩn trương trong nội bộ đảng, cuối cùng trở thành sự đồng thuận của toàn bộ đảng, gieo mầm cho Bản quyết định Tương lai Đài Loan bốn năm sau.
 
-Luận thuyết của Thi Minh Đức có thể được truy ngược lại năm 1980. Khi đó, ông đề xuất từ trong tù "mô hình độc lập Đài Loan theo Trung Hoa Dân Quốc": Đài Loan đã độc lập, tên hiện tại gọi là Trung Hoa Dân Quốc. Hệ thống logic này biến "độc lập" từ thì tương lai thành thì hiện tại, không cần phải công bố, chỉ cần công nhân.[^6]
+Lý luận của Thạch Minh Đức có thể quay ngược lại năm 1980. Ông đưa ra khái niệm «độc lập Đài Loan theo mô hình Trung Hoa Dân Quốc»: Đài Loan đã độc lập rồi, giờ đây tên gọi của nó là Trung Hoa Dân Quốc. Bộ logic này biến «độc lập» từ dạng tương lai sang dạng hiện tại, không cần phải tuyên bố, chỉ cần công nhận.[^6]
 
-Nhân tố thực sự buộc quay lưng là phiếu bầu. Tháng 3 năm 1996, Đảng Dân chủ Tiến bộ đưa ra "cha đẻ của chủ trương độc lập Đài Loan" Bương Minh Tâm tranh cử tổng thống, tỷ lệ phiếu 21,13%, thất bại tồi tệ nhất trong các cuộc bầu cử toàn quốc kể từ khi thành lập đảng.[^7] Nhà khoa học chính trị Mỹ Shelley Rigger phân tích thẳng tắn: cử tri cho rằng ủng hộ độc lập quá nguy hiểm. Sau cuộc bầu cử, Bương Minh Tâm rút khỏi đảng, thành lập "Hội xây dựng quốc gia". Đảng đã trả giá đắt cho vấn đề đường lối: mất đi ứng cử viên tổng thống của riêng mình.
+Thực sự thúc đẩy sự chuyển đổi là hành lang. Tháng 3 năm 1996, Đảng Dân tiến đưa ra ứng cử viên «cha ông của độc lập» là Bành Minh Minh (Peng Ching-i) với tỷ lệ 21.13%, đây là kết quả bầu cử quy mô toàn quốc kể từ khi thành lập đảng.[^7] Phân tích của nhà chính trị học học giả Mỹ là Shelley Rigger rất thẳng thắn: cử tri cho rằng việc hỗ trợ độc lập quá nguy hiểm. Bành Minh Minh rút lui khỏi đảng, thành lập «Hội xây dựng quốc gia». Đảng trả giá rất đắt: mất đi ứng cử viên tổng thống của chính mình.
 
-Quá trình suy tư sau bầu cử rất gay gắt. Tháng 5 năm 1996, hơn một trăm thanh niên nội bộ đảng ký tên phát biểu "Đảng Cương thế hệ mới", do Chu Dịch Thành soạn, chỉ trích thái độ "chỉ nói suông lời độc lập" và "văn hóa chỉ nói không làm" nội bộ đảng, chủ trương phong trào độc lập Đài Loan phải dựa trên sự thống nhất nhân dân với hơn hai mươi triệu người.[^8] Tuyên bố này thẳng thắn thách thức phương pháp của Đảng Cương độc lập: hướng xây dựng quốc gia không sai, nhưng chỉ nói lời suông không sẽ làm cho nó xảy ra.
+Sau kết quả bầu cử, sự phản chiếu rất mạnh. Tháng 5 năm 1996, hơn một trăm nhân viên trẻ trong nội bộ đảng ký tên đề xuất «Đề tài thế hệ mới», do Chiu Ee-cheng (周奕成) viết, chỉ trích «tiếng gọi độc lập rỗng không» và «văn hóa ảo» trong nội bộ đảng, đề xuất phong trào độc lập nên dựa trên việc đoàn kết 20 triệu người dân. [^8] Đề tài này trực tiếp thách thức phương pháp của Đường lĩnh sự độc lập: hướng đi xây dựng quốc gia không sai, nhưng chỉ gọi tiếng vang sẽ không giúp nó trở thành hiện thực.
 
-Áp lực từ ngoài cũng đang gia tăng. Ngày 30 tháng 6 năm 1998, Tổng thống Mỹ Clinton tham quan Trung Quốc đại lục, tại Thượng Hải họp báo chung với Giang Trạch Dân công khai tuyên bố "chính sách ba điều không": không ủng hộ độc lập Đài Loan, không ủng hộ một Trung Quốc - một Đài Loan hay hai Trung Quốc, không ủng hộ Đài Loan gia nhập các tổ chức quốc tế mà điều kiện thành viên là quốc gia.[^9] Cùng tháng 2 năm đó, nội bộ đảng nổ ra cuộc tranh luận lớn về chính sách Trung Quốc: Hứa Tín Lương chủ trương "can đảm tiến tây" tăng cường trao đổi, Khâu Nghĩa Nhân và dòng tư tưởng mới nhất quyết "tăng cường nền tảng từng bước" kiểm soát rủi ro, thỏa hiệp là "tăng cường nền tảng tiến tây".[^10] Cuối năm, cuộc bầu cử thị trưởng Đài Bắc Trần Thủy Biển tái cử thất bại, thua Mã Anh Cửu của Quốc Dân Đảng. Mặc dù cùng năm Tạ Trường Đình giúp Đảng Dân chủ Tiến bộ chiếm được thành phố Cao Hùng, nhưng thất bại tại Đài Bắc đã làm rúng động toàn đảng: ngay cả Trần Thủy Biển với mức độ hài lòng về chính sách cao cũng bảo vệ không được kinh đô, thì tổng thống bầu cử dựa vào cái gì để thắng? Toàn đảng tràn ngập một sự hiểu biết chung: đường lối phải được điều chỉnh cơ bản.
+Áp lực từ bên ngoài cũng đang tăng lên. Ngày 30 tháng 6 năm 1998, Tổng thống Mỹ Bill Clinton thăm Trung Quốc đại lục, trong buổi họp báo chung với Giác Cương Tĩnh (江澤民) tại Thượng Hải công bố «Ba chính sách không»: không ủng hộ độc lập Đài Loan, không ủng hộ một Trung Quốc một Đài Loan hay hai Trung Quốc, không ủng hộ Đài Loan tham gia các tổ chức quốc tế dưới danh nghĩa quốc gia. [^9] Năm 2 năm đó, nội bộ đảng bùng phát tranh luận lớn về chính sách Trung Quốc: Hứa Hữu Sương (許信良) đề xuất «tiến ra phương Tây dũng cảm» tăng cường giao lưu, trong khi Quê Y nhân (邱義仁) và Phong trào mới kiên trì «vững chắc cốt lõi, từng bước tiến» kiểm soát rủi ro, cuối cùng đồng thuận thành «vững chắc cốt lõi, tiến ra phương Tây». [^10] Cuối năm, cuộc bầu cử thị trưởng Đài Bắc thất bại với Chen Shui-bian, thua cho Kỷ Nguyên Hoa (马英九) của Đảng Quốc dân. Mặc dù cùng năm, Giác Chính Đức (謝長廷) giúp Đảng Dân tiến chiếm lĩnh Kaohsiung, nhưng thất bại tại Đài Bắc khiến toàn bộ đảng sốc chấn: ngay cả Thủ hiến nổi tiếng với mức độ hài lòng cao nhất về chính sách cũng không thể giữ được thủ đô, với tổng thống sẽ thắng bằng cách nào? Khí lực lan tỏa trong nội bộ đảng: đường lĩnh sự phải được điều chỉnh căn bản.
 
-Từ tất cả các phương diện đổ về một hướng: con đường xây dựng quốc gia độc lập đi không được, thực tế hoá không thể kéo dài nữa.
+Tất cả áp lực tích lũy từ mọi phía đều chỉ về một hướng: con đường độc lập xây dựng quốc gia không thể đi đến đâu, cần chuyển đổi thực tế không thể trì hoãn thêm.
 
-> **📝 Ghi chú của chuẩn bị nội dung:** Câu chuyện về Nghị quyết về tương lai Đài Loan thường được tường thuật là "chiến thắng của phái thực dụng". Nhưng những người thúc đẩy quay lưng đường lối, lại đều là những người định hình đường lối lúc bấy giờ. Người nói "không cần phải công bố độc lập" là Thi Minh Đức, người ngồi tù lâu nhất vì độc lập Đài Loan; Lâm Trược Thủy, người tự tay soạn Đảng Cương độc lập Đài Loan, tám năm sau lại thêm hai chữ vào cùng một tài liệu tinh thần của nó, biến "xây dựng quốc gia" thành "thừa nhận hiện trạng". Những người thúc đẩy quay lưng, đều là những người từng đi xa nhất trên con đường lúc bấy giờ.
+> **📝 Ghi chú biên tập viên:** Câu chuyện của Bản quyết định Tương lai Đài Loan thường được kể lại như «chiến thắng của phe thực tế». Nhưng những người thúc đẩy sự chuyển đổi hướng đi, đều là những người từng định nghĩa hướng đi ban đầu. Người nói «không cần phải tuyên bố độc lập» là Thạch Minh Đức — người đã trải qua hai mươi lăm năm trong nhà tù vì độc lập Đài Loan; Lãm Trắc Thủy — người từng soạn thảo Đường lĩnh sự độc lập — bốn năm sau, trong một tài liệu tiếp nối cùng tinh thần, ông thêm hai từ biến «xây dựng quốc gia» thành «công nhận hiện thực». Những người thúc đẩy sự chuyển đổi, đều là những người từng đi xa nhất trong hành trình ban đầu.
 
 ## Ba người viết nên sự mơ hồ
 
-Trần Trung Tín đề xuất phương án thỏa hiệp then chốt: không sửa đổi Đảng Cương độc lập, nhưng thông qua một tài liệu nghị quyết mới.[^11] Trần Trung Tín có bút danh Hàng Chi, từng làm Tổng biên tập tạp chí "Đảo Đẹp", là một trong những nhà trí thức sớm nhất can thiệp vào phong trào chính trị bằng văn chương. Phương án của ông phản ứng chính xác với thực tế chính trị của đảng: Đảng Cương độc lập không thể động vào, vì động vào nó là tuyên chiến với phe xanh sâu; nhưng không bước ra khỏi khuôn khổ Đảng Cương độc lập, cuộc bầu cử tổng thống năm 2000 sẽ không thắng được. Dùng một tài liệu mới để vòng qua tài liệu cũ, cho phép cả hai tồn tại song song mà không phủ nhận lẫn nhau, bản thân đó đã là bước đầu tiên của chiến lược mơ hồ.
+Chen Chung-hsin đư ra giải pháp thỏa thuận then chốt: không sửa đổi Đường lĩnh sự độc lập, nhưng đồng thời thông qua một bản quyết định mới. [^11] Chen Chung-hsin dùng bút danh là Hang Chi (杭之), từng làm biên tập viên tại Tạp chí Đài Loan Đẹp (美麗島雜誌), là một trong những trí thức sớm nhất tham gia vào hoạt động chính trị bằng lời viết. Giải pháp của ông trả lời chính xác thực tế chính trị trong nội bộ đảng: Đường lĩnh sự độc lập không được chạm vào, vì chạm vào nghĩa là đối đầu với phe đồng cam; nhưng nếu không bước ra khỏi khung của Đường lĩnh sự độc lập, cuộc bầu cử tổng thống năm 2000 sẽ không thắng. Sử dụng một tài liệu mới để vượt qua tài liệu cũ, để cả hai tồn tại mà không phủ nhận nhau — chính là bước đầu tiên của chiến lược mơ hồ.
 
-Nhóm soạn thảo ba người, lần lượt đại diện ba lực lượng. Quách Chính Lượng làm chủ soạn, đứng về phía thực dụng bầu cử của phe thân Biển; Trần Trung Tín điều phối các phái, là nhà trí thức từng đi từ thời đảng ngoài hiến pháp tới Tổng biên tập tạp chí "Đảo Đẹp"; Lâm Trược Thủy nắm giữ đáy đường lối, đại diện sự nhất quán lý luận của dòng tư tưởng mới. Lâm Trược Thủy tự thuật: "Tôi đóng vai trò ngăn chặn Nghị quyết về tương lai đi quá xa về phía Trần Thủy Biển, Du Tích Khôn và con đường trung dung."[^12]
+Nhóm soạn thảo gồm ba người, mỗi người đại diện cho một lực lượng khác nhau. Kuo Ching-chang là tác giả chính, đứng về phía Dân tiến thực tế; Chen Chung-hsin điều phối các phe, là một nhà trí thức chuyên nghiệp từ thời gian làm biên tập Tạp chí Đài Loan Đẹp cho đến nay; Lãm Trắc Thủy giữ chuẩn mực đường lĩnh, đại diện cho sự kiên định lý thuyết của Phong trào mới. Lãm Trắc Thủy tự mô tả: «(Tôi) đóng vai trò ngăn ngừa Bản quyết định Tương lai quá nghiêng về phía Chen Shui-bian và Hoa Ngoại». [^12]
 
-Ngày 8 tháng 5 năm 1999, Đại hội Toàn quốc Đại biểu Đảng viên lần thứ tám, kỳ họp toàn thể lần thứ hai của Đảng Dân chủ Tiến bộ, Cao Hùng. Nghị quyết về tương lai Đài Loan được thông qua.[^13]
+Ngày 8 tháng 5 năm 1999, Hội nghị đại biểu toàn quốc lần thứ tám của Đảng Dân tiến, lần thứ hai của Hội nghị toàn thể, Kaohsiung. Bản quyết định Tương lai Đài Loan được thông qua. [^13]
 
-Đoạn cốt lõi của tài liệu được viết rất chính xác:
+Đoạn văn cốt lõi của tài liệu được viết rất tinh tế:
 
-> **✦** "Đài Loan là một quốc gia có chủ quyền độc lập, lãnh thổ chủ quyền của nó chỉ bao gồm Đài Loan, Phúc Môn, Kim Môn, Mã Tổ và các hòn đảo phụ thuộc, cũng như vùng biển lãnh hải và vùng lân cận theo quy định của luật pháp quốc tế. Đài Loan, tuy hiện nay theo hiến pháp gọi là Trung Hoa Dân Quốc, nhưng không bị kiểm soát bởi Cộng hòa Nhân dân Trung Hoa, bất kỳ thay đổi nào về hiện trạng độc lập đều phải được toàn thể cư dân Đài Loan quyết định thông qua bỏ phiếu công dân."
+> **✦** «Đài Loan là một quốc gia có chủ quyền độc lập, lãnh thổ của nó chỉ giới hạn ở Đài Loan, Hải Dương, Kim Tử và các đảo phụ thuộc, cùng với vùng biển và nước lãnh thổ theo quy định của luật pháp quốc tế. Đài Loan, dĩ nhiên theo hiến pháp hiện hành gọi là Trung Hoa Dân Quốc, nhưng không thuộc sở về Trung Hoa Nhân Dân Cộng hòa; bất kỳ thay đổi nào liên quan đến trạng thái độc lập cũng phải thông qua bình chọn của toàn thể cư dân Đài Loan».
 
-Phần mở đầu của Nghị quyết ôn lại quá trình dân chủ hoá của Đài Loan, chỉ ra rằng "thông qua những nỗ lực chung trong nhiều năm của Đảng Dân chủ Tiến bộ và toàn dân, buộc Quốc Dân Đảng từ bỏ thiết quân luật và chế độ độc quyền một đảng, chấp nhận cải cách dân chủ", đã khiến Đài Loan "trên thực tế trở thành quốc gia độc lập dân chủ".[^27] Bảy điểm chủ trương bao gồm khuôn khổ định vị quốc gia hoàn chỉnh: Đài Loan là quốc gia có chủ quyền độc lập (điểm một), không bị kiểm soát bởi Cộng hòa Nhân dân Trung Hoa (điểm hai), nên tham gia cộng đồng quốc tế gia nhập Liên Hợp Quốc (điểm ba), nên từ bỏ chủ trương một Trung Quốc (điểm bốn), nên hoàn thành pháp luận bỏ phiếu công dân (điểm năm), chính phủ và phe đối lập nên thiết lập sự đồng thuận đối ngoại (điểm sáu), hai bờ eo biển nên thông qua đối thoại thiết lập khuôn khổ hoà bình (điểm bảy).
+Lời mở đầu của Bản quyết định Tương lai Đài Loan ông đảng lại lịch sử dân chủ hoá của Đài Loan, chỉ ra «thông qua sự nỗ lực chung của Đảng Dân tiến và toàn dân trong nhiều năm đã buộc Đảng Quốc dân từ bỏ trạng thái khẩn cấp và độc quyền đảng, chấp nhận cải cách dân chủ», khiến Đài Loan «trở thành một quốc gia dân chủ độc lập thực sự». [^27] Bảy điểm chính phủ phúc hợp khung quốc gia hoàn chỉnh: Đài Loan là quốc gia có chủ quyền độc lập (điểm đầu), không thuộc sở về Trung Hoa Nhân Dân Cộng hòa (điểm thứ hai), nên tham gia vào cộng đồng quốc tế và tham gia Liên Hợp Quốc (điểm thứ ba), nên từ bỏ quan điểm một Trung Quốc (điểm thứ tư), nên hoàn thiện cơ chế bình chọn (điểm thứ năm), các phe phái nên xây dựng sự đồng thuận quốc tế (điểm thứ sáu), hai bờ eo biển nên thông qua đối thoại xây dựng khung hòa bình (điểm thứ bảy).
 
-Điểm bảy tinh tế nhất. Một tài liệu chủ trương Đài Loan không bị kiểm soát bởi Trung Quốc, điều cuối cùng viết là "thông qua đối thoại toàn diện, tìm kiếm sự hiểu biết sâu sắc và hợp tác kinh tế lợi tức chung, thiết lập khuôn khổ hoà bình". Cách kết thúc này làm cho Nghị quyết không hoàn toàn là một tuyên bố đối kháng, cũng bảo lưu không gian cho trao đổi hai bờ trong tương lai.
+Điểm thứ bảy rất tinh tế. Một tài liệu đề xuất Đài Loan không thuộc sở về Trung Quốc, nhưng điều cuối cùng lại viết là «thông qua đối thoại toàn diện, tìm kiếm sự hiểu biết sâu sắc và hợp tác kinh tế lợi ích, xây dựng khung hòa bình». Sự kết thúc này khiến Bản quyết định Tương lai không hoàn toàn là một tuyên bố đối đầu, cũng để lại không gian cho các hoạt động giao lưu hai bờ eo biển sau này.
 
-Đặt cạnh nhau với Đảng Cương độc lập năm 1991, sự khác biệt rõ ràng. Đảng Cương độc lập muốn "thiết lập Cộng hòa Đài Loan có chủ quyền, độc lập, tự chủ", đó là muốn thay đổi hiện trạng. Nghị quyết về tương lai Đài Loan nói "Đài Loan là một quốc gia có chủ quyền độc lập", đó là tuyên bố hiện trạng đã tồn tại. Từ muốn làm một điều gì, trở thành công nhân một điều đã hoàn thành. Quốc hiệu từ "Cộng hòa Đài Loan" thành "theo hiến pháp gọi là Trung Hoa Dân Quốc". Chức năng của bỏ phiếu công dân đã lật ngược: từ phương tiện khởi động xây dựng quốc gia, trở thành bảo hiểm bảo vệ hiện trạng.
+Đặt cạnh Đường lĩnh sự độc lập năm 1991, sự khác biệt rất rõ rệt. Đường lĩnh sự độc lập đề xuất «xây dựng Cộng hòa Đài Loan có chủ quyền và độc lập tự chủ», là muốn thay đổi hiện thực. Bản quyết định Tương lai Đài Loan nói «Đài Loan là một quốc gia có chủ quyền độc lập», là tuyên bố hiện thực đã tồn tại. Từ việc phải làm một việc, chuyển thành công nhận một việc đã hoàn thành từ trước. Quốc hiệu từ «Cộng hòa Đài Loan» thành «theo hiến pháp hiện hành gọi là Trung Hoa Dân Quốc». Chức năng của bình chọn đảo ngược: từ công cụ khởi động xây dựng quốc gia, thành bảo hiểm bảo vệ hiện thực.
 
-Sự mơ hồ có thể hoạt động, bởi vì mỗi người đều đọc được điều họ muốn thấy. Phe độc lập nhìn thấy "hiện nay", cảm thấy trong tương lai có cơ hội thay đổi quốc hiệu, giấc mơ xây dựng quốc gia vẫn còn. Cử tri trung dung nhìn thấy "theo hiến pháp gọi là Trung Hoa Dân Quốc", cảm thấy Đảng Dân chủ Tiến bộ cuối cùng đã thực tế hoá, bỏ phiếu không cần lo lắng hai bờ eo biển sẽ chiến tranh. Quốc Dân Đảng nhìn thấy "Đài Loan và Cộng hòa Nhân dân Trung Hoa không bị kiểm soát lẫn nhau", chỉ trích đây chỉ là đổi tên gói của chủ trương độc lập Đài Loan. Bắc Kinh đồng ý với phán xét của Quốc Dân Đảng, cho rằng đây là "độc lập Đài Loan biến tướng".[^14]
+Sự mơ hồ có thể hoạt động vì mỗi người đều đọc thấy điều mình mong muốn thấy. Phe độc lập thấy «hiện nay», cảm thấy trong tương lai có cơ hội thay đổi quốc hiệu, giấc mơ xây dựng quốc gia vẫn còn sống. Cử tri trung lập thấy «theo hiến pháp gọi là Trung Hoa Dân Quốc», cảm thấy Đảng Dân tiến cuối cùng cũng thực tế rồi, bầu chọn mà không lo hai bờ eo biển chiến đấu. Đảng Quốc dân thấy «Đài Loan và Trung Hoa Nhân Dân Cộng hòa không thuộc sở về nhau», chỉ trích đây chỉ là việc thay đổi bao bì của độc lập. Bắc Kinh đồng ý với phân tích của Đảng Quốc dân, cho rằng đây là «độc lập Đài Loan một cách gián tiếp». [^14]
 
-Mỗi lời giải thích của một bên đều có cơ sở trong văn bản. Không bên nào hoàn toàn sai. Đây chính là ý định của người soạn thảo.
+Mỗi phía đều có cơ sở trong văn bản. Không có phía nào hoàn toàn sai. Đúng là mong muốn của những người soạn thảo.
 
 ## Cánh cửa mở ra
 
-Ngày 18 tháng 3 năm 2000, Trần Thủy Biển được bầu làm Tổng thống với tỷ lệ phiếu 39,3%, sự luân chuyển chính quyền lần đầu tiên.[^15]
+Ngày 18 tháng 3 năm 2000, Chen Shui-bian được bầu làm Tổng thống với 39.3% số phiếu, lần đầu tiên thay đổi đảng nắm quyền. [^15]
 
-Trần Thủy Biển đánh trò chơi "con đường trung dung mới": ngoại giao và quốc phòng cố ý mơ hồ, chủ yếu là hợp tác liên đảng và cải cách chống tham nhũng, chuyển hướng các vấn đề tranh cử từ độc lập thống nhất sang khả năng quản lý. Nghị quyết về tương lai Đài Loan đã tạo cho chiến lược này một nền tảng ổn định — lập trường hai bờ eo biển của đảng đã được giải thích rõ ràng, ứng cử viên không cần phải trả lời hàng ngày "bạn có muốn công bố độc lập không".
+Chen Shui-bian chơi «đường lĩnh sự trung lập mới»: trong lĩnh vực ngoại giao và quốc phòng, cố tình mơ hồ, tập trung vào hợp tác liên đảng và cải cách chống tham nhũng, kéo dài trọng tâm tranh cử từ tranh cử độc lập hơn là khả năng cao hạn. Bản quyết định Tương lai Đài Loan cung cấp nền tảng vững chắc cho chiến lược này — quan điểm hai bờ eo biển của đảng đã được giải thích rõ ràng, ứng viên không cần phải trả lời hàng ngày «anh có muốn tuyên bố độc lập không».
 
-Vai trò của Nghị quyết về tương lai Đài Loan trong chiến dịch bầu cử có thể được giải thích bằng một câu: nó làm cho cử tri trung dung không còn sợ hãi. Phương trình "Đảng Dân chủ Tiến bộ nắm quyền bằng công bố độc lập bằng chiến tranh hai bờ eo biển" đã bị Nghị quyết về tương lai Đài Loan tháo gỡ. Vì Đảng Dân chủ Tiến bộ tự nói Đài Loan đã độc lập, quốc hiệu gọi là Trung Hoa Dân Quốc, thay đổi hiện trạng phải bỏ phiếu công dân, vậy bỏ phiếu cho Đảng Dân chủ Tiến bộ chỉ là đổi một đảng nắm quyền, không liên quan đến đi hướng quốc gia.
+Vai trò của Bản quyết đĩnh Tương lai Đài Loan trong chiến sự có thể được tóm tắt bằng một câu: nó khiến cử tri trung lập không còn sợ hãi. Phương trình «Đảng Dân tiến lên làm chủ bằng độc lập Đài Loan bằng chiến tranh hai bờ eo biển» đã bị Bản quyết định Tương lai phá vỡ. Vì Đảng Dân tiến tự nói rằng Đài Loan đã độc lập rồi, quốc hiệu gọi là Trung Hoa Dân Quốc, thay đổi hiện thực cần bình chọn, vậy thì bầu cho Đảng Dân tiến chỉ đơn giản là thay đổi một đảng nắm quyền, không liên quan gì tới hướng đi của quốc gia.
 
-Khi nhậm chức, Trần Thủy Biển tuyên bố "bốn không một không có": không công bố độc lập, không thay đổi quốc hiệu, không thúc đẩy hai nước luận vào hiến pháp, không thúc đẩy bỏ phiếu công dân thống nhất - độc lập, không vấn đề xóa bỏ Quốc Thống Cương và Quốc Thống Hội.[^16] Năm cam kết này đồng thời hướng tới Washington và Bắc Kinh, là một bảng bảo đảm chính trị được cân chỉnh kỹ lưỡng. Những cam kết này nghe có vẻ như sự suy nhượng, nhưng trong logic của Nghị quyết về tương lai Đài Loan, chúng là sự kéo dài tự nhiên của hiện trạng: vì Đài Loan đã độc lập, thay đổi hiện trạng phải bỏ phiếu công dân, vậy "không công bố độc lập" chỉ là trình bày một sự kiện không cần phải xảy ra sẽ không xảy ra. Mức độ chính xác của cách từ ngữ, đã được xác định trước khi soạn thảo.
+Khi nhậm chức, Chen Shui-bian tuyên bố «năm cam kết không một»: không tuyên bố độc lập, không thay đổi quốc hiệu, không đưa ra luận điệu hai quốc gia vào hiến pháp, không tổ chức bình chọn độc lập hơn là thống nhất, không có vấn đề về việc chấm dứt sứ mệnh quốc tế và hội đồng quốc tế. [^16] Năm cam kết này đồng thời hướng tới Washington và Bắc Kinh, là một cuốn sách bảo đảm chính trị được điều chỉnh cẩn thận. Những cam kết này nghe có vẻ như là sự đầu hàng, nhưng trong logic của Bản quyết định Tương lai Đài Loan, chúng là phần tự nhiên của hiện thực: vì Đài Loan đã độc lập rồi, thay đổi hiện thực cần bình chọn, nên «không tuyên bố độc lập» chỉ đơn giản là nhận định một sự kiện không cần phải xảy ra sẽ không xảy ra. Mức độ tinh tế của cách diễn đạt đã được thiết lập ngay từ giai đoạn soạn thảo.
 
-Năm 2001, Đảng Dân chủ Tiến bộ cố gắng nâng cao địa vị của Nghị quyết về tương lai Đài Loan một cách chính thức, để nó về hiệu lực vượt qua Đảng Cương độc lập.[^17] Nỗ lực không thành công. Đảng Cương độc lập không bị hủy, không bị đông lạnh, không bị sửa đổi. Nó chỉ bị một tài liệu khác che phủ.
+Năm 2001, Đảng Dân tiến cố gắng chính thức nâng đỏng vị thế của Bản quyết định Tương lai Đài Loan, để nó vượt trội hơn Đường lĩnh sự độc lập. [^17] Nỗ lực không thành công. Đường lĩnh sự độc lập không bị hủy bỏ, không bị đóng băng, không bị sửa đổi. Nó chỉ bị một tài liệu khác phủ lên.
 
-## Nền tảng không ai dám động vào
+## Nền tảng không ai dám chạm vào
 
-Nghị quyết về tương lai Đài Loan đã tồn tại hai mươi bảy năm, lâu hơn bất kỳ luận thuyết sau này nào. Nó có thể tồn tại lâu như vậy, lý do rất đơn giản: mỗi lần cố gắng vượt qua nó hoặc rút lui đều thất bại.
+Bản quyết định Tương lai Đài Loan đã tồn tại hai mươi bảy năm, lâu hơn bất kỳ luận điệu nào sau này. Lý do nó có thể kéo dài đến vậy rất đơn giản: mỗi lần thử vượt qua hoặc quay lại nó đều thất bại.
 
-Tháng 9 năm 2007, giai đoạn cuối nhiệm kỳ thứ hai của Trần Thủy Biển, Đảng Dân chủ Tiến bộ thông qua "Nghị quyết về quốc gia bình thường", muốn bước tiến thêm một bước: thay đổi quốc hiệu thành Đài Loan, xây dựng hiến pháp mới, gia nhập Liên Hợp Quốc dưới tên "Đài Loan".[^18] Nghị quyết về tương lai Đài Loan đội mũ Trung Hoa Dân Quốc công nhân sự kiện độc lập, Nghị quyết về quốc gia bình thường muốn cởi mũ tiến tới độc lập pháp lý. Phe ôn hoà trong đảng cho rằng đây là một cuộc mạo hiểm được thúc đẩy bởi Trần Thủy Biển để chuyển hướng tranh cãi về thành tích. Cuộc bầu cử 2008 Đảng Dân chủ Tiến bộ thất bại nặng, Tạ Trường Đình tỷ lệ phiếu 41,55%, Nghị quyết về quốc gia bình thường bị bỏ qua.
+Tháng 9 năm 2007, cuối thời hạn hai nhiệm kỳ của Chen Shui-bian, Đảng Dân tiến thông qua «Bản quyết định Quốc gia bình thường», muốn đi một bước xa hơn: đặt lại tên gọi quốc hiệu thành Đài Loan, soạn thảo hiến pháp mới, tham gia Liên Hợp Quốc dưới danh nghĩa «Đài Loan». [^18] Bản quyết định Tương lai Đài Loan công nhận độc lập thực sự dưới danh nghĩa Trung Hoa Dân Quốc, trong khi Bản quyết định Quốc gia bình thường muốn bỏ qua danh nghĩa và tiến tới độc lập pháp lý. Phe óc sợ trong nội bộ đảng cho rằng đây là cuộc chơi rủi ro của Chen Shui-bian để tránh tranh cử chính sách. Sau kết quả bầu cử thất bại năm 2008, Giác Chính Đức chỉ đạt 41.55%, Bản quyết định Quốc gia bình thường bị đặt vào ngăn kéo.
 
-Năm 2014, tác giả chính của Nghị quyết về tương lai Đài Loan Quách Chính Lượng và hơn bốn mươi vị đại biểu đảng khác ký tên đề xuất đông lạnh Đảng Cương độc lập. Lý do viết rõ ràng: các tổng thống và ứng cử viên lịch sử của Đảng Dân chủ Tiến bộ "đã bằng hành động chấp nhận Trung Hoa Dân Quốc", Đảng Cương độc lập "cơ bản là phản đối Trung Hoa Dân Quốc, theo đuổi thay đổi hiện trạng, chỉ làm tăng hiểu lầm của cộng đồng quốc tế."[^19] Chủ tịch Đảng Thái Anh Văn chỉ thị gửi Ủy ban Trung ương thảo luận, từ đó không còn tiếp tục.
+Năm 2014, người chính là tác giả chính của Bản quyết định Tương lai Đài Loan là Kuo Ching-chang cùng hơn bốn mươi đại biểu đảng ký đề xuất đóng băng Đường lĩnh sự độc lập. Lý do viết rất thẳng thắn: các Tổng thống và ứng cử viên của Đảng Dân tiến «đã thực sự chấp nhận Trung Hoa Dân Quốc», Đường lĩnh sự độc lập «thực sự đối lập với Trung Hoa Dân Quốc, theo đuổi thay đổi hiện thực, chỉ gây hiểu lầm cho cộng đồng quốc tế». [^19] Chủ tịch đảng là Thái Văn Văn (Cai Yingwen) ra lệnh gửi Ban chỉ huy trung tâm xem xét, từ đó không có bất kỳ kết quả nào.
 
-Tiến không được, lùi cũng không được. Nghị quyết về tương lai Đài Loan chỉ còn ở nguyên vị trí, trở thành lập trường duy nhất vẫn còn đứng.
+Không thể đi về phía trước, cũng không thể quay lại. Bản quyết định Tương lai Đài Loan vẫn đứng nơi đó, trở thành lập trường duy nhất còn đứng vững.
 
-Tháng 2 năm 2024, Giám đốc Bộ Công tác Trung Quốc của Đảng Dân chủ Tiến bộ Ngô Tuấn Shih nói ra bí mật được công khai nội bộ đảng tại một buổi thuyết trình trực tuyến: Đảng Cương độc lập "đã là tài liệu lịch sử", thực chất được Nghị quyết về tương lai Đài Loan thay thế.[^20] Cuối năm 2023, Trương Dung Thái khi đó là Chủ nhiệm Bộ Vận động Tranh cử của Lại Thanh Đức thẳng thắn hơn: "Nghị quyết về tương lai Đài Loan đã nói rõ ràng cho toàn thế giới, Đài Loan là một quốc gia có chủ quyền độc lập, quốc hiệu là Trung Hoa Dân Quốc, đây là thái độ thực tế duy nhất hiện tại của Đảng Dân chủ Tiến bộ, không có vấn đề đông lạnh Đảng Cương độc lập."[^21]
+Tháng 2 năm 2024, Trưởng bộ phận công tác Trung Quốc của Đảng Dân tiến là Võ Dũn Tháo (Wu Dunhao) nói ra bí mật trong một buổi thuyết trình trực tuyến: Đường lĩnh sự độc lập «đã trở thành tài liệu lịch sử», thực chất bị Bản quyết định Tương lai thay thế. [^20] Cuối năm 2023, khi đó là Trưởng ban bầu cử của Lai Chính Đức (Lai Qingde) là Đoàn Nhật Sĩ (Zhuo Rongtai) nói thẳng hơn: «Bản quyết định Tương lai Đài Loan đã rõ ràng cho thế giới biết rằng Đài Loan là một quốc gia có chủ quyền độc lập, tên gọi là Trung Hoa Dân Quốc, đây là quan điểm thực tế duy nhất của Đảng Dân tiến ngày nay, không có vấn đề gì với việc đóng băng Đường lĩnh sự độc lập». [^21]
 
-Thái Anh Văn trong 8 năm nắm quyền, dựa trên nền tảng Nghị quyết về tương lai Đài Loan phát triển "bốn sự nhất quyết": nhất quyết Trung Hoa Dân Quốc và Cộng hòa Nhân dân Trung Hoa không kiểm soát lẫn nhau, nhất quyết chủ quyền không bị xâm phạm sáp nhập, nhất quyết tương lai của Trung Hoa Dân Quốc Đài Loan do hai triệu ba trăm đôi mươi ba vạn người quyết định, nhất quyết hệ thống hiến pháp dân chủ tự do.[^28] Lại Thanh Đức trước cuộc bầu cử năm 2024 tỏ rõ hơn: "Trần Thủy Biển dựa trên Nghị quyết về tương lai Đài Loan được bầu làm Tổng thống, khi nắm quyền không công bố độc lập Đài Loan; Thái Anh Văn cũng không công bố độc lập Đài Loan. Tôi được bầu làm Tổng thống cũng không sẽ riêng công bố độc lập Đài Loan."[^29] Một tài liệu năm 1999, trở thành nền tảng chung được ba Tổng thống Đảng Dân chủ Tiến bộ trích dẫn.
+Thái Văn Văn (Cai Yingwen) trong tám năm ở vị trí, dựa trên Bản quyết đĩnh Tương lai phát triển ra «bốn cam kết»: cam kết Trung Hoa Dân Quốc và Trung Hoa Nhân Dân Cộng hòa không thuộc sở về nhau, cam kết chủ quyền không bị xâm phạm và hấp thụ, cam kết tương lai của Trung Hoa Dân Quốc tại Đài Loan do hai mươi ba triệu người quyết định, cam kết hệ thống hiến pháp dân chủ tự do. [^28] Lai Chính Đức trong thời gian chuẩn bị bầu cử năm 2024 nói rõ hơn: «Chen Shui-bian dựa trên Bản quyết định Tương lai Đài Loan khi đăng quyền Tổng thống, trong thời gian nhậm chức không tuyên bố độc lập Đài Loan; Thái Văn Văn cũng không tuyên bố độc lập Đài Loan. Nếu tôi được bầu làm Tổng thống, tôi cũng sẽ không tuyên bố thêm bất kỳ điều gì về độc lập Đài Loan». [^29] Một tài liệu năm 1999 trở thành nền tảng chung cho ba Nhà nước thủ của Đảng Dân tiến.
 
-Đảng Cương độc lập không được đông lạnh, vì đông lạnh nó cần biểu quyết chính thức, biểu quyết chính thức có nghĩa là đảng phải trả lời một câu hỏi không thể trả lời: Đảng Dân chủ Tiến bộ cuối cùng vẫn còn chủ trương độc lập Đài Loan không? Nghị quyết về tương lai Đài Loan cũng không chính thức thay thế Đảng Cương độc lập, bởi vì "thay thế" bản thân nó đã là một động tác rõ ràng, tương đương công nhân ba mươi năm con đường xây dựng quốc gia trước đó là sai. Đảng chọn không làm gì, cho phép sự mơ hồ tiếp tục hoạt động.
+Đường lĩnh sự độc lập không bị đóng băng, vì việc đóng băng cần một cuộc bỏ phiếu chính thức, một cuộc bỏ phiếu chính thức đồng nghĩa với việc đảng phải trả lời một câu hỏi không thể trả lời: Đảng Dân tiến có thực sự ủng hộ độc lập Đài Loan hay không? Bản quyết định Tương lai Đài Loan cũng không chính thức thay thế Đường lĩnh sự độc lập, vì «thay thế» chính là một hành động rõ ràng, đồng nghĩa với việc công nhận ba mươi năm trước đó là sai lầm. Đảng chọn làm gì cũng không, để sự mơ hồ tiếp tục hoạt động.
 
-Ba người soạn thảo sau hai mươi bảy năm mỗi người đi một con đường khác nhau. Quách Chính Lượng năm 2023 rút khỏi Đảng Dân chủ Tiến bộ, chuyển sang làm nhân vật bình luận chính trị chỉ trích cơ quan trước đây của mình trên truyền hình, sự chuyển hướng lập trường rộng lớn đến mức những đồng chí ngày xưa kinh ngạc.[^22] Lâm Trược Thủy năm 2006 vì vụ tham nhũng của Trần Thủy Biển từ chức là Nghị sĩ, nhưng luôn ở lại trong đảng, tiếp tục dùng độ chính xác về từ ngữ của Nghị quyết về tương lai Đài Loan để bình luận thời sự, trở thành nhân vật chỉ trích nội bộ không ngại phốn gạo nhất của đảng.[^23] Trần Trung Tín sau khi ngã xuống vị trí Phó Bí thư Quốc gia an toàn rút khỏi chính trường một cách lặng lẽ. Ba người trong một cái bàn trong năm 1999 viết cùng một tài liệu, hai mươi bảy năm sau tài liệu do họ viết vẫn là nền tảng của luận thuyết quan hệ hai bờ eo biển của Đài Loan.
+Ba người soạn thảo sau hai mươi bảy năm đã đi theo những con đường khác nhau. Kuo Ching-chang năm 2023 rời khỏi Đảng Dân tiến, chuyển sang làm bình luận viên chính trị trên truyền hình, chỉ trích cựu công ty của mình, sự chuyển đổi lớn đến mức các đồng chủ cũ ngạ cứng. [^22] Lãm Trắc Thủy năm 2006 do đó liên quan tới vụ tham nhũng của Chen Shui-bian nên từ chức làm Phó Nghị sĩ, nhưng vẫn ở lại trong nội bộ đảng, liên tục nhận xét về chính trị bằng độ chính xác của ngôn ngữ trong Bản quyết định Tương lai, trở thành người phê bình nội bộ trong đảng không khoan nhượng. [^23] Chen Chung-hsin rời khỏi mặt trận chính trị sau khi từ chức Phó Thư ký Hội đồng An ninh Quốc gia. Ba người trong cùng một buổi họp vào năm 1999 viết cùng một tài liệu, hai mươi bảy năm sau, tài liệu họ viết vẫn là nền tảng cho truyền luận hai bờ eo biển của Đài Loan.
 
-1. **Tháng 10 năm 1991** — Đảng Dân chủ Tiến bộ thông qua Đảng Cương độc lập, chủ trương "thiết lập Cộng hòa Đài Loan", tác giả soạn thảo là Lâm Trược Thủy
-2. **Tháng 9 năm 1995** — Thi Minh Đức tại Washington tuyên bố "không cần phải công bố độc lập Đài Loan"
-3. **Tháng 3 năm 1996** — Bương Minh Tâm tỷ lệ phiếu 21,13% thất bại nặng, áp lực chuyển hướng đường lối tăng đột ngột
-4. **Tháng 5 năm 1999** — Nghị quyết về tương lai Đài Loan thông qua tại Cao Hùng, "theo hiến pháp gọi là Trung Hoa Dân Quốc" trở thành sự đồng thuận mới
-5. **Tháng 3 năm 2000** — Trần Thủy Biển được bầu làm Tổng thống, sự luân chuyển chính quyền lần đầu tiên
-6. **Tháng 9 năm 2007** — Nghị quyết về quốc gia bình thường thông qua, cố gắng bước tới độc lập pháp lý, thất bại nặng sau cuộc bầu cử năm sau
-7. **Tháng 5 năm 2026** — Lại Thanh Đức dùng Nghị quyết về tương lai Đài Loan xác định "hai ý nghĩa lớn của độc lập Đài Loan", Lâm Trược Thủy đánh giá "rất thích hợp"
+1. **Tháng 10 năm 1991** — Đảng Dân tiến thông qua Đường lĩnh sự độc lập, đề xuất «xây dựng Cộng hòa Đài Loan», người soạn thảo Lãm Trắc Thủy
+2. **Tháng 9 năm 1995** — Thạch Minh Đức tại Washington tuyên bố «không cần và cũng sẽ không tuyên bố độc lập Đài Loan»
+3. **Tháng 3 năm 1996** — Bành Minh Minh với 21.13% số phiếu thất bại nặng chất, áp lực chuyển đổi hướng đi tăng mạnh
+4. **Tháng 5 năm 1999** — Bản quyết định Tương lai Đài Loan được thông qua tại Kaohsiung, «theo hiến pháp gọi là Trung Hoa Dân Quốc» trở thành sự đồng thuận mới
+5. **Tháng 3 năm 2000** — Chen Shui-bian được bầu làm Tổng thống, lần đầu tiên thay đổi đảng nắm quyền
+6. **Tháng 9 năm 2007** — Bản quyết định Quốc gia bình thường được thông qua, cố gắng tiến tới độc lập pháp lý, sau kết quả bầu cử thất bại năm 2008 bị bỏ qua
+7. **Tháng 5 năm 2026** — Lai Chính Đức dựa trên Bản quyết định Tương lai đưa ra «hai nghĩa vụ chính của độc lập Đài Loan», Lãm Trắc Thủy đánh giá «rất phù hợp»
 
-## "Rất thích hợp"
+## «Rất phù hợp»
 
-Ngày 17 tháng 5 năm 2026. Bối cảnh là áp lực quốc tế sau cuộc gặp giữa Trump và Tập Tân Bình trong tháng đó: Trump tỏ rõ không muốn Đài Loan hướng tới độc lập, Bắc Kinh khẳng định lại lập trường một Trung Quốc. Chiến lược phản ứng của Lại Thanh Đức là dùng ngôn ngữ của Nghị quyết về tương lai Đài Loan để định nghĩa lại "độc lập": độc lập không phải là phải công bố cái gì, độc lập chính là hiện trạng — Đài Loan không bị kiểm soát bởi Cộng hòa Nhân dân Trung Hoa, Trung Hoa Dân Quốc và Cộng hòa Nhân dân Trung Hoa không kiểm soát lẫn nhau. Hệ thống logic này có thể truy ngược lại câu nói của Thi Minh Đức tại Washington năm 1995. Cơ sở trích dẫn của Lại Thanh Đức, là Nghị quyết về tương lai Đài Loan năm 1999 và "bốn sự nhất quyết" của Thái Anh Văn năm 2021, nhấn mạnh những điều này "đều là chính sách quốc gia hiện tại được chính phủ Đảng Dân chủ Tiến bộ thúc đẩy".[^24]
+Ngày 17 tháng 5 năm 2026. Bối cảnh là áp lực quốc tế sau cuộc gặp Trump - Tập vào tháng này: Trump bày tỏ không mong muốn Đài Loan đi theo hướng độc lập, Bắc Kinh nhấn mạnh lại quan điểm một Trung Quốc. Chiến lược phản hồi của Lai Chính Đức là sử dụng ngôn ngữ của Bản quyết định Tương lai để định nghĩa lại «độc lập Đài Loan»: độc lập không phải là phải tuyên bố gì đó, độc lập chính là hiện thực — Đài Loan không thuộc sở về Trung Hoa Nhân Dân Cộng hòa, Trung Hoa Dân Quốc và Trung Hoa Nhân Dân Cộng hòa không thuộc sở về nhau. Bộ logic này có thể được truy nguyên trở lại câu nói của Thạch Minh Đức tại Washington năm 1995. Cơ sở mà Lai Chính Đức trích dẫn là Bản quyết định Tương lai Đài Loan năm 1999 và «bốn cam kết» của Thái Văn Văn năm 2021, nhấn mạnh «tất cả đều là chính sách quốc gia mà chính phủ Đảng Dân tiến đang thực hiện». [^24]
 
-Quốc Dân Đảng Tưởng Vạn An phản hỏi: Đảng Dân chủ Tiến bộ muốn xóa Đảng Cương độc lập không? Nghị sĩ Đảng Dân chủ Tiến bộ Trần Bá Dương trả lời một câu: "Bây giờ là Nghị quyết về tương lai Đài Loan, tương lai Đài Loan do toàn thể nhân dân Đài Loan hai triệu ba trăm đôi mươi ba vạn người quyết định...Ông ấy không phải là học luật sư sao?"[^25]
+Đảng Quốc dân tiểu thư Chiang Wan-an (jiang wan-an) hỏi lại: Đảng Dân tiến có muốn xóa bỏ Đường lĩnh sự độc lập không? Nghị sĩ Đảng Dân tiến Thẩm Bạch Dương (Shen Bochun) trả lời: «Bây giờ là Bản quyết định Tương lai Đài Loan, số phận của Đài Loan phải do hai mươi ba triệu người dân quyết định... anh không học pháp lý sao?» [^25]
 
-Cùng ngày hôm đó, tuyên bố của Phủ Tổng thống quay lại cách từ ngữ "Trung Hoa Dân Quốc là quốc gia có chủ quyền độc lập dân chủ". Lâm Trược Thủy viết ba chữ trên Facebook: "Rất thích hợp." Ông nói điều này làm cho người ta "thở được hơi", cho rằng chính phủ "cuối cùng đã thoát khỏi sai lầm từ năm 2020 trở lại".[^26]
+Cùng ngày, Tổng thống phủ nhấn mạnh trở lại vào ngôn ngữ «Trung Hoa Dân Quốc là quốc gia dân chủ có chủ quyền độc lập». Lãm Trắc Thủy viết ba từ trên Facebook: «Rất phù hợp». Ông nói điều này giúp «hít một hơi sâu», cho rằng chính phủ «cuối cùng cũng bỏ qua những sai lầm từ năm 2020». [^26]
 
-Hai mươi bảy năm trước, Lâm Trược Thủy thêm hai chữ "hiện nay" trước "quốc hiệu". Hai mươi bảy năm sau, ông vẫn còn dùng độ chính xác của hai chữ đó cân đo mỗi câu nói của chính phủ.
+Hai mươi bảy năm trước, Lãm Trắc Thủy thêm hai từ «hiện nay» vào trước «quốc hiệu». Hai mươi bảy năm sau, ông vẫn đang sử dụng độ chính xác của hai từ này để đo lường từng câu nói của chính phủ.
 
-Tuổi hai mươi của những thanh niên Đài Loan cảm thấy "Đài Loan vốn dĩ là độc lập" là điều hiển nhiên. Nghị quyết về tương lai Đài Loan sẽ không xuất hiện trong sách giáo khoa của họ. Họ tiếp nhận một kết luận đã được gói sẵn, phía sau những cuộc đấu tranh, thỏa hiệp, và trận chiến không lời về hai chữ, đã bị bôi xóa bởi hai mươi bảy năm thời gian. Họ không biết điều này xuất phát từ cuộc họp toàn quốc đại biểu đảng viên tại Cao Hùng năm 1999, xuất phát từ ba người chắp tay nhau ở cùng một chiếc bàn cân nhắc lại cách từ ngữ, xuất phát từ một chữ được thêm vào: "hiện nay". Thành công lớn nhất của Nghị quyết về tương lai Đài Loan, chính là làm cho bản thân nó trở nên không cần phải được ghi nhớ.
+Những người trẻ hai mươi tuổi ở Đài Loan cảm thấy «Đài Loan từ lâu đã độc lập» là điều hiển nhiên. Bản quyết định Tương lai Đài Loan sẽ không xuất hiện trong sách giáo khoa của họ. Họ nhận được một kết luận đã được đóng gói sẵn, sau đó là những cuộc đấu tranh, sự thỏa thuận và cuộc chiến hai từ đã bị nén lại bởi hai mươi bảy năm thời gian. Họ không biết kiến thức này xuất phát từ một hội nghị đại biểu Đảng Dân tiến tại Kaohsiung năm 1999, từ ba người cùng một bàn thảo luận kỹ lưỡng, từ một từ được thêm vào: «hiện nay». Thành công lớn nhất của Bản quyết định Tương lai Đài Loan là khiến chính nó trở nên không cần phải được nhớ tới.
+
+---
 
 ## Tài liệu tham khảo
 
-[^1]: [Lâm Trược Thủy 〈Bí mật của Nghị quyết về tương lai Đài Loan〉](https://talk.ltn.com.tw/article/paper/130246) — Tự do Thời báo Bài bình luận tự do 2007.5.14, Lâm Trược Thủy hồi tưởng Trần Thủy Biển thông qua Du Tích Khôn thúc đẩy sửa đổi Đảng Cương độc lập.
+[^1]: [Lãm Trắc Thủy ‹Bí mật của Bản quyết định Tương lai Đài Loan›](https://talk.ltn.com.tw/article/paper/130246) — Bình luận tự do của Tạp chí Tự do 2007.5.14, Lãm Trắc Thủy nhớ lại Chen Shui-bian thông qua Hoa Ngoại (Nguyễn Tập Cương) thúc đẩy sửa đổi Đường lĩnh sự độc lập.
 
-[^2]: [Lâm Trược Thủy trò chuyện về quá trình soạn thảo Nghị quyết về tương lai Đài Loan](https://newtalk.tw/news/view/2021-07-11/602408) — Newtalk 2021.7.11, bản gốc "thêm hai chữ 'hiện nay' trước quốc hiệu, phe thân Biển rất không mãn lòng."
+[^2]: [Lãm Trắc Thủy thảo luận về quá trình soạn thảo Bản quyết định Tương lai](https://newtalk.tw/news/view/2021-07-11/602408) — Đầu mới 2021.7.11, nguyên bản «thêm từ «hiện nay» vào trước «quốc hiệu», hệ thống Dân tiến rất bất mãn».
 
-[^3]: [Phỏng vấn Lâm Trược Thủy (Newtalk 2021.7.11)](https://newtalk.tw/news/view/2021-07-11/602408) — Lâm Trược Thủy giải thích lý do thêm "hiện nay", nhắc tới khả năng các văn phòng đại diện nước ngoài có thể bị buộc phải đóng cửa.
+[^3]: [Cuộc phỏng vấn Lãm Trắc Thủy (cùng Newtalk 2021.7.11)](https://newtalk.tw/news/view/2021-07-11/602408) — Lãm Trắc Thủy giải thích lý do thêm «hiện nay», đề cập các cơ quan đại diện nước ngoài có thể bị buộc phải đóng cửa.
 
-[^4]: [Đảng Cương độc lập](https://zh.wikipedia.org/zh-tw/台獨黨綱) — Ngày 13 tháng 10 năm 1991 tại Đại hội Toàn quốc Đại biểu Đảng viên lần thứ năm, kỳ họp toàn thể lần thứ nhất của Đảng Dân chủ Tiến bộ thông qua.
+[^4]: [Đường lĩnh sự độc lập](https://zh.wikipedia.org/zh-tw/台獨黨綱) — Ngày 13 tháng 10 năm 1991, Hội nghị đại biểu toàn quốc lần thứ năm của Đảng Dân tiến thông qua.
 
-[^5]: [Diễn thuyết tại Washington năm 1995 của Thi Minh Đức](https://www.dpp.org.tw/media/contents/2286) — Trang web chính thức Đảng Dân chủ Tiến bộ lưu giữ, xem thêm [Quỹ Văn hóa Thi Minh Đức](http://www.nori.org.tw/story/民進黨執政，不必也不會宣告台灣獨立。/) tài liệu đầy đủ.
+[^5]: [Bài thuyết trình Thạch Minh Đức tại Washington năm 1995](https://www.dpp.org.tw/media/contents/2286) — Được Đảng Dân tiến lưu trữ trên trang web, xem thêm [Quỹ nhớ văn hóa Thạch Minh Đức](http://www.nori.org.tw/story/民進黨執政，不必也不會宣告台灣獨立。/) để xem toàn bộ tài liệu.
 
-[^6]: [Thi Minh Đức "mô hình độc lập Đài Loan theo Trung Hoa Dân Quốc"](https://www.ettoday.net/news/20240115/2637003.htm) — ETtoday 2024.1.15, Thi Minh Đức lần đầu tiên đề xuất khái niệm này vào năm 1980.
+[^6]: [Thạch Minh Đức ‹độc lập Đài Loan theo mô hình Trung Hoa Dân Quốc›](https://www.ettoday.net/news/20240115/2637003.htm) — ETtoday 2024.1.15, Thạch Minh Đức đưu ra khái niệm này lần đầu vào năm 1980.
 
-[^7]: [Cuộc bầu cử Tổng thống Trung Hoa Dân Quốc năm 1996](https://zh.wikipedia.org/zh-tw/1996年中華民國總統選舉) — Bương Minh Tâm/Tạ Trường Đình tỷ lệ phiếu 21,13%, Lý Đăng Huy/Liên Chiến 54%.
+[^7]: [Bầu cử Tổng thống năm 1996](https://zh.wikipedia.org/zh-tw/1996年中華民國總統選舉) — Bành Minh Minh/Thái Văn Văn (trích dẫn sai lầm) 21.13%, Lý Đứng Lĩnh (Lee Teng-hui)/Liên Chiến 54%.
 
-[^8]: [Đảng Cương thế hệ mới của Phong trào Độc lập Đài Loan](https://zh.wikipedia.org/wiki/台灣獨立運動的新世代綱領) — Ngày 10 tháng 5 năm 1996 do Chu Dịch Thành soạn, hơn một trăm người ký tên.
+[^8]: [Đề tài thế hệ mới của phong trào độc lập Đài Loan](https://zh.wikipedia.org/wiki/台灣獨立運動的新世代綱領) — Ngày 10 tháng 5 năm 1996 do Chiu Ee-cheng (周奕成) viết, hơn một trăm người ký tên.
 
-[^9]: [Báo cáo CRS 98-837 của Mỹ: Đài Loan - "Chính sách ba điều không"](https://www.everycrsreport.com/reports/98-837.html) — Viện Nghiên cứu Quốc hội Mỹ năm 1998, xem thêm [báo Washington Post ngày 30.6.1998](https://www.washingtonpost.com/archive/politics/1998/06/30/clinton-restates-three-noes-policy-on-taiwan/) ghi chép đồng thời.
+[^9]: [Báo cáo CRS 98-837: Taiwan: The "Three No's"](https://www.everycrsreport.com/reports/98-837.html) — Nghiên cứu của Quốc hội Mỹ năm 1998, xem thêm [Báo cáo Washington Post 1998.6.30](https://www.washingtonpost.com/archive/politics/1998/06/30/clinton-restates-three-noes-policy-on-taiwan/) ghi nhận đồng thời.
 
-[^10]: [Cuộc tranh luận lớn về Chính sách Trung Quốc của Đảng Dân chủ Tiến bộ](https://zh.wikipedia.org/zh-tw/民主進步黨) — Ngày 13-15 tháng 2 năm 1998 tại Viện Luật Trường Đại học Đài Loan, Hứa Tín Lương "can đảm tiến tây" so với dòng tư tưởng mới "tăng cường nền tảng từng bước", thỏa hiệp là "tăng cường nền tảng tiến tây".
+[^10]: [Tranh luận lớn về chính sách Trung Quốc của Đảng Dân tiến](https://zh.wikipedia.org/zh-tw/民主進步黨) — Từ ngày 13 đến 15 tháng 2 năm 1998 tại Trường Luật Đại học Đài Loan, Hứa Hữu Sương (許信良) «tiến ra phương Tây dũng cảm» vs Phong trào mới «vững chắc cốt lõi, từng bước tiến», đồng thuận thành «vững chắc cốt lõi, tiến ra phương Tây».
 
-[^11]: [Lâm Trược Thủy 〈Bí mật của Nghị quyết về tương lai Đài Loan〉](https://talk.ltn.com.tw/article/paper/130246) — Tự do Thời báo 2007.5.14, Trần Trung Tín đề xuất phương án thỏa hiệp "không sửa đổi Đảng Cương độc lập, nhưng thông qua Nghị quyết về tương lai".
+[^11]: [Lãm Trắc Thủy ‹Bí mật của Bản quyết định Tương lai Đài Loan›](https://talk.ltn.com.tw/article/paper/130246) — Bình luận tự do của Tạp chí Tự do 2007.5.14, Chen Chung-hsin đề xuất giải pháp «không sửa đổi Đường lĩnh sự độc lập, nhưng thông qua Bản quyết định Tương lai».
 
-[^12]: [Phỏng vấn Lâm Trược Thủy (Tự do Thời báo 2007.5.14)](https://talk.ltn.com.tw/article/paper/130246) — Lâm Trược Thủy tự thuật vai trò của ông trong quá trình soạn thảo.
+[^12]: [Cuộc phỏng vấn Lãm Trắc Thủy (cùng Tạp chí Tự do 2007.5.14)](https://talk.ltn.com.tw/article/paper/130246) — Lãm Trắc Thủy tự mô tả vai trò của mình trong quá trình soạn thảo.
 
-[^13]: [Nghị quyết về tương lai Đài Loan](https://zh.wikipedia.org/zh-tw/臺灣前途決議文) — Ngày 8 tháng 5 năm 1999 tại Đại hội Toàn quốc Đại biểu Đảng viên lần thứ tám, kỳ họp toàn thể lần thứ hai của Đảng Dân chủ Tiến bộ thông qua, bản gốc đầy đủ xem [Quỹ Hòa bình Đài Loan Mới](https://www.twpeace.org.tw/wordpress/?p=2727).
+[^13]: [Bản quyết định Tương lai Đài Loan](https://zh.wikipedia.org/zh-tw/臺灣前途決議文) — Ngày 8 tháng 5 năm 1999, Hội nghị đại biểu toàn quốc lần thứ tám của Đảng Dân tiến, lần thứ hai của Hội nghị toàn thể, được thông qua, toàn bản khác tại [Quỷ đất Đài Loan mới](https://www.twpeace.org.tw/wordpress/?p=2727).
 
-[^14]: [Nguyên tắc "một Trung Quốc" và Vấn đề Đài Loan (Sách Trắng 2000 của Trung Quốc)](https://www.gwytb.gov.cn/zt/baipishu/202103/t20210321_12338499.htm) — Bắc Kinh xem Nghị quyết về tương lai Đài Loan là "độc lập Đài Loan biến tướng", năm 2000 phát hành Sách Trắng nhấn mạnh lại lập trường.
+[^14]: [Nguyên tắc một Trung Quốc và vấn đề Đài Loan (Bản trắng 2000 của Trung Quốc)](https://www.gwytb.gov.cn/zt/baipishu/202103/t20210321_12338499.htm) — Bắc Kinh cho rằng Bản quyết định Tương lai là «độc lập Đài Loan một cách gián tiếp», bản trắng 2000 công bố lại quan điểm.
 
-[^15]: [Cuộc bầu cử Tổng thống Trung Hoa Dân Quốc năm 2000](https://zh.wikipedia.org/zh-tw/2000年中華民國總統選舉) — Trần Thủy Biển/Lữ Tú Liên tỷ lệ phiếu 39,3%, sự luân chuyển chính quyền lần đầu tiên.
+[^15]: [Bầu cử Tổng thống năm 2000](https://zh.wikipedia.org/zh-tw/2000年中華民國總統選舉) — Chen Shui-bian/Lý Vĩ Lan (Lü Hsiulan) 39.3%, lần đầu tiên thay đổi đảng nắm quyền.
 
-[^16]: [Bốn không một không có](https://zh.wikipedia.org/zh-tw/四不一沒有) — Năm cam kết được Trần Thủy Biển phát biểu tại lễ nhậm chức ngày 20 tháng 5 năm 2000.
+[^16]: [Năm cam kết không một](https://zh.wikipedia.org/zh-tw/四不一沒有) — Năm cam kết của Chen Shui-bian trong bài phát biểu nhậm chức ngày 20 tháng 5 năm 2000.
 
-[^17]: [Độ phân giải về tương lai của Đài Loan](https://en.wikipedia.org/wiki/Resolution_on_Taiwan%27s_Future) — Ngày 20 tháng 10 năm 2001, Đảng Dân chủ Tiến bộ thông qua Quyết định nâng cao địa vị Nghị quyết về tương lai Đài Loan.
+[^17]: [Resolution on Taiwan's Future](https://en.wikipedia.org/wiki/Resolution_on_Taiwan%27s_Future) — Ngày 20 tháng 10 năm 2001, Đảng Dân tiến thông qua quyết định, kỹ thuật là cách nâng đỏng vị thế của Bản quyết định Tương lai.
 
-[^18]: [Nghị quyết về quốc gia bình thường](https://www.dpp.org.tw/news/contents/15) — Trang web chính thức Đảng Dân chủ Tiến bộ lưu giữ, thông qua ngày 30 tháng 9 năm 2007.
+[^18]: [Bản quyết định Quốc gia bình thường](https://www.dpp.org.tw/news/contents/15) — Được Đảng Dân tiến lưu trữ trên trang web, ngày 30 tháng 9 năm 2007 thông qua.
 
-[^19]: [Đề xuất đông lạnh Đảng Cương độc lập](https://zh.wikipedia.org/zh-tw/台獨黨綱) — Năm 2014 Quách Chính Lượng và hơn bốn mươi vị đại biểu đảng ký tên, Thái Anh Văn chỉ thị gửi Ủy ban Trung ương thảo luận, không chính thức biểu quyết.
+[^19]: [Đề xuất đóng băng Đường lĩnh sự độc lập](https://zh.wikipedia.org/zh-tw/台獨黨綱) — Năm 2014, Kuo Ching-chang cùng hơn bốn mươi đại biểu ký đề xuất, Thái Văn Văn (Cai Yingwen) ra lệnh gửi Ban chỉ huy trung tâm xem xét, chưa bỏ phiếu chính thức.
 
-[^20]: [Ngô Tuấn Shih: Đảng Cương độc lập "đã là tài liệu lịch sử"](https://udn.com/news/story/123307/7613012) — Liên Hợp Tờ Báo Điện tử 2024.2.25, Giám đốc Bộ Công tác Trung Quốc của Đảng Dân chủ Tiến bộ phát biểu tại buổi thuyết trình trực tuyến về nhân vật học hai bờ eo biển.
+[^20]: [Võ Dũn Tháo: Đường lĩnh sự độc lập «đã trở thành tài liệu lịch sử»](https://udn.com/news/story/123307/7613012) — Báo chí hợp tác 2024.2.25, Trưởng bộ phận công tác Trung Quốc của Đảng Dân tiến phát biểu tại buổi thuyết trình trực tuyến cho các nhà nghiên cứu hai bờ eo biển.
 
-[^21]: [葛來儀籲Lại Thanh Đức cân nhắc đông lạnh Đảng Cương độc lập Trương Dung Thái: Điểm chính là Trung Quốc từ bỏ thống nhất bằng quân sự](https://www.cna.com.tw/news/aipl/202312010145.aspx) — Thông tấn xã Trung ương 2023.12.1, Trương Dung Thái với tư cách Chủ nhiệm Bộ Vận động Tranh cử của Lại Thanh Đức phản ứng với gợi ý của học giả Mỹ.
+[^21]: [Đoàn Nhật Sĩ kêu gọi Lai Chính Đức cân nhắc đóng băng Đường lĩnh sự độc lập; Zhuo Rongtai: chủ đề chính là Trung Quốc từ bỏ bạo lực thống nhất](https://www.cna.com.tw/news/aipl/202312010145.aspx) — Báo cáo trung tâm 2023.12.1, Đoàn Nhật Sĩ (Zhuo Rongtai) đưa ra phản hồi với tư cách Trưởng ban bầu cử của Lai Chính Đức.
 
-[^22]: [Quách Chính Lượng](https://zh.wikipedia.org/zh-tw/郭正亮) — Ngày 19 tháng 5 năm 2023 tuyên bố rút khỏi Đảng Dân chủ Tiến bộ, hiện là nhân vật bình luận chính trị.
+[^22]: [Kuo Ching-chang](https://zh.wikipedia.org/zh-tw/郭正亮) — Ngày 19 tháng 5 năm 2023 công bố rời khỏi Đảng Dân tiến, hiện là nhà bình luận chính trị.
 
-[^23]: [Lâm Trược Thủy](https://zh.wikipedia.org/zh-tw/林濁水) — Ngày 13 tháng 11 năm 2006 vì vụ Quỹ ngoài Bộ của Trần Thủy Biển cùng với Lý Văn Tưởng từ chức Nghị sĩ.
+[^23]: [Lãm Trắc Thủy](https://zh.wikipedia.org/zh-tw/林濁水) — Ngày 13 tháng 11 năm 2006 do liên quan tới vụ tiền tài nghiệp vụ của Chen Shui-bian cùng với Lý Văn Trung (Lee Wen-chung) từ chức làm Nghị sĩ.
 
-[^24]: [Lại Thanh Đức xác định hai ý nghĩa lớn của độc lập](https://www.ettoday.net/news/20260517/3167412.htm) — ETtoday 2026.5.17, Lại Thanh Đức phát biểu khi phản ứng lại áp lực từ cuộc gặp Trump-Tập.
+[^24]: [Lai Chính Đức đưa ra hai nghĩa vụ chính của độc lập Đài Loan](https://www.ettoday.net/news/20260517/3167412.htm) — ETtoday 2026.5.17, Lai Chính Đức phản hồi áp lực sau cuộc gặp Trump - Tập.
 
-[^25]: [Trần Bá Dương phản bác Tưởng Vạn An](https://news.ltn.com.tw/news/politics/breakingnews/5440164) — Tự do Thời báo 2026.5.17, Nghị sĩ Đảng Dân chủ Tiến bộ phản ứng lại nghi vấn của Quốc Dân Đảng.
+[^25]: [Thẩm Bạch Dương phản hồi Chiang Wan-an](https://news.ltn.com.tw/news/politics/breakingnews/5440164) — Báo Tự do 2026.5.17, Nghị sĩ Đảng Dân tiến trả lời câu hỏi của Đảng Quốc dân.
 
-[^26]: [Lâm Trược Thủy đánh giá tuyên bố của chính phủ "rất thích hợp"](https://news.tvbs.com.tw/politics/3206164) — TVBS 2026.5.17, Lâm Trược Thủy cho rằng chính phủ "cuối cùng đã thoát khỏi sai lầm từ năm 2020 trở lại".
+[^26]: [Lãm Trắc Thủy đánh giá «rất phù hợp» với tuyên bố của chính phủ](https://news.tvbs.com.tw/politics/3206164) — TVBS 2026.5.17, Lãm Trắc Thủy cho rằng chính phủ «cuối cùng cũng bỏ qua những sai lầm từ năm 2020».
 
-[^27]: [Bản gốc đầy đủ của Nghị quyết về tương lai Đài Loan](https://www.twpeace.org.tw/wordpress/?p=2727) — Quỹ Hòa bình Đài Loan Mới lưu giữ phần mở đầu và bảy điểm chủ trương.
+[^27]: [Toàn bản Bản quyết định Tương lai Đài Loan](https://www.twpeace.org.tw/wordpress/?p=2727) — Quỷ đất Đài Loan mới lưu trữ lời mở đầu và bảy điểm chính.
 
-[^28]: [Diễn thuyết Quốc khánh "bốn sự nhất quyết" của Thái Anh Văn](https://www.president.gov.tw/News/26253) — Trang web Phủ Tổng thống ngày 10 tháng 10 năm 2021, bản gốc "nhất quyết hệ thống hiến pháp dân chủ tự do, nhất quyết Trung Hoa Dân Quốc và Cộng hòa Nhân dân Trung Hoa không kiểm soát lẫn nhau, nhất quyết chủ quyền không bị xâm phạm sáp nhập, nhất quyết tương lai của Trung Hoa Dân Quốc Đài Loan phải tuân theo ý chí của toàn thể nhân dân Đài Loan."
+[^28]: [Bài thuyết trình Quốc khán hành của Thái Văn Văn «bốn cam kết»](https://www.president.gov.tw/News/26253) — Trang web Tổng thống phủ 2021, ngày 10 tháng 10 năm 2021, nguyên bản «cam kết hệ thống hiến pháp dân chủ tự do, cam kết Trung Hoa Dân Quốc và Trung Hoa Nhân Dân Cộng hòa không thuộc sở về nhau, cam kết chủ quyền không bị xâm phạm và hấp thụ, cam kết tương lai của Trung Hoa Dân Quốc tại Đài Loan phải tuân thủ ý chí của toàn thể cư dân Đài Loan».
 
-[^29]: [Lại Thanh Đức trước bầu cử nói về Nghị quyết về tương lai Đài Loan](https://www.president.gov.tw/News/28428) — Trang web Phủ Tổng thống lưu giữ, xem thêm báo cáo của Người Tường báo cáo, Liên Hợp Tờ Báo Điện tử liên quan.
+[^29]: [Lai Chính Đức thảo luận về Bản quyết định Tương lai trước bầu cử](https://www.president.gov.tw/News/28428) — Trang web Tổng thống phủ lưu trữ, xem thêm báo cáo của Báo cáo và Báo chí hợp tác liên quan.
 
 ## Đọc thêm
 
-- [Quá trình chuyển đổi dân chủ Đài Loan](/History/台灣民主轉型) — Từ thiết quân luật tới dân chủ hoá, bối cảnh lớn hơn của việc sinh ra Nghị quyết về tương lai Đài Loan
-- [Bầu cử Đài Loan và Chính trị Đảng](/History/台灣選舉與政黨政治) — Cách thay đổi đường lối của Đảng Dân chủ Tiến bộ ảnh hưởng đến chính trị bầu cử của Đài Loan
-- [Sự kiện Đảo Đẹp](/History/美麗島事件) — Điểm khởi đầu của bô quản chính trị hai mươi lăm năm của Thi Minh Đức, hiểu rõ bối cảnh lịch sử của phong trào ngoài hiến pháp
-- [Cuộc Khủng hoảng Eo biển Đài Loan và Phát triển Quan hệ Hai bờ eo biển](/History/台海危機與兩岸關係發展) — Làm thế nào Cuộc Khủng hoảng Eo biển năm 1996 thúc đẩy Đảng Dân chủ Tiến bộ thực tế hoá
+- [Quá trình dân chủ hoá Đài Loan](/vi/history/taiwan-democratization) — Từ trạng thái khẩn cấp đến dân chủ hoá, bối cảnh lớn hơn cho sự ra đời của Bản quyết định Tương lai
+- [Bầu cử và chính trị đảng phái của Đài Loan](/vi/history/taiwan-elections-and-party-politics) — Cách sự chuyển đổi hướng đi của Đảng Dân tiến ảnh hưởng tới chính trị bầu cử của Đài Loan
+- [Sự kiện Đài Loan Đẹp](/vi/history/kaohsiung-incident-formosa-incident) — Điểm khởi đầu cho hai mươi lăm năm nhà tù chính trị của Thạch Minh Đức, nền tảng lịch sử cho phong trào ngoại viện
+- [Khủng hoảng biển Đông và sự phát triển quan hệ hai bờ eo biển](/vi/history/taiwan-strait-crises-and-cross-strait-relations) — Cách khủng hoảng biển Đông năm 1996 thúc đẩy sự thực tế hoá của Đảng Dân tiến

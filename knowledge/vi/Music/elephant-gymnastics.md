@@ -1,15 +1,15 @@
 ---
-title: 'Elephant Gym: ban nhạc ba người Đài Loan không có ca sĩ nhưng nghe rõ tiếng hát'
-description: 'Từ những học sinh tại các câu lạc bộ nhạc rock nóng Đài Bắc Cao Sư Phạm và Nữ Sinh Cao Hùng, đến sân khấu chính Fuji Rock, Camp Flog Gnaw, ArcTangent, Elephant Gym đã dành 13 năm để thế giới nghe thấy giọng nói của một ban nhạc ba người từ Đài Loan không có ca sĩ chính. Sau khi giành được Giải thưởng Ban giám khảo Lần thứ 35 Giải thưởng Âm nhạc Vàng năm 2024, họ công bố rằng sẽ bước vào một giai đoạn nghỉ dài; bộ phim tài liệu cùng thời điểm "*Thực tế hơn cả giấc mơ*" tiết lộ tình huống sắp tan rã trước khi xuất hiện trên thế giới vào năm 2023.'
+title: 'Đại Tượng Tử Cửu: Nhóm Tam Người Được Nghe Thấy Nhưng Không Có Ai Hát ở Đảo Bắc'
+description: 'Từ ban nhạc học sinh của Học viện Đại học Thượng Hải và Học viện Đại học Hoa Nho, cho tới sân khấu đỏ tại Fuji Rock, Camp Flog Gnaw và ArcTangent, Đại Tượng Tử Cửu dành 13 năm để thế giới nghe thấy một tiếng nói miền Đảo Bắc không có ca sĩ chính. Sau khi giành giải của Hội đồng bình duyệt Kim Nhạc vào năm 2024, họ công bố nghỉ nhóm lâu dài; phim tài liệu đồng thời ra mắt là《Thực tế Hơn Giấc Mơ》, hé lộ khoảnh khắc gần chia ly trước chuyến biểu diễn quanh năm 2023.'
 date: 2026-06-18
 category: 'Music'
 tags:
   [
-    'ban nhạc',
-    'math rock',
+    'Ban nhạc',
+    'Nhạc rock toán học',
     'instrumental',
-    'Cao Hùng',
-    'lưu diễn quốc tế',
+    'Hải Châu',
+    'Biểu diễn quốc tế',
     'Topshelf',
     'Fuji Rock',
     'SXSW',
@@ -27,347 +27,343 @@ imageCredit: 'TurquoiseGoose / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Elephant_Gym_Portland_2024.jpg'
 translatedFrom: 'Music/大象體操.md'
-sourceCommitSha: '8547b2665'
-sourceContentHash: 'sha256:7b6c098933713fcd'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:f9e17206eee03c4e'
 sourceBodyHash: 'sha256:b2179659aae39566'
-translatedAt: '2026-08-09T09:26:48+08:00'
+translatedAt: '2026-10-10T03:05:14.818698+00:00'
 ---
 
-# Elephant Gym: ban nhạc ba người Đài Loan không có ca sĩ nhưng nghe rõ tiếng hát
+# Đại Tượng Thể Cổ: Nhóm ba người của Đài Loan ai cũng nghe thấy nhưng không ai hát
 
-![Elephant Gym biểu diễn tại Portland, Oregon, Hoa Kỳ vào tháng 3 năm 2024](/article-images/music/elephant-gym-portland-2024.webp)
-_Tháng 3 năm 2024, Elephant Gym biểu diễn tại Portland, Oregon. Ảnh chụp bởi TurquoiseGoose, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Elephant_Gym_Portland_2024.jpg)（[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）._
+![Đại Tượng Thể Cổ trên sân khấu tại Portland, bang Oregon, Hoa Kỳ vào tháng 3 năm 2024](/article-images/music/elephant-gym-portland-2024.webp)
+_Tháng 3 năm 2024, Đại Tượng Thể Cổ biểu diễn tại Portland, bang Oregon, Hoa Kỳ. Ảnh: TurquoiseGoose, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Elephant_Gym_Portland_2024.jpg) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))_
 
-> **Tổng quan 30 giây:** Elephant Gym là ban nhạc rock ba người từ Đài Loan không có ca sĩ chính. Anh trai Trương Khải Tường (Tell) chơi guitar, em gái Trương Khải Tình (KT) chơi bass, học em Đồ Gia Khâm đánh trống, được thành lập vào tháng 2 năm 2012 ở Cao Hùng[^1]. Họ đặt bass vào vị trí giai điệu chính, vượt qua giới hạn ngôn ngữ của giọng hát tiếng Hoa trên thị trường quốc tế. Trong 13 năm, họ đã lên sân khấu chính Fuji Rock, Camp Flog Gnaw (do Tyler the Creator chủ trì), SXSW ba lần, ArcTangent ở Anh, và ký hợp đồng với hãng indie Hoa Kỳ Topshelf. Tháng 6 năm 2024 đạt giải Ban giám khảo lần thứ 35 của Giải thưởng Âm nhạc Vàng, tháng 11 tuyên bố "bước vào một giai đoạn nghỉ dài" tại buổi diễn chính ở Đài Bắc[^2]. Bộ phim tài liệu "_Thực tế hơn cả giấc mơ_" tiết lộ vào lúc tương tự rằng năm 2023, ngay trước khi bắt đầu lưu diễn thế giới, họ đứng trên bờ vực tan rã.
+**30 giây tổng quan:** Đại Tượng Thể Cổ là một ban nhạc rock ba thành viên không có ca sĩ chính từ Đài Loan. Anh trai Zhang Kai-Hsiang chơi guitar, em gái Zhang Kai-Ting (KT) chơi bass, và học sinh năm sau Tuất Chiến trống, thành lập tại Hải Châu vào tháng 2 năm 2012[^1]. Họ đưa chiếc bass lên vị trí giai điệu chính, vượt qua rào cản ngôn ngữ của giọng ca tiếng Trung trong thị trường quốc tế. Trong 13 năm, họ đã lên sân khấu chính Fuji Rock, Camp Flog Gnaw do Tyler the Creator tổ chức, SXSW ba lần, Anh và ArcTangent, và ký hợp đồng với nhà đĩa indie Mỹ là Topshelf. Vào tháng 6 năm 2024, họ giành giải ủy ban bình duyệt của lần thứ 35 Giải Nhạc Đài Loan, và vào tháng 11 tại sân khấu cửa hàng hiệu trương tại Đài Bắc, họ thông báo "bước vào một giai đoạn nghỉ ngời kéo dài"[^2]. Bộ phim tài liệu _So với giấc mơ thì thật_ đồng thời tiết lộ rằng vào thời điểm tiếp cận thế giới tour trước năm 2023, họ đang ở ngưỡng cửa giải thể.
 
 ---
 
-Này, bạn có biết không, Đài Loan có một ban nhạc, khi biểu diễn toàn bộ ca khúc tại sân khấu chính Fuji Rock ở Nhật, những người nghe—ba, bốn ngàn người khán giả từ đầu đến cuối không nghe thấy một câu lời nào.
+Ồ, bạn có biết không, có một ban nhạc ở Đài Loan, khi biểu diễn trọn bộ trên sân khấu chính Fuji Rock ở Nhật Bản, dưới sân khấu ba, bốn ngàn người xem không hề nghe được một lời nào.
 
-Đó không phải lỗi biểu diễn. Ban nhạc của họ từ đầu đã không có ca sĩ chính.
+Đó không phải là sự cố biểu diễn. Ban nhạc của họ thực sự không có ca sĩ chính.
 
-## Không có ca sĩ chính của ban nhạc rock
+## Nhóm nhạc rock không có ca sĩ
 
-Lần đầu tiên nghe Elephant Gym, người ta thường làm một việc trong 15 giây đầu: tìm vị trí ca sĩ trong tâm trí.
+Lần đầu tiên nghe đến Đại Tượng Thể Cổ, người ta thường làm một điều: tìm vị trí của ca sĩ trong đầu mình.
 
-Người nghe nhạc pop Đài Loan được huấn luyện thành "bắt giọng trước, rồi xác định phong cách sau đó". Ngay khi Elephant Gym phát, bass mở đầu đã chạy trên giai điệu chính. Bass đó không chạy theo con đường hỗ trợ tần số thấp truyền thống, mà là một dòng sáng trên các phím cao, gần như đứng ở vị trí hát. Trống ở dưới đó phân tích nhịp điệu, guitar bổ sung hợp âm đối vị. Khi bạn nghe xong bài "Underwater (Dưới nước)", bạn sẽ phát hiện ra rằng "ca sĩ" thực sự luôn ở đó, chỉ là nó thay đổi một cây đàn để phát ra âm thanh[^3].
+Người Việt Nam nghe nhạc pop được rèn luyện thói quen "săn lùng giọng ca trước khi phân biệt phong cách". Khi âm thanh của Đại Tượng Thể Cổ vang lên, ngay từ những giây đầu tiên, bản bass đã bắt đầu chạy theo giai điệu. Dây bass ấy không đi theo lộ trình hỗ trợ tần số thấp truyền thống, mà là những đường nét sáng bén ở vị trí cao, gần như chiếm chỗ của người ca vẹ. Trống phân tích nhịp điệu, guitar bổ sung đồng âm. Khi bạn nghe xong câu ca "<Underwater>" (dưới nước), bạn sẽ nhận ra "ca sĩ" luôn ở đó — chỉ là giọng nói của nó đã chuyển sang một nhạc cụ khác[^3]。
 
-Cách chơi bass của KT là hiếm gặp trong các ban nhạc Đài Loan. Bass rock truyền thống chạy theo nốt gốc, nhảy một octave, kéo quint, đưa nhịp điệu cho bộ trống. Tay trái của KT thường di chuyển gần thứ 9 đến thứ 14 phím, tay phải gảy một âm sắc sáng và sạch sẽ theo phong cách finger style, tầm tần số đó gần với Jaco Pastorius của nhạc jazz, Victor Wooten—phong cách bass giai điệu. Nguồn gốc huấn luyện của cô thực ra là nhạc cổ điển và sáo, sau đó mới chuyển sang bass, con đường phi điển hình này lại giúp cô hiểu "giai điệu" trước "nhịp điệu".
+Cách chơi của KT trong số các ban nhạc ở Đài Loan là điều hiếm thấy. Bass rock truyền thống đi theo nốt gốc, nhảy bốn tám, trượt năm thứ, để nhịp cho ban trống. Tay trái của KT thường xuyên di chuyển ở khu vực thứ 9 đến thứ 14, tay phải dùng kỹ thuật finger style để tạo ra âm thanh sạch sẽ và sáng bén, phạm vi âm thanh này gần giống với phong cách bass giai điệu của Jaco Pastorius, Victor Wooten. Nguồn đào tạo thực sự của cô là nhạc cổ điển và sáo thổ, sau đó mới chuyển sang bass. Con đường phi thường này lại khiến cô hiểu "giai điệu" trước "nhịp".
 
-Khải Tình tự giải thích thiết kế này: "Ba chúng tôi đều có rất nhiều điều muốn nói, nói thẳng qua cây đàn của mình, chứ không phải ca sĩ, thay vào đó còn có thể thể hiện suy nghĩ của ba người."[^4]
+Chính Kỹ Thăng tự giải thích thiết kế này: "Ba chúng tôi đều có nhiều điều muốn nói, trực tiếp thể hiện qua chính nhạc cụ của mình, thay vì thông qua ca sĩ, sự khác biệt này lại giúp ba người truyền tải rõ rệt hơn những suy nghĩ riêng của mỗi người."[^4]
 
-Sự va chạm trong thói quen nghe này lại nhanh chóng được các nhà phê bình âm nhạc quốc tế hiểu. Báo Hồng Kông South China Morning Post viết vào tháng 8 năm 2014 một câu lời truyền tải rộng rãi: "Math rock is typically a technical, complex and somewhat intense genre, but Taiwanese trio Elephant Gym add a touch of cuteness to the equation."[^5] Tờ Pitchfork của Hoa Kỳ trong bài phê bình "Dreams (Giấc mơ)" dùng chữ sublime: "Like the music of L'Rain or Ryley Walker, it's as close to jazz as rock: virtuosity not as a means of showing off, but approaching the sublime."[^6]
+Sự va chạm trong thói quen nghe nhận biết này, trên thực tế đã được các nhà phê bình quốc tế nhanh chóng "get" hơn là ở Đài Loan. Bài báo Hong Kong South China Morning Post vào tháng 8 năm 2014 viết một câu nói lan truyền rộng rãi: "Math rock thường là thể loại kỹ thuật, phức tạp và hơi căng thẳng, nhưng bộ ba Đài Loan Elephant Gym lại thêm một chút dễ thương vào phương trình."[^5] Pitchfork của Mỹ trong bài đánh giá album "<Dreams>" (giấc mơ) đã dùng từ sublime: "Như nhạc của L'Rain hay Ryley Walker, đây là nhạc rock gần nhất với jazz: sự tài năng không phải để khoe khoang, mà để tiến tới sự tuyệt đẹp."[^6]
 
-Cụm từ "math rock" được dịch sang tiếng Việt thành "math rock" (nhạc rock toán học), có nguồn gốc từ cuối những năm 1980 ở Hoa Kỳ với Slint và Don Caballero, đặc trưng là biệt lệ nhịp (7/8, 11/8), tạm dừng bất quy tắc, đối vị[^7]. Nghe có vẻ như nhạc của những anh chàng kỹ thuật, nhưng giọng nói của Elephant Gym lại mềm mại một cách bất ngờ, bass của KT sáng, trống của Gia Khiêm sạch, guitar của Khải Tường thường rút lại nền tảng bổ sung màu sắc, tổng thể nghe có cảm giác hô hấp của jazz fusion. Khi đi xem họ biểu diễn trực tiếp, bạn sẽ thấy một điều đặc biệt: khi chuyển đổi nhịp điệu phức tạp, ba người sẽ nhìn vào nhau. Cái nhìn đó là cách họ sắp xếp các phần 7/8 và 11/8, quay âm thanh có thể sử dụng click để sắp xếp, trực tiếp chỉ có thể dựa vào ký ức cơ bắp cộng với mắt, 13 năm sự hiểu biết được thực hành như vậy.
+"Math rock" khi dịch sang tiếng Việt là "rock toán học", nguồn gốc có thể truy nguyên về những năm cuối của thập niên 1980 ở Mỹ với Slint và Don Caballero, đặc trưng là nhịp không đối xứng (7/8, 11/8), dừng lại không đều, và kỹ thuật đồng âm[^7]. Nghe có vẻ như là âm nhạc của người chuyên ngành, nhưng âm thanh của Đại Tượng Thể Cổ lại bất ngờ mềm mại. Bass của KT sáng bén, trống của Tống Giác khô khoái, guitar của Hồ Tiên thường xuyên rút về phía sau để bổ sung màu sắc, tổng thể lại mang lại cảm giác thở của jazz fusion. Khi đến xem trực tiếp, bạn sẽ thấy một điều đặc biệt: khi nhịp phức tạp chuyển đổi, ba người sẽ nhìn nhau. Ánh mắt đóng bài ấy là cách họ đồng bộ hóa các đoạn 7/8 và 11/8 — bản ghi âm có thể dựa vào click để đồng bộ, nhưng trực tiếp chỉ có thể dựa vào bộ nhớ cơ hội và ánh mắt. 13 năm sự hợp tác là như thế này mà luyện tập ra.
 
-Spotify sau đó đã chọn họ làm nhạc sĩ bìa cho danh sách "Math Rock" toàn cầu[^8]. Một ban nhạc Đài Loan trở thành khuôn mặt trực quan của Spotify để giải thích cho toàn thế giới math rock là gì, nếu chuyện này xảy ra vào đầu những năm 2010 sẽ là khoa học viễn tưởng.
+Spotify sau này trực tiếp chọn họ làm biểu tượng cho danh sách nhạc Math Rock toàn cầu[^8]. Một ban nhạc từ Đài Loan trở thành khuôn mặt trực quan mà Spotify dùng để giải thích với thế giới điều gì là rock toán học — nếu chuyện này xảy ra vào đầu những năm 2010 thì chắc chắn sẽ như một câu chuyện khoa học viễn tưởng.
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/HW367HtrXE0" title="Elephant Gym on Audiotree Live (Full Session)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/HW367HtrXE0" title="Đại Tượng Thể Cổ trên Audiotree Live (Toàn bộ phiên bản)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-_Ngày 8 tháng 4 năm 2019, toàn bộ phiên Audiotree Live của Elephant Gym được ghi lại ở Chicago, năm bài hát: "Underwater (Dưới nước)", "Finger (Ngón tay)", "Head & Body (Đầu & Thân thể)", "Mưa mùa xuân", "Galaxy (Thiên hà)"[^9]. Audiotree tự giới thiệu như sau: "technical, agile tunes with irregular rhythms and off kilter song constructions."_
+_8 tháng 4 năm 2019, Đại Tượng Thể Cổ thu âm toàn bộ phiên bản tại Audiotree Live ở Chicago, năm bài: "<Underwater>", "<Finger>", "<Head & Body>", "<Mưa Xuân>", "<Galaxy>"[^9]. Điệu giới thiệu của chính Audiotree viết: "technical, agile tunes with irregular rhythms and off kilter song constructions."_
 
-## Anh em và học em
+## Anh, chị và kỵ thích
 
-Bộ sưu tập inbox thường viết đây là một "ba anh chị em". Thực ra không phải.
+Hộp thư của inbox thường ghi nhãn nhóm này là «ba anh chị em». Thực ra thì không.
 
-Trương Khải Tường (Tell) và Trương Khải Tình (KT) mới là anh em ruột, người đánh trống Đồ Gia Khâm là học em của Khải Tường tại Trường Cao Sư Phạm Cao Hùng[^10]. Ba người gặp nhau ở Cao Hùng. Khi Khải Tường làm chủ tịch câu lạc bộ nhạc rock nóng ở Trường Cao Sư Phạm, anh đã đặt ra một quy tắc, "phải có những bài hát sáng tác ban đầu mới được lên sân khấu", học em Gia Khâm chính là những người lớn lên trong phòng câu lạc bộ đó[^11]. Em gái Khải Tình thì ở câu lạc bộ nhạc rock nóng bên cạnh ở Trường Nữ Sinh Cao Hùng.
+Chương Cao Tĩnh (Tell) và Chương Cao Đình (KT) mới là anh chị em, với cao thủ trống là Tố Gia Tân — kỵ thích của Tĩnh khi còt ở trường trung học phổ thông Đại học Khánh Hào (Kaohsiung Senior High School)[^10]. Ba người gặp nhau tại Kaohsiung. Khi Tĩnh làm chủ tịch câu lạc bộ âm nhạc của trường, anh đưa ra một quy tắc: «phải sáng tạo ra những giai điệu riêng mới được lên sân khấu», và kỵ thích Tố Gia Tân đã lớn lên trong môi trường đó[^11]. Còn em gái Đình thì ở câu lạc bộ âm nhạc bên kề cạnh — Hổ Nam.
 
-Ba người này được kết nối lại bởi một hệ sinh thái nhỏ của các câu lạc bộ nhạc rock nóng trung học phổ thông ở Cao Hùng. Trường Cao Sư Phạm Cao Hùng và Trường Nữ Sinh Cao Hùng ở cách nhau vài con phố trong khu vực Văn Sơn, từ luyện tập, biểu diễn đến lập tổ chức, học sinh đã có giao điểm từ thời học sinh. Sau đó, Cao Hùng xuất hiện Elephant Gym, các lò Huỷ Minh Yêu, các lò Thiển Đò, Crispy, Ghế tựa, Ba Lại và nhiều tổ chức khác, tất cả đều có quan hệ với mạng lưới câu lạc bộ nhạc rock này.
+Điều kết nối ba người này chính là môi trường nhỏ bé của các câu lạc bộ âm nhạc THPT ở Kaohsiung. Trường Đại học Khánh Hào và Hổ Nam cách nhau vài con phố ở khu vực Văn Sơn, từ việc luyện tập cho tới biểu diễn, họ thường xuyên gặp gỡ và kết nối. Sau này ở Kaohsiung xuất hiện nhiều ban nhạc nổi tiếng như Bách Tĩnh, Dịch Hỏa, Thấu Tĩnh, Crispy, Ghế, Bảo Lai… và tất cả đều có liên kết với mạng lưới câu lạc bộ âm nhạc này.
 
-Mẹ là giáo viên âm nhạc, chuyên về thanh nhạc và piano[^12]. Hai anh em từ nhỏ được đẩy vào huấn luyện nhạc cổ điển: Khải Tình từ mầm non tiếp xúc với sáo, violin, piano, guitar dân gian[^13], Khải Tường cũng chơi piano hồi nhỏ, sau đó mới chuyển sang guitar; Gia Khâm bắt đầu học nhạc cụ gõ từ lúc bốn tuổi, học nhạc cụ gõ cổ điển trong mười năm[^14]. Ba người đều có nền tảng âm nhạc xuất phát từ nhạc cổ điển, không phải rock. Hoàn cảnh này quyết định cách giọng nói của họ phát triển như thế nào: đối với nhịp điệu, đối với đối vị, đối với sự phát triển hợp âm có sự hoàn hảo ám cự kiểu huấn luyện nhạc cổ điển.
+Mẹ là giáo viên âm nhạc, chuyên về thanh nhạc và đàn piano[^12]. Anh chị em Tĩnh và Đình từ nhỏ bị đưa vào lớp đào tạo nhạc cổ điển: Đình từ mẫu giác đã tiếp xúc với sáo thép, đàn violin, đàn piano, đàn guitar dân gian[^13]; Tĩnh cũng từng chơi đàn piano, sau đó chuyển sang đàn guitar; còn Tố Gia Tân thì bắt đầu học đàn trống ở năm bốn tuổi, học được mười năm nhạc trống cổ điển[^14]. Ba người đều có nền tảng âm nhạc từ sự khởi nguồn của nhạc cổ điển, chứ không phải nhạc rock. Định mệnh này quyết định cách âm thanh của họ sau này phát triển: họ có một sự khắt khe đến mức “bệnh” về nhịp điệu, về kỹ thuật đối lập và về hướng đi của hàr mon — đều đến từ sự huấn luyện nhạc cổ điển.
 
-Ba người sau đó đều lên học đại học ở Đài Bắc. Khải Tường học Phát thanh Truyền thông Đại học Chính Trị (học năm năm), Khải Tình học Xã hội ở Đại học Quốc gia Đài Bắc, Gia Khâm học tại Đại học Chính Trị[^15]. Thời gian lên Đài Bắc vừa trùng khớp với thành lập (tháng 2 năm 2012[^1]), những cảnh luyện tập ban đầu của Elephant Gym, gần như là ba học sinh bay từ Cao Hùng lên Đài Bắc học thêm, trong một căn nhà tranh ở gần Đại học Chính Trị, luyện tập đến nửa đêm. Về cách tên nhóm ra đời, Khải Tường vào năm 2026 tự tiết lộ một phiên bản vui nhộn hơn. Ban đầu Khải Tình đề xuất "Anh em tổ chức tiệc nước mia lên men", nam sinh cảm thấy quá xấu hổ từ chối; Gia Khâm được lấy cảm hứng từ "Thể dục" của Gan Suet Mei đề xuất "Thể dục"; Khải Tình lại đưa ra "Thể dục gà con", "đàn ông không bao giờ có thể chấp nhận được gọi là gà con" cũng bị từ chối; sau đó không biết cách nào, họ nghĩ tới cảnh trong "_Shin-chan_" (Crayon Shin-chan) khi Shin vẽ bộ phận sinh dục thành một con voi, đặt tên là "Elephant Gym"[^16].
+Ba người sau cùng đều lên Bắc Kinh học đại học. Tĩnh học trường Thương mại Đông Đông (học mãi năm năm), Đình học Đại học Quốc gia Đông Đông, Tố Gia Tân học trường Thương mại Đông Đông[^15]. Thời điểm lên Bắc Kinh trùng khớp với thời gian thành lập ban nhạc (tháng 2 năm 2012[^1]), và những cảnh quay luyện tập ban đầu của Bách Tĩnh, gần như là ba người học sinh bay từ Kaohsiung lên Bắc Kinh, tìm một tòa nhà thép ở gần trường Thương mại Đông Đông để luyện tập đến khuya.
 
-Khải Tường tự đánh giá: "Sự thật chỉ là một câu chuyện rất sai lệch."[^16]
+Về cách đặt tên ban nhạc, phiên bản kể của Tĩnh năm 2026 thì thú vị hơn. Ban đầu Đình gợi ý «bữa tiệc rượu dâu», nhưng các chàng trai thấy quá ngại ngùng nên từ chối; Tố Gia Tân lấy cảm hứng từ tên tàu thương mại Sweet Mountain «Thể dục» đề xuất «Thể dục»; Đình lại đưa ra «Gà con thể dục», và «chàng trai tuyệt đối không thể chấp nhận tên gà con» cũng bị từ chối; cuối cùng không biết ai nhớ ra câu chuyện trong truyện tranh Crayon Shin-chan là Shin-chan vẽ bộ phận sinh dục của mình thành hình con voi, nên đặt tên là «Bách Tĩnh Thể dục»[^16].
 
-Giải thích chính thức dành cho công chúng tất nhiên không phải là phiên bản này. Wikipedia ghi rằng "voi" tượng trưng cho giai điệu được bass dẫn dắt, "gym" đề cập đến các nhịp điệu đặc biệt trong bài hát[^17]. Cả hai phiên bản đều lấy, sẽ hoàn chỉnh hơn.
+Tĩnh tự đánh giá: «Sự thật là một câu chuyện khá lệch lối.»[^16]
 
-## Lần đầu tiên nghỉ tạm
+Tuy nhiên, giải thích chính thức bên ngoài không phải là phiên bản này. Wikipedia ghi nhận là «Bách Tĩnh» biểu tượng cho giai điệu được thúc đẩy bởi bass, «gym» chỉ đến nhịp điệu đặc biệt trong bản nhạc[^17]. Hai phiên bản đều được chấp nhận, để có câu chuyện đầy đủ hơn.
 
-Nhiều người tưởng rằng việc công bố năm 2024 là lần đầu tiên Elephant Gym nghỉ tạm. Thực ra không phải.
+## Lần đầu giải thể nhóm
 
-Tháng 6 năm 2014, họ phát hành album đầu tiên "_Góc nhìn Angle_". Hậu kỳ sản xuất bay sang Nhật Bản, tìm được Minō Takaakinari, người chơi guitar của ban nhạc toe, để trộn âm thanh và làm master[^18]. Sự hợp tác này sau đó trở thành điểm kết nối giữa Elephant Gym và thẩm mỹ của toe, từ tháng 8 năm 2014 trở đi họ bắt đầu chạy tour lưu diễn châu Á qua Trung Quốc, Hồng Kông, Đài Loan, Nhật Bản, Malaysia, Singapore. Việc gửi bản trộn của album đầu tiên cho người chơi guitar của toe, một cuốn sách giáo khoa cấp độ toàn cầu của math rock ở Nhật Bản, chính quyết định này đã công khai tuyên bố: chúng tôi không phải là ban nhạc muốn làm cho thị trường tiếng Hoa.
+Nhiều người cho rằng năm 2024, đây là lần đầu tiên Đại Tượng Thể Cổ tuyên bố giải thể. Thực ra thì không phải.
 
-Sau đó vào tháng 11 năm 2014, họ công bố sẽ nghỉ tạm. Lý do rất đơn giản: những anh chàng phải đi lính.
+Vào tháng 6 năm 2014, họ ra mắt album đầu tiên «Góc Độ Angle»[^18]. Sau khi sản xuất tại Nhật Bản, họ tìm đến Mễ Nhiên (美濃隆章) – người chơi đàn guitar của toe để hợp tác pha trộn và tạo bản ghi âm gốc. Kết quả hợp tác này sau này trở thành điểm nối giữa Đại Tượng Thể Cổ và thẩm mỹ của toe; từ tháng 8 năm 2014, họ bắt đầu lên đường toàn lụt về các thị trấn ở khu vực Đài Loan, Hồng Kông, Macau, Nhật Bản, và châu Á. Việc trao cho toe – tượng trưng cho giáo trình đàn guitar math rock hàng đầu Nhật Bản – việc pha trộn album đầu tiên, quyết định này tự nhiên trở thành một tuyên bố: Chúng tôi không phải là một ban nhạc của thị trường tiếng Việt.
 
-Buổi biểu diễn cuối cùng có tên gọi "See You Then" (Hẹn gặp lại), tháng 2 năm 2015. Năm 2016 Khải Tường xuất ngũ trở về Cao Hùng tiếp tục làm âm nhạc[^19]. Cùng năm tháng 8, họ nhận lời mời tham gia Summer Sonic ở Chiba, Nhật Bản, phiên bản Nhật Bản của "_Góc nhìn_" phát hành cùng thời điểm[^20]. Lần nghỉ tạm vừa kết thúc là bị đẩy vào một trong những lễ hội âm nhạc lớn nhất ở Nhật Bản, tốc độ này là hiếm gặp trong lịch sử indie ra quốc tế của Đài Loan.
+Sau đó vào tháng 11 năm 2014, họ công bố việc giải thể nhóm. Lý do rất đơn giản: các thành viên nam cần phải nhập ngũ.
 
-Khải Tường năm 2016 trở về Cao Hùng nói rằng một câu: "Những gì tôi thực sự muốn làm có thể là cây cầu."[^21] Sự quyết tâm của ban nhạc đối với cảnh Nhật Bản bắt đầu từ album đầu tiên, những lần hợp tác tiếp theo với toe, Kuroda Seiji, Flake Sounds, cinema staff đều theo dõi con đường này. Khải Tường khi còn là sinh viên năm nhất đã thành lập "Thiển Động Âm Nhạc Văn Nghệ Trại" tại Đại học Chính Trị, đến năm 2026 đã chạy đến lần thứ mười, nuôi dạy Thiển Đò, Khói Mưa Trôi Nổi, DSPS và nhiều ban nhạc indie thế hệ mới của Đài Loan khác, công việc kết nối có hệ thống đó là điều anh đã làm từ khi còn ở đại học.
+Buổi biểu diễn cuối cùng mang tên «See You Then», diễn ra vào tháng 2 năm 2015. Năm 2016, Thái Anh Văn (Kai-Hsiang) trở về từ quân ngũ ở Kaohsiung và tiếp tục hoạt động âm nhạc[^19]. Vào tháng 8 cùng năm, họ được mời tham dự Summer Sonic tại Chiba, Nhật Bản, đồng thời album «Góc Độ» phiên bản Nhật Bản cũng được phát hành cùng lúc[^20]. Chỉ ngay sau khi giải thể nhóm, họ đã được đưa ngay vào một trong những lễ hội âm nhạc lớn nhất Nhật Bản, tốc độ này hiếm có trong lịch sử phát triển của âm nhạc độc lập Đài Loan ra thế giới.
 
-Năm 2014 cũng là thời điểm họ hợp tác với Lâm Dự Gia (Lin Youjia). Là khách mời đặc biệt của "_Hình dạng của miệng_", không phải "_Nói dối_" như thường được ghi nhận sai[^22]. Sân khấu Hồng Kông Hồng Kông, Đài Bắc Bảo Tàng Tâm Thiện, cả ba người của họ đã có mặt. Lâm Dự Gia dùng một ban nhạc instrumental ba người làm khách mời đặc biệt, lựa chọn này cũng là một dấu hiệu thú vị trong âm nhạc pop tiếng Hoa năm 2014.
+Sau khi Thái Anh Văn trở lại Kaohsiung vào năm 2016, anh từng nói: “Điều tôi muốn làm nhất có lẽ là trở thành cây cầu nối.”[^21] Sự kiên trì của nhóm đối với phòng khán giả Nhật Bản đã bắt đầu từ album đầu tiên; sau này, hợp tác với toe, Trần Tiển Chí (Turtle Sounds), Flake Sounds, và cinema staff đều nằm trong dòng chảy này. Khi còn là sinh viên năm nhất, Thái Anh Văn đã thành lập “Thẩm mỹ âm nhạc Thiên Lý” (Shallow Music Arts Camp) tại Đại học Quốc gia Kinh tế Chính trị Đài Loan; đến năm 2026, chương trình đã đạt đến lần thứ mười, nuôi dưỡng thế hệ trẻ mới của âm nhạc độc lập Đài Loan như Trần Thái, Khói Hơi Mưa, DSPS... Công việc kết nối hệ thống này là điều anh đã bắt đầu từ khi còn là sinh viên.
 
-## 30 phút trên sân khấu đỏ Fuji Rock
+Năm 2014 cũng là thời điểm họ hợp tác với Lin Hữ Kiệt (林宥嘉). Họ là khách mời đặc biệt trong chương trình «Hình Dạng Miệng», không phải như thường bị nhầm lẫn với «Nói Dối»[^22]. Trên sân khấu ở Hồng Kỳ (Hong Kong Coliseum) và nhỏ hơn ở Thượng Hải (Taipei), họ từng xuất hiện cùng ba người. Việc Lin Hữ Kiệt mời một nhóm instrumental ba người làm khách mời đặc biệt, trong bối cảnh nhạc pop tiếng Việt năm 2014, cũng là một dấu mốc đáng chú ý.
 
-Từ ngày 31 tháng 7 năm 2022, thứ Bảy, ngày cuối cùng của Fuji Rock, Naeba Ski Resort tại Echigo Yuzawa, Niigata.
+## Fuji Rock: 30 phút trên sân khấu đỏ
 
-Elephant Gym đứng trên Red Marquee, đây là sân khấu thứ ba lớn nhất của Fuji Rock, có thể chứa năm, sáu ngàn người[^23]. Ban đầu họ được mời năm 2020, covid trì hoãn hai năm, năm 2022 mới thực sự bước lên sân khấu. Cùng kỳ có một ban nhạc khác cũng từ Cao Hùng cũng lên sân khấu Fuji Rock: Huỷ Minh Yêu (Chaoticorder). Hai ban nhạc miền Nam cùng năm đứng vào lễ hội nhạc rock lớn nhất ở Nhật Bản, cảnh tượng này không phổ biến trong lịch sử indie của Đài Loan.
+Ngày 31 tháng 7 năm 2022, Chủ Nhật, ngày cuối cùng của Fuji Rock tại khu núi trượt tuyết Niigata Yuzawa Nozawa.
 
-Fuji Rock ở trong tâm indie music fans Đài Loan là vị trí đặc biệt. Từ năm 1999 trở đi tổ chức ở Naeba Ski Resort nước Niigata, mỗi năm tháng 7 cuối cùng hút mười vạn người ở lại ba ngày trong chiếc núi đó. Ban nhạc Đài Loan có thể đứng trên sân khấu chính và biểu diễn toàn bộ ca khúc, đếm được không đến một bàn tay. Từ góc độ này, chiều 31/07/2022 đó 30 phút là một điểm tọa độ trong lịch sử indie Đài Loan.
+Đại Tượng Thể Cổ đã trình bày tại Red Marquee, đây là sân khấu thứ ba của Fuji Rock, có sức chứa khoảng năm đến sáu ngàn người[^23]。 Ban đầu họ đã được mời từ năm 2020, nhưng do đại dịch covid kéo dài hai năm, đến năm 2022 họ mới thực sự lên sân khấu. Cũng trong cùng năm, một nhóm khác từ Kaohsiung cũng tham gia Fuji Rock: Mịch Hỏa Kỵ. Hai nhóm từ Nam Bộ cùng lên sân khấu tại lễ hội âm nhạc rock lớn nhất Nhật Bản trong một năm, hình ảnh này không phổ biến trong lịch sử indie của Đài Loan.
 
-Đó là chiều mưa nhẹ. Khải Tường nói trên sân khấu:
+Fuji Rock chiếm một vị trí đặc biệt trong lòng các fan indie ở Đài Loan. Từ năm 1999, lễ hộu được tổ chức tại khu núi trượt tuyết Niigata Yuzawa Nozawa, thu hút khoảng 100.000 người đến tham dự trong ba ngày tại khu núi. Số lượng các nhóm Đài Loan có thể trình bày toàn bộ bản nhạc trên sân khấu chính là không nhiều. Từ góc độ này, 30 phút vào buổi chiều ngày 31/7/2022 là một điểm mốc quan trọng trong lịch sử indie của Đài Loan.
 
-> "Thật vinh dự được tới Fuji Rock, tôi thực sự tận hưởng cảm giác có thể tận hưởng nhân loại, âm nhạc và đoàn kết với mọi người tại lễ hội âm nhạc" "Hy vọng rằng khi gặp những điều tiêu cực, bất kể là chiến tranh hay dịch bệnh, đừng quên những điều bạn tin tưởng"[^24]
+Đó là một buổi chiều mưa nhỏ. KT trên sân khấu nói lên lời:
 
-Mùa hè đó cách đây mười tháng từ khi Nga xâm lược Ukraina, covid vẫn chưa rời khỏi hoàn toàn. Từ miệng một ban nhạc rock ba người Đài Loan không có ca sĩ chính, bình luận này đột nhiên trở nên rất cụ thể.
+> 「Được tham dự Fuji Rock là một sự vinh dự lớn, tôi rất thích thú khi được thưởng thức cuộc sống, âm nhạc và cảm giác đoàn tụ cùng mọ người trong lễ hội」「Hy vọng mọ người khi đối mặu với những điều tiêu cực, dù là chiến tranh hay đại dịch, cũng đừng bao giờ quên những điều mình tin tưởng」[^24]
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/jDDy-Vh55to" title="大象體操 Elephant Gym -〈水底 Underwater〉Official MV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Khoảng thời gian đó, chỉ năm tháng năm sau khi Nga xâm lược Ukraine, và covid vẫn chưa hoàn toàn tan biến. Lời nói từ miệng một nhóm ba người không ca sĩ nữa từ Đài Loan khiến toàn bộ khung cảnh trở nên rất cụ thể.
 
-_"Dưới nước (Underwater)" là bài hát gốc năm 2018 của album cùng tên, được sản xuất bởi Lý Dĩ Ân của Hello Nico. Album được phát hành bởi hãng indie Hoa Kỳ Topshelf Records (TSR201), là tác phẩm mới đầu tiên của Elephant Gym sau khi ký hợp đồng với Topshelf[^25]._
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/jDDy-Vh55to" title="Đại Tượng Thể Cổ -〈水底 Underwater〉Official MV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Nhóm Đài Loan lúc 13:20 tại Camp Flog Gnaw
+_〈水底 Underwater〉 là bài mở đầu của album cùng tên năm 2018, được sản xuất bởi Lý Dĩ Hồng từ Hello Nico. Album được phát hành bởi nhà đĩa indie Mỹ Topshelf Records (TSR201), là tác phẩm đầu tiên của Đại Tượng Thể Cổ sau khi ký hợp đồng với Topshelf[^25]。_
 
-Lùi lại ba năm. Ngày 9 tháng 11 năm 2019, Dodger Stadium, Thành phố Los Angeles.
+## Đoàn kiện Đài Loan tại Camp Flog Gnaw 13:20
 
-Đó là lần thứ 8 của Camp Flog Gnaw được chủ trì bởi Tyler, the Creator, các headliner năm đó bao gồm Solange, H.E.R., A$AP Rocky. Elephant Gym được sắp xếp trên sân khấu Flog lúc 13:20 chiều, một trong những nhóm mở đầu ngày đó[^26].
+Quay lại ba năm trước. Ngày 9 tháng 11 năm 2019, Los Angeles, sân Dodger.
 
-Camp Flog Gnaw là một trong những lễ hội âm nhạc chính yếu nhất trong vòng tròn hip-hop / R&B của Hoa Kỳ. Tyler, the Creator từ thời kỳ Odd Future đã cúng hành, cách lựa chọn ban nhạc của anh ta vượt qua thể loại vượt qua địa lý, dàn nhạc sĩ năm đó có một ban nhạc ba người instrumental Đài Loan không có ca sĩ chính, bản thân nó cũng là một tuyên bố thẩm mỹ.
+Đó là lần thứ 8 của Camp Flog Gnaw do Tyler, the Creator tổ chức. Những nghệ sĩ chính trong năm đó bao gồm Solange, H.E.R., A$AP Rocky. Đại Tượng Thể Cổ được lên lịch trình bày trên Flog Stage vào buổi chiều ngày đầu tiên, lúc 13:20, là một trong những nhóm mở màn đầu tiên của ngày đó[^26]。
 
-Sau buổi biểu diễn đó, những nhà phê bình và nhạc sĩ truyền hình đại học ở Los Angeles đã viết rất kỹ lưỡng. Nhà báo của đài phát thanh đại học Harvard WHRB viết: "shredded, grooved, and blew the performance out of the water", rồi bổ sung thêm "like a trio of puppeteers", ba người vận hành con rối[^27]. Nhận xét trực tiếp Ones to Watch viết "the jam session to end all jam sessions"[^27].
+Camp Flog Gnaw là một trong những lễ hội âm nhạc hip-hop/R&B quan trọng nhất dành cho người hâm mộ ở Hoa Kỳ. Từ thời còn là Odd Future, Tyler, the Creator đã là người tổ chức. Phong cách lựa chọn của anh ấy vượt qua các thể loại và khu vực địa lý. Việc đưa một nhóm instrumental ba người từ Đài Loan không có ca sĩ vào dàn trải dài năm đó cũng là một tuyên bố thẩm mỹ.
 
-Buổi biểu diễn đó KT trên sân khấu nói hai câu sau này trở thành trò đùa của ban nhạc:
+Buổi biểu diễn sau này được các nhà phê bình âm nhạc và các trạm phát thanh của Los Angeles viết về khá chi tiết. Nhà báo từ đài phát thanh đại học Harvard WHRB viết: "shredded, grooved, and blew the performance out of the water", kèm theo một câu bổ sung "like a trio of puppeteers" — ba người điêu khỉ. Bình luận của Ones to Watch trực tiếp ghi: "the jam session to end all jam sessions"[^27]。
 
-> "the most important part of an instrumental rock band? The alcohol! ... We don't know why we're here!"[^28]
+Trên sân khấu, KT đã nói hai câu nói sau này trở thành câu đùa nội bộ của ban nhạc:
 
-"Chúng tôi không biết tại sao chúng tôi lại ở đây." Một ban nhạc ba người Đài Loan không có ca sĩ chính, được Tyler, the Creator sắp xếp mở đầu ở sân vận động Dodger ở LA. Cùng năm đó cùng sân khấu còn có 65daysofstatic, Polyphia, Covet. Ba tuần sau, họ bay sang Chicago, quay phim Audiotree Live[^29].
+> 「the most important part of an instrumental rock band? The alcohol! ... We don't know why we're here!」[^28]
 
-Năm 2019 là năm lưu diễn quốc tế sầu sẫm nhất của Elephant Gym. 3 tháng SXSW, tháng 8 ArcTangent ở Anh, tháng 11 LA Camp Flog Gnaw, giữa đó vẫn chạy lưu diễn Bắc Mỹ, tour chính thức của nhãn hiệu Topshelf. Topshelf ký hợp đồng họ vào tháng 12 năm 2017, năm 2018 dùng đĩa vinyl ba màu tái phát hành ba album cũ Angle, Balance, Work, tháng 11 năm 2018 phát hành tác phẩm mới "_Dưới nước_" TSR201. Hai năm sau khi ký Topshelf, là giai đoạn bùng nổ tiếp xúc quốc tế của ban nhạc này.
+"Chúng tôi không biết tại sao chúng tôi lại ở đây." Một nhóm không có ca sĩ từ Đài Loan, được Tyler, the Creator xếp vào sân Dodger ở LA để mở màn. Trong cùng một sân khấu năm đó còn có 65daysofstatic, Polyphia, Covet. Ba tuần sau, họ lên đường đến Chicago để thu âm Audiotree Live[^29]。
 
-![Elephant Gym biểu diễn tại The Crocodile ở Seattle](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Elephant_Gym_06.jpg/640px-Elephant_Gym_06.jpg)
-_Ngày 15 tháng 3 năm 2024, Elephant Gym biểu diễn tại The Crocodile ở Seattle. Ảnh chụp bởi TurquoiseGoose, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Elephant_Gym_06.jpg)（CC BY-SA 4.0）. Lưu diễn thế giới trải dài châu Á, Mỹ, Âu tích lũy gần 60 buổi._
+Năm 2019 là năm mà Đại Tượng Thể Cổ xuất ngoại cường điệu nhiều nhất. Tháng 3 là SXSW, tháng 8 là ArcTangent ở Anh, tháng 11 là Camp Flog Gnaw ở LA, và giữa chừng còn đi biểu diễn quanh Bắc Mỹ và tham dự chuyến biểu diễn chính thức của Topshelf. Topshelf đã ký họ vào tháng 12 năm 2017, và năm 2018 phát hành lại các tác phẩm cũ Angle, Balance, Work trên đĩa than đen ba màu. Vào tháng 11 năm 2018, họ ra mắt tác phẩm mới《水底》TSR201. Hai năm kể từ khi ký hợp đồng với Topshelf, đây là giai đoạn bùng nổ quốc tế của nhóm.
 
-## Ba lần SXSW, và một câu tuyên bố
+![Đại Tượng Thể Cổ biểu diễn tại Seattle Crocodile](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Elephant_Gym_06.jpg/640px-Elephant_Gym_06.jpg)
+_15 tháng 3 năm 2024, Đại Tượng Thể Cổ biểu diễn tại Seattle The Crocodile. Ảnh chụp bởi TurquoiseGoose, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Elephant_Gym_06.jpg)（CC BY-SA 4.0）。Chuyến biểu diễn thế giới lan tỏa qua châu Á, Bắc Mỹ và châu Âu, tổng cộng gần 60 buổi._
 
-SXSW (Tây Nam phía Nam lễ hội âm nhạc) là Austin, Texas mỗi tháng 3 là địa điểm hành hương của ban nhạc indie. Elephant Gym đã tham gia ba lần.
+## Ba lần SXSW, cùng một lời phát biểu
 
-Lần đầu tiên năm 2019 là lần đầu tiên thực tế. Ngày 16 tháng 3 Pearl Street Coop showcase, ngày 15 tháng 3 tham gia Math Rock Times Fest. Năm 2022 trong thời kỳ covid là showcase Taiwan Beats trực tuyến, cùng với Mong Tong, Xin Lỗi Anh Chàng Trẻ. Năm 2023 là hai buổi: ngày 16 tháng 3 showcase chính thức Topshelf Records ở Cheer Up Charlie's, cộng với showcase sáu giờ Taiwan Beats ở Elysium[^30].
+SXSW (lễ hội âm nhạc Southwest) là điểm hẹn thánh cho các ban nhạc indie mỗi tháng 3 ở thành phố Austin, tiểu bang Texas. Đại Tượng Thể Cổ đã tham dự ba lần.
 
-Tại buổi Elysium năm 2023, Khải Tường nói chuyên đề có bản dịch, để lại một câu sau này được _Austin Chronicle_ trích dẫn:
+Lần đầu tiên năm 2019 là lần xuất hiện trực tiếp. Ngày 16 tháng 3 tại Pearl Street Coop showcase, ngày hôm trước 15 tháng 3 tham gia Math Rock Times Fest. Năm 2022, trong thời gian bùng phát COVID, là Taiwan Beats Showcase trực tuyến, cùng thời gian với Mong Tong và Sorry Youth. Năm 2023 là hai sân khấu: ngày 16 tháng 3 tại Cheer Up Charlie's của Topshelf Records official showcase, cộng thêm Taiwan Beats tại Elysium trong buổi showcase sáu giờ[^30].
 
-> "Đài Loan là quê hương của những người mơ ước như bạn và tôi. Chúng tôi không chỉ mơ ước, mà còn biến giấc mơ thành hiện thực."[^31]
+Tại buổi diễn Elysium năm 2023, Kai-Hsiang (Thái Anh Văn) phát biểu bằng bản dịch, để lại một câu nói sau này được trích dẫn bởi 《Austin Chronicle》:
 
-Buổi đó đi cùng với họ có 9m88, Lucy. Taiwan Beats là chương trình tài trợ của Bộ Văn hóa cho việc xuất biên ban nhạc Đài Loan, nhưng buổi này kết thúc chưa đầy một năm, ban nhạc này sẽ công bố sắp bước vào giai đoạn nghỉ dài rồi. Những người ở Austin, Texas chiều hôm đó năm 2023 không biết.
+> «Taiwan is the homeland for dreamers like you and me. We not only dream, but also make dreams come true.»[^31]
 
-Cùng năm tháng 8, họ bay sang Anh, biểu diễn ArcTangent. Fernhill Farm, Bristol, được coi là một trong những lễ hội âm nhạc quan trọng nhất toàn cầu cho cảnh post-rock / math rock. Dàn nhạc sĩ cùng sân khấu bao gồm Meshuggah, Coheed and Cambria, Battles, 65daysofstatic, Polyphia, Cult of Luna, Three Trapped Tigers, Cult of Luna[^32]. Ban nhạc Đài Loan có thể nhồi vào dàn này, năm đó chỉ có họ. Đối với những fan math rock, ArcTangent là đất thánh, có thể biểu diễn ở đó có nghĩa là đã được công nhân nước trong thể loại.
+Các ban nhạc cùng thời gian trên sân khấu đó bao gồm 9m88 và Lucy. Taiwan Beats là dự án âm nhạc Taiwan xuất khẩu do Bộ Văn hóa hỗ trợ, nhưng chưa đầy một năm sau buổi biểu diễn này, nhóm sẽ phải công bố tạm thời giải thể. Vào buổi chiều tháng 3 năm 2023, không ai ở Texas biết điều đó.
 
-## 7 phút đêm giao thừa
+Vào tháng 8 năm đó, họ lên đường đến Anh Quốc để biểu diễn tại ArcTangent. Đây là Fernhill Farm, Bristol, được coi là một trong những lễ hội âm nhạc post-rock / math rock quan trọng nhất thế giới. Các ban nhạc cùng thời gian bao gồm Meshuggah, Coheed and Cambria, Battles, 65daysofstatic, Polyphia, Cult of Luna, Three Trapped Tigers, Cult of Luna[^32]. Năm đó, chỉ có họ là ban nhạc Taiwan xuất hiện trong dàn trải dài này. Đối với người hâm mộ math rock, ArcTangent chính là thiên đường, và việc biểu diễn tại đây đồng nghĩa với việc được công nhận bởi cộng đồng nội bộ của thể loại.
 
-Nếu bạn không nghe indie, lần đầu tiên bạn biết về Elephant Gym có lẽ là từ đêm 31 tháng 12 năm 2023 lúc khoảng 21 giờ, từ phát sóng trực tiếp.
+## 7 phút của đêm giao thừa
 
-Lễ kỷ niệm năm mới 2024 Takashimaya Cao Hùng. Khi đến lượt Elephant Gym lên sân khấu, tối cộng khoảng 21 giờ, khán giả dưới đó bắt đầu bồn chồn. KT trên sân khấu đột nhiên áp mũi vào microphone, hét lên:
+Nếu bạn không nghe nhạc indie, lần đầu tiên biết đến Đại Tượng Thể Cổ có thể là vào lúc 21h trời 31 tháng 12 năm 2023, qua kênh truyền hình trực tiếp.
 
-> "Có người cầm dao, FXXK" "Cẩn thận an toàn trước khi ra"[^33]
+Đêm giao thừa 2024 tại Kaohsiung Dream Mall. Khi lượt Đại Tượng Thể Cổ lên sân khấu, khoảng 21h, khán đài bắt đầu ồn ào. KT bỗng dời micro lại gần miệng và hô lên:
 
-Phát sóng trực tiếp gián đoạn khoảng 7 phút[^34]. 21:12 hiện trường bình yên lại. Một đêm "Elephant Gym" bốn chữ từ từ vựng của indie music fans trở thành tiêu đề tin tức của toàn Đài Loan.
+> 「Có người cầm dao, FXXK」「Cẩn thận an toàn trước khi lên sân khấu」[^33]
 
-Ngày hôm sau 1 tháng 1, KT viết một đoạn trên IG story giải thích tình huống lúc đó:
+Phát sóng trực tuyến bị gián đoạn khoảng 7 phút[^34]. Lúc 21:12, không khí trở lại bình thường. Chỉ trong một đêm, từ là từ ngữ của những người nghe nhạc indie, “Đại Tượng Thể Cổ” bốn chữ này trở thành tiêu đề tin tức khắp cả nước.
 
-> "Nghe được tiếng đám đông chen lấn, rồi trong tai nghe nghe được có người nói 'có người cầm dao' rồi là lệnh 'xuống sân khấu'" "Cảm thấy rất không vui, khá đau đớn"[^35]
+Ngày hôm sau, 1 tháng 1, KT viết vào câu chuyện Instagram để giải thích tình huống:
 
-Bản tuyên bố chính thức của ban nhạc rất kiềm chế: "Cảm ơn mọi người quan tâm, về tình huống hiện trường thực tế, xin hãy theo dõi các phản hồi của ban tổ chức, hy vọng mọi người tham gia các sự kiện lớn đều chú ý đến sự an toàn của riêng mình, và chúc mọi người 2024 bình an may mắn."[^36]
+> 「Trước tiên nghe thấy dòng người đẩy xoáy, rồi qua tai nghe thấy tiếng nói nói “có người cầm dao”, tiếp theo là lệnh “xuống sân khấu”」「Cảm thấy rất không vui, rất đau khổ」[^35]
 
-Sau đó, giải thích của Sở Cảnh sát Quận Tiền Trấn, Thành phố Cao Hùng: 35 người bị chấn thương do chen lấn, không ai bị thương do dao; "cái dao" mà người chứng kiến chỉ ra thực ra là một cây bút chì[^37]. Một thanh niên đội mũ trắng sau này đã đến giải thích. Tuyên bố hỗ trợ của thành phố như vậy: "Sự kiện đêm giao thừa không liên quan gì tới bất kỳ đội biểu diễn nào...kêu gọi mọi người đừng khắng khai với đội biểu diễn."[^38]
+Tuyên bố chính thức từ ban nhạc mang giọng điệu điềm chỉnh: “Cảm ơn sự quan tâm của mọ người. Về tình huống thực tế tại chỗ, xin tham khảo phản hồi từ đơn vị tổ chức. Hy vọng mọ người tham gia hoạt động lớn đều lư ý an toàn cá nhân, và chúc mọ người năm 2024 an khang thịnh vượng.”[^36]
 
-Chuyện này trên mạng xã hội chia làm hai phía. Một phía cảm thấy ban nhạc phản ứng quá mức, ảnh hưởng đến không khí giao thừa; một phía cảm thấy KT dưới tình huống thông tin không đầy đủ hiện trường đã làm quyết định có trách nhiệm. Cả hai giọng nói đều có, giải thích của cảnh sát cũng có, về "7 phút đó nên được nhớ như thế nào", cho đến bây giờ không có phiên bản có thỏa thuận.
+Sau đó, cơ quan Cảnh sát trước trường Thành phố Đài Loan phát biểu: 35 người bị thương do đẩy xô va chạm, không ai bị thương do dao; “con dao” mà người chứng kiến chỉ ra thực ra là một cây bút bi[^37]. Một người đàn ông mặc áo trắng sau đó đến cơ quan nộp hồ sơ. Chính quyền thành phố đưa ra lời động viên như sau: “Sự cố trong đêm giao thừa không liên quan gì đến bất kỳ nhóm biểu diễn nào... kêu gọi mọ người đừng trách móc các nhóm biểu diễn.”[^38]
 
-Đối với Elephant Gym, 7 phút này là điểm gãy của bản sắc. Trước đó, họ trong vòng indie Đài Loan là "ban nhạc sân khấu chính Fuji Rock", "ban nhạc ký Topshelf", "ban nhạc biểu diễn cùng bass kép Kuroda Seiji"; sau đó, với hầu hết người Đài Loan, họ trở thành "ban nhạc hét có người cầm dao đêm giao thừa". Những bình luận nhạc quốc tế hiểu họ là những người có tài ơi, nhưng xã hội Đài Loan lại biết họ trước tiên qua một sự kiện tin tức. Cái khoảng cách này không chỉ của Elephant Gym, mà là hai mặt của rất nhiều ban nhạc indie Đài Loan tại địa phương và quốc tế.
+Trên không gian xã hội, dư luận chia thành hai phe. Một phe cho rằng ban nhạc phản ứng quá mức, ảnh hưởng tới không khí đêm giao thừa; một phe cho rằng quyết định của KT tại thời điểm chưa có đủ thông tin là một sự lựa chọn trách nhiệm. Cả hai tiếng nói đều vang lên, cảnh sát cũng đưa ra phiên bản của họ, nhưng cho đến thời điểm hiện tại vẫn chưa có một phiên bản chung thống nhất về cách “7 phút ấy” nên được nhớ nhà.
 
-## 9m88, Lâm Sinh Tường, Kuroda Seiji: Ba đường cong của sự hợp tác
+Đối với Đại Tượng Thể Cổ, 7 phút này là một điểm chuyển mình về danh tính. Trước đó, họ trong vòng trò chơi nhạc indie của Đài Loan chỉ là “ban nhạc trên sân khấc đỏ tại Fuji Rock”、“ban được ký hợp đồng với Topshelf”、“ban hợp biểu cùng nhạc sĩ bass kép Trần Tĩnh Chí”. Sau đó, đối với đa số người dân Đài Loan, họ trở thành “ban nhạc hôm lên tiếng kêu ‘có người cầm dao’ trong đêm giao thừa”. Những người phê bình quốc tế hiểu họ là những nghệ sĩ instrumental xuất sắc, nhưng xã hội Đài Loan lại chủ quan nhận biết họ qua một sự kiện tin tức. Khoả cách này không chỉ thuộc về Đại Tượng Thể Cổ, mà còn là sự hai mặt của nhiều ban nhạc indie khác ở Đài Loan giữa nội địa và quốc tế.
 
-Từ "_Dưới nước_" (2018) trở đi, Elephant Gym bắt đầu đưa giọng hát vào đội hình, cách dùng của họ là hợp tác, mỗi bài hát tìm một ca sĩ vào.
+## 9m88、Lin Sinn-hiang, Kanehito Tsuruta: Ba đường cong hợp tác
 
-Năm 2022 "_Giấc mơ Dreams_" là đỉnh cao của con đường này. "Bóng" tìm đến ca sĩ pop jazz 9m88, tên bài lấy từ "Lý thuyết bóng tối" của Jung; "Đi xuyên qua bạn" tìm đến Lâm Sinh Tường của dân gian khách Gia, đó là thời điểm ông nội Gia Khâm qua đời, lời của Lâm Sinh Tường chủ yếu viết cho người cha đã mất[^39]. Album cùng kỳ cũng mời nhạc giao hưởng quản lý cao hùng biểu diễn "Vỗ cánh", mười ba ngày dân gian kỳ lạ lạ biểu diễn "bữa tiệc của các vị thần"[^40]. Đoạn mười ba ngày là đặt trống từ hành trình miếu vào math rock đội hình, là thử nghiệm xuyên văn hóa hiếm gặp của indie Đài Loan.
+Từ 《Chìm dưới nước》 (2018), Đại Tượng Thể Cổ bắt đầu đưa giọng người vào bản nhạc, bằng cách hợp tác — mỗi ca khúc mời một ca sĩ tham gia.
 
-Khải Tường tự đánh giá "_Giấc mơ_" là "cuối cùng cũng đạt được một trạng thái khá cân bằng giữa kỹ thuật và tưởng tượng". Ba album đầu tiên lệch khá về phía kỹ thuật, album này bắt đầu kéo cảm xúc và tính tiểu sử lại. NME cho không gian nhỏ, định vị album này là điểm quay ngoặt của Elephant Gym từ thể loại math rock ra ngoài.
+《Giấc mơ Dreams》 năm 2022 là đỉnh cao của hướng đi này. 〈Bóng đổ〉 mời ca sĩ nhạc đường dẫy 9m88, tên ca khúc lấy cảm hứng từ lý thuyết bóng của Jung; 〈Mơ thấy em〉 mời ca sĩ dân ca miệng Kinh Lan Sinh-hiang, đúng thời điểm đức tổng thống Tống Tống-quang qua đời, với lời ca chủ yếu viết cho cha đã khuất của anh ấy[^39]。Tấm album cũng mời Dàn nhạc thành phố Cao Hùng biểu diễn 〈Đập cánh〉, và Nhóm nghệ thuật dân gian chín ngày biểu diễn 〈Bữa tiệc của các vị thần》[^40]。Đoạn nhạc của chín ngày đưa nhịp trống lễ hội vào khung âm nhạc math rock — là một thí nghiệm giao thoa văn hóa hiếm thấy trong cộng đồng indie Đài Loan.
 
-Khải Tường nói về luận lý hợp tác trên NME:
+Tự đánh giá của Kanehito về 《Giấc mơ》 là "cuối cùng đã đạt được sự cân bằng giữa kỹ thuật và trí tưởng tượng". Ba album trước chủ yếu hướng tới phía kỹ thuật, album này bắt đầu đưa cảm xúc và tính kể chuyện trở lại. Sự đề cập của NME không nhỏ, đưa album này làm mốc chuyển đổi của Đại Tượng Thể Cổ từ thể loại math rock ra ngoài.
 
-> "Những điều thú vị nhất để làm là tìm những nhạc sĩ khác để phá vỡ thế giới của bạn. Chúng ta nên học văn hóa của người khác trước tiên, rồi chúng ta sẽ nói về cách làm việc và tạo ra một thế giới mới cùng nhau."[^41]
+Kanehito từng nói với NME về logic hợp tác:
 
-Phá vỡ thế giới, rồi tái tổ hợp.
+> "Điều thú vị nhất là tìm những nhạc sĩ khác để phá vỡ thế giới của mình. Chúng ta nên học hỏi văn hóa của người khác trước, rồi mới nói về cách học và sáng tạo ra một thế giới mới cùng nhau."[^41]
 
-Tháng 12 năm 2023 ngày 14 họ phát hành thứ tư "_Thế giới World_", tác phẩm tưởng niệm 10 năm thành lập[^42]. Danh sách hợp tác của album này từng dòng so với từng dòng mà thậm chí: "Tên" tái diễn với bass kép từ người chơi bass của ban nhạc Tokyo Shikansen Kuroda Seiji, đây là lần đầu tiên Elephant Gym thử kiểu tạo hợp âm bass kép; "Jhalleyaa" hợp tác với ca sĩ tiếng Punjab Ấn Độ Shashaa Tirupati; "Lông" tìm cùng Tệ đặc biệt và nhạc sĩ sáng tạo Nhật Bản TENDRE; "Hoàng tử vui vẻ" tìm đến Lâm Dĩ Nhạc[^43]. Từ những ca sĩ Đài Loan, Nhật Bản, Ấn Độ xếp một hàng dọc, "thế giới" của album này quả thực đưa mọi người vào.
+Phá vỡ thế giới, rồi tái kết hợp.
 
-Bối cảnh hợp tác của Kuroda Seiji có thể theo dõi tới ngày 23 tháng 2 năm 2023 buổi "Zepp Premium". Zepp New Taipei với SKY-HI, Kuroda Seiji biểu diễn chung[^44]. "Tên" bài hát bass kép đó quay sau. Để KT với người chơi bass của ban nhạc Tokyo Shikansen trong một bài hát hôm nay và đối thoại, quyết định sản xuất này chính là ban nhạc Elephant Gym đang nói với tất cả người: bass của họ phải đi ngang hàng với bassist mạnh nhất toàn Á, không có ý định làm màn hình nền.
+Ngày 14 tháng 12 năm 2023, họ ra mắt album thứ tư 《Thế giới World》, là sản phẩm kỷ niệm 10 năm thành lập[^42]。Danh sách hợp tác trên album này càng đa dạng hơn trước: 〈Tên gọi〉 hợp tác với bassist của Tokyo Incidents Kanehito Tsuruta, đây là lần đầu tiên Đại Tượng Thể Cổ thử nghiệm với hai bass trong một ca khúc; 〈Jhalleyaa〉 hợp tác với ca sĩ tiếng Hindi từ Phố Hồ Chí Minh ở Ấn Độ Shashaa Tirupati; 〈Lông vũ〉 cùng lúc mời cả Hằng Tố và nhà sáng tạo âm nhạc Nhật Bản TENDRE; 〈Vua hạnh phúc〉 mời Lín Tzu-lak[^43]。Từ các ca sĩ ở Đài Loan, Nhật Bản, Ấn Độ xếp hàng ra mắt, tên album "Thế giới" thực sự phù hợp, thực sự đưa người nghe vào một thế giới rộng lớn.
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/-WGaDoOlHwo" title="大象體操 Elephant Gym -〈穿過夜晚 Go Through the Night〉" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Dây chuyền hợp tác của Kanehito Tsuruta có thể truy nguyên về ngày 23 tháng 2 năm 2023, buổi "Zepp Premium". Zepp New Taipei cùng SKY-HI và Kanehito Tsuruta biểu diễn chung[^44]。Ca khúc 〈Tên gọi〉 với hai bass chính là được ghi hình sau buổn diễn đó. Đưa Kanehito và bassist của Tokyo Incidents vào cùng một ca khúc để đối thoại, quyết định sản xuất này chính là Đại Tượng Thể Cổ đang nói với tất cả mọ người: bass của họ xứng đáng đồng cấp với những bassist mạnh nhất châu Á, không hề chỉ là đi kèm.
 
-_Single "*Đi xuyên qua đêm Go Through the Night*" được phát hành ngày 29 tháng 3 năm 2021. Single này lấy mẫu từ đoạn acoustic guitar năm 2009 của toe "*Hai mặt trăng*". Sự hợp tác của Elephant Gym với toe Nhật Bản từ năm 2014 album đầu tiên Minō Takaakinari trộn âm thanh kéo dài tới đây[^45]._
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/-WGaDoOlHwo" title="Đại Tượng Thể Cổ Elephant Gym -〈Đi qua đêm Go Through the Night〉" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![Elephant Gym biểu diễn tại Esplanade Annexe Studio ở Singapore năm 2023](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Elephant_Gym_at_Esplanade_Annexe_Studio.jpg/640px-Elephant_Gym_at_Esplanade_Annexe_Studio.jpg)
-_Ngày 4 tháng 2 năm 2023, Elephant Gym biểu diễn tại Esplanade Annexe Studio ở Singapore. Ảnh chụp bởi Esplanade Theatres on the Bay, [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Elephant_Gym)（CC BY 2.0）. Những sân khấu Á Châu là một trong những khách hàng quen thuộc nhất của họ._
+_Đĩa đơn ra mắt ngày 29 tháng 3 năm 2021 〈Đi qua đêm Go Through the Night〉。Ca khúc lấy mẫu đoạn acoustic guitar của ca khúc 2009 của toe 〈Hai mặt trăng〉。Mối quan hệ hợp tác giữa Đại Tượng Thể Cổ và toe của Nhật Bản kéo dài từ album đầu tiên năm 2014 《Góc độ》 do Mori Tadashi pha trộn, cho đến đây[^45]。_
 
-## Cuộc tranh cãi đó trong phim tài liệu
+![Đại Tượng Thể Cổ biểu diễn tại Esplanade Annexe Studio, Singapore năm 2023](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Elephant_Gym_at_Esplanade_Annexe_Studio.jpg/640px-Elephant_Gym_at_Esplanade_Annexe_Studio.jpg)
+_Ngày 4 tháng 2 năm 2023, Đại Tượng Thể Cổ biểu diễn tại Esplanade Annexe Studio, Singapore。Chụp bởi Esplanade Theatres on the Bay, [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Elephant_Gym)（CC BY 2.0）。Châu Á là một trong những địa điểm khách của họ quen thuộc nhất。_
 
-Lưu diễn "THẾ GIỚI THE WORLD" năm 2024 chạy xong, tích lũy gần 60 buổi trên toàn châu Á, Mỹ, Âu[^46].
+## Những Tranh Cãi Trong Khoảnh Khắc Phim
 
-Tháng 11 buổi diễn chính, Khải Tường trên sân khấu nói câu đó:
+「Thế Giới THE WORLD」 xuân hoa 2024 đã kết thúc, tính đến nay là gần 60 buổi trên khắp châu Á, châu Mỹ và châu Âu[^46]。
 
-> "Bắt đầu từ năm tới, Elephant Gym sẽ bước vào một giai đoạn nghỉ dài."[^2]
+Vào tháng 11, tại buổi biểu diễn chính thức, Kai-Hsiang đã nói câu này trên sân khấu:
 
-13 năm rồi. Từ tháng 2 năm 2012 thành lập ở Cao Hùng, đến tháng 11 năm 2024 công bố nghỉ ở Đài Bắc.
+> 「Từ năm sau, Đại Tượng Thể Cổ sẽ bước vào một giai đoạn nghỉ nhóm kéo dài.」[^2]
 
-Gần như cùng lúc, bộ phim tài liệu của đạo diễn Quách Tấn Nhân (Alulu KUO) "_Elephant Gym: Thực tế hơn cả giấc mơ_" (More Real than Dreams) xác nhận phát hành. 95 phút, từ năm 2012 thành lập một đường theo dõi tới 2024 trước khi lưu diễn, Khải Tường vừa điều phối vừa sản xuất[^47]. Năm 2026 tháng 1 trước chiếu ở Tokyo, Kyoto Nhật Bản, 6 tháng 2 chiếu lần đầu ở Đài Bắc in89 rạp phim cao cấp[^48].
+13 năm rồi. Từ tháng 2 năm 2012 tại Đài Bắc thành lập, đến tháng 11 năm 2024 tại Đài Bắc công bố việc nghỉ nhóm。
 
-Điều không Đài Loan indie nhất của bộ phim này, là nó không đóng gói ban nhạc như những anh hùng. Nó đặt camera nhìn vào tháng 2 năm 2023 trước khi lưu diễn thế giới, thành viên một cuộc tranh cãi lớn, sắp tan rã. Hoàn cảnh "bị buộc rời khỏi ban nhạc khác" của Gia Khâm, "dân anh chị và đồng nghiệp kéo co kéo co" theo thời gian tích tụ, toàn bộ vào cắt ghép[^49].
+Gần như cùng thời gian, đạo diễn Guo Jinru (Alulu KUO) của bộ phim tài liệu đã chính thức phát hành bộ phim tài liệu《Đại Tượng Thể Cổ: Thực Tế Hơn Giấc Mơ》(More Real than Dreams)。95 phút, từ năm 2012 khi nhóm được thành lập cho đến trước khi xuân hoa 2024, Kai-Hsiang đồng thời là nhà sản xuất điện ảnh[^47]。Năm 2026, tháng 1 sẽ được chiếu hạn chế tại Tokyo và Kyoto ở Nhật Bản, ngày 6 tháng 2 sẽ được chiếu hội khai mạc tại in89 siêu cung điện ở Đài Bắc[^48]。
 
-Topshelf Records trong bản mô tả quảng cáo phim tài liệu ghi thẳng: "In 2023, Elephant Gym was preparing to embark on a world tour—yet the band stood on the brink of breaking up." Một ban nhạc sắp khởi hành chu du thế giới, đồng thời đứng trên bờ vực tan rã. KT trên đường lưu diễn nói một câu, sau được Agence France-Presse dẫn: "Thực ra tôi thường xuyên khi về nhà, sẽ nằm trên giường và khóc nức nở."[^51]
+Nơi khiến bộ phim này không phải là một bộ phim indie truyền thống của Đài Bắc, chính là nó không đóng gói nhóm nhạc như một anh hùng. Nó đưa máy quay về phía trước thời điểm trước khi xuân hoa thế giới năm 2023, khi các thành viên của nhóm có một cuộc tranh cãi nghiêm trọng, gần như tan rã. Từ cao độ bị đuôi khi phải rời khỏi nhóm khác, thời gian tích lũy giữa anh em và anh gái "giữa người thân và đồng nghề" đều được đưa vào trong quá trình cắt cảnh[^49]。
 
-Tương phản với anh chị hai lúc nhỏ được mẹ đẩy vào huấn luyện nhạc cổ điển, tuổi thanh niên ở Trường Cao Sư Phạm Cao Hùng và Trường Nữ Sinh Cao Hùng, những năm đại học ở Đại học Chính Trị và Đại học Quốc gia Đài Bắc, thời kỳ ký kết Topshelf lưu diễn quốc tế dày đặc, sự sụp đổ trên đường lưu diễn là mặt khác mà ban nhạc này chưa từng để ra ngoài. Bộ phim tài liệu ban nhạc indie Đài Loan phổ biến đi theo con đường "chúng tôi rất cố gắng", "_Thực tế hơn cả giấc mơ_" chọn đặt "chúng tôi gần không đỡ nổi" vào cắt ghép, quyết định này bản thân chính là trưởng thành của Elephant Gym như một ban nhạc.
+Topshelf Records viết trực tiếp trong phần mô tả quảng bá của bộ phim: "Năm 2023, Đại Tượng Thể Cổ đang chuẩn bị khởi hành trên một chuyến điệu the giới - nhưng nhóm nhận đã đụng nửa đáy của sự chia ly."[^50] Một nhóm nhạc sẵn sàng khởi hành trên hành trình đi khắp thế giới, đồng thời đứng ở mép lệch của sự chia ly. KT từng nói một câu trên đường biểu diễn, sau này được United Daily News dẫn lại: "Thực ra, mỗi lần về nhà, tôi thường nằm xuống giường và khóc nức nở."[^51]
 
-Nhạc gốc bộ phim năm 2026 ngày 3 tháng 2 được phát hành cùng lúc bởi Topshelf, dooodooo, Ngô Phất Nhuận, các thành viên nhạc giao hưởng quản lý cao hùng đều tham gia[^52].
+So sánh với khoảng thời gian hai người chơi nhỏ bị mẹ đưa vào lớp đào nhạc cổ điển, tuổi thơ trung học ở trường trung học quốc gia Đài Bắc và thời gian sinh hoạt với câu lạc bộ âm nhạc nữa ở Đại học Quốc gia Đài Bắc và Đại học Thượng Hải, sau khi ký hợp đồng với Topshelf và khoảng thời gian biểu diễn quốc tế dày đặc, sự sụp đổ trên hành trình biểu diễn này là một mặt khác mà nhóm chưa từng công khai chia sẻ. Các bộ phim tài liệu về nhóm nhạc indie của Đài Bắc thường đi theo hướng "chúng tôi rất cố gắng" để khuyến khích, nhưng 《Thực Tế Hơn Giấc Mơ》chọn đưa khoảnh khắc "chúng tôi gần như không còn sức" vào trong quá trình cắt cảnh, quyết định này chính là minh chứng cho sự chín chắn của Đại Tượng Thể Cổ trong việc quản lý nhóm.
 
-## Một giai đoạn nghỉ dài
+Bản nhạc nền của bộ phim sẽ được Topshelf phát hành đồng thời vào ngày 3 tháng 2 năm 2026, với sự tham gia của dooodooo, Wu Peilin và các thành viên của dự án nhạc kênh thành phố Đài Bắc[^52]。
 
-Ngày 29 tháng 6 năm 2024, lần thứ 35 của Giải thưởng Âm nhạc Vàng, Giải thưởng Ban giám khảo.
+## Một kỳ nghỉ dài
 
-Chủ tịch ban giám khảo Trần Tử Hồng phát biểu:
+Ngày 29 tháng 6 năm 2024, Giải bình chọn giải Âm nhạc và Đài Loan lần thứ 35 trao tặng cho ban giám khảo.
 
-> "Họ biểu diễn ở các nơi trên khắp thế giới, để thế giới nhìn thấy Đài Loan" "Từng bước một dấu chân đi tới thế giới, không bị ràng buộc bởi khung, và hòa nhập các yếu tố âm nhạc, kiên giữ sự sáng tạo" "Giải thưởng Ban giám khảo không được trao mỗi năm, cần thảo luận của ban giám khảo và được ba phần hai trở lên ban giám khảo phê duyệt"[^53]
+Chủ tịch ban giám khảo Thái Tử Hồng phát biểu:
 
-Khi Khải Tình lên sân khấu nhận giải, bài phát biểu trở thành câu được trích dẫn nhiều nhất tại Giải thưởng Âm nhạc Vàng năm đó:
+> «Họ biểu diễn ở khắp mọi nơi trên thế giới, để cho thế giới thấy Đài Loan» «Từng bước một, tiến về phía trước mà không bị giới hạn bởi khung cách tư duy, kết hợp các yếu tố âm nhạc và kiên định sáng tạo» «Giải thưởng ban giám khảo không phải lúc nào cũng được trao, cần phải thảo luận qua ban giám khảo và có ít nhất hai phần ba số phận đồng thuận»[^53]
 
-> "Bất kể bạn chơi loại nhạc lạ đến mức nào, miễn bạn đi nước ngoài, bạn sẽ phát hiện rằng có rất nhiều người khác giống bạn sẵn sàng xem bạn biểu diễn, ở Đài Loan cũng vậy. Vì vậy, bạn muốn chơi loại nhạc gì thì cứ chơi!"[^53]
+Lời phát biểu của Kai-Ting khi lên nhận giải, sau này trở thành đoạn được nhắc đến nhiều nhất trong năm:
 
-Ban nhạc này từng đạt Giải thưởng Âm nhạc ba lần tốt nhất: lần thứ 5 "_Góc nhìn_" thể loại tốt nhất (2014), lần thứ 10 "_Dưới nước_" ban nhạc tốt nhất (2019), lần thứ 15 "_Thế giới_" ban nhạc tốt nhất (2024); Khải Tình riêng lần thứ 13 (2022) đạt nhạc sĩ tốt nhất[^54]. Buổi Khải Tình đạt nhạc sĩ tốt nhất khi ấy, kéo nhạc sĩ Vũ Trụ Nhân Phương Q lên sân khấu, hứa chia tiền giải với người thầy của cô là Phương Q, đề cập lúc "vừa làm bass kỹ năng chơi bị chỉ trích, hôm nay rửa hận"[^55]. Từ cô bé bass bị chỉ trích đến người phụ nữ đại diện Fender Đài Loan lần đầu cộng nhạc sĩ tốt nhất Âm nhạc Vàng, cung đường chính trị bản sắc này rất đáng ghi nhận trong lịch sử ban nhạc Đài Loan.
+> «Dù bạn chơi bất kỳ loại âm nhạc nào kỳ lạ, chỉ cần bạn đi nước ngoài, bạn sẽ khám phá ra rằng có rất nhiều người như bạn ở đó sẵn sàng đến xem bạn biểu diễn, và cũng vậy ở Đài Loan. Vì vậy, hãy làm bất cứ thứ gì bạn muốn với âm nhạc của mình!»[^53]
 
-Năm 2020 ngày 18 tháng 3, Khải Tình trở thành người phụ nữ đại diện bass Fender Đài Loan lần đầu tiên, đồng thời được đăng lên tạp chí _Bass Magazine_ Nhật Bản[^56]. Một cô gái từ mầm non học sáo, violin, piano, guitar dân gian, sau này trở thành một trong những tên tuổi bass quan trọng nhất trong vòng indie Đài Loan.
+Ban nhạc này từng giành ba giải Nhạc sĩ Xuất sắc nhất: Lần thứ 5 với album «Góc Độ» – Album phong cách xuất sắc nhất (2014), Lần thứ 10 với «Dưới Nước» – Nhạc sĩ Xuất sắc nhất (2019), Lần thứ 15 với «Thế Giới» – Nhạc sĩ Xuất sắc nhất (2024); Kai-Ting cá nhân cũng giành giải Nhạc sĩ Xuất sắc nhất vào lần thứ 13 (2022)[^54]. Lần Kai-Ting nhận giải Nhạc sĩ Xuất sắc nhất, cô đã kéo cả Thế Giới Người (Fang Q) – người cũng đang được đề cử cùng cô lên sân khấu, hứa sẽ chia thưởng cho Fang Q – người từng là cô ấy dạy – và nhắc lại năm năm trước: «Khi mới bắt đầu chơi bass, kỹ năng bị mọi người chê cường, giờ đây đã chứng tỏ được»[^55]. Từ cô bass bị chê cường đến trở thành đại sứ thương hiệu Fender nữ đầu tiên tại Đài Loan và giành giải Nhạc sĩ Xuất sắc nhất, hành trình này rất đáng nhớ trong lịch sử ban nhạc Đài Loan.
 
-Từ tháng 2 năm 2012 đến tháng 11 năm 2024, ban nhạc này trải qua 23 quốc gia 60 buổi lưu diễn, 3 lần SXSW, sân khấu chính Fuji Rock, Camp Flog Gnaw, ArcTangent, Audiotree Live, nhận xét sublime của Pitchfork, Topshelf tái phát hành toàn bộ đĩa vinyl đen. 13 năm, ba học sinh từ Cao Hùng, trên sân khấu chi cái nhìn là có thể sắp xếp nhịp điệu phức tạp, đó là ký ức cơ bắp tích tụ 13 năm.
+Ngày 18 tháng 3 năm 2020, Kai-Ting trở thành đại sứ thương hiệu Fender nữ đầu tiên tại Đài Loan, đồng thời xuất hiện trên báo cáo của tạp chí Nhật Bản «Bass Magazine»[^56]. Một cô gái từng học sáo thổi ở mẫu giấy, đàn violin, đàn piano và đàn guitar folk khi còn nhỏ, sau này trở thành một trong những biểu tượng bass quan trọng nhất trong cộng đồng indie Đài Loan.
 
-Ngày công bố giai đoạn nghỉ dài, họ không viết sự kiện này như một lời tạm biệt. Khải Tường nói "một giai đoạn nghỉ dài", không phải "tan rã", cùng một ban nhạc năm 2014 cũng từng nghỉ như vậy, lần đó nghỉ cuối cùng là vì các anh chàng xuất ngũ sẽ quay về. Lần này là anh em ruột, thành viên ban nhạc, mệt mỏi tích tụ lưu diễn 13 năm và kéo co, điều kiện quay lại không giống nhau. 10 năm sau sẽ gặp lại hay không, không ai biết.
+Từ tháng 2 năm 2012 đến tháng 11 năm 2024, ban nhạc này đã trải qua 60 buổi biểu diễn trên 23 quốc gia, ba lần tham dự SXSW, sân khấu đỏ tại Fuji Rock, Camp Flog Gnaw, ArcTangent, Audiotree Live, Pitchfork, bản phát hành đĩa thanh vinyl hoàn chỉnh từ Topshelf. 13 năm, ba sinh viên từ Hải Châu, trên sân khấu chỉ cần nhìn nhau đã có thể đồng bộ nhịp phức tạp – đó là kết quả của 13 năm rèn luyện.
 
-Tựa phim tài liệu gọi là "_Thực tế hơn cả giấc mơ_". Ba người đi qua con đường, so với những gì họ nằm ngoài cửa sổ chung cư đại học tưởng tượng, còn xa hơn. Một ban nhạc ba người Đài Loan không ai hát, là khi công bố sắp tan rã mới bị toàn đảo nhìn thấy. Nhưng 13 năm tích tụ dòng bass giai điệu đó, những nhịp điệu không đối xứng, những quá trình biểu diễn lại ở Camp Flog Gnaw và Fuji Rock, sẽ tiếp tục nói chuyện cho riêng nó khi họ không có mặt.
+Ngày họ công bố nghỉ ngơi lâu dài, họ không viết nó như một lời tạm biệt. Kai-Jiang nói «một kỳ nghỉ dài», chứ không phải «chia tay», đúng như năm 2014 cũng từng nghỉ một lần – lần đó kết thúc bởi vì mọng mẹ chiến trận. Lần này là do sự mệt mỏi và căng thẳng tích lũy trong 13 năm đi biểu diễn, cũng như mối quan hệ giữa các anh em và thành viên ban nhạc. Ai cũng không biết liệu có gặp lại sau 10 năm nữa không.
 
----
+Tên bộ phim tài liệu là «Thật chân thực hơn giấc mơ». Con đường họ đi qua, xa hơn cả những gì họ từng mơ tưởng ngồi bên cửa sổ căn hộ vào thời sinh viên. Một ban nhạc ba người không ai nghe tới ở Đài Loan, mới chỉ được toàn quốc chú ý khi họ công bố chia tay. Nhưng những giai điệu bass, những nhịp thời gian bất đối xứng, và những bản ghi hình biểu diễn tại Camp Flog Gnaw và Fuji Rock sẽ tiếp tục nói chuyện thay cho chính họ khi họ không có mặt.
 
 ## Đọc thêm
 
-- [Xin Lỗi Anh Chàng Trẻ](/Music/拍謝少年) — Cũng là ban nhạc xuất phát từ miền Nam, sử dụng ngôn ngữ để định vị mình, nhưng họ chọn tiếng Đài Loan, chọn giọng hát
-- [Huỷ Minh Yêu](/Music/滅火器樂團) — Bạn Cao Hùng, năm 2022 Fuji Rock cùng kỳ lên sân khấu của ban nhạc Cao Hùng khác
-- [Chiếc Xe Ngỏ Xung Quanh Mặt Trời](/Music/落日飛車) — Thế hệ cùng đại diện indie Đài Loan lên quốc tế, đi city pop chất lượng mềm mại, hát tiếng Anh, tạo thành hai con đường tương phản với kỹ thuật instrumental của Elephant Gym
-- [Lịch Sử Phát Triển Nhạc Rock Đài Loan](/Music/台灣搖滾樂發展史) — Từ các ngôn ngữ Bảo Đức, năm tháng ngày đến thế hệ sau ngày nay sau Chiếc Xe ngỏ xung quanh mặt trời phát triển bối cảnh
-- [Âm Nhạc Độc Lập Đài Loan](/Music/台灣獨立音樂) — Cảnh indie Đài Loan và hệ sinh thái nhãn hiệu
+- [Bỏ qua những chú chó](/vi/music/sorry-youth-band) — cùng ra đời từ miền Nam, dùng ngôn ngữ định vị bản thân, nhưng họ chọn tiếng Quảng Đông, chọn giọng hát
+- [Đại Tượng Thể Cổ](/vi/music/fire-ex) — đồng hương cao thành, là một nhóm khác cũng tham dự Fuji Rock 2022
+- [Lái xe chiều hoàng hôn](/vi/music/sunset-rollercoaster) — đại diện indie Đài Loan thế hệ này ra nước ngoài, theo đuổi phong cách city pop nhẹ nhàng, ca vang bằng tiếng Anh, tạo thành hai con đường đối lập với phong cách instrumental kỹ thuật của Đại Tượng Thể Cổ
+- [Lịch sử nhạc rock Đài Loan](/vi/music/taiwan-rock-from-underground-to-mainstream) — bối cảnh phát triển từ Wu Bei, Ngũ Tháng Năm đến thế hệ sau Lái xe chiều hoàng hôn
+- [Âm nhạc độc lập Đài Loan](/vi/music/indie-music-scene) — khung cảnh và hệ sinh thái nhà etchelon của làng indie Đài Loan
 
----
+## Nguồn hình ảnh
 
-## Nguồn Hình Ảnh
+- **Hero**: [Đại Tượng Thể Cổ tại Portland Mississippi Studios biểu diễn](https://commons.wikimedia.org/wiki/File:Elephant_Gym_Portland_2024.jpg) — Nhiếp ảnh gia TurquoiseGoose, 13/03/2024. Wikimedia Commons, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- **Inline 1**: [Đại Tượng Thể Cổ tại Seattle The Crocodile biểu diễn](https://commons.wikimedia.org/wiki/File:Elephant_Gym_06.jpg) — Nhiếp ảnh gia David Lee (Flickr), 15/03/2024. Wikimedia Commons, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
+- **Inline 2**: [Đại Tượng Thể Cổ tại Singapore Esplanade Annexe Studio biểu diễn](<https://commons.wikimedia.org/wiki/File:Elephant_Gym_at_Esplanade_Annexe_Studio_(2023-02-04_16-29-39).jpg>) — 04/02/2023. Wikimedia Commons, giấy phép CC theo trang tệp gốc.
 
-- **Hero**：[Elephant Gym biểu diễn tại Mississippi Studios ở Portland](https://commons.wikimedia.org/wiki/File:Elephant_Gym_Portland_2024.jpg) — Ảnh chụp bởi TurquoiseGoose, 2024/03/13. Wikimedia Commons，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-- **Inline 1**：[Elephant Gym biểu diễn tại The Crocodile ở Seattle](https://commons.wikimedia.org/wiki/File:Elephant_Gym_06.jpg) — Ảnh chụp bởi David Lee（Flickr），2024/03/15. Wikimedia Commons，[CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
-- **Inline 2**：[Elephant Gym biểu diễn tại Esplanade Annexe Studio ở Singapore](<https://commons.wikimedia.org/wiki/File:Elephant_Gym_at_Esplanade_Annexe_Studio_(2023-02-04_16-29-39).jpg>) — 2023/02/04. Wikimedia Commons，CC License xem trang gốc.
+## Tài liệu tham khảo
 
----
+[^1]: [Đại Tượng Thể Cổ (Wikipedia Tiếng Trung)](https://zh.wikipedia.org/wiki/%E5%A4%A7%E8%B1%A1%E9%AB%94%E6%93%8D) — Tháng 2 năm 2012, thành lập tại Kaohsiung, nguồn thông tin cơ bản của ban nhạc.
 
-## Tài Liệu Tham Khảo
+[^2]: [Đại Tượng Thể Cổ tuyên bố nghỉ nhóm lâu dài (Blow âm nhạc #77310)](https://blow.streetvoice.com/77310/) — Lời phát biểu trực tiếp của Kai-Xing tại cửa hàng hiệu chính: "Từ năm sau, Đại Tượng Thể Cổ sẽ bước vào một giai đoạn nghỉ dài".
 
-[^1]: [Elephant Gym（Wikipedia Trung Quốc）](https://zh.wikipedia.org/wiki/%E5%A4%A7%E8%B1%A1%E9%AB%94%E6%93%8D) — Thành lập tháng 2 năm 2012 ở Cao Hùng, nguồn dữ liệu cơ bản ban nhạc.
+[^3]: [Đại Tượng Thể Cổ trên Audiotree Live (Bandcamp)](https://audiotree.bandcamp.com/album/elephant-gym-on-audiotree-live) — Mô tả của Audiotree về ban nhạc với âm nhạc instrumental math/post rock.
 
-[^2]: [Elephant Gym công bố buổi diễn chính bước vào giai đoạn nghỉ dài（Blow吹音樂 #77310）](https://blow.streetvoice.com/77310/) — Bài phát biểu của Khải Tường trên sân khấu chính từ ngữ đúng "Bắt đầu từ năm tới, Elephant Gym sẽ bước vào một giai đoạn nghỉ dài".
+[^4]: [Từ không đến vô cùng / Sự im lặng và tiếng nói của Đại Tượng Thể Cổ (newsmarket)](https://www.newsmarket.com.tw/sxband/young-5/) — Kai-Tingnói: "Ba người đều có nhiều điều muốn nói, trực tiếp thể hiện qua chính nhạc cụ của mình".
 
-[^3]: [Elephant Gym on Audiotree Live（Bandcamp）](https://audiotree.bandcamp.com/album/elephant-gym-on-audiotree-live) — Mô tả Audiotree về instrumental math/post rock của ban nhạc.
+[^5]: [Đại Tượng Thể Cổ của Đài Loan mang lại math rock có bass dẫn dắt (SCMP, 13-08-2014)](https://www.scmp.com/magazines/48hrs/article/1569330/taiwans-elephant-gym-bring-back-bass-driven-math-rock) — Câu trích dẫn trực tiếp của Rachel Mok: "thêm một chút sự dễ thương vào phương trình".
 
-[^4]: [Từ không đến vô hạn／Tĩnh lặng và phát biểu của Elephant Gym（newsmarket）](https://www.newsmarket.com.tw/sxband/young-5/) — Khải Tình nói "Ba chúng tôi đều có rất nhiều điều muốn nói, nói thẳng qua cây đàn của mình".
+[^6]: [Danh sách nghệ sĩ Đại Tượng Thể Cổ (Topshelf Records)](https://www.topshelfrecords.com/roster/elephant-gym) — Trích dẫn lời khen "sublime" của Pitchfork về album "Dreams".
 
-[^5]: [Elephant Gym của Đài Loan đưa lại math rock dựa trên bass（SCMP, 2014-08-13）](https://www.scmp.com/magazines/48hrs/article/1569330/taiwans-elephant-gym-bring-back-bass-driven-math-rock) — Rachel Mok câu gốc "add a touch of cuteness to the equation".
+[^7]: [Định nghĩa math rock (Wikipedia EN)](https://en.wikipedia.org/wiki/Math_rock) — Xuất phát vào cuối những năm 1980, với các đặc trưng như thời gian không đối xứng.
 
-[^6]: [Elephant Gym artist roster（Topshelf Records）](https://www.topshelfrecords.com/roster/elephant-gym) — Bình luận sublime của Pitchfork về "_Giấc mơ_" được trích dẫn.
+[^8]: [Đại Tượng Thể Cổ (Wikipedia EN)](https://en.wikipedia.org/wiki/Elephant_Gym) — Nhắc đến trên bìa danh sách phát toàn cầu Math Rock của Spotify.
 
-[^7]: [Math rock định nghĩa（Wikipedia EN）](https://en.wikipedia.org/wiki/Math_rock) — Nguồn gốc cuối những năm 1980, đặc trưng nhịp điệu không đối xứng.
+[^9]: [Phiên bản trực tuyến đầy đủ của Đại Tượng Thể Cổ trên Audiotree Live (YouTube)](https://www.youtube.com/watch?v=HW367HtrXE0) — Phát hành ngày 8 tháng 4 năm 2019, bao gồm năm bài hát đầy đủ.
 
-[^8]: [Elephant Gym（Wikipedia EN）](https://en.wikipedia.org/wiki/Elephant_Gym) — Đề cập Spotify Math Rock danh sách phủ đầu ban nhạc.
+[^10]: [Cột mục đầu tiên của WAVES tại Kaohsiung (WAVES)](https://kmc-waves.tw/vol1/column/column-1.php) — Câu trích dẫn trực tiếp: "Kai-Xing và Jia-Qin cùng lên trường trung học trung tâm đại học Kaohsiung, khi Jia-Qin tham gia câu lạc bộ âm nhạc, chủ tịch là anh trai Kai-Xing".
 
-[^9]: [Elephant Gym Audiotree Live toàn bộ phiên（YouTube）](https://www.youtube.com/watch?v=HW367HtrXE0) — Phát hành ngày 8 tháng 4 năm 2019, năm bài hát toàn bộ phiên.
+[^11]: [Âm thanh phía Nam: Đại Tượng Thể Cổ (VERSE)](https://www.verse.com.tw/article/sounds-of-the-south-elephantgym) — Kai-Xing đã đưa ra quy tắc tại câu lạc bộ âm nhạc trường trung học trung tâm đại học Kaohsiung: "Phải có bài viết tự sáng tạo mới được lên sân khấu".
 
-[^10]: [Cao lưu WAVES kỳ 1 chuyên mục](https://kmc-waves.tw/vol1/column/column-1.php) — "Khải Tường và Gia Khâm từng trước sau thi vào Trường Cao Sư Phạm Cao Hùng, khi Gia Khâm tham gia câu lạc bộ nhạc rock, chủ tịch là Khải Tường học trên".
+[^12]: [Đại Tượng Thể Cổ: Nhảy tắm trên Bass (Blow #1384)](https://blow.streetvoice.com/1384/) — Mẹ là giáo viên âm nhạc, chuyên về thanh nhạc và đàn piano.
 
-[^11]: [VERSE Tiếng nói phương Nam: Elephant Gym](https://www.verse.com.tw/article/sounds-of-the-south-elephantgym) — Khải Tường làm chủ tịch câu lạc bộ nhạc rock Trường Cao Sư Phạm Cao Hùng đặt quy tắc "phải có những bài hát sáng tác ban đầu mới được lên sân khấu".
+[^13]: [Phỏng vấn chuyên đề với Zhang Kai-Ting của Đại Tượng Thể Cổ (LIFE mạng sống)](https://life.tw/?app=view&no=478152) — Kai-Ting tiếp xúc với sáo thổ, đàn violin, đàn piano và đàn guitar dân gian từ khi còn nhỏ.
 
-[^12]: [Elephant Gym: Tập thể dục trên Bass（Blow #1384）](https://blow.streetvoice.com/1384/) — Mẹ là giáo viên âm nhạc, chuyên về thanh nhạc và piano.
+[^14]: [Đại Tượng Thể Cổ (Wikipedia EN)](https://en.wikipedia.org/wiki/Elephant_Gym) — Jia-Qin học đàn trống cổ điển trong mười năm từ năm bốn tuổi, gia đình ở Liuhe.
 
-[^13]: [Phỏng vấn chuyên gia Trương Khải Tình Elephant Gym（LIFE 生活網）](https://life.tw/?app=view&no=478152) — Khải Tình từ mầm non tiếp xúc sáo, violin, piano, guitar dân gian.
+[^15]: [Phỏng vấn Đại Tượng Thể Cổ tại ntusocsquare năm 2014](http://ntusocsquare.blogspot.com/2014/05/blog-post_1456.html) — Kai-Xing học trường truyền thông đại học chính trị, Kai-Ting học xã hội đại học Đài Loan, Jia-Qin học trường chính trị.
 
-[^14]: [Elephant Gym（Wikipedia EN）](https://en.wikipedia.org/wiki/Elephant_Gym) — Gia Khâm từ bốn tuổi học nhạc cụ gõ cổ điển mười năm, cha mẹ quê gốc ở Lục Quế.
+[^16]: [Tên nhóm tự bạo của Đại Tượng Thể Cổ (nextapple, 2026-03-23)](https://news.nextapple.com/entertainment/20260323/ECE490B02D4E4A5B85C3C3EF2EE1363D) — Sự thật chính là một câu chuyện lệch lồi" + ảnh tượng bút vẽ mực vẽ hình tranh con trùng của Crayon Shin-chan thành con voi.
 
-[^15]: [ntusocsquare 2014 Elephant Gym phỏng vấn chuyên gia](http://ntusocsquare.blogspot.com/2014/05/blog-post_1456.html) — Khải Tường học Đại học Chính Trị, Khải Tình đại học Quốc gia Đài Bắc, Gia Khâm Đại học Chính Trị.
+[^17]: [Elephant Gym (Wikipedia EN)](https://en.wikipedia.org/wiki/Elephant_Gym) — Tên gọi chính thức giải thích rằng 'elephant' biểu tượng cho những giai điệu dẫn dắt bởi bass, 'gym' chỉ nhịp điệu linh hoạt và bất quy tắc.
 
-[^16]: [Khải Tường Elephant Gym tự tiết lộ nguồn gốc tên nhóm（壹蘋 nextapple, 2026-03-23）](https://news.nextapple.com/entertainment/20260323/ECE490B02D4E4A5B85C3C3EF2EE1363D) — "Sự thật chỉ là một câu chuyện rất sai lệch" + cảnh Shin-chan vẽ bộ phận sinh dục thành voi.
+[^18]: [Thông tin album 'Góc Độ' của Đại Tượng Thể Cổ (trang web âm nhạc chính thức)](https://elephantgym.co/music/) — Phát hành tháng 6 năm 2014, pha trộn của toe tại Mỹ Nhĩ Long Trường.
 
-[^17]: [Elephant Gym（Wikipedia EN）](https://en.wikipedia.org/wiki/Elephant_Gym) — Giải thích tên chính thức "voi tượng trưng bass-driven melodies, gym đề cập agile and irregular rhythms".
+[^19]: [Thông báo chấm dứt hoạt động và buổi biểu diễn cuối cùng 'See You Then' của Đại Tượng Thể Cổ (Blow âm nhạc)](https://blow.streetvoice.com/) — Công bố vào tháng 11 năm 2014, buổi biểu diễn cuối cùng vào tháng 2 năm 2015, trở lại sau khi thực hiện quân độn vào năm 2016.
 
-[^18]: [Elephant Gym "_Góc nhìn Angle_" thông tin album（trang web chính thức music）](https://elephantgym.co/music/) — 2014/06 phát hành, toe Minō Takaakinari trộn âm thanh và master.
+[^20]: [Đại Tượng Thể Cổ được mời tham dự Summer Sonic 2016 (trang giới thiệu Tower Records Nhật Bản)](https://tower.jp/artist/2335234) — Phát hành đồng thời với bản Nhật của album 'Góc Độ'.
 
-[^19]: [Elephant Gym công bố nghỉ tạm và buổi diễn cuối "See You Then"（Blow吹音樂）](https://blow.streetvoice.com/) — 2014/11 công bố, 2015/02 buổi diễn cuối, 2016 xuất ngũ phục hồi.
+[^21]: [Âm thanh phía Nam của VERSE: Đại Tượng Thể Cổ](https://www.verse.com.tw/article/sounds-of-the-south-elephantgym) — Cao Hữ Chiến trở lại Hải Gương vào năm 2016, nói lại từng từ: 'Điều tôi muốn làm nhất chính là xây cầu'.
 
-[^20]: [Elephant Gym Summer Sonic 2016 lời mời（Tower Records Japan giới thiệu trang）](https://tower.jp/artist/2335234) — Phát hành cùng lúc với phiên bản Nhật Bản của "_Góc nhìn_".
+[^22]: [MV 'Hình Dạng Miệng' của Lin Hữ Kiệt (YouTube)](https://www.youtube.com/watch?v=TSELe3zB97Q) — Năm 2014, tại Hồng Kông và Thập Nhĩ Đường ở Đảo Bắc, Đại Tượng Thể Cổ là khách mời đặc biệt.
 
-[^21]: [VERSE Tiếng nói phương Nam: Elephant Gym](https://www.verse.com.tw/article/sounds-of-the-south-elephantgym) — Khải Tường từ ngữ đúng 2016 trở về Cao Hùng "Những gì tôi thực sự muốn làm có thể là cây cầu".
+[^23]: [Nhóm nhạc Nhật Bản và Đại Tượng Thể Cổ tham gia lễ hội âm nhạc Fuji Rock tại Nhật Bản (được tổ chức bởi ASEAN âm nhạc Đảo)](https://www.taiwanaseanmusicaction.com/%E6%BB%85%E7%81%AB%E5%99%A8%E3%80%81%E5%A4%A7%E8%B1%A1%E9%AB%94%E6%93%8D%E5%BE%81%E6%88%B0%E6%97%A5%E6%9C%AC%E3%80%8C%E5%AF%8C%E5%A3%AB%E6%90%96%E6%BB%BE%E3%80%8D%E9%9F%B3%E6%A8%82%E7%A5%AD%E5%A4%A7/) — Ngày 31 tháng 7 năm 2022, sân khấu Red Marquee, khu trượt Mito, cùng thời gian với Nhóm Nhật Bản.
 
-[^22]: [Lâm Dự Gia 《Hình dạng của miệng》MV（YouTube）](https://www.youtube.com/watch?v=TSELe3zB97Q) — 2014 Hồng Kông Hồng Kông + Đài Bắc Bảo Tàng Tâm Thiện 《Hình dạng của miệng》buổi hòa nhạc, Elephant Gym là khách mời đặc biệt.
+[^24]: [Lời nói của Đại Tượng Thể Cổ tại Fuji Rock 2022 (được tổ chức bởi ASEAN âm nhạc Đảo)](https://www.taiwanaseanmusicaction.com/) — Câu nói gốc của Cao Hữ Chiến: 'Hy vọng mỗi người khi gặp những điều tiêu cực, dù là chiến tranh hay đại dịch, cũng đừng bao giờ quên những điều mình tin tưởng'.
 
-[^23]: [Huỷ Minh Yêu, Elephant Gym chinh phục Nhật Bản "Fuji Rock" lễ hội âm nhạc（Đài Loan Trung Quốc Âm Nhạc Hành Động）](https://www.taiwanaseanmusicaction.com/%E6%BB%85%E7%81%AB%E5%99%A8%E3%80%81%E5%A4%A7%E8%B1%A1%E9%AB%94%E6%93%8D%E5%BE%81%E6%88%B0%E6%97%A5%E6%9C%AC%E3%80%8C%E5%AF%8C%E5%A3%AB%E6%90%96%E6%BB%BE%E3%80%8D%E9%9F%B3%E6%A8%82%E7%A5%AD%E5%A4%A7/) — 2022/07/31 Red Marquee, Naeba Ski Resort, với Huỷ Minh Yêu cùng kỳ.
+[^25]: [Elephant Gym - Underwater (TSR201) (trang sản phẩm Topshelf Records)](https://www.topshelfrecords.com/store) — Phát hành ngày 14 tháng 11 năm 2018, tác phẩm mới đầu tiên sau khi ký hợp đồng với Topshelf; sản xuất bởi Chen Shuochin cho ca khúc 'Chiếc Đệm', ca khúc chủ đề 'Dưới Nước' do Lý Dĩ Nhiên sản xuất.
 
-[^24]: [Elephant Gym Fuji Rock 2022 bài phát biểu（Đài Loan Trung Quốc Âm Nhạc Hành Động）](https://www.taiwanaseanmusicaction.com/) — Khải Tường "Hy vọng rằng khi gặp những điều tiêu cực, bất kể là chiến tranh hay dịch bệnh, đừng quên những điều bạn tin tưởng" từ ngữ đúng.
+[^26]: [Sun, Sneakers, and Solange: Camp Flog Gnaw Day 1 (WHRB Harvard)](https://www.whrb.org/archive/sun-sneakers-and-solange-camp-flog-gnaw-day-1/) — Ngày 9 tháng 11 năm 2019, tại Dodger Stadium, sân khấu Flog Stage lúc 13:20.
 
-[^25]: [Elephant Gym - Dưới nước（TSR201）（Topshelf Records trang sản phẩm）](https://www.topshelfrecords.com/store) — 2018/11/14 phát hành, tác phẩm mới đầu tiên sau ký Topshelf; 《Bị đơn》Trần Shan Ni sản xuất, bài tiêu đề 《Dưới nước》Hello Nico Lý Dĩ Ân sản xuất.
+[^27]: [Camp Flog Gnaw 2019: 11 những điều cần theo dõi (Ones to Watch)](https://www.onestowatch.com/en/blog/camp-flog-gnaw-2019-11-ones-to-catch-who-arent) — Câu nói gốc: 'buổi jam session cuối cùng của mọi thời đại'.
 
-[^26]: [Sun, Sneakers, and Solange: Camp Flog Gnaw Ngày 1（WHRB Harvard）](https://www.whrb.org/archive/sun-sneakers-and-solange-camp-flog-gnaw-day-1/) — 2019/11/09 Dodger Stadium, Flog Stage 13:20.
+[^28]: [Lời nói của Đại Tượng Thể Cổ tại sân khấu Camp Flog Gnaw KT (WHRB)](https://www.whrb.org/archive/sun-sneakers-and-solange-camp-flog-gnaw-day-1/) — Câu nói gốc: 'Phần quan trọng nhất của một ban nhạc rock không lời là gì? Rượu ngâm!' và 'Chúng tôi không biết tại sao chúng tôi ở đây!'.
 
-[^27]: [Camp Flog Gnaw 2019: 11 Ones to Catch Bạn Không（Ones to Watch）](https://www.onestowatch.com/en/blog/camp-flog-gnaw-2019-11-ones-to-catch-who-arent) — "the jam session to end all jam sessions" từ ngữ gốc.
+[^29]: [Hồ sơ phát hành của bản ghi âm trực tiếp của Đại Tượng Thể Cổ trên Audiotree (Bandcamp)](https://audiotree.bandcamp.com/album/elephant-gym-on-audiotree-live) — Phát hành ngày 8 tháng 4 năm 2019, cách thời gian biểu diễn tại Camp Flog Gnaw vào tháng 11 cách đây bảy tháng.
 
-[^28]: [Camp Flog Gnaw KT sân khấu bài phát biểu từ ngữ đúng（WHRB）](https://www.whrb.org/archive/sun-sneakers-and-solange-camp-flog-gnaw-day-1/) — "the most important part of an instrumental rock band? The alcohol!" + "We don't know why we're here!" từ ngữ đúng.
+[^30]: [Mơ về Đại Tượng Thể Cổ, 9m88 và Lucy tại bản trình diễn âm nhạc Đảo của SXSW (Austin Chronicle, 2023-03-15)](https://www.austinchronicle.com/daily/sxsw/2023-03-15/dreaming-with-elephant-gym-9m88-and-lucy-at-sxsws-taiwan-beats-showcase/) — Chi tiết về ba lần tham gia SXSW vào năm 2019, 2022 và 2023.
 
-[^29]: [Elephant Gym Audiotree Live phát hành bản ghi（Bandcamp）](https://audiotree.bandcamp.com/album/elephant-gym-on-audiotree-live) — 2019/04/08 phát hành, với Camp Flog Gnaw tháng 11 biểu diễn khoảng thời gian cách bảy tháng.
+[^31]: [Lễ bày tỏ của Elysium tại SXSW 2023 của Kai-Hsiang (Austin Chronicle)](https://www.austinchronicle.com/daily/sxsw/2023-03-15/dreaming-with-elephant-gym-9m88-and-lucy-at-sxsws-taiwan-beats-showcase/) — «Đài Loan là quê hương của những giấc mơ như bạn và tôi. Chúng tôi không chỉ mơ ước, mà còn biến những giấc mơ thành hiện thực.» — bản gốc.
 
-[^30]: [Mơ mộng với Elephant Gym, 9m88 và Lucy tại SXSW Taiwan Beats Showcase（Austin Chronicle, 2023-03-15）](https://www.austinchronicle.com/daily/sxsw/2023-03-15/dreaming-with-elephant-gym-9m88-and-lucy-at-sxsws-taiwan-beats-showcase/) — 2019, 2022, 2023 ba lần SXSW chi tiết.
+[^32]: [Elephant Gym tại ArcTangent 2019 (trang web chính thức ArcTangent)](https://arctangent.co.uk/artists/elephant-gym/) — 15-17 tháng 8 năm 2019 tại Fernhill Farm, Bristol; cùng sân khấu với Meshuggah, Coheed and Cambria, Battles, 65daysofstatic và các nghệ sĩ khác.
 
-[^31]: [Khải Tường SXSW 2023 Elysium bài phát biểu từ ngữ đúng（Austin Chronicle）](https://www.austinchronicle.com/daily/sxsw/2023-03-15/dreaming-with-elephant-gym-9m88-and-lucy-at-sxsws-taiwan-beats-showcase/) — "Đài Loan là quê hương của những người mơ ước như bạn và tôi. Chúng tôi không chỉ mơ ước, mà còn biến giấc mơ thành hiện thực" từ ngữ đúng.
+[^33]: [KT tại buổi giao thừa ở Kaohsiung Dream Mall kêu lên 'Có người cầm dao' (Zhongshi 20231231003205)](https://www.chinatimes.com/realtimenews/20231231003205-260404) — 23:59 ngày 31 tháng 12 năm 2023, lời nói trực tiếp trên sân khấu: «Có người cầm dao, FXXK» — bản gốc.
 
-[^32]: [Elephant Gym at ArcTangent 2019（Trang web chính thức ArcTangent）](https://arctangent.co.uk/artists/elephant-gym/) — 2019/08/15-17 Fernhill Farm, Bristol; cùng sân khấu Meshuggah, Coheed and Cambria, Battles, 65daysofstatic v.v.
+[^34]: [Tiến trình trực tuyến của sự kiện giao thừa bị cắt (TVBS 2353082)](https://news.tvbs.com.tw/entertainment/2353082) — Trực tiếp bị gián đoạn khoảng 7 phút, sân khấu phục hồi vào lúc 21:12.
 
-[^33]: [Cao Hùng Takashimaya giao thừa KT hét "có người cầm dao"（Thời đại Trung Quốc 20231231003205）](https://www.chinatimes.com/realtimenews/20231231003205-260404) — 2023/12/31 KT sân khấu từ ngữ đúng "Có người cầm dao, FXXK".
+[^35]: [KT làm rõ trong câu chuyện ngắn trên Instagram vào ngày 1/1 (TVBS 2356857)](https://news.tvbs.com.tw/local/2356857) — «Trước tiên tôi nghe thấy tiếng đông đúc, sau đó trong tai nghe thấy có người nói: "Có người cầm dao", rồi tiếp theo là lệnh "xuống sân khấu".» — bản gốc.
 
-[^34]: [Sự kiện giao thừa phát sóng trực tiếp tạm dừng thời gian（TVBS 2353082）](https://news.tvbs.com.tw/entertainment/2353082) — Phát sóng trực tiếp tạm dừng khoảng 7 phút, 21:12 hiện trường phục hồi.
+[^36]: [Tuyên bố chính thức của Elephant Gym (TVBS 2353082)](https://news.tvbs.com.tw/entertainment/2353082) — «Cảm ơn mọ người quan tâm. Về tình huống thực tế tại chỗ, chúng tôi sẽ dựa vào phản hồi của ban tổ chức.» — bản gốc.
 
-[^35]: [KT 1/1 IG story làm rõ（TVBS 2356857）](https://news.tvbs.com.tw/local/2356857) — "Nghe được tiếng đám đông chen lấn, rồi trong tai nghe nghe được có người nói 'có người cầm dao' rồi là lệnh 'xuống sân khấu'" từ ngữ đúng.
+[^37]: [Tuyên bố của Chi nhánh Cảnh sát trước trường Đài Loan Thành phố](https://www.chinatimes.com/realtimenews/20231231003205-260404) — 35 người bị đẩy xô và va chạm, "dao" thực chất là bút bi, không có ai bị thương do dao.
 
-[^36]: [Tuyên bố chính thức của Elephant Gym（TVBS 2353082）](https://news.tvbs.com.tw/entertainment/2353082) — "Cảm ơn mọi người quan tâm, về tình huống hiện trường thực tế, xin hãy theo dõi phản hồi của ban tổ chức" từ ngữ đúng.
+[^38]: [Các nhóm biểu diễn hậu trường của Đài Loan Thành phố (Zhongshi)](https://www.chinatimes.com/realtimenews/20231231003205-260404) — «Sự kiện vào đêm giao thừa không liên quan gì đến bất kỳ nhóm biểu diễn nào... kêu gọi mọ người đừng trách móc các nhóm biểu diễn.» — bản gốc.
 
-[^37]: [Giải thích Sở Cảnh sát Quận Tiền Trấn, Thành phố Cao Hùng](https://www.chinatimes.com/realtimenews/20231231003205-260404) — 35 người bị chấn thương chen lấn, "dao" thực ra bút chì, không ai bị thương do dao.
+[^39]: [Thông tin phát hành album Dreams của Elephant Gym (trang web chính thức)](https://elephantgym.co/music/) — Phát hành ngày 11 tháng 5 năm 2022, bài <影子> hợp tác với 9m88, bài <發夢到你> hợp tác với Lin Sheng-hsiang; <影子> lấy cảm hứng từ lý thuyết bóng của Jung.
 
-[^38]: [Tuyên bố hỗ trợ thành phố sau đó cho đội biểu diễn（Thời đại Trung Quốc）](https://www.chinatimes.com/realtimenews/20231231003205-260404) — "Sự kiện đêm giao thừa không liên quan gì tới bất kỳ đội biểu diễn nào...kêu gọi mọi người đừng khắng khai với đội biểu diễn" từ ngữ đúng.
+[^40]: [Danh sách nghệ sĩ hợp tác của album Dreams của Elephant Gym (trang web âm nhạc)](https://elephantgym.co/music/) — Bài <振翅> hợp tác với Dànshì Quản nhạc, bài <聚會 của các vị thần> hợp tác vẹn với Nhóm nghệ thuật dân gian Cửu Thiên.
 
-[^39]: [Elephant Gym "_Giấc mơ Dreams_" thông tin phát hành（trang web chính thức）](https://elephantgym.co/music/) — 2022/05/11 phát hành, 《Bóng》feat. 9m88, 《Đi xuyên qua bạn》feat. Lâm Sinh Tường; 《Bóng》lấy từ Jung Shadow Theory.
+[^41]: [Elephant Gym về album mới Dreams (NME)](https://www.nme.com/features/elephant-gym-album-dreams-interview-math-rock-3222491) — Kai-Hsiang: «Điều thú vị nhất là tìm kiếm các nhạc sĩ khác để phá vỡ thế giới của bạn» — bản gốc.
 
-[^40]: [Elephant Gym "_Giấc mơ_" danh sách hợp tác（trang web chính thức music trang）](https://elephantgym.co/music/) — 《Vỗ cánh》feat. nhạc giao hưởng quản lý cao hùng, 《Bữa tiệc của các vị thần》feat. Mười ba ngày dân gian kỳ lạ lạ.
+[^42]: [Thông tin phát hành album Thế giới World của Elephant Gym (trang sản phẩm Topshelf Records)](https://www.topshelfrecords.com/) — Phát hành toàn cầu ngày 14 tháng 12 năm 2023, 10 bài hát, kỷ niệm 10 năm thành lập.
 
-[^41]: [Elephant Gym trên album mới Dreams（NME）](https://www.nme.com/features/elephant-gym-album-dreams-interview-math-rock-3222491) — Khải Tường "Những điều thú vị nhất để làm là tìm những nhạc sĩ khác để phá vỡ thế giới của bạn" từ ngữ gốc.
+[^43]: [Danh sách hợp tác của album Thế giới của Elephant Gym (trang web âm nhạc)](https://elephantgym.co/music/) — Bài <Tên> hợp tác với đàn bass kép của Quan Thiên, bài <Jhalleyaa> hợp tác với Shashaa Tirupati, bài <Lông vũ> hợp tác với Bad T + TENDRE, bài <Hoàng tử hạnh phúc> hợp tác với Lin Yi-le.
 
-[^42]: [Elephant Gym "_Thế giới World_" thông tin phát hành（Topshelf Records trang sản phẩm）](https://www.topshelfrecords.com/) — 2023/12/14 phát hành toàn cầu, 10 bài, 10 năm kỷ niệm.
+[^44]: [Thông tin biểu diễn Zepp Premium vào ngày 23 tháng 2 năm 2023 (MeMeOn music, ngày 16 tháng 11 năm 2022)](https://memeon-music.com/2022/11/16/zepp-premium/) — Zepp New Taipei, Quan Thiên + SKY-HI + Elephant Gym biểu diễn chung.
 
-[^43]: [Elephant Gym "_Thế giới_" danh sách hợp tác（trang web chính thức music trang）](https://elephantgym.co/music/) — 《Tên》feat. Kuroda Seiji bass kép, 《Jhalleyaa》feat. Shashaa Tirupati, 《Lông》feat. Tệ đặc biệt + TENDRE, 《Hoàng tử vui vẻ》feat. Lâm Dĩ Nhạc.
+[^45]: [MV của Elephant Gym - Đi qua đêm Go Through the Night (YouTube)](https://www.youtube.com/watch?v=-WGaDoOlHwo) — Phát hành ngày 23 tháng 3 năm 2021, lấy mẫu âm thanh đàn guitar acoustic của toe năm 2009 trong bài Two Moons.
 
-[^44]: [Zepp Premium 2023/02/23 biểu diễn thông tin（MeMeOn music, 2022-11-16）](https://memeon-music.com/2022/11/16/zepp-premium/) — Zepp New Taipei, Kuroda Seiji + SKY-HI + Elephant Gym biểu diễn chung.
+[^46]: [Đại Tượng Cơ Tác ‘Thế Giới THE WORLD’ Lễ Quay Lớn (Blow âm nhạc #77310)](https://blow.streetvoice.com/77310/) — Tổng cộng gần 60 buổi, lan tỏa khắp châu Á, châu Mỹ và châu Âu.
 
-[^45]: [Elephant Gym 《Đi xuyên qua đêm Go Through the Night》MV（YouTube）](https://www.youtube.com/watch?v=-WGaDoOlHwo) — 2021/03/29 single, lấy mẫu toe 2009 《Hai mặt trăng》acoustic guitar.
+[^47]: [Đại Tượng Cơ Tác: Thực tế hơn giấc mơ (Lễ phim Kaohsiung #4891)](https://www.kff.tw/film/content/4891) — Đạo diễn Kuo Jinru Alulu, nhà sản xuất Zhang KaiXiang, thời lượng 95 phút.
 
-[^46]: [Elephant Gym "Thế giới THE WORLD" quy mô lưu diễn（Blow吹音樂 #77310）](https://blow.streetvoice.com/77310/) — Tích lũy gần 60 buổi trên toàn châu Á, Mỹ, Âu.
+[^48]: [Đại Tượng Cơ Tác: Thực tế hơn giấc mơ Thông tin ra mắt (in89 siêu cung chiếu)](https://www.in89.com.tw/) — 06/02/2026 ra mắt tại Thượng Hải, trước đó vào tháng 01/2026 tại Tokyo và Kyoto, Nhật Bản.
 
-[^47]: [Elephant Gym: Thực tế hơn cả giấc mơ（Cao Hùng Liên hoan Phim #4891）](https://www.kff.tw/film/content/4891) — Đạo diễn Quách Tấn Nhân Alulu KUO, sản xuất Trương Khải Tường, 95 phút.
+[^49]: [Đại Tượng Cơ Tác: Lõi cốt tác phẩm Thực tế hơn giấc mơ (Giới thiệu tại Lễ phim Kaohsiung)](https://www.kff.tw/film/content/4891) — Năm 2023, nhóm thành viên xảy ra tranh cãi, gần như tan rã; Tse KhaQin ‘bị buộc phải rời khỏi một nhóm khác’; hai anh chị em ‘xảy ra xung đột giữa người thân và đồng nghiệp’.
 
-[^48]: [Elephant Gym: Thực tế hơn cả giấc mơ thông tin phát hành（in89 rạp phim cao cấp）](https://www.in89.com.tw/) — 2026/02/06 lần đầu chiếu Đài Bắc, sớm hơn tháng 1 năm 2026 Tokyo, Kyoto Nhật Bản chiếu.
+[^50]: [OST More Real than Dreams Văn bản (Topshelf Records)](https://www.topshelfrecords.com/) — ‘Vào năm 2023, Đại Tượng Cơ Tác đang chuẩn bị khởi hành trên một chuyến đi khắp thế giới — nhưng ban nhạc đứ chân ở bờ vực chia ly’ — trích dẫn nguyên văn.
 
-[^49]: [Elephant Gym: Thực tế hơn cả giấc mơ lõi kịch本（Cao Hùng Liên hoan Phim giới thiệu）](https://www.kff.tw/film/content/4891) — Năm 2023 tranh cãi thành viên, sắp tan rã; Gia Khâm "bị buộc rời khỏi ban nhạc khác"; anh em "dân anh chị và đồng nghiệp kéo co".
+[^51]: [Phỏng vấn tâm lý chuyến đi của Đại Tượng Cơ Tác (United News Network stars.udn 8353334)](https://stars.udn.com/star/story/10092/8353334) — KT: ‘Thực ra, thường xuyên khi về nhà, tôi chỉ nằm trên giường khóc nức’ — trích dẫn nguyên văn.
 
-[^50]: [More Real than Dreams OST bản mô tả（Topshelf Records）](https://www.topshelfrecords.com/) — "In 2023, Elephant Gym was preparing to embark on a world tour—yet the band stood on the brink of breaking up" từ ngữ gốc.
+[^52]: [Thông tin phát hành OST More Real than Dreams (Topshelf 872753)](https://www.topshelfrecords.com/) — Phát hành ngày 03/02/2026, có sự tham gia của dooodooo, Wu Peilin và dây nhạc thành phố Kaohsiung.
 
-[^51]: [Elephant Gym lưu diễn tâm trạng phỏng vấn（Agence France-Presse udn 8353334）](https://stars.udn.com/star/story/10092/8353334) — KT "Thực ra tôi thường xuyên khi về nhà, sẽ nằm trên giường và khóc nức nở" từ ngữ đúng.
+[^53]: [Đại Tượng Cơ Tác ‘Thế Giới’ Giành Giải 35 của Ban Giám khảo Kim Nhạc (Central News Agency CNA, 2024-06-29)](https://www.cna.com.tw/news/amov/202406290257.aspx) — Trích dẫn nguyên văn nhận xét của Chen Zihong và lời phát biểu của KaiTing.
 
-[^52]: [More Real than Dreams OST thông tin phát hành（Topshelf 872753）](https://www.topshelfrecords.com/) — 2026/02/03 phát hành, dooodooo, Ngô Phất Nhuận, thành viên nhạc giao hưởng quản lý cao hùng tham gia.
+[^54]: [Danh sách giải thưởng Kim Âm Sáng Tạo (Bộ Văn hóa, Bộ phận Điện ảnh GIMA)](https://gima.bamid.gov.tw/) — Tổng hợp lịch sử giành giải của Đại Tượng Cơ Tác và KT tại các giải thứ 5, 10, 13 và 15.
 
-[^53]: [Elephant Gym "_Thế giới_" đạt Âm nhạc Vàng 35 Giải thưởng Ban giám khảo（Trung ương Thông tấn xã 2024-06-29）](https://www.cna.com.tw/news/amov/202406290257.aspx) — Trần Tử Hồng đánh giá và bài phát biểu của Khải Tình từ ngữ đúng trích dẫn kép nguồn.
+[^55]: [Lời cảm ơn nhận giải Nhạc sĩ Xuất sắc nhất Kim Âm năm thứ 13 (Blow âm nhạc #64010)](https://blow.streetvoice.com/64010/) — Năm 2022, KT cầm micro lên trời, hứa sẽ chia tiền giải, ‘khi mới trở thành bassist, kỹ năng biểu diễn bị mọường cường chê cực’ — trích dẫn nguyên văn.
 
-[^54]: [Danh sách đạt giải Âm nhạc Vàng（Bộ Văn hóa Cục Phim Truyền hình Nhật Bản GIMA）](https://gima.bamid.gov.tw/) — Lần thứ 5, 10, 13, 15 Elephant Gym và Khải Tình danh sách đạt giải tích lũy.
-
-[^55]: [Lần thứ 13 Âm nhạc Vàng Khải Tình nhạc sĩ tốt nhất bài phát biểu（Blow吹音樂 #64010）](https://blow.streetvoice.com/64010/) — 2022 KT kéo Vũ Trụ Nhân Phương Q lên sân khấu, hứa chia tiền giải, "vừa làm bass kỹ năng chơi bị chỉ trích" từ ngữ đúng.
-
-[^56]: [Trương Khải Tình trở thành người phụ nữ đại diện bass Fender Đài Loan lần đầu tiên（Zeek Magazine）](https://zeekmagazine.com/archives/117709) — 2020/03/18 công bố, đồng thời được đăng tạp chí《Bass Magazine》Nhật Bản.
+[^56]: [Zhang KaiTing Trở thành Đại sứ Bass Nữ Đầu tiên của Fender tại Đài Loan (Tạp chí Zeek)](https://zeekmagazine.com/archives/117709) — Công bố ngày 18/03/2020, đồng thời được báo cáo trên tạp chí Bass của Nhật Bản.

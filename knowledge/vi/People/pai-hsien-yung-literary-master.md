@@ -19,9 +19,10 @@ lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
 translatedFrom: 'People/白先勇.md'
-sourceCommitSha: '7415dcaae'
-sourceContentHash: 'sha256:f52e9861970f1c2f'
-translatedAt: '2026-09-10T17:13:39.517743+00:00'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:d675a47ee18feb3d'
+sourceBodyHash: 'sha256:44085a78b193e440'
+translatedAt: '2026-10-10T03:03:39.342565+00:00'
 ---
 
 # Bạch Tiên Dũng: 《Đài Bắc Nhân》 1971, đến phiên bản Thanh Xuân 《Mẫu Đan Đình》 hai mươi năm lưu diễn
@@ -70,25 +71,25 @@ Giải thưởng này là sự xác nhận chính thức của giới văn học
 
 (Chú: 「Giải thưởng Văn nghệ Trung Sơn」 và 「Giải thưởng Ban chấm quyết định Giải Hồng Lâu Mộng lần thứ 7 năm 2018」 đều không thể xác nhận. Cái sau là ảo tưởng: Giải Hồng Lâu Mộng lần thứ 7 (2018) có chủ nhân là 《Thanh Phú Tử》《Vọng Xuân Phong》, không phải tác phẩm của Bạch Tiên Dũng.[^5])
 
-## Bản Thanh Xuân 《Mẫu Đan Đình》 20 năm và 《Mẫu Đan Hoa Khai Hai Mươi Năm》
+## Tuổi trẻ phiên bản 《Mộc Đề Tĩnh》 20 năm và 《Mộc Đề Hoa Mở Hai Mươi Năm》
 
-Tháng 9 năm 2024, Bản Thanh Xuân 《Mẫu Đan Đình》 khởi động chuỗi diễn kỷ niệm 20 năm. [^2] Cùng năm tháng 11, 《Mẫu Đan Hoa Khai Hai Mươi Năm》 xuất bản, ghi chép hai mươi năm lịch trình biểu diễn.
+Tháng 9 năm 2024, vòng quay tuổi trẻ phiên bản 《Mộc Đề Tĩnh》 20 năm chính thức khởi động.[^2] Vào tháng 11 cùng năm, 《Mộc Đề Hoa Mở Hai Mươi Năm》 được xuất bản, ghi chép lại toàn bộ hành trình hai thập kỷ của vở diễn này.
 
-Tháng 10 năm 2025, Đại học Đài Loan tổ chức triển lãm đặc biệt văn học Bạch Tiên Dũng. [^4] Năm 2026, Bạch Tiên Dũng vẫn hoạt động sôi nổi.
+Tháng 10 năm 2025, Đại học Quốc gia Đài Loan tổ chức triển lãm văn học Bạch Tiên Dũng.[^4] Năm 2026, Bạch Tiên Dũng vẫn đang hoạt động sôi nổi.
 
-Chuỗi diễn kỷ niệm 20 năm năm 2024 trải dài qua Đài Bắc, Hồng Kông, Tô Châu và nhiều thành phố khác, 《Mẫu Đan Hoa Khai Hai Mươi Năm》 ghi chép lại toàn bộ lịch trình của dự án văn hóa này từ buổi diễn đầu tiên đến các cột mốc quan trọng.
+Vòng quay 20 năm năm 2024 lan tỏa qua nhiều thành phố như Đài Bắc, Hồng Kông, Tứ Xuyên và khác thành phố, trong khi 《Mộc Đề Hoa Mở Hai Mươi Năm》 ghi lại toàn bộ câu chuyện của dự án văn hóa này từ lần mở màn đầu tiên cho tới những cột mốc quan trọng.
 
-Năm 2026 Bạch Tiên Dũng vẫn xuất hiện công khai, tiếp tục quảng bá văn hóa Cổn kịch và giáo dục văn học. Sự kiên trì này bản thân chính là một tuyên ngôn đối kháng với sự tan biến.
+Năm 2026, Bạch Tiên Dũng vẫn đang tham gia các hoạt động công cộng, tiếp tục thúc đẩy phổ biến văn hóa cung đình và giáo dục văn học. Chính sự kiên trì này, là một lời tuyên bố chống lại sự biến mất.
 
-> 🎙️ **Ghi chú người bảo tàng**: Bạch Tiên Dũng là một trong những ít nhà sáng tác trong lịch sử văn học Đài Loan bắt đầu với tư cách "nhà tiểu thuyết hiện đại" nhưng kết thúc với tư cách "người phục hưng văn hóa truyền thống". Quỹ đạo này không phải là sự chuyển型 theo nghĩa thông thường, mà là sự thâm hóa. Nỗi âu sầu trước sự tan biến trong 《Đài Bắc Nhân》, cùng với việc bảo vệ Cổn kịch trong Bản Thanh Xuân 《Mẫu Đan Đình》, đều xuất phát từ cùng một ý thức vấn đề: làm sao để những điều quý giá không bị mất đi.
+> 🎙️ **Ghi chú của người trưng biển**: Bạch Tiên Dũng là một trong những tác giả hiếm hoi trong lịch sử văn học Đài Loan, khởi đầu với danh hiệu "nhà văn hiện đại" nhưng kết thúc với vai trò "người phục hồi văn hóa truyền thống". Đường cong này không phải là một sự chuyển đổi thông thường, mà là một sự sâu hơn. Tình cảm mộc nhớ về sự biến mất trong 《Những người Đài Bắc》 và sự bảo vệ cung đình trong phiên bản tuổi trẻ 《Mộc Đề Tĩnh》, đều xuất phát từ cùng một nhận thức cốt lõi: cách để những thứ quý giá không bị lãng quên.
 >
-> Thành công của ông chứng minh rằng, bảo tồn văn hóa không cần "bảo tàng hóa", cũng không cần "đại chúng hóa". Điều cần thiết là một người có trình độ nghệ thuật đủ cao và đủ kiên trì, liên tục làm cho nó đủ tốt.
+> Thành công của ông cho thấy, bảo tồn văn hóa không cần thiết phải đưa về không gian bảo tàng, cũng không cần thiết phải đơn giản hóa. Điều cần thiết là một người có trình độ nghệ thuật đủ cao và kiên trì đủ mạnh, liên tục tạo ra điều tốt đẹp nhất.
 >
-> 《Nặc Tử》 và Bản Thanh Xuân 《Mẫu Đan Đình》 (một tác phẩm năm 1983 phá vỡ sự im lặng, một tác phẩm năm 2004 hồi sinh cổ điển), dường như hoàn toàn khác biệt, nhưng đều xuất phát từ sự bảo vệ tận tâm đối với những điều bị đẩy ra lề đường.
+> 《Phản Con》 và phiên bản tuổi trẻ 《Mộc Đề Tĩnh》 (một tác phẩm phá vỡ im lặng vào năm 1983, một tác phẩm mang lại sự sống động cho cổ điển vào năm 2004), dù trông có vẻ hoàn toàn khác biệt, nhưng đều xuất phát từ cùng một tình yêu sâu sắc và bảo vệ kiên trì đối với những thứ bị bỏ rơi.
 
-Từ Quế Lâm Quảng Tây đến Công viên Mới Đài Bắc, từ 《Văn Học Hiện Đại》 đến Viện Cổn Kịch Tô Châu, sáu mươi năm quỹ đạo của Bạch Tiên Dũng, là mẫu người đối với việc "ký ức" chưa bao giờ chịu buông tay.
+Từ Quảng Tây Vân Laĩ tới khu công viên mới Đài Bắc, từ 《Văn học Hiện đại》 tới nhà hát cung đình Tứ Xuyên, hành trình sáu mươi năm của Bạch Tiên Dũng, là minh chứng cho một con người không bao giờ buông bỏ "ký ức".
 
-**Mở rộng đọc**: [Bạch Tiên Dũng — Wikipedia](https://zh.wikipedia.org/wiki/白先勇) ｜ [Giải Quốc gia Văn nghệ: Hồ sơ giải thưởng Bạch Tiên Dũng](https://www.ncafroc.org.tw/artsaward/winnerDetail@1229) ｜ [Viện Văn học Quốc gia Đài Loan](https://www.nmtl.gov.tw/) ｜ [Tam Mao](/vi/people/san-mao)：Bạch Tiên Dũng giới thiệu tác phẩm đầu tay 〈Hoặc〉 của cô xuất bản trên 《Văn Học Hiện Đại》
+**Đọc thêm**: [Bạch Tiên Dũng — Wikipedia](https://zh.wikipedia.org/wiki/白先勇) ｜ [Giải Văn nghệ Quốc gia: Hồ sơ Bạch Tiên Dũng](https://www.ncafroc.org.tw/artsaward/winnerDetail@1229) ｜ [Viện Văn hóa Quốc gia Đài Loan](https://www.nmtl.gov.tw/) ｜ [Tam Mỹ](/vi/people/san-mao): Tác phẩm đầu tiên của cô, 《Mê Lả», được Bạch Tiên Dũng giới thiệu và đăng trên 《Văn học Hiện đại》
 
 ## 參考資料
 

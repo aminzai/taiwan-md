@@ -16,16 +16,13 @@ tags:
 subcategory: 'Văn học'
 author: 'Taiwan.md Contributors'
 featured: false
-readingTime: 8
 lastVerified: 2026-03-19
 lastHumanReview: false
-difficulty: 2
-imageAlt: 'Tích Mộc Dung, nhà thơ hiện đại Đài Loan'
 translatedFrom: 'People/席慕蓉.md'
-sourceCommitSha: '7415dca'
-sourceContentHash: 'sha256:6428a22574e0ec610ee2aad9da7c4cbcb976cceb74b2dee1aa50c282516aec71'
-sourceBodyHash: 'sha256:708f1b77bd3220beb752885672676c413021fbe931ae0204b36d2614c33e2a64'
-translatedAt: 2026-07-31T00:00:00Z
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:36049c1494516a6b'
+sourceBodyHash: 'sha256:c035c602c7e335fa'
+translatedAt: '2026-10-10T03:04:45.593683+00:00'
 ---
 
 # Tích Mộc Dung: Giao hưởng thơ giữa cỏ cỏ và thế đại
@@ -104,8 +101,8 @@ Khác với [[白先勇]] với phong cách tinh tế huyền bí, [[龍應台]]
 
 [^7]: [Giải Văn Nghệ Quốc Gia — Quỹ Văn hoá Nghệ thuật Quốc gia](https://www.ncafroc.org.tw/) — Kỷ lục giải thưởng của Tích Mộc Dung và giải thích của ban giám khảo.
 
-## Tham khảo mở rộng
+## Đọc thêm
 
-- [Bảo tàng Văn học Quốc gia Đài Loan](https://www.nmtl.gov.tw/) — Những tác phẩm và tư liệu của Tích Mộc Dung được lưu trữ tại Bảo tàng Văn học Quốc gia Đài Loan
-- Bạch Tiên Dũng — Nhà văn tên tuổi cùng thế hệ ở Đài Loan, nổi tiếng với «Đài Bắc nhân vật»
-- Tam Mao — Tác giả nữ cùng thế hệ đã viết những nơi xa xôi vào trong trái tim của người Đài Loan
+- [Viện Văn học Quốc gia Đài Loan](https://www.nmtl.gov.tw/) — Tác phẩm và hiện vật của Tích Mộc Dung được lưu giữ tại Viện Văn học Quốc gia Đài Loan
+- [Bạch Tiên Vĩ](/vi/people/pai-hsien-yung-literary-master) — Nhà văn nổi tiếng cùng thời, nổi tiếng với tác phẩm 《Người Đài Bắc》
+- [Tam Mô](/vi/people/san-mao) — Nhà văn nữ cùng thời đã ghi dấu tình cảm cho người nước ngoài trong lòng người Đài Loan
