@@ -22,10 +22,10 @@ lastHumanReview: false
 readingTime: 10
 imageNote: '原 Wikimedia 圖檔已從 Commons 下架（404 Not Found），卡片圖暫缺，待補圖'
 translatedFrom: 'Food/阿婆鐵蛋.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:f215fbcb32524845'
-sourceBodyHash: 'sha256:f4c6330bca417165'
-translatedAt: '2026-09-08T15:54:48+08:00'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:bb3833c08618e661'
+sourceBodyHash: 'sha256:f7475d29ab35a9a7'
+translatedAt: '2026-10-10T07:54:39.783923+00:00'
 ---
 
 # O Ovo de Ferro da Avó
@@ -102,9 +102,9 @@ O ovo de ferro não é apenas um snack; ele carrega a história de Danshui ao se
 
 [^12]: [Fundadora do Ovo de Ferro da Avó morre por AVC! Médicos alertam sobre "desidratação por suor"](https://health.ettoday.net/news/2293316) — ETtoday News Cloud, 13/07/2022.
 
-## Tópicos Relacionados
+## Temas relacionados
 
-- [Cultura de Mercado Noturno](/pt/food/night-market-culture) — Análise aprofundada do mercado noturno como espaço social
-- [Comida Típica de Taiwan](/pt/food/taiwanese-street-food) — A coragem popular da alimentação cotidiana em Taiwan
-- [Arroz com Carne Cozida de Taiwan](/pt/food/braised-pork-rice) — Memória étnica em uma tigela de arroz com carne cozida
-- [Cultura Alimentar Hakka](/pt/food/hakka-food-culture) — Sabedoria alimentar do grupo Hakka
+- [Cultura dos mercados noturnos](/pt/food/night-market-culture) — análise profunda dos mercados noturnos como espaços sociais
+- [Comida de rua de Taiwan](/pt/food/taiwanese-street-food) — coragem popular da culinária de Taiwan
+- [Arroz com carne apimentada de Taiwan](/pt/food/braised-pork-rice) — memória coletiva em um prato
+- [Cultura culinária chia](/pt/food/hakka-food-culture) — sabedoria gastronômica da etnia chia

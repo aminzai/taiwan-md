@@ -2,27 +2,29 @@
 title: 'A cultura dos bolos e pastéis tradicionais de Taiwan'
 description: 'Desde o bolo fengyan de 1877 da Yuzhenzhai em Lugang até o bolo de gema de ovo de solo vermelho de Chen Yao-xun em 2026 vendido em 30 segundos no sistema de bilhetes Tixcraft, 150 anos de história em camadas da pastelaria de Taiwan. No meio estão a revolução do bolo de abacaxi quadrado da I-Fu-Tang na era japonesa, o experimento do bolo de gema de ovo em forma de azeitona da Baquan em Fengyuan, 270 hectares de abacaxi nativo cultivado por contrato ao pé da Montanha Bagua, a mutação artesanal da massa folhada com óleo, e lojas centenárias de bolos Han dividindo a mesma mesa de meio-outono com campeões mundiais de pão.'
 date: 2026-05-03
-author: 'Taiwan.md'
 category: 'Food'
-subcategory: '烘焙與糕點'
 tags:
-  - 'bolos e pastéis'
-  - 'bolos Han'
-  - 'bolo de abacaxi'
-  - 'bolo de gema de ovo'
-  - 'bolo solar'
-  - 'meio-outono'
-  - 'lembranças'
-  - 'massa folhada com óleo'
-  - 'cultura alimentar'
+  [
+    'bolos e pastéis',
+    'bolos Han',
+    'bolo de abacaxi',
+    'bolo de gema de ovo',
+    'bolo solar',
+    'meio-outono',
+    'lembranças',
+    'massa folhada com óleo',
+    'cultura alimentar',
+  ]
+subcategory: '烘焙與糕點'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
-featured: false
 translatedFrom: 'Food/台灣糕餅文化.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:bdb405b92fc10596'
-sourceBodyHash: 'sha256:c6a86f733ba033b1'
-translatedAt: '2026-07-25T12:45:42+08:00'
+sourceCommitSha: '93c5da2ca'
+sourceContentHash: 'sha256:18a6dcd21c7afdcc'
+sourceBodyHash: 'sha256:736db188fea407ed'
+translatedAt: '2026-10-10T08:30:17.432376+00:00'
 ---
 
 # A cultura dos bolos e pastéis tradicionais de Taiwan
@@ -107,19 +109,19 @@ O ritual de oferecer chá na casa de três pátios (sanheyuan) de Nantou é a ce
 
 O impacto mais concreto é agrícola. A SunnyHills aqueceu o preço do abacaxi nativo, de menos de 5 NT$ o jin inicialmente, subiu para 10 NT$ o jin no preço de contrato, área contratada de 270 hectares, emprega 210 funcionários locais[^4]. Este número no setor agroindustrial de Taiwan não é pequeno, equivale a puxar de volta ao mercado principal uma variedade nativa que parecia destinada a desaparecer.
 
-## A grande batalha de meio-outono dos 30 segundos
+## A Grande Batalha do Mid-Autumn Festival Vendida em 30 Segundos
 
-Chegamos a 2017. Um «filho de Lugang» chamado **Chen Yao-xun** venceu a 6ª edição do Mondial du Pain, campeonato mundial de pão[^5]. O campeonato mundial é organizado pela França, competição técnica de pão europeu, raro ver atleta asiático vencer.
+O tempo avança para 2017. Um jovem de Lukang chamado **Chen Yao-xun** venceu o sexto Mondial du Pain, o Campeonato Mundial de Pães[^5]. O concurso mundial de pães é uma competição técnica de pães europeus organizada na França, e é raro um atleta asiático vencer.
 
-Em 2019 Chen Yao-xun regressou a Taiwan, fundou a marca pessoal «**Chen Yao-xun・Bakery YOSHI BAKERY**»[^11]. A primeira coisa que fez foi fundir a técnica europeia de pão de campeão mundial com a casca folhada de gema salgada dos bolos Han tradicionais, desenvolvendo uma caixa de meio-outono chamada «Bolo de gema de ovo de solo vermelho»[^10].
+Ao retornar a Taiwan, Chen Yao-xun fundou sua marca de panificação pessoal, "Chen Yao-xun・Bakery YOSHI BAKERY", em Taipé[^11]. A primeira coisa que ele fez foi misturar a técnica europeia do pão premiada mundialmente com a massa salgada tradicional chinesa (Hanjbing) de Taiwan para desenvolver um kit de presentes do Mid-Autumn Festival chamado "Red Earth Salted Egg Yolk Pastry" (紅土鹹蛋黃蛋黃酥)[^10].
 
-Gema salgada curada em solo vermelho + pasta de feijão com açúcar reduzido + manteiga campeã dinamarquesa.
+Gema de ovo salgada em conserva da Terra Vermelha + doce de feijão com baixo teor de açúcar + manteiga campeã holandesa.
 
-Esta combinação no ano de lançamento colocou Chen Yao-xun na posição de «Hermès dos bolos de gema de ovo» — esgotou em menos de 30 segundos[^10]. Internautas dizem que é mais difícil que bilhete de concerto. A pré-venda de meio-outono de 2025 mudou diretamente para o sistema Tixcraft (o mesmo que vende bilhetes de Mayday e Jay Chou), 29 de julho meio-dia 12:30 abertura, limite de 8 caixas por pessoa, preço 900 NT$, sem entrega, levantamento obrigatório na loja[^11].
+No primeiro ano que este combo foi lançado, Chen Yao-xun alcançou o status de "Hermès do setor de gema de ovo" — esgotado em menos de 30 segundos[^10]. Os internautas começaram a dizer que era mais difícil de conseguir do que ingressos para shows. A pré-venda do Mid-Autumn Festival de 2025, assim como antes, foi realizada no sistema de vendas de Tuanyuan (o mesmo sistema usado para os shows de Mayday e Jay Chou), com início em 29 de julho às 12h30, limitado a 8 caixas por pessoa, pelo preço de NT$900, sem entrega, exigindo retirada na loja[^11].
 
-Este é um formato totalmente novo de grande batalha de meio-outono. Lojas antigas comparam receita, design de caixa, canais de distribuição; a nova geração adiciona sistema de corrida a bilhetes, campeão mundial de pão, _hype_ nas redes sociais — três novos campos de batalha.
+Este é um formato de grande batalha do Mid-Autumn Festival de uma nova geração. As padarias tradicionais competem em receitas, design dos kits e canais; a nova geração adiciona três novos campos de batalha: o sistema de venda de ingressos, o título mundial de pão e o _hype_ das redes sociais.
 
-Da mesma geração de Chen Yao-xun, há ainda o bolo de taro do Mestre A-tsung de Dajia (doce designado para banquetes de Estado), o bolo fengyan da Yuzhenzhai de Lugang, o pequeno bolo lunar da Chen Yun Baquan de Fengyuan, o bolo de abacaxi da SunnyHills, o gelato de bolo Han da Jiou Zhen Nan[^12]. Estas lojas centenárias, novos artesãos, via de educação cultural, gelato transversal — quatro bolos representam quatro posturas de época, todos os anos a dialogar na mesma mesa de meio-outono.
+Na mesma geração que Chen Yao-xun, estão os _taro pastries_ (doces de taro) do Mestre A-tsung de Dajia (aperitivo designado para banquetes estatais), os _phoenix eye cakes_ (鳳眼糕) da Yukzhenzhai de Lukang, os pequenos doces lunares de Chen Yun-bao de Fengyuan, os _pineapple tarts_ (鳳梨酥) do Micro Heat Hill e o Gelato de Hanjbing da Jiou Zhen Nan[^12]. Essas quatro iguarias — as antigas padarias centenárias, os artesãos emergentes, a rota educacional cultural e o sorvete _crossover_ — representam quatro posturas de época que conversam na mesma mesa durante o Mid-Autumn Festival todos os anos.
 
 ## As camadas do recheio permaneceram essencialmente iguais
 
@@ -142,48 +144,48 @@ Um bolo contém muito mais tempo do que julgas.
 
 ## Referências
 
-[^1]: [Site oficial da Yuzhenzhai — Sobre a Yuzhenzhai e evolução histórica](https://www.1877.com.tw/about-us/) — Site oficial da Yuzhenzhai, regista a fundação em 1877 (terceiro ano de Guangxu) pelo rico comerciante de Lugang Huang Jin, a colaboração com Zheng Chui na abertura da Yuzhenzhai, e a posterior separação com Zheng Chui a fundar a Zheng Yuzhen Bakery.
+[^1]: [玉珍齋官網 — 關於玉珍齋與歷史沿革](https://www.1877.com.tw/about-us/) — Website oficial da Yuzhenzhai, que registra o início e o desenvolvimento da loja de doces Yuzhenzhai, fundada pelo rico comerciante Huang Jin em Lukang na terceira primavera do reinado de Guangxu (1877), em parceria com Zheng Cui; bem como a história da separação quando Zheng Cui abriu sua própria loja, a Zheng Yuzhen.
 
-[^2]: [Wikipédia: Bolo solar](https://zh.wikipedia.org/zh-tw/%E5%A4%AA%E9%99%BD%E9%A4%85) — Regista a origem do bolo solar no bolo de malte da Kunpai Bakery em Shenkan, Taichung, aberta pela família Lin Zhen-fang na era japonesa, o aprendiz Wei Qing-hai (Mestre A-ming) melhorou e batizou «bolo solar», e a evolução de mercado após os anos 1950 como especialidade de Taichung.
+[^2]: [維基百科：太陽餅](https://zh.wikipedia.org/zh-tw/%E5%A4%AA%E9%99%BD%E9%A4%85) — Registra o histórico de Taiyangbing, que se originou do bolo de maltes da confeitaria Kun em Shengang, Taichung; foi estabelecido pela família Lin durante o período japonês e reformado pelo aprendiz Wei Qinghai (Mestre Ah Ming) para ser chamado de 'Taiyangbing'; bem como a evolução do mercado após se tornar uma especialidade de Taichung na década de 1950.
 
-[^3]: [Wikipédia: Baquan](https://zh.wikipedia.org/zh-tw/%E5%AE%9D%E6%B3%89) — Regista a história de quatro gerações da Baquan de Fengyuan: primeira geração Chen Yun na era japonesa, 1943 segunda geração Chen Chin-chuan em Tóquio na Housen Seika Honpo, 1975 terceira geração Chen Zeng-xiong funda Taiwan Baquan Head Store e desenvolve bolo de gema de ovo.
+[^3]: [維基百科：寶泉](https://zh.wikipedia.org/zh-tw/%E5%AE%9D%E6%B3%89) — Registra a história da linhagem da Baoquan, começando com o primeiro Chen Yun da loja de doces Fengyuan; a fundação da filial principal de confeitaria Baoquan em Tóquio pelo segundo Chen Jinquan em 1943; e a quarta geração, Chen Zengxiong, que estabeleceu a filial de Taiwan em 1975 e desenvolveu o Dan Huang Su.
 
-[^4]: [Revista Taiwan Panorama: Entrevista SunnyHills](https://www.taiwan-panorama.com/Articles/Details?Guid=59960b88-840d-45d4-943e-4c5a3606e228) — Regista a fundação da SunnyHills em 2009 por Hsu Ming-jen et al. com 80 milhões de capital, uso de abacaxi nativo Kaoying nº 2/3 por contrato, preço de contrato de menos de 5 NT$ para 10 NT$ o jin, área de 270 hectares, 210 funcionários locais.
+[^4]: [台灣光華雜誌：微熱山丘專訪](https://www.taiwan-panorama.com/Articles/Details?Guid=59960b88-840d-45d4-943e-4c5a3606e228) — Registra os detalhes operacionais da Weire Shanqiu, fundada por Xu Mingren e outros quatro indivíduos com um capital de 80 milhões em 2009; utilizando abacaxi local número 2/3 como ingrediente principal, elevando o preço do abacaxi de menos de 5 yuans por jin para 10 yuans, com uma área de cultivo de 270 hectares e empregando 210 funcionários locais.
 
-[^5]: [Supertaste: Reportagem bolo de gema de ovo Chen Yao-xun](https://supertaste.tvbs.com.tw/food/355752) — Reporta Chen Yao-xun, natural de Lugang, vencedor do Mondial du Pain 2017, fundação em 2019 da Chen Yao-xun・Bakery YOSHI BAKERY, bolo de gema de ovo de solo vermelho aclamado «Hermès dos bolos de gema de ovo».
+[^5]: [Supertaste：陳耀訓蛋黃酥報導](https://supertaste.tvbs.com.tw/food/355752) — Relata a ascensão do Dan Huang Su de Chen Yaoxun, nativo de Lukang, que ganhou o prêmio Mondial du Pain em 2017; fundou YOSHI BAKERY em 2019; e como o Dan Huang Su de gema vermelha foi apelidado de 'Hermès do mundo dos Dan Huang Su'.
 
-[^6]: [Yuzhenzhai de Lugang e o sótão centenário](https://www.bigfang.tw/blog/post/lukang-1877) — O nº 168 da Rua Minzu, antiga sede da maior casa de comércio fluvial de Lugang na época Qing «Chuanheli», com verificação do sótão centenário e claraboias, e contexto comercial das oito zonas rurais de Lugang na época Qing.
+[^6]: [鹿港玉珍齋與百年閣樓](https://www.bigfang.tw/blog/post/lukang-1877) — A loja Yuzhenzhai, localizada no número 168 da Estrada Minzhong, é o antigo local da maior agência de navegação de Lukang durante a dinastia Qing, 'Quanheli', incluindo um fundo arquitetônico com uma casa de dois andares e janelas de telhado; bem como o contexto comercial das oito áreas circundantes de Lukang na dinastia Qing.
 
-[^7]: [Wikipédia: Bolo de abacaxi](https://zh.wikipedia.org/zh-tw/%E9%B3%B3%E6%A2%A8%E9%85%A5) — Regista o grande bolo de abacaxi redondo da I-Fu-Tang Confectionery de Chen Chou-cai na era japonesa, e a posterior redução a quadrado por Yen Shu-mu com casca de biscoito amanteigado.
+[^7]: [維基百科：鳳梨酥](https://zh.wikipedia.org/zh-tw/%E9%B3%B3%E6%A2%A8%E9%85%A5) — Registra o grande bolo redondo de abacaxi feito por Chen Zhoucai, uma confeitaria Yifu durante o período japonês; e a evolução posterior quando Yan Shumu o reduziu para um formato quadrado e mudou para usar massa de biscoito amanteigado.
 
-[^8]: [Bens Culturais de Taichung: Artesanato do bolo de abacaxi](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Invisible&id=2195556) — Dados do Bureau Cultural de Taichung, inclui consumo anual de cerca de 5.000 toneladas de abacaxi, detalhes artesanais de abacaxi nativo com molho de melão de inverno para equilibrar ácido-doce.
+[^8]: [台中市文化資產：鳳梨酥工藝](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Invisible&id=2195556) — Os dados da arte do abacaxi registrados pelo Departamento de Cultura de Taichung, que incluem o consumo anual de cerca de 5.000 toneladas de abacaxi no recheio; e os detalhes do processo tradicional usando abacaxi local misturado com pasta de abóbora para um sabor agridoce.
 
-[^9]: [VERSE: Artesanato do bolo de gema de ovo](https://www.wowlavie.com/article/ae2101192) — Mestre nacional Lu Hung-yu recorda origem nos anos 1960, formato original de azeitona com casca de abacaxi, evolução posterior para esférico com massa folhada, e detalhes: gema salgada imersa em álcool forte, pasta de feijão preto cozida em fogo lento.
+[^9]: [VERSE：蛋黃酥的工藝](https://www.wowlavie.com/article/ae2101192) — O mestre nacional Lu Hongyu recorda que o Dan Huang Su se originou na década de 1960, inicialmente como uma casca de abacaxi em formato de oliva; e só depois evoluiu para a massa frita esférica, além dos detalhes do processo de desodorização da gema com álcool picante e cozimento lento da pasta de fava-mong (wudan) em doce.
 
-[^10]: [104 Carreira: Artesanato do bolo de gema de ovo Chen Yao-xun](https://blog.104.com.tw/yoshi-bakery-yolk-pastry/) — Reporta seleção de ingredientes do bolo de gema de ovo de solo vermelho da Chen Yao-xun・Bakery: gema salgada curada em solo vermelho, pasta de feijão com açúcar reduzido, manteiga campeã dinamarquesa, e desenho de processo fundindo artesanato europeu de pão com bolo Han.
+[^10]: [104 職場：陳耀訓蛋黃酥工藝](https://blog.104.com.tw/yoshi-bakery-yolk-pastry/) — Relata o Dan Huang Su de gema vermelha de Chen Yaoxun・YOSHI BAKERY, que usa gemas salgadas curadas com terra vermelha, pasta de feijão com baixo teor de açúcar e manteiga campeã da Dinamarca; bem como seu design de processo que integra a arte do pão ocidental na confeitaria chinesa.
 
-[^11]: [Site oficial Chen Yao-xun・Bakery](https://www.chenyunpaochuan.com.tw/) — Site oficial da Chen Yao-xun・Bakery YOSHI BAKERY, pré-venda de meio-outono 2025 via sistema Tixcraft, abertura 29 de julho 12:30, caixa de 8 a 900 NT$, apenas levantamento na loja sem entrega.
+[^11]: [陳耀訓蛋黃酥7/29開賣！4大名店預購整理 - NOWnews 今日新聞](https://www.nownews.com/news/6711245) — Reportagem de 25 de julho de 2025: A pré-venda do Dan Huang Su da Chen Yaoxun・YOSHI BAKERY (Dunhua North Road, Songshan District, Taipei) começará às 12h30 do dia 29 de julho para o Festival do Meio do Outono, e será vendida através do sistema de bilheteria Tuoyuan, com 900 yuans por caixa de 8 unidades; limitado a 8 caixas por pessoa, sem entrega, apenas retirada na loja.
 
-[^12]: [Museu Cultural de Pastelaria do Mestre A-tsung de Dajia](https://www.o-nongs.com.tw/) — Dados oficiais do bolo de taro criativo do Mestre A-tsung, regista história como doce designado para banquetes de Estado, e linhagem artesanal do bolo de taro.
+[^12]: [大甲阿聰師糕餅文化館](https://www.o-nongs.com.tw/) — Documentos oficiais do Iputou Su (Bolo de Batata Doce) criativo de Da Jia Acong Shi; registram seu histórico como doce designado para banquetes reais e a linhagem da arte do Iputou Su.
 
-[^13]: [Wikipédia: Bolo de gema de ovo](https://zh.wikipedia.org/zh-tw/%E8%9B%8B%E9%BB%83%E9%85%A5) — Regista a revista _Bakery Food Information_ de agosto de 1986 com inventor Chen Zeng-xiong, e parâmetros padrão: pasta de feijão vermelho, gema de ovo de pato salgada, massa folhada com óleo.
+[^13]: [維基百科：蛋黃酥](https://zh.wikipedia.org/zh-tw/%E8%9B%8B%E9%BB%83%E9%85%A5) — Registra os dados do inventor do Dan Huang Su, Chen Zengxiong, conforme mencionado na 'Revista de Informação de Produtos de Panificação' em agosto de 1986; e os parâmetros padrão da arte, incluindo pasta de feijão doce de feijão vermelho, gema de pato salgada e massa frita.
 
-[^14]: [Wikipédia: Bolo de feijão-mungo](https://zh.wikipedia.org/zh-tw/%E7%B6%A0%E8%B1%86%E6%A4%AA) — Também chamado «bolo de feijão-mungo saliente», «bolo lunar taiwanês», originado em Fengyuan na era japonesa, recheio com pasta de feijão-mungo, banha, cebolinha frita, carne de porco, sabor salgado-doce, e papel importante nos bolos de alegria de casamentos em Taiwan.
+[^14]: [維基百科：綠豆椪](https://zh.wikipedia.org/zh-tw/%E7%B6%A0%E8%B1%86%E6%A4%AA) — Também conhecido como 'Lüdou Tu' ou 'Bolo do Festival Lunar Taiwanês', ele se originou com melhorias durante o período japonês em Fengyuan, contendo um sabor salgado e doce de pasta de fava-mong, banha de porco, cebola vermelha e carne de porco; bem como seu papel importante nos doces de casamento em Taiwan.
 
-[^15]: [Site oficial Chen Yun Baquan Head Store](https://www.chenyunpaochuan.com.tw/) — Site oficial da Chen Yun Baquan Head Store em Fengyuan, mudança de nome em 2013 de «Baquan» para «Chen Yun Baquan», registo de transmissão familiar com quarta geração Chen Kun-hong a estudar no Japão.
+[^15]: [陳允寶泉本店官網](https://www.chenyunpaochuan.com.tw/) — O site oficial da loja Chen Yun Baoquan em Fengyuan, que registra a mudança de nome de 'Baoquan' para 'Chen Yun Baoquan' em 2013; e o registro da linhagem familiar quando a quarta geração, Chen Kunhong, foi estudar no Japão.
 
-[^16]: [Museu Cultural do Bolo Han Jiou Zhen Nan](https://www.jzn.com.tw/tw/architecture) — Site oficial da Jiou Zhen Nan, regista fundação em 2016 em Daliao, Kaohsiung: 4.421 m², três andares, reunindo sede, museu da marca, cozinha, espaço de experiência cultural de panificação.
+[^16]: [舊振南漢餅文化館](https://www.jzn.com.tw/tw/architecture) — O site oficial de Jiu Zhennan, que registra a fundação do Centro Cultural de Confeitaria Chinesa em Da Liao, Kaohsiung, em 2016; um edifício de três andares com 4.421 metros quadrados, reunindo a sede da marca, o museu da história, a cozinha de confeitaria e o espaço de experiência cultural de panificação.
 
-[^17]: [Jiou Zhen Nan: O saber da massa folhada com óleo](https://www.facebook.com/jznpastryhouse/posts/1468951346624149/) — Publicação científica oficial da Jiou Zhen Nan, ilustra princípio da estrutura de mil camadas: farinha de glúten médio para massa de óleo, farinha de glúten baixo para massa folhada, dobras e laminagens repetidas formando estrutura delicada de centenas de milhares de camadas.
+[^17]: [舊振南：油酥皮的學問](https://www.facebook.com/jznpastryhouse/posts/1468951346624149/) — Um post científico oficial do Jiu Zhennan que ilustra o princípio estrutural em camadas finas ao envolver massa folhada: a massa de pão com farinha de trigo médio é amassada com óleo, e a massa folhada com farinha de trigo baixo é misturada com óleo, sendo dobradas e prensadas repetidamente para formar uma estrutura detalhada de centenas ou milhares de camadas.
 
-[^18]: [ETtoday: Jiou Zhen Nan Gelato de bolo Han 6 sabores](https://travel.ettoday.net/article/3147149.htm) — Reporta lançamento em abril de 2026 do inédito «Gelato de bolo Han», 4 sabores fixos (Feng He Ri Li, Peng Jian Jing Dian, Liang Chen Mei Jing, Cha Yu Hua Xiang) + 2 sazonais (Xi Shang Mei Shao, Ning Jing Zao Chen).
+[^18]: [ETtoday：舊振南漢餅 Gelato 6 口味](https://travel.ettoday.net/article/3147149.htm) — Relata o lançamento do 'Gelato de Confeitaria Chinesa' exclusivo de Taiwan pelo Jiu Zhennan em abril de 2026, com 4 sabores regulares (Fenghe Rili, Pengjian Jingdian, Liangchen Meijing, Chayu Huaxiang) + 2 edições limitadas sazonais (Xixingmei Shaos, Ningjing Zao Chen), um design de produto intersetorial.
 
-[^19]: [Economic Daily News: Jiou Zhen Nan expansão 20 lojas](https://money.udn.com/money/story/5635/9446485) — Reporta plano de expansão de 20 lojas em 2026, estreia no Taichung Hanshin Arena Shopping Plaza, segundo trimestre planeia entrar no Taipei Far Eastern Garden City (SOGO Taipei Dome).
+[^19]: [經濟日報：舊振南 20 家門市擴張](https://money.udn.com/money/story/5635/9446485) — Relata o plano de expansão para 20 lojas em toda Taiwan pelo Jiu Zhennan em 2026; a primeira loja foi inaugurada no Centro Comercial Hanshin Zhoushi, Taichung, e a segunda fase está planejada para o Far Eastern Garden City (SOGO Grand Dome) em Taipei.
 
-[^20]: [Página oficial de mídia da Santung Han Confectionery](https://www.suntone.com.tw/pages/babyou) — Explicação oficial da Santung sobre receita com açúcar reduzido e percurso de P&D do bolo de coração líquido: artesanato tradicional de massa folhada com óleo combinado com recheio líquido moderno, criando bolo Han leve.
+[^20]: [三統漢菓子官方媒體頁](https://www.suntone.com.tw/pages/babyou) — A explicação oficial da San Tong Hanxia sobre a rota de pesquisa e desenvolvimento do recheio líquido do Luoxin Su: a arte tradicional da massa folhada combinada com o recheio líquido moderno para criar uma confeitaria chinesa leve.
 
-[^21]: [Digital Era: Santung Han Confectionery vende 400 mil por dia](https://www.bnext.com.tw/article/77855/shopline_202312) — Reporta faturamento diário de 2.000 NT$ em loja única durante pandemia, diretora de marketing Chou Shih-ya impulsiona site próprio SHOPLINE e comércio eletrónico, bolo de coração líquido atinge média de 1 caixa a cada 17 segundos, pico de 400 mil unidades/dia, 100 milhões em três anos.
+[^21]: [數位時代：三統漢菓子日銷 40 萬顆](https://www.bnext.com.tw/article/77855/shopline_202312) — Relata que, durante a pandemia de COVID-19, a receita diária da San Tong Hanxia em uma única loja era de apenas 2.000 yuans; e como o diretor de marketing Zhou Shiya promoveu a construção do site oficial e a expansão de e-commerce na SHOPLINE, o Luoxin Su alcançou um registro de vendas de 1 caixa a cada 17 segundos, vendendo 400.000 unidades por dia e atingindo mais de 100 milhões em três anos.
 
-[^22]: [Digital Era: Entrevista Kuo Chien-wei](https://fc.bnext.com.tw/articles/view/2474) — Reporta Kuo Chien-wei, quinta geração da Kuo Yuan Ye, entrada em 2009, sucessora designada 2016, cerca de três anos no Japão visitando lojas centenárias de wagashi, regresso com mudança de estratégia de mercado de bolos de alegria para festas e lembranças.
+[^22]: [數位時代：郭建偉專訪](https://fc.bnext.com.tw/articles/view/2474) — Relata a trajetória de Guo Jianwei, o sucessor da quinta geração de Guo Yuanyi; ele entrou na empresa familiar em 2009, foi designado como herdeiro em 2016, viajou por lojas antigas de wagashi no Japão por cerca de três anos, e mudou sua estratégia após retornar a Taiwan, passando do mercado de doces de casamento para o setor de festivais e lembrancinhas.
 
-[^23]: [Persona Media: Kuo Chien-wei e Nieh Yung-chen bolo de feijão-mungo colaborativo](https://www.persona-media.com/6596/kuo-yuan-ye-foods-co) — Perfil jornalístico de Kuo Chien-wei, regista colaboração com designer Nieh Yung-chen no «Momentos de Acompanhamento» de bolo de feijão-mungo, rompendo molde de face única e sabor único, e experimento de design transformando bolo de feijão-mungo em pássaro azul de Taiwan, Templo Longshan e outros marcos.
+[^23]: [Persona Media：郭建偉與聶永真聯名綠豆糕](https://www.persona-media.com/6596/kuo-yuan-ye-foods-co) — Uma entrevista em revista sobre Guo Jianwei, o sucessor da quinta geração de Guo Yuanyi; registra seu desenvolvimento conjunto com a designer Nie Yongzhen do 'Green Bean Time', rompendo as limitações de moldagem unilateral e sabor único, e os experimentos de design que transformaram o bolo de fava-mong em marcos turísticos como o Blue Magpie de Taiwan e o Templo Longshan.

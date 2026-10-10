@@ -1,17 +1,17 @@
 ---
-title: 'Xi Murong'
-description: 'Autora de "Sete Milhas de Fragrância" e "Juventude sem Remorso", poetisa mais vendida no mundo sinófono, de etnia mongol'
+title: 'Si Muro: Sinfonia de Poesia entre a Estepe e a Modernidade'
+description: 'Autora de "Sete Li Xiang" e "Juventude sem Rancor", a poeta mais vendida do mundo chinês, pertencente à etnia Mongol'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Personalidades',
-    'Xi Murong',
-    'Sete Milhas de Fragrância',
-    'Juventude sem Remorso',
-    'Poetisa',
+    'Pessoa',
+    'Si Muro',
+    'Sete Li Xiang',
+    'Juventude sem Rancor',
+    'Poeta',
     'Etnia Mongol',
-    'Prosadora',
+    'Prosaista',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -19,90 +19,90 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/席慕蓉.md'
-sourceCommitSha: '7415dcaae'
-sourceContentHash: 'sha256:5d1d8e5f0b7eaefd'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:36049c1494516a6b'
 sourceBodyHash: 'sha256:c035c602c7e335fa'
-translatedAt: '2026-07-29T15:46:43+08:00'
+translatedAt: '2026-10-10T12:07:02+08:00'
 ---
 
-# Xi Murong: a simfonia poética da estepe e do moderno
+# Si Muro: Sinfonia de Poesia entre a Estepe e a Modernidade
 
-> **Visão geral em 30 segundos:** Xi Murong é a poetisa mais vendida de Taiwan nos anos 1980; _Sete Milhas de Fragrância_ (1981) teve sete reimpressões no primeiro ano, varrendo os dois lados do estreito e Hong Kong. É também pintora a óleo de formação académica, descendente dos mongóis Chahar; após pisar a estepe pela primeira vez em 1989, a sua poesia migrou da lírica urbana para a escrita de cultura étnica.
+> **Resumo em 30 segundos:** Si Muro foi a poeta mais vendida da década de 1980 em Taiwan. Após publicar "Sete Li Xiang" em 1981, o livro foi reimpresso sete vezes em um ano, conquistando grande popularidade nas três regiões do Estreito de Taiwan. Ela também é uma pintora formada academicamente e descendente da tribo Mongol Chahar. Após sua primeira visita à estepe em 1989, sua visão poética mudou do lirismo urbano para a escrita cultural étnica.
 
-## O percurso multicultural
+## Fundamentos Culturais Diversificados
 
-Xi Murong chamava-se originalmente Mu Ren Xi Lian Bu (穆倫・席連勃), nascida a 15 de outubro de 1943 em Chin Kang Po, Chongqing. O pai, Hsi Chen-to (席振鐸, nome mongol Lashi Dundok), foi delegado à Assembleia Nacional pela primeira legislatura dos Oito Estandartes Chahar; a mãe, Lo Chu-fang (樂竹芳, nome mongol Bayan Biligé), também era mongol. Essa linhagem da estepe conferiu-lhe, mais tarde, uma percepção da "terra natal perdida" mais aguda que a das comuns famílias migradas para Taiwan. Os anos de guerra e o vagar constante fizeram-na provar desde cedo o sabor da diáspora e a saudade da pátria.
+Si Muro, originalmente chamada de Si Muro (穆倫・席連勃), nasceu em 15 de outubro de 1943, em Jinfengpo, Chongqing. Seu pai, Si Zhenzhuan (拉席敦多克), era representante do primeiro congresso nacional dos oito banquos mongóis Chahar, e sua mãe, Yue Zufang (巴音比利格), também era mongol. Essa herança étnica da estepe deu a ela uma percepção mais profunda sobre a "pátria perdida" do que a maioria dos imigrantes taiwaneses. Durante os anos de guerra, a instabilidade e as dificuldades enfrentadas por Si Muro desde cedo fizeram com que ela sentisse o sabor da diáspora e o sentimento de nostalgia pela terra natal.
 
-Em 1949, aos seis anos, Xi Murong mudou-se com a família para Hong Kong. O ambiente internacionalizado da cidade expôs-a à fusão das culturas chinesa e ocidental, influência que marcaria profundamente a sua criação posterior. Na infância e adolescência hongkonguesa, contactou simultaneamente a tradição cultural chinesa e a literatura e arte ocidentais.
+Em 1949, aos seis anos, Si Muro se mudou com sua família para Hong Kong. O ambiente internacional de Hong Kong expôs-a à fusão entre culturas orientais e ocidentais, influenciando profundamente sua criação posterior. Durante sua infância em Hong Kong, ela teve contato tanto com a cultura tradicional chinesa quanto com a literatura e arte ocidentais.
 
-Em 1954, a família fixou-se em Taiwan. A vida adolescente na ilha — sobretudo a paisagem natural e o ambiente humanístico — forneceu matéria-prima abundante à sua poesia. Montanhas, águas, flores, ervas, mudanças de estação tornaram-se imagens recorrentes nos seus versos.
+Em 1954, Si Muro se mudou com sua família para Taiwan e estabeleceu residência. Durante a adolescência em Taiwan, especialmente a paisagem natural e o ambiente humano de Taiwan, forneceram riquezas para sua criação poética. Montanhas, árvores, flores e mudanças sazonais todos se tornaram imagens recorrentes em sua poesia.
 
-## Anos de estudante no Departamento de Belas Artes da Universidade Normal de Taiwan
+## Anos de Estudo na Faculdade de Belas Artes da Normal
 
-Terminado o liceu, Xi Murong ingressou no Departamento de Belas Artes da Universidade Normal de Taiwan. A formação profissional em arte apurou a sua sensibilidade para cor e composição; esses atributos artísticos verteriam depois para a poesia.[^1]
+Após concluir o ensino médio, Si Muro ingressou na Faculdade de Belas Artes da Universidade Normal de Taiwan. A formação profissional em arte desenvolveu sua percepção aguçada de cor e composição, elementos que posteriormente foram incorporados à sua criação poética. [^1]
 
-Durante o período na "Shida" (abreviação de Universidade Normal), destacou-se na pintura e iniciou a escrita literária, lendo vorazmente poesia chinesa e estrangeira. A obra de poetas modernos influenciou-a decisivamente, ajudando-a a forjar a sua própria linguagem poética.
+Durante seu tempo na universidade, Si Muro teve sucesso em pintura e começou a experimentar com a criação literária, lendo amplamente poesia chinesa e estrangeira. As obras de poetas modernos influenciaram profundamente sua visão, ajudando-a a formar sua própria linguagem poética.
 
-Em 1966, após licenciar-se, partiu para a Academia Real de Belas Artes de Bruxelas, na Bélgica. Museus, igrejas, arquitetura antiga europeia deixaram-lhe impressão funda, alargando o seu horizonte criativo.[^2]
+Após se formar em 1966, Si Muro foi para Bruxelas, Bélgica, para estudar na Academia Real de Belas Artes. Os museus, igrejas e arquitetura histórica da Europa deixaram fortes impressões nela, expandindo sua visão criativa. [^2]
 
-## _Sete Milhas de Fragrância_: irrupção fulgurante no meio poético
+## "Sete Li Xiang": Uma Entrada Surpreendente na Poesia
 
-Nos anos 1970, Xi Murong dedicava-se sobretudo à criação plástica e ao ensino; a poesia era ainda passatempo. Contudo, a publicação de _Sete Milhas de Fragrância_ em 1981 tornou-a, da noite para o dia, o centro das atenções do meio poético. O livro teve sete reimpressões no primeiro ano, estabelecendo um recorde de vendas da poesia moderna em Taiwan.[^3]
+Na década de 1970, Si Muro dedicava-se principalmente à criação artística e ensino de arte, com a poesia sendo apenas um hobby. No entanto, a publicação de sua coletânea de poemas "Sete Li Xiang" em 1981 tornou-a repentinamente o centro das atenções do mundo poético. O livro foi reimpresso sete vezes em um ano, estabelecendo um recorde de vendas para a poesia moderna em Taiwan. [^3]
 
-O êxito deve-se à linguagem clara e acessível — sem rebuscamento, mas capaz de revelar sentimento verdadeiro na simplicidade e profundidade na singeleza. Xi Murong serve-se de imagens do quotidiano — flores, lua, vento, chuva — para exprimir complexos matizes interiores.
+O sucesso de "Sete Li Xiang" reside na clareza e acessibilidade de seu idioma — sem ser artificialmente complexo, mas capaz de expressar emoções profundas de maneira simples e direta. Si Muro sabia usar imagens cotidianas, como flores, luas e ventos, para expressar sentimentos complexos.
 
-_A Árvore Florida_ tornou-se clássico da poesia sinófona: «Como fazer com que me encontres / no meu momento mais belo / para isso / já rezei quinhentos anos diante de Buda / pedindo que nos deixasse tecer uma ligação kármica.» Pela beleza da imagem e pela força da emoção, continua a ser amplamente recitada até hoje.
+O poema "Uma Árvore em Flor" tornou-se um clássico da poesia chinesa: "Como fazer para que você me encontre / No momento mais belo de mim / Porque isso / Eu já tenho orado diante do Buda por cincocentos anos / Rogando que possamos compartilhar um destino." Este poema, com sua beleza e emoção tocante, ainda é amplamente citado e lembrado.
 
-## _Juventude sem Remorso_: retrospectiva poética dos anos verdes
+## "Juventude sem Rancor": Reflexões Poéticas sobre a Juventude
 
-_Juventude sem Remorso_ (1982) prolongou o sucesso do volume anterior. O livro foca juventude, amor, amizade e outros temas da existência, exibindo a profunda compreensão da vida pela poetisa. O poema-título expressa a saudade do tempo ido e o louvor à juventude.[^4]
+Publicada em 1982, "Juventude sem Rancor" manteve o sucesso de "Sete Li Xiang". Esta coletânea se concentra em temas como juventude, amor e amizade, mostrando a profunda compreensão da vida pela poeta. O poema-título "Juventude sem Rancor" expressa a saudade pelos anos que se foram e o louvor à juventude. [^4]
 
-A poesia de Xi Murong costuma partir de um cenário ou objeto concreto, desdobrar-se progressivamente e subir a um patamar filosófico. Outra marca de _Juventude sem Remorso_ é a musicalidade — ritmo forte, próprio para declamação, permitindo ao leitor saborear a beleza do poema na voz.
+Os poemas de Si Muro geralmente partem de uma cena ou objeto específico, desenvolvendo-se gradualmente até atingirem uma reflexão filosófica. Outra característica marcante de "Juventude sem Rancor" é sua musicalidade — com forte ritmo, adequado para recitação, permitindo que os leitores apreciem a beleza da poesia através do som.
 
-## Criação em prosa e o complexo mongol
+## Criação em Prosa e Conexões Mongóis
 
-Além de poetisa, Xi Murong é prosadora. Nos finais dos anos 1980 publicou coleções de ensaios como _Rastros do Crescimento_ e _Há uma Canção_, prolongando o estilo fresco da poesia, com texto elegante e emoção sincera.
+Além da poesia, Si Muro também é prosaísta. No final da década de 1980, ela publicou coletâneas de prosa como "Rastros de Crescimento" e "Uma Canção", mantendo o estilo leve e elegante de sua poesia, com palavras belas e sentimentos sinceros.
 
-Em 1989, pisou pela primeira vez a estepe mongol; a viagem de busca das raízes abalou-a profundamente. Passou a produzir abundante poesia e prosa sobre a Mongólia — _A Minha Casa Fica no Planalto_, _Rios e Montanhas Aguardam_ — onde transparece o profundo afeto pela estepe e a reflexão sobre a cultura étnica. Usa a forma da poesia moderna para exprimir a saudade da cultura antiga e a afirmação da identidade étnica.[^5]
+Em 1989, ela visitou pela primeira vez a estepe mongol, uma jornada de reconexão que teve grande impacto em sua vida. Ela começou a criar grandemente poesias e prosa com temas mongóis, como "Minha Casa está na Planície" e "Montanhas e Vales nos Esperam", que demonstram seu aprofado sentimento pela estepe e sua reflexão sobre a cultura étnica. Ela usou a forma poética moderna para expressar sua saudade pela cultura antiga e sua identidade étnica. [^5]
 
-_Dou um Nome à Memória_ (2019), volume tardio, olha de volta, na velhice, para uma vida de errância e busca de raízes; a linguagem torna-se mais contida e introspectiva.
+Publicada em 2019, "Dando Nomes à Memória" é uma coletânea de poemas de sua fase final, refletindo sobre sua vida de errância e busca com uma linguagem mais calma e contida.
 
-## A fusão perfeita entre pintura e poesia
+## A Fusão Perfeita entre Pintura e Poesia
 
-Como pintora de formação, Xi Murong nunca abandonou a tela. Os seus óleos são de estilo fresco e natural, em alta consonância com a poética. Mais notável: os seus poemas possuem forte visualidade; lê-los é como ver desfilar quadros delicados.
+Como uma artista formada academicamente, Si Muro nunca abandonou a criação pictórica. Seus trabalhos em óleo têm um estilo natural e leve, altamente consistente com seu estilo poético. Mais notável ainda é que seus poemas frequentemente possuem forte sensação visual, fazendo com que os leitores, ao lerem, sintam como se estivessem contemplando belas pinturas.
 
-Realizou várias exposições poético-pictóricas, fundindo verso e pintura, achando uma forma praticável de colaboração transversal entre literatura e belas-artes, acolhidas com entusiasmo pelo público.[^6]
+Si Muro frequentemente organizou exposições de poesia e pintura, combinando literatura e arte visual em colaborações interdisciplinares que foram muito bem recebidas pelo público. [^6]
 
-## Carreira docente e transmissão cultural
+## Carreira Educacional e Transmissão Cultural
 
-Desde **1984**, Xi Murong leciona no Departamento de Belas Artes da **Universidade Tunghai**, tendo também ensinado longamente na Faculdade Normal de Hsinchu (hoje Faculdade de Educação de Chushih da Universidade Nacional Tsing Hua). Considera que o cerne da educação artística é o despertar emocional e espiritual; a técnica é ferramenta, a sensibilidade estética é a alma. A sua filosofia pedagógica influenciou muitos profissionais de arte posteriores.
+Desde 1984, Si Muro ensinou na Faculdade de Belas Artes da Universidade do Mar Oriental, e também lecionou por muitos anos na Faculdade Normal de Hsinchu (atualmente o Instituto de Educação da Faculdade de Educação da Universidade Nacional de Tsing Hua). Ela acredita que o núcleo do ensino artístico é a inspiração emocional e espiritual, com as técnicas servindo apenas como ferramentas, enquanto a estética é a alma. Sua filosofia de ensino influenciou muitos artistas posteriores.
 
-Frequentemente profere palestras em escolas e comunidades, partilhando a experiência criativa. A sua empatia e sinceridade tocaram inúmeros ouvintes, contribuindo para a popularização da poesia.
+Si Muro frequentemente participava de palestras em escolas e comunidades, compartilhando suas experiências criativas. Sua simpatia e autenticidade conquistaram inúmeros ouvintes, contribuindo significativamente para a popularização da poesia.
 
-## Realização literária e significado de época
+## Conquistas Literárias e Significado Histórico
 
-As colectâneas de Xi Murong ultrapassam o milhão de exemplares vendidos, traduzidas em várias línguas e publicadas mundo afora. Recebeu o Prémio Literário e Artístico Sun Yat-sen, o Prémio Nacional de Literatura e Artes, entre outros.[^7]
+As coletâneas de poesia de Si Muro venderam mais de um milhão de cópias e foram traduzidas para vários idiomas, sendo publicadas em todo o mundo. Ela recebeu prêmios como o Prêmio Nacional de Arte e Cultura Sun Yat-sen e o Prêmio Nacional de Artes. [^7]
 
-Diferente da elegância refinada de [Pai Hsien-yung](/pt/people/pai-hsien-yung-literary-master/) ou da crítica racional de [Lung Ying-tai](/pt/people/lung-ying-tai/), Xi Murong escolheu um caminho mais suave. No ritmo acelerado da vida moderna, a sua poesia oferece refúgio à alma. A sua obra demonstra também como a sensibilidade delicada e a perspetiva única das mulheres podem gerar literatura comovente.
+Diferentemente do estilo elegante e refinado de [Bai Xian Yong](/pt/people/pai-hsien-yung-literary-master/) e da crítica racional de [Long Yingtai](/pt/people/lung-ying-tai/), Si Muro escolheu um caminho mais suave e gentil. Em meio ao ritmo acelerado da vida moderna, seus poemas oferecem conforto espiritual aos leitores. Suas obras também demonstram como as percepções e perspectivas únicas das mulheres podem criar literatura profundamente tocante.
 
 ## Referências
 
-[^1]: [Departamento de Belas Artes da Universidade Normal de Taiwan](https://www.ntnu.edu.tw/art/) — Contexto de fundação do departamento e informações de alumni.
+[^1]: [Faculdade de Belas Artes da Universidade Normal de Taiwan](https://www.ntnu.edu.tw/art/) — História e informações dos alunos da faculdade de belas artes da Universidade Normal de Taiwan.
 
-[^2]: [Academia Real de Belas Artes de Bruxelas (Académie Royale des Beaux-Arts)](https://www.arba-esi.be/) — Instituição onde Xi Murong estudou, academia nacional de arte da Bélgica.
+[^2]: [Academia Real de Belas Artes de Bruxelas (Académie Royale des Beaux-Arts)](https://www.arba-esi.be/) — Instituição de ensino superior onde Si Muro estudou, uma academia nacional de arte na Bélgica.
 
-[^3]: [Museu Nacional de Literatura de Taiwan — Exposição Especial Xi Murong](https://www.nmtl.gov.tw/) — Registo de publicação e reimpressões de _Sete Milhas de Fragrância_, com dados de vendas e informações da exposição.
+[^3]: [Museu Nacional de Literatura de Taiwan — Exposição Especial de Si Muro](https://www.nmtl.gov.tw/) — Registros de publicação e reimpressão de "Sete Li Xiang", incluindo dados de vendas do livro e informações da exposição.
 
-[^4]: [Aliança de Livros Eletrónicos de Taiwan — Página de obras de Xi Murong](https://www.taaze.tw/) — Dados da primeira edição de _Juventude sem Remorso_ e confirmação do ano de publicação.
+[^4]: [Aliança Taiwanesa de Livros Eletrônicos — Página de Obras de Si Muro](https://www.taaze.tw/) — Informações sobre a primeira edição e ano de publicação de "Juventude sem Rancor".
 
-[^5]: [Museu da Cultura Mongol e Tibetana — Criação literária mongol de Xi Murong](https://www.mtac.gov.tw/) — Introdução temática de organismo governamental sobre a criação mongol de Xi Murong.
+[^5]: [Centro Cultural Mongol e Tibetano — Criação Literária Mongol de Si Muro](https://www.mtac.gov.tw/) — Introdução especializada de uma agência governamental sobre a criação literária mongol de Si Muro.
 
-[^6]: [Sítio oficial de Xi Murong](http://www.ximurong.tw) — Sítio oficial da poetisa, reúne informações de obras, registo de exposições e percurso criativo.
+[^6]: [Site Oficial de Si Muro](http://www.ximurong.tw) — Site oficial da poeta, contendo informações sobre obras, registros de exposições e processo criativo.
 
-[^7]: [Prémio Nacional de Literatura e Artes — Fundação Nacional de Cultura e Artes](https://www.ncafroc.org.tw/) — Registo de prémios de Xi Murong e pareceres do júri.
+[^7]: [Prêmio Nacional de Artes — Fundação Nacional de Cultura e Arte](https://www.ncafroc.org.tw/) — Registro de prêmios recebidos por Si Muro e comentários dos jurados.
 
-## Leituras complementares
+## Leituras Relacionadas
 
-- [Museu Nacional de Literatura de Taiwan](https://www.nmtl.gov.tw/) — Obras e espólio de Xi Murong na coleção do museu
-- [Pai Hsien-yung](/pt/people/pai-hsien-yung-literary-master) — Nome maior da literatura taiwanesa coeva, celebrizado por _Taipei People_
-- [Sanmao](/pt/people/san-mao) — Escritora feminina da mesma geração que inscreveu a terra estrangeira no coração dos taiwaneses
+- [Museu Nacional de Literatura de Taiwan](https://www.nmtl.gov.tw/) — Obras e artefatos de Si Muro no acervo do Museu Nacional de Literatura de Taiwan
+- [Bai Xian Yong](/pt/people/pai-hsien-yung-literary-master) — Contemporâneo ilustre da literatura taiwanesa, conhecido por "Pessoas de Taipei"
+- [San Mao](/pt/people/san-mao) — Escritora da mesma geração que levou o exílio para o coração dos taiwaneses

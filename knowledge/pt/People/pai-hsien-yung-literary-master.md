@@ -19,10 +19,10 @@ lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
 translatedFrom: 'People/白先勇.md'
-sourceCommitSha: '7415dcaae'
-sourceContentHash: 'sha256:27b9c46e9dd00321'
-sourceBodyHash: 'sha256:bfc5f694a6aa2127'
-translatedAt: '2026-07-26T17:01:26+08:00'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:d675a47ee18feb3d'
+sourceBodyHash: 'sha256:44085a78b193e440'
+translatedAt: '2026-10-10T08:09:39.099173+00:00'
 ---
 
 # Pai Hsien-yung: "Taipé" 1971, até a tournée de 20 anos da versão jovem de "O Pavilhão das Peónias"
@@ -71,25 +71,25 @@ Este prémio é o reconhecimento formal do meio literário taiwanês à sua traj
 
 (Nota: não foi possível confirmar nem o "Prémio Sun Yat-sen de Artes e Literatura" nem o "Prémio do Júri da 7.ª edição do Prémio Sonho da Câmara Vermelha (2018)". Este último é uma alucinação: os vencedores da 7.ª edição (2018) foram "O Filho do Cicadélido" e "Vento da Primavera", não obras de Pai Hsien-yung.[^5])
 
-## 20 anos da versão jovem de "O Pavilhão das Peónias" e "As Peónias Florescem há Vinte Anos"
+## O 20º Aniversário da "Peking Opera" Juvenil e "Vinte Anos de Florescer da Peônia"
 
-Em setembro de 2024, arrancou a tournée de 20 anos da versão jovem de "O Pavilhão das Peónias".[^2] Em novembro do mesmo ano, publicou-se "As Peónias Florescem há Vinte Anos", registando duas décadas de percurso cénico.
+Em setembro de 2024, a turnê de 20 anos da "Peking Opera" juvenil foi iniciada.[^2] Em novembro do mesmo ano, foi publicado _Vinte Anos de Florescer da Peônia_, registrando a trajetória de vinte anos de apresentações.
 
-Em outubro de 2025, a Universidade de Taiwan organizou uma exposição especial sobre a literatura de Pai Hsien-yung.[^4] Em 2026, Pai Hsien-yung mantém-se activo.
+Em outubro de 2025, a Universidade de Taiwan realizou uma exposição literária dedicada a Pai Hsien-yung.[^4] Em 2026, Pai Hsien-yung permanece ativo.
 
-A tournée de 20 anos em 2024 atravessou várias cidades, incluindo Taipé, Hong Kong e Suzhou; "As Peónias Florescem há Vinte Anos" documentou o percurso completo deste projecto cultural, da estreia ao marco significativo.
+A turnê de 20 anos em 2024 abrangeu várias cidades, incluindo Taipé e Hong Kong; _Vinte Anos de Florescer da Peônia_ registra a jornada completa deste projeto cultural desde sua estreia até marcos importantes.
 
-Em 2026, Pai Hsien-yung continua a aparecer publicamente, promovendo a cultura do kunqu e a educação literária. Esta persistência é, por si só, uma declaração contra o desaparecimento.
+Em 2026, Pai Hsien-yung continua com atividades públicas, promovendo continuamente a cultura Kunqu e a educação literária. Essa persistência é uma declaração contra o esquecimento.
 
-> 🎙️ **Nota do curador**: Pai Hsien-yung é dos poucos criadores na história da literatura taiwanesa que começou como "romancista modernista" e terminou como "revitalizador da cultura tradicional". Este arco não é uma reconversão no sentido comum, mas um aprofundamento. A nostalgia pelo que se apaga em "Taipé" e a guarda do kunqu na versão jovem de "O Pavilhão das Peónias" nascem da mesma consciência problemática: como impedir que coisas preciosas desapareçam.
+> 🎙️ **Nota do Curador**: Pai Hsien-yung é um dos poucos criadores na história literária de Taiwan que começou como "romancista moderno" e terminou como "revitalizador da cultura tradicional". Este arco não é uma simples transformação, mas sim um aprofundamento. A nostalgia pelo desaparecimento em _Taipé People_ e a defesa do Kunqu na "Peking Opera" juvenil derivam de uma mesma consciência: como fazer com que coisas preciosas não desapareçam.
 >
-> O seu sucesso demonstra que a preservação cultural não precisa de musealização, nem de popularização. Precisa de alguém com nível artístico suficiente e teimosia suficiente, que continue a fazê-lo suficientemente bem.
+> Seu sucesso demonstra que a preservação cultural não precisa ser musealizada, nem popularizada. Ela exige alguém com nível artístico suficiente e dedicação o bastante para continuar fazendo-a bem.
 >
-> "O Filho Pródigo" e a versão jovem de "O Pavilhão das Peónias" (um a quebrar o silêncio em 1983, outro a ressuscitar o clássico em 2004), à primeira vista radicalmente diferentes, brotam da mesma protecção profunda do que foi marginalizado.
+> _Niezico_ e a "Peking Opera" juvenil (uma que quebrou o silêncio em 1983, outra que ressuscitou o clássico em 2004), parecem distintos, mas ambos vêm de uma profunda defesa daquilo que foi marginalizado.
 
-De Guilin, Guangxi, ao Novo Parque de Taipé, de "Literatura Moderna" à Trupe de Kunqu de Suzhou, a trajectória de sessenta anos de Pai Hsien-yung é a amostra de alguém que, durante toda a vida, se recusou a largar a "memória".
+Da cidade de Guilin, no Guangxi, ao Parque Novo em Taipé, da _Literatura Moderna_ ao Teatro Kunqu de Suzhou, a trajetória de sessenta anos de Pai Hsien-yung é um exemplo de alguém que nunca se desliga da "memória".
 
-**Leitura adicional**: [Pai Hsien-yung — Wikipédia](https://zh.wikipedia.org/wiki/白先勇) ｜ [Prémio Nacional de Artes e Literatura: registo de Pai Hsien-yung](https://www.ncafroc.org.tw/artsaward/winnerDetail@1229) ｜ [Museu Nacional de Literatura de Taiwan](https://www.nmtl.gov.tw/) ｜ [Sanmao](/pt/people/san-mao): Pai Hsien-yung recomendou a sua estreia "Ilusão" publicada em "Literatura Moderna"
+**Leituras Complementares**: [Pai Hsien-yung — Wikipédia](https://zh.wikipedia.org/wiki/白先勇) ｜ [Prêmio Nacional de Artes e Literatura: Registros de Prêmio de Pai Hsien-yung](https://www.ncafroc.org.tw/artsaward/winnerDetail@1229) ｜ [Biblioteca Nacional de Taiwan](https://www.nmtl.gov.tw/) ｜ [Sanmao](/pt/people/san-mao): A primeira obra _Huò_ recomendada por Pai Hsien-yung foi publicada na _Literatura Moderna_.
 
 ## Referências
 
