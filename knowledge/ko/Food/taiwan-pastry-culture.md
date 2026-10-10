@@ -15,7 +15,7 @@ tags:
     '유수피(油酥皮)',
     '식문화',
   ]
-subcategory: '烘焙與糕點'
+subcategory: '烘焙與甜點'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-03
