@@ -21,7 +21,7 @@ lastVerified: 2026-03-24
 lastHumanReview: false
 curation: 'incubating'
 translatedFrom: 'Art/FAB DAO與百岳計畫.md'
-sourceCommitSha: '9094012f4'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:a569386269241d61'
 sourceBodyHash: 'sha256:7b9ca7167bf3d12a'
 translatedAt: '2026-09-08T15:54:46+08:00'
