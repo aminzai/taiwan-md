@@ -174,7 +174,7 @@ translatedAt: '2026-09-12T15:46:45+08:00'
 
 [외교부 영사국: 새 버전 칩 여권 공고](https://www.boca.gov.tw/cp-56-6090-dc8f2-1.html). [외교부: 2021년 새 버전 여권 디자인 설명](https://www.mofa.gov.tw/News_Content.aspx?n=13&sms=47&s=92889). [외교부 영사국: 국민 해외 비자 편의](https://www.boca.gov.tw/cp-37-220-9f130-1.html). [국제민간항공기구: Doc 9303](https://www.icao.int/publications/doc-series/doc-9303)
 
-## 參考資料
+## 참고 자료
 
 [^1]: [외교부 영사국: 외교부는 110년 1월 11일부터 새 버전 칩 여권을 발행하며, 국민들의 적극적인 신청을 환영합니다](https://www.boca.gov.tw/cp-56-6090-dc8f2-1.html) — 2020년 11월 30일 공고, 2021년 1월 11일 발행, 표지 식별도, 신청 장소, 수수료 및 구 여권 유효 기간을 설명한다.
 

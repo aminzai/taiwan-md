@@ -145,7 +145,7 @@ _사진 출처: 교통부 관광국 시야야 국가 풍경구 관리처 〈우�
 
 [농업부 농전수리서: 가난 대저수지 연간 연혁](https://www.ia.gov.tw/zh-TW/media/StoryContent?a=109&id=422&p=3&listid=109); [문화부: 우산두 저수지 및 가난 대저수지 수리 시스템](https://www.moc.gov.tw/en/News_Content2.aspx?n=398&s=14057); [농매체: 가난 대저수지의 연간 급수 달력](https://www.agriharvest.tw/archives/33933/).
 
-## 參考資料
+## 참고 자료
 
 [^1]: [농업부 농전수리서: 가난 대저수지](https://www.ia.gov.tw/zh-TW/media/StoryContent?a=109&id=422&p=3&listid=109) — 공식 연혁 페이지, 1920년 착공, 1930년 완공, 3년 윤작 및 관개 면적 등 기본 자료를 설명한다.
 

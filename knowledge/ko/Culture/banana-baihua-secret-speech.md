@@ -95,7 +95,7 @@ translatedAt: '2026-09-13T02:00:01+08:00'
 
 [臺灣音聲100年：芎蕉白話（台灣話變音）](https://audio.nmth.gov.tw/audio/%E8%8A%8E%E8%95%89%E7%99%BD%E8%A9%B1-%E5%8F%B0%E7%81%A3%E8%A9%B1%E8%AE%8A%E9%9F%B3/)、[原視界：歷劫後重生的大武壠Taivoan](https://insight.ipcf.org.tw/article/224)、[中央研究院數位典藏：平埔族密語「香蕉白話」研究書目](https://digiarch.sinica.edu.tw/content/repository/resource_content.jsp?oid=1776536)。
 
-## 參考資料
+## 참고 자료
 
 [^1]: [國立臺灣歷史博物館：芎蕉白話（台灣話變音）](https://audio.nmth.gov.tw/audio/%E8%8A%8E%E8%95%89%E7%99%BD%E8%A9%B1-%E5%8F%B0%E7%81%A3%E8%A9%B1%E8%AE%8A%E9%9F%B3/) — 타이시보 음성 자료실에서 쵸우자이 바이화의 용도, 가능한 언어 혼합, 거의 소멸한 상태 및 첸이후이룬 1930년 전후의 대조 녹음에 대한 공식 설명.
 

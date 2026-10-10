@@ -103,7 +103,7 @@ translatedAt: '2026-07-25T21:33:42+08:00'
 - [유엔 퇴출](/ko/history/withdrawal-from-united-nations) — 타이완 국제 지위의 구조적 전환점
 - [타이완 외무와 글로벌 공급망](/ko/economy/taiwan-foreign-trade-and-global-supply-chain) — 수출 주도형이 어떻게 회색 지대 무역을 형성했는가
 
-## 參考資料
+## 참고 자료
 
 [^1]: [中華民國—北韓關係 - 維基百科](https://zh.wikipedia.org/zh-hant/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E2%80%94%E5%8C%97%E9%9F%93%E9%97%9C%E4%BF%82) — 위키백과 항목: 위키백과 항목
 

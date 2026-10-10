@@ -148,7 +148,7 @@ _사진: [親子天下(친자천하) 〈교사가 보충수업 명강사로 변�
 - [〈하지만 인간성은 변하지 않는다. 명강사 루제: "역사를 배우는 가장 중요한 것은 입시 시험이 아니다"〉](https://futureparenting.cwgv.com.tw/family/content/index/22429) — 루제의 사료, 역사적 사실, 역사관에 대한 주장, 그리고 그가 역사 교육을 어떻게 이해하는지를 수록한다.
 - [Taiwan Cram School Culture: The Rise and Fall of One Street](https://taiwan.md/en/society/taiwan-cram-school-culture/) — 난양가(남양가)에서 커뮤니티 골목까지, 보충수업 문화가 어떻게 타이완 교육 구조의 일부가 되었는지 이해한다.
 
-## 參考資料
+## 참고 자료
 
 [^1]: [故事 StoryStudio／Apple Podcasts: 〈타이완 역사에 비극만 있어야 하는가? 역사 보충수업 명강사 20년의 첫-hand 현장 관찰 ft. 루제〉](https://podcasts.apple.com/tw/podcast/%E8%AA%B0%E8%AA%AA%E8%87%BA%E7%81%A3%E5%8F%B2%E5%8F%AA%E8%83%BD%E6%82%B2%E6%83%85-%E6%AD%B7%E5%8F%B2%E8%A3%9C%E6%95%99%E5%90%8D%E5%B8%AB%E7%B8%B1%E6%A9%AB%E6%B2%99%E5%A0%B4-20-%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%8B%E7%8F%BE%E5%A0%B4%E8%A7%80%E5%AF%9F-ft-%E5%91%82%E6%8D%B7/id1593373742?i=1000778009947) — 2026년 7월 발표된 프로그램 소개, 루제가 고등학교 2·28 질문에 대한 회상, 그리고 타이완 역사 교수법에 대한 재고 방향을 기록한다.
 

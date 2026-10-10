@@ -119,7 +119,7 @@ Taiwan.md에게 있어, 이는 또한 글쓰기의 경계이다: 제례 절차�
 - [원주민 전통 지혜 창작 보호 정보망: 쯔오족 다방 사 남성 회소](https://www.titic.cip.gov.tw/app/caseDetail?num=1080611000005)
 - [Taiwan News: When February brings a different New Year: Inside Taiwan's Indigenous worlds and the Tsou Mayasvi](https://www.tcn.tw/news/6784674)
 
-## 參考資料
+## 참고 자료
 
 [^1]: [원주민위원회: 쯔오족 민족 소개](https://www.cip.gov.tw/zh-tw/tribe/grid-list/AE6EE12F5F284D59D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — 공식 민족 자료는 쯔오족 분포, 세시 제례, kuba 건축, 친족 조직 및 부족 공공 기능을 설명한다.
 

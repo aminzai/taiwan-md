@@ -139,7 +139,7 @@ _그림: 원주민위원회 '원주민 전통 성명 정보망'의 사이샤족 
 - [사이샤족 분포도](https://taiwan-indigenous-name.info/rn/images/m4.png) — 원주민 전통 성명 정보망, [SaySiyat 사이샤족](https://taiwan-indigenous-name.info/zh-tw/menu/data-nlist/1038F60B153D51DD7D521E9949B2D194-info.html?cumid=1038F60B153D51DD7D521E9949B2D194) 페이지에 삽입됨; 본 문서는 HTTPS 핫링크로만 삽입했으며, 다운로드하거나 별도 저장하지 않음.
 - [사이샤족 인물 의상도](https://taiwan-indigenous-name.info/rn/images/p4.png) — 원주민 전통 성명 정보망, [SaySiyat 사이샤족](https://taiwan-indigenous-name.info/zh-tw/menu/data-nlist/1038F60B153D51DD7D521E9949B2D194-info.html?cumid=1038F60B153D51DD7D521E9949B2D194) 페이지에 삽입됨; 본 문서는 HTTPS 핫링크로만 삽입했으며, 다운로드하거나 별도 저장하지 않음.
 
-## 參考資料
+## 참고 자료
 
 [^1]: [내무부, 원주민위원회: 대만 원주민 전통 성명 사용 지침](https://glrs.moi.gov.tw/LawContent.aspx?id=GL001686) — 2025년 발표된 현행 지침으로, 전통 성명의 문화적 함의, 사용 원칙 및 문화 관습에 따른 개명 사례를 설명한다.
 

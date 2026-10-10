@@ -102,7 +102,7 @@ RJ는 채널 초기의吐槽가 "공격성이 강하고 날카로웠다"고 인�
 - [HahaTai Street Interviews【ENG SUB】 플레이리스트](https://www.youtube.com/playlist?list=PLJ8Ne9rtCp9WRECoFLu0glZGVj8WHopyh)
 - [《야시장왕》 공식 웹사이트 (웨이라이 종합채널)](https://ontv.videoland.com.tw/thekingofnightmarket/)
 
-## 參考資料
+## 참고 자료
 
 [^1]: [《하하타이 — 위키백과, 자유 백과사전》](https://zh.wikipedia.org/zh-hant/哈哈台) — 대만 위키백과 '하하타이' 항목, 채널 연혁, 프로그램 시리즈, 진행진 교대 및 수상 기록을 상세히 서술하며, 제더창이음성음영상관리유한공사의 설립 배경을 기록한다.
 
