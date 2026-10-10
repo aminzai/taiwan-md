@@ -12,7 +12,7 @@ tags:
     'transitorische Gerechtigkeit',
     'Politik und Institutionen',
   ]
-subcategory: 'Politik und Institutionen'
+subcategory: '政策與制度'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-06-13

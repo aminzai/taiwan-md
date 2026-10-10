@@ -13,7 +13,7 @@ tags:
     'Immaterielles Kulturerbe',
     'Festumstellung',
   ]
-subcategory: 'Feste und Traditionen'
+subcategory: '節慶與禮俗'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-27

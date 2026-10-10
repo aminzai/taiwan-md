@@ -2,7 +2,7 @@
 title: 'Taiwans Offshore-Windkraft: Von den Stürmen der Taiwanstraße zum Überlebenskampf der globalen grünen Energielieferkette'
 description: 'Ende 2025 übersteigt Taiwans installierte Offshore-Windkapazität 4,4 GW. Angesichts geologischer Herausforderungen, Anpassungen der Lokalisierungspolitik, Streitigkeiten bei der Zonenvergabe und dem Hunger globaler Technologieriesen nach Grünstrom – wie formt dieses Offshore-Grünenergie-Experiment die Energielebensader der Insel neu?'
 category: 'Economy'
-subcategory: 'Energie und Nachhaltigkeit'
+subcategory: '能源與永續'
 tags:
   [
     'Offshore-Windkraft',

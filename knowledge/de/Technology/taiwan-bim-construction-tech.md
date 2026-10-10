@@ -18,7 +18,7 @@ tags:
     'Taiwan Seexi',
     'Shuo Tao',
   ]
-subcategory: 'Architekturtechnologie'
+subcategory: '建築科技'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-22

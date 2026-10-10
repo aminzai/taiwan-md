@@ -22,7 +22,7 @@ tags:
     'Historisches Viertel',
     'Wenn die Laternen leuchten',
   ]
-subcategory: 'Historisches Viertel'
+subcategory: '歷史街區'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-21

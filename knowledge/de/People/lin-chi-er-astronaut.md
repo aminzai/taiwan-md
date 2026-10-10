@@ -11,7 +11,7 @@ tags:
     'Medizin',
     'Einwanderungsgeschichte',
   ]
-subcategory: 'Wissenschaft und Akademie'
+subcategory: '科學與學術'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-28

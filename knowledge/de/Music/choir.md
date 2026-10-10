@@ -15,7 +15,7 @@ tags:
     'Europäischer Chorwettbewerb',
     'Welt-Chorwettbewerb',
   ]
-subcategory: 'Musikindustrie'
+subcategory: '音樂產業'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-07

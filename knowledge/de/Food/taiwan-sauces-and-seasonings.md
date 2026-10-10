@@ -11,7 +11,7 @@ tags:
     'Taiwan-Geschmack',
     'fermentierte Lebensmittel',
   ]
-subcategory: 'Zutaten und Würzen'
+subcategory: '食材與調味'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20

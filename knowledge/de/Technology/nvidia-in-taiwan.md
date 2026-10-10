@@ -16,7 +16,7 @@ tags:
     'Künstliche Intelligenz',
     'Computex',
   ]
-subcategory: 'Halbleiter und Hardware'
+subcategory: '半導體與硬體'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-22

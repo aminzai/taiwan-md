@@ -14,7 +14,7 @@ tags:
     'Huang Douni',
     'weltmüde Generation',
   ]
-subcategory: 'Generation und Gesellschaft'
+subcategory: '世代與社會'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-06-07

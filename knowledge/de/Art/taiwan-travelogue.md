@@ -14,7 +14,7 @@ tags:
     'Yuri',
     'Spring Mountain Press',
   ]
-subcategory: 'Literarisches Werk'
+subcategory: '文學作品'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-23
