@@ -1,200 +1,211 @@
 ---
-title: "Résolution sur l'avenir de Taïwan : les deux mots « actuellement », qui ont soutenu vingt‑sept ans"
-description: 'En 1999, Lin Cho-shui a ajouté les deux caractères « actuellement » devant le nom officiel « République de Chine », ce qui a déplu à la faction de Chen Shui‑Bian. Ces deux mots ont simultanément apaisé les indépendantistes et les électeurs du centre, ouvrant la porte à la première alternance politique en 2000. Vingt‑sept ans plus tard, les jeunes Taïwanais considèrent comme un sens commun que « Taïwan est déjà indépendant », sans savoir que ce « sens commun » provient d’un texte vague.'
+title: "Déclaration sur l'avenir de Taïwan : deux mots, « actuellement », qui ont tenu vingt-sept ans"
+description: "En 1999, Lin Chih-cheng ajouta les mots « actuellement » devant « République de Chine » dans la Déclaration sur l'avenir de Taïwan, ce qui ne plut pas aux partisans de la ligne dure. Ces deux mots apaisèrent à la fois les indépendantistes et les électeurs centristes, ouvrant la voie à la première rotation au pouvoir en 2000. Vingt-sept ans plus tard, les jeunes Taïwanais considèrent comme évident que « Taïwan a toujours été indépendant », sans savoir que cette évidence provient d'un document parsemé d'ambiguïtés."
 date: 2026-05-17
 category: 'History'
 tags:
-  - 'Parti démocratique progressiste'
-  - "Résolution sur l'avenir de Taïwan"
-  - "Programme du parti pour l'indépendance de Taïwan"
-  - 'Lin Cho-shui'
-  - 'Kuo Cheng-liang'
-  - 'Chen Chung-hsin'
-  - 'Relations cross‑strait'
-  - 'alternance politique'
-  - 'démocratisation de Taïwan'
+  [
+    'Parti démocrate de progrès',
+    "Déclaration sur l'avenir de Taïwan",
+    'Programme indépendantiste',
+    'Lin Chih-cheng',
+    'Kuo Cheng-hsiung',
+    'Chen Chung-hsin',
+    'relations transdésertiques',
+    'rotation au pouvoir',
+    'démocratisation de Taïwan',
+  ]
 subcategory: '政治'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-17
 lastHumanReview: false
 readingTime: 10
-translatedFrom: History/臺灣前途決議文.md
-sourceCommitSha: 'dd39065b'
-sourceContentHash: 'sha256:d8a522bc82b5f1d6'
+sporeLinks:
+  - id: 76
+    platform: 'threads'
+    date: '2026-05-17'
+    url: 'https://www.threads.com/@taiwandotmd/post/DYca5etE80R'
+  - id: 77
+    platform: 'x'
+    date: '2026-05-17'
+    url: 'https://x.com/taiwandotmd/status/2056026352298688935'
+translatedFrom: 'History/臺灣前途決議文.md'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:e6702eb59071e6e0'
 sourceBodyHash: 'sha256:c8ff273540a02078'
-translatedAt: 2026-05-18T05:08:09+08:00
+translatedAt: '2026-10-10T12:07:02+08:00'
 ---
 
-# Résolution sur l'avenir de Taïwan : les deux mots « actuellement », qui ont soutenu vingt‑sept ans
+# Déclaration sur l'avenir de Taïwan : deux mots, « actuellement », qui ont tenu vingt-sept ans
 
-> **30 secondes d’aperçu :** le 8 mai 1999, le Parti démocratique progressiste (DPP) a adopté à Kaohsiung la résolution sur l'avenir de Taïwan, en formulant la phrase « Taïwan, bien qu’actuellement désigné par la Constitution comme République de Chine, n’est pas subordonné à la République populaire de Chine ». Lin Cho-shui a ajouté les deux caractères « actuellement » devant le nom officiel, laissant les indépendantistes penser que « il pourra être changé à l’avenir », et les électeurs du centre penser que « le DPP accepte la situation actuelle ». Ce texte a ouvert la porte à la première alternance politique en 2000 et est depuis devenu le socle du discours cross‑strait pendant vingt‑sept ans, sans que personne n’ose en clarifier la portée vague.
+> **Résumé en 30 secondes :** Le 8 mai 1999, le Parti démocrate de progrès adopta à Kaohsiung la Déclaration sur l'avenir de Taïwan, en déclarant : « Taïwan, bien sûr, est actuellement appelée République de Chine selon la Constitution, mais elle ne dépend pas de la République populaire de Chine. » Lin Chih-cheng ajouta les mots « actuellement » devant « République de Chine », ce qui fit croire aux indépendantistes qu’il y avait « possibilité de changer plus tard », tandis que les électeurs centristes pensaient que « le Parti démocrate de progrès acceptait l’état actuel ». Ce document ouvrit la voie à la première rotation au pouvoir en 2000, et devint l’assise de la rhétorique transdésertique durant vingt-sept ans, sans qu’aucun n’ose éclaircir ses ambiguïtés.
 
-Au printemps 1999, Kuo Cheng-liang reçoit la mission de rédiger un nouveau texte de position cross‑strait pour le DPP. Chen Shui‑Bian, via le secrétaire général du parti de l’époque, You Xi‑kun, veut remplacer le terme « République de Taïwan » du programme d’indépendance par « République de Chine », afin de séduire les électeurs du centre.[^1]
+Au printemps 1999, Kuo Cheng-hsiung reçoit une mission : rédiger un nouveau document sur la position transdésertique du Parti démocrate de progrès. Chen Shui-bian, via le secrétaire général du parti, You Hsi-chuen, oriente la direction : remplacer « République de Chine » par « République de Taïwan » dans le programme indépendantiste, pour conquérir les électeurs centristes.[^1]
 
-Guo rédige « République de Chine ». Lin Cho-shui reçoit le brouillon et ajoute deux caractères devant « République » : « actuellement ».
+Kuo Cheng-hsiung écrit « République de Chine ». Lin Chih-cheng reçoit le projet, et ajoute deux mots devant « République de Chine » : « actuellement ».
 
-« La faction de Chen Shui‑Bian était très mécontente. »[^2]
+« Les partisans de la ligne dure de Chen étaient très contrariés. »[^2]
 
-« Actuellement » signifie que le nom officiel pourra être modifié ultérieurement, affaiblissant ainsi la promesse faite aux électeurs du centre. Mais Lin insiste : ne pas ajouter ces deux caractères reviendrait à accepter la République de Chine comme nom permanent, ce que les indépendantistes ne pourraient jamais accepter. Il estime que le coût de maintenir la République de Chine comme drapeau est très concret : les bureaux de représentation à l’étranger risqueraient d’être fermés, « il est plus important que le pays puisse sortir. »[^3]
+Le mot « actuellement » implique que le nom du pays pourrait changer plus tard, affaiblissant l’engagement envers les électeurs centristes. Mais Lin Chih-cheng insiste : sans ces deux mots, cela signifie que le Parti démocrate de progrès accepte officiellement la République de Chine comme nom permanent, ce que les indépendantistes ne pourraient accepter. Il estime que maintenir le drapeau de la République de Chine a un coût réel : les bureaux de représentation à l’étranger risquent d’être contraints de fermer, « il est plus important que le pays puisse sortir. »[^3]
 
-Finalement, la version de Lin est adoptée. Les deux caractères apaisent les deux camps et, dans la politique taïwanaise, laissent une ambiguïté que personne n’a encore osé clarifier.
+Finalement, la Déclaration sur l'avenir de Taïwan fut adoptée dans la version de Lin Chih-cheng. Ces deux mots apaisèrent les deux camps, mais plantèrent aussi une ambiguïté en politique taïwanaise, qu’aucun n’a osé lever à ce jour.
 
-## Un virage en huit ans
+## Huit ans de virage
 
-Le point de départ de la résolution remonte à 1991. Le 13 octobre de cette année, le DPP adopte le programme d’indépendance, prônant « l’établissement d’une République de Taïwan souveraine, indépendante et autonome ».[^4] Le rédacteur principal était Lin Cho-shui. Le programme comportait une clause conditionnelle : la décision de créer un État serait soumise à un référendum populaire, mais le message central était clair : le DPP veut créer un État.
+Le point de départ de la Déclaration sur l'avenir de Taïwan remonte à 1991. Le 13 octobre de cette année-là, le Parti démocrate de progrès adopta le programme indépendantiste, prônant « l’établissement d’une République de Taïwan indépendante et autonome ».[^4] L’auteur du texte était Lin Chih-cheng. Le programme comportait une condition : la création de l’État devait être « soumise au choix et à la décision du peuple de Taïwan via un référendum », mais le message central était clair : le Parti démocrate de progrès voulait créer un État.
 
-Quatre ans plus tard, le 14 septembre 1995 à Washington, le militant de longue date du mouvement démocratique, Shih Ming‑te, alors président du DPP, déclare devant un auditoire international ce qui deviendra le point de bascule : « Si le DPP gouverne, il n’aura ni besoin ni volonté d’annoncer l’indépendance de Taïwan, car Taïwan est déjà indépendant depuis un demi‑siècle. »[^5] Cette phrase apaise la communauté internationale, mais choque les indépendantistes du parti. Après plusieurs débats internes, elle devient le consensus du parti, semant la graine de la résolution de 1999.
+Quatre ans plus tard, le 14 septembre 1995, à Washington. Lee Teng-hui, après avoir passé vingt-cinq ans dans des prisons politiques, déclare devant un public international, dans une phrase devenue l’origine du tournant : « Si le Parti démocrate de progrès prend le pouvoir, il n’est ni nécessaire ni souhaitable d’annoncer l’indépendance de Taïwan, car Taïwan a déjà été indépendante depuis un demi-siècle. »[^5] C’était apaisant pour la communauté internationale, mais choquant pour les indépendantistes du parti. Cette phrase fut débattue à l’intérieur du parti, puis devint le consensus du parti entier, semant la graine de la Déclaration sur l'avenir de Taïwan quatre ans plus tard.
 
-L’argumentation de Shih remonte à 1980, lorsqu’il, depuis la prison, propose le concept de « l’indépendance de Taïwan à la mode de la République de Chine » : Taïwan est déjà indépendant, son nom actuel est la République de Chine. Cette logique transforme le futur « indépendance » en présent : il ne faut pas déclarer, il faut reconnaître.[^6]
+Les idées de Lee Teng-hui peuvent être tracées plus en arrière, en 1980. En prison, il propose « l’indépendance de Taïwan dans le modèle de la République de Chine » : Taïwan est déjà indépendante, mais on l’appelle actuellement République de Chine. Cette logique transforme « indépendance » du futur au présent, sans nécessiter d’annonce, seulement une reconnaissance.[^6]
 
-Le véritable déclencheur du virage est le vote. En mars 1996, le DPP présente le « père de l’indépendance » Peng Ming‑min à la présidentielle, obtenant 21,13 % des voix, le plus mauvais résultat national depuis la création du parti.[^7] L’analyste américain Shelley Rigger explique simplement : les électeurs jugent le soutien à l’indépendance trop risqué. Après la défaite, Peng quitte le parti et fonde le « Comité pour la création d’un État ». Le parti paie le prix fort : il perd son candidat à la présidence.
+Ce fut finalement le vote qui força le tournant. En mars 1996, le Parti démocrate de progrès présente Peng Ching-kun, surnommé « père des indépendantistes », comme candidat à la présidence, avec un score de 21,13 %, la plus grande défaite du parti dans une élection nationale depuis sa création.[^7] L’analyse de Shelley Rigger, spécialiste politique américaine, est claire : les électeurs pensent que soutenir l’indépendance est trop risqué. Après son échec, Peng Ching-kun quitte le parti et fonde « l’Association pour la création d’un État ». Le parti paie un lourd tribut sur la question de la ligne : il perd son propre candidat à la présidence.
 
-La réflexion post‑électorale est vive. En mai 1996, plus d’une centaine de jeunes du parti signent le « Manifeste de la nouvelle génération », rédigé par Zhou Yicheng, critiquant le slogan « indépendance » et la « culture du vide », et appelant à fonder le mouvement indépendantiste sur une identité nationale partagée par plus de 20 millions de personnes.[^8] Ce manifeste remet en cause la méthodologie du programme d’indépendance : la direction de création d’État n’est pas erronée, mais les slogans ne la concrétisent pas.
+La réflexion après l’élection fut intense. En mai 1996, plus de cent membres du parti publient le « Nouveau programme de la nouvelle génération », rédigé par Chou I-chen, critiquant les « slogans indépendantistes » et la « culture de vide » au sein du parti, et appelant à fonder le mouvement indépendantiste sur l’identité nationale des vingt millions de personnes de Taïwan.[^8] Ce programme remettait directement en question la méthodologie du programme indépendantiste : la direction de la création d’un État n’est pas erronée, mais les slogans ne suffiront pas à la réaliser.
 
-La pression extérieure augmente. Le 30 juin 1998, le président américain Bill Clinton visite la Chine continentale et, lors d’une conférence conjointe à Shanghai avec Jiang Zemin, annonce la « politique des trois non » : ne pas soutenir l’indépendance de Taïwan, ne pas soutenir « un Chine, un Taïwan » ou « deux Chines », et ne pas soutenir l’adhésion de Taïwan à des organisations internationales où l’État est critère d’adhésion.[^9] La même année, en février, le parti connaît un grand débat sur la politique envers la Chine : Hsu Hsin‑liang prône une « avancée audacieuse vers l’ouest », tandis que Qiu Yiren et le Nouveau Courant insistent sur une « consolidation progressive », aboutissant à un compromis « consolidation progressive vers l’ouest ».[^10] En fin d’année, l’élection municipale de Taipei voit la défaite de Chen Shui‑Bian face à Ma Ying‑jeou du Kuomintang (KMT). Malgré la victoire du DPP à Kaohsiung grâce à Hsieh Chang‑ting, la perte à Taipei secoue tout le parti : même le président très populaire Chen ne peut plus protéger la capitale, d’où la question : comment gagner l’élection présidentielle ? Un consensus émerge : la ligne doit être révisée en profondeur.
+Les pressions extérieures augmentaient également. Le 30 juin 1998, le président américain Bill Clinton visite la Chine continentale, et lors d’un point de presse à Shanghai avec Jiang Zemin, il annonce publiquement la « triple non » : ne pas soutenir l’indépendance de Taïwan, ne pas soutenir « un seul Chine, un Taïwan » ou « deux Chine », ne pas soutenir l’adhésion de Taïwan à des organisations internationales en tant qu’État membre.[^9] En février de la même année, le parti vit un débat majeur sur la politique chinoise : Hsu Hsin-liang défend une « ouverture audacieuse » et une coopération active, tandis que Chiu Yi-jen et le courant nouveau s’accroissent sur une « approche prudente » pour gérer les risques, aboutissant à un compromis : « ouverture prudente ». À la fin de l’année, Chen Shui-bian perd sa réélection à la mairie de Taipei, battu par Ma Ying-jeou du Parti nationaliste. Bien que le même an, Hsieh Chang-ting remporte Kaohsiung pour le Parti démocrate de progrès, la défaite à Taipei secoua tout le parti : si un homme aussi populaire que Chen Shui-bian ne peut pas gagner la capitale, comment gagner l’élection présidentielle ? Une conviction envahit le parti : la ligne devait être révisée en profondeur.
 
-Toutes ces pressions convergent vers la même conclusion : la voie de l’indépendance est bloquée, une transformation pragmatique est indispensable.
+Toutes ces pressions convergentes pointaient dans la même direction : la voie de l’indépendance par la création d’un État est bloquée, il est temps de se tourner vers la pragmatisme.
 
-> **📝 Note du curateur :** l’histoire de la résolution est souvent présentée comme « la victoire des pragmatiques ». Mais ceux qui ont réellement fait pivoter la ligne étaient les mêmes qui l’avaient définie. Shih Ming‑te, qui a déclaré qu’il n’était pas nécessaire d’annoncer l’indépendance, était le prisonnier le plus longtemps incarcéré pour l’indépendance ; Lin Cho-shui, qui a rédigé le programme d’indépendance, a ajouté deux caractères huit ans plus tard, transformant « création d’État » en « reconnaissance du statut actuel ». Ce sont ceux qui ont parcouru le plus loin qui ont conduit le virage.
+> **📝 Note de l’éditeur :** L’histoire de la Déclaration sur l'avenir de Taïwan est souvent racontée comme « la victoire des pragmatiques ». Mais ceux qui ont poussé au tournant sont tous les mêmes personnes qui avaient défini la ligne d’origine. Lee Teng-hui, qui déclare « ne pas avoir besoin d’annoncer l’indépendance », est celui qui a passé le plus longtemps en prison pour l’indépendance de Taïwan ; Lin Chih-cheng, qui a rédigé le programme indépendantiste, ajoute huit ans plus tard deux mots dans un document spirituel continu, transformant « créer un État » en « reconnaître l’état actuel ». Ceux qui ont poussé au tournant sont tous les mêmes personnes qui avaient parcouru le plus long chemin.
 
-## Trois auteurs, une ambiguïté
+## Les trois personnes qui ont écrit l’ambiguïté
 
-Chen Chung-hsin propose un compromis clé : ne pas modifier le programme d’indépendance, mais adopter simultanément une nouvelle résolution.[^11] Sous le pseudonyme Hang‑zhi, Chen était rédacteur en chef du magazine « Beautiful Island », l’un des premiers intellectuels à intervenir par l’écrit dans le mouvement politique. Son plan répondait précisément à la réalité interne du parti : le programme d’indépendance ne pouvait être touché, sinon il s’agirait d’une déclaration de guerre contre les « verts profonds »; mais sans sortir du cadre du programme, le DPP ne pouvait gagner l’élection présidentielle de 2000. En créant un nouveau texte qui coexiste avec l’ancien sans le contredire, il pose la première étape d’une stratégie d’ambiguïté.
+Chen Chung-hsin propose la solution de compromis clé : ne pas modifier le programme indépendantiste, mais adopter un nouveau document de déclaration. Chen Chung-hsin, de son vrai nom Hang Chih, a été rédacteur en chef du magazine _Beauty Island_, et fut l’un des premiers intellectuels à s’engager politiquement à travers l’écriture. Sa proposition répond précisément à la réalité politique du parti : le programme indépendantiste est intouchable, car le toucher serait une déclaration de guerre aux partisans de la ligne dure ; mais sans sortir du cadre du programme indépendantiste, les élections présidentielles de 2000 seraient perdues. Contourner le vieux document par un nouveau, permettant aux deux documents de coexister sans se contredire, est déjà une première stratégie d’ambiguïté.
 
-Le groupe de rédaction comptait trois personnes, représentant trois forces. Kuo Cheng-liang était le rédacteur principal, du côté pragmatique de la campagne de Chen Shui‑Bian ; Chen Chung-hsin assurait la coordination entre les courants, intellectuel issu du « Beautiful Island »; Lin Cho-shui gardait le contrôle de la ligne de base, représentant la théorie du Nouveau Courant. Lin déclare : « Je joue le rôle d’empêcher le texte de pencher trop du côté de Chen ou de You. »[^12]
+Les trois membres du groupe de rédaction représentent chacun une force différente. Kuo Cheng-hsiung rédige le texte, au nom de la pragmatique électorale de Chen Shui-bian ; Chen Chung-hsin arbitrage les différentes factions, passant de l’éditorial du magazine _Beauty Island_ à la scène politique ; Lin Chih-cheng contrôle la ligne idéologique, représentant la rigueur théorique du courant nouveau. Lin Chih-cheng déclare : « (Je) joue le rôle d’empêcher la déclaration de s’incliner trop vers Chen Shui-bian et la ligne centriste. »[^12]
 
-Le 8 mai 1999, lors de la deuxième session plénière du huitième congrès national du DPP à Kaohsiung, la résolution est adoptée.[^13]
+Le 8 mai 1999, lors de la deuxième session de la huitième assemblée nationale du Parti démocrate de progrès à Kaohsiung, la Déclaration sur l'avenir de Taïwan est adoptée.[^13]
 
-Le passage central du texte est rédigé avec une précision extrême :
+Le passage central du document est rédigé avec une précision remarquable :
 
-> **✦** « Taïwan est un État souverain et indépendant, dont le territoire s’étend uniquement sur Taiwan, Penghu, Kinmen, Matsu et leurs îles dépendantes, ainsi que sur les eaux territoriales et les zones contiguës conformes au droit international. Taïwan, bien qu’actuellement désigné par la Constitution comme République de Chine, n’est pas subordonné à la République populaire de Chine ; toute modification du statut d’indépendance doit être décidée par l’ensemble des habitants de Taïwan au moyen d’un référendum. »
+> **✦** « Taïwan est un État souverain indépendant, dont le territoire ne s’étend qu’à Taïwan, Pékin, Jinmen et leurs îles dépendantes, ainsi qu’aux eaux territoriales et zones contiguës conformément au droit international. Taïwan, bien sûr, est actuellement appelée République de Chine selon la Constitution, mais ne dépend pas de la République populaire de Chine. Toute modification de l’état actuel de l’indépendance doit être décidée par le peuple de Taïwan via un référendum. »
 
-L’introduction rappelle le processus de démocratisation de Taïwan, soulignant que « grâce aux luttes acharnées du DPP et du peuple, le KMT a abandonné la loi martiale et le parti unique, acceptant la réforme démocratique », ce qui a fait de Taïwan « de facto un État démocratique et indépendant ». [^27] Les sept points couvrent l’ensemble du cadre de position nationale : (1) Taïwan est un État souverain et indépendant ; (2) il n’appartient pas à la RPC ; (3) il doit rejoindre les Nations Unies ; (4) il doit renoncer à la politique d’une seule Chine ; (5) le référendum doit être légiféré ; (6) un consensus extérieur doit être construit ; (7) les deux rives doivent établir un cadre de paix par le dialogue.
+L’introduction de la déclaration rappelle l’histoire de la démocratisation de Taïwan, soulignant que « grâce aux efforts communs du Parti démocrate de progrès et du peuple durant des années, nous avons contraint le Parti nationaliste à abandonner l’état d’urgence et le monopole politique, à accepter les réformes démocratiques », faisant de Taïwan « un État démocratique indépendant en fait ».[^27] Les sept principes couvrent l’ensemble du cadre d’identité nationale : Taïwan est un État souverain indépendant (premier point), ne dépend pas de la République populaire de Chine (deuxième point), devrait participer à la communauté internationale et adhérer aux Nations Unies (troisième point), devrait rejeter l’idée d’un seul Chine (quatrième point), devrait compléter la législation des référendums (cinquième point), les partis au pouvoir devraient établir un consensus extérieur (sixième point), les deux rives devraient construire un cadre de paix par le dialogue (septième point).
 
-Le septième point est le plus subtil. Un texte affirmant que Taïwan n’appartient pas à la Chine se termine par une clause « par le dialogue complet, rechercher une compréhension mutuelle profonde et une coopération économique et commerciale, établir un cadre de paix ». Cette conclusion empêche le texte d’être une simple déclaration de confrontation et laisse une marge de manœuvre pour les échanges futurs.
+Le septième point est le plus subtil. Un document affirmant que Taïwan ne dépend pas de la Chine se termine par : « par le biais d’un dialogue complet, chercher une compréhension mutuelle profonde et coopérer économiquement, établir un cadre de paix ». Cette conclusion fait de la déclaration bien plus qu’un simple manifeste de confrontation, et laisse de la place aux échanges transdésertiques ultérieurs.
 
-Comparé au programme d’indépendance de 1991, la différence est nette. Le programme voulait « établir une République de Taïwan souveraine, indépendante et autonome », c’est‑à‑dire changer la situation. La résolution de 1999 affirme « Taïwan est un État souverain et indépendant », déclarant que le statut actuel existe déjà. Le passage du « faire » au « reconnaître » transforme le référendum : de moteur de création d’État à assurance du statu quo.
+Comparée à la version de 1991 du programme indépendantiste, la différence est évidente. Le programme indépendantiste vise à « créer une République de Taïwan indépendante et autonome », c’est-à-dire changer l’état actuel. La Déclaration sur l'avenir de Taïwan affirme « Taïwan est un État souverain indépendant », c’est-à-dire reconnaître que l’état actuel existe déjà. Passer d’une action à entreprendre à une réalité à reconnaître. Le nom du pays passe de « République de Taïwan » à « actuellement appelée République de Chine selon la Constitution ». La fonction des référendums est inversée : du déclencheur de la création d’un État, elle devient une assurance pour protéger l’état actuel.
 
-L’ambiguïté fonctionne parce que chaque camp lit ce qu’il veut voir. Les indépendantistes voient « actuellement », pensant qu’un jour le nom pourra changer, le rêve d’État persiste. Les électeurs du centre voient « désigné par la Constitution comme République de Chine », estimant que le DPP est enfin pragmatique, sans crainte d’une guerre cross‑strait. Le KMT voit « Taïwan et la RPC ne sont pas subordonnés l’un à l’autre », le qualifiant de « indépendance reconditionnée ». Pékin accepte cette lecture, qualifiant le texte de « indépendance déguisée ». [^14]
+L’ambiguïté fonctionne parce que chacun y lit ce qu’il veut voir. Les indépendantistes voient « actuellement » et pensent qu’il reste une chance de changer le nom du pays, que le rêve de créer un État subsiste. Les électeurs centristes voient « appelée République de Chine selon la Constitution » et pensent que le Parti démocrate de progrès est enfin pragmatique, et qu’ils n’ont pas à craindre une guerre transdésertique en votant pour lui. Le Parti nationaliste voit « Taïwan ne dépend pas de la République populaire de Chine » et critique cela comme une simple réunion de la marque indépendantiste. Pékin partage cet avis et considère cela comme « l’indépendance déguisée ».[^14]
 
-Chaque interprétation repose sur le texte. Aucun camp n’a totalement tort. C’est exactement ce que les rédacteurs visaient.
+Chaque interprétation a son fondement dans le texte. Aucune n’est entièrement fausse. C’était exactement l’intention des rédacteurs.
 
 ## La porte ouverte
 
-Le 18 mars 2000, Chen Shui‑Bian est élu président avec 39,3 % des voix, marquant la première alternance politique.[^15]
+Le 18 mars 2000, Chen Shui-bian est élu président avec 39,3 % des voix, marquant la première rotation au pouvoir.[^15]
 
-Chen adopte une « ligne du centre nouvelle » : ambiguïté délibérée en diplomatie et défense, mise en avant de la coopération multipartite et de la lutte contre la corruption, déplaçant le débat de l’indépendance à la gouvernance. La résolution fournit une base stable à cette stratégie — la position cross‑strait du parti est clairement définie, le candidat n’a plus à répondre chaque jour à la question « Allez‑vous annoncer l’indépendance ? ».
+Chen Shui-bian joue la « nouvelle ligne centriste » : il fait exprès d’être ambiguë sur les questions diplomatiques et de défense nationale, misant sur la coopération transpartisane et la lutte contre la corruption, déplaçant le focus des élections de l’indépendance-unification vers les capacités de gouvernance. La Déclaration sur l'avenir de Taïwan donne à cette stratégie une base solide : la position transdésertique du parti est clairement définie, et le candidat n’a pas à répondre chaque jour à la question « veux-tu annoncer l’indépendance ? ».
 
-Le rôle de la résolution dans la campagne peut se résumer ainsi : elle enlève la peur des électeurs du centre. L’équation « DPP au pouvoir = annonce d’indépendance = guerre cross‑strait » est démantelée. Puisque le DPP affirme que Taïwan est déjà indépendant, que le nom officiel est la République de Chine, et que tout changement doit passer par référendum, voter DPP revient simplement à changer de parti au pouvoir, sans affecter la trajectoire nationale.
+Le rôle de la Déclaration sur l'avenir de Taïwan dans la campagne se résume à une phrase : elle a fait cesser la peur des électeurs centristes. L’équation « le Parti démocrate de progrès au pouvoir = annonce d’indépendance = guerre transdésertique » a été brisée par la Déclaration sur l'avenir de Taïwan. Puisque le Parti démocrate de progrès dit lui-même que Taïwan est déjà indépendante, que le nom du pays est République de Chine, et que tout changement d’état actuel doit passer par un référendum, alors voter pour le Parti démocrate de progrès, c’est simplement changer de parti au pouvoir, sans lien avec la direction du pays.
 
-Lors de son investiture, Chen annonce les « quatre non et aucun » : ne pas annoncer l’indépendance, ne pas changer le nom officiel, ne pas introduire la notion de deux États dans la Constitution, ne pas organiser de référendum sur l’unité/indépendance, et ne pas abolir les structures du Comité national de l’unité. [^16] Ces cinq engagements s’adressent à Washington et à Pékin, constituant une garantie politique finement calibrée. Bien que cela ressemble à une concession, dans la logique de la résolution ces engagements sont la continuité logique du statu quo : si Taïwan est déjà indépendant et que tout changement nécessite un référendum, « ne pas annoncer l’indépendance » n’est qu’une description d’un événement qui n’arrivera pas. La précision du libellé était déjà prévue lors de la rédaction.
+Lors de son investiture, Chen Shui-bian annonce les « cinq non, une absence » : ne pas annoncer l’indépendance, ne pas changer le nom du pays, ne pas promouvoir la théorie des deux États dans la Constitution, ne pas promouvoir un référendum sur l’indépendance-unification, et il n’y a pas de question sur l’abolition de l’idéologie nationale et de l’Association de l’unité nationales.[^16] Ces cinq engagements sont adressés à la fois à Washington et à Pékin, et constituent un contrat politique soigneusement calibré. Ces engagements semblerient des concessions, mais dans la logique de la Déclaration sur l'avenir de Taïwan, ils sont une extension naturelle de l’état actuel : puisque Taïwan est déjà indépendante et que tout changement d’état actuel doit passer par un référendum, alors « ne pas annoncer l’indépendance » signifie simplement que quelque chose qui n’a pas besoin d’arriver ne se produira pas. Le degré de précision du langage a déjà été anticipé lors de la rédaction.
 
-En 2001, le DPP tente d’élever officiellement le statut de la résolution afin qu’elle prime sur le programme d’indépendance.[^17] L’essai échoue. Le programme d’indépendance n’est ni abrogé, ni gelé, ni modifié ; il est simplement recouvert par un autre texte.
+En 2001, le Parti démocrate de progrès tente de faire officialiser la Déclaration sur l'avenir de Taïwan, la plaçant au-dessus du programme indépendantiste en termes juridiques.[^17] L’effort échoue. Le programme indépendantiste n’est ni supprimé, ni gelé, ni modifié. Il est simplement recouvert par un autre document.
 
-## Une base que personne n’ose toucher
+## Le socle que personne n’ose toucher
 
-La résolution a vécu vingt‑sept ans, plus longtemps que tout autre discours ultérieur. Sa longévité s’explique simplement : chaque tentative de la dépasser ou de la renverser a échoué.
+La Déclaration sur l'avenir de Taïwan a vécu vingt-sept ans, plus longtemps que toute autre rhétorique ultérieure. Elle tient tant qu’elle tient parce que chaque tentative d’aller plus loin ou de reculer a échoué.
 
-En septembre 2007, à la fin du second mandat de Chen Shui‑Bian, le DPP adopte la « résolution d’État normal », visant à aller plus loin : renommer le pays « Taïwan », rédiger une nouvelle constitution, et rejoindre l’ONU sous le nom « Taïwan ».[^18] La résolution sur l’avenir, portant le chapeau de la République de Chine, reconnaît le fait de l’indépendance ; la résolution d’État normal veut enlever ce chapeau pour atteindre une indépendance juridique. Les factions modérées du parti la qualifient d’aventure de Chen pour détourner les controverses du gouvernement. En 2008, le DPP subit une défaite écrasante ; Hsieh Chang‑ting obtient 41,55 % des voix, et la résolution d’État normal est abandonnée.
+En septembre 2007, à la fin de son second mandat, Chen Shui-bian fait adopter la « Déclaration sur la normalisation de l’État », cherchant à aller plus loin : officialiser le nom Taïwan, élaborer une nouvelle Constitution, et adhérer aux Nations Unies sous le nom de Taïwan.[^18] La Déclaration sur l'avenir de Taïwan porte le chapeau de la République de Chine en reconnaissant l’indépendance de fait, tandis que la Déclaration sur la normalisation de l’État veut retirer le chapeau pour atteindre l’indépendance juridique. Les partisans modérés du parti pensent que Chen Shui-bian pousse cette initiative pour détourner l’attention des controverses de son mandat. Après la défaite cuisante aux élections l’année suivante, avec un score de 41,55 % pour Hsieh Chang-ting, la Déclaration sur la normalisation de l’État est mise de côté.
 
-En 2014, Kuo Cheng-liang et plus de quarante représentants du parti signent une proposition de gel du programme d’indépendance, arguant que les présidents et candidats du DPP « ont déjà accepté la République de Chine par leurs actions », et que le programme « équivaut à s’opposer à la République de Chine, à poursuivre le changement du statu quo, et à alimenter les malentendus internationaux ». [^19] La présidente Tsai Ing‑wen ordonne que le dossier soit examiné par le Comité exécutif du parti, sans suite officielle.
+En 2014, Kuo Cheng-hsiung, auteur principal de la Déclaration sur l'avenir de Taïwan, et plus de quarante députés signent une pétition pour gel le programme indépendantiste. La raison est claire : tous les présidents et candidats du Parti démocrate de progrès « ont déjà agi en acceptant la République de Chine », et le programme indépendantiste « revient à s’opposer à la République de Chine et à chercher à changer l’état actuel, ce qui n’est qu’une source d’incompréhension internationale. »[^19] La présidente du parti, Tsai Ing-wen, ordonne que cela soit soumis au comité central, et il n’y a pas de suite.
 
-Impossible d’avancer, impossible de reculer. La résolution reste figée, unique position encore debout.
+On ne peut pas aller plus loin, ni plus en arrière. La Déclaration sur l'avenir de Taïwan reste là, comme la seule position encore debout.
 
-En février 2024, Wu Jun‑zhi, directeur des affaires chinoises du DPP, révèle lors d’une conférence en ligne le secret du parti : le programme d’indépendance « est un document historique », remplacé de fait par la résolution sur l’avenir.[^20] Fin 2023, le chef de campagne de Lai Ching‑te, Zhuo Rong‑tai, déclare sans ambages : « La résolution sur l’avenir de Taïwan indique clairement au monde que Taïwan est un État souverain, que son nom est la République de Chine, c’est l’attitude pragmatique unique du DPP aujourd’hui, il n’y a pas de problème de gel du programme d’indépendance. »[^21]
+En février 2024, Wu Chun-shuo, directeur du département des affaires chinoises du Parti démocrate de progrès, déclare publiquement un secret bien gardé du parti : le programme indépendantiste « est devenu un document historique », remplacé en pratique par la Déclaration sur l'avenir de Taïwan.[^20] À la fin de 2023, alors que Ko Tzu-hsiang était secrétaire général de la campagne électorale de Lai Ching-te, il déclare plus directement : « La Déclaration sur l'avenir de Taïwan a clairement informé le monde entier que Taïwan est un État souverain indépendant, dont le nom est la République de Chine, et c’est la seule attitude pragmatique actuelle du Parti démocrate de progrès, il n’y a donc pas de problème de gel du programme indépendantiste. »[^21]
 
-Pendant ses huit années à la présidence, Tsai s’appuie sur la résolution pour développer les « quatre engagements » : maintenir la non‑subordination entre la République de Chine et la RPC, défendre la souveraineté contre toute annexation, garantir que l’avenir de la République de Chine Taïwan soit décidé par les 23 millions de Taïwanais, et soutenir le régime constitutionnel de démocratie et de liberté.[^28] Avant les élections de 2024, Lai Ching‑te affirme : « Chen Shui‑Bian a été élu grâce à la résolution, sans jamais annoncer l’indépendance ; Tsai n’a jamais annoncé l’indépendance ; moi non plus je n’annoncerai pas l’indépendance en tant que président. »[^29] Un texte de 1999 devient ainsi le socle commun cité par trois présidents du DPP.
+Tsai Ing-wen, durant ses huit années de mandat, développe à partir de la Déclaration sur l'avenir de Taïwan les « quatre principes » : maintenir la souveraineté de la République de Chine et de la République populaire de Chine séparées, protéger la souveraineté contre l’annexion et l’ingérence, décider de l’avenir de la République de Chine à Taïwan par les vingt-trois millions de personnes, et protéger le système constitutionnel démocratique et libre.[^28] Lai Ching-te, avant les élections de 2024, déclare plus directement : « Chen Shui-bian a été élu président selon la Déclaration sur l'avenir de Taïwan, et n’a pas annoncé l’indépendance de Taïwan pendant son mandat ; Tsai Ing-wen non plus n’a pas annoncé l’indépendance de Taïwan. Si je suis élu président, je ne l’annoncerai pas non plus. »[^29] Un document de 1999 est devenu la base commune citée par trois présidents du Parti démocrate de progrès.
 
-Le programme d’indépendance n’a jamais été gelé, car le gel nécessite un vote formel, ce qui impliquerait de répondre à une question impossible : le DPP soutient‑il encore l’indépendance ? La résolution n’a jamais été officiellement remplacée, car « remplacer » serait un acte clair, signifiant que les trente années de ligne de création d’État étaient erronées. Le parti a choisi de ne rien faire, laissant l’ambiguïté fonctionner.
+Le programme indépendantiste n’a pas été gelé, car le geler nécessiterait un vote formel, et un vote formel impliquerait que le parti doit répondre à une question qu’il ne peut pas répondre : le Parti démocrate de progrès soutient-il encore l’indépendance de Taïwan ? La Déclaration sur l'avenir de Taïwan n’a pas non plus officiellement remplacé le programme indépendantiste, car « remplacer » est une action claire, équivalente à admettre que les trente ans précédents d’efforts pour créer un État étaient erronés. Le parti a choisi de ne rien faire, laissant l’ambiguïté fonctionner.
 
-Après vingt‑sept ans, les trois rédacteurs ont pris des chemins différents. Kuo Cheng-liang a quitté le DPP en 2023, devenant commentateur politique à la télévision, surprenant ses anciens camarades.[^22] Lin Cho-shui a démissionné du parlement en 2006 à la suite de l’affaire de corruption de Chen, mais est resté dans le parti, commentant la politique avec une précision textuelle, devenant le critique interne le plus sévère.[^23] Chen Chung-hsin, après avoir quitté le poste de vice‑secrétaire du Conseil de sécurité nationale, s’est retiré discrètement de la scène politique. Les trois ont rédigé le même texte en 1999 ; vingt‑sept ans plus tard, leurs écrits restent le socle du discours cross‑strait.
+Les trois rédacteurs ont pris des chemins différents vingt-sept ans plus tard. Kuo Cheng-hsiung quitte le Parti démocrate de progrès en 2023, devenant commentateur politique et critiquant ouvertement son ancien employeur, un retournement si radical que ses anciens collègues sont étonnés.[^22] Lin Chih-cheng démissionne de l’assemblée en 2006 à cause de l’affaire des frais officiels de Chen Shui-bian, mais reste au sein du parti, continuant à commenter l’actualité avec la précision du langage de la Déclaration sur l'avenir de Taïwan, devenant le critique interne le plus implacable du parti.[^23] Chen Chung-hsin, après avoir quitté sa position de secrétaire adjoint du Conseil des affaires nationales, disparaît discrètement de la scène politique. Les trois hommes ont écrit le même document autour de la même table en 1999, et vingt-sept ans plus tard, le document qu’ils ont écrit reste la base de la rhétorique transdésertique de Taïwan.
 
-1. **13 oct. 1991** — Le DPP adopte le programme d’indépendance, prônant « l’établissement d’une République de Taïwan », rédigé par Lin Cho-shui
-2. **Sept. 1995** — Shih Ming‑te déclare à Washington « il n’est pas nécessaire et il ne sera pas annoncé que Taïwan devienne indépendant »
-3. **Mars 1996** — Peng Ming‑min obtient 21,13 % aux élections présidentielles, intensifiant la pression pour un virage de ligne
-4. **8 mai 1999** — La résolution sur l’avenir de Taïwan est adoptée à Kaohsiung, « actuellement désigné par la Constitution comme République de Chine » devient le nouveau consensus
-5. **18 mars 2000** — Chen Shui‑Bian est élu président, première alternance politique
-6. **Sept. 2007** — Adoption de la résolution d’État normal, tentative de pousser vers une indépendance juridique, abandonnée après la défaite de 2008
-7. **17 mai 2026** — Lai Ching‑te utilise la résolution pour définir « les deux sens de l’indépendance », Lin Cho-shui commente « très approprié »
+1. **Octobre 1991** — Le Parti démocrate de progrès adopte le programme indépendantiste, prônant la création de la République de Taïwan, rédigé par Lin Chih-cheng
+2. **Septembre 1995** — Lee Teng-hui déclare à Washington : « Il n’est ni nécessaire ni souhaitable d’annoncer l’indépendance de Taïwan »
+3. **Mars 1996** — Peng Ching-kun obtient 21,13 % et subit une défaite cuisante, la pression pour un tournant de ligne augmente
+4. **Mai 1999** — La Déclaration sur l'avenir de Taïwan est adoptée à Kaohsiung, « actuellement appelée République de Chine selon la Constitution » devient le nouveau consensus
+5. **Mars 2000** — Chen Shui-bian est élu président, première rotation au pouvoir
+6. **Septembre 2007** — La Déclaration sur la normalisation de l’État est adoptée, tentant d’aller vers l’indépendance juridique, mais mise de côté après une défaite électorale cuisante l’année suivante
+7. **Mai 2026** — Lai Ching-te définit « les deux significations majeures de l’indépendance » selon la Déclaration sur l'avenir de Taïwan, Lin Chih-cheng commente : « Très approprié »
 
-## « Très approprié »
+## « Très approprié »
 
-Le 17 mai 2026, dans le contexte de la pression internationale après la rencontre Biden‑Xi, Donald Trump indique ne pas vouloir que Taïwan se dirige vers l’indépendance, Pékin réaffirme la politique d’une seule Chine. Lai Ching‑te répond en réutilisant le langage de la résolution pour redéfinir « l’indépendance » : l’indépendance n’est pas l’annonce d’un nouveau statut, c’est le statu quo — Taïwan n’appartient pas à la RPC, la République de Chine et la RPC ne sont pas subordonnées l’une à l’autre. Cette logique remonte à la déclaration de Shih en 1995. Lai s’appuie sur la résolution de 1999 et les « quatre engagements » de Tsai en 2021, affirmant qu’il s’agit de la politique actuelle du gouvernement du DPP.[^24]
+17 mai 2026. Le contexte est la pression internationale après la réunion de Trump et Xi Jinping : Trump exprime qu’il ne souhaite pas que Taïwan se tourne vers l’indépendance, et Pékin réaffirme sa position d’un seul Chine. La stratégie de réponse de Lai Ching-te est de redéfinir l’indépendance à travers le langage de la Déclaration sur l'avenir de Taïwan : l’indépendance ne signifie pas annoncer quoi que ce soit, l’indépendance est l’état actuel — Taïwan ne dépend pas de la République populaire de Chine, la République de Chine et la République populaire de Chine sont séparées. Cette logique peut être retracée jusqu’à la phrase de Lee Teng-hui à Washington en 1995. Les références de Lai Ching-te sont la Déclaration sur l'avenir de Taïwan de 1999 et les « quatre principes » de Tsai Ing-wen en 2021, soulignant que « tous ces éléments sont les politiques nationales actuellement poursuivies par le gouvernement du Parti démocrate de progrès ».[^24]
 
-Le KMT, via Jiang Wan‑an, demande : le DPP veut‑il supprimer le programme d’indépendance ? Le législateur du DPP, Shen Bo‑yang, répond : « C’est maintenant la résolution sur l’avenir de Taïwan, le futur de Taïwan sera décidé par les 23 millions de Taïwanais… n’est‑il pas juriste ? »[^25]
+Ma Ying-jeou de l’opposition nationaleiste rétorque : le Parti démocrate de progrès veut-il supprimer le programme indépendantiste ? Le député du Parti démocrate de progrès Shen Poy-hsiang répond : « Maintenant, c’est la Déclaration sur l'avenir de Taïwan, l’avenir de Taïwan est décidé par les vingt-trois millions de personnes de Taïwan… N’est-il pas un juriste ? »[^25]
 
-Le même jour, le Bureau de la présidence publie à nouveau la formule « la République de Chine est un État souverain et démocratique ». Lin Cho-shui écrit sur Facebook les trois mots « Très approprié. » Il explique que cela « lui a permis de respirer », estimant que le gouvernement a enfin « abandonné les erreurs depuis 2020 ».[^26]
+La même journée, le palais présidentiel réaffirme sa position : « la République de Chine est un État démocratique souverain indépendant ». Lin Chih-cheng publie trois mots sur Facebook : « Très approprié ». Il dit que cela lui permet de « reprendre un bon souffle », estimant que le gouvernement a enfin « abandonné les erreurs depuis 2020 ».[^26]
 
-Vingt‑sept ans auparavant, Lin Cho-shui avait ajouté « actuellement » devant le nom officiel. Vingt‑sept ans plus tard, il mesure toujours chaque déclaration du gouvernement à l’aune de cette précision.
+Vingt-sept ans plus tôt, Lin Chih-cheng avait ajouté deux mots, « actuellement », devant « République de Chine ». Vingt-sept ans plus tard, il mesure toujours l’exactitude de chaque déclaration du gouvernement avec ces deux mots.
 
-Les jeunes Taïwanais de vingt ans considèrent comme un sens commun que « Taïwan est déjà indépendant ». La résolution n’apparaît pas dans leurs manuels. Ils reçoivent une conclusion déjà empaquetée, tandis que les luttes, compromis et le combat autour de deux caractères restent écrasés par vingt‑sept ans d’histoire. Ils ignorent que ce sens commun provient d’une réunion du parti à Kaohsiung en 1999, d’un texte rédigé par trois personnes autour d’une même table, et d’un simple ajout de mot : « actuellement ». Le plus grand succès de la résolution est de ne plus nécessiter d’être rappelée.
+Les jeunes Taïwanais de vingt ans considèrent que « Taïwan a toujours été indépendante » comme une évidence. La Déclaration sur l'avenir de Taïwan n’apparaîtra pas dans leurs manuels scolaires. Ils reçoivent une conclusion déjà empaquetée, et les luttes, compromis et batailles sémantiques autour de deux mots ont été lissés par vingt-sept ans de temps. Ils ignorent que cette évidence provient d’une session des délégués à Kaohsiung en 1999, d’un débat entre trois personnes autour d’une même table, et d’un mot ajouté : « actuellement ». La plus grande réussite de la Déclaration sur l'avenir de Taïwan est de s’être rendue inutile d’être mémorée.
 
 ---
 
-## Références
+## Sources
 
-[^1]: [Lin Cho-shui, « Le secret de la résolution sur l’avenir de Taïwan »](https://talk.ltn.com.tw/article/paper/130246) — Liberty Times, 14 mai 2007, Lin se souvient que Chen Shui‑Bian, via You Xi‑kun, a poussé à modifier le programme d’indépendance.
+[^1]: [Lin Chih-cheng, « Le secret de la Déclaration sur l'avenir de Taïwan »](https://talk.ltn.com.tw/article/paper/130246) — Commentaire libre du Journal de l’information, 14 mai 2007, Lin Chih-cheng se souvient que Chen Shui-bian a poussé You Hsi-chuen à modifier le programme indépendantiste.
 
-[^2]: [Lin Cho-shui parle du processus de rédaction](https://newtalk.tw/news/view/2021-07-11/602408) — Newtalk, 11 juillet 2021, citation « ajout de « actuellement » ».
+[^2]: [Lin Chih-cheng parle du processus de rédaction de la Déclaration sur l'avenir de Taïwan](https://newtalk.tw/news/view/2021-07-11/602408) — Nouveau point de vue, 11 juillet 2021, texte original : « Ajouter les mots « actuellement » devant « République de Chine » a contrarié les partisans de la ligne dure de Chen. »
 
-[^3]: [Entretien de Lin Cho-shui (idem Newtalk 2021‑07‑11)](https://newtalk.tw/news/view/2021-07-11/602408) — Explication du raisonnement, mention de la possible fermeture des bureaux à l’étranger.
+[^3]: [Entretien avec Lin Chih-cheng (même source Newtalk 2021.7.11)](https://newtalk.tw/news/view/2021-07-11/602408) — Lin Chih-cheng explique pourquoi il a ajouté « actuellement », mentionnant que les bureaux de représentation à l’étranger pourraient être contraints de fermer.
 
-[^4]: [Programme du parti pour l’indépendance de Taïwan](https://zh.wikipedia.org/zh-tw/台獨黨綱) — Adopté le 13 oct. 1991 lors du premier congrès national du DPP.
+[^4]: [Programme indépendantiste](https://zh.wikipedia.org/zh-tw/台獨黨綱) — Adopté le 13 octobre 1991 lors de la cinquième assemblée nationale du Parti démocrate de progrès.
 
-[^5]: [Discours de Shih Ming‑te à Washington 1995](https://www.dpp.org.tw/media/contents/2286) — Archive du site du DPP, voir aussi le [Fonds culturel Shih Ming‑te](http://www.nori.org.tw/story/民進黨執政，不必也不會宣告台灣獨立。/) pour le document complet.
+[^5]: [Discours de Lee Teng-hui à Washington en 1995](https://www.dpp.org.tw/media/contents/2286) — Recueilli sur le site officiel du Parti démocrate de progrès, voir également [la Fondation culturelle de Lee Teng-hui](http://www.nori.org.tw/story/民進黨執政，不必也不會宣告台灣獨立。/) pour le texte complet.
 
-[^6]: [Shih Ming‑te, « l’indépendance à la mode de la République de Chine »](https://www.ettoday.net/news/20240115/2637003.htm) — ETtoday, 15 janv. 2024, première formulation en 1980.
+[^6]: [Lee Teng-hui, « L’indépendance de Taïwan dans le modèle de la République de Chine »](https://www.ettoday.net/news/20240115/2637003.htm) — ETtoday, 15 janvier 2024, Lee Teng-hui a introduit cette idée dès 1980.
 
-[^7]: [Élection présidentielle de la République de Chine 1996](https://zh.wikipedia.org/zh-tw/1996年中華民國總統選舉) — Peng Ming‑min / Hsieh Chang‑ting, 21,13 % des voix, plus grande défaite du parti.
+[^7]: [Élections présidentielles de la République de Chine en 1996](https://zh.wikipedia.org/zh-tw/1996年中華民國總統選舉) — Score de Peng Ching-kun/Hsieh Chang-ting : 21,13 %, score de Lee Teng-hui/Lien Chan : 54 %.
 
-[^8]: [Manifeste de la nouvelle génération du mouvement d’indépendance de Taïwan](https://zh.wikipedia.org/wiki/台灣獨立運動的新世代綱領) — 10 mai 1996, rédigé par Zhou Yicheng, plus de cent signataires.
+[^8]: [Nouveau programme de la nouvelle génération du mouvement indépendantiste de Taïwan](https://zh.wikipedia.org/wiki/台灣獨立運動的新世代綱領) — Rédigé par Chou I-chen le 10 mai 1996, plus de cent personnes ont signé.
 
-[^9]: [CRS Report 98‑837 : Taiwan – The “Three No’s”](https://www.everycrsreport.com/reports/98-837.html) — Rapport du Congressional Research Service, 1998, voir aussi le [Washington Post du 30 juin 1998](https://www.washingtonpost.com/archive/politics/1998/06/30/clinton-restates-three-noes-policy-on-taiwan/).
+[^9]: [Rapport CRS 98-837 : Taïwan : Les « trois non »](https://www.everycrsreport.com/reports/98-837.html) — Recherche du Congrès américain, 1998, voir également [le Washington Post du 30 juin 1998](https://www.washingtonpost.com/archive/politics/1998/06/30/clinton-restates-three-noes-policy-on-taiwan/) pour un enregistrement parallèle.
 
-[^10]: [Grand débat du DPP sur la politique chinoise 1998](https://zh.wikipedia.org/zh-tw/民主進步黨) — Débat à l’Université de Taiwan, 13‑15 févr. 1998, Hsu Hsin‑liang « avancée audacieuse vers l’ouest » vs Nouveau Courant « consolidation progressive ».
+[^10]: [Débat sur la politique chinoise du Parti démocrate de progrès](https://zh.wikipedia.org/zh-tw/民主進步黨) — Du 13 au 15 février 1998 à la faculté de droit de l’Université nationale de Taïwan, Hsu Hsin-liang défend « l’ouverture audacieuse » contre le courant nouveau avec « l’approche prudente », aboutissant à un compromis : « ouverture prudente ».
 
-[^11]: [Lin Cho-shui, « Le secret de la résolution sur l’avenir de Taïwan »](https://talk.ltn.com.tw/article/paper/130246) — Liberté Times, 14 mai 2007, proposition de compromis de Chen Chung-hsin.
+[^11]: [Lin Chih-cheng, « Le secret de la Déclaration sur l'avenir de Taïwan »](https://talk.ltn.com.tw/article/paper/130246) — Journal de l’information, 14 mai 2007, Chen Chung-hsin propose la solution de compromis de « ne pas modifier le programme indépendantiste, mais adopter la Déclaration sur l'avenir de Taïwan ».
 
-[^12]: [Entretien de Lin Cho-shui (idem Liberté Times 2007‑05‑14)](https://talk.ltn.com.tw/article/paper/130246) — Lin décrit son rôle pendant la rédaction.
+[^12]: [Entretien avec Lin Chih-cheng (même source Journal de l’information 2007.5.14)](https://talk.ltn.com.tw/article/paper/130246) — Lin Chih-cheng raconte le rôle qu’il a joué lors de la rédaction.
 
-[^13]: [Résolution sur l’avenir de Taïwan](https://zh.wikipedia.org/zh-tw/臺灣前途決議文) — Adoptée le 8 mai 1999, texte complet disponible via la [New Taiwan Peace Foundation](https://www.twpeace.org.tw/wordpress/?p=2727).
+[^13]: [Déclaration sur l'avenir de Taïwan](https://zh.wikipedia.org/zh-tw/臺灣前途決議文) — Adoptée le 8 mai 1999 lors de la deuxième session de la huitième assemblée nationale du Parti démocrate de progrès, le texte complet est disponible sur [la Fondation pour la paix de Taïwan](https://www.twpeace.org.tw/wordpress/?p=2727).
 
-[^14]: [Principe d’une Chine et la question taïwanaise (Livre blanc chinois 2000)](https://www.gwytb.gov.cn/zt/baipishu/202103/t20210321_12338499.htm) — Pékin qualifie la résolution de « indépendance déguisée ».
+[^14]: [Principe d’un seul Chine et question taïwanaise (document blanc de 2000)](https://www.gwytb.gov.cn/zt/baipishu/202103/t20210321_12338499.htm) — Pékin considère la Déclaration sur l'avenir de Taïwan comme « l’indépendance déguisée », document blanc publié en 2000.
 
-[^15]: [Élection présidentielle de la République de Chine 2000](https://zh.wikipedia.org/zh-tw/2000年中華民國總統選舉) — Chen Shui‑Bian / Lu Hsiu‑lian, 39,3 % des voix, première alternance.
+[^15]: [Élections présidentielles de la République de Chine en 2000](https://zh.wikipedia.org/zh-tw/2000年中華民國總統選舉) — Score de Chen Shui-bian/Lyu Shou-ting : 39,3 %, première rotation au pouvoir.
 
-[^16]: [« Quatre non et aucun »](https://zh.wikipedia.org/zh-tw/四不一沒有) — Promesses de Chen Shui‑Bian le 20 mai 2000, cinq engagements envers Washington et Pékin.
+[^16]: [Les cinq non, une absence](https://zh.wikipedia.org/zh-tw/四不一沒有) — Les cinq engagements annoncés par Chen Shui-bian lors de son discours d’investiture le 20 mai 2000.
 
-[^17]: [Resolution on Taiwan's Future](https://en.wikipedia.org/wiki/Resolution_on_Taiwan%27s_Future) — Adoptée le 20 oct. 2001, tentative de surclasser le programme d’indépendance.
+[^17]: [Déclaration sur l'avenir de Taïwan](https://en.wikipedia.org/wiki/Resolution_on_Taiwan%27s_Future) — Décision adoptée le 20 octobre 2001 par le Parti démocrate de progrès, élevant le statut juridique de la Déclaration sur l'avenir de Taïwan.
 
-[^18]: [Résolution d’État normal](https://www.dpp.org.tw/news/contents/15) — Adoptée le 30 sept. 2007, visait à renommer le pays « Taïwan », à rédiger une nouvelle constitution et à rejoindre l’ONU sous ce nom.
+[^18]: [Déclaration sur la normalisation de l’État](https://www.dpp.org.tw/news/contents/15) — Recueilli sur le site officiel du Parti démocrate de progrès, adoptée le 30 septembre 2007.
 
-[^19]: [Proposition de gel du programme d’indépendance](https://zh.wikipedia.org/zh-tw/台獨黨綱) — 2014, Kuo Cheng-liang et plus de 40 représentants signent, Tsai Ing‑wen envoie au Comité exécutif, pas de vote formel.
+[^19]: [Pétition pour le gel du programme indépendantiste](https://zh.wikipedia.org/zh-tw/台獨黨綱) — En 2014, Kuo Cheng-hsiung et plus de quarante députés signent une pétition, Tsai Ing-wen ordonne qu’elle soit soumise au comité central, sans vote formel.
 
-[^20]: [Wu Jun‑zhi : le programme d’indépendance « est un document historique »](https://udn.com/news/story/123307/7613012) — United Daily News, 25 févr. 2024, déclaration lors d’une conférence en ligne.
+[^20]: [Wu Chun-shuo : Le programme indépendantiste « est devenu un document historique »](https://udn.com/news/story/123307/7613012) — Chine post, 25 février 2024, discours de Wu Chun-shuo, directeur du département des affaires chinoises du Parti démocrate de progrès lors d’un séminaire en ligne sur les relations transdésertiques.
 
-[^21]: [Bonnie Glaser invite Lai Ching‑te à envisager le gel du programme d’indépendance – Zhuo Rong‑tai](https://www.cna.com.tw/news/aipl/202312010145.aspx) — CNA, 1 déc. 2023, réponse de Zhuo Rong‑tai en tant que responsable de campagne.
+[^21]: [Ko Tzu-hsiang appelle Lai Ching-te à envisager le gel du programme indépendantiste ; Ko Tzu-hsiang : « Ce qui compte, c’est que la Chine abandonne la guerre »](https://www.cna.com.tw/news/aipl/202312010145.aspx) — Agence centrale de presse, 1er décembre 2023, Ko Tzu-hsiang répond aux suggestions d’un spécialiste américain en tant que secrétaire général de la campagne électorale de Lai Ching-te.
 
-[^22]: [Kuo Cheng-liang](https://zh.wikipedia.org/zh-tw/郭正亮) — Annonce le 19 mai 2023 son départ du DPP, devenu commentateur politique.
+[^22]: [Kuo Cheng-hsiung](https://zh.wikipedia.org/zh-tw/郭正亮) — A annoncé sa sortie du Parti démocrate de progrès le 19 mai 2023, et est désormais commentateur politique.
 
-[^23]: [Lin Cho-shui](https://zh.wikipedia.org/zh-tw/林濁水) — Démissionne du législature le 13 nov. 2006 suite à l’affaire de corruption de Chen Shui‑Bian.
+[^23]: [Lin Chih-cheng](https://zh.wikipedia.org/zh-tw/林濁水) — A démissionné de l’assemblée le 13 novembre 2006 à cause de l’affaire des frais officiels de Chen Shui-bian et de Li Wen-chung.
 
-[^24]: [Lai Ching‑te définit les deux sens de l’indépendance](https://www.ettoday.net/news/20260517/3167412.htm) — ETtoday, 17 mai 2026, discours en réponse à la pression post‑Biden‑Xi.
+[^24]: [Lai Ching-te définit les deux significations majeures de l’indépendance](https://www.ettoday.net/news/20260517/3167412.htm) — ETtoday, 17 mai 2026, discours de Lai Ching-te face à la pression internationale après la réunion de Trump et Xi Jinping.
 
-[^25]: [Shen Bo‑yang répond à Jiang Wan‑an](https://news.ltn.com.tw/news/politics/breakingnews/5440164) — Liberty Times, 17 mai 2026, réplique du législateur du DPP.
+[^25]: [Shen Poy-hsiang répond à Ma Ying-jeou](https://news.ltn.com.tw/news/politics/breakingnews/5440164) — Journal de l’information, 17 mai 2026, réponse du député du Parti démocrate de progrès à la critique de l’opposition nationaleiste.
 
-[^26]: [Lin Cho-shui commente la déclaration gouvernementale « Très approprié »](https://news.tvbs.com.tw/politics/3206164) — TVBS, 17 mai 2026, il estime que le gouvernement a enfin abandonné les erreurs depuis 2020.
+[^26]: [Lin Chih-cheng commente la déclaration du gouvernement : « Très approprié »](https://news.tvbs.com.tw/politics/3206164) — TVBS, 17 mai 2026, Lin Chih-cheng estime que le gouvernement a enfin « abandonné les erreurs depuis 2020 ».
 
-[^27]: [Texte complet de la résolution sur l’avenir de Taïwan](https://www.twpeace.org.tw/wordpress/?p=2727) — New Taiwan Peace Foundation, préface et sept points originaux.
+[^27]: [Texte complet de la Déclaration sur l'avenir de Taïwan](https://www.twpeace.org.tw/wordpress/?p=2727) — Fondation pour la paix de Taïwan, inclut l’introduction et les sept principes.
 
-[^28]: [Discours de Tsai Ing‑wen « Quatre engagements »](https://www.president.gov.tw/News/26253) — Site officiel de la présidence, 10 oct. 2021.
+[^28]: [Discours de Tsai Ing-wen à l’occasion de la fête nationale : « Les quatre principes »](https://www.president.gov.tw/News/26253) — Site officiel du palais présidentiel, 10 octobre 2021, texte original : « Nous devons défendre le système constitutionnel démocratique et libre, la République de Chine et la République populaire de Chine sont séparées, la souveraineté ne peut être violée ni annexée, et l’avenir de la République de Chine à Taïwan doit suivre la volonté de l’ensemble des personnes de Taïwan. »
 
-[^29]: [Lai Ching‑te parle de la résolution avant les élections 2024](https://www.president.gov.tw/News/28428) — Site officiel de la présidence, avec reportage supplémentaire de CNA.
+[^29]: [Lai Ching-te parle de la Déclaration sur l'avenir de Taïwan avant les élections](https://www.president.gov.tw/News/28428) — Recueilli sur le site officiel du palais présidentiel, voir également les articles pertinents du journal Chine post.
 
-## Lectures complémentaires
+## Lecture complémentaire
 
-- [Démocratisation de Taïwan](/fr/history/taiwan-democratization) — Du martial law à la démocratie, le contexte plus large de la résolution.
-- [Élections et politique partisane à Taïwan](/fr/history/taiwan-elections-and-party-politics) — Comment la transformation du DPP a influencé la politique électorale.
-- [Affaire Beautiful Island](/fr/history/kaohsiung-incident-formosa-incident) — Le point de départ de Shih Ming‑te, comprendre le mouvement d’opposition.
-- [Crises du détroit et évolution des relations cross‑strait](/fr/history/taiwan-strait-crises-and-cross-strait-relations) — Comment la crise de 1996 a accéléré la pragmatisation du DPP.
+- [Transition démocratique de Taïwan](/fr/history/taiwan-democratization) — Du maintien de l’état d’urgence à la démocratisation, le contexte plus large de l’adoption de la Déclaration sur l'avenir de Taïwan
+- [Élections et partis politiques à Taïwan](/fr/history/taiwan-elections-and-party-politics) — Comment le tournant de ligne du Parti démocrate de progrès a influencé la politique électorale à Taïwan
+- [Événement de la beauté de Taïwan](/fr/history/kaohsiung-incident-formosa-incident) — Le point de départ des vingt-cinq ans de prison politique de Lee Teng-hui, pour comprendre l’histoire de l’opposition
+- [Crise transdésertique et évolution des relations transdésertiques](/fr/history/taiwan-strait-crises-and-cross-strait-relations) — Comment la crise de 1996 a accéléré la prise de conscience du Parti démocrate de progrès
