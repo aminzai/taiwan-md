@@ -1,17 +1,17 @@
 ---
-title: 'Feiertag bei Taifun: Wessen Urlaub, wessen Arbeit?'
-description: 'Der Tod einer Lehrerin in Changhua im Jahr 2001 führte zur Einführung des Taifun-Urlaubs in Taiwan. Über zwei Jahrzehnte später arbeiten noch immer 81 % der Arbeiter bei Sturm und Regen, während 37,7 % kein Gehalt erhalten. Jeden Sommer teilt eine Schließungsmitteilung die Gesellschaft Taiwans entlang von Klassengrenzen auf – Büroangestellte scrollen zu Hause durch ihr Handy, während Arbeiter aus dem Großhandel, Handel und Landwirtschaft im selben Taifun unterwegs sind.'
+title: 'Typhontage: Wessen frei, wessen Dienst'
+description: 'Der Tod einer Lehrerin in Changhua 2001 löste Taiwans Typhontag-Regelung aus. Über zwanzig Jahre später müssen 81 % der Arbeitnehmer bei Taifunen dennoch zur Arbeit, 37,7 % erhalten überhaupt kein Gehalt. Jeden Sommer schneidet eine einzige behördliche Arbeitsunterbrechungs-Ankündigung präzise entlang der Klassenlinien der taiwanesischen Gesellschaft: Büroangestellte scrollen zu Hause auf ihren Handys, während Arbeiter im Groß- und Einzelhandel, in Landwirtschaft, Fischerei und Viehzucht bei demselben Taifun weiter zur Arbeit müssen.'
 date: 2026-05-09
 category: 'Society'
 tags:
   [
-    'Taifunurlaub',
+    'Typhontage',
     'Arbeitsrechte',
     'Katastrophenschutz',
-    'TaiwanKlima',
-    'Gesellschaftsthemen',
-    'Gastarbeiter',
-    'Taifun',
+    'Taiwans Klima',
+    'Gesellschaftliche Themen',
+    'ausländische Wanderarbeiter',
+    'Taifune',
   ]
 subcategory: '社會制度'
 author: 'Taiwan.md'
@@ -21,201 +21,201 @@ featured: false
 lastVerified: 2026-05-09
 lastHumanReview: false
 translatedFrom: 'Society/颱風假.md'
-sourceCommitSha: '9bddcff65'
-sourceContentHash: 'sha256:d909a68892279cea'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:a1f455d597d80f3d'
 sourceBodyHash: 'sha256:8d3f66b5c4593a14'
-translatedAt: '2026-09-25T04:57:31+08:00'
+translatedAt: '2026-10-11T00:56:55+08:00'
 ---
 
-# Feiertag bei Taifun: Wessen Urlaub, wessen Arbeit?
+# Typhontage: Wessen frei, wessen Dienst
 
-> **30-Sekunden-Zusammenfassung:** Die Lehrerin Hsu Bi-lan (許碧蘭) von der Qingshan Grundschule in Changhua starb am Taifuntag im Jahr 2001 und erschütterte die taiwanesische Gesellschaft und zwang die Regierung zur Etablierung eines klareren Taifun-Urlaubsregimes. Doch über zwei Jahrzehnte später ergab eine Umfrage von yes123 unter 1.330 Arbeitnehmern, dass 81 % an Taifuntagen normal gearbeitet hatten, und die Zahlen der Human Resources Bank zeigten, dass 37,7 % überhaupt kein Gehalt erhielten. Jeden Sommer trennt das Ankündigen einer Schließung durch den Bezirks- oder Stadtrat eine tiefere Frage: Dieser Urlaub war nie für alle bestimmt.
+> **30-Sekunden-Überblick:** Der Tod der Lehrerin Xu Bilan an der Qingshan-Grundschule im Landkreis Changhua an einem Taifuntag 2001 erschütterte die taiwanesische Gesellschaft und veranlasste die Regierung, klarere Regeln für Typhontage zu schaffen. Doch über zwanzig Jahre später zeigte eine Umfrage von yes123 unter 1.330 Arbeitnehmern, dass 81 % an Taifuntagen regulär zur Arbeit erschienen, und Zahlen der 1111 Job Bank belegen, dass 37,7 % dafür gar kein Gehalt erhielten. Jeden Sommer, in dem Moment, in dem Landkreisbürgermeister und Bürgermeister von regierungsunmittelbaren Städten die Arbeitsunterbrechung verkünden, verdeckt dieses Papier ein tieferes Problem: Dieser freie Tag war nie jedermanns freier Tag.
 
-## Der Graben, den die Lehrerin nicht überqueren konnte
+## Die Lehrerin, die jenen Entwässerungsgraben nicht überquerte
 
-Als Taifun Taozhi (桃芝) eintraf, Ende Juli 2001, befand sich die Lehrerin Hsu Bi-lan in der Qingshan Grundschule in Changhua. [^1]
+An dem Tag, als Taifun Toraji kam, Ende Juli 2001, war Lehrerin Xu Bilan an der Qingshan-Grundschule im Landkreis Changhua.[^1]
 
-Der mäßige Taifun „Taozhi“ landete in Hualien und zog nach Westen vor. Der Regen in Changhua war sehr stark. Während sie Schüler schützen wollte, fiel Hsu Bi-lan während einer Bewegung auf dem Schulgelände in einen Graben und wurde vom starken Hochwasser weggespült.
+Der mittlere Taifun „Toraji“ machte in Hualien Landfall und zog westwärts; im Landkreis Changhua regnete es stark. Um die Sicherheit der Schüler zu schützen, bewegte sich Xu Bilan auf dem Campus, stürzte dabei versehentlich in einen Entwässerungsgraben und wurde von den reißenden Fluten weggespült.
 
-Sie starb. Der damalige Präsident Chen Shui-bian (陳水扁) besuchte den Trauerort. Dieser Unfall erschütterte die taiwanesische Gesellschaft und zwang die Regierung, sich mit der Frage auseinanderzusetzen: Soll an Taifuntagen frei genommen werden? Was ist der Standard dafür? Wer entscheidet?
+Sie starb im Dienst. Der damalige Präsident Chen Shui-bian begab sich persönlich zur Aufbahrung, um zu kondolieren. Dieser Unfall erschütterte die taiwanesische Gesellschaft und zwang die Regierung, sich der Frage zu stellen: Soll an Taifuntagen arbeitsfrei sein, was sind die Kriterien, und wer entscheidet?
 
-Doch bevor diese Fragen gestellt wurden, gab es bereits eine gesetzliche Antwort in Taiwan. Bereits im **Juli 1974** erließ das Ministerium für Personalwesen die „Richtlinien zur Einstellung von Büro- und Unterrichtsbetrieb bei Naturkatastrophen“. Die Vorschrift existierte bereits, wurde aber nicht ernst genommen, bis eine Lehrerin einen Graben nicht überqueren konnte. [^2]
-
----
-
-## Die Entscheidung zur Schließung: Ein Glücksspiel der Bezirks- und Stadträte
-
-Nach dem Hsu Bi-lan-Vorfall entwickelte die Regierung schrittweise klarere Entscheidungsstandards. Am **22. Januar 2013** erweiterte das Ministerium für Personalwesen die alte Richtlinie zum „Verfahren zur Einstellung von Büro- und Unterrichtsbetrieb bei Naturkatastrophen“ und integrierte den Taifunurlaub in einen einheitlichen Rahmen verschiedener Naturkatastrophen. [^3]
-
-Die aktuellen Schwellenwerte sind zweigeteilt: Windgeschwindigkeiten über Stufe 7 oder Sturmböen über Stufe 10; oder Niederschläge von über 200 mm in Bergregionen innerhalb von 24 Stunden, bzw. über 350 mm auf Ebenen. Aber die eigentlichen Entscheider sind nicht die Zentralregierung, sondern die Bezirks- und Stadträte der jeweiligen Region.
-
-Dieses Design entwickelte bei der praktischen Anwendung unerwartete Formen an.
-
-Eine quantitative politische Studie zu 35 Taifunereignissen zwischen 2005 und 2015 setzte Taifun-Daten und Wahlergebnisse in ein Regressionsmodell ein, kontrollierte Arbeitslosenquote, Kriminalitätsrate, Bildungsniveau und Bevölkerungsstruktur und kam zu folgendem Schluss: Für jeden zusätzliche Tag Taifunurlaub stieg die durchschnittliche Wiederwahlstimmenzahl um **2 %**. [^4]
-
-Die Politik ist das, was der Wähler sofort spürt. Der Taifunurlaub ist ein seltenes Thema in Taiwan, bei dem alle gleichzeitig die politische Wirkung erleben – wenn er richtig genommen wird, sind alle erleichtert; wenn er falsch genommen wird, sind alle unzufrieden. Die Studie fand jedoch auch heraus, dass falsche Entscheidungen (falsche oder unnötige Taifunschließung) keine signifikante Wahlstrafe für die Amtsinhaber darstellten. Was sagt das aus? Es zeigt, dass Wähler auf „richtig genommen“ achten und nicht auf „Rechenschaftspflicht“. Daher ist die optimale Strategie der Politiker: Abwarten, bis benachbarte Städte eine Entscheidung getroffen haben.
-
-Dieses Spiel erreichte während des Taifuns Kaimi (凱米) im Jahr 2024 einen Höhepunkt – es wurde das erste Mal seit 2001 ein ganzer Insel-Taifunurlaub für zwei aufeinanderfolgende Tage vergeben. Yilan County hatte aufgrund seiner Lage und Topographie die meisten Taifunruhentage mit **47 Tagen**; Miaoli County hatte die wenigsten auf dem Festland, nur **31 Tage**. [^5]
+Doch bevor man fragt „wer entscheidet“, hatte Taiwan bereits eine gesetzliche Antwort. Schon im **Juli 1974** erließ das Personalamts der Exekutive die „Ausführungsrichtlinien für die Einstellung von Amtsgeschäften und Unterricht bei Naturkatastrophen“. Die Vorschrift existierte bereits, nur wurde sie nicht ernst genommen – bis eine Lehrerin jenen Entwässerungsgraben nicht überqueren konnte.[^2]
 
 ---
 
-## Aber diese Mathematik sieht keinen Menschen
+## Die Entscheidung über Arbeitsunterbrechung: Landkreisbürgermeister wetten jedes Mal
 
-Die Umfrage von yes123 bei 1.330 Arbeitnehmern ergab: 81 % arbeiteten an Taifuntagen normal weiter; darunter waren **65 % auf Anweisung des Vorgesetzten**. [^6]
+Nach dem Vorfall um Xu Bilan baute die Regierung schrittweise klarere Entscheidungsstandards auf. **Am 22. Januar 2013** benannte die Exekutive die alten Richtlinien in „Verwaltungsvorschriften für die Einstellung von Arbeit und Unterricht bei Naturkatastrophen“ um und integrierte Typhontage in einen einheitlichen Rahmen für alle Naturkatastrophen.[^3]
 
-Die Version der Human Resources Bank war detaillierter: 76 % der Arbeiter gingen an Taifuntagen zur Arbeit, von denen 53,5 % das volle Gehalt erhielten, aber **37,7 % bekamen überhaupt kein Gehalt**. 43,1 % hatten keine Schutzmaßnahmen, und 12,2 % erhielten nur mündliche Anerkennung. [^7]
+Die aktuellen Auslösekriterien bestehen aus zwei Gruppen: Windstärke ab Stufe 7 oder Böen ab Stufe 10; oder 24-Stunden-Niederschlag über 200 mm in Berggebieten, über 350 mm im Flachland. Doch wer die Entscheidung tatsächlich trifft, sind die Bürgermeister der regierungsunmittelbaren Städte und Landkreise – nicht die Zentralregierung.
 
-Diese beiden Umfragen beschreiben den Alltag des Taifunurlaubs in Taiwan. Im Moment der Schließungsankündigung durch den Bezirks- oder Stadtrat gingen über ein Drittel der Arbeiter bei Sturm zur Arbeit und bekamen keine zusätzliche Entschädigung.
+Dieses Design entwickelte in der Praxis eine unerwartete Form.
 
-Die fünf Branchen mit dem höchsten Anwesenheitsgrad: Großhandel/PR **90 %**, Großhandel/Einzelhandel **88,6 %**, Gesundheitswesen/Technik **86,7 %**, Gastgewerbe **85,7 %**, Landwirtschaft/Fischerei **83,3 %**. Diese Liste ist fast ein Katalog der Arbeiterklasse und des Dienstleistungssektors in Taiwan. [^8]
+Landkreisbürgermeister wetten bei jeder Ankündigung. Eine politikwissenschaftliche Quantitative Studie zu 35 Taifunereignissen zwischen 2005 und 2015 führte Taifundaten und Wahlergebnisse in ein Regressionsmodell ein, kontrollierte Arbeitslosenquote, Kriminalitätsrate, Bildungsniveau und Bevölkerungsstruktur und kam zu folgendem Schluss: Jeder zusätzliche richtig angesagte Typhontag erhöhte die Wiederwahl-Stimmenquote im Durchschnitt um **2 %**.[^4]
 
-> **📝 Notiz des Kurators**
+Eine politische Entscheidung, die Wähler sofort spüren lassen, ist Politik. Typhontage sind eines der wenigen Themen in Taiwan, bei denen alle gleichzeitig die Wirkung einer Politik erleben – richtig angesagt atmen alle auf, falsch angesagt sind alle verärgert. Die Studie fand jedoch gleichzeitig, dass Fehlentscheidungen (falsche Ansage oder unterlassene Ansage) für Amtsinhaber keine signifikante Wahlstrafe nach sich ziehen. Was bedeutet das? Es bedeutet, Wähler schauen auf „richtig ansagen“, nicht auf „Verantwortung“. Die Optimalkandidaten-Strategie für Politiker lautet daher: warten, bis benachbarte Landkreise zuerst ansagen.
+
+Dieses Spiel erreichte während des Taifuns Gaemi 2024 eine Art Höhepunkt – erstmals seit 2001 gab es zwei aufeinanderfolgende Tage landesweit synchroner Arbeitsunterbrechung. Der Landkreis Yilan wies aufgrund von Lage und Topografie historisch die meisten kumulierten Typhontage auf, **47 Tage**; der Landkreis Miaoli auf der Hauptinsel die wenigsten, lediglich **31 Tage**.[^5]
+
+---
+
+## Doch diese Rechnung blendet einen Menschen komplett aus
+
+yes123 befragte 1.330 Arbeitnehmer: 81 % waren an Taifuntagen regulär zur Arbeit erschienen, davon **65 % auf Anweisung des Vorgesetzten**.[^6]
+
+Die 1111 Job Bank liefert konkretere Zahlen: 76 % der Arbeitnehmer waren an Taifuntagen anwesend, davon erhielten 53,5 % volles Gehalt, **37,7 % gar kein Gehalt**. 43,1 % hatten keinerlei Schutzmaßnahmen, 12,2 % erhielten nur mündliche Anerkennung.[^7]
+
+Diese beiden Umfragen beschreiben den Alltag taiwanesischer Typhontage. In dem Moment, in dem Landkreisbürgermeister die Arbeitsunterbrechung verkünden, gehen über ein Drittel der Arbeitnehmer in den Taifun hinaus – ohne einen Cent zusätzlicher Entschädigung.
+
+Die fünf Branchen mit höchsten Anwesenheitsquoten: Großwerbung/PR **90 %**, Groß- und Einzelhandel **88,6 %**, Medizin/Biotech **86,7 %**, Gastronomie/Beherbergung **85,7 %**, Land-/Forstwirtschaft/Fischerei/Viehzucht **83,3 %**. Diese Liste ist praktisch das Verzeichnis von Taiwans Blue-Collar-Arbeitern und grundlegenden Dienstleistungsbranchen.[^8]
+
+> **📝 Kuratorennotiz**
 >
-> Die gängige Erzählung lautet: „Der Taifunurlaub lässt die Menschen in Taiwan zu Hause ruhen.“ Diese Erzählung teilt entlang einer Klassengrenze auf: Büromitarbeiter warten zu Hause auf die Ankündigung, während Arbeiter aus dem Großhandel, Handel und Landwirtschaft im selben Taifun unterwegs sind. Das System ist nicht fehlerhaft, aber seine Annahme lautet: Diejenigen, die „frei haben“, verfügen über ein Büro, das sie nicht aufsuchen können. Die Menschen in Großhandelsständen, Fischfarmen oder Restaurants waren nie in dieser Annahme enthalten.
+> Die gängige Erzählung lautet: „Typhontage lassen Taiwaner zu Hause ausruhen.“ Diese Erzählung schneidet präzise entlang einer Klassenlinie: Büroangestellte warten zu Hause auf die Arbeitsunterbrechungs-Nachricht, während Arbeiter im Groß- und Einzelhandel, in Land-/Forstwirtschaft/Fischerei/Viehzucht und Gastronomie bei demselben Taifun weiter zur Arbeit müssen. Das Systemdesign ist nicht falsch, aber seine Annahme lautet: „Freie“ Menschen haben Büros, in die sie nicht gehen müssen. Menschen in Großhandelsständen, Fischteichen, Restaurants – sie waren nie in dieser Annahme enthalten.
 
 ---
 
-## Gastarbeiter: Die unsichtbare Schicht im System
+## Wanderarbeiter sind die unsichtbarste Schicht in der Struktur
 
-Fast **800.000 ausländische Arbeitskräfte** in Taiwan sind hauptsächlich in der Fertigungs-, Bau- und Landwirtschaft tätig – genau die Sektoren mit dem höchsten Anwesenheitsgrad an Taifuntagen. [^9]
+Taiwans nearly **800.000 ausländische Wanderarbeiter** konzentrieren sichmostly auf verarbeitendes Gewerbe, Bauwesen und Land-/Forstwirtschaft/Fischerei/Viehzucht – genau jene Branchen also, die an Taifuntagen die höchsten Anwesenheitsquoten aufweisen.[^9]
 
-Ihre Situation ist komplizierter als die Daten zeigen. Die meisten Gastarbeiter arbeiten auf Monatsbasis, sodass eine Lohnkürzung bei Schließung direkt den Betrag beeinflusst, der jeden Monat in ihr Heimatland geschickt wird. Hinzu kommen Sprach- und regulatorische Hürden; es ist nahezu unmöglich, aktiv das „Recht auf Rückzug“ geltend zu machen oder Taifunzulagen zu beantragen. Das steht noch nicht im Raum, da ihre Arbeit fast immer vor Ort stattfindet – es gibt keine Option für Homeoffice. Was grundlegender ist: Die Taifunentscheidung wird auf lokaler Ebene getroffen, und die Gastarbeiter erhalten manchmal nicht einmal eine Benachrichtigung.
+Ihre Situation ist komplexer als die Daten zeigen. Die meisten Wanderarbeiter werden monatlich bezahlt; wird bei Arbeitsunterbrechung der Lohn gekürzt, trifft das direkt den Betrag, den sie monatlich in die Heimat überweisen. Hinzu kommen Sprach- und Rechtshürden: das „Rückzugsrecht“ aktiv geltend zu machen oder Taifuntags-Zuschüsse zu beantragen, ist praktisch unmöglich. Nicht eingerechnet ist, dass ihre Arbeit fast ausschließlich Vor-Ort-Präsenz erfordert – Homeoffice existiert nicht. Noch grundlegender: Die Typhontag-Entscheidung wird auf lokaler Ebene getroffen; Wanderarbeiter erhalten manchmal nicht einmal die Benachrichtigung.
 
-Die Vorschriften des Arbeitsministeriums schreiben klar: Bei Taifuntagen „sollte das Gehalt nicht gekürzt werden, es darf auch nicht als unentschuldigtes Fehlen gewertet und keine nachteiligen Maßnahmen wie der Abzug von Vollanwesenheitsprämien ergriffen werden“, wobei Verstöße mit Geldstrafen von 20.000 bis 1 Million NTD bestraft werden. Aber das Wort „sollte“ ist ein Vorschlag, keine Zwangsvorschrift. Die Durchsetzungskraft ist begrenzt. [^10]
+Das Arbeitsministerium schreibt schwarz auf weiß in seinen Vorschriften: An Taifuntagen Erscheinen „sollte nicht mit Lohnkürzung geahndet werden, auch nicht als Fehlzeit gewertet werden und nicht mit Kürzung von Vollanwesenheitsprämien oder anderen nachteiligen Maßnahmen belegt werden“, Verstöße werden mit Geldstrafen von NT$20.000 bis NT$1.000.000 geahndet. Aber das „sollte“ ist eine Empfehlung, keine Verpflichtung. Die Durchsetzungskraft ist begrenzt.[^10]
 
-96 % der Arbeiter befürworteten die Verabschiedung des Taifunurlaubs als bezahlter Urlaub; 64 % der Unternehmen stimmten ebenfalls zu. Der Fortschritt bei der Gesetzesänderung ist jedoch sehr langsam, da „die mögliche Beeinträchtigung notwendiger Dienste“ ein universeller administrativer Vorwand ist.
+96 % der Arbeitnehmer unterstützen die gesetzliche Verankerung von Typhontagen als bezahlte Freitage, darunter 64 % der Unternehmen. Doch der Gesetzesfortschritt ist extrem langsam, weil „könnte notwendige Dienste schwer beeinträchtigen“ der universelle Verwaltungsgrund für Verzögerung ist.
 
-> **✦** „Für jeden zusätzlichen Tag steigt die Wiederwahlstimmenzahl um 2 %.“ Diese Erkenntnis beschreibt präzise die politische Grammatik des Taifunurlaubs, sagt aber nicht: Wurden die 81 %, die normal gearbeitet haben, in ihre Stimmen einbezogen?
-
----
-
-## Wie viel geht pro Tag verloren? Unterschiedliche Algorithmen, unterschiedliche Antworten
-
-Vor und nach jedem Taifun bezieht die Presse regelmäßig die Zahl „31 bis 31,5 Milliarden NTD Verlust pro Tag“ heran. Woher kommt diese Zahl?
-
-Die Berechnungsgrundlage ist im Wesentlichen: Basierend auf dem BIP von Taiwan im Jahr 2023 (23 Billionen NTD) geteilt durch 365 Tage ergibt sich ein Tageswert von etwa 63 Milliarden. Davon wird der Teil abgezogen, an dem die Produktion weiterläuft (kontinuierlicher Betrieb von Halbleiterfabriken, einige Binnennachfrage), was zu einem Nettoverlust von etwa 31,5 Milliarden führt. [^11]
-
-Der erfahrene Medienmann Huang Yang-ming berechnete es aus der Exportperspektive neu: Der gesamte Export im Jahr 2023 betrug über 430 Milliarden USD, was täglich über 1 Milliarde USD entspricht; nur dieser Posten allein beträgt über 31 Milliarden NTD. Die beiden Algorithmen kommen zu ähnlichen Zahlen, aber mit gegensätzlicher Aussage – der eine soll „nicht leichtfertig Urlaub nehmen“, der andere soll „ein Urlaub hat hohe Kosten“. [^12]
-
-Das Problem der Mathematik liegt nicht in der Zahl selbst, sondern in der fehlenden Spalte: Wurde der menschliche Preis derjenigen berücksichtigt, die an Taifuntagen gearbeitet haben? Zählt der Graben von Hsu Bi-lan im Jahr 2001 zu den 31,5 Milliarden?
+> **✦** „Jeder zusätzliche richtig angesagte Tag erhöht die Wiederwahl-Stimmenquote um 2 %.“ Dieser Befund beschreibt präzise die politische Grammatik der Typhontage, verschweigt aber: Sind die Stimmen jener 81 %, die regulär erschienen, darin eingerechnet?
 
 ---
 
-## Die Geschichte des Taifunurlaubs ist eine Lektion über Menschenleben
+## Wie viel Verlust pro Tag? Andere Rechnung, andere Antwort
 
-Die vollständige Statistik des Taifunurlaubs in Taiwan erzählt eine andere Geschichte.
+Vor und nach jedem Typhontag zitieren Medien routinemäßig die Zahl „ein Tag Verlust NT$31 bis 31,5 Milliarden“. Woher kommt diese Zahl?
 
-Seit 2001 gab es nur **14 Fälle** eines gleichzeitigen Insel-Taifunurlaubs (Stand Juli 2024). Der längste zusammenhängende Urlaub war der Taifun Morakot (2009) mit drei aufeinanderfolgenden Tagen in 10 Bezirken. Taifunruhe fand oft an Wochentagen statt und nicht wie verbreitet online „mehr Tage am Wochenende“. [^13]
+Die Rechenlogik ist im Wesentlichen: Basierend auf dem BIP 2023 von NT$23 Billionen, geteilt durch 365 Tage, ergibt sich ein täglicher Produktionswert von ca. NT$63 Milliarden; davon abgezogen wird der Teil, der an Taifuntagen weiterläuft (Halbleiterfabriken im Dauerbetrieb, Teil des Binnenkonsums), verbleibt ein Nettoverlust von ca. NT$31,5 Milliarden.[^11]
 
-| Aufzeichnung                                    | Zahl                  | Beschreibung                      |
-| :---------------------------------------------- | :-------------------- | :-------------------------------- |
-| Anzahl der Insel-Taifunurlaube                  | 14 Mal                | Von 2001 bis Juli 2024            |
-| Längster zusammenhängender Urlaub               | 3 Tage                | Taifun Morakot, 10 Bezirke        |
-| Erster Fall von zwei Tagen auf der ganzen Insel | Jahr 2024             | Taifun Kaimi                      |
-| Bezirk mit den meisten Ruhetagen                | Yilan County 47 Tage  | Aufgrund von Topographie und Lage |
-| Bezirk mit den wenigsten Ruhetagen (Festland)   | Miaoli County 31 Tage | Geografische Barrierewirkung      |
+Der erfahrene Medienmann Huang Yang-ming rechnete vom Export her neu: 2023 belief sich der gesamte Jahresexport auf über 430 Milliarden US-Dollar, der tägliche Export auf über 1 Milliarde US-Dollar – allein dieser Posten übersteigt bereits NT$31 Milliarden. Zwei Rechenwege liefern ähnliche Zahlen, aber entgegengesetzte Standpunkte – der erste soll sagen „nicht leichtfertig freigeben“, der zweite „ein Freigabetag kostet viel“.[^12]
 
-Die Koordination zwischen Bezirken ist bis heute nicht gelöst. Die Verwaltungsgrenzen passen nicht zu den Pendlerkreisen; die Schließungsstandards für Wohnort, Arbeitsplatz und Schulort können alle unterschiedlich sein. Szenarien wie „die Eltern müssen arbeiten, während die Kinder zu Hause frei haben“ führen regelmäßig in sozialen Medien zu Diskussionen. Versuche der Bezirke zur regionalen Verteidigung scheiterten an Taifunbahnen und Topographie, was eine Synchronisation nahezu unmöglich machte. [^14]
-
-Das System funktioniert entlang der Verwaltungsgrenzen des 20. Jahrhunderts; aber der Taifun folgt keinen Verwaltungsgrenzen.
+Das Problem dieser Arithmetik liegt nicht in den Zahlen selbst, sondern in der fehlenden Spalte: Wurde der menschliche Preis derer eingerechnet, die an Taifuntagen arbeiten? Zählt der Entwässerungsgraben von Lehrerin Xu Bilan 2001 zu jenen NT$31,5 Milliarden?
 
 ---
 
-## Die Wunden der Landwirtschaft: Der Taifun ignoriert keine Bezirksgrenzen, aber die Verluste werden nach Bezirk berechnet
+## Die Geschichte der Typhontage ist eine Lehre aus Menschenleben
 
-Die Diskussion über den Taifunurlaub konzentriert sich auf Büroangestellte in Städten, doch diejenigen, die jedes Jahr am direktesten vom Taifun getroffen werden, sind die Landwirte.
+Die vollständige Statistik der taiwanesischen Typhontage erzählt eine weitere Geschichte.
 
-Laut Statistik des Landwirtschaftsministeriums beliefen sich die gesamten landwirtschaftlichen Schäden in Taiwan im Jahr 2023 auf **24,276 Milliarden NTD**, von denen der Taifun für **77,16 %** (etwa 18,7 Milliarden) verantwortlich war; 2024 war noch extremer: Die gesamten landwirtschaftlichen Schäden beliefen sich auf **52,651 Milliarden**, wobei der Taifun für **98,88 %** zuständig war, fast ausschließlich verursacht durch die drei Taifune (Kaimi, Santuare, Kangrui). [^13a]
+Seit 2001 gab es landesweit synchronisierte Typhontage nur **14 Mal** (Stand Juli 2024). Die längste zusammenhängende Freigabe war bei Taifun Morakot (2009), 10 Landkreise/Städte für 3 Tage hintereinander. Typhontage fallen meist auf Werktage, nicht – wie im Netz kursiert – auf Wochenenden.[^13]
 
-Im Jahr 2025 verursachte Taifun Danas (丹娜絲) landwirtschaftliche Schäden in Höhe von **2,5 Milliarden NTD**: Tainan war am stärksten betroffen (929 Millionen), mit einem Verlust von 229 Millionen an Bananen; 445.000 Hühner starben, und **2.454 Strommasten wurden beschädigt**, was einen Rekord brach. [^13b]
+| Rekord                                         | Zahl           | Erklärung                            |
+| ---------------------------------------------- | -------------- | ------------------------------------ |
+| Landesweit synchrone Freigaben                 | 14 Mal         | 2001 bis Juli 2024                   |
+| Längste zusammenhängende Freigabe              | 3 Tage         | Taifun Morakot, 10 Landkreise/Städte |
+| Erstes landesweites Zwei-Tage-Hintereinander   | 2024           | Taifun Gaemi                         |
+| Meist freigegebener Landkreis                  | Yilan 47 Tage  | Durch Lage und Topografie bedingt    |
+| Wenigsten freigegebener Landkreis (Hauptinsel) | Miaoli 31 Tage | Geografischer Schutzeffekt           |
 
-Bananen, Papayas, Zitrusfrüchte und Bambussprossen sind die festen Opfer jedes Taifuns. Pingtung, Chiayi, Yunlin und Tainan sind die wiederkehrenden betroffenen Karten. Die Bauern dieser Bezirke wussten das Schicksal schon vor der Ankündigung des Taifunurlaubs. Im selben Moment, in dem die Schließungsmitteilung herausgegeben wurde, banden sie Bananenstämme mit landwirtschaftlichem Klebeband fest, zogen Osterschneckenkörbe an Land oder standen einfach auf den Feldrändern und warteten.
+Das Koordinationsdilemma über Landkreisgrenzen hinweg ist bis heute ungelöst. Die Verwaltungsgliederung wurde nicht an Pendlerräume angepasst; Wohnort, Arbeitsort, Schulort können drei verschiedene Freigabestandards haben. „Eltern müssen arbeiten, Kinder haben schulfrei zu Hause“ – dieses Szenario entfacht alle paar Jahre eine Welle in sozialen Medien. Verschiedene Landkreise versuchten regionale Kooperation, aber Taifunpfade und Topografie machen Synchronisation fast unmöglich.[^14]
 
-Dieser Verlust wird nicht in der auffälligen Berechnung des Tages-BIP erfasst, aber er ist das am meisten ignorierte Gesicht in der Diskussion über den Taifunurlaub.
+Das System operiert entlang administrativer Grenzen des 20. Jahrhunderts, Taifune aber folgen keinen Verwaltungsgrenzen.
 
-## Taifunnudeln und Kartoffelspeicher: Eine andere Art von System
+---
 
-Außerhalb dieses offiziellen Systems operieren die Menschen in Taiwan auch nach einem privaten Abkommen vor dem Taifun.
+## Die Wunde der Landwirtschaft: Taifune folgen keinen Verwaltungsgrenzen, aber Schäden werden nach Landkreisen berechnet
 
-Der Bildjournalist Li You-jong (李又宗) sagte, dass der Taifun in Taiwan dreißig Jahre zuvor fast immer mit Stromausfällen einherging. In der Nacht vor dem Taifun füllten die Mütter Badewannen voll und füllten Wasserkocher; Großmütter gingen zum Lebensmittelgeschäft, um Batterien und Kerzen zu kaufen. Die Frauen besorgten Vorräte in den Märkten – Kekse, Konserven, Instantnudeln. Nach dem Stromausfall konnten keine elektrischen Reiskocher verwendet werden, die ganze Familie kochte eine Tomaten-Sardinenkonserven-Nudelsuppe mit einem Ei, und die Nachbarn tauschten verschiedene Geschmacksrichtungen von Instantnudeln aus – das ist der Ursprung der „Taifunnudeln“. Er sagte, diese Gewohnheit sei „in unsere Knochen eingebrannt, ein Zeichen unseres Lebens“. [^15]
+Die Typhontag-Diskussion konzentriert sich auf städtische Büroangestellte und Büros, doch am direktesten jedes Jahr von Taifunen niedergestreckt wird die Landwirtschaft.
 
-Eine Analyse des Online-Sentiment durch United News Network (網路溫度計) in den letzten zwei Jahren (2023–2025) zeigte, dass Reis und Nudeln die am häufigsten gesuchten Güter vor einem Taifun waren, gefolgt von Instantnudeln an vierter Stelle und Wasser an sechster Stelle. Der Satz „Ein voller Reiskeller = ein volles Sicherheitsgefühl“ erfasst eine ältere Logik: Man vertraut keinem System, also schützt man sich zuerst selbst. [^16]
+Laut Statistik des Landwirtschaftsministeriums belief sich Taiwans landwirtschaftlicher Gesamtschaden 2023 auf **NT$24,276 Milliarden**, davon **77,16 % durch Taifune**, ca. NT$18,7 Milliarden; 2024 noch extremer: Gesamtschaden **NT$52,651 Milliarden**, Taifunanteil **98,88 %**, fast ausschließlich durch die drei Taifune (Gaemi, Shanshan, Krathon) verursacht.[^13a]
 
-Mit der Verbesserung der Strom- und Wasserversorgung erleben die Schüler der Jahrgänge 8 und 9 selten noch einen Taifun-Blackout; dieses kollektive Gedächtnis verblasst schnell. Aber das Phänomen des leeren Supermarkts zwei Tage vor einem Taifun ist nie verschwunden. Die Wirksamkeit des Taifunurlaubs kann diskutiert werden, aber die „Taifunnudeln“ sind eine Sprache, die jeder versteht.
+2025 verursachte Taifun Danas landwirtschaftliche Schäden von **NT$2,5 Milliarden**: Tainan am stärksten (NT$929 Millionen), Bananenschaden NT$229 Millionen, **445.000 Hühner verendet**, **2.454 Strommasten beschädigt** – ein historischer Rekord.[^13b]
 
-> **📝 Notiz des Kurators**
+Bananen, Papayas, Zitrusfrüchte, Bambussprossen sind die jährlichen Fixopfer der Taifune. Pingtung, Chiayi, Yunlin, Tainan tauchen Jahr für Jahr auf der Katastrophenkarte auf. Die Bauern dieser Landkreise kennen das Ende schon vor der Arbeitsunterbrechungs-Ankündigung. In demselben Moment, in dem die Freigabe verkündet wird, binden sie Bananenstämme mit Landwirtschaftsklebeband zusammen, ziehen Austernkäfige an Land oder stehen einfach nur auf dem Feldrand und warten.
+
+Dieser Schaden fließt nicht in die auffällige BIP-Tagesdurchschnittsberechnung ein, aber er ist das am meisten übersehene Gesicht in der Typhontag-Diskussion.
+
+## Taifun-Nudeln, Hamsterkäufe von Kohl – das ist ein anderes System
+
+Außerhalb dieses offiziellen Systems betreiben Taiwaner gleichzeitig ein weiteres zivilgesellschaftliches Abkommen vor dem Taifun.
+
+Der Filmemacher Li You-zong sagt: Vor dreißig Jahren bedeutete Taifun in Taiwan fast zwangsläufig Wasser- und Stromausfall. In der Taifunnacht füllte Mutter die Badewanne, füllte den Wasserspender, kaufte im Tante-Emma-Laden Batterien und Kerzen; Großmutter und Mutter hamsterten auf dem Markt Vorräte, bereiteten Kekse, Dosen, Instantnudeln vor. Nach Stromausfall funktionierte der Reiskocher nicht, die ganze Familie kochte eine Schale Tomaten-Makrelen-Dosen-Suppen-Nudeln, schlug ein Ei hinein, tauschte mit Nachbarn verschiedene Instantnudel-Geschmacksrichtungen – so entstand das „Taifun-Nudeln“. Er sagt, diese Gewohnheit sei „in unsere Knochen eingraviert, ein Zeichen dafür, dass wir einmal gelebt haben“.[^15]
+
+Laut Analyse des „Internet-Thermometers“ von United Daily News zum Netz-Stimmungsbild der letzten zwei Jahre (2023–2025) war das vor Taifunen am häufigsten hamsterkaufte Gut Reis/Nudeln (Platz 1), Platz 4 Instantnudeln, Platz 6 Trinkwasser. „Voller Reistrog = volles Sicherheitsgefühl“ fängt präzise eine ältere Logik ein: Keinem System trauen, das einen schützt – erst selbst schützen.[^16]
+
+Mit der Verbesserung von Strom- und Wasserversorgungsinfrastruktur erleben Acht- und Neuntklässler Taifun-Stromausfälle kaum noch; dieses kollektive Gedächtnis bricht generationenübergreifend rapide ab. Doch das Phänomen, dass Supermärkte zwei Tage vor dem Taifun leergekauft werden, ist nie verschwunden. Über die Wirksamkeit des Typhontag-Systems kann man streiten, aber Taifun-Nudeln sind die Sprache, die jeder versteht.
+
+> **📝 Kuratorennotiz**
 >
-> Das offizielle Taifunurlaubssystem und die private Kultur der „Taifunnudeln“ sind zwei Antworten auf dasselbe Problem. Die erste versucht, den Schock des Taifuns durch Gesetze und administrative Entscheidungen zu managen; die zweite umgeht jedes System direkt und tauscht Nahrungsmittelvorräte gegen ein Sicherheitsgefühl. Das Nebeneinander dieser beiden Antworten zeigt, dass das Gedächtnis der Menschen in Taiwan an den Taifun tiefer ist als ihr Vertrauen in irgendein System.
+> Das offizielle Typhontag-System und die zivilgesellschaftliche Taifun-Nudel-Kultur sind zwei Antworten auf dieselbe Frage. Das erste versucht, durch Recht und Verwaltungsentscheidungen die Taifun-Auswirkungen zu steuern; das zweite umgeht jedes System direkt, hamstert Nahrung gegen Sicherheitsgefühl. Dass beide Antworten koexistieren, zeigt: Taiwaner vertrauen ihrer Taifun-Erinnerung mehr als jedem System.
 
 ---
 
-## Die Kehrseite des Taifunurlaubs: Warum manche sagen „Nicht frei nehmen“
+## Die Kehrseite der Typhontage: Warum manche sagen „nicht freigeben“
 
-Die Behauptung von „31,5 Milliarden Verlust pro Tag“, die vom Vorsitzenden der San-San Hui (三三會) Li Bo-feng (林伯豐) gemacht wurde, wird jedes Taifunsaison diskutiert. Dahinter steckt eine Haltung aus der Geschäftswelt: Der Taifunurlaub ist ein Luxusgut; Taiwan hat eine exportorientierte Wirtschaft, und ein Tag Stillstand in einer Fabrik ist ein Verlust; die Kunden warten nicht, und Aufträge gehen verloren.
+„Dreimal-Drei-Verein-Vorsitzender Lin Po-feng sagt, ein Typhontag kostet NT$31,5 Milliarden“ – diese Aussage wird jede Taifunsaison neu diskutiert, dahinter steht eine Position aus der Wirtschaft: Typhontage sind Luxus, Taiwan ist exportorientiert, ein Tag Fabrikstillstand bedeutet Verlust, Kunden warten nicht, Aufträge wandern ab.
 
-Diese Haltung ist nicht falsch, aber sie wählt eine Mathematik, die ihr selbst nützt. In derselben Rechnung fehlen die 81 % der Arbeiter, die an Taifuntagen gearbeitet haben, die 37,7 %, die überhaupt kein Gehalt erhielten, und die Händler, die mit Regenschirmen durch Pfützen zum Großmarkt gingen.
+Diese Position ist nicht falsch, aber sie wählt eine Rechnung, die ihr nützt. In derselben Rechnung fehlen jene 81 %, die an Taifuntagen arbeiten, jene 37,7 %, die gar kein Gehalt bekommen, jene Standbetreiber, die mit Regenschirm durch Überschwemmungen zum Großmarkt waten.
 
-Das japanische Vorgehen ist ein anderer Weg: In einigen Regionen wird der Taifunurlaub automatisch ausgelöst, nachdem das nationale Wetteramt einen Sonderwarnstatus ausgegeben hat; lokale Regierungen handeln nach Standards, nicht nach Einzelfällen von Politikern. Das System in Hongkong ist direkter: Wenn die „Acht-Taifun“-Warnung angehalten wird, lösen alle Institutionen automatisch den Schließungs- und Unterrichtsplan aus, ohne dass ein Chef dies einzeln ankündigen muss.
+Japans Weg ist ein anderer: In manchen Regionen löst die Sonderwarnung der Japanischen Meteorologischen Agentur die Typhontage automatisch aus, lokale Regierungen führen nach Standard aus – keine Einzelfallentscheidung von Politikern. Hongkongs Mechanismus ist noch direkter: Wird Signal Nr. 8 gehisst, starten alle Institutionen automatisch Arbeits- und Unterrichtseinstellung, ohne dass der Chef einzeln verkünden muss.
 
-Das taiwanesische System ist eine Mischung: Es gibt gesetzliche Auslöser, aber die endgültige Entscheidung liegt bei Bezirks- und Stadträten. Dieses Design bewahrt die lokale Flexibilität und den Raum für politische Urteile. Wer profitiert in welcher Region und wer arbeitet weiter – dies wird jedes Mal leise in diesem Raum entschieden. [^14a]
+Taiwans System ist ein Mischsystem: Es gibt gesetzliche Auslösekriterien, aber die Endentscheidung liegt bei den Landkreisbürgermeistern. Dieses Design bewahrt lokale Flexibilität, bewahrt aber auch Spielraum für politische Urteile. Wer profitiert, wer weiterarbeiten muss – jedes Mal wird still in diesem Raum entschieden.[^14a]
 
-## Changhua 2001 vs. Die Vorschriften von 2026
+## 2001 in Changhua und die Vorschriften von 2026
 
-Nach dem Tod der Lehrerin Hsu Bi-lan hat die Regierung tatsächlich gehandelt. Aber zwischen „gehandelt“ und „verändert“ liegt eine stille Distanz.
+Nach dem Tod von Lehrerin Xu Bilan handelte die Regierung tatsächlich. Doch zwischen „handelte“ und „veränderte“ liegt eine schweigende Distanz.
 
-Der rechtliche Rahmen wurde geschaffen, die Entscheidungsstandards wurden klarer, und das Verfahren der Ankündigung durch den Bezirks- oder Stadtrat ist transparenter geworden. Doch heute im Jahr 2026 kommt ein Taifun, und die Arbeiter aus dem Großhandel gehen immer noch bei demselben Taifun zur Arbeit; die Gastarbeiter werden weiterhin unter Anforderung arbeiten, ohne Benachrichtigungen zu erhalten; 37,7 % der Arbeiter bekommen immer noch kein Gehalt.
+Der gesetzliche Rahmen steht, Entscheidungsstandards sind klar, das Ankündigungsverfahren der Landkreisbürgermeister transparenter. Doch 2026, wenn der Taifun kommt, gehen Angestellte im Groß- und Einzelhandel noch immer in demselben Taifun zur Arbeit, Wanderarbeiter werden noch immer ohne Benachrichtigung zur Arbeit verpflichtet, 37,7 % der Arbeitnehmer erhalten noch immer gar kein Gehalt.
 
-Der Ausgangspunkt des Systems war der Tod einer Lehrerin. Aber die Grenze der Systemänderung blieb an der Grenze von öffentlichen Ämtern und formellen Büros stehen.
+Der Ausgangspunkt des Systems war der Tod einer Lehrerin. Doch die Veränderungsgrenze des Systems blieb immer an der Grenze von öffentlichem Dienst und formellen Büros stehen.
 
-Die Lehrerin Hsu Bi-lan war eine Lehrkraft an einer staatlichen Schule, zu denen die Menschen gehört haben, die am Ende geschützt wurden – gerade wegen ihres Todes hatten spätere Lehrer an Taifuntagen einen klareren gesetzlichen Schutz. Ihre Geschichte wurde später in politische Erklärungen aufgenommen, in Medienberichte geschrieben und in Schul-Katastrophenschutzlehrbücher aufgenommen.
+Lehrerin Xu Bilan war damals Lehrerin an einer öffentlichen Schule – sie gehörte zu jenen, die das System letztlich schützte – gerade wegen ihres Todes erhielten spätere Lehrer an Taifuntagen klarere gesetzliche Absicherung. Ihre Geschichte fand später Eingang in Policy-Erklärungen, Medienberichte, Schul-Katastrophenschutz-Lehrmaterial.
 
-Aber wenn man jeden Sommer das Schließungsankündigung auf dem Handy sieht, warten die 81 % nicht auf diese Mitteilung. [^17]
+Doch jeden Sommer, in dem Moment, in dem man das Handy aufmacht und die Arbeitsunterbrechungs-Ankündigung sieht – jene 81 % warten nicht auf diese Nachricht.[^17]
 
-## Weiterführende Lektüre
+## Weiterführende Literatur
 
-- [Taifun](/de/nature/typhoons-in-taiwan) — Eine Panoramaaussicht von der Beobachtung von Hurrikanen durch die frühen Völker in Penghu während der Qing-Dynastie bis zu Xiao Lin Cun im Jahr 2009: Vierhundert Jahre Koexistenz zwischen Taiwan und Taifun
-- [Feiertage](/de/society/national-holidays) — Die politische Geschichte des Roten auf dem Kalender, „Wessen Urlaub, wessen Arbeit“ aus Sicht des Systems
-- Commercial Weekly〈Kann der Taifunurlaub die Wähler mit kleinen Glücksmomenten zufriedengestellen? Statistiken zeigen: Nur wenn er richtig genommen wird〉— Quantitative Analyse der politischen Entscheidungsfindung beim Taifunurlaub
-- Kualao Net (苦勞網)〈Taifunsaison kommt, was ist mit dem Gesetz für bezahlte Katastrophenurlaube?〉— Die Sichtweise der Arbeiter bei der Forderung nach einer Verankerung des Taifunurlaubs
+- [Taifun](/de/nature/typhoons-in-taiwan) — Vom Taifun, den Vorfahren in der Qing-Zeit auf den Pescadoren beobachteten, bis zum Dorf Xiaolin 2009: Vierhundert Jahre Koexistenz Taiwans mit dem Taifun im Panorama
+- [Gesetzliche Feiertage](/de/society/national-holidays) — Die rote Schriftpolitik im Kalender, vom System her gesehen: „Wessen frei, wessen Dienst“
+- Business Weekly 〈Bringt der Typhontag wirklich das kleine Glück der Wähler? Statistik zeigt: Nur richtiges Freigeben wirkt〉 — Quantitative politikwissenschaftliche Analyse der Typhontag-Entscheidung
+- Cool Labor 〈Taifunsaison naht: Worauf wartet die gesetzliche Verankerung bezahlter Katastrophenfreitage noch?〉 — Gewerkschaftliche Perspektive auf die Forderung nach gesetzlicher Verankerung
 
-## Referenzen
+## Quellen
 
-[^1]: Feng Media, „„Der Taifunurlaub“ entstand so: Eine Tragödie vor 24 Jahren verändert das Katastrophenbewusstsein in Taiwan“, https://www.storm.mg/articles/1080271
+[^1]: Storm Media, „So entstand der ‚Typhontag‘: Vor 24 Jahren eine Tragödie, die Taiwans Katastrophendenken veränderte“, https://www.storm.mg/articles/1080271
 
-[^2]: Feng Life, „Warum gibt es den ‚Taifunurlaub‘? Alles wegen ihres Todes vor 23 Jahren“, https://new.storm.mg/lifestyle/5265333
+[^2]: Wind Life, „Warum gibt es ‚Typhontage‘? Alles wegen ihres Diensttods vor 23 Jahren“, https://new.storm.mg/lifestyle/5265333
 
-[^3]: Wikipedia, „Verfahren zur Einstellung von Büro- und Unterrichtsbetrieb bei Naturkatastrophen“, https://zh.wikipedia.org/wiki/天然災害停止上班及上課作業辦法
+[^3]: Wikipedia, „Verwaltungsvorschriften für die Einstellung von Arbeit und Unterricht bei Naturkatastrophen“, https://zh.wikipedia.org/wiki/天然災害停止上班及上課作業辦法
 
-[^4]: Commercial Weekly, „Kann der Taifunurlaub die Wähler mit kleinen Glücksmomenten zufriedengestellen? Statistiken zeigen: Nur wenn er richtig genommen wird“, https://www.businessweekly.com.tw/focus/blog/20743; siehe auch Hua Yi Online Library, „Studie zur Taifunurlaubsentscheidung“, https://www.airitilibrary.com/Article/Detail/15618080-N202405300006-00002
+[^4]: Business Weekly, „Bringt der Typhontag wirklich das kleine Glück der Wähler? Statistik zeigt: Nur richtiges Freigeben wirkt“, https://www.businessweekly.com.tw/focus/blog/20743; siehe auch Hua Yi Online Library, „Forschung zur Typhontag-Entscheidung“, https://www.airitilibrary.com/Article/Detail/15618080-N202405300006-00002
 
-[^5]: Key Opinion Network (關鍵評論網), „Nur 14 Taifun-Urlaubstage für die ganze Insel seit 2001“, https://www.thenewslens.com/article/205647; iBuyRanking, „Rangliste der Wahrscheinlichkeit von Taifunurlaubsangeboten in den Bezirken Taiwans in den letzten 10 Jahren“, https://ibuyranking.blogspot.com/2024/10/typhoon-day.html
+[^5]: The Critical Review Network, „2001 bis heute nur 14 Mal landesweite Typhontage in Taiwan“, https://www.thenewslens.com/article/205647; iBuyRanking, „Rangliste der Typhontag-Wahrscheinlichkeit taiwanesischer Landkreise der letzten 10 Jahre“, https://ibuyranking.blogspot.com/2024/10/typhoon-day.html
 
-[^6]: Taiwan Great Epoch (台灣大紀元), „Umfrage: 80 % der Arbeiter gingen an Taifuntagen zur Arbeit; die fünf hart arbeitenden Sektoren“, https://epochtimes.com.tw/n445585/調查-8成勞工曾颱風天到班-五大行業好辛勞
+[^6]: Taiwan Epoch Times, „Umfrage: 80 % der Arbeitnehmer schon einmal an Taifuntag zur Arbeit – fünf Branchen besonders hart“, https://epochtimes.com.tw/n445585/調查-8成勞工曾颱風天到班-五大行業好辛勞
 
-[^7]: FTNN News Network, „Umfrage: Fünfzig Prozent der Chefs geben bei Taifunurlaub das volle Gehalt“, https://www.ftnn.com.tw/news/467148
+[^7]: FTNN News, „Umfrage: Bei Typhontagen geben 50 % der Chefs volles Gehalt“, https://www.ftnn.com.tw/news/467148
 
-[^8]: CTWANT, „80 % der Arbeiter gehen an Taifuntagen zur Arbeit! Die fünf leidenden Sektoren enthüllt“, http://www.ctwant.com/article/440391; Yi Pin News Network (壹蘋新聞網), „Zu Fuß bei Sturm zur Arbeit! Vier herzzerreißende Sektoren enthüllt“, https://tw.nextapple.com/life/20250822/C00DE9809B179D8E59BEADA06473B111
+[^8]: CTWANT, „Typhontag: 80 % der Arbeitnehmer regulär anwesend! 5 harte Branchen enthüllt“, http://www.ctwant.com/article/440391; Apple Daily, „Wind und Regen halten nicht ab – 4 herzzerreißende Branchen enthüllt“, https://tw.nextapple.com/life/20250822/C00DE9809B179D8E59BEADA06473B111
 
-[^9]: 21 Manpower, „Gastarbeiter | Aufruf zu verstärkten Sicherheitsmaßnahmen beim Taifun-Eintritt“, https://www.21manpower.com.tw/migrant-workers/2295/
+[^9]: 21manpower, „Ausländische Wanderarbeiter | Taifun naht: Aufruf zu verstärkten Arbeitsschutzmaßnahmen“, https://www.21manpower.com.tw/migrant-workers/2295/
 
-[^10]: Arbeitsministerium Global Information Network, „Relevante Vorschriften zum Taifunurlaub“, https://www.mol.gov.tw/1607/1632/1640/33257/post; Kualao Net (苦勞網), „Taifunsaison kommt, was ist mit dem Gesetz für bezahlte Katastrophenurlaube?“, https://www.coolloud.org.tw/node/97010
+[^10]: Arbeitsministerium Globale Informationsseite, „Typhontag-relevante Vorschriften“, https://www.mol.gov.tw/1607/1632/1640/33257/post; Cool Labor, „Taifunsaison naht: Worauf wartet die gesetzliche Verankerung bezahlter Katastrophenfreitage noch?“, https://www.coolloud.org.tw/node/97010
 
-[^11]: Sanli News Network, „Berechnung des Taifunverlusts von 31,5 Milliarden NTD“, https://setn.com/News.aspx?NewsID=1541010; ETtoday Financial Cloud, https://finance.ettoday.net/news/2828678
+[^11]: SETN News, „Berechnung des Typhontag-Verlusts von NT$31,5 Milliarden“, https://setn.com/News.aspx?NewsID=1541010; ETtoday Finance Cloud, https://finance.ettoday.net/news/2828678
 
-[^12]: NOWnews Today News, „Datenaktualisierung! Huang Yang-ming: Ein Tag Taifunurlaub kostet Taiwan mehr als ‚diese Zahl‘ in NTD“, https://www.nownews.com/news/6480095
+[^12]: NOWnews, „Daten-Update! Huang Yang-ming: Ein Typhontag Freigabe, Taiwans Verlust übersteigt ‚diese Zahl‘ NT$“, https://www.nownews.com/news/6480095
 
-[^13]: Key Opinion Network (關鍵評論網), „Nur 14 Taifun-Urlaubstage für die ganze Insel seit 2001“, https://www.thenewslens.com/article/205647; iBuyRanking, „Rangliste der Wahrscheinlichkeit von Taifunurlaubsangeboten in den Bezirken Taiwans in den letzten 10 Jahren“, https://ibuyranking.blogspot.com/2024/10/typhoon-day.html
+[^13]: The Critical Review Network, „2001 bis heute nur 14 Mal landesweite Typhontage in Taiwan“, https://www.thenewslens.com/article/205647; iBuyRanking, „Rangliste der Typhontag-Wahrscheinlichkeit taiwanesischer Landkreise der letzten 10 Jahre“, https://ibuyranking.blogspot.com/2024/10/typhoon-day.html
 
-[^13a]: Landwirtschaftsministerium Global Information Network, Statistik der landwirtschaftlichen Schäden, https://eng.moa.gov.tw/ws.php?id=2502354; Legislative Yuan (立法院), „Landwirtschaftliche Schäden unseres Landes in den letzten 10 Jahren“, https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=33368&pid=185093
+[^13a]: Landwirtschaftsministerium Globale Informationsseite, Statistik landwirtschaftlicher Katastrophenschäden, https://eng.moa.gov.tw/ws.php?id=2502354; Legislativ-Yuan, „Landwirtschaftliche Katastrophenschäden der letzten 10 Jahre in unserem Land“, https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=33368&pid=185093
 
-[^13b]: Taipei Times, „Taifun verursacht Verluste von 2,5 Mrd. NTD: MOA“, https://www.taipeitimes.com/News/taiwan/archives/2025/07/13/2003840217
+[^13b]: Taipei Times, „Taifun verursachte NT$2,5 Mrd. Schäden: Landwirtschaftsministerium“, https://www.taipeitimes.com/News/taiwan/archives/2025/07/13/2003840217
 
-[^14]: vocus, „Das ‚Taifunurlaub‘-System in Taiwan: Eine Grauzone aus Katastrophenschutz, Verwaltung und Politik“, https://vocus.cc/article/69158ba4fd89780001675c23
+[^14]: vocus, „Taiwans ‚Typhontag‘-System: Ein nebulöses Geflecht aus Katastrophenschutz, Verwaltung und Politik“, https://vocus.cc/article/69158ba4fd89780001675c23
 
-[^14a]: vocus, „Das ‚Taifunurlaub‘-System in Taiwan: Eine Grauzone aus Katastrophenschutz, Verwaltung und Politik“, https://vocus.cc/article/69158ba4fd89780001675c23; siehe auch Commercial Weekly Taifunurlaubsvergleichsanalyse, https://www.businessweekly.com.tw/focus/blog/20743
+[^14a]: vocus, „Taiwans ‚Typhontag‘-System: Ein nebulöses Geflecht aus Katastrophenschutz, Verwaltung und Politik“, https://vocus.cc/article/69158ba4fd89780001675c23; siehe auch Business Weekly Typhontag-Politik-Vergleichsanalyse, https://www.businessweekly.com.tw/focus/blog/20743
 
-[^15]: UHO Youhuo Health Network (優活健康網), „‚Taifunnudeln in Taiwan?‘ Er erzählt von den gemeinsamen Erinnerungen der Schüler der siebten Klasse“, https://www.uho.com.tw/article-64790.html; Feng Media, „„Warum essen die Menschen in Taiwan bei Taifun Nudeln?““, https://storm.mg/lifestyle/5264370
+[^15]: UHO Gesundheitsnetz, „Taifuntag ‚Taiwaner essen gewohnheitsmäßig Instantnudeln?‘ Er enthüllt gemeinsame Erinnerung der Siebtklässler“, https://www.uho.com.tw/article-64790.html; Storm Media, „Taifuntag Verkaufsräume stürmen! Warum Taiwaner ‚gewohnheitsmäßig Instantnudeln essen‘“, https://storm.mg/lifestyle/5264370
 
-[^16]: United News Network (聯合新聞網), „Was wird bei einem Taifun gesammelt? Die zehn wichtigsten Güter“, https://udn.com/news/story/7266/8982945
+[^16]: United Daily News, „Was vor dem Taifun hamstern? Top 10 unverzichtbare Güter enthüllt“, https://udn.com/news/story/7266/8982945
 
-[^17]: yes123 Job Search, zitiert von Taiwan Great Epoch (台灣大紀元), https://epochtimes.com.tw/n445585/調查-8成勞工曾颱風天到班-五大行業好辛勞
+[^17]: yes123 Job Bank Umfrage, zitiert nach Taiwan Epoch Times, https://epochtimes.com.tw/n445585/調查-8成勞工曾颱風天到班-五大行業好辛勞

@@ -1,17 +1,17 @@
 ---
-title: 'Die taiwanische Volksliedbewegung: Vom „Singen des eigenen Liedes“ zur kulturellen Revolution der 1970er Jahre'
-description: 'Eine kulturelle Revolution, die von jungen Menschen getragen wurde – wie das „Tamsui-Ereignis“ den Beginn einer Bewegung markierte, die sich durch eigene Sprache und Geschichten definierte.'
+title: 'Die taiwanische Folk-Bewegung'
+description: 'Vom „Singen der eigenen Lieder“ zur Transformation der chinesischsprachigen Musikwelt – die kulturelle Revolution der Jugend in den 1970er Jahren.'
 date: 2026-03-18
 category: 'Music'
 tags:
   [
-    'Volksliedbewegung',
+    'Folk-Bewegung',
     'Campus-Folk',
-    'Goldenen Stimme',
-    'Li Shuangze',
-    'Yang Xian',
-    'Hu Defu',
-    'Singe dein eigenes Lied',
+    'Golden Voice Awards',
+    'Li Shuang-ze',
+    'Yang Hsien',
+    'Hu De-fu',
+    'Singt eure eigenen Lieder',
   ]
 subcategory: '流行音樂'
 author: 'Taiwan.md Contributors'
@@ -21,149 +21,149 @@ featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
 translatedFrom: 'Music/台灣民歌運動.md'
-sourceCommitSha: '7415dcaae'
-sourceContentHash: 'sha256:e201829436b891a1'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:852e24aefb540676'
 sourceBodyHash: 'sha256:61e39c0d29fd318e'
-translatedAt: '2026-09-25T14:32:57+08:00'
+translatedAt: '2026-10-11T00:56:55+08:00'
 ---
 
-# Die taiwanische Volksliedbewegung
+# Die taiwanische Folk-Bewegung
 
-> **30-Sekunden-Zusammenfassung:** Am 3. Dezember 1976, bei einem Konzert an der Tamsui College, zerbrach Li Shuangze eine Coca-Cola-Flasche und fragte: „Warum singen wir die Lieder von Ausländern?“ – Dieses „Tamsui-Ereignis“ löste die taiwanische Volksliedbewegung aus. Bereits 1975 komponierte Yang Xian mit „Vier Rhythmen der Heimwehsehnsucht“ in Zhongshan Hall, Hu Defu brachte indigene alte Melodien ein, und die Kommerzialisierung durch den Goldenen Stimme-Wettbewerb und Folk-Wind im Jahr 1977 führte zur Generation von Volksliedern wie Ci Yu, Tsai Qin, Ye Jiaxiu und Li Jianfu. Obwohl die Bewegung nach zehn Jahren durch Auswanderung und Kommerzialisierung endete, lebt der Geist des „Singen des eigenen Liedes“ in den Generationen von Lo Ta-yu, Chen Qizhen und Chang Xuan weiter.
+> **30-Sekunden-Überblick:** Am 3. Dezember 1976 warf Li Shuang-ze (李雙澤) während eines Konzerts am Tamkang College eine Coca-Cola-Flasche zu Boden und fragte: „Warum singen wir die Lieder der Ausländer?“ – Dieser „Tamkang-Vorfall“ gab der taiwanischen Folk-Bewegung den Anstoß. Mit Yang Hsien (楊弦), der 1975 im Zhongshan Hall die „Vier Gedichte der Nostalgie“ uraufführte, Hu De-fu (胡德夫), der indigene Melodien einbrachte, und der Kommerzialisierung durch die Golden Voice Awards sowie den Folk-Style-Wettbewerb im Jahr 1977, entstand eine Generation von Folk-Sängern wie Qi Yu (齊豫), Tsai Chin (蔡琴), Yeh Chia-hsiu (葉佳修) und Li Chien-fu (李建復). Obwohl die Bewegung nach zehn Jahren durch den Wegzug von Talenten ins Ausland und zunehmende Kommerzialisierung endete, lebt der Geist des „Singens der eigenen Lieder“ in den Generationen von Lo Ta-yu (羅大佑), Cheer Chen (陳綺貞) und LaLa Hsu (張懸) weiter.
 
-Am 3. Dezember 1976, bei einem Konzert an der Tamsui College[^1], trat ein philippinischer Gaststudent mit einer Gitarre auf und fragte das Publikum wütend: „Warum singen wir die Lieder von Ausländern?“ Er zerbrach die Coca-Cola-Flasche zu Boden[^2]; dieser Glasbruch wurde später als der Moment interpretiert, in dem die kulturelle Kolonialisierung eines Zeitalters durchbrochen wurde. Dieser Mann hieß Li Shuangze, und dieser Augenblick wird als das „Tamsui-Ereignis“ bezeichnet – der symbolträchtigste Ausgangspunkt der taiwanischen Volksliedbewegung.
+Am 3. Dezember 1976[^1], während eines Konzerts am Tamkang College, betrat ein philippinischer Austauschstudent mit einer Coca-Cola-Flasche in der Hand und einer Gitarte auf dem Rücken die Bühne und fragte das Publikum wütend: „Warum singen wir die Lieder der Ausländer?“ Er schmetterte die Cola-Flasche hart auf den Boden[^2] – das Geräusch zerbrechenden Glases wurde später als der Moment wahrgenommen, in dem die musikalische Kolonialisierung einer Ära gebrochen wurde. Der Mann hieß Li Shuang-ze (李雙澤), und dieser Augenblick wurde als „Tamkang-Vorfall“ bekannt – der symbolträchtigste Ausgangspunkt der taiwanischen Folk-Bewegung.
 
-Warum wollten junge Menschen ihre eigenen Lieder singen? Als Taiwan in den 1970er Jahren eine Reihe diplomatischer Krisen erlebte – den Austritt aus den Vereinten Nationen und die Abbrüche der Beziehungen zwischen China und den USA –, begannen junge Menschen, sich eine grundlegende Frage zu stellen: Was ist unsere wahre Stimme in dieser sich schnell wandelnden Welt?
+Warum wollten junge Menschen ihre eigenen Lieder singen? Als Taiwan in den 1970er Jahren mit einer Serie diplomatischer Krisen konfrontiert war – dem Austritt aus den Vereinten Nationen und dem Abbruch der diplomatischen Beziehungen zwischen den USA und China –, begannen junge Leute über eine grundlegende Frage nachzudenken: Was ist in dieser sich ständig verändernden Welt unsere wahre Stimme?
 
-## Der Wendepunkt der Ära: Warum „das eigene Lied singen“?
+## Ein Wendepunkt der Ära: Warum „eigene Lieder singen“?
 
-Vor den 1970er Jahren war die Musiklandschaft Taiwans fast vollständig von westlicher Popmusik dominiert. Von Campus bis Café ertönten überall englische Lieder. Junge Menschen kannten Melodien von Bob Dylan und Joan Baez, wussten aber nichts über die Geschichten ihres eigenen Landes.
+Vor den 1970er Jahren war die Musiklandschaft Taiwans fast vollständig von westlicher Popmusik besetzt. Von den Campusgeländen bis hin zu den Cafés erklangen überall englische Lieder. Die Jugend kannte die Melodien von Bob Dylan und Joan Baez, wusste aber nichts über die Geschichten ihres eigenen Landes.
 
-Dieses Phänomen der kulturellen Entwurzelung wurde durch den Schock der internationalen Lage noch schärfer. Die Besuche Nixons in China im Jahr 1972, der Abbruch der Beziehungen zwischen Taiwan und den USA im Jahr 1978 und der Aufstieg der „Bao Diao“-Bewegung zwangen die taiwanesische Jugend zur Selbstreflexion: Wer sind wir? Wo ist unsere Stimme?
+Dieses Phänomen der kulturellen Entwurzelung verschärfte sich unter dem Druck der internationalen Lage. Nixons Besuch in China 1972, der Abbruch der Beziehungen zwischen den USA und Taiwan 1978 und der Aufstieg der Bewegung zum Schutz der Diaoyu-Inseln ließen die taiwanische Jugend reflektieren: Wer sind wir eigentlich? Wo ist unsere Stimme?
 
-Gerade in diesem historischen Kontext wurde das „Singen des eigenen Liedes“ nicht mehr nur zu einem Slogan, sondern zu einer kulturellen Bewusstseinsbewegung. Die jungen Menschen waren mit dem bloßen Konsum westlicher Musik unzufrieden; sie wollten die Sprache und die Geschichten ihres Landes nutzen, um eine Stimme zu schaffen, die dieser Heimat entsprach.
+In diesem historischen Kontext war „Singt eure eigenen Lieder“ nicht mehr nur ein Slogan, sondern eine Bewegung des kulturellen Selbstbewusstseins. Die jungen Menschen gaben sich nicht damit zufrieden, nur Zuhörer westlicher Musik zu sein; sie wollten mit ihrer eigenen Sprache und ihren eigenen Geschichten eine Stimme schaffen, die dieser Erde gehörte.
 
-## Drei Pioniere: Yang Xian, Hu Defu und Li Shuangze
+## Drei Pioniere: Yang Hsien, Hu De-fu und Li Shuang-ze
 
-### Yang Xian: Der Sämann der modernen Volkslieder
+### Yang Hsien: Der Sämann des modernen Folk
 
-Am 6. Juni 1975 veranstaltete Yang Xian, ein Student des Oceanographic Institute der National Taiwan University in Zhongshan Hall in Taipeh, ein „Konzert zur Schaffung moderner Volkslieder“[^3]. Er komponierte Yu Guangzhongs Gedicht „Vier Rhythmen der Heimwehsehnsucht“ (https://www.youtube.com/watch?v=0gbgJZqkbGM) und stellte damit das Konzept des „modernen Volksliedes“ erstmals vor.
+Am 6. Juni 1975 veranstaltete der Student Yang Hsien (楊弦) vom Institut für Meereswissenschaften der National Taiwan University ein „Konzert zur Komposition moderner Volkslieder“ im Zhongshan Hall in Taipeh. [^3] Er vertonte die Gedichte von Yu Kwang-chung (余光中), darunter die „[Vier Gedichte der Nostalgie](https://www.youtube.com/watch?v=0gbgJZqkbGM)“, und führte damit das Konzept des „modernen Folk“ ein.
 
-Yang Xians Innovation lag darin, chinesische moderne Poesie mit amerikanischem Folk und Country-Musik zu verschmelzen und so eine bisher unbekannte Musikform zu schaffen. Dieses Konzert gilt als der offizielle Beginn der taiwanischen Volksliedbewegung, und Yang Xian wird daher als „Vater des modernen Volkslieds“ bezeichnet[^4].
+Yang Hsiens Innovation lag darin, moderne chinesische Poesie mit amerikanischem Folk und Country zu verbinden und so eine nie dagewesene Musikform zu schaffen. Dieses Konzert gilt als offizieller Beginn der taiwanischen Folk-Bewegung, weshalb Yang Hsien als „Vater des modernen Folk“ bezeichnet wird.[^4]
 
-### Hu Defu: Die frühe Stimme
+### Hu De-fu: Die ursprüngliche Stimme
 
-Der indigene Sänger Hu Defu war ein weiterer wichtiger Wegbereiter dieser Bewegung[^6]. Seine Auftritte in Cafés waren eine langsam fortschreitende kulturelle Übertragung. Hu Defu begann, alte Melodien der Binin-Ureinwohner zu singen und ließ die jungen Stadtbewohner zum ersten Mal die ursprünglichste und reinste Stimme des taiwanischen Bodens hören.
+Der indigene Sänger Hu De-fu (胡德夫) war ein weiterer wichtiger Wegbereiter dieser Bewegung[^6]. Sein Auftritt im Columbia Café war eine langsame, aber stetige kulturelle Übertragung. Hu begann, die alten Melodien der Pinuyia (卑南族) zu singen, wodurch die städtische Jugend zum ersten Mal die ursprünglichsten und reinsten Klänge des Bodens Taiwans hörte.
 
-Im Jahr 1974 veranstaltete Hu Defu das Konzert „Schöne Reisig“, bei dem Yang Xian erstmals öffentlich „Vier Rhythmen der Heimwehsehnsucht“ präsentierte, was den Grundstein für das Zhongshan-Hall-Konzert im darauffolgenden Jahr legte.
+1974 veranstaltete Hu De-fu das Konzert „Schöne Ähren“, bei dem auch Yang Hsien erstmals öffentlich die „Vier Gedichte der Nostalgie“ präsentierte, was den Grundstein für das Konzert im Zhongshan Hall im Folgejahr legte.
 
-### Li Shuangze: Die Trompete der Revolution
+### Li Shuang-ze: Das Signal der Revolution
 
-Wenn Yang Xian der Sämann und Hu Defu der Erleuchter waren, dann war Li Shuangze die Trompete der Revolution. Das „Tamsui-Ereignis“ vom 3. Dezember 1976 war der dramatischste Moment der taiwanischen Volksliedbewegung.
+Wenn Yang Hsien der Sämann und Hu De-fu der Erleuchter war, dann war Li Shuang-ze das Signalhorn der Revolution. Der „Tamkang-Vorfall“ vom 3. Dezember 1976 war der dramatischste Moment der taiwanischen Folk-Bewegung.
 
-Dieser junge Mann, der aus Spanien und den USA studiert war, sollte eigentlich anstelle des verletzten Hu Defu auftreten. Stattdessen wählte er die intensivste Methode, um das Publikum herauszufordern: „Warum singen wir die Lieder von Ausländern?“
+Der junge Mann, der gerade aus Studienaufenthalten in Spanien und den USA zurückgekehrt war, sollte eigentlich für den verletzten Hu De-fu einspringen. Doch er entschied sich für die radikalste Art, dem Publikum eine existenzielle Frage zu stellen: „Warum singen wir die Lieder der Ausländer?“
 
-In dem Moment, als Li Shuangze die Coca-Cola-Flasche wütend zerbrach, wurde der Ausbruch persönlicher Emotion zu einem Symbol des Widerstands gegen die kulturelle Kolonialisierung einer ganzen Generation. Sein Ruf nach „dem eigenen Lied singen“ wurde schnell zum zentralen Motto der Campus-Folk-Bewegung in Taiwan.
+Der Moment, in dem Li Shuang-ze die Coca-Cola-Flasche zerschmetterte, wurde von einem persönlichen emotionalen Ausbruch zu einem Symbol des Widerstands einer ganzen Generation gegen die kulturelle Kolonialisierung. Sein Ruf „Singt eure eigenen Lieder“ wurde schnell zum geistigen Leitmotiv der Campus-Folk-Bewegung in Taiwan.
 
-🎵 **Anhören:** [Li Shuangze – Schöne Reisig](https://www.youtube.com/watch?v=4UvWeuzhxHw) – Version gesungen von Yang Zujun
+🎵 **Hörprobe**: [Li Shuang-ze „Beautiful Island (Meili Dao)“](https://www.youtube.com/watch?v=4UvWeuzhxHw) — Version von Yang Tsu-chun (楊祖珺)
 
-## Die treibenden Kräfte der Kommerzialisierung: Goldenen Stimme und Folk-West-Restaurants
+## Die Motoren der Kommerzialisierung: Golden Voice Awards und Folk-Restaurants
 
-Das „Tamsui-Ereignis“ entzündete die Flamme des „Singen des eigenen Liedes“, aber die eigentliche Verbreitung der Volkslieder in der Bevölkerung und die Etablierung eines Trends wurde durch das Eingreifen kommerzieller Kräfte erreicht.
+Der „Tamkang-Vorfall“ entfachte das Feuer des „Singens der eigenen Lieder“, doch erst die Intervention kommerzieller Kräfte brachte den Folk tief in die Bevölkerung und schuf einen Trend.
 
-Im Jahr 1977 startete New Groove Records den Gesangswettbewerb „Goldener Stimme“, und im Jahr 1978 gründete Hai Shan Records den Wettbewerb „Folk-Wind“[^5]. Diese beiden Wettbewerbe wurden zu Wiegen für Volksliedsänger. Chen Mingshao, Bao Meisheng, Li Jianfu und Wang Hailin stammten aus dem Goldenen Stimme-Wettbewerb; Tsai Qin und Ye Jiaxiu waren Vertreter des Folk-Wind-Wettbewerbs; Ci Yu und Su Lai waren Stars, die beide Lager übersprangen.
+1977 brachte das Label ເ新格 (New Wave Records) den Gesangswettbewerb „Golden Voice Awards“ heraus, 1978 gründete 海山 (Haishan Records) den Wettbewerb „Folk-Style“[^5]. Diese beiden Wettbewerbe wurden zur Wiege der Folk-Sänger. Chen Ming-shao (陳明韶), Bao Mei-sheng (包美聖), Li Chien-fu (李建復) und Wang Hai-ling (王海玲) stammten aus den Golden Voice Awards; Tsai Chin (蔡琴) und Yeh Chia-hsiu (葉佳修) waren die Repräsentanten des „Folk-Style“-Wettbewerbs; Qi Yu (齊豫) und Su Lai (蘇來) waren Stars, die beide Lager überschritten.
 
-Zur gleichen Zeit entstanden wie Pilze verschiedene Volkslied-Westrestaurants. Von „Muchen“ und „Strohpuppe“ in Taipeh bis zu Cafés überall wurden diese Orte zu Bühnen, auf denen Volksliedsänger ihr Können schärften und mit dem Publikum interagierten. Diese Orte waren Zentren des kulturellen Austauschs und brachten die Volkslieder vom Campus in die Gesellschaft.
+Gleichzeitig entstanden zahlreiche Folk-Restaurants wie Pilze nach dem Regen. Von den „Holzboot“ (木船) und „Scarecrow“ (稻草人) in Taipeh bis hin zu Cafés in der ganzen Provinz wurden diese Orte zu Bühnen, auf denen Folk-Sänger ihr Können verfeinerten und mit dem Publikum interagierten. Diese Orte waren Knotenpunkte des kulturellen Austauschs, die den Folk vom Campus in die Gesellschaft trugen.
 
-## Die Stars der goldenen Ära
+## Die Stars des goldenen Zeitalters
 
-### Intellektuelle Volkslieder
+### Intellektueller Folk
 
-Die intellektuellen Volkslieder, repräsentiert durch Ci Yu, strebten nach einer Verbindung von Poesie und Philosophie. Mit ihrer klaren Stimme interpretierte Ci Yu Klassiker wie „Olivenbaum“ (https://www.youtube.com/watch?v=PGcw9SvHhh0) und „Gehend im Regen“, was eine künstlerische Seite der Volksliedbewegung zeigte.
+Der von Qi Yu (齊豫) repräsentierte intellektuelle Folk strebte nach einer Verbindung von Poesie und Philosophie. Ihre klare Stimme interpretierte Klassiker wie „[Olivenbaum (Ganlan Shu)](https://www.youtube.com/watch?v=PGcw9SvHhh0)“ und „Gehen im Regen“, was die literarische Seite des Folk unterstrich.
 
-### Lokale Volkslieder
+### Heimatverbundener Folk
 
-Ye Jiaxius „Kleiner Weg auf dem Land“ (https://www.youtube.com/watch?v=abBnysri-XI) und Pan Anbangs „Penglai Bay für die Großmutter“ repräsentierten die Schlichtheit und Wärme der lokalen Volkslieder. Diese Lieder beschrieben die Heimat in jedem Herzen und berührten die Seelen der weit entfernten Kinder.
+Yeh Chia-hsiu (葉佳修)s „[Der kleine Weg auf dem Land (Xiangjian de xiaolu)](https://www.youtube.com/watch?v=abBnysri-XI)“ und Pan An-pang (潘安邦)s „Großmutter in der Penghu-Bucht“ repräsentierten die Schlichtheit und Wärme des heimatsuchenden Folk. Diese Lieder beschrieben die Heimat in den Herzen eines jeden und berührten die Seelen von Menschen, die fern der Heimat lebten.
 
-### Urbane Volkslieder
+### Urbaner Folk
 
-Tsai Qin und Cheng Yi verkörperten die Eleganz und Reife der urbanen Volkslieder. Ihre Gesangstechniken waren professioneller, ihre musikalische Inszenierung reicher, und sie brachten den modernen städtischen Charakter in die Volkslieder ein.
+Tsai Chin (蔡琴) und Zheng Yi (鄭怡) repräsentierten die Raffinesse und Reife des urbanen Folk. Ihre Gesangstechnik war professioneller und ihre musikalische Arrangements reicher, was dem Folk eine moderne, städtische Note verlieh.
 
 ### Die Geburt klassischer Werke
 
-In dieser Zeit wurden unzählige Klassiker geboren:
+In dieser Zeit entstanden unzählige Klassiker:
 
-**„Der Erbe der Drachen“ (https://www.youtube.com/watch?v=50dyyevLH6I)** (Text und Musik von Hou Dejian, erstmals gesungen von Li Jianfu) entstand im Kontext des Bruchs zwischen Taiwan und den USA im Jahr 1978 und drückte das nationale Gefühl und die kulturelle Identität der Chinesen aus – es war der klanglich wichtigste Ton der Volksliedbewegung. **„Olivenbaum“** (Ci Yu) vermittelte mit dem „kleinen Vogel, der für den Himmel fliegt“ eine romantische Sehnsucht nach Freiheit; **„So zart wie dein Freundlichkeit“ (https://www.youtube.com/watch?v=Yvg3L7RbFHY)** (Tsai Qin) zeigte die Feinheit und Tiefe städtischer Liebe; **„Kleiner Weg auf dem Land“** (Ye Jiaxiu) verband Heimweh und Unschuld perfekt; **„Penglai Bay für die Großmutter“** (Pan Anbang) schrieb Poesie der Kindheitserinnerung und des Ozeans; **„Der Herbstzyga“** (Yang Fangyi, Xu Xiaojing) beschrieb die Melancholie der Jugendjahre; **„Wenn“** (Shi Biwu, Tai Zhaomei) war eine romantische Vorstellung von Liebe.
+**„[Nachfahre des Drachen (Long de chuanren)](https://www.youtube.com/watch?v=50dyyevLH6I)“** (Text und Musik von Hou De-jian, Erstinterpret Li Chien-fu) entstand 1978 vor dem Hintergrund der diplomatischen Trennung zwischen den USA und Taiwan; es drückte das nationale Gefühl und die kulturelle Identität der chinesischsprachigen Welt aus und war der historisch bedeutsamste Klang dieser Ära. **„Olivenbaum“** (Qi Yu) vermittelte mit dem Bild des „Vogels, der für den Himmel fliegt“, die Sehnsucht nach Freiheit; **„[Genau wie deine Sanftmut (Qia si ni de wenrou)](https://www.youtube.com/watch?v=Yvg3L7RbFHY)“** (Tsai Chin) zeigte die Subtilität urbaner Liebe; **„Der kleine Weg auf dem Land“** (Yeh Chia-hsiu) verband Nostalgie perfekt mit Unschuld; **„Großmutter in der Penghu-Bucht“** (Pan An-pang) schrieb Kindheitserinnerungen und die Poesie des Meeres in die Musik; **„Herbstzikade“** (Yang Fang-yi, Xu Xiao-jing) beschrieb die Melancholie der Jugend; und **„Wenn (Ruguo)“** (Shi Bi-wu, Tai Chao-mei) war eine romantische Vorstellung von Liebe.
 
-🎵 **Klassische Volksliedauswahl:** [Pan Yueyun – Wildrosen haben auch Frühling](https://www.youtube.com/watch?v=GSoLwHTXRmM) ｜ [Hu Defu – Wind des Pazifiks](https://www.youtube.com/watch?v=1orwkijmkIU)
+🎵 **Klassiker-Auswahl**: [Pan Yue-yun „Wildlilien haben auch Frühling“](https://www.youtube.com/watch?v=GSoLwHTXRmM) ｜ [Hu De-fu „Wind des Pazifiks“](https://www.youtube.com/watch?v=1orwkijmkIU)
 
-## Das Ende und die Transformation der Ära
+## Das Ende und der Wandel einer Ära
 
-Zu Beginn der 1980er Jahre begann die taiwanische Campus-Folk-Bewegung zu verfallen. Dieser Niedergang hatte mehrere Gründe:
+Anfang der 1980er Jahre begann die Campus-Folk-Bewegung in Taiwan zu schwinden. Dieser Rückgang hatte mehrere Gründe:
 
-### Talentdefizit
+### Verlust von Talenten
 
-Nach dem Abschluss der Hauptakteure der Volksliedbewegung gingen sie ins Ausland zum Studium oder dienten im Militär, was zu einem Talentengpass führte. Yang Xian ging 1977 nach Amerika zur Weiterbildung in der chinesischen Medizin; Li Shuangze starb am 3. September 1977 an der Küste von Tamsui bei einer Rettungsaktion für einen ertrinkenden jungen Mann im Alter von nur 28 Jahren – seine Werke „Schöne Insel“ und „Junges China“, die er hinterließ, wurden später von Yang Zujun und Hu Defu aufgenommen[^2]. Viele Volksliedsänger verließen die Musikbühne vorübergehend oder dauerhaft aufgrund ihrer Lebensplanung.
+Nach dem Abschluss ihrer Ausbildung gingen viele Hauptfiguren der Bewegung für ein Studium ins Ausland oder leisteten Militärdienst, was zu einem Mangel an Nachwuchs führte. Yang Hsien ging nach seiner Veröffentlichung von „Xichu Yangguan“ 1977 in die USA, um traditionelle chinesische Medizin zu studieren. Li Shuang-ze starb im September 1977 tragischerweise bei dem Versuch, einen jungen Mann vor dem Ertrinken zu retten, an der Küste von Tamsui – er war erst 28 Jahre alt. Seine Werke „Beautiful Island“ und „Jugendliches China“, die er hinterließ, wurden später von Yang Tsu-chun und Hu De-fu fertig aufgenommen[^2]. Viele Folk-Sänger verließen die Musikbühne ebenfalls vorübergehend oder dauerhaft aufgrund ihrer Karriereplanung.
 
-### Wandel der sozialen Atmosphäre
+### Veränderung des gesellschaftlichen Klimas
 
-Am Ende der 1980er Jahre durchlief die taiwanesische Gesellschaft einen gewaltigen Wandel. Nach der Lockerung des Kriegsrechts (解嚴) entstand eine lokale Bewegung, und die Stimmung an den Universitäten wandte sich von der Kritik am kulturellen Hegemonie Chinas ab. Der Stil der lokalen Basis-Kultur begann, das frische Campus-Folk zu ersetzen.
+Ende der 1980er Jahre änderte sich das gesellschaftliche Klima in Taiwan drastisch. Nach der Aufhebung des Kriegsrechts entstand eine Bewegung zur Lokalisierung, und das Klima an den Universitäten wandte sich einer Kritik an der kulturellen Hegemonie des chinesischen Festlands zu. Ein lokaler, bodenständigerer Stil begann den frischen Campus-Folk abzulösen.
 
 ### Das zweischneidige Schwert der Kommerzialisierung
 
-Obwohl die Kommerzialisierung zur Verbreitung der Volkslieder führte, wurden die musikalischen Schöpfungen zunehmend formalisiert und verloren den ursprünglichen Geist der Unschuld und des Experiments.
+Obwohl die Kommerzialisierung dazu beitrug, dass Folk weit verbreitet wurde, führte sie auch dazu, dass die Musikproduktion zunehmst nach Formeln funktionierte und die frühe Unschuld sowie den experimentellen Geist verlor.
 
-## Erbe und Einfluss: Die rebellierenden Nachfolger
+## Erbe und Einfluss: Die rebellischen Erben
 
-Obwohl die Campus-Folk-Bewegung endete, beeinflusste ihr Erbe die spätere taiwanesische Popmusik tiefgreifend.
+Obwohl die Campus-Folk-Bewegung endete, beeinflusste ihr Erbe die spätere taiwanische Popmusik tiefgreifend.
 
-### Lo Ta-yu: Der rebellische Erbe der Volkslieder
+### Lo Ta-yu: Der rebellische Erbe des Folk
 
-Lo Ta-yu kann als der wichtigste rebellische Erbe der Volksliedbewegung angesehen werden. Er übernahm den Geist des „Singen des eigenen Liedes“ aus der Volksliedbewegung, lehnte jedoch die Sanftheit und Unschuld ab, und konzentrierte sich stattdessen auf gesellschaftliche Realitäten mit einer schärferen, kritischeren Art. Mit Werken wie „Zhīhūzhěyě“ und „Heia“ leitete Lo Ta-yu eine neue Ära der chinesischen Popmusik ein.
+Lo Ta-yu (羅大佑) kann als der wichtigste rebellische Erbe der Folk-Bewegung bezeichnet werden. Er übernahm den Geist des „Singens der eigenen Lieder“, lehnte jedoch die Sanftmut und Unschuld des Folk ab und wandte sich einer schärferen, kritischeren Auseinandersetzung mit der gesellschaftlichen Realität zu. Von „Zhi Hu Zhe Ye“ bis „Heimat (Jia)“ eröffnete Lo Ta-yu eine neue Ära der chinesischsprachigen Popmusik.
 
-### Die DNA der modernen unabhängigen Musik
+### Die DNA der modernen Independent-Musik
 
-Die heutigen unabhängigen Folk-Sänger wie Chen Qizhen, Chang Xuan und Lu Guangzhong haben tatsächlich die DNA der Volksliedbewegung geerbt. Sie schaffen Musik ebenfalls in ihrer eigenen Sprache und mit ihren eigenen Geschichten und thematisieren persönliche Gefühle und soziale Fragen, allerdings auf vielfältigere und individualisiertere Weise.
+Die heute hörbaren Independent-Folk-Sänger wie Cheer Chen (陳綺貞), LaLa Hsu (張懸) und Lu Guang-zhong (盧廣仲) tragen die DNA der Folk-Bewegung in sich. Auch sie erschaffen Musik mit ihrer eigenen Sprache und ihren eigenen Geschichten, konzentrieren sich auf persönliche Emotionen sowie gesellschaftliche Themen, drücken dies jedoch vielfältiger und individueller aus.
 
-### Der ewige Geist des „Singen des eigenen Liedes“
+### Der ewige Geist des „Singens der eigenen Lieder“
 
-Das größte Erbe der Volksliedbewegung ist der ewige Geist des „Singen des eigenen Liedes“. Sowohl die späteren neuen Volkslieder als auch der Rock und die heutige unabhängige Musik setzen diesen Geist in gewisser Weise fort – nämlich durch das Ausdrucken eigener Stimmen und die Beantwortung der Fragen der Zeit.
+Das größte Erbe der Folk-Bewegung ist der ewige Geist des „Singens der eigenen Lieder“. Ob es die spätere New-Folk-Welle, der Rock oder die heutige Independent-Musik ist – sie alle führen diesen Geist in gewisser Weise fort: Musik als Ausdruck der eigenen Stimme zu nutzen und mit Schöpfungskraft auf die Fragen der Zeit zu antworten.
 
-## Wiederbelebung und Erinnerung: Folk 40, Folk 50
+## Wiederbelebung und Nostalgie: Folk 40, Folk 50
 
-Im 21. Jahrhundert, als die Generation der Volksliedsänger mittleren Alters erreichte, begann sich eine nostalgische Stimmung zu entwickeln. Gedenkveranstaltungen wie „Folk 40“ und „Folk 50“ wurden abgehalten und brachten diese klassischen Lieder wieder in den öffentlichen Blick.
+Mit dem Eintritt in das 21. Jahrhundert und dem Älterwerden der Folk-Generation setzte eine Welle der Nostalgie ein. Gedenkveranstaltungen wie „Folk 40“ oder „Folk 50“ brachten diese Klassiker wieder ins öffentliche Bewusstsein.
 
-Doch diese Nostalgie zielte auf das Ideal ab, die Welt durch Musik zu verändern. In der heutigen kommerzialisierten und digitalisierten Musikwelt erscheinen die Unschuld und der Idealismus, die die Volksliedbewegung repräsentierte, als kostbar und berührend.
+Doch diese Nostalgie richtet sich auf das Ideal selbst, „die Welt mit Musik zu verändern“. In der heutigen kommerzialisierten und digitalisierten Musiklandschaft erscheinen die Unschuld und der Idealismus, die die Folk-Bewegung repräsentierte, umso kostbarer und bewegender.
 
 ## Fazit: Die Bedeutung der Stimme
 
-Die taiwanische Volksliedbewegung dauerte nur zehn Jahre, aber sie veränderte das gesamte Gesicht der chinesischen Musik. Sie bewies eine Sache: Eine Stimme trägt Identität, kulturelles Bewusstsein und den Geist einer Epoche in sich.
+Die taiwanische Folk-Bewegung dauerte nur zehn Jahre, veränderte aber das Gesicht der gesamten chinesischsprachigen Musik. Sie bewies eines: Stimmen tragen Identität, kulturelles Bewusstsein und den Zeitgeist in sich.
 
-Als Li Shuangze am Tamsui-College die Coca-Cola-Flasche zerbrach, fragte er nicht nur „Warum singen wir die Lieder von Ausländern?“, sondern auch „Wer sind wir?“ und „Was wollen wir werden?“. Diese Frage ist bis heute relevant und verdient es, dass jeder Schöpfer sie sich tiefgründig stellt.
+In dem Moment, als Li Shuang-ze im Tamkang College die Cola-Flasche zerschmetterte, verbarg sich hinter seiner Frage „Warum singen wir die Lieder der Ausländer?“ eigentlich die Frage: „Wer sind wir?“ und „Was wollen wir werden?“. Diese Frage ist heute noch genauso relevant und verdient es, dass jeder Schöpfer tief darüber nachdenkt.
 
-In der heutigen globalisierten Welt müssen wir vielleicht noch mehr darüber nachdenken: Was ist unsere wahre Stimme in dieser Welt voller verschiedener Geräusche? Wie können wir unsere kulturellen Wurzeln finden, während wir offen bleiben?
+In einer globalisierten Welt müssen wir vielleicht noch stärker fragen: In einer Welt voller Stimmen – was ist unsere wahre Stimme? Wie finden wir unsere kulturellen Wurzeln, während wir gleichzeitig offen bleiben?
 
-Die taiwanische Volksliedbewegung gibt uns die Antwort: Haben Sie keine Angst davor, mit Ihrer eigenen Sprache und Ihren eigenen Geschichten zu erschaffen. Denn nur so können wir eine Stimme hinterlassen, die wirklich unserer selbst ist.
+Die Antwort der taiwanischen Folk-Bewegung lautet: Haben Sie keine Angst davor, mit Ihrer eigenen Sprache und Ihren eigenen Geschichten zu kreieren. Denn nur so können wir in dieser Welt eine Stimme hinterlassen, die wirklich uns gehört.
 
-## Weiterführende Lektüre
+## Weiterführende Literatur
 
-- [Entwicklung der taiwanesischen Popmusik](/music/台灣流行音樂發展) – Die Hauptlinie der chinesischen Popmusik von Lo Ta-yu bis Chen Qizhen und Chang Xuan nach den Volksliedern
-- [Literatur in Taiwan nach der Lockerung des Kriegsrechts (解嚴)](/de/art/post-martial-law-taiwanese-literature) – Eine weitere kulturelle Bewusstseinsbewegung nach der Lockerung des Kriegsrechts im Jahr 1987, die vom Geist des „Singen des eigenen Liedes“ der Volkslieder abstammt
-- [Taiwanische Filme](/de/art/taiwanese-cinema) – Die Bewegung der Neuen taiwanesischen Filme aus derselben Zeit, eine weitere Achse des kulturellen Erwachens in Taiwan in den 1970er und 80er Jahren
-- [Sanmao (三毛)](/de/people/san-mao) – Originaltextautorin von „Olivenbaum“, deren Liedtexte nach der Überarbeitung weltweit verbreitet wurden
+- [Entwicklung der taiwanischen Popmusik](/music/台灣流行音樂發展) — Die Hauptachse der chinesischsprachigen Popmusik nach dem Folk, von Lo Ta-yu bis hin zu Cheer Chen und LaLa Hsu.
+- [Taiwanische Literatur nach dem Ende des Kriegsrechts](/de/art/post-martial-law-taiwanese-literature) — Eine weitere kulturelle Selbstbewusstseinsbewegung nach 1987, die denselben Ursprung wie der Geist des „Singens der eigenen Lieder“ hat.
+- [Taiwanese Film](/de/art/taiwanese-cinema) — Die zeitgenössische Taiwan New Cinema Bewegung, eine weitere Achse des kulturellen Erwachens in Taiwan in den 1970er und 80er Jahren.
+- [San Mao (三毛)](/de/people/san-mao) — Die ursprüngliche Lyrikerin von „Olivenbaum“, deren Texte nach der Vertonung die gesamte chinesischsprachige Welt eroberten.
 
 ---
 
-## Quellenverzeichnis
+## Referenzen
 
-[^1]: [Tamsui Wiki: Tamsui-Ereignis](http://tamsui.dils.tku.edu.tw/wiki/index.php/%E6%B7%A1%E6%B1%9F%E4%BA%8B%E4%BB%B6) — – Die Tamsui Wiki dokumentiert vollständig das „Tamsui-Ereignis“ vom 3. Dezember 1976 an der Tamsui College, einschließlich Zeit, Personen, Details vor Ort und Nachwirkungen
+[^1]: [Tamsui Wiki: Eintrag zum Tamkang-Vorfall](http://tamsui.dils.tku.edu.tw/wiki/index.php/%E6%B7%A1%E6%B1%9F%E4%BA%8B%E4%BB%B6) — Das Tamsui Wiki dokumentiert vollständig Zeit, Personen, Details vor Ort und die Folgen des Konzerts am Tamkang College am 03.12.1976.
 
-[^2]: [Fount Media: „Singe dein eigenes Lied!“ – Li Shuangze, der zu jung starb, beeinflusste viele Generationen von Schöpfern](https://www.fountmedia.io/article/104260) — – Eine Tiefenberichterstattung über das Leben von Li Shuangze, die Szene des Coca-Cola-Flaschenbruchs beim Tamsui-Ereignis und seine Schaffung von „Schöne Insel“ und „Junges China“ sowie dessen spirituelle Weitergabe an Nachfolger wie Hu Defu, Yang Xian und Lo Ta-yu
+[^2]: [Fount Media: „Singt eure eigenen Lieder!“ – Der früh verstorbene Li Shuang-ze beeinflusste Generationen von Künstlern](https://www.fountmedia.io/article/104260) — Ein Tiefbericht über das Leben von Li Shuang-ze, den Vorfall mit der Cola-Flasche und seine Werke „Beautiful Island“ sowie „Jugendliches China“ und deren geistiges Erbe für Nachfolger wie Hu De-fu, Yang Hsien und Lo Ta-yu.
 
-[^3]: [Cross-Strait Exchange Foundation: Sonderbeitrag Volkslieder 40](https://www.sef.org.tw/article-1-129-5006) — – Ein langer Rückblick zum 40-jährigen Jubiläum der Volkslieder, einschließlich des historischen Moments, als Yang Xian am 6. Juni 1975 in Zhongshan Hall Yu Guangzhongs „Vier Rhythmen der Heimwehsehnsucht“ erstmals komponierte
+[^3]: [Stiftung für den Austausch über die Straße (CCK) „Exchange Magazine“: Sonderbericht zum 40. Jubiläum des Folk](https://www.sef.org.tw/article-1-129-5006) — Ein langer Rückblick zum 40. Jubiläum des Folk, der den historischen Moment am 06.06.1975 im Zhongshan Hall beschreibt, als Yang Hsien erstmals Yu Kwang-chungs „Vier Gedichte der Nostalgie“ vertonte.
 
-[^4]: [Wikipedia: Campus-Folk](https://zh.wikipedia.org/zh-tw/%E6%A0%A1%E5%9C%92%E6%B0%91%E6%AD%8C) — – Der vollständige Artikel auf Wikipedia zu „Campus-Folk“, einschließlich der historischen Einordnung von Yang Xian als „Vater des modernen Volkslieds“ und dem Gesamtbild der Volksliedbewegung
+[^4]: [Wikipedia: Campus-Folk](https://zh.wikipedia.org/zh-tw/%E6%A0%A1%E5%9C%92%E6%B0%91%E6%AD%8C) — Der vollständige Artikel zur Campus-Folk-Bewegung in der chinesischen Wikipedia, einschließlich der historischen Einordnung von Yang Hsien als „Vater des modernen Folk“.
 
-[^5]: [Taiwanische Popmusik-Notizen, Taipei City Data Platform](https://data.taipei/dataset/detail?id=4cc90cd2-540d-4b51-a8dd-be72cb0e2892) — – Die offiziellen Daten aus der kulturellen Datenbank von Taipeh, die die Gesangswettbewerbe „Goldener Stimme“ (New Groove Records, 1977) und „Folk-Wind“ (Hai Shan Records, 1978) enthält
+[^5]: [„Memorandum der taiwanischen Popmusik“, Taipeh City Data Platform](https://data.taipei/dataset/detail?id=4cc90cd2-540d-4b51-a8dd-be72cb0e2892) — Eine Chronologie der taiwanischen Popmusik aus der Kulturdatenbank von Taipeh, mit offiziellen Daten zu den Golden Voice Awards (1977) und dem Folk-Style-Wettbewerb (1978).
 
-[^6]: [Wikipedia: Hu Defu](https://zh.wikipedia.org/zh-tw/%E8%83%A1%E5%BE%B7%E5%A4%AB) — – Der vollständige Artikel auf Wikipedia zu „Hu Defu“, einschließlich seiner musikalischen Ausbildung in der Tamsui College von 11 bis zum Abschluss und seiner historischen Rolle bei der Förderung der Volksliedbewegung des „Singen des eigenen Liedes“ zusammen mit Li Shuangze und Yang Xian in den 1970er Jahren
+[^6]: [Wikipedia: Hu De-fu](https://zh.wikipedia.org/zh-tw/%E8%83%A1%E5%BE%B7%E5%A4%AB) — Der vollständige Artikel über Hu De-fu in der chinesischen Wikipedia, der seine musikalische Prägung durch den Tamsui Tamkang High School Chor ab dem 11. Lebensjahr sowie seine Rolle in der Folk-Bewegung der 1970er Jahre beschreibt.
