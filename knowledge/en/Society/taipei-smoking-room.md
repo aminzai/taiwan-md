@@ -20,6 +20,15 @@ readingTime: 17
 lastVerified: 2026-07-13
 lastHumanReview: false
 featured: false
+sporeLinks:
+  - id: 155
+    platform: 'threads'
+    date: '2026-07-14'
+    url: 'https://www.threads.com/@taiwandotmd/post/DaxYe4Sk52Q'
+  - id: 156
+    platform: 'x'
+    date: '2026-07-14'
+    url: 'https://x.com/taiwandotmd/status/2076992601543327976'
 translatedFrom: 'Society/台北吸菸室.md'
 sourceCommitSha: '1929e495'
 sourceContentHash: 'sha256:38028701b07f0fef'

@@ -20,6 +20,15 @@ lastVerified: 2026-06-07
 lastHumanReview: false
 featured: true
 imageLicense: 'Fair use editorial commentary'
+sporeLinks:
+  - id: 128
+    platform: 'threads'
+    date: '2026-06-07'
+    url: 'https://www.threads.com/@taiwandotmd/post/DZSRQKnk3Vm'
+  - id: 129
+    platform: 'x'
+    date: '2026-06-07'
+    url: 'https://x.com/taiwandotmd/status/2063604185912987689'
 translatedFrom: 'People/黃山料.md'
 sourceCommitSha: '00939ce59'
 sourceContentHash: 'sha256:0b1bdd0cdf3b8705'

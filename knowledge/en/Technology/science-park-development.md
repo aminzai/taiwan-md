@@ -23,6 +23,15 @@ featured: true
 image: '/article-images/technology/hsinchu-science-park-tsmc-fab5-2010.webp'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:TSMC_Fab5.JPG'
+sporeLinks:
+  - id: 109
+    platform: 'threads'
+    date: '2026-05-29'
+    url: 'https://www.threads.com/@taiwandotmd/post/DY6a0JvEdd7'
+  - id: 110
+    platform: 'x'
+    date: '2026-05-29'
+    url: 'https://x.com/taiwandotmd/status/2060247955467325544'
 translatedFrom: 'Technology/科技園區發展.md'
 sourceCommitSha: 'bc725e8c'
 sourceContentHash: 'sha256:19e7a45a0852260f'
