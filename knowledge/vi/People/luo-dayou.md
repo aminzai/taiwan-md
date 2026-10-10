@@ -214,7 +214,7 @@ Bài viết này sử dụng 3 hình ảnh được cấp phép CC, tất cả �
 
 [^15]: [Baidu Baike: Vua đường Hoàng Hậu Hướng Đông](https://baike.baidu.com/item/皇后大道東) — Thu thập "Vua đường Hoàng Hậu Hướng Đông" phát hành tháng 1 năm 1991, giai điệu Lô Đại Hữu, lời Lâm Tịch, sắp xếp lại Hoa Tỷ Anh Dũng, do Lô Đại Hữu với Tưởng Chi Quang hát, cũng như giải thích của Lô Đại Hữu về cách nói kép của tên bài "con đường đi của nhân sinh".
 
-[^16]: [Wikipedia: Ngọc Hồ Phương Đông (giai điệu Lô Đại Hữu)](https://zh.wikipedia.org/zh-tw/東方之珠_(羅大佑曲作) — )) — Ghi chi tiết "Ngọc Hồ Phương Đông" phiên bản tiếng Quảng đông năm 1986 (giai điệu Lô Đại Hữu, lời Trịnh Quốc Giang, hát Quan Chính Kiệt) với phiên bản tiếng Quốc ngữ năm 1991 (Lô Đại Hữu tự viết lại lời) sự khác biệt, cũng như nhận xét của nhà phê bình âm nhạc "lời Trịnh thực tế mà lời Lô lại bay bổng"
+[^16]: [Wikipedia: Ngọc Hồ Phương Đông (giai điệu Lô Đại Hữu)](<https://zh.wikipedia.org/zh-tw/東方之珠_(羅大佑曲作)>) — )) — Ghi chi tiết "Ngọc Hồ Phương Đông" phiên bản tiếng Quảng đông năm 1986 (giai điệu Lô Đại Hữu, lời Trịnh Quốc Giang, hát Quan Chính Kiệt) với phiên bản tiếng Quốc ngữ năm 1991 (Lô Đại Hữu tự viết lại lời) sự khác biệt, cũng như nhận xét của nhà phê bình âm nhạc "lời Trịnh thực tế mà lời Lô lại bay bổng"
 
 [^17]: [Sina News: Nhà máy âm nhạc Lô Đại Hữu chuyển Bắc Kinh và họp báo Khổng Miếu](https://news.sina.cn/sa/2002-05-14/detail-ikkntiak6998184.d.html) — Báo cáo trực tiếp năm 2002, ghi chi tiết nhà máy âm nhạc chuyển sang Bắc Kinh, chuyến lưu diễn thế kỷ sau năm 2000 gỡ cấm ở đại lục, cũng như lời nói ở sân khấu họp báo Khổng Miếu Bắc Kinh "tôi cảm thấy đất dưới chân đang rung" của Lô Đại Hữu.
 
@@ -242,4 +242,4 @@ Bài viết này sử dụng 3 hình ảnh được cấp phép CC, tất cả �
 
 [^29]: [Hong Kong 01: Buổi hòa nhạc bảy mươi tuổi của Lô Đại Hữu "kẻ sống sót đáng kinh ngạc"](https://www.hk01.com/1057674) — Báo cáo buổi hòa nhạc bảy mươi tuổi của Lô Đại Hữu hát hai mươi bảy bài cộng năm bài piano, cũng trích dẫn lời nói "nhạc sĩ bị loại bỏ ít nhất bảy mươi phần trăm, ở sân khấu hôm nay đều là những kẻ sống sót đáng kinh ngạc" của ông tại sân khấu.
 
-[^30]: [Wikipedia: Đường Dọc Tuần Hoàn (ban nhạc)](https://zh.wikipedia.org/zh-tw/縱貫線_(樂團) — )) — Siêu ban nhạc có thời hạn Đường Dọc Tuần Hoàn (Superband) thành lập 2008, giải tán đầu tháng 1 năm 2010, bao gồm Lô Đại Hữu, Lý Tông Thịnh, Chu Hoa Kiện, Trương Chấn Nhạc bốn người, phát hành _Đoàn Tàu Bắc_ _Tuyến Chuyên Hướng Nam_ hai album, tổ chức lưu diễn thế giới hòa nhạc
+[^30]: [Wikipedia: Đường Dọc Tuần Hoàn (ban nhạc)](<https://zh.wikipedia.org/zh-tw/縱貫線_(樂團)>) — )) — Siêu ban nhạc có thời hạn Đường Dọc Tuần Hoàn (Superband) thành lập 2008, giải tán đầu tháng 1 năm 2010, bao gồm Lô Đại Hữu, Lý Tông Thịnh, Chu Hoa Kiện, Trương Chấn Nhạc bốn người, phát hành _Đoàn Tàu Bắc_ _Tuyến Chuyên Hướng Nam_ hai album, tổ chức lưu diễn thế giới hòa nhạc

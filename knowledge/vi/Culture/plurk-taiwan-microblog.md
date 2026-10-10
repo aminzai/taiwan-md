@@ -66,7 +66,7 @@ Thế giới mạng web thay đổi nhanh hơn đời sống thực. Nhưng Plur
 
 ## Tài liệu tham khảo
 
-[^1]: [Plurk người sáng lập Người Khắc Văn Bình "Tôi đang làm việc trên đám mây" — Báo Ánh Sáng](https://guangming.com.my/%E8%BF%B7%E7%B6%B2%E6%96%B0%E4%B8%96%E4%BB%A3%E8%BF%91%E4%B8%80%E7%BB%8F%E5%99%97%E6%B5%AAplurk%E5%89%B5%E8%BE%A6%E4%BA%BA%E9%9B%B2%E6%83%9F%E5%BD%AC%E2%80%A7%E6%88%91%E5%9C%A8) — (2009)
+[^1]: [Plurk người sáng lập Người Khắc Văn Bình "Tôi đang làm việc trên đám mây" — Báo Ánh Sáng](https://guangming.com.my/%E8%BF%B7%E7%B6%B2%E6%96%B0%E4%B8%96%E4%BB%A3%EF%BC%88%E4%B8%80%EF%BC%89%E2%80%A7%E5%99%97%E6%B5%AAplurk%E5%89%B5%E8%BE%A6%E4%BA%BA%E9%9B%B2%E6%83%9F%E5%BD%AC%E2%80%A7%E6%88%91%E5%9C%A8) — (2009)
 
 [^2]: [Chỉ dựa vào thành viên trả phí mà chuyển từ thua lỗ sang lợi nhuận! Nền tảng xã hội cổ điển Plurk làm thế nào duy trì sự trung thành của người dùng? — Yahoo Tin tức](https://tw.news.yahoo.com/%E5%83%85%E9%9D%A0%E4%BB%98%E8%B2%BB%E6%9C%83%E5%93%A1%E5%B0%B1%E8%BD%89%E8%99%A7%E7%82%BA%E7%9B%88-%E8%80%81%E7%89%8C%E7%A4%BE%E7%BE%A4%E5%AA%92%E9%AB%94%E5%99%97%E6%B5%AA%E5%A6%82%E4%BD%95%E9%9E%8F%E5%9B%BA%E4%BD%BF%E7%94%A8%E8%80%85%E5%BF%A0%E8%AA%A0%E5%BA%A6-090700200.html) — (2024)
 

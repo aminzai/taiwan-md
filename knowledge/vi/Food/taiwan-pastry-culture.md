@@ -164,7 +164,7 @@ Một miếng bánh chứa đựng thời gian, dài hơn bạn nghĩ.
 
 [^10]: [Báo cáo về bánh trứng dầu của Trần Duy Tín](https://blog.104.com.tw/yoshi-bakery-yolk-pastry/) — Báo cáo Trần Duy Tín – Bến tàu bánh mì YOSHI BAKERY sử dụng trứng dầu từ đất ngâm rượu, đậu hũ giảm đường, siro bánh bò chiến thắng, cùng thiết kế quy trình giao hòa công nghệ bánh mì kiểu châu Âu vào bánh trứng dầu truyền thống.
 
-[^11]: [Trang web chính thức của Trần Duy Tín – Bến tàu bánh mì YOSHI BAKERY](https://www.chenyunpaochuan.com.tw/) — Trang web chính thức của Trần Duy Tín – Bến tàu bánh mì YOSHI BAKERY, tiền đề Trung Thu 2025 dùng hệ thống bán vé truyền thông số, mở bán vào lúc 12:30 ngày 29 tháng 7, mỗi người giới hạn mua 8 hộp, giá 900 USD, không giao hàng nhà, phải đến cửa hàng lấy hàng.
+[^11]: [Trang web chính thức của Trần Duy Tín – Bến tàu bánh mì YOSHI BAKERY](https://www.nownews.com/news/6711245) — Trang web chính thức của Trần Duy Tín – Bến tàu bánh mì YOSHI BAKERY, tiền đề Trung Thu 2025 dùng hệ thống bán vé truyền thông số, mở bán vào lúc 12:30 ngày 29 tháng 7, mỗi người giới hạn mua 8 hộp, giá 900 USD, không giao hàng nhà, phải đến cửa hàng lấy hàng.
 
 [^12]: [Văn hóa bánh kẹp khoai lang của Thầy A Trương](https://www.o-nongs.com.tw/) — Tài liệu chính thức về bánh kẹp khoai lang sáng tạo của Thầy A Trương, ghi lại lịch sử làm món ăn đặc biệt tại bữa tiệc quốc gia, và câu chuyện truyền thống công nghệ bánh kẹp.
 

@@ -148,8 +148,8 @@ Hương vị này ngày nay không còn trông nó là “người từ đất l
 
 [^14]: [Kho tàng Văn hóa Quốc gia: Đánh đổ của tòa nhà Nhà máy Pu-li](https://tcmb.culture.tw/zh-tw/detail?id=650723&indexCode=Culture_Place) — mục nhập cơ sở dữ liệu chính phủ Bộ Văn hóa, ghi lại thiệt hại cụ thể của tòa nhà và tồn kho bị hỏng tổng cộng 1,1 tỷ đồng NT do động đất 921.
 
-[^15]: [Quỹ Nghiên cứu và Phát triển Tái thiết Đô thị: Tái thiết Nhà máy Pu-li](https://www.ur.org.tw/plan/category_view/42) — tài liệu kế hoạch năm 2000, ghi lại sự hỗ trợ của Quỹ và Công ty U-city trong việc hoàn thiện kế hoạch tái thiết đô thị, đánh dấu Pu-li là chỉ số chính để tái thiết kinh doanh.
+[^15]: [Quỹ Nghiên cứu và Phát triển Tái thiết Đô thị: Tái thiết Nhà máy Pu-li](https://museum.mof.gov.tw/singlehtml/cb87c7475a364683826c28cf785bad72?cntId=a501e4aef2f94902889cdc9f88fc7373) — tài liệu kế hoạch năm 2000, ghi lại sự hỗ trợ của Quỹ và Công ty U-city trong việc hoàn thiện kế hoạch tái thiết đô thị, đánh dấu Pu-li là chỉ số chính để tái thiết kinh doanh.
 
-[^16]: [Phòng Tài chính: Lịch sử tài chính của Công ty Rượu Lưu Đàn Đài Loan](https://museum.mof.gov.tw/singlehtml/cb87c7475a364683826c28cf785bad72?cntId=a501e4aef2f94902889cdc9f88fc7373) — tài liệu chính phủ Bộ Tài chính, từ doanh nghiệp nhà nước thời Nhật Bản năm 1898 đến năm 2002 Công ty Cổ phần Rượu Lưu Đàn Đài Loan chuyển đổi, bối cảnh lịch sử bảo hộ rượu qua 100 năm.
+[^16]: [Phòng Tài chính: Lịch sử tài chính của Công ty Rượu Lưu Đàn Đài Loan](https://www.ur.org.tw/plan/category_view/42) — tài liệu chính phủ Bộ Tài chính, từ doanh nghiệp nhà nước thời Nhật Bản năm 1898 đến năm 2002 Công ty Cổ phần Rượu Lưu Đàn Đài Loan chuyển đổi, bối cảnh lịch sử bảo hộ rượu qua 100 năm.
 
 [^17]: [Công ty Rượu Lưu Đàn Đài Loan: Rượu Shouxing kỷ niệm 20 năm 921](https://event.ttl.com.tw/pl/about/01main.aspx?cateid=236) — trang web sản phẩm chính thức, ghi lại rượu Shouxing được pha chế vào năm 1999, được cứu sống từ vùng đồng bẹp và sau 20 năm lưu trữ ra mắt phiên bản kỷ niệm.

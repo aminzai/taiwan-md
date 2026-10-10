@@ -434,7 +434,7 @@ Bài viết sử dụng 3 bức ảnh tác phẩm công khai, tất cả đượ
 
 [^28]: [Wikipedia Tiếng Trung: Ghi Chép Hoạt Động Chu Huệ](https://zh.wikipedia.org/zh-tw/%E5%91%A8%E8%95%99) — Mục Wikipedia Chu Huệ ghi lại 2015 tham gia bản Trung Quốc "Ca Sĩ Ẩn Giấu" tập thứ tư là ca sĩ gốc xuất hiện.
 
-[^29]: [Wikipedia Tiếng Trung: Ca Sĩ Mặt Nạ Đoán Đoán Đoán Mùa Thứ Nhất](https://zh.wikipedia.org/zh-tw/%E8%92%99%E9%9D%A2%E5%94%B1%E5%B0%86%E7%8C%9C%E7%8C%9C%E7%8C%9C_(%E7%AC%AC%E4%B8%80%E5%AD%A3) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — )) — ) — ) — )) — Mục Wikipedia Đài Truyền Hình Giang Tô "Ca Sĩ Mặt Nạ Đoán Đoán Đoán" mùa thứ nhất, verified Chu Huệ với mặt nạ "Tuần Lộc Nhà Ông Già Noel Không Có Nhà" lên sân khấu ngày 2016-09-18 lần phát sóng đầu tiên, bị đoán ra tập 3 ngày 10-02, hòa nhạc cuối năm cùng mùa hát "Tương Tư Gió Mưa" với Trương Học Hữu
+[^29]: [Wikipedia Tiếng Trung: Ca Sĩ Mặt Nạ Đoán Đoán Đoán Mùa Thứ Nhất](<https://zh.wikipedia.org/zh-tw/%E8%92%99%E9%9D%A2%E5%94%B1%E5%B0%86%E7%8C%9C%E7%8C%9C%E7%8C%9C_(%E7%AC%AC%E4%B8%80%E5%AD%A3)>) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — )) — ) — ) — )) — Mục Wikipedia Đài Truyền Hình Giang Tô "Ca Sĩ Mặt Nạ Đoán Đoán Đoán" mùa thứ nhất, verified Chu Huệ với mặt nạ "Tuần Lộc Nhà Ông Già Noel Không Có Nhà" lên sân khấu ngày 2016-09-18 lần phát sóng đầu tiên, bị đoán ra tập 3 ngày 10-02, hòa nhạc cuối năm cùng mùa hát "Tương Tư Gió Mưa" với Trương Học Hữu
 
 [^30]: [Sina Giải Trí: Hoạt Động Gần Đây Chu Huệ](https://k.sina.cn/article_1749990115_684ebae3020013kxt.html) — Phỏng vấn Sina đề cập Chu Huệ tham gia ghi âm chương trình "Buổi Hòa Nhạc Thời Gian" Trung Quốc năm 2024, như nguồn bổ sung cho khung hoạt động hai bờ.
 
@@ -454,6 +454,6 @@ Bài viết sử dụng 3 bức ảnh tác phẩm công khai, tất cả đượ
 
 [^39]: [YouTube: MV Chính Thức Chu Huệ "Thân Thay"](https://www.youtube.com/watch?v=WUKnbOlicps) — MV Chính Thức "Thân Thay" trên kênh chính thức Chu Huệ Where Chou, năm 2000 bài ngoại khóa cho bộ phim truyền hình "Phụ Nữ Vàng Bề" Đài Truyền Hình Trung Quốc Hồng Kông; từ sáng tác theo trang web lời bài hát mạng là Quý Trung Bình, nhưng dữ liệu bài hát chính thức Fukumoto chưa trực tiếp xác minh, được liệt kê dưới dạng single-source.
 
-[^40]: [Wikipedia Tiếng Trung: Công Nhân](https://zh.wikipedia.org/zh-tw/%E5%81%9A%E5%B7%A5%E7%9A%84%E4%BA%BA_(%E9%9B%BB%E8%A6%96%E5%8A%87) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — )) — ) — )) — Mục bộ phim truyền hình "Công Nhân" Wikipedia, verified lần đầu tiên phát sóng 2020-05-10 HBO Asia, Chu Huệ đóng vai Pei Pei (công nhân tạm thời bị bạo lực gia đình, nhân viên biết hát)
+[^40]: [Wikipedia Tiếng Trung: Công Nhân](<https://zh.wikipedia.org/zh-tw/%E5%81%9A%E5%B7%A5%E7%9A%84%E4%BA%BA_(%E9%9B%BB%E8%A6%96%E5%8A%87)>) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — )) — ) — )) — Mục bộ phim truyền hình "Công Nhân" Wikipedia, verified lần đầu tiên phát sóng 2020-05-10 HBO Asia, Chu Huệ đóng vai Pei Pei (công nhân tạm thời bị bạo lực gia đình, nhân viên biết hát)
 
 [^41]: [理財周刊：27 年一首約定 終於唱進小巨蛋《2026 好想好好愛周蕙 台北小巨蛋演唱會》](https://www.moneyweekly.com.tw/ArticleData/Info/Article/208052) — 記者會報導：4 月 25 日舉辦、門票 1 月 22 日中午 12 點開賣；中文維基百科〈周蕙〉演唱會表列此場為單一場次。2026-09-18 依讀者回報（issue #1746）更正，原「售罄加開」查無來源。

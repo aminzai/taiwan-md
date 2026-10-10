@@ -97,7 +97,7 @@ Năm năm trước, Thái Anh Văn chắc chắn không tưởng tượng rằng
 
 ## Tài liệu tham khảo
 
-[^1]: [Cha của quầy xào chiên gà đầu tiên Thái Anh Văn — Tạp chí Tài chính tuần tuần](http://www.moneyweekly.com.tw/Magazine/Info/%E7%90%86%E8%B2%A1%E5%91%A8%E5%88%8A/20800) — (2013)
+[^1]: [Cha của quầy xào chiên gà đầu tiên Thái Anh Văn — Tạp chí Tài chính tuần tuần](https://www.moneyweekly.com.tw/Magazine/Info/%E7%90%86%E8%B2%A1%E5%91%A8%E5%88%8A/20800) — (2013)
 
 [^2]: [Taiwan's 40 best foods and drinks — CNN Travel](http://www.cnn.com/travel/article/40-taiwan-food/index.html) — (2015)
 

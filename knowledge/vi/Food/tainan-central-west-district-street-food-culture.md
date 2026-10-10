@@ -123,7 +123,7 @@ Những kênh cảng không trở lại. Nhưng logic nuôi饱 công nhân bến
 - [Nguồn gốc và bí quyết canh bò Đài Nam](https://storycircle571.com/2024/12/17/%E5%88%B0%E5%8F%B0%E5%8D%97%EF%BC%8C%E4%B8%80%E5%AE%9A%E8%A6%81%E4%BE%86%E7%A2%97%E7%89%9B%E8%82%89%E6%B9%AF%EF%BC%81%E5%8F%B0%E5%8D%97%E7%89%9B%E8%82%89%E6%B9%AF%E7%9A%84%E7%B7%A3%E8%B5%B7%E3%80%81/)
 - [Mì ý cá chình — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5)
 - [Xào cá chình thế nào mới đáng là chân thành? — Độc lập bình luận @ Thiên hạ](https://opinion.cw.com.tw/blog/profile/194/article/8595)
-- [Thực ký Đài Nam. Lão bài mì ý cá chình ● Sa Ka Lý Ba cá chình Liêu — BoboTravel](https://bobotravel.tw/blog/post/153578723-%E9%A3%9F%E8%A8%98%E5%8F%B0%E5%8D%97%E3%80%82%E8%80%81%E7%89%8C%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5%E2%97%8F%E6%B2%99%E5%8D%A1%E9%87%8C%E5%B7%B4%E9%AD%9A%E5%BB%96)
+- [Thực ký Đài Nam. Lão bài mì ý cá chình ● Sa Ka Lý Ba cá chình Liêu — BoboTravel](https://bobotravel.tw/blog/post/153578723-%E9%A3%9F%E8%A8%98%E5%8F%B0%E5%8D%97%E3%80%82%E8%80%81%E7%89%8C%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5%E2%97%8F%E6%B2%99%E5%8D%A1%E9%87%8C%E5%B7%B4%E9%B1%94%E9%AD%9A%E5%BB%96)
 - [Ngũ Điều Cảng không thấy lại thời Thanh lãnh Đài Nam, di tích老街 truyền thừa văn tư cảng — CNA](https://www.cna.com.tw/news/acul/202501260043.aspx)
 - [Văn hóa và bản đồ canh bò Đài Nam](https://mytainan.com/tainan-food-drink/tainan-beef-soup/)
 - [Bán gần 70 năm canh bò đêm Đài Nam! Chuẩn bị tâm lý xếp hàng trước — ETtoday Du lịch Vân](https://travel.ettoday.net/article/2931941.htm)

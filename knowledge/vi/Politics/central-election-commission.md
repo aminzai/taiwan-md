@@ -195,7 +195,7 @@ Công bằng bầu cử không phải là lời nói suông, nó được nhữn
 
 [^3]: [Báo cáo Viện Lập pháp Tập 98 Kỳ 30](https://lis.ly.gov.tw/) — Hồ sơ thực thi Luật Tổ chức Ủy ban Bầu cử Trung ương năm 2009
 
-[^4]: [Wikipedia: Ủy ban Bầu cử Trung ương](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E9%81%B8%E8%88%89%E5%A7%94%E5%93%A1%E6%9C%83_(%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B) — )) — ) — Danh sách thành viên các kỳ và tổng hợp tranh cãi
+[^4]: [Wikipedia: Ủy ban Bầu cử Trung ương](<https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E9%81%B8%E8%88%89%E5%A7%94%E5%93%A1%E6%9C%83_(%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B)>) — )) — ) — Danh sách thành viên các kỳ và tổng hợp tranh cãi
 
 [^5]: Vương Nghiệp Lập (2016) 《So sánh Chế độ Bầu cử》 — Nhà xuất bản Ngũ Nam, phiên bản thứ sáu, chương Tiến hoá Hệ thống Bầu cử Hành chính Đài Loan
 

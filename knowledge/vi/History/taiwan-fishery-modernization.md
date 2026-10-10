@@ -39,7 +39,7 @@ Năm 1952, sản lượng ngư nghiệp ven bờ Đài Loan đạt 43.900 tấn.
 ## Băng của cảng Tiền Trấn đã đến trước đội tàu xa bờ
 
 ![Cảnh quan Cảng cá Cijin](https://upload.wikimedia.org/wikipedia/commons/b/b2/Cijin_Fishing_Port_in_Kaohsiung%2C_Taiwan.JPG)
-_Nguồn ảnh: Cijin Fishing Port in Kaohsiung, Taiwan, tác giả SSR2000, CC BY-SA 3.0._
+_Nguồn ảnh: Cijin Fishing Port in Kaohsiung, Taiwan, tác giả SSR2000, CC BY-SA 3.0. [Cijin Fishing Port in Kaohsiung, Taiwan](https://commons.wikimedia.org/wiki/File:Cijin_Fishing_Port_in_Kaohsiung,_Taiwan.JPG)_
 
 Sự tái thiết ngư nghiệp sau chiến tranh không bắt đầu từ một chiếc tàu xa bờ tiên tiến. Tài liệu lịch sử của Cục Ngư nghiệp liệt kê giai đoạn 1946 đến 1970 là thời kỳ phục hồi, trong đó chính phủ và tư nhân đã đầu tư vào các bến cảng trú ẩn cỡ nhỏ và vừa, nhà máy băng, xưởng đông lạnh, cơ sở trên bờ và tàu đánh cá cơ giới. Nếu cá không được bảo quản tươi sau khi cập bờ, việc tăng năng lực đánh bắt chỉ làm tăng hao hụt. Cảng và chuỗi lạnh đã đảm nhận công việc then chốt biến sản vật thành hàng hóa.[^2]
 
@@ -80,7 +80,7 @@ Ngư nghiệp xa bờ thường được hình dung như sự mở rộng của 
 Điều này cũng giải thích tại sao lịch sử ngư nghiệp Đài Loan không thể chỉ là một câu chuyện lãng mạn về "ngư dân chống lại đại dương". Thủy thủ chịu rủi ro trên biển, nhưng các gia đình trên bờ, nhà máy chế biến, xưởng đóng tàu, chợ cá và chính quyền địa phương cũng cùng gánh vác chi phí của ngành công nghiệp. Khi sản lượng tăng lên, lợi nhuận không nhất thiết được phân bổ đồng đều cho mọi khâu. Khi tài nguyên giảm hoặc quy tắc quốc tế siết chặt, những người chịu áp lực đầu tiên có thể là ngư dân nhỏ, thủy thủ lao động và các gia đình phụ thuộc vào một cảng duy nhất.[^5] [^8]
 
 ![Cảng cá Phú Cương](https://upload.wikimedia.org/wikipedia/commons/7/76/Taiwan_Fugang_Fishery_Harbor.JPG)
-_Nguồn ảnh: Taiwan Fugang Fishery Harbor, tác giả vegafish, CC BY-SA 2.5._
+_Nguồn ảnh: Taiwan Fugang Fishery Harbor, tác giả vegafish, CC BY-SA 2.5. [Taiwan Fugang Fishery Harbor](https://commons.wikimedia.org/wiki/File:Taiwan_Fugang_Fishery_Harbor.JPG)_
 
 ## Ao nuôi biến bờ biển thành một nhà máy khác
 
@@ -89,12 +89,12 @@ Hiện đại hóa ngư nghiệp không chỉ đẩy tàu ra xa mà còn giữ c
 Vấn đề của nghề nuôi trồng không thể được giải quyết chỉ bằng công nghệ. Tài nguyên đất đai có hạn, bệnh tật, dư lượng thuốc, chi phí và giá thị trường đều ảnh hưởng đến việc liệu một ao nuôi có thể tiếp tục hoạt động hay không. Tài liệu của Bộ Nông nghiệp cho thấy chính sách nuôi trồng sau năm 2000 chuyển sang nuôi trồng nước mặn, và liệt kê cá cảnh và cá mú là các ngành thúc đẩy công nghiệp. Sự chuyển đổi này đã biến ngư nghiệp từ việc theo đuổi quần thể tự nhiên thành quản lý môi trường nước, giống và rủi ro thị trường.[^1]
 
 ![Cảng cá Phú Cương và đê chắn sóng](https://upload.wikimedia.org/wikipedia/commons/9/99/2010_07_16390_5687_Taitung_City%2C_Taiwan%2C_Fugang_Fishing_Harbor%2C_Seawalls_in_Taiwan%2C_Commercial_fishing_in_Taitung_City.JPG)
-_Nguồn ảnh: Fugang Fishing Harbor, Taitung, tác giả Lord Koxinga, CC BY-SA 3.0._
+_Nguồn ảnh: Fugang Fishing Harbor, Taitung, tác giả Lord Koxinga, CC BY-SA 3.0. [Fugang Fishing Harbor, Taitung](https://commons.wikimedia.org/wiki/File:2010_07_16390_5687_Taitung_City,_Taiwan,_Fugang_Fishing_Harbor,_Seawalls_in_Taiwan,_Commercial_fishing_in_Taitung_City.JPG)_
 
 ## Cảng cá bắt đầu học cách đón khách du lịch
 
 ![Cảng cá Mật Đà](https://upload.wikimedia.org/wikipedia/commons/0/05/Mituo_fishing_harbor_06.jpg)
-_Nguồn ảnh: Mituo fishing harbor 06, tác giả Reke, CC BY-SA 4.0._
+_Nguồn ảnh: Mituo fishing harbor 06, tác giả Reke, CC BY-SA 4.0. [Mituo fishing harbor 06](https://commons.wikimedia.org/wiki/File:Mituo_fishing_harbor_06.jpg)_
 
 Khi tài nguyên gần bờ suy giảm và thu nhập từ đánh bắt truyền thống không ổn định, các cảng cá cũng tìm kiếm chức năng mới. Tài liệu của Cục Ngư nghiệp ghi lại rằng sau khi dỡ bỏ lệnh giới nghiêm vào năm 1987, chính phủ đã mở rộng các hoạt động giải trí trên biển; và vào năm 1999, đã thúc đẩy kế hoạch đa dạng hóa chức năng cảng cá, dẫn đến sự ra đời của các cảng du lịch và bến tàu ngư dân. Cảng cá lúc này phục vụ đồng thời cho tàu thuyền, hải sản, khách du lịch và thương hiệu địa phương.[^2]
 
@@ -127,12 +127,12 @@ Chuỗi thị trường cũng thay đổi khoảng cách giữa người tiêu d
 Sau khi chuỗi cung ứng mở rộng, các bên tham gia thị trường cần kiến thức mới. Chợ cá phải nhận dạng loài và chất lượng; ngành đông lạnh phải nắm bắt nhiệt độ và hàng tồn kho; nhà xuất khẩu phải hiểu các quy định vệ sinh và nhãn mác của các quốc gia khác nhau; còn chính phủ phải đặt dữ liệu hải sản, dữ liệu tàu thuyền và quy tắc bảo tồn vào cùng một khuôn khổ quản lý. Do đó, thành quả của sự hiện đại hóa bao gồm một hệ thống dữ liệu. Nếu dữ liệu chỉ nằm trong bảng biểu riêng của doanh nghiệp, cảng hoặc cơ quan quản lý, người tiêu dùng sẽ khó đánh giá nguồn gốc và chi phí môi trường của một sản phẩm thủy sản. Dữ liệu công khai và có thể kiểm tra lẫn nhau cho phép ngư dân, chính phủ và người tiêu dùng thảo luận về việc sử dụng tài nguyên trên cùng một cơ sở thông tin. Đây cũng là công tác nền tảng mà sự chuyển đổi ngành ngư nghiệp ngày nay vẫn cần hoàn thành.[^1] [^5]
 
 ![Cảng cá Vĩnh An](https://upload.wikimedia.org/wikipedia/commons/1/17/Taiwan_Yong-an_Fishery_Harbor.jpg)
-_Nguồn ảnh: Taiwan Yong-an Fishery Harbor, tác giả Mnb, CC BY-SA 2.5._
+_Nguồn ảnh: Taiwan Yong-an Fishery Harbor, tác giả Mnb, CC BY-SA 2.5. [Taiwan Yong-an Fishery Harbor](https://commons.wikimedia.org/wiki/File:Taiwan_Yong-an_Fishery_Harbor.jpg)_
 
 ## Từ quốc gia sản lượng đến quốc kỳ có trách nhiệm
 
 ![Cảng cá Trịnh Tân](https://upload.wikimedia.org/wikipedia/commons/8/88/Zhengbin_Fishing_Port%2C_Keelung%2C_Taiwan_2019.jpg)
-_Nguồn ảnh: Zhengbin Fishing Port, Keelung, Taiwan 2019, tác giả bryan..., CC BY-SA 2.0._
+_Nguồn ảnh: Zhengbin Fishing Port, Keelung, Taiwan 2019, tác giả bryan..., CC BY-SA 2.0. [Zhengbin Fishing Port, Keelung, Taiwan 2019](https://commons.wikimedia.org/wiki/File:Zhengbin_Fishing_Port,_Keelung,_Taiwan_2019.jpg)_
 
 Sự tăng trưởng của ngư nghiệp Đài Loan trong nửa sau thế kỷ XX đã để lại năng lực công nghiệp rõ ràng. Tàu thuyền có thể hoạt động ở ba đại dương, kỹ thuật nuôi trồng có thể sản xuất số lượng lớn cá giống, và cảng cùng thiết bị đông lạnh có thể đưa cá đến các thị trường xa xôi. Nhưng khả năng công nghiệp càng lớn thì trách nhiệm bên ngoài càng khó tránh khỏi. Quốc kỳ phải biết tàu của mình đang hoạt động ở đâu; các quy tắc bảo tồn do tổ chức khu vực yêu cầu không chỉ nên dừng lại ở tài liệu hội nghị, mà cả quy trình lao động và chuyển giao cũng phải được theo dõi.[^5] [^9]
 

@@ -103,10 +103,10 @@ Thách thức đáng kể hơn đến từ các vấn đề xã hội. Trong 10 
 
 [^12]: [Giáo hội Long Lão trong thời kỳ hóa học nhân bản](https://www.facebook.com/hsuchungmaostudio4364/posts/1576595971139385/) — Nhà xuất bản Hồ Sương Mao, 2026-04-20
 
-[^13]: [Sau khi hoàn thành lễ hội, nhận bột: Thảo luận về giáo hội trong thời kỳ hỗ trợ Mỹ](https://resources.abs.edu/%E5%81%9D%E5%AE%8C%E7%A6%AE%E6%8B%9C%E6%8B%BF%E9%BA%B5%E7%B2%89%EF%BC%9A%E6%B7%BA%E8%AB%87%E6%88%B0%E5%BE%8B%E7%BE%8E%E6%8F%B4%E4%B8%8B%E7%9A%84%E5%8F%B0%E7%81%A3%E6%95%99%E6%9C%83/) — Zheng Luu Quân (xem chi tiết tài liệu gốc)
+[^13]: [Sau khi hoàn thành lễ hội, nhận bột: Thảo luận về giáo hội trong thời kỳ hỗ trợ Mỹ](https://resources.abs.edu/%E5%81%9A%E5%AE%8C%E7%A6%AE%E6%8B%9C%E6%8B%BF%E9%BA%B5%E7%B2%89%EF%BC%9A%E6%B7%BA%E8%AB%87%E6%88%B0%E5%BE%8C%E7%BE%8E%E6%8F%B4%E4%B8%8B%E7%9A%84%E5%8F%B0%E7%81%A3%E6%95%99%E6%9C%83/) — Zheng Luu Quân (xem chi tiết tài liệu gốc)
 
 [^14]: [Thời kỳ hỗ trợ Mỹ—Tài nguyên cứu trợ](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Media&id=684330) — Kho lưu Văn hóa Quốc gia
 
-[^15]: [Người đi xe đạp—50 năm giáo hội Mormon tới Đài Loan](https://www.taiwan-panorama.com/Articles/Details?Guid=1d427200-3a0a-4b01-87d5-37760108f9f4&CatId=8&postname=%E5%96%AE%E8%BB%8A%E4%B8%8A%E7%9A%84%E4%BD%BF%E5%BE%92%E2%94%80%E2%94%80%E6%91%A9%E9%96%86%E6%95%99%E4%BE%8B%E5%8F%B050%E5%B9%B4&srsltid=AfmBOoolyJazgXD1D8uOkK8Qfe17gjE3PBMje9MxLHVeYVtU5UpPbRos) — Tạp chí Đài Loan Pha trương
+[^15]: [Người đi xe đạp—50 năm giáo hội Mormon tới Đài Loan](https://www.taiwan-panorama.com/Articles/Details?Guid=1d427200-3a0a-4b01-87d5-37760108f9f4&CatId=8&postname=%E5%96%AE%E8%BB%8A%E4%B8%8A%E7%9A%84%E4%BD%BF%E5%BE%92%E2%94%80%E2%94%80%E6%91%A9%E9%96%80%E6%95%99%E4%BE%86%E5%8F%B050%E5%B9%B4&srsltid=AfmBOoolyJazgXD1D8uOkK8Qfe17gjE3PBMje9MxLHVeYVtU5UpPbRos) — Tạp chí Đài Loan Pha trương
 
 [^16]: [Khi còn 19 tuổi, người truyền giáo ngoại quốc đi du lịch bằng xe đạp](https://fion.news/index.php?pn=vw&id=485n1rof1ptc) — Fion News, 2023-11-29

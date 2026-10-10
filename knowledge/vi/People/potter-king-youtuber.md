@@ -71,7 +71,7 @@ Sau khi tự do độc lập, Boster Vua chuyển hướng nội dung về phía
 
 [^2]: [Boster Vua tự kể về quá khứ: Cha mẹ đã ly hôn khi con còn nhỏ, bà ngoại đã chăm sóc con!] — [https://www.setn.com/m/news.aspx?newsid=1152723](https://www.setn.com/m/news.aspx?newsid=1152723) — Mạng Tin Ba Lãnh, ngày 28 tháng 7 năm 2022.
 
-[^3]: [Boster Vua bật mí về quá khứ "giáo dục đời thứ hai": Mức độ khó khăn của bản sao được thiết lập cao](https://tw.news.yahoo.com/%E6%B3%A2%E7%89%B9%E7%8E%8B-%E9%9A%94%E4%BB%A7%E6%95%99%E9%A4%8A-%E8%BA%AB%E4%B8%96%E6%9B%9D%E5%85%89-%E8%87%AA%E6%88%91%E5%96%8A%E8%A9%B1-%E4%BA%BA%E7%94%9F%E5%89%AF%E6%9C%AC%E9%9B%A3%E5%BA%A6%E8%A8%AD%E5%AE%9A%E5%BE%97%E8%BC%82%E9%AB%98-075705658.html) — Yahoo Tin Tức, ngày 29 tháng 7 năm 2022.
+[^3]: [Boster Vua bật mí về quá khứ "giáo dục đời thứ hai": Mức độ khó khăn của bản sao được thiết lập cao](https://tw.news.yahoo.com/%E6%B3%A2%E7%89%B9%E7%8E%8B-%E9%9A%94%E4%BB%A3%E6%95%99%E9%A4%8A-%E8%BA%AB%E4%B8%96%E6%9B%9D%E5%85%89-%E8%87%AA%E6%88%91%E5%96%8A%E8%A9%B1-%E4%BA%BA%E7%94%9F%E5%89%AF%E6%9C%AC%E9%9B%A3%E5%BA%A6%E8%A8%AD%E5%AE%9A%E5%BE%97%E8%BC%83%E9%AB%98-075705658.html) — Yahoo Tin Tức, ngày 29 tháng 7 năm 2022.
 
 [^4]: [Xem lại vụ việc Boster Vua để hiểu hơn về ngành nội dung số và thị trường Trung Quốc của Đài Loan](https://www.feja.org.tw/48487) — Thưa Kiếu Nhiệt, Quỹ Tài trợ Báo chí Vang Dần, ngày 5 tháng 1 năm 2020.
 
@@ -83,9 +83,9 @@ Sau khi tự do độc lập, Boster Vua chuyển hướng nội dung về phía
 
 [^8]: [Boster Vua đập tan băng đáy! Tòa án xác nhận vi phạm trước khi bắt buộc trả lại hàng trăm triệu USD lợi nhuận](https://www.nownews.com/news/6808009) — Báo Ngày Hôi, ngày 16 tháng 4 năm 2026.
 
-[^9]: [Boster Vua thua vụ! Tòa án quyết định trả lại 28 triệu USD lợi nhuận, đối tác trước phát biểu](https://tw.news.yahoo.com/%E6%B3%A2%E7%89%B9%E7%8E%8B%E6%95%97%E8%A8%B4-%E6%B3%95%E9%99%A8%E5%88%A4%E9%9C%80%E8%BF%94%E9%82%8B%E5%89%8D%E6%9D%B6%E5%AE%B6284%E8%90%B6-075700107.html) — Yahoo Tin Tức, ngày 16 tháng 4 năm 2026.
+[^9]: [Boster Vua thua vụ! Tòa án quyết định trả lại 28 triệu USD lợi nhuận, đối tác trước phát biểu](https://tw.news.yahoo.com/%E6%B3%A2%E7%89%B9%E7%8E%8B%E6%95%97%E8%A8%B4-%E6%B3%95%E9%99%A2%E5%88%A4%E9%9C%80%E8%BF%94%E9%82%84%E5%89%8D%E6%9D%B1%E5%AE%B6284%E8%90%AC-075700107.html) — Yahoo Tin Tức, ngày 16 tháng 4 năm 2026.
 
-[^10]: [Boster Vua đột nhiên xóa 485 video trên kênh, tự kể nguyên nhân: Rất tiếc khiến mất điều đó](https://tw.news.yahoo.com/%E6%B3%A2%E7%89%B9%E7%8E%8B%E7%AA%81%E5%88%AA%E9%A0%BB%E9%81%93485%E6%94%AF%E5%BD%B1%E7%89%87-%E8%A6%AA%E6%8F%AD%E5%8E%9F%E5%9B%A0%E5%98%8B-%E5%8F%AF%E6%83%9C%E9%80%99%E9%83%A8%E7%89%87%E6%B2%92%E4%BA%86-052121377.html) — Yahoo Tin Tức, ngày 2 tháng 9 năm 2024.
+[^10]: [Boster Vua đột nhiên xóa 485 video trên kênh, tự kể nguyên nhân: Rất tiếc khiến mất điều đó](https://tw.news.yahoo.com/%E6%B3%A2%E7%89%B9%E7%8E%8B%E7%AA%81%E5%88%AA%E9%A0%BB%E9%81%93485%E6%94%AF%E5%BD%B1%E7%89%87-%E8%A6%AA%E6%8F%AD%E5%8E%9F%E5%9B%A0%E5%98%86-%E5%8F%AF%E6%83%9C%E9%80%99%E9%83%A8%E7%89%87%E6%B2%92%E4%BA%86-052121377.html) — Yahoo Tin Tức, ngày 2 tháng 9 năm 2024.
 
 [^11]: [Nền tảng nội dung số 1 triệu follower Boster Vua đã xóa "485 video"! Giải thích vì sao "cô ấy" đang dừng lại không thể xem lại](https://www.ftvnews.com.tw/news/detail/2024903W0016) — Mạng Tin FTV, ngày 3 tháng 9 năm 2024.
 

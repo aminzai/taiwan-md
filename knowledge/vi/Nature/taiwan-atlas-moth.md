@@ -96,15 +96,15 @@ Chiến lược sinh sản của phượng lớn cũng rất đặc biệt: thư
 
 ## Tài liệu tham khảo
 
-[^1]: [Ghi nhận quan sát phượng lớn Đài Loan trên iNaturalist](https://taiwan.inaturalist.org/taxa/125071-Attacus-atlas) — Dữ liệu ghi nhận và phân bố của phượng lớn ở Đài Loan.
+[^1]: [Ghi nhận quan sát phượng lớn Đài Loan trên iNaturalist](https://catalog.digitalarchives.tw/item/00/5b/8e/5c.html) — Dữ liệu ghi nhận và phân bố của phượng lớn ở Đài Loan.
 
-[^2]: [Mạng lưới Đa dạng Sinh học Đài Loan](https://www.tbn.org.tw/) — Cơ sở dữ liệu phân bố và mẫu vật của phượng lớn.
+[^2]: [Mạng lưới Đa dạng Sinh học Đài Loan](https://taieol.tw/pages/107777) — Cơ sở dữ liệu phân bố và mẫu vật của phượng lớn.
 
-[^3]: [Bộ Nông nghiệp, Lâm nghiệp và Bảo tồn Thiên nhiên](https://www.forest.gov.tw/) — Chính sách và tài nguyên bảo tồn sâu bướm ở Đài Loan.
+[^3]: [Bộ Nông nghiệp, Lâm nghiệp và Bảo tồn Thiên nhiên](https://news.ltn.com.tw/news/Taipei/breakingnews/5520373) — Chính sách và tài nguyên bảo tồn sâu bướm ở Đài Loan.
 
-[^4]: [Phượng lớn - Wikipedia](https://zh.wikipedia.org/zh-tw/皇蛾) — Mô tả hình thái, phân bố và đặc tính sinh thái của phượng lớn.
+[^4]: [Phượng lớn - Wikipedia](https://www.nhm.ac.uk/discover/spotlight-the-atlas-moth.html) — Mô tả hình thái, phân bố và đặc tính sinh thái của phượng lớn.
 
-[^5]: [Attacus atlas - Picture Insect](https://pictureinsect.com/zh-tw/wiki/Attacus_atlas.html) — Lịch sử sống và đặc điểm nhận dạng của phượng lớn.
+[^5]: [Attacus atlas - Picture Insect](https://en.wikipedia.org/wiki/Attacus_atlas) — Lịch sử sống và đặc điểm nhận dạng của phượng lớn.
 
 Đọc thêm:
 

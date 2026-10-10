@@ -336,7 +336,7 @@ Bài viết dùng 8 hình ảnh, toàn bộ bộ nhớ tạm tại `public/artic
 
 [^24]: [Wikipedia: Nước Yên Công Ty](https://zh.wikipedia.org/zh-tw/顏社企業) — Lưu hành Nước Yên KAO!INC. năm 2005 bởi Trương Dịch Thánh (Trương Dịch Thánh) thành lập ở Tây Nước, đường Thơ tế Jazz lộ trình cùng ghi chép dưới người thực hành.
 
-[^25]: [Wikipedia: Trứng Pháo](https://zh.wikipedia.org/zh-tw/蛋堡_(音樂人) — )) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — )) — ) — ) — )) — Lưu hành Đỗ Chấn Hùng (Trứng Pháo) Nước Yên thời kỳ, <Ánh sáng Mặt trăng> (2010, cùng JABBERLOOP), <Âm nhạc Gia thường> (2020) được trao giải Người hát Hoa Ngữ hay nhất cùng Album hay nhất kép lần 32 (2021) Kim Khúcghi chép
+[^25]: [Wikipedia: Trứng Pháo](<https://zh.wikipedia.org/zh-tw/蛋堡_(音樂人)>) — )) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — )) — ) — ) — )) — Lưu hành Đỗ Chấn Hùng (Trứng Pháo) Nước Yên thời kỳ, <Ánh sáng Mặt trăng> (2010, cùng JABBERLOOP), <Âm nhạc Gia thường> (2020) được trao giải Người hát Hoa Ngữ hay nhất cùng Album hay nhất kép lần 32 (2021) Kim Khúcghi chép
 
 [^26]: [Kim KhúcGMA Trang Facebook Chính thức (2021-08-21): Người hát Hoa Ngữ hay nhất Đỗ Chấn Hùng / Âm nhạc Gia thường](https://www.facebook.com/GMAGMF/photos/a.1461235614113582/3026470250923436/) — Bài viết trang Facebook Kim Khúcchính thức tối nay lễ trao giải, ghi lại nguyên văn cảm ơn Trứng Pháo "Tôi hôm nay muốn để giải thưởng cho gia đình cùng bà mẹ ruột dì em, để cho Trúc Giúp cũng như anh em Nước Yên, để cho Tap Đài Loan, cùng Bảo Anh ở trời"; KKBOX báo cáo cùng ghi chú Bảo Anh tức "Đại Bảo Giám đốc".
 

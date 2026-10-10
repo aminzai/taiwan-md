@@ -367,7 +367,7 @@ Chiến trường tối hậu của chiến tranh nhận thức là **bản thâ
 
 [^56]: [Điều tra Trang trại nội dung: Người cao tuổi chủ động kiểm chứng](https://www.twreporter.org/a/information-warfare-business-disinformation-fake-news-behind-line-groups) — Người đưa tin, người cao tuổi 30% báo cáo chủ động
 
-[^57]: [Tố chất Thuật toán Phê phán Critical Algorithmic Literacy](https://rcais.medium.com/ai%E4%BD%9C%E7%82%BA%E5%AA%92%E4%BB%8B-%E8%A9%A6%E8%9B%A8%E6%89%B9%E5%88%A4%E6%BC%94%E7%AE%97%E6%B3%95%E7%B4%A0%E9%A4%8A-critical-algorithmic-literacy-%E7%9A%84%E5%85%A7%E6%B6%B5-dde8235a0a4e) — Trung tâm Nghiên cứu Xã hội AI Đại học Đông Ngô RCAIS
+[^57]: [Tố chất Thuật toán Phê phán Critical Algorithmic Literacy](https://rcais.medium.com/ai%E4%BD%9C%E7%82%BA%E5%AA%92%E4%BB%8B-%E8%A9%A6%E8%AB%96%E6%89%B9%E5%88%A4%E6%BC%94%E7%AE%97%E6%B3%95%E7%B4%A0%E9%A4%8A-critical-algorithmic-literacy-%E7%9A%84%E5%85%A7%E6%B6%B5-dde8235a0a4e) — Trung tâm Nghiên cứu Xã hội AI Đại học Đông Ngô RCAIS
 
 [^58]: [StopFake và NAFO: Tự tổ chức dân sự Ukraina](https://www.twreporter.org/a/russian-invasion-of-ukraine-2022-stopfake) — Người đưa tin, phản công chiến thuật cấp dân sự sau 2022
 

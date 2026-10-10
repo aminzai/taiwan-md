@@ -131,7 +131,7 @@ Trong thời đại biến đổi nhanh chóng này, chú âm phù hiệu nhắc
 
 [^1]: Bộ Giáo dục Trung Hoa Dân Quốc (Đài Loan), _Hướng dẫn giảng dạy chú âm phù hiệu_, bản năm 2024, https://language.moe.gov.tw/
 
-[^2]: Wikipedia, mục “Chú âm phù hiệu”, https://zh.wikipedia.org/wiki/%E6%B3%A8%E9%9F%B3%E7%AC%A6%E8%99%9F
+[^2]: Wikipedia, mục “Chú âm phù hiệu”, https://zh.wikipedia.org/wiki/%E6%B3%A8%E9%9F%B3%E7%AC%A6%E8%99%9F （<https://zh.wikipedia.org/wiki/注音符號>）
 
 [^3]: Ủy ban Phổ biến Quốc ngữ thuộc Bộ Giáo dục Trung Hoa Dân Quốc (Đài Loan), _Lịch sử phát triển của chú âm phù hiệu_, năm 1978; Mạng Thành tựu Ngôn ngữ của Bộ Giáo dục, https://language.moe.gov.tw/
 

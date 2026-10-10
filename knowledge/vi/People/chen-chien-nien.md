@@ -228,7 +228,7 @@ Bài viết sử dụng 3 hình ảnh có giấy phép CC BY-SA 4.0, toàn bộ 
 
 ## Tài liệu tham khảo
 
-[^1]: [Trần Kiến Niên (ca sĩ) — Từ điển bách khoa Việt tự do](https://zh.wikipedia.org/zh-tw/%E9%99%B3%E5%BB%BA%E5%B9%B4_(%E6%AD%8C%E6%89%8B) — ) — )) — Mục nhập từ điển bách khoa Việt tự do Trần Kiến Niên, ghi chép ngày sinh 1 tháng 8 năm 1967, xuất phát từ bản Sakuban, quan hệ ngoại ông Lục Sâm Bảo, tốt nghiệp khóa cảnh sát 114, năm 2000 tháng 9 chuyển công tác Đảo Lan Tự, năm 2017 tháng 9 nghỉ hưu làm phó giám đốc nhà chỉ huy phân trạm Đảo Lan Tự
+[^1]: [Trần Kiến Niên (ca sĩ) — Từ điển bách khoa Việt tự do](<https://zh.wikipedia.org/zh-tw/%E9%99%B3%E5%BB%BA%E5%B9%B4_(%E6%AD%8C%E6%89%8B)>) — ) — )) — Mục nhập từ điển bách khoa Việt tự do Trần Kiến Niên, ghi chép ngày sinh 1 tháng 8 năm 1967, xuất phát từ bản Sakuban, quan hệ ngoại ông Lục Sâm Bảo, tốt nghiệp khóa cảnh sát 114, năm 2000 tháng 9 chuyển công tác Đảo Lan Tự, năm 2017 tháng 9 nghỉ hưu làm phó giám đốc nhà chỉ huy phân trạm Đảo Lan Tự
 
 [^2]: [Baliwakes Lục Sâm Bảo — Cơ sở dữ liệu ảnh các nhạc sĩ Đài Loan, Trung tâm âm nhạc Đài Loan của Viện Lưu giữ Văn hóa truyền thống Quốc gia](http://musiciantw.ncfta.gov.tw/list.aspx?p=M037&c=&t=1) — Tệp nhạc sĩ cấp quốc gia chính thức, ghi chép Lục Sâm Bảo 1910-1988, tốt nghiệp Trường Sư phạm Đài Nam, sau Thế chiến II bắt đầu từ những năm 1950s sáng tác bằng tiếng Bì Nam "Núi Bì Nam" "Tuyên bố tổ tiên" "Bông lúa xinh đẹp" "Nhớ quê hương" "Tình yêu Đảo Lan Tự" và các bài ca khúc khác, được tôn kính là "cha đẻ âm nhạc Bì Nam".
 

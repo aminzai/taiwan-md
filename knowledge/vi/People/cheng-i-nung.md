@@ -221,7 +221,7 @@ Album cô sẽ phát hành sau này sẽ là ngôn ngữ nào, chủ đề gì, 
 
 [^2]: [Lời cảm ơn Zheng Yilong giải thưởng ngày Yilan Lễ hội Nhạc Kinh Mạc 34 — Central News Agency](https://www.cna.com.tw/news/amov/202307010206.aspx) — Zheng Yilong trong lời cảm ơn giải thưởng Lễ hội Nhạc Kinh Mạc 34 nói: "Giáo hội ngôn ngữ ngày Yilan khiến tôi kèm đầu. Nó dạy tôi làm chậm lại, dạy tôi suy nghĩ chăm chú từng chữ, từng câu văn."
 
-[^3]: [Zheng Yilong — Wikipedia tiếng Trung](https://zh.wikipedia.org/zh-tw/%E9%84%AD%E5%AE%9E%E8%BE%B2) — sinh ngày 19 tháng 3 năm 1987, ngụ quán Yilan; cha là đạo diễn Zheng Wenhao, mẹ là người ca sĩ giàu kinh nghiệm (từng làm việc tại nhà hàng + tham gia cuộc thi Năm Vì Năm); học ngành Học trường Đại học Dầu khí, năm 2007 nghỉ học để tập trung sáng tác.
+[^3]: [Zheng Yilong — Wikipedia tiếng Trung](https://zh.wikipedia.org/zh-tw/%E9%84%AD%E5%AE%9C%E8%BE%B2) — sinh ngày 19 tháng 3 năm 1987, ngụ quán Yilan; cha là đạo diễn Zheng Wenhao, mẹ là người ca sĩ giàu kinh nghiệm (từng làm việc tại nhà hàng + tham gia cuộc thi Năm Vì Năm); học ngành Học trường Đại học Dầu khí, năm 2007 nghỉ học để tập trung sáng tác.
 
 [^4]: [Zheng Wenhao — Wikipedia tiếng Trung](https://zh.wikipedia.org/zh-tw/%E9%84%AD%E6%96%87%E5%A0%82) — sinh năm 1958 tại Yilan; vào năm 1984 gia nhập "Nhóm màu xanh lá" để quay các tài liệu chính trị xã hội; với đề tài chính "Đảo rẽ" giành giải phim tốt nhất nhà nghệ sĩ quốc tế tuần hội Kinh Mạc, vàng 44.
 

@@ -158,7 +158,7 @@ Bài viết sử dụng 7 bức ảnh có phạm vi công cộng/CC, toàn bộ 
 
 - [TSMC Fab 5 tại Bắc Kinh](https://commons.wikimedia.org/wiki/File:TSMC_Fab5.JPG) — Ảnh: Peellden, 2010, CC BY-SA 3.0 (hero)
 - [Cổng chính của khu vực Kinh tế Hoa Nghệ](https://commons.wikimedia.org/wiki/File:ITRI_Chung_Hsing_Compound_main_gate_20060226.jpg) — Ảnh: briston, 2006, phạm vi công cộng
-- [Cột cổng của đường Kinh Duyệt Bắc Kinh](https://commons.wikimedia.org/wiki/File:Hsinchu_Science_Park_%E5%85%89%E5%BE%A8%E8%B7%AF%E5%9C%92%E5%8D%80%E5%A4%A7%E9%96%80%E7%AB%8B%E6%9F%B1_2025-12-02.jpg) — Ảnh: T Gordon Cheng, 2025, CC BY-SA 4.0
+- [Cột cổng của đường Kinh Duyệt Bắc Kinh](https://commons.wikimedia.org/wiki/File:Hsinchu_Science_Park_%E5%85%89%E5%BE%A9%E8%B7%AF%E5%9C%92%E5%8D%80%E5%A4%A7%E9%96%80%E7%AB%8B%E6%9F%B1_2025-12-02.jpg) — Ảnh: T Gordon Cheng, 2025, CC BY-SA 4.0
 - [Quản lý khu vực Bắc Kinh](https://commons.wikimedia.org/wiki/File:Hsinchu_Science_and_Industrial_Park_Administration_20101017.jpg) — Ảnh: Peellden, 2010, CC BY-SA
 - [TSMC Fab 18 tại Nam Kinh và cánh đồng lúa](https://commons.wikimedia.org/wiki/File:TSMC_Fab_18_and_fields_May_2025.jpg) — Ảnh: 4300streetcar, 2025, CC BY 4.0
 - [Khu vực TSMC tại Nam Kinh](https://commons.wikimedia.org/wiki/File:TSMC_in_Tainan_Science_Park.JPG) — Ảnh: koika, 2006, CC BY-SA 3.0
@@ -210,7 +210,7 @@ Bài viết sử dụng 7 bức ảnh có phạm vi công cộng/CC, toàn bộ 
 
 [^21]: [Khiên Trùng có còn hiệu quả không — Báo tin học đồng nhất](https://udn.com/news/story/7240/9310882) — Phản ứng và phân tích về việc mở rộng TSMC ra ngoài và tác động đến Khiên Trùng.
 
-[^22]: [Bảo tàng Khảo cổ Cổ đại Đài Loan Nam Kinh — Wikipedia](https://zh.wikipedia.org/zh-tw/國立臺灣史前文化博物館南科分館) — Thông tin về các di tích khảo cổ và kiến trúc bảo tàng.
+[^22]: [Bảo tàng Khảo cổ Cổ đại Đài Loan Nam Kinh — Wikipedia](https://zh.wikipedia.org/zh-tw/國立臺灣史前文化博物館南科考古館) — Thông tin về các di tích khảo cổ và kiến trúc bảo tàng.
 
 [^23]: [Phân tích thị trường chứng khoán TSMC — Báo Tài chính](https://money.udn.com/money/story/5612/8636749) — Phân tích về quy mô tài sản và thuế của TSMC so với nền kinh tế Đài Loan.
 

@@ -154,4 +154,4 @@ Dưới đây chỉ liệt kê những tệp ảnh thực vật ba bức của b
 
 [^10]: [Wikimedia Commons：File:Houttuynia cordata Chameleon.jpg](https://commons.wikimedia.org/wiki/File:Houttuynia_cordata_Chameleon.jpg) — Ảnh thực vật họ cá tanh cỏ，tác giả HelloMojo đã phát hành vào công cộng.
 
-[^11]: [Wikimedia Commons：File:Bidens pilosa plant9 (14975779970).jpg](<https://commons.wikimedia.org/wiki/File:Bidens_pilosa_plant9_(14975779970).jpg>) — Xem thêm tại liên kết gốc để biết thông tin bổ sung dữ liệu
+[^11]: [Wikimedia Commons：File:Bidens pilosa plant9 (14975779970).jpg](https://commons.wikimedia.org/wiki/File:Bidens_pilosa_plant9_(14975779970) — Xem thêm tại liên kết gốc để biết thông tin bổ sung dữ liệu

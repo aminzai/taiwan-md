@@ -208,9 +208,9 @@ Video được nhúng từ kênh YouTube chính thức: Ngũ Nguyệt Thiên ⟨
 
 [^4]: [Gương Tuần Báo: Phỏng Vấn Liêu Phúc Bân](https://www.mirrormedia.mg/story/20250321pol003) — Liêu Phúc Bân nói về nhân vật minh họa "người nhỏ": "Lúc đầu, tôi không có cảm xúc gì đối với những người nhỏ, họ chỉ là công cụ kiếm tiền của tôi."
 
-[^5]: [Wikipedia: Con Cá Nụ Cười (Tranh Kể Chuyện)](https://zh.wikipedia.org/wiki/微笑的魚_(繪本) — )) — Xác nhận năm 1995 chẩn đoán bệnh bạch cầu cấp tính tủy xương (AML); triệu chứng đầu tiên là đau dữ dội ở đùi phải được báo chí ghi lại
+[^5]: [Wikipedia: Con Cá Nụ Cười (Tranh Kể Chuyện)](<https://zh.wikipedia.org/wiki/微笑的魚_(繪本)>) — )) — Xác nhận năm 1995 chẩn đoán bệnh bạch cầu cấp tính tủy xương (AML); triệu chứng đầu tiên là đau dữ dội ở đùi phải được báo chí ghi lại
 
-[^6]: [Wikipedia: Con Cá Nụ Cười (Tranh Kể Chuyện)](https://zh.wikipedia.org/wiki/微笑的魚_(繪本) — )) — Ghi lại lời tự thuật của Liêu Phúc Bân "bệnh tật chính là chiếc bể cá của tôi"
+[^6]: [Wikipedia: Con Cá Nụ Cười (Tranh Kể Chuyện)](<https://zh.wikipedia.org/wiki/微笑的魚_(繪本)>) — )) — Ghi lại lời tự thuật của Liêu Phúc Bân "bệnh tật chính là chiếc bể cá của tôi"
 
 [^7]: [CMoney: Câu Chuyện Liêu Phúc Bân](https://www.cmoney.tw/notes/note-detail.aspx?nid=89431) — Liêu Phúc Bân tự thuật sau khi xuất viện "cảm giác những người nhỏ sống động…… bắt đầu cảm thấy có nhiều điều muốn thuật lại".
 
@@ -228,7 +228,7 @@ Video được nhúng từ kênh YouTube chính thức: Ngũ Nguyệt Thiên ⟨
 
 [^14]: [Tạp Chí Nghiên Cứu Văn Học và Văn Hóa Thiếu Nhi và Thanh Thiếu Niên ⟨Tranh Kể Chuyện Dành Cho Người Lớn⟩, Đại Học Đài Đông](https://bbt.nttu.edu.tw/) — Nhà xuất bản Ngọc Sơn năm 1995 mở loạt "Tranh Kể Chuyện Kinh Điển", năm 1997 giới thiệu họa sĩ Pháp Sempé tạo động lực cho thị trường tranh kể chuyện người lớn, chuẩn bị đất cho cuốn tranh kể chuyện đầu tiên của Liêu Phúc Bân.
 
-[^15]: [Wikipedia: Con Cá Nụ Cười (Tranh Kể Chuyện)](https://zh.wikipedia.org/wiki/微笑的魚_(繪本) — )) — "Con Cá Nụ Cười" xuất bản 1998, ghi lại lời tự thuật "bệnh tật chính là chiếc bể cá của tôi"
+[^15]: [Wikipedia: Con Cá Nụ Cười (Tranh Kể Chuyện)](<https://zh.wikipedia.org/wiki/微笑的魚_(繪本)>) — )) — "Con Cá Nụ Cười" xuất bản 1998, ghi lại lời tự thuật "bệnh tật chính là chiếc bể cá của tôi"
 
 [^16]: [Nữ Nhân Minh: Liêu Phúc Bân ⟨Mặt Trăng Quên Mất⟩](https://womany.net/read/article/5356) — Liêu Phúc Bân tự thuật nguồn cảm hứng: một vị cựu đồng nghiệp tại công ty quảng cáo "không tiếng tăm một cú nhảy từ tầng thượng của văn phòng", một người bạn thân có chồng đi công tác tới Bắc Kinh bị xuất huyết não qua đời, một lần mất điện lớn tại Đài Bắc; "Mặt Trăng Quên Mất" xuất bản năm 1999 trước trận động đất 921.
 
@@ -240,9 +240,9 @@ Video được nhúng từ kênh YouTube chính thức: Ngũ Nguyệt Thiên ⟨
 
 [^20]: [誠品 Câu Chuyện Thơm Lừng: Phỏng Vấn Liêu Phúc Bân](https://meet.eslite.com/tw/tc/article/201904080001) — Liêu Phúc Bân nói về "Tàu Điện Ngầm": tất cả lời lẽ "đều viết một sự khích lệ đối với chính mình".
 
-[^21]: [Wikipedia: Bước Qua Bên Trái - Quay Phải (Phim)](https://zh.wikipedia.org/wiki/向左走·向右走_(電影) — )) — Phim 2003, đạo diễn chung Tô Kỳ Phong và Vệ Gia Huy, diễn viên Tấn Thành Vũ và Lương Doanh Khi, Warner Bros. phim đầu tiên đầu tư Hoa ngữ, "Gặp Gỡ" của Tôn Nhan Tư là bài hát chủ đề Quốc Ngữ
+[^21]: [Wikipedia: Bước Qua Bên Trái - Quay Phải (Phim)](<https://zh.wikipedia.org/wiki/向左走·向右走_(電影)>) — )) — Phim 2003, đạo diễn chung Tô Kỳ Phong và Vệ Gia Huy, diễn viên Tấn Thành Vũ và Lương Doanh Khi, Warner Bros. phim đầu tiên đầu tư Hoa ngữ, "Gặp Gỡ" của Tôn Nhan Tư là bài hát chủ đề Quốc Ngữ
 
-[^22]: [Wikipedia: Tàu Điện Ngầm (Phim)](https://zh.wikipedia.org/zh-hk/地下鐵_(電影) — )) — Phim 2003, do Mã Vệ Hào đạo diễn, Vương Gia Vệ giám sát, nhạc nền Lạc Kiên
+[^22]: [Wikipedia: Tàu Điện Ngầm (Phim)](<https://zh.wikipedia.org/zh-hk/地下鐵_(電影)>) — )) — Phim 2003, do Mã Vệ Hào đạo diễn, Vương Gia Vệ giám sát, nhạc nền Lạc Kiên
 
 [^23]: [Trang Web Trao Giải Vàng Mã: ⟨Bầu Trời Đầy Sao⟩](https://www.goldenhorse.org.tw/film/programme/films/detail/453) — Phim 2011, do Lâm Thư Vũ đạo diễn, chuyển thể từ tranh kể chuyện cùng tên 2009, được đề cử bốn giải tại Đại Lễ Trao Giải Vàng Mã lần 49; Ngũ Nguyệt Thiên ⟨Bầu Trời Đầy Sao⟩ là bài hát chủ đề.
 
@@ -282,7 +282,7 @@ Video được nhúng từ kênh YouTube chính thức: Ngũ Nguyệt Thiên ⟨
 
 [^41]: [Locus Publishing: Bầu Trời Đầy Sao](https://www.locuspublishing.com/book/detail/760) — "Bầu Trời Đầy Sao" xuất bản 2009, câu nổi tiếng trong sách "có bóng thì có ánh sáng".
 
-[^42]: [Wikipedia: Con Cá Nụ Cười (Tranh Kể Chuyện)](https://zh.wikipedia.org/wiki/微笑的魚_(繪本) — )) — Hoạt hình "Con Cá Nụ Cười" phát hành 2006, mười phút không lời thoại, đạo diễn Lâm Bác Lương (2D, Thanh Hòa Động Họa), Đoạn Dịch Luân (3D, Lớp Học Động Họa), Thạch Xương Kiệt (tổng hợp), Liêu Phúc Bân giám sát, biên kịch, Trần Kiến Kỳ nhạc nền
+[^42]: [Wikipedia: Con Cá Nụ Cười (Tranh Kể Chuyện)](<https://zh.wikipedia.org/wiki/微笑的魚_(繪本)>) — )) — Hoạt hình "Con Cá Nụ Cười" phát hành 2006, mười phút không lời thoại, đạo diễn Lâm Bác Lương (2D, Thanh Hòa Động Họa), Đoạn Dịch Luân (3D, Lớp Học Động Họa), Thạch Xương Kiệt (tổng hợp), Liêu Phúc Bân giám sát, biên kịch, Trần Kiến Kỳ nhạc nền
 
 [^43]: [Taipei Times: Con Cá Nụ Cười tại Berlinale](https://www.taipeitimes.com/News/taiwan/archives/2006/02/20/2003293808) — "Con Cá Nụ Cười" được chọn khối trẻ em (Generation) Liên Hoan Phim Berlin lần 56, giải Phim Ngắn Đặc Biệt của Hội Cứu Trợ Trẻ Em Đức.
 

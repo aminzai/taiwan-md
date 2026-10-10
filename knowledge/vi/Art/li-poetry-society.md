@@ -348,7 +348,7 @@ Báo cáo chi tiết về media manifest và negative finding được ghi lại
 
 [^36]: [Âm Thầm Và Độc Đắc Giữa Hai Bên — Thượng Báo](https://www.upmedia.mg/news_info.php?SerialNo=31998) — Thượng Báo phân tích ba trục tọa độ cuộc tranh luận: "Dân tộc chủ nghĩa Trung Quốc cánh phải vs Dân tộc chủ nghĩa Trung Quốc cánh trái vs Lý thuyết bản địa Đài Loan".
 
-[^37]: [Hướng Dương — Bách Khoa Toàn Thư](https://zh.wikipedia.org/zh-tw/%E5%90%91%E9%99%BD_(%E8%A9%A9%E4%BA%BA) — )) — Hướng Dương tên thật Lâm Tề Miêu, sinh ngày 7 tháng 5 năm 1955 tại Liễu Cốc làng Quảng Hưng, Tây Hạng huyện Nam Đầu; từ 1976 viết thơ tiếng Mân Nam, tác phẩm đại diện "Cha của Anh" lần đầu xuất bản trên tạp chí "Lưỡi" kỳ 71
+[^37]: [Hướng Dương — Bách Khoa Toàn Thư](<https://zh.wikipedia.org/zh-tw/%E5%90%91%E9%99%BD_(%E8%A9%A9%E4%BA%BA)>) — )) — Hướng Dương tên thật Lâm Tề Miêu, sinh ngày 7 tháng 5 năm 1955 tại Liễu Cốc làng Quảng Hưng, Tây Hạng huyện Nam Đầu; từ 1976 viết thơ tiếng Mân Nam, tác phẩm đại diện "Cha của Anh" lần đầu xuất bản trên tạp chí "Lưỡi" kỳ 71
 
 [^38]: [Để Viết Thơ Mân Nam Hai Lần Mất Ngủ Hướng Dương: Không Thể Viết Thơ Bằng Tiếng Mẹ Đẻ, Tôi Không Có Tư Cách Gọi Là Nhà Thơ — Trung Ương Xã 2024-09-10](https://www.cna.com.tw/culture/article/20240910w001) — Ghi lại đầy đủ phỏng vấn Hướng Dương: "Tôi nhớ lần phát hành đầu tiên 4 bài thơ tiếng Mân Nam…… được tạp chí "Lưỡi" phát hành, đêm phát hành, tôi thao thức cả đêm! Thực sự quá vui rồi".
 

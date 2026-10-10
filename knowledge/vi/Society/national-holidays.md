@@ -311,7 +311,7 @@ Nhưng nó từ lâu không chỉ là vấn đề dân tộc. Nó cùng lúc là
 
 [^36]: [Đức ngày 8 tháng 5 "Ngày giải phóng vs Ngày đầu hàng" Tranh cãi](https://www.berlin.de/en/news/9188766) — Phủ Berlin Bản tin, ghi lại năm 2025 Berlin lập Kỳ lễ duy nhất Tưởng niệm Chiến tranh Thế giới thứ hai Kết thúc chiến trường Châu Âu, Và năm 1985 Tổng thống Võ Tư Trặc lần đầu tiên đặc tính ngày Đó là "Ngày giải phóng", tám mươi năm tranh cãi Đặt tên.
 
-[^37]: [National Foundation Day (Japan)](https://en.wikipedia.org/wiki/National_Foundation_Day_(Japan) — )) — Wikipedia Anh Anh, ghi lại Ngày Thành lập Quốc gia Nhật Bản (Ngày Kỷ niệm Thành lập) năm 1948 vì liên quan Quân phiệt bị bãi bỏ, năm 1966 Bằng tên mơ hồ Phục sinh, Đảng Cộng sản Nhật Bản phản đối tranh cãi Lịch sử
+[^37]: [National Foundation Day (Japan)](<https://en.wikipedia.org/wiki/National_Foundation_Day_(Japan)>) — )) — Wikipedia Anh Anh, ghi lại Ngày Thành lập Quốc gia Nhật Bản (Ngày Kỷ niệm Thành lập) năm 1948 vì liên quan Quân phiệt bị bãi bỏ, năm 1966 Bằng tên mơ hồ Phục sinh, Đảng Cộng sản Nhật Bản phản đối tranh cãi Lịch sử
 
 [^38]: [Shōwa Day](https://en.wikipedia.org/wiki/Sh%C5%8Dwa_Day) — Wikipedia Anh Anh, ghi lại ngày 29 tháng 4 (Sinh nhật Hoàng đế Showa) Năm 1989 đổi "Ngày của những cái xanh", năm 2007 đổi "Ngày Showa", Bị chỉ trích né tránh Trách nhiệm chiến tranh Tranh cãi Đặt tên.
 

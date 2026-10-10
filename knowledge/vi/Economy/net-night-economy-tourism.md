@@ -153,7 +153,7 @@ NET không chỉ là một công ty bán quần áo, mà còn là phương tiệ
 
 [^13]: [Quỹ Từ thiện Nhân Dân Tân Ngân Hàng: Doanh nghiệp Phật nhất nội địa! NET đóng cửa giúp người yếu thế có quần áo](https://www.facebook.com/taishincharity/posts/5103151559716068/) — Ghi lại hành động từ thiện không gián đoạn của NET ngay cả trong thời kỳ đại dịch.
 
-[^3]: [Yahoo News: Tóm tắt tranh chấp NET Keelung](https://tw.news.yahoo.com/live/%E5%9F%BA%E9%9A%86net%E7%88%AD%E8%AD%B0%E6%87%B6%E4%BA%BA%E5%8C%85%EF%BC%9Anet%E3%80%81%E8%AC%9D%E5%9C%8B%E6%A8%99%E3%80%81%E6%9E%97%E5%8F%B3%E6%98%8C%E5%88%B0%E5%BA%95%E5%90%B5%E4%BB%80%E9%BA%BC%EF%BC%9F-081456978.html) —梳理 chi tiết diễn biến tranh chấp quyền sở hữu tại Quảng trường Đông Ngạn Keelung.
+[^3]: [Yahoo News: Tóm tắt tranh chấp NET Keelung](https://tw.news.yahoo.com/live/%E5%9F%BA%E9%9A%86net%E7%88%AD%E8%AD%B0%E6%87%B6%E4%BA%BA%E5%8C%85%EF%BC%9Anet%E3%80%81%E8%AC%9D%E5%9C%8B%E6%A8%91%E3%80%81%E6%9E%97%E5%8F%B3%E6%98%8C%E5%88%B0%E5%BA%95%E5%90%B5%E4%BB%80%E9%BA%BC%EF%BC%9F-081456978.html) —梳理 chi tiết diễn biến tranh chấp quyền sở hữu tại Quảng trường Đông Ngạn Keelung.
 
 [^14]: [Facebook: StockFeel về tóm tắt đồ họa vấn đề quyền sở hữu Quảng trường Đông Ngạn](https://www.facebook.com/StockFeel.page/posts/869913788505168/) — Trình bày cốt lõi tranh chấp giữa NET và chính quyền thành phố Keelung thông qua đồ họa.
 

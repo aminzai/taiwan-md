@@ -224,7 +224,7 @@ Mặc dù Lý Dương đã giải nghệ, nhưng tên tuổi "Lâm Dương Phố
 
 [^4]: [Wikipedia: Wang Chi-lin](https://zh.wikipedia.org/zh-tw/%E7%8E%8B%E9%BD%8A%E9%BA%9F) — Birth year and month, height, career rankings and representative team information.
 
-[^5]: [Wikipedia: Lee Yang (Badminton)](https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%B4%8B_(%E7%BE%BD%E7%90%83%E9%81%8B%E5%8B%95%E5%93%A1) — ) — )) — Birth and household registration, family background, partnership and international competition results
+[^5]: [Wikipedia: Lee Yang (Badminton)](<https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%B4%8B_(%E7%BE%BD%E7%90%83%E9%81%8B%E5%8B%95%E5%93%A1)>) — ) — )) — Birth and household registration, family background, partnership and international competition results
 
 [^6]: [Wikipedia: Badminton at the 2020 Summer Olympics – Men's doubles](https://en.wikipedia.org/wiki/Badminton_at_the_2020_Summer_Olympics_%E2%80%93_Men%27s_doubles) — Tokyo Olympics men's doubles gold medalists, final scores and unseeded gold medal record (English article, fact cross-verification).
 

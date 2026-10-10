@@ -119,17 +119,17 @@ Việc rời bằng giấy không đồng nghĩa với việc "nội dung hoàn 
 
 [^5]: [Từ "ngồi viết" đến "đứng dậy viết": Le Thịnh và Tự do Trung Quốc](https://chinadigitaltimes.net/chinese/215420.html) — Lịch sử đầy đủ từ khi ra mắt năm 1949 đến khi Le Thịnh bị kết tội 10 năm.
 
-[^6]: [Thân Nhân phú được vinh danh giải thưởng Tài trợ Đài Loan, tạp chí Thiên hạ](https://tw.news.yahoo.com/%E7%8D%97%E8%94%A1%E8%90%AC%E6%97%85%E5%8F%B0%E7%81%A3%E8%B2%A2%E7%8D%BB%E7%8D%8E%E8%82%AF%E5%AE%9A%EF%BC%8C%E5%A4%A9%E4%B8%8B%E9%9B%9C%E8%AA%8C%E5%89%B5%E8%BE%A6%E4%BA%BA%E6%AE%B8%E5%85%81%E8%8A%83%EF%BC%9A%E8%A8%98%E8%80%85%E6%98%AF%E5%BE%88%E6%9C%89%E5%83%B9%E5%80%BC%E7%9A%84%E5%B7%A5%E4%BD%9C-144101985.html) — Bối cảnh nền tảng khi Thân Nhân phú ra mắt Tạp chí Thiên hạ năm 1981.
+[^6]: [Thân Nhân phú được vinh danh giải thưởng Tài trợ Đài Loan, tạp chí Thiên hạ](https://tw.news.yahoo.com/%E7%8D%B7%E8%94%A1%E8%90%AC%E6%89%8D%E5%8F%B0%E7%81%A3%E8%B2%A2%E7%8D%BB%E7%8D%8E%E8%82%AF%E5%AE%9A%EF%BC%8C%E5%A4%A9%E4%B8%8B%E9%9B%9C%E8%AA%8C%E5%89%B5%E8%BE%A6%E4%BA%BA%E6%AE%B7%E5%85%81%E8%8A%83%EF%BC%9A%E8%A8%98%E8%80%85%E6%98%AF%E5%BE%88%E6%9C%89%E5%83%B9%E5%80%BC%E7%9A%84%E5%B7%A5%E4%BD%9C-144101985.html) — Bối cảnh nền tảng khi Thân Nhân phú ra mắt Tạp chí Thiên hạ năm 1981.
 
 [^7]: [Thập niên 1990 của Tạp chí Thiên hạ](https://www.cw.com.tw/article/5019330) — Bài tóm tắt lịch sử về chủ đề bìa "Đài Loan môi trường" năm 1996.
 
-[^8]: [Tạp chí Nhật tuần tạp chí sẽ tắt bình luận sau 19 năm](https://tw.news.yahoo.com/%E7%8D%A8%E5%8F%B0%E7%81%A3%E7%8B%97%E4%BB%94%E5%A7%8B%E7%A5%96%E5%89%B5%E7%AB%8B-19-%E5%B9%B4-%E5%8F%B0%E7%81%A3%E5%A3%B9%E9%80%B1%E5%88%8A%E5%B0%8B%E5%90%B9%E7%86%86%E7%87%88%E8%99%9F-080605959.html) — Đường thời gian từ khi ra mắt năm 2001 đến khi tắt bình luận năm 2020.
+[^8]: [Tạp chí Nhật tuần tạp chí sẽ tắt bình luận sau 19 năm](https://tw.news.yahoo.com/%E7%8D%A8%E5%8F%B0%E7%81%A3%E7%8B%97%E4%BB%94%E5%A7%8B%E7%A5%96%E5%89%B5%E7%AB%8B-19-%E5%B9%B4-%E5%8F%B0%E7%81%A3%E5%A3%B9%E9%80%B1%E5%88%8A%E5%B0%87%E5%90%B9%E7%86%84%E7%87%88%E8%99%9F-080605959.html) — Đường thời gian từ khi ra mắt năm 2001 đến khi tắt bình luận năm 2020.
 
 [^9]: [Sau khi tắt bình luận Nhật tuần tạp chí, nếm lại vị của Tạp chí Apple](https://www.savoirtw.org/article/3096) — Phân tích về mô hình tiếp thị và đạo đức truyền thông của Nhật tuần tạp chí do Tạp chí Apple xuất bản.
 
 [^10]: [Chủ đề/Tạp chí Độc giả Văn tường chính trị đầu tiên, Lý Tá Hợp](https://www.worldjournal.com/wj/story/124560/8903617) — Triết lý 23 năm làm việc của Lý Tá Hợp với Tạp chí Độc giả Văn tường.
 
-[^11]: [Tạp chí Độc giả Văn tường phiên bản tiếng Trung tắt bình luận sau 60 năm](https://tw.news.yahoo.com/%E9%9B%9E%E6%B9%AF%E6%96%87%E6%B2%92%E4%BA%86-%E9%99%AA%E4%BC%B4%E5%8F%B0%E7%81%A3%E5%85%AD%E5%8D%81%E8%BC%89-%E8%AE%80%E8%80%85%E6%96%87%E6%91%8B-%E4%B8%AD%E6%96%87%E7%89%88%E5%AE%A3%E5%B8%8B%E5%81%90%E5%88%8A-140000464.html) — Thông báo tắt bình luận năm 2025.
+[^11]: [Tạp chí Độc giả Văn tường phiên bản tiếng Trung tắt bình luận sau 60 năm](https://tw.news.yahoo.com/%E9%9B%9E%E6%B9%AF%E6%96%87%E6%B2%92%E4%BA%86-%E9%99%AA%E4%BC%B4%E5%8F%B0%E7%81%A3%E5%85%AD%E5%8D%81%E8%BC%89-%E8%AE%80%E8%80%85%E6%96%87%E6%91%8B-%E4%B8%AD%E6%96%87%E7%89%88%E5%AE%A3%E5%B8%83%E5%81%9C%E5%88%8A-140000464.html) — Thông báo tắt bình luận năm 2025.
 
 [^12]: [Newton tắt bình luận, tạp chí khoa học tìm cách khác](https://blog.udn.com/49685081/178579861) — Bí mật dẫn đến việc Newton tắt bình luận do đầu tư thất bại năm 2006.
 
@@ -137,9 +137,9 @@ Việc rời bằng giấy không đồng nghĩa với việc "nội dung hoàn 
 
 [^14]: [Tạp chí Cô Lai Trí tháng đăng quảng cáo giá thành 34 năm trước](https://time.udn.com/udntime/story/122390/7743614) — Từ khi ra mắt năm 1989 đến khi tích lũy 183 nghìn gia đình đăng ký.
 
-[^15]: [Cô Lai Trí tháng ngừng nhận đơn bản in sau 35 năm](https://tw.news.yahoo.com/%E9%9C%87%E6%92%81-%E5%A5%AB%E9%AC%A335%E5%B9%B4-%E5%B7%A7%E9%80%A3%E6%99%BA%E6%9C%88%E5%88%8A-%E5%81%90%E6%AD%A2%E5%8F%97%E7%90%86%E6%9E%90%E8%AE%81%E9%96%B4-%E5%AE%B6%E9%95%B7%E6%82%B2%E5%98%86-061100146.html) — Thông báo ngừng nhận đơn bản in năm 2024.
+[^15]: [Cô Lai Trí tháng ngừng nhận đơn bản in sau 35 năm](https://tw.news.yahoo.com/%E9%9C%87%E6%92%81-%E5%A5%AE%E9%AC%A335%E5%B9%B4-%E5%B7%A7%E9%80%A3%E6%99%BA%E6%9C%88%E5%88%8A-%E5%81%9C%E6%AD%A2%E5%8F%97%E7%90%86%E8%A8%82%E9%96%B1-%E5%AE%B6%E9%95%B7%E6%82%B2%E5%98%86-061100146.html) — Thông báo ngừng nhận đơn bản in năm 2024.
 
-[^16]: [Giới thiệu sáu đặc trưng của Tạp chí Công dân trái đất 365 phiên bản trẻ em](https://twinsandbooks.com/%E3%80%8A%E5%9C%B0%E7%90%83%E5%85%AC%E6%B0%91365%E5%85%92%E7%AB%A5%E7%89%87%E3%80%8B%E5%B0%8D%E5%B0%8F%E5%AD%B8%E7%94%9F%E7%9A%84%E5%85%AD%E5%A4%A7%E5%B9%AB%E5%8A%A9-%E7%89%B9%E8%89%B2%E4%BB%8B/) — Vị trí của tạp chí kết hợp chạm vào tay trẻ và bản in.
+[^16]: [Giới thiệu sáu đặc trưng của Tạp chí Công dân trái đất 365 phiên bản trẻ em](https://twinsandbooks.com/%E3%80%8A%E5%9C%B0%E7%90%83%E5%85%AC%E6%B0%91365%E5%85%92%E7%AB%A5%E7%89%88%E3%80%8B%E5%B0%8D%E5%B0%8F%E5%AD%B8%E7%94%9F%E7%9A%84%E5%85%AD%E5%A4%A7%E5%B9%AB%E5%8A%A9-%E7%89%B9%E8%89%B2%E4%BB%8B/) — Vị trí của tạp chí kết hợp chạm vào tay trẻ và bản in.
 
 [^17]: [Tạp chí Nhỏ Da Vinci sẽ xuất bản số 240](https://www.facebook.com/Ctalk.Book/posts/1379204220883210/) — Thông báo xuất bản số 240 năm 2025.
 

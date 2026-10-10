@@ -115,7 +115,7 @@ Chế độ nghĩa vụ quân sự của Đài Loan là một cuộc đối tho�
 
 [^6]: [Vocus, "Cẩm nang huấn luyện tân binh: Bảng lịch trình đầy đủ", 2025-11-14.](https://vocus.cc/article/691736a9fd89780001c8de88) — Xem thêm chi tiết trong nội dung liên kết gốc.
 
-[^7]: [CakeResume, "Nghĩa vụ thay thế R&D là gì? Điều kiện đăng ký và FAQ", 2025-06-17.](https://www.cake.me/resources/industry_job_overview/research-development-substitute-services) — Xem thêm chi tiết trong nội dung liên kết gốc.
+[^7]: [CakeResume, "Nghĩa vụ thay thế R&D là gì? Điều kiện đăng ký và FAQ", 2025-06-17.](https://www.cake.me/resources/industry-job-overview/research-development-substitute-services) — Xem thêm chi tiết trong nội dung liên kết gốc.
 
 [^8]: [Cục Nghĩa vụ quân sự Thành phố Đài Bắc, "Có những loại hình nghĩa vụ thay thế nào?", 2024.](https://docms.gov.taipei/News_Content.aspx?n=03317D8229965B64&s=8173F72D6F5CA5E4) — Xem thêm chi tiết trong nội dung liên kết gốc.
 
