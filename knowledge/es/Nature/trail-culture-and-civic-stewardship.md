@@ -1,9 +1,9 @@
 ---
-title: 'La cultura de las sendas de Taiwán y su guardianía cívica'
-description: 'Desde la Asociación de Sendas Milenarias hasta la plataforma iTrail, explorando la cultura única de guardianía de sendas en Taiwán y el espíritu de la ciencia ciudadana'
+title: 'Cultura de senderos en Taiwán y defensa ciudadana'
+description: 'Desde la Asociación de Senderos Mil Perros hasta la plataforma iTrail, explorando la cultura única de conservación de senderos y el espíritu científico ciudadano de Taiwán.'
 date: 2026-03-19
 category: 'Nature'
-tags: ['naturaleza', 'sendas', 'ciencia ciudadana', 'conservación ecológica']
+tags: ['Naturaleza', 'sendero', 'ciencia ciudadana', 'conservación ecológica']
 subcategory: '國家公園與步道'
 author: 'Taiwan.md Contributors'
 readingTime: 8
@@ -11,158 +11,178 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Nature/台灣步道文化與公民守護.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:6a877621bb6ceb6f'
-sourceBodyHash: 'sha256:855af6d5f189b0bd'
-translatedAt: '2026-09-27T22:31:26+08:00'
+sourceCommitSha: '1440e2a2d'
+sourceContentHash: 'sha256:d52ac46a55e0087a'
+sourceBodyHash: 'sha256:7ff26ffe138f6405'
+translatedAt: '2026-10-10T16:15:51+08:00'
 ---
 
-# La cultura de las sendas de Taiwán y su guardianía cívica
+# Cultura de senderos en Taiwán y defensa ciudadana
 
-A las cinco y media de la mañana, en los senderos de Hsinchu, un grupo de voluntarios se arrodilla cuidadosamente en el lateral del camino para limpiar los cascotes caídos durante la noche. No son obreros enviados por el gobierno, sino voluntarios de la Asociación de Sendas Milenarias: una escena que se repite cada fin de semana en los bosques de Taiwán.
+En 2002, Lin Tsung-hung (林宗弘) y Hsu Ming-chien (徐銘謙), quienes caminaban juntos por las colinas cada semana, iniciaron "Adiós a los escalones de piedra", pidiendo a los excursionistas que enviaran fotos de proyectos de deterioro en senderos locales. Estas correos electrónicos fueron recopilados y organizados manualmente para ser entregados al Consejo de Construcción y Desarrollo. [^1] Más tarde, Hsu Ming-chien se convirtió en subdirector ejecutivo de la Asociación de Senderos Mil Perros (千里步道協會), trayendo la experiencia de voluntariado del sendero Apalaches de Estados Unidos a Taiwán, desarrollando el concepto de "senderos hechos a mano". [^2] Un grupo de excursionistas que no querían ver más escaleras de cemento inició el movimiento de defensa de senderos en Taiwán.
 
-Aunque Taiwán solo ocupa 36.000 kilómetros cuadrados, posee más de 268 montañas con una altitud superior a los tres mil metros, una concentración sin precedentes en el mundo. En esta «isla de montañas altas», las sendas no son solo rutas de senderismo, sino también guardianas de profundo significado cultural y valor ecológico. Desde las antiguas veredas de caza de los pueblos indígenas, pasando por los caminos de administración durante el período colonial japonés, hasta el moderno sistema nacional de sendas, cada ruta de montaña cuenta la historia de esta tierra.
+Aunque la superficie de Taiwán es de solo 36,000 kilómetros cuadrados, posee más de 268 montañas con altitudes superiores a los tres mil metros, una concentración rara a nivel mundial. En esta "isla montañosa", los senderos son rutas para el senderismo y también registran un profundo significado cultural y valor ecológico. Desde las antiguas rutas de caza indígenas, pasando por las carreteras coloniales japonesas, hasta el moderno sistema nacional de senderos, cada sendero cuenta la historia de esta tierra.
 
-## Surgimiento del movimiento de guardianía de sendas
+## El surgimiento del movimiento de defensa de senderos
 
-### La visión de la Asociación de Sendas Milenarias
+### La visión de la Asociación de Senderos Mil Perros
 
-El 23 de abril de 2006 se lanzó oficialmente el movimiento de Sendas Milenarias; la asociación se formalizó como persona jurídica el 8 de junio de 2011.[^1] La asociación propuso una visión que parecía imposible: conectar una red verde que rodeara la isla de Taiwán, permitiendo que la gente redescubriera esta tierra de la forma más cercana a la naturaleza.
+El 23 de abril de 2006, Huang Wu-hsiung (黃武雄), Hsiao Ye (小野) y Hsu Ren-shiu (徐仁修) iniciaron el movimiento de los Senderos Mil Perros. [^3][^4] Ellos propusieron una visión aparentemente imposible: conectar la red verde que rodea toda la isla de Taiwán, permitiendo a la gente redescubrir Taiwán de la manera más cercana posible a la tierra.
 
-En 2012, la asociación propuso formalmente la política de «doble cero»: «cero pérdida de sendas naturales, cero crecimiento de sendas de cemento». Este lema sigue siendo el núcleo del movimiento de protección de sendas de Taiwán hasta hoy. Huang Wu-hsiung (黃武雄), fundador de la asociación, ha subrayado que la protección de sendas debe tener como objetivo vivir en armonía con la naturaleza, no conquistar la montaña.[^2]
+En 2012, la asociación presentó en la conferencia nacional de ONG ambientales la visión de "cero pérdida en senderos naturales y cero crecimiento en senderos de cemento", una frase que sigue siendo la demanda central del movimiento de protección de senderos en Taiwán. [^1]
 
-Este movimiento surge del contexto de reflexión sobre la excesiva cementación de las áreas montañosas de Taiwán. Desde la década de 1990, muchas sendas originales de tierra y piedra fueron «mejoradas» convirtiéndose en escaleras de cemento. Aunque facilitaron el transporte, destruyeron el paisaje natural y obstaculizaron los ciclos hidrológicos de los bosques. La fundación de la Asociación de Sendas Milenarias buscó precisamente revertir esta tendencia del «falso progreso».
+El trasfondo de este movimiento proviene de la reflexión sobre la excesiva cementación de las zonas montañosas de Taiwán. Muchos senderos originales de tierra y piedra fueron "mejorados" con escaleras de cemento, lo que, aunque facilitó el tránsito, dañó el paisaje natural e impidió el ciclo hidrológico del bosque. Lo que la Asociación de Senderos Mil Perros buscaba revertir era esta tendencia de "falsa mejora".
 
-### De la protección a la participación: el poder de la ciencia ciudadana
+### De la protección a la participación: El poder de la ciencia ciudadana
 
-En 2024, se lanzó oficialmente la plataforma inteligente iTrail, una aplicación que combina localización móvil y funciones fotográficas, permitiendo que cada senderista se convierta en informador del estado de las sendas.[^3] Cuando se descubren daños en las sendas, acumulación de basura o destrucción ecológica, el público puede subir instantáneamente fotografías e información de ubicación, formando una red de monitoreo en tiempo real de las sendas de toda la isla.
+En junio de 2024, la Asociación de Senderos Mil Perros y cerca de 40 grupos iniciaron la "Red de Defensa de Senderos iTrail en Taiwán", permitiendo que cada excursionista se convirtiera en un informante del estado del sendero. [^5] Los excursionistas agregaban el sitio web a su pantalla de inicio móvil, y al subir a la montaña, tomaban fotos del deterioro del sendero, daños artificiales o fallos en las instalaciones, seleccionando el tipo de problema para reportarlo.
 
-En su primer año de funcionamiento, la plataforma recibió más de 15.000 reportes sobre el estado de las sendas, incluyendo derrumbes de sendas, construcciones ilegales, fauna silvestre atrapada y otras situaciones. Estos datos de primera mano se convirtieron en información importante para que los departamentos gubernamentales y las organizaciones conservacionistas formularan políticas.
+Para octubre de 2026, el sitio había acumulado 2,702 informes y 314 informantes. [^6] La asociación dijo que estos informes servirían como base para dialogar con las agencias gubernamentales, impulsando a las autoridades a prestar atención y reparar los problemas de los senderos. [^5]
 
-## El Día de las Sendas de Taiwán: un evento anual de participación ciudadana
+## Día del Sendero en Taiwán: Un evento anual de participación popular
 
-El «Día de las Sendas de Taiwán», que se celebra del 6 al 30 de junio de cada año, es un hito importante en la cultura de sendas de Taiwán. Esta actividad, iniciada por la Asociación de Sendas Milenarias, convoca a la población de toda Taiwán a recorrer sendas de diferentes localidades durante este mes y realizar actividades de monitoreo de «ciencia ciudadana».
+El primer sábado de cada junio es el "Día del Sendero en Taiwán", establecido por la Asociación de Senderos Mil Perros, y se celebró por primera vez en 2014. [^7] A partir de 2025, la asociación iniciará un monitoreo sincrónico nacional de senderos durante el mes del Día del Sendero, invitando a los excursionistas a reportar problemas mediante sus teléfonos móviles. El segundo evento será en 2026, y se llevará a cabo del 6 al 30 de junio. [^8][^9]
 
-Los participantes deben registrar información como el tipo de revestimiento de la senda, ancho, pendiente, ecología circundante y otros detalles, y subirla a una base de datos unificada. Aunque esta recopilación de datos parece sencilla, en realidad representa un «examen de salud» del entorno de las sendas de Taiwán. Gracias a la participación de miles de voluntarios, los investigadores pueden conocer los cambios dinámicos de las sendas de toda Taiwán e identificar tempranamente problemas ambientales que requieren atención.
-
-En el Día de las Sendas de Taiwán de 2023, más de 3.000 voluntarios participaron, visitando casi 500 sendas de toda Taiwán. La cantidad de datos acumulados equivale al trabajo de un equipo profesional de investigación durante diez años.
+Los informes no requieren herramientas de medición; basta con una observación visual basada en "escalas corporales", como la altura del tobillo o la rodilla, para subir fotos. Si no hay señal en la montaña, se puede guardar un borrador y enviarlo al bajar. [^8] Esta recopilación de datos aparentemente simple es en realidad un "chequeo de salud" del entorno de los senderos de Taiwán. La asociación espera utilizar los informes masivos para identificar puntos críticos y discutir las reparaciones con las autoridades competentes. [^9]
 
 ### El valor científico de la revisión decenal
 
-Es especialmente notable que Taipéi, Nuevo Taipéi y Taichung han completado el plan de «revisión decenal» de los revestimientos de las sendas. Los investigadores compararon el estado de las sendas entre 2010 y 2020 y descubrieron una tendencia preocupante: la proporción de sendas de cemento aumentó del 35% al 52%, mientras que las sendas que mantienen su superficie original de tierra y piedra disminuyeron del 48% al 31%.
+La base de este movimiento es el sondeo sistemático. A partir de 2012, cerca de 60 voluntarios capacitados recorrieron durante más de dos años los 272 senderos suburbanos gestionados por los gobiernos de Taipéi y Nueva Taipéi. En 2014 se publicaron los resultados: la proporción de senderos de cemento en Taipéi era cercana al 75%, y solo el diez por ciento eran senderos naturales sin pavimentación artificial. Los senderos de cemento en Nueva Taipéi eran aproximadamente del 27%, pero junto con las pasarelas y traviesas, sumaban el 64%. En 2018, la encuesta realizada al "Sendero Bai Li" (百里步道) en Taichung también alcanzó un 54.6% de senderos de cemento. [^1][^10]
 
-Estos datos han llevado a los gobiernos locales a incorporar la «política de doble cero» en su dirección para la construcción de sendas.
+Diez años después, en el verano de 2023, la asociación recorrió estos senderos con el mismo método durante dos años y medio, investigando 324 senderos con una extensión total de 572.5 kilómetros. En los resultados del Día del Sendero de Taiwán de 2025, la proporción de senderos de cemento en Taipéi bajó del 74% al 47%, y los senderos naturales subieron del 10% al 27%; el porcentaje de senderos de cemento en Taichung bajó del 54.6% al 37%, y la proporción y longitud de los senderos naturales en las dos áreas (Taipéi y Nueva Taipéi) aumentaron. [^9]
 
-## Sistema diverso de sendas de Taiwán
+En Taipéi, donde disminuyó la proporción, se eliminaron aproximadamente diez kilómetros de senderos de cemento; en Nueva Taipéi, se añadieron unos 32 kilómetros. En total, los senderos gestionados por ambas áreas (Taipéi y Nueva Taipéi) aumentaron netamente unos 22 kilómetros de pavimentación de cemento. [^9]
 
-### Sendas de alta montaña: desafío y esplendor
+## El diverso sistema de senderos de Taiwán
 
-Las sendas de alta montaña de Taiwán son famosas en el mundo por su escarpada orografía y esplendor. La senda de la cumbre principal del monte Yushan, la del monte Xueshan, la del Qilai Nánhuá y otras son lugares sagrados para los amantes del montañismo. Estas sendas generalmente requieren solicitar un permiso de entrada, y tienen controles estrictos de capacidad de carga, con el objetivo de proteger el frágil equilibrio ecológico de la alta montaña.
+### Senderos de alta montaña: Desafío y majestuosidad
 
-El mantenimiento de las sendas de alta montaña es especialmente difícil, requiriendo el uso de helicópteros para transportar materiales, con costos muy elevados. Por lo tanto, estas sendas requieren aún más la disciplina y cuidado de los senderistas. El concepto de «sin huella en la montaña» (Leave No Trace, LNT) es especialmente importante en las sendas de alta montaña, donde cada trozo de basura y cada huella pueden tener impactos ecológicos duraderos.
+Los senderos de alta montaña de Taiwán son famosos por su escarpado terreno y su belleza imponente. Los senderos del pico principal de Yushan (玉山), el pico principal de Xue Shan (雪山) y el sendero Qilai Nanhua (奇萊南華) son lugares sagrados en el corazón de los amantes del montañismo. Estos senderos generalmente requieren un permiso de ascenso y tienen estrictas regulaciones de capacidad para proteger el frágil equilibrio del ecosistema de alta montaña.
 
-### Montañas medias: lo esencial del senderismo en Taiwán
+El mantenimiento de los senderos de alta montaña es particularmente difícil, ya que requiere el uso de helicópteros para transportar materiales, lo que conlleva costos muy elevados. Por ello, estos senderos requieren la autodisciplina y el cuidado de los montañistas. El concepto de "No Dejar Rastro" (Leave No Trace, LNT) es especialmente importante en los senderos de alta montaña; cada pieza de basura y cada huella pueden tener un impacto a largo plazo en el ecosistema.
 
-Las montañas medias, entre los 1.000 y 3.000 metros de altitud, son consideradas por muchos como lo más esencial del senderismo en Taiwán. Aquí hay un rico ecosistema forestal y condiciones climáticas relativamente templadas, lo que las convierte en un lugar ideal para desarrollar habilidades de montañismo.
+### Montañas intermedias: La esencia del montañismo taiwanés
 
-Sendas como la del monte Dabajianshan, la del grupo de montes Hehuan y las del grupo de Alishan son representativas de las sendas de montaña media. Estas sendas generalmente se pueden completar en uno o dos días, son accesibles para el público en general y son un lugar importante para promover la educación forestal.
+Las montañas intermedias, con altitudes entre 1,000 y 3,000 metros, son consideradas por muchos como la quintaesencia del montañismo en Taiwán. Aquí hay una rica ecología forestal y condiciones climáticas relativamente suaves, lo que las convierte en un lugar excelente para desarrollar habilidades de montaña.
 
-### Montañas periurbanas: el jardín trasero verde de la ciudad
+Los senderos alrededor de Alishan (阿里山) caen en este rango de altitud. Muchas rutas de montaña intermedia se pueden completar en un día o dos, haciéndolas aptas para la participación del público general y sirviendo como un importante campo para la educación forestal.
 
-Para la mayoría de los residentes de Taiwán, las sendas periurbanas son el entorno natural más accesible. Las sendas de Xiangshan, Hushan, Jiantan y otras en las cercanías de Taipéi atraen a grandes multitudes de residentes urbanos cada fin de semana.
+### Senderos suburbanos: El jardín verde de los urbanitas
 
-Aunque las montañas periurbanas tienen altitudes bajas, el significado cultural que tienen es tan importante como el de las montañas altas. Muchas sendas periurbanas tienen infraestructura como pabellones de descanso y miradores, siendo espacios importantes para el ejercicio, la salud y el recreo familiar de los residentes. Cómo equilibrar la conveniencia con la protección ambiental es un tema importante en la gestión de sendas periurbanas.
+Para la mayoría de los taiwaneses, los senderos suburbanos son el entorno natural más accesible. Los senderos de Xiangshan (象山), Hushan (虎山) y Jiantan (劍潭山) cerca de Taipéi atraen a grandes cantidades de ciudadanos cada fin de semana.
 
-### Antiguas sendas: huellas de la historia
+Aunque los senderos suburbanos no tienen gran altitud, su significado cultural es tan importante como el de las altas montañas. Muchos senderos suburbanos están equipados con pabellones y miradores, siendo espacios importantes para que los ciudadanos hagan ejercicio y disfruten en familia. El equilibrio entre la conveniencia y la protección del medio ambiente es un tema importante en la gestión de los senderos suburbanos.
 
-Las antiguas sendas de Taiwán registran el arduo trabajo de los pioneros y preservan las huellas de intercambio entre diferentes grupos étnicos.
+### Antiguas rutas: Huellas de la historia
 
-La **senda Tamsui-Kavalan** es uno de los sistemas de sendas antiguas más famosos de Taiwán, conectando Taipéi e Yilan, con una longitud total de aproximadamente 200 kilómetros.[^4] Esta ruta se divide en tres líneas principales: la ruta norte (camino oficial), la ruta central (camino popular) y la ruta sur (camino del té), cada una con diferentes antecedentes históricos y características culturales distintivas. En años recientes, el gobierno de Nuevo Taipei y organizaciones civiles han colaborado para restaurar segmentariamente la senda Tamsui-Kavalan, permitiendo que más personas experimenten la ruta que siguieron los pioneros.
+Las antiguas rutas de Taiwán registran las dificultades de la colonización por parte de los pueblos ancestrales y conservan las huellas del intercambio entre diferentes grupos étnicos.
 
-El **Camino del Árbol de Alcanfor** es otro importante sistema de sendas antiguas. Esta ruta sigue la zona montañosa poco elevada de la costa occidental de Taiwán, extendiéndose desde Taoyuan hasta Taichung, con una longitud total de aproximadamente 400 kilómetros. El nombre proviene de los abundantes recursos de árboles de alcanfor a lo largo de la ruta y los finos senderos dejados por la industria histórica del alcanfor. El Camino del Árbol de Alcanfor es un corredor cultural que conecta la cultura hakka, la cultura indígena taiwanesa y la historia de migración y asentamiento de los pobladores chinos.
+La **Antigua Ruta Danlan (淡蘭古道)** es uno de los sistemas de senderos más famosos de Taiwán, con una longitud total de más de doscientos kilómetros que va desde Taipéi a través de Nueva Taipéi y Keelung hasta Yilan. [^11] Esta ruta se divide en tres líneas principales: la Ruta Norte (官道), la Ruta Central (民道) y la Ruta Sur (茶道), cada una con su propio trasfondo histórico y características culturales. En los últimos años, el gobierno de Nueva Taipéi ha colaborado con grupos privados para restaurar por tramos la Antigua Ruta Danlan, permitiendo que más personas experimenten las rutas que siguieron los pueblos ancestrales.
 
-El **Camino Verde Nacional de Montaña-Mar** es el proyecto de senda larga más reciente de Taiwán, extendiéndose desde la cumbre del monte Yushan hasta el Parque Nacional de Taijiang, con una longitud de 177 kilómetros. La característica de esta ruta es que abarca los ecosistemas más diversos de Taiwán, desde zonas de alta montaña y bosques templados, pasando por llanuras subtropicales, hasta humedales y costas, siendo una excelente ruta para conocer los diversos ambientes naturales de Taiwán.
+La **Antigua Ruta Zhangzhi (樟之細路)** es otro sistema de senderos de gran importancia. Esta ruta utiliza la Línea 3 de Taizhou (臺三線) como eje principal y se extiende a través de las colinas bajas del oeste de Taiwán, desde Longtan en Taoyuan hasta Dongshi en Taichung, con una longitud principal de unos 270 kilómetros y un área circundante de unos 400 kilómetros. [^12] El nombre proviene de los ricos recursos de árboles de canela a lo largo del camino y de las pequeñas rutas dejadas por la industria de la goma casera en la antigüedad. La Antigua Ruta Zhangzhi es un corredor cultural que conecta la cultura Hakka, la cultura indígena y la historia de la colonización Han.
 
-## Surgimiento de la cultura del voluntariado en sendas
+El **Sendero Verde Nacional Shan Hai Zhen (山海圳國家綠道)** se extiende desde el Parque Nacional Taijiang a 0 metros de altitud hasta el pico principal de Yushan, con una longitud total de 177 kilómetros. [^13] Esta ruta se formó en 2017 cuando la sucursal de Taian University (Tainan) completó el recorrido desde la bahía interior hasta Yushan. La característica de esta ruta es que abarca los entornos ecológicos más diversos de Taiwán, desde las zonas frías de alta montaña y bosques templados, hasta las llanuras subtropicales y las costas pantanosas, siendo una excelente ruta para conocer el medio ambiente natural de Taiwán.
 
-### De la conservación pasiva a la guardianía activa
+## El surgimiento de la cultura del voluntariado en senderos
 
-La cultura del voluntariado en sendas de Taiwán tiene una trayectoria de desarrollo distintiva. Inicialmente, las actividades voluntarias eran principalmente iniciadas por agencias gubernamentales, con participación relativamente pasiva de los ciudadanos. Sin embargo, con el aumento de la conciencia ambiental, cada vez más personas han comenzado a cuidar activamente el entorno de las sendas, formando una fuerza guardiana autoiniciada.
+### De mantenimiento pasivo a defensa activa
 
-Hoy en día, hay más de 200 grupos de adopción de sendas en toda Taiwán, desde asociaciones de desarrollo comunitario, clubes de montañismo, hasta equipos de voluntariado corporativo, todos invertidos en el trabajo de mantenimiento de sendas. Estos voluntarios no solo limpian basura, sino que también aprenden técnicas básicas de ingeniería de sendas, métodos de monitoreo ecológico, e incluso participan en el diseño y planificación de sendas, convirtiéndose en verdaderos «guardianes de sendas».
+La cultura del voluntariado de senderos en Taiwán tiene un desarrollo único. Inicialmente, las actividades de voluntarios eran en gran medida eventos organizados por agencias gubernamentales para limpiar montañas, y la participación ciudadana era relativamente pasiva. Pero con el aumento de la conciencia ambiental, cada vez más personas han comenzado a preocuparse activamente por el medio ambiente de los senderos, formando una fuerza de defensa espontánea.
 
-### Capacitación voluntaria profesionalizada
+Entre los cerca de 40 grupos que iniciaron la Red de Defensa de Senderos en Taiwán en 2024, se encuentran clubes de montañismo, rescate de montaña, caballería juvenil, universidades comunitarias y empresas de artículos para exteriores. [^5] Estos voluntarios no solo recogen basura; aprenden técnicas básicas de ingeniería de senderos y métodos de monitoreo ecológico, e incluso participan en la planificación y diseño de senderos, convirtiéndose en verdaderos "defensores de los senderos".
 
-La Asociación de Sendas Milenarias ha establecido un sistema completo de capacitación de voluntarios, incluyendo cursos de «ciencia de sendas», entrenamiento en técnicas de trabajo, habilidades de investigación ecológica y otros. Los voluntarios aprenden cómo reparar sendas usando materiales locales, cómo diagnosticar las causas del daño de sendas, cómo realizar recuperación de vegetación y otras habilidades profesionales.
+### Capacitación especializada de voluntarios
 
-Esta capacitación de voluntarios profesionalizada ha elevado el mantenimiento de sendas de «ayuda bien intencionada» a «participación profesional». Muchos voluntarios experimentados poseen niveles técnicos que rivalizan con los de ingenieros profesionales de sendas.
+La Asociación de Senderos Mil Perros ha establecido un sistema completo de capacitación para voluntarios: en 2013 se introdujo el "Estudio de Senderos", colaborando sucesivamente con universidades comunitarias locales. A partir de 2015, comenzaron a capacitar a los "Maestros de Senderos" (步道師), y en 2018 se premió a los "Maestros de Senderos Honorarios" por preservar las técnicas tradicionales. [^2] Los voluntarios aprenden habilidades profesionales como cómo reparar senderos con materiales locales, cómo determinar la causa del deterioro del sendero y cómo realizar la reforestación vegetal.
 
-## Sin huella en la montaña en Taiwán
+Esta capacitación especializada ha elevado el mantenimiento de senderos de una "ayuda bienintencionada" a una "participación profesional". El nivel técnico de muchos voluntarios experimentados no es inferior al de los ingenieros de senderos profesionales.
 
-### La práctica localizada de los siete principios de LNT
+## No Dejar Rastro en Taiwán
 
-El concepto de «sin huella en la montaña» (Leave No Trace, LNT) se originó en Estados Unidos, pero ha desarrollado una evolución localizadora única en Taiwán. Dada la alta densidad de población en las montañas de Taiwán y lo frágil del entorno ecológico, la necesidad de LNT es aún más imperante.
+### Implementación local de los siete principios LNT
 
-Los siete principios de LNT —«planificación y preparación exhaustiva previa», «acampar en sitios de carga sostenible», «eliminar basura apropiadamente y mantener el ambiente», «preservar la apariencia original del ambiente», «minimizar el impacto del fuego en el ambiente», «respetar la fauna y flora silvestre», «considerar otros usuarios»— tienen formas concretas de práctica en Taiwán.
+El concepto de No Dejar Rastro (Leave No Trace, LNT) proviene de Estados Unidos, pero ha tenido un desarrollo localizado único en Taiwán. Debido a la alta densidad de población y el frágil medio ambiente de las montañas de Taiwán, la necesidad de LNT es más apremiante.
 
-### Desafíos únicos de Taiwán
+Los siete principios LNT promovidos por la Administración Forestal tienen formas concretas de implementación en Taiwán: "planificación y preparación adecuadas con antelación", "acampar y caminar en lugares portantes", "manejo adecuado de residuos para mantener el medio ambiente", "mantener la apariencia original del entorno", "reducir el impacto del fuego en el medio ambiente", "respetar a la vida silvestre" y "considerar a otros usuarios". [^14]
 
-El ambiente especial de las montañas de Taiwán plantea desafíos únicos para la práctica de LNT. Por ejemplo, el alto nivel de humedad en las montañas de Taiwán hace que los desechos de cocina se descompongan lentamente, y si no se manejan correctamente pueden atraer vida silvestre como monos; la geología inestable de Taiwán requiere especial atención en la selección de campamentos; la alta densidad de senderistas en Taiwán requiere aún más énfasis en el respeto a otros usuarios.
+### Desafíos particulares de Taiwán
 
-Para resolver estos problemas, la comunidad de montañismo de Taiwán ha desarrollado muchas prácticas localizadas de LNT, como la cultura de «llevar los desechos de cocina de regreso a la ciudad» y el sistema de «rotación de campamentos» de gestión.
+El entorno especial de las montañas de Taiwán presenta desafíos únicos para la implementación de LNT. Por ejemplo, el alto nivel de humedad en Taiwán hace que la descomposición de los restos de comida sea lenta; si no se manejan adecuadamente, pueden atraer animales salvajes como monos macacos (獼猴); la inestabilidad geológica de Taiwán requiere una especial atención a la elección del campamento; y la alta densidad de población en las montañas exige un mayor énfasis en el respeto por los otros usuarios.
 
-## Tecnología y protección de sendas
+Para resolver estos problemas, el manual LNT de la Administración Forestal exige llevarse consigo todos los residuos, alimentos y restos de comida al abandonar el campamento, sin quemarlos ni enterrarlos: quemar puede atraer o asustar a los animales salvajes, y los desechos enterrados pueden ser excavados por la fauna o expuestos por la lluvia. [^14]
 
-### La aplicación de herramientas digitales
+## Tecnología y protección de senderos
 
-La tecnología moderna presenta nuevas posibilidades para la protección de sendas. Más allá de la plataforma iTrail mencionada anteriormente, muchas aplicaciones innovadoras están transformando el panorama de la gestión de sendas.
+### Uso de herramientas digitales
 
-Los sistemas de seguimiento GPS pueden monitorear con precisión el uso de sendas, ayudando a las unidades de gestión a establecer límites de carga razonables; la tecnología de fotografía aérea con drones puede investigar rápidamente daños en sendas en un área amplia; los sensores ambientales pueden monitorear en tiempo real indicadores ambientales como la calidad del aire y el ruido.
+La tecnología moderna trae nuevas posibilidades para la protección de senderos. Además de la plataforma iTrail mencionada anteriormente, muchas aplicaciones innovadoras están cambiando el panorama de la gestión de senderos.
 
-### Macrodatos y mantenimiento predictivo
+Los sistemas de rastreo GPS pueden monitorear con precisión el uso del sendero, ayudando a las unidades de gestión a establecer límites de capacidad razonables; la tecnología de drones puede investigar rápidamente los daños en áreas extensas; y los sensores ambientales pueden monitorear en tiempo real indicadores ambientales como la calidad del aire y el ruido.
 
-Al integrar múltiples fuentes de datos, los investigadores comienzan a intentar construir modelos predictivos para el mantenimiento de sendas. Al combinar datos meteorológicos, datos geológicos, estadísticas de uso y otra información, es posible predecir qué segmentos de sendas son propensos a dañarse y cuándo, permitiendo el mantenimiento preventivo anticipado.
+### De informe a base de datos
 
-Este concepto de «mantenimiento predictivo» puede reducir significativamente los costos de mantenimiento de sendas y prevenir los riesgos que el daño de sendas puede plantear a los usuarios.
+La Asociación de Senderos Mil Perros declaró en 2026 que el siguiente paso sería desarrollar un "sistema de aprendizaje en línea" y un "reconocimiento de bases de datos con IA", y firmar acuerdos preliminares con instituciones académicas para organizar los informes ciudadanos en datos utilizables para la elaboración de políticas. [^8]
 
 ## Desafíos y perspectivas
 
 ### La amenaza del cambio climático
 
-El cambio climático global está teniendo un impacto grave en el ambiente forestal de Taiwán. Los eventos climáticos extremos están aumentando, causando daños más frecuentes a las sendas; el aumento de la temperatura está alterando la distribución de la vegetación, afectando el equilibrio ecológico alrededor de las sendas; los cambios en los patrones de lluvia están aumentando el riesgo de deslaves de tierra y piedra.
+El cambio climático global está teniendo un impacto severo en el medio ambiente forestal de Taiwán. El aumento de eventos climáticos extremos hace que los daños a los senderos sean más frecuentes; el aumento de la temperatura ha cambiado la distribución de la vegetación, afectando el equilibrio ecológico alrededor de los senderos; y los cambios en los patrones de lluvia aumentan el riesgo de deslizamientos de tierra.
 
-Frente a estos desafíos, la planificación y el mantenimiento de sendas deben enfatizar más la adaptación al clima. Adoptar materiales más resistentes a la intemperie, diseñar sistemas de drenaje más completos, y establecer mecanismos de respuesta más flexibles son todas direcciones necesarias de ajuste.
+Ante estos desafíos, la planificación y el mantenimiento de los senderos deben poner mayor énfasis en la adaptación climática. Adoptar materiales de construcción más resistentes a la intemperie, diseñar sistemas de drenaje más completos y establecer mecanismos de respuesta más flexibles son direcciones necesarias.
 
-### La importancia de la transmisión intergeneracional
+### La importancia de la transmisión generacional
 
-El movimiento de guardianía de sendas de Taiwán está enfrentando un momento crítico de transición generacional. Muchos voluntarios experimentados tienen más de sesenta años, y cómo atraer a personas jóvenes para invertirse en el trabajo de protección de sendas es una cuestión importante.
+El movimiento de defensa de senderos en Taiwán se enfrenta a un momento crucial de transición generacional: cómo atraer a los jóvenes al trabajo de protección de senderos es un desafío importante.
 
-Los nuevos voluntarios traen diferentes habilidades y perspectivas, tales como marketing digital, gestión de comunidades en línea, y aplicaciones tecnológicas. Cómo integrar la experiencia forestal de la generación anterior con las herramientas digitales de la nueva generación es la cuestión central para la siguiente etapa del movimiento de guardianía de sendas.
+La nueva generación de voluntarios aporta diferentes habilidades y perspectivas, como el marketing digital, la gestión de redes sociales y la aplicación de tecnología. El desafío clave para la próxima fase del movimiento de defensa de senderos es combinar la experiencia forestal de la generación anterior con las herramientas digitales de la nueva generación.
 
-### Intercambio internacional y aprendizaje
+### Intercambio y aprendizaje internacional
 
-La cultura de sendas de Taiwán ya está comenzando a avanzar hacia el escenario internacional. La Asociación de Sendas Milenarias ha establecido relaciones de cooperación con organizaciones como la «Senda Milenaria Michinoku Shiokaze» de Japón y la «Senda de Olle de Jeju» de Corea del Sur, aprendiendo mutuamente sobre experiencias en planificación y gestión de sendas.
+La cultura de los senderos en Taiwán ha comenzado a internacionalizarse. En 2018, la Asociación de Senderos Mil Perros firmó un memorando de cooperación "Senderos Amigos" con Jeju (濟州) de Corea; en 2023, facilitó que el sendero Danlan centenario y Jeju (宮城) de Japón establecieran senderos amigos, y ese mismo año asumió la secretaría de la Asociación de Senderos Asiáticos. [^15]
 
-Este intercambio internacional no solo enriquece el contenido cultural de las sendas de Taiwán, sino que también eleva el estatus de Taiwán en la comunidad internacional de sendas. La experiencia de gestión de sendas de Taiwán está gradualmente ganando atención en la comunidad de sendas de Asia-Pacífico.
+Este intercambio internacional no solo ha enriquecido el contenido cultural de los senderos en Taiwán, sino que también ha elevado el estatus de Taiwán en la comunidad internacional de senderismo. La experiencia de gestión de senderos de Taiwán está ganando atención en la comunidad asiático-pacífica.
 
-## Conclusión: las sendas como expresión de los valores de Taiwán
+## Conclusión: El sendero como manifestación del valor taiwanés
 
-La cultura de sendas de Taiwán refleja los valores distintivos de esta isla: el respeto por el ambiente natural, la participación en asuntos públicos, la búsqueda del conocimiento profesional, y la valoración de la colaboración comunitaria. Desde la «política de doble cero» de la Asociación de Sendas Milenarias, pasando por la participación ciudadana de la plataforma iTrail, hasta la ética ambiental del «sin huella en la montaña», estos esfuerzos tejen conjuntamente una red de seguridad para la guardianía de los bosques de Taiwán.
+La cultura de los senderos en Taiwán refleja un valor único de esta isla: el respeto por el medio ambiente, la participación en asuntos públicos, la búsqueda de conocimiento profesional y la importancia de la cooperación comunitaria. Desde la "política cero" de la Asociación de Senderos Mil Perros, hasta la participación ciudadana de la plataforma iTrail, y la ética ambiental del No Dejar Rastro, todos estos esfuerzos tejen una red de seguridad para los bosques de Taiwán.
 
-Cada senda cuenta una historia, cada huella representa un compromiso. Cuando caminamos por estos senderos de montaña, no solo estamos moviendo nuestros cuerpos, sino que también estamos perpetuando una tradición cultural y practicando una responsabilidad ambiental.
+Cada sendero es una historia, y cada huella es un compromiso. Cuando caminamos por estas rutas, no solo nos movemos físicamente; estamos continuando una tradición cultural y practicando una responsabilidad ambiental.
 
-La cultura de sendas de Taiwán ilustra una verdad: la protección ambiental puede ser participada por cada persona que ama esta tierra, sin necesidad de esperar al gobierno o a expertos. En una era en la que la relación entre humanos y naturaleza se vuelve cada vez más distante, las sendas proporcionan una oportunidad para reconectarse, y también preservan activos naturales preciosos para las generaciones futuras.
+La cultura de los senderos en Taiwán demuestra algo: la protección del medio ambiente puede ser realizada por cualquier persona que ame esta tierra, sin tener que esperar al gobierno o a los expertos. En una era donde la relación entre humanos y naturaleza se vuelve cada vez más distante, el sendero ofrece una oportunidad para reconectar y preservar recursos naturales valiosos para las generaciones futuras.
 
-La Asociación de Sendas Milenarias enfatiza que la guardianía de sendas tiene como objetivo aprender a coexistir con los bosques, lo que quizás sea el espíritu más fundamental de la cultura de sendas de Taiwán.
+El lema de la Red de Defensa de Senderos en Taiwán dice: "Hacer que los bosques sean mejores gracias a nuestra visita". [^16] Quizás este sea el espíritu más central de la cultura de los senderos en Taiwán.
 
 ## Referencias
 
-[^1]: [Hitos importantes de la Asociación de Sendas Milenarias - iTrail](https://itrail.tw/aboutus/important-events) — Confirmación del lanzamiento oficial del movimiento de Sendas Milenarias el 23 de abril de 2006 y la formalización de la asociación como persona jurídica el 8 de junio de 2011.
+[^1]: [Registro histórico de la Asociación de Senderos Mil Perros - Red de Defensa de Senderos](https://itrail.tw/aboutus/important-events) — "Adiós a los escalones de piedra" en 2002, la propuesta del concepto cero-cero en la conferencia nacional de ONG ambientales en 2012 y el sondeo de senderos suburbanos de las dos áreas (Taipéi y Nueva Taipéi), y el Día del Sendero en 2014, y la revisión decenal en 2023, y la Red de Defensa de Senderos en 2024.
 
-[^2]: [Sitio oficial de la Asociación de Sendas Milenarias](https://www.tmitrail.org.tw/) — Misión de la asociación, la política de doble cero y la filosofía de conservación de sendas promovida por Huang Wu-hsiung.
+[^2]: [Introducción a los Senderos Mil Perros - Red de Defensa de Senderos](https://itrail.tw/aboutus/introduction) — La introducción del sendero hecho a mano después de que Hsu Ming-chien hiciera voluntariado en el sendero Apalaches; la propuesta del Estudio de Senderos en 2013, la capacitación de Maestros de Senderos en 2015 y la premiación de los Maestros de Senderos Honorarios en 2018.
 
-[^3]: [Plataforma inteligente de sendas iTrail](https://itrail.tw/) — Plataforma de reporte sobre el estado de las sendas, lanzada en 2024, con más de 15.000 reportes recibidos en su primer año de operación.
+[^3]: [Origen - Asociación de Senderos Mil Perros de Taiwán](https://www.tmitrail.org.tw/about) — Los Senderos Mil Perros fueron iniciados por Huang Wu-hsiung, Hsiao Ye y Hsu Ren-shiu el 23 de abril de 2006, soñando con una red verde que rodea toda la isla.
 
-[^4]: [Senda Tamsui-Kavalan de Nuevo Taipei - Gobierno de la ciudad de Nuevo Taipei](https://trails.ntpc.gov.tw/) — Presentación de las tres rutas principales (norte, central y sur) de la senda Tamsui-Kavalan e información sobre el plan de restauración.
+[^4]: [Los Senderos Mil Perros celebran 20 años defendiendo al más hermoso "camino del pueblo" de Taiwán - Smile Taiwan](https://smiletaiwan.cw.com.tw/article/9059) — Reportaje de los 20 años de los Senderos Mil Perros en abril de 2026, recordando la asamblea de inicio el 23 de abril de 2006 y a los tres iniciadores.
 
-[^5]: [Sendas Milenarias 20 años: el nacimiento de un camino - Smile Taiwan](https://smiletaiwan.cw.com.tw/article/9059) — Reportaje sobre dos décadas del trabajo de promoción de la Asociación de Sendas Milenarias.
+[^5]: [Nace el primer sitio de ciencia ciudadana con como objetivo la vigilancia de senderos - Red de Defensa de Senderos](https://itrail.tw/news/8304) — Comunicado de prensa del 4 de junio de 2024: iniciado por cerca de 40 grupos, mecanismo de informe y uso para las agencias gubernamentales.
+
+[^6]: [Página principal de la Red de Defensa de Senderos](https://itrail.tw/) — Estadísticas de informes (lectura en octubre de 2026: un total de 2,702 informes y 314 informantes) y clasificación de los informes.
+
+[^7]: [Proceso de desarrollo - Asociación de Senderos Mil Perros de Taiwán](https://www.tmitrail.org.tw/page/1795) — La propuesta de una nueva visión para los senderos en 2012 y la trilogía de defensa suburbana; se estableció el primer sábado de junio como Día del Sendero en Taiwán, celebrado por primera vez en 2014.
+
+[^8]: [Se lanza oficialmente la "Orden de movilización para el segundo monitoreo nacional del Día del Sendero de 2026" - Red de Defensa de Senderos](https://itrail.tw/news/12170) — Período del evento del 6 al 30 de junio, informes visuales basados en escalas corporales, función de borrador y el siguiente paso con el sistema de aprendizaje en línea y el reconocimiento de bases de datos con IA.
+
+[^9]: [Gran revelación de los resultados de la revisión decenal del Día del Sendero de Taiwán 2025 - Red de Defensa de Senderos](https://itrail.tw/news/10713) — Revisión de 324 senderos con una extensión total de 572.5 kilómetros de 2023 a 2025; Taipéi: cemento del 74% al 47%, natural del 10% al 27%; Taichung: cemento del 54.6% al 37%; aumento neto de unos 22 kilómetros de pavimentación de cemento en las dos áreas (Taipéi y Nueva Taipéi).
+
+[^10]: [Origen del sondeo de pavimentación 1.0 - Red de Defensa de Senderos](https://itrail.tw/aboutus/the-origin-of-shop-floor-survey-1-0) — Resultados del sondeo de senderos suburbanos de las dos áreas (Taipéi y Nueva Taipéi): cemento cercano al 75% en Taipéi, un diez por ciento natural; cemento aproximado del 27% en Nueva Taipéi, pavimentación artificial del 64%, y la encuesta de Taichung en 2018.
+
+[^11]: [Se inicia el Sendero Verde Nacional Danlan, reconociendo el significado cultural de los senderos - Central News Agency](https://www.cna.com.tw/news/aloc/201806020109.aspx) — En 2018, la Antigua Ruta Danlan (Norte, Centro y Sur) tuvo una longitud total de unos 200 kilómetros, incluyendo la ruta oficial, la ruta civil y la ruta del té.
+
+[^12]: [Antigua Ruta Zhangzhi - Weekly Magazine](https://www.businesstoday.com.tw/article/category/80730/post/202011100016/) — Comité Hakka: con la Línea 3 de Taizhou como eje principal, desde Longtan en Taoyuan hasta Dongshi en Taichung, una longitud principal de unos 270 kilómetros más unos 400 kilómetros de red.
+
+[^13]: [Rastreando los cuatrocientos años de Taiwán: Caminando el Sendero Verde Nacional Shan Hai Zhen - Smile Taiwan](https://smiletaiwan.cw.com.tw/article/3018) — Lin Hua-ching (2020): la longitud total del Parque Nacional Taijiang a Yushan es de 177 kilómetros, formado por la sucursal de Taian University (Tainan) en 2017.
+
+[^14]: [Concepto de acción No Dejar Rastro - Administración Forestal](https://recreation.forest.gov.tw/Files/RT/Doc/%E7%84%A1%E7%97%95%E5%B1%B1%E6%9E%97%E8%A1%8C%E5%8B%95%E6%A6%82%E5%BF%B5.pdf) — El texto original de los siete principios LNT y el método de llevarse consigo toda la basura, alimentos y restos de comida, sin quemar ni enterrar.
+
+[^15]: [Intercambio internacional - Asociación de Senderos Mil Perros de Taiwán](https://www.tmitrail.org.tw/work-content/1425) — Firma del MOU "Senderos Amigos" con Jeju en 2018; asunción de la secretaría de la Asociación de Senderos Asiáticos en 2023; senderos amigos Danlan y Jeju.
+
+[^16]: [Explicación del lema de la Red de Defensa de Senderos - Red de Defensa de Senderos](https://itrail.tw/aboutus/mission-statement) — El concepto "cero pérdida en senderos naturales, cero crecimiento en senderos de cemento" y el propósito del sitio web.

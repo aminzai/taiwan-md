@@ -18,15 +18,11 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
-# design_rationale:
-#   why_this_hook: "從《台北人》到青春版牡丹亭——他的生涯跨越了現代小說與傳統戲曲的兩個高峰，時間軸本身就是故事。"
-#   whats_excluded: "各短篇小說個別分析；崑曲技術細節；家族政治史細節"
-#   where_it_hedges: "已移除「2018年第七屆紅樓夢獎決審團獎」幻覺（該屆得主是《青蚨子》《望春風》，非白先勇）；中山文藝獎無法驗證（已移除，以2003國家文藝獎為準）"
 translatedFrom: 'People/白先勇.md'
-sourceCommitSha: '7415dcaae'
-sourceContentHash: 'sha256:27b9c46e9dd00321'
-sourceBodyHash: 'sha256:bfc5f694a6aa2127'
-translatedAt: '2026-05-18T05:08:09+08:00'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:d675a47ee18feb3d'
+sourceBodyHash: 'sha256:44085a78b193e440'
+translatedAt: '2026-10-10T08:08:50.354391+00:00'
 ---
 
 # Pai Hsien-yung: _Los viejos de Taipéi_ (1971) y veinte años de la gira de la versión juvenil de _El pabellón de las peonías_
@@ -75,25 +71,25 @@ Este premio constituyó el reconocimiento oficial del mundo literario taiwanés 
 
 (Nota: ni el "Premio Literario Zhongshan" ni el "Premio del Jurado del VII Premio Sueño en el Pabellón Rojo (2018)" han podido ser verificados. Este último es un error: los ganadores del VII Premio Sueño en el Pabellón Rojo (2018) fueron _Qingfuzi_ y _Wangchunfeng_, no obras de Pai Hsien-yung.[^5])
 
-## Vigésimo aniversario de la versión juvenil de _El pabellón de las peonías_ y _Veinte años de peonías en flor_
+## El 20 aniversario de la versión juvenil de _El pabellón de las peonías_ y _El pabellón de las peonias floreciendo durante veinte años_
 
-En septiembre de 2024 se lanzó la gira conmemorativa del vigésimo aniversario de la versión juvenil de _El pabellón de las peonías_.[^2] En noviembre del mismo año se publicó _Veinte años de peonías en flor_, que documenta dos décadas de representaciones.
+En septiembre de 2024, se puso en marcha la gira con motivo del 20 aniversario de la versión juvenil de _El pabellón de las peonias_.[^2] En noviembre de ese mismo año se publicó _El pabellón de las peonias floreciendo durante veinte años_, que registra el proceso de veinte años de representaciones.
 
 En octubre de 2025, la Universidad Nacional de Taiwán organizó una exposición especial sobre la literatura de Pai Hsien-yung.[^4] En 2026, Pai Hsien-yung sigue activo.
 
-La gira del vigésimo aniversario en 2024 abarcó Taipéi, Hong Kong, Suzhou y otras ciudades. _Veinte años de peonías en flor_ registra la trayectoria completa de este proyecto cultural desde el estreno hasta este hito fundamental.
+La gira del 20 aniversario de 2024 abarcó varias ciudades, incluyendo Taipéi, Hong Kong y Suzhou, y _El pabellón de las peonias floreciendo durante veinte años_ documenta el recorrido completo de este proyecto cultural, desde su estreno hasta sus hitos más importantes.
 
-En 2026, Pai Hsien-yung continúa participando en actividades públicas, promoviendo la cultura de la ópera Kunqu y la educación literaria. Esta continuidad en sí misma es una declaración contra la desaparición.
+En 2026, Pai Hsien-yung sigue participando en actividades públicas, promoviendo continuamente la cultura del kunqu y la educación literaria. El hecho de que continúe activo es una declaración de resistencia contra el olvido.
 
-> 🎙️ **Nota del comisario:** Pai Hsien-yung es uno de los pocos creadores en la historia de la literatura taiwanesa que comenzó como "novelista moderno" y concluyó como "restaurador de la cultura tradicional". Este arco no es una transición en el sentido ordinario, sino una profundización. La nostalgia por lo que desaparece en _Los viejos de Taipéi_ y la protección de la ópera Kunqu en la versión juvenil de _El pabellón de las peonías_ nacen de la misma conciencia: cómo impedir que lo valioso desaparezca.
+> 🎙️ **Notas del comisionado**: Pai Hsien-yung es uno de los pocos creadores en la historia literaria de Taiwán que comenzaron como «novelistas modernos» y terminaron como «revitalizadores de la cultura tradicional». Esta trayectoria no es una mera transformación, sino una profundización. El lengor por lo efímero en _Taipéis_ y la defensa del kunqu en la versión juvenil de _El pabellón de las peonias_ nacen de la misma conciencia crítica: cómo evitar que desaparezca lo valioso.
 >
-> Su éxito demuestra que la preservación cultural no necesita museificarse ni vulgarizarse. Lo que necesita es una persona con suficiente nivel artístico y suficiente perseverancia, que se empeñe continuamente en hacerlo lo bastante bien.
+> Su éxito demuestra que la preservación cultural no requiere un enfoque museístico ni tampoco un enfoque popular. Requiere una persona con suficiente talento artístico y determinación, que lo mantenga haciéndolo lo mejor posible.
 >
-> _Los hijos del pecado_ y la versión juvenil de _El pabellón de las peonías_ —uno rompiendo el silencio en 1983, el otro resucitando lo clásico en 2004—, aparentemente dispares, nacen de la misma protección profunda de lo marginado.
+> _El hijo pródigo_ y la versión juvenil de _El pabellón de las peonias_ (uno rompiendo el silencio en 1983, otro resucitando lo clásico en 2004), aunque aparentan ser completamente distintos, ambos emergen de la misma defensa apasionada de lo marginado.
 
-Desde Guilin, Guangxi, hasta el Parque de la Nueva Era de Taipéi, y desde _Literatura Moderna_ hasta la Compañía de Ópera Kun de Suzhou, la trayectoria de seis décadas de Pai Hsien-yung es el ejemplo de una persona que nunca ha querido soltar el "recuerdo".
+Desde la ciudad de Guilin en Guangxi hasta el nuevo parque de Taipéi, desde _Literatura moderna_ hasta el Teatro Kunqu de Suzhou, la trayectoria de sesenta años de Pai Hsien-yung es el testimonio de alguien que nunca ha cedido en su lucha por la memoria.
 
-**Lectura complementaria:** [Pai Hsien-yung — Wikipedia](https://zh.wikipedia.org/wiki/白先勇) ｜ [Premio Nacional de Artes: registro del galardón a Pai Hsien-yung](https://www.ncafroc.org.tw/artsaward/winnerDetail@1229) ｜ [Museo Nacional de Literatura de Taiwán](https://www.nmtl.gov.tw/) ｜ [Sanmao](/es/people/san-mao): Pai Hsien-yung recomendó la publicación de su relato debut _Huò_ en _Literatura Moderna_
+**Lecturas recomendadas**: [Pai Hsien-yung — Wikipedia](https://zh.wikipedia.org/wiki/白先勇) ｜ [Premio Nacional de Artes: récord de Pai Hsien-yung](https://www.ncafroc.org.tw/artsaward/winnerDetail@1229) ｜ [Museo Nacional de Literatura de Taiwán](https://www.nmtl.gov.tw/) ｜ [San Mao](/es/people/san-mao): la obra debut de San Mao, _La confusión_, publicada en _Literatura moderna_, fue recomendada por Pai Hsien-yung.
 
 ## Referencias
 
