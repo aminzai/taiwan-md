@@ -22,10 +22,10 @@ lastHumanReview: false
 readingTime: 10
 imageNote: '原 Wikimedia 圖檔已從 Commons 下架（404 Not Found），卡片圖暫缺，待補圖'
 translatedFrom: 'Food/阿婆鐵蛋.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:f215fbcb32524845'
-sourceBodyHash: 'sha256:f4c6330bca417165'
-translatedAt: '2026-09-08T15:54:44+08:00'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:bb3833c08618e661'
+sourceBodyHash: 'sha256:f7475d29ab35a9a7'
+translatedAt: '2026-10-10T04:01:17.961411+00:00'
 ---
 
 # Trứng sắt của A Bà
@@ -104,7 +104,7 @@ Trứng sắt không chỉ là một món ăn vặt, nó còn mang trong mình l
 
 ## Chủ đề liên quan
 
-- [Văn hóa chợ đêm](/vi/food/night-market-culture) — Phân tích sâu sắc về chợ đêm như một không gian xã hội
-- [Đặc sản Đài Loan](/vi/food/taiwanese-street-food) — Sự dũng cảm dân dã trong ẩm thực của người dân Đài Loan
-- [Cơm thịt kho Đài Loan](/vi/food/braised-pork-rice) — Ký ức cộng đồng qua một bát cơm thịt kho
-- [Văn hóa ẩm thực Khách Gia](/vi/food/hakka-food-culture) — Trí tuệ ẩm thực của cộng đồng Khách Gia
+- [Văn hóa chợ đêm](/vi/food/night-market-culture) — Phân tích sâu về chợ đêm như không gian xã hội
+- [Ẩm thực Đài Loan](/vi/food/taiwanese-street-food) — Sự can đảm của người dân chung sinh hoạt hàng ngày
+- [Cơm thịt Đài Loan](/vi/food/braised-pork-rice) — Ký ức dân tộc của một bát cơm thịt
+- [Văn hóa ẩm thực Kinh](/vi/food/hakka-food-culture) — Trí tuệ ẩm thực của cộng đồng Kinh

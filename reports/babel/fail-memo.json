@@ -281,7 +281,7 @@
   "ar:Lifestyle/收費站.md": 7,
   "ar:Culture/台灣茶文化.md": 6,
   "id:Economy/SLP台北創業領導計畫.md": 1,
-  "pt:Society/台灣統獨光譜.md": 2,
+  "pt:Society/台灣統獨光譜.md": 3,
   "id:Lifestyle/收費站.md": 3,
   "id:People/林昶佐.md": 5,
   "pt:History/台灣鐵道史.md": 4,
@@ -378,7 +378,7 @@
   "ar:Economy/SLP台北創業領導計畫.md": 7,
   "ru:Culture/台灣茶文化.md": 3,
   "hi:People/黃山料.md": 2,
-  "id:Society/台灣體育發展與奧運.md": 8,
+  "id:Society/台灣體育發展與奧運.md": 9,
   "ru:Music/台灣樂器製造.md": 9,
   "id:Culture/台灣聲景.md": 5,
   "ar:People/魏如萱.md": 1,
@@ -2974,7 +2974,7 @@
   "de:Society/天下雜誌.md": 2,
   "de:Technology/國家太空中心.md": 6,
   "de:About/taiwan-md.md": 1,
-  "de:Society/台灣統獨光譜.md": 2,
+  "de:Society/台灣統獨光譜.md": 3,
   "de:History/台灣鐵道史.md": 1,
   "de:Society/台灣災難志工文化.md": 1,
   "de:Culture/台灣傳統工藝與無形文化資產.md": 1,
@@ -4007,5 +4007,7 @@
   "fr:Technology/Computex.md": 1,
   "de:Technology/Computex.md": 1,
   "es:Technology/Computex.md": 1,
-  "ko:Society/台灣統獨光譜.md": 1
+  "ko:Society/台灣統獨光譜.md": 1,
+  "ru:Society/台灣統獨光譜.md": 1,
+  "en:Society/台灣體育發展與奧運.md": 1
 }
