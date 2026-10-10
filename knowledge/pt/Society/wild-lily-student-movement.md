@@ -147,6 +147,6 @@ E aquele ano, a resposta começou a aparecer.
 
 ## Temas Relacionados
 
-- [Movimento Estudantil Girassol](/society/sunflower-student-movement): Vinte e quatro anos depois, como outra geração de estudantes voltou a impulsionar o debate institucional
+- [Movimento Estudantil Girassol](/pt/society/sunflower-movement): Vinte e quatro anos depois, como outra geração de estudantes voltou a impulsionar o debate institucional
 - [Sistema Democrático](/pt/society/democratic-system): Como as regras democráticas atuais de Taiwan foram construídas passo a passo
-- [Ambiente Político e Sistema Eleitoral de Taiwan](/society/taiwan-political-environment-electoral-system): A transformação institucional do Parlamento Vitalício à eleição geral
+- [Ambiente Político e Sistema Eleitoral de Taiwan](/pt/society/taiwan-political-landscape-and-electoral-system): A transformação institucional do Parlamento Vitalício à eleição geral

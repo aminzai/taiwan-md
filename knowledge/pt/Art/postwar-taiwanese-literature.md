@@ -161,7 +161,7 @@ Os próximos 42 anos serão escritos por outros.
 - [Literatura taiwanesa contemporânea](/pt/art/contemporary-taiwanese-literature) — Século XXI: internacionalização de Wu Ming-yi, Lin Yi-han, vaga digital
 - [História da literatura de Taiwan](/pt/art/history-of-taiwanese-literature) — Do período holandês, Ming-Qing, japonês, pós-guerra ao contemporâneo: o fio condutor global
 - [Literatura do período japonês](/pt/art/taiwanese-literature-during-japanese-rule) — Lai Ho, Lu Ho-jo, Chang Wen-huan, Yang Kui: o ponto de partida do período japonês, a outra ponta da afasia do pós-guerra
-- [Lin Hai-yin](/people/林海音) — Editora de suplemento do pós-guerra, promotora da segunda geração _benshengren_
+- [Lin Hai-yin](/pt/people/lin-liang-childrens-literature) — Editora de suplemento do pós-guerra, promotora da segunda geração _benshengren_
 - [Terror Branco](/history/白色恐怖) — Contexto político da prisão de Yeh Shih-tao, Ilha Verde de Yang Kui, Monte Lukut de Lu Ho-jo
 - [Incidente 228](/pt/history/228-incident) — Impacto de 1947 no meio literário (Wang Teng-teng, Yang Kui, Ye Tao)
 - [Período da lei marcial](/pt/history/martial-law-era) — Condições políticas da atividade literária 1949-1987
