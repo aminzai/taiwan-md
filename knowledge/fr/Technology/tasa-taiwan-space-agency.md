@@ -20,6 +20,15 @@ lastHumanReview: false
 featured: true
 imageLicense: 'Fair use editorial commentary（©TASA）'
 imageSource: 'https://www.tasa.org.tw/zh-TW/missions/detail/FORMOSAT-8'
+sporeLinks:
+  - id: 122
+    platform: 'threads'
+    date: '2026-06-04'
+    url: 'https://www.threads.com/@taiwandotmd/post/DZKv7oAmIQY'
+  - id: 123
+    platform: 'x'
+    date: '2026-06-04'
+    url: 'https://x.com/taiwandotmd/status/2062546721742483679'
 translatedFrom: 'Technology/國家太空中心.md'
 sourceCommitSha: 'faa905d7'
 sourceContentHash: 'sha256:27a79bac11713a70'

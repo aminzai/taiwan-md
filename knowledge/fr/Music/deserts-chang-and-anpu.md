@@ -19,6 +19,15 @@ category: 'Music'
 readingTime: 15min
 lastVerified: 2026-04-13
 lastHumanReview: true
+sporeLinks:
+  - id: 25
+    platform: 'threads'
+    date: '2026-04-13'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXDq1FZkddO'
+  - id: 27
+    platform: 'x'
+    date: '2026-04-13'
+    url: 'https://x.com/taiwandotmd/status/2043538702853644444'
 translatedFrom: 'Music/張懸與安溥.md'
 sourceCommitSha: 'f803d0b6'
 sourceContentHash: 'sha256:27ef434e8d6b0605'
