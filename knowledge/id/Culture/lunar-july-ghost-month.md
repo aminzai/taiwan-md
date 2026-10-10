@@ -104,8 +104,8 @@ Ketika kita melihat di musim panas tahun 2026 bahwa meja persembahan kecil juga 
 
 ## Bacaan Lanjutan
 
-- [Hari Zhongyuan](/culture/zhongyuan) — Pembacaan sejarah Hari Zhongyuan sebagai perjanjian perdamaian sosial
-- [Hari Dongzhi](/culture/dongzhi) — Satu lagi festival yang didefinisikan ulang oleh Taiwan
+- [Hari Zhongyuan](/id/culture/ghost-festival-zhongyuan) — Pembacaan sejarah Hari Zhongyuan sebagai perjanjian perdamaian sosial
+- [Hari Dongzhi](/id/culture/dragon-boat-festival) — Satu lagi festival yang didefinisikan ulang oleh Taiwan
 
 ## Referensi
 

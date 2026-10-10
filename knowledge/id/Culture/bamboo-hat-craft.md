@@ -125,9 +125,9 @@ Penuaan pengrajin, penyusutan pasar, putusnya rantai pasokan, dan perubahan ikli
 
 ## Bacaan Lanjutan
 
-- [Tekstil Bunga Taiwan](/culture/Taiwan_Flower_Cloth) — Sama seperti _douli_, ini adalah produk yang diberi "label Tionghoa" pada 1990-an, namun di baliknya terdapat lapisan memori kehidupan bersama dari berbagai etnis.
-- [Budaya Teh Taiwan](/culture/Taiwan_Tea_Culture) — Penurunan jumlah pemetik teh secara langsung menarik pasar _douli_.
-- [Peta Budaya 16 Suku Penduduk Asli Taiwan](/culture/Indigenous_Peoples_of_Taiwan) — Akar dari topi jerami rumput liar di Yuanli berasal dari wanita suku Pingpu, bukan Han.
+- [Tekstil Bunga Taiwan](/id/culture/taiwan-floral-fabric) — Sama seperti _douli_, ini adalah produk yang diberi "label Tionghoa" pada 1990-an, namun di baliknya terdapat lapisan memori kehidupan bersama dari berbagai etnis.
+- [Budaya Teh Taiwan](/id/culture/taiwanese-tea-culture-and-living-aesthetics) — Penurunan jumlah pemetik teh secara langsung menarik pasar _douli_.
+- [Peta Budaya 16 Suku Penduduk Asli Taiwan](/id/culture/indigenous-peoples-16-tribes-cultural-map) — Akar dari topi jerami rumput liar di Yuanli berasal dari wanita suku Pingpu, bukan Han.
 
 ## Referensi
 

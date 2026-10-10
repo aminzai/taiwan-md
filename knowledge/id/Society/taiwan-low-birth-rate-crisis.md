@@ -222,11 +222,11 @@ Nyanyian mungkin akan mengecil, tetapi selama masih ada orang yang bernyanyi, it
 
 **Bacaan Lanjutan:**
 
-- [Pendidikan Pedesaan Taiwan](/society/Taiwan_Pedesaan_Pendidikan) — Ketika pedesaan lebih awal memasuki era penurunan populasi dibandingkan perkotaan empat puluh tahun lalu, sekolah di pedesaan adalah tempat pertama di mana surat ini sampai.
-- [Sistem Pendidikan dan Budaya Akademik](/society/Sistem_Pendidikan_dan_Budaya_Akademik) — Penutupan universitas dan jurang sumber siswa tidak dapat dipisahkan dari bagaimana masyarakat memandang "pendidikan tinggi".
-- [Perkembangan Sistem Perawatan Jangka Panjang Taiwan](/society/Taiwan_Perawatan_Jangka_Panjang) — Ketika lebih dari 20% adalah orang di atas 65 tahun dan 215.000 perawat asing menopang 215.000 tempat tidur, perawatan jangka panjang adalah sisi lain dari penurunan populasi.
-- [Industri Robotika Taiwan](/technology/Taiwan_Industri_Robotik) — Jika berkurangnya jumlah orang adalah kepastian, otomatisasi akan menjadi salah satu kunci untuk "mengorganisasi ulang produksi dalam populasi yang berkurang".
-- [Ekspansi dan Penutupan Pendidikan Tinggi di Taiwan](/society/Taiwan_Pendidikan_Tinggi_Ekspansi_dan_Penutupan) — Dinding penurunan populasi menghantam universitas: setelah meningkat dari 58 menjadi 148, bagaimana sekolah ditutup dan siapa yang menanggung biayanya.
+- [Pendidikan Pedesaan Taiwan](/id/society/taiwan-rural-education) — Ketika pedesaan lebih awal memasuki era penurunan populasi dibandingkan perkotaan empat puluh tahun lalu, sekolah di pedesaan adalah tempat pertama di mana surat ini sampai.
+- [Sistem Pendidikan dan Budaya Akademik](/id/society/education-system-and-admissions-culture) — Penutupan universitas dan jurang sumber siswa tidak dapat dipisahkan dari bagaimana masyarakat memandang "pendidikan tinggi".
+- [Perkembangan Sistem Perawatan Jangka Panjang Taiwan](/id/society/long-term-care-system-development) — Ketika lebih dari 20% adalah orang di atas 65 tahun dan 215.000 perawat asing menopang 215.000 tempat tidur, perawatan jangka panjang adalah sisi lain dari penurunan populasi.
+- [Industri Robotika Taiwan](/id/technology/taiwan-robotics-industry) — Jika berkurangnya jumlah orang adalah kepastian, otomatisasi akan menjadi salah satu kunci untuk "mengorganisasi ulang produksi dalam populasi yang berkurang".
+- [Ekspansi dan Penutupan Pendidikan Tinggi di Taiwan](/id/society/taiwan-higher-education-expansion-and-decline) — Dinding penurunan populasi menghantam universitas: setelah meningkat dari 58 menjadi 148, bagaimana sekolah ditutup dan siapa yang menanggung biayanya.
 
 ## Referensi
 

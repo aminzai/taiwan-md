@@ -77,8 +77,8 @@ Namun, seiring perubahan zaman, juga ada sejarawan yang menyatakan, penyombongan
 
 ## Bacaan Lanjutan
 
-- [Industri Semikonduktor](/technology/industri-semikonduktor) — Memahami jalur industri teknologi yang dibangun oleh Sun Yun-suan, Pan Wen-huan, dan Lembaga R&D Industri.
-- [Sistem Transportasi Taiwan](/lifestyle/sistem-transportasi-taiwan) — Membandingkan Sepuluh Proyek Besar dan pemikiran tentang infrastruktur dalam tata urusan berbasis insinur pasiklas.
+- [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Memahami jalur industri teknologi yang dibangun oleh Sun Yun-suan, Pan Wen-huan, dan Lembaga R&D Industri.
+- [Sistem Transportasi Taiwan](/id/lifestyle/transportation-system) — Membandingkan Sepuluh Proyek Besar dan pemikiran tentang infrastruktur dalam tata urusan berbasis insinur pasiklas.
 
 ## Referensi
 

@@ -245,6 +245,6 @@ Air adalah sumber kehidupan, juga dasar pembangunan ekonomi. Di pulau yang indah
 
 Pembacaan Lanjutan:
 
-- [Sistem Alir Sungai Taiwan dan Karakteristik Hidrologi](/geography/sistem-alir-sungai-taiwan-dan-karakteristik-hidrologi)
-- [Iklim](/geography/iklim)
-- [Aktivitas Gerakan Petai dan Gempa di Taiwan](/geography/gerakan-petai-taiwan-dan-aktivitas-gempa)
+- [Sistem Alir Sungai Taiwan dan Karakteristik Hidrologi](/id/geography/taiwan-river-systems-and-hydrology)
+- [Iklim](/id/geography/climate)
+- [Aktivitas Gerakan Petai dan Gempa di Taiwan](/id/geography/tectonic-plates-and-seismic-activity)
