@@ -4,27 +4,25 @@ description: "Né en 1937 à Guilin, province du Guangxi, fils de Bai Chongxi. E
 date: 2026-03-19
 category: 'People'
 tags:
-  - 'Littérature'
-  - 'Littérature moderne'
-  - 'Taipei People'
-  - 'Les Enfants du péché'
-  - 'Kunqu'
-  - 'Bai Chongxi'
+  [
+    'Littérature',
+    'Littérature moderne',
+    'Taipei People',
+    'Les Enfants du péché',
+    'Kunqu',
+    'Bai Chongxi',
+  ]
 subcategory: '文學'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
-# design_rationale:
-#   why_this_hook: "De « Taipei People » à la version jeunesse du « Peony Pavilion » — sa carrière traverse deux sommets, le roman moderne et l'opéra traditionnel, la chronologie étant elle‑même une histoire."
-#   whats_excluded: "Analyse individuelle de chaque nouvelle ; détails techniques du Kunqu ; aspects politiques de l’histoire familiale"
-#   where_it_hedges: "Suppression de la mention illusoire du « Prix du jury du 7ᵉ Red Chamber Award 2018 » (les lauréats étaient « Qing Fuzi » et « Wang Chunfeng », pas Bai Xianyong) ; le Prix artistique de Zhongshan n’est pas vérifiable (supprimé, le Prix national des arts 2003 étant retenu)"
 translatedFrom: 'People/白先勇.md'
-sourceCommitSha: '7415dcaae'
-sourceContentHash: 'sha256:27b9c46e9dd00321'
-sourceBodyHash: 'sha256:bfc5f694a6aa2127'
-translatedAt: '2026-05-18T05:08:09+08:00'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:d675a47ee18feb3d'
+sourceBodyHash: 'sha256:44085a78b193e440'
+translatedAt: '2026-10-10T08:09:21.241367+00:00'
 ---
 
 # Bai Xianyong : de « Taipei People » (1971) à la tournée du « Peony Pavilion » version jeunesse, vingt ans
@@ -73,25 +71,25 @@ Ce prix constitue la reconnaissance officielle par le milieu littéraire taïwan
 
 _(Note : le « Prix artistique de Zhongshan » et le « Prix du jury du 7ᵉ Red Chamber Award 2018 » ne sont pas vérifiables. Le second était une illusion : le lauréat du 7ᵉ Red Chamber Award (2018) était « Qing Fuzi » et « Wang Chunfeng », pas Bai Xianyong[^5].)_
 
-## 20ᵉ anniversaire de la version jeunesse du « Peony Pavilion » et « Peony Flowers Blooming Twenty Years »
+## Le 20e anniversaire de la jeunesse du _Peony Pavilion_ et le _Vingt ans de floraison du peony_
 
-En septembre 2024, la tournée du 20ᵉ anniversaire de la version jeunesse du « Peony Pavilion » démarre[^2]. En novembre de la même année, le livre « Peony Flowers Blooming Twenty Years » est publié, consignant les deux décennies de performances.
+En septembre 2024, la tournée commémorant les 20 ans de la version jeune du _Peony Pavilion_ a débuté[^2]. En novembre de cette année-là, _Vingt ans de floraison du peony_, qui retrace le parcours des vingt années de représentation, a été publié.
 
-En octobre 2025, l’Université nationale de Taiwan organise une exposition spéciale sur Bai Xianyong[^4]. En 2026, il reste actif.
+En octobre 2025, l'Université nationale de Taïwan organisera une exposition littéraire dédiée à Bai Xianyong[^4]. En 2026, Bai Xianyong restera actif.
 
-La tournée de 2024 a traversé Taipei, Hong Kong, Suzhou et d’autres villes ; le livre « Peony Flowers Blooming Twenty Years » retrace le projet culturel depuis la première représentation jusqu’aux étapes majeures.
+La tournée commémorative des 20 ans en 2024 a traversé plusieurs villes, dont Taipei, Hong Kong et Suzhou. _Vingt ans de floraison du peony_ retrace le parcours complet de ce projet culturel, de la première à ses étapes importantes.
 
-En 2026, Bai Xianyong continue de participer à des événements publics, de promouvoir le Kunqu et l’éducation littéraire. Cette persistance même constitue une déclaration contre l’oubli.
+En 2026, Bai Xianyong continuera des activités publiques, promouvant en permanence la culture Kunqu et l'éducation littéraire. Cette persistance est en soi une déclaration contre l'oubli.
 
-> 🎙️ **Note du commissaire‑exposant** : Bai Xianyong est l’un des rares auteurs de l’histoire littéraire taïwanaise à débuter comme « romancier moderne » pour finir comme « revitalisateur de la culture traditionnelle ». Ce parcours n’est pas une simple transition, mais un approfondissement. Le désir de « Taipei People » de préserver ce qui disparaît se retrouve dans la défense du Kunqu par la version jeunesse du « Peony Pavilion », tous deux issus d’une même préoccupation : comment empêcher la perte de ce qui est précieux.
+> 🎙️ **Note du commissaire d'exposition** : Bai Xianyong est l'un des rares créateurs de l'histoire littéraire de Taïwan à avoir commencé comme « romancier moderne » pour finir comme « restaurateur culturel traditionnel ». Cette trajectoire n'est pas une simple transformation, mais un approfondissement. L'attachement au déclin dans _Les gens de Taipei_ et la sauvegarde du Kunqu par la version jeune du _Peony Pavilion_ proviennent d'une même conscience : comment empêcher les choses précieuses de disparaître ?
 >
-> Son succès montre que la sauvegarde culturelle n’a pas besoin d’être muséalisée ni vulgarisée. Elle requiert simplement une personne dotée d’un niveau artistique suffisant et d’une persévérance à le faire bien.
+> Son succès démontre que la préservation culturelle n'a pas besoin d'être muséalisée, ni simplifiée. Elle exige une personne dotée d'un niveau artistique suffisant et d'une ténacité suffisante pour continuer à faire en sorte que ce soit suffisamment bon.
 >
-> « Les Enfants du péché » et la version jeunesse du « Peony Pavilion » (l’un brisant le silence en 1983, l’autre relançant le classique en 2004) semblent très différents, mais partagent la même profonde protection des éléments marginalisés.
+> _Niezizi_ et la version jeune du _Peony Pavilion_ (l'un brisant le silence en 1983, l'autre faisant renaître un classique en 2004) semblent radicalement différents, mais ils proviennent tous deux d'une profonde sauvegarde des choses marginalisées.
 
-De Guilin (Guangxi) à New Park de Taipei, de « Littérature moderne » au théâtre Kunqu de Suzhou, le parcours de plus de soixante ans de Bai Xianyong constitue un exemple de persévérance face à la « mémoire » que l’on refuse d’abandonner.
+Du Guilin de Guangxi à Xin'an Park à Taipei, du _Littérature moderne_ au Théâtre Kunqu de Suzhou, le parcours de soixante ans de Bai Xianyong est l'exemple d'une personne qui refuse obstinément de lâcher prise sur la « mémoire ».
 
-**Lectures complémentaires** : [Bai Xianyong — Wikipédia (zh)](https://zh.wikipedia.org/wiki/白先勇) | [Prix national des arts : dossier de Bai Xianyong](https://www.ncafroc.org.tw/artsaward/winnerDetail@1229) | [Musée national de la littérature taïwanaise](https://www.nmtl.gov.tw/) | [San Mao](/fr/people/san-mao) : Bai Xianyong a recommandé sa première œuvre « Huò » à la revue « Littérature moderne ».
+**Lectures complémentaires** : [Bai Xianyong — Wikipédia](https://zh.wikipedia.org/wiki/白先勇) ｜ [Prix national des arts : historique des récompenses de Bai Xianyong](https://www.ncafroc.org.tw/artsaward/winnerDetail@1229) ｜ [Bibliothèque nationale de Taïwan](https://www.nmtl.gov.tw/) ｜ [Sanmao](/fr/people/san-mao) : la première œuvre _Huò_ recommandée par Bai Xianyong a été publiée dans _Littérature moderne_.
 
 ## Références
 

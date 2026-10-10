@@ -1,15 +1,17 @@
 ---
-title: 'Prose taïwanaise'
-description: "De la nostalgie des immigrants du continent à l'affirmation locale, du paysage littéraire dominé par les hommes à celui dirigé par les femmes. Depuis un demi-siècle, cette forme littéraire la plus proche du quotidien reste la plus difficile à définir : comment est-elle devenue le porte‑voyageur de la mémoire émotionnelle des Taïwanais ?"
+title: 'La prose taïwanaise : un paysage littéraire redéfini par les femmes'
+description: "De l'attachement aux racines de la province d'origine à l'identité locale, du lettré masculin au paysage littéraire dirigé par les femmes. En plus d'un demi-siècle, la forme littéraire la plus proche de la vie quotidienne s'est-elle imposée comme le support de la mémoire émotionnelle taïwanaise ?"
 date: 2026-03-24
 category: 'Art'
 tags:
-  - 'prose'
-  - 'littérature'
-  - 'histoire de la littérature taïwanaise'
-  - 'auteures'
-  - 'écriture de la vie'
-  - 'écriture de la nature'
+  [
+    'prose',
+    'littérature',
+    'histoire de la littérature taïwanaise',
+    'femmes écrivaines',
+    'écriture de la vie',
+    'écriture naturelle',
+  ]
 subcategory: '文學'
 author: 'Taiwan.md'
 featured: true
@@ -17,166 +19,166 @@ lastVerified: 2026-03-24
 lastHumanReview: false
 readingTime: 8
 translatedFrom: 'Art/台灣散文.md'
-sourceCommitSha: '7415dcaae'
-sourceContentHash: 'sha256:073fd0e58756d2a3'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:9f56c23ee6489760'
 sourceBodyHash: 'sha256:2c9c292fec3fdb34'
-translatedAt: '2026-05-18T05:08:09+08:00'
+translatedAt: '2026-10-10T12:07:02+08:00'
 ---
 
-# Prose taïwanaise : le paysage littéraire renversé par les femmes
+# La prose taïwanaise : un paysage littéraire redéfini par les femmes
 
-> Yu Kuo‑chung a déclaré un jour : « Le monde de la prose taïwanaise, depuis un demi‑siècle, repose à moitié sur les femmes. » Mais ce phénomène est en soi une énigme : pourquoi, dans un contexte littéraire traditionnel dominé par les hommes, le domaine de la prose a‑t‑il connu une telle inversion de genre ?
+> Yu Kwang-chung a dit un jour : « Le monde de la prose taïwanaise tient bon marché grâce aux femmes écrivaines depuis un demi-siècle. » Mais ce phénomène est lui-même un mystère — pourquoi, dans un contexte littéraire traditionnellement dominé par les hommes, ce domaine de la prose connaît-il un retournement si marqué du point de vue du genre ?
 
-En 1954, lorsque Chi‑chun publia son premier recueil de prose _Qín Xīn_ (《琴心》), le monde littéraire taïwanais ne s’attendait pas à la révolution silencieuse qui s’opérait. Plus de soixante ans plus tard, parmi les « 30 classiques de la littérature taïwanaise » choisis par le supplément du _United Daily News_, trois des sept recueils de prose proviennent d’auteures (Chi‑chun _Yān Chóu_, Jane Jian _Nǚ’ér Hóng_ et le masculin Chen Guan‑xue, connu pour son style délicat). Cette proportion est absente dans la poésie et le roman.
+En 1954, alors que Qi Jun publiait son premier recueil de prose intitulé _Qin Xin_, personne dans le milieu littéraire taïwanais ne pouvait prévoir qu'une révolution silencieuse du paysage littéraire était en marche. Soixante ans plus tard, dans le classement des « 30 classiques de la littérature taïwanaise » élaboré par le supplément du _United Daily News_, 7 œuvres de prose figurent parmi les classiques, dont 3 sont signées par des femmes (Qi Jun _Yan Chou_, Jian Cui _Nü Er Hong_, et Chen Guanxue, connu pour sa plume délicate). Cette proportion n’existe ni dans la poésie ni dans le roman.
 
-La prose, forme littéraire la plus proche du quotidien, a-t‑elle développé un gène particulier à Taïwan qui en fait la scène la plus résonnante pour les voix féminines ?
+La prose — cette forme littéraire la plus proche de la vie quotidienne — a-t-elle développé des gènes particuliers en Taïwan pour devenir la scène la plus sonore pour la voix féminine ?
 
-## Aperçu en 30 secondes
+## 30 secondes pour comprendre
 
-**Pourquoi la prose taïwanaise est‑elle importante ?**
+**Pourquoi la prose taïwanaise est-elle importante ?**
 
-La prose taïwanaise est la forme littéraire la plus chaleureuse de la littérature en langue chinoise : elle consigne les transformations sociales, de la reconstruction d’après‑guerre à la démocratisation, ainsi que la transition culturelle du sentiment d’exil des immigrants du continent à l’affirmation locale. Plus important encore, elle a créé un phénomène unique : **un paysage littéraire dominé par les femmes**.
+La prose taïwanaise est la forme littéraire la plus vivante dans les textes chinois. Elle documente les transformations sociales — de la reconstruction post-guerre à la démocratisation — ainsi que les transitions culturelles — de l'attachement aux racines de la province d'origine à l'identité locale. Mais surtout, la prose taïwanaise a créé un phénomène unique : **un paysage littéraire dominé par les femmes**.
 
-De Chi‑chun à Jane Jian, de San‑Mao à Liao Yu‑hui, la prose taïwanaise montre la richesse des possibilités d’écriture féminine : pas seulement les « lamentations de chambre » ou les « chroniques familiales », mais une exploration complète de la nature, de la société, de la philosophie et du voyage. Ces œuvres ont profondément influencé l’éducation émotionnelle des Taïwanais et ont ouvert de nouvelles dimensions esthétiques pour la prose en langue chinoise.
+De Qi Jun à Jian Cui, de Sanmao à Liao Yuhui, la prose taïwanaise démontre la richesse des écrits féminins : non seulement des thèmes traditionnels comme les « peines de femme » ou les « récits familiaux », mais une exploration complète de la nature, de la société, de la philosophie et du voyage. Ces œuvres ont profondément influencé l'éducation émotionnelle des Taïwanais et ont ouvert de nouvelles perspectives esthétiques pour la prose chinoise.
 
-## Du lettré masculin à la domination féminine : une révolution littéraire
+## D’un monde de lettrés masculins à la domination féminine : une révolution littéraire
 
-### Premières années d’après‑guerre : l’écho classique de la prose lettrée
+### Les débuts de l’ère post-guerre : la grâce classique de la prose des lettrés
 
-Dans les premières décennies d’après‑guerre, la prose taïwanaise perpétuait la tradition de la prose classique chinoise. Liang Shih‑ch’ao, Tai Jing‑nong, Su Hsu‑lin et d’autres premiers auteurs, formés à la littérature classique, arrivèrent à Taïwan. Leur style était élégant, centré sur les plaisirs lettrés et la nostalgie du pays natal.
+À l’ère post-guerre, la prose taïwanaise héritait de la tradition chinoise classique. Les premiers écrivains — Liang Shiqu, Tai Jingnong, Su Xuelin — apportaient une solide culture littéraire classique. Leur style était raffiné, leurs sujets portaient sur les goûts littéraires et les sentiments d’exil.
 
-*Le *Elegant House* de Liang Shih‑ch’ao* (1949‑1981) est considéré comme un modèle de la prose moderne : avec humour et intelligence, il décrit la vie quotidienne et établit le « style de la maison élégante ». Mais ce style reste essentiellement une version moderne de la prose lettrée : perspective d’observateur intellectuel, expression lyrique implicite et goût raffiné.
+Les _Xiaoshi Xiaopin_ de Liang Shiqu (1949-1981) sont considurés comme le modèle de la prose moderne. Il décrivait la vie avec humour et intelligence, créant le « style Xiaoshi ». Mais ce style restait essentiellement une version moderne de la prose classique des lettrés : une perspective d’observation des intellectuels, une expression lyrique discrète, un goût raffiné du langage.
 
-**Le point de bascule apparaît dans les années 1950 avec l’émergence collective des femmes auteures.**
+**Le tournant est venu avec l’émergence collective des femmes écrivaines dans les années 1950.**
 
-### Années 1950‑1960 : l’essor collectif des voix féminines
+### 1950-1960 : l’essor collectif de la voix féminine
 
-Le véritable changement commence avec la génération de femmes auteures menée par Chi‑chun. En 1954, Chi‑chun publie _Qín Xīn_; en 1958, Zhang Xiu‑ya publie _Běi Chuāng Xià_; en 1961, Luo Lan commence à écrire une chronique de prose dans le supplément d’un quotidien; en 1965, Lin Hai‑yin devient rédactrice en chef du supplément du *United Daily News* — **ce n’est pas un hasard, mais une reconstruction consciente du champ littéraire**.
+Le véritable changement commence avec la génération de Qi Jun. En 1954, Qi Jun publie _Qin Xin_ ; en 1958, Zhang Xiuya publie _Xiaochuang Xia_ ; en 1961, Luo Lan commence à écrire des colonnes de prose dans les suppléments de journaux ; en 1965, Lin Haiyin devient rédactrice en chef du supplément du _United Daily News_. **Ce n’est pas une coïncidence, mais une reconstruction consciente de l’espace littéraire.**
 
-Quelles révolutions Chi‑chun a‑t‑elle introduites ?
+Quelle révolution apporte la prose de Qi Jun ?
 
-Premièrement, **l’intensité émotionnelle**. Contrairement à la retenue élégante des lettrés masculins, la prose de Chi‑chun est directe et passionnée. Dans _Chūn Jiǔ_ (« Vin de printemps »), elle écrit à propos de sa mère : « Nous n’osions jamais dire le mot « vin » devant elle, encore moins boire le vin de notre mère. » Cette expression directe était alors étrangère au milieu littéraire.
+Premièrement, **l’intensité émotionnelle**. Contrairement à la retenue raffinée des écrivains masculins, la prose de Qi Jun est directe et émoureuse. Dans _Chun Jiu_, elle écrit à propos de sa mère : « Devant notre mère, nous n’osions jamais prononcer le mot “alcool”, encore moins boire le vin qu’elle préparait. » Cette expression directe des émotions était inédite dans le monde littéraire de l’époque.
 
-Deuxièmement, **l’attention aux détails du quotidien**. Chi‑chun n’écrit pas les « grands événements », mais les petites choses : le plat préparé par sa mère, les bavardages des voisins, les collations d’enfance. Elle montre que les « petites choses » peuvent porter des émotions profondes et des mémoires culturelles.
+Deuxièmement, **l’attention aux détails de la vie quotidienne**. Qi Jun ne raconte pas les “grands événements”, mais les petites choses : les plats cuisinés par sa mère, les ragots des voisins, les collations d’enfance. Elle prouve que les “petites choses” peuvent porter des émotions profondes et une mémoire culturelle.
 
-**Le plus important, elle a redéfini ce qui mérite d’être écrit.**
+**Et surtout, elle redéfinit ce qui mérite d’être écrit.**
 
-### Données sur la domination féminine
+### Données statistiques : la domination féminine dans la prose
 
-Selon le professeur Yang Wen‑hsiong de l’Université nationale de Cheng‑Kong, dans les diverses anthologies de prose classique, la proportion d’auteures est étonnamment élevée :
+Selon les recherches de professeur Yang Wenxiong à l’Université nationale de Jinan, les proportions de femmes écrivaines dans les recueils de prose classiques sont impressionnantes :
 
-- Dans le vote du supplément du _United Daily News_ pour les « 7 classiques de la prose taïwanaise », les auteures ou les œuvres à forte écriture féminine représentent **42,8 %**.
-- Dans le « paysage de la prose féminine » de Yu Kuo‑chung, découpé en décennies de dix ans, chaque période possède des figures représentatives :
-  - Première période (1950‑1960) : Chi‑chun, Luo Lan, Lin Hai‑yin, Zhang Xiu‑ya
-  - Deuxième période (1960‑1970) : Lin Wen‑yue
-  - Troisième période (1970‑1980) : Zhang Xiao‑feng (personnage clé de transition)
-  - Quatrième période (1980‑1990) : Liao Yu‑hui, Chen Xing‑hui
-  - Cinquième période (1990‑2000) : Jane Jian
+- Parmi les « 7 classiques de la prose taïwanaise » sélectionnés par le _United Daily News_, 42,8 % sont signés par des femmes ou présentent des caractéristiques typiquement féminines.
+- Dans la série _Femmes et prose_ de Yu Kwang-chung, divisée en périodes de 10 ans, chaque époque a un auteur ou une auteure représentative :
+  - Première période (1950-1960) : Qi Jun, Luo Lan, Lin Haiyin, Zhang Xiuya
+  - Deuxième période (1960-1970) : Lin Wen’yue
+  - Troisième période (1970-1980) : Zhang Xiaofeng (figure clé entre tradition et modernité)
+  - Quatrième période (1980-1990) : Liao Yuhui, Chen Xinhui
+  - Cinquième période (1990-2000) : Jian Cui
 
-**Ce phénomène n’existe pas dans les autres régions de la littérature en langue chinoise : ni à Hong Kong, ni en Chine continentale, aucune domination féminine de la prose n’y est observée.**
+**Ce phénomène n’existe nulle part ailleurs dans les littératures chinoises. Ni la littérature hongkongaise, ni la littérature contemporaine continentale n’ont connu de domination féminine dans le domaine de la prose.**
 
-## Les trois grands courants de la prose taïwanaise
+## Les trois grandes tendances de la prose taïwanaise
 
-### Écriture de la vie : de la mémoire privée à l’identité collective
+### L’écriture de la vie : de la mémoire personnelle à l’identité collective
 
-Le trait le plus caractéristique de la prose taïwanaise est « l’écriture de la vie » — élever l’expérience quotidienne au rang littéraire. Cette tradition débute avec Chi‑chun, se développe grâce à Lin Wen‑yue, Zhang Xiao‑feng et Jane Jian, et forme une esthétique singulière.
+La grande spécificité de la prose taïwanaise est l’« écriture de la vie » — élever l’expérience quotidienne au niveau littéraire. Cette tradition commence avec Qi Jun, puis est développée par Lin Wen’yue, Zhang Xiaofeng et Jian Cui, formant un esthétique unique.
 
-**Le _Salon de l’après‑midi_ de Lin Wen‑yue** (années 1980) montre l’esthétique de la vie d’une femme érudite. Elle écrit sur son travail de traduction, ses recettes, ses échanges avec des amis lettrés ; son style est élégant sans prétention, érudit sans ostentation. Elle prouve qu’une intellectuelle peut aussi produire une prose chaleureuse.
+**Le _Xiaoshi_ de Lin Wen’yue** (années 1980) incarne l’esthétique de la vie féminine cultivé. Elle écrit sur le travail de traduction, sur la cuisine, sur les échanges avec des amis littéraires. Son style est élégant sans prétention, profondément savant sans ostentation. Elle prouve qu’un(e) chercheur(se) peut aussi écrire de la prose pleine de chaleur humaine.
 
-**Le rôle « de transition » de Zhang Xiao‑feng** est encore plus crucial. Son _L’autre bout du tapis_ (1966) combine la formation classique et l’observation féminine moderne, mêlant la profondeur sentimentale de Chi‑chun à une réflexion philosophique propre. Ses textes partent d’un petit événement pour atteindre une vision cosmique ; dans _Insomnie immortelle_, elle cite Zhang Ji : « Vraiment, le poète ne peut pas vieillir. »
+**La position de Zhang Xiaofeng entre tradition et modernité** est encore plus cruciale. Son œuvre _La Fin du tapis_ (1966) allie la culture classique et l’observation moderne féminine. Elle a le cœur profond de Qi Jun, mais ajoute sa propre réflexion philosophique. Ses textes partent souvent d’un détail pour s’étendre vers une vision cosmique. Dans _L’Insomnie éternelle_, elle écrit à propos de Zhang Ji et de _Le Pont de la fontaine de maple_ : « Vraiment, un poète ne peut pas vieillir. »
 
-**Le _Nǚ’ér Hóng_ de Jane Jian** (1988) incarne l’éveil de la conscience féminine des années 1980. Son langage est plus libre, ses émotions plus directes, sa narration plus expérimentale. Elle écrit : « Je suis le vin de fille, enfoui dans les profondeurs du temps, attendant que quelqu’un vienne le déboucher. »
+**Le _Nü Er Hong_ de Jian Cui** (1988) incarne l’éveil de la conscience féminine taïwanaise dans les années 1980. Son langage est plus libre, ses émotions plus directes, son récit plus expérimental. Elle écrit : « Je suis Nü Er Hong, enterrée dans le silence des années, attendant quelqu’un pour m’ouvrir. »
 
-### Écriture de la nature : du paysage lettré à la conscience écologique
+### L’écriture naturelle : des paysages littéraires aux préoccupations écologiques
 
-À partir des années 1980, un nouveau courant, l’« écriture de la nature », apparaît, en phase avec la prise de conscience environnementale à Taïwan.
+À partir des années 1980, une nouvelle tendance émerge dans la prose taïwanaise : l’écriture naturelle. Ce phénomène coïncide avec la prise de conscience environnementale à Taïwan.
 
-**Liu Ke‑hsiang est le pionnier de l’écriture de la nature taïwanaise.** Son _Vent d’oiseau Pinocchia_ (1986) mêle connaissances biologiques et sensibilité littéraire, créant un nouveau type de prose : il n’écrit pas le « paysage », mais le « système écologique ».
+**Liu Kecheng est le pionnier de l’écriture naturelle taïwanaise.** Son œuvre _La Peau des oiseaux_ (1986) combine des connaissances scientifiques en biologie avec une sensibilité littéraire. Il ne décrit pas un “paysage”, mais un “écosystème”.
 
-**Wu Ming‑yi poursuit cette tradition, mais y ajoute une réflexion historique.** Son _Chronique du papillon perdu_ (2001) n’est pas seulement une observation de la nature ; c’est aussi une méditation sur l’histoire coloniale et la catastrophe écologique. Il écrit : « Chaque espèce disparue est un livre brûlé. »
+**Wu Mingyi poursuit cette tradition en y ajoutant une réflexion historique.** Son œuvre _Le Journal des papillons_ (2001) n’est pas seulement une observation naturelle, mais une méditation profonde sur l’histoire coloniale et l’extinction écologique. Il écrit : « Chaque espèce disparue est un livre brûlé. »
 
-Ces productions reflètent l’intérêt croissant de la société taïwanaise pour les enjeux environnementaux et résonnent avec le mouvement démocratique des années 1980 : redécouvrir la terre devient un acte politique.
+L’émergence de ce type de prose reflète l’attention croissante de la société taïwanaise aux questions environnementales, et répond à la vague de démocratisation des années 1980 — une redéfinition de la relation à la terre, elle-même un acte politique.
 
-### Littérature gastronomique : du désir gustatif à la mémoire culturelle
+### La littérature culinaire : du désir de la bouche à la mémoire culturelle
 
-Après les années 1990, la prose taïwanaise développe un autre courant : la littérature gastronomique.
+À partir des années 1990, une autre tendance se développe dans la prose taïwanaise : la littérature culinaire.
 
-**Jiao Tong est un acteur majeur de ce domaine.** Son _Saveurs de Formose_ ne se limite pas à la critique culinaire ; il utilise l’alimentation pour retracer la mémoire culturelle de Taïwan. Il écrit à propos du bœuf‑nouilles : « Le bœuf‑nouilles est le cristal de la nostalgie des immigrants du continent, et il symbolise aussi l’inclusivité de la cuisine taïwanaise. »
+**Jiao Tong est l’un des pionniers de ce domaine.** Son œuvre _La Saveur de Formose_ ne se limite pas à des critiques gastronomiques, mais utilise la cuisine pour reconstituer la mémoire culturelle de Taïwan. Il écrit à propos des nouilles de bœuf : « Les nouilles de bœuf sont le cristallisation de la nostalgie des immigrants de la province du Fujian en Taïwan, mais aussi le symbole de l’ouverture de la culture culinaire taïwanaise. »
 
-**Cai Zhu‑er affine encore davantage cette écriture.** Elle transforme le processus de cuisson en poésie, le goût en philosophie. Dans _Porc braisé_, elle déclare : « Le porc braisé est l’art du temps, la pratique de la patience. »
+**Les textes culinaires de Cai Zhuer sont plus raffinés et subtils.** Elle transforme le processus de cuisine en poésie, et l’expérience de dégustation en philosophie. Dans _Le Porc à la sauce caramel_, elle écrit : « Le porc à la sauce caramel est l’art du temps, aussi le méditation de la patience. »
 
-L’essor de la littérature gastronomique reflète la transition de Taïwan d’une société agricole à une société urbaine, et la redécouverte du « goût de la maison ».
+L’essor de la littérature culinaire reflète le passage d’une société agricole à une société urbaine, où les gens réapprécient la “saveur du foyer”.
 
-## Pourquoi les femmes ? Analyse profonde du phénomène de genre
+## Pourquoi les femmes ? Analyse approfondie du phénomène de genre dans la prose
 
-Plusieurs raisons profondes expliquent la domination féminine de la prose taïwanaise :
+Le phénomène de domination féminine dans la prose taïwanaise s’explique par plusieurs facteurs profonds :
 
-### 1. L’accessibilité de la forme
+### 1. L’affinité naturelle de la forme de prose
 
-La prose ne requiert pas le haut degré de technicité poétique ni la structure complexe du roman. Elle se rapproche de la « lettre » et du « journal intime » — formes historiquement encouragées chez les femmes.
+Contrairement à la poésie qui exige une technique raffinée, ou au roman qui nécessite une structure complexe, la prose est proche du “journal intime” et de la “correspondance”. Ces formes d’écriture étaient non seulement permises, mais encouragées pour les femmes dans la société traditionnelle.
 
-### 2. Le sujet quotidien
+### 2. Le thème de la vie quotidienne
 
-La prose valorise l’expérience quotidienne, et les femmes, traditionnellement responsables du foyer et des relations interpersonnelles, développent une sensibilité aiguë aux détails de la vie, un atout naturel pour la prose.
+La prose valorise l’expérience quotidienne. Dans la division du travail traditionnelle, les femmes étaient plus chargées des tâches domestiques et des relations sociales. Leur sensibilité à l’égard des détails de la vie était un atout naturel pour l’écriture de prose.
 
-### 3. Liberté d’expression émotionnelle
+### 3. La liberté d’expression émotionnelle
 
-Dans les années 1950, la parole publique des femmes était restreinte ; la prose offrait un espace relativement sûr pour exprimer leurs points de vue sur la société et la culture à travers une écriture « privatisée ».
+Dans la société taïwanaise des années 1950, les femmes avaient des limites dans l’espace public. Mais la prose offrait un espace d’expression plus sûr. À travers l’écriture “privée”, les femmes pouvaient exprimer leurs opinions sur la société et la culture.
 
-### 4. Le rôle catalyseur des suppléments
+### 4. Le rôle des suppléments de journaux
 
-Lorsque Lin Hai‑yin dirigea le supplément du _United Daily News_ (1963‑1974), elle soutint activement les femmes auteures, créant un cercle vertueux de production de prose. Le supplément devint une plateforme cruciale pour le développement de la prose féminine.
+Pendant que Lin Haiyin était rédactrice en chef du supplément du _United Daily News_ (1963-1974), elle a activement soutenu les femmes écrivains, créant un cercle vertueux de création de prose. Ce support médiatique a fourni un espace essentiel pour la publication de la prose féminine.
 
-## Développements contemporains : la nouvelle apparence de la prose à l’ère numérique
+## Développement contemporain : la nouvelle forme de la prose à l’ère numérique
 
-Au XXIᵉ siècle, la prose taïwanaise fait face à de nouveaux défis et opportunités.
+En entrant dans le XXIe siècle, la prose taïwanaise fait face à de nouveaux défis et opportunités.
 
-### Influence des nouveaux médias
+### L’impact des nouveaux médias
 
-L’essor des blogs a démocratisé l’écriture de prose. L’auteur de _Those Years, We Chased the Girl Together_, Giddens Ko, a débuté dans la prose en ligne.
+L’essor des blogs a démocratisé l’écriture de prose. Par exemple, l’auteur Jiang Baodao, connu pour _Les Filles que nous avons suivies_, a commencé sa carrière dans la prose en ligne.
 
-La contrainte de longueur des réseaux sociaux a également modifié la forme, donnant naissance à la « micro‑prose ».
+La culture des médias sociaux avec ses limites de caractères influence également la forme de la prose, donnant naissance à un nouveau genre : la “micro-prose”.
 
-### Diversification des voix
+### L’ajout de voix diverses
 
-Des écrivains autochtones (Hsiam‑Man Lam‑Po‑an) et de nouveaux arrivants commencent à s’exprimer dans la prose, apportant de nouvelles perspectives culturelles.
+Les auteurs autochtones (comme Xie Manlan) et les auteurs issus de mariages mixtes commencent à s’exprimer dans le domaine de la prose, apportant de nouvelles perspectives culturelles à la prose taïwanaise.
 
-**L’émergence d’auteurs académiques comme Hao Yu‑xiang et Zhong Yi‑wen** injecte davantage de réflexion théorique et d’expérimentation.
+**L’essor des écrivains académiques comme Hao Yixiang et Zhong Yiwen** apporte également une réflexion théorique et une énergie expérimentale à la création de prose.
 
-### Ouverture internationale
+### La vision internationalisée
 
-Avec l’augmentation des échanges internationaux, la prose taïwanaise aborde davantage de thèmes et de points de vue transculturels. Ce n’est pas seulement l’essor du « travel writing », mais un dialogue culturel plus profond.
+Avec l’accroissement des échanges internationaux des auteurs taïwanais, la prose commence à aborder des thèmes transculturels et des perspectives plus larges. Ce n’est plus seulement l’essor du “voyage littéraire”, mais un dialogue culturel plus profond.
 
-## Perspectives : la prose comme soft power de la littérature taïwanaise
+## Perspective future : la prose comme force douce de la littérature taïwanaise
 
-La valeur unique de la prose taïwanaise réside non seulement dans son enregistrement des changements sociaux, mais aussi dans l’expression d’un esprit littéraire « doux mais résilient ».
+La valeur unique de la prose taïwanaise ne réside pas seulement dans son rôle de témoin des transformations sociales, mais aussi dans sa représentation d’un esprit littéraire “doux mais résistant”.
 
-À une époque où la vitesse et l’efficacité dominent, la prose taïwanaise persiste dans une esthétique du « lent » : observer lentement, ressentir lentement, écrire lentement. Cette persistance constitue en elle‑même une position culturelle.
+Dans une ère dominée par la “vitesse” et l’“efficacité”, la prose taïwanaise persiste dans l’esthétique du “lent” : observer lentement, ressentir lentement, écrire lentement. Cette persévérance est elle-même une position culturelle.
 
-**Plus important encore, la prose taïwanaise montre que la démocratisation de la littérature est possible.** Elle ne nécessite ni érudition poussée, ni technique complexe, seulement une observation sincère et une sensibilité. Tout le monde peut devenir un(e) prosaïste, chaque expérience de vie mérite d’être écrite.
+**Et surtout, la prose taïwanaise prouve la possibilité de la démocratisation de la littérature.** Elle n’a pas besoin d’un savoir approfondi, ni de techniques complexes. Elle a seulement besoin d’observations et de ressentis sincères. Chacun peut être un écrivain de prose, et chaque expérience de vie mérite d’être écrite.
 
-C’est peut‑être la plus grande contribution de la prose taïwanaise : ramener la littérature à la vie, ramener l’écriture près de chacun. Dans le tourbillon de la mondialisation, cette « universalisme local » constitue le soft power le plus précieux de la littérature taïwanaise.
+C’est peut-être le plus grand apport de la prose taïwanaise : ramener la littérature à la vie, ramener l’écriture à chaque personne. Dans le courant de la mondialisation, cette “universalité locale” est la force douce la plus précieuse de la littérature taïwanaise.
 
-## Lectures complémentaires
+## Pour aller plus loin
 
-- [San‑Mao](/fr/people/san-mao) — figure emblématique de l’écriture vagabonde dans la prose taïwanaise, la série du Sahara a influencé toute une génération de lecteurs en langue chinoise
+- [Sanmao](/fr/people/san-mao) — figure emblématique de la prose errante taïwanaise, dont la série _Le Désert de Sahara_ a marqué une génération entière de lecteurs chinois.
 
 ---
 
-## Références
+## Bibliographie
 
-**Recueils classiques de prose :**
+**Recueils de prose classiques :**
 
-- Chi‑chun _Yān Chóu_ — classique de la prose nostalgique taïwanaise
-- Wang Ding‑jun _Vie ouverte_ — modèle de la prose philosophique
-- Jane Jian _Nǚ’ér Hóng_ — représentation de l’écriture féminine des années 1980
-- Chen Guan‑xue _Automne champêtre_ — œuvre pionnière de l’écriture de la nature
-- Yang Mu _Le chercheur_ — haut niveau esthétique de la prose intellectuelle
+- Qi Jun _Yan Chou_ — classique de la prose d’exil taïwanaise
+- Wang Dingjun _La Vie ouverte_ — modèle de la prose philosophique sur la vie
+- Jian Cui _Nü Er Hong_ — figure emblématique de l’écriture féminine des années 1980
+- Chen Guanxue _L’Automne des champs_ — œuvre pionnière de l’écriture naturelle
+- Yang Mu _Le Chercheur_ — apogée esthétique de la prose intellectuelle
 
-**Sources de recherche :**
+**Ressources de recherche :**
 
-- [Université nationale de Cheng‑Kong, Département de chinois : Situation et tendances de la prose moderne taïwanaise](https://alumni.ncku.edu.tw/p/404-1004-77547.php)
-- [Books.com.tw : Sélection de prose taïwanaise 1970‑2010](https://www.books.com.tw/products/0010477248)
-- [Musée national de la littérature taïwanaise : Actes du colloque sur les classiques littéraires taïwanais](https://www.nmtl.gov.tw/)
-- [Vote du supplément du *United Daily News* : 30 classiques de la littérature taïwanese](https://udn.com/news/story/7009/4602089)
-- [Préface de Yu Kuo‑chung : Paysage de la prose féminine depuis un demi‑siècle](https://udn.com/news/story/7009/4602089)
+- [Département de chinois, Université nationale de Jinan : L’état actuel et les tendances de la prose moderne taïwanaise](https://alumni.ncku.edu.tw/p/404-1004-77547.php)
+- [Bookshop : Anthologie de la prose taïwanaise 1970-2010](https://www.books.com.tw/products/0010477248)
+- [Musée national de la littérature taïwanaise : Actes du colloque sur les classiques de la littérature taïwanaise](https://www.nmtl.gov.tw/)
+- [Supplément du _United Daily News_ : Les 30 classiques de la littérature taïwanaise](https://udn.com/news/story/7009/4602089)
+- [Préface de Yu Kwang-chung : Demi-siècle de la prose féminine](https://udn.com/news/story/7009/4602089)

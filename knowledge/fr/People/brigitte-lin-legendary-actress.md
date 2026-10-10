@@ -1,122 +1,158 @@
 ---
-title: 'Brigitte Lin Ching-hsia'
-description: "De l'icône du mélo à la légende du wuxia : le parcours d'une star intemporelle du cinéma sinophone"
+title: 'Lin Qing-xia: de la déesse artistique au mythe du wuxia'
+description: 'Reine des films de Qiong Yao, reconversion en classique du wuxia, légende de la scène chinoise'
 date: 2026-03-19
 category: 'People'
-tags: ['Brigitte Lin', 'actrice', 'cinéma Qiong Yao', 'Invincible Orient', 'cinéma sinophone']
-subcategory: 'Cinéma et arts dramatiques'
+tags:
+  [
+    'Lin Qing-xia',
+    'actrice',
+    'films de Qiong Yao',
+    'Dongfang Bubai',
+    'cinéma chinois',
+  ]
+subcategory: '電影與戲劇'
 author: 'Taiwan.md'
 featured: false
-readingTime: 12
-translatedFrom: 'People/林青霞.md'
 lastVerified: 2026-03-19
 lastHumanReview: false
-sourceCommitSha: '7415dcaa'
-sourceContentHash: 'sha256:2b4a824289c241f9'
+translatedFrom: 'People/林青霞.md'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:d90dfbfec4a44a23'
 sourceBodyHash: 'sha256:12badc0094297f08'
-translatedAt: '2026-05-17T05:33:00Z'
+translatedAt: '2026-10-10T12:07:02+08:00'
 ---
 
-# Brigitte Lin Ching-hsia : de la muse romantique à la légende du sabre
+# Lin Qing-xia: de la déesse artistique au mythe du wuxia
 
-Brigitte Lin Ching-hsia est l'une des actrices les plus représentatives du cinéma de langue chinoise, dont la carrière enjambe deux époques : les mélodrames populaires de Qiong Yao dans les années 1970, puis les films d'arts martiaux de Tsui Hark à partir de la fin des années 1980. Elle incarne d'abord la pureté juvénile et figure centrale du cinéma Qiong Yao, puis se réinvente en guerrière ambiguë et éblouissante dans _Invincible Orient_. Son parcours épouse l'âge d'or du cinéma sinophone.
+Lin Qing-xia a traversé deux époques, celle des films artistiques de Qiong Yao et celle des films de wuxia de Xu Ke, et figure parmi les actrices les plus emblématiques du cinéma chinois. Elle s'est fait connaître dans les années 1970 avec une image de pureté, devenant l'icône centrale des films de Qiong Yao. À la fin des années 1980, elle a réussi à se réinventer, créant un rôle révolutionnaire dans _Dongfang Bubai_. Sa carrière témoigne de l'âge d'or du cinéma chinois.
 
-## L'enfance dans un village de garnison
+## Le chemin de l'étoile dans les quartiers d'officiers
 
-Née le 3 novembre 1954 à Taipei, Lin Ching-hsia est originaire de la province du Shandong par son père, Lin Weilian, officier de l'armée. Sa mère, Luo Xiuyun, est femme au foyer. Elle grandit dans l'un de ces _juancun_ — ces villages de garnison construits pour les familles de militaires continentaux repliés à Taïwan — où règne une atmosphère à part, entre discipline et nostalgie.
+Lin Qing-xia est née le 3 novembre 1954 à Taïwan, d'origine Shandong. Son père, Lin Wei-liang, était militaire, et sa mère, Luo Xiu-yun, était une femme de ménage. Élevée dans un quartier d'officiers, Lin Qing-xia a montré dès son enfance un visage éloquent et un tempérament calme.
 
-Élève sérieuse et passionnée de littérature au lycée Jinling Girls' High School, elle est remarquée en 1972 par le réalisateur Song Cunshuo dans le quartier de Ximending, à Taipei, qui l'invite à tenir le rôle principal de _Outside the Window_ ; elle se prépare alors aux examens universitaires et n'envisage pas encore une carrière dans le spectacle.[^1] Avec le soutien de sa mère, elle accepte néanmoins de tourner son premier film : _Outside the Window_ (_窗外_, 1973), adapté d'un roman de Qiong Yao, avec Chin Han en partenaire. Un premier pas qui va tout déterminer.[^2]
+Au lycée, à l'École normale féminine de Jinling, elle était une élève modèle, passionnée de littérature et d'art. En 1972, elle a été repérée par le réalisateur Song Cun-shou dans le quartier de Ximending, qui l'a invitée à interpréter le rôle principal dans _Dehors la fenêtre_. À cette époque, elle préparait ses examens universitaires et n'avait aucune expérience dans le monde du spectacle.[^1]
 
-## La décennie Qiong Yao : incarner la féminité romanesque
+Soutenue par sa mère, Lin Qing-xia a décidé d'essayer sa chance dans le cinéma. Son premier film, _Dehors la fenêtre_ (1973), adapté du roman de Qiong Yao, tourné avec Qin Han, a posé les bases de sa carrière dans le cinéma artistique.[^2]
 
-Le succès de _Outside the Window_ inaugure une série de collaborations avec l'univers de Qiong Yao. Pendant dix ans, Lin Ching-hsia interprète des héroïnes tour à tour touchantes et mélancoliques dans des films comme _Colorful Clouds_ (_彩雲飛_), _A Thousand Knots in My Heart_ (_心有千千結_) ou _Misty Moon_ (_月朦朧鳥朦朧_).
+## La déesse artistique de l'ère Qiong Yao
 
-Son visage — doux, expressif, d'une beauté presque irréelle — correspond exactement aux personnages féminins chers à Qiong Yao : purs, sensibles, habités d'une tristesse poétique. Aux côtés de Chin Han et Chin Hsiang-lin, elle forme des couples à l'écran qui font battre des millions de cœurs dans le monde sinophone. Sa coiffure, ses tenues, son regard : tout devient référence.
+Le succès de _Dehors la fenêtre_ en 1972 a marqué le début de l'ère Qiong Yao de Lin Qing-xia. Au cours des dix années suivantes, elle a interprété des rôles dans _Les Nuages vont s'envoler_, _Les Liens d'affection dans le cœur_, _Les Oiseaux chantent la nuit_, et d'autres œuvres de Qiong Yao.
 
-Cette période la propulse au rang d'icône générationnelle, mais elle commence à en percevoir les limites. La même image, répétée à l'infini, finit par ressembler à une cage dorée.
+L'image de pureté de Lin Qing-xia incarnait parfaitement les personnages féminins de Qiong Yao : innocents, bons, mélancoliques. Sa collaboration avec Qin Han et Qin Xiang-lin a formé un couple iconique à l'écran, populaire dans tout le monde chinois.
 
-## Vers un jeu plus large
+À cette époque, Lin Qing-xia est devenue l'icône de nombreuses jeunes filles, sa coiffure et ses vêtements devenant des tendances. Les films de Qiong Yao ont également gagné en influence et en succès commercial grâce à ses performances.
 
-Parallèlement aux productions Qiong Yao, Lin Ching-hsia explore d'autres registres. En 1979, elle tourne avec le réalisateur Li Hsing sur _Orchid and My Love_ (_汪洋中的一條船_), révélant une maturité dramatique plus affirmée. En 1981, _I Am a Cloud_ (_我是一片雲_) reste l'un des sommets de sa période mélo : la scène face à Chin Han reste dans les mémoires.
+## Expérimentations artistiques dans le cinéma de genre
 
-Au début des années 1980, la question de la reconversion s'impose à elle. Elle sait que demeurer éternellement la «vierge romanesque» de Qiong Yao la condamnerait à une trajectoire déclinante. Elle cherche une brèche.
+En dehors des films de Qiong Yao, Lin Qing-xia a également essayé d'autres types de films artistiques. En 1979, elle a collaboré avec le réalisateur Li Xing dans _Un bateau dans la mer agitée_, montrant une maturité accrue dans sa prestation.
 
-## La bascule vers Hong Kong
+_Je suis une nuée de nuages_ (1981) est l'un des chefs-d'œuvre de l'ère Qiong Yao de Lin Qing-xia, avec une scène de confrontation émouvante avec Qin Han. Cette œuvre démontre la profondeur émotionnelle de Lin Qing-xia.
 
-C'est à Hong Kong, à partir du milieu des années 1980, que s'opère sa transformation. Le cinéma hongkongais, plus diversifié, plus nerveux, plus commercial, lui offre l'espace qui lui manquait. Elle se rapproche des réalisateurs de la Nouvelle Vague locale, expérimente des genres variés et affûte ses outils d'actrice, ce qui la prépare ensuite à embrasser les wuxia de Tsui Hark.
+Au début des années 1980, Lin Qing-xia a commencé à réfléchir à une reconversion professionnelle. Elle a réalisé qu'une image unique de déesse artistique pourrait limiter ses opportunités, et a cherché activement des défis nouveaux.
 
-Lin Ching-hsia réussit alors ce que peu parviennent à faire : exister des deux côtés du détroit de Formose, à Taïwan comme à Hong Kong. Elle ouvre une voie que d'autres actrices taïwanaises emprunteront après elle.
+## Transition vers le cinéma hongkongais et collaboration avec la nouvelle vague
 
-## Le sommet : _Invincible Orient_ et l'incarnation du mythe
+À la mi-des années 1980, Lin Qing-xia s'est tournée vers le marché du cinéma hongkongais, une décision qui a complètement transformé sa carrière. L'environnement diversifié et commercial du cinéma hongkongais a offert de nouvelles opportunités de développement.
 
-En 1992, _Swordsman II_ (_笑傲江湖II東方不敗_) de Tsui Hark représente le point culminant de sa carrière. Elle y joue Dongfang Bubai — « l'Invincible d'Orient » — un personnage d'une complexité rare dans le cinéma d'arts martiaux : maître incontesté des arts du combat, chef charismatique, mais aussi être déchiré entre deux natures, entre la rudesse du guerrier et la délicatesse de l'amant. Ni tout à fait homme, ni tout à fait femme, l'Invincible d'Orient déroute et fascine.
+Elle a collaboré avec des réalisateurs de la nouvelle vague hongkongaise, essayant des rôles de différents genres. Ces expériences ont mûri son art, la préparant pour les prochains défis dans les films de wuxia de Xu Ke.
 
-Lin Ching-hsia porte ce paradoxe avec une aisance stupéfiante. Sa robe rouge volant dans le vent, son regard qui oscille entre froideur et passion, la réplique devenue légendaire — _« Le soleil se lève à l'est ; moi seul suis invaincu »_ — tout cela s'est gravé durablement dans la mémoire cinématographique.
+Pendant sa période à Hong Kong, Lin Qing-xia a développé sa carrière à la fois à Taïwan et à Hong Kong, devenant l'une des rares stars capables de rayonner sur les deux marchés. Son succès a fourni un modèle pour les acteurs taïwanais souhaitant pénétrer le marché hongkongais.
 
-Ce n'est plus seulement un rôle phare : c'est une figure qui redéfinit ce que le genre wuxia peut accomplir.
+## Le classique du wuxia : la performance révolutionnaire dans _Dongfang Bubai_
 
-## La complicité créatrice avec Tsui Hark
+_Le Légendaire Swordsman 2 : Dongfang Bubai_ (1992), réalisé par Xu Ke, est le sommet de la carrière de Lin Qing-xia. Elle interprète le rôle de Dongfang Bubai, un maître martial-arts légendaire, un rôle qui bouleverse les attentes du public.
 
-La relation de travail entre Lin Ching-hsia et Tsui Hark dépasse la simple collaboration de plateau. Le réalisateur a le don de déceler chez ses interprètes des ressources qu'eux-mêmes n'ont pas encore explorées. Il perçoit dans Lin Ching-hsia une énergie martiale, une présence physique, une densité intérieure que les mélos n'avaient jamais pleinement sollicitées.
+Dongfang Bubai est un personnage complexe : chef des mers et amoureux passionné, à la fois puissant et féminin. Lin Qing-xia incarne ce rôle contradictoire avec une richesse d'interprétation remarquable.
 
-Leur second grand film ensemble, _Dragon Inn_ (_新龍門客棧_, 1992), confirme l'alchimie : elle y incarne Jin Xiang-yu, tenancière d'auberge aussi sensuelle que dangereuse. Le succès public et critique de ces deux œuvres valide définitivement sa métamorphose.
+La phrase culte « Le soleil se lève dans l'est, je suis le seul invincible » est devenue un classique, et l'image de Lin Qing-xia dansant enroulée dans une robe rouge est gravée dans les mémoires. Ce rôle n'est pas seulement le summum de sa carrière artistique, mais aussi un classique de l'histoire du cinéma chinois.
 
-## Les années 1990 : la plénitude
+## Collaboration créative avec Xu Ke
 
-Les années 1990 sont celles d'une actrice à son sommet, capable de naviguer sans effort entre les genres. Elle est Jin Xiang-yu dans _Dragon Inn_, une tueuse blonde et mystérieuse dans _Chungking Express_ (_重慶森林_, 1994) de Wong Kar-wai, et la double Murong Yan/Murong Yin dans _Ashes of Time_ (_東邪西毒_, 1994), toujours de Wong Kar-wai.
+La collaboration entre Lin Qing-xia et le réalisateur Xu Ke a été un tournant décisif dans sa carrière. Xu Ke savait révéler le potentiel des acteurs, et il a reconnu chez Lin Qing-xia une essence de wuxia et une capacité de performance.
 
-La collaboration avec ce réalisateur est révélatrice : elle prouve que Lin Ching-hsia peut s'intégrer à une esthétique exigeante, fragmentée, contemplatrice — loin de toute logique commerciale. Son spectre de jeu n'a plus de bornes visibles.
+En plus de _Dongfang Bubai_, ils ont travaillé ensemble dans _Le Nouveau Guess Who's Under the Door_, entre autres. Les conseils créatifs de Xu Ke ont permis à Lin Qing-xia de découvrir une nouvelle dimension, réussissant ainsi sa transition de déesse artistique à star de wuxia.
 
-## Le retrait et la vie choisie
+Ces collaborations ont connu le succès tant au niveau des recettes que de la réputation, confirmant la pertinence de la reconversion de Lin Qing-xia. Elle n'était plus seulement l'icône des films de Qiong Yao, mais une véritable star de talent.
 
-En 1994, Lin Ching-hsia annonce son retrait du cinéma. La décision surprend, émeut, mais elle est irréversible. Elle épouse le homme d'affaires Michael Ying et se consacre à sa famille, élevant deux filles dans une discrétion presque totale. Cette invisibilité volontaire renforce, paradoxalement, son aura.
+## Diversité artistique dans les années 1990
 
-Ses films continuent de passer en boucle à la télévision. De nouvelles générations les découvrent et comprennent ce que signifie le mot « présence ».
+Les années 1990 ont été la période la plus active de la carrière de Lin Qing-xia, où elle a essayé des rôles de tous genres. Du wuxia historique aux drames modernes, chaque prestation a été remarquable.
 
-## L'écriture comme seconde vie
+Dans _Le Nouveau Guess Who's Under the Door_, elle incarne Jinzhao, dans _Forêt de Chongqing_, un tueur à cheveux blonds, et dans _Eastern Condor, Western Condor_, Murong Yan, chaque rôle a son propre charme. Lin Qing-xia a démontré une étonnante polyvalence artistique.
 
-Après sa retraite d'actrice, Lin Ching-hsia s'est tournée vers l'écriture. Son recueil d'essais _Window in the Window, Window out of the Window_ (_窗裡窗外_) révèle une plume fine, attentive aux nuances de l'existence. Les critiques littéraires l'accueillent avec un respect sincère.
+Les films de Wong Kar-wai, _Forêt de Chongqing_ et _Eastern Condor, Western Condor_, ont lié Lin Qing-xia à la scène artistique, prouvant qu'elle pouvait non seulement réussir dans les blockbusters commerciaux, mais aussi maîtriser des œuvres à plus grande valeur artistique.
 
-Ses textes constituent aussi un précieux document sur l'histoire du cinéma sinophone vue de l'intérieur : ses impressions de tournage, ses rapports aux réalisateurs, ses doutes et ses fierités dessinent un portrait du milieu rarement aussi intime.
+## Retraite et nouvelle phase de vie
 
-## Les retours d'exception
+En 1994, Lin Qing-xia a annoncé sa retraite, choisissant de se consacrer pleinement à la vie familiale. Cette décision a laissé des millions de fans émus, mais tout le monde a compris son choix de vie.
 
-Si le retrait est la règle, quelques apparitions ponctuelles viennent rappeler au public que l'étoile brille encore. En 2013, elle accepte un petit rôle dans _Fall in Love at First Kiss_ (_101次求婚_) : l'événement déclenche une effervescence médiatique disproportionnée à la durée de sa présence à l'écran — preuve de l'ancrage qu'elle conserve dans l'imaginaire collectif.
+Après sa retraite, Lin Qing-xia a épousé le marchand Xing Li Yuan, avec qui elle a eu deux filles. Elle a recentré sa vie sur la famille, apparaissant rarement en public, ce qui a ajouté à son mystère.
 
-Ses apparitions lors de festivals ou de cérémonies de remise de prix sont à chaque fois traitées comme des événements. Le temps semble avoir peu de prise sur son élégance.
+Bien qu'elle ait pris sa retraite, l'influence de Lin Qing-xia n'a pas diminué. Ses œuvres classiques continuent d'être diffusées à la télévision, et de nouvelles générations de spectateurs la découvrent à travers ces œuvres.
 
-## Une influence qui dépasse le cinéma
+## Nouvelles tentatives dans l'écriture
 
-Brigitte Lin est devenue un repère culturel dans l'espace sinophone. Des générations d'actrices sont comparées à elle, et l'expression « beauté à la Lin Ching-hsia » est devenue un référentiel courant dans l'industrie.
+Après sa retraite, Lin Qing-xia a commencé à expérimenter l'écriture, publiant des recueils de nouvelles comme _Entre fenêtres_. Elle a utilisé son style subtil pour documenter ses réflexions sur la vie et ses expériences.
 
-Des réalisateurs comme Wong Kar-wai ont publiquement exprimé leur admiration. Des chercheurs en cinéma analysent son travail dans le contexte de l'évolution du genre féminin à l'écran. Son parcours est étudié comme un cas d'école : comment une star peut se réinventer sans trahir ce qu'elle est.
+La création littéraire de Lin Qing-xia a reçu l'approbation du milieu littéraire, prouvant qu'elle n'était pas seulement une excellente actrice, mais aussi une auteure talentueuse. Cette polyvalence artistique a suscité encore plus d'estime envers elle.
 
-## Un modèle pour les actrices
+Elle a également partagé ses expériences professionnelles et ses réflexions sur la vie par l'écrit, permettant aux fans de mieux comprendre son monde intérieur. Ces œuvres sont devenues des documents précieux de l'histoire du cinéma.
 
-Sa trajectoire constitue un exemple éloquent pour les comédiennes qui craignent l'enfermement dans un registre. Elle démontre qu'il est possible de changer de monde artistique à mi-carrière, à condition d'oser et de trouver les bons partenaires créatifs. Son professionnalisme — sa ponctualité légendaire, sa préparation rigoureuse — est cité en modèle dans les écoles de cinéma de Taïwan.
+## Le sens particulier des retours occasionnels
 
-Nombreuses sont les actrices contemporaines qui reconnaissent ouvertement sa dette à son égard.
+Bien qu'elle ait officiellement pris sa retraite, Lin Qing-xia fait occasionnellement des apparitions pour des projets spéciaux. En 2013, elle a fait une apparition spéciale dans _101 propositions_, suscitant un vif intérêt des fans.
 
-## Place dans l'histoire du cinéma sinophone
+Bien que ces retours soient rares, chacun devient un événement médiatique. L'attrait et l'influence de Lin Qing-xia sont évidents.
 
-Lin Ching-hsia figure parmi les acteurs-clés qui ont façonné l'identité du cinéma sinophone. Son œuvre traverse le mélo taïwanais, le film de sabre hongkongais et le cinéma d'auteur — trois mondes que peu d'interprètes ont habités avec une égale intensité. Elle a collaboré avec les réalisateurs les plus importants de son temps et laissé une trace dans chacune de ces collaborations.
+Elle a également participé à des festivals de cinéma et à des cérémonies de remise de prix, chaque apparition provoquant une grande émotion. L'expérience des années a rendu Lin Qing-xia plus gracieuse et captivante.
 
-Les historiens du cinéma la considèrent comme un témoin actif de l'âge d'or du cinéma sinophone — non pas spectatrice, mais actrice au sens le plus plein du terme.
+## Influence à travers les époques
 
-## Une légende vivante
+L'influence de Lin Qing-xia dépasse le cadre du cinéma. De l'innocence de l'ère Qiong Yao aux héros guerriers de l'ère du wuxia, sa carrière reflète les trente ans de transformation du cinéma chinois.
 
-Même après des décennies de retrait, son nom est prononcé avec le même respect et la même affection. Les jeunes spectateurs qui découvrent _Invincible Orient_ ou _Chungking Express_ pour la première fois comprennent immédiatement pourquoi.
+Sa beauté et son charme sont admirés, de nombreuses nouvelles vedettes sont comparées à elle. Le « charme de Lin Qing-xia » est devenu un critère de comparaison courant dans l'industrie.
 
-Lin Ching-hsia n'est plus seulement une actrice : elle est devenue synonyme de beauté souveraine, d'élégance durable et d'un talent qui refuse de vieillir. Son nom appartient désormais à l'histoire — et à quelque chose de plus grand encore.
+Les nouveaux réalisateurs comme Wong Kar-wai lui rendent hommage, et ses œuvres sont devenues des objets d'étude pour les critiques et les spécialistes du cinéma.
 
-## Références
+## Inspiration pour les actrices féminines
 
-- [Lin Ching-hsia — Taiwan Cinema Database](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12467) — Filmographie complète
-- [Hong Kong Film Archive](https://www.filmarchive.gov.hk/zh_TW/web/hkfa/home.html) — Archives de sa période hongkongaise
-- [Hong Kong Film Awards Association](https://www.hkfaa.com/) — Évaluations critiques de ses œuvres majeures
+La réussite de la reconversion de Lin Qing-xia a fourni une leçon précieuse aux actrices féminines. Elle a prouvé qu'une actrice n'avait pas à se limiter à un seul type d'image, pouvant essayer des rôles différents à chaque étape de sa carrière.
 
-[^1]: Entrée Wikipédia « Brigitte Lin Ching-hsia » : Song Cunshuo, réalisateur, l'invite à tenir le rôle principal de _Outside the Window_ (1973). https://zh.wikipedia.org/wiki/林青霞
-[^2]: _Outside the Window_ (1973), réalisé par Song Cunshuo, premier rôle principal de Brigitte Lin, adaptation du roman éponyme de Qiong Yao. Données filmographiques de la Taiwan Cinema Database : https://taiwancinema.bamid.gov.tw/
-[^3]: Brigitte Lin s'est retirée du cinéma après son mariage avec l'homme d'affaires hongkongais Michael Ying, le 29 juin 1994, voir l'entrée Wikipédia « Brigitte Lin Ching-hsia » <https://zh.wikipedia.org/wiki/%E6%9E%97%E9%9D%92%E9%9C%9E>
-[^4]: _Swordsman II — The Legend of the Swordsman_ (1992), réalisé par Tsui Hark, Brigitte Lin incarne l'Invincible d'Orient, archives de la Hong Kong Film Archive. https://www.filmarchive.gov.hk/
-[^5]: Brigitte Lin, _Window in the Window, Window out of the Window_, Cosmos Books, 2011. Principal recueil d'essais de l'autrice, accueilli favorablement par la critique littéraire. <https://www.books.com.tw/products/0010512315>
+Son engagement envers les rôles et son attitude professionnelle sont devenus des modèles à suivre pour les générations futures. Lin Qing-xia a démontré l'esprit professionnel et la quête artistique d'un acteur.
+
+De nombreuses actrices contemporaines ont déclaré être influencées et inspirées par Lin Qing-xia, qui a établi un modèle important pour les actrices du cinéma chinois.
+
+## Place dans l'histoire du cinéma chinois
+
+Lin Qing-xia est considérée comme l'une des actrices les plus importantes de l'histoire du cinéma chinois. Ses œuvres couvrent les films artistiques, les films de wuxia, le cinéma d'art, etc., montrant une étonnante gamme de talents.
+
+Elle a collaboré avec des réalisateurs importants de différentes époques, laissant de nombreuses œuvres classiques. Ces œuvres ont non seulement connu le succès commercial, mais ont également une grande valeur artistique.
+
+Les historiens du cinéma estiment que la carrière de Lin Qing-xia reflète le développement du cinéma chinois, et qu'elle est un témoin et un participant important de l'âge d'or du cinéma chinois.
+
+## Statut éternel de classique
+
+Même après des années de retraite, la position de Lin Qing-xia dans le cœur des fans reste élevée. Ses images classiques et ses performances remarquables sont devenues un trésor précieux du cinéma chinois.
+
+Les jeunes générations découvrent son charme en revoyant ses œuvres classiques, montrant que de bons artistes peuvent transcender le temps. Lin Qing-xia est un symbole culturel du cinéma chinois, inspirant chaque nouvelle génération d'artistes.
+
+## Lectures complémentaires
+
+- [San Mao](/fr/people/san-mao) : scénariste de _La Vie en rouge_, celle qui a fait gagner Lin Qing-xia l'award du meilleur acteur au Festival du film taïwanais
+
+## Sources
+
+- [Lin Qing-xia — Site du cinéma taïwanais](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12467) — liste des œuvres de l'actrice
+- [Musée du cinéma hongkongais](https://www.filmarchive.gov.hk/zh_TW/web/hkfa/home.html) — données sur les œuvres de l'époque hongkongaise
+- [Dongfang Bubai — Association des prix du cinéma hongkongais](https://www.hkfaa.com/) — évaluations des œuvres classiques
+
+[^1]: Wikipédia « Lin Qing-xia » : réalisé par Song Cun-shou, invitant Lin Qing-xia à interpréter le rôle principal dans _Dehors la fenêtre_ (1973).https://zh.wikipedia.org/wiki/林青霞
+
+[^2]: _Dehors la fenêtre_ (1973), réalisé par Song Cun-shou, première performance principale de Lin Qing-xia, adapté du roman de Qiong Yao. Données du site du cinéma taïwanais :https://taiwancinema.bamid.gov.tw/
+
+[^3]: Lin Qing-xia s'est mariée avec le marchand hongkongais Xing Li Yuan le 29 juin 1994, puis a quitté la scène artistique, des rapports pertinents disponibles dans l'article Wikipédia « Lin Qing-xia » <https://zh.wikipedia.org/wiki/%E6%9E%97%E9%9D%92%E9%9C%9E>
+
+[^4]: _Le Légendaire Swordsman 2 : Dongfang Bubai_ (1992), réalisé par Xu Ke, Lin Qing-xia interprète Dongfang Bubai, collection du Musée du cinéma hongkongais.https://www.filmarchive.gov.hk/
+
+[^5]: Lin Qing-xia a écrit _Entre fenêtres_, éditions Tian Di, 2011. Cet ouvrage est son principal recueil de nouvelles, bien accueilli par le milieu littéraire.<https://www.books.com.tw/products/0010512315>

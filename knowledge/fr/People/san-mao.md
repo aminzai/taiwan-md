@@ -1,193 +1,195 @@
 ---
-title: 'San Mao : celle qui a écrit la fuite comme liberté'
-description: "De son vrai nom Chen Ping, née à Chongqing en 1943, elle déménage à Taïwan en 1948. Après avoir abandonné le collège suite à une humiliation publique par son professeur, elle reste sept ans repliée sur elle-même avant de reprendre l'écriture. Elle épouse José en 1973 au Sahara espagnol ; ses essais deviennent un phénomène et offrent aux Taïwanais de l'ère martiale une fenêtre sur le monde lointain. José meurt accidentellement en 1979 lors d'une plongée. En 1990, son scénario pour 'Le Poussier Rouge' remporte huit prix aux Golden Horse Awards. Le 4 janvier 1991, elle se suicide par pendaison à l'hôpital général des Vétérans de Taipei, à l'âge de 47 ans."
+title: "San Mao : l'homme qui a transformé la fuite en liberté"
+description: 'De son vrai nom Chen Ping, né en 1943 à Chongqing, il s''installe à Taïwan en 1948. Il abandonne les études après avoir été humilié publiquement par un professeur de mathématiques, puis s''isole sept ans avant de reprendre l''écriture. Il épouse José María Quero y Ruiz en 1973 dans le Sahara espagnol, et ses récits de vie dans le désert en font le regard que les Taïwanais portaient sur le monde pendant l''ère martiale. José meurt noyé en 1979. En 1990, son unique scénario "Rolling on the Passion" remporte huit grands prix du Golden Horse. Le 4 janvier 1991, il se suicide à l''hôpital militaire de Taipei, à l''âge de 47 ans.'
 date: 2026-05-17
-author: 'Taiwan.md'
 category: 'People'
 tags:
   [
     'San Mao',
-    'Essai',
+    'récits',
     'Sahara',
     'José',
-    'Arbre à oliviers',
-    'Le Poussier Rouge',
-    'Littérature de vagabondage',
+    'olivier',
+    'Rolling on the Passion',
+    'littérature errante',
   ]
-subcategory: 'Littérature'
-readingTime: 8
+subcategory: '文學'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-17
 lastHumanReview: false
-featured: false
+readingTime: 8
 translatedFrom: 'People/三毛.md'
-sourceCommitSha: '512ce94e8'
-sourceContentHash: 'sha256:423bfa0c83cbe434'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:06a2002deee9c4a4'
 sourceBodyHash: 'sha256:5eacf1a20c5ad4bd'
-translatedAt: '2026-07-25T04:46:08+08:00'
+translatedAt: '2026-10-10T12:07:02+08:00'
 ---
 
-# San Mao : celle qui a écrit la fuite comme liberté
+# San Mao : l'homme qui a transformé la fuite en liberté
 
-> **En 30 secondes :** San Mao (1943–1991), de son vrai nom Chen Ping, née à Chongqing, elle déménage à Taïwan en 1948. Elle abandonne le collège après une humiliation publique par son professeur de mathématiques, reste sept ans repliée sur elle-même avant de reprendre l'écriture sous l'impulsion du peintre Gu Fusheng. Elle publie sa première œuvre en 1962 dans _Modern Literature_.[^1] En 1967, elle part étudier en Espagne, où elle rencontre José, huit ans plus jeune qu'elle.[^2] En 1973, ils se marient au Sahara espagnol ; San Mao écrit sur la vie dans le désert, devenant la fenêtre par laquelle les Taïwanais de l'ère martiale imaginaient le monde lointain.[^1] En 1979, José meurt accidentellement en plongée sur l'île de La Palma, dans les îles Canaries.[^3] En 1990, son unique œuvre de scénariste, _Le Poussier Rouge_ (Rolling Red Dust), remporte huit grands prix aux Golden Horse Awards.[^4] Le 4 janvier 1991, elle se suicide par pendaison à l'hôpital général des Vétérans de Taipei, à l'âge de 47 ans.[^1] Ses œuvres se sont vendues à plus de 15 millions d'exemplaires ; la première traduction anglaise, publiée par Bloomsbury en 2019, a été finaliste pour le National Translation Award.[^5][^6]
+> **Résumé en 30 secondes :** San Mao (1943–1991), de son vrai nom Chen Ping, né à Chongqing, s'installe à Taïwan en 1948. Il abandonne les études après avoir été humilié publiquement par un professeur de mathématiques, puis s'isole sept ans avant de reprendre l'écriture sous la direction du peintre Gu Fusheng. Il publie son premier texte dans "Modern Literature" en 1962. En 1967, il part étudier en Espagne, où il rencontre José, huit ans plus jeune. En 1973, ils se marient dans le Sahara espagnol, et San Mao écrit sur la vie dans le désert, devenant la fenêtre à travers laquelle les Taïwanais imaginaient le monde extérieur pendant l'ère martiale. En 1979, José meurt noyé en plongée près de La Palma dans les Canaries. En 1990, son unique scénario "Rolling on the Passion" remporte huit grands prix du Golden Horse. Le 4 janvier 1991, il se suicide à l'hôpital militaire de Taipei, à l'âge de 47 ans. Son œuvre a vendu plus de 15 millions d'exemplaires. La première traduction anglaise, publiée en 2019 par Bloomsbury, a été nommée aux National Book Awards.
 
-## Une encre
+## Une plume
 
-Vers 1955, dans une salle de classe du Premier lycée de filles de Taipei, une élève de seconde obtient zéro en mathématiques.
+Vers 1955, dans une salle de classe de la première école secondaire féminine de Taipei, une élève de seconde a eu zéro au mathématique.
 
-Avant cela, elle avait fait une chose : elle avait remarqué que le professeur posait toujours les exercices situés à la fin du manuel lors des petits tests, et avait mémorisé toutes les réponses, obtenant six fois le score maximal. Le professeur, soupçonnant la triche, a proposé un autre test. Résultat : zéro. Le professeur a alors pris un pinceau et a tracé, devant toute la classe, deux grands cercles noirs autour de ses yeux, symbolisant le zéro.[^1]
+Avant cela, elle avait fait une chose : elle avait remarqué que chaque petit devoir utilisait les exercices situés à la fin du manuel. Elle les avait donc appris par cœur, obtenant six fois la note parfaite. Le professeur, soupçonneux de tricherie, changea les questions. Le résultat : zéro. Ensuite, le professeur, avec un pinceau, dessina deux grands cercles autour de ses yeux pour symboliser l'œuf.
 
-Le lendemain, elle s'est évanouie dans la salle de classe. Par la suite, elle a cessé d'aller à l'école. En 1956, elle a tenté de reprendre les cours, mais ne pouvait pas entrer dans la salle : elle courait chaque jour à la bibliothèque pour s'y cacher, avant de se retirer officiellement.[^1]
+Le lendemain, elle tomba dans les pompiers de la classe. Elle ne revint plus jamais à l'école. En 1956, elle tenta de reprendre ses études, mais ne pouvait pas entrer dans les salles de classe : elle allait chaque jour à la bibliothèque pour se cacher, et finit officiellement par démissionner.
 
-Pendant les sept années suivantes, l'endroit qu'elle fréquentait le plus était le cimetière de Sanzhangli, où elle s'asseyait entre les tombes pour lire des romans. Elle a vu des psychologues, une fois par semaine, sans succès. Elle s'est coupé les poignets.[^1]
+Les sept années suivantes, l'endroit qu'elle fréquentait le plus était le cimetière des Trois Pi, où elle lisait des romans entre les pierres tombales. Elle consulta un psychiatre une fois par semaine, sans résultat. Elle s'usa les poignets.
 
-La personne qui l'en a sortie est le peintre Gu Fusheng. San Mao a sollicité son apprentissage de la peinture, sortant deux fois par semaine, avec pour unique destination le studio de Gu Fusheng situé au 2, rue Tai'an, allée 2.[^7] Gu Fusheng lui a enseigné pendant dix mois. Mais après deux mois d'enseignement de la peinture, il a compris que son talent ne résidait pas sur la toile : il lui a passé quelques numéros de la revue _Modern Literature_ et l'a recommandée à Bai Xianyong.[^7] En décembre 1962, Chen Ping, alors âgée de 19 ans, publie une nouvelle intitulée _Huo_ (Séduction/Confusion) dans le quinzième numéro de _Modern Literature_.[^1]
+C'est le peintre Gu Fusheng qui l'a tirée de cette spirale. San Mao demanda à apprendre la peinture, sortant deux fois par semaine, toujours à la même adresse : l'atelier de Gu Fusheng, au n°2, ruelle de Taian. Gu Fusheng lui donna sa formation pendant dix mois. Mais après deux mois de cours de peinture, il réalisa que ses talents ne réside pas sur la toile : il lui offrit quelques exemplaires de "Modern Literature" et la recommanda à Bai Xianyong. En décembre 1962, la jeune Chen Ping, âgée de 19 ans, publia son premier roman intitulé "L'Égaré" dans le numéro 15 de "Modern Literature".
 
-Son nom original était en fait Chen Maoping. Le caractère « Mao » dans le livre de généalogie familiale comportait trop de traits ; enfant, elle sautait systématiquement le caractère du milieu lorsqu'elle écrivait son nom, et sa famille a fini par céder, la renommant simplement Chen Ping. Son nom anglais, Echo, était également de son propre choix.[^1] Plus tard, elle a pris le pseudonyme de « San Mao ». Une version dit qu'à trois ans, elle a lu la bande dessinée de Zhang Leping _Les Pérégrinations de San Mao_, une autre dit qu'il s'agissait d'une autocritique signifiant « ne vaut que trois mao (pièces de monnaie) ».[^1] Ces deux versions pointent vers la même chose : le vagabondage.
+Son vrai nom était Chen Mao Ping. Le caractère "Mao" dans sa généalogie avait trop de traits, alors qu'elle était jeune, elle sautait toujours le caractère du milieu quand elle écrivait son nom. Finalement, sa famille céda, et elle fut renommée Chen Ping. Son nom en anglais, Echo, était également choisi par elle-même.
 
-## La fenêtre dans le désert
+Plus tard, elle s'attribua le pseudonyme "San Mao". D'une part, c'était parce qu'à l'âge de trois ans, elle lisait le dessin animé "San Mao, le vagabond" de Zhang Leying. D'autre part, c'était une auto-dérision : "pas même digne de trois cents de monnaie".
 
-En 1964, San Mao, sans diplôme d'études secondaires, a obtenu une permission spéciale pour son talent exceptionnel et a suivi des cours en auditrice libre au département de philosophie de l'Université chinoise de culture, où elle a rencontré un professeur allemand. Ils ont été en couple pendant un an avant de se fiancer. Ils sont allés ensemble commander des cartes de visite de mariage. Le soir même, le professeur allemand est décédé subitement d'une crise cardiaque. San Mao a avalu des somnifères et a été sauvée par sa famille. Elle a dit plus tard : « Je n'ai toujours pas osé récupérer cette boîte de cartes de visite. »[^8]
+## La fenêtre du désert
 
-En 1967, elle a volé vers l'Espagne pour étudier à l'Université Complutense de Madrid. C'est là qu'elle a rencontré José (José María Quero y Ruíz), un jeune homme d'Andalousie. Elle avait 24 ans, lui 16.[^2] José lui a fait une proposition de mariage. Elle a dit qu'elle attendrait six ans : le temps qu'il termine ses études et son service militaire. Pendant ces six ans, San Mao n'a pas chômé : elle est allée apprendre l'allemand intensivement en Allemagne, étudiant seize heures par jour, obtenant une qualification d'enseignement neuf mois plus tard.[^1] Elle a également appris la poterie. Après un long périple, elle est revenue à Madrid, où José l'attendait.
+En 1964, sans diplôme du secondaire, San Mao fut admise en double licence de philosophie à l'Université nationale de Chine de Taipei grâce à une dispense spéciale. C'est là qu'elle rencontra un professeur allemand. Après un an de relation, ils se fiancèrent. Ce même soir-là, le professeur allemand mourut d'un arrêt cardiaque. San Mao avala des somnifères, mais fut sauvée par sa famille. Elle dira plus tard : "Cette boîte de cartes de mariage, je n'ai toujours osé la récupérer."
 
-Les six années sont passées. En 1973, ils se sont mariés à El Aaiún, la capitale du Sahara espagnol. San Mao avait 30 ans, José 22 : son métier était ingénieur en plongée.[^1] Le mariage était minimaliste : ils ont marché en vêtements de ville à travers le désert pour se faire enregistrer au bureau du juge.[^2]
+En 1967, elle partit en Espagne, à l'Université Complutense de Madrid. C'est là qu'elle rencontra José (José María Quero y Ruiz), un jeune Andalou. Elle avait 24 ans, il en avait 16. José lui demanda sa main. Elle répondit qu'elle attendrait six ans : le temps qu'il finisse ses études et son service militaire. Durant ces six ans, San Mao ne resta pas inactive : elle alla en Allemagne pour étudier intensivement l'allemand, lisant 16 heures par jour, et obtint son certificat d'aptitude à l'enseignement en neuf mois. Elle apprit également la céramique. De retour à Madrid, José l'attendait.
 
-Après cela, San Mao a commencé à écrire sur le désert pour Taïwan. Invitée par le rédacteur en chef du supplément du _United Daily News_, Ping Xintao, son premier essai, _Le Restaurant Chinois_, a été publié en octobre 1974. Elle a envoyé au fil de l'eau, sous le nom de « San Mao », le quotidien du Sahara à l'île.[^1] En 1976, _Les Histoires du Sahara_ a été publié par Crown Publishing, provoquant un engouement de lecture des deux côtés du détroit.[^18] À une époque où le peuple ne pouvait pas voyager librement, ses textes étaient la fenêtre par laquelle toute une génération de jeunes Taïwanais regardait vers l'extérieur. Bai Xianyong a dit plus tard que San Mao « a créé un monde romantique et magnifique plein de légendes... Ces expériences de vie que les gens ordinaires ne peuvent atteindre ont fait d'elle une idole de la jeunesse des deux côtés du détroit ».[^1]
+Six ans plus tard, en 1973, ils se marièrent à Ayouin, la capitale du Sahara espagnol. San Mao avait 30 ans, José 22 ans, et son métier était celui d'ingénieur plongeur. Leur mariage fut sobre : vêtus de vêtements simples, ils marchèrent dans le désert jusqu'au bureau d'un juge pour officialiser leur union.
 
-San Mao n'écrivait pas sur l'exploration exotique. Elle écrivait sur le pain quotidien dans le désert : comment préparer un repas chinois avec les ingrédients disponibles, comment gérer les voisins Sahraouis qui « empruntaient » constamment leurs affaires, comment maintenir l'apparence d'un foyer sans eau courante ni supermarché décent. Son ton ressemblait toujours à celui d'une conversation avec un ami : « Je te raconte une chose amusante » — même si cette chose était en réalité dangereuse ou difficile. Elle rendait les jours durs intéressants, rendait le lointain semblable au voisinage. Les lecteurs ne lisaient pas des essais de voyage, mais des lettres familiales envoyées du Sahara à Taïwan.
+À partir de ce moment, San Mao commença à écrire pour Taïwan sur le désert. Invitée par le rédacteur en chef du supplément du "Journal de Taïwan", sa première chronique "Le restaurant chinois" fut publiée en octobre 1974. Elle utilisa le nom "San Mao" pour envoyer article par article ses récits de vie dans le Sahara. En 1976, "L'histoire du Sahara" fut publiée par la maison d'édition Courtyard, déclenchant une vague de lecture à travers le détroit. À une époque où les gens ne pouvaient pas voyager librement à l'extérieur, ses textes étaient la fenêtre à travers laquelle toute une génération de Taïwanais regardait le monde. Bai Xianyong dira plus tard que San Mao "avait créé un monde romantique riche en légendes... les expériences de vie que personne d'autre n'avait vécues avaient fait d'elle une icône pour les jeunes des deux rives."
 
-Mais à quel point son Sahara était-il réel ? Cette question n'a jamais cessé depuis la publication. San Mao affirmait que tout était le fruit de son expérience réelle. En 2019, le traducteur de l'édition anglaise, Mike Fu, a qualifié son œuvre de « semi-autobiographique », sans garantir l'exactitude de chaque détail.[^6] L'Université de Pittsburgh a publié un article intitulé _San Mao: Oasis or Mirage?_ (San Mao : Oasis ou mirage ?), explorant la frontière entre son réalisme et sa fiction.[^23] L'écrivain de voyage Ma Zhongxin a publié _La Vérité sur San Mao_ en 1996, passant cinq ans à suivre les traces de San Mao et à interviewer ses proches, concluant qu'elle « inventait des histoires et fabriquait un bel amour ».[^24] Mais les critiques ont également remis en question le parti pris de Ma Zhongxin dès le départ.[^24]
+San Mao ne racontait pas d'aventures exotiques. Elle décrivait la vie quotidienne dans le désert : comment préparer un repas chinois avec les rares ingrédients disponibles, comment gérer les voisins Sahraouis qui empruntaient sans cesse des choses, comment maintenir un foyer sans eau courante ni supermarché convenable. Son ton était toujours comme s'il s'adressait à un ami : "Je vais vous raconter quelque chose de marrant" — même si l'histoire était en réalité dangereuse ou difficile. Elle savait rendre l'humdrum amusant, et le lointain proche. Les lecteurs ne lisaient pas des récits de voyage, mais des lettres de famille envoyées depuis le Sahara.
 
-La vérité est probablement plus complexe que ce que l'une ou l'autre partie ne le dit : elle ne fabriquait pas de toutes pièces, mais elle ne faisait pas non plus du journalisme. Elle reconstruisait un monde dont elle avait besoin par la littérature.
+Mais dans quelle mesure le Sahara de San Mao était-il réel ? Cette question a suscité des débats dès la publication. San Mao affirmait que tout était basé sur des expériences vécues. En 2019, le traducteur Mike Fu a qualifié son œuvre de "semi-autobiographique", sans garantir la véracité de chaque détail. Une thèse de l'université de Pittsburgh portait sur le thème "San Mao : oasis ou mirage ?" pour explorer les frontières entre réalité et fiction. Le voyageur Ma Zhongxin publia en 1996 "La vérité sur San Mao", passant cinq ans à suivre ses traces et à rencontrer ses amis et sa famille. Il conclut que San Mao "inventait des histoires et fabriquait une belle histoire d'amour". Cependant, les critiques ont également souligné que Ma Zhongxin avait abordé le sujet avec un préjugé.
 
-Ce débat a gagné une dimension supplémentaire. L'écriture de San Mao s'est déroulée à la fin de la colonisation espagnole. Elle était une épouse étrangère du côté des colonisateurs, tandis que ses voisins étaient les Sahraouis colonisés. Elle écrivait sur ces voisins avec bienveillance et curiosité, mais la bienveillance n'est pas l'égalité. Le traducteur de l'édition anglaise, Mike Fu, admet dans sa préface qu'en regardant avec les standards contemporains, certaines sections « pouvaient avoir une condescendance à l'égard des voisins Sahraouis ».[^6] San Mao n'avait pas cette conscience de soi : presque personne ne l'avait dans les années 1970. Mais aujourd'hui, en la relisant, cette dimension est incontournable.
+La vérité est probablement plus complexe que ce que l'un ou l'autre affirme : San Mao ne mentait pas, mais elle ne rapportait pas non plus un journalisme. Elle reconstruisait le monde dont elle avait besoin à travers la littérature.
 
-Son influence ne s'est pas limitée à Taïwan. Dans les années 1980, ses œuvres ont atteint la Chine continentale au début de la Réforme et de l'Ouverture. Pour les lecteurs sortant tout juste de la Révolution culturelle, le Sahara de San Mao n'était pas une attraction touristique, mais une preuve : la preuve que la vie quotidienne pouvait prendre une autre forme, qu'une personne pouvait choisir où elle allait. Son écriture de vagabondage est devenue un lien culturel unique entre les deux rives : une histoire du désert écrite par une femme taïwanaise a permis aux lecteurs continentaux de sentir pour la première fois que « le monde extérieur » n'était pas qu'un slogan, mais une température tangible. En 2009, elle classait dixième dans la catégorie littérature et trente-cinquième au classement général de popularité lors de l'élection en ligne des « Personnalités culturelles les plus influentes des soixante ans de la Nouvelle Chine », étant également élue parmi les « Soixante femmes ayant influencé la Nouvelle Chine ».[^1] L'évaluation du Musée national de la littérature taïwanaise est la suivante : San Mao « est peut-être la personne littéraire la plus vendue et la plus influente de Taïwan ».[^19] Au moment de sa mort, elle avait publié quinze livres de création littéraire, cinq traductions, trois livres audio et un scénario : vingt-quatre au total, pour plus de deux millions cinq cent mille caractères, traduits en quinze langues.[^1]
+Cette controverse a gagné une dimension supplémentaire. L'écriture de San Mao s'est produite à la fin de la colonisation espagnole. Elle était l'épouse étrangère du côté colonial, tandis que ses voisins étaient les Sahraouis colonisés. Elle les décrivait avec bienveillance et curiosité, mais la bienveillance ne signifie pas égalité. Le traducteur Mike Fu a admis dans sa préface que, vu avec les standards actuels, certains passages pouvaient sembler "supérieurs" dans leur traitement des voisins Sahraouis. San Mao n'avait pas cette conscience critique : presque personne n'avait cette sensibilité dans les années 1970. Mais relire ses textes aujourd'hui, cette dimension est incontournable.
 
-Mais la « liberté » que les lecteurs voyaient n'était pas exactement la même que celle qu'elle avait vécue. Le critique Yang Zhao a écrit : San Mao a offert aux lecteurs un bonheur fantastique et réel, surmontant non seulement sa propre douleur, mais apaisant également la répression de toute la société taïwanaise. Pourtant, derrière les textes, le moi pessimiste et dépressif n'était pas libéré.[^1]
+Son influence allait bien au-delà de Taïwan. Dans les années 1980, ses œuvres pénétrèrent la Chine continentale, alors au début des réformes et de l'ouverture. Pour les lecteurs qui venaient de sortir de la Révolution culturelle, le Sahara de San Mao n'était pas une destination touristique, mais une preuve : une preuve que la vie quotidienne pouvait prendre une autre forme, qu'une personne pouvait choisir où aller. Son écriture errante devint un pont culturel unique entre les deux rives : une histoire de désert écrite par une femme taïwanaise, qui fit découvrir aux lecteurs continentaux que "le monde extérieur" n'était pas seulement un slogan, mais une réalité tangible. En 2009, elle fut classée 10e dans la catégorie littérature et 35e dans le classement général des "60 personnalités culturelles les plus influentes de la Chine moderne". Le Musée national de la littérature taïwanaise l'a décrite comme "probablement l'auteur le plus vendu et le plus influent de Taïwan". À sa mort, elle avait publié 15 œuvres littéraires, traduit 5 livres, enregistré 3 livres audio et écrit 1 scénario : 24 œuvres au total, avec plus de 2,5 millions de caractères, traduites en 15 langues.
 
-Ce qui illustre le mieux ce décalage est _L'Arbre à oliviers_. San Mao a écrit les paroles pour le compositeur Li Taixiang ; les paroles originales disaient : pour l'ânon, pour les grands yeux de la jeune fille espagnole, vagabonder au loin.[^9] Li Taixiang a trouvé les paroles originales difficiles à mettre en musique et les a mises de côté. La chanteuse folk Yang Zujun les a réécrites : l'oiseau volant dans le ciel, le ruisseau clair dans les montagnes, la prairie vaste.[^9] La version chantée par Qi Yu en 1979 a été incluse dans le premier album _L'Arbre à oliviers_, servant également de chanson originale pour le film _Joyeuse Expression_. Li Taixiang a exigé que Qi Yu « chante de manière large, sans voix feutrée » — il considérait la voix feutrée comme de la musique décadente. Cette chanson a traversé le monde sinophone. Le Bureau de la radiodiffusion et de la télévision de Taïwan a interdit la diffusion de cette chanson : les paroles « ne me demandez pas d'où je viens » et « le lointain » étaient considérées comme potentiellement sensibles pour les relations inter-détroit, et le vagabondage romantisé craignait d'encourager les adolescents à quitter la maison.[^10] L'interdiction a rendu la chanson encore plus populaire.
+Cependant, la "liberté" que les lecteurs voyaient et celle qu'elle avait réellement vécue n'étaient pas exactement les mêmes. Le critique Yang Zhao écrivit : San Mao offrait aux lecteurs un rêve heureux réel, non seulement en surmontant sa douleur personnelle, mais aussi en apaisant l'oppression de toute une génération à Taïwan. Pourtant, derrière les textes, le "soi" pessimiste et mélancolique n'avait pas été libéré.
 
-San Mao a toujours été insatisfaite des paroles modifiées. Elle a dit : « Je ne chanterai pas cette chanson. Si le vagabondage ne sert qu'à voir les oiseaux volant dans le ciel et la grande prairie, autant ne pas vagabonder. »[^9]
+L'exemple le plus parlant de cette divergence est "L'arbre d'olivier". San Mao écrivit les paroles pour le compositeur Li Taiqiong, dont le texte original parlait de "l'âne de San Mao" et des "grands yeux d'une fille espagnole, errant loin". Li Taiqiong trouva les paroles difficiles à mettre en musique et les déposa de côté. Le chanteur folk Yang Zujun les réécrivit ensuite : "les oiseaux qui volent dans le ciel, les ruisseaux clairs dans les montagnes, les vastes prairies". La version chantée par Qi Yu en 1979 fut incluse dans son premier album "L'arbre d'olivier", qui sert également de bande originale au film "Le sourire". Li Taiqiong demanda à Qi Yu de "chanter de manière large, sans émettre de sons creux" — il croyait que les sons creux étaient des bruits vides. Cette chanson se répandit à travers le monde chinois. L'agence de radio-télévision de Taïwan interdit la diffusion de cette chanson : les paroles "Ne me demande pas d'où je viens" et "la lointain" pouvaient déclencher des tensions sensibles entre les deux rives, et la romanticisation du voyage pouvait encourager les jeunes à quitter leur foyer. L'interdiction fit d'ailleurs la chanson encore plus populaire.
 
-Elle écrivait sur un ânon concret et une jeune fille réelle. Les autres l'ont transformé en oiseau et en prairie abstraits. Même son propre vagabondage a été romantisé.
+San Mao n'a jamais été satisfaite de la réécriture. Elle dit un jour : "Je ne chante pas cette chanson. Si errer ne sert qu'à voir les oiseaux voler dans le ciel et les vastes prairies, alors inutile d'errer."
 
-## Les personnes qu'on ne peut garder
+Elle écrivait sur un âne concret et une fille réelle. Les autres l'ont transformé en oiseaux abstraits et prairies. Même son propre errance avait été romantique.
 
-En 1975, l'Espagne se retire du Sahara ; San Mao et José déménagent dans les îles Canaries, vivant d'abord au 3, Calle Lope de Vega, quartier Telde, île Gran Canaria, puis également sur l'île de La Palma.[^3]
+## L'homme qu'elle n'a pas pu retenir
 
-En septembre 1979, les parents de San Mao sont venus d'Europe en passant par Taïwan pour rendre visite à leur fille et à leur gendre. C'était la première fois qu'ils voyaient José après six ans de mariage. San Mao a accompagné ses parents en voyage à Londres. À l'aéroport, lors des adieux, José et sa belle-mère ont convenu : « Nous viendrons jouer à Taïwan l'année prochaine. »[^3]
+En 1975, l'Espagne abandonna le Sahara, et San Mao et José décidèrent de s'installer dans les Canaries, d'abord dans la rue Lope de Vega n°3 à Telde, sur l'île de Gran Canaria, puis plus tard à La Palma.
 
-Il n'y avait pas d'année prochaine.
+En septembre 1979, les parents de San Mao volèrent d'Europe pour la visiter, profitant aussi de la présence de leur belle-famille. Six années de mariage, et c'était la première fois qu'ils rencontraient José. San Mao accompagna ses parents en tourisme à Londres. À l'aéroport, José et sa belle-mère convinrent : "L'année prochaine, nous viendrons à Taïwan."
 
-Le 30 septembre, José est noyé lors de la pêche sous-marine sur la côte de Barlovento, île de La Palma. Il avait 27 ans.[^3] Son corps a été repêché le lendemain. C'était la fête de la Mi-Automne.[^3]
+Il n'y eut pas d'année prochaine.
 
-San Mao a accompagné ses parents à l'aéroport de Londres avant de retourner à l'hôtel. À une heure du matin, on a frappé à la porte. Ayant appris la nouvelle, elle a volé à La Palma et a creusé la tombe de José de ses propres mains dans la boue.[^11] Sa sœur aînée, Chen Tianxin, a rappelé plus tard : « Si ses parents n'avaient pas été là, elle serait partie avec José. C'est sûrement Dieu qui a fait venir Papa et Maman soudainement à ce moment-là. »[^11]
+Le 30 septembre, José périt noyé en pêchant sous-marin près de Barlovento, sur l'île de La Palma. Il avait 27 ans. Le corps fut ramené le lendemain. C'était le jour de la fête de l'automne.
 
-En automne de cette année-là, ses parents l'ont ramenée à Taïwan.
+Après avoir fait part de la nouvelle à ses parents à Londres, San Mao rentra à l'hôtel. À une heure du matin, quelqu'un frappa à la porte. Elle apprit la nouvelle et retourna immédiatement à La Palma, où elle creusa à la main la fosse de José dans la boue.
 
-Après le départ de José, elle a écrit un recueil d'essais intitulé _Combien de fleurs tombent dans le rêve_, documentant la période après la perte.[^1] Après cela, elle ne s'est pas arrêtée. En 1981, sous commission d'une maison d'édition, elle a voyagé en Amérique centrale et du Sud, écrivant ensuite _Traversant les mille rivières et les mille montagnes_. À partir de la même année, elle a enseigné à l'Université chinoise de culture jusqu'en 1984.[^1] Elle a également traduit directement en chinois depuis l'espagnol la bande dessinée argentine _Mafalda_.[^1] Elle a traversé cinquante-quatre pays de sa vie.[^1]
+Sa sœur aînée, Chen Tianshin, se souvint plus tard : "Si nos parents n'étaient pas là, elle serait certainement partie avec José. C'est certainement Dieu qui a fait partir nos parents à ce moment-là."
 
-Mais peu importe la distance parcourue, les lecteurs se souviennent de San Mao toujours comme celle du Sahara — cheveux longs, longue robe, grands boucles d'oreilles, avec José silencieux à ses côtés. San Mao de retour à Taïwan n'était pas aussi romantique. Elle partait sans cesse — Amérique centrale et du Sud, continent, Xinjiang — comme si elle était rattrapée par quelque chose dès qu'elle s'arrêtait. L'un de ses amis les plus proches, Ni Kuang, a rappelé plus tard : « San Mao avait toujours une tendance au suicide. C'était une personnage au fort caractère dramatique et tragique, qui a quitté ce monde parce qu'elle avait perdu le pouvoir d'aimer et d'être aimée. »[^1]
+Cet automne-là, ses parents l'amenèrent de retour à Taïwan.
 
-En avril 1989, San Mao a foulé pour la première fois le sol continental. Elle est d'abord allée à Zhoushan, dans le Zhejiang — le foyer de la famille Chen — pour chercher ses ancêtres qu'elle n'avait jamais vus. Puis elle a rendu visite à Zhang Leping, le dessinateur de bande dessinée âgé de 80 ans, à Shanghai ; sa première phrase en le voyant était de le prendre pour « papa ». Zhang Leping a dit plus tard aux autres qu'il ne s'attendait pas à ce qu'il « dessine » une vraie fille.[^1] Ce _Les Pérégrinations de San Mao_ que San Mao avait lu à Chongqing à l'âge de trois ans l'a finalement reliée à l'auteur — un orpheline vagabonde dessinée a prédit une vagabonde réelle. Cette amitié a perduré jusqu'à sa mort.
+Après la perte de José, San Mao publia un recueil de nouvelles intitulé "Les fleurs qui tombent dans les rêves", documentant ces journées sombres. Elle ne s'arrêta pas jamais après cela. En 1981, elle fut envoyée par une maison d'édition pour voyager en Amérique latine, puis écrivit "Traversée des montagnes et des fleuves". Elle commença également à enseigner à l'Université nationale de Chine de Taipei, jusqu'en 1984. Elle traduisit également la bande dessinée argentine "Mafalda" du castillan vers le chinois. Elle visita 54 pays de son vivant.
 
-En août 1990, elle a volé à Ürümqi pour rendre visite au « Roi de la chanson de l'Ouest » Wang Luobin, âgé de 77 ans, y restant près d'un mois. Il y avait trente ans d'écart entre eux. Wang Luobin a maintenu ses distances. San Mao est partie en pleurant et en l'étreignant.[^12] Wang Luobin a ensuite entendu la nouvelle de sa mort à la radio et a écrit sa dernière chanson d'amour de sa vie, _Attente — Une chanson d'amour envoyée aux morts_.[^12]
+Mais quelle que soit la distance qu'elle parcourait, les lecteurs se souvenaient toujours de San Mao dans le Sahara — cheveux longs, jupe longue, grosses boucles d'oreilles, José silencieux à ses côtés. De retour à Taïwan, San Mao n'était plus aussi romantique. Elle voyageait sans arrêt — Amérique latine, Chine continentale, Xinjiang — comme si s'arrêter lui-même valait d'être rattrapée par quelque chose. L'un de ses amis les plus proches, Ni Kuang, se souvint d'elle plus tard : "San Mao avait toujours tendance suicidaire. C'était une personnalité très théâtrale, tragique, et c'est la perte de l'amour et de l'amour-propre qui l'a poussée à quitter ce monde."
 
-Cent vingt-et-un jours après son départ du Xinjiang, elle est morte.
+En avril 1989, San Mao posa pour la première fois le pied sur le continent chinois. Elle alla d'abord à Zhoushan, dans son fief ancestral, pour chercher des ancêtres qu'elle n'avait jamais vus. Ensuite, elle visita à Shanghai le dessinateur de 80 ans Zhang Leying, dont la première phrase fut de l'appeler "papa". Zhang Leying dira plus tard : "Je n'aurais jamais pensé que je 'dessinerais' une vraie fille." Le "San Mao, le vagabond" que San Mao lisait à l'âge de trois ans à Chongqing finit vraiment par unir l'auteur et la personnage — un orphelin dessiné qui avait prédit un véritable errant. Cette amitié dura jusqu'à sa mort.
 
-## Les vingt-cinq derniers jours
+En août 1990, elle vola à Urumqi pour rendre visite au chanteur "roi de l'Ouest" Wang Luobin, âgé de 77 ans. Ils partagèrent un écart de 30 ans. Wang Luobin maintint toujours une distance. À son départ, San Mao pleura en l'étreignant. Wang Luobin apprit sa mort plus tard à travers une radio, et écrivit sa dernière chanson "L'attente — chanson d'amour pour les défunts".
 
-En 1990, le réalisateur Yan Hao a demandé à San Mao de co-écrire un scénario de film. Ensemble, ils ont passé environ quarante nuits en discussions intensives, achevant _Le Poussier Rouge_ (Rolling Red Dust).[^13] C'était la seule œuvre de scénariste de San Mao : se déroulant sous l'occupation japonaise en Chine dans les années 1940, elle métaphorise les liens entre Eileen Chang et Hu Lancheng, avec Lin Qingxia, Qin Han et Zhang Manyu comme acteurs principaux, et la musique de Lo Ta-yu.[^4] Le film a été projeté à Hong Kong en novembre, sorti à Taïwan le 8 décembre.
+121 jours après son départ du Xinjiang, elle mourut.
 
-Le 10 décembre, la cérémonie de remise des prix de la 27e édition des Golden Horse Awards a eu lieu au Théâtre national de Taipei. _Le Poussier Rouge_ a remporté huit grands prix : meilleur film dramatique, meilleure réalisation, meilleure actrice (Lin Qingxia), meilleure actrice secondaire (Zhang Manyu), photographie, direction artistique, design de costumes, musique de film.[^4] Lin Qingxia a dit plus tard : « Sans San Mao, je n'aurais pas obtenu ce prix. »[^14] C'étaient des âmes sœurs. En buvant, elles avaient convenu d'une chose : la première personne à partir devrait trouver un moyen de revenir dire à l'autre ce qu'on ressent après la mort.
+## Les derniers 25 jours
 
-San Mao était la seule scénariste de ce film. Mais la nomination au meilleur scénario original a été refusée.[^4]
+En 1990, le réalisateur Yan Hao contacta San Mao pour co-écrire le scénario d'un film. Pendant environ 40 nuits, ils eurent des conversations intenses, achevèrent le scénario de "Rolling on the Passion". C'était le seul scénario de San Mao : basé dans les années 1940 sous la domination japonaise en Chine, une allégorie de la relation entre Zhang Ailing et Hu Lancheng, avec pour acteurs principaux Lin Qingxia, Qin Han et Zhang Man-yu, et une musique de Luo Da You. Le film fut présenté en première à Hong Kong en novembre, puis sortit en salle à Taïwan le 8 décembre.
 
-Vingt-cinq jours plus tard.
+Le 10 décembre, la 27e cérémonie des Golden Horse eut lieu au théâtre national de Taipei. "Rolling on the Passion" remporta huit grands prix : meilleur film dramatique, meilleur réalisateur, meilleure actrice principale (Lin Qingxia), meilleure actrice secondaire (Zhang Man-yu), meilleure photographie, meilleurs décors, meilleurs costumes et meilleure musique. Lin Qingxia dira plus tard : "Sans San Mao, je n'aurais pas reçu ce prix." Ils étaient proches. Ils avaient fait un pacte en buvant : celui qui partait en premier devait revenir pour raconter à l'autre ce que c'était que d'être mort.
 
-Le 2 janvier 1991, San Mao a été hospitalisée à l'hôpital général des Vétérans de Taipei pour une chirurgie liée à une hyperplasie endométriale. L'opération a réussi, aucun cancer, l'hôpital prévoyait sa sortie le 5 janvier.[^15] La veille de son entrée à l'hôpital, elle a offert solennellement à sa mère une sculpture en jade et une carte d'anniversaire.[^15] La nuit précédente, elle avait demandé à l'infirmière de ne pas la déranger au milieu de la nuit.
+San Mao était la seule scénariste de ce film. Mais pour le prix du meilleur scénario original, elle fut nommée, mais ne gagna pas.
 
-Le matin du 4 janvier, le personnel de nettoyage a trouvé son corps suspendu par un bas nylon au crochet d'un porte-seringues dans la salle de bain de la chambre.[^15]
+25 jours plus tard.
 
-Elle avait 47 ans.
+Le 2 janvier 1991, San Mao fut admise à l'hôpital militaire de Taipei pour une chirurgie liée à l'hypertrophie de l'endomètre. L'opération réussit, sans cancer, et l'hôpital prévoyait sa sortie le 5 janvier. La veille, elle offrit solennellement à sa mère une sculpture en jade et une carte de vœux d'anniversaire. La veille au soir, elle donna des instructions aux infirmières : ne pas la déranger la nuit.
 
-La conclusion de la police était « le mépris de la vie dû à la maladie ». Sa mère, Miao Jinlan, n'était pas d'accord, pensant qu'il s'agissait d'un accident où elle avait perdu conscience sous l'effet des somnifères. Le médecin traitant, Zhao Guanzhong, n'était pas d'accord non plus : l'hyperplasie endométriale n'était qu'une petite opération, il supposait qu'il s'agissait d'un problème émotionnel.[^15] Trente-cinq ans ont passé, aucun consensus sur ces théories. Elle a été enterrée au cimetière de Jinbaoshan à Taipei.[^1]
+Dans la matinée du 4 janvier, le personnel de nettoyage découvrit son corps pendu à un support de perfusion avec des bas. Elle avait 47 ans.
 
-La communauté littéraire n'a jamais eu de consensus sur sa position. San Mao le savait bien — elle a dit à Jia Pingwa : « Mes livres sont écrits pour le grand public... Ils ne font pas partie de votre bibliothèque, à moins que ce soit pour l'amitié et non pour la littérature. »[^16] Les chercheurs ont observé qu'elle « était bien plus populaire que Eileen Chang » et « manquait d'un maître canonisant comme Xia Zhiqing » pour lui争取 une place dans l'histoire littéraire.[^16] Mais le monde en dehors du canon est plus vaste — ses livres se sont vendus à plus de 15 millions d'exemplaires.[^5] En 2019, le _New York Times_ lui a rendu hommage dans sa série _Overlooked_ (Les Négligés), la qualifiant de « vagabonde qui a trouvé sa voix dans le désert ».[^5] La même année, la première traduction anglaise _Stories of the Sahara_ a été publiée par Bloomsbury. Le traducteur Mike Fu s'est rendu en Espagne spécialement pour interviewer la nièce de José et visiter la maison de San Mao dans les îles Canaries.[^6] Ce livre a été finaliste pour le National Translation Award.[^6] Le 26 mars 2019, à l'occasion de son 76e anniversaire de naissance posthume, Google a lancé un Doodle commémoratif à Taïwan, à Hong Kong et à Singapour.[^20] En 2020, l'Espagne a tourné un documentaire _Sanmao: La novia del desierto_ (San Mao : la mariée du désert).[^21] En 2022, l'Espagne a de nouveau publié sa biographie _Un viaje al corazón de Sanmao_ (Un voyage au cœur de San Mao). En 2025, la revue académique de l'Université d'Oxford _Adaptation_ a publié un article analysant le rôle de San Mao en tant que « diplomatie culturelle » dans les adaptations biographiques hispanophones. Une écrivaine taïwanaise, plus de trente ans après sa mort, continue d'être discutée et réinterprétée sur un autre continent.
+La police conclut à un "découragement par la maladie". Sa mère, Mu Jilan, ne partageait pas cet avis, pensant qu'il s'agissait d'une perte de connaissance induite par les somnifères. Le médecin traitant, Zhao Guanzhong, non plus : l'hypertrophie de l'endomètre n'était qu'une petite opération, et il pensait à des problèmes émotionnels. 35 ans plus tard, ces versions n'ont toujours pas trouvé d'accord. Elle fut enterrée au cimetière de Jinbao, à Taipei.
 
-Elle et Sima Zhong étaient des amis littéraires célèbres, ayant conclu un « pacte de vie et de mort » : la première personne à partir devait revenir dire à l'autre ce qu'était le monde après la mort. Le 4 janvier 2024, Sima Zhong est décédé. Le même mois et le même jour que la mort de San Mao, séparés de exactement trente-trois ans — comme s'il avait enfin tenu ce rendez-vous.[^22]
+La position de la communauté littéraire sur San Mao n'a jamais non plus trouvé d'accord. San Mao le savait elle-même : elle avait dit à Jia Ping'ao : "Mes livres sont écrits pour un public général... ils ne méritent pas une place dans votre étagère, sauf en amitié et non en littérature." Les chercheurs ont observé qu'elle était "beaucoup plus populaire que Zhang Ailing", mais qu'elle manquait "d'un maître canonicité similaire à l'équivalent de Xia Zhiqing". Cependant, le monde en dehors de la canonicité est plus vaste — ses livres ont vendu plus de 15 millions d'exemplaires. En 2019, le "New York Times" la rendit hommage dans sa série "Les oubliés", la décrivant comme "une auteure errante qui avait trouvé sa voix dans le désert". La même année, la première traduction anglaise "Stories of the Sahara" fut publiée par Bloomsbury. Le traducteur Mike Fu se rendit spécialement en Espagne pour rencontrer la nièce de José et visiter la maison de San Mao dans les Canaries. Ce livre fut nommé aux National Book Awards. Le 26 mars 2019, le 76e anniversaire de sa naissance, Google lança un Doodle commémoratif aux Taïwan, Hong Kong et Singapour. En 2020, l'Espagne tourna un documentaire "San Mao : La nouvelle du désert". En 2022, l'Espagne publia sa biographie "Un voyage au cœur de San Mao". En 2025, la revue académique "Adaptation" de l'université d'Oxford publia un article analysant le rôle de San Mao comme "diplomatie culturelle" dans les biographies en langue espagnole. Un auteur taïwanais, plus de 30 ans après sa mort, est toujours discuté et réinterprété dans un autre continent.
 
-Plus de trente ans après la mort de San Mao, ses œuvres n'ont jamais été épuisées, de nouvelles éditions étant imprimées chaque année. Sur les plateformes de réseaux sociaux en Chine continentale, les comptes de citations portant son nom comptent encore plus d'un million d'abonnés — bien qu'elle n'ait jamais vécu à l'ère des réseaux sociaux. Son nom est devenu un symbole culturel, représentant non seulement la littérature, mais tout un ensemble de valeurs autour de la liberté, du vagabondage et de l'authenticité.
+Elle et Si Ma Zhongyuan étaient des amis littéraires célèbres, et ils avaient fait un pacte de mort : celui qui partait en premier devait revenir pour raconter à l'autre ce que c'était que d'être mort. Le 4 janvier 2024, Si Ma Zhongyuan décéda. Exactement 33 ans après la mort de San Mao, le même jour, le même mois — comme s'ils avaient enfin tenu leur promesse.
 
-En 1992, l'année suivant la mort de San Mao, Taïwan a créé le Prix littéraire San Mao.[^20] Son nom anglais, Echo, est également devenu un prénom pour une génération de femmes sinophones : les mères qui ont grandi en lisant les essais de San Mao ont donné ce prénom à leurs filles.[^20]
+Pendant plus de 30 ans après la mort de San Mao, ses œuvres n'ont jamais cessé d'être réimprimées, et chaque année voit paraître de nouvelles éditions. Sur les plateformes sociales de la Chine continentale, les comptes de citations de San Mao comptent encore plus d'un million d'abonnés — bien qu'elle n'ait jamais vécu l'ère des médias sociaux. Son nom est devenu un symbole culturel, représentant non seulement la littérature, mais un ensemble complet de valeurs sur la liberté, le voyage et la sincérité.
 
-Les jeunes Taïwanais d'aujourd'hui n'ont peut-être pas lu les livres de San Mao, mais la tradition qu'elle a ouverte n'a pas disparu. Avant elle, les Taïwanais pensaient que « écrire sur sa propre vie » n'était pas de la littérature. San Mao a prouvé que l'expérience quotidienne des personnes ordinaires — le pain quotidien, les difficultés exotiques, la perte et la solitude — si elle est écrite avec assez d'honnêteté et de précision, est de la littérature. Cette voie s'est ensuite étendue aux blogs et aux réseaux sociaux. Chaque Taïwanais écrivant un journal à l'étranger se tient devant la fenêtre ouverte lorsqu'elle a envoyé ses premières contributions du Sahara en 1974.
+En 1992, l'année suivant sa mort, Taïwan instaura le prix littéraire San Mao. Son nom anglais, Echo, devint également un prénom populaire pour les jeunes femmes chinoises : celles qui avaient grandi en lisant les récits de San Mao donnaient ce nom à leurs filles.
+
+Les jeunes Taïwanais d'aujourd'hui n'ont peut-être jamais lu les livres de San Mao, mais la tradition qu'elle a initiée ne s'est pas éteinte. Avant San Mao, les Taïwanais pensaient que "écrire sur sa propre vie" n'était pas de la littérature. San Mao a prouvé que l'expérience quotidienne ordinaire — le sel, le piment, l'huile, le sel, la vie exilée à l'étranger, la perte et la solitude — pouvait devenir de la littérature si elle était écrite avec suffisamment d'honnêteté et de concret. Cette voie a ensuite évolué vers les blogs et les médias sociaux. Chaque Taïwanais qui écrit un journal dans un pays étranger se tient devant la fenêtre que San Mao avait ouverte pour la première fois en 1974, en envoyant ses chroniques depuis le Sahara.
 
 ## Elle est devenue un chemin
 
-Aujourd'hui, dans les îles Canaries, deux itinéraires touristiques portent le nom de San Mao.
+Aujourd'hui, les Canaries comptent deux itinéraires touristiques nommés d'après San Mao.
 
-Celui sur l'île Gran Canaria, quartier Telde, passe devant la maison du 3, Calle Lope de Vega où elle et José ont vécu, devant une installation d'arbre à oliviers et une sculpture de banc en forme de livre. L'itinéraire sur l'île de La Palma a été inauguré en 2018, passant devant la tombe de José à Barlovento.[^17]
+L'itinéraire sur l'île de Gran Canaria passe par la maison où San Mao et José ont vécu, au n°3 de la rue Lope de Vega à Telde, puis par un olivier artificiel et un banc en forme de livre. L'itinéraire sur l'île de La Palma, ouvert en 2018, passe par la tombe de José à Barlovento.
 
-Devant la tombe de José se trouve un livre de visiteurs. En le feuilletant, plus de soixante pour cent sont en chinois simplifié, dix pour cent en chinois traditionnel, vingt et un pour cent en espagnol.[^17] La plupart de ceux qui viennent sont de jeunes femmes dans la vingtaine.
+Un registre de visiteurs est tenu à la tombe de José. Environ 60 % des messages sont écrits en chinois simplifié, 10 % en chinois traditionnel, et 20 % en espagnol. Les visiteurs sont généralement des jeunes femmes d'une vingtaine d'années.
 
-Une personne qui a passé sa vie à fuir est finalement devenue le chemin des autres. Elle a appris à toute une génération à imaginer le lointain. Et le lointain, finalement, a dressé des panneaux pour elle.
+Une femme qui a passé sa vie à fuir est finie par devenir le chemin de fuite de quelqu'un d'autre. Elle a appris à toute une génération à rêver du monde extérieur. Et finalement, c'est le monde extérieur qui a érigé des panneaux pour l'indiquer.
 
-## À lire également
+## Lectures complémentaires
 
-- [Bai Xianyong](/fr/people/pai-hsien-yung-literary-master) : celui qui a poussé la première œuvre de San Mao dans _Modern Literature_
-- [Lin Qingxia](/fr/people/brigitte-lin-legendary-actress) : _Le Poussier Rouge_ lui a valu le titre de reine, mais lui a aussi fait perdre une amie
-- [Mouvement de la chanson folk taïwanaise](/fr/music/taiwan-campus-folk-song-movement) : le terreau dans lequel _L'Arbre à oliviers_ est né
-- [Essai taïwanais](/fr/art/taiwanese-prose) : le territoire littéraire que San Mao occupe
-- [Xi Murong](/fr/people/ximurong) : une autre écrivaine contemporaine qui a écrit l'étranger dans le cœur des Taïwanais
+- [Bai Xianyong](/fr/people/pai-hsien-yung-literary-master) : celui qui a propulsé le premier texte de San Mao dans "Modern Literature"
+- [Lin Qingxia](/fr/people/brigitte-lin-legendary-actress) : "Rolling on the Passion" lui a valu la couronne, mais lui a aussi coûté une amie
+- [Mouvement folk taïwanais](/fr/music/taiwan-campus-folk-song-movement) : le terrain fertile de la naissance de "L'arbre d'olivier"
+- [Récits taïwanais](/fr/art/taiwanese-prose) : le domaine littéraire que San Mao a occupé
+- [Xi Murong](/fr/people/ximurong) : une autre femme écrivant de l'étranger dans le cœur des Taïwanais de son époque
 
-## Références
+## Bibliographie
 
-[^1]: [Wikipedia : San Mao (écrivain)](<https://zh.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6)>) — Biographie de base, chronologie des œuvres, évaluation littéraire
+[^1]: [Wikipédia : San Mao (auteure)](<https://zh.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6)>) — biographie, chronologie de création, évaluation littéraire
 
-[^2]: [Chop Suey Club](https://www.chopsueyclub.com/blogs/blog/san-mao) — Année de naissance de José 1951, écart d'âge de 8 ans, fiancé allemand
+[^2]: [Chop Suey Club](https://www.chopsueyclub.com/blogs/blog/san-mao) — année de naissance de José 1951, différence d'âge de 8 ans, fiancé allemand non marié
 
-[^3]: [Diario de Avisos](https://www.diariodeavisos.com/2012/01/cuando-la-tragedia-sepulto-el-arte/) — Lieu de noyade de José La Palma Barlovento, date, détails du repêchage
+[^3]: [Diario de Avisos](https://www.diariodeavisos.com/2012/01/cuando-la-tragedia-sepulto-el-arte/) — lieu de noyade de José à La Palma Barlovento, date, détails de récupération
 
-[^4]: [Wikipedia : Le Poussier Rouge (film)](<https://zh.wikipedia.org/wiki/%E6%BB%9A%E6%BB%9A%E7%B4%85%E5%A1%B5_(%E9%9B%BB%E5%BD%B1)>) — Liste complète des 8 prix de la 27e édition des Golden Horse Awards
+[^4]: [Wikipédia : Rolling on the Passion (film)](<https://zh.wikipedia.org/wiki/%E6%BB%9A%E6%BB%9A%E7%B4%85%E5%A1%B5_(%E9%9B%BB%E5%BD%B1)>) — liste complète des 8 prix Golden Horse 27e
 
-[^5]: [New York Times Overlooked](https://www.nytimes.com/2019/10/23/obituaries/sanmao-overlooked.html) — Ventes de 15 millions d'exemplaires, évaluation internationale
+[^5]: [New York Times Overlooked](https://www.nytimes.com/2019/10/23/obituaries/sanmao-overlooked.html) — 15 millions de ventes, évaluation internationale
 
-[^6]: [Paper Republic](https://paper-republic.org/pers/mike-fu/) — Édition anglaise Bloomsbury, traducteur Mike Fu, finaliste National Translation Award
+[^6]: [Paper Republic](https://paper-republic.org/pers/mike-fu/) — traduction anglaise de Bloomsbury, traducteur Mike Fu, nomination aux National Book Awards
 
-[^7]: [典藏 ARTouch](https://artouch.com/art-views/content-2727.html) — Adresse du studio de Gu Fusheng rue Tai'an, enseignement de la peinture pendant dix mois, recommandation à Bai Xianyong
+[^7]: [ARTouch Archive](https://artouch.com/art-views/content-2727.html) — adresse de l'atelier de Gu Fusheng sur la rue Taian, 10 mois d'étude de la peinture, recommandation à Bai Xianyong
 
-[^8]: [Tencent News](https://news.qq.com/rain/a/20240103A07USZ00) — Décès subit par crise cardiaque du fiancé allemand, cartes de visite de mariage, prise de somnifères
+[^8]: [Tencent News](https://news.qq.com/rain/a/20240103A07USZ00) — décès subit du fiancé allemand d'une crise cardiaque, cartes de mariage, prise de somnifères
 
-[^9]: [Fount Media](https://www.fountmedia.io/article/81860) — Paroles originales de _L'Arbre à oliviers_ « l'ânon », « grands yeux de la jeune fille espagnole », paroles modifiées par Yang Zujun, réaction de San Mao
+[^9]: [Fount Media](https://www.fountmedia.io/article/81860) — paroles originales de "L'arbre d'olivier" avec "l'âne de San Mao" et "les grands yeux d'une fille espagnole", réécriture par Yang Zujun, réaction originale de San Mao
 
-[^10]: [China Heritage](https://chinaheritage.net/journal/that-olive-tree-in-my-dreams/) — Interdiction de diffusion de _L'Arbre à oliviers_ par le Bureau de la radiodiffusion et de la télévision de Taïwan, analyse du contexte culturel
+[^10]: [China Heritage](https://chinaheritage.net/journal/that-olive-tree-in-my-dreams/) — interdiction de diffusion par l'agence de radio-télévision de Taïwan, analyse culturelle
 
-[^11]: [Tencent News](https://news.qq.com/rain/a/20210917A0GH4S00) — Souvenir de Chen Tianxin sur la mort de José, San Mao creusant la tombe de ses propres mains
+[^11]: [Tencent News](https://news.qq.com/rain/a/20210917A0GH4S00) — souvenirs de Chen Tianshin sur la mort de José, San Mao creusa la fosse à la main
 
-[^12]: [China Times](https://www.chinatimes.com/realtimenews/20210212001476-260405) — Histoire complète de la relation avec Wang Luobin, 121 jours, _Attente_
+[^12]: [China Times](https://www.chinatimes.com/realtimenews/20210212001476-260405) — relations entre Wang Luobin, 121 jours, chanson "L'attente"
 
-[^13]: [Master Insight](https://www.master-insight.com/%E6%BB%BE%E6%BB%BA%E7%B4%85%E5%A1%B530%E5%B9%B4) — Yan Hao se souvient des 40 nuits de discussions
+[^13]: [Insight Names](https://www.master-insight.com/%E6%BB%BE%E6%BB%BE%E7%B4%85%E5%A1%B530%E5%B9%B4) — Yan Hao se souvient des 40 nuits de conversations
 
-[^14]: [Yahoo News](https://tw.news.yahoo.com/%E9%87%91%E9%A6%AC60-%E6%9C%89%E7%A8%AE%E7%9F%A5%E5%B7%B1%E6%98%AF%E7%B5%95%E4%B8%96%E7%BE%8E%E4%BA%BA%E8%88%87%E7%B5%95%E4%B8%96%E6%89%8D%E5%A5%B3-%E6%9E%97%E9%9D%92%E9%9C%9E%E5%98%86%E6%B2%92%E6%9C%89%E4%B8%89%E6%AF%9B-%E6%88%91%E4%B8%8D%E6%9C%83%E5%BE%97%E9%87%91%E9%A6%AC-022550834.html) — Lin Qingxia « Sans San Mao, je n'aurais pas obtenu ce prix »
+[^14]: [Yahoo News](https://tw.news.yahoo.com/%E9%87%91%E9%A6%AC60-%E6%9C%89%E7%A8%AE%E7%9F%A5%E5%B7%B1%E6%98%AF%E7%B5%95%E4%B8%96%E7%BE%8E%E4%BA%BA%E8%88%87%E7%B5%95%E4%B8%96%E6%89%8D%E5%A5%B3-%E6%9E%97%E9%9D%92%E9%9C%9E%E5%98%86%E6%B2%92%E6%9C%89%E4%B8%89%E6%AF%9B-%E6%88%91%E4%B8%8D%E6%9C%83%E5%BE%97%E9%87%91%E9%A6%AC-022550834.html) — Lin Qingxia : "Sans San Mao, je n'aurais pas reçu ce prix"
 
-[^15]: [People Media](https://www.peoplemedia.tw/news/3f09f931-e786-4fd1-9ba8-542806656113) — Déroulement de la mort, quatre théories, point de vue du médecin
+[^15]: [Min Bao](https://www.peoplemedia.tw/news/3f09f931-e786-4fd1-9ba8-542806656113) — circonstances du décès, quatre versions, perspectives médicales
 
-[^16]: [United Literature / PCHome](https://news.pchome.com.tw/magazine/print/cl/unitas/4326/129381120056326015006.htm) — Positionnement populaire vs littérature pure, manque d'un maître canonisant
+[^16]: [United Literature / PCHome](https://news.pchome.com.tw/magazine/print/cl/unitas/4326/129381120056326015006.htm) — position populaire vs littérature pure, manque d'un maître canonicité
 
-[^17]: [The World of Chinese](https://www.theworldofchinese.com/2024/01/san-mao-in-gran-canaria/) — Itinéraire Ruta Sanmao, statistiques du livre de visiteurs de la tombe de José (61% simplifié / 10% traditionnel / 21% espagnol)
+[^17]: [The World of Chinese](https://www.theworldofchinese.com/2024/01/san-mao-in-gran-canaria/) — itinéraire Ruta Sanmao, statistiques du registre de visiteurs à la tombe (61 % chinois simplifié / 10 % chinois traditionnel / 21 % espagnol)
 
-[^18]: [Musée national de l'histoire taïwanaise](https://women.nmth.gov.tw/?p=19358) — _Les Histoires du Sahara_ publié en 1976 provoquant un engouement de lecture des deux côtés du détroit
+[^18]: [Musée national d'histoire de Taïwan](https://women.nmth.gov.tw/?p=19358) — publication de "L'histoire du Sahara" en 1976 déclenchant une vague de lecture à travers le détroit
 
-[^19]: [Musée national de la littérature taïwanaise](https://db.nmtl.gov.tw/site2/dictionary?id=Dictionary01133) — Évaluation « la personne littéraire la plus vendue et la plus influente de Taïwan »
+[^19]: [Musée national de la littérature taïwanaise](https://db.nmtl.gov.tw/site2/dictionary?id=Dictionary01133) — évaluation "l'auteur le plus vendu et le plus influent de Taïwan"
 
-[^20]: [Google Doodles](https://doodles.google/doodle/sanmaos-76th-birthday/) — Doodle commémoratif pour le 76e anniversaire de naissance posthume de San Mao en 2019, création du Prix littéraire San Mao en 1992, phénomène du prénom Echo
+[^20]: [Google Doodles](https://doodles.google/doodle/sanmaos-76th-birthday/) — Doodle commémoratif du 76e anniversaire de San Mao en 2019, création du prix littéraire San Mao en 1992, phénomène du prénom Echo
 
-[^21]: [IMDB](https://www.imdb.com/title/tt13199754/) — Documentaire espagnol _Sanmao: La novia del desierto_ (2020)
+[^21]: [IMDB](https://www.imdb.com/title/tt13199754/) — documentaire espagnol San Mao: La novia del desierto (2020)
 
-[^22]: [Setn News](https://www.setn.com/News.aspx?NewsID=1408845) — Décès de Sima Zhong le 2024-01-04, même mois et jour que San Mao, pacte de vie et de mort
+[^22]: [Sanli News](https://www.setn.com/News.aspx?NewsID=1408845) — décès de Si Ma Zhongyuan le 4 janvier 2024, même jour et mois que San Mao, pacte de mort
 
-[^23]: [University of Pittsburgh](https://d-scholarship.pitt.edu/31882/1/Ward_Sandi_San_Mao_Oasis_or_Mirage.pdf) — Article académique explorant la frontière entre réalisme et fiction de San Mao
+[^23]: [University of Pittsburgh](https://d-scholarship.pitt.edu/31882/1/Ward_Sandi_San_Mao_Oasis_or_Mirage.pdf) — thèse académique sur les frontières entre réalité et fiction chez San Mao
 
-[^24]: [Epoch Times](https://www.epochtimes.com/b5/1/8/22/n227609.htm) — _La Vérité sur San Mao_ de Ma Zhongxin publié en 1996, controverses et critiques
+[^24]: [Epoch Times](https://www.epochtimes.com/b5/1/8/22/n227609.htm) — publication de "La vérité sur San Mao" par Ma Zhongxin en 1996, controverses et critiques

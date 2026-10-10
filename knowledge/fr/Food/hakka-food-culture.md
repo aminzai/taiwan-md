@@ -1,14 +1,14 @@
 ---
-title: 'La culture gastronomique Hakka (客家)'
-description: "La riche et diversifiée culture alimentaire des Hakka, de l'arôme profond du *lei cha* à l'atmosphère forestière des *zong* au fleur de gingembre sauvage, illustre la sagesse de vie basée sur le travail acharné et l'utilisation locale des ressources par les familles Hakka."
+title: 'La culture culinaire chinoise de Taïwan (Hakka)'
+description: 'La riche et variée culture culinaire Hakka de Taïwan, des arômes subtilement parfumés du thé battu aux paysages bucoliques des pains aux rhizomas sauvages, témoignant de la sagesse de vie pratique et économe de la communauté Hakka.'
 date: 2026-03-19
 category: 'Food'
 tags:
   [
-    'Gastronomie',
+    'Cuisine',
     'Hakka',
-    'Lei Cha',
-    'Zong au gingembre sauvage',
+    'Thé battu',
+    'Pains aux rhizomas sauvages',
     'Cuisine traditionnelle',
     'Culture ethnique',
   ]
@@ -18,144 +18,148 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/meinong-hakka-leicha-tea-2023.webp'
-imageAlt: 'Expérience du *lei cha* Hakka au village culturel de Meinong'
+imageAlt: 'Expérience du thé battu Hakka au village folklorique de Meinong'
 imageCredit: 'WEI, WAN-CHEN / Wikimedia Commons'
 created: 2026-03-19
 readingTime: 12
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E7%BE%8E%E6%BF%83%E6%B0%91%E4%BF%97%E6%9D%91%E5%AE%A2%E5%AE%B6%E6%93%82%E8%8C%B6%E9%AB%94%E9%A9%9780.jpg'
 translatedFrom: 'Food/客家飲食文化.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:3b6b12dd06856da0'
-sourceBodyHash: 'sha256:1006124334926615'
-translatedAt: '2026-09-23T22:11:52+08:00'
+sourceCommitSha: '011533786'
+sourceContentHash: 'sha256:7e5ddfdb9a112f57'
+sourceBodyHash: 'sha256:b9108371c1de0fa0'
+translatedAt: '2026-10-10T12:07:02+08:00'
 ---
 
-# La culture gastronomique Hakka
+# La culture culinaire Hakka de Taïwan
 
-> **Aperçu en 30 secondes :** La culture alimentaire Hakka se caractérise par le « salé, gras et parfumé », portant l'histoire migratoire et la sagesse de vie des familles Hakka. De l'arôme du _lei cha_ dans les rues anciennes de Beipu à l'atmosphère forestière des _zong_ au gingembre sauvage de Neiwang, chaque plat raconte le lien profond entre les Hakka et leur terre.
+> **Résumé en 30 secondes :** La culture culinaire Hakka de Taïwan se caractérise par des saveurs « salées, grasses et parfumées », portant le témoignage de l’histoire migratoire et de la sagesse de vie des Hakka. Des arômes du thé battu dans les ruelles de Hsinchu Beipu aux pains aux rhizomas sauvages d’Nanhua, en passant par la richesse du « bao rou » à la menthe sèche et la simplicité des petits plats Hakka, chaque plat raconte une histoire émotionnelle profonde entre les Hakka et la terre.
 
-## Pourquoi est-ce important ?
+## Pourquoi c’est important
 
-La gastronomie Hakka occupe une place unique au sein de la culture alimentaire diversifiée de Taïwan. Au cours d'une longue période de migrations, les familles Hakka ont développé des techniques uniques de conservation des aliments et de cuisine, dont la sagesse influence encore aujourd'hui la culture culinaire de Taïwan. Le caractère « salé, parfumé et riche » de la cuisine Hakka reflète les besoins nutritionnels du peuple travailleur, tout en incarnant la philosophie de vie des Hakka : le travail acharné, l'économie et l'utilisation intégrale des ressources.
+La cuisine Hakka occupe une place unique dans la mosaïque culinaire de Taïwan. Au fil des longues migrations, les Hakka ont développé des techniques uniques de conservation et de cuisson des aliments, dont la sagesse influence encore aujourd’hui la culture culinaire de Taïwan. La « saveur salée et parfumée » de la cuisine Hakka reflète les besoins nutritionnels des travailleurs manuels, tout en incarnant la philosophie de vie économe et pratique des Hakka.
 
 ## Aperçu général
 
-En entrant dans les rues anciennes de Beipu à Hsinchu, on est toujours enveloppé par l'arôme du _lei cha_. C'est un parfum riche dégagé par le broyage répété de graines de sésame, d'arachides et de feuilles de thé dans un mortier en pierre, une odeur qui semble porter le poids du temps. Une grand-mère est assise devant une vieille table en bois, broyant avec son pilon dans le sens des aiguilles d'une montre ; ce geste a été perpétué par la communauté Hakka depuis plusieurs siècles.
+Entrez dans les ruelles historiques de Hsinchu Beipu, et l’air est toujours imprégné de l’arôme du thé battu. C’est la saveur riche et onctueuse obtenue en mélangeant des graines de sésame, des cacahuètes et des feuilles de thé dans un mortier en céramique. D’après certaines sources, le thé battu de Taïwan a été introduit par des immigrants Hakka venus du delta de la rivière Hépō en Chine continentale après la guerre de 1949, emportant leur mortier et leur batteur comme ustensiles de leur habitude alimentaire quotidienne[^1]. Les échoppes de thé battu de Beipu sont cependant beaucoup plus récentes : la première boutique spécialisée dans le thé battu a ouvert ses portes dans la rue du temple de Beipu en mars 1999[^2].
 
-La formation de la culture alimentaire Hakka est intrinsèquement liée à l'histoire migratoire des Hakka. Durant ces longs déplacements, les familles Hakka ont dû apprendre à survivre dans différents environnements et à exploiter au maximum des ingrédients limités. Cette sagesse de survie – « vivre de la montagne où l'on habite, et de l'eau où l'on vit » – a façonné le caractère fondamental de la cuisine Hakka : l'utilisation locale des ressources et l'absence de gaspillage.
+La formation de la culture culinaire Hakka est indissociable de l’histoire migratoire des Hakka. Au cours de leur longue vie nomade, les Hakka ont dû apprendre à survivre dans divers environnements, à tirer le maximum de leur matière première limitée. Cette sagesse de « vivre de la montagne et de l’eau » a façonné le caractère fondamental de la cuisine Hakka : « utiliser ce qui est disponible localement » et « ne rien laisser au gaspillage ».
 
-## Plats emblématiques
+## Plats classiques
 
-La gastronomie Hakka est réputée pour plusieurs plats représentatifs, chacun condensant un contexte historique spécifique et une sagesse locale.
+La cuisine Hakka est reconnue pour plusieurs plats emblématiques, chacun portant un contexte historique et une sagesse locale spécifiques.
 
-### Lei Cha (茶) : La transmission millénaire du thé triple
+### Thé battu : l’héritage millénaire du « bouillon de trois vies »
 
-Le _lei cha_, également appelé « soupe des trois vies » (_san sheng tang_), tire son nom de l'association « thé brut, gingembre brut, riz brut » datant de l'ère des Trois Royaumes [^1]. Dans la vie quotidienne des Hakka, le _lei cha_ est à la fois une boisson, un moyen de socialisation et un aliment de santé.
+Le thé battu, également appelé « bouillon de trois vies », est censé remonter à l’époque des trois royaumes, quand Zhang Fei, en marchant contre les Wuling, a vu ses soldats tommer malades. Un herboriste a proposé une recette secrète faite de thé cru, de gingembre cru et de riz cru, mixés et bouillis pour en faire un breuvage curatif, d’où vient le nom[^3]。 Dans la vie quotidienne des Hakka, le thé battu sert de collation lorsqu’on reçoit des invités importants, et est aussi consommé comme boisson santé[^4]。
 
-La préparation du _lei cha_ traditionnel nécessite un mortier (_leibao_) et un pilon spécifiques. Le mortier est généralement fabriqué en terre cuite avec des gravures fines sur les parois ; le pilon est souvent fait à partir du tronc d'un arbre comme le _barakku_ ou l'arbre à huile, caractérisé par sa dureté et son parfum naturel. Lors de la préparation, les ingrédients tels que le thé, le sésame et les arachides sont placés dans le mortier et broyés avec le pilon dans le sens des aiguilles d'une montre jusqu'à ce que tous les matériaux forment une poudre fine.
+La préparation traditionnelle du thé battu nécessite un mortier et un batteur spéciaux. Le mortier est généralement en terre cuite, avec des rainures fines à l’intérieur ; le batteur est souvent fabriqué à partir de troncs de bois de arbre à pain ou de camellia, solide et parfumé naturellement. Pendant la préparation, on place les feuilles de thé, les graines de sésame, les cacahuètes et autres ingrédients dans le mortier, puis on les brosse en tournant dans le sens des aiguilles d’une montre jusqu’à ce que tous les éléments forment une poudre fine et homogène.
 
-La culture du _lei cha_ est particulièrement développée dans la région de Hsinchu, avec des spécificités à Hukou, Zhudong et Beipu. Le _lei cha_ de la rue ancienne de Beipu est une expérience incontournable pour les touristes ; de nombreux établissements ne proposent pas seulement le _lei cha_ prêt à boire, mais permettent également aux visiteurs d'essayer eux-mêmes le processus de broyage. Une enquête menée par le Comité Hakka en 2022 a montré que le _lei cha_ est devenu un élément central de l'expérience touristique culturelle du comté de Hsinchu.
+La culture du thé battu est particulièrement développée dans la région de Hsinchu, allant de Huchi à Zhubei, jusqu’à Beipu, chaque ville possédant ses propres caractéristiques. Le thé battu de Beipu est devenu une expérience incontournable pour les touristes, de nombreux échoppes non seulement vendent du thé battu prêt à boire, mais ouvrent aussi leurs portes pour permettre aux visiteurs de participer activement au processus de brossage[^5]。 Le thé battu de Beipu a été commercialisé grâce à la promotion de l’industrie culturelle, la première échoppe connaissant des débuts difficiles, mais l’ensemble de la rue comptant aujourd’hui plus de soixante échoppes[^4]。
 
-Avec les changements de l'époque, le _lei cha_ a également évolué. Après environ 2015, la rue ancienne de Beipu a vu apparaître l'innovation du « _lei cha glacé_ », transformant cette boisson chaude traditionnelle en une boisson rafraîchissante pour l'été, proposant même des versions à emporter, faisant passer cette vieille boisson de la table du thé à l'ère des boissons préparées au shaker.
+Avec le temps, le thé battu a connu une version glacée. En 2013, un enregistrement de terrain sur la cuisine Hakka à Hsinchu notait que les échoppes de la rue historique d’Nanhua vendaient déjà des smoothies de thé battu[^5]。
 
-**Valeur nutritionnelle et contre-indications alimentaires**
-Le _lei cha_ est riche en protéines, en vitamine E et en acides gras insaturés, ce qui lui confère une excellente valeur nutritive. Cependant, comme son ingrédient principal est une noix, sa teneur calorique est relativement élevée ; les diabétiques et les personnes cherchant à perdre du poids doivent en consommer avec modération. Le _lei cha_ traditionnel est servi chaud et sans sucre ajouté, préservant le goût naturel des ingrédients.
+**Valeurs nutritionnelles et interdits alimentaires**
+Le thé battu est riche en protéines, en vitamine E et en acides gras insaturés, offrant ainsi une excellente valeur nutritionnelle. Cependant, en raison de sa composition principale en noix, ses calories sont relativement élevées, nécessitant une consommation modérée chez les personnes diabétiques ou souhaitant perdre du poids. Le thé battu apporté par les immigrants de Hépō était initialement salé, mais lors de sa promotion à Beipu, on a constaté que le goût salé n’était pas facilement accepté par les touristes, d’où l’adaptation en version sucrée que l’on trouve aujourd’hui[^1]。
 
-### Zong au gingembre sauvage : Un souvenir parfumé de la forêt
+### Pains aux rhizomas sauvages : souvenirs parfumés de la forêt
 
-Dans la rue ancienne de Neiwang, dans le comté de Hsinchu, il existe un type de _zong_ (boudin/dumpling) particulièrement mémorable : le _zong_ au gingembre sauvage. Ce goût forestier incarne la sagesse culinaire des Hakka vivant en harmonie avec leur environnement naturel.
+Dans la vieille rue d’Nanhua, dans le district de Xiangshan à Hsinchu, il existe un type de pains particuliers qui restent gravés dans la mémoire — les pains aux rhizomas sauvages. Ces saveurs venues de la forêt incarnent la sagesse culinaire des Hakka vivant en harmonie avec la nature.
 
-Le gingembre sauvage (_yějiānghuā_, originaire d'Inde et largement naturalisé à Taïwan) embaume toute la région chaque été lorsqu'il fleurit. Les Hakka avisés ont découvert que les rhizomes de gingembre sauvage, une fois séchés et moulus en poudre, possédaient non seulement un parfum unique, mais aussi de bonnes propriétés conservatrices. Ils préparaient alors une farce avec cette poudre de gingembre sauvage, du poivre des montagnes, des champignons sauvages, des radis salés Hakka, de la viande de porc noir et du riz gluant, enveloppant le tout dans les grandes feuilles de gingembre sauvage pour faire un _zong_. Après avoir été cuit à la vapeur, ce mets forestier est prêt.
+Les rhizomas sauvages (originaires de l’Inde, naturalisés à Taïwan) fleurissent chaque année de juillet à octobre[^7]。 On raconte que, autrefois, les transports vers l’intérieur des montagnes d’Nanhua étaient difficiles, et les habitants utilisaient les rhizomas sauvages poussant le long de la rivière Yielu comme épices aromatiques. Ensuite, ils ont séché les racines, les ont moulues en poudre, et les ont mêlées à du poivre de montagne, des champignons sauvages, de la viande de porc noir et des carottes Hakka marinées, avant d’être cuites avec du riz gluant. On enveloppe ensuite le tout dans des feuilles de rhizomes sauvages et on le cuit au vapeur, formant les pains aux rhizomas sauvages[^6]。 Peng Ruiyun, qui a popularisé les pains aux rhizomas sauvages d’Nanhua, a remplacé le monosodium glutamate par de la poudre de racine de rhizome : les racines doivent d’abord être salées avec du sel pendant cinq à six semaines pour éliminer l’amertume, puis séchées et moulues[^7]。
 
-Le processus de fabrication du _zong_ au gingembre sauvage illustre l'éthique écologique des Hakka. Les feuilles de gingembre sauvage sont naturellement non toxiques et servent d'emballage écologique tout en ajoutant un parfum naturel au _zong_. Pendant la cuisson à la vapeur, le parfum caractéristique du gingembre sauvage pénètre le riz gluant, créant une complexité aromatique unique.
+Le processus de fabrication des pains aux rhizomas sauvages illustre la philosophie écologique des Hakka. Les feuilles de rhizomes sauvages sont naturellement non toxiques, et leur utilisation comme emballage non seulement protège l’environnement, mais ajoute également une fragrance naturelle aux pains. Pendant la cuisson, l’arôme distinctive des rhizomes s’infiltre dans le riz gluant, créant une couche de saveur unique.
 
-La valeur de ce mets réside dans son caractère saisonnier et régional. La période de récolte du gingembre sauvage est limitée, et il se trouve principalement dans les régions montagneuses de moyenne et basse altitude de Taïwan, faisant du _zong_ au gingembre sauvage une gourmandise rare que l'on ne peut déguster qu'à certaines périodes et en certains lieux.
+Les rhizomes sauvages ne fleurissent qu’en été et automne, mais les pains aux rhizomas sauvages ne sont plus limités par la saison. En 2009, lors d’un reportage de TVBS, plus de dix échoppes vendaient des pains aux rhizomas sauvages dans la vieille rue d’Nanhua, et même un simple étang devant la maison de Peng Ruiyun pouvait en vendre plus de mille par jour. Pour satisfaire la demande en feuilles d’emballage, les rhizomes sauvages, autrefois ne vus que pendant la saison de floraison, sont désormais recherchés toute l’année[^7]。
 
-### Petits plats sautés Hakka (_Xiaochao_) : L'expression ultime de la sagesse populaire
+### Petits plats Hakka : l’incarnation de la sagesse populaire
 
-Les petits plats sautés Hakka sont les plus représentatifs des plats familiaux dans la cuisine Hakka, et ils incarnent le mieux l'idéal du « travail acharné et économie » des familles Hakka. L'essence de ce plat est : « tout peut être sauté, rien ne doit être gaspillé ».
+Les petits plats Hakka font partie des « quatre fritures et quatre sautés » des Hakka. À l’origine, les « quatre fritures et quaudres sautés » étaient liés aux cérémonies saisonnières, et les anciens Hakka ne les consommaient pas quotidiennement, mais seulement pendant les fêtes et les jours fériés[^5]。
 
-Les petits plats sautés traditionnels utilisent principalement des filaments de porc, du tofu, du céleri, de l'oignon vert et des germes de soja, mais en réalité, il n'existe pas de recette fixe. Sur la table d'une famille Hakka, les légumes restants, de petites quantités de viande, et divers produits salés peuvent tous devenir des ingrédients pour le _xiaochao_. Cette méthode de cuisson flexible illustre la créativité et la sagesse des Hakka face à des ressources limitées.
+Leur origine est souvent liée aux cérémonies religieuses. Les trois animaux sacrifiés lors des cérémonies des Hakka comprennent souvent des poulets castrés, de la viande de porc et des sépia séchés. Après le sacrifice, les femmes de ménage coupaient la viande de porc en filaments, ramollissaient les sépia et les coupaient également en filaments, puis les mélangeaient rapidement avec des oignons verts et de la sauce soja pour former un plat salé et parfumé[^8]。 Ainsi, le plat principal est le « bao rou » et les sépia séchés, tandis que les haricots, le céleri, les oignons et les piments sont des ingrédients secondaires. Dans le nord de Taïwan, les Hakka appellent ce plat « chao rou » ou « xiao chao », souvent accompagné de céleri. Dans le sud, on l’appelle « chao xieyu », préférant les oignons[^8]。
 
-### La culture de la conservation : Le magicien du temps
+### Culture de conservation : la magie du temps
 
-La technique de conservation des aliments des Hakka est remarquable. Les produits salés comme les légumes fermentés (_fucai_), les radis séchés, le porc salé et les radis en saumure ne font pas que prolonger la durée de conservation des aliments ; ils créent également des saveurs uniques.
+Les techniques de conservation des Hakka sont impressionnantes. Les légumes de printemps, les choux de Chine séchés, la viande de porc salée, les carottes marinées, etc., non seulement prolongent la durée de conservation des aliments, mais créent également des saveurs uniques.
 
-Le _fucai_ est un produit obtenu par fermentation des choux chinois (kale) et possède une odeur aigre distinctive, indispensable dans de nombreux plats Hakka [^5]. Les radis séchés (_meigan cai_) sont le résultat du séchage et de la salaison des choux chinois, offrant un goût riche et savoureux, formant un duo classique avec les viandes en sauce. Le porc salé est une viande de porc conservée par salage et séchage, qui peut être stockée longtemps et constitue une source importante de protéines pour les Hakka.
+**Les légumes de printemps** sont obtenus par fermentation après salage des choux de Chine, avec une saveur acide et salée distinctive, et constituent un ingrédient essentiel de nombreuses cuisines Hakka. À partir d’une même plante de chou de Chine, selon le degré de séchage et la quantité de sel utilisée, on peut obtenir des choux salés, des choux fermentés (légumes de printemps) ou des choux séchés (choux de Chine séchés)[^5]。 **Les choux de Chine séchés** sont le résultat du séchage et de la conservation des choux de Chine, avec une saveur salée et parfumée, souvent associés au « bao rou ». **La viande de porc salée** est obtenue par salage et séchage de la viande de porc, pouvant être conservée longtemps, et constitue une source importante de protéines pour les Hakka.
 
-Le développement de ces techniques de conservation est étroitement lié à l'environnement de vie des Hakka. Dans une société agricole, savoir conserver la nourriture sans équipement de réfrigération était une compétence vitale. Les techniques de conservation développées par les Hakka ont non seulement résolu le problème de la conservation, mais ont également créé une riche variation de saveurs.
+Le développement de ces techniques de conservation est étroitement lié à l’environnement de vie des Hakka. Dans une société agricole, savoir conserver les aliments sans réfrigération est une compétence vitale. Les techniques de conservation développées par les Hakka ont non seulement résolu le problème de conservation, mais ont également créé une variété de saveurs riches.
 
-## Philosophie alimentaire
+## Philosophie culinaire
 
-La philosophie alimentaire Hakka n'est pas apparue par hasard ; elle est un produit direct du mode de vie migratoire et de l'environnement de travail.
+La philosophie culinaire des Hakka n’est pas inventée, mais est le fruit direct de leur vie migratoire et de leur environnement de travail.
 
-### Salé, gras, parfumé : le code culinaire du travailleur
+### Salé, gras et parfumé : le code secret de la cuisine des travailleurs
 
-La cuisine Hakka est réputée pour son goût « salé, gras et parfumé », une saveur directement issue de l'environnement agricole des Hakka. Les familles Hakka exerçant principalement des travaux agricoles nécessitent beaucoup d'énergie physique ; par conséquent, leur alimentation tend vers les goûts prononcés et les aliments riches en calories, afin de compenser la perte importante de sel et d'énergie lors du travail.
+La cuisine Hakka est connue pour ses saveurs « salées, grasses et parfumées », qui proviennent directement de l’environnement agricole des Hakka. Les Hakka sont principalement engagés dans le travail agricole, nécessitant une grande dépense d’énergie physique, c’est pourquoi leur alimentation tend à être forte en saveur, riche en calories, pour compenser les pertes importantes de sel et de calories pendant le travail.
 
-Le « salé » sert à remplacer le sel perdu pendant le travail ; le « gras » fournit des calories élevées ; le « parfumé » stimule l'appétit grâce à divers épices et assaisonnements, permettant une prise suffisante de nutriments. Cette caractéristique alimentaire reflète l'attitude pragmatique des Hakka et leur compréhension précise des besoins corporels.
+Le « sel » compense la perte de sel pendant le travail ; le « gras » fournit des calories élevées ; le « parfum » stimule l’appétit grâce à diverses épices et condiments, permettant ainsi d’assimiler suffisamment de nutriments. Ces caractéristiques culinaires reflètent la attitude pratique des Hakka et leur compréhension fine des besoins du corps.
 
-### Utilisation locale : vivre en harmonie avec la nature
+### Utilisation des ingrédients locaux : vivre en harmonie avec la nature
 
-L'histoire migratoire des Hakka a forgé leur grande capacité d'adaptation. Qu'ils vivent dans les montagnes, les plaines ou près de la côte, les Hakka parviennent à utiliser pleinement les ressources alimentaires locales pour développer des plats caractéristiques de leur région.
+L’histoire migratoire des Hakka a forgé leur capacité d’adaptation. Qu’ils s’établissent dans les montagnes, les plaines ou les zones côtières, les Hakka savent pleinement exploiter les ressources alimentaires locales, développant ainsi des plats aux caractéristiques régionales.
 
-Dans les régions montagneuses, les Hakka récoltent des légumes sauvages et des champignons pour préparer des plats de monte ; dans les plaines, ils exploitent abondamment les cultures agricoles pour développer diverses cultures basées sur le riz ; en zone côtière, les Hakka intègrent également des éléments de fruits de mer pour créer des saveurs différentes.
+Dans les zones montagneuses, les Hakka récoltent des plantes sauvages, des champignons, et préparent des plats de montagne ; dans les plaines, ils exploitent pleinement les récoltes agricoles, développant des cultures de riz ; dans les zones côtières, les Hakka intègrent également des ingrédients de fruits de mer, créant des saveurs différentes.
 
-### Économie et non-gaspillage : une éthique alimentaire sans gaspillage
+### Économie et respect des ressources : l’éthique culinaire anti-gaspillage
 
-Le caractère économe des Hakka influence profondément leur culture alimentaire. Sur la table d'une famille Hakka, il y a rarement du gaspillage. Les restes sont assaisonnés à nouveau pour devenir un autre plat ; les os sont bouillis en bouillon ; les feuilles de légumes sont utilisées pour faire des marinades. Cette idée d'« utilisation intégrale » est à la fois un choix pragmatique face aux contraintes économiques et un respect pour la nourriture et les ressources naturelles.
+La générosité des Hakka influence profondément leur culture alimentaire. À leur table, il n’y a guère de gaspillage. Les restes peuvent être réajustés pour former un nouveau plat, les os peuvent être utilisés pour préparer un bouillon, et les feuilles de légumes peuvent être transformées en choucroute. Cette philosophie de « tout utiliser » est à la fois un choix pragmatique sous contrainte économique et un respect envers les aliments et les ressources naturelles.
 
-## Transmission moderne et innovation
+## Héritage et innovation modernes
 
-La culture alimentaire Hakka fait face, au XXIe siècle, au double défi de la rupture de la transmission et de la transformation du marché.
+La culture culinaire Hakka de Taïwan fait face à la fois à la fracture de transmission et aux transformations du marché au XXIe siècle.
 
 ### Dialogue entre tradition et modernité
 
-Dans la société moderne, la culture alimentaire Hakka est confrontée aux défis de la transmission et de l'innovation. D'une part, les jeunes générations connaissent de moins en moins la cuisine traditionnelle Hakka ; d'autre part, la cuisine Hakka cherche une nouvelle position sur le marché de la restauration moderne.
+Dans la société moderne, la culture culinaire Hakka est confrontée à des défis de transmission et d’innovation. D’un côté, la compréhension des jeunes générations sur la cuisine Hakka tradition diminue progressivement ; de l’autre, la cuisine Hakka cherche également de nouvelles positions dans le marché alimentaire moderne.
 
-De nombreux restaurants Hakka commencent à essayer de moderniser la cuisine traditionnelle Hakka : ils réduisent la teneur en huile et en sel, améliorent la présentation visuelle, ou intègrent des éléments d'autres cuisines. Bien que ces changements suscitent certains débats, ils ouvrent de nouvelles voies pour la diffusion de la culture alimentaire Hakka.
+De nombreux restaurants Hakka commencent à expérimenter des adaptations modernes de la cuisine traditionnelle Hakka, réduisant la teneur en huile et sel, améliorant la présentation visuelle, et parfois même intégrant des éléments de autres cuisines. Bien que ces changements suscitent certaines controverses, ils ouvrent également de nouvelles voies pour la diffusion de la culture culinaire Hakka.
 
-### Le revers de la médaille du tourisme culturel
+### L’industrie touristique : une double lame
 
-La marchandisation de la culture alimentaire Hakka apporte des opportunités, mais aussi des défis. Des expériences comme le _lei cha_ de Beipu ou les _zong_ au gingembre sauvage de Neiwang sont devenues célèbres attractions touristiques. Ce développement augmente la notoriété de la culture Hakka d'une part, mais peut également conduire à une surcommercialisation, faisant perdre son contenu culturel originel d'autre part.
+La tourisation de la culture culinaire Hakka apporte des opportunités, mais aussi des défis. Des spécialités comme le thé battu de Beipu et les pains aux rhizomas sauvages d’Nanhua sont devenus des expériences touristiques célèbres. D’un côté, cela augmente la notoriété de la culture Hakka ; de l’autre, cela pourrait mener à une surcommercialisation, perdant le sens culturel originel. En 2013, un chercheur menant des enquêtes de terrain à Nanhua a observé que la plupart des commerçants de la vieille rue étaient orientés vers le profit économique, et ce n’était pas nécessairement la culture Hakka qui était transmise dans les restaurants[^5]。
 
-Trouver un équilibre entre le développement commercial et la préservation culturelle est un défi majeur que doit relever l'évolution moderne de la culture alimentaire Hakka.
+Trouver un équilibre entre le développement commercial et la préservation culturelle est une question cruciale à laquelle la culture culinaire Hakka moderne doit faire face.
 
-## Signification et valeur culturelles
+## Signification culturelle et valeur
 
-La valeur de la culture alimentaire Hakka dépasse largement la simple gastronomie. Elle est le support de la mémoire historique des Hakka, le symbole de leur identité culturelle et le fruit de leur sagesse traditionnelle. À l'ère de la mondialisation, ces cultures alimentaires uniques apparaissent d'autant plus précieuses.
+La valeur de la culture culinaire Hakka va bien au-delà de la simple gastronomie. Elle est le porteur de la mémoire historique des Hakka, le symbole de leur identité culturelle, et le fruit de leur sagesse traditionnelle. À l’ère de la mondialisation, ces cultures culinaires uniques sont d’autant plus précieuses.
 
-Le caractère « salé, parfumé et riche » de la cuisine Hakka reflète le tempérament résilient des Hakka ; la culture de la conservation témoigne de leur sagesse de vie ; la culture du _lei cha_ illustre leurs traditions sociales. Ces cultures alimentaires enrichissent non seulement le paysage gastronomique de Taïwan, mais ajoutent également une couleur importante à la diversité culturelle de Taïwan.
+La « saveur salée et parfumée » de la cuisine Hakka reflète le caractère résilient des Hakka ; la culture de conservation incarne la sagesse de vie des Hakka ; la culture du thé battu démontre les traditions sociales des Hakka. Ces cultures culinaires ont non seulement enrichi la carte gastronomique de Taïwan, mais ont également ajouté une couleur importante à la diversité culturelle de Taïwan.
 
-En dégustant les mets Hakka, nous ne profitons pas seulement d'une satisfaction gustative, mais nous ressentons aussi l'essence culturelle et la sagesse de vie d'un groupe ethnique. C'est là que réside la valeur la plus précieuse de la culture alimentaire Hakka.
+En dégustant les plats Hakka, nous non seulement satisfaisons notre palais, mais ressentons aussi la profondeur culturelle d’un groupe ethnique et la sagesse de leur vie. C’est précisément là que réside la plus grande valeur de la culture culinaire Hakka.
 
 ---
 
-## Lectures complémentaires
+## Lecture complémentaire
 
-- [Aliments fermentés et culture de conservation à Taïwan](/fr/food/taiwan-fermented-and-pickled-foods) : La science et la culture des aliments conservés à Taïwan
-- [Culture du thé](/fr/food/golden-age-echoes-taiwan-tea-culture) : Le contexte de développement de la culture du thé à Taïwan
-- [Petits plats de Taïwan](/fr/food/taiwanese-street-food) : La culture diversifiée des petits plats de Taïwan
+- [Les aliments fermentés et la culture de conservation de Taïwan](/fr/food/taiwan-fermented-and-pickled-foods) : La science et la culture des aliments conservés de Taïwan
+- [La culture du thé](/fr/food/golden-age-echoes-taiwan-tea-culture) : Le contexte historique de la culture du thé de Taïwan
+- [Les collations de Taïwan](/fr/food/taiwanese-street-food) : La diversité culturelle des collations de Taïwan
 
-## Sources d'images
+## Sources d’images
 
-- Héro : Expérience du _lei cha_ Hakka au village culturel de Meinong, photo WEI, WAN-CHEN, https://commons.wikimedia.org/wiki/File:%E7%BE%8E%E6%BF%83%E6%B0%91%E4%BF%97%E6%9D%91%E5%AE%A2%E5%AE%B6%E6%93%82%E8%8C%B6%E9%AB%94%E9%A9%9780.jpg, CC BY-SA 4.0.
+- Hero : Expérience du thé battu Hakka au village folklorique de Meinong, photo par WEI, WAN-CHEN, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E7%BE%8E%E6%BF%83%E6%B0%91%E4%BF%97%E6%9D%91%E5%AE%A2%E5%AE%B6%E6%93%82%E8%8C%B6%E9%AB%94%E9%A9%9780.jpg), CC BY-SA 4.0。
 
 ## Références
 
-[^1]: Base de données de la mémoire culturelle nationale, « Dossier sur la culture du _lei cha_ », https://tcmb.culture.tw/zh-tw/detail?id=334448
+[^1]: [Exploration préliminaire de l’histoire et de la culture du thé battu Hakka de Taïwan : à partir de l’exemple de la rue historique de Beipu à Hsinchu (Liu Yangyi, Bulletin électronique de l’Institut des Hakka de l’Université nationale de Chine, numéro 251, 2016-04-15)](https://hakka.ncu.edu.tw/Hakka_ePaper/paper/paper251_v2/251%2814%29.html) — Le thé battu de Taïwan a été introduit par des immigrants Hakka venus du delta de la rivière Hépō après la guerre de 1949, autrefois une habitude alimentaire familiale, puis adapté en boisson santé sucrée lors de la promotion de « une caractéristique par village » à Beipu, car le goût salé n’était pas apprécié par le grand public.
 
-[^2]: Wikipédia, article sur le _zong_ au gingembre sauvage, https://zh.wikipedia.org/zh-tw/%E9%87%8E%E8%96%91%E8%8A%B1%E7%B2%BD
+[^2]: [Exploration des éléments clés de l’industrie culturelle : à partir de l’exemple du thé battu de Beipu (Xu Zhixuan, Université nationale de Chiao Tung, 2019, résumé de thèse de master de l’Office des Hakka)](https://www.hakka.gov.tw/chhakka/app/data/view?module=thesis&id=80&serno=42331) — En mars 1999, la première boutique spécialisée dans le thé battu a ouvert dans la rue du temple de Beipu, transformant les aliments cachés dans les familles en industrie culturelle.
 
-[^3]: Comité Hakka, « Étude sur la culture alimentaire Hakka » (2023), https://www.hakka.gov.tw/File/Attach/38788/File_72807.pdf
+[^3]: [Saveurs de Beipu HAKKA (Carte culinaire de Beipu, Centre numérique du ministère de l’Éducation)](https://itaiwan.moe.gov.tw/upfd/2017race/RC-170822-002176/39135223122127122484hakka21619.html) — Le thé battu est aussi appelé « bouillon de trois vies », légende selon laquelle, pendant les trois royaumes, Zhang Fei a utilisé un mélange de thé cru, de gingembre cru et de riz cru pour éliminer une épidémie.
 
-[^4]: Bureau de la culture du comté de Hsinchu, « Qu'est-ce que ça mange ? – Exposition thématique de la culture alimentaire Hakka dans la région de Hsinchu », https://www.hchcc.gov.tw/
+[^4]: [Thé battu (Carte culinaire de Beipu, Centre numérique du ministère de l’Éducation)](https://itaiwan.moe.gov.tw/upfd/2017race/RC-170822-002176/33590.html) — Le thé battu est une collation des Hakka pour recevoir des invités, préparé en le battant dans un mortier en céramique, puis en le versant dans l’eau bouillante et en y ajoutant des graines de riz. Le thé battu de Beipu a commencé à être commercialisé grâce à la promotion de l’industrie culturelle, passant de la première boutique à plus de soixante échoppes.
 
-[^5]: Ministère de l'Agriculture, « Développement de l'industrie des aliments conservés à Taïwan » (2025), https://www.moa.gov.tw/
+[^5]: [Mémoire alimentaire et consommation culturelle des Hakka de Taïwan : à partir de la perspective des ingrédients riz, porc et légumes (Lin Shuxing, Université normale de Kaohsiung, 2013, rapport final du projet de développement des institutions académiques Hakka soutenu par l’Office des Hakka)](https://www.hakka.gov.tw/File/Attach/38788/File_72807.pdf) — Les « quatre fritures et quatre sautés » étaient à l’origine liés aux cérémonies saisonnières, les choux de Chine pouvaient devenir des choux salés, le processus de fermentation des choux de Chine et des choux de Chine séchés, ainsi que les enregistrements de terrain de 2013 sur la vente de pains aux rhizomas sauvages et de smoothies de thé battu dans la rue historique d’Nanhua.
 
-[^6]: Comité Hakka, « Plan de promotion des zones clés de la culture Hakka », https://www.hakka.gov.tw/Content/Content?NodeID=63&PageID=38317
+[^6]: [Pains aux rhizomas sauvages (Wikipedia)](https://zh.wikipedia.org/zh-tw/%E9%87%8E%E8%96%91%E8%8A%B1%E7%B2%BD) — Les habitants d’Nanhua utilisaient les rhizomas sauvages du ruisseau Yielu comme épices, les racines séchées et moulues en poudre, mélangées à du poivre de montagne, des champignons sauvages, de la viande de porc noir, des carottes Hakka marinées, du riz gluant, puis enveloppées dans des feuilles de rhizomes sauvages et cuites au four.
+
+[^7]: [Pas à pas — Les pains aux rhizomas sauvages d’Nanhua, la rue historique remplie d’opportunités commerciales (TVBS News, 2009-05-24)](https://news.tvbs.com.tw/local/131493) — Peng Ruiyun a utilisé les racines de rhizomes sauvages salées, séchées et moulues pour remplacer le monosodium glutamate, stimulant ainsi plus de dix échoppes de pains aux rhizomas sauvages dans la rue historique d’Nanhua. Les rhizomes sauvages fleurissent de juillet à octobre, mais leurs feuilles sont demandées toute l’année.
+
+[^8]: [Petits plats Hakka (Jiao Tong, Magazine de cette semaine, 2009-05-07)](https://www.businesstoday.com.tw/article/category/80732/post/200905070027/) — Les petits plats Hakka proviennent des restes des cérémonies sacrificielles (poulet, porc et sépia séché), dont le plat principal est le « bao rou » et les sépia séchés, les Hakka du nord les appellent « chao rou », les Hakka du sud les appellent « chao xieyu ».
 
 ---
 
-**Équipe éditoriale Taiwan.md** | Dernière mise à jour : 2026-03-19
+**Équipe éditoriale de Taiwan.md** | Dernière mise à jour : 2026-03-19
