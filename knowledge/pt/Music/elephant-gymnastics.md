@@ -27,9 +27,10 @@ imageCredit: 'TurquoiseGoose / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Elephant_Gym_Portland_2024.jpg'
 translatedFrom: 'Music/大象體操.md'
-sourceCommitSha: '8547b2665'
-sourceContentHash: 'sha256:71cdc104f7f3b8f4'
-translatedAt: '2026-08-06T17:53:08.770637+00:00'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:f9e17206eee03c4e'
+sourceBodyHash: 'sha256:b2179659aae39566'
+translatedAt: '2026-10-10T04:48:59.790108+00:00'
 ---
 
 # Elephant Gym: o trio de Taiwan que faz você ouvir a canção mesmo sem ninguém cantando
@@ -237,13 +238,13 @@ No dia em que anunciaram o hiato prolongado, eles não o enquadraram como uma de
 
 O documentário intitula-se _Mais Real que o Sonho_ (《比夢境更真實》). O caminho percorrido pelos três vai um pouco além do que imaginavam quando, na faculdade, deitavam junto à janela do apartamento. Um trio de Taiwan que ninguém cantava, só foi visto por toda a ilha quando anunciou o fim. Mas aquelas linhas de baixo, aqueles compassos assimétricos, aqueles registros de shows no Camp Flog Gnaw e no Fuji Rock acumulados ao longo destes 13 anos, continuarão a falar por eles mesmo quando não estiverem mais presentes.
 
-## Leitura adicional
+## Leituras complementares
 
-- [Sorry Youth](/pt/music/sorry-youth-band) — Também originários do sul, uma banda contemporânea que se define através da linguagem, mas eles escolheram o taiwanês, escolheram os vocais
-- [Fire EX.](/pt/music/fire-ex) — Irmãos de Kaohsiung, a outra banda de Kaohsiung que se apresentou no Fuji Rock 2022
-- [Sunset Rollercoaster](/pt/music/sunset-rollercoaster) — Representantes da geração indie de Taiwan no exterior, seguem city pop com textura suave, cantam em inglês, formando dois caminhos contrastantes com a vertente instrumental técnica do Elephant Gym
-- [História do desenvolvimento do rock em Taiwan](/pt/music/taiwan-rock-from-underground-to-mainstream) — O contexto de desenvolvimento desde Wu Bai, Mayday até a geração pós-Sunset Rollercoaster
-- [Música independente de Taiwan](/pt/music/indie-music-scene) — A cena indie e o ecossistema de selos de Taiwan
+- [拍謝少年](/pt/music/sorry-youth-band) — banda contemporânea nascida no sul que, assim como o Elephant Gym, se posiciona por meio da língua, mas optou pelo taiduês e por vocais
+- [滅火器樂團](/pt/music/fire-ex) — banda irmã de Kaohsiung, outra banda local que subiu ao mesmo palco no Fuji Rock de 2022
+- [落日飛車](/pt/music/sunset-rollercoaster) — representante da indie taiwanesa da mesma geração que busca internacionalização, com sonoridade city pop mais relaxada e vocais em inglês, formando, ao lado da abordagem técnica instrumental do Elephant Gym, dois caminhos opostos
+- [台灣搖滾樂發展史](/pt/music/taiwan-rock-from-underground-to-mainstream) — contexto histórico do desenvolvimento do rock taiwanês, desde Wu Bai e Mayday até a geração pós-Sunset Rollercoaster
+- [台灣獨立音樂](/pt/music/indie-music-scene) — cenário indie taiwanês e ecologia de selos
 
 ## Fontes das imagens
 

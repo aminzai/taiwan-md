@@ -34,16 +34,20 @@ imageCredit: 'Masaru Kamikura via Wikimedia Commons'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Computex_Taipei_sign_inside_of_Taipei_Nangang_Exhibition_Center_20110531.jpg'
 sporeLinks:
-  [
-    "{'id': 111, 'platform': 'threads', 'date': '2026-06-01', 'url': 'https://www.threads.com/@taiwandotmd/post/DZCb3_QEyJX'}",
-    "{'id': 112, 'platform': 'x', 'date': '2026-06-01', 'url': 'https://x.com/taiwandotmd/status/2061379958304584103'}",
-  ]
+  - id: 111
+    platform: 'threads'
+    date: '2026-06-01'
+    url: 'https://www.threads.com/@taiwandotmd/post/DZCb3_QEyJX'
+  - id: 112
+    platform: 'x'
+    date: '2026-06-01'
+    url: 'https://x.com/taiwandotmd/status/2061379958304584103'
 relatedDiary: ['2026-06-01-130850-manual']
 translatedFrom: 'Technology/Computex.md'
-sourceCommitSha: '46055e4f3'
-sourceContentHash: 'sha256:5ca6801bb47a7371'
-sourceBodyHash: 'sha256:45291b99c4801128'
-translatedAt: '2026-08-05T00:31:25+08:00'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:dd896b223778a319'
+sourceBodyHash: 'sha256:1cfc73d3ec3aabb4'
+translatedAt: '2026-10-10T04:09:44.513807+00:00'
 ---
 
 # COMPUTEX: das três grandes feiras internacionais de computadores, duas fecharam — a que restou cresce em Taipé
@@ -215,19 +219,19 @@ Relatório de comércio do Fed de Dallas 2025 adiciona: exportação mexicana de
 
 Escudo de silício e layout disperso, a ilha segura as duas pontas ao mesmo tempo. De um lado, torna-se mais difícil de atacar; do outro, garante que, se algo acontecer, ainda consiga abastecer o mundo. Quanto mais bonito o discurso dos CEOs no palco da COMPUTEX, mais pesada a dupla pressão nos ombros dos engenheiros nos estandes.
 
-## Taipé é o ponto de partida de tudo isso
+## Taipé é o Ponto de Partida de Tudo
 
-Naquele 1º de junho de 2026, atrás do painel com zongzi e patas de porco, Jensen Huang disse: "Taiwan possesses the world's best supply chain ecosystem." (Taiwan possui o melhor ecossistema de cadeia de suprimentos do mundo.)[^24]
+Em 1º de junho de 2026, atrás do painel decorado com _nǐzòng_ (bolinho recheado) e pés de porco, Jensen Huang proferiu: "Taiwan possui o ecossistema de cadeia de suprimentos mais avançado do mundo."[^24]
 
-Quando ele disse isso, na plateia não tinha só mídia. Tinha engenheiros, vendedores, presidentes da Hiwin, Quanta, Wistron, Foxconn, Chicony, Sunrex, Acer, Pegatron, Delta. Uma camada atrás, o mestre na chapa de PCB num galpão de zinco em Xinzhuang, a operadora soldando conector numa máquina em Taoyuan, a próxima geração das 700 e tantas fábricas de máquinas-ferramenta e transmissão de precisão num raio de meia hora de Taichung, o doutor de 30 anos rodando processo no Parque Científico de Tainan.
+Quando ele disse isso, quem estava sentado sob o palco não eram apenas jornalistas; havia engenheiros, executivos e diretores da Wistron, Quanta, Inventec, Foxconn, Chi Hong, Shuanghong, Acer, Wistron, Delta e outros. Mais ao fundo, estavam os mestres que fabricam PCBs em fábricas de chapas em Xinzhuang, as operárias que soldam conectores nas linhas de produção de Taoyuan, os sucessores da próxima geração das mais de 700 máquinas-ferramenta e fabricantes de transmissão de precisão em Taichung, e os doutores de 30 anos que executam processos no Parque Científico de Tainan.
 
-1981, ao lado do Aeroporto de Songshan, estandes vendiam placa-mãe para comprador de Hong Kong levar e montar. 2026, Hall 1 do World Trade Center, área de robôs de IA, 180 empresas demonstrando ao vivo redutor, motor, garra. No meio, 45 anos, esta ilha só fez uma coisa: pegar a "manufatura" que os países avançados terceirizaram e levar a um nível que o mundo não consegue contornar.
+Em 1981, as bancas perto do Aeroporto Matsumasa vendiam placas-mãe para compradores de Hong Kong levarem embora. Em 2026, na área de robótica de IA da Feira Mundial em Taipé, 180 empresas demonstravam réguas, motores e garras com equipamentos reais. Ao longo desses 45 anos, esta ilha fez apenas uma coisa: fazer a "manufatura" que os países desenvolvidos terceirizam, a ponto de se tornar algo que o mundo não pode ignorar.
 
-A COMDEX morreu, porque ficava em Las Vegas — lado da demanda: comprador, mídia, lançamento. A CeBIT morreu, porque ficava em Hanôver — comprador europeu, mídia europeia. O Mês da Informação também murchou, porque ficava em Taipé mas olhava para o varejo doméstico, e esse varejo foi levado pelo e-commerce e pelo celular.
+A COMDEX morreu porque foi realizada em Las Vegas — focada na demanda dos compradores e da mídia. A CeBIT morreu porque foi realizada em Hannover — focada nos compradores e na mídia europeus. O InfoMonth também declinou porque, embora realizado em Taipé, ele se voltava para o varejo familiar de Taiwan, um setor que foi tomado pelo comércio eletrônico e pelos celulares.
 
-A COMPUTEX sobreviveu, porque fica em Taipé — o lado da oferta desta ilha. Da próxima vez que vir notícia "Jensen Huang vem a Taiwan", "três CEOs no mesmo palco", pode ler assim: a infraestrutura base da computação global, todo ano, volta ao lugar onde ela de fato é montada, e faz uma peregrinação.
+A COMPUTEX sobreviveu porque é realizada em Taipé — focada na oferta da ilha. Da próxima vez que você vir notícias como "Jensen Huang vem a Taiwan" ou "Três CEOs no mesmo palco", leia assim: isso é a infraestrutura de computação global, um peregrinagem anual ao local onde ela é realmente montada.
 
-NVIDIA GTC Taipé 2026 keynote completo (canal oficial NVIDIA):
+Vídeo completo do Keynote da NVIDIA GTC Taipei 2026 (Canal Oficial da NVIDIA):
 
 <div
   class="video-embed"
@@ -243,9 +247,9 @@ NVIDIA GTC Taipé 2026 keynote completo (canal oficial NVIDIA):
   ></iframe>
 </div>
 
-_Canal oficial NVIDIA: keynote completo de Jensen Huang no GTC Taipé 2026, "é bom estar de volta em casa", Vera Rubin em produção em massa, painel com zongzi e patas de porco._
+_Canal Oficial da NVIDIA: Keynote de Jensen Huang em GTC Taipei 2026, "É bom estar em casa", produção total de Vera Rubin e os *nǐzòng* e pés de porco no painel._
 
-NVIDIA COMPUTEX 2024 keynote completo (canal oficial NVIDIA):
+Vídeo completo do Keynote da NVIDIA COMPUTEX 2024 (Canal Oficial da NVIDIA):
 
 <div
   class="video-embed"
@@ -261,15 +265,15 @@ NVIDIA COMPUTEX 2024 keynote completo (canal oficial NVIDIA):
   ></iframe>
 </div>
 
-_Canal oficial NVIDIA: keynote completo de Jensen Huang na COMPUTEX 2024, conceito "fábrica de IA" e "Taiwan é o herói anônimo" na íntegra._
+_Canal Oficial da NVIDIA: Keynote de Jensen Huang em COMPUTEX 2024, a concepção "Fábrica de IA" e "Taiwan é o herói anônimo", palavra por palavra._
 
-**Leitura adicional**:
+**Leitura Complementar**:
 
-- [Indústria de semicondutores](/pt/technology/taiwan-semiconductor-industry) — A cadeia que sustenta o palco principal da COMPUTEX tem sua nascente nas fábricas de wafer de Hsinchu, Taichung, Tainan
-- [Desenvolvimento e estratégia futura de IA em Taiwan](/pt/technology/artificial-intelligence-development-strategy) — Da montagem de servidores à IA física, a indústria de IA de Taiwan está na segunda virada
-- [Indústria de robótica em Taiwan](/pt/technology/taiwan-robotics-industry) — A estreia da Hiwin na COMPUTEX é fatia-chave da formação desta cadeia de suprimentos
-- [Desenvolvimento da cadeia de veículos elétricos em Taiwan](/pt/technology/taiwan-electric-vehicle-industry-chain) — Outro eixo de manufatura correndo paralelo aos servidores de IA
-- [NVIDIA em Taiwan](/pt/technology/nvidia-in-taiwan) — Da infância de Jensen Huang em Tainan ao palco principal do GTC Taipé
+- [Indústria de semicondutores](/pt/technology/taiwan-semiconductor-industry) — Esta cadeia que sustenta o palco principal da COMPUTEX tem suas origens nas fábricas de wafers em Hsinchu, Taichung e Tainan.
+- [Desenvolvimento de Inteligência Artificial e Estratégia Futura de Taiwan](/pt/technology/artificial-intelligence-development-strategy) — Da montagem de servidores à IA física, a indústria de IA de Taiwan está passando por uma segunda transformação estrutural.
+- [Indústria de robótica de Taiwan](/pt/technology/taiwan-robotics-industry) — A primeira aparição da Wistron na COMPUTEX foi um corte chave para a formação desta cadeia de suprimentos.
+- [Desenvolvimento da cadeia de valor dos veículos elétricos de Taiwan](/pt/technology/taiwan-electric-vehicle-industry-chain) — Outro eixo manufatureiro ao lado dos servidores de IA.
+- [NVIDIA em Taiwan](/pt/technology/nvidia-in-taiwan) — Da infância de Jensen Huang em Tainan à casa do GTC Taipei.
 
 ## Fontes das imagens
 
