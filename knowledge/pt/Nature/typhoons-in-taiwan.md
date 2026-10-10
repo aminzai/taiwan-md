@@ -30,15 +30,19 @@ imageCredit: 'NASA MODIS Rapid Response (Aqua)'
 imageLicense: 'Public domain (NASA)'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Typhoon_Morakot_Aug_7_2009.jpg'
 sporeLinks:
-  [
-    "{'id': 115, 'platform': 'threads', 'date': '2026-06-03', 'url': 'https://www.threads.com/@taiwandotmd/post/DZHUHpQk02w'}",
-    "{'id': 116, 'platform': 'x', 'date': '2026-06-03', 'url': 'https://x.com/taiwandotmd/status/2062065024613679469'}",
-  ]
+  - id: 115
+    platform: 'threads'
+    date: '2026-06-03'
+    url: 'https://www.threads.com/@taiwandotmd/post/DZHUHpQk02w'
+  - id: 116
+    platform: 'x'
+    date: '2026-06-03'
+    url: 'https://x.com/taiwandotmd/status/2062065024613679469'
 translatedFrom: 'Nature/颱風.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:b0a47a120aff0621'
-sourceBodyHash: 'sha256:b8ebcfc4e0a96ce7'
-translatedAt: '2026-07-29T03:36:23+08:00'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:ae6eb429d45b37f4'
+sourceBodyHash: 'sha256:a891f90b49935053'
+translatedAt: '2026-10-10T11:34:45.426688+00:00'
 ---
 
 # Conseguimos prever o vento e a chuva, mas não o destino: quatrocentos anos de Taiwan e os tufões
@@ -152,23 +156,23 @@ Das bandeiras de vento e chuva à previsão de 30 dias em 4 minutos, estes 160 a
 
 _DIGITIMES 'Tech 好聊' EP.4: como os modelos de IA empurraram o erro de previsão da trajetória do tufão para dentro dos 57 km._
 
-## O preço de 31,5 mil milhões: quem paga a conta?
+## A conta de 31,5 bilhões: quem paga?
 
-O tufão traz também um sistema único de Taiwan, chamado «folga por tufão».
+O tufão traz também uma instituição única de Taiwan: o dia de folga por tufão.
 
-A origem deste sistema é uma tragédia. Em 30 de julho de 2001, durante a passagem do tufão Toraji, a professora Hsu Pi-lan da Escola Primária Qingshan, no condado de Changhua, caiu acidentalmente numa vala de drenagem enquanto protegia alunos e faleceu. O então presidente Chen Shui-bian foi pessoalmente ao velório prestar homenagem. Doze anos depois, em 2013, os «Pontos de Operação para Suspensão de Trabalho e Aulas» foram renomeados para «Regulamento de Suspensão de Trabalho e Aulas por Desastres Naturais».[^22]
+O ponto de partida desse mecanismo foi uma tragédia. No dia 30 de julho de 2001, durante a passagem do tufão médio Peach (桃芝), a professora Hsu Pi-lan (許碧蘭) do colégio Qingshan, em Changhua, morreu após escorregar em uma calheta enquanto protegia os alunos. O então presidente Chen Shui-bian (陳水扁) compareceu pessoalmente ao velório para prestar homenagem. Doze anos depois, em 2013, o regulamento original foi oficialmente renomeado para "Normas para suspensão de trabalho e aulas em caso de desastre natural".[^22]
 
-> **✦** «Cada dia de suspensão de trabalho e aulas, o impacto ultrapassa 310 mil milhões de NTD.»
+> **✦** «Cada dia de suspensão de trabalho e aulas afeta mais de 31 bilhões de novas taiuanas.»
 
-Esta afirmação vem de uma carta ao editor do ex-ministro do Meio Ambiente Peng Chi-ming em 2005; recalculada pelo presidente da Associação 33, Lin Po-feng, com dados do PIB de 2023, resulta numa perda líquida diária de cerca de 315 mil milhões de NTD.[^4]
+Essa afirmação provém de uma carta enviada ao jornal em 2005 pelo então ministro do Meio Ambiente Peng Ch'i-ming (彭啟明), posteriormente recalculada pelo presidente da Câmara de Comércio e Indústria Lin Po-feng (林伯豐) com base nos dados de PIB de 2023, resultando em uma perda líquida diária de cerca de 31,5 bilhões de novas taiuanas.[^4]
 
-Mas nesta aritmética falta um problema estrutural. O site de empregos yes123 inquiriu 1.330 trabalhadores: 81% já trabalharam normalmente em dia de tufão, dos quais 65% por exigência do chefe. O FTNN News inquiriu: 53,5% dos trabalhadores recebem o salário integral, mas 37,7% não recebem nada.[^7] Funcionários públicos e trabalhadores de escritório ficam em casa à espera do anúncio da folga; trabalhadores do comércio por grosso e a retalho, agricultura, pesca, pecuária e restauração continuam a sair à rua sob o mesmo tufão.
+Mas essa aritmética esconde um problema estrutural. Uma pesquisa do site de emprego yes123 com 1.330 trabalhadores revelou que 81% compareceu ao trabalho normalmente mesmo em dias de tufão, sendo 65% desses solicitados por seus supervisores. Uma investigação da FTNN News mostra que 53,5% dos trabalhadores recebeu salário integral, mas 37,7% não recebeu nada.[^7] Funcionários públicos e escritários esperam em casa o anúncio da folga, enquanto trabalhadores do varejo, pesca, agricultura e alimentação saem à rua na mesma tempestade.
 
 > **📝 Nota do curador**
 >
-> A história da folga por tufão e a da «montanha protetora da pátria» são, na verdade, duas versões da mesma história. A montanha transforma vento em água, despejando-a sobre a casa de quem? O anúncio de suspensão dá folga a quem e deixa de fora quem? No mesmo tufão, a precipitação no mapa é uniforme, mas quem arca com o custo nunca é uniforme.
+> A história do dia de folga por tufão e a do "deus da proteção" são duas versões da mesma narrativa. A montanha transforma o vento em chuva — e derrama sobre quem? O anúncio de suspensão de aulas e trabalho concede folga a quem — e exclui quem? Em um mesmo tufão, o mapa da chuva é uniforme, mas quem paga o preço nunca é igual.
 
-A distribuição completa de classes na folga por tufão, os pontos cegos por trás da aritmética dos 315 mil milhões, e a situação dos trabalhadores migrantes — estes são outra história independente, contada em [Folga por tufão](/Society/颱風假).
+A distribuição completa do dia de folga por tufão, os pontos cegos por trás do cálculo de 31,5 bilhões e a situação dos trabalhadores migrantes — tudo isso é contado em outra história independente, no artigo [Dia de folga por tufão](/pt/society/typhoon-day).
 
 ## A estação meteorológica da tribo: a sabedoria milenar é a última rede de segurança
 
@@ -218,13 +222,13 @@ Mas naquela manhã de 2009, quando Lo Pan Chun-mei estava na varanda a ver o Mon
 
 Conseguimos prever o vento e a chuva, mas não o destino.
 
-## Leitura complementar
+## Leituras recomendadas
 
-- [Folga por tufão](/Society/颱風假) — No mesmo tufão, funcionários públicos em casa, trabalhadores do comércio na rua. A fissura de classe que a aritmética dos 315 mil milhões deixa de fora
-- [Crise climática e transição para zero líquido em Taiwan](/Nature/台灣氣候危機與淨零轉型) — Por trás do aumento de 40% na intensidade da precipitação dos tufões, o aquecimento global e a transição energética de Taiwan num contexto maior
-- [Ecossistemas de alta montanha e relíquias glaciares de Taiwan](/pt/nature/taiwan-alpine-ecosystems-glacial-relicts) — A Cordilheira Central não só altera a trajetória dos tufões, como abriga ecossistemas de altitude entre os mais altos do mundo
-- [Meiyu (estação das chuvas)](/pt/nature/meiyu-stagnant-front) — Além dos tufões, o meiyu é outra grande fonte de chuva em Taiwan, igualmente afetado pela mudança climática
-- [Ilhas e cultura oceânica](/pt/geography/offshore-islands-and-maritime-culture) — A arquitetura tradicional e o conhecimento toponímico dos Tao de Lanyu têm valor único de prevenção de desastres na era dos tufões
+- [Folga por tufão](/pt/society/typhoon-day) — Para a mesma tempestade, os funcionários públicos de classe média ficam em casa enquanto os trabalhadores do varejo atacadista saem à rua. A lacuna de classe esquecida nos 3,15 bilhão de NTD
+- [Crise climática e transição para net-zero em Taiwan](/pt/nature/taiwan-climate-change-net-zero-transition) — Por trás do aumento de 40% na intensidade das chuvas de tufão, está o contexto maior do aquecimento global e da transição energética de Taiwan
+- [Ecossistemas de montanha e glaciares remanescentes em Taiwan](/pt/nature/taiwan-alpine-ecosystems-glacial-relicts) — A Cordilheira Central não apenas altera a trajetória dos tufões, mas também abriga os ecossistemas de maior altitude do mundo
+- [Chuvas de verão](/pt/nature/meiyu-stagnant-front) — Além dos tufões, as chuvas de verão são outra grande fonte de estações chuvosas em Taiwan, igualmente afetadas pelas mudanças climáticas
+- [Ilhas e cultura marítima](/pt/geography/offshore-islands-and-maritime-culture) — O conhecimento tradicional da arquitetura e topônimos dos povos indígenas de Lanyu (Babaylan) possui valor único de prevenção de desastres na era dos tufões
 
 ## Fontes das imagens
 

@@ -1,17 +1,17 @@
 ---
-title: 'Licença por tufão: de quem é a licença, de quem é o turno'
-description: 'Em 2001, a morte de uma professora em Changhua deu origem ao sistema de licença por tufão de Taiwan. Mais de vinte anos depois, 81% dos trabalhadores ainda comparecem ao trabalho sob vento e chuva, e 37,7% não recebem nenhum salário. Todos os verões, um único anúncio de suspensão corta com precisão ao longo das linhas de classe de Taiwan — trabalhadores de colarinho branco em casa a deslizar o telemóvel, enquanto trabalhadores do comércio por grosso, retalho, agricultura e pesca continuam a sair para o mesmo tufão.'
+title: 'Feriado de Tufão: De Quem é o Férias e De Quem é o Trabalho?'
+description: 'A tragédia de uma professora em Changhua em 2001 deu origem ao sistema de feriado por tufão em Taiwan. Mais de vinte anos depois, 81% dos trabalhadores ainda trabalham normalmente na tempestade; 37,7% não recebem salário algum. Todo verão, um anúncio de fechamento divide a sociedade taiwanesa pelas classes: executivos navegam no celular em casa, enquanto trabalhadores do atacado, varejo e agropecuária saem para trabalhar sob o mesmo tufão.'
 date: 2026-05-09
 category: 'Society'
 tags:
   [
-    'Licença por tufão',
-    'direitos laborais',
-    'prevenção de desastres',
-    'clima de Taiwan',
-    'questões sociais',
-    'trabalhadores migrantes estrangeiros',
-    'tufão',
+    'Feriado de Tufão',
+    'Direitos Trabalhistas',
+    'Prevenção de Desastres',
+    'Clima de Taiwan',
+    'Questões Sociais',
+    'Migrantes Estrangeiros',
+    'Tufão',
   ]
 subcategory: '社會制度'
 author: 'Taiwan.md'
@@ -21,201 +21,201 @@ featured: false
 lastVerified: 2026-05-09
 lastHumanReview: false
 translatedFrom: 'Society/颱風假.md'
-sourceCommitSha: '9bddcff65'
-sourceContentHash: 'sha256:d909a68892279cea'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:a1f455d597d80f3d'
 sourceBodyHash: 'sha256:8d3f66b5c4593a14'
-translatedAt: '2026-08-02T13:22:33+08:00'
+translatedAt: '2026-10-10T16:54:47+08:00'
 ---
 
-# Licença por tufão: de quem é a licença, de quem é o turno
+# Feriado de Tufão: De Quem é o Férias e De Quem é o Trabalho?
 
-> **Visão geral de 30 segundos:** Em julho de 2001, a professora Hsu Pi-lan da Escola Primária Qingshan, no condado de Changhua, morreu em serviço durante um tufão, abalando a sociedade taiwanesa e levando o governo a estabelecer um sistema de licença por tufão mais claro. Mas mais de duas décadas depois, o yes123 entrevistou 1.330 trabalhadores e descobriu que 81% já trabalharam em dias de tufão, e os números do 1111 Job Bank mostram que 37,7% não recebem absolutamente nenhum salário. Todos os verões, no momento em que os presidentes de câmara e magistrados de condado anunciam a suspensão, esse papel esconde uma questão mais profunda: essa licença nunca foi de todos.
+> **Resumo em 30 segundos:** Em 2001, a professora Xu Bi-lan (許碧蘭) do Elementary School Qingshan County Changhua morreu tragicamente durante um tufão, abalando a sociedade taiwanesa e forçando o governo a estabelecer um sistema de feriado por tufão mais claro. Mas mais de vinte anos depois, uma pesquisa da yes123 com 1.330 trabalhadores revelou que 81% trabalharam normalmente na tempestade, e os dados do 1111 Job Bank mostram que 37,7% não receberam salário algum. A cada verão, no momento em que o prefeito ou governador anuncia o fechamento, este papel esconde uma questão mais profunda: este feriado nunca foi para todos.
 
-## A vala de drenagem que a professora não conseguiu atravessar
+## O Dreno Que a Professora Não Conseguiu Transpor
 
-No dia em que o tufão Toraji chegou, final de julho de 2001, a professora Hsu Pi-lan estava na Escola Primária Qingshan, no condado de Changhua.[^1]
+No dia em que o tufão Taozhi atingiu, no final de julho de 2001, a professora Xu Bi-lan estava na Elementary School Qingshan County Changhua. [^1]
 
-O tufão moderado Toraji fez landfall em Hualien e avançou para oeste; a chuva em Changhua era intensa. Para proteger a segurança dos alunos, Hsu Pi-lan movia-se pelo campus quando caiu acidentalmente numa vala de drenagem, sendo arrastada pela água impetuosa.
+O tufão de intensidade moderada "Taozhi" pousou em Hualien e avançou para oeste. A chuva em Changhua era muito forte. Para proteger os alunos, enquanto se movia pelo campus, Xu Bi-lan caiu acidentalmente em um dreno e foi levada pela força da inundação.
 
-Ela morreu em serviço. O então presidente Chen Shui-bian foi pessoalmente ao velório prestar condolências. O acidente abalou a sociedade taiwanesa e forçou o governo a enfrentar a questão: em dia de tufão deve haver licença? Qual o padrão? Quem decide?
+Ela morreu. O então presidente Chen Shui-bian (陳水扁) compareceu ao velório para prestar condolências. Este acidente abalou a sociedade taiwanesa e forçou o governo a encarar: deveria haver feriado em dia de tufão? Quais são os padrões para conceder folga? Quem decide isso?
 
-Mas antes de perguntar "quem decide", Taiwan já tinha uma resposta regulamentar. Já em **julho de 1974**, a Direção-Geral de Administração de Pessoal do Yuan Executivo promulgou as "Diretrizes Operacionais para Suspensão de Trabalho e Aulas em Caso de Desastres Naturais". A norma já existia, apenas não era levada a sério, até uma professora não conseguir atravessar uma vala de drenagem.[^2]
-
----
-
-## A decisão de suspender: os magistrados e presidentes de câmara apostam a cada vez
-
-Após o caso Hsu Pi-lan, o governo estabeleceu gradualmente critérios de decisão mais claros. **Em 22 de janeiro de 2013**, o Yuan Executivo renomeou as antigas diretrizes para "Regulamento de Suspensão de Trabalho e Aulas em Caso de Desastres Naturais", integrando a licença por tufão num quadro unificado para vários tipos de desastres naturais.[^3]
-
-Os gatilhos atuais são dois: vento de força 7 ou superior, ou rajadas de força 10 ou superior; ou precipitação acumulada em 24 horas superior a 200 mm em áreas montanhosas, ou 350 mm em planícies. Mas quem realmente decide são os presidentes de câmara dos municípios especiais e os magistrados de condados e cidades — não o governo central.
-
-Este desenho gerou na prática uma forma inesperada.
-
-Os magistrados e presidentes de câmara apostam a cada anúncio. Um estudo quantitativo de ciência política sobre 35 eventos de tufão entre 2005 e 2015 inseriu dados de tufões e resultados eleitorais num modelo de regressão, controlando taxa de desemprego, taxa de criminalidade, nível educacional e estrutura populacional, e concluiu: cada dia adicional de licença por tufão acertada aumenta a taxa de votos na reeleição em **2%** em média.[^4]
-
-Decisões políticas que os eleitores sentem imediatamente na pele são política. A licença por tufão é um dos poucos temas em Taiwan que faz toda a gente experimentar simultaneamente o efeito da política — se acertam, todos suspiram aliviados; se erram, todos ficam irritados. Mas o estudo também descobriu que decisões erradas (licença indevida ou ausência de licença quando necessária) não trazem punição eleitoral significativa para os incumbentes. O que isso diz? Que os eleitores olham para o "acertar a licença", não para a "responsabilização". Portanto, a estratégia ótima dos políticos é: esperar que os condados e cidades vizinhos anunciem primeiro.
-
-Este jogo atingiu uma espécie de ápice durante o tufão Gaemi em 2024 — a primeira vez desde 2001 com dois dias consecutivos de suspensão em toda a ilha. O condado de Yilan, pela sua posição e topografia, acumula o maior número de dias de licença por tufão ao longo dos anos, **47 dias**; o condado de Miaoli, na ilha principal, tem o menor, apenas **31 dias**.[^5]
+Mas antes de perguntar "quem decide", já havia uma resposta legal em Taiwan. Em **julho de 1974**, o Bureau of Personnel Administration (行政院人事行政局) promulgou as Diretrizes para Suspensão de Trabalho e Aulas em Caso de Desastres Naturais. As normas já existiam, mas não foram levadas a sério até que uma professora não conseguisse transpor um dreno. [^2]
 
 ---
 
-## Mas esta aritmética não vê uma pessoa
+## A Decisão de Fechar é Um Jogo de Apostas dos Prefeitos e Governadores
 
-O yes123 Job Bank entrevistou 1.330 trabalhadores: 81% já trabalharam em dias de tufão, dos quais **65% por exigência do superior**.[^6]
+Após o incidente da professora Xu Bi-lan, o governo gradualmente estabeleceu padrões de decisão mais claros. Em **22 de janeiro de 2013**, o Bureau of Executive Yuan (行政院) renomeou as diretrizes antigas como "Regulamento para Suspensão de Trabalho e Aulas em Caso de Desastres Naturais", integrando o feriado por tufão no quadro unificado de vários desastres naturais. [^3]
 
-A versão do 1111 Job Bank é mais concreta: 76% dos trabalhadores já compareceram em dias de tufão, dos quais 53,5% receberam salário integral, **37,7% não receberam absolutamente nada**. 43,1% não tiveram qualquer medida de proteção, 12,2% receberam apenas elogios verbais.[^7]
+Os limites de gatilho da regulamentação atual são duplos: ventos acima do Nível 7 ou rajadas acima do Nível 10; ou precipitação acumulada superior a 200 mm em áreas montanhosas e mais de 350 mm em planícies. Mas quem realmente dita as decisões são os prefeitos e governadores das cidades metropolitanas e condados — não o governo central.
 
-Estas duas sondagens descrevem o quotidiano da licença por tufão em Taiwan. No momento em que o magistrado ou presidente de câmara anuncia a suspensão, mais de um terço dos trabalhadores sai sob o tufão, sem receber um tostão de compensação extra.
+Este design resultou em formas inesperadas na prática.
 
-Os cinco setores com maior taxa de comparecimento: comunicação social e relações públicas **90%**, comércio por grosso e retalho **88,6%**, saúde e biotecnologia **86,7%**, hotelaria e restauração **85,7%**, agricultura, pesca e pecuária **83,3%**. Esta lista é praticamente o diretório dos trabalhadores manuais e de serviços de base de Taiwan.[^8]
+Um estudo quantitativo de ciência política sobre 35 eventos de tufão entre 2005 e 2015 colocou dados de tufões em um modelo de regressão com resultados eleitorais, controlando taxas de desemprego, criminalidade, nível educacional e estrutura populacional, chegando à seguinte conclusão: a cada dia adicional de feriado por tufão concedido, a taxa média de votos na reeleição aumenta **2%**. [^4]
 
-> **📝 Nota do curador**
+A decisão política que os eleitores sentem imediatamente é essa. O feriado por tufão é um dos poucos tópicos em Taiwan onde todos experimentam o efeito da política simultaneamente — se for bem dado, todos respiram aliviados; se for mal dado, todos ficam insatisfeitos. Mas o estudo também descobriu que decisões erradas (conceder falsamente ou não conceder quando deveria) não têm um castigo eleitoral significativo para os ocupantes do cargo. O que isso significa? Significa que os eleitores olham para o "dar certo", e não para a "prestação de contas". Portanto, a estratégia ótima dos políticos é: esperar o anúncio dos municípios vizinhos.
+
+Este jogo atingiu um pico durante o tufão Kaimi em 2024 — registrando dois dias consecutivos de feriado em toda a ilha pela primeira vez desde 2001. O condado de Yilan, devido à sua localização e geografia, tem o maior número acumulado de dias de feriado por tufão ao longo dos anos, totalizando **47 dias**; o condado de Miaoli tem o menor da ilha principal, apenas **31 dias**. [^5]
+
+---
+
+## Mas Essa Conta Não Vê Nenhuma Pessoa
+
+Uma pesquisa do site de busca de emprego yes123 com 1.330 trabalhadores revelou que 81% trabalharam normalmente em dia de tufão, e **65% disso foi exigido pelos supervisores**. [^6]
+
+A versão do 1111 Job Bank é mais específica: 76% dos trabalhadores compareceram ao trabalho em dia de tufão, sendo que 53,5% receberam o salário integral, mas **37,7% não receberam nada**. 43,1% não tiveram nenhuma proteção, e 12,2% apenas receberam um bônus verbal. [^7]
+
+Esses dois levantamentos contam a rotina do feriado por tufão em Taiwan. No momento em que o prefeito ou governador anuncia o fechamento, mais de um terço dos trabalhadores sai para trabalhar na tempestade e não recebe compensação extra.
+
+Os cinco setores com maior taxa de comparecimento: Relações Públicas/Mídia (大傳公關) **90%**, Atacado/Varejo (批發零售) **88,6%**, Saúde/Tecnologia Médica (醫護生技) **86,7%**, Alimentação e Turismo (餐旅) **85,7%** e Agropecuária (農漁牧) **83,3%**. Esta lista é quase um catálogo dos trabalhadores operários e serviços de base em Taiwan. [^8]
+
+> **📝 Nota do Curador**
 >
-> A narrativa corrente é "a licença por tufão deixa os taiwaneses descansar em casa". Esta narrativa corta com precisão ao longo de uma linha de classe: funcionários de escritório de colarinho branco ficam em casa à espera do anúncio, enquanto trabalhadores do comércio por grosso, retalho, agricultura, pesca e restauração continuam a sair no mesmo tufão. O desenho do sistema não está errado, mas a sua premissa é: quem "tem licença" tem um escritório onde não ir. As pessoas nas bancas de grosso, viveiros de peixe, restaurantes, nunca estiveram dentro desta premissa.
+> A narrativa comum é que "o feriado por tufão permite aos taiwaneses descansar em casa". Essa narrativa corta ao longo de uma linha de classe: os funcionários de escritório trabalham em casa esperando o anúncio do feriado, enquanto trabalhadores do atacado, varejo, agropecuária e alimentação saem para trabalhar sob o mesmo tufão. O design do sistema não está errado, mas sua premissa é: "quem tem folga" possui um escritório para não ir. Pessoas de feiras atacadistas, fazendas de ostras ou restaurantes nunca fazem parte dessa suposição.
 
 ---
 
-## Os trabalhadores migrantes são a camada mais invisível da estrutura
+## Os Migrantes são a Camada Mais Invisível da Estrutura
 
-Os cerca de **800 mil trabalhadores migrantes estrangeiros** de Taiwan concentram-se na indústria transformadora, construção e agricultura, pesca e pecuária — precisamente os setores com maior taxa de comparecimento em dias de tufão.[^9]
+Cerca de **800 mil migrantes estrangeiros** em Taiwan estão concentrados principalmente na indústria manufatureira, construção e agropecuária — que são justamente os setores com as maiores taxas de comparecimento em dias de tufão. [^9]
 
-Enfrentam uma situação mais complexa do que mostram os dados. A maioria recebe salário mensal; se a suspensão implicar corte no salário, atinge diretamente o valor que enviam para casa todos os meses. Somadas as barreiras linguísticas e legais, exercer ativamente o "direito de recusa" ou requerer subsídio de licença por tufão é quase impossível. Isto sem contar que o seu trabalho é quase todo presencial — não há opção de teletrabalho. Mais básico ainda: a decisão de licença é emitida ao nível local, e os trabalhadores migrantes às vezes nem sequer recebem a notificação.
+A situação deles é mais complexa do que os dados mostram. A maioria dos migrantes recebe salário mensal, e o corte salarial por fechamento afeta diretamente o valor enviado para casa todos os meses. Somado às barreiras linguísticas e regulatórias, é quase impossível exercer proativamente o "direito de recusa" ou solicitar um subsídio de feriado por tufão. Isso ainda não conta que seu trabalho é quase sempre presencial — sem a opção de home office. Mais fundamentalmente, a decisão do feriado é tomada no nível local, e os migrantes às vezes nem recebem o aviso.
 
-A lei do Ministério do Trabalho escreve a preto e branco: em dia de tufão, o comparecimento "não deve implicar corte de salário, nem ser considerado falta injustificada, nem dar lugar a tratamento desfavorável como corte de prémio de assiduidade", sob pena de multa de 20 mil a 1 milhão de novos dólares taiwaneses. Mas o "deve" (宜) aqui é recomendação, não obrigação. A capacidade de execução é limitada.[^10]
+O Ministério do Trabalho escreve em lei: "Em dia de tufão, o comparecimento 'não deve resultar na retenção de salário, tampouco pode ser considerado ausência injustificada ou sofrer penalidades como corte de bônus por assiduidade', e quem violar será multado entre NT$ 20.000 e 1 milhão." Mas a palavra "deve" (宜) é uma sugestão, não uma imposição. A eficácia da execução é limitada. [^10]
 
-96% dos trabalhadores apoiam legislar a licença por tufão como licença remunerada, incluindo 64% das empresas. Mas o processo legislativo avança a passo de caracol, porque "pode afetar gravemente serviços essenciais" é o argumento administrativo universal para protelar.
+96% dos trabalhadores apoiam que o feriado por tufão seja estabelecido como um dia pago, e 64% das empresas também apoiam. Mas o progresso na reforma é muito lento porque "pode afetar gravemente serviços essenciais" é uma desculpa administrativa universal.
 
-> **✦** "Cada dia adicional de licença acertada aumenta a taxa de votos na reeleição em 2%." Esta descoberta descreve com precisão a gramática política da licença por tufão, mas não diz: os 81% que comparecem normalmente, os seus votos contaram?
-
----
-
-## Quanto se perde num dia? Algoritmo diferente, resposta muito diferente
-
-Antes e depois de cada licença por tufão, vários meios de comunicação citam invariavelmente o número "um dia de perdas de 310 a 315 mil milhões de novos dólares taiwaneses". De onde vem este número?
-
-A lógica de cálculo é basicamente: tomando como base o PIB de 2023 de 23 biliões de novos dólares taiwaneses, divide-se por 365 dias, obtendo um produto diário de cerca de 630 mil milhões, depois subtrai-se a parte que continua a operar normalmente em dia de tufão (fábricas de semicondutores em operação contínua, parte do consumo interno), chegando a uma perda líquida de cerca de 315 mil milhões.[^11]
-
-O veterano dos media Huang Yang-ming recalculou pela ótica das exportações: em 2023, o total anual de exportações superou 430 mil milhões de dólares, exportações diárias superiores a 1 mil milhões de dólares, só este item já ultrapassa 310 mil milhões de novos dólares taiwaneses. Dois algoritmos dão números próximos, mas posições opostas — o primeiro para dizer "não se deve suspender levianamente", o segundo para dizer "um dia de suspensão custa muito caro".[^12]
-
-O problema desta aritmética não está nos números em si, mas na coluna que falta: o custo em vidas humanas de quem trabalha no tufão foi contabilizado? A vala de drenagem da professora Hsu Pi-lan em 2001 faz parte dos 315 mil milhões?
+> **✦** "A cada dia a mais de folga concedido, a taxa de votos na reeleição aumenta em 2%." Essa descoberta descreve precisamente a gramática política do feriado por tufão, mas não diz: os 81% que trabalharam normalmente foram incluídos nessa contagem?
 
 ---
 
-## A história da licença por tufão é escrita com lições de vidas humanas
+## Quanto se Perde em Um Dia? A Resposta Muda Dependendo do Algoritmo
 
-As estatísticas completas da licença por tufão em Taiwan contam outra história.
+Antes e depois de cada feriado por tufão, as mídias costumam citar o número de "perda de NT$ 31,0 a NT$ 31,5 bilhões por dia". De onde vem esse número?
 
-Desde 2001, as suspensões sincronizadas em toda a ilha ocorreram apenas **14 vezes** (até julho de 2024). A mais longa foi o tufão Morakot (2009), com 10 condados e cidades a suspender por 3 dias consecutivos. As licenças por tufão caem maioritariamente em dias úteis, não nos "fins de semana" que circulam na internet.[^13]
+A lógica de cálculo é basicamente: usando o PIB de Taiwan em 2023, que foi de NT$ 23 trilhões, dividir por 365 dias, resultando em um valor diário de cerca de NT$ 63 bilhões. Subtraindo a parte que continuou operando normalmente (fábricas de semicondutores operando continuamente, consumo interno parcial), chega-se a uma perda líquida de cerca de NT$ 31,5 bilhões. [^11]
 
-| Registo                                                | Número                     | Explicação                         |
-| ------------------------------------------------------ | -------------------------- | ---------------------------------- |
-| Suspensões sincronizadas em toda a ilha                | 14 vezes                   | 2001 a julho de 2024               |
-| Suspensão consecutiva mais longa                       | 3 dias                     | Tufão Morakot, 10 condados/cidades |
-| Primeira vez com dois dias consecutivos em toda a ilha | 2024                       | Tufão Gaemi                        |
-| Condado/cidade com mais licenças                       | Condado de Yilan, 47 dias  | Topografia e posição               |
-| Condado/cidade com menos licenças (ilha principal)     | Condado de Miaoli, 31 dias | Efeito barreira geográfica         |
+O jornalista sênior Huang Yangming (黃揚明) calculou novamente sob o ângulo da exportação: em 2023, as exportações anuais ultrapassaram US$ 430 bilhões, com exportações diárias acima de US$ 1 bilhão. Somente este item ultrapassa NT$ 31 bilhões. Os dois algoritmos chegam a números semelhantes, mas com posições opostas — um quer mostrar "não conceda folga facilmente", o outro quer mostrar "o custo de uma folga é alto". [^12]
 
-O dilema da coordenação intermunicipal persiste até hoje. A divisão administrativa não acompanhou o desenho das áreas de deslocação pendular; o local de residência, trabalho e estudo podem ter padrões de suspensão totalmente diferentes. "Os pais trabalham, as crianças ficam em casa com licença" — este cenário explode nas redes sociais a cada poucos anos. Vários condados e cidades tentaram a defesa regional conjunta, mas a rota e a topografia dos tufões tornam a sincronização quase impossível.[^14]
-
-O sistema opera ao longo das fronteiras administrativas do século XX; os tufões não respeitam fronteiras administrativas.
+O problema matemático não está no número em si, mas na coluna que falta: o custo humano daqueles que trabalharam em dia de tufão foi incluído? Aquele dreno da professora Xu Bi-lan em 2001 conta como parte dos NT$ 31,5 bilhões?
 
 ---
 
-## A dor da agricultura: o tufão não segue divisões administrativas, mas o prejuízo é contado por condado e cidade
+## O Histórico do Feriado por Tufão é um Lição de Vida Humana
 
-O debate sobre a licença por tufão concentra-se nos trabalhadores de colarinho branco das cidades e nos escritórios, mas quem é derrubado diretamente todos os anos é a agricultura.
+A estatística completa do feriado por tufão em Taiwan conta outra história.
 
-Segundo estatísticas do Ministério da Agricultura, em 2023 o prejuízo total da agricultura em Taiwan foi de **24,276 mil milhões de novos dólares taiwaneses**, dos quais os tufões representaram **77,16%**, cerca de 18,7 mil milhões; em 2024 foi ainda mais extremo, prejuízo total de **52,651 mil milhões**, tufões **98,88%**, quase tudo causado por três tufões (Gaemi, Shanshan, Krathon).[^13a]
+Desde 2001, o número de vezes que toda a ilha teve feriado simultâneo por tufão foi apenas **14** (até julho de 2024). O período mais longo de folga consecutiva foi durante o tufão Morakot (em 2009), com 3 dias em 10 municípios. Os feriados tendem a cair em dias úteis, e não são como se circulasse na internet "mais dias no fim de semana". [^13]
 
-Em 2025, o tufão Danas causou prejuízo agrícola de **2,5 mil milhões de novos dólares taiwaneses**: Tainan o mais afetado (929 milhões), banana com 229 milhões de prejuízo, **445.000 frangos mortos**, **2.454 postes elétricos danificados**, recorde histórico.[^13b]
+| Registro                                    | Número                     | Descrição                        |
+| :------------------------------------------ | :------------------------- | :------------------------------- |
+| Total de feriados simultâneos da ilha       | 14 vezes                   | De 2001 a julho de 2024          |
+| Mais dias consecutivos                      | 3 dias                     | Tufão Morakot, 10 municípios     |
+| Primeiro caso com dois dias em toda a ilha  | 2024                       | Tufão Kaimi                      |
+| Município com mais folgas                   | Condado de Yilan: 47 dias  | Devido à geografia e localização |
+| Município com menos folgas (ilha principal) | Condado de Miaoli: 31 dias | Efeito da barreira geográfica    |
 
-Banana, mamão, citrinos, brotos de bambu são as vítimas fixas de todos os anos. Pingtung, Chiayi, Yunlin, Tainan são os condados e cidades que aparecem ano após ano no mapa de desastres. Os agricultores destes locais sabem o desfecho antes mesmo de ser anunciada a licença. No mesmo momento em que sai o anúncio de suspensão, eles estão a amarrar os pseudocaules das bananeiras com fita agrícola, ou a puxar os viveiros de ostras para terra, ou simplesmente parados nos taludes dos campos à espera.
+A dificuldade de coordenação entre municípios ainda não foi resolvida. A divisão administrativa não corresponde ao círculo de deslocamento; os padrões de feriado para locais de residência, trabalho e estudo podem ser completamente diferentes. Cenários como "os pais precisam trabalhar, mas as crianças estão em folga" explodem discussões nas mídias sociais a cada poucos anos. Os municípios tentaram defesa regional, mas a trajetória do tufão e a geografia tornam quase impossível o alinhamento. [^14]
 
-Este prejuízo não entra no cálculo visível do PIB diário médio, mas é a face mais ignorada no debate sobre a licença por tufão.
+O sistema opera dentro das fronteiras administrativas do século XX, mas o tufão não segue as fronteiras administrativas.
 
-## Macarrão de tufão, estocar repolho chinês, esse é outro sistema
+---
 
-Para além deste sistema oficial, os taiwaneses operam simultaneamente outro acordo civil pré-tufão.
+## O Dano Agrícola: Tufões Não Seguem Fronteiras Administrativas, Mas os Danos São Contados por Condado
 
-O documentarista Li Ye-zong diz que, há trinta anos, o tufão em Taiwan quase certamente trazia corte de água e eletricidade. Na véspera, a mãe enchia a banheira e o dispensador de água, ia à mercearia comprar pilhas e velas; a avó e a mãe iam ao mercado estocar, preparavam bolachas, conservas, macarrão instantâneo. Sem eletricidade, a panela elétrica não funcionava, a família cozinhava uma tigela de sopa de macarrão com atum em molho de tomate, batia um ovo, vizinhos trocavam sabores diferentes de macarrão instantâneo — esta é a origem do "macarrão de tufão". Ele diz que este hábito "está gravado nos nossos ossos, é o símbolo de uma vida vivida".[^15]
+A discussão sobre feriado por tufão se concentra nos executivos urbanos e escritórios, mas quem é atingido mais diretamente a cada ano são as atividades agrícolas.
 
-Segundo análise do "Termómetro da Internet" do United Daily News sobre o volume de discussão online nos últimos dois anos (2023-2025), o item mais comprado antes do tufão é arroz e macarrão, o quarto é macarrão instantâneo, o sexto é água potável. "Depósito de arroz cheio = sensação de segurança cheia" capta com precisão uma lógica mais antiga: não confiar em nenhum sistema para te proteger, protege-te tu primeiro.[^16]
+De acordo com estatísticas do Ministério da Agricultura, o dano agrícola total em Taiwan em 2023 foi de **NT$ 24,276 bilhões**, dos quais os tufões representaram **77,16%**, cerca de NT$ 18,7 bilhões; em 2024, foi ainda mais extremo, com um dano total de **NT$ 52,651 bilhões**, sendo que os tufões representaram **98,88%**, quase todos causados pelos três tufões (Kaimi, Santuaro e Kangrui). [^13a]
 
-Com a melhoria das infraestruturas de eletricidade e abastecimento de água, a geração dos 30 e poucos anos quase não viveu cortes de energia por tufão, esta memória coletiva está a fraturar-se rapidamente entre gerações. Mas o fenómeno de supermercados varridos nos dois dias antes do tufão nunca desapareceu. A eficácia do sistema de licença por tufão pode ser discutida, mas o macarrão de tufão é a língua que toda a gente entende.
+No tufão Danas em 2025, o dano agrícola foi de **NT$ 2,5 bilhões**: Tainan teve mais (NT$ 929 milhões), com perdas de banana de NT$ 229 milhões, 445.000 galinhas morreram e **2.454 postes foram danificados**, um recorde histórico. [^13b]
 
-> **📝 Nota do curador**
+Banana, mamão, laranja e broto de bambu são vítimas fixas dos tufões todos os anos. Pingtung, Chiayi, Yunlin e Tainan são mapas de áreas afetadas repetidamente. Os agricultores desses condados já sabem o resultado antes do anúncio do feriado. No mesmo momento em que é emitido o aviso de fechamento, eles estão amarrando caules de banana com fita agrícola, ou puxando cestos de ostras para a costa, ou simplesmente parados na beira do campo esperando.
+
+Este dano não entra no cálculo diário visível do PIB, mas é o rosto mais ignorado da discussão sobre feriado por tufão.
+
+## Tufão Macarrão, Abastecimento de Repolho: Outro Tipo de Sistema
+
+Além deste sistema oficial, os taiwaneses operam um acordo civil pré-tufão.
+
+O profissional de imagem Li Youzong (李又宗) disse que, trinta anos atrás, o tufão quase sempre vinha acompanhado de falta de água e eletricidade. Na noite anterior ao tufão, as mães encheiam a banheira, enchem os dispensadores de água, vão às mercearias comprar pilhas e velas; as avós vão aos mercados para estocar alimentos, preparando biscoitos, enlatados e macarrão instantâneo. Depois do apagão, o fogão elétrico não pode ser usado, a família cozinha um caldo de sardinha em lata com tomate, adicionando um ovo, e os vizinhos trocam macarrões instantâneos de diferentes sabores — esta é a origem do "macarrão de tufão". Ele disse que esse hábito está "gravado em nossos ossos, é um símbolo de ter vivido". [^15]
+
+De acordo com uma análise da United News Network (聯合新聞網) no _Online Temperature Gauge_ sobre o volume online nos últimos dois anos (2023-2025), os itens mais procurados antes do tufão são arroz e macarrão, seguidos por macarrão instantâneo em quarto lugar e água potável em sexto. A frase "estoque de grãos cheio = sensação de segurança cheia" captura precisamente uma lógica mais antiga: não confiar em nenhum sistema para te proteger, proteja-se primeiro. [^16]
+
+Com a melhoria da infraestrutura elétrica e hídrica, os alunos do oitavo e nono ano raramente passam por apagões causados por tufões, e essa memória coletiva está rapidamente se desfazendo entre gerações. Mas o fenômeno de supermercados esvaziados dois dias antes do tufão nunca desapareceu. As pessoas podem discutir a eficácia do sistema de feriado por tufão, mas o macarrão de tufão é uma linguagem que todos entendem.
+
+> **📝 Nota do Curador**
 >
-> O sistema oficial de licença por tufão e a cultura civil do macarrão de tufão são duas respostas para o mesmo problema. O primeiro tenta gerir o impacto do tufão através de lei e decisão administrativa; o segundo contorna diretamente qualquer sistema, estocando alimentos em troca de sensação de segurança. As duas respostas coexistem, mostrando que a memória dos taiwaneses sobre o tufão é mais profunda do que a confiança em qualquer sistema.
+> O sistema oficial de feriado por tufão e a cultura do "macarrão de tufão" são duas respostas para o mesmo problema. O primeiro tenta gerenciar o impacto do tufão através da lei e decisão administrativa; o segundo ignora qualquer sistema, trocando segurança por estocagem de alimentos. A coexistência dessas duas respostas mostra que a memória dos taiwaneses sobre os tufões é mais profunda do que a confiança em qualquer sistema.
 
 ---
 
-## O avesso da licença por tufão: por que há quem diga "não suspendam"
+## O Reverso do Feriado por Tufão: Por Que Alguns Dizem "Não Conceder"
 
-"A presidente da Associação 333, Lin Po-feng, diz que um dia de licença por tufão custa 315 mil milhões" — esta frase sai todos os anos na época de tufões, por trás está uma posição do mundo empresarial: a licença por tufão é um luxo, Taiwan é uma economia orientada para a exportação, a fábrica parada um dia é prejuízo, o cliente não espera, a encomenda foge.
+A afirmação de "NT$ 31,5 bilhões perdidos em um dia", feita pelo presidente da Três-Três Associação (三三會), é usada para discussão antes e depois de cada temporada de tufões, baseada em uma perspectiva do setor empresarial: o feriado por tufão é um luxo; Taiwan tem uma economia orientada para a exportação, e parar uma fábrica por um dia é uma perda, os clientes não podem esperar, e os pedidos são perdidos.
 
-Esta posição não está errada, mas escolheu uma aritmética que lhe convém. Na mesma aritmética, não estão os 81% que comparecem em dia de tufão, não estão os 37,7% que não recebem nada, não estão aqueles que, de guarda-chuva na mão, pisando água acumulada, caminham para o mercado grossista.
+Essa perspectiva não está errada, mas ela escolhe um cálculo que lhe é favorável. No mesmo cálculo, faltam os trabalhadores que compareceram ao trabalho em dia de tufão (os 81%), as pessoas que não receberam nada (os 37,7%), e os vendedores ambulantes que caminham sob guarda-chuvas ou pisam na água para ir ao mercado atacadista.
 
-O Japão segue outro caminho: em algumas regiões, a licença por tufão é acionada automaticamente após a Agência Meteorológica emitir alerta especial, os governos locais executam segundo o padrão, não é decisão discricionária de políticos. O mecanismo de Hong Kong é mais direto: hasteado o sinal n.º 8, várias instituições acionam automaticamente procedimentos de suspensão de trabalho e aulas, sem necessidade de anúncio individual do chefe.
+A abordagem japonesa é um caminho diferente: em algumas regiões, o feriado por tufão é acionado automaticamente após a emissão de um alerta especial pelo Centro Meteorológico Nacional, e os governos locais executam com base nos padrões, não em decisões individuais de políticos. O mecanismo de Hong Kong é mais direto: ao ser içado o sinal vermelho (sinal 8), as várias instituições iniciam automaticamente o procedimento de suspensão de trabalho e aulas, sem a necessidade de um chefe anunciar individualmente.
 
-O sistema de Taiwan é misto: há condições legais de gatilho, mas a decisão final cabe ao magistrado ou presidente de câmara. Este desenho preserva a flexibilidade local, mas também preserva o espaço para julgamento político. Quais localidades se beneficiam, quais continuam a trabalhar, decide-se silenciosamente neste espaço a cada vez.[^14a]
+O sistema de Taiwan é híbrido: possui condições de gatilho legais, mas a decisão final está com os prefeitos e governadores. Este design preserva a flexibilidade local e também deixa espaço para julgamento político. Quem se beneficia em cada lugar, e quem continua trabalhando, é silenciosamente decidido dentro desse espaço. [^14a]
 
-## O Changhua de 2001 e o regulamento de 2026
+## Changhua de 2001 e as Regulamentações de 2026
 
-Após a morte em serviço da professora Hsu Pi-lan, o governo de facto agiu. Mas entre "agiu" e "mudou" há uma distância silenciosa.
+Após a morte da professora Xu Bi-lan, o governo agiu. Mas entre "agir" e "mudar", existe uma distância silenciosa.
 
-O quadro regulamentar foi erguido, os critérios de decisão clarificados, o procedimento de anúncio pelos magistrados e presidentes de câmara tornado mais público. Contudo, em 2026, quando o tufão chega, os funcionários do comércio por grosso e retalho continuam a sair no mesmo tufão, os trabalhadores migrantes continuam a ser obrigados a comparecer sem receber notificação, 37,7% dos trabalhadores continuam a não receber absolutamente nenhum salário.
+O quadro regulatório foi estabelecido, os padrões de decisão foram esclarecidos, e o processo anunciado pelos prefeitos e governadores se tornou mais público. No entanto, hoje em 2026, um tufão chega, e os funcionários do varejo continuam saindo para trabalhar sob o mesmo tufão; os migrantes ainda são forçados a trabalhar sem receber aviso, e 37,7% dos trabalhadores ainda não recebem salário algum.
 
-O ponto de partida do sistema foi a morte de uma professora. Mas a fronteira da mudança do sistema sempre parou na fronteira do setor público e dos escritórios formais.
+O ponto de partida do sistema foi a morte de uma professora. Mas a fronteira da mudança do sistema sempre parou na fronteira das agências públicas e escritórios formais.
 
-A professora Hsu Pi-lan era professora de escola pública, era um dos grupos que o sistema acabou por proteger — precisamente porque ela morreu, os professores posteriores passaram a ter proteção regulamentar mais clara em dias de tufão. A sua história entrou depois nas explicações de política, nos relatórios dos media, nos materiais didáticos de prevenção de desastres das escolas.
+A professora Xu Bi-lan era uma professora de escola pública, um dos grupos que o sistema protegeu ao final — justamente por causa de sua morte, os professores posteriores tiveram proteção regulatória mais clara em dias de tufão. Sua história foi posteriormente incluída nas explicações políticas, escrita nos relatórios da mídia e inserida no material didático de prevenção de desastres das escolas.
 
-Mas todos os verões, no momento em que se abre o telemóvel e se vê o anúncio de suspensão, esses 81% de pessoas não estavam à espera desta notificação.[^17]
+Mas a cada verão, quando se abre o celular para ver o anúncio do fechamento, aqueles 81% não estão esperando por este aviso. [^17]
 
-## Leitura complementar
+## Leitura Complementar
 
-- [Tufão](/pt/nature/typhoons-in-taiwan) — Do povo ancestral de Penghu a testemunhar furacões na era Qing até à aldeia de Xiaolin em 2009, quatrocentos anos de convivência de Taiwan com os tufões
-- [Feriados nacionais](/pt/society/national-holidays) — A história política dos dias vermelhos no calendário, uma visão institucional de "de quem é a licença, de quem é o turno"
-- Business Weekly〈A licença por tufão realmente agrada os eleitores de pequenas felicidades? Estatísticas mostram: só acertar a licença funciona〉— Análise quantitativa de ciência política sobre a decisão de licença por tufão
-- Coolabour〈Chega a época de tufões, licença remunerada por desastre natural legislada para quando?〉— A perspetiva laboral na defesa da legislação da licença por tufão
+- [Tufão](/pt/nature/typhoons-in-taiwan) — Uma visão panorâmica de quatrocentos anos em que os povos nativos da ilha Penghu testemunharam furacões desde a Dinastia Qing até o vilarejo Xiaolin em 2009.
+- [Feriado Nacional](/pt/society/national-holidays) — História política dos dias vermelhos no calendário, olhando "de quem é o feriado e de quem é o trabalho" sob uma perspectiva sistêmica.
+- Revista Comercial〈O Feriado por Tufão Realmente Agrega Satisfação ao Eleitor Cético? Os Resultados Estatísticos Mostram: Só se for bem dado〉— Análise quantitativa da decisão do feriado por tufão.
+- UOLNet〈Aproximação da Temporada de Tufões, O que é a Legislação de Feriado Desastroso Pago?〉— Perspectiva dos trabalhadores sobre a iniciativa legislativa do feriado por tufão.
 
 ## Referências
 
-[^1]: Storm Media,〈A "licença por tufão" surgiu assim: há 24 anos uma tragédia mudou o pensamento de prevenção de desastres de Taiwan〉,https://www.storm.mg/articles/1080271
+[^1]: Wind Media (風傳媒), 〈"O Feriado por Tufão" Surgiu Assim: Uma Tragédia de 24 Anos Mudou o Pensamento de Prevenção de Desastres em Taiwan〉, https://www.storm.mg/articles/1080271
 
-[^2]: Wind Life,〈Por que existe a "licença por tufão"? Tudo porque ela morreu em serviço há 23 anos〉,https://new.storm.mg/lifestyle/5265333
+[^2]: Wind Life (風生活), 〈Por Que Existe um "Feriado por Tufão"? Tudo Por Causa Dela Ter Morrido Há 23 Anos〉, https://new.storm.mg/lifestyle/5265333
 
-[^3]: Wikipédia,〈Regulamento de Suspensão de Trabalho e Aulas em Caso de Desastres Naturais〉,https://zh.wikipedia.org/wiki/天然災害停止上班及上課作業辦法
+[^3]: Wikipédia, 〈Regulamento para Suspensão de Trabalho e Aulas em Caso de Desastres Naturais〉, https://zh.wikipedia.org/wiki/天然災害停止上班及上課作業辦法
 
-[^4]: Business Weekly,〈A licença por tufão realmente agrada os eleitores de pequenas felicidades? Estatísticas mostram: só acertar a licença funciona〉,https://www.businessweekly.com.tw/focus/blog/20743; ver também Hua Yi Online Library,〈Estudo sobre a decisão de licença por tufão〉,https://www.airitilibrary.com/Article/Detail/15618080-N202405300006-00002
+[^4]: Revista Comercial (商業周刊), 〈O Feriado por Tufão Realmente Agrega Satisfação ao Eleitor Cético? Os Resultados Estatísticos Mostram: Só se for bem dado〉, https://www.businessweekly.com.tw/focus/blog/20743; Ver também Hua Yi Online Library (華藝線上圖書館), 〈Estudo sobre a Decisão do Feriado por Tufão〉, https://www.airitilibrary.com/Article/Detail/15618080-N202405300006-00002
 
-[^5]: The Critical Review Network,〈De 2001 até hoje apenas 14 vezes Taiwan inteira suspendeu por tufão〉,https://www.thenewslens.com/article/205647; iBuyRanking,〈Ranking de probabilidade de licença por tufão nos vários condados e cidades de Taiwan nos últimos 10 anos〉,https://ibuyranking.blogspot.com/2024/10/typhoon-day.html
+[^5]: Key Opinion Network (關鍵評論網), 〈Apenas 14 Vezes em Taiwan de 2001 até Hoje Todo o País Teve Feriado por Tufão〉, https://www.thenewslens.com/article/205647; iBuyRanking, 〈Classificação da Probabilidade de Feriado por Tufão por Condado em Taiwan nos Últimos 10 Anos〉, https://ibuyranking.blogspot.com/2024/10/typhoon-day.html
 
-[^6]: Taiwan Epoch Times,〈Sondagem: 8 em cada 10 trabalhadores já compareceram em dia de tufão, cinco setores sofrem〉,https://epochtimes.com.tw/n445585/調查-8成勞工曾颱風天到班-五大行業好辛勞
+[^6]: Taiwan Great Epoch (台灣大紀元), 〈Pesquisa: 80% dos Trabalhadores Foram ao Trabalho em Dia de Tufão; Os Cinco Setores São Muito Trabalhadores〉, https://epochtimes.com.tw/n445585/調查-8成勞工曾颱風天到班-五大行業好辛勞
 
-[^7]: FTNN News,〈Sondagem: na licença por tufão cinco em cada dez patrões pagam salário integral〉,https://www.ftnn.com.tw/news/467148
+[^7]: FTNN News Network (FTNN 新聞網), 〈Pesquisa: 50% dos Chefes Pagaram Salário Integral no Feriado por Tufão〉, https://www.ftnn.com.tw/news/467148
 
-[^8]: CTWANT,〈Licença por tufão tem 8 em cada 10 trabalhadores a comparecer normalmente! 5 setores de má sorte expostos〉,http://www.ctwant.com/article/440391; Apple Daily,〈Vento e chuva não impedem de ir trabalhar! 4 setores de partir o coração expostos〉,https://tw.nextapple.com/life/20250822/C00DE9809B179D8E59BEADA06473B111
+[^8]: CTWANT, 〈80% dos Trabalhadores Foram ao Trabalho em Dia de Tufão! Os Cinco Setores Infelizes Revelados〉, http://www.ctwant.com/article/440391; Yipin News Network (壹蘋新聞網), 〈Indiferente à Chuva! Quatro Setores Dolorosos Expostos〉, https://tw.nextapple.com/life/20250822/C00DE9809B179D8E59BEADA06473B111
 
-[^9]: 21manpower,〈Trabalhadores migrantes estrangeiros｜Chegada de tufão pede reforço de medidas de segurança laboral〉,https://www.21manpower.com.tw/migrant-workers/2295/
+[^9]: 21manpower, 〈Migrantes Estrangeiros | Pedido de Reforço das Medidas de Segurança em Caso de Tufão〉, https://www.21manpower.com.tw/migrant-workers/2295/
 
-[^10]: Ministério do Trabalho,〈Regulamentação relativa à licença por tufão〉,https://www.mol.gov.tw/1607/1632/1640/33257/post; Coolabour,〈Chega a época de tufões, licença remunerada por desastre natural legislada para quando?〉,https://www.coolloud.org.tw/node/97010
+[^10]: Global Information Network of the Ministry of Labor (勞動部全球資訊網), 〈Regulamentos Relacionados ao Feriado por Tufão〉, https://www.mol.gov.tw/1607/1632/1640/33257/post; UOLNet (苦勞網), 〈Aproximação da Temporada de Tufões, O que é a Legislação de Feriado Desastroso Pago?〉, https://www.coolloud.org.tw/node/97010
 
-[^11]: SETN,〈Cálculo de prejuízo de 315 mil milhões na licença por tufão〉,https://setn.com/News.aspx?NewsID=1541010; ETtoday Finance Cloud,https://finance.ettoday.net/news/2828678
+[^11]: Sanli News Network (三立新聞網), 〈Cálculo da Perda do Feriado por Tufão em NT$ 31,5 Bilhões〉, https://setn.com/News.aspx?NewsID=1541010; ETtoday Financial Cloud (ETtoday財經雲), https://finance.ettoday.net/news/2828678
 
-[^12]: NOWnews,〈Dados atualizados! Huang Yang-ming: um dia de licença por tufão, Taiwan perde mais de "este número" de novos dólares taiwaneses〉,https://www.nownews.com/news/6480095
+[^12]: NOWnews Today News (NOWnews今日新聞), 〈Atualização de Dados! Huang Yangming: Um Dia de Feriado por Tufão Custa Mais que "Este Número" em NT$〉, https://www.nownews.com/news/6480095
 
-[^13]: The Critical Review Network,〈De 2001 até hoje apenas 14 vezes Taiwan inteira suspendeu por tufão〉,https://www.thenewslens.com/article/205647; iBuyRanking,〈Ranking de probabilidade de licença por tufão nos vários condados e cidades de Taiwan nos últimos 10 anos〉,https://ibuyranking.blogspot.com/2024/10/typhoon-day.html
+[^13]: Key Opinion Network (關鍵評論網), 〈Apenas 14 Vezes em Taiwan de 2001 até Hoje Todo o País Teve Feriado por Tufão〉, https://www.thenewslens.com/article/205647; iBuyRanking, 〈Classificação da Probabilidade de Feriado por Tufão por Condado em Taiwan nos Últimos 10 Anos〉, https://ibuyranking.blogspot.com/2024/10/typhoon-day.html
 
-[^13a]: Ministério da Agricultura, estatísticas de prejuízo por desastres agrícolas,https://eng.moa.gov.tw/ws.php?id=2502354; Yuan Legislativo,〈Prejuízo por desastres agrícolas nos últimos 10 anos no nosso país〉,https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=33368&pid=185093
+[^13a]: Global Information Network of the Ministry of Agriculture (農業部全球資訊網), Estatísticas de Danos Agrícolas, https://eng.moa.gov.tw/ws.php?id=2502354; Legislative Yuan (立法院), 〈Danos Agrícolas em Taiwan nos Últimos 10 Anos〉, https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=33368&pid=185093
 
-[^13b]: Taipei Times,"Typhoon caused NT$2.5bn losses: MOA",https://www.taipeitimes.com/News/taiwan/archives/2025/07/13/2003840217
+[^13b]: Taipei Times, "Typhoon caused NT$2.5bn losses: MOA", https://www.taipeitimes.com/News/taiwan/archives/2025/07/13/2003840217
 
-[^14]: vocus,〈O sistema de "licença por tufão" de Taiwan: uma zona cinzenta entre prevenção de desastres, administração e política〉,https://vocus.cc/article/69158ba4fd89780001675c23
+[^14]: vocus, 〈O Sistema de "Feriado por Tufão" em Taiwan: Uma Zona Cinzenta Onde Prevenção de Desastres, Administração e Política se Encontram〉, https://vocus.cc/article/69158ba4fd89780001675c23
 
-[^14a]: vocus,〈O sistema de "licença por tufão" de Taiwan: uma zona cinzenta entre prevenção de desastres, administração e política〉,https://vocus.cc/article/69158ba4fd89780001675c23; ver também análise comparativa de políticas de licença por tufão da Business Weekly,https://www.businessweekly.com.tw/focus/blog/20743
+[^14a]: vocus, 〈O Sistema de "Feriado por Tufão" em Taiwan: Uma Zona Cinzenta Onde Prevenção de Desastres, Administração e Política se Encontram〉, https://vocus.cc/article/69158ba4fd89780001675c23; Ver também a análise comparativa da política do feriado por tufão na Revista Comercial (商周), https://www.businessweekly.com.tw/focus/blog/20743
 
-[^15]: UHO Health,〈Dia de tufão "taiwaneses têm hábito de comer macarrão instantâneo?" Ele revela memória comum da geração dos 40 e poucos〉,https://www.uho.com.tw/article-64790.html; Storm Media,〈Dia de tufão lojas assaltadas! Por que "taiwaneses têm hábito de comer macarrão instantâneo"〉,https://storm.mg/lifestyle/5264370
+[^15]: UHO Health Network (UHO優活健康網), 〈"Os Taiwaneses Costumam Comer Macarrão em Dias de Tufão?" Ele Revela Lembranças Compartilhadas de Estudantes do Sétimo Ano〉, https://www.uho.com.tw/article-64790.html; Wind Media (風傳媒), 〈Feiras Lotadas em Dia de Tufão! "Por Que os Taiwaneses Costumam Comer Macarrão"〉, https://storm.mg/lifestyle/5264370
 
-[^16]: United Daily News,〈O que estocar para o tufão? Dez itens essenciais revelados〉,https://udn.com/news/story/7266/8982945
+[^16]: United News Network (聯合新聞網), 〈O que Estocar Antes do Tufão? Os Dez Itens Essenciais Revelados〉, https://udn.com/news/story/7266/8982945
 
-[^17]: Sondagem yes123 Job Bank, citada por Taiwan Epoch Times,https://epochtimes.com.tw/n445585/調查-8成勞工曾颱風天到班-五大行業好辛勞
+[^17]: yes123 Job Bank Survey, citado por Taiwan Great Epoch (台灣大紀元), https://epochtimes.com.tw/n445585/調查-8成勞工曾颱風天到班-五大行業好辛勞
