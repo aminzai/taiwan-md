@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-11T02:46:21+08:00",
-    "zhCommitHead": "2ff5e76b4",
+    "lastUpdated": "2026-10-11T02:52:53+08:00",
+    "zhCommitHead": "54e17f376",
     "totalZh": 1126,
     "activeLanguages": [
       "en",
@@ -52,8 +52,8 @@
       },
       "fr": {
         "total_zh": 1126,
-        "fresh": 1115,
-        "stale": 10,
+        "fresh": 1116,
+        "stale": 9,
         "metadata_stale": 0,
         "missing": 1,
         "orphan": 0
@@ -68,8 +68,8 @@
       },
       "id": {
         "total_zh": 1126,
-        "fresh": 1121,
-        "stale": 2,
+        "fresh": 1122,
+        "stale": 1,
         "metadata_stale": 2,
         "missing": 1,
         "orphan": 0
@@ -108,8 +108,8 @@
       },
       "de": {
         "total_zh": 1126,
-        "fresh": 1123,
-        "stale": 2,
+        "fresh": 1124,
+        "stale": 1,
         "metadata_stale": 0,
         "missing": 1,
         "orphan": 0
@@ -30218,20 +30218,18 @@
         "de": {
           "path": "de/Technology/computex.md",
           "translatedFrom": "Technology/Computex.md",
-          "sourceCommitSha": "46055e4f3",
-          "sourceContentHash": "sha256:f4b0813105283dab",
-          "sourceBodyHash": "sha256:45291b99c4801128",
-          "translatedAt": "2026-09-12T06:45:50.317912+00:00",
+          "sourceCommitSha": "f40273072",
+          "sourceContentHash": "sha256:dd896b223778a319",
+          "sourceBodyHash": "sha256:1cfc73d3ec3aabb4",
+          "translatedAt": "2026-10-10T18:18:43.131581+00:00",
           "translationLastCommit": "09e2394e",
           "translationLastModified": "2026-10-10T23:41:15+08:00",
           "inferred": false,
           "footnoteDefs": 60,
-          "bytes": 71958,
+          "bytes": 72613,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -116220,18 +116218,18 @@
         "fr": {
           "path": "fr/People/ji-lin-lian.md",
           "translatedFrom": "People/季麟連.md",
-          "sourceCommitSha": "",
+          "sourceCommitSha": "4b6d28c54",
           "sourceContentHash": "sha256:e096cf547c4b743c",
           "sourceBodyHash": "sha256:94870d211f5fa515",
-          "translatedAt": "2026-05-13T01:08:41Z",
+          "translatedAt": "2026-10-11T01:05:45+08:00",
           "translationLastCommit": "ca2ceca5",
           "translationLastModified": "2026-10-10T23:40:35+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 34936,
+          "bytes": 30641,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/ji-lin-lian.md",
@@ -153534,8 +153532,8 @@
           "sourceContentHash": "sha256:bb3833c08618e661",
           "sourceBodyHash": "sha256:f7475d29ab35a9a7",
           "translatedAt": "2026-10-11T01:05:39+08:00",
-          "translationLastCommit": "8f2e444f",
-          "translationLastModified": "2026-09-08T09:48:27+08:00",
+          "translationLastCommit": "54e17f37",
+          "translationLastModified": "2026-10-11T02:46:22+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "bytes": 12011,
@@ -153630,20 +153628,18 @@
         "id": {
           "path": "id/Food/ah-po-iron-eggs.md",
           "translatedFrom": "Food/阿婆鐵蛋.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:e1270ee3b6b84325",
-          "sourceBodyHash": "sha256:f4c6330bca417165",
-          "translatedAt": "2026-09-07T23:39:43.375648+00:00",
+          "sourceCommitSha": "f40273072",
+          "sourceContentHash": "sha256:bb3833c08618e661",
+          "sourceBodyHash": "sha256:f7475d29ab35a9a7",
+          "translatedAt": "2026-10-11T01:05:47+08:00",
           "translationLastCommit": "ab72f06d",
           "translationLastModified": "2026-10-10T23:41:59+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "bytes": 12364,
+          "bytes": 12630,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Food/ah-po-iron-eggs.md",
@@ -165056,8 +165052,8 @@
           "sourceContentHash": "sha256:da156bdcc66f3839",
           "sourceBodyHash": "sha256:0ccf3caa8312faf1",
           "translatedAt": "2026-10-11T01:05:39+08:00",
-          "translationLastCommit": "c0e73f55",
-          "translationLastModified": "2026-10-10T23:13:40+08:00",
+          "translationLastCommit": "54e17f37",
+          "translationLastModified": "2026-10-11T02:46:22+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "bytes": 28469,

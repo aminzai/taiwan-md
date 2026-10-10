@@ -1,364 +1,370 @@
 ---
-title: "The Complex Life Festival: Two Medical Students' 'Unsuccessful People's Forum' and a Generation's Five-Year Refusal to Say They Are Good Enough"
-description: "In May 2016, Hsu Hao-ning posted a string of 'eighth-generation' (post-90s) 'people who make life exhausting' on Facebook, and together with classmate Huang Dou-ni (Huang Yen-lin) organized the first 'Unsuccessful People's Forum'. A TCM practitioner and a Western medicine doctor who later went to Harvard rewrote the previous generation's commercially co-opted 'simplicity' into 'complexity', allowing only discussions of growth, not success. Five years later, Hsu Hao-ning's soul remained in Taichung to open a bookstore and ran for city councilor but lost; his assistant looked back and called it 'Hao-ning's masterpiece, sealed here': Is 'unsuccessful' a humble term, or a self-expectation of a generation that is always just a little bit short? "
+title: '複雑な生活フェスティバル：二人の医学生による「未成功者フォーラム」と、自分は十分だと言えない世代の5年間'
+description: '2016年5月、許皓甯（Hsu Hao-ning）はFacebookで「生活を疲れさせている」88年生まれ（1999年前後）の世代をタグ付けし、クラスメートの黃豆泥（Huang Dou Ni）と共に第1回「未成功者フォーラム」を開催しました。一人は中医師、もう一人は後にハーバードへ進んだ西医。彼らは前世代が商業主義に取り込まれた「シンプルさ」を「複雑さ」へと書き換え、「成長については語ってもよいが、成功については語ってはならない」というルールを設けました。5年後、魂は台中に留まり書店を開き、議員選出に敗れましたが、助手はそれを振り返ってこう呼びます。「皓甯の代表作であり、ここに封印されたもの」と。未成功とは謙遜の言葉なのか、それとも、常にあと一歩足りないと感じ続けてしまう世代の自己要求なのでしょうか。'
 date: 2026-06-07
+category: 'Society'
 tags:
   [
-    'Eighth Generation',
-    'Social Innovation',
-    'Taichung',
-    'Youth',
-    'Complex Life Festival',
-    'Hsu Hao-ning',
-    'Huang Dou-ni',
-    'Disappointed Generation',
+    '88年生まれ',
+    'ソーシャルイノベーション',
+    '台中',
+    '青年',
+    '複雑な生活フェスティバル',
+    '許皓甯',
+    '黃豆泥',
+    '厭世世代',
   ]
 subcategory: '世代與社會'
 author: 'Taiwan.md'
-category: 'Society'
-readingTime: 12
+featured: false
 lastVerified: 2026-06-07
 lastHumanReview: false
-translatedFrom: 'Society/複雜生活節.md'
-sourceCommitSha: ''
-sourceContentHash: 'sha256:288b132714804aff'
-sourceBodyHash: 'sha256:f51e2d5a46bf8d87'
-translatedAt: '2026-06-14T00:35:00+08:00'
+researchReport: 'reports/research/2026-06/複雜生活節.md'
 image: '/article-images/society/complex-festival-onsite-program.webp'
 imageCredit: '黃柏鈞攝影 / 複雜生活節'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://medium.com/泥巴第三放送局/當我們討論複雜生活節的視覺設計-我們在討論什麼-81512c97a6c'
-featured: false
+rationale:
+  why_this_hook: '從病理切片展的 origin + 兩個醫學生 + 「未成功者」命名切入，核心矛盾鎖在兩位發起人的分岔——靈魂（許皓甯）留邊陲、助手（黃豆泥）去哈佛——以及許皓甯「你永遠就差那麼一點點」這句把「未成功」從謙詞還原成世代自我要求。'
+  whats_excluded: '邀請制（臉書標註）天然排除真正邊緣的八年級——移工、工廠工人、沒上大學、沒社群帳號可被標註的人；本文點出此結構但不展開為獨立批判章（活動太 niche 無公開批評市場，per 研究 §G）。簡單生活節只當對照樣板、不展開其自身史。參與者後續無系統追蹤，只舉黃豆泥/唐鳳/劉安婷個案。吳哲宇是 FAB DAO 共同發起人、Taiwan.md 創造者，只在黃豆泥去向處輕點一句並 cross-link，不中心化、不煽情。'
+  where_it_hedges: '第一屆人數寫「兩三百人」（250 有一手源 / 350 僅搜尋摘要，不寫死）；第六屆寫「實質終止於 2020」（V 閉幕預告但無辦成記錄，非官方停辦公告）；加州旅館主題詮釋部分靠歌詞邏輯推論（PanX 原文憑證過期）；許皓甯 1988 為七年級末卻辦八年級聚會，點出張力但不杜撰其自我定位。第三屆其他講者名單採信 cowrite30/siyuchu 現場文，未一一獨立交叉驗證。'
+  whos_pushing_back: '精英化批評——「未成功者」其實是有文化資本、後來進精英位置的「未來成功者」（在場觀察者朱思瑜自問「為什麼我要在這裡假裝成功人士？」）；同溫層 / 台中中部圈地緣排除南東部；niche 規模五年約一千五百人，影響力相對雜學校 20 萬人次有限（但屬刻意設計）。'
+relatedDiary: ['2026-06-07-153821-複雜生活節']
+translatedFrom: 'Society/複雜生活節.md'
+sourceCommitSha: 'dd82dc4a6'
+sourceContentHash: 'sha256:288b132714804aff'
+sourceBodyHash: 'sha256:f51e2d5a46bf8d87'
+translatedAt: '2026-10-10T17:08:08.802015+00:00'
 ---
 
-> **30-Second Overview:** The Complex Life Festival was a youth gathering held in Taichung for five editions from 2016 to 2020. The founders were two classmates from China Medical University who were supposed to become doctors: Hsu Hao-ning from the Department of Traditional Chinese Medicine (TCM), and Huang Yen-lin (online alias Huang Dou-ni) from the Department of Western Medicine. The name playfully inverts the "Simple Life Festival" of the Jonathan Lee generation, positioning participants as "unsuccessful people," with two to three hundred attendees per edition, allowing only discussions of "growth" and forbidding discussions of "success" [^1]. Five years later, the main organizer Hsu Hao-ning stayed in Taichung as a TCM doctor, opened a bookstore, and lost his election for city councilor; his visual assistant Huang Dou-ni abandoned medicine for cryptocurrency and became a Democracy Visiting Scholar at the Harvard Kennedy School in 2025 [^2]. A forum that rejected "success" saw its organizers and attendees eventually walk into various forms of success, and its sharpest question remains what Hsu Hao-ning asked on stage: "Do you want to die with regret, or live by giving up?" [^3]
+> **30秒概覽：** 「複雑生活節（ふくざつせいかつせつ）」は、2016年から2020年にかけて台中で開催された計5回にわたる若者の集いである。発起人は、本来であれば医師になっていたはずの中国医薬大学の同級生二人、中医学科の許皓甯（きょ・こうねい／シュー・ハオニン）と、西医学科の黃彥霖（こう・げんりん／ファン・イェンリン、ネットネーム：黄豆泥［mashbean］）である。その名称は、李宗盛（り・そうせい／リー・ツォンション）世代の「簡單生活節」をいたずらっぽく逆転させたものであり、参加者を「未成功者」と位置づけている。毎回の参加者は200〜300人ほどで、「成長」について語ることは許されるが、「成功」については語ることが禁じられていた[^1]。5年後、主宰者の許皓甯（シュー・ハオニン）は台中に留まり中医師として活動しながら書店を開き、市議会議員選挙に立候補して落選した。一方、ビジュアル・アシスタントの黃豆泥（ファン・イェンリン）は医学の道を捨てて暗号資産の世界へ進み、2025年にはハーバード・ケネディ・スクールの民主主義フェローとなった[^2]。 「成功」を拒絶したフォーラムであったが、主催者も参加者も、その後それぞれが何らかの「成功」へと歩みを進めている。そして、このイベントが投げかけた最も鋭い問いは、許皓甯（シュー・ハオニン）がステージ上で放ったあの言葉である。「後悔しながら死にたいか、それとも生きながら諦めたいか？」[^3]
 
-## A Festival Grown Beside Pathology Slides
+## 病理切片の傍らに芽生えた祭典
 
-In late 2015, in Taichung, a row of microscopic images hung on the walls of the China Medical University Art Center. Cells of breast cancer, inflamed tissues, and necrotic slices were magnified, colored, and framed into an exhibition named "Moaning with Illness: Aesthetics of Pathology · Pathology Slide Image Exhibition" [^4].
+2015年末、台中。中国医薬大学芸術センターの壁には、顕微鏡下の画像が並べて掛けられていた。乳がんの細胞、炎症を起こした組織、壊死した切片。それらは拡大され、着色され、額装され、「有病呻吟：病態美学・病理切片画像展」[^4]という名のもとに展示されていた。
 
-The curators were sixteen medical students. Their message was simple: Things viewed as "ill" can have beauty when viewed from a different distance and light. The curatorial statement on the展板 was direct: the pathological appearance under a microscope can still be beautiful [^4]. This exhibition did not end after being held; it later toured to the National Museum of Natural Science, National Taiwan University, and Tzu Chi. It transformed from a small exhibition in a university art center into something that moved and grew on its own. Among the list of sixteen names, two names would repeatedly appear together next: Huang Yen-lin and Hsu Hao-ning.
+キュレーターを務めたのは、16人の医学部の学生たちである。彼らが伝えたかったことは非常にシンプルだった。「病」として扱われるものも、視点を変え、光を変えれば、それ自体に美しさが宿るということだ。展示パネルに記されたコンセプトは率直で、顕微鏡下の病的な様相であっても、美しくなり得るというものだった[^4]。この展覧会は、開催して終わりではなかった。その後、国立自然科学博物館や台湾大学、慈済へと巡回し、学内の芸術センターでの小さな展示から、自ら移動し、成長していく存在へと変わっていった。16人のリストの中には、後に繰り返しセットで登場することになる2つの名前がある。黄彥霖（こう・げんりん／ホアン・イェンリン）と、許皓甯（きょ・こうねい／シュー・ハオニン）である。
 
-Half a year later, these two organized the Complex Life Festival. They moved the idea of "seeing beauty in pathology from a different distance" from under the microscope to human beings: Is there a look to "unsuccess" when viewed from a different distance?
+半年後、この二人は「複雑生活節」を開催した。「視点を変えて病的なものを見れば美しさもある」という着想を、顕微鏡の下から人間へと移し替えたのだ。「『未成功』という状態も、視点を変えて見れば、それなりの姿があるのではないか」と。
 
-It is necessary to place these two people in different positions, because later stories often mixed them up. Huang Yen-lin studied Western Medicine (Medical Department); Hsu Hao-ning studied TCM. Same school, different departments, two completely different trainings: one learned about slides, images, and resident physician shifts; the other learned about pulse diagnosis, prescriptions, and the twelve meridians. One later became a resident physician at Taipei Veterans General Hospital; the other later opened a TCM clinic in Beitou, Taichung. They coined a term for this state called "Edge of the Department" (Xi Bian): being an outsider in their own department, with minds not where white coats should go [^5]. This self-description is important; it speaks of an active stance of stepping to the edge. The white coat is the center drawn by the world for medical students; they refused to stand there.
+まず、この二人を別々の場所に置いておく必要がある。なぜなら、その後の物語において、人々は常に彼らを混同させてしまうからだ。黄彥霖は西洋医学を学ぶ医学部であった。対して許皓甯は中医学部であった。同じ大学でありながら、異なる学部、全く異なる訓練を受けていた。一方は切片、画像、そして研修医の当直を学び、もう一方は脈診、処方、十二経絡を学んだ。一方は後に台北栄総で研修医となり、もう一方は台中の北屯で中医学のクリニックを開いた。彼らは自らのこの状態を「系邊（けいぺん／シィービェン）」と名付けた。自分の学部にいながら、心は白衣が居るべき場所にはない、いわば「学部の端っこ」にいる者たちだ[^5]。「系邊」という自称は重要である。それは、自ら進んで境界線（エッジ）に立つという姿勢を示しているからだ。白衣は世界が医学生のために描いた「中心」であるが、彼らはあえてそこに留まろうとはしなかった。
 
-In May 2016, Hsu Hao-ning tagged a string of names on Facebook. The tagging conditions were strange: he looked for people fitting the keywords "Eighth Generation, continuous workaholic, repeated practice, edge of the department, bringing friends brings infinite hope" [^1]. This string of keywords itself was an invisible entry specification: it didn't ask about grades or titles, but whether you had the drive to "make life exhausting." About three hundred comments flooded the post; after fermenting for forty days, the first edition was organized. A gathering that would last five years started with a Facebook post and forty days of comment fermentation, without a venue, budget, or sponsors, only a group of people who couldn't stay in their own departments recognizing each other.
+2016年5月、許皓甯はFacebookで一連の名前をタグ付けした。その条件は奇妙なものだった。彼が探していたのは、「8年生（大学4年生相当）、継続的なワーカホリック、反復の実践者、系邊、連れてきた友人に無限の希望を与える者」といったキーワードに合致する人々であった[^1]。このキーワード自体が、目に見えない入場資格となっていた。成績や肩書きは問わない。問われるのは、「生活をあえて疲れさせるほどに突き詰める」情熱があるかどうかだ。投稿には約300件のコメントが寄せられ、40日間の議論を経て、第1回目が開催されることとなった。その後5年間にわたって続く集まりの始まりは、たった一つのFacebookの投稿と40日間のコメントの積み重ねであった。会場も、予算も、スポンサーもなく、ただ自分の学部に居場所を見出せない者たちが、互いを見つけ出したのである。
 
-The theme of the first edition was the "Unsuccessful People's Forum."
+第1回のテーマは、「未成功者フォーラム」であった。
 
-## If Simple Life Festival is Calm and Focused, Then We Call It Complex
+## シンプルライフ・フェスティバルが「平穏と集中」なら、私たちは「複雑」を名乗ろう
 
-To understand the joke of this name, you must first know who it is talking to.
+この名前のジョークを理解するには、まずそれが誰に向けて語られているかを知る必要がある。
 
-"Simple Life Festival" is known by almost every Taiwanese. Founded in 2006 by Jonathan Lee, Chang Pei-jen, and Ma Tian-zong from the Rollys music circle, the main slogan was "Do what you like, make what you like valuable," with a temperament of "calm and focused" [^6]. It grew from 30,000 attendees in the first edition to a scale of 60,000 to 100,000 later, becoming a landmark of Taiwanese literati consumer aesthetics. Buying a ticket, entering the venue, listening to songs and drinking craft beer on the grass was a carefully designed "simplicity." Ten years later, for its 20th anniversary, it invited Wu Bai and Jonathan Lee to perform on stage [^6], having already lived itself into a Taiwanese lifestyle brand.
+「シンプルライフ・フェスティバル（簡單生活節）」は、ほぼ全ての台湾人が耳にしたことがあるだろう。2006年に李宗盛（リ・ソウセイ／リー・ゾンション）、張培仁（チャン・ペイレン／ジャン・ペイレン）、馬天宗（マ・テンソウ／マー・ティエンゾン）といった滾石系のミュージシャンたちによって開催された。メインスローガンは「好きなことをし、好きなことに価値を持たせよう」であり、その空気感は「平穏かつ集中」したものだった[^6]。初回の3万人規模から、後に6万〜10万人規模へと成長したこのフェスティバルは、台湾の文青（文化系若者）の消費美学におけるランドマークとなった。チケットを買え、会場に入り、芝生の上で音楽を聴きながらクラフトビールを飲む――それは精巧にデザインされた「シンプルさ」の一形態である。開催から10年後の20周年には、伍佰（ウー・バン／ウー・バイ）と李宗盛が同じステージに立つという豪華な演出も実現し[^6]、すでに台湾のライフスタイル・ブランドとしての地位を確立していた。
 
-Hsu Hao-ning flipped this name directly. His version was: "If the people going to Simple Life Festival are those yearning for a simple and beautiful life, then we have a group of workaholics who always make life exhausting, so let's call it Complex Life Festival" [^1].
+許皓甯（キョ・ゴウネイ／シュー・ハオニン）は、この名前をそのままひっくり返した。彼のバージョンはこうだ。「もしシンプルライフ・フェスティバルに行くのが『シンプルで美しい生活を渇望する人々』だとしたら、私たちのほうには『常に生活を疲れさせてしまうワークホリック（仕事中毒）な人々』がいる。だから、ここは『複雑ライフ・フェスティバル』と呼ぶことにしましょう」[^1]。
 
-Underneath this witty remark is a generation claiming the label stuck to them.
+この軽妙な言葉の裏側には、ある世代が自分たちに貼られたラベルを引き受ける姿がある。
 
-> 📝 **Curator's Note**
-> The common narrative says Complex Life Festival is "a pure gathering of young people resisting commercialization." But this framework is too convenient, missing the sharper edge. What this group truly pushed back against was the "what life should look like" defined by the previous generation for them. The "simplicity" of Simple Life Festival is an elegant threshold: it assumes you are already settled and have the leisure to pursue simplicity. But this group hasn't even achieved settlement. Picking up words with originally derogatory meanings like "complex," "unsuccessful," "workaholic," and "edge of the department" to call themselves is saying: We don't even have the qualification to be co-opted by your aesthetics, so let's name it ourselves.
+> 📝 **キュレーター・ノート**
+> 一般的な見方では、複雑ライフ・フェスティバルは「若者が商業化に対抗するための純粋な集い」と言われる。しかし、その枠組みはあまりに手慣れすぎていて、かえって核心を突く鋭さを欠いている。この人々が真に跳ね返そうとしているのは、前世代が定義した「生活とはこうあるべきだ」という規範である。シンプルライフ・フェスティバルの「シンプルさ」とは、一種のハードルを伴う優雅さだ。それは、あなたがすでに生活を整え、シンプルさを追求する余裕を持っていることを前提としている。しかし、この世代の人々は、生活を整えることすらまだできていないのだ。「複雑」「未成功」「ワークホリック」「成績下位層（系邊）」といった、本来は蔑称に近い言葉をあえて自称として拾い上げることは、こう宣言しているのだ。「私たちはあなたの美学に回収される資格さえない。ならば、自分たちで名前を決めよう」と。
 
-This generation has many names. In 2017, journalist Wu Cheng-hsien wrote _The Disappointed Generation_ (Ya Shidai), defining them as "twenty to thirty-four years old, born with mice in their mouths and possessing the best qualities Taiwan has ever seen, yet facing low wages, poverty, and an invisible future" [^7]. The most piercing half of this definition is "possessing the best qualities Taiwan has ever seen." The generation with the highest education, best foreign languages, and most proficient tool usage is simultaneously the generation with regressing starting salaries and an invisible future; these two things are squeezed into the same group of people.
+この世代には多くの名前がある。2017年、ジャーナリストの吳承紘（ゴ・ショウコウ／ウー・チェンホン）は著書『厭世代（アンチ・ジェネレーション）』の中で、彼らを「20歳から34歳まで、マウスを握って生まれ、台湾史上最も優れた素養を持ちながらも、低賃金、貧困、そして見えない未来という困難に直面している人々」と定義した[^7]。この定義の中で最も刺さる部分は、「台湾史上最も優れた素養を持っている」という一節だ。学歴は最高で、語学力も高く、ツールを使いこなす能力にも長けた世代でありながら、同時に初任給は下がり続け、未来が見えない世代でもある。この二つの矛盾が、同一のグループの中に押し込められているのだ。
 
-Going further back, in 2011, the Taiwan Labor Front published _The Collapsed Generation_ (Beng Shidai), discussing the same group facing corporatization and impoverishment. Earlier was "22K," referring to the Ministry of Education's internship program for college graduates in response to the 2008 financial crisis from 2009 to 2011, with a monthly salary of 22,000 NTD and over 30,000 slots; the program's original intent was to give graduates something to do, but it later became an anchor, with enterprises using it as a reference price when hiring, pushing down this generation's starting salaries for several years [^8].
+さらに遡れば、2011年に台湾労働者陣線が発表した『崩壊世代（崩世代）』では、同じ人々が直面している財閥化と貧困化について論じられた。さらに前には「22K」という言葉がある。これは2009年から2011年にかけて、教育部（教育部門）が金融危機への対応として打ち出した大学卒業生向けのインターンシップ制度を指す。月給2万2千元（NT$22,000）で3万人以上の枠を用意したものだ。本来の意図は卒業生にまず仕事を与えることだったが、後にこれが指標となってしまい、企業が採用時の参考価格として利用することで、この世代の初任給を数年間にわたって押し下げる結果となった[^8]。
 
-Losers, Strawberries, Disappointed Generation, Collapsed Generation, 22K. What Complex Life Festival did was to take these words thrown at them by others, flip them over, and use them. Called a loser, they organized an "Unsuccessful People's Forum"; told they made life exhausting, they called it "Complex." This isn't stubbornness; it's an act of seizing the right to name: I accept the label you gave, but I decide what it means.
+ルーザー（魯蛇）、ストロベリー（草莓）、厭世代、崩世代、22K。複雑ライフ・フェスティバルが行っているのは、他人が投げつけてきたこれらの言葉を受け入れ、それを裏返して使うことだ。「ルーザー」と呼ばれるなら、「未成功者」のためのフォーラムを開催する。「生活を疲れさせている」と言われるなら、「複雑」と名乗る。これは単なる強がりではない。命名権を奪い返すためのアクションなのだ。「君たちが与えたラベルは受け取った。だが、その意味を決めるのは私だ」と。
 
-Years later, the main organizer Hsu Hao-ning himself looked back at this, with a title perfectly annotating the whole gathering: It's too hard to be simple, let's explore complexity together [^29].
-
-<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-   <iframe src="https://www.youtube.com/embed/oA-7hqhSM8c" title="Super Wall Tuesday × Complex Life Festival × Hsu Hao-ning: It's Too Hard to Be Simple, Let's Explore Complexity Together" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-_Hsu Hao-ning talks about Complex Life Festival (Ministry of Education Youth Development Administration "Super Wall Tuesday" series). The video title "It's Too Hard to Be Simple, Let's Explore Complexity Together" perfectly turns the pairing of this gathering with "Simple Life Festival" into its signature._
-
-## A Hotel California You Can Enter But Never Leave
-
-![Complex Life Festival Venue: Two to three hundred young people squeezed in a high-ceilinged industrial-style space in Taichung, sitting on mismatched chairs listening to a speaker share, yellow plastic baskets of Taiwan Beer serving as stage and partitions](/article-images/society/complex-festival-talk-crowd.webp)
-_The Complex Life Festival venue: Two to three hundred people, speakers and audience mixed together, yellow baskets of Taiwan Beer serving as stage and seats. Photo: Complex Life Festival (fair use editorial commentary)._
-
-After the first edition, this gathering was held every May for five years.
-
-The method was special. No host, the boundary between speakers and audience was blurry, often at night on the grass, one exchange could last four hours [^9]. Hsu Hao-ning used the concept of "Stone Soup" to recruit people. It's an old story: several soldiers said they would cook soup with stones, passing villagers brought a handful of salt, I brought a few carrots, and finally, they really cooked a pot of soup. Complex Life Festival operated this way: the organizers only put in one stone and a pot, the content was brought by the people who came.
-
-The first edition had thirty groups of speakers, cutting across the eighth-generation independent creation ecology: college students making presentations, students organizing the NTU Music Festival, the literary review magazine _Secret Reader_, _Poem for You Every Day_ posting a poem on Facebook daily, online course platform Hahow, and the _Yiren_ studio focusing on Southeast Asian migrant workers [^9]. Spreading out this list, you see a small universe grown by Taiwanese youth in 2016: presentations, music, literature, education, new immigrants; none of these are positions mainstream industries care about, but everyone was doing them seriously.
-
-![A speaker stands in front of a projection screen sharing with the audience below, a banner with the Complex Life Festival's pixel dot-matrix font hangs on the background wall, the scene atmosphere is a DIY industrial-style space](/article-images/society/complex-festival-iii-sharing-2018.webp)
-_A speaker shares in front of a projection screen, the wall hangs the Complex Life Festival's iconic pixel dot-matrix banner. The visual language of the whole gathering is a deliberate "amateur feel": not refined, no lighting, like a club orientation rather than a brand event. Photo: Complex Life Festival (fair use editorial commentary)._
-
-The second edition, 2017, was themed "Hotel California." This edition really held the venue in a hotel [^10]. The name comes from the famous lyric of the Eagles' song: You can check out any time you like, but you can never leave. The song originally spoke of a gorgeous yet trapping intoxication; applied to Complex Life Festival, it meant something different—it spoke of a group of people who found kindred spirits in each other, once entering, they couldn't leave, because there was no other place outside where they could speak like this. A metaphor of "entering but never leaving," Huang Dou-ni also used the phrase "The Hotel California that you can enter but never leave was really held in a hotel" in a later visual design article [^10].
-
-By here, Complex Life Festival had its own shape. Za School grew into Asia's largest educational carnival, "Teach For Taiwan" followed an organized talent recruitment path, while Complex Life Festival deliberately maintained a scale of two to three hundred people, small enough that everyone could talk to everyone. Huang Dou-ni later, in an article on "knowledge entertainment," listed Complex Life Festival alongside Za School and Pan-Knowledge Festival, self-separating as "small-scale," and criticizing large events as infected by "spotlight black plague" [^11]. The metaphor "spotlight black plague" is heavy: spotlights are originally good things, but when an event exists to be seen, it gets sick, performance replaces exchange, scale replaces depth. Complex Life Festival chose to stay where the spotlight couldn't reach; this was its pride, and later its ceiling.
-
-Five editions added up to about 1,500 people; this number, placed next to Za School's carnivals of 200,000 to 300,000 person-times, is so small it's almost invisible; but for Complex Life Festival, "small" was a deliberate choice, not a sign of not growing up. It wanted exactly that density where everyone could talk to everyone; once enlarged, the thing it cared about most would be diluted.
-
-> **✦** "We are not a forum, we are gathering bloodless family to come back for New Year." [^12]
-
-## The Triangle Facing Away from the Audience
-
-![Scattered soccer shoes on the floor outside the lecture room, next to a yellow "Shoe Stop Youth" sign with a blue sneaker icon](/article-images/society/complex-festival-shoes-sign.webp)
-"The Shoe Stop Youth" sign and a pair of soccer shoes outside the lecture room. Complex Life Festival held deep conversations like being in someone else's living room; taking off shoes before entering, this small action echoes its self-positioning of "coming back for New Year." Photo: Complex Life Festival (fair use editorial commentary).
-
-The third edition is the most remembered edition of this gathering.
-
-In 2018, the theme was "Buddhist Youth," with the subtitle as a question: "Why complicate when you could be simple?" [^13] "Buddhist" was the buzzword of those two years, speaking of a lying-flat mentality of "whatever, doesn't matter, no strong demand." Complex Life Festival used it as a theme, which itself was a counter-question: a group of workaholics who made life exhausting, talking about "Buddhist," was actually talking about "we could choose to not care, why can't we let go?" This edition was held during the day at China Medical University, and at night opened "Complex Life Village" next to Fengjia Night Market [^13].
-
-![A speaker stands on stage holding a microphone, a calligraphy banner of "Buddhist Youth" hangs behind, next to a countdown clock showing 59:59](/article-images/society/complex-festival-iii-stage-2018.webp)
-_The third edition "Buddhist Youth" scene: Behind the speaker is a handwritten "Buddhist Youth" banner, next to a 59:59 countdown clock. The countdown clock is Complex Life Festival's obsession with "depth," framing each share in time, forcing speakers to speak to the end. Photo: Complex Life Festival (fair use editorial commentary)._
-
-This edition invited a three-way dialogue, three people who later became "successful" in some sense: Audrey Tang, then a Digital Minister of the Executive Yuan; Liu An-ting, the educational entrepreneur who founded "Teach For Taiwan"; and Lin Yi-ying, Deputy Mayor of Taichung City [^14].
-
-The dialogue design was strange. The three sat in a triangle, facing away from the audience, receiving questions from the audience via the online Q&A tool Slido [^14].
-
-![Overhead view: Three sofas arranged in a triangle, three speakers facing inward, back to the surrounding audience, red, blue, and yellow curtains hanging from the ceiling](/article-images/society/complex-festival-iii-trialogue-2018.webp)
-_The core image of the third edition three-way dialogue: Three sofas arranged in a triangle, Audrey Tang, Liu An-ting, and Lin Yi-ying facing inward, back to the surrounding audience, red, blue, and yellow curtains hanging down. This is the "triangle facing away from the audience" itself: turning the speakers to face each other is Complex Life Festival's most direct declaration that "dialogue is more important than performance." Photo: Complex Life Festival (fair use editorial commentary)._
-
-Speaking with their backs to the audience is itself the temperament of Complex Life Festival: no performance, no facing the spotlight, only caring if the dialogue is deep enough. General forum speakers face the audience, speaking words for the audience to hear; these three faced each other, speaking words for each other to hear, the audience was only allowed to eavesdrop. Hsu Hao-ning said, "Deep dialogue, distance-less and almost harshly deep dialogue," is the signature of this gathering [^12]. The word "harsh" is accurate—it doesn't want lukewarm small talk, it wants to force the speakers to have no way out.
-
-![Close-up of Audrey Tang's profile, listening attentively at the dialogue scene, background is soft warm lighting](/article-images/society/complex-festival-iii-audrey-tang-2018.webp)
-_Audrey Tang's profile at the three-way dialogue scene. At that time she was a Digital Minister of the Executive Yuan, a citizen tech advocate from g0v, and became Taiwan's first Digital Minister two years later. Photo: Complex Life Festival (fair use editorial commentary)._
-
-That day Audrey Tang said, "The government, from a perspective of fairness, is not suitable for innovation" [^14]. Her meaning was that the government must treat everyone equally, and innovation is essentially a privilege for a few to take risks; the two have inherent tension. Liu An-ting then said, "Innovation comes from the margins" [^14]. She spoke of how truly new things rarely emerge from the center of the system, but grow from ignored corners, from people with no resources so they can only think of ways themselves. This sentence was often mistakenly hung on the organizer's head, but it was Liu An-ting's, not Hsu Hao-ning's. A forum for "unsuccessful people," with the most promising people of this generation sitting on stage, talking about "innovation comes from the margins"—and sitting below were those who thought they were on the margins, but later one by one walked into the center.
-
-There was also an anecdote remembered for a long time by the audience at the dialogue: Someone anonymously asked Audrey Tang on Slido, "What shampoo do you usually use?" [^14] In a hardcore dialogue about fairness, innovation, and government vs. margins, such a nonsensical question appeared, and Audrey Tang seriously caught it. This scene is actually very "Complex Life Festival"—it allows harsh depth and youthful nonsense to coexist, because these two things are the same thing on this group of people.
-
-The speakers of the third edition were not just these three. On site there were also Lei Ya-qi, editor-in-chief of Pan-Science; Dr. Lang Quan, doing animal behavior education; Liu Qian-ping of local publications; Li Xue-cheng of the band "227"; and Lin Hui-qiu, who called herself an "average designer" [^30]. Looking at this list together, you find Complex Life Festival never invited people for fame. It invited people "seriously doing something no one understands yet," fame was secondary. And it was among this group that someone saw the irony. An observer named Chu Szu-yu wrote down her feelings that day, this sentence became the most honest footnote of Complex Life Festival: "Why am I pretending to be a successful person here? Am I really successful?" [^15]
+数年後、主催者の許皓甯（シュー・ハオニン）本人がこの件を振り返った際、そのタイトルは集い全体への注釈として完璧なものとなった。「シンプルであることは難しすぎる。それなら、一緒に複雑さを探索しよう」[^29]。
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-   <iframe src="https://www.youtube.com/embed/n38D7DCDtbk" title="Embracing the Generation Starts with Education: Liu An-ting at TEDxTaipei 2013" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/oA-7hqhSM8c" title="超牆Tuesday × 複雑生活節 × 許皓甯：要簡單太難，不如一起來探索複雜" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Liu An-ting's TEDxTaipei speech from the third edition three-way dialogue. She founded "Teach For Taiwan" to send teachers to remote areas; the sentence "Innovation comes from the margins" she said at Complex Life Festival is exactly her belief, this video lets you hear how she talks about it herself. [^31]_
+_許皓甯（シュー・ハオニン）本人が複雑ライフ・フェスティバルについて語る（教育部青年発展署「超牆 Tuesday」シリーズ）。動画タイトル「シンプルであることは難しすぎる。それなら、一緒に複雑さを探索しよう」は、この集いと「シンプルライフ・フェスティバル」との対比を、そのままこのイベントの看板として提示している。_
 
-## Complex Life Village: Fengjia at Night, Pixel Banners and Cocktail Vouchers
+## 入りやすく、出にくい「ホテル・カリフォルニア」
 
-The third edition split day and night into two completely different spaces, this design is worth pulling out alone.
+![複雑生活節の会場：200〜300人の若者が台中にある吹き抜けのインダストリアルな空間に集まり、バラバラの椅子に座ってスピーカーの話を聞いている。台湾ビールの黄色いプラスチックケースがステージや仕切り代わりに使われている](/article-images/society/complex-festival-talk-crowd.webp)
+_複雑生活節の会場：200〜300人規模で、スピーカーと聴衆が混ざり合って座っている。台湾ビールの黄色いケースがステージや座席として代用されている。Photo: 複雑生活節（fair use editorial commentary）。_
 
-During the day at China Medical University was the serious dialogue venue, triangle, countdown clock, harsh depth. After sunset, the whole group moved to a venue called "Si Guan" next to Fengjia Night Market, opening "Complex Life Village" [^13]. The word "village" is interesting: during the day they were forum speakers and audience, at night they became villagers of the same village. Entering the village required a "Villager Pass," inside the village, alcohol was exchanged for "Cocktail Vouchers."
+第1回以降、この集まりは毎年5月に開催され、5年連続で行われた。
 
-![A hand holding two vouchers, one printed with "Villager Pass," one with "Cocktail Voucher," the voucher face uses geometric dot-matrix font design](/article-images/society/complex-festival-village-pass-2018.webp)
-_The "Villager Pass" and "Cocktail Voucher" of Complex Life Village, geometric dot-matrix font is the visual signature of Complex Life Festival. Calling entry a "Villager Pass" secretly rewrites an event into a temporary village: you are not here to attend, you are here to be a villager. Photo: Complex Life Festival (fair use editorial commentary)._
+そのやり方は非常に独特である。司会者はおらず、スピーカーと聴衆の境界線は極めて曖昧で、夜の芝生の上で交流が4時間も続くことも珍しくなかった[^9]。許皓甯（シュ・ハオニン／シュー・ハオニン）は、この集まりへの参加者を募る際、「石ころスープ」という概念を用いた。それはある古い物語に基づいている。数人の兵士が「石を使ってスープを作ろう」と言い出し、通りかかった村人が「私は塩を持っていくよ」「私は人参を数本持っていくよ」と加わり、最終的に本当に一鍋のスープが出来上がるという話だ。複雑生活節も同様に運営されている。主催者はただ一つの石と一つの鍋を置くだけで、内容は参加者がそれぞれ持ち寄るものなのだ。
 
-Pixel banners hung on the walls of Si Guan in Fengjia, the whole space soaked in that dot-matrix font visual language. This pixel aesthetic was not randomly chosen. Dot-matrix font is the font of early computers, early game consoles, the screen memory of this eighth generation when they were children. Using it for a 2018 youth gathering is saying: We are a generation raised looking at these low-resolution screens, our nostalgia looks like this.
+第1回には30組のシェアラーが集まり、8年間にわたるインディペンデントな創作エコシステムを横断的に描き出した。プレゼンを行う大学生、台湾大学の音楽フェスティバルを運営する学生、文学評論を扱う刊行物『秘密読者』、Facebookで毎日詩を投稿する『毎日為你讀一首詩』、オンライン学習プラットフォームのHahow 好学校、東南アジアの移住労働者に注目する『移人』スタジオ[^9]などである。このリストを広げてみると、2016年の台湾の若者たちが自ら育て上げた小さな宇宙が見えてくる。プレゼンテーション、音楽、文学、教育、新移民――主流産業が注目するようなポジションではなかったが、その一つひとつに真剣に取り組む人々がいた。
 
-Complex Life Village completely dismantled the too-formal word "forum." During the day you could still say this was an "event," at night, with passes, vouchers, alcohol, pixel banners, four hours of endless grass conversations—it had grown into a village existing only for one night. The next day the sun rose, the village dismantled, villagers scattered back to their respective cities. This texture of "temporarily but seriously existing" is the hardest thing about Complex Life Festival to replicate.
+![スピーカーがプロジェクターのスクリーン前で聴衆に向けて話しており、背景の壁には複雑生活節のためにドットフォントで作られた横断幕が掛かっている。会場はDIY感のあるインダストリアルな空間である](/article-images/society/complex-festival-iii-sharing-2018.webp)
+_スピーカーがスクリーンの前でシェアしており、壁には複雑生活節を象徴するドットフォントの横断幕が掛かっている。集まり全体のビジュアル言語は、意図的な「アマチュア感」である。精緻さは求めず、照明も凝らず、ブランドイベントというよりはサークルの新歓活動のような雰囲気だ。Photo: 複雑生活節（fair use editorial commentary）。_
 
-## Unsuccessful People, or Future Elites
+第2回となる2017年は、「ホテル・カリフォルニア（Hotel California）」というテーマで行われた。この回では、実際に会場を一つのホテルに設定した[^10]。名前の由来は、イーグルスのあの有名な歌詞「You can check out any time you like, but you can never leave（いつでもチェックアウトできるが、決して去ることはできない）」から取られている。その歌が本来、華やかでありながら人を囚える陶酔を描いているのに対し、複雑生活節に当てはめると意味が変わる。それは、互いの中に同類を見出した人々が集まり、一度足を踏み入れたら離れられなくなることを意味している。なぜなら、外の世界にはこれほど自由に語り合える場所がないからだ。「入りやすく、出にくい」というメタファーについて、黄豆泥（マッシュビーン／mashbean）は後のビジュアルデザインに関する文章の中で、「入りやすく出にくいホテル・カリフォルニアが、本当にホテルの中で開催された」と述べている[^10]。
 
-Chu Szu-yu's self-questioning pierced the hardest part to answer of this festival.
+ここまで来ると、複雑生活節は独自の形を成していた。雑学校（Zaxue School）がアジア最大級の教育カーニバルへと成長し、「為台湾而教」が組織的な人材採用の道を歩む一方で、複雑生活節はあえて200〜300人という規模を維持し、全員が誰かと会話ができる程度の小ささを保った。黄豆泥は後に「知識のエンターテインメント化」について論じた記事の中で、複雑生活節を雑学校や汎知識節と並べ、自らを「小規模なもの」として区別した。さらに、大規模なイベントは「スポットライト黒死病」に感染していると批判した[^11]。「スポットライト黒死病」という比喩は非常に重い。スポットライト自体は本来良いものであるが、イベントが「見られること」を目的にし始めたとき、それは病に侵される。パフォーマンスが交流に取って代わり、規模が深さに取って代わるのだ。複雑生活節はスポットライトの届かない場所に留まることを選んだ。それは彼らの誇りであり、後に彼らの限界（天井）ともなった。
 
-Complex Life Festival said it collected "unsuccessful people." But actually tagged in by Facebook were a group with cultural capital, who could afford college, with social connections in the independent creation circle. Its screening mechanism (friends tagging friends) naturally excluded another group: migrant workers in factories, same-age peers without college degrees, the truly marginalized eighth generation without social accounts to be tagged. To be tagged, you must first be in someone's Facebook friend list; to be in that list, you must first live a life "recognized by this group." This invisible threshold is more picky than any ticketing mechanism.
+5年間で合計約1,500人が訪れたことになるが、この数字は、数十万人規模を動員する雑学校のようなカーニバルの隣では、ほとんど目立たないほど小さい。しかし、複雑生活節にとって「小ささ」とは、成長できていないのではなく、意図的な選択であった。彼らが求めているのは、全員が誰かと会話できる密度の高さであり、一度規模を拡大してしまえば、最も大切にしているものが希釈されてしまうからである。
 
-Exclusion has another layer: geographical. All five editions were held in Taichung, speakers and participants were mostly from the central Taiwan circle, this kept it far from the eighth generation of southern and eastern Taiwan. A same-age peer living in Taitung or Pingtung, just the threshold of "whether to run to Taichung for a two-day one-night gathering" was enough to filter them out. Complex Life Festival's "kindred spirits" were actually kindred spirits with a geographical radius.
+> **✦** 「私たちはフォーラムではない。血縁のない家族が集まり、旧正月を祝うために戻ってくる場所なのだ。」[^12]
 
-This is a structure this type of gathering cannot avoid, no need to treat it as smearing. A gathering operating on "echo chamber deep exchange" is essentially different from "the overall face of the eighth generation." Hsu Hao-ning was aware of this. He self-doubted on stage every year, even saying Complex Life Festival was the "most hated activity he ever organized" (explained later). But being aware is not solving it. Knowing your gathering is picky, and organizing a non-picky gathering, there is the weight of the entire structure in between.
+## 観客に背を向けた三角形
 
-> 📝 **Curator's Note**
-> Spreading out the participant list of the "Unsuccessful People's Forum," you see an awkward fact: this group calling themselves not yet successful, later disproportionately walked into elite positions. Huang Dou-ni went to Harvard, speaker Audrey Tang became a minister, Liu An-ting won international education awards. So "unsuccessful" this humble term, looking back, seems like a pre-emptive Versailles. But reading it this way is also unfair. When this group gathered in 2016, they were really not yet successful, low wages, invisible future, marginalized in their own departments, all were immediate realities. The problem is not whether they later became successful, but that this gathering was designed from the start to only hold "unsuccessful people on the road to success." It excluded those who couldn't even stand on the starting line. Writing this out honestly is closer to its true face than packaging it as a pure utopia.
+![講演会場の外の床に散らばる一足の球鞋、その横には「靴を止める青年」と書かれた黄色い看板が立っており、そこには青いスニーカーのイラストが印刷されている](/article-images/society/complex-festival-shoes-sign.webp)
+_講演会場の外にある「靴を止める青年（鞋停青年）」の看板と、散らばったスニーカー。複雑生活節は、深い対話をまるで誰かの家のリビングルームのように演出する。入る前にまず靴を脱ぐというこの小さな動作は、「帰省して正月を過ごす」という彼らの自己定義に応えるものである。Photo: 複雑生活節（fair use editorial commentary）。_
 
-If looking with an academic eye, in 2019 someone borrowed French philosopher Foucault's "Heterotopia" concept to explain Complex Life Festival [^16]. Heterotopia refers to a space between reality and utopia, both real and illusory, it squeezes heterogeneous elements together, thus bursting with the potential to disturb reality. Foucault's examples are gardens, cemeteries, theaters, ships, these places are in the daily, yet follow another set of rules. The author's observation is that Complex Life Festival broke the boundary between speakers and listeners, let people with similar themes be adjacent in space, used banners to construct collective identity, "strictly speaking, this is the ontology of Complex Life Festival" [^16].
+第3回は、この集まりの中で最も記憶に残る回となった。
 
-In other words, the true product of Complex Life Festival was never in the content of any lecture, but in the fact that "a group of heterogeneous people were squeezed into the same two-day one-night space."
+2018年、テーマは「仏系青年（佛系青年）」であり、副題には一つの問いが添えられていた。「簡単にできるはずなのに、なぜあえて複雑にするのか？」[^13]。「仏系」とは当時の流行語で、「どうでもいい、こだわらない、無理に求めない」といった、いわゆる「寝そべり（躺平）」的なマインドセットを指す言葉であった。複雑生活節がこれをテーマに掲げたこと自体が、一つの反問であった。生活を疲れ果てさせるほど熱心に働くワークアホリックたちが、「仏系」について語る。それは実のところ、「私たちは気にしないという選択もできるはずなのに、なぜどうしても手放せないのか」を語ることでもあった。この回は、昼は中山医学大学で開催され、夜は逢甲夜市のそばに「複雑生活村」が開設された[^13]。
 
-But this article also left an unsolved question: Heterotopia only operates for two days one night, can the effect last? [^16] This question is critical. A garden can bloom year after year, a cemetery can stay there forever, but Complex Life Festival's heterotopia is one-time: it appears out of nowhere on a weekend in May, disappears on Monday. The sense of belonging it creates is real, but can this sense of belonging last for the 363 days after the event?
+![マイクを手にした登壇者がステージに立ち、背後には「仏系青年」と書かれた書道の垂れ幕が掛かっている。その横には59:59を表示するカウントダウンタイマーがある](/article-images/society/complex-festival-iii-stage-2018.webp)
+_第3回「仏系青年」の現場：登壇者の背後には手書きの「仏系青年」の垂れ幕があり、横には59:59のカウントダウンタイマーが置かれている。このタイマーは、複雑生活節が持つ「深さ」への執念の表れであり、各セッションは時間によって枠付けられ、登壇者に最後まで語り切ることを強いる。Photo: 複雑生活節（fair use editorial commentary）。_
 
-Two days one night of kindred spirit gathering, after dispersing, everyone still returns to their respective complex lives.
+この回では3名による対談が行われた。後に3人とも、ある種の意味での「成功者」となる人物たちであった。唐鳳（タン・フォン／トゥアン・フェン）、当時の中央行政院政務委員で、後にデジタル発展部の部長となった人物。劉安婷（リュウ・アンティン／リウ・アンティン）、教育スタートアップ「為台湾而教（Teach For Taiwan）」を設立した教育起業家。そして林依瑩（リン・イーイン／リン・イーイン）、台中市の副市長[^14]。
 
-## M D F K: Jargon Only the Echo Chamber Understands
+対談の設計は非常に独特であった。3人は三角形を描くように座り、観客に背を向け、オンライン質問ツール「Slido」を通じて会場からの質問を受け取ったのである[^14]。
 
-![Fourth Edition Main Visual: Bright yellow background with white hand-drawn standard Zhuyin Fuhao symbols M D F K, below marked M D F K IV](/article-images/society/complex-festival-iv-mdfk-design-2019.webp)
-_Fourth Edition "M D F K" main visual: Huang Dou-ni hand-drew the motherfucker Zhuyin standard characters, a youth jargon only the echo chamber can read. Image: Huang Dou-ni Design (fair use editorial commentary)._
+![俯瞰視点：3脚のソファが三角形に配置され、3人の登壇者が内側を向いて座っている。彼らは周囲を取り囲む観客に背を向けており、ソファの後ろからは赤、青、黄の三色のカーテンが垂れ下がっている](/article-images/society/complex-festival-iii-trialogue-2018.webp)
+_第3回3者対談の核心的な光景：三角形に配置された3脚のソファに、唐鳳、劉安婷、林依瑩が内側を向いて座り、周囲を取り囲む観客に背を向けている。赤・青・黄の三色のカーテンが天から降り注ぐ。これこそが「観客に背を向けた三角形」の実体である。登壇者を互いに向き合わせることは、「パフォーマンスよりも対話が重要である」という複雑生活節による最も直接的な宣言であった。Photo: 複雑生活節（fair use editorial commentary）。_
 
-The fourth edition pushed this "only for ourselves" temperament to the extreme.
+聴衆に背を向けて話すという行為そのものが、複雑生活節の気質を表している。パフォーマンスをせず、スポットライトを浴びることもせず、ただ対話そのものが十分に深いかどうかだけを重視する。一般的なフォーラムの登壇者は観客に向かい、観客に聞かせるための話をしたが、この3人は互いに向き合い、互いに聞かせるための話をしていた。観客はただ、傍聴を許されている存在に過ぎなかった。許皓甯（シュー・ハオニン／シュー・ハオニン）は、「距離感のない、そして極めて厳格な深さを持つ対話」こそが、この集まりの看板であると語っている[^12]。「厳格」という言葉は的確であった。そこにあるのは、当たり障りのない社交辞令ではなく、対話者が自らを退路のない場所まで追い込むような場であった。
 
-In 2019, the theme was four Zhuyin Fuhao symbols: M D F K. Decoded, it is the Zhuyin spelling of the English word motherfucker [^17]. This is a puzzle only people who can read Zhuyin and know to spell it back to English can solve, meaning, a secret code only Taiwanese, and a specific generation of Taiwanese, would smile at. Huang Dou-ni personally designed this set of hand-drawn Zhuyin standard characters, setting the tone as "while being disciplined, speaking boundless nonsense" [^18], a youth jargon, only understood by the echo chamber. Zhuyin is learned in first grade of elementary school, the most disciplined symbol system; using it to spell a swear word, this action itself is "secretly rebelling under the obedient appearance," and that is exactly the portrayal of these medical students hiding other minds under white coats.
+![対談の現場で集中して耳を傾ける唐鳳の横顔。背景には柔らかな暖色の照明が灯っている](/article-images/society/complex-festival-iii-audrey-tang-2018.webp)
+_3者対談の現場における唐鳳の横顔。当時、彼女は行政院政務委員であり、g0v出身のシビックテック・アドボケイトであった。その2年後、台湾初のデジタル発展部長となった。Photo: 複雑生活節（fair use editorial commentary）。_
 
-The venue was chosen at the Banpan Hotel on the fourth floor of Taichung's First Plaza, staying in those grid-like honeycomb rooms [^17]. Choosing this building has its reason. First Plaza is an old building full of Southeast Asian migrant worker life traces, on weekends crowded with migrants from Vietnam, Indonesia, Philippines, Thailand, it is Taichung migrants' living room. In Taichung people's memory it was once stigmatized, treated as a "do not go" place, later slowly rediscovered, renamed Dongxie Plaza, treated as a multicultural base. A group of youth talking about "margins" held their gathering in this building with the most marginal meaning, staying in honeycomb-like small rooms, this choice itself is an unspoken declaration.
+その日、唐鳳は「政府は公平性の観点に立つため、イノベーションには適さない」[^14]と語った。彼女の意図するところは、政府はすべての人に対して平等でなければならず、一方でイノベーションの本質は少数の人間がリスクを冒す特権であるため、両者には天性的な緊張関係があるということだ。続いて劉安婷は「イノベーションは辺境から生まれる」[^14]と述べた。真に新しいものは体制の中心からはほとんど生まれず、無視された片隅や、リソースがないために自力で道を切り拓かざるを得ない人々の中から芽吹くのだ、という話であった。この言葉は後に主催者のものとして誤解されることが多かったが、それは劉安婷の言葉であり、許皓甯のものではない。「未成功者」のために開かれたフォーラムの壇上に座っているのは、台湾のこの世代で最も期待されている人々であり、彼らは「イノベーションは辺境から生まれる」と語る。そして、その下に座っているのは、まさに自分たちが辺境にいると思いながら、後に一人、また一人と中心へと歩みを進めていった人々であった。
 
-The preface of this edition explained the core of Complex Life Festival most clearly: "We are not a forum, we are gathering bloodless family to come back for New Year." "Deep dialogue, distance-less and almost harshly deep dialogue, is the signature of 'Complex Life Festival'." "We walk further together." [^12]
+対談の中で、会場の観客の記憶に長く残ったエピソードがある。Slidoを通じて、ある匿名ユーザーが唐鳳に「普段、何のシャンプーを使っていますか？」[^14]と質問したのだ。公平性、イノベーション、政府と辺境について語る硬派な対話の中に、このようなナンセンスな問いが投げ込まれたが、唐鳳はそれを真摯に受け止めた。この光景こそが非常に「複雑生活節」らしい。厳格な深さと少年の無邪気な振る舞いが共存することを許容している。なぜなら、これらの二つは、この人々にとっては本来、同一のものであるからだ。
 
-Calling a gathering "New Year," calling participants "bloodless family," this is Complex Life Festival's most moving and most dangerous self-positioning. New Year is once a year, fixed seats, the whole family returns to the same table ritual; comparing this kindred spirit gathering to New Year is promising a "no matter where you drift, every May there is a home waiting for you" belonging. Moving because it really provided this sense of belonging; dangerous because family circles have boundaries, New Year tables have seat limits—the ones who can come back for New Year are always those originally on this family list.
-
-## Soul Left in the Margins, Assistant Went to Harvard
-
-To understand who Complex Life Festival belonged to, you must look at where these two founders went later. Because its deepest tension is not in the five editions of activities themselves, but in the divergence of these two people.
-
-Huang Dou-ni's real name is Huang Yen-lin, online called mashbean. Around 2021, he resigned from his doctor's job. The reason he gave himself was: "Due to obsession with the deep structure of the internet and social networks, I resigned from my doctor's job, now dedicated to integrating the cypherpunk spirit into Taiwan's digital society." [^19] This sentence reads like a resume, but拆开 looks like a big turn: letting go of the Taipei Veterans General Hospital resident physician position, to chase something called "cypherpunk," a group believing cryptography and code can redistribute power, protect personal freedom. He abandoned medicine not in a dramatic moment. While still wearing the white coat, he was already organizing Complex Life Festival; in early 2022 at a community gathering he mentioned, "I was still a doctor last year" [^32]. Leaving was a gradual drift, drifting from edge of department to outside department, then drifting to a world completely unrelated to medicine.
-
-After leaving, he co-founded FAB DAO, an organization using blockchain for public welfare, later launched "Project %," inviting six generative artists to create digital artworks of 10,101 Taiwan mountain peaks [^20]. This line later walked closer to the institutional core: he entered the Ministry of Digital Development as a system engineer, moving the experience accumulated from grassroots web3 public welfare into the government's room; in 2025 he again received the Harvard Kennedy School Allen Lab "Democracy Renovation" non-resident policy researcher [^2]. From a person responsible for drawing posters and doing visual promotion at a small Taichung gathering, all the way to Harvard's table discussing how to reshape democracy—this trajectory is almost the most dramatic realization of "innovation comes from the margins," just not realized by Liu An-ting who said this sentence, but by the visual assistant who sat in the audience that year.
-
-But regarding who Complex Life Festival was a work of, Huang Dou-ni himself spoke clearly. In his own article he wrote: "Complex reasonably became Hao-ning's creation, we as visual auxiliary continued to exist in the work team." [^21] This sentence is important, it comes from the person involved, clearly giving the "main organizer" position to Hsu Hao-ning, placing himself as "visual auxiliary." Later media, because of Huang Dou-ni's web3 fame, often wrote Complex Life Festival as "the youth of the FAB DAO founder," but Huang Dou-ni himself never said this.
-
-By the fourth edition, he wrote down what this gathering meant to him: "Complex Life Festival 4 ends, for me personally symbolizes the end of an era, the era of always dreaming and always cool ended coincidentally with the difficulty of Facebook fan page operation." [^22] The phrase "Facebook fan page operation difficulty" points to a structural turning point of the era—Complex Life Festival grew up relying on Facebook tagging, Facebook fan pages, when Facebook's algorithm lowered organic reach all the way, this gathering relying on social organic connection also lost its oxygen.
-
-Then came the sentence like a farewell, like an archive: "Those four years, what Complex taught me is probably here, sealed here. 2016–2019 My Honor." [^23] The assistant went to Harvard, the soul stayed in the margins.
+第3回の登壇者は、この3名だけではなかった。会場には、泛科学（PanScience）の編集長である雷雅淇（レイ・ヤチ／レイ・ヤーチ）、動物行動教育を行う浪犬博士、地方刊行物の劉千萍（リュウ・チェンピン／リウ・チェンピン）、バンド「貳貳柒」の李學誠（リー・シュエチェン／リー・シュエチェン）、そして自称「平凡なデザイナー」である林慧秋（リン・フイチュウ／リン・フイチュウ）らがいた[^30]。このリストを並べて見ると、複雑生活節が決して知名度だけで人を招いているのではないことがわかる。彼らが招くのは、「まだ誰も理解していないことに真剣に取り組んでいる」人々であり、有名かどうかは二の次なのだ。そしてまさにこうした人々の中に、ある皮肉を見出した者がいた。朱思瑜（チュー・スーユー／ジュー・スーユー）という観察者がその日の心情を綴った言葉は、複雑生活節における最も誠実な注釈となった。「なぜ私はここで成功者のふりをしなければならないのか？ 私は本当に成功したのだろうか？」[^15]
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-   <iframe src="https://www.youtube.com/embed/2TyXgAB4_78" title="How to Do Taiwan's Largest Public Welfare NFT Project ft. FAB DAO Co-founder Huang Dou-ni" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/n38D7DCDtbk" title="世代を受け入れることは教育から始まる：劉安婷 at TEDxTaipei 2013" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Huang Dou-ni's web3 public welfare works after abandoning medicine (Digital Times interview). From Complex Life Festival's visual promotion, to co-founder of Taiwan's largest public welfare NFT project, this video is the next stop on the "assistant went to Harvard" line. [^33]_
+_第3回3者対談の登壇者、劉安婷によるTEDxTaipeiの講演。「為台湾而教」を設立して教師を僻地に送り出している彼女が、複雑生活節で語った「イノベーションは辺境から生まれる」という言葉はまさに彼女の信念であり、この動画では彼女自身がそのことをどのように語っているかを聞くことができる。[^31]_
 
-Hsu Hao-ning did not leave Taichung. He was born in 1988 in Changhua, a rural child surrounded by fields, top grades in middle school, entered Changhua High School's math and science gifted class, then entered China Medical University's TCM department, now is the director of a TCM clinic in Beitou [^5]. During college he experienced consecutive family changes: his mother had a stroke when he was in his second year, died two days later, his father became seriously ill and passed away when he was in his sixth year, at that time his sister was in her fourth year, his brother in his second year, he was the only adult child in the family [^24]. His father drove a taxi before his death, his mother did home-based piecework [^24].
+## 複雑生活村：夜の逢甲、ピクセル布条とカクテル引換券
 
-These are facts reported publicly, no need to add rendering; but they are the background color understanding why he stayed—a person who lost both parents during six years of college, shouldering a family, has a different weight for "staying in place and holding things together."
+第3回では、昼と夜を全く異なる二つの空間に分けたが、この設計は特筆に値する。
 
-He is still a poet. The founding president of China Medical University's Literary Art Research Society, also served as the general secretary of Gengshen Youth Writing Association, won four literary awards, including modern poetry awards for National Student Literary Award and National Medical Student Literary Award [^5]. A person studying TCM, a person writing modern poetry, a person organizing youth gatherings, these three identities have no conflict on him, instead like three facets of the same thing: all seeking a "ability to see people more clearly."
+昼間の中山医学大学では、三角形、カウントダウン・クロック、そして厳格な深さを持つ、真面目な対話の場であった。日が沈むと、人々は逢甲夜市の隣にある「四館」と呼ばれる会場へと移動し、「複雑生活村」[^13]を開設する。「村」という言葉の選び方が興味深い。昼間の彼らはフォーラムの登壇者や聴衆であるが、夜には同じ村の村民へと変わるのだ。村に入るには「村民通行証」が必要であり、村内では「カクテル引換券」を使って酒を飲むことができる。
 
-Later when he looked for a campaign headquarters, he accidentally encountered an old house, felt suitable for opening a bookstore, so he opened a bookstore called "Reference Bookstore" (Reference) [^25]. The logic of the store name is like him: the last paragraph of a thesis is the references, people seeking truth cannot do without it, "Where Reference is, the argument stands" [^25]. A bookstore named after "references" is equivalent to building a physical space for the belief that "what I say has sources, stands firm." This bookstore was still updating its own Podcast until the end of 2024 [^34]—ran for city councilor and lost, the bookstore survived.
+![片手に二枚の券を持っている。一枚には「村民通行証」、もう一枚には「カクテル引換」と印字されており、券面は幾何学的な感覚の強いドットフォントでデザインされている](/article-images/society/complex-festival-village-pass-2018.webp)
+_複雑生活村の「村民通行証」と「カクテル引換券」。幾何学的なドットフォントは、複雑生活節のビジュアル・シグネチャーである。入場を「村民通行証」と呼ぶことで、一つのイベントを一時的な村へと密かに書き換えている。あなたは参加しに来たのではない、村民になりに来たのだ。Photo: 複雑生活節（fair use editorial commentary）。_
 
-In 2018, Hsu Hao-ning ran for Taichung Beitou District City Councilor representing the New Power Party. In a constituency of sixteen competitors, he received 5,332 votes, a vote rate of 3.93%, ranked eleventh, lost, the campaign account was still short by over 100,000 [^26]. When he ran, he said a very special sentence: "I hope I can love people, to prove I was loved by great people." [^27] A young person who just lost his parents, wanting to use the act of "loving others" to prove those who loved him really existed—this sentence turned this public act of running for office into a very private mourning. He also said he would dedicate "the golden years from age 30 to 50" to Beitou [^35]. He lost, but that bookstore, opened because he looked for a campaign headquarters, remained. A person wanting to use the most public way (election) to memorialize the most private loss (parents), what remained was the quietest store.
+逢甲四館の壁にはピクセルの布条が掛けられ、空間全体がそのドットフォントの視覚言語に浸っている。このピクセル美学は、決して適当に選ばれたものではない。ドットフォントとは、初期のコンピュータや初期のゲーム機の文字であり、この「8年生（Z世代）」たちが幼少期に見ていたスクリーンの記憶そのものなのだ。これを2018年の若者の集まりに用いることは、「私たちはこうした低解像度の画面を見て育った世代であり、私たちの郷愁はこのような形をしている」と表明することに等しい。
 
-## The Least Cool Year
+複雑生活村は、「フォーラム」というあまりに公式すぎる言葉を徹底的に解体した。昼間はまだこれを一つの「イベント」と呼ぶことができるが、夜になれば、通行証があり、引換券があり、酒があり、ピクセルの布条があり、4時間では語り尽くせない芝生の上での対話がある——それはすでに、一年にたった一晩だけ存在する村へと成長しているのだ。翌朝、太陽が昇ると村は解体され、村民たちはそれぞれの都市へと散っていく。このような「一時的でありながら、真剣に存在した」という質感こそが、複雑生活節において最も模倣が困難な部分である。
 
-The fifth edition was the loneliest edition of this festival about "gathering kindred spirits." In 2020, COVID came. A gathering with the core of "gathering bloodless family to come back for New Year," collided with a year when the whole world had to keep distance. Complex Life Festival's theme for this edition was "Self-Isolation" [^28].
+## 「未成功者」は、やはり未来のエリートなのか
 
-It did not hold an entity conference. Changed to a Podcast, made forty-seven episodes in total. The team ran north, central, and south, interviewed eighteen seniors, held six old friend interviews [^28]. A gathering standing on "face-to-face, distance-less, harshly deep dialogue," forced to dismantle its core "face-to-face," leaving only voices separated by microphones. The closing day was November 11, 2020, they titled this edition: "This year's Complex Life Festival is the least cool year." [^28]
+朱思瑜（シュ・シユ／Chu Siyu）の自問は、このフェスティバルにおいて最も答えにくい部分を突いている。
+
+「複雑生活節（Complex Life Festival）」は、参加者を「未成功者」と称している。しかし、実際にFacebookでタグ付けされて集まったのは、文化資本を持ち、大学に通う余裕があり、インディペンデントなクリエイティブ界隈にコミュニティの繋がりを持つ人々であった。その選別メカニズム（友人が友人をタグ付けする形式）は、必然的に別の層の人々を門外へ追い出している。工場の移住労働者、大学に通っていない同世代、そしてタグ付けされるためのSNSアカウントすら持たない、真に社会の縁にいる「Z世代」である。タグ付けされるためには、まず誰かのFacebookのフレンドリストに入っていなければならず、そのリストに入るためには、「このグループの人々に認識されるような」生活を送っていなければならない。この目に見えないハードルは、いかなるチケット販売システムよりも選別的である。
+
+排除の要因は、もう一つ地理的なものもある。5回にわたる開催地はいずれも台中であり、登壇者や参加者の多くは中部地域のコミュニティに属している。そのため、南部や東部のZ世代からは非常に遠い存在となっている。台東や屏東に住む同世代にとって、「1泊2日の集まりのために台中まで足を運ぶべきか」というハードルだけで、十分にフィルタリングされてしまう。「複雑生活節」における「同志」とは、実は地理的な半径を持った同志なのである。
+
+これはこの種の集まりが避けられない構造的な問題であり、誹謗中傷として捉える必要はない。「同質的なコミュニティ内での深い交流」によって運営される集まりは、本質的に「Z世代の全体像」とは別物なのだ。許皓甯（シュ・ハオニン／Hsu Hao-ning）はこの点を自覚している。彼は毎年ステージの上で自己疑念を抱き、複雑生活節を「これまで主催した中で最も嫌いなイベント」とさえ語っている（これについては後述する）。しかし、自覚していることと、それを解決することの間には大きな隔たりがある。自分の集まりが選別的であることを知っていることと、選別を行わない集まりを実現することの間には、構造そのものの重みが横たわっているのだ。
+
+> 📝 **キュレーター・ノート**
+> 「未成功者フォーラム」の参加者リストを広げてみると、ある気まずい事実が見えてくる。自称「まだ成功していない人々」が、その後、不釣り合いなほど高い割合でエリート層へと進んでいることだ。黄豆泥（マッシュビーン／mashbean）はハーバード大学へ行き、登壇者の唐鳳（タン・フォン／Audrey Tang）は行政院デジタル発展委員長を務め、劉安婷（リュウ・アンティン／Liu An-ting）は国際的な教育賞を受賞した。そのため、「未成功」という謙遜の言葉は、後から振り返れば一種の「事前の自慢（凡せ）」のように映るかもしれない。しかし、そう読むのは不公平である。彼らが2016年に集まった時、彼らは本当にまだ成功していなかった。低賃金、見えない未来、所属する学部内での疎外感――それらは当時のリアルな現実であった。問題は彼らが後に成功したかどうかではなく、この集まりが最初から「成功への道を歩んでいる最中の未成功者」しか収容できない仕組みになっていたことにある。この集まりが排除したのは、スタートラインにすら立てない人々であった。この事実を誠実に記述することこそが、イベントを純粋なユートピアとしてパッケージ化するよりも、その本来の姿に近いと言えるだろう。
+
+学術的な視点を用いるならば、2019年にはフランスの哲学者ミシェル・フーコーの「ヘテロトピア（heterotopia）」という概念を用いて複雑生活節を説明しようとする試みもあった[^16]。ヘテロトピアとは、現実とユートピアの中間に位置する、現実的でありながら幻想的な空間を指す。それは異質な要素を無理やり一箇所に押し込めることで、現実を揺さぶる潜在能力を噴出させる。フーコーが挙げた例には、庭園、墓地、劇場、船などがある。これらは日常の中に存在しながらも、別のルールに従っている場所である。著者の観察によれば、複雑生活節は登壇者と聴衆の境界を打破し、テーマの近い人々を空間内で隣り合わせにし、布のバナーを用いて集団的アイデンティティを構築している。「厳密に言えば、これこそが複雑生活節の本体である」[^16]。
+
+言い換えれば、複雑生活節の真の産物は、個々の講演の内容にあるのではなく、「異質な人々が、同じ1泊2日の空間に押し込められる」という事象そのものにあるのだ。
+
+しかし、この記事は未解決の問いを一つ残している。ヘテロトピアは1泊2日しか機能しないが、その効果は持続するのだろうか？[^16] この問いは極めて重要である。庭園は毎年咲き続け、墓地はそこにあり続けることができるが、複雑生活節のようなヘテロトピアは一回性のものである。5月のどこかの週末に突如として現れ、月曜日には消えてしまう。それが生み出す帰属意識は本物だが、その帰属意識は、解散後の363日間を乗り越えることができるのだろうか？
+
+1泊2日の同志の集い。その幕が下りた後、人々は再び、各自の複雑な人生へと戻っていくのである。
+
+## ㄇㄉㄈㄎ：同じ価値観を持つ者にしか通じない隠語
+
+![第4回メインビジュアル：鮮やかな黄色の背景に、白のハンドドローイングで描かれた角張った注音符号「ㄇㄉㄈㄎ」。下部には「ㄇㄉㄈㄎ IV」の文字がある](/article-images/society/complex-festival-iv-mdfk-design-2019.webp)
+_第4回「ㄇㄉㄈㄎ」メインビジュアル：黃豆泥（mashbean）が「motherfucker」を角張った標準的な注音符号として手描きしたもの。同じ価値観を持つ者だけに理解される、若者の隠語である。Image: 黃豆泥設計（fair use editorial commentary）。_
+
+第4回では、こうした「身内だけ」という空気感を極限まで突き詰めた。
+
+2019年のテーマは、4つの注音符号「ㄇㄉㄈㄎ」であった。これは英語の「motherfucker」を注音符号で綴ったものである[^17]。注音符号が読め、かつそれを英語へと読み解ける人でなければ解けない謎、つまり台湾人、それも特定の世代の台湾人だけがニヤリと笑える暗号なのだ。黃豆泥（mashbean）は、この手描きの注音標準文字を自らデザインし、「規律に従いながらも、際限のない毒舌（幹話）を吐く」[^18]というトーンを設定した。それは若者たちの隠語であり、同じ価値観を持つコミュニティ（同温層）にしか通じないものだった。注音符号は小学校1年生で学ぶ、最も「規律化された」記号体系である。それを使って罵倒の言葉を綴るという行為自体が、「従順な外見の下で密かに反抗する」ことを意味しており、それこそが白衣の下に別の思いを秘めた医学部生たちの姿そのものであった。
+
+会場には台中第一広場の4階にある伴畔旅店を選び、蜂の巣のように区切られた部屋[^17]に宿泊した。このビルを選んだのには理由がある。第一広場は東南アジアからの移住労働者の生活の痕跡が色濃く残る古いビルであり、週末にはベトナム、インドネシア、フィリピン、タイから来た労働者で溢れかえる、台中における移住労働者のリビングルームのような場所である。かつて台中市民の記憶の中では汚名を着せられ、「行ってはいけない場所」とされていたが、その後、徐々に再評価され「ASEAN広場」と改称され、多文化の拠点として扱われるようになった。「辺境」を語る若者たちが、最も辺境を感じさせるこのビルで集い、蜂の巣のような小さな部屋に泊まる。この選択自体が、言葉に出さない宣言であった。
+
+今回の前書きでは、「複雑生活節」の核心が最も明快に語られている。「私たちはフォーラムではない。血縁のない家族を集め、旧正月（過年）を祝うために集まるのだ」「深い対話、距離感のない、そして厳格なまでの深い対話こそが『複雑生活節』の看板である」「私たちは共に、少し遠くまで歩いていこう」[^12]。
+
+集まりを「旧正月を祝うこと」と呼び、参加者を「血縁のない家族」と呼ぶ。これは複雑生活節における最も感動的であり、かつ最も危うい自己定義である。旧正月とは、年に一度、決まった席があり、家族全員が同じ食卓に戻る儀式である。この志を同じくする集まりを旧正月に例えることは、「あなたがどこへ流れていこうとも、毎年5月にはあなたを待つ家がある」という帰属意識を約束することに等しい。それが感動的なのは、実際にそのような帰属感を提供しているからであり、危ういのは、家族の輪には境界があり、旧正月の食卓には席数に限りがあるからである。旧正月を祝いに戻ってこられるのは、常に最初からその家族の名簿に載っている人々だけなのだ。
+
+## 魂は辺境に残り、助手はハーバードへ
+
+「複雑生活節（Complex Living Festival）」が誰のものなのかを理解するには、二人の発起人がその後どこへ向かったかを見る必要がある。このイベントの最も深い緊張感は、5回にわたる活動そのものではなく、これら二人の歩みの分岐点にあるからだ。
+
+黄豆泥（こう・そうだい／ファン・イェンリン／mashbean）は、2021年頃に医師の仕事を辞めた。彼自身の理由によれば、「インターネットとソーシャルネットワークの深層構造に魅了され、医師の職を辞した。現在はサイファーパンク（cypherpunk）精神を台湾のデジタル社会に融合させることに尽力している」[^19]という。この言葉は履歴書のように読めるが、分解してみれば大きな転換点であることがわかる。台北栄総病院のレジデントという地位を捨て、「サイファーパンク」と呼ばれるものを追い求めたのだ。それは、暗号学とコードによって権力を再分配し、個人の自由を守ることができると信じる人々の集まりである。彼が医を捨てたのは劇的な瞬間ではなかった。白衣を着ていた頃には、すでに複雑生活節の運営を行っていた。2022年初頭、あるコミュニティの集まりで、彼は「昨年までまだ医師をしていた」[^32]と語っている。離脱とは漸進的な漂流であり、学科の端から学科の外へ、そして医学とは全く無関係な世界へと漂っていったのである。
+
+離職後、彼はブロックチェーンを用いて公益活動を行う組織「FAB DAO」を共同設立した。後に「百岳計画（Project %）」を展開し、6人のジェネレーティブ・アーティストと共に、台湾の1万101の山々をデジタルアート作品として制作した[^20]。この路線はその後、体制の中核へと近づいていく。彼はデジタル発展部（Digital Development Ministry）に制度エンジニアとして入り、民間でのWeb3公益活動を通じて蓄積した経験を政府の場へと持ち込んだ。そして2025年には、ハーバード・ケネディ・スクールのアレン・ラボ（Allen Lab for Democracy Renovation）の非駐在政策研究員となった[^2]。台湾の小さな集まりでポスターを描き、ビジュアル制作を担当していた人物が、ハーバードで民主主義をいかに改造するかを議論する席へと至った。この軌跡は、「イノベーションは辺境から生まれる」という言葉が最も劇的な形で実現した例といえる。ただ、その言葉を実現したのは劉安婷（リュウ・アンティン）ではなく、当時会場でビジュアル制作を手伝っていたあのスタッフであった。
+
+しかし、複雑生活節が誰の作品であるかについて、黄豆泥本人は明確に述べている。彼は自身の記事の中でこう記している。「複雑生活節は、理にかなった形で皓甯（ハオ・ニン）の創作物となり、私たちは視覚的な補助としてワークチームの中に存続している」[^21]。この言葉は極めて重要である。当事者の口から、「主宰」の位置を明確に許皓甯（シュー・ハオ・ニン／シュー・ハオニン）に譲り、自分自身を「視覚的補助」と位置づけているからだ。後にメディアは黄豆泥のWeb3における知名度ゆえに、複雑生活節を「FAB DAO創設者の青年時代」として書き立てることが多かったが、黄豆泥自身は一度もそう語ったことはない。
+
+第4回を開催した際、彼はこの集まりが自分にとって持つ意味をこう綴った。「複雑生活節 4の終了は、私個人にとっては一つの時代の終わりを象徴している。夢を見続け、楽しんでいた時代は、Facebookページの運営の困難と共に、図らずも幕を閉じた」[^22]。「Facebookページの運営の困難」という言葉は、構造的な時代の転換点を突いている。複雑生活節はFacebookのタグ付けやページによって成長してきたが、Facebookのアルゴリズムが自然なリーチを押し下げたことで、コミュニティの有機的なつながりに頼るこうした集まりもまた、酸素を失っていったのである。
+
+そして、別れのようでもあり、アーカイブのようでもある言葉を残した。「あの4年間、複雑生活節が私に教えてくれたことは、おそらくここまでだ。ここに封印する。2016–2019、私の光栄であった」[^23]。助手はハーバードへ行き、魂は辺境に残った。
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/2TyXgAB4_78" title="全台最大公益NFT專案怎麼做 ft. FAB DAO 共同創辦人黃豆泥" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+_黄豆泥が医師を辞めた後のWeb3公益作品（デジタル時代によるインタビュー）。複雑生活節のビジュアル制作担当から、台湾最大の公益NFTプロジェクトの共同創設者へ。この動画は「助手はハーバードへ」という軌跡の次なるステップである。[^33]_
+
+許皓甯は台中を離れていない。彼は1988年彰化県に生まれ、田畑に囲まれた田舎育ちである。中学時代は学年トップの成績を収め、彰化高校の数理優等クラスに入り、その後、中国医薬大学の中医学科へ進んだ。現在は北屯区にある中医学クリニックの院長を務めている[^5]。大学時代、彼は家庭での相次ぐ不幸に見舞われた。大学2年生の時に母親が脳卒中で倒れ、その2日後に他界。大学6年生の時には父親が病に倒れ、亡くなった。当時、妹は大学4年生、弟は高校2年生であり、彼は家の中で唯一の成人した子供であった[^24]。父親は生前タクシー運転手をしており、母親は家庭内内職に従事していた[^24]。
+
+これらは公に報じられた事実であり、過剰に演出する必要はない。しかし、これらは彼がなぜ留まり続けるのかを理解するための背景である。大学生活の6年間で相次いで両親を見送り、一家を支えてきた人間にとって、「その場所に留まり、物事を守り抜く」という行為は、他人とは異なる重みを持つはずだ。
+
+彼はまた、詩人でもある。中国医薬大学文学芸術研究社の創設社長を務め、耕莘青年写作会の総幹事も務めた。全国学生文学賞や全国医学生文学賞の現代詩部門を含む、4つの文学賞を受賞している[^5]。中医学を学ぶ者、現代詩を書く者、そして青年の集まりを運営する者。これら三つのアイデンティティは彼の中で衝突することなく、むしろ一つの事柄の異なる側面のように存在する。それらはすべて、「人間をより深く見通す」という能力を求める営みなのだ。
+
+後に選挙陣営の拠点を探していた際、偶然古い邸宅に出会い、書店を開くのに適していると感じたことから、「引書店（Reference）」を開いた[^25]。店名の論理は彼自身によく似ている。論文の最後の一節は参考文献であり、真理を求める者にとってそれは欠かせないものだ。「Referenceがあるところに、論拠がある」[^25]のである。「参考文献」の名を冠した書店とは、「私の語る言葉にはすべて出典があり、確かな根拠がある」という信念を、物理的な空間として築き上げたことに等しい。この書店は2024年末に至るまで、自身のPodcastを更新し続けている[^34]。議員選出には失敗したが、書店は生き残ったのだ。
+
+2018年、許皓甯は時代力量（New Power Party）の代表として台中市北屯区の市議会議員選挙に立候補した。16人が競い合う選挙区において、彼は5,332票、得票率3.93%を獲得し、第11位で落選した。選挙資金としては十数万台湾ドル（NT$）の赤字を出した[^26]。出馬の際、彼は非常に特別な言葉を残している。「私が人を愛せるようになることで、素晴らしい人々に愛されたことを証明したい」[^27]。両親を亡くしたばかりの若者が、「他人を愛すること」を通じて、かつて自分を愛してくれた人々が確かに存在していたことを証明しようとしたのだ。この言葉は、選挙という公的な行為を、極めて私的な追悼へと昇華させている。彼はまた、「30歳から50歳までの黄金時代」を北屯に捧げるとも語った[^35]。落選はしたが、選挙陣営の拠点探しから生まれたあの書店は、そこに留まった。一人の人間が、最も公的な方法（選挙）で最も私的な喪失（両親）を悼もうとした結果、最後に残ったのは、最も静かな一軒の店であった。
+
+## 最もクールではなかった一年
+
+第5回は、「志を同じくする人々が集う」というこの祭典において、最も孤独な回となった。2020年、COVID-19が到来した。「血縁のない家族を集めて新年を祝う」ことを核心とする集まりが、世界中が距離を置かなければならない年と衝突したのである。複雑生活節（Complex Life Festival）のこの回のテーマは、「自主隔離」[^28]であった。
+
+対面での大会は開催されず、Podcastへと変更され、計47エピソードが制作された。チームは台湾の北中南を駆け巡り、18人の先達にインタビューを行い[^28]、6回にわたる旧友へのインタビューを実施した[^28]。 「対面、距離感のない、過酷なまでのディープな対話」を基盤としてきた集まりが、その核心である「対面」を解体せざるを得なくなり、残されたのはマイク越しに届く声だけであった。閉幕日は2020年11月11日。彼らはこの回に、「今年の複雑生活節は、最もクールではない一年だった」[^28]というタイトルを付けた。
 
 <div class="audio-embed" style="margin:1.5rem 0;border-radius:8px;overflow:hidden;">
-   <iframe src="https://open.spotify.com/embed/show/7LcpvvKy0hBKtalkFfRgmh" title="Complex Life Festival 5 Self-Isolation Podcast (47 Episodes Total)" style="width:100%;height:232px;border:0;" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://open.spotify.com/embed/show/7LcpvvKy0hBKtalkFfRgmh" title="複雑生活節 5 自主隔離 Podcast（全47回）" style="width:100%;height:232px;border:0;" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-_The fifth edition "Self-Isolation" changed the entity gathering to a 47-episode Podcast. A festival with the faith of "gathering bloodless family," the last edition could only recognize each other through microphones._
+_第5回「自主隔離」は、対面の集まりを47エピソードのPodcastへと変えた。「血縁のない家族を集める」ことを信仰とする祭典の最後の一回は、マイク越しに互いを確認し合うことしかできなかった。_
 
-The podcast description has this paragraph, explaining that year's situation accurately: "From the chaotic beginning of the year... when the world only had isolation as a path, Taiwan was fortunate to become a corner creature of the off-peak value, able to gather, meet, chat about possible futures." [^28] The word "corner creature" is used sadly and accurately. In 2020 the whole world was in lockdown, Taiwan was one of the few places still able to gather and meet, Complex Life Festival seized this gap, made it into a program about "how to recognize each other in an era of isolation."
+番組の解説には、当時の状況を的確に表す一節がある。「パンデミックの先行きが見えない年初から……世界に残された道が隔離のみとなったとき、台湾は幸運にもオフピークの『隅っこの生物（corner creature）』となり、集まり、会い、起こりうる未来について語ることができた」[^28]。「隅っこの生物」という言葉の使い方は、切なくも正確であった。2020年、世界中がロックダウンされる中で、台湾はまだ集まって会うことができる数少ない「隅っこ」であった。複雑生活節はその隙間を捉え、「隔離の時代に、いかにして互いを認識し合えるか」についての番組を作り上げたのである。
 
-The fifth edition previewed the sixth, saying they would draw a free suite for listeners [^28]. But the sixth edition had no record of being held. The entity Complex Life Festival, substantially terminated in 2020. A gathering with gathering as faith, the last edition called Self-Isolation, then scattered—this ending, more than any deliberate design, looks like a metaphor of an era.
+第5回では第6回の予告として、リスナーに無料のワンルームマンションを一台プレゼントすると発表された[^28]。しかし、第6回が開催された記録はどこにもない。実体としての複雑生活節は、実質的に2020年で終焉を迎えた。「集うこと」を信仰とした活動の最後の一回が「自主隔離」と呼ばれ、そして散っていった――この幕引きは、いかなる意図的な演出よりも、一つの時代のメタファー（隠喩）のように感じられる。
 
-How to understand what this gathering of five years, about 1,500 people in total, left? Putting it back in Taiwan after the 2014 Sunflower Student Movement, it becomes clearer. The average age of participants in that movement was twenty-three, over sixty percent were first time going to the streets to participate in politics [^36]. After the movement scattered, the energy of "out of the pass to sow seeds" divided into several exits: some entered the system to create the New Power Party, in 2016 won five legislative seats at once; some did citizen tech to create g0v, turning government data into tools everyone can use; some organized alternative education, grew into Asia's largest Za School. Complex Life Festival took the fourth path: not elections, not coding, not recruiting, just gathering a group of same-age peers in low wages and confusion, letting them know "you are also here."
+5年間開催され、延べ約1,500人が訪れたこの集まりが何を残したのか、どう理解すべきだろうか。それを2014年の太陽花学運（ひまわり学生運動）後の台湾という文脈に置いてみると、より鮮明に見えてくる。あの運動の参加者は平均年齢23歳であり、6割以上が初めて街頭に出て政治に参加した人々であった[^36]。運動が収束した後、「関門を抜け出し種をまく」エネルギーはいくつかの出口へと分かれた。ある者は体制に入り「時代力量」を結成し、2016年には一挙に5議席の立法委員を獲得した。ある者はシビックテックを通じて「g0v」を立ち上げ、政府のデータを誰もが使えるツールへと変えた。またある者はオルタナティブ教育を行い、アジア最大級のフリースクールへと成長させた。複雑生活節が歩んだのは第4の道である。選挙もしない、プログラミングもしない、勧誘もしない。ただ、低賃金と迷いの中にいる同世代の人々を集め、「君もここにいるんだね」と伝えることである。
 
-Interestingly, these four exits intersected again at the third edition of Complex Life Festival: Audrey Tang was the representative of the g0v line walking into the central government, Hsu Hao-ning himself represented the New Power Party running for office, Liu An-ting was the alternative education line—the energy diverging after 318, circled for four years, sat together again in that triangle facing away from the audience. Complex Life Festival's influence is not in scale, but in that moment of "recognizing kindred spirits," and quietly sewing these seemingly separate youth lines into the same room.
+興味深いことに、これら4つの出口は、複雑生活節の第3回において再び交差した。唐鳳（タン・フォン）はg0vの流れで中央政府へと進んだ代表であり、許皓甯（シュー・ハオニン／Hsu Hao-ning）自身は時代力量の代表として出馬した経験があり、劉安婷（リウ・アンティン／Liu An-ting）はオルタナティブ教育の流れを汲んでいる。3.18運動の後に分流していったエネルギーが、4年の歳月を経て、再びあの観客に背を向けた三角形の中に集まったのである。複雑生活節の影響力は規模にあるのではない。「志を同じくする者」を見出すその瞬間、そして、一見バラバラに進んでいた青年たちのルートを、静かに一つの部屋へと縫い合わせたことにあるのだ。
 
-## Ending: You Are Always Just a Little Bit Short
+## 結末：あとほんの少し、足りないまま
 
-The sharpest sentence of Complex Life Festival is what Hsu Hao-ning said on stage at the third edition.
+複雑生活節（Complex Life Festival）で最も鋭い言葉は、第3回において許皓甯（シュイ・ハオニン／シュー・ハオニン）がステージ上で語ったものである。
 
-He first admitted an embarrassing thing: "Complex Life Festival is the most hated activity I ever organized, every year I verify if my faith is true or false. This year's attendees, will they not want to come next year?" [^3] A festival warming others, the main organizer himself doubts every year if it can last. A person building a home for others, standing at the door himself, every year afraid no one will come back.
+彼はまず、ある気まずい事実を認めた。「『複雑生活節』は、私自身がこれまで開催してきた中で最も嫌いなイベントです。毎年、自分の信念が本物かどうかを検証しているようなものです。『今年来た人たちは、来年はもう来たくないと思わないだろうか？』」[^3] 他者のための温もりとなる祭典を主催しながら、主宰者である彼は毎年、それが持ちこたえられるのかを疑っていた。他者のために家を造る者が、自らは門口に立ち、毎年「誰も帰ってこないのではないか」と恐れているのだ。
 
-Then he told a paragraph, unveiling everything behind the four words "unsuccessful people":
+そして彼は、「未成功者」という四文字の背後にあるものをすべて剥き出しにするような言葉を続けた。
 
-"How many years do we have to spend, repeatedly telling ourselves, it's because I'm not strong enough, it's because I'm not good enough, so I must keep moving forward? How long must we hold out, to forgive ourselves to say, I am good enough... Because you will never like yourself, you are always just a little bit short. Do you want to die with regret, or live by giving up?" [^3]
+「私たちは、どれほどの年月をかけて、『自分が足りないからだ』『自分が優れていないからだ』と自分に言い聞かせ続け、前へ進み続けるのだろうか？ 私たちはいつまで耐えれば、『自分はこれで十分だ』と自分を許せるようになるのだろうか……。なぜなら、あなたは決して自分自身を好きになることはできず、永遠にあとほんの少しだけ足りないと感じ続けるからだ。後悔の中で死ぬのか、それとも生きながら諦めるのか？」[^3]
 
-This paragraph解开 the mystery at the beginning. What is "unsuccessful"? It is not a humble term, Huang Dou-ni really went to Harvard, the humble term was already realized by reality. It is not entirely prophecy, this group's later "success" is too varied, cannot be summarized by an upward line. It is more like the state Hsu Hao-ning spoke of: a self-expectation worn on a generation, cannot be pulled off. Always feeling short by a little bit, never willing to say to themselves "I am good enough." Complex Life Festival turned this collective dissatisfaction into an annual gathering—a group a little bit short, mutually confirming they are indeed a little bit short.
+この言葉が、冒頭の謎を解き明かした。「未成功」とは一体何なのか？ それは謙遜ではない。黄豆泥（マッシュビーン）は実際にハーバード大学へ進学しており、謙遜という言葉はとっくに現実によって証明されているからだ。また、それは単なる予言でもない。このグループの人々のその後の「成功」はあまりに千差万別であり、一つの右肩上がりの線で括ることはできない。それはむしろ、許皓甯が語ったような状態に近い。ある世代が身に纏い、脱ぎ捨てることのできない自己への要求である。永遠に自分はあと少し足りないと感じ続け、決して自分に「これで十分だ」とは言えない。複雑生活節は、この集団的な不満足を、年に一度の集まりへと変えた。あと少し足りない人々が集まり、互いに「本当にあと少し足りないのだ」と確認し合う場である。
 
-Huang Dou-ni sealed it in "2016–2019 My Honor." Hsu Hao-ning stayed in Taichung, continuing to see TCM, continuing to care for that bookstore left after losing the election. In the fifth edition year, the world locked everyone into self-isolation, this festival with gathering as faith, in the year gathering was most impossible, quietly drew a period.
+黄豆泥はそれを「2016–2019 私の光栄」の中に封印した。許皓甯は台中に留まり、中医学の勉強を続け、落選後に残ったあの書店を守り続けている。第5回が開かれた年、世界はすべての人々を自主隔離へと追い込んだ。集まることを信仰とするこの祭典は、最も集まることができない年に、静かに幕を閉じた。
 
-That unanswered question still remains on stage: Do you want to die with regret, or live by giving up? A generation refusing to talk about success, finished asking this question, then each returned to their respective complex lives, continuing to live a little bit short.
+誰にも答えられなかった問いは、今もステージに残っている。「後悔の中で死ぬのか、それとも生きながら諦めるのか？」 成功を語ることを拒む世代は、この問いを投げかけ終えると、それぞれが自身の複雑な人生へと戻り、「あと少し足りない」まま生き続けている。
 
 ```tw-timeline
-2016 | Unsuccessful People's Forum | First Edition, 40 days preparation, 200-300 people, Facebook tagging "workaholic, edge of the department" eighth generation
-2017 | Hotel California | Really held in a hotel, theme taken from "enter but never leave" metaphor
-2018 | Buddhist Youth | Audrey Tang, Liu An-ting, Lin Yi-ying three people form a triangle, back to audience dialogue
-2019 | M D F K | Huang Dou-ni hand-drew motherfucker Zhuyin standard characters, jargon only the echo chamber understands
-2020 | Self-Isolation | COVID arrived, entity canceled changed to 47-episode Podcast, "least cool year" then substantially terminated
+2016 | 未成功者フォーラム | 第1回。40日間の準備、200〜300人規模。Facebookには「ワーカホリック、成績優秀層」と記された8年生たち。
+2017 | カリフォルニア・イン（加州旅館） | 実際にホテルで開催。「入ることはできるが、出られない」というメタファーから題材を採択。
+2018 | 仏系青年 | 唐鳳（タン・フォン）、劉安婷（リウ・アンティン）、林依瑩（リン・イーイン）の3人が三角形を描き、観客に背を向けて対談。
+2019 | ㄇㄉㄈㄎ | 黄豆泥が手書きした「motherfucker」の注音符号を用いた標準字。身内だけにしか通じないスラング。
+2020 | 自主隔離 | COVID-19の襲来により、リアル開催を中止し47回のPodcastへ変更。「最もクールではない年」を経て事実上の終了。
 ```
 
-Two "Life Festivals" separated by ten years, are two generations' two answers to "what life should look like":
+二つの「生活節」は10年の隔たりがあり、「生活とはどうあるべきか」に対する二つの世代の異なる答えを示している。
 
 ```tw-versus
-Simple Life Festival (2006) | Complex Life Festival (2016)
-Jonathan Lee, Chang Pei-jen, Ma Tian-zong (Music Industry) | Hsu Hao-ning, Huang Dou-ni (Eighth Generation Medical Students)
-First edition 30,000 people, later 60,000-100,000 | 200-300 people, deliberately maintained small
-Highly commercialized, brand sponsorship | Non-commercial, self-raised tickets
-"Calm and focused" | "Growth", Unsuccessful People's Forum
-Cross-generation, music as core | Clear eighth generation subject
-2025 held 20th anniversary | Substantially terminated in 2020
-Data Source: Complex Life Festival Official Medium, Simple Life Festival Historical Data
+シンプル生活節（2006） | 複雑生活節（2016）
+李宗盛（リー・ゾンション）、張培仁（ジャン・ペイレン）、馬天宗（マー・ティエンゾン）（音楽業界） | 許皓甯（シュイ・ハオニン）、黄豆泥（マッシュビーン）（8年生医学生）
+初回3万人、後に6万〜10万人規模 | 200〜300人、意図的に小規模を維持
+高度な商業化、ブランドスポンサー | 非商業、自主的なチケット販売
+「平穏かつ集中」 | 「成長」、未成功者フォーラム
+世代を超えた音楽中心のイベント | 明確な8年生主体
+2025年に20周年を迎える | 2020年に事実上の終了
+資料元：複雑生活節公式Medium、シンプル生活節歴年資料
 ```
 
-**Further Reading**:
+**関連記事**：
 
-- [Sunflower Student Movement](/ja/society/sunflower-movement) — The era background of Complex Life Festival: How that 2014 movement, after scattering on the streets, divided into New Power Party, g0v, Za School, and Complex Life Festival youth exits
-- [Za School](/ja/society/za-share) — The same wave of 318 post-energy, taking the opposite route: growing into Asia's largest educational carnival, contrasting with Complex Life Festival's "deliberately maintaining small" in scale and intimacy
-- [Taiwan's Slash Generation](/ja/society/taiwan-slash-generation-multi-job-economy) — The structural background of Complex Life Festival participants calling themselves "workaholics": How median wages and survival pressure forced this generation into multi-job individuals
-- [FAB DAO and Project %](/art/FAB DAO與百岳計畫) — Where Huang Dou-ni went after abandoning medicine: The next work of "integrating cypherpunk spirit into Taiwan's digital society"
+- [太陽花学運](/ja/society/sunflower-movement) — 複雑生活節の時代背景：2014年のあの運動が、街頭での集会が終わった後、どのように「時代力量」、g0v、雑学校、そして複雑生活節といういくつかの青年の出口へと分流していったのか。
+- [雑学校](/ja/society/za-share) — 318運動後のもう一つのエネルギー。しかし歩む路線は対照的である。アジア最大級の教育カーニバルへと成長しており、「意図的に小規模を維持」した複雑生活節とは、スケールと親密さ（intimacy）において対照をなしている。
+- [台湾の斜槓世代](/ja/society/taiwan-slash-generation-multi-job-economy) — 複雑生活節の参加者が自称する「ワーカホリック」の構造的背景：賃金の中央値と生存圧力がいかにしてこの世代を一人多職の働き方へと追い込んだのか。
+- [FAB DAOと百岳計画](/art/FAB DAO與百岳計畫) — 黄豆泥は医学を捨てた後、どこへ行ったのか：「サイバーパンク精神を台湾のデジタル社会に融合させる」次なる作品。
 
-## Image Sources
+## 画像出典
 
-This article uses 8 photos of Complex Life Festival on-site scenes and main visual designs, all cached in `public/article-images/society/` to avoid hot-linking source servers. Complex Life Festival is a discontinued non-commercial youth activity, no CC/PD authorized image library, this article cites its public record images for editorial commentary purposes under Article 65 of the Copyright Act (fair use editorial commentary: non-commercial educational nature, publicly published, small citation proportion, no substantial market substitution); sources are all activity records published publicly by organizing team members (Huang Dou-ni) on Medium and third edition on-site observation articles.
+本文では、複雑生活節（ふくざつせいかつせつ）の現場写真8枚およびメインビジュアルを使用しており、ホットリンクによるソースサーバーへの負荷を避けるため、すべて `public/article-images/society/` にキャッシュされています。複雑生活節は既に終了した非営利の青年活動であり、CC/PDライセンスの画像ストックではありませんが、本文では著作権法第65条に基づき、フェアユース（非営利・教育目的、既に公開されている、引用割合が小さい、市場への実質的な代替にならない）としての編集的解説（fair use editorial commentary）として、公開されている記録映像を引用しています。出典はすべて、主催チームのメンバーである黄豆泥（ファン・ドウニ／mashbean）がMediumで公開した活動記録および第3回開催時の現場観察記事です。
 
-- [Complex Life Festival Scene (Cover)](https://medium.com/泥巴第三放送局/當我們討論複雜生活節的視覺設計-我們在討論什麼-81512c97a6c) — Two participants flipping through the agenda, Taiwan Beer baskets serving as seats. Photo: Huang Po-chun Photography / Complex Life Festival. Fair use editorial commentary.
-- [Complex Life Festival Venue](https://medium.com/泥巴第三放送局/當我們討論複雜生活節的視覺設計-我們在討論什麼-81512c97a6c) — Two to three hundred people squeezed in a high-ceilinged space listening to a speaker, speakers and audience mixed. Photo: Complex Life Festival. Fair use editorial commentary.
-- [Complex Life Festival Speaker Sharing](https://medium.com/泥巴第三放送局/當我們討論複雜生活節的視覺設計-我們在討論什麼-81512c97a6c) — Speaker sharing in front of a projection screen, pixel dot-matrix banners hanging on the wall. Photo: Complex Life Festival. Fair use editorial commentary.
-- [Third Edition "Buddhist Youth" Stage](https://siyuchu.medium.com/複雜生活節-iii-明明可以簡單-為何卻偏要複雜-7057d8b6101b) — Speaker holding microphone, "Buddhist Youth" calligraphy banner behind, 59:59 countdown clock. Photo: Complex Life Festival. Fair use editorial commentary.
-- [Third Edition Three-Way Dialogue (Triangle Facing Away from Audience)](https://siyuchu.medium.com/複雜生活節-iii-明明可以簡單-為何卻偏要複雜-7057d8b6101b) — Overhead view three sofas arranged in a triangle, red, blue, yellow curtains, surrounding audience. Photo: Complex Life Festival. Fair use editorial commentary.
-- [Third Edition Audrey Tang Profile](https://siyuchu.medium.com/複雜生活節-iii-明明可以簡單-為何卻偏要複雜-7057d8b6101b) — Close-up of Audrey Tang at the three-way dialogue scene. Photo: Complex Life Festival. Fair use editorial commentary.
-- [Complex Life Village Pass](https://siyuchu.medium.com/複雜生活節-iii-明明可以簡單-為何卻偏要複雜-7057d8b6101b) — Hand holding "Villager Pass" and "Cocktail Voucher," geometric dot-matrix font design. Photo: Complex Life Festival. Fair use editorial commentary.
-- ["Shoe Stop Youth" Sign](https://medium.com/泥巴第三放送局/當我們討論複雜生活節的視覺設計-我們在討論什麼-81512c97a6c) — Shoe removal sign outside the lecture room and a pair of soccer shoes. Photo: Complex Life Festival. Fair use editorial commentary.
-- [Fourth Edition "M D F K" Main Visual](https://medium.com/泥巴第三放送局/當我們討論複雜生活節的視覺設計-我們在討論什麼-81512c97a6c) — Huang Dou-ni hand-drawn motherfucker Zhuyin standard characters. Image: Huang Dou-ni Design / Complex Life Festival. Fair use editorial commentary.
+- [複雑生活節の現場（カバー写真）](https://medium.com/泥巴第三放送局/當我們討論複雜生活節的視覺設計-我們在討論什麼-81512c97a6c) — アジェンダをめくる2人の参加者、台湾ビール（Taiwan Beer）のバスケットが座席代わりに使われている。Photo: 黄柏鈞（こう・はくきん／ファン・ボージュン）撮影 / 複雑生活節。Fair use editorial commentary。
+- [複雑生活節の会場](https://medium.com/泥巴第三放送局/當我們討論複雜生活節的視覺設計-我們在討論什麼-81512c97a6c) — 天井の高い空間に200〜300人が集まり講義を聴いている。登壇者と聴衆が混ざって座っている。Photo: 複雑生活節。Fair use editorial commentary。
+- [複雑生活節の登壇者のシェア](https://medium.com/泥巴第三放送局/當我們討論複雜生活節的視覺設計-我們在討論什麼-81512c97a6c) — プロジェクターの前で話す登壇者、壁にはピクセルドットのデザインのバナーが掛かっている。Photo: 複雑生活節。Fair use editorial commentary。
+- [第3回「佛系青年」ステージ](https://siyuchu.medium.com/複雜生活節-iii-明明可以簡單-為何卻偏要複雜-7057d8b6101b) — マイクを持つ登壇者、背後には「佛系青年」の書道バナーと59:59のカウントダウンタイマー。Photo: 複雑生活節。Fair use editorial commentary。
+- [第3回 三者対談（観客に背を向けた三角形）](https://siyuchu.medium.com/複雜生活節-iii-明明可以簡單-為何卻偏要複雜-7057d8b6101b) — 3つのソファが三角形に並び、赤・青・黄のカーテンが観客を囲んでいる様子を俯瞰。Photo: 複雑生活節。Fair use editorial commentary。
+- [第3回 唐鳳（タン・フォン／g0v）の横顔](https://siyuchu.medium.com/複雜生活節-iii-明明可以簡單-為何卻偏要複雜-7057d8b6101b) — 三者対談の現場での唐鳳のクローズアップ。Photo: 複雑生活節。Fair use editorial commentary。
+- [複雑生活村の通行証](https://siyuchu.medium.com/複雜生活節-iii-明明可以簡單-為何卻偏要複雜-7057d8b6101b) — 「村民通行証」と「カクテル引換券」を手にする様子、幾何学的なドットフォントのデザイン。Photo: 複雑生活節。Fair use editorial commentary。
+- [「靴を脱いでください」の掲示](https://medium.com/泥巴第三放送局/當我們討論複雜生活節的視覺設計-我們在討論什麼-81512c97a6c) — 講演室の外にある脱靴の案内と、置かれたたくさんの靴。Photo: 複雑生活節。Fair use editorial commentary。
+- [第4回「ㄇㄉㄈㄎ」メインビジュアル](https://medium.com/泥巴第三放送局/當我們討論複雜生活節的視覺設計-我們在討論什麼-81512c97a6c) — 黄豆泥（ファン・ドウニ／mashbean）が手書きした motherfucker の注音符号による標準文字。Image: 黄豆泥設計 / 複雑生活節。Fair use editorial commentary。
 
-## References
+## 参考文献
 
-[^1]: [Wikipedia: Hsu Hao-ning](https://zh.wikipedia.org/zh-tw/許皓甯) — Hsu Hao-ning's biography, the origin of Complex Life Festival's organization, the original quote of the name "just call it Complex Life Festival," Facebook tagging keywords, the first edition's thirty groups of speakers list, and the New Power Party election record Chinese first-hand entry.
+[^1]: [Wikipedia：許皓甯](https://zh.wikipedia.org/zh-tw/許皓甯) — 許皓甯の生涯、複雑な生活フェスティバルの発起経緯、「複雑な生活フェスティバルと名付けた」という命名の由来、Facebookのキーワード、第1回30組のスピーカーリスト、および時代力量への出馬記録を含む中国語の一次資料条目。
 
-[^2]: [Ash Center, Harvard Kennedy School: Allen Lab for Democracy Renovation Fellowships](https://ash.harvard.edu/allen-lab-for-democracy-renovation-fellowships/) — Harvard Kennedy School Allen Lab "Democracy Renovation" researcher official page, confirming Huang Yen-lin (Huang Dou-ni) was hired as a 2025-26 academic year non-resident policy researcher.
+[^2]: [Ash Center, Harvard Kennedy School：Allen Lab for Democracy Renovation Fellowships](https://ash.harvard.edu/allen-lab-for-democracy-renovation-fellowships/) — ハーバード・ケネディ・スクール・アレン研究所「民主再建」フェローシップの公式ページ。黄彦霖（mashbean）が2025-26年度の非滞在型政策研究員に選出されたことを確認できる。
 
-[^3]: [cowrite30: Complex Life Festival III Observation Article (Why Complicate When You Could Be Simple)](https://cowrite30.com/2019/01/08/life/) — Third edition on-site observation article, verbatim recording of Hsu Hao-ning's opening speech "the most hated activity I ever organized" and "do you want to die with regret, or live by giving up?" complete paragraph.
+[^3]: [cowrite30：複雑な生活フェスティバル III 観察記（シンプルにできるのに、なぜあえて複雑にするのか）](https://cowrite30.com/2019/01/08/life/) — 第3回の現場観察記。許皓甯の開会挨拶である「自分自身が主催した中で最も嫌いなイベント」および「後悔して死ぬか、生きながら諦めるか？」という一節の逐語録。
 
-[^4]: [The Polysh: Moaning with Illness Aesthetics of Pathology · Pathology Slide Image Exhibition](https://thepolysh.com/blog/2015/12/29/pathology-expo/) — Late 2015 China Medical University Art Center pathology slide image exhibition report, including the list of sixteen medical student curators (including Huang Yen-lin, Hsu Hao-ning) and the curatorial concept "pathological appearance under microscope can still have beauty."
+[^4]: [The Polysh：病的な呻き 病態美学・病理切片画像展](https://thepolysh.com/blog/2015/12/29/pathology-expo/) — 2015年末に中国医薬大学アートセンターで開催された病理切片画像展のレポート。16名の医学部キュレーター名簿（黄彦霖、許皓甯を含む）と、「顕微鏡下の病的な姿にも美しさは存在する」というキュレーション理念が含まれる。
 
-[^5]: [Wikipedia: Hsu Hao-ning (TCM Doctor, Poet, Reference Bookstore)](https://zh.wikipedia.org/zh-tw/許皓甯) — Hsu Hao-ning's Changhua origin, Changhua High School math and science gifted, China Medical University TCM department, Beitou TCM clinic director, founding president of Literary Art Research Society, general secretary of Gengshen Youth Writing Association, and four literary awards Chinese first-hand records.
+[^5]: [Wikipedia：許皓甯（中医師、詩人、引書店）](https://zh.wikipedia.org/zh-tw/許皓甯) — 彰化出身、彰化中高数学理優等クラス、中国医薬大学中医学部、北屯中医学クリニック院長、文学芸術研究社創設社長、耕莘青年執筆会総幹事、および4つの文学賞受賞に関する中国語の一次記録。
 
-[^6]: [Simple Life Festival Official Data and Media Reports Compilation](https://zh.wikipedia.org/zh-tw/簡單生活節) — Simple Life Festival initiated in 2006 by Jonathan Lee, Chang Pei-jen, Ma Tian-zong, main slogan "Do what you like, make what you like valuable," "calm and focused" temperament, historical scale and 2025 20th anniversary background data.
+[^6]: [シンプル生活フェスティバル公式資料およびメディア報道まとめ](https://zh.wikipedia.org/zh-tw/簡單生活節) — 2006年に李宗盛、張培仁、馬天宗によって発起された「シンプル生活フェスティバル」の、メインスローガン「好きなことをし、好きなことに価値を持たせる」、「穏やかで集中した」という雰囲気、歴年の規模、および2025年の20周年に関する背景資料。
 
-[^7]: [Books.com.tw: _The Disappointed Generation: Low Wages, Poverty, and Invisible Future_ (Wu Cheng-hsien / The Reporter)](https://www.books.com.tw/products/0010766494) — Wu Cheng-hsien's 2017 work, defining "Disappointed Generation" as "twenty to thirty-four years old, born with mice in their mouths and possessing the best qualities Taiwan has ever seen, yet facing low wages, poverty, and an invisible future" generation discourse original book.
+[^7]: [博客來：《厭世代：低賃金、貧困、そして見えない未来》（吳承紘 / 報導者）](https://www.books.com.tw/products/0010766494) — 2017年に呉承紘が著した、「厭世代」を「20歳から34歳まで、マウスを握って生まれ、台湾史上最も優れた素養を持ちながらも、低賃金、貧困、見えない未来に直面している世代」と定義した世代論の原著。
 
-[^8]: [Wikipedia: 22K (College Graduate to Enterprise Workplace Internship Program)](https://zh.wikipedia.org/wiki/大專畢業生至企業職場實習方案) — Ministry of Education's 2009 to 2011 program in response to the financial crisis, monthly salary 22,000 NTD, over 30,000 slots, and its Chinese entry on the anchoring effect on Taiwanese youth starting salaries.
+[^8]: [Wikipedia：22K（大学卒業生向け企業インターンシップ制度）](https://zh.wikipedia.org/wiki/大專畢業生至企業職場實習方案) — 金融危機に対応して教育省が2009年から2011年にかけて導入した、月給2万2千元・3万人規模の制度、およびそれが台湾の若者の初任給に与えたアンカー効果に関する中国語条目。
 
-[^9]: [Sofa in the Golden Wheat Field (Wu Wei-rong): Complex Life Festival Taiwan Eighth Generation Birth of Heterotopia](https://medium.com/金色麥田裡的沙發/複雜生活節-台灣-八年級生-異托邦的誕生-e50880f22eb) — Long article analyzing Complex Life Festival using Foucault's heterotopia framework, recording first edition "sold over 200 tickets reaching 250 people," no host, night grass exchange four hours, recruiting speakers with "stone soup" concept and thirty groups of speakers ecology.
+[^9]: [黄金色の麦畑のソファ（吳薇容）：複雑な生活フェスティバル 台湾の8年生 ヘテロトピアの誕生](https://medium.com/金色麥田裡的沙發/複雜生活節-台灣-八年級生-異托邦的誕生-e50880f22eb) — フーコーのヘテロトピアの枠組みを用いて「複雑な生活フェスティバル」を分析した長文。第1回の「200枚以上のチケットが売れ、250人に達した」こと、司会なし、夜間の芝生での4時間に及ぶ交流、「石のスープ」のコンセプトによるスピーカーの募集、および30組のスピーカーの生態を記録している。
 
-[^10]: [Complex Life Festival Official Medium (Introduction to Each Edition)](https://medium.com/複雜生活節-iv/複雜生活節-5586516558aa) — Complex Life Festival official publication's compilation of themes for previous editions, including the second edition "Hotel California Hotel California" held in a hotel, explanation of the "enter but never leave" metaphor.
+[^10]: [複雑な生活フェスティバル公式 Medium（各回の紹介）](https://medium.com/複雜生活節-iv/複雜生活節-5586516558aa) — 複雑な生活フェスティバルの公式パブリケーションによる過去のテーマのまとめ。第2回の「カリフォルニア・ホテル Hotel California」が、ホテルで開催され、「入ることはできるが、出ることはできない」という比喩から取られたことについての説明を含む。
 
-[^11]: [Huang Dou-ni (mashbean) Medium: The Inflated Era of Knowledge Entertainment](https://mashbean.medium.com/) — Huang Dou-ni's article discussing knowledge entertainment, listing Complex Life Festival alongside Za School and Pan-Knowledge Festival, self-separating as "small-scale" and criticizing large events' "spotlight black plague."
+[^11]: [黄豆泥（mashbean）Medium：知識エンターテインメント化の膨張時代](https://mashbean.medium.com/) — 知識のエンターテインメント化について論じた黄豆泥の記事。「複雑な生活フェスティバル」を「雑学校」や「汎知識フェスティバル」と並列させ、自らを「小規模なもの」として区別し、大規模イベントの「スポットライト黒死病」を批判している。
 
-[^12]: [Complex Life Festival IV M D F K: Preface (Official Publication, Wen Chun Huang)](https://medium.com/複雜生活節-iv-ㄇㄉㄈㄎ/複雜生活節四-前言-831861bb7f37) — Fourth edition official preface, verbatim recording of "We are not a forum, we are gathering bloodless family to come back for New Year," "Deep dialogue... is the signature of 'Complex Life Festival'," "We walk further together."
+[^12]: [複雑な生活フェスティバル IV ㄇㄉㄈㄎ：まえがき（公式パブリケーション、Wen Chun Huang）](https://medium.com/複雜生活節-iv-ㄇㄉㄈㄎ/複雜生活節四-前言-831861bb7f37) — 第4回の公式まえがき。「私たちはフォーラムではなく、血縁のない家族が集まり、旧正月を祝う場所である」「深い対話……こそが『複雑な生活フェスティバル』の看板である」「共に少し遠くまで歩こう」という言葉の逐語録。
 
-[^13]: [siyuchu (Chu Szu-yu) Medium: Complex Life Festival III Why Complicate When You Could Be Simple](https://siyuchu.medium.com/複雜生活節-iii-明明可以簡單-為何卻偏要複雜-7057d8b6101b) — Third edition on-site observation article, recording "Buddhist Youth" theme, day China Medical University and night Fengjia Complex Life Village (Si Guan) venue arrangements.
+[^13]: [siyuchu（朱思瑜）Medium：複雑な生活フェスティバル III シンプルにできるのに、なぜあえて複雑にするのか](https://siyuchu.medium.com/複雜生活節-iii-明明可以簡單-為何卻偏要複雜-7057d8b6101b) — 第3回の現場観察記。「仏系青年（悟りを開いたような若者）」というテーマ、および日中の中山医学大学と夜間の逢甲複雑生活村（4つの館）の会場配置について記録している。
 
-[^14]: [siyuchu (Chu Szu-yu) Medium: Complex Life Festival III Three-Way Dialogue Record](https://siyuchu.medium.com/複雜生活節-iii-明明可以簡單-為何卻偏要複雜-7057d8b6101b) — Third edition Audrey Tang, Liu An-ting, Lin Yi-ying three-way dialogue verbatim record, including three people forming a triangle back to audience, Slido receiving questions (including audience asking Audrey Tang about shampoo anecdote), Audrey Tang "government from a perspective of fairness, not suitable for innovation," Liu An-ting "innovation comes from the margins" original quotes.
+[^14]: [siyuchu（朱思瑜）Medium：複雑な生活フェスティバル III 三者対談記録](https://siyuchu.medium.com/複雜生活節-iii-明明可以簡單-為何卻偏要複雜-7057d8b6101b) — 第3回の唐鳳、劉安婷、林依瑩による三者対談の逐語録。3人が三角形になって観客に背を向けて座ったこと、Slidoによる質問（唐鳳のシャンプーに関する逸話を含む）、唐鳳の「政府は公平な立場に立つため、イノベーションには適さない」、劉安婷の「イノベーションは辺境から生まれる」という発言を含む。
 
-[^15]: [siyuchu (Chu Szu-yu) Medium: Complex Life Festival III Observation Article Self-Reflection Paragraph](https://siyuchu.medium.com/複雜生活節-iii-明明可以簡單-為何卻偏要複雜-7057d8b6101b) — Observer Chu Szu-yu's self-reflection at the third edition scene "Why am I pretending to be a successful person here? Am I really successful?" verbatim record.
+[^15]: [siyuchu（朱思瑜）Medium：複雑な生活フェスティバル III 観察記における内省セクション](https://siyuchu.medium.com/複雜生活節-iii-明明可以簡單-為何卻偏要複雜-7057d8b6101b) — 観察者である朱思瑜が第3回の現場で抱いた、「なぜ私はここで成功者のふりをしているのだろう？ 私は本当に成功したのだろうか？」という内省の逐語録。
 
-[^16]: [Sofa in the Golden Wheat Field (Wu Wei-rong): Complex Life Festival Heterotopia Analysis](https://medium.com/金色麥田裡的沙發/複雜生活節-台灣-八年級生-異托邦的誕生-e50880f22eb) — Applying Foucault's "Heterotopia" (Of Other Spaces, 1967) concept to analyze Complex Life Festival, including "strictly speaking, this is the ontology of Complex Life Festival" and the open question "can the effect of two days one night last?"
+[^16]: [黄金色の麦畑のソファ（呉薇容）：複雑生活節 ヘテロトピア分析](https://medium.com/金色麥田裡的沙發/複雜生活節-台灣-八年級生-異托邦的誕生-e50880f22eb) — フーコーの「ヘテロトピア」（Of Other Spaces, 1967）の概念を用いて複雑生活節を分析しており、「これこそが複雑生活節の本質である」という考察や「二日一晩の効果は持続するか」というオープンな問いが含まれています。
 
-[^17]: [Complex Life Festival IV M D F K Official Publication](https://medium.com/複雜生活節-iv-ㄇㄉㄈㄎ/複雜生活節四-前言-831861bb7f37) — Fourth edition official page, confirming theme "M D F K" is the Zhuyin spelling of English motherfucker, and Taichung First Plaza Banpan Hotel honeycomb room venue.
+[^17]: [複雑生活節 IV ㄇㄉㄈㄎ 公式 publication](https://medium.com/複雜生活節-iv-ㄇㄉㄈㄎ/複雜生活節四-前言-831861bb7f37) — 第4回公式ページ。テーマである「ㄇㄉㄈㄎ」が英語の motherfucker の注音符号による表記であること、および台中第一広場の畔畔旅店（伴畔旅店）のハニカムルームが会場であることを確認できます。
 
-[^18]: [Huang Dou-ni (mashbean) Medium: Complex Life Festival Visual Design Self-Statement](https://medium.com/泥巴第三放送局/當我們討論複雜生活節的視覺設計-我們在討論什麼-81512c97a6c) — Huang Dou-ni's self-statement of the fourth edition M D F K visual design, including hand-drawn Zhuyin standard characters, "while being disciplined, speaking boundless nonsense," "youth jargon, only understood by the echo chamber" design tone.
+[^18]: [黄豆泥（mashbean）Medium：複雑生活節のビジュアルデザイン自叙伝](https://medium.com/泥巴第三放送局/當我們討論複雜生活節的視覺設計-我們在討論什麼-81512c97a6c) — 黄豆泥による第4回「ㄇㄉㄈㄎ」のビジュアルデザインに関する記述。「手書きの注音標準文字」「規律に従いながら、際限のないデタラメを語る」「若者の隠語、同じコミュニティにしか通じないもの」といったデザインの方向性が述べられています。
 
-[^19]: [web3plus (Digital Times): Huang Dou-ni Author Introduction](https://web3plus.bnext.com.tw/author/5165) — Huang Yen-lin (Huang Dou-ni) author bio, verbatim recording of "Due to obsession with the deep structure of the internet and social networks, I resigned from my doctor's job, now dedicated to integrating the cypherpunk spirit into Taiwan's digital society."
+[^19]: [web3plus（デジタル時代）：黄豆泥著者紹介](https://web3plus.bnext.com.tw/author/5165) — 黄彦霖（黄豆泥）の著者プロフィール。「インターネットと社会ネットワークの深層構造に没頭したため医師を辞職し、現在はサイバーパンク精神を台湾のデジタル社会に融合させることに尽力している」という記述が逐語録されています。
 
-[^20]: [ABMedia: FAB DAO and Project %](https://abmedia.io/20220630-charity-dao-fab-dao-project) — FAB DAO (Formosa Art Bank DAO) established August 2021, co-founded with generative artist Wu Zhe-yu "Project %," reported on issuing 10,101 Taiwan mountain peak digital artworks.
+[^20]: [ABMedia：FAB DAO と百岳計画](https://abmedia.io/20220630-charity-dao-fab-dao-project) — 2021年8月に設立されたFAB DAO（Formosa Art Bank DAO）が、ジェネレーティブ・アーティストの呉哲宇と共に「百岳計画」を立ち上げ、1,011点の台湾の山々をテーマにしたデジタルアートを発行したことに関する報道。
 
-[^21]: [Huang Dou-ni (mashbean) Medium: Complex is Hao-ning's Masterpiece](https://medium.com/泥巴第三放送局/當我們討論複雜生活節的視覺設計-我們在討論什麼-81512c97a6c) — Huang Dou-ni's verbatim tone setting "Complex reasonably became Hao-ning's creation, we as visual auxiliary continued to exist in the work team," confirming Hsu Hao-ning as main organizer, himself as visual auxiliary.
+[^21]: [黄豆泥（mashbean）Medium：複雑は皓甯の代表作である](https://medium.com/泥巴第三放送局/當我們討論複雜生活節的視覺設計-我們在討論什麼-81512c97a6c) — 黄豆泥本人による記述。「『複雑』が理にかなって皓甯の創作物となり、私たちはビジュアル面での補助として制作チームに存在し続ける」と述べられており、許皓甯がメイン召喚者であり、自身はビジュアル補助であることを確認しています。
 
-[^22]: [Huang Dou-ni (mashbean) Medium: Reflection on the End of Complex Life Festival 4](https://medium.com/泥巴第三放送局/當我們討論複雜生活節的視覺設計-我們在討論什麼-81512c97a6c) — Huang Dou-ni's verbatim record "Complex Life Festival 4 ends, for me personally symbolizes the end of an era, the era of always dreaming and always cool ended coincidentally with the difficulty of Facebook fan page operation."
+[^22]: [黄豆泥（mashbean）Medium：複雑生活節 4 終了後のリフレクション](https://medium.com/泥巴第三放送局/當我們討論複雜生活節的視覺設計-我們在討論什麼-81512c97a6c) — 黄豆泥による記述。「複雑生活節 4 の終了は、私個人にとって一つの時代の終わりを象徴している。夢を見続け、楽しんでいた時代は、Facebookページの運営の困難と共に、図らずも幕を閉じた」という言葉が逐語録されています。
 
-[^23]: [Huang Dou-ni (mashbean) Medium: Sealed Here 2016–2019 My Honor](https://medium.com/泥巴第三放送局/當我們討論複雜生活節的視覺設計-我們在討論什麼-81512c97a6c) — Huang Dou-ni's farewell to Complex Life Festival's four years "Those four years, what Complex taught me is probably here, sealed here. 2016–2019 My Honor" verbatim record.
+[^23]: [黄豆泥（mashbean）Medium：ここに封印する 2016–2019 私の光栄](https://medium.com/泥巴第三放送局/當我們討論複雜生活節的視覺設計-我們在討論什麼-81512c97a6c) — 複雑生活節の4年間に対する黄豆泥の別れの言葉。「あの4年間、複雑が教えてくれたことはおそらくここまで。ここに封印する。2016–2019 私の光栄」という記述が逐語録されています。
 
-[^24]: [ETtoday: New Power Party Hsu Hao-ning Beitou Election Report](https://www.ettoday.net/news/20181024/1289195.htm) — 2018 Hsu Hao-ning election report, recording his father drove a taxi, mother did home-based piecework, mother had a stroke in his second year died two days later, father passed away in his sixth year family background, and "I hope I can love people, to prove I was loved by great people" original quote.
+[^24]: [ETtoday：時代力量 許皓甯 北屯区への出馬報道](https://www.ettoday.net/news/20181024/1289195.htm) — 2018年の許皓甯の出馬に関する報道。父親がタクシー運転手、母親が家庭内内職に従事していたこと、母親が大学2年生の時に脳卒中で発症し2日後に逝去したこと、父親も大学6年生の時に病死したという家族背景、および「私が人を愛せるようになることで、素晴らしい人に愛されていたことを証明したい」という本人の言葉を記録しています。
 
-[^25]: [VERSE: Taichung Independent Bookstore Tour (Reference Bookstore)](https://www.verse.com.tw/article/taichung-indepedent-bookstores) — Taichung independent bookstore report, recording Hsu Hao-ning accidentally encountered an old house while looking for a campaign headquarters to open "Reference Bookstore," store name Reference taken from "thesis last paragraph, Reference is where, argument stands" logic.
+[^25]: [VERSE：台中独立書店巡礼（引書店）](https://www.verse.com.tw/article/taichung-indepedent-bookstores) — 台中の独立書店に関する報道。許皓甯が選挙本部を探していた際に偶然古い邸宅を見つけ、「引書店」を開いた経緯を記録。「Reference（参考文献）」という店名は、「論文の最後の段落、Referenceがどこにあるかに立論がある」という論理から取られています。
 
-[^26]: [votetw Election Database: Hsu Hao-ning (2018 Taichung Beitou District City Councilor)](https://votetw.com/data/candidate/許皓甯) — 2018 local election official voting data, Hsu Hao-ning received 5,332 votes, vote rate 3.93%, ranked eleventh in sixteen-person constituency lost.
+[^26]: [votetw 選挙データベース：許皓甯（2018年 台中市北屯区 市議会議員）](https://votetw.com/data/candidate/許皓甯) — 2018年地方選挙の公式開票データ。許皓甯は5,332票を獲得、得票率3.93%で、16人の候補者がいる選挙区において第11位となり落選しました。
 
-[^27]: [ETtoday: Hsu Hao-ning Beitou Election "I Hope I Can Love People" Report](https://www.ettoday.net/news/20181024/1289195.htm) — 2018 Hsu Hao-ning election report, verbatim recording of his post-loss of both parents election declaration "I hope I can love people, to prove I was loved by great people."
+[^27]: [ETtoday：許皓甯 北屯への出馬「私が人を愛せるようになることで」報道](https://www.ettoday.net/news/20181024/1289195.htm) — 2018年の許皓甯の出馬に関する報道。両親を亡くした後の出馬宣言である「私が人を愛せるようになることで、素晴らしい人に愛されていたことを証明したい」という言葉が逐語録されています。
 
-[^28]: [Apple Podcasts: Complex Life Festival 5 Self-Isolation](https://podcasts.apple.com/tw/podcast/複雜生活節5-自主隔離/id1516217922) — Fifth edition "Self-Isolation" official Podcast, total 47 episodes, including running north central south interviewing 18 seniors, 6 old friend interviews, closing November 11, 2020 "least cool year," previewing Complex Six drawing free suite and "world only left isolation path, Taiwan fortunate to become off-peak corner creature" podcast description.
+[^28]: [Apple Podcasts：複雑生活節 5 自主隔離](https://podcasts.apple.com/tw/podcast/複雜生活節5-自主隔離/id1516217922) — 第5回「自主隔離」の公式Podcast（全47回）。北中南を駆け巡って18人の先達にインタビューしたこと、6回の旧友インタビュー、2020年11月11日の閉幕テーマ「最もクールではない一年」、複雑生活節6の無料宿泊券抽選予告、および「世界には隔離という道しか残されていないが、台湾は幸運にもオフピークの隅っこにいる生物になれた」という番組説明が含まれています。
 
-[^29]: [YouTube (Ministry of Education Youth Development Administration): Super Wall Tuesday × Complex Life Festival × Hsu Hao-ning: It's Too Hard to Be Simple, Let's Explore Complexity Together](https://www.youtube.com/watch?v=oA-7hqhSM8c) — Ministry of Education Youth Development Administration "Super Wall Tuesday" series official video, Hsu Hao-ning himself talks about Complex Life Festival, title positively responds to the naming pairing of "simple vs complex."
+[^29]: [YouTube（教育部青年発展署）：超牆Tuesday × 複雑生活節 × 許皓甯：シンプルであることは難しすぎる、それなら一緒に複雑さを探索しよう](https://www.youtube.com/watch?v=oA-7hqhSM8c) — 教育部青年発展署の「超牆 Tuesday」シリーズ公式動画。許皓甯本人が複雑生活節について語っており、タイトルは「シンプル vs 複雑」という命名の対比に正面から応えています。
 
-[^30]: [siyuchu (Chu Szu-yu) Medium: Complex Life Festival III Speaker Record](https://siyuchu.medium.com/複雜生活節-iii-明明可以簡單-為何卻偏要複雜-7057d8b6101b) — Third edition on-site observation article, recording speakers other than the three-way dialogue, including Pan-Science editor Lei Ya-qi, Dr. Lang Quan, Liu Qian-ping, 227 Li Xue-cheng, "average designer" Lin Hui-qiu, etc.
+[^30]: [siyuchu（朱思瑜）Medium：複雑生活節 III スピーカー記録](https://siyuchu.medium.com/複雜生活節-iii-明明可以簡單-為何卻偏要複雜-7057d8b6101b) — 第3回の現場観察記事。三者対談以外のスピーカーについて記録しており、泛科学の編集長である雷雅淇、浪犬博士、劉千萍、貳貳柒の李學誠、「凡庸なデザイナー」林慧秋などが含まれています。
 
-[^31]: [YouTube (TEDxTaipei): Embracing the Generation Starts with Education — Liu An-ting at TEDxTaipei 2013](https://www.youtube.com/watch?v=n38D7DCDtbk) — TEDxTaipei official channel, Liu An-ting talks about "Teach For Taiwan" and remote area education speech; her sentence "innovation comes from the margins" at Complex Life Festival third edition three-way dialogue is consistent with this vein.
+[^31]: [YouTube（TEDxTaipei）：世代を受け入れることは教育から始まる — 劉安婷 at TEDxTaipei 2013](https://www.youtube.com/watch?v=n38D7DCDtbk) — TEDxTaipei公式チャンネル。劉安婷氏が「台湾のために教える」ことと僻地教育について語った講演です。「イノベーションは辺境から生まれる」という彼女の言葉は、複雑生活節第3回三方対談での発言とも通じています。
 
-[^32]: [Creative Coding Taiwan: mashbean Community Sharing (2022-04)](https://creativecoding.in/2022/05/08/creative-coding-meetup-202204-mashbean/) — Creative Coding meetup record, Huang Dou-ni shares his abandonment of medicine timeline "I was still a doctor last year," corroborating ~2021 resignation, abandonment of medicine is a gradual process.
+[^32]: [Creative Coding Taiwan：mashbean コミュニティ・シェアリング（2022-04）](https://creativecoding.in/2022/05/08/creative-coding-meetup-202204-mashbean/) — Creative Coding meetupの記録。黄豆泥氏が医師を辞めた経緯について、「昨年まで医師をしていた」と語っており、2021年頃の離職と医師を辞める決断が漸進的なプロセスであったことを裏付けています。
 
-[^33]: [YouTube (Digital Times Official): How to Do Taiwan's Largest Public Welfare NFT Project ft. FAB DAO Co-founder Huang Dou-ni](https://www.youtube.com/watch?v=2TyXgAB4_78) — Digital Times official channel interview, Huang Dou-ni talks about FAB DAO public welfare NFT project, first-hand image of his post-abandonment of medicine web3 public welfare works.
+[^33]: [YouTube（數位時代 Official）：台湾最大の公益NFTプロジェクトの作り方 ft. FAB DAO 共同創設者 黄豆泥](https://www.youtube.com/watch?v=2TyXgAB4_78) — 數位時代公式チャンネルによるインタビュー。黄豆泥氏がFAB DAOの公益NFTプロジェクトについて語っており、医師を辞めた後のWeb3における公益活動の一次映像です。
 
-[^34]: [VERSE: Taichung Independent Bookstore Tour (Reference Bookstore Current Status)](https://www.verse.com.tw/article/taichung-indepedent-bookstores) — Taichung independent bookstore report, recording Reference Bookstore remained after losing election, Hsu Hao-ning manages, and has same-name Podcast _Reference Bookstore_ still updating until end of 2024.
+[^34]: [VERSE：台中独立書店巡礼（引書店 現況）](https://www.verse.com.tw/article/taichung-indepedent-bookstores) — 台中の独立書店に関するレポート。落選後も存続し、許皓甯氏が運営する「引書店」を記録しています。同名のPodcast『引書店』は2024年末時点でも更新が続いています。
 
-[^35]: [Newtalk News: Hsu Hao-ning Beitou Election Policy](https://newtalk.tw/news/view/2018-04-19/121467) — 2018 Hsu Hao-ning election report, recording his election declaration "From age 30 to 50 golden years, I will dedicate myself to Beitou."
+[^35]: [Newtalk新聞：許皓甯 北屯選挙公約](https://newtalk.tw/news/view/2018-04-19/121467) — 2018年の許皓甯氏の出馬に関する報道。「30歳から50歳の黄金時代、私は自分自身を北屯に捧げる」という彼女の選挙宣言を記録しています。
 
-[^36]: [Carnegie Endowment: The Activist Legacy of Taiwan's Sunflower Movement (Ming-sho Ho, 2018)](https://carnegieendowment.org/research/2018/08/the-activist-legacy-of-taiwans-sunflower-movement?lang=en) — Academic analysis of Sunflower Student Movement participants composition (average age about 23, majority first time participating in politics) and "out of the pass to sow seeds" post-divergence into party, citizen tech, alternative education and other youth lines legacy.
+[^36]: [Carnegie Endowment：The Activist Legacy of Taiwan's Sunflower Movement（Ming-sho Ho, 2018）](https://carnegieendowment.org/research/2018/08/the-activist-legacy-of-taiwans-sunflower-movement?lang=en) — ひまわり学生運動の参加者の構成（平均年齢約23歳、多くが政治参加初体験）と、「社会へ出て種をまく」活動を経て、政党、シビックテック、オルタナティブ教育などの青年路線へと分流していった遺産についての学術的分析。
