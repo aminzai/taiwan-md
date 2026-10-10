@@ -128,7 +128,7 @@ _2026年3月、高雄市街の緑地で採餌するクロガササギ。台北�
 - **Hero**：[Malayan Night Heron, Taipei Taiwan](<https://commons.wikimedia.org/wiki/File:Malayan_Night_Heron_(Gorsachius_melanolophus),_Taipei_Taiwan.jpg>) — Photo: Dr. Raju Kasambe, 2010-05-14, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)。台北市街公園でミミズを採餌する記録。
 - **Inline**：[Malayan night heron foraging Kaohsiung Taiwan](https://commons.wikimedia.org/wiki/File:Malayan_night_heron_foraging_Kaohsiung_Taiwan_2026-03-28_0846.jpg) — Photo: The Nature Box, 2026-03-28, [Public domain (CC0)](https://creativecommons.org/publicdomain/zero/1.0/deed.en)。高雄市街緑地での採餌の近期記録。
 
-## 參考資料
+## 参考資料
 
 [^1]: [国立自然科学博物館蔵 — クロガササギ標本](https://www.nmns.edu.tw/ch/research/specimen/featured/Collection-000530/) — 1865年6月スウィンホー（Robert Swinhoe）が淡水で採集した初期標本記録を収録、台湾におけるクロガササギの最古の科学記録。
 

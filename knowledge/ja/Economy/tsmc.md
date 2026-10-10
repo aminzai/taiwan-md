@@ -251,7 +251,7 @@ NVIDIAのAI学習チップ、アップルのスマホプロセッサ、AMDのサ
 - [TSMC新竹ファブ空撮 (hero)](https://commons.wikimedia.org/wiki/File:TSMC_fabs_in_Hsinchu_01.jpg) — Photo: 曾成訓 (Tseng Cheng-Hsun), 2020-01-02. [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) via Wikimedia Commons.
 - [TSMCアリゾナ Fab 21建設現場空撮](https://commons.wikimedia.org/wiki/File:231105-1_TSMC_Fab_21_construction.jpg) — Photo: Hunter Trick, 2023-11-05. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) via Wikimedia Commons. ShareAlike 4.0：本文（この画像の派生利用含む）は互換ライセンスを採用。
 
-## 參考資料
+## 参考資料
 
 [^1]: [TSMC 2026 Q1 Quarterly Results](https://investor.tsmc.com/english/quarterly-results/2026/q1) — TSMC公式サイト投資家向け情報 2026年第1四半期決算、単四半期売上359億ドル（新台幣1兆1,341億元）、前年比40.6%増、財務ガイダンス上限超えを記録。
 

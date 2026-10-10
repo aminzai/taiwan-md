@@ -211,7 +211,7 @@ _TEDxTaipei公式チャンネル、2012年：施振栄〈談王道與共創共�
 - [Predator Helios 300 eスポーツノートPC](https://commons.wikimedia.org/wiki/File:Acer_Predator_Helios_300_back_panel_open.jpg) — Photo: Vjdeep, CC BY 3.0
 - [Acer Chromebook CB3-111](https://commons.wikimedia.org/wiki/File:Acer_Chromebook_CB3_111_B%26H_jeh.JPG) — Photo: Jim.henderson, CC0
 
-## 參考資料
+## 参考資料
 
 [^1]: [智栄財団法人〈1992 微笑カーブ〉](https://stansfoundation.org/articles/bdfb93) — 施振栄自らの財団法人。微笑カーブの原始定義と施振栄の逐字発言を収録。「組立はすでにコンピュータ産業において付加価値が最も低い部分变成了」を含む。
 

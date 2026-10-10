@@ -68,7 +68,7 @@ translatedAt: '2026-08-04T17:42:34+08:00'
 
 ---
 
-## 參考資料
+## 参考資料
 
 - [サバヒー — ウィキペディア](https://zh.m.wikipedia.org/zh-tw/%E8%99%B1%E7%9B%AE%E9%AD%9A)
 - [「サバヒー」の命名と鄭成功の関係は？ — Food Next 未来食報](https://www.foodnext.net/life/culture/paper/5098989327)

@@ -167,7 +167,7 @@ _Vol.155《誠徵設計》。見極め方を教える雑誌が、最後に自ら
 - **DesignBIZ Fest 2022 講演者現場**：Shopping Design／DesignBIZ Fest、出典 <https://designbiz.shoppingdesign.com.tw/2022/>。Fair use（editorial commentary）。
 - **Vol.155《誠徵設計》表紙**：巨思メディアグループ Business Next Media、出典 <https://www.shoppingdesign.com.tw/magazine/view/130050>。Fair use（editorial commentary）。
 
-## 參考資料
+## 参考資料
 
 [^1]: [雑誌は読者に意識的に生きることを提醒しなければならない：《Shopping Design》総編集長李恵貞](https://www.biosmonthly.com/article/8577) — BIOS monthly 2017年2月インタビュー。李恵貞が総編集長として「6年目」に入ったこと、および第100号が「白のデザインを購入する」で創刊号「白のデザイン」に応じたことを記録。
 

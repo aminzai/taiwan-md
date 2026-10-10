@@ -57,7 +57,7 @@ translatedAt: '2026-07-31T01:15:25.693364+00:00'
 - [八炯](/ja/people/pa-chiung-political-youtuber) — 同世代で中国共産党の統一戦線工作の解体に特化したYouTuber。波特王の「ピンク特報」と相互検証の関係にあります
 - [陳子見](/ja/people/chen-tzu-jian) — 中央テレビ（央視）の口調を真似た政治風刺でキャリアを築いたもう一人のクリエイター。二つのデジタル抵抗の道筋を対比させます
 
-## 參考資料
+## 参考資料
 
 [^1]: [不准叫總統！波特王霸氣回嗆：這錢不賺也罷](https://news.ltn.com.tw/news/politics/breakingnews/3010141) — 《自由時報》，2019-12-15。
 

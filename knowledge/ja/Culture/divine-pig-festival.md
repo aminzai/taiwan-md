@@ -107,7 +107,7 @@ translatedAt: '2026-06-12T00:53:40+08:00'
 - **[伝統祭慶と慶典](/ja/culture/traditional-festivals-and-celebrations)** — 義民祭、農暦祭の祭祀文化全景
 - **[族群（閩南客家原住民外省新住民）](/ja/culture/ethnic-groups)** — 閩客族群の文化実践の差異と融合
 
-## 參考資料
+## 参考資料
 
 [^1]: [李至堉／神豚要不要？從民俗文化的邏輯看起 — 鳴人堂](https://opinion.udn.com/opinion/story/11373/2699683) — 民俗文化の論理から神豚祭典の歴史的起源、飼育倫理、当代争点を分析
 

@@ -143,7 +143,7 @@ difficulty: 'intermediate'
 - [卓榮泰](/ja/people/cho-jung-tai) — 賴清德の初代首相、2024‑05‑20 蕭美琴監交儀式で印信を受け取った相手
 - [徐巧芯](/ja/people/hsu-chiao-hsin) — 同じ政治構造の中の別の女性政治原型、蕭美琴とは全く異なる路線と対応する台湾観
 
-## 參考資料
+## 参考資料
 
 [^1]: https://en.mofa.gov.tw/News_Content.aspx?n=1329&s=95238 — 中華民国外交部英文ニュースリリース、蕭美琴が米国議会両院合同式典委員会（Joint Congressional Committee on Inaugural Ceremonies）から正式に名指しで招待され、2021 年 1 月のバイデン就任式に出席したことを記録しています。
 

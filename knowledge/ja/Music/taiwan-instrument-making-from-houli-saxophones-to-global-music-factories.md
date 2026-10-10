@@ -223,7 +223,7 @@ _ローラーオルゴール本体イメージ。Photo: Auckland Museum via Wiki
 - 高雄流行音楽センター：Wikimedia Commons [Kaohsiung Music Center…](https://commons.wikimedia.org/wiki/File:Kaohsiung_Music_Center_and_Great_Tiger_Bridge_during_2022_Taiwan_Lantern_Festival.jpg)，CC BY-SA。地理アンカー。
 - ローラーオルゴール：Auckland Museum via Wikimedia Commons [Music box](https://commons.wikimedia.org/wiki/File:Music_box_%28AM_641293%29.jpg)，CC BY 4.0。イメージ、協櫻特定製品ではありません。
 
-## 參考資料
+## 参考資料
 
 [^1]: [文化台中PDF〈輕吹百鳴：后里引領薩克斯風〉](https://www.culture.taichung.gov.tw/media/826094/%E6%96%87%E5%8C%96%E8%87%BA%E4%B8%AD-no03-%E8%BC%95%E5%90%B9%E7%99%BE%E9%B3%B4-%E5%90%8E%E9%87%8C%E5%BC%95%E9%A0%98%E8%96%A9%E5%85%8B%E6%96%AF%E9%A2%A8.pdf) — 台中市政府文化局地方史専門文書、張連昌生没（大正2年／1913-12-10）、1948年第一号、全台七割后里産等口径収録、后里物語の権威ある二次資料の一つ。
 

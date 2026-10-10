@@ -130,7 +130,7 @@ _画像：桃園市中壢區芝芭里の客家擂茶、撮影 氏子、出典 [W
 
 [客家委員会：文化産業の重要要素の探討——以北埔擂茶為例](https://www.hakka.gov.tw/chhakka/app/data/view?module=thesis&id=80&serno=42331)
 
-## 參考資料
+## 参考資料
 
 [^1]: [客家委員会：文化産業の重要要素の探討――北埔擂茶を例として](https://www.hakka.gov.tw/chhakka/app/data/view?module=thesis&id=80&serno=42331) — 国立交通大学客家文化研究論文の要旨を収録し、1999年の北埔専売店、文化体験、政策支援、地方産業化の関連を説明しています。
 

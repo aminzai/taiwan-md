@@ -118,7 +118,7 @@ translatedAt: '2026-08-09T15:02:41+08:00'
 - [金門県中小企業サービスセンター研修報告：鬍鬚張が語る経営の道](https://www.kmdn.gov.tw/1117/1271/1272/212314/h?cprint=pt) — 総経理・張世傑の公式インタビュー、口蹄疫と加盟店撤退の正確な数字を含む。
 - [Formosa Chang — English Wikipedia](https://en.wikipedia.org/wiki/Formosa_Chang) — 英語版ウィキペディアの鬍鬚張項目、国際視点のナラティブ対照に適す。
 
-## 參考資料
+## 参考資料
 
 [^1]: [鬍鬚張公式発展歴史](https://shop.fmsc.com.tw/pages/%E7%99%BC%E5%B1%95%E6%AD%B7%E7%A8%8B) — 公式発展歴史タイムライン、1960年双連屋台、1979年寧夏店から2024年各種認証まで含む。
 

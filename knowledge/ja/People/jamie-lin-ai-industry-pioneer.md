@@ -147,7 +147,7 @@ _簡立峰が陽明交通大学博雅講座で「AI 時代 未来人材」を語
 - 本文 2007 年記者会見写真：Rico Shen、Wikimedia Commons、CC BY-SA 4.0。原始檔案：[2007 Google Taiwan Press Conference Executives](https://commons.wikimedia.org/wiki/File:2007GoogleTaiwanPressConference_Executives-1.jpg)。
 - 動画：陽明交通大学博雅講座、簡立峰講演「AI 時代 未来人材」、YouTube 公式アップロード、インライン外部埋め込みのみ。
 
-## 參考資料
+## 参考資料
 
 [^wiki]: [簡立峰 — 維基百科](https://zh.wikipedia.org/wiki/%E7%B0%A1%E7%AB%8B%E5%B3%B0) — 中国語版ウィキペディア「簡立峰」項目。生年、学歴（淡江電算学士、台大資工修博）、中央研究院資科所副所長、マイクロソフトアジア研究院顧問、Google 台湾総経理、退職後の取締役職務の索引として使用。主要なナラティブは別途『数位時代』『天下雑誌』等の情報源で相互確認。
 

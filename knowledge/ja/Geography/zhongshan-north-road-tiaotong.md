@@ -223,7 +223,7 @@ _円山大飯店、2012年3月11日。写真：lienyuan lee. CC BY 3.0 via Wikim
 - [前美國大使官邸中山北路側](https://commons.wikimedia.org/wiki/File:%E5%89%8D%E7%BE%8E%E5%9C%8B%E5%A4%A7%E4%BD%BF%E5%AE%98%E9%82%B8%E4%B8%AD%E5%B1%B1%E5%8C%97%E8%B7%AF%E5%81%B4.jpg) — Photo: Outlookxp, 2025-08-02, CC BY 4.0
 - [Taipei Grand Hotel 台北圓山飯店 - panoramio](https://commons.wikimedia.org/wiki/File:Taipei_Grand_Hotel_%E5%8F%B0%E5%8C%97%E5%9C%93%E5%B1%B1%E9%A3%AF%E5%BA%97_-_panoramio.jpg) — Photo: lienyuan lee, 2012-03-11, CC BY 3.0
 
-## 參考資料
+## 参考資料
 
 [^1]: [台灣行啟 — 維基百科](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E8%A1%8C%E5%95%93) — 1923年4月12〜27日、日本皇太子裕仁訪台行程記録。4月17日午前、台北駅出発、勅使街道経由で円山台湾神社へ、随行に北白川宮成久王、伏見宮博恭王ら皇族の完全な訪台日程を記載。
 

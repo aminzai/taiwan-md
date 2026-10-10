@@ -62,7 +62,7 @@ translatedAt: '2026-09-13T11:19:07.490573+00:00'
 
 ---
 
-## 參考資料
+## 参考資料
 
 [^1]: [台湾パノラマ — 黄海岱：手袋人形劇の巨匠と五洲園の創始者](https://www.taiwan-panorama.com/en/Articles/Details?Guid=50e770d7-5e8e-475f-9604-68ecd98b40a2&CatId=8&postname=Huang%20Hai-tai--Glove%20Puppetry%20Maestro%20and%20Founder%20of%20the%20Wuchou%20School) — 黄海岱の生涯、五洲園の創立、そして台湾伝統の布袋劇への深い基礎づけについて紹介しています。
 

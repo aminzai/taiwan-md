@@ -60,7 +60,7 @@ Rayは幼い頃からスポーツが好きで、サッカーを経てバスケ�
 
 Rayは国際的なカメラの前で毎回自然に「台湾から来た」と語り、ネットユーザーから「最強の外交官」と称される存在となった。「台湾最強の高校生」から、台湾のグルメと文化を米国の人気動画へ持ち込むまで、彼は台湾の若者が誰かに発見されるのを待つ必要はなく、自ら世界へ飛び出し、世界に見てもらえることを証明した。
 
-## 參考資料
+## 参考資料
 
 - [Ray Twitchチャンネル](https://www.twitch.tv/rayasianboy)
 - [RAY LIVE YouTube公式チャンネル](https://www.youtube.com/@RayLiveee)
@@ -68,7 +68,7 @@ Rayは国際的なカメラの前で毎回自然に「台湾から来た」と�
 - [GQ Taiwanインタビューと動画](https://www.gq.com.tw/article/gq-hype-ray-2025)
 - [台湾YouTube発展史またはデジタルクリエイター関連記事（将来的にリンク可能な場合）]
 
-## 參考資料
+## 参考資料
 
 1. ウィキペディア（中国語版） - Ray (台湾のYouTuber)（2026年最新版）  
    https://zh.wikipedia.org/zh-tw/Ray_(%E8%87%BA%E7%81%A3YouTuber

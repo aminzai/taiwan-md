@@ -102,7 +102,7 @@ _2007年迪化街（ディーホアジェ）旧正月屋台。Photo: Michael Reh
 - [教育部台湾台湾語常用詞辞典：四秀仔](https://sutian.moe.edu.tw/zh-hant/su/1474/) — 読み方、定義、例文。
 - [TaiwanPlus News：Taiwan's Lunar New Year Sweets](https://www.youtube.com/watch?v=hZwELtM16LE) — 英語によるお正月菓子報道。
 
-## 參考資料
+## 参考資料
 
 [^1]: [YouTube：〈録製〉新年超尬録音節目：過年糖果特輯](https://www.youtube.com/watch?v=d2tWy8nsw-w&t=18s) — 公開動画ページ。本文で整理したお正月おやつの品項、食感観察、節慶文脈の素材を提供。
 

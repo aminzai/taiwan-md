@@ -175,7 +175,7 @@ AIは数千万字のアーカイブをより速く整理できますが、どの
 
 - Hero：國家圖書館外觀，自由授權圖片熱網址，攝影 玄史生，[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:ROC_National_Central_Library_headquarters_20090801.jpg)，CC BY-SA 3.0。
 
-## 參考資料
+## 参考資料
 
 [^1]: [外交部：外交部長林佳龍出席《台灣光華雜誌》50週年慶「見證蛻變，分享世界的光華」](https://www.mofa.gov.tw/News_Content.aspx?n=95&sms=73&s=121648) — 外交部 2026 年官方新聞稿，核對 1976 年創刊、1978 年更名《光華》、2006 年更名《台灣光華雜誌》，並說明刊物記錄台灣社會轉型與未來數位化方向。
 

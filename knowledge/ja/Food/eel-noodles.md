@@ -74,7 +74,7 @@ translatedAt: '2026-08-05T06:07:21+08:00'
 
 ---
 
-## 參考資料
+## 参考資料
 
 - [鱔魚意麵 — 維基百科](https://zh.wikipedia.org/zh-tw/%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5)
 - [沙卡里バ — 維基百科](https://zh.wikipedia.org/zh-tw/%E6%B2%99%E5%8D%A1%E9%87%8C%E5%B7%B4)

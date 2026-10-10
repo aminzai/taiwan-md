@@ -124,7 +124,7 @@ _延伸観看：[猫公部落イリシン豊年祭活動、年齢組協働の祭
 
 本文画像はすべて出典ページの直リンクを埋め込み、記事内にローカル画像パスは引用していない。里漏社年齢階級儀式と年齢組織図は[台湾原住民族事典〈アミ族〉](https://aborgpedia.alcd.center/detail?id=2387&search=%E9%98%BF%E7%BE%8E%E6%97%8F&cat=0&race=0&writer=)および[〈年齢組織〉](https://aborgpedia.alcd.center/detail?id=11827&search=&cat=0&race=0&writer=)より、イリシン画像は[文化部記事ページ](https://www.moc.gov.tw/en/News_Content2.aspx?n=490&s=233460)より。正式公開前には原典ページに基づき撮影者・ライセンス条項・埋め込み権限を確認する必要がある。
 
-## 參考資料
+## 参考資料
 
 [^1]: [原住民族委員会：アミ族](https://www.cip.gov.tw/zh-tw/tribe/grid-list/DBADF0287998968BD0636733C6861689/info.html?cumid=8F19BF08AE220D65) — 公式民族紹介。Pangcah／Amis の分布、都市移住、集会所、年齢階級、豊年祭の社会機能を説明。
 

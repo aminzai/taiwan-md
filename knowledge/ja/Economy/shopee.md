@@ -75,7 +75,7 @@ Shopeeの台湾におけるこの10年間は、この島の消費リズムを根
 - [台灣便利商店文化](/ja/lifestyle/convenience-store-culture) — なぜコンビニが台湾の公共インフラになったのか
 - [台灣海關報關制度與EZWAY](/ja/lifestyle/ezway) — 越境包裹が届く前に通過しなければならない関門
 
-## 參考資料
+## 参考資料
 
 [^1]: [PChome 挫咧等？淘寶台灣出奇招搶市占，狂燒上億主打「這件事」](https://www.storm.mg/lifestyle/2695558) — 風傳媒專文
 

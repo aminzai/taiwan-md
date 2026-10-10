@@ -138,7 +138,7 @@ imageCredit: 'MiNe (Flickr), via Wikimedia Commons'
 | `taishan-toll-station-2013-closing.webp`    | 泰山料金所廃止前10ヶ月の站体様貌（2013年2月）                 | [Ompaneyui, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taishan_Toll_Station_20130213.jpg)      | CC BY-SA 3.0 |
 | `tianliao-toll-station-preserved-2022.webp` | 田寮料金所の保存された部分站体（国道3号、2022年）             | [Pbdragonwang, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:田寮收費站.jpg)                      | CC BY-SA 4.0 |
 
-## 參考資料
+## 参考資料
 
 [^1]: [郷関何處？KANO與集合的記憶](https://opinion.udn.com/opinion/story/5769/101971) — 陳子軒が鳴人堂に発表したコラム評論。社会の集合的記憶と歴史にはしばしば落差が存在し、「さわる手」などのネットノスタルジー叙述を理解するための批判的枠組みである。
 

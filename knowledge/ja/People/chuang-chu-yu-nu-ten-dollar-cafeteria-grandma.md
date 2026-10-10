@@ -64,7 +64,7 @@ translatedAt: '2026-06-12T00:53:40+08:00'
 - [台灣志工文化與公益參與](/ja/society/volunteering-and-civic-charity-in-taiwan) — 制度と民間行動から台湾社会公益の長期的文脈を理解します。
 - [台灣眷村菜](/ja/food/military-dependents-village-cuisine) — 庶民の食文化が移動・貧困・コミュニティ相互扶助の中でどのように記憶として形成されたかを比較します。
 
-## 參考資料
+## 参考資料
 
 [^1]: [人心人術](https://www.thinkingtaiwan.net/content/6413](https://www.thinkingtaiwan.net/content/6413) — 本文に関連する背景、データ、イベントの文脈を提供し、記述と検証の根拠とします。
 

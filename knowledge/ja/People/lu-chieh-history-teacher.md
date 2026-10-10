@@ -148,7 +148,7 @@ _写真：[親子天下『師公が補習の名講師に変身』](https://www.p
 - [〈但人性不變。名師呂捷：「學歷史最重要的不是升學考試」〉](https://futureparenting.cwgv.com.tw/family/content/index/22429) — 呂捷の史料・史実・史観に関する発言、および歴史教育への理解を収録。
 - [Taiwan Cram School Culture: The Rise and Fall of One Street](https://taiwan.md/en/society/taiwan-cram-school-culture/) — 南陽街からコミュニティ路地裏まで、補習文化がいかに台湾教育構造の一部となったかを理解する。
 
-## 參考資料
+## 参考資料
 
 [^1]: [故事 StoryStudio／Apple Podcasts：〈誰說臺灣史只能悲情？歷史補教名師縱橫沙場 20 年的第一手現場觀察 ft. 呂捷〉](https://podcasts.apple.com/tw/podcast/%E8%AA%B0%E8%AA%AA%E8%87%BA%E7%81%A3%E5%8F%B2%E5%8F%AA%E8%83%BD%E6%82%B2%E6%83%85-%E6%AD%B7%E5%8F%B2%E8%A3%9C%E6%95%99%E5%90%8D%E5%B8%AB%E7%B8%B1%E6%A9%AB%E6%B2%99%E5%A0%B4-20-%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%8B%E7%8F%BE%E5%A0%B4%E8%A7%80%E5%AF%9F-ft-%E5%91%82%E6%8D%B7/id1593373742?i=1000778009947) — 2026年7月公開の番組紹介。呂捷の高校二二八質問の回想、および台湾史教授法を再考する方向性を記録。
 

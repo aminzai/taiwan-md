@@ -72,7 +72,7 @@ translatedAt: '2026-07-23T23:06:50+08:00'
 - [農曆七月](/ja/culture/lunar-july-ghost-month) — 鬼月一ヶ月の社会リズム
 - [端午節](/ja/culture/dragon-boat-festival) — 節慶ツールキットが台湾でどのように在地化されたか
 
-## 參考資料
+## 参考資料
 
 [^1]: [農曆七月普渡與台灣社會／溫振華](https://www.twcenter.org.tw/thematic_series/history_class/tw_window/e02_20010827) — 呉三連台灣史料基金会。普渡が台湾社会において持つ特別な意義を探る。
 

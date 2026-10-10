@@ -190,7 +190,7 @@ _三峡区歴史文物館内の藍染め装置藝術「藍色Party」。一桶�
 - [美濃客家文物館展示の客家藍衫](https://commons.wikimedia.org/wiki/File:%E7%BE%8E%E6%BF%83%E8%97%8D%E8%A1%AB01.jpg) — Photo: WEI, WAN-CHEN, 2023-02-05, CC BY-SA 4.0
 - [三峡区歴史文物館「藍色Party」藍染め装置藝術](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E5%B1%95%E7%A4%BA%E7%9A%84%E8%97%8D%E6%9F%93%E4%BD%9C%E5%93%81%E3%80%8C%E8%97%8D%E8%89%B2Party%E3%80%8D.jpg) — Photo: 寺人孟子, 2017-08-16, CC BY-SA 4.0
 
-## 參考資料
+## 参考資料
 
 [^1]: [臺灣工藝季刊：三峡藍染業の発展と蛻変（林炯任）](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclcdr&s=id=%22094NTPU0548006%22.&searchmode=basic) — 1998.5 馬芬妹募集猫空へ藍草採集、1999.8 陳景林指導により70年以上ぶりの青い布を染め上げた第一手時系列
 

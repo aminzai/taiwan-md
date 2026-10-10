@@ -104,7 +104,7 @@ translatedAt: '2026-09-12T12:20:26.355108+00:00'
 - 上下游ニュース、[飛魚が黒潮とともに台湾を巡游](https://www.newsmarket.com.tw/blog/170665/)：飛魚の魚類学と回遊習性
 - 農業部水産試験所、[漁業Q&A](https://www.tfrin.gov.tw/theme_data.php?theme=qa&sub_theme=fishery&id=369)：飛魚の産卵と草蓆漁法
 
-## 參考資料
+## 参考資料
 
 [^1]: [蘭嶼部落文化基金会：祭典儀式](https://www.taofoundation.org.tw/story/ceremony.html) — 蘭嶼の地元文化組織による祭典専門記事で、招魚祭・終食祭などの飛魚祭儀式の内容と収蔵祭後の飛魚干しの処理方法を項目ごとに記録しており、現地視点の一次記録となっています。
 

@@ -63,7 +63,7 @@ translatedAt: '2026-08-09T15:02:41+08:00'
 - [伝統節祭與慶典](/ja/culture/traditional-festivals-and-celebrations) — 台湾における他の偶発や危機から生まれた独特の民俗と節祭の変遷を探る。
 - [台湾広告史](/ja/culture/taiwan-advertising-history) — 1980年代のテレビCMがいかに台湾人の消費文化と集団記憶を深く形作ったかを回顧する。
 
-## 參考資料
+## 参考資料
 
 [^1]: [【冷知識週刊】第一零九號：「一家焼肉万家香」のバーベキュー風潮は本当に万家香が牽引したのか？](https://storystudio.tw/article/gushi/cold109) — ストーリー StoryStudio、1981年『民生報』明徳育楽園中秋キャンプバーベキュー報道および1982年『民生報』新竹バーベキュー炉輸出内需転換段落を引用、CMは推波助瀾であって起源ではないと論証。
 

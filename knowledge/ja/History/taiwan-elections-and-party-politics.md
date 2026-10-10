@@ -227,7 +227,7 @@ translatedAt: '2026-09-22T17:20:02.344792+00:00'
 - [議員制度](/ja/politics/city-councilor-system-taiwan) — 県市議員と直轄市議員の制度沿革
 - [Politics Hub](/politics) — 台湾政治環境総覧入口
 
-## 參考資料
+## 参考資料
 
 [^1]: [報道者：中壢事件 40周年記念特集（2017）](https://www.twreporter.org/a/zhongli-incident-40-years) — 市民が中壢警察分局を包囲し、選挙不正を抗議し、江文國と張治平が死亡した。
 
