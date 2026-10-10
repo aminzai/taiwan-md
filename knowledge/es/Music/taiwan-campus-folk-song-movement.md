@@ -1,168 +1,169 @@
 ---
-title: 'El movimiento de la canción folclórica taiwanesa'
-description: 'De "cantar nuestras propias canciones" a transformar toda la escena musical en lengua china: la revolución cultural de los jóvenes en la década de 1970'
+title: 'El movimiento de canción popular taiwanés'
+description: 'Del "cantar nuestras propias canciones" al cambio de toda la escena musical en lengua china — la revolución cultural de los años 70'
 date: 2026-03-18
-author: 'Taiwan.md Contributors'
 category: 'Music'
-subcategory: '流行音樂'
 tags:
   [
-    'Movimiento folclórico',
-    'Canción folclórica universitaria',
-    'Concurso Jinyun',
+    'movimiento de canción popular',
+    'canción popular universitaria',
+    'Premio Jin Yin',
     'Li Shuangze',
     'Yang Xian',
     'Hu Defu',
-    'Cantar nuestras propias canciones',
+    'cantar nuestras propias canciones',
   ]
+subcategory: '流行音樂'
+author: 'Taiwan.md Contributors'
+difficulty: 'beginner'
 readingTime: 12
+featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
-featured: false
 translatedFrom: 'Music/台灣民歌運動.md'
-sourceCommitSha: '7415dcaa'
-sourceContentHash: 'sha256:e201829436b891a1'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:852e24aefb540676'
 sourceBodyHash: 'sha256:61e39c0d29fd318e'
-translatedAt: '2026-05-17T05:34:54+08:00'
-difficulty: 'beginner'
+translatedAt: '2026-10-10T12:07:01+08:00'
 ---
 
-# El movimiento de la canción folclórica taiwanesa
+# El movimiento de canción popular taiwanés
 
-> **Resumen en 30 segundos:** El 3 de diciembre de 1976, durante un concierto en la Universidad Tamkang, Li Shuangze estrelló una botella de Coca-Cola contra el suelo y preguntó: "¿Por qué tenemos que cantar canciones de extranjeros?" — Este "Incidente de Tamkang" dio inicio al movimiento de la canción folclórica taiwanesa. En 1975, Yang Xian estrenó _Cuatro estrofas de nostalgia_ en el Salón Conmemorativo Sun Yat-sen; Hu Defu incorporó cantos ancestrales indígenas; en 1977, los concursos Jinyun y _Viento folclórico_ impulsaron la comercialización y dieron origen a una generación de cantautores folclóricos como Qi Yu, Cai Ye, Ye Jiaxiu y Li Jianfu. Aunque el movimiento de una década terminó con la emigración de talentos y la comercialización, el espíritu de "cantar nuestras propias canciones" se transmitió a las generaciones de Lo Dayou, Chen Qizhen y Zhang Xuan.
+> **Resumen en 30 segundos:** El 3 de diciembre de 1976, durante un concierto en el Instituto de Artes de Tamkang, Li Shuangze lanzó una botella de Coca-Cola al suelo y preguntó: "¿Por qué tenemos que cantar canciones de los extranjeros?" — Este "incidente de Tamkang" dio inicio al movimiento de canción popular taiwanés. En 1975, Yang Xian estrenó "Cuatro versos de nostalgia" en el Salón Zhongshan, Hu Defu introdujo melodías ancestrales de los pueblos indígenas, y en 1977, el Premio Jin Yin y la competencia "Estilo folk" comercializaron la música folk, dando lugar a una generación de cantautores como Qi Yu, Cai Qin, Ye Jiaxiu y Li Jianguo. Aunque el movimiento duró diez años y terminó con la emigración de talentos y la comercialización, el espíritu de "cantar nuestras propias canciones" perdura en generaciones posteriores como la de Lu Daoyou, Chen Qizhen y Zhang Xuan.
 
-El 3 de diciembre de 1976, durante un concierto en la Universidad Tamkang[^1], un estudiante filipino de origen chino subió al escenario con una botella de Coca-Cola en una mano y una guitarra a la espalda, y preguntó con indignación al público: "¿Por qué tenemos que cantar canciones de extranjeros?" Estrelló la botella de Coca-Cola contra el suelo con fuerza[^2], y el sonido del cristal rompiéndose fue considerado después como el instante en que se quebró la colonización musical de toda una era. Aquel hombre se llamaba Li Shuangze, y ese momento fue bautizado como el "Incidente de Tamkang" — el punto de partida más simbólico del movimiento de la canción folclórica taiwanesa.
+El 3 de diciembre de 1976, durante un concierto en el Instituto de Artes de Tamkang[^1]，un estudiante de origen filipino, con una botella de Coca-Cola en mano y una guitarra en hombros, subió al escenario y preguntó con ira a la audiencia: "¿Por qué tenemos que cantar canciones de los extranjeros?" Lanzó la botella de refresco al suelo con fuerza[^2]，el sonido de los cristales rotos fue posteriormente considerado como el momento en que se rompía el colonialismo musical de una era. Esta persona se llamaba Li Shuangze, y este momento fue bautizado como el "Incidente de Tamkang" — el punto de partida más simbólico del movimiento de canción popular taiwanés.
 
-¿Por qué los jóvenes querían cantar sus propias canciones? Cuando Taiwán enfrentó una serie de crisis diplomáticas en la década de 1970 — la salida de la ONU, la ruptura de relaciones diplomáticas con Estados Unidos —, los jóvenes comenzaron a plantearse una pregunta fundamental: en este mundo en constante cambio, ¿cuál es realmente la voz que nos pertenece?
+¿Por qué los jóvenes tenían que cantar sus propias canciones? Cuando Taiwán enfrentó una serie de crisis diplomáticas en los años 70 — la salida de la ONU, el rompimiento de relaciones con Estados Unidos — los jóvenes comenzaron a reflexionar sobre una pregunta fundamental: en este mundo cambiante, ¿qué es lo que realmente nos pertenece?
 
-## Un punto de inflexión de época: ¿por qué "cantar nuestras propias canciones"?
+## El punto de inflexión de la época: ¿por qué "cantar nuestras propias canciones"?
 
-Antes de la década de 1970, el panorama musical taiwanés estaba dominado casi por completo por la música pop occidental. Desde los campus universitarios hasta los cafés, por todas partes sonaban canciones en inglés. Los jóvenes conocían las melodías de Bob Dylan y Joan Baez, pero desconocían por completo las historias de su propia tierra.
+Antes de los años 70, el panorama musical de Taiwán estaba casi completamente dominado por la música popular occidental. Desde los campus universitarios hasta los cafés, por todas partes se escuchaban canciones en inglés. Los jóvenes estaban familiarizados con las melodías de Bob Dylan y Joan Baez, pero desconocían las historias de su tierra natal.
 
-Este fenómeno de desarraigo cultural se agudizó con el impacto de la situación internacional. La visita de Nixon a China en 1972, la ruptura de relaciones diplomáticas entre Taiwán y Estados Unidos en 1978, y el surgimiento del movimiento por las islas Diaoyu llevaron a la juventud taiwanesa a reflexionar: ¿Quiénes somos realmente? ¿Dónde está nuestra voz?
+Este fenómeno de desarraigo cultural se volvió más agudo bajo el impacto de la situación internacional. La visita de Nixon a China en 1972, el rompimiento de relaciones entre Taiwán y Estados Unidos en 1978, y el auge del movimiento de defensa de las islas, hicieron que los jóvenes taiwaneses comenzaran a reflexionar: ¿quiénes somos realmente? ¿Dónde está nuestra voz?
 
-Fue precisamente en este contexto histórico que "cantar nuestras propias canciones" dejó de ser un simple eslogan para convertirse en un movimiento de conciencia cultural. Los jóvenes no se conformaban con ser meros oyentes de música occidental; querían crear sonidos propios de esta tierra, con su propio lenguaje y sus propias historias.
+En este contexto histórico, "cantar nuestras propias canciones" dejó de ser solo un lema y se convirtió en un movimiento de conciencia cultural. Los jóvenes no se conformían con ser simples oyentes de música extranjera; querían crear sonidos propios usando su lengua y sus propias historias, para dar vida al sonido de esta tierra.
 
 ## Tres pioneros: Yang Xian, Hu Defu y Li Shuangze
 
-### Yang Xian: el sembrador de la canción folclórica moderna
+### Yang Xian: el sembrador de la canción popular moderna
 
-El 6 de junio de 1975, Yang Xian, estudiante del Instituto de Oceanografía de la Universidad Nacional de Taiwán, organizó el "Concierto de Creación de Baladas Modernas" en el Salón Conmemorativo Sun Yat-sen de Taipéi.[^3] Compuso música para el poema _Cuatro estrofas de nostalgia_ de Yu Guangzhong, proponiendo por primera vez el concepto de "canción folclórica moderna".
+El 6 de junio de 1975, Yang Xian, estudiante del Instituto de Estudios Marinos de la Universidad Nacional de Taiwán, organizó un concierto de "creación de canción popular moderna" en el Salón Zhongshan en Taipéi[^3]。Adaptó el poema de Yu Guangzhong "Cuatro versos de nostalgia" (https://www.youtube.com/watch?v=0gbgJZqkbGM) y presentó por primera vez el concepto de "canción popular moderna".
 
-La innovación de Yang Xian consistió en combinar la poesía china moderna con la balada y la música country estadounidenses, creando una forma musical sin precedentes. Este concierto es considerado el punto de partida oficial del movimiento de la canción folclórica taiwanesa, y Yang Xian fue honrado como el "padre de la canción folclórica moderna".[^4]
+La innovación de Yang Xian consistía en combinar poesía china moderna con canciones folclóricas y country de Estados Unidos, creando un nuevo forma musical nunca vista antes. Este concierto fue considerado el inicio formal del movimiento de canción popular taiwanés, y Yang Xian fue por tanto reconocido como el "padre de la canción popular moderna".[^4]
 
-### Hu Defu: la voz original
+### Hu Defu: la primera voz
 
-El cantante indígena Hu Defu fue otro importante precursor de este movimiento.[^6] Sus actuaciones en el Café Columbia constituyeron una transmisión cultural a cámara lenta. Hu Defu comenzó a cantar cantos ancestrales del pueblo pinyum, permitiendo a los jóvenes urbanos escuchar por primera vez los sonidos más primigenios y puros de la tierra taiwanesa.
+El cantautor indígena Hu Defu fue otro de los importantes divulgadores de este movimiento[^6]。Sus actuaciones en el café de Columbia fueron una transmisión cultural lenta pero profunda. Hu Defu comenzó a cantar melodías ancestrales de la etnia Paiwan, permitiendo que los jóvenes urbanos escucharan por primera vez la voz más pura y primitiva de la tierra taiwanesa.
 
-En 1974, Hu Defu organizó el concierto "Espiga hermosa", que también fue el escenario donde Yang Xian presentó públicamente _Cuatro estrofas de nostalgia_ por primera vez, sembrando la semilla para el concierto del Salón Conmemorativo Sun Yat-sen del año siguiente.
+En 1974, Hu Defu organizó el concierto "Bellas espigas de arroz", que también fue el lugar donde Yang Xian presentó públicamente por primera vez "Cuatro versos de nostalgia", sembrando las semillas para el concierto del Salón Zhongshan del año siguiente.
 
-### Li Shuangze: el clarín de la revolución
+### Li Shuangze: el trompetero de la revolución
 
-Si Yang Xian fue el sembrador y Hu Defu el precursor, Li Shuangze fue el clarín de la revolución. El "Incidente de Tamkang" del 3 de diciembre de 1976 fue el momento más dramático del movimiento de la canción folclórica taiwanesa.
+Si Yang Xian fue el sembrador y Hu Defu el divulgador, entonces Li Shuangze fue el trompetero de la revolución. El "Incidente de Tamkang" del 3 de diciembre de 1976 fue el momento más dramático del movimiento de canción popular taiwanés.
 
-Este joven, recién regresado de estudiar en España y Estados Unidos, debía sustituir al herido Hu Defu en el escenario. Pero eligió la forma más radical para lanzar una pregunta incómoda al público: "¿Por qué tenemos que cantar canciones de extranjeros?"
+Este joven que había regresado de sus viajes por España y Estados Unidos, debería haber reemplazado a Hu Defu, quien se había lesionado, en el escenario. Pero optó por lanzar una pregunta existencial al público: "¿Por qué tenemos que cantar canciones de los extranjeros?"
 
-El instante en que Li Shuangze estrelló la botella de Coca-Cola se transformó, desde un estallido de emoción personal, en un símbolo de resistencia de toda una generación contra la colonización cultural. Su grito de "cantar nuestras propias canciones" se convirtió rápidamente en el eslogan espiritual del movimiento de la canción folclórica universitaria taiwanesa.
+El momento en que Li Shuangze rompió la botella de Coca-Cola fue amplificado de un instante de emoción personal a un símbolo de resistencia contra el colonialismo cultural de toda una generación. Su grito de "cantar nuestras propias canciones" se convirtió rápidamente en el lema espiritual del movimiento de canción popular universitaria en Taiwán.
 
-🎵 **Escucha**: [Li Shuangze — _Isla hermosa_](https://www.youtube.com/watch?v=4UvWeuzhxHw) — versión interpretada por Yang Zujun
+🎵 **Escucha también:** [Li Shuangze "Isla Hermosa"](https://www.youtube.com/watch?v=4UvWeuzhxHw) — versión interpretada por Yang Zujun
 
-## El motor de la comercialización: el Concurso Jinyun y los restaurantes de música folclórica
+## La fuerza impulsora de la comercialización: Premio Jin Yin y restaurante folk
 
-El "Incidente de Tamkang" encendió la llama de "cantar nuestras propias canciones", pero lo que realmente llevó la música folclórica al pueblo y generó una tendencia fue la intervención de fuerzas comerciales.
+El "Incidente de Tamkang" encendió la llama de "cantar nuestras propias canciones", pero lo que realmente hizo que la canción popular se arraigara en la sociedad y generara una corriente masiva fue la intervención del poder comercial.
 
-En 1977, la discográfica Shin Ge lanzó el concurso de canto "Jinyun", y en 1978 la discográfica Hai Shan fundó el concurso "Viento folclórico".[^5] Estos dos concursos se convirtieron en cunas de cantautores folclóricos. Chen Ming-shao, Bao Mei-sheng, Li Jianfu, Wang Hailing y otros surgieron del "Jinyun"; Cai Ye y Ye Jiaxiu fueron figuras representativas del "Viento folclórico"; Qi Yu y Su Lai fueron estrellas que trascendieron ambas competiciones.
+En 1977, la discográfica Xin Ge lanzó el concurso de canto "Premio Jin Yin", y en 1978, la discográfica Hai Shan creó el concurso "Estilo folk"[^5]。Estos dos concursos se convirtieron en la cuna de los cantantes de canciones populares. Chen Mingxiong, Bao Meisheng, Li Jianguo y Wang Hailin todos comenzaron sus carreras desde el "Premio Jin Yin"; Cai Qin y Ye Jiaxiu eran representantes destacados del "Estilo folk"; Qi Yu e incluso Su Lai eran estrellas que cruzaron ambos bandos.
 
-Al mismo tiempo, surgieron como hongos los restaurantes de música folclórica. Desde "El Barco de Madera" y "El Espantapájaros" en Taipéi hasta los cafés de todo el país, todos se convirtieron en escenarios donde los cantautores folclóricos perfeccionaban su arte e interactuaban con el público. Estos lugares fueron centros de intercambio cultural que llevaron la música folclórica desde los campus universitarios hacia la sociedad.
+Al mismo tiempo, surgieron como mangueras de primavera después de la lluvia numerosos cafés de canción popular. Desde el "Barco de Madera" y el "Gigante de Paja" en Taipéi hasta los cafés en diversas regiones, todos se convirtieron en escenarios donde los cantantes de canciones populares perfeccionaban su arte y se comunicaban con el público. Estos lugares eran puntos de intercambio cultural, llevando la canción popular desde el campus universitario hacia la sociedad.
 
 ## Las estrellas de la era dorada
 
-### La escuela intelectual
+### Canción popular intelectual
 
-La escuela intelectual, representada por Qi Yu, buscaba la combinación de poesía y reflexión filosófica. La voz cristalina de Qi Yu interpretó obras clásicas como _El olivo_ y _Caminando bajo la lluvia_, mostrando el lado literario de la música folclórica.
+Representada por Qi Yu, la canción popular intelectual buscaba la combinación de poesía y filosofía. La voz clara de Qi Yu interpretó clásicos como "Olivo" (https://www.youtube.com/watch?v=PGcw9SvHhh0) y "Caminando en la lluvia", mostrando la cara artística de la canción popular.
 
-### La escuela rural
+### Canción popular rural
 
-_Camino rural_ de Ye Jiaxiu y _La bahía de la abuela en Penghu_ de Pan Anbang representaban la sencillez y calidez de la escuela rural. Estas canciones retrataban el hogar que todos llevaban en el corazón, tocando la fibra sensible de los emigrantes lejos de su tierra natal.
+"Camino en el campo" (https://www.youtube.com/watch?v=abBnysri-XI) de Ye Jiaxiu y "La bahía de Penghu de la abuela" de Pan Anbang representaban la pureza y calidez de la canción popular rural. Estas canciones pintaban el hogar en el corazón de cada persona, conmoviendo el corazón de los nómadas lejos de su tierra natal.
 
-### La escuela urbana
+### Canción popular urbana
 
-Cai Ye, Zheng Yi y otras representaron la sofisticación y madurez de la escuela urbana. Sus técnicas vocales eran más profesionales y los arreglos musicales más elaborados, infundiendo a la música folclórica los colores de la metrópolis moderna.
+Cai Qin, Zheng Yi y otros representaban la sofisticación y madurez de la canción popular urbana. Sus habilidades vocales eran más profesionales y sus arreglos musicales más ricos, inyectando colores modernos de la ciudad en la canción popular.
 
-### El nacimiento de obras clásicas
+### Nacimiento de obras clásicas
 
-Esta época vio nacer innumerables obras clásicas:
+Durante este período nacieron innumerables obras clásicas:
 
-**_El descendiente del dragón_** (letra y música de Hou Dejian, interpretada originalmente por Li Jianfu) nació en 1978, en el contexto de la ruptura de relaciones diplomáticas entre Taiwán y Estados Unidos, expresando la identidad cultural y el sentimiento nacional chino. Es la voz de época con mayor peso histórico del movimiento folclórico. **_El olivo_** (Qi Yu) transmite el anhelo romántico de libertad con "por las aves que vuelan en el cielo"; **_Suave como tu ternura_** (Cai Ye) muestra la delicadeza y profundidad del amor urbano; **_Camino rural_** (Ye Jiaxiu) combina perfectamente la nostalgia con la inocencia; **_La bahía de la abuela en Penghu_** (Pan Anbang) evoca recuerdos de infancia y la poesía del mar; **_Cigarra de otoño_** (Yang Fangyi, Xu Xiaojing) describe la melancolía de los años juveniles; **_Si tan solo..._** (Shi Biwu, Tai Zhaomei) es una fantasía romántica sobre el amor.
+**["El heredero del dragón"](https://www.youtube.com/watch?v=50dyyevLH6I)** (letra y música de Hou Dejian, interpretada por Li Jianguo) nació en el contexto del rompimiento de relaciones entre Taiwán y Estados Unidos en 1978, expresando el sentimiento nacional y la identidad cultural china, siendo la voz más histórica del movimiento de canción popular. **"Olivo"** (Qi Yu) transmite el deseo de libertad con "pequeños pájaros que vuelan hacia el cielo"; **"[Como tu ternura](https://www.youtube.com/watch?v=Yvg3L7RbFHY)** (Cai Qin) muestra el detalle y profundidad del amor urbano; **"Camino en el campo"** (Ye Jiaxiu) combina nostalgia y pureza de manera perfecta; **"La bahía de Penghu de la abuela"** (Pan Anbang) registra recuerdos de la infancia y poesía marítima; **"Cigarra de otoño"** (Yang Fangyi, Xu Xiaojing) retrata la melancolía de la juventud; **"Si"** (Shi Biwu, Tai Zhaomei) es una imaginación romántica sobre el amor.
 
-🎵 **Selección de música folclórica clásica**: [Pan Yuyun — _La primavera también llega para el lirio silvestre_](https://www.youtube.com/watch?v=GSoLwHTXRmM) ｜ [Hu Defu — _El viento del Pacífico_](https://www.youtube.com/watch?v=1orwkijmkIU)
+🎵 **Selección clásica de canciones populares:** [Pan Yueyun "Los lirios silvestres también tienen primavera"](https://www.youtube.com/watch?v=GSoLwHTXRmM) | [Hu Defu "El viento del Pacífico"](https://www.youtube.com/watch?v=1orwkijmkIU)
 
-## El ocaso de una era y la transición
+## El ocaso de la era y la transformación
 
-A principios de la década de 1980, el movimiento de la canción folclórica universitaria taiwanesa comenzó a declinar. Este declive tuvo múltiples causas:
+A principios de los años 80, el movimiento de canción popular universitaria en Taiwán comenzó a declinar. Esta decadencia tuvo múltiples causas:
 
-### Ruptura generacional
+### Desgaste del talento
 
-Las principales figuras del movimiento se graduaron y partieron al extranjero a proseguir sus estudios o cumplieron el servicio militar, lo que provocó una ruptura generacional. Yang Xian partió a Estados Unidos a estudiar medicina china tras publicar _Partida hacia el oeste por la puerta del sol_ en 1977; Li Shuangze falleció accidentalmente en septiembre de 1977, a los 28 años, al rescatar a un joven que se ahogaba en el mar cerca de Tamsui — las dos obras que dejó, _Isla hermosa_ y _China joven_, fueron completadas y grabadas posteriormente por Yang Zujun y Hu Defu[^2]. Muchos cantautores folclóricos también abandonaron temporal o definitivamente los escenarios por razones de planificación profesional.
+Después de graduarse, los principales miembros del movimiento de canción popular se fueron al extranjero para estudiar o a cumplir el servicio militar, causando un vacío de talento. Después de lanzar "Salida hacia el oeste" en 1977, Yang Xian se fue a Estados Unidos para estudiar medicina tradicional china; el 9 de septiembre de 1977, Li Shuangze murió accidentalmente al intentar rescatar a un joven que se había ahogado en la playa de Tamshui, tenía solo 28 años — las dos canciones que dejó, "Isla Hermosa" y "Joven China", fueron posteriormente completadas e interpretadas por Yang Zujun y Hu Defu[^2]。Muchos cantantes de canciones populares también se alejaron temporal o permanentemente del escenario musical debido a sus planes de carrera.
 
-### Cambio en el clima social
+### Cambio en el ambiente social
 
-A finales de la década de 1980, el clima social taiwanés cambió drásticamente. Tras la levantamiento de la ley marcial, surgió el movimiento de localización, y el ambiente universitario giró hacia la crítica a la hegemonía cultural continental. El estilo de la cultura popular local comenzó a reemplazar a la música folclórica universitaria de estilo fresco e inocente.
+A finales de los años 80, la sociedad taiwanesa cambió drásticamente. Después del levantamiento de la censura, el movimiento de localización se desarrolló, y el ambiente en las universidades se volvió crítico hacia la hegemonía cultural continental china. Los estilos de la cultura popular local comenzaron a reemplazar las canciones populares limpias y frescas del campus.
 
-### La doble filo de la comercialización
+### La espada de doble filo de la comercialización
 
-Aunque la comercialización permitió la difusión de la música folclórica, también hizo que la composición musical se volviera gradualmente formulaica, perdiendo la inocencia y el espíritu experimental de los primeros tiempos.
+Aunque la comercialización permitió que la canción popular se popularizara, también hizo que la creación musical se volviera cada vez más estandarizada, perdiendo el espíritu experimental y la pureza de los primeros días.
 
-## Legado e influencia: herederos rebeldes
+## Legado e influencia: los herederos rebeldes
 
-Aunque el movimiento de la canción folclórica universitaria llegó a su fin, su legado influyó profundamente en la música pop taiwanesa posterior.
+Aunque el movimiento de canción popular universitaria llegó a su fin, su legado sigue profundamente influyendo en la música popular taiwanesa posterior.
 
-### Lo Dayou: el heredero rebelde de la música folclórica
+### Lu Daoyou: el heredero rebelde de la canción popular
 
-Lo Dayou puede considerarse el heredero rebelde más importante del movimiento folclórico. Heredó el espíritu de "cantar nuestras propias canciones", pero rechazó la suavidad e inocencia de la música folclórica, optando en cambio por una forma más incisiva y crítica de abordar la realidad social. De _Zhihuzheye_ a _Hogar_, Lo Dayou inauguró una nueva era en la música pop en lengua china.
+Lu Daoyou podría considerarse el heredero rebelde más importante del movimiento de canción popular. Heredó el espíritu de "cantar nuestras propias canciones" de la canción popular, pero rechazó la suavidad y pureza de la canción popular, optando por un enfoque más afilado y crítico hacia la realidad social. Desde "¡Oh sí!" hasta "Casa", Lu Daoyou abrió una nueva era en la música popular china.
 
 ### El ADN de la música independiente moderna
 
-Los cantautores independientes folclóricos que escuchamos hoy, como Chen Qizhen, Zhang Xuan y Lu Guangzhong, en realidad heredan el ADN del movimiento folclórico. También crean música con su propio lenguaje y sus propias historias, y también se preocupan por las emociones personales y los temas sociales, aunque sus formas de expresión son más diversas y más personalizadas.
+Los artistas independientes que escuchamos hoy como Chen Qizhen, Zhang Xuan, Lu Guangzhong y otros, en realidad heredaron el ADN del movimiento de canción popular. Ellos también usan su propio idioma y sus propias historias para crear música, preocupándose tanto por emociones personales como por temas sociales, solo que sus formas de expresión son más diversas y personalizadas.
 
 ### El espíritu eterno de "cantar nuestras propias canciones"
 
-El mayor legado del movimiento folclórico es el espíritu eterno de "cantar nuestras propias canciones". Ya sea la nueva música folclórica posterior, el rock o la música independiente actual, todos en cierto sentido continúan este espíritu: expresar su propia voz a través de la música y responder a las preguntas de la época mediante la creación.
+El mayor legado del movimiento de canción popular es el espíritu eterno de "cantar nuestras propias canciones". Tanto las nuevas canciones populares, el rock, como la música independiente de hoy en día, de alguna manera continúan con este espíritu — expresar nuestra voz a través de la música, responder a los problemas de la época a través de la creación.
 
-## Nostalgia y resurgimiento: 40 y 50 años de música folclórica
+## Renacimiento y nostalgia: Canción popular 40, Canción popular 50
 
-Al entrar en el siglo XXI, a medida que la generación folclórica alcanzó la mediana edad, comenzó a surgir un sentimiento de nostalgia. Actividades conmemorativas como "40 años de música folclórica" y "50 años de música folclórica" se organizaron sucesivamente, trayendo estas canciones clásicas de vuelta al ojo público.
+Al entrar en el siglo 21, con el envejecimiento de la generación de canciones populares, los sentimientos nostálgicos comenzaron a fermentar. Eventos conmemorativos como "Canción popular 40" y "Canción popular 50" se organizaron sucesivamente, trayendo de vuelta estas canciones clásicas a la vista pública.
 
-Pero esta nostalgia apunta al ideal mismo de "cambiar el mundo con la música". En el entorno musical actual, comercializado y digitalizado, la inocencia e idealismo que representó el movimiento folclórico resultan, en cambio, preciosos y conmovedores.
+Pero esta nostalgia apunta al ideal mismo de "cambiar el mundo con música". En el entorno musical actual, comercializado y digitalizado, el idealismo y pureza del movimiento de canción popular resultan más preciados y conmovedores.
 
 ## Conclusión: el significado de la voz
 
-El movimiento de la canción folclórica taiwanesa duró apenas una década, pero transformó el panorama de toda la música en lengua china. Demostró algo: la voz conlleva identidad, conciencia cultural y espíritu de época.
+El movimiento de canción popular taiwanés duró solo diez años, pero cambió completamente el rostro de la música popular china. Demostró algo: la voz lleva consigo la identidad, la conciencia cultural y el espíritu de la época.
 
-Cuando Li Shuangze estrelló la botella de Coca-Cola en Tamkang, la pregunta "¿por qué cantar canciones de extranjeros?" escondía en realidad "¿Quiénes somos?" y "¿En qué queremos convertirnos?". Esta pregunta sigue siendo válida hoy y merece ser reflexionada por cada creador.
+Cuando Li Shuangze lanzó la botella de Coca-Cola al suelo en Tamkang, la pregunta que hizo — "¿por qué tenemos que cantar canciones de los extranjeros?" — en realidad se refería a "¿quiénes somos nosotros?" y "¿qué tipo de personas queremos ser?". Esta pregunta sigue siendo válida y merece que cada creador lo reflexione.
 
-En la era de la globalización, quizás necesitamos aún más plantearnos: en este mundo lleno de todo tipo de sonidos, ¿cuál es realmente la voz que nos pertenece? ¿Cómo encontrar nuestras raíces culturales mientras mantenemos una actitud abierta?
+En la era de la globalización, quizás necesitemos más que nunca pensar en esto: en este mundo lleno de diversas voces, ¿qué es lo que realmente nos pertenece? ¿Cómo podemos encontrar nuestras bases culturales manteniendo una actitud abierta?
 
-La respuesta que nos dio el movimiento de la canción folclórica taiwanesa es: no tener miedo a crear con nuestro propio lenguaje y nuestras propias historias. Porque solo así podremos dejar en este mundo una voz verdaderamente nuestra.
+El movimiento de canción popular taiwanés nos da la respuesta: no temamos crear con nuestro propio idioma y nuestras propias historias. Porque solo así podremos dejar en este mundo una voz que realmente nos pertenece.
 
-## Lecturas complementarias
+## Lecturas relacionadas
 
-- [Desarrollo de la música pop taiwanesa](/music/台灣流行音樂發展) — El eje principal de la música pop en lengua china desde Lo Dayou hasta Chen Qizhen y Zhang Xuan, tras la era folclórica
-- [Literatura taiwanesa tras el levantamiento de la ley marcial](/es/art/post-martial-law-taiwanese-literature) — Otro movimiento de conciencia cultural posterior a 1987, con el mismo espíritu que el "cantar nuestras propias canciones" del movimiento folclórico
-- [Cine taiwanés](/es/art/taiwanese-cinema) — El movimiento del Nuevo Cine taiwanés del mismo período, otro eje del despertar cultural local taiwanés en las décadas de 1970 y 1980
+- [Desarrollo de la música popular taiwanesa](/music/台灣流行音樂發展) — Después de la canción popular, el eje principal de la música popular china desde Lu Daoyou hasta Chen Qizhen y Zhang Xuan
+- [Literatura taiwanesa tras el levantamiento de la censura](/es/art/post-martial-law-taiwanese-literature) — Otra corriente de conciencia cultural surgida después de 1987, con raíces comunes con el espíritu de "cantar nuestras propias canciones" de la canción popular
+- [Cine taiwanés](/es/art/taiwanese-cinema) — Otra corriente del despertar cultural taiwanés local durante los años 70 y 80
+- [San Mao](/es/people/san-mao) — Poeta de la letra original de "Olivo", cuya letra fue reescrita y difundida por toda el mundo de habla china
 
 ---
 
 ## Referencias
 
-[^1]: [Museo Wiki de Tamsui: entrada sobre el Incidente de Tamkang](http://tamsui.dils.tku.edu.tw/wiki/index.php/%E6%B7%A1%E6%B1%9F%E4%BA%8B%E4%BB%B6) — El Museo Wiki de Tamsui documenta de forma completa el Incidente de Tamkang del 3/12/1976 en el concierto de la Universidad Tamkang, incluyendo fecha, personas presentes, detalles de la escena y su impacto posterior.
+[^1]: [Biblioteca de Tamshui: artículo sobre el incidente de Tamkang](http://tamsui.dils.tku.edu.tw/wiki/index.php/%E6%B7%A1%E6%B1%9F%E4%BA%8B%E4%BB%B6) — Registro completo de la Biblioteca de Tamshui sobre el concierto del 3 de diciembre de 1976 en el Instituto de Artes de Tamkang, incluyendo tiempo, personajes, detalles del lugar y su influencia posterior.
 
-[^2]: [Fount Media: "¡Cantar nuestras propias canciones!" Li Shuangze, fallecido prematuramente, influyó en varias generaciones de creadores](https://www.fountmedia.io/article/104260) — Reportaje en profundidad sobre la vida de Li Shuangze, la escena del Incidente de Tamkang con la botella de Coca-Cola, la composición de _Isla hermosa_ y _China joven_, y su herencia espiritual a figuras posteriores como Hu Defu, Yang Xian y Lo Dayou.
+[^2]: [Fount Media: "¡Cantemos nuestras propias canciones!" El impacto de Li Shuangze, que murió joven, en varias generaciones de creadores](https://www.fountmedia.io/article/104260) — Reportaje en profundidad sobre la vida de Li Shuangze, el incidente de Tamkang y el lanzamiento de la botella de Coca-Cola, su creación de "Isla Hermosa" y "Joven China", y su influencia espiritual en generaciones posteriores como Hu Defu, Yang Xian y Lu Daoyou.
 
-[^3]: [Revista _Intercambio_ de la Fundación para el Intercambio a través del Estrecho: artículo especial por los cuarenta años de música folclórica](https://www.sef.org.tw/article-1-129-5006) — Artículo retrospectivo extenso conmemorativo del cuadragésimo aniversario de la música folclórica, que incluye el momento histórico del concierto de Yang Xian "Concierto de Creación de Baladas Modernas" del 6/6/1975 en el Salón Conmemorativo Sun Yat-sen, donde se interpretó por primera vez _Cuatro estrofas de nostalgia_ de Yu Guangzhong.
+[^3]: [Revista de intercambio del fondo de promoción de la paz del estrecho: artículo especial de los 40 años de la canción popular](https://www.sef.org.tw/article-1-129-5006) — Artículo largo conmemorativo de los 40 años del movimiento de canción popular, que incluye el momento histórico del concierto de Yang Xian en el Salón Zhongshan el 6 de junio de 1975, donde estrenó por primera vez "Cuatro versos de nostalgia" de Yu Guangzhong.
 
-[^4]: [Wikipedia: Canción folclórica universitaria](https://zh.wikipedia.org/zh-tw/%E6%A0%A1%E5%9C%92%E6%B0%91%E6%AD%8C) — Entrada completa de Wikipedia en chino sobre "canción folclórica universitaria", que incluye el posicionamiento histórico de Yang Xian como "padre de la canción folclórica moderna" y una visión general del movimiento folclórico.
+[^4]: [Wikipedia: canción popular universitaria](https://zh.wikipedia.org/zh-tw/%E6%A0%A1%E5%9C%92%E6%B0%91%E6%AD%8C) — Artículo completo de Wikipedia en chino sobre "canción popular universitaria", que incluye la posición histórica de Yang Xian como "padre de la canción popular moderna" y una visión general del movimiento de canción popular.
 
-[^5]: [Memorándum de la música pop taiwanés, Plataforma de Datos de la Ciudad de Taipéi](https://data.taipei/dataset/detail?id=4cc90cd2-540d-4b51-a8dd-be72cb0e2892) — Cronología de la música pop taiwanés proporcionada por la base de datos cultural de la Ciudad de Taipéi, que incluye información oficial sobre el concurso "Jinyun" de Shin Ge Records en 1977 y el concurso "Viento folclórico" de Hai Shan Records en 1978.
+[^5]: [Memoria de la música popular taiwanesa](https://data.taipei/dataset/detail?id=4cc90cd2-540d-4b51-a8dd-be72cb0e2892) — Archivo cultural del gobierno municipal de Taipéi, que proporciona un resumen cronológico de la música popular taiwanesa, incluyendo datos oficiales del concurso de canto "Premio Jin Yin" de Xin Ge en 1977 y el concurso "Estilo folk" de Hai Shan en 1978.
 
-[^6]: [Wikipedia: Hu Defu](https://zh.wikipedia.org/zh-tw/%E8%83%A1%E5%BE%B7%E5%A4%AB) — Entrada completa de Wikipedia en chino sobre "Hu Defu", que incluye su iniciación musical a los 11 años en el coro de la escuela secundaria Tamkang en Tamsui, y su papel histórico en la década de 1970 junto a Li Shuangze y Yang Xian en la promoción del movimiento folclórico de "cantar nuestras propias canciones".
+[^6]: [Wikipedia: Hu Defu](https://zh.wikipedia.org/zh-tw/%E8%83%A1%E5%BE%B7%E5%A4%AB) — Artículo completo de Wikipedia en chino sobre Hu Defu, que incluye su formación musical desde los 11 años en el coro de Tamkang High School en Tamshui, y su papel histórico en el movimiento de canción popular de "cantar nuestras propias canciones" junto a Li Shuangze y Yang Xian en la década de 1970.

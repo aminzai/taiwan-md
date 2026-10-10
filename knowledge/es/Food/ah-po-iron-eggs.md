@@ -22,10 +22,10 @@ lastHumanReview: false
 readingTime: 10
 imageNote: '原 Wikimedia 圖檔已從 Commons 下架（404 Not Found），卡片圖暫缺，待補圖'
 translatedFrom: 'Food/阿婆鐵蛋.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:f215fbcb32524845'
-sourceBodyHash: 'sha256:f4c6330bca417165'
-translatedAt: '2026-09-08T00:42:49+08:00'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:bb3833c08618e661'
+sourceBodyHash: 'sha256:f7475d29ab35a9a7'
+translatedAt: '2026-10-10T07:54:25.475119+00:00'
 ---
 
 # Huevo Duro de la Abuela
@@ -104,7 +104,7 @@ El huevo duro no es solo un aperitivo; lleva la historia de cómo Tamsui se tran
 
 ## Temas relacionados
 
-- [Cultura del mercado nocturno](/es/food/night-market-culture) — Análisis profundo del mercado nocturno como espacio social.
-- [Aperitivo taiwanés](/es/food/taiwanese-street-food) — La valentía de la comida popular de Taiwán.
-- [Arroz con carne cocida de Tamsui](/es/food/braised-pork-rice) — La memoria comunitaria de un plato de arroz con carne cocida.
-- [Cultura alimentaria Hakka](/es/food/hakka-food-culture) — Sabiduría culinaria del grupo étnico Hakka.
+- [Cultura de mercados nocturnos](/es/food/night-market-culture) — Análisis en profundidad de los mercados nocturnos como espacios sociales
+- [Comida callejera de Taiwán](/es/food/taiwanese-street-food) — El espíritu valiente de la comida popular de Taiwán
+- [Arroz frito con carne de Taiwán](/es/food/braised-pork-rice) — Memoria étnica en un plato de arroz frito con carne
+- [Cultura culinaria china](/es/food/hakka-food-culture) — Sabiduría gastronómica del grupo chino
