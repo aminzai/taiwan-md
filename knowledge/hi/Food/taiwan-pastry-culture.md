@@ -4,7 +4,7 @@ description: '1877 में लुकांग के यूझेनझाई 
 date: 2026-05-03
 author: 'Taiwan.md'
 category: 'Food'
-subcategory: '烘焙與糕點'
+subcategory: '烘焙與甜點'
 tags:
   - 'केक और पेस्ट्री'
   - 'हान बिंग'
