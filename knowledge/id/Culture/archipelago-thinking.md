@@ -268,7 +268,7 @@ Kapan pun seseorang bertanya kepada Anda "Taïwan sebenarnya milik di mana", And
 
 [^12]: [DNA Tanaman竟 Mencatat Sejarah! Sejarah Migrasi Austronesia yang Dikatakan oleh Pohon Bintulu](https://research.sinica.edu.tw/paper-mulberry-dna-austronesian-history-chung-kuo-fang/) — Wawancara Akademi Sinica "Yan Zhi You Wu", memperkenalkan penelitian tim Zhong Guofang yang mendukung "Hipotesis Keluar dari Taïwan" dari sudut pandang biogeografi melalui DNA pohon bintulu.
 
-[^13]: [Nusantara (term) - Wikipedia](<https://en.wikipedia.org/wiki/Nusantara_(term)>) — Ekspresi lengkap asal-usul kata Nusantara: bahasa Jawa Kuno _nusa_ (pulau) + kata serapan Sanskerta _antara_ (di antara).
+[^13]: [Nusantara (term) - Wikipedia](https://en.wikipedia.org/wiki/Nusantara_(term) — Ekspresi lengkap asal-usul kata Nusantara: bahasa Jawa Kuno _nusa_ (pulau) + kata serapan Sanskerta _antara_ (di antara).
 
 [^14]: [Majapahit - Wikipedia](https://en.wikipedia.org/wiki/Majapahit) — Entri Kerajaan Majapahit di Jawa Timur abad ke-14, termasuk latar belakang sejarah "Sumpah Palapa" Gajah Mada 1336.
 

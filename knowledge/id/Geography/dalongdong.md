@@ -360,7 +360,7 @@ Artikel pakai 6 gambar lisensi CC dan public domain, semua cache di `public/arti
 
 [^18]: [Main Bersama Lansia: Rumah Leluhur Chen Yue-ji Dalongdong — Hanya Satu "Atas Naga Berkelit Bawah Singa Merayap" Tiang Bendera Batu](http://egoldenyears.com/58360/) — Keluarga Chen berurutan 3 juren, halaman depan bangun 3 pasang tiang bendera batu, atas naga berkelit, bawah singa merayap, hingga sekarang 1 pasang utuh, satu-satunya representatif cagar budaya Taiwan.
 
-[^19]: [Chen Wei-ying (Taiwan, Wikipedia)](<https://zh.wikipedia.org/zh-tw/%E9%99%B3%E7%B6%AD%E8%8B%B1_(%E5%8F%B0%E7%81%A3) — Chen Wei-ying (1811-1869), nama panggilan Yu-gu, orang Dalongdong Taipei, 1859 (tahun ke-9 Xianfeng) juren, 1862 pemberontakan Dai Chao-chun biaya sendiri bentuk tim pertahanan bantu pemerintah, usai didamaikan di tepi kiri Jiantan bangun rumah "Tai-gu Chao".
+[^19]: [Chen Wei-ying (Taiwan, Wikipedia)](<https://zh.wikipedia.org/zh-tw/%E9%99%B3%E7%B6%AD%E8%8B%B1_(%E5%8F%B0%E7%81%A3)>) — Chen Wei-ying (1811-1869), nama panggilan Yu-gu, orang Dalongdong Taipei, 1859 (tahun ke-9 Xianfeng) juren, 1862 pemberontakan Dai Chao-chun biaya sendiri bentuk tim pertahanan bantu pemerintah, usai didamaikan di tepi kiri Jiantan bangun rumah "Tai-gu Chao".
 
 [^20]: [Studi Kota: Satu-satunya Dewa Besar Masuk Kong Miao Taipei! "Zong Wen Bei Tai" Chen Wei-ying](https://city.gvm.com.tw/article/121548) — Chen Wei-ying dipuji posteri "Zong Wen Bei Tai", karyanya "Tou-xian Lu", "Tai-gu Chao Lian Ji", "Xiang-dang Zhi Yi".
 

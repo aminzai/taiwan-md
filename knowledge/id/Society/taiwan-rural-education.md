@@ -106,7 +106,7 @@ Jika Taiwan masih membicarakan pendidikan pedesaran sebagai "mengirim semangat k
 
 [^1]: [Perspektif TFT | Teach4Taiwan](https://www.teach4taiwan.org/challenge/thinkings/) — Kerangka analisis ketimpangan pendidikan yang disusun secara publik oleh TFT, mengajukan kesenjangan pembelajaran enam tahun, definisi 3A, dan konteks konsentris anak/sekolah/komunitas/masyarakat.
 
-[^2]: [Berita Statistik Pendidikan No. 115: Gambaran Umum Sekolah di Wilayah Terpencil di Bawah Tingkat Menengah Atas Tahun Ajaran 107](https://stats.moe.gov.tw/files/brief/107%E5%AD%B8%E5%B9%B4%E9%AB%98%E7%B4%9A%E4%B8%AD%E7%AD%89%E4%BB%A5%E4%B8%8B%E5%9C%B0%E5%8D%80%E5%AD%B8%E6%A0%A1%E6%A6%82%E6%B3%81.pdf) — Ringkasan statistik sekolah di wilayah terpencil yang diterbitkan oleh Departemen Statistik Kementerian Pendidikan, mencakup jumlah sekolah, jumlah siswa, proporsi siswa asli, skala kelas, dan rasio guru-murid.
+[^2]: [Berita Statistik Pendidikan No. 115: Gambaran Umum Sekolah di Wilayah Terpencil di Bawah Tingkat Menengah Atas Tahun Ajaran 107](https://stats.moe.gov.tw/files/brief/107%E5%AD%B8%E5%B9%B4%E9%AB%98%E7%B4%9A%E4%B8%AD%E7%AD%89%E4%BB%A5%E4%B8%8B%E5%81%8F%E9%81%A0%E5%9C%B0%E5%8D%80%E5%AD%B8%E6%A0%A1%E6%A6%82%E6%B3%81.pdf) — Ringkasan statistik sekolah di wilayah terpencil yang diterbitkan oleh Departemen Statistik Kementerian Pendidikan, mencakup jumlah sekolah, jumlah siswa, proporsi siswa asli, skala kelas, dan rasio guru-murid.
 
 [^3]: [Womanism: Pidato Kelulusan Universitas Chengden oleh Liu An-ting "Untuk apa kamu menggunakan keberuntungan?"](https://womany.net/read/article/10943) — Memuat teks lengkap pidato kelulusan tahun 2016 di Universitas Chengden, juga mencatat kisah A-Wei dan bagaimana Liu An-ting memahami titik awal ketimpangan pendidikan.
 

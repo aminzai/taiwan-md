@@ -98,7 +98,7 @@ Namun, seiring perubahan zaman, juga ada sejarawan yang menyatakan, penyombongan
 
 [^8]: [CW Magazine: Mengulang Kembali Sun Yun-suan dalam Era AI](https://www.cw.com.tw/article/5140825) — Menyediakan latar belakang, data, atau konteks peristiwan dalam artikel ini sebagai dasar verifikasi.
 
-[^9]: [Taiwan Memory Exploration Team: "Apakah Sun Yun-suan Benar-Benar Tidak Pernah Membiarkan Taiwan Mati Listrik?" — Mengingat Kembali Kenangan yang Benar tentang Mati Listrik Taiwan](https://www.twmemory.org/%E3%80%8C%E5%AD%AB%E9%81%8B%E7%92%BF%E6%B2%92%E6%9C%89%E8%AE%93%E8%87%BA%E7%81%A8%E7%81%AF%E3%80%8D%EF%BC%9F%E5%9B%9B%E6%86%B6%E7%9C%9F%E5%AF%A6%E7%9A%84%E8%87%BA%E7%81%A8/) — Menyediakan latar belakang, data, atau konteks peristiwan dalam artikel ini sebagai dasar verifikasi.
+[^9]: [Taiwan Memory Exploration Team: "Apakah Sun Yun-suan Benar-Benar Tidak Pernah Membiarkan Taiwan Mati Listrik?" — Mengingat Kembali Kenangan yang Benar tentang Mati Listrik Taiwan](https://www.twmemory.org/%E3%80%8C%E5%AD%AB%E9%81%8B%E7%92%BF%E6%B2%92%E6%9C%89%E8%AE%93%E8%87%BA%E7%81%A3%E5%81%9C%E4%B8%80%E5%A4%A9%E9%9B%BB%E3%80%8D%EF%BC%9F%E5%9B%9E%E6%86%B6%E7%9C%9F%E5%AF%A6%E7%9A%84%E8%87%BA%E7%81%A3/) — Menyediakan latar belakang, data, atau konteks peristiwan dalam artikel ini sebagai dasar verifikasi.
 
 [^10]: [格子: Bagaimana Sun Yun-suan Menapaki dari Tahun Mati Listrik ke Era Semikonduktor](https://vocus.cc/article/69f1dcc2fd89780001360cde) — Menyediakan latar belakang, data, atau konteks peristiwan dalam artikel ini sebagai dasar verifikasi.
 

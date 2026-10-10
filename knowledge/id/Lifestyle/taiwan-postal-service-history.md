@@ -22,13 +22,13 @@ translatedAt: '2026-09-15T06:51:29+08:00'
 
 ![Foto luar gedung Pos Taipei, 2019.](https://upload.wikimedia.org/wikipedia/commons/4/43/Taipei_Post_Office%2C_Chunghwa_Post_20190406.jpg)
 
-_Gambar: Solomon203/Wikimedia Commons halaman berkas, CC BY-SA 4.0._
+_Gambar: Solomon203/Wikimedia Commons halaman berkas, CC BY-SA 4.0. [Wikimedia Commons 檔案頁](https://commons.wikimedia.org/wiki/File:Taipei_Post_Office,_Chunghwa_Post_20190406.jpg)_
 
 ## Sebuah Surat Tanpa Nomor Rumah
 
 ![Kotak pos merah di jalan Taipei.](https://upload.wikimedia.org/wikipedia/commons/c/c1/Taipei_Taiwan_Post-boxes-01.jpg)
 
-_Gambar: CEphoto, Uwe Aranas/Wikimedia Commons halaman berkas, CC BY-SA 3.0._
+_Gambar: CEphoto, Uwe Aranas/Wikimedia Commons halaman berkas, CC BY-SA 3.0. [Wikimedia Commons 檔案頁](https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Post-boxes-01.jpg)_
 
 Pada 2015, Kantor Pos Yunlin Shuiyin menerima sebuah surat dari Taoyuan. Pada amplopnya hanya ada kode pos dan beberapa kata "Nyonya Lin", tanpa alamat. Secara aturan, surat ini bisa menjadi "surat mati", tetapi petugas pos Lin Hongqi (林宏錡) membaca tulisan tangannya dan menduga pengirimnya muda, lalu teringat ada seorang gadis Lin yang pindah dari Taoyuan ke wilayahnya. Dengan demikian, ia mencoba menebak dan berhasil menemukan penerimanya pada kali pertama. [^7]
 

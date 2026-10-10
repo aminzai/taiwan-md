@@ -185,7 +185,7 @@ Video Minecraft 14 Juli 2026 masih di bagian paling atas beranda. Melihat ke ata
 
 [^15]: [Gao Shen Ma: Video Resmi 10 Juni 2026](https://www.youtube.com/watch?v=9qZwPYQDByA); [Video Resmi 11 Juli 2026](https://www.youtube.com/watch?v=T4GxCtNyYmA); [Video Resmi 15 Juli 2026](https://www.youtube.com/watch?v=CAOpagY34UI) — Rekaman video sumber pertama dari tiga tanggal ini, membuktikan program bersama terus diperbarui pada 2026.
 
-[^16]: [Ashan: Video Minecraft 26 Juni 2026](https://www.youtube.com/watch?v=alGlJmRYSWA); [Video Kolaborasi 7 Juli 2026](https://www.youtube.com/watch?v=O1gHdFIjxA); [Video Kolaborasi Minecraft 14 Juli 2026](https://www.youtube.com/watch?v=60n6gPUEl7s); [Halaman Kreator CAPSULE Ashan](https://www.capsuleinc.cc/creator-profile/90) — Saluran resmi dan halaman agensi bersama-sama mengkonfirmasi video panjang saluran utama pada tanggal yang berbeda, dan bukan arsip siaran langsung.
+[^16]: [Ashan: Video Minecraft 26 Juni 2026](https://www.youtube.com/watch?v=alGlJmRYSWA); [Video Kolaborasi 7 Juli 2026](https://www.youtube.com/watch?v=O1gHdFIjxgA); [Video Kolaborasi Minecraft 14 Juli 2026](https://www.youtube.com/watch?v=60n6gPUEl7s); [Halaman Kreator CAPSULE Ashan](https://www.capsuleinc.cc/creator-profile/90) — Saluran resmi dan halaman agensi bersama-sama mengkonfirmasi video panjang saluran utama pada tanggal yang berbeda, dan bukan arsip siaran langsung.
 
 [^17]: [Saluran YouTube Resmi Ashan](https://www.youtube.com/@AshanKouki/videos) — Snapshot dinamis verifikasi 15 Juli 2026 deskripsi beranda, tanggal video baru, dan jumlah video; semua angka dan interval publikasi hanya mewakili hari verifikasi tersebut.
 

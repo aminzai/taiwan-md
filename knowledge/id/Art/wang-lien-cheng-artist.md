@@ -154,7 +154,7 @@ Dari 23 mesin yang membuka halaman secara bersamaan di Linz pada September 2017,
 
 [^9]: [Museum Seni Kontemporer Taiwan: Pameran Tunggal Lien-Cheng Wang _Boundary of Consciousness_ (2022)](https://www.tfam.museum/Exhibition/Exhibition_page.aspx?id=696) — Halaman resmi museum, mencatat periode pameran 15 Januari hingga 17 April 2022, lima instalasi otomatis, dan narasi kuratorial mengenai hubungan kekuasaan manusia-mesin.
 
-[^10]: [OPENTIX: 2022 NTT-TIFA Lien-Cheng Wang _The Living Room_](https://www.opentix.life/event/14615802237961359173) — Catatan resmi tiket, mencatat pertunjukan interaktif di TIFA yang menggunakan sensor mekanis untuk menghasilkan proyeksi ruang tamu secara real-time.
+[^10]: [OPENTIX: 2022 NTT-TIFA Lien-Cheng Wang _The Living Room_](https://www.opentix.life/event/1461580223796359173) — Catatan resmi tiket, mencatat pertunjukan interaktif di TIFA yang menggunakan sensor mekanis untuk menghasilkan proyeksi ruang tamu secara real-time.
 
 [^11]: [500 Times: Hubungan Kekuasaan antara Kecerdasan Manusia dan Komputasi Mesin—Pameran Tunggal Lien-Cheng Wang _Boundary of Consciousness_ hadir di Museum Seni Kontemporer Taiwan](https://500times.udn.com/wtimes/story/12672/6040628) — Opini mendalam tahun 2022, mencantumkan kutipan asli mengenai teknologi sebagai "sihir hitam".
 

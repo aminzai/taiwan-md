@@ -151,7 +151,7 @@ Di Anping, Tainan empat ratus tahun kemudian, patung perunggu Koxinga di depan k
 4. [National Cultural Memory: Koxinga dan Taiwan](https://memory.culture.tw/) — Koleksi digital resmi Kementerian Kebudayaan
 5. [Institut Penelitian Sejarah Taiwan (SINCA)](https://www.ith.sinica.edu.tw/) — Penelitian akademis sejarah Taiwan
 6. [Tonio Andrade, _Lost Colony: The Untold Story of China's First Great Victory over the West_](https://press.princeton.edu/books/paperback/9780691159577/lost-colony) — Karya akademis bahasa Inggris paling rinci tentang pengepungan Benteng Zeelandia, diterbitkan oleh Universitas Princeton
-7. [Frederick Coyett, _Neglected Formosa_](https://en.wikipedia.org/wiki/Neglected_Formesa) — Memoar gubernur terakhir Belanda, sumber primer utama
+7. [Frederick Coyett, _Neglected Formosa_](https://en.wikipedia.org/wiki/Neglected_Formosa) — Memoar gubernur terakhir Belanda, sumber primer utama
 8. [Kabuki "Kousen-ya Kassen"](https://www.kabuki21.com/kokusenyakassen.php) — Karya Kabuki tahun 1715, perspektif Jepang terhadap Koxinga
 9. [Asosiasi Wisata Kota Hirado: Tempat Lahir Koxinga](https://www.hirado-net.com/) — Batu Kelahiran dan situs sejarah terkait di Hirado
 10. [Kuil Yanping Junwang — Biro Kebudayaan Pemerintah Kota Tainan](https://culture.tainan.gov.tw/) — Lokasi pemujaan Koxinga paling representatif di Taiwan

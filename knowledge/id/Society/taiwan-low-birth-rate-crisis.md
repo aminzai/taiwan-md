@@ -280,7 +280,7 @@ Nyanyian mungkin akan mengecil, tetapi selama masih ada orang yang bernyanyi, it
 
 [^25]: [Institute of Chinese Economics: Penelitian Pernikahan dan Kelahiran](https://www.cier.edu.tw/) — Penelitian ICE menunjukkan harga rumah dan gaji rendah bukan penyebab utama ketidaknikahan; banyak orang yang belum menikah ingin menikah tetapi sulit menemukan pasangan setelah masuk ke dunia kerja.
 
-[^16]: [Executive Yuan: Rencana Tindakan Penurunan Kelahiran](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E) — Anggaran rencana tindakan penurunan populasi dari 2007-2024 mencapai sekitar 485,1 miliar TWD.
+[^16]: [Executive Yuan: Rencana Tindakan Penurunan Kelahiran](https://www.taipeitimes.com/News/front/archives/2026/01/10/2003850357) — Anggaran rencana tindakan penurunan populasi dari 2007-2024 mencapai sekitar 485,1 miliar TWD.
 
 [^27]: [Legislative Yuan: Evaluasi Biaya untuk Anak Usia 0-6 Tahun](https://www.ly.gov.tw/) - Data evaluasi anggaran menunjukkan investasi untuk anak usia 0-6 tahun meningkat dari 15 miliar pada 2016 menjadi sekitar 140 miliar pada 2026, melampaui 120 miliar dalam satu tahun tunggal.
 
@@ -302,7 +302,7 @@ Nyanyian mungkin akan mengecil, tetapi selama masih ada orang yang bernyanyi, it
 
 [^36]: [ETtoday: Jiang Min-hinn Membahas Privatisasi Risiko Pengasuhan](https://forum.ettoday.net/news/3098138) - Komentar tertanggal 1 Januari 2026, di mana Jiang Min-hinn menyatakan bahwa masyarakat memprivatisasi risiko pengasuhan dan menganggap keuntungan populasi sebagai milik publik; ia berpendapat rendahnya tingkat kelahiran adalah sinyal harga bukan cacat moral.
 
-[^37]: [Sama seperti di atas: Jiang Min-hinn "Subsidi Seperti Obat Pereda Nyeri, Bukan Operasi Bedah"](https://forum.ettuday.net/news/3098138) - Mencatat metafora Jiang Min-hinn bahwa subsidi hanya mengobati gejala sementara tanpa memperbaiki masalah dasar.
+[^37]: [Sama seperti di atas: Jiang Min-hinn "Subsidi Seperti Obat Pereda Nyeri, Bukan Operasi Bedah"](https://forum.ettoday.net/news/3098138) - Mencatat metafora Jiang Min-hinn bahwa subsidi hanya mengobati gejala sementara tanpa memperbaiki masalah dasar.
 
 [^38]: [IZA World of Labor: Bisakah Kebijakan Membalikkan Penurunan Kelahiran](https://wol.iza.org/articles/can-government-policies-reverse-undesirable-declines-in-fertility/long) - Tinjauan akademis menyatakan kebijakan mendorong kelahiran dapat meningkatkan sedikit, tetapi tidak mungkin mengembalikannya ke tingkat penggantian.
 

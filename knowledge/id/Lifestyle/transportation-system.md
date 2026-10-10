@@ -207,11 +207,11 @@ Data pemerintah yang dibuka di bawah ini dapat Anda gunakan untuk memverifikasi 
 
 [^22]: [Terowong Xue Shan — Wikipedia](https://zh.wikipedia.org/wiki/%E9%9B%AA%E5%B1%B1%E9%9A%A7%E9%81%93) — Panjang 12,9 km, dibuka tahun 2006, merupakan proyek inti Jalan Tol Nasional No. 5 (Jian-Weishui), memangkas waktu tempuh dari Taipei ke Yilan menjadi 40 menit.
 
-[^23]: [Suhua Kaibi — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E9%84%A89%E7%B7%9A%E8%98%87%E8%8A%B1%E5%8C%AC%E8%B7%AF%E5%B1%B1%E5%8D%80%E8%B7%AF%E5%BB%8A%E6%94%B9%E5%96%84%E8%A8%88%E7%95%AB) — Seluruh rute dibuka pada tahun 2020, segmen Suo hingga Chongde dipangkas dari 2,5 jam menjadi 1 jam, mencakup kontroversi lingkungan konstruksi.
+[^23]: [Suhua Kaibi — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E9%84%A89%E7%B7%9A%E8%98%87%E8%8A%B1%E5%85%AC%E8%B7%AF%E5%B1%B1%E5%8D%80%E8%B7%AF%E5%BB%8A%E6%94%B9%E5%96%84%E8%A8%88%E7%95%AB) — Seluruh rute dibuka pada tahun 2020, segmen Suo hingga Chongde dipangkas dari 2,5 jam menjadi 1 jam, mencakup kontroversi lingkungan konstruksi.
 
-[^24]: [Bandara Internasional Taoyuan — Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E6%A1%83%E5%9C%92%E5%9C%8B%E9%9A%9B%E6%A1%83%E5%A0%B4) — Volume penumpang tahun 2024 sekitar 44 juta, bandara internasional terbesar di Taiwan.
+[^24]: [Bandara Internasional Taoyuan — Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E6%A1%83%E5%9C%92%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4) — Volume penumpang tahun 2024 sekitar 44 juta, bandara internasional terbesar di Taiwan.
 
-[^25]: [Bandara Internasional Taoyuan Terminal Ketiga — Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E6%A1%83%E5%9C%92%E5%9C%8B%E9%9A%9B%E6%A1%83%E5%A0%B4%E7%AC%AC%E4%B8%89%E8%88%AA%E5%BB%88) — Termasuk kemajuan konstruksi dan rencana peningkatan kapasitas menjadi 82 juta penumpang.
+[^25]: [Bandara Internasional Taoyuan Terminal Ketiga — Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E6%A1%83%E5%9C%92%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4%E7%AC%AC%E4%B8%89%E8%88%AA%E5%BB%88) — Termasuk kemajuan konstruksi dan rencana peningkatan kapasitas menjadi 82 juta penumpang.
 
 [^26]: [Pelabuhan Kaohsiung — Wikipedia](https://zh.wikipedia.org/wiki/%E9%AB%98%E9%9B%84%E6%B8%AF) — Termasuk narasi sejarah pernah menjadi pelabuhan peti kemas terbesar ketiga di dunia pada tahun 1980-an hingga 2000-an.
 

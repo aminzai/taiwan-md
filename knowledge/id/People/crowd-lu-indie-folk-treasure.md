@@ -160,7 +160,7 @@ Dia terbuka bantah scalper, tambah show, posting ingatkan penggemar jadi korban.
 
 [^15]: [Wikipedia "Your Name Engraved Herein" Film](https://zh.wikipedia.org/zh-hant/%E5%88%BB%E5%9C%A8%E4%BD%A0%E5%BF%83%E5%BA%95%E7%9A%84%E5%90%8D%E5%AD%97) — Detail film LGBT Taiwan 2020, timeline rilis global Netflix.
 
-[^16]: [Wikipedia "Your Name Engraved Herein" Lagu (Inggris)](<https://en.wikipedia.org/wiki/Your_Name_Engraved_Herein_(song)>) — YouTube 64 juta tayangan, empat wilayah KKBOX juara, tanggapan Richard Sanderson soal tuduhan plagiarisme.
+[^16]: [Wikipedia "Your Name Engraved Herein" Lagu (Inggris)](https://en.wikipedia.org/wiki/Your_Name_Engraved_Herein_(song) — YouTube 64 juta tayangan, empat wilayah KKBOX juara, tanggapan Richard Sanderson soal tuduhan plagiarisme.
 
 [^17]: [Central News Agency "Golden Horse 57 Lagu Film Terbaik"](https://www.cna.com.tw/news/firstnews/202011210239.aspx) — Laporan kemenangan Golden Horse ke-57.
 

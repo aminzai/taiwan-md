@@ -201,9 +201,9 @@ Dari surat wasiat hingga Ketua Komisi Pengawasan, empat puluh satu tahun. Itulah
 
 [^5]: [Memori Hak Asasi Manusia Nasional: Peristiwa Kaohsiung](https://memory.nhrm.gov.tw/TopicExploration/Event/Detail/5) — Menyimpan foto, catatan pengadilan, dan kesaksian lisan pelaku peristiwa Kaohsiung 10 Desember 1979, merupakan basis data sejarah Peristiwa Mei Li Tao dengan digitalisasi tertinggi.
 
-[^6]: [Story Studio: Dari Penangkapan Besar-Besaran ke Pengadilan Militer Besar](https://storystudio.tw/article/gushi/%E5%BE%9E%E5%A4%A7%E9%80%95%E6%8D%95%E5%88%B0%E8%BB%8D%E6%B3%95%E5%A4%A7%E5%AF%A9%EF%BC%9A%E7%BE%8E%E9%BA%97%E5%B3%B6%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E5%BD%B1%E5%83%8F%E5%8F%B2%EF%BC%88%E4%BA%8C) — Menyimpan foto sidang pengadilan militer besar dan daftar lima belas pengacara pembela, mencatat bagaimana pengadilan secara tidak sengaja menciptakan pemimpin generasi berikutnya gerakan oposisi.
+[^6]: [Story Studio: Dari Penangkapan Besar-Besaran ke Pengadilan Militer Besar](https://storystudio.tw/article/gushi/%E5%BE%9E%E5%A4%A7%E9%80%AE%E6%8D%95%E5%88%B0%E8%BB%8D%E6%B3%95%E5%A4%A7%E5%AF%A9%EF%BC%9A%E7%BE%8E%E9%BA%97%E5%B3%B6%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E5%BD%B1%E5%83%8F%E5%8F%B2%EF%BC%88%E4%BA%8C) — Menyimpan foto sidang pengadilan militer besar dan daftar lima belas pengacara pembela, mencatat bagaimana pengadilan secara tidak sengaja menciptakan pemimpin generasi berikutnya gerakan oposisi.
 
-[^7]: [Wikipedia: Kasus Darah Rumah Lin](https://zh.wikipedia.org/zh-tw/%E6%9E%97%E5%AE%B6%E8%A1%80%E6%A1%88) — Kronologi dan investigasi lanjutan kasus pembunuhan massal di rumah Lin Yi-hsiung pada 28 Februari 1980, hingga kini masih menjadi salah satu kasus misterius terbesar di Taiwan.
+[^7]: [Wikipedia: Kasus Darah Rumah Lin](https://zh.wikipedia.org/zh-tw/%E6%9E%97%E5%AE%85%E8%A1%80%E6%A1%88) — Kronologi dan investigasi lanjutan kasus pembunuhan massal di rumah Lin Yi-hsiung pada 28 Februari 1980, hingga kini masih menjadi salah satu kasus misterius terbesar di Taiwan.
 
 [^8]: [Memori Hak Asasi Manusia Nasional: Kasus Jiang Nan](https://memory.nhrm.gov.tw/TopicExploration/Event/Detail/39) — Kronologi lengkap kasus pembunuhan Liu Yi-liang tahun 1984, mencatat proses investigasi pembunuhan yang diorganisir oleh Kepala Biro Intelijen Militer Wang Hsi-ling dan dampak politik internasionalnya.
 

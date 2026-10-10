@@ -334,7 +334,7 @@ Artikel ini menggunakan 3 gambar berlisensi CC, semua di-cache di `public/articl
 
 [^45]: [Chen Po-wei Menjadi Anggota Legislatif Pertama yang Dipecat dalam Sejarah](https://www.cna.com.tw/news/firstnews/202110230226.aspx) — CNA, 2021/10/23 pemecatan Chen Po-wei lulus, hingga hari ini masih satu-satunya anggota legislatif yang berhasil dipecat dalam sejarah konstitusional Taiwan.
 
-[^46]: [Percakapan Warga Melintasi Gelembung Suara: Eksplorasi Awal Strategi Komunikasi Pemecatan Massal 2025](https://medium.com/doublethinklab-tw/%E8%B7%A8%E5%90%8C%E6%BA%AB%E5%B1%A4%E7%9A%84%E5%85%AC%E6%B0%91%E5%B0%8D%E8%A9%B1-2025%E5%A4%A7%E7%BD%B7%E5%85%8D%E7%AD%96%E7%95%9D%E9%80%9A%E5%88%9D%E6%8E%A2-bcf1de43378d) — Laboratorium Demokrasi Taiwan, kelompok pemecatan beralih narasi Anti-China Melindungi Taiwan ke isu kehidupan seperti sewa, perawatan jangka panjang, pendidikan, secara aktif melintasi gelembung suara.
+[^46]: [Percakapan Warga Melintasi Gelembung Suara: Eksplorasi Awal Strategi Komunikasi Pemecatan Massal 2025](https://medium.com/doublethinklab-tw/%E8%B7%A8%E5%90%8C%E6%BA%AB%E5%B1%A4%E7%9A%84%E5%85%AC%E6%B0%91%E5%B0%8D%E8%A9%B1-2025%E5%A4%A7%E7%BD%B7%E5%85%8D%E7%AD%96%E7%95%A5%E6%BA%9D%E9%80%9A%E5%88%9D%E6%8E%A2-bcf1de43378d) — Laboratorium Demokrasi Taiwan, kelompok pemecatan beralih narasi Anti-China Melindungi Taiwan ke isu kehidupan seperti sewa, perawatan jangka panjang, pendidikan, secara aktif melintasi gelembung suara.
 
 [^47]: [Spesial 2025 Pemecatan Massal](https://www.twreporter.org/topics/2025-recall-campaign) — Halaman Spesial The Reporter, menyatakan "ke mana arah kekuatan warga yang ditunjukkan oleh kelompok pemecatan" sebagai indikator observasi terbuka yang terus dipantau.
 

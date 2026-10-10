@@ -143,7 +143,7 @@ Kue tahu Daxi tidak menyimpan sebuah pelabuhan yang selalu makmur. Ia menyimpan 
 
 [^9]: [Perpustakaan Airiti: Penelitian Penggunaan dan Pengembangan Warisan Budaya Distrik Daxi](https://www.airitilibrary.com/Article/Detail/U0021-1610201315170023) — Halaman detail penelitian, menyediakan konteks studi tentang warisan budaya jalan tua Daxi, interaksi kelompok lokal, penduduk, pedagang, dan kantor distrik.
 
-[^10]: [Wikimedia Commons: Jalan Tua Daxi - panoramio (1).jpg](<https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E6%BA%AA%E8%80%81%E8%A1%97_Daxi_Historic_Street_-_panoramio_(1).jpg>) — Penulis lienyuan lee, CC BY 3.0. Gambar utama menggunakan URL panas Wikimedia Commons `Special:FilePath`, gambar tidak diunduh.
+[^10]: [Wikimedia Commons: Jalan Tua Daxi - panoramio (1).jpg](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E6%BA%AA%E8%80%81%E8%A1%97_Daxi_Historic_Street_-_panoramio_(1) — Penulis lienyuan lee, CC BY 3.0. Gambar utama menggunakan URL panas Wikimedia Commons `Special:FilePath`, gambar tidak diunduh.
 
 [^11]: [Wikimedia Commons: Jembatan Daxi pada tahun 2021.jpg](https://commons.wikimedia.org/wiki/File:2021_Daxi_Bridge.jpg) — Penulis Taiwankengo, CC BY-SA 4.0. Gambar utama menggunakan URL panas `Special:FilePath`, gambar tidak diunduh.
 

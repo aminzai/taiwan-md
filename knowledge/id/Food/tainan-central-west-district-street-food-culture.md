@@ -120,7 +120,7 @@ Camilan Tainan bukanlah sekadar kumpulan makanan enak yang kebetulan berkumpul b
 - [Pelabuhan Lima Jalur (Tainan) — Wikipedia](<https://zh.wikipedia.org/zh-tw/%E4%BA%94%E6%A2%9D%E6%B8%AF_(%E8%87%BA%E5%8D%97)>)
 - [Sejarah Tainan yang Berjalan: Ikan Sisik memperkaya kolam ikan, juga memperkaya pagi dan perut penduduk kota — The Newslens](https://www.thenewslens.com/article/131368)
 - [Ikan sisik dan kuah ikan di Tainan mungkin berasal dari barang impor Eropa abad ke-17 — CNA](https://www.cna.com.tw/news/acul/202403060184.aspx)
-- [Asal-usul dan rahasia sup daging sapi Tainan](https://storycircle571.com/2024/12/17/%E5%88%B0%E5%8F%B0%E5%8D%97%EF%BC%8C%E4%B8%80%E5%AE%9A%E8%A6%81%E4%BE%86%E7%A2%97%E7%89%9B%E8%82%89%E6%B9%AF%EF%BC%81%E5%8F%B0%E5%8D%97%E7%89%9B%E8%82%89%E6%B9%AF%E7%9A%84%E7%B7%A3%E8%B5%B7%E3%80%81)
+- [Asal-usul dan rahasia sup daging sapi Tainan](https://storycircle571.com/2024/12/17/%E5%88%B0%E5%8F%B0%E5%8D%97%EF%BC%8C%E4%B8%80%E5%AE%9A%E8%A6%81%E4%BE%86%E7%A2%97%E7%89%9B%E8%82%89%E6%B9%AF%EF%BC%81%E5%8F%B0%E5%8D%97%E7%89%9B%E8%82%89%E6%B9%AF%E7%9A%84%E7%B7%A3%E8%B5%B7%E3%80%81/)
 - [Mi Eel — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5)
 - [Bagaimana menggoreng ikan sisik bisa dianggap tulus? — Independent Review @ The World](https://opinion.cw.com.tw/blog/profile/194/article/8595)
 - [Catatan Kuliner Tainan. Mi Eel Lama ● Sakariba Shan-yu Liao — BoboTravel](https://bobotravel.tw/blog/post/153578723-%E9%A3%9F%E8%A8%98%E5%8F%B0%E5%8D%97%E3%80%82%E8%80%81%E7%89%8C%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5%E2%97%8F%E6%B2%99%E5%8D%A1%E9%87%8C%E5%B7%B4%E9%B1%94%E9%AD%9A%E5%BB%96)

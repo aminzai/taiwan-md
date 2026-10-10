@@ -119,11 +119,11 @@ Pada akhir tahun 2023, total lebih dari 140.000 orang di seluruh Taiwan telah me
 
 [^4]: [Thenewslens: Perubahan dan Perubahan dalam Industri Penguburan di Era Modern](https://www.thenewslens.com/article/194787) — Dari keheningan khas, kekuatan hitam hingga profesionalisasi pasca-undang, merangkum transformasi industri penguburan selama setengah abad di Taiwan.
 
-[^5]: [Gold Klin: Analisis Budaya Putri Putih Qin](https://www.goldkirin.com.tw/knowledge/detail/%E5%93%AD%E5%88%B0%E7%99%BB%E4%B8%8A%E5%9C%8B%E9%9A%96%E5%AA%92%E9%AB%94-%E2%80%94-%E5%8F%B0%E7%81%A3%E7%9A%84%E5%AD%9D%E5%A5%B3%E7%99%BD%E7%90%B4%E6%96%87%E5%8C%96%E8%A7%A3%E6%9E%90) — Putri Putih Qin sebagai penangis profesional naik ke BBC, menganalisis sejarah dan proses kepuasanannya sebagai pekerjaan penguburan unik di Taiwan.
+[^5]: [Gold Klin: Analisis Budaya Putri Putih Qin](https://www.goldkirin.com.tw/knowledge/detail/%E5%93%AD%E5%88%B0%E7%99%BB%E4%B8%8A%E5%9C%8B%E9%9A%9B%E5%AA%92%E9%AB%94-%E2%80%94-%E5%8F%B0%E7%81%A3%E7%9A%84%E5%AD%9D%E5%A5%B3%E7%99%BD%E7%90%B4%E6%96%87%E5%8C%96%E8%A7%A3%E6%9E%90) — Putri Putih Qin sebagai penangis profesional naik ke BBC, menganalisis sejarah dan proses kepuasanannya sebagai pekerjaan penguburan unik di Taiwan.
 
 [^6]: [Liberty Times: Putri Putih Qin, Lima Orang Menangis di Makam hingga Pemeran Menangis, Saksikan Transformasi Budaya Penguburan](https://news.ltn.com.tw/news/life/breakingnews/5093707) — Menyeluruh transformasi upacara pemakaman tradisional, dari penangis pengganti hingga pemeran menangis, merekam memori budaya penguburan satu generasi.
 
-[^7]: [Laporan Statistik Dalam Negeri: Statistik Pengelolaan Penguburan Tahun 109](https://ws.moi.gov.tw/001/Upload/OldFile/news_file/109%E5%B9%B4%E7%AC%AC14%E9%80%B1%E5%85%A7%E6%94%BF%E7%B5%B1%E8%A8%88%E9%80%9A%E5%A0%B1_%E6%AE%AB%E8%91%AC%E7%AE%A1%E7%90%86.pdf) — Statistik resmi Kementerian Dalam Negeri, pada tahun 2019 tingkat pembakaran orang di seluruh negara adalah 98,7%, pemakaman tanah hanya 6.585 orang.
+[^7]: [Laporan Statistik Dalam Negeri: Statistik Pengelolaan Penguburan Tahun 109](https://ws.moi.gov.tw/001/Upload/OldFile/news_file/109%E5%B9%B4%E7%AC%AC14%E9%80%B1%E5%85%A7%E6%94%BF%E7%B5%B1%E8%A8%88%E9%80%9A%E5%A0%B1_%E6%AE%AF%E8%91%AC%E7%AE%A1%E7%90%86.pdf) — Statistik resmi Kementerian Dalam Negeri, pada tahun 2019 tingkat pembakaran orang di seluruh negara adalah 98,7%, pemakaman tanah hanya 6.585 orang.
 
 [^8]: [Gold Klin: Harga Lokasi Menara dan Argumen Investasi](https://www.0800600038.com.tw/columbarium-pagoda/) — Menganalisis perbedaan harga lokasi menara antara publik (1,5-3,5 ribu dolar) dan privat (3 ribu hingga ratusan ribu dolar), serta fenomena menara yang dijadikan investasi.
 

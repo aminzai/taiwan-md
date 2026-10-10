@@ -158,7 +158,7 @@ Dari kulit domba Lopo Homem 1554, sampai Google Maps di genggaman Anda 2026, set
 
 [^11]: [Selat Taiwan — Wikipedia (EN)](https://en.wikipedia.org/wiki/Taiwan_Strait) — Asal garis tengah Selat Taiwan 1955, pengumuman koordinat 2019, penolakan Tiongkok.
 
-[^12]: [Zona Identifikasi Pertahanan Udara (Taiwan) — Wikipedia (EN)](<https://en.wikipedia.org/wiki/Air_Defense_Identification_Zone_(Taiwan)>) — ADIZ Taiwan 1954 ditetapkan Angkatan Udara AS, cakupan meluas ke atas Tiongkok daratan, tak ada dasar hukum internasional.
+[^12]: [Zona Identifikasi Pertahanan Udara (Taiwan) — Wikipedia (EN)](https://en.wikipedia.org/wiki/Air_Defense_Identification_Zone_(Taiwan) — ADIZ Taiwan 1954 ditetapkan Angkatan Udara AS, cakupan meluas ke atas Tiongkok daratan, tak ada dasar hukum internasional.
 
 [^13]: [Wilayah Laut — Klaim Tumpang Tindih Taiwan](https://www.marineregions.org/eezdetails.php?mrgid=8321) — Kedalaman landas benua Selat Taiwan dan sengketa ZEE tumpang tindih.
 

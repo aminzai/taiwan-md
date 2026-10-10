@@ -277,7 +277,7 @@ Artikel ini menggunakan 5 gambar berlisensi CC + 2 video resmi PTS News Network,
 
 [^27]: [Aturan Produk Persembahan Toko Buah Keluarga - Jaja Fruit](https://www.jaja-fruit.com.tw/worship-fruit/) — Tiga daging lima daging, empat buah tidak perlu dipaksakan menjadi empat jenis, larangan mengunjungi pasien pisang pir plum
 
-[^28]: [Sembahyang Buah Musim Lokal Bulan Lunar - Cabang Selatan Departemen Pertanian dan Pangan](https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=186&article_id=2142) + [Siapa Kata Nanas Pisang Jambu Biji Tidak Dapat Disembahyang - Newsmarket](https://www.newsmarket.com.tw/blog/173820/) — Klarifikasi Departemen Pertanian dan Pangan "Taiwan Folklore", Akademisi Li Fengyou "Prioritaskan Ketulusan Hati"
+[^28]: [Sembahyang Buah Musim Lokal Bulan Lunar - Cabang Selatan Departemen Pertanian dan Pangan](https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=186&article_id=21462) + [Siapa Kata Nanas Pisang Jambu Biji Tidak Dapat Disembahyang - Newsmarket](https://www.newsmarket.com.tw/blog/173820/) — Klarifikasi Departemen Pertanian dan Pangan "Taiwan Folklore", Akademisi Li Fengyou "Prioritaskan Ketulusan Hati"
 
 [^29]: [Puncak Kerajaan Pisang 1967 - UDN Time](https://time.udn.com/udntime/story/122390/8196563) — 27 juta kotak, 62 juta dolar AS, menempati 1/3 devisa, kasus Pengupasan Pisang Wu Zhenrui 1969
 

@@ -186,4 +186,4 @@ Saat artikel ini diterbitkan, tidak ada gambar yang digunakan. Foto lokasi pamer
 
 [^18]: [La Vie: Bagaimana Tainan Menjadi Kota yang Ingin Ditempati Semua Orang](https://www.wowlavie.com/article/ae1900531) - Wawancara mengenai transisi estetika dan peran ruang seni kontemporer di Haian Road, Shennong Street, dan Ganggang 321.
 
-[^19]: [Yayasan Seni dan Budaya Nasional: Studi Pengembangan Ruang Seni Awal di Tainan (1992-1995)](https://archive.ncafroc.org.tw/result?id=71819bbe34c43c1bfa752481bff0a7c) - Arsip hasil penelitian yang mencakup catatan tangan, promosi pameran, dan wawancara anggota dari tahun 1992-1995.
+[^19]: [Yayasan Seni dan Budaya Nasional: Studi Pengembangan Ruang Seni Awal di Tainan (1992-1995)](https://archive.ncafroc.org.tw/result?id=721819bbe34c43c1bfa752481bff0a7c) - Arsip hasil penelitian yang mencakup catatan tangan, promosi pameran, dan wawancara anggota dari tahun 1992-1995.

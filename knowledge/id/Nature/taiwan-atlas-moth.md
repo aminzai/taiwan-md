@@ -96,15 +96,15 @@ Strategi reproduksi Kupu-kupu Raja juga unik: biasanya hanya kawin sekali seumur
 
 ## Referensi
 
-[^1]: [Catatan Observasi Kupu-kupu Raja Taiwan di iNaturalist](https://taiwan.inaturalist.org/taxa/125071-Attacus-atlas) — Catatan pengamatan dan data distribusi Kupu-kupu Raja Taiwan.
+[^1]: [Catatan Observasi Kupu-kupu Raja Taiwan di iNaturalist](https://catalog.digitalarchives.tw/item/00/5b/8e/5c.html) — Catatan pengamatan dan data distribusi Kupu-kupu Raja Taiwan.
 
-[^2]: [Jaringan Keanekaragaman Hayati Taiwan](https://www.tbn.org.tw/) — Database distribusi dan spesimen Kupu-kupu Raja.
+[^2]: [Jaringan Keanekaragaman Hayati Taiwan](https://taieol.tw/pages/107777) — Database distribusi dan spesimen Kupu-kupu Raja.
 
-[^3]: [Kementerian Pertanian Kehutanan dan Konservasi Alam](https://www.forest.gov.tw/) — Kebijakan dan sumber konservasi kupu-kupu Taiwan.
+[^3]: [Kementerian Pertanian Kehutanan dan Konservasi Alam](https://news.ltn.com.tw/news/Taipei/breakingnews/5520373) — Kebijakan dan sumber konservasi kupu-kupu Taiwan.
 
-[^4]: [Kupu-kupu Raja - Wikipedia](https://zh.wikipedia.org/zh-tw/皇蛾) — Penjelasan morfologi, distribusi, dan kebiasaan ekologi Kupu-kupu Raja.
+[^4]: [Kupu-kupu Raja - Wikipedia](https://www.nhm.ac.uk/discover/spotlight-the-atlas-moth.html) — Penjelasan morfologi, distribusi, dan kebiasaan ekologi Kupu-kupu Raja.
 
-[^5]: [Attacus atlas - Picture Insect](https://pictureinsect.com/zh-tw/wiki/Attacus_atlas.html) — Sejarah hidup dan ciri pengenalan Kupu-kupu Raja.
+[^5]: [Attacus atlas - Picture Insect](https://en.wikipedia.org/wiki/Attacus_atlas) — Sejarah hidup dan ciri pengenalan Kupu-kupu Raja.
 
 Bacaan Lanjutan:
 

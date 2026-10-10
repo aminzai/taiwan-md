@@ -125,7 +125,7 @@ Artikel ini menyematkan empat foto makanan manis dan barang Tahun Baru dari Wiki
 
 [^7]: [Dinas Kesehatan Kota Keelung: Daftar Pengujian Makanan Tahun Baru dan Festival Lantern Tahun 112](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01207/f1674011260718.pdf) — PDF pengujian resmi tahun 2022, halaman 2 mencantumkan pengujian mikotoksin keripik kacang dan hasil yang sesuai dengan peraturan, menyajikan tata kelola keamanan makanan Tahun Baru.
 
-[^8]: [Wikimedia Commons: Makanan Manis Taiwan (1088069273).jpg](<https://commons.wikimedia.org/wiki/File:Taiwanese_sweets_(1088069273).jpg>) — Dibuat oleh pelican, lisensi gambar CC BY-SA 2.0. Artikel ini menggunakan URL asli Wikimedia Commons dan tidak mengunduh atau memodifikasi gambar.
+[^8]: [Wikimedia Commons: Makanan Manis Taiwan (1088069273).jpg](https://commons.wikimedia.org/wiki/File:Taiwanese_sweets_(1088069273) — Dibuat oleh pelican, lisensi gambar CC BY-SA 2.0. Artikel ini menggunakan URL asli Wikimedia Commons dan tidak mengunduh atau memodifikasi gambar.
 
 [^9]: [Wikimedia Commons: Penjual Permen Tahun Baru di Dihua Street, Taipei 13 Februari 2010](https://commons.wikimedia.org/wiki/File:2010-02-13_Lunar_New_Year_sweets_vendor_at_Dihua_Street,_Taipei.jpg) — Foto stand permen Tahun Baru di Dihua Street pada tahun 2010, dibuat oleh eazytraveler, lisensi CC BY 2.0, artikel ini menggunakan URL asli.
 

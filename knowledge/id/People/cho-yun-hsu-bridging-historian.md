@@ -313,7 +313,7 @@ Artikel ini menggunakan 2 gambar berlisensi Wikimedia Commons (satu potret asli 
 
 [^12]: [_Xin Lu Li Cheng_ (Perjalanan Hati) - Books.com.tw](https://www.books.com.tw/products/CN11307248) — Halaman buku autobiografi 1964 _Xin Lu Li Cheng_ Hsu Cho-yun, awalnya diterbitkan oleh Wenxing Bookstore (1964), kemudian diterbitkan ulang oleh Biografi Sastra (1969/1979), Universitas Xiamen (2015), mencatat pandangan hidupnya menyebut dirinya "orang yang beruntung" dan detail pengasingan perang masa kecil.
 
-[^13]: [Hsu Cho-yun - Wikipedia (Cina)](https://zh.wikipedia.org/zh-tw/%E8%A4%B1%E5%80%AC%E9%9B%B2) — Sama dengan [^7], mencatat titik waktu dan latar belakang pindah ke Taiwan mengikuti Pemerintah Nasionalis pada 1949, masuk Departemen Sejarah NTU.
+[^13]: [Hsu Cho-yun - Wikipedia (Cina)](https://zh.wikipedia.org/zh-tw/%E8%A8%B1%E5%80%AC%E9%9B%B2) — Sama dengan [^7], mencatat titik waktu dan latar belakang pindah ke Taiwan mengikuti Pemerintah Nasionalis pada 1949, masuk Departemen Sejarah NTU.
 
 [^14]: [Riwayat Singkat Akademikus - Akademi Sinica](https://academicians.sinica.edu.tw/index.php?r=academician-n/show&id=21) — Halaman riwayat singkat resmi Akademikus Akademi Sinica, mencatat timeline pendidikan lengkap Hsu Cho-yun: "S1 Departemen Sejarah Universitas Nasional Taiwan (1953) / Master Institut Sastra NTU (1956) / PhD Humaniora Universitas Chicago, AS (1962)".
 
@@ -327,11 +327,11 @@ Artikel ini menggunakan 2 gambar berlisensi Wikimedia Commons (satu potret asli 
 
 [^19]: [Books.com.tw - Han Agriculture: Pembentukan Ekonomi Petani Tionghoa Awal](https://search.books.com.tw/search/query/key/%E8%A8%B1%E5%80%AC%E9%9B%B2/adv_author/1/) — Halaman penulis Hsu Cho-yun Books.com.tw, termasuk bibliografi edisi Mandarin dan Inggris _Han Agriculture: Pembentukan Ekonomi Petani Tionghoa Awal_, buku asli bahasa Inggris _Han Agriculture: The Formation of the Early Chinese Peasant Economy_ diterbitkan oleh University of Washington Press pada 1980.
 
-[^20]: [Books.com.tw - Qiu Gu Bian](https://search.books.com.tw/search/query/key/%E8%A4%B1%E5%80%AC%E9%9B%B2/adv_author/1/) — Bibliografi Books.com.tw, _Qiu Gu Bian_ edisi pertama Lianjing 1982, edisi 2 1984/1989, Xingxing Press 2006, Commercial Press 2014, edisi 2 2022, mengumpulkan esensi metodologi esai Hsu Cho-yun tentang evolusi sistem birokrasi sipil pusat/daerah dari kuno hingga Qin-Han.
+[^20]: [Books.com.tw - Qiu Gu Bian](https://search.books.com.tw/search/query/key/%E8%A8%B1%E5%80%AC%E9%9B%B2/adv_author/1/) — Bibliografi Books.com.tw, _Qiu Gu Bian_ edisi pertama Lianjing 1982, edisi 2 1984/1989, Xingxing Press 2006, Commercial Press 2014, edisi 2 2022, mengumpulkan esensi metodologi esai Hsu Cho-yun tentang evolusi sistem birokrasi sipil pusat/daerah dari kuno hingga Qin-Han.
 
 [^21]: [Books.com.tw - Xi Zhou Shi (Sejarah Dinasti Zhou Barat)](https://www.books.com.tw/products/0010049667) — Halaman bibliografi Books.com.tw _Xi Zhou Shi_, edisi pertama Lianjing 1984, edisi 2 1986, revisi edisi 3 1990/1993, edisi diperbarui Sanlian Beijing 1994, edisi diperbarui baru Lianjing 2020, mencatat karya representatif Hsu Cho-yun melalui kelompok kekerabatan penelitian asal-usul kesadaran "Huaxia".
 
-[^22]: [Hsu Cho-yun - Wikipedia (Cina Hong Kong)](https://zh.m.wikipedia.org/zh-hk/%E8%A4%B1%E5%80%AC%E9%9B%B2) — Wikipedia versi Tradisional Hong Kong, mencatat kerangka "Tiga Warna Primer Budaya Tiongkok" yang disebut Hsu Cho-yun—kelompok kekerabatan Zhou Barat, sistem birokrasi Qiu Gu Bian, sinergi pertanian intensif Han Agriculture dan ekonomi pasar.
+[^22]: [Hsu Cho-yun - Wikipedia (Cina Hong Kong)](https://zh.m.wikipedia.org/zh-hk/%E8%A8%B1%E5%80%AC%E9%9B%B2) — Wikipedia versi Tradisional Hong Kong, mencatat kerangka "Tiga Warna Primer Budaya Tiongkok" yang disebut Hsu Cho-yun—kelompok kekerabatan Zhou Barat, sistem birokrasi Qiu Gu Bian, sinergi pertanian intensif Han Agriculture dan ekonomi pasar.
 
 [^23]: [Istri Xu Zuo Yun Sun Manli: Pasangan Adalah Teman Baik - NetEase](https://www.163.com/dy/article/J2I0QO5N05566FH1.html) — NetEase mengedit biografi Sun Manli, termasuk lahir musim dingin 1943, semula siswa Hsu Cho-yun, 12 tahun lebih muda dari Hsu Cho-yun, menikah 9 Februari 1969, melahirkan putra tunggal Hsu Le-peng (Leo Hsu) November 1969, pindah ke Pittsburgh mengikuti Hsu Cho-yun 1970 timeline keluarga.
 
@@ -351,7 +351,7 @@ Artikel ini menggunakan 2 gambar berlisensi Wikimedia Commons (satu potret asli 
 
 [^31]: [Wang Fan-sen - Wikipedia](https://zh.m.wikipedia.org/zh-hk/%E7%8E%8B%E6%B1%8E%E6%A3%AE) — Artikel Wikipedia Wang Fan-sen, mencatat hubungan bimbingan, karir sebagai Direktur dan Wakil Direktur Institut Sejarah dan Filologi Akademi Sinica, dianggap sebagai salah satu penerus akademik Hsu Cho-yun di Taiwan; Du Zheng-sheng历任 Menteri Pendidikan, Direktur Museum Istana Nasional, juga anggota lingkaran sejarawan seangkatan.
 
-[^32]: [Wang Leehom Posting Duka Hsu Cho-yun: Kebijaksanaan Paman Besar Ketujuh Tidak Ada Tandingannya - Ming Pao News Network](https://news.mingpao.com/ins/%E5%85%A9%E5%B2%B8/article/20250805/s00004/1754381648755/%E7%8E%8B%E5%8A%9B%E5%AE%8F%E7%99%BC%E6%96%87%E6%82%BC%E5%BF%B5%E8%A8%B1%E5%80%AC%E9%9B%B2-%E4%B8%83%E8%88%85%E5%85%AC%E6%99%A5%E6%85%A7%E7%84%A1%E4%BA%BA%E8%83%BD%E5%8F%8A) — Ming Pao 5 Agustus 2025 menerbitkan ulang konten verbatim duka Weibo Wang Leehom, termasuk sebutan "Paman Besar Ketujuh" dan detail peringkat keluarga "anak ketujuh dari sembilan bersaudara".
+[^32]: [Wang Leehom Posting Duka Hsu Cho-yun: Kebijaksanaan Paman Besar Ketujuh Tidak Ada Tandingannya - Ming Pao News Network](https://news.mingpao.com/ins/%E5%85%A9%E5%B2%B8/article/20250805/s00004/1754381648755/%E7%8E%8B%E5%8A%9B%E5%AE%8F%E7%99%BC%E6%96%87%E6%82%BC%E5%BF%B5%E8%A8%B1%E5%80%AC%E9%9B%B2-%E4%B8%83%E8%88%85%E5%85%AC%E6%99%BA%E6%85%A7%E7%84%A1%E4%BA%BA%E8%83%BD%E5%8F%8A) — Ming Pao 5 Agustus 2025 menerbitkan ulang konten verbatim duka Weibo Wang Leehom, termasuk sebutan "Paman Besar Ketujuh" dan detail peringkat keluarga "anak ketujuh dari sembilan bersaudara".
 
 [^33]: [Seberapa Hebat Keluarga Wang Leehom? Profesor Sejarah Membaca Sejarah 40 Tahun Meneliti - Business Today](https://www.businesstoday.com.tw/article/category/183027/post/202112190017/) — Laporan Business Today 19 Desember 2021, oleh sejarawan NU Cheng Wu Ming meneliti silsilah keluarga Wang Leehom: nenek Hsu Liu-fen putri tertua Hsu Feng-zao, lulus Departemen Ekonomi Universitas Tsinghua, Kepala Divisi Akuntansi Taipei Commercial College, penulis _Prinsip Akuntansi_ dan _Kamus Akuntansi Inggris-Mandarin_ dan lain-lain.
 
@@ -359,7 +359,7 @@ Artikel ini menggunakan 2 gambar berlisensi Wikimedia Commons (satu potret asli 
 
 [^35]: [Wang Leehom, Hsu Cho-yun Adalah Kerabat Li Jianfu - China Times](https://www.chinatimes.com/newspapers/20150603000453-260102) — Laporan 3 Juni 2015 China Times, ayah Li Jianfu adalah Li Mo (Menteri Muda Pendidikan dan Ekonomi), ibu Hsu Wan-qing (adik perempuan kedua Hsu Cho-yun, lulus Southwest Associated University), paman adalah Hsu Cho-yun; Li Jianfu dan Wang Leehom adalah sepupu.
 
-[^36]: [Hsu Cho-yun - Wikipedia (Cina)](https://zh.wikipedia.org/zh-tw/%E8%A4%B1%E5%80%AC%E9%9B%B2) — Sama dengan [^7], mencatat adik kembar Hsu Yi-yun sebagai ahli kimia,历任 Ketua Komisi Energi Atom Dewan Eksekutif.
+[^36]: [Hsu Cho-yun - Wikipedia (Cina)](https://zh.wikipedia.org/zh-tw/%E8%A8%B1%E5%80%AC%E9%9B%B2) — Sama dengan [^7], mencatat adik kembar Hsu Yi-yun sebagai ahli kimia,历任 Ketua Komisi Energi Atom Dewan Eksekutif.
 
 [^37]: [Pewaris Naga - Li Jianfu | Audio focus](https://focus.lib.ntu.edu.tw/?q=zh-hant/%E5%8F%B0%E7%81%A3%E6%A0%A1%E5%9C%92%E6%B0%91%E6%AD%8C/%E9%BE%8D%E7%9A%84%E5%82%B3%E4%BA%BA-%E6%9D%8E%E5%BB%BA%E5%BE%A9) — Database Audio NTU _Pewaris Naga_ entri, mencatat 1980 oleh Hou De-jian lirik dan musik, Li Jianfu penyanyi asli merilis lagu klasik folk kampus Taiwan, Li Jianfu adalah keponakan dari pihak istri Hsu Cho-yun (putra Hsu Wan-qing).
 
@@ -391,7 +391,7 @@ Artikel ini menggunakan 2 gambar berlisensi Wikimedia Commons (satu potret asli 
 
 [^51]: [Books.com.tw - Meiguo Liu Shi Nian Cang Sang: Jianwen Yi Ge Huaren](https://www.books.com.tw/products/0010818440) — Halaman bibliografi Books.com.tw _Meiguo Liu Shi Nian Cang Sang_, Lianjing terbit April 2019, observasi setengah abad kehidupan Hsu Cho-yun di Amerika dan diagnosis masyarakat Amerika.
 
-[^52]: [Books.com.tw - Penulis - Hsu Cho-yun](https://search.books.com.tw/search/query/key/%E8%A4%B1%E5%80%AC%E9%9B%B2/adv_author/1/) — Halaman penulis lengkap Books.com.tw Hsu Cho-yun, termasuk _Wang Li Zou, Andun Ziji_ 2022 Penerbit Harian Beijing, kolaborasi dengan Feng Jun-wen menulis informasi penerbitan.
+[^52]: [Books.com.tw - Penulis - Hsu Cho-yun](https://search.books.com.tw/search/query/key/%E8%A8%B1%E5%80%AC%E9%9B%B2/adv_author/1/) — Halaman penulis lengkap Books.com.tw Hsu Cho-yun, termasuk _Wang Li Zou, Andun Ziji_ 2022 Penerbit Harian Beijing, kolaborasi dengan Feng Jun-wen menulis informasi penerbitan.
 
 [^53]: [Books.com.tw - Hsu Cho-yun Mengatakan Sejarah (Lima Jilid Edisi Koleksi Hardcover)](https://www.books.com.tw/products/CN11413817) — Halaman bibliografi Books.com.tw _Hsu Cho-yun Mengatakan Sejarah_ seri lima jilid edisi koleksi hardcover, adalah versi populer Sejarah Besar.
 
@@ -401,7 +401,7 @@ Artikel ini menggunakan 2 gambar berlisensi Wikimedia Commons (satu potret asli 
 
 [^56]: [Selamat kepada Alumni Berprestasi Profesor Hsu Cho-yun Menerima Penghargaan Sinologi Tang Prize - Universitas Nasional Taiwan](https://www.ntu.edu.tw/spotlight/2024/2278_20240620.html) — Berita Fokus NTU 20 Juni 2024 selamat Hsu Cho-yun (S1 Departemen Sejarah NTU 1953, Master Institut Sastra 1956, Kepala Departemen 1964-70) menerima Penghargaan Sinologi Tang Prize, mencatat hubungan jangka panjangnya dengan Departemen Sejarah NTU.
 
-[^57]: [Penerima Penghargaan Sinologi Tang Prize Hsu Cho-yun, Membahas Trump dan "Tidak Dapat Tidak Mengingat Akhir Dinasti Qing" - GQ Magazine](https://www.gvm.com.tw/article/11618) — Wawancara GQ Magazine September 2024 Hsu Cho-yun, mencatat aplikasi metode Sejarah Besar ia menggunakan "tidak dapat tidak mengingat akhir Dinasti Qing" mengibaratkan tatanan internasional saat ini, dan konteks dua kali wawancara Pittsburgh _Shisan Yao_ Musim 8 2019/2023.
+[^57]: [Penerima Penghargaan Sinologi Tang Prize Hsu Cho-yun, Membahas Trump dan "Tidak Dapat Tidak Mengingat Akhir Dinasti Qing" - GQ Magazine](https://www.gvm.com.tw/article/116018) — Wawancara GQ Magazine September 2024 Hsu Cho-yun, mencatat aplikasi metode Sejarah Besar ia menggunakan "tidak dapat tidak mengingat akhir Dinasti Qing" mengibaratkan tatanan internasional saat ini, dan konteks dua kali wawancara Pittsburgh _Shisan Yao_ Musim 8 2019/2023.
 
 [^58]: [Hsu Cho-yun: Saya Berharap Tidak Lagi Mendengar Nada "Tiongkok Hebat" - Think HK](https://www.thinkhk.com/article/2021-04/27/48632.html) — Think HK April 2021 menerbitkan ulang wawancara panjang Hsu Cho-yun tentang kritik "Sinosentrisme", termasuk pernyataan posisi verbatim "Saya berharap tidak lagi mendengar nada 'Tiongkok Hebat'".
 

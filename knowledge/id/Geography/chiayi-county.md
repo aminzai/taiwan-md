@@ -89,7 +89,7 @@ Struktur sosial tradisional suku Tsou berpusat pada "hosa" (desa besar). Dokumen
 Dalam tiga ritual besar suku Tsou, Mayasvi (ritual perang) menempati posisi tertinggi, diadakan di Kuba, untuk memohon kekuatan perang kepada dewa perang. Ritual perang Tabangu diadakan sekitar Agustus hingga Oktober, sementara Tfuya diadakan sekitar Januari hingga Maret; kedua desa ini tidak sinkron dan telah ditetapkan sebagai kebudayaan penting oleh negara[^11].
 
 ![Fotografer Torii merekam wanita pembuat tembikar di Desa Tabangu pada tahun 1900. Torii melakukan survei berkali-kali terhadap suku asli Taiwan antara tahun 1896–1900, meninggalkan rekaman visual tertua dari suku Tsou Alishan. Catatan Jepang asli: "Wanita Pembuat Tembikar (Desa Tabangu)".](https://upload.wikimedia.org/wikipedia/commons/4/4f/Tsou%2C_Alishan%2C_Taiwan_1900_%28No.7425%29.jpg)
-_Foto: Torii Ryuzan, Desa Tabangu, 1900. Foto: Torii Ryuzan (1870-1953), [Domain Publik melalui Wikimedia](<https://commons.wikimedia.org/wiki/File:Tsou,_Alishan,_Taiwan_1900_(No.7425).jpg>).\_
+_Foto: Torii Ryuzan, Desa Tabangu, 1900. Foto: Torii Ryuzan (1870-1953), [Domain Publik melalui Wikimedia](https://commons.wikimedia.org/wiki/File:Tsou,_Alishan,_Taiwan_1900_(No.7425).\_
 
 Yang membawa suku Tsou memasuki sejarah modern Taiwan adalah nama Gao Yisheng.
 

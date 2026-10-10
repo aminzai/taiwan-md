@@ -87,7 +87,7 @@ Lagu paling terkenal dalam album ini adalah [〈Bisakah Hal-hal Indah Terjadi pa
 
 Latar belakang pembuatan lagu ini sangat krusial: **ARNY menulisnya pada tahun 2017 saat ia berada di titik terendahnya.**[^2] Tahun 2017 adalah tahun yang sulit bagi KST: respons pasar tidak sesuai harapan, rasa pencapaian dari karier band sebelumnya mulai memudar, dan band baru belum berdiri kokoh. Namun, lagu dengan bentuk pasif ini justru menjadi puncak kedua mereka.
 
-Album _Iterasi_ juga memiliki dua karya representatif lainnya: [〈Gumam〉](https://www.youtube.com/watch?v=ABdDXVsgRk8) menggunakan bisikan yang menekan hampir seperti rap untuk menggambarkan kekacauan zaman; [〈Hi There〉](https://www.youtube.com/watch?v=gnL-bVDf7Tc) adalah kurva emosi selama 7 menit, dimulai dari monolog lembut hingga teriakan intens, dengan satu baris lirik: "Yang berlalu bukanlah masa muda."[^7]
+Album _Iterasi_ juga memiliki dua karya representatif lainnya: [〈Gumam〉](https://www.youtube.com/watch?v=ABbDXVsgRk8) menggunakan bisikan yang menekan hampir seperti rap untuk menggambarkan kekacauan zaman; [〈Hi There〉](https://www.youtube.com/watch?v=gnL-bVDf7Tc) adalah kurva emosi selama 7 menit, dimulai dari monolog lembut hingga teriakan intens, dengan satu baris lirik: "Yang berlalu bukanlah masa muda."[^7]
 
 Kritikus musik kemudian membuat perbandingan yang tepat antara KST dan No Party for//\_ yang bangkit di tahun yang sama:
 
