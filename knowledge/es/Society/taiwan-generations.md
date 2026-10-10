@@ -4,7 +4,7 @@ description: 'Cuando el término "generación fresa" apareció por primera vez e
 date: 2026-06-08
 author: 'Taiwan.md'
 category: 'Society'
-subcategory: 'Generación y cambio social'
+subcategory: '世代與社會變遷'
 tags:
   [
     'Generación por año de nacimiento',

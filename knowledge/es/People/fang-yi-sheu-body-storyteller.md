@@ -1,10 +1,17 @@
 ---
-title: "Fang-Yi Sheu: Yilan 1971, de principal del Martha Graham Dance Company a bailarina del diseño visual del Festival de Cine Golden Horse 2024"
-description: "Nacida en Yilan en 1971. Licenciada en Danza por la Universidad Nacional de las Artes de Taipéi. Viajó a Estados Unidos en 1995 y se incorporó al Martha Graham Dance Company, donde fue ascendida a bailarina principal en 1999. En 2007 regresó a Taiwán y fundó LAFA (concluido en 2010). Documental *Salto al vacío* (2020). En 2024 diseñó la coreografía del diseño visual del Festival de Cine Golden Horse. En 2025 concedió entrevistas sobre el envejecimiento del cuerpo."
+title: 'Fang-Yi Sheu: Yilan 1971, de principal del Martha Graham Dance Company a bailarina del diseño visual del Festival de Cine Golden Horse 2024'
+description: 'Nacida en Yilan en 1971. Licenciada en Danza por la Universidad Nacional de las Artes de Taipéi. Viajó a Estados Unidos en 1995 y se incorporó al Martha Graham Dance Company, donde fue ascendida a bailarina principal en 1999. En 2007 regresó a Taiwán y fundó LAFA (concluido en 2010). Documental *Salto al vacío* (2020). En 2024 diseñó la coreografía del diseño visual del Festival de Cine Golden Horse. En 2025 concedió entrevistas sobre el envejecimiento del cuerpo.'
 date: 2026-03-19
 category: 'People'
-tags: ["Arte y diseño", "Danza", "Artes escénicas", "Danza contemporánea", "Martha Graham Dance Company"]
-subcategory: 'Arte y diseño'
+tags:
+  [
+    'Arte y diseño',
+    'Danza',
+    'Artes escénicas',
+    'Danza contemporánea',
+    'Martha Graham Dance Company',
+  ]
+subcategory: '藝術與設計'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07
@@ -23,7 +30,7 @@ translatedAt: '2026-05-20T05:08:32+08:00'
 
 # Fang-Yi Sheu: Yilan 1971, de principal del Martha Graham Dance Company a bailarina del diseño visual del Festival de Cine Golden Horse 2024
 
-> **Resumen en 30 segundos:** Fang-Yi Sheu nació en Yilan en 1971 y, tras licenciarse en Danza por la Universidad Nacional de las Artes de Taipéi, viajó a Estados Unidos.[^1] En 1995 superó una audición y se incorporó al Martha Graham Dance Company en Nueva York,[^1] donde fue ascendida a bailarina principal en 1999.[^1] En 2005 recibió elogios del *The New York Times*. En 2007 regresó a Taiwán y fundó LAFA, que concluyó en 2010.[^2] En 2020 se estrenó el documental *Salto al vacío*. En 2024 diseñó la coreografía del diseño visual del Festival de Cine Golden Horse.[^3]
+> **Resumen en 30 segundos:** Fang-Yi Sheu nació en Yilan en 1971 y, tras licenciarse en Danza por la Universidad Nacional de las Artes de Taipéi, viajó a Estados Unidos.[^1] En 1995 superó una audición y se incorporó al Martha Graham Dance Company en Nueva York,[^1] donde fue ascendida a bailarina principal en 1999.[^1] En 2005 recibió elogios del _The New York Times_. En 2007 regresó a Taiwán y fundó LAFA, que concluyó en 2010.[^2] En 2020 se estrenó el documental _Salto al vacío_. En 2024 diseñó la coreografía del diseño visual del Festival de Cine Golden Horse.[^3]
 
 ## 1971, Yilan
 
@@ -39,23 +46,23 @@ En 1995, Fang-Yi Sheu superó la audición y se incorporó al Martha Graham Danc
 
 La propia audición del Martha Graham Dance Company constituye un primer filtro: bailarines de todo el mundo compiten por esas plazas. Cuando Sheu la superó, era una de las pocas bailarinas asiáticas que habían accedido a esa institución en la década de 1990. En el mundo de la danza contemporánea neoyorquina, su presencia rompió un prejuicio geográfico tácito: el entrenamiento corporal de alto nivel no ocurre exclusivamente en Occidente.
 
-Durante su etapa en la compañía, interpretó obras clásicas de Graham como *Diversion of Angels* y *Night Journey*, recibiendo elogios de la crítica de danza de Nueva York. En 2005, el *The New York Times* la describió como «una de las bailarinas más destacadas» (la formulación exacta de la reseña requiere confirmación adicional).[^1]
+Durante su etapa en la compañía, interpretó obras clásicas de Graham como _Diversion of Angels_ y _Night Journey_, recibiendo elogios de la crítica de danza de Nueva York. En 2005, el _The New York Times_ la describió como «una de las bailarinas más destacadas» (la formulación exacta de la reseña requiere confirmación adicional).[^1]
 
-El núcleo de la técnica Graham es la «contracción y extensión» (*contraction and release*), un lenguaje de movimiento centrado en la columna vertebral que expresa tensión emocional a través del desplazamiento del centro de gravedad. Sheu ascendió dentro de este sistema desde miembro de la compañía hasta principal, lo que demuestra que fue capaz de utilizar el vocabulario de Graham para contar su propia historia. El dominio técnico era la condición de entrada; eso es lo que define el estándar de una bailarina principal.
+El núcleo de la técnica Graham es la «contracción y extensión» (_contraction and release_), un lenguaje de movimiento centrado en la columna vertebral que expresa tensión emocional a través del desplazamiento del centro de gravedad. Sheu ascendió dentro de este sistema desde miembro de la compañía hasta principal, lo que demuestra que fue capaz de utilizar el vocabulario de Graham para contar su propia historia. El dominio técnico era la condición de entrada; eso es lo que define el estándar de una bailarina principal.
 
 ## Fundación de LAFA: educación danzaria y experimentación interdisciplinaria en Taiwán
 
-En 2007, Fang-Yi Sheu regresó a Taiwán y fundó «LAFA» (*Life Art For All*).[^2] LAFA no fue solo una compañía de danza: también desarrolló proyectos educativos y colaboraciones interdisciplinarias. En 2010, LAFA concluyó.
+En 2007, Fang-Yi Sheu regresó a Taiwán y fundó «LAFA» (_Life Art For All_).[^2] LAFA no fue solo una compañía de danza: también desarrolló proyectos educativos y colaboraciones interdisciplinarias. En 2010, LAFA concluyó.
 
 (Nota: algunas fuentes registran erróneamente el año de fundación como 2008; se toma 2007 como referencia.)
 
 La decisión de regresar a Taiwán y fundar LAFA fue un giro deliberado que Sheu eligió tras haber consolidado su posición como principal en el Martha Graham Dance Company. Esta elección revela que su sentido de responsabilidad hacia la danza no se limitaba a actuar en los escenarios más prestigiosos, sino que incluía traer de vuelta a Taiwán lo que había aprendido en Nueva York y encontrar un terreno fértil para ello. LAFA concluyó en 2010, pero sus tres años de actividad dejaron un modelo de referencia en colaboración interdisciplinaria y práctica educativa en danza.
 
-## El documental *Salto al vacío*: el cuerpo como conocimiento
+## El documental _Salto al vacío_: el cuerpo como conocimiento
 
-En 2020 se estrenó el documental *Salto al vacío*, que recorre la trayectoria profesional de Fang-Yi Sheu. El título en sí constituye una declaración de principios: ella elige hacer lo que hace, no necesariamente lo que otros esperan que haga. Esta actitud atraviesa toda su trayectoria, de Yilan a Nueva York, de Graham a LAFA: cada una de sus decisiones es una práctica concreta de «mi corazón, mi camino».
+En 2020 se estrenó el documental _Salto al vacío_, que recorre la trayectoria profesional de Fang-Yi Sheu. El título en sí constituye una declaración de principios: ella elige hacer lo que hace, no necesariamente lo que otros esperan que haga. Esta actitud atraviesa toda su trayectoria, de Yilan a Nueva York, de Graham a LAFA: cada una de sus decisiones es una práctica concreta de «mi corazón, mi camino».
 
-Tanto en el documental *Salto al vacío* (2020) como en entrevistas concedidas en 2025, Sheu ha abordado de forma reiterada la finitud del cuerpo como herramienta de la danza y la cuestión de cómo convivir con el envejecimiento. Su postura es clara: la vida de una bailarina no se agota en la interpretación escénica; la comprensión del cuerpo constituye en sí misma una forma de conocimiento. Independientemente de lo que el cuerpo pueda hacer, ese conocimiento puede enseñarse, transmitirse y seguir utilizándose. Esta actitud es la tesis central de su transición, tras el entrenamiento técnico en el Martha Graham Dance Company, hacia los roles de educadora y voz pública.
+Tanto en el documental _Salto al vacío_ (2020) como en entrevistas concedidas en 2025, Sheu ha abordado de forma reiterada la finitud del cuerpo como herramienta de la danza y la cuestión de cómo convivir con el envejecimiento. Su postura es clara: la vida de una bailarina no se agota en la interpretación escénica; la comprensión del cuerpo constituye en sí misma una forma de conocimiento. Independientemente de lo que el cuerpo pueda hacer, ese conocimiento puede enseñarse, transmitirse y seguir utilizándose. Esta actitud es la tesis central de su transición, tras el entrenamiento técnico en el Martha Graham Dance Company, hacia los roles de educadora y voz pública.
 
 ## Diseño visual del Festival de Cine Golden Horse y el envejecimiento del cuerpo
 
@@ -87,7 +94,7 @@ Esta tesis ha ampliado su influencia más allá de los límites de la danza prof
 
 ## Referencias
 
-[^1]: [Wikipedia: Fang-Yi Sheu](https://zh.wikipedia.org/wiki/許芳宜) — Confirma el nacimiento en Yilan en 1971, la Universidad Nacional de las Artes de Taipéi, la incorporación al Martha Graham Dance Company en 1995 (no el ascenso a principal en 1995), el ascenso a principal en 1999 y los elogios del *The New York Times* en 2005.
+[^1]: [Wikipedia: Fang-Yi Sheu](https://zh.wikipedia.org/wiki/許芳宜) — Confirma el nacimiento en Yilan en 1971, la Universidad Nacional de las Artes de Taipéi, la incorporación al Martha Graham Dance Company en 1995 (no el ascenso a principal en 1995), el ascenso a principal en 1999 y los elogios del _The New York Times_ en 2005.
 
 [^2]: [Cobertura relacionada con LAFA](https://www.ncaf.org.tw/) — Confirma la fundación de LAFA en 2007 (no en 2008) y su conclusión en 2010.
 
@@ -95,4 +102,4 @@ Esta tesis ha ampliado su influencia más allá de los límites de la danza prof
 
 [^4]: [CommonWealth Magazine: entrevista a Fang-Yi Sheu 2025](https://www.cw.com.tw/article/5093568) — Incluye la entrevista en la que Sheu aborda el envejecimiento del cuerpo y la transición en la carrera de una bailarina.
 
-[^5]: [Documental *Salto al vacío* (2020)](https://www.pts.org.tw/) — Materiales relacionados con el documental sobre la carrera de Fang-Yi Sheu.
+[^5]: [Documental _Salto al vacío_ (2020)](https://www.pts.org.tw/) — Materiales relacionados con el documental sobre la carrera de Fang-Yi Sheu.

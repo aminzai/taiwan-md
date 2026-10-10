@@ -15,7 +15,7 @@ tags:
     Chanteuse des casernes,
     Guerre froide,
   ]
-subcategory: 'Musique'
+subcategory: '音樂'
 lastVerified: 2026-04-20
 lastHumanReview: true
 featured: true

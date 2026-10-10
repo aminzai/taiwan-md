@@ -4,7 +4,7 @@ description: 'En diciembre de 2024, el documental "Documental de la Guerra Unida
 date: 2026-04-23
 author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: 'Media y discurso público'
+subcategory: '媒體與言論'
 tags:
   [
     'Guerra cognitiva',

@@ -11,7 +11,7 @@ tags:
     'Gastronomía sostenible',
     'Comparación internacional',
   ]
-subcategory: 'Gastronomía étnica'
+subcategory: '族群飲食'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-27

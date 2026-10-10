@@ -15,7 +15,7 @@ tags:
     'Yang Chih-liang',
     'base de datos del seguro de salud',
   ]
-subcategory: 'Salud y seguro médico'
+subcategory: '醫療與健保'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-04

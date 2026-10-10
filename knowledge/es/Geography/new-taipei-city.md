@@ -20,7 +20,7 @@ tags:
     'Metrópolis Anillada',
     'Serie de 22 condados y ciudades',
   ]
-subcategory: 'Condados y ciudades'
+subcategory: '縣市'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-18

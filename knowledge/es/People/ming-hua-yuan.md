@@ -3,8 +3,15 @@ title: 'Ming Hua Yuan: fundado en 1929 en Tainan, el imperio de la ópera taiwan
 description: 'Fundado por Chen Mingji en Tainan en 1929, se trasladó a Chaozhou, Pingtung, en 1962. La segunda generación, Chen Shengfu, introdujo tecnología teatral moderna, llevando la ópera taiwanesa al Teatro Nacional. Con ocho subcompañías —Tian, Di, Xuan, Huang, Ri, Yue, Xing, Chen—, en 2024 la obra *Sanxi* realizó su cuarta gira conmemorando el 95.º aniversario.'
 date: 2026-03-19
 category: 'People'
-tags: ['Arte y diseño', 'Ópera taiwanesa', 'Arte tradicional', 'Artes escénicas', 'Herencia de cuatro generaciones']
-subcategory: 'Arte y diseño'
+tags:
+  [
+    'Arte y diseño',
+    'Ópera taiwanesa',
+    'Arte tradicional',
+    'Artes escénicas',
+    'Herencia de cuatro generaciones',
+  ]
+subcategory: '藝術與設計'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07
@@ -23,11 +30,11 @@ translatedAt: '2026-05-20T05:08:32+08:00'
 
 # Ming Hua Yuan: fundado en 1929 en Tainan, el imperio de la ópera taiwanesa de cuatro generaciones de la familia Chen
 
-> **Resumen en 30 segundos:** Ming Hua Yuan fue fundado por Chen Mingji en Tainan en 1929 y se trasladó a Chaozhou, Pingtung, en 1962.[^1] La segunda generación, Chen Shengfu, introdujo tecnología teatral moderna (mecanismos escénicos, proyecciones sobre cortina de agua, acrobacias aéreas), y su obra representativa, la serie *El monje Ji Gong*, llevó la ópera taiwanesa al formato de teatro para miles de espectadores.[^2] En 1982 debutó en el Salón Conmemorativo de Sun Yat-sen, y en 1990 ingresó al Teatro Nacional.[^2] La agrupación se divide en ocho subcompañías: Tian, Di, Xuan, Huang, Ri, Yue, Xing y Chen.[^3] En 2024, *Sanxi* realizó su cuarta gira, con presentaciones en el Teatro Nacional de Ópera de Taichung y el Centro Nacional de Artes Escénicas Weiwuying en Kaohsiung, conmemorando el 95.º aniversario de la fundación.[^4]
+> **Resumen en 30 segundos:** Ming Hua Yuan fue fundado por Chen Mingji en Tainan en 1929 y se trasladó a Chaozhou, Pingtung, en 1962.[^1] La segunda generación, Chen Shengfu, introdujo tecnología teatral moderna (mecanismos escénicos, proyecciones sobre cortina de agua, acrobacias aéreas), y su obra representativa, la serie _El monje Ji Gong_, llevó la ópera taiwanesa al formato de teatro para miles de espectadores.[^2] En 1982 debutó en el Salón Conmemorativo de Sun Yat-sen, y en 1990 ingresó al Teatro Nacional.[^2] La agrupación se divide en ocho subcompañías: Tian, Di, Xuan, Huang, Ri, Yue, Xing y Chen.[^3] En 2024, _Sanxi_ realizó su cuarta gira, con presentaciones en el Teatro Nacional de Ópera de Taichung y el Centro Nacional de Artes Escénicas Weiwuying en Kaohsiung, conmemorando el 95.º aniversario de la fundación.[^4]
 
 ## 1929, Tainan
 
-La historia de Ming Hua Yuan comienza en 1929. Chen Mingji fundó esta compañía de ópera taiwanesa (*gezaixi*) en Tainan, donde en sus inicios seguía los festivales de los templos actuando en escenarios al aire libre: una compañía itinerante que se desplazaba con las celebraciones religiosas.[^1]
+La historia de Ming Hua Yuan comienza en 1929. Chen Mingji fundó esta compañía de ópera taiwanesa (_gezaixi_) en Tainan, donde en sus inicios seguía los festivales de los templos actuando en escenarios al aire libre: una compañía itinerante que se desplazaba con las celebraciones religiosas.[^1]
 
 En 1962, la compañía se trasladó a Chaozhou, Pingtung, echando raíces en el sur de Taiwán. Algunas fuentes indican erróneamente que el lugar de fundación fue Chaozhou, Pingtung; la referencia correcta es Tainan, 1929.
 
@@ -41,7 +48,7 @@ Cuando Chen Shengfu tomó el mando, la ópera taiwanesa enfrentaba el impacto de
 
 La esencia de esta decisión fue una apuesta contraria al mercado. La ópera televisiva tenía más audiencia, menor costo y menor riesgo, pero Chen Shengfu apostó por el «impacto irrepetible de lo en vivo». No vio en la televisión una amenaza que comprimía la ópera taiwanesa, sino una oportunidad de diferenciación: cuando todos migraban hacia la televisión, el teatro se convertía en un bien escaso.
 
-Introdujo iluminación, sonido profesional, mecanismos escénicos, acrobacias aéreas y proyecciones sobre cortina de agua, convirtiendo cada función de Ming Hua Yuan en un espectáculo visual. La serie *El monje Ji Gong* logró escenas de vuelo sobre el escenario, atrayendo a espectadores que nunca habían visto ópera taiwanesa. *La súper espectacular leyenda de la serpiente blanca* y *El gran inmortal de Penglai* también fusionaron la tradición vocal con la dramaturgia contemporánea mediante adaptaciones modernas.[^2]
+Introdujo iluminación, sonido profesional, mecanismos escénicos, acrobacias aéreas y proyecciones sobre cortina de agua, convirtiendo cada función de Ming Hua Yuan en un espectáculo visual. La serie _El monje Ji Gong_ logró escenas de vuelo sobre el escenario, atrayendo a espectadores que nunca habían visto ópera taiwanesa. _La súper espectacular leyenda de la serpiente blanca_ y _El gran inmortal de Penglai_ también fusionaron la tradición vocal con la dramaturgia contemporánea mediante adaptaciones modernas.[^2]
 
 El proceso de modernización fue también una reconstrucción de audiencias: el público tradicional de los escenarios al aire libre llegó con sus hábitos de espectador de feria, y Chen Shengfu los retuvo con el espectáculo visual; al mismo tiempo, un nuevo público urbano pisó por primera vez un recinto de ópera taiwanesa atraído por la «grandiosidad del escenario», entrando en contacto con una forma de arte que no habría elegido por iniciativa propia. La superposición de ambos grupos es la razón estructural por la que Ming Hua Yuan logró mantener funciones con lleno total en la era televisiva.
 
@@ -59,13 +66,13 @@ Ming Hua Yuan cuenta actualmente con ocho subcompañías: Tian, Di, Xuan, Huang,
 
 La estructura de ocho subcompañías permite a Ming Hua Yuan estar presente simultáneamente en distintas regiones y en eventos de distinto formato: las compañías Tian y Di se encargan de los grandes teatros, mientras que las demás subcompañías cubren funciones en escenarios al aire libre de menor escala y presentaciones escolares. Esta capacidad de despliegue flexible es la base organizativa que permite a Ming Hua Yuan mantener una alta frecuencia de actuaciones en todo Taiwán. La tercera y cuarta generaciones de la familia dirigen las distintas subcompañías, de modo que la estructura de sucesión no depende de un único heredero, sino que se distribuye en una gestión en red.
 
-## La cuarta gira de *Sanxi* y el 95.º aniversario
+## La cuarta gira de _Sanxi_ y el 95.º aniversario
 
-En 2024, *Sanxi* realizó su cuarta gira, con presentaciones en el Teatro Nacional de Ópera de Taichung y en el Centro Nacional de Artes Escénicas Weiwuying en Kaohsiung.[^4] Ese año también marcó el 95.º aniversario de la fundación de Ming Hua Yuan.
+En 2024, _Sanxi_ realizó su cuarta gira, con presentaciones en el Teatro Nacional de Ópera de Taichung y en el Centro Nacional de Artes Escénicas Weiwuying en Kaohsiung.[^4] Ese año también marcó el 95.º aniversario de la fundación de Ming Hua Yuan.
 
-La cuarta reposición de *Sanxi* en sí misma es una señal estructural: que una obra pueda representarse repetidamente en teatros de distintas épocas significa que toca un tema que trasciende un momento particular. Que Ming Hua Yuan eligiera *Sanxi* en el marco de su 95.º aniversario es una decisión temporal consciente: usar una historia sobre la «disolución» para confirmar que todavía «están aquí».
+La cuarta reposición de _Sanxi_ en sí misma es una señal estructural: que una obra pueda representarse repetidamente en teatros de distintas épocas significa que toca un tema que trasciende un momento particular. Que Ming Hua Yuan eligiera _Sanxi_ en el marco de su 95.º aniversario es una decisión temporal consciente: usar una historia sobre la «disolución» para confirmar que todavía «están aquí».
 
-La trama de *Sanxi* es en sí misma una metáfora de la situación de Ming Hua Yuan: una compañía de ópera antigua enfrenta la amenaza de la «disolución» ante los cambios de época, pero resiste la desaparición a través de la propia actuación. Este tema, enmarcado en el 95.º aniversario de Ming Hua Yuan, adquiere una fuerza de autorreferencia. Lo que representan y lo que son es lo mismo.
+La trama de _Sanxi_ es en sí misma una metáfora de la situación de Ming Hua Yuan: una compañía de ópera antigua enfrenta la amenaza de la «disolución» ante los cambios de época, pero resiste la desaparición a través de la propia actuación. Este tema, enmarcado en el 95.º aniversario de Ming Hua Yuan, adquiere una fuerza de autorreferencia. Lo que representan y lo que son es lo mismo.
 
 Una compañía itinerante que partió de los atrios de los templos de Tainan ha llegado a un mapa de ocho subcompañías y el escenario de Weiwuying. Casi un siglo, y esta familia de la ópera taiwanesa ha llegado hasta aquí.
 
@@ -89,10 +96,10 @@ La compañía itinerante no se convirtió en museo; la actualización teatral no
 
 [^1]: [Sitio web oficial de Ming Hua Yuan: historia de la compañía](https://twopera.com/) — Confirma la fundación en Tainan en 1929 (no en Chaozhou, Pingtung), el traslado a Chaozhou, Pingtung, en 1962, y al fundador Chen Mingji.
 
-[^2]: [Wikipedia: Ming Hua Yuan](https://zh.wikipedia.org/wiki/明華園) — Incluye la introducción de tecnología teatral moderna por la segunda generación Chen Shengfu, obras representativas como *El monje Ji Gong*, y los registros de actuaciones en el Salón Conmemorativo de Sun Yat-sen en 1982 y en el Teatro Nacional en 1990.
+[^2]: [Wikipedia: Ming Hua Yuan](https://zh.wikipedia.org/wiki/明華園) — Incluye la introducción de tecnología teatral moderna por la segunda generación Chen Shengfu, obras representativas como _El monje Ji Gong_, y los registros de actuaciones en el Salón Conmemorativo de Sun Yat-sen en 1982 y en el Teatro Nacional en 1990.
 
 [^3]: [Base de Datos Cultural Nacional: Ming Hua Yuan](https://nrch.culture.tw/) — Confirma la estructura de las ocho subcompañías (Tian, Di, Xuan, Huang, Ri, Yue, Xing, Chen) y el modelo de herencia familiar.
 
-[^4]: [Revista PAR de Artes Escénicas: gira de *Sanxi* de Ming Hua Yuan 2024](https://par.npac-ntch.org/) — Incluye la cuarta gira de *Sanxi* en 2024 (Teatro Nacional de Ópera de Taichung, Centro Nacional de Artes Escénicas Weiwuying en Kaohsiung) y reportajes relacionados con el 95.º aniversario.
+[^4]: [Revista PAR de Artes Escénicas: gira de _Sanxi_ de Ming Hua Yuan 2024](https://par.npac-ntch.org/) — Incluye la cuarta gira de _Sanxi_ en 2024 (Teatro Nacional de Ópera de Taichung, Centro Nacional de Artes Escénicas Weiwuying en Kaohsiung) y reportajes relacionados con el 95.º aniversario.
 
 [^5]: [Ministerio de Cultura: registros de presentaciones internacionales de arte tradicional taiwanés](https://www.moc.gov.tw/) — Datos de presentaciones de Ming Hua Yuan en el exterior (Festival de Aviñón pendiente de confirmación adicional).

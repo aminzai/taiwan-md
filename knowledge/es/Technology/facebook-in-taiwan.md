@@ -11,7 +11,7 @@ tags:
     'Cognitive Warfare',
     'Misinformation',
   ]
-subcategory: 'Social & Digital Culture'
+subcategory: '社群與數位文化'
 author: 'Taiwan.md Contributors'
 category: 'Technology'
 readingTime: 28

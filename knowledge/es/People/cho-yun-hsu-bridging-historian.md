@@ -4,7 +4,7 @@ description: 'Nacido en 1930 en Xiamen, llegó a Taiwán en 1949 con el gobierno
 date: 2026-05-22
 author: 'Taiwan.md'
 category: 'People'
-subcategory: 'Ciencia y Academia'
+subcategory: '科學與學術'
 tags:
   [
     'Historiador',

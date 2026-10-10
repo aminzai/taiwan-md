@@ -12,7 +12,7 @@ tags:
     'Música pop',
     'Premios Golden Melody',
   ]
-subcategory: 'Música'
+subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-24

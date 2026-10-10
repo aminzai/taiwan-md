@@ -12,7 +12,7 @@ tags:
     'movimientos sociales',
     'CHTHONIC',
   ]
-subcategory: 'Música y figuras públicas'
+subcategory: '音樂與公共人物'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-10

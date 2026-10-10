@@ -4,7 +4,7 @@ description: "En el pleno verano de 2026, las mesas largas siguen siendo montada
 date: 2026-07-20
 author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: 'Festividades y costumbres'
+subcategory: '節慶與禮俗'
 tags:
   [
     '農曆七月',

@@ -4,7 +4,7 @@ description: 'La noche del 13 de diciembre de 1987, Chen Dingnan se sentó frent
 date: 2026-05-18
 author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '县市'
+subcategory: '縣市'
 tags:
   [
     'Yilan',

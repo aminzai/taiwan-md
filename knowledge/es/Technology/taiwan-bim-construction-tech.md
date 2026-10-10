@@ -18,7 +18,7 @@ tags:
     'Taiwan Engineering Consulting',
     'Shuoto',
   ]
-subcategory: 'Tecnología de la construcción'
+subcategory: '建築科技'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-22

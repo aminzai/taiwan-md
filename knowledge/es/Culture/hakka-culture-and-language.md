@@ -4,7 +4,7 @@ description: 'En 1988, un grupo de personas marchó por las calles de Taipéi co
 date: 2026-03-24
 author: 'Taiwan.md'
 category: Culture
-subcategory: "'族群文化'"
+subcategory: '族群文化'
 tags:
   [
     Hakka,

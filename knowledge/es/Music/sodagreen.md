@@ -4,7 +4,7 @@ description: 'En 2001, cuatro estudiantes se unieron en el escenario del Premio 
 date: 2026-06-09
 author: 'Taiwan.md Contributors'
 category: 'Music'
-subcategory: 'Independiente y Rock'
+subcategory: '獨立與搖滾'
 tags:
   [
     'Sodagreen',

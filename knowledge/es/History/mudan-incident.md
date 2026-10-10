@@ -4,7 +4,7 @@ description: 'En 1874, una acción militar desencadenada por un naufragio convir
 date: 2026-07-17
 author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: 'Colonialism and Empire'
+subcategory: '殖民與帝國'
 tags:
   [
     'Incidente de Mudan',

@@ -4,7 +4,7 @@ description: 'En junio de 1981, una revista económico-financiera llamada Common
 date: 2026-06-04
 author: 'Taiwan.md'
 category: 'Society'
-subcategory: "'媒體與新聞'"
+subcategory: '媒體與新聞'
 tags:
   [
     'medios',

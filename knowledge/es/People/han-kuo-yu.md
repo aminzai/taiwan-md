@@ -14,7 +14,7 @@ tags:
     '2020',
     '2024',
   ]
-subcategory: 'Political Figure'
+subcategory: '政治人物'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 12

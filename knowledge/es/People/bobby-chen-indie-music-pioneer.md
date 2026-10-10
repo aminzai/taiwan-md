@@ -3,8 +3,16 @@ title: 'Bobby Chen: de Changhua al primer álbum en 1988, treinta años de Noche
 description: 'Nacido el 29 de octubre de 1958 en el municipio de Xizhou, condado de Changhua, Bobby Chen es el cantautor de música independiente más singular de Taiwán. En 1988 lanzó su primer álbum en solitario, *Paradise Crowded*, y desde 1994 ha celebrado conciertos de Nochevieja de forma ininterrumpida, convirtiéndose en el ritual anual de la última noche del año en la escena musical taiwanesa. Tras una cirugía por cáncer oral en 2020, regresó al escenario; en 2025, su 31.º concierto de Nochevieja, "Gran Ola", volvió a celebrarse.'
 date: 2026-03-19
 category: 'People'
-tags: ['Música', 'Música independiente', 'Cantautor', 'Concierto de Nochevieja', 'Folk', 'Rock']
-subcategory: 'Música'
+tags:
+  [
+    'Música',
+    'Música independiente',
+    'Cantautor',
+    'Concierto de Nochevieja',
+    'Folk',
+    'Rock',
+  ]
+subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07
@@ -23,7 +31,7 @@ translatedAt: '2026-05-20T05:08:32+08:00'
 
 # Bobby Chen: de Changhua al primer álbum en 1988, treinta años de Nochevieja como tarjeta de presentación
 
-> **Resumen en 30 segundos:** Bobby Chen, cuyo nombre real es Chen Zhi-sheng, nació el 29 de octubre de 1958 en el municipio de Xizhou, condado de Changhua. En 1988 lanzó su primer álbum en solitario, *Paradise Crowded*, consolidándose en la escena musical taiwanesa con un singular estilo folk-rock y letras poéticas. Desde 1994 celebra cada año un concierto de Nochevieja, treinta años ininterrumpidos, convirtiéndose en el ritual anual más longevo de la música taiwanesa. En 2020 se sometió a una cirugía por cáncer oral y, tras su recuperación, regresó al escenario; en 2025 celebró su 31.º concierto de Nochevieja, "Gran Ola".
+> **Resumen en 30 segundos:** Bobby Chen, cuyo nombre real es Chen Zhi-sheng, nació el 29 de octubre de 1958 en el municipio de Xizhou, condado de Changhua. En 1988 lanzó su primer álbum en solitario, _Paradise Crowded_, consolidándose en la escena musical taiwanesa con un singular estilo folk-rock y letras poéticas. Desde 1994 celebra cada año un concierto de Nochevieja, treinta años ininterrumpidos, convirtiéndose en el ritual anual más longevo de la música taiwanesa. En 2020 se sometió a una cirugía por cáncer oral y, tras su recuperación, regresó al escenario; en 2025 celebró su 31.º concierto de Nochevieja, "Gran Ola".
 
 ## Desde el campo de Xizhou, Changhua
 
@@ -35,13 +43,13 @@ En los inicios de su carrera musical formó parte del "Nuevo Coro de Estructura"
 
 En entrevistas posteriores, Bobby Chen rara vez habló extensamente sobre el momento en que el coro se disolvió. Pero el significado de ese giro es claro: una forma colectiva terminó, y él eligió continuar, solo que con una voz individual. Esa decisión de "continuar" es la configuración inicial de toda la carrera de Bobby Chen: su propio tiempo, su propia dirección, su propio ritmo.
 
-## *Paradise Crowded*: aquel primer álbum de 1988 que no corría por la pista principal
+## _Paradise Crowded_: aquel primer álbum de 1988 que no corría por la pista principal
 
-En 1988, Bobby Chen lanzó su primer álbum en solitario, *Paradise Crowded*.[^1] Este disco, con un sonido que mezclaba folk, rock y blues, y unas letras de marcado carácter personal, contrastaba claramente con la música popular dominante de la época.
+En 1988, Bobby Chen lanzó su primer álbum en solitario, _Paradise Crowded_.[^1] Este disco, con un sonido que mezclaba folk, rock y blues, y unas letras de marcado carácter personal, contrastaba claramente con la música popular dominante de la época.
 
-La corriente principal del pop taiwanes a finales de los años ochenta era la línea lírica dulce y los programas de variedades televisivas. *Paradise Crowded* de Bobby Chen no corría por esa pista en absoluto: su voz era rasposa, sus letras poéticas pero sin pretensiones, no estaba diseñado para las emisoras de radio masiva. Esta elección era un riesgo comercial elevado, pero en la historia de la música supuso una declaración de posición clara.
+La corriente principal del pop taiwanes a finales de los años ochenta era la línea lírica dulce y los programas de variedades televisivas. _Paradise Crowded_ de Bobby Chen no corría por esa pista en absoluto: su voz era rasposa, sus letras poéticas pero sin pretensiones, no estaba diseñado para las emisoras de radio masiva. Esta elección era un riesgo comercial elevado, pero en la historia de la música supuso una declaración de posición clara.
 
-No persiguió la corriente televisiva; siguió su propio camino. Canciones como *Deja la tristeza para mí*, *Sin embargo* y *Cometa* mostraron su observación de la soledad urbana y los detalles de la vida cotidiana, melancólica pero con humor, poética pero cercana al terreno.
+No persiguió la corriente televisiva; siguió su propio camino. Canciones como _Deja la tristeza para mí_, _Sin embargo_ y _Cometa_ mostraron su observación de la soledad urbana y los detalles de la vida cotidiana, melancólica pero con humor, poética pero cercana al terreno.
 
 La trayectoria musical posterior de Bobby Chen abarcó folk, rock, blues, bandas sonoras de teatro de marionetas bunraku y música hakka, sin fijarse nunca en un único marco estilístico. Esta transversalidad a veces se ha descrito como su "estilo ecléctico", pero una lectura más precisa es que su música siempre ha sido una expresión directa de las sensaciones de la vida, y la vida misma no tiene un solo sonido. La forma sigue al sentimiento, no al mercado.
 
@@ -107,7 +115,7 @@ Ese contaje no alineado con el reloj es la versión más pequeña de toda la tar
 
 ## Referencias
 
-[^1]: [Wikipedia: Bobby Chen](https://zh.wikipedia.org/zh-tw/陳昇) — Entrada biográfica completa de Bobby Chen, confirma fecha de nacimiento el 29 de octubre de 1958, origen en el municipio de Xizhou, condado de Changhua, y primer álbum *Paradise Crowded* en 1988 (el texto original indicaba erróneamente 1989; esta es la fuente de corrección).
+[^1]: [Wikipedia: Bobby Chen](https://zh.wikipedia.org/zh-tw/陳昇) — Entrada biográfica completa de Bobby Chen, confirma fecha de nacimiento el 29 de octubre de 1958, origen en el municipio de Xizhou, condado de Changhua, y primer álbum _Paradise Crowded_ en 1988 (el texto original indicaba erróneamente 1989; esta es la fuente de corrección).
 
 [^2]: [CNA: Historia de los conciertos de Nochevieja de Bobby Chen](https://www.cna.com.tw/project/2019newyear/bobby.html) — Registro histórico completo de los conciertos de Nochevieja de Bobby Chen, confirma que el año de inicio fue 1994 (el texto original indicaba erróneamente 1989; esta es la fuente de corrección).
 

@@ -20,7 +20,7 @@ tags:
     'Sisters Who Make Waves',
     'For Love Start Rainie World Tour',
   ]
-subcategory: 'Music and Performance'
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 category: 'People'
 readingTime: 22

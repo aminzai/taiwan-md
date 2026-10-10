@@ -3,7 +3,7 @@ title: 'Museo Nacional del Palacio'
 description: 'Es el «equipaje» más pesado de esta isla, y también el «espejo digital» más ligero. Desde las cajas de madera en medio del fuego bélico hasta los píxeles bajo la potencia de cómputo de la IA, el Museo del Palacio está tratando de definir, entre Waishuangxi en Taipéi y Taibao en Chiayi, qué significa «el Museo del Palacio de Taiwán».'
 date: 2026-04-19
 category: Culture
-subcategory: "'藝術園區'"
+subcategory: '藝術園區'
 tags:
   [
     'museo',

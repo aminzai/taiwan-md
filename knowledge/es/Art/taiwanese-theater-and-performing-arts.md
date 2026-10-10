@@ -3,7 +3,7 @@ title: 'Teatro y artes escénicas de Taiwán'
 description: 'Cómo un joven literario de 26 años creó la primera compañía de danza contemporánea del mundo sinófono, y cómo un grupo de actores de ópera de Pekín hizo que Shakespeare hablara chino'
 date: 2026-03-22
 category: Art
-subcategory: "'文學'"
+subcategory: '文學'
 tags:
   [
     'teatro',

@@ -11,7 +11,7 @@ tags:
     'Sports Diplomacy',
     'Sovereignty',
   ]
-subcategory: 'International Relations'
+subcategory: '國際關係'
 author: 'Taiwan.md Contributors'
 category: 'Society'
 readingTime: 12

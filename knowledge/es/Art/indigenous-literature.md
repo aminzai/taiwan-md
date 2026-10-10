@@ -3,7 +3,7 @@ title: 'Literatura indígena'
 description: 'Desde las canciones sin palabras hasta la escritura, una historia milenaria de evolución literaria'
 date: 2026-03-24
 category: Art
-subcategory: "'文學'"
+subcategory: '文學'
 tags:
   [
     'literatura',

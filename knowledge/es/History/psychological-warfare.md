@@ -18,7 +18,7 @@ tags:
   ]
 author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: 'Media and Speech'
+subcategory: '媒體與言論'
 readingTime: 8
 lastVerified: 2026-05-03
 lastHumanReview: false
