@@ -14,7 +14,7 @@ tags:
     'публичная мобилизация',
     'Алекс Хоннолд',
   ]
-subcategory: 'Искусство, развлечения и медиа'
+subcategory: '藝術、娛樂與媒體'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-02

@@ -12,7 +12,7 @@ tags:
   - 'Сицзайфань'
   - 'Образование провинции Тайвань'
   - 'XIX век'
-subcategory: 'Колониализм и империи'
+subcategory: '殖民與帝國'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-12

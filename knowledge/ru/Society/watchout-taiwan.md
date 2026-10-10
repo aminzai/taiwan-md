@@ -13,7 +13,7 @@ tags:
     'Солнецветочное студенческое движение',
     'всеобщая оборона',
   ]
-subcategory: 'демократия и политика'
+subcategory: '民主與政治'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-12

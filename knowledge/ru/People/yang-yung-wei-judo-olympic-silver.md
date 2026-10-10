@@ -15,7 +15,7 @@ tags:
     'Коренные жители',
     'Пэй-Вань',
   ]
-subcategory: 'Спорт'
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-21

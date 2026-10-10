@@ -10,7 +10,7 @@ tags:
     'эволюция законодательства',
     'история Тайваня',
   ]
-subcategory: 'социальная и повседневная история'
+subcategory: '社會與日常史'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-28

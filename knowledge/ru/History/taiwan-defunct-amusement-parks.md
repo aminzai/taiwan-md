@@ -12,7 +12,7 @@ tags:
     'Парк Кадори',
     'Сад Яге',
   ]
-subcategory: 'Общество и история быта'
+subcategory: '社會與日常史'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-01

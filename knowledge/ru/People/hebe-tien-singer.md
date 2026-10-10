@@ -18,7 +18,7 @@ tags:
     'Тур «Тянь Дяо»',
     'Хакка',
   ]
-subcategory: 'Музыка и исполнение'
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-26

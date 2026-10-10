@@ -11,7 +11,7 @@ tags:
     'Соревновательный спорт',
     'Ностальгическая экономика',
   ]
-subcategory: 'Досуг и развлечения'
+subcategory: '休閒與娛樂'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-19

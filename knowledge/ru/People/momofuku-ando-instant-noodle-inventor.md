@@ -15,7 +15,7 @@ tags:
     'История послевоенного периода',
     'Дай-ракэн',
   ]
-subcategory: 'Исторические личности'
+subcategory: '歷史人物'
 author: 'idlccp1984'
 featured: false
 lastVerified: 2026-04-29

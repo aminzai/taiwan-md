@@ -14,7 +14,7 @@ tags:
     'Fuji Rock',
     'SXSW',
   ]
-subcategory: 'Современные коллективы / Выход за рубеж'
+subcategory: '當代樂團 / 出海樂團'
 author: 'Taiwan.md'
 featured: false
 canonical-order: 999

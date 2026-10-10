@@ -18,7 +18,7 @@ tags:
     'миндунский язык',
     'серия из 22 округов и городов',
   ]
-subcategory: 'Округ'
+subcategory: '縣市'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-18

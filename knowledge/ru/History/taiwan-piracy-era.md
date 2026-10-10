@@ -12,7 +12,7 @@ tags:
     'закон об авторском праве',
     'Чжан Чжунмоу',
   ]
-subcategory: 'история экономического развития'
+subcategory: '經濟發展史'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-18

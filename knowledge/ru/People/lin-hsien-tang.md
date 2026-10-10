@@ -11,7 +11,7 @@ tags:
     'Тайваньское культурное общество',
     'Безоружное сопротивление Японии',
   ]
-subcategory: 'Политика и демократия'
+subcategory: '政治與民主'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16

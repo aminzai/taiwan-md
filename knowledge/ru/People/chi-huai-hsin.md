@@ -15,7 +15,7 @@ tags:
     'Когнитивная психология',
     'Даньшуй',
   ]
-subcategory: 'Технологии и бизнес'
+subcategory: '科技與企業'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-27

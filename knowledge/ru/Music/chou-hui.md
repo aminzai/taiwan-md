@@ -27,7 +27,7 @@ tags:
     'Where X идёт',
     'Время, которое не забудут',
   ]
-subcategory: 'Певица'
+subcategory: '歌手'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-28

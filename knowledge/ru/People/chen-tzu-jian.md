@@ -17,7 +17,7 @@ tags:
     '«Хало! Ни гэй вэн ма?»',
     'Проживание в Токио',
   ]
-subcategory: 'Цифровое и медиа'
+subcategory: '數位與媒體'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-01-01

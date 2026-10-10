@@ -14,7 +14,7 @@ tags:
     'цифровые медиа',
     'технологическая индустрия',
   ]
-subcategory: 'Медиа и речь'
+subcategory: '媒體與言論'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-18

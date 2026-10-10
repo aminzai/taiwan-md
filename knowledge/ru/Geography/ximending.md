@@ -21,7 +21,7 @@ tags:
     'японское правление',
     'молодежная культура',
   ]
-subcategory: 'исторический квартал'
+subcategory: '歷史街區'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-21

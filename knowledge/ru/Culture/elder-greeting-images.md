@@ -13,7 +13,7 @@ tags:
     'Фейковые новости',
     'Мемы',
   ]
-subcategory: 'Сетевая культура'
+subcategory: '網路文化'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-18

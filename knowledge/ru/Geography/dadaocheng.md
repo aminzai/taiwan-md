@@ -22,7 +22,7 @@ tags:
     'Formosa Tea',
     'серия исторические кварталы',
   ]
-subcategory: 'Исторический квартал / район Датун, Тайбэй'
+subcategory: '歷史街區 / 台北市大同區'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-21

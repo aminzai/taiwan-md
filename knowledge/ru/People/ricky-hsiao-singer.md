@@ -11,7 +11,7 @@ tags:
     'Дзюдо, мастер спорта',
     'Адские шутки',
   ]
-subcategory: 'Музыка и исполнение'
+subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-19

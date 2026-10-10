@@ -4,7 +4,7 @@ description: 'Он — старший учёный Центра космонав
 date: 2026-04-06
 author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: 'Наука и исследования'
+subcategory: '科學與研究'
 tags:
   [
     'Го Чжэнгуан',

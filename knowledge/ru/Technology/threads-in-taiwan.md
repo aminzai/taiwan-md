@@ -12,7 +12,7 @@ tags:
     'онлайн-помощь',
     'молодежная культура',
   ]
-subcategory: 'Социум и цифровая культура'
+subcategory: '社群與數位文化'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-08-14

@@ -18,7 +18,7 @@ tags:
     'Вэньшие',
     'Серия «22 округа и города»',
   ]
-subcategory: 'Округ и город'
+subcategory: '縣市'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-18

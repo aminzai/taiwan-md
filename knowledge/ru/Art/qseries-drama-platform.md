@@ -11,7 +11,7 @@ tags:
     'Сю Гуаньхань',
     'Золотой колокол',
   ]
-subcategory: 'Кино'
+subcategory: '電影'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-30

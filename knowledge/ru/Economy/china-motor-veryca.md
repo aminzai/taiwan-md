@@ -11,7 +11,7 @@ tags:
     'автомобильная промышленность',
     '«машина для заработка»',
   ]
-subcategory: 'Корпоративные биографии'
+subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-01

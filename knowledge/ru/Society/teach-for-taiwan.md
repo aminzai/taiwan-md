@@ -14,7 +14,7 @@ tags:
     'Социальное предприятие',
     'Отдалённые районы',
   ]
-subcategory: 'Образование'
+subcategory: '教育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-08

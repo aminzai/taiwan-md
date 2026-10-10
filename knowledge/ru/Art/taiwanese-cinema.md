@@ -16,7 +16,7 @@ tags:
     '«Мыс № 7»',
     '«Золотая жеребцовка»',
   ]
-subcategory: 'кино'
+subcategory: '電影'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-13

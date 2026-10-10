@@ -11,7 +11,7 @@ tags:
     'строительные и хозяйственные товары',
     'цифровая трансформация',
   ]
-subcategory: 'городская жизнь'
+subcategory: '城市生活'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-25

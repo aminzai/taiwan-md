@@ -20,7 +20,7 @@ tags:
     'Кольцевой мегаполис',
     'Серия 22 регионов',
   ]
-subcategory: 'Регион'
+subcategory: '縣市'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-18

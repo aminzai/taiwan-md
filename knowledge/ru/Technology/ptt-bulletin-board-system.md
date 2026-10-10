@@ -12,7 +12,7 @@ tags:
     'цифровая демократия',
     'социальные медиа',
   ]
-subcategory: 'Сообщества и цифровая культура'
+subcategory: '社群與數位文化'
 author: 'p3nchan'
 featured: false
 lastVerified: 2026-03-21

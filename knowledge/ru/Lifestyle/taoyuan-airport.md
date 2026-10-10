@@ -11,7 +11,7 @@ tags:
     'Транспорт',
     'Десять крупных строительств',
   ]
-subcategory: 'Транспорт и мобильность'
+subcategory: '交通與移動'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-03

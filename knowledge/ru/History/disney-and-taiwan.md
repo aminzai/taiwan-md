@@ -19,7 +19,7 @@ tags:
     'актёры дубляжа',
     'Янь Чаншоу',
   ]
-subcategory: 'История общества и быта'
+subcategory: '社會與日常史'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-26

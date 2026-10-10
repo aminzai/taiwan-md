@@ -20,7 +20,7 @@ tags:
     'Река Чжоушуй',
     'Серия «22 округа и города»',
   ]
-subcategory: 'Округ'
+subcategory: '縣市'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-18

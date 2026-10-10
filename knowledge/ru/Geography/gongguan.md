@@ -26,7 +26,7 @@ tags:
     'Белый террор',
     'Серия исторических кварталов',
   ]
-subcategory: 'Исторический квартал / Районы Даань и Чжунчжэнь Тайбэя'
+subcategory: '歷史街區 / 台北市大安區、中正區'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-21

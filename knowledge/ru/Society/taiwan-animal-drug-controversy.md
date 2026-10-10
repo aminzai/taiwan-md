@@ -14,7 +14,7 @@ tags:
     'система здравоохранения',
     'карантинная служба',
   ]
-subcategory: 'Животные и этика'
+subcategory: '動物與倫理'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-10

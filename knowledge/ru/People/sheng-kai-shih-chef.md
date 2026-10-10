@@ -14,7 +14,7 @@ tags:
     'пищевой бренд',
     'новогодние блюда',
   ]
-subcategory: 'Цифровые медиа'
+subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-21

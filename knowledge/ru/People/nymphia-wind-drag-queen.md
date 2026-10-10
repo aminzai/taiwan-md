@@ -4,7 +4,7 @@ description: 'Как тайваньский мальчик, подвергавш
 date: 2026-04-18
 author: 'idlccp1984'
 category: 'People'
-subcategory: 'Музыка и исполнительское искусство'
+subcategory: '音樂與表演'
 tags:
   - 'Ниффия'
   - 'драг-куин'

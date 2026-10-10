@@ -13,7 +13,7 @@ tags:
     'Экологическая политика',
     'PAYT',
   ]
-subcategory: 'Городская жизнь'
+subcategory: '城市生活'
 author: 'p3nchan'
 featured: false
 lastVerified: 2026-03-23

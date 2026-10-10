@@ -10,7 +10,7 @@ tags:
     'Цифровое обучение',
     'Дифференцированное обучение',
   ]
-subcategory: 'Цифровые технологии'
+subcategory: '數位與網路'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-15

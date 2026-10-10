@@ -14,7 +14,7 @@ tags:
     'поп-культура',
     'субкультура',
   ]
-subcategory: 'Инди и рок'
+subcategory: '獨立與搖滾'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-09

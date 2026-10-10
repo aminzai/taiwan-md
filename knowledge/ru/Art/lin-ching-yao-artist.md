@@ -4,7 +4,7 @@ description: 'Родился в Каосюне, бакалавр музыкал�
 date: 2026-04-21
 author: 'Taiwan.md Contributors'
 category: 'Art'
-subcategory: 'генеративное искусство'
+subcategory: '生成藝術'
 tags:
   - 'генеративное искусство'
   - 'цифровое искусство'

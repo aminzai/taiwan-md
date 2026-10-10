@@ -11,7 +11,7 @@ tags:
     'Группа 100%',
     'Китайская поп-музыка',
   ]
-subcategory: 'Музыканты'
+subcategory: '音樂人'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-20
