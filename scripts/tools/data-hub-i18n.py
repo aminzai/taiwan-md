@@ -85,6 +85,18 @@ def export():
 
 NUM = re.compile(r'-?\d+(?:\.\d+)?')
 
+# 語言身分：對賬只數鍵的話，翻譯分身互相覆蓋暫存檔、把別的語言寫進來也會全綠
+# （2026-10-23 v2.1 五個分身共用 scratchpad 時真的發生過覆蓋）。有自己文字系統的
+# 語言，40 字以上的譯文必須用到那套文字；拉丁語系彼此太像，這裡不判。
+SCRIPT = {
+    'ja': re.compile(r'[\u3040-\u30ff]'),
+    'ko': re.compile(r'[\uac00-\ud7af]'),
+    'ru': re.compile(r'[\u0400-\u04ff]'),
+    'hi': re.compile(r'[\u0900-\u097f]'),
+    'ar': re.compile(r'[\u0600-\u06ff]'),
+    'vi': re.compile(r'[ăâđêôơưạảấầẩẫậắằẳẵặẹẻẽếềểễệỉịọỏốồổỗộớờởỡợụủứừửữựỳỵỷỹ]', re.I),
+}
+
 
 def chart_shape(text):
     """章節主圖（threads/…/chart/body）是一整段 tw-* fenced block：資料列（含 | 的列，
@@ -126,6 +138,12 @@ def check(langs):
                             empty.append(k)
                             print(f'       主圖形狀跟原文不一致：{k}')
             han = [k for k, v in d.items() if lang not in CJK_OK and isinstance(v, str) and HAN.search(v)]
+            if lang in SCRIPT:
+                alien = [k for k, v in d.items() if isinstance(v, str) and len(v) >= 40
+                         and not k.endswith('/chart/body') and not SCRIPT[lang].search(v)]
+                for k in alien[:3]:
+                    print(f'       不像 {lang}：{k} → {d[k][:60]}')
+                empty += alien
             ok = not (missing or extra or empty)
             bad += 0 if ok else 1
             print(f"{'✅' if ok else '❌'} {lang} {label}: {len(d)}/{len(need)} missing={len(missing)} extra={len(extra)} empty={len(empty)} 含漢字={len(han)}")
