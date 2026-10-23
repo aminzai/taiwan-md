@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-24T01:21:04+08:00",
-    "zhCommitHead": "1c9decb9e",
+    "lastUpdated": "2026-10-24T01:32:27+08:00",
+    "zhCommitHead": "27808adaf",
     "totalZh": 1150,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1150,
-        "fresh": 1149,
+        "fresh": 1150,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "ja": {
@@ -36,8 +36,8 @@
       },
       "ko": {
         "total_zh": 1150,
-        "fresh": 1147,
-        "stale": 2,
+        "fresh": 1148,
+        "stale": 1,
         "metadata_stale": 0,
         "missing": 1,
         "orphan": 0
@@ -68,8 +68,8 @@
       },
       "id": {
         "total_zh": 1150,
-        "fresh": 1144,
-        "stale": 2,
+        "fresh": 1145,
+        "stale": 1,
         "metadata_stale": 3,
         "missing": 1,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1150,
-        "fresh": 1134,
+        "fresh": 1135,
         "stale": 11,
         "metadata_stale": 4,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       }
     },
@@ -68592,11 +68592,11 @@
           "sourceContentHash": "sha256:058a2707437b6293",
           "sourceBodyHash": "sha256:8b7dd2352a89e936",
           "translatedAt": "2026-10-13T02:33:43.145393+00:00",
-          "translationLastCommit": "bee0c0f9",
-          "translationLastModified": "2026-10-13T10:33:59+08:00",
+          "translationLastCommit": "ce66a436",
+          "translationLastModified": "2026-10-24T01:26:42+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "bytes": 94928,
+          "bytes": 94971,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -83632,11 +83632,11 @@
           "sourceContentHash": "sha256:e634c73174fd4145",
           "sourceBodyHash": "sha256:5fe923f8d157fe62",
           "translatedAt": "2026-10-23T16:35:59.984632+00:00",
-          "translationLastCommit": "36bab06a",
-          "translationLastModified": "2026-10-24T01:19:54+08:00",
+          "translationLastCommit": "ce66a436",
+          "translationLastModified": "2026-10-24T01:26:42+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 27903,
+          "bytes": 27895,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -83676,20 +83676,18 @@
         "id": {
           "path": "id/About/visualization-module-catalog.md",
           "translatedFrom": "About/視覺化模組型錄.md",
-          "sourceCommitSha": "21298a7ae",
-          "sourceContentHash": "sha256:6a367e7b90a88190",
-          "sourceBodyHash": "sha256:f6a2ecc9e1606c44",
-          "translatedAt": "2026-08-02T17:34:18.442783+00:00",
-          "translationLastCommit": "af787aed",
-          "translationLastModified": "2026-10-16T08:52:43+08:00",
+          "sourceCommitSha": "756ab2957",
+          "sourceContentHash": "sha256:e634c73174fd4145",
+          "sourceBodyHash": "sha256:5fe923f8d157fe62",
+          "translatedAt": "2026-10-24T01:19:36+08:00",
+          "translationLastCommit": "ce66a436",
+          "translationLastModified": "2026-10-24T01:26:42+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 25881,
+          "bytes": 26956,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/About/visualization-module-catalog.md",
@@ -83698,11 +83696,11 @@
           "sourceContentHash": "sha256:e634c73174fd4145",
           "sourceBodyHash": "sha256:5fe923f8d157fe62",
           "translatedAt": "2026-10-23T16:39:24.604499+00:00",
-          "translationLastCommit": "3761dd4c",
-          "translationLastModified": "2026-10-24T01:20:17+08:00",
+          "translationLastCommit": "ce66a436",
+          "translationLastModified": "2026-10-24T01:26:42+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 25742,
+          "bytes": 25781,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -83714,11 +83712,11 @@
           "sourceContentHash": "sha256:e634c73174fd4145",
           "sourceBodyHash": "sha256:5fe923f8d157fe62",
           "translatedAt": "2026-10-23T16:41:34.547881+00:00",
-          "translationLastCommit": "db49ffa7",
-          "translationLastModified": "2026-10-24T01:20:29+08:00",
+          "translationLastCommit": "ce66a436",
+          "translationLastModified": "2026-10-24T01:26:42+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 53085,
+          "bytes": 53247,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -83730,8 +83728,8 @@
           "sourceContentHash": "sha256:e634c73174fd4145",
           "sourceBodyHash": "sha256:5fe923f8d157fe62",
           "translatedAt": "2026-10-23T16:40:43.568304+00:00",
-          "translationLastCommit": "e4f047ac",
-          "translationLastModified": "2026-10-24T01:20:41+08:00",
+          "translationLastCommit": "ce66a436",
+          "translationLastModified": "2026-10-24T01:26:42+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "bytes": 37244,
@@ -83746,11 +83744,11 @@
           "sourceContentHash": "sha256:e634c73174fd4145",
           "sourceBodyHash": "sha256:5fe923f8d157fe62",
           "translatedAt": "2026-10-23T16:41:10.510254+00:00",
-          "translationLastCommit": "1c9decb9",
-          "translationLastModified": "2026-10-24T01:20:52+08:00",
+          "translationLastCommit": "ce66a436",
+          "translationLastModified": "2026-10-24T01:26:42+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 40144,
+          "bytes": 40146,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -83762,11 +83760,11 @@
           "sourceContentHash": "sha256:e634c73174fd4145",
           "sourceBodyHash": "sha256:5fe923f8d157fe62",
           "translatedAt": "2026-10-23T16:41:42.241864+00:00",
-          "translationLastCommit": "af787aed",
-          "translationLastModified": "2026-10-16T08:52:43+08:00",
+          "translationLastCommit": "ce66a436",
+          "translationLastModified": "2026-10-24T01:26:42+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 24383,
+          "bytes": 24447,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -92652,8 +92650,8 @@
           "sourceContentHash": "sha256:3c956f717d68030c",
           "sourceBodyHash": "sha256:086061fa27edc0cb",
           "translatedAt": "2026-10-23T23:26:32+08:00",
-          "translationLastCommit": "f4892bab",
-          "translationLastModified": "2026-09-19T11:51:58+08:00",
+          "translationLastCommit": "34380edf",
+          "translationLastModified": "2026-10-24T01:21:04+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "bytes": 28260,
@@ -93076,7 +93074,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Politics/party-list-legislators-taiwan.md",
+          "translatedFrom": "Politics/立法院不分區立委.md",
+          "sourceCommitSha": "32789bc38",
+          "sourceContentHash": "sha256:4963c1d92fad5520",
+          "sourceBodyHash": "sha256:7286e57028da8d03",
+          "translatedAt": "2026-10-24T01:24:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "bytes": 19928,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -93109,7 +93120,20 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Politics/party-list-legislators-taiwan.md",
+          "translatedFrom": "Politics/立法院不分區立委.md",
+          "sourceCommitSha": "32789bc38",
+          "sourceContentHash": "sha256:4963c1d92fad5520",
+          "sourceBodyHash": "sha256:7286e57028da8d03",
+          "translatedAt": "2026-10-24T01:24:43+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "bytes": 21563,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -141046,18 +141070,18 @@
         "ko": {
           "path": "ko/People/chen-hsing-yu.md",
           "translatedFrom": "People/陳幸妤.md",
-          "sourceCommitSha": "pre-toolkit",
-          "sourceContentHash": "sha256:requeue-section-loss",
-          "sourceBodyHash": "sha256:requeue-section-loss",
-          "translatedAt": "2026-09-12T18:24:51+08:00",
+          "sourceCommitSha": "eddd0fe3f",
+          "sourceContentHash": "sha256:5f03c9523f81df75",
+          "sourceBodyHash": "sha256:9475c22b31e09d67",
+          "translatedAt": "2026-10-24T01:21:16+08:00",
           "translationLastCommit": "9a5b0b0c",
           "translationLastModified": "2026-10-24T00:48:30+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 21505,
+          "bytes": 20014,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "pre-toolkit"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/chen-hsing-yu.md",
@@ -200596,8 +200620,8 @@
           "sourceContentHash": "sha256:a86ba6869bf4f80d",
           "sourceBodyHash": "sha256:4da0398520125992",
           "translatedAt": "2026-10-23T16:35:03.398531+00:00",
-          "translationLastCommit": "902374ca",
-          "translationLastModified": "2026-10-15T11:09:44+08:00",
+          "translationLastCommit": "34380edf",
+          "translationLastModified": "2026-10-24T01:21:04+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 32347,
