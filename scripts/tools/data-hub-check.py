@@ -4,7 +4,7 @@
 查三件事：
   1. 結構：每個指標都有 id／分類／中英標題／數值／期間／asOf／出處機關與網址／性質／洞察；
      性質（basis）與發布頻率（cadence）只能是約定的值；文章路徑真的存在。
-  2. 引用：threads.json 每條線指到的指標與文章都存在。
+  2. 引用：threads.json 七章的指標、影響鏈出處、延伸閱讀文章都存在，正文中英文齊、主圖模組合法。
   3. 新鮮度：依 cadence 估算「該有新數字了」的期限，逾期的列出來（數字過期是資料中樞
      最常見的死法：v1 的八張數字卡兩年沒人動）。
 
@@ -28,6 +28,9 @@ BASIS = {'official', 'estimate', 'projection', 'ranking'}
 # 期限＝下一個參考期間＋官方發布時滯（年度統計常要到隔年第三、四季才出）。
 MAX_AGE_DAYS = {'monthly': 31 + 60, 'quarterly': 92 + 120, 'annual': 365 + 330}
 NO_AGE = {'irregular', 'fixed'}
+# 章節主圖可用的 tw-* 模組（graph.md §四；編輯模組只收 timeline）
+CHART_MODULES = {'tw-line', 'tw-slope', 'tw-bars', 'tw-dot', 'tw-stack', 'tw-waffle', 'tw-pyramid',
+                 'tw-tiles', 'tw-iso', 'tw-heatmap', 'tw-multiples', 'tw-arc', 'tw-timeline'}
 
 
 def article_exists(p: str) -> bool:
@@ -81,12 +84,29 @@ def main(argv):
             if age > MAX_AGE_DAYS[cad]:
                 stale.append((iid, cad, i['asOf'], age, src.get('url', '')))
     for t in threads:
-        for x in t.get('indicators', []):
+        tid = t['id']
+        for x in t.get('indicators', []) + ([t['lead']] if t.get('lead') else []):
             if x not in ids:
-                errors.append(f"線 {t['id']}：指標不存在 {x}")
+                errors.append(f"章 {tid}：指標不存在 {x}")
         for a in t.get('articles', []):
             if not article_exists(a):
-                errors.append(f"線 {t['id']}：文章不存在 {a}")
+                errors.append(f"章 {tid}：文章不存在 {a}")
+        # v2.1 六段骨架（報告 §10.4）：正文、主圖、影響鏈、接下來看什麼、延伸閱讀
+        for f in ('question', 'essay', 'next'):
+            v = t.get(f) or {}
+            if not v.get('zh-TW') or not v.get('en'):
+                errors.append(f'章 {tid}：{f} 缺中文或英文')
+        ch = t.get('chart') or {}
+        if ch.get('module') not in CHART_MODULES:
+            errors.append(f"章 {tid}：主圖模組不合法 {ch.get('module')}")
+        for c in t.get('chain', []):
+            if not article_exists(c.get('article', '')):
+                errors.append(f"章 {tid}：影響鏈出處不存在 {c.get('article')}")
+        if not 3 <= len(t.get('chain', [])) <= 5:
+            errors.append(f"章 {tid}：影響鏈要 3 到 5 環（現在 {len(t.get('chain', []))}）")
+        for e in t.get('embeds', []):
+            if not article_exists(e.get('path', '')):
+                errors.append(f"章 {tid}：延伸閱讀文章不存在 {e.get('path')}")
 
     n = len(ind_doc['indicators'])
     if '--json' in argv:
@@ -105,7 +125,7 @@ def main(argv):
         for s in stale:
             print('\t'.join(map(str, s)))
         return 0
-    print(f'指標 {n} 個、線 {len(threads)} 條：結構錯誤 {len(errors)}、逾期 {len(stale)}')
+    print(f'指標 {n} 個、章 {len(threads)} 個：結構錯誤 {len(errors)}、逾期 {len(stale)}')
     for e in errors:
         print('  ❌', e)
     for iid, cad, as_of, age, url in stale:

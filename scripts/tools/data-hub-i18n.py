@@ -10,6 +10,7 @@
 
 用法：
   python3 scripts/tools/data-hub-i18n.py export          # 寫 data/data-hub/content/_source.json（待譯原文，zh-TW＋en）
+  python3 scripts/tools/data-hub-i18n.py todo ja      # 某語言還缺的鍵與中英原文（JSON）
   python3 scripts/tools/data-hub-i18n.py check [lang…]   # 對賬（缺鍵、多鍵、空值、非 CJK 語言夾漢字）
 """
 import json, re, sys
@@ -58,8 +59,22 @@ def ui_keys():
     return re.findall(r"^\s*'(dh\.[^']+)':", en, re.M)
 
 
+def ui_strings():
+    """dataHub.ts 裡 en 與 zh-TW 兩個區塊的 key → 字串（值可能跨行，取第一個單引號字串）。"""
+    ts = (ROOT / 'src/i18n/dataHub.ts').read_text(encoding='utf-8')
+    en = ts.split('  en: {', 1)[1].split("  'zh-TW': {", 1)[0]
+    zh = ts.split("  'zh-TW': {", 1)[1]
+    pat = re.compile(r"'(dh\.[^']+)':\s*\n?\s*(?:'((?:[^'\\]|\\.)*)'|\"((?:[^\"\\]|\\.)*)\")")
+    grab = lambda block: {k: a or b for k, a, b in pat.findall(block)}
+    e, z = grab(en), grab(zh)
+    unq = lambda x: x.replace("\\'", "'").replace('\\"', '"')
+    return {k: {'zh-TW': unq(z.get(k, '')), 'en': unq(e[k])} for k in ui_keys() if k in e}
+
+
 def export():
     locs = content_locs()
+    UI_DIR.mkdir(parents=True, exist_ok=True)
+    (UI_DIR / '_source.json').write_text(json.dumps(ui_strings(), ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     # SSOT 裡已經十三語齊全的（例如 sources.json 的 tags 字典）不必再交給翻譯
     src = {k: {'zh-TW': v.get('zh-TW', ''), 'en': v.get('en', '')} for k, v in locs.items()
            if not all(l in v for l in LANGS)}
@@ -121,9 +136,26 @@ def check(langs):
     return bad
 
 
+def todo(lang):
+    """某語言還缺的鍵與中英原文（給翻譯分身用，規則跟 check 的 need 一樣）。"""
+    locs = content_locs()
+    base = 'zh-TW' if lang in CJK_OK else 'en'
+    cpath = CONTENT_DIR / f'{lang}.json'
+    upath = UI_DIR / f'{lang}.json'
+    have_c = json.loads(cpath.read_text(encoding='utf-8')) if cpath.exists() else {}
+    have_u = json.loads(upath.read_text(encoding='utf-8')) if upath.exists() else {}
+    content = {k: {'zh-TW': v.get('zh-TW', ''), 'en': v.get('en', '')} for k, v in locs.items()
+               if lang not in v and v.get(base, '') and k not in have_c}
+    ui_src = ui_strings()
+    ui = {k: ui_src.get(k, '') for k in ui_keys() if k not in have_u}
+    print(json.dumps({'lang': lang, 'base': base, 'ui': ui, 'content': content}, ensure_ascii=False, indent=2))
+
+
 if __name__ == '__main__':
     cmd = sys.argv[1] if len(sys.argv) > 1 else 'check'
-    if cmd == 'export':
+    if cmd == 'todo':
+        todo(sys.argv[2])
+    elif cmd == 'export':
         export()
     else:
         langs = sys.argv[2:] or LANGS

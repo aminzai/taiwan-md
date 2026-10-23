@@ -194,9 +194,8 @@ type Thread = {
   id: string;
   categories: string[];
   question: Loc;
-  answer: Loc;
   /** 章的正文，段落以空行分隔（報告 §10.4） */
-  essay?: Loc;
+  essay: Loc;
   /** 章首大字用哪個指標 */
   lead?: string;
   /** 長期主圖：tw-* 模組與各語言的 fenced block 內文 */
@@ -247,7 +246,7 @@ const threads = await Promise.all(
         th.chart && chartBody
           ? renderVizBlock(th.chart.module, chartBody, lang)
           : '',
-      paragraphs: loc(th.essay ?? th.answer, lang).split(/\n\n+/),
+      paragraphs: loc(th.essay, lang).split(/\n\n+/),
     };
   }),
 );

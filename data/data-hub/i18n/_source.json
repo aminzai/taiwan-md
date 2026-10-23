@@ -4,8 +4,8 @@
     "en": "Data Taiwan: read Taiwan through its numbers, every one traceable to its source"
   },
   "dh.meta.description": {
-    "zh-TW": "台灣的人口、經濟、土地、民主、文化與生活數字，每一個都附官方出處、期間與下載，再用幾條跨主題的線把數字接回站上的故事。也整理了國際資料庫怎麼標示台灣，以及原始資料該去哪裡拿。",
-    "en": "Taiwan's key numbers on population, economy, land, democracy, culture and daily life, each with its official source, reference period and download link, tied back to stories on the site. Plus how international databases label Taiwan, and where to get the raw data."
+    "zh-TW": "從 1950 年到今天，用數字讀台灣怎麼變成現在的樣子：人口、經濟、土地、民主與日常生活的七個問題，每個數字都講為什麼重要，附官方出處、期間與下載。也整理了國際資料庫怎麼標示台灣，以及原始資料該去哪裡拿。",
+    "en": "How Taiwan became what it is, read through its numbers from 1950 to today: seven questions on population, the economy, the land, democracy and daily life, with every number explained and linked to its official source, period and download. Plus how international databases label Taiwan, and where to get the raw data."
   },
   "dh.hero.eyebrow": {
     "zh-TW": "數據 · 資料台灣",
@@ -20,8 +20,8 @@
     "en": "Read Taiwan through its numbers, and find where every number comes from"
   },
   "dh.hero.lede": {
-    "zh-TW": "這一頁把台灣的數字跟站上的故事接起來。先看幾條把不同主題串在一起的線，再查每個數字的值、期間與官方出處，最後是原始資料該去哪裡拿、怎麼用程式取用。數字一律來自台灣自己的官方統計，用台灣這個名字，整張表都可以下載。",
-    "en": "This page connects Taiwan's numbers to the stories on this site. Start with a few threads that run across topics, then look up any number's value, period and official source, and finally see where to get the raw data and how to use it in code. Every figure comes from Taiwan's own official statistics, under Taiwan's own name, and the whole table can be downloaded."
+    "zh-TW": "這一頁把台灣的數字跟站上的故事接起來。先從七十五年的長線看台灣怎麼變成今天這樣，再讀七個問題，每一題都講清楚數字為什麼重要。之後可以查每個數字的值、期間與官方出處，拿到原始資料。數字一律來自台灣自己的官方統計，用台灣這個名字，整張表都可以下載。",
+    "en": "This page connects Taiwan's numbers to the stories on this site. Start with seventy-five years of long lines showing how Taiwan became what it is, then read seven questions, each explaining why its numbers matter. After that you can look up any number's value, period and official source, and get the raw data. Every figure comes from Taiwan's own official statistics, under Taiwan's own name, and the whole table can be downloaded."
   },
   "dh.today.h": {
     "zh-TW": "今天的台灣",
@@ -36,8 +36,8 @@
     "en": "Sections of Data Taiwan"
   },
   "dh.nav.threads": {
-    "zh-TW": "數字之間的線",
-    "en": "Threads"
+    "zh-TW": "七個問題",
+    "en": "Seven questions"
   },
   "dh.nav.numbers": {
     "zh-TW": "台灣的數字",
@@ -86,6 +86,46 @@
   "dh.card.permalink": {
     "zh-TW": "這張卡的永久連結",
     "en": "Permanent link to this card"
+  },
+  "dh.card.why": {
+    "zh-TW": "為什麼重要",
+    "en": "Why it matters"
+  },
+  "dh.nav.overview": {
+    "zh-TW": "七十五年",
+    "en": "Seventy-five years"
+  },
+  "dh.overview.index": {
+    "zh-TW": "七個問題，一章讀一個",
+    "en": "Seven questions, read one at a time"
+  },
+  "dh.tb.source": {
+    "zh-TW": "來源：",
+    "en": "Sources: "
+  },
+  "dh.tb.marks": {
+    "zh-TW": "時間軸上的轉折點",
+    "en": "Turning points on the timeline"
+  },
+  "dh.ch.why": {
+    "zh-TW": "為什麼重要：這個數字會推動什麼",
+    "en": "Why it matters: what this number sets in motion"
+  },
+  "dh.ch.next": {
+    "zh-TW": "接下來看什麼",
+    "en": "What to watch next"
+  },
+  "dh.ch.nums": {
+    "zh-TW": "這一章的數字",
+    "en": "The numbers behind this chapter"
+  },
+  "dh.ch.reads": {
+    "zh-TW": "完整的故事在這幾篇",
+    "en": "Read the full stories"
+  },
+  "dh.ch.from": {
+    "zh-TW": "出自",
+    "en": "From"
   },
   "dh.card.year": {
     "zh-TW": "年",
