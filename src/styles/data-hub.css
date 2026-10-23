@@ -129,6 +129,8 @@
   padding: 0;
 }
 .data-hub .dh-today-grid li {
+  /* PageHero 容器寫死淺色主題墨色，這裡要重新指回 token，深色模式才看得到數字 */
+  color: var(--color-ink);
   border: 1px solid var(--dh-line);
   border-top: 3px solid var(--dh-cat, var(--dh-accent));
   border-radius: 10px;

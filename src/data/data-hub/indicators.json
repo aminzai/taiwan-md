@@ -118,7 +118,7 @@
         "download": "https://www.ris.gov.tw/info-popudata/app/awFastDownload/toMain_panel"
       },
       "basis": "official",
-      "cadence": "monthly",
+      "cadence": "annual",
       "insight": {
         "zh-TW": "十年少了一半；2024 年到 2025 年一年就少了 2.7 萬人。",
         "en": "Half the number of ten years ago, and 27,000 fewer than the year before."
@@ -229,7 +229,7 @@
         "download": "https://www.ris.gov.tw/info-popudata/app/awFastDownload/toMain_panel"
       },
       "basis": "official",
-      "cadence": "monthly",
+      "cadence": "annual",
       "insight": {
         "zh-TW": "2020 年起死亡多於出生，差距一年比一年大；2025 年死亡 20 萬人、出生 10.8 萬人。",
         "en": "Deaths have outnumbered births since 2020 and the gap keeps widening: 200,000 deaths against 108,000 births in 2025."
@@ -420,7 +420,7 @@
         "download": "https://www.ris.gov.tw/info-popudata/app/awFastDownload/toMain_panel"
       },
       "basis": "official",
-      "cadence": "monthly",
+      "cadence": "annual",
       "insight": {
         "zh-TW": "比前一年少 15.2%；其中 3,305 對是同性伴侶，18.5% 有一方是外籍或陸港澳配偶。",
         "en": "Down 15.2% on the year; 3,305 were same-sex couples, and in 18.5% one partner was foreign or from China, Hong Kong or Macau."
@@ -567,7 +567,7 @@
         "download": "https://apiservice.mol.gov.tw/OdService/download/A17000000J-030269-2uV"
       },
       "basis": "official",
-      "cadence": "monthly",
+      "cadence": "annual",
       "insight": {
         "zh-TW": "十年增加近五成，印尼、越南、菲律賓三國占九成一；數字是本站把勞動部資料集各國籍列相加。",
         "en": "Up almost 50% in ten years, with Indonesia, Vietnam and the Philippines making up 91%; the total is our sum of the ministry's rows by nationality."
@@ -1204,7 +1204,7 @@
         "download": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10980/236591/t1-1.xlsx"
       },
       "basis": "official",
-      "cadence": "quarterly",
+      "cadence": "annual",
       "insight": {
         "zh-TW": "2013 年以來最高，比第二高的 2021 年多出 2 個百分點；主計總處 8 月預測 2026 年再到 11.05%。",
         "en": "The highest since at least 2013, two points above 2021; in August the statistics office forecast 11.05% for 2026."
@@ -1274,7 +1274,7 @@
         "download": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10980/236591/t1-1.xlsx"
       },
       "basis": "official",
-      "cadence": "quarterly",
+      "cadence": "annual",
       "insight": {
         "zh-TW": "以新臺幣計是 28.7 兆元；十年之間以美元計多了七成以上，其中一年就多了約 1,209 億美元。",
         "en": "NT$28.7 trillion in local currency; up more than 70% in dollar terms over ten years, about US$121 billion of it in the last year alone."
@@ -1334,7 +1334,7 @@
         "download": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10980/236591/t1-1.xlsx"
       },
       "basis": "official",
-      "cadence": "quarterly",
+      "cadence": "annual",
       "insight": {
         "zh-TW": "十年多了 16,735 美元；這是總產出除以人口，跟一般人的薪水是兩件事（見社會類的薪資中位數）。",
         "en": "Up US$16,735 in ten years. This is output divided by population, which is a different thing from what a typical worker earns (see the median wage under Society)."
@@ -1388,7 +1388,7 @@
         "download": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10980/236591/t1-1.xlsx"
       },
       "basis": "official",
-      "cadence": "monthly",
+      "cadence": "annual",
       "insight": {
         "zh-TW": "經濟成長創新高的同一年，物價漲幅回落到 1.66%。",
         "en": "In the same year growth hit a record, inflation eased back to 1.66%."
@@ -1434,7 +1434,7 @@
         "download": "https://web02.mof.gov.tw/njswww/WebProxy.aspx?sys=100&funid=defjspf2"
       },
       "basis": "official",
-      "cadence": "monthly",
+      "cadence": "annual",
       "insight": {
         "zh-TW": "一年增加 34.9%，進口也同時創新高；全年出超 1,571.4 億美元，同樣是紀錄。",
         "en": "Up 34.9% in a year, with imports also at a record; the trade surplus of US$157.1 billion was a record too."
@@ -1472,7 +1472,7 @@
         "download": "https://web02.mof.gov.tw/njswww/WebProxy.aspx?sys=100&funid=defjspf2"
       },
       "basis": "official",
-      "cadence": "monthly",
+      "cadence": "annual",
       "insight": {
         "zh-TW": "美國超過中國大陸與香港，成為台灣最大的出口市場，財政部說這是 26 年來第一次。",
         "en": "The US overtook China and Hong Kong as Taiwan's largest export market, which the Ministry of Finance says is the first time in 26 years."
@@ -1659,7 +1659,7 @@
         "download": "https://web02.mof.gov.tw/njswww/WebProxy.aspx?sys=100&funid=defjspf2"
       },
       "basis": "official",
-      "cadence": "monthly",
+      "cadence": "annual",
       "insight": {
         "zh-TW": "一年增加 89.5%，其中電腦及附屬單元多了 986.5 億美元；跟電子零組件合計，占總出口七成四。",
         "en": "Up 89.5% in a year, with computers and peripherals alone adding US$98.7 billion; together with electronic components it makes up 74% of all exports."
@@ -2897,7 +2897,7 @@
         "download": "https://admin.taiwan.net.tw/fapi/AttFile?type=NewsAttFile&id=39994"
       },
       "basis": "official",
-      "cadence": "monthly",
+      "cadence": "annual",
       "insight": {
         "zh-TW": "日本旅客 148 萬人次最多；同年國人出國 1,894 萬人次，是來台人數的 2.2 倍。",
         "en": "Japan sent the most visitors, 1.48 million; the same year residents made 18.94 million trips abroad, 2.2 times as many."

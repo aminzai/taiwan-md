@@ -60,7 +60,9 @@ def ui_keys():
 
 def export():
     locs = content_locs()
-    src = {k: {'zh-TW': v.get('zh-TW', ''), 'en': v.get('en', '')} for k, v in locs.items()}
+    # SSOT 裡已經十三語齊全的（例如 sources.json 的 tags 字典）不必再交給翻譯
+    src = {k: {'zh-TW': v.get('zh-TW', ''), 'en': v.get('en', '')} for k, v in locs.items()
+           if not all(l in v for l in LANGS)}
     CONTENT_DIR.mkdir(parents=True, exist_ok=True)
     (CONTENT_DIR / '_source.json').write_text(json.dumps(src, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     print(f'✅ 匯出 {len(src)} 個內容欄位 → data/data-hub/content/_source.json；介面字串 {len(ui_keys())} 個（src/i18n/dataHub.ts en）')

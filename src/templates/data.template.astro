@@ -274,6 +274,9 @@ type SourceItem = {
 };
 type SourceGroup = { id: string; title: Loc; intro?: Loc; items: SourceItem[] };
 const sourceGroups = (sourcesJson.groups ?? []) as SourceGroup[];
+// 格式／存取標籤：中文標籤在 sources.json 的 tags 字典裡有各語言寫法，CSV、API 這類原樣顯示
+const sourceTags = ((sourcesJson as any).tags ?? {}) as Record<string, Loc>;
+const tagText = (m: string) => (sourceTags[m] ? loc(sourceTags[m], lang) : m);
 const pitfalls = (sourcesJson.pitfalls ?? []) as { title: Loc; body: Loc }[];
 const intlRows = intlJson.rows as {
   db: string;
@@ -770,7 +773,7 @@ const datasetLd = {
                       {s.meta && s.meta.length > 0 && (
                         <ul class="dh-src-meta">
                           {s.meta.map((m) => (
-                            <li>{m}</li>
+                            <li>{tagText(m)}</li>
                           ))}
                         </ul>
                       )}
