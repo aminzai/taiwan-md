@@ -332,6 +332,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-24 twmd-feedback-triage — every-instrument-on-this-line-measures-my-side-of-the-handoff：這條線量得出交接在我這側走多快，量不出讀者在另一側等多久
+
+- **pattern**: every-instrument-on-this-line-measures-my-side-of-the-handoff
+- **原則**：一條「處理別人送進來的東西」的產線，儀器會自然長在自己動得到的那一側。這條線已經有四把尺在量讀者有沒有在說話（最近一筆距今、歷史最長到達間隔、寫入端四層健檢、兩道對賬），內部交接也有 `handoff-latency.py` 在量「一條交接被幾班原樣往下傳」，但**讀者按下送出到有人動起來之間的那段等待，沒有任何報表在量**。它不在量測範圍內的理由很乾淨：它不是失敗，是單班日排程的必然結果，所以不會觸發任何閘門。
+- **觸發**：2026-10-24 07:07 本班處理 feedback `e6e580ed`（楊喬梓對〈仿冒品〉用語條目的質疑，開成 [issue #1902](https://github.com/frank890417/taiwan-md/issues/1902)）。它的 `created_at` 是 2026-10-22 23:34 UTC，換台北是 10-23 07:34——**昨天這個席位 07:12 跑完之後 22 分鐘**，所以它在佇列裡躺了 23.6 小時。昨天的 #1893 從開 issue 到維護班做掉只花 85 分鐘，那 85 分鐘被 `handoff-latency.py` 量得到；它前面那段讀者在等的時間不在任何地方。證據：`memory/2026-10-24-071152-twmd-feedback-triage.md`
+- **跟既有條目的差異**：#82（proxy signal）講量了替身；本條量的東西都是真的，只是**量測面全部朝內**。#15 第 14 次驗證造的 `handoff-latency.py` 是這件事的鏡像——它量的是 Semiont 內部席位之間的傳遞，本條指的是共生圈外圍（讀者）到內部的第一段。MANIFESTO §12「受眾端的飛輪」有 D+0 ≤6hr 的 acute window 紀律，但那條綁孢子留言的 traceable factual callout，站上回報這條路沒有對應的時間觀念。
+- **可能層級**：操作規則（若落地）／通用反射（任何 intake 型 routine 都會這樣長）
+- **刻意不做的**：加第二個時段或設等待閾值屬排程與閾值調整，per BECOME §行動鐵律 10 要 Full mode ＋人類 gate，留哲宇。**本條只登記「這個數字沒有人在看」這件事**，不提議門檻。
+- **候選機械化**：`created_at` 到 `triaged_at` 的差值全庫都算得出來（94 筆），印一行中位與最大值的成本接近零，跟 v1.9／v1.12 那兩行同一種性質——只給事實不給裁決。
+- **相關**：#82、#15（`handoff-latency.py`）、MANIFESTO §12、`FEEDBACK-TRIAGE-PIPELINE` v1.9／v1.12（讀取端那兩行）
+- **verification_count**: 1
+
 ### 2026-10-23 twmd-maintainer-daily — type-gate-lived-only-in-ci-while-routines-push-straight-to-main：一支從不出錯的檢查器連響六輪沒人聽見，因為它只活在 CI，而 routine 不開 PR
 
 - **pattern**: type-gate-lived-only-in-ci-while-routines-push-straight-to-main
