@@ -12,6 +12,7 @@
   python3 scripts/tools/data-hub-check.py            # 結構錯誤 exit 1；逾期只警告
   python3 scripts/tools/data-hub-check.py --stale    # 只印逾期清單（給 routine 早班用）
   python3 scripts/tools/data-hub-check.py --strict   # 逾期也算失敗
+  python3 scripts/tools/data-hub-check.py --json     # 機器讀（generate-dashboard-alerts.mjs §12 用），永遠 exit 0
 """
 import json, sys, datetime as dt
 from pathlib import Path
@@ -87,11 +88,23 @@ def main(argv):
             if not article_exists(a):
                 errors.append(f"線 {t['id']}：文章不存在 {a}")
 
+    n = len(ind_doc['indicators'])
+    if '--json' in argv:
+        print(json.dumps({
+            'indicators': n,
+            'threads': len(threads),
+            'errors': errors,
+            'stale': [
+                {'id': iid, 'cadence': cad, 'asOf': as_of, 'ageDays': age,
+                 'maxAgeDays': MAX_AGE_DAYS[cad], 'url': url}
+                for iid, cad, as_of, age, url in stale
+            ],
+        }, ensure_ascii=False))
+        return 0
     if '--stale' in argv:
         for s in stale:
             print('\t'.join(map(str, s)))
         return 0
-    n = len(ind_doc['indicators'])
     print(f'指標 {n} 個、線 {len(threads)} 條：結構錯誤 {len(errors)}、逾期 {len(stale)}')
     for e in errors:
         print('  ❌', e)
