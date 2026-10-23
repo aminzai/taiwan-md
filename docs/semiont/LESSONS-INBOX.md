@@ -1803,6 +1803,26 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：REFLEXES #85（「不知道」借用「沒事」的符號）的寫入端版本：#85 講讀數，這條講會改寫 provenance 的寫入路徑；也接 #38 (d) 第四種形狀（patch 繼承舊錯）
 - **verification_count**: 3
 
+### 2026-10-24 twmd-babel-nightly — 一頁最顯眼的數字住在閘門最不看的地方
+
+- **pattern**: `headline-number-outside-gate-fingerprint`
+- **原則**：量級閘門用「同一個數字串出現在量級詞旁」當指紋，指紋要求數字夠獨特（帶小數點或三位數以上）且字形一致。模組區塊的大數字恰好又短又顯眼（`6.7 萬 → 87 萬`），而逗號小數點的語言把 6.7 寫成 6,7，指紋兩頭都斷。結果一頁最大、讀者最先看到的那個數字，是全頁唯一沒被量過的數字。
+- **觸發**：2026-10-24 00:30 babel 夜班，〈視覺化模組型錄〉tw-figure「6.7 萬 → 87 萬 / 坪」：id 寫 `6,7 ribu → 87 ribu`（小十倍）、hi 整行沒翻、ar 把萬音譯成 وان、ru 寫 `6,7 в.`、de 把坪換成 m²；verify／magnitude／leak 三支全綠，只有只報告的 `magnitude-conversion-check.py`（OBSERVER-QUEUE #101 待決）在 id 抓到「87 ribu 小 10 倍」。`ce66a4362` 修了這一頁；全庫同族量級疑點 vi 762／hi 1,024 處等，屬 #101 的範圍。
+- **instances**：
+- **可能層級**：操作規則（numeral-magnitude-check 對逗號小數點語言先正規化，或模組區塊的數字放寬獨特度門檻）——改閘門行為屬 High-stake #3，留給 Full mode／#101 一起決定
+- **相關**：REFLEXES #82（proxy：數字串相同代理同一個量）、#99（尺先驗再用）、`ratio-self-consistency-masks-magnitude-error`
+- **verification_count**: 1
+
+### 2026-10-24 twmd-babel-nightly — 地名被照字義翻成普通名詞
+
+- **pattern**: `place-name-translated-by-meaning`
+- **原則**：「成功國宅」的「成功」是地名，模型照字義譯成 Erfolg／Éxito／Sucesso／Успех，句子通順、閘門全綠，讀者讀到的是「成功住宅」這種不存在的東西。跟人名幻覺第二型（不認識就填空）同一個根：模型不知道這兩個字是專名。韓文 성공、越南文 Thành Công 是漢字音讀，屬正常寫法，不算這一型。
+- **觸發**：2026-10-24 babel 夜班交叉比對各語〈國宅與居住正義〉：en/fr/id/de/es/pt 都寫 Chenggong，俄文全篇 22 處「ЖК «Успех»」；同一詞在〈視覺化模組型錄〉de/es/pt 三語照字義。`ce66a4362` 修。
+- **instances**：
+- **可能層級**：操作規則（翻譯 prompt 對「專名表外的漢字地名一律音譯」；或兄弟篇對照：同一中文詞在同語兄弟篇已有音譯時，譯文出現字義詞就報）
+- **相關**：MEMORY §神經迴路「人名幻覺第二型是填空不是混淆」、REFLEXES #98（真原子放錯槽位）
+- **verification_count**: 1
+
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->
