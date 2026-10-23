@@ -34,6 +34,7 @@ interface VizStrings {
   county: string; // tw-tiles 資料表欄名「縣市」
   value: string; // tw-tiles 資料表欄名「數值」
   unmatched: string; // tw-tiles 未對應縣市警示，含冒號的完整前綴
+  listSep: string; // 列舉分隔號（tw-tiles 未對應清單）：中日「、」，其他語言逗號
   tilesAria: string; // tw-tiles aria-label 預設值（無標題時）
   waffleAria: string; // tw-waffle aria-label 預設值（無標題時）
   fnAria: string; // 單一腳註 aria-label 字首（後接編號）
@@ -59,6 +60,7 @@ const VIZ_STRINGS: Record<Lang, VizStrings> = {
     county: '縣市',
     value: '數值',
     unmatched: '未對應縣市：',
+    listSep: '、',
     tilesAria: '台灣縣市資料地圖',
     waffleAria: '方格圖',
     fnAria: '腳註',
@@ -71,6 +73,7 @@ const VIZ_STRINGS: Record<Lang, VizStrings> = {
     county: 'County',
     value: 'Value',
     unmatched: 'Unmatched counties: ',
+    listSep: ', ',
     tilesAria: 'Taiwan county data map',
     waffleAria: 'Waffle chart',
     fnAria: 'Footnote',
@@ -83,6 +86,7 @@ const VIZ_STRINGS: Record<Lang, VizStrings> = {
     county: '県市',
     value: '値',
     unmatched: '未対応の県市：',
+    listSep: '、',
     tilesAria: '台湾県市データマップ',
     waffleAria: 'ワッフルチャート',
     fnAria: '脚注',
@@ -95,6 +99,7 @@ const VIZ_STRINGS: Record<Lang, VizStrings> = {
     county: '시·군',
     value: '값',
     unmatched: '매칭되지 않은 시·군: ',
+    listSep: ', ',
     tilesAria: '대만 시·군 데이터 지도',
     waffleAria: '와플 차트',
     fnAria: '각주',
@@ -107,6 +112,7 @@ const VIZ_STRINGS: Record<Lang, VizStrings> = {
     county: 'Ciudad o condado',
     value: 'Valor',
     unmatched: 'Condados sin correspondencia: ',
+    listSep: ', ',
     tilesAria: 'Mapa de datos de los condados de Taiwán',
     waffleAria: 'Gráfico de cuadrícula',
     fnAria: 'Nota',
@@ -120,6 +126,7 @@ const VIZ_STRINGS: Record<Lang, VizStrings> = {
     county: 'Ville ou comté',
     value: 'Valeur',
     unmatched: 'Comtés non appariés: ',
+    listSep: ', ',
     tilesAria: 'Carte des données des comtés de Taïwan',
     waffleAria: 'Graphique en gaufre',
     fnAria: 'Note',
@@ -137,6 +144,7 @@ const VIZ_STRINGS: Record<Lang, VizStrings> = {
     county: 'Huyện/thành phố',
     value: 'Giá trị',
     unmatched: 'Huyện/thành phố không khớp: ',
+    listSep: ', ',
     tilesAria: 'Bản đồ dữ liệu huyện, thành phố Đài Loan',
     waffleAria: 'Biểu đồ ô vuông',
     fnAria: 'Chú thích',
@@ -149,6 +157,7 @@ const VIZ_STRINGS: Record<Lang, VizStrings> = {
     county: 'Kabupaten/kota',
     value: 'Nilai',
     unmatched: 'Kabupaten/kota tidak cocok: ',
+    listSep: ', ',
     tilesAria: 'Peta data kabupaten dan kota Taiwan',
     waffleAria: 'Diagram wafel',
     fnAria: 'Catatan kaki',
@@ -161,6 +170,7 @@ const VIZ_STRINGS: Record<Lang, VizStrings> = {
     county: 'Condado ou cidade',
     value: 'Valor',
     unmatched: 'Condados sem correspondência: ',
+    listSep: ', ',
     tilesAria: 'Mapa de dados dos condados de Taiwan',
     waffleAria: 'Gráfico de waffle',
     fnAria: 'Nota',
@@ -173,6 +183,7 @@ const VIZ_STRINGS: Record<Lang, VizStrings> = {
     county: 'काउंटी/शहर',
     value: 'मान',
     unmatched: 'बेमेल काउंटी: ',
+    listSep: ', ',
     tilesAria: 'ताइवान काउंटी डेटा मानचित्र',
     waffleAria: 'वफ़ल चार्ट',
     fnAria: 'पाद-टिप्पणी',
@@ -185,6 +196,7 @@ const VIZ_STRINGS: Record<Lang, VizStrings> = {
     county: 'المنطقة أو المدينة',
     value: 'القيمة',
     unmatched: 'مناطق غير مطابقة: ',
+    listSep: '، ',
     tilesAria: 'خريطة بيانات مناطق تايوان',
     waffleAria: 'مخطط المربعات',
     fnAria: 'حاشية',
@@ -200,6 +212,7 @@ const VIZ_STRINGS: Record<Lang, VizStrings> = {
     county: 'Уезд или город',
     value: 'Значение',
     unmatched: 'Несопоставленные уезды: ',
+    listSep: ', ',
     tilesAria: 'Карта данных по уездам Тайваня',
     waffleAria: 'Вафельная диаграмма',
     fnAria: 'Сноска',
@@ -215,6 +228,7 @@ const VIZ_STRINGS: Record<Lang, VizStrings> = {
     county: 'Kreis oder Stadt',
     value: 'Wert',
     unmatched: 'Nicht zugeordnete Kreise: ',
+    listSep: ', ',
     tilesAria: 'Datenkarte der Kreise Taiwans',
     waffleAria: 'Waffeldiagramm',
     fnAria: 'Fußnote',
@@ -275,6 +289,9 @@ const SRC_LINE_RE = _buildSrcLineRe();
 // 用到底都是同一個 lang。若未來 renderTwModule 或 processFootnotes 被改成 async，
 // 這個假設會失效，屆時 _locale 必須改成參數傳遞而非 module-scope 變數。
 let _locale: VizStrings = VIZ_STRINGS['zh-TW'];
+// 頁面語言本身：tw-tiles 要知道磚上印哪一語的縣市名（_locale 只帶 UI 字串）。
+// 同步假設同 _locale，兩者永遠一起賦值。
+let _lang: string = 'zh-TW';
 
 function resolveWikilinks(md: string) {
   if (!md) return md;
@@ -1068,6 +1085,12 @@ function renderTwModule(lang: string, raw: string): string {
     // 台灣 22 縣市 tile-grid cartogram（視覺主權：佈局寫死在 renderer，不靠 LLM 畫形狀，
     // per REFLEXES #61）。rows: `縣市 | 值 | (註)`。臺/台、市/縣字尾自動正規化；
     // 對不上 60% 以上就退化成 bars（翻譯版縣市名對不上時內容不會消失）。
+    //
+    // 2026-10-23 多語：磚上原本一律印 TILE_GRID 的中文名，譯版頁面磚上全是漢字；
+    // 韓文、越南文、俄文、印地文寫自己文字的縣市名時對不上，整個模組退化成 bars
+    //（型錄頁實測十三語有七語退化，資料台灣 v2.1 因此把人口密度改畫長條圖）。
+    // 現在對應靠 TILE_NAMES 各語名稱＋行政字首字尾判讀；磚上與資料表印作者那一列
+    // 的名稱，zh-TW 頁照舊印 TILE_GRID 短名（輸出跟改版前逐位元相同）。
     const TILE_GRID: (string | null)[][] = [
       ['連江', null, '台北', '基隆', null],
       [null, '桃園', '新北', '宜蘭', null],
@@ -1078,63 +1101,167 @@ function renderTwModule(lang: string, raw: string): string {
       [null, '嘉義縣', '台南', null, null],
       [null, null, '高雄', '屏東', '台東'],
     ];
-    const EN_ALIAS: Record<string, string> = {
-      taipei: '台北',
-      'new taipei': '新北',
-      keelung: '基隆',
-      taoyuan: '桃園',
-      'hsinchu city': '新竹市',
-      'hsinchu county': '新竹縣',
-      miaoli: '苗栗',
-      taichung: '台中',
-      changhua: '彰化',
-      nantou: '南投',
-      yunlin: '雲林',
-      'chiayi city': '嘉義市',
-      'chiayi county': '嘉義縣',
-      tainan: '台南',
-      kaohsiung: '高雄',
-      pingtung: '屏東',
-      yilan: '宜蘭',
-      hualien: '花蓮',
-      taitung: '台東',
-      penghu: '澎湖',
-      kinmen: '金門',
-      lienchiang: '連江',
-      matsu: '連江',
+    // 各縣市在各語的標準名，欄位順序 [en, ko, vi, ru, hi, ar]。兩個用途：對應時當
+    // 別名；空磚（該縣市沒有資料列）或作者把縣市名留成漢字沒翻時，當該語的顯示名。
+    // 拉丁字母語言（en/es/fr/pt/de/id）共用 en 欄，靠去重音＋去行政字首字尾對上
+    //（Ville de Taipei、Condado de Hsinchu、Kota Taipei 都摺成 taipei／hsinchu）。
+    // 新竹、嘉義兩市兩縣同名，名稱必須帶行政字首字尾才分得開。
+    // prettier-ignore
+    const TILE_NAMES: Record<string, string[]> = {
+      台北: ['Taipei', '타이베이', 'Đài Bắc', 'Тайбэй', 'ताइपे', 'تايبيه'],
+      新北: ['New Taipei', '신베이', 'Tân Bắc', 'Синьбэй', 'न्यू ताइपे', 'تايبيه الجديدة'],
+      基隆: ['Keelung', '지룽', 'Cơ Long', 'Цзилун', 'कीलुंग', 'كيلونغ'],
+      桃園: ['Taoyuan', '타오위안', 'Đào Viên', 'Таоюань', 'ताओयुआन', 'تاويوان'],
+      新竹市: ['Hsinchu City', '신주시', 'Thành phố Tân Trúc', 'Синьчжу (город)', 'ह्सिनचु शहर', 'مدينة هسينتشو'],
+      新竹縣: ['Hsinchu County', '신주현', 'Huyện Tân Trúc', 'Синьчжу (уезд)', 'ह्सिनचु काउंटी', 'مقاطعة هسينتشو'],
+      苗栗: ['Miaoli', '먀오리', 'Miêu Lật', 'Мяоли', 'मियाओली', 'مياولي'],
+      台中: ['Taichung', '타이중', 'Đài Trung', 'Тайчжун', 'ताइचुंग', 'تايتشونغ'],
+      彰化: ['Changhua', '장화', 'Chương Hóa', 'Чжанхуа', 'चांगहुआ', 'تشانغهوا'],
+      南投: ['Nantou', '난터우', 'Nam Đầu', 'Наньтоу', 'नांतोउ', 'نانتو'],
+      雲林: ['Yunlin', '윈린', 'Vân Lâm', 'Юньлинь', 'युनलिन', 'يونلين'],
+      嘉義市: ['Chiayi City', '자이시', 'Thành phố Gia Nghĩa', 'Цзяи (город)', 'चियाई शहर', 'مدينة تشيايي'],
+      嘉義縣: ['Chiayi County', '자이현', 'Huyện Gia Nghĩa', 'Цзяи (уезд)', 'चियाई काउंटी', 'مقاطعة تشيايي'],
+      台南: ['Tainan', '타이난', 'Đài Nam', 'Тайнань', 'ताइनान', 'تاينان'],
+      高雄: ['Kaohsiung', '가오슝', 'Cao Hùng', 'Гаосюн', 'काओशुंग', 'كاوشيونغ'],
+      屏東: ['Pingtung', '핑둥', 'Bình Đông', 'Пиндун', 'पिंगतुंग', 'بينغتونغ'],
+      宜蘭: ['Yilan', '이란', 'Nghi Lan', 'Илань', 'यिलान', 'ييلان'],
+      花蓮: ['Hualien', '화롄', 'Hoa Liên', 'Хуалянь', 'हुआलिएन', 'هوالين'],
+      台東: ['Taitung', '타이둥', 'Đài Đông', 'Тайдун', 'ताइतुंग', 'تايتونغ'],
+      澎湖: ['Penghu', '펑후', 'Bành Hồ', 'Пэнху', 'पेंघु', 'بنغهو'],
+      金門: ['Kinmen', '진먼', 'Kim Môn', 'Цзиньмэнь', 'किनमेन', 'كينمن'],
+      連江: ['Lienchiang', '롄장', 'Liên Giang', 'Ляньцзян', 'लिएनच्यांग', 'ليانجيانغ'],
     };
-    const normCounty = (raw: string) => {
-      // 2026-07-16 審計：EN 譯版寫「Taipei City」（alias 只收 'taipei'）、JA 譯版寫
-      // 「新竹県」（日文「県」）——兩者都對不上 → 磚圖在譯版必然退化成 bars。
-      // 修法：日文県→縣先正規化；EN 先查完整字串（保住 hsinchu city/county 這類
-      // 必須帶後綴的鍵），查無再去掉 ' city'/' county' 後綴查一次。
-      // 空白一律摺成普通空格——babel 產物會夾 U+202F 窄不斷行空格（New Taipei），
-      // alias 鍵是普通空格，不摺就對不上。
-      const s = raw
+    const TILE_COL: Record<string, number> = {
+      ko: 1,
+      vi: 2,
+      ru: 3,
+      hi: 4,
+      ar: 5,
+    };
+    // 只拿來對應、不當顯示名的寫法：拼音、舊譯名、各語慣用外來名、babel 實測譯法
+    //（de 型錄頁寫 Taibei／Xinbei、ru 寫 Синбэй／Чжаньхуа／Пэньху）。鍵是去掉市／縣的短名，
+    // 新竹、嘉義的別名兩市兩縣共用。
+    // prettier-ignore
+    const TILE_ALIASES: Record<string, string[]> = {
+      台北: ['Taipeh', 'Taibei', 'Taipéi', 'Taipé', '타이페이'],
+      新北: ['Xinbei', 'Nuevo Taipéi', 'Nueva Taipéi', 'Novo Taipé', 'Nova Taipé', 'Nouveau Taipei', 'Nouvelle Taipei', 'Neu-Taipeh', 'Neu-Taipei', 'Taipei Baru', 'Tân Đài Bắc', 'Новый Тайбэй', 'Синбэй', 'نيو تايبيه'],
+      基隆: ['Jilong', 'كيلونج'],
+      新竹: ['Xinzhu', 'هسينشو', 'सिंचू', 'शिनचू'],
+      台中: ['Taizhong', 'تايتشونج'],
+      彰化: ['Zhanghua', 'Чжаньхуа', 'تشانغوا'],
+      嘉義: ['Jiayi'],
+      高雄: ['Gaoxiong', 'काऊशुंग', 'كاوهسيونغ'],
+      屏東: ['Pingdong'],
+      宜蘭: ['Ilan'],
+      花蓮: ['Hualian', 'हुआलियन', 'هواليان'],
+      台東: ['Taidong', 'تايتونج'],
+      澎湖: ['Pescadores', 'Пэньху', 'पेंगहू'],
+      金門: ['Jinmen', 'Quemoy', '금문'],
+      連江: ['Lianjiang', 'Matsu', '馬祖', 'Мацзу', '마쭈'],
+    };
+    // 行政字首字尾 → 市或縣，只剝一層。直接比對作者原文（不分大小寫），所以重音
+    // 寫法兩種都收（Comté／comte、Huyện／huyen）；剝下來的短名就是磚上印的名字。
+    // prettier-ignore
+    const TILE_AFFIX: [RegExp, 'city' | 'county'][] = [
+      [/^(?:city of|ville de|ciudad de|cidade de|kota|thành phố|thanh pho|stadt|город|مدينة)\s+/iu, 'city'],
+      [/(?:\s+|\s*\()(?:city|thị|thi|stadt|город|शहर)\)?$/iu, 'city'],
+      [/(?<=\S)(?:市|시)$/u, 'city'],
+      [/^(?:county of|comté de|comte de|condado de|kabupaten|huyện|huyen|landkreis|kreis|уезд|مقاطعة|محافظة)\s+/iu, 'county'],
+      [/(?:\s+|\s*\()(?:county|huyện|huyen|landkreis|kreis|уезд|काउंटी)\)?$/iu, 'county'],
+      [/(?<=\S)(?:縣|県|현)$/u, 'county'],
+    ];
+    // 拆成「短名＋市或縣」。空白一律摺成普通空格——babel 產物會夾 U+202F 窄不斷行
+    // 空格（New Taipei），不摺就對不上，也不能在磚內折行。
+    const splitCounty = (raw: string) => {
+      const full = raw.replace(/\s+/g, ' ').trim();
+      for (const [re, kind] of TILE_AFFIX) {
+        const stem = full.replace(re, '').trim();
+        if (stem && stem !== full) return { full, stem, kind };
+      }
+      return { full, stem: full, kind: '' as const };
+    };
+    // 對應用的鍵：小寫、去重音、臺→台、括號與連字號換成空白。2026-07-16 審計：
+    // EN 譯版寫「Taipei City」、JA 譯版寫「新竹県」都曾對不上 → 譯版磚圖必然退化。
+    // 去重音只剝 U+0300–036F 這段組合附加符號：拉丁字母與越南文的聲調在這裡，
+    // 天城文母音符號、阿拉伯文標音不在這段，不會被誤剝。
+    const countyKey = (stem: string) =>
+      stem
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '')
+        .normalize('NFC')
+        .replace(/[đĐ]/g, 'd')
         .replace(/臺/g, '台')
-        .replace(/県/g, '縣')
+        .toLowerCase()
+        .replace(/[()（）\-\u2010\u2013]/g, ' ')
         .replace(/\s+/g, ' ')
         .trim();
-      const lower = s.toLowerCase();
-      const en =
-        EN_ALIAS[lower] ?? EN_ALIAS[lower.replace(/\s+(city|county)$/, '')];
-      if (en) return en;
-      const stem = s.replace(/[市縣]$/, '');
-      return stem === '新竹' || stem === '嘉義' ? s : stem;
+    // 短名 → 候選格名。一般縣市只有一個候選；新竹、嘉義有市、縣兩個。
+    const tileIndex = new Map<string, string[]>();
+    for (const grid of TILE_GRID.flat()) {
+      if (!grid) continue;
+      const short = grid.replace(/[市縣]$/, '');
+      const names = [grid, ...TILE_NAMES[grid], ...(TILE_ALIASES[short] ?? [])];
+      for (const n of names) {
+        const key = countyKey(splitCounty(n).stem);
+        const cands = tileIndex.get(key) ?? [];
+        if (!cands.includes(grid)) cands.push(grid);
+        tileIndex.set(key, cands);
+      }
+    }
+    // 磚上印哪個名字，比照 zh-TW 的 TILE_GRID：短名（台北不寫臺北市），只有新竹、
+    // 嘉義這四格要帶市或縣才分得開。其他語言取作者那一列剝掉行政字首字尾
+    //（Ville de Taipei → Taipei、타이베이시 → 타이베이）；新竹、嘉義印作者整列原文。
+    // 作者把縣市名留成漢字、頁面語言又不用漢字時（ar 型錄頁就是），改印該語標準名；
+    // 空磚沒有作者那一列，一樣印該語標準名。手機上一格只有 52px 寬，
+    //「Comté de Lienchiang」整串放不進去，這也是磚上不印全名的原因。
+    const tileLabel = (
+      grid: string,
+      row?: { raw: string; full: string; stem: string },
+    ) => {
+      if (_lang === 'zh-TW') return grid;
+      const pairCell = /[市縣]$/.test(grid);
+      if (row && (_lang === 'ja' || !/\p{Script=Han}/u.test(row.raw)))
+        return pairCell ? row.full : row.stem;
+      if (_lang === 'ja') return grid.replace('縣', '県');
+      return TILE_NAMES[grid][TILE_COL[_lang] ?? 0];
     };
     const rows = lines
       .map((l) => {
         const c = l.split('|').map((s) => s.trim());
-        return { raw: c[0] || '', val: c[1] || '', num: _num(c[1] || '') };
+        const raw = c[0] || '';
+        const { full, stem, kind } = splitCounty(raw);
+        const cands = tileIndex.get(countyKey(stem)) ?? [];
+        const suffix = kind === 'city' ? '市' : '縣';
+        const grid =
+          cands.length === 1
+            ? cands[0]
+            : (kind && cands.find((g) => g.endsWith(suffix))) || '';
+        const pair = !kind && cands.length > 1 ? cands : null;
+        const val = c[1] || '';
+        return { raw, full, stem, val, num: _num(val), grid, pair };
       })
       .filter((r) => r.raw);
     if (rows.length === 0) return '';
-    const byCounty = new Map<string, { val: string; num: number }>();
+    // 新竹、嘉義沒寫市或縣（de/es/pt 譯版常把市寫成裸名 Hsinchu、縣寫 Hsinchu
+    // County）：等其他列都對完，再補進還空著的那一格，市優先。
+    const taken = new Set(rows.map((r) => r.grid).filter(Boolean));
+    for (const r of rows) {
+      if (!r.pair) continue;
+      r.grid = r.pair.find((g) => !taken.has(g)) ?? '';
+      if (r.grid) taken.add(r.grid);
+    }
+    const byCounty = new Map<
+      string,
+      { val: string; num: number; name: string }
+    >();
     const unmatched: string[] = [];
-    const gridNames = new Set(TILE_GRID.flat().filter(Boolean) as string[]);
     rows.forEach((r) => {
-      const key = normCounty(r.raw);
-      if (gridNames.has(key)) byCounty.set(key, { val: r.val, num: r.num });
+      if (r.grid)
+        byCounty.set(r.grid, {
+          val: r.val,
+          num: r.num,
+          name: tileLabel(r.grid, r),
+        });
       else unmatched.push(r.raw);
     });
     if (byCounty.size / rows.length < 0.6) {
@@ -1151,28 +1278,42 @@ function renderTwModule(lang: string, raw: string): string {
     const tMin = Math.min(...nums),
       tMax = Math.max(...nums);
     const range = tMax - tMin || 1;
+    // 譯名比中文短名長（Lienchiang、Condado de Hsinchu）：超過 8 個字元准許折行、
+    // 手機縮一級字，整陣標 --long 讓每列等高。中文短名最多三字，不會碰到這條。
+    let anyLong = false;
+    const nameSpan = (label: string) => {
+      const long = [...label].length > 8;
+      anyLong ||= long;
+      return `<span class="tw-tiles-name${long ? ' tw-tiles-name--long' : ''}">${_esc(label)}</span>`;
+    };
     const cells = TILE_GRID.flat()
       .map((name) => {
         if (!name) return `<i class="tw-tiles-gap" aria-hidden="true"></i>`;
         const e = byCounty.get(name);
+        const label = e ? e.name : tileLabel(name);
         if (!e || isNaN(e.num))
-          return `<div class="tw-tiles-cell tw-tiles-cell--empty"><span class="tw-tiles-name">${_esc(name)}</span><b class="tw-tiles-val">–</b></div>`;
+          return `<div class="tw-tiles-cell tw-tiles-cell--empty">${nameSpan(label)}<b class="tw-tiles-val">–</b></div>`;
         const i = (e.num - tMin) / range;
-        return `<div class="tw-tiles-cell${i >= 0.55 ? ' tw-hm-hi' : ''}" style="--i:${i.toFixed(2)}"><span class="tw-tiles-name">${_esc(name)}</span><b class="tw-tiles-val">${_esc(e.val)}</b></div>`;
+        return `<div class="tw-tiles-cell${i >= 0.55 ? ' tw-hm-hi' : ''}" style="--i:${i.toFixed(2)}">${nameSpan(label)}<b class="tw-tiles-val">${_esc(e.val)}</b></div>`;
       })
       .join('');
-    const scale = `<div class="tw-tiles-scale"><span>${_esc(_fmt(tMin))}</span><i class="tw-tiles-grad" aria-hidden="true"></i><span>${_esc(_fmt(tMax))}</span></div>`;
+    // 色階兩端印作者寫的數值字串，不印解析後的數字：_num 把逗號一律當千分位，
+    // fr/de/pt/id/ru/vi 譯版寫的「24,18」會變成 2418。磚的顏色是相對值不受影響，
+    // 但端點標籤會放大一百倍（2026-10-24 fr 截圖抓到「1,508 — 2,418」）。
+    const endLabel = (n: number) =>
+      [...byCounty.values()].find((e) => e.num === n)?.val ?? _fmt(n);
+    const scale = `<div class="tw-tiles-scale"><span>${_esc(endLabel(tMin))}</span><i class="tw-tiles-grad" aria-hidden="true"></i><span>${_esc(endLabel(tMax))}</span></div>`;
     const warn = unmatched.length
-      ? `<p class="tw-tiles-warn">${_esc(_locale.unmatched)}${unmatched.map(_esc).join('、')}</p>`
+      ? `<p class="tw-tiles-warn">${_esc(_locale.unmatched)}${unmatched.map(_esc).join(_locale.listSep)}</p>`
       : '';
-    const tbody = [...byCounty.entries()]
+    const tbody = [...byCounty.values()]
       .map(
-        ([n, e]) =>
-          `<tr><th scope="row">${_esc(n)}</th><td>${_esc(e.val)}</td></tr>`,
+        (e) =>
+          `<tr><th scope="row">${_esc(e.name)}</th><td>${_esc(e.val)}</td></tr>`,
       )
       .join('');
     const table = `<table class="tw-sr-only"><caption>${_esc(modTitle || _locale.tilesAria)}</caption><thead><tr><th scope="col">${_esc(_locale.county)}</th><th scope="col">${_esc(_locale.value)}</th></tr></thead><tbody>${tbody}</tbody></table>`;
-    return `<div class="tw-tiles" role="group" aria-label="${_esc(modTitle || _locale.tilesAria)}">${_title}<div class="tw-tiles-grid">${cells}</div>${scale}${warn}${table}</div>${_src}`;
+    return `<div class="tw-tiles" role="group" aria-label="${_esc(modTitle || _locale.tilesAria)}">${_title}<div class="tw-tiles-grid${anyLong ? ' tw-tiles-grid--long' : ''}">${cells}</div>${scale}${warn}${table}</div>${_src}`;
   }
 
   if (lang === 'tw-iso') {
@@ -1434,12 +1575,15 @@ export function renderVizBlock(
   pageLang: string = 'zh-TW',
 ): string {
   const prev = _locale;
+  const prevLang = _lang;
   _locale =
     VIZ_STRINGS[pageLang as keyof typeof VIZ_STRINGS] ?? VIZ_STRINGS['zh-TW'];
+  _lang = pageLang;
   try {
     return renderTwModule(fence, body);
   } finally {
     _locale = prev;
+    _lang = prevLang;
   }
 }
 
@@ -1663,6 +1807,7 @@ export function renderArticleHtml(
   // 依頁面語言選 renderer UI 字串（見檔頭 i18n 註解與 _locale 的同步假設）
   _locale =
     VIZ_STRINGS[lang as keyof typeof VIZ_STRINGS] ?? VIZ_STRINGS['zh-TW'];
+  _lang = lang;
   // Strip a leading `# Title` heading when it duplicates the frontmatter title
   // — ArticleHero already renders the title as the H1 of the page, and ~40%
   // of zh-TW articles still include `# {Title}` as the first body line. The
