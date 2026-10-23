@@ -29,6 +29,8 @@ export function exportRows() {
     download_url: i.source.download ?? '',
     insight_zh: loc(i.insight, 'zh-TW'),
     insight_en: loc(i.insight, 'en'),
+    why_zh: i.why ? loc(i.why, 'zh-TW') : '',
+    why_en: i.why ? loc(i.why, 'en') : '',
     series: i.series ?? [],
     permalink: `${SITE}/data/#ind-${i.id}`,
   }));
@@ -74,6 +76,8 @@ const CSV_FIELDS = [
   'download_url',
   'insight_zh',
   'insight_en',
+  'why_zh',
+  'why_en',
   'permalink',
 ] as const;
 
