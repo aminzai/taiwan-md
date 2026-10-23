@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-23T10:13:49+08:00",
-    "zhCommitHead": "e34e471ab",
+    "lastUpdated": "2026-10-23T10:14:27+08:00",
+    "zhCommitHead": "d8e03960e",
     "totalZh": 1150,
     "activeLanguages": [
       "en",
@@ -92,8 +92,8 @@
       },
       "ar": {
         "total_zh": 1150,
-        "fresh": 1148,
-        "stale": 1,
+        "fresh": 1149,
+        "stale": 0,
         "metadata_stale": 0,
         "missing": 1,
         "orphan": 0
@@ -21498,18 +21498,18 @@
         "ar": {
           "path": "ar/Economy/taiwan-electricity-pricing-and-taipower.md",
           "translatedFrom": "Economy/台灣電價機制與台電.md",
-          "sourceCommitSha": "75e7f4297",
-          "sourceContentHash": "sha256:873b2d997a90fa55",
-          "sourceBodyHash": "sha256:8a36a5227a1ed4ef",
-          "translatedAt": "2026-10-16T07:57:05+08:00",
+          "sourceCommitSha": "32789bc38",
+          "sourceContentHash": "sha256:aa6da6e0a6abe0a2",
+          "sourceBodyHash": "sha256:4960f809ab64a615",
+          "translatedAt": "2026-10-23T08:48:43+08:00",
           "translationLastCommit": "280af232",
           "translationLastModified": "2026-10-16T09:41:53+08:00",
           "inferred": false,
-          "footnoteDefs": 12,
-          "bytes": 30253,
+          "footnoteDefs": 18,
+          "bytes": 34287,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (18→12)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/taiwan-electricity-pricing-and-taipower.md",
@@ -92676,8 +92676,8 @@
           "sourceContentHash": "sha256:4b665d6e2920264b",
           "sourceBodyHash": "sha256:41e02e02e0fbd229",
           "translatedAt": "2026-10-23T00:49:06.010910+00:00",
-          "translationLastCommit": "892cb4ef",
-          "translationLastModified": "2026-07-27T18:53:04+08:00",
+          "translationLastCommit": "d8e03960",
+          "translationLastModified": "2026-10-23T10:13:49+08:00",
           "inferred": false,
           "footnoteDefs": 31,
           "bytes": 34391,
@@ -131518,8 +131518,8 @@
           "sourceContentHash": "sha256:96851634cab2df15",
           "sourceBodyHash": "sha256:2198acf02b5a4cd9",
           "translatedAt": "2026-10-23T08:42:14+08:00",
-          "translationLastCommit": "77e3ab42",
-          "translationLastModified": "2026-08-04T15:22:15+08:00",
+          "translationLastCommit": "d8e03960",
+          "translationLastModified": "2026-10-23T10:13:49+08:00",
           "inferred": false,
           "footnoteDefs": 1,
           "bytes": 6605,
