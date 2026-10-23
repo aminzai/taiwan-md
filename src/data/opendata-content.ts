@@ -10,7 +10,28 @@
  * 這個檔案只放 Taiwan.md 的策展判斷：怎麼評估、怎麼組合、對應哪些文章。
  */
 
-export type OpendataLang = 'zh-TW' | 'en' | 'ja' | 'ko' | 'es' | 'fr';
+import { OPENDATA_OVERLAYS } from './opendata-overlays';
+
+export type OpendataLang =
+  | 'zh-TW'
+  | 'en'
+  | 'ja'
+  | 'ko'
+  | 'es'
+  | 'fr'
+  | 'vi'
+  | 'id'
+  | 'pt'
+  | 'hi'
+  | 'ar'
+  | 'ru'
+  | 'de';
+
+export type DeepPartial<T> = T extends (infer U)[]
+  ? DeepPartial<U>[]
+  : T extends object
+    ? { [K in keyof T]?: DeepPartial<T[K]> }
+    : T;
 
 interface LinkItem {
   title: string;
@@ -124,9 +145,7 @@ export interface OpendataContent {
   };
 }
 
-export const OPENDATA_CONTENT: Partial<
-  Record<OpendataLang, OpendataContent>
-> & {
+export const OPENDATA_CONTENT: Partial<Record<string, OpendataContent>> & {
   'zh-TW': OpendataContent;
 } = {
   'zh-TW': {
@@ -4366,3 +4385,35 @@ export const OPENDATA_CONTENT: Partial<
     },
   },
 };
+
+// ── 取用入口 ────────────────────────────────────────────────────────────────
+// 六語（zh-TW/en/ja/ko/es/fr）有完整內容；vi/id/pt/hi/ar/ru/de 用「英文底稿 +
+// overlay」：overlay 翻譯最顯眼的部分（hero、各區標題與說明、卡片標題），
+// 其餘（逐項要點、資料集名稱、故事標題）退回英文，絕不退回中文。
+// 陣列按索引逐項合併，所以 overlay 的陣列可以只寫前幾項的部分欄位。
+function deepMerge<T>(base: T, over: DeepPartial<T> | undefined): T {
+  if (over === undefined || over === null) return base;
+  if (Array.isArray(base)) {
+    const o = over as unknown as unknown[];
+    return base.map((b, i) => deepMerge(b, o[i] as never)) as unknown as T;
+  }
+  if (base && typeof base === 'object') {
+    const out: Record<string, unknown> = { ...(base as object) };
+    for (const [k, v] of Object.entries(over as object)) {
+      out[k] = deepMerge(
+        (base as Record<string, unknown>)[k] as never,
+        v as never,
+      );
+    }
+    return out as T;
+  }
+  return over as unknown as T;
+}
+
+export function getOpendataContent(lang: string): OpendataContent {
+  const full = OPENDATA_CONTENT[lang];
+  if (full) return full;
+  const en = OPENDATA_CONTENT.en ?? OPENDATA_CONTENT['zh-TW'];
+  const overlay = OPENDATA_OVERLAYS[lang];
+  return overlay ? deepMerge(en, overlay) : en;
+}
