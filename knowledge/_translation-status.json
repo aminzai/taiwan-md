@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-23T10:28:35+08:00",
-    "zhCommitHead": "e83c91eaa",
+    "lastUpdated": "2026-10-23T10:39:55+08:00",
+    "zhCommitHead": "e244b98b1",
     "totalZh": 1150,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1150,
-        "fresh": 1148,
-        "stale": 1,
+        "fresh": 1149,
+        "stale": 0,
         "metadata_stale": 0,
         "missing": 1,
         "orphan": 0
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1150,
-        "fresh": 1146,
-        "stale": 3,
+        "fresh": 1147,
+        "stale": 2,
         "metadata_stale": 0,
         "missing": 1,
         "orphan": 0
@@ -100,8 +100,8 @@
       },
       "ru": {
         "total_zh": 1150,
-        "fresh": 1148,
-        "stale": 1,
+        "fresh": 1149,
+        "stale": 0,
         "metadata_stale": 0,
         "missing": 1,
         "orphan": 0
@@ -21354,18 +21354,18 @@
         "en": {
           "path": "en/Economy/taiwan-electricity-pricing-and-taipower.md",
           "translatedFrom": "Economy/台灣電價機制與台電.md",
-          "sourceCommitSha": "75e7f4297",
-          "sourceContentHash": "sha256:873b2d997a90fa55",
-          "sourceBodyHash": "sha256:8a36a5227a1ed4ef",
-          "translatedAt": "2026-10-16T00:52:38+08:00",
+          "sourceCommitSha": "32789bc38",
+          "sourceContentHash": "sha256:aa6da6e0a6abe0a2",
+          "sourceBodyHash": "sha256:4960f809ab64a615",
+          "translatedAt": "2026-10-23T10:28:45+08:00",
           "translationLastCommit": "fa605bc0",
           "translationLastModified": "2026-10-16T02:30:00+08:00",
           "inferred": false,
-          "footnoteDefs": 12,
-          "bytes": 19790,
+          "footnoteDefs": 18,
+          "bytes": 22037,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (18→12)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/taiwan-electricity-pricing-and-taipower.md",
@@ -21502,8 +21502,8 @@
           "sourceContentHash": "sha256:aa6da6e0a6abe0a2",
           "sourceBodyHash": "sha256:4960f809ab64a615",
           "translatedAt": "2026-10-23T08:48:43+08:00",
-          "translationLastCommit": "280af232",
-          "translationLastModified": "2026-10-16T09:41:53+08:00",
+          "translationLastCommit": "e244b98b",
+          "translationLastModified": "2026-10-23T10:28:35+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "bytes": 34287,
@@ -92820,8 +92820,8 @@
           "sourceContentHash": "sha256:4b665d6e2920264b",
           "sourceBodyHash": "sha256:41e02e02e0fbd229",
           "translatedAt": "2026-10-23T01:39:37.927217+00:00",
-          "translationLastCommit": "5b0f4129",
-          "translationLastModified": "2026-10-10T23:03:20+08:00",
+          "translationLastCommit": "e244b98b",
+          "translationLastModified": "2026-10-23T10:28:35+08:00",
           "inferred": false,
           "footnoteDefs": 31,
           "bytes": 56318,
@@ -131594,18 +131594,18 @@
         "vi": {
           "path": "vi/People/jody-chiang.md",
           "translatedFrom": "People/江蕙.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:af8cff27f6cadb30",
-          "sourceBodyHash": "sha256:09c26c642594595d",
-          "translatedAt": "2026-09-21T00:58:30+08:00",
+          "sourceCommitSha": "149440f7b",
+          "sourceContentHash": "sha256:96851634cab2df15",
+          "sourceBodyHash": "sha256:2198acf02b5a4cd9",
+          "translatedAt": "2026-10-23T10:28:50+08:00",
           "translationLastCommit": "f7530c3f",
           "translationLastModified": "2026-09-21T05:27:34+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 10919,
+          "footnoteDefs": 1,
+          "bytes": 7979,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (1→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/jody-chiang.md",
@@ -131662,8 +131662,8 @@
           "sourceContentHash": "sha256:96851634cab2df15",
           "sourceBodyHash": "sha256:2198acf02b5a4cd9",
           "translatedAt": "2026-10-23T08:42:23+08:00",
-          "translationLastCommit": "c83310b3",
-          "translationLastModified": "2026-08-04T20:40:39+08:00",
+          "translationLastCommit": "e244b98b",
+          "translationLastModified": "2026-10-23T10:28:35+08:00",
           "inferred": false,
           "footnoteDefs": 1,
           "bytes": 9365,
@@ -131674,18 +131674,18 @@
         "ru": {
           "path": "ru/People/jody-chiang.md",
           "translatedFrom": "People/江蕙.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:af8cff27f6cadb30",
-          "sourceBodyHash": "sha256:09c26c642594595d",
-          "translatedAt": "2026-08-04T17:42:37+08:00",
+          "sourceCommitSha": "149440f7b",
+          "sourceContentHash": "sha256:96851634cab2df15",
+          "sourceBodyHash": "sha256:2198acf02b5a4cd9",
+          "translatedAt": "2026-10-23T10:28:54+08:00",
           "translationLastCommit": "79729a92",
           "translationLastModified": "2026-08-04T21:00:05+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 13302,
+          "footnoteDefs": 1,
+          "bytes": 10382,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (1→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/jody-chiang.md",
