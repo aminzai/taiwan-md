@@ -1,7 +1,7 @@
 # 2026-10-24-005903-twmd-babel-nightly — 續命班：型錄頭一張大數字五語錯、成功國宅被譯成「成功」，兩篇卡住的譯文收下
 
 > session twmd-babel-nightly — 排程觸發，續命班（dispatcher PID 97627 從 10-23 23:26 跑到現在，不重啟）
-> Session span: 00:30 → 01:35 +0800（約 65 分鐘，本班 6 個 commit，不含產線自己的批次 commit）
+> Session span: 00:30 → 02:35 +0800（約 2 小時 5 分，本班 6 個 commit，不含產線自己的批次 commit；後一小時在等新文章十二語翻完）
 > 資料來源：`git log %ai`、`/tmp/babel-unified-20261023-232611-97627/{master.log,report.jsonl}`
 
 ## 觸發
@@ -38,11 +38,11 @@ id 視覺化模組型錄：舊譯把台幣寫成沒有限定詞的 yuan，補丁
 
 | 語言     | 起班 stale／meta／missing | 收班 stale／meta／missing | 備註                                     |
 | -------- | ------------------------- | ------------------------- | ---------------------------------------- |
-| hi       | 3／1／1                   | 2／1／1                   | 22 縣市落地；餘為人翻鯨豚、電價          |
-| id       | 2／3／1                   | 1／3／1                   | 型錄落地；陳幸妤人翻                     |
-| ko       | 1／0／1                   | 1／0／1                   | 陳幸妤送回重翻（本班自己標的）           |
-| de       | 11／4／1                  | 11／4／1                  | 全是人翻藝人條目，#67 不覆蓋             |
-| 其餘八語 | 0-2／0-1／1               | 同                        | 缺的都是〈立法院不分區立委〉，產線翻譯中 |
+| hi       | 3／1／1                   | 2／1／0                   | 22 縣市落地；餘為人翻鯨豚、電價          |
+| id       | 2／3／1                   | 1／3／0                   | 型錄落地；陳幸妤人翻                     |
+| ko       | 1／0／1                   | 1／0／0                   | 陳幸妤 01:24 重翻過、不再缺節；餘為人翻  |
+| de       | 11／4／1                  | 11／4／0                  | 全是人翻藝人條目，#67 不覆蓋             |
+| 其餘八語 | 0-2／0-1／1               | 0-2／0-1／0               | 〈立法院不分區立委〉02:32 十二語全部落地 |
 
 backend：本 run 產線靠 gemma4:26b（地端）與 nemotron 免費池，付費 Haiku 402 停派；委派層 Sonnet 一篇約 12 萬 token。Z6：當班落地兩份逐段對過數字與結構，另以人眼抽讀 id 型錄開頭、中段、結尾。cascade exhausted 名單：無新增（id 型錄由委派層收下）。Stage D 日記：五語各 416 篇，整合性稽核 0 critical。
 
@@ -60,7 +60,7 @@ backend：本 run 產線靠 gemma4:26b（地端）與 nemotron 免費池，付�
 
 繼承 `2026-10-23-015703-twmd-babel-nightly`：
 
-- [x] ~~ko〈陳幸妤〉缺章，`section-parity-check.py --requeue`~~ — retired by 本 session（`9a5b0b0cd`，等產線整篇重翻）
+- [x] ~~ko〈陳幸妤〉缺章，`section-parity-check.py --requeue`~~ — retired by 本 session（`9a5b0b0cd`，01:24 nemotron 整篇重翻，缺節 0）
 - [x] ~~確認送回的七份整篇重翻不再缺節~~ — retired by 本 session（正確路徑重量全數 0）
 - ⏳ blocked（OBSERVER-QUEUE #113 待決，10-30 到期）— 缺章存量（本班量 320 份）與 verify「少一節」升 FAIL
 - [ ] pending（席位：哲宇，經費）— OpenRouter 七把 key 付費餘額歸零，Tier 6 Haiku 每 30 分撞一次 402
@@ -75,7 +75,7 @@ backend：本 run 產線靠 gemma4:26b（地端）與 nemotron 免費池，付�
 
 本 session 新 handoff：
 
-- [ ] pending（席位 `twmd-babel-nightly`，動得了）— 〈立法院不分區立委〉十二語 01:24 起由產線翻譯中，下一班確認 missing 歸零
+- [x] ~~〈立法院不分區立委〉十二語~~ — 本 session 內收下（01:29 en 到 02:32 id，ja／id／ar 各敗一次後重試過閘；十二語 missing 全數歸零，剩下的 stale 全是 #67 人翻）
 - [ ] pending（席位：OBSERVER-QUEUE #101 待決）— 量級檢查對逗號小數點語言與模組區塊大數字無效（LESSONS `headline-number-outside-gate-fingerprint`），改閘門屬 High-stake，跟 #101 一起決定
 - [ ] pending（席位 `twmd-maintainer-daily`）— `reports/babel/human-translation-stale.tsv` 的 de 藝人條目（蔡依林、周杰倫、江蕙、張艾嘉、豬哥亮）中文已刪的幻覺還在德文裡，請投稿者 tboydar 更新
 - [ ] pending（席位 `twmd-babel-nightly`）— `openrouter-model-audit.py` 把 `babel-preflight.py` 的白名單前綴 `nvidia/nemotron-3-ultra-550b` 當成下架模型，是稽核工具的誤報，修稽核那邊
@@ -90,7 +90,7 @@ backend：本 run 產線靠 gemma4:26b（地端）與 nemotron 免費池，付�
 
 ---
 
-_v1.0 | 2026-10-24 01:35 +0800_
+_v1.0 | 2026-10-24 01:35 +0800；02:35 補收班數字_
 _session twmd-babel-nightly — 續命班，dispatcher 已跑兩小時，佇列只剩三篇與人翻存量_
 _誕生原因：拆兩篇反覆失敗的譯文，對讀時撞到型錄大數字五語錯_
 _核心洞察：量級閘門的指紋在逗號小數點語言與短數字上同時失效，而模組大數字兩個條件都中；地名被照字義翻是人名填空型幻覺的地名版。_
