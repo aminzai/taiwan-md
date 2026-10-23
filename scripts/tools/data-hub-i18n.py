@@ -23,7 +23,7 @@ CONTENT_DIR = ROOT / 'data/data-hub/content'
 sys.path.insert(0, str(ROOT / 'scripts' / 'tools' / 'lang-sync'))
 from langs import ALL_TRANSLATION_LANGS  # noqa: E402
 
-LANGS = list(ALL_TRANSLATION_LANGS)
+LANGS = [l for l in ALL_TRANSLATION_LANGS if l != 'en']  # 英文住在 SSOT 與 dataHub.ts
 CJK_OK = {'ja', 'ko'}
 HAN = re.compile(r'[一-鿿]')
 
