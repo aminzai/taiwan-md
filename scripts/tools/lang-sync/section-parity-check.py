@@ -117,6 +117,11 @@ def main() -> int:
     rows = list(scan(langs, args.min_loss))
     if args.paths:
         wanted = {p.lstrip("./") for p in args.paths}
+        # 打錯路徑也會回「缺節 0 份」，跟真的沒缺節長得一模一樣；
+        # 2026-10-24 驗交接時拿錯 slug，差點把沒量到當成量過了。
+        for p in sorted(wanted):
+            if not (REPO / p).is_file():
+                print(f"⚠️ 找不到 {p}——這一份沒有被量，不是沒缺節", file=sys.stderr)
         rows = [r for r in rows if r["path"] in wanted]
 
     for r in rows:
