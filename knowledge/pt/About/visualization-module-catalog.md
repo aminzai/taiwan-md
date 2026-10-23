@@ -43,8 +43,8 @@ O mais simples e mais potente: colocar um número dramático no tamanho máximo,
 
 ```tw-figure
 67 mil → 870 mil / ping
-Preço de venda estocado do Sucesso Guózhái de Taipé em 1985, ao preço médio de corretoras em 2026 — o mesmo endereço, cerca de 13 vezes mais
-Plataforma de corretoras de Registro de Preços Reais (Sucesso Guózhái)
+Preço de venda estocado da Chenggong Habitação Nacional de Taipé em 1985, ao preço médio de corretoras em 2026 — o mesmo endereço, cerca de 13 vezes mais
+Plataforma de corretoras de Registro de Preços Reais (Chenggong Habitação Nacional)
 ```
 
 ## Grupo de dados tw-stat
@@ -115,7 +115,7 @@ Quando uma frase sozinha carrega a tensão central do artigo, amplie-a num cart�
 
 ```tw-quote
 Uma casa de 30 milhões no preço de mercado vira casa de 60 a 70 milhões... roubar dos pobres para dar aos ricos, o Estado gasta dinheiro ajudando gente rica a reconstruir casa
-Lin Chih-chun | Advogado, 2025, criticando proposta "Estado financia renovação urbana do Sucesso Guózhái"
+Lin Chih-chun | Advogado, 2025, criticando proposta "Estado financia renovação urbana da Chenggong Habitação Nacional"
 ```
 
 ## Chip de fonte tw-source

@@ -43,8 +43,8 @@ La más simple y potente: presentar un número dramático en gran tamaño para m
 
 ```tw-figure
 67,000 → 870,000 / ping
-Precio de venta de la vivienda social de Éxito (Cheng-shung) en Taipéi en 1985 frente al precio medio de mercado en 2026: la misma dirección, aproximadamente 13 veces más caro.
-Plataforma de registro de precios reales (Vivienda Social Éxito)
+Precio de venta de la vivienda social Chenggong en Taipéi en 1985 frente al precio medio de mercado en 2026: la misma dirección, aproximadamente 13 veces más caro.
+Plataforma de registro de precios reales (Vivienda Social Chenggong)
 ```
 
 ## Grupo de datos tw-stat
@@ -115,7 +115,7 @@ Cuando una sola frase representa la tensión central de todo un artículo, ampli
 
 ```tw-quote
 Una casa con valor de mercado de 30 millones se convierte en una de 60 a 70 millones... robando a los pobres para beneficiar a los ricos, usando dinero estatal para ayudar a los ricos a remodelar sus casas.
-Lin Chih-chun | Abogado, propuesta de 2025 sobre «uso de fondos estatales para la renovación de la Vivienda Social Éxito»
+Lin Chih-chun | Abogado, propuesta de 2025 sobre «uso de fondos estatales para la renovación de la Vivienda Social Chenggong»
 ```
 
 ## Barra de fuente tw-source

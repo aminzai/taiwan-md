@@ -37,9 +37,9 @@ Die folgenden 19 Module zeigen alles von einfachen „Großzahlen“ bis zu „S
 Einfach und kraftvoll: Eine dramatische Zahl in großem Format, dazu ein Vorher-Nachher-Vergleich. Ideal als „Sledgehammer-Statistik“ am Anfang eines Artikels.
 
 ```tw-figure
-67.000 → 870.000 / m²
-Preis der staatlichen Wohnbautauschung in Taipeh 1985, vs. Durchschnittspreis 2026 — dieselbe Adresse, ca. 13-fach
-Registrierte Immobilienverkäufe (staatlicher Wohnbau)
+67.000 → 870.000 / Ping
+Unverkaufter Zuteilungspreis der Chenggong-Nationalwohnungen in Taipeh 1985 vs. Maklerdurchschnittspreis 2026 — dieselbe Adresse, ca. 13-fach
+Immobilienplattform mit registrierten Realpreisen (Chenggong-Nationalwohnungen)
 ```
 
 ## Datenkarten tw-stat
@@ -110,7 +110,7 @@ Wenn ein Satz die ganze Kernthematik eines Artikels trifft — vergrößern zur 
 
 ```tw-quote
 Ein Haus für 30 Millionen, das jetzt 60–70 Millionen kostet … Reichtum für die Reichen, der Staat zahlt für diejenigen, die schon genug haben
-Lin Chih-chun | Anwalt, 2025 gegen das Vorschlag „Staat finanziert Sanierung der Erfolgswohnungen“
+Lin Chih-chun | Anwalt, 2025 gegen das Vorschlag „Staat finanziert Sanierung der Chenggong-Nationalwohnungen“
 ```
 
 ## Quellenleiste tw-source

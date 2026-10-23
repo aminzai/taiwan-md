@@ -42,7 +42,7 @@ Sembilan belas modul di bawah ini ditampilkan berurutan, dari yang paling sederh
 Jenis yang paling sederhana sekaligus paling kuat: menaruh satu angka dramatis sebesar-besarnya, lalu perbandingan sebelum dan sesudahnya menceritakan satu transformasi. Cocok sebagai «statistik palu godam» yang langsung ke pokok persoalan di pembuka.
 
 ```tw-figure
-6,7 ribu → 87 ribu / ping
+67 ribu → 870 ribu / ping
 Harga jual Perumahan Nasional Chenggong di Taipei yang tak laku pada 1985, hingga harga rata-rata agen properti pada 2026 — alamat yang sama, sekitar 13 kali lipat
 Platform agen properti harga transaksi riil (Perumahan Nasional Chenggong)
 ```
