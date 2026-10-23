@@ -151,6 +151,18 @@
   white-space: nowrap;
   border: 0;
 }
+/* 給螢幕閱讀器與 AI 讀的資料表：表格不吃 width: 1px，寬度至少等於 <caption> 的最小寬度，
+   上面那條 nowrap 讓整句標題不能換行，表格就被撐到幾百 px。視覺上被 clip 掉，但仍算進
+   頁面的可捲動範圍：LTR 頁面手機上往右撐出橫向捲動，阿拉伯文 RTL 頁面桌機也往左撐
+  （2026-10-23 /data 實測：手機 390px 寬撐到 419–704px，/ar/data 桌機 1493／1009）。
+   表格改成可以換行、固定表格版面，寬度就縮回一個字左右；螢幕閱讀器讀表格不受換行影響。 */
+table.tw-sr-only,
+table.tw-sr-only * {
+  white-space: normal;
+}
+table.tw-sr-only {
+  table-layout: fixed;
+}
 
 /* ════════════════════════════ 1. 數據大字 .tw-figure ════════════════════════════ */
 .tw-figure {
