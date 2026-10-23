@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-10-23 06:06
+last_generated: 2026-10-24 06:06
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,13 +12,13 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-10-23 06:06** · 頂層 \*.md 共 **305** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-10-24 06:06** · 頂層 \*.md 共 **306** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
 | Subdir                           | Files | Size     | 用途                                                 |
 | -------------------------------- | ----: | -------- | ---------------------------------------------------- |
-| `research/`                      |   694 | 36.6 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
+| `research/`                      |   712 | 37.2 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
 | `staging/`                       |   283 | 4.6 MB   | —                                                    |
 | `evaluation/`                    |   173 | 4.9 MB   | —                                                    |
 | `editorial-room/`                |   104 | 818.6 KB | —                                                    |
@@ -43,7 +43,7 @@ type: auto-index
 | `translation-research/`          |     5 | 338.0 KB | 巴別塔 5 lang research                               |
 | `music-media-audit/`             |     4 | 115.5 KB | Music 條目 media audit (json + md)                   |
 | `x-mentions/`                    |     3 | 21.3 KB  | —                                                    |
-| `404-monitor/`                   |     2 | 206.8 KB | —                                                    |
+| `404-monitor/`                   |     2 | 214.7 KB | —                                                    |
 | `article-staging/`               |     2 | 104.9 KB | —                                                    |
 | `fork-census/`                   |     2 | 39.3 KB  | —                                                    |
 | `harvest/`                       |     2 | 14.3 KB  | Harvest engine 紀錄                                  |
@@ -108,8 +108,9 @@ type: auto-index
 - `2026-04-13` [ssodt-spore-linkback-plan-2026-04-13](ssodt-spore-linkback-plan-2026-04-13.md)
 - `2026-04-12` [semiont-public-pages-plan-2026-04-12](semiont-public-pages-plan-2026-04-12.md)
 
-### evolution (44)
+### evolution (45)
 
+- `2026-10-23` [design-data-hub-evolution-2026-10-23](design-data-hub-evolution-2026-10-23.md) — 資料台灣 v2：台灣資料策展中樞設計報告
 - `2026-09-07` [rewrite-evolution-evidence-2026-09-07](rewrite-evolution-evidence-2026-09-07.md)
 - `2026-09-07` [rewrite-evolution-plan-2026-09-07](rewrite-evolution-plan-2026-09-07.md)
 - `2026-08-15` [research-report-hygiene-evolution-2026-08-15](research-report-hygiene-evolution-2026-08-15.md)
@@ -400,9 +401,10 @@ type: auto-index
   - `????` [README](README.md)
   - `????` [punct-cleanup-dispatch-prompts](punct-cleanup-dispatch-prompts.md)
 
-### 2026-10 (8 files)
+### 2026-10 (9 files)
 
-- Type breakdown: ops: 5 / audit-routine: 2 / evaluation: 1
+- Type breakdown: ops: 5 / audit-routine: 2 / evolution: 1 / evaluation: 1
+  - `2026-10-23` [design-data-hub-evolution-2026-10-23](design-data-hub-evolution-2026-10-23.md)
   - `2026-10-22` [design-identity-system-2026-10-22](design-identity-system-2026-10-22.md)
   - `2026-10-18` [design-outcome-graded-generation-2026-10-18](design-outcome-graded-generation-2026-10-18.md)
   - `2026-10-18` [evaluation-grader-pilot-2026-10-18](evaluation-grader-pilot-2026-10-18.md)

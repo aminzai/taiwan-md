@@ -1444,17 +1444,6 @@
     "path": "ko/Society/2026-advanced-subjects-test-controversy.md"
   },
   {
-    "title": "22 города и округа Тайваня: разница между самым плотным и самым пустым — 151 раз, между самым молодым и самым старым — целое поколение",
-    "description": "На одном острове население самого плотного города Тайбэя составляет 8975 человек на км², самого редкого округа Тайдун — 59 человек, разница 151 раз. Население Синьбэя (самого большого) — 4,04 млн, Ляньцзяна (самого маленького) — 13,6 тыс., разница 297 раз. Возрастная структура Синьчжу (самый молодой, коэффициент старения 15,08%) и Цзяи (самый старый, 24,11%) отличается на целое поколение. На основе официальных данных Министерства внутренних дел на конец 2025 года рисуем портрет всего острова с масштабом и проверяемостью: 70% населения сосредоточено на 30% суши, старение начинается не в городах, а на востоке, на островах и в сельскохозяйственных округах. Все 22 округа Тайваня без исключения: смертность превышает рождаемость.",
-    "category": "ru",
-    "tags": [],
-    "url": "https://taiwan.md/ru/geography/data-taiwan-22-cities",
-    "readingTime": 89,
-    "featured": false,
-    "date": "2026-06-06",
-    "path": "ru/Geography/data-taiwan-22-cities.md"
-  },
-  {
     "title": "228 की घटना",
     "description": "एक विधवा की तस्करी-विरोधी कार्रवाई की दुकान, कैसे एक द्वीप के 38 वर्षों की चुप्पी को प्रज्वलित किया — 1947 में ताइवान की नियति को बदलने वाले 10 दिन, और 78 वर्षों बाद भी चल रहे घाव",
     "category": "hi",
@@ -8999,12 +8988,12 @@
     "path": "ja/Technology/taiwan-electricity-and-semiconductors.md"
   },
   {
-    "title": "台湾の電価メカニズムと台電：あの12.83%が上がらず、電気代の請求書が711億元の追加予算に変わった",
-    "description": "2026年9月18日の電価費率審議会は、10月から12月の電価据え置きを決議した。台電の今回の検討案では12.83%の値上げが必要とされ、1キロワット時あたり3.7823元から4.2675元への引き上げが想定されていたが、この値上げ幅は12月の第3次審議会に先送りされ、政府による711億元の追加予算配分が優先的に求められることになった。この流れは2017年の公式公告から始まり、2022年の1,500億元増資、2024年の3,826億元の累積赤字を背景とした11%値上げを経て、今年1月から7月の214億元の赤字、通年での711億元超の赤字見込みに至っている。",
+    "title": "台湾の電気料金メカニズムと台電：上がらなかった12.83%、請求書は711億円の追加予算案に",
+    "description": "2026年9月18日の電気料金審議会で、10月から12月の電気料金は据え置きと決定。台電の試算では12.83%の引き上げが必要（1kWhあたり3.7823元から4.2675元へ）だったが、引き上げ幅は保留され、代わりに立法院へ711億円の追加予算を要請。この流れは2017年の公式公告から始まり、2022年の1500億円増資、2024年の3826億円累積赤字での11%値上げ、そして今年前7カ月で214億円の赤字、通年で711億円超の赤字見込みへと続いている。",
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/economy/taiwan-electricity-pricing-and-taipower",
-    "readingTime": 22,
+    "readingTime": 27,
     "featured": false,
     "date": "2026-10-14",
     "path": "ja/Economy/taiwan-electricity-pricing-and-taipower.md"
@@ -13796,7 +13785,7 @@
       "追加預算"
     ],
     "url": "https://taiwan.md/economy/%E5%8F%B0%E7%81%A3%E9%9B%BB%E5%83%B9%E6%A9%9F%E5%88%B6%E8%88%87%E5%8F%B0%E9%9B%BB",
-    "readingTime": 18,
+    "readingTime": 22,
     "featured": false,
     "date": "2026-10-14",
     "path": "Economy/台灣電價機制與台電.md"
@@ -15404,12 +15393,12 @@
     "path": "Nature/生態多樣性.md"
   },
   {
-    "title": "用數據看台灣 22 縣市：最擠和最空差 151 倍，最老和最年輕差一個世代",
-    "description": "同一座島，人口密度最高的臺北市每平方公里 8,975 人，最低的臺東縣只有 59 人，差 151 倍。人口最多的新北市 404 萬，最少的連江縣 1.36 萬，差 297 倍。最年輕的新竹縣高齡化率 15.08%，最老的嘉義縣 24.11%，差將近一個世代。用內政部戶政司 2025 年底的官方數據，替整座島畫一張有刻度、可查證的肖像：七成的人擠在三成的土地，老化的前緣不在都市而在東部、離島與農業縣，而全台 22 個縣市無一例外，死亡都已經多過出生。",
+    "title": "用數據看台灣 22 縣市：最擠和最空差 151 倍，老人和小孩從一比一到將近三比一",
+    "description": "同一座島，臺北市每平方公里 8,975 人，臺東縣只有 59 人，差 151 倍。用內政部戶政司 2025 年底的數據替 22 縣市畫一張可查證的肖像：七成的人擠在三成的土地，長者占比最高的正是最擠的臺北市，老人對小孩比例最高的嘉義縣則將近三比一。22 個縣市無一例外，死亡都已經多過出生。",
     "category": "Geography",
     "tags": [],
     "url": "https://taiwan.md/geography/%E7%94%A8%E6%95%B8%E6%93%9A%E7%9C%8B%E5%8F%B0%E7%81%A322%E7%B8%A3%E5%B8%82",
-    "readingTime": 29,
+    "readingTime": 30,
     "featured": false,
     "date": "2026-06-06",
     "path": "Geography/用數據看台灣22縣市.md"
@@ -15557,6 +15546,28 @@
     "featured": false,
     "date": "2026-08-20",
     "path": "ja/History/shihmen-reservoir.md"
+  },
+  {
+    "title": "立法院不分區立委：110 萬票拿 3 席，35 萬票一席不剩",
+    "description": "2024 年 1 月 13 日開票，時代力量拿到 353,412 張政黨票，一席不分區立委都沒分到，四年前它靠 1,098,100 票拿下 3 席。憲法替 34 席不分區設下 5% 門檻，照比例約 2.94% 就夠一席，落在兩者之間的票不換席次，轉而放大過門檻政黨的比例。釋字第 721 號在 2014 年認定門檻合憲，大法官意見書卻各自拿選舉數字，爭論它究竟擋下了誰。",
+    "category": "Politics",
+    "tags": [],
+    "url": "https://taiwan.md/politics/%E7%AB%8B%E6%B3%95%E9%99%A2%E4%B8%8D%E5%88%86%E5%8D%80%E7%AB%8B%E5%A7%94",
+    "readingTime": 21,
+    "featured": false,
+    "date": "2026-10-23",
+    "path": "Politics/立法院不分區立委.md"
+  },
+  {
+    "title": "立法院の比例代表議員：110万票で3議席、35万票では1議席も得られず",
+    "description": "2024年1月13日の開票結果、時代力量（時代力量）は政党票353,412票を獲得したものの、比例代表議員を1議席も獲得できなかった。4年前には1,098,100票で3議席を獲得していた。憲法は34議席の比例代表に対し5%の阻止条項（門檻）を設けており、単純な比例計算では約2.94%で1議席に相当するが、その間の票は議席に換算されず、阻止条項を突破した政党の割合を拡大させる結果となる。解釈番号第721号は2014年にこの阻止条項を合憲と判断したが、大法官の意見書では、それが実際に誰の議席を奪ったのかについて議論が分かれている。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/politics/party-list-legislators-taiwan",
+    "readingTime": 28,
+    "featured": false,
+    "date": "2026-10-23",
+    "path": "ja/Politics/party-list-legislators-taiwan.md"
   },
   {
     "title": "両庁院：権威の象徴から市民の芸術文化殿堂への転換の道",
@@ -16455,25 +16466,8 @@
     "path": "Art/江賢二.md"
   },
   {
-    "title": "江蕙：北投の硫黄の煙の中から歩み出した台湾語の天后、そして9年間の秘密の闘病",
-    "description": "10歳で北投の酒家で歌い歩き、ミリオンヒットの台湾語歌后となった江蕙。その歌声で台湾庶民文化の地位を書き換えた彼女が、絶頂期に秘密の抗がん闘病のために引退を選んだ。",
-    "category": "ja",
-    "tags": [
-      "江蕙",
-      "台湾語ポップス",
-      "金曲奨",
-      "北投ナカシ",
-      "台湾文化"
-    ],
-    "url": "https://taiwan.md/ja/people/jody-chiang",
-    "readingTime": 11,
-    "featured": false,
-    "date": "2026-03-28",
-    "path": "ja/People/jody-chiang.md"
-  },
-  {
-    "title": "江蕙：從北投硫磺煙中走出的台語天后，與她長達九年的秘密戰爭",
-    "description": "從 10 歲在北投酒家走唱，到創下百萬銷量的台語歌后，江蕙用歌聲改寫了台灣庶民文化的地位，卻在巔峰時因一場秘密的抗癌戰爭選擇封麥。",
+    "title": "江蕙：北投那卡西出身的臺語天后",
+    "description": "江蕙（本名江淑惠，1961 年生於高雄）9 歲隨家人連夜搬到臺北，到北投那卡西走唱。1992 年《酒後的心聲》在臺灣賣出 116 萬張，是官方紀錄中唯一破百萬的臺語專輯。2000 至 2003 年連拿四屆金曲獎臺語女演唱人，2015 年封麥，2024 年在大巨蛋國慶晚會復出。",
     "category": "People",
     "tags": [
       "江蕙",
@@ -16483,10 +16477,27 @@
       "台灣文化"
     ],
     "url": "https://taiwan.md/people/%E6%B1%9F%E8%95%99",
-    "readingTime": 9,
+    "readingTime": 8,
     "featured": false,
     "date": "2026-03-28",
     "path": "People/江蕙.md"
+  },
+  {
+    "title": "江蕙：北投のナカシ出身、台湾語の天后",
+    "description": "江蕙（本名：江淑惠、1961年高雄生まれ）は9歳で家族と夜逃げ同然に台北へ移り、北投のナカシで歌い始めました。1992年の『酒後の心声』は台湾で116万枚を売り上げ、公式記録で唯一のミリオン達成台湾語アルバムとなりました。2000年から2003年にかけて金曲賞台湾語女性歌手賞を4連覇し、2015年に引退、2024年に台北ドームの国慶晩会で復帰しました。",
+    "category": "ja",
+    "tags": [
+      "江蕙",
+      "台湾語ポップス",
+      "金曲賞",
+      "北投ナカシ",
+      "台湾文化"
+    ],
+    "url": "https://taiwan.md/ja/people/jody-chiang",
+    "readingTime": 10,
+    "featured": false,
+    "date": "2026-03-28",
+    "path": "ja/People/jody-chiang.md"
   },
   {
     "title": "池上便当：月台の木片箱から台湾全土の米食の代名詞へ",
@@ -16857,6 +16868,23 @@
     "featured": false,
     "date": "2026-08-16",
     "path": "ja/Society/energy-poverty-and-cooling.md"
+  },
+  {
+    "title": "初めての大統領直接選挙：ミサイルが迫るとき、投票用紙はいかにして台湾の制度となったか",
+    "description": "1996年、台湾で初めて公民による大統領直接選挙が実施され、制度改革、野百合学運、台湾海峡軍事危機が一枚の投票用紙の上で交錯し、民主主義は投票日を超えた制度的生活へと踏み込んだ。",
+    "category": "ja",
+    "tags": [
+      "大統領直接選挙",
+      "民主化",
+      "李登輝",
+      "台湾海峡危機",
+      "選挙"
+    ],
+    "url": "https://taiwan.md/ja/politics/first-direct-presidential-election",
+    "readingTime": 35,
+    "featured": false,
+    "date": "2026-08-15",
+    "path": "ja/Politics/first-direct-presidential-election.md"
   },
   {
     "title": "医療法：機関規制と市場とのせめぎ合いの40年",
@@ -18379,7 +18407,7 @@
   },
   {
     "title": "周杰倫",
-    "description": "害羞的小夥子在選秀節目上彈鋼琴，首張專輯便改寫華語流行音樂的歷史；他以原創曲風讓樂壇相信創作可以賣錢，用多張專輯證明華語音樂能保持東方特色同時征服世界舞台，從屢遭退稿的年輕製作助理，如今已是真正顛覆樂壇的音樂革命者。",
+    "description": "害羞的小夥子在選秀節目上彈鋼琴，首張專輯便改寫華語流行音樂的歷史；他以原創曲風讓樂壇相信創作可以賣錢，用多張專輯證明華語音樂能保持東方特色同時征服世界舞台，從屢遭退稿的年輕創作者，如今已是真正顛覆樂壇的音樂革命者。",
     "category": "People",
     "tags": [
       "人物",
@@ -18391,21 +18419,10 @@
       "中國風"
     ],
     "url": "https://taiwan.md/people/%E5%91%A8%E6%9D%B0%E5%80%AB",
-    "readingTime": 16,
+    "readingTime": 15,
     "featured": false,
     "date": "2026-03-23",
     "path": "People/周杰倫.md"
-  },
-  {
-    "title": "周杰倫（しゅう・けつりん／ジェイ・チョウ）",
-    "description": "恥ずかしがり屋の青年がオーディション番組でピアノを弾き、デビューアルバムで華語ポップスの歴史を塗り替えた。独自の音楽スタイルで「オリジナル楽曲でも売れる」ことを業界に証明し、複数のアルバムで東洋的特色を保ちながら世界の舞台を制覇。幾度も却下された若手制作アシスタントから、真に楽壇を覆した音楽革命家へと成長した。",
-    "category": "ja",
-    "tags": [],
-    "url": "https://taiwan.md/ja/people/jay-chou",
-    "readingTime": 21,
-    "featured": false,
-    "date": "2026-03-23",
-    "path": "ja/People/jay-chou.md"
   },
   {
     "title": "周蕙：25年にわたり〈約定〉を歌い続けた女性歌手、漫画の人形から台北アリーナまでの長距離走",
@@ -23582,8 +23599,8 @@
     "path": "People/張艾嘉.md"
   },
   {
-    "title": "張艾嘉：嘉義から出発し、『童年』のオリジナル歌手から『相愛相親』の監督へ",
-    "description": "1953年に嘉義市で生まれた張艾嘉は、17歳で『夢中人』により芸能界に入りました。『童年』（羅大佑が1981年に作曲）は彼女の歌であり、『愛的代價』（李宗盛が1992年に作曲）は彼女の最も広く知られる代表作です。1986年には『最愛』で金馬奨最優秀主演女優賞を受賞し、2017年には『相愛相親』で金馬奨最優秀監督賞と最優秀オリジナル脚本賞にノミネートされました。俳優、監督、歌手という三つの立場を五十年以上にわたり横断してきました。",
+    "title": "張艾嘉（Sylvia Chang、1953年生）、16歳でラジオDJ、17歳で歌手・司会、1972年初映画、1976年『碧雲天』で金馬奨最優秀助演女優賞、1981年『私の祖父』、1986年『最愛』、2022年『燈火闌珊』で三度の金馬奨最優秀主演女優賞。1981年初監督作『某年某月某一天』、以降16作品を監督。歌手・俳優・監督の三軸で50年以上活動。",
+    "description": "張艾嘉（Sylvia Chang、1953年生）は、16歳でラジオDJ、17歳で歌手・司会者としてデビュー、1972年に初映画出演、1976年『碧雲天』で金馬奨最優秀助演女優賞、1981年『私の祖父』、1986年『最愛』、2022年『燈火闌珊』で三度の金馬奨最優秀主演女優賞を受賞。1981年初監督作『某年某月某一天』以降16作品を監督し、歌手・俳優・監督の三軸で50年以上活動を続ける。",
     "category": "ja",
     "tags": [
       "映画",
@@ -23593,7 +23610,7 @@
       "脚本家"
     ],
     "url": "https://taiwan.md/ja/people/sylvia-chang",
-    "readingTime": 17,
+    "readingTime": 21,
     "featured": false,
     "date": "2026-03-19",
     "path": "ja/People/sylvia-chang.md"
@@ -24232,23 +24249,6 @@
     "path": "ja/Art/li-poetry-society.md"
   },
   {
-    "title": "第一次総統直選：ミサイルが迫る中、選票が台湾の制度となるまで",
-    "description": "1996年、台湾は民間人による総統の初直選を行った。民主改革、野百合学運、台湾海危機が一枚の選票に集結し、民主主義は投票日を超えて制度的生活へと進展した。",
-    "category": "ja",
-    "tags": [
-      "総統直選",
-      "民主化",
-      "リー・ドンーシー",
-      "台湾海危機",
-      "選挙"
-    ],
-    "url": "https://taiwan.md/ja/politics/first-direct-presidential-election",
-    "readingTime": 36,
-    "featured": false,
-    "date": "2026-08-15",
-    "path": "ja/Politics/first-direct-presidential-election.md"
-  },
-  {
     "title": "第一次總統直選：飛彈逼近時，選票如何成為台灣的制度",
     "description": "1996 年台灣首次以公民直選總統，制度改革、野百合學運與台海軍事危機在同一張選票上交會，民主因此進入投票日之外的制度生活。",
     "category": "Politics",
@@ -24260,7 +24260,7 @@
       "選舉"
     ],
     "url": "https://taiwan.md/politics/%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%B8%BD%E7%B5%B1%E7%9B%B4%E9%81%B8",
-    "readingTime": 27,
+    "readingTime": 28,
     "featured": false,
     "date": "2026-08-15",
     "path": "Politics/第一次總統直選.md"
@@ -30081,7 +30081,7 @@
   },
   {
     "title": "蔡依林",
-    "description": "不是天才的天后——被舞蹈老師說「不是跳舞的料」，二十五年後成為金曲獎史上獲獎最多的唱跳歌手",
+    "description": "1998 年拿下《新聲卡位戰》歌唱組冠軍，之後以專輯與巡迴累積成華語流行天后；〈玫瑰少年〉讓她三度拿下金曲年度歌曲",
     "category": "People",
     "tags": [
       "人物",
@@ -30092,18 +30092,25 @@
       "金曲獎"
     ],
     "url": "https://taiwan.md/people/%E8%94%A1%E4%BE%9D%E6%9E%97",
-    "readingTime": 14,
+    "readingTime": 4,
     "featured": false,
     "date": "2026-03-24",
     "path": "People/蔡依林.md"
   },
   {
-    "title": "蔡依林",
-    "description": "天才ではない天后――ダンスの先生から「踊るのは向いていない」と言われたが、25年後には金曲獎（ゴールデンメロディ賞）史上最も受賞回数の多い歌って踊る歌手となった",
+    "title": "蔡依林（さい・いりん／ツァイ・イーリン）",
+    "description": "1998 年『新声カ位戦』歌唱部門で優勝、その後アルバムとツアーを重ね中華圏のポップ・ディーバの地位を確立。『玫瑰少年』で三度目となる金曲奨年度歌曲賞を受賞。",
     "category": "ja",
-    "tags": [],
+    "tags": [
+      "人物",
+      "歌手",
+      "芸能界",
+      "LGBTQ+権利",
+      "ポップ音楽",
+      "金曲奨"
+    ],
     "url": "https://taiwan.md/ja/people/jolin-tsai",
-    "readingTime": 18,
+    "readingTime": 6,
     "featured": false,
     "date": "2026-03-24",
     "path": "ja/People/jolin-tsai.md"
@@ -31449,7 +31456,7 @@
   },
   {
     "title": "蕭敬騰",
-    "description": "2007年，一位餐廳駐唱歌手被安排參加《超級星光大道》踢館賽，三場演出創下收視新高，從此改寫華語樂壇。他是第一個以踢館選手身分拿下金曲歌王的藝人，也是每次演出總會下雨、被全台灣叫作「雨神」的男人，用歌聲與話題性，寫下從踢館魔王到歌王的傳奇。",
+    "description": "17 歲起在民歌餐廳駐唱，2007 年因《超級星光大道》踢館單元爆紅，2008 年發行首張專輯。2013 年以《以愛之名》拿下金曲獎最佳國語男歌手，之後也在樂團、影視與兩岸舞台上發展。",
     "category": "People",
     "tags": [
       "音樂",
@@ -31460,25 +31467,25 @@
       "雨神"
     ],
     "url": "https://taiwan.md/people/%E8%95%AD%E6%95%AC%E9%A8%B0",
-    "readingTime": 15,
+    "readingTime": 6,
     "featured": false,
     "date": "2026-03-23",
     "path": "People/蕭敬騰.md"
   },
   {
-    "title": "蕭敬騰（シャオ・ジンテン）",
-    "description": "2007年、レストランの駐唱歌手だった彼が『超級星光大道』の挑戦枠に参加し、3回のパフォーマンスで視聴率を記録。華語音楽界の歴史を塗り替えた。挑戦者として初の金曲歌王（最優秀歌手賞）を受賞し、「雨神」として知られる伝説的なアーティストである。",
+    "title": "蕭敬騰（しょう・けいきん／ジャム・シャオ）",
+    "description": "17歳から民謡レストランでレジデントシンガーとして活動し、2007年に『超級星光大道』の挑戦者コーナーでブレイク、2008年にデビューアルバムをリリース。2013年に『以愛之名』で金曲奨最優秀国語男性歌手賞を受賞し、その後バンド、映像作品、中台の舞台で活躍。",
     "category": "ja",
     "tags": [
       "音楽",
-      "ポップミュージック",
+      "ポップス",
       "ジャズ",
       "超級星光大道",
-      "金曲獎",
+      "金曲奨",
       "雨神"
     ],
     "url": "https://taiwan.md/ja/people/jam-hsiao",
-    "readingTime": 22,
+    "readingTime": 7,
     "featured": false,
     "date": "2026-03-23",
     "path": "ja/People/jam-hsiao.md"
@@ -32930,19 +32937,12 @@
     "path": "Politics/議員制度.md"
   },
   {
-    "title": "議員制度：なぜ立法委員と異なるのか、SNTVが地方政治に残り続けた30年",
-    "description": "2008年に立法委員が単一選挙区二票制に変更されたのと同じ年に、県市議員選挙は依然として1980年代のSNTV旧制度を使用していました — 同じ国、同じ有権者、同じ選挙公報上の異なるポジションでありながら、まったく異なる2つのゲームルールが適用されていました。これはバグではなく、台湾の選挙制度改革史上最大の未完の事業であり、その背景には地方派閥、政党利益、関連コストが絡んでいます。2つの制度がどのように機能するか、なぜ一方が変わって他方が変わらなかったのか、小党と多様な代表性にとって何を意味するかを解き明かす制度マップです。",
+    "title": "議員制度：なぜ立法委員とは異なるのか、SNTVが地方政治に残り続けた30年",
+    "description": "2008年に立法委員の選挙制度が小選挙区比例代表並立制に変更されましたが、同年の市町村議会議員選挙では依然として1980年代のSNTV（単記移譲式投票）旧制が採用されています。同じ国、同じ有権者、同じ投票用紙上の異なる役職でありながら、全く異なる2つのルールが運用されているのです。これは単なるミスではなく、台湾の選挙制度改革史における最大の未完の課題であり、その背後には地方派閥、政党の利益、そして制度変更に伴うコストが絡み合っています。本記事では、2つの制度がどのように機能しているのか、なぜ一方は変わり、もう一方は変わらなかったのか、そしてそれが小政党や多様な代表性にどのような意味を持つのかを解き明かす制度マップを提供します。",
     "category": "ja",
-    "tags": [
-      "議員",
-      "選舉制度",
-      "SNTV",
-      "單一選區兩票制",
-      "立法委員",
-      "2026選舉"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ja/politics/city-councilor-system-taiwan",
-    "readingTime": 49,
+    "readingTime": 55,
     "featured": false,
     "date": "2026-05-27",
     "path": "ja/Politics/city-councilor-system-taiwan.md"
@@ -33918,7 +33918,7 @@
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/politics/first-direct-presidential-election",
-    "readingTime": 89,
+    "readingTime": 92,
     "featured": false,
     "date": "2026-08-15",
     "path": "pt/Politics/first-direct-presidential-election.md"
@@ -35980,6 +35980,17 @@
     "featured": false,
     "date": "2026-10-19",
     "path": "id/Politics/central-government-general-budget.md"
+  },
+  {
+    "title": "Anggota Legislatif Tidak Terikat Daerah Pemilihan: 1,1 Juta Suara Raih 3 Kursi, 350 Ribu Suara Tidak Dapat Satu Pun",
+    "description": "Pada 13 Januari 2024, Era Kekuatan memperoleh 353.412 suara partai namun tidak mendapatkan kursi legislatif tidak terikat daerah pemilihan, sedangkan empat tahun sebelumnya partai yang sama meraih 3 kursi dengan 1.098.100 suara. Konstitusi menetapkan ambang batas 5% untuk 34 kursi tidak terikat daerah pemilihan, sedangkan proporsionalnya sekitar 2,94% sudah cukup untuk satu kursi; suara di antara keduanya tidak dikonversi menjadi kursi, justru memperbesar proporsi partai yang lolos ambang batas. Putusan Mahkamah Konstitusi Nomor 721 Tahun 2014 menyatakan ambang batas tersebut konstitusional, namun para hakim konstitusi dalam opini mereka masing-masing menggunakan data pemilu untuk berdebat siapa yang sebenarnya diblokir oleh ambang batas tersebut.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/politics/party-list-legislators-taiwan",
+    "readingTime": 66,
+    "featured": false,
+    "date": "2026-10-23",
+    "path": "id/Politics/party-list-legislators-taiwan.md"
   },
   {
     "title": "Anggrek Taiwan: Bagaimana Sekuntum Bunga Menjadi Komoditas Ekspor dalam Rantai Pasok Global",
@@ -38640,17 +38651,6 @@
     "featured": false,
     "date": "2026-04-30",
     "path": "pt/Society/poisoned-potato-cognitive-warfare-taiwan.md"
-  },
-  {
-    "title": "Bầu cử tổng thống lần đầu tiên trực tiếp: Lá phiếu trở thành thể chế khi tên lửa đang áp sát Đài Loan",
-    "description": "Năm 1996, Đài Loan lần đầu tiến hành bầu cử tổng thống trực tiếp bằng sự lựa chọn của công dân; cải cách thể chế, phong trào Hoa Cúc và khủng hoảng quân sự eo biển Đài Loan giao thoa trên cùng một lá phiếu, đưa nền dân chủ bước vào đời sống thể chế ngoài ngày bỏ phiếu.",
-    "category": "vi",
-    "tags": [],
-    "url": "https://taiwan.md/vi/politics/first-direct-presidential-election",
-    "readingTime": 63,
-    "featured": false,
-    "date": "2026-08-15",
-    "path": "vi/Politics/first-direct-presidential-election.md"
   },
   {
     "title": "Bầu cử và chính trị đảng phái Đài Loan",
@@ -41745,7 +41745,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/about/visualization-module-catalog",
-    "readingTime": 64,
+    "readingTime": 65,
     "featured": false,
     "date": "2026-06-06",
     "path": "es/About/visualization-module-catalog.md"
@@ -42140,6 +42140,23 @@
     "featured": false,
     "date": "2026-10-18",
     "path": "vi/Art/postwar-taiwan-modernist-architects.md"
+  },
+  {
+    "title": "Chang Ai-chia",
+    "description": "Chang Ai-chia (Sylvia Chang, née en 1953), DJ à 16 ans et chanteuse-animatrice à 17 ans, elle tourne son premier film en 1972. Elle a remporté trois fois le Golden Horse pour la meilleure actrice (1981, 1986, 2022) et réalise seize œuvres tout en menant de front des carrières de chanteuse, d'actrice et de réalisatrice depuis plus de cinquante ans.",
+    "category": "fr",
+    "tags": [
+      "Cinéma",
+      "Réalisation",
+      "Actrice",
+      "Chanteuse",
+      "Scénariste"
+    ],
+    "url": "https://taiwan.md/fr/people/sylvia-chang",
+    "readingTime": 46,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "fr/People/sylvia-chang.md"
   },
   {
     "title": "Chang Chih-chi : de SimpleInfo à shasha77, un « curateur d'informations » en quête de dialogue à l'ère de la polarisation",
@@ -46256,11 +46273,11 @@
   },
   {
     "title": "Chu Kiệt Luân",
-    "description": "Chàng trai nhút nhát ngồi chơi piano trên sân khấu chương trình tuyển chọn, album đầu tay đã viết lại lịch sử nhạc pop tiếng Hoa; anh dùng phong cách sáng tác độc đáo khiến làng nhạc tin rằng sáng tác có thể bán được tiền, qua nhiều album chứng minh nhạc tiếng Hoa có thể giữ đặc sắc phương Đông đồng thời chinh phục sân khấu thế giới, từ một trợ lý sản xuất trẻ tuổi liên tục bị từ chối bài demo, nay đã trở thành một nhà cách mạng âm nhạc thực sự lật đổ làng nhạc.",
+    "description": "Một chàng trai nhút nhát chơi piano trên chương trình tuyển chọn, album đầu tay đã viết lại lịch sử nhạc pop tiếng Hoa; anh ấy nhờ phong cách sáng tác độc đáo khiến làng nhạc tin rằng sáng tác có thể mang lại thu nhập, dùng nhiều album chứng minh nhạc tiếng Hoa có thể giữ nguyên đặc sắc phương Đông đồng thời chinh phục sân khấu thế giới, từ một người trẻ sáng tác bài viết liên tục bị từ chối, nay đã trở thành một nhà cách mạng âm nhạc thực sự lật đổ làng nhạc.",
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/people/jay-chou",
-    "readingTime": 48,
+    "readingTime": 45,
     "featured": false,
     "date": "2026-03-23",
     "path": "vi/People/jay-chou.md"
@@ -48629,6 +48646,17 @@
     "path": "vi/Lifestyle/utility-poles-and-transformer-boxes.md"
   },
   {
+    "title": "Councilor System: Why It Differs from Legislators, SNTV's 30 Years in Local Politics",
+    "description": "In 2008, legislators switched to a single-member district two-vote system, yet that same year's county and city councilor elections still used the 1980s SNTV system — same country, same voters, different offices on the same ballot, but two completely different rule sets. This isn't a bug; it's the biggest unfinished business in Taiwan's electoral reform history, bound up with local factions, party interests, and transition costs. A dissection of how the two systems operate, why one reformed while the other didn't, and what it means for small parties and diverse representation — a map of the systems.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/politics/city-councilor-system-taiwan",
+    "readingTime": 126,
+    "featured": false,
+    "date": "2026-05-27",
+    "path": "en/Politics/city-councilor-system-taiwan.md"
+  },
+  {
     "title": "Coutumes du premier mois : de l'appel aux aigles aux coffrets de célébration, l'évolution séculaire de la culture parentale à Taïwan",
     "description": "En 2026, les cadeaux de naissance à Taïwan sont devenus des pâtisseries françaises raffinées ou des biscuits caritatifs, mais ils cachent une histoire culturelle mouvementée. Des rituels de tonsure aux traditions Hakka, découvrez comment l'éducation est passée d'un modèle familial à un modèle social.",
     "category": "fr",
@@ -49734,6 +49762,17 @@
     "featured": false,
     "date": "2026-05-27",
     "path": "vi/Politics/nine-in-one-elections-explained.md"
+  },
+  {
+    "title": "Cuộc bầu cử Tổng thống trực tiếp đầu tiên: Khi tên lửa áp sát, lá phiếu đã trở thành thể chế của Đài Loan như thế nào",
+    "description": "Năm 1996, Đài Loan lần đầu tiên bầu cử Tổng thống theo hình thức dân cử trực tiếp; cuộc cải cách thể chế, phong trào học sinh Dã Bách Hợp và khủng hoảng quân sự eo biển Đài Loan đã cùng hội tụ trên một lá phiếu, đưa nền dân chủ bước vào đời sống thể chế ngoài ngày bỏ phiếu.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/politics/first-direct-presidential-election",
+    "readingTime": 93,
+    "featured": false,
+    "date": "2026-08-15",
+    "path": "vi/Politics/first-direct-presidential-election.md"
   },
   {
     "title": "Cuộc biến động vị giác của các thương hiệu quốc tế tại Đài Loan: Từ súp ngô nóng của McDonald's đến sự bám rễ địa phương của Prosperity Plaza",
@@ -51187,6 +51226,17 @@
     "path": "de/Geography/national-scenic-area-system.md"
   },
   {
+    "title": "Das System der Stadträte: Warum sich das SNTV-System in der Lokalpolitik seit 30 Jahren von den Parlamentswahlen unterscheidet",
+    "description": "Im Jahr 2008 wurde für die Wahlen zum Legislativ-Yuan auf das Mehrheitswahlrecht mit zwei Stimmen (Single-Member District Two-Vote System) umgestellt, während die Kommunalwahlen im selben Jahr weiterhin nach dem alten SNTV-System der 1980er Jahre durchgeführt wurden. Derselbe Staat, dieselben Wähler und unterschiedliche Ämter auf demselben Stimmzettel – doch zwei völlig verschiedene Spielregeln. Dies ist kein Fehler, sondern eine der größten unvollendeten Aufgaben in der Geschichte der Wahlrechtsreform in Taiwan, hinter der lokale Fraktionen, Parteinteressen und die Kosten für Begleitmaßnahmen stehen. Eine Analyse der Funktionsweise beider Systeme, warum das eine reformiert wurde und das andere nicht, sowie der Auswirkungen auf Kleinstparteien und die repräsentative Vielfalt.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/politics/city-councilor-system-taiwan",
+    "readingTime": 161,
+    "featured": false,
+    "date": "2026-05-27",
+    "path": "de/Politics/city-councilor-system-taiwan.md"
+  },
+  {
     "title": "Das unsichtbare Taiwan: Ein Dokumentarfilm über Geistmediumschaft und die Versöhnungszeremonie, auf die er traf",
     "description": "Der 2018 uraufgeführte Film „Das unsichtbare Taiwan\" ist das erste abendfüllendes Dokumentarwerk des Drehbuchautors Lin Ming-chien. Er wollte ursprünglich nur Geistmediumschaft dokumentieren, doch am ersten Drehtag stoppten die Gottheiten ihn mit „Schnitt!\" und forderten ihn auf, erst seine Familienangelegenheiten zu regeln. Vier Jahre später folgt die Kamera vier weiblichen Medien und einem Übersetzer der „Himmelssprache\" zum Luerhmen-Flussmund in Tainan, wo sie eine unerwartete Versöhnungszeremonie zwischen Zheng Chenggong und dem Siraya-Volk abhielten. 118 Minuten, 1,1 Millionen NT$ Einspieler in Taipeh – ein Dokument der zeitgenössischen taiwanesischen Volksreligion.",
     "category": "de",
@@ -51873,6 +51923,28 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "es/People/deng-yu-xian-taiwanese-song-composer.md"
+  },
+  {
+    "title": "Deputados de Lista de Partido no Legislativo: 1,1 milhão de votos garantiram 3 assentos; 350 mil votos não garantiram nenhum",
+    "description": "Na apuração de 13 de janeiro de 2024, o New Power Party obteve 353.412 votos de partido e não conquistou nenhum assento de lista, após ter obtido 3 assentos com 1.098.100 votos quatro anos atrás. A Constituição estabelece um limiar de 5% para os 34 assentos de lista; proporcionalmente, bastariam cerca de 2,94% para um assento, mas os votos entre esses dois valores não são convertidos em assentos, aumentando a proporção dos partidos que superam o limiar. A Interpretação nº 721 declarou o limiar constitucional em 2014, mas os pareceres dos juízes do Tribunal Constitucional divergem sobre quem ele efetivamente excluiu.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/politics/party-list-legislators-taiwan",
+    "readingTime": 64,
+    "featured": false,
+    "date": "2026-10-23",
+    "path": "pt/Politics/party-list-legislators-taiwan.md"
+  },
+  {
+    "title": "Députés at-large du Yuan législatif : 1,10 million de voix pour 3 sièges, 350 000 voix et pas un siège",
+    "description": "Le 13 janvier 2024, le New Power Party obtient 353 412 voix de parti sans remporter aucun siège at-large ; quatre ans plus tôt, il en avait obtenu 3 avec 1 098 100 voix. La Constitution fixe un seuil de 5 % pour les 34 sièges at-large, alors qu'environ 2,94 % suffiraient proportionnellement pour un siège ; les voix entre les deux sont exclues, gonflant la part des partis ayant franchi le seuil. L'Interprétation n° 721 du Conseil des grands juges a validé ce seuil en 2014, mais les opinions concordantes et discordantes s'opposent sur le nombre de voix qu'il a réellement bloquées.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/politics/party-list-legislators-taiwan",
+    "readingTime": 64,
+    "featured": false,
+    "date": "2026-10-23",
+    "path": "fr/Politics/party-list-legislators-taiwan.md"
   },
   {
     "title": "Der „Ba-Sie“-Hochwasser (1959): Wie die Flut das Zuhause und die Nation in Taiwan neu schrieb",
@@ -53199,12 +53271,12 @@
     "path": "de/Music/taiwan-rock-from-underground-to-mainstream.md"
   },
   {
-    "title": "Die erste direkte Präsidentschaftswahl: Wie die Wahlstimme zu einem System in der Nähe von Raketen wurde",
-    "description": "Bei der ersten direkten Präsidentschaftswahl Taiwans im Jahr 1996 kollidierten Systemreform, die Wildblumen-Bewegung und die Taiwanstraße-Krise auf demselben Wahlschein; die Demokratie trat so in ein Systemleben außerhalb des Wahlkampfs ein.",
+    "title": "Die erste Direktwahl des Präsidenten: Wie die Stimmzettel zum System Taiwans wurden, als die Raketen näher kamen",
+    "description": "1996 wählte Taiwan erstmals den Präsidenten durch Bürgerdirektwahl; Institutionelle Reformen, die Wild-Lily-Studentenbewegung und die militärische Krise in der Taiwanstraße trafen auf derselben Stimmzettel.",
     "category": "de",
     "tags": [],
     "url": "https://taiwan.md/de/politics/first-direct-presidential-election",
-    "readingTime": 80,
+    "readingTime": 96,
     "featured": false,
     "date": "2026-08-15",
     "path": "de/Politics/first-direct-presidential-election.md"
@@ -54407,6 +54479,17 @@
     "featured": false,
     "date": "2026-08-23",
     "path": "vi/History/taichung-prefectural-hall.md"
+  },
+  {
+    "title": "Diputados de lista de partido en el Legislativo: 1,1 millones de votos para 3 escaños, 350.000 votos sin un solo escaño",
+    "description": "En el recuento del 13 de enero de 2024, el New Power Party obtuvo 353.412 votos de partido y no consiguió ningún escaño de lista, tras haber obtenido 3 escaños con 1.098.100 votos hace cuatro años. La Constitución establece un umbral del 5% para los 34 escaños de lista; proporcionalmente, un 2,94% bastaría para un escaño, pero los votos entre ambos valores no se convierten en escaños, aumentando la proporción de los partidos que superan el umbral. La Interpretación n.º 721 declaró constitucional este umbral en 2014, aunque los magistrados del Tribunal Constitucional debatieron con sus propios datos sobre a quién bloqueaba realmente.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/politics/party-list-legislators-taiwan",
+    "readingTime": 67,
+    "featured": false,
+    "date": "2026-10-23",
+    "path": "es/Politics/party-list-legislators-taiwan.md"
   },
   {
     "title": "Direitos humanos e igualdade de gênero",
@@ -57062,6 +57145,17 @@
     "path": "es/Lifestyle/taiwan-mahjong-and-celebrity-shortage.md"
   },
   {
+    "title": "El mecanismo de precios eléctricos en Taiwán y Taipower: ese 12,83 % no subió; la factura se convirtió en un presupuesto adicional de NT$71.100 millones",
+    "description": "En la sesión del comité de tarifas eléctricas del 18 de septiembre de 2026, se decidió no ajustar los precios de octubre a diciembre. El ajuste propuesto por Taipower era del 12,83 %, pero se pospuso para solicitar un presupuesto adicional de NT$71.100 millones al Legislativo.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/economy/taiwan-electricity-pricing-and-taipower",
+    "readingTime": 75,
+    "featured": false,
+    "date": "2026-10-14",
+    "path": "es/Economy/taiwan-electricity-pricing-and-taipower.md"
+  },
+  {
     "title": "El Metro de Taichung: una línea verde que tardó 30 años en ser creída",
     "description": "En noviembre de 2020, Lu Siuyan anunció el inicio de las operaciones de prueba de la primera línea de metro de Taichung. La línea verde de 16,7 km conecta Beitun, la estación de alta velocidad de Taichung y 18 estaciones, pero se detuvo al sexto día por una falla en el acoplador y luego sufrió un accidente con la caída de un brazo de grúa en una obra. La historia del metro de Taichung no es solo cómo se completó una vía, sino cómo una ciudad dependiente del automóvil y la motocicleta recuperó la confianza de los pasajeros mediante la seguridad, la intermodalidad y correcciones sucesivas.",
     "category": "es",
@@ -57436,24 +57530,6 @@
     "featured": false,
     "date": "2026-06-25",
     "path": "es/Lifestyle/taiwan-bus-system.md"
-  },
-  {
-    "title": "El sistema de concejales: por qué es diferente al de los legisladores y los 30 años del SNTV en la política local",
-    "description": "En 2008 los legisladores pasaron al sistema de distrito único con dos votos, pero las elecciones de concejales de ese mismo año siguieron usando el antiguo sistema SNTV de los años 80 — mismo país, mismo electorado, distintos cargos en la misma papeleta, pero con dos conjuntos de reglas completamente diferentes. No es un error de software, es la mayor tarea inconclusa en la historia de la reforma electoral de Taiwán, atada a intereses de facciones locales, beneficios partidistas y costos de implementación. Un mapa del sistema que desmonta cómo funcionan ambos regímenes, por qué uno cambió y el otro no, y qué significa para los partidos pequeños y la representación plural.",
-    "category": "es",
-    "tags": [
-      "議員",
-      "選舉制度",
-      "SNTV",
-      "單一選區兩票制",
-      "立法委員",
-      "2026選舉"
-    ],
-    "url": "https://taiwan.md/es/politics/city-councilor-system-taiwan",
-    "readingTime": 144,
-    "featured": false,
-    "date": "2026-05-27",
-    "path": "es/Politics/city-councilor-system-taiwan.md"
   },
   {
     "title": "El sistema de referéndum de Taiwán: escrito en la Constitución en 1947, esperó 56 años para tener una ley",
@@ -62004,12 +62080,12 @@
     "path": "vi/Art/chiang-hsien-yi.md"
   },
   {
-    "title": "Giang Huệ: Thiên hậu Đài ngữ bước ra từ khói lưu huỳnh Bắc Đầu, và cuộc chiến bí mật kéo dài chín năm của bà",
-    "description": "Từ việc hát rong ở các quán rượu Bắc Đầu năm 10 tuổi đến ngôi sao ca nhạc Đài ngữ bán được hàng triệu bản, Giang Huệ đã viết lại vị thế văn hóa dân gian Đài Loan bằng tiếng hát, nhưng lại chọn cách \"ngừng hát\" trong giai đoạn đỉnh cao vì một cuộc chiến chống ung thư bí mật.",
+    "title": "Giang Huệ: Thiên hậu nhạc Đài ngữ xuất thân từ Nakasi Beitou",
+    "description": "Giang Huệ (tên thật Giang Thục Huệ, sinh năm 1961 tại Cao Hùng) đã cùng gia đình chuyển đến Đài Bắc vào năm 9 tuổi và bắt đầu hát rong tại các quán Nakasi ở Beitou. Năm 1992, album \"Tiếng lòng sau cơn say\" đạt doanh số 1,16 triệu bản tại Đài Loan, là album nhạc Đài ngữ duy nhất vượt mốc triệu bản theo ghi chép chính thức. Bà giành giải Nữ ca sĩ xuất sắc nhất tại Giải Kim Khúc bốn năm liên tiếp từ 2000 đến 2003, tuyên bố ngừng hát vào năm 2015 và tái xuất trong đêm nhạc Quốc khánh tại Đại Cự Đàm năm 2024.",
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/people/jody-chiang",
-    "readingTime": 29,
+    "readingTime": 22,
     "featured": false,
     "date": "2026-03-28",
     "path": "vi/People/jody-chiang.md"
@@ -63891,17 +63967,6 @@
     "path": "vi/Lifestyle/transportation-system.md"
   },
   {
-    "title": "Hệ thống Hội viên: Tại sao khác với Đại biểu Quốc hội, SNTV tồn tại trong chính trị địa phương 30 năm",
-    "description": "Năm 2008, Đại biểu Quốc hội chuyển sang Hệ thống Một khu vực Hai phiếu, nhưng cùng năm đó, bầu cử Hội đồng thành phố vẫn sử dụng hệ thống SNTV từ những năm 1980 — cùng một quốc gia, cùng một nhóm cử tri, cùng một lá phiếu bầu nhưng hai bộ quy tắc trò chơi hoàn toàn khác nhau. Đây không phải lỗi kỹ thuật, mà là kết quả của cải cách chế độ dự định dừng giữa chừng. Phía sau là các lực lượng địa phương, lợi ích của hai đảng lớn với cấu trúc SNTV, chi phí cải cách liên quan cao, khó đạt được sự đồng thuận đa đảng — cũng là sự bất hoàn chỉ được đánh giá thấp nhất trên con đường dân chủ hóa sâu sắc của Đài Loan. Một bài viết phân tích hai hệ thống hoạt động như thế nào, tại sao một bên thay đổi và bên kia không thay đổi, nó có ý nghĩa gì đối với các đảng nhỏ và tính đa dạng trong đại diện — một bản đồ chế độ.",
-    "category": "vi",
-    "tags": [],
-    "url": "https://taiwan.md/vi/politics/city-councilor-system-taiwan",
-    "readingTime": 125,
-    "featured": false,
-    "date": "2026-05-27",
-    "path": "vi/Politics/city-councilor-system-taiwan.md"
-  },
-  {
     "title": "Hệ thống khu cảnh quan quốc gia của Đài Loan",
     "description": "Một thí nghiệm ưu tiên du lịch dưới nhãn \"cấp quốc gia\": 13 khu cảnh quan cách bằng cây cầu giữa bảo vệ và phát triển",
     "category": "vi",
@@ -63911,6 +63976,17 @@
     "featured": true,
     "date": "2026-03-23",
     "path": "vi/Geography/national-scenic-area-system.md"
+  },
+  {
+    "title": "Hệ thống nghị sĩ: Tại sao khác với lập pháp ủy viên, SNTV tồn tại trong chính trị địa phương 30 năm",
+    "description": "Năm 2008, lập pháp ủy viên chuyển sang chế độ một circonscription hai phiếu, nhưng cuộc bầu cử nghị sĩ huyện/thành phố cùng năm vẫn áp dụng chế độ SNTV cũ từ thập niên 1980 — cùng một quốc gia, cùng một nhóm cử tri, các vị trí khác nhau trên cùng một phiếu bầu, lại áp dụng hai bộ quy tắc chơi hoàn toàn khác nhau. Điều này không phải là lỗi, mà là việc chưa hoàn thành lớn nhất trong lịch sử cải cách chế độ bầu cử của Đài Loan, phía sau gắn liền với phe phái địa phương, lợi ích đảng phái, chi phí đi kèm. Một bài phân tích hai chế độ hoạt động như thế nào, tại sao một bên cải cách một bên không, và bản đồ chế độ về ý nghĩa đối với đảng nhỏ và đại diện đa nguyên.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/politics/city-councilor-system-taiwan",
+    "readingTime": 121,
+    "featured": false,
+    "date": "2026-05-27",
+    "path": "vi/Politics/city-councilor-system-taiwan.md"
   },
   {
     "title": "Hệ thống nhóm độ tuổi của người Amis: Đặt tên cho thời đại qua chế độ bản ngã",
@@ -65940,17 +66016,6 @@
     "path": "de/People/hsiao-bi-khim.md"
   },
   {
-    "title": "Hsiao Ching-teng",
-    "description": "En 2007, un cantante residente de restaurante fue invitado a participar en el concurso de \"desafiantes\" de *Super Star Avenue*, y sus tres actuaciones batieron récords de audiencia, reescribiendo la escena musical en mandarín. Fue el primer artista en ganar el premio al Mejor Cantante Masculino de los Golden Melody Awards como concursante desafiante, y el hombre al que todo Taiwán llama \"Dios de la Lluvia\" porque llueve en cada uno de sus conciertos; con su voz y su capacidad de generar conversación, escribió la leyenda del \"rey de los desafiantes\" al rey de la canción.",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/people/jam-hsiao",
-    "readingTime": 46,
-    "featured": false,
-    "date": "2026-03-23",
-    "path": "es/People/jam-hsiao.md"
-  },
-  {
     "title": "Hsiao Ching-yang",
     "description": "Grammy winner for Best Recording Package; a representative figure of Taiwanese design on the world stage who achieved victory through a father-daughter collaboration.",
     "category": "en",
@@ -66004,6 +66069,17 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "pt/People/xiao-qing-yang-grammy-designer.md"
+  },
+  {
+    "title": "Hsiao Jing-teng (蕭敬騰)",
+    "description": "Começou a cantar em restaurantes de música folclórica aos 17 anos e tornou-se uma estrela em 2007 com o programa \"Super Star Avenue\". Venceu o Golden Melody Award de Melhor Cantor de Mandarim em 2013.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/people/jam-hsiao",
+    "readingTime": 17,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "pt/People/jam-hsiao.md"
   },
   {
     "title": "Hsiao Shang-nung: Dari PM Game ke Pendiri INSIDE, 'Pak RT' Komunitas Internet Taiwan",
@@ -69370,69 +69446,58 @@
   },
   {
     "title": "Jam Hsiao",
-    "description": "In 2007, a restaurant singer appeared on \"Super Star Avenue\" as a challenger, setting viewership records and rewriting the Mandopop landscape. He was the first artist to win a Golden Melody Award for Best Mandarin Male Singer after appearing as a challenger, and is known across Taiwan as the \"Rain God.\"",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/people/jam-hsiao",
-    "readingTime": 48,
-    "featured": false,
-    "date": "2026-03-23",
-    "path": "en/People/jam-hsiao.md"
-  },
-  {
-    "title": "Jam Hsiao",
-    "description": "En 2007, un chanteur de restaurant participe à l'émission « Super Star Avenue », devient une sensation et redéfinit la scène Mandopop. Premier candidat de défi à remporter le titre de Meilleur Artiste Masculin aux Golden Melody Awards, il est aussi surnommé le « Dieu de la Pluie ».",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/people/jam-hsiao",
-    "readingTime": 54,
-    "featured": false,
-    "date": "2026-03-23",
-    "path": "fr/People/jam-hsiao.md"
-  },
-  {
-    "title": "Jam Hsiao",
-    "description": "Pada tahun 2007, seorang penyanyi kafe dijadwalkan untuk berpartisipasi dalam kompetisi tantangan di ajang \"Super Star Avenue\". Tiga penampilannya berhasil mencetak rekor rating tertinggi, yang sejak saat itu mengubah peta musik Mandarin. Ia adalah artis pertama yang memenangkan gelar Best Male Mandarin Singer di Golden Melody Awards sebagai peserta tantangan, dan juga pria yang selalu diikuti hujan setiap kali tampil, sehingga dijuluki sebagai \"Dewa Hujan\" oleh seluruh Taiwan. Melalui suara dan daya tarik publiknya, ia menuliskan legenda dari seorang penantang tangguh menjadi raja musik.",
-    "category": "id",
-    "tags": [],
-    "url": "https://taiwan.md/id/people/jam-hsiao",
-    "readingTime": 41,
-    "featured": false,
-    "date": "2026-03-23",
-    "path": "id/People/jam-hsiao.md"
-  },
-  {
-    "title": "Jam Hsiao",
-    "description": "Em 2007, um cantor de bares foi escalado para participar das rodadas de desafio do programa \"Super Star Avenue\". Com três apresentações que bateram recordes de audiência, ele redefiniu o cenário da música Mandopop. Ele foi o primeiro artista a conquistar o título de Rei do Álbum do Ano no Golden Melody Awards como um competidor desafiante, e também é o homem conhecido em toda Taiwan como o \"Deus da Chuva\", pois sempre chove durante suas apresentações. Com sua voz e carisma, ele escreveu uma lenda que vai de um desafiante temido a um rei da música.",
-    "category": "pt",
-    "tags": [],
-    "url": "https://taiwan.md/pt/people/jam-hsiao",
-    "readingTime": 43,
-    "featured": false,
-    "date": "2026-03-23",
-    "path": "pt/People/jam-hsiao.md"
-  },
-  {
-    "title": "Jam Hsiao (蕭敬騰)",
-    "description": "Im Jahr 2007 wurde ein Restaurant-Sänger für die „Challenge“-Runde von „Super Star Avenue“ ausgewählt; seine drei Auftritte brachten Rekordquoten und veränderten die Mandopop-Szene. Er war der erste Künstler, der als Herausforderer den Golden Melody Award als bester männlicher Sänger gewann, und ist der Mann, der in Taiwan als „Regengott“ bekannt ist, da es bei jedem seiner Auftritte regnet.",
+    "description": "Ab 17 Jahren sang er in Folk-Restaurants, 2007 wurde er durch den Challenge-Segment von „Super Star Avenue“ bekannt, 2008 veröffentlichte er sein erstes Album. 2013 gewann er mit „To Love“ den Golden Melody Award für den besten männlichen Mandarin-Sänger, danach entwickelte er sich auch in Band, Film/TV und auf Bühnen auf beiden Seiten der Taiwanstraße.",
     "category": "de",
     "tags": [],
     "url": "https://taiwan.md/de/people/jam-hsiao",
-    "readingTime": 55,
+    "readingTime": 16,
     "featured": false,
     "date": "2026-03-23",
     "path": "de/People/jam-hsiao.md"
   },
   {
-    "title": "Jam Hsiao (Tiêu Kính Đằng)",
-    "description": "Năm 2007, một ca sĩ phòng trà tham gia chương trình \"Super Star Avenue\" đã tạo nên cơn sốt truyền hình và thay đổi diện mạo làng nhạc Hoa ngữ. Anh là nghệ sĩ đầu tiên giành giải Kim Khúc Ca Vương với tư cách thí sinh thách đấu, đồng thời được mệnh danh là \"Vũ Thần\" (Thần Mưa) vì mỗi lần biểu diễn đều có mưa rơi.",
-    "category": "vi",
+    "title": "Jam Hsiao",
+    "description": "Started performing in folk song restaurants at 17, rose to fame via Super Star Avenue in 2007, and released his debut album in 2008. Won Golden Melody Award for Best Mandarin Male Singer in 2013, later expanding into bands, film, and Cross-Strait stages.",
+    "category": "en",
     "tags": [],
-    "url": "https://taiwan.md/vi/people/jam-hsiao",
-    "readingTime": 53,
+    "url": "https://taiwan.md/en/people/jam-hsiao",
+    "readingTime": 16,
     "featured": false,
     "date": "2026-03-23",
-    "path": "vi/People/jam-hsiao.md"
+    "path": "en/People/jam-hsiao.md"
+  },
+  {
+    "title": "Jam Hsiao (蕭敬騰)",
+    "description": "Cantó en restaurantes de música folk desde los 17 años y saltó a la fama en 2007 con \"Super Star Avenue\". Ganó el Golden Melody Award al Mejor Artista Masculino de Mandarín en 2013.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/people/jam-hsiao",
+    "readingTime": 18,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "es/People/jam-hsiao.md"
+  },
+  {
+    "title": "Jam Hsiao (蕭敬騰)",
+    "description": "Chanteur ayant débuté à 17 ans dans les restaurants de chansons populaires, il est devenu célèbre en 2007 via « Super Star Avenue » et a remporté le Golden Melody Award en 2013.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/people/jam-hsiao",
+    "readingTime": 18,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "fr/People/jam-hsiao.md"
+  },
+  {
+    "title": "Jam Hsiao (蕭敬騰)",
+    "description": "Mulai bernyanyi di restoran lagu rakyat sejak usia 17 tahun, menjadi populer melalui segmen tantangan di \"Super Star Avenue\" pada tahun 2007, dan merilis album pertama pada tahun 2008. Pada tahun 2013, ia memenangkan Penghargaan Golden Melody untuk Penyanyi Pria Mandarin Terbaik lewat lagu \"In the Name of Love\", kemudian mengembangkan kariernya melalui band, film, televisi, serta panggung lintas selat.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/people/jam-hsiao",
+    "readingTime": 18,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "id/People/jam-hsiao.md"
   },
   {
     "title": "Jamie Lin: Pencarian Taiwan Sebelum Google Tiba",
@@ -69540,55 +69605,55 @@
   },
   {
     "title": "Jay Chou",
-    "description": "A shy young man playing piano on a talent show, his debut album rewrote the history of Mandopop; through original styles, he proved creativity could be profitable and that Mandopop could conquer the world while maintaining Eastern characteristics.",
+    "description": "A shy young man playing the piano on a talent show, his debut album rewrote the history of Mandopop. Through his original musical style, he proved to the music industry that songwriting could be commercially successful. With multiple albums, he demonstrated that Mandopop can maintain its Eastern identity while conquering the global stage. From a young creator whose manuscripts were repeatedly rejected, he has become a true musical revolutionary who disrupted the entire industry.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/people/jay-chou",
-    "readingTime": 46,
+    "readingTime": 44,
     "featured": false,
     "date": "2026-03-23",
     "path": "en/People/jay-chou.md"
   },
   {
     "title": "Jay Chou",
-    "description": "Un chico tímido toca el piano en un programa de talentos y su primer álbum reescribe la historia del pop en mandarín; con su estilo original hizo creer a la industria que la autoría vende, y con múltiples discos demostró que la música en mandarín puede mantener su esencia oriental mientras conquista el escenario mundial, pasando de joven asistente de producción rechazado una y otra vez a auténtico revolucionario musical.",
+    "description": "Un joven tímido que tocaba el piano en un programa de talentos, cuyo primer álbum reescribió la historia del pop en chino; con su estilo original, demostró a la industria musical que la composición propia podía ser rentable, y a través de múltiples álbumes probó que la música china puede mantener su esencia oriental y al mismo tiempo conquistar los escenarios mundiales. De ser un joven compositor cuyos manuscritos eran rechazados constantemente, se ha convertido en un verdadero revolucionario musical que ha transformado la industria.",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/people/jay-chou",
-    "readingTime": 43,
+    "readingTime": 42,
     "featured": false,
     "date": "2026-03-23",
     "path": "es/People/jay-chou.md"
   },
   {
     "title": "Jay Chou",
-    "description": "Un jeune homme timide jouant du piano dans une émission de télé-crochet, son premier album a réécrit l'histoire de la pop mandarine ; avec son style original, il a prouvé que la création pouvait être rentable et conquérir le monde tout en préservant les caractéristiques orientales.",
+    "description": "Ce jeune homme timide jouait du piano lors d'un concours de talents, et son premier album a réécrit l'histoire de la musique pop mandarine. Grâce à son style original, il a prouvé à l'industrie musicale que la création peut être rentable, et avec ses nombreux albums, il a démontré que la musique chinoise peut conserver ses caractéristiques orientales tout en conquérant la scène mondiale. De jeune créateur dont les manuscrits étaient souvent rejetés, il est devenu un véritable révolutionnaire de la musique qui bouleverse l'industrie.",
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/people/jay-chou",
-    "readingTime": 51,
+    "readingTime": 48,
     "featured": false,
     "date": "2026-03-23",
     "path": "fr/People/jay-chou.md"
   },
   {
-    "title": "Jay Chou (周杰倫)",
-    "description": "Pemuda pemalu yang bermain piano di acara pencarian bakat ini mengubah sejarah musik pop Mandarin melalui album pertamanya; dengan gaya orisinal, ia membuktikan bahwa kreativitas dapat bernilai komersial dan membawa musik Tionghoa ke panggung dunia.",
+    "title": "Jay Chou",
+    "description": "Seorang pemuda pemalu yang bermain piano di acara pencarian bakat, album pertamanya langsung mengubah sejarah musik pop Mandarin; melalui gaya musik orisinalnya, ia meyakinkan industri musik bahwa karya ciptaan sendiri dapat bernilai komersial, dan melalui berbagai albumnya, ia membuktikan bahwa musik Mandarin dapat mempertahankan karakteristik Timur sekaligus menaklukkan panggung dunia. Dari seorang kreator muda yang sering ditolak naskahnya, kini ia telah menjadi revolusioner musik yang benar-benar mengubah lanskap industri musik.",
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/people/jay-chou",
-    "readingTime": 50,
+    "readingTime": 47,
     "featured": false,
     "date": "2026-03-23",
     "path": "id/People/jay-chou.md"
   },
   {
-    "title": "Jay Chou (周杰倫)",
-    "description": "Um jovem tímido que tocava piano em programas de talentos e, com seu primeiro álbum, reescreveu a história do pop em língua chinesa; ele provou ao mercado que a originalidade é lucrativa e que a música chinesa pode conquistar o mundo mantendo sua essência oriental.",
+    "title": "Jay Chou",
+    "description": "Um jovem tímido que tocava piano em programas de talentos, ele reescreveu a história do Mandopop com seu primeiro álbum. Com seu estilo original, ele provou à indústria musical que composições autorais podem ser comercialmente bem-sucedidas; através de múltiplos álbuns, demonstrou que a música de língua chinesa pode manter suas características orientais e, ao mesmo tempo, conquistar o palco mundial. De um jovem compositor cujas obras eram constantemente rejeitadas, ele se tornou um verdadeiro revolucionário musical que transformou a indústria.",
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/people/jay-chou",
-    "readingTime": 47,
+    "readingTime": 45,
     "featured": false,
     "date": "2026-03-23",
     "path": "pt/People/jay-chou.md"
@@ -69975,26 +70040,15 @@
     "path": "fr/Art/chiang-hsien-yi.md"
   },
   {
-    "title": "Jiang Hui (江蕙): La diva del taiwanés que emergió de las nieblas de azufre de Beitou y su secreta batalla de nueve años",
-    "description": "De cantar en las tabernas de Beitou a los 10 años a convertirse en la reina del pop taiwanés con millones de ventas, Jiang Hui redefinió la cultura popular de Taiwán, pero decidió retirarse en la cima debido a una lucha secreta contra el cáncer.",
-    "category": "es",
+    "title": "Jiang Hui: a rainha do taiwanês nascida no nakashi de Beitou",
+    "description": "Jiang Hui (nome de nascimento Jiang Shuhui, nascida em 1961 em Kaohsiung) mudou-se com a família para Taipé aos 9 anos, indo cantar em casas de nakashi em Beitou. Em 1992, \"A Voz do Coração Após o Álcool\" vendeu 1,16 milhão de cópias em Taiwan, sendo o único álbum em taiwanês a ultrapassar um milhão nos registros oficiais. De 2000 a 2003, ganhou quatro Prémios Golden Melody consecutivos de melhor cantora em dialeto/taiwanês, aposentou-se em 2015 e retornou em 2024 no show do Dia Nacional no Taipei Dome.",
+    "category": "pt",
     "tags": [],
-    "url": "https://taiwan.md/es/people/jody-chiang",
-    "readingTime": 31,
+    "url": "https://taiwan.md/pt/people/jody-chiang",
+    "readingTime": 21,
     "featured": false,
     "date": "2026-03-28",
-    "path": "es/People/jody-chiang.md"
-  },
-  {
-    "title": "Jiang Hui: Dari Asap Belerang Beitou Lahirnya Ratu Pop Bahasa Taiwan, dan Perang Rahasianya yang Berlangsung Sembilan Tahun",
-    "description": "Dari menyanyi di rumah makan Beitou sejak usia 10 tahun, hingga menjadi ratu pop bahasa Taiwan dengan penjualan jutaan, Jiang Hui mengubah status budaya rakyat Taiwan lewat suaranya, namun di puncak karier memilih pensiun karena perang rahasia melawan kanker.",
-    "category": "id",
-    "tags": [],
-    "url": "https://taiwan.md/id/people/jody-chiang",
-    "readingTime": 26,
-    "featured": false,
-    "date": "2026-03-28",
-    "path": "id/People/jody-chiang.md"
+    "path": "pt/People/jody-chiang.md"
   },
   {
     "title": "Jiang Wei-shui: O Médico que Diagnosticou a Patologia Colonial através do \"Conferência Clínica\"",
@@ -70627,12 +70681,12 @@
     "path": "ja/People/jj-lin-singaporean-mandopop-king.md"
   },
   {
-    "title": "Jody Chiang : la diva du Hokkien sortie des brumes de soufre de Beitou, et sa guerre secrète de neuf ans",
-    "description": "De ses débuts à 10 ans dans les maisons de thé de Beitou à son statut de reine de la chanson taïwanaise aux millions d'albums vendus, Jody Chiang a redéfini la culture populaire de Taïwan, avant de se retirer au sommet de sa gloire pour mener un combat secret contre le cancer.",
+    "title": "Jody Chiang : l'icône du Hokkien issue des cabarets Nakasi de Beitou",
+    "description": "Jody Chiang (née Chiang Shu-hui en 1961 à Kaohsiung) a déménagé à Taipei à 9 ans pour chanter dans les cabarets Nakasi de Beitou. Son album « Les voix après l'ivresse » (1992) est le seul album en Hokkien à avoir dépassé le million d'exemplaires vendus à Taïwan. Après quatre Golden Melody Awards consécutifs entre 2000 et 2003, elle a pris sa retraite en 2015 avant de revenir sur scène lors du gala de la fête nationale au Taipei Dome en 2024.",
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/people/jody-chiang",
-    "readingTime": 32,
+    "readingTime": 24,
     "featured": false,
     "date": "2026-03-28",
     "path": "fr/People/jody-chiang.md"
@@ -70649,23 +70703,34 @@
     "path": "de/People/jody-chiang.md"
   },
   {
-    "title": "Jody Chiang: Da fumaça de enxofre de Peitou surge a rainha do pop taiwanês, e sua guerra secreta de nove anos",
-    "description": "Aos 10 anos, cantando em casas de chá de Peitou, até se tornar a rainha do pop taiwanês com vendas de um milhão, Jody Chiang reescreveu o status da cultura popular de Taiwan com sua voz, mas no auge escolheu se aposentar devido a uma batalha secreta contra o câncer.",
-    "category": "pt",
+    "title": "Jody Chiang: Diva Lagu Taiwan yang Berasal dari Nakasi Beitou",
+    "description": "Jody Chiang (nama asli Jiang Shu-hui, lahir tahun 1961 di Kaohsiung) pindah ke Taipei pada usia 9 tahun dan mulai bernyanyi di Nakasi Beitou. Album \"Voices After Drinking\" (1992) terjual 1,16 juta kopi di Taiwan, satu-satunya album lagu Taiwan yang melampaui angka satu juta dalam catatan resmi. Ia memenangkan Golden Melody Awards untuk Penyanyi Wanita Terbaik kategori bahasa daerah selama empat kali berturut-turut (2000–2003), pensiun pada 2015, dan kembali tampil pada perayaan Hari Nasional di Taipei Dome tahun 2024.",
+    "category": "id",
     "tags": [],
-    "url": "https://taiwan.md/pt/people/jody-chiang",
-    "readingTime": 28,
+    "url": "https://taiwan.md/id/people/jody-chiang",
+    "readingTime": 24,
     "featured": false,
     "date": "2026-03-28",
-    "path": "pt/People/jody-chiang.md"
+    "path": "id/People/jody-chiang.md"
   },
   {
-    "title": "Jody Chiang: The Tâi-gí Diva Who Emerged from the Sulfur Mists of Beitou, and Her Nine-Year Secret War",
-    "description": "From performing in Beitou tea houses at age 10 to becoming a multi-million selling diva, Jody Chiang redefined the status of Taiwanese folk culture, only to choose retirement at her peak due to a secret battle with cancer.",
+    "title": "Jody Chiang: La reina del taiwanés surgida de los Nakasi de Beitou",
+    "description": "Jody Chiang (nombre real Chiang Shu-hui, nacida en 1961 en Kaohsiung) se mudó a Taipéi a los 9 años y comenzó su carrera cantando en los locales Nakasi de Beitou. En 1992, su álbum \"Voz del corazón tras el alcohol\" vendió 1,16 millones de copias en Taiwán, siendo el único álbum en taiwanés que ha superado el millón según registros oficiales. Ganó cuatro veces consecutivas el premio a la Mejor Cantante Femen Prevista en los Golden Melody Awards entre 2000 y 2003; se retiró en 2015 y regresó en 2024 durante la gala del Día Nacional en el Taipei Dome.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/people/jody-chiang",
+    "readingTime": 24,
+    "featured": false,
+    "date": "2026-03-28",
+    "path": "es/People/jody-chiang.md"
+  },
+  {
+    "title": "Jody Chiang: The Taiwanese Pop Queen from Beitou Nakasi",
+    "description": "Jody Chiang (born Jiang Shu-hui, 1961 in Kaohsiung) moved to Taipei at age nine to perform in Beitou''s *nakasi* venues. Her 1992 album \"Voices After Drinking\" sold 1.16 million copies in Taiwan, the only million-selling Taiwanese-language album on record. After winning four consecutive Golden Melody Awards for Best Female Mandarin/Dialect Singer (2000–2003), she retired in 2015 and made a comeback at the Taipei Dome National Day Gala in 2024.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/people/jody-chiang",
-    "readingTime": 28,
+    "readingTime": 22,
     "featured": false,
     "date": "2026-03-28",
     "path": "en/People/jody-chiang.md"
@@ -70826,58 +70891,58 @@
   },
   {
     "title": "Jolin Tsai",
-    "description": "La reina del pop que no era genio: la profesora de baile que dijo que \"no servía para bailar\" y que veinticinco años después se convirtió en la artista de canto y baile con más premios en la historia de los Premios Golden Melody",
+    "description": "Winner of the 1998 \"New Voice Battle\" singing competition, she became a Mandopop queen through successive albums and tours; \"Rose Boy\" earned her three Golden Melody Awards for Song of the Year.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/people/jolin-tsai",
+    "readingTime": 11,
+    "featured": false,
+    "date": "2026-03-24",
+    "path": "en/People/jolin-tsai.md"
+  },
+  {
+    "title": "Jolin Tsai",
+    "description": "En 1998 ganó el primer puesto en la categoría de canto del «New Voice Singing Competition», y posteriormente se consolidó como la reina del pop mandopop mediante álbumes y giras; «Rose Boy» le valió su tercer premio a la Canción del Año en los Golden Melody Awards.",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/people/jolin-tsai",
-    "readingTime": 45,
+    "readingTime": 11,
     "featured": false,
     "date": "2026-03-24",
     "path": "es/People/jolin-tsai.md"
   },
   {
-    "title": "Jolin Tsai",
-    "description": "La reine qui n'était pas un génie — après que son professeur de danse lui a dit qu'elle « n'était pas faite pour danser », elle est devenue, vingt-cinq ans plus tard, l'artiste de variétés ayant remporté le plus de Golden Melody Awards.",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/people/jolin-tsai",
-    "readingTime": 46,
-    "featured": false,
-    "date": "2026-03-24",
-    "path": "fr/People/jolin-tsai.md"
-  },
-  {
-    "title": "Jolin Tsai",
-    "description": "Bukan diva berbakat—dikatakan oleh guru tari \"bukan bahan untuk menari\", dua puluh lima tahun kemudian menjadi penyanyi bernyanyi sambil menari paling banyak penghargaan dalam sejarah Anugerah Emas",
+    "title": "Jolin Tsai (蔡依林)",
+    "description": "Juara kategori vokal \"New Voice Battle\" tahun 1998, yang kemudian menjadi diva pop Mandopop melalui album dan tur konser; lagu 〈Rose Boy〉 membawanya memenangkan Lagu Terbaik Golden Melody Awards sebanyak tiga kali.",
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/people/jolin-tsai",
-    "readingTime": 39,
+    "readingTime": 12,
     "featured": false,
     "date": "2026-03-24",
     "path": "id/People/jolin-tsai.md"
   },
   {
-    "title": "Jolin Tsai",
-    "description": "Não é uma diva genial — a professora de dança disse que ela \"não tinha jeito para dançar\"; vinte e cinco anos depois, tornou-se a cantora de canto e dança mais premiada da história dos Golden Melody Awards",
+    "title": "Jolin Tsai (蔡依林)",
+    "description": "Vencedora do campeonato de canto em 1998, tornou-se uma diva do pop mandarim através de seus álbuns e turnês; \"Rose Boy\" rendeu-lhe o terceiro prêmio de Canção do Ano no Golden Melody Awards.",
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/people/jolin-tsai",
-    "readingTime": 42,
+    "readingTime": 12,
     "featured": false,
     "date": "2026-03-24",
     "path": "pt/People/jolin-tsai.md"
   },
   {
-    "title": "Jolin Tsai (蔡依林): Taiwanese Pop Queen — Career, Age, and Rise to Stardom",
-    "description": "Born 1980 in Taipei, Jolin Tsai debuted at 19 and became Asia's most spectacular live performer. From a dance instructor saying she had no talent to aerial rings 10 meters above the stage — her 25-year career proves discipline defeats genius. Full biography and discography.",
-    "category": "en",
+    "title": "Jolin Tsai (Tsai Yi-lin)",
+    "description": "Championne de « New Voice Battle » en 1998, elle est devenue une icône de la pop mandarine grâce à ses albums et tournées ; 〈Rose Boy〉 lui a valu trois prix de la chanson de l'année aux Golden Melody Awards.",
+    "category": "fr",
     "tags": [],
-    "url": "https://taiwan.md/en/people/jolin-tsai",
-    "readingTime": 31,
+    "url": "https://taiwan.md/fr/people/jolin-tsai",
+    "readingTime": 12,
     "featured": false,
     "date": "2026-03-24",
-    "path": "en/People/jolin-tsai.md"
+    "path": "fr/People/jolin-tsai.md"
   },
   {
     "title": "Jonathan Lee: After Writing Others' Innermost Thoughts in Plain Speech, Only in Hill Did He Finally Speak of Himself",
@@ -71711,11 +71776,11 @@
   },
   {
     "title": "Katalog Modul Visualisasi: Sembilan Belas Cara Melihat Data Taiwan",
-    "description": "Contoh langsung modul visualisasi artikel Taiwan.md — menggunakan data nyata perumahan, kependudukan, kesehatan, dan parlemen Taiwan, merender setiap jenis modul visual tw-* sekali, dipadukan dengan sintaksis dan prinsip desain graph.md.",
+    "description": "Contoh hidup modul visualisasi artikel Taiwan.md — dengan data nyata perumahan, kependudukan, kesehatan, dan parlemen Taiwan, setiap modul visual tw-* dirender satu kali, lengkap dengan sintaksis dan prinsip desain dari graph.md.",
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/about/visualization-module-catalog",
-    "readingTime": 60,
+    "readingTime": 63,
     "featured": false,
     "date": "2026-06-06",
     "path": "id/About/visualization-module-catalog.md"
@@ -79113,17 +79178,6 @@
     "path": "fr/Politics/village-chief-system.md"
   },
   {
-    "title": "Le système des conseillers municipaux : pourquoi il diffère des législateurs, et les 30 ans du SNTV dans la politique locale",
-    "description": "En 2008, l'élection des législateurs a adopté le scrutin uninominal majoritaire à deux tours, tandis que l'élection des conseillers municipaux de la même année a conservé le système SNTV datant des années 1980 — un même pays, un même électorat, des fonctions différentes sur le même bulletin de vote, mais deux ensembles de règles du jeu complètement distincts. Ce n'est pas un bug, c'est la plus grande affaire inachevée de l'histoire de la réforme électorale à Taiwan, liée aux factions locales, aux intérêts des partis et aux coûts d'accompagnement. Une carte institutionnelle détaillant le fonctionnement des deux systèmes, pourquoi l'un a été réformé et pas l'autre, et ce que cela signifie pour les petits partis et la représentation pluraliste.",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/politics/city-councilor-system-taiwan",
-    "readingTime": 154,
-    "featured": false,
-    "date": "2026-05-27",
-    "path": "fr/Politics/city-councilor-system-taiwan.md"
-  },
-  {
     "title": "Le système des parcs nationaux de Taïwan",
     "description": "Une expérimentation prioritaire sous l’étiquette « national » : comment 13 sites de beauté traversent la corde entre protection et développement",
     "category": "fr",
@@ -79945,6 +79999,17 @@
     "featured": false,
     "date": "2026-04-25",
     "path": "fr/Technology/tale-of-wuxia-pre-sequel.md"
+  },
+  {
+    "title": "Legislative Yuan At-Large Seats: 1.1 Million Votes Yielded 3 Seats, 350,000 Votes Left with Zero",
+    "description": "On January 13, 2024, the New Power Party received 353,412 party votes but failed to secure a single at-large seat, compared to three seats won four years ago with 1,098,100 votes. The Constitution sets a 5% threshold for the 34 at-large seats; while approximately 2.94% would suffice for one seat under proportional calculation, votes falling between these two figures are discarded, effectively increasing the proportion of parties that pass the threshold. In 2014, Constitutional Court Interpretation No. 721 ruled this threshold constitutional, though justices' opinions clashed over exactly whom it excluded.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/politics/party-list-legislators-taiwan",
+    "readingTime": 62,
+    "featured": false,
+    "date": "2026-10-23",
+    "path": "en/Politics/party-list-legislators-taiwan.md"
   },
   {
     "title": "Lei cha: como uma tigela de chá doce transformou a dieta de imigrantes do pós-guerra no cartão de visita de Beipu",
@@ -86120,6 +86185,17 @@
     "path": "pt/Food/mai-dang-le-burger.md"
   },
   {
+    "title": "Mécanisme de tarification de l'électricité à Taïwan et Taipower : ces 12,83 % qui n'ont pas augmenté, la facture remplacée par un budget supplémentaire de 71,1 milliards",
+    "description": "Le 18 septembre 2026, le Comité de révision des tarifs de l'électricité a décidé de ne pas ajuster les tarifs d'octobre à décembre. Le dossier de révision de Taipower calculait un ajustement nécessaire de 12,83 %, portant le prix moyen de 3,7823 NT$ à 4,2675 NT$ par kWh ; cette hausse reste sur la table, remplacée par une demande de budget supplémentaire de 71,1 milliards NT$ auprès du Yuan législatif. Cette trajectoire remonte à la publication de la formule en 2017, en passant par la recapitalisation de 150 milliards en 2022, la hausse de 11 % sur 382,6 milliards de pertes cumulées en 2024, jusqu'aux 21,4 milliards de pertes des 7 premiers mois de 2026 et une perte annuelle estimée à plus de 71,1 milliards.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/economy/taiwan-electricity-pricing-and-taipower",
+    "readingTime": 67,
+    "featured": false,
+    "date": "2026-10-14",
+    "path": "fr/Economy/taiwan-electricity-pricing-and-taipower.md"
+  },
+  {
     "title": "Mécanisme des prix du pétrole à Taiwan et CPC : les 36 dollars économisés, d'abord enregistrés sous le nom de l'entreprise en première ligne",
     "description": "Le 22 mars 2026 en fin d'après-midi, une femme à Yunlin s'est dépêchée de faire le plein de vingt litres avant la hausse des prix, économisant 36 dollars. Le même jour, le Premier ministre a déclaré qu'il fallait remercier CPC en passant à la station-service. De sept mois de gel des prix en 2008 à six mois de bataille cette année, chaque fois que les prix du pétrole à Taiwan montent en flèche, cette entreprise publique endettée à 93% doit d'abord supporter le fardeau, puis le budget supplémentaire est réinjecté après coup. Les économies sont réparties par litre entre chaque personne, plus on consomme plus on économise, mais personne n'a jamais comptabilisé qui consomme le plus en vingt ans.",
     "category": "fr",
@@ -86129,17 +86205,6 @@
     "featured": false,
     "date": "2026-09-18",
     "path": "fr/Economy/taiwan-fuel-pricing-and-cpc.md"
-  },
-  {
-    "title": "Mécanisme tarifaire de l'électricité à Taïwan et Taipower : ces 12,83 % qui n'ont pas augmenté, transformés en une facture budgétaire supplémentaire de 71,1 milliards de NT$",
-    "description": "Le 18 septembre 2026, la commission d'examen des tarifs électriques a décidé de geler les tarifs d'octobre à décembre. Le dossier d'examen tarifaire de Taipower indiquait une augmentation justifiée de 12,83 %, passant de 3,7823 NT$ à 4,2675 NT$ par kilowattheure, mais cette hausse a été reportée à décembre. Le gouvernement a plutôt demandé une allocation budgétaire supplémentaire de 71,1 milliards de NT$. Cette trajectoire débute avec la formule tarifaire annoncée en 2017, suivie d'une augmentation de capital de 150 milliards de NT$ en 2022, d'une hausse de 11 % en 2024 sur un déficit cumulé de 382,6 milliards de NT$, jusqu'aux pertes estimées à plus de 71,1 milliards de NT$ pour l'année en cours.",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/economy/taiwan-electricity-pricing-and-taipower",
-    "readingTime": 67,
-    "featured": false,
-    "date": "2026-10-14",
-    "path": "fr/Economy/taiwan-electricity-pricing-and-taipower.md"
   },
   {
     "title": "Mecanismo de precios del petróleo taiwanés y CPC: Los 36 yuan ahorrados se atribuyen a una empresa líder",
@@ -86153,17 +86218,6 @@
     "path": "es/Economy/taiwan-fuel-pricing-and-cpc.md"
   },
   {
-    "title": "Mecanismo de Preço de Eletricidade em Taiwan e Taiwan Power: os 12,83% que não subiram, transformados em uma ordem de orçamento adicional de NT$71,1 bilhões",
-    "description": "Na reunião de revisão de tarifas de eletricidade de 18 de setembro de 2026, decidiu-se não ajustar as tarifas de outubro a dezembro. Taiwan Power calculou que o ajuste apropriado seria de 12,83%, elevando o preço médio de NT$3,7823 por quilowatt-hora para NT$4,2675. Em vez de implementar o aumento, o governo buscou um orçamento adicional de NT$71,1 bilhões da Assembleia Legislativa. Esta trajetória começou com a fórmula de 2017, passando pelo aumento de capital de NT$150 bilhões em 2022, um aumento de 11% em 2024 sobre um prejuízo acumulado de NT$382,6 bilhões, até os prejuízos de NT$21,4 bilhões nos primeiros sete meses de 2026 e estimativa de prejuízo superior a NT$71,1 bilhões para o ano todo.",
-    "category": "pt",
-    "tags": [],
-    "url": "https://taiwan.md/pt/economy/taiwan-electricity-pricing-and-taipower",
-    "readingTime": 63,
-    "featured": false,
-    "date": "2026-10-14",
-    "path": "pt/Economy/taiwan-electricity-pricing-and-taipower.md"
-  },
-  {
     "title": "Mecanismo de Preços de Combustíveis em Taiwan e a CPC: Os 36 yuans economizados são creditados à empresa que está na frente",
     "description": "Na noite de 22 de março de 2026, uma mulher em Yunlin encheu vinte litros antes do aumento e disse ter economizado 36 yuans. No mesmo dia, o chefe da administração agradeceu à CPC após passar por um posto de gasolina. Desde os sete meses de congelamento de preços em 2008 até meio ano de guerra neste ano, sempre que os preços dos combustíveis aumentam em Taiwan, esta empresa estatal com 93% de endividamento é a primeira a arcar, e o orçamento adicional é reposto posteriormente. O desconto é dividido por litro para cada pessoa; quanto mais se usa, mais se economiza, mas ninguém contabilizou quem usou mais nos últimos vinte anos.",
     "category": "pt",
@@ -86173,17 +86227,6 @@
     "featured": false,
     "date": "2026-09-18",
     "path": "pt/Economy/taiwan-fuel-pricing-and-cpc.md"
-  },
-  {
-    "title": "Mecanismo de tarifa eléctrica de Taiwán y Taipower: ese 12.83% que no subió, convertido en una factura de presupuesto adicional de NT$71.1 mil millones",
-    "description": "La reunión de revisión de tarifas eléctricas del 18 de septiembre de 2026 decidió no ajustar las tarifas de octubre a diciembre. Taipower calculó un aumento necesario del 12.83%, de NT$3.7823 a NT$4.2675 por kilovatio-hora, pero en lugar de implementarlo, el gobierno solicitó un presupuesto adicional de NT$71.1 mil millones a la legislatura. Esta línea comenzó con la fórmula publicada en 2017, pasando por una capitalización de NT$150 mil millones en 2022 y un aumento del 11% en 2024 sobre pérdidas acumuladas de NT$382.6 mil millones, hasta las pérdidas de NT$21.4 mil millones en los primeros siete meses de este año y pérdidas estimadas superiores a NT$71.1 mil millones para todo el año.",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/economy/taiwan-electricity-pricing-and-taipower",
-    "readingTime": 65,
-    "featured": false,
-    "date": "2026-10-14",
-    "path": "es/Economy/taiwan-electricity-pricing-and-taipower.md"
   },
   {
     "title": "Media Taiwan dan Kebebasan Pers",
@@ -86514,12 +86557,12 @@
     "path": "id/Economy/taiwan-fuel-pricing-and-cpc.md"
   },
   {
-    "title": "Mekanisme Tarif Listrik Taiwan dan Taipower: 12,83% yang Tidak Naik, Tagihan Berubah Menjadi Satu Lembar Anggaran Tambahan NT$71,1 Miliar",
-    "description": "Pada Rapat Peninjauan Tarif Listrik tanggal 18 September 2026, diputuskan bahwa tarif listrik Oktober hingga Desember tidak akan disesuaikan. Perhitungan Taipower menunjukkan kenaikan yang seharusnya adalah 12,83%, dari NT$3,7823 per kWh menjadi NT$4,2675 per kWh, namun kenaikan ini ditunda hingga rapat ketiga Desember, dan pemerintah terlebih dahulu berusaha mengamankan anggaran tambahan NT$71,1 miliar dari DPR. Garis waktu ini dimulai dari pengumuman rumus pada 2017, melalui peningkatan modal NT$150 miliar pada 2022, kenaikan 11% pada 2024 di atas kerugian kumulatif NT$382,6 miliar, hingga kerugian NT$21,4 miliar dalam 7 bulan pertama tahun ini dan perkiraan kerugian lebih dari NT$71,1 miliar untuk seluruh tahun.",
+    "title": "Mekanisme Tarif Listrik Taiwan dan Taipower: Kenaikan 12,83% Itu Tidak Terjadi, Tagihan Berganti Menjadi Anggaran Tambahan Senilai NT$71,1 Miliar",
+    "description": "Sidang peninjauan tarif listrik pada 18 September 2026 memutuskan untuk tidak menyesuaikan tarif dari Oktober hingga Desember. Taipower menghitung kenaikan seharusnya sebesar 12,83%, namun alih-alih menaikkan harga per kWh dari NT$3,7823 ke NT$4,2675, pemerintah justru mengupayakan anggaran tambahan NT$71,1 miliar melalui Legislatif.",
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/economy/taiwan-electricity-pricing-and-taipower",
-    "readingTime": 60,
+    "readingTime": 77,
     "featured": false,
     "date": "2026-10-14",
     "path": "id/Economy/taiwan-electricity-pricing-and-taipower.md"
@@ -86540,6 +86583,17 @@
     "path": "id/Culture/jiaobei-divination-blocks.md"
   },
   {
+    "title": "Melihat 22 kabupaten/kota Taiwan lewat data: selisih kepadatan paling tinggi dan terendah 151 kali, rasio lansia terhadap anak-anak dari 1:1 hingga hampir 3:1",
+    "description": "Di pulau yang sama, Kota Taipei memiliki 8.975 orang per kilometer persegi, sedangkan Kabupaten Taitung hanya 59 orang, selisih 151 kali. Menggunakan data Biro Administrasi Kependudukan Kementerian Dalam Negeri akhir 2025 untuk menggambarkan potret 22 kabupaten/kota yang dapat diverifikasi: 70 persen penduduk mengumpul di 30 persen lahan, proporsi lansia tertinggi justru di Taipei yang paling padat, sedangkan Kabupaten Chiayi dengan rasio lansia terhadap anak-anak tertinggi hampir mencapai 3:1. Semua 22 kabupaten/kota tanpa pengecualian, kematian sudah melebihi kelahiran.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/geography/data-taiwan-22-cities",
+    "readingTime": 95,
+    "featured": false,
+    "date": "2026-06-06",
+    "path": "id/Geography/data-taiwan-22-cities.md"
+  },
+  {
     "title": "Melihat Taiwan — Kesan Taiwan dalam Sejarah",
     "description": "Dari era Pelayaran Besar hingga masa kini, berbagai kelompok etnis memandang pulau ini dengan cara yang berbeda: suku Atayal percaya leluhur meninggalkan jejak di tanah, gunung dan sungai adalah tubuh nenek moyang, mereka menyebut diri mereka anak-anak bumi; suku Amis menggunakan imaji berakar untuk mengekspresikan keterikatan dengan tanah. Kumpulan kutipan ini mencatat legenda turun-temurun dan kenangan pulau, menenun perspektif pandang yang beragam.",
     "category": "id",
@@ -86554,17 +86608,6 @@
     "featured": true,
     "date": "2026-03-17",
     "path": "id/About/seeing-taiwan-quotes.md"
-  },
-  {
-    "title": "Melihat Taiwan 22 Kabupaten/Kota Melalui Data: Perbedaan Kepadatan 151 Kali Lipat, Perbedaan Usia Hampir Satu Generasi",
-    "description": "Di pulau yang sama, kepadatan penduduk tertinggi Kota Taipei mencapai 8.975 orang per km², sementara Kabupaten Taitung hanya 59 orang per km²—perbedaan 151 kali lipat. Populasi terbesar Kota Xinbei 4,04 juta, terkecil Kabupaten Lienchiang 13.621, perbedaan 297 kali lipat. Tingkat penuaan tertinggi Kabupaten Hsinchu 15,08%, terendah Kabupaten Chiayi 24,11%—hampir satu generasi. Menggunakan data resmi Kementerian Dalam Negeri akhir 2025, artikel ini melukis potret Taiwan yang terukur dan dapat diverifikasi: tujuh puluh persen penduduk menempati tiga puluh persen lahan, garis depan penuaan bukan di kota tetapi di timur, pulau terpencil, dan kabupaten pertanian, dan di semua 22 kabupaten/kota Taiwan tanpa terkecuali, kematian telah melampaui kelahiran.",
-    "category": "id",
-    "tags": [],
-    "url": "https://taiwan.md/id/geography/data-taiwan-22-cities",
-    "readingTime": 94,
-    "featured": false,
-    "date": "2026-06-06",
-    "path": "id/Geography/data-taiwan-22-cities.md"
   },
   {
     "title": "Meme Ma Ying-jeou: Dari \"Jabat Tangan Maut\" hingga \"Ubur-ubur Otak Ma\", Bagaimana Budaya Internet Membentuk Citra Tokoh Politik",
@@ -90446,6 +90489,17 @@
     "path": "vi/Society/typhoon-day.md"
   },
   {
+    "title": "Nghị sĩ lập pháp không phân khu: 1,1 triệu phiếu chỉ giành được 3 ghế, 350 nghìn phiếu mất trắng không còn ghế nào",
+    "description": "Kết quả kiểm phiếu ngày 13/01/2024 cho thấy Thời Đại Lực lượng (New Power Party) nhận được 353.412 phiếu đảng, không giành được ghế lập pháp không phân khu nào, trong khi bốn năm trước họ đã có 3 ghế nhờ 1.098.100 phiếu. Hiến pháp đặt ra ngưỡng 5% cho 34 ghế không phân khu; theo tỷ lệ, chỉ cần khoảng 2,94% là đủ một ghế, nhưng số phiếu nằm giữa hai con số này sẽ không được quy đổi thành ghế mà thay vào đó làm tăng tỷ trọng của các đảng đã vượt ngưỡng. Giải thích số 721 năm 2014 xác nhận ngưỡng này là hợp hiến, nhưng các bản ý kiến của thẩm phán Hiến pháp lại tranh luận bằng những con số bầu cử khác nhau về việc nó thực sự đã ngăn cản ai.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/politics/party-list-legislators-taiwan",
+    "readingTime": 63,
+    "featured": false,
+    "date": "2026-10-23",
+    "path": "vi/Politics/party-list-legislators-taiwan.md"
+  },
+  {
     "title": "Nghiên cứu Chim của Formosa: Một Phó Lãnh sự Anh, 201 Tên La-tinh, và Ngọn Núi Ông Không Bước Chân",
     "description": "Robert Swinhoe trở thành phó lãnh sự Anh đầu tiên tại Đài Loan năm 1861. Năm năm sau, ông để lại bài luận ghi chim Formosa bằng La-tinh lần đầu. Nhưng bản đồ chim chỉ vẽ từ vách biển — dãy núi trung tâm trống trải. Người bản địa gọi chim này hàng ngàn năm trước đó.",
     "category": "vi",
@@ -90831,8 +90885,8 @@
     "path": "vi/Art/taiwanese-photography.md"
   },
   {
-    "title": "Nhìn Đài Loan qua dữ liệu 22 huyện thành: Nơi đông nhất và nơi trống nhất chênh nhau 151 lần, nơi già nhất và trẻ nhất cách nhau một thế hệ",
-    "description": "Trên cùng một hòn đảo, mật độ dân số cao nhất tại Đài Bắc là 8.975 người/km², trong khi thấp nhất tại Đài Đông chỉ có 59 người, chênh lệch 151 lần. Dân số đông nhất là Tân Bắc với 4,04 triệu người, ít nhất là Liên Giang với 13.600 người, chênh lệch 297 lần. Tỷ lệ già hóa thấp nhất tại Hsinchu là 15,08%, cao nhất tại Gia Nghĩa là 24,11%, cách nhau gần một thế hệ. Dựa trên dữ liệu chính thức từ Cục Hộ tịch Bộ Nội vụ vào cuối năm 2025, bài viết phác họa chân dung có thang đo và có thể kiểm chứng của toàn đảo: 70% dân số tập trung trên 30% diện tích đất, tiền tuyến của sự già hóa không nằm ở đô thị mà ở miền Đông, các đảo xa và các huyện nông nghiệp; và tại tất cả 22 huyện thành trên toàn Đài Loan, số ca tử vong đều đã vượt quá số ca sinh.",
+    "title": "Nhìn Đài Loan qua dữ liệu 22 huyện thành: Chênh lệch mật độ cao nhất và thấp nhất gấp 151 lần, tỷ lệ người già và trẻ em từ 1:1 đến gần 3:1",
+    "description": "Cùng một hòn đảo, Đài Bắc có 8.975 người/km², trong khi Đài Đông chỉ có 59 người, chênh lệch 151 lần. Dựa trên dữ liệu của Cục Hộ tịch Bộ Nội vụ cuối năm 2025 để phác họa chân dung 22 huyện thành: 70% dân số tập trung trên 30% diện tích đất; tỷ lệ người cao tuổi tại Đài Bắc là cao nhất, trong khi tại Gia Nghĩa (Chiayi) tỷ lệ người già so với trẻ em đạt gần 3:1. Tại tất cả 22 huyện thành, số ca tử vong đều đã vượt quá số ca sinh.",
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/geography/data-taiwan-22-cities",
@@ -92072,6 +92126,17 @@
     "path": "pt/Culture/rukai-lily.md"
   },
   {
+    "title": "O mecanismo de preços de eletricidade em Taiwan e a Taipower: os 12,83% que não subiram, transformados numa fatura de orçamento suplementar de NT$ 71,1 bilhões",
+    "description": "Na reunião de revisão tarifária de 18 de setembro de 2026, decidiu-se não ajustar as tarifas de outubro a dezembro. A Taipower calculou um aumento necessário de 12,83%, mas o governo optou por buscar um orçamento suplementar de NT$ 71,1 bilhões no Legislativo em vez de repassar o custo ao consumidor.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/economy/taiwan-electricity-pricing-and-taipower",
+    "readingTime": 68,
+    "featured": false,
+    "date": "2026-10-14",
+    "path": "pt/Economy/taiwan-electricity-pricing-and-taipower.md"
+  },
+  {
     "title": "O mercado acionário e o mercado de capitais de Taiwan: do colapso dos 10.000 pontos em 1990 ao 6.º maior do mundo em 2026, a ilha com 44% da riqueza concentrada numa única ação",
     "description": "Em 28 de abril de 2026, a Bloomberg publicou \"Taiwan Overtakes Canada\". Uma ilha que, em 1990, viu o colapso dos 10.000 pontos levar as poupanças de 160.000 pessoas, trinta e seis anos depois ascendeu ao 6.º maior mercado acionário do mundo — mas, dos 4,47 trilhões de dólares de capitalização, quase metade está concentrada numa única empresa de semicondutores.",
     "category": "pt",
@@ -92531,17 +92596,6 @@
     "featured": true,
     "date": "2026-04-01",
     "path": "pt/Music/bunun-pasibutbut-eight-part-polyphony.md"
-  },
-  {
-    "title": "Olhando Taiwan por dados: 22 condados e cidades — a diferença entre o mais superlotado e o mais vazio é de 151 vezes; entre o mais velho e o mais jovem, quase uma geração",
-    "description": "Na mesma ilha, a cidade mais superlotada, Taipei, tem 8.975 habitantes por km², enquanto o condado mais vazio, Taitung, tem apenas 59 — uma diferença de 151 vezes. A cidade com mais habitantes, Nova Taipei, tem 4,04 milhões; a com menos, o condado de Kinmen, 13.621 — uma diferença de 297 vezes. O condado mais jovem, Hsinchu, tem uma taxa de envelhecimento de 15,08%, enquanto o mais velho, Chiayi, tem 24,11% — uma diferença de quase uma geração. Com os dados oficiais do Departamento de Registro Civil do Ministério do Interior até o final de 2025, desenhamos um retrato da ilha com escala e verificável: 70% da população vive em 30% do território; a fronteira do envelhecimento não está nas cidades, mas no leste, ilhas e condados rurais; e em todos os 22 condados e cidades, as mortes já superam os nascimentos.",
-    "category": "pt",
-    "tags": [],
-    "url": "https://taiwan.md/pt/geography/data-taiwan-22-cities",
-    "readingTime": 98,
-    "featured": false,
-    "date": "2026-06-06",
-    "path": "pt/Geography/data-taiwan-22-cities.md"
   },
   {
     "title": "Olho de gato de Taiwan: como um fio de luz saiu das veias de Hualien e entrou na memória local",
@@ -94027,6 +94081,17 @@
     "path": "vi/People/park-sung-eun-actress.md"
   },
   {
+    "title": "Parlamentsmitglieder der Liste: 1,1 Millionen Stimmen für 3 Sitze, 350.000 Stimmen ohne einen einzigen Sitz",
+    "description": "Bei der Auszählung am 13. Januar 2024 erhielt die New Power Party (時代力量) 353.412 Parteienstimmen und keinen einzigen Sitz auf der Liste, während sie vor vier Jahren mit 1.098.100 Stimmen noch 3 Sitze errang. Die Verfassung legt für die 34 Listenmandate eine 5 %-Hürde fest; rein proportional wären ca. 2,94 % für einen Sitz ausreichend. Stimmen zwischen diesen Werten werden nicht in Mandate umgewandelt, was den Anteil der Parteien über der Hürde vergrößert. Die Interpretation Nr. 721 des Verfassungsgerichts erklärte die Hürde 2014 für verfassungsgemäß, doch die Richter debattierten in ihren Gutachten anhand unterschiedlicher Zahlen darüber, wen sie tatsächlich ausgeschlossen hat.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/politics/party-list-legislators-taiwan",
+    "readingTime": 66,
+    "featured": false,
+    "date": "2026-10-23",
+    "path": "de/Politics/party-list-legislators-taiwan.md"
+  },
+  {
     "title": "Parques Científicos de Taiwan: a aposta de um arrozal que se tornou a veia vital do mundo — e o seu ponto mais frágil",
     "description": "Em 1979, no distrito de Jinshan em Hsinchu, um engenheiro regressado da IBM, Ho Yi-tzu, ergueu o primeiro parque científico da Ásia sobre um arrozal. Quarenta e cinco anos depois, Hsinchu, Tainan e Taichung geram receitas anuais combinadas de 5,8 biliões de NTD, e os chips mais avançados do mundo são produzidos em massa nestes três parques. Mas o maior escudo da ilha é também a sua maior vulnerabilidade — uma seca, um apagão, uma jogada geopolítica podem fazer a cadeia de abastecimento global prender a respiração.",
     "category": "pt",
@@ -94607,6 +94672,17 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "id/History/taiwan-elections-and-party-politics.md"
+  },
+  {
+    "title": "Pemilihan Presiden Langsung Pertama: Saat Rudal Mengancam, Bagaimana Surat Suara Menjadi Kelembagaan Taiwan",
+    "description": "Pada tahun 1996, Taiwan pertama kali memilih presiden secara langsung oleh warga negara; reformasi kelembagaan, Gerakan Mahasiswa Bunga Anggrek Liur, dan krisis militer Selat Taiwan berkumpul pada satu surat suara yang sama, sehingga demokrasi memasuki kehidupan kelembagaan di luar hari pemungutan suara.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/politics/first-direct-presidential-election",
+    "readingTime": 89,
+    "featured": false,
+    "date": "2026-08-15",
+    "path": "id/Politics/first-direct-presidential-election.md"
   },
   {
     "title": "Pemilu Sembilan Serangkai 2026: Uji Stres Infrastruktur Demokrasi di Era Perang Kognitif AI",
@@ -96061,17 +96137,6 @@
     "path": "id/People/cang-lan-ge-doctor.md"
   },
   {
-    "title": "Pilihan Presiden Pertama: Saat Peluru Berdekat, Bagaimana Suara Pemilih Menjadi Demi Institusi Taiwan",
-    "description": "Pada Maret 1996, Taiwan memilih presiden dan wakil presiden secara langsung untuk pertama kalinya. Reformasi demokrasi, gerakan mahasiswa Hyatt, dan krisis militer Laut Taiwan bertemu dalam satu kertas suara — demokrasi kemudian berkembang melebihi hari pemilihan.",
-    "category": "id",
-    "tags": [],
-    "url": "https://taiwan.md/id/politics/first-direct-presidential-election",
-    "readingTime": 85,
-    "featured": false,
-    "date": "2026-08-15",
-    "path": "id/Politics/first-direct-presidential-election.md"
-  },
-  {
     "title": "Pinball: De los puestos de salchichas a la memoria mecánica",
     "description": "Partiendo de los tableros de madera junto a los puestos de salchichas en la década de 1960, se rastrea cómo los mercados nocturnos de Taiwán integraron la comida, la probabilidad y la memoria táctil en una misma tabla inclinada, contrastando con el giro del pinball occidental desde la sospecha de juego de azar, la innovación mecánica hasta su preservación museística.",
     "category": "es",
@@ -97308,7 +97373,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/politics/first-direct-presidential-election",
-    "readingTime": 99,
+    "readingTime": 102,
     "featured": false,
     "date": "2026-08-15",
     "path": "fr/Politics/first-direct-presidential-election.md"
@@ -98758,17 +98823,6 @@
     "path": "en/People/george-leslie-mackay.md"
   },
   {
-    "title": "Ratssystem: Warum es sich von Abgeordneten unterscheidet – 30 Jahre SNTV in der Lokalpolitik",
-    "description": "2008 wurde das System für Legislativabgeordnete auf das Einerwahlkreis-Zweitstimmensystem umgestellt, doch die Kreiswahlen desselben Jahres verwendeten weiterhin das alte SNTV-System aus den 1980er Jahren – im selben Land, bei denselben Wählern, auf demselben Stimmzettel für verschiedene Ämter, gelten zwei völlig unterschiedliche Spielregeln. Dies ist kein Fehler, sondern die größte unvollendete Aufgabe in der Geschichte der taiwanischen Wahlreform, verbunden mit lokalen Faktionen, Parteiinteressen und Umsetzungskosten. Ein Artikel, der aufschlüsselt, wie beide Systeme funktionieren, warum das eine reformiert wurde und das andere nicht, und was dies für kleinere Parteien und pluralistische Repräsentation bedeutet.",
-    "category": "de",
-    "tags": [],
-    "url": "https://taiwan.md/de/politics/city-councilor-system-taiwan",
-    "readingTime": 139,
-    "featured": false,
-    "date": "2026-05-27",
-    "path": "de/Politics/city-councilor-system-taiwan.md"
-  },
-  {
     "title": "Ratu Berkuasa: Masyarakat Matrilineal Makak Taiwan, Budaya Merampas Makanan, dan Dilema Koeksistensi Pasca-Konservasi",
     "description": "Artikel mendalam ini mengungkap struktur masyarakat matrilineal makak Taiwan (Macaca cyclopis), membongkar mitos \"raja monyet\", mengeksplorasi budaya merampas makanan yang diturunkan lintas generasi, serta mengeksplorasi konflik manusia-monyet di era pasca-konservasi di mana status perlindungan diturunkan, memicu kasus penyalahgunaan, dan menuntut redefinisi hubungan tetangga antara manusia dan primata terdekat mereka.",
     "category": "id",
@@ -99285,12 +99339,12 @@
     "path": "es/Society/air-raid-shelters-taiwan.md"
   },
   {
-    "title": "Regard sur les 22 comtés et villes de Taïwan à travers les données : un écart de 151 fois entre le plus dense et le plus vide, un écart d'une génération entre le plus vieux et le plus jeune",
-    "description": "Sur une même île, la densité de population la plus élevée, à Taipei, atteint 8 975 habitants par km², contre seulement 59 dans le comté de Taitung, soit un écart de 151 fois. La ville la plus peuplée, New Taipei, compte 4,04 millions d'habitants, le comté le moins peuplé, Lienchiang, 13 621, soit un écart de 297 fois. Le comté le plus jeune, Hsinchu, affiche un taux de vieillissement de 15,08 %, le plus vieux, Chiayi, 24,11 %, soit un écart d près d'une génération. À partir des données officielles du Département des affaires intérieures (fin 2025), dresser un portrait vérifiable et chiffré de l'île entière : 70 % de la population concentrée sur 30 % du territoire, la frontière du vieillissement non pas dans les villes mais dans l'est, les îles et les comtés agricoles, et dans les 22 comtés et villes sans exception, les décès dépassent déjà les naissances.",
+    "title": "Regard sur Taïwan à travers les données : les 22 comtés et villes, une densité 151 fois plus élevée entre le plus dense et le plus vide, le ratio personnes âgées/enfants passant de 1:1 à près de 3:1",
+    "description": "Sur une même île, Taipei affiche 8 975 habitants/km² contre 59 pour Taitung, un écart de 151 fois. À partir des données 2025 du Département des affaires intérieures, un portrait vérifiable des 22 juridictions : 70 % de la population sur 30 % du territoire, le taux de personnes âgées le plus élevé dans la Taipei la plus dense, le ratio personnes âgées/enfants le plus fort à Chiayi (près de 3:1). Les 22 comtés et villes sans exception enregistrent plus de décès que de naissances.",
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/geography/data-taiwan-22-cities",
-    "readingTime": 87,
+    "readingTime": 83,
     "featured": false,
     "date": "2026-06-06",
     "path": "fr/Geography/data-taiwan-22-cities.md"
@@ -102551,12 +102605,12 @@
     "path": "id/Society/betel-nut.md"
   },
   {
-    "title": "Sistem Anggota Dewan: Mengapa Berbeda dari Anggota Yuan Legislatif, SNTV Bertahan di Politik Lokal selama 30 Tahun",
-    "description": "Tahun 2008 anggota Yuan Legislatif berubah menjadi sistem single-member district-two-vote, pemilihan anggota dewan kota pada tahun yang sama masih menggunakan sistem SNTV (Single Non-Transferable Vote) dari tahun 1980an — negara yang sama, pemilih yang sama, posisi berbeda dalam surat suara yang sama, namun menggunakan dua set aturan permainan yang sepenuhnya berbeda. Ini bukan bug, tetapi hal yang paling belum selesai dalam sejarah reformasi sistem pemilihan Taiwan, dengan ikatan pada faksionisme lokal, kepentingan partai, dan biaya koordinasi. Artikel ini menguraikan dua sistem kerja, mengapa satu sisi berubah sementara yang lain tidak, dan apa artinya bagi partai ketiga dan representasi yang lebih beragam.",
+    "title": "Sistem Anggota Dewan: Mengapa Berbeda dengan Legislator, 30 Tahun SNTV Bertahan di Politik Lokal",
+    "description": "Pada tahun 2008, pemilihan legislator beralih ke sistem distrik tunggal dua suara, namun pemilihan anggota dewan tingkat kota dan kabupaten pada tahun yang sama masih menggunakan sistem lama SNTV dari era 1980-an — negara yang sama, kelompok pemilih yang sama, jabatan berbeda di surat suara yang sama, tetapi menggunakan dua aturan main yang sepenuhnya berbeda. Ini bukanlah sebuah kesalahan teknis, melainkan isu reformasi sistem pemilihan terbesar di Taiwan yang belum terselesaikan, yang melibatkan faksi lokal, kepentingan partai politik, dan biaya pendukung. Sebuah peta sistem yang mengurai bagaimana kedua sistem tersebut bekerja, mengapa satu sisi berubah sementara sisi lainnya tidak, serta apa artinya bagi partai kecil dan representasi yang beragam.",
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/politics/city-councilor-system-taiwan",
-    "readingTime": 134,
+    "readingTime": 153,
     "featured": false,
     "date": "2026-05-27",
     "path": "id/Politics/city-councilor-system-taiwan.md"
@@ -102716,6 +102770,28 @@
     "path": "pt/Politics/village-chief-system.md"
   },
   {
+    "title": "Sistema de concejales: por qué es diferente al de los legisladores, los 30 años del SNTV en la política local",
+    "description": "En 2008, las elecciones legislativas cambiaron al sistema de voto doble en distritos uninominales, pero las elecciones municipales de ese mismo año siguieron utilizando el antiguo sistema SNTV de la década de 1980. Un mismo país, los mismos votantes y diferentes cargos en la misma papeleta, pero con dos reglas de juego completamente distintas. Esto no es un error, sino uno de los asuntos pendientes más grandes en la historia de la reforma del sistema electoral de Taiwán, vinculado a facciones locales, intereses partidistas y costes de implementación. Un mapa institucional que desglosa cómo funcionan ambos sistemas, por qué se reformó uno pero no el otro, y qué significa esto para los partidos pequeños y la representatividad plural.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/politics/city-councilor-system-taiwan",
+    "readingTime": 161,
+    "featured": false,
+    "date": "2026-05-27",
+    "path": "es/Politics/city-councilor-system-taiwan.md"
+  },
+  {
+    "title": "Sistema de Conselheiros: Por que é diferente dos Legisladores? Os 30 anos do SNTV na política local",
+    "description": "Em 2008, as eleições para o Legislativo mudaram para o sistema de voto duplo em distrito uninominal, mas as eleições para conselheiros municipais e de condado no mesmo ano continuaram a usar o antigo sistema SNTV da década de 1980. O mesmo país, os mesmos eleitores e cargos diferentes na mesma cédula, mas com dois conjuntos de regras de jogo completamente distintos. Isso não é um erro, mas sim a maior questão inacabada na história das reformas do sistema eleitoral de Taiwan, envolvendo facções locais, interesses partidários e custos de implementação. Um mapa institucional que detalha como os dois sistemas funcionam, por que um mudou enquanto o outro permaneceu igual, e o que isso significa para os pequenos partidos e para a representatividade plural.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/politics/city-councilor-system-taiwan",
+    "readingTime": 151,
+    "featured": false,
+    "date": "2026-05-27",
+    "path": "pt/Politics/city-councilor-system-taiwan.md"
+  },
+  {
     "title": "Sistema de Irrigação de Chianan: a água não bastava para todas as terras, por isso surgiu a rotação trienal",
     "description": "Iniciado em 1920 e concluído em 1930, o Sistema de Irrigação de Chianan ligou o Reservatório de Wushantou a mais de 10.000 km de canais na planície de Chianan, chegando a sustentar cerca de 150 mil hectares. Seu ponto central não é a biografia de Yoichi Hatta, mas como os agricultores organizaram coletivamente a distribuição quando a água escasseava.",
     "category": "pt",
@@ -102775,17 +102851,6 @@
     "featured": true,
     "date": "2026-04-26",
     "path": "pt/Lifestyle/transportation-system.md"
-  },
-  {
-    "title": "Sistema de vereadores: por que difere do de deputados, e como o SNTV permaneceu 30 anos na política local",
-    "description": "Em 2008, os deputados adotaram o sistema de distrito único com dois votos, mas as eleições para vereadores municipais no mesmo ano mantiveram o antigo SNTV dos anos 1980 — mesmo país, mesmos eleitores, cargos diferentes na mesma cédula, mas duas regras de jogo completamente distintas. Não é um bug, é o maior assunto inacabado da história da reforma eleitoral de Taiwan, amarrado a facções locais, interesses partidários e custos de implementação. Um mapa institucional que desmonta como os dois sistemas operam, por que um mudou e o outro não, e o que isso significa para pequenos partidos e representação diversa.",
-    "category": "pt",
-    "tags": [],
-    "url": "https://taiwan.md/pt/politics/city-councilor-system-taiwan",
-    "readingTime": 108,
-    "featured": false,
-    "date": "2026-05-27",
-    "path": "pt/Politics/city-councilor-system-taiwan.md"
   },
   {
     "title": "Sistema democrático: de 1987, fim da lei marcial, a 2024 Lai Ching-te, as coordenadas dos 37 anos de democracia de Taiwan",
@@ -105111,106 +105176,72 @@
     "path": "en/Food/sweet-potato-balls.md"
   },
   {
-    "title": "Sylvia Chang : de Chiayi à la scène, de l'interprète de *L'Enfance* à la réalisatrice de *Love Education*",
-    "description": "Née en 1953 à Chiayi, Sylvia Chang entre dans le monde du spectacle à 17 ans grâce à *Dream Lover*. *L'Enfance* (composée par Lo Ta-yu en 1981) est l'une de ses chansons ; *Le Prix de l'amour* (composée par Jonathan Lee en 1992) est l'une de ses œuvres les plus connues. En 1986, *My Favorite* lui vaut le Golden Horse de la meilleure actrice ; en 2017, *Love Education* est nommé pour le Golden Horse du meilleur réalisateur et du meilleur scénario original. Actrice, réalisatrice et chanteuse : trois identités, plus de cinquante ans de carrière.",
-    "category": "fr",
-    "tags": [
-      "cinéma",
-      "réalisatrice",
-      "actrice",
-      "chanteuse",
-      "scénariste"
-    ],
-    "url": "https://taiwan.md/fr/people/sylvia-chang",
-    "readingTime": 42,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "fr/People/sylvia-chang.md"
-  },
-  {
-    "title": "Sylvia Chang: Dari Chiayi, Penyanyi Asli \"Childhood\" ke Sutradara \"Love Education\"",
-    "description": "Lahir 1953 di Kota Chiayi, Sylvia Chang memasuki dunia hiburan usia 17 tahun lewat \"The Dreamer\". \"Childhood\" (Luo Da-you, 1981) adalah lagunya, \"The Price of Love\" (Jonathan Lee, 1992) adalah representatifnya paling dikenal. 1986 \"Passion\" meraih Golden Horse Best Actress; 2017 \"Love Education\" nominasi Golden Horse Best Director dan Best Original Screenplay. Melintasi tiga identitas: aktris, sutradara, penyanyi, selama lebih dari lima puluh tahun.",
-    "category": "id",
-    "tags": [
-      "Film",
-      "Sutradara",
-      "Aktor",
-      "Penyanyi",
-      "Penulis Skenario"
-    ],
-    "url": "https://taiwan.md/id/people/sylvia-chang",
-    "readingTime": 34,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "id/People/sylvia-chang.md"
-  },
-  {
-    "title": "Sylvia Chang: de Chiayi al mundo, de cantante de «Tongnian» a directora de «Love Education»",
-    "description": "Nacida en 1953 en Chiayi, Sylvia Chang ingresó en el mundo del espectáculo a los 17 años con «Meng Zhong Ren». «Tongnian» (compuesta por Lo Ta-yu en 1981) es su canción; «El costo del amor» (compuesta por Jonathan Lee en 1992) es una de sus obras más conocidas. En 1986, «Zui Ai» le valió el premio a Mejor Actriz en los Golden Horse; en 2017, «Love Education» fue nominada a Mejor Dirección y Mejor Guion Original en los mismos premios. Más de cinco décadas transitando entre tres identidades: actriz, directora y cantante.",
-    "category": "es",
-    "tags": [
-      "cine",
-      "dirección",
-      "actriz",
-      "cantante",
-      "guionista"
-    ],
-    "url": "https://taiwan.md/es/people/sylvia-chang",
-    "readingTime": 42,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "es/People/sylvia-chang.md"
-  },
-  {
-    "title": "Sylvia Chang: de Chiayi, a voz original de \"Infância\" à realizadora de \"Amor e Família\"",
-    "description": "Nascida em 1953 na cidade de Chiayi, Sylvia Chang entrou no mundo do espetáculo aos 17 anos com \"A Pessoa do Sonho\". \"Infância\" (Lo Ta-yu, 1981) é sua interpretação; \"O Preço do Amor\" (Jonathan Lee, 1992) é sua canção mais conhecida. Em 1986, \"Paixão\" valeu-lhe o Cavalo de Ouro de Melhor Atriz; em 2017, \"Amor e Família\" foi indicado a Melhor Realização e Melhor Argumento Original. Atriz, realizadora, cantora — mais de cinquenta anos a cruzar três identidades.",
-    "category": "pt",
-    "tags": [
-      "Cinema",
-      "Realização",
-      "Atuação",
-      "Canto",
-      "Argumento"
-    ],
-    "url": "https://taiwan.md/pt/people/sylvia-chang",
-    "readingTime": 38,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "pt/People/sylvia-chang.md"
-  },
-  {
-    "title": "Sylvia Chang: From Chiayi to Director of *Love Education*",
-    "description": "Born in Chiayi City in 1953, Sylvia Chang entered the entertainment industry at age 17 through the film *Dreams of the Heart*. *Childhood* (composed by Lo Ta-yu, 1981) is her song; *The Price of Love* (composed by Jonathan Lee, 1992) is one of her most widely known signature works. In 1986, *My Favorite* won her the Golden Horse Best Actress award; in 2017, *Love Education* was nominated for Golden Horse Best Director and Best Original Screenplay. Spanning the three roles of actor, director, and singer for over fifty years.",
+    "title": "Sylvia Chang",
+    "description": "Sylvia Chang (born 1953) began her career as a radio DJ at 16 and a singer-host at 17; she won three Golden Horse Awards for Best Actress (1981, 1986, 2022) and has directed sixteen works over fifty years.",
     "category": "en",
     "tags": [
-      "電影",
-      "導演",
-      "演員",
-      "歌手",
-      "編劇"
+      "Film",
+      "Director",
+      "Actor",
+      "Singer",
+      "Screenwriter"
     ],
     "url": "https://taiwan.md/en/people/sylvia-chang",
-    "readingTime": 38,
+    "readingTime": 42,
     "featured": false,
     "date": "2026-03-19",
     "path": "en/People/sylvia-chang.md"
   },
   {
-    "title": "Sylvia Chang: Từ Chiayi tới biên kịch và đạo diễn của »Tình Yêu Tương Thân«",
-    "description": "Sinh năm 1953 tại Chiayi, Sylvia Chang bước vào giới giải trí ở tuổi 17 qua phim »Người Trong Mộng«. »Tuổi Thơ« (nhạc của La Đại Hữu, 1981) là ca khúc của cô, »Giá Của Tình Yêu« (nhạc của Lý Tông Thắng, 1992) là bài hát đại diện nổi tiếng nhất. Năm 1986 »Người Yêu Duy Nhất« đoạt Nữ chính xuất sắc nhất Tây Hồ; 2017 »Tình Yêu Tương Thân« được đề cử Đạo diễn xuất sắc nhất và Kịch bản gốc xuất sắc nhất Tây Hồ. Vượt qua ba vai trò diễn viên, đạo diễn, ca sĩ trong hơn năm mươi năm.",
-    "category": "vi",
+    "title": "Sylvia Chang (張艾嘉)",
+    "description": "Sylvia Chang (張艾嘉, nacida en 1953), DJ de radio a los 16 años, cantante y presentadora a los 17, rodó su primera película en 1972; ganó el Caballo de Oro a mejor actriz de reparto en 1976 con *Biyuntian* (碧雲天) y tres veces el de mejor actriz principal (1981 *Mi abuelo*, 1986 *El amor*, 2022 *Luces tenues*). Debutó como directora en 1981 con *Un día, un mes, un año* y desde entonces ha dirigido dieciséis filmes, manteniendo en paralelo las carreras de cantante, actriz y directora durante más de cincuenta años.",
+    "category": "es",
     "tags": [
-      "Phim ảnh",
-      "Đạo diễn",
-      "Diễn viên",
-      "Ca sĩ",
-      "Kịch bản"
+      "cine",
+      "directora",
+      "actriz",
+      "cantante",
+      "guionista"
     ],
-    "url": "https://taiwan.md/vi/people/sylvia-chang",
-    "readingTime": 39,
+    "url": "https://taiwan.md/es/people/sylvia-chang",
+    "readingTime": 43,
     "featured": false,
     "date": "2026-03-19",
-    "path": "vi/People/sylvia-chang.md"
+    "path": "es/People/sylvia-chang.md"
+  },
+  {
+    "title": "Sylvia Chang (張艾嘉)",
+    "description": "Sylvia Chang (張艾嘉, lahir 1953), pada usia 16 tahun menjadi DJ radio, 17 tahun menyanyi dan menjadi presenter, 1972 memerankan film pertamanya, 1976 memperoleh Penghargaan Kuda Emas Pelakon Wanita Pendukung Terbaik untuk 《碧雲天》, 1981 dengan 《我的爺爺》, 1986 dengan 《最愛》, dan 2022 dengan 《燈火闌珊》 tiga kali memperoleh Penghargaan Kuda Emas Pelakon Wanita Utama Terbaik. 1981 menyutradarai 《某年某月某一天》, sejak itu menyutradarai enam belas karya, tiga jalur sebagai penyanyi, pelakon, dan sutradara berjalan beriringan selama lebih dari lima puluh tahun.",
+    "category": "id",
+    "tags": [
+      "Film",
+      "Sutradara",
+      "Pelakon",
+      "Penyanyi",
+      "Penulis Skenario"
+    ],
+    "url": "https://taiwan.md/id/people/sylvia-chang",
+    "readingTime": 44,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "id/People/sylvia-chang.md"
+  },
+  {
+    "title": "Sylvia Chang (張艾嘉)",
+    "description": "Sylvia Chang (張艾嘉, nascida em 1953), DJ de rádio aos 16 anos, cantora e apresentadora aos 17, primeiro filme em 1972, venceu o Golden Horse de Melhor Atriz Coadjuvante em 1976 com \"The Autumn Love Song\", e três vezes Melhor Atriz Principal em 1981, 1986 e 2022. Estreou na direção em 1981 e dirigiu dezasseis obras, mantendo em paralelo as carreiras de cantora, atriz e realizadora há mais de cinquenta anos.",
+    "category": "pt",
+    "tags": [
+      "Cinema",
+      "Direção",
+      "Atuação",
+      "Canto",
+      "Roteiro"
+    ],
+    "url": "https://taiwan.md/pt/people/sylvia-chang",
+    "readingTime": 40,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "pt/People/sylvia-chang.md"
   },
   {
     "title": "Sylvia Chang: Von Chiayi über die Original-Interpretin von „Kindheit“ zur Regisseurin von „Love Education“",
@@ -105239,6 +105270,17 @@
     "featured": false,
     "date": "2026-03-17",
     "path": "fr/Society/democratic-system.md"
+  },
+  {
+    "title": "Système des conseillers : pourquoi est-il différent de celui des députés ? Les 30 ans du maintien du SNTV dans la politique locale",
+    "description": "En 2008, les élections législatives sont passées au système de vote à deux bulletins par circonscription unique, tandis que les élections des conseillers municipaux et de comté de la même année ont conservé l'ancien système SNTV des années 1980. Un même pays, les mêmes électeurs, mais des fonctions différentes sur un même bulletin de vote utilisant deux règles du jeu totalement distinctes. Ce n'est pas un bug, mais l'un des plus grands enjeux inaboutis de l'histoire de la réforme du système électoral taïwanais, lié aux factions locales, aux intérêts des partis et aux coûts d'accompagnement. Une analyse détaillée du fonctionnement de ces deux systèmes, des raisons pour lesquelles l'un a changé alors que l'autre est resté tel quel, et de ce que cela signifie pour les petits partis et la représentativité de la diversité.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/politics/city-councilor-system-taiwan",
+    "readingTime": 168,
+    "featured": false,
+    "date": "2026-05-27",
+    "path": "fr/Politics/city-councilor-system-taiwan.md"
   },
   {
     "title": "Système éducatif et culture de la compétition scolaire",
@@ -106762,6 +106804,17 @@
     "path": "de/Technology/taiwan-drone-industry.md"
   },
   {
+    "title": "Taiwan durch Daten betrachtet: 22 Landkreise und Städte – Der Unterschied zwischen Überfüllung und Leere beträgt das 151-fache, das Verhältnis von Senioren zu Kindern verschiebt sich von 1:1 auf fast 3:1",
+    "description": "Dieselbe Insel: Während in Taipeh 8.975 Personen pro Quadratkilometer leben, sind es in Taitung nur 59 – ein Unterschied um den Faktor 151. Basierend auf den Daten des Bevölkerungswesen-Amtes des Innenministeriums für Ende 2025 wird ein verifizierbares Porträt der 22 Landkreise und Städte gezeichnet: 70 % der Menschen drängen sich auf nur 30 % des Landes. Den höchsten Anteil an Senioren weist die am dichtesten besiedelte Stadt Taipeh auf, während im Landkreis Chiayi, wo das Verhältnis von älteren zu jüngeren Menschen am höchsten ist, fast 3 zu 1 beträgt. In allen 22 Landkreisen und Städten übersteigen die Todesfälle ausnahmslos die Geburtenraten.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/geography/data-taiwan-22-cities",
+    "readingTime": 103,
+    "featured": false,
+    "date": "2026-06-06",
+    "path": "de/Geography/data-taiwan-22-cities.md"
+  },
+  {
     "title": "Taiwan e a alfândega com o EZ WAY: ao clicar em \"Declaração conforme\", a quem você delegou",
     "description": "O celular vibra, a notificação mostra uma lista de nomes de produtos difíceis de entender, você clica em \"Declaração conforme\" e, legalmente, completa uma procuração de despacho aduaneiro. Em todo Taiwan, 7,59 milhões de pessoas se registraram neste aplicativo; em agosto de 2026, uma postagem viralizou e muitos descobriram pela primeira vez quem o opera: a Customs Trade Network, uma empresa listada onde o Ministério das Finanças detém 36,11% — participação estatal abaixo da maioria. Ao mesmo tempo, o limite de isenção de 2.000 dólares taiwaneses está sendo proposto para redução pela segunda vez pelo governo. Quem pagou a conta deste atalho de conveniência e quem, do início ao fim, não pôde dizer uma palavra.",
     "category": "pt",
@@ -106883,6 +106936,17 @@
     "path": "en/History/taiwan-elections-and-party-politics.md"
   },
   {
+    "title": "Taiwan em números, 22 municípios: a diferença entre o mais denso e o menos povoado é de 151 vezes; a proporção entre idosos e crianças passou de 1:1 para quase 3:1",
+    "description": "Na mesma ilha, Taipei possui 8.975 pessoas por quilômetro quadrado, enquanto o condado de Taitung tem apenas 59, uma diferença de 151 vezes. Com base nos dados do Departamento de Registro Civil do Ministério do Interior para o final de 2025, traçamos um retrato verificável dos 22 municípios: 70% da população está concentrada em apenas 30% do território; Taipei, a cidade mais densa, é também a que possui a maior proporção de idosos, enquanto o condado de Chiayi, com a maior proporção de idosos em relação a crianças, chega a quase 3:1. Em todos os 22 municípios, sem exceção, as mortes já superam os nascimentos.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/geography/data-taiwan-22-cities",
+    "readingTime": 106,
+    "featured": false,
+    "date": "2026-06-06",
+    "path": "pt/Geography/data-taiwan-22-cities.md"
+  },
+  {
     "title": "Taiwán empresa: Delta Electronics",
     "description": "Un estudiante de 13 años que dejó a sus padres en Fujian y vino a Taiwán con su tío, en 1971 reunía 300,000 NTD para fundar Delta Electronics en Nueva Taipéi: cómo pasó de fabricar piezas para televisores a convertirse en el mayor proveedor global de fuentes de alimentación, llevando el nombre de su fundador a la órbita espacial",
     "category": "es",
@@ -106892,17 +106956,6 @@
     "featured": true,
     "date": "2026-03-22",
     "path": "es/Economy/delta-electronics-taiwan-power-giant.md"
-  },
-  {
-    "title": "Taiwán en datos: 22 condados y ciudades: la brecha entre el más denso y el menos denso es 151 veces, la brecha entre el más envejecido y el más joven es casi una generación",
-    "description": "En la misma isla, la densidad de población más alta es la de Taipéi con 8.975 personas por kilómetro cuadrado, la más baja es la de Taitung con solo 59 personas, una diferencia de 151 veces. La ciudad más poblada es Nuevo Taipéi con 4,04 millones, la menos poblada es Lienchiang con 13.600, una diferencia de 297 veces. El condado más joven es Hsinchu con una tasa de envejecimiento del 15,08 %, el más viejo es Chiayi con el 24,11 %, una diferencia de casi una generación. Con los datos oficiales del Departamento de Administración Civil del Ministerio del Interior a finales de 2025, se dibuja un retrato de la isla con escala y verificable: el 70 % de la población se concentra en el 30 % de la tierra, la frontera del envejecimiento no está en las ciudades sino en el este, las islas periféricas y los condados agrícolas, y en los 22 condados y ciudades de Taiwán, sin excepción, las muertes ya superan a los nacimientos.",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/geography/data-taiwan-22-cities",
-    "readingTime": 97,
-    "featured": false,
-    "date": "2026-06-06",
-    "path": "es/Geography/data-taiwan-22-cities.md"
   },
   {
     "title": "Taiwan Encyclopedia: The Five-Hundred Million Yuan Knowledge Dream",
@@ -109534,17 +109587,6 @@
     "path": "en/Culture/indigenous-peoples-16-tribes-cultural-map.md"
   },
   {
-    "title": "Taiwan's 22 Counties and Cities in Data: A 151-fold Gap Between Crowded and Empty, a Generation Apart Between Old and Young",
-    "description": "On the same island, Taipei's density is 8,975/km², while Taitung's is only 59/km²—a 151-fold difference. Using official late-2025 data to map a portrait of a fragmented, aging nation.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/geography/data-taiwan-22-cities",
-    "readingTime": 92,
-    "featured": false,
-    "date": "2026-06-06",
-    "path": "en/Geography/data-taiwan-22-cities.md"
-  },
-  {
     "title": "Taiwan's 5G Network Construction and Digital Transformation",
     "description": "Tracing Taiwan's journey from leading in 4G to deploying 5G, exploring the national strategy for digital transformation and smart application development.",
     "category": "en",
@@ -109907,12 +109949,12 @@
     "path": "en/Lifestyle/taiwan-education-system.md"
   },
   {
-    "title": "Taiwan's Electricity Pricing Mechanism and Taipower: The 12.83% That Did Not Rise, Replaced by a NT$71.1 Billion Supplementary Budget",
-    "description": "On September 18, 2026, the Electricity Rate Review Committee decided to hold electricity prices steady from October through December. Taipower's review calculated a necessary adjustment of 12.83%, raising the average rate from NT$3.7823 to NT$4.2675 per kilowatt-hour, but instead of implementing the increase, the government sought a NT$71.1 billion supplementary budget from the legislature. This pattern traces back to the 2017 pricing formula, through a NT$150 billion capital injection in 2022, an 11% increase in 2024 against accumulated losses of NT$382.6 billion, to losses of NT$21.4 billion in the first seven months of this year and projected full-year losses exceeding NT$71.1 billion.",
+    "title": "Taiwan's Electricity Pricing Mechanism and Taipower: That 12.83% Increase Didn't Happen, But the Bill Became a NT$71.1 Billion Supplementary Budget Request",
+    "description": "The September 18, 2026, Electricity Rate Review Committee resolved not to adjust rates from October to December. While Taipower's review suggested a 12.83% hike, the focus shifted to seeking a NT$71.1 billion government subsidy.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/economy/taiwan-electricity-pricing-and-taipower",
-    "readingTime": 56,
+    "readingTime": 68,
     "featured": false,
     "date": "2026-10-14",
     "path": "en/Economy/taiwan-electricity-pricing-and-taipower.md"
@@ -112285,17 +112327,6 @@
     "path": "de/Society/taiwan-dashcam-society.md"
   },
   {
-    "title": "Taiwans 22 Bezirke in Zahlen: Dichte-Unterschied von 151-fach, Altersunterschiede einer Generation",
-    "description": "Auf einer Insel: Taipei City mit 8.975 Personen pro Quadratkilometer (die dichteste) und Taitung County mit nur 59 (die spärlichste) — ein Unterschied von 151-fach. New Taipei City mit 4.04 Millionen gegen Kinmen County mit 13.621 — ein Unterschied von 297-fach. Hsinchus Altersquote 15,08% (jüngstes Gebiet) gegen Chiayi County mit 24,11% (ältestes) — fast eine Generation Unterschied. Anhand offizieller Daten des Innenministeriums Taiwans (Ende 2025) entsteht ein messbares Porträt einer Insel: 70% der Menschen auf 30% des Landes, Alterung nicht in den Städten sondern in peripheren Gebieten, und in allen 22 Bezirken übersteigen Todesfälle bereits Geburten.",
-    "category": "de",
-    "tags": [],
-    "url": "https://taiwan.md/de/geography/data-taiwan-22-cities",
-    "readingTime": 88,
-    "featured": false,
-    "date": "2026-06-06",
-    "path": "de/Geography/data-taiwan-22-cities.md"
-  },
-  {
     "title": "Taiwans Animations-Outsourcing",
     "description": "Taiwan war einst ein globales Zentrum für Animations-Outsourcing; Wang Film Productions fertigte klassische Hollywood-Animationen an, und auf dem Höhepunkt machte der Produktionswert etwa ein Drittel des Weltmarktes aus.",
     "category": "de",
@@ -112818,12 +112849,12 @@
     "path": "de/Lifestyle/taiwan-street-trees.md"
   },
   {
-    "title": "Taiwans Strompreis-Mechanismus und Taipower: Die 12,83 % Erhöhung, die nicht kam – stattdessen eine Nachtragsbudgetrechnung über 71,1 Milliarden NT$",
-    "description": "Am 18. September 2026 beschloss die Strompreis-Tarifprüfungskonferenz, die Strompreise von Oktober bis Dezember nicht anzupassen. Taipowers Überprüfungsantrag berechnete eine erforderliche Erhöhung von 12,83 %, von 3,7823 NT$ pro Kilowattstunde auf 4,2675 NT$. Statt die Preise zu erhöhen, fordert die Regierung nun ein Nachtragsbudget von 71,1 Milliarden NT$ vom Legislativyuan. Diese Entwicklung reicht von der 2017 veröffentlichten Formel über eine Kapitalerhöhung von 150 Milliarden NT$ im Jahr 2022 bis zur 11-prozentigen Erhöhung 2024 bei einem kumulativen Verlust von 382,6 Milliarden NT$, gefolgt von Verlusten von 21,4 Milliarden NT$ in den ersten sieben Monaten 2026 und geschätzten Jahresverlusten von über 71,1 Milliarden NT$.",
+    "title": "Taiwans Strompreismechanismus und Taipower: Die 12,83 %, die nicht erhöht wurden, die Rechnung getauscht gegen einen 71,1-Milliarden-NT$-Zusatzhaushalt",
+    "description": "Der Strompreiskontrollausschuss am 18. September 2026 beschloss, die Strompreise von Oktober bis Dezember nicht anzupassen. Taipowers Prüfung ergab eine notwendige Anpassung von 12,83 %, die den Preis pro kWh von 3,7823 NT$ auf 4,2675 NT$ hätte heben sollen, doch der Anstieg blieb auf dem Tisch liegen, im Austausch für die Forderung nach einem 71,1-Milliarden-NT$-Zusatzhaushalt beim Legislativ-Yuan. Diese Linie begann mit der Formelerklärung 2017, dazwischen lagen die 150-Milliarden-NT$-Kapitalerhöhung 2022, die 11-%-Erhöhung 2024 bei 382,6 Milliarden NT$ kumulierten Verlusten, bis zu den ersten sieben Monaten dieses Jahres mit 21,4 Milliarden NT$ Verlust und einer prognostizierten Jahresverlust von über 71,1 Milliarden NT$.",
     "category": "de",
     "tags": [],
     "url": "https://taiwan.md/de/economy/taiwan-electricity-pricing-and-taipower",
-    "readingTime": 65,
+    "readingTime": 73,
     "featured": false,
     "date": "2026-10-14",
     "path": "de/Economy/taiwan-electricity-pricing-and-taipower.md"
@@ -114756,12 +114787,12 @@
     "path": "vi/People/tsai-jui-yueh.md"
   },
   {
-    "title": "Thái Y Lâm: Không phải Thiên hậu của thiên tài – Ca sĩ vũ đạo được nói là \"không hợp nhảy\", 25 năm sau trở thành nghệ sĩ có nhiều giải thưởng nhất lịch sử Giải thưởng Quốc khúc",
-    "description": "Câu chuyện về sự nghiệp của Thái Y Lâm không chỉ dừng lại ở ca hát và vũ đạo, mà còn là hành trình chứng minh sức mạnh thể chất qua từng album.",
+    "title": "Thái Y Lâm (Jolin Tsai)",
+    "description": "Giành chức vô địch nhóm hát tại \"Tân Thanh Ca Vị Chiến\" năm 1998, sau đó khẳng định vị thế thiên hậu nhạc Pop Hoa ngữ qua các album và chuyến lưu diễn; ca khúc 〈Thiếu niên hoa hồng〉 giúp cô ba lần đoạt giải Bài hát của năm tại Giải Kim Khúc.",
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/people/jolin-tsai",
-    "readingTime": 42,
+    "readingTime": 12,
     "featured": false,
     "date": "2026-03-24",
     "path": "vi/People/jolin-tsai.md"
@@ -115224,24 +115255,6 @@
     "path": "en/Society/gsat-taiwan.md"
   },
   {
-    "title": "The Councilor System: Why It Differs from the Legislator System, and SNTV's 30 Years in Local Politics",
-    "description": "In 2008, legislators switched to the single-member district two-vote system, while that same year's city and county councilor elections still used the SNTV system from the 1980s — the same country, the same voters, different offices on the same ballot, yet governed by two entirely different sets of rules. This is not a bug; it is the greatest unfinished business in Taiwan's electoral reform history, bound up with local factions, party interests, and the costs of complementary reforms. A structural map of how the two systems operate, why one was reformed and the other was not, and what this means for small parties and diverse representation.",
-    "category": "en",
-    "tags": [
-      "議員",
-      "選舉制度",
-      "SNTV",
-      "單一選區兩票制",
-      "立法委員",
-      "2026選舉"
-    ],
-    "url": "https://taiwan.md/en/politics/city-councilor-system-taiwan",
-    "readingTime": 127,
-    "featured": false,
-    "date": "2026-05-27",
-    "path": "en/Politics/city-councilor-system-taiwan.md"
-  },
-  {
     "title": "The Culinary Fusion of New Residents in Taiwan",
     "description": "As Thai spiciness meets Taiwanese sweet and savory, Vietnamese pho encounters Taiwanese cured meats, and Indonesian spices embrace local ingredients—a cross-border flavor revolution is quietly unfolding in Taiwan. The cuisine brought by new residents offers not just flavors from their homeland, but entirely new possibilities for enriching Taiwanese food culture.",
     "category": "en",
@@ -115428,7 +115441,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/politics/first-direct-presidential-election",
-    "readingTime": 86,
+    "readingTime": 88,
     "featured": false,
     "date": "2026-08-15",
     "path": "en/Politics/first-direct-presidential-election.md"
@@ -116927,6 +116940,17 @@
     "featured": false,
     "date": "2026-03-24",
     "path": "vi/Music/little-tigers-taiwan-boy-band.md"
+  },
+  {
+    "title": "Tiêu Kính Đằng",
+    "description": "17 tuổi bắt đầu hát thường trực tại nhà hàng dân ca, năm 2007 nhờ phần thi thách đấu của \"Siêu sao sao đường\" (超級星光大道) mà bùng nổ, 2008 phát hành album đầu tay. Năm 2013 giành Giải nhạc vàng (金曲獎) Nam ca sĩ tiếng Quốc ngữ xuất sắc nhất với \"Dân yêu chi danh\" (以愛之名), sau đó phát triển trên ban nhạc, điện ảnh và sân khấu hai bờ.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/jam-hsiao",
+    "readingTime": 16,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "vi/People/jam-hsiao.md"
   },
   {
     "title": "Tiêu Mỹ Cầm",
@@ -118629,6 +118653,23 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "vi/People/steve-chang.md"
+  },
+  {
+    "title": "Trương Ngải Gia",
+    "description": "Trương Ngải Gia (Sylvia Chang, sinh năm 1953), 16 tuổi làm DJ đài phát thanh, 17 tuổi ca hát và dẫn chương trình, 1972 đóng bộ phim đầu tiên, năm 1976 giành giải Nữ diễn viên phụ xuất sắc nhất Kim Mã với \"Bích Vân Thiên\", năm 1981 với \"Ông ngoại tôi\", 1986 với \"Tình yêu nhất\" và 2022 với \"Đăng Hỏa Lan San\" đã ba lần đoạt giải Nữ diễn viên chính xuất sắc nhất Kim Mã. Năm 1981 bà đạo diễn \"Một ngày tháng năm nào đó\", kể từ đó đã chỉ đạo 16 tác phẩm, song hành ba vai trò ca sĩ, diễn viên và đạo diễn trong hơn 50 năm.",
+    "category": "vi",
+    "tags": [
+      "Điện ảnh",
+      "Đạo diễn",
+      "Diễn viên",
+      "Ca sĩ",
+      "Biên kịch"
+    ],
+    "url": "https://taiwan.md/vi/people/sylvia-chang",
+    "readingTime": 47,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "vi/People/sylvia-chang.md"
   },
   {
     "title": "Trường nữ sinh Đài Bắc thứ nhất: Làm thế nào một khuôn viên dành cho phụ nữ bảo tồn giáo dục, cơ thể và ký ức công cộng",
@@ -121052,6 +121093,17 @@
     "path": "pt/About/seeing-taiwan-quotes.md"
   },
   {
+    "title": "Ver Taiwán en datos: los 22 condados y ciudades — la brecha entre el más denso y el más vacío es de 151 veces, la proporción de ancianos y niños pasa de 1:1 a casi 3:1",
+    "description": "En la misma isla, Taipéi tiene 8.975 habitantes por km² y Taitung solo 59, una diferencia de 151 veces. Con datos del Departamento de Registro Civil del Ministerio del Interior a finales de 2025, se dibuja un retrato verificable de los 22 condados y ciudades: el 70 % de la población se concentra en el 30 % del territorio, la mayor proporción de ancianos está precisamente en la más densa Taipéi, y la mayor proporción ancianos-niños en el condado de Chiayi roza los 3:1. Sin excepción, en los 22 condados y ciudades las defunciones ya superan a los nacimientos.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/geography/data-taiwan-22-cities",
+    "readingTime": 79,
+    "featured": false,
+    "date": "2026-06-06",
+    "path": "es/Geography/data-taiwan-22-cities.md"
+  },
+  {
     "title": "Ver Taiwán: Impresiones históricas de la isla",
     "description": "Desde la Era de los Descubrimientos hasta la actualidad, diversos grupos han contemplado esta isla de distintas maneras: los Atayal creen que los espíritus ancestrales dejaron su huella en la tierra, viendo los ríos y montañas como el cuerpo de sus antepasados y llamándose a sí mismos hijos de la tierra; por su parte, los Amis expresan su vínculo con el territorio mediante imágenes de arraigo. Esta colección de introducciones reúne leyendas transmitidas de generación en generación y memorias de la isla, entrelazando múltiples perspectivas de observación.",
     "category": "es",
@@ -121399,6 +121451,17 @@
     "path": "de/History/bipartisan-good-policy.md"
   },
   {
+    "title": "Viewing Taiwan's 22 Counties and Cities Through Data: 151× Gap Between Most and Least Crowded, Elderly-to-Children Ratio from 1:1 to Nearly 3:1",
+    "description": "Same island, but Taipei City packs 8,975 people per km² while Taitung County has only 59 — a 151-fold difference. Using 2025 year-end household registration data from the Ministry of the Interior, this article draws a verifiable portrait of all 22 jurisdictions: 70% of people squeezed into 30% of land, the highest elderly share is in the densest Taipei City, and the highest elderly-to-children ratio in Chiayi County approaches 3:1. All 22 jurisdictions without exception now see more deaths than births.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/geography/data-taiwan-22-cities",
+    "readingTime": 84,
+    "featured": false,
+    "date": "2026-06-06",
+    "path": "en/Geography/data-taiwan-22-cities.md"
+  },
+  {
     "title": "Village Armed Youth",
     "description": "Chiang Yu-ta and his folk songs — singing at protest sites for ten years, then returning to his hometown of Changhua, where he lost his ability to write for two years. He says that was his most revolutionary moment.",
     "category": "en",
@@ -121490,7 +121553,7 @@
     "category": "de",
     "tags": [],
     "url": "https://taiwan.md/de/about/visualization-module-catalog",
-    "readingTime": 55,
+    "readingTime": 56,
     "featured": false,
     "date": "2026-06-06",
     "path": "de/About/visualization-module-catalog.md"
@@ -129086,6 +129149,17 @@
     "path": "ru/Culture/dragon-boat-festival.md"
   },
   {
+    "title": "Депутаты Законодательного юань по партийным спискам: 1,1 млн голосов дали 3 места, а 350 тыс. голосов не дали ничего",
+    "description": "При подсчете голосов 13 января 2024 года партия «Новая сила» (時代力量) получила 353 412 партийных голосов и не получила ни одного мандата, хотя четыре года назад она заняла 3 места благодаря 1 098 100 голосам. Конституция устанавливает 5%-й порог для 34 депутатов по партийным спискам; при пропорциональном распределении достаточно всего 2,94% для одного места, но голоса, оказавшиеся между этими значениями, не конвертируются в мандаты, что увеличивает долю партий, преодолевших порог. В 2014 году в рамках Толкования № 721 Конституционного суда было признано конституционным наличие этого порога, однако судьи в своих заключениях разошлись во мнениях относительно того, кого именно он отсекает.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/politics/party-list-legislators-taiwan",
+    "readingTime": 62,
+    "featured": false,
+    "date": "2026-10-23",
+    "path": "ru/Politics/party-list-legislators-taiwan.md"
+  },
+  {
     "title": "Десять крупных строительств: ставка в 200 миллиардов при валютных резервах в 1 миллиард долларов",
     "description": "В 1973 году валютные резервы Тайваня составляли всего 1 миллиард долларов, однако Цзян Цзинго объявил о вложении около 300 миллиардов тайваньских долларов в десять крупных строительств. Это стало не только экономическим поворотом в ответ на нефтяной кризис и дипломатическую изоляцию, но и политическим нарративом, переупаковавшим унаследованные от японского периода черновики в национальную идентичность.",
     "category": "ru",
@@ -129095,6 +129169,17 @@
     "featured": false,
     "date": "2026-06-01",
     "path": "ru/History/ten-major-construction-projects.md"
+  },
+  {
+    "title": "Джей Чоу",
+    "description": "Застенчивый юноша, играющий на пианино в шоу талантов, своим первым альбомом переписал историю китайской поп-музыки. Своим оригинальным стилем он доказал музыкальной индустрии, что авторская музыка может быть коммерчески успешной, а серией альбомов продемонстрировал, что мандаринская музыка способна сохранять восточную самобытность и при этом покорять мировые сцены. Пройдя путь от молодого автора, чьи работы постоянно отклоняли, он стал настоящим музыкальным революционером, изменившим облик индустрии.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/people/jay-chou",
+    "readingTime": 48,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "ru/People/jay-chou.md"
   },
   {
     "title": "Дженсен Хуанг",
@@ -130126,7 +130211,7 @@
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/about/visualization-module-catalog",
-    "readingTime": 56,
+    "readingTime": 57,
     "featured": false,
     "date": "2026-06-06",
     "path": "ru/About/visualization-module-catalog.md"
@@ -131979,17 +132064,6 @@
     "path": "ru/Geography/yushan-weather-station.md"
   },
   {
-    "title": "Механизм тарифов на электроэнергию на Тайване и «Тайвань Пауэр»: те 12,83% не выросли, счёт превратился в дополнительный бюджет в 71,1 млрд NT$",
-    "description": "18 сентября 2026 года совещание по пересмотру тарифов на электроэнергию решило не повышать тарифы с октября по декабрь. «Тайвань Пауэр» рассчитала необходимое повышение в 12,83% — с 3,7823 NT$ за киловатт-час до 4,2675 NT$, но вместо этого правительство запросило у законодательного органа дополнительный бюджет в 71,1 млрд NT$. Эта линия началась с опубликованной в 2017 году формулы, включала увеличение капитала на 150 млрд NT$ в 2022 году, повышение на 11% при накопленных убытках в 382,6 млрд NT$ в 2024 году, и теперь — убытки в 21,4 млрд NT$ за первые семь месяцев 2026 года с прогнозом превышения 71,1 млрд NT$ за весь год.",
-    "category": "ru",
-    "tags": [],
-    "url": "https://taiwan.md/ru/economy/taiwan-electricity-pricing-and-taipower",
-    "readingTime": 60,
-    "featured": false,
-    "date": "2026-10-14",
-    "path": "ru/Economy/taiwan-electricity-pricing-and-taipower.md"
-  },
-  {
     "title": "Механизм цен на нефть на Тайване и Китайская национальная нефтяная корпорация: 36 юаней экономии, сначала записанные на счёт компании, стоящей на переднем крае",
     "description": "Вечером 22 марта 2026 года женщина из Юньлиня поспешила заправить двадцать литров до повышения цены, сэкономив 36 юаней. В тот же день премьер-министр администрации сказал, что нужно поблагодарить Китайскую национальную нефтяную корпорацию, проезжая мимо заправочной станции. От замораживания цен на семь месяцев в 2008 году до полугода боевых действий в этом году, каждый раз, когда цены на нефть на Тайване резко растут, эта государственная компания с коэффициентом задолженности 93% вынуждена нести первоначальные убытки, а затем возмещение осуществляется через дополнительные бюджетные ассигнования. Скидка распределяется поровну на литр для каждого человека, чем больше используется, тем больше экономится, но за двадцать лет никто не подсчитал, кто использует больше всего.",
     "category": "ru",
@@ -131999,6 +132073,17 @@
     "featured": false,
     "date": "2026-09-18",
     "path": "ru/Economy/taiwan-fuel-pricing-and-cpc.md"
+  },
+  {
+    "title": "Механизм цен на электроэнергию и Taipey Electric Power (Taipower): те 12,83% не были реализованы, вместо этого счет превратился в запрос дополнительного бюджета на NT$71,1 млрд",
+    "description": "На заседании комитета по тарифам от 18 сентября 2026 года было решено не менять цены на электроэнергию до декабря. Taipower рассчитала необходимый рост на 12,83%, но вместо повышения цен правительство будет добиваться выделения NT$71,1 млрд из бюджета.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/economy/taiwan-electricity-pricing-and-taipower",
+    "readingTime": 67,
+    "featured": false,
+    "date": "2026-10-14",
+    "path": "ru/Economy/taiwan-electricity-pricing-and-taipower.md"
   },
   {
     "title": "Мифы коренных жителей Тайваня: от потопа к устным эпосам о сотворении мира",
@@ -132303,7 +132388,7 @@
   },
   {
     "title": "Нацжилищные комплексы и жилищная справедливость: дешевое жилье, построенное государством, в итоге создало чей имущественный лифт",
-    "description": "В 1985 году за пин в жилом комплексе «Успех» просили 67 тысяч, и покупателей не было; старый староста общины собрал 400 тысяч первоначального взноса, потратив все сбережения. Сорок лет спустя тот же адрес приближается к миллиону за пин. Нацжилищные комплексы создавались как инструмент «помочь людям купить жилье», но никогда не были оснащены шлюзом возврата прироста стоимости — публичные субсидии в итоге превратились в частные активы ранних покупателей. В 2026 году Таоюань устанавливает этот шлюз обратно, что равносильно признанию ошибки нацжилищных комплексов.",
+    "description": "В 1985 году за пин в жилом комплексе «Чэнгун» просили 67 тысяч, и покупателей не было; старый староста общины собрал 400 тысяч первоначального взноса, потратив все сбережения. Сорок лет спустя тот же адрес приближается к миллиону за пин. Нацжилищные комплексы создавались как инструмент «помочь людям купить жилье», но никогда не были оснащены шлюзом возврата прироста стоимости — публичные субсидии в итоге превратились в частные активы ранних покупателей. В 2026 году Таоюань устанавливает этот шлюз обратно, что равносильно признанию ошибки нацжилищных комплексов.",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/society/public-housing-justice",
@@ -133006,7 +133091,7 @@
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/politics/first-direct-presidential-election",
-    "readingTime": 85,
+    "readingTime": 89,
     "featured": false,
     "date": "2026-08-15",
     "path": "ru/Politics/first-direct-presidential-election.md"
@@ -134127,12 +134212,12 @@
     "path": "ru/Politics/village-chief-system.md"
   },
   {
-    "title": "Система депутатов: почему она отличается от законодателей, и как SNTV осталась в местной политике на 30 лет",
-    "description": "В 2008 году выборы законодателей перешли на смешанную мажоритарно-пропорциональную систему, а в том же году выборы депутатов округов и городов всё ещё использовали старую систему SNTV 1980-х — одна страна, одни и те же избиратели, разные должности в одном бюллетене, но две совершенно разные системы правил. Это не ошибка, а крупнейшее незавершённое дело в истории реформы избирательной системы Тайваня, за которым стоят местные фракции, партийные интересы и стоимость сопутствующих реформ. Статья-разбор того, как работают две системы, почему одна изменилась, а другая нет, и что это значит для малых партий и многообразия представительства.",
+    "title": "Система муниципальных советников: почему она отличается от системы законодателей, и 30 лет использования SNTV в местной политике",
+    "description": "В 2008 году для выборов в законодательный орган была введена система одномандатных округов с двумя голосами, однако на выборах муниципальных советников в том же году по-прежнему использовалась старая система SNTV 1980-х годов. Одна и та же страна, одни и те же избиратели, разные должности на одном бюллетене — но две совершенно разные системы правил. Это не ошибка, а крупнейшее незавершенное дело в истории реформы избирательной системы Тайваня, за которым стоят местные фракции, интересы партий и сопутствующие издержки. Статья представляет собой аналитическую карту двух систем: как они работают, почему одна была изменена, а другая — нет, и что это означает для малых партий и плюрализма представительства.",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/politics/city-councilor-system-taiwan",
-    "readingTime": 122,
+    "readingTime": 149,
     "featured": false,
     "date": "2026-05-27",
     "path": "ru/Politics/city-councilor-system-taiwan.md"
@@ -134535,6 +134620,17 @@
     "path": "ru/History/sanxia-old-street.md"
   },
   {
+    "title": "Статистика 22 округов и городов Тайваня: разрыв в плотности населения составляет 151 раз, а соотношение пожилых людей к детям изменилось с 1:1 до почти 3:1",
+    "description": "Один остров, но на одном квадратном километре Тайбэя проживает 8 975 человек, тогда как в уезде Тайдун — всего 59, разница в 151 раз. На основе данных Департамента регистрации населения Министерства внутренних дел на конец 2025 года мы составили проверяемый портрет 22 округов и городов: 70% населения сосредоточено на 30% территории; самая высокая доля пожилых людей наблюдается в самом густонаселенном Тайбэе, а в уезде Цзяи, где соотношение стариков к детям максимально, оно достигает почти 3:1. Во всех 22 округах и городах без исключения смертность уже превышает рождаемость.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/geography/data-taiwan-22-cities",
+    "readingTime": 101,
+    "featured": false,
+    "date": "2026-06-06",
+    "path": "ru/Geography/data-taiwan-22-cities.md"
+  },
+  {
     "title": "Стеклянные бусы пайвань qata: одна бусина передаёт ответственность целого племени",
     "description": "В 1976 году Умас Цзинрур из Саньдимень в Пиндуне за пять лет экспериментов воссоздал современные стеклянные бусы пайвань; в 1983 году Шь Сюцзю создала мастерскую «Цинтин Ячжу», вернув этот прерванный ремесленный навык в повседневную жизнь — qata всё это время отвечает на один и тот же вопрос: когда система знаний без письменности стоит на грани утраты, кто сможет передать её следующему поколению?",
     "category": "ru",
@@ -134779,11 +134875,11 @@
   },
   {
     "title": "Сяо Цзинтэн",
-    "description": "В 2007 году ресторанного певца пригласили принять участие в отборочных турах шоу «Super Star Avenue». Три его выступления установили новые рекорды телерейтинга, навсегда изменив ситуацию на китайской музыкальной сцене. Он стал первым артистом, завоевавшим титул «Лучшего исполнителя года» на премии Золотой кубок (Golden Melody Awards) в статусе приглашенного участника. Его также называют «Богом дождя» из-за того, что во время каждого его выступления неизменно идет дождь. Своим вокалом и харизмой он написал легендарную историю превращения из грозного соперника в короля музыки.",
+    "description": "Начал выступать в ресторанах с 17 лет, прославился в 2007 году благодаря шоу «Super Star Avenue» и выпустил дебютный альбом в 2008 году. В 2013 году получил премию Золотой кубок как лучший исполнитель мандарин-поп за альбом «Во имя любви».",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/people/jam-hsiao",
-    "readingTime": 42,
+    "readingTime": 18,
     "featured": false,
     "date": "2026-03-23",
     "path": "ru/People/jam-hsiao.md"
@@ -137548,12 +137644,12 @@
     "path": "ru/People/tsai-jui-yueh.md"
   },
   {
-    "title": "Цай Илин",
-    "description": "Не гений, а дива — которой учитель танцев сказал «не танцевальный материал», а через двадцать пять лет ставшая самым наградованным певицей-исполнительницей в истории «Золотой мелодии»",
+    "title": "Цай Илинь (Jolin Tsai)",
+    "description": "Победительница конкурса «Новые голоса» 1998 года, ставшая поп-дивой китайского музыкального мира; трижды лауреат премии «Золотой кубок» за песню года с хитом «Розовый юноша».",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/people/jolin-tsai",
-    "readingTime": 39,
+    "readingTime": 12,
     "featured": false,
     "date": "2026-03-24",
     "path": "ru/People/jolin-tsai.md"
@@ -137912,17 +138008,6 @@
     "path": "ru/Art/chiang-hsien-yi.md"
   },
   {
-    "title": "Цзян Хуэй: от серы бэйтоуских сульфурных источников к королеве тайваньского попса, и её девятилетняя тайная война",
-    "description": "От 10-летней певицы в бэйтоуских заведениях до королевы тайваньского попса с миллионными тиражами — Цзян Хуэй своим голосом перезаписала статус тайваньской народной культуры, но на пике славы ушла на покой из-за секретной войны с раком.",
-    "category": "ru",
-    "tags": [],
-    "url": "https://taiwan.md/ru/people/jody-chiang",
-    "readingTime": 26,
-    "featured": false,
-    "date": "2026-03-28",
-    "path": "ru/People/jody-chiang.md"
-  },
-  {
     "title": "Цзян Цзиган: от гардероба Барби к вопросу, кому в классе можно нравиться что угодно",
     "description": "Родившийся в 1982 году в Тайбэи Цзян Цзиган с 5 лет начинал шить одежду для кукол, а в 2009 году Мишель Обама надела его белое бальное платье. В тайваньских классах его историю используют для разговора о гендерных стереотипах, но важнее спросить: почему ребёнок должен сначала добиться успеха, чтобы ему разрешили просто любить куклы?",
     "category": "ru",
@@ -138185,18 +138270,18 @@
     "path": "ru/History/bipartisan-good-policy.md"
   },
   {
-    "title": "Чжан Айцзя: от Цзяньи, оригинальный исполнитель «Детства» — к режиссёру «Любить и быть близкими»",
-    "description": "Рождённая в 1953 году в городе Цзяньи, Чжан Айцзя в 17 лет вошла в шоу-бизнес благодаря «Человеку в сновидении». «Детство» (Ло Даюй, 1981) — её песня, «Цена любви» (Ли Цзуншэн, 1992) — самый известный хит. В 1986 году «Любимая» принесла «Золотому Коню» награду за лучшую женскую роль; в 2017 году «Любить и быть близкими» была номинирована на лучшую режиссёрскую работу и лучший оригинальный сценарий. Три лица — актриса, режиссёр, певица — более пятидесяти лет.",
+    "title": "Чжан Айцзя",
+    "description": "Чжан Айцзя (Sylvia Chang, род. 1953) — певица, актриса и режиссер; трижды лауреат премии «Золотой конь» в номинации «Лучшая женская роль».",
     "category": "ru",
     "tags": [
       "кино",
-      "режиссёр",
+      "режиссер",
       "актриса",
       "певица",
       "сценарист"
     ],
     "url": "https://taiwan.md/ru/people/sylvia-chang",
-    "readingTime": 35,
+    "readingTime": 47,
     "featured": false,
     "date": "2026-03-19",
     "path": "ru/People/sylvia-chang.md"
@@ -138288,17 +138373,6 @@
     "featured": false,
     "date": "2026-05-19",
     "path": "ru/Music/chou-hui.md"
-  },
-  {
-    "title": "Чжоу Цзелунь (Jay Chou)",
-    "description": "Застенчивый юноша, игравший на пианино в шоу талантов, с первым же альбомом переписал историю мандаринской поп-музыки; благодаря своему оригинальному стилю он доказал, что авторская музыка может быть коммерчески успешной, и показал миру, что восточная музыка способна покорять глобальные сцены.",
-    "category": "ru",
-    "tags": [],
-    "url": "https://taiwan.md/ru/people/jay-chou",
-    "readingTime": 51,
-    "featured": false,
-    "date": "2026-03-23",
-    "path": "ru/People/jay-chou.md"
   },
   {
     "title": "Чжоу Цзыюй",
@@ -139130,6 +139204,17 @@
     "path": "ru/Culture/divine-pig-festival.md"
   },
   {
+    "title": "Э Цзяньхуэй: Королева тайваньского поп-пения, вышедшая из Накаси в Бэйтоу",
+    "description": "Э Цзяньхуэй (урожд. Цзян Шухуэй, 1961 г. р.) в 9 лет переехала из Гаосюна в Тайбэй и начала выступать в отелях Накаси в Бэйтоу. Её альбом «Голос после вина» (1992) разошелся тиражом 1,16 млн копий, став единственным тайваньским альбомом, преодолевшим этот рубеж. Четырежды лауреат премии Золотых песен, она завершила карьеру в 2015 году и триумфально вернулась на сцену в 2024 году.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/people/jody-chiang",
+    "readingTime": 22,
+    "featured": false,
+    "date": "2026-03-28",
+    "path": "ru/People/jody-chiang.md"
+  },
+  {
     "title": "Эволюция тайваньских песен на диалекте: от «песен для дядей» до фаворита интеллектуалов",
     "description": "Проследившая путь тайваньской песни от эпохи Накаси, Хон Ифэна и Цзяо Хуэй до новых поколений, таких как Цяцзыдань и Пайшэшаонянь, мы исследуем, как диалектная музыка обрела признание среди молодежи.",
     "category": "ru",
@@ -139677,12 +139762,12 @@
     "path": "ar/Economy/taiwan-fuel-pricing-and-cpc.md"
   },
   {
-    "title": "آلية تسعير الكهرباء في تايوان وشركة تايبور: تلك النسبة 12.83% التي لم تُرفع، وتحويل الفاتورة إلى موازنة إضافية بقيمة 71.1 مليار دولار تايواني جديد",
-    "description": "في 18 سبتمبر 2026، قررت لجنة مراجعة أسعار الكهرباء عدم تعديل الأسعار من أكتوبر إلى ديسمبر. احتسبت شركة تايبور ارتفاعًا مستحقًا بنسبة 12.83%، من 3.7823 دولار تايواني جديد إلى 4.2675 دولار تايواني جديد لكل درجة، لكن بدلًا من تطبيق الارتفاع، تحول إلى طلب موازنة إضافية بقيمة 71.1 مليار دولار تايواني جديد من المجلس التشريعي. هذا المسار يمتد من صيغة 2017، مرورًا بزيادة رأس مال 150 مليار دولار تايواني جديد عام 2022، وارتفاع 11% عام 2024 على خسائر متراكمة بلغت 382.6 مليار دولار تايواني جديد، إلى خسائر 21.4 مليار دولار تايواني جديد في أول سبعة أشهر من هذا العام، مع توقع خسائر سنوية تتجاوز 71.1 مليار دولار تايواني جديد.",
+    "title": "آلية تسعير الكهرباء في تايوان وشركة تايوان للطاقة: تلك النسبة 12.83% لم تُرفع، والفاتورة تحولت إلى موازنة تكميلية بقيمة 71.1 مليار",
+    "description": "في 18 سبتمبر 2026، قررت لجنة مراجعة تعرفة الكهرباء عدم تعديل الأسعار لشهور أكتوبر-ديسمبر؛ فقد خلصت مراجعة شركة تايوان للطاقة إلى ضرورة تعديل بنسبة 12.83% (من 3.7823 إلى 4.2675 دولار تايواني جديد للكيلوواط/ساعة)، لكن الزيادة أُرجئت إلى اجتماع ديسمبر، مع السعي لتمرير موازنة تكميلية حكومية بقيمة 71.1 مليار دولار تايواني جديد عبر المجلس التشريعي.",
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/economy/taiwan-electricity-pricing-and-taipower",
-    "readingTime": 51,
+    "readingTime": 62,
     "featured": false,
     "date": "2026-10-14",
     "path": "ar/Economy/taiwan-electricity-pricing-and-taipower.md"
@@ -140177,7 +140262,7 @@
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/politics/first-direct-presidential-election",
-    "readingTime": 70,
+    "readingTime": 73,
     "featured": false,
     "date": "2026-08-15",
     "path": "ar/Politics/first-direct-presidential-election.md"
@@ -140373,17 +140458,6 @@
     "featured": false,
     "date": "2026-08-21",
     "path": "ar/History/taiwan-malaria-eradication.md"
-  },
-  {
-    "title": "استخدام البيانات لرؤية 22 محافظة تايوانية: الفارق بين الأكثر اكتظاظاً والأقل يبلغ 151 مرة، والفارق العمري يصل لجيل كامل",
-    "description": "في نفس الجزيرة، تايبيه — الأكثر اكتظاظاً — تضم 8975 نسمة لكل كيلومتر مربع، بينما محافظة تايتونغ — الأقل اكتظاظاً — تضم 59 نسمة فقط، بفارق 151 مرة. مدينة تايبيه الجديدة الأكثر سكاناً تضم 4.04 مليون نسمة، بينما محافظة لينجيانغ الأقل سكاناً تضم 13.6 ألف نسمة فقط، بفارق 297 مرة. محافظة هسينتشو الأصغر عمراً بمعدل شيخوخة 15.08%، بينما محافظة تشياي الأكبر عمراً بمعدل 24.11%، بفارق يقارب جيلاً واحداً. اعتماداً على البيانات الرسمية لوزارة الداخلية — شعبة الشؤون المدنية لنهاية 2025، تقدم هذه النصيحة صورة كاملة وموثقة للجزيرة: 70% من السكان يعيشون على 30% من الأراضي؛ أما مقدمة الشيخوخة فلا تكون في المدن الكبرى بل في المناطق الشرقية والجزر البعيدة والمحافظات الزراعية؛ وبلا استثناء في أي محافظة من المحافظات الـ 22، فإن الوفيات تفوق الولادات.",
-    "category": "ar",
-    "tags": [],
-    "url": "https://taiwan.md/ar/geography/data-taiwan-22-cities",
-    "readingTime": 74,
-    "featured": false,
-    "date": "2026-06-06",
-    "path": "ar/Geography/data-taiwan-22-cities.md"
   },
   {
     "title": "اقتصاد صناع المحتوى في تايوان: ساحة معركة مجزأة لـ 23 مليون نسمة",
@@ -143711,6 +143785,23 @@
     "path": "ar/People/charles-le-gendre.md"
   },
   {
+    "title": "تشانغ آي جيا",
+    "description": "تشانغ آي جيا (سيلفيا تشانغ، مواليد 1953)، عملت في الإذاعة دي جي في سن 16، ومغنية ومقدمة برامج في سن 17، مثلت أول فيلم لها عام 1972، ونالت جائزة الحصان الذهبي لأفضل ممثلة مساعدة عام 1976 عن فيلم \"بي يون تيان\"، وحصدت جائزة أفضل ممثلة ثلاث مرات أعوام 1981 و1986 و2022 عن أفلام \"جدّي\" و\"الحب الأعظم\" و\"أضواء خافتة\" على التوالي. أخرجت أول أفلامها \"يوم ما في سنة ما\" عام 1981، وأخرجت بعدها ستة عشر عملًا، مسيرة موازية كمغنية وممثلة ومخرجة امتدت لأكثر من خمسين عامًا.",
+    "category": "ar",
+    "tags": [
+      "سينما",
+      "مخرج",
+      "ممثلة",
+      "مغنية",
+      "كاتب سيناريو"
+    ],
+    "url": "https://taiwan.md/ar/people/sylvia-chang",
+    "readingTime": 35,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "ar/People/sylvia-chang.md"
+  },
+  {
     "title": "تشانغ تشي-تشي: من «نص وصورة لا يتطابقان» إلى «شاشا 77»، في عصر الاستقطاب يبحث عن «منسق المعلومات» للحوار",
     "description": "مصمم معلومات معروف بقناة «شاشا 77» التي تُحدّث يوميًا منذ سبع سنوات وتضم 1.65 مليون مشترك، يترجم القضايا الاجتماعية المعقدة إلى «ملخصات مبسطة». وفي عصر الاستقطاب، يواصل البحث عن إمكانية الحوار في المجتمع التايواني.",
     "category": "ar",
@@ -145300,12 +145391,12 @@
     "path": "ar/People/chia-yung-chieh.md"
   },
   {
-    "title": "جاي تشو (Jay Chou)",
-    "description": "شاب خجول يعزف على البيانو في برنامج مواهب، ليغير تاريخ موسيقى البوب الصينية مع ألبومه الأول؛ بأسلوبه المبتكر جعل صناعة الموسيقى تؤمن بأن الإبداع يمكن أن يكون مربحًا، وأثبت عبر ألبومات متعددة أن الموسيقى الصينية يمكنها الحفاظ على هويتها الشرقية وغزو المسارح العالمية في آن واحد.",
+    "title": "جاياي لون",
+    "description": "عزف هذا الشاب الخجول على البيانو في برنامج مواهب، ليغير بألبومه الأول تاريخ موسيقى البوب الصينية؛ لقد جعل صناعة الموسيقى تؤمن بأن الإبداع يمكن أن يكون مربحاً بفضل أسلوبه الأصيل، وأثبت من خلال ألبومات متعددة أن الموسيقى الصينية يمكنها الحفاظ على طابعها الشرقي وفي الوقت نفسه غزو المسارح العالمية. ومن مبدع شاب كانت تُرفض مسوداته مراراً، أصبح اليوم ثائراً موسيقياً قلب موازين الساحة الفنية.",
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/people/jay-chou",
-    "readingTime": 43,
+    "readingTime": 42,
     "featured": false,
     "date": "2026-03-23",
     "path": "ar/People/jay-chou.md"
@@ -145537,17 +145628,6 @@
     "path": "ar/People/chuang-chu-yu-nu-ten-dollar-cafeteria-grandma.md"
   },
   {
-    "title": "جولين تساي",
-    "description": "ليست ملكة موهوبة بالفطرة — قيل لها من قبل معلم الرقص \"ليست مادة للرقص\"، وبعد خمسة وعشرين عاماً أصبحت المغنية الراقصة الأكثر تتويجاً في تاريخ جوائز الذهبية للموسيقى",
-    "category": "ar",
-    "tags": [],
-    "url": "https://taiwan.md/ar/people/jolin-tsai",
-    "readingTime": 35,
-    "featured": false,
-    "date": "2026-03-24",
-    "path": "ar/People/jolin-tsai.md"
-  },
-  {
     "title": "جومان: من معلق الرياضات الإلكترونية إلى قناة المليون مشترك، صانع محتوى طويل الأمد أمام الكاميرا",
     "description": "من معلق الرياضات الإلكترونية ومدير منتج في إم إس آي، إلى إدارة قناة عبر فتح العلب والمقارنات والسفر والبرامج الجماعية؛ مسيرة جومان توثق كيف يضبط صانع محتوى يوتيوب تايواني نفسه بين حركة المرور وتقسيم العمل والثقة والمسؤولية العامة.",
     "category": "ar",
@@ -145610,12 +145690,12 @@
     "path": "ar/Art/chiang-hsien-yi.md"
   },
   {
-    "title": "جيانغ هوي: من دخان الكبريت في بيتو خرجت ملكة الأغنية التايوانية، وحربها السرية التي استمرت تسع سنوات",
-    "description": "من الغناء في حانات بيتو في العاشرة من عمرها، إلى تحقيق مبيعات بمليون نسخة كملكة للأغنية التايوانية، أعادت جيانغ هوي بصوتها صياغة مكانة ثقافة عامة الناس في تايوان، لكنها في ذروة مجدها اختارت تعليق الميكروفون بسبب حرب سرية ضد السرطان.",
+    "title": "جيانغ هوي: ملكة الأغنية التايوانية المنحدرة من \"ناكا شي\" في بيتو",
+    "description": "جيانغ هوي (الاسم الحقيقي جيانغ شو هوي، ولدت عام 1961 في كاوشيون) انتقلت مع عائلتها إلى تايبيه ليلاً وهي في التاسعة من عمرها لتعمل مغنية متجولة في \"ناكا شي\" ببيتو. حقق ألبومها \"أصوات ما بعد الخمر\" مبيعات بلغت 1.16 مليون نسخة في تايوان عام 1992، وهو الألبوم الوحيد باللغة التايوانية الذي تجاوز المليون نسخة وفق السجلات الرسمية. فازت بجائزة \"جوين تشو\" لأفضل مغنية تايوانية لأربع دورات متتالية بين عامي 2000 و2003، ثم اعتزلت الغناء عام 2015، وعادت للمسرح في حفل اليوم الوطني بملعب \"تايبيه دوم\" عام 2024.",
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/people/jody-chiang",
-    "readingTime": 21,
+    "readingTime": 19,
     "featured": false,
     "date": "2026-03-28",
     "path": "ar/People/jody-chiang.md"
@@ -146809,6 +146889,17 @@
     "path": "ar/People/san-mao.md"
   },
   {
+    "title": "ساي جياي لين (Jolin Tsai)",
+    "description": "فازت بلقب فئة الغناء في مسابقة \"New Voice Battle\" عام 1998، ثم أصبحت ملكة البوب الصيني عبر ألبوماتها وجولاتها الغنائية؛ وحصلت أغنية \"Rose Boy\" على جائزة أغنية العام في جوائز غو جين ثلاث مرات.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/people/jolin-tsai",
+    "readingTime": 11,
+    "featured": false,
+    "date": "2026-03-24",
+    "path": "ar/People/jolin-tsai.md"
+  },
+  {
     "title": "سباق الحمام في تايوان: من أجل فرصة للجميع، يُدفع بالحمام اليافع إلى رياح بلا حكام",
     "description": "يضع سباق الحمام في تايوان تحليق الحمام اليافع عبر البحر، وتقنيات أقفاص الحمام، والجمعيات الخاصة، وسلسلة الصناعة، والمراهنات في منظومة قواعد واحدة. تستخدم هذه المنظومة المخاطر العالية لصناعة تصور للعدالة يمنح الجميع فرصة، إلا أنها تلقي بتكلفة الضياع، وفقدان الاتصال، والتخلي بعد السباق على عاتق الحمام اليافع الذي يخوض غمار السباق لأول مرة، تاركةً إشكاليات رعاية الحيوان، والحوكمة العامة، والمجتمع المحلي، وتتبع المسؤولية.",
     "category": "ar",
@@ -147115,23 +147206,6 @@
     "featured": false,
     "date": "2026-08-19",
     "path": "ar/People/ceylan-youtuber.md"
-  },
-  {
-    "title": "سيلفيا تشانغ (張艾嘉): من تشياي، مغنية \"الطفولة\" الأصلية إلى مخرجة \"الحب والعائلة\"",
-    "description": "وُلدت سيلفيا تشانغ عام 1953 في مدينة تشياي، ودخلت عالم الفن بعمر 17 عامًا بفيلم \"الحلم\". أغنية \"الطفولة\" (ألّفها لو تا-يو عام 1981) من أدائها، و\"ثمن الحب\" (ألّفها لي زونغ شنغ عام 1992) أشهر أعمالها. نالت جائزة الحصان الذهبي لأفضل ممثلة عن \"الأحب\" عام 1986، وترشحت لأفضل مخرجة وأفضل سيناريو أصيل عن \"الحب والعائلة\" عام 2017. مسيرة تتجاوز خمسين عامًا عبر هويات الممثلة والمخرجة والمغنية.",
-    "category": "ar",
-    "tags": [
-      "سينما",
-      "مخرجة",
-      "ممثلة",
-      "مغنية",
-      "كاتبة سيناريو"
-    ],
-    "url": "https://taiwan.md/ar/people/sylvia-chang",
-    "readingTime": 31,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "ar/People/sylvia-chang.md"
   },
   {
     "title": "شارع سانشيا القديم: صراع السلطة تحت أقواس الطوب الأحمر، وتجربة أصول ثقافية لم تكتمل",
@@ -147772,12 +147846,12 @@
     "path": "ar/People/xiao-qing-yang-grammy-designer.md"
   },
   {
-    "title": "شياو جينغ تينغ (Jam Hsiao)",
-    "description": "في عام 2007، تم ترتيب مشاركة مغني مطعم في مسابقة \"Super Star Avenue\" كمتحدٍ، وحقق عروضه الثلاثة أعلى نسب مشاهدة، ليغير مسار الموسيقى الصينية منذ ذلك الحين. هو أول فنان يفوز بجائزة أفضل مغني في حفل جوائز \"Golden Melody\" بصفته متحديًا، وهو الرجل الذي يُلقب في تايوان بـ \"إله المطر\" نظرًا لهطول الأمطار دائمًا أثناء عروضه.",
+    "title": "شياو جينغ تينغ (Hsiao Jing-teng)",
+    "description": "بدأ الغناء في مطاعم الأغاني الشعبية منذ سن 17 عامًا، واشتهر في عام 2007 عبر برنامج \"Super Star Avenue\"، وأصدر أول ألبوم له في 2008. فاز بجائزة أفضل مغني ماندرين في حفل جوائز \"Golden Melody\" عام 2013، ثم توسع في مجالات الفرق الموسيقية والسينما والمسارح عبر مضيق تايوان.",
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/people/jam-hsiao",
-    "readingTime": 44,
+    "readingTime": 17,
     "featured": false,
     "date": "2026-03-23",
     "path": "ar/People/jam-hsiao.md"
@@ -149135,7 +149209,7 @@
       "البيانات المفتوحة"
     ],
     "url": "https://taiwan.md/ar/about/visualization-module-catalog",
-    "readingTime": 51,
+    "readingTime": 52,
     "featured": false,
     "date": "2026-06-06",
     "path": "ar/About/visualization-module-catalog.md"
@@ -151591,12 +151665,12 @@
     "path": "ar/Culture/taiwan-panorama-magazine.md"
   },
   {
-    "title": "نظام أعضاء المجالس المحلية: لماذا يختلف عن النواب، وبقاء نظام SNTV في السياسة المحلية لمدة 30 عاماً",
-    "description": "في عام 2008، تحوّل النواب إلى نظام الدائرة الواحدة ذات الصوتين، بينما بقيت انتخابات أعضاء مجالس المقاطعات والمدن في نفس العام تستخدم نظام SNTV القديم منذ الثمانينيات — نفس البلد، نفس الناخبين، نفس بطاقة الاقتراع لمناصب مختلفة، لكن بقواعد لعب مختلفة تماماً. هذا ليس خطأ تقنياً، بل هو أكبر أمر غير مكتمل في تاريخ إصلاح النظام الانتخابي في تايوان، وتقف خلفه الفصائل المحلية، ومصالح الأحزاب، وتكاليف الإصلاحات التكميلية. مقالة تفكك كيفية عمل النظامين، لماذا تم إصلاح أحدهما دون الآخر، وماذا يعني ذلك للأحزاب الصغيرة والتعددية التمثيلية.",
+    "title": "نظام أعضاء المجالس: لماذا يختلف عن النواب، بقاء SNTV في السياسة المحلية لـ 30 عاماً",
+    "description": "في عام 2008، تم تغيير النواب إلى نظام الدائرة الواحدة بصوتين، بينما لا تزال انتخابات أعضاء مجالس المقاطعات والمدن في نفس العام تستخدم نظام SNTV القديم من ثمانينيات القرن الماضي — نفس البلد، نفس الناخبين، مناصب مختلفة على نفس ورقة الاقتراع، لكن بقواعد لعب مختلفة تماماً. هذا ليس خطأ تقنياً، بل هو أكبر مهمة غير مكتملة في تاريخ إصلاح النظام الانتخابي في تايوان، وراءها ترتبط الفصائل المحلية، ومصالح الأحزاب، وتكاليف الترتيبات المصاحبة. مقالة تفكك كيفية عمل النظامين، لماذا تم إصلاح أحدهما ولم يتم إصلاح الآخر، وماذا يعني ذلك للأحزاب الصغيرة والتمثيل المتنوع من خريطة النظام.",
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/politics/city-councilor-system-taiwan",
-    "readingTime": 99,
+    "readingTime": 119,
     "featured": false,
     "date": "2026-05-27",
     "path": "ar/Politics/city-councilor-system-taiwan.md"
@@ -151745,6 +151819,17 @@
     "path": "ar/Geography/national-scenic-area-system.md"
   },
   {
+    "title": "نظرة بالبيانات إلى 22 مقاطعة ومدينة في تايوان: الفرق بين الأكثر كثافة والأقل كثافة يبلغ 151 ضعفاً، ونسبة كبار السن إلى الأطفال من واحد إلى واحد حتى تقارب ثلاثة إلى واحد",
+    "description": "في الجزيرة نفسها، تبلغ كثافة تايبيه 8,975 نسمة لكل كيلومتر مربع، بينما تايتونغ 59 نسمة فقط، بفارق 151 ضعفاً. باستخدام بيانات وزارة الداخلية لعام 2025، نرسم صورة قابلة للتحقق لـ 22 مقاطعة ومدينة: 70% من السكان يحتشدون في 30% من الأراضي، وأعلى نسبة لكبار السن هي في تايبيه الأكثر كثافة، بينما أعلى نسبة لكبار السن إلى الأطفال في مقاطعة جيايي تقارب ثلاثة إلى واحد. جميع المقاطعات والمدن الـ 22 دون استثناء، الوفيات فيها تجاوزت المواليد بالفعل.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/geography/data-taiwan-22-cities",
+    "readingTime": 82,
+    "featured": false,
+    "date": "2026-06-06",
+    "path": "ar/Geography/data-taiwan-22-cities.md"
+  },
+  {
     "title": "نظرة شاملة على المطبخ التايواني: لا يوجد طبق نقي التايوانية، وكل طبق هو الأكثر تايوانية",
     "description": "في عام 1949، بجانب دوار نافورة مياه تشياي، وضع لين تيان شو شرائح دجاج على أرز أبيض وسكب عليها صلصة مينان المخمرة؛ بعد الحرب، جلبت القوات الأمريكية المتمركزة في مطار شوي شانغ كميات كبيرة من الديك الرومي إلى تايوان، فتطور هذا الطبق من دجاج بالأرز إلى ديك رومي بالأرز. من شواء خنزير الجبل على ألواح حجرية لدى السكان الأصليين، إلى أمعاء الخنزير المقلية بشرائح الزنجبيل على طريقة الهاكا، إلى نودلز اللحم البقري الحارة على طريقة سيتشوان في قرى العسكريين، وصولاً إلى شاي الفقاعات (珍珠奶茶) الذي اخترع في تايتشونغ عام 1986، ثم 419 مطعماً أدرجها دليل ميشلان في عام 2025. أمضت هذه الجزيرة أربعمئة عام في طهي كل طبق مستعار بأسلوبها الخاص.",
     "category": "ar",
@@ -151804,6 +151889,17 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "ar/History/kmt-government-relocation-and-postwar-reconstruction.md"
+  },
+  {
+    "title": "نواب تايوان غير المباشرين في الليتغوات: 1.1 مليون صوت منحتهم 3 مقاعد، و350 ألف صوت لم تمنحهم شيئًا",
+    "description": "في فرز الأصوات بتاريخ 13 يناير 2024، حصل حزب \"قوة العصر\" (New Power Party) على 353,412 صوتًا للحزب دون الحصول على أي مقعد في البرلمان، بينما كان قد حصد 3 مقاعد قبل أربع سنوات بـ 1,098,100 صوت. تضع الدستور عتبة بنسبة 5% لـ 34 مقعدًا غير مباشر، بينما تكفي نسبة 2.94% تقريبًا للحصول على مقعد واحد؛ الأصوات التي تقع بين هاتين النسبتين لا تُترجم إلى مقاعد بل تزيد من حصص الأحزاب المتجاوزة للعتبة. في عام 2014، قضت المحكمة الدستورية بدستورية هذه العتبة عبر التفسير رقم 721، لكن القضاة اختلفوا في مذكراتهم حول عدد الأشخاص الذين حالت هذه العتبة دون وصولهم.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/politics/party-list-legislators-taiwan",
+    "readingTime": 56,
+    "featured": false,
+    "date": "2026-10-23",
+    "path": "ar/Politics/party-list-legislators-taiwan.md"
   },
   {
     "title": "نوافذ تايوان الحديدية: كيف حكت نافذة مضادة للسرقة سيرة ذاتية لعائلة بأكملها",
@@ -153037,6 +153133,17 @@
     "path": "hi/Politics/lai-lai-lai-zenmeyang-chant.md"
   },
   {
+    "title": "आंकड़ों से ताइवान के 22 काउंटी-शहरों का हाल: सबसे घने और सबसे विरल में 151 गुना अंतर, बुजुर्ग-बच्चा अनुपात 1:1 से लगभग 3:1 तक",
+    "description": "एक ही द्वीप पर, ताइपे शहर में प्रति वर्ग किलोमीटर 8,975 लोग हैं, जबकि ताइतुंग काउंटी में केवल 59, यानी 151 गुना का अंतर। गृह मंत्रालय के गृह प्रशासन विभाग के 2025 के अंत के आंकड़ों से 22 काउंटी-शहरों की एक सत्यापन योग्य तस्वीर उभरती है: 70% आबादी 30% भूमि पर सिमटी है, बुजुर्गों का अनुपात सबसे घने ताइपे में सबसे अधिक है, और बुजुर्ग-बच्चा अनुपात में शीर्ष पर रहने वाला जियाई काउंटी लगभग 3:1 पर है। सभी 22 काउंटी-शहर बिना किसी अपवाद के, मृत्यु दर जन्म दर से अधिक दर्ज कर चुके हैं।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/geography/data-taiwan-22-cities",
+    "readingTime": 76,
+    "featured": false,
+    "date": "2026-06-06",
+    "path": "hi/Geography/data-taiwan-22-cities.md"
+  },
+  {
     "title": "आठ दो तीन तोप युद्ध: चौवालीस दिन की तोपबाज़ी, बीस साल का किमेन दैनिक जीवन",
     "description": "1958 में 23 अगस्त को, किमेन ने 85 मिनट में तीस हज़ार से अधिक गोले झेले। चौवालीस दिन बाद, तोपबाज़ी वास्तव में नहीं गई, एक-दिन-चालू-दो-दिन-बंद 1979 तक चला। इस युद्ध ने केवल ताइवान जलडमरूमध्य की रणनीति नहीं बदली, बल्कि निवासियों, छात्रों और विस्थापित परिवारों को युद्धक्षेत्र की स्मृति में छोड़ दिया। गोले और निकासी के बीच, किमेन अनुशासन से अशांति सहने वाला द्वीप बन गया, और युद्धक्षेत्र संरक्षण का सबसे कठिन सवाल छोड़ गया: जीत याद रखना, क्या नागरिकों की क़ीमत याद रखना भी है?",
     "category": "hi",
@@ -153519,6 +153626,17 @@
     "featured": false,
     "date": "2026-09-18",
     "path": "hi/Society/who-counts-as-low-wage.md"
+  },
+  {
+    "title": "काउंसिलर प्रणाली: यह विधायकों से अलग क्यों है, स्थानीय राजनीति में SNTV के 30 वर्ष",
+    "description": "2008 में विधायकों के लिए एकल निर्वाचन क्षेत्र दो-मतपत्र प्रणाली लागू की गई, लेकिन उसी वर्ष होने वाले काउंटी और सिटी काउंसिलर चुनावों में अभी भी 1980 के दशक की पुरानी SNTV प्रणाली का उपयोग किया गया — एक ही देश, एक ही मतदाता, एक ही मतपत्र पर अलग-अलग पद, लेकिन दो पूरी तरह से अलग नियम। यह कोई त्रुटि नहीं है, बल्कि ताइवान के चुनावी प्रणाली सुधार के इतिहास का सबसे बड़ा अधूरा कार्य है, जिसके पीछे स्थानीय गुटबाजी, राजनीतिक दलों के हित और कार्यान्वयन की लागत जुड़ी हुई है। यह लेख दोनों प्रणालियों के कामकाज, एक तरफ बदलाव होने और दूसरी तरफ न होने के कारणों, तथा छोटे दलों और विविध प्रतिनिधित्व के लिए इसके अर्थों का विश्लेषण करने वाला एक प्रणालीगत मानचित्र है।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/politics/city-councilor-system-taiwan",
+    "readingTime": 139,
+    "featured": false,
+    "date": "2026-05-27",
+    "path": "hi/Politics/city-councilor-system-taiwan.md"
   },
   {
     "title": "काऊशुंग प्रसंस्करण निर्यात क्षेत्र: ताइवान को दुनिया से जोड़ने वाला 72 हेक्टेयर का औद्योगिक प्रयोगस्थल",
@@ -154283,6 +154401,23 @@
     "featured": false,
     "date": "2026-04-25",
     "path": "hi/People/chao-tzu-chiang-childrens-theater.md"
+  },
+  {
+    "title": "चांग आई-चिया (Chang Ai-chia)",
+    "description": "चांग आई-चिया (सिल्विया चांग, जन्म 1953), 16 वर्ष की आयु में रेडियो डीजे बनीं, 17 वर्ष में गायिका और होस्ट बनीं, 1972 में अपनी पहली फिल्म की। उन्होंने 'बी युन तियान' के लिए 1976 में गोल्डन हॉर्स सर्वश्रेष्ठ सहायक अभिनेत्री का पुरस्कार जीता, और 'वो माय ग्रैंडफादर', 'ज़ुई आई' तथा 'देंग ह्वा लान शान' के लिए 1981, 1986 और 2022 में तीन बार गोल्डन हॉर्स सर्वश्रेष्ठ अभिनेत्री का पुरस्कार प्राप्त किया। उन्होंने 1981 में 'मो यान मो युए मो ई तियान' का निर्देशन किया और उसके बाद सोलह कृतियों का निर्देशन किया, पचास से अधिक वर्षों तक गायिका, अभिनेत्री और निर्देशक के रूप में सक्रिय रहीं।",
+    "category": "hi",
+    "tags": [
+      "फिल्म",
+      "निर्देशक",
+      "अभिनेत्री",
+      "गायिका",
+      "पटकथा लेखक"
+    ],
+    "url": "https://taiwan.md/hi/people/sylvia-chang",
+    "readingTime": 45,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "hi/People/sylvia-chang.md"
   },
   {
     "title": "चांग चिह-ची: तुवन बु शु से शाशा चि-ची तक, ध्रुवीकरण के युग में संवाद के \"सूचना क्यूरेटर\" की तलाश",
@@ -155369,6 +155504,17 @@
     "path": "hi/People/chen-chih-han-holger.md"
   },
   {
+    "title": "जियांग हुई: बेइतोउ नाकासी से निकली ताइवानी संगीत की दिग्गज",
+    "description": "जियांग हुई (जन्म नाम जियांग शु-हुई, 1961, काऊशुंग) 9 साल की उम्र में अपने परिवार के साथ रातों-रात ताइपे चली गईं और बेइतोउ नाकासी में गायन करने लगीं। 1992 में उनके एल्बम \"शराबी के दिल की आवाज़\" (Jiǔ hòu de xīn shēng) ने ताइवान में 1.16 मिलियन प्रतियां बेचीं, जो आधिकारिक रिकॉर्ड में मिलियन क्लब में पहुँचने वाला एकमात्र ताइवानी भाषा का एल्बम है। उन्होंने 2000 से 2003 तक लगातार चार बार गोल्डन डिस्क अवार्ड्स (Golden Melody Awards) में सर्वश्रेष्ठ ताइवानी महिला गायिका का पुरस्कार जीता। 2015 में उन्होंने गायन से संन्यास लिया और 2024 में ''ग्रैंड डोम'' नेशनल डे समारोह में वापसी की।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/people/jody-chiang",
+    "readingTime": 21,
+    "featured": false,
+    "date": "2026-03-28",
+    "path": "hi/People/jody-chiang.md"
+  },
+  {
     "title": "जियान ह्यान-ई: ताइवान छोड़ने के पैंतालीस साल बाद, घर लौटने पर उसने अपने जीवन की सर्वश्रेष्ठ पेंटिंग बनाई",
     "description": "दिसंबर 1967 में, पच्चीस वर्षीय जियान ह्यान-ई जैक मेट्ज़ (Jacques Metzg) को खोजने पेरिस गए, और पाया कि उनका आदर्श एक साल पहले मर चुका था। अगले पैंतालीस वर्षों तक, उन्होंने न्यूयॉर्क के सोहो में खिड़कियां बंद करके आंतरिक प्रकाश की तलाश की; 1975 में लैमैग्ना गैलरी ने कोई पेंटिंग नहीं बेची। 1990 के दशक में जब उनके पिता गिर गए, तो वह लोंगशान मंदिर के सिगारों पर 'सौ साल पुराना मंदिर' चित्रित करने लौटे। 2008 में ताइदोंग जिनज़ू में बसने की उम्र सत्तर-पाँच थी, और 2025 में जियान ह्यान-ई आर्ट पार्क खुलने तक उनकी उम्र अठ्ठाईस साल हो जाएगी।",
     "category": "hi",
@@ -155413,12 +155559,12 @@
     "path": "hi/Technology/junyi-academy.md"
   },
   {
-    "title": "जे चाउ (Jay Chou)",
-    "description": "एक शर्मीला युवक जिसने टैलेंट शो में पियानो बजाया और अपने पहले एल्बम के साथ मंदारिन पॉप संगीत का इतिहास बदल दिया; उन्होंने अपने मौलिक संगीत से यह साबित किया कि रचनात्मकता लाभदायक हो सकती है, और कई एल्बमों के माध्यम से दिखाया कि मंदारिन संगीत वैश्विक मंच पर अपनी पूर्वी पहचान बनाए रखते हुए भी राज कर सकता है।",
+    "title": "जे चाउ",
+    "description": "एक शर्मीला लड़का एक टैलेंट शो में पियानो बजाता है, और उसका पहला एल्बम ही चीनी पॉप संगीत का इतिहास बदल देता है; वह अपनी मौलिक शैली से संगीत जगत को विश्वास दिलाता है कि रचना बिक सकती है, कई एल्बमों के साथ साबित करता है कि चीनी संगीत पूर्वी विशेषताओं को बनाए रखते हुए विश्व मंच पर विजय प्राप्त कर सकता है, बार-बार खारिज किए जाने वाले युवा रचयिता से अब वह वास्तव में संगीत जगत को उलट-पुलट करने वाला क्रांतिकारी बन चुका है।",
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/people/jay-chou",
-    "readingTime": 48,
+    "readingTime": 43,
     "featured": false,
     "date": "2026-03-23",
     "path": "hi/People/jay-chou.md"
@@ -155484,17 +155630,6 @@
     "path": "hi/People/jason-wu-fashion-designer.md"
   },
   {
-    "title": "जॉलिन त्साई",
-    "description": "प्रतिभा नहीं, परिश्रम की महारानी—नृत्य शिक्षक ने कहा \"नृत्य के लायक नहीं\", पच्चीस साल बाद बनीं गोल्डन मेलोडी अवार्ड्स के इतिहास में सर्वाधिक पुरस्कृत गायिका-नर्तकी",
-    "category": "hi",
-    "tags": [],
-    "url": "https://taiwan.md/hi/people/jolin-tsai",
-    "readingTime": 36,
-    "featured": false,
-    "date": "2026-03-24",
-    "path": "hi/People/jolin-tsai.md"
-  },
-  {
     "title": "ज़ोंगज़ी",
     "description": "ताइवान का ज़ोंगज़ी एक भोजन नहीं है, बल्कि चार अलग-अलग द्वीपीय स्मृतियाँ हैं जो एक-दूसरे पर सटी हुई हैं: मिनन, हक़का, बाह्य प्रांत, और आदिवासी; हर कड़च में, वह रास्ता है जिससे आप आए हैं।",
     "category": "hi",
@@ -155528,6 +155663,17 @@
     "path": "hi/People/joeman.md"
   },
   {
+    "title": "जोलिन त्साई (蔡依林)",
+    "description": "1998 में उन्होंने 《न्यू वॉयस पोजिशनिंग बैटल》 की गायन श्रेणी में चैंपियनशिप जीती, बाद में एल्बम और टूर के जरिए मंदारिन पॉप दिवा बनीं; 〈रोज बॉय〉 ने उन्हें तीसरी बार गोल्डन मेलोडी अवार्ड का साल का गीत दिलाया।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/people/jolin-tsai",
+    "readingTime": 10,
+    "featured": false,
+    "date": "2026-03-24",
+    "path": "hi/People/jolin-tsai.md"
+  },
+  {
     "title": "जोस्टार: ज्ञान के लिए भुगतान शुरू करने वाला एक झूठा मूछ और पढ़ाई के साथ",
     "description": "यूमा ने लंबे समय से लिखते हुए एक ज्ञान-आधारित YouTuber बन गई। उसने अपने झूठे मूछों, पुस्तक समीक्षाओं और खुद को शिक्षक न बनाए जाने के साथ सामग्री निर्माण के मूल्य की खोज की, और सदस्यता समर्थन की सफलता ने फिर से निर्माता की स्वतंत्रता पर सवाल खड़े किए। यह लेख ब्लॉग, वीडियो समीक्षा, पढ़ाई, फंडिंग और सामग्री के वादे के चौराहे पर एक ज्ञान-आधारित सोशल मीडिया प्रभावी कैसे अपनी मेहनत और सीमाएं बनाती है।",
     "category": "hi",
@@ -155544,17 +155690,6 @@
     "featured": false,
     "date": "2026-08-19",
     "path": "hi/People/jiong-xing-ren.md"
-  },
-  {
-    "title": "ज्यांग हुई (江蕙): बेइतौ की गंधक भरी धुंध से निकली ताइवानी भाषा की महारानी, और उनका नौ साल लंबा गुप्त युद्ध",
-    "description": "10 साल की उम्र में बेइतौ के शराबघरों में गाकर शुरुआत करने से लेकर लाखों प्रतियां बेचने वाली ताइवानी भाषा की गायिका बनने तक, ज्यांग हुई ने अपनी आवाज़ से ताइवान की आम जनता की संस्कृति का दर्जा बदल दिया, लेकिन चरम पर एक गुप्त कैंसर विरोधी युद्ध के कारण उन्होंने गायकी छोड़ने का फैसला किया।",
-    "category": "hi",
-    "tags": [],
-    "url": "https://taiwan.md/hi/people/jody-chiang",
-    "readingTime": 25,
-    "featured": false,
-    "date": "2026-03-28",
-    "path": "hi/People/jody-chiang.md"
   },
   {
     "title": "झांग शुआन से अनपू तक—दो नाम, एक ही सवाल",
@@ -155821,17 +155956,6 @@
     "featured": true,
     "date": "2026-04-20",
     "path": "hi/People/teresa-teng.md"
-  },
-  {
-    "title": "डेटा से ताइवान के 22 जिले: सबसे भीड़ भरे और सबसे खाली में 151 गुना अंतर, सबसे युवा और सबसे पुराने में एक पीढ़ी का अंतर",
-    "description": "एक ही द्वीप पर, सबसे ज़्यादा जनसंख्या घनत्व वाला ताइपे शहर 8,975 लोग प्रति वर्ग किमी है, जबकि सबसे कम घनत्व वाला ताइतुंग काउंटी 59 लोग प्रति वर्ग किमी है — 151 गुना का अंतर। जनसंख्या में सबसे ज़्यादा नया ताइपे 40.44831 लाख लोग हैं, सबसे कम लिएंजियांग काउंटी केवल 13,621 लोग हैं — 297 गुना का अंतर। सबसे युवा नई जिंदल काउंटी की उच्च-आयु दर 15.08% है, सबसे पुराना जिआयी काउंटी 24.11% है — लगभग एक पीढ़ी का अंतर। आंतरिक मामलों के मंत्रालय के जनसंख्या विभाग के 2025 के अंत के आधिकारिक आंकड़ों का उपयोग करके, हम पूरे द्वीप का एक माप-स्केल, सत्यापन योग्य चित्र बनाते हैं: सत्तर प्रतिशत लोग तीस प्रतिशत भूमि पर एकत्रित हैं, वृद्धि का अग्रभाग शहरों में नहीं बल्कि पूर्वी क्षेत्र, द्वीपसमूह और कृषि जिलों में है, और ताइवान के सभी 22 जिलों में बिना किसी अपवाद के, मृत्यु पहले से ही जन्म से अधिक हो गई है।",
-    "category": "hi",
-    "tags": [],
-    "url": "https://taiwan.md/hi/geography/data-taiwan-22-cities",
-    "readingTime": 83,
-    "featured": false,
-    "date": "2026-06-06",
-    "path": "hi/Geography/data-taiwan-22-cities.md"
   },
   {
     "title": "डेमोक्रेटिक प्रोग्रेसिव पार्टी की स्थापना: ग्रैंड होटल में, पार्टी-आउटसाइडर्स कैसे निषेध को संगठन में बदल गए",
@@ -160897,12 +161021,12 @@
     "path": "hi/Art/mountain-makers-tsmc-documentary.md"
   },
   {
-    "title": "पहली बार राष्ट्रपति प्रत्यक्ष चुनाव: जब मिसाइलें निकट आईं, तो मतपत्र कैसे ताइवान की व्यवस्था बना",
-    "description": "1996 में ताइवान ने पहली बार नागरिकों द्वारा प्रत्यक्ष राष्ट्रपति चुनाव किया, जब व्यवस्था सुधार, वाइल्ड लिली छात्र आंदोलन और ताइवान जलडमरूमध्य सैन्य संकट एक ही मतपत्र पर मिले, और लोकतंत्र इस प्रकार मतदान दिवस से परे व्यवस्थागत जीवन में प्रवेश किया।",
+    "title": "पहला राष्ट्रपति प्रत्यक्ष चुनाव: जब मिसाइलें करीब थीं, तब वोट कैसे बना ताइवान की संस्थागत शक्ति",
+    "description": "1996 में ताइवान ने पहली बार नागरिकों द्वारा सीधे राष्ट्रपति का चुनाव किया; संस्थागत सुधार, वाइल्ड लिली छात्र आंदोलन और ताइवान जलडमरूमध्य के सैन्य संकट एक ही मतपत्र पर मिले, जिससे लोकतंत्र मतदान दिवस से परे एक संस्थागत जीवन में प्रवेश कर गया।",
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/politics/first-direct-presidential-election",
-    "readingTime": 81,
+    "readingTime": 85,
     "featured": false,
     "date": "2026-08-15",
     "path": "hi/Politics/first-direct-presidential-election.md"
@@ -160999,17 +161123,6 @@
     "featured": false,
     "date": "2026-05-13",
     "path": "hi/People/park-sung-eun-actress.md"
-  },
-  {
-    "title": "पार्षद प्रणाली: विधायकों से अलग क्यों, SNTV 30 साल से स्थानीय राजनीति में क्यों टिका है",
-    "description": "2008 में विधायक एकल चुनाव क्षेत्र दो-वोट प्रणाली में बदल गए, उसी साल काउंटी-शहर पार्षद चुनाव अभी भी 1980 के दशक की SNTV पुरानी प्रणाली का उपयोग करते थे — एक ही देश, मतदाताओं का एक ही समूह, एक ही मतपत्र पर अलग-अलग पद, फिर भी दो पूरी तरह से अलग खेल नियम। यह बग नहीं है, यह ताइवान के चुनाव प्रणाली सुधार के इतिहास में सबसे बड़ा अधूरा काम है, जिसके पीछे स्थानीय गुट, पार्टी हित, और पूरक लागत जुड़ी हैं। एक लेख जो दोनों प्रणालियों के कामकाज को अलग करता है, क्यों एक तरफ सुधार हुआ और दूसरी तरफ नहीं, और छोटी पार्टियों व विविध प्रतिनिधित्व के लिए इसका क्या अर्थ है, इसका प्रणाली मानचित्र।",
-    "category": "hi",
-    "tags": [],
-    "url": "https://taiwan.md/hi/politics/city-councilor-system-taiwan",
-    "readingTime": 109,
-    "featured": false,
-    "date": "2026-05-27",
-    "path": "hi/Politics/city-councilor-system-taiwan.md"
   },
   {
     "title": "पालाकाओ: मातायान आर्द्रभूमि के तीन-मंज़िला मछली-अपार्टमेंट और एक पारिस्थितिक अनुबंध",
@@ -163940,6 +164053,17 @@
     "path": "hi/History/hukou-camp-shengli-road-memory.md"
   },
   {
+    "title": "विधान युआन के पार्टी-सूची विधायक: 11 लाख वोटों पर 3 सीटें, 3.5 लाख वोटों पर एक भी सीट नहीं",
+    "description": "13 जनवरी 2024 को मतगणना में न्यू पावर पार्टी को 353,412 पार्टी वोट मिले, लेकिन उसे एक भी पार्टी-सूची सीट नहीं मिली; चार साल पहले इसी पार्टी ने 1,098,100 वोटों से 3 सीटें जीती थीं। संविधान ने 34 पार्टी-सूची सीटों के लिए 5% की सीमा तय की है, जबकि आनुपातिक आधार पर लगभग 2.94% एक सीट के लिए पर्याप्त होता। दोनों के बीच पड़ने वाले वोट सीटों में नहीं बदलते, बल्कि वे सीमा पार करने वाली पार्टियों के अनुपात को बढ़ा देते हैं। व्याख्या संख्या 721 ने 2014 में इस सीमा को संवैधानिक ठहराया, लेकिन बड़े न्यायाधीशों की राय पुस्तिकाओं में चुनावी आंकड़ों के साथ बहस की गई कि आखिर इसने किसे रोका।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/politics/party-list-legislators-taiwan",
+    "readingTime": 58,
+    "featured": false,
+    "date": "2026-10-23",
+    "path": "hi/Politics/party-list-legislators-taiwan.md"
+  },
+  {
     "title": "विश्व स्तर पर घूमने वाला उच्च-स्तरीय हृदय: ताइवान के साइकिल उद्योग का OEM साम्राज्य से नवाचार केंद्र में परिवर्तन का इतिहास",
     "description": "1970 के दशक की पारंपरिक OEM शुरुआत से, शताब्दी-पार A-Team प्रतिस्पर्धी-सहयोगी गठबंधन तक, और अब वैश्विक उच्च-स्तरीय कार्बन फाइबर, इलेक्ट्रिक-असिस्ट साइकिल (e-bike) और ESG हरित निर्माण की लहर का नेतृत्व करते हुए, ताइवान का \"साइकिल साम्राज्य\" अपनी लचीली आपूर्ति श्रृंखला क्लस्टर के बल पर फिर से समृद्धि कैसे हासिल कर रहा है?",
     "category": "hi",
@@ -164338,17 +164462,6 @@
     "path": "hi/People/xiao-qing-yang-grammy-designer.md"
   },
   {
-    "title": "शियाओ जिंग-तेंग (Hsiao Jing-teng)",
-    "description": "2007 में, एक रेस्टोरेंट गायक को \"सुपर स्टारलाइट एवेन्यू\" के चैलेंज राउंड में भाग लेने के लिए चुना गया, जिसके तीन प्रदर्शनों ने रिकॉर्ड तोड़ दिए और मंदारिन संगीत जगत को बदल दिया। वह चैलेंज प्रतिभागी के रूप में गोल्डन मेलोडी अवार्ड्स जीतने वाले पहले कलाकार हैं, जिन्हें ताइवान में उनके हर प्रदर्शन के दौरान बारिश होने के कारण \"रेन गॉड\" (Rain God) कहा जाता है।",
-    "category": "hi",
-    "tags": [],
-    "url": "https://taiwan.md/hi/people/jam-hsiao",
-    "readingTime": 49,
-    "featured": false,
-    "date": "2026-03-23",
-    "path": "hi/People/jam-hsiao.md"
-  },
-  {
     "title": "शिह मिंग-तेह: पच्चीस साल सलाखों के पीछे, अंत में अपनी ही पार्टी के खिलाफ़ झंडा बुलंद किया",
     "description": "1979 की मेलीदाओ घटना के बाद, शिह मिंग-तेह ने मुख्य साजिशकर्ता के तौर पर सैन्य अदालत में बेबाकी से दलीलें दीं, न अपराध कबूला, न रहम मांगा, अंततः उम्रकैद की सज़ा पाई। उन्होंने कुल पच्चीस साल जेल में बिताए, ताइवान के लोकतंत्र आंदोलन के सबसे अहम पीड़ितों में से एक बने। लेकिन 2006 में, उसी शख्स ने जिसने डीपीपी को सत्ता तक पहुंचाया, पलटकर चेन शुई-बियान के खिलाफ़ रेड शर्ट आंदोलन छेड़ दिया। 15 जनवरी 2024 को, अपने 83वें जन्मदिन पर, वे इस अनसुलझे अंतर्विरोध के साथ विदा हुए।",
     "category": "hi",
@@ -164541,6 +164654,17 @@
     "featured": false,
     "date": "2026-08-05",
     "path": "hi/Economy/shopee.md"
+  },
+  {
+    "title": "श्याओ चिंग-टेंग (蕭敬騰)",
+    "description": "17 साल की उम्र से लोकगीत रेस्तरां में गाना शुरू किया, 2007 में 'सुपर स्टार एवेन्यू' के चैलेंज सेगमेंट से प्रसिद्ध हुए, 2008 में पहला एल्बम जारी किया। 2013 में 'इन द नेम ऑफ लव' के लिए गोल्डन मेलोडी अवार्ड्स में सर्वश्रेष्ठ मंदारिन पुरुष गायक जीता, बाद में बैंड, फिल्मों और दोनों किनारों के मंच पर विकसित हुए।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/people/jam-hsiao",
+    "readingTime": 17,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "hi/People/jam-hsiao.md"
   },
   {
     "title": "श्याओ शांग-नोंग: गेम PM से INSIDE संस्थापक तक, ताइवान के इंटरनेट जगत के \"लीझांग बो\"",
@@ -164912,23 +165036,6 @@
     "featured": false,
     "date": "2026-08-25",
     "path": "hi/Society/housing-justice-taiwan.md"
-  },
-  {
-    "title": "सिल्विया चांग: चियाई से शुरुआत, \"बचपन\" की मूल गायिका से \"लव एंड लव\" की निर्देशक तक",
-    "description": "1953 में चियाई शहर में जन्मीं सिल्विया चांग 17 साल की उम्र में \"ड्रीम लवर\" से मनोरंजन जगत में आईं। \"बचपन\" (लो ता-यु, 1981 रचना) उनका गाया गीत है, \"प्यार की कीमत\" (जोनाथन ली, 1992 रचना) उनका सबसे प्रसिद्ध प्रतिनिधि गीत है। 1986 में \"सबसे प्यारा\" ने गोल्डन हॉर्स सर्वश्रेष्ठ अभिनेत्री जीता; 2017 में \"लव एंड लव\" गोल्डन हॉर्स सर्वश्रेष्ठ निर्देशक और सर्वश्रेष्ठ मूल पटकथा के लिए नामांकित। अभिनेत्री, निर्देशक, गायिका तीन पहचानों को पार करते हुए, पचास साल से अधिक।",
-    "category": "hi",
-    "tags": [
-      "फिल्म",
-      "निर्देशक",
-      "अभिनेत्री",
-      "गायिका",
-      "पटकथा लेखक"
-    ],
-    "url": "https://taiwan.md/hi/people/sylvia-chang",
-    "readingTime": 34,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "hi/People/sylvia-chang.md"
   },
   {
     "title": "सी-सा-नान गाँव: कारखाने का बस्ती, अब 101 के पास सांस्कृतिक कला पार्क",
@@ -165867,6 +165974,17 @@
     "featured": false,
     "date": "2026-04-05",
     "path": "ko/Music/eggplant-egg-band.md"
+  },
+  {
+    "title": "강후이: 베이토우 나카시 출신의 타이완어 디바",
+    "description": "강후이(본명 강수후이, 1961년 가오슝 출생)는 9세에 가족과 함께 야반도주하듯 타이베이로 이주해 베이토우 나카시에서 노래를 불렀다. 1992년 《술 취한 뒤의 심정》이 타이완에서 116만 장 팔려 공식 기록상 유일한 100만 장 돌파 타이완어 음반이 됐다. 2000~2003년 금곡상 타이완어 부문 최우수 여자 가수상을 4회 연속 수상했고, 2015년 은퇴했다가 2024년 타이베이 돔 국경절 축하 공연에서 복귀했다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/people/jody-chiang",
+    "readingTime": 11,
+    "featured": false,
+    "date": "2026-03-28",
+    "path": "ko/People/jody-chiang.md"
   },
   {
     "title": "개방문화재단: 타이완에서 가장 통제하기 어려운 사람들을 위해 가장 지루한 일을 하다",
@@ -169114,12 +169232,12 @@
     "path": "ko/People/deng-yu-xian-taiwanese-song-composer.md"
   },
   {
-    "title": "데이터로 보는 타이완 22개 현·시: 가장 빽빽한 곳과 가장 빈 곳의 차이 151배, 가장 늙은 곳과 가장 젊은 곳의 차이 한 세대",
-    "description": "같은 섬에서 인구 밀도가 가장 높은 타이베이시는 제곱킬로미터당 8,975명, 가장 낮은 타이둥현은 59명으로 151배 차이 난다. 인구가 가장 많은 신베이시 404만 명, 가장 적은 롄장현 13.6만 명으로 297배 차이. 가장 젊은 신주현 고령화율 15.08%, 가장 늙은 자이현 24.11%로 거의 한 세대 차이. 내정부 호정사 2025년 말 공식 데이터로 섬 전체의 눈금 있고 검증 가능한 초상화를 그린다: 70% 인구가 30% 땅에 몰리고, 노화의 전선은 도시가 아닌 동부·도서·농업 현에 있으며, 타이완 22개 현·시 모두 예외 없이 사망이 출생을 앞지른다.",
+    "title": "데이터로 보는 타이완 22개 현시: 가장 밀집된 곳과 가장 한적한 곳의 151배 차이, 노인과 아이의 비율은 1:1에서 3:1까지",
+    "description": "같은 섬 안에서도 타이베이시는 km²당 8,975명인 반면 타이둥현은 59명에 불과해 151배 차이가 난다. 내정부 호정사의 2025년 말 데이터를 바탕으로 22개 현시의 초상을 그려본다: 인구의 70%가 30%의 토지에 밀집해 있으며, 노인 비율이 가장 높은 곳은 가장 밀집된 타이베이시이고, 노인 대 아이 비율이 가장 높은 가오슝현은 약 3:1에 달한다. 22개 현시 모두 예외 없이 사망자 수가 출생아 수를 넘어섰다.",
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/geography/data-taiwan-22-cities",
-    "readingTime": 39,
+    "readingTime": 47,
     "featured": false,
     "date": "2026-06-06",
     "path": "ko/Geography/data-taiwan-22-cities.md"
@@ -171328,18 +171446,18 @@
   },
   {
     "title": "샤오징텅(蕭敬騰)",
-    "description": "2007년, 한 식당 전속 가수가 《초급성광대도》 도전자전에 배치되어 세 번의 공연으로 시청률 신기록을 세우며 중화권 가요계를 다시 썼다. 그는 도전자 신분으로 금곡장(金曲獎) 가왕을 차지한 최초의 연예인이자, 공연마다 비가 내려 온 타이완이 '우신(雨神)'이라 부르는 남자로, 노래와 화제성으로 도전자 마왕에서 가왕이 된 전설을 썼다.",
+    "description": "17세부터 민가 레스토랑에서 보컬로 활동했으며, 2007년 《슈퍼성광대도》의 도전 코너를 통해 폭발적인 인기를 얻었다. 2008년 첫 앨범을 발매하였고, 2013년 《이애지명》으로 금곡상을 수상한 뒤 밴드, 영화 및 양안 무대에서 활약하고 있다.",
     "category": "ko",
     "tags": [
       "음악",
-      "대중음악",
+      "팝 음악",
       "재즈",
-      "초급성광대도",
-      "금곡장",
-      "우신"
+      "슈퍼성광대도",
+      "금곡상",
+      "우신(雨神)"
     ],
     "url": "https://taiwan.md/ko/people/jam-hsiao",
-    "readingTime": 22,
+    "readingTime": 9,
     "featured": false,
     "date": "2026-03-23",
     "path": "ko/People/jam-hsiao.md"
@@ -173630,12 +173748,12 @@
     "path": "ko/Society/medical-care-act.md"
   },
   {
-    "title": "의원 제도: 왜 입법위원과 다른가, SNTV가 지방정치에 남은 30년",
-    "description": "2008년 입법위원 선거는 단일선거구 양표제로 바뀌었지만, 같은 해 현·시 의원 선거는 여전히 1980년대의 낡은 SNTV 제도를 사용했다. 같은 국가, 같은 유권자, 같은 투표용지 위의 서로 다른 직위가 완전히 다른 두 세트의 게임 규칙으로 선출된 것이다. 이것은 버그가 아니라 타이완 선거제도 개혁사에서 가장 큰 미완의 과제이며, 그 뒤에는 지방 파벌, 정당 이익, 제도 보완 비용이 얽혀 있다. 두 제도가 어떻게 작동하는지, 왜 한쪽은 바뀌고 다른 한쪽은 바뀌지 않았는지, 그것이 소수 정당과 다양한 대표성에 무엇을 의미하는지 해부하는 제도 지도이다.",
+    "title": "의원 제도: 왜 입법위원과 다른가, 지방 정치에 남은 SNTV 30년",
+    "description": "2008년 입법위원이 단일선거구 양표제로 개편되었으나, 같은 해 치러진 현·시 의원 선거는 여전히 1980년대의 SNTV 구제를 사용했다 — 같은 국가, 같은 유권자, 같은 투표용지 위의 서로 다른 직책인데도 두 가지 완전히 다른 게임 규칙이 적용됐다. 이는 버그가 아니라 대만 선거제도 개혁사상 최대의 미완 과제로, 그 뒤에는 지방 파벌, 정당 이익, 부대 비용이 얽혀 있다. 두 제도가 어떻게 작동하는지, 왜 한쪽만 바뀌고 다른 쪽은 그대로인지, 소수정당과 다양한 대표성에 어떤 의미인지 해부한 제도 지도 한 편.",
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/politics/city-councilor-system-taiwan",
-    "readingTime": 58,
+    "readingTime": 56,
     "featured": false,
     "date": "2026-05-27",
     "path": "ko/Politics/city-councilor-system-taiwan.md"
@@ -173933,6 +174051,17 @@
     "path": "ko/People/brigitte-lin-legendary-actress.md"
   },
   {
+    "title": "입법원 지역구 외 명부 의원: 110만 표로 3석, 35만 표는 한 석도 못 얻어",
+    "description": "2024년 1월 13일 개표 결과, 시대역량(時代力量)은 정당 투표에서 353,412표를 얻었으나 지역구 외 명부 의원을 단 한 석도 배정받지 못했다. 4년 전에는 1,098,100표로 3석을 확보했었다. 헌법은 34석의 지역구 외 명부 의원을 위해 5%의 문턱을 설정했는데, 비율대로라면 약 2.94%만 되어도 한 석을 얻을 수 있지만, 그 사이의 표는 의석으로 전환되지 않고 대신 문턱을 넘은 정당의 비율을 확대하는 데 사용된다. 2014년 해석 제721호에서 이 문턱이 합헌이라고 판결했으나, 법관들의 의견서는 각기 다른 수치를 근거로 이 제도가 누구를 막아냈는지에 대해 논쟁하고 있다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/politics/party-list-legislators-taiwan",
+    "readingTime": 31,
+    "featured": false,
+    "date": "2026-10-23",
+    "path": "ko/Politics/party-list-legislators-taiwan.md"
+  },
+  {
     "title": "잉가 도자기 올드스트리트: 굴뚝에서 궤도철도로, 200년 도예의 전환과 재생",
     "description": "한때 수많은 굴뚝으로 유명했던 '타이완의 경덕진', 잉가는 산업 전환과 관광화의 물결을 거쳐 신베이시 미술관 개관과 궤도철도 삼잉선의 개통을 맞이했다. 차세대 도예가들은 '산지 오픈 데이' 등의 활동을 통해 전통과 혁신, 관광과 산업 사이에서 지속 가능한 발전의 새로운 경로를 모색하고 있다.",
     "category": "ko",
@@ -174073,18 +174202,18 @@
     "path": "ko/Art/chiang-hsien-yi.md"
   },
   {
-    "title": "장애가(張艾嘉): 가의(嘉義)에서 출발, 《童年》 원곡에서 《相애상친(相愛相親)》 감독까지",
-    "description": "1953년 가의시(嘉義市)에서 태어난 장애가는 17세에 《몽중인(夢中人)》으로 연예계에 발을 들였다. 《童年》(나대우 1981년 작곡)은 그녀의 노래이고, 《애의 대가(愛的代價)》(이종성 1992년 작곡)은 그녀의 가장 널리 알려진 대표작이다. 1986년 《최애(最愛)》로 금마장(金馬獎) 여우주연상을 수상했으며, 2017년 《상애상친》은 금마장 감독상과 각본상에 후보에 올랐다. 배우, 감독, 가수 세 가지 정체성을 넘나들며 50년 이상 활동해 왔다.",
+    "title": "장아이자(張艾嘉)",
+    "description": "장아이자(Sylvia Chang, 1953년생)는 16세에 라디오 DJ, 17세에 가수와 진행자로 활동을 시작했으며, 1972년 첫 영화를 찍었다. 1976년 《벽운천(碧雲天)》으로 금마장 여우조연상을, 1981년 《나의 할아버지(我的爺爺)》, 1986년 《최애(最愛)》, 2022년 《등화란산(燈火闌珊)》으로 세 차례 금마장 여우주연상을 수상했다. 1981년 《모년모월모일천(某年某月某一天)》을 시작으로 총 16편의 작품을 연출하며 가수, 배우, 감독으로서 50년 넘게 활동하고 있다.",
     "category": "ko",
     "tags": [
       "영화",
       "감독",
       "배우",
       "가수",
-      "각본가"
+      "시나리오 작가"
     ],
     "url": "https://taiwan.md/ko/people/sylvia-chang",
-    "readingTime": 19,
+    "readingTime": 24,
     "featured": false,
     "date": "2026-03-19",
     "path": "ko/People/sylvia-chang.md"
@@ -174303,17 +174432,6 @@
     "path": "ko/Geography/changhua-county.md"
   },
   {
-    "title": "장훼(江蕙): 베이토우의 유황 연기 속에서 피어난 타이완어의 여왕, 그녀와 9년간 이어진 비밀스러운 전쟁",
-    "description": "10세에 베이토우 주가에서 노래를 부르던 소녀에서 백만 장의 판매고를 기록한 타이완어 가요계의 여왕이 되기까지, 장훼는 목소리로 타이완 서민 문화의 위상을 재정립했으나 전성기 시절 비밀스러운 항암 투병으로 인해 은퇴를 선택했다.",
-    "category": "ko",
-    "tags": [],
-    "url": "https://taiwan.md/ko/people/jody-chiang",
-    "readingTime": 14,
-    "featured": false,
-    "date": "2026-03-28",
-    "path": "ko/People/jody-chiang.md"
-  },
-  {
     "title": "재생의료 이중법 × mRNA 30년: 두 종류의 구명 약물은 어떻게 국가 관리로 편입되었나",
     "description": "2023년 Karikó와 Weissman이 노벨상을 받은 날은, 그녀가 펜실베이니아대학교에서 강등된 지 꼭 28년이 되는 때였다. 2021년 9월 2일 BNT 첫 물량 93만 회분이 타오위안공항에 도착한 순간은, 그녀가 1997년 복사기 앞에서 Weissman과 마주친 지 이미 24년이 지난 때였다. 이 글은 「2024년 재생의료 이중법」과 「mRNA 30년의 고초」라는 두 축을 나란히 놓고, 헝가리 이민 여성 과학자의 곰 인형에서 타오위안 과학단지의 클린룸까지, 국가가 완전히 다른 두 종류의 구명 약물, 곧 세포와 분자를 어떻게 관리 체계 안으로 편입하는지 살펴본다.",
     "category": "ko",
@@ -174351,25 +174469,6 @@
     "featured": false,
     "date": "2026-04-30",
     "path": "ko/Nature/black-faced-spoonbill.md"
-  },
-  {
-    "title": "저우제룬(周杰倫)",
-    "description": "수줍음 많은 소년이 오디션 프로그램에서 피아노를 연주하며 첫 앨범으로 화어권 팝 음악의 역사를 새로 쓰다. 독창적인 스타일로 창작이 수익이 될 수 있음을 증명하고, 동양적 색채를 유지하면서도 세계 무대를 정복한 음악 혁명가.",
-    "category": "ko",
-    "tags": [
-      "인물",
-      "저우제룬",
-      "화어권 팝 음악",
-      "가수",
-      "창작",
-      "R&B",
-      "중국풍"
-    ],
-    "url": "https://taiwan.md/ko/people/jay-chou",
-    "readingTime": 26,
-    "featured": false,
-    "date": "2026-03-23",
-    "path": "ko/People/jay-chou.md"
   },
   {
     "title": "저우후이: 25년 동안 〈약속〉을 불러온 여성 보컬, 만화 인형에서 타이베이 아레나까지의 장거리 주행",
@@ -174810,6 +174909,25 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "ko/People/zhuge-liang-showman.md"
+  },
+  {
+    "title": "주걸륜",
+    "description": "수줍음 많던 청년이 오디션 프로그램에서 피아노를 연주하며 등장한 이후, 첫 앨범으로 화어권 팝 음악의 역사를 새로 썼습니다. 그는 독창적인 스타일로 창작곡도 상업적 성공을 거둘 수 있음을 음악계에 증명했으며, 여러 장의 앨범을 통해 화어권 음악이 동양적 특색을 유지하면서도 세계 무대를 정복할 수 있음을 보여주었습니다. 원고 거절을 반복하던 젊은 창작자에서 이제는 음악계를 뒤흔든 진정한 음악 혁명가가 되었습니다.",
+    "category": "ko",
+    "tags": [
+      "인물",
+      "주걸륜",
+      "화어권 팝 음악",
+      "가수",
+      "창작",
+      "R&B",
+      "중국풍"
+    ],
+    "url": "https://taiwan.md/ko/people/jay-chou",
+    "readingTime": 25,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "ko/People/jay-chou.md"
   },
   {
     "title": "주사위 놀이: 소시지 노점상에서 기계적 기억으로",
@@ -175329,23 +175447,6 @@
     "path": "ko/People/chen-san-huo-jiannian-artist.md"
   },
   {
-    "title": "진싱위: 추궁받는 대통령 딸에서 타이난 클리닉의 진 의사로",
-    "description": "2009년 뉴욕에서 미디어의 추격을 받던 시절부터 2016년 타이난에서 치과 클리닉을 개원하기까지, 진싱위는 정치 가문의 시선 속에서 어떻게 삶을 치과 전문직으로 되돌렸는가?",
-    "category": "ko",
-    "tags": [
-      "진싱위",
-      "치과의사",
-      "미디어 윤리",
-      "타이난",
-      "천수이볜"
-    ],
-    "url": "https://taiwan.md/ko/people/chen-hsing-yu",
-    "readingTime": 34,
-    "featured": false,
-    "date": "2026-08-15",
-    "path": "ko/People/chen-hsing-yu.md"
-  },
-  {
     "title": "진싱훙: 영징에서 베를린으로 도망쳤지만 고향에게 끊임없이 쫓기는 작가",
     "description": "그는 20년간 차오화현 영징을 피했지만, 베를린과 세계의 거리 속에서 가족, 성별, 신체, 그리고 사라지지 않는 고향을 다시 써 내려갔다.",
     "category": "ko",
@@ -175509,19 +175610,19 @@
     "path": "ko/Food/taiwan-tea-eggs.md"
   },
   {
-    "title": "차이이린 (蔡依林)",
-    "description": "천재가 아닌 천후(天后)——무용 선생님에게 \"춤 재능이 없다\"는 말을 들은 소녀가, 25년 후 금곡상 역사상 최다 수상 댄싱 가수가 되다",
+    "title": "차이이린(蔡依林)",
+    "description": "1998년 《신성카위전》 가창 부문 우승을 차지한 후, 앨범과 투어를 통해 화어권 팝의 여왕으로 자리매김했다. 〈장미 소년〉으로 세 차례나 금곡상 올해의 노래를 수상했다.",
     "category": "ko",
     "tags": [
       "인물",
       "가수",
       "연예계",
-      "LGBTQ+권익",
-      "팝뮤직",
+      "LGBTQ+ 권익",
+      "팝 음악",
       "금곡상"
     ],
     "url": "https://taiwan.md/ko/people/jolin-tsai",
-    "readingTime": 21,
+    "readingTime": 6,
     "featured": false,
     "date": "2026-03-24",
     "path": "ko/People/jolin-tsai.md"
@@ -175700,6 +175801,23 @@
     "path": "ko/People/bobby-chen-indie-music-pioneer.md"
   },
   {
+    "title": "천싱위: 대통령 딸로 추궁당하던 존재에서 타이난 진료실의 천 의사로",
+    "description": "2009년 뉴욕에서 언론의 추적을 받던 천싱위가 2016년 타이난에 치과 진료소를 개원하기까지, 정치인 가족의 시선 속에서 어떻게 삶을 치과 전문직으로 되돌렸는가?",
+    "category": "ko",
+    "tags": [
+      "천싱위",
+      "치과의사",
+      "언론윤리",
+      "타이난",
+      "천수이볜"
+    ],
+    "url": "https://taiwan.md/ko/people/chen-hsing-yu",
+    "readingTime": 32,
+    "featured": false,
+    "date": "2026-08-15",
+    "path": "ko/People/chen-hsing-yu.md"
+  },
+  {
     "title": "천위쉰",
     "description": "군인 마을 출신의 대만 코미디 감독으로, 다섯 편의 장편 영화를 통해 현지 코미디의 창작 문법을 구축했다. 황당한 상황 속에서 대만식 유머와 인문학적 따뜻함으로 심오한 인생 문제를 탐구하는 데 탁월하다. 할리우드 코미디 거장들에게 깊은 영감을 받은 그는 《사라진 발렌타인데이》로 금마장 최우수 작품상을 수상하며, 자신만의 문법에 대해 가장 권위 있는 대외적 인정을 받아냈다.",
     "category": "ko",
@@ -175851,7 +175969,7 @@
       "선거"
     ],
     "url": "https://taiwan.md/ko/politics/first-direct-presidential-election",
-    "readingTime": 40,
+    "readingTime": 41,
     "featured": false,
     "date": "2026-08-15",
     "path": "ko/Politics/first-direct-presidential-election.md"
@@ -177706,12 +177824,12 @@
     "path": "ko/Culture/tatung-rice-cooker.md"
   },
   {
-    "title": "타이완 전기요금 메커니즘과 대만전력: 그 12.83% 인상이 없었던 대신, 전기요금 청구서는 711억 뉴타이완달러 추가예산 청구서로 바뀌었다",
-    "description": "2026년 9월 18일 전기요금 요율 심의회에서 10월부터 12월까지 전기요금 동결을 결의했다. 대만전력의 이번 검토안에서 산출된 적정 인상률은 12.83%로, 1도당 3.7823뉴타이완달러에서 4.2675뉴타이완달러로 인상되어야 하지만, 인상분은 테이블에 남겨두고 대신 입법원에 711억 뉴타이완달러의 추가예산을 요청했다. 이 흐름은 2017년 공식 공고부터 시작되어 2022년 1,500억 증자, 2024년 3,826억 누적 손실 위에서 11% 인상, 올해 상반기 7개월간 214억 손실, 연간 추정 손실 711억 이상으로 이어진다.",
+    "title": "타이완 전기요금 메커니즘과 타이전: 오르지 않은 12.83%, 청구서는 711억 원 추경예산안으로 바뀌다",
+    "description": "2026년 9월 18일 전기요금심의회는 10월부터 12월까지 전기요금을 잠정 조정하지 않기로 결의했다. 타이전 이번 검토안에서 산출된 적정 조정폭은 12.83%로, kWh당 3.7823원에서 4.2675원으로 인상될 예정이었으나 조정폭은 테이블에 남겨두고 입법원에 711억 원 추경예산 확보를 추진하기로 했다. 이 흐름은 2017년 공식 공고에서 시작해, 2022년 1,500억 원 증자, 2024년 3,826억 원 누적 적자 속 11% 인상, 올해 들어 7개월간 214억 원 적자, 연간 711억 원 초과 적자 전망으로 이어졌다.",
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/economy/taiwan-electricity-pricing-and-taipower",
-    "readingTime": 27,
+    "readingTime": 29,
     "featured": false,
     "date": "2026-10-14",
     "path": "ko/Economy/taiwan-electricity-pricing-and-taipower.md"
@@ -180798,6 +180916,17 @@
     "path": "ja/People/ximurong.md"
   },
   {
+    "title": "ジェイ・チョウ",
+    "description": "恥ずかしがり屋の青年がオーディション番組でピアノを弾き、デビューアルバムで華語ポップミュージックの歴史を書き換えました。彼は独自の音楽スタイルで楽壇に「創作が売れる」ことを証明し、複数のアルバムで華語音楽が東洋の特色を保ちながら世界の舞台を制覇できることを示しました。かつて何度も原稿を断られた若きクリエイターから、今や真に楽壇を覆した音楽革命家となりました。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/people/jay-chou",
+    "readingTime": 20,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "ja/People/jay-chou.md"
+  },
+  {
     "title": "ジェリー・ヤン：英語が「Shoe」しか分からなかった10歳から、世界のポータルサイト時代を切り開いた「Yahoo!」の父へ",
     "description": "1978年、10歳のジェリー・ヤンがアメリカへ移住したとき、知っている英単語は「Shoe」だけでした。1994年、スタンフォード大学で博士論文から逃避していた彼は、仲間とともにトレーラーハウスで手作業でウェブページを分類し、Yahoo!を作り上げました。混沌としたインターネットの世界を一冊のディレクトリに整理し、ポータルサイトの黄金時代を幕開けさせたのです。同社の時価総額は一時1000億ドルを突破し、2005年には「狂気の大賭け」とも言われたアリババへの投資で、世界のインターネット地図を塗り替えました。",
     "category": "ja",
@@ -181063,12 +181192,12 @@
     "path": "ja/Culture/tsou-mayasvi-festival.md"
   },
   {
-    "title": "データで見る台湾22県市：最も混雑する場所と最も空虚な場所では151倍の差、最も高齢な場所と最も若い場所では一世代の差",
-    "description": "同じ島でありながら、人口密度が最も高い台北市は1平方キロメートルあたり8,975人、最も低い台東県はわずか59人と、151倍もの開きがあります。人口最多の新北市は404万人、最少の連江県は1.36万人で297倍の差。最も若い新竹県の高齢化率は15.08%、最も高齢な嘉義県は24.11%と、一世代近い差があります。内政部戸政司の2025年末の公式データを用い、島全体の姿を数値で描き出します。",
+    "title": "データで見る台湾22県市：最も密と最も疎は151倍の差、高齢者と子どもが1対1からほぼ3対1へ",
+    "description": "同じ島で、台北市は1平方キロメートルあたり8,975人、台東県はわずか59人、151倍の開きがある。内政部戸政司2025年末のデータで22県市の検証可能な肖像を描く：7割の人が3割の土地に集中し、高齢者比率が最も高いのは最も密な台北市、高齢者対子ども比率が最も高い嘉義県はほぼ3対1。22県市すべてで死亡が出生を上回っている。",
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/geography/data-taiwan-22-cities",
-    "readingTime": 40,
+    "readingTime": 34,
     "featured": false,
     "date": "2026-06-06",
     "path": "ja/Geography/data-taiwan-22-cities.md"

@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-10-22T22:05:56.118Z",
+  "lastUpdated": "2026-10-23T22:05:49.015Z",
   "totals": {
-    "contributors": 79,
+    "contributors": 80,
     "activeWindow": "last 30d"
   },
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 10245,
+      "commits": 10283,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-10-23 02:40:35 +0800",
+      "lastCommitAt": "2026-10-24 02:38:41 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1778,
-        "system": 5207,
-        "translation": 2456
+        "content": 1784,
+        "system": 5232,
+        "translation": 2461
       }
     },
     {
@@ -442,13 +442,6 @@
       "types": ["💻"]
     },
     {
-      "login": "ceruleanstring",
-      "name": "柒藍",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/265435204?v=4",
-      "profileUrl": "https://github.com/ceruleanstring",
-      "types": ["🌍"]
-    },
-    {
       "login": "vaiskalivuan",
       "name": "vaiskalivuan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/270533697?v=4",
@@ -456,11 +449,18 @@
       "types": ["💻", "🌍"]
     },
     {
-      "login": "LucasFutures",
-      "name": "LucasFutures",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/339159617?v=4",
-      "profileUrl": "https://github.com/LucasFutures",
-      "types": ["💻"]
+      "login": "ceruleanstring",
+      "name": "柒藍",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/265435204?v=4",
+      "profileUrl": "https://github.com/ceruleanstring",
+      "types": ["🌍"]
+    },
+    {
+      "login": "Ray0907",
+      "name": "Ray Tien",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/29456968?v=4",
+      "profileUrl": "https://github.com/Ray0907",
+      "types": ["💻", "🖋️"]
     },
     {
       "login": "r000tmnt",
@@ -470,11 +470,11 @@
       "types": ["💻", "🖋️"]
     },
     {
-      "login": "Ray0907",
-      "name": "Ray Tien",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/29456968?v=4",
-      "profileUrl": "https://github.com/Ray0907",
-      "types": ["💻", "🖋️"]
+      "login": "LucasFutures",
+      "name": "LucasFutures",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/339159617?v=4",
+      "profileUrl": "https://github.com/LucasFutures",
+      "types": ["💻"]
     },
     {
       "login": "wegoliao",
@@ -545,6 +545,13 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/118150842?v=4",
       "profileUrl": "https://github.com/Yo0GuitarIT",
       "types": ["💻"]
+    },
+    {
+      "login": "CKS40660",
+      "name": "CKS40660",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/118961951?v=4",
+      "profileUrl": "https://github.com/CKS40660",
+      "types": ["🖋️"]
     },
     {
       "login": "expectingshadowland-maker",
@@ -916,16 +923,16 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 10245,
+      "commits": 10283,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-10-23 02:40:35 +0800",
+      "lastCommitAt": "2026-10-24 02:38:41 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1778,
-        "system": 5207,
-        "translation": 2456
+        "content": 1784,
+        "system": 5232,
+        "translation": 2461
       }
     },
     {
@@ -1057,8 +1064,8 @@
       }
     }
   ],
-  "weeklyActive": 3,
-  "monthlyActive": 4,
+  "weeklyActive": 4,
+  "monthlyActive": 5,
   "recentlyJoined": [
     {
       "login": "weiso",
@@ -1072,6 +1079,20 @@
         "content": 0,
         "system": 0,
         "translation": 1
+      }
+    },
+    {
+      "login": "CKS40660",
+      "commits": 2,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/118961951?v=4",
+      "profileUrl": "https://github.com/CKS40660",
+      "firstCommitAt": "2026-10-23 07:41:42 +0800",
+      "lastCommitAt": "2026-10-23 07:41:42 +0800",
+      "primaryArea": "content",
+      "breakdown": {
+        "content": 2,
+        "system": 0,
+        "translation": 0
       }
     }
   ]

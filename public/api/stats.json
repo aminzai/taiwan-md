@@ -1,44 +1,44 @@
 {
-  "totalArticles": 14937,
+  "totalArticles": 14950,
   "totalCategories": 27,
-  "estimatedContributors": 79,
-  "totalTags": 8979,
+  "estimatedContributors": 80,
+  "totalTags": 8978,
   "categories": [
     {
       "name": "vi",
-      "count": 1149
+      "count": 1150
     },
     {
       "name": "es",
-      "count": 1149
+      "count": 1150
     },
     {
       "name": "ko",
-      "count": 1149
+      "count": 1150
     },
     {
       "name": "hi",
-      "count": 1149
+      "count": 1150
     },
     {
       "name": "fr",
-      "count": 1149
+      "count": 1150
     },
     {
       "name": "en",
-      "count": 1149
+      "count": 1150
     },
     {
       "name": "ja",
-      "count": 1149
+      "count": 1150
     },
     {
       "name": "de",
-      "count": 1149
+      "count": 1150
     },
     {
       "name": "ru",
-      "count": 1149
+      "count": 1150
     },
     {
       "name": "Technology",
@@ -50,19 +50,19 @@
     },
     {
       "name": "id",
-      "count": 1149
+      "count": 1150
     },
     {
       "name": "ar",
-      "count": 1149
+      "count": 1150
     },
     {
       "name": "pt",
-      "count": 1149
+      "count": 1150
     },
     {
       "name": "Politics",
-      "count": 20
+      "count": 21
     },
     {
       "name": "Society",
@@ -120,7 +120,7 @@
     },
     {
       "name": "人物",
-      "count": 59
+      "count": 60
     },
     {
       "name": "企業",
@@ -196,28 +196,28 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 14937,
+    "zh-TW": 14950,
     "en": 0
   },
-  "lastUpdated": "2026-10-22T22:05:55.518Z",
-  "stars": 1226,
-  "forks": 186,
-  "zhPages": 1147,
+  "lastUpdated": "2026-10-23T22:05:48.505Z",
+  "stars": 1228,
+  "forks": 187,
+  "zhPages": 1148,
   "languagePages": {
-    "zh-TW": 1147,
-    "en": 1149,
-    "ja": 1149,
-    "ko": 1149,
-    "es": 1149,
-    "fr": 1149,
-    "vi": 1149,
-    "id": 1149,
-    "pt": 1149,
-    "hi": 1149,
-    "ar": 1149,
-    "ru": 1149,
-    "de": 1149
+    "zh-TW": 1148,
+    "en": 1150,
+    "ja": 1150,
+    "ko": 1150,
+    "es": 1150,
+    "fr": 1150,
+    "vi": 1150,
+    "id": 1150,
+    "pt": 1150,
+    "hi": 1150,
+    "ar": 1150,
+    "ru": 1150,
+    "de": 1150
   },
-  "enPages": 1149,
-  "totalPages": 1147
+  "enPages": 1150,
+  "totalPages": 1148
 }

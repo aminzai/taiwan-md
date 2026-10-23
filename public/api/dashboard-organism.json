@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22T22:06:11.781Z",
+  "lastUpdated": "2026-10-23T22:06:05.016Z",
   "organs": [
     {
       "id": "heart",
@@ -10,16 +10,16 @@
       "score": 90,
       "trend": "up",
       "metrics": {
-        "articlesLast7Days": 76,
-        "articlesLast30Days": 181,
-        "totalArticles": 1147,
+        "articlesLast7Days": 43,
+        "articlesLast30Days": 187,
+        "totalArticles": 1148,
         "selfProducedLast7Days": 1,
         "selfProducedLast30Days": 1,
-        "contributedLast7Days": 75,
+        "contributedLast7Days": 42,
         "newArticlesLast7Days": 14,
-        "newArticlesLast30Days": 25,
+        "newArticlesLast30Days": 26,
         "contributedNewLast7Days": 13,
-        "updatedNotNewLast7Days": 62,
+        "updatedNotNewLast7Days": 29,
         "shadowScoreNewOnly": 90
       }
     },
@@ -33,18 +33,18 @@
       "trend": "up",
       "version": "v2-2026-05-16",
       "metrics": {
-        "humanReviewedCount": 200,
-        "totalArticles": 1147,
-        "humanReviewedPercent": 17.4,
+        "humanReviewedCount": 199,
+        "totalArticles": 1148,
+        "humanReviewedPercent": 17.3,
         "v2Status": "漂移 — 多維度退化中",
         "v2Components": {
-          "review_coverage": 18.5,
+          "review_coverage": 18.4,
           "plugin_pass_rate": 70.1,
           "plugin_health": 100,
           "citation_density": 94.2,
           "tool_freshness": 60,
           "drift_velocity": 90,
-          "external_rulers": 8.8
+          "external_rulers": 9.1
         }
       }
     },
@@ -97,7 +97,7 @@
       "score": 100,
       "trend": "up",
       "metrics": {
-        "recentContributors": 12,
+        "recentContributors": 13,
         "recentSpores": 7,
         "topPerformerCount": 5,
         "topPerformerAvgViews": 239179,
@@ -127,19 +127,19 @@
       "trend": "up",
       "metrics": {
         "languageCoverage": {
-          "zh-TW": 1147,
-          "en": 1147,
-          "ja": 1147,
-          "ko": 1147,
-          "es": 1147,
-          "fr": 1147,
-          "vi": 1147,
-          "id": 1147,
-          "pt": 1147,
-          "hi": 1147,
-          "ar": 1147,
-          "ru": 1147,
-          "de": 1147
+          "zh-TW": 1148,
+          "en": 1148,
+          "ja": 1148,
+          "ko": 1148,
+          "es": 1148,
+          "fr": 1148,
+          "vi": 1148,
+          "id": 1148,
+          "pt": 1148,
+          "hi": 1148,
+          "ar": 1148,
+          "ru": 1148,
+          "de": 1148
         },
         "translationPct": 92,
         "langHealthDetails": {
@@ -152,8 +152,8 @@
               "qualityVerified": false
             },
             "pages": {
-              "filled": 1983,
-              "total": 1983,
+              "filled": 1993,
+              "total": 1993,
               "pct": 100,
               "kind": "explicit-key-presence",
               "qualityVerified": false,
@@ -184,8 +184,8 @@
                 },
                 {
                   "page": "data",
-                  "filled": 341,
-                  "total": 341,
+                  "filled": 351,
+                  "total": 351,
                   "pct": 100,
                   "kind": "explicit-key-presence",
                   "qualityVerified": false
@@ -230,7 +230,7 @@
               "pct": 92
             },
             "articles": {
-              "count": 1147,
+              "count": 1148,
               "pct": 100
             },
             "score": 97
@@ -244,8 +244,8 @@
               "qualityVerified": false
             },
             "pages": {
-              "filled": 1973,
-              "total": 1983,
+              "filled": 1983,
+              "total": 1993,
               "pct": 99,
               "kind": "explicit-key-presence",
               "qualityVerified": false,
@@ -276,8 +276,8 @@
                 },
                 {
                   "page": "data",
-                  "filled": 331,
-                  "total": 341,
+                  "filled": 341,
+                  "total": 351,
                   "pct": 97,
                   "kind": "explicit-key-presence",
                   "qualityVerified": false
@@ -322,7 +322,7 @@
               "pct": 8
             },
             "articles": {
-              "count": 1147,
+              "count": 1148,
               "pct": 100
             },
             "score": 80
@@ -336,8 +336,8 @@
               "qualityVerified": false
             },
             "pages": {
-              "filled": 1973,
-              "total": 1983,
+              "filled": 1983,
+              "total": 1993,
               "pct": 99,
               "kind": "explicit-key-presence",
               "qualityVerified": false,
@@ -368,8 +368,8 @@
                 },
                 {
                   "page": "data",
-                  "filled": 331,
-                  "total": 341,
+                  "filled": 341,
+                  "total": 351,
                   "pct": 97,
                   "kind": "explicit-key-presence",
                   "qualityVerified": false
@@ -414,7 +414,7 @@
               "pct": 92
             },
             "articles": {
-              "count": 1147,
+              "count": 1148,
               "pct": 100
             },
             "score": 96
@@ -428,8 +428,8 @@
               "qualityVerified": false
             },
             "pages": {
-              "filled": 1967,
-              "total": 1983,
+              "filled": 1977,
+              "total": 1993,
               "pct": 99,
               "kind": "explicit-key-presence",
               "qualityVerified": false,
@@ -460,8 +460,8 @@
                 },
                 {
                   "page": "data",
-                  "filled": 331,
-                  "total": 341,
+                  "filled": 341,
+                  "total": 351,
                   "pct": 97,
                   "kind": "explicit-key-presence",
                   "qualityVerified": false
@@ -506,7 +506,7 @@
               "pct": 92
             },
             "articles": {
-              "count": 1147,
+              "count": 1148,
               "pct": 100
             },
             "score": 96
@@ -520,8 +520,8 @@
               "qualityVerified": false
             },
             "pages": {
-              "filled": 1967,
-              "total": 1983,
+              "filled": 1977,
+              "total": 1993,
               "pct": 99,
               "kind": "explicit-key-presence",
               "qualityVerified": false,
@@ -552,8 +552,8 @@
                 },
                 {
                   "page": "data",
-                  "filled": 331,
-                  "total": 341,
+                  "filled": 341,
+                  "total": 351,
                   "pct": 97,
                   "kind": "explicit-key-presence",
                   "qualityVerified": false
@@ -598,7 +598,7 @@
               "pct": 31
             },
             "articles": {
-              "count": 1147,
+              "count": 1148,
               "pct": 100
             },
             "score": 84
@@ -612,8 +612,8 @@
               "qualityVerified": false
             },
             "pages": {
-              "filled": 1967,
-              "total": 1983,
+              "filled": 1977,
+              "total": 1993,
               "pct": 99,
               "kind": "explicit-key-presence",
               "qualityVerified": false,
@@ -644,8 +644,8 @@
                 },
                 {
                   "page": "data",
-                  "filled": 331,
-                  "total": 341,
+                  "filled": 341,
+                  "total": 351,
                   "pct": 97,
                   "kind": "explicit-key-presence",
                   "qualityVerified": false
@@ -690,7 +690,7 @@
               "pct": 100
             },
             "articles": {
-              "count": 1147,
+              "count": 1148,
               "pct": 100
             },
             "score": 98
@@ -704,8 +704,8 @@
               "qualityVerified": false
             },
             "pages": {
-              "filled": 1967,
-              "total": 1983,
+              "filled": 1977,
+              "total": 1993,
               "pct": 99,
               "kind": "explicit-key-presence",
               "qualityVerified": false,
@@ -736,8 +736,8 @@
                 },
                 {
                   "page": "data",
-                  "filled": 331,
-                  "total": 341,
+                  "filled": 341,
+                  "total": 351,
                   "pct": 97,
                   "kind": "explicit-key-presence",
                   "qualityVerified": false
@@ -782,7 +782,7 @@
               "pct": 100
             },
             "articles": {
-              "count": 1147,
+              "count": 1148,
               "pct": 100
             },
             "score": 98
@@ -796,8 +796,8 @@
               "qualityVerified": false
             },
             "pages": {
-              "filled": 1967,
-              "total": 1983,
+              "filled": 1977,
+              "total": 1993,
               "pct": 99,
               "kind": "explicit-key-presence",
               "qualityVerified": false,
@@ -828,8 +828,8 @@
                 },
                 {
                   "page": "data",
-                  "filled": 331,
-                  "total": 341,
+                  "filled": 341,
+                  "total": 351,
                   "pct": 97,
                   "kind": "explicit-key-presence",
                   "qualityVerified": false
@@ -874,7 +874,7 @@
               "pct": 100
             },
             "articles": {
-              "count": 1147,
+              "count": 1148,
               "pct": 100
             },
             "score": 98
@@ -888,8 +888,8 @@
               "qualityVerified": false
             },
             "pages": {
-              "filled": 1967,
-              "total": 1983,
+              "filled": 1977,
+              "total": 1993,
               "pct": 99,
               "kind": "explicit-key-presence",
               "qualityVerified": false,
@@ -920,8 +920,8 @@
                 },
                 {
                   "page": "data",
-                  "filled": 331,
-                  "total": 341,
+                  "filled": 341,
+                  "total": 351,
                   "pct": 97,
                   "kind": "explicit-key-presence",
                   "qualityVerified": false
@@ -966,7 +966,7 @@
               "pct": 100
             },
             "articles": {
-              "count": 1147,
+              "count": 1148,
               "pct": 100
             },
             "score": 98
@@ -980,8 +980,8 @@
               "qualityVerified": false
             },
             "pages": {
-              "filled": 1967,
-              "total": 1983,
+              "filled": 1977,
+              "total": 1993,
               "pct": 99,
               "kind": "explicit-key-presence",
               "qualityVerified": false,
@@ -1012,8 +1012,8 @@
                 },
                 {
                   "page": "data",
-                  "filled": 331,
-                  "total": 341,
+                  "filled": 341,
+                  "total": 351,
                   "pct": 97,
                   "kind": "explicit-key-presence",
                   "qualityVerified": false
@@ -1058,7 +1058,7 @@
               "pct": 0
             },
             "articles": {
-              "count": 1147,
+              "count": 1148,
               "pct": 100
             },
             "score": 78
@@ -1072,8 +1072,8 @@
               "qualityVerified": false
             },
             "pages": {
-              "filled": 1967,
-              "total": 1983,
+              "filled": 1977,
+              "total": 1993,
               "pct": 99,
               "kind": "explicit-key-presence",
               "qualityVerified": false,
@@ -1104,8 +1104,8 @@
                 },
                 {
                   "page": "data",
-                  "filled": 331,
-                  "total": 341,
+                  "filled": 341,
+                  "total": 351,
                   "pct": 97,
                   "kind": "explicit-key-presence",
                   "qualityVerified": false
@@ -1150,7 +1150,7 @@
               "pct": 0
             },
             "articles": {
-              "count": 1147,
+              "count": 1148,
               "pct": 100
             },
             "score": 78
@@ -1164,8 +1164,8 @@
               "qualityVerified": false
             },
             "pages": {
-              "filled": 1983,
-              "total": 1983,
+              "filled": 1993,
+              "total": 1993,
               "pct": 100,
               "kind": "explicit-key-presence",
               "qualityVerified": false,
@@ -1196,8 +1196,8 @@
                 },
                 {
                   "page": "data",
-                  "filled": 341,
-                  "total": 341,
+                  "filled": 351,
+                  "total": 351,
                   "pct": 100,
                   "kind": "explicit-key-presence",
                   "qualityVerified": false
@@ -1242,7 +1242,7 @@
               "pct": 100
             },
             "articles": {
-              "count": 1147,
+              "count": 1148,
               "pct": 100
             },
             "score": 100
