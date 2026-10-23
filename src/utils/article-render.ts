@@ -1423,6 +1423,26 @@ function renderTwModule(lang: string, raw: string): string {
   return '';
 }
 
+/**
+ * 文章以外的頁面（/data 資料中樞）重用同一套 tw-* 模組：同樣的語法、同樣的
+ * 資料表 fallback 與來源 caption，UI 字串跟著頁面語言走。renderArticleHtml
+ * 會改寫模組層的 _locale，這裡借用後還原，不影響同一個 build 裡的文章頁。
+ */
+export function renderVizBlock(
+  fence: string,
+  body: string,
+  pageLang: string = 'zh-TW',
+): string {
+  const prev = _locale;
+  _locale =
+    VIZ_STRINGS[pageLang as keyof typeof VIZ_STRINGS] ?? VIZ_STRINGS['zh-TW'];
+  try {
+    return renderTwModule(fence, body);
+  } finally {
+    _locale = prev;
+  }
+}
+
 renderer.code = ({ text, lang }) => {
   if (lang && lang.startsWith('tw-')) {
     const html = renderTwModule(lang, text);

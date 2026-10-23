@@ -1,0 +1,176 @@
+{
+  "$comment": "/data §1 數字之間的線。答案句裡的每個數字都必須來自 indicators.json 已查證的值（或同一筆的 insight）；indicators 欄位指向 indicators.json 的 id，articles 是 zh 的 Folder/slug。",
+  "threads": [
+    {
+      "id": "fertility",
+      "categories": ["society", "lifestyle", "economy"],
+      "question": {
+        "zh-TW": "出生的孩子少了一半，會先撞到誰？",
+        "en": "Births have halved. Who feels it first?"
+      },
+      "answer": {
+        "zh-TW": "2025 年台灣出生 107,812 人，是十年前的一半，總生育率 0.695。這一群孩子還沒長大，上一波下滑已經走到大學門口：來自高中的大學生源十年從 30.2 萬人降到 19.2 萬人，大專校院五年少了 13 所。\n\n另一頭是變老的速度。65 歲以上的人口在 2025 年底跨過兩成，出生少於死亡已經連續六年。產業與家庭看護的人手有一部分由移工撐著，產業及社福移工十年從 58.8 萬人增加到 86.6 萬人。",
+        "en": "Taiwan registered 107,812 births in 2025, half as many as ten years earlier, for a fertility rate of 0.695. Those children have yet to grow up, but an earlier decline has already reached the university gates: the pool of high-school seniors feeding university entry fell from 302,000 to 192,000 in ten years, and the number of tertiary institutions fell by 13 in five years.\n\nAt the other end is the speed of ageing. People aged 65 and over passed a fifth of the population at the end of 2025, and deaths have exceeded births for six years running. Part of the workforce in industry and home care is now migrant labour, which grew from 588,000 to 866,000 in a decade."
+      },
+      "indicators": [
+        "births",
+        "university-intake",
+        "aged-65-share",
+        "migrant-workers"
+      ],
+      "articles": [
+        "Society/台灣少子化危機",
+        "Society/台灣高等教育擴張與退場",
+        "Society/移工",
+        "Society/台灣長期照顧制度發展",
+        "Society/台灣人工生殖",
+        "Geography/用數據看台灣22縣市"
+      ]
+    },
+    {
+      "id": "chips",
+      "categories": ["technology", "economy", "nature", "geography"],
+      "question": {
+        "zh-TW": "一座島怎麼供得起全世界的晶片？",
+        "en": "How does one island supply the world's chips?"
+      },
+      "answer": {
+        "zh-TW": "2025 年台灣的資通與視聽產品出口 2,511.5 億美元，一年增加將近九成。台積電一家占上市公司總市值四成一；TrendForce 估計，全球前十大晶圓代工的營收有七成以上是它的。\n\n晶片要電也要水。十年之間，發電從燃煤為主轉成燃氣為主（47.7%），再生能源從 4.8% 升到 13.3%，核能在 2025 年只剩 1.1%。台灣年雨量約 2,500 毫米，是世界平均的 2.5 倍，但雨集中在梅雨與颱風季，河短流急，留得住的水有限，科學園區的用水跟電網一樣，是這個產業每年都要面對的條件。",
+        "en": "In 2025 Taiwan exported US$251.2 billion of ICT and audio-visual products, almost double the year before. TSMC alone accounts for 41% of the stock exchange's market value, and TrendForce estimates it takes over 70% of the revenue of the world's ten largest foundries.\n\nChips need power and water. In ten years generation shifted from mostly coal to mostly gas (47.7%), renewables rose from 4.8% to 13.3%, and nuclear fell to 1.1% in 2025. Taiwan gets about 2,500 mm of rain a year, two and a half times the world average, but it comes in the plum-rain and typhoon seasons and runs off short, steep rivers, so water for the science parks is, like the grid, a constraint the industry faces every year."
+      },
+      "indicators": [
+        "ict-exports",
+        "tsmc-foundry-share",
+        "power-gas",
+        "rainfall"
+      ],
+      "articles": [
+        "Technology/半導體產業",
+        "Technology/台灣的電力與半導體",
+        "Technology/半導體用水與台灣水資源",
+        "Economy/台灣電價機制與台電",
+        "Economy/台灣離岸風電",
+        "Technology/AI硬體供應鏈"
+      ]
+    },
+    {
+      "id": "earning",
+      "categories": ["economy", "technology", "society"],
+      "question": {
+        "zh-TW": "2025 年經濟長了 8.76%，這些錢從哪裡來，又落在哪裡？",
+        "en": "The economy grew 8.76% in 2025. Where did the money come from, and where did it land?"
+      },
+      "answer": {
+        "zh-TW": "8.76% 是 2013 年以來最高的成長率。出口 6,407.5 億美元，資通與電子產品占七成四；美國超過中國大陸與香港成為最大的出口市場，財政部說這是 26 年來第一次。\n\n平均每人 GDP 來到 39,515 美元，這是總產出除以人口。同一張帳上，受僱者全年總薪資的中位數是 54.6 萬元（2024 年），最高兩成與最低兩成家庭的可支配所得差了 6.17 倍。三個數字放在一起，才看得出成長落在哪裡。",
+        "en": "8.76% was the fastest growth since at least 2013. Exports reached US$640.8 billion, 74% of them ICT and electronics, and the US overtook China and Hong Kong as the largest market, which the Ministry of Finance says is the first time in 26 years.\n\nGDP per capita rose to US$39,515, which is total output divided by population. On the same ledger, the median employee earned NT$546,000 for the year (2024), and the richest fifth of households had 6.17 times the disposable income of the poorest fifth. It takes all three numbers together to see where the growth landed."
+      },
+      "indicators": [
+        "gdp-growth",
+        "exports-us-share",
+        "gdp-per-capita",
+        "median-earnings"
+      ],
+      "articles": [
+        "Economy/經濟奇蹟",
+        "Economy/台灣外貿與全球供應鏈",
+        "Technology/AI硬體供應鏈",
+        "Society/誰算低薪",
+        "Economy/台灣股市與資本市場",
+        "Society/居住正義"
+      ]
+    },
+    {
+      "id": "bowl",
+      "categories": ["food", "economy", "lifestyle"],
+      "question": {
+        "zh-TW": "台灣人吃進去的東西，有多少是台灣自己種的？",
+        "en": "How much of what Taiwan eats does Taiwan grow?"
+      },
+      "answer": {
+        "zh-TW": "以熱量計算，台灣的糧食自給率是 30.7%，吃進去的熱量七成靠進口；這個比例在 1992 年跌破四成，近二十年都在三成上下。\n\n餐桌也在變。2024 年每人每年吃 42.4 公斤白米，比二十年前少 6.2 公斤；肉類 86.8 公斤，已經跟穀類差不多多。農業部把外送普及、自己煮飯變少，列為米吃得少的原因之一。",
+        "en": "Measured in calories, Taiwan's food self-sufficiency is 30.7%: seven in ten calories eaten are imported. The share fell below 40% in 1992 and has hovered around 30% for two decades.\n\nThe table is changing too. In 2024 each person ate 42.4 kg of rice, 6.2 kg less than twenty years earlier, and 86.8 kg of meat, about as much as all cereals. The Ministry of Agriculture cites food delivery and less home cooking as one reason rice consumption is falling."
+      },
+      "indicators": [
+        "food-self-sufficiency",
+        "rice-per-capita",
+        "meat-per-capita"
+      ],
+      "articles": [
+        "Food/台灣米食文化",
+        "Economy/台灣農業現代化發展",
+        "Economy/台灣農業與農村再生",
+        "Food/夜市文化",
+        "Lifestyle/台灣便利商店文化",
+        "Food/台灣滷肉飯"
+      ]
+    },
+    {
+      "id": "democracy",
+      "categories": ["politics", "history", "society"],
+      "question": {
+        "zh-TW": "戒嚴結束三十多年後，台灣的民主用數字看長什麼樣子？",
+        "en": "More than thirty years after martial law, what does Taiwan's democracy look like in numbers?"
+      },
+      "answer": {
+        "zh-TW": "台灣從 1949 年到 1987 年戒嚴了 38 年，解嚴九年後的 1996 年第一次直選總統。2024 年的總統選舉，1,955 萬名選舉人裡有 71.86% 去投票。\n\n國際評比也有台灣這一列：Freedom House 2026 年給 93 分（滿分 100），列為「自由」；無國界記者的新聞自由指數 2026 年排第 28 名，比前一年退了四名。評比用的是外部機構自己的方法，這些權利是怎麼一步一步爭取來的，寫在下面的文章裡。",
+        "en": "Taiwan lived under martial law for 38 years, from 1949 to 1987, and nine years after it ended, in 1996, held its first direct presidential election. In the 2024 presidential election, 71.86% of 19.55 million eligible voters turned out.\n\nInternational rankings include Taiwan too: Freedom House scored it 93 out of 100 in 2026, rated Free, and Reporters Without Borders placed it 28th on the 2026 press freedom index, four places lower than the year before. The rankings use their publishers' own methods; how these rights were won, step by step, is in the articles below."
+      },
+      "indicators": [
+        "martial-law",
+        "presidential-turnout",
+        "freedom-house",
+        "press-freedom"
+      ],
+      "articles": [
+        "History/戒嚴時期",
+        "History/台灣民主轉型",
+        "Politics/第一次總統直選",
+        "Society/民主制度",
+        "Society/台灣媒體與新聞自由",
+        "History/台灣白色恐怖"
+      ]
+    },
+    {
+      "id": "island",
+      "categories": ["geography", "nature"],
+      "question": {
+        "zh-TW": "三萬六千平方公里的島，裝得下多少地形與生命？",
+        "en": "How much terrain and life fits on an island of 36,000 km²?"
+      },
+      "answer": {
+        "zh-TW": "台灣有效管轄的土地約 36,197 平方公里，從海平面一路升到玉山主峰的 3,952 公尺。森林覆蓋六成，已記錄的物種有 66,470 種，其中 9,881 種只在台灣找得到。\n\n同一副地形也帶來災害：1911 年以來，平均每年有 3 到 4 個颱風侵襲台灣，年雨量約 2,500 毫米，是世界平均的 2.5 倍。",
+        "en": "Taiwan's territory covers about 36,197 km² and rises from sea level to 3,952 metres at the summit of Yushan. Forest covers 60% of it, and 66,470 species have been recorded, 9,881 of them found nowhere else.\n\nThe same terrain brings hazards: since 1911 an average of three to four typhoons a year have struck Taiwan, and annual rainfall of about 2,500 mm is two and a half times the world average."
+      },
+      "indicators": ["yushan", "forest-cover", "species", "typhoons"],
+      "articles": [
+        "Geography/台灣島嶼地理特色與形成",
+        "Geography/玉山",
+        "Nature/台灣森林生態系",
+        "Nature/特有種",
+        "Nature/颱風",
+        "Nature/生態多樣性"
+      ]
+    },
+    {
+      "id": "moving",
+      "categories": ["lifestyle", "technology", "society"],
+      "question": {
+        "zh-TW": "台灣人每天怎麼移動，又怎麼付錢？",
+        "en": "How do people in Taiwan get around, and how do they pay?"
+      },
+      "answer": {
+        "zh-TW": "高鐵 2025 年載了 8,207 萬人次，平均每天 22.5 萬；臺北捷運每天 210 萬人次，光是台北車站就有 30 萬人進出。\n\n付錢的方式也在換。會上網的人裡，51% 最近三個月用過行動支付，2020 年還只有 32.8%。往外看，2025 年來台旅客 857 萬人次，國人出國 1,894 萬人次。",
+        "en": "High-speed rail carried 82.07 million passengers in 2025, about 225,000 a day, while the Taipei Metro carries 2.1 million trips a day, 300,000 of them through Taipei Main Station alone.\n\nPayment is changing as well: 51% of internet users had used mobile payment in the past three months, up from 32.8% in 2020. Looking outward, Taiwan received 8.57 million visitors in 2025 while residents made 18.94 million trips abroad."
+      },
+      "indicators": ["thsr-ridership", "taipei-metro-daily", "mobile-payment"],
+      "articles": [
+        "Lifestyle/台灣高鐵",
+        "Lifestyle/台灣捷運發展史",
+        "Lifestyle/台灣交通系統",
+        "Technology/台灣行動支付",
+        "Lifestyle/台灣機車文化",
+        "Lifestyle/桃園機場"
+      ]
+    }
+  ]
+}
