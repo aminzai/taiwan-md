@@ -7,7 +7,7 @@
   "indicators/indicators/population/compare/period": "пик 2019 г.",
   "indicators/indicators/population/source/agency": "Департамент регистрации домохозяйств, МВД",
   "indicators/indicators/population/insight": "Пик пройден в конце 2019 года, с тех пор численность понемногу снижается и сейчас примерно на 390 000 ниже максимума.",
-  "indicators/indicators/births/title": "Рождаемость",
+  "indicators/indicators/births/title": "Число рождений",
   "indicators/indicators/births/unit": "младенцев",
   "indicators/indicators/births/period": "2025",
   "indicators/indicators/births/compare/period": "2015",
