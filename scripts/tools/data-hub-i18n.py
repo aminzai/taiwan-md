@@ -3,7 +3,7 @@
 
 兩層：
   1. 介面字串：src/i18n/dataHub.ts 的 en bundle ↔ data/data-hub/i18n/{lang}.json
-  2. 內容層：src/data/data-hub/{indicators,threads,sources,intl}.json 裡每個在地化物件
+  2. 內容層：src/data/data-hub/{indicators,threads,sources,intl,story}.json 裡每個在地化物件
      （有 'zh-TW' 鍵的 dict）↔ data/data-hub/content/{lang}.json 的「路徑 → 譯文」平面表。
      路徑規則必須跟 src/utils/data-hub.ts 的 walkLocs 一致：物件鍵以 / 串起、鍵名 $ 開頭略過、
      陣列元素有字串 id 用 id，沒有用索引。
@@ -46,7 +46,7 @@ def walk(node, path, out):
 
 def content_locs():
     out = {}
-    for root in ['indicators', 'threads', 'sources', 'intl']:
+    for root in ['indicators', 'threads', 'sources', 'intl', 'story']:
         walk(json.loads((DATA / f'{root}.json').read_text(encoding='utf-8')), root, out)
     # 空字串的欄位（例如中文不需要的前綴）不必翻
     return {k: v for k, v in out.items() if (v.get('zh-TW') or v.get('en'))}
@@ -66,6 +66,21 @@ def export():
     CONTENT_DIR.mkdir(parents=True, exist_ok=True)
     (CONTENT_DIR / '_source.json').write_text(json.dumps(src, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     print(f'✅ 匯出 {len(src)} 個內容欄位 → data/data-hub/content/_source.json；介面字串 {len(ui_keys())} 個（src/i18n/dataHub.ts en）')
+
+
+NUM = re.compile(r'-?\d+(?:\.\d+)?')
+
+
+def chart_shape(text):
+    """章節主圖（threads/…/chart/body）是一整段 tw-* fenced block：資料列（含 | 的列，
+    來源列除外）的欄數與每一格裡的數字要跟原文一模一樣，翻譯只能動文字。"""
+    rows = []
+    for line in text.split('\n'):
+        if '|' not in line:
+            continue
+        cells = [c.strip() for c in line.split('|')]
+        rows.append((len(cells), [NUM.findall(c) for c in cells[1:]]))
+    return rows
 
 
 def check(langs):
@@ -88,6 +103,13 @@ def check(langs):
             if label == '內容':
                 extra += [k for k in d if k in locs and k not in need]
             empty = [k for k, v in d.items() if not isinstance(v, str) or not v.strip()]
+            # 主圖：資料列的欄數與數字必須跟英文原文一致（中日韓對中文）
+            if label == '內容':
+                for k, v in d.items():
+                    if k.endswith('/chart/body') and k in locs and isinstance(v, str):
+                        if chart_shape(v) != chart_shape(locs[k].get(base, '')):
+                            empty.append(k)
+                            print(f'       主圖形狀跟原文不一致：{k}')
             han = [k for k, v in d.items() if lang not in CJK_OK and isinstance(v, str) and HAN.search(v)]
             ok = not (missing or extra or empty)
             bad += 0 if ok else 1

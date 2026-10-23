@@ -20,6 +20,12 @@ import Icon from '../components/Icon.astro';
 import IndicatorCard, {
   type CardLabels,
 } from '../components/data-hub/IndicatorCard.astro';
+import ImpactChain, {
+  type ChainStep,
+} from '../components/data-hub/ImpactChain.astro';
+import TimeBands, { type Band } from '../components/data-hub/TimeBands.astro';
+import TerrainRidge from '../components/brand/TerrainRidge.astro';
+import ArticleCard from '../components/ArticleCard.astro';
 import {
   getLangFromUrl,
   useTranslations,
@@ -38,15 +44,23 @@ import {
   threadsData as threadsJson,
   sourcesData as sourcesJson,
   intlData as intlJson,
+  storyData as storyJson,
   groupByCategory,
   loc,
   formatIndicator,
+  formatNumber,
+  type ValueFormat,
   type Indicator,
   type Loc,
 } from '../utils/data-hub';
 import { getCorpusCharts, summarizeCharts } from '../utils/data-charts';
 import { renderVizBlock } from '../utils/article-render';
-import { getArticleByZhPath } from '../utils/articles-index';
+import {
+  getArticleByZhPath,
+  getArticleShipDate,
+  type ArticleSummary,
+} from '../utils/articles-index';
+import { trimSummary } from '../utils/article-embeds';
 import '../styles/data-hub.css';
 
 const lang = getLangFromUrl(Astro.url);
@@ -116,6 +130,7 @@ const cardLabels: CardLabels = {
   download: t('dh.card.download'),
   reads: t('dh.card.reads'),
   permalink: t('dh.card.permalink'),
+  why: t('dh.card.why'),
   year: t('dh.card.year'),
   value: t('dh.card.value'),
   basis: {
@@ -126,24 +141,151 @@ const cardLabels: CardLabels = {
   },
 };
 
-// ── §1 線 ────────────────────────────────────────────────────────────
+// ── 文內嵌入卡（tw-article 同款：共用 ArticleCard embed 密度）────────────
+// 跟 utils/article-embeds.ts 同一套規則：zh 路徑反查本語言譯文，譯文還沒出生就
+// 退回 zh 文章＋zh 連結；上站日優先取譯文自己的，沒有就取 zh 原文的。
+type Embed = {
+  article: ArticleSummary;
+  lang: string;
+  href: string;
+  note?: string;
+  date?: string;
+};
+const localeFor = (l: string) =>
+  l === 'en' ? 'en-US' : l === 'zh-TW' ? 'zh-TW' : l;
+function fmtShipDate(iso: string): string | undefined {
+  if (!iso) return undefined;
+  const dt = new Date(iso);
+  if (Number.isNaN(dt.getTime())) return undefined;
+  if (lang === 'zh-TW')
+    return `${dt.getFullYear()} 年 ${dt.getMonth() + 1} 月 ${dt.getDate()} 日`;
+  return dt.toLocaleDateString(localeFor(lang), {
+    year: 'numeric',
+    month: 'short',
+    day: 'numeric',
+  });
+}
+async function resolveEmbed(zhPath: string, note?: Loc): Promise<Embed | null> {
+  const [folder, ...rest] = zhPath.split('/');
+  const slug = rest.join('/');
+  if (!folder || !slug) return null;
+  const hit = await getArticleByZhPath(lang, folder.toLowerCase(), slug);
+  if (!hit) return null;
+  let ship = await getArticleShipDate(
+    hit.lang,
+    hit.article.category,
+    hit.article.slug,
+  );
+  if (!ship && hit.lang !== 'zh-TW') {
+    ship = await getArticleShipDate('zh-TW', folder.toLowerCase(), slug);
+  }
+  const p = hit.lang === 'zh-TW' ? '' : `/${hit.lang}`;
+  return {
+    article: hit.article,
+    lang: hit.lang,
+    href: `${p}/${hit.article.category}/${encodeURIComponent(hit.article.slug)}`,
+    note: note ? loc(note, lang) : undefined,
+    date: fmtShipDate(ship),
+  };
+}
+
+// ── 七章（原「數字之間的線」）────────────────────────────────────────
 type Thread = {
   id: string;
   categories: string[];
   question: Loc;
   answer: Loc;
+  /** 章的正文，段落以空行分隔（報告 §10.4） */
+  essay?: Loc;
+  /** 章首大字用哪個指標 */
+  lead?: string;
+  /** 長期主圖：tw-* 模組與各語言的 fenced block 內文 */
+  chart?: { module: string; body: Loc };
+  /** 影響鏈：層面＋一句有年份的事實＋站內文章 */
+  chain?: { layer: Loc; text: Loc; article?: string }[];
+  /** 接下來看什麼 */
+  next?: Loc;
+  /** 延伸閱讀嵌入卡（正文真的講到的那幾篇） */
+  embeds?: { path: string; note?: Loc }[];
   indicators: string[];
   articles: string[];
 };
 const threads = await Promise.all(
-  (threadsJson.threads as Thread[]).map(async (th) => ({
-    ...th,
-    inds: th.indicators
-      .map((id) => byId.get(id))
-      .filter((i): i is Indicator => !!i),
-    reads: await resolveReads(th.articles, 6),
-  })),
+  (threadsJson.threads as Thread[]).map(async (th, i) => {
+    const chain: ChainStep[] = await Promise.all(
+      (th.chain ?? []).map(async (c) => {
+        const r = c.article ? await resolveRead(c.article) : null;
+        return {
+          layer: loc(c.layer, lang),
+          text: loc(c.text, lang),
+          href: r?.href,
+          articleTitle: r?.title,
+        };
+      }),
+    );
+    const embeds = (
+      await Promise.all(
+        (th.embeds ?? []).map((e) => resolveEmbed(e.path, e.note)),
+      )
+    ).filter((e): e is Embed => !!e);
+    const chartBody = th.chart ? loc(th.chart.body, lang) : '';
+    return {
+      ...th,
+      no: String(i + 1).padStart(2, '0'),
+      leadInd: th.lead ? byId.get(th.lead) : undefined,
+      leadV:
+        th.lead && byId.get(th.lead)
+          ? formatIndicator(byId.get(th.lead)!, lang)
+          : undefined,
+      inds: th.indicators
+        .map((id) => byId.get(id))
+        .filter((i): i is Indicator => !!i),
+      reads: embeds.length ? [] : await resolveReads(th.articles, 6),
+      chainSteps: chain,
+      embedCards: embeds,
+      chartHtml:
+        th.chart && chartBody
+          ? renderVizBlock(th.chart.module, chartBody, lang)
+          : '',
+      paragraphs: loc(th.essay ?? th.answer, lang).split(/\n\n+/),
+    };
+  }),
 );
+
+// ── 總覽：七十五年 ────────────────────────────────────────────────────
+type StoryBand = {
+  id: string;
+  label: Loc;
+  unit: Loc;
+  format: ValueFormat;
+  decimals?: number;
+  zero?: boolean;
+  series: [number, number][];
+};
+const ov = (storyJson as any).overview as
+  | {
+      kicker: Loc;
+      title: Loc;
+      essay: Loc;
+      chartTitle: Loc;
+      source: Loc;
+      x0: number;
+      x1: number;
+      bands: StoryBand[];
+      eras: { from: number; to: number; label: Loc }[];
+      marks: { year: number; label: Loc }[];
+    }
+  | undefined;
+const ovBands: Band[] = (ov?.bands ?? []).map((b) => ({
+  id: b.id,
+  label: loc(b.label, lang),
+  unit: loc(b.unit, lang),
+  zero: b.zero,
+  series: b.series,
+  fmt: (v: number) =>
+    formatNumber(v, b.format, lang, b.decimals) +
+    (b.format === 'percent' ? '%' : ''),
+}));
 
 // ── §4 站上的圖 ──────────────────────────────────────────────────────
 // 「關於」分類是 Taiwan.md 寫自己（產線、孢子、模組型錄）的文章，不是台灣的資料，不收
@@ -297,6 +439,7 @@ const selfComputed = intlJson.selfComputed as {
 
 // ── 子導覽 ───────────────────────────────────────────────────────────
 const toc = [
+  ...(ov ? [{ id: 's-overview', label: t('dh.nav.overview') }] : []),
   { id: 's-threads', label: t('dh.nav.threads') },
   { id: 's-numbers', label: t('dh.nav.numbers') },
   { id: 's-intl', label: t('dh.nav.intl') },
@@ -352,46 +495,61 @@ const datasetLd = {
   description={t('dh.meta.description')}
   readerSettings={true}
 >
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Newsreader:opsz,wght@6..72,400..600&display=swap"
+  />
   <main class="data-hub min-h-screen">
-    <PageHero
-      eyebrow={t('dh.hero.eyebrow')}
-      title={t('dh.hero.title')}
-      subtitle={t('dh.hero.subtitle')}
-      titleSize="clamp"
-      containerWidth="wide"
-    >
-      <p class="dh-hero-lede">{t('dh.hero.lede')}</p>
-      {
-        headline.length > 0 && (
-          <section class="dh-today" aria-labelledby="dh-today-h">
-            <h2 class="dh-today-h" id="dh-today-h">
-              {t('dh.today.h')}
-            </h2>
-            <ul class="dh-today-grid">
-              {headline.map((ind) => {
-                const v = formatIndicator(ind, lang);
-                return (
-                  <li style={`--dh-cat:${catColor(ind.category)}`}>
-                    <a href={`#ind-${ind.id}`}>
-                      <div class="dh-today-v">
-                        {v.prefix}
-                        {v.number}
-                        {v.unit && <small>{v.unit}</small>}
-                      </div>
-                      <div class="dh-today-l">{loc(ind.title, lang)}</div>
-                      <div class="dh-today-p">{loc(ind.period, lang)}</div>
-                    </a>
-                  </li>
-                );
-              })}
-            </ul>
-            <p class="dh-today-foot">
-              {fill(t('dh.today.foot'), { date: verifiedText })}
-            </p>
-          </section>
-        )
-      }
-    </PageHero>
+    <div class="dh-hero">
+      <TerrainRidge
+        class="dh-hero-ridge"
+        stroke="rgba(233, 240, 238, 0.3)"
+        accent="#45c2ab"
+        bg="var(--dh-hero-bg)"
+        strokeWidth={3.4}
+      />
+      <PageHero
+        eyebrow={t('dh.hero.eyebrow')}
+        title={t('dh.hero.title')}
+        subtitle={t('dh.hero.subtitle')}
+        titleSize="clamp"
+        containerWidth="wide"
+        bgTone="dark"
+        accentColor="#45c2ab"
+      >
+        <p class="dh-hero-lede">{t('dh.hero.lede')}</p>
+        {
+          headline.length > 0 && (
+            <section class="dh-today" aria-labelledby="dh-today-h">
+              <h2 class="dh-today-h" id="dh-today-h">
+                {t('dh.today.h')}
+              </h2>
+              <ul class="dh-today-grid">
+                {headline.map((ind) => {
+                  const v = formatIndicator(ind, lang);
+                  return (
+                    <li style={`--dh-cat:${catColor(ind.category)}`}>
+                      <a href={`#ind-${ind.id}`}>
+                        <div class="dh-today-v">
+                          {v.prefix}
+                          {v.number}
+                          {v.unit && <small>{v.unit}</small>}
+                        </div>
+                        <div class="dh-today-l">{loc(ind.title, lang)}</div>
+                        <div class="dh-today-p">{loc(ind.period, lang)}</div>
+                      </a>
+                    </li>
+                  );
+                })}
+              </ul>
+              <p class="dh-today-foot">
+                {fill(t('dh.today.foot'), { date: verifiedText })}
+              </p>
+            </section>
+          )
+        }
+      </PageHero>
+    </div>
 
     <nav class="dh-subnav" aria-label={t('dh.subnav.label')} id="dh-subnav">
       <div class="dh-subnav-in">
@@ -405,16 +563,73 @@ const datasetLd = {
       </div>
     </nav>
 
-    <!-- §1 數字之間的線 -->
-    <section class="dh-section" id="s-threads">
-      <div class="dh-wrap">
-        <p class="dh-kicker">{t('dh.threads.kicker')}</p>
-        <h2 class="dh-h2">{t('dh.threads.h2')}</h2>
-        <p class="dh-lede">{t('dh.threads.lede')}</p>
-        <div class="dh-threads">
-          {
-            threads.map((th) => (
-              <article class="dh-thread" id={`thread-${th.id}`}>
+    {
+      ov && (
+        <section class="dh-section is-tint" id="s-overview">
+          <div class="dh-wrap">
+            <header class="dh-sec-head">
+              <p class="dh-kicker">{loc(ov.kicker, lang)}</p>
+              <h2 class="dh-h2 is-display">{loc(ov.title, lang)}</h2>
+            </header>
+            <div class="dh-essay is-lead">
+              {loc(ov.essay, lang)
+                .split(/\n\n+/)
+                .map((p) => (
+                  <p>{p}</p>
+                ))}
+            </div>
+            {ovBands.length > 0 && (
+              <TimeBands
+                title={loc(ov.chartTitle, lang)}
+                bands={ovBands}
+                eras={ov.eras.map((e) => ({ ...e, label: loc(e.label, lang) }))}
+                marks={ov.marks.map((m) => ({
+                  ...m,
+                  label: loc(m.label, lang),
+                }))}
+                x0={ov.x0}
+                x1={ov.x1}
+                source={loc(ov.source, lang)}
+                sourceLabel={t('dh.tb.source')}
+                yearLabel={t('dh.card.year')}
+                tableCaption={loc(ov.chartTitle, lang)}
+                marksLabel={t('dh.tb.marks')}
+              />
+            )}
+            <nav class="dh-ch-index" aria-labelledby="dh-ch-index-h">
+              <h3 class="dh-ch-index-h" id="dh-ch-index-h">
+                {t('dh.overview.index')}
+              </h3>
+              <ol>
+                {threads.map((th) => (
+                  <li>
+                    <a href={`#thread-${th.id}`}>
+                      <span class="dh-ch-index-no">{th.no}</span>
+                      <span>{loc(th.question, lang)}</span>
+                    </a>
+                  </li>
+                ))}
+              </ol>
+            </nav>
+          </div>
+        </section>
+      )
+    }
+
+    <!-- §1 七章：每章一個問題，固定六段（報告 §10.4） -->
+    <div class="dh-chapters" id="s-threads">
+      {
+        threads.map((th, i) => (
+          <section
+            class:list={['dh-section', 'dh-ch', i % 2 === 1 && 'is-tint']}
+            id={`thread-${th.id}`}
+            aria-labelledby={`thread-${th.id}-q`}
+          >
+            <div class="dh-wrap dh-ch-grid">
+              <aside class="dh-ch-side">
+                <span class="dh-ch-no" aria-hidden="true">
+                  {th.no}
+                </span>
                 <ul class="dh-thread-cats" aria-label={t('dh.threads.cats')}>
                   {th.categories.map((c) => (
                     <li class="dh-chip" style={`--dh-cat:${catColor(c)}`}>
@@ -423,29 +638,99 @@ const datasetLd = {
                     </li>
                   ))}
                 </ul>
-                <h3 class="dh-thread-q">{loc(th.question, lang)}</h3>
-                <div class="dh-thread-a">
-                  {loc(th.answer, lang)
-                    .split(/\n\n+/)
-                    .map((p) => (
-                      <p>{p}</p>
-                    ))}
+                {th.leadInd && th.leadV && (
+                  <a class="dh-ch-lead" href={`#ind-${th.leadInd.id}`}>
+                    <span class="dh-ch-lead-v">
+                      {th.leadV.prefix}
+                      {th.leadV.number}
+                      {th.leadV.unit && <small>{th.leadV.unit}</small>}
+                    </span>
+                    <span class="dh-ch-lead-l">
+                      {loc(th.leadInd.title, lang)}
+                    </span>
+                    <span class="dh-ch-lead-p">
+                      {loc(th.leadInd.period, lang)}
+                    </span>
+                  </a>
+                )}
+              </aside>
+              <div class="dh-ch-body">
+                <h2 class="dh-ch-q" id={`thread-${th.id}-q`}>
+                  {loc(th.question, lang)}
+                </h2>
+                <div class="dh-essay">
+                  {th.paragraphs.map((p) => (
+                    <p>{p}</p>
+                  ))}
                 </div>
+                {th.chartHtml && (
+                  <div class="dh-ch-chart" set:html={th.chartHtml} />
+                )}
+                {th.chainSteps.length > 0 && (
+                  <div class="dh-ch-block">
+                    <h3 class="dh-ch-h">{t('dh.ch.why')}</h3>
+                    <ImpactChain
+                      steps={th.chainSteps}
+                      label={`${t('dh.ch.why')}：${loc(th.question, lang)}`}
+                      fromLabel={t('dh.ch.from')}
+                    />
+                  </div>
+                )}
+                {th.next && (
+                  <p class="dh-ch-next">
+                    <b>{t('dh.ch.next')}</b>
+                    {loc(th.next, lang)}
+                  </p>
+                )}
                 {th.inds.length > 0 && (
-                  <div class="dh-thread-nums">
-                    {th.inds.map((ind) => (
-                      <a href={`#ind-${ind.id}`} class="dh-thread-num">
-                        <IndicatorCard
-                          ind={ind}
-                          lang={lang}
-                          catName={catName(ind.category)}
-                          catColor={catColor(ind.category)}
-                          labels={cardLabels}
-                          reads={[]}
-                          compact
-                        />
-                      </a>
-                    ))}
+                  <div class="dh-ch-block">
+                    <h3 class="dh-ch-h">{t('dh.ch.nums')}</h3>
+                    <div class="dh-thread-nums">
+                      {th.inds.map((ind) => (
+                        <a href={`#ind-${ind.id}`} class="dh-thread-num">
+                          <IndicatorCard
+                            ind={ind}
+                            lang={lang}
+                            catName={catName(ind.category)}
+                            catColor={catColor(ind.category)}
+                            labels={cardLabels}
+                            reads={[]}
+                            compact
+                          />
+                        </a>
+                      ))}
+                    </div>
+                  </div>
+                )}
+                {th.embedCards.length > 0 && (
+                  <div class="dh-ch-block">
+                    <h3 class="dh-ch-h">{t('dh.ch.reads')}</h3>
+                    <div class="tw-article dh-embeds">
+                      {th.embedCards.map((c) => {
+                        const cat = cats[c.article.category];
+                        return (
+                          <ArticleCard
+                            density="embed"
+                            href={c.href}
+                            title={c.article.title}
+                            description={
+                              c.note ?? trimSummary(c.article.description)
+                            }
+                            categoryLabel={cat?.name}
+                            categoryColor={cat?.color}
+                            categoryIcon={cat?.icon}
+                            date={c.date}
+                            coverImage={c.article.image || undefined}
+                            curation={c.article.curation}
+                            openIn="same-tab"
+                            dataAttrs={{
+                              'data-ga-section': 'data_hub_embed',
+                              'data-tw-embed-lang': c.lang,
+                            }}
+                          />
+                        );
+                      })}
+                    </div>
                   </div>
                 )}
                 {th.reads.length > 0 && (
@@ -461,15 +746,15 @@ const datasetLd = {
                     ))}
                   </ul>
                 )}
-              </article>
-            ))
-          }
-        </div>
-      </div>
-    </section>
+              </div>
+            </div>
+          </section>
+        ))
+      }
+    </div>
 
     <!-- §2 台灣的數字 -->
-    <section class="dh-section" id="s-numbers">
+    <section class="dh-section is-tint" id="s-numbers">
       <div class="dh-wrap">
         <p class="dh-kicker">{t('dh.numbers.kicker')}</p>
         <h2 class="dh-h2">
@@ -548,7 +833,7 @@ const datasetLd = {
     </section>
 
     <!-- §3 國際資料庫裡的台灣 -->
-    <section class="dh-section" id="s-intl">
+    <section class="dh-section is-dark" id="s-intl">
       <div class="dh-wrap">
         <p class="dh-kicker">{t('dh.intl.kicker')}</p>
         <h2 class="dh-h2">{t('dh.intl.h2')}</h2>
@@ -712,7 +997,7 @@ const datasetLd = {
     </section>
 
     <!-- §5 深度資料專題 -->
-    <section class="dh-section" id="s-portals">
+    <section class="dh-section is-tint" id="s-portals">
       <div class="dh-wrap">
         <p class="dh-kicker">{t('dh.portals.kicker')}</p>
         <h2 class="dh-h2">{t('dh.portals.h2')}</h2>
@@ -804,7 +1089,7 @@ const datasetLd = {
     </section>
 
     <!-- §7 給開發者與 AI -->
-    <section class="dh-section" id="s-machine">
+    <section class="dh-section is-code" id="s-machine">
       <div class="dh-wrap">
         <p class="dh-kicker">{t('dh.machine.kicker')}</p>
         <h2 class="dh-h2">{t('dh.machine.h2')}</h2>

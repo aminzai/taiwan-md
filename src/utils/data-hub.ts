@@ -1,8 +1,8 @@
 /**
  * data-hub.ts — /data 資料中樞的資料層：型別、在地化、數字格式、迷你折線。
  *
- * 內容 SSOT 在 src/data/data-hub/*.json（指標、跨主題的線、資料來源目錄、
- * 國際資料庫怎麼標台灣）。每個要給人讀的欄位都是 { 'zh-TW': …, en: …, … }
+ * 內容 SSOT 在 src/data/data-hub/*.json（指標、七章、資料來源目錄、
+ * 國際資料庫怎麼標台灣、七十五年總覽）。每個要給人讀的欄位都是 { 'zh-TW': …, en: …, … }
  * 的在地化物件；缺語言時退英文、再退中文（內容層一律先退英文：非中文讀者
  * 讀英文比讀中文容易，日韓也一樣——UI 字串層的 ja/ko→zh 退路是另一回事）。
  *
@@ -14,6 +14,7 @@ import indicatorsJson from '../data/data-hub/indicators.json';
 import threadsJson from '../data/data-hub/threads.json';
 import sourcesJson from '../data/data-hub/sources.json';
 import intlJson from '../data/data-hub/intl.json';
+import storyJson from '../data/data-hub/story.json';
 
 export type Loc = Partial<Record<string, string>> & { 'zh-TW': string };
 
@@ -67,6 +68,7 @@ const CONTENT_ROOTS: [string, unknown][] = [
   ['threads', threadsJson],
   ['sources', sourcesJson],
   ['intl', intlJson],
+  ['story', storyJson],
 ];
 
 for (const [file, table] of Object.entries(overlayModules)) {
@@ -86,6 +88,8 @@ for (const [file, table] of Object.entries(overlayModules)) {
 export const threadsData = threadsJson;
 export const sourcesData = sourcesJson;
 export const intlData = intlJson;
+/** 總覽「七十五年」的敘事與時間帶（報告 §10.7） */
+export const storyData = storyJson;
 
 // 退路：中日韓先退中文、其他語言先退英文（跟 UI 字串的 FALLBACK_CHAIN 同方向）。
 // 「有這個鍵但值是空字串」算有填：金額欄的 prefix／unit 靠它分家，中日韓寫
@@ -146,6 +150,11 @@ export interface Indicator {
   /** 官方多久發布一次新值；過期檢查（scripts/tools/data-hub-staleness.py）用 */
   cadence?: 'monthly' | 'quarterly' | 'annual' | 'irregular' | 'fixed';
   insight: Loc;
+  /**
+   * 為什麼重要：這個數字推動或限制了什麼（誰、哪一年、多少）。insight 回答
+   * 「數字說了什麼」，why 回答「所以呢」（報告 §10.5）。
+   */
+  why?: Loc;
   /** zh 路徑 `Folder/slug`（不含 .md），各語言用 getArticleByZhPath 對回譯文 */
   articles?: string[];
   /** 這個數字也出現在哪幾條跨主題的線 */

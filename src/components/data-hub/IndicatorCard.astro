@@ -4,7 +4,7 @@
  *
  * 卡的構造照 ABS／SingStat／e-Stat 的國家統計慣例（研究 R3 §P3、§P4）：
  * 值、參考期間、性質（官方統計／業界估計／推估）、十年對照、迷你折線、
- * 為什麼值得注意、出處與下載、站上相關文章。全部預設看得見，沒有 hover 才
+ * 數字說了什麼、為什麼重要、出處與下載、站上相關文章。全部預設看得見，沒有 hover 才
  * 出現的資訊（graph.md §三.9）。id="ind-{id}" 是永久錨點。
  */
 import Sparkline from './Sparkline.astro';
@@ -22,6 +22,8 @@ export interface CardLabels {
   download: string;
   reads: string;
   permalink: string;
+  /** 「為什麼重要」 */
+  why: string;
   year: string;
   value: string;
   basis: Record<string, string>;
@@ -117,6 +119,14 @@ const unitFor = (x: number) => {
     )
   }
   {!compact && <p class="dh-ind-insight">{loc(ind.insight, lang)}</p>}
+  {
+    ind.why && (
+      <p class="dh-ind-why">
+        <span>{labels.why}</span>
+        {loc(ind.why, lang)}
+      </p>
+    )
+  }
   {
     !compact && (
       <footer class="dh-ind-foot">

@@ -21,6 +21,13 @@
     'jf-lanyanghei', 'Noto Sans TC', 'Source Han Sans TC', sans-serif;
   --dh-font-body:
     'jf-jinxuanlatte', 'Noto Sans TC', 'Source Han Sans TC', sans-serif;
+  /* 識別系統 v2（docs/brand/tokens.json）：紙色三階、黑潮墨深底、章號用 Newsreader。
+     全站 token 遷移還在第二階段等拍板，先在本頁區域內使用 */
+  --dh-paper-2: #f3f6f5;
+  --dh-paper-3: #e8eeec;
+  --dh-hero-bg: #0f1b1f;
+  --dh-font-num: 'Newsreader', 'Noto Serif TC', Georgia, serif;
+  --dh-font-mono: 'IBM Plex Mono', ui-monospace, 'SFMono-Regular', monospace;
   color: var(--dh-ink);
   background: var(--color-bg);
   font-family: var(--dh-font-body);
@@ -31,6 +38,8 @@
   --dh-accent: #3fbfa6;
   --dh-accent-soft: rgba(63, 191, 166, 0.14);
   --dh-warm: #fbbf24;
+  --dh-paper-2: #0b1113;
+  --dh-paper-3: #0f181b;
 }
 
 /* ── 版面 ─────────────────────────────────────────────────────────── */
@@ -40,9 +49,29 @@
   padding: 0 var(--space-page-x);
 }
 .data-hub .dh-section {
-  padding: var(--space-8) 0 var(--space-7);
-  border-top: 1px solid var(--dh-line);
+  padding: var(--space-8) 0;
   scroll-margin-top: 48px;
+}
+/* 區塊節奏（報告 §10.6）：白、紙色二階、深底、紙色三階交替，區塊之間靠底色分開 */
+.data-hub .dh-section.is-tint {
+  background: var(--dh-paper-2);
+}
+.data-hub .dh-section.is-code {
+  background: var(--dh-paper-3);
+}
+.data-hub .dh-section.is-dark {
+  --dh-ink: #e9f0ee;
+  --dh-ink-soft: #b9c6c5;
+  --dh-line: #26383e;
+  --dh-accent: #45c2ab;
+  --dh-accent-soft: rgba(69, 194, 171, 0.16);
+  --dh-panel: rgba(233, 240, 238, 0.05);
+  --color-surface: #152429;
+  --color-ink: #e9f0ee;
+  --color-ink-soft: #b9c6c5;
+  --color-border: #26383e;
+  background: var(--dh-hero-bg);
+  color: var(--dh-ink);
 }
 .data-hub .dh-kicker {
   font-family: var(--dh-font-verse);
@@ -99,13 +128,38 @@
   text-decoration-thickness: 1px;
 }
 
-/* ── Hero：今天的台灣 ─────────────────────────────────────────────── */
+/* ── Hero：黑潮墨深底＋地形行（識別系統 v2 的大面圖形）──────────────── */
+.data-hub .dh-hero {
+  position: relative;
+  overflow: hidden;
+  isolation: isolate;
+  background: var(--dh-hero-bg);
+  color: #e9f0ee;
+  --dh-line: rgba(233, 240, 238, 0.14);
+  --dh-ink-soft: #b9c6c5;
+}
+.data-hub .dh-hero-ridge {
+  position: absolute;
+  z-index: -1;
+  top: 50%;
+  inset-inline-end: max(-4vw, -60px);
+  height: 112%;
+  width: auto;
+  transform: translateY(-50%);
+  pointer-events: none;
+}
+@media (max-width: 900px) {
+  .data-hub .dh-hero-ridge {
+    inset-inline-end: -30%;
+    opacity: 0.4;
+  }
+}
 .data-hub .dh-hero-lede {
   max-width: 62ch;
   margin: 1rem auto 0;
   font-size: 1.04rem;
   line-height: 1.8;
-  color: var(--dh-ink-soft);
+  color: #b9c6c5;
 }
 .data-hub .dh-today {
   margin: var(--space-6) auto 0;
@@ -116,7 +170,7 @@
   font-family: var(--dh-font-body);
   font-size: 0.82rem;
   letter-spacing: 0.06em;
-  color: var(--dh-ink-soft);
+  color: #8d9d9e;
   margin: 0 0 0.6rem;
   font-weight: 700;
 }
@@ -129,13 +183,14 @@
   padding: 0;
 }
 .data-hub .dh-today-grid li {
-  /* PageHero 容器寫死淺色主題墨色，這裡要重新指回 token，深色模式才看得到數字 */
-  color: var(--color-ink);
-  border: 1px solid var(--dh-line);
-  border-top: 3px solid var(--dh-cat, var(--dh-accent));
-  border-radius: 10px;
-  padding: 0.7rem 0.8rem 0.65rem;
-  background: var(--color-surface);
+  color: #e9f0ee;
+  border: 1px solid rgba(233, 240, 238, 0.16);
+  border-radius: 8px;
+  padding: 0.75rem 0.85rem 0.7rem;
+  background: rgba(15, 27, 31, 0.78);
+}
+.data-hub .dh-today-grid li:hover {
+  border-color: rgba(69, 194, 171, 0.6);
 }
 .data-hub .dh-today-grid a {
   text-decoration: none;
@@ -153,21 +208,31 @@
   font-size: 0.8rem;
   font-weight: 700;
   margin-inline-start: 0.15rem;
-  color: var(--dh-ink-soft);
+  color: #8d9d9e;
 }
 .data-hub .dh-today-l {
   font-size: 0.86rem;
   margin-top: 0.25rem;
   line-height: 1.4;
+  color: #b9c6c5;
+}
+.data-hub .dh-today-l::before {
+  content: '';
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  margin-inline-end: 0.4rem;
+  vertical-align: 0.12em;
+  background: var(--dh-cat, #45c2ab);
 }
 .data-hub .dh-today-p {
   font-size: 0.74rem;
-  color: var(--dh-ink-soft);
+  color: #8d9d9e;
   margin-top: 0.2rem;
 }
 .data-hub .dh-today-foot {
   font-size: 0.78rem;
-  color: var(--dh-ink-soft);
+  color: #8d9d9e;
   margin: 0.6rem 0 0;
 }
 
@@ -213,6 +278,513 @@
   font-weight: 700;
 }
 
+/* ── 總覽：七十五年 ────────────────────────────────────────────────── */
+.data-hub .dh-h2.is-display {
+  font-size: clamp(1.8rem, 4vw, 2.75rem);
+  line-height: 1.25;
+  letter-spacing: -0.015em;
+  max-width: 26ch;
+  text-wrap: balance;
+}
+.data-hub .dh-ch-q,
+.data-hub .dh-tb-title {
+  text-wrap: balance;
+}
+.data-hub .dh-sec-head {
+  margin-bottom: var(--space-5);
+}
+.data-hub .dh-essay {
+  max-width: 66ch;
+  font-size: 1.06rem;
+  line-height: 1.95;
+  color: var(--dh-ink);
+}
+.data-hub .dh-essay p {
+  margin: 0 0 1em;
+}
+.data-hub .dh-essay.is-lead p:first-child {
+  font-size: 1.14rem;
+}
+.data-hub .dh-ch-index {
+  margin-top: var(--space-7);
+}
+.data-hub .dh-ch-index-h {
+  font-family: var(--dh-font-body);
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: var(--dh-accent);
+  margin: 0 0 0.5rem;
+}
+.data-hub .dh-ch-index ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 320px), 1fr));
+  gap: 0 2rem;
+  border-top: 1px solid var(--dh-line);
+}
+.data-hub .dh-ch-index a {
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+  padding: 0.8rem 0;
+  border-bottom: 1px solid var(--dh-line);
+  text-decoration: none;
+  font-weight: 600;
+  line-height: 1.5;
+}
+.data-hub .dh-ch-index a:hover span:last-child {
+  color: var(--dh-accent);
+}
+.data-hub .dh-ch-index-no {
+  font-family: var(--dh-font-num);
+  font-size: 1.55rem;
+  font-weight: 400;
+  line-height: 1;
+  color: var(--dh-accent);
+  min-width: 2ch;
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+/* 時間帶（TimeBands.astro） */
+.data-hub .dh-tb {
+  margin: var(--space-6) 0 0;
+  padding: var(--space-5);
+  background: var(--color-surface);
+  border: 1px solid var(--dh-line);
+  border-radius: 8px;
+  --dh-tb-era-a: rgba(0, 120, 100, 0.07);
+  --dh-tb-era-b: rgba(19, 34, 42, 0.035);
+  --dh-tb-mark: rgba(19, 34, 42, 0.2);
+}
+[data-theme='dark'] .data-hub .dh-tb {
+  --dh-tb-era-a: rgba(69, 194, 171, 0.1);
+  --dh-tb-era-b: rgba(233, 240, 238, 0.04);
+  --dh-tb-mark: rgba(233, 240, 238, 0.24);
+}
+.data-hub .dh-tb-title {
+  font-family: var(--dh-font-head);
+  font-weight: 800;
+  font-size: 1.12rem;
+  line-height: 1.45;
+  margin: 0 0 1rem;
+}
+.data-hub .dh-tb-row {
+  display: grid;
+  grid-template-columns: 9.5rem minmax(0, 1fr);
+  gap: 1rem;
+}
+.data-hub .dh-tb-label {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-top: 1px solid var(--dh-line);
+  padding: 0.4rem 0;
+}
+.data-hub .dh-tb-label b {
+  font-size: 0.9rem;
+  line-height: 1.3;
+}
+.data-hub .dh-tb-label span {
+  font-size: 0.72rem;
+  color: var(--dh-ink-soft);
+  margin-top: 0.1rem;
+}
+.data-hub .dh-tb-row.is-eras .dh-tb-label,
+.data-hub .dh-tb-row.is-axis .dh-tb-label {
+  border-top: 0;
+}
+.data-hub .dh-tb-plot {
+  position: relative;
+  direction: ltr;
+  height: 86px;
+  background: var(--dh-tb-bg);
+  border-top: 1px solid var(--dh-line);
+}
+.data-hub .dh-tb-plot svg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+.data-hub .dh-tb-plot path {
+  fill: none;
+  stroke: var(--dh-ink);
+  stroke-width: 1.75;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+}
+.data-hub .dh-tb-dot {
+  position: absolute;
+  width: 7px;
+  height: 7px;
+  margin: -3.5px 0 0 -3.5px;
+  background: var(--dh-ink);
+  border-radius: 50%;
+}
+.data-hub .dh-tb-dot.is-peak {
+  background: var(--dh-accent);
+}
+.data-hub .dh-tb-v {
+  position: absolute;
+  transform: translate(-50%, calc(-100% - 6px));
+  font-size: 0.7rem;
+  line-height: 1.15;
+  white-space: nowrap;
+  text-align: center;
+  pointer-events: none;
+}
+.data-hub .dh-tb-v b {
+  display: block;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+.data-hub .dh-tb-v small {
+  display: block;
+  font-size: 0.62rem;
+  color: var(--dh-ink-soft);
+}
+.data-hub .dh-tb-v.is-first {
+  transform: translate(-3px, calc(-100% - 6px));
+  text-align: left;
+}
+.data-hub .dh-tb-v.is-last {
+  transform: translate(calc(-100% + 3px), calc(-100% - 6px));
+  text-align: right;
+}
+.data-hub .dh-tb-v.is-peak b {
+  color: var(--dh-accent);
+}
+.data-hub .dh-tb-v.is-first.is-below {
+  transform: translate(-3px, 7px);
+}
+.data-hub .dh-tb-v.is-last.is-below {
+  transform: translate(calc(-100% + 3px), 7px);
+}
+.data-hub .dh-tb-plot.is-eras {
+  height: 2.3rem;
+  border-top: 0;
+}
+.data-hub .dh-tb-era {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  align-items: flex-end;
+  padding: 0 0.4rem 0.35rem;
+  font-size: 0.72rem;
+  line-height: 1.25;
+  color: var(--dh-ink-soft);
+  overflow: hidden;
+}
+.data-hub .dh-tb-plot.is-axis {
+  height: 1.5rem;
+  background: none;
+}
+.data-hub .dh-tb-tick {
+  position: absolute;
+  top: 0.3rem;
+  transform: translateX(-50%);
+  font-size: 0.68rem;
+  color: var(--dh-ink-soft);
+  font-variant-numeric: tabular-nums;
+}
+.data-hub .dh-tb-marks {
+  list-style: none;
+  margin: 1rem 0 0;
+  padding: 0.85rem 0 0;
+  border-top: 1px solid var(--dh-line);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1.2rem;
+  font-size: 0.8rem;
+  line-height: 1.5;
+  color: var(--dh-ink-soft);
+}
+.data-hub .dh-tb-marks b {
+  color: var(--dh-ink);
+  margin-inline-end: 0.35rem;
+  font-variant-numeric: tabular-nums;
+}
+.data-hub .dh-tb-src {
+  font-size: 0.75rem;
+  line-height: 1.6;
+  color: var(--dh-ink-soft);
+  margin: 0.75rem 0 0;
+}
+@media (max-width: 640px) {
+  .data-hub .dh-tb {
+    padding: var(--space-4) 0.85rem;
+  }
+  .data-hub .dh-tb-row {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+  .data-hub .dh-tb-label {
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: flex-start;
+    gap: 0.5rem;
+    padding: 0.55rem 0 1.6rem;
+  }
+  .data-hub .dh-tb-row.is-eras .dh-tb-label,
+  .data-hub .dh-tb-row.is-axis .dh-tb-label {
+    display: none;
+  }
+  .data-hub .dh-tb-plot {
+    border-top: 0;
+  }
+  .data-hub .dh-tb-era {
+    font-size: 0.62rem;
+    padding: 0 0.2rem 0.3rem;
+  }
+}
+
+/* ── 七章（報告 §10.4）：左欄章號＋章首數字，右欄六段 ───────────────── */
+.data-hub .dh-ch {
+  scroll-margin-top: 48px;
+}
+.data-hub .dh-ch-grid {
+  display: grid;
+  grid-template-columns: 190px minmax(0, 1fr);
+  gap: 0 var(--space-6);
+}
+.data-hub .dh-ch-side {
+  position: sticky;
+  top: 120px;
+  align-self: start;
+}
+.data-hub .dh-ch-no {
+  display: block;
+  font-family: var(--dh-font-num);
+  font-size: clamp(3.5rem, 7vw, 6rem);
+  font-weight: 400;
+  line-height: 0.9;
+  letter-spacing: -0.02em;
+  color: var(--dh-ink);
+  margin: 0 0 1rem;
+  font-variant-numeric: lining-nums;
+}
+.data-hub .dh-ch-lead {
+  display: block;
+  margin-top: 1.25rem;
+  padding-top: 0.9rem;
+  border-top: 1px solid var(--dh-line);
+  text-decoration: none;
+}
+.data-hub .dh-ch-lead-v {
+  display: block;
+  font-family: var(--dh-font-head);
+  font-weight: 800;
+  font-size: 1.65rem;
+  line-height: 1.1;
+  font-variant-numeric: tabular-nums;
+}
+.data-hub .dh-ch-lead-v small {
+  font-size: 0.85rem;
+  margin-inline-start: 0.2rem;
+  color: var(--dh-ink-soft);
+}
+.data-hub .dh-ch-lead-l {
+  display: block;
+  font-size: 0.86rem;
+  margin-top: 0.35rem;
+  line-height: 1.4;
+}
+.data-hub .dh-ch-lead-p {
+  display: block;
+  font-size: 0.75rem;
+  color: var(--dh-ink-soft);
+  margin-top: 0.15rem;
+}
+.data-hub .dh-ch-q {
+  font-family: var(--dh-font-head);
+  font-size: clamp(1.45rem, 2.9vw, 2.05rem);
+  line-height: 1.35;
+  font-weight: 800;
+  margin: 0 0 1.1rem;
+  letter-spacing: -0.01em;
+}
+.data-hub .dh-ch-chart {
+  margin: var(--space-5) 0 0;
+}
+.data-hub .dh-ch-block {
+  margin-top: var(--space-6);
+}
+.data-hub .dh-ch-h {
+  font-family: var(--dh-font-body);
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: var(--dh-accent);
+  margin: 0 0 0.85rem;
+}
+.data-hub .dh-ch-next {
+  margin: var(--space-5) 0 0;
+  padding: 0.95rem 1.1rem;
+  border-inline-start: 2px solid var(--dh-accent);
+  background: var(--color-surface);
+  font-size: 0.98rem;
+  line-height: 1.85;
+  max-width: 66ch;
+}
+.data-hub .dh-ch-next b {
+  display: block;
+  font-size: 0.8rem;
+  color: var(--dh-accent);
+  margin-bottom: 0.2rem;
+  letter-spacing: 0.04em;
+}
+@media (max-width: 860px) {
+  .data-hub .dh-ch-grid {
+    grid-template-columns: 1fr;
+  }
+  .data-hub .dh-ch-side {
+    position: static;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    gap: 0.5rem 1.25rem;
+    margin-bottom: 1.1rem;
+  }
+  .data-hub .dh-ch-no {
+    font-size: 3.4rem;
+    margin: 0;
+  }
+  .data-hub .dh-ch-side .dh-thread-cats {
+    margin: 0;
+  }
+  .data-hub .dh-ch-lead {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    flex-basis: 100%;
+  }
+}
+
+/* 影響鏈（ImpactChain.astro）：寬螢幕一列、環與環之間一個箭頭；1100px 以下直排
+   （五環擠在一列時每環不到一百像素，中文一行只剩五六個字） */
+.data-hub .dh-chain {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: minmax(0, 1fr);
+  border-top: 1px solid var(--dh-line);
+  border-bottom: 1px solid var(--dh-line);
+}
+.data-hub .dh-chain-step {
+  position: relative;
+  padding: 0.95rem 1.1rem 1rem;
+}
+.data-hub .dh-chain-step:first-child {
+  padding-inline-start: 0;
+}
+.data-hub .dh-chain-step + .dh-chain-step {
+  border-inline-start: 1px solid var(--dh-line);
+}
+.data-hub .dh-chain-step:not(:last-child)::after {
+  content: '';
+  position: absolute;
+  z-index: 1;
+  top: 1.35rem;
+  inset-inline-end: -6px;
+  width: 10px;
+  height: 10px;
+  border-top: 1.5px solid var(--dh-accent);
+  border-inline-end: 1.5px solid var(--dh-accent);
+  transform: rotate(45deg);
+}
+.data-hub .dh-chain-step:not(:last-child):dir(rtl)::after {
+  transform: rotate(-45deg);
+}
+.data-hub .dh-chain-no {
+  display: block;
+  font-family: var(--dh-font-num);
+  font-size: 1.45rem;
+  line-height: 1;
+  color: var(--dh-accent);
+  margin-bottom: 0.45rem;
+  font-variant-numeric: lining-nums;
+}
+.data-hub .dh-chain-layer {
+  display: inline-block;
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  padding: 0.18rem 0.45rem;
+  background: var(--dh-accent-soft);
+  border-radius: 2px;
+}
+.data-hub .dh-chain-text {
+  font-size: 0.92rem;
+  line-height: 1.75;
+  margin: 0.55rem 0 0.45rem;
+}
+.data-hub .dh-chain-from {
+  font-size: 0.76rem;
+  line-height: 1.5;
+  color: var(--dh-ink-soft);
+  margin: 0;
+}
+.data-hub .dh-chain-from span {
+  margin-inline-end: 0.3rem;
+}
+.data-hub .dh-chain-from a {
+  color: var(--dh-accent);
+  text-underline-offset: 3px;
+}
+@media (max-width: 1100px) {
+  .data-hub .dh-chain {
+    grid-auto-flow: row;
+    grid-auto-columns: auto;
+    border: 0;
+    border-inline-start: 1px solid var(--dh-line);
+    margin-inline-start: 0.3rem;
+  }
+  .data-hub .dh-chain-step,
+  .data-hub .dh-chain-step:first-child,
+  .data-hub .dh-chain-step + .dh-chain-step {
+    border: 0;
+    padding: 0.1rem 0 1.15rem 1.2rem;
+  }
+  .data-hub .dh-chain-step::before {
+    content: '';
+    position: absolute;
+    inset-inline-start: -4px;
+    top: 0.45rem;
+    width: 7px;
+    height: 7px;
+    background: var(--dh-accent);
+  }
+  .data-hub .dh-chain-step:not(:last-child)::after {
+    display: none;
+  }
+}
+
+/* 延伸閱讀：共用 ArticleCard embed 密度（同文章裡的 tw-article） */
+.data-hub .dh-embeds .article-card.is-embed {
+  margin: 0;
+}
+.data-hub .dh-embeds .article-card-title,
+.data-hub .dh-embeds .article-card-desc {
+  margin: 0;
+}
+.data-hub .dh-embeds a.article-card,
+.data-hub .dh-embeds a.article-card:hover {
+  color: var(--color-ink);
+  text-decoration: none;
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: 12px;
+}
+.data-hub .dh-embeds .article-card:hover .article-card-title {
+  color: var(--dh-accent);
+}
+
 /* ── §1 數字之間的線 ─────────────────────────────────────────────── */
 .data-hub .dh-threads {
   display: grid;
@@ -220,7 +792,7 @@
 }
 .data-hub .dh-thread {
   border: 1px solid var(--dh-line);
-  border-radius: 14px;
+  border-radius: 8px;
   padding: var(--space-5);
   background: var(--color-surface);
   scroll-margin-top: 110px;
@@ -309,8 +881,7 @@
   display: flex;
   flex-direction: column;
   border: 1px solid var(--dh-line);
-  border-top: 3px solid var(--dh-cat, var(--dh-accent));
-  border-radius: 10px;
+  border-radius: 8px;
   padding: 0.85rem 0.95rem 0.8rem;
   background: var(--color-surface);
   scroll-margin-top: 120px;
@@ -321,8 +892,29 @@
   border-color: var(--dh-accent);
 }
 .data-hub .dh-ind.is-compact {
-  padding: 0.65rem 0.75rem 0.6rem;
-  background: var(--dh-panel);
+  padding: 0.7rem 0.8rem 0.65rem;
+}
+.data-hub .dh-thread-num {
+  display: block;
+  text-decoration: none;
+}
+.data-hub .dh-thread-num:hover .dh-ind {
+  border-color: var(--dh-accent);
+}
+.data-hub .dh-ind-why {
+  font-size: 0.86rem;
+  line-height: 1.7;
+  margin: 0.6rem 0 0;
+  padding-top: 0.55rem;
+  border-top: 1px dashed var(--dh-line);
+}
+.data-hub .dh-ind-why span {
+  display: block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: var(--dh-accent);
+  margin-bottom: 0.15rem;
 }
 .data-hub .dh-ind-head {
   display: flex;
@@ -334,6 +926,15 @@
   font-size: 0.72rem;
   color: var(--dh-ink-soft);
   letter-spacing: 0.03em;
+}
+.data-hub .dh-ind-cat::before {
+  content: '';
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  margin-inline-end: 0.4rem;
+  vertical-align: 0.12em;
+  background: var(--dh-cat, var(--dh-accent));
 }
 .data-hub .dh-ind-anchor {
   font-size: 0.8rem;
