@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-24T03:13:18+08:00",
-    "zhCommitHead": "9f8929ad3",
-    "totalZh": 1150,
+    "lastUpdated": "2026-10-25T01:35:40+08:00",
+    "zhCommitHead": "0f8702dfc",
+    "totalZh": 1153,
     "activeLanguages": [
       "en",
       "ja",
@@ -19,99 +19,99 @@
     ],
     "summary": {
       "en": {
-        "total_zh": 1150,
+        "total_zh": 1153,
         "fresh": 1150,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 3,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 1150,
+        "total_zh": 1153,
         "fresh": 1149,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 3,
         "orphan": 0
       },
       "ko": {
-        "total_zh": 1150,
+        "total_zh": 1153,
         "fresh": 1149,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 3,
         "orphan": 0
       },
       "es": {
-        "total_zh": 1150,
+        "total_zh": 1153,
         "fresh": 1149,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 3,
         "orphan": 0
       },
       "fr": {
-        "total_zh": 1150,
+        "total_zh": 1153,
         "fresh": 1149,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 3,
         "orphan": 0
       },
       "vi": {
-        "total_zh": 1150,
+        "total_zh": 1153,
         "fresh": 1148,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 3,
         "orphan": 0
       },
       "id": {
-        "total_zh": 1150,
+        "total_zh": 1153,
         "fresh": 1146,
         "stale": 1,
         "metadata_stale": 3,
-        "missing": 0,
+        "missing": 3,
         "orphan": 0
       },
       "pt": {
-        "total_zh": 1150,
+        "total_zh": 1153,
         "fresh": 1149,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 0,
+        "missing": 3,
         "orphan": 0
       },
       "hi": {
-        "total_zh": 1150,
-        "fresh": 1147,
-        "stale": 2,
+        "total_zh": 1153,
+        "fresh": 1146,
+        "stale": 3,
         "metadata_stale": 1,
-        "missing": 0,
+        "missing": 3,
         "orphan": 0
       },
       "ar": {
-        "total_zh": 1150,
+        "total_zh": 1153,
         "fresh": 1150,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 3,
         "orphan": 0
       },
       "ru": {
-        "total_zh": 1150,
+        "total_zh": 1153,
         "fresh": 1150,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 3,
         "orphan": 0
       },
       "de": {
-        "total_zh": 1150,
-        "fresh": 1135,
-        "stale": 11,
-        "metadata_stale": 4,
-        "missing": 0,
+        "total_zh": 1153,
+        "fresh": 1133,
+        "stale": 12,
+        "metadata_stale": 5,
+        "missing": 3,
         "orphan": 0
       }
     },
@@ -29420,6 +29420,52 @@
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Technology/台灣技術年會文化.md": {
+      "zh": {
+        "lastCommit": "28227ea9",
+        "lastModified": "2026-10-23T22:03:49+08:00",
+        "contentHash": "sha256:24f22fed0c29496c",
+        "bodyHash": "sha256:88ad74b21e55b03b"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        },
+        "de": {
+          "status": "missing"
         }
       }
     },
@@ -100137,24 +100183,24 @@
     },
     "People/陳映真.md": {
       "zh": {
-        "lastCommit": "18157ab5",
-        "lastModified": "2026-05-14T11:04:30+08:00",
-        "contentHash": "sha256:f3b9ab94d7f541be",
-        "bodyHash": "sha256:8eae051539404383"
+        "lastCommit": "1e1fa6d8",
+        "lastModified": "2026-10-24T14:40:01+08:00",
+        "contentHash": "sha256:3831859a15865550",
+        "bodyHash": "sha256:f7b35c999a33373c"
       },
       "translations": {
         "en": {
           "path": "en/People/chen-yingzhen.md",
           "translatedFrom": "People/陳映真.md",
-          "sourceCommitSha": "18157ab5d",
-          "sourceContentHash": "sha256:f3b9ab94d7f541be",
-          "sourceBodyHash": "sha256:8eae051539404383",
-          "translatedAt": "2026-05-16T05:07:54+08:00",
+          "sourceCommitSha": "1e1fa6d8b",
+          "sourceContentHash": "sha256:3831859a15865550",
+          "sourceBodyHash": "sha256:f7b35c999a33373c",
+          "translatedAt": "2026-10-25T00:44:27+08:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "bytes": 22514,
+          "footnoteDefs": 9,
+          "bytes": 19780,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -100162,15 +100208,15 @@
         "ja": {
           "path": "ja/People/chen-yingzhen.md",
           "translatedFrom": "People/陳映真.md",
-          "sourceCommitSha": "18157ab5d",
-          "sourceContentHash": "sha256:f3b9ab94d7f541be",
-          "sourceBodyHash": "sha256:8eae051539404383",
-          "translatedAt": "2026-05-16T05:07:55+08:00",
+          "sourceCommitSha": "1e1fa6d8b",
+          "sourceContentHash": "sha256:3831859a15865550",
+          "sourceBodyHash": "sha256:f7b35c999a33373c",
+          "translatedAt": "2026-10-25T00:44:28+08:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "bytes": 22087,
+          "footnoteDefs": 9,
+          "bytes": 18135,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -100178,15 +100224,15 @@
         "ko": {
           "path": "ko/People/chen-yingzhen.md",
           "translatedFrom": "People/陳映真.md",
-          "sourceCommitSha": "18157ab5d",
-          "sourceContentHash": "sha256:f3b9ab94d7f541be",
-          "sourceBodyHash": "sha256:8eae051539404383",
-          "translatedAt": "2026-05-16T05:07:55+08:00",
+          "sourceCommitSha": "1e1fa6d8b",
+          "sourceContentHash": "sha256:3831859a15865550",
+          "sourceBodyHash": "sha256:f7b35c999a33373c",
+          "translatedAt": "2026-10-25T00:44:29+08:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "bytes": 21708,
+          "footnoteDefs": 9,
+          "bytes": 19753,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -100194,15 +100240,15 @@
         "es": {
           "path": "es/People/chen-yingzhen.md",
           "translatedFrom": "People/陳映真.md",
-          "sourceCommitSha": "18157ab5d",
-          "sourceContentHash": "sha256:f3b9ab94d7f541be",
-          "sourceBodyHash": "sha256:8eae051539404383",
-          "translatedAt": "2026-05-16T05:07:56+08:00",
+          "sourceCommitSha": "1e1fa6d8b",
+          "sourceContentHash": "sha256:3831859a15865550",
+          "sourceBodyHash": "sha256:f7b35c999a33373c",
+          "translatedAt": "2026-10-25T00:44:30+08:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "bytes": 23916,
+          "footnoteDefs": 9,
+          "bytes": 22402,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -100210,15 +100256,15 @@
         "fr": {
           "path": "fr/People/chen-yingzhen.md",
           "translatedFrom": "People/陳映真.md",
-          "sourceCommitSha": "18157ab5d",
-          "sourceContentHash": "sha256:f3b9ab94d7f541be",
-          "sourceBodyHash": "sha256:8eae051539404383",
-          "translatedAt": "2026-05-16T05:07:56+08:00",
+          "sourceCommitSha": "1e1fa6d8b",
+          "sourceContentHash": "sha256:3831859a15865550",
+          "sourceBodyHash": "sha256:f7b35c999a33373c",
+          "translatedAt": "2026-10-25T00:44:31+08:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "bytes": 25123,
+          "footnoteDefs": 9,
+          "bytes": 22776,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -100226,15 +100272,15 @@
         "vi": {
           "path": "vi/People/chen-yingzhen.md",
           "translatedFrom": "People/陳映真.md",
-          "sourceCommitSha": "18157ab5d",
-          "sourceContentHash": "sha256:f3b9ab94d7f541be",
-          "sourceBodyHash": "sha256:8eae051539404383",
-          "translatedAt": "2026-08-09T11:16:34+08:00",
+          "sourceCommitSha": "1e1fa6d8b",
+          "sourceContentHash": "sha256:3831859a15865550",
+          "sourceBodyHash": "sha256:f7b35c999a33373c",
+          "translatedAt": "2026-10-25T00:44:32+08:00",
           "translationLastCommit": "a3ec9a54",
           "translationLastModified": "2026-10-10T23:43:08+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "bytes": 29893,
+          "footnoteDefs": 9,
+          "bytes": 26317,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -100242,15 +100288,15 @@
         "id": {
           "path": "id/People/chen-yingzhen.md",
           "translatedFrom": "People/陳映真.md",
-          "sourceCommitSha": "18157ab5d",
-          "sourceContentHash": "sha256:f3b9ab94d7f541be",
-          "sourceBodyHash": "sha256:8eae051539404383",
-          "translatedAt": "2026-09-10T18:19:14+08:00",
+          "sourceCommitSha": "1e1fa6d8b",
+          "sourceContentHash": "sha256:3831859a15865550",
+          "sourceBodyHash": "sha256:f7b35c999a33373c",
+          "translatedAt": "2026-10-24T17:06:42.246997+00:00",
           "translationLastCommit": "c7430287",
           "translationLastModified": "2026-09-10T20:23:02+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "bytes": 21650,
+          "footnoteDefs": 9,
+          "bytes": 20884,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -100258,15 +100304,15 @@
         "pt": {
           "path": "pt/People/chen-yingzhen.md",
           "translatedFrom": "People/陳映真.md",
-          "sourceCommitSha": "18157ab5d",
-          "sourceContentHash": "sha256:f3b9ab94d7f541be",
-          "sourceBodyHash": "sha256:8eae051539404383",
-          "translatedAt": "2026-07-26T11:16:46+08:00",
+          "sourceCommitSha": "1e1fa6d8b",
+          "sourceContentHash": "sha256:3831859a15865550",
+          "sourceBodyHash": "sha256:f7b35c999a33373c",
+          "translatedAt": "2026-10-25T00:44:34+08:00",
           "translationLastCommit": "beb66999",
           "translationLastModified": "2026-07-27T19:05:03+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "bytes": 22754,
+          "footnoteDefs": 9,
+          "bytes": 21069,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -100284,21 +100330,21 @@
           "footnoteDefs": 7,
           "bytes": 49674,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→7)"
         },
         "ar": {
           "path": "ar/People/chen-yingzhen.md",
           "translatedFrom": "People/陳映真.md",
-          "sourceCommitSha": "18157ab5d",
-          "sourceContentHash": "sha256:f3b9ab94d7f541be",
-          "sourceBodyHash": "sha256:8eae051539404383",
-          "translatedAt": "2026-07-26T12:49:19+08:00",
+          "sourceCommitSha": "1e1fa6d8b",
+          "sourceContentHash": "sha256:3831859a15865550",
+          "sourceBodyHash": "sha256:f7b35c999a33373c",
+          "translatedAt": "2026-10-25T00:44:35+08:00",
           "translationLastCommit": "f1daf600",
           "translationLastModified": "2026-10-10T23:14:31+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "bytes": 29804,
+          "footnoteDefs": 9,
+          "bytes": 25296,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -100306,15 +100352,15 @@
         "ru": {
           "path": "ru/People/chen-yingzhen.md",
           "translatedFrom": "People/陳映真.md",
-          "sourceCommitSha": "18157ab5d",
-          "sourceContentHash": "sha256:f3b9ab94d7f541be",
-          "sourceBodyHash": "sha256:8eae051539404383",
-          "translatedAt": "2026-07-26T11:16:54+08:00",
+          "sourceCommitSha": "1e1fa6d8b",
+          "sourceContentHash": "sha256:3831859a15865550",
+          "sourceBodyHash": "sha256:f7b35c999a33373c",
+          "translatedAt": "2026-10-25T00:44:36+08:00",
           "translationLastCommit": "7d2147b6",
           "translationLastModified": "2026-10-10T23:19:55+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "bytes": 37091,
+          "footnoteDefs": 9,
+          "bytes": 32113,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -100322,15 +100368,15 @@
         "de": {
           "path": "de/People/chen-yingzhen.md",
           "translatedFrom": "People/陳映真.md",
-          "sourceCommitSha": "18157ab5d",
-          "sourceContentHash": "sha256:f3b9ab94d7f541be",
-          "sourceBodyHash": "sha256:8eae051539404383",
-          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "sourceCommitSha": "1e1fa6d8b",
+          "sourceContentHash": "sha256:3831859a15865550",
+          "sourceBodyHash": "sha256:f7b35c999a33373c",
+          "translatedAt": "2026-10-25T00:44:38+08:00",
           "translationLastCommit": "3042415f",
           "translationLastModified": "2026-09-11T21:51:12+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "bytes": 23216,
+          "footnoteDefs": 9,
+          "bytes": 21346,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -130247,24 +130293,24 @@
     },
     "People/林俊傑.md": {
       "zh": {
-        "lastCommit": "0f8fae0a",
-        "lastModified": "2026-05-17T18:46:40+08:00",
-        "contentHash": "sha256:c3bf4aab8b8bdebc",
-        "bodyHash": "sha256:e9ed087ab11c2ccb"
+        "lastCommit": "4e266fb6",
+        "lastModified": "2026-10-24T08:38:08+08:00",
+        "contentHash": "sha256:a01fa45bb35a9917",
+        "bodyHash": "sha256:405fd1941af460ea"
       },
       "translations": {
         "en": {
           "path": "en/People/jj-lin-singaporean-mandopop-king.md",
           "translatedFrom": "People/林俊傑.md",
-          "sourceCommitSha": "0f8fae0ae",
-          "sourceContentHash": "sha256:c3bf4aab8b8bdebc",
-          "sourceBodyHash": "sha256:e9ed087ab11c2ccb",
-          "translatedAt": "2026-05-20T05:08:27+08:00",
-          "translationLastCommit": "06ed4c82",
-          "translationLastModified": "2026-05-20T12:37:22+08:00",
+          "sourceCommitSha": "4e266fb6a",
+          "sourceContentHash": "sha256:a01fa45bb35a9917",
+          "sourceBodyHash": "sha256:405fd1941af460ea",
+          "translatedAt": "2026-10-24T08:46:13+08:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "bytes": 7516,
+          "footnoteDefs": 1,
+          "bytes": 4099,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -130272,15 +130318,15 @@
         "ja": {
           "path": "ja/People/jj-lin-singaporean-mandopop-king.md",
           "translatedFrom": "People/林俊傑.md",
-          "sourceCommitSha": "0f8fae0ae",
-          "sourceContentHash": "sha256:09cbb2a7492cd72a",
-          "sourceBodyHash": "sha256:65da895871120ddf",
-          "translatedAt": "2026-05-22T08:13:48+08:00",
-          "translationLastCommit": "5662fa47",
-          "translationLastModified": "2026-10-10T23:40:42+08:00",
+          "sourceCommitSha": "4e266fb6a",
+          "sourceContentHash": "sha256:a01fa45bb35a9917",
+          "sourceBodyHash": "sha256:405fd1941af460ea",
+          "translatedAt": "2026-10-24T08:46:14+08:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "bytes": 8389,
+          "footnoteDefs": 1,
+          "bytes": 4457,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -130288,15 +130334,15 @@
         "ko": {
           "path": "ko/People/jj-lin-singaporean-mandopop-king.md",
           "translatedFrom": "People/林俊傑.md",
-          "sourceCommitSha": "0f8fae0ae",
-          "sourceContentHash": "sha256:09cbb2a7492cd72a",
-          "sourceBodyHash": "sha256:65da895871120ddf",
-          "translatedAt": "2026-05-22T08:13:48+08:00",
-          "translationLastCommit": "2cce03d5",
-          "translationLastModified": "2026-10-10T23:40:51+08:00",
+          "sourceCommitSha": "4e266fb6a",
+          "sourceContentHash": "sha256:a01fa45bb35a9917",
+          "sourceBodyHash": "sha256:405fd1941af460ea",
+          "translatedAt": "2026-10-24T08:46:15+08:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "bytes": 7812,
+          "footnoteDefs": 1,
+          "bytes": 4749,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -130304,15 +130350,15 @@
         "es": {
           "path": "es/People/jj-lin-singaporean-mandopop-king.md",
           "translatedFrom": "People/林俊傑.md",
-          "sourceCommitSha": "0f8fae0ae",
-          "sourceContentHash": "sha256:c3bf4aab8b8bdebc",
-          "sourceBodyHash": "sha256:e9ed087ab11c2ccb",
-          "translatedAt": "2026-05-22T05:08:47+08:00",
-          "translationLastCommit": "4a07538f",
-          "translationLastModified": "2026-07-25T10:29:52+08:00",
+          "sourceCommitSha": "4e266fb6a",
+          "sourceContentHash": "sha256:a01fa45bb35a9917",
+          "sourceBodyHash": "sha256:405fd1941af460ea",
+          "translatedAt": "2026-10-24T08:46:16+08:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "bytes": 8048,
+          "footnoteDefs": 1,
+          "bytes": 4592,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -130320,15 +130366,15 @@
         "fr": {
           "path": "fr/People/jj-lin-singaporean-mandopop-king.md",
           "translatedFrom": "People/林俊傑.md",
-          "sourceCommitSha": "0f8fae0ae",
-          "sourceContentHash": "sha256:c3bf4aab8b8bdebc",
-          "sourceBodyHash": "sha256:e9ed087ab11c2ccb",
-          "translatedAt": "2026-05-22T05:08:47+08:00",
-          "translationLastCommit": "1dd167b3",
-          "translationLastModified": "2026-05-22T08:18:22+08:00",
+          "sourceCommitSha": "4e266fb6a",
+          "sourceContentHash": "sha256:a01fa45bb35a9917",
+          "sourceBodyHash": "sha256:405fd1941af460ea",
+          "translatedAt": "2026-10-24T08:46:17+08:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "bytes": 8679,
+          "footnoteDefs": 1,
+          "bytes": 4887,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -130336,15 +130382,15 @@
         "vi": {
           "path": "vi/People/jj-lin-singaporean-mandopop-king.md",
           "translatedFrom": "People/林俊傑.md",
-          "sourceCommitSha": "0f8fae0ae",
-          "sourceContentHash": "sha256:c3bf4aab8b8bdebc",
-          "sourceBodyHash": "sha256:c3bf4aab8b8bdebc",
-          "translatedAt": "2026-07-31T00:00:00Z",
-          "translationLastCommit": "a3ec9a54",
-          "translationLastModified": "2026-10-10T23:43:08+08:00",
+          "sourceCommitSha": "4e266fb6a",
+          "sourceContentHash": "sha256:a01fa45bb35a9917",
+          "sourceBodyHash": "sha256:405fd1941af460ea",
+          "translatedAt": "2026-10-24T08:46:18+08:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "bytes": 8574,
+          "footnoteDefs": 1,
+          "bytes": 5374,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -130352,15 +130398,15 @@
         "id": {
           "path": "id/People/jj-lin-singaporean-mandopop-king.md",
           "translatedFrom": "People/林俊傑.md",
-          "sourceCommitSha": "0f8fae0ae",
-          "sourceContentHash": "sha256:c3bf4aab8b8bdebc",
-          "sourceBodyHash": "sha256:e9ed087ab11c2ccb",
-          "translatedAt": "2026-08-04T06:18:07+08:00",
-          "translationLastCommit": "cdf85d12",
-          "translationLastModified": "2026-08-04T09:38:58+08:00",
+          "sourceCommitSha": "4e266fb6a",
+          "sourceContentHash": "sha256:a01fa45bb35a9917",
+          "sourceBodyHash": "sha256:405fd1941af460ea",
+          "translatedAt": "2026-10-24T08:46:19+08:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "bytes": 6853,
+          "footnoteDefs": 1,
+          "bytes": 4367,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -130368,15 +130414,15 @@
         "pt": {
           "path": "pt/People/jj-lin-singaporean-mandopop-king.md",
           "translatedFrom": "People/林俊傑.md",
-          "sourceCommitSha": "0f8fae0ae",
-          "sourceContentHash": "sha256:c3bf4aab8b8bdebc",
-          "sourceBodyHash": "sha256:e9ed087ab11c2ccb",
-          "translatedAt": "2026-07-26T12:49:16+08:00",
-          "translationLastCommit": "afe0630d",
-          "translationLastModified": "2026-07-26T13:07:31+08:00",
+          "sourceCommitSha": "4e266fb6a",
+          "sourceContentHash": "sha256:a01fa45bb35a9917",
+          "sourceBodyHash": "sha256:405fd1941af460ea",
+          "translatedAt": "2026-10-24T08:46:20+08:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "bytes": 7448,
+          "footnoteDefs": 1,
+          "bytes": 4163,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -130384,15 +130430,15 @@
         "hi": {
           "path": "hi/People/jj-lin-singaporean-mandopop-king.md",
           "translatedFrom": "People/林俊傑.md",
-          "sourceCommitSha": "0f8fae0ae",
-          "sourceContentHash": "sha256:c3bf4aab8b8bdebc",
-          "sourceBodyHash": "sha256:e9ed087ab11c2ccb",
-          "translatedAt": "2026-08-04T06:18:10+08:00",
-          "translationLastCommit": "35369e73",
-          "translationLastModified": "2026-08-04T09:15:30+08:00",
+          "sourceCommitSha": "4e266fb6a",
+          "sourceContentHash": "sha256:a01fa45bb35a9917",
+          "sourceBodyHash": "sha256:405fd1941af460ea",
+          "translatedAt": "2026-10-24T08:46:22+08:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "bytes": 16338,
+          "footnoteDefs": 1,
+          "bytes": 9114,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -130400,15 +130446,15 @@
         "ar": {
           "path": "ar/People/jj-lin-singaporean-mandopop-king.md",
           "translatedFrom": "People/林俊傑.md",
-          "sourceCommitSha": "0f8fae0ae",
-          "sourceContentHash": "sha256:c3bf4aab8b8bdebc",
-          "sourceBodyHash": "sha256:e9ed087ab11c2ccb",
-          "translatedAt": "2026-08-02T13:22:35+08:00",
-          "translationLastCommit": "5b0f4129",
-          "translationLastModified": "2026-10-10T23:03:20+08:00",
+          "sourceCommitSha": "4e266fb6a",
+          "sourceContentHash": "sha256:a01fa45bb35a9917",
+          "sourceBodyHash": "sha256:405fd1941af460ea",
+          "translatedAt": "2026-10-24T08:46:23+08:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "bytes": 10633,
+          "footnoteDefs": 1,
+          "bytes": 5914,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -130416,15 +130462,15 @@
         "ru": {
           "path": "ru/People/jj-lin-singaporean-mandopop-king.md",
           "translatedFrom": "People/林俊傑.md",
-          "sourceCommitSha": "0f8fae0ae",
-          "sourceContentHash": "sha256:c3bf4aab8b8bdebc",
-          "sourceBodyHash": "sha256:e9ed087ab11c2ccb",
-          "translatedAt": "2026-08-02T13:22:35+08:00",
-          "translationLastCommit": "e50472fc",
-          "translationLastModified": "2026-08-02T20:54:35+08:00",
+          "sourceCommitSha": "4e266fb6a",
+          "sourceContentHash": "sha256:a01fa45bb35a9917",
+          "sourceBodyHash": "sha256:405fd1941af460ea",
+          "translatedAt": "2026-10-24T08:46:23+08:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "bytes": 11978,
+          "footnoteDefs": 1,
+          "bytes": 6653,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -130442,8 +130488,10 @@
           "footnoteDefs": 5,
           "bytes": 7998,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+21 -48"
         }
       }
     },
@@ -133481,24 +133529,24 @@
     },
     "People/賴和.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:ea423174510ba903",
+        "lastCommit": "716685aa",
+        "lastModified": "2026-10-24T09:02:40+08:00",
+        "contentHash": "sha256:3c703a9a3c1bb21e",
         "bodyHash": "sha256:12da8a5e75f1d767"
       },
       "translations": {
         "en": {
           "path": "en/People/lai-ho-father-of-taiwanese-literature.md",
           "translatedFrom": "People/賴和.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:ea423174510ba903",
+          "sourceCommitSha": "716685aa1",
+          "sourceContentHash": "sha256:3c703a9a3c1bb21e",
           "sourceBodyHash": "sha256:12da8a5e75f1d767",
-          "translatedAt": "2026-04-30T22:50:13+08:00",
-          "translationLastCommit": "29e0766d",
-          "translationLastModified": "2026-07-25T10:34:23+08:00",
+          "translatedAt": "2026-10-24T09:47:23+08:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 12395,
+          "bytes": 13142,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -133506,15 +133554,15 @@
         "ja": {
           "path": "ja/People/lai-ho-father-of-taiwanese-literature.md",
           "translatedFrom": "People/賴和.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:ea423174510ba903",
+          "sourceCommitSha": "716685aa1",
+          "sourceContentHash": "sha256:3c703a9a3c1bb21e",
           "sourceBodyHash": "sha256:12da8a5e75f1d767",
-          "translatedAt": "2026-05-01T14:48:26+08:00",
-          "translationLastCommit": "5662fa47",
-          "translationLastModified": "2026-10-10T23:40:42+08:00",
+          "translatedAt": "2026-10-24T09:47:24+08:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 13243,
+          "bytes": 13607,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -133522,15 +133570,15 @@
         "ko": {
           "path": "ko/People/lai-ho-father-of-taiwanese-literature.md",
           "translatedFrom": "People/賴和.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:ea423174510ba903",
+          "sourceCommitSha": "716685aa1",
+          "sourceContentHash": "sha256:3c703a9a3c1bb21e",
           "sourceBodyHash": "sha256:12da8a5e75f1d767",
-          "translatedAt": "2026-05-01T22:19:01+08:00",
-          "translationLastCommit": "bd89e7e1",
-          "translationLastModified": "2026-07-25T10:33:05+08:00",
+          "translatedAt": "2026-10-24T09:47:25+08:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 12463,
+          "bytes": 13284,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -133538,15 +133586,15 @@
         "es": {
           "path": "es/People/lai-ho-father-of-taiwanese-literature.md",
           "translatedFrom": "People/賴和.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:ea423174510ba903",
+          "sourceCommitSha": "716685aa1",
+          "sourceContentHash": "sha256:3c703a9a3c1bb21e",
           "sourceBodyHash": "sha256:12da8a5e75f1d767",
-          "translatedAt": "2026-05-01T22:19:10+08:00",
-          "translationLastCommit": "4a07538f",
-          "translationLastModified": "2026-07-25T10:29:52+08:00",
+          "translatedAt": "2026-10-24T09:47:26+08:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 13310,
+          "bytes": 13993,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -133554,15 +133602,15 @@
         "fr": {
           "path": "fr/People/lai-ho-father-of-taiwanese-literature.md",
           "translatedFrom": "People/賴和.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:ea423174510ba903",
+          "sourceCommitSha": "716685aa1",
+          "sourceContentHash": "sha256:3c703a9a3c1bb21e",
           "sourceBodyHash": "sha256:12da8a5e75f1d767",
-          "translatedAt": "2026-05-01T22:19:06+08:00",
-          "translationLastCommit": "425a1d47",
-          "translationLastModified": "2026-07-25T10:30:51+08:00",
+          "translatedAt": "2026-10-24T09:47:27+08:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 14138,
+          "bytes": 14099,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -133570,15 +133618,15 @@
         "vi": {
           "path": "vi/People/lai-ho-father-of-taiwanese-literature.md",
           "translatedFrom": "People/賴和.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:ea423174510ba903",
+          "sourceCommitSha": "716685aa1",
+          "sourceContentHash": "sha256:3c703a9a3c1bb21e",
           "sourceBodyHash": "sha256:12da8a5e75f1d767",
-          "translatedAt": "2026-07-26T10:36:33+08:00",
-          "translationLastCommit": "4da9268b",
-          "translationLastModified": "2026-07-26T10:51:34+08:00",
+          "translatedAt": "2026-10-24T09:47:28+08:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 14640,
+          "bytes": 16526,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -133586,15 +133634,15 @@
         "id": {
           "path": "id/People/lai-ho-father-of-taiwanese-literature.md",
           "translatedFrom": "People/賴和.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:ea423174510ba903",
+          "sourceCommitSha": "716685aa1",
+          "sourceContentHash": "sha256:3c703a9a3c1bb21e",
           "sourceBodyHash": "sha256:12da8a5e75f1d767",
-          "translatedAt": "2026-07-25T12:13:32+08:00",
-          "translationLastCommit": "317c36a1",
-          "translationLastModified": "2026-07-25T12:27:50+08:00",
+          "translatedAt": "2026-10-24T02:32:57.477511+00:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 12113,
+          "bytes": 12694,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -133602,15 +133650,15 @@
         "pt": {
           "path": "pt/People/lai-ho-father-of-taiwanese-literature.md",
           "translatedFrom": "People/賴和.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:ea423174510ba903",
+          "sourceCommitSha": "716685aa1",
+          "sourceContentHash": "sha256:3c703a9a3c1bb21e",
           "sourceBodyHash": "sha256:12da8a5e75f1d767",
-          "translatedAt": "2026-07-25T07:55:57+08:00",
-          "translationLastCommit": "fd57c2cd",
-          "translationLastModified": "2026-07-25T08:26:27+08:00",
+          "translatedAt": "2026-10-24T09:47:30+08:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 12746,
+          "bytes": 13552,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -133618,15 +133666,15 @@
         "hi": {
           "path": "hi/People/lai-ho-father-of-taiwanese-literature.md",
           "translatedFrom": "People/賴和.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:ea423174510ba903",
+          "sourceCommitSha": "716685aa1",
+          "sourceContentHash": "sha256:3c703a9a3c1bb21e",
           "sourceBodyHash": "sha256:12da8a5e75f1d767",
-          "translatedAt": "2026-07-25T07:56:00+08:00",
-          "translationLastCommit": "41785b0f",
-          "translationLastModified": "2026-07-25T08:22:47+08:00",
+          "translatedAt": "2026-10-24T09:47:31+08:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 25573,
+          "bytes": 27134,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -133634,15 +133682,15 @@
         "ar": {
           "path": "ar/People/lai-ho-father-of-taiwanese-literature.md",
           "translatedFrom": "People/賴和.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:ea423174510ba903",
+          "sourceCommitSha": "716685aa1",
+          "sourceContentHash": "sha256:3c703a9a3c1bb21e",
           "sourceBodyHash": "sha256:12da8a5e75f1d767",
-          "translatedAt": "2026-07-25T12:49:34+08:00",
-          "translationLastCommit": "915e336c",
-          "translationLastModified": "2026-07-27T18:28:34+08:00",
+          "translatedAt": "2026-10-24T09:47:32+08:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 16700,
+          "bytes": 17637,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -133650,15 +133698,15 @@
         "ru": {
           "path": "ru/People/lai-ho-father-of-taiwanese-literature.md",
           "translatedFrom": "People/賴和.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:ea423174510ba903",
+          "sourceCommitSha": "716685aa1",
+          "sourceContentHash": "sha256:3c703a9a3c1bb21e",
           "sourceBodyHash": "sha256:12da8a5e75f1d767",
-          "translatedAt": "2026-07-25T12:13:37+08:00",
-          "translationLastCommit": "a63b9fc5",
-          "translationLastModified": "2026-07-25T12:39:19+08:00",
+          "translatedAt": "2026-10-24T09:47:33+08:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 20141,
+          "bytes": 20977,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -133676,8 +133724,10 @@
           "footnoteDefs": 17,
           "bytes": 12192,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -152632,11 +152682,11 @@
           "sourceContentHash": "sha256:d6932f9e4ae0a8c5",
           "sourceBodyHash": "sha256:ac25e74e87295655",
           "translatedAt": "2026-09-12T19:57:22+08:00",
-          "translationLastCommit": "5b0f4129",
-          "translationLastModified": "2026-10-10T23:03:20+08:00",
+          "translationLastCommit": "5f55ba5e",
+          "translationLastModified": "2026-10-25T01:15:27+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 46435,
+          "bytes": 46521,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -154295,24 +154345,24 @@
     },
     "People/林郁婷.md": {
       "zh": {
-        "lastCommit": "ad1003d6",
-        "lastModified": "2026-10-13T18:06:20+08:00",
-        "contentHash": "sha256:b9213e8245304093",
-        "bodyHash": "sha256:d67040679486fd02"
+        "lastCommit": "df33f3cb",
+        "lastModified": "2026-10-23T09:38:45+08:00",
+        "contentHash": "sha256:9e1b5b650e967399",
+        "bodyHash": "sha256:985c4de8119ecefa"
       },
       "translations": {
         "en": {
           "path": "en/People/lin-yu-ting-boxer.md",
           "translatedFrom": "People/林郁婷.md",
-          "sourceCommitSha": "ad1003d60",
-          "sourceContentHash": "sha256:b9213e8245304093",
-          "sourceBodyHash": "sha256:d67040679486fd02",
-          "translatedAt": "2026-10-15T03:57:35.679322+00:00",
-          "translationLastCommit": "b37fd88a",
-          "translationLastModified": "2026-10-15T13:01:24+08:00",
+          "sourceCommitSha": "df33f3cbd",
+          "sourceContentHash": "sha256:9e1b5b650e967399",
+          "sourceBodyHash": "sha256:985c4de8119ecefa",
+          "translatedAt": "2026-10-24T00:46:40.381611+00:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
-          "footnoteDefs": 11,
-          "bytes": 21593,
+          "footnoteDefs": 33,
+          "bytes": 30717,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -154320,15 +154370,15 @@
         "ja": {
           "path": "ja/People/lin-yu-ting-boxer.md",
           "translatedFrom": "People/林郁婷.md",
-          "sourceCommitSha": "ad1003d60",
-          "sourceContentHash": "sha256:b9213e8245304093",
-          "sourceBodyHash": "sha256:d67040679486fd02",
-          "translatedAt": "2026-10-15T03:47:23.440915+00:00",
-          "translationLastCommit": "7772d392",
-          "translationLastModified": "2026-10-15T12:51:17+08:00",
+          "sourceCommitSha": "df33f3cbd",
+          "sourceContentHash": "sha256:9e1b5b650e967399",
+          "sourceBodyHash": "sha256:985c4de8119ecefa",
+          "translatedAt": "2026-10-24T00:46:49.862116+00:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
-          "footnoteDefs": 11,
-          "bytes": 22645,
+          "footnoteDefs": 33,
+          "bytes": 34328,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -154336,15 +154386,15 @@
         "ko": {
           "path": "ko/People/lin-yu-ting-boxer.md",
           "translatedFrom": "People/林郁婷.md",
-          "sourceCommitSha": "ad1003d60",
-          "sourceContentHash": "sha256:b9213e8245304093",
-          "sourceBodyHash": "sha256:d67040679486fd02",
-          "translatedAt": "2026-10-15T01:07:07+08:00",
-          "translationLastCommit": "e7b5727b",
-          "translationLastModified": "2026-10-15T11:44:16+08:00",
+          "sourceCommitSha": "df33f3cbd",
+          "sourceContentHash": "sha256:9e1b5b650e967399",
+          "sourceBodyHash": "sha256:985c4de8119ecefa",
+          "translatedAt": "2026-10-24T00:52:54.238500+00:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
-          "footnoteDefs": 11,
-          "bytes": 21834,
+          "footnoteDefs": 33,
+          "bytes": 32506,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -154352,15 +154402,15 @@
         "es": {
           "path": "es/People/lin-yu-ting-boxer.md",
           "translatedFrom": "People/林郁婷.md",
-          "sourceCommitSha": "ad1003d60",
-          "sourceContentHash": "sha256:b9213e8245304093",
-          "sourceBodyHash": "sha256:d67040679486fd02",
-          "translatedAt": "2026-10-15T03:29:42.238547+00:00",
-          "translationLastCommit": "bb98cdc3",
-          "translationLastModified": "2026-10-15T12:09:59+08:00",
+          "sourceCommitSha": "df33f3cbd",
+          "sourceContentHash": "sha256:9e1b5b650e967399",
+          "sourceBodyHash": "sha256:985c4de8119ecefa",
+          "translatedAt": "2026-10-24T00:57:44.072574+00:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
-          "footnoteDefs": 11,
-          "bytes": 24601,
+          "footnoteDefs": 33,
+          "bytes": 32541,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -154368,15 +154418,15 @@
         "fr": {
           "path": "fr/People/lin-yu-ting-boxer.md",
           "translatedFrom": "People/林郁婷.md",
-          "sourceCommitSha": "ad1003d60",
-          "sourceContentHash": "sha256:b9213e8245304093",
-          "sourceBodyHash": "sha256:d67040679486fd02",
-          "translatedAt": "2026-10-15T03:50:12.753364+00:00",
-          "translationLastCommit": "2de81344",
-          "translationLastModified": "2026-10-15T12:17:18+08:00",
+          "sourceCommitSha": "df33f3cbd",
+          "sourceContentHash": "sha256:9e1b5b650e967399",
+          "sourceBodyHash": "sha256:985c4de8119ecefa",
+          "translatedAt": "2026-10-24T01:00:25.855338+00:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
-          "footnoteDefs": 11,
-          "bytes": 23956,
+          "footnoteDefs": 33,
+          "bytes": 36086,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -154384,15 +154434,15 @@
         "vi": {
           "path": "vi/People/lin-yu-ting-boxer.md",
           "translatedFrom": "People/林郁婷.md",
-          "sourceCommitSha": "ad1003d60",
-          "sourceContentHash": "sha256:b9213e8245304093",
-          "sourceBodyHash": "sha256:d67040679486fd02",
-          "translatedAt": "2026-10-15T03:32:03.214913+00:00",
-          "translationLastCommit": "b3250d34",
-          "translationLastModified": "2026-10-15T12:23:45+08:00",
+          "sourceCommitSha": "df33f3cbd",
+          "sourceContentHash": "sha256:9e1b5b650e967399",
+          "sourceBodyHash": "sha256:985c4de8119ecefa",
+          "translatedAt": "2026-10-24T01:07:54.955466+00:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
-          "footnoteDefs": 11,
-          "bytes": 27537,
+          "footnoteDefs": 33,
+          "bytes": 41447,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -154400,15 +154450,15 @@
         "id": {
           "path": "id/People/lin-yu-ting-boxer.md",
           "translatedFrom": "People/林郁婷.md",
-          "sourceCommitSha": "ad1003d60",
-          "sourceContentHash": "sha256:b9213e8245304093",
-          "sourceBodyHash": "sha256:d67040679486fd02",
-          "translatedAt": "2026-10-15T03:50:18.782027+00:00",
-          "translationLastCommit": "939786f3",
-          "translationLastModified": "2026-10-15T12:21:15+08:00",
+          "sourceCommitSha": "df33f3cbd",
+          "sourceContentHash": "sha256:9e1b5b650e967399",
+          "sourceBodyHash": "sha256:985c4de8119ecefa",
+          "translatedAt": "2026-10-24T01:11:59.233184+00:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
-          "footnoteDefs": 11,
-          "bytes": 21726,
+          "footnoteDefs": 33,
+          "bytes": 29075,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -154416,15 +154466,15 @@
         "pt": {
           "path": "pt/People/lin-yu-ting-boxer.md",
           "translatedFrom": "People/林郁婷.md",
-          "sourceCommitSha": "ad1003d60",
-          "sourceContentHash": "sha256:b9213e8245304093",
-          "sourceBodyHash": "sha256:d67040679486fd02",
-          "translatedAt": "2026-10-15T04:00:10.404706+00:00",
-          "translationLastCommit": "c6646d31",
-          "translationLastModified": "2026-10-15T13:24:14+08:00",
+          "sourceCommitSha": "df33f3cbd",
+          "sourceContentHash": "sha256:9e1b5b650e967399",
+          "sourceBodyHash": "sha256:985c4de8119ecefa",
+          "translatedAt": "2026-10-24T01:15:55.738923+00:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
-          "footnoteDefs": 11,
-          "bytes": 21472,
+          "footnoteDefs": 33,
+          "bytes": 33317,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -154432,15 +154482,15 @@
         "hi": {
           "path": "hi/People/lin-yu-ting-boxer.md",
           "translatedFrom": "People/林郁婷.md",
-          "sourceCommitSha": "ad1003d60",
-          "sourceContentHash": "sha256:b9213e8245304093",
-          "sourceBodyHash": "sha256:d67040679486fd02",
-          "translatedAt": "2026-10-14T17:10:43.121217+00:00",
-          "translationLastCommit": "a508abd4",
-          "translationLastModified": "2026-10-15T02:46:27+08:00",
+          "sourceCommitSha": "df33f3cbd",
+          "sourceContentHash": "sha256:9e1b5b650e967399",
+          "sourceBodyHash": "sha256:985c4de8119ecefa",
+          "translatedAt": "2026-10-24T02:45:09.110061+00:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
-          "footnoteDefs": 11,
-          "bytes": 49057,
+          "footnoteDefs": 33,
+          "bytes": 69036,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -154448,15 +154498,15 @@
         "ar": {
           "path": "ar/People/lin-yu-ting-boxer.md",
           "translatedFrom": "People/林郁婷.md",
-          "sourceCommitSha": "ad1003d60",
-          "sourceContentHash": "sha256:b9213e8245304093",
-          "sourceBodyHash": "sha256:d67040679486fd02",
-          "translatedAt": "2026-10-14T17:11:44.287147+00:00",
-          "translationLastCommit": "02b450c1",
-          "translationLastModified": "2026-10-15T02:47:00+08:00",
+          "sourceCommitSha": "df33f3cbd",
+          "sourceContentHash": "sha256:9e1b5b650e967399",
+          "sourceBodyHash": "sha256:985c4de8119ecefa",
+          "translatedAt": "2026-10-24T01:27:55.052317+00:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
-          "footnoteDefs": 11,
-          "bytes": 31139,
+          "footnoteDefs": 33,
+          "bytes": 44864,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -154464,15 +154514,15 @@
         "ru": {
           "path": "ru/People/lin-yu-ting-boxer.md",
           "translatedFrom": "People/林郁婷.md",
-          "sourceCommitSha": "ad1003d60",
-          "sourceContentHash": "sha256:b9213e8245304093",
-          "sourceBodyHash": "sha256:d67040679486fd02",
-          "translatedAt": "2026-10-15T04:08:48.443877+00:00",
-          "translationLastCommit": "9afdf022",
-          "translationLastModified": "2026-10-15T12:55:52+08:00",
+          "sourceCommitSha": "df33f3cbd",
+          "sourceContentHash": "sha256:9e1b5b650e967399",
+          "sourceBodyHash": "sha256:985c4de8119ecefa",
+          "translatedAt": "2026-10-24T01:30:23.718927+00:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
-          "footnoteDefs": 11,
-          "bytes": 35398,
+          "footnoteDefs": 33,
+          "bytes": 53753,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -154480,15 +154530,15 @@
         "de": {
           "path": "de/People/lin-yu-ting-boxer.md",
           "translatedFrom": "People/林郁婷.md",
-          "sourceCommitSha": "ad1003d60",
-          "sourceContentHash": "sha256:b9213e8245304093",
-          "sourceBodyHash": "sha256:d67040679486fd02",
-          "translatedAt": "2026-10-15T03:45:15.739095+00:00",
-          "translationLastCommit": "2886b81e",
-          "translationLastModified": "2026-10-15T12:58:40+08:00",
+          "sourceCommitSha": "df33f3cbd",
+          "sourceContentHash": "sha256:9e1b5b650e967399",
+          "sourceBodyHash": "sha256:985c4de8119ecefa",
+          "translatedAt": "2026-10-24T01:37:26.566633+00:00",
+          "translationLastCommit": "2d4d982a",
+          "translationLastModified": "2026-10-25T00:46:57+08:00",
           "inferred": false,
-          "footnoteDefs": 11,
-          "bytes": 22063,
+          "footnoteDefs": 33,
+          "bytes": 32735,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -155196,8 +155246,8 @@
           "sourceContentHash": "sha256:34eda1e3ae5a437e",
           "sourceBodyHash": "sha256:2d407dbe15a09820",
           "translatedAt": "2026-10-24T02:59:39+08:00",
-          "translationLastCommit": "8750bf7c",
-          "translationLastModified": "2026-10-15T23:36:15+08:00",
+          "translationLastCommit": "098c6427",
+          "translationLastModified": "2026-10-24T03:13:18+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 6309,
@@ -177733,6 +177783,52 @@
         }
       }
     },
+    "History/西班牙北台灣十六年.md": {
+      "zh": {
+        "lastCommit": "10ff4955",
+        "lastModified": "2026-10-23T21:44:24+08:00",
+        "contentHash": "sha256:f4c559f74b831681",
+        "bodyHash": "sha256:668bc7ad11b86341"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        },
+        "de": {
+          "status": "missing"
+        }
+      }
+    },
     "History/國家鐵道博物館.md": {
       "zh": {
         "lastCommit": "94a56601",
@@ -186214,6 +186310,52 @@
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "History/熱蘭遮城.md": {
+      "zh": {
+        "lastCommit": "41dec633",
+        "lastModified": "2026-10-23T21:24:41+08:00",
+        "contentHash": "sha256:21bed584f71f5ada",
+        "bodyHash": "sha256:b49fb8120ec85e1b"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        },
+        "de": {
+          "status": "missing"
         }
       }
     },
