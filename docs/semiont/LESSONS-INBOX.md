@@ -332,6 +332,54 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-24 twmd-maintainer-daily — the-full-mode-load-list-outgrew-its-own-footprint-estimate：Full mode 的載入清單長得比它自己的成本估算快，於是每次升 Full 都要臨場決定要不要照做
+
+本班數到 6 個 ready PR，命中 BECOME §Step 0 High-stake #1「PR triage ≥ 5」，強制升 Full。Full mode §Step 5 要求全載 `ARTICLE-INBOX`（2,748 行）與 `LESSONS-INBOX`（2,717 行）。而同一份 §Step 0 的 mode 表給 Full 的 footprint 估算是 **~1,880 行**——那兩個檔自己就 5,465 行，是估算的 2.9 倍，而且估算寫的是整個 Full mode 的總量。
+
+這個落差不是誰寫錯，是**兩個東西以不同速度成長**：mode 表的數字是 2026-05-13 設計 4-mode dispatcher 時寫的，那時這兩個 intake buffer 還沒各自長到 2,700 行。清單說「全載」，估算說「~1,880 行」，兩句話從某一天起不可能同時為真，而沒有東西在對賬。
+
+本班的處置是**聲明過的偏離**：只載 LESSONS §未消化標題與 ARTICLE-INBOX 計數，理由寫進 memory 檔頂部——🟡 lean 額度下，5,500 行 backlog 對「要不要合併這 6 個 PR」的判斷貢獻近零，而全載正是 §Step 6 v3 明文要避免的 raw narrative priming（「4-6 個 session × 150-200 行 = dominate retrieval 前景，foundational rules 變背景」——那段警告的對象是 memory 檔，但 5,465 行 inbox 的效果更強）。
+
+**但聲明過的偏離仍然是偏離**，而 `/twmd-become` 的 skill 殼寫著「禁『我熟了 / 這篇特殊 / 證據夠 / 可簡化』自我豁免任何 stage 或 gate——覺得某步多餘 → 照跑或問哲宇，不自行豁免」。今天沒有哲宇可問（cron、無觀察者），所以兩條規則對撞：不准自我豁免，而照跑會違反同一份檔案的另一條設計意圖。這一格目前靠當班的判斷力撐著，而那正是 MANIFESTO §14 要儀器化掉的那種重複。
+
+**要決的三個選項**（已寫進 handoff 指名 `twmd-self-evolve-weekly`）：(a) Full 改成載 inbox 的標題／P0-P1 層，跟 Review／Write mode 同口徑；(b) 保留全載但把 footprint 估算改成誠實的數字，讓升 Full 的人知道代價；(c) 維持現狀並接受 Full mode 的實際成本是估算的三倍。
+
+**候選機械化**（零判斷那半）：`wake-context.py` 的 selftest 已經在對賬 REFLEXES 的 index 列數 vs frontmatter 宣稱條數。同一招可以用在這裡——把 §Step 0 mode 表的 footprint 數字跟各 mode 實際要載的檔案 bytes 比一次，差距超過某個倍數就在甦醒時印一行。那樣下一個升 Full 的 session 看到的是一個數字，不是一個要臨場重做的判斷。
+
+---
+
+### 2026-10-24 twmd-maintainer-daily — the-flag-that-protects-the-local-tree-is-the-flag-that-hides-the-lockfile：保護本機 node_modules 的那個旗標，同時讓我驗不到 lockfile 的真實後果
+
+`npm audit fix --package-lock-only` 在這個庫是有意識的選擇，canonical 自己寫明理由：babel worker 常駐在用 repo 根那棵 `node_modules`，動它會把正在跑的產線弄壞（MAINTAINER §Step 1.5c）。今天照著做，六條 `fix=minor` 的 high 公告收掉，本機 `npm run sync:build` 19,315 頁全過。
+
+然後 main 的 deploy 紅了三次，站從 00:44 到 01:35 沒有部署成功過。
+
+原因是那次 fix 連帶把 lockfile 的 astro 從 7.3.1 升到 7.4.2，而 7.4.2 的 node 下限是 22.23.4；deploy.yml 寫死 `node-version: 22`、runner 快取停在 22.23.3，`astro build` 第一行就死。**而本機不可能測出這件事**——`--package-lock-only` 的定義就是「只改 lockfile、不動 node_modules」，所以本機跑的永遠是舊的 7.3.1，CI 的 `npm ci` 裝的是 lockfile 寫的 7.4.2。我驗的那棵樹，跟會落地的那棵樹，從指令的第一個旗標起就被保證不同。
+
+**這不是 REFLEXES #100 的又一例，是它的一個特例形狀**：#100 說「commit 路徑上有會改寫檔案的元件時，在它之外量到的都是替身」。這裡沒有任何元件改寫檔案——是**我自己為了保護另一個 actor 而主動選擇不同步**，於是驗證對象與落地對象的分離是旗標的設計功能，不是意外。保護與盲點是同一個決定的兩面，而 canonical 只寫了保護那一面。
+
+處置：退回 astro（不是因為 7.4.2 有問題，是因為沒驗過），node 版本從三處寫死 `'22'` 收成單一來源 `.nvmrc`，升級本身帶著「必須先在隔離 worktree 裝好再 build」的條件進 OBSERVER-QUEUE #115。
+
+**候選機械化**：`--package-lock-only` 之後、push 之前，比一次 lockfile 與 `node_modules` 的關鍵套件版本差（至少 astro／node engines），不一致就印一行「你本機驗的不是會落地的那個」。或者更便宜：lockfile 動過的 commit，pre-push 讀一次新 lockfile 裡 astro 的 `engines.node` 對照 `.nvmrc`，對不上就擋。後者是確定性的、五行、不需要判斷。
+
+---
+
+### 2026-10-24 twmd-maintainer-daily — one-red-step-turns-eleven-gates-into-skipped-and-the-job-still-reports-one-thing：一條 audit 公告讓十一個檢查變成 skipped，而那條 job 看起來只是「紅了」
+
+main 的 Engineering contracts 紅著，紅在整條 job 第二步（repo 根 `npm audit`）。後面**十一個步驟全是 skipped**：型別檢查、830 個 pytest、`test:contracts`、四個子專案的 audit 與測試。GitHub Actions 的步驟是循序的，第一個失敗就讓後面全部不跑，而 job 層只呈現一個「failure」。
+
+所以那條 job 當天真的只報了一件事，而讀它的人（包括本班開場）會以為它報了十二件事其中一件壞了。canonical 已經記過這個形狀的一半——Step 1.5c 寫「四道 audit 用 `&&` 串著，第一道紅了後面三道不跑，修第一個看到的只是把紅燈推到下一格」，甚至寫了「往已經紅著的 `&&` 鏈尾端加新閘門，那道新閘門在 CI 裡是 skipped 不是綠的」。但它只描述了那四道 audit 之間的關係，沒有描述**整條 job 的步驟序列**也是同一個結構。
+
+證據：`cli` 的 vitest 10-08 掛上，到今天為止**一次都沒有在 CI 跑過**——10-08 排在 `harvest/ui` 的紅後面，10-24 排在 repo 根的紅後面。OBSERVER-QUEUE #95 在 10-22 寫「B 已經 ship 且已經在 CI 真的跑過」，那句話在 10-21 那次是真的，10-23 又不是了（REFLEXES #67 已驗過要帶時間戳）。
+
+修法：互相獨立的步驟加 `if: ${{ !cancelled() }}`，閘門強度不變（任一步紅整條 job 仍紅），變的是一次看得到幾件事。實測前後對比——同一條 job 從「十一步 skipped」變成「十一步 success，只剩兩條已知 audit 公告紅」，而 cli 第一次真的跑過。
+
+**第三種形狀，同一天**：`sticky-viewport-gate` 的 `push` paths 不含自己的 workflow 檔（`pull_request` 那半含），所以「改這道閘門的定義」在 PR 上驗得到、在 main 上永遠驗不到；修好後推的 commit 動的正是本檔，卻沒有重跑，紅燈只能留在 main 等下一個碰到 `src/components` 的人去背黑鍋。三個形狀的共同點：**CI 的「沒跑」跟「跑過而且綠」在摘要層長得一樣**（REFLEXES #82 存在代理有效 / #85「不知道」要有自己的符號）。
+
+**候選機械化**：`ci-main-health.sh` 除了印每條 workflow 的結論，再印一行「最後一次 run 裡有幾步 skipped」；skipped > 0 的 job 加一個自己的符號，別跟 success/failure 共用。另一條：檢查每個 workflow 的 `push` paths 是否包含自己的檔名，不含就 WARN（今天這條只有一個 instance，但它是零判斷的對賬）。
+
+---
+
 ### 2026-10-24 twmd-feedback-triage — every-instrument-on-this-line-measures-my-side-of-the-handoff：這條線量得出交接在我這側走多快，量不出讀者在另一側等多久
 
 - **pattern**: every-instrument-on-this-line-measures-my-side-of-the-handoff

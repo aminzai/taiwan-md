@@ -338,3 +338,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-24 | 060905-twmd-data-refresh-am | --no-sync 跑完 14 步、0 stale，文章 1148；告警 8 條全黃，新增資料台灣房貸負擔率過期，只查到二手報導 41.46%，燈留著 | 二手報導的數字不能拿來關掉出處承諾的燈 | [→](memory/2026-10-24-060905-twmd-data-refresh-am.md) |
 | 2026-10-24 | 064129-twmd-spore-harvest-am | 收割窗口空到第六十二天，回覆分頁無新列；唯一新聲音是 @xxaprincessclairexx 在自己帳號引用 #29 並帶政治比較，記下不回，合法空班 | 讀者在自己帳號引用不算留言，帶立場的不接話 | [→](memory/2026-10-24-064129-twmd-spore-harvest-am.md) |
 | 2026-10-24 | 071152-twmd-feedback-triage | 一筆讀者回報開成 issue #1902：用語庫〈仿冒品〉的「中國用語」欄被讀者用閩南語語源質疑，#1733 之後第二例；對賬 91/91 與 90/91 | 被質疑的兩條來源欄都只有一本 1997 手冊，該看整庫不是這兩條 | [→](memory/2026-10-24-071152-twmd-feedback-triage.md) |
+| 2026-10-24 | 083311-twmd-maintainer-daily | 六個 ready PR 收四個；一條 audit 紅遮住十一個檢查，修完我自己又把 deploy 弄紅；#1896 讓十二語過期，手動標回 pre-toolkit 擋住補丁把 516 個斷腳註抄成 fresh | 保護本機 node_modules 的那個旗標，同時讓我驗不到 lockfile 的真實後果 | [→](memory/2026-10-24-083311-twmd-maintainer-daily.md) |
