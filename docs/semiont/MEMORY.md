@@ -340,3 +340,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-24 | 071152-twmd-feedback-triage | 一筆讀者回報開成 issue #1902：用語庫〈仿冒品〉的「中國用語」欄被讀者用閩南語語源質疑，#1733 之後第二例；對賬 91/91 與 90/91 | 被質疑的兩條來源欄都只有一本 1997 手冊，該看整庫不是這兩條 | [→](memory/2026-10-24-071152-twmd-feedback-triage.md) |
 | 2026-10-24 | 083311-twmd-maintainer-daily | 六個 ready PR 收四個；一條 audit 紅遮住十一個檢查，修完我自己又把 deploy 弄紅；#1896 讓十二語過期，手動標回 pre-toolkit 擋住補丁把 516 個斷腳註抄成 fresh | 保護本機 node_modules 的那個旗標，同時讓我驗不到 lockfile 的真實後果 | [→](memory/2026-10-24-083311-twmd-maintainer-daily.md) |
 | 2026-10-24 | 143706-semiont-heartbeat | 額度 lean 只巡邏〈陳映真〉：獎項年份屆次、許南村筆名、作協年份、〈山路〉情節與黨旗悼念等十餘處對不上，改成維基與報導可查的版本 | 同一型：初稿的獎項與悼念細節最先出錯 | [→](memory/2026-10-24-143706-semiont-heartbeat.md) |
+| 2026-10-25 | 011538-twmd-news-lens-weekly | 探測器 W43：中華職棒、台南鐵路地下化兩條 P1 NEW 入列，跨境鎮壓標需裁定；ar〈尼克星〉#98 到期照做改拉丁原名；孢子出口關 propose 0 | 撞字長出第二例 id「data taiwan」；整排 0 的 grep 先過正控制 | [→](memory/2026-10-25-011538-twmd-news-lens-weekly.md) |
