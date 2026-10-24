@@ -22,9 +22,9 @@ lastHumanReview: false
 curation: 'incubating'
 readingTime: 25
 translatedFrom: 'People/林郁婷.md'
-sourceCommitSha: 'ad1003d60'
-sourceContentHash: 'sha256:b9213e8245304093'
-sourceBodyHash: 'sha256:d67040679486fd02'
+sourceCommitSha: 'pre-toolkit'
+sourceContentHash: 'sha256:requeue-section-loss'
+sourceBodyHash: 'sha256:requeue-section-loss'
 translatedAt: '2026-10-15T03:45:15.739095+00:00'
 ---
 
