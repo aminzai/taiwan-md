@@ -322,3 +322,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-25 | 041508-twmd-self-evolve-weekly | 接兩份交接的四件事：selftest 量 diary 28 天沉默、排程沒註冊另列只有哲宇按得到、缺 slug 在 PR 上印黃字、narrative 警告進佇列 #117 | 給錯修法的警告會訓練讀者略過它 | [→](memory/2026-10-25-041508-twmd-self-evolve-weekly.md) |
 | 2026-10-25 | 053935-twmd-routine-sync | 十九份 prompt 全一致，直讀排程器十八條零漂移；審庫存仍只差哲宇在 app 建排程，距 10-28 剩三天 | 零漂移也記一行，才看得出這條有在跑 | [→](memory/2026-10-25-053935-twmd-routine-sync.md) |
 | 2026-10-25 | 055828-twmd-embeddings-nightly | 13 語 14,846 向量 0 fail，每語 1,142 篇，verify PASS，`0d55fd0df`；熱蘭遮城等三篇投稿隔一晚進索引 | 語意索引吃中文路徑，不等 slug | [→](memory/2026-10-25-055828-twmd-embeddings-nightly.md) |
+| 2026-10-25 | 060909-twmd-data-refresh-am | --no-sync 跑完 14 步、0 stale，文章 1151；告警剩 4 條黃燈；昨天本席位在共用 git 鎖留下一般檔案害 babel 卡十九小時，SOP 補拿鎖寫法 | 自己留在共用空間的東西，交接表沒有一欄會問 | [→](memory/2026-10-25-060909-twmd-data-refresh-am.md) |
