@@ -320,3 +320,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-25 | 020642-twmd-weekly-report-sun | W43 體檢含 W42 補報：修掉週報把 28 天 GA 總量當一週寄給共生圈，兩次探測確認沒有一條 routine 建得出 routine，開 #116 | 甦醒體檢對 28 天沒聲音的 diary 印綠燈，那行量的是索引對不對得上 raw | [→](memory/2026-10-25-020642-twmd-weekly-report-sun.md) |
 | 2026-10-25 | 031544-twmd-distill-weekly | 兩週累積的 LESSONS 消化十三條：#103 排除判定不等於排除觀察，十條 fold 進既有反射，一條進神經迴路；未消化 127→114 | 正確的 skip 會順手關掉那一格的眼睛 | [→](memory/2026-10-25-031544-twmd-distill-weekly.md) |
 | 2026-10-25 | 041508-twmd-self-evolve-weekly | 接兩份交接的四件事：selftest 量 diary 28 天沉默、排程沒註冊另列只有哲宇按得到、缺 slug 在 PR 上印黃字、narrative 警告進佇列 #117 | 給錯修法的警告會訓練讀者略過它 | [→](memory/2026-10-25-041508-twmd-self-evolve-weekly.md) |
+| 2026-10-25 | 053935-twmd-routine-sync | 十九份 prompt 全一致，直讀排程器十八條零漂移；審庫存仍只差哲宇在 app 建排程，距 10-28 剩三天 | 零漂移也記一行，才看得出這條有在跑 | [→](memory/2026-10-25-053935-twmd-routine-sync.md) |
