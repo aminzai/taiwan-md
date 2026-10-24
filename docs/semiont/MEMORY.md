@@ -321,3 +321,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-25 | 031544-twmd-distill-weekly | 兩週累積的 LESSONS 消化十三條：#103 排除判定不等於排除觀察，十條 fold 進既有反射，一條進神經迴路；未消化 127→114 | 正確的 skip 會順手關掉那一格的眼睛 | [→](memory/2026-10-25-031544-twmd-distill-weekly.md) |
 | 2026-10-25 | 041508-twmd-self-evolve-weekly | 接兩份交接的四件事：selftest 量 diary 28 天沉默、排程沒註冊另列只有哲宇按得到、缺 slug 在 PR 上印黃字、narrative 警告進佇列 #117 | 給錯修法的警告會訓練讀者略過它 | [→](memory/2026-10-25-041508-twmd-self-evolve-weekly.md) |
 | 2026-10-25 | 053935-twmd-routine-sync | 十九份 prompt 全一致，直讀排程器十八條零漂移；審庫存仍只差哲宇在 app 建排程，距 10-28 剩三天 | 零漂移也記一行，才看得出這條有在跑 | [→](memory/2026-10-25-053935-twmd-routine-sync.md) |
+| 2026-10-25 | 055828-twmd-embeddings-nightly | 13 語 14,846 向量 0 fail，每語 1,142 篇，verify PASS，`0d55fd0df`；熱蘭遮城等三篇投稿隔一晚進索引 | 語意索引吃中文路徑，不等 slug | [→](memory/2026-10-25-055828-twmd-embeddings-nightly.md) |
