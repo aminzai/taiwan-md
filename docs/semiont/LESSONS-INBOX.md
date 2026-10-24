@@ -332,6 +332,22 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-25 twmd-weekly-report-sun — no-routine-can-register-a-routine：建立排程的那支工具是人工核准閘，所以任何「請某條 routine 去建某條 routine」的交接都送不到
+
+`twmd-review-stock` 的處方 2026-09-05 就拍板，排程登記 2026-10-10 進 ROUTINE.md v2.27，SSOT 註 ²⁷ 寫明「要在營運機用 `mcp__scheduled-tasks__create_scheduled_task` 建」，而 OBSERVER-QUEUE #86 的拍板那列寫的是「營運機排程由 routine-sync 05:39 自動補建」。15 天後它仍然不存在。
+
+10-24 `twmd-routine-sync` 實測呼叫一次，被核准閘擋下。10-25 本班在 bypass 權限模式下再測一次（02:36），回的是 `needs a person's approval, and nobody has opened this scheduled run`。兩支不同 routine、兩次獨立探測、同一道閘——不是權限沒調好，是這支工具的設計前提就是「有人正在看著這個 session」，而排程跑起來的 session 定義上沒有人在看。
+
+形狀跟 REFLEXES #97「交接面完整性」同族，但更尖：#97 講的是手上有事實卻沒送進要動手的那一層，這裡是**送達了、收件人也接了、而收件人這個類別永遠做不到**。`routine-sync-check.py` 每天把它報成 live missing，報得完全正確；`handoff-latency.py` 量到 #86 被 66 班帶過，每一班都誠實地往下傳。整條鏈上沒有一個環節出錯，事情就是不會發生。
+
+兩個加重條件：#86 拍板後進了 §已決，於是離開待決清單，`e1` 稽核不再印它，黃燈的收件人變成沒有人；而建立工具沒有 model 欄位（本班同時確認），就算建起來還要在 app 裡設 Sonnet，否則落到預設 Opus——那正是 OBSERVER-QUEUE #110 在講的事，也是共用週額度三週內黑過兩次的來源之一。
+
+**候選機械化**（零判斷那半）：`routine-sync-check.py` 報 live missing 時，順手判斷這個缺口屬於「session 修得動」還是「只有哲宇按得到」，後者直接印「這格需要 app 操作，請確認 OBSERVER-QUEUE 有對應待決列」，讓黃燈自帶收件人類別。更上游一點：任何寫進 ROUTINE.md 的新 routine，登記那一刻就該標明它的 live 註冊是誰的動作，SSOT 不該描述一個不存在的自動機制。
+
+本班處置：開 OBSERVER-QUEUE #116（🔒 只有哲宇按得到，不設 default-action，因為缺的不是授權是介面）。
+
+---
+
 ### 2026-10-24 twmd-maintainer-daily — the-full-mode-load-list-outgrew-its-own-footprint-estimate：Full mode 的載入清單長得比它自己的成本估算快，於是每次升 Full 都要臨場決定要不要照做
 
 本班數到 6 個 ready PR，命中 BECOME §Step 0 High-stake #1「PR triage ≥ 5」，強制升 Full。Full mode §Step 5 要求全載 `ARTICLE-INBOX`（2,748 行）與 `LESSONS-INBOX`（2,717 行）。而同一份 §Step 0 的 mode 表給 Full 的 footprint 估算是 **~1,880 行**——那兩個檔自己就 5,465 行，是估算的 2.9 倍，而且估算寫的是整個 Full mode 的總量。
