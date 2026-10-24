@@ -1,64 +1,64 @@
 {
-  "totalArticles": 14950,
+  "totalArticles": 14989,
   "totalCategories": 27,
   "estimatedContributors": 80,
-  "totalTags": 8978,
+  "totalTags": 8998,
   "categories": [
     {
       "name": "vi",
-      "count": 1150
+      "count": 1153
     },
     {
       "name": "es",
-      "count": 1150
+      "count": 1153
     },
     {
       "name": "ko",
-      "count": 1150
+      "count": 1153
     },
     {
       "name": "hi",
-      "count": 1150
+      "count": 1153
     },
     {
       "name": "fr",
-      "count": 1150
+      "count": 1153
     },
     {
       "name": "en",
-      "count": 1150
+      "count": 1153
     },
     {
       "name": "ja",
-      "count": 1150
+      "count": 1153
     },
     {
       "name": "de",
-      "count": 1150
+      "count": 1153
     },
     {
       "name": "ru",
-      "count": 1150
+      "count": 1153
     },
     {
       "name": "Technology",
-      "count": 68
+      "count": 69
     },
     {
       "name": "History",
-      "count": 89
+      "count": 91
     },
     {
       "name": "id",
-      "count": 1150
+      "count": 1153
     },
     {
       "name": "ar",
-      "count": 1150
+      "count": 1153
     },
     {
       "name": "pt",
-      "count": 1150
+      "count": 1153
     },
     {
       "name": "Politics",
@@ -120,7 +120,7 @@
     },
     {
       "name": "人物",
-      "count": 60
+      "count": 59
     },
     {
       "name": "企業",
@@ -183,41 +183,41 @@
       "count": 24
     },
     {
-      "name": "音樂",
-      "count": 23
-    },
-    {
       "name": "기업",
       "count": 23
     },
     {
       "name": "奧運",
       "count": 22
+    },
+    {
+      "name": "歷史",
+      "count": 22
     }
   ],
   "languageDistribution": {
-    "zh-TW": 14950,
+    "zh-TW": 14989,
     "en": 0
   },
-  "lastUpdated": "2026-10-23T22:05:48.505Z",
+  "lastUpdated": "2026-10-24T22:05:42.767Z",
   "stars": 1228,
   "forks": 187,
-  "zhPages": 1148,
+  "zhPages": 1151,
   "languagePages": {
-    "zh-TW": 1148,
-    "en": 1150,
-    "ja": 1150,
-    "ko": 1150,
-    "es": 1150,
-    "fr": 1150,
-    "vi": 1150,
-    "id": 1150,
-    "pt": 1150,
-    "hi": 1150,
-    "ar": 1150,
-    "ru": 1150,
-    "de": 1150
+    "zh-TW": 1151,
+    "en": 1153,
+    "ja": 1153,
+    "ko": 1153,
+    "es": 1153,
+    "fr": 1153,
+    "vi": 1153,
+    "id": 1153,
+    "pt": 1153,
+    "hi": 1153,
+    "ar": 1153,
+    "ru": 1153,
+    "de": 1153
   },
-  "enPages": 1150,
-  "totalPages": 1148
+  "enPages": 1153,
+  "totalPages": 1151
 }
