@@ -51,7 +51,9 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: '22'
+          # 同 deploy.yml：node 版本只讀 .nvmrc，不寫死 '22'（2026-10-24 astro
+          # 7.4.2 的 node 下限升到 22.23.4，而 runner 快取停在 22.23.3）
+          node-version-file: .nvmrc
 
       - name: Install dependencies
         run: npm ci --prefer-offline --no-audit
