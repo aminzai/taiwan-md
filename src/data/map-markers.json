@@ -4004,6 +4004,17 @@
     "city": "台北"
   },
   {
+    "title": "東寧王國：二十一年，一個把台灣寫進國號的王朝",
+    "lat": 23.56326,
+    "lng": 119.577553,
+    "category": "history",
+    "region": "islands",
+    "link": "/history/%E6%9D%B1%E5%AF%A7%E7%8E%8B%E5%9C%8B",
+    "lang": "zh-TW",
+    "desc": "1662 年 2 月，荷蘭長官揆一在熱蘭遮城交出鑰匙，鄭成功把這座島變成「東寧」。此後二十一年，鄭氏設一府二州三司、把軍隊散到各地屯田、派陳永華總理國政，也與日本、英國東印度公司做生意。1683 年 7 月澎湖海戰，施琅擊潰劉國軒的水師，10 月鄭克塽降清，東寧走進歷史。",
+    "city": "澎湖"
+  },
+  {
     "title": "林爽文事件：清帝國如何重新學會治理臺灣",
     "lat": 24.085998,
     "lng": 120.531476,
@@ -11891,15 +11902,15 @@
     "city": "新北"
   },
   {
-    "title": "Bea Cukai Taiwan dan EZ WAY: Saat Menekan \"Sesuai Deklarasi\", Siapa yang Anda Beri Kuasa?",
-    "lat": 25.02697,
-    "lng": 121.565887,
+    "title": "Bea Cukai Taiwan dan EZ WAY: Saat Anda Menekan \"Deklarasi Sesuai\", Siapa yang Anda Beri Kuasa",
+    "lat": 24.987166,
+    "lng": 121.295287,
     "category": "lifestyle",
     "region": "north",
     "link": "/lifestyle/ezway",
     "lang": "zh-TW",
-    "desc": "HP bergetar, notifikasi push menampilkan deretan nama barang yang sulit dipahami, Anda menekan \"Sesuai Deklarasi\", secara hukum menyelesaikan satu kuasa bea cukai. 7,59 juta orang di Taiwan telah mendaftar di Aplikasi ini. Setelah sebuah unggahan meledak pada Agustus 2026, banyak orang baru pertama kali memeriksa siapa yang mengoperasikannya: Kementerian Keuangan memegang 36,11%, saham pemerintah kurang dari separuh dari Jaringan Perdagangan Bea Cukai. Pada saat yang sama, ambang bebas pajak 2.000 yuan sedang diajukan untuk diturunkan oleh pemerintah untuk kali kedua. Siapa yang membayar rekening jalan pintas kenyamanan ini, dan siapa yang dari awal hingga akhir tidak bisa berkata-kata.",
-    "city": "台北"
+    "desc": "Ponsel bergetar, notifikasi menampilkan deretan nama barang yang tak terlalu dipahami, Anda menekan \"Deklarasi Sesuai\", dan secara hukum yang selesai adalah sebuah surat kuasa pengurusan kepabeanan. Sebanyak 7,59 juta orang di Taiwan pernah mendaftar di aplikasi ini. Setelah sebuah unggahan viral pada Agustus 2026, banyak orang baru pertama kali mencari tahu siapa yang mengoperasikannya: Gateway Information Network Taiwan (GIN), perusahaan tercatat bursa yang sahamnya 36,11% dipegang Kementerian Keuangan, kurang dari separuh. Pada saat yang sama, ambang bebas pajak NT$2.000 untuk kedua kalinya diusulkan pemerintah untuk diturunkan. Siapa yang menanggung biaya jalan pintas ini, dan siapa yang sejak awal tak pernah sempat bersuara.",
+    "city": "桃園"
   },
   {
     "title": "Jembatan Taipei Air Terjun Motor: Energi Rakyat di Aliran Baja dan Estetika Perkotaan",
@@ -16234,6 +16245,17 @@
     "lang": "ja",
     "desc": "1895年の乙未の役（台湾割譲戦争）において、三人の外国人が最も重要な外語目撃文献を残した——日本の写真師・遠藤誠の凱旋アルバム、アメリカ人記者・ダビッドソンの従軍手帳、日本の牧師・細川瀏の渡台日記。問題は彼らが何を見たかではなく、誰のために見たかだ。",
     "city": "台南"
+  },
+  {
+    "title": "東寧王国：二十一年、台湾を国号に刻んだ王朝",
+    "lat": 23.578406,
+    "lng": 119.576746,
+    "category": "history",
+    "region": "islands",
+    "link": "/ja/history/tungning-kingdom",
+    "lang": "ja",
+    "desc": "1662年2月、オランダ長官コイエットがゼーランディア城で鍵を引き渡し、鄭成功（てい・せいこう／チェン・チョンコン）がこの島を「東寧」に変えました。その後二十一年、鄭氏は一府二州三司を置き、軍隊を各地に屯田させ、陳永華（ちん・えいか／チン・ヨンホア）を派遣して国政を総理し、日本やイギリス東インド会社と通商しました。1683年7月の澎湖海戦で施琅（し・ろう／シー・ラン）が劉国軒（りゅう・こくけん／リュウ・コクケン）の水師を破り、10月に鄭克塽（てい・こくしゅう／テイ・コクシュウ）が清に降伏し、東寧は歴史の中へ消えました。",
+    "city": "澎湖"
   },
   {
     "title": "呉鳳伝説：地方の物語が帝国の教科書に書き換えられた経緯",

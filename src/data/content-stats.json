@@ -6,7 +6,7 @@
     "Economy": 960,
     "Food": 1068,
     "Geography": 984,
-    "History": 1092,
+    "History": 1104,
     "Lifestyle": 552,
     "Music": 444,
     "Nature": 492,
@@ -791,7 +791,7 @@
     },
     {
       "date": "2026-10-23",
-      "count": 4
+      "count": 5
     },
     {
       "date": "2026-10-24",
@@ -799,8 +799,8 @@
     },
     {
       "date": "2026-10-25",
-      "count": 12
+      "count": 24
     }
   ],
-  "updated": "2026-10-24"
+  "updated": "2026-10-25"
 }

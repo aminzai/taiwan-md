@@ -16923,14 +16923,14 @@
     "path": "ja/Politics/first-direct-presidential-election.md"
   },
   {
-    "title": "医療法：機関規制と市場とのせめぎ合いの40年",
-    "description": "台湾医療法は1986年に公布され、2017年に医師の刑事責任が改正され、2026年には三交代制の看護師患者比が法制化された。法律で「一人の看護師が最大何床を担当できるか」は定められるが、「その看護師が実際にいるかどうか」は定められない——32万枚の看護師免許があるのに、臨床現場に残っているのは19万双の手だけだ。これは健保法でも医師法でもない、台湾における「病院」という機関がどう存在するかの根本法であり、また医療の公益性と市場メカニズムが40年間解けないでいる綱引きでもある。",
+    "title": "医療法：機関規制と市場のせめぎ合いの40年",
+    "description": "台湾の医療法は1986年に公布され、2017年に医師の刑事責任が見直され、2026年には三交代制の看護師・患者比が法に盛り込まれた。法律は「看護師1人が受け持てる最大の病床数」を書けても、「その看護師がいるかどうか」までは書けない。看護師免許は32万人分あるのに、臨床に残るのは19万人。これは健保法でも医師法でもない、台湾の「病院」という機関がいかに存在するかを定めた根幹の法であり、医療の公益性と市場メカニズムが40年間解けずにきた綱引きでもある。",
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/society/medical-care-act",
-    "readingTime": 88,
+    "readingTime": 118,
     "featured": false,
-    "date": "2026-05-10",
+    "date": "2026-07-15",
     "path": "ja/Society/medical-care-act.md"
   },
   {
@@ -19164,6 +19164,42 @@
     "featured": false,
     "date": "2026-08-18",
     "path": "ja/Culture/donggang-king-boat-festival.md"
+  },
+  {
+    "title": "東寧王国：二十一年、台湾を国号に刻んだ王朝",
+    "description": "1662年2月、オランダ長官コイエットがゼーランディア城で鍵を引き渡し、鄭成功（てい・せいこう／チェン・チョンコン）がこの島を「東寧」に変えました。その後二十一年、鄭氏は一府二州三司を置き、軍隊を各地に屯田させ、陳永華（ちん・えいか／チン・ヨンホア）を派遣して国政を総理し、日本やイギリス東インド会社と通商しました。1683年7月の澎湖海戦で施琅（し・ろう／シー・ラン）が劉国軒（りゅう・こくけん／リュウ・コクケン）の水師を破り、10月に鄭克塽（てい・こくしゅう／テイ・コクシュウ）が清に降伏し、東寧は歴史の中へ消えました。",
+    "category": "ja",
+    "tags": [
+      "明鄭",
+      "東寧王国",
+      "鄭成功",
+      "鄭経",
+      "陳永華",
+      "澎湖海戦"
+    ],
+    "url": "https://taiwan.md/ja/history/tungning-kingdom",
+    "readingTime": 20,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "ja/History/tungning-kingdom.md"
+  },
+  {
+    "title": "東寧王國：二十一年，一個把台灣寫進國號的王朝",
+    "description": "1662 年 2 月，荷蘭長官揆一在熱蘭遮城交出鑰匙，鄭成功把這座島變成「東寧」。此後二十一年，鄭氏設一府二州三司、把軍隊散到各地屯田、派陳永華總理國政，也與日本、英國東印度公司做生意。1683 年 7 月澎湖海戰，施琅擊潰劉國軒的水師，10 月鄭克塽降清，東寧走進歷史。",
+    "category": "History",
+    "tags": [
+      "明鄭",
+      "東寧王國",
+      "鄭成功",
+      "鄭經",
+      "陳永華",
+      "澎湖海戰"
+    ],
+    "url": "https://taiwan.md/history/%E6%9D%B1%E5%AF%A7%E7%8E%8B%E5%9C%8B",
+    "readingTime": 12,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "History/東寧王國.md"
   },
   {
     "title": "板南線：二つの都市を地下に縫い合わせる26.5km",
@@ -33814,17 +33850,6 @@
     "path": "pt/History/taiwan-transitional-justice.md"
   },
   {
-    "title": "A Lei de Assistência Médica: 40 anos de tensão entre a regulação institucional e o mercado",
-    "description": "A Lei de Assistência Médica de Taiwan foi promulgada em 1986, a responsabilidade penal dos médicos foi revisada em 2017 e a proporção de enfermeiros por turno foi incorporada à lei em 2026. A lei consegue definir \"quantas camas no máximo um enfermeiro pode atender\", mas não consegue definir \"se há enfermeiros disponíveis\". Das 320 mil licenças de enfermagem, restam apenas 190 mil pares de mãos na clínica. Esta não é a Lei de Seguro de Saúde nem a Lei dos Médicos, mas sim a lei fundamental que rege a existência da instituição \"hospital\" em Taiwan, e a tensão de 40 anos entre a assistência médica pública e os mecanismos de mercado que ainda não foi resolvida.",
-    "category": "pt",
-    "tags": [],
-    "url": "https://taiwan.md/pt/society/medical-care-act",
-    "readingTime": 313,
-    "featured": false,
-    "date": "2026-05-10",
-    "path": "pt/Society/medical-care-act.md"
-  },
-  {
     "title": "A lei dos entregadores: a lei construiu o piso, mas acima dele o algoritmo continua no comando",
     "description": "À zero hora de 21/07/2026, entrou em vigor a primeira lei taiwanesa para entregadores: cada pedido vale no mínimo 45 dólares. No mesmo dia, um entregador recebeu dois pedidos — 4,4 km e 8,6 km — pagando os mesmos 90 dólares. Da morte de dois entregadores em 2019 até estes 28 artigos, seis anos se passaram. A lei evita dizer se eles são empregados e não toca no algoritmo que decide a renda.",
     "category": "pt",
@@ -38708,12 +38733,12 @@
     "path": "vi/History/taiwan-elections-and-party-politics.md"
   },
   {
-    "title": "Bea Cukai Taiwan dan EZ WAY: Saat Menekan \"Sesuai Deklarasi\", Siapa yang Anda Beri Kuasa?",
-    "description": "HP bergetar, notifikasi push menampilkan deretan nama barang yang sulit dipahami, Anda menekan \"Sesuai Deklarasi\", secara hukum menyelesaikan satu kuasa bea cukai. 7,59 juta orang di Taiwan telah mendaftar di Aplikasi ini. Setelah sebuah unggahan meledak pada Agustus 2026, banyak orang baru pertama kali memeriksa siapa yang mengoperasikannya: Kementerian Keuangan memegang 36,11%, saham pemerintah kurang dari separuh dari Jaringan Perdagangan Bea Cukai. Pada saat yang sama, ambang bebas pajak 2.000 yuan sedang diajukan untuk diturunkan oleh pemerintah untuk kali kedua. Siapa yang membayar rekening jalan pintas kenyamanan ini, dan siapa yang dari awal hingga akhir tidak bisa berkata-kata.",
+    "title": "Bea Cukai Taiwan dan EZ WAY: Saat Anda Menekan \"Deklarasi Sesuai\", Siapa yang Anda Beri Kuasa",
+    "description": "Ponsel bergetar, notifikasi menampilkan deretan nama barang yang tak terlalu dipahami, Anda menekan \"Deklarasi Sesuai\", dan secara hukum yang selesai adalah sebuah surat kuasa pengurusan kepabeanan. Sebanyak 7,59 juta orang di Taiwan pernah mendaftar di aplikasi ini. Setelah sebuah unggahan viral pada Agustus 2026, banyak orang baru pertama kali mencari tahu siapa yang mengoperasikannya: Gateway Information Network Taiwan (GIN), perusahaan tercatat bursa yang sahamnya 36,11% dipegang Kementerian Keuangan, kurang dari separuh. Pada saat yang sama, ambang bebas pajak NT$2.000 untuk kedua kalinya diusulkan pemerintah untuk diturunkan. Siapa yang menanggung biaya jalan pintas ini, dan siapa yang sejak awal tak pernah sempat bersuara.",
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/lifestyle/ezway",
-    "readingTime": 174,
+    "readingTime": 186,
     "featured": true,
     "date": "2026-08-04",
     "path": "id/Lifestyle/ezway.md"
@@ -47944,6 +47969,17 @@
     "path": "pt/Technology/taiwan-game-jam-community.md"
   },
   {
+    "title": "Con datos vemos los 22 condados y ciudades de Taiwán: los más y menos densos difieren 151 veces, los mayores y los niños pasan de uno a uno a casi tres a uno",
+    "description": "En la misma isla, Taipéi tiene 8.975 hab./km² y el condado de Taitung solo 59, una diferencia de 151 veces. Con datos del Departamento de Registro Civil del Ministerio del Interior a finales de 2025, retratamos los 22 condados y ciudades: siete de cada diez personas se apiñan en el 30 % del territorio, la mayor proporción de ancianos está en la densísima Taipéi, y la mayor ratio ancianos/niños en el condado de Chiayi, casi tres a uno. En los 22 condados y ciudades, sin excepción, las muertes ya superan a los nacimientos.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/geography/data-taiwan-22-cities",
+    "readingTime": 79,
+    "featured": false,
+    "date": "2026-06-06",
+    "path": "es/Geography/data-taiwan-22-cities.md"
+  },
+  {
     "title": "Con đường cầu vồng của Đài Loan: Từ cuộc đấu tranh đường phố đến tình yêu trong \"hành tinh Wai-Meng\"",
     "description": "Năm 2017, Tòa án Tối cao Đài Loan phát hành Giải thích Hiến pháp số 748, mở ra con đường hôn nhân cùng giới hợp pháp. Từ cuộc đấu tranh độc thân của Tỳ Gia Vệ, đến sự trAlert giáo dục giới tính của Diệp Vĩnh Thụ, rồi đến những khoảnh khắc ngọt ngào hằng ngày của Wai & Meng — cộng đồng LGBTQ+ Đài Loan đã viết nên chương mới về bình quyền tại châu Á như thế nào?",
     "category": "vi",
@@ -51199,6 +51235,17 @@
     "path": "de/Politics/village-chief-system.md"
   },
   {
+    "title": "Das Königreich Dongning: Ein einundzwanzigjähriges Regime, das Taiwan in seinen Staatsnamen aufnahm",
+    "description": "Im Februar 1662 übergab der niederländische Gouverneur Hendrik Caus (揆一) die Schlüssel von Fort Zeelandia an Zheng Chenggong, der die Insel zu „Dongning“ machte. In den folgenden 21 Jahren etablierte die Familie Zheng eine Verwaltung mit einer Präfektur, zwei Präfekturen und drei Aufsichtsbehörden, siedelte Soldaten als Bauern an, entsandte Chen Yonghua zur Staatsführung und handelte mit Japan sowie der Britischen Ostindien-Kompanie. Nach der Seeschlacht von Penghu im Juli 1683 besiegte Shi Lang die Flotte von Liu Guoxuan; im Oktober ergab sich Zheng Kechang dem Qing-Regime, womit das Zeitalter von Dongning endete.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/history/tungning-kingdom",
+    "readingTime": 55,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "de/History/tungning-kingdom.md"
+  },
+  {
     "title": "Das Lächeln eiszeitlicher Relikte: Hundert Jahre Geschichte und der technologische Schutz des taiwanischen Salamanders",
     "description": "Tief im taiwanischen Hochgebirge tragen fünf endemische Salamanderarten still die Erinnerung an die Eiszeit in sich. Sie sind Indikatoren für die Gesundheit alpiner Ökosysteme und stehen im Zentrum einer hundertjährigen Geschichte wissenschaftlicher Erkundung, taxonomischer Richtigstellung und sogar geopferter Menschenleben. Der Durchbruch bei der künstlichen Brutzucht im Jahr 2025 bringt diesen „lächelnden Hochgebirgsgeistern“ neue Hoffnung.",
     "category": "de",
@@ -51225,6 +51272,17 @@
     "featured": false,
     "date": "2026-08-20",
     "path": "de/Culture/tsou-mayasvi-festival.md"
+  },
+  {
+    "title": "Das Medizinrecht: Vier Jahrzehnte zwischen institutioneller Regulierung und Marktdynamik",
+    "description": "Das taiwanesische Medizinrecht wurde 1986 verkündet, im Jahr 2017 hinsichtlich der strafrechtlichen Haftung von Ärzten reformiert und wird 2026 das Verhältnis von Pflegepersonal zu Patienten in drei Schichten gesetzlich verankern. Das Gesetz kann festlegen, „wie viele Betten eine Pflegekraft maximal betreuen darf“, aber es kann nicht garantieren, „ob überhaupt genügend Pflegekräfte vorhanden sind“ – bei 320.000 ausgestellten Pflegezertifikaten bleiben klinisch nur noch 190.000 Hände übrig. Dies ist weder das Krankenversicherungsgesetz noch das Ärztegesetz; es ist das Fundament der Existenz von „Krankenhäusern“ in Taiwan und das seit vier Jahrzehnten ungelöste Spannungsfeld zwischen dem Gemeinwohl im Gesundheitswesen und Marktmechanismen.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/society/medical-care-act",
+    "readingTime": 355,
+    "featured": false,
+    "date": "2026-07-15",
+    "path": "de/Society/medical-care-act.md"
   },
   {
     "title": "Das Ökosystem von Lanyu: Der Lebenscode am Rand des Kuroshio",
@@ -62148,17 +62206,6 @@
     "path": "de/Food/international-brand-localization-taiwan.md"
   },
   {
-    "title": "Gesetzgebung im Gesundheitswesen: Vierzig Jahre zwischen institutionellen Normen und Marktspannungen",
-    "description": "Das taiwanische Gesundheitsgesetz wurde 1986 erlassen, die Strafbarkeit von Ärzten 2017 geändert und das Verhältnis Pflegekraft zu Patient in drei Schichten für 2026 gesetzlich verankert. Das Gesetz kann festlegen, wie viele Betten eine Krankenschwester maximal betreuen darf, aber es kann nicht bestimmen, ob diese Krankenschwester überhaupt existiert – von 320.000 Pflegezertifikaten sind in der Klinik nur noch 190.000 Hände vorhanden. Dies ist weder das Krankenversicherungsgesetz noch das Ärztegesetz, sondern die grundlegende Grundlage für die Existenz der Institution „Krankenhaus“ in Taiwan und ein vierzigjähriger Konflikt zwischen dem öffentlichen Wohl des Gesundheitswesens und den Marktmechanismen.",
-    "category": "de",
-    "tags": [],
-    "url": "https://taiwan.md/de/society/medical-care-act",
-    "readingTime": 323,
-    "featured": false,
-    "date": "2026-07-15",
-    "path": "de/Society/medical-care-act.md"
-  },
-  {
     "title": "Gesundheit für alle: Taiwans medizinisches Wunder",
     "description": "Seit seiner Einführung im Jahr 1995 ist Taiwans Gesundheitssystem (NHI) für seine hohe Prämiennahme, niedrigen Verwaltungskosten und hohe Zugänglichkeit zur medizinischen Versorgung als soziales Wohlfahrtsmodell weltweit anerkannt. Durch die Integration eines einzigen Versicherungsträgers mit digitaler Technologie hat das System nicht nur die soziale Falle des \"Armut durch Krankheit\" beseitigt, sondern auch in den Bereichen digitale Medizin und öffentliche Gesundheitssicherheit starke soziale Resilienz gezeigt.",
     "category": "de",
@@ -67923,17 +67970,6 @@
     "path": "en/Geography/hukou-old-street.md"
   },
   {
-    "title": "Hukum Kesehatan: Empat Puluh Tahun Antara Norma Institusi dan Daya Tarik Pasar",
-    "description": "Hukum Kesehatan Taiwan diumumkan pada 1986, mengubah kewajiban pidana dokter pada 2017, dan memasukkan rasio perawat per pasien ke dalam hukum pada 2026. Hukum dapat menuliskan 'berapa tempat tidur yang bisa ditangani oleh satu perawat', namun tidak dapat menuliskan 'apakah perawat itu ada'—320.000 lisensi perawat, namun hanya tersisa 190.000 tangan klinis. Ini bukanlah hukum asuransi kesehatan, bukanlah hukum dokter, melainkan adalah landasan bagaimana 'rumah sakit' ini ada sebagai institusi, serta adalah pertarik yang belum terpecahkan selama empat puluh tahun antara sifat sukarela (publik) layanan kesehatan dan mekanisme pasar.",
-    "category": "id",
-    "tags": [],
-    "url": "https://taiwan.md/id/society/medical-care-act",
-    "readingTime": 310,
-    "featured": false,
-    "date": "2026-05-10",
-    "path": "id/Society/medical-care-act.md"
-  },
-  {
     "title": "Human Magazine: Eine stille Revolution, initiiert durch Fotografie und Text – der Ursprung der Reportageliteratur in Taiwan",
     "description": "47 Ausgaben, vier Jahre, eine stille Revolution, die durch Fotografie und Text ausgelöst wurde – der Beginn der Reportageliteratur in Taiwan",
     "category": "de",
@@ -72358,6 +72394,17 @@
     "path": "id/Food/taiwan-banana-kingdom.md"
   },
   {
+    "title": "Kerajaan Tungning: Dua Puluh Satu Tahun, Sebuah Dinasti yang Memasukkan Taiwan ke dalam Nama Negaranya",
+    "description": "Pada Februari 1662, Gubernur Belanda Coyett menyerahkan kunci Kastil Zeelandia, dan Koxinga mengubah pulau ini menjadi \"Tungning\". Selama dua puluh satu tahun setelahnya, keluarga Zheng mendirikan satu prefectur, dua prefectur (zhou), dan tiga departemen, menyebarkan pasukan ke berbagai wilayah untuk menggarap tanah (tuntian), menunjuk Chen Yonghua untuk mengelola pemerintahan negara, dan juga berdagang dengan Jepang serta Kompani Hindia Timur Inggris. Pada Juli 1683, dalam Perang Laut Penghu, Shi Lang menghancurkan angkatan laut Liu Guoxuan; pada Oktober, Zheng Keshuang menyerah kepada Dinasti Qing, dan Kerajaan Tungning berakhir menjadi sejarah.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/history/tungning-kingdom",
+    "readingTime": 48,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "id/History/tungning-kingdom.md"
+  },
+  {
     "title": "Kerajinan Tradisional Taiwan dan Warisan Budaya Takberwujud: Pengakuan Institusional Tiba, Sistem Magang Hilang",
     "description": "Desember 2022, Kementerian Budaya Taiwan memasukkan Su Ching-liang, pandai bangunan berusia 87 tahun dari Kaohsiung, ke daftar \"Harta Karun Manusia\"; enam bulan kemudian dia meninggal. Taiwan baru memasukkan \"Pelestari Kerajinan Tradisional Penting\" ke UU Pelestarian Warisan Budaya tahun 2005—50 tahun lebih lambat dari Jepang, 43 tahun lebih lambat dari Korea. Ketika institusi akhirnya terpasang, sistem magang telah runtuh di era industrialisasi 1970-80an. Di antara 600+ pengrajin tradisional, mereka yang berusia di bawah 50 tahun \"hanya sedikit\". Semakin panjang daftarnya, semakin sedikit yang bisa mengajar.",
     "category": "id",
@@ -76498,17 +76545,6 @@
     "path": "fr/History/wu-feng-legend.md"
   },
   {
-    "title": "La Ley de Asistencia Médica: Cuatro décadas de tensión entre la regulación institucional y el mercado",
-    "description": "La Ley de Asistencia Médica de Taiwán fue promulgada en 1986, se modificó la responsabilidad penal de los médicos en 2017 y la relación enfermero-paciente de tres turnos se incorporó a la ley en 2026. La ley puede escribir «cuántas camas puede atender como máximo una enfermera», pero no puede escribir «si existe esa enfermera»: de las 320.000 licencias de enfermería, solo quedan 190.000 manos en la clínica. Esta no es la Ley de Seguro Médico, ni la Ley de Médicos, es la ley raíz sobre cómo existe la institución del «hospital» en Taiwán, y la tensión sin resolver durante cuarenta años entre la utilidad pública de la asistencia médica y los mecanismos de mercado.",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/society/medical-care-act",
-    "readingTime": 327,
-    "featured": false,
-    "date": "2026-05-10",
-    "path": "es/Society/medical-care-act.md"
-  },
-  {
     "title": "La ley especial de reparto: el derecho construyó el suelo, pero por encima sigue mandando el algoritmo",
     "description": "A las cero horas del 21 de julio de 2026 entró en vigor la primera ley especial de reparto de Taiwán: un mínimo de 45 nuevos dólares taiwaneses por pedido. Ese mismo día, un repartidor recibió dos pedidos —4,4 km y 8,6 km— con la misma remuneración de 90 dólares. Desde la muerte de dos repartidores durante el puente del Día Nacional de 2019 hasta estos 28 artículos pasaron seis años. Pero la ley evita deliberadamente responder si son o no empleados, y tampoco toca el algoritmo de asignación de pedidos que en realidad determina sus ingresos: en la primera semana de vigencia, ni siquiera había respuesta sobre cuántos inspectores locales habían salido a fiscalizar.",
     "category": "es",
@@ -76628,17 +76664,6 @@
     "featured": true,
     "date": "2026-04-11",
     "path": "fr/Society/remote-area-schools-education-act.md"
-  },
-  {
-    "title": "La Loi sur les établissements de santé : Quarante ans de tensions entre normes institutionnelles et dynamiques de marché",
-    "description": "La Loi sur les établissements de santé, promulguée en 1986, a vu la responsabilité pénale des médecins révisée en 2017 et le ratio infirmier-médecin en trois équipes inscrit dans la loi en 2026. La loi peut déterminer « le nombre maximal de lits qu'une infirmière peut gérer », mais elle ne peut pas déterminer « s'il y a une infirmière disponible ». Sur les 320 000 licences d'infirmières, seules 190 000 mains sont disponibles sur le terrain. Ce n'est ni la Loi sur l'assurance maladie ni la Loi sur les médecins, mais la loi fondamentale qui régit l'existence même de l'« hôpital » à Taïwan, et la tension non résolue depuis quarante ans entre la nature publique des soins de santé et les mécanismes de marché.",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/society/medical-care-act",
-    "readingTime": 343,
-    "featured": false,
-    "date": "2026-05-10",
-    "path": "fr/Society/medical-care-act.md"
   },
   {
     "title": "La machine perpétuelle du don : FAB DAO et l'expérience sociale du projet des Cent Sommets",
@@ -80254,6 +80279,17 @@
     "path": "pt/Society/taiwan-regenerative-medicine-laws.md"
   },
   {
+    "title": "Lei Médica: Quarenta anos de regulamentação institucional e tensões de mercado",
+    "description": "A Lei Médica de Taiwan foi promulgada em 1986, teve a responsabilidade criminal dos médicos alterada em 2017 e prevê a inclusão da proporção enfermeiro-paciente por turno em 2026. A lei consegue estipular \"quantos pacientes um enfermeiro pode cuidar no máximo\", mas não consegue garantir \"se existem esses enfermeiros\" — de 320 mil licenças de enfermagem, restam apenas 190 mil mãos na prática clínica. Esta não é a Lei do Seguro de Saúde nem a Lei Médica; é a lei fundamental que define como as instituições hospitalares existem em Taiwan, representando também o impasse de quarenta anos entre o interesse público da saúde e os mecanismos de mercado.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/society/medical-care-act",
+    "readingTime": 331,
+    "featured": false,
+    "date": "2026-07-15",
+    "path": "pt/Society/medical-care-act.md"
+  },
+  {
     "title": "Leicha: How a Bowl of Sweet Tea Transformed Post-War Immigrant Cuisine into Beipu’s Signature",
     "description": "In March 1999, a specialty shop on Beipu Old Street brought leicha, once kept within the home, out to the streets. From the savory tea soup brought by Heipo immigrants to the sweet drink made with peanuts, sesame, and brown rice, and then to different versions in Taoyuan and overseas, leicha is not an unchanged ancient method, but the result of being rewritten by immigrants, policies, tastes, tourism, and countless pestles.",
     "category": "en",
@@ -81141,6 +81177,17 @@
     "featured": true,
     "date": "2026-04-05",
     "path": "fr/Food/zongzi-rice-dumpling.md"
+  },
+  {
+    "title": "Ley de Medicina: Cuarenta años de regulaciones institucionales y tensiones de mercado",
+    "description": "La Ley de Medicina de Taiwán fue promulgada en 1986, se reformó la responsabilidad penal médica en 2017 y la ratio enfermero-paciente por turnos entrará en vigor en 2026. La ley puede estipular \"cuántas camas puede atender como máximo un enfermero\", pero no puede garantizar \"si existen esos enfermeros\": de 320,000 licencias de enfermería, solo quedan 190,000 manos en la práctica clínica. Esto no es la Ley del Seguro Nacional de Salud ni la Ley de Médicos; es la ley fundamental que rige la existencia de las \"instituciones hospitalarias\" en Taiwán, y representa una tensión de cuarenta años entre el interés público médico y los mecanismos de mercado que aún no se ha resuelto.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/society/medical-care-act",
+    "readingTime": 348,
+    "featured": false,
+    "date": "2026-07-15",
+    "path": "es/Society/medical-care-act.md"
   },
   {
     "title": "Leyes gemelas de medicina regenerativa x 30 años de mRNA: cómo el Estado incorporó dos medicamentos salvavidas a su regulación",
@@ -84144,6 +84191,17 @@
     "path": "fr/Society/delivery-platform-law.md"
   },
   {
+    "title": "Loi sur les soins médicaux : quarante ans de normes institutionnelles et de tensions du marché",
+    "description": "La loi taïwanaise sur les soins médicaux a été promulguée en 1986, la responsabilité pénale des médecins a été modifiée en 2017, et le ratio infirmier-patient pour trois équipes a été inscrit dans la loi en 2026. La loi peut prescrire « le nombre maximal de lits qu'un infirmier peut prendre en charge », mais elle ne peut pas garantir « la présence effective de cet infirmier » — 320 000 licences d'infirmiers, mais il ne reste que 190 000 paires de mains en clinique. Ce n'est pas la loi sur l'assurance maladie, ni la loi sur les médecins, c'est la loi fondamentale qui régit l'existence de l'institution « hôpital » à Taïwan, et c'est aussi le tiraillement non résolu depuis quarante ans entre la vocation publique des soins de santé et les mécanismes du marché.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/society/medical-care-act",
+    "readingTime": 334,
+    "featured": false,
+    "date": "2026-07-15",
+    "path": "fr/Society/medical-care-act.md"
+  },
+  {
     "title": "Lon can dứa: Món ngọt nào đã giúp Đài Loan kiếm ngoại tệ sau chiến tranh?",
     "description": "Nhà máy đầu tiên ở Phượng Sơn, Cao Hùng năm 1902 đã biến dứa từ giống địa phương chua nhỏ thành sản phẩm đóng hộp xuất khẩu. Nhà máy đường Thái Đông mở rộng thị trường Âu Mỹ vào năm 1957 với viện trợ Mỹ, lao động nữ và dây chuyền năm tuyến. Đến năm 1969, lượng xuất khẩu đạt 4,43 triệu thùng, sau đó chuyển hướng sang dứa tươi trong những năm 1980. Dứa không biến mất, nó chỉ thay đổi vị trí từ công nghiệp ngoại thương sang thị trường nội địa.",
     "category": "vi",
@@ -84855,12 +84913,12 @@
     "path": "vi/Society/remote-area-schools-education-act.md"
   },
   {
-    "title": "Luật Y tế: Bốn mươi năm giãn co giữa quy chuẩn định chế và áp lực thị trường",
-    "description": "Luật Y tế Đài Loan công bố năm 1986, sửa trách nhiệm hình sự bác sĩ năm 2017, tỷ lệ điều dưỡng ba ca vào pháp luật năm 2026. Luật viết được \"một điều dưỡng tối đa chăm sóc bao nhiêu giường bệnh\", nhưng viết không nổi \"có hay không có cái giường bệnh đó\" — 32 vạn chứng chỉ điều dưỡng, lâm sàng chỉ còn 19 vạn cặp tay. Đây không phải luật bảo hiểm y tế, không phải luật bác sĩ, mà là luật cơ bản về cách tồn tại của \"bệnh viện\" tại Đài Loan, cũng là mâu thuẫn bốn mươi năm chưa giải quyết được giữa tính công ích y tế và cơ chế thị trường.",
+    "title": "Luật Y tế: Bốn thập kỷ giữa quy định tổ chức và sự giằng co thị trường",
+    "description": "Luật Y tế Đài Loan được công bố vào năm 1986, sửa đổi trách nhiệm hình sự của bác sĩ vào năm 2017 và đưa tỷ lệ điều dưỡng-bệnh nhân theo ba ca trực vào luật vào năm 2026. Luật có thể quy định rõ \"một điều dưỡng tối đa chăm sóc bao nhiêu giường\", nhưng lại không thể viết ra được liệu \"có đủ số lượng điều dưỡng đó hay không\" — trong số 320.000 chứng chỉ hành nghề điều dưỡng, thực tế lâm sàng chỉ còn lại 190.000 bàn tay. Đây không phải là Luật Bảo hiểm Y tế, cũng không phải Luật Bác sĩ, mà là luật nền tảng cho sự tồn tại của các tổ chức \"bệnh viện\" tại Đài Loan, đồng thời là sự giằng co suốt bốn thập kỷ chưa có lời giải giữa tính công ích y tế và cơ chế thị trường.",
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/society/medical-care-act",
-    "readingTime": 266,
+    "readingTime": 317,
     "featured": false,
     "date": "2026-07-15",
     "path": "vi/Society/medical-care-act.md"
@@ -86425,9 +86483,9 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/society/medical-care-act",
-    "readingTime": 282,
+    "readingTime": 283,
     "featured": false,
-    "date": "2026-05-10",
+    "date": "2026-07-15",
     "path": "en/Society/medical-care-act.md"
   },
   {
@@ -99585,6 +99643,28 @@
     "path": "pt/Food/taiwan-fruit-kingdom.md"
   },
   {
+    "title": "Reino de Dongning: veintiún años de una dinastía que incluyó a Taiwán en su nombre oficial",
+    "description": "En febrero de 1662, el gobernador holandés Maetsuycker entregó las llaves de Fort Zeelandia, y Zheng Chenggong convirtió la isla en «Dongning». Durante los siguientes veintiún años, el clan Zheng estableció una administración de un prefectura, dos prefecturas y tres departamentos, dispersó al ejército para cultivar tierras, nombró a Chen Yonghua para dirigir el Estado y comerció con Japón y la Compañía Británica de las Indias Orientales. Tras la batalla naval de Penghu en julio de 1683, Shi Lang derrotó a la flota de Liu Guoxuan; en octubre, Zheng Kechang se rindió a la dinastía Qing, poniendo fin al periodo de Dongning.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/history/tungning-kingdom",
+    "readingTime": 53,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "es/History/tungning-kingdom.md"
+  },
+  {
+    "title": "Reino de Dongning: Vinte e um anos de uma dinastia que incluiu Taiwan em seu nome oficial",
+    "description": "Em fevereiro de 1662, o governador holandês Maetsuycker entregou as chaves de Zeelandia, e Zheng Chenggong transformou a ilha em \"Dongning\". Nos 21 anos seguintes, o clã Zheng estabeleceu uma estrutura administrativa, colonizou terras com militares, nomeou Chen Yonghua para governar e comercializou com o Japão e a Companhia Britânica das Índias Orientais. Em julho de 1683, na Batalha de Penghu, Shi Lang derrotou a marinha de Liu Guo-xuan; em outubro, Zheng Ke-chang rendeu-se à dinastia Qing, pondo fim a Dongning.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/history/tungning-kingdom",
+    "readingTime": 52,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "pt/History/tungning-kingdom.md"
+  },
+  {
     "title": "Reino de las frutas de Taiwán: esta isla cultiva cada fruta como vida y memoria",
     "description": "Desde la mañana en las colinas de Yujing, los viejos manzanos de Mandau, la subasta de Binhang al amanecer, hasta las abuelas pelando cáscaras, pasando por los escarabajos de lichi y las granjas con trabajadores extranjeros: esta isla subtropical convierte la fruta en una forma de diálogo con la tierra, con generaciones y con el mundo.",
     "category": "es",
@@ -100283,6 +100363,17 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "id/Food/taiwan-bread-and-baking.md"
+  },
+  {
+    "title": "Royaume de Dongning : vingt et un ans d'une dynastie ayant inscrit Taïwan dans son nom officiel",
+    "description": "En février 1662, le gouverneur néerlandais Coen signa l'acte de reddition à Fort Zeelandia, et Koxinga transforma l'île en « Dongning ». Durant vingt et un ans, le clan Zheng administra l'île avec une structure complexe, développa l'agriculture militaire, instaura les examens impériaux et commerça avec le Japon et la Compagnie britannique des Indes orientales. En 1683, après la bataille navale de Penghu où Shi Lang écrasa la flotte de Liu Guo-xuan, Zheng Ke-chang se rendit à la dynastie Qing, marquant la fin de Dongning.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/history/tungning-kingdom",
+    "readingTime": 55,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "fr/History/tungning-kingdom.md"
   },
   {
     "title": "Royaume de la banane : comment un fruit a propulsé Qishan vers Tokyo et ramené la mondialisation dans les champs",
@@ -102543,12 +102634,12 @@
     "path": "en/Culture/shopping-design.md"
   },
   {
-    "title": "Shopping Design: a revista que te ensina a comprar design, no fim quem você deve discernir é ela mesma",
-    "description": "Lançada em 2006, com a primeira edição dedicada ao branco, a Shopping Design transformou, ao longo de vinte anos, o design de termo de showroom em verbo do dia a dia de visitar lojas e escolher produtos. O que ela realmente ensinou a Taiwan foi que o \"discernimento\" pode ser treinado como uma habilidade — e ela expandiu essa habilidade para listas anuais dos 100 melhores, publicações trimestrais, carnavais, e também para a mesma licença de \"publicação de revistas + serviços de publicidade\" da empresa-mãe. No fim, esta revista que te ensina a discernir pede que você discerna justamente a ela mesma.",
+    "title": "Shopping Design: a revista que ensina a comprar design e que, no fim, pede que você distinga a ela mesma",
+    "description": "Fundada em 2006, com uma primeira edição dedicada ao branco, a Shopping Design transformou em vinte anos o design de termo de feira em verbo cotidiano de quem passeia por lojas e escolhe objetos. O que ela realmente ensinou a Taiwan é que o discernimento pode ser treinado como habilidade, e ela o ampliou em lista anual dos cem melhores, revista trimestral e festival, e também até a licença da empresa-mãe, que registra ao mesmo tempo edição de revistas e serviços de publicidade. Assim, a revista que ensina você a distinguir acaba pedindo que você distinga a ela mesma.",
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/culture/shopping-design",
-    "readingTime": 124,
+    "readingTime": 128,
     "featured": false,
     "date": "2026-07-13",
     "path": "pt/Culture/shopping-design.md"
@@ -115936,6 +116027,17 @@
     "path": "en/Culture/kavalan-people.md"
   },
   {
+    "title": "The Kingdom of Tungning: Twenty-One Years of a Dynasty That Wrote Taiwan into Its Name",
+    "description": "In February 1662, Dutch Governor VOC official Pieter de Carpentier handed over the keys to Fort Zeelandia, and Koxinga transformed the island into \"Tungning.\" For the next twenty-one years, the Zheng clan established a complex administration, settled troops as farmers, appointed Chen Yonghua to manage state affairs, and traded with Japan and the British East India Company. Following the Battle of Penghu in July 1683, Shi Lang crushed Liu Guoxuan''s navy; by October, Zheng Keqiang surrendered to the Qing, bringing Tungning to an end.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/history/tungning-kingdom",
+    "readingTime": 52,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "en/History/tungning-kingdom.md"
+  },
+  {
     "title": "The KMT Government's Relocation to Taiwan and Postwar Reconstruction",
     "description": "Yen Chia-kan came from Fujian and witnessed the history of the KMT government's 1949 relocation to Taiwan. 1.2 million soldiers and civilians, 38 years of martial law, land reform: how did this history reshape Taiwan?",
     "category": "en",
@@ -120440,6 +120542,17 @@
     "path": "id/Society/delivery-platform-law.md"
   },
   {
+    "title": "Undang-Undang Medis: Empat Dekade Regulasi Institusi dan Tarik-Ulur Pasar",
+    "description": "Undang-Undang Medis Taiwan diumumkan pada tahun 1986, direvisi mengenai tanggung jawab pidana dokter pada tahun 2017, dan rasio perawat-pasien tiga shift akan dimasukkan ke dalam undang-undang pada tahun 2026. Hukum dapat menuliskan \"berapa jumlah maksimal pasien yang ditangani satu perawat\", tetapi tidak dapat menuliskan \"apakah ada perawat tersebut\" — dari 320.000 lisensi perawat, hanya tersisa 190.000 tangan di klinik. Ini bukan Undang-Undang Jaminan Kesehatan, bukan pula Undang-Undang Dokter, melainkan dasar hukum tentang bagaimana institusi \"rumah sakit\" di Taiwan eksis, sekaligus tarik-ulur selama empat puluh tahun antara kepentingan publik medis dan mekanisme pasar yang belum terpecahkan.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/society/medical-care-act",
+    "readingTime": 338,
+    "featured": false,
+    "date": "2026-07-15",
+    "path": "id/Society/medical-care-act.md"
+  },
+  {
     "title": "United Front Tour Groups: Cognitive Contest in Soft Rain — From Discount Tours to Influencer Traffic",
     "description": "In June 2024, Potter King exposed the CCP's plan to invite 10 Taiwanese influencer groups to China, triggering Taiwanese society's deeper anxiety about new-generation 'united front' operations. From cheap turnkey-hospitality trips to influencer trips paid for by the millions, the core of this cross-strait cognitive contest was never to make Taiwanese believe China is good — it was to make Taiwan break its own ranks.",
     "category": "en",
@@ -121368,17 +121481,6 @@
     "path": "pt/About/seeing-taiwan-quotes.md"
   },
   {
-    "title": "Ver Taiwán en datos: los 22 condados y ciudades — la brecha entre el más denso y el más vacío es de 151 veces, la proporción de ancianos y niños pasa de 1:1 a casi 3:1",
-    "description": "En la misma isla, Taipéi tiene 8.975 habitantes por km² y Taitung solo 59, una diferencia de 151 veces. Con datos del Departamento de Registro Civil del Ministerio del Interior a finales de 2025, se dibuja un retrato verificable de los 22 condados y ciudades: el 70 % de la población se concentra en el 30 % del territorio, la mayor proporción de ancianos está precisamente en la más densa Taipéi, y la mayor proporción ancianos-niños en el condado de Chiayi roza los 3:1. Sin excepción, en los 22 condados y ciudades las defunciones ya superan a los nacimientos.",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/geography/data-taiwan-22-cities",
-    "readingTime": 79,
-    "featured": false,
-    "date": "2026-06-06",
-    "path": "es/Geography/data-taiwan-22-cities.md"
-  },
-  {
     "title": "Ver Taiwán: Impresiones históricas de la isla",
     "description": "Desde la Era de los Descubrimientos hasta la actualidad, diversos grupos han contemplado esta isla de distintas maneras: los Atayal creen que los espíritus ancestrales dejaron su huella en la tierra, viendo los ríos y montañas como el cuerpo de sus antepasados y llamándose a sí mismos hijos de la tierra; por su parte, los Amis expresan su vínculo con el territorio mediante imágenes de arraigo. Esta colección de introducciones reúne leyendas transmitidas de generación en generación y memorias de la isla, entrelazando múltiples perspectivas de observación.",
     "category": "es",
@@ -122162,6 +122264,17 @@
     "featured": false,
     "date": "2026-08-18",
     "path": "vi/Food/taiwan-banana-kingdom.md"
+  },
+  {
+    "title": "Vương quốc Đông Ninh: 21 năm của một triều đại đưa tên Đài Loan vào quốc hiệu",
+    "description": "Tháng 2 năm 1662, Thống đốc Hà Lan Coen trao chìa khóa thành Zeelandia, Trịnh Thành Công đã biến hòn đảo này thành \"Đông Ninh\". Trong 21 năm sau đó, họ Trịnh thiết lập hệ thống hành chính một phủ hai châu ba ty, đưa quân đội đi khẩn hoang khắp nơi, cử Trần Vĩnh Hoa quản lý quốc chính, đồng thời giao thương với Nhật Bản và Công ty Đông Ấn Anh. Sau trận hải chiến Bành Hồ tháng 7 năm 1683, Thi Lang đánh bại thủy quân của Lưu Quốc Hiên, đến tháng 10 Trịnh Khắc Sảng hàng Thanh, vương quốc Đông Ninh chính thức khép lại trang sử.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/history/tungning-kingdom",
+    "readingTime": 44,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "vi/History/tungning-kingdom.md"
   },
   {
     "title": "Vương quốc Hải tặc: Kỹ thuật đảo ngược mô phỏng thời gian, được viết vào gen niềm tin của TSMC",
@@ -129782,25 +129895,25 @@
     "path": "ru/Technology/ai-supply-chain-overseas-manufacturing.md"
   },
   {
-    "title": "Закон о доставке: законодательно выровненный пол, а выше — уже алгоритмы",
-    "description": "В полночь 21 июля 2026 года в Тайване вступил первый в стране закон, посвящённый доставке: минимальная оплата за заказ — 45 иен. В тот же день один курьер получил два заказа — на 4,4 км и 8,6 км — и заработал по 90 иен за каждый. С 2019 года, когда во время национального праздника двое курьеров погибли на дороге, до этих 28 статей понадобилось шесть лет. Однако этот закон намеренно не отвечает на вопрос, являются ли они сотрудниками, и не касается собой настоящей причины, влияющей на доход — алгоритма распределения заказов. На первой же неделе после вступления в силу закона даже местные инспекторы не смогли дать ответов по поводу проверок.",
+    "title": "Закон о доставке: пол построен, но всё, что выше пола, по-прежнему решает алгоритм",
+    "description": "В 00:00 21 июля 2026 года на Тайване вступил в силу первый специальный закон о службах доставки: минимум NT$45 за каждый заказ. В тот же день один курьер получил два заказа — на 4,4 и на 8,6 километра, — и за оба ему предложили по NT$90. От гибели двух курьеров на дороге в дни национального праздника 2019 года до этих 28 статей прошло шесть лет. А сам закон намеренно не отвечает, считаются ли курьеры работниками, и не трогает алгоритм распределения заказов, который на деле определяет заработок. К концу первой недели не было ясно даже, сколько человек на местах будут проверять соблюдение закона.",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/society/delivery-platform-law",
-    "readingTime": 222,
+    "readingTime": 323,
     "featured": false,
     "date": "2026-07-25",
     "path": "ru/Society/delivery-platform-law.md"
   },
   {
-    "title": "Закон о здравоохранении: сорок лет между нормами учреждений и рыночным давлением",
-    "description": "Закон о здравоохранении Тайваня, принятый в 1986 году, с поправками к уголовной ответственности врачей в 2017 году и законодательным закреплением соотношения медсестра/пациент для трехсменного дежурства в 2026 году. Закон может прописать «сколько коек может обслуживать одна медсестра», но не может ответить на вопрос «есть ли такая медсестра» — 320 тысяч лицензий медсестер, а в клиниках осталось всего 190 тысяч рук. Это не закон о медицинском страховании и не закон о врачах; это фундаментальный закон существования института «больницы» в Тайване, и он отражает сорокалетний конфликт между общественной пользой и рыночным механизмом.",
+    "title": "Закон о медицине: сорок лет регулирования учреждений и рыночного противостояния",
+    "description": "Закон о медицине на Тайване был обнародован в 1986 году, в 2017 году были внесены поправки об уголовной ответственности врачей, а в 2026 году в закон должны быть включены нормы о соотношении численности медсестер и пациентов в три смены. Закон может прописать, «за каким максимальным количеством коек закреплена одна медсестра», но не может решить проблему «наличия самих медсестер» — из 320 тысяч лицензий на сестринское дело в клиниках осталось лишь 190 тысяч рук. Это не закон о медицинском страховании и не закон о врачах, это основополагающий закон, определяющий существование таких учреждений, как «больницы» на Тайване, а также сорок лет неразрешенного конфликта между общественной значимостью медицины и рыночными механизмами.",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/society/medical-care-act",
-    "readingTime": 297,
+    "readingTime": 333,
     "featured": false,
-    "date": "2026-05-10",
+    "date": "2026-07-15",
     "path": "ru/Society/medical-care-act.md"
   },
   {
@@ -130731,6 +130844,17 @@
     "featured": false,
     "date": "2026-08-21",
     "path": "ru/Society/koreans-in-taiwan.md"
+  },
+  {
+    "title": "Королевство Дуннин: двадцать один год династии, включившей название Тайваня в имя государства",
+    "description": "В феврале 1662 года голландский губернатор Кой в Зейлан (Формозе) передал ключи от крепости, и Чжэн Сэнгун превратил остров в «Дуннин». В течение последующих двадцати одного года клан Чжэн создал административную систему из одной префектуры, двух округов и трех управлений, расселил войска для ведения сельского хозяйства, назначил Чэнь Юнхуа управлять государством и вел торговлю с Японией и Британской Ост-Индской компанией. После битвы при Пэнху в июле 1683 года флот Ши Лана разгромил силы Лю Госюаня, а в октябре Чжэн Кэцзюна сдался империи Цин, положив конец эпохе Дуннин.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/history/tungning-kingdom",
+    "readingTime": 51,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "ru/History/tungning-kingdom.md"
   },
   {
     "title": "Королевство фруктов Таиланда: этот остров относится к каждому фрукту, как к жизни и памяти, которые он сажает",
@@ -149212,14 +149336,14 @@
     "path": "ar/Society/delivery-platform-law.md"
   },
   {
-    "title": "قانون الرعاية الصحية: المعايير المؤسسية والصراع بين السوق عبر أربعين عاماً",
-    "description": "تم نشر قانون الرعاية الصحية في تايوان عام 1986، وتم تعديل المسؤولية الجنائية للأطباء عام 2017، وتم إدراج نسبة ثلاثة مرضى لكل ممرضة في القانون عام 2026. يمكن للقانون أن يحدد «أقصى عدد أسرّة يمكن لممرضة واحدة التكفل بها»، لكنه لا يستطيع أن يحدد «هل توجد تلك الممرضة أم لا». هناك 320000 رخصة تدريبية للممرضات، لكن في العمل السريري يبقى فقط 190000 يداً عاملة. هذا ليس قانون التأمين الصحي، ولا قانون الأطباء، بل هو الأساس الذي يوجد عليه «المستشفى» كمؤسسة في تايوان، وهو أيضاً الصراع الذي لم يتحلّ منه النظام العام على مدى أربعين عاماً بين الطابع الخيري للرعاية الصحية والآلية السوقية.",
+    "title": "قانون الرعاية الطبية: أربعون عاماً من التنظيم المؤسسي والصراع مع آليات السوق",
+    "description": "تم إعلان قانون الرعاية الطبية في تايوان عام 1986، وتم تعديل المسؤولية الجنائية للأطباء في عام 2017، ومن المقرر إدراج نسبة الممرضين إلى المرضى في المناوبات الثلاث ضمن القانون في عام 2026. يمكن للقانون أن يحدد \"أقصى عدد من الأسرة التي يمكن لممرضة واحدة رعايتها\"، لكنه لا يستطيع تحديد \"ما إذا كان هناك ممرضون متاحون\" — فمن بين 320 ألف رخصة تمريض، لم يتبقَّ في الممارسة السريرية سوى 190 ألف يد. هذا ليس قانون التأمين الصحي ولا قانون الأطباء، بل هو القانون الأساسي الذي يحدد كيفية وجود مؤسسة \"المستشفى\" في تايوان، وهو أيضاً الصراع المستمر منذ أربعين عاماً بين المصلحة العامة للرعاية الطبية وآليات السوق دون حل.",
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/society/medical-care-act",
-    "readingTime": 250,
+    "readingTime": 275,
     "featured": false,
-    "date": "2026-05-10",
+    "date": "2026-07-15",
     "path": "ar/Society/medical-care-act.md"
   },
   {
@@ -151433,6 +151557,17 @@
     "featured": false,
     "date": "2026-08-18",
     "path": "ar/Food/taiwan-banana-kingdom.md"
+  },
+  {
+    "title": "مملكة دونغنينغ: إحدى وعشرون سنة، سلالة كتبت اسم تايوان في اسمها الرسمي",
+    "description": "في فبراير 1662، سلم الحاكم الهولندي كوي ي مفاتيح مدينة زيلانديا، وحوّل تشنغ تشنغ غونغ هذه الجزيرة إلى \"دونغنينغ\". على مدار إحدى وعشرين سنة تالية، أنشأت عائلة تشنغ نظامًا إداريًا من محافظة وولايتين وثلاث دوائر، ونشرت الجيش في الأراضي الزراعية، وعيّنت تشن تشين يونغ هوا لإدارة شؤون الدولة، كما مارست التجارة مع اليابان وشركة الهند الشرقية البريطانية. وفي يوليو 1683، سحق شي لانغ أسطول ليو غو تشوان في معركة بنغهو البحرية، وفي أكتوبر استسلم تشنغ كي تشانغ لأسرة تشينغ، لتنتهي حقبة دونغنينغ في التاريخ.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/history/tungning-kingdom",
+    "readingTime": 42,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "ar/History/tungning-kingdom.md"
   },
   {
     "title": "من «جزيرة قتل الكلاب» إلى صفر إعدام: طريق الخلاص الأربعين عاماً لحماية الحيوانات في تايوان",
@@ -156317,6 +156452,17 @@
     "path": "hi/Society/dpp-founding.md"
   },
   {
+    "title": "डोंगनिंग साम्राज्य: इक्कीस वर्ष, एक राजवंश जिसने ताइवान को अपने राष्ट्र के नाम में शामिल किया",
+    "description": "फरवरी 1662 में, डच गवर्नर कॉइ (揆一) ने ज़ीलैंडिया (Zeelandia) शहर की चाबियाँ सौंप दीं, और ज़ेंग चेंगगोंग (鄭成功) ने इस द्वीप को \"डोंगनिंग\" बना दिया। इसके बाद के इक्कीस वर्षों तक, ज़ेंग परिवार ने एक प्रान्त, दो ज़ू (州) और तीन विभागों की स्थापना की, सेना को कृषि भूमि पर तैनात किया, चेन योंगहुआ (陳永華) को शासन की कमान सौंपी, और जापान तथा ब्रिटिश ईस्ट इंडिया कंपनी के साथ व्यापार किया। जुलाई 1683 में पेंगहु समुद्री युद्ध में, शि लांग (施琅) ने लियू गुओक्सुआन (劉國軒) की नौसेना को पराजित कर दिया, और अक्टूबर में ज़ेंग कशिआंग (鄭克塽) ने किंग राजवंश के सामने आत्मसमर्पण कर दिया, जिससे डोंगनिंग का इतिहास समाप्त हो गया।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/history/tungning-kingdom",
+    "readingTime": 47,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "hi/History/tungning-kingdom.md"
+  },
+  {
     "title": "डोमिडोरो: \"गलतियाँ पकड़ने\" को एक सार्वजनिक प्रदर्शन बना देना, हँसी के पीछे सवाल यह है कि किसके पास किसे सुधारने का अधिकार है",
     "description": "2024 में एक वीडियो जिसने आठ याओ और चा के जापानी पाठ को सुधारा, \"जापानी पुलिस\" को डोमिडोरो की सबसे पहचानने योग्य भूमिका बना दिया; 2026 में, वह हुआंग शान लियाओ के कार्यों की समीक्षा करने वाले वीडियो से और अधिक लोगों द्वारा देखा गया। टोक्यो के जापानी, मंगा और सामाजिक-सांस्कृतिक समीक्षा से, यौन उत्पीड़न विवाद की कानूनी लड़ाई तक, उसका रास्ता केवल विषैली जुबान नहीं है, बल्कि \"मैं बताऊँगा कि क्या गलत है\" को दर्शकों की सहभागिता वाला प्रदर्शन बना देना है।",
     "category": "hi",
@@ -160850,6 +160996,17 @@
     "path": "hi/Society/the-reporter-investigative-journalism.md"
   },
   {
+    "title": "दलों से परे चार पैमाने: ज़मीन के टुकड़े से स्वास्थ्य बीमा कार्ड तक, अपनी राजनीति से लंबी जीने वाली ताइवान की नीतियाँ",
+    "description": "एक पाठक नीले-हरे खेमों की गाली-गलौज से तंग आकर ताइवान के काम आई चीज़ें याद रखना चाहता था। हमने सत्तर वर्षों की ग्यारह नीतियाँ, अधिनायकवादी शासन द्वारा कृषि भूमि के जबरन अधिग्रहण वाले भूमि सुधार, मार्शल लॉ की समाप्ति और स्वास्थ्य बीमा से लेकर अब भी विवादित समलैंगिक विवाह और अग्रगामी बुनियादी ढांचा योजना तक, दलीय पैमाने से नहीं बल्कि जीवन-यापन, लोकतंत्र, नागरिक अधिकार और संप्रभुता के चार पैमानों से मापीं। निष्कर्ष उलटा है: जो नीतियाँ अपनी राजनीति से लंबी जीती हैं, उनका जन्म-दिन सबसे झगड़ालू रहा।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/history/bipartisan-good-policy",
+    "readingTime": 211,
+    "featured": false,
+    "date": "2026-06-13",
+    "path": "hi/History/bipartisan-good-policy.md"
+  },
+  {
     "title": "दस बड़ी परियोजनाएं: दस अरब डॉलर के विदेशी मुद्रा भंडार पर दो हजार अरब का दांव",
     "description": "1973 में ताइवान का विदेशी मुद्रा भंडार केवल 10 अरब डॉलर था, फिर भी चियांग चिंग-कुओ ने दस बड़ी परियोजनाओं को आगे बढ़ाने के लिए लगभग 3000 अरब न्यू ताइवान डॉलर निवेश करने की घोषणा की। यह न केवल तेल संकट और राजनयिक अलगाव का सामना करने के लिए एक आर्थिक मोड़ था, बल्कि जापानी औपनिवेशिक काल की विरासत वाली योजनाओं को पुनः पैकेज करके राष्ट्रीय पहचान के राजनीतिक आख्यान में बदलने का एक प्रयास भी था।",
     "category": "hi",
@@ -161233,17 +161390,6 @@
     "featured": false,
     "date": "2026-08-15",
     "path": "hi/Culture/blue-white-slippers.md"
-  },
-  {
-    "title": "नीले-हरे के दायरे से परे चार पैमाने: एक खेत के टुकड़े से एक स्वास्थ्य बीमा कार्ड तक, ताइवान की वे नीतियाँ जो अपनी राजनीतिक जड़ों से आगे निकल गईं",
-    "description": "एक पाठक नीले-हरे खेमों की खाने की मेज पर होने वाली परस्पर आरोप-प्रत्यारोप से थक गया था, और ताइवान के लिए वास्तव में अच्छी चीजों को याद रखना चाहता था। इसलिए हमने सत्तर साल की ग्यारह नीतियों को ढूंढा, अधिनायकवादी जबरन कृषि भूमि अधिग्रहण के भूमि सुधार, मार्शल लॉ की समाप्ति, सार्वभौमिक स्वास्थ्य बीमा, से लेकर अभी भी विवादित समलैंगिक विवाह और भविष्योन्मुखी बुनियादी ढांचे तक, जानबूझकर नीले-हरे पैमानों का उपयोग नहीं किया, बल्कि जनजीवन, लोकतंत्र, नागरिक अधिकार, संप्रभुता के चार पैमानों का इस्तेमाल किया। निष्कर्ष कुछ हद तक प्रतिकूल है: जो नीतियाँ अपनी पार्टीगत उत्पत्ति से आगे निकल गईं, उनके जन्म का दिन अक्सर सबसे तीखी बहस का दिन होता था।",
-    "category": "hi",
-    "tags": [],
-    "url": "https://taiwan.md/hi/history/bipartisan-good-policy",
-    "readingTime": 171,
-    "featured": false,
-    "date": "2026-06-13",
-    "path": "hi/History/bipartisan-good-policy.md"
   },
   {
     "title": "नेशनल स्पेस सेंटर: एक ऐसे देश के लिए अंतरिक्ष एजेंसी बनाना जिसमें नाम भी पूरा नहीं हुआ था, तीस-दो साल लगे",
@@ -162186,12 +162332,12 @@
     "path": "hi/People/black-cat-teacher.md"
   },
   {
-    "title": "ब्लैक बियर अकादमी: एक ऐसा सिविल डिफेंस स्कूल जो आशा करता है कि एक दिन खुद की ज़रूरत न हो",
-    "description": "2021 में, पाँच स्वयंसेवकों ने एक कैफ़े में पाँच घंटे बातचीत की और फैसला किया कि वे टाइवान के लोगों को युद्ध का सामना करना सिखाएँगे — कुछ घटनाओं को संपन्न करने के बाद अधिकारी दो मिलियन वन आठ सौ हज़ार घाटा हो गया। अगले साल, रूस ने यूक्रेन में घुसा और चाओ सिंग सेन ने छह करोड़ रुपये दान किए और तीन वर्षों में तीन करोड़ वन मिलियन के ब्लैक बियर वीरों की माँग की। इसने रक्त बांधने, निर्वासन और धोखाधड़ी रोकथाम की शिक्षा दी है; यह साफ़ कहता है कि यह 'सैन्य नागरिकों को नहीं सिक्हा रहा है'; जितना वह गंभीरता से सिखाता है, उतना ही चीन ने इसे ताइवान के अलगाववादियों की सूची में डाल दिया और द्वीप पर इसे राजनीतिक फुटबॉल बना दिया। एक ऐसा स्कूल जो युद्ध के कारण पैदा हुआ है, लेकिन आशा करता है कि एक दिन उसकी ज़रूरत न हो।",
+    "title": "ब्लैक बियर अकादमी: एक नागरिक रक्षा स्कूल जो उम्मीद करता है कि एक दिन उसे अस्तित्व में रहने की आवश्यकता नहीं होगी",
+    "description": "२०२१ में, पांच स्वयंसेवकों ने एक कॉफी शॉप में पांच घंटे बात की और ताइवान के लोगों को युद्ध का सामना करना सिखाने का फैसला किया — कुछ कार्यक्रम आयोजित करने के बाद वे २१०,००० न्यू ताइवान डॉलर के कर्ज में डूब गए। अगले साल रूस ने यूक्रेन पर आक्रमण किया, रॉबर्ट त्साओ ने ६० करोड़ दान दिए, और तीन वर्षों में तीस लाख ब्लैक बियर योद्धाओं का लक्ष्य घोषित किया। यह टूर्निकेट, निकासी, धोखाधड़ी रोकथाम सिखाता है, स्पष्ट रूप से कहता है कि \"यह बिल्कुल मिलिशिया प्रशिक्षण नहीं है\"; जितना गंभीरता से यह पढ़ाता है, उतना ही इसे चीन द्वारा ताइवान स्वतंत्रता सूची में डाल दिया जाता है और द्वीप पर राजनीतिक फुटबॉल बना दिया जाता है। युद्ध से पैदा हुआ एक स्कूल, फिर भी उम्मीद करता है कि एक दिन इसकी आवश्यकता नहीं पड़ेगी।",
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/society/kuma-academy-civil-defense-school",
-    "readingTime": 133,
+    "readingTime": 163,
     "featured": false,
     "date": "2026-06-21",
     "path": "hi/Society/kuma-academy-civil-defense-school.md"
@@ -169652,6 +169798,24 @@
     "path": "ko/Society/poisoned-potato-cognitive-warfare-taiwan.md"
   },
   {
+    "title": "동녕왕국: 21년, 국호에 타이완을 새긴 왕조",
+    "description": "1662년 2월, 네덜란드 장관 규일이 열란차성에서 열쇠를 넘겨주자 정성공은 이 섬을 '동녕'으로 바꾸었다. 이후 21년간 정씨는 일부 이주 삼사를 두고, 군대를 곳곳에 둔전시키고, 진영화에게 국정을 맡겼으며, 일본 및 영국 동인도회사와 통상했다. 1683년 7월 팽호 해전에서 시랑이 유국헌의 수군을 격파하고, 10월 정극상이 청에 항복하면서 동녕은 역사가 되었다.",
+    "category": "ko",
+    "tags": [
+      "명정",
+      "동녕왕국",
+      "정성공",
+      "정경",
+      "진영화",
+      "팽호 해전"
+    ],
+    "url": "https://taiwan.md/ko/history/tungning-kingdom",
+    "readingTime": 18,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "ko/History/tungning-kingdom.md"
+  },
+  {
     "title": "동물원과 전시 동물의 윤리",
     "description": "철장 속 코끼리에서 Xpark 수모 벽까지—대만이 전시 동물과의 관계를 재정의하다",
     "category": "ko",
@@ -174169,7 +174333,7 @@
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/society/medical-care-act",
-    "readingTime": 141,
+    "readingTime": 140,
     "featured": false,
     "date": "2026-07-15",
     "path": "ko/Society/medical-care-act.md"
