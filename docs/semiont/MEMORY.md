@@ -331,3 +331,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-26 | 011623-twmd-supporters-weekly | 零封贊助信，正控制回得出 10-14／10-16 兩筆，0 是真的；Anton Lee 與匿名 NT$500 連三週期沒續扣，補進佇列 #75 | 零命中先用已知正例驗查法 | [→](memory/2026-10-26-011623-twmd-supporters-weekly.md) |
 | 2026-10-26 | 011721-twmd-babel-nightly | 續命：機器缺口為 0，剩 31 份人翻不覆蓋；#1904 七篇壞模組整篇重翻落地（五篇改派 Sonnet），母稿大埔鄉改正；自檢把登入過期的 codex 印成可用，改成真打一句 | 清單只量得到寫清單的人想到的東西 | [→](memory/2026-10-26-011721-twmd-babel-nightly.md) |
 | 2026-10-26 | 053948-twmd-routine-sync | 十九份 prompt 全一致，直讀排程器十八條零漂移；審庫存仍只差哲宇在 app 建排程，距 10-28 剩兩天 | 鏡像舊一天就直讀 live，不拿替身當結論 | [→](memory/2026-10-26-053948-twmd-routine-sync.md) |
+| 2026-10-26 | 060618-twmd-embeddings-nightly | 13 語 14,859 向量 0 fail，每語 1,143 篇，verify PASS，`d77868596`；〈東寧王國〉隔一晚進索引，本機與 origin 無分岔 | 每語慢幾十秒對得上同機 babel 負載，不升訊號 | [→](memory/2026-10-26-060618-twmd-embeddings-nightly.md) |
