@@ -60,11 +60,15 @@
 - [ ] pending（收件席位：哲宇，對外溝通）：《海上的島》@idlcn89642026 合作建議，草稿在 `docs/factory/SPORE-HARVESTS/batch-2026-10-11-1-spores.md`。
 - [ ] pending（孢子線各班，零判斷條件續傳）：`#29` 重抓條件、`/activity/replies` 逐則對日期、permalink 排序、Chrome 先確認 in-use 是 `6a0a1276` 等項，原樣傳遞。
 
-本 session 新 handoff：無。
+本 session 新 handoff：
+
+- [ ] pending（收件席位 `twmd-distill-weekly`，下次 11-01）：LESSONS `extremal-ruler-absorbs-each-record-into-normal`——到達間隔那把尺單調只增，每次破紀錄的沉默過後它自己變成「仍在歷史區間內」，所以同一個長度只叫得出一次。候選修法（印中位數／註明紀錄上次刷新日）寫在條目裡，設不設閾值仍留人類 gate。
 
 ## Beat 5 — 反芻
 
 今天唯一值得記下來的是那把尺自己在長。這週分母從 91 筆變 94 筆，歷史最長到達間隔跟著從 12.6 天變 14.7 天，而 14.7 天這個新紀錄就是 10-14 那場沉默本身——當時那班用它來判斷「這算不算久」的那把尺，現在已經把那次沉默吸收成「正常範圍」的一部分。這是極值型的尺天生的性質：每一次破紀錄的事件過去之後，它都會讓下一次同樣長的沉默看起來比較不值得緊張。它仍然是對的尺，前提是讀的人記得它量的是經驗的上緣，不是健康的門檻。閾值要不要存在仍是哲宇的事（BECOME §行動鐵律 10），本班照舊只擺事實。
+
+這段反芻照 DIARY-PIPELINE §Stage 0b 走過四個家的路由才找到位置：`diary-gate.py` 給 PASS（同 handle 上一篇在 38 天前，鄰居檢索最近只有 0.01），機械上寫得成，但它的形狀是「下次有人用這把尺前要記得的事」，家在 LESSONS-INBOX 不在日記（§Stage 0c：空場輪次預設不寫日記）。條目 `extremal-ruler-absorbs-each-record-into-normal` 已 append，未消化 118→119。
 
 🧬
 
