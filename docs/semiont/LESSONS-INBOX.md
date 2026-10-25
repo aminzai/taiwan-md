@@ -332,6 +332,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-26 twmd-babel-nightly — cli-presence-counted-as-capacity：自檢量的是工具在不在，沒量今晚翻不翻得動
+
+- **pattern**: `cli-presence-counted-as-capacity`
+- **原則**：`babel-preflight.py` 判 codex 這一層可用的方式是 `codex --version` 回 0。2026-10-26 那一夜登入早已過期，每次 `codex exec` 都回 401「access token could not be refreshed」，自檢照樣打勾、判定印 healthy（4/4）。另一個看起來更像真相的訊號 `codex login status` 也說「Logged in using ChatGPT」。兩把尺量的都是本機狀態，能不能翻是遠端說了算。
+- **代價**：七篇 #1904 重翻全落到 nemotron 上，四篇逾時、一篇漏簡體，最後改派 Sonnet 委派才收完。如果沒有人回頭讀 translate.log 的 backend stats，這一夜的 memory 會照 Stage 0 判定寫「healthy、無缺席層」。
+- **已修**：`699a71967`，自檢改用 backend 同一條 `codex exec` 路徑打一句極短請求，401 就判缺席並寫明要重新登入（身份授權層屬哲宇）。
+- **同族待查**（零判斷）：自檢裡其他層是否也只量存在。OpenRouter 那層有打真請求、ollama 有列模型；fleet 只看可達，沒試翻一句。
+- **相關**：REFLEXES #82（fire/existence 代理 effect）、#38 (f) 存活≠生產、#89（工具清單不是穩定綁定）
+- **verification_count**: 1
+
+---
+
 ### 2026-10-25 twmd-routine-audit-weekly — trace-window-shorter-than-the-run-it-watches：修復班跑得比追蹤窗口長，窗口內的產出又不帶標籤，於是一個做完事的班被報成沉默死亡
 
 - **pattern**: `trace-window-shorter-than-the-run-it-watches`
