@@ -80,7 +80,7 @@ Mode 維持 Review：ready PR 只有 2 個（draft 2 不計，per v2.8），沒�
 | open issues 都有 status label / assignee         | ✅ 零個「無 label 且無 assignee」                                      |
 | open PRs ≤ 5d age 都有 review comment            | ✅ #1898 已 merge+回覆、#1888 有 10-22 逐條留言                        |
 | broken-link gated ratio < 7%                     | ✅ **0.08%**（all-langs 0.07%，fresh dist 19,362 頁）                  |
-| build green                                      | 🟡 本機 build 完成 0 錯；main deploy GREEN，contracts RED＝#115 已登記 |
+| build green                                      | 🟡 本機 build 完成 0 錯。main deploy GREEN，contracts RED＝#115 已登記 |
 | BECOME ACK 一行在記憶體頂                        | ✅                                                                     |
 | 連續空場 ≥ 3 cycle 有 LESSONS entry              | ✅ 不適用，本班非空場（vc 歸零）                                       |
 | 有 fresh issue 的 cycle 至少一件被修掉或寫明不修 | ✅ #1890 修掉並 close，#1904 明寫為什麼不修                            |
@@ -99,6 +99,16 @@ Mode 維持 Review：ready PR 只有 2 個（draft 2 不計，per v2.8），沒�
 #1890 是同一個形狀的另一面，而且方向相反。昨天那班把修法收窄得很好，窄到「留給專門做這件事的那一班，不要照通用版做」——那是對的判斷，也救了我：如果我照通用版做，就會在 96 個呼叫點上開縫。但那份寫得很好的 spec 裡的模組清單是憑讀碼列的，不是量的。它點名 tw-figure（實際零腳註），漏了 tw-note 與 tw-quote（實際 212 處），也漏了佔掉九成的那個跨模組來源行。**spec 的判斷力是真的，它的清單是線索**。兩件事湊起來的規則很簡單：交接可以傳遞判斷，不能傳遞測量；接手的人要重驗前提、重跑尺。
 
 還有一件值得記的小事：負控制第一次跑就抓到東西，而它抓到的不是程式的洞，是我自己判準的洞。`_esc` 不動雙引號這個事實，我在寫 `_escText` 的時候明明知道（還為它寫了「不能用在屬性值」的註解），但寫測試判準的時候忘了同一個事實會讓子串比對失效。**同一個知識在實作層用對了，在驗證層用錯了**——這大概是 #69「每層自評都需要外部尺」最小的一個實例：我就是那個外部尺的對象。
+
+---
+
+## 收官 checklist：diary skip 的理由
+
+甦醒時 selftest 亮的那盞「diary 28 天沒有產出」，本班照 [DIARY-PIPELINE](../../pipelines/DIARY-PIPELINE.md) Stage 0 判過，**結論是 skip**，不為了消燈補一篇。
+
+0c 三條裡第一條成立（本班真的動了世界：merge 一個 PR、修掉一個 451 檔的 bug、close 一張票、開一張票、三個 commit），**第二條不成立**：本班那段反芻落在 0b 前三列，而三個家都已經用了。「做了 X 過程中注意到 Y」寫進上面的 Beat 5。「下次遇到要記得」寫成兩條 LESSONS（`spec-carries-judgment-but-its-inventory-is-a-lead`、`same-fact-right-in-the-code-wrong-in-the-assertion`）。而「選項共用的前提沒被驗」這半今天凌晨才 fold 進 REFLEXES #16 的延伸，本班是它的第一個命中，該做的是讓那條延伸多一個 instance，不是另開一篇散文把同一個想法散成兩處（#74 信號通膨）。
+
+所以這盞燈今天的成因是**門檻正在正確運作**，不是反芻被餓死：本班有東西可反芻，而它們各自找到了比日記更對的家。
 
 ---
 
@@ -124,7 +134,7 @@ Mode 維持 Review：ready PR 只有 2 個（draft 2 不計，per v2.8），沒�
 
 - 🔴 **blocked（收件席位：哲宇，只有人做得到）：mouhouse 登入預估 2026-10-26 過期，剩約 1 天**（issue #1892，看門狗今天更新）。這是本班唯一的紅字：登入屬身份授權，§自主權邊界 human 側，缺席協議也不代理。前科是 2026-08-23 權杖過期後**十三條 routine 照時間 fire、`lastRunAt` 照樣更新、然後四天零 git 痕跡**（`reports/mouhouse-blackout-root-cause-2026-09-05.md`、`OBSERVER-QUEUE #49`）。整個飛輪的存續掛在這一個動作上。
 - [ ] pending（收件席位 `twmd-babel-nightly`）：**issue #1904** 七篇譯文的 fence 四撇／遺失開頭，走整篇重翻不走補丁，重翻後用票裡那兩條 grep 確認歸零。
-- [ ] pending（收件席位：Full mode session）：**issue #1904** 的閘門那半——擴 `fence-prose` 判準收四撇與遺失開頭殘行、放開 `format-structure` 的 `APPLIES_TO` 到所有語系。命中 High-stake #2／#3，且**要先清掉 14 處存量才准升 HARD**。
+- [ ] pending（收件席位：Full mode session）：**issue #1904** 的閘門那半，擴 `fence-prose` 判準收四撇與遺失開頭殘行、放開 `format-structure` 的 `APPLIES_TO` 到所有語系。命中 High-stake #2／#3，且**要先清掉 14 處存量才准升 HARD**。
 - [ ] pending（收件席位：Full mode session 或哲宇）：`OBSERVER-QUEUE #115` 兩道 audit 紅仍亮著（repo 根 astro 7.3.1→7.4.x、`workers/mcp` wrangler major）。本班只確認它還紅，照 #74／#80 不重複 escalate。
 
 ---
