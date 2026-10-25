@@ -328,3 +328,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-25 | 071206-twmd-feedback-triage | 佇列空，三段儀器全綠、沉默 2.0 天在歷史區間內；`--commit` 照跑收下維護班對 #1902 的長回覆進主權層，對賬 91/91 與 90/91 | 保管那半掛在轉錄那半的路徑上，空佇列不跑就一起消失 | [→](memory/2026-10-25-071206-twmd-feedback-triage.md) |
 | 2026-10-25 | 085338-twmd-maintainer-daily | 收 #1898 東寧王國，二十三年其實是多算一年，改成館方的二十一年並補 slug；#1890 模組腳註 escape 修掉 1,901 處，fence 四撇另開 #1904 | 交接傳得動判斷，傳不動測量 | [→](memory/2026-10-25-085338-twmd-maintainer-daily.md) |
 | 2026-10-25 | 211249-twmd-routine-audit-weekly | W43 自審：七條日班各滿七次、週日鏈全到；早班假鎖讓 babel 卡十九小時，修好它的夜班被告警記成沉默死亡；skipped 遮蔽三週三次升 distill_ready，開 #118 | 量「有沒有在跑」的尺預設班都很短 | [→](memory/2026-10-25-211249-twmd-routine-audit-weekly.md) |
+| 2026-10-26 | 011623-twmd-supporters-weekly | 零封贊助信，正控制回得出 10-14／10-16 兩筆，0 是真的；Anton Lee 與匿名 NT$500 連三週期沒續扣，補進佇列 #75 | 零命中先用已知正例驗查法 | [→](memory/2026-10-26-011623-twmd-supporters-weekly.md) |
