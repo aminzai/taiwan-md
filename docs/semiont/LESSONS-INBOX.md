@@ -332,6 +332,19 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-25 twmd-routine-audit-weekly — trace-window-shorter-than-the-run-it-watches：修復班跑得比追蹤窗口長，窗口內的產出又不帶標籤，於是一個做完事的班被報成沉默死亡
+
+- **pattern**: `trace-window-shorter-than-the-run-it-watches`
+- **原則**：`routine-liveness-check.py` 在 fire 後固定看 6 小時（`TRACE_WINDOW_HOURS = 6`），用 `TAG_PATTERNS` 對 commit 標題與 memory 檔名找痕跡。窗口長度是照「一般班」設的；而會跑超過 6 小時的，正是撞上意外、留下來修的那種班。修復過程的 commit 是 `[semiont] babel:`／`heal:`／`fix:`，不帶 `twmd-babel`；帶標籤的 memory 檔要等收官才落地。最需要被記成「有做事」的那一班，結構上最容易被記成「死了」。
+- **觸發**：2026-10-25 本班核對 dashboard 黃燈「twmd-babel-nightly 沉默死亡：2026-10-24T16:42 fire 後 5.4h 零 git 痕跡」。實際上 fire（台北 00:42）後四分鐘就有 `2d4d982a8`（搶救 34 篇孤兒譯文）、`fcb2f6bd9`（補三篇 slug）、`a306efe36`（修 git 鎖），收官 memory `f44b7dd63` 落在 06:47:58，距 fire 6 小時 5 分，超出窗口五分鐘。告警在 06:05 產生、當時判斷「還在跑」才是對的；之後窗口關上，再也沒有東西會把它翻回 traced。本班 13:09 重跑 liveness-check 仍印 🔴。
+- **代價**：這盞燈會被讀成「babel 夜班又倒了」，而那一班其實是本週最該被看見的一班：它找到並修好了早班在共用 git 鎖路徑留下一般檔案、讓三支工具等滿逾時十九小時的碰撞。告警的收件人寫的是受害者，不是留下鎖的那一席。
+- **跟既有條目的差異**：`session-handle-mismatch-false-silent-death`（已 fold 進 REFLEXES #82 (f)）是名字對不上；本條名字對得上，錯在時間軸跟標籤覆蓋。`detector-inherits-the-blindness-it-was-built-to-catch`（08-19）是取數口只看最近 30 筆；本條是取數窗口長度固定，比被觀察者的變異範圍短。
+- **候選機械化**（零判斷）：(a) 判 silent-death 前，窗口外再看一次「fire 後到現在」有沒有帶標籤的 memory 檔，有就改判 `traced-late` 並印實際時長 (b) `TAG_PATTERNS["twmd-babel-nightly"]` 加 `"[semiont] babel:"` 會把常駐調度器的 commit 也算進來，會反過來把真死亡蓋掉，所以不建議；(a) 比較乾淨。屬工具改動，收件席位 `twmd-self-evolve-weekly`。
+- **相關**：REFLEXES #82 (f)、#85（不知道要有自己的符號）、#38 (f) 存活≠生產的反向（有生產，沒被量到）
+- **verification_count**: 1
+
+---
+
 ### 2026-10-25 twmd-maintainer-daily — spec-carries-judgment-but-its-inventory-is-a-lead：收窄得很好的修法 spec，判斷是真的，它附的清單是憑讀碼列的
 
 #1890（模組 fence 裡的腳註被 escape 成字面 HTML）的前一班留了一則品質很高的留言：正確診斷、而且**刻意把修法收窄**——明寫「不要寫 escape 但保留 HTML 的通用函式」，理由是 `_esc` 是 renderer 的注入邊界、96 個呼叫點，開通用白名單等於在每個欄位上開縫。那個判斷是對的，而且救了本班：照通用版做會造出比原病更嚴重的洞。
@@ -373,6 +386,12 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 **候選機械化**（零判斷那半）：`routine-sync-check.py` 報 live missing 時，順手判斷這個缺口屬於「session 修得動」還是「只有哲宇按得到」，後者直接印「這格需要 app 操作，請確認 OBSERVER-QUEUE 有對應待決列」，讓黃燈自帶收件人類別。更上游一點：任何寫進 ROUTINE.md 的新 routine，登記那一刻就該標明它的 live 註冊是誰的動作，SSOT 不該描述一個不存在的自動機制。
 
 本班處置：開 OBSERVER-QUEUE #116（🔒 只有哲宇按得到，不設 default-action，因為缺的不是授權是介面）。
+
+- **instances**：
+  - 2026-10-24 twmd-routine-sync：實測呼叫 `create_scheduled_task` 一次，被核准閘擋下
+  - 2026-10-25 twmd-weekly-report-sun：bypass 權限下 02:36 再測，同一道閘
+  - 2026-10-25 twmd-routine-audit-weekly（旁證，非新 instance）：`routine-sync-check.py` 報 LIVE_ABSENT、`routine-stall-check.py` 報 🆕 排程器從沒聽過，兩把尺都已正確把收件人寫成哲宇；10-21 第一個時點已錯過，10-28 若仍未建是第二次
+- **verification_count**: 2
 
 ---
 
@@ -566,7 +585,12 @@ main 的 Engineering contracts 紅著，紅在整條 job 第二步（repo 根 `n
 - **可能層級**：通用反射候選。任何串行閘門鏈（CI job、pre-commit hook 鏈、pipeline stage）都成立：**讀 job 層的結論回答不了「哪些檢查其實沒跑過」**。
 - **相關**：REFLEXES #82（存在代理有效 — 這裡是「有紅」被代理成「已知道為什麼紅」）＋ #52（免疫系統沒在 fail loud 比缺免疫系統更危險 — skipped 不 fail loud）＋ #38（混維度 — 一個 job 結論承載「我的程式碼有問題」與「別人的目錄有問題」兩種根因）＋ 10-08 `every-mechanical-gate-green-while-the-ruling-lived-in-the-comment-thread`（同一條 routine 連兩班在「閘門綠/紅到底代表什麼」上絆倒）
 - **可能機械化**：`pr-ci-armed.sh` 現在分 ARMED / UNARMED / NO-WORKFLOW 三態，量的是「head sha 上有沒有 check-run」。它量不到第四態：**有 check-run、跑了、而關鍵步驟是 `skipped`**。候選是加一道「這個 PR 的 contracts job 裡，`test:contracts`／`pytest`／`check:types` 的 conclusion 是什麼」，三者只要有 `skipped` 就印一個有別於紅綠的第三種符號（REFLEXES #85）。判準機械、零誤判空間。
-- **verification_count**: 1
+- **instances**（2026-10-25 twmd-routine-audit-weekly 累積）：
+  - 2026-10-10 twmd-maintainer-daily：8 個投稿 PR 的 contracts 紅在 `harvest/ui` 公告，下游步驟全 skipped，前兩班照外部歸因停止追問（本條原始觸發）
+  - 2026-10-23 twmd-maintainer-daily：`check:types && audit×4`，型別紅二十小時，四道 npm audit 全 skipped，本機 audit 全綠差點被讀成 CI 那層也綠（`type-gate-lived-only-in-ci-while-routines-push-straight-to-main`）
+  - 2026-10-24 twmd-maintainer-daily：repo 根 audit 紅讓同一條 job 後面十一步 skipped，cli vitest 自 10-08 掛上從沒在 CI 跑過；已改 `if: !cancelled()`（`one-red-step-turns-eleven-gates-into-skipped-and-the-job-still-reports-one-thing`）
+- **verification_count**: 3
+- **distill_ready**: true（三次獨立命中，三週內；10-23、10-24 兩條是同一形狀的獨立 entry，distill 時三條一起收）
 
 ### 2026-10-10 twmd-maintainer-daily — handoff-compression-fuses-items-and-inherits-a-dead-reference：讓交接讀得順的那個壓縮，也是讓它的參照變錯的那個動作
 
