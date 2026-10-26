@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-26T10:58:31+08:00",
-    "zhCommitHead": "8eedbba5b",
+    "lastUpdated": "2026-10-26T11:45:02+08:00",
+    "zhCommitHead": "04ab9703a",
     "totalZh": 1155,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1155,
-        "fresh": 1154,
+        "fresh": 1155,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "ja": {
@@ -36,58 +36,58 @@
       },
       "ko": {
         "total_zh": 1155,
-        "fresh": 1152,
-        "stale": 2,
+        "fresh": 1154,
+        "stale": 1,
         "metadata_stale": 0,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "es": {
         "total_zh": 1155,
-        "fresh": 1152,
-        "stale": 2,
+        "fresh": 1154,
+        "stale": 1,
         "metadata_stale": 0,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1155,
-        "fresh": 1153,
+        "fresh": 1154,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1155,
-        "fresh": 1151,
-        "stale": 3,
+        "fresh": 1153,
+        "stale": 2,
         "metadata_stale": 0,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "id": {
         "total_zh": 1155,
-        "fresh": 1149,
+        "fresh": 1150,
         "stale": 2,
         "metadata_stale": 3,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1155,
-        "fresh": 1153,
+        "fresh": 1154,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1155,
-        "fresh": 1150,
+        "fresh": 1151,
         "stale": 3,
         "metadata_stale": 1,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "ar": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1155,
-        "fresh": 1137,
+        "fresh": 1138,
         "stale": 12,
         "metadata_stale": 5,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       }
     },
@@ -173742,36 +173742,34 @@
         "ko": {
           "path": "ko/Food/school-lunch-reform.md",
           "translatedFrom": "Food/營養午餐.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:7821275263a50042",
-          "sourceBodyHash": "sha256:41f53dec5abc68f4",
-          "translatedAt": "2026-05-07T10:52:18+08:00",
+          "sourceCommitSha": "f3d417898",
+          "sourceContentHash": "sha256:e889129bd92bf0de",
+          "sourceBodyHash": "sha256:80754bec92cf76d2",
+          "translatedAt": "2026-10-26T02:58:56.732683+00:00",
           "translationLastCommit": "3e8c2988",
           "translationLastModified": "2026-10-10T23:27:23+08:00",
           "inferred": false,
-          "footnoteDefs": 47,
-          "bytes": 41436,
+          "footnoteDefs": 49,
+          "bytes": 48955,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (49→47)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Food/school-lunch-reform.md",
           "translatedFrom": "Food/營養午餐.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:7821275263a50042",
-          "sourceBodyHash": "sha256:41f53dec5abc68f4",
-          "translatedAt": "2026-05-07T10:52:19+08:00",
+          "sourceCommitSha": "f3d417898",
+          "sourceContentHash": "sha256:e889129bd92bf0de",
+          "sourceBodyHash": "sha256:80754bec92cf76d2",
+          "translatedAt": "2026-10-26T03:09:56.423847+00:00",
           "translationLastCommit": "0222fce3",
           "translationLastModified": "2026-10-10T23:26:12+08:00",
           "inferred": false,
           "footnoteDefs": 49,
-          "bytes": 50381,
+          "bytes": 59410,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Food/school-lunch-reform.md",
@@ -173780,8 +173778,8 @@
           "sourceContentHash": "sha256:e889129bd92bf0de",
           "sourceBodyHash": "sha256:80754bec92cf76d2",
           "translatedAt": "2026-10-26T01:16:56.752649+00:00",
-          "translationLastCommit": "15a71af5",
-          "translationLastModified": "2026-10-10T23:26:29+08:00",
+          "translationLastCommit": "04ab9703",
+          "translationLastModified": "2026-10-26T10:58:32+08:00",
           "inferred": false,
           "footnoteDefs": 49,
           "bytes": 58261,
@@ -173792,18 +173790,18 @@
         "vi": {
           "path": "vi/Food/school-lunch-reform.md",
           "translatedFrom": "Food/營養午餐.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:7821275263a50042",
-          "sourceBodyHash": "sha256:41f53dec5abc68f4",
-          "translatedAt": "2026-08-09T11:16:34+08:00",
+          "sourceCommitSha": "f3d417898",
+          "sourceContentHash": "sha256:e889129bd92bf0de",
+          "sourceBodyHash": "sha256:80754bec92cf76d2",
+          "translatedAt": "2026-10-26T03:28:42.674041+00:00",
           "translationLastCommit": "a3ec9a54",
           "translationLastModified": "2026-10-10T23:43:08+08:00",
           "inferred": false,
-          "footnoteDefs": 47,
-          "bytes": 61313,
+          "footnoteDefs": 49,
+          "bytes": 66175,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (49→47)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Food/school-lunch-reform.md",
@@ -204818,7 +204816,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Geography/xiluo-township.md",
+          "translatedFrom": "Geography/西螺鎮.md",
+          "sourceCommitSha": "405047083",
+          "sourceContentHash": "sha256:2bd61f7a92e15ec0",
+          "sourceBodyHash": "sha256:fd332043a1df0015",
+          "translatedAt": "2026-10-26T11:16:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "bytes": 14628,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Geography/xiluo-township.md",
@@ -204837,25 +204848,116 @@
           "reason": "same-commit"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Geography/xiluo-township.md",
+          "translatedFrom": "Geography/西螺鎮.md",
+          "sourceCommitSha": "405047083",
+          "sourceContentHash": "sha256:2bd61f7a92e15ec0",
+          "sourceBodyHash": "sha256:fd332043a1df0015",
+          "translatedAt": "2026-10-26T11:16:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "bytes": 16195,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Geography/xiluo-township.md",
+          "translatedFrom": "Geography/西螺鎮.md",
+          "sourceCommitSha": "405047083",
+          "sourceContentHash": "sha256:2bd61f7a92e15ec0",
+          "sourceBodyHash": "sha256:fd332043a1df0015",
+          "translatedAt": "2026-10-26T11:16:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "bytes": 16411,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Geography/xiluo-township.md",
+          "translatedFrom": "Geography/西螺鎮.md",
+          "sourceCommitSha": "405047083",
+          "sourceContentHash": "sha256:2bd61f7a92e15ec0",
+          "sourceBodyHash": "sha256:fd332043a1df0015",
+          "translatedAt": "2026-10-26T11:16:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "bytes": 16422,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Geography/xiluo-township.md",
+          "translatedFrom": "Geography/西螺鎮.md",
+          "sourceCommitSha": "405047083",
+          "sourceContentHash": "sha256:2bd61f7a92e15ec0",
+          "sourceBodyHash": "sha256:fd332043a1df0015",
+          "translatedAt": "2026-10-26T03:21:32.208696+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "bytes": 18348,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/xiluo-township.md",
+          "translatedFrom": "Geography/西螺鎮.md",
+          "sourceCommitSha": "405047083",
+          "sourceContentHash": "sha256:2bd61f7a92e15ec0",
+          "sourceBodyHash": "sha256:fd332043a1df0015",
+          "translatedAt": "2026-10-26T11:16:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "bytes": 16676,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/xiluo-township.md",
+          "translatedFrom": "Geography/西螺鎮.md",
+          "sourceCommitSha": "405047083",
+          "sourceContentHash": "sha256:2bd61f7a92e15ec0",
+          "sourceBodyHash": "sha256:fd332043a1df0015",
+          "translatedAt": "2026-10-26T11:16:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "bytes": 16199,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/xiluo-township.md",
+          "translatedFrom": "Geography/西螺鎮.md",
+          "sourceCommitSha": "405047083",
+          "sourceContentHash": "sha256:2bd61f7a92e15ec0",
+          "sourceBodyHash": "sha256:fd332043a1df0015",
+          "translatedAt": "2026-10-26T03:31:05.738357+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "bytes": 33821,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Geography/xiluo-township.md",
@@ -204890,7 +204992,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/xiluo-township.md",
+          "translatedFrom": "Geography/西螺鎮.md",
+          "sourceCommitSha": "405047083",
+          "sourceContentHash": "sha256:2bd61f7a92e15ec0",
+          "sourceBodyHash": "sha256:fd332043a1df0015",
+          "translatedAt": "2026-10-26T11:16:09+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "bytes": 15840,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
