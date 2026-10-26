@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-26T13:24:20+08:00",
-    "zhCommitHead": "a52158fc9",
+    "lastUpdated": "2026-10-27T06:12:35+08:00",
+    "zhCommitHead": "7c05672e4",
     "totalZh": 1155,
     "activeLanguages": [
       "en",
@@ -92,8 +92,8 @@
       },
       "ar": {
         "total_zh": 1155,
-        "fresh": 1154,
-        "stale": 1,
+        "fresh": 1155,
+        "stale": 0,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -173794,8 +173794,8 @@
           "sourceContentHash": "sha256:e889129bd92bf0de",
           "sourceBodyHash": "sha256:80754bec92cf76d2",
           "translatedAt": "2026-10-26T03:28:42.674041+00:00",
-          "translationLastCommit": "a3ec9a54",
-          "translationLastModified": "2026-10-10T23:43:08+08:00",
+          "translationLastCommit": "7c05672e",
+          "translationLastModified": "2026-10-26T13:24:20+08:00",
           "inferred": false,
           "footnoteDefs": 49,
           "bytes": 66175,
@@ -173854,18 +173854,18 @@
         "ar": {
           "path": "ar/Food/school-lunch-reform.md",
           "translatedFrom": "Food/營養午餐.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:7821275263a50042",
-          "sourceBodyHash": "sha256:41f53dec5abc68f4",
-          "translatedAt": "2026-08-04T06:18:11+08:00",
+          "sourceCommitSha": "f3d417898",
+          "sourceContentHash": "sha256:e889129bd92bf0de",
+          "sourceBodyHash": "sha256:80754bec92cf76d2",
+          "translatedAt": "2026-10-26T21:21:54.102308+00:00",
           "translationLastCommit": "5b0f4129",
           "translationLastModified": "2026-10-10T23:03:20+08:00",
           "inferred": false,
-          "footnoteDefs": 47,
-          "bytes": 69541,
+          "footnoteDefs": 49,
+          "bytes": 70469,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (49→47)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Food/school-lunch-reform.md",
@@ -204902,11 +204902,11 @@
           "sourceContentHash": "sha256:2bd61f7a92e15ec0",
           "sourceBodyHash": "sha256:fd332043a1df0015",
           "translatedAt": "2026-10-26T03:21:32.208696+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7c05672e",
+          "translationLastModified": "2026-10-26T13:24:20+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 18348,
+          "bytes": 18350,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
