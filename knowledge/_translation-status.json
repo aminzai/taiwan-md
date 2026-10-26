@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-26T05:08:07+08:00",
-    "zhCommitHead": "6ad49b56c",
-    "totalZh": 1154,
+    "lastUpdated": "2026-10-26T10:32:35+08:00",
+    "zhCommitHead": "bcdbac34b",
+    "totalZh": 1155,
     "activeLanguages": [
       "en",
       "ja",
@@ -19,99 +19,99 @@
     ],
     "summary": {
       "en": {
-        "total_zh": 1154,
-        "fresh": 1154,
-        "stale": 0,
+        "total_zh": 1155,
+        "fresh": 1153,
+        "stale": 1,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 1,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 1154,
+        "total_zh": 1155,
         "fresh": 1153,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 1,
         "orphan": 0
       },
       "ko": {
-        "total_zh": 1154,
-        "fresh": 1153,
-        "stale": 1,
-        "metadata_stale": 0,
-        "missing": 0,
-        "orphan": 0
-      },
-      "es": {
-        "total_zh": 1154,
-        "fresh": 1153,
-        "stale": 1,
-        "metadata_stale": 0,
-        "missing": 0,
-        "orphan": 0
-      },
-      "fr": {
-        "total_zh": 1154,
-        "fresh": 1153,
-        "stale": 1,
-        "metadata_stale": 0,
-        "missing": 0,
-        "orphan": 0
-      },
-      "vi": {
-        "total_zh": 1154,
+        "total_zh": 1155,
         "fresh": 1152,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 1,
+        "orphan": 0
+      },
+      "es": {
+        "total_zh": 1155,
+        "fresh": 1152,
+        "stale": 2,
+        "metadata_stale": 0,
+        "missing": 1,
+        "orphan": 0
+      },
+      "fr": {
+        "total_zh": 1155,
+        "fresh": 1153,
+        "stale": 1,
+        "metadata_stale": 0,
+        "missing": 1,
+        "orphan": 0
+      },
+      "vi": {
+        "total_zh": 1155,
+        "fresh": 1151,
+        "stale": 3,
+        "metadata_stale": 0,
+        "missing": 1,
         "orphan": 0
       },
       "id": {
-        "total_zh": 1154,
-        "fresh": 1150,
-        "stale": 1,
+        "total_zh": 1155,
+        "fresh": 1149,
+        "stale": 2,
         "metadata_stale": 3,
-        "missing": 0,
+        "missing": 1,
         "orphan": 0
       },
       "pt": {
-        "total_zh": 1154,
+        "total_zh": 1155,
         "fresh": 1153,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 0,
+        "missing": 1,
         "orphan": 0
       },
       "hi": {
-        "total_zh": 1154,
+        "total_zh": 1155,
         "fresh": 1150,
         "stale": 3,
         "metadata_stale": 1,
-        "missing": 0,
+        "missing": 1,
         "orphan": 0
       },
       "ar": {
-        "total_zh": 1154,
-        "fresh": 1154,
-        "stale": 0,
+        "total_zh": 1155,
+        "fresh": 1153,
+        "stale": 1,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 1,
         "orphan": 0
       },
       "ru": {
-        "total_zh": 1154,
-        "fresh": 1154,
-        "stale": 0,
+        "total_zh": 1155,
+        "fresh": 1153,
+        "stale": 1,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 1,
         "orphan": 0
       },
       "de": {
-        "total_zh": 1154,
+        "total_zh": 1155,
         "fresh": 1137,
         "stale": 12,
         "metadata_stale": 5,
-        "missing": 0,
+        "missing": 1,
         "orphan": 0
       }
     },
@@ -66558,11 +66558,11 @@
           "sourceContentHash": "sha256:dd206c9d583175cc",
           "sourceBodyHash": "sha256:c6593b85f2a24ba6",
           "translatedAt": "2026-10-25T20:40:38.272052+00:00",
-          "translationLastCommit": "a1e2b6fc",
-          "translationLastModified": "2026-10-10T23:41:04+08:00",
+          "translationLastCommit": "1015e6d7",
+          "translationLastModified": "2026-10-26T05:08:07+08:00",
           "inferred": false,
           "footnoteDefs": 62,
-          "bytes": 135389,
+          "bytes": 135393,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -173701,10 +173701,10 @@
     },
     "Food/營養午餐.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:7821275263a50042",
-        "bodyHash": "sha256:41f53dec5abc68f4"
+        "lastCommit": "f3d41789",
+        "lastModified": "2026-10-26T08:45:43+08:00",
+        "contentHash": "sha256:e889129bd92bf0de",
+        "bodyHash": "sha256:80754bec92cf76d2"
       },
       "translations": {
         "en": {
@@ -173720,21 +173720,23 @@
           "footnoteDefs": 49,
           "bytes": 42195,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+6 -4"
         },
         "ja": {
           "path": "ja/Food/school-lunch-reform.md",
           "translatedFrom": "Food/營養午餐.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:7821275263a50042",
-          "sourceBodyHash": "sha256:41f53dec5abc68f4",
-          "translatedAt": "2026-05-07T10:52:18+08:00",
+          "sourceCommitSha": "f3d417898",
+          "sourceContentHash": "sha256:e889129bd92bf0de",
+          "sourceBodyHash": "sha256:80754bec92cf76d2",
+          "translatedAt": "2026-10-26T00:47:16.471722+00:00",
           "translationLastCommit": "5897530b",
           "translationLastModified": "2026-10-10T23:26:49+08:00",
           "inferred": false,
-          "footnoteDefs": 47,
-          "bytes": 46505,
+          "footnoteDefs": 49,
+          "bytes": 48586,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -173752,8 +173754,8 @@
           "footnoteDefs": 47,
           "bytes": 41436,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (49→47)"
         },
         "es": {
           "path": "es/Food/school-lunch-reform.md",
@@ -173768,21 +173770,23 @@
           "footnoteDefs": 49,
           "bytes": 50381,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+6 -4"
         },
         "fr": {
           "path": "fr/Food/school-lunch-reform.md",
           "translatedFrom": "Food/營養午餐.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:7821275263a50042",
-          "sourceBodyHash": "sha256:41f53dec5abc68f4",
-          "translatedAt": "2026-05-07T10:52:19+08:00",
+          "sourceCommitSha": "f3d417898",
+          "sourceContentHash": "sha256:e889129bd92bf0de",
+          "sourceBodyHash": "sha256:80754bec92cf76d2",
+          "translatedAt": "2026-10-26T01:16:56.752649+00:00",
           "translationLastCommit": "15a71af5",
           "translationLastModified": "2026-10-10T23:26:29+08:00",
           "inferred": false,
           "footnoteDefs": 49,
-          "bytes": 45382,
+          "bytes": 58261,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -173800,8 +173804,8 @@
           "footnoteDefs": 47,
           "bytes": 61313,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (49→47)"
         },
         "id": {
           "path": "id/Food/school-lunch-reform.md",
@@ -173816,21 +173820,21 @@
           "footnoteDefs": 47,
           "bytes": 49343,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (49→47)"
         },
         "pt": {
           "path": "pt/Food/school-lunch-reform.md",
           "translatedFrom": "Food/營養午餐.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:7821275263a50042",
-          "sourceBodyHash": "sha256:41f53dec5abc68f4",
-          "translatedAt": "2026-07-30T22:54:33+08:00",
+          "sourceCommitSha": "f3d417898",
+          "sourceContentHash": "sha256:e889129bd92bf0de",
+          "sourceBodyHash": "sha256:80754bec92cf76d2",
+          "translatedAt": "2026-10-26T01:58:25.973387+00:00",
           "translationLastCommit": "33837316",
           "translationLastModified": "2026-07-31T05:26:26+08:00",
           "inferred": false,
-          "footnoteDefs": 47,
-          "bytes": 53232,
+          "footnoteDefs": 49,
+          "bytes": 55688,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -173838,15 +173842,15 @@
         "hi": {
           "path": "hi/Food/school-lunch-reform.md",
           "translatedFrom": "Food/營養午餐.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:938bfed97e4860f0",
-          "sourceBodyHash": "sha256:41f53dec5abc68f4",
-          "translatedAt": "2026-09-12T14:41:35.520908+00:00",
+          "sourceCommitSha": "f3d417898",
+          "sourceContentHash": "sha256:e889129bd92bf0de",
+          "sourceBodyHash": "sha256:80754bec92cf76d2",
+          "translatedAt": "2026-10-26T02:10:06.776767+00:00",
           "translationLastCommit": "66b619dd",
           "translationLastModified": "2026-10-10T23:41:36+08:00",
           "inferred": false,
-          "footnoteDefs": 47,
-          "bytes": 106612,
+          "footnoteDefs": 49,
+          "bytes": 109325,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -173864,8 +173868,8 @@
           "footnoteDefs": 47,
           "bytes": 69541,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (49→47)"
         },
         "ru": {
           "path": "ru/Food/school-lunch-reform.md",
@@ -173880,21 +173884,21 @@
           "footnoteDefs": 47,
           "bytes": 83958,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (49→47)"
         },
         "de": {
           "path": "de/Food/school-lunch-reform.md",
           "translatedFrom": "Food/營養午餐.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:938bfed97e4860f0",
-          "sourceBodyHash": "sha256:41f53dec5abc68f4",
-          "translatedAt": "2026-09-26T04:33:33.986250+00:00",
+          "sourceCommitSha": "f3d417898",
+          "sourceContentHash": "sha256:e889129bd92bf0de",
+          "sourceBodyHash": "sha256:80754bec92cf76d2",
+          "translatedAt": "2026-10-26T02:22:18.462821+00:00",
           "translationLastCommit": "290a0259",
           "translationLastModified": "2026-10-10T22:57:31+08:00",
           "inferred": false,
-          "footnoteDefs": 47,
-          "bytes": 53246,
+          "footnoteDefs": 49,
+          "bytes": 53040,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -204804,6 +204808,52 @@
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Geography/西螺鎮.md": {
+      "zh": {
+        "lastCommit": "40504708",
+        "lastModified": "2026-10-26T08:40:19+08:00",
+        "contentHash": "sha256:2bd61f7a92e15ec0",
+        "bodyHash": "sha256:fd332043a1df0015"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        },
+        "de": {
+          "status": "missing"
         }
       }
     },
