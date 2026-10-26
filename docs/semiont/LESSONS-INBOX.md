@@ -332,6 +332,15 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-26 twmd-maintainer-daily — hand-built-target-makes-the-official-check-silently-see-nothing：官方檢查器被手工餵入時不會報錯，它報「乾淨」
+
+- **pattern**: `hand-built-target-makes-the-official-check-silently-see-nothing`
+- **原則**：要把一支 `article_health` 的 check 掃過全部十三語時，`article-health.py --all` 只掃 zh-TW，所以本班自己寫了一支掃描器 import 那個 check 模組、手工 `FileTarget(path, text)` 餵進去。它對全庫 15,124 檔回報 **0 個孤兒腳註**——而同一天官方 CLI 對同一批檔案報 192 處。手工建的 target 少了 CLI 那一層會做的解析（frontmatter 剝除、body 切分），check 拿到的東西讓它什麼都比對不到，於是它**不是丟例外，是回報全綠**。
+- **代價**：那個 0 跟「三天內從 752 清到零」這個當時很合理的故事完全相容。接住它的不是任何閘門，是手工造了一個壞檔當正控制（REFLEXES #99）——正控制讓官方尺叫了、我的尺沒叫，差異才現形。如果當班跳過正控制，今天的 maintainer 報告會寫「#1891 已清零，可以 close」，而讀者眼前還有 192 個點不到的方括號。
+- **為什麼它特別容易發生**：`--all` 的語意是「全部」，而它的實作是「全部 zh-TW」。十三語的量測需求每隔幾天就出現一次（#1891 腳註、#1904 fence、簡體殘留、UI 語言），每一次都會把當班推向自己寫一支。推力在工具的缺口上，不在當班的紀律上。
+- **候選機械化**：(a) `article-health.py` 加一個把全部語言納進來的 sweep 旗標（或讓 `--all` 收 `--lang all`），讓這類量測不必自建；(b) `FileTarget` 在缺少已解析 body 時 raise，不要讓手工建構的物件安靜地通過——fail-loud 勝過回報乾淨（REFLEXES #52）。
+- **對應**：REFLEXES #99（尺先驗再用，0 命中先過正控制）第 N 次驗證＋#85（「不知道」要有自己的符號，而這裡「量不到」被印成「沒有」）。
+
 ### 2026-10-26 twmd-babel-nightly — cli-presence-counted-as-capacity：自檢量的是工具在不在，沒量今晚翻不翻得動
 
 - **pattern**: `cli-presence-counted-as-capacity`
