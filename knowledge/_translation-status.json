@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-27T06:12:35+08:00",
-    "zhCommitHead": "7c05672e4",
+    "lastUpdated": "2026-10-27T17:07:45+08:00",
+    "zhCommitHead": "bc85bf356",
     "totalZh": 1155,
     "activeLanguages": [
       "en",
@@ -84,8 +84,8 @@
       },
       "hi": {
         "total_zh": 1155,
-        "fresh": 1151,
-        "stale": 3,
+        "fresh": 1152,
+        "stale": 2,
         "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
@@ -66536,20 +66536,18 @@
         "hi": {
           "path": "hi/Society/medical-care-act.md",
           "translatedFrom": "Society/醫療法.md",
-          "sourceCommitSha": "21298a7ae",
-          "sourceContentHash": "sha256:a87fc88d09f6e189",
-          "sourceBodyHash": "sha256:3a7e69bdd14827b6",
-          "translatedAt": "2026-09-18T03:18:05.037267+00:00",
+          "sourceCommitSha": "bf8f59be7",
+          "sourceContentHash": "sha256:dd206c9d583175cc",
+          "sourceBodyHash": "sha256:c6593b85f2a24ba6",
+          "translatedAt": "2026-10-27T08:47:09.761890+00:00",
           "translationLastCommit": "66b619dd",
           "translationLastModified": "2026-10-10T23:41:36+08:00",
           "inferred": false,
           "footnoteDefs": 62,
-          "bytes": 189456,
+          "bytes": 196091,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/medical-care-act.md",
@@ -173858,8 +173856,8 @@
           "sourceContentHash": "sha256:e889129bd92bf0de",
           "sourceBodyHash": "sha256:80754bec92cf76d2",
           "translatedAt": "2026-10-26T21:21:54.102308+00:00",
-          "translationLastCommit": "5b0f4129",
-          "translationLastModified": "2026-10-10T23:03:20+08:00",
+          "translationLastCommit": "bc85bf35",
+          "translationLastModified": "2026-10-27T06:12:36+08:00",
           "inferred": false,
           "footnoteDefs": 49,
           "bytes": 70469,
